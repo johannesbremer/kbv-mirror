@@ -46,7 +46,7 @@ Seite 2 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ## EINLEITUNG ZU SDOPS
 
-Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen- und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
+Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen-und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
 
 Die Aktualisierung der Stammdatei erfolgt in Abhängigkeit der Änderungen des DIMDIs bzw. durch Beschlüsse des Bewertungsausschusses.
 

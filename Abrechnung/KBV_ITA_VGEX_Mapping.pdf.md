@@ -1289,7 +1289,7 @@ Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der 
 | tag ‚91‘ |  | 8 | n | TTMMJJJJ | ➔ | 4109 | Einlesedatum |  | 8 | n | JJJJMMTT |
 | tag ‚92‘ |  | 27 | a | 123xyzX.Y.Z | ➔ | 4108 | Zulassungsnummer |  | ≤ 40 | a | 123xyzX.Y.Z |
 
-West Mobiles Einsatzszenario Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an MOBILES KARTENTERMINAL Feld L Ausprägung EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ tag ‚92‘ 27 TTMMJJJJ 123xyzX.Y.Z VSD520 KVDTVSD520 Transformation FK Name 4109 Einlesedatum L
+West Mobiles Einsatzszenario Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an MOBILES KARTENTERMINAL Feld L Ausprägung EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ tag ‚92‘ TTMMJJJJ 27 123xyzX.Y.Z VSD520 KVDTVSD520 Transformation FK Name 4109 Einlesedatum L
 
 ---
 
@@ -1301,6 +1301,41 @@ Vorgegeben sind die Monotype-Schriftarten Courier bzw. Courier New. Bei Einsatz 
 
 ### 2.3.2 Musterbeispiel für die Bedruckung des Personalienfeldes
 
+```
+123456789012345678901234567890
+```
+
+Krankenkasse bzw. Kostenträger
+
+```
+Testort-Musterkasse/SVA 72
+```
+
+Mustermann-Müller geb. am
+
+```
+Prof. Dr. Johann von 20.10.25
+Musterweg 6  D 12345 Musterhausen 12/20
+```
+
+Kostenträgerkennung Versicherten-Nr.
+
+Status
+
+```
+101234567 A123456789  5080201
+```
+
+Betriebsstätten-Nr. Arzt-Nr
+
+Datum
+
+```
+123456789 123456499 01.10.16
+```
+
+Abbildung 2: eGK-konforme Bedruckung des Personalienfelds
+
 ## ERLÄUTERUNGEN:
 
 Zeile 1: KostentraegerName (inkl. KTAB-Kürzel für Besondere Personengruppen gemäß Kostenträgerstammdatei der KBV), WOP
@@ -1311,44 +1346,7 @@ Zeile 3: Titel, Vorname, Namenszusatz, Vorsatzwort (Verlängerung des nutzbaren 
 
 Zeile 4: Straßenname, Hausnummer
 
-Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz
-
-```
-123456789012345678901234567890
-```
-
-Krankenkasse bzw. Kostenträger
-
-```
-Testort-Musterkasse/SVA 72
-Mustermann-Müller
-Prof. Dr. Johann von 20.10.25
-Musterweg 6  D 12345 Musterhausen 12/20
-```
-
-Kostenträgerkennung Versicherten-Nr.
-
-```
-101234567 A123456789
-```
-
-Betriebsstätten-Nr. Arzt-Nr
-
-```
-123456789 123456499 01.10.16
-```
-
-Abbildung 2: eGK-konforme Bedruckung des Personalienfelds -Ende
-
-geb. am
-
-Status
-
-```
-5080201
-```
-
-Datum
+Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
 
 reihung der einzelnen  weiligen Druckzeile nicht zu überschreiten,
 n.

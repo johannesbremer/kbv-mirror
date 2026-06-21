@@ -38,6 +38,24 @@
 
 **Datum**
 
+## Verordnung bei Überweisung zur
+
+**28**
+
+## Indikationsstellung für Soziotherapie gemäß § 37a SGB V im Umfang von maximal 5 Therapieeinheiten
+
+**Diagnose**
+
+***(ICD-10-Code***
+
+**Erkrankung besteht seit (falls bekannt)**
+
+**ist nicht** **ausführbar**
+
+**Datum**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
+
 **Bemerkungen zur Abrechnung** **Ich versichere, dass ich die aufgeführten Leistungen persönlich erbracht habe und bitte** **um Überweisung des vertraglich vereinbarten Betrages auf folgendes Konto**
 
 **Kontoinhaber**
@@ -46,34 +64,18 @@
 
 **BIC**
 
-***Diese Ausfertigung ist vom soziotherapeutischen Lei*** ***an die Krankenkasse weiterzuleiten!***
+**Geldinstitut**
+
+***Diese Ausfertigung ist vom soziotherapeutischen Leistungserbringer***
+
+**Datum**
+
+***an die Krankenkasse weiterzuleiten!***
 
 **Ausfertigung für die Krankenkasse**
 
 **PRF.NR.** **Muster 28a/E(10.2017)**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-## Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie gemäß § 37a SGB V im Umfang von maximal 5 Therapieeinheiten
-
-**Diagnose**
-
-***(ICD-10-Code***
-
-**Erkrankung besteht seit (falls bekannt)**
-
-**Geldinstitut**
-
-***stungserbringer***
-
-**ist nicht** **ausführbar**
-
-**Datum**
-
-**Datum**
-
-**28**
-
-**Vertragsarztstempel / Unterschrift des Arztes**
 
 **Stempel und Unterschrift** **des soziotherapeutischen Leistungserbringers**

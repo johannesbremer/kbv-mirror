@@ -1,6 +1,6 @@
 **Codierungsziffern – Stand 4. Quartal 2013:**
 
-zu den Versichertenpauschalen in Kapitel 3 und Kapitel 4 (ohne Bewertung) gibt es  Zusatznummern (mit Bewertung), die in Abhängigkeit vom Patientenalter umzuset- zen sind. Ferner gibt es bundeseinheitliche Gebührenordnungspositionen mit ange- hängtem Buchstaben für abweichende Vergütung (Aufschlag/Abschlag) bei unter- schiedlichen Sachverhalten, die im Einheitlichen Bewertungsmaßstab (EBM) geregelt  sind. Die Information über die regionale Verwendung obliegt den Kassenärztlichen  Vereinigungen.
+zu den Versichertenpauschalen in Kapitel 3 und Kapitel 4 (ohne Bewertung) gibt es  Zusatznummern (mit Bewertung), die in Abhängigkeit vom Patientenalter umzuset-zen sind. Ferner gibt es bundeseinheitliche Gebührenordnungspositionen mit ange-hängtem Buchstaben für abweichende Vergütung (Aufschlag/Abschlag) bei unter-schiedlichen Sachverhalten, die im Einheitlichen Bewertungsmaßstab (EBM) geregelt  sind. Die Information über die regionale Verwendung obliegt den Kassenärztlichen  Vereinigungen.
 
 | Buchstabe | Steht für den Sachverhalt |
 |---|---|

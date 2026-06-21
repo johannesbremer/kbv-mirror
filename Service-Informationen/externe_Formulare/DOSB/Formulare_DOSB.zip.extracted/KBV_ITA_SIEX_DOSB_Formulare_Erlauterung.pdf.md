@@ -50,7 +50,7 @@ Bei inhaltlichen Fragen zum Rezept für Bewegung wenden Sie sich bitte direkt an
 Die beiden vorliegenden Formulare Rezept_für_Bewegung-SpG und Rezept_Kinder_Deutsche  Sportjugend sind Empfehlung von Bewegung gemäß nationalen Bewegungsempfehlungen als freiwillige  Präventionsleistung, differenziert nach Kinder- und Erwachsenenvariante:
 
 - Das Formular für Kinder enthält die folgenden Informationen:  Hinweise zu Alltagsbewegung, Sport und Bewegung im Verein sowie Schwimmtauglichkeit;
-- Das Formular für Erwachsene enthält die folgenden Informationen:  Hinweise zu individuellen Bewegungsschwerpunkten, z. B. Herz-Kreislauf-System, Muskel-Skelett- System), Beide Varianten sind mit Verweis auf wohnortnahe Bewegungsangebote  (Bewegungslandkarte)
+- Das Formular für Erwachsene enthält die folgenden Informationen:  Hinweise zu individuellen Bewegungsschwerpunkten, z. B. Herz-Kreislauf-System, Muskel-Skelett-System), Beide Varianten sind mit Verweis auf wohnortnahe Bewegungsangebote  (Bewegungslandkarte)
 
 Kontakt:
 

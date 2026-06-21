@@ -442,7 +442,7 @@ XML-Code 7: name
 
 Das Element ***<bewertung>*** beinhaltet die möglichen Fallpauschalen einer Hybrid-DRG gemäß der Anlage 2 der  Hybrid-DRG-Vergütungsvereinbarung für das jeweilige Jahr gemäß Gültigkeitszeitraum 2025.
 
-Diese Vereinbarung legt unterschiedliche Hybrid-DRG-Pauschalen in Abhängigkeit davon fest, ob die  postoperative Nachbehandlung durch das die Leistung gemäß Anlage 1 zur Hybrid-DRG- Vergütungsvereinbarung durchführende Krankenhaus erfolgt oder durch den Vertragsarzt.
+Diese Vereinbarung legt unterschiedliche Hybrid-DRG-Pauschalen in Abhängigkeit davon fest, ob die  postoperative Nachbehandlung durch das die Leistung gemäß Anlage 1 zur Hybrid-DRG-Vergütungsvereinbarung durchführende Krankenhaus erfolgt oder durch den Vertragsarzt.
 
 Krankenhäuser, die sowohl eine Leistung gemäß Anlage 1 als auch die postoperative Nachbehandlung  durchführen, rechnen dafür die jeweils um 30,00 € erhöhte Fallpauschale ab. Sobald Vertragsärzte die  postoperative Nachbehandlung durchführen, gilt der Grundpreis der Hybrid-DRG-Pauschale, weil dann die  postoperative Nachbehandlung gesondert über Gebührenordnungspositionen des Einheitlichen  Bewertungsmaßstabes berechnet wird. Die Fallpauschalen werden dementsprechend durch die  Kindelemente ***<ohne_postoperativ>*** bei Durchführung der postoperativen Nachbehandlung durch den  Vertragsarzt und ***<mit_postoperativ>*** bei Durchführung der postoperativen Nachbehandlung durch das  Krankenhaus abgebildet. Das Element ***<bewertung>*** besitzt mindestens das Kindelement ***<ohne_postoperativ>***
 
@@ -479,7 +479,7 @@ XML-Code 9: ohne_postoperativ
 
 #### 5.3.1.4 mit_postoperativ
 
-Das Element ***<mit_postoperativ>*** enthält die Fallpauschale im Sinne der Leistungsabrechnung, wenn die  postoperative Nachbehandlung durch das die Leistung gemäß Anlage 1 zur Hybrid-DRG- Vergütungsvereinbarung durchführende Krankenhaus erfolgt. Im V-Attribut ist der numerische Wert der  Fallpauschale enthalten. Im U-Attribut wird die Einheit gemäß der Schlüsseltabelle S_KBV_VALUTAEINHEIT  mit dem Wert 2 (Euro) angegeben. Im S-Attribut ist der Festwert 1.2.276.0.76.5.236 für die OID der  Schlüsseltabelle S_KBV_VALUTAEINHEIT angegeben.
+Das Element ***<mit_postoperativ>*** enthält die Fallpauschale im Sinne der Leistungsabrechnung, wenn die  postoperative Nachbehandlung durch das die Leistung gemäß Anlage 1 zur Hybrid-DRG-Vergütungsvereinbarung durchführende Krankenhaus erfolgt. Im V-Attribut ist der numerische Wert der  Fallpauschale enthalten. Im U-Attribut wird die Einheit gemäß der Schlüsseltabelle S_KBV_VALUTAEINHEIT  mit dem Wert 2 (Euro) angegeben. Im S-Attribut ist der Festwert 1.2.276.0.76.5.236 für die OID der  Schlüsseltabelle S_KBV_VALUTAEINHEIT angegeben.
 
 Abbildung 10: mit_postoperativ
 
@@ -513,7 +513,7 @@ XML Code 11: ops_liste
 
 ### 5.4.1 ops
 
-Das Element ***<ops >*** bildet die einzelnen OPS-Kodes ab. Das V-Attribut enthält den Klassentitel des OPS- Kodes.
+Das Element ***<ops >*** bildet die einzelnen OPS-Kodes ab. Das V-Attribut enthält den Klassentitel des OPS-Kodes.
 
 Das Element ***<ops >*** kann das Element ***<hinweis>*** enthalten.
 

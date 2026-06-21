@@ -41,7 +41,8 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 
 1 Ohne den prophylaktischen Einsatz vor geplanter sportlicher Betätigung
 
-Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas
+Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas 
+
 
 ---
 
@@ -101,8 +102,8 @@ Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindesten
 ---
 
 - **Häufiger als 2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient  gemäß ihrer bzw. seiner Einschätzung jede Woche an mehr als zwei Tagen angibt, seine  Asthma-spezifische Bedarfsmedikation verwendet zu haben.
-- **„2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an zwei Tagen angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
-- **1 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an einem Tag angibt, ihre bzw. seine Asthma- spezifische Bedarfsmedikation verwendet zu haben.
+- **„2 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an zwei Tagen angibt, ihre bzw. seine Asthma-spezifische Bedarfsmedikation verwendet zu haben.
+- **1 mal wöchentlich**“ geben Sie bitte an, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer  bzw. seiner Einschätzung jede Woche an einem Tag angibt, ihre bzw. seine Asthma-spezifische Bedarfsmedikation verwendet zu haben.
 - **< 1 mal wöchentlich**“ ist anzugeben, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw.  seiner Einschätzung in 3 unterschiedlichen Wochen an maximal einem Tag pro Woche angibt,  ihre bzw. seine Asthma-spezifische Bedarfsmedikation verwendet zu haben.
 - **Keine**“ ist anzukreuzen, wenn Ihre Patientin bzw. Ihr Patient gemäß ihrer bzw. seiner  Einschätzung keine Asthma-spezifische Bedarfsmedikation verwendet.
 
@@ -151,7 +152,7 @@ Die Angaben „Bei Bedarf“ und „Dauermedikation“ sind gemeinsam möglich.
 
 Vorrangig sollen unter Berücksichtigung  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien diejenigen Wirkstoffe oder Wirkstoffgruppen oder Kombinationen bevorzugt werden, die diesbezüglich  den größten Nutzen erbringen.
 
-In der medikamentösen Behandlung des Asthma bronchiale werden Dauertherapeutika  (Medikamente, die regelmäßig eingenommen werden) und Bedarfstherapeutika (Medikamente, die bei  Bedarf, z. B. zur Behandlung von akuten Symptomen, z. B. Atemnot und insbesondere bei Asthma- Anfällen eingesetzt werden) unterschieden.
+In der medikamentösen Behandlung des Asthma bronchiale werden Dauertherapeutika  (Medikamente, die regelmäßig eingenommen werden) und Bedarfstherapeutika (Medikamente, die bei  Bedarf, z. B. zur Behandlung von akuten Symptomen, z. B. Atemnot und insbesondere bei Asthma-Anfällen eingesetzt werden) unterschieden.
 
 Die medikamentöse Therapie von Patientinnen und Patienten mit Asthma bronchiale soll nach einem  Stufenplan für Erwachsene (Stufen 1-5) oder Kinder und Jugendliche (Stufen 1-6) erfolgen (siehe  Tabelle: Medikamentöses Stufenschema Asthma-Therapie).
 
@@ -233,13 +234,13 @@ Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit inhalativen Gluk
 
 Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit inhalativen lang wirksamen Beta- 2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe  Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit inhalativen lang wirksamen Beta-2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe  Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Kurz wirksame inhalative Beta-2-Sympathomimetika
 
 Eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurz wirksamen inhalativen Beta- 2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe  Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurz wirksamen inhalativen Beta-2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „ ob eine Kontraindikation gegen die Gabe  Sympathomimetikums besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Systemische Glukokortikosteroide
 

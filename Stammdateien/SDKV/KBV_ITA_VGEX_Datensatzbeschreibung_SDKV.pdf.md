@@ -115,7 +115,7 @@ INHALTSVERZEICHNIS
 
 ## 1.1 Zielsetzung
 
-Diese SDKV-Satzbeschreibung ermöglicht es jeder Kassenärztlichen Vereinigung ihre  speziellen Abrechnungsbedingungen in einer KV--Spezifika Datei entsprechend dem xDT- Format abzubilden.
+Diese SDKV-Satzbeschreibung ermöglicht es jeder Kassenärztlichen Vereinigung ihre  speziellen Abrechnungsbedingungen in einer KV--Spezifika Datei entsprechend dem xDT-Format abzubilden.
 
 In der KVDT-Satzbeschreibung sind für die Felder
 
@@ -1123,9 +1123,9 @@ Textzeile 3 zu 9411: Pseudo-GNR “88999” vorangehen.
 
 In der KVDT-Satzbeschreibung sind für die Felder “Scheinuntergruppe” (FK 4239),  “Abrechnungsgebiet” (FK 4122) und Kostenträger-Abrechnungsbereich (KTAB) (FK 4106)  bundeseinheitliche Obermengen (= erlaubte Inhalte und entsprechende Bedeutung)  vorgegeben.
 
-Aufgrund vertraglicher Vereinbarungen auf KV-ssEbene kommt es vor, da nur eine  “Untermenge” zulässig ist bzw. nur bestimmte Scheinuntergruppen-Abrechnungsgebiets- Kombinationen erlaubt sind.
+Aufgrund vertraglicher Vereinbarungen auf KV-ssEbene kommt es vor, da nur eine  “Untermenge” zulässig ist bzw. nur bestimmte Scheinuntergruppen-Abrechnungsgebiets-Kombinationen erlaubt sind.
 
-Mit der Satzart “kvx2” werden diese je nach KV-Bereich zulässigen Feldinhalte eindeutig  definiert. Das Abrechnungsprogramm muss sicherstellen, dass im Rahmen der ADT- Abrechnung/KVDT nur diese Feldinhalte dem Anwender zur Erfassung angeboten werden.
+Mit der Satzart “kvx2” werden diese je nach KV-Bereich zulässigen Feldinhalte eindeutig  definiert. Das Abrechnungsprogramm muss sicherstellen, dass im Rahmen der ADT-Abrechnung/KVDT nur diese Feldinhalte dem Anwender zur Erfassung angeboten werden.
 
 ## 5.4 Erläuterung zur Satzart “kvx3”
 
@@ -1133,7 +1133,7 @@ Auch für die Handhabung der Sonstigen Kostenträger (SKT) in der ADT-Abrechnung
 
 Die allgemeinen Abrechnungsvorgaben, die der entsprechende Kostenträger-Stammsatz zu  einem SKT festlegt, sind aus diesem Grund im Rahmen der ADT-Abrechnung nicht immer  ausreichend. Jede KV kann deshalb ihre zusätzlich erforderlichen Abrechnungsinformationen  und Restriktionen in einem Satz „kvx3“ definieren:
 
--  Mittels der Felder 2018 (Kostenträgergruppe) und 4106 (Kostenträger- Abrechnungsbereich) werden die “Sonstigen Kostenträger” klassifiziert.
+-  Mittels der Felder 2018 (Kostenträgergruppe) und 4106 (Kostenträger-Abrechnungsbereich) werden die “Sonstigen Kostenträger” klassifiziert.
 -  Feld “9402” legt fest, welche Feldinhalte in Feld “4123” (Personenkreis /  Untersuchungskategorie) zulässig sind und vom Anwender im Abrechnungsdatensatz  übertragen werden sollte,
 -  Feld “9403” legt fest, welche Information (z.B. Name des Auslands) zusätzlich unter Feld  4124 (SKT-Zusatzangaben) vom Anwender im Abrechnungsdatensatz übertragen  werden sollte,
 -  Feld “9404” legt fest, welche Felder (z.Zt. FK 4125 und 4126) zusätzlich vom Anwender  im Abrechnungsdatensatz übertragen werden sollten,
@@ -1148,13 +1148,13 @@ Wenn in einer KV für die ADT-Abrechnung von Sonstigen Kostenträgern keine  Zus
 
 Für den Anwender bedeutet dies, dass keine Zusatzangaben (FK 4123, 4124, 4125, 4126)  erfasst werden müssen und alle Satzarten und Versichertenarten zulässig sind.
 
-Im Zusammenhang mit der Verarbeitung der Satzart "kvx3" (SKT-Abrechnungs- Zusatzangaben) in der Anwendungssoftware weisen wir zur Klarstellung daraufhin, dass mit  Einführung von Versichertenkarten für "Sonstige Kostenträger" (z.B. SVA, BVG) eine  Übertragung der Abrechnungs-Zusatzangaben unter FK 4123, 4124, 4125 und 4126 nur  dann erfolgen darf, wenn für den betreffenden Fall keine Versichertenkarte ausgegeben  wurde, vgl. Anforderungskatalog KVDT, Funktion P6-160 Versichertenkarte und Satzart  „kvx3““.
+Im Zusammenhang mit der Verarbeitung der Satzart "kvx3" (SKT-Abrechnungs-Zusatzangaben) in der Anwendungssoftware weisen wir zur Klarstellung daraufhin, dass mit  Einführung von Versichertenkarten für "Sonstige Kostenträger" (z.B. SVA, BVG) eine  Übertragung der Abrechnungs-Zusatzangaben unter FK 4123, 4124, 4125 und 4126 nur  dann erfolgen darf, wenn für den betreffenden Fall keine Versichertenkarte ausgegeben  wurde, vgl. Anforderungskatalog KVDT, Funktion P6-160 Versichertenkarte und Satzart  „kvx3““.
 
 ## 5.5 Erläuterung zur Satzart “kvx4”
 
-In der Satzart “kvx4” werden Informationen über die Sortierung der Sätze “010x”  bereitgestellt. Die Datei wird (in konvertierter Form) nur vom KBV-Prüfmodul ausgewertet  und ist für die Systemhäuser im Rahmen des KVDT irrelevant, kann aber zu internen  Zwecken benutzt werden. Die Informationen wurden mit in den SDKV aufgenommen, damit  alle KV-spezifischen Vorgaben zentral verwaltet und gepflegt werden können. Dem KBV- Prüfmodul dienen diese Informationen zur Erstellung der Sortier- und Klammerliste, wobei  Scheinabgabe- und Klammerinformationen (vgl. Satzarten “kvx5” und “kvx6”) berücksichtigt  werden.
+In der Satzart “kvx4” werden Informationen über die Sortierung der Sätze “010x”  bereitgestellt. Die Datei wird (in konvertierter Form) nur vom KBV-Prüfmodul ausgewertet  und ist für die Systemhäuser im Rahmen des KVDT irrelevant, kann aber zu internen  Zwecken benutzt werden. Die Informationen wurden mit in den SDKV aufgenommen, damit  alle KV-spezifischen Vorgaben zentral verwaltet und gepflegt werden können. Dem KBV-Prüfmodul dienen diese Informationen zur Erstellung der Sortier- und Klammerliste, wobei  Scheinabgabe- und Klammerinformationen (vgl. Satzarten “kvx5” und “kvx6”) berücksichtigt  werden.
 
-Die Festlegung der Sortierkriterien erfolgt im ADT0197.xx einheitlich für alle Abrechnungs- arten. Da nur noch eine gesamthafte Abrechnungsdatei abzugeben ist, sind die bisherigen  Informationen über Teildatenpakete im ADT überflüssig geworden.
+Die Festlegung der Sortierkriterien erfolgt im ADT0197.xx einheitlich für alle Abrechnungs-arten. Da nur noch eine gesamthafte Abrechnungsdatei abzugeben ist, sind die bisherigen  Informationen über Teildatenpakete im ADT überflüssig geworden.
 
 Den Sortierkriterien KTAB, Abrechnungsart, Gebührenordnung und Abrechnungsgebiet kann  im Rahmen der Sortierung eine eigene Wertigkeit zugeordnet werden. Es müssen hier alle  im ADT zugelassenen Werte berücksichtigt werden und nicht nur die Werte, die die KV  explizit in ihrem Bereich zugelassen hat. Dies hat den Vorteil, dass für solche Fälle, in denen  die KV ihre Bereiche erweitert oder Systemhäuser ADT-Werte, die nicht im Bereich der KV  gültig sind, übertragen, Sortierwerte definiert sind.
 
@@ -1225,7 +1225,7 @@ Werden unterschiedliche Abrechnungsgebiete geklammert, wird über FK 9465 das f�
 
 ## 5.8 Erläuterung zur Satzart “kvx7”
 
-Mittels Satzart “kvx7” definiert jede KV in Abhängigkeit von VKNR-- (FK 9470, 9471) und dem Kostenträger-- sprechende Abrechnungsart. Es muss darauf geachtet werden, den Seriennummern-Bereich  vollständig zu erfassen. Ferner müssen die Informationen je Seriennummern-Bereich für  im KVDT vorgesehenen Kostenträger-
+Mittels Satzart “kvx7” definiert jede KV in Abhängigkeit von VKNR--(FK 9470, 9471) und dem Kostenträger--sprechende Abrechnungsart. Es muss darauf geachtet werden, den Seriennummern-Bereich  vollständig zu erfassen. Ferner müssen die Informationen je Seriennummern-Bereich für  im KVDT vorgesehenen Kostenträger- Abrechnungsbereiche angegeben werden.
 
 Als Orientierung diene hierbei folgende beispielhafte Tabelle:
 
@@ -1250,13 +1250,13 @@ Als Orientierung diene hierbei folgende beispielhafte Tabelle:
 | 86 | Sonstige Kostenträger JAS | 854 | **SKT** |
 | 88 | Sonstige Kostenträger UV Träger der gesetzlichen | 891 – 893 | **SKT** |
 
-Diese Zuordnungen zwischen Kostenträgergruppe/Kassenart, Seriennummern-Kontingent  und Abrechnungsart sind Empfehlungen, von denen abgewichen werden darf.
-
 Abrechnungsbereich (KTAB) (FK 4106) die ent
 
-Abrechnungsbereiche angegeben werden.
+Seriennummern Bereichen  **alle**
 
-(FK 2018) (AUS) Asylstelle (AS) / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) Kontingent (3.-5. Stelle VKNR) Ersatzkasse (EKK) Sonst. KT (SKT) 651 – 659 849, 950 – 999 Abrechnungsart für KTAB = 00: Seriennummern Bereichen  **alle**
+Diese Zuordnungen zwischen Kostenträgergruppe/Kassenart, Seriennummern-Kontingent  und Abrechnungsart sind Empfehlungen, von denen abgewichen werden darf.
+
+(FK 2018) (AUS) Asylstelle (AS) Kontingent (3.-5. Stelle VKNR) Ersatzkasse (EKK) Sonst. KT (SKT) 651 – 659 849, 950 – 999 Abrechnungsart für KTAB = 00: / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) 
 
 
 ---
@@ -1267,6 +1267,6 @@ Die Kassenärztlichen Vereinigungen können mit dieser Satzart in einem “Freit
 
 Anmerkung: Satz “kvx8” ist ein Kann-Satz!
 
-Sollen keine weiteren Kommentierungen / Zusatzinformationen mit der KV-- Stammdatei übermittelt werden, enthält die SDKV- Datei keinen Satz “kvx8”.
+Sollen keine weiteren Kommentierungen / Zusatzinformationen mit der KV--Stammdatei übermittelt werden, enthält die SDKV- Datei keinen Satz “kvx8”.
 
 Spezifika

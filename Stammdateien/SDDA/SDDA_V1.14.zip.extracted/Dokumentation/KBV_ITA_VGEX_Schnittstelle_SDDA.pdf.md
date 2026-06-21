@@ -88,11 +88,11 @@ Tabelle 2  Erläuterung zu Kommunikationsmöglichkeiten ........................
 
 # 1 Einleitung
 
-Die vorliegende Schnittstellenbeschreibung gibt den Inhalt einer Stammdatei der DMP- Datenannahmestellen wieder.
+Die vorliegende Schnittstellenbeschreibung gibt den Inhalt einer Stammdatei der DMP-Datenannahmestellen wieder.
 
 Mit Hilfe dieser Schnittstelle soll es ermöglicht werden, Daten für die Adressierung der DMP Bögen zur Verfügung zu stellen.
 
-Die Schnittstellen für den Datenaustausch liegen im XML-Format vor. Sie sind zur ehd- Richtlinie konform.
+Die Schnittstellen für den Datenaustausch liegen im XML-Format vor. Sie sind zur ehd-Richtlinie konform.
 
 # 2 Allgemein
 
@@ -132,7 +132,7 @@ sdda_01.00_kbv.xml
 
 # 4 ehd  Element (root
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea-der“ und „body“, wie es in Abbildung 1
 
 # Element)
 
@@ -165,7 +165,7 @@ Daten geliefert;  *<organization>* des Header-
 
 ---
 
-stehen die spezifischen Informationen zur Schnittstelle. Im body -Element werden die eigentli- chen Daten hinterlegt.
+stehen die spezifischen Informationen zur Schnittstelle. Im body -Element werden die eigentli-chen Daten hinterlegt.
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-1 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
 
@@ -210,7 +210,7 @@ Das Element hat folgenden Aufbau:
 | attributes | Name    Type    Use    Default    Fixed    Annotation  EX   **xs:string ** optional               RT   **xs:string ** required               RTV   **xs:string ** optional |
 | example | <ehd:id EX="1100" RT="1.2.276.0.76.3.1.1"/> |
 
-EX: („extension“=“Erweiterung“ zu dem RT EX-Attribut einen Identifikator, der die betreffende XML -Datei eindeutig identifiziert. Je- -Attribut) Das Element -Datei hat eine andere id,
+EX: („extension“=“Erweiterung“ zu dem RT EX-Attribut einen Identifikator, der die betreffende XML -Datei eindeutig identifiziert. Je--Attribut) Das Element -Datei hat eine andere id,
 
 ***<id>*** enthält in seinem
 
@@ -221,19 +221,19 @@ RT:
 
 RTV:
 
-de, auf Basis dieser Beschreibung, erstellte konkrete XM L-Datei muss daher einen an- deren Identifikator haben. Bei dieser Schnittstelle nimmt das Attribut den Wert „1100“  an.
+de, auf Basis dieser Beschreibung, erstellte konkrete XM L-Datei muss daher einen an-deren Identifikator haben. Bei dieser Schnittstelle nimmt das Attribut den Wert „1100“  an.
 
 („root“=“Wurzel“)  Person bzw. anderen Erzeuger, der das Dokument erz eugt/versendet. Damit kann das  Dokument über die  le hat das Attribut den Wert „1.2.276.0.76.3.1.1“.
 
-(„Schlüsseltabelle Version“). Dieses Attribut ist optional und wird nur bei Schlüsselt ellen verwendet, wenn eine Referenzierung von Objekten über Schlüsseltabellen er- folgt. Für die Identifizierung von XML-Dokumenten wird dieses Attribut nicht verwen- det.
+(„Schlüsseltabelle Version“). Dieses Attribut ist optional und wird nur bei Schlüsselt ellen verwendet, wenn eine Referenzierung von Objekten über Schlüsseltabellen er-folgt. Für die Identifizierung von XML-Dokumenten wird dieses Attribut nicht verwen-det.
 
 ## 5.2 document_type_cd (Bezeichnung des Datentyps)
 
-Das Element ***<document_type_cd>*** bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt, um kodierte Werte darzustel- len.
+Das Element ***<document_type_cd>*** bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt, um kodierte Werte darzustel-len.
 
 Kode-Elemente:
 
-Genereller Aufbau von Elementen, die kodierte Werte und Schlüsseltabellen enthalten, am  Beispiel des Elements ***<document_type_cd>*** die kodierte Werte enthalten, in der Regel die Endung _cd. Kode-Elemente haben den Daten- typ **v_s_string_typ**
+Genereller Aufbau von Elementen, die kodierte Werte und Schlüsseltabellen enthalten, am  Beispiel des Elements ***<document_type_cd>*** die kodierte Werte enthalten, in der Regel die Endung _cd. Kode-Elemente haben den Daten-typ **v_s_string_typ**
 
 Bei dieser Stammdatei steht im V-Attribut der Wert SDDA.
 
@@ -319,7 +319,7 @@ V: hier wird das Erstellungsdatum der Datei im Format „
 
 ## 5.5 provider (Lieferant/Sender)
 
-Beschreibt eine Person oder Organisation, die das Dokument/Daten liefert/sendet oder weiter- leitet. Damit ist ***<provider>*** der Sender der Daten. Das Element  damit die Herkunft der Daten ermittelt werden kann. Generell wird davon ausgegangen, dass  der provider auch der Urheber ist, wenn zum Sender das Element  Erst wenn der Urheber vom Absender unterscheidet, wird der Urheber mit angegeben.
+Beschreibt eine Person oder Organisation, die das Dokument/Daten liefert/sendet oder weiter-leitet. Damit ist ***<provider>*** der Sender der Daten. Das Element  damit die Herkunft der Daten ermittelt werden kann. Generell wird davon ausgegangen, dass  der provider auch der Urheber ist, wenn zum Sender das Element  Erst wenn der Urheber vom Absender unterscheidet, wird der Urheber mit angegeben.
 
 Bei dieser Datei SDDA handelt es sich hierbei um die KBV.
 
@@ -366,7 +366,7 @@ Der Zeitraum/Zeitpunkt, wann der Sender  hung/Sendung des Dokuments/Daten beteil
 
 Der Sender kann eine Person sein. Mehrere Personen können  zu einem Liefertyp angegeben werden. (siehe
 
-Der Sender kann eine Organisation sein. Mehrere Organisatio- nen können zu einem Liefertyp angegeben werden. (siehe
+Der Sender kann eine Organisation sein. Mehrere Organisatio-nen können zu einem Liefertyp angegeben werden. (siehe
 
 Element wird in 5.5.4.6 erklärt.
 
@@ -403,7 +403,7 @@ Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angege
 
 ### 5.5.3 participation_tmr (Zeitraum/Zeitpunkt der Teilnahme)
 
-Der Zeitraum/Zeitpunkt, wann der Sender an der Entstehung/Sendung des Dokuments/Daten  beteiligt war. Der Zeitraum wird so angegeben, wie der Gültigzeitraum des Elements <ser- vice_tmr>. Siehe service_tmr (Gültigkeitszeitraum)
+Der Zeitraum/Zeitpunkt, wann der Sender an der Entstehung/Sendung des Dokuments/Daten  beteiligt war. Der Zeitraum wird so angegeben, wie der Gültigzeitraum des Elements <ser-vice_tmr>. Siehe service_tmr (Gültigkeitszeitraum)
 
 ***<participation_tmr V="2003-09-30..2003-10-30"/>***
 
@@ -495,7 +495,7 @@ GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann
 
 ### Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetragen.  Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
 
-### Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu- geben:
+### Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu-geben:
 
 ### a) Wenn neue Werte in die Schlüsseltabelle hinzugefügt werden, so kann anhand der
 
@@ -540,11 +540,11 @@ Präfix, führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen
 
 ***<SFX>***
 
-Suffix, Ein folgender Namenszusatz hat eine starke Bindung zum vorhergehen- den Teil eines Namens. Folgende Namenszusätze können nicht umgekehrt  werden.
+Suffix, Ein folgender Namenszusatz hat eine starke Bindung zum vorhergehen-den Teil eines Namens. Folgende Namenszusätze können nicht umgekehrt  werden.
 
 ***<DEL>***
 
-Ein Trennzeichen hat nur die Bedeutung, genau so gedruckt zu werden, wie es  im Namen vorkommt. Ein Trennzeichen hat keine führenden und nachfolgen- den Leerzeichen.
+Ein Trennzeichen hat nur die Bedeutung, genau so gedruckt zu werden, wie es  im Namen vorkommt. Ein Trennzeichen hat keine führenden und nachfolgen-den Leerzeichen.
 
 Werte für diese Elemente werden im V-Attribut angegeben. Jedes Namensteil-Element hat  folgende Attribute:
 
@@ -587,7 +587,7 @@ Als Beispiel für den Namen des Arztes „Dr. med. Ernst August Graf von Oberber
 
 #### 5.5.4.3 organization.nm (Name der Organisation)
 
-Wenn eine Person zu einer Organisation gehört, kann hier der Name der Organisation ange- geben werden. Damit ist der direkter Bezug der Person zu der Organisation v orhanden und  die Notwendigkeit, die Organisation nochmal im ***<organization>*** - Element anzugeben, entfällt.
+Wenn eine Person zu einer Organisation gehört, kann hier der Name der Organisation ange-geben werden. Damit ist der direkter Bezug der Person zu der Organisation v orhanden und  die Notwendigkeit, die Organisation nochmal im ***<organization>*** - Element anzugeben, entfällt.
 
 Das Element hat folgende Attribute:
 
@@ -671,7 +671,7 @@ Element hat fol-
 
 #### 5.5.4.5 telecom (Kommunikationsmöglichkeiten)
 
-Dieses Element dient dazu, Telefon - und Faxnummern, Emailadressen und Homepages auf- zunehmen. Werte werden im V-Attribut angegeben, der mit dem Wert „tel“, „fax“ „mailto“,  „http“ oder „ftp“ beginnen muss.
+Dieses Element dient dazu, Telefon - und Faxnummern, Emailadressen und Homepages auf-zunehmen. Werte werden im V-Attribut angegeben, der mit dem Wert „tel“, „fax“ „mailto“,  „http“ oder „ftp“ beginnen muss.
 
 Das Element hat folgende Attribute:
 
@@ -681,7 +681,7 @@ Das Element hat folgende Attribute:
 
 V: hier wird der Wert eingetragen
 
-Die Erläuterung für die verschiedenen Werte sind in Tabelle 2  Erläuterung zu Kommunikati- onsmöglichkeiten aufgeführt.
+Die Erläuterung für die verschiedenen Werte sind in Tabelle 2  Erläuterung zu Kommunikati-onsmöglichkeiten aufgeführt.
 
 | Code | Definition | Beispiel |
 |---|---|---|
@@ -695,7 +695,7 @@ Die Erläuterung für die verschiedenen Werte sind in Tabelle 2  Erläuterung zu
 
 #### 5.5.4.6 local_header (Platz für lokale Elementdefinitionen)
 
-In diesem Element können lokale Elemente, abhängig von der konkret zu definierenden  Schnittstelle definiert werden. Mit der Zeit und ändernden Anforderungen werden immer neue  Elemente benötigt, die nicht in der ehd -Richtlinie berücksichtigt wurden. An dieser Stelle kön- nen Erweiterungen am Header vorgenommen werden , und der Schnittstellen -Entwickler kann  beliebige neue Elemente hinzufügen. D.h. der Schnittstellenerfinder kann hier Schnittstellen- spezifische Metadaten unterbringen.
+In diesem Element können lokale Elemente, abhängig von der konkret zu definierenden  Schnittstelle definiert werden. Mit der Zeit und ändernden Anforderungen werden immer neue  Elemente benötigt, die nicht in der ehd -Richtlinie berücksichtigt wurden. An dieser Stelle kön-nen Erweiterungen am Header vorgenommen werden , und der Schnittstellen -Entwickler kann  beliebige neue Elemente hinzufügen. D.h. der Schnittstellenerfinder kann hier Schnittstellen-spezifische Metadaten unterbringen.
 
 Das Element hat folgende Attribute:
 
@@ -703,7 +703,7 @@ Das Element hat folgende Attribute:
 |---|---|
 | attributes | Name    Type    Use    Default    Fixed    Annotation  Ignore    ignore_typ    optional  markup           descriptor    xs:string    optional             Render    xs:render      optional |
 
-ignore: Dieses Attribut kann einer Anwendung (z.B. Stylesheet) Hinweis geben, ob  Daten innerhalb des ***<local_header>***-Elements ignoriert werden können. Mit Aus- prägung „markup“ soll nur das ***<local_header>***-Element ignoriert werden. Mit  Ausprägung „all“ sollen auch die Elemente und Daten innerhalb des ***<lo-*** ***cal_header>***-Element ignoriert werden.
+ignore: Dieses Attribut kann einer Anwendung (z.B. Stylesheet) Hinweis geben, ob  Daten innerhalb des ***<local_header>***-Elements ignoriert werden können. Mit Aus-prägung „markup“ soll nur das ***<local_header>***-Element ignoriert werden. Mit  Ausprägung „all“ sollen auch die Elemente und Daten innerhalb des ***<lo-*** ***cal_header>***-Element ignoriert werden.
 
 descriptor: Eine Kurzbeschreibung des Elements bzw. der Daten.
 
@@ -732,7 +732,7 @@ Ein Beispiel für die Verwendung des ***<local_header>***-Elements mit zwei erfu
 
 ### 5.5.5 organization (Organisationsdaten)
 
-Generell können Organisationsdaten in diesem Element untergebracht werden. Dieses Ele- ment wird an mehreren Stellen, wo Organisationsangaben übermittelt werden sollen, wieder- verwendet. Im Header beschreibt es die Organisation „KBV“.
+Generell können Organisationsdaten in diesem Element untergebracht werden. Dieses Ele-ment wird an mehreren Stellen, wo Organisationsangaben übermittelt werden sollen, wieder-verwendet. Im Header beschreibt es die Organisation „KBV“.
 
 **Abbildung 6 <organization>**
 
@@ -797,7 +797,7 @@ Bei dieser SDDA -Schnittstelle wird das EX -Attribut mit dem Wert “1.2.276.0.7
 
 #### 5.5.5.2 organization.nm (Name der Organisation)
 
-Wenn eine Person zu einer O rganisation gehört, kann hier der Name der Organisation ange- geben werden. Damit ist der direkter Bezug der Person zu der Organisation vorhanden und  die Notwendigkeit, die Organisation nochmal im ***<organization>***
+Wenn eine Person zu einer O rganisation gehört, kann hier der Name der Organisation ange-geben werden. Damit ist der direkter Bezug der Person zu der Organisation vorhanden und  die Notwendigkeit, die Organisation nochmal im ***<organization>***
 
 Als Name der Organisation wird bei dieser Schnittstelle KBV eingetragen.
 
@@ -838,7 +838,7 @@ Siehe 5.5.4.6
 
 ## 5.6 interface (Beschreibung der Schnittstelle)
 
-Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler- weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen.
+Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen.
 
 ***<interface>*** wird auf
 
@@ -866,11 +866,11 @@ Versionsnummer der Schnittstelle
 
 ***</ehd:interface>***
 
-**XML-Code 13**
+**XML-Code 13**  /ehd/header/interface
 
 ### 5.6.1 id (Identifikation der Schnittstelle)
 
-Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss. Siehe:  beliebige Zeichenfolge verwendet werden.
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss. Siehe: id (Dokument-ID) beliebige Zeichenfolge verwendet werden.
 
 Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetragen.  Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
 
@@ -879,9 +879,7 @@ Das Element hat folgende Attribute:
 | attributes | Name    Type    Use    Default    Fixed    Annotation  EX   **xs:string ** required               RTV   **xs:string ** optional |
 |---|---|
 
-/ehd/header/interface
-
-id (Dokument-ID). Im EX- und RT-Attribut kann eine
+. Im EX- und RT-Attribut kann eine
 
 
 ---
@@ -1004,11 +1002,11 @@ Adresse des Ansprechpartners der Datenannahmestelle
 
 <telecom>
 
-Telekommunikationsmöglichkeiten des Ansprechpartners der Datenan- nahmestelle
+Telekommunikationsmöglichkeiten des Ansprechpartners der Datenan-nahmestelle
 
 #### 6.1.1.1 person_name
 
-Das Element <person_name> gibt den Namen des Ansprechpartners der Datenannahmestel- le an. Der Aufbau ist in 5.5.4.2 beschrieben.
+Das Element <person_name> gibt den Namen des Ansprechpartners der Datenannahmestel-le an. Der Aufbau ist in 5.5.4.2 beschrieben.
 
 #### 6.1.1.2 addr
 
@@ -1016,11 +1014,11 @@ Das Element <addr> gibt die Adresse des Ansprechpartners der Datenannahmestelle 
 
 #### 6.1.1.3 telecom
 
-Das Element <telecom> gibt die Kommunikationsdaten des Ansprechpartners der Datenan- nahmestelle an. Die Struktur dieses Elementes wurde bereits in 5.5.4.5 näher erläutert.
+Das Element <telecom> gibt die Kommunikationsdaten des Ansprechpartners der Datenan-nahmestelle an. Die Struktur dieses Elementes wurde bereits in 5.5.4.5 näher erläutert.
 
 **Hinweis:**
 
-Hierbei ist zu beachten, dass es sich bei der Angabe der E -Mail Adresse  taktdaten der Datenannahmestelle handelt und diese Angabe nicht zwangsläufig zur Versen- dung elektronischer Dokumentationen verwendet werden kann.
+Hierbei ist zu beachten, dass es sich bei der Angabe der E -Mail Adresse  taktdaten der Datenannahmestelle handelt und diese Angabe nicht zwangsläufig zur Versen-dung elektronischer Dokumentationen verwendet werden kann.
 
 um die „reinen“ Kon-
 
@@ -1099,7 +1097,7 @@ Der Aufbau entspricht dem folgenden Beispiel:
 
 #### 6.1.3.1 kv_bereich_liste
 
-In diesem Element wird eine Liste der KV -Bereiche angegeben, für welche diese Datenann a- hemstelle zuständig ist.
+In diesem Element wird eine Liste der KV -Bereiche angegeben, für welche diese Datenann a-hemstelle zuständig ist.
 
 **element** local_header/kv_bereich_liste
 
@@ -1114,7 +1112,7 @@ In diesem Element wird eine Liste der KV -Bereiche angegeben, für welche diese 
 
 Innerhalb dieses Elementes wird der entsprechende KV-Bereich angegeben. Der Wert für das  V-Attribut wird aus einer Schlüsseltabelle entnommen. Der Wert des S-Attributes gibt die OID  dieser Tabelle an und ist auf „1.2.276.0.76.5.233“ festgesetzt.
 
-Als Unterelement des KV -Bereiches wird eine Liste der DMPs angegeben sowie  handen eine KV -Connect oder KIM Adresse eine Angabe der D2D -Kennung, falls diese vor- handen ist.
+Als Unterelement des KV -Bereiches wird eine Liste der DMPs angegeben sowie  handen eine KV -Connect oder KIM Adresse eine Angabe der D2D -Kennung, falls diese vor-handen ist.
 
 ##### 6.1.3.2.1 dmp_liste
 
@@ -1149,7 +1147,7 @@ stelle zuständig .5.223“ festge-
 
 ###### 6.1.3.2.1.2 kostentraeger_gruppe_liste
 
-In diesem Element wird eine Liste der Kostenträger angegeben, für welche diese Datenan- nahmestelle zuständig ist. Dabei bezieht sich die Angabe auf die vorangegangenen Angaben,  d.h. auf KV-Bereich und DMP. Fehlt das Element <kostentraeger_gruppe_liste>, so gilt die  angegebene Datenannahmestelle für alle Kostenträgergruppen im angegebenen KV und für das angegebene DMP.
+In diesem Element wird eine Liste der Kostenträger angegeben, für welche diese Datenan-nahmestelle zuständig ist. Dabei bezieht sich die Angabe auf die vorangegangenen Angaben,  d.h. auf KV-Bereich und DMP. Fehlt das Element <kostentraeger_gruppe_liste>, so gilt die  angegebene Datenannahmestelle für alle Kostenträgergruppen im angegebenen KV und für das angegebene DMP.
 
 **element** dmp_liste/dmp/kostentraeger_gruppe_liste
 
@@ -1173,7 +1171,7 @@ Das Element <kostentraeger_gruppe> hat als optionales Kindelement <service_tmr> 
 
 ##### 6.1.3.2.2 d2d_kennung
 
-In diesem Element wird im V-Attribut die zur Datenannahmestelle entsprechende D2D- Kennung angegeben. Existiert eine derartige Kennung für eine Datenannahmestelle nicht, so  wird das vollständige Element weggelassen.
+In diesem Element wird im V-Attribut die zur Datenannahmestelle entsprechende D2D-Kennung angegeben. Existiert eine derartige Kennung für eine Datenannahmestelle nicht, so  wird das vollständige Element weggelassen.
 
 **element** kv_bereichliste/kv_bereich/d2d_kennung
 
@@ -1186,7 +1184,7 @@ In diesem Element wird im V-Attribut die zur Datenannahmestelle entsprechende D2
 
 ##### 6.1.3.2.3 kv_connect
 
-In diesem Element wird im V-Attribut die zur Datenannahmestelle entsprechende KV- Connect-Adresse angegeben. Existiert eine derartige Kennung für eine Datenannahmestelle  nicht, so wird das vollständige Element weggelassen.
+In diesem Element wird im V-Attribut die zur Datenannahmestelle entsprechende KV-Connect-Adresse angegeben. Existiert eine derartige Kennung für eine Datenannahmestelle  nicht, so wird das vollständige Element weggelassen.
 
 **element** kv_bereichliste/kv_bereich/kv_connect
 
@@ -1198,7 +1196,7 @@ Das Element <kv_connect> hat als optionales Kindelement <service_tmr> (gemäß K
 
 ##### 6.1.3.2.4 kim_email
 
-In diesem Element wird im V-Attribut zur Datenannahmestelle die entsprechende KIM- Adresse angegeben. Existiert eine derartige Kennung für eine Datenannahmestelle nicht, so  wird das vollständige Element weggelassen.
+In diesem Element wird im V-Attribut zur Datenannahmestelle die entsprechende KIM-Adresse angegeben. Existiert eine derartige Kennung für eine Datenannahmestelle nicht, so  wird das vollständige Element weggelassen.
 
 Sofern eine Datenstelle die Annahme über KIM anbietet, wird erwartet, dass die Übermittlung  gemäß der Spezifkation eDMP 1.0 der kv.digital erfolgt.
 
@@ -1215,7 +1213,7 @@ Das Element <kim_email> hat als optionales Kindelement <service_tmr> (gemäß Ka
 
 #### 6.1.3.3 service_tmr
 
-Mit Hilfe dieses Elementes wird der Zeitraum der Existenz der Datenannahmestelle angege- ben. Der Aufbau entspricht 5.3. Das folgende Beispiel soll kurz mentes zeigen.
+Mit Hilfe dieses Elementes wird der Zeitraum der Existenz der Datenannahmestelle angege-ben. Der Aufbau entspricht 5.3. Das folgende Beispiel soll kurz mentes zeigen.
 
 **element** kostentraeger_gruppe_liste/kostentraeger_gruppe/service_tmr
 

@@ -107,7 +107,7 @@ Datensatz für die indikationsspezifische Dokumentation: Nr. sind die nachstehen
 | Die Angabe erfolgt ohne Nachkommastelle | Die | Eine Angabe ist erforderlich, wenn die Anlage 6* im Rahmen | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
 |  |  |  | Medikamente     6   Thrombozytenaggregationshemmer |
 
-Nr. Monate wegen KHK seit der letzten Dokumentation  Angabe muss gleich oder größer „0“ und kleiner oder gleich 99  sein  einer Folgedokumentation auszufüllen ist. Ja“ kann nicht gleichzeitig mit „ Nein“ und / oder „Kontraindikation“ erfolgen. Ja“ kann einzeln oder gleichzeitig mit „ Antikoagulation“ erfolgen gleichzeitig mit „Nein“ und /oder „ Orale Antikoagulation“ erfolgen gleichzeitig mit „ Ja“ oder „ Nein“ und/oder „Kontraindikation“ erfolgen. Nein“ kann alleine oder gleichzeitig mit der Angabe und/oder  erfolgen.
+Nr. Monate wegen KHK seit der letzten Dokumentation  Ja / Nein / Kontraindikation / Orale Angabe muss gleich oder größer „0“ und kleiner oder gleich 99  sein  einer Folgedokumentation auszufüllen ist. Ja“ kann nicht gleichzeitig mit „ Nein“ und / oder „Kontraindikation“ erfolgen. Ja“ kann einzeln oder gleichzeitig mit „ Antikoagulation“ erfolgen gleichzeitig mit „Nein“ und /oder „ Orale Antikoagulation“ erfolgen gleichzeitig mit „ Ja“ oder „ Nein“ und/oder „Kontraindikation“ erfolgen. Nein“ kann alleine oder gleichzeitig mit der Angabe und/oder  erfolgen.
 
 ---
 

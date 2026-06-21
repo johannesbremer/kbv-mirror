@@ -249,7 +249,7 @@ Das PVS übernimmt die Speicherung des E-Rezeptes und markiert den entsprechende
 
 ## 2.6 FRAGESTELLUNG - WAS SIND DIE UNTERSCHIEDE BEI DER VERORDNUNG VON  PAPIERGEBUNDENEN REZEPTEN UND E-REZEPTEN UND DEREN ÜBERTRAGUNG ÜBER DIE VOS SCHNITTSTELLE?
 
-Der Aufruf der VoS durch das PVS ist identisch. Beim Aufruf werden die zum Aufrufkontext notwendigen  und ggf. optionalen Daten an die VoS übergeben. Mit den übergebenen Praxis-, Behandelnden-, Patienten-  und Kostenträgerdaten können in der VoS die entsprechenden Funktionen durchgeführt und (E-)Rezepte  erstellt werden.
+Der Aufruf der VoS durch das PVS ist identisch. Beim Aufruf werden die zum Aufrufkontext notwendigen  und ggf. optionalen Daten an die VoS übergeben. Mit den übergebenen Praxis-, Behandelnden-, Patienten- und Kostenträgerdaten können in der VoS die entsprechenden Funktionen durchgeführt und (E-)Rezepte  erstellt werden.
 
 E-Rezepte:
 
@@ -257,7 +257,7 @@ Die E-Rezepte werden entsprechend der Spezifikation des E-Rezepts mit den dort f
 
 Papiergebundene Rezepte:
 
-Die Verordnungsdaten der papiergebundenen Rezepte werden über die Profile  KBV_PR_VoS_Medication_Compounding, KBV_PR_VoS_Medication_FreeText,  KBV_PR_VoS_Medication_Ingredient, KBV_PR_VoS_Medication_PZN und KBV_PR_VoS_Prescription der  VoS-SST als Inhalte des Speicherbundles KBV_PR_VoS_Bundle_VoS_PVS an das PVS übertragen. Die PDF- Ausdrucke der Rezepte werden als DocumentReferences im Speicherbundle aufgenommen.
+Die Verordnungsdaten der papiergebundenen Rezepte werden über die Profile  KBV_PR_VoS_Medication_Compounding, KBV_PR_VoS_Medication_FreeText,  KBV_PR_VoS_Medication_Ingredient, KBV_PR_VoS_Medication_PZN und KBV_PR_VoS_Prescription der  VoS-SST als Inhalte des Speicherbundles KBV_PR_VoS_Bundle_VoS_PVS an das PVS übertragen. Die PDF-Ausdrucke der Rezepte werden als DocumentReferences im Speicherbundle aufgenommen.
 
 ---
 

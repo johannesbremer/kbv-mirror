@@ -61,7 +61,7 @@ Nummer Schmerzmedikation: 2 an einer multimodalen Schulung teilgenommen -spezifi
 | 8 | Erreichung | Mindestens ein Ziel erreicht / N | Bedingtes Pflichtfeld Eine Angabe ist  Eine Angabe im Rahmen einer |
 | 9 | CPG Item 3: Durchschnittliche Stärke  (0 = | Zahl (0 | Pflichtfeld Nummerische Angabe   Die Angabe erfolgt ohne Nachkommastelle.   Die Angabe muss gleich oder größer „0“ und |
 
-mindestens eines individuell vereinbarten Ziele seit der letzten Dokumentation 1 der Kreuzschmerzen in den letzten drei Monaten „Keine“ bis 10 = „Stärkster Schmerz“) Kein Ziel überprüft / K vereinbart  10, ganzzahlig) Ja“ ist keine weitere Angabe zulässig einzeln oder gleichzeitig erfolgen och kein Ziel Genau eine Angabe ist zulässig. erforderlich, wenn die Anlage 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. kleiner oder gleich 10  sein.
+mindestens eines individuell vereinbarten Ziele seit der letzten Dokumentation 1 der Kreuzschmerzen in den letzten drei Monaten „Keine“ bis 10 = „Stärkster Schmerz“) Mindestens ein Ziel erreicht / Noch kein Ziel erreicht / Kein Ziel überprüft / Kein Ziel vereinbart  10, ganzzahlig) Ja“ ist keine weitere Angabe zulässig einzeln oder gleichzeitig erfolgen Genau eine Angabe ist zulässig. erforderlich, wenn die Anlage 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. kleiner oder gleich 10  sein.
 
 ---
 

@@ -6,11 +6,11 @@
 
 **1. Bewegungsgewohnheiten / Ernährung / Stressmanagement / Suchtmittelkonsum / Sonstiges**
 
-Geben Sie hier bitte an, in welchem Handlungsfeld Sie für den Patienten eine Präventionsmaßnahme em p- fehlen. Unter „Sonstiges“ können Sie nähere Angaben zu weiteren Handlungsfeldern machen.
+Geben Sie hier bitte an, in welchem Handlungsfeld Sie für den Patienten eine Präventionsmaßnahme em p-fehlen. Unter „Sonstiges“ können Sie nähere Angaben zu weiteren Handlungsfeldern machen.
 
 **2. Hinweise des behandelnden Arztes**
 
-Hier können Sie für die Krankenkasse oder den Patienten nähere Hinweise zu den empfohlenen Maßnah- men (z. B. zu Kontraindikationen) eintragen.
+Hier können Sie für die Krankenkasse oder den Patienten nähere Hinweise zu den empfohlenen Maßnah-men (z. B. zu Kontraindikationen) eintragen.
 
 **Mehr Informationen**
 

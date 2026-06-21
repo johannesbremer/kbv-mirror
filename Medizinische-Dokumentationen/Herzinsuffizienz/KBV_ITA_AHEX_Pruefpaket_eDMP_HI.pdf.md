@@ -849,7 +849,7 @@ Männlich 1,75 m
 
 Ja
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die HI- Dokumentation ist dies  COPD
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die HI-Dokumentation ist dies  COPD
 
 as System keine
 
@@ -871,7 +871,7 @@ Männlich 1,75 m
 
 Nein
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die HI- Dokumentation ist dies  COPD
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die HI-Dokumentation ist dies  COPD
 
 
 ---
@@ -1469,19 +1469,15 @@ Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ *Bet
 
 Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ *MRA*“ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1
 
-*Symptomatik*
+*Symptomatik*“ ermöglicht,
 
-*Evidenzbasierte Zieldosis*
-
-*Evidenzbasierte Zieldosis*
+) die bereits
 
 *Evidenzbasierte Zieldosis*  -48,
 
-“ ermöglicht,
+*Evidenzbasierte Zieldosis*  -48,
 
-) die bereits -48,
-
--48,
+*Evidenzbasierte Zieldosis*  -48,
 
 
 ---

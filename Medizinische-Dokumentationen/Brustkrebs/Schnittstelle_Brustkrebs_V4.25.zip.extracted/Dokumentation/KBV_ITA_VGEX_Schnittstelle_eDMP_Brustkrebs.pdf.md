@@ -159,7 +159,7 @@ markiert) Abschnittsüberschrift (grün markiert) Plausibilitäten zum 01.10.202
 
 # 1 EINLEITUNG
 
-Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Dokumentationen des Disease  Management Programms (DMP) Brustkrebs. Dabei wird auf die Erst-Dokumentation und Folge- Dokumentation eingegangen.
+Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Dokumentationen des Disease  Management Programms (DMP) Brustkrebs. Dabei wird auf die Erst-Dokumentation und Folge-Dokumentation eingegangen.
 
 Diese Schnittstellenbeschreibung wird ausschließlich für die elektronische Dokumentation benutzt.
 
@@ -328,7 +328,7 @@ Die Struktur des Elements <body> wird in Kapitel 5 erläutert.
 
 # 5 BODY DER „ERST DOKUMENTATION“
 
-In diesem Kapitel wird der Aufbau des bodys der „Erst-Dokumentation“ erläutert. Die Beschriftungen der  Abbildungen, der XML-Code-Angaben und der Tabellen enthalten zur besseren Übersicht in den  Verzeichnissen das in Klammern gesetzte Kürzel ED für Erst-Dokumentation. Im Element <body> der XML- Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst enthält ein  Element <section>.
+In diesem Kapitel wird der Aufbau des bodys der „Erst-Dokumentation“ erläutert. Die Beschriftungen der  Abbildungen, der XML-Code-Angaben und der Tabellen enthalten zur besseren Übersicht in den  Verzeichnissen das in Klammern gesetzte Kürzel ED für Erst-Dokumentation. Im Element <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst enthält ein  Element <section>.
 
 Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
 
@@ -355,7 +355,7 @@ Das <section>-Element setzt sich aus sieben<paragraph>-Elementen zusammen. Ein <
 
 **Abbildung 3:** Grundstruktur section (ED)
 
-Eine Sektion enthält die Abschnitte: „Einschreibung“, „Anamnese und Behandlungsstatus des  Primärtumors/kontralateralen Brustkrebses“, „Aktueller Befundstatus des Primärtumors/kontralateralen  Brustkrebses“, „Behandlung des Primärtumors/kontralateralen Brustkrebses“, Befunde und Therapie von  Fernmetastasen „Sonstige Befunde“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind.
+Eine Sektion enthält die Abschnitte: „Einschreibung“, „Anamnese und Behandlungsstatus des  Primärtumors/kontralateralen Brustkrebses“, „Aktueller Befundstatus des Primärtumors/kontralateralen  Brustkrebses“, „Behandlung des Primärtumors/kontralateralen Brustkrebses“, Befunde und Therapie von  Fernmetastasen „Sonstige Befunde“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind.
 
 ### 5.1.1 caption
 
@@ -832,16 +832,12 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie
 
-Bei diesem Parameter enthält das Element  gemäß Tabelle 12. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element
-
-<sciphox:Beobachtung>.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 12. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-<sciphox:Ergebnistext> im
 
 **XML-Code 27**: Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie (ED)
 
@@ -958,7 +954,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Therapie bei Knochenmetastasen (Bisphosphonate)
 
-Bei diesem Parameter enthält das Element  gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben w diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben w diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -972,8 +968,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 \| Kontraindikation |
-
-<sciphox:Ergebnistext> im
 
 **Tabelle 16:** Werte bei Ergebnistext ( Therapie bei Knochenmetastasen (Bisphosphonate)
 
@@ -1182,7 +1176,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 # 6 BODY DER FOLGEDOKUMENTATION
 
-In diesem Kapitel wird der Aufbau des bodys der „Folge Dokumentation“ erläutert. Die Beschriftungen der  Abbildungen, der XML-Code-Angaben und der Tabellen enthalten zur besseren Übersicht in den  Verzeichnissen das in Klammern gesetzte Kürzel FD für Folge-Dokumentation. Im Element <body> der XML- Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst enthält ein  Element <section>.
+In diesem Kapitel wird der Aufbau des bodys der „Folge Dokumentation“ erläutert. Die Beschriftungen der  Abbildungen, der XML-Code-Angaben und der Tabellen enthalten zur besseren Übersicht in den  Verzeichnissen das in Klammern gesetzte Kürzel FD für Folge-Dokumentation. Im Element <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst enthält ein  Element <section>.
 
 ## 6.1 SEKTION (SECTION) (FD)
 
@@ -1377,11 +1371,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 26:** Werte bei Ergebnistext ( Bei Patientinnen unter adjuvanter Therapie mit  Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer  Osteoporose besteht: DXA -Befund) (FD)
 
-### 6.1.6 Abschnitt „Seit der letzten Dokumentation neu
+### 6.1.6 Abschnitt „Seit der letzten Dokumentation neu aufgetretene Ereignisse““
 
-Dieses Kapitel beschreibt den Abschnitt „Seit der letzten Dokumentation
+Dieses Kapitel beschreibt den Abschnitt „Seit der letzten Dokumentation neu aufgetretene Ereignisse
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält maximal fünf Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: „Lokoregionäres Rezidiv (Datum der histologischen  Sicherung)“, „Kontralateraler Brustkrebs (Datum des histologischen Sicherung) Fernmetastasen (Datum der diagnostischen Sicherung)“, „Symptomatisches Lymphödem“ und „Bioptische  Sicherung der viszeralen Metastasen“.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält maximal fünf Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: „Lokoregionäres Rezidiv (Datum der histologischen  Sicherung)“, „Kontralateraler Brustkrebs (Datum des histologischen Sicherung)“, „Lokalisation von  Fernmetastasen (Datum der diagnostischen Sicherung)“, „Symptomatisches Lymphödem“ und „Bioptische  Sicherung der viszeralen Metastasen“.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -1394,15 +1388,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Das Element <sciphox:Beobachtung> hat als Kindelemente konstanten Wert „Lokoregionäres Rezidiv (Datum der histologischen  <sciphox:Zeitpunkt_dttm> oder ein Element <sciphox:Ergebnistext> mit der Feldbezeichnung im
 
-### aufgetretene Ereignisse““
-
-neu aufgetretene Ereignisse
-
-sciphox:Beobachtungen>. Das Element
-
-“, „Lokalisation von
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung) </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> "/> "/>das Element <sciphox:Parameter> mit dem  Sicherung)“, ein Element  *V*-Attribut
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung) "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung) "/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>das Element <sciphox:Parameter> mit dem  Sicherung)“, ein Element  *V*-Attribut
 
 |  |  |
 |---|---|

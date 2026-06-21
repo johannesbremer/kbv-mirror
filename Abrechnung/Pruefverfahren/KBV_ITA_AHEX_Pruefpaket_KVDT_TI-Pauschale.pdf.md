@@ -74,7 +74,7 @@ Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung **„test_TI_<Syst
 
 # 3 PRÜFVORGABEN
 
-Werden in den Prüffällen keine Angaben zu den Feldkennungen (FK) der aktuell gültigen KVDT- Datensatzbeschreibung gemacht, so sind diese frei wählbar, z.B. die Leistungsangaben [Leistungstag, GNR  und Abrechnungsdiagnose (ICD-Code)], die Satzarten und Scheinuntergruppen. Allerdings müssen die  Satzarten, Scheinuntergruppen und Abrechnungsgebiete bei allen Prüffällen identisch sein, damit pro  Testpatient nicht mehrere Datensätze in der Abrechnungsdatei angelegt werden. D.h. pro Testpatient ist ein  Datensatz mit der gleichen Satzart, Scheinuntergruppe und dem gleichen Abrechnungsgebiet zu erzeugen.
+Werden in den Prüffällen keine Angaben zu den Feldkennungen (FK) der aktuell gültigen KVDT-Datensatzbeschreibung gemacht, so sind diese frei wählbar, z.B. die Leistungsangaben [Leistungstag, GNR  und Abrechnungsdiagnose (ICD-Code)], die Satzarten und Scheinuntergruppen. Allerdings müssen die  Satzarten, Scheinuntergruppen und Abrechnungsgebiete bei allen Prüffällen identisch sein, damit pro  Testpatient nicht mehrere Datensätze in der Abrechnungsdatei angelegt werden. D.h. pro Testpatient ist ein  Datensatz mit der gleichen Satzart, Scheinuntergruppe und dem gleichen Abrechnungsgebiet zu erzeugen.
 
 Als Abrechnungsquartal (**FK 9204**) und Behandlungsquartal (**FK 4101**) muss das vierte Quartal 2023 erfasst  werden.
 

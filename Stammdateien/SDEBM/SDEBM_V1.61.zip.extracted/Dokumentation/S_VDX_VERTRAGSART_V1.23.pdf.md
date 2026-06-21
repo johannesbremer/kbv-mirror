@@ -30,6 +30,12 @@ gültig ab:
 
 24
 
+1.2.276.0.76.5.257
+
+1.23
+
+01.10.2025
+
 25
 
 26
@@ -52,11 +58,7 @@ gültig ab:
 |---|---|
 | 35 | DMP COPD |
 
-Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_VDX_VERTRAGSART 1.2.276.0.76.5.257
-
-1.23
-
-01.10.2025
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_VDX_VERTRAGSART
 
 **Bezeichnung**
 

@@ -452,9 +452,9 @@ Frage 5: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre 
 
 **CPG-FRAGEBOGEN**
 
-Frage 6: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre  Unternehmungen im **Familien- und Freundeskreis** beeinträchtigt, wenn *0 = keine Beeinträchtigung und*  *10 = keine Aktivitäten mehr möglich*
+Frage 6: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre **Freizeitaktivitäten** Unternehmungen im **Familien- und Freundeskreis** beeinträchtigt, wenn *0 = keine Beeinträchtigung und*  *10 = keine Aktivitäten mehr möglich* bedeuten?
 
-Frage 7: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Beeinträchtigung und 10 = keine Aktivitäten mehr möglich* bedeuten?
+Frage 7: In welchem Maße haben Rückenschmerzen in  den letzten 3 Monaten Ihre **Arbeitsfähigkeit** (einschließlich Hausarbeit) beeinträchtigt, wenn  *Beeinträchtigung und 10 = keine Aktivitäten mehr möglich* bedeuten?
 
 **3.** **Anlegen einer Erst- und einer Verlaufsdokumentation**  **INDIKATIONSÜBERGREIFENDE DATEN**
 
@@ -490,15 +490,7 @@ Vom Patienten gewünschte  Informationsangebote der Krankenkasse
 
 Dokumentationsintervall
 
-Datum der Erstellung
-
-**Freizeitaktivitäten**
-
-bedeuten?
-
-**Arbeitsfähigkeit**
-
-6  oder
+Datum der Erstellung 6  oder
 
 5   *0 = keine*
 
@@ -861,7 +853,7 @@ Männlich 1,75 m
 
 Ja
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die CR- Dokumentation ist dies  COPD
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die CR-Dokumentation ist dies  COPD
 
 / Version: 1.02 / 12. Februar 2024
 
@@ -887,7 +879,7 @@ Männlich 1,75 m
 
 Nein
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die CR- Dokumentation ist dies  COPD
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die CR-Dokumentation ist dies  COPD
 
 
 ---
@@ -934,7 +926,7 @@ COPD Sonstige diagnosespezifische Medikation
 
 CR Aktuelle kreuzschmerzbedingte  Schmerzmedikation: Opioidanalgetika
 
-CR Aktuelle kreuzschmerzbedingte  Schmerzmedikation: Nicht- Opioidanalgetika
+CR Aktuelle kreuzschmerzbedingte  Schmerzmedikation: Nicht-Opioidanalgetika
 
 **Schulung**
 
@@ -1119,7 +1111,7 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben
 
 Patient oder Patientin ist mindestens 18 Jahre alt
 
-**Prüfunterlagen** Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen  Hinweissteuerung und wie das Softwaresystem die E  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch  Einblenden der entsprechenden Ziffer erfolgen.
+**Prüfunterlagen** Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen  Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch  Einblenden der entsprechenden Ziffer erfolgen.
 
 **Hinweis**
 
@@ -1160,8 +1152,6 @@ Vom Patienten gewünschte Informationsangebote der
 Krankenkasse
 
 Dokumentationsintervall
-
-ingabefehler verhindert.
 
 **Erstdokumentation**
 

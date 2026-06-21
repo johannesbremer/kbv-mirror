@@ -238,7 +238,7 @@ Die Regelungen der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 SGB V  Richtli
 
 **P2-110** und der  zu enthalten. Sie müssen mit den Angaben  § 131 Absatz 4 SGB V in  nach § 131 SGB V veröffentlicht hat.
 
-Arzneimittel- -RL und der Anlagen I bis VIIa
+Arzneimittel--RL und der Anlagen I bis VIIa
 
 Die Inhalte der AM-RL
 
@@ -459,15 +459,14 @@ SGB V in die
 - Für Arzneimittel, die Verordnungseinschränkungen/-ausschlüssen  Anlage III unterliegen: Texte der AM-RL soweit zutreffend als Kombination aus den  Spalten „Rechtliche Grundlagen und Hinweise“ und „Arzneimittel und sonstige  Produkte“ (Zuordnung der Texte erfolgt durch AM
 - Merkmal Therapiehinweis des G-BA (AM-RL Anlage IV) (Zuordnung der Texte erfolgt  durch AM-DB-Hersteller)
 - Stand des Therapiehinweises (Datum) und Verweis auf den Therapiehinweis als Link  auf das hinterlegte PDF-Dokument
-- Merkmal Arzneimittel der AM-RL Anlage VII Teil B (Zuordnung durch AM-DB- Hersteller)
+- Merkmal Arzneimittel der AM-RL Anlage VII Teil B (Zuordnung durch AM-DB-Hersteller)
 - Merkmal Beschluss zur Nutzenbewertung nach  vor (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a SGB V vom  G-BA auf den Internetseiten des G-BA)
-- Merkmal Richtlinie für Anforderungen an die Qualität der Anwendung von Arzneimitteln  für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes für  Arzneimittel mit Kennzeichen 061 (= Merkmal 109) (Quelle: maschinenlesbare  Fassung zu den Beschlüssen nach § 35a SGB G-BA)
+- Merkmal Richtlinie für Anforderungen an die Qualität der Anwendung von Arzneimitteln  für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes für  Arzneimittel mit Kennzeichen 061 (= Merkmal 109) (Quelle: maschinenlesbare  Fassung zu den Beschlüssen nach § 35a SGB V vom G-BA auf den Internetseiten des  G-BA)
 - Merkmal Begleitende Datenerhebung nach § 35a Absatz 3b SGB V; Ausprägungen:  „Begleitende Datenerhebung mit Verordnungseinschränkung nach  SGB V/ Begleitende Datenerhebung ohne Verordnungseinschränkung nach § 35a  Absatz 3b SGB V“ (= Merkmal 128) (Quelle: maschinenlesbare Fassung zu den  Beschlüssen nach § 35a Absatz 3 SGB V vom G
 - Merkmal regionale Arzneimittelvereinbarung nach § 84 Absatz 1 SGB V für dieses  Produkt (abhängig von KV-Zugehörigkeit (Zuordnung über Betriebsstättennummer
 - -130)
 - -DB-Hersteller)
 - § 35a SGB V (AM-RL Anlage XII) liegt
-- V vom G-BA auf den Internetseiten
 - -BA auf den Internetseiten
 
 ```
@@ -477,7 +476,6 @@ SGB V in die
 ```
 
 - der AM-RL
-- des
 - § 35a Absatz 3b
 - des G-BA)
 
@@ -514,21 +512,16 @@ Die nachfolgend aufgeführten XML bereitgestellte XML-Datei bzw. XSD-Schema.
 - 114
 - 115
 - 116
-- (BSNR) bzw. Nebenbetriebsstättennummer (NBSNR) und Fachgruppe (Zuordnung  über Lebenslange Arztnummer (
+- (BSNR) bzw. Nebenbetriebsstättennummer (NBSNR) und Fachgruppe (Zuordnung  über Lebenslange Arztnummer (LANR)))
 - Inhalte der regionalen Arzneimittelvereinbarungen entsprechend der von den KVen in  Abstimmung mit den regionalen Krankenkassenverbänden zur Verfügung gestellten  Stammdateien
-- Merkmal Rabattvereinbarung  Krankenkasse
-- Betrag Zuzahlung (§ 31  Rabattvereinbarung nach § 130a Absatz 8 SGB V
+- Merkmal Rabattvereinbarung nach § 130a Absatz 8 SGB V  Krankenkasse
+- Betrag Zuzahlung (§ 31 Absatz 3 SGB V) aufgrund  Rabattvereinbarung nach § 130a Absatz 8 SGB V
 - Merkmal Wegfall Mehrkosten (Festbetragsarzneimittel) nach § 31 Absatz 2 SGB V  aufgrund einer bestehenden Rabattvereinbarung nach § 130a Absatz 8 SGB V
 - Merkmal Praxisbesonderheit nach § 130b SGB V
 
 (Quelle: Internetseiten des GKV-SV, Aufbereitung durch AM-DB-Hersteller)
 
 - URL auf Regelung zur Praxisbesonderheit (Anlage I zur Vereinbarung nach § 130b  SGB V) (Quelle: Internetseiten des GKV-SV, Aufbereitung durch AM
-- LANR)))
-- nach § 130a
-- Absatz 3 SGB V)
-- Absatz 8 SGB V
-- aufgrund
 
 -Elemente bzw. die Pfade beziehen sich auf die vom G
 
@@ -850,128 +843,65 @@ e)
 
 ---
 
-- 165
-- 166
-- 167
-- 168
-- 169
-- 170
-- 171
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZSF_EP_UE/EP_UE_GRAF@value)
+
+- 165 Beschreibung der Ergebnisse der Kategorie Unerwünschte Ereignisse
+
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZSF_EP_UE/EP_UE_BES@value)
+
+- 166 Legende der grafischen Kurzdarstellung der Effekte der Ergebnisse der relevanten  klinischen Endpunkte
+
+(XML-Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZSF_EP_LEG@value)
+
+- 167 Überschrift der Zusammenfassung der Tragenden Gründe des Beschlusses des  Gemeinsamen Bundesausschusses
+
+(XML-Element  /BE/PAT_GR_INFO_Collection/ID_PAT_GR/UES_ZSF_TRG@value)
+
+- 168 Text der Zusammenfassung der Tragenden Gründe
+
+(XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZSF_TRG@value)
+
+- 169 Überschrift der Anforderungen an eine qualitätsgesicherte Anwendung
+
+(XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/UES_QGA@value)
+
+- 170 Text Qualitätsgesicherte_Anwendung
+
+(XML-Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/QGA@value)
+
+- 171 Verkürztes Anwendungsgebiet
+
+(XML-Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/AWG_KURZ@value)
 
 **Produktinformationen für sonstige Arzneimittel**
 
-- 199
+- 199 Bei Homöopathika und Anthroposophika sind die verfügbaren Informationen  einzustellen.
 
-**Angaben der Referenzdatenbank nach**
+**Angaben der Referenzdatenbank nach § 31b SGB V**
 
 Die Angaben der Referenzdatenbank nach § 31b SGB V sind für die Befüllung der  entsprechenden Felder in Medikationsplänen, insbesondere in denen des Bundeseinheitlichen  Medikationsplans BMP, zu verwenden. Sie dürfen nicht zur Verordnung verwendet werden.  Die Referenzdatenbank ist vom BfArM zu beziehen.
 
 **Hinweis:**
 
-Derzeit wird nur der Teil der von der Referenzdatenbank bereitgestellten Informationen  übernommen, der zur Befüllung des BMP benötigt wird. Eine Berücksichtigung weiterer von  der  Weiterentwicklung  Telematikinfrastruktur implementiert wurde.
+Derzeit wird nur der Teil der von der Referenzdatenbank bereitgestellten Informationen  übernommen, der zur Befüllung des BMP benötigt wird. Eine Berücksichtigung weiterer von  der Referenzdatenbank bereitgestellter Informationen wird geprüft, sobald die  Weiterentwicklung des elektronischen Medikationsplans als Anwendung in der  Telematikinfrastruktur implementiert wurde.
 
-Die Bezeichnungen in den eckig en Klammern entsprechen der maßgeblichen Technischen  Dokumentation „Bereitstellung der Referenzdatenbank gemäß  300, 301, 302 und 306 kommen jeweils einmal vor; die Merkmale 303, 304 und 305 können  mehrfach vorkommen.
+Die Bezeichnungen in den eckig en Klammern entsprechen der maßgeblichen Technischen  Dokumentation „Bereitstellung der Referenzdatenbank gemäß § 31b SGB V“. Die Merkmale  300, 301, 302 und 306 kommen jeweils einmal vor; die Merkmale 303, 304 und 305 können  mehrfach vorkommen.
 
-300
+300 Kennzeichen Kombipackung [RMP_MULTIPLE_PPT]
 
-301
+301 Kennzeichen Kombipräparat [RMP_COUNT_SUBSTANCE]
 
-302
+302 Dafo_Artikel_kurz [RMP_PFM_PUT_SHORT]
 
-303
+303 Rangfolge des Wirkstoffs [RSE_SUBSTANCE_RANK]
 
-304
+304 Wirkstoff [RSE_SUBSTANCE_NAME]
 
-305
+305 Stärke [RSE_SUBSTANCE_STRENGTH]
 
-306
+306 Arzneimittelbezeichnung [RMP_MPD_NAME]
 
 **Hinweis:**
-
-(XML-Element  /BE/PAT_GR_INFO_Collection
-
-- Beschreibung der Ergebnisse der Kategorie Unerwünschte Ereignisse
-
-(XML-Element  /BE/PAT_GR_INFO_Collection
-
-- Legende der grafischen Kurzdarstellung der Effekte der Ergebnisse der relevanten
-- klinischen Endpunkte
-
-(XML-Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZSF_EP_LEG@value)
-
-- Überschrift der Zusammenfassung der Tragenden Gründe des Beschlusses des  Gemeinsamen Bundesausschusses
-
-(XML-Element  /BE/PAT_GR_INFO_Collection
-
-- Text der Zusammenfassung der T
-
-(XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/ZSF_TRG@value)
-
-- Überschrift der Anforderungen an eine qualitätsgesicherte Anwendung
-
-(XML-Element /BE/PAT_GR_INFO_Collection/ID_PAT_GR/UES_QGA@value)
-
-- Text Qualitätsgesicherte_Anwendung
-
-(XML-Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/QGA@value)
-
-- Verkürztes Anwendungsgebiet
-
-(XML-Element …/BE/PAT_GR_INFO_Collection/ID_PAT_GR/AWG_KURZ@value)
-
-- Bei Homöopathika  einzustellen.
-- und Anthroposophika
-
-Referenzdatenbank bereitgestellter  des elektronischen
-
-Kennzeichen Kombipackung [RMP_MULTIPLE_PPT]
-
-Kennzeichen Kombipräparat [RMP_COUNT_SUBSTANCE]
-
-Dafo_Artikel_kurz [RMP_PFM_PUT_SHORT]
-
-Rangfolge des Wirkstoffs [RSE_SUBSTANCE_RANK]
-
-Wirkstoff [RSE_SUBSTANCE_NAME]
-
-Stärke [RSE_SUBSTANCE_STRENGTH]
-
-Arzneimittelbezeichnung [RMP_MPD_NAME]
-
-/ID_PAT_GR/ZSF_EP_UE/EP_UE_GRAF@value)
-
-```
--
-```
-
-/ID_PAT_GR/ZSF_EP_UE/EP_UE_BES@value)
-
-```
--
-```
-
-/ID_PAT_GR/UES_ZSF_TRG@value)
-
-- ragenden Gründe
-
-```
--
--
-```
-
-- sind die verfügbaren Informationen
-
-**§ 31b SGB V**
-
-Informationen  Medikationsplans
-
-wird  als
-
-§ 31b SGB V
-
-geprüft, sobald die  Anwendung in der
-
-“. Die Merkmale
 
 
 ---
@@ -1257,16 +1187,18 @@ leere Hausapotheke  are.
 
 ---
 
--  Bei der Übernahme eines Produktes aus der Hausapotheke auf ein Rezept sind die  Vorgaben aus Kapitel 3.9 zu berücksichtigen.
+-  Bei der Übernahme eines Produktes aus der Hausapotheke auf ein Rezept sind die  Vorgaben aus Kapitel
 
 **Begründung:**
 
 Um dem Anwender einen einfachen Zugriff auf seine häufig verschriebene geben, kann der Softwarehersteller dem Anwender eine sogenannte Hausapotheke zur  Verfügung stellen.
 
+- 3.9 zu berücksichtigen.
+
 **Akzeptanzkriterium:**
 
 - (1) Für Produkte, die aus dem Preis- und Produktverzeichnis ausgewählt wurden und  denen eine PZN (001, 201, 401, 501, 601) zugeordnet ist, muss auf Packungsebene  mindestens die PZN des Produktes in der Hausapotheke gespeichert werden.
-- o Hinweis:  Die weiteren Informationen zu dieser PZN, die im Rahmen der Verordnung aus  der Hausapotheke anzuzeigen sind, sind unter
+- o Hinweis:  Die weiteren Informationen zu dieser PZN, die im Rahmen der Verordnung aus  der Hausapotheke anzuzeigen sind, sind unter **P3-120** definiert.
 - (2) Für Produkte, die nicht eineindeutig durch eine PZN gekennzeichnet sind  eine Freitextverordnung verordnet wurden, sind die gemäß de r Anforderung definierten Informationen zu speichern
 - (3) Für Produkte, die nicht eineindeutig durch eine PZN gekennzeichnet sind  eine Wirkstoffverordnung gemäß O3-622 verordnet wurden, Anforderung O3-622 definierten Informationen zu speichern
 - (4) Für Produkte, die nicht eineindeutig durch eine PZN gekennzeichnet sind  eine Rezepturverordnung gemäß O3-623 verordnet wurden, Anforderung O3-623 definierten Informationen zu speichern
@@ -1275,8 +1207,6 @@ Um dem Anwender einen einfachen Zugriff auf seine häufig verschriebene geben, k
 **Bedingung:**
 
 Umsetzung der Anforderung **O2-145**
-
-- **P3-120** definiert.
 
 n Arzneimittel zu
 
@@ -1586,7 +1516,7 @@ Bei Erwachsenen und Jugendlichen ab Vollendung des 12. Lebensjahres bis zur Voll
 ---
 
 - (1) Die Software kann eine Abänderung der Reihenfolge der in der Funktion **P3-120** genannten Informationen bzw. Tabellenspalten ermöglichen. geben, die Voreinstellung der Reihenfolge der Tabellenspalten wiederherzustellen.
--  Es muss eine Möglichkeit
+- Es muss eine Möglichkeit
 - (2) Die Software muss durch **maximal** eine Interaktion die weiteren geforderte nach
 - n Merkmale  **P3-121** anzeigen.
 
@@ -1682,19 +1612,19 @@ Die Vertragsärztin bzw. der Vertragsarzt muss die Möglichkeit haben, sich in d
 
 Gemäß  Verordnungssoftware archiviert bzw. aufrufbar sein.
 
-§ 3 Abs. 4 EAMIV müssen
+§ 3 Abs. 4 EAMIV müssen alle Rote-Hand-Briefe
 
 **Akzeptanzkriterium:**
 
 - (1) Die Vertragsärztin bzw. der Vertragsarzt muss in der Verordnungssoftware die  Möglichkeit haben, sich alle Rote-Hand-Briefe, die ab dem 01.04.2023 veröffentlicht  wurden, nach EAMIV (Archivierte sowie Aktuelle) anzeigen zu lassen.
-- (2) Der Vertragsärztin bzw. dem Vertragsarzt werden in geeigneter Weise (bspw.  tabellarisch) pro Rote-Hand-Brief
+- (2) Der Vertragsärztin bzw. dem Vertragsarzt werden in geeigneter Weise (bspw.  tabellarisch) pro Rote-Hand-Brief nach EAMIV mindestens
 - Informationen angezeigt:
 
 a. Titel des Rote-Hand-Briefs nach EAMIV [Merkmal 354]
 
 b. Gültigkeitsbeginn des Rote-Hand-Briefs nach EAMIV [Merkmal 351]
 
-c. Sofern vorhanden Gültigkeitsende
+c. Sofern vorhanden Gültigkeitsende des Rote-Hand-Briefs
 
 - [Merkmal 352]
 
@@ -1706,22 +1636,9 @@ a. Die Verordnungssoftware kann der Vertragsärztin bzw. dem Vertragsarzt  weite
 
 **Hinweis:**
 
-Alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, müssen nicht zwingend  im Archiv gelistet werden. Eine zusätzliche Listung dieser älteren Rote optional möglich. Für alle Rote-Hand-Briefe, die vor dem 01.04.2023 ve keine Zuordnung zu Fertigarzneimitteln notwendig
+Alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, müssen nicht zwingend  im Archiv gelistet werden. Eine zusätzliche Listung dieser älteren Rote optional möglich. Für alle Rote-Hand-Briefe, die vor dem 01.04.2023 ve keine Zuordnung zu Fertigarzneimitteln notwendig, jedoch optional möglich.
 
 Für alle Rote-Hand-Briefe, die zum Zeitpunkt des 01.10.2023 älter als sechs Monate sind, ist  keine Zuordnung zu Fertigarzneimitteln notwendig. Die Rote -Hand-Briefe, die zum Zeitpunkt  des 01.10.2023 älter als sechs Monate sind, müssen lediglich im Archiv, als PDF -Dokument  oder per Hyperlink aufrufbar, gelistet werden.
-
-alle Rote-Hand-Briefe
-
-- nach
-
-, jedoch optional möglich.
-
-- EAMIV mindestens
-- des Rote-Hand-Briefs
-
-```
--
-```
 
 fortlaufend in der
 
@@ -1943,7 +1860,7 @@ Das Informationsangebot für Ärztinnen und Ärzte über die Nutzenbewertung von
 **Akzeptanzkriterien:**
 
 - (1) Die Verordnungssoftware muss sicherstellen, dass jeder Beschluss nach § 35 a SGB V  (Merkmal 103) mit Beschlussdatum nach dem 30.06.2020 (Merkmal 131) einmalig  aktiv gemäß **P3-265** Akzeptanzkriterium 1 oder ggf. 4 angezeigt wird.
-- (2) Wenn bei Aufruf des Arzneimittels in der Verordnungssoftware ein oder mehrere ICD- 10-GM-Kode(s) des Patienten vorliegen und diese mindestens einem ICD-10-GM- Kode („ICD-10-GM-Kode des Patienten“ gleich Merkmal 136) entsprechen, dürfen nur  die entsprechenden Beschlussinformationen gemäß Akzeptanzkriterium 1 angezeigt  werden; alle weiteren Beschlussinformationen müssen mit einer zusätzlichen Aktion  angezeigt werden können.
+- (2) Wenn bei Aufruf des Arzneimittels in der Verordnungssoftware ein oder mehrere ICD-10-GM-Kode(s) des Patienten vorliegen und diese mindestens einem ICD-10-GM-Kode („ICD-10-GM-Kode des Patienten“ gleich Merkmal 136) entsprechen, dürfen nur  die entsprechenden Beschlussinformationen gemäß Akzeptanzkriterium 1 angezeigt  werden; alle weiteren Beschlussinformationen müssen mit einer zusätzlichen Aktion  angezeigt werden können.
 - (3) Wenn bei Aufruf des Arzneimittels in der Verordnungssoftware kein ICD-10-GM-Kode  des Patienten vorliegt, müssen die Beschlussinformationen aller Beschlüsse des  Arzneimittels gemäß Akzeptanzkriterium 1 angezeigt werden.
 - (4) Die Anzeige erfolgt in einer deutlich wahrnehmbaren, wiedererkennbaren und  einheitlichen Form ohne zusätzliche Anwenderinteraktion.
 - (5) Die Verordnungssoftware soll einen Beschluss gemäß Akzeptanzkriterien 1 und 2 nicht  mehr aktiv anzeigen, wenn dieser angezeigt wurde.
@@ -2015,7 +1932,7 @@ Arzneimittel und sonstige nach § 31 SGB V in die Arzneimittelversorgung einbezo
 
 Eine kombinierte Abfrage ist möglich. Ein Produkt oder Wirkstoff kann auch über die Eingabe  der ersten Buchstaben aufgerufen werden. Eine Suche mit dem ATC-Code und der Bedeutung  des ATC-Codes kann entweder durch Eingabe des ATC-Codes (7- oder 5-stellig) oder  Auswahl aus einer Baumstruktur der ATC-Klassifikation erfolgen.
 
-Der ICD-10-GM-Kode sowie die Bezeichnung des ICD-10-GM-Kodes müssen mittels  Freitextsuche gesucht werden können, weitere Möglichkeiten der Suche bezüglich ICD-10- GM-Kode sowie Bezeichnung des ICD-10-GM-Kodes sind möglich.
+Der ICD-10-GM-Kode sowie die Bezeichnung des ICD-10-GM-Kodes müssen mittels  Freitextsuche gesucht werden können, weitere Möglichkeiten der Suche bezüglich ICD-10-GM-Kode sowie Bezeichnung des ICD-10-GM-Kodes sind möglich.
 
 | OPTIONALE FUNKTION | |
 |---|---|
@@ -2172,7 +2089,7 @@ Fordert die Ärztin bzw. der Arzt Substitutionsvorschläge an, so sind alle verf
 |---|---|
 | **P3-430** | **Keine automatische Belegung von „aut idem“** |
 
-Eine automatische Belegung des Rezeptfelds „aut idem“ ist unzulässig. Hersteller -, produkt-  oder gesamtsortimentsbezogene „aut idem“-Konfigurationen sind unzulässig. Für wiederholte  Verordnungen ist die Übernahme eines durch die Ärztin bzw. den Arzt gesetzten „aut idem“ Kreuzes für denselben Patienten zulässig. Die endgültige Auswahl muss durch die Ärztin bzw.  den Arzt erfolgen.
+Eine automatische Belegung des Rezeptfelds „aut idem“ ist unzulässig. Hersteller -, produkt- oder gesamtsortimentsbezogene „aut idem“-Konfigurationen sind unzulässig. Für wiederholte  Verordnungen ist die Übernahme eines durch die Ärztin bzw. den Arzt gesetzten „aut idem“ Kreuzes für denselben Patienten zulässig. Die endgültige Auswahl muss durch die Ärztin bzw.  den Arzt erfolgen.
 
 ---
 
@@ -2202,13 +2119,9 @@ In den Benutzereinstellungen der Verordnungssoftware ist  vorzusehen, die es der
 |---|---|
 | **P3-520** | **Anzeige von preisgünstigeren Arzneimitteln** |
 
-Bei Arzneimittelverordnungen  wirkstoffgleicher zur Substitution geeigneter Arzneimittel zu geben. Diese Hinweise können  durch Kennzeichnung erfolgen, müssen aber ohne gesonderte Anwenderaktion im Verlauf des  Verordnungsdialogs sichtbar sein. Hinweise dürfen den Workflow nicht unterbrechen.
+Bei Arzneimittelverordnungen sind Hinweise auf das Vorliegen  wirkstoffgleicher zur Substitution geeigneter Arzneimittel zu geben. Diese Hinweise können  durch Kennzeichnung erfolgen, müssen aber ohne gesonderte Anwenderaktion im Verlauf des  Verordnungsdialogs sichtbar sein. Hinweise dürfen den Workflow nicht unterbrechen.
 
-Die detaillierte Anzeige alternativer Arzneimittel erfolgt auf Anforderung de Arztes gemäß
-
-sind Hinweise auf das Vorliegen
-
-**P3-400 P3-325** ist zu beachten.
+Die detaillierte Anzeige alternativer Arzneimittel erfolgt auf Anforderung de Arztes gemäß **P3-400 P3-325** ist zu beachten.
 
 **P3-400**
 
@@ -2433,15 +2346,13 @@ Beispiel: Ramipril XYZ-Pharma 2,5 mg 20 Tbl. N1 PZN01234567  Dj
 - (10) Die Angabe der Dosierung bzw. die Markierung über die Vorlage  Medikationsplans oder einer schriftlichen Dosierungsanweisung kann  werden. Die Übernahme im Rahmen der wiederholten Verordnung (
 - Patienten ist zulässig.
 
-**Hinweis:** Rezepturen sind von dieser Regelung ausgenommen, da hier anstelle der  Dosierung immer eine **Gebrauchsanweisung** Dosierungsangabe nach** P3-625** ist daher bei Rezepturen nicht vorgesehen.
+**Hinweis:** Rezepturen sind von dieser Regelung ausgenommen, da hier anstelle der  Dosierung immer eine **Gebrauchsanweisung** angegeben werden muss. Dosierungsangabe nach** P3-625** ist daher bei Rezepturen nicht vorgesehen.
 
 | PFLICHTFUNKTION | |
 |---|---|
 | **P3-630** | **Ersatzverordnung** |
 
 Die Verordnungssoftware muss das Erstellen einer Ersatzverordnung nach § 31 Absatz 3  Satz 7 SGB V ermöglichen.
-
-angegeben werden muss.
 
 **Begründung:**
 
@@ -2600,7 +2511,7 @@ Hiervon ausgenommen sind
 
 - Verordnungen (**P3-621 O3-**
 - bei Wirkstoff-,
--  der  zur Verfügung gestellt
+- der  zur Verfügung gestellt
 
 
 ---
@@ -2655,7 +2566,7 @@ Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  Arzneimi
 - (2) Die Verordnungssoftware muss bis zu drei Verordnungszeilen je Verordnungsblatt  aufdrucken können.
 - (3) Akzeptanzkriterium 2 gilt nicht für Rezepturverordnungen **O3-623** Ersatzverordnungen (**P3-630**) sowie Mehrfachverordnungen.
 - (4) Die Verordnungssoftware muss sicherstellen, dass die gleichzeitige Verwendung  eines Arzneiverordnungsblatts für die Verordnung von Hilfsmitteln und Arzneimitteln  unzulässig ist. Die Verordnungssoftware muss die Vertragsärztin bzw. den  Vertragsarzt bei der Bedruckung darauf hinweisen, dass getrennte Verordnungsblätter  zu verwenden sind.
-- (5) Das System muss die Schriftgröße automatisch skalieren, um die Informationen  vollständig abzubilden  minimale Schriftgröße ist 10 pt. Es soll eine der Monotype- Schriftarten Courier bzw. Courier New verwendet werden. Bei dem Einsatz von  Nadeldruckern ist zusätzlich der Modus NLQ Mindestvoraussetzung.
+- (5) Das System muss die Schriftgröße automatisch skalieren, um die Informationen  vollständig abzubilden  minimale Schriftgröße ist 10 pt. Es soll eine der Monotype-Schriftarten Courier bzw. Courier New verwendet werden. Bei dem Einsatz von  Nadeldruckern ist zusätzlich der Modus NLQ Mindestvoraussetzung.
 - (6) Der zur Verfügung stehende Platz auf dem Verordnungsblatt ist bestmöglich  auszunutzen. Ziel ist es, drei Verordnungen abzubilden (Akzeptanzkriterium 2). Sofern  eine Dosierung auf dem Rezept angegeben wird **P3-625**) und dadurch die in den  Pflichtfunktionen **P3-721** und **K3-722** genannten Informationen nicht im Ausdruck über  zwei Zeilen abbildbar sind, kann die Verordnungssoftware mehrere Zeilen verwenden.
 - o In diesem Fall muss die Verordnungssoftware die Vertragsärztin bzw. den  Vertragsarzt in geeigneter Weise darüber in Kenntnis setzen, wie viele  Verordnungsblätter benötigt werden, und ihm die Möglichkeit geben, die  Angaben zu kürzen, um bis zu drei Verordnungen abzubilden (ggf. unter  Nutzung von Akzeptanzkriterium 7).
 - (7) Die Software kann die Vertragsärztin bzw. den Vertragsarzt dabei unterstützen,  Verordnungsinformationen einzukürzen, sofern diese nicht vollständig in dem  verfügbaren Platz gedruckt werden können
@@ -2916,7 +2827,7 @@ Zusätzlich kann das System generell Konfigurationsmöglichkeiten abweichend von
 |---|---|
 | **P3-731** | **Abbildung der Formularauswahl bei einer elektronischen Verordnung** |
 
-Bei einer elektronischen Verordnung ist die getroffene Formularauswahl über eine vorgegebene Kombination von FHIR
+Bei einer elektronischen Verordnung ist die getroffene Formularauswahl über eine vorgegebene Kombination von FHIR-Elementen abzubilden.
 
 **Begründung**
 
@@ -2924,7 +2835,7 @@ Bei der elektronischen Verordnung spielt das zugrundeliegende papiergebundene Fo
 
 **Akzeptanzkriterien**
 
-Die Verordnungssoftware muss bei einer elektronischen Verordnung  im FHIR-Datensatz hinterlegen:
+Die Verordnungssoftware muss bei einer elektronischen Verordnung abhängig von der Formularauswahl nach P3-730 die folgenden Informationen  im FHIR-Datensatz hinterlegen:
 
 | PAPIERGEBUNDENE | ABBILDUNG IN DER ELEKTRONISCHEN |  | |
 |---|---|---|---|
@@ -2933,10 +2844,7 @@ Die Verordnungssoftware muss bei einer elektronischen Verordnung  im FHIR-Datens
 | Element | Coverage.type.coding.code | Medication.extension(https://fhir. |  |
 | **Mapping der Formularauswahl auf die Codes der FHIR** |  | | |
 
-abhängig von der Formularauswahl nach P -Elementen abzubilden.
-
-FORMULARAUSWAHL Elemente VERORDNUNG edient KBV_PR_ERP_Medication_Co mpounding eText kbv.de/StructureDefinition/KBV_ EX_ERP_Medication_Category) .valueCoding.code 3-730 die folgenden Informationen
-
+FORMULARAUSWAHL VERORDNUNG edient KBV_PR_ERP_Medication_Co mpounding eText kbv.de/StructureDefinition/KBV_ EX_ERP_Medication_Category) .valueCoding.code Elemente
 
 ---
 
@@ -3204,7 +3112,7 @@ SGB V in die Arzneimittelversorgung einbezogene Produkte zu  verstehen.
 
 Elektronische Verordnung Die elektronische Verordnung nach § 86 SGB V
 
-Papiergebundene Verordnung Arzneiverordnungsblatt (Muster 16), BtM-Rezept, T- Rezept, Privat-Rezept.
+Papiergebundene Verordnung Arzneiverordnungsblatt (Muster 16), BtM-Rezept, T-Rezept, Privat-Rezept.
 
 Hinweis
 

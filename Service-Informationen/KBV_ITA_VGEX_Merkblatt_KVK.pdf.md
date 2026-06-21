@@ -54,6 +54,8 @@ Seite 2 von 25
 
 **1** **DIE VERARBEITUNG DER DATEN DER KVK**
 
+**6**
+
 **1.1** **Datenstruktur der Versichertendaten - ASN.1 ............................................................................ 6**
 
 **1.2** **Datenstruktur der Versichertendaten - Festformat .................................................................... 8**
@@ -66,49 +68,37 @@ Seite 2 von 25
 
 #### UND KARTEN-TERMINAL
 
-**2.1.** **Übertragungsparameter ............................................................................................................. 10**
+**10**
 
-2.1.1 Übertragungs-Protokoll ........................................................................................................ 10
+**2.1.** **Übertragungsparameter ............................................................................................................. 10**  2.1.1 Übertragungs-Protokoll ........................................................................................................ 10
 
 **3** **BESCHREIBUNG DER KOMMANDOS FÜR DIE KVK-ANWENDUNG UND ZUR**
 
 #### STEUERUNG DES KARTEN-TERMINALS
 
-**3.1** **RESET CT ......................................................................................................................**
+**17**
 
-**3.2** **REQUEST ICC ...................................................................................................................**
+**3.1** **RESET CT ..................................................................................................................................... 18**
 
-**3.3** **EJECT ICC .....................................................................................................................**
+**3.2** **REQUEST ICC .............................................................................................................................. 19**
+
+**3.3** **EJECT ICC .................................................................................................................................... 20**
 
 **4** **KVK-ANWENDUNGS-KOMMANDOS 21**
 
 **4.1** **SELECT FILE ................................................................................................................................ 21**
 
-**4.2** **READ BINARY ..............................................................................................................................**
+**4.2** **READ BINARY .............................................................................................................................. 22**
 
 **5** **ABLAUF DER KVK-ANWENDUNG**
 
-**6** **SERIELLE SCHNITTSTELLE**
-
-KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
-
-**6**
-
-**10**
-
-**17**
-
-**............... 18**
-
-**........... 19**
-
-**............... 20**
-
-**22**
-
 **24**
 
+**6** **SERIELLE SCHNITTSTELLE**
+
 **25**
+
+KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 
 ---
@@ -395,7 +385,7 @@ j k l 7A 7B 7C
 
 z ä ö
 
-Hex- Code  '26'  '28'  '2B'  '2E'  '5F'
+Hex-Code  '26'  '28'  '2B'  '2E'  '5F'
 
 2D 2E 2F  45 46 47
 
@@ -432,7 +422,7 @@ Geschwindigkeit (Baud Rate): 9600 Baud
 
 Zeichenrahmen (Character-Frame): 1 Startbit, 8 Datenbits, 1 Parity bit (Even
 
-Parity),  Stopbit: Bit b1 ist das 'least significant bit (lsb)', Bit b8 das 'most significant bit  (msb)'; das lsb-Bit wird stets zuerst übertragen.  Zu unterstützende Größe des Informationsfeldes in einem Übertragungsblock  (Information Field Size CardTerminal IFST): 0 - 254 Bytes.  Maximale Wartezeit auf einen Übertragungsblock mit der Rückantwort zu einem  vorher gesandten Kommando (Block Waiting Time BWT): 1000 ms.  Maximaler Zeitabstand zwischen zwei Zeichen eines Übertragungsblocks  (Character Waiting Time CWT): 100 ms.  Minimale Wartezeit zwischen Empfang des letzten Zeichens eines Blocks und  Aussenden des ersten Zeichens des Antwort-Blocks (Block Guard Time BGT):  2 ms.  Prüfsumme (Error Detection Code EDC): XOR (Exclusiv-Oder-Verknüpfung).  RTS- und CTS-Leitungen: RTS- und CTS-Leitungen werden von der Host- Software nicht überwacht. Es ist daher ein gebrücktes Kabel zu verwenden.   **2.1.1 Übertragungs-Protokoll**  Als Übertragungsprotokoll wird das standardisierte asynchrone 'Block Transmission Protocol  T=1' (ISO/IEC 7816-3/AM 1) verwendet. Abb. 1 zeigt den allgemeinen Aufbau eines  Übertragungsblocks.
+Parity),  Stopbit: Bit b1 ist das 'least significant bit (lsb)', Bit b8 das 'most significant bit  (msb)'; das lsb-Bit wird stets zuerst übertragen.  Zu unterstützende Größe des Informationsfeldes in einem Übertragungsblock  (Information Field Size CardTerminal IFST): 0 - 254 Bytes.  Maximale Wartezeit auf einen Übertragungsblock mit der Rückantwort zu einem  vorher gesandten Kommando (Block Waiting Time BWT): 1000 ms.  Maximaler Zeitabstand zwischen zwei Zeichen eines Übertragungsblocks  (Character Waiting Time CWT): 100 ms.  Minimale Wartezeit zwischen Empfang des letzten Zeichens eines Blocks und  Aussenden des ersten Zeichens des Antwort-Blocks (Block Guard Time BGT):  2 ms.  Prüfsumme (Error Detection Code EDC): XOR (Exclusiv-Oder-Verknüpfung).  RTS- und CTS-Leitungen: RTS- und CTS-Leitungen werden von der Host-Software nicht überwacht. Es ist daher ein gebrücktes Kabel zu verwenden.   **2.1.1 Übertragungs-Protokoll**  Als Übertragungsprotokoll wird das standardisierte asynchrone 'Block Transmission Protocol  T=1' (ISO/IEC 7816-3/AM 1) verwendet. Abb. 1 zeigt den allgemeinen Aufbau eines  Übertragungsblocks.
 
 **NAD PCB LEN**
 
@@ -583,7 +573,7 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 **IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
-**2.1.1.2 Übertragung**  Wird ein fehlerhafter I-Block empfangen, ist dies dem Kommunikationspartner mit einem R- Block anzuzeigen (siehe Abb. 6). Hierbei hat Bit b5 des R-Blocks den Wert der Send  Sequence Number des Blocks, der wiederholt werden soll.
+**2.1.1.2 Übertragung**  Wird ein fehlerhafter I-Block empfangen, ist dies dem Kommunikationspartner mit einem R-Block anzuzeigen (siehe Abb. 6). Hierbei hat Bit b5 des R-Blocks den Wert der Send  Sequence Number des Blocks, der wiederholt werden soll.
 
 **Host**  **(PC oder**  **Workstation)**
 
@@ -615,7 +605,7 @@ I-Block  I-Block   R-Block   I-Block
 
 Tritt ein Fehler zum zweiten Mal hintereinander auf, ist vom Host her eine Resynchronisation  durchzuführen (siehe Abschnitt 4). Auch in anderen Fehlersituationen (z.B. falscher R-Block  oder Timeout) ist eine Resynchronisation anzustoßen. Blöcke, deren Adressen im NAD-Byte  fehlerhaft sind, werden vom CardTerminal ignoriert, d.h. es wird keine Antwort gesendet.
 
-**2.1.1.3. Antwortzeit-Verlängerung**  Empfängt das Karten-Terminal ein Kommando, dessen Ausführung länger als die Block  Waiting Time von 1000 ms dauert (das kommt z.B. beim Anfordern der Chipkarte vor), dann  sendet das Karten-Terminal einen WTX request (WTX = Waiting Time Extension), der vom  Host her mit einem WTX response zu beantworten ist. WTX request/response werden mit  einem S-Block (Supervisory block) übertragen (PCB-Codierung siehe Abb. 7), wobei im INF- Feld der 1-byte-lange Multiplikator des BWT-Wertes angegeben wird. Für die KVK- Anwendung soll dieser Multiplikator auf den festen Wert 1 gesetzt werden. Die Waiting Time  Extension beginnt, nachdem das letzte Byte der WTX response empfangen wurde. Sie  bezieht sich grundsätzlich nur auf den nächsten zu übertragenden Antwort-Block.
+**2.1.1.3. Antwortzeit-Verlängerung**  Empfängt das Karten-Terminal ein Kommando, dessen Ausführung länger als die Block  Waiting Time von 1000 ms dauert (das kommt z.B. beim Anfordern der Chipkarte vor), dann  sendet das Karten-Terminal einen WTX request (WTX = Waiting Time Extension), der vom  Host her mit einem WTX response zu beantworten ist. WTX request/response werden mit  einem S-Block (Supervisory block) übertragen (PCB-Codierung siehe Abb. 7), wobei im INF-Feld der 1-byte-lange Multiplikator des BWT-Wertes angegeben wird. Für die KVK-Anwendung soll dieser Multiplikator auf den festen Wert 1 gesetzt werden. Die Waiting Time  Extension beginnt, nachdem das letzte Byte der WTX response empfangen wurde. Sie  bezieht sich grundsätzlich nur auf den nächsten zu übertragenden Antwort-Block.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
@@ -655,7 +645,7 @@ S-Block indication
 
 Ein WTX request kann auch vom Host abgelehnt werden. In diesem Fall wird als Antwort auf  ein WTX request ein RESYNCH request gesendet, das vom Karten-Terminal mit RESYNCH  response zu beantworten ist. Einzelheiten hierzu sind im Abschnitt 4 beschrieben.
 
-**2.1.1.4. Resynchronisation** Zur Resynchronisation kann vom PC bzw. der Workstation ein RESYNCH request gesendet  werden, der vom Karten-Terminal mit dem RESYNCH response zu beantworten ist. Der  RESYNCH request ist immer nach dem Start der KVK-Anwendung vom Host zum Karten- Terminal zu senden. Auch in bestimmten Fehlersituationen (siehe Abschnitt 2) sowie zum  Abbruch eines Kommandos, falls dies notwendig ist (siehe Abschnitt 3), ist der RESYNCH- Mechanismus einzusetzen. Mit dem RESYNCH request/response-Paar werden die  Übertragungsprotokollautomaten in Host und Karten-Terminal synchronisiert bzw. nach  fehlerhafter oder unterbrochener Kommunikation resynchronisiert. Die Sende-Sequenz- Zähler werden durch diesen Befehl ebenfalls auf Null zurückgesetzt. Ein ggf. in Bearbeitung  befindliches Anwendungs-Kommando wird abgebrochen. Die Codierung von RESYNCH  request/response ist in Abb. 8 dargestellt.
+**2.1.1.4. Resynchronisation** Zur Resynchronisation kann vom PC bzw. der Workstation ein RESYNCH request gesendet  werden, der vom Karten-Terminal mit dem RESYNCH response zu beantworten ist. Der  RESYNCH request ist immer nach dem Start der KVK-Anwendung vom Host zum Karten-Terminal zu senden. Auch in bestimmten Fehlersituationen (siehe Abschnitt 2) sowie zum  Abbruch eines Kommandos, falls dies notwendig ist (siehe Abschnitt 3), ist der RESYNCH-Mechanismus einzusetzen. Mit dem RESYNCH request/response-Paar werden die  Übertragungsprotokollautomaten in Host und Karten-Terminal synchronisiert bzw. nach  fehlerhafter oder unterbrochener Kommunikation resynchronisiert. Die Sende-Sequenz-Zähler werden durch diesen Befehl ebenfalls auf Null zurückgesetzt. Ein ggf. in Bearbeitung  befindliches Anwendungs-Kommando wird abgebrochen. Die Codierung von RESYNCH  request/response ist in Abb. 8 dargestellt.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
@@ -864,7 +854,7 @@ Application Id. (AID)
 
 ```
 SELECT File
-AID der Krankenversicherten-  '06' Anwendung: 'D27600000101'*) bzw.
+AID der Krankenversicherten- '06' Anwendung: 'D27600000101'*) bzw.
 'D28000000101'
 Selection Control:
 '04' = Application ID (AID)

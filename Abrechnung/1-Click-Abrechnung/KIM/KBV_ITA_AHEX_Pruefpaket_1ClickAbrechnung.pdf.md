@@ -426,7 +426,7 @@ Der Antragsteller muss eine schriftliche, formlose Beschreibung des gesamten Abl
 
 ## 3.8 PF-08 ANFORDERUNGEN [1CLICK0819]  VERSAND 1CLICKABRECHNUNG MIT SAMMELERKLÄRUNG  ALS ECHTPAKET
 
-**Voraussetzung** für eine erfolgreiche Bearbeitung des Prüffalles ist das Einpflegen einer Praxis aus dem KV- Bereich KV Westfalen-Lippe (**KV-Nummer: 20**
+**Voraussetzung** für eine erfolgreiche Bearbeitung des Prüffalles ist das Einpflegen einer Praxis aus dem KV-Bereich KV Westfalen-Lippe (**KV-Nummer: 20**
 
 Zur Prüfung dieser Anforderung versucht der Antragsteller,
 

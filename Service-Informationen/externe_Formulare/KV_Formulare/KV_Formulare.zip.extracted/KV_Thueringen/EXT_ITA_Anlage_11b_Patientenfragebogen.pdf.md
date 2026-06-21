@@ -51,11 +51,11 @@
 
 Liebe Patientin, lieber Patient,
 
-Sie nehmen mit Ihrer Hausärztin bzw. Ihrem Hausarzt (HAUSARZT) an der Hausarztzentrierten Ver- sorgung Thüringen (HzV-THR) teil.
+Sie nehmen mit Ihrer Hausärztin bzw. Ihrem Hausarzt (HAUSARZT) an der Hausarztzentrierten Ver-sorgung Thüringen (HzV-THR) teil.
 
-Das zentrale Element der HzV-THR ist die Koordination Ihrer Behandlung durch den HAUSARZT.  Ihr HAUSARZT kennt Sie und Ihre Erkrankungen. Der HAUSARZT leitet alle notwendigen Maßnah- men ein und ist über alle Befunde und die verordneten Arzneimittel informiert. Weiterhin hat sich  Ihr behandelnder HAUSARZT zu besonderen Serviceleistungen verpflichtet, die Ihre Behandlung  erleichtern sollen.
+Das zentrale Element der HzV-THR ist die Koordination Ihrer Behandlung durch den HAUSARZT.  Ihr HAUSARZT kennt Sie und Ihre Erkrankungen. Der HAUSARZT leitet alle notwendigen Maßnah-men ein und ist über alle Befunde und die verordneten Arzneimittel informiert. Weiterhin hat sich  Ihr behandelnder HAUSARZT zu besonderen Serviceleistungen verpflichtet, die Ihre Behandlung  erleichtern sollen.
 
-Im Rahmen der Versorgung innerhalb der HzV-THR ist es Ihrem HAUSARZT wichtig, körperliche  Veränderungen rechtzeitig festzustellen und das Risiko für das Auftreten von Erkrankungen früh- zeitig zu erkennen bzw. generell Krankheiten (wie Krebs, Diabetes, Herz-Kreislauf- oder Nieren- Erkrankungen) in einem frühen, noch symptomfreien Stadium zu entdecken, um die Heilungschan- cen zu erhöhen. Somit können Folgeschäden verhindert und die Lebensqualität erhalten oder ver- bessert werden.
+Im Rahmen der Versorgung innerhalb der HzV-THR ist es Ihrem HAUSARZT wichtig, körperliche  Veränderungen rechtzeitig festzustellen und das Risiko für das Auftreten von Erkrankungen früh-zeitig zu erkennen bzw. generell Krankheiten (wie Krebs, Diabetes, Herz-Kreislauf- oder Nieren-Erkrankungen) in einem frühen, noch symptomfreien Stadium zu entdecken, um die Heilungschan-cen zu erhöhen. Somit können Folgeschäden verhindert und die Lebensqualität erhalten oder ver-bessert werden.
 
 Daher können Sie nunmehr von einem umfangreichen Früherkennungsprogramm profitieren.
 

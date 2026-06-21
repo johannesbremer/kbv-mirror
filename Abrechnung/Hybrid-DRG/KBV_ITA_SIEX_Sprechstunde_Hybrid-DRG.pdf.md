@@ -159,7 +159,7 @@ Ja, es wird einen maschinell verarbeitbaren Hybrid-DRG-Katalog geben.
 
 ## Frage:
 
-**Ist eine Zertifizierung, wie im Newsletter**
+**Ist eine Zertifizierung, wie im Newsletter (15.08.2024) angekündigt, noch geplant?**
 
 ### Antwort der KBV:
 
@@ -173,11 +173,7 @@ Im Zertifizierungsportal wird, wie bereits von anderen Themen bekannt, eine Test
 
 ### Antwort der KBV:
 
-Nein, die Stammdatei ist keine Grouper
-
-**(15.08.2024) angekündigt, noch geplant?**
-
--Software.
+Nein, die Stammdatei ist keine Grouper-Software.
 
 
 ---
@@ -275,7 +271,9 @@ Auch wenn bei Testvalidierungen kein Support für die Anwendung oder die Ergebni
 
 ### Antwort der KBV:
 
-Ist noch in Klärung
+Ist noch in Klärung -Software.
+
+-Mail an [ita@kbv.de](mailto:ita@kbv.de) mit
 
 ## Frage:
 
@@ -296,10 +294,6 @@ Bei der Abrechnung von Hybrid-DRGs, die einen Quartalswechsel überschreiten, mu
 ## Frage:
 
 **Der Hybrid-DRG-Datensatz ist im KVDT-Anforderungskatalog bzw. in der KVDT-Datensatzbeschreibung**  **veröffentlicht. Ist dies ein Hinweis darauf, dass eine Zertifizierung zu einem späteren Zeitpunkt, ähnlich**  **der KVDT-Zertifizierung, geplant ist?**
-
--Software.
-
--Mail an [ita@kbv.de](mailto:ita@kbv.de) mit
 
 **-DRGs?**
 

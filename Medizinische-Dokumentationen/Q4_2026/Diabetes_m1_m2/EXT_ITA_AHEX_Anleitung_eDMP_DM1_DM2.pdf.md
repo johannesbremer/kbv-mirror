@@ -310,13 +310,13 @@ Grundsätzlich sollen alle Patientinnen und Patienten mit makroangiopathischen E
 
 Eine Angabe ist sowohl bei **Diabetes mellitus Typ 1 als auch bei Typ 2** verpflichtend. Mindestens  eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgeführt wird.  Hierbei ist die Gabe u. a. von ASS oder Clopidogrel gemeint. Sie können auch angeben, ob eine  orale Antikoagulations-Therapie erfolgt. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob  die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe eines  Thrombozytenaggregationshemmers zurückzuführen ist und/oder eine orale Antikoagulations- Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgeführt wird.  Hierbei ist die Gabe u. a. von ASS oder Clopidogrel gemeint. Sie können auch angeben, ob eine  orale Antikoagulations-Therapie erfolgt. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob  die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe eines  Thrombozytenaggregationshemmers zurückzuführen ist und/oder eine orale Antikoagulations-Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Schulung
 
 #### Schulung schon vor Einschreibung ins DMP bereits wahrgenommen
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer **Erstdokumentation** möglich und ist hier  verpflichtend. Mehrfachnennungen sind möglich. Bitte geben Sie an, ob Ihre Patientin oder Ihr  Patient bereits vor ihrer bzw. seiner Teilnahme am DMP an einer Diabetes - und/oder Hypertonie- Schulung teilgenommen hat.
+Eine Angabe zu diesem Feld ist nur im Rahmen einer **Erstdokumentation** möglich und ist hier  verpflichtend. Mehrfachnennungen sind möglich. Bitte geben Sie an, ob Ihre Patientin oder Ihr  Patient bereits vor ihrer bzw. seiner Teilnahme am DMP an einer Diabetes - und/oder Hypertonie-Schulung teilgenommen hat.
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 

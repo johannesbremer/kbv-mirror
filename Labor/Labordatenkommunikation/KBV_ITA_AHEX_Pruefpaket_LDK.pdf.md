@@ -193,7 +193,7 @@ In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstel
 
 ### 1.5.1 Verzeichnisstruktur
 
-Die Übertragungswege und die entsprechenden digitalen Muster mit dem Unterordner „Dokumentation“  sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss mit „Zert_43_<SystemID> “ benannt werden.  Die Struktur des ZIP-Archives sollte alle Themen aus dem Antrag auf Zertifizierung beinhalten. Wird eine  vollständige Zertifizierung angestrebt („DigitalesMuster6 Export“, „DigitalesMuster6 Import“,  „DigitalesMuster10A Export“, „DigitalesMuster10A Import“, „DigitalesMuster10 Export“,  „DigitalesMuster10-Import“, „DigitalesMuster39 Export“, „DigitalesMuster39 Import“, „LDT-Auftrag- Export“, „LDT-Auftrag-Import“, „LDT-Befund-Export“, „LDT-Befund-Export-ZZ“ und „LDT-Befund-Import“),  sollte das Paket die folgende Form aufweisen:
+Die Übertragungswege und die entsprechenden digitalen Muster mit dem Unterordner „Dokumentation“  sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss mit „Zert_43_<SystemID> “ benannt werden.  Die Struktur des ZIP-Archives sollte alle Themen aus dem Antrag auf Zertifizierung beinhalten. Wird eine  vollständige Zertifizierung angestrebt („DigitalesMuster6 Export“, „DigitalesMuster6 Import“,  „DigitalesMuster10A Export“, „DigitalesMuster10A Import“, „DigitalesMuster10 Export“,  „DigitalesMuster10-Import“, „DigitalesMuster39 Export“, „DigitalesMuster39 Import“, „LDT-Auftrag-Export“, „LDT-Auftrag-Import“, „LDT-Befund-Export“, „LDT-Befund-Export-ZZ“ und „LDT-Befund-Import“),  sollte das Paket die folgende Form aufweisen:
 
 Abbildung 1: Struktur des ZIP -Archives
 
@@ -230,7 +230,7 @@ Folgende Dateinamenskonvention für die LDT-Dateien ist verbindlich:
 
 ### 1.5.4 Dokumentation für alle Prüffälle
 
-Die erzeugten Screenshots und deren Dokumentation werden im Ordner „Dokumentation“ abgelegt. Die  Bezeichnung oder der Inhalt müssen eindeutig dem Prüffall zugeordnet sein. Es muss mindestens ein . PDF- Dokument im Ordner „Dokumentation“ vorhanden sein.
+Die erzeugten Screenshots und deren Dokumentation werden im Ordner „Dokumentation“ abgelegt. Die  Bezeichnung oder der Inhalt müssen eindeutig dem Prüffall zugeordnet sein. Es muss mindestens ein . PDF-Dokument im Ordner „Dokumentation“ vorhanden sein.
 
 Folgende Dateinamenskonvention für die Dokumente ist verbindlich:
 
@@ -414,13 +414,11 @@ Die Versichertendaten der Testpatienten müssen als „manuelle Erfassung“ d.h
 | **Kostentraegerkennung** | 105189484 |
 | **BesonderePersonengruppe** | 9 |
 
--Dateien zur Verfügung stehen. Welche XML-Dateien bzw.
-
 - 2. Friedrich Schaumbërg [XML_21]
 
-## 2.1 DIGITALES MUSTER 06  EXPORT
+## 2.1 DIGITALES MUSTER 06
 
-Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster**  **06 - Export** beantragt wurde.
+Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **06 - Export** beantragt wurde.
 
 **Prüffallnummer: PF09**
 
@@ -430,8 +428,15 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 | **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [Abschnitt 1.6.3  ]  Versichertendaten: Eike Flüchtling [EV01] |
 | **Einzureichende  Prüfunterlagen ** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
-06 mit Dokumentation. Stammdaten Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01]**Aktionen, die durch den Antragsteller durchgeführt werden:**
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
 
+## EXPORT
+
+-Dateien zur Verfügung stehen. Welche XML-Dateien bzw.
+
+**Digitales Muster**
+
+Export des signierten digitalen Musters 06 mit Dokumentation. Stammdaten Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01]
 
 ---
 
@@ -474,7 +479,7 @@ gemäß § 116b SGB V  ESS / bei nach Abschnitt 31.2 567890123456789012345678901
 
 ## 2.2 DIGITALES MUSTER 06  IMPORT
 
-Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich  **- Import** beantragt wurde.
+Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung der Bereich **Digitales Muster 06**  **- Import** beantragt wurde.
 
 **Prüffallnummer: PF10**
 
@@ -489,8 +494,7 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 Das von der KBV bereitgestellte PDF-Dokument „Muster_06_Schimmelpfennig“ wird in den  Zertifizierungsgegenstand importiert.
 
-345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 123456789012345678901234567890123456789012345678901234 567890123456789012345678901234567890123456789012345678 des Arztes sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster hierfür bereits eine Zulassung hat. Verfügung. 06 - Befund mit Export“ beantragt oder 06 - Befund exportiert **Digitales Muster 06**
-
+345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 123456789012345678901234567890123456789012345678901234 567890123456789012345678901234567890123456789012345678 des Arztes sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Optional: Die importierten Daten müssen als Muster 06 - Befund exportiert werden, wenn der Antragsteller „Muster 06 - Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Verfügung.
 
 ---
 
@@ -732,7 +736,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Digitales Muster**
 
-Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Optional: Die importierten Daten müssen als Muster 10 werden, wenn der Antragsteller Muster 10 - Befund mit Export oder hierfür bereits eine Zulassung hat. Verfügung. - Befund exportiert  beantragt zum Download zur  mit Dokumentation. Zertifizierungsgegenstand.  **Digitales Muster**  **und/oder**
+Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Optional: Die importierten Daten müssen als Muster 10 werden, wenn der Antragsteller Muster 10 - Befund mit Export oder hierfür bereits eine Zulassung hat. Verfügung. - Befund exportiert  beantragt zum Download zur Export des signierten digitalen Musters 39 mit Dokumentation. Zertifizierungsgegenstand.  **Digitales Muster**  **und/oder**
 
 
 ---
@@ -854,9 +858,8 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**Digitales Muster 39**  **und/oder**
+zytologisch tätigen Arztes Import des signierten digitalen Musters 39 mit Dokumentation. Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [ Verfügung. Abschnitt 1.5 Prüfunterlagen**Digitales Muster 39**  **und/oder**
 
-zytologisch tätigen Arztes Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein. Dateinamenskonvention beachten [ Verfügung. 39 mit Dokumentation. Abschnitt 1.5 Prüfunterlagen
 
 ---
 
@@ -1167,7 +1170,7 @@ gesamt, IgG, Glukose, Sonstiges Zeichen) 234568 Screenshots über den Ablauf.  O
 
 Alle die in diesem Kapitel beschriebenen Prüffälle können in der Testdatenvalidierung des  Zertifizierungsportals genutzt werden. Die übermittelten Testdaten werden auf Vollständigkeit und  Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch das Referat  Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur  Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die  Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse  werden die Testergebnisse gesendet.
 
-Das zip-Archiv muss mit „Test_43_<SystemID> “ benannt werden. Die Struktur des ZIP-Archives sollte alle  zu testenden Bereiche beinhalten. Wird eine vollständige Prüfung angestrebt („DigitalesMuster6 Export“,  „DigitalesMuster10A Export“, „DigitalesMuster10 Export“, „DigitalesMuster39 Export“, „LDT-Auftrag- Export“ und „LDT-Befund-Export“), muss die Verzeichnisstruktur die folgende Form aufweisen:
+Das zip-Archiv muss mit „Test_43_<SystemID> “ benannt werden. Die Struktur des ZIP-Archives sollte alle  zu testenden Bereiche beinhalten. Wird eine vollständige Prüfung angestrebt („DigitalesMuster6 Export“,  „DigitalesMuster10A Export“, „DigitalesMuster10 Export“, „DigitalesMuster39 Export“, „LDT-Auftrag-Export“ und „LDT-Befund-Export“), muss die Verzeichnisstruktur die folgende Form aufweisen:
 
 Abbildung 3: Struktur des ZIP -Archives
 

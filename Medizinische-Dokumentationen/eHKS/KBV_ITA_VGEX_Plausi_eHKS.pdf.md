@@ -48,26 +48,26 @@ eldern
 
 # 1 Einleitung
 
-Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der Krebsfrüherken- nungsrichtline des Gemeinsamen Bundesausschuss (GBA) enthaltenen Plausibilitäten zum  „Hautkrebs Screening“ (kurz: eHKS) im Hinblick auf die technische Umsetzung
+Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der Krebsfrüherken-nungsrichtline des Gemeinsamen Bundesausschuss (GBA) enthaltenen Plausibilitäten zum  „Hautkrebs Screening“ (kurz: eHKS) im Hinblick auf die technische Umsetzung
 
 - seitens des Praxissoftwareherstellers sowie
 - im Rahmen des Prüfmoduls
 
-Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plaus i- bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
+Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plaus i-bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
 
 Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt werden.
 
-Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sy s- temanbieter verteilt.
+Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sy s-temanbieter verteilt.
 
 # 2 Grundlagen
 
-Die aufgeführten Plausibilitätsregeln orientieren sich an den Ergänzungen der Früherken- nungsrichtline Hautkrebs-Screening des GBA.
+Die aufgeführten Plausibilitätsregeln orientieren sich an den Ergänzungen der Früherken-nungsrichtline Hautkrebs-Screening des GBA.
 
-Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs-Screening stellt den  Entwicklern von PVS-Systemen oder Web-Anwendungssystemen ein Hilfsmittel zur Verfü- gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation der Früherkennungsrichtlinie Hautkrebs- Screening spezifiziert.
+Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs-Screening stellt den  Entwicklern von PVS-Systemen oder Web-Anwendungssystemen ein Hilfsmittel zur Verfü-gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation der Früherkennungsrichtlinie Hautkrebs-Screening spezifiziert.
 
-Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e r- folgen soll.
+Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e r-folgen soll.
 
-Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs- Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der  Anwendung.
+Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs-Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der  Anwendung.
 
 Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umst and hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 

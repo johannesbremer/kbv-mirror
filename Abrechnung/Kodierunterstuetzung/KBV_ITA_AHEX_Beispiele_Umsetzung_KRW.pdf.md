@@ -479,7 +479,7 @@ ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst
 
 ### 1.1.9 UseCase 9
 
-Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden. Bei der Fallanlage wurden bereits die in der Tabelle „ÜBERNOMMENE ICD-10- GM-KODES AUS DEM VORQUARTAL“ aufgelisteten Diagnosen in das aktuelle Quartal übernommen.
+Dieser UseCase geht davon aus, dass ein Versicherter in der Praxis behandelt wird und die in der Tabelle  „EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER“ angegebenen ICD-10-GM-Kodes für den  Versicherten kodiert werden. Bei der Fallanlage wurden bereits die in der Tabelle „ÜBERNOMMENE ICD-10-GM-KODES AUS DEM VORQUARTAL“ aufgelisteten Diagnosen in das aktuelle Quartal übernommen.
 
 | EINGABE VON ICD-10-GM-KODES DURCH DEN ANWENDER | |
 |---|---|
@@ -1154,11 +1154,11 @@ Die Kodierregeln mit den IDs
 
 können durch den ICD-10-GM-Kode I21.0 G ausgelöst werden.
 
-Das „Thema“ ist in beiden Fällen der akute Herzinfarkt. Die behandlungsfallbezogene Regel 01 -01-001  behandelt den Fall, dass ein zurückliegender Herzinfarkt spezifisch mit Diagnoseschlüsseln aus I25.2 -  kodiert werden kann. Daher ist der Auslöser der Regel nicht bspw. der ICD-10-GM-Kode I21.0 mit dem  Zusatzkennzeichen **G** sondern bspw. I21.0 mit dem Zusatzkennzeichen **Z**
+Das „Thema“ ist in beiden Fällen der akute Herzinfarkt. Die behandlungsfallbezogene Regel 01 -01-001  behandelt den Fall, dass ein zurückliegender Herzinfarkt spezifisch mit Diagnoseschlüsseln aus I25.2 - kodiert werden kann. Daher ist der Auslöser der Regel nicht bspw. der ICD-10-GM-Kode I21.0 mit dem  Zusatzkennzeichen **G** sondern bspw. I21.0 mit dem Zusatzkennzeichen **Z**
 
 Die quartalsübergreifende Regel 03 -02-036 behandelt den Fall, dass ein stets über zwei zurückliegende  Behandlungsfälle hinweg kodierter akuter Herzinfarkt (mit dem Zusatzkennzeichen **G**) daraufhin überprüft  werden sollte, ob im aktuellen Behandlungsfall wirklich weiterhin ein akuter Herzinfarkt vorliegt oder eher  ein zurückliegender Herzinfarkt kodiert werden sollte.
 
-Die Regeln gleichen sich daher im Ergebnis, dass für den aktuellen Behandlungsfall der auslösende ICD -10 -  GM-Kode in einen ICD-10-GM-Kode aus der Liste I25.2 - mit dem Zusatzkennzeichen G zu ändern ist.
+Die Regeln gleichen sich daher im Ergebnis, dass für den aktuellen Behandlungsfall der auslösende ICD -10 - GM-Kode in einen ICD-10-GM-Kode aus der Liste I25.2 - mit dem Zusatzkennzeichen G zu ändern ist.
 
 ### 4.2.2 Kann eine Diagnose mehr als eine Kodierregel auslösen?
 

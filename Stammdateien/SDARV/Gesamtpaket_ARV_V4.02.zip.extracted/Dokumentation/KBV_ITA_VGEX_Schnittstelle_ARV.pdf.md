@@ -57,18 +57,22 @@ ten Schlüsseltabellen Elementes <fachgruppennummer_liste XML-Elementes <verordn
 
 **1** **EINLEITUNG**
 
-**1.1** **ARV-Stammdateien der Landesebene ................................................................**
+**12**
 
-**1.2** **Hinweise zur Umsetzung der Arzneimittelvereinbarungen**
+**1.1** **ARV-Stammdateien der Landesebene ...................................................................................... 12**
+
+**1.2** **Hinweise zur Umsetzung der Arzneimittelvereinbarungen** **.................................................... 12**
 
 **2** **ALLGEMEIN**
+
+**14**
 
 **2.1**
 
 | Zeichensatz | .................................................................................................................................. 14 |
 |---|---|
-| **Namespace................................................................................................................................** | **... 14** |
-| **Root-Schema ................................................................................................** | **............................... 14** |
+| **Namespace...................................................................................................................................** | **14** |
+| **Root-Schema** | **............................................................................................................................... 14** |
 | **DATEINAMENSKONVENTION** | **15** |
 
 **2.2**
@@ -79,75 +83,45 @@ ten Schlüsseltabellen Elementes <fachgruppennummer_liste XML-Elementes <verordn
 
 **4** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE**
 
-**4.1** **Kardinalität ................................................................................................................................**
+**17**
 
-**4.2** **Strukturelemente ................................................................................................**
+**4.1**
 
-**4.3** **Sonstige Symbole ................................................................................................**
+|  | Kardinalität | ................................................................................................................................... 18 |
+|---|---|---|
+|  | **Strukturelemente.........................................................................................................................** | **18** |
+|  | **Sonstige Symbole** | **....................................................................................................................... 18** |
+| **EHD** | **– ELEMENT (ROOT-ELEMENT)** | **19** |
 
-**5** **EHD – ELEMENT (ROOT-ELEMENT)**
+**4.2**
+
+**4.3**
+
+**5**
 
 **6** **HEADER (METADATEN)**
 
-**6.1** **id (Dokument-ID) ................................................................................................**
-
-**6.2** **version_nbr (Versionsnummer) ................................................................................................**
-
-**6.3** **document_type_cd (Bezeichnung des Datentyps)**
-
-**6.4** **service_tmr (Gültigkeitszeitraum) ................................................................**
-
-**6.5** **origination_dttm (Erstellungsdatum)** **................................................................**
-
-**6.6** **originator (Urheber) ................................................................................................**
-
-**6.7** **provider (Lieferant/Sender) ................................................................................................**
-
-6.7.1 organization (Organisationsdaten) ................................................................
-
-**6.8** **state (Bearbeitungszustand) ................................................................................................**
-
-**6.9** **interface (Schnittstelle) ................................................................................................**
-
-**12**
-
-**...................... 12**
-
-**.................................................... 12**
-
-**14**
-
-**17**
-
-**... 18**
-
-**......................... 18**
-
-**....................... 18**
-
-**19**
-
 **20**
 
-**......................... 20**
+**6.1** **id (Dokument-ID) ......................................................................................................................... 20**
 
-**. 21**
+**6.2** **version_nbr (Versionsnummer) ................................................................................................. 21**
 
-**.................................................................. 22**
+**6.3** **document_type_cd (Bezeichnung des Datentyps)** **.................................................................. 22**
 
-**............................. 23**
+**6.4** **service_tmr (Gültigkeitszeitraum) ............................................................................................. 23**
 
-**........................ 25**
+**6.5** **origination_dttm (Erstellungsdatum)** **........................................................................................ 25**
 
-**.................... 25**
+**6.6** **originator (Urheber) .................................................................................................................... 25**
 
-**........ 25**
+**6.7** **provider (Lieferant/Sender) ........................................................................................................ 25**
 
-...................... 26
+6.7.1 organization (Organisationsdaten) ...................................................................................... 26
 
-**...... 30**
+**6.8** **state (Bearbeitungszustand) ...................................................................................................... 30**
 
-**............... 32**
+EHD – ELEMENT (ROOT-ELEMENT) **6.9** **interface (Schnittstelle) ............................................................................................................... 32**
 
 
 ---
@@ -493,11 +467,11 @@ Tabelle 37 – Erläuterung  „leitsubstanzquotenregelung/leitsubstanz/fachgrup
 
 Tabelle 38 – Erläuterung  „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote/fachgrupp ennummer“ ............................................................................................... 56
 
-Tabelle 39 Erläuterung  „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote/quote_leit- substanz_ddd“ .......................................................................................... 57
+Tabelle 39 Erläuterung  „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote/quote_leit-substanz_ddd“ .......................................................................................... 57
 
-Tabelle 40 – Erläuterung  „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote/quo- te_leitsubstanz_verordnungen“ ................................................................ 57
+Tabelle 40 – Erläuterung  „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote/quo-te_leitsubstanz_verordnungen“ ................................................................ 57
 
-Tabelle 41 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz/fachgruppen- quote/quote_leitsubstanz_bruttoumsatz“ ................................................... 58
+Tabelle 41 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz/fachgruppen-quote/quote_leitsubstanz_bruttoumsatz“ ................................................... 58
 
 Tabelle 42 – Erläuterung  „leitsubstanzquotenregelung/leitsubstanz/fachgruppenquote//warnhinw eis_ersetzung“ .......................................................................................... 58
 
@@ -536,9 +510,9 @@ Tabelle 65 – Erläuterung  „generikaquotenregelung/fachgruppenquote/quote_ge
 
 ---
 
-Tabelle 66 – Erläuterung  „generikaquotenregelung/fachgruppenquote/quote_generika_verord- nungen“..................................................................................................... 80
+Tabelle 66 – Erläuterung  „generikaquotenregelung/fachgruppenquote/quote_generika_verord-nungen“..................................................................................................... 80
 
-Tabelle 67 – Erläuterung  „generikaquotenregelung/fachgruppenquote/quote_generika_verord- nungen“..................................................................................................... 81
+Tabelle 67 – Erläuterung  „generikaquotenregelung/fachgruppenquote/quote_generika_verord-nungen“..................................................................................................... 81
 
 Tabelle 68 – Erläuterung „hoechstquotenr_liste“ ................................................................ 82
 
@@ -552,7 +526,7 @@ Tabelle 72 – Erläuterung  „hoechstquotenregelung/fachgruppenquote/hoechstqu
 
 Tabelle 73 – Erläuterung „hoechstquotenregelung/fachgruppenquote/  hoechstquote_verordnungen“ ................................................................... 88
 
-Tabelle 74 – Erläuterung  „hoechstquotenregelung/fachgruppenquote/hoechstquote_verordnun- gen“ .......................................................................................................... 89
+Tabelle 74 – Erläuterung  „hoechstquotenregelung/fachgruppenquote/hoechstquote_verordnun-gen“ .......................................................................................................... 89
 
 Tabelle 75 – Erläuterung „biosimilarquotenr_liste“ ................................................................ 90
 
@@ -562,11 +536,11 @@ Tabelle 77 – Erläuterung „biosimilarquotenregelung/biosimilar“...........
 
 Tabelle 78 – Erläuterung „biosimilarquotenregelung/biosimilar/fachgruppenquote“ .............. 94
 
-Tabelle 79 – Erläuterung  „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_biosi- milar_ddd“ ................................................................................................ 94
+Tabelle 79 – Erläuterung  „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_biosi-milar_ddd“ ................................................................................................ 94
 
-Tabelle 80 – Erläuterung  „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_bio- similar_verordnungen“ .............................................................................. 95
+Tabelle 80 – Erläuterung  „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_bio-similar_verordnungen“ .............................................................................. 95
 
-Tabelle 81 – Erläuterung  „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_bio- similar_bruttoumsatz“ ................................................................................ 95
+Tabelle 81 – Erläuterung  „biosimilarquotenregelung/biosimilar/fachgruppenquote/quote_bio-similar_bruttoumsatz“ ................................................................................ 95
 
 Tabelle 82 – Erläuterung „infomassnahmen_liste“ ................................................................ 96
 
@@ -600,21 +574,21 @@ Tabelle 96 – Erläuterung „behandlungsalternativenregelung“ ..............
 
 # 1 Einleitung
 
-Die vorliegende Schnittstellenbeschreibung dokumentiert die bundeseinheitliche XML- Schnittstelle zur Übermittlung bestimmter Inhalte aus regionalen kollektivvertraglichen Arz- neimittelvereinbarungen.
+Die vorliegende Schnittstellenbeschreibung dokumentiert die bundeseinheitliche XML-Schnittstelle zur Übermittlung bestimmter Inhalte aus regionalen kollektivvertraglichen Arz-neimittelvereinbarungen.
 
-Gemäß § 73 SGB V darf der Vertragsarzt nur eine Software zur Verordnung von Arzneimitteln  einsetzen, die manipulationsfrei ist. Zudem muss die Software dem Arzt die nötigen Informati- onen geben, die für ihn bei der Verordnung von Arzneimitteln relevant sind. Hierzu zählen  auch die auf Landesebene getroffenen Arzneimittelvereinbarungen. Im Anforderungskatalog  nach § 73 SGB V für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_AVWG
+Gemäß § 73 SGB V darf der Vertragsarzt nur eine Software zur Verordnung von Arzneimitteln  einsetzen, die manipulationsfrei ist. Zudem muss die Software dem Arzt die nötigen Informati-onen geben, die für ihn bei der Verordnung von Arzneimitteln relevant sind. Hierzu zählen  auch die auf Landesebene getroffenen Arzneimittelvereinbarungen. Im Anforderungskatalog  nach § 73 SGB V für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_AVWG
 
-den der GKV Spitzenverband und die Kassenärztliche Bundesvereinigung zur Konkretisierung  der gesetzlichen Vorgaben des § 73 SGB V getroffen haben, haben die Bundesvertrags- partner bereits Funktionen für das Einpflegen von Kennzeichen aus regionalen Vereinbarun- gen vorgesehen. Diese sind verpflichtend von den Software-Anbietern einzupflegen, sofern  die Voraussetzungen hierfür geschaffen sind, wie z.B. die Definition einer Datensatzbeschrei- bung bzw. einer Schnittstelle sowie die Bereitstellung der entsprechenden Daten durch die  Landesebene.
+den der GKV Spitzenverband und die Kassenärztliche Bundesvereinigung zur Konkretisierung  der gesetzlichen Vorgaben des § 73 SGB V getroffen haben, haben die Bundesvertrags-partner bereits Funktionen für das Einpflegen von Kennzeichen aus regionalen Vereinbarun-gen vorgesehen. Diese sind verpflichtend von den Software-Anbietern einzupflegen, sofern  die Voraussetzungen hierfür geschaffen sind, wie z.B. die Definition einer Datensatzbeschrei-bung bzw. einer Schnittstelle sowie die Bereitstellung der entsprechenden Daten durch die  Landesebene.
 
-Die Regelungen in den Arzneimittelvereinbarungen unterscheiden sich in den KV Bezirken  (Leitsubstanzen etc.), zum Teil sind sie auch deckungsgleich. Nach dem Vertragsarztrechts- änderungsgesetz (VändG) kann ein Vertragsarzt in verschiedenen Bundesländern tätig sein.  Es gilt der Grundsatz: Leistungsrecht am Leistungsort. Der Vertragsarzt muss also am jeweili- gen Standort auf die regional geltenden Regelungen zugreifen können.
+Die Regelungen in den Arzneimittelvereinbarungen unterscheiden sich in den KV Bezirken  (Leitsubstanzen etc.), zum Teil sind sie auch deckungsgleich. Nach dem Vertragsarztrechts-änderungsgesetz (VändG) kann ein Vertragsarzt in verschiedenen Bundesländern tätig sein.  Es gilt der Grundsatz: Leistungsrecht am Leistungsort. Der Vertragsarzt muss also am jeweili-gen Standort auf die regional geltenden Regelungen zugreifen können.
 
 Um die Voraussetzung für die Implementierung der regionalen Vereinbarungen zu schaffen,  hat die Kassenärztliche Bundesvereinigung ein bundeseinheitliches Datensatzformat definiert,  in dem sich die Regelungen aus den KV-Bereichen, die sich mit der Software abbilden lassen,  wiederfinden. Die Bereitstellung der Arzneimittelvereinbarungen in Form einer zur Schnittstelle  passenden XML-Datei, deren Inhalte von den Software-Anbietern in die Verordnungssoftware  eingebunden werden, obliegt der Landesebene
 
 ## 1.1 ARV-Stam mdateien der Landesebene
 
-Die aktuellen XML-Dateien, welche als ARV-Stammdateien bezeichnet werden, können von  den Internet-Seiten der KBV als komprimiertes Paket heruntergeladen werden [5]. Von denje- nigen KVen, die ihre Arzneimittelvereinbarungen entsprechend der ARV-Schnittstelle umge- setzt haben, gibt es maximal eine gültige ARV-Stammdatei. Wenn eine neue ARV- Stammdatei veröffentlicht wird, werden die Abonnenten des KBV-Newsletter unterrichtet.
+Die aktuellen XML-Dateien, welche als ARV-Stammdateien bezeichnet werden, können von  den Internet-Seiten der KBV als komprimiertes Paket heruntergeladen werden [5]. Von denje-nigen KVen, die ihre Arzneimittelvereinbarungen entsprechend der ARV-Schnittstelle umge-setzt haben, gibt es maximal eine gültige ARV-Stammdatei. Wenn eine neue ARV-Stammdatei veröffentlicht wird, werden die Abonnenten des KBV-Newsletter unterrichtet.
 
-Zur Erstellung und Verarbeitung der ARV-Stammdateien beachten Sie bitte unsere Verfah- rensbeschreibung [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV
+Zur Erstellung und Verarbeitung der ARV-Stammdateien beachten Sie bitte unsere Verfah-rensbeschreibung [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV
 
 ## 1.2 Hinweise zur Umsetzung der Arzneimittelvereinbarungen
 
@@ -623,9 +597,9 @@ In der vorliegenden Dokumentation sind auch Hinweise für die Software-Anbieter 
 
 ---
 
-EXT_ITA_VGEX_Anforderungskatalog_AVWG], welche bei Vorliegen entsprechender Daten  von der Verordnungssoftware realisiert werden müssen, andererseits die sogenannten Con- trollingfunktionen, welche arztindividuelle Berechnungen ermöglichen, und die von der Ver- ordnungssoftware optional angeboten werden können.
+EXT_ITA_VGEX_Anforderungskatalog_AVWG], welche bei Vorliegen entsprechender Daten  von der Verordnungssoftware realisiert werden müssen, andererseits die sogenannten Con-trollingfunktionen, welche arztindividuelle Berechnungen ermöglichen, und die von der Ver-ordnungssoftware optional angeboten werden können.
 
-Die ARV-Schnittstelle für den Datenaustausch liegt im XML-Format vor. Sie ist zur ehd- Richtlinie [KBV_ITA_VGEX_eHD] konform.
+Die ARV-Schnittstelle für den Datenaustausch liegt im XML-Format vor. Sie ist zur ehd-Richtlinie [KBV_ITA_VGEX_eHD] konform.
 
 
 ---
@@ -644,7 +618,7 @@ Die ARV-Schnittstelle für den Datenaustausch liegt im XML-Format vor. Sie ist z
 
 ## 2.3 Root- Schema
 
-### Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt arv_root.xsd.
+### Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt arv_root.xsd.
 
 
 ---
@@ -663,13 +637,13 @@ datatyp Datentyp der Schnittstelle. Entspricht dem Header-Element  und ist hier 
 
 vv.vv
 
-Versionsnummer des ARV-Schemas, welches für die vorliegende Datei ver- wendet wird. Entspricht dem Element *<version>* des Header-Elements
+Versionsnummer des ARV-Schemas, welches für die vorliegende Datei ver-wendet wird. Entspricht dem Element *<version>* des Header-Elements
 
 Sender Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert. Entspricht dem Attribut  im Element* <id>* im Element *<organization>* des Header-Elements  wird hier der Code aus der Schlüsseltabelle S_KBV_KV (siehe Abschnitt  verwendet.
 
 co+
 
-Dieser Namensbestandteil ist optional und wird dann verwendet, wenn Urheber  und Absender der Datei nicht identisch sind. Dies wäre z. B. dann der Fall,  wenn eine KV die Erstellung und Lieferung der ARV-Stammdatei für eine ande- re KV übernehmen würde. „co“ steht hier für consignor und meint den Eigentü- mer oder Urheber der Datei. Entspricht inhaltlich dem Header-Element  *tor>* und dem Body-Element *<geltungsbereich_kv>*. „xx“ ist hier der Platzhalter für  einen Code aus der Schlüsseltabelle S_KBV_KV (siehe Abschnitt
+Dieser Namensbestandteil ist optional und wird dann verwendet, wenn Urheber  und Absender der Datei nicht identisch sind. Dies wäre z. B. dann der Fall,  wenn eine KV die Erstellung und Lieferung der ARV-Stammdatei für eine ande-re KV übernehmen würde. „co“ steht hier für consignor und meint den Eigentü-mer oder Urheber der Datei. Entspricht inhaltlich dem Header-Element  *tor>* und dem Body-Element *<geltungsbereich_kv>*. „xx“ ist hier der Platzhalter für  einen Code aus der Schlüsseltabelle S_KBV_KV (siehe Abschnitt
 
 tf+
 
@@ -681,11 +655,11 @@ Das Quartal bezeichnet hier den Zeitpunkt, ab dem die Datei
 
 nr+
 
-number – Nummer der Lieferung, falls bezogen auf das angegebene Quartal  mehrere Lieferungen erfolgen. Entspricht inhaltlich dem Header-Element <ver- sion_nbr>.  Diese Nummer muss um 1 hochgezählt werden, wenn die Quartalsangabe un- ter „tf+“ bei der nächsten Lieferung gleichbleibt. Bei Änderung des Zeitraumes  beginnt die Zählung wieder mit 1. Die Zählung ist unabhängig von Element sta- te (Bearbeitungszustand). Wird also zuerst eine Datei mit dem Zustand TEST  und der Versionsnummer 1 geliefert und in der Folge eine Datei mit dem Zu- stand RELEASE, so muss die Versionsnummer auf 2 gesetzt werden, wenn die  Quartalsangabe gleich bleibt.
+number – Nummer der Lieferung, falls bezogen auf das angegebene Quartal  mehrere Lieferungen erfolgen. Entspricht inhaltlich dem Header-Element <ver-sion_nbr>.  Diese Nummer muss um 1 hochgezählt werden, wenn die Quartalsangabe un-ter „tf+“ bei der nächsten Lieferung gleichbleibt. Bei Änderung des Zeitraumes  beginnt die Zählung wieder mit 1. Die Zählung ist unabhängig von Element sta-te (Bearbeitungszustand). Wird also zuerst eine Datei mit dem Zustand TEST  und der Versionsnummer 1 geliefert und in der Folge eine Datei mit dem Zu-stand RELEASE, so muss die Versionsnummer auf 2 gesetzt werden, wenn die  Quartalsangabe gleich bleibt.
 
 st+
 
-state – Zustand, entspricht inhaltlich dem Header-Element <state>. Dieser Na- mensbestandteil ist verpflichtend von den KVen festzulegen und zeigt an, ob  sich die Datei im Teststadium befindet, oder für den Produktivbetrieb vorgese- hen ist. Der Code ist in der Schlüsseltabelle S_KBV_BEARBEITUNGS- ZUSTAND festgelegt und kann „TEST“ oder „RELEASE“ sein. Nur im letzteren  Fall darf die Datei in den Arztpraxen eingesetzt werden.
+state – Zustand, entspricht inhaltlich dem Header-Element <state>. Dieser Na-mensbestandteil ist verpflichtend von den KVen festzulegen und zeigt an, ob  sich die Datei im Teststadium befindet, oder für den Produktivbetrieb vorgese-hen ist. Der Code ist in der Schlüsseltabelle S_KBV_BEARBEITUNGS-ZUSTAND festgelegt und kann „TEST“ oder „RELEASE“ sein. Nur im letzteren  Fall darf die Datei in den Arztpraxen eingesetzt werden.
 
 *<document_type_cd*
 
@@ -706,13 +680,13 @@ Beispiele:
 
 *ARV_0_3.02 38_tf+2010q3_nr+2_st+RELEASE.xml*
 
-Hier handelt es sich um die 2. Lieferung einer ARV-Stammdatei der KV Nordrhein für den  Produktivbetrieb für das 3. Quartal 2010 zur Version 3.02 der Schnittstelle ARV. Das Quartal  bezeichnet hier den Zeitpunkt, ab dem die Datei sich im Einsatz befindet. Wenn im darauffol- genden Quartal keine neue Datei veröffentlicht wird, kann die Datei bis zum Ende des Kalen- derjahres weiter verwendet werden (vgl. Anforderung bezüglich Gültigkeitsdauer unter 6.3).
+Hier handelt es sich um die 2. Lieferung einer ARV-Stammdatei der KV Nordrhein für den  Produktivbetrieb für das 3. Quartal 2010 zur Version 3.02 der Schnittstelle ARV. Das Quartal  bezeichnet hier den Zeitpunkt, ab dem die Datei sich im Einsatz befindet. Wenn im darauffol-genden Quartal keine neue Datei veröffentlicht wird, kann die Datei bis zum Ende des Kalen-derjahres weiter verwendet werden (vgl. Anforderung bezüglich Gültigkeitsdauer unter 6.3).
 
 *ARV_03.02_52_co+03_tf+2010q1_nr+11_st+TEST.xml*
 
 Hier handelt es sich um die 11. Lieferung einer ARV-Stammdatei für das Testverfahren mit  den Arzneimittelvereinbarungen der KV Bremen, die von der KV Baden Württemberg geliefert  wurde, zur Version 3.02 der Schnittstelle ARV für das Jahr 2010.
 
-Falls eine ARV-Stammdatei vor dem Ablauf der angegebenen Gültigkeitsdauer von der KV  zurückgezogen wird, und diese KV für das laufende Jahr keine Regelungen mehr veröffentli- chen möchte, so muss diese KV eine ARV-Stammdatei zur Verfügung stellen, welche keine  Regelungen enthält, bzw. deren Gültigkeitsdauer abgelaufen ist. Dadurch wird eine automati- sierte Datenproduktion auch derjenigen Arzneimitteldatenbankanbieter ermöglicht, die nicht  am KBV-Update-Verfahren teilnehmen.
+Falls eine ARV-Stammdatei vor dem Ablauf der angegebenen Gültigkeitsdauer von der KV  zurückgezogen wird, und diese KV für das laufende Jahr keine Regelungen mehr veröffentli-chen möchte, so muss diese KV eine ARV-Stammdatei zur Verfügung stellen, welche keine  Regelungen enthält, bzw. deren Gültigkeitsdauer abgelaufen ist. Dadurch wird eine automati-sierte Datenproduktion auch derjenigen Arzneimitteldatenbankanbieter ermöglicht, die nicht  am KBV-Update-Verfahren teilnehmen.
 
 
 ---
@@ -738,7 +712,7 @@ Es existieren verschiedene Kardinalitäten:
 
 ## 4.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
+Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
 | Symbol | Beschreibung |
 |---|---|
@@ -763,7 +737,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Das Eleme
 
 # 5 ehd – -Element (root Element)
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente  „header“ und „body“, wie es in Tabelle 4 dargestellt ist. Im „header“-Element stehen die spezi- fischen Informationen zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hin- terlegt.
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente  „header“ und „body“, wie es in Tabelle 4 dargestellt ist. Im „header“-Element stehen die spezi-fischen Informationen zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hin-terlegt.
 
 Für die XML-Dateien ist der Zeichensatz ISO-8859-1 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
 
@@ -825,15 +799,15 @@ V="1"/> ne”/>  V=” 2009-10-31”/> SN="S_KBV_BEARBEITUNGSZUSTAND"/> ### Das 
 
 **Tabelle 6 – Erläuterung „header/id“**
 
-„EX“: Extension = Erweiterung zum RT-Attribut  Das Element „id“ enthält in seinem „EX“-Attribut einen Identifikator, der die betreffende  XML-Datei innerhalb eines Bereiches eindeutig identifiziert. Zusammen mit dem RT- Attribut ergibt sich ein weltweit einmaliger Identifikator. Jede, auf Basis dieser Be- schreibung erstellte XML-Datei muss daher einen anderen Identifikator haben. Im Bei- spiel (siehe Tabelle 6) nimmt das „EX“-Attribut den Wert „ARV_0002“ an. Der String  „ARV_“ muss der eindeutigen Nummer, die jedes Mal inkrementiert wird, vorangestellt  sein, um dieses Dokument von Dokumenten anderer Schnittstellen mit dem gleichen  Attribut „RT“ unterscheidbar zu machen.
+„EX“: Extension = Erweiterung zum RT-Attribut  Das Element „id“ enthält in seinem „EX“-Attribut einen Identifikator, der die betreffende  XML-Datei innerhalb eines Bereiches eindeutig identifiziert. Zusammen mit dem RT-Attribut ergibt sich ein weltweit einmaliger Identifikator. Jede, auf Basis dieser Be-schreibung erstellte XML-Datei muss daher einen anderen Identifikator haben. Im Bei-spiel (siehe Tabelle 6) nimmt das „EX“-Attribut den Wert „ARV_0002“ an. Der String  „ARV_“ muss der eindeutigen Nummer, die jedes Mal inkrementiert wird, vorangestellt  sein, um dieses Dokument von Dokumenten anderer Schnittstellen mit dem gleichen  Attribut „RT“ unterscheidbar zu machen.
 
 „RT“: (root = Wurzel) Dieses Attribut enthält eine OID/Nummer der Organisation, welche das  Dokument zur Verfügung stellt. Damit kann das Dokument über die „id“ dem Ersteller  sofort zugeordnet werden. Im Beispiel aus Tabelle 6 hat das Attribut den Wert  „1.2.276.0.76.3.1.36“, dies ist die OID der KV Nordrhein (siehe [1]).
 
-„RTV“: (root version = Schlüsseltabelle Version) Dieses Attribut ist optional und wird nur bei  Schlüsseltabellen verwendet, wenn eine Referenzierung von Objekten über Schlüs- seltabellen erfolgt. Für die Identifizierung von XML-Dokumenten wird dieses Attribut  nicht verwendet.
+„RTV“: (root version = Schlüsseltabelle Version) Dieses Attribut ist optional und wird nur bei  Schlüsseltabellen verwendet, wenn eine Referenzierung von Objekten über Schlüs-seltabellen erfolgt. Für die Identifizierung von XML-Dokumenten wird dieses Attribut  nicht verwendet.
 
 ## 6.2 version_nbr (Versionsnummer)
 
-Das Element <version_nbr> enthält die Versionsnummer der Datenlieferung bezogen auf die  Quartalsangabe im Dateinamen. Bei Erstlieferung erhält das V-Attribut die Ziffer „1“. Für jede  nachfolgende Lieferung wird die Versionnummer um eins hochgezählt. Diese Zählung ist un- abhängig von Element state (Bearbeitungszustand). Wird also zuerst eine Datei mit dem Zu- stand TEST und der Versionsnummer 1 geliefert und in der Folge eine Datei mit dem Zustand  RELEASE, so muss die Versionsnummer auf 2 gesetzt werden, wenn die Quartalsangabe  gleich bleibt. Wird die Jahres- oder Quartalsangabe im Dateinamen verändert, so beginnt die  Zählung wieder bei eins.
+Das Element <version_nbr> enthält die Versionsnummer der Datenlieferung bezogen auf die  Quartalsangabe im Dateinamen. Bei Erstlieferung erhält das V-Attribut die Ziffer „1“. Für jede  nachfolgende Lieferung wird die Versionnummer um eins hochgezählt. Diese Zählung ist un-abhängig von Element state (Bearbeitungszustand). Wird also zuerst eine Datei mit dem Zu-stand TEST und der Versionsnummer 1 geliefert und in der Folge eine Datei mit dem Zustand  RELEASE, so muss die Versionsnummer auf 2 gesetzt werden, wenn die Quartalsangabe  gleich bleibt. Wird die Jahres- oder Quartalsangabe im Dateinamen verändert, so beginnt die  Zählung wieder bei eins.
 
 ---
 
@@ -848,11 +822,11 @@ Das Element „version_nbr“ hat folgenden Aufbau:
 
 ## 6.3 document_type_cd (Bezeichnung des Datentyps)
 
-Das Element „document_type_cd“ beschreibt den Dokumenttyp, d.h. um welche Schnittstelle  bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt, um kodierte Werte darzustel- len.
+Das Element „document_type_cd“ beschreibt den Dokumenttyp, d.h. um welche Schnittstelle  bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt, um kodierte Werte darzustel-len.
 
 Kode-Elemente:
 
-Genereller Aufbau von Elementen, die kodierte Werte und Schlüsseltabellen enthalten, am  Beispiel des Elements „document_type_cd“. Gemäß der Namenskonvention haben Elemente,  die kodierte Werte enthalten, in der Regel die Endung „_cd“. Kode-Elemente haben den Da- tentyp „v_s_string_typ“.
+Genereller Aufbau von Elementen, die kodierte Werte und Schlüsseltabellen enthalten, am  Beispiel des Elements „document_type_cd“. Gemäß der Namenskonvention haben Elemente,  die kodierte Werte enthalten, in der Regel die Endung „_cd“. Kode-Elemente haben den Da-tentyp „v_s_string_typ“.
 
 Bei dieser Schnittstelle steht im „V“-Attribut der Wert „ARV“.
 
@@ -894,7 +868,7 @@ Das Element hat folgenden Aufbau:
 
 **Tabelle 9 – Erläuterung „header/service_tmr“**
 
-„V“: Hier wird der Gültigkeitszeitraum z.B. im Format „YYYY-MM-DD..YYYY-MM-DD“ an- gegeben. Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende  des Gültigkeitszeitraums. Die beiden Angaben werden durch zwei Punkte voneinander  getrennt.
+„V“: Hier wird der Gültigkeitszeitraum z.B. im Format „YYYY-MM-DD..YYYY-MM-DD“ an-gegeben. Das erste Datum steht dabei für den Anfang, das zweite Datum für das Ende  des Gültigkeitszeitraums. Die beiden Angaben werden durch zwei Punkte voneinander  getrennt.
 
 Es sind folgende Zeitraumangaben durch den „zeitraum_typ“ möglich:
 
@@ -970,7 +944,7 @@ Der Sender ist hierbei eine Organisation (s. 6.7.1
 
 Generell können Organisationsdaten in diesem Element untergebracht werden. Im Header  beschreibt es die Organisation, welche die Daten liefert.
 
-Die Unterelemente „id“, „organization.nm“, „addr“ und „telecom“ müssen vorhanden sein, „tel- ecom“ sogar zweimal, einmal als E-Mail-Adresse, einmal als Telefonnummer.
+Die Unterelemente „id“, „organization.nm“, „addr“ und „telecom“ müssen vorhanden sein, „tel-ecom“ sogar zweimal, einmal als E-Mail-Adresse, einmal als Telefonnummer.
 
 Das Element hat folgenden Aufbau:
 
@@ -1030,7 +1004,7 @@ Die Identifikation einer Organisation.  „organization.nm“: Organisationsname
 
 Dieses Element dient dazu, Telefon- und Faxnummern, E-Mail-Adressen und www-Adressen  aufzunehmen. Werte werden im „V“-Attribut angegeben, der mit dem Wert „tel“, „fax“ „mailto“,  „http“ oder „ftp“ beginnen muss.
 
-Die Landesebene sollte hier mindestens die Telefonnummer und die E-Mail-Adresse derjeni- gen Person oder Stelle angeben, die als Verantwortliche und Ansprechpartner für die ARV- Stammdatei zuständig ist.
+Die Landesebene sollte hier mindestens die Telefonnummer und die E-Mail-Adresse derjeni-gen Person oder Stelle angeben, die als Verantwortliche und Ansprechpartner für die ARV-Stammdatei zuständig ist.
 
 Das Element hat folgenden Aufbau:
 
@@ -1057,13 +1031,13 @@ Tabelle 18 aufgeführt.
 
 ## 6.8 state (Bearbeitungszustand)
 
-Das Element <state> beschreibt in seinem V-Attribut den Bearbeitungszustand der Datei.  Damit wird deutlich, ob es sich um eine XML-Datei für das Testverfahren oder den Produktiv- betrieb handelt. Der Code im Attribut „V“ kann „TEST“ oder „RELEASE“ sein und ist in der
+Das Element <state> beschreibt in seinem V-Attribut den Bearbeitungszustand der Datei.  Damit wird deutlich, ob es sich um eine XML-Datei für das Testverfahren oder den Produktiv-betrieb handelt. Der Code im Attribut „V“ kann „TEST“ oder „RELEASE“ sein und ist in der
 
 diagram
 
 ---
 
-### Schlüsseltabelle S_KBV_BEARBEITUNGSZUSTAND mit der OID 1.2.276.0.76.5.108 festge- legt.
+### Schlüsseltabelle S_KBV_BEARBEITUNGSZUSTAND mit der OID 1.2.276.0.76.5.108 festge-legt.
 
 ---
 
@@ -1078,7 +1052,7 @@ Das Element hat folgenden Aufbau:
 
 ## 6.9 interface (Schnittstelle)
 
-Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler- weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element „interface“ wird auf  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen.
+Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element „interface“ wird auf  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen.
 
 Das Element hat folgenden Aufbau:
 
@@ -1155,9 +1129,9 @@ Im Bereich „body“ liegen die eigentlichen Inhalte der Datenlieferung. Der Na
 
 ## 7.1 geltungsbereich_kv
 
-Innerhalb dieses Elementes wird der entsprechende KV-Bereich angegeben, für welchen die  Arzneimittelvereinbarungen gelten. Der Wert für das „V“-Attribut wird aus einer Schlüsseltabel- le (siehe Abschnitt 8.1) entnommen. Der Wert des „S“-Attributes gibt die OID dieser Tabelle  an und ist auf „1.2.276.0.76.5.233“ festgesetzt. Pro ARV-Stammdatei gibt es genau ein Ele- ment „geltungsbereich_kv“.
+Innerhalb dieses Elementes wird der entsprechende KV-Bereich angegeben, für welchen die  Arzneimittelvereinbarungen gelten. Der Wert für das „V“-Attribut wird aus einer Schlüsseltabel-le (siehe Abschnitt 8.1) entnommen. Der Wert des „S“-Attributes gibt die OID dieser Tabelle  an und ist auf „1.2.276.0.76.5.233“ festgesetzt. Pro ARV-Stammdatei gibt es genau ein Ele-ment „geltungsbereich_kv“.
 
-Als Unterelemente des „geltungsbereich_kv“ gibt es das Element „arzneimittelvereinbarun- gen“.
+Als Unterelemente des „geltungsbereich_kv“ gibt es das Element „arzneimittelvereinbarun-gen“.
 
 **Das Element hat folgenden Aufbau:**
 
@@ -1237,9 +1211,9 @@ Unterelemente von „arzneimittelvereinbarungen“ sind die Elemente
 
 - kombi_verordnungsziel_liste
 
-Die Landesebene kann aus den Unterelementen von „arzneimittelvereinbarungen“ diejenigen  auswählen, die in die Verordnungssoftware integriert werden sollen. Beispielsweise könnten  in einem KV-Bereich eine Regelung zu Höchstquoten und eine Regelung zu Leitsubstanzquo- ten existieren, die auch in die Verordnungssoftware implementiert werden sollen. In diesem  Fall würde die Landesebene die Daten nur für die Unterelemente „hoechstquotenr_liste“ und  „leitsubstanzquotenr_liste“ in dem hier beschriebenen Datensatzformat zur Verfügung stellen.  Es ist prinzipiell auch möglich, alle oben genannten Regelungen zu implementieren. Dann  müssten die Daten in ihren entsprechenden Formaten von der Landesebene bereitgestellt  werden.
+Die Landesebene kann aus den Unterelementen von „arzneimittelvereinbarungen“ diejenigen  auswählen, die in die Verordnungssoftware integriert werden sollen. Beispielsweise könnten  in einem KV-Bereich eine Regelung zu Höchstquoten und eine Regelung zu Leitsubstanzquo-ten existieren, die auch in die Verordnungssoftware implementiert werden sollen. In diesem  Fall würde die Landesebene die Daten nur für die Unterelemente „hoechstquotenr_liste“ und  „leitsubstanzquotenr_liste“ in dem hier beschriebenen Datensatzformat zur Verfügung stellen.  Es ist prinzipiell auch möglich, alle oben genannten Regelungen zu implementieren. Dann  müssten die Daten in ihren entsprechenden Formaten von der Landesebene bereitgestellt  werden.
 
-Bitte beachten Sie bei der Datenbereitstellung, dass einige Präparate von unterschiedlichen  Regelungen in den Arzneimittelvereinbarungen betroffen sein könnten. Beispielsweise könnte  das Präparat Nexium sowohl von einer Leitsubstanzquotenregelung als auch von einer  Höchstquoten-Regelung betroffen sein. Hier sollte die Landesebene im jeweiligen Listenele- ment im Attribut „prioritaet“ für die Software-Anbieter definieren, welche Regelung eine höhere  Priorität besitzt. Es sollte nur der Hinweistext angezeigt werden, welcher zur höher priorisier- ten Regel gehört. Ansonsten kann nicht ausgeschlossen werden, dass der Arzt mit doppelten  Hinweisen konfrontiert wird.
+Bitte beachten Sie bei der Datenbereitstellung, dass einige Präparate von unterschiedlichen  Regelungen in den Arzneimittelvereinbarungen betroffen sein könnten. Beispielsweise könnte  das Präparat Nexium sowohl von einer Leitsubstanzquotenregelung als auch von einer  Höchstquoten-Regelung betroffen sein. Hier sollte die Landesebene im jeweiligen Listenele-ment im Attribut „prioritaet“ für die Software-Anbieter definieren, welche Regelung eine höhere  Priorität besitzt. Es sollte nur der Hinweistext angezeigt werden, welcher zur höher priorisier-ten Regel gehört. Ansonsten kann nicht ausgeschlossen werden, dass der Arzt mit doppelten  Hinweisen konfrontiert wird.
 
 Das Element hat folgenden Aufbau:
 
@@ -1258,25 +1232,25 @@ Das Element hat folgenden Aufbau:
 
 #### Erläuterung zum Aufbau der verschiedenen Regelungen
 
-Mittels ARV-Schnittstelle können die oben abgebildeten 9 Regelungstypen aus den regiona- len Arzneimittelvereinbarungen abgebildet werden. Diese unterscheiden sich in Struktur und  Aufbau.
+Mittels ARV-Schnittstelle können die oben abgebildeten 9 Regelungstypen aus den regiona-len Arzneimittelvereinbarungen abgebildet werden. Diese unterscheiden sich in Struktur und  Aufbau.
 
 **Betroffene Präparate**
 
-Gemeinsam ist den Regelungen, dass sie nur auf diejenigen Präparate angewendet werden,  die innerhalb der Regelung als direkte Unterelemente der Regelung aufgeführt werden (be- troffene Präparate).
+Gemeinsam ist den Regelungen, dass sie nur auf diejenigen Präparate angewendet werden,  die innerhalb der Regelung als direkte Unterelemente der Regelung aufgeführt werden (be-troffene Präparate).
 
-Bei einigen Regelungen, (z.B. Leitsubstanzquotenregelung) sind die betroffenen Präparate  die Vereinigungsmenge der auszutauschenden und der alternativen Präparate. Bei anderen  Regelungen (z.B. Generikaquotenregelung) sind die betroffenen Präparate die auszutau- schenden Präparate.
+Bei einigen Regelungen, (z.B. Leitsubstanzquotenregelung) sind die betroffenen Präparate  die Vereinigungsmenge der auszutauschenden und der alternativen Präparate. Bei anderen  Regelungen (z.B. Generikaquotenregelung) sind die betroffenen Präparate die auszutau-schenden Präparate.
 
 **Alternative Präparate (Verordnungsalternative)**
 
-In der „leitsubstanzquotenregelung“, bei der „generikaquotenregelung“, bei der „hoechstquo- tenregelung“ und der „biosimilarquotenregelung“ können Präparate angegeben werden, die  **bevorzugt (z.B. Leitsubstanz oder Biosimilar)** zu verordnen sind. In den Elementen „leit- substanzquotenregelung“ und bei „biosimilarquotenregelung“ ist die Angabe einer „leitsub- stanz“ bzw. eines „biosimilar“ obligat.
+In der „leitsubstanzquotenregelung“, bei der „generikaquotenregelung“, bei der „hoechstquo-tenregelung“ und der „biosimilarquotenregelung“ können Präparate angegeben werden, die  **bevorzugt (z.B. Leitsubstanz oder Biosimilar)** zu verordnen sind. In den Elementen „leit-substanzquotenregelung“ und bei „biosimilarquotenregelung“ ist die Angabe einer „leitsub-stanz“ bzw. eines „biosimilar“ obligat.
 
 **Quoten-Vergleichsgruppe**
 
-Für Leitsubstanzquoten-, Generikaquoten-, Höchstquoten- und Biosimilarquotenregelungen  können optional Controllingfunktionen implementiert werden, welche die Verordnungsquoten  einer Praxis individuell berechnen. Die Berechnung der Quote ist im Dokument „Implementie- rungshinweise zur Schnittstelle ARV“ beschrieben. Die Bildung der Quoten-Vergleichsgruppe  ist in den einzelnen Regelungen unterschiedlich und wird im jeweiligen Abschnitt erläutert.
+Für Leitsubstanzquoten-, Generikaquoten-, Höchstquoten- und Biosimilarquotenregelungen  können optional Controllingfunktionen implementiert werden, welche die Verordnungsquoten  einer Praxis individuell berechnen. Die Berechnung der Quote ist im Dokument „Implementie-rungshinweise zur Schnittstelle ARV“ beschrieben. Die Bildung der Quoten-Vergleichsgruppe  ist in den einzelnen Regelungen unterschiedlich und wird im jeweiligen Abschnitt erläutert.
 
 **Kombinierte Verordnungsziele**
 
-Bei kombinierten Verordnungszielen können unterschiedliche Aspekte für die Bewertung einer  Verordnung miteinander kombiniert werden. Dabei können auch Informationen zu Merkmalen  aus der Arzneimitteldatenbank (z. B. zu Preisen oder vorliegenden Rabattverträgen) herange- zogen und für vergleichende Funktionen genutzt werden. Es wird eine Systematik für die Be- wertung festgelegt, ob ein Präparat letztendlich als **erwünscht** zu werten ist.
+Bei kombinierten Verordnungszielen können unterschiedliche Aspekte für die Bewertung einer  Verordnung miteinander kombiniert werden. Dabei können auch Informationen zu Merkmalen  aus der Arzneimitteldatenbank (z. B. zu Preisen oder vorliegenden Rabattverträgen) herange-zogen und für vergleichende Funktionen genutzt werden. Es wird eine Systematik für die Be-wertung festgelegt, ob ein Präparat letztendlich als **erwünscht** zu werten ist.
 
 
 ---
@@ -1291,7 +1265,7 @@ Das Element „leitsubstanzquotenr_liste“ hat folgenden Aufbau:
 
 **Tabelle 26 – Erläuterung „leitsubstanzquotenr_liste“**
 
-Das optionale Element „leitsubstanzquotenr_liste“ enthält mindestens ein Element „leitsub- stanzquotenregelung“. Zudem kann im Attribut „prioritaet“ ein Wert angegeben werden, der  festlegt, welche Priorität die Leitsubstanzquotenregelungen gegenüber anderen Regelungen  (z. Bsp. Zielpreisregelungen) haben. Das Attribut ist vom Typ „positiveInteger“, muss also  größer als 0 sein. Es ist optional, d.h. hier muss keine Angabe erfolgen. In diesem Fall ist der  voreingestellte Wert (Default-Wert) mit 1 festgelegt. Dies ist die höchste Priorität. Haben zwei  Regelungen die gleiche Priorität, so werden beide Hinweise von der Verordnungssoftware  angezeigt. Ist die Priorität unterschiedlich, wird nur der Hinweis der Regelung mit der höheren  Priorität angezeigt.
+Das optionale Element „leitsubstanzquotenr_liste“ enthält mindestens ein Element „leitsub-stanzquotenregelung“. Zudem kann im Attribut „prioritaet“ ein Wert angegeben werden, der  festlegt, welche Priorität die Leitsubstanzquotenregelungen gegenüber anderen Regelungen  (z. Bsp. Zielpreisregelungen) haben. Das Attribut ist vom Typ „positiveInteger“, muss also  größer als 0 sein. Es ist optional, d.h. hier muss keine Angabe erfolgen. In diesem Fall ist der  voreingestellte Wert (Default-Wert) mit 1 festgelegt. Dies ist die höchste Priorität. Haben zwei  Regelungen die gleiche Priorität, so werden beide Hinweise von der Verordnungssoftware  angezeigt. Ist die Priorität unterschiedlich, wird nur der Hinweis der Regelung mit der höheren  Priorität angezeigt.
 
 <leitsubstanzquotenregelung </leitsubstanzquotenregelung <leitsubstanzquotenregelung </leitsubstanzquotenregelung
 
@@ -1331,44 +1305,44 @@ example example </fachgruppenquote </leitsubstanz> <wirkstoff V="Metformin"/> <w
 
 ---
 
-„einschluss“ = „false“ ist nur anzuwenden, wenn eine Gruppe für den Einschluss bereits defi- niert ist (als übergeordnete Ebene). Ausschlüsse mit „einschluss“ = „false“ müssen sich dann  auf Elemente beziehen, die sich innerhalb dieser Gruppe befinden. Ausschlüsse mit „ein- schluss“ = „false“, die sich nicht auf eine bereits definierte Gruppe beziehen, sind zu ignorie- ren. Angaben mit „einschluss“ = „true“ sind nur möglich, wenn die einzuschließenden Elemen- te sich nicht innerhalb einer bereits definierten Gruppe befinden. Einschlüsse mit „einschluss“  = „true“, die sich auf eine bereits definierte Gruppe beziehen, sind zu ignorieren.“
+„einschluss“ = „false“ ist nur anzuwenden, wenn eine Gruppe für den Einschluss bereits defi-niert ist (als übergeordnete Ebene). Ausschlüsse mit „einschluss“ = „false“ müssen sich dann  auf Elemente beziehen, die sich innerhalb dieser Gruppe befinden. Ausschlüsse mit „ein-schluss“ = „false“, die sich nicht auf eine bereits definierte Gruppe beziehen, sind zu ignorie-ren. Angaben mit „einschluss“ = „true“ sind nur möglich, wenn die einzuschließenden Elemen-te sich nicht innerhalb einer bereits definierten Gruppe befinden. Einschlüsse mit „einschluss“  = „true“, die sich auf eine bereits definierte Gruppe beziehen, sind zu ignorieren.“
 
 **Beispiel** (siehe specific example 3).
 
-Beim ATC5–Code M05BA06 (Wirkstoff Ibandronsäure) sind bestimmte Darreichungsformen  aufgezählt, bei denen das Attribut „einschluss“ auf false gesetzt ist. Dadurch werden diese  Präparate explizit von der Regelung ausgenommen. Der Wirkstoff Zoledronsäure (ATC5-Code  M05BA08) soll ebenfalls durch die Leitsubstanz Alendronsäure ersetzt werden. Das Präparat  Zometa wird von der Regelung ausgenommen, indem das Attribut „einschluss“ auf „false“ ge- setzt wird.
+Beim ATC5–Code M05BA06 (Wirkstoff Ibandronsäure) sind bestimmte Darreichungsformen  aufgezählt, bei denen das Attribut „einschluss“ auf false gesetzt ist. Dadurch werden diese  Präparate explizit von der Regelung ausgenommen. Der Wirkstoff Zoledronsäure (ATC5-Code  M05BA08) soll ebenfalls durch die Leitsubstanz Alendronsäure ersetzt werden. Das Präparat  Zometa wird von der Regelung ausgenommen, indem das Attribut „einschluss“ auf „false“ ge-setzt wird.
 
-Unter dem Element „leitsubstanz“ (siehe 7.3.8) sind die Leitsubstanz(en) als PZN, Handels- namen, Standardaggregate, Wirkstoff(e) oder als ATC 5 Code(s) oder aber auf übergeordne- ter Ebene durch die Angabe der Wirkstoffgruppe oder des ATC 4-Code(s) von der Landes- ebene zu benennen. Die Zahl der zu benennenden Leitsubstanzen ist unbegrenzt. Somit kön- nen auch Regelungen zu Mitteln auf das Renin-Angiotensin-System abgebildet werden, wobei  die Wirkstoffe der Gruppe der ACE-Hemmer als Leitsubstanzen definiert werden können.
+Unter dem Element „leitsubstanz“ (siehe 7.3.8) sind die Leitsubstanz(en) als PZN, Handels-namen, Standardaggregate, Wirkstoff(e) oder als ATC 5 Code(s) oder aber auf übergeordne-ter Ebene durch die Angabe der Wirkstoffgruppe oder des ATC 4-Code(s) von der Landes-ebene zu benennen. Die Zahl der zu benennenden Leitsubstanzen ist unbegrenzt. Somit kön-nen auch Regelungen zu Mitteln auf das Renin-Angiotensin-System abgebildet werden, wobei  die Wirkstoffe der Gruppe der ACE-Hemmer als Leitsubstanzen definiert werden können.
 
 **Anzeige eines Hinweistextes für den Arzt**
 
-In dem Unterelement **„fachgruppenquote“** kann ein Hinweistext („warnhinweis_ersetzung“)  fachgruppenspezifisch oder allgemein für alle Ärzte von der Landesebene formuliert werden.  Dieser Hinweis muss dann von der Verordnungssoftware angezeigt werden, wenn der Arzt ein  Präparat verordnet, das nicht Leitsubstanz ist. Zusätzlich kann ein Hinweistext („hin- weis_verordnung_identisch“) von der Landesebene definiert werden, wenn der Arzt ein Prä- parat verordnet, das bereits die Leitsubstanz darstellt. Dieser muss dann durch die Verord- nungssoftware angezeigt werden.
+In dem Unterelement **„fachgruppenquote“** kann ein Hinweistext („warnhinweis_ersetzung“)  fachgruppenspezifisch oder allgemein für alle Ärzte von der Landesebene formuliert werden.  Dieser Hinweis muss dann von der Verordnungssoftware angezeigt werden, wenn der Arzt ein  Präparat verordnet, das nicht Leitsubstanz ist. Zusätzlich kann ein Hinweistext („hin-weis_verordnung_identisch“) von der Landesebene definiert werden, wenn der Arzt ein Prä-parat verordnet, das bereits die Leitsubstanz darstellt. Dieser muss dann durch die Verord-nungssoftware angezeigt werden.
 
 **Anzeige des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich**
 
-Zudem besteht die Möglichkeit, dass sich die Hinweistext(e) und/oder die Quote(n) auf alle  Ärzte oder nur auf einzelne Fachgruppen beziehen. Gelten beispielsweise in einem KV- Bereich für Allgemeinmediziner und für Internisten unterschiedliche Quoten und sind für ande- re Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche  Fachgruppen Hinweistexte und/oder Quoten gelten, erfolgt über die Unterelemente „fach- gruppennummer“ oder „fachgruppenintervall“ (siehe 7.3.8.3 und 7.3.8.2
+Zudem besteht die Möglichkeit, dass sich die Hinweistext(e) und/oder die Quote(n) auf alle  Ärzte oder nur auf einzelne Fachgruppen beziehen. Gelten beispielsweise in einem KV-Bereich für Allgemeinmediziner und für Internisten unterschiedliche Quoten und sind für ande-re Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche  Fachgruppen Hinweistexte und/oder Quoten gelten, erfolgt über die Unterelemente „fach-gruppennummer“ oder „fachgruppenintervall“ (siehe 7.3.8.3 und 7.3.8.2
 
-Anhand der von der Landesebene benannten Fachgruppennummer(n) und/oder der Fach- gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen- spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
+Anhand der von der Landesebene benannten Fachgruppennummer(n) und/oder der Fach-gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen-spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
 
-Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin- weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen  Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren.
+Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin-weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen  Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren.
 
 
 ---
 
 Dies ist im 3. specific example (siehe Tabelle 27 – Erläuterung „leitsubstanzquotenregelung“
 
-der Fall. Als Leitsubstanz ist hier "M05BA04" (Alendronsäure) vorgeschrieben. Für die Fach- gruppen 23 bis 33 sind ein Hinweistext sowie eine Quote verordneter DDD von 81,3 % defi- niert. Die Fachgruppen 1, 2 und 3 erhalten ebenfalls einen Hinweistext. Die Controllingfunkti- on soll auf einer Zielquote von 83% berechnet werden. Bei allen anderen Fachgruppen soll  zwar kein Controlling implementiert werden, ein Hinweistext auf die Leitsubstanzregelung je- doch angezeigt werden. Diese restlichen Fachgruppen werden im 3. Element „fachgruppen- quote“ explizit durch die Intervallangaben definiert.
+der Fall. Als Leitsubstanz ist hier "M05BA04" (Alendronsäure) vorgeschrieben. Für die Fach-gruppen 23 bis 33 sind ein Hinweistext sowie eine Quote verordneter DDD von 81,3 % defi-niert. Die Fachgruppen 1, 2 und 3 erhalten ebenfalls einen Hinweistext. Die Controllingfunkti-on soll auf einer Zielquote von 83% berechnet werden. Bei allen anderen Fachgruppen soll  zwar kein Controlling implementiert werden, ein Hinweistext auf die Leitsubstanzregelung je-doch angezeigt werden. Diese restlichen Fachgruppen werden im 3. Element „fachgruppen-quote“ explizit durch die Intervallangaben definiert.
 
-Bei Berechnung der individuellen Verordnungsquote (Controlling) ist der Quotient aus der  Summe der verordneten Leitsubstanzen (alternative Präparate) im Zähler und der Summe der  verordneten Präparate aus der Gruppe der betroffenen Präparate(Leitsubstanzen und auszu- tauschende Präparate) im Nenner zu bilden. Die Quoten-Vergleichsgruppe ist in diesem Fall  identisch mit der der Gruppe der betroffenen Präparate. Abhängig davon, in welchem Element  die Quote definiert ist, erfolgt die Berechnung anhand der verordneten DDD, der Anzahl von  Arzneimittel-Verordnungen oder anhand des Bruttoumsatzes bezogen auf die über die GKV  getätigten Verordnungen von Fertigarzneimitteln.
+Bei Berechnung der individuellen Verordnungsquote (Controlling) ist der Quotient aus der  Summe der verordneten Leitsubstanzen (alternative Präparate) im Zähler und der Summe der  verordneten Präparate aus der Gruppe der betroffenen Präparate(Leitsubstanzen und auszu-tauschende Präparate) im Nenner zu bilden. Die Quoten-Vergleichsgruppe ist in diesem Fall  identisch mit der der Gruppe der betroffenen Präparate. Abhängig davon, in welchem Element  die Quote definiert ist, erfolgt die Berechnung anhand der verordneten DDD, der Anzahl von  Arzneimittel-Verordnungen oder anhand des Bruttoumsatzes bezogen auf die über die GKV  getätigten Verordnungen von Fertigarzneimitteln.
 
-Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo- te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu  beziehen.
+Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo-te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu  beziehen.
 
 ### 7.3.1 pzn
 
-PZN ist die Abkürzung für Pharmazentralnummer. Die Pharmazentralnummer ist ein eindeuti- ges Kennzeichen eines Arzneimittels anhand einer 8-stelligen Nummer. Sofern PZN nicht 8- stellig sind, sind führende Nullen zu ergänzen. Es sind nur die PZN für Produkte anzugeben,  für die eine Zielvereinbarung oder eine andere regionale Regelung konkret existiert.
+PZN ist die Abkürzung für Pharmazentralnummer. Die Pharmazentralnummer ist ein eindeuti-ges Kennzeichen eines Arzneimittels anhand einer 8-stelligen Nummer. Sofern PZN nicht 8-stellig sind, sind führende Nullen zu ergänzen. Es sind nur die PZN für Produkte anzugeben,  für die eine Zielvereinbarung oder eine andere regionale Regelung konkret existiert.
 
-Werden PZN angegeben, ist zu beachten, dass der Stand der selektierten PZN schnell veral- tet. Der Aktualisierungsbedarf ist somit hoch. Auch können Diskrepanzen zwischen denen von  der Landesebene gelieferten und den bereits in der Verordnungssoftware integrierten PZN  entstehen.
+Werden PZN angegeben, ist zu beachten, dass der Stand der selektierten PZN schnell veral-tet. Der Aktualisierungsbedarf ist somit hoch. Auch können Diskrepanzen zwischen denen von  der Landesebene gelieferten und den bereits in der Verordnungssoftware integrierten PZN  entstehen.
 
-Das Element „pzn“ enthält das Unterelement „ddd_je_packung“. Sofern die Verordnungssoft- ware ein arztindividuelles Controlling auf DDD-Basis durchführen soll, sind die PZN mit den  dazugehörigen DDD verpflichtend von der Landesebene bereit zu stellen.
+Das Element „pzn“ enthält das Unterelement „ddd_je_packung“. Sofern die Verordnungssoft-ware ein arztindividuelles Controlling auf DDD-Basis durchführen soll, sind die PZN mit den  dazugehörigen DDD verpflichtend von der Landesebene bereit zu stellen.
 
 Die DDD entsprechen der jeweils amtlichen Version des DIMDI.
 
@@ -1387,15 +1361,15 @@ Das Element hat folgenden Aufbau:
 
 ### 7.3.2 handelsname
 
-Stellt den Namen des Arzneimittels dar und kann auch Informationen über Wirkstärke, Darrei- chungsform und Packungsgröße enthalten.
+Stellt den Namen des Arzneimittels dar und kann auch Informationen über Wirkstärke, Darrei-chungsform und Packungsgröße enthalten.
 
-Werden durch die Landesebene Handelsnamen ohne diese Bezeichnungen angegeben (vgl.  Element standardaggregat), sind von der Verordnungssoftware alle Stärken und Packungs- größen für diese zu selektieren. Die Angabe des Handelsnamen kann in solchen Fällen sinn- voll sein, wenn für einen Wirkstoff (z.B. Duloxetin) zwei Handelsnamen bestehen (z.B. Cym- balta und Yentreve
+Werden durch die Landesebene Handelsnamen ohne diese Bezeichnungen angegeben (vgl.  Element standardaggregat), sind von der Verordnungssoftware alle Stärken und Packungs-größen für diese zu selektieren. Die Angabe des Handelsnamen kann in solchen Fällen sinn-voll sein, wenn für einen Wirkstoff (z.B. Duloxetin) zwei Handelsnamen bestehen (z.B. Cym-balta und Yentreve
 
-Bei der Verwendung des Elementes „handelsnamen“ zur Definition von Regeln kann es infol- ge abweichender Schreibweisen in der Verordnungssoftware der Software schärfen kommen, so dass bestimmte Arzneimittel möglicherweise nicht gefunden werden.
+Bei der Verwendung des Elementes „handelsnamen“ zur Definition von Regeln kann es infol-ge abweichender Schreibweisen in der Verordnungssoftware der Software schärfen kommen, so dass bestimmte Arzneimittel möglicherweise nicht gefunden werden.
 
 Abweichungen bei der Groß-Kleinschreibung sowie zusätzliche Leerzeichen und Bindestriche  treten relativ häufig auf und es wird empfohlen, die Groß/Kleinschreibung zu ignorieren sowie  Bindestriche und Leerzeichen bei der Suche herauszufiltern.
 
-Es ist möglich, im Element „handelsnamen“ ein „*“ (Joker) für beliebige Zeichenketten anzu- geben. Grundsätzlich ist die Angabe <Name Leerzeichen Sternchen> auch in der Kategorie  Handelsname denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han- delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als <Omeprazol *> in  der Kategorie Standardaggregat oder eine Kennzeichnung als <Omeprazol ratiopharm *> in  der Kategorie Handelsnamen zu machen. In der Kategorie Standardaggregat muss das  Sternchen zwingend angegeben werden, in der Kategorie Handelsname jedoch bei vollstän- diger Angabe des Handelsnamens nicht.
+Es ist möglich, im Element „handelsnamen“ ein „*“ (Joker) für beliebige Zeichenketten anzu-geben. Grundsätzlich ist die Angabe <Name Leerzeichen Sternchen> auch in der Kategorie  Handelsname denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han-delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als <Omeprazol *> in  der Kategorie Standardaggregat oder eine Kennzeichnung als <Omeprazol ratiopharm *> in  der Kategorie Handelsnamen zu machen. In der Kategorie Standardaggregat muss das  Sternchen zwingend angegeben werden, in der Kategorie Handelsname jedoch bei vollstän-diger Angabe des Handelsnamens nicht.
 
 Im Element „handelsname“ sind die Sonderzeichen für Trademark ™ oder für Registrierung  nicht mit anzugeben. Die Sonderzeichen sind durch ein Leerzeichen zu ersetzen, damit ist -Anbieter zu Un-
 
@@ -1403,9 +1377,9 @@ attributes attributes <ddd_je_packung V="0.0"/>
 
 ---
 
-zum Beispiel Omeptrazol ratiopharm® bei der Suche nach „Omeprazol ratiopharm *“ ein Su- chergebnis.
+zum Beispiel Omeptrazol ratiopharm® bei der Suche nach „Omeprazol ratiopharm *“ ein Su-chergebnis.
 
-Es ist durch die Landesebene sicherzustellen, dass bei dieser Suchdefinition keine ungewoll- ten Präparate im Ergebnis vorkommen.
+Es ist durch die Landesebene sicherzustellen, dass bei dieser Suchdefinition keine ungewoll-ten Präparate im Ergebnis vorkommen.
 
 Das Element hat folgenden Aufbau:
 
@@ -1418,13 +1392,13 @@ Das Element hat folgenden Aufbau:
 
 #### 7.3.2.1 darreichungsform
 
-Das Element „handelsname“ hat ein optionales Unterelement „darreichungsform“, welches  dazu dient, bestimmte Darreichungsformen des Medikamentes mit dem angegebenen Han- delsnamen für die Regelung zu benennen.
+Das Element „handelsname“ hat ein optionales Unterelement „darreichungsform“, welches  dazu dient, bestimmte Darreichungsformen des Medikamentes mit dem angegebenen Han-delsnamen für die Regelung zu benennen.
 
 Die Abkürzungen für Darreichnungsformen der Arzneimittel werden von der Informationsstelle  für Arzneispezialitäten - IFA GmbH übernommen (siehe [
 
-Im Attribut „V“ wird der Code für die Darreichungsform angegeben, welcher aus 3 Großbuch- staben bestehen muß. Im Attribut „S“ wird die Nummer der Schlüsseltabelle angegeben, wel- che die Codes und die Bedeutung der Codes für die Darreichungsform enthält. Die Nummer  der Schlüsseltabelle ist mit 1.2.276.0.76.3.1.1.5.2.15 unveränderlich festgelegt. Die Schlüs- seltabelle im Abschnitt 8.2 basiert auf den Angaben der IFA GmbH und ist im Internet unter [ abrufbar. Das Attribut „einschluss“ ist optional und per Voreinstellung auf „true“ gesetzt.
+Im Attribut „V“ wird der Code für die Darreichungsform angegeben, welcher aus 3 Großbuch-staben bestehen muß. Im Attribut „S“ wird die Nummer der Schlüsseltabelle angegeben, wel-che die Codes und die Bedeutung der Codes für die Darreichungsform enthält. Die Nummer  der Schlüsseltabelle ist mit 1.2.276.0.76.3.1.1.5.2.15 unveränderlich festgelegt. Die Schlüs-seltabelle im Abschnitt 8.2 basiert auf den Angaben der IFA GmbH und ist im Internet unter [ abrufbar. Das Attribut „einschluss“ ist optional und per Voreinstellung auf „true“ gesetzt.
 
-Wenn eine Darreichungsform ohne Angabe des Attributes (oder mit einschluss = “true“) auf- geführt wird, so gilt die Regelung nur für die aufgeführte Darreichungsform des Präparates, für  alle anderen Darreichungsformen gilt sie nicht. Werden hingegen eine oder mehrere Darrei-
+Wenn eine Darreichungsform ohne Angabe des Attributes (oder mit einschluss = “true“) auf-geführt wird, so gilt die Regelung nur für die aufgeführte Darreichungsform des Präparates, für  alle anderen Darreichungsformen gilt sie nicht. Werden hingegen eine oder mehrere Darrei-
 
 4]).
 
@@ -1433,29 +1407,29 @@ Wenn eine Darreichungsform ohne Angabe des Attributes (oder mit einschluss = “
 
 ---
 
-chungsformen aufgeführt, die jeweils das Attribut einschluss =„false“ haben, so gilt die Rege- lung für das Präparat in allen Darreichungsformen außer den angegebenen.
+chungsformen aufgeführt, die jeweils das Attribut einschluss =„false“ haben, so gilt die Rege-lung für das Präparat in allen Darreichungsformen außer den angegebenen.
 
 Weiterhin sind die Erläuterungen auf Seite 42 zur Verwendung des Attributs „einschluss“ zu  beachten.
 
 ### 7.3.3 standardaggregat
 
-Stellt den Handelsnamen eines Fertigarzneimittels eines pharmazeutischen Unternehmens  oder Vertreibers bei gegebener Hauptindikation dar. Die Bezeichnungen von Packungsgrö- ßen, Darreichungsformen oder Stärken werden im Namen nicht erwähnt, wenn sich keine  Unterschiede in den Bestandteilen oder der Indikation nach dem ATC-Code ergeben. Somit  sind Standardaggregate Zusammenfassungen einzelner Arzneimittelpackungen zur Verbes- serung der Übersichtlichkeit.
+Stellt den Handelsnamen eines Fertigarzneimittels eines pharmazeutischen Unternehmens  oder Vertreibers bei gegebener Hauptindikation dar. Die Bezeichnungen von Packungsgrö-ßen, Darreichungsformen oder Stärken werden im Namen nicht erwähnt, wenn sich keine  Unterschiede in den Bestandteilen oder der Indikation nach dem ATC-Code ergeben. Somit  sind Standardaggregate Zusammenfassungen einzelner Arzneimittelpackungen zur Verbes-serung der Übersichtlichkeit.
 
-Werden durch die Landesebene Standardaggregate angegeben, sind von der Verordnungs- software alle Stärken, Darreichungsformen und Packungsgrößen für diese zu selektieren. Die  Angabe von Standardaggregaten durch die Landesebene kann die Definition der Arzneimit- telgruppe, für die eine Regelung zutrifft, vereinfachen.
+Werden durch die Landesebene Standardaggregate angegeben, sind von der Verordnungs-software alle Stärken, Darreichungsformen und Packungsgrößen für diese zu selektieren. Die  Angabe von Standardaggregaten durch die Landesebene kann die Definition der Arzneimit-telgruppe, für die eine Regelung zutrifft, vereinfachen.
 
 Bei der Verwendung des Elementes „standardaggregat“ zur Definition von Regeln kann es  infolge abweichender Schreibweisen in der Verordnungssoftware der Software-Anbietern zu  Unschärfen kommen, so dass bestimmte Arzneimittel möglicherweise nicht gefunden werden.
 
 Abweichungen bei der Groß-Kleinschreibung sowie zusätzliche Leerzeichen und Bindestriche  treten relativ häufig auf und es wird empfohlen, die Groß/Kleinschreibung zu ignorieren sowie  Bindestriche und Leerzeichen bei der Suche herauszufiltern.
 
-**Beispiel:** Würde zum Beispiel <Zyprexa> als Standardaggregat angegeben, so ist in der Re- gel das Ziel, alle Präparate einschließlich aller Wirkstärken und Packungsgrößen sowie alle  Reimporte einzubeziehen.
+**Beispiel:** Würde zum Beispiel <Zyprexa> als Standardaggregat angegeben, so ist in der Re-gel das Ziel, alle Präparate einschließlich aller Wirkstärken und Packungsgrößen sowie alle  Reimporte einzubeziehen.
 
-Um dies als Suchdefinition darzustellen, sollte hier im Element „standardaggregat“ an den  Namen ein Leerzeichen und als Joker für eine beliebige Zeichenkette ein „*“ angegeben wer- den, also <Zyprexa *>. Es ist durch die Landesebene sicherzustellen, dass bei dieser Suchde- finition keine ungewollten Präparate im Ergebnis vorkommen.
+Um dies als Suchdefinition darzustellen, sollte hier im Element „standardaggregat“ an den  Namen ein Leerzeichen und als Joker für eine beliebige Zeichenkette ein „*“ angegeben wer-den, also <Zyprexa *>. Es ist durch die Landesebene sicherzustellen, dass bei dieser Suchde-finition keine ungewollten Präparate im Ergebnis vorkommen.
 
-Im Element „standardaggregat“ sind die Sonderzeichen für Trademark ™ oder für Registrie- rung  nicht mit anzugeben. Die Sonderzeichen sind durch ein Leerzeichen zu ersetzen, damit  ist zum Beispiel Omeprazol® bei der Suche nach „Omeprazol *“ ein Suchergebnis.
+Im Element „standardaggregat“ sind die Sonderzeichen für Trademark ™ oder für Registrie-rung  nicht mit anzugeben. Die Sonderzeichen sind durch ein Leerzeichen zu ersetzen, damit  ist zum Beispiel Omeprazol® bei der Suche nach „Omeprazol *“ ein Suchergebnis.
 
-Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte sichergestellt  sein, dass keine Abgrenzungsschwierigkeiten durch namensgleiche Kombinationspräparate  auftreten können. Z. B. würde durch „Fempress *“ sowohl das Präparat Fempress® als auch  das Kombinationspräparat Fempress plus® mit erfasst. Gleiches gilt für Rasilez® und Ra- silez® plus.
+Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte sichergestellt  sein, dass keine Abgrenzungsschwierigkeiten durch namensgleiche Kombinationspräparate  auftreten können. Z. B. würde durch „Fempress *“ sowohl das Präparat Fempress® als auch  das Kombinationspräparat Fempress plus® mit erfasst. Gleiches gilt für Rasilez® und Ra-silez® plus.
 
-Mit der Kennzeichnung <Name Leerzeichen Sternchen> wird ein bestimmtes Standardaggre- gat definiert. Es ist denkbar, eine Kennzeichnung als <Omeprazol *> in der Kategorie Stan- dardaggregat oder eine Kennzeichnung als <Omeprazol ratiopharm *> in der Kategorie Han- delsnamen zu machen. In der Kategorie Standardaggregat muss das Sternchen zwingend  angegeben werden, in der Kategorie Handelsname jedoch bei vollständiger Angabe des Han- delsnamens nicht.
+Mit der Kennzeichnung <Name Leerzeichen Sternchen> wird ein bestimmtes Standardaggre-gat definiert. Es ist denkbar, eine Kennzeichnung als <Omeprazol *> in der Kategorie Stan-dardaggregat oder eine Kennzeichnung als <Omeprazol ratiopharm *> in der Kategorie Han-delsnamen zu machen. In der Kategorie Standardaggregat muss das Sternchen zwingend  angegeben werden, in der Kategorie Handelsname jedoch bei vollständiger Angabe des Han-delsnamens nicht.
 
 
 ---
@@ -1475,7 +1449,7 @@ siehe Erläuterung in Abschnitt 7.3.2.1
 
 ### 7.3.4 wirkstoff
 
-Dieses Element ermöglicht die Angabe des Wirkstoffs entsprechend des Verzeichnis  ATC/DDD (vom DIMDI). Bei der Angabe des Wirkstoffs ist zu beachten, dass hiermit auch  Präparate mit selektiert würden, die möglicherweise nicht von einer entsprechenden Regelung  betroffen sind (Beispielsweise würden durch Angabe des Wirkstoffs Ibandronsäure auch intra- venöse Applikationsformen miterfasst. In diesem Fall kann die Angabe des Standardaggre- gats, des Handelsnamen oder der PZN sinnvoller sein). Wirkstoffkombinationen können nur  über den ATC5-Code oder ATC4-Code (z.B. C09BA05 für Ramipril und Diuretika) definiert  werden.
+Dieses Element ermöglicht die Angabe des Wirkstoffs entsprechend des Verzeichnis  ATC/DDD (vom DIMDI). Bei der Angabe des Wirkstoffs ist zu beachten, dass hiermit auch  Präparate mit selektiert würden, die möglicherweise nicht von einer entsprechenden Regelung  betroffen sind (Beispielsweise würden durch Angabe des Wirkstoffs Ibandronsäure auch intra-venöse Applikationsformen miterfasst. In diesem Fall kann die Angabe des Standardaggre-gats, des Handelsnamen oder der PZN sinnvoller sein). Wirkstoffkombinationen können nur  über den ATC5-Code oder ATC4-Code (z.B. C09BA05 für Ramipril und Diuretika) definiert  werden.
 
 <darreichungsform  V="TAB" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform  V="KAP" S="1.2.276.0.76.3.1.1.5.2.15"/> <darreichungsform  V="RET" S="1.2.276.0.76.3.1.1.5.2.15"/> 
 
@@ -1497,7 +1471,7 @@ siehe Erläuterung in Abschnitt 7.3.2.1
 
 ### 7.3.5 atc5
 
-Der ATC-Code ist die Klassifikation von Wirkstoffen nach dem anatomisch-therapeutisch- chemischen Klassifikationscode des DIMDI (siehe [ zeigt und entspricht der 5. Ebene der Klassifikation.
+Der ATC-Code ist die Klassifikation von Wirkstoffen nach dem anatomisch-therapeutisch-chemischen Klassifikationscode des DIMDI (siehe [ zeigt und entspricht der 5. Ebene der Klassifikation.
 
 Die Definition von Wirkstoffkombinationen ist ausschließlich durch Angabe eines ATC5-Codes  oder ATC4-Codes (z.B C09BA05 für Ramipril und Diuretika) möglich.
 
@@ -1546,7 +1520,7 @@ siehe Erläuterung in Abschnitt 7.3.2.1
 
 ### 7.3.7 atc4
 
-Der ATC-Code ist die Klassifikation von Wirkstoffen nach dem anatomisch-therapeutisch- chemischen Klassifikationscode des DIMDI (siehe [ angegeben und entspricht der 4. Ebene der Klassifikation.
+Der ATC-Code ist die Klassifikation von Wirkstoffen nach dem anatomisch-therapeutisch-chemischen Klassifikationscode des DIMDI (siehe [ angegeben und entspricht der 4. Ebene der Klassifikation.
 
 Die Definition von Wirkstoffkombinationen ist ausschließlich durch Angabe eines ATC4- oder  ATC5-Codes möglich.
 
@@ -1570,13 +1544,13 @@ siehe Erläuterung in Abschnitt 7.3.2.1
 
 ### 7.3.8 leitsubstanz
 
-Unter dem Element „leitsubstanz“ finden sich die Leitsubstanz(en) und die „fachgruppenquo- te“. Die Leitsubstanzen können als PZN, Handelsname, Standardaggregat, Wirkstoff, ATC 5 Code, Wirkstoffgruppe oder ATC 4-Code definiert werden. Mindestens eine dieser Angaben  ist zwingend erforderlich.
+Unter dem Element „leitsubstanz“ finden sich die Leitsubstanz(en) und die „fachgruppenquo-te“. Die Leitsubstanzen können als PZN, Handelsname, Standardaggregat, Wirkstoff, ATC 5 Code, Wirkstoffgruppe oder ATC 4-Code definiert werden. Mindestens eine dieser Angaben  ist zwingend erforderlich.
 
-Unter „leitsubstanz“ findet sich auch das optionale Unterelement „fachgruppenquote“. Unter  der „fachgruppenquote“ sind die Hinweise („warnhinweis_ersetzung“ und „hin- weis_verordnung_identisch“) sowie die Quoten subsumiert. Diese Hinweise und Quoten kön- nen auf alle Ärzte bezogen werden, in diesem Fall würden zu den Fachgruppen in Form des  „fachgruppenintervall“ und/oder der „fachgruppennummer“ keine Angaben gemacht. Sollen  sich die Hinweise und/oder Quoten nur auf bestimmte Fachgruppen beziehen, so ist das  „fachgruppenintervall“ und/oder die „fachgruppennummer“ entsprechend zu füllen.
+Unter „leitsubstanz“ findet sich auch das optionale Unterelement „fachgruppenquote“. Unter  der „fachgruppenquote“ sind die Hinweise („warnhinweis_ersetzung“ und „hin-weis_verordnung_identisch“) sowie die Quoten subsumiert. Diese Hinweise und Quoten kön-nen auf alle Ärzte bezogen werden, in diesem Fall würden zu den Fachgruppen in Form des  „fachgruppenintervall“ und/oder der „fachgruppennummer“ keine Angaben gemacht. Sollen  sich die Hinweise und/oder Quoten nur auf bestimmte Fachgruppen beziehen, so ist das  „fachgruppenintervall“ und/oder die „fachgruppennummer“ entsprechend zu füllen.
 
-Ein arztindividuelles Controlling ist auf DDD-Basis („quote_leitsubstanz_ddd“), auf Verord- nungsbasis („quote_leitsubstanz_verordnung“) oder Bruttoumsatzbasis („quo- te_leitsubstanz_bruttoumsatz“) möglich (siehe dazu auch Abschnitte 7.3.8.4 7.3.8.5 7.3.8.6
+Ein arztindividuelles Controlling ist auf DDD-Basis („quote_leitsubstanz_ddd“), auf Verord-nungsbasis („quote_leitsubstanz_verordnung“) oder Bruttoumsatzbasis („quo-te_leitsubstanz_bruttoumsatz“) möglich (siehe dazu auch Abschnitte 7.3.8.4 7.3.8.5 7.3.8.6
 
-<darreichungsform  V="TAB" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> Es können verschiedenen Leitsubstanzen einer „leitsubstanzquotenregelung“ unterschiedliche  Quoten zugeordnet werden. Beispielsweise kann die Leitsubstanzquotenregelung zu den ora- len Antidiabetika der Leitsubstanz Glimipirid die Quote von 35% und den beiden Leitsubstan-
+<darreichungsform  V="TAB" S="1.2.276.0.76.3.1.1.5.2.15" einschluss="false"/> Es können verschiedenen Leitsubstanzen einer „leitsubstanzquotenregelung“ unterschiedliche  Quoten zugeordnet werden. Beispielsweise kann die Leitsubstanzquotenregelung zu den ora-len Antidiabetika der Leitsubstanz Glimipirid die Quote von 35% und den beiden Leitsubstan-
 
 
 ---
@@ -1593,18 +1567,18 @@ In folgender Tabelle wird das Element „leitsubstanz“ graphisch dargestellt:
 
 **Tabelle 35 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz“**
 
-Eines der Elemente „quote_leitsubstanz_ddd“, „quote_leitsubstanz_verordnungen“ oder „quo- te_leitsubstanz_bruttoumsatz“ ist nur anzugeben, wenn die Landesebene ein arztindividuelles  Controlling durch die Verordnungssoftware wünscht. Mit der Angabe der Leitsubstanzquote  kann die Verordnungssoftware den vom Arzt verordneten Anteil der Leitsubstanz mit dem von  der Landesebene festgelegten Zielwert abgleichen.
+Eines der Elemente „quote_leitsubstanz_ddd“, „quote_leitsubstanz_verordnungen“ oder „quo-te_leitsubstanz_bruttoumsatz“ ist nur anzugeben, wenn die Landesebene ein arztindividuelles  Controlling durch die Verordnungssoftware wünscht. Mit der Angabe der Leitsubstanzquote  kann die Verordnungssoftware den vom Arzt verordneten Anteil der Leitsubstanz mit dem von  der Landesebene festgelegten Zielwert abgleichen.
 
 #### 7.3.8.1 fachgruppenquote
 
-<wirkstoff einschluss="true" V="String"/> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch  V="String"/> </fachgruppenquoteUnter der „fachgruppenquote“ sind die Hinweise („warnhinweis_ersetzung“ und „hin- weis_verordnung_identisch“) sowie die Quoten subsumiert. Diese Hinweise und Quoten kön- nen sich auf alle Ärzte beziehen, in diesem Fall würden zu den Fachgruppen in Form des  „fachgruppenintervall“ und/oder der „fachgruppennummer“ keine Angaben gemacht. Sollen  sich die Hinweise und/oder Quoten nur auf bestimmte Fachgruppen beziehen, so ist das Ele- ment „fachgruppenintervall“ und/oder „fachgruppennummer“ entsprechend zu füllen.
+<wirkstoff einschluss="true" V="String"/> <fachgruppenquote> <fachgruppenintervall intervall_start="2" intervall_stop="2"/> <quote_leitsubstanz_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> <hinweis_verordnung_identisch  V="String"/> </fachgruppenquoteUnter der „fachgruppenquote“ sind die Hinweise („warnhinweis_ersetzung“ und „hin-weis_verordnung_identisch“) sowie die Quoten subsumiert. Diese Hinweise und Quoten kön-nen sich auf alle Ärzte beziehen, in diesem Fall würden zu den Fachgruppen in Form des  „fachgruppenintervall“ und/oder der „fachgruppennummer“ keine Angaben gemacht. Sollen  sich die Hinweise und/oder Quoten nur auf bestimmte Fachgruppen beziehen, so ist das Ele-ment „fachgruppenintervall“ und/oder „fachgruppennummer“ entsprechend zu füllen.
 
 
 ---
 
-Im Unterelement „warnhinweis_ersetzung“ kann ein Text von der Landesebene festgelegt  werden, den die Verordnungssoftware anzeigen muss, wenn ein Präparat zwar Bestandteil  der Leitsubstanzquotenregelung, aber nicht Leitsubstanz ist. In diesem Hinweis kann die Ziel- quote genannt werden.
+Im Unterelement „warnhinweis_ersetzung“ kann ein Text von der Landesebene festgelegt  werden, den die Verordnungssoftware anzeigen muss, wenn ein Präparat zwar Bestandteil  der Leitsubstanzquotenregelung, aber nicht Leitsubstanz ist. In diesem Hinweis kann die Ziel-quote genannt werden.
 
-Im Unterelement „hinweis_verordnung_identisch“ kann ein Text von der Landesebene festge- legt werden, den die Verordnungssoftware anzeigen muss, wenn bereits die Leitsubstanz  verordnet wird.
+Im Unterelement „hinweis_verordnung_identisch“ kann ein Text von der Landesebene festge-legt werden, den die Verordnungssoftware anzeigen muss, wenn bereits die Leitsubstanz  verordnet wird.
 
 Das Element hat folgenden Aufbau:
 
@@ -1614,11 +1588,11 @@ Das Element hat folgenden Aufbau:
 
 **Tabelle 36 – Erläuterung „leitsubstanzquotenregelung/leitsubstanz**
 
-Das Attribut „V“ in den Elementen „quote_leitsubstanz_ddd“, „quo- te_leitsubstanz_verordnungen“, „quote_leitsubstanz_bruttoumsatz“ ist nur zu füllen, wenn die  Landesebene ein arztindividuelles Controlling durch die Verordnungssoftware wünscht. Mit  der Angabe der Leitsubstanzquote kann die Verordnungssoftware den vom Arzt verordneten  Anteil der Leitsubstanz mit dem von der Landesebene festgelegten Zielwert abgleichen.
+Das Attribut „V“ in den Elementen „quote_leitsubstanz_ddd“, „quo-te_leitsubstanz_verordnungen“, „quote_leitsubstanz_bruttoumsatz“ ist nur zu füllen, wenn die  Landesebene ein arztindividuelles Controlling durch die Verordnungssoftware wünscht. Mit  der Angabe der Leitsubstanzquote kann die Verordnungssoftware den vom Arzt verordneten  Anteil der Leitsubstanz mit dem von der Landesebene festgelegten Zielwert abgleichen.
 
 #### 7.3.8.2 fachgruppenintervall
 
-Das Element „fachgruppenintervall“ steht innerhalb einer „choice“-Definition, welche gar nicht  bis zu unendlich mal auftreten kann. Folglich kann es selbst null bis unendlich mal vorkom- men, ist also optional. Mithilfe dieses Elementes können mehrere Fachgruppen festgelegt  werden, für die eine Quote und/oder Hinweistext gilt, ohne dass die entsprechenden Fach- gruppennummern einzeln eingegeben werden müssen. Dazu werden die beiden Attribute „in- tervall_start“ und „intervall_stop“ entsprechend gefüllt. Der Wert der Attribute „intervall_start“  und „intervall_stop“ muss zwischen 1 und 99 liegen (siehe auch Abschnitt  Attribute vorkommen, muss das Attribut „intervall_start“ kleiner gleich dem Attribut „inter- vall_stop“ sein.
+Das Element „fachgruppenintervall“ steht innerhalb einer „choice“-Definition, welche gar nicht  bis zu unendlich mal auftreten kann. Folglich kann es selbst null bis unendlich mal vorkom-men, ist also optional. Mithilfe dieses Elementes können mehrere Fachgruppen festgelegt  werden, für die eine Quote und/oder Hinweistext gilt, ohne dass die entsprechenden Fach-gruppennummern einzeln eingegeben werden müssen. Dazu werden die beiden Attribute „in-tervall_start“ und „intervall_stop“ entsprechend gefüllt. Der Wert der Attribute „intervall_start“  und „intervall_stop“ muss zwischen 1 und 99 liegen (siehe auch Abschnitt  Attribute vorkommen, muss das Attribut „intervall_start“ kleiner gleich dem Attribut „inter-vall_stop“ sein.
 
 **/fachgruppenquote“**
 
@@ -1627,7 +1601,7 @@ Das Element „fachgruppenintervall“ steht innerhalb einer „choice“-Defini
 
 ---
 
-Ist beispielsweise „intervall_start“=12 und „intervall_stop“=22, so gilt die angegebene Quote  bzw. der angegebene Hinweistext für alle Ärzte, deren LANR mit 12, 13, 14, 15, 16, 17, 18,  19, 20, 21 oder 22 endet. Die Intervallgrenzen werden in die Gültigkeit mit eingeschlossen.  Die Attribute sind optional, da es möglich ist, nur eine Intervallgrenze anzugeben. Ist bei- spielsweise das Attribut „intervall_start“=14 und das Attribut „intervall_stop“ fehlt, so gilt die  Regelung für Ärzte deren letzte beiden Ziffern der LANR zwischen 14 und 99 liegen. Umge- kehrt gilt die Regelung bei Angabe von „intervall_stop“=14 für alle Nummern zwischen 01 und
+Ist beispielsweise „intervall_start“=12 und „intervall_stop“=22, so gilt die angegebene Quote  bzw. der angegebene Hinweistext für alle Ärzte, deren LANR mit 12, 13, 14, 15, 16, 17, 18,  19, 20, 21 oder 22 endet. Die Intervallgrenzen werden in die Gültigkeit mit eingeschlossen.  Die Attribute sind optional, da es möglich ist, nur eine Intervallgrenze anzugeben. Ist bei-spielsweise das Attribut „intervall_start“=14 und das Attribut „intervall_stop“ fehlt, so gilt die  Regelung für Ärzte deren letzte beiden Ziffern der LANR zwischen 14 und 99 liegen. Umge-kehrt gilt die Regelung bei Angabe von „intervall_stop“=14 für alle Nummern zwischen 01 und
 
 14. Die beiden Attribute wurden als Datentyp „positiveInteger“ realisiert, um größer/kleiner – Vergleiche zu erleichtern.
 
@@ -1642,7 +1616,7 @@ Das Element hat folgenden Aufbau:
 
 #### 7.3.8.3 fachgruppennummer
 
-Das Element „fachgruppennummer“ steht innerhalb einer „choice“-Definition, welche gar nicht  bis zu unendlich mal auftreten kann. Folglich kann es selbst null bis unendlich mal vorkom- men, ist also optional. Mithilfe des Attribute „V“ wird pro Element genau eine Fachgruppe defi- niert, für die eine Quote gilt. Bei Bedarf können mehrere Elemente angegeben werden, dann  gilt die Quote für mehrere Fachgruppen. Im Beispiel von Tabelle 34 werden die beiden Fach- gruppennummern 14 und 25 angegeben, für jede wird ein eigenes Element „fachgruppen- nummer“ erzeugt. Der Wert des Attributes „V“ muss zwischen 1 und 99 liegen. Die Zahl wird  mit dem Wert der letzten beiden Ziffern der LANR verglichen.
+Das Element „fachgruppennummer“ steht innerhalb einer „choice“-Definition, welche gar nicht  bis zu unendlich mal auftreten kann. Folglich kann es selbst null bis unendlich mal vorkom-men, ist also optional. Mithilfe des Attribute „V“ wird pro Element genau eine Fachgruppe defi-niert, für die eine Quote gilt. Bei Bedarf können mehrere Elemente angegeben werden, dann  gilt die Quote für mehrere Fachgruppen. Im Beispiel von Tabelle 34 werden die beiden Fach-gruppennummern 14 und 25 angegeben, für jede wird ein eigenes Element „fachgruppen-nummer“ erzeugt. Der Wert des Attributes „V“ muss zwischen 1 und 99 liegen. Die Zahl wird  mit dem Wert der letzten beiden Ziffern der LANR verglichen.
 
 Das Element hat folgenden Aufbau:
 
@@ -1664,7 +1638,7 @@ V="14"/>  V="25"/> **e-**
 
 #### 7.3.8.4 quote_leitsubstanz_ddd
 
-Das Element „quote_leitsubstanz_ddd“ steht innerhalb einer „choice“-Definition, welche 0 bis  1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landesebene  gefüllt, wenn die Quote der Leitsubstanz im Verhältnis zur definierten Wirkstoffgruppe anhand  der verordneten DDD berechnet werden soll. Im Attribut „ che von der Landesebene für die zugehörige Leitsubstanz festgelegt wurde. Alle PZN und die  dazugehörigen DDD müssen von der Landesebene bereit gestellt werden, sofern ein Control- ling auf DDD-Basis gewünscht wird.
+Das Element „quote_leitsubstanz_ddd“ steht innerhalb einer „choice“-Definition, welche 0 bis  1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landesebene  gefüllt, wenn die Quote der Leitsubstanz im Verhältnis zur definierten Wirkstoffgruppe anhand  der verordneten DDD berechnet werden soll. Im Attribut „ che von der Landesebene für die zugehörige Leitsubstanz festgelegt wurde. Alle PZN und die  dazugehörigen DDD müssen von der Landesebene bereit gestellt werden, sofern ein Control-ling auf DDD-Basis gewünscht wird.
 
 Das Element hat folgenden Aufbau:
 
@@ -1677,7 +1651,7 @@ Das Element hat folgenden Aufbau:
 
 #### 7.3.8.5 quote_leitsubstanz_verordnungen
 
-Das Element „quote_leitsubstanz_verordnungen“ steht innerhalb einer „choice“-Definition,  welche 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Leitsubstanz im Verhältnis zur definierten Wirkstoff- gruppe anhand der verordneten Packungen berechnet werden soll. Im Attribut „quo- te_leitsubstanz“ wird die Quote angegeben, welche von der Landesebene für die zugehörige  Leitsubstanz festgelegt wurde.
+Das Element „quote_leitsubstanz_verordnungen“ steht innerhalb einer „choice“-Definition,  welche 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Leitsubstanz im Verhältnis zur definierten Wirkstoff-gruppe anhand der verordneten Packungen berechnet werden soll. Im Attribut „quo-te_leitsubstanz“ wird die Quote angegeben, welche von der Landesebene für die zugehörige  Leitsubstanz festgelegt wurde.
 
 Das Element hat folgenden Aufbau:
 
@@ -1690,14 +1664,14 @@ Das Element hat folgenden Aufbau:
 
 #### 7.3.8.6 quote_leitsubstanz_bruttoumsatz
 
-Das Element „quote_leitsubstanz_bruttoumsatz“ steht innerhalb einer „choice“-Definition, wel- che 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Leitsubstanz im Verhältnis zur definierten Wirkstoff- gruppe anhand der Bruttopreise der Arzneimittel-Verordnungen berechnet werden soll. Im
+Das Element „quote_leitsubstanz_bruttoumsatz“ steht innerhalb einer „choice“-Definition, wel-che 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Leitsubstanz im Verhältnis zur definierten Wirkstoff-gruppe anhand der Bruttopreise der Arzneimittel-Verordnungen berechnet werden soll. Im
 
 en V="80.5"/> V“ wird die Quote angegeben, wel-
 
 
 ---
 
-Attribut „V“ wird die Quote angegeben, welche von der Landesebene für die zugehörige Leit- substanz festgelegt wurde.
+Attribut „V“ wird die Quote angegeben, welche von der Landesebene für die zugehörige Leit-substanz festgelegt wurde.
 
 Das Element hat folgenden Aufbau:
 
@@ -1710,7 +1684,7 @@ Das Element hat folgenden Aufbau:
 
 #### 7.3.8.7 warnhinweis_ersetzung
 
-Im Unterelement „warnhinweis_ersetzung“ kann ein Text von der Landesebene festgelegt  werden, den die Verordnungssoftware anzeigen muss, wenn ein Präparat zwar Bestandteil  der Leitsubstanzquotenregelung, aber nicht Leitsubstanz ist. In diesem Hinweis kann die Ziel- quote genannt werden. Dieser Warnhinweis lässt sich auch auf einzelne Fachgruppen be- schränken.
+Im Unterelement „warnhinweis_ersetzung“ kann ein Text von der Landesebene festgelegt  werden, den die Verordnungssoftware anzeigen muss, wenn ein Präparat zwar Bestandteil  der Leitsubstanzquotenregelung, aber nicht Leitsubstanz ist. In diesem Hinweis kann die Ziel-quote genannt werden. Dieser Warnhinweis lässt sich auch auf einzelne Fachgruppen be-schränken.
 
 Damit die Software-Anbieter den Warnhinweis in die Verordnungssoftware integrieren können,  sollte der Text möglichst kurz gehalten werden. Zudem besteht im Praxisbetrieb nicht die Zeit,  lange Texte zu lesen.
 
@@ -1725,7 +1699,7 @@ Das Element hat folgenden Aufbau:
 
 #### 7.3.8.8 hinweis_verordnung_identisch
 
-Im Unterelement „hinweis_verordnung_identisch“ kann ein Text von der Landesebene festge- legt werden, den die Verordnungssoftware anzeigen muss, wenn ein Präparat selbst als Wirk- stoff die Leitsubstanz enthält. In diesem Hinweis kann die Zielquote genannt werden. Dieser  Hinweis lässt sich auch auf einzelne Fachgruppen beschränken.
+Im Unterelement „hinweis_verordnung_identisch“ kann ein Text von der Landesebene festge-legt werden, den die Verordnungssoftware anzeigen muss, wenn ein Präparat selbst als Wirk-stoff die Leitsubstanz enthält. In diesem Hinweis kann die Zielquote genannt werden. Dieser  Hinweis lässt sich auch auf einzelne Fachgruppen beschränken.
 
 Damit die Software-Anbieter den Warnhinweis in die Verordnungssoftware integrieren können,  sollte der Text möglichst kurz gehalten werden.
 
@@ -1747,7 +1721,7 @@ V="String"/> **e-**
 
 ## 7.4 zielpreisr_liste
 
-Auf der Landesebene können Regelungen zu Zielpreisen existieren. Hierbei wird Präparaten  mit gleichem Wirkstoff, gleicher Wirkstärke und gleicher Packungsgröße ein Zielpreis zuge- ordnet. Der Zielpreis wird von der Landesebene für eine Gruppe von PZN festgelegt ordnungssoftware muss die Apothekenverkaufspreise der entsprechenden Präparate mit dem  Zielpreis vergleichen.
+Auf der Landesebene können Regelungen zu Zielpreisen existieren. Hierbei wird Präparaten  mit gleichem Wirkstoff, gleicher Wirkstärke und gleicher Packungsgröße ein Zielpreis zuge-ordnet. Der Zielpreis wird von der Landesebene für eine Gruppe von PZN festgelegt ordnungssoftware muss die Apothekenverkaufspreise der entsprechenden Präparate mit dem  Zielpreis vergleichen.
 
 . Die Ver-
 
@@ -1799,7 +1773,7 @@ example <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <zie
 
 ### 7.4.3 kategorie_zielpreisregelung
 
-Element „zielpreisregelung“ angelegt. Hierbei sind die zu einer Zielpreisgruppe gehörigen PZN einem Zielpreis zuzuordnen. Die Gruppe der von einer Zielpreisregelung betroffenen Präpara- te muss durch Angabe der PZN definiert werden.  chende Kennzeichnung in der Verordnungssoftware und/oder für die Anzeige der Hinweistex- te festgelegt werden. Wird das Element „kategorie_zielpreisregelung“ nicht gefüllt, werden die Präparate in der Verordnungssoftware nach dem Kriterium gekennzeichnet, ob sie oberhalb, unterhalb oder auf dem Zielpreis liegen. in die Verordnungssoftware übernommen werden. Zum Aufbau des Elementes „pzn“ siehe Abschnitt einbezogen werden, wird das optionale Attribut „einschluss“ nicht benötigt. Das optionale Un- terelement „ddd_je_packung“ kann freigelassen werden, da DDD für die Abbildung dieser Regelung nicht benötigt werden. und Cent im Attribut „V“ im Element „zielpreis“ angegeben. Der Zielpreis bezieht sich auf eine definierte Gruppe eines Wirkstoffs mit gleicher Stärke, Packungsgröße und evtl. Darrei- chungsform. required   Das Element „kategorie_zielpreisregelung“ steht innerhalb einer „choice“-Definition, welche  gar nicht bis zu unendlich mal auftreten kann. Folglich kann es selbst null bis unendlich mal  vorkommen, ist also optional. Im Element „kategorie_zielpreisregelung“ kann die Landesebe- ne Toleranzgrenzen definieren.
+Element „zielpreisregelung“ angelegt. Hierbei sind die zu einer Zielpreisgruppe gehörigen PZN einem Zielpreis zuzuordnen. Die Gruppe der von einer Zielpreisregelung betroffenen Präpara- te muss durch Angabe der PZN definiert werden.  chende Kennzeichnung in der Verordnungssoftware und/oder für die Anzeige der Hinweistex- te festgelegt werden. Wird das Element „kategorie_zielpreisregelung“ nicht gefüllt, werden die Präparate in der Verordnungssoftware nach dem Kriterium gekennzeichnet, ob sie oberhalb, unterhalb oder auf dem Zielpreis liegen. in die Verordnungssoftware übernommen werden. Zum Aufbau des Elementes „pzn“ siehe Abschnitt einbezogen werden, wird das optionale Attribut „einschluss“ nicht benötigt. Das optionale Un- terelement „ddd_je_packung“ kann freigelassen werden, da DDD für die Abbildung dieser Regelung nicht benötigt werden. und Cent im Attribut „V“ im Element „zielpreis“ angegeben. Der Zielpreis bezieht sich auf eine definierte Gruppe eines Wirkstoffs mit gleicher Stärke, Packungsgröße und evtl. Darrei- chungsform. required   Das Element „kategorie_zielpreisregelung“ steht innerhalb einer „choice“-Definition, welche  gar nicht bis zu unendlich mal auftreten kann. Folglich kann es selbst null bis unendlich mal  vorkommen, ist also optional. Im Element „kategorie_zielpreisregelung“ kann die Landesebe-ne Toleranzgrenzen definieren.
 
 
 ---
@@ -1826,7 +1800,7 @@ Wert des verordneten Apothekenverkaufspreises zum Zielpreis eine Kennzeichnung i
 
 ## 7.5 kostenvergleich_ddd_liste
 
-Auf der Landesebene können Regelungen zu DDD-Kosten oder wahlweise auch zu PDD- Kosten existieren. Mit PDD sind die „prescribed daily doses“ – also die tatsächlich verordneten  täglichen Dosiswerte – gemeint, welche durch die Landesebene als Durchschnittswert für alle  Verordnungen eines Wirkstoffes bzw. einer Wirkstoffgruppe berechnet werden. Für die Rege- lung werden von der Landesebene entweder Kosten pro DDD oder Kosten pro PDD bezogen  auf eine Arzneimittelgruppe im Element „zielkosten_je_ddd“ definiert. Verordnet der Arzt ein  Präparat, das von der Kostenregelung betroffen ist, so muss die Verordnungssoftware diese  definierten DDD- bzw. PDD-Kosten im Element „zielkosten_je_ddd“ mit den tatsächlichen  DDD- bzw. PDD-Kosten des verordneten Präparates abgleichen. Hierzu teilt die Verord- nungssoftware den Apothekenverkaufspreis durch die Anzahl der in der Packung enthaltenen  DDD bzw. PDD.
+Auf der Landesebene können Regelungen zu DDD-Kosten oder wahlweise auch zu PDD-Kosten existieren. Mit PDD sind die „prescribed daily doses“ – also die tatsächlich verordneten  täglichen Dosiswerte – gemeint, welche durch die Landesebene als Durchschnittswert für alle  Verordnungen eines Wirkstoffes bzw. einer Wirkstoffgruppe berechnet werden. Für die Rege-lung werden von der Landesebene entweder Kosten pro DDD oder Kosten pro PDD bezogen  auf eine Arzneimittelgruppe im Element „zielkosten_je_ddd“ definiert. Verordnet der Arzt ein  Präparat, das von der Kostenregelung betroffen ist, so muss die Verordnungssoftware diese  definierten DDD- bzw. PDD-Kosten im Element „zielkosten_je_ddd“ mit den tatsächlichen  DDD- bzw. PDD-Kosten des verordneten Präparates abgleichen. Hierzu teilt die Verord-nungssoftware den Apothekenverkaufspreis durch die Anzahl der in der Packung enthaltenen  DDD bzw. PDD.
 
 Das Element „kostenvergleich_ddd_liste“ hat folgenden Aufbau:
 
@@ -1836,7 +1810,7 @@ Das Element „kostenvergleich_ddd_liste“ hat folgenden Aufbau:
 
 **Tabelle 48 – Erläuterung „kostenvergleich_ddd_liste“**
 
-Das optionale Element „kostenvergleich_ddd_liste“ enthält mindestens ein Element „kosten- vergleich_ddd“. Zum Attribut „prioritaet“ siehe Abschnitt
+Das optionale Element „kostenvergleich_ddd_liste“ enthält mindestens ein Element „kosten-vergleich_ddd“. Zum Attribut „prioritaet“ siehe Abschnitt
 
 Das Element „kostenvergleich_ddd“ hat folgenden Aufbau:
 
@@ -1865,21 +1839,21 @@ Das Element „kostenvergleich_ddd“ hat folgenden Aufbau:
 
 ---
 
-Im Unterelement **„fachgruppenquote“** können Kategorien zum Kostenvergleich im Element  „kategorie_ddd_kosten_vergleich“ fachgruppenspezifisch oder allgemein von der Landesebe- ne definiert werden. Dazu werden im Element „kategorie_ddd_kosten_vergleich“ Startwerte  oder Intervalle für eine entsprechende Kennzeichnung in der Verordnungssoftware und/oder  für Hinweistexte festgelegt. Im Element „intervall_start“ kann ein Startwert definiert werden, ab  welchem prozentualen Wert des verordneten Apothekenverkaufspreises zum Zielpreis eine  Kennzeichnung und/oder ein Hinweistext erfolgen soll. Im Element „intervall_stop“ kann der  entsprechende Endwert definiert werden. Dabei entspricht der Wert 100% dem Zielpreis.
+Im Unterelement **„fachgruppenquote“** können Kategorien zum Kostenvergleich im Element  „kategorie_ddd_kosten_vergleich“ fachgruppenspezifisch oder allgemein von der Landesebe-ne definiert werden. Dazu werden im Element „kategorie_ddd_kosten_vergleich“ Startwerte  oder Intervalle für eine entsprechende Kennzeichnung in der Verordnungssoftware und/oder  für Hinweistexte festgelegt. Im Element „intervall_start“ kann ein Startwert definiert werden, ab  welchem prozentualen Wert des verordneten Apothekenverkaufspreises zum Zielpreis eine  Kennzeichnung und/oder ein Hinweistext erfolgen soll. Im Element „intervall_stop“ kann der  entsprechende Endwert definiert werden. Dabei entspricht der Wert 100% dem Zielpreis.
 
-Der Hinweistext kann beliebig lang von der Landesebene gefüllt werden. Sollen verschiedene  Hinweistexte bei unterschiedlichen Stufen der Überschreitung integriert werden, so sind Inter- valle mit den entsprechenden Hinweistexten anzugeben. Wird ein Hinweistext erwünscht, so  muss mindestens eines der beiden Attribute „zielkosten_ddd_intervall_start“ oder „zielkos- ten_ddd_intervall_stop“ angegeben sein. Wenn die untere bzw. obere Intervallgrenze fehlt, so  ist das Intervall nach unten oder oben offen, für das der Hinweistext bzw. die Kennzeichnung  gilt.
+Der Hinweistext kann beliebig lang von der Landesebene gefüllt werden. Sollen verschiedene  Hinweistexte bei unterschiedlichen Stufen der Überschreitung integriert werden, so sind Inter-valle mit den entsprechenden Hinweistexten anzugeben. Wird ein Hinweistext erwünscht, so  muss mindestens eines der beiden Attribute „zielkosten_ddd_intervall_start“ oder „zielkos-ten_ddd_intervall_stop“ angegeben sein. Wenn die untere bzw. obere Intervallgrenze fehlt, so  ist das Intervall nach unten oder oben offen, für das der Hinweistext bzw. die Kennzeichnung  gilt.
 
 **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich**
 
-Es besteht die Möglichkeit, die Preiskategorien, die Hinweistexte und/oder die Quote(n) auf  alle Ärzte, oder nur auf einzelne Fachgruppen zu beziehen. Gelten beispielsweise in einem  KV-Bereich für Allgemeinmediziner und für Internisten unterschiedliche Quoten und sind für  andere Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche  Fachgruppen Hinweistexte und/oder Quoten gelten, erfolgt über die Unterelemente „fach- gruppennummer“ oder „fachgruppenintervall“ (siehe 7.3.8.2 und 7.3.8.3
+Es besteht die Möglichkeit, die Preiskategorien, die Hinweistexte und/oder die Quote(n) auf  alle Ärzte, oder nur auf einzelne Fachgruppen zu beziehen. Gelten beispielsweise in einem  KV-Bereich für Allgemeinmediziner und für Internisten unterschiedliche Quoten und sind für  andere Fachgruppen keine Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche  Fachgruppen Hinweistexte und/oder Quoten gelten, erfolgt über die Unterelemente „fach-gruppennummer“ oder „fachgruppenintervall“ (siehe 7.3.8.2 und 7.3.8.3
 
-Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach- gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen- spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
+Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach-gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen-spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
 
-Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin- weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen  Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren.
+Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin-weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen  Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren.
 
-Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und des-nnoch ein oder mehrere Elemente „kategorie_ddd_kosten_vergleich“ von der Lande ebene definiert und/oder eine Quote benannt, sind die Angaben unabhängig von der Fach- gruppenzugehörigkeit auf alle Ärzte zu beziehen.
+Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und des-nnoch ein oder mehrere Elemente „kategorie_ddd_kosten_vergleich“ von der Lande ebene definiert und/oder eine Quote benannt, sind die Angaben unabhängig von der Fach-gruppenzugehörigkeit auf alle Ärzte zu beziehen.
 
-Bei Berechnung der individuellen Verordnungsquote (Controlling) bezogen auf die Anzahl der  verordneten DDD bzw. PDD ist der Quotient aus der Summe aller verordneten DDD bzw.  PDD, deren DDD-bzw. PDD-Kosten nicht über dem Wert „ziekosten_je_ddd“ liegen (alternati- ve Präparate) im Zähler und der Summe der über die GKV verordneten DDD bzw. PDD aus  der Vergleichsgruppe im Nenner zu bilden. Die Vergleichsgruppe, welche zur Quotenberech- nung herangezogen wird, sind die DDD bzw. PDD aller Fertigarzneimittel, die in die Regelung  einbezogen sind.
+Bei Berechnung der individuellen Verordnungsquote (Controlling) bezogen auf die Anzahl der  verordneten DDD bzw. PDD ist der Quotient aus der Summe aller verordneten DDD bzw.  PDD, deren DDD-bzw. PDD-Kosten nicht über dem Wert „ziekosten_je_ddd“ liegen (alternati-ve Präparate) im Zähler und der Summe der über die GKV verordneten DDD bzw. PDD aus  der Vergleichsgruppe im Nenner zu bilden. Die Vergleichsgruppe, welche zur Quotenberech-nung herangezogen wird, sind die DDD bzw. PDD aller Fertigarzneimittel, die in die Regelung  einbezogen sind.
 
 ### 7.5.1 pzn
 
@@ -1896,11 +1870,11 @@ Siehe 7.3.2. Die Definition der einem Zielpreis zugeordneten Arzneimittelgruppe 
 
 ### 7.5.3 standardaggregat
 
-Siehe 7.3.3. Die Definition der einem Zielpreis zugeordneten Arzneimittelgruppe über Stan- dardaggregate ist nur möglich, wenn die Verordnungssoftware bereits DDD integriert hat.
+Siehe 7.3.3. Die Definition der einem Zielpreis zugeordneten Arzneimittelgruppe über Stan-dardaggregate ist nur möglich, wenn die Verordnungssoftware bereits DDD integriert hat.
 
 ### 7.5.4 wirkstoff
 
-Siehe 7.3.4. Die Definition der einem Zielpreis zugeordneten Arzneimittelgruppe über Wirk- stoffe ist nur möglich, wenn die Verordnungssoftware bereits DDD integriert hat.
+Siehe 7.3.4. Die Definition der einem Zielpreis zugeordneten Arzneimittelgruppe über Wirk-stoffe ist nur möglich, wenn die Verordnungssoftware bereits DDD integriert hat.
 
 ### 7.5.5 atc5
 
@@ -1950,12 +1924,12 @@ Siehe Erläuterungen in Abschnitt 7.3.8.1. Das Element hat folgenden Aufbau:
 
 #### 7.5.9.3 quote_kostenvergleich_ddd
 
-example <fachgruppenintervall intervall_start="1" intervall_stop="3" /> <quote_kostenvergleich_ddd V="71.5"/> <kategorie_ddd_kosten_vergleich hinweis="Sie haben ein Präparat gewählt, dessen Tagestherapie- kosten (DDD-Kosten) um mehr als fünf Prozent über dem Zielwert liegt, der von der Landesebene für stark wirksame Analgetika festgelegt wurde. Es existieren günstigere Verordnungsalternativen. Von der Landesebene wurde festgelegt, dass mindestens 71,5% der verordneten DDD für stark wirksame Analgetika unter dem Ziel- preis von 5,45 Euro pro DDD liegen sollten <intervall_start V="105.0" inklusion_intervallgrenze ="true"/> <intervall_stop V="115" inklusion_intervallgrenze="false"/> </kategorie_ddd_kosten_vergleich> <kategorie_ddd_kosten_vergleich hinweis="Sie haben ein Präparat gewählt, dessen Tagestherapie- kosten (DDD-Kosten) um mehr als fünfzehn Prozent über dem Zielwert liegt, der von der Landesebene für stark wirksame Analgetika festgelegt wurde. Es existieren günstigere Verordnungsalternativen. Von der Landesebene wurde festgelegt, dass mindestens 71,5% der verordneten DDD für stark wirksame Analgetika unter dem Ziel- preis von 5,45 Euro pro DDD liegen sollten <intervall_start V="115.0" inklusion_intervallgrenze ="true"/> </kategorie_ddd_kosten_vergleich> Das Element „quote_kostenvergleich_ddd“ ist optional. Dieses Element wird von der Landes- ebene befüllt, wenn die Quote der Anzahl von verordneten DDD bzw. PDD, deren Kosten
+example <fachgruppenintervall intervall_start="1" intervall_stop="3" /> <quote_kostenvergleich_ddd V="71.5"/> <kategorie_ddd_kosten_vergleich hinweis="Sie haben ein Präparat gewählt, dessen Tagestherapie- kosten (DDD-Kosten) um mehr als fünf Prozent über dem Zielwert liegt, der von der Landesebene für stark wirksame Analgetika festgelegt wurde. Es existieren günstigere Verordnungsalternativen. Von der Landesebene wurde festgelegt, dass mindestens 71,5% der verordneten DDD für stark wirksame Analgetika unter dem Ziel- preis von 5,45 Euro pro DDD liegen sollten <intervall_start V="105.0" inklusion_intervallgrenze ="true"/> <intervall_stop V="115" inklusion_intervallgrenze="false"/> </kategorie_ddd_kosten_vergleich> <kategorie_ddd_kosten_vergleich hinweis="Sie haben ein Präparat gewählt, dessen Tagestherapie- kosten (DDD-Kosten) um mehr als fünfzehn Prozent über dem Zielwert liegt, der von der Landesebene für stark wirksame Analgetika festgelegt wurde. Es existieren günstigere Verordnungsalternativen. Von der Landesebene wurde festgelegt, dass mindestens 71,5% der verordneten DDD für stark wirksame Analgetika unter dem Ziel- preis von 5,45 Euro pro DDD liegen sollten <intervall_start V="115.0" inklusion_intervallgrenze ="true"/> </kategorie_ddd_kosten_vergleich> Das Element „quote_kostenvergleich_ddd“ ist optional. Dieses Element wird von der Landes-ebene befüllt, wenn die Quote der Anzahl von verordneten DDD bzw. PDD, deren Kosten
 
 
 ---
 
-nicht oberhalb des Zielpreises liegen, für die Gruppe der von der Regelung betroffenen Präpa- rate berechnet werden soll. Die Vergleichsgruppe, welche zur Quotenberechnung herangezo- gen wird, sind die DDD bzw. PDD aller Präparate, die in die Regelung mit einbezogen sind.  Um die Berechnung auch für Verordnungssoftware zu ermöglichen, welche keine DDD-Werte  enthalten, muss die Landesebene die PZN aller betroffenen Präparate mit dem jeweiligen  DDD- bzw. PDD-Wert in der Regelung mitliefern.
+nicht oberhalb des Zielpreises liegen, für die Gruppe der von der Regelung betroffenen Präpa-rate berechnet werden soll. Die Vergleichsgruppe, welche zur Quotenberechnung herangezo-gen wird, sind die DDD bzw. PDD aller Präparate, die in die Regelung mit einbezogen sind.  Um die Berechnung auch für Verordnungssoftware zu ermöglichen, welche keine DDD-Werte  enthalten, muss die Landesebene die PZN aller betroffenen Präparate mit dem jeweiligen  DDD- bzw. PDD-Wert in der Regelung mitliefern.
 
 Das Element hat folgenden Aufbau:
 
@@ -1968,13 +1942,13 @@ Das Element hat folgenden Aufbau:
 
 #### 7.5.9.4 kategorie_ddd_kosten_vergleich
 
-Das Element „kategorie_ddd_kosten_vergleich ist optional. Im Element „katego- rie_ddd_kosten_vergleich“ kann die Landesebene Toleranzgrenzen definieren.
+Das Element „kategorie_ddd_kosten_vergleich ist optional. Im Element „katego-rie_ddd_kosten_vergleich“ kann die Landesebene Toleranzgrenzen definieren.
 
-Im Element „intervall_start“ kann ein Startwert definiert werden, ab welchem prozentualen  Wert des verordneten Apothekenverkaufspreises zum Zielpreis eine Kennzeichnung in der  Verordnungssoftware und/oder das Anzeigen eines Hinweistextes für den verordneten Arzt  erfolgen soll. Das Element „intervall_start“ hat das Attribut V, für die Definition des Prozent- wertes und das Attribut „inklusion_intervallgrenze“, welches entscheidend dafür ist, ob ein  „größer“ oder ein „größer gleich“ gemeint ist. Wird „inklusion_intervallgrenze“ auf true gesetzt,  so gehört der unter „V“ angegebene Wert zum Intervall dazu. Im Element „intervall_stop“ kann  der entsprechende Endwert definiert werden. Die Attribute „V“ und „inklusion_intervallgrenze“  sind entsprechend zu füllen. Dabei entspricht der Wert 100% dem Zielpreis.
+Im Element „intervall_start“ kann ein Startwert definiert werden, ab welchem prozentualen  Wert des verordneten Apothekenverkaufspreises zum Zielpreis eine Kennzeichnung in der  Verordnungssoftware und/oder das Anzeigen eines Hinweistextes für den verordneten Arzt  erfolgen soll. Das Element „intervall_start“ hat das Attribut V, für die Definition des Prozent-wertes und das Attribut „inklusion_intervallgrenze“, welches entscheidend dafür ist, ob ein  „größer“ oder ein „größer gleich“ gemeint ist. Wird „inklusion_intervallgrenze“ auf true gesetzt,  so gehört der unter „V“ angegebene Wert zum Intervall dazu. Im Element „intervall_stop“ kann  der entsprechende Endwert definiert werden. Die Attribute „V“ und „inklusion_intervallgrenze“  sind entsprechend zu füllen. Dabei entspricht der Wert 100% dem Zielpreis.
 
-Der Hinweistext kann beliebig lang von der Landesebene gefüllt werden. Sollen verschiedene  Hinweistexte bei unterschiedlichen Stufen der Überschreitung integriert werden, so sind Inter- valle mit den entsprechenden Hinweistexten anzugeben (siehe *specific example*). Wenn ein  Hinweistext angezeigt werden soll, so muss nicht nur das entsprechende Attribut „hinweis“  gefüllt werden, es muss auch mindestens eines der beiden Elemente „intervall_start“ oder  „intervall_stop“ angegeben sein. Wenn die untere bzw. obere Intervallgrenze fehlt, so ist das  Intervall nach unten oder oben offen, für das der Hinweistext bzw. die Kennzeichnung gilt.  Wenn beide Elemente vorkommen, muss das Element „intervall_start“ kleiner gleich dem  Element „intervall_stop“ sein.
+Der Hinweistext kann beliebig lang von der Landesebene gefüllt werden. Sollen verschiedene  Hinweistexte bei unterschiedlichen Stufen der Überschreitung integriert werden, so sind Inter-valle mit den entsprechenden Hinweistexten anzugeben (siehe *specific example*). Wenn ein  Hinweistext angezeigt werden soll, so muss nicht nur das entsprechende Attribut „hinweis“  gefüllt werden, es muss auch mindestens eines der beiden Elemente „intervall_start“ oder  „intervall_stop“ angegeben sein. Wenn die untere bzw. obere Intervallgrenze fehlt, so ist das  Intervall nach unten oder oben offen, für das der Hinweistext bzw. die Kennzeichnung gilt.  Wenn beide Elemente vorkommen, muss das Element „intervall_start“ kleiner gleich dem  Element „intervall_stop“ sein.
 
-Ist beispielsweise „intervall_start“=105,0 und „intervall_stop“=110,0, so gilt für alle entspre- chenden Medikamente, deren Preis zwischen 105,0 % und 110,0 % zum Zielpreis liegt, als  leicht über dem Zielpreis und es wird darauf hingewiesen, dass es günstigere Alternativen  existieren. Die Intervallgrenzen werden in die Gültigkeit nur dann mit eingeschlossen, wenn  das Attribut „inklusive_intervallgrenze“ auf true gesetzt ist. Die Elemente sind optional, da es  möglich ist, nur eine Intervallgrenze anzugeben. Ist beispielsweise das Element „inter- vall_start“=110“ mit „inklusive_intervallgrenze= false“ und das Element „intervall_stop“ fehlt, so  gilt dieses Intervall für alle Medikamente, die mehr als 10 % über den Zielpreis liegen. Umge-
+Ist beispielsweise „intervall_start“=105,0 und „intervall_stop“=110,0, so gilt für alle entspre-chenden Medikamente, deren Preis zwischen 105,0 % und 110,0 % zum Zielpreis liegt, als  leicht über dem Zielpreis und es wird darauf hingewiesen, dass es günstigere Alternativen  existieren. Die Intervallgrenzen werden in die Gültigkeit nur dann mit eingeschlossen, wenn  das Attribut „inklusive_intervallgrenze“ auf true gesetzt ist. Die Elemente sind optional, da es  möglich ist, nur eine Intervallgrenze anzugeben. Ist beispielsweise das Element „inter-vall_start“=110“ mit „inklusive_intervallgrenze= false“ und das Element „intervall_stop“ fehlt, so  gilt dieses Intervall für alle Medikamente, die mehr als 10 % über den Zielpreis liegen. Umge-
 
 
 ---
@@ -2001,7 +1975,7 @@ Das Element hat folgenden Aufbau:
 
 ## 7.6 generikaquotenr_liste
 
-Auf der Landesebene können unterschiedliche Regelungen zu Generikaquoten existieren.  Generikaquoten können sich auf den Gesamtmarkt oder auf eine definierte Arzneimittelgrup- pe (z.B. Antibiotika) beziehen.
+Auf der Landesebene können unterschiedliche Regelungen zu Generikaquoten existieren.  Generikaquoten können sich auf den Gesamtmarkt oder auf eine definierte Arzneimittelgrup-pe (z.B. Antibiotika) beziehen.
 
 Das Element „generikaquotenr_liste“ hat folgenden Aufbau:
 
@@ -2011,7 +1985,7 @@ Das Element „generikaquotenr_liste“ hat folgenden Aufbau:
 
 **Tabelle 54 – Erläuterung „generikaquotenr_liste“**
 
-Das optionale Element „generikaquotenr_liste“ enthält mindestens ein Element „generikaquo- tenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt
+Das optionale Element „generikaquotenr_liste“ enthält mindestens ein Element „generikaquo-tenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt
 
 Das Element „generikaquotenregelung“ hat folgenden Aufbau:
 
@@ -2040,17 +2014,17 @@ Das Element „generikaquotenregelung“ hat folgenden Aufbau:
 
 ---
 
-und/oder Quoten gelten, erfolgt über die Unterelemente „fachgruppennummer“ oder „fach- gruppenintervall“ (siehe 7.3.8.2 und 7.3.8.3
+und/oder Quoten gelten, erfolgt über die Unterelemente „fachgruppennummer“ oder „fach-gruppenintervall“ (siehe 7.3.8.2 und 7.3.8.3
 
-Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach- gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen- spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
+Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach-gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen-spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
 
-Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin- weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen  Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren.
+Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der Quote) und ein Hin-weistext in die Verordnungssoftware implementiert werden sollen, aber bei den restlichen  Fachgruppen nur ein Hinweistext angezeigt werden soll, so sind diese explizit zu definieren.
 
-Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo- te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu  beziehen.
+Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo-te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu  beziehen.
 
 Bei Berechnung der individuellen Verordnungsquote (Controlling) ist der Quotient aus der  Summe aller verordneten Generika-Präparate (alternative Präparate) im Zähler und der  Summe der über die GKV verordneten Fertigarzneimittel aus der Vergleichsgruppe im Nenner  zu bilden. Die Gruppe der Generika-Präparate, welche zur Quotenberechnung herangezogen  wird, wird definiert durch die Vergleichsgruppe abzüglich der Originale, welche in der Gruppe  der betroffenen Präparate definiert sind.
 
-Die Quoten-Vergleichsgruppe kann in den Elementen „quote_generika_ddd“, „quo- te_generika_verordnungen“ und „quote_generika_bruttoumsatz“ durch die Landesebene defi- niert werden. Falls hier keine Angabe erfolgt, ist die Vergleichsgruppe die Gesamtheit aller  vom Arzt über die GKV verordneten Fertigarzneimittel, einschließlich der Generika.
+Die Quoten-Vergleichsgruppe kann in den Elementen „quote_generika_ddd“, „quo-te_generika_verordnungen“ und „quote_generika_bruttoumsatz“ durch die Landesebene defi-niert werden. Falls hier keine Angabe erfolgt, ist die Vergleichsgruppe die Gesamtheit aller  vom Arzt über die GKV verordneten Fertigarzneimittel, einschließlich der Generika.
 
 ### 7.6.1 pzn_original
 
@@ -2070,7 +2044,7 @@ Siehe 7.3.3
 
 ### 7.6.4 generischer_wirkstoff_alternative
 
-Das Element „generischer_wirkstoff_alternative“ ist optional. Wenn es von der Landesebene  angegeben wird, muss mindestens eines der Unterelemente vorkommen. Es gelten alle Ein- schluss- und Ausschlussmöglichkeiten wie zuvor beschrieben, um Verordnungsalternativen zu  definieren, die dem Arzt angezeigt werden müssen.
+Das Element „generischer_wirkstoff_alternative“ ist optional. Wenn es von der Landesebene  angegeben wird, muss mindestens eines der Unterelemente vorkommen. Es gelten alle Ein-schluss- und Ausschlussmöglichkeiten wie zuvor beschrieben, um Verordnungsalternativen zu  definieren, die dem Arzt angezeigt werden müssen.
 
 Das Element hat folgenden Aufbau:
 
@@ -2083,7 +2057,7 @@ Das Element hat folgenden Aufbau:
 
 #### Tabelle 56 – Erläuterung „generikaquotenregelung/generischer_wirkstoff_alternative
 
-### Im Element „generischer_wirkstoff_alternative“ können die alternativ zu verordnenden Präpa- rate, die Generika, definiert werden.
+### Im Element „generischer_wirkstoff_alternative“ können die alternativ zu verordnenden Präpa-rate, die Generika, definiert werden.
 
 ### 7.6.5 fachgruppenquote
 
@@ -2128,14 +2102,14 @@ Das Element hat folgenden Aufbau:
 
 #### 7.6.5.4 quote_generika_verordnungen
 
-Das Element „quote_generika_verordnungen“ steht innerhalb einer „choice“-Definition, welche  0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Lan- desebene gefüllt, wenn die Quote der Generika im Verhältnis zur definierten Wirkstoffgruppe  anhand von Verordnungen berechnet werden soll. Die Vergleichsgruppe im Nenner beinhaltet  sowohl die Generika als auch die Originale, die Generika im Zähler berechnen sich aus der  Vergleichsgruppe abzüglich der Originale.
+Das Element „quote_generika_verordnungen“ steht innerhalb einer „choice“-Definition, welche  0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Lan-desebene gefüllt, wenn die Quote der Generika im Verhältnis zur definierten Wirkstoffgruppe  anhand von Verordnungen berechnet werden soll. Die Vergleichsgruppe im Nenner beinhaltet  sowohl die Generika als auch die Originale, die Generika im Zähler berechnen sich aus der  Vergleichsgruppe abzüglich der Originale.
 
 <pzn_generika V="String"> <ddd_je_packung V="0.0"/> </pzn_generika> für die
 
 
 ---
 
-Soll sich das Controlling auf Basis Verordnungen auf eine definierte Arzneimittelgruppe (Ver- gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff- gruppen, ATC 4-Code, Handelsnamen, Standardaggregat oder PZN von der Landesebene zu  definieren. Werden keine Angaben zur Vergleichsgruppe gemacht, wird das Controlling auf  alle vom Arzt über die GKV verordneten Fertigarzneimittel bezogen.
+Soll sich das Controlling auf Basis Verordnungen auf eine definierte Arzneimittelgruppe (Ver-gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff-gruppen, ATC 4-Code, Handelsnamen, Standardaggregat oder PZN von der Landesebene zu  definieren. Werden keine Angaben zur Vergleichsgruppe gemacht, wird das Controlling auf  alle vom Arzt über die GKV verordneten Fertigarzneimittel bezogen.
 
 Das Element hat folgenden Aufbau:
 
@@ -2148,9 +2122,9 @@ Das Element hat folgenden Aufbau:
 
 #### 7.6.5.5 quote_generika_bruttoumsatz
 
-Das Element „quote_generika_bruttoumsatz“ steht innerhalb einer „choice“-Definition, welche  0 bis 1 Mal auftreten kann. Folglich ist es also optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Generika im Verhältnis zur definierten Wirkstoff- gruppe anhand des Bruttoumsatzes berechnet werden soll. Die Vergleichsgruppe im Nenner  beinhaltet sowohl die Generika als auch die Originale, die Generika im Zähler berechnen sich  aus der Vergleichsgruppe abzüglich der Originale.
+Das Element „quote_generika_bruttoumsatz“ steht innerhalb einer „choice“-Definition, welche  0 bis 1 Mal auftreten kann. Folglich ist es also optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Generika im Verhältnis zur definierten Wirkstoff-gruppe anhand des Bruttoumsatzes berechnet werden soll. Die Vergleichsgruppe im Nenner  beinhaltet sowohl die Generika als auch die Originale, die Generika im Zähler berechnen sich  aus der Vergleichsgruppe abzüglich der Originale.
 
-Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimittelgruppe (Ver- gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff- gruppen, ATC 4-Code, Handelsnamen, Standardaggregate oder PZN zu definieren. Es sind  hier mehrere Angaben (z. Bsp. mehrere ATC 4-Codes) möglich und die Quote bezieht sich  auf die Summe aller eingeschlossenen Angaben. Werden keine Angaben zur Vergleichsgrup- pe gemacht, wird das Controlling auf den Bruttoumsatz aller vom Arzt über die GKV verordne- ten Fertigarzneimittel aus dem Gesamtmarkt bezogen.
+Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimittelgruppe (Ver-gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff-gruppen, ATC 4-Code, Handelsnamen, Standardaggregate oder PZN zu definieren. Es sind  hier mehrere Angaben (z. Bsp. mehrere ATC 4-Codes) möglich und die Quote bezieht sich  auf die Summe aller eingeschlossenen Angaben. Werden keine Angaben zur Vergleichsgrup-pe gemacht, wird das Controlling auf den Bruttoumsatz aller vom Arzt über die GKV verordne-ten Fertigarzneimittel aus dem Gesamtmarkt bezogen.
 
 <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> 
 
@@ -2177,9 +2151,9 @@ Das Element hat folgenden Aufbau:
 
 ## 7.7 hoechstquotenr_liste
 
-Höchstquotenregeln dienen dazu, den Anteil von bestimmten Präparaten oder Wirkstoffen  innerhalb einer definierten Gruppe niedrig zu halten. Ein typisches Beispiel für eine Höchst- quote bezieht sich auf die Präparate Ezetrol® und Inegy®, deren Verordnungsanteile im Ver- gleich zur Gruppe der Statine gering gehalten werden soll.
+Höchstquotenregeln dienen dazu, den Anteil von bestimmten Präparaten oder Wirkstoffen  innerhalb einer definierten Gruppe niedrig zu halten. Ein typisches Beispiel für eine Höchst-quote bezieht sich auf die Präparate Ezetrol® und Inegy®, deren Verordnungsanteile im Ver-gleich zur Gruppe der Statine gering gehalten werden soll.
 
-Auf der Landesebene können unterschiedliche Regelungen zu Höchstquoten existieren.  Höchstquoten können sich auf eine definierte Arzneimittelgruppe (z.B. Statine und Ezetemib- haltige Arzneimittel) oder auf den Gesamtmarkt beziehen.
+Auf der Landesebene können unterschiedliche Regelungen zu Höchstquoten existieren.  Höchstquoten können sich auf eine definierte Arzneimittelgruppe (z.B. Statine und Ezetemib-haltige Arzneimittel) oder auf den Gesamtmarkt beziehen.
 
 Das Element „hoechstquotenr_liste“ hat folgenden Aufbau:
 
@@ -2189,7 +2163,7 @@ Das Element „hoechstquotenr_liste“ hat folgenden Aufbau:
 
 **Tabelle 61 – Erläuterung „hoechstquotenr_liste“**
 
-Das optionale Element „hoechstquotenr_liste“ enthält mindestens ein Element „hoechstquo- tenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt
+Das optionale Element „hoechstquotenr_liste“ enthält mindestens ein Element „hoechstquo-tenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt
 
 Das Element „hoechstquotenregelung“ hat folgenden Aufbau:
 
@@ -2261,7 +2235,7 @@ Siehe 7.3.8.3
 
 #### 7.7.9.3 hoechstquote_ddd
 
-Das Element „hoechstquote_ddd“ steht innerhalb einer „choice“-Definition, welche 0 bis 1 Mal  auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landesebene ge- füllt, wenn die Höchstquote eines Präparates oder mehrerer Präparate im Verhältnis zur defi- nierten Vergleichsgruppe anhand der verordneten DDD berechnet werden soll. Die Ver- gleichsgruppe im Nenner beinhaltet sowohl die teuren als auch die preiswerten, im Zähler ist  die Summe der DDD der teuren Präparate angegeben.
+Das Element „hoechstquote_ddd“ steht innerhalb einer „choice“-Definition, welche 0 bis 1 Mal  auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landesebene ge-füllt, wenn die Höchstquote eines Präparates oder mehrerer Präparate im Verhältnis zur defi-nierten Vergleichsgruppe anhand der verordneten DDD berechnet werden soll. Die Ver-gleichsgruppe im Nenner beinhaltet sowohl die teuren als auch die preiswerten, im Zähler ist  die Summe der DDD der teuren Präparate angegeben.
 
 Bitte beachten Sie, dass alle PZN und die dazugehörigen DDD von der Landesebene für die  gesamte Arzneimittelgruppe (auch Vergleichsgruppe) bereitgestellt werden müssen, sofern  ein Controlling auf DDD-Basis gewünscht wird.
 
@@ -2282,9 +2256,9 @@ Das Element hat folgenden Aufbau:
 
 #### 7.7.9.4 hoechstquote_verordnungen
 
-Das Element „hoechstquote_verordnungen“ steht innerhalb einer „choice“-Definition, welche 0  bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landes- ebene gefüllt, wenn die Quote der teuren Präparate im Verhältnis zur definierten Wirkstoff- gruppe anhand von Verordnungen berechnet werden soll. Die Vergleichsgruppe im Nenner  beinhaltet sowohl die teuren als auch die preiswerten, im Zähler ist die Summe der Verord- nungen der teuren Präparate angegeben.
+Das Element „hoechstquote_verordnungen“ steht innerhalb einer „choice“-Definition, welche 0  bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landes-ebene gefüllt, wenn die Quote der teuren Präparate im Verhältnis zur definierten Wirkstoff-gruppe anhand von Verordnungen berechnet werden soll. Die Vergleichsgruppe im Nenner  beinhaltet sowohl die teuren als auch die preiswerten, im Zähler ist die Summe der Verord-nungen der teuren Präparate angegeben.
 
-Soll sich das Controlling auf Basis Verordnungen auf eine definierte Arzneimittelgruppe (Ver- gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff- gruppen, ATC 4-Code, Handelsnamen, Standardaggregat oder PZN von der Landesebene zu  definieren. Werden keine Angaben zur Vergleichsgruppe gemacht, bezieht sich das Control- ling auf die Anzahl von Verordnungen aller vom Arzt über die GKV verordneten Fertigarznei- mittel.
+Soll sich das Controlling auf Basis Verordnungen auf eine definierte Arzneimittelgruppe (Ver-gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff-gruppen, ATC 4-Code, Handelsnamen, Standardaggregat oder PZN von der Landesebene zu  definieren. Werden keine Angaben zur Vergleichsgruppe gemacht, bezieht sich das Control-ling auf die Anzahl von Verordnungen aller vom Arzt über die GKV verordneten Fertigarznei-mittel.
 
 Das Element hat folgenden Aufbau:
 
@@ -2297,14 +2271,14 @@ Das Element hat folgenden Aufbau:
 
 #### 7.7.9.5 hoechstquote_bruttoumsatz
 
-Das Element „hoechstquote_bruttoumsatz“ steht innerhalb einer „choice“-Definition, welche 0  bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landes- ebene gefüllt, wenn die Quote der teuren Präparate im Verhältnis zur definierten Wirkstoff- gruppe anhand des Bruttoumsatzes berechnet werden soll. Die Vergleichsgruppe im Nenner  beinhaltet sowohl die Teuren als auch die Preiswerten, im Zähler ist die Summe des Brutto- umsatzes der teuren Präparate angegeben.
+Das Element „hoechstquote_bruttoumsatz“ steht innerhalb einer „choice“-Definition, welche 0  bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landes-ebene gefüllt, wenn die Quote der teuren Präparate im Verhältnis zur definierten Wirkstoff-gruppe anhand des Bruttoumsatzes berechnet werden soll. Die Vergleichsgruppe im Nenner  beinhaltet sowohl die Teuren als auch die Preiswerten, im Zähler ist die Summe des Brutto-umsatzes der teuren Präparate angegeben.
 
 V="0.0"> <pzn einschluss="true" V="String"></pzn> **o-**
 
 
 ---
 
-Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimittelgruppe (Ver- gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff- gruppen, ATC 4-Code, Handelsnamen, Standardaggregate oder PZN zu definieren. Es sind  hier mehrere Angaben (z. Bsp. mehrere ATC 4-Codes) möglich und die Quote bezieht sich  auf die Summe aller eingeschlossenen Angaben. Werden keine Angaben zur Vergleichsgrup- pe gemacht, bezieht sich das Controlling auf den Bruttoumsatz aller vom Arzt über die GKV  verordneten Fertigarzneimittel.
+Soll sich das Controlling auf Basis Bruttoumsatz auf eine definierte Arzneimittelgruppe (Ver-gleichsgruppe) beziehen, ist diese Vergleichsgruppe über Wirkstoffe, ATC 5-Code, Wirkstoff-gruppen, ATC 4-Code, Handelsnamen, Standardaggregate oder PZN zu definieren. Es sind  hier mehrere Angaben (z. Bsp. mehrere ATC 4-Codes) möglich und die Quote bezieht sich  auf die Summe aller eingeschlossenen Angaben. Werden keine Angaben zur Vergleichsgrup-pe gemacht, bezieht sich das Controlling auf den Bruttoumsatz aller vom Arzt über die GKV  verordneten Fertigarzneimittel.
 
 Das Element hat folgenden Aufbau:
 
@@ -2342,9 +2316,9 @@ V="0.0"> <pzn V="String"></pzn>
 
 **Tabelle 69 – Erläuterung „biosimilarquotenregelung“**
 
-Beliebig viele solcher Regelungen können hier abgebildet werden, für jede einzelne wird ein  Element „biosimilarquotenregelung“ angelegt. Beispielsweise entspricht die Biosimilarquoten- regelung zu den Erythropoetinen einer Regelung, diejenige zu den Somatotropinen einer wei- teren. Die Arzneimittelgruppe, für die eine Regelung existiert, ist zu definieren und stellt so- wohl die Gruppe der betroffenen Präparate, als auch, bei einer Quotenberechnung, die Ver- gleichsgruppe dar. Dies ist durch die Angabe der jeweiligen Wirkstoffe oder der jeweiligen  ATC 5-Codes, oder der jeweiligen PZNs oder der jeweiligen Handelsnamen oder der jeweili- gen Standardaggregate oder aber auf übergeordneter Ebene durch die Angabe der Wirkstoff- gruppe oder des ATC 4-Codes möglich. Die Angabe mindestens eines dieser genannten Un- terelemente ist zwingend notwendig. Im Falle der Biosimilarquotenregelung beinhaltet die  Gruppe der betroffenen Präparate sowohl die auszutauschenden als auch die alternativen  Präparate. Das Ziel der Regelung besteht darin, dass möglichst viele Biosimilars anstelle der  auszutauschenden Präparate verordnet werden.
+Beliebig viele solcher Regelungen können hier abgebildet werden, für jede einzelne wird ein  Element „biosimilarquotenregelung“ angelegt. Beispielsweise entspricht die Biosimilarquoten-regelung zu den Erythropoetinen einer Regelung, diejenige zu den Somatotropinen einer wei-teren. Die Arzneimittelgruppe, für die eine Regelung existiert, ist zu definieren und stellt so-wohl die Gruppe der betroffenen Präparate, als auch, bei einer Quotenberechnung, die Ver-gleichsgruppe dar. Dies ist durch die Angabe der jeweiligen Wirkstoffe oder der jeweiligen  ATC 5-Codes, oder der jeweiligen PZNs oder der jeweiligen Handelsnamen oder der jeweili-gen Standardaggregate oder aber auf übergeordneter Ebene durch die Angabe der Wirkstoff-gruppe oder des ATC 4-Codes möglich. Die Angabe mindestens eines dieser genannten Un-terelemente ist zwingend notwendig. Im Falle der Biosimilarquotenregelung beinhaltet die  Gruppe der betroffenen Präparate sowohl die auszutauschenden als auch die alternativen  Präparate. Das Ziel der Regelung besteht darin, dass möglichst viele Biosimilars anstelle der  auszutauschenden Präparate verordnet werden.
 
-Die Elemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoffgruppe“,  „atc4“ können zur Definition der eingeschlossenen und nicht-eingeschlossenen Präparate  eingesetzt werden. Dies wird durch das Attribut „einschluss“ ermöglicht. Wenn die „biosimilar- quotenregelung“ für eine Wirkstoffgruppe gilt, so wird das Attribut „einschluss“ auf „true“ ge- setzt. Dies ist auch der Standardwert dafür. Falls bestimmte PZN von der Gültigkeit der „bio- similarquotenregelung“ ausgenommen werden, wird das Attribut dieser Elemente auf „false“  gesetzt. Durch die mögliche Kombination von Elementen mit „einschluss“=„true“ und „ein- schluss“=„false“ ergeben sich flexible Definitionsmöglichkeiten.
+Die Elemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoffgruppe“,  „atc4“ können zur Definition der eingeschlossenen und nicht-eingeschlossenen Präparate  eingesetzt werden. Dies wird durch das Attribut „einschluss“ ermöglicht. Wenn die „biosimilar-quotenregelung“ für eine Wirkstoffgruppe gilt, so wird das Attribut „einschluss“ auf „true“ ge-setzt. Dies ist auch der Standardwert dafür. Falls bestimmte PZN von der Gültigkeit der „bio-similarquotenregelung“ ausgenommen werden, wird das Attribut dieser Elemente auf „false“  gesetzt. Durch die mögliche Kombination von Elementen mit „einschluss“=„true“ und „ein-schluss“=„false“ ergeben sich flexible Definitionsmöglichkeiten.
 
 example <atc4 einschluss="true" V="B03XA"/> <standardaggregat V="Epoetin alfa Hexal"/> <standardaggregat V="Abseamed"/> <standardaggregat V="Eprex"/> <standardaggregat V="Binocrit"/> <standardaggregat V="Silapo"/> <standardaggregat V="Retacrit"/> <fachgruppenintervall intervall_start="1" intervall_stop="3"/> <quote_biosimilar_ddd  V="25.0"/> <warnhinweis_ersetzung V="Sie haben ein Präparat aus einer Gruppe gewählt, in der Biosimilars verfügbar sind. Auf Landesebene wurde ein Biosimilar -Anteil von 25% auf Basis der verordneten Tagesdosen (DDD) festgelegt."/> </fachgruppenquote </biosimilar> <pzn einschluss="true" V="String"> <ddd_je_packung V="0.0"/> </pzn> <fachgruppenintervall intervall_start="2" intervall_stop="2" /> <quote_biosimilar_ddd V="0.0"/> <warnhinweis_ersetzung V="String"/> </fachgruppenquote </biosimilar> Unter dem Element „biosimilar“ sind die Biosimilars als Handelsnamen, Standardaggregat  oder PZN von der Landesebene zu benennen. Die Zahl der zu benennenden Biosimilars ist  unbegrenzt. Die Biosimilars definieren die Gruppe der alternativen Präparate.
 
@@ -2353,19 +2327,19 @@ example <atc4 einschluss="true" V="B03XA"/> <standardaggregat V="Epoetin alfa He
 
 **Anzeige eines Hinweistextes für den Arzt**
 
-In dem Unterelement  fachgruppenspezifisch oder allgemein von der Landesebene formuliert werden. Dieser Hin- weis wird von der Verordnungssoftware angezeigt, wenn der Arzt ein Präparat verordnet, das  zwar der Regelung unterliegt, aber kein Biosimilar ist.
+In dem Unterelement  fachgruppenspezifisch oder allgemein von der Landesebene formuliert werden. Dieser Hin-weis wird von der Verordnungssoftware angezeigt, wenn der Arzt ein Präparat verordnet, das  zwar der Regelung unterliegt, aber kein Biosimilar ist.
 
 **Anzeigen des Hinweistextes und Controllingfunktion fachgruppenspezifisch möglich**
 
-Es besteht die Möglichkeit, den Hinweistext oder die Quote(n) auf alle Ärzte, oder nur auf ein- zelne Fachgruppen beziehen. Gelten beispielsweise in einem KV-Bereich für Allgemeinmedi- ziner und für Internisten unterschiedliche Quoten und für andere Fachgruppen sind keine  Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche Fachgruppen Hinweistexte  und/oder Quoten gelten, erfolgt über die Unterelemente „fachgruppennummer“ oder „fach- gruppenintervall“ (siehe
+Es besteht die Möglichkeit, den Hinweistext oder die Quote(n) auf alle Ärzte, oder nur auf ein-zelne Fachgruppen beziehen. Gelten beispielsweise in einem KV-Bereich für Allgemeinmedi-ziner und für Internisten unterschiedliche Quoten und für andere Fachgruppen sind keine  Quoten vereinbart, so ist dies abbildbar. Die Definition, für welche Fachgruppen Hinweistexte  und/oder Quoten gelten, erfolgt über die Unterelemente „fachgruppennummer“ oder „fach-gruppenintervall“ (siehe
 
-Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach- gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen- spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
+Anhand der von der Landesebene definierten Fachgruppennummer(n) und/oder der Fach-gruppenintervall(e) gleicht die Verordnungssoftware die 8. und 9. Stelle der lebenslangen  Arztnummer (LANR) des Benutzers ab. Somit kann sichergestellt werden, dass fachgruppen-spezifische Regelungen in der Verordnungssoftware angezeigt werden können.
 
 Bitte beachten Sie: Wenn für bestimmte Fachgruppen eine Controllingfunktion (Definition der  Quote) und ein Hinweistext in die Verordnungssoftware implementiert werden sollen, aber bei  den restlichen Fachgruppen, nur ein Hinweistext angezeigt werden soll, so ist das explizit zu  definieren.
 
-Bei Berechnung der individuellen Verordnungsquote (Controlling) ist der Quotient aus der  Summe aller verordneten alternativen Präparate (Biosimilars) im Zähler und der Summe der  über die GKV verordneten Fertigarzneimittel aus der Gruppe der betroffenen Präparate im  Nenner zu bilden. Die Quoten-Vergleichsgruppe entspricht der Gruppe der betroffenen Präpa- rate und enthält die Biosimilars.
+Bei Berechnung der individuellen Verordnungsquote (Controlling) ist der Quotient aus der  Summe aller verordneten alternativen Präparate (Biosimilars) im Zähler und der Summe der  über die GKV verordneten Fertigarzneimittel aus der Gruppe der betroffenen Präparate im  Nenner zu bilden. Die Quoten-Vergleichsgruppe entspricht der Gruppe der betroffenen Präpa-rate und enthält die Biosimilars.
 
-Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo- te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu  beziehen.
+Werden keine Angaben zum „fachgruppenintervall“ oder der „fachgruppennummer“ gemacht  und dennoch ein „warnhinweis_ersetzung“ von der Landesebene definiert und/oder eine Quo-te benannt, sind die Angaben unabhängig von der Fachgruppenzugehörigkeit auf alle Ärzte zu  beziehen.
 
 ### 7.8.1 pzn
 
@@ -2402,7 +2376,7 @@ Siehe 7.3.7
 
 ### 7.8.8 biosimilar
 
-Unter dem Element „biosimilar“ sind zum einen die Biosimilars als Handelsnamen, Stan- dardaggregat oder PZN von der Landesebene zu benennen. Die Zahl der zu benennenden  Biosimilars ist unbegrenzt.
+Unter dem Element „biosimilar“ sind zum einen die Biosimilars als Handelsnamen, Stan-dardaggregat oder PZN von der Landesebene zu benennen. Die Zahl der zu benennenden  Biosimilars ist unbegrenzt.
 
 Zum anderen findet sich hier noch das optionale Element „fachgruppenquote“ (siehe 7.8.10.4)
 
@@ -2449,7 +2423,7 @@ Siehe 7.3.8.3
 
 #### 7.8.8.7 quote_biosimilar_ddd
 
-Das Element „quote_biosimilar_ddd“ steht innerhalb einer „choice“-Definition, welche 0 bis 1  Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landesebene  gefüllt, wenn die Quote der Biosimilars im Verhältnis zur definierten Wirkstoffgruppe anhand  der verordneten DDD berechnet werden soll. Im Attribut „V angegeben, Bitte beachten Sie, dass alle PZN und die dazugehörigen DDD von der Landes- ebene für die geregelte Arzneimittelgruppe (z.B. Erythropoetine) bereit gestellt werden müs- sen, sofern ein Controlling auf DDD-Basis gewünscht wird.
+Das Element „quote_biosimilar_ddd“ steht innerhalb einer „choice“-Definition, welche 0 bis 1  Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der Landesebene  gefüllt, wenn die Quote der Biosimilars im Verhältnis zur definierten Wirkstoffgruppe anhand  der verordneten DDD berechnet werden soll. Im Attribut „V angegeben, Bitte beachten Sie, dass alle PZN und die dazugehörigen DDD von der Landes-ebene für die geregelte Arzneimittelgruppe (z.B. Erythropoetine) bereit gestellt werden müs-sen, sofern ein Controlling auf DDD-Basis gewünscht wird.
 
 “ wird die entsprechende Quote
 
@@ -2469,7 +2443,7 @@ Das Element hat folgenden Aufbau:
 
 #### 7.8.8.8 quote_biosimilar_verordnungen
 
-Das Element „quote_biosimilar_verordnungen“ steht innerhalb einer „choice“-Definition, wel- che 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Biosimilars im Verhältnis zur definierten Wirkstoff- gruppe anhand von getätigten Verordnungen der definierten Arzneimittelgruppe berechnet  werden soll. Im Attribut „quote_biosimilar“ wird die entsprechende Quote angegeben.
+Das Element „quote_biosimilar_verordnungen“ steht innerhalb einer „choice“-Definition, wel-che 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Biosimilars im Verhältnis zur definierten Wirkstoff-gruppe anhand von getätigten Verordnungen der definierten Arzneimittelgruppe berechnet  werden soll. Im Attribut „quote_biosimilar“ wird die entsprechende Quote angegeben.
 
 Das Element hat folgenden Aufbau:
 
@@ -2482,7 +2456,7 @@ Das Element hat folgenden Aufbau:
 
 #### 7.8.8.9 quote_biosimilar_bruttoumsatz
 
-Das Element „quote_biosimilar_verordnungen“ steht innerhalb einer „choice“-Definition, wel- che 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Biosimilars im Verhältnis zur definierten Wirkstoff- gruppe anhand des Bruttoumsatzes der getätigten Arzneimittel-Verordnungen der definierten  Arzneimittelgruppe berechnet werden soll. Im Attribut „V“ wird die entsprechende Quote an- gegeben.
+Das Element „quote_biosimilar_verordnungen“ steht innerhalb einer „choice“-Definition, wel-che 0 bis 1 Mal auftreten kann. Folglich ist es optional. Dieses Element wird dann von der  Landesebene gefüllt, wenn die Quote der Biosimilars im Verhältnis zur definierten Wirkstoff-gruppe anhand des Bruttoumsatzes der getätigten Arzneimittel-Verordnungen der definierten  Arzneimittelgruppe berechnet werden soll. Im Attribut „V“ wird die entsprechende Quote an-gegeben.
 
 Das Element hat folgenden Aufbau:
 
@@ -2504,14 +2478,14 @@ V="0.0"/>  V="0.0"/>
 
 ## 7.9 infomassnahmen_liste
 
-Im Element „infomassnahmen_liste“ können bei bestimmten Präparaten Hinweise bzw. Infor- mationen gegeben werden.
+Im Element „infomassnahmen_liste“ können bei bestimmten Präparaten Hinweise bzw. Infor-mationen gegeben werden.
 
-Es ist möglich, das Anzeigen der Hinweise an Bedingungen hinsichtlich des Alters und Ge- schlechtes des Patienten sowie an die Fachgruppe des Arztes zu knüpfen.
+Es ist möglich, das Anzeigen der Hinweise an Bedingungen hinsichtlich des Alters und Ge-schlechtes des Patienten sowie an die Fachgruppe des Arztes zu knüpfen.
 
 Damit könnten beispielsweise die folgenden Bedingungen definiert werden:
 
-- Die Informationen der Priscus-Liste werden nur bei älteren Patienten zur Anzeige ge- bracht. Der Arzt erhält den Hinweis nur dann, wenn die Informationen auf den Patien- ten zutreffen.
-- Die Anzeige von Informationen zur Verträglichkeit von Arzneimitteln in Schwanger- schaft und Stillzeit des Pharmakovigilanz- und Beratungszentrums für Embryonaltoxi- kologie (Embryotox) erfolgt nur wenn der Arzt der Fachgruppe der Gynäkologen ange- hört.
+- Die Informationen der Priscus-Liste werden nur bei älteren Patienten zur Anzeige ge-bracht. Der Arzt erhält den Hinweis nur dann, wenn die Informationen auf den Patien-ten zutreffen.
+- Die Anzeige von Informationen zur Verträglichkeit von Arzneimitteln in Schwanger-schaft und Stillzeit des Pharmakovigilanz- und Beratungszentrums für Embryonaltoxi-kologie (Embryotox) erfolgt nur wenn der Arzt der Fachgruppe der Gynäkologen ange-hört.
 - Die Anzeige der Information wird nur bei bestimmten Fachgruppen und zutreffender  Patienteneinschränkung vorgenommen.
 
 Somit bekommt der Arzt nur die für ihn relevante Informationen.
@@ -2524,7 +2498,7 @@ Das Element „infomassnahmen_liste“ hat folgenden Aufbau:
 
 **Tabelle 75 – Erläuterung „infomassnahmen_liste“**
 
-Das optionale Element „infomassnahmen_liste“ enthält mindestens ein Element „infomass- nahmenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt
+Das optionale Element „infomassnahmen_liste“ enthält mindestens ein Element „infomass-nahmenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt
 
 <infomassnahmenregelung> </infomassnahmenregelung> <infomassnahmenregelung> </infomassnahmenregelung> 7.3
 
@@ -2572,9 +2546,9 @@ Die hinterlegten Dokumente müssen in einem Unterverzeichnis abgelegt werden, we
 
 *<geltungsbereich_kv>*_verweise
 
-*geltungsbereich_kv*> ist dabei der Platzhalter für die Nummer der KV aus der Schlüsseltabel- le und entspricht dem Attribut  ARV-Datei vorkommt.
+*geltungsbereich_kv*> ist dabei der Platzhalter für die Nummer der KV aus der Schlüsseltabel-le und entspricht dem Attribut  ARV-Datei vorkommt.
 
-Das Unterverzeichnis, welches die Dokumente enthält, wird zusammen mit der ARV- Stammdatei gezippt ausgeliefert. Die Anzahl und Länge der hinterlegten Dokumente sollte  begrenzt sein, wenn es sich nicht um Internet-Links handelt.
+Das Unterverzeichnis, welches die Dokumente enthält, wird zusammen mit der ARV-Stammdatei gezippt ausgeliefert. Die Anzahl und Länge der hinterlegten Dokumente sollte  begrenzt sein, wenn es sich nicht um Internet-Links handelt.
 
 **7.9.10** **bedingungs_liste**
 
@@ -2614,14 +2588,13 @@ dann werden Warnhinweise bzw. die verlinkten Dokumente immer beim Verordnen der 
 
 **Tabelle 79 – Erläuterung „infomassnahmenregelung/bedingungs_liste/bedingung/altersgrenze“**
 
-Das Element „altersgrenze“ ermöglicht die Angabe eines Zeitintervalls oder einer Altersgren- ze. Indem nur eines der beiden Attribute angegeben wird, ist das Zeitintervall nach oben oder  unten hin offen. Im Attribut „unit“ ist angegeben, ob das Alter in Tagen „T“, Wochen „W“, M naten „M“ oder Jahren „J“ angeben ist.
+Das Element „altersgrenze“ ermöglicht die Angabe eines Zeitintervalls oder einer Altersgren-ze. Indem nur eines der beiden Attribute angegeben wird, ist das Zeitintervall nach oben oder  unten hin offen. Im Attribut „unit“ ist angegeben, ob das Alter in Tagen „T“, Wochen „W“, Mo-naten „M“ oder Jahren „J“ angeben ist.
 
 ##### 7.9.10.2.1 von
 
-Die Angabe des Elements „von“ ist optional. Es kann höchstens einmal innerhalb des Ele- ments „altersgrenze“ vorkommen und muss im Attribut V einen ganzzahligen Wert >= 0 ha- ben.
+Die Angabe des Elements „von“ ist optional. Es kann höchstens einmal innerhalb des Ele-ments „altersgrenze“ vorkommen und muss im Attribut V einen ganzzahligen Wert >= 0 ha-ben.
 
-<von V="6"/> <bis  V="18"/> <unit V="J"/> o-
-
+<von V="6"/> <bis  V="18"/> <unit V="J"/>
 
 ---
 
@@ -2649,7 +2622,7 @@ Die Angabe des Elements „unit“ ist im Element „altersgrenze“ verpflichte
 
 #### 7.9.10.3 geschlecht
 
-Die Angabe des Elements „geschlecht“ ist optional. Es kann höchstens einmal innerhalb einer  Bedingung vorkommen und muss im Attribut V einen der Werte der Schlüsseltabelle  S_KBV_Geschlecht (0 = unbekannt, 1 = männlich, 2 = weiblich, 3 = unbestimmt, 4 = divers)  haben. Der Wert ist mit dem in der Verordnungssoftware vorliegenden Geschlecht des Patien- ten abzugleichen.
+Die Angabe des Elements „geschlecht“ ist optional. Es kann höchstens einmal innerhalb einer  Bedingung vorkommen und muss im Attribut V einen der Werte der Schlüsseltabelle  S_KBV_Geschlecht (0 = unbekannt, 1 = männlich, 2 = weiblich, 3 = unbestimmt, 4 = divers)  haben. Der Wert ist mit dem in der Verordnungssoftware vorliegenden Geschlecht des Patien-ten abzugleichen.
 
 haben.
 
@@ -2674,7 +2647,7 @@ Das Element „fachgruppen_liste“ ist wie folgt aufgebaut:
 
 **Tabelle 83 – Erläuterung „infomassnahmenreg** **lung/bedingungs_liste/bedingung/fachgruppen_liste“**
 
-Das optionale Element „fachgruppen_liste“ enthält mindestens ein Element „fachgruppenin- tervall“ oder mindestens ein Element „fachgruppennummer“.
+Das optionale Element „fachgruppen_liste“ enthält mindestens ein Element „fachgruppenin-tervall“ oder mindestens ein Element „fachgruppennummer“.
 
 ##### 7.9.10.4.1 fachgruppenintervall
 
@@ -2691,9 +2664,9 @@ Siehe 7.3.8.3
 
 ## 7.10  behandlungsalternativen_liste
 
-Im Element „behandlungsalternativen_liste“ werden solche Arzneimittel, Wirkstoffe oder Wirk- stoffgruppen genannt, zu denen bessere Behandlungsalternativen vorliegen.
+Im Element „behandlungsalternativen_liste“ werden solche Arzneimittel, Wirkstoffe oder Wirk-stoffgruppen genannt, zu denen bessere Behandlungsalternativen vorliegen.
 
-Es ist möglich, das Anzeigen der Hinweise zu Behandlungsalternativen an Bedingungen hin- sichtlich Alter und Geschlecht des Patienten bzw. der Patientin zu knüpfen.
+Es ist möglich, das Anzeigen der Hinweise zu Behandlungsalternativen an Bedingungen hin-sichtlich Alter und Geschlecht des Patienten bzw. der Patientin zu knüpfen.
 
 Das Element „behandlungsalternativen_liste“ hat folgenden Aufbau:
 
@@ -2703,7 +2676,7 @@ Das Element „behandlungsalternativen_liste“ hat folgenden Aufbau:
 
 **Tabelle 84 – Erläuterung „behandlungsalternativen_liste“**
 
-Das optionale Element „behandlungsalternativen_liste“ enthält mindestens ein Element „be- handlungsalternativenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt 7.3
+Das optionale Element „behandlungsalternativen_liste“ enthält mindestens ein Element „be-handlungsalternativenregelung“. Zum Attribut „prioritaet“ siehe Abschnitt 7.3
 
 liste prioritaet="1"> < behandlungsalternativen regelung> < behandlungsalternativen regelung> <behandlungsalternativenregelung> </ behandlungsalternativenregelung> _liste> Das Element „behandlungsalternativenregelung“ hat folgenden Aufbau:
 
@@ -2717,9 +2690,9 @@ liste prioritaet="1"> < behandlungsalternativen regelung> < behandlungsalternati
 
 **Tabelle 85 – Erläuterung „behandlungsalternativenregelung**
 
-Es können beliebig viele solcher Regelungen existieren, für jede wird ein Element angelegt.  Die Unterelemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoff- gruppe“ und „atc4“ sind optional, mindestens eines dieser Elemente muss jedoch vorhanden  sein um die Behandlungsalternative zuordnen zu können.
+Es können beliebig viele solcher Regelungen existieren, für jede wird ein Element angelegt.  Die Unterelemente „pzn“, „handelsname“, „standardaggregat“, „wirkstoff“, „atc5“, „wirkstoff-gruppe“ und „atc4“ sind optional, mindestens eines dieser Elemente muss jedoch vorhanden  sein um die Behandlungsalternative zuordnen zu können.
 
-Es können ein oder mehrere Unterelemente „verweis_dokument“ vorhanden sein. Dieses  Element enthält den Namen der Datei mit der zur Regelung passenden Information. Da das  Element „verweis_dokument“ optional ist, besteht die Möglichkeit, ohne die Verwendung von  zusätzlichen Dokumenten die Information zum Präparat im Element „warnhinweis_pvs“ unter- zubringen. Im optionalen Element „bedingung_liste“ können eine oder mehrere Bedingungen  erstellt werden. Die Texte im Warnhinweis und den verlinkten Dokumenten werden nur dann  angezeigt, wenn **eine** der Bedingungen aus der Liste erfüllt ist.
+Es können ein oder mehrere Unterelemente „verweis_dokument“ vorhanden sein. Dieses  Element enthält den Namen der Datei mit der zur Regelung passenden Information. Da das  Element „verweis_dokument“ optional ist, besteht die Möglichkeit, ohne die Verwendung von  zusätzlichen Dokumenten die Information zum Präparat im Element „warnhinweis_pvs“ unter-zubringen. Im optionalen Element „bedingung_liste“ können eine oder mehrere Bedingungen  erstellt werden. Die Texte im Warnhinweis und den verlinkten Dokumenten werden nur dann  angezeigt, wenn **eine** der Bedingungen aus der Liste erfüllt ist.
 
 ### 7.10.1 pzn
 
@@ -2782,7 +2755,7 @@ Siehe 7.10.10.3
 
 Das Element <iww_liste> beinhaltet eine Liste von IWW-Listen. Die enthaltenen Informationen  müssen im Rahmen der Verordnung von Präparaten berücksichtigt werden.
 
-Das XML-Element kann das Attribut „prioritaet“ besitzen. Ebenso muss das Element mindes- tens ein Kindelement <iww.liste> besitzen Dieses Kindelement kann n-fach vorhanden sein.
+Das XML-Element kann das Attribut „prioritaet“ besitzen. Ebenso muss das Element mindes-tens ein Kindelement <iww.liste> besitzen Dieses Kindelement kann n-fach vorhanden sein.
 
 | *diagram* | ** |
 |---|---|
@@ -2794,7 +2767,7 @@ Das Element <iwwliste> stellt eine Indikation mit den zugehörigen Wirkstoffen d
 
 Das XML-Element kann das Attribut „iww_klassifikation“ besitzen. Mithilfe des Attributes kann  die Bezeichnung der gruppierten Wirkstoffe angegeben werden.
 
-Das Element muss mindestens ein Kindelement <verordnungen> besitzen. Dieses Kindele- ment kann n-fach vorhanden sein. Ebenfalls kann das Element <iwwliste> die folgenden opti- onalen Kindelemente enthalten:
+Das Element muss mindestens ein Kindelement <verordnungen> besitzen. Dieses Kindele-ment kann n-fach vorhanden sein. Ebenfalls kann das Element <iwwliste> die folgenden opti-onalen Kindelemente enthalten:
 
 - <service_tmr>, Angabe des Gültigkeitszeitraum
 - <bedingungs_liste>
@@ -2827,7 +2800,7 @@ siehe Kapitel 7.10.9 verweis_dokument
 |---|---|
 | ***example*** | ***<bedingungs_liste> ********</bedingungs_liste>*** |
 
-##### 7.11.1.3.1
+##### 7.11.1.3.1 bedingung
 
 Das Element <bedingung> bildet grundsätzlich die Bedingung für die anzuzeigende Regelung  ab.
 
@@ -2835,18 +2808,16 @@ Das Element <bedingung> kann das optionale Attribut „einschluss“ enthalten.
 
 Das XML-Element kann die folgenden optionalen Kindelemente enthalten:
 
+- <altersgrenze>
+- <geschlecht>
+- <iww_indikationen>
+- <fachgruppen_liste>
+
 | *diagram* | ** |
 |---|---|
 | ***example*** | ***<bedingung einschluss=“true“>********</bedingung>*** |
 
-##### bedingung
-
-- <altersgrenze>
-- <geschlecht>
-- <iww_indikationen>
-
-<bedingung> <iww_indikationen> </iww> _indikationen </bedingung> <altersgrenze> </altersgrenze> <geschlecht> </geschlecht> <iww_indikationen> </iww> _indikationen <fachgruppen_liste> </fachgruppen_liste> - <fachgruppen_liste>
-
+<bedingung> <iww_indikationen> </iww> _indikationen </bedingung> <altersgrenze> </altersgrenze> <geschlecht> </geschlecht> <iww_indikationen> </iww> _indikationen <fachgruppen_liste> </fachgruppen_liste>
 
 ---
 
@@ -2952,7 +2923,7 @@ Ebenso kann das XML-Element die optionalen Kindelemente <darreichungsform> und  
 
 ###### 7.11.1.4.7.1 darreichungsform
 
-Mit dem Element <darreichungsform> kann eine Einschränkung auf bestimmte Darreichungs- formen erfolgen. Das Element enthält die folgenden Attribute:
+Mit dem Element <darreichungsform> kann eine Einschränkung auf bestimmte Darreichungs-formen erfolgen. Das Element enthält die folgenden Attribute:
 
 - „V“, enthält die Kurzbezeichnung der Darreichungsform
 - „S“, OID der Schlüsseltabelle der Darreichnungsform (1.2.276.0.76.3.1.1.5.2.15)
@@ -3043,7 +3014,7 @@ Siehe 7.10.9
 
 ## 7.12 iww_indikationsbaum
 
-Das Element <iwwder_indikationsbaum> beinhaltet die hierarchische Struktur  Eine einzelne Indikation beinhaltet Angaben zu bevorzugten Wirkstoffen im Kontext der jewei- ligen Indikation.
+Das Element <iwwder_indikationsbaum> beinhaltet die hierarchische Struktur  Eine einzelne Indikation beinhaltet Angaben zu bevorzugten Wirkstoffen im Kontext der jewei-ligen Indikation.
 
 Indikationen.
 
@@ -3053,7 +3024,7 @@ Indikationen.
 
 ### 7.12.1 kapitel
 
-Das Element <kapitel> bildet die einzelnen Indikationsstufen bzw. Hierarchien des Indikati- onsbaumes ab. Es kann die folgenden Elemente enthalten:
+Das Element <kapitel> bildet die einzelnen Indikationsstufen bzw. Hierarchien des Indikati-onsbaumes ab. Es kann die folgenden Elemente enthalten:
 
 - <anmerkung>
 - <wirkstoff>, das Element kann 0 bis n-fach vorhanden sein
@@ -3165,7 +3136,7 @@ siehe Kapitel 7.10.9 verweis_dokument
 
 ## 7.13 iww_kategorien
 
-Das Element <iww_kategorien> gruppiert alle in der ARV-Stammdatei verwendeten IWW- Kategorien.
+Das Element <iww_kategorien> gruppiert alle in der ARV-Stammdatei verwendeten IWW-Kategorien.
 
 Es besitzt das Kindelement <kategorie>.
 
@@ -3203,7 +3174,7 @@ Es besitzt die folgenden Attribute:
 - „quelle“, beschreibt den Ursprung der Daten
 - „quelle_artikel“, der Anzeigetext für die Quellenangabe in der Verordnungssoftware
 - „copyright“, Angaben zum Copyright der IWW-Daten
-- „indikationsbaum_bezeichnung“, die von der herausgebenden Stelle verwendete Be- zeichnung des Indikationsbaums
+- „indikationsbaum_bezeichnung“, die von der herausgebenden Stelle verwendete Be-zeichnung des Indikationsbaums
 - „anmerkungen_bezeichnung“, Anmerkungen zur Bezeichnung der herausgebenden  Stelle
 - „kategorie_bezeichnung“, Bezeichnung für die Kategorien der herausgebenden Stelle
 - „kategorie_ bezeichnung_kurz“, Kurzbezeichnung für die Kategorien
@@ -3263,7 +3234,7 @@ Das XML-Element <pzn> repräsentiert die betroffene PZN. Der tatsächliche Wert 
 
 ##### 7.15.1.2.2
 
-Das XML-Element <erwuenscht> definiert, ob die PZN im Rahmen der Verordnung, unter Be- achtung der im Dokument Implementierungshinweise beschriebenen Regelung, erwünscht  oder unerwünscht ist.
+Das XML-Element <erwuenscht> definiert, ob die PZN im Rahmen der Verordnung, unter Be-achtung der im Dokument Implementierungshinweise beschriebenen Regelung, erwünscht  oder unerwünscht ist.
 
 Das „V“ Attribut kann die Werte „false“ und „true“ besitzen.
 
@@ -3272,7 +3243,7 @@ Das „V“ Attribut kann die Werte „false“ und „true“ besitzen.
 
 ##### 7.15.1.2.3 rabatt_gueltig
 
-Das XML-Element <rabatt_gueltig> definiert, ob bei der PZN ein Rabattvertrag beachtet wer- den soll.
+Das XML-Element <rabatt_gueltig> definiert, ob bei der PZN ein Rabattvertrag beachtet wer-den soll.
 
 Das „V“ Attribut kann die Werte „false“ und „true“ besitzen.
 
@@ -3295,11 +3266,11 @@ siehe Kapitel 7.3.8.7
 
 #### 7.15.1.5 bedingung
 
-Mit dem optionalen Element <bedingung> kann eine Zielvereinbarung für einzelne Fachgrup- pen definiert werden.
+Mit dem optionalen Element <bedingung> kann eine Zielvereinbarung für einzelne Fachgrup-pen definiert werden.
 
 Das Element enthält bei Vorhandensein immer das Kindelement <fachgruppen_liste>.
 
-Wenn kein Element <bedingung> vorhanden ist, dann gilt die Zielvereinbarung für alle Fach- gruppen des KV-Gebietes.
+Wenn kein Element <bedingung> vorhanden ist, dann gilt die Zielvereinbarung für alle Fach-gruppen des KV-Gebietes.
 
 **7.15.1.5.1**
 

@@ -33,6 +33,8 @@
 
 ---
 
+#### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
+
 | Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | Administrative Daten | | |
@@ -47,11 +49,9 @@
 | 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe  - Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, |
 | 9 | Datum2 2 | TT.MM.JJJJ | Pflichtfeld;  das Datum muss gleich oder kleiner zum |
 
-#### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
-
 ### Anlage 2
 
-Nr.   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem „origination_dttm“ Institutionskennzeichen  22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein
+Nr.  Institutionskennzeichen   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem „origination_dttm“ 22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein
 
 ---
 

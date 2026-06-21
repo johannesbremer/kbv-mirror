@@ -149,23 +149,13 @@ werden alle Änderungen mit Änderungsdatum, Autor,
 
 ---
 
-6.2.2 Auftragsübermittlung Einsender -> Labor .......................................................................22
+6.2.2 Auftragsübermittlung Einsender -> Labor .......................................................................22  6.2.3 Befundübermittlung Labor-> Einsender ..........................................................................22
 
-6.2.3 Befundübermittlung Labor-> Einsender ..........................................................................22
+6.3 Satzaufbau ......................................................................................................................22  6.3.1 Satz- und Objekttabellen .................................................................................................23
 
-6.3 Satzaufbau ......................................................................................................................22
+6.4 Beschreibung von Feld und Feldtabelle ..........................................................................24  6.4.1 Beschreibung des Feldaufbaus .......................................................................................24  6.4.2 Aufbau der Feldtabelle ....................................................................................................25
 
-6.3.1 Satz- und Objekttabellen .................................................................................................23
-
-6.4 Beschreibung von Feld und Feldtabelle ..........................................................................24
-
-6.4.1 Beschreibung des Feldaufbaus .......................................................................................24
-
-6.4.2 Aufbau der Feldtabelle ....................................................................................................25
-
-6.5 Regeln und Regeltabelle .................................................................................................26
-
-6.5.1 Beschreibung der Regeltabelle .......................................................................................26
+6.5 Regeln und Regeltabelle .................................................................................................26  6.5.1 Beschreibung der Regeltabelle .......................................................................................26
 
 6.6 Zeichen-Code ..................................................................................................................27
 
@@ -173,15 +163,19 @@ werden alle Änderungen mit Änderungsdatum, Autor,
 
 **IMPLEMENTIERUNGSHINWEIS**
 
+**29**
+
 **SATZTABELLEN**
 
-8.1 Satzart: L (Labor) Datenpaket Header „8220“
+**32**
 
-8.2 Satzart: L (Labor)-Datenpaket-Abschluss „8221“
+8.1 Satzart: L (Labor) Datenpaket Header „8220“ ................................................................32
 
-8.3 Satzart: P (Praxis)-Datenpaket-Header „8230“
+8.2 Satzart: L (Labor)-Datenpaket-Abschluss „8221“ ............................................................32
 
-8.4 Satzart: P (Praxis)-Datenpaket-Abschluss „8231“
+8.3 Satzart: P (Praxis)-Datenpaket-Header „8230“ ...............................................................33
+
+8.4 Satzart: P (Praxis)-Datenpaket-Abschluss „8231“ ..........................................................33
 
 8.5 Satzart: Befund „8205“ ....................................................................................................34
 
@@ -189,7 +183,11 @@ werden alle Änderungen mit Änderungsdatum, Autor,
 
 **FELDTABELLE**
 
+**38**
+
 **REGELTABELLEN**
+
+**74**
 
 10.1 Formatregeln ...........................................................................................................74
 
@@ -199,43 +197,19 @@ werden alle Änderungen mit Änderungsdatum, Autor,
 
 **LDT-OBJEKTKATALOG**
 
-11.1 Obj_Abrechnungsinformationen „Obj_0001“
+**118**
+
+11.1 Obj_Abrechnungsinformationen „Obj_0001“ .........................................................118
 
 11.2 Obj_Abrechnung GKV „Obj_0002“ ........................................................................119
 
 11.3 Obj_Abrechnung PKV „Obj_0003“ ........................................................................121
 
-11.4 Obj_Abrechnung Ige-Leistungen „Obj_0004“
+11.4 Obj_Abrechnung Ige-Leistungen „Obj_0004“ ........................................................122
 
-11.5 Obj_Abrechnung sonstige Kostenuebernahme „Obj_0005“
+11.5 Obj_Abrechnung sonstige Kostenuebernahme „Obj_0005“..................................123
 
-11.6 Obj_Abrechnung Selektivvertrag „Obj_0006“
-
-**29**
-
-**32**
-
-................................................................32
-
-............................................................32
-
-...............................................................33
-
-..........................................................33
-
-**38**
-
-**74**
-
-**118**
-
-.........................................................118
-
-........................................................122
-
-..................................123
-
-........................................................124
+11.6 Obj_Abrechnung Selektivvertrag „Obj_0006“ ........................................................124
 
 
 ---
@@ -495,7 +469,7 @@ verstehen  2 Natürliche Personen sind in der Satzbeschreibung nicht separat auf
 
 alle weiteren Aufgaben zur Stammdatenerfassung, Abrechnung und zur Definition des Befundempfängers.
 
-***führendes*** System  (PVS), Arzt- (KIS), Labor-
+***führendes*** System  (PVS), Arzt-(KIS), Labor-
 
 elektronischen Verwaltung
 
@@ -569,7 +543,7 @@ Der LDT ist ein Standard der XDT-Familie und wird von der KBV gepflegt und  weit
 
 Der LDT 3 (im Weiteren LDT genannt) bildet in seiner jetzigen Version einen deutlich  umfangreicheren Bereich von Prozessen ab, welche bei der Kommunikation  zwischen Einsendern und Laboren bzw. zwischen Laboren im Rahmen von  diagnostischen Anforderungen auftreten können. Dabei wurden Satzarten erweitert  und Objekte bereitgestellt, mit deren Hilfe neben den Leistungen der gesetzlichen  Krankenversicherung auch Selektivverträge, Leistungen der privaten  Krankenversicherung und sonstige Laborleistungen abgebildet werden können.  Genauso ist eine Nutzung des LDT von nichtmedizinischen Einrichtungen möglich,  sofern eine elektronische Kommunikationsverbindung zwischen Auftraggeber und  Labor besteht.
 
-Im LDT werden die Daten der Beauftragung von Leistungen im laboratoriums- medizinischen Kontext in der Satzart 8215 transportiert.
+Im LDT werden die Daten der Beauftragung von Leistungen im laboratoriums-medizinischen Kontext in der Satzart 8215 transportiert.
 
 In die Wertetabelle der E053 für die Feldkennung FK 9970 (Dokumententyp) wurde  der Wert „900“ (LDT-Datensatz) aufgenommen. Dadurch wird es möglich, im Objekt  „Anhang“ (Obj_0010) einen für den Patienten bereits vorliegenden LDT -Datensatz  als base64-kodierten Inhalt so zu übertragen, dass das empfangende System  diesen auch korrekt interpretieren kann. Somit kann z.B. bei der Beauftragung von  Laborleistungen dem Empfänger mitgeteilt werden, welche Befunddaten bereits für  diesen Patienten vorliegen.
 
@@ -579,7 +553,7 @@ Die Satzarten 8230/8231 (Datenpaket Header und Abschluss Praxis) und  8220/8221 
 
 Die einzelnen Prozessschritte wurden in Informationsobjekten, im Folgenden als  Objekt bezeichnet, zusammengefasst. Der Aufbau der einzelnen Objekte ist im  Objektkatalog LDT beschrieben. Objekte, die Prozessschritte beschreiben, die an  mehreren Stellen des Gesamtprozesses auftreten, sind in diese Objekte integriert.
 
-Die Referenzierung der Aufträge, Untersuchungsanforderungen und Befund- berichte auf die entsprechenden Kataloge erfolgt immer auf der untersten  Vorkommensebene. Dadurch ist es möglich, pro Untersuchungsanforderung,  Laborbefundbericht oder sogar Untersuchungsergebnis, sowie in der  Untersuchungsabrechnung jeweils verschiedene Kataloge oder Terminologien zu  verwenden.
+Die Referenzierung der Aufträge, Untersuchungsanforderungen und Befund-berichte auf die entsprechenden Kataloge erfolgt immer auf der untersten  Vorkommensebene. Dadurch ist es möglich, pro Untersuchungsanforderung,  Laborbefundbericht oder sogar Untersuchungsergebnis, sowie in der  Untersuchungsabrechnung jeweils verschiedene Kataloge oder Terminologien zu  verwenden.
 
 
 ---
@@ -594,7 +568,7 @@ Die im KVDT vorhandene Feldkennung FK 4205 (Freitextfeld)  entfernt.
 
 Anstelle dieser Feldkennung werden für die strukturierte Definition des Auftrages  die Objekte Obj_0013 (Obj_Auftragsinformation),  (Obj_Untersuchungsanforderung) und für alle weitergehenden Informationen, die in  den vorgenannten Objekten nicht transportiert werden können,  8167 mit dem Verweis auf das Obj_Fließtext genutzt.
 
-Es ist hier für die Umsetzung der Datensatzbeschreibung für die Software- Entwickler deutlich schneller und transparenter nachzuvollziehen, in welchen  Feldkennungen Freitexte bzw. strukturierte Daten zu erwarten sind.
+Es ist hier für die Umsetzung der Datensatzbeschreibung für die Software-Entwickler deutlich schneller und transparenter nachzuvollziehen, in welchen  Feldkennungen Freitexte bzw. strukturierte Daten zu erwarten sind.
 
 ***Grundsätzlich sollten bei der Interpretation der vorliegenden Unterlagen***  ***folgende Punkte beachtet werden:***
 
@@ -680,7 +654,7 @@ Untersuchu
 
 ngs-
 
-ngs- anforderung
+ngs-anforderung
 
 anforderung
 
@@ -702,29 +676,21 @@ nis-bericht
 
 Satzart 8205
 
+Obj_Patient
+
+Obj_Einsenderidentifikation
+
 Definition „Order/Entry System“ siehe unter 3.2
 
-Wie bereits erwähnt, wird der LDT auch oft für Teilprozesse innerhalb der  Laborinfrastruktur eingesetzt.  Kommunikationswege. Mit den erweiterten Inhalten des LDT wurde sichergestellt,  dass auch bei der Abbildung  Laborleistungen an weitere Leistungserbringer alle notwendigen Informationen in  elektronischer Form übermittelt  Voraussetzungen für die Implementierung von papierlosen Verfahren durch die  Definition des Objektes „Obj_Anhang“
+Wie bereits erwähnt, wird der LDT auch oft für Teilprozesse innerhalb der  Laborinfrastruktur eingesetzt. Damit ergeben  Kommunikationswege. Mit den erweiterten Inhalten des LDT wurde sichergestellt,  dass auch bei der Abbildung von Teilprozessen  Laborleistungen an weitere Leistungserbringer alle notwendigen Informationen in  elektronischer Form übermittelt werden können.  Voraussetzungen für die Implementierung von papierlosen Verfahren durch die  Definition des Objektes „Obj_Anhang“ geschaffen.
 
 **4.1.1** **Teilprozess – Übergabe Daten aus Scansystem**
 
 Scansystem
 
-Über das Scansystem werden die Aufträge verschiedener Einsender, die in  Papierform an das Labor gestellt werden, erfasst und dann ein vollständiger LDT  generiert. Dabei ist das sendende System das eingesetzte System für die  maschinelle Schrift- (OCR) und Markierungserkennung (OMR).
-
-Obj_Patient
-
-Obj_Einsenderidentifikation
-
-Damit ergeben
-
-von Teilprozessen
-
-werden können.
-
-geschaffen.
-
 **LIS**
+
+Über das Scansystem werden die Aufträge verschiedener Einsender, die in  Papierform an das Labor gestellt werden, erfasst und dann ein vollständiger LDT  generiert. Dabei ist das sendende System das eingesetzte System für die  maschinelle Schrift- (OCR) und Markierungserkennung (OMR).
 
 Obj_Veranlassung sgrund
 
@@ -738,7 +704,7 @@ Obj_  Untersuchu
 
 Untersuchu ngs-
 
-ngs- anforderung
+ngs-anforderung
 
 anforderung
 
@@ -801,7 +767,7 @@ jeder Auftragsdatensatz kann
 
 **Order Entry**
 
-werden die Patientenstamm-, Abrechnungs-  systemeigene Auftragsnummer  ID ist für die nachfolgende Zuordnung des Befundes  im Primärsystem empfehlenswert.  einschließlich der Kürzellisten
+werden die Patientenstamm-, Abrechnungs- systemeigene Auftragsnummer  ID ist für die nachfolgende Zuordnung des Befundes  im Primärsystem empfehlenswert.  einschließlich der Kürzellisten
 
 **Primärsystem**
 
@@ -938,6 +904,12 @@ Objektattribut n  Satzende
 
 Ein **Objekt** ist wiederum unterteilt in Felder und/oder Objektattribute:
 
+**Objekt**  Objektident
+
+Feld 1
+
+Feldn   Objektattribut 1
+
 Jedes **Feld** hat den folgenden Aufbau:
 
 **6.2** **Satzarten**
@@ -961,12 +933,6 @@ P-Datenpaket-Abschluss
 **6.2.1** **Anordnung**
 
 Mit der Einführung des LDT wird generell davon ausgegangen, dass eine  Übertragung von Dateien mittels Datenträger (Disketten, CD oder USB-Stick) nicht
-
-**Objekt**  Objektident
-
-Feld 1
-
-Feldn   Objektattribut 1
 
 Objektattribut n
 
@@ -1058,20 +1024,29 @@ Die Satz- und Objekttabellen definieren die Struktur der Sätze bzw. Objekte und
 
 Jede Satz- bzw. Objekttabelle gibt die zulässigen Objekte und Felder der Satzart  bzw. des Objektes und deren Anordnung vor.
 
-### Die Felder sind durch die Feldkennung (FK) bezeichnet.  erfolgt in der Feldtabelle
+### Die Felder sind durch die Feldkennung (FK) bezeichnet. Die Definition der Felder  erfolgt in der Feldtabelle
 
 In den Satz- bzw. Objekttabellen werden nur die Objektattribute mit dem Verweis
 
-### auf das verwendete Objekt einzeln aufgeführt. Die Hierarchie ist dem Objektkatalog zu entnehmen.
+### auf das verwendete Objekt einzeln aufgeführt. Die Hierarchie ist dem Objektkatalog  zu entnehmen.
+
 ### Objekte werden immer durch Objektattribute (siehe oben) eingeleitet und in  Feldkennung 8002 mit einer eindeutigen Bezeichnung  identifiziert (siehe  Implementierungshinweis
 
 Zu jedem Feld ist in der Satz- bzw. Objekttabelle ein Eintrag vorhanden:
 
 ### Beispiel:
 
-**FK Vorkommen**  **1 2 3 4**
+**FK Vorkommen Feld-/Objektbezeichnung**
+
+**Feldart Regel**
+
+**Erläuterung**  **1 2 3 4**
 
 8000 1
+
+Satzidentifikation
+
+M
 
 ### Dabei ist den einzelnen Einträgen folgende Bedeutung zugeordnet:
 
@@ -1103,14 +1078,6 @@ zugewiesen, d. h. das Auftreten des Feldes bzw. Objektes wird an die Existenz  e
 
 ### Beispiel:
 
-**FK**
-
-**1 2**  8002 1 8239  1  7352
-
-**Feld-/Objektbezeichnung**
-
-Satzidentifikation
-
 **Bedeutung**
 
 zulässige Feldkennung
@@ -1121,27 +1088,7 @@ Hinweise zum Feld im Kontext des Vorkommens
 
 ### die Einträge, die beliebig oft vorhanden sein können.
 
-**Vorkommen**
-
-**3 4 5**
-
-Feld 8002 kann nur einmal im Objekt vorkommen
-
-Feld 8239 kann nur einmal je Feld 8002 vorkommen
-
-n
-
-Feld 7352 kann beliebig oft je Feld 8239 vorkommen
-
-### Die Definition der Felder
-
-**Feldart Regel**
-
-M
-
 Objekt ausgeführt werden
-
-**Erläuterung**
 
 **Beispiel**
 
@@ -1150,6 +1097,20 @@ Objekt ausgeführt werden
 Arztnummer (LANR)
 
 ### ben.
+
+**FK**
+
+8002  8239
+
+7352
+
+**Vorkommen**
+
+**1 2 3 4**  1     1     n
+
+**5**
+
+Feld 8002 kann nur einmal im Objekt vorkommen  Feld 8239 kann nur einmal je Feld 8002 vorkommen  Feld 7352 kann beliebig oft je Feld 8239 vorkommen
 
 
 ---
@@ -1184,20 +1145,33 @@ Gemäß der Feldkennung wird der zugehörige Eintrag in der Feldtabelle zur  Erz
 
 **Länge**
 
+**Bedeutung**
+
 Länge 3 Bytes
+
+Angabe der Feldlänge
 
 Kennung 4 Bytes
 
-| Inhalt | Variabel | Daten |
-|---|---|---|
-| Ende | 2 Bytes | Wert 13 = CR (Wagenrücklauf), gefolgt von Wert 10 = LF |
-|  |  | (Zeilenvorschub), dargestellt im Code ISO/IEC 6429 |
+Feldkennung
 
-### Für die Längenberechnung eines Feldes gilt die Regel:
+Inhalt
+
+Variabel
+
+Daten
+
+Wert 13 = CR (Wagenrücklauf), gefolgt von Wert 10 = LF
+
+Ende 2 Bytes
+
+(Zeilenvorschub), dargestellt im Code ISO/IEC 6429
+
+### Für die Längenberechnung eines Feldes gilt die Regel:  Länge des Feldteils “Inhalt” + 9
 
 ### In diesem Zusammenhang ist zu beachten, dass es nicht zulässig ist, „leere” Felder,
 
-d. h. ohne Feldinhalt bzw. nur mit Leerzeichen gefüllt, zu übertragen.
+d. h. ohne Feldinhalt bzw. nur mit Leerzeichen gefüllt, zu übertragen. Ausnahmen
 
 ### werden in der Feld- und Regeltabelle definiert.
 
@@ -1213,20 +1187,36 @@ d. h. ohne Feldinhalt bzw. nur mit Leerzeichen gefüllt, zu übertragen.
 
 **Inhalt**
 
+**Bedeutung**
+
+**Beispiel**
+
 FK
+
+Feldkennung, Identifikation 3103
 
 Inhalt
 
+Bezeichnung des Feldes
+
+Geburtsdatum
+
 Feldlänge3F3 F4
 
+Feldlänge in Bytes 8
+
 Format
+
+Formattyp
+
+d
 
 | Regel | Verweis auf in Regeltabelle definierte Regeln | F003 |
 |---|---|---|
 | Erlaubte Inhalte und deren | Erläuterung der möglichen Inhalte, der Herkunft | Datum der |
 | Bedeutung | der Informationen oder der Quellen | Geburt |
 
-### Der Eintrag in der Spalte
+### Der Eintrag in der Spalte „Feldlänge“ definiert, aus wie vielen Zeichen (Bytes) ein
 
 Feldinhalt bestehen darf. Dafür steht eine maximale Feldlänge von 990 Zeichen
 
@@ -1236,49 +1226,14 @@ vereinbart werden können. Durch das  - Zeichen mit nachfolgendem Zahlenwert
 
 ### n) wird der Feldinhalt auf eine maximale Länge beschränkt.
 
-### Für den Eintrag in der Spalte num = numerisch
-(bei festen Feldlängen ist das Feld mit führenden Nullen aufzufüllen variablen Feldlängen dürfen keine führenden Nullen übertragen werden
+### Für den Eintrag in der Spalte „Format“ sind folgende Formattypen definiert: num = numerisch
+(bei festen Feldlängen ist das Feld mit führenden Nullen aufzufüllen , bei  variablen Feldlängen dürfen keine führenden Nullen übertragen werden
 
 ### alnum = alphanumerisch
 
-4 wird die Feldkennung im LDT nicht verwendet, so ist dieses Feld mit dem Hinweis „
-
-leer
-
-**Bedeutung**
-
-Angabe der Feldlänge
-
-Feldkennung
-
-### Länge des Feldte ils “Inhalt” + 9
-**Bedeutung**
-
-Feldkennung, Identifikation
-
-Bezeichnung des Feldes
-
-Feldlänge in Bytes
-
-Formattyp
-
-### „Feldlänge“ definiert, aus wie vielen Zeichen (Bytes) ein
-
-### „Format“ sind folgende Formattypen definiert:
+4 wird die Feldkennung im LDT nicht verwendet, so ist dieses Feld mit dem Hinweis „ leer
 
 LDT“ gefüllt, alle weiteren Spalten bleiben
-
-### Ausnahmen
-
-**Beispiel**
-
-3103
-
-Geburtsdatum 8
-
-d
-
-, bei
 
 
 ---
@@ -1371,7 +1326,7 @@ Mögliche Statuswerte sind:
 
 wird nur im Bereich der kassenärztlichen Versorgung verwendet
 
-wird nur außerhalb der kassenärztlichen Versorgung verwendet Regeln werden nicht im Prüfmodul der KBV geprüft, eine Prüfung muss  durch die jeweiligen Softwaresysteme vorgenommen werden.
+wird nur außerhalb der kassenärztlichen Versorgung verwendet Diese  Regeln werden nicht im Prüfmodul der KBV geprüft, eine Prüfung muss  durch die jeweiligen Softwaresysteme vorgenommen werden.
 
 wird in beiden Bereichen verwendet
 
@@ -1393,17 +1348,17 @@ Es darf nur der Zeichencode ISO 8859-15 verwendet werden.
 
 Dieser  Gesundheitskarte), sodass nach dem Einlesen und Weiterverarbeiten die Daten  ohne Veränderung übernommen werden können.
 
-| Dec 0 | 16 32 4896 | 64 80 | 112 128 | 144 160 176 | 192 208 | 224 240 |
+| Dec 0 | 16 32 4880 | 64 | 96 112 128 | 144 160 176 | 192 208 | 224 240 |
 |---|---|---|---|---|---|---|
 |  Hex **0** | **1 2 3** | **4 5** | **6 7 8** | **9 A B** | **C D** | **E F** |
-| **0** | SP 0**`0** | @ P | p | ° | À Ð | à ð |
-| **1** | ! 1**a1** | A Q | q | ¡ ± | Á Ñ | á ñ |
-| **2** | „ 2**b2** | B R | r | ¢ ² | Â Ò | â ò |
-| **3** | # 3**c3** | C S | s | £ ³ | Ã Ó | ã ó |
-| **4** | $ 4**d4** | D T | t | € Ž | Ä Ô | ä ô |
-| **5** | % 5**e5** | E U | u | ¥ µ | Å Õ | å õ |
-| **6** | & 6**f6** | F V | v | Š ¶ | Æ Ö | æ ö |
-| **7** | ‚ 7**g7** | G W | w | § · | Ç × | ç ÷ |
+| **0** | SP 0**P0** | @ | ` p | ° | À Ð | à ð |
+| **1** | ! 1**Q1** | A | a q | ¡ ± | Á Ñ | á ñ |
+| **2** | „ 2**R2** | B | b r | ¢ ² | Â Ò | â ò |
+| **3** | # 3**S3** | C | c s | £ ³ | Ã Ó | ã ó |
+| **4** | $ 4**T4** | D | d t | € Ž | Ä Ô | ä ô |
+| **5** | % 5**U5** | E | e u | ¥ µ | Å Õ | å õ |
+| **6** | & 6**V6** | F | f v | Š ¶ | Æ Ö | æ ö |
+| **7** | ‚ 7**W7** | G | g w | § · | Ç × | ç ÷ |
 | **8 8** | ( 8 | H X | h x | š ž | È Ø | è ø |
 | **9 9** | ) 9 | I Y | i y | © ¹ | É Ù | é ù |
 | **10 A** LF | * : | J Z | j z | ª º | Ê Ú | ê ú |
@@ -1417,14 +1372,7 @@ Information/Hinweis
 
 #### Zeichen-Code
 
-Standard entspricht dem
-
-Standard
-
-der eGK
-
-Diese (elektronischen
-
+Standard entspricht dem Standard der eGK (elektronischen
 
 ---
 
@@ -1788,7 +1736,7 @@ Obj_0045 (Obj_Patient)
 
 Koerperkenngroessen
 
-Obj_0069 (Obj_Koerper- kenngroessen)
+Obj_0069 (Obj_Koerper-kenngroessen)
 
 Schwangerschaft
 
@@ -2272,7 +2220,7 @@ num
 
 alnum
 
-Die lebenslange Arztnummer, kurz LANR, ist eine neunstellige Nummer, die die zuständige  F011  Kassenärztliche Vereinigung bundesweit an jeden Arzt vergibt, der an der vertragsärztlichen  K020  Versorgung (siehe auch GKV) teilnimmt. Sie ist durch das Vertragsarztrechtsänderungs- K115 gesetz (VändG) zusammen mit der Betriebsstättennummer (BSNR) für jede kassenärztliche  K116 Praxis in Deutschland gesetzlich vorgeschrieben und durch die Flexibilisierung der  vertragsärztlichen Tätigkeit notwendig geworden.
+Die lebenslange Arztnummer, kurz LANR, ist eine neunstellige Nummer, die die zuständige  F011  Kassenärztliche Vereinigung bundesweit an jeden Arzt vergibt, der an der vertragsärztlichen  K020  Versorgung (siehe auch GKV) teilnimmt. Sie ist durch das Vertragsarztrechtsänderungs-K115 gesetz (VändG) zusammen mit der Betriebsstättennummer (BSNR) für jede kassenärztliche  K116 Praxis in Deutschland gesetzlich vorgeschrieben und durch die Flexibilisierung der  vertragsärztlichen Tätigkeit notwendig geworden.
 
 Gemäß § 293 SGB V wird bei der Datenübermittlung zwischen den gesetzlichen   Krankenkassen und den Leistungserbringern ein IK als eindeutige Identifizierung verwendet.
 
@@ -3787,29 +3735,21 @@ E063 z.B. Mammapunktat, Rektumabstrich
 
 8000
 
-8001
-
-8002
-
-8003
-
-**Mit den Feldkennungen 8101 bis 8299 folgen die Objektattribute, nach denen Objekte auftreten müssen.**
-
-Diese Felder definieren die Verwendung bzw. den Verwendungszweck eines Objekts im Kontext seines Auftretens. Daher können ver (n:1 Beziehung). Als Inhalt dieser Felder wird jeweils die Feldbezeichnung als Freitext angeg beinhaltet, angegeben werden, ob es sich um die Akutdiagnose oder die Dauerdiagnose handelt. Die Objekte werden so in ihrer D Verwendungszweck und der Verwendun
-
 Fachgebiet
 
 kastriert/sterilisiert
 
 Sterbedatum des  Patienten
 
-Satzart
+Satzart 8001 Satzende
 
-Satzende
+8002 Objektident
 
-Objektident
+8003 Objektende
 
-Objektende 1
+**Mit den Feldkennungen 8101 bis 8299 folgen die Objektattribute, nach denen Objekte auftreten müssen.**
+
+Diese Felder definieren die Verwendung bzw. den Verwendungszweck eines Objekts im Kontext seines Auftretens. Daher können ver (n:1 Beziehung). Als Inhalt dieser Felder wird jeweils die Feldbezeichnung als Freitext angeg beinhaltet, angegeben werden, ob es sich um die Akutdiagnose oder die Dauerdiagnose handelt. Die Objekte werden so in ihrer Darstellung unabhängiger vom  Verwendungszweck und der Verwendun 1
 
 num 1
 
@@ -3848,8 +3788,6 @@ E066
 eben. Beispielsweise kann so vor einem Objekt, welches eine Diagnose
 
 schiedene Felder ein Objekt einleiten
-
-arstellung unabhängiger vom
 
 
 ---
@@ -5467,9 +5405,15 @@ F
 
 03 = Einsender sonstige  04 = Versicherter  05 = Rechnungsempfänger  06 = Bevollmächtigter  11 = Halter (eines Tieres)  12 = Patient  15 = staatliche Einrichtung  16 = sonstige juristische Person  90 = sonstige medizinische Einrichtung 0, 1, 2, 3 4, 5
 
-0 = nicht getestet  1 = sensibel/wirksam  2 = mäßig sensibel/schwach wirksam  3 = resistent/unwirksam  4 = wirksam in hohen Konzentrationen  5 = natürliche Resistenz 1, 2
+1, 2
 
-1 = Verdacht auf infektiös  2 = gesichert infektiös 1, 2
+1, 2
+
+0 = nicht getestet
+
+1 = sensibel/wirksam  2 = mäßig sensibel/schwach wirksam  3 = resistent/unwirksam  4 = wirksam in hohen Konzentrationen  5 = natürliche Resistenz
+
+1 = Verdacht auf infektiös  2 = gesichert infektiös
 
 **1** = Notfall/intraoperativ  *Es besteht der Verdacht bzw. der Patient ist vital bedroht oder der Befund ist für*  *das weitere operative Vorgehen maßgeblich. Für die Differentialdiagnostik ist die*  *unverzügliche Erbringung und Übermittlung der Laborbefunde unabdingbar (z.B.*  *Troponin zum Ausschluss akuter Myokardinfarkt, PTH bei Nebenschilddrüsen* *OP, histologische Schnellschnitte bei Ablation mammae).*
 
@@ -5984,13 +5928,11 @@ UTC−2,  UTC+2 UTC+3 UTC+5  UTC+6 UTC+6:30 UTC+9  UTC+10:30 UTC+11 UTC+13
 
 Dient der Sicherstellung der Integrität der Daten in der Datei.
 
-Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die  entsprechende, in  mitteleuropäischen Staaten geltende Mitteleuropäische Zeit (ME man eine Stunde addiert. Die im Sommer geltende Mitteleuropäische  Sommerzeit (MESZ) erhält man, indem man zwei Stunden addiert.
+Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die  entsprechende, in Deutschland,  mitteleuropäischen Staaten geltende Mitteleuropäische Zeit (ME man eine Stunde addiert. Die im Sommer geltende Mitteleuropäische  Sommerzeit (MESZ) erhält man, indem man zwei Stunden addiert.
 
 UTC+1 entspricht MEZ   UTC+2 entspricht MESZ
 
 0 = Sonstige*  1 = Pathologie  2 = Humangenetik  3 = Molekulargenetik
-
-Deutschland,
 
 Österreich und anderen  Z), indem
 
@@ -7073,17 +7015,21 @@ Hier werden alle Angaben für die Abrechnung von Untersuchungsanforderungen in d
 
 Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungsanforderungen zusammengefasst, die im Regelleistungskatalog der Krankenkassen  vorhanden sind oder anderweitig z.B. über eDMP dem Patienten zugeordnet werden können.
 
+**Obj_Abrechnung GKV**
+
 **FK**
 
 **Vorkommen**
 
-**1 2 3**
+**Feld-/Objektbezeichnung**
+
+**1 2 3 4 5**
 
 8002 1
 
-4239  1
+ObjektIdent 4239  1
 
-4134  1
+Scheinuntergruppe 4134  1
 
 4104  1
 
@@ -7098,16 +7044,6 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 4109  1
 
 4133  1
-
-**Obj_Abrechnung GKV**
-
-**Feld-/Objektbezeichnung**
-
-**4 5**
-
-ObjektIdent
-
-Scheinuntergruppe
 
 Kostentraegername
 
@@ -7226,7 +7162,7 @@ Covid-Beauftragung
 
 Lebenslange Arztnummer des Erstveranlassers (LANR)
 
-Pseudo-LANR für Krankenhausärzte im Rahmen der ASV-  Abrechnung des Erstveranlassers (N)BSNR des Erstveranlassers
+Pseudo-LANR für Krankenhausärzte im Rahmen der ASV-Abrechnung des Erstveranlassers (N)BSNR des Erstveranlassers
 
 ASV-Teamnummer des Erstveranlassers
 
@@ -12075,11 +12011,9 @@ M
 
 ### Empfehlung zur Übermittlung von HPV-Befunden im Rahmen der oKFE-Richtlinie Zervixkarzinom im Objekt Obj_0060
 
-Im Programm zur Früherkennung von Zervixkarzinomen gemäß der Richtlinie für organisierte Krebsfrüherkennungsprogramme ist vorgesehen, dass die HPV- Untersuchung von der zytologisch tätigen Ärztin / dem zytologisch tätigen Arzt als Unterauftrag an ein Labor zur Analy se weitergereicht werden kann. Dazu wird unter
+Im Programm zur Früherkennung von Zervixkarzinomen gemäß der Richtlinie für organisierte Krebsfrüherkennungsprogramme ist vorgesehen, dass die HPV-Untersuchung von der zytologisch tätigen Ärztin / dem zytologisch tätigen Arzt als Unterauftrag an ein Labor zur Analy se weitergereicht werden kann. Dazu wird unter  Verwendung von Muster 10 der Auftrag „P HPV“ oder „A HPV“ als präventive Untersuchung erteilt.
 
-Verwendung von Muster 10 der Auftrag „P
-
-Damit das Befundergebnis automatisiert in das Obj_Untersuchungsergebnis Krebsfrüherkennung Zervix - Obj_Untersuchungsergebnis Klinische Chemie „Obj_0060“ wie folgt übermittelt werden:
+Damit das Befundergebnis automatisiert in das Obj_Untersuchungsergebnis Krebsfrüherkennung Zervix -Obj_Untersuchungsergebnis Klinische Chemie „Obj_0060“ wie folgt übermittelt werden:
 
 **Feld**
 
@@ -12091,29 +12025,17 @@ Damit das Befundergebnis automatisiert in das Obj_Untersuchungsergebnis Krebsfr�
 | Testmethode | 7302 | Analysegerätes bzw. PCR- | beliebiger alphanumerischer Text | Abbott Alinity |
 |  |  | Testkits |  |  |
 
-Darstellung  Ergebniswerte
+**Feldkennung Inhalt**
 
-Ergebnis-Wert
+Darstellung 7306  Ergebniswerte
 
-Einheitensystem des  Messwertes / Wertes
+Ergebnis-Wert 8420
 
-Normalwert
+Einheitensystem des  8419  Messwertes / Wertes
+
+Normalwert 8142
 
 * die Syntax ist in Erweiterter Backus-Naur-Form (EBNF) dargestellt.
-
-**Feldkennung**
-
-7306
-
-8420
-
-8419
-
-8142
-
-HPV“ oder „A HPV“ als präventive Untersuchung erteilt.
-
-**Inhalt**
 
 Trinäres Testergebnis
 
@@ -12141,9 +12063,11 @@ Karzinom „Obj_0062 übernommen werden kann , sollte es im
 
 ---
 
-**11.44** **Obj_Untersuchungsergebnis Mikrobiologie „Obj_**
+**11.44** **Obj_Untersuchungsergebnis Mikrobiologie „Obj_0061“**
 
 In diesem Objekt werden die Ergebnisse aus dem Bereich Mikrobiologie transportiert. Um diese Daten strukturiert zu übertragen hierarchische Vorgehensweise definiert: Ausgangspunkt ist immer das Material und die dazugehörige Anforderung. Aus diesen Anforderungen erfolgt über verschiedene  Nachweisverfahren eine Stufendiagnostik zur Keimbestimmung, optional die Bestimmung der Breakpunkte bzw. MHK´s  Antibiotika. Die Erregermenge wird als semiquantitatives Ergebnis abhängig des Untersuchungsmaterials dargestellt.
+
+**Obj_Untersuchungsergebnis Mikrobiologie**
 
 | FK |  |  | Vorkommen |  |
 |---|---|---|---|---|
@@ -12167,10 +12091,6 @@ In diesem Objekt werden die Ergebnisse aus dem Bereich Mikrobiologie transportie
 |  | 7354 | n |  |  |
 |  | 7355 |  | 1 |  |
 |  | 7427 |  | 1 |  |
-
-**0061“**
-
-**Obj_Untersuchungsergebnis Mikrobiologie**
 
 **Feld-/Objektbezeichnung**
 

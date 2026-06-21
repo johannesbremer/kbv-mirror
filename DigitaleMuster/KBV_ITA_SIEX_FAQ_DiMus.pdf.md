@@ -168,7 +168,7 @@ Zur Auswahl des korrekten Kostenträgernamens gelten die bisherigen Vorgaben aus
 
 Dies bedeutet, dass wenn eine eAU oder ein eRezept zulasten einer gesetzlichen Krankenkasse ausgestellt  wird, dass der korrekte Kostenträgername zur Bedruckung aus der Kostenträgerstammdatei ermittelt  werden muss.
 
-In diesem Zusammenhang müssen die KVDT-Anforderung P2-210 (FALL 1 - IK ist gültig) und P2-220 (FALL 2 -  Aufnehmender Kostenträger, Fusion sowie ggf. die Anforderung) sowie ggf. P2-320 (Versichertenkarten mit  Besonderer Personengruppe "00", "04","06", "07", "08", "09") beachtet werden.
+In diesem Zusammenhang müssen die KVDT-Anforderung P2-210 (FALL 1 - IK ist gültig) und P2-220 (FALL 2 - Aufnehmender Kostenträger, Fusion sowie ggf. die Anforderung) sowie ggf. P2-320 (Versichertenkarten mit  Besonderer Personengruppe "00", "04","06", "07", "08", "09") beachtet werden.
 
 Es ist zu beachten, dass bei der Ausstellung einer eAU oder eines eRezepts für einen GKV-Versicherten im  Rahmen eines berufsgenossenschaftlichen Falles (z.B. bei einem Arbeitsunfall) der Kostenträgername des  berufsgenossenschaftlichen Kostenträgers zu setzen ist (siehe hierzu den Hinweis zur Anforderung P4-04  des Technischen Handbuches Digitale Muster).
 
@@ -362,4 +362,4 @@ Versicherten erstellt werden. Die
 
 . Das heißt, die
 
-den Eco- oder vergleichbaren Sparmodus der  verzichtet werden. Bei geringerer  Data- Versicherte führt.
+den Eco- oder vergleichbaren Sparmodus der  verzichtet werden. Bei geringerer  Data-Versicherte führt.

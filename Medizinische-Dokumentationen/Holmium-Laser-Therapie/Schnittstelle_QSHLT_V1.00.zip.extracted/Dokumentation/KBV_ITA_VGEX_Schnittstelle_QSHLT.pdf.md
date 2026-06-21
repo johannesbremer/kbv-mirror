@@ -206,19 +206,19 @@ Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 0
 
 Im Rahmen von QS-Vereinbarung Holmium-Laser-Therapie [1] wird jährlich eine Statistik in  der Arztpraxis erstellt und an die Datenannahmestelle versendet.
 
-Die Schnittstelle QS Holmium-Laser-Therapie ermöglicht es einem Arztinformationssystem  (AIS) bzw. Praxisverwaltungssystem (PVS), die Statistik an die Datenannahmestelle zu über- tragen.
+Die Schnittstelle QS Holmium-Laser-Therapie ermöglicht es einem Arztinformationssystem  (AIS) bzw. Praxisverwaltungssystem (PVS), die Statistik an die Datenannahmestelle zu über-tragen.
 
-Dieses Dokument beschreibt die Schnittstelle QS Holmium-Laser-Therapie. Die Schnittstelle  ist gemäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML- Struktur von XSD-Schemata [2]
+Dieses Dokument beschreibt die Schnittstelle QS Holmium-Laser-Therapie. Die Schnittstelle  ist gemäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML-Struktur von XSD-Schemata [2]
 
 ## 1.1 Zweck des Dokuments
 
 Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle eDoku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
 
-Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnittstelle einzu- reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
+Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnittstelle einzu-reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
 
 ## 1.2 Zielgruppen
 
-Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste- men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
+Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste-men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
 
 
 ---
@@ -264,7 +264,7 @@ Es existieren verschiedene Kardinalitäten:
 
 ## 3.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
+Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
 | Symbol | Beschreibung |
 |---|---|
@@ -296,9 +296,9 @@ zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema de
 
 # 4. Beschreibung der ehd-Schnittstelle
 
-Die Schnittstelle „QS Holmium-Laser-Therapie“ basiert auf  entspricht die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body- Bereich werden eigene Elemente definiert, die im Kapitel
+Die Schnittstelle „QS Holmium-Laser-Therapie“ basiert auf  entspricht die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body-Bereich werden eigene Elemente definiert, die im Kapitel
 
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten.
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be-achten.
 
 Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kindelementen  stellt ist.
 
@@ -349,7 +349,7 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eH
 
 Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
-[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele- mente eingeschränkt:
+[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-mente eingeschränkt:
 
 -  *Id*-Element: Die ID muss eindeutig sein. Dazu werden in die Attribute folgende Daten  eingetragen:
 - o Im EX-Attribut steht eine eindeutige id (GUID)
@@ -377,19 +377,19 @@ Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
 **XML-Code 2 - document_relationship**
 
--   Betriebsstätte (BSNR).  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und
+-  Betriebsstätte (BSNR).  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und
 - o Die Vorgaben im *provider/person*-Element enthalten:
 
 Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  Arztnummer, RT-Attribut enthält den String „1.2.276.0.76.4.16“)
 
 - o Die Vorgaben im *provider/organization*-Element enthalten:
 
-Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- nummer RT-Attribut enthält den String „1.2.276.0.76.4.17“)
+Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten-nummer RT-Attribut enthält den String „1.2.276.0.76.4.17“)
 
 **Abbildung 5 - Element provider**
 
 -  Im *Interface*-Element werden die Schnittstellendaten eingegeben:
-- o *id*-Element im EX-Attribut ist der Wert „QSHLT“ fest vorgeschrieben. RT- Attribut enthält den Wert: „1.2.276.0.76.5.109“.
+- o *id*-Element im EX-Attribut ist der Wert „QSHLT“ fest vorgeschrieben. RT-Attribut enthält den Wert: „1.2.276.0.76.5.109“.
 - o *interface.nm*-Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“  fest vorgeschrieben.
 - o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
@@ -435,7 +435,7 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
@@ -487,11 +487,11 @@ Teil 2 <anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_ei
 
 ### 4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation
 
-Die Anzahl (nonNegativeInteger) der Eingriffe mit absoluter OP-Indikation wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Eingriffe mit absoluter OP-Indikation wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
 ### 4.3.4 anzahl_ eingriffe_mit_relativer_op_indikation
 
-Die Anzahl (nonNegativeInteger) der Eingriffe mit relativer OP-Indikation wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Eingriffe mit relativer OP-Indikation wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
 ### 4.3.5 anzahl_prostatavolumen_0_24
 
@@ -522,7 +522,7 @@ Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit größer 0 bis 9,9 m
 
 ### 4.3.11
 
-Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit 10 bis 15 ml/s wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit 10 bis 15 ml/s wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
 ### 4.3.12
 
@@ -530,15 +530,15 @@ Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit mehr als 15 ml/s wir
 
 ### 4.3.13
 
-Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Bla- senverletzungen wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
+Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Bla-senverletzungen wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
 ### 4.3.14
 
-Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ver- letzung der Harnleiterostien wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ver-letzung der Harnleiterostien wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
 ### 4.3.15
 
-Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ein- schwemmung wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
+Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ein-schwemmung wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie-gen.
 
 ### anzahl_prostatavolumen_50_69
 
@@ -571,7 +571,7 @@ Die Anzahl (nonNegativeInteger) der Umsteige auf TURP wird hier im V-Attribut an
 
 ### 4.3.18 anzahl_umstiege_konventionelle_op
 
-Die Anzahl (nonNegativeInteger) der Umsteige auf konventionelle Operation wird hier im V- Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
+Die Anzahl (nonNegativeInteger) der Umsteige auf konventionelle Operation wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
 ### 4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion
 
@@ -610,7 +610,7 @@ Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von gr
 
 ### 4.3.27
 
-Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer gleich  10 g bis 19,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie- gen.
+Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von größer gleich  10 g bis 19,9 g wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie-gen.
 
 ### 4.3.28
 

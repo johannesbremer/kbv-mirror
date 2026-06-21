@@ -52,15 +52,72 @@ Nr. Einblutung / Z. n. Ulkus /Z. n. Amputation / Plausibilitätsregeln zur Anlag
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-|---|---|---|---|
-| 3a | Injektionsstellen (bei | Unauffällig / Auffällig / Nicht untersucht | Bedingtes Pflichtfeld   Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn  – ODER  –   Eine Angabe ist nicht zulässig, wenn    in Feld 10 der Anlage 2* mindestens die Angabe |
-| 3b | Intervall für künftige | Jährlich / alle 6 Monate / alle 3 Monate oder | Bedingtes Pflichtfeld   Genau eine Angabe ist zulässig.    Eine Angabe ist erforderlich, wenn die Differenz aus der |
-| 4 | Spätfolgen | Diabetische Nephropathie / Diabetische | Kein Pflichtfeld;   Mehrfachnennungen sind möglich. |
-|  | Relevante Ereignisse |  | |
-| 5 | Relevante Ereignisse | Nierenersatztherapie / Erblindung / Amputation / | Pflichtfeld  Mindestens eine Angabe ist erforderlich.  Mehrfachnennungen sind möglich.    Wenn die Angabe „ |
+**Lfd.**
 
-Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) häufiger Neuropathie / Diabetische Retinopathie  Herzinfarkt / Schlaganfall / Keine der genannten „Diabetes mellitus Typ 1“ erfolgt ist „Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Ja“ erfolgt ist Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe Nein“ erfolgt ist Datumsangabe in Feld 22 der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von   größer oder gleich 18 Jahren ergibt. Keine der genannten Ereignisse“ erfolgt ist, ist keine weitere Angabe zulässig.
+**Parameter**
+
+**Nr.**
+
+Injektionsstellen (bei 3a
+
+Insulintherapie)
+
+**Ausprägung**
+
+Unauffällig / Auffällig / Nicht untersucht
+
+Intervall für künftige  Fußinspektionen (bei Patientinnen 3b
+
+und Patienten ab dem vollendeten
+
+18. Lebensjahr)
+
+Jährlich / alle 6 Monate / alle 3 Monate oder  häufiger
+
+Diabetische Nephropathie / Diabetische 4 Spätfolgen
+
+Neuropathie / Diabetische Retinopathie
+
+Relevante Ereignisse 5 Relevante Ereignisse
+
+Nierenersatztherapie / Erblindung / Amputation /  Herzinfarkt / Schlaganfall / Keine der genannten  Ereignisse
+
+**Plausibilitäten**
+
+Bedingtes Pflichtfeld
+
+Genau eine Angabe ist zulässig.
+
+Eine Angabe ist erforderlich, wenn
+
+- in Feld 10 der Anlage 2* mindestens die Angabe  „Diabetes mellitus Typ 1“ erfolgt ist
+
+ODER
+
+- in Feld 10 der Anlage 2* mindestens die Angabe  „Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9  der Anlage 8* (Insulin oder Insulin-Analoga) die  Angabe „Ja“ erfolgt ist
+
+Eine Angabe ist nicht zulässig, wenn
+
+in Feld 10 der Anlage 2* mindestens die Angabe  Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der  Anlage 8* (Insulin oder Insulin-Analoga) die Angabe  Nein“ erfolgt ist
+
+Bedingtes Pflichtfeld
+
+Genau eine Angabe ist zulässig.
+
+Eine Angabe ist erforderlich, wenn die Differenz aus der  Datumsangabe in Feld 22 der Plausibilitätsregeln zur  Anlage 2* minus der Datumsangabe in Feld 3 der  Plausibilitätsregeln zur Anlage 2* ein Lebensalter von  größer oder gleich 18 Jahren ergibt.
+
+Kein Pflichtfeld;
+
+Mehrfachnennungen sind möglich.
+
+Pflichtfeld
+
+Mindestens eine Angabe ist erforderlich.
+
+Mehrfachnennungen sind möglich.
+
+Wenn die Angabe „Keine der genannten Ereignisse“  erfolgt ist, ist keine weitere Angabe zulässig.
+
 
 ---
 

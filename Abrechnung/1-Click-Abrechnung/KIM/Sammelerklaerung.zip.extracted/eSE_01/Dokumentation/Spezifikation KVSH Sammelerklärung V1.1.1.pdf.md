@@ -9,8 +9,8 @@
 | Nächste Revision am: | 01.12.2026 |
 | Sicherheitsklassifizierung: | öffentlich |
 
-# elektronische Sammelerklärung Kassenärztlichen Vereinigung Spezifikation Schleswig-Holstein in der
-Richtlinie    nur zum internen Gebrauch                   Anweisung    Vereinbarung    in Kraft  Bericht  KV-Pedia
+# Spezifikation elektronische Sammelerklärung in der Kassenärztlichen Vereinigung Schleswig-Holstein
+Richtlinie    Anweisung    Vereinbarung    Bericht  in Kraft  nur zum internen Gebrauch                   KV-Pedia
 
 ---
 
@@ -243,7 +243,7 @@ Grundlage zur Erstellung einer PDF/A-Datei Sammelerklärung, ist das Vorliegen d
 - 3) Validierung der XML-Datei mit der zugehörigen Schemadatei. Die Schemadateien wurden durch  die KV Telematik ARGE erstellt. Das Wurzel-Schema ist die Datei **eSE_root.xsd**
 - 4) Vorliegen der Stylesheetdatei **kvshSammelFOfuerPDFA-1b.xsl** und der JPG-Datei  **KVSH_Logo_FIN_RGB_Claim.jpg** die von der KVSH bereitgestellt werden.
 - 5) Transformation der XML-Datei auf Basis des **kvshSammelFOfuerPDFA-1b.xsl**  Stylesheets ins FOP-Format und Generierung der PDF/A-Datei gleichen Namens (beispielhafter  Dateiname) **ese_1.21_019999900_tf+2025q4.pdf** mit einem XSL Formatter.
-- 6) Übertragung der Dateien **ese_1.21_019999900_tf+2025q4.xml** und  **ese_1.21_019999900_tf+2025q4.pdf** (beispielhafter Dateinamen) an die KIM- Adresse der KVSH.
+- 6) Übertragung der Dateien **ese_1.21_019999900_tf+2025q4.xml** und  **ese_1.21_019999900_tf+2025q4.pdf** (beispielhafter Dateinamen) an die KIM-Adresse der KVSH.
 - 7) Empfang und Anzeige der Rückmeldung.
 
 ## 6.2 Unterschiede zwischen PDF und PDF/A

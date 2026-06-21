@@ -116,7 +116,7 @@ Seite 4 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice
 
 1 EINLEITUNG & HINTERGRUND
 
-Der Gesetzgeber hat im § 75 Abs. 1a SGB V festgelegt, dass für die Vermittlung von Behandlungsterminen  bei einem Facharzt eine Überweisung vorliegen muss, wenn der 116117 Terminservice zum Buchen eines  zeitnahen Termins  genutzt wird.  Eine Ausnahme davon sind Augenärzte, Frauenärzte, Hausärzte, Kinder-  und Jugendärzte sowie psychotherapeutische Sprechstunden.
+Der Gesetzgeber hat im § 75 Abs. 1a SGB V festgelegt, dass für die Vermittlung von Behandlungsterminen  bei einem Facharzt eine Überweisung vorliegen muss, wenn der 116117 Terminservice zum Buchen eines  zeitnahen Termins  genutzt wird.  Eine Ausnahme davon sind Augenärzte, Frauenärzte, Hausärzte, Kinder- und Jugendärzte sowie psychotherapeutische Sprechstunden.
 
 Daraus ergibt sich, dass das Vorliegen einer Überweisung und ggfs. der Dringlichkeit im Buchungsprozess so  nachzuweisen ist, dass beides elektronisch und telefonisch geprüft werden kann. Hierfür wurde ein  Vermittlungscode definiert, der ausschließlich vom 116117 Terminservice-Server eindeutig erzeugt wird und  jederzeit durch das System verifiziert werden kann. Das gleiche gilt für eine Vermittlung zu einer  psychotherapeutischen Akutsprechstunde, sowie einer psychotherapeutischen probatorischen Sitzung.
 
@@ -133,7 +133,7 @@ Der Vermittlungscode wird für das direkte Aufbringen auf Überweisungen (Muster
 
 **1.1 ZWECK DER SCHNITTSTELLE**
 
-Diese Schnittstelle dient dazu, Überweisungen bzw. Vermittlungen an Psychotherapeuten mit einem  Vermittlungscode zu ergänzen. Die dazu notwendige Kommunikation erfolgt direkt aus dem Software- System des überweisenden Arztes bzw. Psychotherapeuten heraus mit dem 116117 Terminservice.
+Diese Schnittstelle dient dazu, Überweisungen bzw. Vermittlungen an Psychotherapeuten mit einem  Vermittlungscode zu ergänzen. Die dazu notwendige Kommunikation erfolgt direkt aus dem Software-System des überweisenden Arztes bzw. Psychotherapeuten heraus mit dem 116117 Terminservice.
 
 Die Spezifikation umfasst die Formate der zu übertragenden Daten.
 

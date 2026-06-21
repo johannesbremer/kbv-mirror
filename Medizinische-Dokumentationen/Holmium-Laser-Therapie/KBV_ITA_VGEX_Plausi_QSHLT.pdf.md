@@ -52,11 +52,11 @@ n- gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28
 
 ## 1.1 Qualitätssicherungsvereinbarung Holmium-Laser-Therapie
 
-Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Holmium-Laser-Therapie (QSHLT)  gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
+Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs-vereinbarung Holmium-Laser-Therapie (QSHLT)  gene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
 ## 1.2 Hinweise zum Verständnis dieses Dokuments
 
-Zum Verständnis der unten stehenden Plausibilitätstabelle sind die Hinweise in diesem Kapi- tel hilfreich.
+Zum Verständnis der unten stehenden Plausibilitätstabelle sind die Hinweise in diesem Kapi-tel hilfreich.
 
 ### 1.2.1 Beschreibung der Spalte „Art“
 
@@ -70,17 +70,17 @@ Ein Mussfeld muss in einem Formular vorhanden sein.
 
 **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**
 
-Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be-schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
 
 **Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
 
 **K = Kannfeld (optionales Feld)**
 
-Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.
+Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin-gungen geknüpft ist.
 
 **k = bedingtes Kannfeld (bedingtes optionales Feld)**
 
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht** erfüllt ist.
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be-schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann-feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht** erfüllt ist.
 
 ### 1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“
 
@@ -90,7 +90,7 @@ Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werde
 
 **Warnung**
 
-Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen wer- den.
+Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen wer-den.
 
 
 ---

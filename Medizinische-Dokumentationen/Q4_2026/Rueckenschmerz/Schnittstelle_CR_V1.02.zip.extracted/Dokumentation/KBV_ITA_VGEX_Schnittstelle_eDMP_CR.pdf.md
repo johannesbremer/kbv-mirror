@@ -216,148 +216,87 @@ DER LETZTEN DOKUMENTATION) .....................................................
 
 ## XML-CODE-VERZEICHNIS
 
-**XML-CODE 1:** LEVELONE ...................................................................................................................................................
+**XML-CODE 1:** LEVELONE ................................................................................................................................................... 12
 
-**XML-CODE 2:** BODY ..........................................................................................................................................................
+**XML-CODE 2:** BODY .......................................................................................................................................................... 13
 
-**XML-CODE 3:** SECTION .....................................................................................................................................................
+**XML-CODE 3:** SECTION ..................................................................................................................................................... 15
 
-**XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ...........................................................................................
+**XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16
 
-**XML-CODE 5:** BEOBACHTUNGEN ......................................................................................................................................
+**XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16
 
-**XML-CODE 6:** PARAMETER ...............................................................................................................................................
+**XML-CODE 6:** PARAMETER ............................................................................................................................................... 17
 
-**XML-CODE 7:** ERGEBNISTEXT ...........................................................................................................................................
+**XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17
 
-**XML-CODE 8:** ERGEBNISWERT ..........................................................................................................................................
+**XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17
 
-**XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................
+**XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18
 
-**XML-CODE 10:** EINSCHREIBUNG WEGEN .........................................................................................................................
+**XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18
 
-**XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................
+**XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 19
 
-**XML-CODE 12:** KÖRPERGRÖßE .........................................................................................................................................
+**XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20
 
-**XML-CODE 13:** KÖRPERGEWICHT .....................................................................................................................................
+**XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 20
 
-**XML-CODE 14:** RAUCHER ..................................................................................................................................................
+**XML-CODE 14:** RAUCHER .................................................................................................................................................. 20
 
-**XML-CODE 15:** BLUTDRUCK SYSTOLISCH ..........................................................................................................................
+**XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 20
 
-**XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................
+**XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21
 
-**XML-CODE 17:** BEGLEITERKRANKUNGEN .........................................................................................................................
+**XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 21
 
-**XML-CODE 18:** CONTENT (MEDIKAMENTE)......................................................................................................................
+**XML-CODE 18:** CONTENT (MEDIKAMENTE)...................................................................................................................... 22
 
-**XML-CODE 19:** AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION: OPIOIDANALGETIKA..............................
+**XML-CODE 19:** AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION: OPIOIDANALGETIKA.............................. 22
 
-**XML-CODE 20:** AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION: NICHT -OPIOIDANALGETIKA
+**XML-CODE 20:** AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION: NICHT -OPIOIDANALGETIKA .................. 23
 
-**XML-CODE 21:** CONTENT (SCHULUNG) ............................................................................................................................
+**XML-CODE 21:** CONTENT (SCHULUNG) ............................................................................................................................ 23
 
 **XML-CODE 22:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER MULTIMODALEN SCHULUNG TEILGENOMMEN 24
 
-**XML-CODE 23**: KREUZSCHMERZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)
+**XML-CODE 23**: KREUZSCHMERZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ............... 24
 
-**XML-CODE 24:** CONTENT (SONSTIGE BEHANDLUNG) ......................................................................................................
+**XML-CODE 24:** CONTENT (SONSTIGE BEHANDLUNG) ...................................................................................................... 25
 
-**XML-CODE 25:** REGELMÄßIG KÖRPERLICH AKTIV ............................................................................................................
+**XML-CODE 25:** REGELMÄßIG KÖRPERLICH AKTIV ............................................................................................................ 25
 
-**XML-CODE 26**: CPG ITEM 3: DURCHSCHNITTLICHE STÄRKE DER KREUZSCHMERZEN IN DEN LETZTEN DREI MONATEN  MONATEN (0 = “KEINE“ BIS 10 = “STÄRKSTER SCHMERZ“) .....................................................................................
+**XML-CODE 26**: CPG ITEM 3: DURCHSCHNITTLICHE STÄRKE DER KREUZSCHMERZEN IN DEN LETZTEN DREI MONATEN
 
-**XML-CODE 27**: CPG ITEM 5: KREUZSCHMERZBEDINGTE BEEINTRÄCHTIGUNG DER ALLTÄGLICHEN AKTIVITÄTEN  (ANKLEIDEN, WASCHEN, ESSEN, EINKAUFEN ETC.) IN DEN LETZTEN DREI MONATEN (0 = “KEINE“ BIS 10 =  “MAXIMALE BEEINTRÄCHTIGUNG“) ........................................................................................................................
+MONATEN (0 = “KEINE“ BIS 10 = “STÄRKSTER SCHMERZ“) ..................................................................................... 26
 
-**XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) .....................................................................................................
+**XML-CODE 27**: CPG ITEM 5: KREUZSCHMERZBEDINGTE BEEINTRÄCHTIGUNG DER ALLTÄGLICHEN AKTIVITÄTEN  (ANKLEIDEN, WASCHEN, ESSEN, EINKAUFEN ETC.) IN DEN LETZTEN DREI MONATEN (0 = “KEINE“ BIS 10 =
 
-**XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE
+“MAXIMALE BEEINTRÄCHTIGUNG“) ........................................................................................................................ 26
 
-**XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................
+**XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 27
 
-**XML-CODE 31:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................
+**XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 27
 
-**XML-CODE 32**: UNGEPLANTE AMBULANTE ODER STATIONÄRE KREUZSCHMERZBEDINGTE AKUTBEHANDLUNG SEIT  DER LETZTEN DOKUMENTATION .............................................................................................................................
+**XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................ 27
 
-**XML-CODE 33:** CONTENT (SCHULUNG) ............................................................................................................................
+**XML-CODE 31:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 29
 
-**XML-CODE 34:** KREUZSCHMERZ-SPEZIFISCHE SCHULUNG WAHRGENOMMEN
+**XML-CODE 32**: UNGEPLANTE AMBULANTE ODER STATIONÄRE KREUZSCHMERZBEDINGTE AKUTBEHANDLUNG SEIT
 
-**XML-CODE 35:** CONTENT (SONSTIGE BEHANDLUNG) ......................................................................................................
+DER LETZTEN DOKUMENTATION ............................................................................................................................. 29
 
-**XML-CODE 36:** ERREICHUNG MINDESTENS EINES DER INDIVIDUELL VEREINBARTEN ZIELE SEIT DER LETZTEN  DOKUMENTATION ...................................................................................................................................................
+**XML-CODE 33:** CONTENT (SCHULUNG) ............................................................................................................................ 30
 
-**XML-CODE 37:** BEENDIGUNG DER DMP-TEILNAHME VEREINBART .................................................................................
+**XML-CODE 34:** KREUZSCHMERZ-SPEZIFISCHE SCHULUNG WAHRGENOMMEN ............................................................... 30
 
-12
+**XML-CODE 35:** CONTENT (SONSTIGE BEHANDLUNG) ...................................................................................................... 31
 
-13
+**XML-CODE 36:** ERREICHUNG MINDESTENS EINES DER INDIVIDUELL VEREINBARTEN ZIELE SEIT DER LETZTEN
 
-15
+DOKUMENTATION ................................................................................................................................................... 32
 
-16
-
-16
-
-17
-
-17
-
-17
-
-18
-
-18
-
-19
-
-20
-
-20
-
-20
-
-20
-
-21
-
-21
-
-22
-
-22
-
-.................. 23
-
-23
-
-............... 24
-
-25
-
-25
-
-26
-
-26
-
-27
-
-............................... 27 27
-
-29
-
-29
-
-30
-
-............................................................... 30 31
-
-32
-
-33
-
+**XML-CODE 37:** BEENDIGUNG DER DMP-TEILNAHME VEREINBART ................................................................................. 33
 
 ---
 
@@ -552,7 +491,7 @@ Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- un
 
 ### 6.1.1 caption
 
-Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Attribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“, „Anamnese -  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“, „Sonstige Behandlung“ und  „Behandlungsplanung“ angegeben.
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Attribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“, „Anamnese - und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“, „Sonstige Behandlung“ und  „Behandlungsplanung“ angegeben.
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
@@ -876,7 +815,7 @@ Tabelle 8
 \| Bei Bedarf |
 \| Nein |
 
-**Tabelle 8:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht- Opioidanalgetika
+**Tabelle 8:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika
 
 ### 6.1.8 Abschnitt „Schulung“
 

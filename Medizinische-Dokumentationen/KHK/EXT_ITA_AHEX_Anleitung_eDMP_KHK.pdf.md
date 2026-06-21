@@ -85,7 +85,7 @@ kontrollierten Studien (RCT)
 
 ---
 
-Bitte machen Sie zu jedem Medikament eine Angabe. Bitte geben Sie bei Nein“ – wo möglich -  zusätzlich an, ob die Nicht-Verordnung auf eine Kon traindikation gegen die Gabe des jeweiligen  Medikamentes zurückzuführen ist. Diese Angaben sind für die Qualitätssicherung notwendig.
+Bitte machen Sie zu jedem Medikament eine Angabe. Bitte geben Sie bei Nein“ – wo möglich - zusätzlich an, ob die Nicht-Verordnung auf eine Kon traindikation gegen die Gabe des jeweiligen  Medikamentes zurückzuführen ist. Diese Angaben sind für die Qualitätssicherung notwendig.
 
 Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen  werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
 
@@ -93,7 +93,7 @@ Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation �
 
 Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgef ührt wird.  Hierbei ist u. a. die Gabe von ASS oder Clopidogrel gemeint. Sofern eine orale Antikoagulations- Therapie erfolgt, geben Sie diese bitte auch an. Bitte geben Sie bei „Nein“ gegebenenfalls  zusätzlich an, ob eine Kontraindikation gegen die Gabe eines  Thrombozytenaggregationshemmers besteht und/oder eine orale Antikoagulations-Therapie  erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgef ührt wird.  Hierbei ist u. a. die Gabe von ASS oder Clopidogrel gemeint. Sofern eine orale Antikoagulations-Therapie erfolgt, geben Sie diese bitte auch an. Bitte geben Sie bei „Nein“ gegebenenfalls  zusätzlich an, ob eine Kontraindikation gegen die Gabe eines  Thrombozytenaggregationshemmers besteht und/oder eine orale Antikoagulations-Therapie  erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Betablocker
 
@@ -105,13 +105,13 @@ Geben Sie bitte an, ob eine Therapie mit Betablockern durchgeführt wird. Bitte 
 
 Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit ACE -Hemmern durchgeführt wird. Bitte geben Sie bei  Nein“ gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines ACE- Hemmers besteht (z. B. ACE-Hemmer bedingter Husten) und/oder die Verordnung eines ARB  erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit ACE -Hemmern durchgeführt wird. Bitte geben Sie bei  Nein“ gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines ACE-Hemmers besteht (z. B. ACE-Hemmer bedingter Husten) und/oder die Verordnung eines ARB  erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Aktuelle Statin-Dosis
 
 Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob bei Ihrer Patientin oder Ihrem Patienten eine Therapie mit Statinen  durchgeführt wird. Wird eine Statin-Therapie durchgeführt, geben Sie bitte die aktuelle Statin- Dosis entsprechend der folgenden Tabelle mit „Hoch“ oder „Moderat“ oder „Niedrig“ an.
+Geben Sie bitte an, ob bei Ihrer Patientin oder Ihrem Patienten eine Therapie mit Statinen  durchgeführt wird. Wird eine Statin-Therapie durchgeführt, geben Sie bitte die aktuelle Statin-Dosis entsprechend der folgenden Tabelle mit „Hoch“ oder „Moderat“ oder „Niedrig“ an.
 
 Erfolgt keine Statin -Therapie, geben Sie bitte Kein Statin an. Bitte geben Sie bei Kein Statin gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe  eines Statins zurückzuführen ist In diesem Fall ist eine Angabe zum Feld „Aktuelle  Therapiestrategie Statin“ nicht zulässig.
 
@@ -182,13 +182,13 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer **Erstdokumentation** möglic
 
 Bei der **Folgedokumentation** ist hier **keine Angabe zulässig**
 
-Bitte geben Sie an , Ihre Patientin oder Ihr Patient bereit s vor Einschreibung in das DMP an einer  KHK-relevanten Schulung teilgenommen hat. Die Angabe „Ja“ soll nur erfolgen, wenn zum  Zeitpunkt der Einschreibung von einem hinreichenden Schulungsstand der Patientin oder des  Patienten auszugehen ist. Bei einer KHK-relevanten Schulung kann es sich um eine Diabetes- Schulung, eine Hypertonie-Schulung, eine Antikoagulations-Schulung oder eine KHK-spezifische  Schulung handeln.
+Bitte geben Sie an , Ihre Patientin oder Ihr Patient bereit s vor Einschreibung in das DMP an einer  KHK-relevanten Schulung teilgenommen hat. Die Angabe „Ja“ soll nur erfolgen, wenn zum  Zeitpunkt der Einschreibung von einem hinreichenden Schulungsstand der Patientin oder des  Patienten auszugehen ist. Bei einer KHK-relevanten Schulung kann es sich um eine Diabetes-Schulung, eine Hypertonie-Schulung, eine Antikoagulations-Schulung oder eine KHK-spezifische  Schulung handeln.
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 a) akkreditierte und für das DMP zugelassene Schulungen, sowie
 
-b) Schulungsmaßnahmen, die die Patientin oder den Patienten durch den Erwerb von  Kenntnissen und Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt  haben, auf der Basis eigener Entscheidungen die KHK bestmöglich in das eigene Leben zu  integrieren, akute oder langfristige negative Konsequenzen der KHK oder der  Begleiterkrankung(en) zu vermeiden und die Lebensqualität zu erhalten. Hierzu zählen neben  einer KHK-spezifischen Schulung auch Schulungen zu Diabetes oder eine Hypertonie- Schulung oder auch eine Schulung zu Antikoagulantien.
+b) Schulungsmaßnahmen, die die Patientin oder den Patienten durch den Erwerb von  Kenntnissen und Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt  haben, auf der Basis eigener Entscheidungen die KHK bestmöglich in das eigene Leben zu  integrieren, akute oder langfristige negative Konsequenzen der KHK oder der  Begleiterkrankung(en) zu vermeiden und die Lebensqualität zu erhalten. Hierzu zählen neben  einer KHK-spezifischen Schulung auch Schulungen zu Diabetes oder eine Hypertonie-Schulung oder auch eine Schulung zu Antikoagulantien.
 
 Eine erneute Teilnahme an einer KHK-relevanten Schulung im Rahmen des DMP ist dadurch  NICHT ausgeschlossen!
 

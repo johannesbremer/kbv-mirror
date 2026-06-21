@@ -30,6 +30,12 @@ gültig ab:
 
 5012
 
+1.2.276.0.76.5.229
+
+1.13
+
+01.07.2026
+
 5013
 
 5015
@@ -52,11 +58,7 @@ gültig ab:
 |---|---|
 | 5025 | Aufnahmedatum |
 
-Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_ZUSATZANGABE 1.2.276.0.76.5.229
-
-1.13
-
-01.07.2026
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_ZUSATZANGABE
 
 **Bezeichnung**
 

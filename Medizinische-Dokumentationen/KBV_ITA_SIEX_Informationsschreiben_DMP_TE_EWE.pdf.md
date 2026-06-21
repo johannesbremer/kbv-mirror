@@ -18,7 +18,7 @@ Konkret bedeutet dies:
 
 - Auf der TE/EWE befinden sich Ankreuzmöglichkeiten für alle DMP -Indikationen, d.h. sowohl für die  bisher bestehenden DMP (kurz: Diabetes mellitus Typ 1, Diabetes mellitus Typ 2, Koronare  Herzkrankheit, Asthma, COPD, Brustkrebs) als auch für die neuen DMP (kurz: Herzinsuffizienz,  Rückenschmerz, Depression, Osteoporose, Rheumatoide Arthritis).
 - Sofern eine Patientin oder ein Patient zeitgleich neu in mehrere DMP eingeschrieben werden soll,  ist dies mit einem Formular möglich. Dabei ist jedoch zu beachten, dass bestimmte Kombinationen  bei Mehrfacheinschreibungen nicht möglich sind. Dies betrifft die Kombination von DMP Diabete s  mellitus Typ 1 und DMP Diabetes mellitus Typ 2, hier kann eine Patientin oder ein Patient nur in  eines der beiden DMP eingeschrieben werden. Gleiches gilt für die Kombination DMP Asthma und  DMP COPD sowie die Kombination DMP Koronare Herzkrankheit und DMP Herzinsuffizienz.
-- Wenn eine Patientin oder ein Patient bereits in DMP eingeschrieben ist und zu einem späteren  Zeitpunkt in weitere DMP neu eingeschrieben werden soll, müssen auf dem TE/EWE -Formular nur  die DMP angegeben werden, zu denen eine Neueinschreibung erfolgen soll; bestehende DMP- Teilnahmen sind nicht erneut anzugeben.
+- Wenn eine Patientin oder ein Patient bereits in DMP eingeschrieben ist und zu einem späteren  Zeitpunkt in weitere DMP neu eingeschrieben werden soll, müssen auf dem TE/EWE -Formular nur  die DMP angegeben werden, zu denen eine Neueinschreibung erfolgen soll; bestehende DMP-Teilnahmen sind nicht erneut anzugeben.
 - Die Information für Patientinnen und Patienten wurde komplett überarbeitet und generisch  gestaltet. Sie beinhaltet keine indikationsspezifischen Informationen mehr, sondern bezieht sich  grundsätzlich auf Informationen, die für alle Indikationen gleichermaßen gelten. Zur Unterstützung  der ärztlichen Beratung wird die jeweilige Krankenkasse den Patientinnen und Patienten, die bei ihr  versichert sind, ebenfalls wie bisher umfangreiche Informationen zu ihren Erkrankungen zur  Verfügung stellen.
 
 
@@ -26,7 +26,7 @@ Konkret bedeutet dies:
 
 - In der Information über den Datenschutz haben sich im Vergleich zur aktuell gültigen TE/EWE keine  Änderungen ergeben.
 
-Die generische Formulierung der Information für Patientinnen und Patienten sowie die Aufnahme aller  Indikationen führt dazu, dass die TE/EWE zukünftig - vorbehaltlich datenschutzrechtlicher Anpassungen -  weiterhin gültig bleibt, selbst wenn sich die medizinischen Inhalte der DMP im Rahmen der  Aktualisierungen ändern. Damit entfällt der regelhafte Austausch der TE/EWE und die Einschreibung mit  überholten Vordruck-Formularen wird zukünftig vermieden.
+Die generische Formulierung der Information für Patientinnen und Patienten sowie die Aufnahme aller  Indikationen führt dazu, dass die TE/EWE zukünftig - vorbehaltlich datenschutzrechtlicher Anpassungen - weiterhin gültig bleibt, selbst wenn sich die medizinischen Inhalte der DMP im Rahmen der  Aktualisierungen ändern. Damit entfällt der regelhafte Austausch der TE/EWE und die Einschreibung mit  überholten Vordruck-Formularen wird zukünftig vermieden.
 
 Auch kann das Formular nun besser in die Praxisverwaltungssoftware integriert werden. Hierdurch ergeben  sich für alle Beteiligten maßgebliche Erleichterungen in der operativen Umsetzung.
 

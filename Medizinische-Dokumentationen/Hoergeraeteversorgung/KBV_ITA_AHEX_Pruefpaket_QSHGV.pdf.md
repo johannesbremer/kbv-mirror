@@ -63,15 +63,63 @@ Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von 
 
 ---
 
-DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
-|---|---|---|---|---|---|
-| 3.01 | 12.08.2021 | KBV | Überarbeitung der Links | Austausch des FTP- https://update.kbv.de | Alle |
-| 3.00 | 15.08.2019 | KBV | Aktualisierung der    Überarbeitung des | Schnittstellenversion    Überführung ins neue | 8ff |
-| 2.03 | 12.03.2018 | KBV | Einreichung des Antrages | Anpassung des | 8ff |
+**Version**
 
-Prüffälle auf die Schnittstellenversion 1.12 Layouts auf Zertifizierung Servers durch neuen „Update-Server“ der KBV: 1.12 ist ab 01.10.2019 zu verwenden Corporate Design Zertifizierungsportals 
+3.01
+
+3.00
+
+2.03
+
+**Datum**
+
+**Autor**
+
+12.08.2021 KBV
+
+15.08.2019 KBV
+
+12.03.2018 KBV
+
+**Änderung**
+
+Überarbeitung der Links
+
+Aktualisierung der  Prüffälle auf die  Schnittstellenversion 1.12
+
+Überarbeitung des  Layouts
+
+Einreichung des Antrages  auf Zertifizierung
+
+**Begründung**
+
+**Seite**
+
+Austausch des FTP-
+
+Alle
+
+Servers durch neuen  „Update-Server“ der
+
+KBV:  [https://update.kbv.de](https://update.kbv.de/)
+
+Schnittstellenversion  1.12 ist ab 01.10.2019 zu
+
+verwenden
+
+Überführung ins neue  Corporate Design
+
+Anpassung des  Zertifizierungsportals
+
+```
+[](https://update.kbv.de/)
+```
+
+8ff
+
+8ff
 
 
 ---

@@ -75,7 +75,7 @@ Abbildungsverzeichnis
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Holmium-Laser-Therapie (QSHLT) [1] eingesetzt wird. Es wird eine arztbezogene  Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Holmium-Laser-Therapie (QSHLT) [1] eingesetzt wird. Es wird eine arztbezogene  Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
@@ -84,7 +84,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 ## 1.2 Pflichtfunktionen und optionale Funktionen der Software
 
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego-rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
 **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
@@ -131,9 +131,11 @@ Ident-Nummer einer optionalen Funktion Ident
 |---|---|
 | **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Holmium-Laser-Therapie Jahresstatistik ermöglichen.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. der Holmium-Laser-Therapie Jahresstatistik ermöglichen.
 
 Die in der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_QSHLT] erfassbar sein.
+
+QS  festgelegten Datenelemente müssen
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
@@ -141,7 +143,7 @@ Die in der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_QSHLT] erfass
 
 Die Behandlungsfälle werden erstmals zwei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
-Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge- führt werden.
+Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge-führt werden.
 
 Meldequartal: 01.01.-31.03. Das sich an das Untersuchungsjahr anschließende Quartal.
 
@@ -149,9 +151,9 @@ Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal 
 
 01.01
 
-QS  festgelegten Datenelemente müssen 31.12
+31.12
 
-### Melde- Untersuchungsjahr
+### Melde-Untersuchungsjahr
 
 ### quartal
 
@@ -172,7 +174,7 @@ Holmium-Laser-Therapie  vollständig 31.03
 
 Die QSHLT-Jahresstatistik umfasst alle Leistungen im Rahmen von QSHLT eines Arztes.  D.h. jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSHLT-Jahresstatistik  erstellen.
 
-Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind in der QSHLT-Dokumentation zu erfassen
+Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen-ders sind in der QSHLT-Dokumentation zu erfassen
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
@@ -254,13 +256,13 @@ alle Daten zur Jahresstatistik bis Ende
 |---|---|
 | **P2-10** | **Übermittlung an die Datenannahmestelle** |
 
-Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
+Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis-tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie-gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde-rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
 | **P1-265** | **QSHLT auf Basis von KV-Connect** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT- Dokumentationen auf Basis von KV-Connect bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT-Dokumentationen auf Basis von KV-Connect bereitstellen.
 
 **Begründung:**
 
@@ -276,7 +278,7 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 |---|---|
 | **P1-266** | **QSHLT auf Basis von KIM** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT- Dokumentationen auf Basis von KIM bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSHLT-Dokumentationen auf Basis von KIM bereitstellen.
 
 **Begründung:**
 
@@ -284,17 +286,17 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Akzeptanzkriterium:**
 
-- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs- dokumentes bereitstellen:
+- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs-dokumentes bereitstellen:
 -  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM
 
 **Bedingung:**
 
-- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.
+- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei-willig.
 
 
 ---
 
-- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.
+- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich-tend.
 
 **Hinweis:**
 
@@ -318,7 +320,7 @@ Es sind folgende Import-Status möglich:
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender  von der aus der Anwender (Arzt) die exportierten Dateien über  hat.
 
-Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig- neter Weise anzeigen.
+Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig-neter Weise anzeigen.
 
 **Bedingung:**
 
@@ -335,7 +337,7 @@ E-Mail-Versand.  -Datei geprüft und eine E-Mail KIM-Nachricht mit dem
 
 Das System muss
 
-- a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_QSHLT]
+- a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei-bung [KBV_ITA_VGEX_Schnittstelle_QSHLT]
 
 QSHLT das KIM-Verfahren gemäß der
 
@@ -353,8 +355,8 @@ cher Zuordnung (ID, BSNR, LANR) vorhanden ist. gespeichert werden konnte. Es han
 
 ---
 
-- b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorga- ben für den Export vorbereiten,
-- c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Holmium-Laser-Therapie und der KV-Connect KIM Begleitdatei be- steht,
+- b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorga-ben für den Export vorbereiten,
+- c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Holmium-Laser-Therapie und der KV-Connect KIM Begleitdatei be-steht,
 - d) exportierte Datensätze innerhalb des Systems kennzeichnen und
 - e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 
@@ -366,9 +368,9 @@ cher Zuordnung (ID, BSNR, LANR) vorhanden ist. gespeichert werden konnte. Es han
 |---|---|
 | **P2-70** | **Einsatz Kryptomodul (XKM)** |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati- onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-HLT-Datenverschlüsselung (Oeffentlich_QSHLT_Vxy.key) zu verschlüs- seln.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati-onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-HLT-Datenverschlüsselung (Oeffentlich_QSHLT_Vxy.key) zu verschlüs-seln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in  sen.
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in  sen.
 
 [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-
 

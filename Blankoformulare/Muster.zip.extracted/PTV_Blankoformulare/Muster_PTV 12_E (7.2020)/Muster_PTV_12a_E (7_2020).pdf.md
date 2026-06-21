@@ -24,7 +24,7 @@ Kinder/Jugendliche
 
 **Beginn** am
 
-**Diagnose(n)** ICD-10 - GM endständig
+**Diagnose(n)** ICD-10 - GM endständig ICD-10 - GM endständig
 
 Es liegt eine Diagnose nach F70-F79 (ICD-10-GM) vor
 
@@ -43,8 +43,6 @@ und ggf. am
 nein, die Versicherte bzw. der Versicherte war in den letzten 12 Monaten aufgrund einer psychischen Erkrankung in stationärer oder rehabilitativer Behandlung
 
 **Ausfertigung Krankenkasse**
-
-ICD-10 - GM endständig
 
 ## Anzeige einer Akutbehandlung
 

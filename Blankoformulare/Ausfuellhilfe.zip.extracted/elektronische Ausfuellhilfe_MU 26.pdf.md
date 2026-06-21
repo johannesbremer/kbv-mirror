@@ -10,11 +10,11 @@
 
 **1. Diagnose (ICD-10-Code)**
 
-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ver- schlüsselt nach ICD-10-GM an.
+Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ver-schlüsselt nach ICD-10-GM an.
 
 **2. Schweregrad (laut GAF-Skala)**
 
-Die Fähigkeitsstörungen, die zusammen mit der Diagnose den Anspruch auf eine Soziotherapie begründen,  werden mittels der GAF-Skala dargestellt. Tragen Sie hier den entsprechenden Wert ein. Bei Erkrankungen  aus den Bereichen des schizophrenen Formenkreises/der affektiven Störungen darf der GAF-Wert höchs- tens ≤ 50, bei den übrigen Diagnosen aus dem Bereich F00 bis F99 höchstens ≤ 40 sein.
+Die Fähigkeitsstörungen, die zusammen mit der Diagnose den Anspruch auf eine Soziotherapie begründen,  werden mittels der GAF-Skala dargestellt. Tragen Sie hier den entsprechenden Wert ein. Bei Erkrankungen  aus den Bereichen des schizophrenen Formenkreises/der affektiven Störungen darf der GAF-Wert höchs-tens ≤ 50, bei den übrigen Diagnosen aus dem Bereich F00 bis F99 höchstens ≤ 40 sein.
 
 **3. Erkrankung besteht seit (falls bekannt)**
 
@@ -26,7 +26,7 @@ Geben Sie hier in Stichworten die Fähigkeitsstörungen des Patienten an, die mi
 
 **5. Art und Ausprägung der Co-Morbiditäten / Sonstige Einschränkungen**
 
-Geben Sie hier bei Diagnosen aus dem Bereich F00 bis F99 außerhalb des schizophrenen Formenkrei- ses/der affektiven Störungen die relevanten Co-Morbiditäten in Stichworten an. Die Co-Morbiditäten können  sowohl psychiatrisch als auch somatisch sein.
+Geben Sie hier bei Diagnosen aus dem Bereich F00 bis F99 außerhalb des schizophrenen Formenkrei-ses/der affektiven Störungen die relevanten Co-Morbiditäten in Stichworten an. Die Co-Morbiditäten können  sowohl psychiatrisch als auch somatisch sein.
 
 **6. Angaben des Versicherten**
 
@@ -34,7 +34,7 @@ Neben den Kontaktdaten ist hier die Wohnform anzugeben.
 
 **7. Angaben des nächsten Angehörigen**
 
-An dieser Stelle geben Sie bitte die Kontaktdaten eines nahen Angehörigen des Patienten an, damit im Be- darfsfall Rücksprache mit dieser Person gehalten werden kann.
+An dieser Stelle geben Sie bitte die Kontaktdaten eines nahen Angehörigen des Patienten an, damit im Be-darfsfall Rücksprache mit dieser Person gehalten werden kann.
 
 **8. Angaben zum Betreuer**
 
@@ -46,7 +46,7 @@ Sofern möglich, geben Sie hier die voraussichtliche Zahl der Therapieeinheiten 
 
 **10. Voraussichtliche Dauer der Therapie**
 
-Sofern möglich, geben Sie hier die voraussichtliche Dauer der Soziotherapie an, die zur Erreichung des The- rapieziels erforderlich ist.
+Sofern möglich, geben Sie hier die voraussichtliche Dauer der Soziotherapie an, die zur Erreichung des The-rapieziels erforderlich ist.
 
 **11. Beantragte Anzahl der Therapieeinheiten**
 

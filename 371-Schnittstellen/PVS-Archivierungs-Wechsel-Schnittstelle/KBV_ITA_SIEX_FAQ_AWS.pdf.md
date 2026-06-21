@@ -307,7 +307,7 @@ Gemäß [P7 -01 Punkt 6] müssen die Anlagen aus dem Profil KBV_PR_AW_Anlage an 
 
 ## 1.4 SIND DIE VERSIONEN D ER SCHNITTSTELLE ABWÄRTSKOMPATIBEL?
 
-Die AW-SST ist derzeit nicht abwärtskompat ibel, der Anwender muss die Kompatibilität von Export - und  Importsystem selbstständig herstellen können. Dazu sind dem Anwender beim Export alle vom System  unterstützten/zertifizierten Schnittstellenversionen im Format „X.X.X“ zur Auswahl anzuzeigen (siehe P6- 20).
+Die AW-SST ist derzeit nicht abwärtskompat ibel, der Anwender muss die Kompatibilität von Export - und  Importsystem selbstständig herstellen können. Dazu sind dem Anwender beim Export alle vom System  unterstützten/zertifizierten Schnittstellenversionen im Format „X.X.X“ zur Auswahl anzuzeigen (siehe P6-20).
 
 Der Import darf nur mit der gleichen Version der AW -SST erfolgen , die im Export -Verzeichnis vorliegt (siehe  P7-07).
 
@@ -325,7 +325,7 @@ In der aktuellen Version der AW -SST müssen die menschenlesbaren PDFs immer gen
 
 ## 2.1 WAS IST EINE BEGEGNUNG NACH KBV_PR_AW_BEGEGNUNG?
 
-Die Begegnung, die in dem zentralen Profil KBV_PR_AW_Begegnung beschrieben ist, kann sowohl ein Arzt - Patientenkontakt als auch eine Aktivität aufgrund eines Auftrags (z.B. Laborüberweisung) sein.
+Die Begegnung, die in dem zentralen Profil KBV_PR_AW_Begegnung beschrieben ist, kann sowohl ein Arzt -Patientenkontakt als auch eine Aktivität aufgrund eines Auftrags (z.B. Laborüberweisung) sein.
 
 Sollte bspw. ein Patient 3x am Tag bei demselben Arzt erscheinen, sind dies 3 verschiedene Arzt Patientenkontakte und damit 3 Instanzen des Profils KBV _PR_AW_Begegnung.
 
@@ -353,7 +353,7 @@ Hinweis: Die technische Möglichkeit den Multiplikator durch Wiederholen des Ele
 
 ## 3.2 WIE WERDEN GOPN AUS NICHT IN DER AW -SST DEFNIE RTEN CODESYSTEMEN (Z.B. HEILPRAKTIKER  ODER SELBSTZAHLER ABGEBILDET?
 
-GOPn (Rechnungspositionen) aus nicht spezifizierten Codesystemen können im KBV -Profil  KBV_PR_AW_Abrechnung_Vorlaeufig unter Angabe eines eigenen Codesystems übertragen werden [KP6- 22].
+GOPn (Rechnungspositionen) aus nicht spezifizierten Codesystemen können im KBV -Profil  KBV_PR_AW_Abrechnung_Vorlaeufig unter Angabe eines eigenen Codesystems übertragen werden [KP6-22].
 
 Das eigene Codesystem muss mit einer Bezeichnung, dem Code und einer aussagekräftigen Beschreibung  bekannt gemacht und nach [P5 -02] (Akzeptanzkriterium 2) bereitgestellt werden.
 
@@ -402,7 +402,7 @@ Unbekannte Anlagen müssen in ein PDF kon vertiert und als unstrukturierte Anlag
 
 Für die Labordatenkommunikation wurden in der AW-SST keine spezifischen FHIR -Ressourcen zur  Verfügung gestellt. Vielmehr sollen diese in der zum Zeitpunkt des Exports aktuellsten Version des LDT Formats übertragen werden.
 
-Die erzeugte LDT -Datei sollte für jede Begegnung separat erzeugt werden. Wenn stattdessen in einer LDT- Datei mehrere Datensätze enthalten sind, müssen diese eindeutig bspw. über die Versicherten_ID oder die  Versichertennummer mit Kostenträger den entsprechenden Begegnungen der Patientenakte zugeordnet  werden können.
+Die erzeugte LDT -Datei sollte für jede Begegnung separat erzeugt werden. Wenn stattdessen in einer LDT-Datei mehrere Datensätze enthalten sind, müssen diese eindeutig bspw. über die Versicherten_ID oder die  Versichertennummer mit Kostenträger den entsprechenden Begegnungen der Patientenakte zugeordnet  werden können.
 
 Eine Validierung der LDT -Dateien wird nicht gefordert.
 
@@ -435,10 +435,10 @@ importieren kann, entscheidet das System, welches der beiden Elemente er überne
 Für das/die nicht übernommene n Elemente ist ein entsprechender Eintrag in den Report Import  notwendig. Sofern es sich bei der Anlage um eine behandlungsrelevante Information handelt, muss das  Datum im System bspw. im Textelement oder PDF -Anlage import iert werden.
 
 1. Fall: Wurde im System das Datum der Referenzierung beim Import gewählt , so dieses ist b eim Export in  das Element DocumentReference.date zu schreiben, dass Element  DocumentReference.content.attachment.creation ist wegzulassen. Eine als Texte lement oder PDF-Anlage  importiertes Datum muss exportiert werden.
-2. Fall: Wurde im System das Datum der Erstellung der Anlage beim Import gewählt, so dieses ist beim  Export in das Element DocumentReference.content.attachment.creation zu schreiben. Das Ele ment  DocumentReference.date ist mit dem als Textelement oder PDF-Anlage importiertes D atum, sofern  möglich, zu füllen. Alternativ kann das Element mit dem Dummy-Datum 01.01.0001 (0001-01- 01T00:00:00.000+00:00) gefüllt werden, da es derzeit noch ein Pflichtelement ist.
+2. Fall: Wurde im System das Datum der Erstellung der Anlage beim Import gewählt, so dieses ist beim  Export in das Element DocumentReference.content.attachment.creation zu schreiben. Das Ele ment  DocumentReference.date ist mit dem als Textelement oder PDF-Anlage importiertes D atum, sofern  möglich, zu füllen. Alternativ kann das Element mit dem Dummy-Datum 01.01.0001 (0001-01-01T00:00:00.000+00:00) gefüllt werden, da es derzeit noch ein Pflichtelement ist.
 3. Fall: Verfügt das System über kein Datumsfeld zur Anlage, ist das Element DocumentReference. date mit  dem Dummy-Datum 01.01.0001 (0001-01-01T00:00:00.000+00:00) zu füllen, da es derzeit noch ein  Pflichtelement ist . Alternativ können die als Textelement oder PDF-Anlage importierten Daten, sofern  möglich, in das Element DocumentReference.date und in das Element  DocumentReference.content.attachment.creation exportiert werden.
 
-Hinweis: Das Element DocumentReference.date wird nach derzeitigem Stan d in der kommenden AWS- Version in ein optionales Element geändert. Das Element DocumentReference.content.attachment.creation  wird in der kommenden AWS -Version als optionales Element mit „must support“ im KBV-Profil  KBV_PR_AW_Anlage definiert.
+Hinweis: Das Element DocumentReference.date wird nach derzeitigem Stan d in der kommenden AWS-Version in ein optionales Element geändert. Das Element DocumentReference.content.attachment.creation  wird in der kommenden AWS -Version als optionales Element mit „must support“ im KBV-Profil  KBV_PR_AW_Anlage definiert.
 
 ---
 

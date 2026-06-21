@@ -9,7 +9,7 @@
 
 **Heilmittel zur Erreichung des Behandlungsziels nicht ausreichend / nicht zielführend**
 
-**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/*** ***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigen***
+**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/*** ***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigener Regie)***
 
 **IV. Vorsorgeziele** **Vorsorgeziele in Bezug auf die genannten Gesundheitsstörungen/Erkrankungen, Kontext- und Risikofaktoren**
 
@@ -20,6 +20,10 @@
 **B. Angaben zu Kindern, die mit aufgenommen werden sollen** **Name des Kindes**
 
 **1.**
+
+**Väter-Leistung**
+
+**Geburtsdatum**
 
 **2.**
 
@@ -39,6 +43,12 @@
 
 **C. Sonstiges***** (z. B. besondere Hinweise zur Reisefähigkeit, ggf.***
 
+***en bei Behandlungsbedürftigkeit, chronischer Erkran*** ***nden Kinderarzt)***
+
+***richtung, Einrichtung nur für Frauen, Hinweise für***
+
+***vorliegende Schwangerschaft)***
+
 **D. Rückruf erbeten unter Telefon-Nummer**
 
 **Für das Ausstellen der ärztlichen Verordnung** **ist die Nr. 01624 EBM berechnungsfähig**
@@ -48,18 +58,6 @@
 **PRF.NR.** **Muster 64 Bb/E (10.2018)**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-***er Regie)***
-
-**Väter-Leistung**
-
-**Geburtsdatum**
-
-***en bei Behandlungsbedürftigkeit, chronischer Erkran*** ***nden Kinderarzt)***
-
-***richtung, Einrichtung nur für Frauen, Hinweise für***
-
-***vorliegende Schwangerschaft)***
 
 ***Funktionstraining, Wahrnehmung von Beratungs- und***
 

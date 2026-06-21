@@ -27,8 +27,19 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
 
 ---
 
-#### INHALTSVERZEICHNIS DOKUMENTENHISTORIE INHALTSVERZEICHNIS
+#### INHALTSVERZEICHNIS
+
+#### DOKUMENTENHISTORIE
+
+**2**
+
+#### INHALTSVERZEICHNIS
+
+**3**
+
 **1** **GRUNDSÄTZLICHE FESTLEGUNGEN**
+
+**4**
 
 **1.1** **Zielsetzung ..................................................................................................................................... 4**
 
@@ -38,32 +49,21 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
 
 **2** **SATZTABELLE**
 
-**2.1** **Definition der Satzart: PLZ-Headersatz “plz0”**
+**6**
 
-**2.2** **Definition der Satzart: PLZ-Stammsatz “2150”**
+**2.1** **Definition der Satzart: PLZ-Headersatz “plz0” ........................................................................... 7**
+
+**2.2** **Definition der Satzart: PLZ-Stammsatz “2150” .......................................................................... 7**
 
 **2.3** **Definition der Satzart: PLZ-Endesatz “plz9” .............................................................................. 7**
 
 **3** **FELDTABELLE**
 
-**4** **REGELTABELLE**
-
-**2**
-
-**3**
-
-**4**
-
-**6**
-
-**........................................................................... 7**
-
-**.......................................................................... 7**
-
 **8**
 
-**11**
+**4** **REGELTABELLE**
 
+**11**
 
 ---
 
@@ -73,7 +73,7 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
 
 *Anlass für die Einführung dieser PLZ-Stammdatei ist das „Gesetz zur Einführung des*  *Wohnortprinzips bei Honorarvereinbarungen für Ärzte und Zahnärzte“.*
 
-Die vorliegende Datensatzbeschreibung beschreibt den formalen Aufbau der PLZ- Stammdatei der KBV, die in der hier festgelegten Form an die Systemhäuser für  Praxiscomputer- Systeme und die Kven ausgeliefert wird.
+Die vorliegende Datensatzbeschreibung beschreibt den formalen Aufbau der PLZ-Stammdatei der KBV, die in der hier festgelegten Form an die Systemhäuser für  Praxiscomputer- Systeme und die Kven ausgeliefert wird.
 
 Die PLZ-Stammdatei ermöglicht sowohl die eindeutige Zuordnung  Wohnsitzes eines Patienten) zu einem  **Existenzprüfung** in der Arztpraxis.
 

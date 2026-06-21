@@ -96,7 +96,7 @@ Weitere Informationen zu den Innovation-Pitches, Programm und zum Veranstaltungs
 
 ## DMP-KENNZEICHEN: ERWEITERUNG DER SCHLÜSSELTABELLE S_KBV_DMP
 
-Da zum 1. Oktober 2026 das neue DMP-Kennzeichen 13 (Adipositas Kinder und Jugendliche) eingeführt  wird, haben wir Ihnen bereits heute die notwendigen Anpassungen des LDT-Datensatzes sowie der BFB- Barcodes zur Vorbereitung zur Verfügung gestellt.
+Da zum 1. Oktober 2026 das neue DMP-Kennzeichen 13 (Adipositas Kinder und Jugendliche) eingeführt  wird, haben wir Ihnen bereits heute die notwendigen Anpassungen des LDT-Datensatzes sowie der BFB-Barcodes zur Vorbereitung zur Verfügung gestellt.
 
 Bei der Aktualisierung der BFB-Barcodes wurde auf eine Anpassung der Versionsnummer der einzelnen  Barcodes verzichtet, um den Aufwand der Einführung des neuen DMP-Kennzeichens gering zu halten.
 
@@ -127,13 +127,13 @@ Wir möchten Sie darüber informieren, dass wir den Webservice Kollegensuche auf
 
 ## KVDT: WEITERENTWICKLUNG DER KVDT-DATENSATZBESCHREIBUNG UND DES KVDT ANFORDERUNGSKATALOGES
 
-Im Rahmen der allgemeinen Weiterentwicklung wurde im KVDT-Anforderungskatalog die Anforderung KP6- 805 im Zusammenhang mit der Einführung der „Versorgungspauschale“ aufgenommen sowie die  Anforderung P6-804 aktualisiert.
+Im Rahmen der allgemeinen Weiterentwicklung wurde im KVDT-Anforderungskatalog die Anforderung KP6-805 im Zusammenhang mit der Einführung der „Versorgungspauschale“ aufgenommen sowie die  Anforderung P6-804 aktualisiert.
 
-Ebenso wurde eine Klarstellung der Anforderung KP2-565 zum Umgang mit dem „Behandlungstag bei IVD- Leistungen“ vorgenommen. Diese Klarstellung wurde ebenfalls im KVDT-Datensatz durch Einführung der  neuen Regel 901 abgebildet.
+Ebenso wurde eine Klarstellung der Anforderung KP2-565 zum Umgang mit dem „Behandlungstag bei IVD-Leistungen“ vorgenommen. Diese Klarstellung wurde ebenfalls im KVDT-Datensatz durch Einführung der  neuen Regel 901 abgebildet.
 
 Die detaillierten Änderungen finden Sie im KVDT-Anforderungskatalog sowie in der KVDT Datensatzbeschreibung in der Dokumentenhistorie sowie in den Dokumenten unter  [https://update.kbv.de/ita-update/Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/)
 
-[Ergänzend zu den allgemeinen Anpassungen der KVDT](https://update.kbv.de/ita-update/Abrechnung/)-Vorgaben wurden einige Anpassungen am KVDT- Anforderungskatalog sowie an der Datensatzbeschreibung im Zusammenhang mit dem anstehenden Start  der VSDM 2.0 Pilotierung vorgenommen.
+[Ergänzend zu den allgemeinen Anpassungen der KVDT](https://update.kbv.de/ita-update/Abrechnung/)-Vorgaben wurden einige Anpassungen am KVDT-Anforderungskatalog sowie an der Datensatzbeschreibung im Zusammenhang mit dem anstehenden Start  der VSDM 2.0 Pilotierung vorgenommen.
 
 ## TA ZUR ANLAGE 4A: AKTUALISIERUNG DER TECHNISCHEN ANLAGE ZUR ANLAGE 4A ZUM 1. JULI 2026
 
@@ -184,7 +184,7 @@ Im Rahmen des Inkrafttretens der eRezept Änderungen in der Version 1.4.2 zum 1.
 
 [Hinweis:](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)
 
-Um die Aufwände bei allen am Prozess Beteiligten zu reduzieren, haben wir uns gemeinsam mit dem GKV SV gegen eine Aktualisierung der FHIR-Profile für die Projekte eAU und eVDGA, aufgrund der neuen FOR- Profile, entschieden. Eine Angleichung der FOR-Version in den eFormular-Projekten eAU, eRezept und  eVDGA erfolgt mit der Einführung des VSDM 2.0.
+Um die Aufwände bei allen am Prozess Beteiligten zu reduzieren, haben wir uns gemeinsam mit dem GKV SV gegen eine Aktualisierung der FHIR-Profile für die Projekte eAU und eVDGA, aufgrund der neuen FOR-Profile, entschieden. Eine Angleichung der FOR-Version in den eFormular-Projekten eAU, eRezept und  eVDGA erfolgt mit der Einführung des VSDM 2.0.
 
 ## BMP: INKRAFTTRETEN DES BMP 2.8 ZUM 1. JULI 2026
 

@@ -71,19 +71,19 @@ Tabelle 1 - Erfassung der behandlungsbezogenen Daten pro Patient (P1 Tabelle 2 -
 
 # 1 EINLEITUNG
 
-Die Versorgung von Patientinnen und Patienten mit einer fortgeschrittenen Herzinsuffizienz soll  durch ein Telemonitoring und eine damit verbundene kontinuierliche Betreuung verbessert werden.  Beim Telemonitoring bei Herzinsuffizienz arbeiten Hausärzte oder Kardiologen als "primär behan- delnde Ärztinnen und Ärzte" (PBA) mit Kardiologinnen und Kardiologen eines telemedizinischen Zent- rums (TMZ) zusammen.
+Die Versorgung von Patientinnen und Patienten mit einer fortgeschrittenen Herzinsuffizienz soll  durch ein Telemonitoring und eine damit verbundene kontinuierliche Betreuung verbessert werden.  Beim Telemonitoring bei Herzinsuffizienz arbeiten Hausärzte oder Kardiologen als "primär behan-delnde Ärztinnen und Ärzte" (PBA) mit Kardiologinnen und Kardiologen eines telemedizinischen Zent-rums (TMZ) zusammen.
 
 Der Anforderungskatalog beschreibt die benötigten Daten und deren Beschreibung, um die erfassten  Daten gemäß der QS-Vereinbarung für Telemonitoring bei Herzinsuffizienz (QS-V TmHi) vom TMZ an  die zuständige Kassenärztliche Vereinigung (KV) weiterzuleiten. Anschließend sollen diese Daten von  den KVen an die KBV übermittelt werden, damit die Jahresberichte gemäß QS-V TmHi erstellt werden  können.
 
-Beim Telemonitoring bei Herzinsuffizienz werden medizinische Daten der Patientin oder des Patien- ten vom Patienten selbst an ein telemedizinisches Zentrum übermittelt. Dort werden diese medizi- nisch-fachlich durch den TMZ-Arzt bewertet. Bei Auffälligkeiten oder Über- bzw. Unterschreitung von  ggf. patientenindividuell festgelegten Grenzwerten teilt informiert der TMZ-Arzt den PBA und emp- fiehlt der TMZ-Arzt Hinweise zu empfohlenen ggf. Maßnahmen an den PBA mit, so dass dieser der  PBA die Behandlung des Patienten optimieren kann. Bei einer entsprechenden Absprache zwischen  PBA und TMZ kann auch geregelt sein, dass das TMZ direkt Kontakt mit dem Patienten aufnimmt und  weitere notwendige Maßnahmen unmittelbar veranlasst. Auf diese Weise Durch diese ereignisbezo- gene Rückmeldung des TMZ an den PBA oder den Patienten sollen im Falle erkennbarer Abweichun- gen von vorab definierten Grenzwerten durch ein möglichst zeitnahes Eingreifen eine Verschlechte- rungen der Erkrankung und vor allem vermeidbare unnötige stationäre Notfallbehandlungen verhin- dert vermieden werden.
+Beim Telemonitoring bei Herzinsuffizienz werden medizinische Daten der Patientin oder des Patien-ten vom Patienten selbst an ein telemedizinisches Zentrum übermittelt. Dort werden diese medizi-nisch-fachlich durch den TMZ-Arzt bewertet. Bei Auffälligkeiten oder Über- bzw. Unterschreitung von  ggf. patientenindividuell festgelegten Grenzwerten teilt informiert der TMZ-Arzt den PBA und emp-fiehlt der TMZ-Arzt Hinweise zu empfohlenen ggf. Maßnahmen an den PBA mit, so dass dieser der  PBA die Behandlung des Patienten optimieren kann. Bei einer entsprechenden Absprache zwischen  PBA und TMZ kann auch geregelt sein, dass das TMZ direkt Kontakt mit dem Patienten aufnimmt und  weitere notwendige Maßnahmen unmittelbar veranlasst. Auf diese Weise Durch diese ereignisbezo-gene Rückmeldung des TMZ an den PBA oder den Patienten sollen im Falle erkennbarer Abweichun-gen von vorab definierten Grenzwerten durch ein möglichst zeitnahes Eingreifen eine Verschlechte-rungen der Erkrankung und vor allem vermeidbare unnötige stationäre Notfallbehandlungen verhin-dert vermieden werden.
 
-Für die Umsetzung des Telemonitorings bei Herzinsuffizienz werden zur Generierung der zu überwa- chenden Daten entweder kardiale Aggregate (implantable cardioverter defibrillator [ICD], cardiac re- synchronization therapy pacemaker [CRT-P], cardiac resynchronization therapy with defibrillation  [CRT-D]) oder externe Messgeräte verwendet. Ferner wird die subjektive Einschätzung des Gesund- heitszustandes vom beim Patienten selbst abgefragt.
+Für die Umsetzung des Telemonitorings bei Herzinsuffizienz werden zur Generierung der zu überwa-chenden Daten entweder kardiale Aggregate (implantable cardioverter defibrillator [ICD], cardiac re-synchronization therapy pacemaker [CRT-P], cardiac resynchronization therapy with defibrillation  [CRT-D]) oder externe Messgeräte verwendet. Ferner wird die subjektive Einschätzung des Gesund-heitszustandes vom beim Patienten selbst abgefragt.
 
-Im Rahmen der Einführung des neuen Versorgungsangebotes wurde eine Vereinbarung zur Qualitäts- sicherung zwischen der Kassenärztlichen Bundesvereinigung (KBV) und dem GKV-Spitzenverband  [(GKV-SV) getroffen:](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)[https://www.kbv.de/media/sp/QS](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)[-V_TmHi.pdf](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)[](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)
+Im Rahmen der Einführung des neuen Versorgungsangebotes wurde eine Vereinbarung zur Qualitäts-sicherung zwischen der Kassenärztlichen Bundesvereinigung (KBV) und dem GKV-Spitzenverband  [(GKV-SV) getroffen:](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)[https://www.kbv.de/media/sp/QS](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)[-V_TmHi.pdf](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)[](https://www.kbv.de/media/sp/QS-V_TmHi.pdf)
 
 [Diese Vereinbarung sieht die Erstellung und den Versand einer Jahresstatistik (gem. §](https://www.kbv.de/media/sp/QS-V_TmHi.pdf) 7 Abs. 1 bis 3  QS-V TmHi) vor. Die Jahresstatistiken der TMZ werden einrichtungsbezogen und pseudonymisiert in  Bezug auf ein sog. Datenjahr spätestens bis zum 30.04. des Folgejahres ("Berichtsjahr") vom TMZ an  die zuständigen Kassenärztlichen Vereinigungen (KV) und anschließend von diesen jährlich bis zum  30.06. an die KBV übermittelt.
 
-Die KBV erstellt anhand der übermittelten Daten jährlich bis zum 30.09. einen Jahresbericht, welche  pseudonymisiert an die KVen sowie anonymisiert an den GKV-Spitzenverband (GKV-SV) übermittelt  werden. Die KVen stellen jedem TMZ die Jahresstatistik so zur Verfügung, dass das TMZ seine Anga- ben nach Absatz 1 im Vergleich zu den anonymisierten Angaben aller anderen TMZ sehen kann. Dar- über hinaus stellt die KBV dem GKV-SV die anonymisierten Rohdaten der Jahresstatistiken der TMZ  gemäß Satz 1 in elektronischer Form zur Verfügung.
+Die KBV erstellt anhand der übermittelten Daten jährlich bis zum 30.09. einen Jahresbericht, welche  pseudonymisiert an die KVen sowie anonymisiert an den GKV-Spitzenverband (GKV-SV) übermittelt  werden. Die KVen stellen jedem TMZ die Jahresstatistik so zur Verfügung, dass das TMZ seine Anga-ben nach Absatz 1 im Vergleich zu den anonymisierten Angaben aller anderen TMZ sehen kann. Dar-über hinaus stellt die KBV dem GKV-SV die anonymisierten Rohdaten der Jahresstatistiken der TMZ  gemäß Satz 1 in elektronischer Form zur Verfügung.
 
 
 ---
@@ -94,7 +94,7 @@ Die KBV erstellt anhand der übermittelten Daten jährlich bis zum 30.09. einen 
 
 ## 1.1 ZIELBESTIMMUNG
 
-Diese Technische Anlage richtet sich an Hersteller, welche den TMZ Softwarelösungen für das Tele- monitoring bei Herzinsuffizienz zur Verfügung stellen. Eine Softwarezertifizierung wird für dieses  Thema nicht angeboten. Die Aufgabe der Hersteller beschränkt sich auf drei Funktionalitäten:
+Diese Technische Anlage richtet sich an Hersteller, welche den TMZ Softwarelösungen für das Tele-monitoring bei Herzinsuffizienz zur Verfügung stellen. Eine Softwarezertifizierung wird für dieses  Thema nicht angeboten. Die Aufgabe der Hersteller beschränkt sich auf drei Funktionalitäten:
 
 | 1. |  | 2. |  | 3. | Die Übermittlung der Daten aus dem TMZ zur KV |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@ Erfassung von Daten pro Patient Erstellung einer in bis zu 4 Strata aufgeteilten
 
 ---
 
-# 2 ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PA- TIENT
+# 2 ERFASSUNG DER BEHANDLUNGSBEZOGENEN DATEN PRO PA-TIENT
 
 Um softwareseitig die Berechnung der Jahresstatistik gemäß der  Softwaresystem in der Lage sein, die notwendigen behandlungsbezogene TMZ zu erfassen.
 
@@ -216,7 +216,7 @@ sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Verwechslungen mit and
 
 - 1. Die Datei ist eine csv-Datei mit variabler Nutzdatenlänge.
 - 2. Es wird der Zeichensatz ISO 8859-15 für die Datei verwendet.
-- 3. Die Software benutzt die in Kapitel 4 Berechnungsgrundlagen aufgeführten Berechnungsvorschrif- ten zur Ermittlung der erforderlichen Werte.
+- 3. Die Software benutzt die in Kapitel 4 Berechnungsgrundlagen aufgeführten Berechnungsvorschrif-ten zur Ermittlung der erforderlichen Werte.
 - 4. Jede eigene Zeile wird durch die Zeichenfolge CarriageReturn/LineFeed (Hexadezimalcode 0x0D  0x0A) abgeschlossen.
 - 5. Als Ganzzahltrennzeichen im Dezimalformat ist ein Komma zu verwenden.
 - a) Die Darstellung von numerischen und Dezimal -Daten erfolgt ohne Tausender -Punkt und ohne  Auffüllung mit führenden Nullen.
@@ -227,7 +227,7 @@ sender_Pseudonym>_<Datenjahr>_<Erstellungsdatum>.<Endung> Verwechslungen mit and
 
 **Begründung:**
 
-Die teilnehmenden TMZ dürfen keine patientenbezogenen Daten übersenden, da dies ein Verstoß  gegen den Datenschutz ist. Die QS-V TmHI fordert deswegen die Einsendung aggregierter, d.h. in Be- zug auf die Patienten anonymisierter Daten.
+Die teilnehmenden TMZ dürfen keine patientenbezogenen Daten übersenden, da dies ein Verstoß  gegen den Datenschutz ist. Die QS-V TmHI fordert deswegen die Einsendung aggregierter, d.h. in Be-zug auf die Patienten anonymisierter Daten.
 
 **Akzeptanzkriterien:**
 
@@ -380,7 +380,7 @@ TYP STELLEN Tab. 2. für gemäß Tab. 2 ITÄTSPRÜFUNG dardabweichung erfolgt mi
 |---|---|---|
 | **P3-300** | **Bereitstellung der Jahresstatistik** |  |
 
-Die Software bietet dem Anwender die Möglichkeit, sich die Jahresstatistik im csv-Format exportie- ren zu lassen.
+Die Software bietet dem Anwender die Möglichkeit, sich die Jahresstatistik im csv-Format exportie-ren zu lassen.
 
 **Begründung:**
 
@@ -388,7 +388,7 @@ Die Weiterleitung der Jahresstatistik an die verantwortliche KV erfolgt durch da
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software ermöglicht dem Anwender den Export der TMZ-Jahresstatistik gemäß den Anforde- rungen P3-100 und P3-200, an einem vom Anwender gewünschten Ablageort
+- 1. Die Software ermöglicht dem Anwender den Export der TMZ-Jahresstatistik gemäß den Anforde-rungen P3-100 und P3-200, an einem vom Anwender gewünschten Ablageort
 
 Um die Wei-
 

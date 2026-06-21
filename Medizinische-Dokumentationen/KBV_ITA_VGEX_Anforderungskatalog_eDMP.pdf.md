@@ -1291,7 +1291,7 @@ Auswahl der Indikation KHK und Eingabe der Medikamente. Wird zum Parameter „Ak
 |---|---|
 | **P1-50** | Datenübernahme aus vorhergehender Dokumentation |
 
-Versicherter in ein DMP eingeschrieben wurde, angepasst werden. Versicherter in das DMP eingeschrieben wurde, nicht mehr angezeigt werden Im Falle einer Multimorbidität und Einschreibung in mehrere DMP müssen die jeweils anderen Indikationen, sofern als Ausprägung des Parameters „Begleiterkrankungen“ vorhanden, Datensatz übernommen werden. Der Anwender wählt beim Parameter „Einschreibung wegen “: Diabetes mellitus Typ 1 (Erstdokumentation) und KHK (Erstdokumentation) gleichzeitig aus. Somit verringern sich die Ausprägungen für den Parameter „Begleiterkrankungen“ um Diabetes mellitus sowie um KHK. muss dann für z. B. die Dokumentation zum DMP DM1 automatisch KHK als Begleiterkrankung, neben eventuell weiteren  ausgewählten Begleiterkrankungen übernommen werden. Gleichermaßen muss dies für die Dokumentation zum DMP Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mellitus in den Datensatz aufgenommen werden. 2.1.5 Übernahme von Parametern Das System muss ermöglichen, Daten aus einer vorhergehenden Dokumentation zu übernehmen. Dabei ist zu berücksichtigen, dass dies ausschließlich für ausgewählte Parameter gilt sowie eine Quittierung der Datenübernahme durch den Anwender erfolgen muss. Es wird zwischen blockweiser und einzelner Quittierung unterschieden. Diese Anforderung gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  übernahmerelevanten Parameter mit Art der Quittierung sind der Rückenschmerz Dabei darf die Indikation, wegen der ein  automatisch in den  Bei der Speicherung der jeweiligen , in den Datensatz  KHK umgesetzt werd indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten en wird. Die
+Versicherter in ein DMP eingeschrieben wurde, angepasst werden. Versicherter in das DMP eingeschrieben wurde, nicht mehr angezeigt werden Im Falle einer Multimorbidität und Einschreibung in mehrere DMP müssen die jeweils anderen Indikationen, sofern als Ausprägung des Parameters „Begleiterkrankungen“ vorhanden, Datensatz übernommen werden. Der Anwender wählt beim Parameter „Einschreibung wegen “: Diabetes mellitus Typ 1 (Erstdokumentation) und KHK (Erstdokumentation) gleichzeitig aus. Somit verringern sich die Ausprägungen für den Parameter „Begleiterkrankungen“ um Diabetes mellitus sowie um KHK. muss dann für z. B. die Dokumentation zum DMP DM1 automatisch KHK als Begleiterkrankung, neben eventuell weiteren  ausgewählten Begleiterkrankungen übernommen werden. Gleichermaßen muss dies für die Dokumentation zum DMP Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mellitus in den Datensatz aufgenommen werden. 2.1.5 Übernahme von Parametern Das System muss ermöglichen, Daten aus einer vorhergehenden Dokumentation zu übernehmen. Dabei ist zu berücksichtigen, dass dies ausschließlich für ausgewählte Parameter gilt sowie eine Quittierung der Datenübernahme durch den Anwender erfolgen muss. Es wird zwischen blockweiser und einzelner Quittierung unterschieden. Diese Anforderung gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  übernahmerelevanten Parameter mit Art der Quittierung sind der Rückenschmerz Dabei darf die Indikation, wegen der ein  automatisch in den  Bei der Speicherung der jeweiligen , in den Datensatz  KHK umgesetzt werd en wird. Die indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten
 
 ---
 
@@ -1371,43 +1371,63 @@ Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: ausschli
 
 ---
 
-|  | › |  |
-|---|---|---|
-| COPD | Kurz wirksame Beta-2- | einzeln oder blockweise ausschließlich |
-| COPD | Lang wirksame Beta-2- | einzeln oder blockweise ausschließlich |
-| COPD  Lang wirksame Anticholinergika  Diabetes mellitus 1 + 2  Spätfolgen |  |  |
-|  | Übernahmerelevanter Parameter | Quittierung |
-| › | | |
-| › › |  | Sonstige asthmaspezifische |
-|  |  | › |
-|  |  |  |
-| einzeln oder blockweise ausschließlich | COPD | COPD |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| **OPTIONALE FUNKTION EDMP** | **O1-51** |  |
-|  |  |  |
-|  | Übernahmerelevanter Parameter | Quittierung |
-|  | | |
-|  |  | › › |
-| Asthma | Sonstige asthmaspezifische | einzeln oder blockweise mit  › › |
-|  |  | COPD |
-|  |  | Lang wirksame Anticholinergika  einzeln oder blockweise mit |
-|  |  | 2**Indikation** |
-|  |  |  |
-|  |  |  |
-| **Indikation** | Übernahmerelevanter Parameter | Quittierung |
-| › › › › | | |
-| Asthma | Sonstige asthmaspezifische | einzeln oder blockweise mit  › › › › |
-| COPD | Kurz wirksame Beta-2- | einzeln oder blockweise ausschließlich |
-| COPD | Lang wirksame Beta-2- | einzeln oder blockweise ausschließlich |
-| COPD | Lang wirksame Anticholinergika | einzeln oder blockweise ausschließlich |
-| Diabetes mellitus 1 + 2 | Spätfolgen | einzeln oder blockweise mit weiteren |
-| Rheumatoide Arthritis | Aktuelle DMARD-Therapie | einzeln oder blockweise mit |
+**Indikation**
 
-Tabelle 7: relevante Parameter mit Art der Quittierung Datenübernahme aus dem PVS  Praxisverwaltungssystem Medikation Sympathomimetika und/oder Sympathomimetika Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Medikation ausschließlich folgenden Parametern:  Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Systemische Glukokortikosteroide mit den folgenden beiden Parametern: (Lang wirksame Beta Sympathomimetika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Beta- 2-Sympathomimetika)  Anamnese- und Befunddaten Anamnese- und Befunddaten | OPTIONALE FUNKTION EDMP |  |
-|---|---|
-| **O1-51** | Datenübernahme aus dem PVS2 |
+Asthma
+
+COPD
+
+COPD
+
+COPD
+
+Diabetes mellitus 1 + 2
+
+Rheumatoide Arthritis
+
+Tabelle 7: relevante Parameter mit Art der Quittierung
+
+**OPTIONALE FUNKTION EDMP**
+
+**O1-51** Datenübernahme aus dem PVS 2 Praxisverwaltungssystem
+
+Übernahmerelevanter Parameter
+
+Sonstige asthmaspezifische  Medikation
+
+Kurz wirksame Beta-2-Sympathomimetika und/oder  Anticholinergika
+
+Lang wirksame Beta-2-Sympathomimetika
+
+Lang wirksame Anticholinergika
+
+Spätfolgen
+
+Aktuelle DMARD-Therapie 2
+
+Quittierung
+
+- Inhalative Glukokortikosteroide
+- Inhalative lang wirksame Beta-2- Sympathomimetika
+- Kurz wirksame inhalative Beta-2- Sympathomimetika
+- Sonstige asthmaspezifische  Medikation
+
+einzeln oder blockweise mit  ausschließlich folgenden Parametern:
+
+- Inhalative Glukokortikosteroide
+- Inhalative lang wirksame Beta-2- Sympathomimetika
+- Kurz wirksame inhalative Beta-2- Sympathomimetika
+- Systemische Glukokortikosteroide
+
+einzeln oder blockweise ausschließlich  mit den folgenden beiden Parametern:  (Lang wirksame Beta-2-Sympathomimetika, Lang wirksame  Anticholinergika)
+
+einzeln oder blockweise ausschließlich  mit den folgenden beiden Parametern:  (Kurz wirksame Beta-2-Sympathomimetika und/oder  Anticholinergika, Lang wirksame  Anticholinergika)
+
+einzeln oder blockweise ausschließlich  mit den folgenden beiden Parametern:  (Kurz wirksame Beta-2-Sympathomimetika und/oder  Anticholinergika, Lang wirksame Beta-2-Sympathomimetika)
+
+einzeln oder blockweise mit weiteren  Anamnese- und Befunddaten
+
+einzeln oder blockweise mit weiteren  Anamnese- und Befunddaten
 
 
 ---
@@ -1463,7 +1483,7 @@ Der Anwender soll die Möglichkeit erhalten, einem relevanten Patienten den Frag
 
 **Akzeptanzkriterium:**
 
-Das System muss dem Anwender die Möglichkeit bieten, den CPG-Fragebogen [KBV_ITA_VHEX_CPG- Fragebogen] im Rahmen der Erst- und Verlaufsdokumentation vollständig auszudrucken.
+Das System muss dem Anwender die Möglichkeit bieten, den CPG-Fragebogen [KBV_ITA_VHEX_CPG-Fragebogen] im Rahmen der Erst- und Verlaufsdokumentation vollständig auszudrucken.
 
 **Bedingung:**
 
@@ -1581,7 +1601,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chroni
 
 ---
 
-Das System ermöglicht die Übernahme der Ergebnisse der Fragen 3 und 5 des CPG -Fragebogens in die Erst-  und gegebenenfalls in die Verlaufsdokumentation.
+Das System ermöglicht die Übernahme der Ergebnisse der Fragen 3 und 5 des CPG -Fragebogens in die Erst- und gegebenenfalls in die Verlaufsdokumentation.
 
 **Begründung:**
 
@@ -1589,7 +1609,7 @@ Die doppelte Eingabe von bereits erfassten Daten soll verhindert werden.
 
 **Akzeptanzkriterium:**
 
-- 1. Das System übernimmt die Ergebniswerte der Fragen 3 und 5 des CPG-Fragebogens wie folgt in die Erst-  und gegebenenfalls in die Verlaufsdokumentation:
+- 1. Das System übernimmt die Ergebniswerte der Fragen 3 und 5 des CPG-Fragebogens wie folgt in die Erst- und gegebenenfalls in die Verlaufsdokumentation:
 - a) Das Ergebnis der „Frage 3 des CPG-Fragebogens“ in den Parameter „CPG Item 3: Durchschnittliche  Stärke der Kreuzschmerzen in den letzten drei Monaten“
 - b) Das Ergebnis der „Frage 5 des CPG-Fragebogens“ in den Parameter „CPG Item 5:  Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen,  Einkaufen etc.) in den letzten drei Monaten“
 
@@ -1611,7 +1631,7 @@ Der Anwender soll die Möglichkeit erhalten, den im eDMP Depression verpflichten
 
 **Akzeptanzkriterium:**
 
-Das System muss dem Anwender die Möglichkeit bieten, den PHQ-9-Fragebogen [KBV_ITA_VHEX_PHQ-9- Fragebogen] im Rahmen der Erst- und/oder Verlaufsdokumentation vollständig auszudrucken.
+Das System muss dem Anwender die Möglichkeit bieten, den PHQ-9-Fragebogen [KBV_ITA_VHEX_PHQ-9-Fragebogen] im Rahmen der Erst- und/oder Verlaufsdokumentation vollständig auszudrucken.
 
 **Bedingung:**
 
@@ -1621,7 +1641,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depres
 |---|---|
 | **KP1-80** | Überprüfung der Eingaben des PHQ-9-Fragebogens auf Plausibilität |
 
-Das System muss sicherstellen, dass ein Anwender bei jeder Dokumentation (Erst- und  Verlaufsdokumentation) die Bestimmung der Symptomschwere mittels der neun Fragen des PHQ-9- Fragebogens durchführt.
+Das System muss sicherstellen, dass ein Anwender bei jeder Dokumentation (Erst- und  Verlaufsdokumentation) die Bestimmung der Symptomschwere mittels der neun Fragen des PHQ-9-Fragebogens durchführt.
 
 **Begründung:**
 
@@ -1718,7 +1738,7 @@ Der Anwender soll die Möglichkeit erhalten, das im eDMP Rheumatoide Arthritis v
 **Akzeptanzkriterium:**
 
 - 1. Das System muss dem Anwender die Möglichkeit bieten, den DAS-28 [DAS-28 Print] im Rahmen der  Erst- und Verlaufsdokumentation vollständig auszudrucken.
-- 2. Der Ausdruck muss es dem Anwender ermöglichen, die vier Parameter zur Berechnung des DAS -28- Scores einzutragen:
+- 2. Der Ausdruck muss es dem Anwender ermöglichen, die vier Parameter zur Berechnung des DAS -28-Scores einzutragen:
 - a) Anzahl geschwollener Gelenke (sw28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - b) Anzahl druckschmerzhafter Gelenke (t28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - c) Subjektive Krankheitsaktivität (VAS): Einschätzung der Krankheitsaktivität in den letzten sieben Tagen  durch die Patientin oder den Patienten auf einer visuellen Analogskala von 0 (keine  Krankheitsaktivität) bis 100 (stärkst mögliche Krankheitsaktivität).
@@ -1975,7 +1995,7 @@ EXT_ITA_VGEX_Asthma_Kontrolle
 |---|---|
 | **P1-82** | Prüfung der Formatierung von eingegebenen numerischen Werten |
 
-Die Eingaben von numerischen Werten des Anwenders müssen systemseitig auf die in den Plausibilitäts - richtlinien vorgegebenen Formatvorgaben geprüft werden. Diese Überprüfung soll direkt bei der Eingabe  erfolgen. Ein nicht den Vorgaben entsprechendes Eingabeformat eines numerischen Wertes, dessen Größe  den Vorgaben entspricht, muss durch das System automatisch verhindert oder korrigiert werden.
+Die Eingaben von numerischen Werten des Anwenders müssen systemseitig auf die in den Plausibilitäts -richtlinien vorgegebenen Formatvorgaben geprüft werden. Diese Überprüfung soll direkt bei der Eingabe  erfolgen. Ein nicht den Vorgaben entsprechendes Eingabeformat eines numerischen Wertes, dessen Größe  den Vorgaben entspricht, muss durch das System automatisch verhindert oder korrigiert werden.
 
 **Begründung:**
 
@@ -2059,7 +2079,7 @@ KBV_ITA_VGEX_Schnittstelle_eHeader] nach dem Versand zu einer Datenannahmestelle
 
 - 1. Die DMP-Fallnummer muss patientenbezogen vergeben werden. Sie darf innerhalb des Systems nicht  mehr geändert werden, wenn eine Teilnahmeerklärung oder eine elektronische Dokumentation mit  dieser patientenbezogenen Fallnummer versendet worden ist. Die patientenbezogene DMP-Fallnummer  ist beizubehalten, auch wenn sich bei einem Patienten der Kostenträger, der Wohnort, der  Versicherungsstatus oder der Name ändert.
 - 2. Unterläuft dem Anwender bei der Erstanlage einer DMP-Fallnummer ein Fehler und sind bisher keine  elektronischen Dokumentationen mit dieser Fallnummer versendet worden, so muss eine Korrektur der  DMP-Fallnummer möglich sein, wenn der Anwender dies wünscht.
-- 3. Systemseitig kann eine automatische Vergabe der gesamten DMP-Fallnummer oder für Teile der DMP- Fallnummer erfolgen. Der Anwender muss die Möglichkeiten haben, Änderungen an der DMP- Fallnummer vorzunehmen.
+- 3. Systemseitig kann eine automatische Vergabe der gesamten DMP-Fallnummer oder für Teile der DMP-Fallnummer erfolgen. Der Anwender muss die Möglichkeiten haben, Änderungen an der DMP-Fallnummer vorzunehmen.
 - 4. Bei der erneuten Einschreibung eines vorher aus dem DMP ausgeschriebenen Patienten muss diesem  die zuvor verwendete DMP-Fallnummer zugewiesen werden.
 - 5. Gibt der Anwender eine DMP-Fallnummer ein, die systemseitig bereits für einen anderen Patienten  existiert, so darf diese Nummer nicht übernommen werden und das System muss mit einem  entsprechenden Fehlerhinweis den Anwender auffordern eine nichtexistierende DMP -Fallnummer  einzugeben.
 
@@ -2437,7 +2457,7 @@ Mithilfe dieser Anforderung soll sichergestellt werden, dass die aus dem System 
 - 1. Das System muss dem Anwender ermöglichen, die Teilnahmeerklärung zu drucken.
 - 2. Das System muss beim Ausdruck der Teilnahmeerklärung stets die aktuell veröffentlichte Vorlage  inklusive der Abmaße berücksichtigen und vollständig ausdrucken.
 - 3. Die Bedruckung des Personalienfeldes erfolgt stets nach den Bedruckungsvorschriften des Kapitels „2.3  Bedruckung des Personalienfeldes“ aus dem Dokument „Anwendung der eGK - Technische Anlage zu  Anlage 4a (BMV-Ä)“ [KBV_ITA_VGEX_Mapping_KVK.pdf]
-- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2 -210, P2- 220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
+- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2 -210, P2-220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -2551,7 +2571,7 @@ Die Dokumentationen der Indikation Herzinsuffizienz, welche mit einem Erstelldat
 | **PFLICHTFUNKTION EDMP** |  |
 |---|---|
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Schlüssels zur DMP - Datenverschlüsselung (Oeffentlich_DA_Vxy.key) zu verschlüsseln. Welche Form der Datenübertragung  gewählt wird, ist für den Einsatz des XKM nicht relevant. Es muss bei allen Datenübertragungen eingesetzt  werden. Für nähere Erläuterungen zur Funktion und Anwendung des XKM ist in
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Schlüssels zur DMP -Datenverschlüsselung (Oeffentlich_DA_Vxy.key) zu verschlüsseln. Welche Form der Datenübertragung  gewählt wird, ist für den Einsatz des XKM nicht relevant. Es muss bei allen Datenübertragungen eingesetzt  werden. Für nähere Erläuterungen zur Funktion und Anwendung des XKM ist in
 
 KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzulesen.
 
@@ -2581,7 +2601,7 @@ Um die korrekte Zuordnung und Vollständigkeit der übermittelten Dokumente sich
 
 **Bedingung:**
 
-Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP - Dokumentation auf Datenträger unterstützen.
+Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP -Dokumentation auf Datenträger unterstützen.
 
 **KONDITIONALE PFLICHTFUNKTION EDMP**
 
@@ -2601,7 +2621,7 @@ Um die korrekte Zuordnung und Vollständigkeit der übermittelten Dokumente sich
 
 **Bedingung:**
 
-Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP - Dokumentationen auf Datenträger unterstützen
+Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP -Dokumentationen auf Datenträger unterstützen
 
 - -Schnittstellen] beschriftet werden müssen.
 - tum
@@ -2674,7 +2694,7 @@ Die Software muss alle definierten Inhalte zum Barcode der indikationsübergreif
 
 **Begründung:**
 
-Es dürfen nur die Informationen im Barcode codiert werden, die auch auf der TE/EWE aufgedruckt wurden  und in der entsprechenden Satztabelle als Barcode-Inhalt definiert sind. Zusätzlich muss die DMP- Fallnummer in den Barcode übernommen werden.
+Es dürfen nur die Informationen im Barcode codiert werden, die auch auf der TE/EWE aufgedruckt wurden  und in der entsprechenden Satztabelle als Barcode-Inhalt definiert sind. Zusätzlich muss die DMP-Fallnummer in den Barcode übernommen werden.
 
 **Akzeptanzkriterium:**
 
@@ -2693,9 +2713,9 @@ EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend]) für die Datenstelle aufdrucken (sie
 
 ### 3.2.1 Allgemeine Informationen Barcode
 
-Der Barcode enthält die lesbaren Daten der TE/EWE und darüber hinaus noch die Information der „DMP- Fallnummer“. Entgegen den Vorgaben des Personalienfeldes werden die Informationen in den Barcode  ungekürzt erfasst/abgebildet.
+Der Barcode enthält die lesbaren Daten der TE/EWE und darüber hinaus noch die Information der „DMP-Fallnummer“. Entgegen den Vorgaben des Personalienfeldes werden die Informationen in den Barcode  ungekürzt erfasst/abgebildet.
 
-Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufgedruckten  Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die Formularcode - ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte  Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks der TE/EWE.
+Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufgedruckten  Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die Formularcode -ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte  Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks der TE/EWE.
 
 Um den Barcode platzsparend generieren zu können, wird für den Barcode das dynamische Format  verwendet. Die einzelnen Datenfelder werden dabei mit dem Feldtrenner TAB getrennt.
 
@@ -2913,7 +2933,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt dem Anwender eine Funktion zur Verfügung, um neue Datenannahmestellen - Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  aufzunehmen.
+- 1. Die Software stellt dem Anwender eine Funktion zur Verfügung, um neue Datenannahmestellen -Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  aufzunehmen.
 - 2. Die Software stellt dem Anwender eine Funktion zur Verfügung, bestehende Datenannahmestellen Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  anzupassen.
 - 3. Die nach den Akzeptanzkriterien 1 und 2 durchgeführten Änderungen bleiben bis zur Anpassung der  Datengrundlage auf Grundlage einer aktualisierten SDDA erhalten.
 

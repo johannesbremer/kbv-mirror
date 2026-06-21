@@ -131,15 +131,15 @@ XML-Code 7: hinweistext ........................................................
 
 # 1 Einleitung
 
-Die Kommunikation zwischen Arztpraxen, Arzt und Patient oder Arzt und Krankenkasse wird  häufig mit Hilfe von Formularen (Muster) abgehandelt. Um die korrekte Befüllung der Muster  zu unterstützen, wurden die sogenannten Ausfüllhilfen, ursprünglich rein im PDF-t- wickelt.
+Die Kommunikation zwischen Arztpraxen, Arzt und Patient oder Arzt und Krankenkasse wird  häufig mit Hilfe von Formularen (Muster) abgehandelt. Um die korrekte Befüllung der Muster  zu unterstützen, wurden die sogenannten Ausfüllhilfen, ursprünglich rein im PDF-t-wickelt.
 
-Im Gegensatz zu den Vordruckerläuterungen, welche mit dem GKV-n- tiert werden, handelt es sich bei den Ausfüllhilfen nicht um verbindliche Vorgaben, sondern  um eine Hilfestellung, die Ärzten das Ausfüllen der Formulare erleichtern soll.
+Im Gegensatz zu den Vordruckerläuterungen, welche mit dem GKV-n-tiert werden, handelt es sich bei den Ausfüllhilfen nicht um verbindliche Vorgaben, sondern  um eine Hilfestellung, die Ärzten das Ausfüllen der Formulare erleichtern soll.
 
-Mit der in diesem Dokument beschriebenen XML-Struktur werden die Informationen der Aus- füllhilfen im XML-Format zur maschinellen Verarbeitung bereitgestellt. Die PDF- Veröffentlichungen sind nach wie vor einzusetzen, da sich die Informationen der XML-Dateien  auf die Abbildung der PDF-Dateien beziehen.
+Mit der in diesem Dokument beschriebenen XML-Struktur werden die Informationen der Aus-füllhilfen im XML-Format zur maschinellen Verarbeitung bereitgestellt. Die PDF-Veröffentlichungen sind nach wie vor einzusetzen, da sich die Informationen der XML-Dateien  auf die Abbildung der PDF-Dateien beziehen.
 
 Die vorliegende Beschreibung definiert das Format der Ausfüllhilfen der KBV im XML-, konform zur ehd- Richtlinie [KBV_ITA_VGEX_eHD
 
-Diese Datei wird den Softwarehäusern, welche Praxisverwaltungssysteme herstellen, vom  Dezernat 6 der KBV ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Ver- fügung gestellt.
+Diese Datei wird den Softwarehäusern, welche Praxisverwaltungssysteme herstellen, vom  Dezernat 6 der KBV ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Ver-fügung gestellt.
 
 Format, en
 
@@ -159,7 +159,7 @@ Standard- Namespace ist
 
 ## 2.3 Root-Schema
 
-Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt
+Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt
 
 **urn:ehd/afhi/001**
 
@@ -184,7 +184,7 @@ datatyp ..... Datentyp , "Satzart", "ehd." ist optional als Vorsatz erlaubt;  En
 
 vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
-sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da- ten identisch) bzw. Antwort auf die Frage „Wer hat die Daten geliefert?“;  Entspricht dem Element  Elements *<provider>*
+sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da-ten identisch) bzw. Antwort auf die Frage „Wer hat die Daten geliefert?“;  Entspricht dem Element  Elements *<provider>*
 
 oder dem Element *<organization>*
 
@@ -253,7 +253,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 # 3 ehd – Element (root-
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1:
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea-der“ und „body“, wie es in Abbildung 1:
 
 Element stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden die  eigentlichen Daten hinterlegt.
 
@@ -281,7 +281,7 @@ xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/X
 
 **XML-Code 1:** /ehd
 
-ehd_version: Im XML--File wird die Versionsnummer zur zugrundeliegenden ehd Richtlinie  bzw. des verwendeten ehd-  bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden.
+ehd_version: Im XML--File wird die Versionsnummer zur zugrundeliegenden ehd Richtlinie  bzw. des verwendeten ehd- bis 99.99 festgelegt, anderenfalls wird der Parser Fehler melden.
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die  Version vorgegeben.
 
@@ -312,7 +312,7 @@ Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wi
 
 # 5 body (Inhaltsdaten)
 
-Das ***<body>*** Element beinhaltet alle Informationen, welche auch auf den PDF-Versionen der  Ausfüllhilfen zu finden sind. Die Nummerierung der Felder geht aus der Abbildung in der PDF- Version der jeweiligen Ausfüllhilfe hervor. Der Namensraum ist „urn:ehd/afhi/001“.
+Das ***<body>*** Element beinhaltet alle Informationen, welche auch auf den PDF-Versionen der  Ausfüllhilfen zu finden sind. Die Nummerierung der Felder geht aus der Abbildung in der PDF-Version der jeweiligen Ausfüllhilfe hervor. Der Namensraum ist „urn:ehd/afhi/001“.
 
 ## 5.1 ausfuellhilfen
 
@@ -341,7 +341,7 @@ Schnittstellenbeschreibung [1] verwiesen.
 
 ## 5.2 feld_liste
 
-Das Element <feld_liste> umschließt eine Liste der Elemente <feld> eines Musters zusam- men. Es enthält mindestens ein Kindelement <feld>.
+Das Element <feld_liste> umschließt eine Liste der Elemente <feld> eines Musters zusam-men. Es enthält mindestens ein Kindelement <feld>.
 
 **Abbildung 3:** feld_liste
 
@@ -361,7 +361,7 @@ Der XML-Code für ein <feld_liste> Element hat folgenden Aufbau:
 
 ## 5.3 feld
 
-Das Element <feld> repräsentiert die einzelnen Felder eines Musters. Es enthält jeweils ge- nau ein Kindelement <nummer>, <name> und <hinweistext>.
+Das Element <feld> repräsentiert die einzelnen Felder eines Musters. Es enthält jeweils ge-nau ein Kindelement <nummer>, <name> und <hinweistext>.
 
 **Abbildung 4:** feld
 

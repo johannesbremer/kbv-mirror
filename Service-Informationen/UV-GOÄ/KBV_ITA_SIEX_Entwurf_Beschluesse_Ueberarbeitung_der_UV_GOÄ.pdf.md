@@ -198,11 +198,9 @@ Nummer- *52 nicht*
 |---|---|---|---|---|---|
 | *4* | *10,00* | *10,00* |  |  |  |
 
-*Zuschlag zu Nr. 1 oder 2 für die Entscheidung des Durchgangsarztes, keine Behandlung zu*  *Lasten des Unfallversicherungsträgers einzuleiten bzw. diese abzubrechen. Voraussetzung*  *ist, dass die Gründe dokumentiert, Versicherte über die Entscheidung aufgeklärt und*  *bekannt*
+*Zuschlag zu Nr. 1 oder 2 für die Entscheidung des Durchgangsarztes, keine Behandlung zu*  *Lasten des Unfallversicherungsträgers einzuleiten bzw. diese abzubrechen. Voraussetzung*  *ist, dass die Gründe dokumentiert, Versicherte über die Entscheidung aufgeklärt und*  *bekannt weiterbehandelnde Ärzte informiert werden.*
 
 *Die Leistung kann nur von D-Ärzten abgerechnet werden.*
-
-*weiterbehandelnde Ärzte informiert werden.*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -438,13 +436,11 @@ Nummer Nummer*bei*
 |---|---|---|---|---|---|
 | *53* | *23,27* | *28,96* |  |  |  |
 
-*Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in unmittelbaren*  *zeitlichen Zusammenhang mit der Leistung nach Nr. 50, einschließlich Beratung und*
-
-*Untersuchung.*
+*Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in unmittelbaren*  *zeitlichen Zusammenhang mit der Leistung nach Nr. 50, einschließlich Beratung und*  *Untersuchung.*
 
 *Die Leistung nach Nr. 53 darf nicht anstelle der Nr. 45 abgerechnet werden.*
 
-*Daneben nicht abrechenbar: Nrn. 1, 2, 45, 448*
+*Daneben nicht abrechenbar: Nrn. 1, 2, 45, 448 449*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -467,8 +463,6 @@ Nummer Nummer*bei*
 | *56* | *8,37* | *10,43* |  |  |  |
 
 *Verweilen, ohne Unterbrechung und ohne Erbringung anderer ärztlicher Leistungen, je*  *angefangene halbe Stunde – am Tag*
-
-*449*
 
 
 ---
@@ -826,7 +820,7 @@ Nummer*auch beiderseits zuzüglich Porto*
 |---|---|---|---|---|---|
 | *300* |  |  |  |  |  |
 
-*Allgemeine HB*
+*Allgemeine HB Besondere HB*
 
 *Punktion eines Gelenks*
 
@@ -840,27 +834,23 @@ Nummer*auch beiderseits zuzüglich Porto*
 
 *Daneben nicht abrechenbar: Nrn. 3400, 3410, 3420, 3430, 3440*
 
+*oder Wirbelgelenks*
+
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
 | *302* |  |  |  |  |  |
 
-*Punktion eines Schulter*
+*Punktion eines Schulter oder Hüftgelenks*
 
 *Daneben nicht abrechenbar: Nrn. 3400, 3410, 3420, 3430, 3440*
 
 **40.** In VIII. Zuschläge zu ambulanten Operations Nummern 448, 448a und 449 wie folgt gefasst:
-
-*oder Hüftgelenks*
 
 | *„Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
 | *448* |  |  |  |  |  |
 
 *Beobachtung und Betreuung eines Kranken bis zu zwei Stunden, während der Aufwach* *und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach ambulanten operativen*  *Leistungen bei Durchführung unter ambulanten Anästhesien. Die Leistung nach Nummer*  *448 ist je Behandlungstag nur einmal berechnungsfähig.*
-
-*Besondere HB*
-
-*oder Wirbelgelenks*
 
 *Besondere Kosten Allg. Kosten Sachkosten*
 
@@ -1007,7 +997,7 @@ Nummer*einschließlich Ausstellung*
 |---|---|---|---|---|---|
 | *2019* |  |  |  |  |  |
 
-*Erstanlage einer Vakuumversiegelung*
+*Erstanlage einer Vakuumversiegelung als selbstständige Leistung*
 
 *Die Untersuchung, Beratung, Einweisung in Handhabung und Pflege des Systems, die*  *Vorbereitung der Wunde und Anlage der Wundauflage sind Bestandteil der Leistung. Neben*  *der Pauschale der Besonderen Kosten können keine weiteren Leistungen nach BG* *Nebenkostentarif abgerechnet werden. Die Leistung kann nur einmal im Behandlungsfall*  *abgerechnet werden.*
 
@@ -1034,8 +1024,6 @@ Nummer*einschließlich Ausstellung*
 ***Allgemeine Bestimmungen***
 
 ***Teil A.***
-
-*als selbstständige Leistung*
 
 *2065*
 

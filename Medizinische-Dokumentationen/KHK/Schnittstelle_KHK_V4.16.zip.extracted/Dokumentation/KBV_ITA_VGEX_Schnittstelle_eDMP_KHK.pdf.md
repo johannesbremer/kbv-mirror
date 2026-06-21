@@ -36,11 +36,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  Angina pectoris  LDL Cholesterin  6.1.6 Abschnitt „Relevante Ereignisse“  Relevante Ereignisse  6.1.6.2 Herzinfarkt innerhalb der letzten 12 Monate  6.1.7 Abschnitt „Medikamente“  Thrombozytenaggregationshemmer  Betablocker  ACE Hemmer  Aktuelle Statin-Dosis  Aktuelle Therapiestrategie Statin  Grund für moderate oder niedrige Statin-Dosis  6.1.8 Abschnitt „Schulung“  Schulung bereits vor Einschreibung in DMP wahrgenommen
+6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  Angina pectoris  LDL Cholesterin
+
+6.1.6 Abschnitt „Relevante Ereignisse“  Relevante Ereignisse  6.1.6.2 Herzinfarkt innerhalb der letzten 12 Monate  6.1.7 Abschnitt „Medikamente“  Thrombozytenaggregationshemmer  Betablocker  ACE Hemmer  Aktuelle Statin-Dosis  Aktuelle Therapiestrategie Statin  Grund für moderate oder niedrige Statin-Dosis  6.1.8 Abschnitt „Schulung“  Schulung bereits vor Einschreibung in DMP wahrgenommen
 
 **8**  **9**  **12**  **13**
 
-13  **13**  14  15  16  17  18  18  18  18  19  19  20  21  21  22  22  22  23  23  24  24  25  26  26  27  28  28  29  29  30  30 31
+13  **13**  14  15  16  17  18  18  18  18  19  19  20  21  21  22  22  22  23  23  24
+
+24  25  26  26  27  28  28  29  29  30  30 31
 
 
 ---
@@ -77,9 +81,7 @@ Schulung empfohlen (bei aktueller Dokumentation)  6.1.9 Abschnitt „Behandlungs
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN .........................................................................................................  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ....................................................................................  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE ..........................................................................................................  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN)  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) ..........................................................................................................  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN)  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (ANGINA PECTORIS)  **TABELLE 8:** WERTE BEI ERGEBNISWERT (LDL-CHOLESTERIN)  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (RELEVANTE EREIGNISSE) ...................................................................................  **TABELLE 10:** WERTE BEI ERGEBNISTEXT (HERZINFARKT INNERHALB DER LETZTEN 12 MONATE)  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (THROMBOZYTENAGGREGATIONSHEMMER)  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) .................................................................................................  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) .................................................................................................  **TABELLE 14:** WERTE BEI ERGEBNISTEXT AKTUELLE STATIN **TABELLE 15:** WERTE BEI ERGEBNISTEXT AKTUELLE THERAPIESTRATEGIE ST **TABELLE 16:** WERTE BEI ERGEBNISTEXT GRUND FÜR MODERATE O **TABELLE 17:** WERTE BEI ERGEBNISTEXT (SCHULUNG BEREITS VOR **TABELLE 18:** WERTE BEI ERGEBNISTEXT (SCHULUNG EMPFOHLEN (BEI AKTU **TABELLE 19:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ......................................................................................................................................................  **TABELLE 20:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ......................................................................  **TABELLE 21:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES SPORTLICHES TRAINING)  **TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN)
-
-10  10  11  .................................................................................. 20  22  ................................................................................. 23  ............................................................................................ 24  ........................................................................................... 24  25  ................................... 26  ................................................... 27  28  28  DOSIS ................................................................................ 29  ATIN ......................................................... 29  DER NIEDRIGE STATIN DOSIS ............................... 30  EINSCHREIBUNG IN DMP WAHRGENOMMEN ...... 31  ELLER DOKUMENTATION) ...................... 31  32  33  ....................................................... 33  ....................................... 36
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 20  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 22  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 23  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (ANGINA PECTORIS) ............................................................................................ 24  **TABELLE 8:** WERTE BEI ERGEBNISWERT (LDL-CHOLESTERIN) ........................................................................................... 24  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (RELEVANTE EREIGNISSE) ................................................................................... 25  **TABELLE 10:** WERTE BEI ERGEBNISTEXT (HERZINFARKT INNERHALB DER LETZTEN 12 MONATE) ................................... 26  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (THROMBOZYTENAGGREGATIONSHEMMER) ................................................... 27  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) ................................................................................................. 28  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) ................................................................................................. 28  **TABELLE 14:** WERTE BEI ERGEBNISTEXT AKTUELLE STATIN DOSIS ................................................................................ 29  **TABELLE 15:** WERTE BEI ERGEBNISTEXT AKTUELLE THERAPIESTRATEGIE STATIN ......................................................... 29  **TABELLE 16:** WERTE BEI ERGEBNISTEXT GRUND FÜR MODERATE ODER NIEDRIGE STATIN DOSIS ............................... 30  **TABELLE 17:** WERTE BEI ERGEBNISTEXT (SCHULUNG BEREITS VOR EINSCHREIBUNG IN DMP WAHRGENOMMEN ...... 31  **TABELLE 18:** WERTE BEI ERGEBNISTEXT (SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ...................... 31  **TABELLE 19:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ...................................................................................................................................................... 32  **TABELLE 20:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 33  **TABELLE 21:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES SPORTLICHES TRAINING) ....................................................... 33  **TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ....................................... 36
 
 |  |  |
 |---|---|
@@ -293,11 +295,11 @@ Abbildung 2 dargestellt.
 
 ## 6.1 SEKTION (SECTION)
 
-Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
+Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
 
 **Abbildung 3:** Grundstruktur section
 
-Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“, „Relevante  Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind.
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“, „Relevante  Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind.
 
 |  |  |
 |---|---|
@@ -307,7 +309,7 @@ Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und
 
 ### 6.1.1 caption
 
-Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN- Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
 
 Attribut des  „Administrative Daten“, „Anamnese
 
@@ -610,7 +612,7 @@ Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 
 ### LDL Cholesterin
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „LDL-Cholesterin Wert und im *U*-Attribut die Werte gemäß Tabelle 8, wenn ein Wert gemessen wurde (siehe XML-Code 19 Wenn kein Wert gemessen wurde, wird anstelle von <sciphox:Ergebniswert> ein Element  <sciphox:Ergebnistext> mit dem vorgeschriebenen V-Attributwert „Nicht bestimmt“ verwendet (siehe XML- Code 20
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „LDL-Cholesterin Wert und im *U*-Attribut die Werte gemäß Tabelle 8, wenn ein Wert gemessen wurde (siehe XML-Code 19 Wenn kein Wert gemessen wurde, wird anstelle von <sciphox:Ergebniswert> ein Element  <sciphox:Ergebnistext> mit dem vorgeschriebenen V-Attributwert „Nicht bestimmt“ verwendet (siehe XML-Code 20
 
 Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 

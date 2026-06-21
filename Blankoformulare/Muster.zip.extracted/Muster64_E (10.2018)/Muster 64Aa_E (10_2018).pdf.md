@@ -6,19 +6,17 @@
 
 **Kostenträgerkennung** **Versicherten-Nr.**
 
+**Status**
+
 **Betriebsstätten-Nr.**
 
 **Arzt-Nr.**
 
-**I. Vorsorgerelevante Gesundheitsstörungen/Erkrankungen** **A. Vorsorgerelevante Gesundheitsstörungen einschließlich Risikofaktoren** ***(Beschwerden, die in absehbarer Zeit zu einer Erkra***
-
-**B. Vorsorgerelevante Erkrankungen in der Reihenfolge ihrer Bedeutung**
-
-**Status**
-
 **Datum**
 
-***nkung führen können)***
+**I. Vorsorgerelevante Gesundheitsstörungen/Erkrankungen** **A. Vorsorgerelevante Gesundheitsstörungen einschließlich Risikofaktoren** ***(Beschwerden, die in absehbarer Zeit zu einer Erkrankung führen können)***
+
+**B. Vorsorgerelevante Erkrankungen in der Reihenfolge ihrer Bedeutung**
 
 #### Verordnung medizinischer
 

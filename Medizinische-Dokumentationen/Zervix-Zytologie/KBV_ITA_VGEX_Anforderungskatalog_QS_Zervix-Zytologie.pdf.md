@@ -68,7 +68,7 @@ tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung der zervix-zytologischen Untersuchungen eingesetzt wird. Es wird eine Jahressta- tistik der zervix-zytologischen Untersuchungen an die zuständige KV übermittelt.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung der zervix-zytologischen Untersuchungen eingesetzt wird. Es wird eine Jahressta-tistik der zervix-zytologischen Untersuchungen an die zuständige KV übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
@@ -77,7 +77,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 ## 1.2 Pflichtfunktionen und optionale Funktionen der Software
 
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben Optionale Funktionen.
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego-rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben Optionale Funktionen.
 
 **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
@@ -99,7 +99,7 @@ Pflichtfunktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **P4-10** | **Funktionsbezeichnung** |
 
-Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Versi- on
+Ident-Nummer einer Pflichtfunktion Ident-Nummer einer älteren Versi-on
 
 Optionale Funktionen sind wie folgt gekennzeichnet:
 
@@ -107,7 +107,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
-Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi- on (2-70)
+Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi-on (2-70)
 
 ---
 
@@ -121,7 +121,7 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi- on (2-
 |---|---|
 | **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der zervix-zytologischen Jahresstatistik ermöglichen.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. der zervix-zytologischen Jahresstatistik ermöglichen.
 
 Die in der Schnittstellenbeschreibung QS Zervix-Zytologie
 
@@ -132,7 +132,7 @@ KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie] festgelegten Datenelemente müss
 | **P1-20** | **Berichtszeiträume** |
 
 1. Die Ausgangsbefunde werden vom 01.01-31.12 des Berichtsjahres erfasst.
-2. Die histologischen Abklärungen zu den Ausgangsbefunden können nur bis 30.06 des  Folgejahres angegeben werden. Frauen, die durch zytologische Kontrollen weiter un- tersucht werden, und bei denen aber keine histologische Abklärungsdiagnostik bis  zum 30.06 des Folgejahres erfolgte, sind nicht aufzuführen.
+2. Die histologischen Abklärungen zu den Ausgangsbefunden können nur bis 30.06 des  Folgejahres angegeben werden. Frauen, die durch zytologische Kontrollen weiter un-tersucht werden, und bei denen aber keine histologische Abklärungsdiagnostik bis  zum 30.06 des Folgejahres erfolgte, sind nicht aufzuführen.
 
 **2.1.2 Ausgangsbefunde**
 
@@ -192,7 +192,7 @@ Die Jahresstatistik ist ab 01.07 des Folgejahres an die Kassenärztliche Vereini
 
 Das System muss,
 
-a) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vor- gaben für den Export vorbereiten,
+a) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vor-gaben für den Export vorbereiten,
 
 b) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Zervix-Zytologie und einer Begleitdatei besteht und
 
@@ -204,7 +204,7 @@ c) exportierte Datensätze innerhalb des Systems kennzeichnen.
 |---|---|
 | **P2-20** | **Einsatz Kryptomodul (XKM)** |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in Ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-Zyto-Zervix-Datenverschlüsselung (Oeffentlich_QSZZ_Vxy.key) zu ver- schlüsseln. Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM  nicht relevant. Es muss bei allen Datenübertragungen eingesetzt werden. Für nähere Erläute- rungen zur Funktion und Anwendung des XKM ist in [KBV_ITA_AHEX_Handbuch_XKM
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations-archiv in Ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-Zyto-Zervix-Datenverschlüsselung (Oeffentlich_QSZZ_Vxy.key) zu ver-schlüsseln. Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM  nicht relevant. Es muss bei allen Datenübertragungen eingesetzt werden. Für nähere Erläute-rungen zur Funktion und Anwendung des XKM ist in [KBV_ITA_AHEX_Handbuch_XKM
 
 nachzulesen.
 
@@ -218,16 +218,16 @@ Werden Datenträger zur Datenübermittlung der Dokumentationsdaten eingesetzt, s
 |---|---|
 | **P2-25** | **Beschriftung der eingesetzten Datenträger** |
 
-Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger ge- mäß den Beschreibungen im Kapitel „Beschriftung der Datenträger“ in
+Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger ge-mäß den Beschreibungen im Kapitel „Beschriftung der Datenträger“ in
 
-KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur Be- druckung entsprechender Aufkleber (oder der direkten Labelbeschriftung) kann angeboten  werden.
+KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur Be-druckung entsprechender Aufkleber (oder der direkten Labelbeschriftung) kann angeboten  werden.
 
 | PFLICHTFUNKTION QS Zervix-Zyto | |
 |---|---|
 | **P2-30** | **Erstellung Transportbegleitzettel** |
 
 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben  von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel  „Transportbegleitzettel“ in [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
-2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken.  Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels hand- schriftlich anzugeben.
+2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken.  Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels hand-schriftlich anzugeben.
 
 ---
 

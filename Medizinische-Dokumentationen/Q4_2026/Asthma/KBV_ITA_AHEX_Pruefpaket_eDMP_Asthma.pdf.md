@@ -1246,7 +1246,7 @@ Anlage einer Erstdokumentation mit der Schnittstellenversion Asthma bronchiale-D
 | Schriftlicher Selbstmanagementplan | Ja |
 | Therapieanpassung | Reduktion der Medikation |
 
-Bedarfsmedikation Alltag wegen Asthma bronchiale Wochen: Asthmabedingte Störung des Nachtschlafes Häufigkeit des Einsatzes der -Wertes 
+Häufigkeit des Einsatzes der Bedarfsmedikation Alltag wegen Asthma bronchiale Wochen: Asthmabedingte Störung des Nachtschlafes -Wertes 
 
 
 ---

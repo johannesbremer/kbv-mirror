@@ -330,7 +330,7 @@ Nachdem der Arzt der VoS mitgeteilt hat, dass die Aktionen in der VoS beendet si
 
 ## 2.3 DATENTRANSFER
 
-Die beteiligten Systeme tauschen die Daten auf Basis des HL7® FHIR® (Fast Healthcare Interoperability  Resources) Standards und mittels Rest-Service aus. Hier kommt die webbasierte API Technologie -RESTful-  Protokoll zum Einsatz. Das XML-Format wird für die Repräsentation der Daten verwendet.
+Die beteiligten Systeme tauschen die Daten auf Basis des HL7® FHIR® (Fast Healthcare Interoperability  Resources) Standards und mittels Rest-Service aus. Hier kommt die webbasierte API Technologie -RESTful- Protokoll zum Einsatz. Das XML-Format wird für die Repräsentation der Daten verwendet.
 
 ## 2.4 ZERTIFIZIERUNG
 
@@ -363,7 +363,7 @@ Mindestens diejenigen Systeme, die eine Zulassung nach EXT_ITA_VGEX_Anforderungs
 
 # 3 ANFORDERUNGEN AN DAS PVS UND DIE VOS
 
-Dieses Kapitel enthält Anforderungen, die für das PVS und die VoS verbindlich bei der Umsetzung der B1- SST bzw. B2-SST sind.
+Dieses Kapitel enthält Anforderungen, die für das PVS und die VoS verbindlich bei der Umsetzung der B1-SST bzw. B2-SST sind.
 
 **3.1** **VERBINDLICHE DOKUMENTE**
 
@@ -391,7 +391,7 @@ Die KBV-Profile müssen ohne jegliche Modifikation eingesetzt werden.
 
 Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Diese mussten für den vorliegenden Anwendungsbereich  entsprechend angepasst werden.
 
-Für die Umsetzung der VoS-SST wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis- Profilen der FHIR®-Spezifikation abgeleitet sind.
+Für die Umsetzung der VoS-SST wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis-Profilen der FHIR®-Spezifikation abgeleitet sind.
 
 Die KBV-Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR® Ressourcen zu verwenden sind.
 
@@ -741,7 +741,7 @@ Dem Arzt muss der Aufruf der VoS aus dem PVS ohne Umwege ermöglicht werden.
 
 **Akzeptanzkriterium:**
 
-- 1. Name: kID (Kontext-ID)4  Typ: eine beliebige Kombination aus Zahlen, Groß und Kleinbuchstaben sowie „ “ oder „.“ (^[A-Za- z0-9\-\.]{1,64}$)  Länge: max. 64 Zeichen.
+- 1. Name: kID (Kontext-ID)4  Typ: eine beliebige Kombination aus Zahlen, Groß und Kleinbuchstaben sowie „ “ oder „.“ (^[A-Za-z0-9\-\.]{1,64}$)  Länge: max. 64 Zeichen.
 - 2. Name: FHIR-Basis-URL  Beim Aufruf der VoS wird die FHIR-Basis-URL des PVS mit übergeben - z.B.  [http://testpraxis.com/fhir-endpunkt](http://testpraxis.com/fhir-endpunkt)
 
 4 Wird auch als Bundle-ID bezeichnet
@@ -1049,7 +1049,7 @@ Diese Anforderung ermöglicht den direkten Aufruf der Verordnungsfunktion „Med
 
 - 1. Der Arzt kann mit dem Aufrufkontext = 8 die VoS aus dem PVS aufrufen.
 - 2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion  P4-10 der VoS übergeben wird.
-- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „8  Medikationsplan auf Basis des Barcodes vom MP aktualisieren“ aus Tabelle 3 mit den zugehörigen FHIR- Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „8  Medikationsplan auf Basis des Barcodes vom MP aktualisieren“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
 - 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „8  Medikationsplan auf Basis des Barcodes vom BMP aktualisieren“ aus Tabelle 3 mit den zugehörigen  FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im Aufruf-Bundle übergeben werden.
 
 **Bedingung:**
@@ -1172,7 +1172,7 @@ Diese Anforderung muss nur dann umgesetzt werden, wenn das PVS die entsprechende
 
 Storno“ mit den
 
-- eRezept- Tabelle 3) vom PVS im Aufruf-
+- eRezept-Tabelle 3) vom PVS im Aufruf-
 - Informationen gemäß Spalte „12  Tabelle 3) vom PVS im
 
 **4.3** **DATEN PRÜFEN**
@@ -1232,7 +1232,7 @@ Das PVS muss diese Anforderungen unterstützen, wenn die benöti verfügbar sind
 
 - Der aus der Kostenträgerstammdatei der  KBV ermittelte Bedruckungsname des  Kostenträgers ist zu übermitteln.
 - Der Patient kann mindestens mit drei  unterschiedlichen Adresstypen im PVS  gespeichert sein. Das PVS muss bei der  Übermittlung der KBV-Profile sicherstellen,  dass die auf dem Rezept zu bedruckende  Adresse übertragen wird.
-- Die Daten sind immer aus dem Kontext  heraus zu übertragen, z. B. wird die ASV  Teamnummer nur dann übermittelt, wenn  die Verordnung im Rahmen einer ASV- Behandlung erfolgt und die ASV- Teamnummer statt der BSNR auf dem  Rezept aufgedruckt werden muss.
+- Die Daten sind immer aus dem Kontext  heraus zu übertragen, z. B. wird die ASV  Teamnummer nur dann übermittelt, wenn  die Verordnung im Rahmen einer ASV-Behandlung erfolgt und die ASV-Teamnummer statt der BSNR auf dem  Rezept aufgedruckt werden muss.
 
 , wenn die Angaben verfügbar sind.
 
@@ -1328,7 +1328,7 @@ Die VoS übergibt die patientenbezogenen Daten/Dokumente zum Speichern immer an 
 
 **Akzeptanzkriterium:**
 
-- 1. Das PVS muss sicherstellen, dass die von der VoS zur Verfügung gestellten Dokumente als PKCS#7, PDF-  bzw. XML (z. B. Rezept, Medikationsplan) mit Patientenbezug gespeichert werden.
+- 1. Das PVS muss sicherstellen, dass die von der VoS zur Verfügung gestellten Dokumente als PKCS#7, PDF- bzw. XML (z. B. Rezept, Medikationsplan) mit Patientenbezug gespeichert werden.
 - 2. Das PVS muss sicherstellen, dass die Praxis- und Patientenangaben in den eigenen Stammdaten des PVS  nicht überschrieben werden.
 - 3. Tritt beim Speichern der VoS ein Fehler auf, so muss unter Beachtung der Anforderung P3-190 eine  aussagekräftige Fehlermeldung angezeigt werden.
 - 4. Das PVS nimmt das Speicher-Bundle von der VoS entgegen und speichert die darin enthaltenen Daten  mit Patientenbezug (d. h. in der Patientendokumentation) ab. Die Verarbeitung des Speicher-Bundles  erfolgt gemäß [KBV_ITA_VGEX_SST_Festlegung_VOS mit der Interaktion „Transaction“. Dabei stellt das  PVS sicher, dass keine Strukturierung verloren geht, so dass bei einer ggf. späteren Übergabe dieser  Daten an eine VoS, die Daten in der Struktur übergeben werden, wie diese entgegengenommen wurde.  Wird z. B. die Dosierung nicht als Freitext, sondern als kodierte Information (morgens, mittags, abends,  nachts) übergeben, so muss diese Dosierung in der gleichen Form zu einem späteren Zeitpunkt wieder  ausgeliefert werden. Daten, die vor der Einführung der VoS-Schnittstelle im PVS gespeichert sind, sind,  wenn sie strukturiert im PVS vorliegen, auch strukturiert auszuliefern. Liegt z. B. die Dosierung  strukturiert in der Patientendokumentation vor, so ist diese auch strukturiert und nicht als Freitext an  der B1-Schnittstelle anzubieten, wenn die Strukturierungen in der VoS-Schnittelle und  Patientendokumentation deckungsgleich sind.
@@ -1555,7 +1555,7 @@ Die VoS muss vor dem Start alle notwendigen Parameter für den Zugriff auf FHIR�
 |---|---|
 | **P5-10** | Datenabfrage beim PVS |
 
-Führt der Arzt eine entsprechende Funktion in der VoS aus, so fragt die VoS über die read- und search- Interaktion des REST-Services (siehe P3-230) ausschließlich die benötigten FHIR®-Ressourcen vom PVS ab.
+Führt der Arzt eine entsprechende Funktion in der VoS aus, so fragt die VoS über die read- und search-Interaktion des REST-Services (siehe P3-230) ausschließlich die benötigten FHIR®-Ressourcen vom PVS ab.
 
 **Begründung:**
 

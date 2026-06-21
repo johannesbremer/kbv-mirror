@@ -83,14 +83,14 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
-2
+2 REALISIERUNG VON ANFORDERUNGEN
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN DMP OST
 
 Folgende optionale DMP OST Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
@@ -106,10 +106,6 @@ Folgende optionale DMP OST Funktionen sind gem. Anforderungskatalog DMP realisie
 |  |  |
 |  |  |
 |  |  |
-
-# REALISIERUNG VON ANFORDERUNGEN
-
-## REALISIERTE OPTIONALE FUNKTIONEN DMP OST
 
 der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitäts Kostenträger-Stammdatei richtlinien erfüllt sind. ANFORDERUNGSKATALOG
 

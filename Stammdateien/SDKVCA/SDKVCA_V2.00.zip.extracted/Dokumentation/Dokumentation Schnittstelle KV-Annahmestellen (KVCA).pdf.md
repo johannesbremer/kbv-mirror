@@ -170,43 +170,47 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **Kap Änderung**
 
+**Status**
+
 0.4 16.07.20 KV Telematik 5
 
-Aufnahme Attribut-Gruppe gueltigkeit 18
+Aufnahme Attribut-Gruppe gueltigkeit
+
+außer  18
 
 GmbH
 
-Anpassung Abbildung 11 Anpassung Tabelle 16 <version> Angabe von max. 2 Elementen möglich gueltigkeit kann gesetzt werden Anpassung Tabelle 15
+Anpassung Abbildung 11
 
-0.3 07.11.20 KV Telematik alle Überarbeitung nach interner Kommentierung 16
+Kraft Anpassung Tabelle 16 <version> Angabe von max. 2 Elementen möglich gueltigkeit kann gesetzt werden Anpassung Tabelle 15
+
+0.3 07.11.20 KV Telematik alle Überarbeitung nach interner Kommentierung
+
+außer  16
+
+GmbH
+
+Kraft
+
+0.2 25.10.20 KV Telematik alle redaktionelle Änderungen
+
+außer  16
 
 GmbH
 
-0.2 25.10.20 KV Telematik alle redaktionelle Änderungen 16
+Kraft 0.1 24.10.20 KV Telematik alle
+
+initiale  16
 
 GmbH
 
-0.1 24.10.20 KV Telematik alle 16
-
-GmbH
+Erstellun g
 
 **Herausgeber:** kv.digital GmbH
 
-**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)** [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
+**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)**[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
 
-Seite
-
-**Status**
-
-außer  Kraft
-
-außer  Kraft
-
-außer  Kraft
-
-initiale  Erstellun g
-
-[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) 5 von 27
+Seite 5 von 27
 
 
 ---
@@ -238,7 +242,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **2.2 Namespace** Standard-Namespace ist urn:ehd/001.
 
-**2.3 Root-Schema** Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen header- und body- Schemata inkludiert sind, heißt kvca_root.xsd.
+**2.3 Root-Schema** Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen header- und body-Schemata inkludiert sind, heißt kvca_root.xsd.
 
 **2.4 Dateinamenskonvention** Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie [ehd].
 
@@ -256,13 +260,13 @@ Für die Stammdatei KVCA ist der datatyp immer "kvca".
 
 vv.vv
 
-VersionsNr. der Datentypbeschreibung; Entspricht dem Element <ehd:version> des Header- Elements <ehd:interface>.
+VersionsNr. der Datentypbeschreibung; Entspricht dem Element <ehd:version> des Header-Elements <ehd:interface>.
 
 sender
 
 Absender der Lieferung, bzw. wer hat die Daten geliefert;
 
-Entspricht inhaltlich dem Element <person> oder dem Element <organization> des Header- Elements <provider>. Es wird hier die OID der kv.digital GmbH verwendet: 1.2.276.0.76.3.1.64.
+Entspricht inhaltlich dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Es wird hier die OID der kv.digital GmbH verwendet: 1.2.276.0.76.3.1.64.
 
 tf+
 
@@ -315,7 +319,7 @@ Das Element hat folgenden Aufbau:
 
 **1 Abbildung: Erläuterung ehd** **ehd_version**
 
-Im XML-File wird die Versionsnummer der zugrunde liegenden ehd-Richtlinie bzw. des verwendeten ehd- Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser  Fehler melden. Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version vorgegeben.
+Im XML-File wird die Versionsnummer der zugrunde liegenden ehd-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser  Fehler melden. Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version vorgegeben.
 
 **header**
 
@@ -334,22 +338,22 @@ Seite 9 von 27
 
 ---
 
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
+
 **4 header (Metadaten)**
 
 **4.1 header (Metadaten)** Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsdaten und hat folgende  Struktur:
 
 **2 Abbildung: header**
 
-Seite
-
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA) 10 von 27
+Seite 10 von 27
 
 
 ---
 
 4.1.1 id (Dokument-ID)
 
-Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XML-Dokument bzw. jede XML- Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere id. D.h., dass auch bei Korrekturen  eine neue id vergeben werden muss.
+Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XML-Dokument bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere id. D.h., dass auch bei Korrekturen  eine neue id vergeben werden muss.
 
 Das Element hat folgenden Aufbau:
 
@@ -409,7 +413,7 @@ attributes V
 
 xs:string required
 
-Seite
+Seite 11 von 27
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -425,7 +429,7 @@ Im V-Attribut steht die Versionsnummer, bei der  Erstlieferung erhält das V-Att
 
 **Erläuterung**
 
-Kürzel, kodierter Wert 11 von 27
+Kürzel, kodierter Wert
 
 
 ---
@@ -509,7 +513,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **3 Abbildung: originator** Bei der Stammdatei KVCA wird nur das Kindelement organization genutzt.
 
-### organization (Organisationsdaten)
+organization (Organisationsdaten)
 
 Im Element <organization> sind die Organisationsdaten hinterlegt.
 
@@ -577,7 +581,7 @@ example
 
 **8 Tabelle: STR, HNR, ZIP und CTY**
 
-Seite
+Seite 15 von 27
 
 V
 
@@ -592,8 +596,6 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 **Erläuterung**
 
 required Entsprechende Werte für STR, HNR, ZIP sowie CTY.
-
-15 von 27
 
 
 ---
@@ -622,7 +624,7 @@ example <ehd:telecom V="tel:030 - 45002700"/> <ehd:telecom V="[support@kv.digita
 
 Das Element <provider> enthält Informationen zum Lieferanten/Sender der Daten und hat folgende Struktur:
 
-Seite
+Seite 16 von 27
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -630,7 +632,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 Angaben für
 
-tel (Telefon) fax (Fax) mailto (E-Mail-Adresse) http (Homepage) ftp (FTP-Server) 16 von 27
+tel (Telefon) fax (Fax) mailto (E-Mail-Adresse) http (Homepage) ftp (FTP-Server)
 
 
 ---
@@ -785,7 +787,7 @@ example <ehd:version V="1.04"/>
 
 **13 Tabelle: version**
 
-Seite
+Seite 19 von 27
 
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
@@ -801,10 +803,12 @@ Bezeichnung der Schnittstelle
 
 **Erläuterung**
 
-Versionsnummer der Schnittstelle 19 von 27
+Versionsnummer der Schnittstelle
 
 
 ---
+
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **5 body (Datenbereich)** Im Bereich <body> liegen die eigentlichen Inhalte der Datenlieferung. Der Namensraum ist "urn:ehd/kvca/ 001".
 
@@ -826,9 +830,7 @@ Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit dem jede KV iden
 
 Das Element hat folgenden Aufbau:
 
-Seite
-
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA) 20 von 27
+Seite 20 von 27
 
 
 ---
@@ -853,7 +855,7 @@ example <kvca:id EX="38" RT="1.2.276.0.76.5.233"/>
 
 anwendungsliste (Liste der Anwendungen)
 
-Das Element <anwendungsliste> gibt eine Liste der Anwendungen an, die eine KV unterstützt bzw. via KV- Connect *KIM* annimmt. Das Element hat folgende Struktur:
+Das Element <anwendungsliste> gibt eine Liste der Anwendungen an, die eine KV unterstützt bzw. via KV-Connect *KIM* annimmt. Das Element hat folgende Struktur:
 
 **10 Abbildung: anwendungsliste**
 
@@ -869,7 +871,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 Dieses Attribut enthält die ID der KV.
 
-Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert "1.2.276.0.76.5.233"  (S_KBV_KV) belegt.
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT-Attribut mit dem Wert "1.2.276.0.76.5.233"  (S_KBV_KV) belegt.
 
 21 von 27
 
@@ -918,7 +920,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 Dieses Attribut enthält die ID der Anwendung.
 
-Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert "1.2.276.0.76.3.1.64.5.1"  (S_KBV_DIENST) belegt.
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT-Attribut mit dem Wert "1.2.276.0.76.3.1.64.5.1"  (S_KBV_DIENST) belegt.
 
 22 von 27
 
@@ -977,7 +979,7 @@ Das Element <kim_email> enthält eine KIM Emailadresse unter der eine KV die Anw
 
 **18 Tabelle: kim_email** Das Element hat denselben Aufbau wie das Element <email> (siehe email (KV-Connect Adresse)).
 
-Seite
+Seite 23 von 27
 
 *gueltig_ab*
 
@@ -1021,7 +1023,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **Erläuterung**
 
-Dieses Attribut enthält die Major-Release- Versionsnummer der Spezifikation.
+Dieses Attribut enthält die Major-Release-Versionsnummer der Spezifikation.
 
 Dieses Attribut gibt den Beginn der Gültigkeit an.
 
@@ -1042,8 +1044,6 @@ Dieses Attribut gibt das Ende der Gültigkeit an.
 *Dieses Attribut enthält Angaben zur Gültigkeit, d.h. ab*  *wann die Adresse gültig ist.*
 
 *Dieses Attribut gibt das Ende der Gültigkeit an.*
-
-23 von 27
 
 
 ---
@@ -1102,7 +1102,7 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 Dieses Attribut enthält den Namen der Funktion.
 
-Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT- Attribut mit dem Wert "1.2.276.0.76.3.1.1.5.2.34"  (S_1CLK_FUNKTION) belegt.
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT-Attribut mit dem Wert "1.2.276.0.76.3.1.1.5.2.34"  (S_1CLK_FUNKTION) belegt.
 
 24 von 27
 
@@ -1129,9 +1129,19 @@ Das Element hat folgenden Aufbau:
 
 attributes S
 
+**Type**
+
+**Use**
+
+xs:string required
+
 SN
 
+xs:string required
+
 SV
+
+xs:string required
 
 example <keytab SV="1.05" SN="S_KBV_DIENST" S="1.2.276.0.76.3.1.64.5.1">
 
@@ -1153,23 +1163,13 @@ attributes *V*
 
 **Use**
 
-xs:string required
-
-xs:string required
-
-xs:string required
-
-**Type**
-
-**Use**
-
 *xs:string* required
 
 S
 
 DN
 
-Seite
+Seite 25 von 27
 
 xs:string required
 
@@ -1187,17 +1187,15 @@ Versionsnummer der Schlüsseltabelle
 
 zu finden.
 
-*V,* S, DN und SV
-
 **Erläuterung**
 
-*Dieses Element enthält den Wert (z.B. Name, Kürzel)*
-
-*des Schlüssels*
+*Dieses Element enthält den Wert (z.B. Name, Kürzel)*  *des Schlüssels*
 
 Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle.
 
-Menschenlesbarer Wert 25 von 27
+Menschenlesbarer Wert
+
+*V,* S, DN und SV
 
 
 ---

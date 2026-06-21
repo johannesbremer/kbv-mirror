@@ -314,34 +314,120 @@ Mehrere Vorbefüllungen Einzelne Vorbefüllung KV-SYSTEMS Daten für die Vorbef�
 
 ---
 
-\| TelematikIDType Wird NICHT von der AttrBS gefüllt und  Der TSP MUSS die TelematikID mit dem | Art der Institution,  Praxisform | O  OrgFormKey | Art der Institution, Dienststellenart,  z.B. EP, BAG, ÜBAG, MVZ | Wird von der AttrBS NICHT gefüllt und  Gesellschafter [ ] | Gesellschafter   O |
-| DATENFELD | BESTANDTEIL | ELEMENT/ | P/ | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
-|---|---|---|---|---|---|
-| HNameType | Name(n) des/der Gesellschafter(s) | Wird von der AttrBS NICHT gefüllt und | KV-Bereich | KVBereich | P  KVBereichKey |
-| MUSS von der AttrBS gefüllt werden; **Tabelle 23: ** | SubjectAltName |  |  | O | lat:String.Latin alternativer Institutionsname  EmpfaengerInfo |
-|  |  | EmpfaengerInfo | O | VPersonType | Name und Anschrift des berechtigten |
-|  | WENN VPersonType von der AttrBS | Anzahl Karten |  | AnzahlKarten | O |
-|  | xs:int | Anzahl der zu produzierenden Karten |  | Attributbe- | AttrBestStelle |
-|  | P | AttrBSType | Für die Ausgabe der jeweiligen Karte | Für AttrBS_Ident in AttrBSType sind die | **Tabelle 15: AttrBSType** |
-|  |  | AttrBSType->AttrBS_Data wird NICHT | **2.3** | Die Datenstrukturen SmcbNachbefuellung und SmcbNachbefuellungen werden im KV |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  | "Betriebsstätte Arzt" oder |
-|  | Verantwortliche/r der | VerantwPerson[] | O | VPersonType | Name und Anschrift des/der  Wird von der AttrBS NICHT gefüllt und |
-|  | Kennnummer der | InstID | P | String20Type | identifizierendes Merkmal für die  MUSS mit der 9 stelligen |
-|  | Telematik-ID | TelematikID | O | TelematikIDType | Wird NICHT von der AttrBS gefüllt und  Der TSP MUSS die TelematikID mit dem |
-|  | Art der Institution, | Praxisform | O | OrgFormKey | Art der Institution, Dienststellenart,  z.B. EP, BAG, ÜBAG, MVZ  Wird von der AttrBS NICHT gefüllt und |
-|  | Gesellschafter [ ] | Gesellschafter | O | HNameType | Name(n) des/der Gesellschafter(s)  Wird von der AttrBS NICHT gefüllt und |
-|  | KV-Bereich | KVBereich | P | KVBereichKey | MUSS von der AttrBS gefüllt werden; **Tabelle 23: ** |
-| SubjectAltName |  |  | O | lat:String.Latin | alternativer Institutionsname |
-| EmpfaengerInfo |  | EmpfaengerInfo | O | VPersonType | Name und Anschrift des berechtigten  WENN VPersonType von der AttrBS |
-| Anzahl Karten |  | AnzahlKarten | O | xs:int | Anzahl der zu produzierenden Karten |
-| Attributbe- |  | AttrBestStelle | P | AttrBSType | Für die Ausgabe der jeweiligen Karte  Für AttrBS_Ident in AttrBSType sind die **Tabelle 15: AttrBSType**  AttrBSType->AttrBS_Data wird NICHT |
+**DATENFELD**
 
-stätigende NACHBEFÜLLUNG verwendet. (optional, ggf. mehrfach) ATTRIBUT KV-SYSTEMS "Betriebsstätte Psychotherapeut" enthalten Verantwortlichen der Organisation (es können mehrere sein) NICHT gesendet Institution: Institutskennzeichen, Betriebsstättennummer Betriebsstättennummer von der AttrBS NICHT gesendet;  Erhalt der Vorbefüllung nach der vorgegebenen Bildungsvorschrift erzeugen Praxisform, Einrichtung o.ä. NICHT gesendet NICHT gesendet Zulässige Werte sind siehe von der AttrBS NICHT gefüllt und NICHT gesendet Empfängers, falls bekannt und vom Antragsteller abweichend gefüllt wird, MUSS PersName aus VPersonType gefüllt sein;  verantwortliche Stelle Werte in zulässig. gefüllt und NICHT gesendet -System z. Zt. NICHT
+SubjectAltName
+
+EmpfaengerInfo
+
+Anzahl Karten
+
+Attributbe-stätigende  Stelle
+
+## 2.3 NACHBEFÜLLUNG
+
+### Die Datenstrukturen SmcbNachbefuellung und SmcbNachbefuellungen werden im KV verwendet.
+
+**BESTANDTEIL**
+
+Verantwortliche/r der  Institution
+
+Kennnummer der  Institution
+
+Telematik-ID
+
+Art der Institution,  Praxisform
+
+Gesellschafter [ ]  (optional, ggf.  mehrfach)
+
+KV-Bereich
+
+**ELEMENT/**  **ATTRIBUT**
+
+VerantwPerson[]
+
+InstID
+
+TelematikID
+
+Praxisform
+
+Gesellschafter
+
+KVBereich
+
+EmpfaengerInfo
+
+AnzahlKarten
+
+AttrBestStelle
+
+**P/ FELDTYP**
+
+**O**
+
+O VPersonType
+
+P String20Type
+
+O TelematikIDType
+
+O OrgFormKey
+
+O HNameType
+
+P KVBereichKey
+
+O lat:String.Latin
+
+O VPersonType
+
+O xs:int
+
+P AttrBSType
+
+**BEMERKUNG / KONKRETISIERUNG DES**  **KV-SYSTEMS**
+
+"Betriebsstätte Arzt" oder  "Betriebsstätte Psychotherapeut"  enthalten
+
+Name und Anschrift des/der  Verantwortlichen der Organisation (es  können mehrere sein)
+
+Wird von der AttrBS NICHT gefüllt und  NICHT gesendet
+
+identifizierendes Merkmal für die  Institution: Institutskennzeichen,  Betriebsstättennummer
+
+MUSS mit der 9 stelligen  Betriebsstättennummer von der AttrBS  gefüllt werden
+
+Wird NICHT von der AttrBS gefüllt und  NICHT gesendet;
+
+Der TSP MUSS die TelematikID mit dem  Erhalt der Vorbefüllung nach der  vorgegebenen Bildungsvorschrift  erzeugen
+
+Art der Institution, Dienststellenart,  Praxisform, Einrichtung o.ä.
+
+z.B. EP, BAG, ÜBAG, MVZ
+
+Wird von der AttrBS NICHT gefüllt und  NICHT gesendet
+
+Name(n) des/der Gesellschafter(s)
+
+Wird von der AttrBS NICHT gefüllt und  NICHT gesendet
+
+MUSS von der AttrBS gefüllt werden;  Zulässige Werte sind siehe **Tabelle 23:**  **KVBereichKey**
+
+alternativer Institutionsname  Wird  von der AttrBS NICHT gefüllt und NICHT  gesendet
+
+Name und Anschrift des berechtigten  Empfängers, falls bekannt und vom  Antragsteller abweichend
+
+WENN VPersonType von der AttrBS  gefüllt wird, MUSS PersName aus  VPersonType gefüllt sein;
+
+Anzahl der zu produzierenden Karten
+
+Für die Ausgabe der jeweiligen Karte  verantwortliche Stelle  MUSS von der  AttrBS gefüllt werden;
+
+Für AttrBS_Ident in AttrBSType sind die  Werte in **Tabelle 15: AttrBSType**  zulässig.
+
+AttrBSType->AttrBS_Data wird NICHT  gefüllt und NICHT gesendet -System z. Zt. NICHT
+
 
 ---
 
@@ -778,17 +864,9 @@ Es gibt keine Konkretisierung zu [gemSpec_Pers].
 | Gesellschafter (0.. | O | HNameType, | Name, Anschrift und Kommunikationsdaten für jeden der |
 | KVBereich | O | KVBereichKey | KV/KZV/Kammer-Bereich, in dem die Institution ansässig ist. |
 
-### Der Aufbau der Betriebstättennummer (BSNR) in „InstID“ MUSS dem Format aus  BETRIEBSTÄTTENNUMMER (BSNR) IN „INSTID“
+### Der Aufbau der Betriebstättennummer (BSNR) in „InstID“ MUSS dem Format aus  BETRIEBSTÄTTENNUMMER (BSNR) IN „INSTID“ entsprechen.
 
-### TABELLE 18: AUFBAU DER  entsprechen.
-
-### Sonderfall: Bei Betriebsstättennummern (BSNR) beginnend mit den Ziffern 75 oder 35  Nummer an den Stellen 3 und 4.
-
-### steht die KV-
-
-2
-
-2 Siehe KV_AFO_0131 in [KBV_ITV_VGEX_Anforderungskatalog_SMCB]
+### Sonderfall: Bei Betriebsstättennummern (BSNR) beginnend mit den Ziffern 75 oder 35 steht die KV-Nummer an den Stellen 3 und 4. 2
 
 **Tabelle 18:** **Aufbau der Betriebstättennummer (BSNR) in „InstID“**
 
@@ -796,9 +874,14 @@ Es gibt keine Konkretisierung zu [gemSpec_Pers].
 |---|---|
 | 2-stellig numerisch | 7-stellig numerisch |
 
-### Zulässige Werte für „KV Nummer“ MÜSSEN aus TABELLE 19: ZUORDNUNG KV-NUMMER ZU KV-BEREICH entnommen und vom TSP überprüft werden.
+### Zulässige Werte für „KV Nummer“ MÜSSEN aus  entnommen und vom TSP überprüft werden.
 
-Mail gesetzlicher Vertreter der Institution Aufbau der Betriebstättennummer (BSNR) in „InstID“ Wert aus {EP, BAG, ÜBAG, MVZ, Praxisgemeinschaft} StrassenAdressType,
+2 Siehe KV_AFO_0131 in [KBV_ITV_VGEX_Anforderungskatalog_SMCB]
+
+### TABELLE 18: AUFBAU DER
+
+StrassenAdressType, Mail gesetzlicher Vertreter der Institution Aufbau der Betriebstättennummer (BSNR) in „InstID“ Wert aus {EP, BAG, ÜBAG, MVZ, Praxisgemeinschaft} ### TABELLE 19: ZUORDNUNG KV-NUMMER ZU KV-BEREICH
+
 
 ---
 

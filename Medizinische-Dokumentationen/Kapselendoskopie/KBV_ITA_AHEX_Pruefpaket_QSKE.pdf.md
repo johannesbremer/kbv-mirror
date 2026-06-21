@@ -148,7 +148,7 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen  jewe
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
--  i den abgebildeten
+- i den abgebildeten
 
 Unterlagen unter Verwendung des
 
@@ -424,7 +424,7 @@ Beurteilbarkeit des Bildmaterials 7 Status Vollständigkeit der Untersuchung (Z�
 | **Prüfunterlagen** | › › |
 | **Hinweis** |  |
 
-Beurteilbarkeit des Bildmaterials und 6 IEDERHOLUNGSUNTERSUCHUNG Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. 0.06.2015  Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot)
+Beurteilbarkeit des Bildmaterials 7 EMPFEHLUNGEN ZUR WIEDERHOLUNGSUNTERSUCHUNG und 6 Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. 0.06.2015  Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot)
 
 
 ---

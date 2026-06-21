@@ -12,17 +12,13 @@ Version 2.0
 
 ## Anamnese- und Befunddaten
 
-#### Serum-Elektrolyte und eGFR in den letzten
+#### Serum-Elektrolyte und eGFR in den letzten sechs
 
 Eine Angabe ist erforderlich.
 
 In halbjährlichen Abständen sollen die Serum-Elektrolyte (Natrium, Kalium) und die eGFR Serum-Kreatinin-Bestimmung) bestimmt werden. Bitte geben Sie an, ob die Bestimmung erfolgt ist oder  nicht.
 
-Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl  eGFR bestimmt haben. Sofern Sie nur einen von beiden Labortwerten innerhalb der letzten 6 Monate be- stimmt haben, geben Sie bitte „Nein“
-
-#### sechs
-
-an.
+Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl  eGFR bestimmt haben. Sofern Sie nur einen von beiden Labortwerten innerhalb der letzten 6 Monate be-stimmt haben, geben Sie bitte „Nein“ an.
 
 #### Symptomatik
 
@@ -50,7 +46,7 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer
 
 tend.
 
-Geben Sie bitte die Anzahl (ohne Nachkommastelle)  gen Herzinsuffizienz seit der letzten Dokumentation an. Erfolgte seit der letzten Dokumentation kein un- geplanter stationärer Aufenthalt, geben Sie bitte eine
+Geben Sie bitte die Anzahl (ohne Nachkommastelle)  gen Herzinsuffizienz seit der letzten Dokumentation an. Erfolgte seit der letzten Dokumentation kein un-geplanter stationärer Aufenthalt, geben Sie bitte eine
 
 #### Monaten
 
@@ -58,13 +54,13 @@ die Serum-Elektrolyte (Natrium, Kalium) als auch
 
 **Folgedokumentation**
 
-aller ungeplanten vollstationären Aufenthalte we- „0“ an (auf Basis der
+aller ungeplanten vollstationären Aufenthalte we-„0“ an (auf Basis der
 
 die
 
 zum Dokumentationszeitpunkt
 
-Wissenschaftlichen Medizini- 4, 2023
+Wissenschaftlichen Medizini-4, 2023
 
 tisch) gen, Luftnot oder Angina pectoris. gina pectoris, z. B. Bergaufgehen oder Treppensteigen. wohnter Tätigkeit.  gina pectoris, z. B. Gehen in der Ebene.möglich und hier verpflich-
 
@@ -73,21 +69,21 @@ tisch) gen, Luftnot oder Angina pectoris. gina pectoris, z. B. Bergaufgehen oder
 
 ## Medikamente
 
-Bitte machen Sie zu jeder Wirkstoffgruppe eine Angabe. Bitte geben Sie bei „Nein“ gegebenenfalls zusätz- lich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen den Wirkstoff zurückzuführen ist. Diese  Angaben sind für die Qualitätssicherung notwendig.
+Bitte machen Sie zu jeder Wirkstoffgruppe eine Angabe. Bitte geben Sie bei „Nein“ gegebenenfalls zusätz-lich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen den Wirkstoff zurückzuführen ist. Diese  Angaben sind für die Qualitätssicherung notwendig.
 
-Unter Berücksichtigung der Kontraindikationen sollen vorrangig Medikamente zur Behandlung der Herzin- suffizienz verwendet werden, deren positiver Effekt und deren Sicherheit im Hinblick auf die Therapieziele  des DMP in randomisierten, kontrollierten Studien (RCT) nachgewiesen wurden und bei denen eine Wirk- samkeit in Bezug auf patientenrelevante Endpunkte belegt ist.
+Unter Berücksichtigung der Kontraindikationen sollen vorrangig Medikamente zur Behandlung der Herzin-suffizienz verwendet werden, deren positiver Effekt und deren Sicherheit im Hinblick auf die Therapieziele  des DMP in randomisierten, kontrollierten Studien (RCT) nachgewiesen wurden und bei denen eine Wirk-samkeit in Bezug auf patientenrelevante Endpunkte belegt ist.
 
-Es wurde gezeigt, dass die gewünschte Reduktion der Mortalität für Herzinsuffizienz-Patienten nur im Rah- men einer adäquaten Dosierung erreicht werden konnte. Die jeweilige Zieldosis begründet sich aus den  randomisierten kontrollierten Studien mit patientenrelevanten Endpunkten, die die Nutzenbelege erbracht  haben.
+Es wurde gezeigt, dass die gewünschte Reduktion der Mortalität für Herzinsuffizienz-Patienten nur im Rah-men einer adäquaten Dosierung erreicht werden konnte. Die jeweilige Zieldosis begründet sich aus den  randomisierten kontrollierten Studien mit patientenrelevanten Endpunkten, die die Nutzenbelege erbracht  haben.
 
-Die jeweilige Zieldosis ist durch eine , sich an der Verträglichkeit orientierenden (bei MRA langsamen),  Steigerung der Dosierung unter engmaschiger Kontrolle der Vitalparameter und der laborchemischen Be- funde anzustreben. Wenn die optimale Zieldosis nicht erreicht wird, erfolgt die Behandlung in der maximal  von der Patientin bzw. vom Patienten tolerierten Dosis.
+Die jeweilige Zieldosis ist durch eine , sich an der Verträglichkeit orientierenden (bei MRA langsamen),  Steigerung der Dosierung unter engmaschiger Kontrolle der Vitalparameter und der laborchemischen Be-funde anzustreben. Wenn die optimale Zieldosis nicht erreicht wird, erfolgt die Behandlung in der maximal  von der Patientin bzw. vom Patienten tolerierten Dosis.
 
-Bei der an der Symptomatik und Progression orientierten Stufentherapie soll die Titration in kleinen Schrit- ten und mit der gebotenen Wartezeit zur Beobachtung der Wirkung erfolgen. Insbesondere bei bestehen- der Komorbidität sollten Blutdruck, Herzfrequenz, Herzrhythmus und der Elektrolythaushalt (Natrium und  Kalium) sowie die Nierenfunktion kontrolliert werden.
+Bei der an der Symptomatik und Progression orientierten Stufentherapie soll die Titration in kleinen Schrit-ten und mit der gebotenen Wartezeit zur Beobachtung der Wirkung erfolgen. Insbesondere bei bestehen-der Komorbidität sollten Blutdruck, Herzfrequenz, Herzrhythmus und der Elektrolythaushalt (Natrium und  Kalium) sowie die Nierenfunktion kontrolliert werden.
 
-Nach 6 bis maximal 12 Wochen soll bei Patientinnen und Patienten, die weiterhin symptomatisch sind und  noch nicht alle prognoseverbessernden Substanzen erhalten, unter Berücksichtigung individueller Thera- pieziele, Komorbidität und Verträglichkeit, eine Therapieintensivierung mit einer weiteren prognoseverbes- sernden Substanz erfolgen.
+Nach 6 bis maximal 12 Wochen soll bei Patientinnen und Patienten, die weiterhin symptomatisch sind und  noch nicht alle prognoseverbessernden Substanzen erhalten, unter Berücksichtigung individueller Thera-pieziele, Komorbidität und Verträglichkeit, eine Therapieintensivierung mit einer weiteren prognoseverbes-sernden Substanz erfolgen.
 
-Bei initial geplanter Vierfachkombination soll eine Therapieinitiierung möglichst nacheinander, mit nicht  mehr als zwei prognoseverbessernden Substanzen gleichzeitig erfolgen. Dies dient in erster Linie der Ver- meidung von Hypotonie bedingten Komplikationen wie orthostatischer Dysregulation und Stürzen sowie  Elektrolytentgleisungen. Für die Therapieinitialisierung mit einer weiteren Substanz ist eine Titrierung bis  zur Zieldosierung bzw. maximal tolerierten Dosis keine Voraussetzung.
+Bei initial geplanter Vierfachkombination soll eine Therapieinitiierung möglichst nacheinander, mit nicht  mehr als zwei prognoseverbessernden Substanzen gleichzeitig erfolgen. Dies dient in erster Linie der Ver-meidung von Hypotonie bedingten Komplikationen wie orthostatischer Dysregulation und Stürzen sowie  Elektrolytentgleisungen. Für die Therapieinitialisierung mit einer weiteren Substanz ist eine Titrierung bis  zur Zieldosierung bzw. maximal tolerierten Dosis keine Voraussetzung.
 
-Evidenzbasierte Dosistabelle (Quelle: modifiziert übernommen aus “20 21 ESC Guidelines for the diag- nosis and treatment of acute and chronic heart failure”, S. 3621
+Evidenzbasierte Dosistabelle (Quelle: modifiziert übernommen aus “20 21 ESC Guidelines for the diag-nosis and treatment of acute and chronic heart failure”, S. 3621
 
 | Wirkstoff | Zieldosierung |
 |---|---|
@@ -170,7 +166,7 @@ Mindestens eine Angabe ist erforderlich, wenn unter Betablocker die
 
 „Nicht erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des Betablockers bzw. Ihrem Patienten (noch) nicht erreicht wird (siehe Zieldosierungstabelle oben) . nenfalls zusätzlich zu „Nicht erreicht“ auch „Titrationsphase“ oder „Max. tolerierte Dosis erreicht“ a
 
-„Titrationsphase“ geben Sie bitte an, wenn sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  Aufdosierung des Betablockers befindet. Die Angabe „Titrationsphase“ kann nicht gleichzeitig mit der An- gabe „Max. tolerierte Dosis erreicht“ erfolgen.
+„Titrationsphase“ geben Sie bitte an, wenn sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  Aufdosierung des Betablockers befindet. Die Angabe „Titrationsphase“ kann nicht gleichzeitig mit der An-gabe „Max. tolerierte Dosis erreicht“ erfolgen.
 
 „Max. tolerierte Dosis erreicht“ geben Sie bitte an, wenn bei  Berücksichtigung der Verträglichkeit die maximal tolerierte Dosis des Betablockers erreicht wurde. Die  Angabe „Max. tolerierte Dosis erreicht“ kann nicht gleichzeitig mit der Angabe
 
@@ -234,13 +230,13 @@ Geben Sie bitte an, ob eine Therapie mit einem SGLT2-Inhibitor durchgeführt wir
 
 Wenn Sie Ihrer Patientin bzw. Ihrem Patienten **aktuell (am Tage der Konsultation)** die Teilnahme an  einem **Herzinsuffizienz spezifischen Schulungsprogramm** **empfohlen** haben, geben Sie dies bitte mit  **Ja** an Wenn Sie bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden  konnte, sprechen Sie die Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
 
-Sollten Sie **keine Schulung** **empfohlen** haben (z. B. weil Ihre Patientin bzw. Ihr Patient bereits eine Schu- lung wahrgenommen hat), geben Sie dies bitte mit „**Nein** an.
+Sollten Sie **keine Schulung** **empfohlen** haben (z. B. weil Ihre Patientin bzw. Ihr Patient bereits eine Schu-lung wahrgenommen hat), geben Sie dies bitte mit „**Nein** an.
 
 #### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teil- genommen
 
-Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.  **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe mög- lich.
+Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.  **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe mög-lich.
 
-Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer Herz- insuffizienz-spezifischen-Schulung teilgenommen hat.
+Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer Herz-insuffizienz-spezifischen-Schulung teilgenommen hat.
 
 Eine erneute Teilnahme an einer Schulung im Rahmen des DMP ist dadurch **NICHT** ausgeschlossen!
 
@@ -250,7 +246,7 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben  Sie bitte **„Ja“** an. War die Teilnahme an einer Herzinsuffizienz-spezifischen -Schulung innerhalb des Do- kumentationszeitraums aus **nachvollziehbaren Gründen nicht möglich**, geben Sie hier bitte **„War aktu-** **ell nicht möglich“** an. Diese Antwort ist anzugeben, wenn z. B. organisatorische oder andere patienten- seitige Voraussetzungen für die Teilnahme an einer Herzinsuffizienz-spezifischen -Schulung nicht gege- ben sind. Weitere Gründe können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin  oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt
+Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben  Sie bitte **„Ja“** an. War die Teilnahme an einer Herzinsuffizienz-spezifischen -Schulung innerhalb des Do-kumentationszeitraums aus **nachvollziehbaren Gründen nicht möglich**, geben Sie hier bitte **„War aktu-** **ell nicht möglich“** an. Diese Antwort ist anzugeben, wenn z. B. organisatorische oder andere patienten-seitige Voraussetzungen für die Teilnahme an einer Herzinsuffizienz-spezifischen -Schulung nicht gege-ben sind. Weitere Gründe können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin  oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt
 
 
 ---
@@ -279,6 +275,6 @@ Bitte geben Sie an, ob Ihre Patientin bzw. Ihr Patient regelmäßi ges körperli
 
 Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
-Insbesondere bei symptomatischen Patientinnen bzw. Patienten mit einer Herzinsuffizienz sollte das Pro- tokollieren von täglichen Gewichtskontrollen vereinbart werden, um eine eventuelle Volumenbelastung  rechtzeitig zu erkennen.
+Insbesondere bei symptomatischen Patientinnen bzw. Patienten mit einer Herzinsuffizienz sollte das Pro-tokollieren von täglichen Gewichtskontrollen vereinbart werden, um eine eventuelle Volumenbelastung  rechtzeitig zu erkennen.
 
 Bitte geben Sie hier an, ob Sie das Führen eines Gewichtsprotokolls empfohlen haben oder nicht. Sollte  nach Ihrer Einschätzung das Führen eines Gewichtsprotokolls nicht notwendig sein, geben Sie dies bitte  mit „Nicht erforderlich“ an.

@@ -94,7 +94,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1 REALISIERTE OPTIONALE FUNKTIONEN
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP DE
 
 Folgende optionale eDMP DE Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
@@ -111,9 +111,7 @@ Folgende optionale eDMP DE Funktionen sind gem. Anforderungskatalog DMP realisie
 |  |  |
 |  |  |
 
-## EDMP DE
-
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei ANFORDERUNGSKATALOG EDMP DE LT.
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei EDMP DE LT. ANFORDERUNGSKATALOG
 
 ---
 

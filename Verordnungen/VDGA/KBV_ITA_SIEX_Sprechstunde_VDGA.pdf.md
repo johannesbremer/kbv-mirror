@@ -1054,7 +1054,7 @@ Die im Glossar des Anforderungskatalogs in Verbindung mit dem FHIR-Mapping im FA
 
 ### Antwort des BfArM vom 21. März 2024:
 
-Bei dieser Änderung handelt es sich um eine zukünftige Änderung, die dazu dienen soll, Missverständnisse  hinsichtlich angegebener Kontraindikationen vorzubeugen, indem diese sowie die Ausschlusskriterien  klarer differenziert werden. Für die Umsetzung dieser Änderung müssen noch Informationen von den DiGA- Herstellern eingeholt und bewertet werden. Dieser Prozess wird voraussichtlich noch mehrere Monate in  Anspruch nehmen. In der nächsten Woche wird eine Ankündigung zu dieser Änderung versendet, in der  weitere Informationen gegeben werden.
+Bei dieser Änderung handelt es sich um eine zukünftige Änderung, die dazu dienen soll, Missverständnisse  hinsichtlich angegebener Kontraindikationen vorzubeugen, indem diese sowie die Ausschlusskriterien  klarer differenziert werden. Für die Umsetzung dieser Änderung müssen noch Informationen von den DiGA-Herstellern eingeholt und bewertet werden. Dieser Prozess wird voraussichtlich noch mehrere Monate in  Anspruch nehmen. In der nächsten Woche wird eine Ankündigung zu dieser Änderung versendet, in der  weitere Informationen gegeben werden.
 
 
 ---
@@ -1197,10 +1197,6 @@ Es müssen alle Daten gemäß P4-310 und P4-311 angezeigt werden. Da die Hausapo
 
 Falls die angefragte Möglichkeit momentan nicht angeboten wird oder keine Information darüber erhalten  werden kann, sollte für die Umsetzung des Anforderungskatalogs nicht  gewartet werden.
 
-## Frage:
-
-**Die Antwort auf die Frage zur Preissortierung bzgl. dem Sachverhalt, dass nur ein Suchfeld zur Verfügung**  **steht, steht noch aus.**
-
 n Bezug zueinander haben. Es muss an dieser Stelle  P5-010 und P4-130 hat.
 
 -320 Akzeptanzkriterium 3
@@ -1208,6 +1204,10 @@ n Bezug zueinander haben. Es muss an dieser Stelle  P5-010 und P4-130 hat.
 **das BfArM nicht zeitnah auf Anfragen bzgl. der**
 
 auf eine Antwort des BfArM
+
+## Frage:
+
+**Die Antwort auf die Frage zur Preissortierung bzgl. dem Sachverhalt, dass nur ein Suchfeld zur Verfügung**  **steht, steht noch aus.**
 
 
 ---

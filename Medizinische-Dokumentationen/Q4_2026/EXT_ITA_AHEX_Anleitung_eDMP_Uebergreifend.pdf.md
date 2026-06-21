@@ -36,7 +36,7 @@ Version 10
 
 ## Vorbemerkung
 
-Die Dokumentation stellt ein Kernelement zur Umsetzung der Disease-Management- Programme dar. Neben der Erhebung der Ausgangsdaten erfüllt die Dokumentation weitere  wichtige Funktionen:
+Die Dokumentation stellt ein Kernelement zur Umsetzung der Disease-Management-Programme dar. Neben der Erhebung der Ausgangsdaten erfüllt die Dokumentation weitere  wichtige Funktionen:
 
 Sie bildet den Verlauf der Erkrankung ab und kann als Checkliste bezüglich medikamentöser  und nicht-medikamentöser Maßnahmen, indikationsbezogener Risikofaktoren und  Kontrolluntersuchungen dienen. Sie stellt einen Informationsspeicher für Sie und Ihren  Patienten dar und hält gemeinsame Zielvereinbarungen fest.
 
@@ -140,7 +140,7 @@ Bitte geben Sie sowohl Ihre (lebenslange) Arzt Sind für Ihre Praxis mehrere Är
 
 -Nummer derjenigen Ärztin oder desjenigen
 
-Dieses Feld ist für den Fall vorgesehen, dass eine Einschreibung der Teilnehmer  ein Krankenhaus erfolgt. Das  Institutionskennzeichen ein.
+Dieses Feld ist für den Fall vorgesehen, dass eine Einschreibung der Teilnehmer  ein Krankenhaus erfolgt. Das teilnehmende  Institutionskennzeichen ein.
 
 **Dokumentation in Vertretung erstellt**
 
@@ -150,11 +150,7 @@ Sollten Sie die Dokumentation in Vertretung (z. B. Urlaubsvertretung) für den e
 
 Über diese Eingabe werden automatisch die zu dokumentierenden indikationsbezogenen  Parameter aufgerufen. Die gleichzeitige Angabe und damit parallele Dokumentation  mehrerer Indikationen ist dabei möglich. Möchten Sie bei einer Mehrfachteilnahme  Patientin oder eines Patienten aktuell nur eine Indikation dokumentieren, wählen Sie bitte  nur die Indikation aus, für die Sie die Dokumentation erstellen wollen.
 
-Bitte beachten Sie, dass eine  ausgeschlossen ist:
-
-teilnehmende
-
-gleichzeitige Teilnahme für
+Bitte beachten Sie, dass eine gleichzeitige Teilnahme für  ausgeschlossen ist:
 
 -  Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2
 -  Asthma bronchiale und COPD

@@ -300,7 +300,7 @@ Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation Behandlung
 
 **TABELLE 31:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ....................................... 44
 
-**TABELLE 32:** WERTE BEI ERGEBNISTEXT (OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT  DOKUMENTATION) ..................................................................................................................................................  DER LETZTEN  46
+**TABELLE 32:** WERTE BEI ERGEBNISTEXT (OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT DER LETZTEN  DOKUMENTATION) .................................................................................................................................................. 46
 
 ---
 
@@ -637,7 +637,7 @@ genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet 
 
 ### 6.1.1 caption
 
-Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DNAttribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“, „Anamnese-  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DNAttribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschriften aus dem Datensatz.
 
@@ -1213,14 +1213,12 @@ V="...") <sciphox:Parameter DN="Metformin "/> <sciphox:Ergebnistext V="Ja "/> V=
 
 ### SGLT2-Inhibitor
 
-Bei diesem Parametern enthält das Element gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-<sciphox:Ergebnistext> im
 
 **XML-Code 35:** SGLT2-Inhibitor
 

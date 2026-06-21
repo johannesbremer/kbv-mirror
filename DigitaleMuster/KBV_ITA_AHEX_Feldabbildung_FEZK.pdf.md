@@ -66,28 +66,19 @@ Die Spalte Name stellt die Bezeichnung der Formularfelder des digitalen Musters 
 
 - **QMS LDT Feld Kennung**
 
-Die Spalte Kennung stellt die Feldkennung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung
+Die Spalte Kennung stellt die Feldkennung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] (Labor Daten Transfer) dar.
 
 - **QMS LDT Feld Bezeichnung**
 
-Die Spalte Bezeichnung stellt die Feldbezeichnung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung
+Die Spalte Bezeichnung stellt die Feldbezeichnung der Satzarten Auftrag oder Befund der LDT3 Satzbeschreibung [4] dar.
 
 - **IQTIG Feld Nummer**
 
-Die Spalte Nummer stellt die Feldnummern des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation
+Die Spalte Nummer stellt die Feldnummern des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar.
 
 - **IQTIG Feld Name**
 
-Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation  zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.
-
-[4] (Labor Daten Transfer) dar.
-
-[4] dar.
-
-[3] dar.
-
-[3] dar und enthält Anmerkungen
-
+Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar und enthält Anmerkungen  zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.
 
 ---
 

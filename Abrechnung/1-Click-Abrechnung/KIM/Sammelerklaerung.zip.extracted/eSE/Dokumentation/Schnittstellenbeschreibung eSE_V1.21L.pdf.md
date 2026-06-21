@@ -268,93 +268,35 @@ Beschreibung der Kardinalitäten eines XML-Elements 12 Beschreibung der Struktur
 | .......................................................................................................    XML-Code 18: | ................................................................................................ | ....... | XML-Code 19: | ............................................................................................ |  |
 | ............................................................................................................. | XML-Code 21: | ................................ | ....... |  | XML-Code 22: |
 
-XML-Code 23:
+XML-Code 23: organization .............................................................................................. 28
 
-XML-Code 24:
+XML-Code 24: body .......................................................................................................... 30
 
-XML-Code 25:
+XML-Code 25: fall_statistik ............................................................................................... 31
 
-XML-Code 26:
+XML-Code 26: titel ............................................................................................................ 33
 
-XML-Code 27:
+XML-Code 27: text_liste.................................................................................................... 33
 
-XML-Code 28:
+XML-Code 28: text ............................................................................................................ 33
 
-XML-Code 29:
+XML-Code 29: vertretungszeit_liste .................................................................................. 36
 
-XML-Code 30:
+XML-Code 30: bool_komplex ............................................................................................ 36
 
-XML-Code 31:
+XML-Code 31: Verzweigung „true“ im Entscheidungsbaum - komplex .............................. 37
 
-XML-Code 32:
+XML-Code 32: komplex .................................................................................................... 38
 
-XML-Code 33:
+XML-Code 33: grund ........................................................................................................ 38
 
-XML-Code 34:
+XML-Code 34: zeitraum_tmr ............................................................................................. 39
 
-XML-Code 35:
+XML-Code 35: provider (lokal) .......................................................................................... 40
 
-XML-Code 36:
+XML-Code 36: function_cd ............................................................................................... 41
 
-XML-Code 37:
-
-organization ..............................................................................................
-
-body ................................................................................................
-
-fall_statistik ...............................................................................................
-
-titel ................................................................................................
-
-text_liste................................................................................................
-
-text ............................................................................................................
-
-vertretungszeit_liste ................................................................
-
-bool_komplex ............................................................................................
-
-Verzweigung „true“ im Entscheidungsbaum
-
-komplex ................................................................................................
-
-grund ................................................................................................
-
-zeitraum_tmr .............................................................................................
-
-provider (lokal) ..........................................................................................
-
-function_cd ...............................................................................................
-
-person (lokaler Typ) ..................................................................................
-
-28
-
-.......... 30
-
-31
-
-............ 33
-
-.... 33
-
-33
-
-.................. 36
-
-36
-
-- komplex .............................. 37 .... 38
-
-........ 38
-
-39
-
-40
-
-41
-
-XML-Code 1: XML-Code 17: XML-Code 20: /ehd id version_nbr version_nbr service_tmr origination_dttm intended_recipient organization organization.nm originator organization id organization.nm addr telecom provider person person person_name nm local_header mit einem beliebigen Kindelement organization (Betriebsstätte) 17 17 20 20 23 24 24 25 26 26 2742
+XML-Code 1: /ehd id version_nbr version_nbr service_tmr origination_dttm 17 intended_recipient 17 organization organization.nm originator organization id 20 organization.nm 20 addr telecom provider 23 XML-Code 17: person 24 person 24 person_name 25 XML-Code 20: nm 26 local_header mit einem beliebigen Kindelement 26 organization (Betriebsstätte) 27XML-Code 37: person (lokaler Typ) .................................................................................. 42
 
 
 ---
@@ -396,11 +338,11 @@ XML-Code 53: xslt_hash .........................................................
 
 # 1 Einleitung
 
-Ziel der folgenden Schnittstelle ist es, die papiergebundenen Sammelerklärungen der Kas-  senärztlichen Vereinigungen, die vorwiegend den juristischen Erfordernissen Rechnung tra-  gen, durch ein elektronisches Verfahren abzulösen.
+Ziel der folgenden Schnittstelle ist es, die papiergebundenen Sammelerklärungen der Kas- senärztlichen Vereinigungen, die vorwiegend den juristischen Erfordernissen Rechnung tra- gen, durch ein elektronisches Verfahren abzulösen.
 
-Im Fokus stand dabei nicht nur die rein papierlose Übertragung, sondern gleichzeitig die mög -  lichst strukturierte Erfassung der Inhalte, um eine weitgehend maschinelle Verarbeitung in der  KV zu ermöglichen.
+Im Fokus stand dabei nicht nur die rein papierlose Übertragung, sondern gleichzeitig die mög - lichst strukturierte Erfassung der Inhalte, um eine weitgehend maschinelle Verarbeitung in der  KV zu ermöglichen.
 
-Aufgrund der Vielschichtigkeit der Anforderungen als auch der Randbedingung, jederzeit neue  Sachverhalte abbilden zu müssen, ist vielfach auf generische Strukturen zurückgegriffen wor-  den. In deren Konsequenz ist der jeweilige Kontext im Einzelfall nur unter Berücksichtigung der  jeweilig vorhandenen Meta -Informationen ableitbar. Im Gegenzug ist die Schnittstelle da robuster gegenüber neuen Anforderungen, da sie innerhalb eines bestimmten Rahmens flexibel  neue Anforderungen aufnehmen kann.
+Aufgrund der Vielschichtigkeit der Anforderungen als auch der Randbedingung, jederzeit neue  Sachverhalte abbilden zu müssen, ist vielfach auf generische Strukturen zurückgegriffen wor- den. In deren Konsequenz ist der jeweilige Kontext im Einzelfall nur unter Berücksichtigung der  jeweilig vorhandenen Meta -Informationen ableitbar. Im Gegenzug ist die Schnittstelle da robuster gegenüber neuen Anforderungen, da sie innerhalb eines bestimmten Rahmens flexibel  neue Anforderungen aufnehmen kann.
 
 - für
 
@@ -408,7 +350,7 @@ Das Gesamtkonzept sieht vor, dass jede KV eine Vorlagedatei bereitstellt, die al
 
 t (Stichwort: „Spezifi
 
-An ein Praxisverwaltungssystem, welches diese Schnittstelle unterstützt, wäre die Anforde-  rung zu stellen, ausgehend von der Schemadefinition und der jeweiligen Initialisierungsdatei  eine dynamische Erfassungsmaske zu g enerieren, um dem Anwender die Erfassung der In halte zu ermöglichen. Darüber hinaus wäre eine EDV -Unterstützung wünschenswert, die eine  weitgehende Vorbelegung der Felder ermöglicht.
+An ein Praxisverwaltungssystem, welches diese Schnittstelle unterstützt, wäre die Anforde- rung zu stellen, ausgehend von der Schemadefinition und der jeweiligen Initialisierungsdatei  eine dynamische Erfassungsmaske zu g enerieren, um dem Anwender die Erfassung der In halte zu ermöglichen. Darüber hinaus wäre eine EDV -Unterstützung wünschenswert, die eine  weitgehende Vorbelegung der Felder ermöglicht.
 
 # 2 Konventionen
 
@@ -422,7 +364,7 @@ Standard-Namespace ist **urn:ehd/ese/001**
 
 ## 2.3 Root-Schema
 
-Das Root-Schema, welches die abgeleiteten ehd -Schemata sowie die projektbezogenen bo -  dy-Schemata inkludiert, heißt **eSE_root.xsd**
+Das Root-Schema, welches die abgeleiteten ehd -Schemata sowie die projektbezogenen bo - dy-Schemata inkludiert, heißt **eSE_root.xsd**
 
 ## 2.4 Dateinamen
 
@@ -453,7 +395,7 @@ re+ …………. receiver - (optionaler Namepart) Empfänger der Lieferung, fal
 
 empfänger…. Schränkt die Sammelerklärung für einen speziellen Empfängerkreis (Arzt, Er mächtigte, Krankenhäuser) ein; entspricht dem Element Element ***<organization>***  des Header-Elements ***<intended_recipient>***
 
-tf+..………… timeframe (YYYYqQ); Angabe von Jahr und Quartal, für das die Sammelerklä-  rungs(-vorlage) gültig ist.
+tf+..………… timeframe (YYYYqQ); Angabe von Jahr und Quartal, für das die Sammelerklä- rungs(-vorlage) gültig ist.
 
 YYYY ........ Jahr  q ............... fix
 
@@ -497,7 +439,7 @@ Beschreibung der Kardinalitäten eines XML-Elements
 
 ### 2.5.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei-  nander verknüpft. In diesem Dokument werden zwei Strukturelemente v erwendet:  und ***<xs:sequence>***
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander verknüpft. In diesem Dokument werden zwei Strukturelemente v erwendet:  und ***<xs:sequence>***
 
 ***<xs:choice>***
 
@@ -591,7 +533,7 @@ dar, welches mehrere Elemente zusammenfasst.***urn:ehd/001***
 
 Für die Beschreibung der Inhalte und deren A jeweils aktuelle Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
 
-Im Rahmen der ega-Schnittstelle werden im ega-Header folgende Elemente des ehd-  Standards verwendet:
+Im Rahmen der ega-Schnittstelle werden im ega-Header folgende Elemente des ehd- Standards verwendet:
 
 usprägungen der header-Elemente wird auf die
 
@@ -677,7 +619,7 @@ Version
 
 ## 4.3 document_type_cd (Dokumentart)
 
-Das Element <document_type_cd > gibt des Dokumenttyp dieser Schnittstelle an. Im V-  Attribut ist zwingend das Kürzel „ese“ anzugeben.
+Das Element <document_type_cd > gibt des Dokumenttyp dieser Schnittstelle an. Im V- Attribut ist zwingend das Kürzel „ese“ anzugeben.
 
 Alle weiteren Attribute sind optional.
 
@@ -750,15 +692,13 @@ Y.. Jahreswert, M.. Monatswert, D.. Tageswert
 
 ## 4.6 intended_recipient (Zielgruppe)
 
-Das Element <intended_recipient> ist vorhanden, wenn die Datei für eine bestimmte Ziel-  gruppe bestimmt ist. Somit können für die Sammelerklärung unterschiedliche Versionen für die  Zielgruppen Arzt, Ermächtigte und Krankenhäuser erstellt werden.
+Das Element <intended_recipient> ist vorhanden, wenn die Datei für eine bestimmte Ziel- gruppe bestimmt ist. Somit können für die Sammelerklärung unterschiedliche Versionen für die  Zielgruppen Arzt, Ermächtigte und Krankenhäuser erstellt werden.
 
-Da die Unterscheidung nicht zwingend notwendig ist, ist die Verwendung des E nal.
+Da die Unterscheidung nicht zwingend notwendig ist, ist die Verwendung des Elements optio- nal.
 
 -Attribut wird ein
 
 -MM-DD“
-
-lements optio-
 
 **Abbildung 8: intended_recipient**
 
@@ -822,7 +762,7 @@ In Kassenärztlichen Vereinigungen, in denen keine Unterscheidung für die betre
 
 ## 4.7 originator (Urheber)
 
-Das Element <originator> beinhaltet Informationen zum Urheber des Dokuments. Da die initia-  len Vorlagedateien von den Kassenärztlichen Vereinigungen zur Verfügung gestellt werden, ist  unter dieser Struktur stets die verantwortliche KV anzugeben.
+Das Element <originator> beinhaltet Informationen zum Urheber des Dokuments. Da die initia- len Vorlagedateien von den Kassenärztlichen Vereinigungen zur Verfügung gestellt werden, ist  unter dieser Struktur stets die verantwortliche KV anzugeben.
 
 **Abbildung 11: originator**
 
@@ -913,13 +853,13 @@ Der XML-Code für das Element <organization.nm> hat folgenden Aufbau:
 
 **XML-Code 13:**
 
-V Name der Organisationseinheit (Name der
-
-1  [Siehe](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
-
 **organization.nm**
 
-organization.nm 1
+organization.nm
+
+V Name der Organisationseinheit (Name der
+
+1  [Siehe](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp) 1
 
 KV)
 
@@ -931,7 +871,7 @@ KV)
 
 ### 4.7.1.3 addr (Adresse)
 
-Das Element <addr> beinhaltet die Adressinformationen der KV. Die Angabe der Adressin-  formation ist optional.
+Das Element <addr> beinhaltet die Adressinformationen der KV. Die Angabe der Adressin- formation ist optional.
 
 **Abbildung 15: addr**
 
@@ -1004,7 +944,7 @@ Die Präfixe sind gemäß folgender Tabelle definiert:
 
 ## 4.8 provider (Lieferant/Sender)
 
-Das Element <provider> kennzeichnet den Lieferanten/Sender der Datei. Im speziellen An-  wendungsfall ist dies die Arztpraxis (provider), deren Bestandteile sich in Betriebsstätte(n)  (organization) und die jeweils beschäftigten Ärzte (person) operationalisieren lassen.
+Das Element <provider> kennzeichnet den Lieferanten/Sender der Datei. Im speziellen An- wendungsfall ist dies die Arztpraxis (provider), deren Bestandteile sich in Betriebsstätte(n)  (organization) und die jeweils beschäftigten Ärzte (person) operationalisieren lassen.
 
 
 ---
@@ -1186,7 +1126,7 @@ Präfix, führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen
 
 ***<SFX>***
 
-Suffix, Ein folgender Namenszusatz hat eine starke Bindung zum vorhergehen -  den Teil eines Namens. Folgende Namenszusätze können nicht umgekehrt  werden.
+Suffix, Ein folgender Namenszusatz hat eine starke Bindung zum vorhergehen - den Teil eines Namens. Folgende Namenszusätze können nicht umgekehrt  werden.
 
 ***<DEL>*** Ein Trennzeichen hat nur die Bedeutung, genau so gedruckt zu werden, wie
 
@@ -1225,7 +1165,7 @@ es
 
 ### 4.8.4.1 fachgruppenbezeichnung (Fachgruppenbezeichnung)
 
-Das Element <fachgruppenbezeichnung> wurde als lokale Erweiterung unter dem <lo-  cal_header> definiert. Somit ist es möglich, die Person penbezeichnung zu ergänzen, um insbesondere den Arztstempel vollständig nachbilden zu  können.
+Das Element <fachgruppenbezeichnung> wurde als lokale Erweiterung unter dem <lo- cal_header> definiert. Somit ist es möglich, die Person penbezeichnung zu ergänzen, um insbesondere den Arztstempel vollständig nachbilden zu  können.
 
 „Arzt“ um eine individuelle Fachgrup
 
@@ -1233,7 +1173,7 @@ Die <fachgruppenbezeichnung> muss nicht zwingend mit dem Fachgruppennamen gemä�
 
 ### 4.8.5 organization (Betriebsstätte)
 
-Das Element <organization> bietet an dieser Stelle die Möglichkeit, die Stammdaten der je-  weiligen Betriebsstätte aufzunehmen. Durch n-fache Kardinalität ist es darüber hinaus mög-  lich, mehrere Betriebsstätten definieren zu können.
+Das Element <organization> bietet an dieser Stelle die Möglichkeit, die Stammdaten der je- weiligen Betriebsstätte aufzunehmen. Durch n-fache Kardinalität ist es darüber hinaus mög- lich, mehrere Betriebsstätten definieren zu können.
 
 **Abbildung 23: organization**
 
@@ -1390,7 +1330,7 @@ Der XML-Code für das Element <body> hat folgenden Aufbau:
 
 Sammelelement für strukturierte Bewegungsdaten
 
-Die Bewegungsdaten werden in thematisch zusammengefasste Bereiche kategorisiert. Die  Anforderungen der KVen sind in der Regel äußerst het erogen, sodass fast alle Bereiche opti -  onal definiert sind.
+Die Bewegungsdaten werden in thematisch zusammengefasste Bereiche kategorisiert. Die  Anforderungen der KVen sind in der Regel äußerst het erogen, sodass fast alle Bereiche opti - onal definiert sind.
 
 ***<fall_statistik>***
 
@@ -1414,7 +1354,7 @@ Die Bewegungsdaten werden in thematisch zusammengefasste Bereiche kategorisiert.
 
 Statistik zu den abgerechneten Behandlungsfällen
 
-Bestätigung und Angabe von
+Bestätigung und Angabe von Vertretungszeiten
 
 Bestätigung und Angabe von angeste
 
@@ -1432,17 +1372,13 @@ Bestätigung mit KV-übergreifend festem Set an Parametern, die
 
 mittels weitgehend automatischer Generierung der Inhalte durch  das PVS bedient werden können
 
-Generische Abbildung (universell einsetzbar für
+Generische Abbildung simpler (universell einsetzbar für
 
 Strukturdaten)
 
 Hashwert des verwendeten SAK
 
 Verwendung der XML-Signatur
-
-Vertretungszeiten
-
-simpler
 
 llten Ärzten
 
@@ -1461,7 +1397,7 @@ jegliche Bestätigungen ohne -Stylesheets; nur relevant bei
 
 Mit der Struktur <fall_statistik> ist es möglich, eine Fallstatistik über die abgerechneten Be handlungsfälle zu erstellen.
 
-Die Elemente titel und text_liste können die zum Verständnis bzw. zur Visualisierung notwen -  digen Meta-Informationen beinhalten. Die konkreten Werte werden falls zutreffend über die  Elemente <anzahl_gkv>, <anzahl_skt> und <anzahl_kov> als auch <anzahl_gesamt> über-  geben.
+Die Elemente titel und text_liste können die zum Verständnis bzw. zur Visualisierung notwen - digen Meta-Informationen beinhalten. Die konkreten Werte werden falls zutreffend über die  Elemente <anzahl_gkv>, <anzahl_skt> und <anzahl_kov> als auch <anzahl_gesamt> über- geben.
 
 **Abbildung 26: fall_statistik**
 
@@ -1543,7 +1479,7 @@ Der XML-Code für das Element <titel> hat folgenden Aufbau:
 
 ### 5.1.2 text_liste
 
-Die Struktur <text_liste> beinhaltet ein oder mehrere <text> -Elemente, um den zu bestätigen -  den Sachverhalt konkret zu beschreiben. Durch Verwendung mehrerer <text> -Elemente kann  die Information in mehrere Textblöcke aufgespalten werden, um diese bspw. für die Visualisie rung (Stylesheet) unterschiedlich formatieren zu können.
+Die Struktur <text_liste> beinhaltet ein oder mehrere <text> -Elemente, um den zu bestätigen - den Sachverhalt konkret zu beschreiben. Durch Verwendung mehrerer <text> -Elemente kann  die Information in mehrere Textblöcke aufgespalten werden, um diese bspw. für die Visualisie rung (Stylesheet) unterschiedlich formatieren zu können.
 
 Die <text>-Elemente selbst enthalten keine Formatierungsinformationen, sondern nur plain  Text.
 
@@ -1567,7 +1503,7 @@ Der XML-Code für das Element <text_liste> hat folgenden Aufbau:
 
 ### 5.1.2.1 text
 
-Das <text>-Element ist vom Typ String und nimmt beliebigen Text auf, der keine Formatie-  rungsinformation enthält und als Meta-Information für die Visualisierung bzw. dynamische  Erfassungsmasken im PVS dient.
+Das <text>-Element ist vom Typ String und nimmt beliebigen Text auf, der keine Formatie- rungsinformation enthält und als Meta-Information für die Visualisierung bzw. dynamische  Erfassungsmasken im PVS dient.
 
 **Abbildung 29: text**
 
@@ -1582,7 +1518,7 @@ Der XML-Code für das Element <text> hat folgenden Aufbau:
 
 ### 5.1.3 anzahl_gkv
 
-Mittels dem Element <anzahl_gkv> kann eine statistische Angabe über die Anzahl der abge rechneten Behandlungsfälle im Rahmen der Abrechnung (Primär - und Ersatzkassen) übertra-  gen werden.
+Mittels dem Element <anzahl_gkv> kann eine statistische Angabe über die Anzahl der abge rechneten Behandlungsfälle im Rahmen der Abrechnung (Primär - und Ersatzkassen) übertra- gen werden.
 
 ### 5.1.4 anzahl_skt
 
@@ -1720,7 +1656,7 @@ Quelle: Sammelerklärung KVWL, Stand 2010
 
 ### 5.2.1 bool_komplex (Entscheidungsbaum - komplex)
 
-Die Struktur <bool_komplex> wird im Rahmen dieser Schnittstelle verwendet, um mittels eines  Entscheidungsbaumes einen Sachverhalt zu bestätigen. Je nach Verzweigung im Entschei-  dungsbaum sind ggf. weitere Felder zu spezifizieren (true) oder ein Endpunkt erreicht (false).
+Die Struktur <bool_komplex> wird im Rahmen dieser Schnittstelle verwendet, um mittels eines  Entscheidungsbaumes einen Sachverhalt zu bestätigen. Je nach Verzweigung im Entschei- dungsbaum sind ggf. weitere Felder zu spezifizieren (true) oder ein Endpunkt erreicht (false).
 
 **Abbildung 31:**
 
@@ -1755,7 +1691,7 @@ chkeit
 
 Das Element <false> ist ein Zweig des Entscheidungsbaumes und beinhaltet keine weiteren  Felder. Im übertragenen Sinne bedeutet dies, dass der jeweilige Sachverhalt nicht zutreffend  ist bzw. abgelehnt wird.
 
-Das Element <true> ist ein weiterer Zweig des Entscheidungsbaumes, an dem weitere Infor mationsfelder geknüpft sind. In der nächsten Hierarchie -Ebene ist ein Klammerelement <zeit -  raum> (n-fach) definiert, welches jeweils einen konkreten Zeitraum mit weite ren Abhängigkei-  ten aufnehmen kann.
+Das Element <true> ist ein weiterer Zweig des Entscheidungsbaumes, an dem weitere Infor mationsfelder geknüpft sind. In der nächsten Hierarchie -Ebene ist ein Klammerelement <zeit - raum> (n-fach) definiert, welches jeweils einen konkreten Zeitraum mit weite ren Abhängigkei- ten aufnehmen kann.
 
 **Abbildung 32: Verzweigung im Entscheidungsbaum „true“**
 
@@ -1804,11 +1740,11 @@ Angabe eines Grundes für den im Kontext stehenden Zeitraum
 
 ***<provider>***
 
-Lokal eingeschränkter Provider-Typ zur Identifizierung von Betriebsstät-  ten und Ärzten
+Lokal eingeschränkter Provider-Typ zur Identifizierung von Betriebsstät- ten und Ärzten
 
 #### 5.2.1.1.1 grund
 
-Das Element <grund> kann verwendet werden, um insbesondere bei Schließ- und Vertre-  tungszeiten den jeweiligen Grund zu dokument ieren. Ein vordefiniertes Set an Kriterien steht  als Auswahl zur Verfügung (technisch als Enumeration im Schema abgebildet).
+Das Element <grund> kann verwendet werden, um insbesondere bei Schließ- und Vertre- tungszeiten den jeweiligen Grund zu dokument ieren. Ein vordefiniertes Set an Kriterien steht  als Auswahl zur Verfügung (technisch als Enumeration im Schema abgebildet).
 
 **Abbildung 34: grund**
 
@@ -1936,7 +1872,7 @@ SN optional: Name der Schlüsseltabelle
 
 SV optional: Version der Schlüsseltabelle
 
-Das Element <function_cd> referenziert auf eine Schlüsseltabelle mit folgenden Ausprägun-  gen. Die dritte Spalte enthält eine Erläuterung, welche Ausprägung in welchen Zusammen-  hang verwendet wird.
+Das Element <function_cd> referenziert auf eine Schlüsseltabelle mit folgenden Ausprägun- gen. Die dritte Spalte enthält eine Erläuterung, welche Ausprägung in welchen Zusammen- hang verwendet wird.
 
 | Value | Bezeichnung | Schnittstelleninterne Verwendung |
 |---|---|---|
@@ -2015,7 +1951,7 @@ Mittels Element <organization.nm> kann zu der Person eine Organisationseinheit a
 
 ## 5.3 schliesszeit_liste (Dokumentation der Schließzeiten)
 
-Das Element <schliesszeiten_liste> ist strukturell wie die <vertretungszeiten_liste> aufgebaut,  bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Regel die  Schließzeiten der Praxis zu dokumentieren, weshalb unter dem <bool_komplex> wiederum  mehrere Zeiträume mit dem jeweiligen Grund der Schließung und/oder mit dem jeweiligen  Provider kombiniert werden können. Die Verwendung des Providers ist nur dann notwendig,  wenn die Schließzeiten personen- und/oder betriebsstättenbezogen dokumentiert werden  sollen. Für die Dokumentation des Elemen ts <bool_komplex> sei auf Kapitel 5.2.1 ff. verwie-  sen.
+Das Element <schliesszeiten_liste> ist strukturell wie die <vertretungszeiten_liste> aufgebaut,  bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Regel die  Schließzeiten der Praxis zu dokumentieren, weshalb unter dem <bool_komplex> wiederum  mehrere Zeiträume mit dem jeweiligen Grund der Schließung und/oder mit dem jeweiligen  Provider kombiniert werden können. Die Verwendung des Providers ist nur dann notwendig,  wenn die Schließzeiten personen- und/oder betriebsstättenbezogen dokumentiert werden  sollen. Für die Dokumentation des Elemen ts <bool_komplex> sei auf Kapitel 5.2.1 ff. verwie- sen.
 
 
 ---
@@ -2091,7 +2027,7 @@ Quelle: Sammelerklärung KVN, Stand 2009
 
 ## 5.4 org_notdienstzeit_liste (Dokumentation der Teilnahme am orga nisierten Notfalldienst)
 
-Das Element <org_notdienstzeit_liste> ist strukturell wie die <vertretungszeiten_liste> aufge -  baut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Re gel die Zeiträume zu dokumentieren, bei denen am organisierten Notfalldienst teilgenommen  wurde. Unter dem <bool_komplex> können wiederum mehrere Zeiträume, ggf. mit Einschrän -  kung auf einen bestimmten Provider, wenn nach Maßgabe der KV zusätzlich ein Betriebsstät -  tenbezug und/oder Personenbezug zu dokumentieren ist, angegeben werden. Die Angabe des  Feldes <grund> ist in diesem Zusammenhang nicht relevant und kann entfallen. Fü r nä- here  Informationen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
+Das Element <org_notdienstzeit_liste> ist strukturell wie die <vertretungszeiten_liste> aufge - baut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Re gel die Zeiträume zu dokumentieren, bei denen am organisierten Notfalldienst teilgenommen  wurde. Unter dem <bool_komplex> können wiederum mehrere Zeiträume, ggf. mit Einschrän - kung auf einen bestimmten Provider, wenn nach Maßgabe der KV zusätzlich ein Betriebsstät - tenbezug und/oder Personenbezug zu dokumentieren ist, angegeben werden. Die Angabe des  Feldes <grund> ist in diesem Zusammenhang nicht relevant und kann entfallen. Fü r nä- here  Informationen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
 
 **Abbildung 39: org_notdienstzeit_liste**
 
@@ -2150,9 +2086,9 @@ Quelle: Sammelerklärung KVNO, Stand 2009
 
 Das Element <assistent_liste> ist strukturell wie die <vertretungszeiten_liste> aufgebaut, bil det aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Regel die  Zeiträume zu dokumentieren, bei denen eine Assistenztätigkeit stattgefunden hat. Unter dem
 
-<bool_komplex> sind die jeweiligen Zeiträume personenbezogen zu definieren, d.h. die An-  gabe des Providers/person ist in diesem Sachzusammenhang zwingend erforderlich und  kennzeichnet den Assistenten.
+<bool_komplex> sind die jeweiligen Zeiträume personenbezogen zu definieren, d.h. die An- gabe des Providers/person ist in diesem Sachzusammenhang zwingend erforderlich und  kennzeichnet den Assistenten.
 
-Die Angabe des optionalen Feldes <grund> ist in diesem Zusammenhang nicht relevant. So fern die Assistenztätigkeit auf bestimmte Betriebstätten beschränkt ist, kann der <provider>  zusätzlich zu <person> um die Struktur <organization> ergänzt werden. Für nähere Informati -  onen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
+Die Angabe des optionalen Feldes <grund> ist in diesem Zusammenhang nicht relevant. So fern die Assistenztätigkeit auf bestimmte Betriebstätten beschränkt ist, kann der <provider>  zusätzlich zu <person> um die Struktur <organization> ergänzt werden. Für nähere Informati - onen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
 
 
 ---
@@ -2224,7 +2160,7 @@ Quelle: Sammelerklärung KVWL, Stand 2010
 
 ## 5.6 angestellter_arzt_liste (Dokumentation zur Beschäftigung eines  angestellten Arztes)
 
-Das Element <angestellter_arzt_liste> ist strukturell wie die <vertretungszeiten_liste> aufge-  baut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Re gel die Zeiträume zu dokumentieren, bei denen ein angestellter Arzt beschäftigt wurde. Unter  dem <bool_komplex> sind die jeweiligen Zeiträume personenbezogen anzugeben, d.h. die  Angabe des Providers/person ist in diesem Sachzusammenhang zwingend erforderlich und  kennzeichnet den angestellten Arzt.
+Das Element <angestellter_arzt_liste> ist strukturell wie die <vertretungszeiten_liste> aufge- baut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Re gel die Zeiträume zu dokumentieren, bei denen ein angestellter Arzt beschäftigt wurde. Unter  dem <bool_komplex> sind die jeweiligen Zeiträume personenbezogen anzugeben, d.h. die  Angabe des Providers/person ist in diesem Sachzusammenhang zwingend erforderlich und  kennzeichnet den angestellten Arzt.
 
 Die Angabe des optionalen Feldes <grund> ist in diesem Zusammenhang nicht relevant. So fern die Tätigkeit des angestellten Arztes auf bestimmte Betriebstätten beschränkt ist, kann der  <provider> zusätzlich zu <person> um die Struktur <organization> ergänzt werden. Für nähere  Informationen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
 
@@ -2289,7 +2225,7 @@ Der XML-Code für das Element <angesteller_arzt_liste> könnte folgendermaßen a
 
 ## 5.7 praxisgemeinschaft_liste (Dokumentation einer Praxisgemein schaft)
 
-Das Element <praxisgemeinschaft_liste> ist strukturell wie die <vertretungszeiten_liste> auf-  gebaut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser  Regel evtl. vorhandene Praxisgemeinschaften zu dokumentieren. Da selbst die Praxisge-  meinschaften einer gewissen Dynamik unterworfen sein können, sodass diese innerhalb eines  Quartals differieren können, wurde wiederum der gleiche Typ (bool_komplex_typ) ver- wendet,  der es erlaubt, mehrere Zeiträume und daran gekoppelt die jeweils geltenden Praxis-  gemeinschaften definieren zu können. Standardmäßig ist davon auszugehen, dass die Kons -  tellation einer Praxisgemeinschaft über einen längeren Zeitraum konstant bleibt, sodass der  Gültigkeitszeitraum /bool_komplex/true/zeitraum/zeitraum_tmr defaultmäßig mit dem jeweili-  gen Quartal vorbelegt sein kann. Unter /bool_komplex/true/zeitraum/provider sind die jeweilige  Praxisgemeinschaft mit <organization> und ggf. die in der Praxisgemeinschaft tätigen Ärzte  über die Struktur <person> zu spezifizieren. Die Angabe des optionalen Feldes <grund> ist in  diesem Zusammenhang nicht relevant. Für nähere Informationen zur Struktur
+Das Element <praxisgemeinschaft_liste> ist strukturell wie die <vertretungszeiten_liste> auf- gebaut, bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser  Regel evtl. vorhandene Praxisgemeinschaften zu dokumentieren. Da selbst die Praxisge- meinschaften einer gewissen Dynamik unterworfen sein können, sodass diese innerhalb eines  Quartals differieren können, wurde wiederum der gleiche Typ (bool_komplex_typ) ver- wendet,  der es erlaubt, mehrere Zeiträume und daran gekoppelt die jeweils geltenden Praxis- gemeinschaften definieren zu können. Standardmäßig ist davon auszugehen, dass die Kons - tellation einer Praxisgemeinschaft über einen längeren Zeitraum konstant bleibt, sodass der  Gültigkeitszeitraum /bool_komplex/true/zeitraum/zeitraum_tmr defaultmäßig mit dem jeweili- gen Quartal vorbelegt sein kann. Unter /bool_komplex/true/zeitraum/provider sind die jeweilige  Praxisgemeinschaft mit <organization> und ggf. die in der Praxisgemeinschaft tätigen Ärzte  über die Struktur <person> zu spezifizieren. Die Angabe des optionalen Feldes <grund> ist in  diesem Zusammenhang nicht relevant. Für nähere Informationen zur Struktur
 
 <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
 
@@ -2403,7 +2339,7 @@ k der möglichen Erklärungen.
 
 Unter dem Element <abrechnung_erklaerung> bestätigt der Anwender, die Voraussetzungen  und die Vorgaben in Zusammenhang mit der elektronischen Abrechnung eingehalten zu ha ben.
 
-Der konkrete Wortlaut der Erklärung ist durch die Elemente <titel> und <text_liste> definiert. Die  Bestätigung dieses Sachverhaltes erfolgt mittels dem Element <bool_einfach>; ein Ent-  scheidungsbaum, der in die Endpunkte <true> oder <false> verzweigt, um die Bestätigung oder  Ablehnung des Sachverhaltes durch den Anwender zu dokumentieren.
+Der konkrete Wortlaut der Erklärung ist durch die Elemente <titel> und <text_liste> definiert. Die  Bestätigung dieses Sachverhaltes erfolgt mittels dem Element <bool_einfach>; ein Ent- scheidungsbaum, der in die Endpunkte <true> oder <false> verzweigt, um die Bestätigung oder  Ablehnung des Sachverhaltes durch den Anwender zu dokumentieren.
 
 **Abbildung 44: abrechnung_erklaerung**
 
@@ -2466,7 +2402,7 @@ Das Element <bool_einfach> wird mehrfach innerhalb der Sammelerklärung eingeset
 
 **Abbildung 45:**
 
-Der Entscheidungsbaum gliedert sich in die Zweige <true > und <false>. Beide Elemente sind  jeweils Endpunkt des Entscheidungsbaumes, d.h. es sind keine weiteren Felder daran ge-  knüpft.
+Der Entscheidungsbaum gliedert sich in die Zweige <true > und <false>. Beide Elemente sind  jeweils Endpunkt des Entscheidungsbaumes, d.h. es sind keine weiteren Felder daran ge- knüpft.
 
 **bool_einfach**
 
@@ -2526,7 +2462,7 @@ Formularbeispiel:
 
 Unter dem Element <abrechnung_edv> bestätigt der Anwender den Einsatz einer Abrech nungssoftware, die durch die KBV zertifiziert worden ist.
 
-Die Bestätigung erfolgt durch das Element <bool_software>, wodurch wiederum ein Entschei -  dungsbaum abgebildet wird. Die Besonderheit der Ausprägung <bool_software> ist, dass sich  bei Bestätigung des Sachverhaltes über die Verzweigung <true> eine Struktur zur Identifizie rung einer Software anknüpft.
+Die Bestätigung erfolgt durch das Element <bool_software>, wodurch wiederum ein Entschei - dungsbaum abgebildet wird. Die Besonderheit der Ausprägung <bool_software> ist, dass sich  bei Bestätigung des Sachverhaltes über die Verzweigung <true> eine Struktur zur Identifizie rung einer Software anknüpft.
 
 **Abbildung 47: abrechnung_edv**
 
@@ -2587,7 +2523,7 @@ Quelle: Sammelerklärung KVWL, Stand 2010
 
 Hinweis:
 
-Ab 2011 gilt die Onlineübertragung der Abrechnung verpflichtend. Die Angabe des Abrech-  nungsmediums, welche in einigen Sammele rklärungen gefordert wird, ist daher in der vorlie genden Schnittstelle nicht mehr berücksichtigt worden.
+Ab 2011 gilt die Onlineübertragung der Abrechnung verpflichtend. Die Angabe des Abrech- nungsmediums, welche in einigen Sammele rklärungen gefordert wird, ist daher in der vorlie genden Schnittstelle nicht mehr berücksichtigt worden.
 
 ### 5.8.3.1 bool_software (Entscheidungsbaum - Softwareeinsatz)
 
@@ -2675,7 +2611,7 @@ Software
 
 ### 5.8.4 abrechnung_allgemeinlabor (Erklärung zum Allgemeinlabor)
 
-Mit der Struktur <abrechnung_allgemeinlabor> ist der Anwender angehalten, im Rahmen der  Abrechnung und/oder Veranlassung von allgemeinen Laborleistungen die Einhaltung der Vor -  gaben zu erklären.
+Mit der Struktur <abrechnung_allgemeinlabor> ist der Anwender angehalten, im Rahmen der  Abrechnung und/oder Veranlassung von allgemeinen Laborleistungen die Einhaltung der Vor - gaben zu erklären.
 
 Das Element <bool_labor> beschreibt den speziellen Entscheidungsbaum in diesem Zusam menhang.
 
@@ -2754,13 +2690,13 @@ Quelle: Sammelerklärung KVN, Stand 2009
 
 ### 5.8.4.1 bool_labor (Entscheidungsbaum - Allgemeinlabor)
 
-Das Element <bool_labor> bildet den Entscheidungsbaum in Zusammenhang mit der Abrech -  nung von Allgemeinen Laborleistungen ab. In der ersten Ebene ist der Aufbau zu den anderen  Entscheidungsbäumen identisch: er verzweigt in den Endpunkt <false> oder in den Zweig
+Das Element <bool_labor> bildet den Entscheidungsbaum in Zusammenhang mit der Abrech - nung von Allgemeinen Laborleistungen ab. In der ersten Ebene ist der Aufbau zu den anderen  Entscheidungsbäumen identisch: er verzweigt in den Endpunkt <false> oder in den Zweig
 
-<true>, um den Sachverhalt der Abrechnung oder Veranlassung Allgemeiner Laborleistungen  zu bestätigen. Bei Bestätigung sind weitere Inhaltsdaten verknüpft, sodass in der weiteren  Hierarchie die Mitgliedschaft in einer Laborgemeinschaft und/oder Qualifikation zum Präsenz -  labor dokumentiert werden kann.
+<true>, um den Sachverhalt der Abrechnung oder Veranlassung Allgemeiner Laborleistungen  zu bestätigen. Bei Bestätigung sind weitere Inhaltsdaten verknüpft, sodass in der weiteren  Hierarchie die Mitgliedschaft in einer Laborgemeinschaft und/oder Qualifikation zum Präsenz - labor dokumentiert werden kann.
 
 **Abbildung 51: bool_labor**
 
-Mit dem Element <true> wird der Sachverhalt zum Allgemeinlabor bestätigt. Über das Kin-  delement <provider> besteht die Möglichkeit, die Zugehörigkeit zu einer Laborgemeinschaft zu  dokumentieren, über die die allgemeinen Laborleistungen veranlasst
+Mit dem Element <true> wird der Sachverhalt zum Allgemeinlabor bestätigt. Über das Kin- delement <provider> besteht die Möglichkeit, die Zugehörigkeit zu einer Laborgemeinschaft zu  dokumentieren, über die die allgemeinen Laborleistungen veranlasst
 
 Alternativ oder zusätzlich kann über das Kindelement <qualifikation_labor> bestätigt werden,  dass eine entsprechende Qualifikation zur Erbringung und Abrechnung von Leistungen des  Allgemeinlabors im eigenen Präsenzlabor vorliegt.
 
@@ -2801,7 +2737,7 @@ ehd-Struktur für Aufnahme einer Organisationseinheit
 
 ***<id>***
 
-Eindeutige Kennzeichnung der Laborgemeinschaft durch Betriebsstät-  tennummer im EX -Attribut und RT mit OID für Betriebsstättennummern  (fix: 1.2.276.0.76.4.17)
+Eindeutige Kennzeichnung der Laborgemeinschaft durch Betriebsstät- tennummer im EX -Attribut und RT mit OID für Betriebsstättennummern  (fix: 1.2.276.0.76.4.17)
 
 ***<organization.nm>*** Name der Laborgemeinschaft
 
@@ -2885,13 +2821,13 @@ Quelle: Sammelerklärung KVWL, Stand 2010
 
 ### 5.8.5.1 bool_software (Entscheidungsbaum - Softwareeinsatz)
 
-Unter dem Element <bool_software> ist ein Entscheidungsbaum abgebildet, der den Sach-  verhalt zum Einsatz einer bestimmten Software darstellt. Im hier genannten Kontext ist zu  bestätigen, ob im Rahmen der Verordnung eine AVWG Arzneimittelverordnungssoftware (AVS) zum Einsatz gekommen ist. Im Anschluss an diese  Bestätigung ist diese zu spezifizieren.
+Unter dem Element <bool_software> ist ein Entscheidungsbaum abgebildet, der den Sach- verhalt zum Einsatz einer bestimmten Software darstellt. Im hier genannten Kontext ist zu  bestätigen, ob im Rahmen der Verordnung eine AVWG Arzneimittelverordnungssoftware (AVS) zum Einsatz gekommen ist. Im Anschluss an diese  Bestätigung ist diese zu spezifizieren.
 
 Näher Informationen siehe unter 5.8.3.1
 
 ## 5.9 ankreuzfeld_liste (Generische Bestätigung)
 
-Mit dem Regeltyp <ankreuzfeld_liste> wird eine generische Struktur angeboten, um einfache  Sachverhalte bestätigen zu können. Der Kontext lässt sich dabei allein aus den Meta-  Informationen <titel> und ggf. <text_liste> ableiten.
+Mit dem Regeltyp <ankreuzfeld_liste> wird eine generische Struktur angeboten, um einfache  Sachverhalte bestätigen zu können. Der Kontext lässt sich dabei allein aus den Meta- Informationen <titel> und ggf. <text_liste> ableiten.
 
 -konforme und als solche zertifizierte
 
@@ -3009,7 +2945,7 @@ Quelle: Sammelerklärung KVNO, Stand 2009
 
 Unter der generischen Struktur lassen sich auch Sachverhalte abbilden, die mit weiteren Ein gabefeldern verknüpft sind. Der Entscheidungsbaum <bool_komplex> bietet innerhalb der  generischen Struktur die Möglichkeit, diese an einen Zeitraum, Personen und/oder Organisa tionseinheiten zu koppeln. Ein komplexes Beispiel ist die Sammelerklärung der KVWL, bei der  eine Bestätigung zur Erbringung der Betreuungsleistungen gemäß Kapitel 31 und 36 des EBM  jeweils an Personen geknüpft ist.
 
-Es handelt sich hierbei genau genommen um zwei Bestätigungen, einmal für Kapitel 31 und  einmal für Kapitel 36. Um diese Sachverhalte innerhalb des vorgegebenen Rahmens abbilden  zu können, sind diese zuvor in zwei generische Bestätigungen aufzubrechen, wie es im XML--  Code beispielhaft für die u.a. Formulardarstellung umgesetzt werden könnte.
+Es handelt sich hierbei genau genommen um zwei Bestätigungen, einmal für Kapitel 31 und  einmal für Kapitel 36. Um diese Sachverhalte innerhalb des vorgegebenen Rahmens abbilden  zu können, sind diese zuvor in zwei generische Bestätigungen aufzubrechen, wie es im XML-- Code beispielhaft für die u.a. Formulardarstellung umgesetzt werden könnte.
 
 5.1.1 5.1.2 und 5.8.1.1 ver-
 
@@ -3127,7 +3063,7 @@ Heruntergrbrochen in zwei einzelne Regeln ließe sich der Sachverhalt wie folgt 
 
 ## 5.10 xslt_hash
 
-Das Element <xslt_hash> kann bei Verwendung der XML -Signatur dazu genutzt werden, um  den Hashwert des im Trusted Viewer (SAK) verwendeten Stylesheets, welches für die Visuali-  sierung der XML-Daten genutzt wird, als Nachweis zu hinterlegen.
+Das Element <xslt_hash> kann bei Verwendung der XML -Signatur dazu genutzt werden, um  den Hashwert des im Trusted Viewer (SAK) verwendeten Stylesheets, welches für die Visuali- sierung der XML-Daten genutzt wird, als Nachweis zu hinterlegen.
 
 **Abbildung 55: xslt_hash**
 

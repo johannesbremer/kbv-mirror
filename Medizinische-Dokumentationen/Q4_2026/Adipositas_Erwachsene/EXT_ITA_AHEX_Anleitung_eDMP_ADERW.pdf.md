@@ -128,7 +128,7 @@ Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich 
 
 Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung in das DMP an einer  multimodalen Adipositas-Schulung teilgenommen hat.
 
-Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihre Patienten bereits an einer multimodalen Adipositas- Schulung teilgenommen hat.
+Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihre Patienten bereits an einer multimodalen Adipositas-Schulung teilgenommen hat.
 
 Sollte Ihre Patientin oder Ihr Patient an keiner multimodalen Adipositas-Schulung teilgenommen haben, geben  Sie bitte die Antwort „Nein“ an.
 

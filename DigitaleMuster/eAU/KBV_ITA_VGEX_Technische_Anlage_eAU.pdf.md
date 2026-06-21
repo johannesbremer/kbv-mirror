@@ -149,7 +149,7 @@ Die Änderungen der Version 1.26 treten zum 27.01.2026 in Kraft.
 
 **Hinweis zur Umsetzung der eAU für PKV-Versicherte:**
 
-Der Einsatz der eAU für PKV-Versicherte ist noch nicht möglich. Aus diesem Grund müssen die FHIR- Elemente:
+Der Einsatz der eAU für PKV-Versicherte ist noch nicht möglich. Aus diesem Grund müssen die FHIR-Elemente:
 
 extension:teilweise_arbeitsfaehig_ab.value[x]:valueDateTime (Feld 96 gemäß
 
@@ -375,7 +375,7 @@ Redaktionelle Anpassung
 
 20  Element) der Darstellung der zu
 
-befüllenden FHIR®-Elemente  hieraus ergeben sich keine  Änderungen der FHIR®- Strukturen.
+befüllenden FHIR®-Elemente  hieraus ergeben sich keine  Änderungen der FHIR®-Strukturen.
 
 
 ---
@@ -432,11 +432,11 @@ Die auszutauschenden Daten (gemäß Kapitel 8) zwischen den beteiligten Systemen
 
 3 FHIR®-DEFINITION
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der eAU wurden von den  Partnern des Bundesmantelvertrages FHIR-Profile erstellt, welche zum Teil von den deutschen Basis- Profilen und den KBV-Basisprofilen abgeleitet sind. Folglich müssen diese Profile mit den deutschen Basis- Profilen und den KBV-Basisprofilen verwendet werden. Die FHIR®-Ressourcen und eine Zusammenstellung  [der in der FHIR®-Notation spezifizierten Elemente finden sich unter:](http://hl7.org/fhir/R4/)[http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/)[. Die deutschen](http://hl7.org/fhir/R4/) [FHIR®-Basisprofile sowie die KBV-Basisprofile sind nicht Gegenstand dieses Dokuments. Die Elemente](http://hl7.org/fhir/R4/) dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften sind den FHIR®-XML- [Definitionsdateien zu entnehmen. Sie finden die Profile unter:](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) [update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)[sowie auf der Webseite der Simplifier Plattform unter](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) [https://simplifier.net/eau](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der eAU wurden von den  Partnern des Bundesmantelvertrages FHIR-Profile erstellt, welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind. Folglich müssen diese Profile mit den deutschen Basis-Profilen und den KBV-Basisprofilen verwendet werden. Die FHIR®-Ressourcen und eine Zusammenstellung  [der in der FHIR®-Notation spezifizierten Elemente finden sich unter:](http://hl7.org/fhir/R4/)[http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/)[. Die deutschen](http://hl7.org/fhir/R4/) [FHIR®-Basisprofile sowie die KBV-Basisprofile sind nicht Gegenstand dieses Dokuments. Die Elemente](http://hl7.org/fhir/R4/) dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften sind den FHIR®-XML-[Definitionsdateien zu entnehmen. Sie finden die Profile unter:](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) [update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)[sowie auf der Webseite der Simplifier Plattform unter](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) [https://simplifier.net/eau](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)
 
 [In den definierten FHIR®-Profilen der eAU kommen CodeSysteme und ValueSets zur Anwendung, welche](https://simplifier.net/eau) nicht im Rahmen der eAU definiert und gepflegt werden. Diese CodeSysteme und ValueSets müssen immer  in der jeweils aktuellsten und gültigen Fassung eingesetzt werden, ohne dass es einer Versionsänderung  der eAU-Profile bedarf. Die von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind  [abrufbar unter](https://simplifier.net/kbvschluesseltabellen)[https://simplifier.net/kbvschluesseltabellen](https://simplifier.net/kbvschluesseltabellen)
 
-[Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR®-Profile der eAU und](https://simplifier.net/kbvschluesseltabellen) somit zu einer neuen Version der FHIR®-Profile führen, dann wird das Inkrafttreten dieser Änderung -  Stichtagsregelung oder Übergangsregelung - im Rahmen der Veröffentlichung definiert.
+[Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR®-Profile der eAU und](https://simplifier.net/kbvschluesseltabellen) somit zu einer neuen Version der FHIR®-Profile führen, dann wird das Inkrafttreten dieser Änderung - Stichtagsregelung oder Übergangsregelung - im Rahmen der Veröffentlichung definiert.
 
 Die Angabe der Profilversion im Element StructureDefinition.version erfolgt gemäß der FHIR-Versionierung  basierend auf der Semantic-Versioning Syntax bestehend aus einer Major-Version, einer Minor-Version und  einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) (FHIR Releases and Versioning). Das  Referenzieren der Profil-Version im eAU-FHIR-Projekt erfolgt ohne Angabe der Patch-Version (z.B. „1.2“).  Somit wird die in den FHIR-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben. Durch das  Weglassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen Änderungen die  Implementierung der Erstellung der FHIR-Instanzen nicht angepasst werden, sofern die Erstellung bereits  korrekt umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer gegeben.
 
@@ -908,7 +908,7 @@ Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt 
 
 **Akzeptanzkriterium:**
 
-1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®- Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln  können.  2. Die Software, welche die Dateien verarbeitet, muss die mit „mustSupport“ gekennzeichneten FHIR® Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  auslesen und verarbeiten  können.
+1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln  können.  2. Die Software, welche die Dateien verarbeitet, muss die mit „mustSupport“ gekennzeichneten FHIR® Elemente (mustSupport value="true") in den KBV-Profilen unterstützen  auslesen und verarbeiten  können.
 
 **Hinweis**
 
@@ -1008,7 +1008,7 @@ Kapitel 8 auf das Profil KBV_PR_EAU_Condition_AU muss wie folgt
 
 AU-seit
 
-Voraussichtlich-AU- bis
+Voraussichtlich-AU-bis
 
 Teilweise  arbeitsfähig ab
 
@@ -1099,9 +1099,9 @@ Kapitel 8 auf das Profil KBV_PR_EAU_Condition_ICD muss wie folgt
 
 code.coding:ICD-10-GM
 
-code.coding:ICD-10- GM.extension:Diagnosesicherheit.va lue[x]
+code.coding:ICD-10-GM.extension:Diagnosesicherheit.va lue[x]
 
-code.coding:ICD-10- GM.extension:Seitenlokalisation.val ue[x]
+code.coding:ICD-10-GM.extension:Seitenlokalisation.val ue[x]
 
 code.coding:ICD-10-GM.version
 
@@ -1323,7 +1323,7 @@ KBV_PR_FOR_Organization  gemäß P04-03 aus  KBV_ITA_VGEX_Technisches_Ha ndbuch_
 
 KBV_PR_FOR_Coverage gemäß  P04-04 aus  KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus
 
-KBV_PR_FOR_Patient gemäß P4- 05 aus  KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus
+KBV_PR_FOR_Patient gemäß P4-05 aus  KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus
 
 KBV_PR_FOR_Practitioner  gemäß P04-01 aus  KBV_ITA_VGEX_Technisches_Ha ndbuch_DiMus
 
@@ -1452,7 +1452,7 @@ P310-12 sowie aller in der Instanz der Composition
 
 **Hinweis:**
 
-Mit der Beschreibung „Dokumenten angegeben werden, dass an dieser Stelle der Wert des Elementes Bundle.identifier.value (siehe auch P310-
+Mit der Beschreibung „Dokumenten ID der zu stornierenden Arbeitsunfähigkeitsbescheinigung“ soll  angegeben werden, dass an dieser Stelle der Wert des Elementes Bundle.identifier.value (siehe auch P310-
 
 14) der FHIR-Instanz der zu stornierenden eAU übertragen werden muss.
 
@@ -1472,11 +1472,11 @@ Dieses Profil bildet den fachlichen Rahmen zur Stornierung einer Arbeitsunfähig
 
 **Daten**
 
-**ID gemäß**  **Tabelle 23**
+**ID gemäß FHIR®-Element**
 
-Aktuelles Datum der
+**Bedingung**  **Tabelle 23**
 
-Stornierung
+Aktuelles Datum der  Stornierung
 
 2. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 1 aufgeführten Datenfelder zu  befüllen sind.  3. Die Instanz des Profils KBV_PR_EAU_Storno_Composition muss die folgenden Instanzen referenzieren:  **KBV_PR_EAU_STORNO_COMPOSITION**
 
@@ -1488,29 +1488,19 @@ KBV_PR_FOR_Practitioner  gemäß P04-01 aus  KBV_ITA_VGEX_Technisches_Ha ndbuch_
 
 KBV_PR_FOR_Organization  gemäß P04-03 aus  KBV_ITA_VGEX_Technisches_Ha
 
-**FHIR®-Element**
-
-section.entry.reference =
-
-author.type = „Practitioner“  author.reference =
-
-custodian.reference =
-
-ID der zu stornierenden Arbeitsunfähigkeitsbescheinigung“ soll
-
-**FHIR®-Element**
-
-**Bedingung**
-
 Date
 
+**FHIR®-Element**
+
 **Bedingung**
 
-*<UUID der Instanz>*
+section.entry.reference = *<UUID der Instanz>*
 
-*<UUID der Instanz>*
+author.type = „Practitioner“
 
-*<UUID der Instanz>*
+author.reference = *<UUID der Instanz>*
+
+custodian.reference = *<UUID der Instanz>*
 
 ndbuch_DiMus
 
@@ -1555,9 +1545,9 @@ Fehlertext
 
 Dokumenten-ID der
 
-5  technisch fehlerhaften  eAU oder Storno- Nachricht oder die
+5  technisch fehlerhaften  eAU oder Storno-Nachricht oder die
 
-Message-ID der KIM- Nachricht
+Message-ID der KIM-Nachricht
 
 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 2 aufgeführten Datenfelder korrekt  befüllt werden.  4. Wenn die Software eine Fehlernachricht erstellt, dann werden die FHIR®-Elemente issue.severity und  issue.code wie folgt befüllt:  a) issue.severity = „fatal“  b) issue.code = „processing“  Bei der Erstellung einer Fehlernachricht muss die Software einen „Fehlercode“ und einen „ übertragen.  5. Die Software muss sicherstellen, dass wenn  oder „314“ übertragen wird, dass das Feld  issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I) dentifier).valueIdentifier.system“ den Wert  [https://fhir.kbv.de/NamingSystem/KBV_NS_EAU_Message_ID_KIM](https://fhir.kbv.de/NamingSystem/KBV_NS_EAU_Message_ID_KIM) issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I) dentifier).extension(Message-ID).valueIdentifier.value äußeren Headers  der fehlerhaften KIM-Nachricht enthalten ist.
 
@@ -1571,7 +1561,7 @@ issue.details.coding.code
 
 issue.details.coding.display
 
-OperationOutcome.issue.extension:  Identifier.extension:Bundle- Identifier.value[x]:valueIdentifier   Oder   OperationOutcome.issue.extension: Identifier.extension:Message- ID.value[x]:valueIdentifier
+OperationOutcome.issue.extension:  Identifier.extension:Bundle-Identifier.value[x]:valueIdentifier   Oder   OperationOutcome.issue.extension: Identifier.extension:Message-ID.value[x]:valueIdentifier
 
 im Feld „Fehlercode“ der Wert „301“ oder „307“ oder „313“
 
@@ -1586,7 +1576,7 @@ sprich die Message-ID des
 
 ---
 
-6. Die Software muss sicherstellen, dass wenn im Feld „Fehlercode“ nicht der Wert „301“ oder „307“ oder  „313“ oder „314“ übertragen wird, entweder im Feld   a) issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).valueIdentifier.system“ der Wert „urn:ietf:rfc:3986“ und im Feld  issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).extension(Bundle-Identifier).valueIdentifier.value“ der Bundle-Identifier  sprich den  Wert aus dem Element Bundle.identifier.value  der fehlerhaften eAU- oder Storno-FHIR-Instanz  oder  b) Im Feld  issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).extension(Message-ID).valueIdentifier.value“ die KIM-Message-ID  sprich die Message- ID des äußeren Headers  der fehlerhaften KIM-Nachricht enthalten ist.  7. Bei einer Fehlernachricht ist der Dateiname der erzeugten Instanz ist immer wie folgt aufgebaut:  <E,T>EAU0_Fehler_<*ID der erzeugten Fehlernachricht*>.xml  a) *E, T*> = *E* für Echtdaten und *T* für Testdaten  b) *ID der erzeugten Fehlernachricht*> = Wert des Elementes id der Instanz des Profils  KBV_PR_EAU_health_insurance_Practitioner
+6. Die Software muss sicherstellen, dass wenn im Feld „Fehlercode“ nicht der Wert „301“ oder „307“ oder  „313“ oder „314“ übertragen wird, entweder im Feld   a) issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).valueIdentifier.system“ der Wert „urn:ietf:rfc:3986“ und im Feld  issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).extension(Bundle-Identifier).valueIdentifier.value“ der Bundle-Identifier  sprich den  Wert aus dem Element Bundle.identifier.value  der fehlerhaften eAU- oder Storno-FHIR-Instanz  oder  b) Im Feld  issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).extension(Message-ID).valueIdentifier.value“ die KIM-Message-ID  sprich die Message-ID des äußeren Headers  der fehlerhaften KIM-Nachricht enthalten ist.  7. Bei einer Fehlernachricht ist der Dateiname der erzeugten Instanz ist immer wie folgt aufgebaut:  <E,T>EAU0_Fehler_<*ID der erzeugten Fehlernachricht*>.xml  a) *E, T*> = *E* für Echtdaten und *T* für Testdaten  b) *ID der erzeugten Fehlernachricht*> = Wert des Elementes id der Instanz des Profils  KBV_PR_EAU_health_insurance_Practitioner
 
 **Bedingung:**
 
@@ -1622,7 +1612,7 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz der Signatur im Rahmen der Erstel
 
 Der Anwender sollte durch geeignete Funktionen die Möglichkeit haben zu entscheiden, ob eine Signatur  mittels SMC-B oder eHBA erzeugt werden soll.  Die Signatur mittels SMC-B ist nur zulässig in den definierten Fällen laut BMV-Ä Anlage 2b Nummer 4.1.6.
 
-Das **T** im Dateinamen einer eAU oder Storno-Nachricht nach den Vorgaben (<E,T>EAU0_<Dokumenten- ID>.p7s oder /<E,T>EAU0_Storno_<Dokumenten-ID der Storno-Nachricht>.p7s) des Akzeptanzkriteriums 4  darf nur bei dem Versand von eAUs oder Storno-Nachrichten an ein Testsystem der Krankenkassen bspw.  in der Referenzumgebung der gematik verwendet werden.
+Das **T** im Dateinamen einer eAU oder Storno-Nachricht nach den Vorgaben (<E,T>EAU0_<Dokumenten-ID>.p7s oder /<E,T>EAU0_Storno_<Dokumenten-ID der Storno-Nachricht>.p7s) des Akzeptanzkriteriums 4  darf nur bei dem Versand von eAUs oder Storno-Nachrichten an ein Testsystem der Krankenkassen bspw.  in der Referenzumgebung der gematik verwendet werden.
 
 **PFLICHTFUNKTION EAU**
 
@@ -1687,7 +1677,7 @@ Im Bundesmantelvertrag Anlage 2b §3 ist geregelt, dass digitale Muster auf eine
 
 ---
 
-2.  Einschränkung zu den Festlegungen der gematik zum Thema „zur Nachrichtengenerierung aus dem PS  heraus (ehemals Anforderung KOM-LE-A_2199 des Implementierungsleitfaden):  a) Die Software stellt sicher, dass im Rahmen des Versandes pro KIM-Nachricht vom Anwender  **ausschließlich** **eine** **signierte eAU-Instanz** gemäß den Anforderungen P310-03 und P4-01 versendet  wird.  b) Die Software überträgt die signierte eAU-Instanz in einem base64-codierten MIME-Segment. Das  Segment muss die folgenden Metainformationen enthalten:  Content-Type: application/octet-stream; name=Dateiname gemäß P4-01 Akzeptanzkriterium 4 a)  Content-Transfer-Encoding: base64  Content-Disposition: attachment; filename=Dateiname gemäß P4-01 Akzeptanzkriterium 4 a)  Content-Description: eAU  3. Einschränkung zu den Festlegungen der gematik zum Thema „zur Verwendung von KIM-E-Mail- Adressen (ehemals Anforderung KOM-LE-A_2200 des Implementierungsleitfaden):  a) Die Software verwendet zum Versand der eAU lediglich das Header-Element To“ gemäß [RFC822 b) Die Software setzt zum Versand der eAU das Header-Element „Reply To“ gemäß [RFC822] mit der  KIM-Adresse, an welche die Rückmeldung erfolgen soll.  4. Ergänzend zu den Festlegungen der gematik zum Thema „zur Auswahl der E-Mail-Adresse des  gewünschten Empfängers (ehemals die Anforderungen KOM-LE-A_2204 und KOM-LE-A_2205 des  Implementierungsleitfaden):  a) Wenn im Rahmen der Behandlung die eGK des Versicherten eingelesen wurde, ermittelt die  Software die KIM-Mail-Adresse des Empfängers automatisch anhand des IKs im XML-Element  ./Versicherungsschutz/Kostentraeger/Kostentraegerkennung des VSD-Schemas 5.2.0 der eGK aus  dem VZD (Verzeichnisdienst) der TI.
+2.  Einschränkung zu den Festlegungen der gematik zum Thema „zur Nachrichtengenerierung aus dem PS  heraus (ehemals Anforderung KOM-LE-A_2199 des Implementierungsleitfaden):  a) Die Software stellt sicher, dass im Rahmen des Versandes pro KIM-Nachricht vom Anwender  **ausschließlich** **eine** **signierte eAU-Instanz** gemäß den Anforderungen P310-03 und P4-01 versendet  wird.  b) Die Software überträgt die signierte eAU-Instanz in einem base64-codierten MIME-Segment. Das  Segment muss die folgenden Metainformationen enthalten:  Content-Type: application/octet-stream; name=Dateiname gemäß P4-01 Akzeptanzkriterium 4 a)  Content-Transfer-Encoding: base64  Content-Disposition: attachment; filename=Dateiname gemäß P4-01 Akzeptanzkriterium 4 a)  Content-Description: eAU  3. Einschränkung zu den Festlegungen der gematik zum Thema „zur Verwendung von KIM-E-Mail-Adressen (ehemals Anforderung KOM-LE-A_2200 des Implementierungsleitfaden):  a) Die Software verwendet zum Versand der eAU lediglich das Header-Element To“ gemäß [RFC822 b) Die Software setzt zum Versand der eAU das Header-Element „Reply To“ gemäß [RFC822] mit der  KIM-Adresse, an welche die Rückmeldung erfolgen soll.  4. Ergänzend zu den Festlegungen der gematik zum Thema „zur Auswahl der E-Mail-Adresse des  gewünschten Empfängers (ehemals die Anforderungen KOM-LE-A_2204 und KOM-LE-A_2205 des  Implementierungsleitfaden):  a) Wenn im Rahmen der Behandlung die eGK des Versicherten eingelesen wurde, ermittelt die  Software die KIM-Mail-Adresse des Empfängers automatisch anhand des IKs im XML-Element  ./Versicherungsschutz/Kostentraeger/Kostentraegerkennung des VSD-Schemas 5.2.0 der eGK aus  dem VZD (Verzeichnisdienst) der TI.
 -  Die Software verwendet als Suchkriterium das LDAP-Directory Attribut domainID und das  Attribut entryType mit dem Wert „5“ b) Wenn im Rahmen der Behandlung das Ersatzverfahren angewendet oder eine manuelle Erfassung  der „Versichertendaten“ vorgenommen wurde, ermittelt die Software die KIM-Mail-Adresse des  [Empfängers automatisch anhand des vorhandenen IKs (XML-Element](mailto:./kostentraeger/ik_liste/ik@V)[./kostentraeger/ik_liste/ik@V](mailto:./kostentraeger/ik_liste/ik@V) [des Kostenträgers laut der Kostenträgerstammdatei [SDKT]. Sollten zu dem ausgewählten](mailto:./kostentraeger/ik_liste/ik@V) Kostenträger mehrere IKs hinterlegt sein, dann prüft die Software automatisch für welches der IKs  eine KIM-Mail-Adresse hinterlegt ist.
 -  Die Software verwendet als Suchkriterium das LDAP-Directory Attribut domainID und das  Attribut entryType mit dem Wert „5“
 -  Wenn die Software mit diesen Suchkriterien mehr als einen VZD-Eintrag findet, dann versendet  die Software die eAU an die erste gefundene KIM-Adresse der jeweiligen Krankenkasse.  c) Wenn die Software keinen Empfänger aus dem VZD der TI ermitteln kann, dann zeigt die Software  dem Anwender die folgende Fehlermeldung an:  Aufgrund der fehlenden Empfangsadresse der zuständigen Krankenkasse <Krankenkasse> des  Patienten <Patientenname>, kann die eAU nicht übermittelt werden.  Bitte drucken Sie dem Patienten das Exemplar „Ausfertigung Krankenkasse“ der eAU aus. “  5. Sämtliche zu einem Versicherten versendete eAUs werden durch die Software in der Patientenakte (im  PVS) hinterlegt.  a) Die Software kennzeichnet die versendete eAU entsprechend als „versendet“, wenn diese erfolgreich  versendet werden konnte.
@@ -1713,7 +1703,7 @@ Im Bundesmantelvertrag Anlage 2b §3 ist geregelt, dass digitale Muster auf eine
 
 **Akzeptanzkriterium:**
 
-1. Ergänzend zu den Festlegungen der gematik zum Thema „zur Nachrichtengenerierung aus dem PS  heraus (ehemals Anforderung KOM-LE-A_2199 des Implementierungsleitfaden):  a) Die Software setzt den Betreff der zu erstellenden Nachricht immer auf  *<E,T>*EAU0_Storno_*<Dokumenten-ID der Storno-Nachricht>:*  *<E, T*> = *E* für Echtdaten im Produktivsystem und *T* für Testdaten im Testsystem  *Dokumenten-ID der Storno-Nachricht*> = Wert des Elementes identifier.value der Instanz des  Profils KBV_PR_EAU_Storno_Bundle  b) Die Software setzt in den Header der Storno-Nachricht das Element X-KIM-Dienstkennung mit dem  Wert „eAU;Storno-Arzt;V1.2 2. Einschränkung zu den Festlegungen der gematik zum Thema „zur Nachrichtengenerierung aus dem PS  heraus (ehemals Anforderung KOM-LE-A_2199 des Implementierungsleitfadens):  a) Die Software stellt sicher, dass im Rahmen des Storno Versandes pro Storno-Nachricht vom  Anwender **ausschließlich** **eine signierte Storno-Instanz** nach den Anforderungen P310-10, P310-11  und P4-01 versendet wird.  b) Die Software überträgt die signierte Storno-Instanz in einem base64-codierten MIME-Segment. Das  Segment muss die folgenden Metainformationen enthalten:  Content-Type: application/octet-stream; name=Dateiname gemäß P4-01 Akzeptanzkriterium 4 b)  Content-Transfer-Encoding: base64  Content-Disposition: attachment; filename=Dateiname gemäß P4-01 Akzeptanzkriterium 4 b)  Content-Description: eAUStorno  3. Einschränkung zu den Festlegungen der gematik zum Thema „zur Verwendung von KIM-E-Mail- Adressen (ehemals Anforderung KOM-LE-A_2200 des Implementierungsleitfadens):  a) Die Software verwendet zum Versand der Storno-Nachricht lediglich das Header-Element To“  gemäß [RFC822 b) Die Software setzt zum Versand der Storno-Nachricht das Header-Element „Reply To“ gemäß  RFC822] mit der KIM-Adresse, an welche die Rückmeldung erfolgen soll.  4. Ergänzend zu den Festlegungen der gematik zum Thema „zur Auswahl der E-Mail-Adresse des  gewünschten Empfängers (ehemals die Anforderungen KOM-LE-A_2204 und KOM-LE-A_2205 des  Implementierungsleitfaden):  a) Wenn im Rahmen der Behandlung die eGK des Versicherten eingelesen wurde, ermittelt die  Software die KIM-Mail-Adresse des Empfängers automatisch anhand des IKs im XML-Element
+1. Ergänzend zu den Festlegungen der gematik zum Thema „zur Nachrichtengenerierung aus dem PS  heraus (ehemals Anforderung KOM-LE-A_2199 des Implementierungsleitfaden):  a) Die Software setzt den Betreff der zu erstellenden Nachricht immer auf  *<E,T>*EAU0_Storno_*<Dokumenten-ID der Storno-Nachricht>:*  *<E, T*> = *E* für Echtdaten im Produktivsystem und *T* für Testdaten im Testsystem  *Dokumenten-ID der Storno-Nachricht*> = Wert des Elementes identifier.value der Instanz des  Profils KBV_PR_EAU_Storno_Bundle  b) Die Software setzt in den Header der Storno-Nachricht das Element X-KIM-Dienstkennung mit dem  Wert „eAU;Storno-Arzt;V1.2 2. Einschränkung zu den Festlegungen der gematik zum Thema „zur Nachrichtengenerierung aus dem PS  heraus (ehemals Anforderung KOM-LE-A_2199 des Implementierungsleitfadens):  a) Die Software stellt sicher, dass im Rahmen des Storno Versandes pro Storno-Nachricht vom  Anwender **ausschließlich** **eine signierte Storno-Instanz** nach den Anforderungen P310-10, P310-11  und P4-01 versendet wird.  b) Die Software überträgt die signierte Storno-Instanz in einem base64-codierten MIME-Segment. Das  Segment muss die folgenden Metainformationen enthalten:  Content-Type: application/octet-stream; name=Dateiname gemäß P4-01 Akzeptanzkriterium 4 b)  Content-Transfer-Encoding: base64  Content-Disposition: attachment; filename=Dateiname gemäß P4-01 Akzeptanzkriterium 4 b)  Content-Description: eAUStorno  3. Einschränkung zu den Festlegungen der gematik zum Thema „zur Verwendung von KIM-E-Mail-Adressen (ehemals Anforderung KOM-LE-A_2200 des Implementierungsleitfadens):  a) Die Software verwendet zum Versand der Storno-Nachricht lediglich das Header-Element To“  gemäß [RFC822 b) Die Software setzt zum Versand der Storno-Nachricht das Header-Element „Reply To“ gemäß  RFC822] mit der KIM-Adresse, an welche die Rückmeldung erfolgen soll.  4. Ergänzend zu den Festlegungen der gematik zum Thema „zur Auswahl der E-Mail-Adresse des  gewünschten Empfängers (ehemals die Anforderungen KOM-LE-A_2204 und KOM-LE-A_2205 des  Implementierungsleitfaden):  a) Wenn im Rahmen der Behandlung die eGK des Versicherten eingelesen wurde, ermittelt die  Software die KIM-Mail-Adresse des Empfängers automatisch anhand des IKs im XML-Element
 
 
 ---
@@ -1738,7 +1728,7 @@ Die Software setzt die eAU spezifischen Festlegungen zum Erhalt einer Rückmeldu
 
 **Begründung:**
 
-Da die Krankenkasse die Möglichkeit hat, dem Arzt Rückmeldungen in Form einer Fehlernachricht zu  senden und standardmäßig eine Zustellbestätigung (DSN) im eAU-Verfahren vom empfangenden KIM- Server an den Absender gesendet wird, muss die Software des Anwenders die Nachricht vom Server  abfragen und dem Anwender anzeigen.
+Da die Krankenkasse die Möglichkeit hat, dem Arzt Rückmeldungen in Form einer Fehlernachricht zu  senden und standardmäßig eine Zustellbestätigung (DSN) im eAU-Verfahren vom empfangenden KIM-Server an den Absender gesendet wird, muss die Software des Anwenders die Nachricht vom Server  abfragen und dem Anwender anzeigen.
 
 **Akzeptanzkriterium:**
 
@@ -1747,7 +1737,7 @@ Da die Krankenkasse die Möglichkeit hat, dem Arzt Rückmeldungen in Form einer 
 
 ---
 
-a) Sofern der Anwender keine Einstellung vorgenommen hat, verwendet die Software den Default  Intervall von mindestens 10 min. Der Defaultwert kann von einem Softwarehersteller auch geringer  als 10 min ausfallen.  2. Die Software bietet dem Anwender bei eHBA basierten KIM-Adressen, - die KIM-Adresse ist im  Verzeichnisdienst der TI zu einem eHBA-Eintrag (einer Person) hinterlegt - die Möglichkeit festzulegen,  dass  a) entweder die KIM-Mails automatisch von der Software vom KIM-Mail-Server abgerufen werden oder  b) mindestens der Anwender nach einem konfigurierbaren Zeitraum automatisch an das Stecken des  eHBAs sowie das Abrufen der KIM-Mails erinnert wird.  3. Die Software ruft in den eingestellten Intervallen nach Akzeptanzkriterium 1 und/oder dem  Automatismus nach Akzeptanzkriterium 2 den KIM-Mail-Server ab und prüft, ob Nachrichten für den  Anwender zur Verfügung stehen.  a) Wenn Nachrichten zur Verfügung stehen, dann prüft die Software, ob diese im Zusammenhang mit  den versendeten eAU-Nachrichten gemäß P5-02 oder den versendeten eStorno-Nachrichten gemäß  P5-03 stehen.  4. Die Software ordnet jede abgerufene Zustellbestätigung (DSN) automatisch der versendeten eAU- oder  Storno-Nachricht zu und zeigt dies in geeigneter Form in der Patientenakte (im PVS) und in der  Nachrichtenübersicht an.  a) Durch die Zuordnung der Zustellbestätigung zeigt die Software dem Anwender in der Patientenakte  (im PVS) und in der Nachrichtenübersicht an, dass die übermittelte Nachricht erfolgreich im KIM- Postfach der Krankenkasse eingegangen ist.  5. Wenn zu einer versendeten eAU- oder Storno-Nachricht nach 24 Stunden weder eine Zustellbestätigung  noch eine Fehlermeldung gemäß Akzeptanzkriterium 7 abgerufen werden konnte, dann zeigt die  Software dem Anwender den folgenden Text an ohne den Workflow zu unterbrechen und stellt dar, in  welchem Status sich diese eAU/Storno befindet  a) Wenn es sich bei der versendeten Nachricht um eine eAU-Nachricht handelt:  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung  für Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass  immer noch keine Zustellbestätigung eingegangen ist.  Sollte bis Ende des heutigen Tages keine Zustellbestätigung vorliegen, senden Sie bitte die AU- Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse  <Name der Krankenkasse>.  <Wenden Sie sich zur Behebung des Problems unter Angabe der ID <Dokumenten-ID der eAU> bitte  an Ihren Softwarehersteller.>  b) Wenn es sich bei der versendeten Nachricht um eine Storno-Nachricht handelt:  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Storno-Nachricht für Ihren  Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass immer noch  keine Zustellbestätigung eingegangen ist.  <Wenden Sie sich zur Behebung des Problems unter Angabe der ID <Dokumenten-ID der eStorno>  bitte an Ihren Softwarehersteller.>  c) Die Textstelle <Wenden Sie sich zur Behebung des Problems unter Angabe der ID <Dokumenten-ID  der eAU/eStorno> bitte an Ihren Softwarehersteller.> in den Hinweistexten des Akzeptanzkriteriums
+a) Sofern der Anwender keine Einstellung vorgenommen hat, verwendet die Software den Default  Intervall von mindestens 10 min. Der Defaultwert kann von einem Softwarehersteller auch geringer  als 10 min ausfallen.  2. Die Software bietet dem Anwender bei eHBA basierten KIM-Adressen, - die KIM-Adresse ist im  Verzeichnisdienst der TI zu einem eHBA-Eintrag (einer Person) hinterlegt - die Möglichkeit festzulegen,  dass  a) entweder die KIM-Mails automatisch von der Software vom KIM-Mail-Server abgerufen werden oder  b) mindestens der Anwender nach einem konfigurierbaren Zeitraum automatisch an das Stecken des  eHBAs sowie das Abrufen der KIM-Mails erinnert wird.  3. Die Software ruft in den eingestellten Intervallen nach Akzeptanzkriterium 1 und/oder dem  Automatismus nach Akzeptanzkriterium 2 den KIM-Mail-Server ab und prüft, ob Nachrichten für den  Anwender zur Verfügung stehen.  a) Wenn Nachrichten zur Verfügung stehen, dann prüft die Software, ob diese im Zusammenhang mit  den versendeten eAU-Nachrichten gemäß P5-02 oder den versendeten eStorno-Nachrichten gemäß  P5-03 stehen.  4. Die Software ordnet jede abgerufene Zustellbestätigung (DSN) automatisch der versendeten eAU- oder  Storno-Nachricht zu und zeigt dies in geeigneter Form in der Patientenakte (im PVS) und in der  Nachrichtenübersicht an.  a) Durch die Zuordnung der Zustellbestätigung zeigt die Software dem Anwender in der Patientenakte  (im PVS) und in der Nachrichtenübersicht an, dass die übermittelte Nachricht erfolgreich im KIM-Postfach der Krankenkasse eingegangen ist.  5. Wenn zu einer versendeten eAU- oder Storno-Nachricht nach 24 Stunden weder eine Zustellbestätigung  noch eine Fehlermeldung gemäß Akzeptanzkriterium 7 abgerufen werden konnte, dann zeigt die  Software dem Anwender den folgenden Text an ohne den Workflow zu unterbrechen und stellt dar, in  welchem Status sich diese eAU/Storno befindet  a) Wenn es sich bei der versendeten Nachricht um eine eAU-Nachricht handelt:  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung  für Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass  immer noch keine Zustellbestätigung eingegangen ist.  Sollte bis Ende des heutigen Tages keine Zustellbestätigung vorliegen, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse  <Name der Krankenkasse>.  <Wenden Sie sich zur Behebung des Problems unter Angabe der ID <Dokumenten-ID der eAU> bitte  an Ihren Softwarehersteller.>  b) Wenn es sich bei der versendeten Nachricht um eine Storno-Nachricht handelt:  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Storno-Nachricht für Ihren  Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass immer noch  keine Zustellbestätigung eingegangen ist.  <Wenden Sie sich zur Behebung des Problems unter Angabe der ID <Dokumenten-ID der eStorno>  bitte an Ihren Softwarehersteller.>  c) Die Textstelle <Wenden Sie sich zur Behebung des Problems unter Angabe der ID <Dokumenten-ID  der eAU/eStorno> bitte an Ihren Softwarehersteller.> in den Hinweistexten des Akzeptanzkriteriums
 
 a) und b) kann vom Softwarehersteller angepasst werden.  d) Alternativ zu einer direkten Anzeige des Textes kann die Software dem Anwender diese  Informationen auch in einer gesammelten Übersicht anzeigen, aus welcher der Anwender die  einzelnen betroffenen eAUs oder Storno-Nachrichten identifizieren kann.  6. Wenn die empfangene Nachricht eine Fehlernachricht gemäß Kapitel 3.10.3 (FHIR®-Element  issue.severity = „fatal“ und der Fehlercode ungleich „100“) ist, dann zeigt die Software dem Anwender  die entsprechenden Meldungen zu den Fehlercodes (FHIR®-Element issue.details.coding.code) an und
 
@@ -1985,12 +1975,12 @@ a) Die Software ordnet die Fehlernachricht anhand des übermittelten Identifier 
 ---
 
 10. Bei Akzeptanzkriterium 6 b), 6 d), 6 g), 6 h), 6 o), 6 p), 6 q), 6 r) und 6 t) stellt die Software sicher, dass  für den Anwender erkenntlich ist, bei welcher eAU ein Fehler vorliegt. Ebenso muss der Anwender die  Möglichkeit haben, den Versand zu wiederholen, ohne die Arbeitsunfähigkeitsbescheinigung zu  stornieren.  11. Bei Akzeptanzkriterium 6 c),6 e), 6 f), 6 i), 6 j), 6 k), 6 l), 6 m), 6 n) und 6 s) stellt die Software sicher, dass  für den Anwender erkenntlich ist, bei welcher Stornomeldung ein Fehler vorliegt. Ebenso muss der  Anwender die Möglichkeit haben, den Versand zu wiederholen.  12. Als Titel der Meldung nach Akzeptanzkriterium 6 ist der Inhalt des FHIR®-Element  issue.details.coding.display zu verwenden.  a) Im Rahmen der Meldung wird dem Anwender zur Kommunikation mit dem Softwarehersteller der  Wert des Feldes „Fehlercode“ angezeigt.   b) Sofern in dem KIM-Mail-Body der erhaltenen KIM-Nachricht weitere Informationen zur übermittelten  Fehlermeldung enthalten sind, zeigt die Software auf Wunsch des Anwenders die detaillierte  zusätzliche Fehlermeldung an.  c) Wenn bei den Fehlercodes 101 oder 102 in dem KIM-Mail-Body ausschließlich der folgende Text  enthalten ist „Achtung möglicher Virenbefall “ zeigt die Software dem Anwender aktiv die folgende  Mitteilung an und nicht die Fehlermeldung entsprechend des Akzeptanzkriteriums 6:
--  <Sehr geehrte Arztpraxis>,  vermutlich ist ihr IT-System von einem schädlichen Programm wie bspw. Virus, Malware oder  einem Trojaner befallen.  Aus diesem Grund kann eine Verarbeitung ihrer übermittelten Daten nicht erfolgen.  <Wenden Sie sich bitte dringend zur Behebung des Problems an Ihren Softwarehersteller oder IT- Dienstleister.  Sollte eine Korrektur des Sachverhaltes nach Rücksprache mit ihrem Softwarehersteller nicht bis  Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung  (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. >   Eine Kennzeichnung der nicht verarbeiteten eAU- oder Storno-Nachricht erfolgt in der  Nachrichtenübersicht sowie in der Patientenakte (im PVS).  Bei diesen Fehlernachrichten repräsentiert das Feld  „issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).extension(Message-ID).valueIdentifier.value“ die KIM-Message-ID  sprich die Message- ID des äußeren Headers - der versendeten KIM-Nachricht.  Der Text < Wenden Sie sich bitte dringend zur Behebung des Problems an Ihren Softwarehersteller  oder IT-Dienstleister.  Sollte eine Korrektur des Sachverhaltes nach Rücksprache mit ihrem Softwarehersteller nicht bis  Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck  der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. > in diesem  Meldungstext kann im Kontext des stationären oder zahnärztlichen Einsatzes durch einen anderen  Text angepasst bzw. ersetzt werden.  13. Der Text <Sehr geehrte Arztpraxis> im Meldungstext nach Akzeptanzkriterium 5, 6 und 12 c) kann im  Kontext des stationären oder des zahnärztlichen Einsatzes durch einen entsprechenden Text angepasst  werden.  14. Die Software stellt sicher, dass der Anwender nach dem Erhalt einer Fehlernachricht und der Korrektur  des Fehlers bspw. durch Einspielen eines Softwareupdates, die betroffene  Arbeitsunfähigkeitsbescheinigung oder Stornonachricht erneut ohne den entsprechenden Fehler  versenden kann.  a) Der erneute korrigierte Versand kann von der Software durch geeignete Funktion unterstützt  werden.  b) Die Software stellt sicher, dass bei einem erneuten Versand einer eAU- oder Storno-Nachricht  aufgrund der Fehlercodes 100, 101, 102, 103, 104 oder 105 die FHIR-Datei gemäß der Anforderung  P310-14 bzw. P310-10 neu erzeugt, signiert und versendet wird.
+-  <Sehr geehrte Arztpraxis>,  vermutlich ist ihr IT-System von einem schädlichen Programm wie bspw. Virus, Malware oder  einem Trojaner befallen.  Aus diesem Grund kann eine Verarbeitung ihrer übermittelten Daten nicht erfolgen.  <Wenden Sie sich bitte dringend zur Behebung des Problems an Ihren Softwarehersteller oder IT-Dienstleister.  Sollte eine Korrektur des Sachverhaltes nach Rücksprache mit ihrem Softwarehersteller nicht bis  Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung  (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. >   Eine Kennzeichnung der nicht verarbeiteten eAU- oder Storno-Nachricht erfolgt in der  Nachrichtenübersicht sowie in der Patientenakte (im PVS).  Bei diesen Fehlernachrichten repräsentiert das Feld  „issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).extension(Message-ID).valueIdentifier.value“ die KIM-Message-ID  sprich die Message-ID des äußeren Headers - der versendeten KIM-Nachricht.  Der Text < Wenden Sie sich bitte dringend zur Behebung des Problems an Ihren Softwarehersteller  oder IT-Dienstleister.  Sollte eine Korrektur des Sachverhaltes nach Rücksprache mit ihrem Softwarehersteller nicht bis  Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck  der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. > in diesem  Meldungstext kann im Kontext des stationären oder zahnärztlichen Einsatzes durch einen anderen  Text angepasst bzw. ersetzt werden.  13. Der Text <Sehr geehrte Arztpraxis> im Meldungstext nach Akzeptanzkriterium 5, 6 und 12 c) kann im  Kontext des stationären oder des zahnärztlichen Einsatzes durch einen entsprechenden Text angepasst  werden.  14. Die Software stellt sicher, dass der Anwender nach dem Erhalt einer Fehlernachricht und der Korrektur  des Fehlers bspw. durch Einspielen eines Softwareupdates, die betroffene  Arbeitsunfähigkeitsbescheinigung oder Stornonachricht erneut ohne den entsprechenden Fehler  versenden kann.  a) Der erneute korrigierte Versand kann von der Software durch geeignete Funktion unterstützt  werden.  b) Die Software stellt sicher, dass bei einem erneuten Versand einer eAU- oder Storno-Nachricht  aufgrund der Fehlercodes 100, 101, 102, 103, 104 oder 105 die FHIR-Datei gemäß der Anforderung  P310-14 bzw. P310-10 neu erzeugt, signiert und versendet wird.
 
 
 ---
 
-c) Bei den Fehlercodes 201, 202, 203, 204, 301, 303, 304, 305, 307, 309, 310, 311, 313 oder 314 kann  die Software zum nochmaligen Versand einer eAU- oder Storno Nachricht die FHIR-Datei gemäß der  Anforderung P310-14 bzw. P310-10 neu erzeugen.  Es besteht jedoch keine Verpflichtung, dass die zu versendende eAU- oder Storno-Nachricht neu  erzeugt wird, es kann auch eine bereits bestehende FHIR-Datei nochmalig für den Versand  verwendet werden.  15. Wenn der Anwender eine Fehlernachricht vom KIM-Server erhält, welche nicht den Vorgaben gemäß  Kapitel 3.10.3 entspricht, sondern originär vom KIM-Dienst erzeugt wurde, dann zeigt die Software dem  Anwender diese Fehlernachricht an, kennzeichnet die versendete eAU- oder Storno-Nachricht  entsprechend und zeigt dies in geeigneter Form in der Patientenakte (im PVS) sowie in der  Nachrichtenübersicht an.  a) Die Software versucht den Versand der betroffenen eAU- und Storno-Nachrichten drei Werktage lang  automatisch zu wiederholen. Der Versand wird alle 4 Stunden wiederholt, wenn die Software des  Anwenders aktiv ist.  b) Die Software dokumentiert die Versuche in geeigneter Form in der Patientenakte sowie der  Nachrichtenübersicht.  c) Der Anwender muss die Möglichkeit haben den Versand zu jeder Zeit zu wiederholen.  16. Die Software bietet dem Anwender eine Funktion, dass die „Status“-KIM-Nachrichten (DSN und  Fehlernachricht) im Rahmen des eAU-Verfahrens im KIM-Postfach (im System des Anwenders/der  Praxis) nach der erfolgreichen Verarbeitung und Zuordnung zur ursprünglichen eAU- / Storno-Nachricht  (gemäß Akzeptanzkriterium 4 oder 6) automatisch aus dem Posteingang entfernt bzw. herausgefiltert  werden.  a) Der Anwender muss nach dem automatischen Entfernen/Herausfiltern der „Status“-KIM-Nachrichten  aus dem Posteingang immer noch die Möglichkeit haben dauerhaft auf die entsprechenden KIM- Nachrichten zu zugreifen.  b) Der Anwender muss die Möglichkeit haben die Funktion an- und auszuschalten bzw. einen möglichen  Anzeigefilter zu wechseln.  c) Die Funktion ist standardmäßig eingeschaltet bzw. ist ein möglicher Filter entsprechend  standardmäßig vom System automatisch ausgewählt.  d) Die Software informiert den Anwender bei erstmaliger Aktivierung/Auslieferung der Funktion über  die Funktionsweise. Diese Vorgabe gilt nur, wenn diese Funktionalität den Anwendern nach dem  01.01.2023 zur Verfügung gestellt wird.
+c) Bei den Fehlercodes 201, 202, 203, 204, 301, 303, 304, 305, 307, 309, 310, 311, 313 oder 314 kann  die Software zum nochmaligen Versand einer eAU- oder Storno Nachricht die FHIR-Datei gemäß der  Anforderung P310-14 bzw. P310-10 neu erzeugen.  Es besteht jedoch keine Verpflichtung, dass die zu versendende eAU- oder Storno-Nachricht neu  erzeugt wird, es kann auch eine bereits bestehende FHIR-Datei nochmalig für den Versand  verwendet werden.  15. Wenn der Anwender eine Fehlernachricht vom KIM-Server erhält, welche nicht den Vorgaben gemäß  Kapitel 3.10.3 entspricht, sondern originär vom KIM-Dienst erzeugt wurde, dann zeigt die Software dem  Anwender diese Fehlernachricht an, kennzeichnet die versendete eAU- oder Storno-Nachricht  entsprechend und zeigt dies in geeigneter Form in der Patientenakte (im PVS) sowie in der  Nachrichtenübersicht an.  a) Die Software versucht den Versand der betroffenen eAU- und Storno-Nachrichten drei Werktage lang  automatisch zu wiederholen. Der Versand wird alle 4 Stunden wiederholt, wenn die Software des  Anwenders aktiv ist.  b) Die Software dokumentiert die Versuche in geeigneter Form in der Patientenakte sowie der  Nachrichtenübersicht.  c) Der Anwender muss die Möglichkeit haben den Versand zu jeder Zeit zu wiederholen.  16. Die Software bietet dem Anwender eine Funktion, dass die „Status“-KIM-Nachrichten (DSN und  Fehlernachricht) im Rahmen des eAU-Verfahrens im KIM-Postfach (im System des Anwenders/der  Praxis) nach der erfolgreichen Verarbeitung und Zuordnung zur ursprünglichen eAU- / Storno-Nachricht  (gemäß Akzeptanzkriterium 4 oder 6) automatisch aus dem Posteingang entfernt bzw. herausgefiltert  werden.  a) Der Anwender muss nach dem automatischen Entfernen/Herausfiltern der „Status“-KIM-Nachrichten  aus dem Posteingang immer noch die Möglichkeit haben dauerhaft auf die entsprechenden KIM-Nachrichten zu zugreifen.  b) Der Anwender muss die Möglichkeit haben die Funktion an- und auszuschalten bzw. einen möglichen  Anzeigefilter zu wechseln.  c) Die Funktion ist standardmäßig eingeschaltet bzw. ist ein möglicher Filter entsprechend  standardmäßig vom System automatisch ausgewählt.  d) Die Software informiert den Anwender bei erstmaliger Aktivierung/Auslieferung der Funktion über  die Funktionsweise. Diese Vorgabe gilt nur, wenn diese Funktionalität den Anwendern nach dem  01.01.2023 zur Verfügung gestellt wird.
 
 **Hinweis:**
 
@@ -2009,7 +1999,7 @@ Sofern eine DSN von einem Softwarehersteller nicht im KIM-Postfach des Anwenders
 
 ---
 
-Die Software bietet dem Anwender bzw. der Praxis eine Möglichkeit an, Fehlermeldungen aus dem eAU- Verfahren DSGVO-konform automatisch an eine Supportadresse des Softwareanbieters zu übermitteln.
+Die Software bietet dem Anwender bzw. der Praxis eine Möglichkeit an, Fehlermeldungen aus dem eAU-Verfahren DSGVO-konform automatisch an eine Supportadresse des Softwareanbieters zu übermitteln.
 
 **Begründung:**
 
@@ -2031,7 +2021,7 @@ Eine verpflichtende Zustellbestätigung muss angefordert werden, damit Kenntnis 
 
 **Akzeptanzkriterium:**
 
-1. Die Software stellt sicher, dass zu jeder versendeten eAU- und Storno-Nachricht eine Zustellbestätigung  (DSN) angefordert wird.  2. Die Software stellt sicher, dass der Anwender diese Einstellung für den Versand der eAU- und Storno- Nachrichten nicht ändern kann.
+1. Die Software stellt sicher, dass zu jeder versendeten eAU- und Storno-Nachricht eine Zustellbestätigung  (DSN) angefordert wird.  2. Die Software stellt sicher, dass der Anwender diese Einstellung für den Versand der eAU- und Storno-Nachrichten nicht ändern kann.
 
 ---
 
@@ -2078,7 +2068,7 @@ Implementierungsleitfadens:
 
 ---
 
-a) Die Software stellt sicher, dass im Rahmen des Versandes pro erzeugter Fehlernachricht von der  Krankenkasse **ausschließlich eine Fehlernachricht** gemäß der Anforderungen KP310-13 versendet  wird.  b) Die Software überträgt die Instanz Fehlernachricht-Kasse-an-Arzt in einem base64-codierten MIME- Segment. Das Segment muss die folgenden Metainformationen enthalten:  Content-Type: application/xml; name=Dateiname gemäß KP310-13 Akzeptanzkriterium 6)  Content-Transfer-Encoding: base64  Content-Disposition: attachment; filename=Dateiname gemäß KP310-13 Akzeptanzkriterium 6)  Content-Description: eAUFehler-Kasse  4. Einschränkung zur Anforderung KOM-LE-A_2200 des Implementierungsleitfadens:  a) Die Software verwendet zum Versand der Fehlernachrichten lediglich das Header Element To“  gemäß [RFC822 5. Die Software ermittelt die KIM-Mail-Adresse des Empfängers der Fehlernachricht aus dem Header-Feld  „Reply To“ aus der KIM-Nachricht, welche die fehlerhaften Daten enthält.  a) Wenn die im Header-Feld enthaltene Mail-Adresse nicht mit den im VZD hinterlegten Mail-Adressen  übereinstimmt, dann sendet die Software die Nachricht an die Absender-Adresse (Header Element  From“ der Eingangsnachricht) 6. Krankenkassen dürfen Fehlernachrichten nur bei technischen Fehlern (nicht valide Daten gemäß der  Technischen Anlage eAU und der FHIR-Profile oder Fehler im Zusammenhang mit KIM), Fehlern bei der  Signatur oder bei fehlerhaft adressierten Patienten versenden.  7. Krankenkassen müssen die Fehlernachricht so schnell wie möglich nach Erhalt einer eAU oder Storno- Nachricht versenden.   8. Die Software ruft in regelmäßigen Abständen, min. alle 10 Minuten, den KIM-Mail-Server ab.  9. Krankenkassen senden an den Absender zu den definierten Fehlernachrichten gemäß Anforderung  KP310-13 weitere detaillierte Fehlermeldungen (z.B. FHIR-Validierungsfehler, Signaturfehler usw.) im  KIM-Body der zu erzeugenden KIM-Nachricht.  10. Wenn Krankenkassen bei der zu verarbeitenden KIM-Nachricht einen Virenbefall identifizieren, dann  sendet die Krankenkassen an den Absender eine Fehlernachricht gemäß Anforderung KP310-13 mit dem  Fehlercode 101 oder 102 entsprechend der ursprünglichen Nachrichtenart.  a) Im KIM-Body überträgt die Krankenkasse ausschließlich den folgenden Text „Achtung möglicher  Virenbefall“.
+a) Die Software stellt sicher, dass im Rahmen des Versandes pro erzeugter Fehlernachricht von der  Krankenkasse **ausschließlich eine Fehlernachricht** gemäß der Anforderungen KP310-13 versendet  wird.  b) Die Software überträgt die Instanz Fehlernachricht-Kasse-an-Arzt in einem base64-codierten MIME-Segment. Das Segment muss die folgenden Metainformationen enthalten:  Content-Type: application/xml; name=Dateiname gemäß KP310-13 Akzeptanzkriterium 6)  Content-Transfer-Encoding: base64  Content-Disposition: attachment; filename=Dateiname gemäß KP310-13 Akzeptanzkriterium 6)  Content-Description: eAUFehler-Kasse  4. Einschränkung zur Anforderung KOM-LE-A_2200 des Implementierungsleitfadens:  a) Die Software verwendet zum Versand der Fehlernachrichten lediglich das Header Element To“  gemäß [RFC822 5. Die Software ermittelt die KIM-Mail-Adresse des Empfängers der Fehlernachricht aus dem Header-Feld  „Reply To“ aus der KIM-Nachricht, welche die fehlerhaften Daten enthält.  a) Wenn die im Header-Feld enthaltene Mail-Adresse nicht mit den im VZD hinterlegten Mail-Adressen  übereinstimmt, dann sendet die Software die Nachricht an die Absender-Adresse (Header Element  From“ der Eingangsnachricht) 6. Krankenkassen dürfen Fehlernachrichten nur bei technischen Fehlern (nicht valide Daten gemäß der  Technischen Anlage eAU und der FHIR-Profile oder Fehler im Zusammenhang mit KIM), Fehlern bei der  Signatur oder bei fehlerhaft adressierten Patienten versenden.  7. Krankenkassen müssen die Fehlernachricht so schnell wie möglich nach Erhalt einer eAU oder Storno-Nachricht versenden.   8. Die Software ruft in regelmäßigen Abständen, min. alle 10 Minuten, den KIM-Mail-Server ab.  9. Krankenkassen senden an den Absender zu den definierten Fehlernachrichten gemäß Anforderung  KP310-13 weitere detaillierte Fehlermeldungen (z.B. FHIR-Validierungsfehler, Signaturfehler usw.) im  KIM-Body der zu erzeugenden KIM-Nachricht.  10. Wenn Krankenkassen bei der zu verarbeitenden KIM-Nachricht einen Virenbefall identifizieren, dann  sendet die Krankenkassen an den Absender eine Fehlernachricht gemäß Anforderung KP310-13 mit dem  Fehlercode 101 oder 102 entsprechend der ursprünglichen Nachrichtenart.  a) Im KIM-Body überträgt die Krankenkasse ausschließlich den folgenden Text „Achtung möglicher  Virenbefall“.
 
 **Bedingung:**
 
@@ -2107,7 +2097,7 @@ Im Bundesmantelvertrag Anlage 2b §3 ist geregelt, dass die Übertragung von dig
 
 **Akzeptanzkriterium:**
 
-1. Die Softwaresysteme der Krankenkassen prüfen, ob es sich bei einer übermittelten eAU oder Storno- Datei um eine Datei handelt, welche bereits von der Krankenkasse erfasst wurde. Wenn die Datei  bereits erfasst und verarbeitet wurde, dann prüft die Software, ob  a) die ursprüngliche Datei abgelehnt wurde und die neue Datei weiterhin fehlerhaft ist.  Wenn ja, dann sendet die Krankenkasse eine erneute Fehlernachricht.  b) die ursprüngliche Datei abgelehnt wurde und die neue Datei korrekt verarbeitet werden kann.  Wenn ja, dann vermerkt die Krankenkasse in ihrem System, dass die Datei erneut geliefert wurde. Es  wird keine Fehlernachricht von der Krankenkasse an die Arztpraxis versendet.  c) die ursprüngliche Datei fehlerfrei verarbeitet werden konnte.  Wenn ja, dann vermerkt die Krankenkasse in ihrem System, dass die Datei erneut geliefert wurde. Es  wird keine Fehlernachricht von der Krankenkasse an die Arztpraxis versendet.
+1. Die Softwaresysteme der Krankenkassen prüfen, ob es sich bei einer übermittelten eAU oder Storno-Datei um eine Datei handelt, welche bereits von der Krankenkasse erfasst wurde. Wenn die Datei  bereits erfasst und verarbeitet wurde, dann prüft die Software, ob  a) die ursprüngliche Datei abgelehnt wurde und die neue Datei weiterhin fehlerhaft ist.  Wenn ja, dann sendet die Krankenkasse eine erneute Fehlernachricht.  b) die ursprüngliche Datei abgelehnt wurde und die neue Datei korrekt verarbeitet werden kann.  Wenn ja, dann vermerkt die Krankenkasse in ihrem System, dass die Datei erneut geliefert wurde. Es  wird keine Fehlernachricht von der Krankenkasse an die Arztpraxis versendet.  c) die ursprüngliche Datei fehlerfrei verarbeitet werden konnte.  Wenn ja, dann vermerkt die Krankenkasse in ihrem System, dass die Datei erneut geliefert wurde. Es  wird keine Fehlernachricht von der Krankenkasse an die Arztpraxis versendet.
 
 **Bedingung:**
 
@@ -2187,7 +2177,7 @@ Zum 1. Oktober 2021 sind Ärzte verpflichtet, die Ausfertigung für die Krankenk
 
 ---
 
-2. Die Software bietet dem Anwender die Möglichkeit, die Ausfertigungen für den Versicherten  EAU_Stylesheet_V) und den Arbeitgeber (EAU_Stylesheet_AG) auszudrucken.  3. Die Software muss dem Anwender zu jedem Zeitpunkt ermöglichen, eine bereits erstellte  Arbeitsunfähigkeitsbescheinigung zu drucken.  4. Der Anwender muss die Möglichkeit haben, festzulegen, welche Ausfertigung(en) (für den Versicherten,  für den Arbeitgeber oder für die Krankenkasse oder eine Kombination davon) ausgedruckt werden  soll(en).  a) Die Software kann dem Anwender / der Praxis hierfür Konfigurationsmöglichkeiten anbieten.  5. Die Software muss dem Anwender ermöglichen, eine leere Blanko eAU (Ausdruck gemäß der  Stylesheets EAU_Stylesheet_AG EAU_Stylesheet_KK EAU_Stylesheet_V ohne fachliche Inhalte und  ohne Patientendaten) zu drucken.  6. Die Software muss dem Anwender ermöglichen, eine eAU nur mit den patientenbezogenen Daten sowie  mit der BSNR und LANR (Ausdruck gemäß der Stylesheets EAU_Stylesheet_AG EAU_Stylesheet_KK EAU_Stylesheet_V mit den Inhalten der FHIR-Profile KBV_PR_FOR_Coverage, KBV_PR_FOR_Patient  sowie der Information der Elemente KBV_PR_FOR_Organization.identifier.value und  KBV_PR_FOR_Practitioner.identifier.value) zu drucken.  7. Die Software kann dem Anwender ermöglichen, eine eAU nur mit der BSNR und LANR (Ausdruck gemäß  der Stylesheets EAU_Stylesheet_AG EAU_Stylesheet_KK EAU_Stylesheet_V mit den Inhalten der FHIR- Elemente KBV_PR_FOR_Organization.identifier.value und KBV_PR_FOR_Practitioner.identifier.value) zu  drucken.  8. Der Ausdruck der AU für den Versicherten und der eAU-Versand (gemäß P6-03) an die Krankenkasse  kann zeitlich unabhängig voneinander erfolgen.  9. Die Software muss eine ausgestellte Arbeitsunfähigkeitsbescheinigung in der Software speichern und  dem Anwender in einer Übersicht anzeigen.  a) Dabei muss es für den Anwender ersichtlich sein, dass die Ausfertigung für den Versicherten und  Arbeitgeber ausgedruckt, aber noch nicht an die Krankenkasse versendet wurde.  b) Ebenfalls muss es für den Anwender ersichtlich sein, wann eine eAU versendet wurde.  10. Der Anwender muss die Möglichkeit haben die Ausfertigungen im DIN-A5- oder DIN-A4-Format  auszudrucken.  a) Die Einstellung des zu verwendenden Papiers muss konfigurierbar sein.  b) Per Default sollen die Ausfertigungen im DIN-A5-Format gedruckt werden.
+2. Die Software bietet dem Anwender die Möglichkeit, die Ausfertigungen für den Versicherten  EAU_Stylesheet_V) und den Arbeitgeber (EAU_Stylesheet_AG) auszudrucken.  3. Die Software muss dem Anwender zu jedem Zeitpunkt ermöglichen, eine bereits erstellte  Arbeitsunfähigkeitsbescheinigung zu drucken.  4. Der Anwender muss die Möglichkeit haben, festzulegen, welche Ausfertigung(en) (für den Versicherten,  für den Arbeitgeber oder für die Krankenkasse oder eine Kombination davon) ausgedruckt werden  soll(en).  a) Die Software kann dem Anwender / der Praxis hierfür Konfigurationsmöglichkeiten anbieten.  5. Die Software muss dem Anwender ermöglichen, eine leere Blanko eAU (Ausdruck gemäß der  Stylesheets EAU_Stylesheet_AG EAU_Stylesheet_KK EAU_Stylesheet_V ohne fachliche Inhalte und  ohne Patientendaten) zu drucken.  6. Die Software muss dem Anwender ermöglichen, eine eAU nur mit den patientenbezogenen Daten sowie  mit der BSNR und LANR (Ausdruck gemäß der Stylesheets EAU_Stylesheet_AG EAU_Stylesheet_KK EAU_Stylesheet_V mit den Inhalten der FHIR-Profile KBV_PR_FOR_Coverage, KBV_PR_FOR_Patient  sowie der Information der Elemente KBV_PR_FOR_Organization.identifier.value und  KBV_PR_FOR_Practitioner.identifier.value) zu drucken.  7. Die Software kann dem Anwender ermöglichen, eine eAU nur mit der BSNR und LANR (Ausdruck gemäß  der Stylesheets EAU_Stylesheet_AG EAU_Stylesheet_KK EAU_Stylesheet_V mit den Inhalten der FHIR-Elemente KBV_PR_FOR_Organization.identifier.value und KBV_PR_FOR_Practitioner.identifier.value) zu  drucken.  8. Der Ausdruck der AU für den Versicherten und der eAU-Versand (gemäß P6-03) an die Krankenkasse  kann zeitlich unabhängig voneinander erfolgen.  9. Die Software muss eine ausgestellte Arbeitsunfähigkeitsbescheinigung in der Software speichern und  dem Anwender in einer Übersicht anzeigen.  a) Dabei muss es für den Anwender ersichtlich sein, dass die Ausfertigung für den Versicherten und  Arbeitgeber ausgedruckt, aber noch nicht an die Krankenkasse versendet wurde.  b) Ebenfalls muss es für den Anwender ersichtlich sein, wann eine eAU versendet wurde.  10. Der Anwender muss die Möglichkeit haben die Ausfertigungen im DIN-A5- oder DIN-A4-Format  auszudrucken.  a) Die Einstellung des zu verwendenden Papiers muss konfigurierbar sein.  b) Per Default sollen die Ausfertigungen im DIN-A5-Format gedruckt werden.
 
 **Hinweis:**
 
@@ -2211,7 +2201,7 @@ Zur Optimierung der Workflows in einer Arztpraxis muss der Anwender die Möglich
 
 **Akzeptanzkriterium:**
 
-1. Die Software muss es dem Anwender ermöglichen, dass mehrere signierte eAUs in einem Workflow an  die korrekten Krankenkassen versendet werden.  a) Der Versand der eAU erfolgt nach den Vorgaben gemäß P5-02.  b) Der Versand der Storno-Nachricht erfolgt nach den Vorgaben gemäß P5-03.  c) Die Software muss dem Anwender in einer Übersicht anzeigen, welche eAUs und/oder Storno- Nachrichten noch nicht an die Krankenkasse versendet wurden.  2. Der Anwender muss die Möglichkeit haben, eine einzelne eAU oder Storno-Nachrichten an die  Krankenkasse zu senden.  3. Wenn Nachrichten nicht versendet werden können, dann muss die Software diese Nachrichten  zwischenspeichern und einen späteren Versand ermöglichen.  a) Die Software überwacht, ob eine eAU-Nachricht länger als ein Werktag nicht versendet wurde und  erinnert den Arzt in geeigneter Weise an den Versand.  4. Die Software stellt dem Anwender die Möglichkeit zur Verfügung, sich eine Liste von noch nicht  versendeten Nachrichten anzeigen zulassen.  5. Die Software stellt sicher, dass der Versand einer eAU nicht erfolgt, wenn der Versicherte bei einem  „Sonstigen Kostenträger“ versichert ist und für den Versicherten keine VersichertenID vorliegt (gemäß  Informationsmodell Feld 19a). In diesem Fall druckt die Software automatisch die Ausfertigung der  Krankenkasse nach P6-02 Akzeptanzkriterium 1a) aus.  a) Sofern der Versicherte bei einem „Sonstigen Kostenträger“ versichert ist, muss das Feld  Kostenträgertype (ID 7) mit dem Wert „SKT“ befüllt sein.   Identifizierung eines „Sonstigen Kostenträgers“:   Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT]) ist immer >= 800 und der Kostenträger- Abrechnungsbereich kann 00 - 09 sein.  Beispiel: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.  a) Die Software zeigt eAUs in diesem Fall als versendet in der Übersicht nach Akzeptanzkriterium 1c) an.  b) Die Akzeptanzkriterien 2, 3 und 4 gelten für die eAUs bei Versicherten bei einem „Sonstigen  Kostenträger“ nicht.   6. Die Software stellt sicher, dass der Versand einer eAU nicht erfolgt, wenn bei dem gesetzlich  Versicherten in dem Feld der Besondere Personengruppe (ID 15 gemäß Informationsmodell) der Wert  „07“ steht. In diesem Fall druckt die Software automatisch die Ausfertigung Krankenkasse nach P6-02  Akzeptanzkriterium 1a) aus.  a) Die Software zeigt eAUs in diesem Fall als versendet in der Übersicht nach Akzeptanzkriterium 1c) an.  b) Die Akzeptanzkriterien 2, 3 und 4 gelten für die eAUs in diesem Fall nicht.
+1. Die Software muss es dem Anwender ermöglichen, dass mehrere signierte eAUs in einem Workflow an  die korrekten Krankenkassen versendet werden.  a) Der Versand der eAU erfolgt nach den Vorgaben gemäß P5-02.  b) Der Versand der Storno-Nachricht erfolgt nach den Vorgaben gemäß P5-03.  c) Die Software muss dem Anwender in einer Übersicht anzeigen, welche eAUs und/oder Storno-Nachrichten noch nicht an die Krankenkasse versendet wurden.  2. Der Anwender muss die Möglichkeit haben, eine einzelne eAU oder Storno-Nachrichten an die  Krankenkasse zu senden.  3. Wenn Nachrichten nicht versendet werden können, dann muss die Software diese Nachrichten  zwischenspeichern und einen späteren Versand ermöglichen.  a) Die Software überwacht, ob eine eAU-Nachricht länger als ein Werktag nicht versendet wurde und  erinnert den Arzt in geeigneter Weise an den Versand.  4. Die Software stellt dem Anwender die Möglichkeit zur Verfügung, sich eine Liste von noch nicht  versendeten Nachrichten anzeigen zulassen.  5. Die Software stellt sicher, dass der Versand einer eAU nicht erfolgt, wenn der Versicherte bei einem  „Sonstigen Kostenträger“ versichert ist und für den Versicherten keine VersichertenID vorliegt (gemäß  Informationsmodell Feld 19a). In diesem Fall druckt die Software automatisch die Ausfertigung der  Krankenkasse nach P6-02 Akzeptanzkriterium 1a) aus.  a) Sofern der Versicherte bei einem „Sonstigen Kostenträger“ versichert ist, muss das Feld  Kostenträgertype (ID 7) mit dem Wert „SKT“ befüllt sein.   Identifizierung eines „Sonstigen Kostenträgers“:   Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT]) ist immer >= 800 und der Kostenträger-Abrechnungsbereich kann 00 - 09 sein.  Beispiel: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.  a) Die Software zeigt eAUs in diesem Fall als versendet in der Übersicht nach Akzeptanzkriterium 1c) an.  b) Die Akzeptanzkriterien 2, 3 und 4 gelten für die eAUs bei Versicherten bei einem „Sonstigen  Kostenträger“ nicht.   6. Die Software stellt sicher, dass der Versand einer eAU nicht erfolgt, wenn bei dem gesetzlich  Versicherten in dem Feld der Besondere Personengruppe (ID 15 gemäß Informationsmodell) der Wert  „07“ steht. In diesem Fall druckt die Software automatisch die Ausfertigung Krankenkasse nach P6-02  Akzeptanzkriterium 1a) aus.  a) Die Software zeigt eAUs in diesem Fall als versendet in der Übersicht nach Akzeptanzkriterium 1c) an.  b) Die Akzeptanzkriterien 2, 3 und 4 gelten für die eAUs in diesem Fall nicht.
 
 
 ---
@@ -2280,14 +2270,14 @@ Durch diese Funktion der Software muss der Anwender nicht regelmäßig prüfen, 
 
 **Akzeptanzkriterium:**
 
-1. Die Software prüft durch geeignete Maßnahmen, wie zum Beispiel den Versand einer Test KIM- Nachricht oder Abfragen von geeigneten Fachdiensten, ob die Störung in der TI noch vorliegt.  a) Wenn ein durchgeführter Test zu einer Fehlermeldung bspw. durch einen fehlgeschlagenen Versand  einer Test-KIM-Nachricht führt, dann zeigt die Software dem Anwender die Fehlermeldung nicht an.  b) Wenn ein durchgeführter Test zu dem Ergebnis kommt, dass die TI-Störung nicht mehr vorliegt, dann  zeigt die Software dem Anwender dies an und gibt dem Anwender die Möglichkeit, den Zustand nach  P6-05 zu ändern.
+1. Die Software prüft durch geeignete Maßnahmen, wie zum Beispiel den Versand einer Test KIM-Nachricht oder Abfragen von geeigneten Fachdiensten, ob die Störung in der TI noch vorliegt.  a) Wenn ein durchgeführter Test zu einer Fehlermeldung bspw. durch einen fehlgeschlagenen Versand  einer Test-KIM-Nachricht führt, dann zeigt die Software dem Anwender die Fehlermeldung nicht an.  b) Wenn ein durchgeführter Test zu dem Ergebnis kommt, dass die TI-Störung nicht mehr vorliegt, dann  zeigt die Software dem Anwender dies an und gibt dem Anwender die Möglichkeit, den Zustand nach  P6-05 zu ändern.
 
 
 ---
 
 7 GENERIERUNG DES PDF417-BARCODES
 
-Im Falle des Ausdrucks der Ausfertigung für die Krankenkasse zum Zwecke der postalischen Übermittlung  an die zuständige Krankenkasse in Folge einer allgemeinen TI-Störung (siehe P6-05) oder aufgrund eines  Fehlerfalles bei der elektronischen Übermittlung der eAU oder durch fehlende Verfügbarkeit der eAU- Annahme einer Krankenkasse ist entsprechend des Stylesheets EAU_Stylesheet_KK ein PDF417-Barcode zu  erzeugen und auf den Ausdruck aufzubringen. Dieser Barcode dient zur Unterstützung und korrekten  Datenerfassung im Rahmen des Belegleseprozesses bei der Krankenkasse. Auf eine Darstellung des  Barcodes im Rahmen der Anzeige für den Anwender zum Zwecke der Signierung (siehe P4-02) kann  verzichtet werden.
+Im Falle des Ausdrucks der Ausfertigung für die Krankenkasse zum Zwecke der postalischen Übermittlung  an die zuständige Krankenkasse in Folge einer allgemeinen TI-Störung (siehe P6-05) oder aufgrund eines  Fehlerfalles bei der elektronischen Übermittlung der eAU oder durch fehlende Verfügbarkeit der eAU-Annahme einer Krankenkasse ist entsprechend des Stylesheets EAU_Stylesheet_KK ein PDF417-Barcode zu  erzeugen und auf den Ausdruck aufzubringen. Dieser Barcode dient zur Unterstützung und korrekten  Datenerfassung im Rahmen des Belegleseprozesses bei der Krankenkasse. Auf eine Darstellung des  Barcodes im Rahmen der Anzeige für den Anwender zum Zwecke der Signierung (siehe P4-02) kann  verzichtet werden.
 
 **7.1** **ALLGEMEINE INFORMATIONEN ZUM BARCODE**
 
@@ -2350,7 +2340,7 @@ Für eine fehlerfreie Weiterverarbeitung in nachverarbeitenden Systemen müssen 
 
 **Akzeptanzkriterium:**
 
-1. Für die zu codierenden Nutzdaten wird der Zeichensatz ISO 8859-15 (analog eGK) als Standard  verwendet.  2. Bei der Generierung des Barcodes müssen die Formatvorgaben aus der Spalte „Format/ Bemerkung“ der  Tabelle 22 umgesetzt werden. Eine konkrete Formatvorgabe wird mit dem Wort „Format“ eingeleitet.   a) Die Software muss eine entsprechende Konvertierung der Daten vornehmen.  3. Bei der Erzeugung der Zeichenkette, für die mittels Barcode zu verschlüsselnden Informationen ist bei  der Angabe von ICD-10-Diagnosen folgendes zu beachten:  a) Mehrere ICD-10-GM-Kodes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen  angegeben.  b) Beispiel: O26.83 G, O12.2 Z, S51.9 G L  c) Die Angabe der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-GM-Kode in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-GM- Kode, Diagnosesicherheit und Seitenlokalisation ist das "Leerzeichen".
+1. Für die zu codierenden Nutzdaten wird der Zeichensatz ISO 8859-15 (analog eGK) als Standard  verwendet.  2. Bei der Generierung des Barcodes müssen die Formatvorgaben aus der Spalte „Format/ Bemerkung“ der  Tabelle 22 umgesetzt werden. Eine konkrete Formatvorgabe wird mit dem Wort „Format“ eingeleitet.   a) Die Software muss eine entsprechende Konvertierung der Daten vornehmen.  3. Bei der Erzeugung der Zeichenkette, für die mittels Barcode zu verschlüsselnden Informationen ist bei  der Angabe von ICD-10-Diagnosen folgendes zu beachten:  a) Mehrere ICD-10-GM-Kodes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen  angegeben.  b) Beispiel: O26.83 G, O12.2 Z, S51.9 G L  c) Die Angabe der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-GM-Kode in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-GM-Kode, Diagnosesicherheit und Seitenlokalisation ist das "Leerzeichen".
 
 
 ---
@@ -2367,7 +2357,7 @@ Um eine korrekte Integration des Barcodes auf der Ausfertigung Krankenkasse sich
 
 **Akzeptanzkriterium:**
 
-1. Der Softwarehersteller verwendet für die Generierung entweder die nachfolgende Variante 1 oder 2 zur  Generierung und Einbindung des Barcodes:  a) Variante 1 (Einbindung eines Barcode-Generators in dem Stylesheet EAU_Stylesheet_KK Der Softwarehersteller muss in dem Stylesheet EAU_Stylesheet_KK einen aufrufbaren Barcode- Generator einbinden, welcher vom ausführenden Softwaresystem des Stylesheets erreichbar ist.  Die Anpassung im Stylesheet EAU_Stylesheet_KK erfolgt im Template  AnzeigeBarcodePerGenerator, in welchem auch ein Beispiel zu finden ist.  Dabei wird die zu erzeugende Grafik durch den parametergestützten Aufruf des Generators in das  src -Attribut des <img>-Elementes erzeugt und platziert.  Der Aufruf des Barcode-Generators erfolgt hierbei zur Laufzeit.  Der Generator liefert den Barcode als Bilddatei zurück.  Für die Nutzung des Templates AnzeigeBarcodePerGenerator ist die Auskommentierung des  Template-Aufrufes nach dem folgenden Kommentar aufzuheben:  <!-- !!!Template zur Anzeige des Barcodes mittels Generator - Variante 1!!! -->   Für die Erzeugung der zu verschlüsselnden Zeichenkette ist im Stylesheet EAU_Stylesheet_KK das  Template BarcodeGeneratorParameter hinterlegt.  Dieses Template darf verwendet werden.  Für den parametergestützten Aufruf des Generators müssen die Leerraumzeichen TAB und  Leerzeichen wie folgt maskiert werden; TAB durch %09 und Leerzeichen mittels %20. Hinweis: im  Rahmen des Stylesheets EAU_Stylesheet_KK ist dies im Template BarcodeGeneratorParameter  sowie den darin referenzierten Templates für die Zusammensetzung der Diagnosen umgesetzt.  Für die Nutzung des Templates BarcodeGeneratorParameter ist die Auskommentierung des  Template-Aufrufes nach dem folgenden Kommentar aufzuheben:  <!-- !!!Template zur Erzeugung des Barcode-Inhalts (für Variante 1)!!! -->  b) Variante 2 (Einbindung eines externen Bildes als PDF417-Barcode in dem Stylesheet  EAU_Stylesheet_KK Der Softwarehersteller erstellt einen PDF417-Barcode als Bilddatei und bindet diese Bilddatei in den  Stylesheet EAU_Stylesheet_KK ein.  Die Anpassung im Stylesheet EAU_Stylesheet_KK erfolgt im Template  AnzeigeBarcodePerBilddatei  An dieser Stelle ist eine dynamische Anpassung des Stylesheets zur Laufzeit möglich. Hierfür ist das  „src“-Attribut des <img>-Elementes zu nutzen.  Für die Nutzung des Templates AnzeigeBarcodePerBilddatei ist die Auskommentierung des  Template-Aufrufes nach dem folgenden Kommentar aufzuheben:  <!-- !!!Template zur Anzeige des Barcodes mittels Bilddatei  Variante 2!!! -->
+1. Der Softwarehersteller verwendet für die Generierung entweder die nachfolgende Variante 1 oder 2 zur  Generierung und Einbindung des Barcodes:  a) Variante 1 (Einbindung eines Barcode-Generators in dem Stylesheet EAU_Stylesheet_KK Der Softwarehersteller muss in dem Stylesheet EAU_Stylesheet_KK einen aufrufbaren Barcode-Generator einbinden, welcher vom ausführenden Softwaresystem des Stylesheets erreichbar ist.  Die Anpassung im Stylesheet EAU_Stylesheet_KK erfolgt im Template  AnzeigeBarcodePerGenerator, in welchem auch ein Beispiel zu finden ist.  Dabei wird die zu erzeugende Grafik durch den parametergestützten Aufruf des Generators in das  src -Attribut des <img>-Elementes erzeugt und platziert.  Der Aufruf des Barcode-Generators erfolgt hierbei zur Laufzeit.  Der Generator liefert den Barcode als Bilddatei zurück.  Für die Nutzung des Templates AnzeigeBarcodePerGenerator ist die Auskommentierung des  Template-Aufrufes nach dem folgenden Kommentar aufzuheben:  <!-- !!!Template zur Anzeige des Barcodes mittels Generator - Variante 1!!! -->   Für die Erzeugung der zu verschlüsselnden Zeichenkette ist im Stylesheet EAU_Stylesheet_KK das  Template BarcodeGeneratorParameter hinterlegt.  Dieses Template darf verwendet werden.  Für den parametergestützten Aufruf des Generators müssen die Leerraumzeichen TAB und  Leerzeichen wie folgt maskiert werden; TAB durch %09 und Leerzeichen mittels %20. Hinweis: im  Rahmen des Stylesheets EAU_Stylesheet_KK ist dies im Template BarcodeGeneratorParameter  sowie den darin referenzierten Templates für die Zusammensetzung der Diagnosen umgesetzt.  Für die Nutzung des Templates BarcodeGeneratorParameter ist die Auskommentierung des  Template-Aufrufes nach dem folgenden Kommentar aufzuheben:  <!-- !!!Template zur Erzeugung des Barcode-Inhalts (für Variante 1)!!! -->  b) Variante 2 (Einbindung eines externen Bildes als PDF417-Barcode in dem Stylesheet  EAU_Stylesheet_KK Der Softwarehersteller erstellt einen PDF417-Barcode als Bilddatei und bindet diese Bilddatei in den  Stylesheet EAU_Stylesheet_KK ein.  Die Anpassung im Stylesheet EAU_Stylesheet_KK erfolgt im Template  AnzeigeBarcodePerBilddatei  An dieser Stelle ist eine dynamische Anpassung des Stylesheets zur Laufzeit möglich. Hierfür ist das  „src“-Attribut des <img>-Elementes zu nutzen.  Für die Nutzung des Templates AnzeigeBarcodePerBilddatei ist die Auskommentierung des  Template-Aufrufes nach dem folgenden Kommentar aufzuheben:  <!-- !!!Template zur Anzeige des Barcodes mittels Bilddatei  Variante 2!!! -->
 
 
 ---
@@ -2557,7 +2547,7 @@ max. 6 ICD-10-Diagnosen;  mehrere Angaben sind durch ein  Komma und ein Leerzeic
 
 Composition/type/coding/code[@value='FOLGE_END' or  @value='ERST_END']
 
-21 22 23 24 25 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='http://hl7.org/fhir/StructureDefinition/ condition-dueTo']/valueCodeableConcept /coding/code[@value='3'] ServiceRequest/code/coding/code[@value='reha'] ServiceRequest/code/coding /code[@value='wiedereingliederung'] ServiceRequest/code/text/@value Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='https://fhir.kbv.de/StructureDefinition/ KBV_EX_EAU_7_weeks']/valueBoolean/@value='true' ICD-10:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2‘]/ code/coding/code/@value  Diagnosesicherheit:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value  Seitenlokalisation:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/seitenlokalisation']/valueCoding/code/@value
+21 22 23 24 25 Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='http://hl7.org/fhir/StructureDefinition/ condition-dueTo']/valueCodeableConcept /coding/code[@value='3'] ServiceRequest/code/coding/code[@value='reha'] ServiceRequest/code/coding /code[@value='wiedereingliederung'] ServiceRequest/code/text/@value Condition[meta/profile/@value='https://fhir.kbv.de /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='https://fhir.kbv.de/StructureDefinition/ KBV_EX_EAU_7_weeks']/valueBoolean/@value='true' ICD-10:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2‘]/ code/coding/code/@value  Diagnosesicherheit:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/icd-10-gm-diagnosesicherheit']/valueCoding/code/@value  Seitenlokalisation:  Condition[meta/profile/@value='[https://fhir.kbv.de](https://fhir.kbv.de)  /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2  ‘]/code/coding/extension[@url='[http://fhir.de/Structure](http://fhir.de/Structure) Definition/seitenlokalisation']/valueCoding/code/@value
 
 
 ---
@@ -2751,7 +2741,7 @@ Kodiert 0..1
 
 Anlage 4a BMV-Ä" Kapitel "2.3  Bedruckung des Personalienfeldes  und des verkürzten  Personalienfeldes".
 
-Dieses Feld enthält das  Wohnortkennzeichen ent- sprechend des Wohnortprinzips  (WOP) für  Honorarvereinbarungen (BMV-Ä  Anlage 21).
+Dieses Feld enthält das  Wohnortkennzeichen ent-sprechend des Wohnortprinzips  (WOP) für  Honorarvereinbarungen (BMV-Ä  Anlage 21).
 
 **13**
 
@@ -2785,7 +2775,7 @@ Dieses Feld enthält die Art der  Versicherung, z.B. ob der  Versicherte Familie
 
 Dieses Feld enthält die besondere  Personengruppe, zu der der  Versicherte gehört (§ 264 SGB V).
 
-Dieses Feld enthält das Disease- Management-Programm (DMP),  in dem der Versicherte
+Dieses Feld enthält das Disease-Management-Programm (DMP),  in dem der Versicherte
 
 **BEDINGUNGEN**
 
@@ -3132,7 +3122,7 @@ der Versicherte sich nicht  elektronisch ausgewiesen  hat und das Feld  "Kostent
 
 x
 
-Ortsname der Versicherten- Postfachanschrift
+Ortsname der Versicherten-Postfachanschrift
 
 x
 
@@ -3182,7 +3172,7 @@ Dieses Feld enthält das Postfach.
 
 **BEDINGUNGEN**
 
-ANSONSTEN WENN  der Versicherte sich  elektronisch ausgewiesen  hat und das Feld  „Wohnsitzländercode der  Versicherten- Postfachanschrift“ gleich „D“  und das Feld  "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT"  oder "UK" oder „PKV“ ist  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
+ANSONSTEN WENN  der Versicherte sich  elektronisch ausgewiesen  hat und das Feld  „Wohnsitzländercode der  Versicherten-Postfachanschrift“ gleich „D“  und das Feld  "Kostenträgertyp" gleich  "GKV" oder "BG" oder "SKT"  oder "UK" oder „PKV“ ist  DANN  ist dieses Feld Pflicht.  ANSONSTEN  ist dieses Feld optional.
 
 
 ---
@@ -3235,7 +3225,7 @@ Arzt.
 
 0..1
 
-Dieses Feld enthält die ASV- Fachgruppennummer gemäß der  ASV Vereinbarung (ASV-AV) §9  Absatz 5. Diese ist gemäß der  ASV-AV von Krankenhausärzten  an Stelle der Arztnummer  anzugeben.
+Dieses Feld enthält die ASV-Fachgruppennummer gemäß der  ASV Vereinbarung (ASV-AV) §9  Absatz 5. Diese ist gemäß der  ASV-AV von Krankenhausärzten  an Stelle der Arztnummer  anzugeben.
 
 **0..2**
 
@@ -3358,7 +3348,7 @@ Namenszusatz der
 
 0..1
 
-Dieses Feld wird im Rahmen einer  ambulanten spezialfachärztlichen  Versorgung (ASV) genutzt. Jedes  ASV-Team erhält von der ASV- Servicestelle eine ASV- Teamnummer. Mit ihr  kennzeichnen ASV-Ärzte die  Leistungen oder Verordnungen,  die sie in der ASV durchführen.  Die Teamnummer umfasst neun  Ziffern und ist wie eine  Betriebsstättennummer (BSNR)  aufgebaut. Sie wird vergeben,  sobald die Ärzte eine ASV- Berechtigung haben  zusätzlich  zur BSNR und zur lebenslangen  Arztnummer.
+Dieses Feld wird im Rahmen einer  ambulanten spezialfachärztlichen  Versorgung (ASV) genutzt. Jedes  ASV-Team erhält von der ASV-Servicestelle eine ASV-Teamnummer. Mit ihr  kennzeichnen ASV-Ärzte die  Leistungen oder Verordnungen,  die sie in der ASV durchführen.  Die Teamnummer umfasst neun  Ziffern und ist wie eine  Betriebsstättennummer (BSNR)  aufgebaut. Sie wird vergeben,  sobald die Ärzte eine ASV-Berechtigung haben  zusätzlich  zur BSNR und zur lebenslangen  Arztnummer.
 
 **1..1**
 
@@ -3466,7 +3456,7 @@ Arzt.
 
 0..1
 
-Dieses Feld enthält die ASV- Fachgruppennummer gemäß der  ASV Vereinbarung (ASV-AV) §9  Absatz 5. Diese ist gemäß der  ASV-AV von Krankenhausärzten  an Stelle der Arztnummer  anzugeben.
+Dieses Feld enthält die ASV-Fachgruppennummer gemäß der  ASV Vereinbarung (ASV-AV) §9  Absatz 5. Diese ist gemäß der  ASV-AV von Krankenhausärzten  an Stelle der Arztnummer  anzugeben.
 
 **BEDINGUNGEN**
 
@@ -3704,7 +3694,7 @@ Dieses Feld enthält eine  Abrechnungsnummer der  Kassenzahnärztlichen Vereinig
 
 **BEDINGUNGEN**
 
-WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und die Felder "IK-Nummer"  und "KZV- Abrechnungsnummer" und  "Standortnummer" nicht  vorhanden sind  DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
+WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und die Felder "IK-Nummer"  und "KZV-Abrechnungsnummer" und  "Standortnummer" nicht  vorhanden sind  DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
 WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und die Felder "BSNR" und  "KZV-Abrechnungsnummer"  und "Standortnummer"  nicht vorhanden sind  DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
@@ -3781,7 +3771,7 @@ Dieses Feld enthält den  Ortsnamen. Mehrere
 
 DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
-WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und die Felder "BSNR" und  "IK-Nummer" und "KZV- Abrechnungsnummer" nicht  vorhanden sind  DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
+WENN  der Block „Identifikator der  Einrichtung“ vorhanden ist  und die Felder "BSNR" und  "IK-Nummer" und "KZV-Abrechnungsnummer" nicht  vorhanden sind  DANN  ist dieses Feld Pflicht  ANSONSTEN  darf dieses Feld nicht  angegeben werden.
 
 
 ---
@@ -3890,11 +3880,11 @@ Dieses Feld enthält die  Telefonnummer.
 
 Dieses Feld enthält die  Faxnummer.
 
-Dieses Feld enthält die E-Mail -  Adresse der Einrichtung  Bei grenzüberschreitender  Einlösung einer  Arzneimittelverordnung ist diese  zwingend anzugeben.
+Dieses Feld enthält die E-Mail - Adresse der Einrichtung  Bei grenzüberschreitender  Einlösung einer  Arzneimittelverordnung ist diese  zwingend anzugeben.
 
 **Dieser Block enthält Daten der**  **Arbeitsunfähigkeitsbescheinigung**  **(AU-Bescheinigung).**
 
-Dieses Feld enthält das  Ausstellungsdatum der AU- Bescheinigung.
+Dieses Feld enthält das  Ausstellungsdatum der AU-Bescheinigung.
 
 Dieses Feld enthält das Datum, ab  dem die Arbeitsunfähigkeit  bescheinigt wird (Beginn der AU).
 
@@ -4032,11 +4022,11 @@ Dieses Feld beschreibt, ob der  Versicherte einem Durchgangsarzt  zugewiesen wur
 
 1..1
 
-Dieses Feld beschreibt die Art der,  AU (  Erstbescheinigung,  Folgebescheinigung, Erst- Endbescheinigung, Folge- Endbescheinigung). Im  Krankengeldfall und wenn  eingeschätzt werden kann, dass  die AU tatsächlich am  angegebenen Datum endet, ist es  eine (Erst- oder Folge-)  Endbescheinigung.
+Dieses Feld beschreibt die Art der,  AU (  Erstbescheinigung,  Folgebescheinigung, Erst-Endbescheinigung, Folge-Endbescheinigung). Im  Krankengeldfall und wenn  eingeschätzt werden kann, dass  die AU tatsächlich am  angegebenen Datum endet, ist es  eine (Erst- oder Folge-)  Endbescheinigung.
 
 0..1
 
-Dieses Feld gibt an, ob eine PKV- Versicherte/ein PKV-Versicherter  nach  medizinischem Befund im bisher  ausgeübten Beruf auf nicht  absehbare Zeit  mehr als 50 % erwerbsunfähig ist  und somit eine Berufsunfähigkeit  vorliegt.
+Dieses Feld gibt an, ob eine PKV-Versicherte/ein PKV-Versicherter  nach  medizinischem Befund im bisher  ausgeübten Beruf auf nicht  absehbare Zeit  mehr als 50 % erwerbsunfähig ist  und somit eine Berufsunfähigkeit  vorliegt.
 
 **BEDINGUNGEN**
 
@@ -4095,11 +4085,11 @@ x   ab 10
 
 Dieses Feld beschreibt, ob  Leistungen zur medizinischen  Rehabilitation für erforderlich  gehalten werden.
 
-Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünftiges/tatsächliches  Aufnahmedatum bspw. in die  Reha, stationäre  Behandlung usw. an.
+Dieses Feld gibt für eine PKV-Versicherte/einen PKV-Versicherten ein  zukünftiges/tatsächliches  Aufnahmedatum bspw. in die  Reha, stationäre  Behandlung usw. an.
 
 0..1
 
-Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünftiges/tatsächliches  Entlassungsdatum bspw. in die  Reha, stationäre  Behandlung usw. an.
+Dieses Feld gibt für eine PKV-Versicherte/einen PKV-Versicherten ein  zukünftiges/tatsächliches  Entlassungsdatum bspw. in die  Reha, stationäre  Behandlung usw. an.
 
 0..1
 
@@ -4150,9 +4140,9 @@ Bool 0..1
 
 **BESCHREIBUNG**
 
-Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünftiges/tatsächliches  Aufnahmedatum bspw. in die  Reha, stationäre  Behandlung usw. an.
+Dieses Feld gibt für eine PKV-Versicherte/einen PKV-Versicherten ein  zukünftiges/tatsächliches  Aufnahmedatum bspw. in die  Reha, stationäre  Behandlung usw. an.
 
-Dieses Feld gibt für eine PKV- Versicherte/einen PKV- Versicherten ein  zukünftiges/tatsächliches  Entlassungsdatum bspw. in die  Reha, stationäre  Behandlung usw. an.
+Dieses Feld gibt für eine PKV-Versicherte/einen PKV-Versicherten ein  zukünftiges/tatsächliches  Entlassungsdatum bspw. in die  Reha, stationäre  Behandlung usw. an.
 
 **BEDINGUNGEN**
 
@@ -4255,7 +4245,7 @@ Dieses Feld enthält eine Angabe,   ob ein Antrag zur direkten  Einleitung einer
 
 **begründende Diagnose(n).**
 
-Dieses Feld enthält den ICD-10-  Code der Diagnose.
+Dieses Feld enthält den ICD-10- Code der Diagnose.
 
 Dieses Feld gibt an, wie sicher   eine gestellte Diagnose ist, z.B.  gesichert oder ausgeschlossen  usw.
 
@@ -4339,7 +4329,7 @@ Technisches Handbuch Anlage 2b
 
 [https://update.kbv.de/ita-](https://update.kbv.de/ita-update/DigitaleMuster/III_2023/KBV_ITA_VGEX_Technisches_Handbuch_DiMus.pdf) [update/DigitaleMuster/III_2023/KBV_ITA_V](https://update.kbv.de/ita-update/DigitaleMuster/III_2023/KBV_ITA_VGEX_Technisches_Handbuch_DiMus.pdf) [GEX_Technisches_Handbuch_DiMus.pdf](https://update.kbv.de/ita-update/DigitaleMuster/III_2023/KBV_ITA_VGEX_Technisches_Handbuch_DiMus.pdf)[](https://update.kbv.de/ita-update/DigitaleMuster/III_2023/KBV_ITA_VGEX_Technisches_Handbuch_DiMus.pdf)
 
-Anlage 2b des Bundesmantelvertrages- Ärzte
+Anlage 2b des Bundesmantelvertrages-Ärzte
 
 [https://www.kbv.de/media/sp/02b_Vordru](https://www.kbv.de/media/sp/02b_Vordruckvereinbarung_digitale_Vordrucke.pdf) [ckvereinbarung_digitale_Vordrucke.pdf](https://www.kbv.de/media/sp/02b_Vordruckvereinbarung_digitale_Vordrucke.pdf)[](https://www.kbv.de/media/sp/02b_Vordruckvereinbarung_digitale_Vordrucke.pdf)
 

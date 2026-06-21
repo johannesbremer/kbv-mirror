@@ -34,11 +34,11 @@ Die neue Vorschrift soll zu einer verbesserten Transparenz für alle Beteiligten
 
 Ausgenommen von einer verpflichtenden Dosierungsangabe sind gemäß AMVV lediglich Verordnungen, die  unmittelbar an ÄrztInnen abgegeben werden. Dies betrifft zum Beispiel den Sprechstundenbedarf, in  Einzelfällen auch Arzneimittelverordnungen, die beispielsweise auf einen Patientennamen ausgestellt  wurden, jedoch unmittelbar an die verschreibende Person abgegeben werden (beispielsweise Esketamin  zur intranasalen Anwendung gemäß § 2 Absatz 3a AMVV).
 
-Weitere Ausnahmen sind laut AMVV nicht vorgesehen. Daher sind beispielsweise Impfstoffrezepte, die auf  einen Patientennamen ausgestellt und dem Patienten ausgehändigt werden, von der neuen AMVV - Regelung nicht ausgenommen und müssen mit einer Dosierung versehen werden. Als Dosierangabe kann in  diesen Fällen pauschal ein Dj voreingestellt werden. Dies empfehlen wir den Softwarehäusern.
+Weitere Ausnahmen sind laut AMVV nicht vorgesehen. Daher sind beispielsweise Impfstoffrezepte, die auf  einen Patientennamen ausgestellt und dem Patienten ausgehändigt werden, von der neuen AMVV -Regelung nicht ausgenommen und müssen mit einer Dosierung versehen werden. Als Dosierangabe kann in  diesen Fällen pauschal ein Dj voreingestellt werden. Dies empfehlen wir den Softwarehäusern.
 
 ## Was gilt für nicht- verschreibungspflichtige Arzneimittel und Medizinprodukte?
 
-Die entsprechende Umsetzung (Dosierung bzw. das Kennzeichen >>Dj<<) durch die Verordnungssoftware  für nicht-verschreibungspflichtige Arzneimittel sowie Medizinprodukte ist erlaubt und optional. Aus  Gründen der Arzneimitteltherapiesicherheit ist eine Dosierungsanweisung auch für nicht- verschreibungspflichtige Arzneimittel sowie für Medizinprodukte (z.B. Augentropfen ) empfehlenswert, aber  gemäß AMVV nicht erforderlich
+Die entsprechende Umsetzung (Dosierung bzw. das Kennzeichen >>Dj<<) durch die Verordnungssoftware  für nicht-verschreibungspflichtige Arzneimittel sowie Medizinprodukte ist erlaubt und optional. Aus  Gründen der Arzneimitteltherapiesicherheit ist eine Dosierungsanweisung auch für nicht-verschreibungspflichtige Arzneimittel sowie für Medizinprodukte (z.B. Augentropfen ) empfehlenswert, aber  gemäß AMVV nicht erforderlich
 
 ## Wie sieht das von der Software zu setzende Kennzeichen aus, wenn ein Medikationsplan oder eine  schriftliche Dosierungsanweisung vorliegt?
 
@@ -55,7 +55,7 @@ Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanw
 
 ## Was gilt für Betäubungsmittelrezepte?
 
-Bei der Verordnung von Betäubungsmitteln ist laut unverändert gültiger Betäubungsmittel- Verschreibungsverordnung (BtMVV) weiterhin die Angabe einer Gebrauchsanweisung mit Einzel- und  Tagesgabe verpflichtend notwendig.
+Bei der Verordnung von Betäubungsmitteln ist laut unverändert gültiger Betäubungsmittel-Verschreibungsverordnung (BtMVV) weiterhin die Angabe einer Gebrauchsanweisung mit Einzel- und  Tagesgabe verpflichtend notwendig.
 
 *Auf dem Betäubungsmittelrezept sind anzugeben:“ […]*
 
@@ -85,7 +85,7 @@ Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen
 
 Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine strukturierte Dosierungsangabe  erfolgen zum Beispiel in folgender Form:
 
-- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags- abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1 ½
+- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1 ½
 - Entsprechend des „Dreier-Schemas“ für morgens-mittags-abends z.B. bei morgendlicher und  abendlicher Gabe jeweils einer halben Tablette ½-0 -½
 
 
@@ -101,7 +101,7 @@ Des Weiteren kann die Software optional beispielsweise durch das Auffüllen von 
 
 Es ist notwendig, dass die angegebene Dosierung auf einem Rezept unmissverständlich ist, damit die  Belieferung durch die Apotheke ohne Rücksprache mit der verordnenden Arztpraxis erfolgen kann.  Allgemein verständliche Abkürzungen dürfen verwendet werden. Im Folgenden werden mögliche Schemata  dargestellt:
 
-- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags- abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1½
+- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1½
 - Entsprechend des „Dreier-Schemas“ für morgens-mittags-abends z.B. bei morgendlicher und  abendlicher Gabe jeweils einer halben Tablette ½-0 -½
 - Ausgeschriebene Tageszeiten z.B. morgens, mittags und abends jeweils 1 Sprühstoß
 - Weitere Beispiele:

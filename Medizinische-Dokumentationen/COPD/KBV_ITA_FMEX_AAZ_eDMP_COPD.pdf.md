@@ -90,7 +90,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 | ☐ | Der Antragsteller versichert, dass die aktuelle Version der |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1 REALISIERTE OPTIONALE FUNKTIONEN
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP COPD
 
 Folgende optionale eDMP COPD Funktionen sind gem. Anforderungskatalog DMP realisiert.
 
@@ -106,8 +106,6 @@ Folgende optionale eDMP COPD Funktionen sind gem. Anforderungskatalog DMP realis
 |  |  |
 |  |  |
 |  |  |
-
-## EDMP COPD
 
 der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie P verbindlichen Kostenträger lausibilitätsrichtlinien erfüllt sind. -Stammdatei ANFORDERUNGSKATALOG EDMP COPD LT.
 

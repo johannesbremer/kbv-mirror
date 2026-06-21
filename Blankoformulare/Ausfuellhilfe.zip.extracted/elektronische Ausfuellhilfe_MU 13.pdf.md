@@ -31,13 +31,13 @@ Bitte geben Sie eine oder mehrere buchstabencodierte verordnungsbegründende Lei
 
 - **5.** **Heilmittel nach Maßgabe des Kataloges**
 
-Bitte geben Sie Heilmittel nach Maßgabe des Heilmittelkataloges an. Es können auch mehrere (bis zu drei rangige Heilmittel verordnet werden. Soweit medizinisch erforderlich, kann zu vorrangigen Heilmitteln maxi- mal ein im Heilmittelkatalog genanntes ergänzendes Heilmittel verordnet werden.
+Bitte geben Sie Heilmittel nach Maßgabe des Heilmittelkataloges an. Es können auch mehrere (bis zu drei rangige Heilmittel verordnet werden. Soweit medizinisch erforderlich, kann zu vorrangigen Heilmitteln maxi-mal ein im Heilmittelkatalog genanntes ergänzendes Heilmittel verordnet werden.
 
 - **6.** **Behandlungseinheiten**
 
 Bei Angabe der Verordnungsmenge darf der Wert der Höchstmenge je Verordnung gemäß Heilmi nicht überschritten werden. Nur bei Verordnungen aufgrund eines „besonderer Verordnungsbedarfs“ oder  „langfristigen Heilmittelbedarfs“ kann die Bemessung der Behandlungseinheiten je Verordnung erfolgen.
 
-Bei Verordnung mehrerer vorrangiger Heilmittel sind die Behandlungseinheiten aufzuteilen. Die maximale Ver- ordnungsmenge für ergänzende Heilmittel richtet sich nach dem vorrangigen Heilmittel bzw. der Summe der  verordneten Behandlungseinheiten der vorrangigen Heilmittel.
+Bei Verordnung mehrerer vorrangiger Heilmittel sind die Behandlungseinheiten aufzuteilen. Die maximale Ver-ordnungsmenge für ergänzende Heilmittel richtet sich nach dem vorrangigen Heilmittel bzw. der Summe der  verordneten Behandlungseinheiten der vorrangigen Heilmittel.
 
 - **7.** **Therapiefrequenz**
 
@@ -59,11 +59,11 @@ Kalendertagen beginnen muss.
 
 - **11.** **ggf. Therapieziele / weitere med. Befunde und Hinweise**
 
-Dieses Feld kann ausgefüllt werden, um das Therapieziel zu spezifizieren oder weitere therapierelevante Be- fundergebnisse anzugeben.
+Dieses Feld kann ausgefüllt werden, um das Therapieziel zu spezifizieren oder weitere therapierelevante Be-fundergebnisse anzugeben.
 
 - **12.** **IK des Leistungserbringers**
 
-Dieses Feld ist ausschließlich für Heilmittelerbringer vorgesehen und ist nicht durch die verordnende Vertrags- ärztin oder den verordnenden Vertragsarzt zu befüllen.
+Dieses Feld ist ausschließlich für Heilmittelerbringer vorgesehen und ist nicht durch die verordnende Vertrags-ärztin oder den verordnenden Vertragsarzt zu befüllen.
 
 werden soll.
 

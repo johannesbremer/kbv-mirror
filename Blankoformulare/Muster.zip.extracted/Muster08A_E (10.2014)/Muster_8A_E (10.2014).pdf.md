@@ -134,18 +134,16 @@
 
 **Unterschrift des Empfängers (Vor- und Zuname)**
 
-**Stempel und Unterschrift des Leistungserbringers**
-
-**mmten Betrag.**
-
-**sbaren Daten.**
-
-**anstelle der verordneten vergrößernden Sehhilfen i**
-
 **st**
+
+**Stempel und Unterschrift des Leistungserbringers**
 
 **PRF.NR.**
 
-**nicht gestattet.**
+**mmten Betrag.**
+
+**nicht gestattet.** **sbaren Daten.**
 
 **Muster 8A/E (10.2014)**
+
+**anstelle der verordneten vergrößernden Sehhilfen i**

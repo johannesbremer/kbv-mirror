@@ -156,13 +156,13 @@ Tabelle 9 – Kooperation erfolgt mit ..........................................
 
 # 1 Einleitung
 
-Diese Schnittstellenbeschreibung definiert, wie die Daten ausgetauscht werden, die im Rah- men der "QS Hörgeräteversorgung Kinder" dokumentiert werden müssen.
+Diese Schnittstellenbeschreibung definiert, wie die Daten ausgetauscht werden, die im Rah-men der "QS Hörgeräteversorgung Kinder" dokumentiert werden müssen.
 
 Formale und technische Grundlage dieser Schnittstelle ist CDA/HL7 V-Attribute für Werte anstelle von öffnenden und schließenden Tags benutzt.
 
-In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte des Bogens an- hand von Ausschnitten veranschaulicht. Die XML-Dateien werden gegen das durch die KBV  erweiterte HL7/SCIPHOX-Schema und das KBV-Prüfschema QSHGVK
+In den weiteren Kapiteln dieses Dokuments werden die einzelnen Abschnitte des Bogens an-hand von Ausschnitten veranschaulicht. Die XML-Dateien werden gegen das durch die KBV  erweiterte HL7/SCIPHOX-Schema und das KBV-Prüfschema QSHGVK
 
-Die Schnittstelle wurde gemäß den Plausibilitäten [ worfen. Die Daten in der Schnittstelle sind gegen diese Plausibilitäten vor dem Export zu prü- fen.
+Die Schnittstelle wurde gemäß den Plausibilitäten [ worfen. Die Daten in der Schnittstelle sind gegen diese Plausibilitäten vor dem Export zu prü-fen.
 
 1 [](http://www.hl7.de/)[http://www.HL7.de/](http://www.hl7.de/)[](http://www.hl7.de/)
 
@@ -175,15 +175,15 @@ KBV_ITA_VGEX_Plausi_QSHGVK] ent-
 
 # 2 Dateinamen
 
-Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradoku- ment beschrieben [KBV_ITA_VGEX_XML-Schnittstellen
+Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem Extradoku-ment beschrieben [KBV_ITA_VGEX_XML-Schnittstellen
 
 Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt:
 
 -  Der Präfix des Dateinamens setzt sich zusammen aus
 - o der 9--stelligen (Neben )Betriebsstättennummer des Tätigkeitsortes, an dem die  Datei erstellt wird
 - o der Patienten-Nummer (patient.person.id, EX-Attribut)
-- o dem Erstellungsdatum Dokumentationsdatum (Erstellungsdatum Dokumenta- tionsdatum im Format JJJJMMTT)
--  Die Endung der Datei für die QS Hörgeräteversorgung Kinder Vorverordnung mit Ver- ordnung muss „QSHGVKVV“ sein
+- o dem Erstellungsdatum Dokumentationsdatum (Erstellungsdatum Dokumenta-tionsdatum im Format JJJJMMTT)
+-  Die Endung der Datei für die QS Hörgeräteversorgung Kinder Vorverordnung mit Ver-ordnung muss „QSHGVKVV“ sein
 -  Die Endung der Datei für die QS Hörgeräteversorgung Kinder Nachsorge muss  „QSHGVKNG“ sein.
 
 Beispiele:
@@ -196,7 +196,7 @@ Beispiele:
 
 # 3 Dokumentenstruktur
 
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e- achten.
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-e-achten.
 
 Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  aus den beiden Kindelementen *clinical_document_header* in Abbildung 1 dargestellt ist.
 
@@ -228,7 +228,7 @@ levelone xmlns="urn::hl7-org/cda"  xmlns:sciphox="urn::sciphox-org/sciphox"  xml
 
 **XML-Code 1 - levelone**
 
-Das Element *clinical_document_header* wird allgemein für alle medizinischen Dokumentatio- nen in dem Dokument „Schnittstellenbeschreibung DMP-Header“  [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben. Unterschiede zwischen dem DMP-
+Das Element *clinical_document_header* wird allgemein für alle medizinischen Dokumentatio-nen in dem Dokument „Schnittstellenbeschreibung DMP-Header“  [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben. Unterschiede zwischen dem DMP-
 
 4
 
@@ -261,13 +261,13 @@ werden die
 -  Das Element *person_name provider person*) wird nicht verwendet.
 -  Das Element *addr provider person*) wird nicht verwendet.
 -  Das Element *patient.type_cd patient*) wird nicht verwendet.
--  Das Element *id patient person*) enthält die lokal eindeutige bis zu 10-stellige alphanume- rische Patienten-ID des Versicherten.
+-  Das Element *id patient person*) enthält die lokal eindeutige bis zu 10-stellige alphanume-rische Patienten-ID des Versicherten.
 -  Das Element *person_name patient person*) wird nicht verwendet.
 -  Das Element *addr patient person*) wird nicht verwendet.
 -  Das Element *birth_dttm patient*) enthält nur Jahr und Monat (JJJJ-MM).
 -  Das Element *sciphox:GesetzlicheKrankenversicherung sciphox-ssu insurance*) wird nicht  verwendet.
--  Die Werte im Element *document_type_cd* müssen den Tabellenwerten aus der Doku- menttypentabelle entsprechen:
-- o Dokumentationsbogen zur QS Hörgeräteversorgung Kinder Vorverordnung / Verord- nung <document_type_cd V="QSHGVK_VV" S="1.2.276.0.76.5.100" SN="KBV" DN="QS Hörgeräteversorgung VoKinder r- verordnung und Verordnung"/>
+-  Die Werte im Element *document_type_cd* müssen den Tabellenwerten aus der Doku-menttypentabelle entsprechen:
+- o Dokumentationsbogen zur QS Hörgeräteversorgung Kinder Vorverordnung / Verord-nung <document_type_cd V="QSHGVK_VV" S="1.2.276.0.76.5.100" SN="KBV" DN="QS Hörgeräteversorgung VoKinder r-verordnung und Verordnung"/>
 - o Dokumentationsbogen zur QS Hörgeräteversorgung Kinder Nachsorge  <document_type_cd V="QSHGVK_NG" S="1.2.276.0.76.5.100" SN="KBV" DN="QS Hörgeräteversorgung Kinder  Nachsorge"/>
 
 ---
@@ -304,7 +304,7 @@ Die Sektion kann die Abschnitte „Vorverordnung“, „Verordnung“ oder „Na
 
 Zu jedem *paragraph*-Element muss ein Kindelement *caption* mit der Abschnittsüberschrift und  ein Kindelement *content* mit den konkreten Daten übertragen werden. Enthält ein Abschnitt  keine Daten, so wird der entsprechende *paragraph*-Block weggelassen. Die *content*-Elemente  der einzelnen Abschnitte werden in den nächsten Kapiteln erläutert.
 
-Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Element *section*  wie folgt aus. Die Werte der einzelnen *caption_cd*-Elemente entsprechen dabei den Ab- schnittsüberschriften auf dem Dokumentationsbogen.
+Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Element *section*  wie folgt aus. Die Werte der einzelnen *caption_cd*-Elemente entsprechen dabei den Ab-schnittsüberschriften auf dem Dokumentationsbogen.
 
 
 ---
@@ -353,7 +353,7 @@ Das Element *content* enthält das Kindelement *local_markup*, mit welchem eine 
 
 Für die Darstellung der QSHV-oxDaten in XML wird ausschließlich die Sciph -SSU *observation*  verwendet. Das Element *sciphox-ssu* hat drei Attribute, die mit den festen Werten vorbelegt  sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet, dass die  Sciphox-ssu *observation* in Version *v1* verwendet wird.
 
-Der Coderahmen für das Element *content* mit Sciphox-SSU *observation* sieht demnach fol- gendermaßen aus:
+Der Coderahmen für das Element *content* mit Sciphox-SSU *observation* sieht demnach fol-gendermaßen aus:
 
 \| ** <content>      <sciphox:sciphox-ssu type="observation" country="de" version="v1">              . . .    sciphox:sciphox-ssu>    local_markup>  </content> |
 \|---|
@@ -362,7 +362,7 @@ Der Coderahmen für das Element *content* mit Sciphox-SSU *observation* sieht de
 
 #### 5.1.2.1 Sciphox-SSU observation
 
-local_markup ignore="all" descriptor="sciphox"> Das Element *sciphos-ssu (observation)* enthält das Kindelement *sciphox:Beobachtungen,* das  mehrere Kindelemente *sciphox:Beobachtung* enthalten kann. Es muss mindestens ein Ele- ment *sciphox:Beobachtung* vorkommen. Das Element *sciphox:Beobachtung* setzt sich aus  jeweils genau einem Kindelement *sciphox:Parameter* und den optionalen Kindelementen *sci-* *phox:Ergebniswert, sciphox:Ergebnistext* und* sciphox:Zeitpunkt_dttm* zusammen. Neben dem  *sciphox:Parameter* Element muss mindestens eins dieser optionalen Kindelemente angege- ben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter ge- macht wurden, wird der komplette sciphox:Beobachtung-Block mit dem jeweiligen Parameter  weggelassen. Die Angabe einer sciphox:Beobachtung mit nur einem Element sci- phox:Parameter ist nicht zulässig. Der allgemeine Aufbau dieser SSU ist nachfolgend be- schrieben:
+local_markup ignore="all" descriptor="sciphox"> Das Element *sciphos-ssu (observation)* enthält das Kindelement *sciphox:Beobachtungen,* das  mehrere Kindelemente *sciphox:Beobachtung* enthalten kann. Es muss mindestens ein Ele-ment *sciphox:Beobachtung* vorkommen. Das Element *sciphox:Beobachtung* setzt sich aus  jeweils genau einem Kindelement *sciphox:Parameter* und den optionalen Kindelementen *sci-* *phox:Ergebniswert, sciphox:Ergebnistext* und* sciphox:Zeitpunkt_dttm* zusammen. Neben dem  *sciphox:Parameter* Element muss mindestens eins dieser optionalen Kindelemente angege-ben werden. Um zu kennzeichnen, dass keine Angaben zu einem bestimmten Parameter ge-macht wurden, wird der komplette sciphox:Beobachtung-Block mit dem jeweiligen Parameter  weggelassen. Die Angabe einer sciphox:Beobachtung mit nur einem Element sci-phox:Parameter ist nicht zulässig. Der allgemeine Aufbau dieser SSU ist nachfolgend be-schrieben:
 
 
 ---
@@ -614,7 +614,7 @@ ordnung / Verordnung“. Der Body enthält hier nur die Abschnitte „“. wie f
 \|---|
 \| <sciphox:Beobachtung>          </sciphox:sciphox-ssu>  </local_markup>  </content> |
 
-<sciphox:Parameter DN="Kooperation erfolgt mit"/> <sciphox:Ergebniswert V="Logopäde"/> </sciphox:Beobachtungen> XML-Code 25 – content (Nachsorge) 6.1.2.1 Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ver- zeichnung gemäß ei diesem Parameter kann nur ein Feld ausgewählt werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve sorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> zeichnung gemäß ei diesem Parameter können mehrere Feld den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Abweichung in Luftleitung"/> <sciphox:Ergebniswert V="HdO"/> Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. sciphox:Ergebniswert  im sciphox:Ergebniswert  im sciphox:Ergebnistext  im -Attribut den Freitext des -e- Attribut die Feldb r- -e- Attribut die Feldb  ausgewählt wer-| ** <>     </sciphox:Beobachtung> |
+<sciphox:Parameter DN="Kooperation erfolgt mit"/> <sciphox:Ergebniswert V="Logopäde"/> </sciphox:Beobachtungen> XML-Code 25 – content (Nachsorge) 6.1.2.1 Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ver- sciphox:Ergebniswert zeichnung gemäß ei diesem Parameter kann nur ein Feld ausgewählt werden. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Der Hörgeräteversorgungsvorschlag entspricht dem aufgestellten Ve  im -e- Attribut die Feldb r- sorgungskonzept"/> <sciphox:Ergebniswert V="Ja"/> zeichnung gemäß ei diesem Parameter können mehrere Feld den. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. <sciphox:Parameter DN="Abweichung in Luftleitung"/> sciphox:Ergebniswert  im -e- Attribut die Feldb  ausgewählt wer- <sciphox:Ergebniswert V="HdO"/> Anwenders. Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg. sciphox:Ergebnistext  im -Attribut den Freitext des | ** <>     </sciphox:Beobachtung> |
 \|---|
 
 \| Wert bei Ergebniswert |
@@ -709,7 +709,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### 6.1.2.8 Kooperation erfolgt mit
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebniswert* im *V*-e-Attribut die Feldb zeichnung gemäß Tabelle 9. B ei diesem Parameter können mehrere Felder ausgewählt wer- den.
+Bei diesem Parameter enthält das Element *sciphox:Ergebniswert* im *V*-e-Attribut die Feldb zeichnung gemäß Tabelle 9. B ei diesem Parameter können mehrere Felder ausgewählt wer-den.
 
 Wenn keine Angaben gemacht wurden, fällt dieser Beobachtungsblock komplett weg.
 

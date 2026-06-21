@@ -37,13 +37,11 @@ Bitte kreuzen Sie „Ja“ an, wenn Sie im Rahmen der DMP Auftreten einer Osteop
 
 #### Häufigkeit von Exazerbationen seit der letzten Dokumentation
 
-Eine Angabe ist nur im Rahmen einer
+Eine Angabe ist nur im Rahmen einer **Folgedokumentation**
 
 Als Exazerbation zählt jede Verschlechterung der Symptomatik, die eine Veränderung der  Medikation im Sinne einer Intensivierung der Therapie erforderlich macht.
 
 Geben Sie bitte die Anzahl (ohne Nachkommastelle) von Exazerbationen seit der letzten  Dokumentation an. Sollte keine Exazerbation seit der letzten Dokumentation vorgelegen haben,  geben Sie bitte eine „0“ an.
-
-**Folgedokumentation**
 
 #### Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen  COPD seit der letzten Dokumentation
 
@@ -95,7 +93,7 @@ Falls erforderlich zur **Dauertherapie**
 
 - Langwirksames Anticholinergikum* (z. B.Tiotropiumbromid)* oder
 - Langwirksame Beta-2-Sympatomimetika (z. B. *Formoterol, Salmeterol*
-- Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2- Sympathomimetikum und Anticholinergikum.
+- Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2-Sympathomimetikum und Anticholinergikum.
 
 Zusätzlich in begründeten Fällen:
 
@@ -110,13 +108,13 @@ Sollte Ihre Patientin bzw. Ihr Patient eine solche Kombinationstherapie erhalten
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurzwirksamen Beta-2- Sympathomimetika und/oder Anticholinergika durchgeführt wird. Bitte geben Sie bei „Keine“  gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Antic holinergikums  besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurzwirksamen Beta-2-Sympathomimetika und/oder Anticholinergika durchgeführt wird. Bitte geben Sie bei „Keine“  gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Antic holinergikums  besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Lang wirksame Beta-2-Sympathomimetika
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit langwirksamen Beta-2- Sympathomimetika durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob  eine Kontraindikation gegen die Gabe eines lang wirksamen Beta-2-Sympathomimetikums besteht.  Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit langwirksamen Beta-2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob  eine Kontraindikation gegen die Gabe eines lang wirksamen Beta-2-Sympathomimetikums besteht.  Diese Angabe ist für die Qualitätssicherung notwendig.
 
 
 ---
@@ -213,7 +211,7 @@ Wenn Sie bereits zuvor eine Teilnahme an einem Tabakentwöhnungsprogramm empfohl
 
 Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte mit „Nein“ an.
 
-Sofern Sie nicht selber ein zertifiziertes Tabakentwöhnungsprogramm anbieten, finden Sie  geeignete Tabakentwöhnungsprogramme z. B. im Internet unter www.zentrale-pruefstelle- praevention.de oder auch direkt über die Internetseiten der Krankenkassen.
+Sofern Sie nicht selber ein zertifiziertes Tabakentwöhnungsprogramm anbieten, finden Sie  geeignete Tabakentwöhnungsprogramme z. B. im Internet unter www.zentrale-pruefstelle-praevention.de oder auch direkt über die Internetseiten der Krankenkassen.
 
 Eine Angabe in diesen Feldern führt **nicht** zum Ausschluss des Patienten aus dem Programm.
 

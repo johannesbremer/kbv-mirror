@@ -105,7 +105,7 @@ ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Molekulargenetik [1] eingesetzt wird. Es wird eine betriebsstättenbezogene Jah- resstatistik der molekulargenetischen Untersuchungen an die zuständige Datenannahmestel- le übermittelt.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Molekulargenetik [1] eingesetzt wird. Es wird eine betriebsstättenbezogene Jah-resstatistik der molekulargenetischen Untersuchungen an die zuständige Datenannahmestel-le übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
@@ -114,7 +114,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 ## 1.2 Pflichtfunktionen und optionale Funktionen der Software
 
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego-rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
 **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
@@ -159,7 +159,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Molekulargenetischen Jahresstatistik ermöglichen.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. der Molekulargenetischen Jahresstatistik ermöglichen.
 
 Die in der Schnittstellenbeschreibung QS Molekulargenetik
 
@@ -193,7 +193,7 @@ Quartal.
 
 31.03
 
-### Melde- quartal 30.06
+### Melde-quartal 30.06
 
 ### Prüfquartal
 
@@ -204,11 +204,11 @@ Quartal.
 |---|---|
 | **P1-30** | **Betriebsstättenbezug** |
 
-Die Jahresstatistik QS Molekulargenetik umfasst Daten einer Betriebsstätte. D.h. arbeiten  mehrere Ärzte in einer Gemeinschaftspraxis, enthält die Statistik aufsummiert alle Behand- lungsfälle nach EBM-Abschnitt (s. P1-40) von allen Ärzten dieser Betriebsstätte. Pro Betrieb- stätte ist nur eine Jahresstatistik möglich.
+Die Jahresstatistik QS Molekulargenetik umfasst Daten einer Betriebsstätte. D.h. arbeiten  mehrere Ärzte in einer Gemeinschaftspraxis, enthält die Statistik aufsummiert alle Behand-lungsfälle nach EBM-Abschnitt (s. P1-40) von allen Ärzten dieser Betriebsstätte. Pro Betrieb-stätte ist nur eine Jahresstatistik möglich.
 
-Arbeitet ein Arzt in mehreren Betriebsstätten, ist die Jahresstatistik weiterhin nur pro Be- triebsstätte zu erstellen. So ist auch für jede Nebenbetriebsstätte eine separate Jahresstatis- tik erforderlich.
+Arbeitet ein Arzt in mehreren Betriebsstätten, ist die Jahresstatistik weiterhin nur pro Be-triebsstätte zu erstellen. So ist auch für jede Nebenbetriebsstätte eine separate Jahresstatis-tik erforderlich.
 
-Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind zu erfassen und in der Jahresstatistik anzuzeigen.
+Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen-ders sind zu erfassen und in der Jahresstatistik anzuzeigen.
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -236,9 +236,9 @@ Die Anzahl aller Behandlungsfälle (mit mind. einer Leistung aus dem EBM Unterab
 |---|---|
 | **P1-60** | **Art der Fragestellung je Behandlungsfall** |
 
-Die Art der Fragestellung zum Behandlungsfall ist zu erfassen. Die Anzahl der Behandlungs- fälle differenziert nach Art der Fragestellung ist zu bilden, wie es in der Berechnungsvorschrift
+Die Art der Fragestellung zum Behandlungsfall ist zu erfassen. Die Anzahl der Behandlungs-fälle differenziert nach Art der Fragestellung ist zu bilden, wie es in der Berechnungsvorschrift
 
-[KBV_ITA_VGEX_Plausi_QSMG] vorgegeben ist. Die jeweilige Anzahl ist in der Jahresstatis- tik anzuzeigen.
+[KBV_ITA_VGEX_Plausi_QSMG] vorgegeben ist. Die jeweilige Anzahl ist in der Jahresstatis-tik anzuzeigen.
 
 Ein Behandlungsfall kann folgende Arten der Fragestellung haben:
 
@@ -248,7 +248,7 @@ Ein Behandlungsfall kann folgende Arten der Fragestellung haben:
 
 Die unterschiedlichen Fragestellungen sind in den Ausfüllhinweisen beschrieben
 
-[KBV_ITA_AHEX_Ausfuellhinweise_QSMG]. Liegen mehrere Behandlungen (Überweisungs- scheine) zu einem Fall vor, ist dennoch nur eine Art der Fragestellung möglich.
+[KBV_ITA_AHEX_Ausfuellhinweise_QSMG]. Liegen mehrere Behandlungen (Überweisungs-scheine) zu einem Fall vor, ist dennoch nur eine Art der Fragestellung möglich.
 
 Beispiel:
 
@@ -261,9 +261,9 @@ Beispiel 1 Art der Fragestellung
 |---|---|
 | **P1-70** | **Art des Befunds je Behandlungsfall** |
 
-Die Art des Befundes zum Behandlungsfall ist zu erfassen. Die Anzahl der Befunde differen- ziert nach der Art der Fragestellung des Behandlungsfalles und nach der Art des Befundes ist  in der Jahresstatistik anzuzeigen.
+Die Art des Befundes zum Behandlungsfall ist zu erfassen. Die Anzahl der Befunde differen-ziert nach der Art der Fragestellung des Behandlungsfalles und nach der Art des Befundes ist  in der Jahresstatistik anzuzeigen.
 
-Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der Fragestel- lung, dieser Befund kann folgende Arten des Befundes haben:
+Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der Fragestel-lung, dieser Befund kann folgende Arten des Befundes haben:
 
 -  pathologischer Befund
 -  unauffälliger Befund
@@ -286,13 +286,13 @@ Beispiel 2 Art des Befunds
 |---|---|
 | **P1-80** | **Anzahl der Leistungen je GOP** |
 
-Die durchgeführten Leistungen (nach EBM Unterabschnitt 11.4.2) werden je GOP aufsum- miert. Die Anzahl ist je GOP in der Jahresstatistik anzuzeigen.
+Die durchgeführten Leistungen (nach EBM Unterabschnitt 11.4.2) werden je GOP aufsum-miert. Die Anzahl ist je GOP in der Jahresstatistik anzuzeigen.
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
 | **P1-90** | **Art des Befundes je Leistung** |
 
-Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung ist  die Anzahl der Befunde differenziert nach der Art des Befundes zu bilden. Die jeweilige An- zahl ist in der Jahresstatistik anzuzeigen.
+Die Art des Befundes zur der durchgeführten Leistung ist zu erfassen. Je Untersuchung ist  die Anzahl der Befunde differenziert nach der Art des Befundes zu bilden. Die jeweilige An-zahl ist in der Jahresstatistik anzuzeigen.
 
 Eine durchgeführte Leistung (nach EBM Unterabschnitt 11.4.2) kann im Sinne der einzelnen  Analyse folgende Arten des Befundes haben:
 
@@ -331,7 +331,7 @@ Die Anzahl der Leistungen (GOPs) bei Behandlungsfällen mit nicht beurteilbarem 
 
 Die Anzahl der Behandlungsfälle mit nicht beurteilbarem Befund
 
-Die Zähler und Nenner, sowie die errechneten Quotienten sind in der Jahresstatistik anzuzei- gen.
+Die Zähler und Nenner, sowie die errechneten Quotienten sind in der Jahresstatistik anzuzei-gen.
 
 Beispiel
 
@@ -357,7 +357,7 @@ Wurde mindestens ein Unterauftrag (Überweisung) für einen Behandlungsfall erst
 |---|---|
 | **P1-120** | **LANR des Einsenders** |
 
-Die lebenslange Arztnummer (LANR) des Einsenders (nach Muster 10 und 10a), der die Pro- ben zur genetischen Analyse geschickt hat, ist je Behandlungsfall zu erfassen. Wenn kein  Einsender existiert, dann ist das Feld optional.
+Die lebenslange Arztnummer (LANR) des Einsenders (nach Muster 10 und 10a), der die Pro-ben zur genetischen Analyse geschickt hat, ist je Behandlungsfall zu erfassen. Wenn kein  Einsender existiert, dann ist das Feld optional.
 
 Die Definition des Einsenders ist in den Ausfüllhinweisen
 
@@ -369,7 +369,7 @@ Die Anzahl der erfassten Einsender - LANRs ist zu ermitteln, wobei nur die unter
 |---|---|
 | **P1-130** | **BSNR des Einsenders** |
 
-Die Betriebsstättennummer (BSNR) des Einsenders (nach Muster 10 und 10a), der die Pro- ben zur genetischen Analyse geschickt hat, ist pro Behandlungsfall zu erfassen. Wenn kein  Einsender existiert, dann ist das Feld optional.
+Die Betriebsstättennummer (BSNR) des Einsenders (nach Muster 10 und 10a), der die Pro-ben zur genetischen Analyse geschickt hat, ist pro Behandlungsfall zu erfassen. Wenn kein  Einsender existiert, dann ist das Feld optional.
 
 Die Definition des Einsenders ist in den Ausfüllhinweisen
 
@@ -381,7 +381,7 @@ Die Anzahl der erfassten Einsender - BSNRn ist zu bilden, wobei nur die untersch
 |---|---|
 | **P1-140** | **Facharztgruppe des Einsenders** |
 
-Aus der erfassten LANR des Einsenders (nach Muster 10 und 10a) je Behandlungsfall wird  die Facharztgruppe (8-9 Stelle der LANR) ermittelt. Die Anzahl der Einsendungen differen- ziert nach Facharztgruppe ist in der Jahresstatistik anzuzeigen.
+Aus der erfassten LANR des Einsenders (nach Muster 10 und 10a) je Behandlungsfall wird  die Facharztgruppe (8-9 Stelle der LANR) ermittelt. Die Anzahl der Einsendungen differen-ziert nach Facharztgruppe ist in der Jahresstatistik anzuzeigen.
 
 Für die visuelle Darstellung beim Arzt wird die 8.-9.-Stelle der LANR gemäß der Tabelle [2]  gemappt.
 
@@ -392,7 +392,7 @@ Für die visuelle Darstellung beim Arzt wird die 8.-9.-Stelle der LANR gemäß d
 |---|---|
 | **P1-150** | **Facharztgruppe des Einsenders je GOP > 150** |
 
-Für jede Leistung (GOP), die > 150-mal durchgeführt wurde, ist nur für diese Leistung die  Anzahl der Einsendungen differenziert nach Facharztgruppe zu bilden und in der Jahressta- tistik anzuzeigen.
+Für jede Leistung (GOP), die > 150-mal durchgeführt wurde, ist nur für diese Leistung die  Anzahl der Einsendungen differenziert nach Facharztgruppe zu bilden und in der Jahressta-tistik anzuzeigen.
 
 Für die Anzeige der Facharztgruppe im PVS wird dem Anwender die 8.-9.-Stelle der LANR  gemäß der Tabelle [2] gemappt.
 
@@ -402,7 +402,7 @@ Für die Anzeige der Facharztgruppe im PVS wird dem Anwender die 8.-9.-Stelle de
 |---|---|
 | **P1-160** | **Gesamtanzahl der Untersuchungen** |
 
-Ärzte sind verpflichtet an externen Qualitätssicherungsmaßnahmen teilzunehmen. Jede ring- versuchspflichtige Untersuchung und die Anzahl der Teilnahmehäufigkeit für jede Untersu- chung in dem Jahr ist zu erfassen.
+Ärzte sind verpflichtet an externen Qualitätssicherungsmaßnahmen teilzunehmen. Jede ring-versuchspflichtige Untersuchung und die Anzahl der Teilnahmehäufigkeit für jede Untersu-chung in dem Jahr ist zu erfassen.
 
 Das Produkt der beiden Größen ist zu bilden und die Summe der Produkte ist zu erstellen.  Die Summe ist in der Jahresstatistik anzuzeigen.
 
@@ -421,7 +421,7 @@ Beispiel 4 Gesamtanzahl der Untersuchungen
 
 Für jede Untersuchung ist die Anzahl der erteilten Zertifikate [3] in dem Jahr zu erfassen.
 
-Die Summe über das Produkt aus ringversuchspflichtiger Untersuchung und erteilter Zertifika- te im Jahr ist zu erstellen. Die Summe ist in der Jahresstatistik anzuzeigen.
+Die Summe über das Produkt aus ringversuchspflichtiger Untersuchung und erteilter Zertifika-te im Jahr ist zu erstellen. Die Summe ist in der Jahresstatistik anzuzeigen.
 
 Beispiel
 
@@ -446,7 +446,7 @@ Die erstellte Jahresstatistik muss den vorgegebenen Plausibilitäten
 
 Die Jahresstatistik wird gegen die Plausibilitäten [KBV_ITA_VGEX_Plausi_QSMG] geprüft  und Warnungen und ggf. Fehlermeldungen werden dem Anwender angezeigt.
 
-Das Einreichen einer unvollständigen (nicht alle Felder wurden gefüllt) und/oder nicht plausib- len und/oder nicht validen Dokumentation an die Datenannahmestelle kann vom Anwender
+Das Einreichen einer unvollständigen (nicht alle Felder wurden gefüllt) und/oder nicht plausib-len und/oder nicht validen Dokumentation an die Datenannahmestelle kann vom Anwender
 
 somit nur nach entsprechender Kenntnisnahme durchgeführt werden.
 
@@ -458,7 +458,7 @@ Eine Ausnahme bilden die Pflichtfelder, welche immer ausgefüllt werden müssen.
 |---|---|
 | **P1-220** | **Behandlungsfälle ohne Art des Befundes** |
 
-Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befund im Sinne der Fra- gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen
+Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befund im Sinne der Fra-gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen
 
 ### 2.1.6 Darstellung
 
@@ -500,7 +500,7 @@ Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik 
 |---|---|
 | **P2-10** | **Übermittlung an die Datenannahmestelle** |
 
-Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
+Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis-tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie-gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde-rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -514,7 +514,7 @@ Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss
 |---|---|
 | **P1-265** | **QSMG auf Basis von KV-Connect** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG- Dokumentationen auf Basis von KV-Connect bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG-Dokumentationen auf Basis von KV-Connect bereitstellen.
 
 **Begründung:**
 
@@ -531,7 +531,7 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 |---|---|
 | **P1-266** | **QSMG auf Basis von KIM** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG- Dokumentationen auf Basis von KIM bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG-Dokumentationen auf Basis von KIM bereitstellen.
 
 **Begründung:**
 
@@ -548,8 +548,8 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Bedingung:**
 
-- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.
-- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.
+- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei-willig.
+- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich-tend.
 
 **Hinweis:**
 
@@ -576,7 +576,7 @@ Es sind folgende Import-Status möglich:
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
 
-Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig- neter Weise anzeigen.
+Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig-neter Weise anzeigen.
 
 **Bedingung:**
 
@@ -627,9 +627,9 @@ e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 |---|---|
 | **P2-70** | **Einsatz Kryptomodul (XKM)** |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati- onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-MG-Datenverschlüsselung (Oeffentlich_QSMG_Vxy.key) zu verschlüs- seln.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati-onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-MG-Datenverschlüsselung (Oeffentlich_QSMG_Vxy.key) zu verschlüs-seln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in  sen.
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in  sen.
 
 [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-
 

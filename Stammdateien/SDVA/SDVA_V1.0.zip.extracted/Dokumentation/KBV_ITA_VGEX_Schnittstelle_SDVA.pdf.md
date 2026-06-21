@@ -246,11 +246,11 @@ ABBILDUNG 23: NR ...............................................................
 
 ## TABELLENVERZEICHNIS
 
-TABELLE 1: BESCHREIBUNG DER BESTANDTEILE
+TABELLE 1: BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS ................................................................................ 8
 
-TABELLE 2: BESCHREIBUNG DER KARDINALITÄT
+TABELLE 2: BESCHREIBUNG DER KARDINALITÄTEN ............................................................................................................ 9
 
-TABELLE 3: BESCHREIBUNG DER STRUKTURELEM
+TABELLE 3: BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ....................................................................................... 9
 
 TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10
 
@@ -258,13 +258,13 @@ TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE ......................................
 
 FORMEL 1: XML-CODE /EHD ............................................................................................................................................. 11
 
-FORMEL 2: XML-CODE: VA_STAMMDATEN
+FORMEL 2: XML-CODE: VA_STAMMDATEN ...................................................................................................................... 12
 
-FORMEL 3: XML-CODE: HAUPT_ZWEIG_LISTE
+FORMEL 3: XML-CODE: HAUPT_ZWEIG_LISTE .................................................................................................................. 13
 
 FORMEL 4: XML-CODE: HAUPT_ZWEIG ............................................................................................................................ 13
 
-FORMEL 5: XML-CODE: HAUPTKAPITEL_LISTE
+FORMEL 5: XML-CODE: HAUPTKAPITEL_LISTE .................................................................................................................. 14
 
 FORMEL 6: XML-CODE: HAUPTKAPITEL ............................................................................................................................ 15
 
@@ -272,7 +272,7 @@ FORMEL 7: XML-CODE: KAPITEL_LISTE ..............................................
 
 FORMEL 8: XML-CODE: KAPITEL ....................................................................................................................................... 16
 
-FORMEL 9: XML-CODE: UNTERKAPITEL_LISTE
+FORMEL 9: XML-CODE: UNTERKAPITEL_LISTE .................................................................................................................. 17
 
 FORMEL 10: XML-CODE: UNTERKAPITEL .......................................................................................................................... 18
 
@@ -301,21 +301,6 @@ FORMEL 21: XML-CODE: BR ........................................................
 FORMEL 22: XML-CODE: TITEL .......................................................................................................................................... 25
 
 FORMEL 23: XML-CODE: NR ............................................................................................................................................. 25
-
-DES DATEINAMENS ................................................................................ 8
-
-EN ............................................................................................................ 9
-
-ENT-SYMBOLE ....................................................................................... 9
-
-...................................................................................................................... 12
-
-.................................................................................................................. 13
-
-.................................................................................................................. 14
-
-.................................................................................................................. 17
-
 
 ---
 
@@ -558,7 +543,7 @@ Formel 5: XML-Code: hauptkapitel_liste
 
 ### 5.2.6 hauptkapitel
 
-Das Element <hauptkapitel> stellt ein Hauptkapitel der darzustellenden Information dar. Im V-Attribut des  Elementes ist die ID der Information für eine mögliche Referenzierung von einem bestimmten ICD-10-GM- Kode in der ICD-Stammdatei auf das Hauptkapitel enthalten.
+Das Element <hauptkapitel> stellt ein Hauptkapitel der darzustellenden Information dar. Im V-Attribut des  Elementes ist die ID der Information für eine mögliche Referenzierung von einem bestimmten ICD-10-GM-Kode in der ICD-Stammdatei auf das Hauptkapitel enthalten.
 
 DN  der ICD-10-GM-Das Element <hauptkapitel> enthält immer die Kinderelemente <titel> und <nr>. Es kann die Kindelemente  <beschreibung> und <kapitel_liste> enthalten.
 
@@ -883,7 +868,7 @@ Formel 22: XML-Code: titel
 
 ## 5.5 NR
 
-Mit dem Element <nr> wird die Kapitelnummer eines Kapitels repräsentiert. Im V- die Kapitelnummer enthalten.
+Mit dem Element <nr> wird die Kapitelnummer eines Kapitels repräsentiert. Im V-die Kapitelnummer enthalten.
 
 Abbildung 23: nr
 

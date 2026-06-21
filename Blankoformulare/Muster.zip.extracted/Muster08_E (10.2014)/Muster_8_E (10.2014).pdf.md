@@ -86,11 +86,23 @@
 
 **Erklärung des Versicherten**
 
+**8**
+
+**Unterschrift des Versicherten**
+
+**(bei Erstversorgung oder Verlust der Sehhilfe)**
+
+**Euro**
+
 **Datum**
 
-**in Höhe von**
+**dass ich bisher noch keine Sehhilfe gehabt habe** **in Höhe von**
 
 **Ersatz**
+
+**dass meine bisherige Sehhilfe verlorengegangen ist**
+
+**Stempel der Krankenkasse und Unterschrift**
 
 **Die Kosten werden übernommen**
 
@@ -106,46 +118,30 @@
 
 **e** **ang** **passt.**
 
-**Empfangsbestät** **Datum**
+**igung ab**
+
+**Unterschrift des Empfängers (Vor- und Zuname)**
+
+**gegeben und** **Empfangsbestät** **Datum**
 
 **der Verordnung entspricht.**
 
-**Die Sehhilfe wurde gemäß vorstehender** **Die**
+**Die Sehhilfe wurde gemäß vorstehender**
+
+**Stempel und Unterschrift des Leistungserbringers**
+
+**Die**
+
+**PRF.NR.**
 
 **Ich versichere, dass die gelieferte Sehhilfe**
 
 **mmten Betrag.**
 
-**Bescheinigung des Leistungserbringers** **Lieferung anderer Ware**
+**nicht gestattet.** **sbaren Daten.** **Bescheinigung des Leistungserbringers**
 
-**Der Barcode enthält keine auf dem Formular nicht le** **Diese Verordnung ist kein Gutschein für einen besti** **Zur Beachtung für den Versicherten**
-
-**Euro**
-
-**dass ich bisher noch keine Sehhilfe gehabt habe**
-
-**dass meine bisherige Sehhilfe verlorengegangen ist**
-
-**igung ab**
-
-**gegeben und**
+**Muster 8/E (10.2014)** **Lieferung anderer Ware**
 
 **anstelle der verordneten Sehhilfen ist**
 
-**8**
-
-**Unterschrift des Versicherten**
-
-**(bei Erstversorgung oder Verlust der Sehhilfe)**
-
-**Stempel der Krankenkasse und Unterschrift**
-
-**Unterschrift des Empfängers (Vor- und Zuname)**
-
-**Stempel und Unterschrift des Leistungserbringers**
-
-**PRF.NR.**
-
-**nicht gestattet.** **sbaren Daten.**
-
-**Muster 8/E (10.2014)**
+**Der Barcode enthält keine auf dem Formular nicht le** **Diese Verordnung ist kein Gutschein für einen besti** **Zur Beachtung für den Versicherten**

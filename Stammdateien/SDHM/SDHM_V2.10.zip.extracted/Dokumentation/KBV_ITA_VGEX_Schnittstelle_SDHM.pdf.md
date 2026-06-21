@@ -284,26 +284,27 @@ XML-Code 35: verordnungsmenge ..................................................
 
 ---
 
-| XML-Code | 36: hoechstmenge_verordnung.......................................................................... |
+| XML-Code | 36: hoechstmenge_verordnung..........................................................................31 |
 |---|---|
-| XML-Code | 37: orientierende_behandlungsmenge ............................................................... |
-| XML-Code | 38: orientierende_behandlungsmenge_hoechstalter |
-| XML-Code | 39: hoechstalter_jahre........................................................................................ |
+| XML-Code | 37: orientierende_behandlungsmenge ...............................................................32 |
+| XML-Code | 38: orientierende_behandlungsmenge_hoechstalter..........................................33 |
+| XML-Code | 39: hoechstalter_jahre........................................................................................33 |
 | XML-Code | 40: orientierende_behandlungsmenge_icd_code ...............................................33 |
-| XML-Code | 41: icd_code_liste............................................................................................... |
-| XML-Code | 42: icd_code....................................................................................................... |
+| XML-Code | 41: icd_code_liste...............................................................................................34 |
+| XML-Code | 42: icd_code.......................................................................................................35 |
 | XML-Code | 43: orientierende_behandlungsmenge_standardisiert |
 | XML-Code | 44: orientierende_behandlungsmenge_massage...............................................35 |
-| XML-Code | 45: erforderliche_diagnosen............................................................................... |
+| XML-Code | 45: erforderliche_diagnosen...............................................................................36 |
 
-XML-Code 36: hoechstmenge_verordnung XML-Code 37: orientierende_behandlungsmenge XML-Code 38: XML-Code 39: XML-Code 40: XML-Code 41: XML-Code 42: icd_code XML-Code 43: orientierende_behandlungsmenge_standardisiert XML-Code 44: orientierende_behandlungsmenge_massage XML-Code 45: 31 32 3433 35
+35
 
+XML-Code 36: hoechstmenge_verordnung XML-Code 37: orientierende_behandlungsmenge XML-Code 38: XML-Code 39: XML-Code 40: XML-Code 41: XML-Code 42: icd_code XML-Code 43: orientierende_behandlungsmenge_standardisiert XML-Code 44: orientierende_behandlungsmenge_massage XML-Code 45:
 
 ---
 
 # 1 Einleitung
 
-Die Heilmittelstammdatei, auf Basis der Schnittstellenbeschreibung SDHM, basiert auf der  jeweils gültigen Version der Heilmittel -Richtlinie (HeilM-RL), insbesondere des Heilmittelkata- loges. Der Heilmittelkatalog ist Teil der Heilmittel-Richtlinie und beinhaltet hauptsächlich die  Zuordnung der Heilmittel zu Indikationen. Die Aktualisierung der Stammdatei erfolgt in Abhän- gigkeit der Änderungen der Heilmittel-Richtlinie durch den Gemeinsamen Bundesausschuss  (G-BA).
+Die Heilmittelstammdatei, auf Basis der Schnittstellenbeschreibung SDHM, basiert auf der  jeweils gültigen Version der Heilmittel -Richtlinie (HeilM-RL), insbesondere des Heilmittelkata-loges. Der Heilmittelkatalog ist Teil der Heilmittel-Richtlinie und beinhaltet hauptsächlich die  Zuordnung der Heilmittel zu Indikationen. Die Aktualisierung der Stammdatei erfolgt in Abhän-gigkeit der Änderungen der Heilmittel-Richtlinie durch den Gemeinsamen Bundesausschuss  (G-BA).
 
 Die vorliegende Schnittstellenbeschreibung definiert das Format der Heilmittelstammdatei der  KBV im XML-Format, konform zur ehd-Richtlinie
 
@@ -321,7 +322,7 @@ Standard-Namespace ist
 
 ## 2.3 Root-Schema
 
-Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt
+Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt
 
 **urn:ehd/sdhm/001**
 
@@ -341,7 +342,7 @@ datatyp ..... Datentyp, "Satzart", "ehd."  Entspricht dem Header-Element
 
 vv.vv ......... VersionsNr. der Datentypbeschreibung; Entspricht dem Element *<version>*
 
-sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da- ten identisch) bzw.  Entspricht dem Element *<person>* Elements *<provider>*
+sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da-ten identisch) bzw.  Entspricht dem Element *<person>* Elements *<provider>*
 
 KBV_ITA_VGEX_eHD -Richtlinie.
 
@@ -403,7 +404,7 @@ chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargeste
 
 ### 2.5.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>***  und ***<xs:sequence>***
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei-nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>***  und ***<xs:sequence>***
 
 | Symbol | Beschreibung |
 |---|---|
@@ -431,7 +432,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 # 3 ehd  Element (root
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1:  Element stehen die spezifischen Informationen zur Schnittstelle. Im body -Element werden die  eigentlichen Daten hinterlegt.
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea-der“ und „body“, wie es in Abbildung 1:  Element stehen die spezifischen Informationen zur Schnittstelle. Im body -Element werden die  eigentlichen Daten hinterlegt.
 
 Für die XML -Dateien ist der Zeichensatz ISO -8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
 
@@ -512,7 +513,7 @@ Der XML-Code für ein <sdhm_stammdaten> Element hat folgenden Aufbau:
 
 ## 5.2 kapitel
 
-Das Element <kapitel> bildet die einzelnen Kapitel des Heilmittelkataloges ab und enthält das  Element <diagnosegruppe>. Im V-Attribut des Elementes <kapitel> wird der Name des Kapi- tels abgebildet.
+Das Element <kapitel> bildet die einzelnen Kapitel des Heilmittelkataloges ab und enthält das  Element <diagnosegruppe>. Im V-Attribut des Elementes <kapitel> wird der Name des Kapi-tels abgebildet.
 
 **Abbildung 3:** kapitel
 
@@ -540,9 +541,9 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
 ## 5.3 diagnosegruppe
 
-Das Element <diagnosegruppe> bildet die Diagnosegruppe des Heilmittelkataloges ab. Das  V-Attribut enthält die für die Heilmittelverordnung zu verwendenden Diagnosegruppen. Im DN- Attribut sind die ausgeschriebenen Bezeichnungen der Diagnosegruppen enthalten. Die Wer- te des V-Attributes und DN-Attributes  S_HM_Diagnosegruppe (OID: 1.2.276.0.76.3.1.1.5.2.38). Das S-Attribut enthält immer den  Wert 1.2.276.0.76.3.1.1.5.2.38.
+Das Element <diagnosegruppe> bildet die Diagnosegruppe des Heilmittelkataloges ab. Das  V-Attribut enthält die für die Heilmittelverordnung zu verwendenden Diagnosegruppen. Im DN-Attribut sind die ausgeschriebenen Bezeichnungen der Diagnosegruppen enthalten. Die Wer-te des V-Attributes und DN-Attributes  S_HM_Diagnosegruppe (OID: 1.2.276.0.76.3.1.1.5.2.38). Das S-Attribut enthält immer den  Wert 1.2.276.0.76.3.1.1.5.2.38.
 
-Das Element <diagnosegruppe> enthält die optionalen Elemente <erlaeuterung>, <hin- weis_liste>, <erkrankung_liste> und <erforderliche_diagnosen> sowie die Pflichtelemente  <leitsymptomatik_liste> und <heilmittelverordnung>.
+Das Element <diagnosegruppe> enthält die optionalen Elemente <erlaeuterung>, <hin-weis_liste>, <erkrankung_liste> und <erforderliche_diagnosen> sowie die Pflichtelemente  <leitsymptomatik_liste> und <heilmittelverordnung>.
 
 entsprechen der Schlüsseltabelle
 
@@ -596,7 +597,7 @@ Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau:
 
 ## 5.4 erlaeuterung
 
-Das Element <erlaeuterung> stellt eine nähere Erläuterung zur Diagnosegruppe oder Leit- symptomatik dar. Das V-Attribut enthält den Text zur Erläuterung
+Das Element <erlaeuterung> stellt eine nähere Erläuterung zur Diagnosegruppe oder Leit-symptomatik dar. Das V-Attribut enthält den Text zur Erläuterung
 
 **Abbildung 5:** erlaeuterung
 
@@ -628,7 +629,7 @@ Der XML-Code für ein <hinweis_liste> Element hat folgenden Aufbau:
 
 ### 5.5.1 hinweis
 
-Das Element < hinweis> enthält einen Hinweis zur Diagnosegruppe . Im V-Attribut ist der Hin- weistext enthalten.
+Das Element < hinweis> enthält einen Hinweis zur Diagnosegruppe . Im V-Attribut ist der Hin-weistext enthalten.
 
 **Abbildung 7:** hinweis
 
@@ -709,9 +710,9 @@ Der XML-Code für ein <leitsymptomatik_liste> Element hat folgenden Aufbau:
 
 ## 5.8 leitsymptomatik
 
-Das Element <leitsymptomatik> enthält in dem V -Attribut die entsprechenden buchstabenko- dierten Leitsymptomatiken einer Diagnosegruppe texte. Das V- und DN-Attribut sind immer vorhanden.
+Das Element <leitsymptomatik> enthält in dem V -Attribut die entsprechenden buchstabenko-dierten Leitsymptomatiken einer Diagnosegruppe texte. Das V- und DN-Attribut sind immer vorhanden.
 
-Das Element <leitsymptomatik> kann das das optionale Element <erlaeuterung_liste> enthal- ten.
+Das Element <leitsymptomatik> kann das das optionale Element <erlaeuterung_liste> enthal-ten.
 
 **Abbildung 11:** leitsymptomatik
 
@@ -758,7 +759,7 @@ Siehe Abschnitt 5.4 erlaeuterung
 
 ## 5.10 patientenindividuelle_leitsymptomatik
 
-Das Element <patientenindividuelle_leitsymptomatik> kennzeichnet, ob für eine Diagnose- gruppe eine patientenindividuelle Leitsymptomatik angegeben werden kann. Das boolesche  V-Attribut ist immer vorhanden.
+Das Element <patientenindividuelle_leitsymptomatik> kennzeichnet, ob für eine Diagnose-gruppe eine patientenindividuelle Leitsymptomatik angegeben werden kann. Das boolesche  V-Attribut ist immer vorhanden.
 
 **Abbildung 13:** patientenindividuelle_leitsymptomatik
 
@@ -886,28 +887,22 @@ Der XML-Code für ein <vorrangiges_heilmittel> Element hat folgenden Aufbau:
 
 <reihenfolge>,  und
 
-<erforderli- <erforderli-
+<erforderli-<erforderli-
 
 
 ---
 
 ```
-**<mindestalter_jahre**
-**<hoechstalter_jahre**
+**<mindestalter_jahre V="..."/>**
+**<hoechstalter_jahre V="..."/>**
 **<erforderliche_diagnosen>**
 **<icd_code V="..."/>**
-**<icd_code**
+**<icd_code V="..."/>**
 **</erforderliche_diagnosen>**
 **</vorrangiges_heilmittel>**
 ```
 
 **XML-Code 16:** vorrangiges_heilmittel
-
-```
-**V="..."/>**
-**V="..."/>**
-**V="..."/>**
-```
 
 #### 5.11.1.2 name
 
@@ -964,7 +959,7 @@ Der XML-Code für ein <positionsnr> Element hat folgenden Aufbau:
 
 #### 5.11.1.4 massagetechnik
 
-Das Element <massagetechnik> dient der Kennzeichnung, ob ein Heilmittel eine Massage- technik ist. Wenn ein Heilmittel eine Massagetechnik darstellt, dann enthält das V-Attribute  den Wert „true“.
+Das Element <massagetechnik> dient der Kennzeichnung, ob ein Heilmittel eine Massage-technik ist. Wenn ein Heilmittel eine Massagetechnik darstellt, dann enthält das V-Attribute  den Wert „true“.
 
 **Abbildung 20:** massagetechnik
 
@@ -976,7 +971,7 @@ Der XML-Code für ein <massagetechnik> Element hat folgenden Aufbau:
 
 #### 5.11.1.5 reihenfolge
 
-Das Element <reihenfolge> definiert in welcher Reihenfolge dem Anwender die zu verordnen- den vorrangigen oder ergänzenden Heilmittel in der Software angezeigt werden sollen. Das V Attribut enthält immer einen Integerwert.
+Das Element <reihenfolge> definiert in welcher Reihenfolge dem Anwender die zu verordnen-den vorrangigen oder ergänzenden Heilmittel in der Software angezeigt werden sollen. Das V Attribut enthält immer einen Integerwert.
 
 **Abbildung 21:** reihenfolge
 
@@ -990,7 +985,7 @@ Der XML-Code für ein <reihenfolge> Element hat folgenden Aufbau:
 
 Das Element <erforderliche_leitsymptomatik wiesene Buchstabenkodierung der Leitsymptomatik des vorrangigen Heilmittels.
 
-Das verordnete vorrangige Heilmittel muss zur ausgewählten buchstabenkodierten Leitsymp- tomatik passen, wenn für ein bestimmtes Heilmittel dieses optionale Element definiert ist.
+Das verordnete vorrangige Heilmittel muss zur ausgewählten buchstabenkodierten Leitsymp-tomatik passen, wenn für ein bestimmtes Heilmittel dieses optionale Element definiert ist.
 
 **Abbildung 22:** erforderliche_leitsymptomatik
 
@@ -1033,7 +1028,7 @@ Der XML-Code für ein <hoechstalter_jahre> Element hat folgenden Aufbau:
 
 #### 5.11.1.9 erforderliche_diagnosen
 
-Das Element <erforderliche_diagnosen> definiert für ein vorrangiges Heilmittel eine Liste von  ICD-10-GM-Codes behandlungsfähiger Diagnosen. Die Angabe mindestens einer dieser Di- agnosen beim Verordnungsvorgang ist Voraussetzung für die Verordnungsfähigkeit dieses  vorrangigen Heilmittels.
+Das Element <erforderliche_diagnosen> definiert für ein vorrangiges Heilmittel eine Liste von  ICD-10-GM-Codes behandlungsfähiger Diagnosen. Die Angabe mindestens einer dieser Di-agnosen beim Verordnungsvorgang ist Voraussetzung für die Verordnungsfähigkeit dieses  vorrangigen Heilmittels.
 
 Das Element besitzt immer mindestens ein Kindelement <icd_code>.
 
@@ -1086,7 +1081,7 @@ Der XML-Code für ein <ergaenzendes_heilmittel_liste> Element hat folgenden Aufb
 
 Das Element <ergaenzendes_heilmittel> stellt ein zu verordnendes Ergänzendes Heilmittel  laut Heilmittelkatalog dar.
 
-Das Element besitzt immer das Kindelement <name>. Ebenso kann es die optionalen Kin- delemente <reihenfolge>,<positionsnr_liste> und/oder <massagetechnik> enthalten.
+Das Element besitzt immer das Kindelement <name>. Ebenso kann es die optionalen Kin-delemente <reihenfolge>,<positionsnr_liste> und/oder <massagetechnik> enthalten.
 
 umschließt eine Liste von <ergaenzen-
 
@@ -1137,14 +1132,14 @@ Siehe Abschnitt 5.11.1.4 massagetechnik
 
 ### 5.11.3 standardisierte_heilmittel_kombination
 
-Das Element <standardisierte_heilmittel_kombination> besitzt immer das Kindelement <na- me> sowie das optionale Kindelement <positionsnr_liste>
+Das Element <standardisierte_heilmittel_kombination> besitzt immer das Kindelement <na-me> sowie das optionale Kindelement <positionsnr_liste>
 
 **Abbildung 28:** standardisierte_heilmittel_kombination
 
 
 ---
 
-Der XML-Code für ein <standardisierte_heilmittel_kombination> Element hat folgenden Auf- bau:
+Der XML-Code für ein <standardisierte_heilmittel_kombination> Element hat folgenden Auf-bau:
 
 **<standardisierte_heilmittel_kombination>**
 
@@ -1170,7 +1165,7 @@ Siehe Abschnitt 5.11.1.2 name
 
 Siehe Abschnitt 5.11.1.3 positionsnr_liste
 
-Hinweis: Die enthaltene Positionsnummer muss angesetzt werden, sobald ei ne standardisier- te Heilmittelverordnung laut Heilmittelkatalog erfolgt. Einzelne Heilmittel werden dabei nicht  berechnet.
+Hinweis: Die enthaltene Positionsnummer muss angesetzt werden, sobald ei ne standardisier-te Heilmittelverordnung laut Heilmittelkatalog erfolgt. Einzelne Heilmittel werden dabei nicht  berechnet.
 
 ##### 5.11.3.2.1 positionsnr
 
@@ -1205,7 +1200,7 @@ Das Element <frequenzempfehlung> stellt die Frequenzempfehlung für die Verordnu
 
 Element <heilmittelverordnung>. In einer Instanz ist entweder die Frequenzempfehlung laut  Heilmittelkatalog oder eine alternative richtlinienkonforme Empfehlung
 
-Das Element besitzt immer das Kindelemente <minimale_anzahl>. Ebenso kann es die optio- nalen Kindelemente <maximale_anzahl> und <richtlinie> enthalten.
+Das Element besitzt immer das Kindelemente <minimale_anzahl>. Ebenso kann es die optio-nalen Kindelemente <maximale_anzahl> und <richtlinie> enthalten.
 
 **Abbildung 30:** frequenzempfehlung
 
@@ -1231,7 +1226,7 @@ frequenzempfehlung
 
 #### 5.11.4.2 frequenzempfehlungstyp
 
-Das Element <frequenzempfehlungstyp> definiert lungseinheiten pro Tag oder Woche oder als Anzahl von Wochen zwischen zwei Be- handlungseinheiten angegeben wird.
+Das Element <frequenzempfehlungstyp> definiert lungseinheiten pro Tag oder Woche oder als Anzahl von Wochen zwischen zwei Be-handlungseinheiten angegeben wird.
 
 **Abbildung 31:** frequenzempfehlungstyp
 
@@ -1263,7 +1258,7 @@ folgenden Aufbau:
 
 #### 5.11.4.3 minimale_anzahl
 
-Das Element < minimale_anzahl> kennzeichnet die empfohlene Anzahl oder empfohlene mi- nimale Anzahl, wenn auch eine maximale Anzahl definiert ist.
+Das Element < minimale_anzahl> kennzeichnet die empfohlene Anzahl oder empfohlene mi-nimale Anzahl, wenn auch eine maximale Anzahl definiert ist.
 
 **Abbildung 32:** minimale_anzahl
 
@@ -1281,27 +1276,23 @@ minimale_anzahl
 
 Das Element <maximale_anzahl> kennzeichnet die empfohlene maximale Anzahl.
 
-**Abbildung 33:**
+**Abbildung 33:** maximale_anzahl
 
-Der XML-Code für ein <
+Der XML-Code für ein <maximale_anzahl> Element hat folgenden Aufbau:
 
 **<maximale_anzahl**
 
 **XML-Code 33:**
 
-maximale_anzahl
-
-maximale_anzahl
-
+```
 **V="3"/>**
+```
 
 maximale_anzahl
 
 #### 5.11.4.5 richtlinie
 
-Das Element <richtlinie> kennzeichnet den originalen Richtlinienwert aus dem Heilmittelkata- log. Der Wert des booleschen V-Attributs besitzt in diesem Fall den Wert ‚true‘. Pro Frequenz- empfehlungsliste gibt es genau eine Frequenzempfehlung, die dem originalen Richtlinienwert  entspricht.
-
-> Element hat folgenden Aufbau:
+Das Element <richtlinie> kennzeichnet den originalen Richtlinienwert aus dem Heilmittelkata-log. Der Wert des booleschen V-Attributs besitzt in diesem Fall den Wert ‚true‘. Pro Frequenz-empfehlungsliste gibt es genau eine Frequenzempfehlung, die dem originalen Richtlinienwert  entspricht.
 
 **Abbildung 34:** richtlinie
 
@@ -1345,7 +1336,7 @@ Der XML-Code für ein <verordnungsmenge> Element hat folgenden Aufbau:
 
 ### 5.11.6 hoechstmenge_verordnung
 
-Das Element < hoechstmenge_verordnung> stellt die Menge der Behandlungseinheiten einer  Verordnung dar. Die Verordnungsmenge gilt für alle Heilmittel unter dem Element <heilmittel- verordnung>, außer für Heilmittel des Kapitels „V. Maßnahmen der Ernährungstherapie“. Im  V-Attribute ist die Verordnungsmenge laut Heilmittelkatalog enthalten.
+Das Element < hoechstmenge_verordnung> stellt die Menge der Behandlungseinheiten einer  Verordnung dar. Die Verordnungsmenge gilt für alle Heilmittel unter dem Element <heilmittel-verordnung>, außer für Heilmittel des Kapitels „V. Maßnahmen der Ernährungstherapie“. Im  V-Attribute ist die Verordnungsmenge laut Heilmittelkatalog enthalten.
 
 **Abbildung 36:** hoechstmenge_verordnung
 
@@ -1357,7 +1348,7 @@ Der XML-Code für ein <hoechstmenge_verordnung
 
 ### 5.11.7 orientierende_behandlungsmenge
 
-Das Element <orientierende_behandlungsmenge der Behandlungseinheiten im Rahmen eines Verordnungsfalls dar. Die orientierende Behand- lungsmenge gilt für alle Heilmittel unter dem Element <heilmittelverordnung>. Im V-Attribute  ist die orientierende Behandlungsverordnungsmenge laut Heilmittelkatalog enthalten.
+Das Element <orientierende_behandlungsmenge der Behandlungseinheiten im Rahmen eines Verordnungsfalls dar. Die orientierende Behand-lungsmenge gilt für alle Heilmittel unter dem Element <heilmittelverordnung>. Im V-Attribute  ist die orientierende Behandlungsverordnungsmenge laut Heilmittelkatalog enthalten.
 
 ```
 **V="..."/>**
@@ -1398,7 +1389,7 @@ Der XML-Code für ein <orientierende_behandlungs
 
 #### 5.11.7.1 orientierende_behandlungsmenge_hoechstalter
 
-Das Element <orientierende_behandlungs handlungsmenge der Behandlungseinheiten im Rahmen eines Verordnungsfalls dar, die bis  zu einem bestimmten Höchstalter der Patientin oder des Patienten verordnungsfähig ist. Die  orientierende Verordnungsmenge gilt für alle Heilmittel unter dem Element <heilmittelverord- nung>. Im V-Attribute ist die orientierende Verordnungsmenge laut Heilmittelkatalog enthalten.
+Das Element <orientierende_behandlungs handlungsmenge der Behandlungseinheiten im Rahmen eines Verordnungsfalls dar, die bis  zu einem bestimmten Höchstalter der Patientin oder des Patienten verordnungsfähig ist. Die  orientierende Verordnungsmenge gilt für alle Heilmittel unter dem Element <heilmittelverord-nung>. Im V-Attribute ist die orientierende Verordnungsmenge laut Heilmittelkatalog enthalten.
 
 **V="50"/>**
 
@@ -1414,12 +1405,12 @@ menge> Element hat folgenden Aufbau:
 
 **V="60"/>**
 
-<orientieren- <orientieren-
+<orientieren-<orientieren-
 
 
 ---
 
-Der XML-Code für ein < orientierende_behandlungsmenge_hoechstalter> Element hat folgen- den Aufbau:
+Der XML-Code für ein < orientierende_behandlungsmenge_hoechstalter> Element hat folgen-den Aufbau:
 
 **<orientierende_behandlungsmenge_hoechstalter V="60"/>**
 
@@ -1427,7 +1418,7 @@ Der XML-Code für ein < orientierende_behandlungsmenge_hoechstalter> Element hat
 
 #### 5.11.7.2 hoechstalter_jahre
 
-Das Element <hoechstalter_jahre> definiert ein Höchstalter für die Verordnungsfähigkeit der  im Element <orientierende_behandlungsmenge_hoechstalter> definierten orientierende Ver- ordnungsmenge innerhalb des Verordnungsfalls. Im V -Attribute ist das Höchstalter in Jahren  laut Heilmittelkatalog enthalten.
+Das Element <hoechstalter_jahre> definiert ein Höchstalter für die Verordnungsfähigkeit der  im Element <orientierende_behandlungsmenge_hoechstalter> definierten orientierende Ver-ordnungsmenge innerhalb des Verordnungsfalls. Im V -Attribute ist das Höchstalter in Jahren  laut Heilmittelkatalog enthalten.
 
 **Abbildung 39:** hoechstalter_jahre
 
@@ -1439,7 +1430,7 @@ Der XML-Code für ein <hoechstalter_jahre> Element hat folgenden Aufbau:
 
 #### 5.11.7.3 orientierende_behandlungsmenge_icd_code
 
-Das Element <orientierende_behandlungsmenge_icd_code> stellt die orientierende Behand- lungsmenge der Behandlungseinheiten im Rahmen eines Verordnungsfalls dar, die für be- stimmte behandlungsfähige Diagnosen verordnungsfähig ist. Die orientierende Verordnungs- menge gilt für alle Heilmittel unter dem Element <heilmittelverordnung>. Im V -Attribute ist die  orientierende Verordnungsmenge laut Heilmittelkatalog enthalten.
+Das Element <orientierende_behandlungsmenge_icd_code> stellt die orientierende Behand-lungsmenge der Behandlungseinheiten im Rahmen eines Verordnungsfalls dar, die für be-stimmte behandlungsfähige Diagnosen verordnungsfähig ist. Die orientierende Verordnungs-menge gilt für alle Heilmittel unter dem Element <heilmittelverordnung>. Im V -Attribute ist die  orientierende Verordnungsmenge laut Heilmittelkatalog enthalten.
 
 **Abbildung 40:** orientierende_behandlungsmenge_icd_code
 
@@ -1454,7 +1445,7 @@ Der XML-Code für ein < orientierende_behandlungsmenge_icd_code> Element hat fol
 
 #### 5.11.7.4 icd_code_liste
 
-Das Element <icd_code_liste> definiert die Liste der ICD -10-GM-Codes der behandlungsfähi- gen Diagnosen. Die Angabe mindestens einer dieser Diagnosen beim Verordnungsvorgang  ist Voraussetzung für die Verordnungsfähigkeit der im Element <orientieren- de_behandlungsmenge_icd_code> definierten orientierende Behandlungsmenge innerhalb  des Verordnungsfalls.
+Das Element <icd_code_liste> definiert die Liste der ICD -10-GM-Codes der behandlungsfähi-gen Diagnosen. Die Angabe mindestens einer dieser Diagnosen beim Verordnungsvorgang  ist Voraussetzung für die Verordnungsfähigkeit der im Element <orientieren-de_behandlungsmenge_icd_code> definierten orientierende Behandlungsmenge innerhalb  des Verordnungsfalls.
 
 **Abbildung 41:** icd_code_liste
 
@@ -1506,11 +1497,11 @@ Der XML-Code für ein <icd_code> Element hat folgenden Aufbau:
 
 ### 5.11.8 orientierende_behandlungsmenge_standardisiert
 
-Das Element <orientierende_behandlungsmenge_standardisiert> stellt die orientierende Be- handlungsmenge der standardisierten Behandlungseinheiten im Rahmen eines Verordnungs- falls dar. Die orientierende Behandlungsmenge gilt für die standardisierten Heilmittelkombina- tionen unter dem Element <heilmittelverordnung>. Im V-Attribute ist die orientierende Behand- lungsmenge laut Heilmittelkatalog enthalten.
+Das Element <orientierende_behandlungsmenge_standardisiert> stellt die orientierende Be-handlungsmenge der standardisierten Behandlungseinheiten im Rahmen eines Verordnungs-falls dar. Die orientierende Behandlungsmenge gilt für die standardisierten Heilmittelkombina-tionen unter dem Element <heilmittelverordnung>. Im V-Attribute ist die orientierende Behand-lungsmenge laut Heilmittelkatalog enthalten.
 
 **Abbildung 43:** orientierende_behandlungsmenge_standardisiert
 
-Der XML-Code für ein <orientierende_behandlungsmenge_standardisiert> Element hat fol- genden Aufbau:
+Der XML-Code für ein <orientierende_behandlungsmenge_standardisiert> Element hat fol-genden Aufbau:
 
 **<orientierende_behandlungsmenge_standardisiert V="12"/>**
 
@@ -1518,7 +1509,7 @@ Der XML-Code für ein <orientierende_behandlungsmenge_standardisiert> Element ha
 
 ### 5.11.9 orientierende_behandlungsmenge_massage
 
-Das Element < orientierende_behandlungsmenge_massage> stellt die orientierende Behand- lungsmenge von Massagebehandlungseinheiten im Rahmen eines Verordnungsfalls dar. Die  orientierende Behandlungsmenge gilt für die Massagen unter dem Element <heilmittelverord- nung>. Diese werden durch die Präsenz des Elements <massagetechnik> angezeigt (Kapitel  5.11.1.4 und 5.11.2.5). Im V-Attribute ist die orientierende Behandlungsmenge laut Heilmittel- katalog enthalten.
+Das Element < orientierende_behandlungsmenge_massage> stellt die orientierende Behand-lungsmenge von Massagebehandlungseinheiten im Rahmen eines Verordnungsfalls dar. Die  orientierende Behandlungsmenge gilt für die Massagen unter dem Element <heilmittelverord-nung>. Diese werden durch die Präsenz des Elements <massagetechnik> angezeigt (Kapitel  5.11.1.4 und 5.11.2.5). Im V-Attribute ist die orientierende Behandlungsmenge laut Heilmittel-katalog enthalten.
 
 **Abbildung 44:** orientierende_behandlungsmenge_massage
 
@@ -1535,7 +1526,7 @@ Das Element <erforderliche_diagnosen> definiert für eine Diagnosegruppe eine Li
 
 ---
 
-agnosen beim Verordnungsvorgang ist Voraussetzung für die Verordnungsfähigkeit der Heil- mittel, welche der Diagnosegruppe zugeordnet sind.
+agnosen beim Verordnungsvorgang ist Voraussetzung für die Verordnungsfähigkeit der Heil-mittel, welche der Diagnosegruppe zugeordnet sind.
 
 Das Element besitzt immer das Kindelement <icd_code>.
 

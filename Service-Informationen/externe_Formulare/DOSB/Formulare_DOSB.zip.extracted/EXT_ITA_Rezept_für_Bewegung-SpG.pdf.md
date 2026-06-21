@@ -22,7 +22,7 @@ Datum
 
 Bewegung kann Krankheiten   des Herz-Kreislauf- und des Stoff-
 
-wechselsystems sowie des Bewe - gungsapparates verhindern. Zudem
+wechselsystems sowie des Bewe -gungsapparates verhindern. Zudem
 
 reduziert Bewegung das Risiko für  Krebs, Diabetes Typ II und Demenz  und trägt zur Entspannung bei.
 
@@ -37,7 +37,7 @@ Stempel und Unterschrift Arzt Ärztin
 
 ---
 
-Sie haben die ärztliche Empfehlung, an einem Bewegungsangebot teilzu-  nehmen. Sämtliche Angebote in Ihrer Nähe ﬁnden Sie im Internet unter:
+Sie haben die ärztliche Empfehlung, an einem Bewegungsangebot teilzu- nehmen. Sämtliche Angebote in Ihrer Nähe ﬁnden Sie im Internet unter:
 
 www.bewegungslandkarte.de
 
@@ -47,9 +47,7 @@ Deutscher Olympischer Sportbund  Ressort Breiten- und Gesundheitssport
 
 #### Wöchentliche Bewegungsempfehlungen für Erwachsene und ältere Erwachsene
 
-**Ausdauer**
-
-***150 – 300*** Minuten pro Woche
+**Ausdauer** ***150 – 300*** Minuten pro Woche
 
 ***75 – 150*** Minuten pro Woche
 

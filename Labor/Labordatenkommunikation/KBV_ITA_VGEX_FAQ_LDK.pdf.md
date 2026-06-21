@@ -251,26 +251,13 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Antwort der KBV:*
 
-*Die Vorlagen können mit dem von der KBV bereitgestellten Schlüssel für Stammdateien,*  *BFB-Vorlagen etc. entschlüsselt werden. Alle bereits bei*  *Softwarehersteller können auf Anfrage diesen Schlüssel zur Entschlüsselung der Vo* *erhalten. Nicht zertifizierte Softwarehersteller können auf Anfrage bei der KBV die sog.*  *Modellvorlagen für Entwicklungszwecke erhalten. Bitte richten*  *[ita@kbv.de](mailto:ita@kbv.de)*
+*Die Vorlagen können mit dem von der KBV bereitgestellten Schlüssel für Stammdateien,*  *BFB-Vorlagen etc. entschlüsselt werden. Alle bereits bei der KBV zertifizierten*  *Softwarehersteller können auf Anfrage diesen Schlüssel zur Entschlüsselung der Vo rlagen*  *erhalten. Nicht zertifizierte Softwarehersteller können auf Anfrage bei der KBV die sog.*  *Modellvorlagen für Entwicklungszwecke erhalten. Bitte richten Sie Ihre Anfrage an*  *[ita@kbv.de](mailto:ita@kbv.de)*
 
-**Fragestellung: Wird in den Abrechnungsdaten übertragen,**  **übermittelt wurde?**
+**Fragestellung: Wird in den Abrechnungsdaten übertragen, ob ein Muster digital**  **übermittelt wurde?**
 
 *Antwort der KBV:*
 
 *Nein, die Abrechnungsdaten enthalten keinen Vermerk, in welcher Art und Weise*  *(konventionell, Blankovordruck oder digital) ein Muster vorlag.*
-
-*der KBV*
-
-*Sie Ihre*
-
-**ob ein Muster**
-
-*zertifizierten*  *rlagen*
-
-*Anfrage an*
-
-**digital**
-
 
 ---
 
@@ -296,7 +283,7 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Stellungnahme der KBV:*
 
-*Die KBV macht keine Aussage zu den nicht erwünschten Standards. Wenn der LDT*  *zertifiziert werden soll, dann geschieht dies im Verfahren Labordatenkommunikation (LDK)*  *dort wird der LDT 3 genutzt.*
+*Die KBV macht keine Aussage zu den nicht erwünschten Standards. Wenn der LDT*  *zertifiziert werden soll, dann geschieht dies im Verfahren Labordatenkommunikation (LDK)*   *dort wird der LDT 3 genutzt.*
 
 **Fragestellung: Ist der 01.01.2018 offizieller Starttermin für den LDT 3.0 Befund (Import +**  **Export)?**
 

@@ -30,6 +30,12 @@ gültig ab:
 
 2
 
+1.2.276.0.76.5.227
+
+1.01
+
+01.10.2025
+
 20
 
 3
@@ -52,11 +58,7 @@ gültig ab:
 |---|---|
 | 47 | KV-spezifische Verwendung |
 
-Seite 1 von 3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE 1.2.276.0.76.5.227
-
-1.01
-
-01.10.2025
+Seite 1 von 3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
 
 **Bezeichnung**
 

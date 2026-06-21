@@ -19,7 +19,7 @@ Das Ziel der Therapie der rheumatoiden Arthritis (RA) ist insbesondere eine Remi
 
 #### Aktuelle Krankheitsaktivität - DAS-28-Wert
 
-Zur Ermittlung der aktuellen Krankheitsaktivität füllen Sie bitte die unten genannten vier Parameter des DAS- 28 vollständig aus. **Der DAS-28 ist hierzu in Ihrer Praxisverwaltungs-Software (PVS) hinterlegt und kann**  **direkt über die Eingabemaske der PVS elektronisch ausgefüllt werden.** Alternativ ist der DAS-28 auch als  PDF-Datei abrufbar und ausdruckfähig integriert. Bei Verwendung des DAS-28 mittels der ausgedruckten PDF- Vorlage müssen die Werte nach dem Ausfüllen in die Eingabemaske der PVS übertragen werden
+Zur Ermittlung der aktuellen Krankheitsaktivität füllen Sie bitte die unten genannten vier Parameter des DAS-28 vollständig aus. **Der DAS-28 ist hierzu in Ihrer Praxisverwaltungs-Software (PVS) hinterlegt und kann**  **direkt über die Eingabemaske der PVS elektronisch ausgefüllt werden.** Alternativ ist der DAS-28 auch als  PDF-Datei abrufbar und ausdruckfähig integriert. Bei Verwendung des DAS-28 mittels der ausgedruckten PDF-Vorlage müssen die Werte nach dem Ausfüllen in die Eingabemaske der PVS übertragen werden
 
 #### Ausfüllen des DAS-28
 
@@ -141,7 +141,7 @@ Unter DMARDs (Disease-modifying anti-rheumatic drugs) wird eine Gruppe von Medik
 
 Geben Sie bitte an, ob Ihre Patientin oder Ihr Patient aktuell eine krankheitsmodifizierende Medikation  (DMARD) erhält.
 
-Geben Sie bitte **„Ja“** an, wenn aktuell ein oder mehrere DMARDs genommen werden (als Mono- oder  Kombinationsbehandlung mehrerer DMARDs). Geben Sie bitte **„Nein“** an, wenn aktuell keine DMARD- Therapie erfolgt. Erfolgt keine DMARD-Therapie weil eine Kontraindikation gegen diese besteht, geben Sie  bitte **„Kontraindikation“** an. Erfolgt keine DMARD-Therapie weil Sie mit Ihrer Patientin oder Ihrem Patienten  eine Therapiepause der DMARD -Therapie vereinbart haben, geben Sie bitte **„Therapiepause vereinbart“**  an.
+Geben Sie bitte **„Ja“** an, wenn aktuell ein oder mehrere DMARDs genommen werden (als Mono- oder  Kombinationsbehandlung mehrerer DMARDs). Geben Sie bitte **„Nein“** an, wenn aktuell keine DMARD-Therapie erfolgt. Erfolgt keine DMARD-Therapie weil eine Kontraindikation gegen diese besteht, geben Sie  bitte **„Kontraindikation“** an. Erfolgt keine DMARD-Therapie weil Sie mit Ihrer Patientin oder Ihrem Patienten  eine Therapiepause der DMARD -Therapie vereinbart haben, geben Sie bitte **„Therapiepause vereinbart“**  an.
 
 Die krankheitsmodifizierende Therapie mittels DMARDs soll unmittelbar nach Diagnosestellung begonnen  werden, denn ein früher Behandlungsbeginn hat einen günstigen Effekt auf die radiologische Progression, den  Erhalt und die Wiederherstellung der Funktionalität, das Erreichen einer anhaltenden Remission und die  Reduktion der Mortalität. Bei der Therapieentscheidung sollen die Krankheitsaktivität, die bestehenden  strukturellen Schäden, Komorbiditäten und Sicherheitsaspekte berücksichtigt werden.
 

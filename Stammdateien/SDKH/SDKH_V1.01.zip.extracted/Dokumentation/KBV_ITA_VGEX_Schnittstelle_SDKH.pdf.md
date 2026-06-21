@@ -143,7 +143,7 @@ Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Stammdatei Kod
 
 Die Schnittstelle für den Datenaustausch liegt im XML-Format vor. Sie ist zur ehd-Richtlinie  1.40 konform.
 
-Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail:  4005- 2121).
+Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen-ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver-tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail:  4005- 2121).
 
 [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /
 
@@ -185,7 +185,7 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element m
 
 ## 3.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
+Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
 | Symbol | Beschreibung |
 |---|---|
@@ -254,7 +254,7 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation  der diese Schni
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-i- bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
+Der header ist eine Untermenge vom header der EHD-i-bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
 
 -  Id-Element: Der Herausgeber der XML--Stammdatei ist die KBV, in das Dokument id Element sind folgende Daten anzugeben:
 - o id-Element im EX-Attribut steht eine eindeutige id (GUID)
@@ -284,10 +284,10 @@ Spezifikation. Die genaue Beschre
 
 z.B. “2010-01-01..“
 
--  Das provider-Element ist Pflichtelement und enthält Angaben zu der erstellenden Or- ganisation (KBV). Die Vorgaben im organization-Element enthalten:
+-  Das provider-Element ist Pflichtelement und enthält Angaben zu der erstellenden Or-ganisation (KBV). Die Vorgaben im organization-Element enthalten:
 - o organization.id-: Element EX- Attribut enthält die Nummer „74“, RT-t-Attribut en hält den String „“) 1.2.276.0.76.5.233
-- o (optional) organization.nm Name der Organization (“Kassenärztliche Bundes- vereinigung”)
-- o (optional) organization.addr-Element Adresse der Organisation („Herbertle- winstr 2, 10623 Berlin“)
+- o (optional) organization.nm Name der Organization (“Kassenärztliche Bundes-vereinigung”)
+- o (optional) organization.addr-Element Adresse der Organisation („Herbertle-winstr 2, 10623 Berlin“)
 - o (optional) organization.telecom- Element Telefonnummer der Organisation  („03040052121“)
 
 **Abbildung 4 Element provider**
@@ -323,7 +323,7 @@ Das Element ***<diagnosen_liste>*** beinhaltet eine Liste der Diagnosen.
 
 ### 4.3.1 diagnose
 
-Eine Diagnose enthält einen ICD-e- rien.
+Eine Diagnose enthält einen ICD-e-rien.
 
 <header> <id RT="1.2.276.0.76.5.3.1.1" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> document_type_cd V="SDKH"/> <service_tmr V="2011-01-01.."/> <origination_dttm V="2011-02-02"/> <provider> <organization> <id EX="74" RT="1.2.276.0.76.5.233"/> </provider> interface <id EX="SDKH" RT="1.2.276.0.76.5.109"/> <interface.nm V="Stammdatei Kodierhilfe"/> version V="1.00"/> </interface> 10 Kode, eine Liste mit Hinweisen und eine Liste mit Krit
 

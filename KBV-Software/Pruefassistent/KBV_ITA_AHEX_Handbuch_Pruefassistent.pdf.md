@@ -172,7 +172,7 @@ Tabellenverzeichnis
 
 # 1 Hinweise
 
-Der KBV-Prüfassistent vereint das KVDT-Prüfmodul und das Kryptomodul (XKM) unter einer gemeinsamen grafi- schen Oberfläche. Die Installation des Programms erfolgt im geführten Benutzerdialog.
+Der KBV-Prüfassistent vereint das KVDT-Prüfmodul und das Kryptomodul (XKM) unter einer gemeinsamen grafi-schen Oberfläche. Die Installation des Programms erfolgt im geführten Benutzerdialog.
 
 |  | Mit dem KBV-Prüfassistenten können neben dem aktuellen Quartal auch drei vorherige Abrechnungs- |
 |---|---|
@@ -197,11 +197,11 @@ g) Linux / Unix
 
 h) MAC OS
 
-Das Betriebssystem Windows 95 wird nicht mehr unterstützt. Der Grund hierfür liegt in der fehlenden Unterstüt- zung seitens der Firma Sun, welche die Java Laufzeitumgebung entwickelt.
+Das Betriebssystem Windows 95 wird nicht mehr unterstützt. Der Grund hierfür liegt in der fehlenden Unterstüt-zung seitens der Firma Sun, welche die Java Laufzeitumgebung entwickelt.
 
 ## 1.2 Haftung
 
-Eine Haftung der KBV für entgangenen Gewinn, unterbliebene Einsparungen, mittelbare Schäden und Folgeschä- den durch den Einsatz des KBV-Prüfmoduls ist ausgeschlossen. Die Haftung für Verlust von Daten durch den  Einsatz des KBV-Prüfmoduls ist ausgeschlossen. Der Arzt/ die Ärztin sind verpflicht kopien anzulegen.
+Eine Haftung der KBV für entgangenen Gewinn, unterbliebene Einsparungen, mittelbare Schäden und Folgeschä-den durch den Einsatz des KBV-Prüfmoduls ist ausgeschlossen. Die Haftung für Verlust von Daten durch den  Einsatz des KBV-Prüfmoduls ist ausgeschlossen. Der Arzt/ die Ärztin sind verpflicht kopien anzulegen.
 
 ## 1.3 Support
 
@@ -219,7 +219,7 @@ Das Installationspaket zum download befindet sich auf der ITA
 
 et, entsprechende Sicherungs-
 
--Seiten zur Verfügung. Unterstützungsleistungen kön- s die KBV auf
+-Seiten zur Verfügung. Unterstützungsleistungen kön-s die KBV auf
 
 -Update Webseite. Es kann direkt unter
 
@@ -510,7 +510,7 @@ olgende Si- cherheitsabfrage mit einem Klick auf , wenn Sie den Prüfassistenten
 
 # 5 Verzeichnisstruktur
 
-Im Installationsverzeichnis, das bei der Standardinstallation unter C: wird, befinden sich die Konfigurationsdateien für das Prüf Starten des Prüfassistenten benötigte Datei StartAssistenten.bat bzw. Assistent.exe für Windows Betriebssysteme  oder die Datei StartAssistenten.sh bei anderen Betriebssystemen bei. Die Konfigurationsdateien sind auf die Stan- dardstruktur, die vom Installationsprogramm erzeugt wird, abgestimmt. Hier sollten keine Änderungen vorgenom- men werden.
+Im Installationsverzeichnis, das bei der Standardinstallation unter C: wird, befinden sich die Konfigurationsdateien für das Prüf Starten des Prüfassistenten benötigte Datei StartAssistenten.bat bzw. Assistent.exe für Windows Betriebssysteme  oder die Datei StartAssistenten.sh bei anderen Betriebssystemen bei. Die Konfigurationsdateien sind auf die Stan-dardstruktur, die vom Installationsprogramm erzeugt wird, abgestimmt. Hier sollten keine Änderungen vorgenom-men werden.
 
 |  | UHinweis Gilt nur für Windows Installation: Aufgrund von Windows 7 und Windows Vista Restriktionen werden alle Ausgabelisten und Ausgabeda- |
 |---|---|
@@ -520,8 +520,6 @@ Die Verzeichnisstruktur des Installationsverzeichnisses hat folgenden Aufbau:
 ## 5.1 Ordner 'Bin'
 
 Dieser Ordner beinhaltet alle Java--Archive und eine DLL Datei, die zur Ausführung des KBV tigt werden.
-
-- und das Kryptomodul. Außerdem liegt hier die zum
 
 ## 5.2 Ordner 'Codiert'
 
@@ -533,7 +531,7 @@ Dieser Ordner beinhaltet das Anwenderhandbuch, die Textdatei „Lies_mich.txt“
 
 ## 5.4 Ordner 'Kbvtab'
 
-Dieser Ordner enthält nach Quartalen gruppierte Unterordner. D ten, die für die Prüfung benötigte werden.
+Dieser Ordner enthält nach Quartalen gruppierte Unterordner. Diese enthalten binäre Steuerdateien und Stammda-ten, die für die Prüfung benötigte werden.
 
 ## 5.5 Ordner 'Listen'
 
@@ -543,15 +541,13 @@ In diesem Ordner werden alle Ausgaben des Prüf PDF-Format erzeugt und können a
 
 Dieser Ordner enthält nach Quartalen gruppierte Unterordner. Diese enthalten Schemadateien, die für d benötigte werden.
 
-– eine Kopie der verschlüsselten und geprüften Abrech-
-
-iese enthalten binäre Steuerdateien und Stammda-
-
 - und Kryptomoduls generiert. Die Prüfmodullisten werden im  m externen Acrobat Reader betrachtet werden. Sie können aber
 
-\Programme\KBV\KBV Prüfassistent angelegt -Prüfassistenten benö-
+\Programme\KBV\KBV Prüfassistent angelegt  - und das Kryptomodul. Außerdem liegt hier die zum -Prüfassistenten benö-
 
-teien in einem separatem Verzeichnis generiert. Bei der Installation wird dieses Verzeichnis mit dem Namen KBV\Assistent angelegt. Das Verzeichnis finden Sie in dem jeweilige (Unter Windows 7 oder Windows Vista in c: in c:\Dokumente und Einstellungen \${BENUTZER_NAME}\). Alle Programmausgaben erfolgen nur in diesem Ordner bzw. Unterordner. Der KBV me installiert, sofern Sie dies bei der Installation nicht anders gewählt haben. \User\${BENUTZER_NAME}\, bei älteren Betriebssystemen -Prüfassistent selbst wird nach wie vor im Ordner Program- n Benutzer-Verzeichnis ie Prüfung
+– eine Kopie der verschlüsselten und geprüften Abrech-
+
+teien in einem separatem Verzeichnis generiert. Bei der Installation wird dieses Verzeichnis mit dem Namen KBV\Assistent angelegt. Das Verzeichnis finden Sie in dem jeweilige (Unter Windows 7 oder Windows Vista in c: in c:\Dokumente und Einstellungen \${BENUTZER_NAME}\). Alle Programmausgaben erfolgen nur in diesem Ordner bzw. Unterordner. Der KBV me installiert, sofern Sie dies bei der Installation nicht anders gewählt haben. n Benutzer-Verzeichnis \User\${BENUTZER_NAME}\, bei älteren Betriebssystemen -Prüfassistent selbst wird nach wie vor im Ordner Program-ie Prüfung
 
 
 ---
@@ -598,7 +594,7 @@ Daraufhin ist die Endan- zeige wieder sichtbar. Bestätigen Sie diese mit einem 
 | **7 Anhang ** | |
 | **7.1 Konfigurationsdateien** | Die Steuerung des KBV-Prüfassistenten erfolgt mit Hilfe zweier Konfigurationsdateien. Eine  Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem |
 
-Konfigurationsdatei zur Steuerung des Prüfmoduls und eine Konfigurationsdatei zur Steue- rung des Kryptomoduls. angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass keinerlei Anpassungen nötig sind. Die Konfigurationsdateien unter dem Betriebssystem Windows befinden sich im Benutzer- Verzeichnis. Beispielsweise: c:\Benutzer\%BENUTZER_NAME%\KBV\.  Bei dem Betriebssystem Windows gilt folgendes: Die Konfigurationsdateien im Installationsverzeichnis (c:\Programme nur beim ersten Start des KBV-Prüfassistenten eingelesen und unter dem Benutzerverzeich- nis abgelegt. Nur die Änderungen an diesen Konfigurationsdateien im Benutzerverzeichnis haben Auswirkungen auf den Programmablauf. 7.2 XPM Konfigurationsdatei Die Konfigurationsdatei für das Prüfmodul folgende Konfigurationsschalter: mit dem Namen ’konfigPruefmodul.xml’ bzw. ’konfigXPM.xml’ gegebenen maximalen Wert begrenzen. Dokumentation ‚E015_XPM -KVDT_Ergaenzungshandbuch.pdf’, die im KVDT-Prüfpaket enthalten ist. den Dokumenten Schein Abgabeliste und Doku Abgabeliste statt des Patientennamens und Vornamens die systeminterne Patientennummer \KBV\Assistent) werden
+Konfigurationsdatei zur Steuerung des Prüfmoduls und eine Konfigurationsdatei zur Steue- rung des Kryptomoduls. angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass keinerlei Anpassungen nötig sind. Die Konfigurationsdateien unter dem Betriebssystem Windows befinden sich im Benutzer- Verzeichnis. Beispielsweise: c:\Benutzer\%BENUTZER_NAME%\KBV\.  Bei dem Betriebssystem Windows gilt folgendes: Die Konfigurationsdateien im Installationsverzeichnis (c:\Programme \KBV\Assistent) werden nur beim ersten Start des KBV-Prüfassistenten eingelesen und unter dem Benutzerverzeich- nis abgelegt. Nur die Änderungen an diesen Konfigurationsdateien im Benutzerverzeichnis haben Auswirkungen auf den Programmablauf. 7.2 XPM Konfigurationsdatei Die Konfigurationsdatei für das Prüfmodul mit dem Namen ’konfigPruefmodul.xml’ bzw. ’konfigXPM.xml’ folgende Konfigurationsschalter: gegebenen maximalen Wert begrenzen. Dokumentation ‚E015_XPM -KVDT_Ergaenzungshandbuch.pdf’, die im KVDT-Prüfpaket enthalten ist. den Dokumenten Schein Abgabeliste und Doku Abgabeliste statt des Patientennamens und Vornamens die systeminterne Patientennummer
 
 ---
 

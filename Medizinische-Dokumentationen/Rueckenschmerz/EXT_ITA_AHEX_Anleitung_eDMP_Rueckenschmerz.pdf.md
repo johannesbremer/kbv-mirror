@@ -63,7 +63,7 @@ NSAR und COX-2-Hemmer sollen dabei **so kurzzeitig**
 
 **Niedrigste Dosis so kurzzeitig wie möglich** unter
 
-kreuzschmerzbedingte Schmerzmedikation mit Nicht- oder **„Bei Bedarf** erfolgt. Bitte beachten Sie, dass  ist. Erfolgt aktuell keine aktuelle kreuzschmerzbedingte
+kreuzschmerzbedingte Schmerzmedikation mit Nicht-oder **„Bei Bedarf** erfolgt. Bitte beachten Sie, dass  ist. Erfolgt aktuell keine aktuelle kreuzschmerzbedingte
 
 ## Schulung
 

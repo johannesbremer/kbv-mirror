@@ -75,23 +75,23 @@ die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-
 
 Dieser Anforderungskatalog gilt für Software, die in Vertragsarztpraxen zur Erstellung des  KVDT1 eingesetzt wird. Diese Abrechnungssoftware2 muss vor ihrem Einsatz durch die KBV  zugelassen werden.
 
-Im Rahmen der Zulassung muss zusätzlich zu den im KVDT-Anforderungskatalog definierten  Funktionen nachgewiesen werden, dass die Abrechnungssoftware in der Lage ist, die vertrags- ärztlichen Formulare korrekt zu bedrucken.
+Im Rahmen der Zulassung muss zusätzlich zu den im KVDT-Anforderungskatalog definierten  Funktionen nachgewiesen werden, dass die Abrechnungssoftware in der Lage ist, die vertrags-ärztlichen Formulare korrekt zu bedrucken.
 
-Die Anforderungen werden nach Pflichtfunktionen, konditionalen Pflichtfunktionen oder optio- nale Funktionen unterschieden.
+Die Anforderungen werden nach Pflichtfunktionen, konditionalen Pflichtfunktionen oder optio-nale Funktionen unterschieden.
 
 **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
-**Konditionale Pflichtfunktionen** müssen implementiert werden, wenn alle genannten Bedin- gungen zu dieser Funktion erfüllt sind.
+**Konditionale Pflichtfunktionen** müssen implementiert werden, wenn alle genannten Bedin-gungen zu dieser Funktion erfüllt sind.
 
 **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen, der implementierten optionalen Funktionen sowie der  konditionalen Pflichtfunktionen ist im Rahmen des Gutachterverfahrens nachzuweisen.
 
-Weitere Funktionen sind zulässig, sofern sie nicht im Widerspruch zu den im Anforderungska- talog getroffenen Vorgaben und gesetzlichen Regelungen stehen.
+Weitere Funktionen sind zulässig, sofern sie nicht im Widerspruch zu den im Anforderungska-talog getroffenen Vorgaben und gesetzlichen Regelungen stehen.
 
 **Vorschriftsmäßigkeit**
 
-Geprüft wird vertragskonformes Funktionieren der Abrechnungsprogramme im Sinne der gül- tigen Vorschriften.
+Geprüft wird vertragskonformes Funktionieren der Abrechnungsprogramme im Sinne der gül-tigen Vorschriften.
 
 **Erläuterung der Funktionsdarstellung**
 
@@ -115,7 +115,7 @@ Ident-Nummer einer optionalen Funktion
 
 Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist.
 
-1 KVDT (=Kassenärztliche Vereinigung DatenTransfer) ermöglicht die gebündelte Übertragung von (Kurärztlichen) Abrechnungs- daten (ADT und KADT), sowie von Daten, die im Rahmen der "Abrechnung von  tiert werden.
+1 KVDT (=Kassenärztliche Vereinigung DatenTransfer) ermöglicht die gebündelte Übertragung von (Kurärztlichen) Abrechnungs-daten (ADT und KADT), sowie von Daten, die im Rahmen der "Abrechnung von  tiert werden.
 
 2 Abrechnungssoftware im Sinne des KBV Weiterverarbeitung oder Ausgabe von Daten, die im Rahmen der
 
@@ -132,7 +132,7 @@ Schwangerschaftsabbrüchen“ (SADT) dokumen-
 
 Grundsätzliche Informationen zur Bedruckung von vertragsärztlichen Formularen entnehmen  Sie bitte der „Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“  „Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung“ *Vordruckerläuterungen* [3]
 
-Ebenso können sich auch Funktionen fü r die Formularbedruckung aus den Vordruckerläute- rungen ergeben. Daher können einzelne Funktionen auch Verweise auf die Vordruckerläute- rungen enthalten. Diese Verweise werden in diesem Dokument in der Form  *52.1* angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer  des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen Musters  (in dem Beispiel Hinweis 1 zum Feld *Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits-* *unfähigkeit?* des Musters 52)
+Ebenso können sich auch Funktionen fü r die Formularbedruckung aus den Vordruckerläute-rungen ergeben. Daher können einzelne Funktionen auch Verweise auf die Vordruckerläute-rungen enthalten. Diese Verweise werden in diesem Dokument in der Form  *52.1* angegeben. Wobei die erste Zahl (Zahl vor dem Punkt) auf das Muster (in dem Beispiel  Muster 52) verweist. Die optionale zweite Zahl (Zahl nach dem Punkt) verweist auf die Nummer  des Hinweises in den Vordruckerläuterungen des mit der ersten Zahl angege benen Musters  (in dem Beispiel Hinweis 1 zum Feld *Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits-* *unfähigkeit?* des Musters 52)
 
 **2.1 Bedruckung des Personalienfeldes**
 
@@ -148,18 +148,18 @@ Eine Änderung der Zeichengröße im Personalienfeld über das Praxisverwaltungs
 
 Priorisierung der Straßenadresse
 
-Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- und/oder einer  Postfachadresse definiert. Falls beide Adresstypen auf einer eGK vorhanden sind, hat die Stra- ßenadresse im Rahmen der Bedruckung des Personalienfeldes Priorität,  Druckpositionen“ in der Technischen Anlage zur Anlage 4a (BMV ping_KVK] sowie Erläuterung zu Feld FK 3107 (Straße), Kapitel 6 in  satzbeschreibung_KVDT]
+Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- und/oder einer  Postfachadresse definiert. Falls beide Adresstypen auf einer eGK vorhanden sind, hat die Stra-ßenadresse im Rahmen der Bedruckung des Personalienfeldes Priorität,  Druckpositionen“ in der Technischen Anlage zur Anlage 4a (BMV ping_KVK] sowie Erläuterung zu Feld FK 3107 (Straße), Kapitel 6 in  satzbeschreibung_KVDT]
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
 | **P7-20** | **Zweite Namenszeile** |
 
-- (1) Die zweite Namenszeile wird durch die Aneinanderreihung von Titel, Vorname, Namens- zusatz und Vorsatzwort gebildet (in dieser Reihenfolge). Die Trennung der jeweiligen Fel- dinhalte erfolgt durch je ein Blank.
-- (2) Ist diese Zeile länger als 21 Zeichen, so werden die restlichen Zeichen im Ausdruck unter- drückt.
+- (1) Die zweite Namenszeile wird durch die Aneinanderreihung von Titel, Vorname, Namens-zusatz und Vorsatzwort gebildet (in dieser Reihenfolge). Die Trennung der jeweiligen Fel-dinhalte erfolgt durch je ein Blank.
+- (2) Ist diese Zeile länger als 21 Zeichen, so werden die restlichen Zeichen im Ausdruck unter-drückt.
 
 Anlage 4a
 
--Ä) [KBV_ITA_VGEX_Map- [KBV_ITA_VGEX_Daten-
+-Ä) [KBV_ITA_VGEX_Map-[KBV_ITA_VGEX_Daten-
 
 [2] bzw. der  (kurz
 
@@ -176,15 +176,15 @@ Details siehe Kapitel
 |---|---|
 | **KP7-30** | **Bedruckung mit dem TSS-Kennzeichen** |
 
-Die Software muss bei der Bedruckung von Vordrucken, welche von Krankenhäusern, die Leis- tungen im Rahmen des § 75 Absatz 1a SGB V (Terminservicestelle (TSS)) erbringen, ausge- stellt werden, im Personalienfeld ein TSS-Kennzeichen aufdrucken können.
+Die Software muss bei der Bedruckung von Vordrucken, welche von Krankenhäusern, die Leis-tungen im Rahmen des § 75 Absatz 1a SGB V (Terminservicestelle (TSS)) erbringen, ausge-stellt werden, im Personalienfeld ein TSS-Kennzeichen aufdrucken können.
 
 **Begründung:**
 
-In der Anlage 28 zum BMV-Ä in §7 Abs. 8 ist geregelt, dass das TSS -Kennzeichen („7“) von  Krankenhäusern, die Leistungen im Rahmen des § 75 Absatz 1a SGB V erbringen, im Perso- nalienfeld von Vorducken gedruckt werden muss
+In der Anlage 28 zum BMV-Ä in §7 Abs. 8 ist geregelt, dass das TSS -Kennzeichen („7“) von  Krankenhäusern, die Leistungen im Rahmen des § 75 Absatz 1a SGB V erbringen, im Perso-nalienfeld von Vorducken gedruckt werden muss
 
 **Akzeptanzkriterium:**
 
-- Die Software ermöglicht nur Krankenhäusern, die Leistungen im Rahmen des § 75 Ab- satz 1a SGB V erbringen, den Ausdruck des TSS-Kennzeichens.
+- Die Software ermöglicht nur Krankenhäusern, die Leistungen im Rahmen des § 75 Ab-satz 1a SGB V erbringen, den Ausdruck des TSS-Kennzeichens.
 - Die Software muss im Personalienfeld der Vordrucke das TSS Kennzeichen „7“ in Zeile  6 Druckposition 30 drucken können.
 - Die Software muss im Personalienfeld der Vordrucke in Zeile 6 Druckposition 29 eine  „0“ oder im Rahmen einer Ersatzverordnung eine „1“ drucken.
 
@@ -192,16 +192,16 @@ In der Anlage 28 zum BMV-Ä in §7 Abs. 8 ist geregelt, dass das TSS -Kennzeiche
 |---|---|
 | **KP7-31** | **Bedruckung mit dem Entlassmanagement** |
 
-Die Software muss bei der Bedruckung von Vordrucken, welche im Rahmen des Entlassma- nagements ausgestellt werden, im Statusfeld des Personalienfelds das Entlassmanagement- Kennzeichen „4“ aufdrucken können.
+Die Software muss bei der Bedruckung von Vordrucken, welche im Rahmen des Entlassma-nagements ausgestellt werden, im Statusfeld des Personalienfelds das Entlassmanagement-Kennzeichen „4“ aufdrucken können.
 
 **Begründung:**
 
-In § 6 Abs. 6 des Rahmenvertrags Entlassmanagement nach § 39 Abs. 1a S. 9 SGB V ist ge- regelt, dass für die gesonderte Kennzeichnung der Formulare das einstellige Kennzeichen „4“  gemäß des in der Technischen Anlage (Anlage 2) abgebildeten Musterbeispiels fü r die Be- druckung einzutragen ist.
+In § 6 Abs. 6 des Rahmenvertrags Entlassmanagement nach § 39 Abs. 1a S. 9 SGB V ist ge-regelt, dass für die gesonderte Kennzeichnung der Formulare das einstellige Kennzeichen „4“  gemäß des in der Technischen Anlage (Anlage 2) abgebildeten Musterbeispiels fü r die Be-druckung einzutragen ist.
 
 **Akzeptanzkriterium:**
 
-- Die Software ermöglicht im Rahmen des Entlassmangements den Ausdruck des Ent- lassmanagement-Kennzeichens.
-- Die Software muss im Personalienfeld der Vordrucke das Entlassmanagement -Kenn- zeichen „4“ in Zeile 6 Druckposition 30 drucken können.
+- Die Software ermöglicht im Rahmen des Entlassmangements den Ausdruck des Ent-lassmanagement-Kennzeichens.
+- Die Software muss im Personalienfeld der Vordrucke das Entlassmanagement -Kenn-zeichen „4“ in Zeile 6 Druckposition 30 drucken können.
 - Die Software muss im Personalienfeld der Vordrucke in Zeile 6 Druckposition 29 eine  „0“ oder im Rahmen einer Ersatzverordnung eine „1“ drucken.
 
 **Bedingung:**
@@ -215,22 +215,18 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme die nicht 
 
 ### 2.1.1 Sonstige Kostenträger
 
-Die bundeseinheitlichen Vorgaben der KBV zur Bedruckung des Personalienfeldes vertrags- ärztlicher Formulare bei „Sonstigen Kostenträgern“ beziehen sich lediglich auf die erste Druck- zeile, sofern die Angaben zum Versicherten nicht auf Basis einer Versichertenkarte werden. Die Bedruckung des Personalienfeldes orientiert sich in der Regel am o.a. Beispiel. In  Zweifelsfällen wird empfohlen, Auskunft über die jeweilige Kassenärztliche Vereinigung einzu- holen.
+Die bundeseinheitlichen Vorgaben der KBV zur Bedruckung des Personalienfeldes vertrags-ärztlicher Formulare bei „Sonstigen Kostenträgern“ beziehen sich lediglich auf die erste Druck-zeile, sofern die Angaben zum Versicherten nicht auf Basis einer Versichertenkarte werden. Die Bedruckung des Personalienfeldes orientiert sich in der Regel am o.a. Beispiel. In  Zweifelsfällen wird empfohlen, Auskunft über die jeweilige Kassenärztliche Vereinigung einzu-holen.
 
-Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT Personalienfeld (z.B. Aktenzeichen bei Sozialämtern) gilt für den Ausdruck bei Sonstigen Kos- tenträgern, die keine Versichertenkarten ausgeben, folgende Regelung für den Ausdruck des  Inhaltes des Feldes 4124 (SKT-Zusatzangaben):
+Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT Personalienfeld (z.B. Aktenzeichen bei Sozialämtern) gilt für den Ausdruck bei Sonstigen Kos-tenträgern, die keine Versichertenkarten ausgeben, folgende Regelung für den Ausdruck des  Inhaltes des Feldes 4124 (SKT-Zusatzangaben):
 
 | PFLICHTFUNKTION ADT | |
 |---|---|
 | **P7-45** | Ausdruck Inhalt des Feldes 4124 (SKT |
 
-- (1) In Analogie zum Ausdruck des Inhaltes der Felder 3105 (Versichertennummer des Patien- ten) bzw. 3119 (Versichertennummer eGK des Patienten) in den hierfür vorgesehenen Be- reich des Personalienfeldes "Versicherten-Nr." (max. 12 Stellen) muss der Inhalt des Fel- des 4124 dort gedruckt werden.
+- (1) In Analogie zum Ausdruck des Inhaltes der Felder 3105 (Versichertennummer des Patien-ten) bzw. 3119 (Versichertennummer eGK des Patienten) in den hierfür vorgesehenen Be-reich des Personalienfeldes "Versicherten-Nr." (max. 12 Stellen) muss der Inhalt des Fel-des 4124 dort gedruckt werden.
 - (2) Ist der Inhalt des Feldes 4124 größer als 12 Stellen, muss der Ausdruck ab der 13. Stelle
 - unterdrückt werden.
 - (3) Von den Kassenärztlichen Vereinigungen hiervon abweichend definierte Druckvorgaben  haben Vorrang.
-
-```
--
-```
 
 3 d.h. Versichertenkarte oder ein Behandlungsausweis, auf dem die Angaben der Versichertenkarte umgedruckt sind.
 
@@ -267,16 +263,16 @@ standardmäßig wie folgt unterstützen
 
 **Begründung:**
 
-Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen bei Versand sowie Hausbe- suchen und Krankenbeförderungen müssen die oben genannten vertragsärztlichen Formulare  mit den von der Krankenversichertenkarte (KVK) abweichenden aktuellen Namens und Adres- sinformationen bedruckt werden können, da die von einer KVK eingelesenen Informationen  nicht immer den tatsächlichen Namens- und Adressinformationen der Patientin oder dem Pa- tienten entsprechen.
+Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen bei Versand sowie Hausbe-suchen und Krankenbeförderungen müssen die oben genannten vertragsärztlichen Formulare  mit den von der Krankenversichertenkarte (KVK) abweichenden aktuellen Namens und Adres-sinformationen bedruckt werden können, da die von einer KVK eingelesenen Informationen  nicht immer den tatsächlichen Namens- und Adressinformationen der Patientin oder dem Pa-tienten entsprechen.
 
 **Akzeptanzkriterium:**
 
 - 1. Wenn eine eGK eingelesen wurde, dann muss die Software das Personalienfeld aller  vertragsärztlichen Formulare immer mit den Namens- und Adressinformationen der  eGK bedrucken.
-- a. Die Software unterbindet, dass die vom Anwender erfassten und von eGK ab- weichenden Namens- und Adressinformationen zur Bedruckung verwendet  werden.
+- a. Die Software unterbindet, dass die vom Anwender erfassten und von eGK ab-weichenden Namens- und Adressinformationen zur Bedruckung verwendet  werden.
 - 2. Die Software muss es dem Anwender ermöglichen von der KVK abweichende Namens und Adressinformationen im System zu erfassen und zu speichern.
-- 3. Die in der Software hinterlegten abweichenden Namens- und Adressinformationen dür- fen nicht standardmäßig bzw. automatisch beim erneuten Einlesen einer KVK über- schrieben und/oder gelöscht werden.
+- 3. Die in der Software hinterlegten abweichenden Namens- und Adressinformationen dür-fen nicht standardmäßig bzw. automatisch beim erneuten Einlesen einer KVK über-schrieben und/oder gelöscht werden.
 - 4. Der Anwender wird von der Software beim Einlesen einer KVK darauf hingewiesen,  wenn in der Software bereits abweichende Namens- und Adressinformation hinterlegt  sind.
-- und Adressinformationen- 5. Gibt der Patient eine von der KVK abweichende Namens- oder Adressinformationen  an, muss die Software das Personalienfeld der oben genannten vertragsärztlichen For- mulare standardmäßig mit diesen Angaben anstatt der Daten auf der Versichertenkarte  bedrucken.
+- und Adressinformationen- 5. Gibt der Patient eine von der KVK abweichende Namens- oder Adressinformationen  an, muss die Software das Personalienfeld der oben genannten vertragsärztlichen For-mulare standardmäßig mit diesen Angaben anstatt der Daten auf der Versichertenkarte  bedrucken.
 
 
 ---
@@ -295,7 +291,7 @@ Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formu
 |---|---|
 | **KP7-82** | Ausdruck von Namens- und Adressinformationen bei den Mustern |
 
-Bei Überweisungs- /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi- chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
+Bei Überweisungs- /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi-chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
 
 **Bedingung:**
 
@@ -303,9 +299,9 @@ Die Umsetzungspflicht besteht für alle Systeme mit Arzt-Patienten-Kontakt und U
 
 **Hinweis:**
 
-Hintergrund dieser Maßnahme ist, dass die Versicherten-/Vertragsdaten auch so zur Abrech- nung kommen, wie sie bei den Krankenkassen gemeldet sind. Hier kam es in der Vergangen- heit zu Zahlungsproblemen mit einigen Krankenkassen.
+Hintergrund dieser Maßnahme ist, dass die Versicherten-/Vertragsdaten auch so zur Abrech-nung kommen, wie sie bei den Krankenkassen gemeldet sind. Hier kam es in der Vergangen-heit zu Zahlungsproblemen mit einigen Krankenkassen.
 
-Ein zweiter wichtiger Punkt ist der Fremdkassenzahlungsausgleich zwischen den KVen. Die  KV, in deren Wirkungsbereich der Versicherte seinen (Versichertenkarten -)Wohnsitz hat, be- kommt auch die Kopfpauschale von der Krankenkasse. Hat der Versicherte einen Zw sitz in einem anderen KV-Bereich und geht dort zum Arzt, muss die originale Versichertenkar- ten-Adresse für die Abrechnung verwendet werden, damit die Arzt -KV weiß, von welcher KV  sie sich die Behandlungskosten erstatten lassen kann. Wird für die Abr den KV-Bereich die Versichertenkarte-abweichende Zweitadresse verwendet, würde gar nicht  auffallen, dass es sich um einen sogenannten “FKZ Fall“ handelt.
+Ein zweiter wichtiger Punkt ist der Fremdkassenzahlungsausgleich zwischen den KVen. Die  KV, in deren Wirkungsbereich der Versicherte seinen (Versichertenkarten -)Wohnsitz hat, be-kommt auch die Kopfpauschale von der Krankenkasse. Hat der Versicherte einen Zw sitz in einem anderen KV-Bereich und geht dort zum Arzt, muss die originale Versichertenkar-ten-Adresse für die Abrechnung verwendet werden, damit die Arzt -KV weiß, von welcher KV  sie sich die Behandlungskosten erstatten lassen kann. Wird für die Abr den KV-Bereich die Versichertenkarte-abweichende Zweitadresse verwendet, würde gar nicht  auffallen, dass es sich um einen sogenannten “FKZ Fall“ handelt.
 
 **2.2 Ausdruck von ICD-10-Diagnosen**
 
@@ -317,7 +313,7 @@ Die Software muss die Formatvorgaben für den Ausdruck von ICD
 
 **Begründung:**
 
-Die Angabe und Übermittlung von ICD-10-Diagnosen ist in § 295 SGB V, ergänzt um die Vor- gaben des Deutschen Instituts für Medizinische Dokumentation und Information (DIMDI), ge- regelt.
+Die Angabe und Übermittlung von ICD-10-Diagnosen ist in § 295 SGB V, ergänzt um die Vor-gaben des Deutschen Instituts für Medizinische Dokumentation und Information (DIMDI), ge-regelt.
 
 **Akzeptanzkriterium:**
 
@@ -348,11 +344,11 @@ Die Informationen werden durch ein Leerzeichen voneinander getrennt. Die Softwar
 |---|---|
 | **KP7-95** | Ausdruck von Datumsangaben mit erweitertem |
 
-Die Software muss den Ausdruck von Datumsangaben mit erweitertem Wertebereich für For- mularinhalte unterstützen.
+Die Software muss den Ausdruck von Datumsangaben mit erweitertem Wertebereich für For-mularinhalte unterstützen.
 
 **Begründung:**
 
-Vertragsärztliche Formulare müssen auch dann ausgedruckt werden können, wenn eine Da- tumsangabe nicht oder nur unvollständig bekannt ist.
+Vertragsärztliche Formulare müssen auch dann ausgedruckt werden können, wenn eine Da-tumsangabe nicht oder nur unvollständig bekannt ist.
 
 **Akzeptanzkriterium:**
 
@@ -382,13 +378,13 @@ Die Software muss diese Formate für die Formularinhalte der folgenden Muster un
 
 Unterstützt die Abrechnungssoftware das Bedrucken von Muster 16 über das Personalienfeld  hinaus, so gilt:
 
-- (1) Auf dem Rezept müssen die Ankreuzfelder 6 -  sprechenden Ziffern („6“, „7“, „8“, „9“) gekennzeichnet werden.
+- (1) Auf dem Rezept müssen die Ankreuzfelder 6 - sprechenden Ziffern („6“, „7“, „8“, „9“) gekennzeichnet werden.
 
 ```
 -
 ```
 
-- (2) Das Formularkennzeichen „666 “ darf wegen möglicher Leseprobleme in den Apotheken- rechenzentren nicht überdruckt werden.
+- (2) Das Formularkennzeichen „666 “ darf wegen möglicher Leseprobleme in den Apotheken-rechenzentren nicht überdruckt werden.
 
 Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemotherapie des Geni- Letzte Periode - 9 statt mit einem Kreuz („X“) mit den ent-
 
@@ -403,7 +399,7 @@ Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemother
 
 Unterstützt die Abrechnungssoftware das Bedrucken von Muster 10A, so gilt:
 
--  Bei Bedruckung des konventionellen Musters 10A muss die Abrechnungssoftware in  der Lage sein, wie sonst nur bei den BFB-Formularen üblich, den für das Muster 10A  definierten Barcode PDF-417 generieren zu können.  Alternativ kann der Ausdruck von Muster 10A per Nadeldrucker und auch ohne Bar- code praktiziert werden.  Die Spezifikation des Barcodes4 als auch seiner Inhalte entsprechen dem Muster 10A  in der BFB-Version und sind in dem Technischen Handbuch BFB definiert.
+-  Bei Bedruckung des konventionellen Musters 10A muss die Abrechnungssoftware in  der Lage sein, wie sonst nur bei den BFB-Formularen üblich, den für das Muster 10A  definierten Barcode PDF-417 generieren zu können.  Alternativ kann der Ausdruck von Muster 10A per Nadeldrucker und auch ohne Bar-code praktiziert werden.  Die Spezifikation des Barcodes4 als auch seiner Inhalte entsprechen dem Muster 10A  in der BFB-Version und sind in dem Technischen Handbuch BFB definiert.
 -  Bei Verwendung des Barcodes PDF 417 ist sicherzustellen, dass dieser nicht ohne  Auftragsdaten generiert werden kann.
 
 **2.6 Besonderheiten bei Arbeitsunfällen**
@@ -412,10 +408,10 @@ Unterstützt die Abrechnungssoftware das Bedrucken von Muster 10A, so gilt:
 |---|---|
 | **KP7-80** | Muster 4 und 16 bei Arbeitsunfällen |
 
-Unterstützt die Abrechnungssoftware das Bedrucken von Muster 4 oder 16 über das Persona- lienfeld hinaus, so gilt:
+Unterstützt die Abrechnungssoftware das Bedrucken von Muster 4 oder 16 über das Persona-lienfeld hinaus, so gilt:
 
-- (1) auf Muster 16 (Rezept ) ist das entsprechende Ankreuzfeld bei Arbeitsunfällen zu kenn- zeichnen;
-- (2) auf Muster 16 (Rezept) und auf Muster 4 (Krankentransportschein) dürfen bei Arbeitsun- fällen **weder IK noch VKNR** ausgedruckt werden. Statt des Kassennamens des Kosten- trägers der gesetzlichen Krankenversicherung (GKV) ist der Name des Unfallversiche- rungsträgers aufzudrucken.
+- (1) auf Muster 16 (Rezept ) ist das entsprechende Ankreuzfeld bei Arbeitsunfällen zu kenn-zeichnen;
+- (2) auf Muster 16 (Rezept) und auf Muster 4 (Krankentransportschein) dürfen bei Arbeitsun-fällen **weder IK noch VKNR** ausgedruckt werden. Statt des Kassennamens des Kosten-trägers der gesetzlichen Krankenversicherung (GKV) ist der Name des Unfallversiche-rungsträgers aufzudrucken.
 
 **2.7 Warnhinweis bei Nichtvorlage des Versicherungsnachweises**
 
@@ -423,11 +419,11 @@ Unterstützt die Abrechnungssoftware das Bedrucken von Muster 4 oder 16 über da
 |---|---|
 | **KP7-90** | Warnhinweis bei Nichtvorlage Versicherungsnachweis |
 
-Falls ein Anwender ein Rezept für Medikamente bzw. für Heil- u. Hilfsmittel und/oder einen  Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über- weisungsschein oder keine Versichertenkarte) für das Abrechnungsquartal vorliegt, wender durch das Praxisverwaltungssystem in geeigneter Form, entweder optisch und/oder  per Dialog darauf hingewiesen werden.
+Falls ein Anwender ein Rezept für Medikamente bzw. für Heil- u. Hilfsmittel und/oder einen  Überweisungsschein ausstellt, dann muss, falls kein Versicherungsnachweis (z.B. kein Über-weisungsschein oder keine Versichertenkarte) für das Abrechnungsquartal vorliegt, wender durch das Praxisverwaltungssystem in geeigneter Form, entweder optisch und/oder  per Dialog darauf hingewiesen werden.
 
 Beispiel für einen optischen Warnhinweis:
 
-- 4 Der zweidimensionale Barcode PDF-417 beinhaltet alle relevanten Schein- und Auftragsdaten und ermöglicht somit eine voll- automatisierte Datenerfassung in der Laborgemeinschaft. Die Notwendigkeit des Barcodes wird durch die Laborgemeinschaft  bestimmt. Der Barcode ist technisch bedingt nur dann interpretierbar, wenn das Formular in der anfordernden Arztpraxis elektro- nisch erfasst, der Barcode generiert und mittels Laserdrucker bedruckt wird.
+- 4 Der zweidimensionale Barcode PDF-417 beinhaltet alle relevanten Schein- und Auftragsdaten und ermöglicht somit eine voll-automatisierte Datenerfassung in der Laborgemeinschaft. Die Notwendigkeit des Barcodes wird durch die Laborgemeinschaft  bestimmt. Der Barcode ist technisch bedingt nur dann interpretierbar, wenn das Formular in der anfordernden Arztpraxis elektro-nisch erfasst, der Barcode generiert und mittels Laserdrucker bedruckt wird.
 
 -417)der An-
 
@@ -455,17 +451,17 @@ Falls die Daten zu dem Patienten aus einem Patientenstamm zur Bedruckung herange
 
 ## 2.9 Muster 52 (Anfrage bei Fortbestehen der Arbeitsunfähigkeit)
 
-Die folgenden Funktionen müssen umgesetzt werden, wenn über die Bedruckung des Perso- nalienfeldes hinaus weitere Felder des Musters 52 durch die Software bedruckt werden.
+Die folgenden Funktionen müssen umgesetzt werden, wenn über die Bedruckung des Perso-nalienfeldes hinaus weitere Felder des Musters 52 durch die Software bedruckt werden.
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | **KP52-1** | Formatvorgaben aus den Vordruckerläuterungen für Muster 52 |
 
-Die Software muss die Formatvorgaben aus den Vordruckerläuterungen für das Muster 52 ein- halten.
+Die Software muss die Formatvorgaben aus den Vordruckerläuterungen für das Muster 52 ein-halten.
 
 **Begründung:**
 
-Die Formatvorgaben der Vordruckerläuterungen wurden zwischen KBV und GKV-Spitzenver- band vereinbart, um sicherzustellen, dass die auf dem Muster 52 aufgedruckten Angaben kor- rekt interpretiert werden.
+Die Formatvorgaben der Vordruckerläuterungen wurden zwischen KBV und GKV-Spitzenver-band vereinbart, um sicherzustellen, dass die auf dem Muster 52 aufgedruckten Angaben kor-rekt interpretiert werden.
 
 **Akzeptanzkriterium:**
 
@@ -501,7 +497,7 @@ Die Software erlaubt dem Anwender die  das Freitextfeld des Abschnitts *9. Sonst
 |---|---|
 | **KP52-4** | Überprüfung des Platzbedarfes bei Diagnosefreitext |
 
-Die Software muss den Anwender über zu wenig Platz für den Ausdruck des Diagnosefreitex- tes informieren.
+Die Software muss den Anwender über zu wenig Platz für den Ausdruck des Diagnosefreitex-tes informieren.
 
 Angabe eines Diagnosefreitext
 
@@ -519,9 +515,9 @@ Die Software warnt den Anwender vor dem Druck des Formulars, wenn der Platz für
 |---|---|
 | **P7-130** | Bedruckung mit dem ASV-Kennzeichen, der ASV-Teamnummer und der |
 
-Die Software muss bei der Bedruckung von Formularen, welche für die Behandlung von ASV- Fällen ausgestellt werden, folgendes beachten:
+Die Software muss bei der Bedruckung von Formularen, welche für die Behandlung von ASV-Fällen ausgestellt werden, folgendes beachten:
 
--  Im Personalienfeld der Vordrucke muss das ASV-Kennzeichen „1“  tion 30 aufgebracht werden. An Stelle 29 ist eine „0“ oder im Rahmen einer Ersatzverord- nung eine „1“ zu drucken. Da die Durchschläge von Formularen wie Muster 20, welche für  den Arbeitgeber bestimmt sind, an dieser Position geschwärzt sind chen nicht sichtbar und der Datenschutz bleibt gewährleistet.
+-  Im Personalienfeld der Vordrucke muss das ASV-Kennzeichen „1“  tion 30 aufgebracht werden. An Stelle 29 ist eine „0“ oder im Rahmen einer Ersatzverord-nung eine „1“ zu drucken. Da die Durchschläge von Formularen wie Muster 20, welche für  den Arbeitgeber bestimmt sind, an dieser Position geschwärzt sind chen nicht sichtbar und der Datenschutz bleibt gewährleistet.
 -  Im Personalienfeld muss anstelle der Betriebsstättennummer (BSNR) die ASV mer aufgedruckt werden. Eine Ausnahme bildet Muster 20 (Wiedereingliederungsplan).  Hier wird aus Gründen des Datenschutzes weiterhin die BSNR des behandelnden Arztes  aufgedruckt.
 -  Im Personalienfeld muss im Falle eines Krankenhausarztes die Fachgruppennummer  (siehe ASV-Vertrag, § 9 Abs. 5) im Feld „Arzt Nr“ gedruckt werden.
 
@@ -543,7 +539,7 @@ gedruckt
 
 der ASV-Arzt an
 
-Pseudo-LANR für Krankenhäuser-Arzt kann auch Mit- und mit seiner
+Pseudo-LANR für Krankenhäuser-Arzt kann auch Mit-und mit seiner
 
 
 ---

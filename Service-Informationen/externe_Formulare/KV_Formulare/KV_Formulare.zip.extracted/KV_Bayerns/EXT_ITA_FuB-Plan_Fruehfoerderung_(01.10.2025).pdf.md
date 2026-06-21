@@ -1,6 +1,6 @@
 Krankenkasse bzw. Kostenträger
 
-Zuzah- lungs-
+Zuzah-lungs-
 
 frei
 
@@ -8,13 +8,17 @@ Zuzah- Name, Vorname des Versicherten lungs-
 
 pflicht
 
+Unfall-folgen
+
+Kostenträgerkennung Versicherten-Nr. BVG
+
+Für die Abrechnung IK-Kennzeichen Leistungserbringer
+
+Gesamt-Brutto
+
 geb. am
 
-Unfall- folgen
-
-Kostenträgerkennung Versicherten-Nr.
-
-Status BVG
+Positionsnummer Status
 
 Betriebsstätten-Nr. Arzt-Nr.
 
@@ -32,7 +36,7 @@ Telefonnummer
 
 und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)  - für **Ärztin / Arzt** / Frühförderstelle / Personensorgeberechtigte / Kostenträger
 
-oErstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher
+oErstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher **Beginn**
 
 **Zusammenfassendes Ergebnis der (Eingangs-) Diagnostik und Bedarfsermittlung**
 
@@ -42,7 +46,7 @@ ________________________________________________________________________________
 
 **ICD 10** (Bitte stets angeben): _______________________________________________________________________________________________________
 
-**IFS** Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen): ________________________________________________________________________________________________________________________________
+**IFS** Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen):  ________________________________________________________________________________________________________________________________
 
 Eine Behinderung der Selbstbestimmung und/oder gleichberechtigten Teilhabe an der Gesellschaft im Sinne von §§ 1, 2 SGB IX als Wechselwirkung zwischen  einstellungs- und umweltbedingten Barrieren und einer
 
@@ -66,49 +70,45 @@ o
 
 o
 
-Offenes Beratungsangebot wurde durchgeführt oja Komplexleistung ist notwendig
+Offenes Beratungsangebot wurde durchgeführt oja
+
+onein Komplexleistung ist notwendig
 
 oja
 
+onein
+
 Form und Umfang der Behandlung:
 
+ambulante
+
 ambulante  **Einzel**behandlung
+
+**Gruppen**behandlung
 
 Physiotherapie
 
 __ BE o je Monat
 
-o
+__ BE o je Monat
 
-o Stimm-, Sprech-, Sprach- und Schlucktherapie o Ergotherapie
+o o Stimm-, Sprech-,
+
+__ BE o je Monat
+
+__ BE o je Monat  Sprach- und Schlucktherapie o Ergotherapie
+
+__ BE o je Monat
+
+__ BE o je Monat
+
+__ BE (im Bewilligungszeitraum)
+
+__ BE (im Bewilligungszeitraum)
 
 o psychologische/  heilpädagogische Leistungen  (incl. evtl. psychosozialer Leistungen)
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
-
-__ BE o je Monat
-
-__ BE o je Monat
-
-__ BE (im Bewilligungszeitraum)
-
-Für die Abrechnung IK-Kennzeichen Leistungserbringer
-
-Gesamt-Brutto
-
-Positionsnummer
-
-**Beginn**
-
-onein onein
-
-ambulante  **Gruppen**behandlung
-
-__ BE o je Monat  __ BE o je Monat
-
-__ BE o je Monat
-
-__ BE (im Bewilligungszeitraum)
 
 Rechnungsnummer Beleg Nr.
 
@@ -130,7 +130,7 @@ __ BE o je Monat
 
 __ BE (im Bewilligungszeitraum)
 
-kann als  **Doppel-BE** er- bracht werden
+kann als  **Doppel-BE** er-bracht werden
 
 o o
 

@@ -131,7 +131,7 @@ Im Briefumschlag PTV8 müssen folgende Unterlagen enthalten sein:
 
 o Für Ärztinnen und Ärzte: somatischer Befund ist im Bericht enthalten
 
-o Für Psychologische Psychotherapeutinnen/Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeutinnen/- psychotherapeuten: Konsiliarbericht (Muster 22b)
+o Für Psychologische Psychotherapeutinnen/Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeutinnen/-psychotherapeuten: Konsiliarbericht (Muster 22b)
 
 -  PTV 2b
 -  ggf. Kopien ergänzender Befundberichte (Pseudonymisierung beachten!)

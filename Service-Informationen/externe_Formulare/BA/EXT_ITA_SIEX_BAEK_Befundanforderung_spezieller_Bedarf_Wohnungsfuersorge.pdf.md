@@ -12,17 +12,15 @@ Patient/in befindet sich seit
 
 # Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im  Rahmen der Wohnungsfürsorge nach § 22 SGB II)
 
+regelmäßig
+
 # Aktuelle Beschwerden:
 
 # Sofern zutreffend – je nach Fragestellung im Anschreiben:
 
 # Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der  Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_2
-
-regelmäßig
-
-1. 12
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21. 12
 
 BGL-Nummer:
 

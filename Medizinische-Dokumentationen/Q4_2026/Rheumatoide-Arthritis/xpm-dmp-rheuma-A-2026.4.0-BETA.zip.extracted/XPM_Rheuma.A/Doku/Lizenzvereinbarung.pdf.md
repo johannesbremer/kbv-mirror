@@ -48,9 +48,9 @@ a) Einen Teil der Software zu kopieren (außer zu Sicherungszwecken), unterzuliz
 
 b) die Software ganz oder teilweise zu verändern oder abgeleitete Werke zu schaffen, die  ganz oder teilweise auf der Software basieren;
 
-Die KBV besitzt und  e- igen- übertragen. Durch die  nicht einge-
+Die KBV besitzt und  e-igen-übertragen. Durch die  nicht einge-
 
-der Softwarehersteller  e- i- vor der Dekompilierung der
+der Softwarehersteller  e-i-vor der Dekompilierung der
 
 
 ---
@@ -101,7 +101,7 @@ Erfüllung der Vertragspflichten hinausgehen.
 
 i-
 
-im Rahmen des durch die KBV zertifizier- -psychotherapeuten weiterzugegeben.
+im Rahmen des durch die KBV zertifizier--psychotherapeuten weiterzugegeben.
 
 zieren. Eine  s-
 
@@ -109,13 +109,13 @@ satz.
 
 Dieses gilt gleichermaßen für regelmäßige
 
-vereinbarten Zweck. Die KBV über- Die KBV stellt für den Gegenstand der
+vereinbarten Zweck. Die KBV über-Die KBV stellt für den Gegenstand der
 
-der KBV zur Verfü- der
+der KBV zur Verfü-der
 
 -spezifikationen überein. Die KBV ge-
 
-e- 100%iger Sicherheit ausschließen lassen.
+e-100%iger Sicherheit ausschließen lassen.
 
 **§ 6**
 
@@ -126,11 +126,11 @@ e- 100%iger Sicherheit ausschließen lassen.
 
 ---
 
-die die KBV nach dem Produkthaftungsgesetz haftet. In allen anderen Fällen ist die Schadener- satzpflicht der KBV auf die Verletzung wesentlicher Vertragspflichten beschränkt. Wesentliche
+die die KBV nach dem Produkthaftungsgesetz haftet. In allen anderen Fällen ist die Schadener-satzpflicht der KBV auf die Verletzung wesentlicher Vertragspflichten beschränkt. Wesentliche
 
-Pflichten sind nur solche Pflichten, deren Erfüllung die ordnungsgemäße Ausführung der Verein- barung erst ermöglicht und auf deren Erfüllung die Softwarehersteller vertrauen dürfen.
+Pflichten sind nur solche Pflichten, deren Erfüllung die ordnungsgemäße Ausführung der Verein-barung erst ermöglicht und auf deren Erfüllung die Softwarehersteller vertrauen dürfen.
 
-(2) Die Haftung der KBV für Datenverlust ist auf die typischen, für die Wiederherstellung erforder- lichen Aufwendungen beschränkt, die normal und üblich sind, wenn Sicherungskopien erstellt  wurden.
+(2) Die Haftung der KBV für Datenverlust ist auf die typischen, für die Wiederherstellung erforder-lichen Aufwendungen beschränkt, die normal und üblich sind, wenn Sicherungskopien erstellt  wurden.
 
 (3) Im Falle einer fahrlässigen Verletzung wesentlicher Vertragspflichten durch die KBV ist die
 
@@ -140,13 +140,13 @@ Haftung auf vorhersehbare, vertragstypische Schäden beschränkt.
 
 **Verschiedenes**
 
-(1) Mündliche Nebenabreden zu dieser Vereinbarung sind nicht getroffen. Jegliche Änderung  oder Ergänzung bedarf der Schriftform. Dies gilt auch für die Aufhebung dieser Schriftformverein- barung.
+(1) Mündliche Nebenabreden zu dieser Vereinbarung sind nicht getroffen. Jegliche Änderung  oder Ergänzung bedarf der Schriftform. Dies gilt auch für die Aufhebung dieser Schriftformverein-barung.
 
-(2) Sollte diese Vereinbarung unwirksame, undurchführbare, anfechtbare oder nichtige Bestim- mungen erhalten, bleibt seine Wirksamkeit im Übrigen davon unberührt. Die Parteien verpflichten  sich, anstelle der unwirksamen, undurchführbaren, anfechtbaren oder nichtigen Bestimmungen  eine solche wirksame Vereinbarung zu treffen, die dem mit der ursprünglichen Regelung verfolg- ten wirtschaftlichen Zweck am Nächsten kommt.
+(2) Sollte diese Vereinbarung unwirksame, undurchführbare, anfechtbare oder nichtige Bestim-mungen erhalten, bleibt seine Wirksamkeit im Übrigen davon unberührt. Die Parteien verpflichten  sich, anstelle der unwirksamen, undurchführbaren, anfechtbaren oder nichtigen Bestimmungen  eine solche wirksame Vereinbarung zu treffen, die dem mit der ursprünglichen Regelung verfolg-ten wirtschaftlichen Zweck am Nächsten kommt.
 
 (3) Die beschreibenden Überschriften in dieser Vereinbarung wurden der leichteren Lesbarkeit  wegen eingefügt, und die Auslegung dieser Vereinbarung wird durch sie nicht eingeschränkt oder  auf sonstige Weise berührt.
 
-(4) Die Rechte aus dieser Vereinbarung dürfen nicht ohne ausdrückliche schriftliche Genehmi- gung der KBV abgetreten werden.
+(4) Die Rechte aus dieser Vereinbarung dürfen nicht ohne ausdrückliche schriftliche Genehmi-gung der KBV abgetreten werden.
 
 (5) Gerichtsstand ist Berlin.
 

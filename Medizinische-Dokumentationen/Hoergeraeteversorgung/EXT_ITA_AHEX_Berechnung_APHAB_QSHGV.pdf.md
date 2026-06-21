@@ -30,14 +30,14 @@
 
 - 1. [http://www.memphis.edu/ausp/harl/aphab.htm](http://www.memphis.edu/ausp/harl/aphab.htm)
 - 2. www.quihz.de
+- -55
 - -Praxis, Laryngo-Rhino-Otol, DOI: 10.1055/s-0030-
 
 ```
 -
 ```
 
-- -55
 - Benefit. Ear Hear 16:176-
 - hearing aids
 
-Hörfähigkeit der Berechnung invertiert werden, weil die Fragen invers formuliert sind. Hörgerät gesetzt.  einer Hörgeräteverordnung nach  einer Hörgeräte-Versorgung- in press)
+Hörfähigkeit  einer Hörgeräteverordnung nach der Berechnung invertiert werden, weil die Fragen invers formuliert sind. Hörgerät gesetzt.  einer Hörgeräte-Versorgung- in press)

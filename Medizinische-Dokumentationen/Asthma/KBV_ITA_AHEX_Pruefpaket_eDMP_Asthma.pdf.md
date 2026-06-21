@@ -495,7 +495,7 @@ Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma br
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Nein |
 
-Prüffall 6513 Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Versichertendaten 1 Anlegen einer Erst- und einer Verlaufsdokumentation AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.07 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen  Ersatzverfahren einlesen und speichern. verfügt, Sollte das Asthma bronchiale, KHK Asthma bronchiale, KHK
+Prüffall 6513 Einschreibung AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.07 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Versichertendaten 1  Ersatzverfahren einlesen und speichern. Anlegen einer Erst- und einer Verlaufsdokumentation verfügt, Sollte das Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 

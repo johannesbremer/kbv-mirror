@@ -174,7 +174,7 @@ Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus ein
 
 ### In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorkommen und die  Anordnung der Felder innerhalb eines Satzes festgelegt wird.
 
-### Die Häufigkeit des Feldes wird in der Spalte
+### Die Häufigkeit des Feldes wird in der Spalte Vorkommen angegeben, wobei die Angabe n
 
 diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird
 
@@ -210,11 +210,11 @@ Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte
 
 ### Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
 
-übergeordneten Hierarchiestufe (s. Spalte
+übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes
 
 ### Mussfeld muss in einem Satz vorhanden sein, wenn entweder in der Spalte  Bedingung ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordnete
 
-Hierarchiestufe (s. Spalte *Vorkommen*
+Hierarchiestufe (s. Spalte *Vorkommen*) referenzierte Feld existiert.
 
 ### K = Kannfeld
 
@@ -222,13 +222,7 @@ Hierarchiestufe (s. Spalte *Vorkommen*
 
 Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,
 
-### muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern -  nicht programmtechnisch erfolgen kann.
-
-### Vorkommen angegeben, wobei die Angabe n
-
-### Vorkommen) gebunden. Ein bedingtes
-
-### ) referenzierte Feld existiert.
+### muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern - nicht programmtechnisch erfolgen kann.
 
 
 ---
@@ -288,15 +282,15 @@ In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. 
 
 Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
 
-### Zu jedem Feld wird in der Spalte
+### Zu jedem Feld wird in der Spalte Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt
 
 verwendet werden kann. Folgende Typen werden unterschieden:
 
 -  num numerischer Zahlenwert
 -  alnum alphanumerische Zeichen
--  datum numerische Datumsangaben im Format  01 - 12, *JJJJ* = 0001 - 9999
+-  datum numerische Datumsangaben im Format *TTMMJJJJ* 01 - 12, *JJJJ* = 0001 - 9999
 
-### In der Spalte Länge des Feldinhaltes
+### In der Spalte Länge des Feldinhaltes wird festgelegt, aus wie vielen Zeichen (Bytes) ein
 
 Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch
 
@@ -306,7 +300,7 @@ können. Durch das -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf
 
 ### maximale Länge beschränkt.
 
-### Zum besseren Verständnis ist zu jedem Feld in der Spalte
+### Zum besseren Verständnis ist zu jedem Feld in der Spalte Beispiel
 
 aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten
 
@@ -327,14 +321,6 @@ aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direk
 | 9208 | Gesamtzahl der | var | num |  |  | 1656 |
 | 9222 | ADT-Referenzversion | ≤ | alnum | 031 |  | ADT0199.01 |
 | 9901 | Systeminternes Feld | ≤ | alnum | 999 |  | abc<de-FG |
-
-### Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt
-
-### wird festgelegt, aus wie vielen Zeichen (Bytes) ein
-
-### - TTMMJJJJ
-
-### Beispiel
 
 ### - , wobei
 
@@ -405,41 +391,27 @@ Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a
 
 # 5 Besondere Hinweise
 
-## 5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR)
+## 5.1 Aufbau der lebenslangen Vertragsarztnummer (LANR) 1-6 7
 
-| 1-6 | 7 | 8-9 |  | Lebenslange Arztnummer (LANR) |
-|---|---|---|---|---|
-| nnnnnn | m | ff |  |  |
-|  |  |  |  | **ID** |
-|  |  |  |  |  |
-|  |  |  |  | **Prüfziffer** |
-|  |  |  |  |  |
-|  |  |  |  | **Fachgruppe gemäß Anlage 35** |
-|  |  |  |  |  |
+8-9
 
-## 5.2 Aufbau der (Neben-)Betriebsstättennummer
+nnnnnn m
 
-| 1-2 | 3-7 | 8-9 |  | Betriebsstättennummer ((N)BSNR) |
-|---|---|---|---|---|
-| kk | nnnnn | mm |  |  |
-|  |  |  |  | **UKV bzw. OKV bei nicht untergliederten KVen** |
-|  |  |  |  |  |
-|  |  |  |  | **Seriennummer** |
-|  |  |  |  |  |
-|  |  |  |  | **beliebig** |
-|  |  |  |  |  |
+ff
 
-## 5.3 Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle  (Anlage 28 BMV-Ä)
+## 5.2 Aufbau der (Neben-)Betriebsstättennummer 1-2 3-7
 
-| 1-2 | 3-4 | 5-9 |  | Betriebsstättennummer ((N)BSNR) |
-|---|---|---|---|---|
-| 35 | kk | nnnnn |  |  |
-|  |  |  |  | **Krankenhäuser, die Leistungen im Rahmen** |
-|  |  |  |  |  |
-|  |  |  |  | **UKV bzw. OKV bei nicht untergliederten KVen** |
-|  |  |  |  |  |
-|  |  |  |  | **Seriennummer** |
-|  |  |  |  |  |
+kk nnnnn
+
+## 5.3 Aufbau der (Neben-)Betriebsstättennummer Terminservicestelle  (Anlage 28 BMV-Ä) 1-2 3-4
+
+35  kk
+
+8-9
+
+mm 5-9
+
+nnnnn
 
 ## 5.4 Besondere Hinweise
 
@@ -447,7 +419,31 @@ Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a
 
 ### Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale  abgelaufen sind.
 
-Terminservicestelle  von § 75 Absatz 1a SGB V erbringen
+**Lebenslange Arztnummer (LANR)**
+
+**ID**
+
+**Prüfziffer**
+
+**Fachgruppe gemäß Anlage 35**
+
+**Betriebsstättennummer ((N)BSNR)**
+
+**UKV bzw. OKV bei nicht untergliederten KVen**
+
+**Seriennummer**
+
+**beliebig**
+
+**Betriebsstättennummer ((N)BSNR)**  **Terminservicestelle**
+
+**Krankenhäuser, die Leistungen im Rahmen**
+
+**von § 75 Absatz 1a SGB V erbringen**
+
+**UKV bzw. OKV bei nicht untergliederten KVen**
+
+**Seriennummer**
 
 ---
 

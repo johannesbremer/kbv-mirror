@@ -80,7 +80,7 @@ Des Weiteren können dem Antrag auf Zertifizierung KBV_ITA_FMEX_AAZ_VDGA] neben 
 
 ## 1.1 RECHTSGRUNDLAGE
 
-Vertragsärzte sollen für die Verordnung von DiGA in die Lage versetzt werden, die durch das Digitale- Versorgung-und-Pflege-Modernisierungs-Gesetz (DVPMG) im § 73 SGB V festgeschriebenen gesetzlichen  Regelungen zu erfüllen.
+Vertragsärzte sollen für die Verordnung von DiGA in die Lage versetzt werden, die durch das Digitale-Versorgung-und-Pflege-Modernisierungs-Gesetz (DVPMG) im § 73 SGB V festgeschriebenen gesetzlichen  Regelungen zu erfüllen.
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
@@ -279,7 +279,7 @@ Die in der Überschrift (z.B. Prüffall 01) jeweils enthaltene Nummer (im Beispi
 
 Einem Prüffall können mehrere nacheinander auszuführende Anweisungen zugeordnet sein.
 
-Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen einzureichen sind. Falls  eine Verordnung als Ausdruck dokumentiert werden soll
+Es wird beschrieben, wie die Prüffälle zu bearbeiten und welche Prüfunterlagen einzureichen sind. Falls  eine Verordnung als Ausdruck dokumentiert werden soll, ist dies vermerkt.
 
 **HINWEIS**
 
@@ -296,8 +296,6 @@ Die Pflichtfunktionen, die insbesondere von den zugeordneten Anweisungen des Pr�
 ### 1.6.6 Ausstellungsdatum
 
 Das Ausstellungsdatum der Verordnungen kann jeweils so gewählt werden, dass es dem aktuellen Datum  der Erstellung der Prüfunterlagen entspricht.
-
-, ist dies vermerkt.
 
 , […]).
 
@@ -321,7 +319,7 @@ Dokumentieren Sie den vollständigen Anwendungsdialog zur Anzeige des Datums des
 
 **Anweisung 2:**
 
-Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung). Die DiGA- Verordnungseinheit soll nach einer Suche im Produktverzeichnis mit den angegebenen Suchkriterien  ausgewählt werden.
+Erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung). Die DiGA-Verordnungseinheit soll nach einer Suche im Produktverzeichnis mit den angegebenen Suchkriterien  ausgewählt werden.
 
 Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung oder  angezeigter Werbung durch ein Video. Dabei sollen für die zu verordnende Verordnungseinheit alle in den  Daten des Produktverzeichnisses verfügbaren Information vollständig zur Anzeige gebracht werden, die  laut Pflichtfunktionen P4-311 und KP4-312 mindestens auf der zweiten und dritten Ebene angezeigt  werden müssen. Von der Anzeige der gesamten Informationen zu Datenschutz und Datensicherheit bzw.  zum positiven Versorgungseffekt (gemäß KP4-312) müssen im Video des Prüffalles nur die Fragen und  deren Antworten gemäß der untenstehenden Tabelle gezeigt werden.
 

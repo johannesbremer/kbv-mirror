@@ -2,7 +2,7 @@ Die folgenden Beispiele wurden mithilfe des Hl7 Validators in der Version 5.2.11
 
 Folgender Aufruf wurde verwendet:
 
-java -jar validator_cli.jar -ig KBV-Basis -ig Application -ig Profile -ig Terminologie -ig basisprofil-de-r4- master -ig Impfpass -version 4.0.1 Beispiele\
+java -jar validator_cli.jar -ig KBV-Basis -ig Application -ig Profile -ig Terminologie -ig basisprofil-de-r4-master -ig Impfpass -version 4.0.1 Beispiele\
 
 -ig Application = KBV Schlüsseltabellen -ig Impfpass = MIO Impfpass
 
@@ -18,13 +18,13 @@ Warning @ Claim.identifier[0].type (line 87, col9) : Keiner der angegebenen Code
 
 ----------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Abrechnung_HzV_BesondereVersorgung_Selektiv.xml --------------------- ----------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Abrechnung_HzV_BesondereVersorgung_Selektiv.xml -------------------------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
 Warning @ Claim.identifier[0].type (line 71, col9) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/identifier--](http://hl7.org/fhir/ValueSet/identifier--)type ([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier) type, und ein  Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Abrechnung_Identifiertyp#Rechnungsnummer)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Abrechnung_Identifiertyp#Rechnungsnummer))
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------
 
@@ -41,7 +41,7 @@ Code sollte aus diesem Valueset stammen, es sei denn, er enthält keinen geeigne
 
 ------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Abrechnung_Vertragsaerztlich.xml ----------------------------------------------- -----------------
+-- Beispiele\BSP_KBV_PR_AW_Abrechnung_Vertragsaerztlich.xml ----------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -67,7 +67,7 @@ Information @ AllergyIntolerance.reaction[0].substance.coding[0] (line 45, col12
 
 ------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Ambulante_Operation_1.xml ------------------------------------------------------ ---
+-- Beispiele\BSP_KBV_PR_AW_Ambulante_Operation_1.xml ---------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 2 notes
 
@@ -80,7 +80,7 @@ Information @ Procedure.reasonCode[0].coding[0] (line 42, col11) : Code System U
 
 --------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Ambulante_Operation_General.xml --------------------------------------------- ------------------
+-- Beispiele\BSP_KBV_PR_AW_Ambulante_Operation_General.xml ---------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 2 notes
 
@@ -90,7 +90,7 @@ Information @ Procedure.reasonCode[0].coding[0] (line 50, col11) : Code System U
 
 --------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Anforderung_Sprechstundenbedarf.xml ---------------------------------------- ---------------------------
+-- Beispiele\BSP_KBV_PR_AW_Anforderung_Sprechstundenbedarf.xml -------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -102,7 +102,7 @@ Information @ ?? : All OK
 
 Success: 0 errors, 2 warnings, 2 notes
 
-Information @ Docu mentReference.type (line 33, col8) : Keiner der angegebenen Codes ist im  Valueset [http://hl7.org/fhir/ValueSet/c80-doc-typecodes](http://hl7.org/fhir/ValueSet/c80-doc-typecodes) ([http://hl7.org/fhir/ValueSet/c80](http://hl7.org/fhir/ValueSet/c80)-doc- typecodes, und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung))
+Information @ Docu mentReference.type (line 33, col8) : Keiner der angegebenen Codes ist im  Valueset [http://hl7.org/fhir/ValueSet/c80-doc-typecodes](http://hl7.org/fhir/ValueSet/c80-doc-typecodes) ([http://hl7.org/fhir/ValueSet/c80](http://hl7.org/fhir/ValueSet/c80)-doc-typecodes, und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Anlagetyp#KBV_PR_AW_Patientenverfuegung))
 
 Information @  DocumentReference.content[0].attachment.extension[0].value.ofType(CodeableConcept).coding[0]  (line 54, col14) : Code System URI "[http://TEST"](http://TEST") ist unbekannt, so dass der Code nicht validiert  werden kann
 
@@ -133,7 +133,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_BehandelnderFunktion_1.xml ----------------------------------------------------- -----
+-- Beispiele\BSP_KBV_PR_AW_BehandelnderFunktion_1.xml ----------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -158,25 +158,25 @@ Warning @ Practitioner.identifier[0].type (line 15, col9) : Keiner der angegeben
 
 ------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Definition.xml -------------------------------------------- ----------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Definition.xml ------------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
-Warning @ PlanDefinition (line 1, col1) : pdf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0- 9_]){0,254}')]
+Warning @ PlanDefinition (line 1, col1) : pdf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0-9_]){0,254}')]
 
 --------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Diagnose.xml --------------------------------------------- -------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Diagnose.xml ----------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 1 notes
 
 Information @ ActivityDefinition.code.coding[0] (line 24, col11) : Code System URI  "[http://fhir.de/CodeSystem/dimdi/icd-10-gm"](http://fhir.de/CodeSystem/dimdi/icd-10-gm") ist unbekannt, so dass der Code nicht validiert werden  kann
 
-Warning @ ActivityDefinition (line 1, col1) : adf-0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0- 9_]){0,254}')]
+Warning @ ActivityDefinition (line 1, col1) : adf-0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0-9_]){0,254}')]
 
 ----------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Leistungsziffern.xml ------------------------------------ ------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Leistungsziffern.xml ------------------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 1 notes
 
@@ -185,48 +185,48 @@ Information @ ActivityDefinition.code.coding[0] (line 23, col11) : Code System U
 
 ---
 
-Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0- 9_]){0,254}')]
+Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0-9_]){0,254}')]
 
--------------------------------------------------------------------------------------------------------------------------------------- ------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_OMIMCode.xml ----------------------------------------- -----------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_OMIMCode.xml ----------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 1 notes
 
 Information @ ActivityDefinition.code.coding[0] (line 23, col11) : Code System URI  "[https://fhir.kbv.de/NamingSystem/KBV_NS_AW_OMIM_G"](https://fhir.kbv.de/NamingSystem/KBV_NS_AW_OMIM_G") ist unbekannt, so dass der Code nicht  validiert werden kann
 
-Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A-Z]([A-Za-z0- 9_]){0,254}')]
+Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
 ----------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Sonstige.xml --------------------------------------------- -------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Sonstige.xml ----------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
-Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A-Z]([A-Za-z0- 9_]){0,254}')]
+Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
 ----------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Textvorlage.xml ----------------------------------------- --------------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Textvorlage.xml -------------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
-Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A-Z]([A-Za-z0- 9_]){0,254}')]
+Warning @ ActivityDefinition (line 1, col1) : adf 0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A-Z]([A-Za-z0-9_]){0,254}')]
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
 ---
 
--- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Verordnung.xml ----------------------------------------- -------------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlungsbaustein_Verordnung.xml ------------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
-Warning @ ActivityDefinition (line 1, col1) : adf-0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0- 9_]){0,254}')]
+Warning @ ActivityDefinition (line 1, col1) : adf-0: Name should be usable as an identifier for the  module by machine processing applications such as code generation [name.matches('[A -Z]([A-Za-z0-9_]){0,254}')]
 
 --------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Behandlung_im_Auftrag_Ueberweisung.xml ---------------------------------- ------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Behandlung_im_Auftrag_Ueberweisung.xml ----------------------------------------------------------------------
 
 Success: 0 errors, 3 warnings, 0 notes
 
@@ -319,7 +319,7 @@ Information @ Bundle.entry[3].resource.ofType(ActivityDefinition).code.coding[0]
 
 Information @ Bundle.entry[6].resource.ofType(Medication).code.coding[0] (line 370, col11) : Code  System URI "[http://fhir.de/CodeSystem/ifa/pzn"](http://fhir.de/CodeSystem/ifa/pzn") ist unbekannt, so dass der Code nicht validiert  werden kann
 
-Warning @ Bundle.entry[0].resource.ofType(Practitioner).identifier[0].type (line 26, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://te](http://te)rminology.hl7.org/CodeSystem/v2- 0203#LANR)
+Warning @ Bundle.entry[0].resource.ofType(Practitioner).identifier[0].type (line 26, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://te](http://te)rminology.hl7.org/CodeSystem/v2-0203#LANR)
 
 Warning @ Bundle.entry[10].resource.ofType(Organization).identifier[0].type (line 559, col9) :  Keiner der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type  ([http://hl7.org/fhir/ValueSet/identifier](http://hl7.org/fhir/ValueSet/identifier)-type, und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#BSNR)
 
@@ -398,11 +398,11 @@ Warning @ Bundle.entry[7].resource.ofType(Organization).identifier[0].type (line
 
 Warning @ Bundle.entry[7].resource.ofType(Organization).identifier[1].type (line 574, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#XX)
 
-Warning @ Bundle.entry[16].resource.ofType(Patient).identifier[0].type (line 1095, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://fhir.de/CodeSystem/identifier](http://fhir.de/CodeSystem/identifier)-type-de- basis#GKV)
+Warning @ Bundle.entry[16].resource.ofType(Patient).identifier[0].type (line 1095, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://fhir.de/CodeSystem/identifier](http://fhir.de/CodeSystem/identifier)-type-de-basis#GKV)
 
 ------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Bundle_Sprechstundenbedarf.xml ----------------------------------------------- ---------------
+-- Beispiele\BSP_KBV_PR_AW_Bundle_Sprechstundenbedarf.xml --------------------------------------------------------------
 
 Success: 0 errors, 3 warnings, 4 notes
 
@@ -419,7 +419,7 @@ Information @ Bundle.entry[3].resource.ofType(Medication).code.coding[0] (line 2
 
 Warning @ Bundle.entry[1].resource.ofType(Practitioner).identifier[0].type (line 73, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#LANR)
 
-Warning @ Bundle.entry[2].resource.ofType(Organization).identifier[0].type (line 174, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v](http://terminology.hl7.org/CodeSystem/v)2- 0203#BSNR)
+Warning @ Bundle.entry[2].resource.ofType(Organization).identifier[0].type (line 174, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v](http://terminology.hl7.org/CodeSystem/v)2-0203#BSNR)
 
 Warning @ Bundle.entry[2].resource.ofType(Organization).identifier[1].type (line 184, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#XX)
 
@@ -453,7 +453,7 @@ Warning @ Bundle.entry[3].resource.ofType(Patient).identifier[0].type (line 275,
 
 ---
 
-sei denn, er enthält keinen geeigneten Code) (Codes = [http://fhir.de/CodeSystem/identifier](http://fhir.de/CodeSystem/identifier)-type-de- basis#GKV)
+sei denn, er enthält keinen geeigneten Code) (Codes = [http://fhir.de/CodeSystem/identifier](http://fhir.de/CodeSystem/identifier)-type-de-basis#GKV)
 
 Warning @ Bundle.entry[4].resource.ofType(Practitioner).identifier[0].type (line 402, col9) : Keiner  der angegebenen Codes ist im Valueset [http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type)  ([http://hl7.org/fhir/ValueSet/identifier-type](http://hl7.org/fhir/ValueSet/identifier-type), und ein Code sollte aus diesem Valueset stammen, es  sei denn, er enthält keinen geeigneten Code) (Codes = [http://terminology.hl7.org/CodeSystem/v2](http://terminology.hl7.org/CodeSystem/v2) 0203#LANR)
 
@@ -479,7 +479,7 @@ Warning @ Condition.category[1] (line 41, col12) : Keiner der angegebenen Codes 
 
 ------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Genetische_Untersuchung.xml ---------------------------------------------------- -------
+-- Beispiele\BSP_KBV_PR_AW_Genetische_Untersuchung.xml -----------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 2 notes
 
@@ -496,7 +496,7 @@ Information @ Procedure.reasonCode[0].coding[0] (line 34, col11) : Code System U
 
 Success: 0 errors, 0 warnings, 1 notes
 
-Information @ DocumentReference.type (line 15, col8) : Keiner der angegebenen Codes ist im  Valueset [http://hl7.org/fhir/ValueSet/c80-doc-typecodes](http://hl7.org/fhir/ValueSet/c80-doc-typecodes) ([http://hl7.org/fhir/ValueSet/c80](http://hl7.org/fhir/ValueSet/c80)-doc- typecodes, und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Gesundheitspass_Typ#Allergiepass)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Gesundheitspass_Typ#Allergiepass))
+Information @ DocumentReference.type (line 15, col8) : Keiner der angegebenen Codes ist im  Valueset [http://hl7.org/fhir/ValueSet/c80-doc-typecodes](http://hl7.org/fhir/ValueSet/c80-doc-typecodes) ([http://hl7.org/fhir/ValueSet/c80](http://hl7.org/fhir/ValueSet/c80)-doc-typecodes, und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Gesundheitspass_Typ#Allergiepass)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Gesundheitspass_Typ#Allergiepass))
 
 --------------------------------------------------------------------------------------------------
 
@@ -521,7 +521,7 @@ Warning @ Location.type[0] (line 17, col8) : Keiner der angegebenen Codes ist im
 
 ---
 
--- Beispiele\BSP_KBV_PR_AW_Hersteller_Software.xml
+-- Beispiele\BSP_KBV_PR_AW_Hersteller_Software.xml -------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -537,7 +537,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krankenbefoerderung.xml
+-- Beispiele\BSP_KBV_PR_AW_Krankenbefoerderung.xml -------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -545,7 +545,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krankenbefoerderung_42019.xml  -------------
+-- Beispiele\BSP_KBV_PR_AW_Krankenbefoerderung_42019.xml -------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -553,21 +553,13 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krankenversicherungsverhaeltnis.xml  ------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krankenversicherungsverhaeltnis.xml -------------------------------------------------------------------
 
 Success: 0 errors, 3 warnings, 1 notes
 
 Information @ Coverage.type (line 110, col8) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/coverage-type](http://hl7.org/fhir/ValueSet/coverage-type) ([http://hl7.org/fhir/ValueSet/coverage-type](http://hl7.org/fhir/ValueSet/coverage-type), und es wird  empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [http://fhir.de/CodeSystem/versicherungsart-de-basis#GKV)](http://fhir.de/CodeSystem/versicherungsart-de-basis#GKV))
 
 Warning @ Coverage.extension[9].extension[1].value.ofType(Coding) (line 83, col17) : A code with  no system has no defined meaning. A system should be provided
-
--------------------------------------------------------
-
--------------------------------------------------------
-
-------------------------------------------------
-
--------------------------------------------
 
 
 ---
@@ -578,15 +570,15 @@ Warning @ Coverage.subscriber.identifier.type (line 119, col10) : Keiner der ang
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Befund_Rektum_Kolon_1.xml ---------------------- -------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Befund_Rektum_Kolon_1.xml -----------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen.xml ----------------------------------------------- ---------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen.xml --------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -594,7 +586,7 @@ Information @ Composition.type (line 15, col8) : Keiner der angegebenen Codes is
 
 ------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_2020.xml --------------------------------------- ----------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_2020.xml -------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -611,7 +603,7 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Anamnese_Hormonanwendung.xml  ------------------------------------------------------------------------------------
 
@@ -619,7 +611,11 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ese_Diverse.xml --------------------
+
+---
 
 Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Anamnese_Hormonanwendung_2020.x ml --------------------------------------------------------------------------------------------
 
@@ -627,9 +623,9 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Auftrag.xml  ----------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Auftrag.xml ----------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -637,15 +633,7 @@ Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Auftrag_2020.xml  ------------------------------------------------
-
-ese_Diverse.xml --------------------
-
----
-
-------------------------------------
-
----------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Auftrag_2020.xml ---------------------------------------------------------------------------
 
 
 ---
@@ -693,31 +681,31 @@ Success: 0 errors, 0 warnings, 1 notes -- Beispiele\BSP_KBV_PR_AW_Krebsfrueherke
 
 ---
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Impfung_2020.xml ------------- ---------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Impfung_2020.xml ----------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Testergebnis_2020.xml -------- --- ----------------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Testergebnis_2020.xml ----------- ----------------------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
 Warning @ Observation.component[0].interpretation[0] (line 39, col19) : Keiner der angegebenen  Codes ist im Valueset [http://hl7.org/fhir/ValueSet/observation-interpretation](http://hl7.org/fhir/ValueSet/observation-interpretation)  ([http://hl7.org/fhir/ValueSet/observation](http://hl7.org/fhir/ValueSet/observation)-interpretation, und ein Code sollte aus diesem Valueset  stammen, es sei denn, er enthält keinen geeigneten Code) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Krebsfrueherkenn](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Krebsfrueherkenn)ung_Frauen_HPV_HR#virus1618)
 
--------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Testergebnis_2020_2.xml ---- -------------------------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_HPV_HR_Testergebnis_2020_2.xml -----------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund.xml ----------------- ------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund.xml -----------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -726,15 +714,15 @@ Information @ DiagnosticReport.code (line 15, col8) : Keiner der angegebenen Cod
 
 ---
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_2020.xml  --------------------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_2020.xml ----------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ DiagnosticReport.code (line 15, col8) : Keiner der angegebenen Codes ist im Valueset  [http://hl7.org/fhir/ValueSet/report-codes](http://hl7.org/fhir/ValueSet/report-codes) ([http://hl7.org/fhir/ValueSet/report-codes](http://hl7.org/fhir/ValueSet/report-codes), und es wird  empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes =  [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Ressourcentyp#Zytologischer_Befund_2020)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Ressourcentyp#Zytologischer_Befund_2020))
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Bemerkungen.xml  -----------------------------------------------------------------------------------------------
 
@@ -742,30 +730,26 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zyto --------------------------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Diverse.xml -------------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_D ------------------------------------------------------------------------------------------------
+Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Diverse_2020.xml  ------------------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
-Information @ ?? : All OK --------
-
-logischer_Befund_Diverse.xml -----
-
-iverse_2020.xml
+Information @ ?? : All OK
 
 
 ---
 
--------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Empfehlung.xml  ----------------------------------------------------------------------------------------------
 
@@ -773,7 +757,7 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Endozervikale_Zel len.xml --------------------------------------------------------------------------------------------------------
 
@@ -781,15 +765,15 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Gruppe.xml ----- -------------------------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Gruppe.xml ------------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_histologische_Kla erung.xml ----------------------------------------------------------------------------------------------------------
 
@@ -797,26 +781,26 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ---
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Kontrolle.xml --- ------------------------------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Kontrolle.xml ---------------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Kontrolle_nach_E ntzuendungsbehandlung.xml ----------------------------------------------------------------------------------------------- --------------------------
+Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Kontrolle_nach_E ntzuendungsbehandlung.xml -------------------------------------------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Kontrolle_nach_Fr eitext.xml -----------------------------------------------------------------------------------------------------------
 
@@ -824,20 +808,20 @@ Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Kontrolle_nach_O estrogenbehandlung.xml ---------------------------------------------------------------------------------------------------- ------------------
+Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Zytologischer_Befund_Kontrolle_nach_O estrogenbehandlung.xml ----------------------------------------------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ---
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner.xml -------------------------------------------- -------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner.xml ---------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -845,29 +829,29 @@ Information @ Composition.type (line 15, col8) : Keiner der angegebenen Codes is
 
 --------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Anamnese_Diverse_1.xml -------------- --------------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Anamnese_Diverse_1.xml ----------------------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- --------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Auftrag.xml --------------------------------- --------------------------------------
-
-Success: 0 errors, 0 warnings, 1 notes
-
-Information @ ?? : All OK
-
--------------------------------------------------------------------------------------------------------------------------------------- ----
-
--- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Befund_Diverse_1.xml ------------------ --------------------------------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Auftrag.xml -----------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
--------------------------------------------------------------------------------------------------------------------------------------- ----------------------
+------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Maenner_Befund_Diverse_1.xml --------------------------------------------------------------------------------
+
+Success: 0 errors, 0 warnings, 1 notes
+
+Information @ ?? : All OK
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- Beispiele\BSP_KBV_PR_AW_Kur.xml ----------------------------------------
 
@@ -888,7 +872,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Kur_Kurgenehmigung.xml
+-- Beispiele\BSP_KBV_PR_AW_Kur_Kurgenehmigung.xml ------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -896,7 +880,7 @@ Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Kur_Kurverlaengerung.xml
+-- Beispiele\BSP_KBV_PR_AW_Kur_Kurverlaengerung.xml --------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -904,7 +888,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Heilmittel.xml  -------------
+-- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Heilmittel.xml ---------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -912,26 +896,18 @@ Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Psychotherapie.xml  -------------------------
+-- Beispiele\BSP_KBV_PR_AW_Leistungsanfrage_Psychotherapie.xml -------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
-
-------------------------------------------------------
-
---------------------------------------------------------
-
---------------------------------------------------
-
-------------------------------------------
 
 
 ---
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Leistungsgenehmigung_Heilmittel.xml ------------------------------------------ -------------------------
+-- Beispiele\BSP_KBV_PR_AW_Leistungsgenehmigung_Heilmittel.xml -------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -939,13 +915,13 @@ Information @ CoverageEligibilityResponse.insurance[0].item[0].modifier[1].codin
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Leistungsgenehmigung_Psychotherapie.xml ---------------------------------- -------------------------------------
+-- Beispiele\BSP_KBV_PR_AW_Leistungsgenehmigung_Psychotherapie.xml -----------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
 Information @  CoverageEligibilityResponse.insurance[0].item[0].authorizationSupporting[0].coding[0] (line 55,  col13) : Code System URI "[https://fhir.kbv.de/NamingSystem/KBV_NS_Base_EBM"](https://fhir.kbv.de/NamingSystem/KBV_NS_Base_EBM") ist unbekannt, so  dass der Code nicht validiert werden kann
 
--------------------------------------------------------------------------------------------------------------------------------------- ----
+------------------------------------------------------------------------------------------------------------------------------------------
 
 -- Beispiele\BSP_KBV_PR_AW_Material_Sache.xml --------------------------------------------------
 
@@ -982,7 +958,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Notfallbenachrichtigter.xml -------------------------------------------------------- ---
+-- Beispiele\BSP_KBV_PR_AW_Notfallbenachrichtigter.xml -----------------------------------------------------------
 
 *FAILURE*: 1 errors, 2 warnings, 0 notes
 
@@ -1005,7 +981,7 @@ Information @ ?? : All OK
 
 ---
 
--- Beispiele\BSP_KBV_PR_AW_Observation_Bauchumfang.xml --------------------------------------------------- --------
+-- Beispiele\BSP_KBV_PR_AW_Observation_Bauchumfang.xml -----------------------------------------------------------
 
 Success: 0 0 werrors, arnings, 1 notes
 
@@ -1023,7 +999,7 @@ Success: 0 0 werrors, arnings, 1 notes
 
 --------------------------------------------------------------------------------------------------------
 
--- \BBeispiele SP_KBV_PR_AW_Observation_Blutdruck.xml  ---------------------------------------------------------  Success: 0 errors, 0 warnings, 1 notes
+-- \BBeispiele SP_KBV_PR_AW_Observation_Blutdruck.xml  --------------------------------------------------------- Success: 0 errors, 0 warnings, 1 notes
 
 -- \BBeispiele SP_KBV_PR_AW_Observation_Hueftumfang.xml  -----------------------------------------------------------
 
@@ -1070,7 +1046,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Observation_Schwangerschaft.xml ---------------------------------------------- -----------------
+-- Beispiele\BSP_KBV_PR_AW_Observation_Schwangerschaft.xml ---------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1150,7 +1126,7 @@ Information @ ?? : All OK
 
 ----------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Ringversuchszertifikat_1.xml ------------------------------------------------------ ------
+-- Beispiele\BSP_KBV_PR_AW_Ringversuchszertifikat_1.xml ------------------------------------------------------------
 
 Success: 0 errors, 1 warnings, 0 notes
 
@@ -1169,7 +1145,7 @@ Warning @ Contract.identifier[0].type (line 15, col9) : Keiner der angegebenen C
 
 --------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Stationaere_Behandlung.xml ------------------------------------------------------ ----
+-- Beispiele\BSP_KBV_PR_AW_Stationaere_Behandlung.xml ----------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1191,7 +1167,7 @@ Information @ ?? : All OK
 
 ------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Ueberweisung_KH-Einweisung.xml ---------------------------------------------- ----------------
+-- Beispiele\BSP_KBV_PR_AW_Ueberweisung_KH-Einweisung.xml --------------------------------------------------------------
 
 Success: 0 errors, 5 warnings, 0 notes
 
@@ -1243,7 +1219,7 @@ Information @ ?? : All OK
 
 --------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Verordnung_Arbeitsunfaehigkeit.xml ------------------------------------------- -----------------------
+-- Beispiele\BSP_KBV_PR_AW_Verordnung_Arbeitsunfaehigkeit.xml ------------------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 
@@ -1251,7 +1227,7 @@ Information @ ServiceRequest.reasonCode[0].coding[0] (line 43, col11) : Code Sys
 
 --------------------------------------------------------------------------------------------------------------------------------
 
--- Beispiele\BSP_KBV_PR_AW_Verordnung_Arzneimittel.xml ----------------------------------------------------- ------
+-- Beispiele\BSP_KBV_PR_AW_Verordnung_Arzneimittel.xml -----------------------------------------------------------
 
 Success: 0 errors, 0 warnings, 1 notes
 

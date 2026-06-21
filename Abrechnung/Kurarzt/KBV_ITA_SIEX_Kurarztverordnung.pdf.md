@@ -1,18 +1,30 @@
 **Freigabe 05.11.2014**
 
-Krankenkasse bzw. Kostenträger Gebühr
-
-pfl.
+Krankenkasse bzw. Kostenträger Gebühr pfl.
 
 Name, Vorname des Versicherten Gebühr frei
 
-Unfall/ Unfall- folgen
+geb. am
+
+Unfall/ Unfall-folgen
 
 BVG Kostenträgerkennung Versicherten-Nr.
 
+Status
+
 Betriebsstätten-Nr. Arzt-Nr.
 
+Datum
+
 Pos.-Nr.
+
+Anzahl
+
+Pos.-Nr.
+
+Pos.-Nr.
+
+Anzahl
 
 Pos.-Nr.
 
@@ -20,25 +32,11 @@ Pos.-Nr.
 
 **Ggf. Hinweise zur Therapie**
 
-geb. am
+Verordnungs-Heilmittel
 
-Status
-
-Datum
-
-Anzahl
-
-Pos.-Nr.
-
-Anzahl
-
-Pos.-Nr.
-
-Verordnungs- menge
+menge
 
 **Maßnahmen der Gesundheitsförderung**
-
-Heilmittel
 
 Patienten-Gesprächsseminar
 
@@ -52,7 +50,11 @@ Seminar Bewegungstraining
 
 **Verordnung** **des Kurarztes** **Ambulante Vorsorgeleistung in anerkannten** **Kurorten nach § 23 Abs. 2 SGB V**
 
+IK des Leistungserbringers
+
 Gesamt-Zuzahlung
+
+Gesamt-Brutto
 
 Rechnungs-Nummer
 
@@ -60,13 +62,9 @@ Beleg-Nummer
 
 Anzahl
 
-Anzahl
-
-IK des Leistungserbringers
-
-Gesamt-Brutto
-
 Pos.-Nr.
+
+Anzahl
 
 Anzahl
 

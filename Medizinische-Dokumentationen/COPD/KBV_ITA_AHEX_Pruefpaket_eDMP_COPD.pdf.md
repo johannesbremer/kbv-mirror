@@ -675,7 +675,7 @@ Jedes zweite Quartal 06.12.2023 06.07.2024
 
 **Verlaufsdokumentation**
 
-095,5 Prozent des Soll- Wertes
+095,5 Prozent des Soll-Wertes
 
 Ja 0
 
@@ -866,7 +866,7 @@ An einem Tabakentwöhnungsprogram seit der  letzten Empfehlung teilgenommen
 
 **Erstdokumentation**
 
-299,9 Prozent des Soll- Wertes
+299,9 Prozent des Soll-Wertes
 
 Nein
 
@@ -944,13 +944,13 @@ Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreib
 
 **Prüfunterlagen**
 
-COPD-Dokumentationsunterlagen zusätzlich DM1- und/oder KHK-Dokumentationsunterlagen
+COPD-Dokumentationsunterlagen  zusätzlich DM1- und/oder KHK-Dokumentationsunterlagen
 
 **Hinweis**
 
 Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM1 verfügt,  müssen die entsprechenden Daten ebenfalls dokumentiert werden.  System keine der beiden Zulassungen besitzen, dann sind nur die  übermitteln.
 
-**Aktionen, die durch den Antragsteller durchgeführt werden:**  1. Versichertendaten:  Die Versichertendaten von Johannes Frônkenstein speichern.
+**Aktionen, die durch den Antragsteller durchgeführt werden:**  1. Versichertendaten:  Die Versichertendaten von Johannes Frônkenstein (Versichertendaten 1  speichern.
 
 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
@@ -958,43 +958,33 @@ Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM1 verfügt,
 
 **Administrative Daten**
 
-DMP-Fallnummer
+**Erstdokumentation**
 
-Krankenhaus-IK
+DMP-Fallnummer 6520
+
+Krankenhaus-IK 856215715
 
 Dokumentation in Vertretung erstellt
 
-Datum
+Datum 06.10.2023 06.04.2024
 
 Einschreibung wegen
 
+COPD, KHK, Diabetes  mellitus Typ 1
+
 Geschlecht
+
+Männlich
 
 **Allgemeine Anamnese- und Befunddaten**
 
-Körpergröße
+Körpergröße 1,75 m
 
-Körpergewicht
+Körpergewicht 064 kg
 
-Blutdruck
+Blutdruck 120 / 70 mmHg
 
-Raucher (Versichertendaten 1
-
-**Erstdokumentation**
-
-6520
-
-856215715
-
-06.10.2023 06.04.2024
-
-COPD, KHK, Diabetes  mellitus Typ 1
-
-Männlich 1,75 m
-
-064 kg
-
-120 / 70 mmHg
+Raucher
 
 Ja
 
@@ -1071,7 +1061,7 @@ DM1 Intervall für künftige Fußinspektionen (bei  Patientinnen und Patienten a
 
 DM1 Spätfolgen
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD- Dokumentation sind dies  KHK und Diabetes  mellitus
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD-Dokumentation sind dies  KHK und Diabetes  mellitus
 
 Tabakverzicht
 
@@ -1101,7 +1091,7 @@ alle 6 Monate
 
 Diabetische  Nephropathie
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD- Dokumentation sind dies  KHK und Diabetes  mellitus
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD-Dokumentation sind dies  KHK und Diabetes  mellitus
 
 Jedes zweite Quartal 06.12.2023 06.07.2024
 
@@ -1548,7 +1538,7 @@ Empfehlung zum körperlichen Training ausgesprochen 06.10.2023 06.04
 
 **Erstdokumentation**
 
-Monate) 300,0 Prozent des Soll- Wertes
+Monate) 300,0 Prozent des Soll-Wertes
 
 Nein 3
 

@@ -541,7 +541,7 @@ Halbjährlich oder häufiger 170 1,70
 
 05.04.2023 05.10.2024
 
-BET, Mastektomie, Sentinel- Lymphknoten-Biopsie, Axilläre  Lymphonodektomie, Anderes  Vorgehen
+BET, Mastektomie, Sentinel-Lymphknoten-Biopsie, Axilläre  Lymphonodektomie, Anderes  Vorgehen
 
 
 ---
@@ -602,7 +602,7 @@ Ja,  Kompressionsarmstrumpfthera pie erforderlich
 
 Ja
 
-Anthrazykline (Doxorubicin,  Epirubicin), Anti-HER2- Substanzen, linksthorakale  Bestrahlung
+Anthrazykline (Doxorubicin,  Epirubicin), Anti-HER2-Substanzen, linksthorakale  Bestrahlung
 
 
 ---
@@ -757,7 +757,7 @@ Halbjährlich oder häufiger 165 1,65
 
 ---
 
-Fernmetastasen Datum der diagnostischen  Fernmetastasen
+Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen
 
 **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen**
 
@@ -779,7 +779,7 @@ Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß  Immunreaktiver Sco
 
 Aktuelle adjuvante endokrine Therapie
 
-Nebenwirkungen der aktuellen adjuvanten endokrinen
+Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie
 
 Fortführung der adjuvanten endokrinen Therapie
 
@@ -800,10 +800,6 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
-
-Sicherung von
-
-Therapie
 
 **Brustkrebses**
 
@@ -1184,7 +1180,7 @@ Nein
 
 Ja
 
-Trastuzumab Anti-HER2- Substanzen
+Trastuzumab Anti-HER2-Substanzen
 
 **Rezidiv / Fernmetastasen)**
 
@@ -2615,7 +2611,7 @@ Seite 43 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 /
 
 **Dokument**
 
-KBV_ITA_VGEX_XML-Schnittstellen -  Austausch von XML Daten in der  Vertragsärztlichen Versorgung
+KBV_ITA_VGEX_XML-Schnittstellen - Austausch von XML Daten in der  Vertragsärztlichen Versorgung
 
 Ausfüllanleitung zur Erst- und  Folgedokumentation im strukturierten  Behandlungsprogramm Brustkrebs
 

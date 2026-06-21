@@ -79,15 +79,15 @@ BMP)
 
 7 2D-Barcode ...................................................................................................................45
 
-7.1 Inhalte des 2D-Barcodes/Carriersegment
+7.1 Inhalte des 2D-Barcodes/Carriersegment .............................................................45
 
 7.2 Datamatrix 2D-Barcode .........................................................................................46
 
-7.3 Datenfelder des Carriersegments (2D
+7.3 Datenfelder des Carriersegments (2D-Barcode) (normativ) ..................................47
 
-Anhang 1 (normativ): Externe Datenquellen, Normen und Vorgaben
+Anhang 1 (normativ): Externe Datenquellen, Normen und Vorgaben ..................................60
 
-Anhang 2 (normativ): Codesystem, Schlüsselworte, Sonderzeichen und Syntaxregeln
+Anhang 2 (normativ): Codesystem, Schlüsselworte, Sonderzeichen und Syntaxregeln ........62
 
 A 2.1 Codesystem ..........................................................................................................62
 
@@ -95,7 +95,7 @@ A 2.2 Bedeutung der Felder .....................................................
 
 A 2.3 Schlüsselworte ......................................................................................................66
 
-A 2.5 Zeichenfolge mit besonderer Bedeutung
+A 2.5 Zeichenfolge mit besonderer Bedeutung ...............................................................68
 
 A 2.6 Brüche - Dezimalschreibweise ..............................................................................68
 
@@ -107,7 +107,7 @@ A 2.9 Wertebereich von ISO/IEC 8859-1 ..........................................
 
 A 2.10  Schreibweise Wirkstärke ..................................................................................69
 
-Anhang 4 (normativ): Schlüsselworte für Dosiereinheiten
+Anhang 4 (normativ): Schlüsselworte für Dosiereinheiten .....................................................70
 
 Anhang 5 (informativ): Referenzen .......................................................................................71
 
@@ -117,19 +117,7 @@ Anhang 7 (informativ): Datenblatt ..............................................
 
 Anhang 8 (XML-Schema, normativ)......................................................................................75
 
-Anhang 9 (normativ): Regeln zur Anwendung auf die Daten
-
-.............................................................45
-
--Barcode) (normativ) ..................................47
-
-..................................60 ........62
-
-...............................................................68
-
-.....................................................70
-
-................................................83
+Anhang 9 (normativ): Regeln zur Anwendung auf die Daten ................................................83
 
 
 ---
@@ -172,7 +160,7 @@ Für eine breite Nutzung des BMP ist es unverzichtbar, neben der einfachen Handh
 
 Medikationsprozess beteiligten Akteur*innen anzubieten. Dazu werden die Inhalte des
 
-Medikationsplans sowohl in Papierform als auch in maschinenlesbarer Form bereitgestellt. Auf  dem Ausdruck liegen die Inhalte als Medikationsplandaten maschinenlesbar in Form eines 2D- Barcodes vor.
+Medikationsplans sowohl in Papierform als auch in maschinenlesbarer Form bereitgestellt. Auf  dem Ausdruck liegen die Inhalte als Medikationsplandaten maschinenlesbar in Form eines 2D-Barcodes vor.
 
 ## 2.2 Berücksichtigung der besonderen Belange blinder und seh- behinderter Patientinnen
 
@@ -186,11 +174,11 @@ Konkrete Vorgaben für die Erstellung solcher Softwareanwendungen sind nicht Bes
 
 ## 2.3 Nutzung für AMTS-Prüfung
 
-Die auf dem Medikationsplan enthaltenen Informationen können grundsätzlich für die AMTS- Prüfung durch Ärzt*innen und Apotheker*innen genutzt werden. Die Beschreibung von
+Die auf dem Medikationsplan enthaltenen Informationen können grundsätzlich für die AMTS-Prüfung durch Ärzt*innen und Apotheker*innen genutzt werden. Die Beschreibung von
 
 Anforderungen an AMTS-Prüfungen ist nicht Bestandteil dieser Spezifikation. Der mit der
 
-Spezifikation beschriebene Medikationsplan kann für eine systematische nicht- rechnergestützte AMTS-Prüfung genutzt werden. Die Daten des Medikationsplans können  zudem auch für eine rechnergestützte AMTS-Prüfung genutzt werden.
+Spezifikation beschriebene Medikationsplan kann für eine systematische nicht-rechnergestützte AMTS-Prüfung genutzt werden. Die Daten des Medikationsplans können  zudem auch für eine rechnergestützte AMTS-Prüfung genutzt werden.
 
 
 ---
@@ -366,7 +354,7 @@ Medikationsplans ist für folgende Szenarien eine Übernahme von Medikationsdate
 
 Das PVS übernimmt die Speicherung der Medikationen aus den o. g. Datenquellen in der  zugehörigen Patientendokumentation im PVS
 
-Das MP-Modul soll den/die Arzt/Ärztin bei der Zusammenführung von Medikationsplänen  elektronisch durch Abgleich des im PVS gespeicherten gegen den aktuell über den 2D- Barcode eingelesenen Datensatz unterstützen (siehe Kap
+Das MP-Modul soll den/die Arzt/Ärztin bei der Zusammenführung von Medikationsplänen  elektronisch durch Abgleich des im PVS gespeicherten gegen den aktuell über den 2D-Barcode eingelesenen Datensatz unterstützen (siehe Kap
 
 Der Aufruf des MP-Moduls muss zu jeder Zeit
 
@@ -569,7 +557,7 @@ Der bisher gültige Medikationsplan ist soweit möglich zu vernichten oder durch
 
 Der/die Patient*in hat bereits einen Medikationsplan und legt diesen bei einem/einer  mitbehandelnden Vertragsarzt/-ärztin zur Aktualisierung vor. Der/die Vertragsarzt/-ärztin kann  den Plan hinsichtlich der von ihm/ihr verordneten Arzneimittel aktualisieren.
 
-Der vom/von der Patient*in vorgelegte Medikationsplan wird mit dem MP-Modul über den 2D- 2D-Barcode eingelesen. Der entsprechende Datensatz kann ggf. durch das MP-Modul mit  einer zuletzt im PVS des/der mitbehandelnden Arztes/Ärztin gespeicherten Version  abgeglichen werden. Dabei sind Unterschiede in den Daten optisch darzustellen. Durch  entsprechende Auswahlmöglichkeiten ist den Anwendenden die Möglichkeit zur Ablehnung,
+Der vom/von der Patient*in vorgelegte Medikationsplan wird mit dem MP-Modul über den 2D-2D-Barcode eingelesen. Der entsprechende Datensatz kann ggf. durch das MP-Modul mit  einer zuletzt im PVS des/der mitbehandelnden Arztes/Ärztin gespeicherten Version  abgeglichen werden. Dabei sind Unterschiede in den Daten optisch darzustellen. Durch  entsprechende Auswahlmöglichkeiten ist den Anwendenden die Möglichkeit zur Ablehnung,
 
 Übernahme oder Abänderung der festgestellten Unterschiede zu geben.
 
@@ -604,7 +592,7 @@ Bestandteil des Entlassmanagements kann auch eine Arzneimitteltherapie sein. Der
 
 Arzt/Ärztin prüft, ob die Kriterien für die Erstellung eines Medikationsplans erfüllt sind.
 
-Die für die Erstellung des Medikationsplans notwendigen Daten sind im Krankenhaus- informationssystem in geeigneter Form zu speichern. Dabei müssen mindestens folgende
+Die für die Erstellung des Medikationsplans notwendigen Daten sind im Krankenhaus-informationssystem in geeigneter Form zu speichern. Dabei müssen mindestens folgende
 
 Daten vom Arzt erfasst und dauerhaft gespeichert werden können:
 
@@ -760,7 +748,7 @@ Code position zugeordnet ist. Sie enthält ggf. ergänzende Informationen zur Do
 
 Inhalt und Position der Zwischenüberschrift werden durch die Anwendenden festgelegt. Der
 
-Inhalt kann von den Anwendenden in Form von Freitext eingegeben oder aus den in Anhang  2.3 festgelegten Werten ausgewählt werden. Das Hinterlegen anwenderdefinierter Standard- Textbausteine für Zwischenüberschriften im MP-Modul ist zulässig und soll möglich sein.
+Inhalt kann von den Anwendenden in Form von Freitext eingegeben oder aus den in Anhang  2.3 festgelegten Werten ausgewählt werden. Das Hinterlegen anwenderdefinierter Standard-Textbausteine für Zwischenüberschriften im MP-Modul ist zulässig und soll möglich sein.
 
 **Mehrkomponentenpräparat**
 
@@ -1199,9 +1187,9 @@ Ausnahmen definiert.
 
 Gesamtbreite und die maximale Gesamthöhe der Medikationstabelle sowie die Maße des
 
-Administrationsblocks gilt ebenfalls eine Abweichungstoleranz von +/-1 mm. Diese Toleranz- maße gelten nicht für die Ruhezone und den Datamatrix-Code.
+Administrationsblocks gilt ebenfalls eine Abweichungstoleranz von +/-1 mm. Diese Toleranz-maße gelten nicht für die Ruhezone und den Datamatrix-Code.
 
-**Abstand Spaltentrennstrich:** Mit dem Ziel, ein Verschmelzen von vertikalem Spalten- trennstrich und angrenzendem Text zu verhindern, soll ein Abstand links- und rechtsseitig von  jedem Spaltentrennstrich von 1,00 1,25 mm eingehalten werden.
+**Abstand Spaltentrennstrich:** Mit dem Ziel, ein Verschmelzen von vertikalem Spalten-trennstrich und angrenzendem Text zu verhindern, soll ein Abstand links- und rechtsseitig von  jedem Spaltentrennstrich von 1,00 1,25 mm eingehalten werden.
 
 
 ---
@@ -1342,7 +1330,7 @@ Die Parameter werden (wenn vorhanden) in folgender Reihenfolge aufgelistet:
 
 ### 6.2.3 Der Carrierbereich
 
-Auf dem Medikationsplan ist ein Carrierbereich vorgesehen, um einen rechteckigen 2D- Barcode (3.2) aufzunehmen. Folgende Kennwerte sind dabei zu beachten:
+Auf dem Medikationsplan ist ein Carrierbereich vorgesehen, um einen rechteckigen 2D-Barcode (3.2) aufzunehmen. Folgende Kennwerte sind dabei zu beachten:
 
 **Empfohlene Matrixgröße:**
 
@@ -1400,7 +1388,7 @@ Aus dem Beispielausdruck Abbildung 2 2D-Barcodes:
 
 <A
 
-lanr="123456667" n="Dr. Manfred Überall" s="Hauptstraße 55" z="01234" c="Am Ort" p="04562- 12345" e="[m.ue@praxis-ueberall.de](mailto:m.ue@praxis-ueberall.de)" t="2023-04-01T12:00:00"/>
+lanr="123456667" n="Dr. Manfred Überall" s="Hauptstraße 55" z="01234" c="Am Ort" p="04562-12345" e="[m.ue@praxis-ueberall.de](mailto:m.ue@praxis-ueberall.de)" t="2023-04-01T12:00:00"/>
 
 O ai Penicillin w 85.0"/>
 
@@ -1458,7 +1446,7 @@ Im Anhang 8 (XML-Schema, normativ) sind das XML-Schema und weitere Test-MP aufge
 
 Die Medikationstabelle gliedert sich vertikal in Spalten (siehe 5.1.2) bzw. horizontal in  sogenannte „Medikationstabellenzeilen“. Pro Seite ist in der Medikationstabelle Platz für eine
 
-Tabellenüberschrift-Zeile und bis zu 15 Medikationstabellenzeilen. Eine Medikations- tabellenzeile kann von der Gestalt her ein Medikationseintrag, ein Rezeptureintrag, eine
+Tabellenüberschrift-Zeile und bis zu 15 Medikationstabellenzeilen. Eine Medikations-tabellenzeile kann von der Gestalt her ein Medikationseintrag, ein Rezeptureintrag, eine
 
 Zwischenüberschrift oder eine Freitextzeile sein.
 
@@ -1725,7 +1713,7 @@ Bei der Anlage von Zeilenumbrüchen SOLL das MP-Modul in der Zeichenkette des
 
 Feldinhaltes das geeignete Leerzeichen suchen und dieses Leerzeichen dann im Ausdruck  durch einen Zeilenumbruch umsetzen oder den Umbruch als Wordwrap umsetzen.
 
-Das MP-Modul MUSS Zeilenumbrüche in Arzneimittelnamen zwischen zwei Ziffern  unterbinden (z. B. „mein-schöner-Handelsname 10000mg“ DARF NICHT in „mein-schöner- Handelsname 100“ und „00mg“ getrennt werden, sondern MUSS, wenn ein Zeilenumbruch  notwendig ist, in „mein-schöner-Handelsname“ und „10000mg“ getrennt werden).
+Das MP-Modul MUSS Zeilenumbrüche in Arzneimittelnamen zwischen zwei Ziffern  unterbinden (z. B. „mein-schöner-Handelsname 10000mg“ DARF NICHT in „mein-schöner-Handelsname 100“ und „00mg“ getrennt werden, sondern MUSS, wenn ein Zeilenumbruch  notwendig ist, in „mein-schöner-Handelsname“ und „10000mg“ getrennt werden).
 
 Dabei ist zu beachten, dass bei mehrzeiligen Einträgen die Schriftgröße, entsprechend der in  den folgenden Feldbeschreibungen genannten Regeln, reduziert werden muss.
 
@@ -1910,9 +1898,9 @@ In manchen Fällen kann es vorkommen, dass ein Code sich nicht auflösen lässt.
 
 ## 7.2 Datamatrix 2D-Barcode
 
-Die XML-Daten im Carriersegment können mit geeigneten Werkzeugen in einen Datamatrix- Barcode gewandelt werden.
+Die XML-Daten im Carriersegment können mit geeigneten Werkzeugen in einen Datamatrix-Barcode gewandelt werden.
 
-Dieser Code lässt sich mit handelsüblichen Scannern oder Mobiltelefonen inkl. Scan- Anwendung einlesen und die XML-Daten
+Dieser Code lässt sich mit handelsüblichen Scannern oder Mobiltelefonen inkl. Scan-Anwendung einlesen und die XML-Daten
 
 zurückgewinnen.
 
@@ -1933,11 +1921,11 @@ Aus Gründen der Optimierung enthält die im 2D -Barcode abgelegte XML-Zeichenke
 
 Leerzeichen, Tabulatoren und Umbrüche zwischen den einzelnen XML-Elementen und die
 
-Zeichenkette beginnt direkt mit
+Zeichenkette beginnt direkt mit dem Wurzelelement
 
-U= B544B6976AB84E3498AA96D8E6FA29C1
+U= B544B6976AB84E3498AA96D8E6FA29C1 v=“028“ …) und enthält
 
-(die sonst übliche Definition der Codierung,
+(die sonst übliche Definition der Codierung, des XML-Schemas
 
 Namespaces). Die zum Speichern der XML-Daten verwendete Kodierung ist ISO-8859-1.
 
@@ -1948,12 +1936,6 @@ Beim Parsen ist anzunehmen, dass den XML-Instanzen <?xml version=
 ## 7.3 Datenfelder des Carriersegments (2D-Barcode) (normativ)
 
 ### 7.3.1 Carriersegment
-
-dem Wurzelelement
-
-v=“028“ …) und enthält
-
-des XML-Schemas
 
 **Nutzung**
 
@@ -1993,7 +1975,7 @@ In der folgenden Tabelle sind die Datenfelder für die Verwendung im
 
 (z. B. <MP  keinen XML-Prolog  und verwendeter
 
-1.0 encoding= ISO- -Prolog weggelassen werden.
+1.0 encoding= ISO--Prolog weggelassen werden.
 
 6.2.3
 
@@ -2744,7 +2726,7 @@ Carriersegment erhalten bleiben. Sie darf nur durch eine Aktion der Anwendenden 
 
 Medikationstabelleneinträge, die nach einer Zwischenüberschrift stehen, sind inhaltlich als  dieser zugeordnet zu interpretieren (inkl. einer Zuordnung in der Datenstruktur).
 
-Alle Medikationsblöcke (MP.S) im XML-Carrier mit Ausnahme des ersten (= Medikations- blöcke, die nicht am Anfang stehen), müssen eine Zwischenüberschrift haben.
+Alle Medikationsblöcke (MP.S) im XML-Carrier mit Ausnahme des ersten (= Medikations-blöcke, die nicht am Anfang stehen), müssen eine Zwischenüberschrift haben.
 
 ### 7.3.4 Gesamtes Datenvolumen
 
@@ -2775,7 +2757,7 @@ Rezepturzeile, gebundene Zusatzzeile, zusätzliche Zeile bzgl. der wöchentliche
 
 Hinweis oder Behandlungsgrund erlaubt.
 
-Bei der Eingabe für diese Felder in der Programmoberfläche ist die Verwendung des Tilde - Zeichens „~“ nicht erlaubt.
+Bei der Eingabe für diese Felder in der Programmoberfläche ist die Verwendung des Tilde -Zeichens „~“ nicht erlaubt.
 
 ### 7.3.6 Konformität und Validierung des Schemas
 
@@ -3658,7 +3640,7 @@ Fax  Kopierer - Scanner:
 
 PDF-Konverter:
 
-Die Konvertierung eines Ausdruckes durch einen PDF Konverter kann zur Zerstörung der 2D-Barcode- Information führen.
+Die Konvertierung eines Ausdruckes durch einen PDF Konverter kann zur Zerstörung der 2D-Barcode-Information führen.
 
 Syntax:
 

@@ -87,61 +87,66 @@ Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Di
 
 ---
 
-| Plausibilitäten | Erfolgt die Angabe im Feld „ml/min/1,73m | Wertebereich 0 bis 200 |  |
-|---|---|---|---|
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitäten** |
-| 3 | Fußstatus | | |
-| 1. | Unauffällig / Auffällig / Nicht untersucht | 2. | |
-| Unauffällig / Auffällig / Nicht untersucht |  | 3. | Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4.  oberflächlich / tief / nein / nicht untersucht    5. |
-|  | ja / nein / nicht untersucht | Bedingtes Pflichtfeld | Wenn die Differenz aus der Datumsangabe in Feld 22  -        UND  - |
-| - |  | UND | - |
-|  | - |  | Zu 1. Pulsstatus: genau eine Angabe ist zulässig. |
-|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 |
-| 3 | Fußstatus | 1.  Unauffällig / Auffällig / Nicht untersucht     2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4.  oberflächlich / tief / nein / nicht untersucht    5.  ja / nein / nicht untersucht | Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  -        UND  -  -        UND  -  -    Zu 1. Pulsstatus: genau eine Angabe ist zulässig.    Zu 2. Sensibilitätsprüfung: genau eine Angabe ist    Zu 3. Weiteres Risiko für Ulkus: mindestens eine    Wenn die Angabe „ Wenn die Angabe „ |
-|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200    3 |
-| Fußstatus | 1. |  | Unauffällig / Auffällig / Nicht untersucht     2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4. |
-|  | oberflächlich / tief / nein / nicht untersucht |  | 5.  ja / nein / nicht untersucht |
-| Bedingtes Pflichtfeld |  | Wenn die Differenz aus der Datumsangabe in Feld 22 | -        UND  - |
-| Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
-|  | Unauffällig / Auffällig / Nicht untersucht |  | 2.  Unauffällig / Auffällig / Nicht untersucht     3. |
-| Fußdeformität / Hyperkeratose mit | ja / nein / nicht untersucht |  | 4.  oberflächlich / tief / nein / nicht untersucht    5.  ja / nein / nicht untersucht |
-|  | Bedingtes Pflichtfeld |  | Wenn die Differenz aus der Datumsangabe in Feld 22 |
-| - |  | UND | -  -        UND  -  - |
-| Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
-|  | Unauffällig / Auffällig / Nicht untersucht | 2. | Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
-|  |  | 4. |  |
-| oberflächlich / tief / nein / nicht untersucht |  | 5. | ja / nein / nicht untersucht       Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  -        UND  - |
-|  | - |  | UND  -  - |
-|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200    3 |
-| Fußstatus | 1.  Unauffällig / Auffällig / Nicht untersucht |  | 2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4. |
-|  | oberflächlich / tief / nein / nicht untersucht | 5. | ja / nein / nicht untersucht       Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  - |
-|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 |
-|  | 3 | Fußstatus | 1.  Unauffällig / Auffällig / Nicht untersucht     2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
-|  | 4. | oberflächlich / tief / nein / nicht untersucht | 5. |
-|  | ja / nein / nicht untersucht | Bedingtes Pflichtfeld |  |
-| Wenn die Differenz aus der Datumsangabe in Feld 22 | - | UND  - |  |
-| - | UND | - | - |
-| Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 | 3 | Fußstatus   1. | |
-|  | Unauffällig / Auffällig / Nicht untersucht |  | 2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
-|  |  | 4. | oberflächlich / tief / nein / nicht untersucht    5.  ja / nein / nicht untersucht       Bedingtes Pflichtfeld |
-|  | Wenn die Differenz aus der Datumsangabe in Feld 22 | -        UND  -  - | UND  -  - |
-|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200    3   Fußstatus   1. |
-| Unauffällig / Auffällig / Nicht untersucht | 2. | Unauffällig / Auffällig / Nicht untersucht | |
-|  | 3. |  | Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht |
-|  | 4. |  | oberflächlich / tief / nein / nicht untersucht    5.  ja / nein / nicht untersucht       Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22  - |
-|  | UND | - | -        UND |
-|  |  |  | Erfolgt die Angabe im Feld „ml/min/1,73m Wertebereich 0 bis 200 |
-| 3 | Fußstatus   1. | Unauffällig / Auffällig / Nicht untersucht |  |
+**Lfd.**  **Nr.**
 
-Nr. nummerischer Wert; Angabe ohne Nachkommastelle KOF“: Einblutung / Z. n. Ulkus /Z. n. Amputation / (Wund)Infektion: der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von >=18 Jahren ergeben, muss jeweils  genau eine Angabe zu „ Pulsstatus“ genau eine Angabe zu genau eine Angabe zu „4. Ulkus“ genau eine Angabe zu „5. (Wund)Infektion“ mindestens eine Angabe zu „3. us“ erfolgen. weiteres Risiko Angabe ist erforderlich, Mehrfachnennungen sind möglich. weitere Angabe zulässig. “ erfolgt ist, ist keine Angabe zulässig. Alle anderen Kombinationen sind zulässig. “ erfolgt ist, ist keine weitere
+**Parameter**
+
+**Ausprägung**
+
+**Plausibilitäten**
+
+Erfolgt die Angabe im Feld „ml/min/1,73m2 KOF“:  nummerischer Wert; Angabe ohne Nachkommastelle
+
+Wertebereich 0 bis 200 3 Fußstatus
+
+- 1. Pulsstatus:
+
+Unauffällig / Auffällig / Nicht untersucht
+
+- 2. Sensibilitätsprüfung:
+
+Unauffällig / Auffällig / Nicht untersucht
+
+- 3. Weiteres Risiko für Ulkus:
+
+Fußdeformität / Hyperkeratose mit  Einblutung / Z. n. Ulkus /Z. n. Amputation /
+
+ja / nein / nicht untersucht
+
+- 4. Ulkus:
+
+oberflächlich / tief / nein / nicht untersucht
+
+- 5. (Wund)Infektion:
+
+ja / nein / nicht untersucht
+
+Bedingtes Pflichtfeld
+
+Wenn die Differenz aus der Datumsangabe in Feld 22  der Plausibilitätsregeln zur Anlage 2* minus der  Datumsangabe in Feld 3 der Plausibilitätsregeln zur  Anlage 2* ein Lebensalter von >=18 Jahren ergeben,  muss jeweils
+
+- genau eine Angabe zu „1. Pulsstatus“
+
+UND
+
+- genau eine Angabe zu 2. Sensibilitätsprüfung UND
+- genau eine Angabe zu „4. Ulkus“
+
+UND
+
+- genau eine Angabe zu „5. (Wund)Infektion“   UND
+- mindestens eine Angabe zu „3. weiteres Risiko  für Ulkus“ erfolgen.
+
+Zu 1. Pulsstatus: genau eine Angabe ist zulässig.
+
+Zu 2. Sensibilitätsprüfung: genau eine Angabe ist  zulässig.
+
+Zu 3. Weiteres Risiko für Ulkus: mindestens eine  Angabe ist erforderlich, Mehrfachnennungen sind  möglich.
+
+Wenn die Angabe „nicht untersucht“ erfolgt ist, ist keine  weitere Angabe zulässig.
+
+Wenn die Angabe „nein“ erfolgt ist, ist keine weitere  Angabe zulässig.  Alle anderen Kombinationen sind zulässig.
+
 
 ---
 

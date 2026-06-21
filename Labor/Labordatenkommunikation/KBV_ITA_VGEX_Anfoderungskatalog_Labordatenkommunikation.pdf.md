@@ -32,19 +32,27 @@ und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM vo
 
 **INHALTSVERZEICHNIS**
 
+**3**
+
 **1** **ALLGEMEINES**
 
-**1.1** **Zertifizierung ................................................................................................................................**
+**4**
 
-**1.2** **Vereinbarungen ................................................................................................**
+**1.1** **Zertifizierung .................................................................................................................................. 4**
 
-**1.3** **Abgrenzung ................................................................................................................................**
+**1.2** **Vereinbarungen ............................................................................................................................. 5**
 
-**1.4** **Funktion ................................................................................................................................**
+**1.3** **Abgrenzung .................................................................................................................................... 6**
+
+**1.4** **Funktion ......................................................................................................................................... 6**
 
 **2** **LABORDATENKOMMUNIKATION**
 
+**7**
+
 **3** **DIGITALE VORDRUCKE**
+
+**12**
 
 **3.1** **Musterübergreifende Anforderungen ........................................................................................ 12**
 
@@ -56,26 +64,15 @@ und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM vo
 
 **4** **LABORDATENTRANSFER**
 
-**4.1** **LDT-Auftrag .................................................................................................................................. 23** 4.1.1 Übergreifende Anforderungen beim LDT-Auftrag ............................................................... 23 4.1.2 Export des LDT-Auftrags ..................................................................................................... 25 4.1.3 Import des LDT-Auftrags ..................................................................................................... 27
+**23**
 
-**4.2** **LDT Befund .................................................................................................................................. 30** 4.2.1 Export des LDT Befunds ...................................................................................................... 30 4.2.2 Import des LDT Befunds ...................................................................................................... 33
+**4.1** **LDT-Auftrag .................................................................................................................................. 23**  4.1.1 Übergreifende Anforderungen beim LDT-Auftrag ............................................................... 23  4.1.2 Export des LDT-Auftrags ..................................................................................................... 25  4.1.3 Import des LDT-Auftrags ..................................................................................................... 27
+
+**4.2** **LDT Befund .................................................................................................................................. 30**  4.2.1 Export des LDT Befunds ...................................................................................................... 30  4.2.2 Import des LDT Befunds ...................................................................................................... 33
 
 **5** **REFERENZIERTE DOKUMENTE**
 
-**3**  **4**
-
-**.. 4**
-
-**............................. 5**
-
-**.... 6**
-
-**......... 6**  **7**  **12**
-
-**23**
-
 **39**
-
 
 ---
 
@@ -99,7 +96,7 @@ Dieser Anforderungskatalog richtet sich an Systeme, welche die Labordatenkommuni
 
 Die Grundlage für die Zertifizierung der Labordatenkommunikation bildet die  Zertifizierungsrichtlinie der KBV [KBV_ITA_RLEX_RiLi_Zert]. Ein Softwareprodukt, welches  eine Zulassung für die Labordatenkommunikation anstrebt, wird in diesem  Anforderungsdokument als „System“ bezeichnet.
 
-Welche der oben genannten Bereiche das System zur Unterstützung der Labordaten- kommunikation beinhalten muss, ist vom Einsatzgebiet des Systems abhängig und demzufolge  dem Antragsteller (Softwarehersteller) freigestellt. Allerdings sind die Anforderungen des  entsprechenden Bereiches, die mit dem Antrag auf Zertifizierung (Ergänzende Erklärung)  Labordatenkommunikation KBV_ITA_FMEX_EE_LDK beantragt wurden, vollständig und  widerspruchsfrei umzusetzen. Es gilt folgende Zuordnung zwischen den Bereichen und den im  vorliegenden Dokument definierten Anforderungen:
+Welche der oben genannten Bereiche das System zur Unterstützung der Labordaten-kommunikation beinhalten muss, ist vom Einsatzgebiet des Systems abhängig und demzufolge  dem Antragsteller (Softwarehersteller) freigestellt. Allerdings sind die Anforderungen des  entsprechenden Bereiches, die mit dem Antrag auf Zertifizierung (Ergänzende Erklärung)  Labordatenkommunikation KBV_ITA_FMEX_EE_LDK beantragt wurden, vollständig und  widerspruchsfrei umzusetzen. Es gilt folgende Zuordnung zwischen den Bereichen und den im  vorliegenden Dokument definierten Anforderungen:
 
 ---
 
@@ -119,7 +116,7 @@ Welche der oben genannten Bereiche das System zur Unterstützung der Labordaten-
 
 ## 1.2 Vereinbarungen
 
-Die Vereinbarung über die Verwendung der digitalen Vordrucke in der vertragsärztlichen  Versorgung (Anlage 2b BMV-Ä) KBV_BMV-Ä_Anlage_2b Anforderungen zu den digitalen Mustern dar. Eine Konkretisierung der technischen Vorgaben  für die digitalen Muster 10 und 10A findet im  PDF/A-Format KBV_ITA_VGEX_Technisches_Handbuch_DiMus oder digitale Muster 10A sind entsprechend  entsprechenden Papiermuster einsetzbar und sind, wie die Papiermuster, die abrechnungs- begründende Unterlage.
+Die Vereinbarung über die Verwendung der digitalen Vordrucke in der vertragsärztlichen  Versorgung (Anlage 2b BMV-Ä) KBV_BMV-Ä_Anlage_2b Anforderungen zu den digitalen Mustern dar. Eine Konkretisierung der technischen Vorgaben  für die digitalen Muster 10 und 10A findet im  PDF/A-Format KBV_ITA_VGEX_Technisches_Handbuch_DiMus oder digitale Muster 10A sind entsprechend  entsprechenden Papiermuster einsetzbar und sind, wie die Papiermuster, die abrechnungs-begründende Unterlage.
 
 stellt die Grundlage für
 
@@ -154,7 +151,7 @@ Abrechnungsverkehr  darf nicht gegen
 
 muss in das System implementiert
 
-in der „LDT-3 Satz- ] definiert.
+in der „LDT-3 Satz-] definiert.
 
 der Anwender mit den  die KVDT-Anforderungen
 
@@ -284,7 +281,7 @@ Diese Anforderung gilt nur für Systeme, welche mindestens einen der folgenden B
 
 **Hinweis:**
 
-Es wird empfohlen die Spezifikation der KIM- „LDT Befund“ [LDT-Befund] der kv.digital umzusetzen.
+Es wird empfohlen die Spezifikation der KIM-„LDT Befund“ [LDT-Befund] der kv.digital umzusetzen.
 
 ```
 -
@@ -307,15 +304,15 @@ Rahmen der LDT-Dateien
 |---|---|
 | KP2-40 | Gleichzeitiger Export vom digitalen Muster 10 und/oder 10A und einer LDT- |
 
-Wird im Rahmen eines Laborauftrags parallel ein digitales Muster 10 bzw. 10A und ein LDT- Auftrag exportiert, so stellt das System sicher, dass alle Inhalte des digitalen Musters identisch  in der LDT-Datei vorhanden sind.
+Wird im Rahmen eines Laborauftrags parallel ein digitales Muster 10 bzw. 10A und ein LDT-Auftrag exportiert, so stellt das System sicher, dass alle Inhalte des digitalen Musters identisch  in der LDT-Datei vorhanden sind.
 
 **Begründung:**
 
-Sollte ein Laborauftrag sowohl als digitales Muster als auch LDT Konsistenz zwischen beiden Repräsentationen  Weiterverarbeitung des Laborauftrags sicherzustellen. Der Grundsatz, dass das digitale Muster  als abrechnungsbegründende Unterlage gilt, bleibt auch in diesem Fall bestehen.
+Sollte ein Laborauftrag sowohl als digitales Muster als auch LDT Konsistenz zwischen beiden Repräsentationen des Laborauftrags  Weiterverarbeitung des Laborauftrags sicherzustellen. Der Grundsatz, dass das digitale Muster  als abrechnungsbegründende Unterlage gilt, bleibt auch in diesem Fall bestehen.
 
 **Akzeptanzkriterium:**
 
-Informationen, die auf dem digitalen Muster und im LDT-Auftrag abgebildet werden können,  müssen in beiden Dateien inhaltlich gleich
+Informationen, die auf dem digitalen Muster und im LDT-Auftrag abgebildet werden können,  müssen in beiden Dateien inhaltlich gleich vorhanden sein.
 
 **Bedingung:**
 
@@ -323,11 +320,7 @@ Diese Anforderung gilt nur für Systeme, die mindestens eines der digitalen Must
 
 **Hinweis:**
 
-Für den inhaltlichen Abgleich eines Musters 10 bzw. Musters 10A mit der jeweiligen LDT- Auftrags-Datei, kann das System das KBV-Prüfmodul [XPM-LDK.praxis] mit dem Modus des  inhaltlichen Abgleichs zwischen LDT und PDF einsetzen. Das Prüfmodul verarbeitet dabei  entsprechend geeignete LDT-Dateien. Details dazu können dem Handbuch des [XPM- LDK.praxis] entnommen werden.
-
-des Laborauftrags
-
-vorhanden sein.
+Für den inhaltlichen Abgleich eines Musters 10 bzw. Musters 10A mit der jeweiligen LDT-Auftrags-Datei, kann das System das KBV-Prüfmodul [XPM-LDK.praxis] mit dem Modus des  inhaltlichen Abgleichs zwischen LDT und PDF einsetzen. Das Prüfmodul verarbeitet dabei  entsprechend geeignete LDT-Dateien. Details dazu können dem Handbuch des [XPM-LDK.praxis] entnommen werden.
 
 -Datei erstellt werden, ist die  für eine fehlerfreie
 
@@ -365,7 +358,7 @@ Diese Anforderung gilt für Systeme, die mindestens eines der digitalen Muster u
 
 **Hinweis:**
 
-Für den inhaltlichen Abgleich eines Musters 10 bzw. Musters 10A mit der jeweiligen LDT- Auftrags-Datei, kann das System das Prüfmodul Labordatenkommunikation [XPM-LDK.praxis]  mit dem Modus des inhaltlichen Abgleichs zwischen LDT und PDF einsetzen. Das Prüfmodul  verarbeitet dabei entsprechend geeignete LDT-Dateien. Details dazu können dem Handbuch  des [XPM-LDK.praxis] entnommen werden.
+Für den inhaltlichen Abgleich eines Musters 10 bzw. Musters 10A mit der jeweiligen LDT-Auftrags-Datei, kann das System das Prüfmodul Labordatenkommunikation [XPM-LDK.praxis]  mit dem Modus des inhaltlichen Abgleichs zwischen LDT und PDF einsetzen. Das Prüfmodul  verarbeitet dabei entsprechend geeignete LDT-Dateien. Details dazu können dem Handbuch  des [XPM-LDK.praxis] entnommen werden.
 
 -Datei
 
@@ -563,7 +556,7 @@ Das System muss
 **Hinweise:**
 
 -  Ein Überblick zu den durchgeführten Prüfungen im XMP-LDK.praxis kann dem Handbuch  KBV_ITA_AHEX_Handbuch_Pruefmodul_DiMus_Praxis] entnommen werden
--  Zusätzlich zum XPM -LDK.praxis stellt die KBV den KVen das Prüfmodul XPM Verfügung. Dieses Prüfmodul führt formelle Prüfungen des digitalen Musters durch. XPM- LDK.KV
+-  Zusätzlich zum XPM -LDK.praxis stellt die KBV den KVen das Prüfmodul XPM Verfügung. Dieses Prüfmodul führt formelle Prüfungen des digitalen Musters durch. XPM-LDK.KV
 - -LDK.KV zur
 -  Das Prüfmodul (XPM-LDK.KV) unterstützt nicht die Prüfung zwischen dem digitalen Muster  39 und dem LDT.
 
@@ -594,7 +587,7 @@ Um den Anwender in seiner Arbeit adäquat zu unterstützen, muss das System dem 
 
 -  Das System muss sicherstellen, dass für den Empfang des digitalen Musters ausschließlich  die im System verwendeten sicheren Übertragungswege eingesetzt werden [
 -  Das System muss sicherstellen, das mit dem Empfang des digitalen Musters automatisch  die Prüfung durch das Prüfmodul gemäß [ den Anwender nicht deaktiviert wurde [P2-20]
--  Wurde eine Laboratoriumsuntersuchung sowohl als digitales Muster als auch als LDT- Auftrag empfangen, gilt die Anforderung [
+-  Wurde eine Laboratoriumsuntersuchung sowohl als digitales Muster als auch als LDT-Auftrag empfangen, gilt die Anforderung [
 
 drei Teilprozessen durchgeführt:
 
@@ -731,7 +724,7 @@ Im Rahmen des Imports des digitalen Musters muss die Prüfung durch das Prüfmod
 
 # 4 Labordatentransfer
 
-Dieses Kapitel beinhaltet alle Anforderungen, die im Rahmen des Labordatentransfers (LDT)  umgesetzt werden müssen. Dabei sind die Vorgaben für den Export und Import des LDT- Auftrags dem Kapitel 4.1.1, die Export-Anforderungen des LDT-Auftrags dem Kapitel  die Import-Anforderungen des LDT-Auftrags dem Kapitel
+Dieses Kapitel beinhaltet alle Anforderungen, die im Rahmen des Labordatentransfers (LDT)  umgesetzt werden müssen. Dabei sind die Vorgaben für den Export und Import des LDT-Auftrags dem Kapitel 4.1.1, die Export-Anforderungen des LDT-Auftrags dem Kapitel  die Import-Anforderungen des LDT-Auftrags dem Kapitel
 
 Des Weiteren sind die Export-Anforderungen des LDT-Befunds im Kapitel  Anforderungen des LDT-Befunds im Kapitel
 
@@ -761,7 +754,7 @@ Für eine korrekte Verarbeitung der Personen- und Labordaten müssen sich die In
 
 4.1.2 und  4.1.3 zu entnehmen.
 
-4.2.1 und die Import- 4.2.2 beschrieben.
+4.2.1 und die Import-4.2.2 beschrieben.
 
 -Auftrags.
 
@@ -815,7 +808,7 @@ der
 
 LDT-3-Satzbeschreibung
 
-EXT_ITA_VGEX_LDT- 3_X_X_Gesamtdokument] entsprechen
+EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument] entsprechen
 
 | Pflichtfunktion Export des LDT-Auftrags | |
 |---|---|
@@ -854,7 +847,7 @@ Das System befüllt das Feld mit der Feldkennung  Auftragsnummer bei Erstellung 
 |---|---|
 | P4-50 | Einsatz des KBV-Prüfmoduls für den Export der LDT-Datei |
 
-Das System muss mit Hilfe des KBV-Prüfmoduls [XPM- Datei validieren.
+Das System muss mit Hilfe des KBV-Prüfmoduls [XPM-Datei validieren.
 
 **Begründung:**
 
@@ -897,7 +890,7 @@ Die folgenden Anforderungen gelten für den Import des LDT-Auftrages.
 |---|---|
 | P4-100 | Empfang eines LDT-Auftrags |
 
-Das System muss dem Anwender eine Funktion bieten, so dass dieser in der Lage ist, die LDT- Dateien über einen sicheren Übertragungsweg zu empfangen. Die empfangene LDT-Datei  erfüllt die Vorgaben der LDT-3-Satzbeschreibung EXT_ITA_VGEX_LDT- 3_X_X_Gesamtdokument
+Das System muss dem Anwender eine Funktion bieten, so dass dieser in der Lage ist, die LDT-Dateien über einen sicheren Übertragungsweg zu empfangen. Die empfangene LDT-Datei  erfüllt die Vorgaben der LDT-3-Satzbeschreibung EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument
 
 **Begründung:**
 
@@ -907,7 +900,7 @@ Um den Anwender in seiner Arbeit adäquat zu unterstützen, muss das System dem 
 
 -  Das System muss sicherstellen, dass für den Empfang der LDT -Datei ausschließlich die im  System verwendeten sicheren Übertragungswege eingesetzt werden P2-30
 -  Das System muss sicherstellen, das mit dem Empfang der LDT-Datei automatisch die  Prüfung durch das Prüfmodul gemäß P4-130 erfolgt, sofern die Funktionalität durch den  Anwender nicht deaktiviert wurde [P2-20]
--  Wurde eine Laboratoriumsuntersuchung sowohl als digitales Muster als auch als LDT- Auftrag empfangen, gilt die Anforderung KP2-50
+-  Wurde eine Laboratoriumsuntersuchung sowohl als digitales Muster als auch als LDT-Auftrag empfangen, gilt die Anforderung KP2-50
 
 | Pflichtfunktion LDT-Auftrag | |
 |---|---|
@@ -921,7 +914,7 @@ Um den Anwender in seiner Arbeit zu unterstützen, muss das System die Inhalte a
 
 **Akzeptanzkriterien:**
 
--  Das System importiert die GKV-relevanten Objekte der LDT-Aufträge, die den Vorgaben der  Auftragsübermittlung der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT- 3_X_X_Gesamtdokument] entsprechen.
+-  Das System importiert die GKV-relevanten Objekte der LDT-Aufträge, die den Vorgaben der  Auftragsübermittlung der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument] entsprechen.
 -  Es können alle Daten für den LDT-Auftrag, aus den in der LDT-3-Satzbeschreibung  definierten Feldern, in das System importiert und verarbeitet werden.
 
 
@@ -979,7 +972,7 @@ Das System muss
 |---|---|
 | P5-100 | Einsatz des KBV-Prüfmoduls für den Export der LDT-Befund-Datei |
 
-Das System muss mit Hilfe des KBV -Prüfmoduls [XPM- Datei validieren.
+Das System muss mit Hilfe des KBV -Prüfmoduls [XPM-Datei validieren.
 
 **Begründung:**
 
@@ -1042,7 +1035,7 @@ Befunde, welche noch den Status Auftrag nicht abgeschlossen haben, ermöglichen 
 
 **Akzeptanzkriterien:**
 
-Das System exportiert Laborbefunde im Status Auftrag nicht abgeschlossen nach den  Vorgaben der Befundübermittlung der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT- 3_X_X_Gesamtdokument] mit
+Das System exportiert Laborbefunde im Status Auftrag nicht abgeschlossen nach den  Vorgaben der Befundübermittlung der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument] mit
 
 -  Status (Befund/Bericht) (FK 8401) gesetzt auf Auftrag nicht abgeschlossen 1
 -  Das System sendet mit einem Befund im Status Auftrag nicht abgeschlossen alle  vorhandenen bzw. vom Anwender ausgewählten Untersuchungsergebnisse, unabhängig  davon, ob sie bereits versendet wurden.
@@ -1064,7 +1057,7 @@ Befunde im Status Auftrag abgeschlossen ermöglichen die Übertragung aller voll
 
 **Akzeptanzkriterien:**
 
-Das System exportiert Endbefunde nach den Vorgaben der Befundübermittlung der LDT-3- Satzbeschreibung mit
+Das System exportiert Endbefunde nach den Vorgaben der Befundübermittlung der LDT-3-Satzbeschreibung mit
 
 -  Status (Befund/Bericht) (FK 8401) gesetzt auf Auftrag abgeschlossen („2“)
 -  allen Testergebnissen der vollständigen Menge der angeforderten Untersuchungen,
@@ -1082,7 +1075,7 @@ Die Untersuchungen und dessen Ergebnisse müssen in Hinsicht auf ihren Status ch
 
 **Akzeptanzkriterien:**
 
-Das System exportiert Befunde nach den Vorgaben der Befundübermittlung der LDT-3- Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument , für die der Ergebnisstatus  (FK 8418) für alle Untersuchungsergebnisse gesetzt ist.
+Das System exportiert Befunde nach den Vorgaben der Befundübermittlung der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument , für die der Ergebnisstatus  (FK 8418) für alle Untersuchungsergebnisse gesetzt ist.
 
 |  | |
 |---|---|
@@ -1096,7 +1089,7 @@ Für eine Historisierung müssen die einzelnen Befunde einer Untersuchungsanford
 
 **Akzeptanzkriterien:**
 
-Auftrag abgeschlossen Pflichtfunktion Export von  LDT-Befund-Dateien -ID  Das System exportiert Befunde nach den Vorgaben der Befundübermittlung“ der LDT-3- Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument mit einer *Befund-ID* (FK
+Auftrag abgeschlossen Pflichtfunktion Export von  LDT-Befund-Dateien -ID  Das System exportiert Befunde nach den Vorgaben der Befundübermittlung“ der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument mit einer *Befund-ID* (FK
 
 
 ---
@@ -1109,7 +1102,7 @@ Auftrag abgeschlossen Pflichtfunktion Export von  LDT-Befund-Dateien -ID  Das Sy
 |---|---|
 | P5-195 | Einsatz des KBV-Prüfmoduls für den Import der LDT |
 
-Das System muss mit Hilfe des KBV -Prüfmoduls [XPM- Datei validieren.
+Das System muss mit Hilfe des KBV -Prüfmoduls [XPM-Datei validieren.
 
 **Begründung:**
 
@@ -1147,7 +1140,7 @@ die LDT-
 |---|---|
 | P5-200 | Import der Befunddaten |
 
-Das System muss strukturierte Befunddaten importieren und nach den Vorgaben der LDT-3- Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument verarbeiten können.
+Das System muss strukturierte Befunddaten importieren und nach den Vorgaben der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument verarbeiten können.
 
 **Begründung:**
 
@@ -1298,7 +1291,7 @@ Die Hinweise zu den durchgeführten Untersuchungen bzw. bei den ermittelten Erge
 
 **Akzeptanzkriterium:**
 
-Nachdem das System einen Befund, der den Vorgaben der Befundübermittlung der LDT-3- Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument entspricht, importiert und  einem Patienten zugeordnet hat, informiert das System den Anwender über:
+Nachdem das System einen Befund, der den Vorgaben der Befundübermittlung der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument entspricht, importiert und  einem Patienten zugeordnet hat, informiert das System den Anwender über:
 
 - 1. die bei jedem Vorkommen des Objekts Fehlermeldung/Aufmerksamkeit (Obj_0026)  hinterlegten Informationen im Befund,
 - 2. über die Informationen aus den Objekten

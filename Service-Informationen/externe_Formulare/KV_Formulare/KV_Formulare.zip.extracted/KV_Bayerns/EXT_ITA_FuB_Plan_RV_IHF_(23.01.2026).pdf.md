@@ -1,12 +1,12 @@
 Krankenkasse bzw. Kostenträger
 
-Zuzah- lungs-
+Zuzah-lungs-
 
 frei
 
-Zuzah- Name, Vorname des Versicherten lungs- pflicht
+Zuzah- Name, Vorname des Versicherten lungs-pflicht
 
-Unfall- folgen
+Unfall-folgen
 
 Kostenträgerkennung  BVG
 

@@ -1,10 +1,12 @@
 Name, Vorname der des Versicherten
 
+geb. am
+
+Datum
+
 **Ich empfehle Ihrem Kind:**
 
-mehr Alltagsbewegung
-
-B. zu Fuß, mit dem Rad zur Kita, zur Schule),(z.
+mehr Alltagsbewegung  (z. B. zu Fuß, mit dem Rad zur Kita, zur Schule),
 
 regelmäßige Bewegung durch ein  Sport- und Bewegungsangebot,
 
@@ -14,11 +16,7 @@ regelmäßiges Schwimmen  zur Absicherung der Schwimmfähigkeit.
 
 # REZEPT FÜR  BEWEGUNG
 
-geb. am
-
 Regelmäßige Bewegung ist  wichtig für eine gesunde und  ganzheitliche Entwicklung von  Kindern und Jugendlichen!
-
-Datum
 
 Regelmäßige Bewegung hilft  dabei, Muskeln, Knochen, Herz  und Kreislauf stark zu machen.  Bewegung ist auch gut für die  Entwicklung Ihres Kindes und  fördert die Selbstwirksamkeit  und das Selbstvertrauen. Kinder,  die sich regelmäßig bewegen,  können sich besser konzentrieren,  sind entspannter und trainieren  soziale Kompetenzen.
 

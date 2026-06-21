@@ -113,7 +113,7 @@ Präzisierung bei [1Click0818]
 
 Aufnahme Anforderung [1Click0137]:
 
-außer Kraft Konkretisierung PDF-Format für die  elektronische Sammelerklärung im PDF- Format 3
+außer Kraft Konkretisierung PDF-Format für die  elektronische Sammelerklärung im PDF-Format 3
 
 Ergänzung Anforderung [1Click0813] zur  Anzeige von Nachrichten 3
 
@@ -127,7 +127,7 @@ Entfall Anforderung Anforderung [1Click0140]  aufgrund der Aufnahme von Anforder
 
 3
 
-Korrektur Beispiel 1ClickAbrechnung- Rückmeldung 4
+Korrektur Beispiel 1ClickAbrechnung-Rückmeldung 4
 
 Aufnahme Referenz Spezifikation Konnektor  der gematik GmbH 2.1.7 11.11.2021 kv.digital 3
 
@@ -180,7 +180,7 @@ Herauslösen der Anforderungen zur  Begleitdatei in eigene Spezifikation  Beglei
 
 alle
 
-Migration der 1ClickAbrechung V2.1.5 via KV- Connect nach KIM
+Migration der 1ClickAbrechung V2.1.5 via KV-Connect nach KIM
 
 **Herausgeber**
 
@@ -212,7 +212,7 @@ Seite 6 von 27
 
 **2 Arten der übermittelten Nachrichten** Für die Anwendung 1ClickAbrechnung sind drei Arten von Nachrichten spezifiziert:
 
-1. die **1ClickAbrechnung-Lieferung**: enthält den zu übermittelnden Inhalt und ist anhand der  Dienstkennung "1ClickAbrechnung;Lieferung;V2.0" identifizierbar.  Folgende Dateien können Bestandteil einer 1ClickAbrechnung-Lieferung sein (in Abhängigkeit von den  jeweils von der KV angebotenen Funktionen und daraus folgend den zulässigen Datenpaketen): eine nach den Vorgaben der KBV erstellte KVDT-Abrechnungsdatei eine Begleitdatei im XML-Format (verpflichtend) optional eine signierte Sammelerklärung im PDF/A-Format und eine Sammelerklärung im XML- Format
+1. die **1ClickAbrechnung-Lieferung**: enthält den zu übermittelnden Inhalt und ist anhand der  Dienstkennung "1ClickAbrechnung;Lieferung;V2.0" identifizierbar.  Folgende Dateien können Bestandteil einer 1ClickAbrechnung-Lieferung sein (in Abhängigkeit von den  jeweils von der KV angebotenen Funktionen und daraus folgend den zulässigen Datenpaketen): eine nach den Vorgaben der KBV erstellte KVDT-Abrechnungsdatei eine Begleitdatei im XML-Format (verpflichtend) optional eine signierte Sammelerklärung im PDF/A-Format und eine Sammelerklärung im XML-Format
 2. die **1ClickAbrechnung-Eingangsbestätigung (Technische Rückmeldung)**: ist die technische  Rückmeldung und informiert den Absender darüber, dass die versendete 1ClickAbrechnung-Lieferung  an den Empfänger ausgeliefert wurde. Sie hat die Dienstkennung  "1ClickAbrechnung;Eingangsbestaetigung;V2.0".
 3. die **1ClickAbrechnung-Rückmeldung (Fachliche Rückmeldung)**: enthält die fachliche Rückmeldung zu  einer (oder mehreren) versendeten 1ClickAbrechnung-Lieferung(en) und ist anhand der Dienstkennung  "1ClickAbrechnung;Rueckmeldung;V2.0" identifizierbar. Folgende Dateien sind Bestandteil einer 1ClickAbrechnung-Rückmeldung: Begleitdatei (verpflichtend; dient als Bezug zum eingesendeten Datenpaket) eine Datei im PDF-Format, ggf. mehrere Dateien im PDF-Format
 
@@ -228,7 +228,7 @@ Seite 7 von 27
 **3 Anforderungen an die Software-Systeme** Für die Anwendung 1ClickAbrechnung wird zwischen unterschiedlichen Software-Systemen unterschieden:
 
 1. Software-Systeme der Leistungserbringer (LE) - niedergelassene Ärzte und Psychotherapeuten - zur  Abrechnung von erbrachten Leistungen; diese versenden 1ClickAbrechnung-Lieferungen und  empfangen 1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen
-2. Software-Systeme der Kassenärztlichen Vereinigungen (KVen); diese empfangen 1ClickAbrechnung- Lieferungen und versenden 1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung- Rückmeldungen
+2. Software-Systeme der Kassenärztlichen Vereinigungen (KVen); diese empfangen 1ClickAbrechnung-Lieferungen und versenden 1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen
 
 Die im Folgenden genannten Anforderungen sind dementsprechend von den Software-Systemen zu erfüllen,  denen die jeweiligen Aufgaben zugeordnet sind.
 
@@ -287,7 +287,7 @@ Die Begleitdatei **MUSS** den geltenden Vorgaben gemäß [BGD] entsprechen.
 
 **[1Click0134]**
 
-Jede 1ClickAbrechnung-Lieferung **MUSS** entsprechend der für die zuständige KV in der SDKVCA  angegebenen, unterstützten Funktionen: genau ein MIME-Segment mit einer KVDT-Abrechnungsdatei oder genau ein MIME-Segment mit einer signierten Sammelerklärung im PDF/A-Format und ein MIME- Segment zu den variablen Elementen der Sammelerklärung im XML-Format oder genau ein MIME-Segment mit einer KVDT-Abrechnungsdatei und ein MIME-Segment mit einer  signierten Sammelerklärung im PDF/A-Format und ein MIME-Segment zu den variablen Elementen  der Sammelerklärung im XML-Format
+Jede 1ClickAbrechnung-Lieferung **MUSS** entsprechend der für die zuständige KV in der SDKVCA  angegebenen, unterstützten Funktionen: genau ein MIME-Segment mit einer KVDT-Abrechnungsdatei oder genau ein MIME-Segment mit einer signierten Sammelerklärung im PDF/A-Format und ein MIME-Segment zu den variablen Elementen der Sammelerklärung im XML-Format oder genau ein MIME-Segment mit einer KVDT-Abrechnungsdatei und ein MIME-Segment mit einer  signierten Sammelerklärung im PDF/A-Format und ein MIME-Segment zu den variablen Elementen  der Sammelerklärung im XML-Format
 
 enthalten.
 
@@ -379,7 +379,7 @@ Die Angabe des Parameters "filename" in Content-Disposition angegeben, muss dies
 
 Das Software-System **MUSS** für die Signaturerstellung der PDF/A-Sammelerklärung-Datei die  Komponenten der Telematikinfrastruktur nutzen und dabei alle zur Verfügung stehenden Signaturmodi  gemäß [gemSpec_Kon] unterstützen.
 
-Seite
+Seite 11 von 27
 
 **MUSS**
 
@@ -458,10 +458,10 @@ e>
 
 übereinstimmen.
 
-11 von 27
-
 
 ---
+
+1ClickAbrechnung V2.1
 
 3.2.4 Beispiel für eine 1ClickAbrechnung-Lieferung
 
@@ -485,9 +485,7 @@ PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iSVNPLTg4NTktMTUiPz4 ...
 
 Abbildung: beispielhafte 1ClickAbrechnung-Lieferung
 
-Seite 1ClickAbrechnung V2.1
-
-12 von 27
+Seite 12 von 27
 
 
 ---
@@ -518,7 +516,7 @@ Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.
 
 Die 1ClickAbrechnung-Eingangsbestätigung enthält keine Anhänge.
 
-Seite 1ClickAbrechnung V2.1
+Seite 13 von 27 1ClickAbrechnung V2.1
 
 **MUSS** genau den
 
@@ -527,10 +525,9 @@ Seite 1ClickAbrechnung V2.1
 ```
 1ClickAbrechnung```
 
-13 von 27
-
-
 ---
+
+1ClickAbrechnung V2.1
 
 | 3.3.4 | Beispiel für eine |  | 1ClickAbrechnung-Eingangsbestätigung |
 |---|---|---|---|
@@ -555,9 +552,7 @@ Seite 1ClickAbrechnung V2.1
 |  |  | --------------mdn050609000308010900000100-- | |
 | Abbildung: | beispielhafte |  | 1ClickAbrechnung-Eingangsbestätigung |
 
-Seite 1ClickAbrechnung V2.1
-
-3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung Date: Wed, 24 Mar 2021 10:30:37 +0100 From: KV123@xyz.kim.telematik To: ArztABC@xyz.kim.telematik Message-ID: <Message-ID> Subject: 1ClickAbrechnung-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickAbrechnung;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit <menschenlesbarer Teil> Content-Type: message/disposition-notification Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed Abbildung: beispielhafte 1ClickAbrechnung-Eingangsbestätigung14 von 27
+3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung Date: Wed, 24 Mar 2021 10:30:37 +0100 From: KV123@xyz.kim.telematik To: ArztABC@xyz.kim.telematik Message-ID: <Message-ID> Subject: 1ClickAbrechnung-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickAbrechnung;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit <menschenlesbarer Teil> Content-Type: message/disposition-notification Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed Abbildung: beispielhafte 1ClickAbrechnung-EingangsbestätigungSeite 14 von 27
 
 
 ---
@@ -615,7 +610,7 @@ Jede 1ClickAbrechnung-Rückmeldung  enthalten; diese **MÜSSEN** den Empfänger 
 
 **[1Click0332]**
 
-Die MIME-Segmente **MÜSSEN**
+Die MIME-Segmente
 
 ```
 Content-Transfer-Encoding
@@ -625,15 +620,15 @@ Content-Transfer-Encoding
 
 Begleitdatei
 
+**MÜSSEN** die in Tabelle 2 aufgelisteten Metainformationen (
+
 PDF-Datei(en)
 
 **2 Tabelle: Metainformationen** Hinweis: Die Angabe des Parameters "filename" in Content-Disposition jedoch angegeben, muss dieser mit dem Wert in " übereinstimmen.
 
-Seite
+Seite 16 von 27
 
 **KANN** ein oder mehrere MIME-Segmente mit je einer PDF-Datei
-
-die in Tabelle 2 aufgelisteten Metainformationen (
 
 ```
 Content-Disposition
@@ -681,10 +676,10 @@ e>
 
 *-Disposition*
 
-16 von 27
-
 
 ---
+
+1ClickAbrechnung V2.1
 
 3.4.5 Beispiel für eine 1ClickAbrechnung-Rückmeldung
 
@@ -694,9 +689,7 @@ This is a multi-part message in MIME format.  --------------08080702050908060105
 
 Abbildung: beispielhafte 1ClickAbrechnung-Rückmeldung
 
-Seite 1ClickAbrechnung V2.1
-
-17 von 27
+Seite 17 von 27
 
 
 ---
@@ -753,17 +746,17 @@ Konkrete Anforderungen zur Anzeige sind in [1Click0818] definiert.
 
 **[1Click0814]**
 
-Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den Mailserver des  Kommunikationsdienstes nach 1ClickAbrechnung-Nachrichten (1ClickAbrechnung- Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen) abzufragen, auf dem Server vorliegende 1ClickAbrechnung-Nachrichten vom Server abholen und die abgeholten 1ClickAbrechnung-Nachrichten in einem geeigneten Format für die  Weiterverarbeitung zur Verfügung stellen.
+Das Software-System **MUSS** es dem Anwender ermöglichen, aktiv oder automatisiert (periodisch) den Mailserver des  Kommunikationsdienstes nach 1ClickAbrechnung-Nachrichten (1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen) abzufragen, auf dem Server vorliegende 1ClickAbrechnung-Nachrichten vom Server abholen und die abgeholten 1ClickAbrechnung-Nachrichten in einem geeigneten Format für die  Weiterverarbeitung zur Verfügung stellen.
 
 **[1Click0815]**
 
-Das Software-System **MUSS** bei eingehenden 1ClickAbrechnung-Nachrichten (1ClickAbrechnung- Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen) prüfen, ob diese einen Bezug zu einer gesendeten 1ClickAbrechnung-Lieferung haben und die entsprechende 1ClickAbrechnung-Lieferung sinnvoll kennzeichnen und zuordnen.
+Das Software-System **MUSS** bei eingehenden 1ClickAbrechnung-Nachrichten (1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen) prüfen, ob diese einen Bezug zu einer gesendeten 1ClickAbrechnung-Lieferung haben und die entsprechende 1ClickAbrechnung-Lieferung sinnvoll kennzeichnen und zuordnen.
 
 Dabei gilt, dass die Zuordnung: der 1ClickAbrechnung-Eingangsbestätigungen zu der gesendeten 1ClickAbrechnung-Lieferung  über In-Reply-To und/oder Original-Message-ID erfolgen **MUSS** der 1ClickAbrechnung-Rückmeldungen zu der gesendeten 1ClickAbrechnung-Lieferung über den  GUID der Begleitdatei erfolgen **MUSS**
 
 **[1Click0816]**
 
-Kann das Software-System bei den eingehenden 1ClickAbrechnung-Nachrichten (1ClickAbrechnung- Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen) keinen Bezug zu einer gesendeten  1ClickAbrechnung-Lieferung herstellen, **MUSS** das Software-System dem Anwender eine entsprechende  Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN** in der Fehlermeldung enthalten sein: empfangene 1ClickAbrechnung-Nachricht(en) (1ClickAbrechnung-Eingangsbestätigungen und  1ClickAbrechnung-Rückmeldungen) kann bzw. können nicht zugeordnet werden Rückfrage bei der KV ist notwendig
+Kann das Software-System bei den eingehenden 1ClickAbrechnung-Nachrichten (1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen) keinen Bezug zu einer gesendeten  1ClickAbrechnung-Lieferung herstellen, **MUSS** das Software-System dem Anwender eine entsprechende  Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN** in der Fehlermeldung enthalten sein: empfangene 1ClickAbrechnung-Nachricht(en) (1ClickAbrechnung-Eingangsbestätigungen und  1ClickAbrechnung-Rückmeldungen) kann bzw. können nicht zugeordnet werden Rückfrage bei der KV ist notwendig
 
 Seite 19 von 27
 
@@ -772,7 +765,7 @@ Seite 19 von 27
 
 1ClickAbrechnung V2.1
 
-notwendige Informationen aus der empfangenen 1ClickAbrechnung- Nachrichten (1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen)  für die Rückfrage bei der KV: Absender (Angabe im Header-Element From) Datum des Versands (Angabe im Header-Element Date) Message-ID GUID aus der Begleitdatei – sofern enthalten und lesbar
+notwendige Informationen aus der empfangenen 1ClickAbrechnung-Nachrichten (1ClickAbrechnung-Eingangsbestätigungen und 1ClickAbrechnung-Rückmeldungen)  für die Rückfrage bei der KV: Absender (Angabe im Header-Element From) Datum des Versands (Angabe im Header-Element Date) Message-ID GUID aus der Begleitdatei – sofern enthalten und lesbar
 
 Anmerkung:
 
@@ -780,7 +773,7 @@ Die Information muss in geeigneter Form erfolgen.
 
 **[1Click0817]**
 
-Hat das Software-System nach Versand der 1ClickAbrechnung-Lieferung nicht innerhalb eines  angemessenen Zeitraums eine 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung- Rückmeldung – in Abhängigkeit der in der SDKVCA angegebenen, unterstützen Funktionen – erhalten,  **MUSS** das Software-System den Anwender über die fehlenden 1ClickAbrechnung-Nachrichten  informieren.
+Hat das Software-System nach Versand der 1ClickAbrechnung-Lieferung nicht innerhalb eines  angemessenen Zeitraums eine 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung-Rückmeldung – in Abhängigkeit der in der SDKVCA angegebenen, unterstützen Funktionen – erhalten,  **MUSS** das Software-System den Anwender über die fehlenden 1ClickAbrechnung-Nachrichten  informieren.
 
 Anmerkung:
 
@@ -807,6 +800,8 @@ Seite 20 von 27
 
 ---
 
+1ClickAbrechnung V2.1
+
 **[1Click0820]**
 
 *Das Software-System* ***MUSS*** *dem Anwender die Möglichkeit bieten, bei 1ClickAbrechnung-Lieferungen, für die*  *innerhalb eines angemessenen Zeitraums keine 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung-* *Rückmeldung - in Abhängigkeit der in der SDKVCA angegebenen, unterstützten Funktionen - eingegangen ist, die*  *Kennzeichnung für die fehlende 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung-Rückmeldung zu*  *ändern. Das Software-System* ***MUSS**** den Anwender darauf hinweisen, dass die Kennzeichnung nur nach Rückfrage*  *bei der KV erfolgen darf.*
@@ -815,9 +810,7 @@ Seite 20 von 27
 
 *Der Hinweis muss in geeigneter Form erfolgen.*
 
-Seite 1ClickAbrechnung V2.1
-
-21 von 27
+Seite 21 von 27
 
 
 ---
@@ -864,7 +857,7 @@ Seite 22 von 27
 
 XSD-Validierung
 
-Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absender der 1ClickAbrechnung- Lieferung mitzuteilen sind. Da Fehler zeitlich versetzt auftreten können, kann die KV:
+Abhängig vom Verarbeitungsprozess können dabei Fehler auftreten, die dem Absender der 1ClickAbrechnung-Lieferung mitzuteilen sind. Da Fehler zeitlich versetzt auftreten können, kann die KV:
 
 die Prüfungsergebnisse sammeln und genau eine 1ClickAbrechnung-Rückmeldung zurücksenden oder die Prüfungsergebnisse nach jedem Verarbeitungsschritt in Form der 1ClickAbrechnung-Rückmeldung  versenden.
 
@@ -980,6 +973,8 @@ Seite 26 von 27
 
 ---
 
+1ClickAbrechnung V2.1
+
 Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer  1ClickAbrechnung und Sammelerklärung als Echtabrechnung
 
 Die Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket oder einer 1ClickAbrechnung und  Sammelerklärung als Echtabrechnung hat mindestens die Begleitdatei – als Bezug zum eingesendeten  Datenpaket – im Anhang. Zusätzlich können ein oder mehrere PDF-Dateien enthalten sein.
@@ -988,6 +983,4 @@ Sie wird bei den folgenden Funktionen versendet.
 
 Funktion 2 Funktion 4 Funktion 6
 
-Seite 1ClickAbrechnung V2.1
-
-27 von 27
+Seite 27 von 27

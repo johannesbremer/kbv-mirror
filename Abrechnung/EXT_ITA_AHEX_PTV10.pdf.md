@@ -14,7 +14,7 @@ Vor Beginn einer Psychotherapie ist eine Abklärung durch eine Ärztin oder eine
 
 Alle psychotherapeutischen Behandlungen haben gemeinsam, dass sie über das persönliche Gespräch erfolgen, das durch spezielle Methoden und Techniken (z. B. freie Mitteilung von Gedanken und Einfällen, konkrete Aufgaben um z. B. Ängste zu bewältigen oder spielerisches Handeln in der Therapie von Kindern) ergänzt werden kann. Die Behandlung kann mit der Therapeutin oder dem Therapeuten allein oder im Rahmen einer Gruppentherapie erfolgen. Einzelbehandlungen haben in der Regel eine Dauer von 50 Minuten, Gruppentherapien eine Dauer von 100 Minuten. Insbesondere bei der Behandlung von Kindern und Jugendlichen kann es hilfreich und notwendig sein, Bezugspersonen aus dem familiären und sozialen Umfeld mit einzubeziehen.
 
-Eine wesentliche Bedingung für das Gelingen jeder Psychotherapie ist eine vertrauensvolle Beziehung zwischen Patientin oder Patient und Therapeutin oder Therapeut sowie eine Klärung, ob das geplante Psychotherapie- verfahren den Erwartungen der Patientin oder des Patienten entgegenkommt. Auf dieser Grundlage bietet Psychotherapie die Möglichkeit, in einem geschützten Rahmen das eigene Erleben und Verhalten sowie Beziehungserfahrungen zu besprechen, zu erleben und zu überdenken und infolge dessen Veränderungen auszuprobieren und herbeizuführen.
+Eine wesentliche Bedingung für das Gelingen jeder Psychotherapie ist eine vertrauensvolle Beziehung zwischen Patientin oder Patient und Therapeutin oder Therapeut sowie eine Klärung, ob das geplante Psychotherapie-verfahren den Erwartungen der Patientin oder des Patienten entgegenkommt. Auf dieser Grundlage bietet Psychotherapie die Möglichkeit, in einem geschützten Rahmen das eigene Erleben und Verhalten sowie Beziehungserfahrungen zu besprechen, zu erleben und zu überdenken und infolge dessen Veränderungen auszuprobieren und herbeizuführen.
 
 ### Wer übernimmt die Kosten für eine Psychotherapie?
 
@@ -49,7 +49,7 @@ Die Psychotherapeutische Sprechstunde dient der Abklärung, ob ein Verdacht auf 
 
 #### Psychotherapeutische Akutbehandlung
 
-Bei besonders dringendem Behandlungsbedarf kann eine Psychotherapeutische Akutbehandlung im Umfang von bis zu 12 Behandlungen zu je 50 Minuten Dauer in Frage kommen. Eine Akutbehandlung dient der Krisenintervention und kann – falls erforderlich – in eine Kurzzeitpsychotherapie oder in eine Langzeit- psychotherapie überführt werden. Bereits durchgeführte Therapieeinheiten der Akutbehandlung werden auf die nachfolgende Psychotherapie angerechnet. Für eine Akutbehandlung ist nur das Einzelgespräch vorgesehen.
+Bei besonders dringendem Behandlungsbedarf kann eine Psychotherapeutische Akutbehandlung im Umfang von bis zu 12 Behandlungen zu je 50 Minuten Dauer in Frage kommen. Eine Akutbehandlung dient der Krisenintervention und kann – falls erforderlich – in eine Kurzzeitpsychotherapie oder in eine Langzeit-psychotherapie überführt werden. Bereits durchgeführte Therapieeinheiten der Akutbehandlung werden auf die nachfolgende Psychotherapie angerechnet. Für eine Akutbehandlung ist nur das Einzelgespräch vorgesehen.
 
 #### Ambulante Psychotherapie
 

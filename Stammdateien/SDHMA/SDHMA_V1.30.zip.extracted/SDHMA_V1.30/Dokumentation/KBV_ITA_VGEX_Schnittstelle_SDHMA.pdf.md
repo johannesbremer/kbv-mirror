@@ -31,32 +31,63 @@ Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit B
 
 ---
 
-### INHALTSVERZEICHNIS DOKUMENTENHISTORIE INHALTSVERZEICHNIS ABBILDUNGSVERZEICHNIS TABELLENVERZEICHNIS XML-CODE-VERZEICHNIS
+### INHALTSVERZEICHNIS
+
+### DOKUMENTENHISTORIE
+
+**2**
+
+### INHALTSVERZEICHNIS
+
+**3**
+
+### ABBILDUNGSVERZEICHNIS
+
+**5**
+
+### TABELLENVERZEICHNIS
+
+**6**
+
+### XML-CODE-VERZEICHNIS
+
+**6**
+
 **1** **EINLEITUNG**
+
+**8**
 
 **2** **KONVENTIONEN**
 
-**2.1** **Zeichensatz ................................................................................................................................**
+**8**
 
-**2.2** **Namespace................................................................................................................................**
+**2.1** **Zeichensatz .................................................................................................................................... 8**
 
-**2.3** **Root-Schema ................................................................................................................................**
+**2.2** **Namespace..................................................................................................................................... 8**
 
-**2.4** **Dateinamen ................................................................................................................................**
+**2.3** **Root-Schema ................................................................................................................................. 8**
 
-**2.5** **Semantik der verwendeten Diagrammsymbole ................................................................**
+**2.4** **Dateinamen .................................................................................................................................... 8**
 
-2.5.1 Kardinalität ................................................................................................
+**2.5** **Semantik der verwendeten Diagrammsymbole ......................................................................... 9**
 
-2.5.2 Strukturelemente ................................................................................................
+2.5.1 Kardinalität ............................................................................................................................. 9
+
+2.5.2 Strukturelemente ................................................................................................................... 9
 
 2.5.3 Sonstige Symbole ................................................................................................................ 10
 
 **3** **EHD – ELEMENT (ROOT-ELEMENT)**
 
+**11**
+
 **4** **HEADER (METADATEN)**
 
+**11**
+
 **5** **BODY (INHALTSDATEN)**
+
+**12**
 
 **5.1** **sdhma_stammdaten .................................................................................................................... 12**
 
@@ -71,38 +102,6 @@ Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit B
 **5.6** **heilmittel_liste ............................................................................................................................. 14**
 
 **5.7** **heilmittel ....................................................................................................................................... 14**
-
-**2**
-
-**3**
-
-**5**
-
-**6**
-
-**6**
-
-**8**
-
-**8**
-
-**.... 8**
-
-**..... 8**
-
-**. 8**
-
-**.... 8**
-
-**......... 9**
-
-............................. 9 ................... 9
-
-**11**
-
-**11**
-
-**12**
 
 
 ---
@@ -232,13 +231,13 @@ XML- Code 17: diagnosegruppe ...................................................
 
 # 1 Einleitung
 
-Für die Anwendung in der ambulanten ärztlichen Versorgung in Deutschland stellte die Kas- senärztliche Bundesvereinigung die Anlagen zur Heilmittelvereinbarung seit 2015 innerhalb  der ICD- Stammdatei zur Verfügung.
+Für die Anwendung in der ambulanten ärztlichen Versorgung in Deutschland stellte die Kas-senärztliche Bundesvereinigung die Anlagen zur Heilmittelvereinbarung seit 2015 innerhalb  der ICD- Stammdatei zur Verfügung.
 
 Ab 2017 befinden sich diese Anlagen in einer separaten Stammdatei, der  mittel Anlage – SDHMA.
 
 Die vorliegende Schnittstellenbeschreibung definiert das Format der SDHMA Stammdatei der  KBV im XML--Format konform zur ehd Richtlinie [
 
-Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen- ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver- tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail:  4005- 2121) an das Dezernat 4 der KBV.
+Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen-ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver-tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail:  4005- 2121) an das Dezernat 4 der KBV.
 
 # 2 Konventionen
 
@@ -252,7 +251,7 @@ Standard- Namespace ist **urn:ehd/sd/001hma**
 
 ## 2.3 Root-Schema
 
-Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body- Schemata inkludiert sind, heißt **sdhma_root.xsd**
+Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt **sdhma_root.xsd**
 
 ## 2.4 Dateinamen
 
@@ -325,7 +324,7 @@ Es existieren verschiedene Kardinalitäten:
 
 ### 2.5.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet:  und ***<xs:sequence>***
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei-nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet:  und ***<xs:sequence>***
 
 ***<xs:choice>***
 
@@ -359,7 +358,7 @@ delementen genau eins ausgewählt werden muss. gelegter Reihenfolge aufgeführt 
 
 # 3 ehd – Element (root-
 
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea- der“ und „body“, wie es in Abbildung 1:
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea-der“ und „body“, wie es in Abbildung 1:
 
 Element stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden die  eigentlichen Daten hinterlegt.
 
@@ -421,7 +420,7 @@ Der Namensraum ist „urn:ehd/sdhma/001“.
 
 ## 5.1 sdhma_stammdaten
 
-Das Element <sdhma_stammdaten> bildet die oberste Ebene der SDHMA-Stammdaten. Hier  befinden sich das Element verordnungsbedarf_liste für die Anlagen der Heilmittelvereinba- rung.
+Das Element <sdhma_stammdaten> bildet die oberste Ebene der SDHMA-Stammdaten. Hier  befinden sich das Element verordnungsbedarf_liste für die Anlagen der Heilmittelvereinba-rung.
 
 **Abbildung 2:** sdhma_stammdaten
 
@@ -533,7 +532,7 @@ Der XML-Code für ein <geltungsbereich_kv> Element hat folgenden Aufbau:
 
 Das Element <heilmittel_liste> enthält mindestens ein <heilmittel> Elemente.
 
-Das Element <heilmittel_liste> bezieht sich im Fall eines übergeordneten ICD-Codes, welcher  weitere ihm zugehörigen Diagnosen beinhaltet, auf alle ICD-Codes die diesem untergeordnet  sind. Wenn jedoch den untergeordneten ICD-Codes das Element <heilmittel_liste> zugeord- net ist, dann gelten nur die dem jeweiligen ICD-Code zugeordneten Heilmittel.
+Das Element <heilmittel_liste> bezieht sich im Fall eines übergeordneten ICD-Codes, welcher  weitere ihm zugehörigen Diagnosen beinhaltet, auf alle ICD-Codes die diesem untergeordnet  sind. Wenn jedoch den untergeordneten ICD-Codes das Element <heilmittel_liste> zugeord-net ist, dann gelten nur die dem jeweiligen ICD-Code zugeordneten Heilmittel.
 
 **Abbildung 7: heilmittel_liste**
 
@@ -606,7 +605,7 @@ Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen au
 
 ## 5.8 anlage_heilmittelvereinbarung
 
-Das Element <anlage_heilmittelvereinbarung> enthält im V-Attribut die Kennzeichnung der Art  der Anlage der Heilmittelvereinbarung (Anlage 1 der Vereinbarung über besondere Veror- dungsbedarfe nach § 84 Abs. 8 SGB V oder Anlage 2 im Sinne von § 32 Abs. 1a).
+Das Element <anlage_heilmittelvereinbarung> enthält im V-Attribut die Kennzeichnung der Art  der Anlage der Heilmittelvereinbarung (Anlage 1 der Vereinbarung über besondere Veror-dungsbedarfe nach § 84 Abs. 8 SGB V oder Anlage 2 im Sinne von § 32 Abs. 1a).
 
 **Abbildung 9:** anlage_heilmittelvereinbarung
 
@@ -631,7 +630,7 @@ vgl.: Abschnitt 5.4
 
 ## 5.10 untere_altersgrenze
 
-V="..." DN="..."Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze, die für eine  Heilmittelverordnung gilt. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der  Inhalt des U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein- heit ‚Jahr’ (**U="Jahr"**) verwendet wird, enthält das V- Attribut eine Altersangabe in Jahren.  Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird die Zeiteinheit ‚Tag’ verwendet  **U="Tag"**) und das V- Attribut enthält eine Altersangabe im Bereich von 0 bis 365 Tagen.
+V="..." DN="..."Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze, die für eine  Heilmittelverordnung gilt. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der  Inhalt des U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein-heit ‚Jahr’ (**U="Jahr"**) verwendet wird, enthält das V- Attribut eine Altersangabe in Jahren.  Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird die Zeiteinheit ‚Tag’ verwendet  **U="Tag"**) und das V- Attribut enthält eine Altersangabe im Bereich von 0 bis 365 Tagen.
 
 
 ---
@@ -665,7 +664,7 @@ Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
 
 ## 5.12 hinweistext
 
-Das Element <hinweistext> enthält im V- Attribut einen Hinweistext zu besonderen Verord- nungsbedarfe bzw. langfristigem Heilmittelbebarf.
+Das Element <hinweistext> enthält im V- Attribut einen Hinweistext zu besonderen Verord-nungsbedarfe bzw. langfristigem Heilmittelbebarf.
 
 V="..." U="..."**V="..."**) und des U-
 
@@ -682,7 +681,7 @@ Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
 ## 5.13 zeitraum_akutereignis
 
-Das optionale Element <zeitraum_akutereignis> enthält den maximal zulässigen Zeitraum  nach einem Akutereignis, in dem eine Verordnung ausgestellt werden kann, um einen beson- deren Verordnungsbedarf zu begründen. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zah- lenwert an, der Inhalt des optionalen U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’  oder ‚Monat‘). Falls die Zeiteinheit ‚Jahr’ (**U=""Jahr** ) verwendet wird, enthält das V-Attribut  eine Zeitraumangabe in Jahren. Falls die Zeiteinheit ‚Monat’ (**U="Monat"**) verwendet oder  nicht angegeben wird, enthält das V-Attribut eine Zeitraumangabe in Monaten.
+Das optionale Element <zeitraum_akutereignis> enthält den maximal zulässigen Zeitraum  nach einem Akutereignis, in dem eine Verordnung ausgestellt werden kann, um einen beson-deren Verordnungsbedarf zu begründen. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zah-lenwert an, der Inhalt des optionalen U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’  oder ‚Monat‘). Falls die Zeiteinheit ‚Jahr’ (**U=""Jahr** ) verwendet wird, enthält das V-Attribut  eine Zeitraumangabe in Jahren. Falls die Zeiteinheit ‚Monat’ (**U="Monat"**) verwendet oder  nicht angegeben wird, enthält das V-Attribut eine Zeitraumangabe in Monaten.
 
 **Abbildung 13:** zeitraum_akutereignis
 
@@ -694,7 +693,7 @@ Der XML-Code für ein < zeitraum_akutereignis > Element hat folgenden Aufbau:
 
 ## 5.14 kapitel_liste
 
-Das Element <kapitel_liste> enthält ein Element <kapitel> und das Listenelement <diagnose- gruppe_liste> für die Elemente <diagnosegruppe> sowie das Element <hinweistext>.
+Das Element <kapitel_liste> enthält ein Element <kapitel> und das Listenelement <diagnose-gruppe_liste> für die Elemente <diagnosegruppe> sowie das Element <hinweistext>.
 
 **Abbildung 14:** kapitel_liste
 

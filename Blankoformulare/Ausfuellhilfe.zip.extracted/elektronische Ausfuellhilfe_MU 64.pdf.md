@@ -39,7 +39,7 @@ Geben Sie die Vorsorgeziele möglichst in Bezug auf den genannten Gesundheitsst�
 
 - **Empfohlene Leistungsform: Medizinische Vorsorge für Mütter oder Väter nach § 24 SGB V**
 
-Geben Sie hier die Ihrer Einschätzung n ach geeignete Leistungsform an (z. B. Mütter-Leistung, Mutter-Kind- Leistung, Väter-Leistung, Vater-Kind-Leistung).
+Geben Sie hier die Ihrer Einschätzung n ach geeignete Leistungsform an (z. B. Mütter-Leistung, Mutter-Kind-Leistung, Väter-Leistung, Vater-Kind-Leistung).
 
 
 ---
@@ -48,15 +48,15 @@ Geben Sie hier die Ihrer Einschätzung n ach geeignete Leistungsform an (z. B. M
 
 **8. Angaben zu Kindern, die mit aufgenommen werden sollen**
 
-Geben Sie hier bei einer Mutter -Kind-Leistung oder Vater -Kind-Leistung Name und Geburtsdatum des Ki n- des an. Darüber hinaus ist anzukreuzen, aus welchem Grund eine Aufnahme erfolgen soll.
+Geben Sie hier bei einer Mutter -Kind-Leistung oder Vater -Kind-Leistung Name und Geburtsdatum des Ki n-des an. Darüber hinaus ist anzukreuzen, aus welchem Grund eine Aufnahme erfolgen soll.
 
 **9. Anforderungen an die Einrichtung**
 
-Geben Sie hier an, welche Anforder ungen an die Vorsorgeeinrichtung gestellt werden (z. B. Klima, Barriere- freiheit, spezialisierte Therapieangebote, besondere Kostformen).
+Geben Sie hier an, welche Anforder ungen an die Vorsorgeeinrichtung gestellt werden (z. B. Klima, Barriere-freiheit, spezialisierte Therapieangebote, besondere Kostformen).
 
 **10. Die Leistung ist vor Ablauf der gesetzlichen Wartefrist von 4 Jahren dringend medizinisch no t-** **wendig**
 
-Im Regelfall ist eine medizinische Vorsorge alle vier Jahre möglich. Ausnahmen sind bei Vorliegen einer  neuen Indikation oder einer Verschlimmerung der gleichen Indikation möglich und müssen begründet wer- den.
+Im Regelfall ist eine medizinische Vorsorge alle vier Jahre möglich. Ausnahmen sind bei Vorliegen einer  neuen Indikation oder einer Verschlimmerung der gleichen Indikation möglich und müssen begründet wer-den.
 
 **11. Sonstiges**
 

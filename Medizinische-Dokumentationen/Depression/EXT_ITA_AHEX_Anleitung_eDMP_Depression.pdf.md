@@ -16,7 +16,7 @@ Version 1.0
 
 In diesem Feld ist eine** numerische Angabe zwischen 0 und 27 ohne Nachkommastelle** erforderlich.  Eine Angabe in diesem Feld ist bei jeder **Dokumentation** verpflichtend.
 
-Die Wahl der Behandlung der Depression soll sich unter anderem am Schweregrad der aktuellen depressiven  Episode orientieren. Im Verlauf der Behandlung soll das Therapieansprechen regelmäßig eingeschätzt werden.  Je nach Therapieansprechen ist eine Anpassung der Therapie auf der B asis der Symptomausprägung und - veränderungen zu treffen. Daher gehört die klinische Beurteilung der Symptomausprägung zur regelmäßigen  Verlaufsuntersuchung in diesem DMP. Zur Unterstützung der Beurteilung der Symptomausprägung wird der  **Patientenfragebogen Patient Health Questionnaire - 9 (PHQ-9)** mit neun Fragen bei jeder Dokumentation  erhoben. Mit den neun Fragen schätzt die Patientin oder der Patient die **Symptomatik in den letzten zwei**  **Wochen** ein.
+Die Wahl der Behandlung der Depression soll sich unter anderem am Schweregrad der aktuellen depressiven  Episode orientieren. Im Verlauf der Behandlung soll das Therapieansprechen regelmäßig eingeschätzt werden.  Je nach Therapieansprechen ist eine Anpassung der Therapie auf der B asis der Symptomausprägung und -veränderungen zu treffen. Daher gehört die klinische Beurteilung der Symptomausprägung zur regelmäßigen  Verlaufsuntersuchung in diesem DMP. Zur Unterstützung der Beurteilung der Symptomausprägung wird der  **Patientenfragebogen Patient Health Questionnaire - 9 (PHQ-9)** mit neun Fragen bei jeder Dokumentation  erhoben. Mit den neun Fragen schätzt die Patientin oder der Patient die **Symptomatik in den letzten zwei**  **Wochen** ein.
 
 Zur Ermittlung der Symptomatik in den letzten zwei Wochen lassen Sie bitte Ihre Patientin oder Ihren Patienten  den PHQ-9-Fragebogen zum Zeitpunkt (oder zeitnah vor) der Dokumentation vollständig ausfüllen.
 
@@ -24,7 +24,7 @@ Der PHQ-9-Fragebogen ist hierzu in Ihrer Praxisverwaltungs-Software (PVS) als PD
 
 Bei der Eingabe der Antworten des PHQ-9-Fragenbogens in Ihre PVS wird der Summenwert (0 bis 27) zu den  neun Fragen automatisch berechnet und angezeigt sowie in die Dokumentation übernommen. Auch wird Ihnen  angezeigt, wie der aktuelle Summenwert interpretiert werden kann.
 
-In der folgenden Tabelle sehen Sie die E inordnung des Schweregrads der Depression anhand des PHQ-9- Summenwertes.
+In der folgenden Tabelle sehen Sie die E inordnung des Schweregrads der Depression anhand des PHQ-9-Summenwertes.
 
 Tabelle 1: Interpretation des PHQ-9-Summenwerts
 
@@ -51,7 +51,7 @@ Tabelle 2: Interpretation der PHQ-9-Differenzwerte
 | > -5 bis < 5 | Keine bedeutsame Veränderung im Vergleich zur letzten Dokumentation |
 | -5 bis -27 | Relevante Verschlechterung im Vergleich zur letzten Dokumentation |
 
-*Beispiel für die Ergebnisanzeige:* Bei einem PHQ -9-Wert von 12 in der aktuellen Dokumentation und einem  Wert von 19 in der letzten Dokumentation wird Ihnen automatisch folgendes angezeigt: „Aktueller PHQ-9- Wert: Mittelgradige Symptomausprägung Relevante Verbesserung zur letzten Dokumentation.“
+*Beispiel für die Ergebnisanzeige:* Bei einem PHQ -9-Wert von 12 in der aktuellen Dokumentation und einem  Wert von 19 in der letzten Dokumentation wird Ihnen automatisch folgendes angezeigt: „Aktueller PHQ-9-Wert: Mittelgradige Symptomausprägung Relevante Verbesserung zur letzten Dokumentation.“
 
 #### Schweregrad zu Beginn der aktuellen depressiven Episode
 
@@ -291,7 +291,7 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einem digitalen Selbstmanagement- Programm teilgenommen, geben Sie bitte **Digitales Selbstmanagement-Programm** an.
+Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einem digitalen Selbstmanagement-Programm teilgenommen, geben Sie bitte **Digitales Selbstmanagement-Programm** an.
 
 Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Präsenzgruppenschulung  teilgenommen, geben Sie bitte **„Präsenzgruppenschulung“** an.
 

@@ -142,7 +142,7 @@ In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstel
 
 ### 1.5.1 Verzeichnisstruktur
 
-Die erstellten Videos und die Bestätigung des Audits der kv.digital GmbH als „pdf File“ sind in einem ZIP- Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung **„Zert_172_<SystemID> “** erhalten. Die  SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer. Die Lieferung des Paketes soll  die folgende Form aufweisen:
+Die erstellten Videos und die Bestätigung des Audits der kv.digital GmbH als „pdf File“ sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv muss die Bezeichnung **„Zert_172_<SystemID> “** erhalten. Die  SystemID ergibt sich aus den letzten drei Stellen der eigenen Prüfnummer. Die Lieferung des Paketes soll  die folgende Form aufweisen:
 
 Abbildung 1: exemplarische Struktur des ZIP -Archives mit pdf- und Video-Dateien und unverschlüsselter Abrechnungsdatei
 
@@ -370,7 +370,7 @@ Prüfunterlagen sofern der Anwender eine Warnmeldung Terminservice Informationen
 
 ---
 
-**2.9** **PRÜFFALL 09: NACHTRÄGLICHE ZUORDNUNG EINE**
+**2.9** **PRÜFFALL 09: NACHTRÄGLICHE ZUORDNUNG EINES TERMINS**
 
 |  |  |
 |---|---|
@@ -392,9 +392,8 @@ Prüfunterlagen sofern der Anwender eine Warnmeldung Terminservice Informationen
 | **Testziel** | Die Praxis erstellt die Abrechnung |
 | **Einzureichende** | Es wird eine Abrechnungsdatei (.con) eingereicht, |
 
-## S TERMINS
+der TSS- Informationen Prüfunterlagen   14.08.2025 den relevanten Informationen zu. aufgenommen und behandelt wurde, den passenden Termin zu und übernimmt die zeitgestaffelten Zuschläge (GOP 03010) a) die nachträgliche Zuordnung eines Termins zu dem Patienten. b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der KP2-513 Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden. Prüfunterlagen sdatei mit den Daten der Prüffälle.  in welcher die Daten der Prüffälle enthalten sind. 
 
-der TSS- Informationen Prüfunterlagen   14.08.2025 den relevanten Informationen zu. aufgenommen und behandelt wurde, den passenden Termin zu und übernimmt die zeitgestaffelten Zuschläge (GOP 03010) a) die nachträgliche Zuordnung eines Termins zu dem Patienten. b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der KP2-513 Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden. Prüfunterlagen sdatei mit den Daten der Prüffälle.  in welcher die Daten der Prüffälle enthalten sind.
 
 ---
 

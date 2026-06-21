@@ -109,7 +109,7 @@ Erhebungen nach Muster 62A zum Zwecke der Therapieoptimierung und zur Verbesseru
 
 der Lebensqualität
 
-Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung fest gestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine  Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs-  bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
+Innerhalb von mindestens zwei Jahren wurde zweimal in Folge im Rahmen einer unmittelbar persönlichen Erhebung fest gestellt, dass keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung besteht und eine  Entwöhnung oder Dekanülierung dauerhaft nicht möglich ist. Eine regelmäßige Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.
 
 invasiv
 

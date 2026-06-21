@@ -78,7 +78,7 @@ Die Behandlungspflege umfasst Maßnahmen der ärztlichen Behandlung, die dazu di
 -
 ```
 
-Geben Sie hier bitte die zu verabreichenden Präparate sowie deren jeweilige Dauer und Häufigkeit an. Diese  Angaben können alternativ auf einem gesonderten Dokument als Anlage zur Verordnung erfolgen. Bei der  Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häusliche Krankenpflege- Richtlinie zu beachten.
+Geben Sie hier bitte die zu verabreichenden Präparate sowie deren jeweilige Dauer und Häufigkeit an. Diese  Angaben können alternativ auf einem gesonderten Dokument als Anlage zur Verordnung erfolgen. Bei der  Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
 
 ---
 
@@ -104,7 +104,7 @@ Bei der Verordnung von Leistungen der Kompressionsbehandlung ist Nr. 31 der Häu
 -
 ```
 
-Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Dekubitusbehandlung, 31 Wundversorgung einer akuten Wunde  chronischen und schwer heilenden Wunde des Leistungsverzeichnisses der Häusliche Krankenpflege- Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
+Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positionswechsel zur  Dekubitusbehandlung, 31 Wundversorgung einer akuten Wunde  chronischen und schwer heilenden Wunde des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten. Bitte geben Sie auch die anzuwendenden Präparate an. Die Angaben zu den  Präparaten sowie zur Wunddokumentation können auf einem gesonderten Dokument als Anlage zur  Verordnung erfolgen.
 
 #### - Sonstige Maßnahmen der Behandlungspflege 14.
 

@@ -18,9 +18,14 @@ technische Hilfe (bitte näher beschreiben):
 
 # Nähere Beschreibung der technischen Hilfen:
 
+regelmäßig
+
+Schuhzurichtung
+
 ## Beschwerden/Behinderungen mit Auswirkung auf die beantragte Leistung:
 
 - Rückenschmerzen:
+- HWS
 - Beinverkürzung:
 - Beckenschiefstand:
 - Kniebeschwerden:
@@ -35,13 +40,7 @@ ____
 
 ____
 
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21.
-
-regelmäßig
-
-Schuhzurichtung
-
-- HWS 12
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_ Fußschutz_Einlagen_Technische_Hilfen_21. 12
 
 BGL-Nummer:
 
@@ -72,9 +71,7 @@ elektrisch
 
 # Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des  Fußschutzes oder der technischen Hilfen
 
-## Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: M Einlagen ganztags getragen werden?
-
-## uss das Schuhwerk bzw. die
+## Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: Muss das Schuhwerk bzw. die  Einlagen ganztags getragen werden?
 
 ja
 

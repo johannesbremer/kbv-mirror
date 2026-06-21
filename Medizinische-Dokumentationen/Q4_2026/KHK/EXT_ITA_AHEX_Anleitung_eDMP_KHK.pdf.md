@@ -67,7 +67,7 @@ Die medikamentöse Therapie bei der KHK verfolgt zum einen das Ziel der Reduktio
 
 Vorrangig sollen unter Berücksichtigung der Kontraindikationen, der Komorbiditäten und der  Patientenpräferenzen Medikamente zur Behandlung der KHK verwendet werden, deren positiver  Effekt und deren Sicherheit in randomisierten, kontrollierten Studien (RCT) nachgewiesen wurden.
 
-Bitte machen Sie zu jedem Medikament eine Angabe. Bitte geben Sie bei „ Nein“ – wo möglich -  zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe des jeweiligen  Medikamentes zurückzuführen ist. Diese Angaben sind für die Qualitätssicherung notwendig.
+Bitte machen Sie zu jedem Medikament eine Angabe. Bitte geben Sie bei „ Nein“ – wo möglich - zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe des jeweiligen  Medikamentes zurückzuführen ist. Diese Angaben sind für die Qualitätssicherung notwendig.
 
 Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen  werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
 

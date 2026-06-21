@@ -37,6 +37,8 @@
 
 ---
 
+#### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
+
 | Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
 |  | Administrative Daten | | |
@@ -54,8 +56,6 @@
 1 Gemeint ist die Lebenslange Arztnummer
 
 2 Dies entspricht dem „origination_dttm“
-
-#### Datensatz für die indikationsübergreifende Dokumentation (ausgenommen Brustkrebs)
 
 ### Anlage 2
 

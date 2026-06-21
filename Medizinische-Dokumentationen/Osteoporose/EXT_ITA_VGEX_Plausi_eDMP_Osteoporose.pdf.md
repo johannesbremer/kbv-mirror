@@ -39,14 +39,46 @@ Nr. nachstehenden Felder der Anlage 20* entsprechend den Festlegungen der Plausi
 
 ---
 
-|  |  |  | Rahmen einer Folgedokumentation auszufüllen ist   Eine Angabe ist nicht zulässig, wenn die   Die Angaben |
-|---|---|---|---|
-| 4 | Stürze in den letzten 6 | Anzahl | Bedingtes Pflichtfeld Die Angabe muss gleich oder größer „0“    Eine Angabe ist erforderlich, wenn die Anlage 20* im    Eine Angabe im Rahmen einer |
-| 5 | Stürze seit der letzten Dokumentation | Anzahl | Bedingtes Pflichtfeld Die Angabe muss gleich oder größer „0“ und kleiner    Eine Angabe ist erforderlich, wenn die Anlage 20* im    Eine Angabe im Rahmen einer |
-| Sonstige Befunde und nichtmedikamentöse Behandlung |  | | |
-| 6 | Teilnehmerinnen und Teilnehmer ab  erhöhtes Sturzrisiko | Ja / Nein | Bedingtes Pflichtfeld   Eine Angabe ist erforderlich, wenn die Differenz aus |
+4 Stürze in den letzten 6 Monaten
 
-Monaten 70 Jahre: UND in Feld 2 die Angabe „Ja“ erfolgt ist im Rahmen einer Folgedokumentation ausgefüllt, ist UND in Feld 2 die Angabe „Nein“ erfolgt ist Proximale Femurfraktur Singuläre Wirbelkörperfraktur Multiple Wirbelkörperfrakturen Beckenfraktur Humerusfraktur Radiusfraktur Andere “ können jeweils alleine oder gemeinsam erfolgen. Nummerische Angabe ohne Nachkommastelle. oder gleich „99“ sein. Rahmen einer Erstdokumentation auszufüllen ist. Folgedokumentation ist nicht zulässig. Nummerische Angabe ohne Nachkommastelle. oder gleich „99“ sein. Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. Genau eine Angabe ist zulässig. der Datumsangabe in Feld 22 der
+Anzahl
+
+5 Stürze seit der letzten Dokumentation Anzahl
+
+Sonstige Befunde und nichtmedikamentöse Behandlung
+
+6 Teilnehmerinnen und Teilnehmer ab
+
+Ja / Nein 70 Jahre:
+
+erhöhtes Sturzrisiko
+
+Rahmen einer Folgedokumentation auszufüllen ist  UND in Feld 2 die Angabe „Ja“ erfolgt ist
+
+Eine Angabe ist nicht zulässig, wenn die Anlage 20*  im Rahmen einer Folgedokumentation ausgefüllt, ist  UND in Feld 2 die Angabe „Nein“ erfolgt ist
+
+Die Angaben Proximale Femurfraktur Singuläre  Wirbelkörperfraktur Multiple Wirbelkörperfrakturen  Beckenfraktur Humerusfraktur Radiusfraktur  Andere“ können jeweils alleine oder gemeinsam  erfolgen.
+
+Bedingtes Pflichtfeld  Nummerische Angabe ohne Nachkommastelle.
+
+Die Angabe muss gleich oder größer „0“ und kleiner  oder gleich „99“ sein.
+
+Eine Angabe ist erforderlich, wenn die Anlage 20* im  Rahmen einer Erstdokumentation auszufüllen ist.
+
+Eine Angabe im Rahmen einer Folgedokumentation ist  nicht zulässig.
+
+Bedingtes Pflichtfeld  Nummerische Angabe ohne Nachkommastelle.
+
+Die Angabe muss gleich oder größer „0“ und kleiner  oder gleich „99“ sein.
+
+Eine Angabe ist erforderlich, wenn die Anlage 20* im  Rahmen einer Folgedokumentation auszufüllen ist.
+
+Eine Angabe im Rahmen einer Erstdokumentation ist  nicht zulässig.
+
+Bedingtes Pflichtfeld  Genau eine Angabe ist zulässig.
+
+Eine Angabe ist erforderlich, wenn die Differenz aus  der Datumsangabe in Feld 22 der
+
 
 ---
 

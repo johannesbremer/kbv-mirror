@@ -18,7 +18,7 @@ Fahrten zu Hospizen:
 
 **e)**
 
-**ambulante Behandlung** bei Merkzeichen „aG“, „BI“, „H“, Pflegegrad 3 mit dauerhafter Mobilitäts- beeinträchtigung, Pflegegrad 4 oder 5 **nur Taxi/Mietwagen***** (Fahrt mit KTW ist unter f) zu verordnen)***
+**ambulante Behandlung** bei Merkzeichen „aG“, „BI“, „H“, Pflegegrad 3 mit dauerhafter Mobilitäts-beeinträchtigung, Pflegegrad 4 oder 5 **nur Taxi/Mietwagen***** (Fahrt mit KTW ist unter f) zu verordnen)***
 
 **b)**
 

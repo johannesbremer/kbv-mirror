@@ -168,7 +168,7 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende Fehlermeldungs- benachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und dem Antragssteller  zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen geprüft. Erst  wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden, erfolgt  die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die Antragssteller aufgefordert,  eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende Fehlermeldungs-benachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und dem Antragssteller  zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen geprüft. Erst  wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden, erfolgt  die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die Antragssteller aufgefordert,  eine Korrekturlieferung hochzuladen.
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
@@ -260,7 +260,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 **1.6.6** **Krankenhausdaten**
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei A haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu reichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken-haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu reichen.
 
 **BEZEICHNUNG**
 
@@ -302,6 +302,8 @@ Musterstr.
 
 06151 / 2222222
 
+Begleitdatei als Absender bzw.
+
 **INHALT**
 
 856215715
@@ -315,10 +317,6 @@ Am Wehr 20
 06151 / 1111111
 
 06151 / 2222222
-
-Begleitdatei als Absender bzw.
-
-bsender (Kranken-
 
 / Version: 1.03 / 15. August 2025
 
@@ -809,31 +807,27 @@ Sofern das System eine Zulassung für die Indikation  verfügt, müssen die ents
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-**1.** **Versichertendaten**  Die Versichertendaten von **Helga Aufgelöst** (4.1) im Ersatzverfahren erfassen.  **2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen des DAS den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation  „Indikationsspezifische Daten“).
+**1.** **Versichertendaten**  Die Versichertendaten von **Helga Aufgelöst** (4.1) im Ersatzverfahren erfassen.  **2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer Erst** **einer Folgedokumentation**  Erfassen Sie vor der Erst- und Folgedokumentation die Antworten auf die Fragen des DAS den DAS-28-Score berechnen und in die Dokumentation übernehmen. Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübergreifende Daten“ und  „Indikationsspezifische Daten“).
 
 **DAS-28-Wert Fragebogen**
 
-**1. Anzahl geschwollener Gelenke (sw28)**   **(Wertebereich: 0  28)**
+**Erstdokumentation**
 
-**2. Anzahl druckschmerzhafter Gelenke (t28)**   **(Wertebereich 0 - 28)**
+**1. Anzahl geschwollener Gelenke (sw28)**
+
+5  **(Wertebereich: 0  28)**
+
+**2. Anzahl druckschmerzhafter Gelenke (t28)**  6  **(Wertebereich 0 - 28)**
+
+11
 
 **3. Subjektive Krankheitsaktivität (VAS)**   **(Wertebereich 0  100)**
+
+13
 
 **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h)**
 
 / Version: 1.03 / 15. August 2025
-
-(s.u., “Indikationsübergreifende Daten“ und
-
-**Erstdokumentation**
-
-5
-
-6
-
-11
-
-13
 
 Diabetes mellitus Typ 2
 

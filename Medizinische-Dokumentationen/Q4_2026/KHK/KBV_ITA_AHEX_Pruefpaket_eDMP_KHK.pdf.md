@@ -555,10 +555,6 @@ Versichertendaten – Ersatzverfahren) im Ersatzverfahren erfassen.
 |  |  |  |
 |  |  | Ja |
 
-```
--
-```
-
 Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln.  DATEN Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---

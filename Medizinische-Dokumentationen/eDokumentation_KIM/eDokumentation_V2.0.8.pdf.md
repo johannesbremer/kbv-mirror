@@ -56,7 +56,7 @@ Anpassung von eDoku0112 und Aufnahme in Kraft GmbH
 
 einer Anmerkung bezüglich der Verwendung  des Header-Feldes Return-Path
 
-Aufnahme Anforderung zum Umgang, wenn  bezüglich ausbleibender eDokumentation- Importstatus-Nachrichten Rücksprache mit der  DAS gehalten wurde 2.0.7 24.03.2025 kv.digital 4
+Aufnahme Anforderung zum Umgang, wenn  bezüglich ausbleibender eDokumentation-Importstatus-Nachrichten Rücksprache mit der  DAS gehalten wurde 2.0.7 24.03.2025 kv.digital 4
 
 Korrektur des Links der Referenzen [SPKA] und außer Kraft GmbH
 
@@ -68,7 +68,7 @@ Ergänzung der Abbildung 4 für
 
 außer Kraft GmbH
 
-eDokumentation- Importstatus RFC822- Standard 2.0.5 23.11.2023 kv.digital 3
+eDokumentation- Importstatus RFC822-Standard 2.0.5 23.11.2023 kv.digital 3
 
 Aufnahme Anforderung zum Umgang, wenn außer Kraft GmbH
 
@@ -84,7 +84,7 @@ alle
 
 Herauslösen der Anforderungen zur  Begleitdatei in eigene Spezifikation  Begleitdatei [BGD]
 
-Migration eDokumentation V2.0.4 via KV- Connect nach KIM
+Migration eDokumentation V2.0.4 via KV-Connect nach KIM
 
 **Herausgeber:**
 
@@ -101,7 +101,7 @@ eDokumentation V2.0
 
 **1 Einführung** Dieses Dokument dient der Spezifikation der Inhalte der Anwendung eDokumentation für die Übermittlung  von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen).
 
-Der Anwendungsdienst "eDokumentation" dient der Übermittlung von elektronischen Dokumentationen zu  Qualitätssicherungsvereinbarungen an die Datenannahmestelle (DAS) direkt aus dem Software-System des  Arztes heraus sowie der Übermittlung der Reaktionen der DAS an die Arztpraxis (Empfangsbestätigungen,  Rückmeldungen zum korrekten Import) über KIM. Neben den Formaten der zu übertragenden Daten umfasst  die Spezifikation auch die einzuhaltenden Abläufe sowie die Anforderungen an die beteiligten Software- Systeme.
+Der Anwendungsdienst "eDokumentation" dient der Übermittlung von elektronischen Dokumentationen zu  Qualitätssicherungsvereinbarungen an die Datenannahmestelle (DAS) direkt aus dem Software-System des  Arztes heraus sowie der Übermittlung der Reaktionen der DAS an die Arztpraxis (Empfangsbestätigungen,  Rückmeldungen zum korrekten Import) über KIM. Neben den Formaten der zu übertragenden Daten umfasst  die Spezifikation auch die einzuhaltenden Abläufe sowie die Anforderungen an die beteiligten Software-Systeme.
 
 Zu den eDokumentationen gehören:
 
@@ -168,11 +168,11 @@ Seite 6 von 20
 
 **[eDoku0110]**
 
-Das Header-Element X-KIM-Dienstkennung <Typ>;Lieferung;V2.0" aufweisen.
+Das Header-Element X-KIM-Dienstkennung **MUSS**  <Typ>;Lieferung;V2.0" aufweisen.
 
 **[eDoku0111]**
 
-Der Inhalt des Header-Elements Subject   entsprechen.
+Der Inhalt des Header-Elements Subject  **MUSS** genau dem Inhalt der  entsprechen.
 
 **[eDoku0112]**
 
@@ -207,10 +207,6 @@ Jede eDokumentation "Lieferung" **MUSS** genau ein MIME-Segment mit dem Dokument
 Die Dokumentationsarchiv-Datei und der dazugehörige Dateiname  [Med_Dok] sowie [eDokumentation-KBV-XML] entsprechen.
 
 Seite
-
-**MUSS**
-
-**MUSS** genau dem Inhalt der
 
 eDokumentation V2.0
 
@@ -251,7 +247,7 @@ Begleitdatei
 
 application/xml;  name="begleitdatei.xml"
 
-Dokumentationsarchiv application/octet-  stream;  name="<archivname>.zi p.xkm"
+Dokumentationsarchiv application/octet- stream;  name="<archivname>.zi p.xkm"
 
 **1 Tabelle 1: Metainformationen eDokumentation-Lieferung** Hinweis: Die Angabe des Parameters "filename" in Content-Disposition ist optional. Wird "filename" jedoch  angegeben, muss dieser mit dem Wert in "name" im Parameter Content-Type übereinstimmen.
 
@@ -355,9 +351,11 @@ von 20
 
 ---
 
+eDokumentation V2.0
+
 3.3.3 **Beispiel für eDokumentation-Eingangsbestätigung**
 
-Content-Type: multipart/report; report-type=disposition-notification; boundary="---- =_Part_124_577229494.1548949881009" MIME-Version: 1.0 Message-ID: <Message-ID> Date: Thu, 10 Nov 2022 11:51:21 +0100 Subject: eDokumentation;Eingangsbestaetigung;V2.0 From: [DAS123@xyz.kim.telematik](mailto:DAS123@xyz.kim.telematik) To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: eDokumentation;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beipsiel-DAS-Client;V4.4.4
+Content-Type: multipart/report; report-type=disposition-notification; boundary="----=_Part_124_577229494.1548949881009" MIME-Version: 1.0 Message-ID: <Message-ID> Date: Thu, 10 Nov 2022 11:51:21 +0100 Subject: eDokumentation;Eingangsbestaetigung;V2.0 From: [DAS123@xyz.kim.telematik](mailto:DAS123@xyz.kim.telematik) To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: eDokumentation;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beipsiel-DAS-Client;V4.4.4
 
 ------=_Part_124_577229494.1548949881009 Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit
 
@@ -369,9 +367,7 @@ Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sen
 
 ------=_Part_124_577229494.1548949881009--
 
-Seite
-
-eDokumentation V2.0 11 von 20
+Seite 11 von 20
 
 
 ---
@@ -394,7 +390,7 @@ Dienstkennung aufweisen.
 
 **[eDoku0312]**
 
-Der Nachrichten-Header **MUSS** ein Element " In-Reply-To " mit der Message-ID der eDokumentation- Lieferung enthalten, auf die sich dieser eDokumentation-Importstatus bezieht.
+Der Nachrichten-Header **MUSS** ein Element " In-Reply-To " mit der Message-ID der eDokumentation-Lieferung enthalten, auf die sich dieser eDokumentation-Importstatus bezieht.
 
 3.4.2 Anforderungen an den Nachrichten-Body
 
@@ -417,6 +413,8 @@ eDokumentationX-KIM-
 
 ---
 
+eDokumentation V2.0
+
 3.4.3 **Beispiel für eDokumentation-Importstatus**
 
 From: [DAS123@xyz.kim.telematik](mailto:DAS123@xyz.kim.telematik)  To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) Subject: eDokumentation-QSKE;Status;V2.0 Message-ID: <Message-ID> X-KIM-Dienstkennung: eDokumentation-QSKE;Status;V2.0 X-KIM-Sendersystem: Beispiel-DAS-Client;1.0 In-Reply-To: <Original-Message-ID> Date: Thu, 10 Nov 2024 10:01:45 +0100 MIME-Version: 1.0 Content-Type: multipart/mixed;
@@ -429,12 +427,12 @@ Die Jahresstatistik gemäß Qualitätssicherungsvereinbarung Kapselendoskopie wu
 
 --------------B5962C28404E15827572FE9C--
 
-Seite
-
-eDokumentation V2.0 13 von 20
+Seite 13 von 20
 
 
 ---
+
+eDokumentation V2.0
 
 **Beispiel für eDokumentation-Importstatus RFC822-Standard**
 
@@ -442,9 +440,7 @@ From: [DAS123@xyz.kim.telematik](mailto:DAS123@xyz.kim.telematik)  To: [ArztABC@
 
 Die Jahresstatistik gemäß Qualitätssicherungsvereinbarung Kapselendoskopie wurde erfolgreich  importiert. Status: OK GUID: fb8277f1-fc63-4d1b-ac43-d278a1fd3f87 LANR: 555333222 (N)BSNR: 123456789 Jahr: 2024
 
-Seite
-
-eDokumentation V2.0 14 von 20
+Seite 14 von 20
 
 
 ---
@@ -481,7 +477,7 @@ Anmerkungen:
 
 **[eDoku0812]**
 
-Das Software-System **MUSS** es dem Anwender ermöglichen, über die Anforderung einer eDokumentation- Eingangsbestätigung (MDN) selbst zu entscheiden.
+Das Software-System **MUSS** es dem Anwender ermöglichen, über die Anforderung einer eDokumentation-Eingangsbestätigung (MDN) selbst zu entscheiden.
 
 **[eDoku0813]**
 
@@ -507,7 +503,7 @@ eDokumentation V2.0
 
 **[eDoku0814]**
 
-Der Anwender **MUSS** sich eDokumentation-Lieferungen inklusive aller Anhänge anzeigen lassen und  öffnen können. Darüber hinaus **MUSS** der Anwender sich auch die zugehörigen eDokumentation- Eingangsbestätigungen sowie Importstatusse in der gleichen Ansicht anzeigen lassen und öffnen können.
+Der Anwender **MUSS** sich eDokumentation-Lieferungen inklusive aller Anhänge anzeigen lassen und  öffnen können. Darüber hinaus **MUSS** der Anwender sich auch die zugehörigen eDokumentation-Eingangsbestätigungen sowie Importstatusse in der gleichen Ansicht anzeigen lassen und öffnen können.
 
 Anmerkung:
 
@@ -610,7 +606,7 @@ Das Software-System **MUSS**
 - aus den empfangenen eDokumentation-Lieferungen alle notwendigen Informationen für  Rückantworten ermitteln, vorhalten und ggf. mit weiteren Informationen anreichern,
 - die Prüfung und Weiterverarbeitung der enthaltenen Dateien sicherstellen,
 
-so dass je nach Status der Prüfung und Weiterverarbeitung der Dokumentationsbögen bzw.  Jahresstatistiken die entsprechenden eDokumentation-Nachrichten (eDokumentation- Eingangsbestätigung, eDokumentation-Importstatus) erzeugt und an den entsprechenden  Leistungserbringer bzw. Absender der eDokumentation-Lieferung versendet werden können.
+so dass je nach Status der Prüfung und Weiterverarbeitung der Dokumentationsbögen bzw.  Jahresstatistiken die entsprechenden eDokumentation-Nachrichten (eDokumentation-Eingangsbestätigung, eDokumentation-Importstatus) erzeugt und an den entsprechenden  Leistungserbringer bzw. Absender der eDokumentation-Lieferung versendet werden können.
 
 **[eDoku0912]**
 

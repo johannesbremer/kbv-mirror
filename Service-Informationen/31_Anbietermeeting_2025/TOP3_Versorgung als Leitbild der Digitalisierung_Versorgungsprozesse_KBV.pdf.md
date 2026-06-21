@@ -327,7 +327,7 @@ ePA 3.1.3 **ersetzt**
 - Gemeinschaft stärken & gemeinsam  effektiver sein mit einem neuen  Format als Ergänzung zu  bestehenden
 - Relevante Akteure bündeln ihre  Kräfte **18.09.2025** Kommen Sie  vorbei heute Abend!join forces
 
-**Interoperabilitäts Navigator**
+**I**
 
 - Erste Anlaufstelle für IOP im  Gesundheitsbereich
 - Dynamische Wissensplattform,  Grundlagen, Informations und  Partizipationsmöglichkeiten,  Publikationen zu Verbindlichkeiten  (KOB)

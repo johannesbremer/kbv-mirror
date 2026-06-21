@@ -53,7 +53,7 @@ l- metergruppen 5 und 7 nennung bei Parameter 5 angepasst in Plausis berücksich
 
 ## 1.1 Qualitätssicherungsvereinbarung Kapselendoskopie
 
-Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs- vereinbarung Kapselendoskopie (QSKE) [1] erhoben werden. Es wird eine arztbezogene Jah- resstatistik an die zuständige Datenannahmestelle übermittelt.
+Dieser Plausibilitätenkatalog gilt für die Daten, welche im Rahmen der Qualitätssicherungs-vereinbarung Kapselendoskopie (QSKE) [1] erhoben werden. Es wird eine arztbezogene Jah-resstatistik an die zuständige Datenannahmestelle übermittelt.
 
 ## 1.2 Hinweise zum Verständnis dieses Dokuments
 
@@ -71,17 +71,17 @@ Ein Mussfeld muss in einem Formular vorhanden sein.
 
 **m = bedingtes Mussfeld (bedingtes Pflichtfeld)**
 
-Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be-schreibung“) gebunden. Ein bedingtes Mussfeld muss in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist.
 
 **Hinweis:** Soll ein bedingtes Pflichtfeld nicht vorhanden sein, wenn die zugehörige Bedingung  nicht erfüllt ist, so wird dies in der Spalte „Beschreibung“ angegeben.
 
 **K = Kannfeld (optionales Feld)**
 
-Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin- gungen geknüpft ist.
+Ein Kannfeld kann in einem Formular auftreten, wobei das Vorkommen an keinerlei Bedin-gungen geknüpft ist.
 
 **k = bedingtes Kannfeld (bedingtes optionales Feld)**
 
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be- schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann- feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht** erfüllt ist.
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte „Be-schreibung“) gebunden. Ein bedingtes Kannfeld kann in einem Formular vorhanden sein,  wenn die zugehörige Bedingung in der Spalte „Beschreibung“ erfüllt ist. Ein bedingtes Kann-feld **darf nicht** vorhanden sein, wenn die zugehörige Bedingung in der Spalte „Beschreibung“  **nicht** erfüllt ist.
 
 ### 1.2.2 Beschreibung der Begriffe „Fehler“ und „Warnung“
 

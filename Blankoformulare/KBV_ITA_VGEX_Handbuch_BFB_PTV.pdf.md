@@ -149,9 +149,9 @@ des verkürzten Personalien- felds für das Muster PTV1, PTV2, PTV11 und PTV12 s
 
 # 1 ÜBERSICHT
 
-Blankoformularbedruckung (BFB) bezeichnet die Formularerzeugung auf Blankoformularen in der ärztlichen  oder psychotherapeutischen Praxis, wobei durch die Praxisverwaltungssysteme (PVS) sowohl das eigentli- che Formular als auch der Formularinhalt generiert wird.
+Blankoformularbedruckung (BFB) bezeichnet die Formularerzeugung auf Blankoformularen in der ärztlichen  oder psychotherapeutischen Praxis, wobei durch die Praxisverwaltungssysteme (PVS) sowohl das eigentli-che Formular als auch der Formularinhalt generiert wird.
 
-Das vorliegende Handbuch dient der Begleitung der technischen Umsetzung des Blankoformularbedruck- ungsverfahrens und ist zwingend in der jeweils gültigen Fassung durch die Anbieter von PVS zu beachten.
+Das vorliegende Handbuch dient der Begleitung der technischen Umsetzung des Blankoformularbedruck-ungsverfahrens und ist zwingend in der jeweils gültigen Fassung durch die Anbieter von PVS zu beachten.
 
 - **1.1** **ALLGEMEINE INFORMATIONEN**
 
@@ -161,23 +161,23 @@ Das Ausstellungsdatum ist das Datum des Drucks des Formulars. Die Prüfnummer ke
 
 Bei der Bedruckung der Formulare mit einer Diagnoseverschlüsselung gem. ICD -10-GM gilt:
 
-- 1. Mehrere ICD-10-Kodes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen ausge- druckt.
+- 1. Mehrere ICD-10-Kodes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen ausge-druckt.
 
 Beispiel: O26.83 G, O12.2 Z, S51.9 G L
 
-- 2. Der Ausdruck der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-Kode in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-Kode, Diagno- sesicherheit und Seitenlokalisation ist das "Leerzeichen".
+- 2. Der Ausdruck der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-Kode in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-Kode, Diagno-sesicherheit und Seitenlokalisation ist das "Leerzeichen".
 
 # 2 ANFORDERUNGEN ZUR BFB (PTV)
 
 ## 2.1 ZIELBESTIMMUNG
 
-Dieser Anforderungskatalog gilt für Software für vertraglich zugelassene ärztliche und psychologische Psy- chotherapeutinnen und Psychotherapeuten (im weiteren Verlauf Psychotherapeuten genannt).
+Dieser Anforderungskatalog gilt für Software für vertraglich zugelassene ärztliche und psychologische Psy-chotherapeutinnen und Psychotherapeuten (im weiteren Verlauf Psychotherapeuten genannt).
 
-Die Softwareprodukte müssen in der Lage sein, Formulare im Rahmen der Blankoformularbedruckung er- zeugen und bedrucken zu können (siehe [KBV_ITA_RLEX_Zert]).
+Die Softwareprodukte müssen in der Lage sein, Formulare im Rahmen der Blankoformularbedruckung er-zeugen und bedrucken zu können (siehe [KBV_ITA_RLEX_Zert]).
 
 Software, die die Blankoformularbedruckung unterstützt, muss vor ihrem Einsatz durch die KBV zertifiziert  werden.
 
-Psychotherapeuten, die das Verfahren der Blankoformularbedruckung nutzen wollen, dürfen im Rahmen  der Blankoformularbedruckung ausschließlich die in der Psychotherapie -Vereinbarung festgelegten Vordru- cke erzeugen.
+Psychotherapeuten, die das Verfahren der Blankoformularbedruckung nutzen wollen, dürfen im Rahmen  der Blankoformularbedruckung ausschließlich die in der Psychotherapie -Vereinbarung festgelegten Vordru-cke erzeugen.
 
 ## 2.2 ERSTELLUNG VON VORDRUCKEN
 
@@ -214,13 +214,13 @@ KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung
 
 ## 2.6 PAPIER
 
-Für die Erzeugung der PT-Formulare ist weißes Papier, vorzugsweise in OCR-Qualität, mit einer Mindest- stärke von 80g/m² zu verwenden.
+Für die Erzeugung der PT-Formulare ist weißes Papier, vorzugsweise in OCR-Qualität, mit einer Mindest-stärke von 80g/m² zu verwenden.
 
 ---
 
 ## 2.7 ERLÄUTERUNG DER FUNKTIONSDARSTELLUNG
 
-Es gibt Pflichtfunktionen und optionale Funktionen. **Pflichtfunktionen** müssen in der Anwendungssoftware  implementiert sein. **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingun- gen entsprechend realisiert werden.
+Es gibt Pflichtfunktionen und optionale Funktionen. **Pflichtfunktionen** müssen in der Anwendungssoftware  implementiert sein. **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingun-gen entsprechend realisiert werden.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist im Rahmen  des Begutachtungsverfahrens nachzuweisen.
 
@@ -244,9 +244,9 @@ Ident-Nummer einer optionalen Funktion
 |---|---|
 | **P2.8-10** | **Verwendung zulässiger BFB-Formulare** |
 
-Im Rahmen der Blankoformularbedruckung für Psychotherapie dürfen nur die in Anlage 1 des BMV -Ä (Psy- chotherapie-Vereinbarung) §18 Absatz 12 Satz 3 bestimmten Formblätter verwendet werden.
+Im Rahmen der Blankoformularbedruckung für Psychotherapie dürfen nur die in Anlage 1 des BMV -Ä (Psy-chotherapie-Vereinbarung) §18 Absatz 12 Satz 3 bestimmten Formblätter verwendet werden.
 
-Am Ende dieses Dokumentes (Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)) sind Bei- spieldarstellungen der zulässigen Blankoformulare für Psychotherapie angefügt.
+Am Ende dieses Dokumentes (Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)) sind Bei-spieldarstellungen der zulässigen Blankoformulare für Psychotherapie angefügt.
 
 ## 2.9 FORMULARE ALS DRUCK-DATEIEN
 
@@ -258,16 +258,16 @@ Die KBV stellt die in der Blankoformularbedruckung aufgenommenen PT -Formulare a
 |---|---|
 | **P2.10-10** | **Änderungsdienst** |
 
-Änderungen an PT-Formularen im Rahmen der BFB werden seitens der KBV spätestens zur Mitte des zwei- ten Monats im Quartal in elektronischer Form veröffentlicht.
+Änderungen an PT-Formularen im Rahmen der BFB werden seitens der KBV spätestens zur Mitte des zwei-ten Monats im Quartal in elektronischer Form veröffentlicht.
 
-Mit einem Update zu den PT-Formularen muss der Softwareverantwortliche sicherstellen, dass spätestens  mit Beginn des Folgequartals bzw. des genannten Stichtages die in der Praxis betroffenen Formulare ent- sprechend angepasst werden.
+Mit einem Update zu den PT-Formularen muss der Softwareverantwortliche sicherstellen, dass spätestens  mit Beginn des Folgequartals bzw. des genannten Stichtages die in der Praxis betroffenen Formulare ent-sprechend angepasst werden.
 
 
 ---
 
 ## 2.11 BEDRUCKUNGSVORGABEN
 
-Die Bedruckungsvorgaben beziehen sich auf die psychotherapeutischen BFB -Formulare. Die im Rahmen der  Blankoformularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrest- riktionen gemäß Vorgaben der Bundesmantelverträge (siehe § 19 Bundesmantelvertrag-Ärzte (BMV-Ä)  bzw. §§23, 24 BMV-Ä unter [Bundesmantelvertrag]), sowie der Technischen Anlage zu Anlage 4a
+Die Bedruckungsvorgaben beziehen sich auf die psychotherapeutischen BFB -Formulare. Die im Rahmen der  Blankoformularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrest-riktionen gemäß Vorgaben der Bundesmantelverträge (siehe § 19 Bundesmantelvertrag-Ärzte (BMV-Ä)  bzw. §§23, 24 BMV-Ä unter [Bundesmantelvertrag]), sowie der Technischen Anlage zu Anlage 4a
 
 KBV_ITA_VGEX_Mapping_KVK] und des KVDT [KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
@@ -283,11 +283,11 @@ Die Anwendungssoftware darf den Ausdruck von psychotherapeutischen BFB -Formular
 |---|---|
 | **P2.10-11** | **Vorgaben aus dem Anforderungskatalog Formularbedruckung** |
 
-Die Software muss für den Blankoformulardruck der unterstützten Muster die Vorgaben aus dem Anforde- rungskatalog Formularbedruckung einhalten.
+Die Software muss für den Blankoformulardruck der unterstützten Muster die Vorgaben aus dem Anforde-rungskatalog Formularbedruckung einhalten.
 
-**Begründung:** Der Anforderungskatalog Formularbedruckung definiert Anforderungen zum korrekten Ge- brauch und Ausdruck vertragsärztlicher Formulare.
+**Begründung:** Der Anforderungskatalog Formularbedruckung definiert Anforderungen zum korrekten Ge-brauch und Ausdruck vertragsärztlicher Formulare.
 
-**Akzeptanzkriterium:** Die Software druckt die unterstützten Muster im Blankoformulardruck unter Einhal- tung der im Anforderungskatalog Formularbedruckung [KBV_ITA_VGEX_Anforderungskatalog_Formularbe- druckung] für die unterstützten Muster definierten Anforderungen.
+**Akzeptanzkriterium:** Die Software druckt die unterstützten Muster im Blankoformulardruck unter Einhal-tung der im Anforderungskatalog Formularbedruckung [KBV_ITA_VGEX_Anforderungskatalog_Formularbe-druckung] für die unterstützten Muster definierten Anforderungen.
 
 | PFLICHTFUNKTION BFB | |
 |---|---|
@@ -295,27 +295,27 @@ Die Software muss für den Blankoformulardruck der unterstützten Muster die Vor
 
 Die Anwendungssoftware muss den Ausdruck eines BFB-Formulars in den drei unterschiedlichen Varianten  unterstützen:
 
-- Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver- kürzten Personalienfelds) und beliebigen formularspezifischen Daten
-- Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver- kürzten Personalienfelds) ohne formularspezifische Daten
-- Ausdruck des BFB-Formulars ohne personenbezogene Daten (Daten des Personalienfelds oder verkürz- ten Personalienfelds) und ohne formularspezifische Daten
+- Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver-kürzten Personalienfelds) und beliebigen formularspezifischen Daten
+- Ausdruck des BFB-Formulars mit personenbezogenen Daten (Daten des Personalienfelds oder des ver-kürzten Personalienfelds) ohne formularspezifische Daten
+- Ausdruck des BFB-Formulars ohne personenbezogene Daten (Daten des Personalienfelds oder verkürz-ten Personalienfelds) und ohne formularspezifische Daten
 
 **Begründung:**
 
-Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzudruckenden Bewegungs- daten variieren.
+Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzudruckenden Bewegungs-daten variieren.
 
 **Akzeptanzkriterium:**
 
 - 1. Die Software ermöglicht den Ausdruck eines BFB-Formulars mit den zulässigen personenbezogenen und  optional beliebigen formularspezifischen Daten.
-- 2. Die Software muss beim Ausdruck von BFB-Formularen, bei denen die Angabe von Personalien, Kosten- träger oder Arztnummer erwartet wird, sicherstellen, dass diese Angaben ausgedruckt werden.
+- 2. Die Software muss beim Ausdruck von BFB-Formularen, bei denen die Angabe von Personalien, Kosten-träger oder Arztnummer erwartet wird, sicherstellen, dass diese Angaben ausgedruckt werden.
 
 
 ---
 
 - 3. Insbesondere gilt für BFB-Formulare mit einem Personalienfeld oder verkürzten Personalienfeld bei der  Bedruckung der Versichertendaten:
-- a) Bei Einlesen einer Versichertenkarte müssen die Versichertendaten gemäß [KBV_ITA_VGEX_Anforde- rungskatalog_KVDT] aufgedruckt werden.
+- a) Bei Einlesen einer Versichertenkarte müssen die Versichertendaten gemäß [KBV_ITA_VGEX_Anforde-rungskatalog_KVDT] aufgedruckt werden.
 - b) Für das Ersatzverfahren gelten die Vorgaben lt. Bundesmantelverträge.
 - c) Alle Personalienfelder oder verkürzte Personalienfelder eines Formulars müssen bedruckt werden  können.
-- 4. Die Software muss beim Ausdruck von BFB-Formularen, bei denen keine Angabe von Personalien, Kos- tenträger oder Arztnummer erwartet wird, erlauben, dass diese Angaben nicht ausgedruckt werden.
+- 4. Die Software muss beim Ausdruck von BFB-Formularen, bei denen keine Angabe von Personalien, Kos-tenträger oder Arztnummer erwartet wird, erlauben, dass diese Angaben nicht ausgedruckt werden.
 - 5. Für Ausnahmefälle (wie z. B. Haus- und Heimbesuche, Bereitschaftsdienst) können Blankoformulare  gänzlich ohne personenbezogene und formularspezifische Inhalte ausgedruckt und eingesetzt werden.
 - a) In diesem Fall ist nur die Prüfnummer aufzudrucken.
 
@@ -323,11 +323,11 @@ Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzud
 |---|---|
 | **P2.11-40** | **Ausdruck der Prüfnummer** |
 
-Bei erfolgreicher Prüfung wird vom Referat Zertifizierung eine Prüfnummer vergeben. Sie wird auf der  "Konformitätsbescheinigung" vermerkt. Bei erfolgreicher Prüfung weiterer BFB-Formulare werden diese in  die Liste der zertifizierten Formulare der PVS hinzugefügt. Die Prüfnummer bleibt bestehen und ist identifi- zierendes Merkmal bzgl. der erfolgreich geprüften BFB-Formulare und hat verbindlichen Charakter.
+Bei erfolgreicher Prüfung wird vom Referat Zertifizierung eine Prüfnummer vergeben. Sie wird auf der  "Konformitätsbescheinigung" vermerkt. Bei erfolgreicher Prüfung weiterer BFB-Formulare werden diese in  die Liste der zertifizierten Formulare der PVS hinzugefügt. Die Prüfnummer bleibt bestehen und ist identifi-zierendes Merkmal bzgl. der erfolgreich geprüften BFB-Formulare und hat verbindlichen Charakter.
 
 Für den Ausdruck der Prüfnummer gilt:
 
-Die zugeteilte Prüfnummer muss an der definierten Position (vgl. Vordruck -Vereinbarung Blankoformular- bedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden.
+Die zugeteilte Prüfnummer muss an der definierten Position (vgl. Vordruck -Vereinbarung Blankoformular-bedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden.
 
 | PFLICHTFUNKTION BFB | |
 |---|---|
@@ -346,7 +346,7 @@ Da bisherige Formate wie „TTMMJJ“ für Ärzte und Patienten zu Verständnisp
 
 **Hinweis:**
 
-Diese Anforderung gilt nicht für die Bedruckung der konventionellen Muster. Im Rahmen der konventionel- len Muster ist das Format durch die jeweilige Vorlage vorgegeben.
+Diese Anforderung gilt nicht für die Bedruckung der konventionellen Muster. Im Rahmen der konventionel-len Muster ist das Format durch die jeweilige Vorlage vorgegeben.
 
 ---
 

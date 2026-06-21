@@ -39,11 +39,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  HbA1c  Pathologische Albumin Kreatinin Ratio  eGFR  Pulsstatus  Sensibilitätsprüfung  Weiteres Risiko für Ulcus  Ulkus  (Wund)Infektion  Injektionsstellen (bei Insulintherapie)  Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)  Spätfolgen  6.1.6 Abschnitt „Relevante Ereignisse“  Relevante Ereignisse
+6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  HbA1c  Pathologische Albumin Kreatinin Ratio
+
+eGFR  Pulsstatus  Sensibilitätsprüfung  Weiteres Risiko für Ulcus  Ulkus  (Wund)Infektion  Injektionsstellen (bei Insulintherapie)  Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)  Spätfolgen  6.1.6 Abschnitt „Relevante Ereignisse“  Relevante Ereignisse
 
 **10**  **11**  **14**  **15**
 
-15  **15**  16  17  18  19  20  20  20  20  21  21  22  23  24  24  24  25  25  25  26  26  27  27  28  29  29  29 30  30  31  31
+15  **15**  16  17  18  19  20  20  20  20  21  21  22  23  24  24  24  25  25  25  26 26  27  27  28  29  29  29
+
+30  30  31  31
 
 
 ---
@@ -343,11 +347,11 @@ Kodesystems AdministrativeGender
 
 ## 6.1 SEKTION (SECTION)
 
-Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
+Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
 
 **Abbildung 3:** Grundstruktur section
 
-Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“, „Relevante  Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind.
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“, „Relevante  Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind.
 
 |  |  |
 |---|---|

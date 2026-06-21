@@ -505,10 +505,6 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Ve
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Nein |
 
-```
--
-```
-
 Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln. en DM2 und/oder Asthma dokumentiert Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---

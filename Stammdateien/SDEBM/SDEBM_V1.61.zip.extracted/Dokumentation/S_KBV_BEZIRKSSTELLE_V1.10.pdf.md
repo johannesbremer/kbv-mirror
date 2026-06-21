@@ -30,6 +30,12 @@ gültig ab:
 
 12
 
+1.2.276.0.76.5.230
+
+1.10
+
+01.01.2024
+
 13
 
 14
@@ -52,11 +58,7 @@ gültig ab:
 |---|---|
 | 25 | Duisburg |
 
-Seite 1 von 3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE 1.2.276.0.76.5.230
-
-1.10
-
-01.01.2024
+Seite 1 von 3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
 
 **Bezeichnung**
 

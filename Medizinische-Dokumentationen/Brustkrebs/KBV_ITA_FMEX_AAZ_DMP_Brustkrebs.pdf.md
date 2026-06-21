@@ -70,6 +70,8 @@ Sonstiges
 
 ---
 
+Antragssteller:
+
 **1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
 Nur anzugeben, wenn abweichend von Abschnitt
@@ -96,11 +98,9 @@ Bitte geben Sie im Folgenden an, welche Client
 
 Windows
 
-iOS/Android
-
-Antragssteller:
-
 Mac OS
+
+iOS/Android
 
 Sonstige 1.1.
 
@@ -165,11 +165,11 @@ Ansprechpartner(in): Produktmanagement
 
 **E-Mail-Adresse**
 
+Antragssteller:
+
 ________________
 
 Diese Information ist verpflichtend anzugeben
-
-Antragssteller:
 
 
 ---

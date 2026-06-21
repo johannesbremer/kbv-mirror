@@ -262,52 +262,33 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS ....................................................................... 9
 
-**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE
+**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ...................................................................................... 9
 
 **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10
 
-**TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKA
+**TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKATEGORIE ............................................................................. 17
 
-**TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQU
+**TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQUELLE ................................................................................... 18
 
-**TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................
+**TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................ 20
 
-**TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME .............................................................................................
+**TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME ............................................................................................. 21
 
-**TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEI
+**TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEITPRUEFUNG ........................................................................ 22
 
-**TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE ..........................................................................
+**TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE .......................................................................... 23
 
-**TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2]
+**TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2] ........................................................................................ 25
 
 **TABELLE 11:** ZULÄSSIGE WERTE FÜR DEN OPERATOR...................................................................................................... 26
 
-**TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIU
+**TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIUM ...................................................................................... 26
 
-**TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRI
+**TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRITERIUM .............................................................................. 30
 
-**TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL>
-
-....................................................................... 9  ...................................................................................... 9
-
-TEGORIE ............................................................................. 17
-
-ELLE ................................................................................... 18 20
-
-21
-
-TPRUEFUNG ........................................................................ 22 23
-
-........................................................................................ 25
-
-M ...................................................................................... 26
-
-TERIUM .............................................................................. 30
-
-................................................................................................. 34
-
+**TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL> ................................................................................................. 34
 
 ---
 
@@ -844,7 +825,7 @@ Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das
 
 **XML-Code 15:** echtzeitpruefung_liste
 
-Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. 1.2.276.0.76.3.1.1.5.2.18 > Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" 1.2.276.0.76.3.1.1.5.2.54 /> echtzeitpruefung_liste Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt
+Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" 1.2.276.0.76.3.1.1.5.2.18 > <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" 1.2.276.0.76.3.1.1.5.2.54 /> echtzeitpruefung_liste Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt
 
 ---
 

@@ -159,9 +159,9 @@ ABBILDUNG 15: ARZTGRUPPEN_LISTE ................................................
 
 ABBILDUNG 16: ARZTGRUPPE .......................................................................................................................................... 23
 
-ABBILDUNG 17: VERSCHLUESSELUNGSANLEITUNG_LISTE
+ABBILDUNG 17: VERSCHLUESSELUNGSANLEITUNG_LISTE ............................................................................................... 24
 
-ABBILDUNG 18: VERSCHLUESSELUNGSANLEITUNG_REF .................................................................................................
+ABBILDUNG 18: VERSCHLUESSELUNGSANLEITUNG_REF ................................................................................................. 25
 
 ABBILDUNG 17: ICD_CODE ............................................................................................................................................... 25
 
@@ -181,24 +181,15 @@ ABBILDUNG 24: OBERE_ALTERSGRENZE ...............................................
 
 ABBILDUNG 25: ALTERSBEZUG_FEHLERART ..................................................................................................................... 30
 
-ABBILDUNG 26: KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN
+ABBILDUNG 26: KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN .................................................................................... 31
 
-ABBILDUNG 27: SCHLÜSSELNUMMER_MIT_INHALT_BELEGT
+ABBILDUNG 27: SCHLÜSSELNUMMER_MIT_INHALT_BELEGT .......................................................................................... 31
 
-ABBILDUNG 28: INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT .........................................................................................
+ABBILDUNG 28: INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT ......................................................................................... 32
 
-ABBILDUNG 29: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT
+ABBILDUNG 29: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT ................................................................ 33
 
 ABBILDUNG 30: KEINE_DAUERDIAGNOSE ........................................................................................................................ 33
-
-............................................................................................... 24 25
-
-.................................................................................... 31
-
-.......................................................................................... 31 32
-
-................................................................ 33
-
 
 ---
 
@@ -212,11 +203,9 @@ TABELLE 3: BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ............................
 
 TABELLE 4: BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11
 
-DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICH NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZTGRUPPENTHESAURUS VORHANDEN.  SOMIT EINER AUSWAHL DER SCHLÜSSELTABELLE S_EBM_ARZTGRUPPE (O
+DAS ELEMENT <ARZTGRUPPE> ENTHÄLT IM V-ATTRIBUT DIE KENNZEICHNUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  NICHT FÜR JEDEN ARZTGRUPPENCODE EIN ARZTGRUPPENTHESAURUS VORHANDEN. DIE WERTE ENTSPRECHEN  SOMIT EINER AUSWAHL DER SCHLÜSSELTABELLE S_EBM_ARZTGRUPPE (OID: 1.2.276.0.76.5.115), VGL. TABELLE
 
 5. DAS ELEMENT IST NICHT OPTIONAL. ................................................................................................................... 23
-
-NUNG FÜR DIE EBM-ARZTGRUPPE. ES IST  DIE WERTE ENTSPRECHEN  ID: 1.2.276.0.76.5.115), VGL. TABELLE
 
 TABELLE 6: AUSWAHL DER MÖGLICHEN AUSPRÄGUNGEN DER ATTRIBUTE DES ELEMENTS <ARZTGRUPPE> ................ 24
 
@@ -522,7 +511,7 @@ Formel 5: XML-Code: nummer
 
 ## VON_ICD_CODE
 
-Das Element <von_icd_code> legt zusammen mit dem Element <bis_icd_code> den Bereich von ICD - Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
+Das Element <von_icd_code> legt zusammen mit dem Element <bis_icd_code> den Bereich von ICD -Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
 
 Abbildung 6: von_icd_code
 
@@ -537,7 +526,7 @@ Formel 6: XML-Code: von_icd_code
 
 ## BIS_ICD_CODE
 
-Das Element <bis_icd_code> legt zusammen mit dem Element <von_icd_code> den Bereich von ICD- Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
+Das Element <bis_icd_code> legt zusammen mit dem Element <von_icd_code> den Bereich von ICD-Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
 
 Abbildung 7: bis_icd_code
 

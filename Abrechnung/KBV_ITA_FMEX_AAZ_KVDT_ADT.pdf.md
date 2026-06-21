@@ -233,8 +233,7 @@ Diese Information ist verpflichtend anzugeben
 - **I.** **Zertifizierungsrahmen**
 - (1) Die Zertifizierung wird im Rahmen einer Sichtprüfung durchgeführt.
 - (2) Die Erweiterungszertifizierung wird im Rahmen einer Ergebnis
-- (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprech
-- Zulassung.
+- (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprech Zulassung.
 - (4) Die Laufzeit der Zulassung beträgt 36 Monate.
 - (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
@@ -245,7 +244,7 @@ Diese Information ist verpflichtend anzugeben
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 - (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
-- (2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. M Antragsteller der KBV mit, welche Änderungen a wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
+- (2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen a wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
 - (3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV der Zulassung führen.
 - (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 - **III.** **Update und weitere Vereinbarungen**
@@ -270,7 +269,7 @@ Diese Information ist verpflichtend anzugeben
 -
 ```
 
-- ittels einer formlosen Änderungsanzeige teilt der  m Zertifizierungsgegenstand vorgenommen
+- m Zertifizierungsgegenstand vorgenommen
 
 ```
 -

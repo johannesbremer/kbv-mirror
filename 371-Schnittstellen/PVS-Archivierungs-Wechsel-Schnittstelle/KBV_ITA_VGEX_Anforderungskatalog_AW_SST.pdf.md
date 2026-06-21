@@ -510,7 +510,7 @@ Erstellung valider Ressourcen mit KBV-Profilen.
 - verwendet werden und das Element
 - aber übertragen
 
-ition/KBV_PR_AW_Patient P3-11 Belegung der Elemente text.status in den KBV -Profilen Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur de rzeit noch uneinheitlichen Definition in den KBV -Profilen. Akzeptanzkriterium: Das E lement text.status muss in allen Instanzen der KBV -Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE - , kann das Dummy- . Bei fehlender Möglichkeit  nach dem Datum T00:00:00.000+00:00 zu ergänzen (bspw.
+ition/KBV_PR_AW_Patient P3-11 Belegung der Elemente text.status in den KBV -Profilen Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur de rzeit noch uneinheitlichen Definition in den KBV -Profilen. Akzeptanzkriterium: Das E lement text.status muss in allen Instanzen der KBV -Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE - , kann das Dummy-. Bei fehlender Möglichkeit  nach dem Datum T00:00:00.000+00:00 zu ergänzen (bspw.
 
 | PFLICHTFUNKTION AW -SST |  |
 |---|---|
@@ -1038,16 +1038,13 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 - 2. Im Ordner Abrechnung müssen alle Anlagendateien (referenziert im KBV-Profil KBV_PR_AW_Anlage) die
 - auf die KBV -Profile:
 - KBV_PR_AW_Abrechnung_Privat
-- KBV_PR_AW_Abrechn
+- KBV_PR_AW_Abrechnung_BG
 - KBV_PR_AW_Abrechnung_HzV_BesondereVersorgung_Selektiv
 - KBV_PR_AW_Abrechnung_Vertragsaerztlich
 
 referenzieren, in Unterordnern mit der Bezeichnung  gespeichert werden.
 
-- ung_BG
-
 ```
--
 -
 ```
 
@@ -1309,7 +1306,7 @@ Festlegung für die Schnittstelle.
 
 - 1. Die Daten der Schnittstellen der Medizinischen Dokumentationen sollen in der zum Zeitpunkt des  Exports gültigen Version der jeweiligen Schnittstelle übertragen werden.
 - 2. Die unter Punkt 1 erzeugten Dateien müssen valide im Sinne der verwendeten Version der  Schnittstellenspezifikation sein.
-- 3. Ist eine Konvertierung in die im Punkt 1 geforderte Version nicht möglich, müssen die Inhalte im PDF - Format übertragen werden
+- 3. Ist eine Konvertierung in die im Punkt 1 geforderte Version nicht möglich, müssen die Inhalte im PDF -Format übertragen werden
 - 4. Zusätzlich zum Punkt 3 können die originalen Dat eien im ursprünglichen Format als Anlage in der  Ressource KBV_PR_AW_Anlage unter zwingender Angabe eines gültigen mime typ im Element  DocumentReference.content.attachment.contentType exportiert werden.
 - 5. Die im Punkt 4 erzeugten Dateien sind über die Ressou rce KBV_PR_AW_Anlage zu exportieren.
 - 6. Schnittstellen der Medizinischen Dokumentation:
@@ -1423,7 +1420,7 @@ träge erkennbar sein.
 |---|---|
 | **P6-08** | Einschränkung der KBV -Profile für die Abrechnung |
 
-Technisch referenzieren die vier KBV-Profile der Abrechnung, das KBV -Profil  KBV_PR_AW_Abrechnung_vorlaeufig ohne Einschränkung. Dadurch ist es möglich, dass alle vier KBV -Profil- Abrechnungsinstanzen parallel vorhanden sein könnten und gleichzeitig auf die Instanz vom KBV -Profil  KBV_PR_AW_Abrechnung_vorlaeufig referenzieren. Damit wäre eine Vermischung von unterschiedlichen  Abrechnungsarten möglich.
+Technisch referenzieren die vier KBV-Profile der Abrechnung, das KBV -Profil  KBV_PR_AW_Abrechnung_vorlaeufig ohne Einschränkung. Dadurch ist es möglich, dass alle vier KBV -Profil-Abrechnungsinstanzen parallel vorhanden sein könnten und gleichzeitig auf die Instanz vom KBV -Profil  KBV_PR_AW_Abrechnung_vorlaeufig referenzieren. Damit wäre eine Vermischung von unterschiedlichen  Abrechnungsarten möglich.
 
 **Begründung:**
 
@@ -1500,7 +1497,7 @@ Da die Einschränkung in den KBV -Profilen nicht vollständig möglich ist, sind
 **Akzeptanzkriterium:**
 
 - 1. **ANZAHL DER INSTANZEN**: Es werden die referenzierten Anlagen in jeweils einer Instanz vom KBV-Profil  KBV_PR_AW_Anlage definiert.
-- 2. **RICHTUNG DER REFERENZ**: Es werden die referenzierten Ressourcen in der jeweiligen Instanz vom KBV - Profil KBV_PR_AW_Anlage definiert.
+- 2. **RICHTUNG DER REFERENZ**: Es werden die referenzierten Ressourcen in der jeweiligen Instanz vom KBV -Profil KBV_PR_AW_Anlage definiert.
 
 Ausnahme hiervon sind die Beziehungen zu den KBV -Profile KBV_PR_AW_Notfallberechtigter,  KBV_PR_AW_Patientenverfuegung sowie KBV_PR_AW_Vorsorgevollmacht, die die Referenz auf die  Instanz von KBV_PR_AW_Anlage beinhalten.
 
@@ -1802,7 +1799,7 @@ für den Export - -Profil
 |---|---|
 | **KP6-22** | Abbilden von GOPn aus sonstigen Codesystemen |
 
-GOPn (Rechnungspositionen) aus in dieser SST nicht spezifizierten Gebührenordnungen können im KBV- Profil KBV_PR_AW_Abrechnung_Vorlaeufig unter Angabe eines eigenen Codesystems übertragen werden
+GOPn (Rechnungspositionen) aus in dieser SST nicht spezifizierten Gebührenordnungen können im KBV-Profil KBV_PR_AW_Abrechnung_Vorlaeufig unter Angabe eines eigenen Codesystems übertragen werden
 
 **Begründung:**
 
@@ -1971,7 +1968,7 @@ n der Lage sein,
 |---|---|
 | **P7-04** | Reportdatei |
 
-Nach dem erfolgreichen Import muss eine Instanz des Profils KBV_PR_AW_Report_Import und ein PDF- Dokument als menschenlesbarer Report erzeugt und in einem vom Anwender auswählbaren Ordner  abgelegt werden.
+Nach dem erfolgreichen Import muss eine Instanz des Profils KBV_PR_AW_Report_Import und ein PDF-Dokument als menschenlesbarer Report erzeugt und in einem vom Anwender auswählbaren Ordner  abgelegt werden.
 
 **Begründung:**
 
@@ -2019,7 +2016,7 @@ Hinweis: Die Zahlen ([0] bis [3]) der Unterpunkte b) bis e) geben die Reihenfolg
 |---|---|
 | **O7-06** | Import eines Bundles mittels FHIR -Server |
 
-Der Import der KBV-Bundles auf einen FHIR -Server wird nicht durch vorhandene Importroutinen der FHIR - Server unterstützt , da die FHIR -Spezifikation per se derzeit noch keinen Import von historisierten Bundles  ermöglicht. Daher wird für den Import eine custom -operation notwendig .
+Der Import der KBV-Bundles auf einen FHIR -Server wird nicht durch vorhandene Importroutinen der FHIR -Server unterstützt , da die FHIR -Spezifikation per se derzeit noch keinen Import von historisierten Bundles  ermöglicht. Daher wird für den Import eine custom -operation notwendig .
 
 **Begründung:**
 

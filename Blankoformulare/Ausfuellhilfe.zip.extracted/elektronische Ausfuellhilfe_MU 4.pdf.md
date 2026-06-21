@@ -38,7 +38,7 @@ Bitte bewerten Sie die medizinische Notwendigkeit der Beförderung für die Hin-
 
 ## ❹ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSFREIE FAHRTEN: A) VOLL-/TEILSTATIONÄRE  KRANKENHAUSBEHANDLUNG, VOR-/NACHSTATIONÄRE BEHANDLUNG
 
-Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zulässig. Vor- und nach- stationäre Behandlungen sind an Fristen gebunden (s. Vordruckerläuterungen), die auch bei der  Verordnung der Beförderung zu beachten sind. Bei vorstationären Behandlungen tragen Sie den  voraussichtlichen Beginn der stationären Behandlung bitte im Freitextfeld unter 4. Begründung/Sonstiges  ⓱ ein.
+Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zulässig. Vor- und nach-stationäre Behandlungen sind an Fristen gebunden (s. Vordruckerläuterungen), die auch bei der  Verordnung der Beförderung zu beachten sind. Bei vorstationären Behandlungen tragen Sie den  voraussichtlichen Beginn der stationären Behandlung bitte im Freitextfeld unter 4. Begründung/Sonstiges  ⓱ ein.
 
 ## ❺ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSFREIE FAHRTEN: B) AMBULANTE BEHANDLUNG
 
@@ -61,7 +61,7 @@ Bei einer Mobilitätsbeeinträchtigung, die mit den unter b) genannten Beeinträ
 
 ## ❾ GRUND DER BEFÖRDERUNG: GENEHMIGUNGSPFLICHTIGE FAHRTEN: F) ANDERER GRUND FÜR FAHRT  MIT KTW
 
-Die Beförderung im KTW kann verordnet werden, wenn Patienten während der Fahrt einer medizinisch- fachlichen Betreuung oder der besonderen Einrichtung eines KTW bedürfen oder dadurch die Übertragung  schwerer, ansteckender Krankheiten der Patienten vermieden wird. Bitte erläutern Sie dies unter 3. Art und  Ausstattung der Beförderung in der Freitextzeile zu ⓬
+Die Beförderung im KTW kann verordnet werden, wenn Patienten während der Fahrt einer medizinisch-fachlichen Betreuung oder der besonderen Einrichtung eines KTW bedürfen oder dadurch die Übertragung  schwerer, ansteckender Krankheiten der Patienten vermieden wird. Bitte erläutern Sie dies unter 3. Art und  Ausstattung der Beförderung in der Freitextzeile zu ⓬
 
 ## ❿ BEHANDLUNGSTAG/BEHANDLUNGSFREQUENZ UND NÄCHSTERREICHBARE, GEEIGNETE  BEHANDLUNGSSTÄTTE
 
@@ -86,7 +86,7 @@ kann. Das Feld „liegend“ ist anzukreuzen, wenn ein Patient ausschließlich l
 
 ## ⓮ ART UND AUSSTATTUNG DER BEFÖRDERUNG: RTW
 
-RTW sind für Notfallpatienten zu verordnen, die vor und während der Beförderung neben den Erste-Hilfe- Maßnahmen auch zusätzlicher Maßnahmen bedürfen, die geeignet sind, die vitalen Funktionen aufrecht zu  erhalten oder wiederherzustellen. In Notfällen kann die Beförderung nachträglich verordnet werden.
+RTW sind für Notfallpatienten zu verordnen, die vor und während der Beförderung neben den Erste-Hilfe-Maßnahmen auch zusätzlicher Maßnahmen bedürfen, die geeignet sind, die vitalen Funktionen aufrecht zu  erhalten oder wiederherzustellen. In Notfällen kann die Beförderung nachträglich verordnet werden.
 
 ## ⓯ ART UND AUSSTATTUNG DER BEFÖRDERUNG: NAW / NEF
 

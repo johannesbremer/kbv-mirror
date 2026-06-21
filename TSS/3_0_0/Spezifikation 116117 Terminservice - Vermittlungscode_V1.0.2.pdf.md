@@ -50,7 +50,7 @@ Anmerkung in [VCA0003] entfällt
 
 in Kraft
 
-Änderung von [VCA0101]: Entfall der KANN- Anforderung
+Änderung von [VCA0101]: Entfall der KANN-Anforderung
 
 Klarstellung von [VCA0200] und Ergänzung  der Anmerkung 7
 
@@ -99,8 +99,8 @@ Seite 4 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 Die Schlüsselwörter "**MUSS**", "**KANN**" sowie "**DARF NICHT**" und "**DARF KEIN(E)**" sind gezielt eingesetzt, um  die Verbindlichkeit der Anforderungen anzugeben.
 
 - **MUSS**: Eine **MUSS**-Anforderung ist eine Anforderung, die vom Software-System in jedem Fall umgesetzt  werden muss. Es gibt keinen Ermessensspielraum.
-- **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese  Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software- Systeme optional ist.
-- **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige  Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
+- **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese  Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software-Systeme optional ist.
+- **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige  Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen - keinen Ermessensspielraum.
 
 Seite 5 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
@@ -130,7 +130,7 @@ Das Software-System **MUSS** die Betriebs- (BSNR) oder Nebenbetriebsstättennumm
 
 **VCA0003**
 
-Das Software-System **MUSS** die Arztnummer (ANR) sowie den Vor- und Nachnamen des  (überweisenden) Leistungserbringers aus den Arztstammdaten der Praxis automatisch in die FHIR- Operation "Vermittlungscode anfordern (Vermittlungscode Request)" übernehmen.
+Das Software-System **MUSS** die Arztnummer (ANR) sowie den Vor- und Nachnamen des  (überweisenden) Leistungserbringers aus den Arztstammdaten der Praxis automatisch in die FHIR-Operation "Vermittlungscode anfordern (Vermittlungscode Request)" übernehmen.
 
 Anmerkung:
 

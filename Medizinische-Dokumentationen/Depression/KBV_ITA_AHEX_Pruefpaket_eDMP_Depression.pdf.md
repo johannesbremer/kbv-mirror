@@ -138,7 +138,7 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende Fehlermeldungs- benachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und dem Antragssteller  zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen geprüft. Erst  wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden, erfolgt  die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die Antragssteller aufgefordert,  eine Korrekturlieferung hochzuladen.
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende Fehlermeldungs-benachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und dem Antragssteller  zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen geprüft. Erst  wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden, erfolgt  die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die Antragssteller aufgefordert,  eine Korrekturlieferung hochzuladen.
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
@@ -491,7 +491,7 @@ Antidepressiva depressionsspezifischen Schulung teilgenommen aktueller Dokumenta
 
 - **1.** **Versichertendaten**
 
-Die Versichertendaten von Helga Aufgelöst (
+Die Versichertendaten von Helga Aufgelöst (4.1) im Ersatzverfahren erfassen.
 
 - **2.** **Bestimmung der Symptomschwere**
 
@@ -509,8 +509,6 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des d
 | f.  Schlechte Meinung von sich selbst; | Beinahe jeden Tag (3) | An mehr als der Hälfte der |
 | g. | An mehr als der Hälfte der | An einzelnen Tagen (1) |
 | h. Waren Ihre Bewegungen oder Ihre | An einzelnen Tagen (1) | An einzelnen Tagen (1) |
-
-4.1) im Ersatzverfahren erfassen.
 
 Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte d System diese Zulassung nicht besitzen, dann sind nur die Depression-Daten zu übermitteln. Diabetes mellitus Typ 2 verfügt, letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) PHQ-9 erfassen und
 
@@ -969,7 +967,7 @@ REFERENZIERTE DOKUMENTE
 
 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 2.3
 
-der Depression grades daten des indikationsübergreifenden allgemeinen Daten- satzes Dokumentationsdaten des strukturierten Behandlungsprogramms Depression daten des strukturierten Behandlungs programms Versorgung „PRF”, welche ausschließlich  zur Zertifizierung eingesetzt werden erweiterung schlüssel Stammdatei)
+grades der Depression daten des indikationsübergreifenden allgemeinen Daten- satzes Dokumentationsdaten des strukturierten Behandlungsprogramms Depression daten des strukturierten Behandlungs programms Versorgung erweiterung „PRF”, welche ausschließlich  zur Zertifizierung eingesetzt werden schlüssel Stammdatei)
 
 ---
 

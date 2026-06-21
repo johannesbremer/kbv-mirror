@@ -13,16 +13,13 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 ---
 
-**D** **O** **K** **U**
+**D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 |  |  |  | Änderungen LDT 3.2.19 |  |  |
 | 3.2.19 | 30.05.2025 | KBV |  | Aktualisierung | Alle |
 |  |  |  | eingearbeitet |  |  |
-
-**M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
-
 
 ---
 
@@ -72,8 +69,7 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 **63**
 
-USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE CASE 8 USE CASE 9 USE CASE 12 USE CASE 13 USE CASE 14 USE CASE 15 USE CASE 16 USE CASE 17 **65**
-
+USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE CASE 8 USE CASE 9 USE CASE 12 USE CASE 13 USE CASE 14 USE CASE 15 USE CASE 16 USE CASE 17 – BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM 65
 
 ---
 
@@ -152,7 +148,7 @@ Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) dur
 
 Laborfacharzt
 
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft (digitales Muster 10A in Obj_0010 eingefügt)
+Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein-schaft (digitales Muster 10A in Obj_0010 eingefügt)
 
 **ABRECHNUNGSINFORMATION:**
 
@@ -256,9 +252,9 @@ Muster 10A) C00.2 V
 
 ### Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch  Laborfacharzt
 
-### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft
+### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein-schaft
 
-### Untersuchung PSA aus Serum (Probengefäß 1234567802) als IGeL mit Rechnungsle- gung des Labors an den Patienten
+### Untersuchung PSA aus Serum (Probengefäß 1234567802) als IGeL mit Rechnungsle-gung des Labors an den Patienten
 
 ### ABRECHNUNGSINFORMATION:
 
@@ -280,7 +276,7 @@ Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
 
 018 7279  014 7273  029 8235  017 8002  011 7420  019 3101  014 3102  017 3104  017 8003  017 8003  017 8003  010 7265  032 8122  017 8002  010 7321  013 8312
 
-**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten- satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711
+**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten-satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711
 
 **Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
 
@@ -327,7 +323,7 @@ Person  Obj_0047  02  Musterarzt
 
 Klaus  Dr. med.
 
-KMu  Geschaeftliche _Kommunikati- onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1 5  Praxis Dr. Musterarzt
+KMu  Geschaeftliche _Kommunikati-onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1 5  Praxis Dr. Musterarzt
 
 123456789
 
@@ -519,7 +515,7 @@ Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzon
 
 014 4104
 
-Thomas  Prof. Dr. med.  Geschaeftliche _Kommunikati- onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054  JJJJMMTT  HHmmss(ms)
+Thomas  Prof. Dr. med.  Geschaeftliche _Kommunikati-onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054  JJJJMMTT  HHmmss(ms)
 
 UTC+1  Obj_0054  Obj_0013  Veranlassungsgrund  Obj_0027
 
@@ -766,7 +762,7 @@ ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
 
 Probenmaterial-Bezeichnung
 
-Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme  Objektattribut
+Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent-nahme  Objektattribut
 
 
 ---
@@ -921,7 +917,7 @@ Hepatitis B Antigen 1
 
 SE
 
-02  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054
+02  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054
 
 JJJJMMTT
 
@@ -967,7 +963,7 @@ Probenmaterial Index
 
 Probenmaterial-Ident
 
-Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme
+Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der Materialent-nahme
 
 Objektattribut
 
@@ -1132,7 +1128,7 @@ Quick 2
 
 CB
 
-03  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054
+03  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054
 
 JJJJMMTT
 
@@ -1156,7 +1152,7 @@ PSA 3
 
 SE
 
-02  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054
+02  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054
 
 JJJJMMTT
 
@@ -1351,12 +1347,12 @@ Material wurde am JJJJMMTT um HHmm abgenommen
 
 **UNTERSUCHUNGSANFORDERUNG:**
 
-Auf Grundlage des Kataloges „Katalog Labor Muster“, der unter www.musterla- bor\lvz01.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 5896 (Hepatitis-B- Antigen) aus Serum (Probengefäß 1234567802) beim Laborfacharzt angefordert.
+Auf Grundlage des Kataloges „Katalog Labor Muster“, der unter www.musterla-bor\lvz01.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 5896 (Hepatitis-B-Antigen) aus Serum (Probengefäß 1234567802) beim Laborfacharzt angefordert.
 
 
 ---
 
-### Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.musterla- bor\lvz02.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 25K28 (Quick) aus  Citrat-Blut (Probengefäß 1234567803) bei der Privatärztlichen La-borgemeinschaft an- gefordert.
+### Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.musterla-bor\lvz02.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 25K28 (Quick) aus  Citrat-Blut (Probengefäß 1234567803) bei der Privatärztlichen La-borgemeinschaft an-gefordert.
 
 ### ABRECHNUNGSINFORMATION:
 
@@ -1455,7 +1451,7 @@ Titel  Objektende  Objektende  Objektende  Absender des Datensatzes  Objektattri
 
 017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  017 8003  017 8003  013 8001  013 8000
 
-Arztidentifikation  Obj_0014  Person  Obj_0047  02  Musterarzt  Klaus  Dr. med.  KMu  Geschaeftliche _Kommunikationsda- ten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1  5  Praxis Dr. Musterarzt 123456789
+Arztidentifikation  Obj_0014  Person  Obj_0047  02  Musterarzt  Klaus  Dr. med.  KMu  Geschaeftliche _Kommunikationsda-ten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1  5  Praxis Dr. Musterarzt 123456789
 
 Organisation  Obj_0043  Praxis Dr. Musterarzt
 
@@ -1625,11 +1621,11 @@ Objektattribut  ObjektIdent  Datum des Timestamp  Uhrzeit des Timestamp  Zeitzon
 
 011 7420  013 3100  012 3120  022 3101  013 3102  017 3104  010 3110  027 8230  017 8002  014 3121  020 3122
 
-Thomas  Prof. Dr. med.  Geschaeftliche _Kommunikationsda- ten
+Thomas  Prof. Dr. med.  Geschaeftliche _Kommunikationsda-ten
 
 Obj_0031  [zusatzarzt@mail.de](mailto:zusatzarzt@mail.de)  Obj_0031
 
-Obj_0047  Timestamp_Erstellung _Untersu- chungsanforderung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1
+Obj_0047  Timestamp_Erstellung _Untersu-chungsanforderung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1
 
 Obj_0054  Obj_0013  Veranlassungsgrund  Obj_0027  3 06
 
@@ -1955,13 +1951,13 @@ Hepatitis B Antigen 3
 
 SE
 
-02  Timestamp_Erstellung _Untersu- chungsanforderung  Obj_0054
+02  Timestamp_Erstellung _Untersu-chungsanforderung  Obj_0054
 
 JJJJMMTT
 
 Probenmaterial-Bezeichnung
 
-Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme
+Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent-nahme
 
 Objektattribut
 
@@ -1995,7 +1991,7 @@ Probenmaterial Index
 
 Probenmaterial-Ident
 
-Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme
+Probenmaterial-Bezeichnung  Medikamenteneinnahme zum Zeitpunkt der Materialent-nahme
 
 Objektattribut
 
@@ -2261,9 +2257,9 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 ### Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch  Laborfacharzt (ASV)
 
-### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft
+### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein-schaft
 
-### [Auf Grundlage des Kataloges „LVZ Musterlabor 01“, der unter](http://www.musterlabor/lvz001.de) [bor\lvz001.de](http://www.musterlabor/lvz001.de)[veröffentlicht ist, wird die Untersuchung mit dem Kürzel 8954B47 (Erre-](http://www.musterlabor/lvz001.de) [ger+Resistenz) aus Abstrich (Probengefäß 1234567804) beim Laborfacharzt angefor-](http://www.musterlabor/lvz001.de) dert (ASV)
+### [Auf Grundlage des Kataloges „LVZ Musterlabor 01“, der unter](http://www.musterlabor/lvz001.de)[www.musterla-](http://www.musterlabor/lvz001.de) [bor\lvz001.de](http://www.musterlabor/lvz001.de)[veröffentlicht ist, wird die Untersuchung mit dem Kürzel 8954B47 (Erre-](http://www.musterlabor/lvz001.de) [ger+Resistenz) aus Abstrich (Probengefäß 1234567804) beim Laborfacharzt angefor-](http://www.musterlabor/lvz001.de) dert (ASV)
 
 ### ABRECHNUNGSINFORMATION:
 
@@ -2287,7 +2283,7 @@ die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge
 
 ### rechnet, wird zusätzlich zu der GOP die ASV Teamnummer im Abrechnungsdatensatz  mit übermittelt.
 
-### Alle Leistungen, die über den für das ASV-Team festgelegten Nummernkranz hinausge- hen, werden wie alle anderen GKV Leistungen gegenüber der KV abgerechnet.
+### Alle Leistungen, die über den für das ASV-Team festgelegten Nummernkranz hinausge-hen, werden wie alle anderen GKV Leistungen gegenüber der KV abgerechnet.
 
 **4.2. Muster LDT mit Beschreibung der Feldkennungen**
 
@@ -2306,11 +2302,7 @@ die über ASV abgerechnet werden können bekannt. Wird eine solche Leistung abge
 | 018 | 0132 | 8.12.0.95 |
 | 017 | 8003 | Obj_0051 |
 
-### [www.musterla-](http://www.musterlabor/lvz001.de)
-
-**Beschreibung**
-
-Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
+**Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
 
 
 ---
@@ -2329,23 +2321,7 @@ Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objekta
 
 014 3112
 
-Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)
-
-UTC+1  Person_zum_Timestamp  Obj_0047 02  Musterarzt
-
-Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032
-
-1  Einsenderidentifikation  Obj_0022  01
-
-4711  Arztidentifikation  Obj_0014
-
-Person  Obj_0047  02  Musterarzt
-
-Klaus  Dr. med.
-
-KMu  Geschaeftliche _Kommunikati- onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  00123456P  Obj_0014  Betriebsstaette  Obj_0019  1 5  Praxis Dr. Musterarzt
-
-123456789
+Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711  Arztidentifikation  Obj_0014  Person  Obj_0047  02  Musterarzt  Klaus  Dr. med.  KMu  Geschaeftliche _Kommunikati-onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  00123456P  Obj_0014  Betriebsstaette  Obj_0019  1  5  Praxis Dr. Musterarzt 123456789
 
 Organisation  Obj_0043  Praxis Dr. Musterarzt
 
@@ -2517,7 +2493,7 @@ Auftragsinformation   Obj_0013  47112345678  47112345678  2
 
 Person  Obj_0047 02  Musterarzt
 
-Klaus  Dr. med.  Geschaeftliche _Kommunikati- onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054  JJJJMMTT  HHmmss(ms)
+Klaus  Dr. med.  Geschaeftliche _Kommunikati-onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  Obj_0031  Obj_0047  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054  JJJJMMTT  HHmmss(ms)
 
 UTC+1  Obj_0054  Obj_0013  Veranlassungsgrund  Obj_0027  11 06
 
@@ -2774,7 +2750,7 @@ ObjektIdent  Probengefäß-Ident  Probenmaterial Index  Probenmaterial-Ident
 
 Probenmaterial-Bezeichnung
 
-Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme
+Probenmaterial-Spezifikation  Medikamenteneinnahme zum Zeitpunkt der Materialent-nahme
 
 Objektattribut
 
@@ -2993,7 +2969,7 @@ Hepatitis B Antigen 8
 
 SE
 
-02  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054
+02  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054
 
 JJJJMMTT
 
@@ -3003,7 +2979,7 @@ UTC+1
 
 Obj_0054
 
-Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme
+Medikamenteneinnahme zum Zeitpunkt der Materialent-nahme
 
 Objektattribut
 
@@ -3039,7 +3015,7 @@ Probenmaterial-Ident
 
 Probenmaterial-Bezeichnung
 
-Lokalisation Probenmaterial  Medikamenteneinnahme zum Zeitpunkt der Materialent- nahme
+Lokalisation Probenmaterial  Medikamenteneinnahme zum Zeitpunkt der Materialent-nahme
 
 Objektattribut
 
@@ -3204,7 +3180,7 @@ Quick 2
 
 CB
 
-03  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054
+03  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054
 
 JJJJMMTT
 
@@ -3230,7 +3206,7 @@ Erreger+Resistenz 8
 
 AB
 
-04  Timestamp_Erstellung _Unter- suchungsanforderung  Obj_0054
+04  Timestamp_Erstellung _Unter-suchungsanforderung  Obj_0054
 
 JJJJMMTT
 
@@ -3459,7 +3435,7 @@ Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode
 
 **FEHLERMELDUNG/AUFMERKSAMKEIT:**
 
-Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- wertig“
+Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz-wertig“
 
 **ZUSATZINFORMATIONEN:**
 
@@ -3559,13 +3535,13 @@ Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
 gebnis wurde durch ein Auftragslaboratorium erstellt. Die GOP und die Kosten werden  mitgeteilt. Die Analytik ist abgeschlossen.
 
-### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme- thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert  wertindikator ist „ “. Der Normalwert wird beschrieben.
+### Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Testme-thode „COAG“ durchgeführt und hat ein Ergebnis mit Wert  wertindikator ist „ “. Der Normalwert wird beschrieben.
 
 mitgeteilt. Die Analytik ist abgeschlossen.
 
-### Mittels des Nachweisverfahrens „Mikroskopie“ (Testmethode: Mikroskopie Gramfär- bung) wurden in dem Probenmaterial aus dem Probengefäß 1234567804 folgende  Keime identifiziert:
+### Mittels des Nachweisverfahrens „Mikroskopie“ (Testmethode: Mikroskopie Gramfär-bung) wurden in dem Probenmaterial aus dem Probengefäß 1234567804 folgende  Keime identifiziert:
 
-### Keim 01: Enterococcus Faecalis (Keim ID 13591 des Katalog DMSZ), nachweis- bar, Wachstum reichlich, Hinweistext Enterokokken sind natürlicherweise gegen
+### Keim 01: Enterococcus Faecalis (Keim ID 13591 des Katalog DMSZ), nachweis-bar, Wachstum reichlich, Hinweistext Enterokokken sind natürlicherweise gegen
 
 *sämtliche Cephalosporine resistent. Ampicillin-sensible Stämme sind auch emp-*
 
@@ -3573,7 +3549,7 @@ mitgeteilt. Die Analytik ist abgeschlossen.
 
 ### Keim 02: Enterobacter aerogenes, nachweisbar, Wachstum reichlich
 
-### Keim 03: vergrünende Streptokokken, nachweisbar, Wachstum reichlich, Hin- weistext „Streptokokken sind erfahrungsgemäß empfindlich gegen
+### Keim 03: vergrünende Streptokokken, nachweisbar, Wachstum reichlich, Hin-weistext „Streptokokken sind erfahrungsgemäß empfindlich gegen
 
 *Antibiotika. Eine Resistenztestung ist daher in der Regel nicht erforderlich. Peni-*
 
@@ -3679,7 +3655,7 @@ Z01_UseCase06_Befund_mitPDF.ldt
 
 **7.1. Beschreibung**
 
-Die Stammdaten des Patienten und des Einsenders inklusive der Angaben zum Veranlassungs- grund werden vom Primärsystem für die Komplettierung des Laborauftrages durch angeschlos- sene Systeme zur Verfügung gestellt.
+Die Stammdaten des Patienten und des Einsenders inklusive der Angaben zum Veranlassungs-grund werden vom Primärsystem für die Komplettierung des Laborauftrages durch angeschlos-sene Systeme zur Verfügung gestellt.
 
 **EINSENDER:**
 
@@ -3748,17 +3724,7 @@ Muster 10A) C00.2 V
 
 017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  018 0212  017 8003
 
-**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047 02  Musterarzt
-
-Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032
-
-1  Einsenderidentifikation  Obj_0022  01
-
-4711  Arztidentifikation  Obj_0014  Person  Obj_0047 02  Musterarzt
-
-Klaus  Dr. med.
-
-KMu  Geschaeftliche _Kommunikati- onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014
+**Feldinhalt**  8230  Kopfdaten  Obj_0032  LDT3.2.19  Sendendes_System  Obj_0051  Labor27/12  Arzt123456  a/nn/JJMM/MM/aaa  Muster PVS  8.12.0.95  Obj_0051  Timestamp_Erstellung _Daten satz  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Person_zum_Timestamp  Obj_0047  02  Musterarzt  Klaus  Dr. med.  Obj_0047  Obj_0054  Obj_0032  1  Einsenderidentifikation  Obj_0022  01  4711  Arztidentifikation  Obj_0014  Person  Obj_0047  02  Musterarzt  Klaus  Dr. med.  KMu  Geschaeftliche _Kommunikati-onsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014
 
 **Beschreibung**  Satzart  Objektattribut  ObjektIdent  Version der Datensatzbeschreibung  Objektattribut  ObjektIdent  ID des Empfängers  ID des Senders  KBV-Prüfnummer  Software/Name der Software  Version/Releasestand der Software  Objektende
 
@@ -3867,7 +3833,9 @@ Objektattribut
 
 ObjektIdent  Telefonnummer  Mobiltelefonnummer  Faxnummer  E-Mailadresse  Webadresse  Objektende  Objektende  Objektende
 
-Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ  Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende
+Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Objektattribut  ObjektIdent  Status Person  Namenszusatz  Vorsatzwort  Nachname  Vorname  Geburtsdatum  Titel  Geschlecht  Objektattribut  ObjektIdent  PLZ
+
+Ort  Straße  Hausnummer  Anschriftenzusatz  Wohnsitzländercode  Objektende
 
 
 ---
@@ -4135,7 +4103,7 @@ durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist 
 
 ### Untersuchung PSA aus Serum (Probengefäß 1234567802) wurde nach Methode7
 
-durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ “. Der  Normalwert wird beschrieben. Die Rechnungslegung des Labors erfolgt an den Patien- ten direkt. Die Analytik ist abgeschlossen.
+durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ “. Der  Normalwert wird beschrieben. Die Rechnungslegung des Labors erfolgt an den Patien-ten direkt. Die Analytik ist abgeschlossen.
 
 ### FEHLERMELDUNG/AUFMERKSAMKEIT:
 
@@ -4235,7 +4203,7 @@ Objektende  Satzende  Satzart  Objektattribut  ObjektIdent  Status Einsender  Ku
 
 021 8143  017 8002  030 1250  032 8229  017 8002  014 3112  021 3113  025 3107  011 3109  025 3115  010 3114  017 8003  028 8131  017 8002  030 7330  030 7331  030 7333  030 7335  026 7334  017 8003  017 8003  017 8003  017 8003  016 8145  017 8002  015 8147  017 8002  011 7420  013 3100  012 3120  022 3101
 
-Dr. med.  KMu  Geschaeftliche_Kommunikations- daten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1  5  Praxis Dr. Musterarzt 123456789
+Dr. med.  KMu  Geschaeftliche_Kommunikations-daten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0047  991234567  Obj_0014  Betriebsstaette  Obj_0019  1  5  Praxis Dr. Musterarzt 123456789
 
 Organisation  Obj_0043  Praxis Dr. Musterarzt  Anschrift_Arbeitsstelle  Obj_0007  12345  Musterhausen  Musterarztstraße  26  Vorderhaus links  D  Obj_0007  Kommunikationsdaten  Obj_0031  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  +LK_Vorwahl_Rufnummer  [dr.musterarzt@mail.de](mailto:dr.musterarzt@mail.de)  www.musterarzt.de  Obj_0031  Obj_0043  Obj_0019  Obj_0022  Patient  Obj_0045  Person  Obj_0047  12  Graf  von  Musterpatient
 
@@ -4291,15 +4259,15 @@ UTC+1  Obj_0054  Fehlermeldung_Aufmerksamkeit  Obj_0026  5
 
 Person  Obj_0047 07  Zusatzarzt  Thomas
 
-Dr.  Obj_0047  Zusaetzliche_Informationen  Obj_0068  Eingesandte Menge Probenmate- rial „Serum“ war grenzwertig.
+Dr.  Obj_0047  Zusaetzliche_Informationen  Obj_0068  Eingesandte Menge Probenmate-rial „Serum“ war grenzwertig.
 
-Bitte senden Sie uns bei zukünfti- gen Aufträgen Probenmaterial ent- sprechend der Vorgaben zu.  Obj_0068  Obj_0026  Obj_0017
+Bitte senden Sie uns bei zukünfti-gen Aufträgen Probenmaterial ent-sprechend der Vorgaben zu.  Obj_0068  Obj_0026  Obj_0017
 
 Material  Obj_0037  1234567802  2  SE
 
 Serum  gefroren 1
 
-Medikament  Obj_0070  Arzneimittel XYZ  Obj_0070  Timestamp_Materialabnahme_ent- nahme
+Medikament  Obj_0070  Arzneimittel XYZ  Obj_0070  Timestamp_Materialabnahme_ent-nahme
 
 Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054
 
@@ -4374,7 +4342,7 @@ Medikament
 
 Obj_0070  Arzneimittel XYZ
 
-Obj_0070  Timestamp_Materialabnahme_ent- nahme
+Obj_0070  Timestamp_Materialabnahme_ent-nahme
 
 Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1
 
@@ -4455,36 +4423,16 @@ Objektende  Objektattribut  ObjektIdent  Status Person  Name im Klartext  Namens
 
 Objektattribut  ObjektIdent  Abrechnungsinfo zur Untersuchung  Gebührenordnung  Gebührennummer (GNR)  Kosten in €-Cent  bereits abgerechnet  Objektende
 
-Objektende  Objektattribut  ObjektIdent  Ergebnis ID  Probengefäß-Ident
-
-Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Objektattribut
-
-ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut
-
-ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent
+Objektende  Objektattribut  ObjektIdent  Ergebnis ID  Probengefäß-Ident  Test-Ident  Testbezeichnung  Ergebnisstatus  Testmethode  Darstellung Ergebniswerte  Ergebnis-Wert  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Objektattribut  ObjektIdent  Normalwertspezifikation  Normalwert-Text  Normalwert untere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Normalwert obere Grenze  Einheitensystem des Messwertes / Wertes  Maßeinheit des Messwertes / Wertes  Grenzwertindikator des Laborwerts  Objektattribut  ObjektIdent  Grund der Benachrichtigung  Objektattribut  ObjektIdent
 
 
 ---
 
 011 7420  019 3101  015 3102  012 3104  017 8003  035 8167  017 8002  035 3564  017 8003  017 8003  017 8003  026 8225  017 8002  017 7278  019 7279  014 7273  017 8003  022 8141  017 8002  011 7420  024 7358  011 8990  017 8003  032 8158  017 8002  010 7303  010 4121  014 5001  011 8406  010 8614  017 8003  017 8003 050 8221
 
-017 8002  017 7278  019 7279  014 7273  017 8003  017 8003  028 8160  017 8002  026 7304  019 7364  012 8410  012 8411  010 8418  017 7302  011 7306  017 8420  010 8419 07  Zusatzarzt  Thomas
+017 8002  017 7278  019 7279  014 7273  017 8003  017 8003  028 8160  017 8002  026 7304  019 7364  012 8410  012 8411  010 8418  017 7302  011 7306  017 8420  010 8419
 
-Dr.  Obj_0047  Zusaetzliche_Informationen Obj_0068  Achtung!! Wert zu niedrig.  Obj_0068  Obj_0026  Obj_0042  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)
-
-UTC+1  Obj_0054  Namenskennung  Obj_0041 07  Paul Musterarzt
-
-PM  Obj_0041  Untersuchungsabrechnung  Obj_0058  2  0 32xxx
-
-36
-
-1  Obj_0058  Obj_0060  Timestamp_Erstellung_Laborer- gebnisbericht  Obj_0054  JJJJMMTT  HHmmss(ms)
-
-UTC+1  Obj_0054  Obj_0035  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12303  1234567802  PSA
-
-PSA 06  Methode7
-
-01  Ergebnis  2
+07  Zusatzarzt  Thomas  Dr.  Obj_0047  Zusaetzliche_Informationen Obj_0068  Achtung!! Wert zu niedrig.  Obj_0068  Obj_0026  Obj_0042  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Namenskennung  Obj_0041  07  Paul Musterarzt  PM  Obj_0041  Untersuchungsabrechnung  Obj_0058  2  0  32xxx  36  1  Obj_0058  Obj_0060  Timestamp_Erstellung_Laborer-gebnisbericht  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Obj_0035  UE_Klinische_Chemie  Obj_0060  ErgebnisIDKC12303  1234567802  PSA  PSA  06  Methode7  01  Ergebnis  2
 
 Status Person  Nachname  Vorname  Titel  Objektende
 
@@ -4519,7 +4467,7 @@ Einheit  Normalwert  Obj_0042 20  TextTextText  uWert
 
 oWert  2  Einheit
 
-Fehlermeldung_Aufmerksamkeit Obj_0026  1  Person  Obj_0047  07  Zusatzarzt  Thomas  Dr.  Obj_0047  Zusaetzliche_Informationen  Obj_0068  Achtung!! Wert zu niedrig.  Obj_0068  Obj_0026  Obj_0042  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Namenskennung  Obj_0041  07  Paul Musterarzt  PM  Obj_0041  Untersuchungsabrechnung  Obj_0058  6  Obj_0058  Obj_0060  Timestamp_Erstellung_Laborer- gebnisbericht  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1
+Fehlermeldung_Aufmerksamkeit Obj_0026  1  Person  Obj_0047  07  Zusatzarzt  Thomas  Dr.  Obj_0047  Zusaetzliche_Informationen  Obj_0068  Achtung!! Wert zu niedrig.  Obj_0068  Obj_0026  Obj_0042  Timestamp_Messung  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1  Obj_0054  Namenskennung  Obj_0041  07  Paul Musterarzt  PM  Obj_0041  Untersuchungsabrechnung  Obj_0058  6  Obj_0058  Obj_0060  Timestamp_Erstellung_Laborer-gebnisbericht  Obj_0054  JJJJMMTT  HHmmss(ms)  UTC+1
 
 Maßeinheit des Messwertes / Wertes  Objektattribut
 
@@ -4647,13 +4595,13 @@ Verdacht auf……, C00.1 gesichert, rechts, Infektion?
 
 **UNTERSUCHUNGSERGEBNISSE:**
 
-Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator  ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist ab- geschlossen.
+Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) wurde nach  Methode1 durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator  ist „++“. Der Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist ab-geschlossen.
 
 Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) wurde nach Methode5  durchgeführt und hat ein Ergebnis mit Wert ergeben. Der Grenzwertindikator ist „ Normalwert wird beschrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
 
 **FEHLERMELDUNG/AUFMERKSAMKEIT:**
 
-Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz- wertig“
+Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge grenz-wertig“
 
 **ZUSATZINFORMATIONEN:**
 
@@ -4728,7 +4676,7 @@ Z01_UseCase12_Storno_Auftrag.ldt
 
 Hinweis:
 
-Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!  Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La- bor und dem Auftraggeber abzustimmen.
+Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!  Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La-bor und dem Auftraggeber abzustimmen.
 
 
 ---
@@ -4814,7 +4762,7 @@ Muster 10A) C00.2 V
 
 Eilige Untersuchung Hepatitis-B-Antigen aus Serum (Probengefäß 1234567802) durch  Laborfacharzt (digitales Muster 10 in Obj_0010 eingefügt)
 
-Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein- schaft (digitales Muster 10A in Obj_0010 eingefügt)
+Untersuchung Quick aus Citrat-Blut (Probengefäß 1234567803) durch Laborgemein-schaft (digitales Muster 10A in Obj_0010 eingefügt)
 
 **ABRECHNUNGSINFORMATION:**
 
@@ -4992,7 +4940,7 @@ Material wurde am JJJJMMTT um HHmm entnommen
 
 **UNTERSUCHUNGSERGEBNISSE:**
 
-Untersuchung Glucose im Plasma (Probengefäß 1234567801) wurde durchgeführt und  hat ein Ergebnis ergeben. Der Ergebniswert wird sowohl als konventionelle Einheit und  SI-Einheit ausgegeben. Die Normalwerte zu beiden Einheitensystemen werden be- schrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
+Untersuchung Glucose im Plasma (Probengefäß 1234567801) wurde durchgeführt und  hat ein Ergebnis ergeben. Der Ergebniswert wird sowohl als konventionelle Einheit und  SI-Einheit ausgegeben. Die Normalwerte zu beiden Einheitensystemen werden be-schrieben. Die GOP wird mitgeteilt. Die Analytik ist abgeschlossen.
 
 **ZUSATZINFORMATIONEN:**
 
@@ -5012,7 +4960,7 @@ In diesem UseCase wird der Umgang mit Texten im Obj_0068 (Fließtext) für die A
 
 Beispiel:
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea  commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari- atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, co nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea  commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari-atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, co nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
 
 Darstellung im Obj_0068:
 
@@ -5026,7 +4974,7 @@ Lorem ipsum dolor sit amet,
 
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna  consectetur adipisici elit, sed ei-
 
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi conse- incidunt ut labore
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi conse-incidunt ut labore
 
 quat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
 
@@ -5048,11 +4996,11 @@ Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui
 
 culpa qui officia deserunt mollit anim id est laborum.  officia deserunt mollit anim id est  rum. Lorem ipsum dolor sit  labo amet, consectetur adipisici elit,  sed eiusmod tempor incidunt ut  labore et dolore magna aliqua. Ut  enim ad minim veniam, quis  exercitation ullamco la-
 
-nostrud boris nisi ut aliquid ex ea com- modi consequat. Quis aute iure  rit in voluptate velit
+nostrud boris nisi ut aliquid ex ea com-modi consequat. Quis aute iure  rit in voluptate velit
 
 reprehende esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat  non proident, sunt in
 
-cupiditat  culpa qui officia deserunt mollit  anim id est laborum. Lorem ipsum  dolor sit amet, consectetur adipi- sici elit, sed eiusmod tempor inci- ut labore et dolore magna  dunt aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco  laboris nisi ut aliquid ex ea com-
+cupiditat  culpa qui officia deserunt mollit  anim id est laborum. Lorem ipsum  dolor sit amet, consectetur adipi-sici elit, sed eiusmod tempor inci-ut labore et dolore magna  dunt aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco  laboris nisi ut aliquid ex ea com-
 
 modi consequat. Quis aute iure  reprehenderit in voluptate velit  esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat  non proident, sunt in
 
@@ -5173,7 +5121,9 @@ Bemerkungen: Döderlein-Zytolyse
 
 Empfohlen wird eine Abklärungskolposkopie in 3 Monaten
 
-Die unten dargestellten Angaben aus dem Muster 39 (linker Teil des Musters) werden  ebenfalls im Befund mit übermittelt: 0 2 0 2 2 0
+Die unten dargestellten Angaben aus dem Muster 39 (linker Teil des Musters) werden  ebenfalls im Befund mit übermittelt: 0 0 1 8
+
+0 2 0 2 2 0
 
 **ZUSATZINFORMATIONEN:**
 
@@ -5181,4 +5131,4 @@ Das Muster 39 wird als Digitales Muster 39 im Format PDF als base64-kodierte Anl
 
 **BEISPIELDATEI:**
 
-Z01_UseCase17_Muster39.ldt 0 0 1 8
+Z01_UseCase17_Muster39.ldt

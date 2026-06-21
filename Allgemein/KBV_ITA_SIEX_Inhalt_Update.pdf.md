@@ -204,7 +204,7 @@ den Gutachter Psychotherapie in der Gesetzlichen Krankenversicherung FK 9212 ang
 | 74E16101.sdkt.prf  mod. Kostenträger-Stammdatei | 74E13101.sdkv.prf.zip | mod. KV-Spezifika-Stammdatei |
 | 74E17101.sdkvca.prf.zip | mod. SDKVCA-Stammdatei für die Zertifizierung | -  74E13101.sdplz.prf.zip  mod. Postleitzahlen-Stammdatei |
 
-Anpassung an die Version 2.0  der TI-Pauschalen
+der TI-Pauschalen Anpassung an die Version 2.0
 
 ---
 
@@ -656,7 +656,7 @@ Angepasst an den neuen
 | KBV_ITA_VGEX_Technische_Anlage_eVDGA | Technische Anlage eVDGA |  |
 | Vorlage_eVDGA_Patientenausdruck_07_2026.zip | Vorlage zur Erstellung des Patientenausdruckes der eVDGA |  |
 
-Verordnung Aktualisiert im Zusammenhang der Patientenverständlichkeit Verordnung Aktualisierung Umsetzung des Updates | KBV-SOFTWARE |  |  |
+Verordnung Verordnung Aktualisiert im Zusammenhang der Patientenverständlichkeit Aktualisierung Umsetzung des Updates | KBV-SOFTWARE |  |  |
 |---|---|---|
 | **Dokument** | **Erläuterung** | **Hinweise auf Änderungen** |
 | **Kryptomodul** |  |  |

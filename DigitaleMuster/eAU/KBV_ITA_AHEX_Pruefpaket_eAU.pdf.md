@@ -490,9 +490,9 @@ Prüfunterlagen 1. Screenshot, welcher das Verhalten der Software in diesem Fall
 
 Für die in Kapitel 2 beschriebenen Prüffälle, für welche XML-Dateien (FHIR-Instanzen) einzureichen sind,  kann auch die Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten (XML-Datei der eAU bzw. eStorno) werden gegen FHIR-Profile validiert.  Zusätzlich zu den deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eAU- spezifischen FHIR-Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit  die Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine  Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
+Die übermittelten Testdaten (XML-Datei der eAU bzw. eStorno) werden gegen FHIR-Profile validiert.  Zusätzlich zu den deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eAU-spezifischen FHIR-Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit  die Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine  Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
 
-Neben den XML-Dateien für die eAU können auch die Barcodes der Papierausfertigungen für die  Krankenkasse der Prüffälle PF01, PF02, PF05, P06, PF08 und PF12 geprüft werden. Hierfür muss das Zip- Archiv einen Ordner Dokumentation“ mit den entsprechenden PDF-Dateien enthalten Die PDF-Datei des  Prüffalls PF04 wird nicht separat geprüft, da es sich um dieselbe eAU handelt wie bei PF12.
+Neben den XML-Dateien für die eAU können auch die Barcodes der Papierausfertigungen für die  Krankenkasse der Prüffälle PF01, PF02, PF05, P06, PF08 und PF12 geprüft werden. Hierfür muss das Zip-Archiv einen Ordner Dokumentation“ mit den entsprechenden PDF-Dateien enthalten Die PDF-Datei des  Prüffalls PF04 wird nicht separat geprüft, da es sich um dieselbe eAU handelt wie bei PF12.
 
 Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 

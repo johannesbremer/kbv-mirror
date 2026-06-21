@@ -129,98 +129,59 @@ Abbildung 9 Element body .......................................................
 
 Tabelle 1 Beschreibung der Kardinalitäten .............................................................................. 9
 
-Tabelle 2 Beschreibung der Strukturelement-Symbole
+Tabelle 2 Beschreibung der Strukturelement-Symbole ............................................................ 9
 
 Tabelle 3 Beschreibung sonstiger Symbole ............................................................................. 9
 
-Tabelle 4 SoftwareTyp ..........................................................................................................
+Tabelle 4 SoftwareTyp .......................................................................................................... 14
 
-Tabelle 5 Erläuterungen nm (Arzt) .........................................................................................
+Tabelle 5 Erläuterungen nm (Arzt) ......................................................................................... 16
 
-Tabelle 6 Erläuterungen PFX ................................................................................................
+Tabelle 6 Erläuterungen PFX ................................................................................................ 16
 
-Tabelle 7 Abbildung von Personennamen .............................................................................
+Tabelle 7 Abbildung von Personennamen ............................................................................. 17
 
-Tabelle 8 Erläuterungen addr ................................................................................................
+Tabelle 8 Erläuterungen addr ................................................................................................ 18
 
-Tabelle 9 Erläuterungen USE-Attribut....................................................................................
+Tabelle 9 Erläuterungen USE-Attribut.................................................................................... 18
 
-Tabelle 10 Erläuterungen telecom .........................................................................................
+Tabelle 10 Erläuterungen telecom ......................................................................................... 19
 
-Tabelle 11 Element qszervixzyto_bericht ..............................................................................
+Tabelle 11 Element qszervixzyto_bericht .............................................................................. 21
 
-Tabelle 12 Element anzahl_praeparate .................................................................................
+Tabelle 12 Element anzahl_praeparate ................................................................................. 22
 
-Tabelle 13 Element anzahl_nv_praeparate ...........................................................................
+Tabelle 13 Element anzahl_nv_praeparate ........................................................................... 23
 
-Tabelle 14 Element anzahl_frauen ........................................................................................
+Tabelle 14 Element anzahl_frauen ........................................................................................ 23
 
-Tabelle 15 Element gr1 .........................................................................................................
+Tabelle 15 Element gr1 ......................................................................................................... 23
 
-Tabelle 16 Element anzahl_frauen ........................................................................................
+Tabelle 16 Element anzahl_frauen ........................................................................................ 25
 
-Tabelle 17 Element anzahl_khca ...........................................................................................
+Tabelle 17 Element anzahl_khca ........................................................................................... 25
 
 Tabelle 18 Element anzahl_cin1............................................................................................ 25
 
 Tabelle 19 Element anzahl_cin2............................................................................................ 26
 
-Tabelle 20 Element anzahl_cin3ca ........................................................................................
+Tabelle 20 Element anzahl_cin3ca ........................................................................................ 26
 
-Tabelle 21 Element anzahl_adenocais ..................................................................................
+Tabelle 21 Element anzahl_adenocais .................................................................................. 26
 
-Tabelle 22 Element anzahl_plattenepithelca
+Tabelle 22 Element anzahl_plattenepithelca ......................................................................... 27
 
-Tabelle 23 Element anzahl_adenocaceut ..............................................................................
+Tabelle 23 Element anzahl_adenocaceut .............................................................................. 27
 
-Tabelle 24 Element anzahl_endometriumca ..........................................................................
+Tabelle 24 Element anzahl_endometriumca .......................................................................... 27
 
-Tabelle 25 Element praxisbesonderheit .................................................................................
-
-............................................................ 9 14
-
-16
-
-16
-
-17
-
-18
-
-18
-
-19
-
-21
-
-22
-
-23
-
-23
-
-23
-
-25
-
-25
-
-26
-
-26
-
-......................................................................... 27 27
-
-27
-
-28
-
+Tabelle 25 Element praxisbesonderheit ................................................................................. 28
 
 ---
 
 # 1 Einleitung
 
-Diese Schnittstellenbeschreibung beschreibt die Datenstruktur des Jahresberichtes, der im  Rahmen der Qualitätssicherungsvereinbarung Zervix-Zytologie vom Arzt erstellt wird. Gemäß  der Vereinbarung von Qualitätssicherungsmaßnahmen nach §135 Abs. 2 SGB V zur Zytologi- schen Untersuchung von Abstrichen der Zervix uteri wird der Bericht an die zuständige Kas- senärztliche Vereinigung (KV) gesendet.
+Diese Schnittstellenbeschreibung beschreibt die Datenstruktur des Jahresberichtes, der im  Rahmen der Qualitätssicherungsvereinbarung Zervix-Zytologie vom Arzt erstellt wird. Gemäß  der Vereinbarung von Qualitätssicherungsmaßnahmen nach §135 Abs. 2 SGB V zur Zytologi-schen Untersuchung von Abstrichen der Zervix uteri wird der Bericht an die zuständige Kas-senärztliche Vereinigung (KV) gesendet.
 
 Die Berichterstellung erfolgt gemäß der QS Vereinbarung Zervix-Zytologie unter  [http://www.kbv.de/media/sp/Zervix_Zytologie_ab_01.01.2015.pdf](http://www.kbv.de/media/sp/Zervix_Zytologie_ab_01.01.2015.pdf)[](http://www.kbv.de/media/sp/Zervix_Zytologie_ab_01.01.2015.pdf)
 
@@ -274,7 +235,7 @@ Es existieren verschiedene Kardinalitäten:
 
 ## 3.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice
+Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice
 
 | Symbol | Beschreibung |
 |---|---|
@@ -301,11 +262,11 @@ gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element m
 
 # 4 Beschreibung von ehd
 
-Die Schnittstelle zur Qualitätssicherungs-Vereinbarung Zervix-Zytologie basiert auf der EHD- Richtlinie V1.40 [KBV_ITA_VGEX_Schnittstelle_eHeader]. Damit entspricht die XML-Struktur  vom header und keytabs genau den Vorgaben der EHD-Richtlinie. Im Body-Bereich werden  eigene Elemente definiert, die im Kapitel 4.3 beschrieben werden.
+Die Schnittstelle zur Qualitätssicherungs-Vereinbarung Zervix-Zytologie basiert auf der EHD-Richtlinie V1.40 [KBV_ITA_VGEX_Schnittstelle_eHeader]. Damit entspricht die XML-Struktur  vom header und keytabs genau den Vorgaben der EHD-Richtlinie. Im Body-Bereich werden  eigene Elemente definiert, die im Kapitel 4.3 beschrieben werden.
 
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten.
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be-achten.
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *ehd*, welches sich aus  den beiden Kindelementen *header* und *body* zusammensetzt, wie es in Abbildung 1 darge- stellt ist.
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement *ehd*, welches sich aus  den beiden Kindelementen *header* und *body* zusammensetzt, wie es in Abbildung 1 darge-stellt ist.
 
 **Abbildung 1 Grundstruktur ehd**
 
@@ -335,11 +296,11 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation auf der diese Sc
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation. Die genaue Beschrei- bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
+Der header ist eine Untermenge vom header der EHD-Spezifikation. Die genaue Beschrei-bung der Elemente können Sie der EHD-Spezifikation entnehmen. Für die hier definierte  Schnittstelle wurden folgende Elemente eingeschränkt:
 
--  das Element service_tmr ist jetzt Pflicht und gibt den Berichtszeitraum an: z.B. 2007- 01-01
+-  das Element service_tmr ist jetzt Pflicht und gibt den Berichtszeitraum an: z.B. 2007-01-01
 -  Im document_type_cd-Element wurde der Dokumenttyp festgesetzt:
-- o document_type_cd im V-Attribut ist der Wert: „QSZERVIXZYTO“ fest vorge- schrieben.
+- o document_type_cd im V-Attribut ist der Wert: „QSZERVIXZYTO“ fest vorge-schrieben.
 
 **Abbildung 2 Element document_type_cd**
 
@@ -355,7 +316,7 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation. Die genaue Besc
 **Abbildung 3 Element interface**
 
 -  Das provider-Element ist Pflichtelement und enthält Angaben zu dem erstellenden  Arzt. Die Vorgaben enthalten:
-- o Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- nummer, RT-Attribut enthält den String „BSNR“)
+- o Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten-nummer, RT-Attribut enthält den String „BSNR“)
 - o Vorname und Nachname des Arztes (person_name -Element)
 - o Adresse der Arztpraxis (addr-Element)
 - o Telefonnummer (telecom-Element)
@@ -411,7 +372,7 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanummerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanummerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
@@ -448,7 +409,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 #### 4.1.1.4 Softwaretyp (SoftwareTyp)
 
-Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Software. Es wird  zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmodul) un- terschieden. Hier ist die Angabe „PVS“ fest vorgeschrieben. Als Beispiel sei hier folgender  Code angegeben:
+Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Software. Es wird  zwischen PVS (Arztpraxissoftware), XSD (XML-Schnittstelle) und XPM (XML-Prüfmodul) un-terschieden. Hier ist die Angabe „PVS“ fest vorgeschrieben. Als Beispiel sei hier folgender  Code angegeben:
 
 <sciphox:SoftwareTyp V="PVS"/>
 
@@ -464,7 +425,7 @@ Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Soft
 
 #### 4.1.1.5 Softwarekontakt (Kontakt)
 
-XML-Daten wurden gemäß dieser XML Schnittstelle erzeugt.Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software- verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be- steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm*, evtl.  *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt-gruppe*  bilden. Die Grundstruktur ist in Abbildung 6 dargestellt.
+XML-Daten wurden gemäß dieser XML Schnittstelle erzeugt.Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be-steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm*, evtl.  *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt-gruppe*  bilden. Die Grundstruktur ist in Abbildung 6 dargestellt.
 
 
 ---
@@ -480,7 +441,7 @@ Die Coderahmen für dieses Element sieht wie folgt aus:
 
 ##### 4.1.1.5.1 Kontakttyp
 
-Hier wird der Kontakttyp im *V*-Attribut als kodierter Wert angegeben. Die Werte können aus  der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester  Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko- dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantworlichen ist zwingend ein- mal erforderlich. Deshalb muss genau einmal im Element *Kontakttyp* der Wert „SOFTV“ an- gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
+Hier wird der Kontakttyp im *V*-Attribut als kodierter Wert angegeben. Die Werte können aus  der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester  Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko-dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantworlichen ist zwingend ein-mal erforderlich. Deshalb muss genau einmal im Element *Kontakttyp* der Wert „SOFTV“ an-gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
 
 <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>
 
@@ -502,7 +463,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 ##### 4.1.1.5.3 Name der Person (person_name)
 
-Das Element *person_name* enthält das Element *nm*, welches im nächsten Abschnitt konkreti- siert wird. Die Grundstruktur dieses Elements ist in Abbildung 7 dargestellt.
+Das Element *person_name* enthält das Element *nm*, welches im nächsten Abschnitt konkreti-siert wird. Die Grundstruktur dieses Elements ist in Abbildung 7 dargestellt.
 
 **Abbildung 7 Grundstruktur person_name (Arzt)**
 
@@ -544,7 +505,7 @@ Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mi
 
 **Tabelle 6 Erläuterungen PFX**
 
-Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind min. 1 und  min. 1 und  und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ 20 Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7 Die folgende Tabelle zeigt die Abbildung der typischen Namensangaben auf die entsprechen- den XML-Elemente:
+Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind min. 1 und  min. 1 und  und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ 20 Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7 Die folgende Tabelle zeigt die Abbildung der typischen Namensangaben auf die entsprechen-den XML-Elemente:
 
 
 ---
@@ -589,7 +550,7 @@ Das Element *addr* enthält die Kindelemente  *USE-*Attribut Für die Angabe ein
 
 angenommen.
 
-*ZIP,* *CTY CNT POB* und ein  *USE=“PHYS“* eingetra- *USE=“PST“* enthalten. Fehlt das
+*ZIP,* *CTY CNT POB* und ein  *USE=“PHYS“* eingetra-*USE=“PST“* enthalten. Fehlt das
 
 In der Tabelle 8 sind die Kindelemente des Elements  angegeben.
 
@@ -643,7 +604,7 @@ Als Beispiel für eine Anschrift sei hier folgender Code angegeben:
 
 ##### 4.1.1.5.5 Kommunikationsmöglichkeiten (telecom)
 
-Das Element *telecom* besteht aus den Attributen  Faxnummern, Emailadressen und Homepages aufzunehmen. Es muss für das Softwarehaus  mindestens eine Telefonnummer angegeben sein. Es sind maximal fünf dieser Elemente er- laubt. Bei dem *V*-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden  String, der mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
+Das Element *telecom* besteht aus den Attributen  Faxnummern, Emailadressen und Homepages aufzunehmen. Es muss für das Softwarehaus  mindestens eine Telefonnummer angegeben sein. Es sind maximal fünf dieser Elemente er-laubt. Bei dem *V*-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden  String, der mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
 
 **-Attribut**
 
@@ -677,7 +638,7 @@ Das body-Element enthält benutzerdefinierte Elemente und Typen für diese Schni
 
 **Abbildung 9 Element body**
 
-Das body-Element hat den benutzerdefinierten Typ qszervixzyto_body_typ. Das Kindelement  in diesem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unter- scheidet sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qszervixzyto/001“
+Das body-Element hat den benutzerdefinierten Typ qszervixzyto_body_typ. Das Kindelement  in diesem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unter-scheidet sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qszervixzyto/001“
 
 ## 4.3 Element qszervixzyto_bericht
 
@@ -704,7 +665,7 @@ Das Element qszervixzyto_bericht enthält den Zervix-Zyto Bericht.
 
 ### 4.3.1 Element anzahl_praeparate
 
-Das Element anzahl_praeparate enthält die Gesamtanzahl der zytologisch untersuchten Ab- strichpräparate der Zervix uteri für den Zeitraum vom 01.01. -31.12. des Berichtsjahres.
+Das Element anzahl_praeparate enthält die Gesamtanzahl der zytologisch untersuchten Ab-strichpräparate der Zervix uteri für den Zeitraum vom 01.01. -31.12. des Berichtsjahres.
 
 | diagram |  |
 |---|---|
@@ -759,7 +720,7 @@ Das Element anzahl_frauen enthält die Gesamtanzahl der zytologisch untersuchten
 
 **XML-Code 15 – Befunde der Gruppe I**
 
-Alle Elemente vom Typ gruppe_typ haben den gleichen Aufbau und die gleichen Kindeleme te wie die Gruppe I. Aufgrund der Redundanz wird auf die Beschreibung der einzelnen Ele- mente verzichtet.
+Alle Elemente vom Typ gruppe_typ haben den gleichen Aufbau und die gleichen Kindeleme te wie die Gruppe I. Aufgrund der Redundanz wird auf die Beschreibung der einzelnen Ele-mente verzichtet.
 
 n-
 
@@ -787,7 +748,7 @@ n-
 
 #### 4.3.4.1 Element anzahl_frauen
 
-<zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> Nomenklatur III Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Ausgangs- befund in dieser Befundgruppe für den Zeitraum vom 01.01-31.12 des Berichtsjahres.
+<zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> Nomenklatur III Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Ausgangs-befund in dieser Befundgruppe für den Zeitraum vom 01.01-31.12 des Berichtsjahres.
 
 
 ---
@@ -799,7 +760,7 @@ n-
 
 #### 4.3.4.2 Element anzahl_khca
 
-### Das Element anzahl_khca enthält die Anzahl der untersuchten Frauen mit histologischen Ab- klärungsuntersuchungen, bei denen kein Hinweis auf CA-Vorstufe oder CA gefunden wurden.
+### Das Element anzahl_khca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen, bei denen kein Hinweis auf CA-Vorstufe oder CA gefunden wurden.
 
 | diagram |  |
 |---|---|
@@ -812,7 +773,7 @@ n-
 
 #### 4.3.4.3 Element anzahl_cin1
 
-Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histologischen Ab- klärungsuntersuchungen mit CIN I.
+Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit CIN I.
 
 | diagram |  |
 |---|---|
@@ -826,7 +787,7 @@ Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histolog
 
 #### 4.3.4.4 Element anzahl_cin2
 
-### Das Element anzahl_cin2 enthält die Anzahl der untersuchten Frauen mit histologischen Ab- klärungsuntersuchungen mit CIN II.
+### Das Element anzahl_cin2 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit CIN II.
 
 | diagram |  |
 |---|---|
@@ -848,7 +809,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### 4.3.4.6 Element anzahl_
 
-### Das Element anzahl_cxca enthält die Anzahl der untersuchten Frauen mit histologischen Ab- klärungsuntersuchungen mit Adenocarcinoma in situ.
+### Das Element anzahl_cxca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit Adenocarcinoma in situ.
 
 | diagram |  |
 |---|---|
@@ -859,16 +820,14 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### adenocais
 
-**Tabelle 21 Element anzahl_**
-
-**adenocais**
+**Tabelle 21 Element anzahl_adenocais**
 
 
 ---
 
 #### 4.3.4.7 Element anzahl_plattenepithelca
 
-### Das Element anzahl_plattenepithelca enthält die Anzahl der untersuchten Frauen mit histolo- gischen Abklärungsuntersuchungen mit Plattenepithelkarzinom der Cervix uteri.
+### Das Element anzahl_plattenepithelca enthält die Anzahl der untersuchten Frauen mit histolo-gischen Abklärungsuntersuchungen mit Plattenepithelkarzinom der Cervix uteri.
 
 | diagram |  |
 |---|---|
@@ -877,16 +836,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### 4.3.4.8 Element anzahl_
 
-### Das Element anzahl_adenocaceut enthält die Anzahl der untersuchten Frauen mit histologi- schen Abklärungsuntersuchungen mit Adenokarzinom der Cervix uteri.
-
-| diagram |  |
-|---|---|
-| namespace | urn:ehd/qszervixzyto/001 |
-| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
-
-#### 4.3.4.9 Element anzahl_
-
-Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histologischen  Abklärungsuntersuchungen mit Endometriumkarzinom der Cervix uteri.
+### Das Element anzahl_adenocaceut enthält die Anzahl der untersuchten Frauen mit histologi-schen Abklärungsuntersuchungen mit Adenokarzinom der Cervix uteri.
 
 | diagram |  |
 |---|---|
@@ -897,13 +847,22 @@ Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histol
 
 #### adenocaceut
 
+**plattenepithelca**
+
+#### 4.3.4.9 Element anzahl_
+
+Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histologischen  Abklärungsuntersuchungen mit Endometriumkarzinom der Cervix uteri.
+
+| diagram |  |
+|---|---|
+| namespace | urn:ehd/qszervixzyto/001 |
+| attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
+
 **Tabelle 23 Element anzahl_adenocaceut**
 
 #### endometriumca
 
 **Tabelle 24 Element anzahl_endometriumca**
-
-**plattenepithelca**
 
 
 ---

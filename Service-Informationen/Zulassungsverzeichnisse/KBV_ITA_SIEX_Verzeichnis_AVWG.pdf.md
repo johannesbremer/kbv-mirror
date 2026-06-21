@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**16. JUNI 2026**
+**20. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 16. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 20. Juni 2026
 
 Y/400/2504/36/062
 
@@ -684,7 +684,7 @@ Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.uf
 |---|---|---|---|---|
 |  | Y/400/2510/36/768 | 30.09.2028 | Rohdaten MMI |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 16. Juni 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 20. Juni 2026
 
 Y/400/2401/36/672 31.12.2026 Rohdaten MMI
 

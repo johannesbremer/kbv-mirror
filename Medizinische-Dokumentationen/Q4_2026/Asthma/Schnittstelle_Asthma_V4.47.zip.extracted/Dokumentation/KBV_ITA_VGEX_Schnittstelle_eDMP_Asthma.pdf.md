@@ -301,21 +301,15 @@ SEMANTIK DER VERWENDETEN DIAGRAMM -SYMBOLE 30
 
 **XML-CODE 20:** IN DEN LETZTEN 4 WOCHEN: HÄUFIGKEIT DES EINSATZES DER BEDARFSMEDIKATION ......................... 25
 
-**XML-CODE 21:** IN DEN LETZTEN 4 WOCHEN: EINSCHRÄNKUNG VON AKTIVITÄTEN IM ALLTAG WEGEN ASTHMA  BRONCHIALE ............................................................................................................................................................ 25
+**XML-CODE 21:** IN DEN LETZTEN 4 WOCHEN: EINSCHRÄNKUNG VON AKTIVITÄTEN IM ALLTAG WEGEN ASTHMA
+
+BRONCHIALE ............................................................................................................................................................ 25
 
 **XML-CODE 22:** IN DEN LETZTEN 4 WOCHEN: ASTHMABEDINGTE STÖRUNG DES NACHTSCHLAFES ............................... 26
 
-**XML-CODE 23:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ......................................................................
+**XML-CODE 23:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ...................................................................... 26 1
 
-1
-
-26
-
-**XML-CODE 24:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ......................................................................
-
-1
-
-26
+**XML-CODE 24:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ...................................................................... 26 1
 
 **XML-CODE 25:** CONTENT (MEDIKAMENTE)...................................................................................................................... 27
 
@@ -349,7 +343,9 @@ SEMANTIK DER VERWENDETEN DIAGRAMM -SYMBOLE 30
 
 **XML-CODE 41:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 35
 
-**XML-CODE 42**: UNGEPLANTE, AUCH NOTFALLMÄßIGE (AMBULANT UND STATIONÄR) ÄRZTLICHE BEHANDLUNG  WEGEN ASTHMA BRONCHIALE SEIT DER LETZTEN DOKUMENTATION ................................................................... 35
+**XML-CODE 42**: UNGEPLANTE, AUCH NOTFALLMÄßIGE (AMBULANT UND STATIONÄR) ÄRZTLICHE BEHANDLUNG
+
+WEGEN ASTHMA BRONCHIALE SEIT DER LETZTEN DOKUMENTATION ................................................................... 35
 
 **XML-CODE 43:** CONTENT (SCHULUNG) ............................................................................................................................ 36
 
@@ -539,7 +535,7 @@ AdministrativeGender
 
 ## 6.1 SEKTION (SECTION)
 
-Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
+Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
 
 **Abbildung 3:** Grundstruktur section
 

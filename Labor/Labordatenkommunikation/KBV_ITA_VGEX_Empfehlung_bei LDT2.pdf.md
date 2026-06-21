@@ -143,7 +143,7 @@ mer des Getes- teten grund / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4
 | **8626** | Rechtsgrund- | 1 | num | 1 = TestV | Muster OEDG |
 | **8627** | KV-Sonderziffer | 1 | alnum |  | Muster OEDG |
 
-Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen- den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind
+Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen-den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind
 
 - 3116
 - 3108

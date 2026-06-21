@@ -183,21 +183,21 @@ bzgl. veralteter Links überarbeitet
 
 # 1. Einleitung
 
-Im Rahmen von QS-Vereinbarung Molekulargenetik [1] wird jährlich eine Statistik in der Arzt- praxis / Labor erstellt und an die Datenannahmestelle versendet.
+Im Rahmen von QS-Vereinbarung Molekulargenetik [1] wird jährlich eine Statistik in der Arzt-praxis / Labor erstellt und an die Datenannahmestelle versendet.
 
 Die Schnittstelle QS-Molekulargenetik ermöglicht es einem Arztinformationssystem (AIS) bzw.  Praxisverwaltungssystem (PVS), die Statistik an die Datenannahmestelle zu übertragen.
 
-Dieses Dokument beschreibt die Schnittstelle QS Molekulargenetik. Die Schnittstelle ist ge- mäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML- Struktur von XSD-Schemata [2]
+Dieses Dokument beschreibt die Schnittstelle QS Molekulargenetik. Die Schnittstelle ist ge-mäß der EHD-Spezifikation [KBV_ITA_VGEX_eHD] konzipiert und beschreibt die XML-Struktur von XSD-Schemata [2]
 
 ## 1.1 Zweck des Dokuments
 
 Das vorliegende Dokument erklärt dem Leser, wie die Schnittstelle eDoku-Portal aussieht, wie  sie funktioniert und wie er sie aufrufen kann.
 
-Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnittstelle einzu- reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
+Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnittstelle einzu-reichen. Dazu gehört sowohl das technische Verständnis für die Schnittstelle, als auch das  fachliche Wissen darüber, wie valide Daten aussehen und in welcher Form sie von der  Schnittstelle erwartet werden.
 
 ## 1.2 Zielgruppen
 
-Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste- men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
+Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste-men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
 
 
 ---
@@ -243,7 +243,7 @@ Es existieren verschiedene Kardinalitäten:
 
 ## 3.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo- gisch verknüpft. In diesem Dokument werden zwei Strukturelement -Arten verwendet: Choice  und Sequence.
+Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-gisch verknüpft. In diesem Dokument werden zwei Strukturelement -Arten verwendet: Choice  und Sequence.
 
 | Symbol | Beschreibung |
 |---|---|
@@ -277,11 +277,11 @@ zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema de
 
 Die Schnittstelle „QS Molekulargenetik“ basiert auf [KBV_ITA_VGEX_eHD]
 
-die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body-Bereich wer- den eigene Elemente definiert, die im Kapitel 4.2 beschrieben werden.
+die XML-Struktur vom header genau den Vorgaben der EHD-Richtlinie. Im Body-Bereich wer-den eigene Elemente definiert, die im Kapitel 4.2 beschrieben werden.
 
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be- achten.
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig die Groß-/Kleinschreibung zu be-achten.
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kindelementen *header* und *body* zusammensetzt, wie es in Abbildung 1 darge- stellt ist.
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kindelementen *header* und *body* zusammensetzt, wie es in Abbildung 1 darge-stellt ist.
 
 **Abbildung 1 - Element ehd**
 
@@ -324,7 +324,7 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eH
 
 Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
-[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele- mente eingeschränkt:
+[KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-mente eingeschränkt:
 
 -  *Id*-Element: Die ID muss eindeutig sein. Dazu werden in die Attribute folgende Daten  eingetragen:
 - o Im EX-Attribut steht eine eindeutige id (GUID)
@@ -352,14 +352,14 @@ Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
 **XML-Code 2 - document_relationship**
 
--   Betriebsstätte (BSNR).  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und
+-  Betriebsstätte (BSNR).  Das *provider*-Element ist Pflichtelement und enthält Angaben zum Arzt (LANR) und
 - o Die Vorgaben im *provider/person*-Element enthalten:
 
 Lebenslange Arztnummer, (id-Element EX-Attribut enthält die lebenslange  Arztnummer, RT-Attribut enthält den String „1.2.276.0.76.4.16“)
 
 - o Die Vorgaben im *provider/organization*-Element enthalten:
 
-Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten- nummer RT-Attribut enthält den String „1.2.276.0.76.4.17“)
+Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten-nummer RT-Attribut enthält den String „1.2.276.0.76.4.17“)
 
 **Abbildung 5 - Element provider**
 
@@ -410,7 +410,7 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
@@ -484,26 +484,26 @@ Die Anzahl (nonNegativeInteger) der Behandlungsfälle mit diagnostischer Fragest
 
 Behandlungsfälle mit prädiktiver Fragestellung werden hier dokumentiert. Das Element gleicht  dem Aufbau von <*diagnostische_fragestellung*> und enthält die Daten: *behandlungs-* *fall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl* und *nichtbeurteilba-* *rer_befund_anzahl*
 
-Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestellung*>, bezie- hen sich jedoch auf die Behandlungsfälle mit prädiktiver Fragestellung.
+Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestellung*>, bezie-hen sich jedoch auf die Behandlungsfälle mit prädiktiver Fragestellung.
 
 ### 4.3.4 vorgeburtliche_fragestellung
 
 Behandlungsfälle mit vorgeburtlicher Fragestellung werden hier dokumentiert. Das Element  gleicht dem Aufbau von <*diagnostische_fragestellung*> und enthält die Daten: *behandlungs-* *fall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl* und *nichtbeurteilba-* *rer_befund_anzahl*
 
-Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestellung*>, bezie- hen sich jedoch auf die Behandlungsfälle mit vorgeburtlicher Fragestellung.
+Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestellung*>, bezie-hen sich jedoch auf die Behandlungsfälle mit vorgeburtlicher Fragestellung.
 
 
 ---
 
 ### 4.3.5 leistung_liste/leistung
 
-Die erbrachten Leistungen mit Gebührenordnungsziffer (GOP) werden hier dokumentiert. Das  Element *leistung* kann mehrfachvorkommen. Das Element enthält die folgenden Unterelemen- te: *gop, gop_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl, nichtbeur-* *teilbarer_befund_anzahl* und optional *fachgruppe_einsender_liste*
+Die erbrachten Leistungen mit Gebührenordnungsziffer (GOP) werden hier dokumentiert. Das  Element *leistung* kann mehrfachvorkommen. Das Element enthält die folgenden Unterelemen-te: *gop, gop_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl, nichtbeur-* *teilbarer_befund_anzahl* und optional *fachgruppe_einsender_liste*
 
 **Abbildung 11 - Element leistung_liste/leistung**
 
 #### 4.3.5.1 gop
 
-Die Gebührenordnungsposition (GOP) aus EBM-Ä (nonNegativeInteger) wird hier im V- Attribut angegeben.
+Die Gebührenordnungsposition (GOP) aus EBM-Ä (nonNegativeInteger) wird hier im V-Attribut angegeben.
 
 #### 4.3.5.2 gop_anzahl
 
@@ -523,7 +523,7 @@ Die Anzahl (nonNegativeInteger) der Leistungen (GOP) aus Kapitel  nicht beurteil
 
 #### 4.3.5.6 fachgruppe_einsender_liste
 
-Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei- sung), wird ermittelt. Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je  Behandlungsfall wird die Fachgruppe (8.-9. Stelle der LANR) bestimmt.
+Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei-sung), wird ermittelt. Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je  Behandlungsfall wird die Fachgruppe (8.-9. Stelle der LANR) bestimmt.
 
 4.3.5.1, die zu einem pa-
 
@@ -544,7 +544,7 @@ Das optionale Element fachgruppe_einsender_liste wird nur dann gefüllt, wenn  >
 
 #### 4.3.5.6.1 fachgruppe_nummer
 
-Die Nummer der Fachgruppe (nonNegativeInteger, 2-stellig) wird hier im V-Attribut angege- ben.
+Die Nummer der Fachgruppe (nonNegativeInteger, 2-stellig) wird hier im V-Attribut angege-ben.
 
 #### 4.3.5.6.2 einsendungen_anzahl
 
@@ -552,7 +552,7 @@ Die Anzahl (nonNegativeInteger) der Einsendungen wird hier im V-Attribut angegeb
 
 ### 4.3.6 quotient_pathologisch
 
-Aus der Anzahl der Behandlungsfälle mit pathologischem Befund und den zugehörigen er- brachten Leistungen wird ein Quotient berechnet. Die Kindelemente sind  *fund_anzahl, quotient.*
+Aus der Anzahl der Behandlungsfälle mit pathologischem Befund und den zugehörigen er-brachten Leistungen wird ein Quotient berechnet. Die Kindelemente sind  *fund_anzahl, quotient.*
 
 **Abbildung 13 - Element quotient_pathologisch**
 
@@ -599,7 +599,7 @@ Der Aufbau dieses Elements ist mit dem Element  tisch. Es werden nur die Behandl
 
 #### 4.3.8.1 gop_anzahl
 
-Die Anzahl der erbrachten Leistungen (GOPs) in den Behandlungsfällen mit nicht beurteilba- rem Befund. Angabe erfolgt im V-Attribut.
+Die Anzahl der erbrachten Leistungen (GOPs) in den Behandlungsfällen mit nicht beurteilba-rem Befund. Angabe erfolgt im V-Attribut.
 
 #### 4.3.8.2 befund_anzahl
 
@@ -615,7 +615,7 @@ Die Anzahl (nonNegativeInteger) der Behandlungsfälle, für die ein Unterauftrag
 
 ### 4.3.10 einsender_lanr_anzahl
 
-Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei- sung), wird ermittelt. Diese Anzahl (nonNegativeInteger) aller LANRn, für die eine Überwei-
+Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei-sung), wird ermittelt. Diese Anzahl (nonNegativeInteger) aller LANRn, für die eine Überwei-
 
 *quotient_pathologisch* (Kapitel 4.3.6) iden-
 
@@ -632,17 +632,17 @@ sung existiert, wird hier im V-Attribut angegeben. Es werden nur die unterschied
 
 ### 4.3.11 einsender_bsnr_anzahl
 
-Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei- sung), wird ermittelt. Diese Anzahl (nonNegativeInteger) aller BSNRn, für die eine Überwei- sung existiert, wird hier im V-Attribut angegeben. Es werden nur die unterschiedlichen BSNRn  berücksichtigt, identische BSNRn werden nur einmal gezählt.
+Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei-sung), wird ermittelt. Diese Anzahl (nonNegativeInteger) aller BSNRn, für die eine Überwei-sung existiert, wird hier im V-Attribut angegeben. Es werden nur die unterschiedlichen BSNRn  berücksichtigt, identische BSNRn werden nur einmal gezählt.
 
 ### 4.3.12 fachgruppe_einsender_liste/fachgruppe_einsender
 
-Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je Behandlungsfall wird  die Fachgruppe (8.-9. Stelle der LANR) ermittelt. Das Element *fachgruppe_einsender* wird  mehrfach angegeben, wenn mehrere Fachgruppen ermittelt wurden. Für jede ermittelte Fach- gruppe ist die Anzahl der Einsendungen anzugeben.
+Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je Behandlungsfall wird  die Fachgruppe (8.-9. Stelle der LANR) ermittelt. Das Element *fachgruppe_einsender* wird  mehrfach angegeben, wenn mehrere Fachgruppen ermittelt wurden. Für jede ermittelte Fach-gruppe ist die Anzahl der Einsendungen anzugeben.
 
 **Abbildung 14 - Element fachgruppe_einsender_liste/fachgruppe_einsender**
 
 #### 4.3.12.1 fachgruppe_nummer
 
-Die Nummer der Fachgruppe (nonNegativeInteger, 2-stellig) wird hier im V-Attribut angege- ben.
+Die Nummer der Fachgruppe (nonNegativeInteger, 2-stellig) wird hier im V-Attribut angege-ben.
 
 #### 4.3.12.2 einsendungen_anzahl
 
@@ -654,7 +654,7 @@ Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und de
 
 ### 4.3.14 Produkt2_ringversuchszertifikat
 
-Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und erteilter Zer- tifikate im Jahr für diese Untersuchung wird hier im V-Attribut angegeben.
+Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und erteilter Zer-tifikate im Jahr für diese Untersuchung wird hier im V-Attribut angegeben.
 
 
 ---

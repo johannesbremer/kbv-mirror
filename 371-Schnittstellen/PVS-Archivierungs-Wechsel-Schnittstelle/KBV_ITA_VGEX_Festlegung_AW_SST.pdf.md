@@ -288,8 +288,6 @@ In der Schnittstelle ist grundsätzlich die Gesamtheit der Informationsobjekte a
 
 Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. Eine detaillierte  Darstellung des Informationsmodells befindet sich in [KBV_ITA_VGEX_Informationsmodell_AW_SST].
 
--findet statt
-
 -hat 1
 
 0..*
@@ -297,6 +295,8 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 -enthält **Te** **rmin**
 
 **Patie** **nt**
+
+-findet statt
 
 0..*
 
@@ -308,29 +308,6 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 -zugeordnet 0..*
 
-0..1
-
-0..* -erhält
-
-|  | 0..* | abgerechnet1 | -enhält -wird |  |
-|---|---|---|---|---|
-|  | **Begegnung/HausbesuchBehandelnder** |  |  | **Abrechnung** |
-|  | -wird durchgeführt -führt |  | 1..* 0..* |  |
-
-| -arbeiten | 1..* |
-|---|---|
-| in | 0..* |
-
-0..* -finden statt
-
--arbeitet in
-
-0..1 **Betriebsstätte**
-
-0..1
-
--findet statt
-
 0..* 0..* -hat
 
 **Krankenversicherungsverhältnis**
@@ -341,20 +318,36 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 0..1
 
+0..1
+
+0..* -erhält
+
 0..* -enthält
 
--hat
+|  | 0..* | -hat1 | -enhält -wird abgerechnet |  |
+|---|---|---|---|---|
+|  |  | **Begegnung/HausbesuchAbrechnungBehandelnder** |  |  |
+|  | -wird durchgeführt -führt |  | 1..* 0..* |  |
 
 0..*
 
 -hat 0..*
 
+-arbeiten 1..*
+
+0..* -finden statt
+
 0..*
 
-**Ringversuchszertifikat**
+**Ringversuchszertifikat** -arbeitet in 0..*
 
-Abbildung 2 Ebene 1 des fachlichen Informationsmodells -wird abgerechnet
+0..1 **Betriebsstätte**
 
+0..1
+
+-findet statt
+
+Abbildung 2 Ebene 1 des fachlichen Informationsmodells
 
 ---
 
@@ -532,7 +525,7 @@ Sonstige :: **Weite** **rbe** **ha** **ndlung _durch (ServiceRequest )**
 
 Sonstige :: **Ringversuchszertifikat(Device )**
 
-Ringversuchs- zertifikate
+Ringversuchs-zertifikate
 
 Sonstige :: **Krankenversicherungsverhaeltnis(Cove** **rage )**
 
@@ -2218,7 +2211,7 @@ Tabelle 6 FHIR®-Bundles Datenbereiche der PVS-Archivierungs- und Wechselschnitt
 
 Ein Überblick der Zuordnung zwischen den FHIR®-Bundles und den darin enthaltenen KBV-FHIR®-Profilen  kann [KBV_ITA_VGEX_FHIR-Uebersicht-Bundle-Datenbereiche_AW_SST] entnommen werden.
 
-ngsbaustein undenbedarf zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf Kapitel ustein Kapitel (siehe Kapitel Kapitel edarf (siehe Kapitel
+zum tureDefinition/KBV_PR_ AW_Bundle_Adressbuch ngsbaustein tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun undenbedarf denbedarf Kapitel ustein Kapitel (siehe Kapitel Kapitel edarf (siehe Kapitel
 
 ---
 

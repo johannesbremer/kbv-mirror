@@ -814,63 +814,53 @@ Die Versichertendaten von Johannes Frônkenstein Versichertendaten 1 einlesen un
 
 **Prüffall-ID**
 
+6520
+
 **Testziel**
+
+Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreibung
 
 **Voraussetzung**
 
 **Prüfunterlagen**
 
+COPD-Dokumentationsunterlagen  zusätzlich DM1- und/oder KHK-Dokumentationsunterlagen
+
 **Hinweis**
-
-**INDIKATIONSÜBERGREIFENDE**
-
-**Administrative Daten**
-
-DMP-Fallnummer
-
-Krankenhaus-IK
-
-Dokumentation in Vertretung erstellt
-
-Datum
-
-Einschreibung wegen
-
-Geschlecht
-
-**Allgemeine Anamnese- und Befunddaten**
-
-Körpergröße
-
-Körpergewicht
-
-Blutdruck
-
-Raucher 6520
-
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreibung
-
-COPD-Dokumentationsunterlagen zusätzlich DM1- und/oder KHK-Dokumentationsunterlagen
 
 Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM1 verfügt,  müssen die entsprechenden Daten ebenfalls dokumentiert werden.  System keine der beiden Zulassungen besitzen, dann sind nur die COPD-Daten zu  übermitteln.
 
-**DATEN**
+**INDIKATIONSÜBERGREIFENDE DATEN**
+
+**Administrative Daten**
 
 **Erstdokumentation**
 
-6520
+DMP-Fallnummer 6520
 
-856215715
+Krankenhaus-IK 856215715
 
-06.04.2024 15.mm.jjjj
+Dokumentation in Vertretung erstellt
+
+Datum 06.04.2024 15.mm.jjjj
+
+Einschreibung wegen
 
 COPD, KHK, Diabetes  mellitus Typ 1
 
-Männlich 1,75 m
+Geschlecht
 
-064 kg
+Männlich
 
-120 / 70 mmHg
+**Allgemeine Anamnese- und Befunddaten**
+
+Körpergröße 1,75 m
+
+Körpergewicht 064 kg
+
+Blutdruck 120 / 70 mmHg
+
+Raucher
 
 Ja
 
@@ -965,7 +955,7 @@ Intervall für künftige Fußinspektionen (bei  Patientinnen und Patienten ab de
 
 Spätfolgen
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD- Dokumentation sind  dieses KHK und Diabetes  mellitus
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD-Dokumentation sind  dieses KHK und Diabetes  mellitus
 
 Tabakverzicht
 
@@ -995,7 +985,7 @@ alle 6 sechs Monate
 
 Diabetische  Nephropathie
 
-Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD- Dokumentation sind  dieses KHK und Diabetes  mellitus
+Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD-Dokumentation sind  dieses KHK und Diabetes  mellitus
 
 Jedes zweite Quartal 06.07.2024 15.mm.jjjj
 

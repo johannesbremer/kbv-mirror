@@ -34,6 +34,8 @@
 
 **Fax-Nummer**
 
+**Datum**
+
 **E-Mail**
 
 ### Genehmigung der Krankenkasse
@@ -55,8 +57,6 @@
 **Versichertennummer**
 
 **Geburtsdatum**
-
-**Datum**
 
 ***arf besteht***
 

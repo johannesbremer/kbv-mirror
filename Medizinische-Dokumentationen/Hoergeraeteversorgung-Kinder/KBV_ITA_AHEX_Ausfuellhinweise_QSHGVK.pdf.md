@@ -1,6 +1,6 @@
 #### Dokumentationsbogen: Ausfüllhinweise
 
-Zur Information des Arztes werden in der Dokumentationsmaske Infoboxen und Ausfüllhin- weise eingefügt.
+Zur Information des Arztes werden in der Dokumentationsmaske Infoboxen und Ausfüllhin-weise eingefügt.
 
 Infoboxen beinhalten allgemeine Informationen.
 

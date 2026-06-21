@@ -95,7 +95,7 @@ Abbildungsverzeichnis
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Kapselendoskopie (QSKE) [1] eingesetzt wird. Es wird eine arztbezogene Jahres- statistik an die zuständige Datenannahmestelle übermittelt.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Kapselendoskopie (QSKE) [1] eingesetzt wird. Es wird eine arztbezogene Jahres-statistik an die zuständige Datenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
@@ -104,7 +104,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 ## 1.2 Pflichtfunktionen und optionale Funktionen der Software
 
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego-rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
 **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
@@ -149,11 +149,11 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Kapselendoskopie Jahresstatistik ermöglichen.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. der Kapselendoskopie Jahresstatistik ermöglichen.
 
 Die in der Schnittstellenbeschreibung QS
 
-[KBV_ITA_VGEX_Schnittstelle_QSKE] festgelegten Datenelemente müssen vollständig er- fassbar sein.
+[KBV_ITA_VGEX_Schnittstelle_QSKE] festgelegten Datenelemente müssen vollständig er-fassbar sein.
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -161,7 +161,7 @@ Die in der Schnittstellenbeschreibung QS
 
 Die Behandlungsfälle werden erstmals drei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
-Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge- führt werden.
+Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge-führt werden.
 
 Meldequartal: 01.01.-31.03. Das sich an das Untersuchungsjahr anschließende Quartal.
 
@@ -171,7 +171,7 @@ Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal 
 - 31.12
 - 31.03
 
-### Melde- Untersuchungsjahr
+### Melde-Untersuchungsjahr
 
 ### quartal
 
@@ -190,9 +190,9 @@ Kapselendoskopie
 |---|---|
 | **P1-30** | **Arztbezug** |
 
-Die QSKE-Jahresstatistik umfasst alle Leistungen im Rahmen von QSKE eines Arztes. D.h.  jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSKE-Jahresstatistik erstel- len.
+Die QSKE-Jahresstatistik umfasst alle Leistungen im Rahmen von QSKE eines Arztes. D.h.  jeder berechtigte Arzt in einer Gemeinschaftspraxis muss seine QSKE-Jahresstatistik erstel-len.
 
-Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen- ders sind in der QSKE-Dokumentation zu erfassen.
+Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwen-ders sind in der QSKE-Dokumentation zu erfassen.
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -267,7 +267,7 @@ Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik 
 |---|---|
 | **P2-10** | **Übermittlung an die Datenannahmestelle** |
 
-Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis- tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie- gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde- rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
+Die Jahresstatistik ist im Meldequartal an die Datenannahmestelle zu übermitteln. Die Statis-tik muss dabei bis zum 31.03. (Ende des Meldequartals) bei der Datenannahmestelle vorlie-gen. Der Anwender kann anschließend bis zum 30.06. (Ende des Prüfquartals) auf Aufforde-rung der KV veränderte und überarbeitete Daten an die Datenannahmestelle senden.
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -281,7 +281,7 @@ Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss
 |---|---|
 | **P1-265** | **QSKE auf Basis von KV-Connect** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE- Dokumentationen auf Basis von KV-Connect bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE-Dokumentationen auf Basis von KV-Connect bereitstellen.
 
 **Begründung**
 
@@ -298,7 +298,7 @@ Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 |---|---|
 | **P1-266** | **QSKE auf Basis von KIM** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE- Dokumentationen auf Basis von KIM bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE-Dokumentationen auf Basis von KIM bereitstellen.
 
 **Begründung:**
 
@@ -315,8 +315,8 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Bedingung:**
 
-- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei- willig.
-- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich- tend.
+- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei-willig.
+- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich-tend.
 
 **Hinweis:**
 
@@ -342,7 +342,7 @@ Es sind folgende Import-Status möglich:
 
 Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
 
-Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig- neter Weise anzeigen.
+Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig-neter Weise anzeigen.
 
 **Bedingung:**
 
@@ -391,9 +391,9 @@ e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 |---|---|
 | **P2-70** | **Einsatz Kryptomodul (XKM)** |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati- onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSKE-Datenverschlüsselung (Oeffentlich_QSKE_Vxy.key) zu verschlüsseln.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati-onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSKE-Datenverschlüsselung (Oeffentlich_QSKE_Vxy.key) zu verschlüsseln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule- sen.
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-sen.
 
 ---
 

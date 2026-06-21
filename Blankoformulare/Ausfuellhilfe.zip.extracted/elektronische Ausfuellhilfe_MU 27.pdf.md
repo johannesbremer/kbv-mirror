@@ -22,7 +22,7 @@ Hier sind die Therapieziele in Stichworten anzugeben, differenziert nach Nah zum
 
 Hier sind maximal neun Maßnahmen einzutragen, die den Patienten befähigen sollen, die unter 2. aufg führten Therapieziele zu erreichen (zum Beispiel Inanspruchnahme der Psycho
 
-e- - oder Ergotherapie).
+e-- oder Ergotherapie).
 
 **4. Durchführung der soziotherapeutischen Maßnahmen**
 

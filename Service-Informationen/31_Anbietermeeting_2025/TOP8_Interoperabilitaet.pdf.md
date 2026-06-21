@@ -179,13 +179,13 @@ dgMP)“
 
 Ankündigung
 
-Kommentierung 20.10.2025- Kommentierungszeitraum 01.11.2025 inkl.  Heute
+Kommentierung 20.10.2025-Kommentierungszeitraum 01.11.2025 inkl.  Heute
 
 Kommentierungsworkshops
 
 Einvernehmen KIG,  Benehmensherstellung
 
-Umsetzung Mitte März 2026 -  Vorstandsbeschluss Januar -  Dezember - Januar 01.10.2026  März
+Umsetzung Mitte März 2026 - Vorstandsbeschluss Januar - Dezember - Januar 01.10.2026  März
 
 
 ---

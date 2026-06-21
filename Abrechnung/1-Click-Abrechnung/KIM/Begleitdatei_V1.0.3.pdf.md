@@ -115,7 +115,7 @@ Die vorliegende Spezifikation beschreibt nur den Aufbau und die Struktur der Beg
 
 **1.1 Geltungsbereich** Die vorliegende Spezifikation gilt für alle Software-Systeme im Gesundheitswesen. Sie beschreibt die Inhalte  und den Aufbau der Begleitdatei sowie die Verarbeitung im Software-System.
 
-**1.2 Abgrenzung** Anwendungs-spezifische Anforderungen an die Begleitdatei sind in den jeweiligen Anwendungs- Spezifikationen beschrieben, die an den entsprechenden Stellen referenziert werden.
+**1.2 Abgrenzung** Anwendungs-spezifische Anforderungen an die Begleitdatei sind in den jeweiligen Anwendungs-Spezifikationen beschrieben, die an den entsprechenden Stellen referenziert werden.
 
 Seite 4 von 10
 
@@ -138,7 +138,7 @@ Die Begleitdatei muss einen Bezug auf das zugrundeliegende XML-Schema (XSD) enth
 
 **[BGD0102]**
 
-Für die Begleitdatei **MUSS**
+Für die Begleitdatei **MUSS** der Zeichensatz UTF-8 verwendet werden.
 
 *Anmerkung:*
 
@@ -146,13 +146,9 @@ Für die Begleitdatei **MUSS**
 
 **[BGD0103]**
 
-Die Begleitdatei **MUSS** den fixen Dateinamen "
+Die Begleitdatei **MUSS** den fixen Dateinamen " begleitdatei " erhalten.
 
 Seite
-
-der Zeichensatz UTF-8 verwendet werden.
-
-begleitdatei " erhalten.
 
 Begleitdatei V1.0 5 von 10
 

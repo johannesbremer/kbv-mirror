@@ -109,15 +109,15 @@ bung der Javaklasse „XPMEinstieg“ Muster 10 hinzugefügt bei der Beschreibun
 
 # 1. Einleitung
 
-Dieses Dokument gibt einen Überblick über die Arbeitsweise und eine genaue Be- schreibung zur Installation und Ausführung des neuen LDK Prüfmoduls. Das Prüfmodul  LDK ist ein XPM (Prüfmodul) der KBV. Daher wird „XPM-LDK“ und „LDK-Prüfmodul“ im  vorliegenden Dokument synonym verwendet.
+Dieses Dokument gibt einen Überblick über die Arbeitsweise und eine genaue Be-schreibung zur Installation und Ausführung des neuen LDK Prüfmoduls. Das Prüfmodul  LDK ist ein XPM (Prüfmodul) der KBV. Daher wird „XPM-LDK“ und „LDK-Prüfmodul“ im  vorliegenden Dokument synonym verwendet.
 
-Das Prüfmodul in der Version für Kassenärztliche Vereinigungen ist als Service für die  Kassenärztlichen Vereinigungen konzipiert. Es kann auch von Softwareherstellern ge- nutzt werden – eine Pflicht für den Einsatz durch die Softwarehersteller existiert nicht.
+Das Prüfmodul in der Version für Kassenärztliche Vereinigungen ist als Service für die  Kassenärztlichen Vereinigungen konzipiert. Es kann auch von Softwareherstellern ge-nutzt werden – eine Pflicht für den Einsatz durch die Softwarehersteller existiert nicht.
 
-Das LDK-Prüfmodul in dieser Version ist ein Prüfprogramm für digitale Muster, um for- melle Prüfungen auf dem digitalen Muster durchzuführen. Das Prüfmodul bietet dafür  einen Prüfmodus an.
+Das LDK-Prüfmodul in dieser Version ist ein Prüfprogramm für digitale Muster, um for-melle Prüfungen auf dem digitalen Muster durchzuführen. Das Prüfmodul bietet dafür  einen Prüfmodus an.
 
-Als Ergebnis der Prüfung wird unter anderem ein Prüfprotokoll erstellt, das Informatio- nen über den Zustand der Prüfdatei enthält. Als Ergebnis der Prüfung sind je nach Zu- stand der Prüfdatei folgende Statusmeldungen möglich: Ok, Warnung, Fehlerhaft, Hin- weis oder Abbruch.
+Als Ergebnis der Prüfung wird unter anderem ein Prüfprotokoll erstellt, das Informatio-nen über den Zustand der Prüfdatei enthält. Als Ergebnis der Prüfung sind je nach Zu-stand der Prüfdatei folgende Statusmeldungen möglich: Ok, Warnung, Fehlerhaft, Hin-weis oder Abbruch.
 
-Das LDK-Prüfmodul ist auf allen Computersystemen lauffähig, für die die Java Laufzeit- umgebung in der Version 1.7 oder höher verfügbar ist.
+Das LDK-Prüfmodul ist auf allen Computersystemen lauffähig, für die die Java Laufzeit-umgebung in der Version 1.7 oder höher verfügbar ist.
 
 ## 1.1 Begriffsklärung
 
@@ -125,19 +125,19 @@ Das LDK-Prüfmodul ist auf allen Computersystemen lauffähig, für die die Java 
 - **XPM_LDK-Paket**: Ein Paket des LDK-Prüfmoduls bestehend aus folgenden Teilen :
 - XPM-Kernel (JAVA-Programm zum Interpretieren des LDK-Prüfprojektes)
 - LDK-Prüfprojekt (LDK spezifische Erweiterung des XPM-Kernels)
-- ReleaseNotes (Textdatei, die alle Informationen zur Version des Prüfmodulpa- kets enthält)
+- ReleaseNotes (Textdatei, die alle Informationen zur Version des Prüfmodulpa-kets enthält)
 - GUI (Aufruf des Prüfmoduls als graphische Benutzungsoberfläche)
 - Batchdateien und Shellskripte (Beispiele für den kommandozeilenorientierten  Aufruf in verschiedenen Modi)
 - **XPM-LDK.KV-Va.b.c**: Schnittstellenspezifisches Prüfmodulpaket für digitale Muster.  Prüfmodul-Version a.b.c auch "das aktuelle LDK-Prüfmodul" genannt.
-- **XPM_LDK-Prüfprojekt**: Tabellen und Codeelemente, die die schnittstellenspezifi- sche Konfiguration enthalten; schnittstellenspezifischer Bestandteil des XPM_ LDK - Pakets.
-- **XPM-Kernel**: Programm zum Interpretieren des XPM_LDK-Prüfprojektes, der Kernel  ist ohne verfahrensspezifisches Prüfprojekt nicht verwendbar; XPM-allgemeiner Be- standteil des XPM_LDK-Pakets.
+- **XPM_LDK-Prüfprojekt**: Tabellen und Codeelemente, die die schnittstellenspezifi-sche Konfiguration enthalten; schnittstellenspezifischer Bestandteil des XPM_ LDK -Pakets.
+- **XPM-Kernel**: Programm zum Interpretieren des XPM_LDK-Prüfprojektes, der Kernel  ist ohne verfahrensspezifisches Prüfprojekt nicht verwendbar; XPM-allgemeiner Be-standteil des XPM_LDK-Pakets.
 - **"Prüfmodul-Version"**: Bezeichnet die Version des XPM_LDK-Paketes.
 
 
 ---
 
 - **"das aktuelle LDK-Prüfmodul"**: Hiermit ist meist die neuste Version des  XPM_LDK-Pakets gemeint.
-- **"Gesamtpaket XPM-LDK.praxis-Va.b.c"**: Das Gesamtpaket enthält alle relevanten  Dokumente und Software für die LDT-Schnittstelle und die digitalen Muster. Ach- tung! Die Versionsnummer des Gesamtpakets ist nicht zu verwechseln mit der Ver- sionsnummer des technischen Handbuchs oder des Prüfmoduls.
+- **"Gesamtpaket XPM-LDK.praxis-Va.b.c"**: Das Gesamtpaket enthält alle relevanten  Dokumente und Software für die LDT-Schnittstelle und die digitalen Muster. Ach-tung! Die Versionsnummer des Gesamtpakets ist nicht zu verwechseln mit der Ver-sionsnummer des technischen Handbuchs oder des Prüfmoduls.
 
 ## 1.2 Systemvoraussetzungen
 
@@ -156,7 +156,7 @@ Die Verzeichnisstruktur des LDK-Prüfmoduls hat folgenden Aufbau:
 
 ## 2.1 Ordner 'Bin'
 
-Dieser Ordner beinhaltet alle Java-Archive und binären Steuerdateien, die zur Ausfüh- rung des LDK-Pakets benötigt werden.
+Dieser Ordner beinhaltet alle Java-Archive und binären Steuerdateien, die zur Ausfüh-rung des LDK-Pakets benötigt werden.
 
 ## 2.2 Ordner 'Daten'
 
@@ -191,21 +191,21 @@ In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat defini
 
 # 3. Anwendung des Prüfmoduls
 
-XPM_LDK steht als einheitliches Werkzeug zur Prüfung möglichst vieler Eingangs- und  Ausgangsdaten zur Verfügung. Dabei verarbeitet es je nach gewähltem Startskript digi- tale Muster einzeln oder Digitale Muster in einem Verzeichnis. XPM_LDK Java Laufzeitumgebung und kann somit auf allen Betriebssystemen eingesetzt werden,  auf denen die Java-Laufzeitumgebung installiert ist.
+XPM_LDK steht als einheitliches Werkzeug zur Prüfung möglichst vieler Eingangs- und  Ausgangsdaten zur Verfügung. Dabei verarbeitet es je nach gewähltem Startskript digi-tale Muster einzeln oder Digitale Muster in einem Verzeichnis. XPM_LDK Java Laufzeitumgebung und kann somit auf allen Betriebssystemen eingesetzt werden,  auf denen die Java-Laufzeitumgebung installiert ist.
 
 läuft in einer
 
-Ein Prüfmodullauf beinhaltet dabei den Start des Moduls über eines der mitgelieferten  Startskripts (.bat) oder über den Kommandozeilenaufruf mit entsprechendem Parame- ter. Danach werden die dem Prüfmodul übergebenen Dateien geprüft und ein Ergebnis  ausgegeben. -Die Konfiguration eines Prüfmodullaufs erfolgt mit Hilfe einer XML Konfigurationsdatei. Nähere Informationen zur Konfigurationsdatei finden Sie in Ab- schnitt 3.3
+Ein Prüfmodullauf beinhaltet dabei den Start des Moduls über eines der mitgelieferten  Startskripts (.bat) oder über den Kommandozeilenaufruf mit entsprechendem Parame-ter. Danach werden die dem Prüfmodul übergebenen Dateien geprüft und ein Ergebnis  ausgegeben. -Die Konfiguration eines Prüfmodullaufs erfolgt mit Hilfe einer XML Konfigurationsdatei. Nähere Informationen zur Konfigurationsdatei finden Sie in Ab-schnitt 3.3
 
 ## 3.1 Technische Hinweise
 
-XPM_LDK besteht im Kern aus einem Steuermodul (pruefprogramm.ldk.x.x) sowie ei- nem Prüfungsmodul (pruefmodul-ldk-a.b.c.jar).
+XPM_LDK besteht im Kern aus einem Steuermodul (pruefprogramm.ldk.x.x) sowie ei-nem Prüfungsmodul (pruefmodul-ldk-a.b.c.jar).
 
-Zur Prüfung von digitalen Mustern prüft das Prüfmodul die Eingangsdaten gegen ein  internes Regelwerk. Das Ergebnis einer Prüfung (Fehlermeldungen, Informationsmel- dungen) sowie evtl. andere Ausgabedateien (Statistikmeldungen) werden in Dateien  ausgegeben, deren Format vom Benutzer konfigurierbar ist.
+Zur Prüfung von digitalen Mustern prüft das Prüfmodul die Eingangsdaten gegen ein  internes Regelwerk. Das Ergebnis einer Prüfung (Fehlermeldungen, Informationsmel-dungen) sowie evtl. andere Ausgabedateien (Statistikmeldungen) werden in Dateien  ausgegeben, deren Format vom Benutzer konfigurierbar ist.
 
 ## 3.2 Prüfmodi des Prüfmoduls
 
-Das Prüfmodul LDK wird, wie eingangs erwähnt, mit verschiedenen Übergabeparame- tern und Startskripten ausgeliefert. Die folgende Tabelle soll Aufschluss darüber geben,  wie diese zusammenhängen. Die genaue Funktion der Übergabeparameter wird in Ka- pitel 3.4.1 erläutert.
+Das Prüfmodul LDK wird, wie eingangs erwähnt, mit verschiedenen Übergabeparame-tern und Startskripten ausgeliefert. Die folgende Tabelle soll Aufschluss darüber geben,  wie diese zusammenhängen. Die genaue Funktion der Übergabeparameter wird in Ka-pitel 3.4.1 erläutert.
 
 | Prüfmodus | Übergabeparameter | Skriptname |
 |---|---|---|
@@ -214,14 +214,14 @@ Das Prüfmodul LDK wird, wie eingangs erwähnt, mit verschiedenen Übergabeparam
 
 ## 3.3 Konfigurationsdatei
 
-v, -h, -p Verzeichnisprüfung Neben den im Abschnitt (3.2) genannten Übergabeparametern und mitgelieferten  Startskripten können in der Konfigurationsdatei übergreifende Einstellungen vorge- nommen werden.
+v, -h, -p Verzeichnisprüfung Neben den im Abschnitt (3.2) genannten Übergabeparametern und mitgelieferten  Startskripten können in der Konfigurationsdatei übergreifende Einstellungen vorge-nommen werden.
 
 
 ---
 
-In diesem Abschnitt folgt eine allgemeine Einführung in den Aufbau einer Konfigurati- onsdatei. In den jeweiligen Konfigurationsdateien selbst existiert zu jedem Konfigurati- ons-Element eine spezielle Beschreibung.
+In diesem Abschnitt folgt eine allgemeine Einführung in den Aufbau einer Konfigurati-onsdatei. In den jeweiligen Konfigurationsdateien selbst existiert zu jedem Konfigurati-ons-Element eine spezielle Beschreibung.
 
-Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebs- system angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so vorein- gestellt, dass keinerlei Anpassungen nötig sind. Als Trennzeichen für Verzeichnisse  wird das Zeichen ‘/’ verwendet. Diese Voreinstellung erlaubt die Nutzung gleicher Kon- figurationsdateien auf verschiedenen Betriebssystemen (Windows, Unix, Linux, ...). Re- lative Pfadangaben werden als relativ zum Installationsverzeichnis betrachtet. Die Kon- figurationsdatei wird in 3 Abschnitte eingeteilt.
+Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebs-system angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so vorein-gestellt, dass keinerlei Anpassungen nötig sind. Als Trennzeichen für Verzeichnisse  wird das Zeichen ‘/’ verwendet. Diese Voreinstellung erlaubt die Nutzung gleicher Kon-figurationsdateien auf verschiedenen Betriebssystemen (Windows, Unix, Linux, ...). Re-lative Pfadangaben werden als relativ zum Installationsverzeichnis betrachtet. Die Kon-figurationsdatei wird in 3 Abschnitte eingeteilt.
 
 ### 3.3.1 Abschnitt: Allgemeiner Teil
 
@@ -241,13 +241,13 @@ z.B.: <pruefdaten>Daten/</pruefdaten>
 
 #### 3.3.1.3 Geprüft-OK-Verzeichnis
 
-Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ in dieses Ver- zeichnis kopiert. Die Pfadangabe erfolgt im Element „
+Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ in dieses Ver-zeichnis kopiert. Die Pfadangabe erfolgt im Element „
 
 z.B.: <okdaten>Geprueft/NichtAbgelehnt/</okdaten>
 
 #### 3.3.1.4 Ausschlussverzeichnis
 
-Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘abgelehnt’ bzw. ‘ab- bruch’ in dieses Verzeichnis verschoben. Die Pfadangabe erfolgt im Element „ **daten**
+Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘abgelehnt’ bzw. ‘ab-bruch’ in dieses Verzeichnis verschoben. Die Pfadangabe erfolgt im Element „ **daten**
 
 ```
 <fehlerdaten>Geprueft/Abgelehnt/</fehlerdaten>
@@ -294,7 +294,7 @@ Hinweis: Solle in der Pfadangabe des Schemas das ‘%’-Zeichen verwendet werde
 
 #### 3.3.1.8 Warnungen
 
-Diese Einstellung ermöglicht es, das Protokollieren der Warnungen ein- bzw. auszu- schalten. Die Konfiguration wird im Element **„warnungen“**
+Diese Einstellung ermöglicht es, das Protokollieren der Warnungen ein- bzw. auszu-schalten. Die Konfiguration wird im Element **„warnungen“**
 
 Wertebereich: „ja“, „nein“.
 
@@ -302,7 +302,7 @@ z.B.: <warnungen>ja</warnungen>
 
 #### 3.3.1.9 Begrenzung der Fehlermeldungen
 
-Standardmäßig begrenzt das XPM_ LDK die gemeldeten Fehler einer bestimmten Mel- dungsnummer auf eine festgelegte maximale Anzahl. Die maximale Anzahl kann je  nach Prüfprojekt variieren und beträgt in der Regel zwischen 30 und 50. Diese Einstel- lung dient der Übersichtlichkeit eines Fehlerprotokolls, um die Liste nicht mit systemati- schen Fehlern zu überladen. Die standardmäßige Begrenzung kann ein- und ausge- schaltet werden.
+Standardmäßig begrenzt das XPM_ LDK die gemeldeten Fehler einer bestimmten Mel-dungsnummer auf eine festgelegte maximale Anzahl. Die maximale Anzahl kann je  nach Prüfprojekt variieren und beträgt in der Regel zwischen 30 und 50. Diese Einstel-lung dient der Übersichtlichkeit eines Fehlerprotokolls, um die Liste nicht mit systemati-schen Fehlern zu überladen. Die standardmäßige Begrenzung kann ein- und ausge-schaltet werden.
 
 Wertebereich: „ja“, „nein“.
 
@@ -316,7 +316,7 @@ z.B.: <dokumentation>Doku/  KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_KV.pdf</dokumen
 
 ### 3.3.2 Abschnitt: Eingabedateien
 
-Im Abschnitt Eingabedateien wird der Pfad zur Steuertabelle festgelegt. Die Steuerta- belle für das XPM_ LDK, im Element „kbv_tabelle“ spezifiziert, muss in der Konfigurati- onsdatei angegeben werden. In der Regel ist an dieser Steuertabelle durch den An- wender kein Eingriff notwendig.
+Im Abschnitt Eingabedateien wird der Pfad zur Steuertabelle festgelegt. Die Steuerta-belle für das XPM_ LDK, im Element „kbv_tabelle“ spezifiziert, muss in der Konfigurati-onsdatei angegeben werden. In der Regel ist an dieser Steuertabelle durch den An-wender kein Eingriff notwendig.
 
 ```
 <kbv_tabelle> Bin/ldk_tabelle.bin</kbv_tabelle>
@@ -369,9 +369,9 @@ So wird bei einer Prüfdatei mit dem Namen ‘Test.xml’ und dem Errorlevel 1 d
 
 Zusätzlich wurde eine zweite flexiblere Umbenennungsmethode integriert.
 
-Sobald im Namen einer Ausgabedatei die Variable  ersetzt XPM diese Variable durch den Namen der Prüfdatei. Fehlt die Variable  *${DATEI_NAME}*, dann wird der Name der Prüfdatei als erstes im Namen der Ausga- bedatei eingefügt.
+Sobald im Namen einer Ausgabedatei die Variable  ersetzt XPM diese Variable durch den Namen der Prüfdatei. Fehlt die Variable  *${DATEI_NAME}*, dann wird der Name der Prüfdatei als erstes im Namen der Ausga-bedatei eingefügt.
 
-Bei der Umbenennung von Fehlerprotokollen kann man mit der Variablen  den Fehlerstatus an einer beliebigen Stelle im Dateinamen platzieren. Fehlt die Variable  *${STATUS}*, dann wird der Fehlerstatus als erstes im Namen der Ausgabedatei einge- fügt.
+Bei der Umbenennung von Fehlerprotokollen kann man mit der Variablen  den Fehlerstatus an einer beliebigen Stelle im Dateinamen platzieren. Fehlt die Variable  *${STATUS}*, dann wird der Fehlerstatus als erstes im Namen der Ausgabedatei einge-fügt.
 
 #### 3.3.3.1 Statistikdatei
 
@@ -385,7 +385,7 @@ z.B.:
 
 In der Statistikliste wird für jede Prüfdatei, für die eine Meldung des Prüfmoduls erfolgte,  eine Meldungsstatistik ausgegeben. Die mit dem Status ‘ok’ geprüften Dateien tauchen  in der Statistikliste nicht auf.
 
-Die auftretenden Meldungstexte können das Zeichen ’%s’ enthalten. Dies ist kein Pro- grammfehler sondern nur ein Hinweis darauf, dass diese Meldung variable Inhalte ent- hält, die erst zur Laufzeit ermittelt werden und unterschiedliche Ausprägungen enthalten  kann.
+Die auftretenden Meldungstexte können das Zeichen ’%s’ enthalten. Dies ist kein Pro-grammfehler sondern nur ein Hinweis darauf, dass diese Meldung variable Inhalte ent-hält, die erst zur Laufzeit ermittelt werden und unterschiedliche Ausprägungen enthalten  kann.
 
 z.B.: Zu der GNR '%s' wurde keine Angabe im Feld '%s' gemacht.
 
@@ -393,7 +393,7 @@ z.B.: Zu der GNR '%s' wurde keine Angabe im Feld '%s' gemacht.
 
 Jedes Element der Konfigurationsdatei darf Umgebungsvariablen enthalten.
 
-Diese Umgebungsvariablen müssen der JavaVM jedoch über den Übergabeparameter  –D übergeben werden. Nach dem Einlesen der Konfigurationsdatei werden die Umge- bungsvariablen durch ihre Werte ersetzt. Findet das XPM_LDK eine Umgebungsvariab- le nicht, wird der Prüflauf abgebrochen.
+Diese Umgebungsvariablen müssen der JavaVM jedoch über den Übergabeparameter  –D übergeben werden. Nach dem Einlesen der Konfigurationsdatei werden die Umge-bungsvariablen durch ihre Werte ersetzt. Findet das XPM_LDK eine Umgebungsvariab-le nicht, wird der Prüflauf abgebrochen.
 
 Mit Hilfe von Umgebungsvariablen kann mehreren Benutzern eine separate Umgebung  zur Verfügung gestellt werden, die auf eine einzige Installation zugreifen.
 
@@ -454,7 +454,7 @@ verwendet wird,
 -c Konfig\konfig.xml -f Daten\Muster_10.pdf -i
 ```
 
-XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die Datei ‘Da- ten/Muster_10.pdf’. Anschließend wird XPM_LDK beendet.
+XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die Datei ‘Da-ten/Muster_10.pdf’. Anschließend wird XPM_LDK beendet.
 
 - **3.2.2.2.** **Beispiel 2: Prüfen eines Verzeichnisses**
 
@@ -511,11 +511,11 @@ Der Parameter ‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspei
 
 Der Parameter ‘-Dfile.encoding=8859_15’ stellt den entsprechenden Zeichensatz  ein und ermöglicht hier die Verwendung von deutschen Umlauten.
 
-Der Parameter ‘-cp "Bin/*"’ spezifiziert alle Java-Archive, die für den Programmab- lauf benötigt werden.
+Der Parameter ‘-cp "Bin/*"’ spezifiziert alle Java-Archive, die für den Programmab-lauf benötigt werden.
 
 Der Parameter ‘de.kbv.pruefmodul.modul.ldk.start.StartKonsole’ ist der  Name einer Klasse, die das XPM startet.
 
-Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter, die an das Prüf- programm übergeben werden.
+Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter, die an das Prüf-programm übergeben werden.
 
 
 ---
@@ -580,17 +580,17 @@ control:Formularversion="07.2017"/>
 
 # 5. Prüfregeln
 
-In diesem Abschnitt werden die Prüfregeln aufgeführt, die das Prüfmodul bei der Analy- se eines digitalen Musters prüft.
+In diesem Abschnitt werden die Prüfregeln aufgeführt, die das Prüfmodul bei der Analy-se eines digitalen Musters prüft.
 
 ## 5.1 Allgemeine Prüfung bei Verwendung des Modus „Digitales Muster“ oder  „Digitales Muster mit Verzeichnisprüfung“
 
-Das Prüfmodul liest die Formularnummer aus den Metadaten der zu prüfenden PDF- Datei aus. Wird eine Formularnummer ausgelesen, die nicht „10“ oder „10a“ entspricht,  gibt das Prüfmodul dies als Fehlermeldung zurück.
+Das Prüfmodul liest die Formularnummer aus den Metadaten der zu prüfenden PDF-Datei aus. Wird eine Formularnummer ausgelesen, die nicht „10“ oder „10a“ entspricht,  gibt das Prüfmodul dies als Fehlermeldung zurück.
 
-Liegt ein Muster 10 oder 10A vor, führt das Prüfmodul nachfolgend genannte Prüffälle  aus. Ziel dieser Prüfungen ist es, die formale Korrektheit des jeweiligen Musters festzu- stellen.
+Liegt ein Muster 10 oder 10A vor, führt das Prüfmodul nachfolgend genannte Prüffälle  aus. Ziel dieser Prüfungen ist es, die formale Korrektheit des jeweiligen Musters festzu-stellen.
 
 Hinweis:
 
-Beim Auslesen der Formularnummer des digitalen Musters aus den Metadaten unter- stützt das Prüfmodul sowohl die Darstellung der Metadaten als eigene Elemente als  auch als Attribute (Details siehe Kapitel 7.9.2.2 der XPM-Spezifikation). Somit werden  die folgenden beiden Darstellungen unterstützt:
+Beim Auslesen der Formularnummer des digitalen Musters aus den Metadaten unter-stützt das Prüfmodul sowohl die Darstellung der Metadaten als eigene Elemente als  auch als Attribute (Details siehe Kapitel 7.9.2.2 der XPM-Spezifikation). Somit werden  die folgenden beiden Darstellungen unterstützt:
 
 **Darstellung mit Elementen:**
 
@@ -623,9 +623,9 @@ Dabei ist „35“ ein fest vorgegebener Wert, „n“ jeweils eine Ziffer und �
 
 Im SAPV - Fall (BSNR beginnt mit „74“) prüft das Prüfmodul weiterhin ob die BSNR den  folgenden Aufbau hat: 74kknnn63
 
-Dabei sind „74“ und „63“ feste Werte, „n“ jeweils eine Ziffer und „kk“ ein Wert aus fol- gender Menge: 01-03, 06-21, 24, 25, 27, 28, 31, 37-73, 78-81, 83, 85-88, 93-96, 98, 99
+Dabei sind „74“ und „63“ feste Werte, „n“ jeweils eine Ziffer und „kk“ ein Wert aus fol-gender Menge: 01-03, 06-21, 24, 25, 27, 28, 31, 37-73, 78-81, 83, 85-88, 93-96, 98, 99
 
-In allen anderen Fällen prüft das Prüfmodul, ob die BSNR folgenden Aufbau hat: kknn- nnnmm
+In allen anderen Fällen prüft das Prüfmodul, ob die BSNR folgenden Aufbau hat: kknn-nnnmm
 
 Dabei ist „n“ jeweils eine Ziffer „mm“ beliebig und „kk“ ein Wert aus folgender Menge:  01-03, 06-21, 24, 25, 27, 28, 31, 37-73, 78-81, 83, 85-88, 93-96, 98, 99
 
@@ -655,7 +655,7 @@ Dabei ist „n“ eine Ziffer, „ff“ der Fachgruppencode und „555555“ ein
 
 Im Nicht-ASV-Fall prüft das Prüfmodul darüber hinaus, ob die LANR folgenden Aufbau  hat: nnnnnnmff
 
-Dabei ist „n“ jeweils eine Ziffer, „m“ die Prüfziffer und ff der nach Anlage 35 des BAR- Schlüsselverzeichnisses erlaubte Inhalt mit „00“ als Ersatzwert.
+Dabei ist „n“ jeweils eine Ziffer, „m“ die Prüfziffer und ff der nach Anlage 35 des BAR-Schlüsselverzeichnisses erlaubte Inhalt mit „00“ als Ersatzwert.
 
 Ist das nicht der Fall wird ein entsprechender Hinweis ausgegeben.
 
@@ -667,7 +667,7 @@ Ist das nicht der Fall wird ein entsprechender Hinweis ausgegeben.
 
 #### 5.1.1.6 Aufbau der Versichertennummer
 
-Das Prüfmodul prüft die Versichertennummer im PDF-Feld „0000_Vericherten_ID“ da- raufhin, ob diese mit einem Buchstaben beginnt und anschließend neun Ziffern folgen.
+Das Prüfmodul prüft die Versichertennummer im PDF-Feld „0000_Vericherten_ID“ da-raufhin, ob diese mit einem Buchstaben beginnt und anschließend neun Ziffern folgen.
 
 Ist das nicht der Fall wird ein entsprechender Hinweis ausgegeben.
 
@@ -690,15 +690,15 @@ Ist das nicht der Fall gibt das Prüfmodul jeweils einen entsprechenden Hinweist
 
 Das Prüfmodul prüft, ob im Feld „0000_QES“ eine elektronische Signatur vorhanden ist.  Dazu prüft die Prüfsoftware, ob für das PDF-Feld „0000_QES“ ein Signature Dictionary  als /v-Wert vorhanden ist.
 
-Sollte das Signature Dictionary nicht vorhanden sein, wird die Fehlermeldung ausgege- ben: „Das PDF-Dokument enthält keine QES im vordefinierten QES-Feld“.
+Sollte das Signature Dictionary nicht vorhanden sein, wird die Fehlermeldung ausgege-ben: „Das PDF-Dokument enthält keine QES im vordefinierten QES-Feld“.
 
-Des Weiteren prüft das Prüfmodul, ob die QES hinsichtlich der Integrität des Dokumen- tes unverändert ist. Sollte die Prüfung fehlerhaft sein, wird die Meldung ausgegeben:  „Das Dokument wurde nach dem Aufbringen der elektronischen Signatur geändert. Die  Integrität des Dokumentes wurde nach dem Aufbringen der Signatur gebrochen.“
+Des Weiteren prüft das Prüfmodul, ob die QES hinsichtlich der Integrität des Dokumen-tes unverändert ist. Sollte die Prüfung fehlerhaft sein, wird die Meldung ausgegeben:  „Das Dokument wurde nach dem Aufbringen der elektronischen Signatur geändert. Die  Integrität des Dokumentes wurde nach dem Aufbringen der Signatur gebrochen.“
 
 ### 5.1.2 Prüffälle für Muster 10A
 
 Liegt ein Muster 10A vor, führt das Prüfmodul nachfolgend genannte Prüffälle aus.
 
-Für ein Muster 10A führt das Prüfmodul folgende Prüfungen durch, die bereits für Mus- ter 10 beschrieben wurden:
+Für ein Muster 10A führt das Prüfmodul folgende Prüfungen durch, die bereits für Mus-ter 10 beschrieben wurden:
 
 -  Aufbau der Kostenträgerkennung (Abschnitt: 5.1.1.1
 -  BSNR-Prüfung (Abschnitt: 5.1.1.2

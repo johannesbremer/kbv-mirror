@@ -86,7 +86,7 @@ Seite 4 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformati
 
 Die Schlüsselwörter "**MUSS**", "**KANN**" sowie "**DARF NICHT**" und "**DARF KEIN(E)**" sind gezielt eingesetzt, um  die Verbindlichkeit der Anforderungen anzugeben.
 
-**MUSS**: Eine **MUSS**-Anforderung ist eine Anforderung, die vom Software-System in jedem Fall umgesetzt  werden muss. Es gibt keinen Ermessensspielraum. **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese  Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software- Systeme optional ist. **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige  Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen -  keinen Ermessensspielraum.
+**MUSS**: Eine **MUSS**-Anforderung ist eine Anforderung, die vom Software-System in jedem Fall umgesetzt  werden muss. Es gibt keinen Ermessensspielraum. **KANN**: Eine **KANN**-Anforderung ist eine optionale Anforderung. Dem Softwarehersteller steht es frei, diese  Anforderung in seinem Software-System umzusetzen oder nicht. Das Software-System muss jedoch  darauf vorbereitet sein und damit zurechtkommen, dass diese Anforderung auch für andere Software-Systeme optional ist. **DARF NICHT DARF KEIN(E)**: Diese Anforderungen definieren unerlaubte, also nicht zulässige  Sachverhalte. Bei der Umsetzung durch die Softwarehersteller gibt es – wie bei den MUSS-Anforderungen - keinen Ermessensspielraum.
 
 Seite 5 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 
@@ -159,21 +159,19 @@ Das Software-System **MUSS** das Ergebnis des Datenabrufs (Response) auf Erfolg 
 
 **EREIGNIS**
 
-Erfolg A Response enthält  Daten (Bundle  enthält  Appointment- bzw.  Provenance- Suchergebnisse)
+Erfolg A Response enthält  Daten (Bundle  enthält  Appointment- bzw.  Provenance-Suchergebnisse)
 
 Erfolg B Response enthält  keine Daten (Bundle  enthält keine  Appointment- bzw.
 
-Miss- erfolg
+Provenance-Suchergebnisse)
+
+Miss- Response enthält  erfolg Operation Outcome  mit einem  Fehlerstatus
 
 Anmerkungen:
 
 Es wird empfohlen, statt der Anzeige von Dialogfenstern, die den Anwender in seiner Arbeit stören würden,  Statusanzeigen zu nutzen, um den Erfolgs- oder Fehlerfall des automatischen Abrufs darzustellen. An  einer für den Anwender gut sichtbaren und geeigneten Stelle in der Software sollte die entsprechende  Information möglichst farblich sinnvoll (z.B. rot = Fehlerfall, grün = Erfolgsfall) in Kurzform dargestellt
 
 Seite 8 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
-
-Provenance- Suchergebnisse)
-
-Response enthält  Operation Outcome  mit einem  Fehlerstatus
 
 den Zeitpunkt für den Parameter "recorded"
 

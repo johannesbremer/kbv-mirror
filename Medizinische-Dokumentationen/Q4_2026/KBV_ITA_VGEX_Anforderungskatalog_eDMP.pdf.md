@@ -1256,7 +1256,7 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 **Akzeptanzkriterium:**
 
-- 1. Dem Anwender muss bei dem Parameter „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht - Opioidanalgetika“ der folgende Text angezeigt werden, ohne den Workflow zu unterbrechen:
+- 1. Dem Anwender muss bei dem Parameter „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht -Opioidanalgetika“ der folgende Text angezeigt werden, ohne den Workflow zu unterbrechen:
 
 *„Hier ist auch die Selbstmedikation zu dokumentieren.“*
 
@@ -1301,11 +1301,13 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 - 2. Falls eine Folgedokumentation erstellt wird, muss das System nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ die Differenz zum Wert dieses Parameters aus der  vorhergehenden verfügbaren Dokumentation berechnen.
 
-⁦ܑ⁩۲܎܎܍⁦ܚ܍ܖܢ⁩
+ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 (
+
+܅𝐖𝐖𝐖𝐖ܜ
+
+⁦ܑ⁩۲܎܎܍⁦ܚ܍ܖܢ ܅𝐖𝐖𝐖𝐖ܜ⁩
 
 - 3. Falls eine Folgedokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert und vom  berechneten Differenzwert der folgende Text als Hinweis zur Anzeige gebracht werden, ohne d en  Workflow zu unterbrechen:
-
-܅𝐖𝐖𝐖𝐖ܜ ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܅𝐖𝐖𝐖𝐖ܜ
 
 ```
 -
@@ -1321,7 +1323,7 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
 
-Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 (
 
 
 ---
@@ -1374,7 +1376,7 @@ Relevante Verbesserung zur letzten Dokumentation“ Keine relevante Veränderung
 | >=2,6 bis < 3,2 | „Aktuell niedrige Krankheitsaktivität“ |
 | >=3,2 bis  > 5,1 | „Aktuell moderate Krankheitsaktivität“ |
 
-Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle Krankheitsaktivität – DAS- 28-Wert)
+Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle Krankheitsaktivität – DAS-28-Wert)
 
 Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik – PHQ-9 Summenwert) Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depression unterstützen. KONDITIONALE PFLICHTFUNKTION EDMP KP2-01 Nähere Parameter-Erläuterungen bei dem eDMP Rheumatoide Arthritis  Parametern nähere Erläuterungen zur Verfügung gestellt werden. Begründung:  Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unterstützt werden. 1. Bei jeder Erstdokumentation muss das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom eingegebenen Parame terwert ab: Aktueller Wert im Parameter „Aktuelle Krankheitsaktivität - DAS-28-Wert“  < 2,6 <=5,1 „Aktuell moderate Krankheitsaktivität“ „Aktuell hohe Krankheitsaktivität“- **2.** Falls eine Folgedokumentation erstellt wird, muss das System nach der Erfassung des Parameters  „Aktuelle Krankheitsaktivität - DAS-28-Wert“ die Differenz zum Wert dieses Parameters aus der  vorhergehenden verfügbaren Dokumentation berechnen.
 
@@ -1385,7 +1387,15 @@ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptoma
 
 ---
 
+ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 (
+
+܅𝐖𝐖𝐖𝐖ܜ
+
 ⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲
+
+(𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚
+
+܅𝐖𝐖𝐖𝐖ܜ
 
 - **3.** Falls eine Folgedokumentation erstellt wird, muss das System dem Anwender nach der Erfassung des  Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den  Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom aktuellen Parameterwert und vom  berechneten Differenzwert ab:
 
@@ -1394,19 +1404,33 @@ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptoma
 
 < 2,6
 
->= 2,6 bis < 3,2
+*Nicht relevant für den*  *anzuzeigenden Text*
 
 >= 2,6 bis < 3,2
+
+> 0,6
+
+>= 2,6 bis < 3,2
+
+<= 0,6
 
 >= 3,2 bis <=5,1
 
+> 0,6
+
 >= 3,2 bis <= 5,1
 
-> 5,1
+<= 0,6
 
 > 5,1
 
-Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthritis (Aktuelle Krankheitsaktivität – DAS- 28-Wert)
+> 1,2
+
+> 5,1
+
+<= 1,2
+
+Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthritis (Aktuelle Krankheitsaktivität – DAS-28-Wert)
 
 **Bedingung**
 
@@ -1419,24 +1443,6 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Rheuma
 Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz zu spezifischen  Parametern nähere Erläuterungen zur Verfügung gestellt werden.
 
 **Begründung:**
-
-܅𝐖𝐖𝐖𝐖ܜ ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚
-
-܅𝐖𝐖𝐖𝐖ܜ
-
-*Nicht relevant für den*  *anzuzeigenden Text*
-
-> 0,6
-
-<= 0,6
-
-> 0,6
-
-<= 0,6
-
-> 1,2
-
-<= 1,2
 
 ܑ𝐃𝐃ܖ
 
@@ -1639,17 +1645,17 @@ Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 *2*
 
-܅𝐖𝐖𝐖𝐖 ܜ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܅𝐖𝐖𝐖𝐖ܜ ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯
+܅𝐖𝐖𝐖𝐖 ܜ (𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܅𝐖𝐖𝐖𝐖ܜ (ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯
 
 - **Tabelle 22**) den Body-Mass-Index (BMI) berechnen.
 
-𝐤𝐤𝐤𝐤
+𝐤𝐤𝐤𝐤 (
 
 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫
 
 ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
 
-)²𝐦𝐦𝐞𝐞öß
+)²𝐦𝐦 (𝐞𝐞öß
 
 ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
 
@@ -1657,7 +1663,7 @@ Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
 
-ܑ𝐃𝐃ܖ
+) ܑ𝐃𝐃ܖ
 
 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
 
@@ -1676,23 +1682,9 @@ Anzuzeigender Text
 
 ---
 
-⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚
+)𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄⁧۳ ⁩𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚( ܜ𝐖𝐖𝐖𝐖܅ −)ܖ𝐃𝐃ܑ𝐃𝐃𝐃𝐃𝐃𝐃ܖ܍ܕܝܓ𝐃𝐃⁧۲ ⁩𝐚𝐚ܔܔ𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚( ܜ 𝐖𝐖𝐖𝐖܅=𝐃𝐃ܚ܍𝐃𝐃⁧۲⁩ܑ܎܎܍ܚ܍ܖܢ
 
-܅𝐖𝐖𝐖𝐖ܜ
-
-ܑ𝐃𝐃ܖ
-
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
-
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
-
-܅𝐖𝐖𝐖𝐖 ܜ
-
-⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
-
-⁦܅𝐖𝐖𝐖𝐖ܜ % =𝐢𝐢𝐢𝐢 ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
-
-⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚
+⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚 (
 
 − ܅𝐖𝐖𝐖𝐖ܜ
 
@@ -1702,7 +1694,13 @@ Anzuzeigender Text
 
 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
-⁧∗ ૚૙૙  ۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚
+܅𝐖𝐖𝐖𝐖ܜ
+
+∗ ૚૙૙
+
+% =𝐢𝐢𝐢𝐢 ܢܖ܍ܚ܍܎܎ܑ⁧۲⁩𝐃𝐃܍ܚ𝐃𝐃
+
+⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚 (
 
 ܅𝐖𝐖𝐖𝐖ܜ
 
@@ -1792,13 +1790,13 @@ Für die verwendeten Parameter gilt:
 
 ۰ۻ۷
 
-𝐤𝐤𝐤𝐤
+𝐤𝐤𝐤𝐤 (
 
 ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫
 
 ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
 
-𝐦𝐦𝐞𝐞öß
+)) 𝐦𝐦𝐞𝐞öß
 
 ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
 
@@ -2010,19 +2008,25 @@ Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in 
 
 - 2. Das System muss in jeder Folgedokumentation die Differenz des Wertes BMI-SDS in der aktuellen  Dokumentation zum Wert des BMI-SDS aus der vorhergehenden verfügbaren Dokumentation nach der  folgenden Formel berechnen
 
-⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃 ܅𝐖𝐖𝐖𝐖ܜ ܅𝐖𝐖𝐖𝐖ܜ⁩
+ܑ𝐃𝐃ܖ
 
 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 (
 
-ܑ𝐃𝐃ܖ
+܅𝐖𝐖𝐖𝐖ܜ
+
+⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
 
 ܑ𝐃𝐃ܖ
 
 ⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
 
 ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠ܞ𝐯𝐯𝐯𝐯𝐯𝐯 ܌𝐯𝐯
+
+ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 (
+
+܅𝐖𝐖𝐖𝐖ܜ
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -2037,19 +2041,7 @@ Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 - b) Falls die Berechnung nicht durchführbar ist, weil eine der für die Berechnung notwendigen  Dokumentationen nicht zur Verfügung steht oder gefunden werden kann, wird das Akzeptanzkriterium  2 nicht geprüft und angezeigt.
 - 3. Das System muss in jeder Folgedokumentation die Differenz des Wertes des BMI-SDS aus der aktuellen  Dokumentation zum Wert des BMI-SDS aus der Erstdokumentation nach der folgenden Formel  berechnen, sofern die Erstdokumentation im System vorliegt.
 
-⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚
-
-܅𝐖𝐖𝐖𝐖ܜ
-
-ܑ𝐃𝐃ܖ
-
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
-
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
-
-܅𝐖𝐖𝐖𝐖 ܜ
-
-⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
+)𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄⁧۳ ⁩𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚( ܜ𝐖𝐖𝐖𝐖܅ −)ܖ𝐃𝐃ܑ𝐃𝐃𝐃𝐃𝐃𝐃ܖ܍ܕܝܓ𝐃𝐃⁧۲ ⁩𝐚𝐚ܔܔ𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚( ܜ 𝐖𝐖𝐖𝐖܅=𝐃𝐃ܚ܍𝐃𝐃⁧۲⁩ܑ܎܎܍ܚ܍ܖܢ
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -2533,7 +2525,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chroni
 |---|---|
 | **KP1-78** | Übernahme von Angaben des CPG-Fragebogens in die Erst- und Folgedokumentation |
 
-Das System ermöglicht die Übernahme der Ergebnisse der Fragen 3 und 5 des CPG -Fragebogens in die Erst-  und gegebenenfalls in die Folgedokumentation.
+Das System ermöglicht die Übernahme der Ergebnisse der Fragen 3 und 5 des CPG -Fragebogens in die Erst- und gegebenenfalls in die Folgedokumentation.
 
 **Begründung:**
 
@@ -2541,7 +2533,7 @@ Die doppelte Eingabe von bereits erfassten Daten soll verhindert werden.
 
 **Akzeptanzkriterium:**
 
-- 1. Das System übernimmt die Ergebniswerte der Fragen 3 und 5 des CPG-Fragebogens wie folgt in die Erst-  und gegebenenfalls in die Folgedokumentation:
+- 1. Das System übernimmt die Ergebniswerte der Fragen 3 und 5 des CPG-Fragebogens wie folgt in die Erst- und gegebenenfalls in die Folgedokumentation:
 - a) Das Ergebnis der „Frage 3 des CPG-Fragebogens“ in den Parameter „CPG Item 3: Durchschnittliche  Stärke der Kreuzschmerzen in den letzten drei Monaten“
 - b) Das Ergebnis der „Frage 5 des CPG-Fragebogens“ in den Parameter „CPG Item 5:  Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen,  Einkaufen etc.) in den letzten drei Monaten“
 
@@ -2563,7 +2555,7 @@ Der Anwender soll die Möglichkeit erhalten, den im eDMP Depression verpflichten
 
 **Akzeptanzkriterium:**
 
-Das System muss dem Anwender die Möglichkeit bieten, den PHQ-9-Fragebogen [KBV_ITA_VHEX_PHQ-9- Fragebogen] im Rahmen der Erst- und/oder Folgedokumentation vollständig auszudrucken.
+Das System muss dem Anwender die Möglichkeit bieten, den PHQ-9-Fragebogen [KBV_ITA_VHEX_PHQ-9-Fragebogen] im Rahmen der Erst- und/oder Folgedokumentation vollständig auszudrucken.
 
 **Bedingung:**
 
@@ -2680,7 +2672,7 @@ Der Anwender soll die Möglichkeit erhalten, das im eDMP Rheumatoide Arthritis v
 **Akzeptanzkriterium:**
 
 - 1. Das System muss dem Anwender die Möglichkeit bieten, den DAS-28 [DAS-28 Print] im Rahmen der  Erst- und Folgedokumentation vollständig auszudrucken.
-- 2. Der Ausdruck muss es dem Anwender ermöglichen, die vier Parameter zur Berechnung des DAS -28- Scores einzutragen:
+- 2. Der Ausdruck muss es dem Anwender ermöglichen, die vier Parameter zur Berechnung des DAS -28-Scores einzutragen:
 - a) Anzahl geschwollener Gelenke (sw28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - b) Anzahl druckschmerzhafter Gelenke (t28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - c) Subjektive Krankheitsaktivität (VAS): Einschätzung der Krankheitsaktivität in den letzten sieben Tagen  durch die Patientin oder den Patienten auf einer visuellen Analogskala von 0 (keine  Krankheitsaktivität) bis 100 (stärkst mögliche Krankheitsaktivität).
@@ -2940,7 +2932,7 @@ EXT_ITA_VGEX_Asthma_Kontrolle
 |---|---|
 | **P1-82** | Prüfung der Formatierung von eingegebenen numerischen Werten |
 
-Die Eingaben von numerischen Werten des Anwenders müssen systemseitig auf die in den Plausibilitäts- richtlinien vorgegebenen Formatvorgaben geprüft werden. Diese Überprüfung soll direkt bei der Eingabe  erfolgen. Ein nicht den Vorgaben entsprechendes Eingabeformat eines numerischen Wertes, dessen Größe  den Vorgaben entspricht, muss durch das System automatisch verhindert oder korrigiert werden.
+Die Eingaben von numerischen Werten des Anwenders müssen systemseitig auf die in den Plausibilitäts-richtlinien vorgegebenen Formatvorgaben geprüft werden. Diese Überprüfung soll direkt bei der Eingabe  erfolgen. Ein nicht den Vorgaben entsprechendes Eingabeformat eines numerischen Wertes, dessen Größe  den Vorgaben entspricht, muss durch das System automatisch verhindert oder korrigiert werden.
 
 **Begründung:**
 
@@ -3028,7 +3020,7 @@ KBV_ITA_VGEX_Schnittstelle_eHeader] nach dem Versand zu einer Datenannahmestelle
 
 - 1. Die DMP-Fallnummer muss patientenbezogen vergeben werden. Sie darf innerhalb des Systems nicht  mehr geändert werden, wenn eine Teilnahmeerklärung oder eine elektronische Dokumentation mit  dieser patientenbezogenen Fallnummer versendet worden ist. Die patientenbezogene DMP-Fallnummer  ist beizubehalten, auch wenn sich bei einem Patienten der Kostenträger, der Wohnort, der  Versicherungsstatus oder der Name ändert.
 - 2. Unterläuft dem Anwender bei der Erstanlage einer DMP-Fallnummer ein Fehler und sind bisher keine  elektronischen Dokumentationen mit dieser Fallnummer versendet worden, so muss eine Korrektur der  DMP-Fallnummer möglich sein, wenn der Anwender dies wünscht.
-- 3. Systemseitig kann eine automatische Vergabe der gesamten DMP-Fallnummer oder für Teile der DMP- Fallnummer erfolgen. Der Anwender muss die Möglichkeiten haben, Änderungen an der DMP- Fallnummer vorzunehmen.
+- 3. Systemseitig kann eine automatische Vergabe der gesamten DMP-Fallnummer oder für Teile der DMP-Fallnummer erfolgen. Der Anwender muss die Möglichkeiten haben, Änderungen an der DMP-Fallnummer vorzunehmen.
 - 4. Bei der erneuten Einschreibung eines vorher aus dem DMP ausgeschriebenen Patienten muss diesem  die zuvor verwendete DMP-Fallnummer zugewiesen werden.
 - 5. Gibt der Anwender eine DMP-Fallnummer ein, die systemseitig bereits für einen anderen Patienten  existiert, so darf diese Nummer nicht übernommen werden und das System muss mit einem  entsprechenden Fehlerhinweis den Anwender auffordern eine nichtexistierende DMP-Fallnummer  einzugeben.
 
@@ -3395,7 +3387,7 @@ Mithilfe dieser Anforderung soll sichergestellt werden, dass die aus dem System 
 - 1. Das System muss dem Anwender ermöglichen, die Teilnahmeerklärung zu drucken.
 - 2. Das System muss beim Ausdruck der Teilnahmeerklärung stets die aktuell veröffentlichte Vorlage  inklusive der Abmaße berücksichtigen und vollständig ausdrucken.
 - 3. Die Bedruckung des Personalienfeldes erfolgt stets nach den Bedruckungsvorschriften des Kapitels „2.3  Bedruckung des Personalienfeldes“ aus dem Dokument „Anwendung der eGK - Technische Anlage zu  Anlage 4a (BMV-Ä)“ [KBV_ITA_VGEX_Mapping_KVK.pdf]
-- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2 -210, P2- 220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
+- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2 -210, P2-220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3509,7 +3501,7 @@ Die Dokumentationen der Indikation Asthma, COPD, Diabetes mellitus Typ 1, Diabet
 |---|---|
 | **P4-30** | Einsatz Kryptomodul (XKM) |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Schlüssels zur DMP - Datenverschlüsselung (Oeffentlich_DA_Vxy.key) zu verschlüsseln. Welche Form der Datenübertragung  gewählt wird, ist für den Einsatz des XKM nicht relevant. Es muss bei allen Datenübertragungen eingesetzt  werden. Für nähere Erläuterungen zur Funktion und Anwendung des XKM ist in
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Schlüssels zur DMP -Datenverschlüsselung (Oeffentlich_DA_Vxy.key) zu verschlüsseln. Welche Form der Datenübertragung  gewählt wird, ist für den Einsatz des XKM nicht relevant. Es muss bei allen Datenübertragungen eingesetzt  werden. Für nähere Erläuterungen zur Funktion und Anwendung des XKM ist in
 
 KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzulesen.
 
@@ -3534,7 +3526,7 @@ Um die korrekte Zuordnung und Vollständigkeit der übermittelten Dokumente sich
 
 **Bedingung:**
 
-Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP - Dokumentation auf Datenträger unterstützen.
+Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP -Dokumentation auf Datenträger unterstützen.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3557,7 +3549,7 @@ Um die korrekte Zuordnung und Vollständigkeit der übermittelten Dokumente sich
 
 **Bedingung:**
 
-Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP - Dokumentationen auf Datenträger unterstützen
+Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP -Dokumentationen auf Datenträger unterstützen
 
 **2.4.5** **Übertragungsweg**
 
@@ -3615,7 +3607,7 @@ Die Software muss alle definierten Inhalte zum Barcode der indikationsübergreif
 
 **Begründung:**
 
-Es dürfen nur die Informationen im Barcode codiert werden, die auch auf der TE/EWE aufgedruckt wurden  und in der entsprechenden Satztabelle als Barcode-Inhalt definiert sind. Zusätzlich muss die DMP- Fallnummer in den Barcode übernommen werden.
+Es dürfen nur die Informationen im Barcode codiert werden, die auch auf der TE/EWE aufgedruckt wurden  und in der entsprechenden Satztabelle als Barcode-Inhalt definiert sind. Zusätzlich muss die DMP-Fallnummer in den Barcode übernommen werden.
 
 **Akzeptanzkriterium:**
 
@@ -3634,9 +3626,9 @@ EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend]) für die Datenstelle aufdrucken (sie
 
 ### 3.2.1 Allgemeine Informationen Barcode
 
-Der Barcode enthält die lesbaren Daten der TE/EWE und darüber hinaus noch die Information der „DMP - Fallnummer“. Entgegen den Vorgaben des Personalienfeldes werden die Informationen in den Barcode  ungekürzt erfasst/abgebildet.
+Der Barcode enthält die lesbaren Daten der TE/EWE und darüber hinaus noch die Information der „DMP -Fallnummer“. Entgegen den Vorgaben des Personalienfeldes werden die Informationen in den Barcode  ungekürzt erfasst/abgebildet.
 
-Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufgedruckten  Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die Formularcode - ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte  Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks der TE/EWE.
+Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufgedruckten  Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die Formularcode -ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte  Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks der TE/EWE.
 
 Um den Barcode platzsparend generieren zu können, wird für den Barcode das dynamische Format  verwendet. Die einzelnen Datenfelder werden dabei mit dem Feldtrenner TAB getrennt.
 
@@ -3861,7 +3853,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt dem Anwender eine Funktion zur Verfügung, um neue Datenannahmestellen - Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  aufzunehmen.
+- 1. Die Software stellt dem Anwender eine Funktion zur Verfügung, um neue Datenannahmestellen -Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  aufzunehmen.
 - 2. Die Software stellt dem Anwender eine Funktion zur Verfügung, bestehende Datenannahmestellen Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  anzupassen.
 - 3. Die nach den Akzeptanzkriterien 1 und 2 durchgeführten Änderungen bleiben bis zur Anpassung der  Datengrundlage auf Grundlage einer aktualisierten SDDA erhalten.
 

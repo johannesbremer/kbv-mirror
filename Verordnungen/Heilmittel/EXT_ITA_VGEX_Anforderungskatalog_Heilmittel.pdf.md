@@ -46,49 +46,45 @@ Anforderungskatalogs nach § 73 SGB V für die Verordnung von Richtlinie des G-B
 
 # Inhaltsverzeichnis
 
-### Dokumentenhistorie
+### Dokumentenhistorie 2
 
-### Inhaltsverzeichnis
+### Inhaltsverzeichnis 3
 
-1. Allgemeines
+1. Allgemeines 4
 
-1.1 Zielbestimmung ................................................................................................
+1.1
 
-1.2 Funktionsarten ................................................................................................................................
+|  | Zielbestimmung | ............................................................................................................................... 4 |
+|---|---|---|
+|  | Funktionsarten................................................................................................................................. | 4 |
+| Allgemeine | Anforderungen an die | Software.................................................................................... 5 |
+|  | Einzubindende Stammdateien | 7 |
 
-1.3 Allgemeine Anforderungen an die Software ................................................................
+1.2
 
-2. Einzubindende Stammdateien
+1.3
 
-2.1 Heilmittel-Stammdatei ................................................................................................
+2.
 
-2.2 ICD-10-GM-Stammdatei der KBV ................................................................................................
+2.1 Heilmittel-Stammdatei ..................................................................................................................... 7
+
+2.2 ICD-10-GM-Stammdatei der KBV ................................................................................................... 9
 
 2.3 BVB-/LHM- Stammdatei ................................................................................................................ 10
 
 2.4 Blanko-Verordnungs-Stammdatei ................................................................................................. 12
 
-3. Anforderungen an die Verordnung von Heilmitteln
+3. Anforderungen an die Verordnung von Heilmitteln 13
 
 3.1 Dokumentation im Rahmen der Heilmittelverordnung .................................................................. 13
 
 3.2 Anforderungen an die Heilmittelverordnung .................................................................................. 16
 
-4. Statistik- und Controlling-Funktionen
-5. Glossar
-6. Referenzierte Dokumente 2  3  4
+4. Statistik- und Controlling-Funktionen 47
+5. Glossar 51
+6. Referenzierte Dokumente 53
 
-............................... 4
-
-. 4 .................... 5  7
-
-..................... 7
-
-... 9
-
-13
-
-47  51  53
+Allgemeine Anforderungen an die Software 
 
 
 ---
@@ -250,7 +246,7 @@ Dem Anwender muss die Möglichkeit gegeben werden, sich in der Software die aktu
 
 **Begründung:**
 
-Dem Anwender muss die Möglichkeit gegeben werden, jederzeit auf alle Informationen der Heilmittel - Richtlinie, zugreifen zu können.
+Dem Anwender muss die Möglichkeit gegeben werden, jederzeit auf alle Informationen der Heilmittel -Richtlinie, zugreifen zu können.
 
 **Akzeptanzkriterien:**
 
@@ -298,13 +294,13 @@ Die BVB-/LHM-Stammdatei auf Basis der Schnittstellenbeschreibung der SDHMA enth�
 
 Die BVB-/LHM-Stammdatei wird nach Benehmens-Herstellung mit dem GKV-SV durch die KBV zur  Verfügung gestellt. Im Rahmen der Herstellung des Benehmens wird die Ri chtigkeit und Vollständigkeit  der BVB-/LHM-Stammdatei vom GKV-SV geprüft.
 
-Darüber hinaus können regionale besondere Verordnungsbedarfe, deren Struktur in der BVB-/LHM- Stammdatei abbildbar ist, aufgenommen werden. Bei den regionalen besonderen Verordnungsbedarfen  erfolgt die Aktualisierung nach Mitteilung der jeweiligen Kassenärztlichen Vereinigung an die KBV. Die  Ergänzungen sind durch die KBV in die BVB -/LHM-Stammdatei einzupflegen. Eine weitere Benehmens- Herstellung erfolgt nicht.
+Darüber hinaus können regionale besondere Verordnungsbedarfe, deren Struktur in der BVB-/LHM-Stammdatei abbildbar ist, aufgenommen werden. Bei den regionalen besonderen Verordnungsbedarfen  erfolgt die Aktualisierung nach Mitteilung der jeweiligen Kassenärztlichen Vereinigung an die KBV. Die  Ergänzungen sind durch die KBV in die BVB -/LHM-Stammdatei einzupflegen. Eine weitere Benehmens-Herstellung erfolgt nicht.
 
 | PFLICHTFUNKTION | |
 |---|---|
 | **P2-06** | **Einsatzpflicht und Unveränderbarkeit der BVB-/LHM-Stammdatei** |
 
-Es besteht die Pflicht zur Verwendung der gültigen BVB-/LHM-Stammdatei. Die Datensätze der BVB-/LHM- Stammdatei dürfen inhaltlich nicht verändert werden.
+Es besteht die Pflicht zur Verwendung der gültigen BVB-/LHM-Stammdatei. Die Datensätze der BVB-/LHM-Stammdatei dürfen inhaltlich nicht verändert werden.
 
 **Begründung:**
 
@@ -360,7 +356,7 @@ B. in Form
 
 ## 2.4 Blanko-Verordnungs-Stammdatei
 
-Die Blanko-Verordnungs-Stammdatei auf Basis der Schnittstellenbeschreibung [SDBV] wird durch den  GKV-SV veröffentlicht. Die Blanko-Verordnungs-Stammdatei beinhaltet Informationen bei welchen  Indikationen eine Verordnung nach § 13a der HeilM-RL ausgestellt werden kann. Die Blanko-Verordnungs- Stammdatei ist in der jeweils gültigen Version zu verwenden. Die Aktualisierung und Pflege dieser Daten  erfolgt durch den GKV-SV.
+Die Blanko-Verordnungs-Stammdatei auf Basis der Schnittstellenbeschreibung [SDBV] wird durch den  GKV-SV veröffentlicht. Die Blanko-Verordnungs-Stammdatei beinhaltet Informationen bei welchen  Indikationen eine Verordnung nach § 13a der HeilM-RL ausgestellt werden kann. Die Blanko-Verordnungs-Stammdatei ist in der jeweils gültigen Version zu verwenden. Die Aktualisierung und Pflege dieser Daten  erfolgt durch den GKV-SV.
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -423,7 +419,7 @@ Der Anwender muss die Möglichkeit haben, individuelle Genehmigungen eines langf
 - SDHM
 - XML-Element  ../diagnosegruppe/heilmittelverordnung/standardisierte_heilmittel_kombination/name/@V)  gemäß der ausgewählten Diagnosegruppe entsprechen.
 - d. Datum gültig bis (Gültigkeitsdatum der Genehmigung mit der Option „unbefristet gültig
-- e. Kostenträgerkennung des genehmigenden Kostenträgers entsprechend dem KVDT-Referenz- Design gemäß Technischer Anlage zur Anlage 4a (BMV-Ä) [KBV_ITA_VGEX_Mapping_KVK]
+- e. Kostenträgerkennung des genehmigenden Kostenträgers entsprechend dem KVDT-Referenz-Design gemäß Technischer Anlage zur Anlage 4a (BMV-Ä) [KBV_ITA_VGEX_Mapping_KVK]
 - (2) Bei der Erfassung des Kostenträgers muss die Software die Kostenträgerkennung aus den aktuellen  Versichertendaten vorbelegen.
 - (3) Darüber hinaus muss dem Anwender die Möglichkeit gegeben werden, weitere Angaben per Freitext  zu hinterlegen und zu bearbeiten.
 - (4) Die Software bewertet bei Zugriff auf die Genehmigungsdaten automatisch die Gültigkeit der  Genehmigung in Abhängigkeit des Gültigkeitsdatums der Genehmigung.
@@ -548,7 +544,7 @@ Die Heilmittel-Richtlinie des G-BA unterscheidet verschiedene Heilmittelbereiche
 - (1) Der Anwender muss im Rahmen der Verordnung genau einen Heilmittelbereich auswählen und dabei  zwischen folgenden Optionen analog des Kapitelnamens in der Heilmittel-Stammdatei wählen  können (SDHM XML-Element ../kapitel/@V):
 -  Physiotherapie [„I. Maßnahmen der Physiotherapie
 -  Podologische Therapie [„II. Maßnahmen der Podologischen Therapie“
--  Stimm-, Sprech-, Sprach- und Schlucktherapie [„III. Maßnahmen der Stimm-, Sprech-, Sprach-  und Schlucktherapie“
+-  Stimm-, Sprech-, Sprach- und Schlucktherapie [„III. Maßnahmen der Stimm-, Sprech-, Sprach- und Schlucktherapie“
 -  Ergotherapie [„IV. Maßnahmen der Ergotherapie“
 -  Ernährungstherapie [„V. Maßnahmen der Ernährungstherapie“
 
@@ -589,16 +585,16 @@ Auf Grund der Neufassung der Heilmittel-Richtlinie gültig zum 1. Oktober 2020 h
 |---|---|
 | **P3-06** | **ICD-10-Code** |
 
-Dem Anwender muss die Möglichkeit gegeben werden, im Feld „ICD-10-Code“einen gültigen ICD-10-GM- Code anzugeben.
+Dem Anwender muss die Möglichkeit gegeben werden, im Feld „ICD-10-Code“einen gültigen ICD-10-GM-Code anzugeben.
 
 **Begründung:**
 
-Der Anwender muss einen gültigen ICD-10-GM-Code auf der Heilmittelverordnung angeben, außer in  begründeten Ausnahmefällen bspw. im Rahmen eines Hausbesuchs. Die Eingabe eines weiteren ICD-10- GM-Codes ist in der Regel nur dann notwendig, wenn ein besonderer Verordnungsbedarf geltend  gemacht werden soll.
+Der Anwender muss einen gültigen ICD-10-GM-Code auf der Heilmittelverordnung angeben, außer in  begründeten Ausnahmefällen bspw. im Rahmen eines Hausbesuchs. Die Eingabe eines weiteren ICD-10-GM-Codes ist in der Regel nur dann notwendig, wenn ein besonderer Verordnungsbedarf geltend  gemacht werden soll.
 
 **Akzeptanzkriterien:**
 
 - (1) Der Anwender muss in der Software die Möglichkeit haben , einen ICD-10-GM-Code in den Feldern  „ICD-10-Code“ endstellig anzugeben.
-- (2) Die Eingabe der ICD-10-GM-Codes muss entweder manuell, mittels Übernahme aus der ICD-10-GM- Stammdatei der KBV (SDICD XML-Element ../diagnose/icd_code/@V) oder aus der Patientenakte  möglich sein.
+- (2) Die Eingabe der ICD-10-GM-Codes muss entweder manuell, mittels Übernahme aus der ICD-10-GM-Stammdatei der KBV (SDICD XML-Element ../diagnose/icd_code/@V) oder aus der Patientenakte  möglich sein.
 - a. Die eingegebenen ICD -10-GM-Codes müssen den Werten der ICD-10-GM-Stammdatei der KBV  (SDICD XML-Element ../diagnose/icd_code/@V) entsprechen.
 - (3) Im Fall der Übernahme eines ICD-10-GM-Codes aus der ICD-10-GM-Stammdatei, ist die Übernahme  des ICD-10-GM-Codes in die Patientenakte zu ermöglichen.
 - (4) Der Anwender muss in der Software die Möglichkeit haben , einen zweiten ICD -10-GM-Code in das  dafür vorgesehene Feld einzugeben.
@@ -611,7 +607,7 @@ BVB-/LHM-Stammdatei (SDHMA
 
 XML-Element  ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V
 
-bzw.  ../verordnungsbedarf/icd_code/@V) zur Übernahme an, welche in Kombination mit dem ersten  eingetragenen ICD-10-GM-Code einen besonderen Verordnungsbedarf definieren (SDHMA XML- Element
+bzw.  ../verordnungsbedarf/icd_code/@V) zur Übernahme an, welche in Kombination mit dem ersten  eingetragenen ICD-10-GM-Code einen besonderen Verordnungsbedarf definieren (SDHMA XML-Element
 
 ../verordnungsbedarf/icd_code/@V
 
@@ -620,7 +616,7 @@ bzw.
 
 ---
 
-../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V). Zwei eingetragene ICD-10- GM-Codes definieren in Kombination einen besonderen Verordnungsbedarf, wenn für die gleiche  Dateninstanz eines Versorgungsbedarfs (SDHMA XML-Element ../verordnungsbedarf) einer der  beiden Codes dem primären Code und der andere einem sekundären Code entspricht (SDHMA XML Element
+../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V). Zwei eingetragene ICD-10-GM-Codes definieren in Kombination einen besonderen Verordnungsbedarf, wenn für die gleiche  Dateninstanz eines Versorgungsbedarfs (SDHMA XML-Element ../verordnungsbedarf) einer der  beiden Codes dem primären Code und der andere einem sekundären Code entspricht (SDHMA XML Element
 
 [../verordnungsbedarf/icd_code/@V](mailto:../verordnungsbedarf/icd_code/@V)[](mailto:../verordnungsbedarf/icd_code/@V)
 
@@ -677,7 +673,7 @@ Nach §13 Abs. 2 lit. j. der HeilM-RL ist eine Diagnosegruppe nach Maßgabe des 
 - (2) Wenn ein Heilmittelbereich nach P3-10 ausgewählt ist, dürfen nur die Diagnosegruppen zur Auswahl  gestellt werden, welche dem Heilmittelbereich zugeordnet sind (SDHM XML-Element  ../kapitel/diagnosegruppe/@V).
 - (3) Wenn kein Heilmittelbereich nach P3-10 ausgewählt wurde, werden alle Diagnosegruppen gemäß  Heilmittelstammdatei (SDHM XML-Element ../kapitel/diagnosegruppe/@V) zur Auswahl gestellt.  Nach Auswahl der Diagnosegruppe muss der Heilmittelbereich automatisch gesetzt werden.
 - (4) In der Heilmittelstammdatei kann einer Diagnosegruppe eine zusätzliche Liste von  behandlungsrelevanten Diagnosen zugeordnet sein, die in Form ihre s ICD-10-GM-Codes angegeben  werden (SDHM XML-Element ../diagnosegruppe/erforderliche_diagnosen/icd_code/@V). Die  Existenz mindestens einer dieser Diagnosen beim Verordnungsvorgang ist Voraussetzung für die  Verordnungsfähigkeit eines Heilmittels zu dieser Diagnosegruppe. Die Software muss den Anwender  bei Auswahl der Diagnosegruppe darauf hinweisen, wenn nicht mindestens eine dieser Diagnosen  beim Verordnungsvorgang angegeben worden ist. Eine Beendigung des Verordnungsvorganges ist  nach Hinweisanzeige nicht zuzulassen.
-- (5) Falls die Diagnosegruppe UI1 oder UI2 (Heilmittelbereich Podologische Therapie) (SDHM XML- Element ../kapitel/@V gleich „II. Maßnahmen der Podologischen Therapie“) ausgewählt wurde, ist  folgender Hinweistext anzuzeigen ohne den Workflow zu unterbrechen:
+- (5) Falls die Diagnosegruppe UI1 oder UI2 (Heilmittelbereich Podologische Therapie) (SDHM XML-Element ../kapitel/@V gleich „II. Maßnahmen der Podologischen Therapie“) ausgewählt wurde, ist  folgender Hinweistext anzuzeigen ohne den Workflow zu unterbrechen:
 
 „Sofern mehrere Zehennägel behandelt werden müssen ist pro Zehennagel eine Verordnung  auszustellen.“
 
@@ -706,12 +702,12 @@ Der Anwender hat nach § 13 Abs. 2 lit. l. der HeilM-RL unterschiedliche Möglic
 - XML-Element  ../diagnosegruppe/leitsymptomatik_liste/leitsymptomatik/@V
 - i. Der/die Klartext/e der Leitsymptomatik (SDHM XML-Element  ../diagnosegruppe/leitsymptomatik_liste/leitsymptomatik/@DN) werden automatisch auf  die Verordnung übernommen und per „;“ getrennt
 - ii. Der/die übernommene/n Klartext/e muss/müssen bearbeitet, ergänzt oder gelöscht werden  können.
-- b. Angabe einer „patientenindividuellen Leitsymptomatik“ gemäß der ausgewählten  Diagnosegruppe, wenn diese der ausgewählten Diagnosegruppe zugeordnet ist (SDHM XML- Element [../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V](mailto:../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V)[](mailto:../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V) [gleich true).](mailto:../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V)
+- b. Angabe einer „patientenindividuellen Leitsymptomatik“ gemäß der ausgewählten  Diagnosegruppe, wenn diese der ausgewählten Diagnosegruppe zugeordnet ist (SDHM XML-Element [../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V](mailto:../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V)[](mailto:../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V) [gleich true).](mailto:../diagnosegruppe/leitsymptomatik_liste/patientenindividuelle_leitsymptomatik/@V)
 - i. Wählt der Anwender das Feld patientenindividuelle Leitsymptomatik aus, wird der  Anwender aufgefordert, einen Klartext in Form eines Freitextes anzugeben.
 - ii. Wird im Fall der Auswahl des Feldes „patientenindividuelle Leitsymptomatik“ der Workflow  fortgesetzt obwohl kein Text angegeben wurde, weist die Software auf die Pflicht zur Angabe  hin. Eine Beendigung des Verordnungsvorganges (drucken oder speichern) ist nach  Hinweisanzeige nicht zuzulassen.
 - (2) Buchstabencodierte und patientenindividuelle Leitsymptomatiken, welche nicht der Diagnosegruppe  zugeordnet sind, dürfen nicht für die Verordnung zur Auswahl stehen (SDHM XML-Element  ../diagnosegruppe/leitsymptomatik_liste/leitsymptomatik/
 - (3) Der Anwender muss die Möglichkeit haben, weitere Texte aus der Patientendokumentation, in das  Feld „Leitsymptomatik“ zu übernehmen.
-- (4) Wählt der Anwender weder eine buchstabencodierte Leitsymptomatik gemäß Heilmittel- Stammdatei (SDHM XML-Element ../diagnosegruppe/leitsymptomatik_liste/leitsymptomatik/@V noch eine patientenindividuelle Leitsymptomatik aus, ist der Anwender auf die fehlenden Angaben  hinzuweisen.
+- (4) Wählt der Anwender weder eine buchstabencodierte Leitsymptomatik gemäß Heilmittel-Stammdatei (SDHM XML-Element ../diagnosegruppe/leitsymptomatik_liste/leitsymptomatik/@V noch eine patientenindividuelle Leitsymptomatik aus, ist der Anwender auf die fehlenden Angaben  hinzuweisen.
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -866,7 +862,7 @@ Hinweis: Die Software kann den Anwender darauf hinweisen, dass weitere Texteinga
 - XML-Element  ../vorrangiges_heilmittel_liste/vorrangiges_heilmittel/hoechstalter_jahre/@V) übersteigt oder das  in der Heilmittelstammdatei angegebene Mindestalter (SDHM XML-Element  ../vorrangiges_heilmittel_liste/vorrangiges_heilmittel/mindestalter_jahre/@V) nicht erreicht,  dürfen nicht verordnet werden und daher nicht zur Auswahl stehen.
 - a. Das Alter ist anhand des Verordnungsdatums der jeweiligen Verordnung zu bestimmen.
 - b. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten  die Erfüllung einer Altersbedingung nicht eindeutig bewertet werden kann, erfolgt die Prüfung  nach (7) nicht (z. B. wenn das Geburtsdatum keine Tages - und Monatsangabe besitzt und die  Altersschwelle im aktuellen Kalenderjahr liegt). In diesem Fall müssen dem Anwender auch alle  Heilmittel mit Altersbedingung zur Auswahl stehen
-- (8) Die Verordnung eines Heilmittels kann durch einen notwendigen ICD -10-Code eingeschränkt sein.  Heilmittel dürfen nicht zur Auswahl gemäß Punkt (3) stehen und nicht verordnet werden, wenn der  oder die ICD-10-Code/s nach P3-06 keinem der in der Heilmittelstammdatei angegebenen ICD -10- Codes (SDHM XML-Element ../vorrangiges_heilmittel_liste/vorrangiges_heilmittel/erforderliche_di agnosen/icd_code/@V) entspricht/entsprechen.
+- (8) Die Verordnung eines Heilmittels kann durch einen notwendigen ICD -10-Code eingeschränkt sein.  Heilmittel dürfen nicht zur Auswahl gemäß Punkt (3) stehen und nicht verordnet werden, wenn der  oder die ICD-10-Code/s nach P3-06 keinem der in der Heilmittelstammdatei angegebenen ICD -10-Codes (SDHM XML-Element ../vorrangiges_heilmittel_liste/vorrangiges_heilmittel/erforderliche_di agnosen/icd_code/@V) entspricht/entsprechen.
 - a. Wenn kein erforderlicher ICD-10-Code ausgewählt wurde, ist eine Beendigung des  Verordnungsvorganges (drucken oder speichern) nicht zu ermöglichen. Folgender Hinweistext ist  dabei zusammen mit der Liste der erforderlichen ICD-10-Codes (SDHM XML-Element  ../vorrangiges_heilmittel_liste/vorrangiges_heilmittel/erforderliche_diagnosen/icd_code/@V)  anzuzeigen:
 
 „Nur bei Diagnosen mit folgenden ICD-10-Codes ist die Verordnung des ausgewählten Heilmittels  möglich.“
@@ -902,7 +898,7 @@ Dem Anwender muss die Möglichkeit gegeben werden, für Verordnungen im Rahmen d
 
 **Begründung:**
 
-Gemäß § 12 Abs. 3 der HeilM-RL können Elektrotherapie oder Elektrostimulation oder die Ultraschall - Wärmetherapie auch isoliert verordnet werden, soweit der Heilmittelkatalog diese Maßnahmen  indikationsbezogen als ergänzende Heilmittel vorsieht.
+Gemäß § 12 Abs. 3 der HeilM-RL können Elektrotherapie oder Elektrostimulation oder die Ultraschall -Wärmetherapie auch isoliert verordnet werden, soweit der Heilmittelkatalog diese Maßnahmen  indikationsbezogen als ergänzende Heilmittel vorsieht.
 
 **Akzeptanzkriterien:**
 
@@ -935,7 +931,7 @@ Behandlungsverlauf, über die einzusetzenden Heilmittelmaßnahmen. Die Benennung
 
 **Akzeptanzkriterien:**
 
-- (1) Der Anwender hat die Möglichkeit der Auswahl einer Standardisierten Heilmittelkombination sofern diese gemäß der ausgewählten Diagnosegruppe nach Heilmittel-Stammdatei (SDHM XML- Element
+- (1) Der Anwender hat die Möglichkeit der Auswahl einer Standardisierten Heilmittelkombination sofern diese gemäß der ausgewählten Diagnosegruppe nach Heilmittel-Stammdatei (SDHM XML-Element
 - ../diagnosegruppe/heilmittelverordnung/standardisierte_heilmittel_kombination/)  verordnungsfähig ist.
 - (2) Dabei hat der Anwender die Möglichkeit, nur das Element „Standardisierte Heilmittelkombination“  auszuwählen. Der Name der „Standardisierten Heilmittelkombination“ ist in die erste Zeile  „Heilmittel“ zu schreiben. Dies entspricht dem SDHM XML-Element  ../diagnosegruppe/heilmittelverordnung/standardisierte_heilmittel_kombination/name/@V.
 - (3) Ergänzend hat der Anwender die Möglichkeit, neben dem Element „Standardisierte  Heilmittelkombination“ mindestens drei zur Auswahl stehende vorrangige und/oder ergänzende  Heilmittel der Diagnosegruppe auszuwählen und frei zu kombinieren. Die Anzahl der Heilmittel, die  dabei kombiniert werden, ist nicht begrenzt. Dies entspricht den SDHM XML-Elementen  (../diagnosegruppe/heilmittelverordnung/vorrangiges_heilmittel_liste/vorrangiges_heilmittel/name /@V)
@@ -968,7 +964,7 @@ Auf Grund der Vielzahl an verordnungsfähigen Heilmitteln gibt die Heilmittel-St
 
 **Akzeptanzkriterium:**
 
-- (1) Bei der Darstellung der Auswahllisten der Heilmittel sind die auszuwählenden Heilmittel  entsprechend der nummerischen Priorisierung gemäß der Heilmittel-Stammdatei (SDHM XML- Element
+- (1) Bei der Darstellung der Auswahllisten der Heilmittel sind die auszuwählenden Heilmittel  entsprechend der nummerischen Priorisierung gemäß der Heilmittel-Stammdatei (SDHM XML-Element
 - ../vorrangiges_heilmittel_liste/vorrangiges_heilmittel/reihenfolge/@V
 - bzw.  ../ergaenzendes_heilmittel_liste/ergaenzendes_heilmittel/reihenfolge/@V) für den Anwender  aufsteigend anzuzeigen.
 - (2) Im Fall der „Standardisierten Heilmittelkombination“ sind die vorrangigen Heilmittel den  ergänzenden Heilmitteln in der Auswahlliste voranzustellen.
@@ -1025,7 +1021,7 @@ Die Verordnungsmenge von einer „standardisierten Heilmittelkombination“ und 
 ---
 
 - b. Im Rahmen einer Verordnung, die mindestens einem der folgenden Kriterien entspricht, erfolgt  diese Prüfung nicht (siehe Punkt (10)).
-- 1. Ein ausgewählter ICD-10-GM-Code, die Diagnosegruppe und ein optional vorhandenes  Alterskriterium erfüllen die Kriterien gemäß BVB -/LHM-Stammdatei (SDHMA XML-Element  ../verordnungsbedarf/icd_code/@V entspricht dem ausgewähltem Code und das XML- Element ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V ist nicht  definiert, sowie das XML-Element ../kapitel/diagnosegruppe_liste/diagnosegruppe/@V  entspricht der ausgewählten Diagnosegruppe und die optionalen SDHMA XML-Elemente  ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V
+- 1. Ein ausgewählter ICD-10-GM-Code, die Diagnosegruppe und ein optional vorhandenes  Alterskriterium erfüllen die Kriterien gemäß BVB -/LHM-Stammdatei (SDHMA XML-Element  ../verordnungsbedarf/icd_code/@V entspricht dem ausgewähltem Code und das XML-Element ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V ist nicht  definiert, sowie das XML-Element ../kapitel/diagnosegruppe_liste/diagnosegruppe/@V  entspricht der ausgewählten Diagnosegruppe und die optionalen SDHMA XML-Elemente  ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V
 - und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V entsprechen dem  Alter des Patienten).
 - i. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums  des Patienten die Erfüllung einer Altersbedingung nicht eindeutig bewertet  werden kann (z.B. wenn das Geburtsdatum unbekannt ist), wird das  Alterskriterium als nicht erfüllt angenommen, das heißt die Prüfung erfolgt.
 - ii. Für besondere Verordnungsbedarfe, die nur regional gelten, (gemäß SDHMA  XML-Element ../verordnungsbedarf/geltungsbereich_kv/@V), erfolgt die  Prüfung.
@@ -1190,7 +1186,7 @@ Der Arzt muss gemäß §13 Abs. 2 lit. i) der HeilM-RL auf dem Verordnungsvordru
 
 **Akzeptanzkriterien**
 
-- (1) Das Feld ist mit dem Richtlinien-Wert laut Frequenzempfehlungsliste (SDHM XML-Element  ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung/richtlinie/@V gleich true gemäß der Heilmittel-Stammdatei vorzubelegen. Dem Anwender muss die Möglichkeit gegeben  werden, entweder die alternativen Werte aus der Heilmittel-Stammdatei auszuwählen (SDHM XML- Element ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung/richtlinie/@V gleich false oder ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung/richtlinie nicht  existent) oder davon abweichende Werte anzugeben (siehe Punkt (2)).
+- (1) Das Feld ist mit dem Richtlinien-Wert laut Frequenzempfehlungsliste (SDHM XML-Element  ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung/richtlinie/@V gleich true gemäß der Heilmittel-Stammdatei vorzubelegen. Dem Anwender muss die Möglichkeit gegeben  werden, entweder die alternativen Werte aus der Heilmittel-Stammdatei auszuwählen (SDHM XML-Element ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung/richtlinie/@V gleich false oder ../heilmittelverordnung/frequenzempfehlung_liste/frequenzempfehlung/richtlinie nicht  existent) oder davon abweichende Werte anzugeben (siehe Punkt (2)).
 
 Eine Frequenzempfehlung repräsentiert je nach Frequenzempfehlungstyp entweder eine Anzahl von  Behandlungseinheiten pro Tag oder „pro Woche oder eine „Anzahl von  Behandlungseinheiten.
 
@@ -1223,7 +1219,7 @@ Wochen zwischen zwei
 
 - (2) Der Anwender muss in der Lage sein, entweder einen Einzelwert oder eine Wertspanne anzugeben.  Die Werte repräsentieren analog zu den Frequenzempfehlungen je nach Therapiefrequenztyp  entweder eine Anzahl von Behandlungseinheiten pro Tag Wochen zwischen zwei Behandlungseinheiten. Die Werte dürfen maximal eine dezimale Stelle  besitzen. Das Ergebnis ist gemäß der in Punkt (1) angegebenen Anweisungen zu formatieren.
 - a. Der Therapiefrequenztyp der Angabe muss dem in der Heilmittel-Stammdatei vorgegebenen  Frequenzempfehlungstyp (SDHM XML-Element  ../frequenzempfehlung_liste/frequenzempfehlungstyp/@V) entsprechen, wenn  Frequenzempfehlung für die entsprechende Diagnosegruppe
-- (3) Für die Diagnosegruppen SAS und CF (Heilmittelbereich Ernährungstherapie) (SDHM XML-Element  ../kapitel/@V gleich „V. Maßnahmen der Ernährungstherapie“) UI2 (Heilmittelbereich Podologische Therapie) (SDHM XML- Maßnahmen der Podologischen Therapie sind keine Frequenzempfehlungen in der Heilmittel- Stammdatei hinterlegt (SDHM XML-Element  ../diagnosegruppe/heilmittelverordnung/frequenzempfehlung_liste/). Der Anwender muss die  Möglichkeit haben, entsprechende Werte gemäß Punkt (2) anzugeben. Eine Verpflichtung zum  Befüllen des Feldes besteht nicht.
+- (3) Für die Diagnosegruppen SAS und CF (Heilmittelbereich Ernährungstherapie) (SDHM XML-Element  ../kapitel/@V gleich „V. Maßnahmen der Ernährungstherapie“) UI2 (Heilmittelbereich Podologische Therapie) (SDHM XML-Maßnahmen der Podologischen Therapie sind keine Frequenzempfehlungen in der Heilmittel-Stammdatei hinterlegt (SDHM XML-Element  ../diagnosegruppe/heilmittelverordnung/frequenzempfehlung_liste/). Der Anwender muss die  Möglichkeit haben, entsprechende Werte gemäß Punkt (2) anzugeben. Eine Verpflichtung zum  Befüllen des Feldes besteht nicht.
 
 **Beispiel**
 
@@ -1240,26 +1236,21 @@ Die untenstehende Tabelle 3 zeigt einige Beispiel für die Bedruckung der Verord
 
 **Tabelle 3:** Beispiel für die Bedruckung
 
+Angabe der Therapiefrequenz
+
 | PFLICHTFUNKTION | |
 |---|---|
 | **P3-14** | **Hausbesuch** |
 
-Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung unter Hausbesuch  zwischen den Feldern „Ja“ oder „Nein“
+Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung unter Hausbesuch  zwischen den Feldern „Ja“ oder „Nein“ zu wählen.
 
 **Begründung**
 
-Der § 11 der HeilM-RL definiert die Bedingungen, bei denen ein Hausbesuch des Heilmittel- Leistungserbringers zulässig ist. In der Regel kann  auszugehen ist, dass der überwiegende Teil der Patienten eigenständig den Heilmittel aufsuchen kann.
+Der § 11 der HeilM-RL definiert die Bedingungen, bei denen ein Hausbesuch des Heilmittel-Leistungserbringers zulässig ist. In der Regel kann die Vorbelegung mit „ auszugehen ist, dass der überwiegende Teil der Patienten eigenständig den Heilmittel aufsuchen kann.
 
 **Akzeptanzkriterien**
 
 - (1) Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung unter  Hausbesuch zwischen den Feldern „Ja“ oder „Nein“ zu wählen.
-
-Angabe der Therapiefrequenz
-
-zu wählen.
-
-die Vorbelegung mit „
-
 - oder „pro Woche oder eine
 - definiert ist.
 - sowie die Diagnosegruppen UI1 und  Element ../kapitel/@V gleich „
@@ -1342,32 +1333,32 @@ Nach § 106 b Abs. 2 Satz 5 SGB V können auch von den Landesverbänden d er Kra
 **Akzeptanzkriterien:**
 
 - (1) Erfüllt ein ausgewählter ICD-10-GM-Code die Kriterien für einen besonderen Verordnungsbedarf  und/oder einen langfristigen Heilmittelbedarf gemäß BVB-/LHM-Stammdatei (SDHMA XML-Element  ../verordnungsbedarf/icd_code/@V entspricht dem ausgewähltem Code und das XML-Element  ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V ist nicht definiert), werden die  Heilmittel-Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar  gekennzeichnet, bei denen es sich um einen besonderen Versorgungsbedarf/langfristigen  Heilmittelbedarf handelt.
-- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML- Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
+- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML-Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
 - b. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten  die Erfüllung einer Altersbedingung nicht eindeutig bewertet werden kann (z. B. wenn das  Geburtsdatum unbekannt ist), muss diese Kennzeichnung unterbleiben.
 - c. Für besondere Verordnungsbedarfe, die nur regional gelten (gemäß SDHMA XML-Element  ../verordnungsbedarf/geltungsbereich_kv/@V), muss diese Kennzeichnung unterbleiben
 
 Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlungsrelevante  Diagnose angegeben werden, ist es möglich, dass die Voraussetzungen für einen besonderen  Verordnungsbedarf oder einen langfristigen Heilmittelbedarf erfüllt sind, die jeweils mittels einem  der ICD-10-GM-Codes definiert sind. In diesem Fall werden die Heilmittel-Diagnosegruppen  gekennzeichnet, bei denen es sich um einen besonderen Versorgungsbedarf oder langfristigen  Heilmittelbedarf handelt, die entweder mittels des einen oder anderen ICD -10-GM-Codes definiert  sind.
 
-- (2) Erfüllen zwei ausgewählte ICD-10-GM-Codes die Kriterien für einen besonderen Verordnungsbedarf  und/oder einen langfristigen Heilmittelbedarf gemäß BVB-/LHM-Stammdatei (SDHMA XML- Elemente
+- (2) Erfüllen zwei ausgewählte ICD-10-GM-Codes die Kriterien für einen besonderen Verordnungsbedarf  und/oder einen langfristigen Heilmittelbedarf gemäß BVB-/LHM-Stammdatei (SDHMA XML-Elemente
 - ../verordnungsbedarf/icd_code/@V
 
-langfristigen Heilmittelbedarfs- und  ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V), werden die Heilmittel- Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, bei denen  es sich um einen besonderen Versorgungsbedarf/langfristigen Heilmittelbedarf handelt.
+langfristigen Heilmittelbedarfs- und  ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V), werden die Heilmittel-Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, bei denen  es sich um einen besonderen Versorgungsbedarf/langfristigen Heilmittelbedarf handelt.
 
 
 ---
 
 Hinweis: Die Auswahlreihenfolge der beiden ICD-10-GM-Codes ist ohne Belang.
 
-- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML- Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
+- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML-Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
 - b. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten  die Erfüllung einer Altersbedingung nicht eindeutig bewertet werden kann (z.B. wenn das  Geburtsdatum unbekannt ist), muss diese Kennzeichnung unterbleiben
 - c. Für besondere Verordnungsbedarfe, die nur regional gelten (gemäß SDHMA XML-Element  ../verordnungsbedarf/geltungsbereich_kv/@V), muss diese Kennzeichnung unterbleiben
-- (3) Falls ein ausgewählter ICD -10-GM-Code mit dem einzigen hinterlegten ICD-10-GM-Code von einer  gültigen patientenspezifischen langfristigen Genehmigung übereinstimmt, werden die Heilmittel- Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, die bei  diesen Genehmigungen hinterlegt sind.
-- (4) Falls zwei ausgewählte ICD-10-GM-Codes mit den beiden hinterlegten ICD-10-GM-Codes von einer  gültigen patientenspezifischen langfristigen Genehmigung übereinstimmen, werden die Heilmittel- Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, die bei  diesen Genehmigungen hinterlegt sind.
+- (3) Falls ein ausgewählter ICD -10-GM-Code mit dem einzigen hinterlegten ICD-10-GM-Code von einer  gültigen patientenspezifischen langfristigen Genehmigung übereinstimmt, werden die Heilmittel-Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, die bei  diesen Genehmigungen hinterlegt sind.
+- (4) Falls zwei ausgewählte ICD-10-GM-Codes mit den beiden hinterlegten ICD-10-GM-Codes von einer  gültigen patientenspezifischen langfristigen Genehmigung übereinstimmen, werden die Heilmittel-Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, die bei  diesen Genehmigungen hinterlegt sind.
 
 Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlungsrelevante  Diagnose angegeben werden, ist es möglich, dass beide ICD-10-GM-Codes mit zwei unterschiedlichen  gültigen patientenspezifischen langfristigen Genehmigung übereinstimmen. In diesem Fall werden  die Heilmittel-Diagnosegruppen gekennzeichnet, bei denen es sich um einen langfristigen  Heilmittelbedarf handelt, der durch die eine und die andere gültige patientenspezifische langfristige  Genehmigung begründet wird.
 
-- (5) Sind die Voraussetzungen für mindestens einen besonderen Verordnungsbedarf und/oder  mindestens einen langfristigen Heilmittelbedarf erfüllt, die mittels einem oder zwei ICD-10-GM- Codes und der Diagnosegruppe (gemäß SDHMA XML-Element  ../kapitel/diagnosegruppe_liste/diagnosegruppe/@V) definiert sind, ist die Verordnung nach  Auswahl der Diagnosegruppe als besonderer Verordnungsbedarf und/oder langfristiger  Heilmittelbedarf im Erfassungsdialog sichtbar zu kennzeichnen.
-- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML- Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V) nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
+- (5) Sind die Voraussetzungen für mindestens einen besonderen Verordnungsbedarf und/oder  mindestens einen langfristigen Heilmittelbedarf erfüllt, die mittels einem oder zwei ICD-10-GM-Codes und der Diagnosegruppe (gemäß SDHMA XML-Element  ../kapitel/diagnosegruppe_liste/diagnosegruppe/@V) definiert sind, ist die Verordnung nach  Auswahl der Diagnosegruppe als besonderer Verordnungsbedarf und/oder langfristiger  Heilmittelbedarf im Erfassungsdialog sichtbar zu kennzeichnen.
+- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML-Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V) nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
 - b. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten  die Erfüllung einer Altersbedingung nicht eindeutig bewertet werden kann (z.B. wenn das  Geburtsdatum unbekannt ist), muss diese Kennzeichnung unterbleiben.
 - c. Für besondere Verordnungsbedarfe, die nur regional gelten (gemäß SDHMA XML-Element  ../verordnungsbedarf/geltungsbereich_kv/@V), muss diese Kennzeichnung unterbleiben
 
@@ -1377,7 +1368,7 @@ Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlung
 ---
 
 - (6) Sind die Voraussetzungen für einen besonderen Verordnungsbedarf oder einen langfristigen  Heilmittelbedarf erfüllt, die nur mittels Diagnosegruppe (gemäß SDHMA XML-Element  ../kapitel/diagnosegruppe_liste/diagnosegruppe/@V) definiert sind, ist die Verordnung nach  Auswahl der Diagnosegruppe unabhängig vom ausgewählten ICD-10-Code als besonderer  Verordnungsbedarf bzw. langfristiger Heilmittelbedarf im Erfassungsdialog sichtbar zu kennzeichnen.
-- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML- Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V) nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
+- a. Falls das Alter des Patienten ein optional vorhandenes Alterskriterium (gemäß SDHMA XML-Element ../verordnungsbedarf/heilmittel_liste/heilmittel/untere_altersgrenze/@V und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V) nicht erfüllt, muss  diese Kennzeichnung unterbleiben.
 - b. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten  die Erfüllung einer Altersbedingung nicht eindeutig bewertet werden kann (z.B. wenn das  Geburtsdatum unbekannt ist), muss diese Kennzeichnung unterbleiben.
 - c. Für besondere Verordnungsbedarfe, die nur regional gelten, (gemäß SDHMA XML-Element  ../verordnungsbedarf/geltungsbereich_kv/@V), muss diese Kennzeichnung unterbleiben
 - (7) Für besondere Verordnungsbedarfe, die nur regional gelten, sind die Kennzeichnungen nach den  Punkten (1), (2), (5) und (6) denjenigen Anwendern anzuzeigen, die im jeweiligen KV -Bereich tätig  sind (gemäß SDHMA XML-Element ../verordnungsbedarf/geltungsbereich_kv/@V
@@ -1392,7 +1383,7 @@ Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlung
 
 Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlungsrelevante  Diagnose angegeben werden, ist es möglich, dass die Verordnung zwei besondere  Verordnungsbedarfe begründet, die beide der Einschränkung ei nes Akutereignisses unterliegen. In  diesem Fall wird dem Anwender die patientenbezogene Eingabe von zwei den einzelnen Diagnosen  zugeordneten Akutereignissen ermöglicht und bei weiteren Verordnungen angezeigt.
 
-- (9) Bei Verordnungen, die mindestens einen langfristigen Heilmittelbedarf und/oder mindestens einen  besonderen Verordnungsbedarf begründen würden und weiteren Spezifikationen unterliegen, sind  dem Anwender die entsprechenden Hinweise gemäß der BVB-/LHM-Stammdatei (SDHMA XML- Element ../verordnungsbedarf/heilmittel_liste/heilmittel/hinweistext/@V) anzuzeigen, ohne den  Workflow zu unterbrechen.
+- (9) Bei Verordnungen, die mindestens einen langfristigen Heilmittelbedarf und/oder mindestens einen  besonderen Verordnungsbedarf begründen würden und weiteren Spezifikationen unterliegen, sind  dem Anwender die entsprechenden Hinweise gemäß der BVB-/LHM-Stammdatei (SDHMA XML-Element ../verordnungsbedarf/heilmittel_liste/heilmittel/hinweistext/@V) anzuzeigen, ohne den  Workflow zu unterbrechen.
 
 Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlungsrelevante  Diagnose angegeben werden, ist es möglich, dass die Verordnung mehrere langfristige  Heilmittelbedarfe und/oder besondere Verordnungsbedarfe begründet, die weiteren
 

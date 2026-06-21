@@ -12,13 +12,13 @@ Patient/in befindet sich seit
 
 # Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung  SGB II Abs. 6 (Besonderer Bedarf an z.B. Pflege- oder Hygieneartikel, etc., die aus gesundheitlichen  Gründen laufend benötigt werden):
 
+regelmäßig
+
 # Aktuelle Beschwerden:
 
 # Begründung der Notwendigkeit des besonderen Bedarfs (je nach genannter Fragestellung im  Anschreiben, z.B. an Pflege- bzw. Hygieneartikeln, etc.):
 
 AM 6-ÄD – 1900.8_Befundbericht_BÄK_unabweisbare_Bedarfe_21. 12
-
-regelmäßig
 
 BGL-Nummer:
 

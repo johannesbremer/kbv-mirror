@@ -998,14 +998,12 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | VSD_Testfaelle_DMP_Vn.n.zip 1 | Versichertenstammdaten im XML Verwendung im Rahmen der Zertifizierung. |
 | XPM-Paket_eHKS | Prüfmodul eHKS |
 
+1 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+
 **Ansprechpartner:**
 
 Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
-
-1 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
-
-Testschlüssel Versorgung -Format zur
+Versorgung Testschlüssel -Format zur Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**16. JUNI 2026**
+**20. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -51,7 +51,7 @@ x Vertrieb GmbH
 
 asthenis GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 20. Juni 2026
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
@@ -1270,9 +1270,11 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Juni 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 20. Juni 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
+
+x
 
 x
 
@@ -2108,7 +2110,7 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 16. Juni 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 20. Juni 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 

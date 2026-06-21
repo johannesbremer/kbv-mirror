@@ -86,7 +86,7 @@ Name des Arztes / der Ärztin
 
 Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen der AKI)
 
-Innendurch- messer in mm
+Innendurch-messer in mm
 
 Häufigkeit
 

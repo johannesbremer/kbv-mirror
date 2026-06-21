@@ -128,8 +128,8 @@ Gemäß § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Vertrag
 -  + Wenn ja:
 -  Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins   Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten  VSD-Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten“,   „Coverage.extension:allgemeineVersicherungsdaten“ sowie   „Coverage.extension:geschuetzteVersichertendaten“.
 - Wenn nein:
-- - Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD- Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten Coverage.extension:allgemeineVersicherungsdaten“ sowie  Coverage.extension:geschuetzteVersichertendaten
-- b) Wenn nein, dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD- Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten“,  „Coverage.extension:allgemeineVersicherungsdaten“ sowie  „Coverage.extension:geschuetzteVersichertendaten“.
+- - Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD-Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten Coverage.extension:allgemeineVersicherungsdaten“ sowie  Coverage.extension:geschuetzteVersichertendaten
+- b) Wenn nein, dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD-Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten“,  „Coverage.extension:allgemeineVersicherungsdaten“ sowie  „Coverage.extension:geschuetzteVersichertendaten“.
 
 **HINWEIS**
 
@@ -146,7 +146,7 @@ Gemäß § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Vertrag
 |---|---|
 | **O2-02** | Versand einer eEB-Anfrage |
 
-Die Software kann dem Anwender die Möglichkeiten zur Verfügung stellen, eine Anfrage zur eEB- Bescheinigung mittels KIM an die Krankenkasse zu senden.
+Die Software kann dem Anwender die Möglichkeiten zur Verfügung stellen, eine Anfrage zur eEB-Bescheinigung mittels KIM an die Krankenkasse zu senden.
 
 **Begründung:**
 

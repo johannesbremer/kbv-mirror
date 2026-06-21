@@ -19,19 +19,19 @@ Geben Sie hier die Gesundheitsstörungen des Kindes an (z.B. Übergewicht, psych
 
 **3. Erkrankungen**
 
-Geben Sie hier die relevanten Erkrankungen in der Reihenfolge ihrer Bedeutung an. Die Diagnosen sind  nach ICD-10-GM zu verschlüsseln . Zusätzlich kann die Diagnose als Klartext oder Freitext angegeben wer- den.
+Geben Sie hier die relevanten Erkrankungen in der Reihenfolge ihrer Bedeutung an. Die Diagnosen sind  nach ICD-10-GM zu verschlüsseln . Zusätzlich kann die Diagnose als Klartext oder Freitext angegeben wer-den.
 
 **4. Weitere relevante Informationen**
 
-Hier können weitere Informationen, z.B. zu Behinderungen und Entwicklungsverzögerungen sowie Pflege- graden angegeben werden.
+Hier können weitere Informationen, z.B. zu Behinderungen und Entwicklungsverzögerungen sowie Pflege-graden angegeben werden.
 
 **5. Bisherigen Krankenbehandlung und andere Maßnahmen**
 
-Hier sollen die bisher durchgeführten Leistungen der Krankenbehandlung wie ärztli- che/psychotherapeutische Interventionen, Arzneimittel-/Heilmitteltherapie und andere Maßnahmen aufge- führt werden.
+Hier sollen die bisher durchgeführten Leistungen der Krankenbehandlung wie ärztli-che/psychotherapeutische Interventionen, Arzneimittel-/Heilmitteltherapie und andere Maßnahmen aufge-führt werden.
 
 **6. Empfohlene Interventionen während der Maßnahme**
 
-Geben Sie die empfohlenen Interventionen für das Kind während der Vorsorge- und Rehabilitationsmaß- nahme an (z.B. Ernährungsberatung, Mutter-Kind-Interaktion, Sport und Gesundheitstraining).
+Geben Sie die empfohlenen Interventionen für das Kind während der Vorsorge- und Rehabilitationsmaß-nahme an (z.B. Ernährungsberatung, Mutter-Kind-Interaktion, Sport und Gesundheitstraining).
 
 **7. Anforderungen an die Einrichtung**
 

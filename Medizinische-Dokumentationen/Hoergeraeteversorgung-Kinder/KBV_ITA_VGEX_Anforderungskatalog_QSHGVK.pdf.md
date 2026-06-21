@@ -69,7 +69,7 @@ Abbildung 1 Berichtszeiträume
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver- einbarung Hörgeräteversorgung bei Säuglingen, Kleinkindern und Kindern (Qualitätssiche- rungsvereinbarung Hörgeräteversorgung Kinder 01.07.2012) eingesetzt wird. Es wird quar- talsweise eine elektronische Dokumentation zur Hörgeräteversorgung an die zuständige Da- tenannahmestelle übermittelt.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Hörgeräteversorgung bei Säuglingen, Kleinkindern und Kindern (Qualitätssiche-rungsvereinbarung Hörgeräteversorgung Kinder 01.07.2012) eingesetzt wird. Es wird quar-talsweise eine elektronische Dokumentation zur Hörgeräteversorgung an die zuständige Da-tenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
@@ -78,7 +78,7 @@ Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
 ## 1.2 Pflichtfunktionen und optionale Funktionen der Software
 
-Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego- rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
+Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Katego-rien zur Anforderungsbeschreibung verwendet. Dies sind zum einen Pflichtfunktionen und  daneben optionale Funktionen.
 
 **Pflichtfunktionen** müssen in der Anwendungssoftware implementiert sein.
 
@@ -131,7 +131,7 @@ Ident-Nummer einer optionalen Funktion Ident
 |---|---|
 | **P1-10** | **Vollständigkeit der Eingaben aller Bewegungsdaten** |
 
-Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele- vanten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung Kinder ermögli- chen.
+Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung Kinder ermögli-chen.
 
 Die in der  KBV_ITA_VGEX_Schnittstelle_ erfassbar sein.
 
@@ -141,7 +141,7 @@ Schnittstellenbeschreibung QS Hörgeräteversorgung  QSHGVK] festgelegten Datene
 |---|---|
 | **K1-15** | **Vorbelegung von Datenfeldern** |
 
-Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit si- chergestellt ist, dass die Daten korrekt übernommen werden.
+Eine Vorbelegung von Feldern aus Drittsystemen, z.B. anderen PVS ist zulässig, soweit si-chergestellt ist, dass die Daten korrekt übernommen werden.
 
 Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Daten  möglich sein.
 
@@ -151,11 +151,11 @@ Im Falle einer Datenübernahme muss dem Anwender die Änderung übernommener Dat
 
 Die Verordnungen/ Nachsorgen werden ab 01.07.2013 quartalsweise erfasst.
 
-Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt  wird als auch das Quartal, in dem die erste Nachuntersuchung / Nach- sorge durchgeführt wird.
+Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt  wird als auch das Quartal, in dem die erste Nachuntersuchung / Nach-sorge durchgeführt wird.
 
-Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal.  den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie- ferungen statt.
+Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal.  den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie-ferungen statt.
 
-Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer- den die in der Datenstelle gesammelten QS-Datensätze ausgewertet.
+Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer-den die in der Datenstelle gesammelten QS-Datensätze ausgewertet.
 
 ### Meldequartal
 
@@ -167,7 +167,7 @@ Kinder
 
 In ihm fin-
 
-### Auswertungs- quartal
+### Auswertungs-quartal
 
 
 ---
@@ -186,7 +186,7 @@ Die Betriebsstättennummer (BSNR) und die lebenslange Arztnummer (LANR) des Anwe
 |---|---|
 | **P1-40** | **Neuanlage einer** |
 
-Bei der Neuanlage einer QSHGVK Dokumentation muss der Anwender eine bisher nicht für  einen anderen Patienten vergebene, eindeutige max. 10-stellige alphanummerische Patien- tennummer (PatientenID) eingeben. Systemseitig kann der Anwender dabei unterstützt wer- den. Die PatientenID muss dem Patienten eindeutig zugeordnet werden.
+Bei der Neuanlage einer QSHGVK Dokumentation muss der Anwender eine bisher nicht für  einen anderen Patienten vergebene, eindeutige max. 10-stellige alphanummerische Patien-tennummer (PatientenID) eingeben. Systemseitig kann der Anwender dabei unterstützt wer-den. Die PatientenID muss dem Patienten eindeutig zugeordnet werden.
 
 *Hinweis: Beachten Sie diesbezüglich auch Kapitel 0*
 
@@ -194,13 +194,13 @@ Bei der Neuanlage einer QSHGVK Dokumentation muss der Anwender eine bisher nicht
 |---|---|
 | **P1-50** | **Patienten der** |
 
-Für die Dokumentation der QS Hörgeräteversorgung Kinder werden nur Patienten der gesetz- lichen Krankenversicherung berücksichtigt.
+Für die Dokumentation der QS Hörgeräteversorgung Kinder werden nur Patienten der gesetz-lichen Krankenversicherung berücksichtigt.
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | **P1-60** | **Neuanlage einer** |
 
-Die Software muss sicherstellen, dass der Anwender eine QSHGVK Dokumentation mit Ver- ordnung anlegen kann vgl. Ausfüllhinweise [KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK
+Die Software muss sicherstellen, dass der Anwender eine QSHGVK Dokumentation mit Ver-ordnung anlegen kann vgl. Ausfüllhinweise [KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -212,7 +212,7 @@ Die Software muss sicherstellen, dass der Anwender eine QSHGVK Nachsorge anlegen
 |---|---|
 | **P1-80** | **Umgang mit dem** |
 
-Die Angabe des Untersuchungsdatums (service_tmr) darf nach Ersterfassung durch den An- wender nicht mehr geändert werden. Sind Korrekturen im Nachgang nötig, wird das Datum  nicht geändert.
+Die Angabe des Untersuchungsdatums (service_tmr) darf nach Ersterfassung durch den An-wender nicht mehr geändert werden. Sind Korrekturen im Nachgang nötig, wird das Datum  nicht geändert.
 
 QSHGVK Dokumentation (PatientenID) QSHGVK Dokumentation  QSHGVK Verordnung Dokumentation QSHGVK Nachsorge Dokumentation Untersuchungsdatum
 
@@ -224,7 +224,7 @@ QSHGVK Dokumentation (PatientenID) QSHGVK Dokumentation  QSHGVK Verordnung Dokum
 |---|---|
 | **P1-90** | **Inhalte der** |
 
-Die Dokumentationsparameter (kurz: Parameter)  KBV_ITA_VGEX_PLAUSI_QSHGVK] müssen auf der Benutzeroberfläche abgebildet wer- den.
+Die Dokumentationsparameter (kurz: Parameter)  KBV_ITA_VGEX_PLAUSI_QSHGVK] müssen auf der Benutzeroberfläche abgebildet wer-den.
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -244,7 +244,7 @@ Das System muss sicherstellen, dass zweifelsfrei erkennbar ist, welche Dokumenta
 |---|---|
 | **P1-120** | **Ausfüllanleitung** |
 
-Die zu den Parametern angegebenen Ausfüllanleitungen müssen für den Anwender zur Ein- sicht hinterlegt werden. Dabei muss es für den Anwender möglich sein, die jeweils zum Para- meter gehörenden Abschnitte der Ausfüllanleitung ohne Verlassen der eigentlichen Benutzer- oberfläche abzurufen.
+Die zu den Parametern angegebenen Ausfüllanleitungen müssen für den Anwender zur Ein-sicht hinterlegt werden. Dabei muss es für den Anwender möglich sein, die jeweils zum Para-meter gehörenden Abschnitte der Ausfüllanleitung ohne Verlassen der eigentlichen Benutzer-oberfläche abzurufen.
 
 | Optionale FUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -315,7 +315,7 @@ Das System muss sicherstellen, dass alle Dokumentationsdaten unverändert gespei
 |---|---|
 | **P1-180** | **Zwischenspeichern der Dokumentationsdaten** |
 
-Das System muss sicherstellen, dass nicht vollständige und/oder fehlerhafte Dokumentatio- nen unverändert zwischengespeichert werden können, so dass diese erhalten bleiben und  erweiterbar sind. Für den Nutzer muss ersichtlich sein, dass es sich um eine unvollständige  und/oder fehlerhafte Dokumentation handelt.
+Das System muss sicherstellen, dass nicht vollständige und/oder fehlerhafte Dokumentatio-nen unverändert zwischengespeichert werden können, so dass diese erhalten bleiben und  erweiterbar sind. Für den Nutzer muss ersichtlich sein, dass es sich um eine unvollständige  und/oder fehlerhafte Dokumentation handelt.
 
 **2.1.9 Archivieren von Dokumentationsdaten**
 
@@ -323,7 +323,7 @@ Das System muss sicherstellen, dass nicht vollständige und/oder fehlerhafte Dok
 |---|---|
 | **P1-190** | **Archivieren von Dokumentationsdaten** |
 
-Das System muss die Möglichkeit bieten die Dokumentationsdaten gemäß der Schnittstellen- beschreibung [KBV_ITA_VGEX_Schnittstelle_QSHGVK] nach dem Versand zu einer Daten- annahmestelle zu archivieren.
+Das System muss die Möglichkeit bieten die Dokumentationsdaten gemäß der Schnittstellen-beschreibung [KBV_ITA_VGEX_Schnittstelle_QSHGVK] nach dem Versand zu einer Daten-annahmestelle zu archivieren.
 
 | Optionale FUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -342,16 +342,16 @@ Dokumentation(en)
 |---|---|
 | **P1-200** | **Umgang mit der** |
 
-- 1. Die PatientenID muss patientenbezogen vergeben werden und darf innerhalb des Sys- tems nicht geändert werden. Wechselt ein Patient den Kostenträger, den Wohnort, än- dert sich sein Versicherungsstatus oder sein Name, so ist die PatientenID trotzdem  beizubehalten.
-- 2. Unterläuft dem Anwender bei der Erstanlage einer PatientenID ein Fehler und sind  bisher keine elektronischen Dokumentationen mit dieser PatientenID an die Datenan- nahmestelle versendet worden, so muss eine Korrektur der PatientenID möglich sein,  wenn der Anwender dies wünscht.
-- 3. Die PatientenID ist vom Anwender festzulegen. Systemseitig darf keine automatische  Vergabe der gesamten PatientenID oder für Teile der PatientenID existieren. Vor- schläge für die PatientenID können systemseitig angebracht werden.
+- 1. Die PatientenID muss patientenbezogen vergeben werden und darf innerhalb des Sys-tems nicht geändert werden. Wechselt ein Patient den Kostenträger, den Wohnort, än-dert sich sein Versicherungsstatus oder sein Name, so ist die PatientenID trotzdem  beizubehalten.
+- 2. Unterläuft dem Anwender bei der Erstanlage einer PatientenID ein Fehler und sind  bisher keine elektronischen Dokumentationen mit dieser PatientenID an die Datenan-nahmestelle versendet worden, so muss eine Korrektur der PatientenID möglich sein,  wenn der Anwender dies wünscht.
+- 3. Die PatientenID ist vom Anwender festzulegen. Systemseitig darf keine automatische  Vergabe der gesamten PatientenID oder für Teile der PatientenID existieren. Vor-schläge für die PatientenID können systemseitig angebracht werden.
 - 4. Gibt der Anwender eine PatientenID ein, die systemseitig bereits für einen anderen  Patienten existiert, so darf diese Nummer nicht übernommen werden und das System  muss mit einem entsprechenden Fehlerhinweis den Anwender auffordern eine nicht  existierende PatientenID einzugeben.
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | **P1-210** | **Eindeutigkeit jedes Dokumentationsdatensatzes** |
 
-Jede elektronische Dokumentation muss eindeutig innerhalb eines Systems identifizierbar  sein. Dazu ist im Attribut „EX“ des Elements <id> innerhalb des <clinical_document_headers>  eine für das System eindeutige Identifikationsnummer zu vergeben (s. Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_eHeader]).
+Jede elektronische Dokumentation muss eindeutig innerhalb eines Systems identifizierbar  sein. Dazu ist im Attribut „EX“ des Elements <id> innerhalb des <clinical_document_headers>  eine für das System eindeutige Identifikationsnummer zu vergeben (s. Schnittstellenbeschrei-bung [KBV_ITA_VGEX_Schnittstelle_eHeader]).
 
 *Hinweis: Durch die Kombination des „EX“-Attributs (systemweit eindeutiges Identifikations-* *merkmal) und des „RT“ -Attributs ist eine bundesweit eindeutige Identifikation einer elektroni-* *schen Dokumentation möglich.*
 
@@ -364,19 +364,19 @@ Jede elektronische Dokumentation muss eindeutig innerhalb eines Systems identifi
 Dem Anwender muss zu jeder Zeit eine Übersicht bereitstehen, welche mindestens folgende  Informationen liefert:
 
 - a) alle Dokumentationen, die zu einem Patienten angelegt wurden
-- b) alle Dokumentationen unabhängig von einem gewählten Patienten mit weiteren Meta- daten (Quartal, Patient, Untersuchungsdatum u. ä.)
+- b) alle Dokumentationen unabhängig von einem gewählten Patienten mit weiteren Meta-daten (Quartal, Patient, Untersuchungsdatum u. ä.)
 
 Innerhalb dieser Übersicht müssen weitere Angaben erfolgen:
 
 - a) Angabe von Fehlerfreiheit/Fehlerhaftigkeit der Dokumentation
 - b) Angabe des Druckstatus
-- c) bereits an die Datenannahmestelle verschickte Dokumentationen mit Versendungsda- tum
+- c) bereits an die Datenannahmestelle verschickte Dokumentationen mit Versendungsda-tum
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | **P1-230** | **Öffnen von** |
 
-PatientenID Dokumentationen anhand der ÜbersichtAnhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be- arbeiten.
+PatientenID Dokumentationen anhand der ÜbersichtAnhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be-arbeiten.
 
 
 ---
@@ -401,13 +401,13 @@ Das administrative Geschlecht des Patienten ist zu übermitteln.
 
 **Begründung:**
 
-Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermittelt wer- den.
+Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermittelt wer-den.
 
 **Akzeptanzkriterium:**
 
 - 1. Das System muss das administrative Geschlechts des Patienten im Element  nistrative_gender_cd>
 
-Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML- Schnittstelle (siehe Kapitel 6.10.6.2) abhängig.
+Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Schnittstelle (siehe Kapitel 6.10.6.2) abhängig.
 
 | Geschlechtsausprägung | Schlüsseltabellenwert (2.16.840.1.113883.5.1) | |
 |---|---|---|
@@ -429,7 +429,7 @@ Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML- Sc
 |---|---|
 | **P1-250** | **Übermittlung an die Datenannahmestelle** |
 
-Die Dokumentationen sind im Verordnungsquartal bzw. Meldequartal an die Datenannahme- stelle zu übermitteln. Die Dokumentationen müssen dabei bis Ende des Meldequartals bei der  Datenannahmestelle vorliegen. Der Anwender kann anschließend bis Ende des Meldequar- tals auf Aufforderung der KV veränderte und überarbeitete Daten an die Datenannahmestelle  senden.
+Die Dokumentationen sind im Verordnungsquartal bzw. Meldequartal an die Datenannahme-stelle zu übermitteln. Die Dokumentationen müssen dabei bis Ende des Meldequartals bei der  Datenannahmestelle vorliegen. Der Anwender kann anschließend bis Ende des Meldequar-tals auf Aufforderung der KV veränderte und überarbeitete Daten an die Datenannahmestelle  senden.
 
 der Schnittstellenbeschreibung
 
@@ -442,7 +442,7 @@ der Schnittstellenbeschreibung
 |---|---|
 | **P1-266** | **QSHGVK auf Basis von KIM** |
 
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSHGVK- Dokumentationen auf Basis von KIM bereitstellen.
+Die Software muss dem Anwender eine Funktion für die Übertragung der QSHGVK-Dokumentationen auf Basis von KIM bereitstellen.
 
 **Begründung:**
 
@@ -464,7 +464,7 @@ für das Verfahren QSHGVK das  ] unterstützt, dann enthält die SDKVCA einen en
 |---|---|
 | **KP1-264** | **Importstatus von der Datenannahmestelle** |
 
-Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten.  Beim Importieren wird die Verordnungs-Datei geprüft und eine KIM-Nachricht mit dem Import- Status und ggf. Fehlermeldungen wird erstellt.
+Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten.  Beim Importieren wird die Verordnungs-Datei geprüft und eine KIM-Nachricht mit dem Import-Status und ggf. Fehlermeldungen wird erstellt.
 
 Es sind folgende Import-Status möglich:
 
@@ -516,9 +516,9 @@ Das System muss
 -
 ```
 
-- a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei- bung [KBV_ITA_VGEX_Schnittstelle_QSHGVK] exportieren.
+- a) die festgelegten Datenelemente vollständig nach Vorgabe der Schnittstellenbeschrei-bung [KBV_ITA_VGEX_Schnittstelle_QSHGVK] exportieren.
 - b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben  für den Export vorbereiten,
-- c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem Da- tenarchiv QS Hörgeräteversorgung Kinder und KIM Begleitdatei besteht,
+- c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem Da-tenarchiv QS Hörgeräteversorgung Kinder und KIM Begleitdatei besteht,
 - d) exportierte Datensätze innerhalb des Systems kennzeichnen und
 - e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 
@@ -528,9 +528,9 @@ Das System muss
 |---|---|
 | **P1-270** | **Einsatz Kryptomodul (XKM)** |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations- archiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSHGVK-Datenverschlüsselung (Oeffentlich_QSHGVK_V08.pub) zu ver- schlüsseln.
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentations-archiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSHGVK-Datenverschlüsselung (Oeffentlich_QSHGVK_V08.pub) zu ver-schlüsseln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti- on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule- sen.
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-sen.
 
 ---
 

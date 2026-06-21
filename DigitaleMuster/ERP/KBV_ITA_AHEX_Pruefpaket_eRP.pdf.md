@@ -523,7 +523,7 @@ ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG
 
 Für die in Kapitel 2 sowie in Kapitel 3.1 beschriebenen Prüffälle und Testfälle, für welche XML-Dateien  (FHIR-Instanzen) einzureichen sind, kann auch die Testdatenvalidierung des Zertifizierungsportals genutzt  werden.
 
-Die übermittelten Testdaten (XML-Datei des eRP) werden gegen FHIR-Profile validiert. Zusätzlich zu den  deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eRP-spezifischen FHIR- Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit die  Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine  Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
+Die übermittelten Testdaten (XML-Datei des eRP) werden gegen FHIR-Profile validiert. Zusätzlich zu den  deutschen Basis-Profilen, den KBV-Basis-Profilen, den formularübergreifenden und eRP-spezifischen FHIR-Profilen werden die Testdaten gegen prüffall-spezifische Soll-Profile validiert  und somit die  Vollständigkeit und Korrektheit geprüft. Es erfolgt ausschließlich die Prüfung der FHIR-Instanzen. Eine  Prüfung der signierten Dateien, Screenshots und weiteren Unterlagen durch das Referat Zertifizierung  findet nicht statt.
 
 Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 

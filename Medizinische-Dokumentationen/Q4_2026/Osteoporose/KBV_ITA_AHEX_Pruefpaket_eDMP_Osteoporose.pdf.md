@@ -423,7 +423,7 @@ PEZIFISCHE DATEN erhöhtes Sturzrisiko Dokumentation) Andere weniger als drei Ja
 
 - **1.** **Versichertendaten:**
 
-Die Versichertendaten von Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried Schaumbërg-von-und-zu- Schaumburg-und-Radëberg (XML_21) einlesen und speichern
+Die Versichertendaten von Friëdrich-Wilhelm-Karl-Gustav-Justus-Gotfried Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (XML_21) einlesen und speichern
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 

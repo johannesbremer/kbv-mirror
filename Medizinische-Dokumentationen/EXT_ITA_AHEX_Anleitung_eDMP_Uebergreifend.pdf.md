@@ -29,7 +29,7 @@ Version 9
 
 ## Vorbemerkung
 
-Die Dokumentation stellt ein Kernelement zur Umsetzung der Disease-Management- Programme dar. Neben der Erhebung der Ausgangsdaten erfüllt die Dokumentation weitere  wichtige Funktionen:
+Die Dokumentation stellt ein Kernelement zur Umsetzung der Disease-Management-Programme dar. Neben der Erhebung der Ausgangsdaten erfüllt die Dokumentation weitere  wichtige Funktionen:
 
 Sie bildet den Verlauf der Erkrankung ab und kann als Checkliste bezüglich medikamentöser  und nicht-medikamentöser  Kontrolluntersuchungen dienen. Sie stellt einen Informationsspeicher für Sie und Ihren  Patienten dar und hält gemeinsame Zielvereinbarungen fest.
 
@@ -77,7 +77,7 @@ die für eine effektive
 - Osteoporose
 - Rheumatoide Arthritis
 
-Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit der jeweiligen KV abgeschlossen haben, und die  Patientin oder der Patient muss die Einschreibekriterien des Programms entsprechend der  Vorgaben der Risikostruktur-Ausgleichsverordnung (RSAV) und der DMP-Anforderungen- Richtlinie (DMP-A-RL) des gemeinsamen Bundesausschusses
+Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit der jeweiligen KV abgeschlossen haben, und die  Patientin oder der Patient muss die Einschreibekriterien des Programms entsprechend der  Vorgaben der Risikostruktur-Ausgleichsverordnung (RSAV) und der DMP-Anforderungen-Richtlinie (DMP-A-RL) des gemeinsamen Bundesausschusses
 
 *Wann ist die Dokumentation vollständig?*
 
@@ -137,7 +137,7 @@ Bitte geben Sie sowohl Ihre (lebenslange) Arzt Sind für Ihre Praxis mehrere Är
 
 -Nummer derjenigen Ärztin oder desjenigen
 
-Dieses Feld ist für den Fall vorges ehen, dass eine Einschreibung der Teilnehmer durch  ein Krankenhaus erfolgt. Das  Institutionskennzeichen ein.
+Dieses Feld ist für den Fall vorges ehen, dass eine Einschreibung der Teilnehmer durch  ein Krankenhaus erfolgt. Das teilnehmende  Institutionskennzeichen ein.
 
 **Dokumentation in Vertretung erstellt**
 
@@ -147,11 +147,7 @@ Sollten Sie die Dokumentation in Vertretung (z. B. Urlaubsvertretung vom Versich
 
 Über diese Eingabe werden automatisch die zu dokumentierenden indikationsbezogenen  Parameter aufgerufen. Die gleichzeitige Angabe und damit parallele Dokumentation  mehrerer Indikationen ist dabei möglich. Möchten Sie bei einer Mehrfachteilnahme  Patientin oder eines Patienten aktuell nur eine Indikation dokumentieren, wählen Sie bitte  nur die Indikation aus, für die Sie die Dokumentation erstellen wollen.
 
-Bitte beachten Sie, dass eine  ausgeschlossen ist:
-
-teilnehmende
-
-gleichzeitige
+Bitte beachten Sie, dass eine gleichzeitige  ausgeschlossen ist:
 
 -  Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2
 -  Asthma bronchiale und COPD

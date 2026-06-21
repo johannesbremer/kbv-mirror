@@ -43,7 +43,7 @@ redaktionelle Änderungen nach
 
 in Kraft Kommentierung 3
 
-Ergänzung Voraussetzungen um  Praxisausweis (SMC-B oder SMB) und TI- Gateway 4
+Ergänzung Voraussetzungen um  Praxisausweis (SMC-B oder SMB) und TI-Gateway 4
 
 Ergänzung Use Cases um Praxisausweis  (SMC-B oder SMB) und TI-Gateway 0.1
 
@@ -133,17 +133,17 @@ In allen Anforderungen wird "E-Rezept" durch "116117 Terminservice" ersetzt.
 
 5.1.1  Kommunikation  zu den Diensten  der TI
 
-A_19451-01 -  PS:  Lokalisierung E- Rezept- Fachdienst
+A_19451-01 - PS:  Lokalisierung E-Rezept-Fachdienst
 
 A_19744 - PS:  Endpunkt
 
-Schnittstelle E- Rezept
+Schnittstelle E-Rezept
 
-A_19234 - PS:  Kommunikation  über TLS- Verbindung
+A_19234 - PS:  Kommunikation  über TLS-Verbindung
 
 A_19235 - PS:
 
-Unzulässige  TLS- Verbindungen  ablehnen
+Unzulässige  TLS-Verbindungen  ablehnen
 
 Seite 8 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
@@ -155,7 +155,7 @@ Text ausgetauscht mit:
 
 Text ausgetauscht mit:
 
-"Hersteller von Praxisverwaltungssystemen (Primärsystemen) oder Online- Diensten entnehmen die URLs zu Fachdiensten des 116117 Terminservice  den spezifischen Anwendungsdokumentationen."
+"Hersteller von Praxisverwaltungssystemen (Primärsystemen) oder Online-Diensten entnehmen die URLs zu Fachdiensten des 116117 Terminservice  den spezifischen Anwendungsdokumentationen."
 
 Anforderung entfällt und muss nicht umgesetzt werden.
 
@@ -172,7 +172,7 @@ Text ausgetauscht mit:
 
 **SPEZIFIKATION** **SKAPITEL**
 
-5.1.2  Verschlüsselte  Kommunikation  zur VAU des E- Rezept  Fachdienstes
+5.1.2  Verschlüsselte  Kommunikation  zur VAU des E-Rezept  Fachdienstes
 
 Seite 9 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
@@ -186,9 +186,9 @@ Anforderung entfällt und muss nicht umgesetzt werden.
 
 erp-user
 
-A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden. HTTP-Header X- erp-resource
+A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden. HTTP-Header X-erp-resource
 
-A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden. Umsetzung  sicherer Kanal  zur VAU des E- Rezept- Fachdienstes
+A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden. Umsetzung  sicherer Kanal  zur VAU des E-Rezept-Fachdienstes
 
 
 ---
@@ -211,7 +211,7 @@ von:
 
 TLS-
 
-nein Verbindungsauf bau zum E-Rezept- Fachdienst
+nein Verbindungsauf bau zum E-Rezept-Fachdienst
 
 TLS-
 
@@ -223,7 +223,7 @@ TLS-
 
 nein Verbindungsauf bau zum IDP
 
-Aufbau sicherer ja Kanal zur VAU des E- Rezept- Fachdienstes
+Aufbau sicherer ja Kanal zur VAU des E-Rezept-Fachdienstes
 
 Nur für PS der ja abgebenden LEI: Signaturzertifika t Fachdienst
 
@@ -282,7 +282,7 @@ Seite 11 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ANFORDERUNG**
 
-A_20764 - PS:  Prüfung TI- Zertifikate
+A_20764 - PS:  Prüfung TI-Zertifikate
 
 **ÄNDERUNGEN**
 
@@ -300,7 +300,7 @@ TLS-
 
 nein Verbindungsauf bau zum IDP der  kv.digital
 
-Aufbau sicherer ja Kanal zur VAU des E- Rezept- Fachdienstes
+Aufbau sicherer ja Kanal zur VAU des E-Rezept-Fachdienstes
 
 Nur für PS der ja abgebenden LEI: Signaturzertifika
 
@@ -347,15 +347,15 @@ Seite 12 von 14
 
 **ANFORDERUNG**
 
-A_20654 -  Registrierung  des  Primärsystems
+A_20654 - Registrierung  des  Primärsystems
 
-A_20655 -  Regelmäßiges  Einlesen des  Discovery  Document
+A_20655 - Regelmäßiges  Einlesen des  Discovery  Document
 
-A_20656-01 -  Prüfung der  Signatur des  Discovery  Document
+A_20656-01 - Prüfung der  Signatur des  Discovery  Document
 
-A_20657 -  Prüfung der  Signatur des  Discovery  Document
+A_20657 - Prüfung der  Signatur des  Discovery  Document
 
-A_20658 -  Sicheres  Löschen der  Token
+A_20658 - Sicheres  Löschen der  Token
 
 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
@@ -396,17 +396,17 @@ zu:
 
 **ANFORDERUNG**
 
-A_21337 -  Löschung von  TOKEN bei  zeitlichem  Ablauf
+A_21337 - Löschung von  TOKEN bei  zeitlichem  Ablauf
 
-A_21338 -  Sichere  Speicherung der  Token
+A_21338 - Sichere  Speicherung der  Token
 
-A_20671-01 -  Einreichen des  AUTHORIZATIO N_CODE beim  Token-Endpunkt
+A_20671-01 - Einreichen des  AUTHORIZATIO N_CODE beim  Token-Endpunkt
 
-A_20672-01 -  Annahme des  ID_TOKEN
+A_20672-01 - Annahme des  ID_TOKEN
 
-A_20674 -  Formale Prüfung  der Signatur des  ID_TOKEN
+A_20674 - Formale Prüfung  der Signatur des  ID_TOKEN
 
-A_20675 -  Gültigkeitsprüfu
+A_20675 - Gültigkeitsprüfu
 
 ng der Signatur  des ID_TOKEN  innerhalb der TI
 

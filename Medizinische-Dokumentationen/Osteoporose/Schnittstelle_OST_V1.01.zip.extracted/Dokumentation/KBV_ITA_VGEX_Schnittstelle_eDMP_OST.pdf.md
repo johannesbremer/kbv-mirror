@@ -36,7 +36,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section)  6.1.1  6.1.2  6.1.3     6.1.4   6.1.5 6.1.6
+6.1 Sektion (section)  6.1.1  6.1.2  6.1.3 6.1.4   6.1.5
+
+6.1.6
 
 6.1.7
 
@@ -46,13 +48,17 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 caption
 
-content  Sciphox-SSU observation  Parameter  Ergebnistext  Ergebniswert  Abschnitt „Administrative Daten“ Einschreibung wegen  Abschnitt „Anamnese Körpergröße  Körpergewicht  Raucher
+content  Sciphox-SSU observation  Parameter  Ergebnistext
+
+Ergebniswert  Abschnitt „Administrative Daten“ Einschreibung wegen  Abschnitt „Anamnese Körpergröße  Körpergewicht  Raucher
 
 und Befunddaten“
 
 Blutdruck systolisch  Blutdruck diastolisch  Begleiterkrankungen  Osteoporosebedingte Fraktur in den letzten 12 Monaten  Lokalisation der osteoporosebedingten Fraktur  Stürze in den letzten 6 Monaten  Abschnitt „Sonstige Befunde und nichtmedikamentöse Behandlung“ Teilnehmerinnen und Teilnehmer ab 70 Jahre: erhöhtes Sturzrisiko Bei Teilnehmerinnen und Teilnehmern mit erhöhtem Sturzrisiko oder Stürzen:  Sturzprophylaxemaßnahme empfohlen  Regelmäßiges körperliches Training  Abschnitt „Medikamentöse Behandlung“  Aktuelle osteoporosespezifische Medikation  Dauer der osteoporosespezifischen Medikation  Abschnitt „Schulungen“  Schulung bereits vor Einschreibung in das DMP wahrgenommen Schulung empfohlen (bei aktueller Dokumentation)  Abschnitt „Behandlungsplanung“
 
-**8**  **9**  **10**  10  10  11  **12**  **13**  13  **13**  14  14  15  16  17  17  17  17  18  19  20  20  20  20  21  21  22  22  23 23
+**8**  **9**  **10**  10  10  11  **12**  **13**  13  **13**  14  14  15  16  17  17
+
+17  17  18  19  20  20  20  20  21  21  22  22  23 23
 
 24
 

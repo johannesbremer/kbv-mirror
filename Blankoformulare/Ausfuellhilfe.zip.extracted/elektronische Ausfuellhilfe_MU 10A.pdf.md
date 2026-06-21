@@ -39,7 +39,7 @@ Die Abnahmezeit ist hier einzutragen.
 
 **8. ZUSÄTZLICHE AN ZU UNTERSUCHUNGENGABE** Im diesem Feld können der Laborgemeinschaft für eiim Auftrag tätigen
 
-ne Untersuchung wesentliche  Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin- Clearance, oder andere übermitteltMedikationen
+ne Untersuchung wesentliche  Angaben, beispielsweise die Urin-Sammelmenge und Sammelzeit bei der Anforderung der Kreatinin-Clearance, oder andere übermitteltMedikationen
 
 zusätzliche Informationen
 

@@ -333,11 +333,11 @@ Nach § 295 SGB V sind ausschließlich Behandlungsdiagnosen im Rahmen der vertra
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt sicher, dass als Dauerdiagnosen bzw. Anamnestische Diagnosen nur ICD-10-GM- Kodes (XML-Element *../icd_code/@V* aus der „ICD-10-GM-Stammdatei“ der KBV übertragen werden  (gemäß Kapitel 3
-- a) Wenn die zu übertragende Dauerdiagnose bzw. Anamnestische Diagnose nicht in der „ICD-10-GM- Stammdatei“ enthalten ist, dann weist die Software den Anwender darauf hin, dass der ICD-10-GM- Kode überprüft werden muss.
+- 1. Die Software stellt sicher, dass als Dauerdiagnosen bzw. Anamnestische Diagnosen nur ICD-10-GM-Kodes (XML-Element *../icd_code/@V* aus der „ICD-10-GM-Stammdatei“ der KBV übertragen werden  (gemäß Kapitel 3
+- a) Wenn die zu übertragende Dauerdiagnose bzw. Anamnestische Diagnose nicht in der „ICD-10-GM-Stammdatei“ enthalten ist, dann weist die Software den Anwender darauf hin, dass der ICD-10-GM-Kode überprüft werden muss.
 - 2. Die Software überträgt Dauerdiagnosen bzw. Anamnestische Diagnosen in der Abrechnung in der FK  3673.
 - 3. Die Software stellt sicher, dass nur die ICD-10-GM-Kodes in der Abrechnung übertragen werden, bei  welchen das XML-Element *../abrechenbar/@V* in der ICD-10-GM-Stammdatei der KBV gleich “J“ ist.
-- a) Wenn der zu übertragende ICD-10-GM-Kode für die Dauerdiagnose bzw. Anamnestische Diagnose  nicht abrechenbar ist, dann weist die Software den Anwender darauf hin, dass dieser ICD-10-GM- Kode überprüft werden muss.
+- a) Wenn der zu übertragende ICD-10-GM-Kode für die Dauerdiagnose bzw. Anamnestische Diagnose  nicht abrechenbar ist, dann weist die Software den Anwender darauf hin, dass dieser ICD-10-GM-Kode überprüft werden muss.
 
 **Bedingung:**
 
@@ -627,15 +627,15 @@ Die Kodierung liegt in der Verantwortung des Arztes. Nur dieser entscheidet, bas
 |---|---|
 | **KP10-330** | „Strichergänzung“ bei nicht |
 
-Die Software muss sicherstellen, dass bei der Eingabe von nicht endständigen vierstelligen ICD-10-GM- Kodes eine automatische Strichergänzung durchgeführt wird.
+Die Software muss sicherstellen, dass bei der Eingabe von nicht endständigen vierstelligen ICD-10-GM-Kodes eine automatische Strichergänzung durchgeführt wird.
 
 **Begründung:**
 
-Eine automatische Strichergänzung (ann.n-) ist erforderlich, damit die Angabe von vierstelligen ICD-10-GM- Kodes als korrekt im Sinne der Ausnahmeregelung (s. Hinweis) identifiziert werden kann.
+Eine automatische Strichergänzung (ann.n-) ist erforderlich, damit die Angabe von vierstelligen ICD-10-GM-Kodes als korrekt im Sinne der Ausnahmeregelung (s. Hinweis) identifiziert werden kann.
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software prüft, ob ein mit der Struktur ann.n eingegebener vierstelliger ICD-10-GM-Kode in der ICD- Stammdatei (XML-Element *../icd_code/@V*) vorhanden ist.
+- 1. Die Software prüft, ob ein mit der Struktur ann.n eingegebener vierstelliger ICD-10-GM-Kode in der ICD-Stammdatei (XML-Element *../icd_code/@V*) vorhanden ist.
 - a) Wenn der eingegebene Kode mit der Struktur ann.n nicht vorhanden ist, dann prüft die Software, ob  ein entsprechender Kode mit Strichergänzung, also in der Struktur ann.n-, vorhanden ist.
 - i. Wenn ja, dann wird der Strich (-) automatisch ergänzt.
 - ii. Wenn nein, dann erhält der Anwender eine Fehlermeldung, dass der eingegebene Kode nicht  vorhanden ist.
@@ -678,7 +678,7 @@ Die regelhafte Verwendung des Diagnosenschlüssels Z01.7 anstelle von krankheits
 - 1. Die Software stellt sicher, dass die regelhafte Verwendung des ICD-10-GM-Kodes Z01.7 als Ersatzwert  möglich ist.
 - 2. Die Software kann bei Kodierung des ICD-10-GM-Kodes Z01.7 das Zusatzkennzeichen „G“ für die  Diagnosensicherheit in der FK 6003 vorbelegen.
 - 3. Die Software stellt sicher, dass die Übertragung des ICD-10-GM-Kodes Z01.7 als Dauerdiagnose unter FK  3673 (Dauerdiagnose) ausgeschlossen ist.
-- 4. Die Software ermöglicht dem Anwender, die vorbelegte Kombination aus Z01.7 und Zusatzkennzeichen  G zu ändern, und unterstützt die manuelle Erfassung und Übertragung von krankheitsspezifischen ICD- 10-Kodes mit dem Zusatzkennzeichen für die Diagnosensicherheit im Rahmen der Abrechnung.
+- 4. Die Software ermöglicht dem Anwender, die vorbelegte Kombination aus Z01.7 und Zusatzkennzeichen  G zu ändern, und unterstützt die manuelle Erfassung und Übertragung von krankheitsspezifischen ICD-10-Kodes mit dem Zusatzkennzeichen für die Diagnosensicherheit im Rahmen der Abrechnung.
 
 **Bedingung:**
 
@@ -707,7 +707,7 @@ Diagnosenschlüssel nach ICD-10-GM Durch diese Funktion kann der Aufwand für de
 
 - 1. Die Software kann ein automatisches Erkennen von ICD-10-GM-Kodes unterstützen.
 - a) Falls ein vorhandenes Kennzeichen der Diagnosensicherheit für den ICD-10-GM-Kode enthalten ist,  kann dieses automatisch mit übernommen werden.
-- 2. Die Software muss einen Hinweis ausgeben, in dem der Anwender auf die Übernahme des ICD-10-GM- Kodes hingewiesen wird.
+- 2. Die Software muss einen Hinweis ausgeben, in dem der Anwender auf die Übernahme des ICD-10-GM-Kodes hingewiesen wird.
 - 3. Die Software kann die identifizierten ICD-10-GM-Kodes nach einer erfolgten Bestätigung des Anwenders  als Anamnestische Diagnose(n) oder auch als Behandlungsdiagnose(n) für die Abrechnung übernehmen:
 - a) Wenn identifizierte ICD-10-GM-Kodes als Anamnestische Diagnose(n) übernommen werden sollen,  dann kann dies mit einer Gesamtquittierung oder Einzelquittierung erfolgen.
 - b) Identifizierte ICD-10-GM-Kodes dürfen nur per Einzelquittierung als Behandlungsdiagnosen für die  Abrechnung übernommen werden.
@@ -783,7 +783,7 @@ V.
 
 ---
 
-- 1. Die Software stellt sicher, dass die jeweils von der KBV im aktuellen Quartal ausgelieferte ICD- Stammdatei mit Beginn des Folgequartals für den Einsatz gilt und solange gilt, bis eine neue Version der  ICD-10-GM-Stammdatei zur Verfügung steht.
+- 1. Die Software stellt sicher, dass die jeweils von der KBV im aktuellen Quartal ausgelieferte ICD-Stammdatei mit Beginn des Folgequartals für den Einsatz gilt und solange gilt, bis eine neue Version der  ICD-10-GM-Stammdatei zur Verfügung steht.
 - 2. Die Software muss dem Anwender die Möglichkeit bieten, sich den Gültigkeitsstand der eingebundenen  Stammdatei anzeigen zu lassen.
 - 1. Die Software stellt sicher, dass die Daten der ICD-10-GM-Stammdatei vom Anwender inhaltlich nicht  verändert werden können.
 - 2. Die Software stellt sicher, dass die Daten der ICD-10-GM-Stammdatei der KBV während ggf.  notwendiger Transformationen zum Beispiel in ein anderes Format inhaltlich nicht verändert werden.
@@ -831,8 +831,8 @@ Für die im § 295 Abs. 1 SGB V genannten Zwecke müssen Diagnosen mit einem Sch
 
 - 1. Die Software prüft, ob der eingegebene ICD-Kode als Inhalt des XML-Elementes *../icd_code/@V* der  aktuellen ICD-10-GM-Stammdatei vorhanden ist.
 - 2. Falls der vom Anwender eingegebene ICD-Kode in der ICD-10-GM-Stammdatei nicht vorhanden ist, muss  die Software folgendes sicherstellen:
-- a) Erzeugen eines Hinweises, aus dem hervorgeht, dass der ICD-Kode nicht in der ICD-10-GM- Stammdatei existiert und daher nicht zur Abrechnung und/oder nicht bei den Formularen der  vertragsärztlichen Versorgung verwendet werden darf.
-- 1. Die Software prüft, ob zu dem eingegebenen ICD-10-GM-Kode in der ICD-10-GM-Stammdatei das XML- Element *../diagnose/abrechenbar/@V=“n* existiert. Falls zutreffend, muss die Software folgendes  sicherstellen:
+- a) Erzeugen eines Hinweises, aus dem hervorgeht, dass der ICD-Kode nicht in der ICD-10-GM-Stammdatei existiert und daher nicht zur Abrechnung und/oder nicht bei den Formularen der  vertragsärztlichen Versorgung verwendet werden darf.
+- 1. Die Software prüft, ob zu dem eingegebenen ICD-10-GM-Kode in der ICD-10-GM-Stammdatei das XML-Element *../diagnose/abrechenbar/@V=“n* existiert. Falls zutreffend, muss die Software folgendes  sicherstellen:
 - a) Erzeugen eines Hinweises, aus dem hervorgeht, dass der ICD-10-GM-Kode nicht zur Verschlüsselung  in einer Arbeitsunfähigkeitsbescheinigung zugelassen ist und nicht zur Abrechnung verwendet  werden darf.
 - b) Unterbinden einer Übertragung des nicht abrechenbaren ICD-10-GM-Kodes in die Abrechnungsdatei.
 - c) Verweigern der Verwendung dieses ICD-10-GM-Kodes in einer Arbeitsunfähigkeitsbescheinigung der  vertragsärztlichen Versorgung in einer Formularbedruckung oder elektronisch, falls die Software die  Ausstellung einer elektronischen Arbeitsunfähigkeitsbescheinigung zulässt.
@@ -877,7 +877,7 @@ Nicht mit Inhalt belegte Schlüsselnummern der ICD-10 sind für eine Kodierung v
 |---|---|
 | **P10-460** | Sekundärkode mit " |
 
-Die Software muss einen vom Anwender eingegebenen ICD-10-GM-Kode in Echtzeit dahingehend prüfen,  ob der ICD-10-GM-Kode das Notationskennzeichen " " (Stern) oder „!“ (Ausrufezeichen) besitzt. ICD-GM- Kodes, die ein solches Notationskennzeichen besitzen, sind als Sekundärkodes von Primärkodes  abzugrenzen.
+Die Software muss einen vom Anwender eingegebenen ICD-10-GM-Kode in Echtzeit dahingehend prüfen,  ob der ICD-10-GM-Kode das Notationskennzeichen " " (Stern) oder „!“ (Ausrufezeichen) besitzt. ICD-GM-Kodes, die ein solches Notationskennzeichen besitzen, sind als Sekundärkodes von Primärkodes  abzugrenzen.
 
 **Begründung:**
 
@@ -965,7 +965,7 @@ Durch die Überprüfung des Altersgruppenbezugs können nicht plausible Werte au
 
 - XML-Element
 - Hinweisen nicht mit auszugeben.
--  */diagnose/obere_altersgrenze/@V)*
+- */diagnose/obere_altersgrenze/@V)*
 
 (Diagnosensicherheit (FK 6003 bzw. 3674) = Z und/oder /diagnose/obere_altersgrenze/@V=“124 @U=“Jahr“): (Diagnosensicherheit (FK 6003 bzw. 3674) = Z und/oder /diagnose/obere_altersgrenze/@V=“124 @U=“Jahr“): und obere_altersgrenze/@V=“0“ @U=“Tag“ nur für Patienten in der Altersgruppe zwischen [mindestalter] und [höchstalter].“ Patienten in der Altersgruppe zwischen mindestalter] und [höchstalter].“ nur für Patienten ab einem Alter von [mindestalter].“ Patienten ab einem Alter von [mindestalter].“ nur für Patienten im Alter von [mindestalter = höchstalter].“-
 
@@ -1033,7 +1033,7 @@ Der Anwender erhält die Möglichkeit, die Korrektheit eines Diagnose Mitteleuro
 |---|---|
 | **P10-500** | IfSG-Meldung |
 
-Die Software muss den vom Anwender eingegebenen ICD-10-GM-Kode dahingehend prüfen, ob eine IfSG- Meldung notwendig ist.
+Die Software muss den vom Anwender eingegebenen ICD-10-GM-Kode dahingehend prüfen, ob eine IfSG-Meldung notwendig ist.
 
 **Begründung:**
 
@@ -1041,23 +1041,19 @@ Gemäß § 6 und § 7 Infektionsschutzgesetz (IfSG) sind bestimmte übertragbare
 
 **Akzeptanzkriterium:**
 
-- 1. Falls der eingegebene ICD-10-GM-Kode mit der Diagnosensicherheit  Stammdatei das XML-Element ..*/diagnose/infektionssch* die Software einen Hinweis ausgeben:
+- 1. Falls der eingegebene ICD-10-GM-Kode mit der Diagnosensicherheit  Stammdatei das XML-Element ..*/diagnose/infektionsschutzgesetz_meldepflicht/@V=“j“*  die Software einen Hinweis ausgeben:
 
 *Diagnosen dieses Kodes sind gemäß Infektionsschutzgesetz (IfSG) in der Regel meldepflichtig*
 
-**Ausnahme/ Erweiterung der Anforderung bei den ICD**
+**Ausnahme/ Erweiterung der Anforderung bei den ICD-10-GM-Kodes U07.1, U07.2 und U99.0:**
 
 Für die ICD-10-GM-Kodes U07.1, U07.2 und/oder U99.0 kann die Software dem Anwender ermöglichen, den  Hinweistext als bekannt zu markieren, damit eine erneute Anzeige des Hinweistex der genannten ICD-10-GM-Kodes nicht mehr erfolgt.
-
-- *utzgesetz_meldepflicht/@V=“j“*
-
-**-10-GM-Kodes U07.1, U07.2 und U99.0:**
 
 | OPTIONALE FUNKTION |  |
 |---|---|
 | **O10-510** | IfSG-Abrechnungsbesonderheit |
 
-Die Software kann den vom Anwender eingegebenen ICD-10-GM-Kode dahingehend prüfen, ob eine IfSG- Abrechnungsbesonderheit vorliegt.
+Die Software kann den vom Anwender eingegebenen ICD-10-GM-Kode dahingehend prüfen, ob eine IfSG-Abrechnungsbesonderheit vorliegt.
 
 **Begründung:**
 
@@ -1080,7 +1076,7 @@ nschlüssels zu überprüfen, der eine in
 - A V
 - vorliegt.
 - automatisch gesetzt werden.
-- in der ICD-10-GM- beinhaltet, muss
+- in der ICD-10-GM-beinhaltet, muss
 
 tes bei der Verwendung
 
@@ -1159,7 +1155,7 @@ Für die Freitext-Suche kann der ICD-10-Browser der KBV als Implementierungsbeis
 |---|---|
 | **O10-541** | Anlage von individuellen ICD-Favoritenlisten |
 
-Die Software kann dem Anwender das Anlegen und Pflegen von einer oder mehreren individuellen ICD- Favoritenlisten aus dem Gesamtkatalog bzw. dem Hausarzt- oder den Facharztkatalogen erlauben.
+Die Software kann dem Anwender das Anlegen und Pflegen von einer oder mehreren individuellen ICD-Favoritenlisten aus dem Gesamtkatalog bzw. dem Hausarzt- oder den Facharztkatalogen erlauben.
 
 **Begründung**
 
@@ -1256,7 +1252,7 @@ Im § 295 Abs. 4 SGB V wird bestimmt, dass die Verschlüsselung von Diagnosen  b
 
 - 1. Die Software stellt sicher, dass die jeweils gültige Version der KRW-Stammdatei quartalsgetreu  eingesetzt wird.
 
-der Vergabe und Übermittlung von ICD- -10-GM, ein Kodierregelwerk (KRW)
+der Vergabe und Übermittlung von ICD--10-GM, ein Kodierregelwerk (KRW)
 
 - KBV_ITA_VGEX_Schnittstelle_SDKRW) der
 - , mit einem
@@ -1266,7 +1262,7 @@ verbindlich zu regeln ist. Die  n verbindlichen Regelungen
 
 ---
 
-- 2. Die Software bietet dem Anwender die Möglichkeit, sich den Gültigkeitsstand der eingebundenen KRW- Stammdatei anzeigen zu lassen.
+- 2. Die Software bietet dem Anwender die Möglichkeit, sich den Gültigkeitsstand der eingebundenen KRW-Stammdatei anzeigen zu lassen.
 
 **Bedingung:**
 
@@ -1377,9 +1373,9 @@ Für die Verarbeitung der Regeln der KRW-Stammdatei ist zu berücksichtigen, das
 
 Die Abarbeitung der o.g. Blöcke in der KRW-Stammdatei hat sequenziell zu erfolgen, d.h. zunächst muss der  Wahrheitswert des Bedingungsblockes geprüft sein, bevor die Prüfung(en) und die Fehlerbehandlung  abgearbeitet werden. Sobald der Bedingungsblock als Gesamtausdruck den Wahrheitswert FALSE  annimmt, muss die Kodierregel nicht weiterverarbeitet werden.
 
-Die Verarbeitung des Wahrheitswertes innerhalb der Blöcke „Bedingung“ und „Prüfung“ muss bei ODER- verknüpften Ausdrücken eines Gesamtausdruckes vollständig erfolgen, d.h. für jeden dieser Ausdrücke ist  der Wahrheitswert zu prüfen, bevor der Wahrheitswert des Gesamtausdruckes bestimmt wird. Diese Form  der Abarbeitung soll die Vollständigkeit von Informationen für eine ggf. vorzunehmende softwaregestützte  Korrektur, insbesondere vom Typ „DELETE“, sichern.
+Die Verarbeitung des Wahrheitswertes innerhalb der Blöcke „Bedingung“ und „Prüfung“ muss bei ODER-verknüpften Ausdrücken eines Gesamtausdruckes vollständig erfolgen, d.h. für jeden dieser Ausdrücke ist  der Wahrheitswert zu prüfen, bevor der Wahrheitswert des Gesamtausdruckes bestimmt wird. Diese Form  der Abarbeitung soll die Vollständigkeit von Informationen für eine ggf. vorzunehmende softwaregestützte  Korrektur, insbesondere vom Typ „DELETE“, sichern.
 
-Die Definition des Ereignisses „bei Kodierung“ („Prüfzeitpunkt“) zur Ausführung der Kodierregeln ist, dass  dem Anwender möglichst schon bei der Verschlüsselung einer Behandlungsdiagnose mit einem ICD-10-GM- Kode der Hinweis auf eine möglicherweise nicht sachgerechte Kodierung angezeigt und mit dem Angebot  einer software-unterstützen Korrektur verbunden wird. Das Ereignis „bei Kodierung“ kann die Eingabe  einer oder mehrerer ICD-10-GM-Kodes - als Behandlungsdiagnosen oder die Übernahme von  Dauerdiagnosen - umfassen. Das Hinzufügen, Ersetzen oder Löschen von Behandlungsdiagnosen durch die  software-unterstütze Korrektur auf Basis einer Kodierregel fällt nicht unter die Definition des Ereignisses  „bei Kodierung“ und löst somit keine Ausführung der Kodierregeln aus
+Die Definition des Ereignisses „bei Kodierung“ („Prüfzeitpunkt“) zur Ausführung der Kodierregeln ist, dass  dem Anwender möglichst schon bei der Verschlüsselung einer Behandlungsdiagnose mit einem ICD-10-GM-Kode der Hinweis auf eine möglicherweise nicht sachgerechte Kodierung angezeigt und mit dem Angebot  einer software-unterstützen Korrektur verbunden wird. Das Ereignis „bei Kodierung“ kann die Eingabe  einer oder mehrerer ICD-10-GM-Kodes - als Behandlungsdiagnosen oder die Übernahme von  Dauerdiagnosen - umfassen. Das Hinzufügen, Ersetzen oder Löschen von Behandlungsdiagnosen durch die  software-unterstütze Korrektur auf Basis einer Kodierregel fällt nicht unter die Definition des Ereignisses  „bei Kodierung“ und löst somit keine Ausführung der Kodierregeln aus
 
 Der Wert „bei Kodierung“ ist in der KRW-Stammdatei standardmäßig für behandlungsfallbezogene Regeln  eingestellt. Dennoch soll der Anwender die Möglichkeit erhalten, auszuwählen, ob eine  behandlungsfallbezogene Regel bei der Generierung von Kode (Prüfzeitpunkt „bei Kodierung“) oder im  Rahmen der Abrechnung, inklusive Testabrechnungsläufe, (Prüfzeitpunkt „zur Abrechnung“) abgearbeitet  werden soll. Näheres dazu wird in der Funktion KP10-650 Konfiguration der behandlungsfallbezogenen  Kodierregeln“ beschrieben.
 
@@ -1639,7 +1635,7 @@ Hinweise:  Das XML-Element *../kodierregel/pruefung/parameter/@V* besitzt im Pr�
 
 Wenn der Prüfungsblock mehr als einen Wert (XML-Element  *../kodierregel/bedingung/value_liste/value/@*) enthält, dann ist immer der Operator (XML-Element  *../kodierregel/bedingung/operator/@V*) angegeben.
 
-- i. Wenn ein Subprüfungsblock vorhanden ist, dann wird jeder Wert des Subprüfungsblockes (XML Element *../kodierregel/pruefung/subpruefung/value_liste/value/@V*) mit dem im  Subprüfungsblock angegebenen Parameter (XML-Element  *../kodierregel/pruefung/subpruefung/parameter/@V*) der Behandlungsdiagnose mittels des  angegebenen Vergleichsoperators (XML-Element *../kodierregel/pruefung/subpruefung/existenz*  */@V*) verglichen und die einzelnen Teilergebnisse werden mit der angegebenen Operation (XML- Element *../kodierregel/pruefung/subpruefung/operator/@V*) logisch verknüpft.  Beispiel anhand eines Wertes der Kodierregl-ID: 01-02-025: (DS = „G“)
+- i. Wenn ein Subprüfungsblock vorhanden ist, dann wird jeder Wert des Subprüfungsblockes (XML Element *../kodierregel/pruefung/subpruefung/value_liste/value/@V*) mit dem im  Subprüfungsblock angegebenen Parameter (XML-Element  *../kodierregel/pruefung/subpruefung/parameter/@V*) der Behandlungsdiagnose mittels des  angegebenen Vergleichsoperators (XML-Element *../kodierregel/pruefung/subpruefung/existenz*  */@V*) verglichen und die einzelnen Teilergebnisse werden mit der angegebenen Operation (XML-Element *../kodierregel/pruefung/subpruefung/operator/@V*) logisch verknüpft.  Beispiel anhand eines Wertes der Kodierregl-ID: 01-02-025: (DS = „G“)
 - ii. Das Teilergebnis der Subprüfung wird immer mit einem logischen AND mit dem Ergebnis des  Prüfungsblockes nach 3.a) verknüpft, um das abschließende Ergebnis der Prüfung zu erhalten.   Beispiel für die Zusammenstellung des Prüfungsblocks anhand der Kodierregel-ID: 01-02-011:  (ICD = "E11.0-" OR ICD = "E11.01" OR ICD = "E11.1-" OR ICD = "E11.11" OR ICD = "E11.2-" OR ICD  = "E11.20" OR ICD = "E11.21" OR ICD = "E11.3-" OR ICD = "E11.30" OR ICD = "E11.31" OR ICD =  "E11.4-" OR ICD = "E11.40" OR ICD = "E11.41" OR ICD = "E11.5-" OR ICD = "E11.50" OR ICD =  "E11.51" OR ICD = "E11.6-" OR ICD = "E11.60" OR ICD = "E11.61" OR ICD = "E11.7-" OR ICD =  "E11.72" OR ICD = "E11.73" OR ICD = "E11.74" OR ICD = "E11.75" OR ICD = "E11.8-" OR ICD =  "E11.80" OR ICD = "E11.81" OR ICD = "E11.9-" OR ICD = "E11.90" OR ICD = "E11.91" OR ICD =  "E12.0-" OR ICD = "E12.01" OR ICD = "E12.1-" OR ICD = "E12.11" OR ICD = "E12.2-" OR ICD =  "E12.20" OR ICD = "E12.21" OR ICD = "E12.3-" OR ICD = "E12.30" OR ICD = "E12.31" OR ICD =  "E12.4-" OR ICD = "E12.40" OR ICD = "E12.41" OR ICD = "E12.5-" OR ICD = "E12.50" OR ICD =  "E12.51" OR ICD = "E12.6-" OR ICD = "E12.60" OR ICD = "E12.61" OR ICD = "E12.7-" OR ICD =  "E12.72" OR ICD = "E12.73" OR ICD = "E12.74" OR ICD = "E12.75" OR ICD = "E12.8-" OR ICD =  "E12.80" OR ICD = "E12.81" OR ICD = "E12.9-" OR ICD = "E12.90" OR ICD = "E12.91" OR ICD =  "E13.0-" OR ICD = "E13.01" OR ICD = "E13. 1-" OR ICD = "E13.11" OR ICD = "E13.2-" OR ICD =  "E13.20" OR ICD = "E13.21" OR ICD = "E13.3-" OR ICD = "E13.30" OR ICD = "E13.31" OR ICD =  "E13.4-" OR ICD = "E13.40" OR ICD = "E13.41" OR ICD = "E13.5-" OR ICD = "E13.50" OR ICD =  "E13.51" OR ICD = "E13.6-" OR ICD = "E13.60" OR ICD = "E13.61" OR ICD = "E13.7-" OR ICD =  "E13.72" OR ICD = "E13.73" OR ICD = "E13.74" OR ICD = "E13.75" OR ICD = "E13.8-" OR ICD =  "E13.80" OR ICD = "E13.81" OR ICD = "E13.9-" OR ICD = "E13.90" OR ICD = "E13.91") AND  (DS = „G“)
 
 Hinweise:
@@ -1703,7 +1699,7 @@ Der Anwender muss die Möglichkeit haben, die quartalsübergreifenden Kodierrege
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss dem Anwender die Möglichkeit bieten, die aktiv und mit dem Prüfzeitpunkt  „wählbar“ gekennzeichneten quartalsübergreifenden Kodierregel und nicht vom Anwender nach KP10- 750 Akzeptanzkriterium 2 für eine erneute Prüfung ausgeschlossenen quartalsübergreifenden  Kodierregel gemäß KP10-730 über alle Behandlungsdiagnosen für alle Behandlungsfälle des aktuellen  Quartals zu einem frei gewählten Zeitpunkt auszuführen.
+- 1. Die Software muss dem Anwender die Möglichkeit bieten, die aktiv und mit dem Prüfzeitpunkt  „wählbar“ gekennzeichneten quartalsübergreifenden Kodierregel und nicht vom Anwender nach KP10-750 Akzeptanzkriterium 2 für eine erneute Prüfung ausgeschlossenen quartalsübergreifenden  Kodierregel gemäß KP10-730 über alle Behandlungsdiagnosen für alle Behandlungsfälle des aktuellen  Quartals zu einem frei gewählten Zeitpunkt auszuführen.
 - a) Eine Kodierregeln gilt in diesem Fall als aktiv, falls
 - i. die Kodierregel in der KRW-Stammdatei als obligat (XML-Element  *../kodierregel/regelanwendung/@V* =“1“) gekennzeichnet ist
 - ii. oder wenn der Anwender die Kodierregel im Rahmen der Konfiguration als aktiv markiert hat
@@ -1792,7 +1788,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme, die aussc
 - zur Abrechnung im Rahmen von Selektivverträgen in einem spezifischen Bereich, mit einem  kontextbezogenen fest vorgegebenen gleichbleibenden Diagnosenspektrum und ohne die dauerhafte  Behandlung von Erkrankten mit chronischen Diagnosen
 - 1. Die Anzeige der Prüfergebnisse erfolgt zusammengefasst in einer verständlichen und übersichtlichen  Form
 - 2. Die Zusammenfassung enthält mindestens pro Prüfergebnis folgende Informationen:
-- a) ICD-10-GM-Kode(s) mit dem Diagnoseklartext (XML-Element *../diagnose/bezeichnung/@V* der ICD- Stammdatei) oder einen entsprechenden Diagnosenthesaurus (XML-Element  *../diagnose/diagnosethesaurus_liste/diagnosethesaurus/@V* der ICD-Stammdatei), bei dem/denen  eine möglicherweise nicht sachgerechte Kodierung vorliegt/vorliegen
+- a) ICD-10-GM-Kode(s) mit dem Diagnoseklartext (XML-Element *../diagnose/bezeichnung/@V* der ICD-Stammdatei) oder einen entsprechenden Diagnosenthesaurus (XML-Element  *../diagnose/diagnosethesaurus_liste/diagnosethesaurus/@V* der ICD-Stammdatei), bei dem/denen  eine möglicherweise nicht sachgerechte Kodierung vorliegt/vorliegen
 - b) Hinweise aus dem XML-Element *../fehlerbehandlung/hinweis/@V*
 - c) Informationen, die den einzelnen Patienten/Fall eindeutig identifizieren
 - 3. Pro Prüfergebnis muss der Anwender die Möglichkeit haben, sich den Korrekturvorschlag nach KP10-750  anzeigen zu lassen und durchzuführen.
@@ -1929,7 +1925,7 @@ Zusammen mit dem Hinweis auf eine möglicherweise nicht sachgerechte Kodierung s
 - a) Sofern das XML-Element *../fehlerbehandlung/korrektur/parameter/@V* den Wert „ICD“ hat,
 - i. Prüft die Software, ob zu der Kodierregel das XML-Element  *../fehlerbehandlung/korrektur/subkorrektur* vorhanden ist.
 - 1. Wenn ja, dann wird der Wert des XML-Elementes  *../fehlerbehandlung/korrektur/subkorrektur/value_liste/value/@V* angezeigt.
-- b) Sofern das XML-Element *../fehlerbehandlung/korrektur/parameter* den Wert „ICD“ hat, zeigt die  Software zu jedem Wert den Diagnoseklartext (XML-Element *../diagnose/bezeichnung/@V* der ICD- Stammdatei) oder einen entsprechenden Diagnosenthesaurus (XML-Element  *../diagnose/diagnosethesaurus_liste/diagnosethesaurus/@V* der ICD-Stammdatei) an.
+- b) Sofern das XML-Element *../fehlerbehandlung/korrektur/parameter* den Wert „ICD“ hat, zeigt die  Software zu jedem Wert den Diagnoseklartext (XML-Element *../diagnose/bezeichnung/@V* der ICD-Stammdatei) oder einen entsprechenden Diagnosenthesaurus (XML-Element  *../diagnose/diagnosethesaurus_liste/diagnosethesaurus/@V* der ICD-Stammdatei) an.
 - 2. Der Anwender muss die Möglichkeit haben, die Kodierregel auslösende Behandlungsdiagnose durch  einen der aus Akzeptanzkriterium 1 angezeigten Einträge in der Abrechnung zu ersetzen.
 - a) Die Software übernimmt den ausgewählten Wert des XML-Elements  *../fehlerbehandlung/korrektur/value_liste/value/@V* wie folgt:
 - i. in das Feld 6001, wenn es sich bei der zu ersetzenden Behandlungsdiagnose nicht um eine  Dauerdiagnose gehandelt hat.
@@ -2201,7 +2197,7 @@ Die Software muss den Anwender durch verschiedene Suchverfahren unter Berücksic
 
 Patientendokumentation über die
 
-- -Recherche, z.B. bei dem Aufruf der Inhalte ICD- anbieten.
+- -Recherche, z.B. bei dem Aufruf der Inhalte ICD-anbieten.
 
 -40 umgesetzt
 
@@ -2223,9 +2219,9 @@ Durch die verschiedenen Suchverfahren soll der Anwender die Möglichkeit erhalte
 - 1. Die Software ermöglicht dem Anwender mindestens folgende Einstiegspunkte für die Suche:
 - a) Kodierungsprüfung:
 - i. Suche über die Eingabe eines gültigen ICD-10-GM-Kodes nach der ICD-10-GM-Stammdatei,
-- ii. Suche über die Eingabe eines Freitextes unter Berücksichtigung der Werte in den Elementen  ICD-Bezeichnung (XML-Element ..*/diagnose/bezeichnung/@V*) bzw. des „Diagnosenthesaurus“  (XML-Element ..*/diagnose/diagnosethesaurus_liste/diagnosethesaurus/@V*) der ICD-10-GM- Stammdatei.
+- ii. Suche über die Eingabe eines Freitextes unter Berücksichtigung der Werte in den Elementen  ICD-Bezeichnung (XML-Element ..*/diagnose/bezeichnung/@V*) bzw. des „Diagnosenthesaurus“  (XML-Element ..*/diagnose/diagnosethesaurus_liste/diagnosethesaurus/@V*) der ICD-10-GM-Stammdatei.
 - b) Kodeermittlung:
-- i. Suche über die Eingabe eines Freitextes unter Berücksichtigung des „Kriterienthesaurus“ XML- Element ../*diagnose/kriterien_liste/kriterium/text/@V*) der Kodierhilfe-Stammdatei.
+- i. Suche über die Eingabe eines Freitextes unter Berücksichtigung des „Kriterienthesaurus“ XML-Element ../*diagnose/kriterien_liste/kriterium/text/@V*) der Kodierhilfe-Stammdatei.
 - 1. Die Software ermöglicht dem Anwender die Eingabe von mehreren Stichwörtern, die für die  Suche logisch verknüpft werden können.
 - 2. Die Software ermöglicht dem Anwender, die ermittelten Kriterien frei zu kombinieren  und/oder weitere Kriterien hinzuzufügen, um schrittweise die Anzahl der in Frage  kommenden ICD-10-GM-Kodes zu verringern.
 - 2. Die Software stellt das Suchergebnis wie folgt dar:
@@ -2244,7 +2240,7 @@ Durch die verschiedenen Suchverfahren soll der Anwender die Möglichkeit erhalte
 
 *Für den Suchbegriff konnte weder ein Kriterium noch ein Hinweis in der Kodierhilfe-Stammdatei*  *gefunden werden.*
 
-- ii. Falls die Suche gemäß Akzeptanzkriterium 1.b)i. Treffer für einen oder mehrere ICD-10-GM- Kodes ergibt, werden diese wie folgt angezeigt:
+- ii. Falls die Suche gemäß Akzeptanzkriterium 1.b)i. Treffer für einen oder mehrere ICD-10-GM-Kodes ergibt, werden diese wie folgt angezeigt:
 
 
 ---
@@ -2272,16 +2268,16 @@ Die Software muss dem Anwender die Treffer nach der Anforderung KP11-50 in einer
 
 **Begründung:**
 
-Um den Anwender bei der Anzeige von mehreren Ergebnissen seiner Suche nach einem passenden ICD-10- GM-Kode zu unterstützen, muss die Anzeige in einer übersichtlichen Art erfolgen.
+Um den Anwender bei der Anzeige von mehreren Ergebnissen seiner Suche nach einem passenden ICD-10-GM-Kode zu unterstützen, muss die Anzeige in einer übersichtlichen Art erfolgen.
 
 **Akzeptanzkriterium:**
 
 - 1. Die Software muss in der Übersicht mindestens die folgenden Informationen Anzeigen:
 - a) ICD-10-GM-Kode (XML-Element *../diagnose/icd_code/@V*
-- b) zugehöriger Diagnoseklartext (XML-Element ..*/diagnose/bezeichnung/@V* der ICD-10-GM- Stammdatei)
+- b) zugehöriger Diagnoseklartext (XML-Element ..*/diagnose/bezeichnung/@V* der ICD-10-GM-Stammdatei)
 - c) Die notwendigen Kriterien nach der Kodierhilfe-Stammdatei  (Identifikation der notwendigen Kriterien: XML-Element*../kriterien_liste/kriterium/notwendig/@V*  = „true“; anzuzeigender Text: XML-Element *../kriterien_liste/kriterium/text/@V*
 - 2. Die Software ermöglicht dem Anwender die Sortierung der Informationen in der Übersicht.
-- 3. Die Software ermöglicht dem Anwender die Anzeige der Informationen zu einem Treffer gemäß KP11- 90
+- 3. Die Software ermöglicht dem Anwender die Anzeige der Informationen zu einem Treffer gemäß KP11-90
 - 4. Die Software ermöglicht dem Anwender im Rahmen der patientenbezogenen Suche aus der Übersicht  heraus die Übernahme eines ICD-10-GM-Kodes nach KP11-140
 
 **Bedingung:**
@@ -2349,7 +2345,7 @@ Wenn die Software die Funktion O11-10 umsetzt, dann muss ebenfalls die Funktion 
 |---|---|
 | **KP11-140** | Übernahme des ICD-10-Kodes in die Abrechnungsdokumentation |
 
-Die Software muss dem Anwender die Möglichkeit bieten, den ausgewählten bzw. ermittelten ICD-10-GM- Kode nach KP11-90 als Behandlungsdiagnose in die Abrechnung zu übernehmen.
+Die Software muss dem Anwender die Möglichkeit bieten, den ausgewählten bzw. ermittelten ICD-10-GM-Kode nach KP11-90 als Behandlungsdiagnose in die Abrechnung zu übernehmen.
 
 **Begründung:**
 
@@ -2365,7 +2361,7 @@ Wenn die Software die Funktion O11-10 umsetzt, dann muss ebenfalls die Funktion 
 
 # 6 EINSATZ DER VERSCHLÜSSELUNGSANLEITUNG-STAMMDATEI DER  KBV
 
-Das BfArM gibt zusammen mit dem Systematischen Verzeichnis der ICD-10-GM jährlich eine Anleitung zur  Verschlüsselung mit der ICD-10-GM und einen Kommentar zu den wesentlichen Änderungen der ICD-10- GM heraus. Um zu gewährleisten, dass diese Informationen dem Anwender einheitlich zur Verfügung  stehen, wurde die Verschlüsselungsanleitung-Stammdatei für eine Implementierung in die Software  etabliert.
+Das BfArM gibt zusammen mit dem Systematischen Verzeichnis der ICD-10-GM jährlich eine Anleitung zur  Verschlüsselung mit der ICD-10-GM und einen Kommentar zu den wesentlichen Änderungen der ICD-10-GM heraus. Um zu gewährleisten, dass diese Informationen dem Anwender einheitlich zur Verfügung  stehen, wurde die Verschlüsselungsanleitung-Stammdatei für eine Implementierung in die Software  etabliert.
 
 Für die Einbindung in Softwaresysteme, die ausschließlich:
 
@@ -2391,7 +2387,7 @@ Für die Verwendung der ICD-10-GM stellt das BfArM eine Anleitung zur Verschlüs
 |---|---|
 | **P11-710** | Gültigkeit |
 
-Die im aktuellen Quartal bereitgestellte Version der Verschlüsselungsanleitung-Stammdatei gilt für den  Einsatz mit Beginn des Folgequartals, solange bis eine neue Version der Verschlüsselungsanleitung- Stammdatei zur Verfügung steht.
+Die im aktuellen Quartal bereitgestellte Version der Verschlüsselungsanleitung-Stammdatei gilt für den  Einsatz mit Beginn des Folgequartals, solange bis eine neue Version der Verschlüsselungsanleitung-Stammdatei zur Verfügung steht.
 
 **Begründung:**
 
@@ -2509,7 +2505,7 @@ Der Anwender soll in die Lage versetzt werden, sich über alle relevanten Änder
 
 **Akzeptanzkriterium**
 
-- 1. Die Software stellt sicher, dass sich der Anwender die jährlichen wesentlichen Änderungen (XML- Element …/haupt_zweig_liste/*haupt_zweig/@V=“2“* Kodes anzeigen lassen kann.
+- 1. Die Software stellt sicher, dass sich der Anwender die jährlichen wesentlichen Änderungen (XML-Element …/haupt_zweig_liste/*haupt_zweig/@V=“2“* Kodes anzeigen lassen kann.
 - ) gesamthaft ohne einen Bezug zu ICD
 
 ICD-10-GM in
