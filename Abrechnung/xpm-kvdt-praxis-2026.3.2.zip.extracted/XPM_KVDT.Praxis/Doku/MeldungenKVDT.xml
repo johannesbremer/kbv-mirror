@@ -940,7 +940,7 @@
 	<meldung>
 		<nummer>KVDT-R770</nummer>
 		<typ>Warnung</typ>
-		<text>Wenn Feldinhalt von 5001 = 11511[G-alpha], 11512[G-alpha], 11516[G-alpha], 11517[G-alpha], 11518[G-alpha], 11521 [G-alpha], 11721 [G-alpha], 11722 [G-alpha], 11723 [G-alpha], 11724 [G-alpha], 11728 [G-alpha], 11730 [G-alpha] oder 11731 [G-alpha], dann müssen die Felder 5077 und 5079 genau einmal vorhanden sein.</text>
+		<text>Wenn Feldinhalt von 5001 = 11511[G-alpha], 11512[G-alpha], 11516[G-alpha], 11517[G-alpha], 11518[G-alpha], 11521 [G-alpha], 11721 [G-alpha], 11722 [G-alpha], 11723 [G-alpha], 11728 [G-alpha], 11730 [G-alpha] oder 11731 [G-alpha], dann müssen die Felder 5077 und 5079 genau einmal vorhanden sein.</text>
 		<maxcount>5</maxcount>
 	</meldung>
 	<meldung>

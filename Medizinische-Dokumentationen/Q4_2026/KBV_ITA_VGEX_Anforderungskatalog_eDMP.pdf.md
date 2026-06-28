@@ -1301,11 +1301,7 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 - 2. Falls eine Folgedokumentation erstellt wird, muss das System nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ die Differenz zum Wert dieses Parameters aus der  vorhergehenden verfügbaren Dokumentation berechnen.
 
-ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 (
-
-܅𝐖𝐖𝐖𝐖ܜ
-
-⁦ܑ⁩۲܎܎܍⁦ܚ܍ܖܢ ܅𝐖𝐖𝐖𝐖ܜ⁩
+𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖
 
 - 3. Falls eine Folgedokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert und vom  berechneten Differenzwert der folgende Text als Hinweis zur Anzeige gebracht werden, ohne d en  Workflow zu unterbrechen:
 
@@ -1313,17 +1309,11 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 -
 ```
 
-ܑ𝐃𝐃ܖ
+𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
 
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
 
-ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠ܞ𝐯𝐯𝐯𝐯𝐯𝐯 ܌𝐯𝐯
-
-ܑ𝐃𝐃ܖ
-
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
-
-Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 (
+Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ 𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
 
 
 ---
@@ -1387,15 +1377,7 @@ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptoma
 
 ---
 
-ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 (
-
-܅𝐖𝐖𝐖𝐖ܜ
-
-⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲
-
-(𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܔܔ𝐚𝐚
-
-܅𝐖𝐖𝐖𝐖ܜ
+𝐖𝐖𝐖𝐖 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚
 
 - **3.** Falls eine Folgedokumentation erstellt wird, muss das System dem Anwender nach der Erfassung des  Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den  Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom aktuellen Parameterwert und vom  berechneten Differenzwert ab:
 
@@ -1444,15 +1426,11 @@ Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz z
 
 **Begründung:**
 
-ܑ𝐃𝐃ܖ
+𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
 
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐃𝐃
 
-ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠ܞ𝐯𝐯𝐯𝐯𝐯𝐯 ܌𝐯𝐯
-
-ܑ𝐃𝐃ܖ
-
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
 
 „Aktuell in Remission“
 
@@ -1624,7 +1602,7 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 *„Aktueller BMI = [BMI] kg/m*
 
-⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
+𝐃𝐃 𝐃𝐃
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -1640,36 +1618,17 @@ Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 - b) Falls in dem Akzeptanzkriterium 2 die Berechnung nicht durchführbar ist, weil die für die Berechnung  notwendige vorherige Dokumentation nicht zur Verfügung steht oder gefunden werden kann, wird  das Akzeptanzkriterium 2 nicht geprüft und angezeigt.
 - **3.** Das System muss nach jeder Angabe des Parameters „Körpergewicht“ in einer Folgedokumentation die  Differenz des Wertes des Parameters „Körpergewicht“ in der aktuellen Dokumentation zum Wert des  Parametes „Körpergewicht“ aus der Erstdokumentation berechnen, sofern die Erstdokumentation im  System vorliegt.
+- **Tabelle 22**) den Body-Mass-Index (BMI) berechnen.
 
-۰ۻ۷
+ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐫𝐫 𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤  ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦)²
 
 *2*
 
-܅𝐖𝐖𝐖𝐖 ܜ (𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 ܅𝐖𝐖𝐖𝐖ܜ (ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯
+𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
-- **Tabelle 22**) den Body-Mass-Index (BMI) berechnen.
+𝐚𝐚 𝐃𝐃
 
-𝐤𝐤𝐤𝐤 (
-
-ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫
-
-ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
-
-)²𝐦𝐦 (𝐞𝐞öß
-
-ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
-
-ܑ𝐃𝐃ܖ
-
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
-
-) ܑ𝐃𝐃ܖ
-
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
-
-ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠ܞ𝐯𝐯𝐯𝐯𝐯𝐯 ܌𝐯𝐯
-
-܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠
 
 Anzuzeigender Text
 
@@ -1679,30 +1638,28 @@ Anzuzeigender Text
 
 *„Differenz zwischen dem aktuellen Körpergewicht und dem*  *Körpergewicht der letzten verfügbaren Dokumentation:*  *[Differenzwert] kg* *(Gewichtsstabilisierung)“*
 
+𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+
 
 ---
 
-)𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄⁧۳ ⁩𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚( ܜ𝐖𝐖𝐖𝐖܅ −)ܖ𝐃𝐃ܑ𝐃𝐃𝐃𝐃𝐃𝐃ܖ܍ܕܝܓ𝐃𝐃⁧۲ ⁩𝐚𝐚ܔܔ𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚( ܜ 𝐖𝐖𝐖𝐖܅=𝐃𝐃ܚ܍𝐃𝐃⁧۲⁩ܑ܎܎܍ܚ܍ܖܢ
+𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
-⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚 (
+𝐚𝐚 𝐃𝐃
 
-− ܅𝐖𝐖𝐖𝐖ܜ
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-ܑ𝐃𝐃ܖ
+𝐃𝐃 𝐃𝐃 𝐢𝐢𝐢𝐢 % = 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
+𝐚𝐚 𝐃𝐃
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
 
-܅𝐖𝐖𝐖𝐖ܜ
+𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-∗ ૚૙૙
-
-% =𝐢𝐢𝐢𝐢 ܢܖ܍ܚ܍܎܎ܑ⁧۲⁩𝐃𝐃܍ܚ𝐃𝐃
-
-⁧۳⁩𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄 𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚 (
-
-܅𝐖𝐖𝐖𝐖ܜ
+𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -1759,17 +1716,13 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 - 1. Das System muss in jeder Dokumentation nach Angabe der Parameter „Körpergewicht“ und  „Körpergröße“ den Standard Deviation Score (BMI-SDS) nach der folgenden Formel berechnen:
 
-܁𝐒𝐒܁
-
-۰ۻ۷
-
-− ૚𝐭𝐭⁧ۺ⁩𝐭𝐭𝐌𝐌
-
-۰ۻ۷
+𝐒𝐒
 
 𝐭𝐭
 
-) ×𝐭𝐭⁧ۺ⁩
+𝐌𝐌 𝐭𝐭
+
+𝐭𝐭) × 𝐭𝐭
 
 - a) Das System muss den Wert des berechneten BMI-SDS in den Parameter „BMI-SDS“ der aktuellen  Dokumentation übernehmen.
 - b) Das System muss nach der automatischen Erfassung des Parameters „BMI-SDS“ einen Text als Hinweis  zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der anzuzeigende Text ist abhängig von  dem berechneten BMI-SDS Wert:
@@ -1788,17 +1741,7 @@ Für die verwendeten Parameter gilt:
 
 - **BMI**: Der Body-Mass-Index (BMI) berechnet sich als Quotient aus dem aktuellen Körpergewicht und der  aktuellen Körpergröße zum Quadrat
 
-۰ۻ۷
-
-𝐤𝐤𝐤𝐤 (
-
-ܟ𝐫𝐫܋𝐫𝐫𝐫𝐫
-
-ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
-
-)) 𝐦𝐦𝐞𝐞öß
-
-ö𝐫𝐫ܘ𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫⁧۹⁩
+ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐫𝐫 𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤  ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦
 
 - **M(t), L(t)** und** S(t)**: Die Werte für M(t), L(t) und S(t) werden aus den geschlechtsspezifischen Tabellen -
 - **Tabelle 17 (männlich)** oder **Tabelle 18 (weiblich oder divers),** entnommen. Dafür muss zunächst das
@@ -2008,25 +1951,13 @@ Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in 
 
 - 2. Das System muss in jeder Folgedokumentation die Differenz des Wertes BMI-SDS in der aktuellen  Dokumentation zum Wert des BMI-SDS aus der vorhergehenden verfügbaren Dokumentation nach der  folgenden Formel berechnen
 
-ܑ𝐃𝐃ܖ
+𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃 ܔܔ𝐚𝐚
+𝐚𝐚 𝐃𝐃
 
-𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 (
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
 
-܅𝐖𝐖𝐖𝐖ܜ
-
-⁦ܢܖ܍ܚ܍܎܎ܑ⁩۲⁦𝐃𝐃܍ܚ𝐃𝐃⁩
-
-ܑ𝐃𝐃ܖ
-
-⁧۲⁩𝐃𝐃ܓܝܕ܍ܖ𝐃𝐃𝐃𝐃𝐃𝐃
-
-ü𝐠𝐠܊܉𝐠𝐠𝐠𝐠ܞ𝐯𝐯𝐯𝐯𝐯𝐯 ܌𝐯𝐯
-
-ܞܗ𝐯𝐯ܐ𝐯𝐯𝐯𝐯 ܏𝐯𝐯ܐ𝐯𝐯𝐯𝐯 (
-
-܅𝐖𝐖𝐖𝐖ܜ
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -2041,7 +1972,11 @@ Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 - b) Falls die Berechnung nicht durchführbar ist, weil eine der für die Berechnung notwendigen  Dokumentationen nicht zur Verfügung steht oder gefunden werden kann, wird das Akzeptanzkriterium  2 nicht geprüft und angezeigt.
 - 3. Das System muss in jeder Folgedokumentation die Differenz des Wertes des BMI-SDS aus der aktuellen  Dokumentation zum Wert des BMI-SDS aus der Erstdokumentation nach der folgenden Formel  berechnen, sofern die Erstdokumentation im System vorliegt.
 
-)𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄⁧۳ ⁩𝐝𝐝𝐝𝐝𝐝𝐝 ܛ𝐚𝐚𝐚𝐚( ܜ𝐖𝐖𝐖𝐖܅ −)ܖ𝐃𝐃ܑ𝐃𝐃𝐃𝐃𝐃𝐃ܖ܍ܕܝܓ𝐃𝐃⁧۲ ⁩𝐚𝐚ܔܔ𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚( ܜ 𝐖𝐖𝐖𝐖܅=𝐃𝐃ܚ܍𝐃𝐃⁧۲⁩ܑ܎܎܍ܚ܍ܖܢ
+𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+
+𝐚𝐚 𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 

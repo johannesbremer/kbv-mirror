@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**20. JUNI 2026**
+**27. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -51,7 +51,7 @@ x Vertrieb GmbH
 
 asthenis GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 20. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 27. Juni 2026
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
@@ -548,6 +548,8 @@ Doctolib GmbH
 **Limport** Dr. Eissing und Partner GmbH
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
+
+x
 
 x
 
@@ -1270,7 +1272,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 20. Juni 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 27. Juni 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
@@ -1984,38 +1986,39 @@ x
 
 x
 
+x
+
 Name der Software und Anbieter QS QualitySoft GmbH RED medical classic RED Medical Systems GmbH RED Medical Systems GmbH RescuePro Production GmbH & Co. KG RpDoc Klinik RpDoc Solutions GmbH RpDoc eMMa RpDoc Solutions GmbH S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management Schmidt Computersysteme Schwerdtner Medizin-Software GmbH SIEGELE Software GmbH star.net® Labor Sonic Healthcare Germany GmbH & Co. KGx
 
 
 ---
 
-**Name der Software und Anbieter**
-
-**Patho.Net** Sonic Healthcare Germany GmbH & Co. KG
-
-**DOCNET** Sonic Healthcare Germany GmbH & Co. KG
-
-**PalliDoc** Statconsult GmbH
-
-**IOX-LS** STIWA AMS GmbH
-
-**MEDI_LINE** Strzata, Dr. med. Norbert
-
-**SYNconnect** SYNLAB Holding Deutschland GmbH
-
-**proLAB** SysTek GmbH
-
-**T2med** T2med GmbH & Co. KG
-
-**TeleClinic eAU** TeleClinic GmbH
-
-**Medi10** UfP Systemhaus GmbH
-
-**UNISOLO®-POESY**
-
-UNISOLO® GmbH
-
-**PDV-FR** Universitätsklinikum Freiburg AdöR
+| Name | der Software und | Anbieter |  |
+|---|---|---|---|
+| **Patho.Net** |  |  |  |
+| Sonic | Healthcare Germany | GmbH & | Co. KG |
+| **DOCNET** |  |  |  |
+| Sonic | Healthcare Germany | GmbH & | Co. KG |
+| **PalliDoc** |  |  |  |
+| Statconsult | GmbH |  |  |
+| **IOX-LS** |  |  |  |
+| STIWA | AMS GmbH |  |  |
+| **SYNconnect** |  |  |  |
+| SYNLAB | Holding Deutschland | GmbH |  |
+| **proLAB** |  |  |  |
+| SysTek | GmbH |  |  |
+| **T2med** |  |  |  |
+| T2med | GmbH & Co. KG |  |  |
+| **TeleClinic** | **eAU** |  |  |
+| TeleClinic | GmbH |  |  |
+| **Medi10** |  |  |  |
+| UfP | Systemhaus GmbH |  |  |
+|  | **UNISOLO®-POESY** |  |  |
+| UNISOLO® | GmbH |  |  |
+| **PDV-FR** |  |  |  |
+|  | Universitätsklinikum | Freiburg AdöR |  |
+| **AiDKlinik** |  |  |  |
+|  | Universitätsklinikum | Heidelberg |  |
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
 
@@ -2085,22 +2088,12 @@ x
 
 x
 
-x
-
-x
-
-x
-
-x
-
-x
+Name der Software und Anbieter Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KG Statconsult GmbH STIWA AMS GmbH SYNLAB Holding Deutschland GmbH SysTek GmbH T2med GmbH & Co. KG TeleClinic eAU TeleClinic GmbH UfP Systemhaus GmbH UNISOLO® GmbH Universitätsklinikum Freiburg AdöR Universitätsklinikum Heidelbergx
 
 
 ---
 
 **Name der Software und Anbieter**
-
-**AiDKlinik** Universitätsklinikum Heidelberg
 
 **data4doc** Vidal MMI Germany GmbH
 
@@ -2110,11 +2103,9 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 20. Juni 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 27. Juni 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link) eArztbrief](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) eTerminservice (Link)**
-
-x
 
 x
 

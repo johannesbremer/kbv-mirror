@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**20. JUNI 2026**
+**27. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 20. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026
 
 Y/80/2407/24/062 30.06.2026
 
@@ -200,7 +200,7 @@ eAU
 
 Windows
 
-IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows Linux Mac OS Sonstige WindowsWindows
 
 
 ---
@@ -352,13 +352,13 @@ Y/80/2603/24/749
 
 Y/80/2410/24/195
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 20. Juni 2026 29.02.2028 eAU
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026 29.02.2028 eAU
 
 30.09.2026 eAU
 
 Windows
 
-Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de IFA-AUGENARZT ifa systems AG Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de Windows WindowsWindows
+Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de IFA-AUGENARZT ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de Windows WindowsWindows
 
 
 ---
@@ -370,7 +370,7 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 
 **ifa|NX-NEXT Generation AIS**
 
-**ifa systems AG** Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de
+**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
 **IFU-KIS**
 
@@ -380,13 +380,15 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 |---|---|---|---|---|
 |  | Y/80/2408/24/210 | 31.07.2026 | eAU |  |
 
-Y/80/2408/24/451
+Y/80/2408/24/451 31.07.2026
 
-Y/80/2505/24/596 31.07.2026 eAU
+Y/80/2505/24/596 30.04.2027
 
-30.04.2027 eAU
+eAU
 
-Linux Mac OS
+eAU
+
+Linux Mac OS Windows
 
 DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz Internet: www.ima-systems.com Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows WindowsWindows
 
@@ -472,7 +474,7 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 20. Juni 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026
 
 Y/80/2408/24/266
 
@@ -706,10 +708,6 @@ SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Inter
 
 **SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
 
-**MEDI_LINE**
-
-**Strzata, Dr. med. Norbert** Kirschgarten 1 99510 Kapellendorf
-
 |  | Y/80/2408/24/498 | 31.07.2026 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2602/11/747 | 31.12.2026 | eAU |  |
@@ -718,17 +716,11 @@ Y/80/2407/24/230 30.06.2026
 
 Y/80/2408/24/458 31.07.2026
 
-Y/80/2409/24/231 31.08.2026
-
-eAU
-
 eAU
 
 eAU
 
 Windows
-
-Linux Windows
 
 T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de TeleClinic eAU TeleClinic GmbH Brienner Str. 45 80333 München Internet: www.teleclinic.com iOS/Android Linux Mac OS Windows iOS/Android Linux Mac OS WindowsLinux Windows
 
@@ -752,7 +744,7 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 |---|---|---|---|---|
 |  | Y/80/2509/37/768 | 30.09.2028 | eAU |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 20. Juni 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026
 
 Y/80/2407/24/313 30.06.2026
 

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**20. JUNI 2026**
+**27. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -35,7 +35,7 @@
 
 Saturnstrasse 14 85609 Aschheim Internet: www.asthenis.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -100,7 +100,7 @@ Softwarevariante(n):
 
 - CGM MEDISTAR - CGM MEDISTAR BLACK
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -168,7 +168,7 @@ Windows
 | 10785 | Berlin |  |  |
 | Internet: |  | www.doc-cirrus.com |  |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -206,7 +206,7 @@ Windows
 
 Windows
 
-CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.cgm.com/de Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de DMP Form Data Experts GmbH Woldegker Str. 12 17033 Neubrandenburg Internet: www.data-experts.de Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.comiOS/Android Linux Mac OS Sonstige Windows
+CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.cgm.com/de Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de DMP Form Data Experts GmbH Woldegker Str. 12 17033 Neubrandenburg Internet: www.data-experts.de Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.comLinux Mac OS Sonstige Windows
 
 
 ---
@@ -229,7 +229,7 @@ CGM DMP-ASSIST CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz In
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -288,7 +288,7 @@ Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -339,7 +339,7 @@ iOS/Android Linux Mac OS Windows
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -390,7 +390,7 @@ Windows
 
 **ITC Dipl. Ing. M. Schumann** Wilhelm-Raabe-Weg 3 a 35039 Marburg Internet: [http://www.itc-ms.de/](http://www.itc-ms.de/)
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -445,7 +445,7 @@ Windows
 | 65343 | Eltville |  |
 | Internet: |  | www.medatixx.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -496,7 +496,7 @@ EL - Elaphe Longissima medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Inte
 
 **MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -547,7 +547,7 @@ Mac OS Windows
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -598,7 +598,7 @@ Windows
 
 **Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -649,7 +649,7 @@ Windows
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 
@@ -699,7 +699,7 @@ iOS/Android Linux Mac OS Windows
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 20. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für eDMPs und DMP-Brustkrebs / 27. Juni 2026
 
 **Prüfnummer(n)**
 

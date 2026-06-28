@@ -2,1001 +2,1043 @@
 
 **[KBV_ITV_FMEX_TOM_370a**
 
-Die Technisch-Organisatorische Maßnahmen (TOMs) zur Nutzung des elektronischen Systems zur Vermittlung von Behandlungsterminen und telemedizinischen  Leistungen durch Nutzer der Schnittstellesind im Rahmen der Zertifizierung der Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V auszufüllen, einzureichen und  werden im Zertifizierungsverfahren geprüft.
+Die Technisch-Organisatorische Maßnahmen (TOMs) zur Nutzung des elektronischen Systems zur Vermittlung von Behandlungsterminen und telemedizinischen  Leistungen durch Nutzer der Schnittstelle sind im Rahmen der Zertifizierung der Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V auszufüllen, einzureichen und  werden im Zertifizierungsverfahren geprüft.
+
+Die nachfolgend aufgeführten Maßnahmen gelten für die Schutzstufe C und müssen vom Nutzer der Schnittstelle nachweislich erfüllt sein.
+
 
 ---
 
 ## INHALT
 
-**1 MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN**
+**1** **ALLGEMEINE MAßNAHMEN**
 
 **3**
 
-**2 MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN**
+**2** **MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN**
+
+**5**
+
+**3** **MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN**
 
 **10**
 
-**3 MAßNAHMEN ZUM ZUGANG UND ZUGRIFF**
+**4** **MAßNAHMEN ZUM ZUGANG UND ZUGRIFF**
 
-**15**
+**14**
 
-**4 MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)**
+**5** **MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)**
+
+**19**
+
+**6** **MAßNAHMEN ZUR DATENÜBERTRAGUNG**
 
 **22**
 
-**5 MAßNAHMEN ZUR DATENÜBERTRAGUNG**
+**7** **MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE**
 
-**26**
+**24**
 
-**6 MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE**
+**8** **MAßNAHMEN ZUM BACKUP**
+
+**27**
+
+**9** **MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN**
 
 **29**
 
-**7 MAßNAHMEN ZUM BACKUP**
+**10** **WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION**
 
 **32**
 
-**8 MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN**
-
-**35**
-
-**9 WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION**
-
-**39**
-
-**10 REGELMÄßIGEN ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER TECHNISCH-ORGANISATORISCHEN MAßNAHMEN 42**
+**11** **REGELMÄßIGE ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER TECHNISCHORGANISATORISCHEN MAßNAHMEN 36**
 
 ---
 
-1 MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN
+1 ALLGEMEINE MAßNAHMEN
 
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **1.1** | Werden personenbezogene Daten  ☐ ja   ☐ nein | A |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn 1.1 nein: ** beantwortet werden die Fragen ab 2. Auch die Fragen zu 6 |  |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.2** | Standort(e) an denen der  bitte angeben | B | Der Standort muss in   • • • • |  |  |  |  |  |  |  |  |  | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja   A |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  | **1.2** |  | | | | | | | | | | | | | | | | | | | |
-| B |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | **nein:** | beantwortet werden | • |  |  |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein   **Wenn ** |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | Der Standort muss in | • |  |  | | | | | | | | | | | | | | | | | | | |
-| • | **FRAGE  SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | bitte angeben  B  Der Standort muss in |  | • |  | | | | | | | | | | | | | | | | | | | |
-|  | •**SCHUTZ-** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
-| • |  |  |  |  | • |  |  |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | Werden personenbezogene Daten |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | Standort(e) an denen der | | | | | | | | | | | | | | | | | | | |
-|  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ** ☐ beantwortet werden | • |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | • |  |  | **FRAGE** |  |  |  | **Wenn** | **1.1** |  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ** bitte angeben | Der Standort muss in |  |  |  | •**MAßNAHMEN DES AUFTRAGNEHMERS** |  |  |  |
-| **SCHUTZ- STUFE  1.1** |  |  | ja |  | nein |  | A | **1.1** | | | | | | | | | | | | | | | |
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
+|---|---|---|---|
+| **01.01** | Existieren eine Richtlinie zur Informationssicherheit und  ☐ ja  ☐ nein | Richtlinien und Anweisungen zur | Bei vorhandenem C5 Testat: Abgedeckt über OIS |
+| **01.02** | Gibt es klare Regeln zur Nutzung geistigen Eigentums und  ☐ ja  ☐ nein |  |  |
+| **01.03** | Gibt es ein festgelegtes Verfahren zum Umgang mit  ☐ ja  ☐ nein |  |  |
+| **01.04** | Ist vertraglich sichergestellt, dass Mitarbeitende auch nach  ☐ ja  ☐ nein | Eine Verpflichtung muss erfolgen. | Bei vorhandenem C5 Testat: Abgedeckt über HR |
+| **01.05** | Gibt es Vorgaben zum Arbeiten in Sicherheitsbereichen?  ☐ ja  ☐ nein |  |  |
+|  |  | nein |  |
+|  | **01.03 ** Richtlinien und Anweisungen zur **01.02** |  | Gibt es klare Regeln zur Nutzung geistigen Eigentums und |
 
-Serverräumen oder Rechenzentren (zwischen-)gespeichert oder weitergeleitet, die von dem Auftragnehmer verantwortet werden? In diesem Fall müssen die weiteren Fragen zu 1 nicht , sondern sogleich und 7 entfallen. Auftragnehmer die Systeme  betreibt: der EU,  des Europäischen Wirtschaftsraums, der Schweiz, oder  in einem Drittstaat nur, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 DSGVO vorliegt und zusätzlich die sich aus dem Angemessenheitsbeschluss ergebenden Voraussetzungen (wie zum Beispiel erforderliche Zertifizierungen) vorliegen,
+NUTZERS DER nachgelagerte gelenkte Richtlinien und Anweisungen, auf die Mitarbeitende geschult werden lizenzierter Software? Fehlverhalten und Regelverstößen  (Maßregelungsprozess)? Beendigung ihres Arbeits- oder Vertragsverhältnisses weiterhin zur Einhaltung der Vertraulichkeit verpflichtet bleiben? Informationssicherheit müssen existieren und Mitarbeitende darauf geschult werden. -02 -05
 
 ---
 
-|  |  |  | Wenn | 1.5 nein: | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | bitte angeben  Sind die personenbezogenen Daten auf  B | nein |  | B | | | | | | | | | | | | | | | | | | | |
-|  | EN 1627-1630:11 erfüllen. | **1.4** |  |  | | | | | | | | | | | | | | | | | | | |
-| Alle Bauelemente der Gebäudehülle |  | **1.5** | **MINDESTANFORDERUNG** |  |  | **FRAGE** | **SCHUTZ- STUFE** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | **1.7** | Sind Serverräume / RZ mittels einer  ☐ ja | Einbruchmeldeanlage muss vorhanden |  | | | | | | | | | | | |
-| liegen. | | | | | | | | | | | | | | | | | | | | | | | |
-| **1.3** | Sind die personenbezogenen Daten auf  ☐ ja ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.4** | Aus welchem Material bestehen die  bitte angeben | B | Alle Bauelemente der Gebäudehülle |  | | | | | | | | | | | | | | | | | | | |
-| **1.5** | Sind Serverräume fensterlos?  ☐ ja ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.6** | **Wenn 1.5 nein:** bitte angeben | B  B | EN 1627-1630:11 erfüllen. |  |  |  |  | Sind Serverräume / RZ mittels einer | | | | | | | | | | | | | | | |
-| ☐ | ☐ | ☐ ☐ |  |  | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja**1.4** |  |  | Aus welchem Material bestehen die | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | nein | | | | | | | | | | | | | | | | | | | |
-|  |  | **Wenn** | **1.5** | **nein:** | | | | | | | | | | | | | | | | | | | |
-|  | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
-| B | Einbruchmeldeanlage muss vorhanden |  |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | | | | |
-| liegen. **STUFE  MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **1.5** |  |  | Sind Serverräume fensterlos? | | | | | | | | | | | | | | | | | | | |
-|  | ☐**1.6** ☐ | **Wenn** | **1.5** | **nein:** | | | | | | | | | | | | | | | | | | | |
-|  |  | Sind Serverräume / RZ mittels einer |  | ja |  | nein B |  |  | | | | | | | | | | | | | | | |
-| **FRAGE** | **SCHUTZ-** | **STUFE  MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ |  | B |  | | | | | | | | | | | | | | | | | | | |
-|  | ☐ bitte angeben  ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **1.5** bitte angeben |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | B | Einbruchmeldeanlage muss vorhanden | **1.6** |  |  |  |  |  | ja | B |  |  |  |  | **Wenn 1.5** |  |  |  |  | **nein:**  nein | B |  |  |
-|  | **1.3** |  | Sind die personenbezogenen Daten auf |  | ja |  | nein | B **1.3** | | | | | | | | | | | | | | | |
+|  |  |  |  |
+|---|---|---|---|
+|  |  | ungeeignet |  |
+| Begründung: | **MINDESTANFORDERUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **SCHNITTSTELLE** |
+| ☐ |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: | Es muss bestätigt werden, dass die |  |
 
-Einbruchmeldeanlage (EMA) alarmgesichert? sein. mehr als einem System je Standort verteilt (z. B. für Backup / Datenreplikation / Nutzung von Cloud- Dienstleistungen)? Zugangstüren zu den Serverräumen (Stahl oder sonstiges Material)? müssen mindestens RC 2 gemäß DIN  Wie sind die Fenster vor Einbruch geschützt? müssen mindestens RC 2 gemäß DIN
+NUTZERS DER unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte angeben getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
 
 ---
 
-| Wenn | 1.9 | ja: bitte angeben | B | Die Videoaufzeichnungen müssen | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | **1.7** |  | beauftragter Wachdienst |  | | | | | | | | | | | | | | | | | | | |
-|  | Leiter IT | Sonstiges: bitte angeben |  | C | | | | | | | | | | | | | | | | | | | |
-|  |  |  | Sind Serverräume / RZ  B **1.11 1.10** A |  |  |  | Existiert ein Prozess zur Vergabe von | Ein definierter Freigabeprozess ist |  | **STUFE** |  | **1.12** | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn ** |  |  | Administrator | | | | | | | | | | | | | | | | | | | |
-| Sonstiges: bitte angeben |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE  SCHUTZ-** |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | B  Die Videoaufzeichnungen müssen |  |  |  | **1.11** | Wie viele Personen haben Zutritt zu  bitte angeben | B |  | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
-| ☐ nein | | | | | | | | | | | | | | | | | | | | | | | |
-| **1.8** | **Wenn 1.7 ja: ** ☐ beauftragter Wachdienst  ☐ Administrator  ☐ Leiter IT  ☐ Sonstiges: bitte angeben | C | Eine Alarmaufschaltung ist  Mindestens eine der zu alarmierenden |  | | | | | | | | | | | | | | | | | | | |
-| **1.9** | Sind Serverräume / RZ  ☐ ja  ☐ nein | B | Eine Videoüberwachung ist |  | | | | | | | | | | | | | | | | | | | |
-| **1.10** | **Wenn 1.9 ja:** bitte angeben | B | Die Videoaufzeichnungen müssen  personengebunden vergeben werden. |  | | | | | | | | | | | | | | | | | | | |
-| **1.12** | Existiert ein Prozess zur Vergabe von | A | Ein definierter Freigabeprozess ist |  | | | | | | | | | | | | | | | | | | | |
-|  |  | **1.12** |  |  | | | | | | | | | | | | | | | | | | | |
-| Existiert ein Prozess zur Vergabe von  A  Ein definierter Freigabeprozess ist **1.8** | | | | | | | | | | | | | | | | | | | | | | | |
-| **ja:** | Administrator |  | C | Eine Alarmaufschaltung ist | | | | | | | | | | | | | | | | | | | |
-|  | Sind Serverräume / RZ | ja |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **1.10**  **FRAGE   ja:** | B | Die Videoaufzeichnungen müssen |  | | | | | | | | | | | | | | | | | | | |
-| **1.11** | Wie viele Personen haben Zutritt zu  bitte angeben  B  personengebunden vergeben werden. |  |  |  |  | Eine Videoüberwachung ist |  |  | | | | | | | | | | | | | | | |
-|  |  | Existiert ein Prozess zur Vergabe von  A | Ein definierter Freigabeprozess ist |  | | | | | | | | | | | | | | | | | | | |
-|  | **1.8**  **FRAGE   ja:** | beauftragter Wachdienst |  |  | | | | | | | | | | | | | | | | | | | |
-|  | Mindestens eine der zu alarmierenden **SCHUTZ- STUFE** | **1.9** |  |  | | | | | | | | | | | | | | | | | | | |
-| **Wenn** | Die Videoaufzeichnungen müssen **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **1.11** |  |  | | | | | | | | | | | | | | | | | | | |
-| personengebunden vergeben werden. |  |  | **1.12** |  | **1.10** |  |  | **Wenn 1.9** | **Wenn** | Administrator |  | Leiter IT |  | Mindestens eine der zu alarmierenden | B **1.9** Die Videoaufzeichnungen müssen | Sind Serverräume / RZ |  | ja | nein | B |  |  |  |
-| **ja:**  nein  bitte angeben |  |  |  |  | **Wenn 1.7** | **ja:** | beauftragter Wachdienst | nein **1.8** | | | | | | | | | | | | | | | |
+2 MAßNAHMEN ZUM ZUTRITT ZU SYSTEMEN
 
-Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! videoüberwacht?  Wie lange werden die Bilddaten gespeichert? den Serverräumen und welche Funktionen haben diese inne? Zutrittsberechtigungen bei der Neueinstellung und beim Ausscheiden verpflichtend.  Stellen muss 24/7 erreichbar sein und reagieren. verpflichtend. mindestens 24 h vorgehalten werden. Nur ausgewählte, berechtigte Personen dürfen Zutritt erlangen. Die Zutrittsberechtigung darf nur erforderlich.
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE |
+|---|---|---|---|
+| **02.01** | Werden personenbezogene Daten in  ☐ ja ☐ nein |  |  |
+|  | **Wenn 02.01 nein: ** sondern sogleich die Fragen ab 3. Auch die Fragen |  |  |
+| **02.02** | Standort(e) an denen der Auftragnehmer die | Der Standort muss in  • • • • liegen. |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Wenn 02.01 nein:** |  | sondern sogleich die Fragen ab 3. Auch die Fragen |
+|  | **02.02** | • |  |
+| • |  | • |  |
+|  | • | **FRAGE** | **MINDESTANFORDERUNG** |
+| **DER SCHNITTSTELLE** | ☐ |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Wenn 02.01 nein:** |  | sondern sogleich die Fragen ab 3. Auch die Fragen |
+|  | **02.02** |  | Standort(e) an denen der Auftragnehmer die |
+|  |  |  |  |
+|  | liegen. **MINDESTANFORDERUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **DER SCHNITTSTELLE** |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Wenn 02.01 nein:** |  | sondern sogleich die Fragen ab 3. Auch die Fragen |
+|  | **02.02** | • |  |
+| • | • |  | • |
+| liegen. | **ID** | **FRAGE** | **MINDESTANFORDERUNG** |
+| **DER SCHNITTSTELLE** | ☐ |  |  |
+|  |  | liegen. | **ID** |
+|  | **FRAGE  MINDESTANFORDERUNG** |  |  |
+|  | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES** |  | **02.02** |
+| Standort(e) an denen der Auftragnehmer die | **DER SCHNITTSTELLE ** • ☐ ☐ • |  |  |
 
----
-
-|  |  | nein | B |  | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  | B | Ein elektronisches Schließsystem ist | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn** | **1.13** | **ja:** Mindestens zwei aus drei **1.16 Wenn ** ☐ |  | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ ☐ |  | B | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | |
-| von Mitarbeitenden bzw. bei | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ |  |  | Sind Serverräume mit einem | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | **1.14** | | | | | | | | | | | | | | | | | | | |
-| **1.13** | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-| ja | B |  |  |  | **1.16** | **Wenn 1.15** | **ja:** | B | | | | | | | | | | | | | | | |
-| ☐ | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-| Sonstige Vergabeweise: bitte | **1.13** Sind Serverräume mit einem | Ein elektronisches Schließsystem ist |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **ja:** B |  |  |  | | | | | | | | | | | | | | | | | | | |
-| **Wenn** | nein | B | bitte angeben |  | | | | | | | | | | | | | | | | | | | |
-| **SCHUTZ-** | ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
-| von Mitarbeitenden bzw. bei  ☐ definierter Freigabeprozess  ☐ kein definierter Freigabeprozess, auf  ☐ Sonstige Vergabeweise: bitte | | | | | | | | | | | | | | | | | | | | | | | |
-| **1.13** | Sind Serverräume mit einem  ☐ ja  ☐ nein | B | Ein elektronisches Schließsystem ist |  | | | | | | | | | | | | | | | | | | | |
-| **1.14** | **Wenn 1.13 ja:** bitte angeben | B | Mindestens zwei aus drei |  | | | | | | | | | | | | | | | | | | | |
-| **1.15** | **Wenn 1.13 ja:** ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.16** | **Wenn 1.15 ja:** bitte angeben | B |  |  | Mindestens zwei aus drei | **1.15** |  |  | | | | | | | | | | | | | | | |
-| **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | | | | |
-|  | Sonstige Vergabeweise: bitte  ☐ ☐**1.13** |  |  |  | | | | | | | | | | | | | | | | | | | |
-| nein | **1.14** |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  | **1.16** |  |  | | | | | | | | | | | | | | | | | | | |
-| bitte angeben |  | **FRAGE** | **SCHUTZ-**  ja | **STUFE** | **Wenn** | **1.13** | **ja:** |  |  | Sind Serverräume mit einem | ja |  |  |  | **1.14** B   **Wenn** | **ja:** | bitte angeben | B |  |  |  |  |  |
-| nein |  |  |  |  |  | **1.13** |  | Sonstige Vergabeweise: bitte | | | | | | | | | | | | | | | |
-
-organisatorischen Veränderungen? Zuruf elektronischen Schließsystem versehen?  Welche Zutrittstechnik kommt zum Einsatz? Mehrfachantworten möglich!  Werden die Zutritte zu Serverräumen protokolliert?   Wie lange werden die Zutrittsdaten gespeichert? erforderlich. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zutritt erforderlich.
+NUTZERS Serverräumen oder Rechenzentren (zwischen gespeichert oder weitergeleitet , die von dem Auftragnehmer verantwortet werden? In diesem Fall müssen die weiteren Fragen zu 2 nicht beantwortet werden zu 7 und 8 entfallen. Systeme betreibt: angeben bitte der EU, des Europäischen Wirtschaftsraums, der Schweiz, oder in einem Drittstaat nur, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 DSGVO vorliegt und zusätzlich die sich aus dem Angemessenheitsbeschluss ergebenden Voraussetzungen (wie zum Beispiel erforderliche Zertifizierungen) vorliegen,
 
 ---
 
-| 1.20 |  |  |  | Existiert ein Pförtnerdienst / | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | **1.15**  ja |  | B |  | | | | | | | | | | | | | | | | | | | |
-|  | nein |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  | **1.19** B **STUFE** |  |  |  | **FRAGE  SCHUTZ-** | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |  | ☐ | A |  | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | ja |  |  | nein | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐**1.17** | bitte angeben | B |  | | | | | | | | | | | | | | | | | | | |
-|  | Existiert ein Pförtnerdienst /   ja | Werden die Serverräume neben ihrer |  | nein | B |  |  |  | | | | | | | | | | | | | | | |
-| ☐ | ☐ | ☐ ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-| **Wenn** | nein B |  | Ist der Zutritt zu den Serverräumen |  | | | | | | | | | | | | | | | | | | | |
-| B |  |  | **Wenn** | **1.17** | | | | | | | | | | | | | | | | | | | |
-|  | **1.20** |  | Existiert ein Pförtnerdienst / **1.21** |  | | | | | | | | | | | | | | | | | | | |
-|  | **SCHUTZ-** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | | | | | | | | | | | | | | | | | | | |
-| Werden die Serverräume neben ihrer | A |  |  | **FRAGE** | | | | | | | | | | | | | | | | | | | |
-| **SCHUTZ- STUFE  MINDESTANFORDERUNG  Wenn** | | | | | | | | | | | | | | | | | | | | | | | |
-| nein | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS  1.18** |  |  |  | | | | | | | | | | | | | | | | | | | |
-| nein |  |  | **1.19** |  | | | | | | | | | | | | | | | | | | | |
-| **ja:** | ☐ ☐ |  | Existiert ein Pförtnerdienst / |  | | | | | | | | | | | | | | | | | | | |
-| B | **1.21** |  |  |  | **1.19** | **Wenn 1.17 ja:** bitte angeben | B |  | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | |
-| **1.17** | **Wenn 1.15 ja:** ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.18** | Ist der Zutritt zu den Serverräumen  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.20** | Existiert ein Pförtnerdienst /  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | | | | |
-| **1.21** | Werden die Serverräume neben ihrer | A |  |  |  |  |  | **1.20** |  |  |  |  |  | Ist der Zutritt zu den Serverräumen | nein  B  Existiert ein Pförtnerdienst / |  |  |  |  | **1.17** | bitte angeben | B |  |
-|  |  |  |  | ja |  | nein | B | **Wenn** | | | | | | | | | | | | | | | |
+|  | Einbruchmeldeanlage muss vorhanden sein. |  | 02.08 |
+|---|---|---|---|
+|  | **Wenn 02.07 ja:** |  |  |
+|  | Aus welchem M  Zugangstüren  Bei vorhandenem C5 Testat: Abgedeckt über PS |  |  |
+| Sind Serverräume fensterlos? | ja | **02.06 ** Alle Bauelemente der Gebäudehülle müssen  Sind Serverräume / RZ mittels einer |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+| **02.03** | Sind die personenbezogenen Daten auf mehr als  ☐ ja ☐ nein |  |  |
+| **02.04** | Aus welchem M  Zugangstüren | Alle Bauelemente der Gebäudehülle müssen | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **02.05** | Sind Serverräume fensterlos?  ☐ ja ☐ nein |  |  |
+| **02.06** | **Wenn 02.05 nein:** bitte angeben | Alle Bauelemente der Gebäudehülle müssen | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **02.07** | Sind Serverräume / RZ mittels einer  ☐ ja ☐ nein | Einbruchmeldeanlage muss vorhanden sein. |  |
+| **02.08** | **Wenn 02.07 ja: ** ☐ beauftragter Wachdienst ☐ Administrator ☐ Leiter IT ☐ Sonstiges: bitte angeben | Eine Alarmaufschaltung ist verpflichtend.  Mindestens eine der zu alarmierenden Stellen |  |
+| Leiter IT |  |  | Sonstiges: bitte angeben Eine Alarmaufschaltung ist verpflichtend. |
+| **02.03** | Sind die personenbezogenen Daten auf mehr als  Mindestens eine der zu alarmierenden Stellen  ja nein |  |  |
+| **02.04** | Aus welchem M  Zugangstüren | Alle Bauelemente der Gebäudehülle müssen | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **02.05** | Sind Serverräume fensterlos? | ja |  |
+|  | **ID  Wenn 02.05 nein: FRAGE ** Bei vorhandenem C5 Testat: Abgedeckt über PS |  | **02.07** |
+|  | **MINDESTANFORDERUNG ** nein**ERLÄUTERUNGEN ODER DARSTELLUNG** |  | **02.08** |
+|  |  | Administrator |  |
+|  | Sonstiges: bitte angeben |  | Eine Alarmaufschaltung ist verpflichtend.  Mindestens eine der zu alarmierenden Stellen |
+| **02.03** | Sind die personenbezogenen Daten auf mehr als  ja**ID ** nein |  |  |
+| **02.04** | Aus welchem M  Zugangstüren | Alle Bauelemente der Gebäudehülle müssen | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **02.05** | Sind Serverräume fensterlos? **FRAGE ** ja**MINDESTANFORDERUNG ** nein |  |  |
+| **02.06** | **Wenn 02.05 nein: ERLÄUTERUNGEN ODER DARSTELLUNG ** Alle Bauelemente der Gebäudehülle müssen **GLEICHWERTIGER MAßNAHMEN DES** |  | Sind Serverräume / RZ mittels einer |
+|  | nein | Einbruchmeldeanlage muss vorhanden sein. |  |
+| **02.08** | **Wenn 02.07 ja:  DER SCHNITTSTELLE **  beauftragter Wachdienst ☐  Administrator |  | Leiter IT |
+|  | ja |  | nein |
+| **02.03** | Sind die personenbezogenen Daten auf mehr als  Einbruchmeldeanlage muss vorhanden sein.  ja nein |  |  |
+| **02.04** | Alle Bauelemente der Gebäudehülle müssen |  | Sind Serverräume fensterlos? |
+|  | nein**02.08  Wenn 02.07 ja:  Wenn 02.05 nein:** Alle Bauelemente der Gebäudehülle müssen  Bei vorhandenem C5 Testat: Abgedeckt über PS |  | **02.07** |
 
-Werden die Protokolle regelmäßig ausgewertet? (auch) mechanisch mit Schlüssel möglich?  Wo werden die Schlüssel aufbewahrt und wer gibt sie aus? Wachdienst / besetzter Empfangsbereich o. ä. zum Rechenzentrum/Serverraum eigentlichen Funktion noch für andere Zwecke genutzt?
-
----
-
-| ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER | MAßNAHMEN DES AUFTRAGNEHMERS | ☐ ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| nein |  |  |  | **Wenn** | | | | | | | | | | | | | | | | | | | |
-| bitte angeben |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | nein |  | A **Sind die dokumentierten Maßnahmen ** | **STUFE** |  |  |  |  |  |  |  |  | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-| B | **1.22** | **Wenn** | **1.19** | **ja:** | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | Gibt es offizielle Zutrittsregelung für | | | | | | | | | | | | | | | | | | | |
-|  | geeignet |  | Es muss bestätigt werden, dass die |  | | | | | | | | | | | | | | | | | | | |
-| **MINDESTANFORDERUNG** | ☐ ☐ ☐ |  |  |  |  |  |  |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-| ja | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **1.22  ja:** |  | **1.23** |  | | | | | | | | | | | | | | | | | | | |
-| ja, bitte angeben | A | **Sind die dokumentierten Maßnahmen** |  | geeignet | | | | | | | | | | | | | | | | | | | |
-|  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **ja:** B |  |  |  | | | | | | | | | | | | | | | | | | | |
-| Gibt es offizielle Zutrittsregelung für | nein A  Eine offizielle Zutrittsregelung für |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE  SCHUTZ- MINDESTANFORDERUNG ** ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  | geeignet | Es muss bestätigt werden, dass die |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  | **Wenn** | **1.19** | | | | | | | | | | | | | | | | | | | |
-|  | **1.23** Gibt es offizielle Zutrittsregelung für | ja, bitte angeben |  |  | | | | | | | | | | | | | | | | | | | |
-| **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  | **MINDESTANFORDERUNG** |  |  | **FRAGE** | **SCHUTZ- STUFE** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | **1.22** | **Wenn 1.19 ja:** bitte angeben | B |  |  | **1.23** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | A | Eine offizielle Zutrittsregelung für |  |  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet |  | Es muss bestätigt werden, dass die |  |
-| ☐ ja  ☐ nein | B | Die Nutzung von Serverräumen für |  |  | **1.22** |  |  | **Wenn **  ja **1.19**  nein  B  Die Nutzung von Serverräumen für | | | | | | | | | | | | | | | |
-
-Für welche Zwecke werden die Serverräume noch genutzt? betriebsfremde Personen (bspw. Besucher) zu den Serverräumen? betriebsfremde Personen ist zwingend erforderlich. aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. andere Zwecke ist nicht erlaubt.
+NUTZERS einem System je Standort verteilt (z. B. für Backup / Datenreplikation / Nutzung von Cloud- Dienstleistungen)? aterial bestehen die zu den Serverräumen (Stahl oder sonstiges Material)? bitte angeben  Wie sind die Fenster vor Einbruch geschützt? Einbruchmeldeanlage (EMA) alarmgesichert? Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! mindestens RC 2 gemäß DIN EN 1627-1630:11 erfüllen. mindestens RC 2 gemäß DIN EN 1627-1630:11 erfüllen. muss 24/7 erreichbar sein und reagieren. -03 -03
 
 ---
 
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ungeeignet | **STUFE** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  |  |  |  |  | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **SCHUTZ- ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | ☐ | ☐ |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-| begrenzt geeignet | | | | | | | | | | | | | | | | | | | | | | | |
-| bitte angeben | **SCHUTZ- STUFE  MINDESTANFORDERUNG  MAßNAHMEN DES AUFTRAGNEHMERS** |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-| bitte angeben | | | | | | | | | | | | | | | | | | | | | | | |
-| **MINDESTANFORDERUNG** |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  | bitte angeben   **FRAGE  MINDESTANFORDERUNG** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  | **SCHUTZ-** | ☐ ☐ |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| begrenzt geeignet  ungeeignet |  | Begründung: |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ begrenzt geeignet ☐ ungeeignet     Begründung:  bitte angeben | | | | | | | | | | | | | | | |
+|  |  | nein | Ein elektronisches Schließsystem ist |
+|---|---|---|---|
+|  |  |  |  |
+|  | **Wenn 02.09 ja:** |  |  |
+|  | Nur ausgewählte, berechtigte Personen dürfen  Bei vorhandenem C5 Testat: Abgedeckt über PS | Sind Serverräume mit einem elektronischen |  |
+| ☐ | ☐ | ☐ | ☐ |
+| **02.09** | Sind Serverräume / RZ videoüberwacht?  ja nein | Eine Videoüberwachung ist verpflichtend. |  |
+| **02.10** | **Wenn 02.09 ja:** | Die Videoaufzeichnungen müssen mindestens |  |
+| **02.11** | Nur ausgewählte, berechtigte Personen dürfen |  | Existiert ein Prozess zur Vergabe von |
+|  | kein definierter Freigabeprozess, auf Zuruf |  | Sonstige Vergabeweise: bitte angeben |
+| Bei vorhandenem C5 Testat: Abgedeckt über PS | ja |  | nein |
+|  | Mindestens zwei aus drei **ID  ERLÄUTERUNGEN ODER DARSTELLUNG** | **DER SCHNITTSTELLE ** ☐ | ☐ |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+| **02.09** | Sind Serverräume / RZ videoüberwacht?  ☐ ja ☐ nein | Eine Videoüberwachung ist verpflichtend. |  |
+| **02.10** | **Wenn 02.09 ja:** | Die Videoaufzeichnungen müssen mindestens |  |
+| **02.11** | Wie  Personen haben  zu den | Nur ausgewählte, berechtigte Personen dürfen | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **02.12** | Existiert ein Prozess zur Vergabe von  ☐ definierter Freigabeprozess ☐ kein definierter Freigabeprozess, auf Zuruf ☐ Sonstige Vergabeweise: bitte angeben | Ein definierter Freigabeprozess ist erforderlich. | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **02.13** | Sind Serverräume mit einem elektronischen  ☐ ja ☐ nein | Ein elektronisches Schließsystem ist |  |
+| **02.14** | **Wenn 02.13 ja:** bitte angeben | Mindestens zwei aus drei | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **DER SCHNITTSTELLE ** ☐ ☐ |
+| **02.09** | Sind Serverräume / RZ videoüberwacht?  ☐ ja ☐ nein | Eine Videoüberwachung ist verpflichtend. |  |
+| **02.10** | **Wenn 02.09 ja:** | Die Videoaufzeichnungen müssen mindestens |  |
+| **02.11** | ☐ Nur ausgewählte, berechtigte Personen dürfen  ☐ |  | Existiert ein Prozess zur Vergabe von |
+|  | kein definierter Freigabeprozess, auf Zuruf ☐ Ein definierter Freigabeprozess ist erforderlich. |  |  |
+| Sind Serverräume mit einem elektronischen | ja |  | nein |
+|  | Mindestens zwei aus drei |  | **ID** |
+| **02.13** |  | Sind Serverräume mit einem elektronischen | ja |
+| **02.09** | Sind Serverräume / RZ videoüberwacht?  ja nein nein | Eine Videoüberwachung ist verpflichtend. |  |
+| **02.10** | Die Videoaufzeichnungen müssen mindestens  Ein elektronisches Schließsystem ist |  |  |
+| Bei vorhandenem C5 Testat: Abgedeckt über PS | definierter Freigabeprozess  kein definierter Freigabeprozess, auf Zuruf Sonstige Vergabeweise: bitte angeben | Ein definierter Freigabeprozess ist erforderlich. | Bei vorhandenem C5 Testat: Abgedeckt über PS |
 
-
----
-
-2 MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN
-
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **2.1** | An welchen Standorten wird über  bitte angeben | A |  |  | | | | | | | | | | | | | | | | |
-| **2.2** | Existiert ein Pförtnerdienst /  ☐ ja  ☐ nein | B |  |  | | | | | | | | | | | | | | | | |
-| **2.3** | Ist das Gebäude oder sind die  ☐ ja  ☐ nein | C | Einbruchmeldeanlage muss vorhanden |  | | | | | | | | | | | | | | | | |
-| **2.4** | **Wenn 2.3 ja:** ☐ beauftragter Wachdienst  ☐ Administrator  ☐ Leiter IT ☐ | C | Eine Alarmaufschaltung ist  Mindestens eine der zu alarmierenden |  | ☐ |  |  |  | Mindestens eine der zu alarmierenden | **SCHUTZ- STUFE  MINDESTANFORDERUNG  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | Existiert ein Pförtnerdienst / |  | | | | | | | | | | | | | | | | |
-| B | **2.3** |  |  |  | | | | | | | | | | | | | | | | |
-|  | **Wenn** | **ja:** ☐ |  | beauftragter Wachdienst | | | | | | | | | | | | | | | | |
-| Administrator |  |  |  |  | **2.4** | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-| **2.1** | An welchen Standorten wird über | bitte angeben | | | | | | | | | | | | | | | | | | |
-|  | B |  |  |  | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | |
-| **2.3** | Administrator   Leiter IT  Eine Alarmaufschaltung ist |  |  |  | | | | | | | | | | | | | | | | |
-| **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ |  |  |  | Einbruchmeldeanlage muss vorhanden | **2.4** |  |  | **2.3** | **ja:** |  | Eine Alarmaufschaltung ist   **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ | ☐ | ☐ | ☐ | ☐ |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | Existiert ein Pförtnerdienst / | | | | | | | | | | | | | | | | |
-|  |  | **2.3** |  |  |  |  | **2.2** |  |  | Existiert ein Pförtnerdienst /  bitte angeben  A |  | | | | | | | | | |
-
-Clientarbeitsplätze auf personenbezogene Daten zugegriffen? Wachdienst / besetzter Empfangsbereich o. ä. zum Gebäude bzw. zu Ihren Büros? Büroräume mittels einer Einbruchmeldeanlage (EMA) alarmgesichert?  Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! sein. verpflichtend.  Stellen muss 24/7 erreichbar sein und reagieren. ODER DARSTELLUNG GLEICHWERTIGER
+NUTZERS   lange werden die B ilddaten gespeichert? bitte angeben viele Zutritt Serverräumen und w  haben elche Funktionen diese inne? bitte angeben Zutrittsberechtigungen bei der Neueinstellung und beim Ausscheiden von Mitarbeitenden bzw. bei organisatorischen Veränderungen? Schließsystem versehen?  Welche Zutrittstechnik kommt zum Einsatz? Mehrfachantworten möglich! 24 h vorgehalten werden. Zutritt erlangen. Die Zutrittsberechtigung darf nur personengebunden vergeben werden. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zutritt erforderlich. -04 -04 -04
 
 ---
 
-|  |  | Wenn 2.7 | ja: | RFID | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  | Werden das Bürogebäude bzw. seine | | | | | | | | | | | | | | | | |
-|  | A | **2.6** |  |  | | | | | | | | | | | | | | | | |
-| bitte angeben |  |  |  | Sind die Räumlichkeiten mit einem | | | | | | | | | | | | | | | | |
-|  | nein  A      C **FRAGE FRAGE** |  | **2.8** |  |  | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **2.8** | **Wenn 2.7 ja:** ☐ RFID | A |  | | | | | | | | |
-| ☐ Sonstiges: bitte angeben | | | | | | | | | | | | | | | | | | | | |
-| **2.5** | Werden das Bürogebäude bzw. seine  ☐ ja, ohne Bildaufzeichnung  ☐ ja, mit Bildaufzeichnung  ☐ nein | B |  |  | | | | | | | | | | | | | | | | |
-| **2.6** | **Wenn 2.5 „ja, mit Bildaufzeichnung“:** bitte angeben | B |  |  | | | | | | | | | | | | | | | | |
-| **2.7** | Sind die Räumlichkeiten mit einem  ☐ ja, die Büroräume sind elektronisch  ☐ ja, die Büroetagen sind elektronisch  ☐ ja, das gesamte Gebäude ist  ☐ nein | A |  |  | | | | | | | | | | | | | | | | |
-| C | Ein elektronisches Schließsystem ist | Sind die Räumlichkeiten mit einem   ja, die Büroräume sind elektronisch |  | ja, die Büroetagen sind elektronisch |  | | | | | | | | | | | | | | | |
-| ☐ | ☐ | ☐ ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | |
-| ☐  Sonstiges: bitte angeben ☐ |  |  | | | | | | | | | | | | | | | | | | |
-|  | nein B   **2.6** | **Wenn** | **2.5** | **„ja, mit Bildaufzeichnung“:** | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | |
-|  | C  Ein elektronisches Schließsystem ist |  |  |  | | | | | | | | | | | | | | | | |
-| RFID | **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ ☐ |  | ja, das gesamte Gebäude ist |  |  | A | Ein elektronisches Schließsystem ist | ☐ | **2.7** | **ja:** |  | A |  |  |  | **FRAGE** |
-| **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | |
-| ☐  Sonstiges: bitte angeben | | | | | | | | | | | | | | | | | | | | |
-| **2.5** | Werden das Bürogebäude bzw. seine   ja, ohne Bildaufzeichnung  ☐ ☐ |  | B |  | | | | | | | | | | | | | | | | |
-|  | **Wenn 2.5 „ja, mit Bildaufzeichnung“:** | bitte angeben | B |  |  |  | ja, mit Bildaufzeichnung |  | nein | B     **2.5** | Werden das Bürogebäude bzw. seine | | | | | | | | | |
+| Wenn 02.18 ja: |  |  | 02.20 |
+|---|---|---|---|
+|  | Existiert ein Pförtnerdienst / |  |  |
+|  | **Wenn 02.15 ja:** |  |  |
+| **Wenn 02.15 ja:** | ja | **02.18 ** ja**02.19** |  |
+| ☐ | ☐ | ☐ | ☐ ☐ ☐ |
+| **02.15** | **Wenn 02.13 ja:** ☐ ja nein |  |  |
+| **02.16** | **Wenn 02.15 ja:** |  |  |
+| **02.17** | **Wenn 02.15 ja:** ja nein |  |  |
+| **02.18** | Ist der Zutritt zu den Serverräumen (auch) | ja |  |
+|  |  |  |  |
+| **02.20** | Existiert ein Pförtnerdienst /  ja nein**FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES** | **DER SCHNITTSTELLE** |
+|  |  | **ID** | **FRAGE  MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG** |
+| **02.15** | **Wenn 02.13 ja: GLEICHWERTIGER MAßNAHMEN DES ** ja**DER SCHNITTSTELLE ** nein |  |  |
+| **02.16** | **Wenn 02.15 ja:** |  |  |
+| **02.17** | **Wenn 02.15 ja:** | ja |  |
+|  | ☐ ☐ Ist der Zutritt zu den Serverräumen (auch)  ☐ | nein |  |
+|  | **02.19 ** ☐ ☐ |  | **02.20** |
+|  |  | nein |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+| **02.15** | **Wenn 02.13 ja:** ☐ ja ☐ nein |  |  |
+| **02.16** | **Wenn 02.15 ja:** |  |  |
+| **02.17** | **Wenn 02.15 ja:** ☐ ja ☐ nein |  |  |
+| **02.18** | Ist der Zutritt zu den Serverräumen (auch)  ☐ ja ☐ nein |  |  |
+| **02.19** | **Wenn 02.18 ja:** |  |  |
+| **02.20** | Existiert ein Pförtnerdienst /  ☐ ja ☐ nein |  |  |
+|  |  | **02.19** | **Wenn 02.18 ja:** |
+| **02.15** | **Wenn 02.13 ja:** ja nein |  |  |
+| **02.16** |  |  | **Wenn 02.15 ja:** |
+|  | nein**02.20 ** Existiert ein Pförtnerdienst /  Ist der Zutritt zu den Serverräumen (auch)  ja | nein |  |
 
-Zugänge videoüberwacht? Wie lange werden die Bilddaten gespeichert? elektronischen Schließsystem versehen? verschlossen. verschlossen. elektronisch verschlossen  Welche Zutrittstechnik kommt zum Einsatz?  ODER DARSTELLUNG GLEICHWERTIGER erforderlich.
-
----
-
-|  |  |  |  | 2.12 | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Biometrie | C  Mindestens zwei verschiedene |  |  |  | | | | | | | | | | | | | | | | |
-|  |  | ja, aber nur erfolglose |  |  | | | | | | | | | | | | | | | | |
-|  |  |  |  | **Wenn** | | | | | | | | | | | | | | | | |
-|  | **2.11** Existiert ein mechanisches Schlo**2.9** ja ja ja |  | nein | B |  | A |  |  |  | ☐**2.12** |  |  | | | | | | | | |
-| PIN | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE  SCHUTZ- STUFE  Wenn** | **ja:** |  | ja, sowohl erfolgreiche als auch | | | | | | | | | | | | | | | | |
-| ja, aber nur erfolglose | A |  | C | Es muss mindestens ein „Ja“ | | | | | | | | | | | | | | | | |
-| **2.10** | **Wenn  MINDESTANFORDERUNG   ja: ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | |
-| **2.9** | **ja:** | **Wenn 2.9 ja:** bitte angeben | B |  |  | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | |
-| ☐ PIN ☐ Biometrie ☐ Sonstiges: bitte angeben | C | Mindestens zwei verschiedene | | | | | | | | | | | | | | | | | | |
-| **2.9** | **Wenn 2.7 ja:** ☐ ja, sowohl erfolgreiche als auch ☐ ja, aber nur erfolgreiche ☐ ja, aber nur erfolglose ☐ nein, das Schloss wird nur | A |  |  | | | | | | | | | | | | | | | | |
-| C | Es muss mindestens ein „Ja“ | | | | | | | | | | | | | | | | | | | |
-| **2.11** | **Wenn 2.9 ja:** ☐ ja ☐ nein | B |  |  | | | | | | | | | | | | | | | | |
-| **2.12** | Existiert ein mechanisches Schlo ☐ ja | A |  |  | **MAßNAHMEN DES AUFTRAGNEHMERS  2.9** ☐ B |  |  |  | **2.11** |  | **ja:** | nein ☐ B  ☐ |  |  |  |  |  | Existiert ein mechanisches Schlo |  | ja |
-| A |  |  |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | |
-| **STUFE ** PIN | | | | | | | | | | | | | | | | | | | | |
-|  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN** | **2.7** | **ja:** |  | | | | | | | | | | | | | | | | |
-|  | A |  |  | C | **2.9** |  |  |  | **Wenn 2.7** | **ja:** ja, sowohl erfolgreiche als auch Mindestens zwei verschiedene |  | | | | | | | | | |
-
-Wie lange werden diese Protokolldaten aufbewahrt? ODER DARSTELLUNG GLEICHWERTIGER Techniken müssen genutzt werden.  Werden die Zutritte im Zutrittssystem protokolliert?  erfolglose Zutrittsversuche Zutrittsversuche Zutrittsversuche freigegeben oder nicht ausgewählt werden.  Werden die Protokolle regelmäßig ausgewertet? ss für die Gebäude / Büroräume?
+NUTZERS  Werden die Zutritte zu Serverräumen protokolliert?  Zutrittsdaten gespeichert? bitte angeben  e werden die Wie lang ausgewertet?  Werden die Protokolle regelmäßig mechanisch mit Schlüssel möglich?  Wo werden d S aufbewahrt und  sie aus? bitte angeben wer gibt chlüssel Wachdienst / besetzter Empfangsbereich o. ä. zum Rechenzentrum/Serverraum
 
 ---
 
-|  | nein | A | Eine offizielle Zutrittsregelung für |  | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  | **Wenn** | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-| A | **Sind die dokumentierten Maßnahmen** |  | Werden die Zutrittsrechte/Schlüssel zu |  | | | | | | | | | | | | | | | | |
-| A | B  Personenbezogene    Es muss bestätigt werden, dass die |  | Gibt es offizielle Zutrittsregelung für | ja, bitte angeben | Es muss bestätigt werden, dass die |  | **FRAGE** | **SCHUTZ- STUFE** |  | A  Eine offizielle Zutrittsregelung für  ☐ |  |  | | | | | | | | |
-| **MINDESTANFORDERUNG **  nein | | | | | | | | | | | | | | | | | | | | |
-| **2.13** | **Wenn  ERLÄUTERUNGEN   ja: MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | |
-|  | **2.12 ja:** bitte angeben A | Es muss festgeleg |  |  | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ ☐   ☐ | Personenbezogene **Sind die dokumentierten Maßnahmen** |  |  | | | | | | | | | | | | | | | | |
-|  | **2.16** | ja | nein |  | A | | | | | | | | | | | | | | | |
-| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | |
-| ☐  nein  ☐ ☐ |  |  | | | | | | | | | | | | | | | | | | |
-|  | A | **2.12** | **ja:** | bitte angeben | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | |
-| B | **2.16** Gibt es offizielle Zutrittsregelung für | ja, bitte angeben |  |  | | | | | | | | | | | | | | | | |
-|  |  |  | **FRAGE** | **SCHUTZ-** | Werden die Zutrittsrechte/Schlüssel zu  ☐ ja  ☐ nein | A |  |  | B | Personenbezogene | **2.16** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | A | Eine offizielle Zutrittsregelung für |  |  | **Sind die dokumentierten Maßnahmen** |  | Es muss bestätigt werden, dass die |  |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | |
-| ☐ nein | | | | | | | | | | | | | | | | | | | | |
-| **2.13** | **Wenn 2.12 ja:** ☐ ja, bitte angeben ☐ nein | A |  |  | | | | | | | | | | | | | | | | |
-| **2.14 2.15** | **Wenn 2.12 ja:** bitte angeben | A | Es muss festgeleg |  |  | ja, bitte angeben |  | nein | A | **2.13** | **Wenn** | | | | | | | | | |
+| DER SCHNITTSTELLE | ☐ | ☐ | ☐ ☐ ☐ |
+|---|---|---|---|
+|  | ☐ ☐ |  |  |
+|  |  |  | nein |
+| Bei vorhandenem C5 Testat: Abgedeckt über PS |  | geeignet**MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** |
+|  |  |  |  |
+| **02.21** | Werden die Serverräume neben ihrer eigentlichen  ja nein | Die Nutzung von Serverräumen für andere |  |
+| **02.22** | Gibt es offizielle Zutrittsregelung für | ja, bitte angeben |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über PS**Sind die dokumentierten Maßnahmen aus Ihrer** | geeignet |  |
+|  | ungeeignet |  |  |
+|  | **FRAGE  GLEICHWERTIGER MAßNAHMEN DES** | ☐ | ☐ |
+| ☐ | ☐ |  |  |
+|  |  |  |  |
+| **02.21** | Werden die Serverräume neben ihrer eigentlichen  ja nein | Die Nutzung von Serverräumen für andere |  |
+| **02.22** | Gibt es offizielle Zutrittsregelung für | ja, bitte angeben |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über PS |  |  |
+|  | begrenzt geeignet  ungeeignet | Es muss bestätigt werden, dass die getroffenen |  |
+| **ID** | **MINDESTANFORDERUNG  GLEICHWERTIGER MAßNAHMEN DES ** ☐ | ☐ | ☐ |
+|  |  |  |  |
+|  |  |  |  |
+| **02.21** | Werden die Serverräume neben ihrer eigentlichen  ja nein | Die Nutzung von Serverräumen für andere |  |
+| **02.22** | Gibt es offizielle Zutrittsregelung für | ja, bitte angeben |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über PS**Sind die dokumentierten Maßnahmen aus Ihrer** | geeignet |  |
+|  | ungeeignet Es muss bestätigt werden, dass die getroffenen |  |  |
+| **MINDESTANFORDERUNG** | **GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** | ☐ | ☐ |
+| ☐ | ☐ |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+| **02.21** | Werden die Serverräume neben ihrer eigentlichen  ☐ ja ☐ nein | Die Nutzung von Serverräumen für andere |  |
+| **02.22** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | Eine offizielle Zutrittsregelung für | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die getroffenen |  |
 
-Wird die Ausgabe der (mechanischen und/oder elektronischen) Schlüssel protokolliert?  Wer gibt die (mechanischen und/oder elektronischen) Schlüssel aus? Büros personenbezogen vergeben? betriebsfremde Personen (bspw. Besucher) zu den Büroräumen? aus Ihrer Sicht unter Berücksichtigung t sein, wer eine Schlüsselausgabe vornehmen darf. Zutrittsrechte/Schlüssel sind zwingend erforderlich. betriebsfremde Personen ist zwingend erforderlich. getroffenen Maßnahmen geeignet ODER DARSTELLUNG GLEICHWERTIGER
-
----
-
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | Begründung: | bitte angeben | sein, um ein angemessenes | | | | | | | | | | | | | | | | |
-| **STUFE** | ☐ |  |  |  | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  |  |  |  |  | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | |
-| ungeeignet | sein, um ein angemessenes   **SCHUTZ- ERLÄUTERUNGEN** | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | |
-|  | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ ☐ |  |  |  | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | |
-| ungeeignet | sein, um ein angemessenes   **FRAGE  MINDESTANFORDERUNG** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **des Stands der Technik, der ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet    Begründung:  bitte angeben | sein, um ein angemessenes | | | | | | | | | |
-
-ODER DARSTELLUNG GLEICHWERTIGER Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+NUTZERS Funktion noch für andere Zwecke genutzt? betriebsfremde Personen (bspw. Besucher) zu den Serverräumen? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Zwecke ist nicht erlaubt. betriebsfremde Personen ist zwingend erforderlich. Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. -04
 
 ---
 
-3 MAßNAHMEN ZUM ZUGANG UND ZUGRIFF
+3 MAßNAHMEN ZUM ZUTRITT ZU BÜRORÄUMEN
 
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **3.1** | Existiert ein Prozess zur Vergabe von  ☐ definierter Freigabeprozess ☐ kein definierter Freigabeprozess, auf ☐ Sonstige Vergabeweise: bitte | A | Ein definierter Freigabeprozess ist |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.2** | Werden die Vergabe bzw. Änderungen  ☐ ja ☐ nein | B | Eine Protokollierung ist erforderlich. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.3** | Authentisieren sich die  ☐ ja ☐ nein | B | Authentisierung gegen einen zentralen |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | nein | B | Authentisierung gegen einen zentralen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | Sonstige Vergabeweise: bitte | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE ** Werden die Vergabe bzw. Änderungen **SCHUTZ- STUFE  MINDESTANFORDERUNG** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Authentisieren sich die |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | definierter Freigabeprozess | A | Ein definierter Freigabeprozess ist |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.2** | Werden die Vergabe bzw. Änderungen  ja  nein | B | Eine Protokollierung ist erforderlich. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein |  | B | Authentisierung gegen einen zentralen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **STUFE ** ☐ | ☐ | ☐ ☐ | ☐ ☐ | ☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ | ☐ |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.1** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | A  Ein definierter Freigabeprozess ist | **3.2** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Eine Protokollierung ist erforderlich. | **3.3** | Authentisieren sich die |  | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Authentisierung gegen einen zentralen | **SCHUTZ- STUFE** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ |  |  |  |  |  |  |  |  | Authentisieren sich die |  |  |  | **MINDESTANFORDERUNG  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Existiert ein Prozess zur Vergabe von | kein definierter Freigabeprozess, auf |  |  |  | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ |  | ☐ ☐ |  |  | Sonstige Vergabeweise: bitte |  | ☐ |  |  | nein |  |  |  |  | nein | Authentisierung gegen einen zentralen |  |  | **FRAGE** | **SCHUTZ-** |  |  | Sonstige Vergabeweise: bitte | A | Ein definierter Freigabeprozess ist | definierter Freigabeprozess |
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
+|---|---|---|---|
+| **03.01** | An welchen Standorten wird über  bitte angeben |  |  |
+| **03.02** | Existiert ein Pförtnerdienst /  ☐ ja  ☐ nein |  |  |
+| **03.03** | Ist das Gebäude oder sind die Büroräume mittels  ☐ ja  ☐ nein | Einbruchmeldeanlage muss vorhanden sein. |  |
+| **03.04** | **Wenn 03.03 ja:** ☐ beauftragter Wachdienst  ☐ Administrator  ☐ Leiter IT  ☐ Sonstiges: bitte angeben | Eine Alarmaufschaltung ist verpflichtend.   Mindestens eine der zu alarmierenden |  |
+| **03.05** | Werden das Bürogebäude bzw. seine Zugänge  ☐ ja, ohne Bildaufzeichnung  ☐ ja, mit Bildaufzeichnung  ☐ nein |  |  |
+| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **SCHNITTSTELLE ** ☐ ☐ |
+|  | An welchen Standorten wird über | bitte angeben |  |
+|  | ☐ ☐ ☐   ☐ |  | Ist das Gebäude oder sind die Büroräume mittels |
+|  | nein  ☐ Einbruchmeldeanlage muss vorhanden sein.  ☐ ☐**Wenn 03.03 ja:** ☐ | Administrator |  |
+|  | Sonstiges: bitte angeben ☐ Eine Alarmaufschaltung ist verpflichtend.    ja, ohne Bildaufzeichnung |  | ja, mit Bildaufzeichnung |
+| nein |  |  | **ID** |
+| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **SCHNITTSTELLE ** ☐ ☐ |
+|  | ☐ bitte angeben  ☐ | **03.02** |  |
+| ja | ☐ ☐ | **03.03** |  |
+| ja | ☐ ☐ | **03.04** |  |
+| beauftragter Wachdienst | Administrator |  |  |
+|  | ☐ Mindestens eine der zu alarmierenden  ☐ |  | Werden das Bürogebäude bzw. seine Zugänge |
+|  | ja, mit Bildaufzeichnung  ☐ |  | **ID** |
+|  |  | **03.03** | Ist das Gebäude oder sind die Büroräume mittels |
+|  | ja  bitte angeben   ja |  | nein |
 
-ODER DARSTELLUNG GLEICHWERTIGER Benutzerkennungen und Zugriffsberechtigungen bei der Neueinstellung und beim Ausscheiden von Mitarbeitenden bzw. bei organisatorischen Veränderungen? Zuruf angeben von Zugriffsberechtigungen protokolliert? Mitarbeitenden über eine individuelle Kennung gegenüber dem zentralen Verzeichnisdienst? Verzeichnisdienst ist erforderlich.
-
----
-
-| ☐ | ☐ | ☐ ☐ | ☐ |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Großbuchstaben (A bis Z) |  |  | Nicht alphanumerische Zeichen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | C **SCHUTZ-** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS** | B | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.4** | Existieren verbindliche  ☐ ja ☐ nein | A | Verbindliche Password-Policy ist |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.5** | **Passwort-Zeichenlänge:  Das Passwort enthält Zeichen aus den ** ☐ Großbuchstaben (A bis Z) ☐ Kleinbuchstaben (a bis z) ☐ Ziffern (0 bis 9) ☐ Nicht alphanumerische Zeichen Die Passwortlänge muss mindestens | A | Die Passwortlänge muss mindestens |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| C | Die Passwortlänge muss mindestens | Die Passwortlänge muss mindestens |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein Verbindliche Password-Policy ist |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Großbuchstaben (A bis Z) |  |  | Nicht alphanumerische Zeichen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE  SCHUTZ-** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| nein |  | **Passwort-Zeichenlänge:** |  | **Das Passwort enthält Zeichen aus den** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | C | Die Passwortlänge muss mindestens |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **ERLÄUTERUNGEN** | ☐ ☐ |  |  |  |  | **3.4** |  | **Das Passwort enthält Zeichen aus den** |  | Nicht alphanumerische Zeichen A  B |  |  | C |  | **FRAGE** | ☐ | ☐ |  |  |  | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | A  Verbindliche Password-Policy ist | **3.5** |  |  | ☐ |  |  |  |  | **3.4** | Existieren verbindliche  ja  nein | A | Verbindliche Password-Policy ist |  | **3.5** | **Passwort-Zeichenlänge:  Das Passwort enthält Zeichen aus den** | Kleinbuchstaben (a bis z) |  |  | A | B  Die Passwortlänge muss mindestens |  | **FRAGE** | **SCHUTZ-** | **ERLÄUTERUNGEN** | ☐ | ☐ | ☐ | ☐ | A | Verbindliche Password-Policy ist |  |  |  | **3.5** Existieren verbindliche  ja |
-
-ODER DARSTELLUNG GLEICHWERTIGER Passwortparameter im Unternehmen? erforderlich.  bitte angeben folgenden Kategorien entsprechend den Mindestanforderungen der Schutzstufe: (Sonderzeichen): (~! @ # $% ^& * -+ = ' | \ \ (){}\ []:; "' <>,.? /) 12 Zeichen sein. Für die Passwortkomplexität müssen drei der vier Kategorien (Großbuchstaben, Kleinbuchstaben, Ziffern oder nicht alphanumerische Zeichen) enthalten sein. 10 Zeichen sein. Für die Passwortkomplexität müssen drei der vier Kategorien (Großbuchstaben, Kleinbuchstaben, Ziffern oder nicht alphanumerische Zeichen) enthalten sein. 12 Zeichen sein. Für die Passwortkomplexität müssen alle vier Kategorien (Großbuchstaben, Kleinbuchstaben, Ziffern oder nicht alphanumerische Zeichen) enthalten sein.  - ODER -
+NUTZERS DER Clientarbeitsplätze auf personenbezogene Daten zugegriffen? Wachdienst / besetzter Empfangsbereich o. ä. zum Gebäude bzw. zu Ihren Büros? einer Einbruchmeldeanlage (EMA) alarmgesichert?  Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! videoüberwacht? Stellen muss 24/7 erreichbar sein und reagieren.
 
 ---
 
-|  |  | 3.9 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Zwingt das IT System den Nutzer zur  Gibt es eine Begrenzung von  A | B | Die IT-technische Unterstützung der |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.7** | Wird der Bildschirm bei Inaktivität des     ja, nach bitte Anzahl angeben  Es muss eine Anmeldesperre   nein | A | Die Bildschirmsperre muss |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | bitte angeben | Ein definierter Prozess muss existieren. |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Welche Maßnahmen ergreifen Sie bei | bitte angeben  A | Ein definierter Prozess muss existieren. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja |  | nein | **ERLÄUTERUNGEN ERLÄUTERUNGEN** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Wird der Bildschirm bei Inaktivität des **3.9** |  | B | Die Bildschirmsperre muss | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **SCHUTZ-SCHUTZ-** |  | B | Die Bildschirmsperre muss | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **MINDESTANFORDERUNG** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Es wird eine Multi-Faktor- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.6** | Zwingt das IT System den Nutzer zur  ☐ ja  ☐ nein | B | Die IT-technische Unterstützung der |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.7** | Wird der Bildschirm bei Inaktivität des  ☐ ja, nach bitte Anzahl angeben  ☐ nein | A | Die Bildschirmsperre muss |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.8** | Welche Maßnahmen ergreifen Sie bei  bitte angeben | A | Ein definierter Prozess muss existieren. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.9** Es muss eine Anmeldesperre | Gibt es eine Begrenzung von | A | Es muss eine Anmeldesperre |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **STUFE  MINDESTANFORDERUNG** | **3.6** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ja | B  Die IT-technische Unterstützung der **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **3.7** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja, nach bitte Anzahl angeben | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Die Bildschirmsperre muss | Die Bildschirmsperre muss  ☐ ☐ |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **3.9** ☐ ☐ |  | Gibt es eine Begrenzung von | A | ☐ ☐ |  |  |  |  | Die Bildschirmsperre muss |  | **3.8** |  |  | Welche Maßnahmen ergreifen Sie bei |  | A | Es muss eine Anmeldesperre |  |  | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein  ☐   ☐ |  |  |  |  |  |  | Gibt es eine Begrenzung von | A |  | Es muss eine Anmeldesperre     ja |  | nein |  |  |  |  |  | nein |  | **FRAGE** |  | Welche Maßnahmen ergreifen Sie bei | bitte angeben |  |  |  |  |  |  | nein |  | B | Die IT-technische Unterstützung der | Es wird eine Multi-Faktor- Zwingt das IT System den Nutzer zur |
+|  |  | ID | FRAGE  MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG |
+|---|---|---|---|
+|  | **Wenn 03.05 „ja, mit Bildaufzeichnung“:** |  |  |
+|  | **GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** | ja, das gesamte Gebäude ist elektronisch |  |
+|  | ☐ ☐**Wenn 03.07 ja:** | RFID |  |
+|  | Biometrie ☐ ☐ Mindestens zwei verschiedene Techniken  ☐ ☐**Wenn 03.07 ja:** | ja, erfolgreiche und -lose Versuche |  |
+|  | ☐ nein ☐ ☐**03.10** |  | **Wenn 03.09 ja:** |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **03.06** | **Wenn 03.05 „ja, mit Bildaufzeichnung“:** |  |  |
+| **03.07** | Sind die Räumlichkeiten mit einem elektronischen  ☐ ja, die Büroräume sind elektronisch ☐ ja, die Büroetagen sind elektronisch ☐ ja, das gesamte Gebäude ist elektronisch ☐ nein | Ein elektronisches Schließsystem ist |  |
+| **03.08** | **Wenn 03.07 ja:** ☐ RFID ☐ PIN ☐ Biometrie ☐ Sonstiges: bitte angeben | Mindestens zwei verschiedene Techniken | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **03.09** | **Wenn 03.07 ja:** ☐ ja, erfolgreiche und -lose Versuche ☐ ja, nur erfolgreiche Versuche ☐ ja, nur erfolglose Versuche ☐ nein | Mindestens erfolglose Versuche müssen |  |
+| **03.10** | **Wenn 03.09 ja:** |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **03.06** | ☐ ☐ |  | Sind die Räumlichkeiten mit einem elektronischen |
+|  | ja, die Büroetagen sind elektronisch ☐ ☐ |  | Ein elektronisches Schließsystem ist |
+|  | ☐ ☐ |  |  |
+|  | Mindestens zwei verschiedene Techniken | Bei vorhandenem C5 Testat: Abgedeckt über PS |  |
+|  | ☐ ☐ | ja, nur erfolglose Versuche |  |
+|  | ☐ ☐ |  |  |
+|  | nein |  | Ein elektronisches Schließsystem ist |
+| **03.06** | **03.08 ** Sind die Räumlichkeiten mit einem elektronischen   ja, die Büroräume sind elektronisch | ja, die Büroetagen sind elektronisch |  |
 
-ODER DARSTELLUNG GLEICHWERTIGER automatisch nach spätestens 10 Minuten Inaktivität aktiviert werden. Authentifizierung eingesetzt.  Einhaltung der oben genannten Passwortvorgaben?  Einhaltung der Password-Policy ist erforderlich. Benutzers gesperrt? Minuten automatisch aktiviert werden. Verlust, Vergessen oder Ausspähen eines Passworts?  erfolglosen Anmeldeversuchen?  eingerichtet sein.
-
----
-
-|  |  | Wenn 3.11 |  | A | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| nein | Mindestens eine aus drei | **3.9** | **ja:** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| A | Zugänge müssen bis zur manuellen |  | **3.11** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ja | A **FRAGE **  **SCHUTZ-** |  | **3.12** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | **3.12** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **3.10** |  |  | ☐☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **Wenn 3.11** |  |  | Ist der Zugriff auf Daten aus dem | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| A **MAßNAHMEN DES AUFTRAGNEHMERS MAßNAHMEN DES AUFTRAGNEHMERS** |  |  | Ist der Zugriff auf Daten aus dem | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | ☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| B | ☐**3.10** ☐**Wenn** | **3.9** | **ja:** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| A | **ja:** Zugänge müssen bis zur manuellen  ☐ |  | **3.11** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | **3.12** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.11** | Mindestens eine aus drei |  | **FRAGE  MINDESTANFORDERUNG** | **SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **FRAGE** | **SCHUTZ- STUFE** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ ja, nach bitte Anzahl angeben  ☐ nein | B | Es muss eine Anmeldesperre | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.10** | **Wenn 3.9 ja:** ☐ Die Zugänge bleiben bis zur  ☐ Die Zugänge bleiben für bitte Anzahl | A |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| C | Zugänge müssen bis zur manuellen | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.11** | Ist der Zugriff auf Daten aus dem  ☐ ja  ☐ nein | A |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.12** | **Wenn 3.11 ja:** ☐ ☐ | A | Mindestens eine aus drei |  | ☐ ☐ |  |  |  |  | ☐ Ist der Zugriff auf Daten aus dem | nein |  | A |  |  |  | A |  | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | | | | | |
-| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **ja: Wenn ** ☐ |  | Die Zugänge bleiben für bitte Anzahl |  |  |  | A | Mindestens eine aus drei |  |  | **FRAGE  3.10** |  |  |  |  | **SCHUTZ-**  **STUFE ** C |  |  |  |  | **MINDESTANFORDERUNG **  nein **ERLÄUTERUNGEN ** |  |  |  | **3.12** |  |  |  | **Wenn** |  |  | **Wenn** | **3.9** | **ja:** | Die Zugänge bleiben bis zur |
-
-erfolglosen Versuchen.  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht wurde?  manuellen Aufhebung der Sperre gesperrt. angeben Minuten gesperrt. Internet (z. B. im Home Office) möglich?  Wie erfolgt die Authentisierung:  (RSA) Token  VPN-Zertifikat  spätestens nach 10 erfolglosen Anmeldeversuchen eingerichtet sein. Aufhebung gesperrt bleiben. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff erforderlich. ODER DARSTELLUNG GLEICHWERTIGER
+NUTZERS DER  Wie lange werden die B g ilddaten espeichert? bitte angeben Schließsystem versehen? verschlossen. verschlossen. verschlossen.  Welche Zutrittstechnik kommt zum Einsatz?   Werden die Zutritte im Zutrittssystem protokolliert?   e werden diese Wie lang Protokolldaten aufbewahrt? bitte angeben erforderlich. müssen genutzt werden. protokolliert werden. -04
 
 ---
 
-|  |  |  | Werden Firewalls eingesetzt? | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | **3.13 Wenn **  nein |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | A |  |  | **Wenn** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Firewalls sind zwingend erforderlich. |  |  |  | Die Zugänge bleiben für bitte Anzahl | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| C | Zugänge müssen bis zur manuellen |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Mindestens zwei aus drei | **3.15** | **3.11** | **ja:** | **ERLÄUTERUNGEN ERLÄUTERUNGEN** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| A | B  Es muss eine Anmeldesperre  Werden Firewalls eingesetzt?  **Wenn** | **ja:** |  | Die Zugänge bleiben bis zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **SCHUTZ-SCHUTZ-** |  |  | Die Zugänge bleiben bis zur | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **MINDESTANFORDERUNG** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐**ja:**  ja, bitte Anzahl angeben Versuche |  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ |  |  | **Wenn** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Zugänge müssen bis zur manuellen |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| A |  | nein | A  Firewalls sind zwingend erforderlich. |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Firewalls sind zwingend erforderlich. |  | **FRAGE  SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **STUFE  MINDESTANFORDERUNG** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja, bitte Anzahl angeben Versuche **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** Es muss eine Anmeldesperre |  | B | Es muss eine Anmeldesperre | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Die Zugänge bleiben bis zur  ☐ ☐ A |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ ☐ | ja |  | nein | ☐ ☐ | Mindestens zwei aus drei | B | Es muss eine Anmeldesperre | **3.14** | **Wenn 3.13 ja:** ☐ Die Zugänge bleiben bis zur  ☐ Die Zugänge bleiben für bitte Anzahl | A |  |  | C | Zugänge müssen bis zur manuellen | **3.15** | Werden Firewalls eingesetzt?   ☐ ja  ☐ nein | A | Firewalls sind zwingend erforderlich. |  | | | | | | | | | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE ** B | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.13** | **Wenn 3.11 ja:** ☐ ja, bitte Anzahl angeben Versuche  ☐ nein | A | Es muss eine Anmeldesperre |  | Werden Firewalls eingesetzt? |  | ja |  | nein | Mindestens zwei aus drei | A  Firewalls sind zwingend erforderlich. | **3.11** | **ja:** |  | A | Es muss eine Anmeldesperre |  | **3.14** |  | **ja:** | Die Zugänge bleiben für bitte Anzahl    A**FRAGE** | C | Zugänge müssen bis zur manuellen |  |  | **3.15** |  |  |  | **3.11** | **ja:** | ja, bitte Anzahl angeben Versuche |  | nein | B  A |
+| Bei vorhandenem C5 Testat: Abgedeckt über PS |  | ID | FRAGE  MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG |
+|---|---|---|---|
+|  | ja |  |  |
+|  | **GLEICHWERTIGER MAßNAHMEN DES  03.12  SCHNITTSTELLE** |  |  |
+|  | ☐**03.13 ** ☐ |  |  |
+|  | ☐**03.14 ** ☐ bitte angeben ☐ ☐ | ja |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über PS ☐ ☐ Gibt es offizielle Zutrittsregelung für  ☐ | nein |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **03.11** | **Wenn 03.09 ja:** | ja |  |
+|  | ☐ ☐ Existiert ein mechanisches Schlo ☐ ☐ |  |  |
+|  | ☐ ☐ ☐ ☐ | bitte angeben | Es muss festgelegt sein, wer eine |
+|  | ☐ ☐ Personenbezogene Zutrittsrechte/ |  | Gibt es offizielle Zutrittsregelung für |
+|  | nein | Eine offizielle Zutrittsregelung für | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **03.11** | **Wenn 03.09 ja:** ☐ ja  ☐ nein |  |  |
+| **03.12** | Existiert ein mechanisches Schlo ☐ ja  ☐ nein |  |  |
+| **03.13** | **Wenn 03.07 oder 03.12 ja:** ☐ ja, bitte angeben ☐ nein |  |  |
+| **03.14** | **Wenn 03.07 oder 03.12 ja:** bitte angeben | Es muss festgelegt sein, wer eine |  |
+| **03.15** | Werden die Zutrittsrechte/Schlüssel zu Büros  ☐ ja  ☐ nein | Personenbezogene Zutrittsrechte/ | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| **03.16** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | Eine offizielle Zutrittsregelung für | Bei vorhandenem C5 Testat: Abgedeckt über PS |
+| nein |  |  |  |
+| **03.11** | **Wenn 03.09 ja: 03.13 **  ja   nein**Wenn 03.07 oder 03.12 ja:**  **03.12** | Existiert ein mechanisches Schlo |  |
 
-pre-shared key  Benutzeraccount Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff spätestens nach 10 erfolglosen Anmeldeversuchen eingerichtet sein.  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? manuellen Aufhebung der Sperre gesperrt angeben Minuten gesperrt. Aufhebung gesperrt bleiben. ODER DARSTELLUNG GLEICHWERTIGER  Gibt es eine Begrenzung von erfolglosen Anm eldeversuchen bei Fernzugängen? pro Tag eingerichtet sein.
-
----
-
-|  | Es muss bestätigt werden, dass die |  |  | FRAGE  SCHUTZ- | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | **STUFE  MINDESTANFORDERUNG  ERLÄUTERUNGEN** |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ☐ ☐ |  |  |  | Werden die Zugriffsprotokolle (z. B. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| B |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.16** | Wer administriert die Firewall des **Sind die dokumentierten Maßnahmen **  eigene IT  Externer Dienstleister | A |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **3.17** | **Wenn ein externer DL zum Einsatz ** ja Es muss bestätigt werden, dass die  B | **3.18** |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | nein, eine Auswertung wäre aber im |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ | ☐ |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Externer Dienstleister |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ ☐ | ☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ | ☐ ☐ | ☐ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Externer Dienstleister |  | **Wenn ein externer DL zum Einsatz** |  | ja | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| nein |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja, über eine Security Information |  | nein, eine Auswertung wäre aber im |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** |  | **3.16** |  | ja | Eine Remote-Administration der | **3.18** Werden die Zugriffsprotokolle (z. B. | ja, über eine Security Information |  |  | B |  | **Sind die dokumentierten Maßnahmen** | **SCHUTZ- ERLÄUTERUNGEN** | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | |
-| ☐ | ☐ |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | A | **3.17** |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **3.16** | Wer administriert die Firewall des  ☐ eigene IT ☐ Externer Dienstleister | A |  |  | **3.17** | **Wenn ein externer DL zum Einsatz ** ☐ ja ☐ nein | B | Eine Remote-Administration der |  | **3.18** | Werden die Zugriffsprotokolle (z. B.  ☐ ja, über eine Security Information ☐ nein, eine Auswertung wäre aber im | B |  |  |  | **Sind die dokumentierten Maßnahmen** |  | Es muss bestätigt werden, dass die |  | A |  |  |  |  | **3.17** Wer administriert die Firewall des   eigene IT |
-
-ODER DARSTELLUNG GLEICHWERTIGER Auftragnehmers? kommt : Kann sich dieser ohne Aufsicht durch Ihre IT auf ein System aufschalten?  Firewall ohne Beaufsichtigung durch eigenes Personal ist nicht zulässig, es sei denn, es handelt sich um den beauftragten IT-Dienstleister. Anmeldungen und Firewall Logs) regelmäßig ausgewertet? and Event Management-Lösung (SIEM) Bedarfsfall möglich aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+NUTZERS DER  Werden die Protokolle regelmäßig ausgewertet? Gebäude / Büroräume? (mechanischen / elektronischen) Schlüssel/Token protokolliert? (mechanisch/elektronisch) aus? ss für die  Wird die Ausgabe der  Wer gibt die Schlüssel personenbezogen vergeben? betriebsfremde Personen (bspw. Besucher) zu den Büroräumen? Schlüsselausgabe vornehmen darf. sind zwingend erforderlich. betriebsfremde Personen ist zwingend erforderlich. -04 -04
 
 ---
 
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Begründung:   **SCHUTZ-** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | ungeeignet |  | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **und Freiheiten der Betroffenen** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | Begründung: **FRAGE  STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **STUFE  MINDESTANFORDERUNG  ERLÄUTERUNGEN ** ☐ |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | | | | | | | | | | | | | | |
-|  |  | geeignet |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **FRAGE  STUFE  MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ |  |  |  |  |  |  |  |  | ungeeignet |  | **FRAGE** | **SCHUTZ-** | ☐ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **und Freiheiten der Betroffenen ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet     Begründung:  bitte angeben |
+|  |  |  |  |
+|---|---|---|---|
+|  | geeignet |  |  |
+|  |  |  |  |
+| **MINDESTANFORDERUNG** | **GLEICHWERTIGER MAßNAHMEN DES ** ☐ |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer** | geeignet |  |
+|  | ungeeignet Es muss bestätigt werden, dass die **FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** |
+| ☐ |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer **  geeignet  begrenzt geeignet |  | ungeeignet |
+|  | Es muss bestätigt werden, dass die **ID** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** |
+| ☐ | ☐ |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die |  |
 
-ODER DARSTELLUNG GLEICHWERTIGER geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten?
-
----
-
-4 MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)
-
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **4.1** | Erfolgt eine Klassifizierung und ggf.  ☐ ja  ☐ nein | B | Sensible Informationen müssen |  | | | | | | | | | | | |
-| **4.2** | Wie werden nicht mehr benötigte  ☐ Altpapier / Restmüll  ☐ Es stehen hierfür Schredder zur  ☐ Es sind verschlossene Datentonnen  ☐ Sonstiges: bitte angeben | A | Es ist eine datenschutzkonforme |  | | | | | | | | | | | |
-| **4.3** | Wie werden nicht mehr benötigte **ERLÄUTERUNGEN** | A | Es ist eine sichere Vernichtungsart zu |  | **MINDESTANFORDERUNG** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ | | | | | | | |
-| ☐ ☐**4.1** | | | | | | | | | | | | | | | |
-| Sensible Informationen müssen | **4.2** | Wie werden nicht mehr benötigte |  | Altpapier / Restmüll | | | | | | | | | | | |
-| Es sind verschlossene Datentonnen | A   **4.3** |  |  |  | | | | | | | | | | | |
-| Es ist eine sichere Vernichtungsart zu |  | | | | | | | | | | | | | | |
-| **FRAGE** | **SCHUTZ-** | Es ist eine sichere Vernichtungsart zu    B |  |  |  |  | Altpapier / Restmüll   **FRAGE** |  |  | Sonstiges: bitte angeben | Es ist eine datenschutzkonforme |  |  |  |  |
-| **4.3** |  |  |  | Wie werden nicht mehr benötigte  A |  | B | Sensible Informationen müssen |  |  | **4.2**  ja | | | | | |
-
-Kennzeichnung sensibler Informationen? Papier-Unterlagen mit personenbezogenen Daten (bspw. Ausdrucke / Akten / Schriftwechsel) entsorgt? Verfügung, deren Nutzung angewiesen ist. aufgestellt, die von einem Entsorgungsdienstleister zur datenschutzkonformen Vernichtung abgeholt werden. Datenträger (USB Sticks, Festplatten), auf denen personenbezogene Daten gespeichert sind, entsorgt? klassifiziert und ggf. gekennzeichnet um den korrekten Umgang mit ihnen zu gewährleisten. sichere Vernichtungsart zu wählen. wählen. ODER DARSTELLUNG GLEICHWERTIGER
+NUTZERS DER Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
 
 ---
 
-|  | C | Die Verwendung ist auf |  | FRAGE  SCHUTZ | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Physische Zerstörung durch | **STUFE  MINDESTANFORDERUNG** |  | **4.4** |  | | | | | | | | | | | |
-| ja | A **ERLÄUTERUNGEN **  **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐**4.5** ☐ | Dürfen die Mitarbeitenden private |  | ja, aber Mitarbeitende sind | | | | | | | | | | | |
-| nein, alle benötigten | **FRAGE** |  | B | Verwendung ist nur nach |  | **SCHUTZ STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | |
-| ☐ Physische Zerstörung durch eigene  ☐ Physische Zerstörung durch  ☐ Löschen der Daten durch bitte  ☐ Sonstiges: bitte angeben | | | | | | | | | | | | | | | |
-| **4.4** | Dürfen im Unternehmen mobile  ☐ ja  ☐ nein | A |  |  | | | | | | | | | | | |
-| **4.5** | Dürfen die Mitarbeitenden private  ☐ ja, aber Mitarbeitende sind  ☐ ja, aber nur nach Genehmigung  ☐ nein, alle benötigten | A |  |  | | | | | | | | | | | |
-| B | Verwendung ist nur nach | | | | | | | | | | | | | | |
-| C | Die Verwendung ist auf | B   Sonstiges: bitte angeben Verwendung ist nur nach |  |  |  |  | C |  |  |  |  |  |  | ja, aber nur nach Genehmigung |  |
-| nein, alle benötigten |  | A |  |  |  |  | **4.4** |  |  | Dürfen im Unternehmen mobile   ja   Sonstiges: bitte angeben | | | | | |
+# 4 MAßNAHMEN ZUM ZUGANG UND ZUGRIFF
 
-IT. externen Dienstleister. Anzahl angeben Überschreibungen Datenträger verwendet werden (z.B. USB-Sticks) Datenträger (z.B. USB Sticks) verwenden? angehalten, vorher einen Virencheck durchführen zu lassen. und Überprüfung des Speichermediums durch die IT. Speichermedien werden vom Unternehmen gestellt. Genehmigung und Überprüfung erlaubt oder auf unternehmenseigene Speichermedien beschränkt. unternehmenseigene Speichermedien beschränkt. ODER DARSTELLUNG GLEICHWERTIGER
+**ID FRAGE**
 
----
+**MINDESTANFORDERUNG**
 
-| ☐ | ☐ |  |  |  | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | keine Maßnahmen |  | B | | | | | | | | | | | |
-|  | Verarbeiten Mitarbeitende |  |  |  | | | | | | | | | | | |
-|  | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | ☐ |  |  |  |  | | | | | | | |
-| Verschlüsselung der Festplatte/des | | | | | | | | | | | | | | | |
-|  |  |  |  | Verarbeiten Mitarbeitende | | | | | | | | | | | |
-|  | Es muss bestätigt werden, dass die | **SCHUTZ** | **STUFE** | **MINDESTANFORDERUNG** | | | | | | | | | | | |
-| ☐ | ☐ | | | | | | | | | | | | | | |
-| ☐ |  | Werden personenbezogene Daten  ☐ Verschlüsselung der Festplatte/des  ☐ Verschlüsselung einzelner  ☐ keine Maßnahmen | B | Die Daten sind zu verschlüsseln. |  | **4.7** | Verarbeiten Mitarbeitende ☐ ja  ☐ nein | A | Das Halten personenbezogener Daten |  |  | **Sind die dokumentierten** |  | Es muss bestätigt werden, dass die |  |
-| **4.6** | **FRAGE** | **SCHUTZ STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** |  | keine Maßnahmen | B | Die Daten sind zu verschlüsseln. |  | Werden personenbezogene Daten   Verschlüsselung der Festplatte/des | | | | | |
+**ERLÄUTERUNGEN ODER DARSTELLUNG**  **GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER**
 
-auf mobilen Endgeräten verschlüsselt?  Speichers Verzeichnisse  personenbezogene Daten auch auf eigenen privaten G eräten (bring your own device)? Maßnahmen aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko des Auftraggebers auf privaten Geräten des Auftragnehmers ist untersagt. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. ODER DARSTELLUNG GLEICHWERTIGER
+Existiert ein Prozess zur Vergabe von
 
----
+**04.01** Benutzerkennungen und Zugriffsberechtigungen  bei der Neueinstellung und beim Ausscheiden von  Mitarbeitenden bzw. bei organisatorischen  Veränderungen?
 
-|  |  |  |  |  | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Begründung: | **FRAGE** | **SCHUTZ** | **STUFE** | | | | | | | | | | | |
-| ☐ |  |  |  |  | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  | | | | | | | |
-|  | | | | | | | | | | | | | | | |
-| **SCHUTZ** | ☐ ☐ |  |  |  | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | |
-|  |  | ungeeignet   **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | **FRAGE** | **SCHUTZ STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **angemessenes Schutzniveau zu ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet    Begründung:  bitte angeben | | | | | |
+definierter Freigabeprozess
 
-ODER DARSTELLUNG GLEICHWERTIGER gewährleisten?
+kein definierter Freigabeprozess, auf Zuruf
 
----
+Sonstige Vergabeweise: bitte angeben
 
-5 MAßNAHMEN ZUR DATENÜBERTRAGUNG
+Werden Zugriffsberechtigungen nach dem Need-
 
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Werden keine personenbezogenen |  |  |  | | | | | | | | |
-| **5.1** | Erfolgt der Transfer  ☐ ja:   ☐ per verschlüsselter Datei als  ☐ per PGP / SMime  ☐ per verschlüsseltem Datenträger  ☐ per VPN  ☐ per https / TLS  ☐ per SFTP  ☐ Sonstiges: bitte angeben ☐ nein | A | Beim Transfer personenbezogener |  | | | | | | | | |
-| **5.2** | Wer verwaltet die Schlüssel bzw. die  ☐ Anwender selbst  ☐ eigene IT   ☐ Externer Dienstleister | A |  |  | | | | | | | | |
-| **5.3** | Werden die Übertragungsvorgänge | A |  |  | Externer Dienstleister | A |  |  | **5.2** | Anwender selbst | eigene IT |  |
-|  | | | | | | | | | | | | |
-|  | Erfolgt der Transfer   ja: |  |  |  | | | | | | | | |
-|  | ☐ Sonstiges: bitte angeben  nein**5.3** Beim Transfer personenbezogener |  |  |  |  | | | | | | | |
-|  |  | **5.1** |  |  | | | | | | | | |
+**04.02** to-Know und Least-Privilege Prinzip auf Basis eines  Rollen- und Rechtekonzeptes vergeben?
 
-Daten übertragen,  müssen die Fragen zu 5 nicht beantwortet werden personenbezogener Daten durchgängig verschlüsselt? Mailanhang Zertifikate?  protokolliert? Daten muss durch Verschlüsselung sichergestellt werden, dass keine unberechtigte Einsichtnahme Dritter möglich ist. ODER DARSTELLUNG GLEICHWERTIGER
+ja
 
----
+nein
 
-|  |  |  |  |  | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ja |  | nein |  |  | | | | | | | | |
-|  | **5.3** bitte angeben **Wenn 5.3**  ja, über eine Security Information |  | nein, eine Auswertung wäre aber im |  | | | | | | | | |
-|  | begrenzt geeignet Es muss bestätigt werden, dass die | **SCHUTZ-** | **STUFE** | **MINDESTANFORDERUNG** | | | | | | | | |
-| ☐ | **FRAGE** |  |  |  |  | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** |  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet ☐ begrenzt geeignet | Es muss bestätigt werden, dass die |  |
-| ☐ ja  ☐ nein | | | | | | | | | | | | |
-| **5.4** | **Wenn 5.3 ja:** bitte angeben | A |  |  | | | | | | | | |
-| **5.5** | **Wenn 5.3 ja:** ☐ ja, über eine Security Information  ☐ nein, eine Auswertung wäre aber im | A |  |  | **Wenn **  ja   nein | | | | | | | |
-|  |  | **5.4** |  |  | | | | | | | | |
+Werden die Vergabe bzw. Änderungen von
 
-ODER DARSTELLUNG GLEICHWERTIGER aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.  Wie lange werden diese Protokolldaten aufbewahrt?  Werden die Protokolle regelmäßig ausgewertet? and Event Management-Lösung (SIEM) Bedarfsfall möglich
+**04.03** Zugriffsberechtigungen protokolliert?
 
----
+ja
 
-|  |  |  |  |  | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ungeeignet |  | Begründung: | bitte angeben |  | | | | | | | | |
-| **STUFE** |  |  |  |  | | | | | | | | |
-|  |  |  |  |  | | | | | | | | |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ungeeignet   Begründung: | | | | | | | | | | | | |
-| **SCHUTZ-** | ☐ |  |  |  | | | | | | | | |
-|  |  |  |  |  | ☐ ungeeignet     Begründung:  bitte angeben | | | | | | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | |
+nein
 
-ODER DARSTELLUNG GLEICHWERTIGER 
+Authentisieren sich die Mitarbeitenden über eine
+
+**04.04** individuelle Kennung gegenüber dem zentralen  Verzeichnisdienst?
+
+ja
+
+nein
+
+Existieren verbindliche Passwortvorgaben im
+
+**04.05** Unternehmen?
+
+ja
+
+nein
+
+Ein definierter Freigabeprozess ist  erforderlich.
+
+Need-to-Know und Least-Privilege  Prinzipien auf Basis eines Rollen- und  Rechtekonzeptes sind erforderlich.
+
+Eine Protokollierung ist erforderlich.
+
+Authentisierung gegen einen zentralen  Verzeichnisdienst ist erforderlich.
+
+Verbindliche Password-Policy ist  erforderlich.
+
+**SCHNITTSTELLE**
+
+Bei vorhandenem C5 Testat: Abgedeckt über IDM-01
+
+Bei vorhandenem C5 Testat: Abgedeckt über PSS-08
+
+Bei vorhandenem C5 Testat: Abgedeckt über IDM-09
 
 
 ---
 
-6 MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE
+|  |  | ID | FRAGE  MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG |
+|---|---|---|---|
+|  | **Das Passwort enthält Zeichen aus den folgenden  GLEICHWERTIGER MAßNAHMEN DES **  Großbuchstaben (A bis Z) **SCHNITTSTELLE **  Kleinbuchstaben (a bis z)  ☐  Ziffern (0 bis 9) |  | Nicht alphanumerische Zeichen |
+| Bei vorhandenem C5 Testat: Abgedeckt über IDM | ☐ ☐  ja |  | nein |
+| Bei vorhandenem C5 Testat: Abgedeckt über IDM | ☐ ☐  ja, nach bitte Anzahl angeben Minuten |  | nein |
+|  | ☐ ☐ Welche Maßnahmen ergreifen Sie bei Verlust, | Ein definierter Prozess muss existieren. |  |
+| **04.10** | Gibt es eine Begrenzung von erfolglosen  ☐  ja, nach bitte Anzahl angeben erfolglosen ☐  nein | Es muss eine Anmeldesperre spätestens |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **04.06** | **Passwort-Zeichenlänge:  Das Passwort enthält Zeichen aus den folgenden ** ☐ Großbuchstaben (A bis Z)  ☐ Kleinbuchstaben (a bis z)  ☐ Ziffern (0 bis 9)  ☐ Nicht alphanumerische Zeichen | Die Passwortlänge muss mindestens 12 | Bei vorhandenem C5 Testat: Abgedeckt über IDM |
+| **04.07** | Zwingt das IT-System den Nutzer zur Einhaltung  ☐ ja  ☐ nein | Die technische Unterstützung der | Bei vorhandenem C5 Testat: Abgedeckt über IDM |
+| **04.08** | Wird der Bildschirm bei Inaktivität des Benutzers  ☐ ja, nach bitte Anzahl angeben Minuten  ☐ nein | Die Bildschirmsperre muss automatisch |  |
+| **04.09** | Welche Maßnahmen ergreifen Sie bei Verlust,  bitte angeben | Ein definierter Prozess muss existieren. |  |
+| **04.10** | Gibt es eine Begrenzung von erfolglosen  ☐ ja, nach bitte Anzahl angeben erfolglosen  ☐ nein | Es muss eine Anmeldesperre spätestens |  |
+|  |  |  | **04.10 ** Gibt es eine Begrenzung von erfolglosen |
+| **04.06** | **Passwort-Zeichenlänge: **  ja, nach bitte Anzahl angeben erfolglosen |  |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über IDM**04.07** | Zwingt das IT-System den Nutzer zur Einhaltung |  |
+|  | nein  Es muss eine Anmeldesperre spätestens | **04.08** |  |
+| **FRAGE FRAGE FRAGE** |  | **04.09** |  |
+| **04.06** | **Passwort-Zeichenlänge:  Das Passwort enthält Zeichen aus den folgenden  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** | Ziffern (0 bis 9) |  |
+| Bei vorhandenem C5 Testat: Abgedeckt über IDM | ☐ ☐  ja |  | nein |
+| Bei vorhandenem C5 Testat: Abgedeckt über IDM | ☐ ☐  ja, nach bitte Anzahl angeben Minuten |  | nein |
+|  | ☐ ☐ Welche Maßnahmen ergreifen Sie bei Verlust, | Ein definierter Prozess muss existieren. |  |
+| **04.10** | Gibt es eine Begrenzung von erfolglosen  ☐  ja, nach bitte Anzahl angeben erfolglosen  ☐  nein | Es muss eine Anmeldesperre spätestens |  |
+|  | ja, nach bitte Anzahl angeben Minuten |  | |
+| **04.06** | **Passwort-Zeichenlänge: ** Die Bildschirmsperre muss automatisch |  |  |
+| Die Passwortlänge muss mindestens 12 | **04.07 ** Die technische Unterstützung der  Bei vorhandenem C5 Testat: Abgedeckt über IDM |  |  |
 
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | |
-|---|---|---|---|---|---|---|
-| **6.1** | Verfügen die Serverräume über  ☐ ja  ☐ nein | B | Zugangstüren müssen |  | | |
-| **6.2** | Sind die Serverräume / RZ mit  ☐ ja  ☐ nein | B | Es müssen Rauchmelder vorhanden |  | | |
-| **6.3** | Sind die Serverräume / RZ an eine  ☐ ja  ☐ nein | B | Der Anschluss an eine |  | | |
-| **6.4** | Sind die Serverräume / RZ mit  ☐ ja  ☐ nein | B | Es muss ein Löschsystem vorhanden |  | | |
-| **6.5** | Woraus bestehen die A bitte angeben | B |  |  | ☐ | ☐ |
-| ☐ |  |  |  |  | | |
-|  |  |  | B | Zugangstüren müssen | | |
-|  |  |  | B | Es müssen Rauchmelder vorhanden | | |
-|  | Sind die Serverräume / RZ an eine | nein |  | B | | |
-|  | Sind die Serverräume / RZ mit   ja   nein  B  Es muss ein Löschsystem vorhanden   **6.5** ☐ |  |  |  | | |
-|  | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | | |
-|  | ja |  | nein | B | | |
-| Es müssen Rauchmelder vorhanden   **6.1** |  | | | | | |
-| Verfügen die Serverräume über | ja    B | **6.2** |  |  | | |
-
-ODER DARSTELLUNG GLEICHWERTIGER feuerfeste bzw. feuerhemmende Zugangstüren?  feuerhemmend bzw. feuerfest sein. Rauchmeldern ausgestattet? sein. Brandmeldezentrale angeschlossen? Brandmeldezentrale ist Pflicht. Löschsystemen ausgestattet? sein. ußenwände der Serverräume / RZ?
-
----
-
-|  |  |  | Sind die internen | B  Es muss mindestens eine logische | | |
-|---|---|---|---|---|---|---|
-|  |  | erforderlich. |  |  | | |
-|  | C | Der Einsatz einer USV ist zwingend |  |  | | |
-|  | ja  Passwort, 2FA,…) und    B |  |  |  | | |
-|  | ,  ,    6.6 | 6.7 | und | 6.8 | | |
-| nein |  |  |  |  | Passwort, 2FA,…) und |  |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | |
-| **6.6** | Sind die Serverräume / RZ klimatisiert?   ☐ ja  ☐ nein | B | erforderlich. |  | | |
-| **6.7** | Verfügen die Serverräume / RZ über  ☐ ja  ☐ nein | B | Der Einsatz einer USV ist zwingend |  | | |
-| **6.8** | Wird die Stromversorgung der  ☐ ja  ☐ nein | B |  |  | | |
-| **6.9** | Werden die Funktionalität 6.2, 6.3, 6.4,  6.6, 6.7 und 6.8, sofern vorhanden,  ☐ ja  ☐ nein  C | B |  |  | | |
-| **6.10** | Sind die internen | B | Es muss mindestens eine logische |  | | |
-| ja |  | nein |  | B  Der Einsatz einer USV ist zwingend | | |
-|  |  | | | | | |
-|  | nein  erforderlich. **6.7** |  |  |  | | |
-
-eine unterbrechungsfreie Stromversorgung (USV)?  Serverräume / RZ zusätzlich über ein Dieselaggregat abgesichert?  regelmäßig getestet? Managementnetze/Betriebsnetze (z. B. zur Gebäudeleittechnik, Videoüberwachung, Zutrittskontrolle) vor externem Zugriff geschützt? Die Klimatisierung ist zwingend Trennung der Netze erfolgen.  Ein zusätzlicher Schutz durch angemessenes Zugriffs- (z. B. ODER DARSTELLUNG GLEICHWERTIGER
+NUTZERS DER Kategorien entsprechend den Mindestanforderungen der Schutzstufe: (Sonderzeichen): (~! @ # $% ^& * -+ = ' | \ \ (){}\ []:; "' <>,.? /) der oben genannten Passwortvorgaben?  gesperrt?  Vergessen oder Ausspähen eines Passworts? Anmeldeversuchen?  Versuchen. Zeichen sein. Für die Passwortkomplexität müssen alle vier Kategorien (Großbuchstaben, Kleinbuchstaben, Ziffern oder nicht alphanumerische Zeichen) enthalten sein. - ODER -  Es wird eine Multi-Faktor-Authentifizierung eingesetzt. Einhaltung der Password-Policy ist erforderlich. nach spätestens 10 Minuten Inaktivität aktiviert werden. nach 10 erfolglosen Anmeldeversuchen eingerichtet sein. -09 -08
 
 ---
 
-|  |  |  |  |  | | |
-|---|---|---|---|---|---|---|
-| nein | **Sind die dokumentierten Maßnahmen** | begrenzt geeignet |  |  | | |
-|  | **FRAGE  MINDESTANFORDERUNG** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ ☐ | ☐ | | |
-|  |  |  |  |  | | |
-|  |  |  |  |  | | |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  | | |
-|  | geeignet |  | begrenzt geeignet |  | | |
-| bitte angeben | **STUFE** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | | |
-|  |  |  |  |  | | |
-|  |  |  |  |  | | |
-|  |  |  |  |  | | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | |
-| ☐ ja, bitte angeben ☐ nein | Rechtemanagement ist zu | | | | | |
-|  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet     Begründung:  bitte angeben |  | Es muss bestätigt werden, dass die |  | | |
+| ☐ |  |  |  |
+|---|---|---|---|
+|  |  | **04.12** |  |
+| ja |  | **04.13** |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über IDM | **04.14** |  |
+| ja, bitte Anzahl angeben Versuche pro Tag |  |  | **ID** |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG** | **SCHNITTSTELLE ** ☐ ☐ | ☐ | ☐ |
+|  |  |  |  |
+| **04.11** | **Wenn 04.10 ja:** |  | ja |
+| nein |  |  |  |
+| Mindestens zwei aus drei |  |  | ja, bitte Anzahl angeben Versuche pro Tag |
+| Es muss eine Anmeldesperre spätestens |  |  | **ID** |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG** | **SCHNITTSTELLE ** ☐ ☐ | ☐ | ☐ |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **04.11** | **Wenn 04.10 ja:** ☐ Die Zugänge bleiben bis zur manuellen  ☐ Die Zugänge bleiben für bitte Anzahl angeben | Zugänge müssen bis zur manuellen |  |
+| **04.12** | Ist der Zugriff auf Daten aus dem Internet (z. B. im  ☐ ja  ☐ nein |  |  |
+| **04.13** | **Wenn 04.12 ja:** ☐ ☐ ☐ ☐ | Mindestens zwei aus drei | Bei vorhandenem C5 Testat: Abgedeckt über IDM |
+| **04.14** | **Wenn 04.12 ja:** ☐ ja, bitte Anzahl angeben Versuche pro Tag  ☐ nein | Es muss eine Anmeldesperre spätestens |  |
+| **04.11** | **Wenn 04.10 ja:**  Die Zugänge bleiben bis zur manuellen  Zugänge müssen bis zur manuellen |  |  |
+| ja |  | **04.13** |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über IDM | **04.14** |  |
+| ja, bitte Anzahl angeben Versuche pro Tag |  |  | **ID** |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG  04.14 04.14 04.14** | **SCHNITTSTELLE ** ☐ ☐ | ☐ | ☐ |
+|  |  |  | |
+| **04.11** | **Wenn 04.10 ja:**  Die Zugänge bleiben bis zur manuellen   ja, bitte Anzahl angeben Versuche pro Tag   Die Zugänge bleiben für bitte Anzahl angeben |  | **04.12** |
+|  | nein   nein   **04.13  Wenn 04.12 ja:** |  |  |
 
-ODER DARSTELLUNG GLEICHWERTIGER gewährleisten. aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
-
----
-
-7 MAßNAHMEN ZUM BACKUP
-
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **7.1** | Existiert ein Backupkonzept für  ☐ ja  ☐ nein | A |  |  | | | | | | |
-| B | Ein Backupkonzept muss vorhanden | | | | | | | | | |
-| **7.2** | **Wenn 7.1 nein: ** 8.1 |  |  |  | | | | | | |
-| **7.3** | Wird die Funktionalität der Backup /  ☐ ja  ☐ nein | A |  |  | | | | | | |
-| **7.4** | In welchem Rhythmus werden Backups  bitte angeben | A |  |  | | | | | | |
-| **7.5** | **Im Falle eines Transports der Backups:** bitte angeben | C |  |  | | | | | | |
-| Sind die Backups verschlüsselt? | A |  |  | nein |  | A | B | **Wenn** | **7.1** | **nein:** |
-| **7.2 7.4** | Existiert ein Backupkonzept für | nein |  | | | | | | | |
-|  | Wird die Funktionalität der Backup / |  | ja |  | **7.1** |  |  |  | Existiert ein Backupkonzept für |  |
-
-Systeme, auf denen personenbezogene Daten gespeichert sind Wiederherstellung regelmäßig getestet? fortfahren mit von Systemen angefertigt, auf denen personenbezogene Daten gespeichert werden?  Wie wird dieser durchgeführt? sein.
+NUTZERS DER  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht wurde? Aufhebung der Sperre gesperrt. Minuten gesperrt. Home-Office) möglich? Wie erfolgt die Authentisierung Daten aus dem Internet:  (RSA) Token  VPN-Zertifikat   pre-shared key  Benutzeraccount  beim Zugriff auf Gibt es eine Begrenzung von erfolglosen Anmeldeversuchen bei Fernzugängen? Aufhebung gesperrt bleiben. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff erforderlich. nach 10 erfolglosen Anmeldeversuchen eingerichtet sein. -09
 
 ---
 
-|  |  |  |  |  | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | ja  C |  |  |  | | | | | | |
-| **7.7** |  | | | | | | | | | |
-| ja | B  Backups müssen in einem getrennten |  |  | **Sind die dokumentierten Maßnahmen** | | | | | | |
-|  | Begründung:  Es muss bestätigt werden, dass die | **SCHUTZ-** | **STUFE** | **MINDESTANFORDERUNG** | | | | | | |
-| ☐ |  |  |  |  | | | | | | |
-|  |  |  | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | | | | | | |
-|  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **7.7** | B | Backups müssen in einem getrennten |  |
-| **7.6** Befindet sich der Aufbewahrungsort  ☐ ja  ☐ nein | ☐ ja  ☐ nein | C | Backups müssen verschlüsselt sein. | | | | | | | |
-|  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet    Begründung: |  | Es muss bestätigt werden, dass die |  |  |  |  |  | ja |  |
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
+|---|---|---|---|
+|  | **0** ☐ ☐ ☐ Zugänge müssen bis zur manuellen |  |  |
+| **04.16** | Werden Firewalls eingesetzt?   ☐  ja  ☐  nein | Firewalls sind zwingend erforderlich. | Bei vorhandenem C5 Testat: |
+| **04.17** | Wer administriert die Firewall des  ☐  eigene IT  ☐  Externer Dienstleister |  |  |
+| **04.18** | **Wenn ein externer DL zum Einsatz kommt** ☐  ja  ☐  nein | Eine Remote-Administration der Firewall |  |
+| **04.19** | Werden die Zugriffsprotokolle (z. B. Anmeldungen  ☐  ja, über eine Security Information and Event   nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
+| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **SCHNITTSTELLE ** ☐ ☐ |
+| **04.15** | **Wenn 0** ☐ ☐ ☐ Zugänge müssen bis zur manuellen  ☐ |  | **04.16** |
+|  | ☐  nein  ☐ Bei vorhandenem C5 Testat: |  | **04.17** |
+|  | ☐  Externer Dienstleister ☐ |  | **04.18** |
+|  | nein | Eine Remote-Administration der Firewall |  |
+| **04.19** | Werden die Zugriffsprotokolle (z. B. Anmeldungen   ja, über eine Security Information and Event   nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
+|  |  |  | **04.19 ** Werden die Zugriffsprotokolle (z. B. Anmeldungen |
+| **04.15** | **Wenn  4.14 ja:**  ja, über eine Security Information and Event | Die Zugänge bleiben für bitte Anzahl angeben |  |
+|  | **04.16** |  |  |
+| Firewalls sind zwingend erforderlich. | nein, eine Auswertung wäre aber im Bedarfsfall |  | eigene IT |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG** | **04.18  ID** |  |  |
+| **04.15** | **Wenn 04.14 ja:** ☐ Die Zugänge bleiben bis zur manuellen  ☐ Die Zugänge bleiben für bitte Anzahl angeben | Zugänge müssen bis zur manuellen |  |
+| **04.16** | Werden Firewalls eingesetzt?   ☐ ja  ☐ nein | Firewalls sind zwingend erforderlich. | Bei vorhandenem C5 Testat: |
+| **04.17** | Wer administriert die Firewall des  ☐ eigene IT  ☐ Externer Dienstleister |  |  |
+| **04.18** | **Wenn ein externer DL zum Einsatz kommt** ☐ ja  ☐ nein | Eine Remote-Administration der Firewall |  |
+| **04.19 ** | Werden die Zugriffsprotokolle (z. B. Anmeldungen  ☐ ja, über eine Security Information and Event  ☐ nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
+|  | Externer Dienstleister |  | |
+| **04.15** | **Wenn  4.14 ja: 04.18** |  |  |
+|  | **Wenn ein externer DL zum Einsatz kommt**  ja  Firewalls sind zwingend erforderlich. **04.17** |  | Wer administriert die Firewall des |
 
-Brandabschnitt bzw. Gebäudeteil aufbewahrt werden. der Backups in einem (von den Serverräumen aus betrachtet) getrennten Brandabschnitt bzw. Gebäudeteil? aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. MAßNAHMEN DES AUFTRAGNEHMERS
-
----
-
-|  |  |  |  |  | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-|  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |  |  |  | | | | | | |
-|  |  | | | | | | | | | |
-|  |  |  |  |  | | | | | | |
-|  |  |  |  |  | | | | | | |
-|  |  |  |  |  | | | | | | |
-|  |  |  |  |  | | | | | | |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |  |  | | | | | | | |
-|  |  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | bitte angeben |
-
-
----
-
-8 MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN
-
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **8.1** | Sind die IT Systeme technisch vor  ☐ ja  ☐ nein | A |  |  | | | | | | | | | | | | | | | | | | | | | | |
-| **8.2** | **Wenn 8.1 ja:** bitte angeben | A |  |  | | | | | | | | | | | | | | | | | | | | | | |
-| **8.3** | Erfolgt eine Separierung von Netzen  ☐ ja  ☐ nein | A | Eine Netztrennung ist zwingend |  | | | | | | | | | | | | | | | | | | | | | | |
-| **8.4** | Werden Systeme gehärtet? ☐ ja:  ☐ Patchmanagement  ☐ Deaktivierung unnötiger  ☐ Aktivierung hardwarenaher  ☐ Sicherheitskonfiguration | B | Systeme müssen durch mehrere |  | | | | | | | | | | | | | | | | | | | | | | |
-| C | Systeme müssen durch möglichst alle |  |  | Deaktivierung unnötiger |  | Aktivierung hardwarenaher | | | | | | | | | | | | | | | | | | | | |
-| Sicherheitskonfiguration **8.1** B  Systeme müssen durch mehrere    A | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **8.1** A  C  Systeme müssen durch möglichst alle |  |  | Erfolgt eine Separierung von Netzen | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | nein | | | | | | | | | | | | | | | | | | | | | | | | |
-| Eine Netztrennung ist zwingend |  |  | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | ja: |  |  |  | Erfolgt eine Separierung von Netzen | ja |  | nein A  Eine Netztrennung ist zwingend   ja     nein | A |  |  |  |  |  |  | **8.1** A |  | **8.3** |  | **8.1** |  |  |  | Sind die IT Systeme technisch vor |  |
-
-Angriffen geschützt?  Wer ist für die Aktualisierung von Virenschutz, Anti- Spyware und Spamfilter zuständig? unterschiedlichen Schutzbedarfs (z. B. DMZ und Intern)? Komponenten Schutzfunktionen erforderlich. Maßnahmen gehärtet werden. aufgeführten Maßnahmen gehärtet werden. Nicht umgesetzte Maßnahmen müssen begründet werden.
+NUTZERS DER  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? Aufhebung gesperrt. Minuten gesperrt. Auftragnehmers? : Kann sich dieser ohne Aufsicht durch Ihre IT auf ein System aufschalten?  und Firewall Logs) regelmäßig ausgewertet? Management-Lösung (SIEM) möglich Aufhebung gesperrt bleiben. ohne Beaufsichtigung durch eigenes Personal ist nicht zulässig, es sei denn, es handelt sich um den beauftragten IT- Dienstleister. Abgedeckt über COS-03
 
 ---
 
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Konten und Kennwörter |  | nein |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  | ja: | durch ein ungeregeltes Vorgehen |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | C | Meldungen zu | | | | | | | | | | | | | | | | | | | | | | |
-|  | A **SCHUTZ- ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ** ☐**FRAGE** | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ | ☐ | ☐ |  | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | |
-| ☐ Minimale Vergabe von  ☐ Konten und Kennwörter  ☐ Einschränkung der  ☐ Protokollierung  ☐ Sonstiges: bitte angeben ☐ nein | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| **8.5** | Werden im Falle eines Angriffes  ☐ ja:  ☐ durch ein ungeregeltes Vorgehen ☐ durch ein geregeltes Vorgehen ☐ durch ein geregeltes Vorgehen  ☐ nein | A | Meldungen zu |  | | | | | | | | | | | | | | | | | | | | | | |
-| B | Meldungen zu |  | | | | | | | | | | | | | | | | | | | | | | | | |
-| C | Meldungen zu |  | | | | | | | | | | | | | | | | | | | | | | | | |
-| **8.6** A | Werden im Anschluss an einen | A | Details zu |  | Meldungen zu |  |  | B  Meldungen zu | C  Meldungen zu | nein |  |  |  |  | **8.5** |  | Werden im Falle eines Angriffes     ja:   durch ein ungeregeltes Vorgehen  durch ein geregeltes Vorgehen  durch ein geregeltes Vorgehen |  |  | nein | Konten und Kennwörter |  | Einschränkung der |  | Protokollierung |  |
+|  |  |  |  |
+|---|---|---|---|
+|  |  | Bei vorhandenem C5 Testat: Abgedeckt über AM |  |
+|  |  | ungeeignet |  |
+| Begründung: angeben | **FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** |
+| ☐ | ☐ ☐ |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **04.20** | Werden Mitarbeitende vor der Nutzung von |  |  |
+| geeignet |  |  | Begründung: angeben |
+|  | **FRAGE  GLEICHWERTIGER MAßNAHMEN DES** | ☐ | ☐ |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **04.20** | Werden Mitarbeitende vor der Nutzung von  ja, im Rahmen des Arbeitsvertrags ja, dediziert vor jedem neuen Gebrauch |  | nein |
+| Bei vorhandenem C5 Testat: Abgedeckt über AM | geeignet |  | begrenzt geeignet |
+| ungeeignet |  |  |  |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG** | **SCHNITTSTELLE ** ☐ ☐ |  |  |
+| **04.20** | Werden Mitarbeitende vor der Nutzung von  ja, im Rahmen des Arbeitsvertrags |  | Mitarbeitende müssen auf einen zulässigen |
+|  |  | ungeeignet |  |
+| Begründung: angeben | **FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** |
+| ☐ | ☐ ☐ |  |  |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG** |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | |
+| **04.20** | Werden Mitarbeitende vor der Nutzung von  ☐ ja, im Rahmen des Arbeitsvertrags ☐ ja, dediziert vor jedem neuen Gebrauch ☐ nein | Mitarbeitende müssen auf einen zulässigen | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die |  |
 
-Berechtigungen (z. B. Role Based Access Control) Netzwerkkommunikation Betroffene zeitnah informiert? inklusive Rollen- und Kommunikationsvorgaben erfolgreichen Angriff Betroffene über Informationssicherheitsvorfällen müssen zeitnah erfolgen. Informationssicherheitsvorfällen müssen zeitnah erfolgen und geregelt sein. Informationssicherheitsvorfällen müssen zeitnah erfolgen und Verantwortlichkeiten im Prozess geklärt sein. Informationssicherheitsvorfällen müssen kommuniziert werden.
-
----
-
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | durch ein geregeltes Vorgehen   nein | B | Details zu |  | | | | | | | | | | | | | | | | | | | | | | |
-|  | geeignet | begrenzt geeignet |  |  | | | | | | | | | | | | | | | | | | | | | | |
-| Es muss bestätigt werden, dass die | **SCHUTZ- MINDESTANFORDERUNG ** ☐ | ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | |
-| B | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | **Sind die dokumentierten Maßnahmen **  geeignet   begrenzt geeignet  ungeeignet  Begründung: |  | **FRAGE** | **SCHUTZ-** | | | | | | | | | | | | | | | | | | | | | | |
-| **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** | **MAßNAHMEN DES AUFTRAGNEHMERS** | ☐ | | | | | | | | | | | | | | | | | | | | | | | | |
-| ☐ | ☐ | ☐ | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | Angriffsdetails und Maßnahmen  ☐ ja:  ☐ durch ein ungeregeltes Vorgehen ☐ durch ein geregeltes Vorgehen ☐ durch ein geregeltes Vorgehen  ☐ nein | B | Details zu |  | C | Details zu |  |  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet    Begründung: |  | Es muss bestätigt werden, dass die |  |  | durch ein ungeregeltes Vorgehen |  | durch ein geregeltes Vorgehen |  | Angriffsdetails und Maßnahmen |
-
-informiert? inklusive Rollen- und Kommunikationsvorgaben Informationssicherheitsvorfällen müssen geregelt kommuniziert werden.. Informationssicherheitsvorfällen müssen, geregelt durch Verantwortlichkeiten im Prozess, kommuniziert werden. aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+NUTZERS DER internen und externen Assets und Informationen auf deren zulässigen Gebrauch verpflichtet? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte Gebrauch verpflichtet werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. -05
 
 ---
 
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | |
-| **STUFE  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  |  |  |  |  |  |  |  | bitte angeben   **FRAGE  MINDESTANFORDERUNG** |  |  |  |  |  |  |  |  |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES AUFTRAGNEHMERS** | bitte angeben |
+5 MAßNAHMEN ZUM UMGANG MIT DATENTRÄGERN (ANALOG & DIGITAL)
+
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
+|---|---|---|---|
+| **05.01** | Erfolgt eine Klassifizierung und ggf. Kennzeichnung  ☐ ja  ☐ nein | Sensible Informationen müssen | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+| **05.02** | Wie werden nicht mehr benötigte Papier-Unterlagen  ☐ Altpapier / Restmüll  ☐ Es stehen hierfür Schredder zur Verfügung, deren  ☐ Es sind verschlossene Datentonnen aufgestellt, die  ☐ Sonstiges: bitte angeben | Es ist eine datenschutzkonforme sichere |  |
+| **05.03** | Wie werden nicht mehr benötigte Datenträger (USB ☐ Physische Zerstörung durch eigene IT.  ☐ Physische Zerstörung durch externen Dienstleister. ☐ Löschen der Daten durch bitte Anzahl angeben  ☐ Sonstiges: bitte angeben | Es ist eine sichere Vernichtungsart zu | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+| **05.04** | Dürfen im Unternehmen mobile Datenträger  ☐ ja  ☐ nein |  |  |
+| Es ist eine sichere Vernichtungsart zu | Bei vorhandenem C5 Testat: Abgedeckt über AM |  | **05.04** |
+|  | Dürfen im Unternehmen mobile Datenträger   ja  Sensible Informationen müssen |  |  |
+|  | Es sind verschlossene Datentonnen aufgestellt, die   Sonstiges: bitte angeben  nein |  | **05.03** |
+|  | Physische Zerstörung durch externen Dienstleister.    Löschen der Daten durch bitte Anzahl angeben |  | Sonstiges: bitte angeben |
+|  |  | Es stehen hierfür Schredder zur Verfügung, deren | |
+|  | Sonstiges: bitte angeben Sensible Informationen müssen **05.02** |  | Wie werden nicht mehr benötigte Papier-Unterlagen |
+
+NUTZERS DER sensibler Informationen? mit personenbezogenen Daten (bspw. Ausdrucke / Akten / Schriftwechsel) entsorgt? Nutzung angewiesen ist. von einem Entsorgungsdienstleister zur datenschutzkonformen Vernichtung abgeholt werden. Sticks, Festplatten), auf denen personenbezogene Daten gespeichert sind, entsorgt? Überschreibungen verwendet werden ? (z. B. USB-Sticks) klassifiziert und ggf. gekennzeichnet werden, um den korrekten Umgang mit ihnen zu gewährleisten. Vernichtungsart zu wählen. wählen. -06 -04
 
 ---
 
-9 WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION
+|  |  |  |  |
+|---|---|---|---|
+|  |  | nein, alle benötigten Speichermedien werden vom |  |
+|  | Verschlüsselung auf dezentralen Endgeräten  Verschlüsselung auf allen Systemen und Endgeräten |  | keine Verschlüsselung |
+| Bei vorhandenem C5 Testat: Abgedeckt über CRY | ja   nein | **ID** | **FRAGE** |
+| **GLEICHWERTIGER MAßNAHMEN DES** | ☐ ☐ ☐ | ☐ |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **05.05** | Dürfen die Mitarbeitenden private Datenträger (z. B.  ☐ ja, aber Mitarbeitende sind angehalten, vorher einen  ☐ ja, aber nur nach Genehmigung und Überprüfung  ☐ nein, alle benötigten Speichermedien werden vom | Die Verwendung ist auf | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+| **05.06** | Werden personenbezogene Daten  ☐ Verschlüsselung auf dezentralen Endgeräten ☐ Verschlüsselung auf allen Systemen und Endgeräten  ☐ keine Verschlüsselung | Die Daten auf Endgeräten sind zu | Bei vorhandenem C5 Testat: Abgedeckt über CRY |
+| **05.07 ** Werden personenbezogene Daten Werden personenbezogene Daten Werden personenbezogene Daten | Verarbeiten Mitarbeitende ☐ ja  ☐ nein | Das Halten personenbezogener Daten |  |
+|  | **05.06** |  | |
+| **05.05** | Dürfen die Mitarbeitenden private Datenträger (z. B.   ja, aber Mitarbeitende sind angehalten, vorher einen   ja, aber nur nach Genehmigung und Überprüfung   Verschlüsselung auf allen Systemen und Endgeräten   nein, alle benötigten Speichermedien werden vom  Die Verwendung ist auf  Bei vorhandenem C5 Testat: Abgedeckt über AM |  |  |
 
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS |
-|---|---|---|---|---|
-| **9.1** | Existiert ein dokumentierter Prozess  ☐ ja  ☐ nein | B | Ein Update der Systeme ist |  |
-| **9.2** | **Wenn 9.1 ja:** bitte angeben | B |  |  |
-| **9.3** | Existiert ein Prozess zum  ☐ ja, dieser wird gelebt  ☐ ja, dieser ist dokumentiert und wird  ☐ nein | B | Ein Assetmangementprozess ist |  |
-| C | Der Assetmanagementprozess ist |  | | |
-| **9.4** | Werden regelmäßige  ☐ ja  ☐ nein | B | Regelmäßige |  |
-|  | **9.5** |  |  | Existiert ein Notfallkonzept (bspw. |
-| A | | | | |
-|  | Ein Update der Systeme ist | **9.2** |  |  |
-| bitte angeben | **FRAGE** |  |  | Existiert ein Prozess zum |
-|  | Ein Assetmangementprozess ist **SCHUTZ- STUFE ** Der Assetmanagementprozess ist |  |  |  |
-|  | **MINDESTANFORDERUNG **  nein **ERLÄUTERUNGEN ** Regelmäßige |  |  |  |
-|  |  | **9.2** |  |  |
-|  | **9.1 Wenn 9.1**  nein |  | B | Ein Update der Systeme ist |
-
-zum Software- bzw. Patchmanagement?  Wer ist für die Installation von Updates bzw. Patches zuständig? Assetmanagement? Schwachstellenprüfungen durchgeführt? Notfallmaßnahmen bei regelmäßig erforderlich. vorhanden. vorhanden und dokumentiert Schwachstellenprüfungen sind erforderlich. ODER DARSTELLUNG GLEICHWERTIGER
+NUTZERS DER USB Sticks) verwenden? Virencheck durchführen zu lassen. des Speichermediums durch die IT. Unternehmen gestellt. beim Speichern verschlüsselt?  auch auf eigenen privaten Geräten (bring your own device)? unternehmenseigene Speichermedien beschränkt. verschlüsseln. des Auftraggebers auf privaten Geräten des Auftragnehmers ist untersagt. -03 -03
 
 ---
 
-| ☐ | ☐ | ☐ ☐ | ☐ | ☐ |
-|---|---|---|---|---|
-|  |  |  | Verfügt das Unternehmen über eine |  |
-| A | **9.7** |  |  |  |
-|  |  |  | Wer ist für die Netzanbindung des |  |
-|  | Externer Dienstleister |  | | |
-|  | ja |  | nein | ☐ |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** |
-| Hardwaredefekt / Brand / Totalverlust  ☐ ja  ☐ nein | | | | |
-| **9.6** | Verfügt das Unternehmen über eine  ☐ ja  ☐ nein | A |  |  |
-| **9.7** | Sind die einzelnen Standorte des  ☐ ja  ☐ nein | A |  |  |
-| **9.8** | Wer ist für die Netzanbindung des  ☐ eigene IT   ☐ Externer Dienstleister | A |  |  |
-| **9.9** | Es werden nur zuverlässige Personen  ☐ ja  ☐ nein | A |  |  |
-|  | nein | A |  |  |
-| Hardwaredefekt / Brand / Totalverlust | ja **9.6** |  |  | Verfügt das Unternehmen über eine |
+|  |  |  |  |
+|---|---|---|---|
+|  |  | ungeeignet |  |
+| Begründung: angeben | **MINDESTANFORDERUNG  SCHNITTSTELLE ** ☐ |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht **  geeignet  begrenzt geeignet  ungeeignet |  |  |
+| **FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG  SCHNITTSTELLE ** ☐ |  |  |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG** |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die |  |
 
-etc.)? redundante Internetanbindung? Unternehmens redundant miteinander verbunden? Unternehmens verantwortlich? zur Leistungserbringung eingesetzt, die über entsprechende Kenntnisse und Fähigkeiten für ihre Aufgaben verfügen: ODER DARSTELLUNG GLEICHWERTIGER
+GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
 
 ---
 
-|  |  |  |  |  |
-|---|---|---|---|---|
-| geeignet | bitte angeben | Es muss bestätigt werden, dass die |  |  |
-| **STUFE** | ☐ ☐ |  |  |  |
-|  |  |  |  |  |
-|  |  |  | | |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| **Sind die dokumentierten Maßnahmen** | | | | |
-|  | **FRAGE** | **STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** |
-|  | **Sind die dokumentierten Maßnahmen ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet    Begründung:  bitte angeben |  | Es muss bestätigt werden, dass die |  |
+6 MAßNAHMEN ZUR DATENÜBERTRAGUNG
 
-aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. ODER DARSTELLUNG GLEICHWERTIGER
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
+|---|---|---|---|
+|  | Werden keine personenbezogenen Daten  beantworten. |  |  |
+| **06.01** | Erfolgt der Transfer personenbezogener D ☐ ja:   ☐ per verschlüsselter Datei als Mailanhang  ☐ per PGP / SMime  ☐ per verschlüsseltem Datenträger  ☐ per VPN  ☐ per https / TLS  ☐ per SFTP  ☐ Sonstiges: bitte angeben ☐ nein | Beim Transfer personenbezogener Daten | Bei vorhandenem C5 Testat: Abgedeckt über CRY |
+| **06.02** | Wer verwaltet die Schlüssel ☐ Anwender selbst  ☐ eigene IT   ☐ Externer Dienstleister |  |  |
+| **06.03** | Werden die Übertragungsvorgänge protokolliert?  ☐ ja  ☐ nein |  |  |
+| **06.04** | **Wenn 06.03 ja:** bitte angeben |  |  |
+|  |  | eigene IT | Externer Dienstleister |
+|  |  |  |  |
+|  | ☐ | ☐ |  |
+| ☐ | ☐ ☐**06.03 ** Beim Transfer personenbezogener Daten **06.02** |  | Wer verwaltet die Schlüssel |
+
+NUTZERS DER übertragen, sind die Fragen zu 6 nicht zu durchgängig verschlüsselt? / Zertifikate?   Wie lange werden diese Protokolldaten aufbewahrt? muss durch Verschlüsselung sichergestellt werden, dass keine unberechtigte Einsichtnahme Dritter möglich ist. -02
 
 ---
 
-10 REGELMÄßIGEN ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER  TECHNISCH-ORGANISATORISCHEN MAßNAHMEN
+|  |  |  |  |
+|---|---|---|---|
+|  |  |  |  |
+|  | nein Systeme müssen auf eine gemeinsame **Sind die dokumentierten Maßnahmen aus Ihrer **  geeignet | ungeeignet |  |
+| bitte angeben | **MINDESTANFORDERUNG  SCHNITTSTELLE** | ☐ | ☐ |
+| ☐ |  |  |  |
+|  |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **06.05** | **Wenn 06.03 ja:** ☐ ja, über eine Security Information and Event ☐ nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
+| **06.06** | Werden alle Systeme auf eine verlässliche  ☐ ja ☐ nein | Systeme müssen auf eine gemeinsame |  |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
 
-|  | FRAGE | SCHUTZ- STUFE | MINDESTANFORDERUNG | ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| **10.1** | **Wenn 8.4 ja:** ☐ ja  ☐ nein | B |  |  | | | | | | | |
-| **10.2** | Findet eine unabhängige Überprüfung  ☐ ja:  ☐ Penetrationstests ☐ Sonstiges: bitte angeben ☐ nein | B |  |  |  |  |  |  | **FRAGE** | **SCHUTZ-** | |
-| **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN** | **MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ | ☐ | ☐ ☐ | | | | | | | |
-|  | ☐ ☐  ja   nein   Findet eine unabhängige Überprüfung   nein | Penetrationstests |  |  | nein |  | B |  |  | **8.4 ja:** | ja |
-
-Werden die Maßnahmen zur Härtung von Servern regelmäßig bei in Betrieb befindlichen Systemen überprüft? der IT-Systeme oder des Netzwerkes statt? ODER DARSTELLUNG GLEICHWERTIGER
-
----
-
-|  | Es muss bestätigt werden, dass die |  |  | FRAGE  SCHUTZ- | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | **STUFE **  Überprüfung durch **MINDESTANFORDERUNG **  Interne Revision |  | Prüfung durch Compliance- |  | | | | | | | |
-|  | Sonstiges: bitte angeben**ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS ** B  ☐ ☐ Es muss durch mindestens zwei |  |  |  | C |  | **Sind die dokumentierten Maßnahmen** |  | Es muss bestätigt werden, dass die |  | |
-|  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | | | | | | | |
-| **10.3** | Finden umfassendere Überprüfungen,  ☐ ☐ ☐ ☐ Überprüfung durch  ☐ Interne Revision ☐ Prüfung durch Compliance- ☐ Austausch zwischen  ☐ Überprüfung durch die  ☐ Aufrechterhaltung von  ☐ Sonstiges: bitte angeben ☐ nein  Es muss durch mindestens zwei | B | Es muss durch mindestens ein |  | Interne Revision |  | Prüfung durch Compliance- |  | Austausch zwischen | Überprüfung durch die  Finden umfassendere Überprüfungen, | Überprüfung durch |
-
-Bewertungen und Evaluierungen der technisch-organisatorischen Maßnahmen statt?  ja:  Interne Audits  Externe Audits Wirtschaftsprüfer Beauftragten Informationssicherheitsbeauftragte n und Datenschutzbeauftragten Rechtsaufsicht Zertifikaten: bitte Zertifikate aus Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des geeignetes Verfahren sichergestellt werden, dass eine regelmäßige Prüfung, Aktualisierung und Dokumentation der technisch- organisatorischen Maßnahmen stattfindet. geeignete Verfahren sichergestellt werden, dass eine regelmäßige Prüfung, Aktualisierung und Dokumentation der technisch organisatorischen Maßnahmen stattfindet. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei ODER DARSTELLUNG GLEICHWERTIGER
+NUTZERS DER  Werden die Protokolle regelmäßig ausgewertet? Management-Lösung (SIEM) möglich gemeinsame Zeitquelle synchronisiert? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Zeitquelle synchronisiert werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
 
 ---
 
-|  |  |  |  |  | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | Begründung:  der Angabe „begrenzt geeignet“ | **SCHUTZ-** | **STUFE** | **MINDESTANFORDERUNG** | | | | | | | |
-|  |  |  |  |  |  |  |  |  |  |  | |
-|  |  |  |  |  | | | | | | | |
-|  | ungeeignet   der Angabe „begrenzt geeignet“   **STUFE  MAßNAHMEN DES AUFTRAGNEHMERS ** ☐ |  |  |  |  | **FRAGE** | **SCHUTZ- STUFE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN  MAßNAHMEN DES AUFTRAGNEHMERS** | **Umfangs, der Umstände und der ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet     Begründung:  bitte angeben | der Angabe „begrenzt geeignet“ |
+# 7 MAßNAHMEN FÜR SICHERE SERVERRÄUME / RECHENZENTRUMSGEBÄUDE
 
-ODER DARSTELLUNG GLEICHWERTIGER Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? muss eine Begründung erfolgen.
+**ID FRAGE**
+
+**MINDESTANFORDERUNG**
+
+**ERLÄUTERUNGEN ODER DARSTELLUNG**  **GLEICHWERTIGER MAßNAHMEN DES NUTZERS**
+
+Verfügen die Serverräume über feuerfeste bzw.
+
+**07.01**
+
+feuerhemmende Zugangstüren?
+
+ja
+
+nein
+
+Sind die Serverräume / RZ mit Rauchmeldern
+
+**07.02**
+
+ausgestattet?
+
+ja
+
+nein
+
+Sind die Serverräume / RZ an eine
+
+**07.03**
+
+Brandmeldezentrale angeschlossen?
+
+ja
+
+nein
+
+Sind die Serverräume / RZ mit Löschsystemen
+
+**07.04**
+
+ausgestattet?
+
+ja
+
+nein
+
+Woraus bestehen die Außenwände der
+
+**07.05**
+
+Serverräume / RZ?
+
+bitte angeben
+
+Sind die Serverräume / RZ klimatisiert?
+
+**07.06**
+
+ja
+
+nein
+
+Zugangstüren müssen feuerhemmend bzw.  feuerfest sein.
+
+Es müssen Rauchmelder vorhanden sein.
+
+Der Anschluss an eine Brandmeldezentrale ist  Pflicht.
+
+Es muss ein Löschsystem vorhanden sein.
+
+Die Klimatisierung ist zwingend erforderlich.
+
+**DER SCHNITTSTELLE**
+
+Bei vorhandenem C5 Testat: Abgedeckt über  PS-05
+
+Bei vorhandenem C5 Testat: Abgedeckt über  PS-05
+
+Bei vorhandenem C5 Testat: Abgedeckt über  PS-05
+
+Bei vorhandenem C5 Testat: Abgedeckt über  PS-05
+
+Bei vorhandenem C5 Testat: Abgedeckt über  PS-06
+
+
+---
+
+| ☐ | ☐ | ☐ | ☐ ☐ ☐ |
+|---|---|---|---|
+|  |  | Bei vorhandenem C5 Testat: Abgedeckt über |  |
+|  |  |  |  |
+| Werden die Funktionalität 07.02, 07.03, 07.04, | ja |  |  |
+| Sind die internen Managementnetze/Betriebs | ja, bitte angeben Ein zusätzlicher Schutz durch angemessenes |  |  |
+| Erfolgt eine regelmäßige Wartung von Geräten | ja |  | nein |
+| Bei vorhandenem C5 Testat: Abgedeckt über | **ID  MINDESTANFORDERUNG  DER SCHNITTSTELLE** | ☐ | ☐ |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+| **07.07** | Verfügen die Serverräume / RZ über eine  ☐ ja  ☐ nein | Der Einsatz einer USV ist zwingend erforderlich. | Bei vorhandenem C5 Testat: Abgedeckt über |
+| **07.08** | Wird die Stromversorgung der Serverräume / RZ  ☐ ja  ☐ nein |  |  |
+| **07.09** | Werden die Funktionalität 07.02, 07.03, 07.04,  ☐ ja  ☐ nein |  |  |
+| **07.10** | Sind die internen Managementnetze/Betriebs ☐ ja, bitte angeben ☐ nein | Ein zusätzlicher Schutz durch angemessenes | Bei vorhandenem C5 Testat: Abgedeckt über |
+| **07.11** | Erfolgt eine regelmäßige Wartung von Geräten ☐ ja  ☐ nein | Es erfolgt eine regelmäßige Wartung. | Bei vorhandenem C5 Testat: Abgedeckt über |
+| nein |  |  |  |
+| **07.07** | Verfügen die Serverräume / RZ über eine **07.09 **  ja   nein  Werden die Funktionalität 07.02, 07.03, 07.04,  Bei vorhandenem C5 Testat: Abgedeckt über **07.08** | Wird die Stromversorgung der Serverräume / RZ |  |
+
+NUTZERS unterbrechungsfreie Stromversorgung (USV)?  zusätzlich über ein Dieselaggregat abgesichert?  07.06, 07.07  und 07.08, sofern vorhanden, regelmäßig getestet? netze (z. B. zur Gebäudeleittechnik, Videoüberwachung, Zutrittskontrolle) vor externem Zugriff geschützt  und Betriebsmitteln?  Zugriffs- (z. B. Passwort, 2FA, …) und Rechtemanagement ist zu gewährleisten. PS-06 COS-05 PS-06
+
+---
+
+|  |  |  |  |
+|---|---|---|---|
+|  |  | ungeeignet |  |
+| bitte angeben | **FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES** | **DER SCHNITTSTELLE** |
+| ☐ |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer **  geeignet   begrenzt geeignet |  | ungeeignet |
+| Begründung: | Es muss bestätigt werden, dass die getroffenen **ID** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** |
+| ☐ | ☐ |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet     Begründung:  bitte angeben | Es muss bestätigt werden, dass die getroffenen |  |
+
+NUTZERS Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. 
+
+
+---
+
+8 MAßNAHMEN ZUM BACKUP
+
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
+|---|---|---|---|
+| **08.01** | Existiert ein Backupkonzept für Systeme ☐ ja ☐ nein | Ein Backupkonzept muss vorhanden sein. | Bei vorhandenem C5 Testat: Abgedeckt über OPS-06 |
+|  | **Wenn 08.01 nein:** |  |  |
+| **08.02** | Wird die Funktionalität der Backup /  ☐ ja ☐ nein |  | Bei vorhandenem C5 Testat: Abgedeckt über OPS |
+| **08.03** | In welchem Rhythmus werden Backups von  bitte angeben |  |  |
+| **08.04** | **Im Falle eines Transports der Backups:** bitte angeben |  |  |
+| **08.05** | Sind die Backups verschlüsselt?  ☐ ja ☐ nein | Backups müssen verschlüsselt sein. | Bei vorhandenem C5 Testat: Abgedeckt über OPS |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über OPS |  | **08.03** |
+|  | In welchem Rhythmus werden Backups von  bitte angeben |  | Ein Backupkonzept muss vorhanden sein. |
+|  | **08.02 ** Wird die Funktionalität der Backup /  ja |  |  |
+
+NUTZERS DER , auf denen personenbezogene Daten gespeichert sind? Wiederherstellung regelmäßig getestet? fortfahren mit  09.01 -08 Systemen angefertigt, auf denen personenbezogene Daten gespeichert werden?  Wie wird dieser durchgeführt?
+
+---
+
+|  |  |  |  |
+|---|---|---|---|
+|  |  | Bei vorhandenem C5 Testat: Abgedeckt über OPS |  |
+|  |  |  | begrenzt geeignet |
+| ungeeignet | bitte angeben | **ID** | **FRAGE** |
+| **GLEICHWERTIGER MAßNAHMEN DES** | ☐ ☐ | ☐ | ☐ |
+|  |  |  |  |
+|  |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **08.06** | Befindet sich der Aufbewahrungsort der Backups  ☐ ja ☐ nein | Backups müssen in einem getrennten | Bei vorhandenem C5 Testat: Abgedeckt über OPS |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
+
+NUTZERS DER in einem (von den Serverräumen  aus betrachtet) getrennten Brandabschnitt bzw. Gebäudeteil? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Brandabschnitt bzw. Gebäudeteil aufbewahrt werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. -09
+
+---
+
+9 MAßNAHMEN ZUR ABWEHR VON ANGRIFFEN
+
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE |
+|---|---|---|---|
+| **09.01** | Werden aktive Kontakte zu relevanten Behörden und  ☐ ja ☐ nein | Kontakte müssen gepflegt werden. | Bei vorhandenem C5 Testat: Abgedeckt über OIS-05 |
+| **09.02** | Sind die IT-Systeme technisch vor Angriffen geschützt?  ☐ ja ☐ nein |  |  |
+| **09.03** | **Wenn 09.02 ja:** bitte angeben |  |  |
+| **09.04** | Erfolgt eine Separierung von Netzen unterschiedlichen  ☐ ja ☐ nein | Eine Netztrennung ist zwingend | Bei vorhandenem C5 Testat: Abgedeckt über DEV |
+| **09.05** | Werden gefährliche/unerwünschte Websites für  ☐ ja ☐ nein | Gefährliche oder unerwünschte Websites |  |
+|  |  |  |  |
+|  | Kontakte müssen gepflegt werden. Sind die IT-Systeme technisch vor Angriffen geschützt? |  | Erfolgt eine Separierung von Netzen unterschiedlichen |
+|  | nein Eine Netztrennung ist zwingend |  | Werden gefährliche/unerwünschte Websites für |
+|  | nein Gefährliche oder unerwünschte Websites **ID  ERLÄUTERUNGEN ODER DARSTELLUNG ** ☐ ☐ | ☐ | ☐ |
+|  |  | nein | Eine Netztrennung ist zwingend  Bei vorhandenem C5 Testat: Abgedeckt über DEV |
+|  | **09.05 ** Kontakte müssen gepflegt werden. Werden gefährliche/unerwünschte Websites für  Sind die IT-Systeme technisch vor Angriffen geschützt? | ja |  |
+|  | ja**Wenn 09.02 ja: 09.04** |  | Erfolgt eine Separierung von Netzen unterschiedlichen |
+
+NUTZERS Fachgremien gepflegt (z. B. für Bedrohungsinformationen)?  Wer ist für die Aktualisierung von Virenschutz, Anti-Spyware und Spamfilter zuständig? Schutzbedarfs (z. B. DMZ und Intern, Produktions- und erforderlich. 10 & COS-03 Entwicklungsnetz)? Mitarbeitende gesperrt? werden gesperrt.
+
+---
+
+| durch ein ungeregeltes Vorgehen |  |  | durch ein geregeltes Vorgehen |
+|---|---|---|---|
+|  | durch ein geregeltes Vorgehen (inkl. Rollen | Deaktivierung unnötiger Komponenten |  |
+|  | Sicherheitskonfiguration nein |  |  |
+|  |  | Sonstiges: bitte angeben |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über AM Meldungen zu Informationssicher- Existiert ein Ablauf zur Erkennung und Bearbeitung von | ja |  |
+|  | Bei vorhandenem C5 Testat: Abgedeckt über SIM Bei vorhandenem C5 Testat: Abgedeckt über SIMWerden Betroffene zeitnah | ja: |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+| **09.06** | Werden Systeme gehärtet? ☐ ja: ☐ Patchmanagement ☐ Deaktivierung unnötiger Komponenten ☐ Aktivierung hardwarenaher Schutzfunktionen ☐ Sicherheitskonfiguration ☐ Minimale Vergabe von Berechtigungen (z. B. Role ☐ Konten und Kennwörter ☐ Einschränkung der Netzwerkkommunikation ☐ Protokollierung ☐ Sonstiges: bitte angeben ☐ nein | Systeme müssen durch möglichst alle | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+| **09.07** | Existiert ein Ablauf zur Erkennung und Bearbeitung von  ☐ ja ☐ nein | Es gibt einen | Bei vorhandenem C5 Testat: Abgedeckt über SIM |
+| **09.08** | Werden Betroffene zeitnah  ☐ ja: ☐ durch ein ungeregeltes Vorgehen ☐ durch ein geregeltes Vorgehen ☐ durch ein geregeltes Vorgehen (inkl. Rollen ☐ nein | Meldungen zu Informationssicher- | Bei vorhandenem C5 Testat: Abgedeckt über SIM |
+| **09.07** |  | Existiert ein Ablauf zur Erkennung und Bearbeitung von | ja |
+| **09.06** | Werden Systeme gehärtet?  ja: nein  Patchmanagement  Deaktivierung unnötiger Komponenten Es gibt einen   Aktivierung hardwarenaher Schutzfunktionen Bei vorhandenem C5 Testat: Abgedeckt über SIM  Sicherheitskonfiguration |  | Minimale Vergabe von Berechtigungen (z. B. Role |
+| Konten und Kennwörter | **09.08 ** nein | Systeme müssen durch möglichst alle | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+
+NUTZERS Based Access Control) Vorfällen? über Angriffe informiert? - und Kommunikations-vorgaben) aufgeführten Maßnahmen gehärtet werden. Nicht umgesetzte Maßnahmen müssen begründet werden. 02, OPS-05, PSS-08, OPS-13 & OPS-23 Incidentmanagementprozess. heitsvorfällen müssen zeitnah erfolgen und Verantwortlichkeiten im Prozess geklärt sein. -01 -01
+
+---
+
+|  |  |  |  |
+|---|---|---|---|
+|  |  | durch ein geregeltes Vorgehen |  |
+|  | nein  Details zu |  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht** |
+|  | begrenzt geeignet |  | ungeeignet |
+| bitte angeben | **MINDESTANFORDERUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **DER SCHNITTSTELLE** |
+| ☐ | ☐ ☐ |  |  |
+|  |  |  |  |
+| **09.09** | Werden im Anschluss an einen erfolgreichen Angriff   ja:   durch ein ungeregeltes Vorgehen  durch ein geregeltes Vorgehen  durch ein geregeltes Vorgehen (inkl. Rollen  nein  Bei vorhandenem C5 Testat: Abgedeckt über SIM   Begründung: | Es muss bestätigt werden, dass die |  |
+| **ID** | **MINDESTANFORDERUNG  GLEICHWERTIGER MAßNAHMEN DES ** ☐ | ☐ | ☐ |
+| ☐ |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
+| **09.09** | Werden im Anschluss an einen erfolgreichen Angriff  ☐ ja:  ☐ durch ein ungeregeltes Vorgehen ☐ durch ein geregeltes Vorgehen ☐ durch ein geregeltes Vorgehen (inkl. Rollen ☐ nein | Details zu | Bei vorhandenem C5 Testat: Abgedeckt über SIM |
+|  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet  Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
+
+NUTZERS Betroffene über Angriffsdetails und Maßnahmen informiert? - und Kommunikations-vorgaben) unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Informationssicherheitsvorfällen müssen, geregelt durch Verantwortlichkeiten im Prozess, kommuniziert werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. -01
+
+---
+
+10 WEITERE MAßNAHMEN ZUR PRÄVENTION UND REAKTION
+
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
+|---|---|---|---|
+| **10.01** | Existiert ein dokumentierter Prozess zum  ☐ ja  ☐ nein | Koordinierte regelmäßige Updates | Bei vorhandenem C5 Testat: Abgedeckt über DEV-03 |
+| **10.02** | **Wenn 10.01 ja:** bitte angeben |  |  |
+| **10.03** | Werden Änderungen an System- und  ☐ ja  ☐ nein | Eine Protokollierung bzw. Versionierung | Bei vorhandenem C5 Testat: Abgedeckt über DEV |
+| **10.04** | Werden Anwendungen über ihren gesamten  ☐ ja  ☐ nein | Es muss ein sicherer | Bei vorhandenem C5 Testat: Abgedeckt über DEV |
+| **10.05** | Werden neue oder geänderte Systeme  ☐ ja  ☐ nein | Ein Test ist erforderlich. | Bei vorhandenem C5 Testat: Abgedeckt über |
+| **10.06** | Existiert ein Prozess zum  ☐ ja, dieser wird gelebt  ☐ ja, dieser ist dokumentiert und wird gelebt  ☐ nein | Ein Assetmangementprozess ist | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+| **GLEICHWERTIGER MAßNAHMEN DES** | **SCHNITTSTELLE** | ☐ | ☐ ☐ ☐ |
+|  | ☐ ☐ |  | Koordinierte regelmäßige Updates |
+|  | ☐ bitte angeben  ☐ ☐ |  | ja |
+| nein | Eine Protokollierung bzw. Versionierung  ☐ ☐ |  | ja |
+| nein | Es muss ein sicherer |  | ja |
+| nein | Ein Test ist erforderlich. |  | ja, dieser wird gelebt |
+| ja, dieser ist dokumentiert und wird gelebt |  | **FRAGE** | **MINDESTANFORDERUNG** |
+|  | nein |  | Ein Test ist erforderlich.  Bei vorhandenem C5 Testat: Abgedeckt über |
+|  | **10.06** |  | Koordinierte regelmäßige Updates |
+|  | bitte angeben  Existiert ein Prozess zum | **10.03** |  |
+| ja | ja, dieser wird gelebt |  | ja |
+| nein | Es muss ein sicherer   ja, dieser ist dokumentiert und wird gelebt |  | ja |
+|  |  |  | **10.03 ** Werden Änderungen an System- und |
+|  | ja  Koordinierte regelmäßige Updates **10.02** |  | **Wenn 10.01 ja:** |
+
+NUTZERS DER und Patchmanagement?  Wer ist für die Installation von Updates bzw. Patches zuständig? Entwicklungstools protokolliert? Lebenszyklus nach klar definierten Sicherheitsanforderungen entwickelt, betrieben und geschützt? Change- getestet? Assetmanagement? Systeme sind erforderlich. Entwicklungsprozess existieren. vorhanden und dokumentiert. -07 -01 DEV-06 -01
+
+---
+
+|  |  |  | ID  FRAGE |
+|---|---|---|---|
+|  | **MINDESTANFORDERUNG  ERLÄUTERUNGEN ODER DARSTELLUNG** | Bei vorhandenem C5 Testat: Abgedeckt über OPS |  |
+|  | Notfallkonzept existiert |  |  |
+|  | **GLEICHWERTIGER MAßNAHMEN DES ** Bei vorhandenem C5 Testat: Abgedeckt über BCM-03 **SCHNITTSTELLE  10.09** | Gibt es eine redundante Systemarchitektur? |  |
+|  | ☐ ☐**10.10** | Verfügt das Unternehmen über eine redundante |  |
+|  | ☐ ☐**10.11** | Sind die einzelnen Standorte des Unternehmens |  |
+|  | ☐ ☐**10.12 ** ☐ |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+| **10.07** | Werden regelmäßige Schwachstellenprüfungen  ☐ ja ☐ nein | Regelmäßige Schwachstellenprüfungen | Bei vorhandenem C5 Testat: Abgedeckt über OPS |
+| **10.08** | Existiert ein Notfallkonzept (bspw.  ☐ Notfallkonzept existiert ☐ Notfallkonzept wird regelmäßig getestet ☐ nein | Notfallkonzept wird regelmäßig | Bei vorhandenem C5 Testat: Abgedeckt über BCM-03 |
+| **10.09** | Gibt es eine redundante Systemarchitektur? ☐ ja ☐ nein |  |  |
+| **10.10** | Verfügt das Unternehmen über eine redundante  ☐ ja ☐ nein |  |  |
+| **10.11** | Sind die einzelnen Standorte des Unternehmens  ☐ ja ☐ nein |  |  |
+| **10.12** | Wer ist für die Netzanbindung des Unternehmens  ☐ eigene IT ☐ Externer Dienstleister |  |  |
+|  | **10.11** |  | Sind die einzelnen Standorte des Unternehmens  ja |
+| **10.07** | Werden regelmäßige Schwachstellenprüfungen  ja nein | Regelmäßige Schwachstellenprüfungen | Bei vorhandenem C5 Testat: Abgedeckt über OPS |
+| **10.08** | Existiert ein Notfallkonzept (bspw.  nein  Notfallkonzept existiert  Notfallkonzept wird regelmäßig getestet |  | nein |
+| Bei vorhandenem C5 Testat: Abgedeckt über BCM-03 | ja nein |  |  |
+| **10.10** | Verfügt das Unternehmen über eine redundante  ja**10.12 ** nein |  |  |
+|  | Notfallkonzept wird regelmäßig getestet |  | nein |
+| **10.07** | Werden regelmäßige Schwachstellenprüfungen  Notfallkonzept wird regelmäßig  ja Bei vorhandenem C5 Testat: Abgedeckt über BCM-03  nein Bei vorhandenem C5 Testat: Abgedeckt über OPS**10.08** | Existiert ein Notfallkonzept (bspw. |  |
+
+NUTZERS DER durchgeführt? Notfallmaßnahmen bei Hardware-defekt, Brand, Totalverlust etc.)  und findet ein regelmäßiger Test dieses bzw. von Teilen davon statt? Internetanbindung? redundant miteinander verbunden? verantwortlich?  sind erforderlich. getestet. -22
+
+---
+
+**ID FRAGE**
+
+**MINDESTANFORDERUNG**
+
+**ERLÄUTERUNGEN ODER DARSTELLUNG**  **GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER**
+
+Es werden nur zuverlässige Personen zur
+
+**10.13** Leistungserbringung eingesetzt, die über  entsprechende Kenntnisse und Fähigkeiten für ihre  Aufgaben verfügen:
+
+ja
+
+nein
+
+Werden Personal- und IT-Ressourcen geplant und
+
+**10.14** überwacht?
+
+ja
+
+nein
+
+Werden personenbezogene Daten pseudonymisiert
+
+**10.15** verarbeitet
+
+ja
+
+ja, eine Zuordnung zu einer betroffenen Person ist  nur mit zusätzlichen, gesondert aufbewahrten  Informationen möglich
+
+nein
+
+**Wenn 10.15 ja:** Erfolgt Pseudonymisierung auch in
+
+**10.16** Test-, Analyse- oder Entwicklungsumgebungen?
+
+ja
+
+nein
+
+Personal- und IT-Ressourcen werden  geplant und überwacht.
+
+Die Pseudonymisierung besonders  schutzbedürftiger Daten erfolgt mittels  kryptografisch sicherer. Eine Re-Identifizierung ist technisch erschwert,  streng reglementiert und vollständig  protokolliert.
+
+Bei Test-, Analyse- oder  Entwicklungsumgebungen muss  Pseudonymisierung eingesetzt werden.
+
+**SCHNITTSTELLE**
+
+Bei vorhandenem C5 Testat: Abgedeckt über OPS-01 &  OPS-02
+
+Bei vorhandenem C5 Testat: Abgedeckt über OPS-11
+
+
+---
+
+|  |  |  |  |
+|---|---|---|---|
+|  |  | ungeeignet |  |
+| bitte angeben |  |  | **ID** |
+| **ERLÄUTERUNGEN ODER DARSTELLUNG** | **SCHNITTSTELLE ** ☐ |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Sind die dokumentierten Maß-nahmen aus Ihrer **  geeignet   begrenzt geeignet |  | ungeeignet |
+| Begründung: | Es muss bestätigt werden, dass die **FRAGE  GLEICHWERTIGER MAßNAHMEN DES** | ☐ | ☐ |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | **Sind die dokumentierten Maß-nahmen aus Ihrer **  geeignet   begrenzt geeignet |  | ungeeignet |
+| Begründung: | Es muss bestätigt werden, dass die **FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** |
+| ☐ |  |  |  |
+|  |  |  |  |
+| **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
+|  | **Sind die dokumentierten Maß-nahmen aus Ihrer ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet    Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
+
+NUTZERS DER Sicht unter Berücksichtigung des Stands der Technik, der Implementierungs-kosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+
+---
+
+11 REGELMÄßIGE ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER  TECHNISCH-ORGANISATORISCHEN MAßNAHMEN
+
+| ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES NUTZERS DER SCHNITTSTELLE |
+|---|---|---|---|
+| **11.01** | **Wenn 09.06 ja:** ☐ ja  ☐ nein |  |  |
+| **11.02** | Findet eine unabhängige Überprüfung der IT- ☐ ja:  ☐ Penetrationstests ☐ Sonstiges: bitte angeben ☐ nein |  |  |
+| **11.03** | Werden Tests im Rahmen von Audits mit  ☐ ja  ☐ nein | Es existieren Vorgaben zur | Bei vorhandenem C5 Testat: Abgedeckt über COM |
+| **11.04 11.04** | Erfolgt eine Überprüfung, Bewertung und  ☐ ☐ | Es muss durch mindestens zwei Erfolgt eine Überprüfung, Bewertung und | Bei vorhandenem C5 Testat: Abgedeckt über SSO |
+| Es muss durch mindestens zwei  Bei vorhandenem C5 Testat: Abgedeckt über SSO  ja **ID **  nein**FRAGE **  **MINDESTANFORDERUNG  11.02  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES NUTZERS DER SCHNITTSTELLE ** ☐ |  | | |
+|  | ☐ ☐ Werden Tests im Rahmen von Audits mit  ☐  nein | Es existieren Vorgaben zur | Bei vorhandenem C5 Testat: Abgedeckt über COM |
+
+Wird die Härtung regelmäßig bei laufenden Systemen geprüft? Systeme/des Netzwerkes statt? minimalem Zugriff, ohne Störungen und mit vollständiger Protokollierung durchgeführt? Evaluierung der technisch-organisatorischen Maßnahmen?  Interne Audits reibungslosen Durchführung von Audits. geeignete Verfahren sichergestellt werden, dass eine regelmäßige Prüfung, Aktualisierung und Dokumentation der technisch -02 -04
+
+---
+
+| ☐ | ☐ | ☐ | ☐ ☐ |
+|---|---|---|---|
+|  | ☐  Interne Revision ☐  Prüfung durch Compliance-Beauftragten |  | Austausch zwischen Informations- |
+| Überprüfung durch Rechtsaufsicht | ☐ ☐ |  | **Sind die dokumentierten Maßnahmen aus** |
+|  | begrenzt geeignet Begründung: | Es muss bestätigt werden, dass die |  |
+| **ID ID** | **MINDESTANFORDERUNG FRAGE** | ☐**MINDESTANFORDERUNG** | ☐**ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |
+| ☐ ☐ Überprüfung durch Wirtschaftsprüfer  ☐ Interne Revision ☐ Prüfung durch Compliance-Beauftragten  ☐ Austausch zwischen Informations- ☐ Überprüfung durch Rechtsaufsicht  ☐ Aufrechterhaltung von Zertifikaten: bitte  ☐ Sonstiges: bitte angeben ☐ nein | organisatorischen Maßnahmen | | |
+|  | **Sind die dokumentierten Maßnahmen aus ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet  Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
+
+MAßNAHMEN DES NUTZERS DER SCHNITTSTELLE  Externe Audits sicherheitsbeauftragten und Datenschutzbeauftragten Zertifikate angeben Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Imple-mentierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrschein-lichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemes-senes Schutzniveau zu gewährleisten? stattfindet. Davon erfolgt mindestens eine Maßnahme durch Dritte. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.

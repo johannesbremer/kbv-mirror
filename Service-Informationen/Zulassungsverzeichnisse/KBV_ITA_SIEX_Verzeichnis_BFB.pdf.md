@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**20. JUNI 2026**
+**27. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 20. Juni 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 27. Juni 2026
 
 
 ---
@@ -587,20 +587,29 @@ PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen S
 
 ---
 
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
-| **inSuite** |  |  |  |
-|  |  |  | iOS/Android |
-| **Doc Cirrus GmbH** |  |  | Linux |
-| Pohlstraße 20 | Y/9/2401/36/488 | 31.12.2026 | Mac OS |
-| 10785 Berlin |  |  | Sonstige |
-| Internet: www.doc-cirrus.com |  |  | Windows |
+**Kontaktdaten**
+
+**inSuite**
+
+**Doc Cirrus GmbH**
+
+Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
 **zugelassen für folgende Muster**
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
+
+**Prüfnummer**
+
+Y/9/2401/36/488
+
+**Prüfnummer**
+
+**unterstützte** **gültig bis**
+
+**Betriebssysteme**
+
+Linux Mac OS 31.12.2026 Sonstige Windows
 
 
 ---
@@ -1002,7 +1011,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **IFA-AUGENARZT** |  |  |  |
 | **ifa systems AG** |  |  |  |
-| Fendter Straße 22 | Y/9/2307/36/400 | 30.06.2026 | Windows |
+| Augustinusstraße 11b | Y/9/2307/36/400 | 30.06.2026 | Windows |
 | 50226 Frechen |  |  |  |
 | Internet: www.ifasystems.de |  |  |  |
 
@@ -1013,27 +1022,19 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 ---
 
-**Kontaktdaten**
-
-**ifa|NX-NEXT Generation AIS**
-
-**ifa systems AG**
-
-Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de
+|  |  | Prüfnummer | unterstützte |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
+| **ifa\|NX-NEXT Generation AIS** |  |  |  |
+| **ifa systems AG** |  |  | Linux |
+| Augustinusstraße 11b | Y/9/2407/36/451 | 30.06.2027 | Mac OS |
+| 50226 Frechen |  |  | Windows |
+| Internet: www.ifasystems.de |  |  |  |
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
-
-**Prüfnummer**
-
-**unterstützte** **Prüfnummer**
-
-**gültig bis**
-
-**Betriebssysteme**
-
-Linux Y/9/2407/36/451 30.06.2027 Mac OS
+ifa|NX-NEXT Generation AISMuster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
 
 
 ---

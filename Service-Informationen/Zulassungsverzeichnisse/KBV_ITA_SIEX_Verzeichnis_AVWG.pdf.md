@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**20. JUNI 2026**
+**27. JUNI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 20. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 27. Juni 2026
 
 Y/400/2504/36/062
 
@@ -206,7 +206,7 @@ Rohdaten MMI
 
 Windows
 
-Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.doctolib.de apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de iOS/Android Linux Mac OS Sonstige Windows LinuxiOS/Android Linux Mac OS Sonstige Windows
+Doctolib Praxis Doctolib GmbH Mehringdamm 51 10961 Berlin Internet: https://www.doctolib.de apraxos Dr. Claudia Neumann Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de iOS/Android Linux Mac OS Sonstige Windows LinuxLinux Mac OS Sonstige Windows
 
 
 ---
@@ -324,7 +324,7 @@ J-MED Haase, Dipl.-Ing. Silvia GbR Lindenstr. 21 21465 Reinbek Internet: www.j-m
 
 **IFA-AUGENARZT**
 
-**ifa systems AG** Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de
+**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
 |  | Y/400/2401/36/451 | 31.12.2026 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
@@ -342,7 +342,7 @@ ifap praxisCENTER
 
 Windows
 
-ifa|NX-NEXT Generation AIS ifa systems AG Fendter Straße 22 50226 Frechen Internet: www.ifasystems.de IFU-KIS IFU OR GmbH Nürnberg Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de Linux Mac OS WindowsWindows
+ifa|NX-NEXT Generation AIS ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de IFU-KIS IFU OR GmbH Nürnberg Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de Linux Mac OS Windows WindowsWindows
 
 
 ---
@@ -684,7 +684,7 @@ Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.uf
 |---|---|---|---|---|
 |  | Y/400/2510/36/768 | 30.09.2028 | Rohdaten MMI |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 20. Juni 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 27. Juni 2026
 
 Y/400/2401/36/672 31.12.2026 Rohdaten MMI
 
