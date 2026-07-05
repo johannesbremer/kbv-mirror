@@ -167,20 +167,28 @@ Abbildung 34: richtlinie .......................................................
 
 ---
 
-| Abbildung | 35: verordnungsmenge........................................................................................31 |
-|---|---|
-| Abbildung | 36: hoechstmenge_verordnung...........................................................................31 |
-| Abbildung | 37: orientierende_behandlungsmenge.................................................................32 |
-| Abbildung | 38: orientierende_behandlungsmenge_hoechstalter............................................32 |
-| Abbildung | 39: hoechstalter_jahre.........................................................................................33 |
-| Abbildung | 40: orientierende_behandlungsmenge_icd_code.................................................33 |
-| Abbildung | 41: icd_code_liste................................................................................................34 |
-| Abbildung | 42: icd_code........................................................................................................34 |
-| Abbildung | 43: orientierende_behandlungsmenge_standardisiert..........................................35 |
-| Abbildung | 44: orientierende_behandlungsmenge_massage ................................................35 |
-| Abbildung | 45: erforderliche_diagnosen ................................................................................36 |
+Abbildung 35: verordnungsmenge ........................................................................................ 31
 
-Abbildung 35: verordnungsmenge Abbildung 36: hoechstmenge_verordnung Abbildung 37: orientierende_behandlungsmenge Abbildung 38: Abbildung 39: Abbildung 40: orientierende_behandlungsmenge Abbildung 41: Abbildung 42: icd_code Abbildung 43: orientierende_behandlungsmenge_standardisiert Abbildung 44: orientierende_behandlungsmenge_massage Abbildung 45:
+Abbildung 36: hoechstmenge_verordnung ........................................................................... 31
+
+Abbildung 37: orientierende_behandlungsmenge ................................................................. 32
+
+Abbildung 38: orientierende_behandlungsmenge_hoechstalter............................................ 32
+
+Abbildung 39: hoechstalter_jahre ......................................................................................... 33
+
+Abbildung 40: orientierende_behandlungsmenge_icd_code ................................................. 33
+
+Abbildung 41: icd_code_liste ................................................................................................ 34
+
+Abbildung 42: icd_code ........................................................................................................ 34
+
+Abbildung 43: orientierende_behandlungsmenge_standardisiert .......................................... 35
+
+Abbildung 44: orientierende_behandlungsmenge_massage ................................................ 35
+
+Abbildung 45: erforderliche_diagnosen ................................................................................ 36
+
 
 ---
 
@@ -284,21 +292,26 @@ XML-Code 35: verordnungsmenge ..................................................
 
 ---
 
-| XML-Code | 36: hoechstmenge_verordnung..........................................................................31 |
-|---|---|
-| XML-Code | 37: orientierende_behandlungsmenge ...............................................................32 |
-| XML-Code | 38: orientierende_behandlungsmenge_hoechstalter..........................................33 |
-| XML-Code | 39: hoechstalter_jahre........................................................................................33 |
-| XML-Code | 40: orientierende_behandlungsmenge_icd_code ...............................................33 |
-| XML-Code | 41: icd_code_liste...............................................................................................34 |
-| XML-Code | 42: icd_code.......................................................................................................35 |
-| XML-Code | 43: orientierende_behandlungsmenge_standardisiert |
-| XML-Code | 44: orientierende_behandlungsmenge_massage...............................................35 |
-| XML-Code | 45: erforderliche_diagnosen...............................................................................36 |
+XML-Code 36: hoechstmenge_verordnung .......................................................................... 31
 
-35
+XML-Code 37: orientierende_behandlungsmenge ............................................................... 32
 
-XML-Code 36: hoechstmenge_verordnung XML-Code 37: orientierende_behandlungsmenge XML-Code 38: XML-Code 39: XML-Code 40: XML-Code 41: XML-Code 42: icd_code XML-Code 43: orientierende_behandlungsmenge_standardisiert XML-Code 44: orientierende_behandlungsmenge_massage XML-Code 45:
+XML-Code 38: orientierende_behandlungsmenge_hoechstalter .......................................... 33
+
+XML-Code 39: hoechstalter_jahre ........................................................................................ 33
+
+XML-Code 40: orientierende_behandlungsmenge_icd_code ............................................... 33
+
+XML-Code 41: icd_code_liste ............................................................................................... 34
+
+XML-Code 42: icd_code ....................................................................................................... 35
+
+XML-Code 43: orientierende_behandlungsmenge_standardisiert ........................................ 35
+
+XML-Code 44: orientierende_behandlungsmenge_massage ............................................... 35
+
+XML-Code 45: erforderliche_diagnosen ............................................................................... 36
+
 
 ---
 

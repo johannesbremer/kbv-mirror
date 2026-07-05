@@ -1,6 +1,8 @@
 ### Elektronische Ausfüllhilfe Muster 64
 
-### Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die Verordnung  von medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V (Muster 64)
+### Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die Verordnung
+
+**von medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V (Muster 64)**
 
 **Erläuterungen zu den einzelnen Feldern**
 

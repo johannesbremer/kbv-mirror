@@ -18,7 +18,7 @@
 
 ## Adipositas - Erwachsene
 
-## und Adipositas - Kinder und
+**und Adipositas - Kinder und**
 
 ## Jugendliche
 
@@ -167,9 +167,7 @@ einer Wiedereinschreibung erneut
 
 Krankenhaus
 
-```
 -
-```
 
 -Nummer an.
 
@@ -183,9 +181,8 @@ einer
 
 Indikationen
 
-```
 -
-```
+
 
 ---
 

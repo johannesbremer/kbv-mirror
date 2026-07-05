@@ -18,35 +18,61 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 INHALT
 
-| ALLGEMEINES | 4 |
-|---|---|
-| 1.1 Rechtsgrundlage | 4 |
-| 1.2 Zertifizierungsablauf | 4 |
-| 1.3 Zertifizierungsportal | 5 |
-| 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prüfunterlagen | 5 |
-| 1.6 Prüfvorgaben | 7 |
-| 1.6.1 Schnittstellenversionen | 7 |
-| 1.6.2 Datumseingaben | 7 |
-| 1.6.3 Prüfstammdaten | 7 |
-| 1.6.4 Versichertendaten | 7 |
-| 1.6.5 Praxisdaten/ Arztstempel | 8 |
-| 1.6.6 Krankenhausdaten | 8 |
-| 1.6.7 Prüfnummer | 8 |
-| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
-| 1.6.9 Auflistung der Prüffälle | 9 |
+| ALLGEMEINES |  | 4 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 4 |
+| 1.2 | Zertifizierungsablauf | 4 |
+| 1.3 | Zertifizierungsportal | 5 |
+| 1.4 | Zertifizierungsdokumente | 5 |
+| 1.5 Prü fu | nte rla gen | 5 |
+| 1.6 Prü | fvorgaben | 7 |
+| 1.6.1 | Schnittstellenversionen | 7 |
+| 1.6.2 | Datumseingaben | 7 |
+| 1.6.3 | Prü fstam mdate n | 7 |
+| 1.6.4 | Versichertendaten | 7 |
+| 1.6.5 | Praxisdaten/ Arztstempel | 8 |
+| 1.6.6 | Krankenhausdaten | 8 |
+| 1.6.7 | Prü fn um mer | 8 |
+| 1.6.8 | Stammdatei der Datenannahmestellen (SDDA) | 9 |
+| 1.6.9 | Auflistung der Prü ffä lle | 9 |
 
-| PRÜFFÄLLE |  |  | 10 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 10 |
-| 2.1.1 |  | Prüffall 7211 | 10 |
-| 2.1.2 |  | Prüffall 7212 | 13 |
-| 2.1.3 |  | Prüffall 7220 | 16 |
-| 2.2 Prüffall |  | Systemreaktion | 20 |
-| 2.2.1 |  | Prüffall 7214 | 20 |
-| 2.3 | Weitere | Prüffälle zum Anforderungskatalog | 24 |
-| 2.3.1 |  | Prüffall 7230 | 24 |
-| 2.3.2 |  | Prüffall 7240 | 26 |
+**PRÜFFÄLLE**
+
+**10**
+
+2.1 Prüffälle Dokumentation
+
+10
+
+2.1.1 Prüffall 7211
+
+10
+
+2.1.2 Prüffall 7212
+
+13
+
+2.1.3 Prüffall 7220
+
+16
+
+2.2 Prüffall Systemreaktion
+
+20
+
+2.2.1 Prüffall 7214
+
+20
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 24
+
+2.3.1 Prüffall 7230
+
+24
+
+2.3.2 Prüffall 7240
+
+26
 
 **TESTDATENVALIDIERUNG**
 
@@ -62,7 +88,7 @@ INHALT
 
 **29**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall Systemreaktion Weitere Prüffälle zum Anforderungskatalog 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Auflistung der Prüffälle 
 
 
 ---
@@ -980,10 +1006,14 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes daten
 
 ---
 
-**Ansprechpartner:**
+|  | Ansprechpartner: |  |
+|---|---|---|
+|  | Dezernat | Digitalisierung und IT |
+| IT in | der Arztpraxis |  |
+| Tel.: | 030 | 4005-2077, pruefstelle@kbv.de |
+| Kassenä | rztlic he | B undesvere in ig ung |
+|  | Herbert-Lewin-Platz | 2, 10623 Berlin |
+|  | pruefstelle@kbv.de, | www.kbv.de |
+| Seite | 30 von 30 / | KBV / Prü fp akete DM P-rheumatoide Arthritis / Version: 1.04 / 31. Mä rz 2 026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

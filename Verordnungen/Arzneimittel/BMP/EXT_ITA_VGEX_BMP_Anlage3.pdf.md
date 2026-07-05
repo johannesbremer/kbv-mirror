@@ -16,7 +16,10 @@ BMP Version 2.8
 
 # Medikationsplan
 
-## (BMP) gemäß § 31a SGB V
+## (BMP)
+
+**gemäß § 31a SGB V**
+
 BMP)
 
 
@@ -821,7 +824,7 @@ In der folgenden Tabelle werden die Felder für den Ausdruck beschrieben:
 
 die Bedingungen in der Spalte „Instanz kommt aus 5.1.6 bzw. 6.2.7 vorzugehen.
 
-.1 beschriebene
+## .1 beschriebene
 
 Ausprägung zu verwenden ist.
 
@@ -1372,9 +1375,8 @@ Hinweise finden sich z. B: 0 cm breit und enthält:
 
 in der Spezifikation PPN-Code, siehe
 
-```
 -
-```
+
 
 ---
 
@@ -1783,16 +1785,13 @@ Wenn die Anwendenden ausgewählt haben, dass die Dosierung eines Medikamentes  w
 - in der ersten Zeile
 - Sie enthält:
 
-```
 -
-```
 
 - 511), gefolgt von der
 - 7-2 x 0,85-12,0-5,0)
 
-```
 -
-```
+
 
 ---
 

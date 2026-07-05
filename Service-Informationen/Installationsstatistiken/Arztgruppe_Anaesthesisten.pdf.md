@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -12,6 +12,8 @@
 
 462 **medatixx**
 
+457 **tomedo**
+
 216 **x.isynet**
 
 280 **CGM MEDISTAR BLACK PRO**
@@ -20,11 +22,9 @@
 
 308 **RescuePro**
 
-457 **tomedo**
+078 **Med7**
 
 210 **Medical Office**
-
-078 **Med7**
 
 226 **CGM MEDICO**
 
@@ -40,6 +40,8 @@ Dedalus HealthCare GmbH
 
 medatixx GmbH & Co. KG
 
+Zollsoft GmbH
+
 medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
@@ -48,11 +50,9 @@ CompuGroup Medical Deutschland AG
 
 RescuePro Production GmbH & Co. KG
 
-Zollsoft GmbH
+Bitron GmbH Technologiesysteme
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Bitron GmbH Technologiesysteme
 
 CGM Clinical Europe GmbH
 
@@ -60,87 +60,87 @@ Frey ADV GmbH
 
 CompuGroup Medical Deutschland AG 1
 
-**Installationen 2.Q.2025**
-
-221
-
-151
-
-110
-
-95
-
-92
-
-90
-
-89
-
-86
-
-77
-
-77
-
-71
-
-56
-
-50
-
-**Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025**
 
 222
 
--1
+147
 
-154
+111
 
--3
+96
 
-109
+95
+
+90
+
+90
+
+90
+
+76
+
+74
+
+69
+
+54
+
+48
+
+**Installationen 2.Q.2025 Differenz**
+
+221
 
 1
 
-100
+151
 
--5
+-4
 
-92
+110
+
+1
+
+86
+
+10
+
+95
 
 0
 
-97
-
--7
-
-91
+92
 
 -2
 
-85
+90
+
+0
+
+89
 
 1
 
-73
-
-4
-
-79
-
--2
-
-70
-
-1
-
-57
+77
 
 -1
 
-53
+77
 
 -3
+
+71
+
+-2
+
+56
+
+-2
+
+50
+
+-2
 
 
 ---
@@ -149,56 +149,56 @@ CompuGroup Medical Deutschland AG 1
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
-
-252 **CGM M1 PRO**
-
-CompuGroup Medical Deutschland AG 47
-
-44
-
-3
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
 498 **T2med**
 
-T2med GmbH & Co. KG 45
+T2med GmbH & Co. KG 47
 
 45
 
-0
+2
+
+252 **CGM M1 PRO**
+
+CompuGroup Medical Deutschland AG 45
+
+47
+
+-2
 
 243 **x.concept**
 
-medatixx GmbH & Co. KG 44
+medatixx GmbH & Co. KG 43
 
-42
-
-2
-
-343 **SAP Ambulatory Care Management** SAP SE 35
-
-36
+44
 
 -1
 
-314 **IMedOne**
+343 **SAP Ambulatory Care Management** SAP SE 36
 
-Deutsche Telekom Clinical Solutions GmbH 35 34
+35
 
 1
 
+314 **IMedOne**
+
+Deutsche Telekom Clinical Solutions GmbH 35 35
+
+0
+
 261 **S3-Win**
 
-S3 Praxiscomputer GmbH / Maximilian Flender 34 35
+S3 Praxiscomputer GmbH / Maximilian Flender 34 34
 
--1
+0
 
 247 **PROFIMED**
 
-PRO MEDISOFT AG 33
+PRO MEDISOFT AG 31
 
-36
+33
 
--3
+-2
 
 2

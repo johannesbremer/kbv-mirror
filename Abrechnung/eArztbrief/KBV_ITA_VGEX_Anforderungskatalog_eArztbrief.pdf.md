@@ -27,15 +27,12 @@ INHALT
 
 **6**
 
-**3** **VORGABEN FÜR DEN VERSAND / EMPFANG VON ELEKTRONISCHEN ARZTBRIEFEN**
-
-**7**  3.1 Allgemeine Vorgaben an Inhalt und Struktur
-
-7  3.2 Vorgaben an die Signatur
-
-11  3.3 Vorgaben für den Versand
-
-11  3.4 Vorgaben für den Empfang 13
+| 3 | VORGABEN | FÜ R DEN VERSAND / EMPFANG VON | ELEKTRONISCHEN ARZTBRIEFEN 7 |
+|---|---|---|---|
+| 3.1 | Allgemeine | Vorgaben an Inhalt und Struktur | 7 |
+| 3.2 | Vorgaben | an die Signatur | 11 |
+| 3.3 | Vorgaben | fü r den Versand | 11 |
+| 3.4 | Vorgaben | fü r den Empfang | 13 |
 
 **4** **ABRECHNUNGSUNTERSTÜTZUNG**
 
@@ -48,6 +45,9 @@ INHALT
 **6** **REFERENZIERTE DOKUMENTE**
 
 **20**
+
+VORGABEN FÜR DEN VERSAND / EMPFANG VON ELEKTRONISCHEN ARZTBRIEFEN Allgemeine Vorgaben an Inhalt und Struktur Vorgaben an die Signatur Vorgaben für den Versand Vorgaben für den Empfang 
+
 
 ---
 

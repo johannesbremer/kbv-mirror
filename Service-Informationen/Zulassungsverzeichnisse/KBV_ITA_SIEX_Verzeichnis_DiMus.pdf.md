@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**27. JUNI 2026**
+**04. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -26,13 +26,13 @@
 
 **ACETO Softwareentwicklung GmbH** Landsberger Straße 155 80687 München Internet: www.aceto-online.com
 
-|  | Y/80/2407/24/612 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/612 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 04. Juli 2026
 
-Y/80/2407/24/062 30.06.2026
+Y/80/2607/36/062 30.06.2029
 
 Y/80/2507/24/344 30.06.2027
 
@@ -64,7 +64,7 @@ Clinixx(R) Krankenhausinformationssystem AMC Holding GmbH Ballindamm 5 20095 Ham
 |---|---|---|---|---|
 |  | Y/80/2501/24/636 | 31.12.2026 | eAU |  |
 
-Y/80/2407/24/081 30.06.2026
+Y/80/2607/36/081 30.06.2029
 
 Y/80/2410/36/754 30.09.2027
 
@@ -94,7 +94,7 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 
 |  | Y/80/2409/24/346 | 31.08.2026 | eAU |  |
 |---|---|---|---|---|
-|  | Y/80/2407/24/332 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/332 | 30.06.2029 | eAU |  |
 
 Y/80/2409/24/459
 
@@ -128,9 +128,9 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 
 Y/80/2408/24/112
 
-Y/80/2407/24/203 31.07.2026 eAU
+Y/80/2607/36/203 31.07.2026 eAU
 
-30.06.2026 eAU
+30.06.2029 eAU
 
 Windows
 
@@ -156,9 +156,9 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 24105 Kiel Internet: www.crosssoft.de
 
-|  | Y/80/2407/24/262 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/262 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
-|  | Y/80/2407/24/060 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/060 | 30.06.2029 | eAU |  |
 
 Y/80/2409/24/280
 
@@ -186,13 +186,13 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 **Dedalus HealthCare GmbH** Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com
 
-|  | Y/80/2407/24/314 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/314 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2409/24/488 | 31.08.2026 | eAU |  |
 
 Y/80/2409/24/238 31.08.2026
 
-Y/80/2407/24/254 30.06.2026
+Y/80/2607/36/254 30.06.2029
 
 eAU
 
@@ -218,9 +218,9 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 
 **Dr. Claudia Neumann** Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
 
-|  | Y/80/2407/24/086 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/086 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
-|  | Y/80/2407/24/295 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/295 | 30.06.2029 | eAU |  |
 
 Y/80/2506/37/677 30.06.2028
 
@@ -250,15 +250,15 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
 
-|  | Y/80/2407/24/421 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/421 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2411/24/034 | 31.10.2026 | eAU |  |
 
-Y/80/2407/24/253
+Y/80/2607/36/253
 
-Y/80/2407/24/223 30.06.2026 eAU
+Y/80/2607/36/223 30.06.2029 eAU
 
-30.06.2026 eAU
+30.06.2029 eAU
 
 Windows
 
@@ -280,11 +280,11 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 
 **Fresenius Medical Care Deutschland GmbH** Else-Kröner-Str. 3 61352 Bad Homburg Internet: www.freseniusmedicalcare.com
 
-|  | Y/80/2407/24/244 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/244 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2507/18/616 | 31.12.2026 | eAU |  |
 
-Y/80/2407/24/403 30.06.2026
+Y/80/2607/36/403 30.06.2029
 
 Y/80/2502/36/630 31.01.2028
 
@@ -350,9 +350,7 @@ Torin Getinge IT Solutions GmbH Südportal 5 22848 Norderstedt eReha GITG AG Kur
 
 Y/80/2603/24/749
 
-Y/80/2410/24/195
-
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026 29.02.2028 eAU
+Y/80/2410/24/195 29.02.2028 eAU
 
 30.09.2026 eAU
 
@@ -408,9 +406,9 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
-|  | Y/80/2407/24/320 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/320 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
-|  | Y/80/2407/24/385 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/385 | 30.06.2029 | eAU |  |
 
 Y/80/2408/24/136
 
@@ -474,13 +472,13 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 04. Juli 2026
 
 Y/80/2408/24/266
 
-Y/80/2407/24/462 31.07.2026 eAU
+Y/80/2607/36/462 31.07.2026 eAU
 
-30.06.2026 eAU
+30.06.2029 eAU
 
 Windows
 
@@ -530,7 +528,7 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 
 |  | Y/80/2409/24/192 | 31.08.2026 | eAU |  |
 |---|---|---|---|---|
-|  | Y/80/2407/24/251 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/251 | 30.06.2029 | eAU |  |
 
 Y/80/2501/24/087 31.12.2026 eAU
 
@@ -556,9 +554,9 @@ MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Kö
 |---|---|---|---|---|
 |  | Y/80/2408/24/276 | 31.07.2026 | eAU |  |
 
-Y/80/2407/24/015 30.06.2026
+Y/80/2607/36/015 30.06.2029
 
-Y/80/2407/24/290 30.06.2026
+Y/80/2607/36/290 30.06.2029
 
 eAU
 
@@ -584,13 +582,13 @@ Meona Clinics Mesalvo Freiburg GmbH Heinrich-von-Stephan-Straße 25 79100 Freibu
 
 **Müritz COMP Greifswald** **Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
 
-|  | Y/80/2407/24/043 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/043 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
-|  | Y/80/2407/24/299 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/299 | 30.06.2029 | eAU |  |
 
-Y/80/2407/24/422
+Y/80/2607/36/422
 
-Y/80/2507/24/494 30.06.2026 eAU
+Y/80/2507/24/494 30.06.2029 eAU
 
 30.06.2027 eAU
 
@@ -618,9 +616,9 @@ Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.
 |---|---|---|---|---|
 |  | Y/80/2409/24/083 | 31.08.2026 | eAU |  |
 
-Y/80/2407/24/278
+Y/80/2607/36/278
 
-Y/80/2410/24/487 30.06.2026 eAU
+Y/80/2410/24/487 30.06.2029 eAU
 
 30.09.2026 eAU
 
@@ -648,7 +646,7 @@ NEXUS / KIS NEXUS AG Irmastraße 1 78166 Donaueschingen Internet: www.nexus-ag.d
 |---|---|---|---|---|
 |  | Y/80/2408/24/626 | 31.07.2026 | eAU |  |
 
-Y/80/2407/24/247 30.06.2026
+Y/80/2607/36/247 30.06.2029
 
 Y/80/2409/24/348 31.08.2026
 
@@ -676,7 +674,7 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 
 **S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
-|  | Y/80/2407/24/343 | 30.06.2026 | eAU |  |
+|  | Y/80/2607/36/343 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2409/24/171 | 31.08.2026 | eAU |  |
 
@@ -712,7 +710,7 @@ SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Inter
 |---|---|---|---|---|
 |  | Y/80/2602/11/747 | 31.12.2026 | eAU |  |
 
-Y/80/2407/24/230 30.06.2026
+Y/80/2607/36/230 30.06.2029
 
 Y/80/2408/24/458 31.07.2026
 
@@ -744,9 +742,9 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Tel
 |---|---|---|---|---|
 |  | Y/80/2509/37/768 | 30.09.2028 | eAU |  |
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 27. Juni 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 04. Juli 2026
 
-Y/80/2407/24/313 30.06.2026
+Y/80/2607/36/313 30.06.2029
 
 Y/80/2410/24/205 30.09.2026
 

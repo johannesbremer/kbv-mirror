@@ -98,7 +98,7 @@ nein
 
 **Der/die Patient/in verfügt über ausreichende physische und psychische Belastbarkeit**
 
-### III. Angaben zur Rehabilitationsfähigkeit
+III. Angaben zur Rehabilitationsfähigkeit
 
 Sonstiges
 

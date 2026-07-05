@@ -7,7 +7,9 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  18. FEBRUAR 2021   VERSION: 1.36   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# HANDBUCH BLANKOFORMU- LARBEDRUCKUNG FÜR DIE PSYCHO- THERAPIE (PTV)
+**HANDBUCH BLANKOFORMU-** **LARBEDRUCKUNG FÜR DIE PSYCHO-**
+
+# THERAPIE (PTV)
 
 ## [KBV_ITA_VGEX_HANDBUCH_BFB_PTV]
 
@@ -26,19 +28,47 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 5
 
-| 2 | ANFORDERUNGEN ZUR BFB (PTV) | 5 |
-|---|---|---|
-| 2.1 | Zielbestimmung | 5 |
-| 2.2 | Erstellung von Vordrucken | 5 |
-| 2.3 | Zertifizierung | 6 |
-| 2.4 | Prüfnummer | 6 |
-| 2.5 | Beschriftung der Vordrucke | 6 |
-| 2.6 | Papier | 6 |
-| 2.7 | Erläuterung der Funktionsdarstellung | 7 |
-| 2.8 | Zulässige BFB-Formulare | 7 |
-| 2.9 | Formulare als Druck-Dateien | 7 |
-| 2.10 | Änderungsdienst / Logistik | 7 |
-| 2.11 | Bedruckungsvorgaben | 8 |
+**2** **ANFORDERUNGEN ZUR BFB (PTV)**
+
+**5**
+
+2.1 Zielbestimmung
+
+5
+
+2.2 Erstellung von Vordrucken
+
+5
+
+2.3 Zertifizierung
+
+6
+
+2.4 Prüfnummer
+
+6
+
+2.5 Beschriftung der Vordrucke
+
+6
+
+2.6 Papier
+
+6
+
+2.7 Erläuterung der Funktionsdarstellung 7
+
+2.8 Zulässige BFB-Formulare
+
+7
+
+2.9 Formulare als Druck- Dateien 7
+
+2.10 Änderungsdienst / Logistik 7
+
+2.11 Bedruckungsvorgaben
+
+8
 
 **3** **VERBINDLICHE MUSTER**
 

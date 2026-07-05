@@ -16,36 +16,17 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-INHALT
+## INHALT
 
-| 1 | ALLGEMEINES | 6 |
-|---|---|---|
-| 1.1 | Rechtsgrundlage | 6 |
-| 1.2 | Zertifizierungsablauf | 6 |
-| 1.3 | Zertifizierungsportal | 7 |
-| 1.4 | Zertifizierungsdokumente | 7 |
-| 1.5 | Prüfunterlagen | 8 |
-| 1.5.1 | Verzeichnisstruktur | 8 |
-| 1.5.2 | Einreichen von Prüfunterlagen als PDF-Dokumente | 9 |
-| 1.6 | Prüfvorgaben | 10 |
-| 1.6.1 | Prüfstammdateien | 10 |
-| 1.6.2 | Vorbereitungen | 10 |
-| 1.6.3 | Versichertendaten | 10 |
-| 1.6.4 | Auflistung der Prüffälle | 11 |
-| 1.6.5 | Praxisdaten/Arztstempel | 11 |
-| 1.6.6 | Malta (Siehe XML Verzeichnisname: XML_36) | 12 |
-| 1.6.7 | Schimmelpfennig-Hammerschmidt Federmannssohn | (Siehe XML Verzeichnisname: |
-|  | XML_37) | 13 |
-| 1.6.8 | Schaumbërg-von-und-zu-Schaumburg-und-Radëberg | (Siehe XML Verzeichnisname: |
-|  | XML_40) | 14 |
+**1** **ALLGEMEINES**
+
+1.1 Rechtsgrundlage  1.2 Zertifizierungsablauf  1.3 Zertifizierungsportal  1.4 Zertifizierungsdokumente  1.5 Prüfunterlagen  1.5.1 Verzeichnisstruktur  1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente  1.6 Prüfvorgaben  1.6.1 Prüfstammdateien  1.6.2 Vorbereitungen  1.6.3 Versichertendaten  1.6.4 Auflistung der Prüffälle  1.6.5 Praxisdaten/Arztstempel  1.6.6 Malta (Siehe XML Verzeichnisname: XML_36)  1.6.7 Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname:  XML_37)  1.6.8 Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname:  XML_40)
 
 **2 PRÜFFÄLLE**
 
 2.1 Muster 02  Verordnung von Krankenhausbehandlung  2.2 Muster 03  Zeugnis über den mutmaßlichen Tag der Entbindung  2.3 Muster 04  Verordnung einer Krankenbeförderung  2.4 Muster 05  Abrechnungsschein  2.5 Muster 06  Überweisungsschein  2.6 Muster 07  Überweisung: Vor Aufnahme einer Psychotherapie zur Abklärung somatischer  Ursachen  2.7 Muster 08  Sehhilfenverordnung  2.8 Muster 08A  Verordnung einer vergrößernden Sehhilfe  2.9 Muster 09  Ärztliche Bescheinigung für die Gewährung von Mutterschaftsgeld bei Frühge burten  2.10 Muster 10 und 10L - Überweisungsschein für Auftragsleistungen  2.11 Muster 10A  Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften 2.12 Muster 11  Bericht für den medizinischen Dienst  2.13 Muster 12  Verordnung häuslicher Krankenpflege  2.14 Muster 13  Heilmittelverordnung  2.15 Muster 15  Ohrenärztliche Verordnung einer Hörhilfe  2.16 Muster 19  Notfall-/Vertretungsschein  2.17 Muster 20  Wiedereingliederung in das Erwerbsleben  2.18 Muster 21  Krankengeld bei Erkrankung eines Kindes  2.19 Muster 22  Konsiliarbericht vor Aufnahme einer Psychotherapie  2.20 Muster 25 - Anregung einer ambulanten Vorsorgeleistung in anerkannten Kurorten gem. § 23  Abs. 2 SGB V  2.21 Muster 26  Verordnung Soziotherapie gem. § 37a SGB V  2.22 Muster 27  Soziotherapeutischer Betreuungspl. gem. § 37a SGB V  2.23 Muster 28  Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie 2.24 Muster 36  Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V 2.25 Muster 39  Krebsfrüherkennung Zervix-Karzinom
 
-**15** 15 15 15 16 18 18 19 19 19 20 21 21 22 24 25 26 26 26 27 27 27 28
-
-Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname: 28 28 29
+**6** 6 6 7 7 8 8 9 10 10 10 10 11 11 12 13 14 **15** 15 15 15 16 18 18 19 19 19 20 21 21 22 24 25 26 26 26 27 27 27 28 28 28 29
 
 
 ---
@@ -60,17 +41,17 @@ Muster 50  Anfrage Zuständigkeit einer anderen Kasse Muster 51  Anfrage Zustän
 
 4.1 Muster KV5  Aerztlicher_Kurzbericht  4.2 Muster KV6  AAPV_Anlage_3a  4.3 Muster KV7  AAPV_Anlage_3b  4.4 Muster KV9  AAPV_Anlage_2  4.5 Muster KV10  AAPV_Anlage_3
 
-| 5 |  | ÜBERGREIFENDE | PRÜFFÄLLE |  |  | 44 |
+| 5 | ÜBERGREIFENDE | | PRÜFFÄLLE |  |  | 44 |
 |---|---|---|---|---|---|---|
-| 5.1 | Übergreifender | Prüffall | – Nr. | 10 – | Helga Aufgelöst | 45 |
+| 5.1 | Übergreifender | Prüffall | – Nr. | 10 – | Helga Aufgelö st | 45 |
 | 5.2 | Übergreifender | Prüffall | – Nr. | 11 – | Peter Pan | 46 |
 | 5.3 | Übergreifender | Prüffall | – Nr. | 12 – Sam | Schulte | 47 |
-| 5.4 | Übergreifender | Prüffall | – Nr. | 13 – | Angelika Schnell | 48 |
-| 5.5 | Übergreifender | Prüffall | – Nr. | 14 – | Erna Mueller | 49 |
-| 5.6 | Übergreifender | Prüffall | – Nr. | 15 – Eike | flüchtling | 50 |
+| 5.4 | Ü b ergreife | nderP rü ffa | ll– Nr. | 13 – | Angelika Schnell | 48 |
+| 5.5 | Übergreifender | Prüffall | – Nr. | 14 – Erna | Mueller | 49 |
+| 5.6 | Übergreifender | Prüffall | – Nr. | 15 – Eike | flü c htlin g | 50 |
 | 5.7 | Übergreifender | Prüffall | – Nr. | 16 – | Andrea lanz | 51 |
 | 5.8 | Übergreifender | Prüffall | – Nr. | 17 – | Viktor Werner | 52 |
-| 5.9 | Übergreifender | Prüffall | – Nr. | 18 – | Jonathan Ramirez-Sanchéz-Leon | 53 |
+| 5.9 | Ü b ergreife | nderP rü ffa | ll– Nr. | 18 – | Jonathan Ramirez-Sanché z-Leon | 53 |
 
 **6 TESTDATENVALIDIERUNG**
 
@@ -94,7 +75,7 @@ Muster 50  Anfrage Zuständigkeit einer anderen Kasse Muster 51  Anfrage Zustän
 
 **38** 38 38
 
-ÜBERGREIFENDE PRÜFFÄLLE Übergreifender Prüffall  Nr. 10 Übergreifender Prüffall  Nr. 11 Übergreifender Prüffall  Nr. 12  Sam Schulte Übergreifender Prüffall  Nr. 13 Übergreifender Prüffall  Nr. 14 Übergreifender Prüffall  Nr. 15  Eike flüchtling Übergreifender Prüffall  Nr. 16 Übergreifender Prüffall  Nr. 17 Übergreifender Prüffall  Nr. 18 40 41 **42** 42 42 42 43 43 **54** **55**
+ÜBERGREIFENDE PRÜFFÄLLE Übergreifender Prüffall  Nr. 10  Helga Aufgelöst Übergreifender Prüffall  Nr. 11 Übergreifender Prüffall  Nr. 12  Sam Schulte Übergreifender Prüffall  Nr. 13 Übergreifender Prüffall  Nr. 14  Erna Mueller Übergreifender Prüffall  Nr. 15  Eike flüchtling Übergreifender Prüffall  Nr. 16 Übergreifender Prüffall  Nr. 17 Übergreifender Prüffall  Nr. 18  Jonathan Ramirez-Sanchéz-Leon 40 41 **42** 42 42 42 43 43 **54** **55**
 
 
 ---

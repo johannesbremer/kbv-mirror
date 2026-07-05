@@ -45,8 +45,12 @@ Hier ist anzugeben, wann die nächste Erhebung terminiert wurde. Dieses Datum be
 
 ---
 
-#### Muster 62B: Verordnung außerklinischer Intensivpflege
+| Muster | 62B: | Verordnung auß e | rklin ischerIn te nsiv pfle ge |
+|---|---|---|---|
+| **Muster 62B: Verordnung auß** | **e rklin ischerIn** | **te nsiv** | **pfle ge** |
+|  |  |  | 4 |
 
+Muster 62B: Verordnung außerklinischer Intensivpflege
 
 ---
 

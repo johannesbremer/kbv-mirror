@@ -119,8 +119,4 @@ Wenn Sie eine fehlerhafte Angabe in einer Stammdatei feststellen, informieren Si
 
 ---
 
-6. Wenn die von der Landesebene gelieferten Standard-Aggregate oder Handelsnamen
-
-### - keinen Treffer in der Verordnungssoftware ergeben, wird die Datei normal weiterbear-
-
-beitet. Bitte senden Sie eine Fehlermeldung an die KV mit CC an die KBV (siehe 4.)
+6. Wenn die von der Landesebene gelieferten Standard-Aggregate oder Handelsnamen  keinen Treffer in der Verordnungssoftware ergeben, wird die Datei normal weiterbear-beitet. Bitte senden Sie eine Fehlermeldung an die KV mit CC an die KBV (siehe 4.)

@@ -4,7 +4,10 @@
 
 # Medikationsplan
 
-## (BMP) gemäß § 31a SGB V
+## (BMP)
+
+**gemäß § 31a SGB V**
+
 Anlage 3 zur Vereinbarung gemäß § 31a Abs. 4 Satz 1 SGB V über Inhalt, Struktur und
 
 Vorgaben zur Erstellung und Aktualisierung eines Medikationsplans sowie über ein

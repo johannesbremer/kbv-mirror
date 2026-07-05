@@ -1,6 +1,8 @@
-### Elektronische Ausfüllhilfe Muster 55 – Bescheinigung einer schwerwiegenden  chronischen Erkrankung gem. § 62 SGB V
+### Elektronische Ausfüllhilfe Muster 55 – Bescheinigung einer schwerwiegenden
 
-### Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die Bescheini- gung einer schwerwiegenden chronischen Erkrankung gem. § 62 SGB V (Muster 55)
+**chronischen Erkrankung gem. § 62 SGB V**
+
+**Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die Bescheini-** **gung einer schwerwiegenden chronischen Erkrankung gem. § 62 SGB V (Muster 55)**
 
 **Erläuterungen zu den einzelnen Feldern**
 

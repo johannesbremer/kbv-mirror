@@ -51,14 +51,9 @@ einzusetzenden Schlüssels in der Version 08 Schlüssels nale Pflichtfunktion KP
 
 ---
 
-| IT in der Arztpraxis |  |
-|---|---|
-| Anforderungskatalog QS | Hörgeräteversorgung Kinder |
-| **A B B I L D U N** | **G S V E R Z E I C H N I S** |
-| Abbildung 1 | Berichtszeiträume................................................................................................ 6 |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | * Version 1.11 Seite 4 von 15 |
+Abbildung 1 Berichtszeiträume ................................................................................................ 6
 
-Abbildung 1 Berichtszeiträume
+**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 
 ---
@@ -167,7 +162,9 @@ Kinder
 
 In ihm fin-
 
-### Auswertungs-quartal
+Auswertungs-
+
+### quartal
 
 
 ---
@@ -495,9 +492,7 @@ gemäß der
 
 Versand  ] an
 
-```
 -
-```
 
 es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. -
 

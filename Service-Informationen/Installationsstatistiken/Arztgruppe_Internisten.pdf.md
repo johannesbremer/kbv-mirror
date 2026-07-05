@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -18,9 +18,9 @@
 
 203 **ALBIS**
 
-243 **x.concept**
-
 498 **T2med**
+
+243 **x.concept**
 
 254 **ORBIS®**
 
@@ -30,87 +30,87 @@
 
 252 **CGM M1 PRO**
 
-266 **x.comfort**
+086 **DURIA**
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1.595
+CompuGroup Medical Deutschland AG 1.523
 
-1.606
+1.595
 
--11
+-72
 
-medatixx GmbH & Co. KG 1.401
+medatixx GmbH & Co. KG 1.374
 
-1.431
+1.401
 
--30
+-27
 
-CompuGroup Medical Deutschland AG 1.360
+CompuGroup Medical Deutschland AG 1.314
 
-1.402
+1.360
 
--42
+-46
 
-medatixx GmbH & Co. KG 1.040
+medatixx GmbH & Co. KG 1.093
 
-1.001
+1.040
 
-39
+53
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 1.028 1.007
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1.030 1.028
 
-21
+2
 
-CompuGroup Medical Deutschland AG 916
+CompuGroup Medical Deutschland AG 900
 
-935
+916
 
--19
+-16
 
-medatixx GmbH & Co. KG 855
+T2med GmbH & Co. KG 874
 
-875
+818
 
--20
+56
 
-T2med GmbH & Co. KG 818
+medatixx GmbH & Co. KG 842
 
-781
+855
 
-37
+-13
 
-Dedalus HealthCare GmbH 722
+Dedalus HealthCare GmbH 732
 
-730
+722
 
--8
+10
 
-Frey ADV GmbH 612
+Frey ADV GmbH 606
 
-621
+612
 
--9
+-6
 
-Zollsoft GmbH 527
+Zollsoft GmbH 585
 
-484
+527
 
-43
+58
 
-CompuGroup Medical Deutschland AG 461
+CompuGroup Medical Deutschland AG 445
 
-473
+461
 
--12
+-16
 
-medatixx GmbH & Co. KG 400
+Duria eG 390
 
-418
+379
 
--18
+11
 
 1
 
@@ -119,7 +119,7 @@ medatixx GmbH & Co. KG 400
 
 **Id Praxissoftware**
 
-086 **DURIA**
+266 **x.comfort**
 
 251 **MEDVISION**
 
@@ -129,13 +129,13 @@ medatixx GmbH & Co. KG 400
 
 226 **CGM MEDICO**
 
-060 **Data-AL**
-
 083 **PegaMed**
+
+060 **Data-AL**
 
 **Anbieter**
 
-Duria eG
+medatixx GmbH & Co. KG
 
 MedVision AG
 
@@ -145,50 +145,50 @@ SAP SE
 
 CGM Clinical Europe GmbH
 
-Data-AL GmbH
+PEGA Elektronik GmbH
 
-PEGA Elektronik GmbH 2
+Data-AL GmbH 2
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
-379
+389
 
-380
+400
 
--1
+-11
 
 339
 
-346
+339
 
--7
+0
+
+310
 
 313
 
-316
-
 -3
+
+275
 
 273
 
-279
+2
 
--6
+228
 
 222
 
-223
+6
 
--1
-
-206
-
-205
-
-1
+208
 
 204
 
-207
+4
+
+203
+
+206
 
 -3

@@ -34,9 +34,8 @@ Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Vers
 
 r-
 
-```
 -
+
 -
-```
 
 (PDF, 550 KB):  [](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)

@@ -2,11 +2,7 @@
 
 ## Verordnung Soziotherapie
 
-**26**
-
-## gemäß § 37a SGB V
-
-**Name, Vorname des Versicherten**
+**26** **gemäß § 37a SGB V** **Name, Vorname des Versicherten**
 
 **geb. am**
 

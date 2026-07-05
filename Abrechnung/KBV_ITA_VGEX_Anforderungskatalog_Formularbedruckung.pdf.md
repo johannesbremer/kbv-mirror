@@ -380,13 +380,11 @@ Unterstützt die Abrechnungssoftware das Bedrucken von Muster 16 über das Perso
 
 - (1) Auf dem Rezept müssen die Ankreuzfelder 6 - sprechenden Ziffern („6“, „7“, „8“, „9“) gekennzeichnet werden.
 
-```
 -
-```
 
 - (2) Das Formularkennzeichen „666 “ darf wegen möglicher Leseprobleme in den Apotheken-rechenzentren nicht überdruckt werden.
 
-Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemotherapie des Geni- Letzte Periode - 9 statt mit einem Kreuz („X“) mit den ent-
+Wertebereich in Formularin- halten Gynäkologische OP, Strahlen - oder Chemotherapie des Geni- Letzte Periode     - 9 statt mit einem Kreuz („X“) mit den ent-
 
 
 ---
@@ -533,9 +531,7 @@ gedruckt
 - , ist das ASV-Kennzei-
 - -Teamnum-
 
-```
 -
-```
 
 der ASV-Arzt an
 

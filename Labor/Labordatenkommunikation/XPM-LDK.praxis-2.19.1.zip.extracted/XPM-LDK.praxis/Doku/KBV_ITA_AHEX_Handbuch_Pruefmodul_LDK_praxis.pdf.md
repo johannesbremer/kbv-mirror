@@ -31,14 +31,12 @@ Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung 
 **1. EINLEITUNG**
 
 - **5**
+- 1.1 Begriffsklärung ....................................................................................................................... 5
+- 1.2 Systemvoraussetzungen ....................................................................................................... 6
 
-| 1.1 | Begriffsklärung | ....................................................................................................................... 5 |
-|---|---|---|
-| 1.2 | Systemvoraussetzungen | ....................................................................................................... 6 |
-|  | **VERZEICHNISSTRUKTUR** | **7** |
+**2. VERZEICHNISSTRUKTUR**
 
-**2.**
-
+- **7**
 - 2.1 Ordner 'Bin' ............................................................................................................................ 7
 - 2.2 Ordner 'Daten' ........................................................................................................................ 7
 - 2.3 Ordner 'Doku' ......................................................................................................................... 7
@@ -636,14 +634,13 @@ Ist lediglich eine LDT-Datei ausgewählt, kann nur der Modus „Nur LDT“ ausge
 
 ---
 
-# 3.5.3 Optionen
+| 3.5.3 | Optionen |
+|---|---|
+| Unter | den Optionen kann das Prü fm odulk onfig urie rt w erd en. |
+| **3.5.4** | **Ansicht** |
+| Unter | „ A n sich t“k a n n die Fe hlerstatis tik u n d das Prüfpro to ko ll aufg e rufen |
 
-Unter den Optionen kann das Prüfmodul konfiguriert werden.
-
-# 3.5.4 Ansicht
-
-Unter „Ansicht“ kann die Fehlerstatistik und das Prüfprotokoll aufgerufen werden.
-
+Unter den Optionen kann das Prüfmodul konfiguriert werden. Unter „Ansicht“ kann die Fehlerstatistik und das Prüfprotokoll aufgerufen werden.
 
 ---
 
@@ -682,15 +679,11 @@ Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter
 
 # 4.2 Starten des Prüfmoduls aus einem Java-Programm
 
-### Das LDK-Prüfmodul ist eine Java-Applikation und kann von einem anderen Java-
-
-Programm aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse
+Das LDK-Prüfmodul ist eine Java-Applikation und kann von einem anderen Java- Programm aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse
 
 ### de.kbv.pruefmodul.core.extern.XPMEinstieg implementiert. Diese Klasse ist im Java-Archiv
 
-xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu
-
-### die Methode ‘main’ etwas genauer an.
+xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu  die Methode ‘main’ etwas genauer an.
 
 ### Beispielaufruf:
 

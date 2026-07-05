@@ -1406,7 +1406,7 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 **Abbildung 12 Grundstruktur sciphox:Software**
 
-### Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
+Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 <local_header ignore="all" descriptor="sciphox
 

@@ -26,11 +26,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **9**
 
-| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
-|---|---|---|
-| 3.1 | Kardinalität | 10 |
-| 3.2 | Strukturelemente | 10 |
-| 3.3 | Sonstige Symbole | 11 |
+| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
+|---|---|---|---|
+| 3.1 | Kardinalitä | t | 10 |
+| 3.2 |  | Strukturelemente | 10 |
+| 3.3 | Sonstige | Symbole | 11 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -95,6 +95,9 @@ Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas teilgenomm
 27  Vom Patienten gewünschte Informationsangebote der Krankenkasse 27 Dokumentationsintervall
 
 28
+
+Kardinalität Sonstige Symbole 
+
 
 ---
 

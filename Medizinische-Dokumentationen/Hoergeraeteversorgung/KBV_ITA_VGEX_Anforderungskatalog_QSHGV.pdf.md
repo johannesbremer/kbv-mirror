@@ -162,7 +162,9 @@ KBV_ITA_VGEX_Schnitt-
 
 In ihm fin-
 
-### Auswertungs-quartal
+Auswertungs-
+
+### quartal
 
 
 ---
@@ -518,15 +520,11 @@ Spezifikation_eDoku_KIM
 
 Adresse geschickt, von der  KIM übermittelt hat.
 
-```
 -
-```
 
 Versand  ] an
 
-```
 -
-```
 
 es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. -
 

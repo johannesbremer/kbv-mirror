@@ -46,7 +46,9 @@ Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 # Erklärung
 
-### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+**zur Teilnahme an einem strukturierten**
+
+### Behandlungsprogramm für
 
 **Krankenhaus-IK**
 
@@ -131,7 +133,9 @@ Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 # Erklärung
 
-### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+**zur Teilnahme an einem strukturierten**
+
+### Behandlungsprogramm für
 
 **Krankenhaus-IK**
 
@@ -216,7 +220,9 @@ Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 # Erklärung
 
-### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+**zur Teilnahme an einem strukturierten**
+
+### Behandlungsprogramm für
 
 **Krankenhaus-IK**
 

@@ -181,7 +181,7 @@ Gebühren, die nicht Gegenstand der Überarbeitung waren und auf die Änderungen
 
 *Daneben nicht abrechenbar: Nr. 1,45, 50, 448 – 449, 600, 601, 800, 826, 1203, 1204, 1228,*  *1240, 1400, 1401 und 1414.*
 
-Nummer- *52 nicht*
+Nummer    - *52 nicht*
 
 
 ---
@@ -661,7 +661,7 @@ Nummer Nummer**30.** In VI. Besondere Bedingungen wird Nummer 134 wie folgt gefa
 
 *119, 134*
 
-Nummer Nummer- *nicht besetzt*
+Nummer Nummer      - *nicht besetzt*
 
 
 ---
@@ -702,7 +702,7 @@ Nummer Nummer- *nicht besetzt*
 
 *oder Stationsaufzeichnungen,*
 
-Nummer- *nicht besetzt*
+Nummer  - *nicht besetzt*
 
 
 ---

@@ -2918,7 +2918,7 @@ Der XML-Code für das Element <ankreuzfeld_liste> hat folgenden beispielhaften A
 
 **XML-Code 51:** ankreuzfeld_liste
 
-#### <ankreuzfeld> Klammerelement für einen generischen Sachverhalt (Ankreuzfeld)
+<ankreuzfeld> Klammerelement für einen generischen Sachverhalt (Ankreuzfeld)
 
 
 ---

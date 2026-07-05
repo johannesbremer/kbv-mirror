@@ -24,28 +24,57 @@ INHALT
 | 1.2 Zertifizierungsablauf | 6 |
 | 1.3 Zertifizierungsportal | 7 |
 | 1.4 Zertifizierungsdokumente | 7 |
-| 1.5 Prüfunterlagen | 7 |
-| 1.6 Prüfvorgaben | 9 |
-| 1.6.1 Prüfstammdaten | 9 |
+| 1.5 Prü fu nte rla gen | 7 |
+| 1.6 Prü fvorgaben | 9 |
+| 1.6.1 Prü fstam mdate n | 9 |
 | 1.6.2 Versichertendaten | 10 |
 | 1.6.3 Praxisdaten/ Arztstempel | 10 |
 | 1.6.4 Krankenhausdaten | 11 |
-| 1.6.5 Prüfnummer | 11 |
+| 1.6.5 Prü fn um mer | 11 |
 | 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 11 |
-| 1.6.7 Auflistung der Prüffälle | 12 |
+| 1.6.7 Auflistung der Prü ffä lle | 12 |
 
-| PRÜFFÄLLE |  |  | 13 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 13 |
-| 2.1.1 | Prüffall | 9511 | 13 |
-| 2.1.2 | Prüffall | 9512 | 15 |
-| 2.1.3 | Prüffall | 6513 | 17 |
-| 2.2 Prüffälle |  | Systemreaktion | 22 |
-| 2.2.1 | Prüffall | 9514 | 22 |
-| 2.2.2 | Prüffall | 9515 | 26 |
-| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 28 |
-| 2.3.1 | Prüffall | 9530 | 28 |
-| 2.3.2 | Prüffall | 9540 | 29 |
+**PRÜFFÄLLE**
+
+**13**
+
+2.1 Prüffälle Dokumentation
+
+13
+
+2.1.1 Prüffall 9511
+
+13
+
+2.1.2 Prüffall 9512
+
+15
+
+2.1.3 Prüffall 6513
+
+17
+
+2.2 Prüffälle Systemreaktion
+
+22
+
+2.2.1 Prüffall 9514
+
+22
+
+2.2.2 Prüffall 9515
+
+26
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 28
+
+2.3.1 Prüffall 9530
+
+28
+
+2.3.2 Prüffall 9540
+
+29
 
 **TESTDATENVALIDIERUNG**
 
@@ -64,20 +93,29 @@ INHALT
 
 **35**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 9511 Prüffall 9512 Prüffall 6513 Prüffälle Systemreaktion Prüffall 9514 Prüffall 9515 Weitere Prüffälle zum Anforderungskatalog Prüffall 9530 Prüffall 9540 Versichertendaten 1 Versichertendaten 2
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle Versichertendaten 1 Versichertendaten 2
 
 
 ---
 
-# ABBILDUNGSVERZEICHNIS
+|  |  | ABBILDUNGSVERZEICHNIS |  |  |
+|---|---|---|---|---|
+| Abbildung | 1: | Exemplarische Verzeichnisstruktur | fü r d ie Z ertifiz | ie ru ng |
+| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den | Prü fu nte rla gen |
+| Abbildung | 3: | Testdatenvalidierung |  |  |
+| Abbildung | 4: | Exemplarische Verzeichnisstruktur | fü r d ie T estd | ate nvalid ie ru ng |
+| Seite 3 von | 36 / KBV / | Pruefpaket eDMP-Asthma / | Version: 1.23 / 31. Mä rz 2 | 026 |
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8
+8
 
-Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
+8
 
-Abbildung 3: Testdatenvalidierung 30
+30
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 30
+30
+
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 
+
 
 ---
 
@@ -1342,10 +1380,14 @@ und Georg-von-Groscurth-Plaetzchen
 
 ---
 
-**Ansprechpartner:**
+|  | Ansprechpartner: |  |
+|---|---|---|
+|  | Dezernat | Digitalisierung und IT |
+| IT in | der Arztpraxis |  |
+| Tel.: | 030 | 4005-2077, pruefstelle@kbv.de |
+|  | Kassenä rztlic | he B undesvere in ig ung |
+|  | Herbert-Lewin-Platz | 2, 10623 Berlin |
+|  | pruefstelle@kbv.de, | www.kbv.de |
+| Seite | 36 von 36 / | KBV / Pruefpaket eDMP-Asthma / Version: 1.23 / 31. Mä rz 2 026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

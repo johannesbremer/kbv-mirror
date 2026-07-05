@@ -24,21 +24,21 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben | 7 |
+| 1.5 | Prü fu nte rla gen | 6 |
+| 1.6 | Prü fvorgaben | 7 |
 | 1.7 | Praxisdaten/ Arztstempel | 7 |
 
-| 2 |  | PRÜFFÄLLE | 8 |
+| 2 | PRÜ | FFÄ LLE | 8 |
 |---|---|---|---|
-| 2.1 | Prüffall | 5601 | 8 |
-| 2.2 | Prüffall | 5602 | 10 |
-| 2.3 | Prüffall | 5603 | 12 |
-| 2.4 | Prüffall | 5604 | 15 |
-| 2.5 | Prüffall | 5605 | 17 |
-| 2.6 | Prüffall | 5606 | 18 |
-| 2.7 | Prüffall | 5608 | 22 |
-| 2.8 | Prüffall | 5609 (optional) | 23 |
-| 2.9 | Prüffall | 5610 (Konditional) | 25 |
+| 2.1 | Prü | ffa ll 5 601 | 8 |
+| 2.2 | Prü | ffa ll 5 602 | 10 |
+| 2.3 | Prü | ffa ll 5 603 | 12 |
+| 2.4 | Prü | ffa ll 5 604 | 15 |
+| 2.5 | Prü | ffa ll 5 605 | 17 |
+| 2.6 | Prü | ffa ll 5 606 | 18 |
+| 2.7 | Prü | ffa ll 5 608 | 22 |
+| 2.8 | Prü | ffa ll 5 609 (o ptio nal) | 23 |
+| 2.9 | Prü | ffa ll 5 610 (K onditio nal) | 25 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -48,7 +48,7 @@ INHALT
 
 **28**
 
-Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5608 Prüffall 5609 (optional) Prüffall 5610 (Konditional) 
+Prüfunterlagen Prüfvorgaben PRÜFFÄLLE Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5608 Prüffall 5609 (optional) Prüffall 5610 (Konditional) 
 
 
 ---

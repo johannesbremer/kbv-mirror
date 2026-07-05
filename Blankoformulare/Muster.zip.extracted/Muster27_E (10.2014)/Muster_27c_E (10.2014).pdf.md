@@ -48,15 +48,17 @@
 
 **2. Durchschlag**
 
-#### zum Verbleib beim verordnenden Arzt
+zum Verbleib beim verordnenden Arzt
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-## Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
+## Soziotherapeutischer Betreuungsplan
 
-**geb. am**
+**gem. § 37a SGB V** **geb. am**
 
-#### (als Anlage zur Verordnung und zur Weiterleitung an die Krankenkasse)
+***(als Anlage zur Verordnung und zur***
+
+#### Weiterleitung an die Krankenkasse)
 
 **IK des Leistungserbringers**
 

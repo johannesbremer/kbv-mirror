@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -18,19 +18,19 @@
 
 112 **TURBOMED**
 
-203 **ALBIS**
-
 252 **CGM M1 PRO**
 
 216 **x.isynet**
+
+203 **ALBIS**
 
 439 **eRIS**
 
 343 **SAP Ambulatory Care Management**
 
-276 **RadCentre Billing (OPD)**
+462 **medatixx**
 
-062 **EVA**
+276 **RadCentre Billing (OPD)**
 
 **Anbieter**
 
@@ -48,37 +48,37 @@ CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG
 
-CompuGroup Medical Deutschland AG
-
 medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
 
 Digithurst Bildverarbeitungssysteme GmbH & Co. KG
 
 SAP SE
 
-Mesalvo Mannheim GmbH
+medatixx GmbH & Co. KG
 
-Abasoft EDV-Programme GmbH 1
+Mesalvo Mannheim GmbH 1
 
-**Installationen 2.Q.2025**
+**Installationen 3.Q.2025**
 
 29
 
-21
+19
 
 14
 
 12
 
-11
+10
 
-9
+8
 
 8
 
 7
 
-6
+7
 
 6
 
@@ -88,41 +88,41 @@ Abasoft EDV-Programme GmbH 1
 
 5
 
-**Installationen 1.Q.2025 Differenz**
+**Installationen 2.Q.2025 Differenz**
 
-30
-
--1
-
-21
+29
 
 0
 
-13
+21
 
-1
+-2
+
+14
+
+0
 
 12
 
 0
 
-10
-
-1
-
-10
+11
 
 -1
 
+9
+
+-1
+
+7
+
+1
+
+6
+
+1
+
 8
-
-0
-
-7
-
-0
-
-7
 
 -1
 
@@ -134,9 +134,9 @@ Abasoft EDV-Programme GmbH 1
 
 0
 
-6
+4
 
--1
+1
 
 5
 
@@ -147,15 +147,15 @@ Abasoft EDV-Programme GmbH 1
 
 **Id Praxissoftware**
 
-023 **DATA VITAL**
+062 **EVA**
 
-462 **medatixx**
+023 **DATA VITAL**
 
 243 **x.concept**
 
 457 **tomedo**
 
-314 **IMedOne**
+637 **Xplore RIS**
 
 498 **T2med**
 
@@ -163,29 +163,29 @@ Abasoft EDV-Programme GmbH 1
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
+Abasoft EDV-Programme GmbH
 
-medatixx GmbH & Co. KG
+CompuGroup Medical Deutschland A
 
 medatixx GmbH & Co. KG
 
 Zollsoft GmbH
 
-Deutsche Telekom Clinical Solutions Gmb
+EDL Software Deutschland GmbH
 
 T2med GmbH & Co. KG
 
-Schwerdtner Medizin-Software GmbH 2
+Schwerdtner Medizin-Software GmbH
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
-4
+5
 
-4
+5
 
 0
 
-4
+G 4
 
 4
 
@@ -198,12 +198,6 @@ Schwerdtner Medizin-Software GmbH 2
 0
 
 3
-
-3
-
-0
-
-H 3
 
 3
 
@@ -220,3 +214,11 @@ H 3
 3
 
 0
+
+3
+
+3
+
+0
+
+2

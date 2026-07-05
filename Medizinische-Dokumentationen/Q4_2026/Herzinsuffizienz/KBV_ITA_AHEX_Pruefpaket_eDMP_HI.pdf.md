@@ -24,30 +24,55 @@ INHALT
 | 1.2 Zertifizierungsablauf | 5 |
 | 1.3 Zertifizierungsportal | 5 |
 | 1.4 Zertifizierungsdokumente | 6 |
-| 1.5 Prüfunterlagen | 6 |
-| 1.6 Prüfvorgaben | 7 |
+| 1.5 Prü funterlagen | 6 |
+| 1.6 Prü fvorgaben | 7 |
 | 1.6.1 Schnittstellenversionen | 8 |
 | 1.6.2 Datumseingaben | 8 |
-| 1.6.3 Prüfstammdaten | 8 |
+| 1.6.3 Prü fstammdaten | 8 |
 | 1.6.4 Versichertendaten | 8 |
 | 1.6.5 Praxisdaten/ Arztstempel | 9 |
 | 1.6.6 Krankenhausdaten | 9 |
-| 1.6.7 Prüfnummer | 9 |
+| 1.6.7 Prü fnummer | 9 |
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
-| 1.6.9 Auflistung der Prüffälle | 10 |
+| 1.6.9 Auflistung der Prü ffä lle | 10 |
 
-| 2 | PRÜFFÄLLE |  | 11 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentationen | 11 |
-| 2.1.1 | Prüffall | 4511 | 11 |
-| 2.1.2 | Prüffall | 4512 | 13 |
-| 2.1.3 | Prüffall | 4520 | 15 |
-| 2.2 Prüffall |  | Systemreaktion | 18 |
-| 2.2.1 | Prüffall | 4514 | 18 |
-| 2.2.2 |  | Konditionaler Prüffall 4515 | 21 |
-| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 22 |
-| 2.3.1 | Prüffall | 4530 | 22 |
-| 2.3.2 | Prüffall | 4540 | 23 |
+**2** **PRÜFFÄLLE**
+
+**11**
+
+2.1 Prüffälle Dokumentationen 11
+
+2.1.1 Prüffall 4511
+
+11
+
+2.1.2 Prüffall 4512
+
+13
+
+2.1.3 Prüffall 4520
+
+15
+
+2.2 Prüffall Systemreaktion
+
+18
+
+2.2.1 Prüffall 4514
+
+18
+
+2.2.2 Konditionaler Prüffall 4515 21
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 22
+
+2.3.1 Prüffall 4530
+
+22
+
+2.3.2 Prüffall 4540
+
+23
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -67,18 +92,18 @@ INHALT
 
 **28**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentationen Prüffall 4511 Prüffall 4512 Prüffall 4520 Prüffall Systemreaktion Prüffall 4514 Weitere Prüffälle zum Anforderungskatalog Prüffall 4530 Prüffall 4540 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle 
 
 
 ---
 
 |  |  | ABBILDUNGSVERZEICHNIS |  |
 |---|---|---|---|
-| Abbildung | 1: | Exemplarische Verzeichnisstruktur | für die Zertifizierung |
-| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prüfunterlagen |
+| Abbildung | 1: | Exemplarische Verzeichnisstruktur | fü r d ie Z ertifiz ie ru ng |
+| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prü fu nte rla gen |
 | Abbildung | 3: | Testdatenvalidierung |  |
-| Abbildung | 4: Exemplarische | Verzeichnisstruktur | für die Testdatenvalidierung |
-| Seite 3 von | 29 / KBV / | Pruefpaket eDMP-Herzinsuffizienz | / Version: 1.05 / 31. März 2026 |
+| Abbildung | 4: | Exemplarische Verzeichnisstruktur | für die Testdatenvalidierung |
+| Seite 3 von | 29 / KBV / | Pruefpaket eDMP-Herzinsuffizienz | / Version: 1.05 / 31. Mä rz 2 026 |
 
 7
 
@@ -88,7 +113,7 @@ Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentationen Prüffall 
 
 24
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 
 ---
@@ -1026,10 +1051,14 @@ Testschlüssel Datensatz für das strukturierte Behandlungsprogramm HI Dokumenta
 
 ---
 
-**Ansprechpartner:**
+|  | Ansprechpartner: |  |
+|---|---|---|
+|  | Dezernat | Digitalisierung und IT |
+| IT in | der Arztpraxis |  |
+| Tel.: | 030 | 4005-2077, pruefstelle@kbv.de |
+|  | Kassenä rztlic | he B undesvere in ig ung |
+|  | Herbert-Lewin-Platz | 2, 10623 Berlin |
+|  | pruefstelle@kbv.de, | www.kbv.de |
+| Seite | 29 von 29 / | KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.05 / 31. Mä rz 2 026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

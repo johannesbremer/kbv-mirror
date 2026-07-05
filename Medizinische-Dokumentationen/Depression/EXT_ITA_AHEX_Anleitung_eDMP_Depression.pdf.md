@@ -2,7 +2,7 @@
 
 ## Ausfüllanleitung
 
-## zum indikationsspezifischen Datensatz für das strukturierte Behandlungsprogramm
+zum indikationsspezifischen Datensatz für das strukturierte Behandlungsprogramm
 Stand der letzten Bearbeitung:  12.02.2021
 
 Version 1.0

@@ -42,7 +42,11 @@
 
 **28**
 
-## Indikationsstellung für Soziotherapie gemäß § 37a SGB V im Umfang von maximal 5 Therapieeinheiten
+## Indikationsstellung für Soziotherapie
+
+**gemäß § 37a SGB V im Umfang von**
+
+## maximal 5 Therapieeinheiten
 
 **Diagnose**
 

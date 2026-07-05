@@ -36,13 +36,13 @@ pflegende/r  Angehörige/r
 
 andere
 
-### IV. Rehabilitationsziele
+IV. Rehabilitationsziele
 
 **V. Rehabilitationsprognose**
 
-### VI. Zuweisungsempfehlungen
+VI. Zuweisungsempfehlungen
 
-### VII. Sonstige Angaben
+VII. Sonstige Angaben
 
 **61 Teil D**
 

@@ -21,14 +21,14 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnun
 
 ---
 
-| IT in | der Arztpraxis |  |
-|---|---|---|
-| FAQ für | Softwarehersteller | zur Labordatenkommunikation |
-|  | **DOKUMENTENHISTORIE** | |
-| **1** | **ALLGEMEINES** |  |
-| **2** | **FAQS** |  |
-| **3** | **REFERENZIERTE** | **DOKUMENTE** |
-|  | [KBV_ITA_VGEX_FAQ_LDK | * Version 1.04 |
+| IT in | der Arztpraxis |  |  |
+|---|---|---|---|
+| FAQ | für Softwarehersteller | zur | Labordatenkommunikation |
+|  | **DOKUMENTENHISTORIE** | | |
+| **1** | **ALLGEMEINES** |  |  |
+| **2** | **FAQS** |  |  |
+| **3** | **REFERENZIERTE** | | **DOKUMENTE** |
+|  | [KBV_ITA_VGEX_FAQ_LDK | * Version | 1.04 |
 
 **2**  **4**  **5**  **12**
 
@@ -293,10 +293,10 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 ---
 
-| Sachverhalt: | „Für | den LDT |
+| Sachverhalt: | „Fü r d | en LDT |
 |---|---|---|
 | **Zertifizierung** | **ist** | **jedoch** |
-|  | *Stellungnahme* | *der KBV:* |
+|  | *Stellungnahme der* | *KBV:* |
 
 *Der LDT-Auftrag kann seit dem 04.01.2016 freiwillig von Herstellern umgesetzt und seit dem*  *26.05.2017 bei der KBV zertifiziert und nach einer bestandenen Zertifizierung auch genutzt*  *werden.*
 

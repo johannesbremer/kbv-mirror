@@ -22,13 +22,13 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **2** **ÜBERBLICK**
 
-| 3 | FHIR®-DEFINITION | 7 |
+| 3 | FHIR® -DEFINITION | 7 |
 |---|---|---|
 | 3.1 | Dateiname | 7 |
 | 3.2 | KBV-Profile | 7 |
 | 3.3 | KBV-Extensions | 8 |
 | 3.4 | KBV-Codesystems | 9 |
-| 3.5 | FHIR®-Ressourcen | 10 |
+| 3.5 | FHIR® -Ressourcen | 10 |
 
 **4** **REST-SERVICE**
 
@@ -48,7 +48,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 12  12  12  12  16  16  17  17  18  18  18  **19**  19
 
-19  19  19  20  **21**  21  21  21  22  22  27  **31**
+FHIR®-DEFINITION FHIR®-Ressourcen 19  19  19  20  **21**  21  21  21  22  22  27  **31**
 
 
 ---

@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -22,9 +22,9 @@
 
 261 **S3-Win**
 
-243 **x.concept**
-
 498 **T2med**
+
+243 **x.concept**
 
 244 **QUINCY WIN**
 
@@ -34,81 +34,81 @@
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 393
+CompuGroup Medical Deutschland AG 382
 
-398
+393
 
--5
+-11
 
-Zollsoft GmbH 253
+Zollsoft GmbH 273
 
-245
+253
 
-8
+20
 
-CompuGroup Medical Deutschland AG 242
+CompuGroup Medical Deutschland AG 228
 
-247
+242
 
--5
+-14
 
 CompuGroup Medical Deutschland AG 156
 
-158
+156
 
--2
+0
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 127 126
+INDAMED EDV-Entwicklung und Vertrieb GmbH 128 127
 
 1
 
-medatixx GmbH & Co. KG 122
+medatixx GmbH & Co. KG 118
 
-123
+122
 
--1
+-4
 
-medatixx GmbH & Co. KG 104
+medatixx GmbH & Co. KG 106
 
-102
+104
 
 2
 
-S3 Praxiscomputer GmbH / Maximilian Flender 98 100
+S3 Praxiscomputer GmbH / Maximilian Flender 99 98
+
+1
+
+T2med GmbH & Co. KG 88
+
+82
+
+6
+
+medatixx GmbH & Co. KG 83
+
+85
 
 -2
 
-medatixx GmbH & Co. KG 85
+Frey ADV GmbH 77
 
-88
+76
+
+1
+
+CompuGroup Medical Deutschland AG 69
+
+72
 
 -3
 
-T2med GmbH & Co. KG 82
+medatixx GmbH & Co. KG 52
 
-80
+56
 
-2
-
-Frey ADV GmbH 76
-
-77
-
--1
-
-CompuGroup Medical Deutschland AG 72
-
-73
-
--1
-
-medatixx GmbH & Co. KG 56
-
-58
-
--2
+-4
 
 1
 
@@ -119,15 +119,15 @@ medatixx GmbH & Co. KG 56
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
 254 **ORBIS®**
 
 Dedalus HealthCare GmbH 41
 
-42
+41
 
--1
+0
 
 015 **MEDYS**
 
@@ -137,19 +137,13 @@ MEDYS GmbH 37
 
 0
 
-343 **SAP Ambulatory Care Management** SAP SE 35
-
-32
-
-3
-
 266 **x.comfort**
 
-medatixx GmbH & Co. KG 34
+medatixx GmbH & Co. KG 33
 
-37
+34
 
--3
+-1
 
 086 **DURIA**
 
@@ -158,6 +152,12 @@ Duria eG 31
 31
 
 0
+
+343 **SAP Ambulatory Care Management** SAP SE 31
+
+35
+
+-4
 
 083 **PegaMed**
 

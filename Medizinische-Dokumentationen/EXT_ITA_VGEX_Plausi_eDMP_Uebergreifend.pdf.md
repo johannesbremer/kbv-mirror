@@ -6,7 +6,7 @@
 
 ## des indikationsübergreifenden, allgemeinen Datensatzes
 
-# - nur gültig in Verbindung mit der jeweiligen
+- **nur gültig in Verbindung mit der jeweiligen**
 
 # - indikationsbezogenen Dokumentation
 
@@ -18,7 +18,7 @@
 -
 ```
 
-# DMP-A-RL -
+**DMP-A-RL -**
 
 **DMP-A-RL**
 

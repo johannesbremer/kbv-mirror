@@ -18,7 +18,7 @@ BUNDESVEREINIGUNG    IT IN DER ARZTPRAXIS
 
 INHALT
 
-| 1 |  | BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT | „BEI KODIERUNG“ 4 |
+| 1 |  | BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜ FZEITPUNKT | „ B E IK O DIER UNG“ 4 |
 |---|---|---|---|
 | 1.1 | Konfiguration | der Kodierregeln I | 4 |
 | 1.1.1 | UseCase | 1 | 5 |
@@ -34,15 +34,25 @@ INHALT
 | 1.2.1 | UseCase | 10 | 19 |
 | 1.2.2 | UseCase | 11 | 20 |
 
-| 2 |  |  | BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT | „ZUR ABRECHNUNG“ 21 |
-|---|---|---|---|---|
-| 2.1 |  | Konfiguration | der Kodierregeln | 21 |
-|  | 2.1.1 | UseCase | 12 | 22 |
+**2** **BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „ZUR ABRECHNUNG“**
 
-| 3 |  | QUARTALSÜBERGREIFENDE | REGELN | 26 |
-|---|---|---|---|---|
-| 3.1 |  | Konfiguration | der Kodierregeln | 26 |
-|  | 3.1.1 | UseCase | 13 | 26 |
+**21**
+
+2.1 Konfiguration der Kodierregeln 21
+
+2.1.1 UseCase 12
+
+22
+
+**3** **QUARTALSÜBERGREIFENDE REGELN**
+
+**26**
+
+3.1 Konfiguration der Kodierregeln 26
+
+3.1.1 UseCase 13
+
+26
 
 **4** **BEISPIELE UND FRAGEN ZUR UMSETZUNG**
 
@@ -60,7 +70,7 @@ INHALT
 
 31
 
-BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „BEI KODIERUNG“ Konfiguration der Kodierregeln I UseCase 1 UseCase 2 UseCase 3 UseCase 4 UseCase 5 UseCase 6 UseCase 7 UseCase 8 UseCase 9 Konfiguration der Kodierregeln II UseCase 10 UseCase 11 BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „ZUR ABRECHNUNG“ Konfiguration der Kodierregeln UseCase 12 QUARTALSÜBERGREIFENDE REGELN Konfiguration der Kodierregeln UseCase 13 
+BEHANDLUNGSFALLBEZOGENE REGELN ZUM PRÜFZEITPUNKT „BEI KODIERUNG“ Konfiguration der Kodierregeln I UseCase 1 UseCase 2 UseCase 3 UseCase 4 UseCase 5 UseCase 6 UseCase 7 UseCase 8 UseCase 9 Konfiguration der Kodierregeln II UseCase 10 UseCase 11 
 
 
 ---

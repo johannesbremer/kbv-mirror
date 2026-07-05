@@ -1,4 +1,6 @@
-### Übersicht der Pseudo-Gebührenordnungspositionen, die im Hinblick auf  die Regelung in § 87b Abs. 2 Satz 5 SGB V für die Kennzeichnung der  Narkosen bei der zahnärztlichen Behandlung von Patienten mit einge- schränkter Kooperationsfähigkeit zur Verfügung stehen:
+### Übersicht der Pseudo-Gebührenordnungspositionen, die im Hinblick auf
+
+**die Regelung in § 87b Abs. 2 Satz 5 SGB V für die Kennzeichnung der**  **Narkosen bei der zahnärztlichen Behandlung von Patienten mit einge-** **schränkter Kooperationsfähigkeit zur Verfügung stehen:**
 
 Die Information über die regionale Verwendung obliegt den Kassenärztlichen Vereini-gungen.
 

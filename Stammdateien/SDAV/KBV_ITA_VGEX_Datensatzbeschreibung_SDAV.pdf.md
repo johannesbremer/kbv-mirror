@@ -124,61 +124,76 @@ Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus ein
 
 ---
 
-| 1.3 | Dateiname | der |  | AV-Stammdatei |
-|---|---|---|---|---|
-| Es | gilt folgende | Struktur | für | die Dateinamensbildung: |
-| n n n | n a a _ v . | q j j |  |  |
-| wobei | die Zeichen | als Platzhalter | | fungieren: |
-| nnnn: | Name | der Datei, | SDAV für | Stammdatei-Arztverzeichnis |
-| aa: | Absender, | 74 für KBV |  |  |
-| v: | Version | der | Datenlieferung | innerhalb eines Quartals |
-| q: | Quartal |  |  |  |
-| jj: | 2-stellige | Jahresangabe | |  |
-| Für | die erste | Lieferung | des | Quartals 3/04 ergibt sich also z.B.: |
-|  | **SDAV74_1.304** |  |  |  |
-| **1.4** |  | **Zeichensatztabelle** | | **ISO 8859 Latin 1** |
-|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-| \| | \| 0 | 1 2 3 | 4 | 5 6 7 \| 8 9 A B C D E F \| |
-|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-| \| | 0 \| | 0 | @ | P ` p \| ° À Ð à ð \| 0 \| |
-| \| | 1 \| | ! 1 | A | Q a q \| ¡ ± Á Ñ á ñ \| |
-| \| | 2 \| | " 2 | B | R b r \| ¢ ² Â Ò â ò \| |
-| \| | 3 \| | # 3 | C | S c s \| £ ³ Ã Ó ã ó \| |
-| \| | 4 \| | $ 4 | D | T d t \| ¤ ´ Ä Ô ä ô \| |
-| \| | 5 \| | % 5 | E | U e u \| ¥ µ Å Õ å õ \| |
-| \| | 6 \| | & 6 | F | V f v \| ¦ ¶ Æ Ö æ ö \| |
-| \| | 7 \| | ' 7 | G | W g w \| § · Ç × ç ÷ \| |
-| \| | 8 \| | ( 8 | H | X h x \| ¨ ¸ È Ø è ø \| |
-| \| | 9 \| | ) 9 | I | Y i y \| © ¹ É Ù é ù \| 9 \| |
-| \| | A \| | * : | J | Z j z \| ª º Ê Ú ê ú \| |
-| \| | B \| | + ; | K | [ k { \| « » Ë Û ë û \| |
-| \| | C \| | , < | L | \ l \| \| ¬ ¼ Ì Ü ì ü \| C \| |
-| \| | D \| | - = | M | ] m } \| ½ Í Ý í ý \| D \| |
-| \| | E \| | . > | N | ^ n ~ \| ® ¾ Î Þ î þ \| |
-| \| | F \| | / ? | O | _ o \| ¯ ¿ Ï ß ï ÿ \| |
-|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-| \| | \| 0 | 1 2 3 | 4 | 5 6 7 \| 8 9 A B C D E F \| |
-|  |  |  |  | +-----+--------------------------+--------------------------+-----+ |
-|  | Quelle: |  |  |  |
-|  |  |  | http://www.uni-muenster.de/inform/syziso | |
-| Die | Spalten | 0, 1, 8 | und | 9 sowie Position 7F enthalten Steuerzeichen, |
-|  | Position |  |  |  |
-| A0 | das feste | Leerzeichen | | und AD den Silbentrennstrich. |
+## 1.3 Dateiname der AV-Stammdatei
 
-1.3 Dateiname der AV-Stammdatei Es gilt folgende Struktur für die Dateinamensbildung: n n n n a a _ v . q j j  wobei die Zeichen als Platzhalter fungieren: Name der Datei, SDAV für Stammdatei-Arztverzeichnis Absender, 74 für KBV Version der Datenlieferung innerhalb eines Quartals 2-stellige Jahresangabe Für die erste Lieferung des Quartals 3/04 ergibt sich also z.B.: 1.4 Zeichensatztabelle ISO 8859 Latin 1 |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | |  0  |           0  @  P  `  p  |           °  À  Ð  à  ð  |  0  | |  1  |        !  1  A  Q  a  q  |        ¡  ±  Á  Ñ  á  ñ  |  1  | |  2  |        "  2  B  R  b  r  |        ¢  ²  Â  Ò  â  ò  |  2  | |  3  |        #  3  C  S  c  s  |        £  ³  Ã  Ó  ã  ó  |  3  | |  4  |        $  4  D  T  d  t  |        ¤  ´  Ä  Ô  ä  ô  |  4  | |  5  |        %  5  E  U  e  u  |        ¥  µ  Å  Õ  å  õ  |  5  | |  6  |        &  6  F  V  f  v  |        ¦  ¶  Æ  Ö  æ  ö  |  6  | |  7  |        '  7  G  W  g  w  |        §  ·  Ç  ×  ç  ÷  |  7  | |  8  |        (  8  H  X  h  x  |        ¨  ¸  È  Ø  è  ø  |  8  | |  9  |        )  9  I  Y  i  y  |        ©  ¹  É  Ù  é  ù  |  9  | |  A  |        *  :  J  Z  j  z  |        ª  º  Ê  Ú  ê  ú  |  A  | |  B  |        +  ;  K  [  k  {  |        «  »  Ë  Û  ë  û  |  B  | |  C  |        ,  <  L  \  l  |  |        ¬  ¼  Ì  Ü  ì  ü  |  C  | |  D  |        -  =  M  ]  m  }  |           ½  Í  Ý  í  ý  |  D  | |  E  |        .  >  N  ^  n  ~  |        ®  ¾  Î  Þ  î  þ  |  E  | |  F  |        /  ?  O  _  o     |        ¯  ¿  Ï  ß  ï  ÿ  |  F  | |     |  0  1  2  3  4  5  6  7  |  8  9  A  B  C  D  E  F  |     | Die Spalten 0, 1, 8 und 9 sowie Position 7F enthalten Steuerzeichen, A0 das feste Leerzeichen und AD den Silbentrennstrich. 
+Es gilt folgende Struktur für die Dateinamensbildung:
 
+n n n n a a _ v . q j j
+
+wobei die Zeichen als Platzhalter fungieren:
+
+nnnn: Name der Datei, SDAV für Stammdatei-Arztverzeichnis
+
+aa: Absender, 74 für KBV
+
+v: Version der Datenlieferung innerhalb eines Quartals
+
+q: Quartal
+
+jj: 2-stellige Jahresangabe
+
+Für die erste Lieferung des Quartals 3/04 ergibt sich also z.B.:
+
+#### SDAV74_1.304
+
+## 1.4 Zeichensatztabelle ISO 8859 Latin 1
+
+```
++-----+--------------------------+--------------------------+-----+
+| | 0 1 2 3 4 5 6 7 | 8 9 A B C D E F | |
++-----+--------------------------+--------------------------+-----+
+| 0 | 0 @ P ` p | ° À Ð à ð | 0 |
+| 1 | ! 1 A Q a q | ¡ ± Á Ñ á ñ | 1 |
+| 2 | " 2 B R b r | ¢ ² Â Ò â ò | 2 |
+| 3 | # 3 C S c s | £ ³ Ã Ó ã ó | 3 |
+| 4 | $ 4 D T d t | ¤ ´ Ä Ô ä ô | 4 |
+| 5 | % 5 E U e u | ¥ µ Å Õ å õ | 5 |
+| 6 | & 6 F V f v | ¦ ¶ Æ Ö æ ö | 6 |
+| 7 | ' 7 G W g w | § · Ç × ç ÷ | 7 |
+| 8 | ( 8 H X h x | ¨ ¸ È Ø è ø | 8 |
+| 9 | ) 9 I Y i y | © ¹ É Ù é ù | 9 |
+| A | * : J Z j z | ª º Ê Ú ê ú | A |
+| B | + ; K [ k { | « » Ë Û ë û | B |
+| C | , < L \ l | | ¬ ¼ Ì Ü ì ü | C |
+| D | - = M ] m } | ½ Í Ý í ý | D |
+| E | . > N ^ n ~ | ® ¾ Î Þ î þ | E |
+| F | / ? O _ o | ¯ ¿ Ï ß ï ÿ | F |
++-----+--------------------------+--------------------------+-----+
+| | 0 1 2 3 4 5 6 7 | 8 9 A B C D E F | |
++-----+--------------------------+--------------------------+-----+
+Quelle:  [http://www.uni-muenster.de/inform/syziso](http://www.uni-muenster.de/inform/syziso)
+Die Spalten 0, 1, 8 und 9 sowie Position 7F enthalten Steuerzeichen,  Position
+A0 das feste Leerzeichen und AD den Silbentrennstrich.
+
+```
 
 ---
 
 # 2 Satztabelle
 
-### In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorkommen und die  Anordnung der Felder innerhalb eines Satzes festgelegt wird.
+In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorkommen und die
+
+### Anordnung der Felder innerhalb eines Satzes festgelegt wird.
 
 ### Die Häufigkeit des Feldes wird in der Spalte Vorkommen angegeben, wobei die Angabe n
 
 diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird
 
-### in der Spalte Vorkommen jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten  des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes  Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
+### in der Spalte Vorkommen jedem Feld eine Hierarchiestufe zugewiesen, d. h. das Auftreten
+
+des Feldes wird an die Existenz eines anderen Feldes geknüpft, nämlich genau an jenes
+
+### Feld, welches in der übergeordneten Hierarchiestufe referenziert wird.
 
 ### Beispiel:
 
@@ -196,7 +211,11 @@ diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darübe
 |  | ... |  | ... |  |
 |  | 0429 | 1 | ... | Feld 0429 kann einmal je Feld 0420 vorkommen |
 
-### In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder  nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der  Spalte Bedingung näher spezifiziert werden).
+### In der Spalte Feldart wird angegeben, ob ein Feld in einem Satz vorhanden sein muß oder
+
+nicht, und ob dieses Vorhandensein an bestimmte Bedingungen geknüpft ist (die dann in der
+
+### Spalte Bedingung näher spezifiziert werden).
 
 ### Folgende Feldarten werden unterschieden:
 
@@ -208,36 +227,34 @@ Ein unbedingtes Mussfeld muss in einem Satz vorhanden sein. Sollte in der Spalte
 
 ### m = bedingtes Mussfeld
 
-### Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
+Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s.
 
-übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes
+### Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
 
-### Mussfeld muss in einem Satz vorhanden sein, wenn entweder in der Spalte  Bedingung ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordnete
+übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes  Mussfeld muss in einem Satz vorhanden sein, wenn entweder in der Spalte
+
+### Bedingung ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordnete
 
 Hierarchiestufe (s. Spalte *Vorkommen*) referenzierte Feld existiert.
 
 ### K = Kannfeld
 
-### Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei
+Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei  Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,  muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern -
 
-Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,
-
-### muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern - nicht programmtechnisch erfolgen kann.
+### nicht programmtechnisch erfolgen kann.
 
 
 ---
 
 ### k = bedingtes Kannfeld
 
-### Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.  Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.
 
-übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*
+### Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
 
-### Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte  ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe
+übergeordneten Hierarchiestufe (s. Spalte *Vorkommen* Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte  ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe  (s. Spalte *Vorkommen*) referenzierte Feld existiert.
 
-(s. Spalte *Vorkommen*) referenzierte Feld existiert.
-
-### Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldart zu realisieren.
+Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldart zu realisieren.
 
 **2.1 Definition der Satzart: AV-Headersatz “AVS0”**
 
@@ -276,11 +293,7 @@ Headersatz Datei erstellt wurde Gültigkeit der AV- Stammdatei Datensatzbeschrei
 
 # 3 Feldtabelle
 
-In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus
-
-### wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese
-
-Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
+In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
 
 ### Zu jedem Feld wird in der Spalte Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt
 
@@ -292,11 +305,7 @@ verwendet werden kann. Folgende Typen werden unterschieden:
 
 ### In der Spalte Länge des Feldinhaltes wird festgelegt, aus wie vielen Zeichen (Bytes) ein
 
-Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch
-
-### alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden
-
-können. Durch das -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine
+Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Durch das -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine
 
 ### maximale Länge beschränkt.
 
@@ -417,7 +426,9 @@ nnnnn
 
 ### 5.4.1 Historische Betriebsstätten- und Arztnummern
 
-### Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale  abgelaufen sind.
+Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale
+
+### abgelaufen sind.
 
 **Lebenslange Arztnummer (LANR)**
 
@@ -449,11 +460,7 @@ nnnnn
 
 ## 5.5 Erläuterungen zum systeminternen Feld (FK 9901)
 
-### Das Feld mit der Kennung “9901” beinhaltet systeminterne Parameter und muss für den
-
-Import im Allgemeinen nicht berücksichtigt werden . Dieses Feld kann in jeder Satzart an
-
-### beliebiger Stelle in beliebiger Anzahl übertragen werden.
+Das Feld mit der Kennung “9901” beinhaltet systeminterne Parameter und muss für den  Import im Allgemeinen nicht berücksichtigt werden . Dieses Feld kann in jeder Satzart an  beliebiger Stelle in beliebiger Anzahl übertragen werden.
 
 ---
 

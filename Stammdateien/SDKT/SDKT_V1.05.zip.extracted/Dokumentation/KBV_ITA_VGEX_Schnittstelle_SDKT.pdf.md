@@ -230,13 +230,14 @@ Tabelle 71: Element kt_abrechnungsbereich ......................................
 
 ---
 
-| Tabelle | 72: | Element bedruckungsname.............................................................................56 |
-|---|---|---|
-| Tabelle | 73: | Element gueltigkeit.....................................................................................57 |
-| Tabelle | 74: | Element unz_kv_geltungsbereich_liste.................................................57 |
-| Tabelle | 75: | Element unz_kv_geltungsbereich..............................................................58 |
+Tabelle 72: Element bedruckungsname ............................................................................. 56
 
-Tabelle 72: Element Tabelle 73: Element Tabelle 74: Element Tabelle 75: Element
+Tabelle 73: Element gueltigkeit ..................................................................................... 57
+
+Tabelle 74: Element unz_kv_geltungsbereich_liste ................................................. 57
+
+Tabelle 75: Element unz_kv_geltungsbereich .............................................................. 58
+
 
 ---
 
@@ -277,7 +278,11 @@ Die Schnittstelle der Kostenträgerstammdatei ist von der EHD  Schnittstelle abg
 
 ## 2.1 Element header
 
-Das Element header dient der Aufnahme von Metainformationen zum Datenaustausch, wie  beispielsweise Erzeuger und Empfänger der Datei, Gültigkeitszeitraum der enthaltenen Daten,  zugrundeliegende Schnittstellenversion.
+### Das Element header dient der Aufnahme von Metainformationen zum Datenaustausch, wie
+
+beispielsweise Erzeuger und Empfänger der Datei, Gültigkeitszeitraum der enthaltenen Daten,
+
+zugrundeliegende Schnittstellenversion.
 
 | *diagram* | ** |
 |---|---|
@@ -620,10 +625,9 @@ letzte_aenderung enthalten.
 
 enthält das Gültigkeitsdatum der Kassennummer.
 
-```
 -
+
 -
-```
 
 und eventuell KK-REWI-DATUM-X8 2025 und 2026 (DA 145), service_tmr (DA
 
@@ -1661,10 +1665,9 @@ enthält im RT-Attribut die Bewertungsfeld-
 
 Attributs „2“) han-
 
-```
 -
+
 -
-```
 
 bis 50-BEW-VZ 4,47 Cent
 
@@ -1890,15 +1893,11 @@ angegebene KV darf nur einmal pro
 
 **Tabelle 77: Element unz_kv_geltungsbereich_liste**
 
-```
 -
-```
 
 - stenträgerab-
 
-```
 -
-```
 
 (DA 146)
 

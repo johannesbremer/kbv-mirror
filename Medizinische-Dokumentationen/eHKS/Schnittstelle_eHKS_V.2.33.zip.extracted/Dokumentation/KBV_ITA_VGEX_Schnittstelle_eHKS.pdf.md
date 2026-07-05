@@ -290,33 +290,26 @@ XML-Code 34 – derzeit keine weitere Therapie/Diagnositk ......................
 
 ---
 
-XML-Code 35 – Histopathologie ............................................................................................ 37
+| XML-Code | 35 – | Histopathologie ............................................................................................37 |
+|---|---|---|
+| XML-Code | 36 – Malignes | Melanom.......................................................................................37 |
+| XML-Code | 37 – | Klassifikation ................................................................................................38 |
+| XML-Code | 38 – | Tumordicke (Breslow) ..................................................................................38 |
+| XML-Code | 39 – | Basalzellkarzinom ........................................................................................39 |
+| XML-Code | 40 – | horizontaler Tumordurchmesser (klinisch)...................................................39 |
+| XML-Code | 41 – vertikaler | Tumordurchmesser (histologisch) ................................................40 |
+| XML-Code | 42 – | Spinozellulä re s K arz in om .............................................................................40 |
+| XML-Code | 43 – | Klassifikation ................................................................................................41 |
+| XML- | 4Code4 – Grading | ........................................................................................................41 |
+| XML-Code | 45 – atypischer | Nä v uszelln äv u s...........................................................................41 |
+| XML-Code | 46 – | junktionaler, compound, dermaler atypischer Nä v uszelln äv u s |
+| XML-Code | 47 – Aktinische | Keratose .....................................................................................42 |
+| XML-Code | 48 – Andere | hier nicht relevante Hautverä n deru ng .............................................42 |
 
-XML-Code 36 – Malignes Melanom ....................................................................................... 37
+.................... 42
 
-XML-Code 37 – Klassifikation ................................................................................................ 38
+XML-Code 35 – Histopathologie XML-Code 36 – Malignes Melanom XML-Code 37 – Klassifikation XML-Code 38 – Tumordicke (Breslow) XML-Code 39 – Basalzellkarzinom XML-Code 40 – horizontaler Tumordurchmesser (klinisch) XML-Code 41 – vertikaler Tumordurchmesser (histologisch) XML-Code 42 – Spinozelluläres Karzinom XML-Code 43 – Klassifikation XML-4 Code 4 XML-Code 45 – atypischer Nävuszellnävus XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus XML-Code 47 – Aktinische Keratose XML-Code 48 – Andere hier nicht relevante Hautveränderung 
 
-XML-Code 38 – Tumordicke (Breslow) .................................................................................. 38
-
-XML-Code 39 – Basalzellkarzinom ........................................................................................ 39
-
-XML-Code 40 – horizontaler Tumordurchmesser (klinisch) ................................................... 39
-
-XML-Code 41 – vertikaler Tumordurchmesser (histologisch) ................................................ 40
-
-XML-Code 42 – Spinozelluläres Karzinom ............................................................................. 40
-
-XML-Code 43 – Klassifikation ................................................................................................ 41
-
-XML-4 Code 4 – Grading ........................................................................................................ 41
-
-XML-Code 45 – atypischer Nävuszellnävus ........................................................................... 41
-
-XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus .................... 42
-
-XML-Code 47 – Aktinische Keratose ..................................................................................... 42
-
-XML-Code 48 – Andere hier nicht relevante Hautveränderung ............................................. 42
 
 ---
 

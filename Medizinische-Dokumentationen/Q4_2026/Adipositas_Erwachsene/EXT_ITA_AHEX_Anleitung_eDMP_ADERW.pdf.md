@@ -29,7 +29,9 @@ Bitte geben Sie „Ziele vereinbart“ an, wenn Sie mit Ihrer Patientin oder Ihr
 
 Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein Ziel zur regelmäßigen körperlichen Alltagsaktivität oder  zu körperlichem Training vereinbaren, geben Sie bitte die Antwort „Keine Ziele vereinbart“ an.
 
-#### Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der  letzten Dokumentation
+**Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der**
+
+#### letzten Dokumentation
 
 Eine Angabe zu diesem Feld zur regelmäßigen körperlichen Alltagsaktivität und zum körperlichen Training  bezieht sich hier ausschließlich rückblickend auf den Zeitraum seit der letzten Dokumentation und ist daher nur  im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend.
 
@@ -122,7 +124,7 @@ Sollte bei Ihrer Patientin oder Ihrem Patienten kein Prädiabetes vorliegen, geb
 
 Multimodale Adipositas-Schulungen stellen eine zentrale Maßnahme in diesem DMP dar. Daher soll jede  Patientin und jeder Patient Zugang zu einer multimodalen Adipositas-Schulung erhalten. Bitte machen Sie  jeweils eine Angabe zu den folgenden drei Dokumentationsfeldern zu Schulungen:
 
-#### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung  teilgenommen
+Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung  teilgenommen
 
 Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.  **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe möglich.
 

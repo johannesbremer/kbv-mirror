@@ -160,13 +160,13 @@ inhaltsverzeichnis
 
 Abbildungsverzeichnis
 
-#### Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.
+**Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.**
 
 ---
 
 Tabellenverzeichnis
 
-### Es konnten keine Einträge für ein Tabellenverzeichnis gefunden werden.
+Es konnten keine Einträge für ein Tabellenverzeichnis gefunden werden.
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id**
 
@@ -18,15 +18,15 @@
 
 457
 
-078
-
-462
+210
 
 216
 
-254
+462
 
-210
+078
+
+254
 
 422
 
@@ -44,15 +44,15 @@
 
 **tomedo**
 
-**Med7**
-
-**medatixx**
+**Medical Office**
 
 **x.isynet**
 
-**ORBIS®**
+**medatixx**
 
-**Medical Office**
+**Med7**
+
+**ORBIS®**
 
 **ClinicCentre Billing (OPD)**
 
@@ -70,31 +70,31 @@ CROSSSOFT. GmbH
 
 Zollsoft GmbH
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+medatixx GmbH & Co. KG
+
+medatixx GmbH & Co. KG
+
 Bitron GmbH Technologiesysteme
-
-medatixx GmbH & Co. KG
-
-medatixx GmbH & Co. KG
 
 Dedalus HealthCare GmbH
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
 Mesalvo Mannheim GmbH
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+
+704
 
 712
 
-710
+-8
 
-2
+86
 
 89
 
-84
-
-5
+-3
 
 21
 
@@ -116,21 +116,21 @@ Mesalvo Mannheim GmbH
 
 6
 
+6
+
+0
+
 5
 
-1
+2
 
 3
 
-4
-
--1
+3
 
 3
 
-4
-
--1
+0
 
 3
 
@@ -140,15 +140,15 @@ Mesalvo Mannheim GmbH
 
 2
 
-2
-
-0
-
-2
-
 3
 
 -1
+
+2
+
+2
+
+0
 
 1
 
@@ -163,15 +163,15 @@ Mesalvo Mannheim GmbH
 
 **Id Praxissoftware**
 
-015 **MEDYS**
+208 **NEXUS / KIS**
+
+314 **IMedOne**
 
 252 **CGM M1 PRO**
 
-086 **DURIA**
+290 **M-KIS**
 
 266 **x.comfort**
-
-290 **M-KIS**
 
 406 **esQlab.online**
 
@@ -181,15 +181,15 @@ Mesalvo Mannheim GmbH
 
 **Anbieter**
 
-MEDYS GmbH
+NEXUS AG
+
+Deutsche Telekom Clinical Solutions Gmb
 
 CompuGroup Medical Deutschland AG
 
-Duria eG
+Meierhofer AG
 
 medatixx GmbH & Co. KG
-
-Meierhofer AG
 
 IQVIA Commercial GmbH & Co OHG
 
@@ -197,7 +197,23 @@ HASOMED GmbH
 
 MediSoftware Computersysteme für Ärzte 2
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+
+1
+
+1
+
+0
+
+H 1 1
+
+0
+
+1
+
+1
+
+0
 
 1
 
@@ -213,27 +229,9 @@ MediSoftware Computersysteme für Ärzte 2
 
 1
 
-0
-
-0
-
-1
-
 1
 
 0
-
-1
-
-1
-
-0
-
-1
-
-0
-
-1
 
 1
 

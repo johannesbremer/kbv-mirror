@@ -131,7 +131,13 @@ Die GOP-Art ist derzeit optional, wird aber durch die KBV initial für alle GOP 
 
 ---
 
-#### Abbildung 5: Schlüsselwerte für die GOP-Art, grau  derzeit nicht in Verwendung
+| Dezernat | 6 – | Informationstechnik, |  | Telematik | und Telemedizin |
+|---|---|---|---|---|---|
+| **Abbildung** | **5:** | **Schlü s selw** | **erte fü r d ie** | **G O** | **P-Art, grau – derzeit nicht in Verwendung** |
+| Abbildung | des HA-EBM | auf die | EBM-Schnittstelle | (GOS) |  |
+
+Abbildung 5: Schlüsselwerte für die GOP-Art, grau 
+
 
 ---
 

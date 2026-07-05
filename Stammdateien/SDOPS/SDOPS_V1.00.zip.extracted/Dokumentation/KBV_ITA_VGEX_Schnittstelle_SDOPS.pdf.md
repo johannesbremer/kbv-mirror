@@ -190,7 +190,7 @@ Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelemen
 
 # EHD-ELEMENT (ROOT-ELEMENT) IN SDOPS
 
-### Dieses Element ist das Wurzelelement der Stammdatei. Es beinhaltet die Kindelemente „header“ und „body“, wie
+Dieses Element ist das Wurzelelement der Stammdatei. Es beinhaltet die Kindelemente „header“ und „body“, wie
 
 in Abbildung 1 dargestellt. Im header-Element stehen die spezifischen Informationen zur Schnittstelle. Im body-
 
@@ -205,9 +205,7 @@ ehd:ehd>
 
 ### ehd_version:
 
-### Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-
-
-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich
+Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich
 
 ### <header>
 
@@ -217,9 +215,15 @@ Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich
 
 Seite 7 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
-### wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler  melden. Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für  die Version vorgegeben.
+wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler
 
-### Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den  im body-Element liegenden eigentlichen Inhaltsdaten.
+### melden.
+
+Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für
+
+### die Version vorgegeben.
+
+Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den  im body-Element liegenden eigentlichen Inhaltsdaten.
 
 ### Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
@@ -228,13 +232,12 @@ Seite 7 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ---
 
-| 4. | HEADER | (METADATEN) IN SDOPS |
-|---|---|---|
-| Für die | Beschreibung der Inhalte | und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle |
-| Version | der ehd-Schnittstellenbeschreibung | [1] verwiesen. |
-| Seite 8 von | 12 / KBV / Stammdateien der | KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00 |
+## HEADER (METADATEN) IN SDOPS
 
-HEADER (METADATEN) IN SDOPS Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle Version der ehd-Schnittstellenbeschreibung [1] verwiesen.   / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
+Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle  Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
+
+Seite 8 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
+
 
 ---
 
@@ -248,7 +251,9 @@ Informationen wie bspw. Name, Gültigkeit, Kennzeichen für die Seitenlokalisati
 
 5.1 OPSCODE_LISTE
 
-### Das Element <opscode_liste> ist das Listen-Element für die einzelnen OPS und besitzt mindestens ein  Kindelement <opscode>.
+Das Element <opscode_liste> ist das Listen-Element für die einzelnen OPS und besitzt mindestens ein
+
+### Kindelement <opscode>.
 
 ### Der XML-Code für ein Element <opscode_liste> hat folgenden Aufbau:
 
@@ -259,7 +264,9 @@ opscode opscode_liste
 
 5.1.1 opscode
 
-### Ein Element <opscode> bildet einen OPS ab. Im V-Attribut wird der OPS-Code und im DN-Attribut dessen  Bezeichnung abgebildet. Das Element besitzt immer die Kindelemente <gueltigkeit> und <kzseite>. Es kann die  optionalen Kindelemente <kzmedbeguendung>, kz115b> und <kz115b_info> besitzen.
+Ein Element <opscode> bildet einen OPS ab. Im V-Attribut wird der OPS-Code und im DN-Attribut dessen  Bezeichnung abgebildet. Das Element besitzt immer die Kindelemente <gueltigkeit> und <kzseite>. Es kann die
+
+optionalen Kindelemente <kzmedbeguendung>, kz115b> und <kz115b_info> besitzen.
 
 ### Der XML-Code für ein Element <opscode> hat folgenden Aufbau:
 

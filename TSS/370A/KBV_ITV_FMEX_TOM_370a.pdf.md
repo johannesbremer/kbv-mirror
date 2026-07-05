@@ -508,31 +508,31 @@ NUTZERS DER  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgl
 | ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
 |---|---|---|---|
 |  | **0** ☐ ☐ ☐ Zugänge müssen bis zur manuellen |  |  |
-| **04.16** | Werden Firewalls eingesetzt?   ☐  ja  ☐  nein | Firewalls sind zwingend erforderlich. | Bei vorhandenem C5 Testat: |
-| **04.17** | Wer administriert die Firewall des  ☐  eigene IT  ☐  Externer Dienstleister |  |  |
-| **04.18** | **Wenn ein externer DL zum Einsatz kommt** ☐  ja  ☐  nein | Eine Remote-Administration der Firewall |  |
-| **04.19** | Werden die Zugriffsprotokolle (z. B. Anmeldungen  ☐  ja, über eine Security Information and Event   nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
+| **04.16** | Werden Firewalls eingesetzt?  ☐ ja ☐ nein | Firewalls sind zwingend erforderlich. | Bei vorhandenem C5 Testat: |
+| **04.17** | Wer administriert die Firewall des  ☐  eigene IT ☐ Externer Dienstleister |  |  |
+| **04.18** | **Wenn ein externer DL zum Einsatz kommt** ☐ ja ☐ nein | Eine Remote-Administration der Firewall |  |
+| **04.19** | Werden die Zugriffsprotokolle (z. B. Anmeldungen  ☐ ja, über eine Security Information and Event  nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
 | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** | **SCHNITTSTELLE ** ☐ ☐ |
 | **04.15** | **Wenn 0** ☐ ☐ ☐ Zugänge müssen bis zur manuellen  ☐ |  | **04.16** |
-|  | ☐  nein  ☐ Bei vorhandenem C5 Testat: |  | **04.17** |
-|  | ☐  Externer Dienstleister ☐ |  | **04.18** |
+|  | ☐ nein ☐ Bei vorhandenem C5 Testat: |  | **04.17** |
+|  | ☐ Externer Dienstleister ☐ |  | **04.18** |
 |  | nein | Eine Remote-Administration der Firewall |  |
-| **04.19** | Werden die Zugriffsprotokolle (z. B. Anmeldungen   ja, über eine Security Information and Event   nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
+| **04.19** | Werden die Zugriffsprotokolle (z. B. Anmeldungen  ja, über eine Security Information and Event  nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
 |  |  |  | **04.19 ** Werden die Zugriffsprotokolle (z. B. Anmeldungen |
-| **04.15** | **Wenn  4.14 ja:**  ja, über eine Security Information and Event | Die Zugänge bleiben für bitte Anzahl angeben |  |
+| **04.15** | **Wenn  4.14 ja:** ja, über eine Security Information and Event | Die Zugänge bleiben für bitte Anzahl angeben |  |
 |  | **04.16** |  |  |
 | Firewalls sind zwingend erforderlich. | nein, eine Auswertung wäre aber im Bedarfsfall |  | eigene IT |
 | **ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG ERLÄUTERUNGEN ODER DARSTELLUNG** | **04.18  ID** |  |  |
-| **04.15** | **Wenn 04.14 ja:** ☐ Die Zugänge bleiben bis zur manuellen  ☐ Die Zugänge bleiben für bitte Anzahl angeben | Zugänge müssen bis zur manuellen |  |
-| **04.16** | Werden Firewalls eingesetzt?   ☐ ja  ☐ nein | Firewalls sind zwingend erforderlich. | Bei vorhandenem C5 Testat: |
-| **04.17** | Wer administriert die Firewall des  ☐ eigene IT  ☐ Externer Dienstleister |  |  |
-| **04.18** | **Wenn ein externer DL zum Einsatz kommt** ☐ ja  ☐ nein | Eine Remote-Administration der Firewall |  |
-| **04.19 ** | Werden die Zugriffsprotokolle (z. B. Anmeldungen  ☐ ja, über eine Security Information and Event  ☐ nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
+| **04.15** | **Wenn 04.14 ja:** ☐ Die Zugänge bleiben bis zur manuellen ☐ Die Zugänge bleiben für bitte Anzahl angeben | Zugänge müssen bis zur manuellen |  |
+| **04.16** | Werden Firewalls eingesetzt?  ☐ ja ☐ nein | Firewalls sind zwingend erforderlich. | Bei vorhandenem C5 Testat: |
+| **04.17** | Wer administriert die Firewall des  ☐ eigene IT ☐ Externer Dienstleister |  |  |
+| **04.18** | **Wenn ein externer DL zum Einsatz kommt** ☐ ja ☐ nein | Eine Remote-Administration der Firewall |  |
+| **04.19** | Werden die Zugriffsprotokolle (z. B. Anmeldungen  ☐ ja, über eine Security Information and Event ☐ nein, eine Auswertung wäre aber im Bedarfsfall |  |  |
 |  | Externer Dienstleister |  | |
 | **04.15** | **Wenn  4.14 ja: 04.18** |  |  |
-|  | **Wenn ein externer DL zum Einsatz kommt**  ja  Firewalls sind zwingend erforderlich. **04.17** |  | Wer administriert die Firewall des |
+|  | **Wenn ein externer DL zum Einsatz kommt** ja Firewalls sind zwingend erforderlich. **04.17** |  | Wer administriert die Firewall des |
 
-NUTZERS DER  Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? Aufhebung gesperrt. Minuten gesperrt. Auftragnehmers? : Kann sich dieser ohne Aufsicht durch Ihre IT auf ein System aufschalten?  und Firewall Logs) regelmäßig ausgewertet? Management-Lösung (SIEM) möglich Aufhebung gesperrt bleiben. ohne Beaufsichtigung durch eigenes Personal ist nicht zulässig, es sei denn, es handelt sich um den beauftragten IT- Dienstleister. Abgedeckt über COS-03
+Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? Aufhebung gesperrt. Minuten gesperrt. Aufhebung gesperrt bleiben. Abgedeckt über COS-03 Auftragnehmers? : Kann sich dieser ohne Aufsicht durch Ihre IT auf ein System aufschalten?  ohne Beaufsichtigung durch eigenes Personal ist nicht zulässig, es sei denn, es handelt sich um den beauftragten IT- Dienstleister. und Firewall Logs) regelmäßig ausgewertet? Management-Lösung (SIEM) möglich NUTZERS DER
 
 ---
 
@@ -571,18 +571,18 @@ NUTZERS DER internen und externen Assets und Informationen auf deren zulässigen
 
 | ID | FRAGE | MINDESTANFORDERUNG | ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE |
 |---|---|---|---|
-| **05.01** | Erfolgt eine Klassifizierung und ggf. Kennzeichnung  ☐ ja  ☐ nein | Sensible Informationen müssen | Bei vorhandenem C5 Testat: Abgedeckt über AM |
-| **05.02** | Wie werden nicht mehr benötigte Papier-Unterlagen  ☐ Altpapier / Restmüll  ☐ Es stehen hierfür Schredder zur Verfügung, deren  ☐ Es sind verschlossene Datentonnen aufgestellt, die  ☐ Sonstiges: bitte angeben | Es ist eine datenschutzkonforme sichere |  |
-| **05.03** | Wie werden nicht mehr benötigte Datenträger (USB ☐ Physische Zerstörung durch eigene IT.  ☐ Physische Zerstörung durch externen Dienstleister. ☐ Löschen der Daten durch bitte Anzahl angeben  ☐ Sonstiges: bitte angeben | Es ist eine sichere Vernichtungsart zu | Bei vorhandenem C5 Testat: Abgedeckt über AM |
-| **05.04** | Dürfen im Unternehmen mobile Datenträger  ☐ ja  ☐ nein |  |  |
+| **05.01** | Erfolgt eine Klassifizierung und ggf. Kennzeichnung  ☐ ja ☐ nein | Sensible Informationen müssen | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+| **05.02** | Wie werden nicht mehr benötigte Papier-Unterlagen  ☐ Altpapier / Restmüll ☐ Es stehen hierfür Schredder zur Verfügung, deren ☐ Es sind verschlossene Datentonnen aufgestellt, die ☐ Sonstiges: bitte angeben | Es ist eine datenschutzkonforme sichere |  |
+| **05.03** | Wie werden nicht mehr benötigte Datenträger (USB ☐ Physische Zerstörung durch eigene IT. ☐ Physische Zerstörung durch externen Dienstleister. ☐ Löschen der Daten durch bitte Anzahl angeben ☐ Sonstiges: bitte angeben | Es ist eine sichere Vernichtungsart zu | Bei vorhandenem C5 Testat: Abgedeckt über AM |
+| **05.04** | Dürfen im Unternehmen mobile Datenträger  ☐ ja ☐ nein |  |  |
 | Es ist eine sichere Vernichtungsart zu | Bei vorhandenem C5 Testat: Abgedeckt über AM |  | **05.04** |
-|  | Dürfen im Unternehmen mobile Datenträger   ja  Sensible Informationen müssen |  |  |
-|  | Es sind verschlossene Datentonnen aufgestellt, die   Sonstiges: bitte angeben  nein |  | **05.03** |
-|  | Physische Zerstörung durch externen Dienstleister.    Löschen der Daten durch bitte Anzahl angeben |  | Sonstiges: bitte angeben |
+|  | Dürfen im Unternehmen mobile Datenträger  ja Sensible Informationen müssen |  |  |
+|  | Es sind verschlossene Datentonnen aufgestellt, die Sonstiges: bitte angeben nein |  | **05.03** |
+|  | Physische Zerstörung durch externen Dienstleister.  Löschen der Daten durch bitte Anzahl angeben |  | Sonstiges: bitte angeben |
 |  |  | Es stehen hierfür Schredder zur Verfügung, deren | |
 |  | Sonstiges: bitte angeben Sensible Informationen müssen **05.02** |  | Wie werden nicht mehr benötigte Papier-Unterlagen |
 
-NUTZERS DER sensibler Informationen? mit personenbezogenen Daten (bspw. Ausdrucke / Akten / Schriftwechsel) entsorgt? Nutzung angewiesen ist. von einem Entsorgungsdienstleister zur datenschutzkonformen Vernichtung abgeholt werden. Sticks, Festplatten), auf denen personenbezogene Daten gespeichert sind, entsorgt? Überschreibungen verwendet werden ? (z. B. USB-Sticks) klassifiziert und ggf. gekennzeichnet werden, um den korrekten Umgang mit ihnen zu gewährleisten. Vernichtungsart zu wählen. wählen. -06 -04
+NUTZERS DER sensibler Informationen? mit personenbezogenen Daten (bspw. Ausdrucke / Akten / Schriftwechsel) entsorgt? Nutzung angewiesen ist. von einem Entsorgungsdienstleister zur datenschutzkonformen Vernichtung abgeholt werden. Sticks, Festplatten), auf denen personenbezogene Daten gespeichert sind, entsorgt? Überschreibungen verwendet werden ? (z. B. USB-Sticks) klassifiziert und ggf. gekennzeichnet werden, um den korrekten Umgang mit ihnen zu gewährleisten. Vernichtungsart zu wählen. -06 -04 wählen.
 
 ---
 
@@ -999,19 +999,19 @@ Bei vorhandenem C5 Testat: Abgedeckt über OPS-11
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  | **Sind die dokumentierten Maß-nahmen aus Ihrer **  geeignet   begrenzt geeignet |  | ungeeignet |
+|  | **Sind die dokumentierten Maß-nahmen aus Ihrer **  geeignet  begrenzt geeignet |  | ungeeignet |
 | Begründung: | Es muss bestätigt werden, dass die **FRAGE  GLEICHWERTIGER MAßNAHMEN DES** | ☐ | ☐ |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  | **Sind die dokumentierten Maß-nahmen aus Ihrer **  geeignet   begrenzt geeignet |  | ungeeignet |
+|  | **Sind die dokumentierten Maß-nahmen aus Ihrer **  geeignet  begrenzt geeignet |  | ungeeignet |
 | Begründung: | Es muss bestätigt werden, dass die **FRAGE** | **ERLÄUTERUNGEN ODER DARSTELLUNG** | **GLEICHWERTIGER MAßNAHMEN DES** |
 | ☐ |  |  |  |
 |  |  |  |  |
 | **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  SCHNITTSTELLE** |
-|  | **Sind die dokumentierten Maß-nahmen aus Ihrer ** ☐ geeignet  ☐ begrenzt geeignet ☐ ungeeignet    Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
+|  | **Sind die dokumentierten Maß-nahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
 
 NUTZERS DER Sicht unter Berücksichtigung des Stands der Technik, der Implementierungs-kosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
 

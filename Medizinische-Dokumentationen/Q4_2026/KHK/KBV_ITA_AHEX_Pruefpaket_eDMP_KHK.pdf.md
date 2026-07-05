@@ -24,34 +24,34 @@ INHALT
 | 1.2 Zertifizierungsablauf | 6 |
 | 1.3 Zertifizierungsportal | 7 |
 | 1.4 Zertifizierungsdokumente | 7 |
-| 1.5 Prüfunterlagen | 7 |
-| 1.6 Prüfvorgaben | 9 |
+| 1.5 Prü funterlagen | 7 |
+| 1.6 Prü fvorgaben | 9 |
 | 1.6.1 Schnittstellenversionen | 9 |
 | 1.6.2 Datumseingaben | 9 |
-| 1.6.3 Prüfstammdaten | 9 |
+| 1.6.3 Prü fstammdaten | 9 |
 | 1.6.4 Versichertendaten | 9 |
 | 1.6.5 Praxisdaten / Arztstempel | 10 |
 | 1.6.6 Krankenhausdaten | 11 |
-| 1.6.7 Prüfnummer | 11 |
+| 1.6.7 Prü fnummer | 11 |
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 11 |
-| 1.6.9 Auflistung der Prüffälle | 12 |
+| 1.6.9 Auflistung der Prü ffä lle | 12 |
 
-| 2 | PRÜFFÄLLE |  | 13 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 13 |
-| 2.1.1 |  | Prüffall 7511 | 13 |
-| 2.1.2 |  | Prüffall 7512 | 15 |
-| 2.1.3 |  | Prüffall 6513 | 17 |
-| 2.2 Prüffall |  | Systemreaktion | 22 |
-| 2.2.1 |  | Prüffall 7514 | 22 |
-| 2.3 | Weitere | Prüffälle zum Anforderungskatalog | 25 |
-| 2.3.1 |  | Prüffall 7530 | 25 |
-| 2.3.2 |  | Prüffall 7540 | 26 |
+| 2 PRÜ | FFÄ LLE |  |  | 13 |
+|---|---|---|---|---|
+| 2.1 Prü | ffä lle |  | Dokumentation | 13 |
+| 2.1.1 |  | Prü ffall | 7511 | 13 |
+| 2.1.2 |  | Prü ffall | 7512 | 15 |
+| 2.1.3 |  | Prü ffall | 6513 | 17 |
+| 2.2 Prü | ffall |  | Systemreaktion | 22 |
+| 2.2.1 |  | Prü ffall | 7514 | 22 |
+| 2.3 Weitere | | Prü ffä | lle zum Anforderungskatalog | 25 |
+| 2.3.1 |  | Prü ffall | 7530 | 25 |
+| 2.3.2 |  | Prü ffall | 7540 | 26 |
 
 | 3 |  | TESTDATENVALIDIERUNG | 27 |
 |---|---|---|---|
-| 3.1 | Prüffall | Testdatenvalidierung | 28 |
-|  | 3.1.1 | Prüffall TDV7518 | 28 |
+| 3.1 | Prü ffall | Testdatenvalidierung | 28 |
+|  | 3.1.1 | Prü ffall TDV7518 | 28 |
 
 **4** **ANHANG**
 
@@ -63,18 +63,18 @@ INHALT
 
 **31**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall Systemreaktion Weitere Prüffälle zum Anforderungskatalog Prüffall Testdatenvalidierung 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 7511 Prüffall 7512 Prüffall 6513 Prüffall Systemreaktion Prüffall 7514 Weitere Prüffälle zum Anforderungskatalog Prüffall 7530 Prüffall 7540 Prüffall Testdatenvalidierung Prüffall TDV7518 
 
 
 ---
 
 |  |  | ABBILDUNGSVERZEICHNIS |  |
 |---|---|---|---|
-| Abbildung | 1: | Exemplarische Struktur des | zip-Archives für die Zertifizierung |
-| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prüfunterlagen |
+| Abbildung | 1: | Exemplarische Struktur des | zip-Archives fü r d ie Z ertifiz ie ru ng |
+| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prü fu nte rla gen |
 | Abbildung | 3: | Testdatenvalidierung |  |
 | Abbildung | 4: | Exemplarische Verzeichnisstruktur | für die Testdatenvalidierung ohne Prüffall TDV7518 |
-| Seite 3 von | 32 / KBV / | Pruefpaket eDMP-KHK / Version: | 1.21 / 31. März 2026 |
+| Seite 3 von | 32 / KBV / | Pruefpaket eDMP-KHK / Version: | 1.21 / 31. Mä rz 2 026 |
 
 8
 
@@ -84,7 +84,7 @@ Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall Sy
 
 27
 
-Abbildung 1: Exemplarische Struktur des zip-Archives  für die Zertifizierung Abbildung 2: Exemplarische Struktur der Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7518
+Abbildung 1: Exemplarische Struktur des zip-Archives  für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7518
 
 
 ---

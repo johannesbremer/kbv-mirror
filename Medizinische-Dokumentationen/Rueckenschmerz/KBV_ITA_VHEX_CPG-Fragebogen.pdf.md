@@ -30,7 +30,7 @@ und *10 = stärkster vorstellbarer Schmerz*
 
 [2] [3]
 
-#### in den letzten 3 Monaten
+**in den letzten 3 Monaten**
 
 [4] [5]
 
@@ -38,7 +38,7 @@ Kein
 
 Schmerz
 
-#### An wie vielen Tagen konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen
+An wie vielen Tagen konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen
 
 **4.**  nicht Ihren üblichen Aktivitäten nachgehen (z.B. Arbeit, Schule, Haushalt)?
 

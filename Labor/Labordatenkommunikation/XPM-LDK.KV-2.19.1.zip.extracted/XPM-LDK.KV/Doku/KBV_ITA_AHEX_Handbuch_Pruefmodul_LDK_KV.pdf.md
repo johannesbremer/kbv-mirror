@@ -522,15 +522,11 @@ Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter
 
 ## 4.2 Starten des Prüfmoduls aus einem Java-Programm
 
-### Das LDK-Prüfmodul ist eine Java-Applikation und kann von einem anderen Java-
-
-Programm aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse
+Das LDK-Prüfmodul ist eine Java-Applikation und kann von einem anderen Java-Programm aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse
 
 ### de.kbv.pruefmodul.core.extern.XPMEinstieg implementiert. Diese Klasse ist im Java-Archiv
 
-xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu
-
-### die Methode ‘main’ etwas genauer an.
+xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu  die Methode ‘main’ etwas genauer an.
 
 ### Beispielaufruf:
 

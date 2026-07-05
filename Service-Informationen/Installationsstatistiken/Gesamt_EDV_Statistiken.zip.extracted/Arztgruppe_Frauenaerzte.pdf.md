@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -16,9 +16,9 @@
 
 462 **medatixx**
 
-210 **Medical Office**
-
 457 **tomedo**
+
+210 **Medical Office**
 
 203 **ALBIS**
 
@@ -34,83 +34,83 @@
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1.706
+CompuGroup Medical Deutschland AG 1.670
 
-1.740
+1.706
 
--34
+-36
 
-CompuGroup Medical Deutschland AG 770
+CompuGroup Medical Deutschland AG 751
 
-786
+770
 
--16
+-19
 
-Dedalus HealthCare GmbH 559
+Dedalus HealthCare GmbH 569
 
 559
 
-0
+10
 
-medatixx GmbH & Co. KG 482
+medatixx GmbH & Co. KG 471
 
-496
+482
 
--14
+-11
 
-medatixx GmbH & Co. KG 399
+medatixx GmbH & Co. KG 408
 
-381
+399
 
-18
+9
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 363 362
+Zollsoft GmbH 397
 
-1
+357
 
-Zollsoft GmbH 357
+40
 
-345
+INDAMED EDV-Entwicklung und Vertrieb GmbH 368 363
 
-12
+5
 
-CompuGroup Medical Deutschland AG 315
+CompuGroup Medical Deutschland AG 306
 
-314
+315
 
-1
+-9
 
-medatixx GmbH & Co. KG 311
+medatixx GmbH & Co. KG 303
 
-319
+311
 
 -8
 
-CompuGroup Medical Deutschland AG 287
+CompuGroup Medical Deutschland AG 277
 
-290
+287
 
--3
+-10
 
-T2med GmbH & Co. KG 244
+T2med GmbH & Co. KG 256
 
-236
+244
 
-8
+12
 
-CGM Clinical Europe GmbH 186
+CGM Clinical Europe GmbH 192
 
-187
+186
 
--1
+6
 
-Frey ADV GmbH 160
+Frey ADV GmbH 162
 
-162
+160
 
--2
+2
 
 1
 
@@ -125,9 +125,9 @@ Frey ADV GmbH 160
 
 086 **DURIA**
 
-135 **EL - Elaphe Longissima**
-
 266 **x.comfort**
+
+135 **EL - Elaphe Longissima**
 
 083 **PegaMed**
 
@@ -149,46 +149,48 @@ PEGA Elektronik GmbH
 
 MEDYS GmbH 2
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025**
+
+150
+
+141
+
+133
+
+132
+
+130
+
+94
+
+86
+
+**Installationen 2.Q.2025 Differenz**
 
 148
 
-157
-
--9
+2
 
 139
 
-136
-
-3
+2
 
 133
-
-133
-
-0
-
-132
-
-132
 
 0
 
 130
 
-135
+2
 
--5
-
-94
-
-96
+132
 
 -2
 
+94
+
+0
+
 85
 
-89
-
--4
+1

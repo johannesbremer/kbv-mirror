@@ -69,9 +69,9 @@ Ursache *
 
 **B.** **Weitere rehabilitationsrelevante Diagnosen**
 
-### II. Hinweis/Anfrage an die Krankenkasse
+II. Hinweis/Anfrage an die Krankenkasse
 
-### III. Im Original zurück an die Vertragsärztin / den Vertragsarzt
+III. Im Original zurück an die Vertragsärztin / den Vertragsarzt
 
 **ggf. weitere Anmerkungen**
 

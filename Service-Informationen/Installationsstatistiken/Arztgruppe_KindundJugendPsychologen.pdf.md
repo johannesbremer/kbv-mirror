@@ -2,83 +2,83 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
 295 **Epikur**
 
-Epikur Software GmbH & Co. KG 114
+Epikur Software GmbH & Co. KG 115
 
-113
+114
 
 1
 
 112 **TURBOMED**
 
-CompuGroup Medical Deutschland AG 91
+CompuGroup Medical Deutschland AG 88
 
-94
+91
 
 -3
 
 462 **medatixx**
 
-medatixx GmbH & Co. KG 72
+medatixx GmbH & Co. KG 71
 
-67
+72
 
-5
+-1
 
 299 **SMARTY**
 
-New Media Company GmbH & Co. KG 62
+New Media Company GmbH & Co. KG 61
 
 62
 
-0
+-1
 
 298 **Elefant**
 
-HASOMED GmbH 60
+HASOMED GmbH 61
 
-61
+60
 
--1
+1
 
 348 **psyprax**
 
 psyprax GmbH 55
 
-57
+55
 
--2
-
-216 **x.isynet**
-
-medatixx GmbH & Co. KG 46
-
-50
-
--4
+0
 
 243 **x.concept**
 
 medatixx GmbH & Co. KG 46
 
-48
+46
 
--2
+0
 
 457 **tomedo**
 
-Zollsoft GmbH 43
+Zollsoft GmbH 46
 
-44
+43
+
+3
+
+216 **x.isynet**
+
+medatixx GmbH & Co. KG 45
+
+46
 
 -1
 
@@ -86,21 +86,21 @@ Zollsoft GmbH 43
 
 CompuGroup Medical Deutschland AG 35
 
-34
+35
 
-1
+0
 
 210 **Medical Office**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 32 29
+INDAMED EDV-Entwicklung und Vertrieb GmbH 32 32
 
-3
+0
 
 280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 27
 
-28
+27
 
--1
+0
 
 1
 
@@ -111,11 +111,11 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 32 29
 
 244 **QUINCY WIN**
 
+498 **T2med**
+
 135 **EL - Elaphe Longissim**
 
 252 **CGM M1 PRO**
-
-498 **T2med**
 
 261 **S3-Win**
 
@@ -129,13 +129,13 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH 32 29
 
 Frey ADV GmbH
 
+T2med GmbH & Co. KG
+
 **a**
 
 medatixx GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
-
-T2med GmbH & Co. KG
 
 S3 Praxiscomputer GmbH / Maximilian Flender
 
@@ -145,31 +145,31 @@ PRO MEDISOFT AG
 
 Data-AL GmbH
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+
+26
 
 27
 
-28
+-1
+
+15
+
+13
+
+2
+
+13
+
+14
 
 -1
 
-14
+12
 
 14
 
-0
-
-14
-
-14
-
-0
-
-13
-
-13
-
-0
+-2
 
 10
 
@@ -185,9 +185,9 @@ Data-AL GmbH
 
 8
 
-9
+8
 
--1
+0
 
 8
 

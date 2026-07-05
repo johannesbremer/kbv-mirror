@@ -327,7 +327,7 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 |  | 0..* | -hat1 | -enhält -wird abgerechnet |  |
 |---|---|---|---|---|
 |  |  | **Begegnung/HausbesuchAbrechnungBehandelnder** |  |  |
-|  | -wird durchgeführt -führt |  | 1..* 0..* |  |
+|  | -wird durchgefü h rt -fü h rt |  | 1..* 0..* |  |
 
 0..*
 
@@ -347,7 +347,8 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 -findet statt
 
-Abbildung 2 Ebene 1 des fachlichen Informationsmodells
+Abbildung 2 Ebene 1 des fachlichen Informationsmodells -wird durchgeführt -führt
+
 
 ---
 
@@ -407,7 +408,7 @@ Begegnung :: **Behandlung_im_Auf** **trag _Überweisung (ServiceRequest )**
 
 |  | -Medikament |  |
 |---|---|---|
-| Begegnung **::Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-BasisBlutdruck (Obse rva tion )**-Patient | **), Koerpertemperatur,(Condition)Hueftumfang,Bauchumfang,Raucherstatus,Puls,** | Begegnung **::Dia gnose**-Patient |
+| **Begegnung::Koerpergewicht(KBV-Basis K),oerpergroesse (KBV-BasisBlutdruck (Observation)**-Patient | **K),oerpertemperatur,::Diagnose(Condition)Hueftumfang,Bauchumfang,Raucherstatus,Puls,** | Begegnung-Patient |
 
 Begegnung :: **Allergie(AllergyIntolerance)**
 
@@ -733,7 +734,7 @@ Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist d
 
 Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (Instanzen) im XML-Format  erzeugt. Die Beziehungen zu den anderen Instanzen werden in den Dateien durch URLs gehalten.
 
-Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Begegnung :: gnose (Condition) Hueftumfang,Bauchumfang,Raucherstatus,Puls ,
+Begegnung :: Koerpergewicht(KBV-Basis ), Koerpergroesse (KBV-Basis ), Koerpertemperatur, Begegnung :: gnose (Condition) Hueftumfang,Bauchumfang,Raucherstatus,Puls , tion )
 
 
 ---

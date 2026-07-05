@@ -407,7 +407,9 @@ gewünscht, wird die Quote
 
 in die Berechnung miteinbeziehen, welche für seine Fachgruppe definiert sind. Wenn von der
 
-### Landesebene keine Fachgruppennummer(n) und/oder der Fachgruppenintervall(e) definiert  sind, dann ist die Quote auf alle Fachgruppen anzuwenden.
+### Landesebene keine Fachgruppennummer(n) und/oder der Fachgruppenintervall(e) definiert
+
+sind, dann ist die Quote auf alle Fachgruppen anzuwenden.
 
 
 ---

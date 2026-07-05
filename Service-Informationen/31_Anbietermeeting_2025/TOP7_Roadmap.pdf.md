@@ -11,21 +11,16 @@
 ## FHIR-Profil-Änderungen zum 1. Oktober 2025
 
 - Zum 1. Oktober 2025 treten die neuen FHIR-Profilversionen für die folgenden Verfahren in Kraft:
-
-## - eRezept in der Version 1.3.2
-
+- eRezept in der Version 1.3.2
 - Bitte beachten Sie, dass die Nutzung des eRezeptes für Versicherte der Sonstigen
 
 ## - Kostenträger, welche an der TI teilnehmen, insbesondere der
 
 BPol erst ab dem 1. Januar  2026 ermöglicht werden darf.
 
-## - eAU in der Version 1.2.0
-
+- eAU in der Version 1.2.0
 - Die Nutzung von eAUs für Versicherte der Sonstigen Kostenträger, welche an der TI  teilnehmen, insbesondere der Bpol soll ab dem 1. Oktober 2025 ermöglicht werden.
-
-## - eVDGA in der Version 1.2.0
-
+- eVDGA in der Version 1.2.0
 - **FHIR**
 
 
@@ -41,7 +36,7 @@ BPol erst ab dem 1. Januar  2026 ermöglicht werden darf.
 
 -Krankheit im Kreuz-Stern-System (G30.- /F00.-*)
 
-## - Kodierung üblicherweise stationär zu behandelnder Diagnosen mit dem Zusatzkennzeichen „G“:
+- Kodierung üblicherweise stationär zu behandelnder Diagnosen mit dem Zusatzkennzeichen „G“:
 
 ## - Erweiterung im Bereich „Sepsis“ (R57.2)
 
@@ -96,16 +91,14 @@ sowie für Komplikationen nach
 | eBTM und eT-Rezept | in der Finalisierung, Bereitstellung | Q4/2026 |
 | VoS-Schnittstelle | Im Oktober startet die | Q4/2026 |
 
-Kinder Ende September 2025 geplant Kommentierungsphase Q1/2026 eine Pilotierung- **ROADMAP**
+Kinder Ende September 2025 geplant Kommentierungsphase Q1/2026 eine Pilotierung    - **ROADMAP**
 
 
 ---
 
 ## Zertifizierungsverfahren eVDGA
 
-- Zum 1. Januar 2026 sind alle Softwarehersteller, welche eine Zulassung für das Verfahren VDGA
-
-## - besitzen, aufgefordert die Funktionalitäten der elektronischen Verordnung von digitalen
+- Zum 1. Januar 2026 sind alle Softwarehersteller, welche eine Zulassung für das Verfahren VDGA  besitzen, aufgefordert die Funktionalitäten der elektronischen Verordnung von digitalen
 
 ## - Gesundheitsanwendungen (
 
@@ -121,9 +114,7 @@ eVGDA) umzusetzen.
 [](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
 ```
 
-## - Alle nicht für das Verfahren VDGA zertifizierte Softwaresysteme sind dazu aufgefordert zu prüfen,
-
-## - ob eine Umsetzung des Verordnungsverfahrens für Ihre Kunden notwendig ist.
+- Alle nicht für das Verfahren VDGA zertifizierte Softwaresysteme sind dazu aufgefordert zu prüfen,  ob eine Umsetzung des Verordnungsverfahrens für Ihre Kunden notwendig ist.
 
 ## - Der verpflichtende Einsatz der elektronischen Verordnung für Praxen wird vom BMG verkündet.
 
@@ -138,11 +129,7 @@ eVGDA) umzusetzen.
 
 ## - Aufgrund der anstehenden Einführung des
 
-eT- und eBTM-Rezeptes im Jahr 2026 hat sich die KBV
-
-## - dazu entschieden eine weitere Anpassung des
-
-eRezeptes vorzunehmen.
+eT- und eBTM-Rezeptes im Jahr 2026 hat sich die KBV  dazu entschieden eine weitere Anpassung des eRezeptes vorzunehmen.
 
 ## - Aufnahme von T-Rezept spezifischen Verordnungsinformationen
 
@@ -150,7 +137,7 @@ eRezeptes vorzunehmen.
 
 ## - Weitere Verbesserungen der eRezept Modellierung
 
-## - Die Nutzung der eT- und eBTM-Funktionalitäten ist für das vierte Quartal 2026 geplant:
+- Die Nutzung der eT- und eBTM-Funktionalitäten ist für das vierte Quartal 2026 geplant:
 
 Quelle: gematik GmbH
 
@@ -158,7 +145,7 @@ Quelle: gematik GmbH
 
 ## - [Im Rahmen der durchgeführten Kommentierung hat die KBV eine Vielzahl von Kommentaren](https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf)
 
-## - erhalten, welche zu Ende September 2025 beantwortet werden.
+erhalten, welche zu Ende September 2025 beantwortet werden.
 
 - **EREZEPT V1.4.0**
 
@@ -171,7 +158,7 @@ Quelle: gematik GmbH
 
 # - zu ermöglich.
 
-# - Aufgrund dieser gesetzlichen Vorgabe hat die gematik gemeinsam mit den betroffenen
+- Aufgrund dieser gesetzlichen Vorgabe hat die gematik gemeinsam mit den betroffenen
 
 # - Akteuren nun die Erarbeitung des digitalen Verordnungsverfahrens gestartet.
 
@@ -184,11 +171,9 @@ Quelle: gematik GmbH
 
 ## - Im Rahmen der Einführung der
 
-eAU wurde von verschiedenen Bereichen der Wunsch geäußert
+eAU wurde von verschiedenen Bereichen der Wunsch geäußert  digitale Lösungen für das Antragsverfahren von psychotherapeutischen Praxen zu etablieren
 
-## - digitale Lösungen für das Antragsverfahren von psychotherapeutischen Praxen zu etablieren
-
-## - Die gematik hat darauf gemeinsam mit verschiedenen Akteuren des Gesundheitswesens zu
+- Die gematik hat darauf gemeinsam mit verschiedenen Akteuren des Gesundheitswesens zu
 
 ## - [Anfang 2025 das Impulspapier „](https://www.gematik.de/newsroom/news-detail/aktuelles-impulspapier-fuer-digitalen-antrag-auf-ambulante-psychotherapie)
 
@@ -198,7 +183,7 @@ eAU wurde von verschiedenen Bereichen der Wunsch geäußert
 
 [“ erarbeitet](https://www.gematik.de/newsroom/news-detail/aktuelles-impulspapier-fuer-digitalen-antrag-auf-ambulante-psychotherapie)
 
-## - [Die KBV hat nun gemeinsam mit dem GKV-SV die konkrete Ausgestaltung eines digitalen](https://www.gematik.de/newsroom/news-detail/aktuelles-impulspapier-fuer-digitalen-antrag-auf-ambulante-psychotherapie)
+- [Die KBV hat nun gemeinsam mit dem GKV-SV die konkrete Ausgestaltung eines digitalen](https://www.gematik.de/newsroom/news-detail/aktuelles-impulspapier-fuer-digitalen-antrag-auf-ambulante-psychotherapie)
 
 ## - Antragsverfahrens Psychotherapie gestartet.
 
@@ -212,8 +197,7 @@ eAU wurde von verschiedenen Bereichen der Wunsch geäußert
 
 ## - Pilotierung/Erprobung des Verfahrens geplant.
 
-## - Derzeit planen wir die Pilotierung des Verfahrens für 2027.
-
+- Derzeit planen wir die Pilotierung des Verfahrens für 2027.
 - **EANTPSYCH**
 
 
@@ -225,11 +209,9 @@ eAU wurde von verschiedenen Bereichen der Wunsch geäußert
 
 ## - Ende August 2025 hat das Referat 126 „
 
-Implantateregister Deutschland“ des Bundesministeriums
+Implantateregister Deutschland“ des Bundesministeriums  [https://xml.ir-](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
 
-## - [https://xml.ir-](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
-
-## - [für Gesundheit die neue verbindliche Version 4.1.0 der technischen Spezifikation (](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
+- [für Gesundheit die neue verbindliche Version 4.1.0 der technischen Spezifikation (](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
 
 ## - [d.de/rst/schema/verbindlich/V4.1.0/](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
 
@@ -243,9 +225,7 @@ implantatbezogenen Maßnahmen mit
 
 Aortenklappenprothesen
 
-## - Die Spezifikation richtet sich unabhängig vom Versorgungssektor an alle meldepflichtigen
-
-Gesundheitseinrichtungen und deren Softwarehersteller. Sie ist für das Meldejahr 2026
+- Die Spezifikation richtet sich unabhängig vom Versorgungssektor an alle meldepflichtigen  Gesundheitseinrichtungen und deren Softwarehersteller. Sie ist für das Meldejahr 2026
 
 ## - verbindlich.
 
@@ -259,18 +239,14 @@ Implantateregister
 
 ## - [deutschland.html](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland.html)
 
-## - [Bei Fragen wenden Sie sich gerne an den unter](mailto:support-implantateregister@d-trust.net)
-
-[support-implantateregister@d](mailto:support-implantateregister@d-trust.net)[-trust.net](mailto:support-implantateregister@d-trust.net)[oder](mailto:support-implantateregister@d-trust.net)
-
-## - telefonisch an +49 030 / 2598 -4316
+- [Bei Fragen wenden Sie sich gerne an den unter](mailto:support-implantateregister@d-trust.net)[support-implantateregister@d](mailto:support-implantateregister@d-trust.net)[-trust.net](mailto:support-implantateregister@d-trust.net)[oder](mailto:support-implantateregister@d-trust.net) telefonisch an +49 030 / 2598 -4316
 
 
 ---
 
 ## Abschaltung SNK zum Jahresende 2028
 
-## - Das derzeit bestehende sichere Netz der KVen (SNK) soll bis Ende des Jahres 2028 abgeschaltet
+- Das derzeit bestehende sichere Netz der KVen (SNK) soll bis Ende des Jahres 2028 abgeschaltet
 
 ## - werden.
 
@@ -291,5 +267,7 @@ Implantateregister
 
 ---
 
-> [OCR REQUIRED — page 12]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+|  | VIELEN | DANK! |
+|---|---|---|
+| **ROADMAP -** | **IT IN DER VERSORGUNG** | |
+| 31. | ANBIETERMEETING DER | KBV AM 18. SEPTEMBER 2025 |

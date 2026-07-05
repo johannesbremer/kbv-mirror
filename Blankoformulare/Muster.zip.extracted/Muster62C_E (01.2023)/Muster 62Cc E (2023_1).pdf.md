@@ -52,7 +52,7 @@ aktiv
 
 Ergotherapie
 
-### Medizinische Behandlungspflege (ggf. Beiblatt nutzen)
+Medizinische Behandlungspflege (ggf. Beiblatt nutzen)
 
 ### Therapieziele
 

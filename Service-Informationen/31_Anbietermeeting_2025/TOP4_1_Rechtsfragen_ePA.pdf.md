@@ -38,9 +38,7 @@ insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 
 ## - Daten zu Anwendungsfällen nach
 
-**§ 342 Abs. 2a, 2b, 2c SGB V (**
-
-## - im semantisch und syntaktisch interoperabler Form verarbeitet werden
+**§ 342 Abs. 2a, 2b, 2c SGB V (** im semantisch und syntaktisch interoperabler Form verarbeitet werden
 
 ## - Kurzfristig: Medikationsplan, Medikationsliste, Patientenkurzakte
 
@@ -80,9 +78,7 @@ aus invasiven/chirurgischen und nicht
 
 ## - Früherkennungsuntersuchungen, Behandlungsberichte und sonstige untersuchungs
 
-- und
-
-## - behandlungsbezogene medizinische Informationen, Medikationsplan, Patientenkurzakte,
+- und  behandlungsbezogene medizinische Informationen, Medikationsplan, Patientenkurzakte,
 
 ## - eArztbriefe
 
@@ -142,15 +138,13 @@ aus invasiven/chirurgischen und nicht
 
 ## - Da sich KOB
 
--Zertifikate immer wieder ergeben werden, ist aus Sicht der KBV regelmäßig eine
+-Zertifikate immer wieder ergeben werden, ist aus Sicht der KBV regelmäßig eine  Übergangsfrist geboten, um den Grundsatz der Verhältnismäßigkeit zu wahren:
 
-## - Übergangsfrist geboten, um den Grundsatz der Verhältnismäßigkeit zu wahren:
+- Die KBV verhandelt derzeit eine Richtlinie, die die Frage der Übergangsfrist adressieren wird.
 
-## - Die KBV verhandelt derzeit eine Richtlinie, die die Frage der Übergangsfrist adressieren wird.
+## - Darüber hinaus wird das Problem der Arztgruppen, die keinen Arzt
 
-## - Darüber hinaus wird das Problem der Arztgruppen, die keinen Arzt -/Patientenkontakt haben,
-
-## - über eine KBV-RL gelöst werden.
+-/Patientenkontakt haben,  über eine KBV-RL gelöst werden.
 
 
 ---
@@ -167,7 +161,7 @@ des § 347 SGB V sehen neben dem Widerspruch des Patienten keine
 
 ## - Lösung über KBV-Richtlinie, die in bestimmten Konstellationen (Kindeswohlgefährdung,
 
-## - dringende therapeutische Gründe) eine Ausnahme von den
+dringende therapeutische Gründe) eine Ausnahme von den
 
 ## - Derzeit adressiert durch den Gesetzgeber selbst.
 

@@ -74,31 +74,26 @@ esselungssoftware der Begleitdatei krebs  eDMPs DM1 und DM2  ritis pression cken
 
 ---
 
-**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+| IT in der | Arztpraxis |  |  |
+|---|---|---|---|
+| Austausch | von XML-Daten | in der vertragsä rz tlic hen V ers org ung |  |
+| **A B** | **B I L D U N** | **G S V E R Z E I C H N I S** |  |
+| Abbildung | 1 – Beispiele | von Verzeichnisstrukturen der | Archivdateien................................... 11 |
+| Abbildung | 2 – | Hilfeausgabe von | "Info-ZIP"............................................................................ 13 |
+| Abbildung | 3 – | Grundstruktur begleitdatei............................................................................... | 18 |
+| Abbildung | 4 – | Grundstruktur empfaenger.............................................................................. | 19 |
+| Abbildung | 5 – | Grundstruktur absender.................................................................................. | 20 |
+| Abbildung | 6 – | Grundstruktur komprimierungssoftware | .......................................................... 22 |
+| Abbildung | 7 – | Grundstruktur verschluesselungssoftware | ...................................................... 23 |
+| Abbildung | 8 – | Grundstruktur archive | ..................................................................................... 24 |
+| Abbildung | 9 – | Grundstruktur verzeichnis............................................................................... | 25 |
+| Abbildung | 10 – | Grundstruktur zeitraum | ................................................................................. 26 |
+| Abbildung | 11 - | Beschriftung CD | ............................................................................................ 29 |
+| Abbildung | 12 – | Transportbegleitzettel | ................................................................................... 30 |
+|  | KBV_ITA_VGEX_XML-Schnittstellen | * Version 1.59 | Seite 5 von 31 |
 
-Abbildung 1  Beispiele von Verzeichnisstrukturen der Archivdateien ................................... 11
+Abbildung 1  Beispiele von Verzeichnisstrukturen der Archivdateien Abbildung 2  Hilfeausgabe von "Info-ZIP" Abbildung 3 ............... 18 Abbildung 4 .............. 19 Abbildung 5 .................. 20 Abbildung 6 Abbildung 7 Abbildung 8 Abbildung 9 ............... 25 Abbildung 10 Abbildung 11 - Beschriftung CD Abbildung 12 
 
-Abbildung 2  Hilfeausgabe von "Info-ZIP" ............................................................................ 13
-
-Abbildung 3  Grundstruktur begleitdatei ............................................................................... 18
-
-Abbildung 4  Grundstruktur empfaenger .............................................................................. 19
-
-Abbildung 5  Grundstruktur absender .................................................................................. 20
-
-Abbildung 6  Grundstruktur komprimierungssoftware .......................................................... 22
-
-Abbildung 7  Grundstruktur verschluesselungssoftware ...................................................... 23
-
-Abbildung 8  Grundstruktur archive ..................................................................................... 24
-
-Abbildung 9  Grundstruktur verzeichnis ............................................................................... 25
-
-Abbildung 10  Grundstruktur zeitraum ................................................................................. 26
-
-Abbildung 11 - Beschriftung CD ............................................................................................ 29
-
-Abbildung 12  Transportbegleitzettel ................................................................................... 30
 
 ---
 
@@ -479,9 +474,8 @@ Begleitdateiname für das im Abschnitt
 
 - Begleitdatei zum Datenarchiv
 
-```
 -
-```
+
 
 ---
 
@@ -1064,9 +1058,7 @@ Der Transportbegleitzettel muss die folgenden Mindestinhalte umfassen:
 -  Handschriftliches Unterschriftsdatum, handschriftliche Unterschrift des Absenders
 - Auflistung der Dateinamen in Bezug zur
 
-```
 -
-```
 
 ## 5.3 Beispiel
 

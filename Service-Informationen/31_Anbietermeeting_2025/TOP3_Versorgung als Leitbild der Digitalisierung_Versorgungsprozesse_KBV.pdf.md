@@ -55,7 +55,7 @@ Q & A
 
 ### Interoperabilität im Gesundheitswesen (KIG) verfolgt grundlegend
 
-### das Ziel, durch verbindliche Standards einen reibungslosen
+das Ziel, durch verbindliche Standards einen **reibungslosen**
 
 ### Datenfluss und ein besseres Nutzererlebnis für Mediziner:innen
 
@@ -67,8 +67,7 @@ Q & A
 
 - 1. Erste eML Empfehlung **innerhalb von 4 Monaten**
 - 2. Errichtung eines neuen Konformitätsbewertungsverfahrens
-
-### - zur Gewährleistung einer größeren Interoperabilität zwischen
+- zur Gewährleistung einer größeren Interoperabilität zwischen
 
 ### - Systemen
 
@@ -231,7 +230,7 @@ Innovationskraft
 
 **63 Praxisverwaltungssysteme**
 
-## bestehen die KOB 96%  Marktabdeckung
+bestehen die KOB 96%  Marktabdeckung
 
 
 ---
@@ -267,7 +266,9 @@ Innovationskraft
 
 ---
 
-## Von Standard zu Abrechnung  „läuft in der Praxis“ gemeinsame Aufgabe
+## Von Standard zu Abrechnung
+
+**„läuft in der Praxis“ gemeinsame Aufgabe**
 
 ## Entwickeln
 
@@ -426,12 +427,8 @@ Versorgung auf dem Land## Kostendruck
 
 ---
 
-| Was |  | haben wir |
-|---|---|---|
-|  | **bereits** | **erreicht?** |
-|  | gematik \| KBV | Anbietermeeting 18.09.2025 \| öffentlich |
+# Was haben wir  bereits erreicht?
 
-Was haben wir bereits erreicht?
 
 ---
 
@@ -597,7 +594,7 @@ Seit 29.04.25
 
 ### Die gematik nimmt zur Wahrnehmung
 
-### der Betriebsverantwortung vor allem eine
+der Betriebsverantwortung vor allem eine
 
 ### Governance Rolle ein
 
@@ -660,7 +657,11 @@ seit Jan 2022
 
 ## Primärarztversorgung
 
-## Gemeinsame Daten und digitale Prozesse  als Katalysator für diese wichtigen  Vorhaben
+## Gemeinsame Daten und digitale Prozesse
+
+**als Katalysator für diese wichtigen**
+
+## Vorhaben
 
 
 ---

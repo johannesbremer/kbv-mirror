@@ -1,10 +1,14 @@
-# VERZEICHNIS ZERTIFIZIERTER SOFTWARE FÜR DIE VERORDNUNGSSOFTWARE- SCHNITTSTELLE GEMÄß § 291D ABSATZ 1A SATZ 1 NR. 1 SGB V
+# VERZEICHNIS ZERTIFIZIERTER SOFTWARE
+
+**FÜR DIE VERORDNUNGSSOFTWARE-**
+
+# SCHNITTSTELLE GEMÄß § 291D ABSATZ 1A SATZ 1 NR. 1 SGB V
 
 ## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**27. JUNI 2026**
+**04. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -24,15 +28,13 @@
 
 **Arztpraxis Wiegand**
 
-**APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164
-
-55128 Mainz Internet: www.apw-wiegand.de
+**APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
 |  | Y/70/2407/36/078 | 30.06.2027 | B1-Schnittstelle |  |
 |---|---|---|---|---|
 |  | Y/70/2411/36/332 | 31.10.2027 | B1-Schnittstelle |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2312/36/031 30.11.2026
 
@@ -66,7 +68,7 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 |---|---|---|---|---|
 |  | Y/70/2311/36/252 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2311/36/112
 
@@ -100,7 +102,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 |---|---|---|---|---|
 |  | Y/70/2409/36/238 | 31.08.2027 | B1-Schnittstelle |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2311/36/280
 
@@ -132,7 +134,7 @@ Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Inter
 |---|---|---|---|---|
 |  | Y/70/2311/36/295 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2311/36/488 31.10.2026
 
@@ -166,7 +168,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |---|---|---|---|---|
 |  | Y/70/2408/36/034 | 31.07.2027 | B1-Schnittstelle |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2311/36/253 31.10.2026 B1-Schnittstelle
 
@@ -196,7 +198,7 @@ EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: w
 |---|---|---|---|---|
 |  | Y/70/2312/36/136 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2311/36/244 31.10.2026
 
@@ -230,7 +232,7 @@ ifap VoS ifap Service-Institut für Ärzte und Apotheker GmbH Bunsenstraße 7 82
 |---|---|---|---|---|
 |  | Y/70/2308/36/216 | 31.07.2026 | B1-Schnittstelle |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2311/36/406 31.10.2026
 
@@ -264,7 +266,7 @@ CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG Friedrich-Eber
 |---|---|---|---|---|
 |  | Y/70/2311/36/641 | 31.10.2026 | B2-Schnittstelle |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2311/36/243 31.10.2026 B1-Schnittstelle
 
@@ -290,7 +292,7 @@ medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 |---|---|---|---|---|
 |  | Y/70/2312/36/251 | 30.11.2026 | B1-Schnittstelle |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2403/36/439 28.02.2027 B1-Schnittstelle
 
@@ -316,7 +318,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |---|---|---|---|---|
 |  | Y/70/2410/36/487 | 30.09.2027 | B1-Schnittstelle |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2312/36/276 30.11.2026 B1-Schnittstelle
 
@@ -334,27 +336,31 @@ SMARTY New Media Company GmbH & Co. KG Königstraße 7 26180 Rastede Internet: w
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Schnittstellen** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-**Verordnungssoftware MediSuite**
-
-**Paul Albrechts Verlag GmbH** Hamburger Straße 6 22952 Lütjensee Internet: www.pav.de
-
 **PegaMed**
 
 **PEGA Elektronik GmbH** Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de
 
-|  | Y/70/2402/36/247 | 31.01.2027 | B1-Schnittstelle |  |
-|---|---|---|---|---|
+**PROFIMED**
+
+**PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
+
 |  | Y/70/2402/36/348 | 31.01.2027 | B1-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2311/36/456 | 31.10.2026 | B1-Schnittstelle |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
-Y/70/2307/36/744 30.06.2026 B2-Schnittstelle
+Y/70/2401/36/083 31.12.2026
 
-Y/70/2401/36/083 31.12.2026 B1-Schnittstelle
+Y/70/2402/36/247 31.01.2027
+
+B1-Schnittstelle
+
+B1-Schnittstelle
 
 Windows
 
-PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de Windows WindowsWindows
+psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
 
 
 ---
@@ -363,32 +369,48 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Schnittstellen** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-**RED medical classic**
-
-**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
 **RED Medical**
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
-|  | Y/70/2310/36/261 | 30.09.2026 | B1-Schnittstelle |  |
-|---|---|---|---|---|
-|  | Y/70/2310/36/230 | 30.09.2026 | B1-Schnittstelle |  |
+**S3-Win**
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
+**S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
-Y/70/2311/36/456 31.10.2026
+**QMED.PRAXIS**
+
+**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
+
+**principa**
+
+**SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
+
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2312/36/626 30.11.2026
 
+Y/70/2310/36/261 30.09.2026
+
+Y/70/2310/36/230 30.09.2026
+
+Y/70/2312/36/458 30.11.2026
+
 B1-Schnittstelle
 
 B1-Schnittstelle
+
+B1-Schnittstelle
+
+B1-Schnittstelle B2-Schnittstelle
 
 iOS/Android Linux Mac OS Sonstige Windows
 
-S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de Sonstige Windows WindowsiOS/Android Linux Mac OS Sonstige Windows
+Sonstige Windows
+
+Windows
+
+Linux Windows
 
 
 ---
@@ -398,55 +420,28 @@ S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Wein
 | **Kontaktdaten** | **Prüfnummer** |  | **zertifizierte Schnittstellen** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
-**principa**
-
-**SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
-
 **T2med**
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-|  | Y/70/2312/36/313 | 30.11.2026 | B1-Schnittstelle |  |
-|---|---|---|---|---|
+**Medi10**
+
+**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
+
 |  | Y/70/2406/36/672 | 31.05.2027 | B2-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2312/36/457 | 30.11.2026 | B1-Schnittstelle |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
-
-Y/70/2312/36/458 30.11.2026
+/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 04. Juli 2026
 
 Y/70/2312/36/498 30.11.2026
 
-B1-Schnittstelle B2-Schnittstelle
+Y/70/2312/36/313 30.11.2026
 
 B1-Schnittstelle
 
-Linux Windows
+B1-Schnittstelle
 
-Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de Windows WindowsiOS/Android Linux Mac OS Windows
+iOS/Android Linux Mac OS Windows
 
-
----
-
-|  | Kontaktdaten |  |
-|---|---|---|
-| **tomedo** |  |  |
-| **Zollsoft** | **GmbH** |  |
-|  | Ernst-Haeckel-Platz | 5/6 |
-| 07745 | Jena |  |
-|  | Internet: | www.zollsoft.de |
-
-/ KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 27. Juni 2026
-
-**Prüfnummer**
-
-Y/70/2312/36/457
-
-**Prüfnummer**
-
-**zertifizierte Schnittstellen** **gültig bis**
-
-30.11.2026 B1-Schnittstelle
-
-**unterstützte** **Betriebssysteme**
-
-Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.deMac OS
+data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OSWindows

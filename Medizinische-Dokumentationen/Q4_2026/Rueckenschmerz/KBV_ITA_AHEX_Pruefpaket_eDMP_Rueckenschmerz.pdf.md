@@ -17,40 +17,71 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT
 
 INHALT
 
-| 1 ALLGEMEINES | 4 |
-|---|---|
-| 1.1 Rechtsgrundlage | 4 |
-| 1.2 Zertifizierungsablauf | 4 |
-| 1.3 Zertifizierungsportal | 5 |
-| 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prüfunterlagen | 5 |
-| 1.6 Prüfvorgaben | 7 |
-| 1.6.1 Schnittstellenversionen | 7 |
-| 1.6.2 Datumseingaben | 7 |
-| 1.6.3 Prüfstammdaten | 7 |
-| 1.6.4 Versichertendaten | 8 |
-| 1.6.5 Praxisdaten/ Arztstempel | 8 |
-| 1.6.6 Krankenhausdaten | 9 |
-| 1.6.7 Prüfnummer | 9 |
-| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
-| 1.6.9 Auflistung der Prüffälle | 9 |
+| 1 | ALLGEMEINES | 4 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 4 |
+| 1.2 | Zertifizierungsablauf | 4 |
+| 1.3 | Zertifizierungsportal | 5 |
+| 1.4 | Zertifizierungsdokumente | 5 |
+| 1.5 Prü fu | nte rla gen | 5 |
+| 1.6 Prü | fvorgaben | 7 |
+| 1.6.1 | Schnittstellenversionen | 7 |
+| 1.6.2 | Datumseingaben | 7 |
+| 1.6.3 | Prü fstam mdate n | 7 |
+| 1.6.4 | Versichertendaten | 8 |
+| 1.6.5 | Praxisdaten/ Arztstempel | 8 |
+| 1.6.6 | Krankenhausdaten | 9 |
+| 1.6.7 | Prü fn um mer | 9 |
+| 1.6.8 | Stammdatei der Datenannahmestellen (SDDA) | 9 |
+| 1.6.9 | Auflistung der Prü ffä lle | 9 |
 
-| 2 | PRÜFFÄLLE |  | 10 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 10 |
-| 2.1.1 |  | Prüffall 3511 | 10 |
-| 2.1.2 |  | Prüffall 3512 | 13 |
-| 2.1.3 |  | Prüffall 3520 | 15 |
-| 2.2 Prüffall |  | Systemreaktion | 18 |
-| 2.2.1 |  | Prüffall 3514 | 18 |
-| 2.3 | Weitere | Prüffälle zum Anforderungskatalog | 22 |
-| 2.3.1 |  | Prüffall 3530 | 22 |
-| 2.3.2 |  | Prüffall 3540 | 24 |
+**2** **PRÜFFÄLLE**
 
-| 3 |  | TESTDATENVALIDIERUNG | 25 |
-|---|---|---|---|
-| 3.1 | Prüffall | Testdatenvalidierung | 26 |
-|  | 3.1.1 | Prüffall TDV3518 | 26 |
+**10**
+
+2.1 Prüffälle Dokumentation
+
+10
+
+2.1.1 Prüffall 3511
+
+10
+
+2.1.2 Prüffall 3512
+
+13
+
+2.1.3 Prüffall 3520
+
+15
+
+2.2 Prüffall Systemreaktion
+
+18
+
+2.2.1 Prüffall 3514
+
+18
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 22
+
+2.3.1 Prüffall 3530
+
+22
+
+2.3.2 Prüffall 3540
+
+24
+
+**3** **TESTDATENVALIDIERUNG**
+
+**25**
+
+3.1 Prüffall Testdatenvalidierung 26
+
+3.1.1 Prüffall TDV3518
+
+26
 
 **4** **ANHANG**
 
@@ -62,7 +93,7 @@ INHALT
 
 **30**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall Systemreaktion Weitere Prüffälle zum Anforderungskatalog Prüffall Testdatenvalidierung 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Auflistung der Prüffälle 
 
 
 ---
@@ -1054,10 +1085,14 @@ Testschlüssel Schweregrades nach Korff Dokumentationsdaten des indikationsüber
 
 ---
 
-**Ansprechpartner:**
+|  | Ansprechpartner: |  |
+|---|---|---|
+|  | Dezernat | Digitalisierung und IT |
+| IT in | der Arztpraxis |  |
+| Tel.: | 030 | 4005-2077, pruefstelle@kbv.de |
+|  | Kassenä rztlic | he B undesvere in ig ung |
+|  | Herbert-Lewin-Platz | 2, 10623 Berlin |
+|  | pruefstelle@kbv.de, | www.kbv.de |
+| Seite | 31 von 31 / | KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.03 / 31. Mä rz 2 026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

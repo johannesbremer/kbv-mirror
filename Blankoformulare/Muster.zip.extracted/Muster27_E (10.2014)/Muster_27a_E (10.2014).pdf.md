@@ -48,15 +48,17 @@
 
 **Ausstellungsdatum**
 
-#### Original bitte zusammen mit der Verordnung der Krankenkasse vorlegen
+Original bitte zusammen mit der Verordnung der Krankenkasse vorlegen
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-## Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
+## Soziotherapeutischer Betreuungsplan
 
-#### (als Anlage zur Verordnung und zur Weiterleitung an die Krankenkasse)
+**gem. § 37a SGB V** ***(als Anlage zur Verordnung und zur***
+
+#### Weiterleitung an die Krankenkasse)
 
 **IK des Leistungserbringers**
 

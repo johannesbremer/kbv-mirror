@@ -18,22 +18,22 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 INHALT
 
-| 1 ALLGEMEINES | 4 |
-|---|---|
-| 1.1 Rechtsgrundlage | 4 |
-| 1.2 Zertifizierungsablauf | 4 |
-| 1.3 Zertifizierungsportal | 5 |
-| 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prüfunterlagen | 6 |
-| 1.6 Prüfvorgaben | 7 |
-| 1.6.1 Prüfstammdaten | 7 |
-| 1.6.2 Versichertendaten | 7 |
-| 1.6.3.1 [XML_42] | 8 |
-| 1.6.3.2 [XML_34] | 8 |
-| 1.6.3.3 [XML_43] | 9 |
-| 1.6.3.4 [XML_44] | 9 |
-| 1.6.4 Praxisdaten | 10 |
-| 1.6.5 Falldarstellung | 11 |
+| 1 | ALLGEMEINES | 4 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 4 |
+| 1.2 | Zertifizierungsablauf | 4 |
+| 1.3 | Zertifizierungsportal | 5 |
+| 1.4 | Zertifizierungsdokumente | 5 |
+| 1.5 Prü fu | nte rla gen | 6 |
+| 1.6 Prü | fvorgaben | 7 |
+| 1.6.1 | Prü fstam mdate n | 7 |
+| 1.6.2 | Versichertendaten | 7 |
+| 1.6.3.1 | [XML_42] | 8 |
+| 1.6.3.2 | [XML_34] | 8 |
+| 1.6.3.3 | [XML_43] | 9 |
+| 1.6.3.4 | [XML_44] | 9 |
+| 1.6.4 | Praxisdaten | 10 |
+| 1.6.5 | Falldarstellung | 11 |
 
 **2**
 
@@ -55,7 +55,7 @@ INHALT
 
 **18**
 
-**20** **25**
+Prüfunterlagen Prüfvorgaben Prüfstammdaten **20** **25**
 
 
 ---

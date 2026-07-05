@@ -1,6 +1,6 @@
 ### TOP 20 Systeme - Pathologen
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.09.2025**
 
 **Id Praxissoftware**
 
@@ -12,9 +12,9 @@
 
 702 **Co-Fox Pathologie (LIMS)**
 
-254 **ORBIS®**
-
 060 **Data-AL**
+
+254 **ORBIS®**
 
 741 **LINA**
 
@@ -22,13 +22,13 @@
 
 226 **CGM MEDICO**
 
-216 **x.isynet**
-
-210 **Medical Office**
-
 280 **CGM MEDISTAR BLACK PRO**
 
 343 **SAP Ambulatory Care Management**
+
+210 **Medical Office**
+
+462 **medatixx**
 
 725 **NEXUS / SWISSLAB**
 
@@ -44,9 +44,9 @@ IFMS - Institut für medizinische Software GmbH
 
 Co-Fox GmbH
 
-Dedalus HealthCare GmbH
-
 Data-AL GmbH
+
+Dedalus HealthCare GmbH
 
 LAB4.0 GmbH
 
@@ -54,75 +54,75 @@ Pegasus Datensysteme
 
 CGM Clinical Europe GmbH
 
-medatixx GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
 CompuGroup Medical Deutschland AG
 
 SAP SE
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
+medatixx GmbH & Co. KG
 
 NEXUS SWISSLAB GmbH
 
 EI Systems, Andreas Eicker 1
 
-**Installationen 2.Q.2025**
-
-71
-
-62
-
-34
-
-16
-
-6
-
-6
-
-5
-
-4
-
-4
-
-3
-
-3
-
-3
-
-2
-
-2
-
-2
-
-**Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025**
 
 69
 
+60
+
+33
+
+16
+
+7
+
+6
+
+5
+
+4
+
+4
+
+4
+
+3
+
+3
+
 2
 
-65
+2
 
--3
+2
 
-35
+**Installationen 2.Q.2025 Differenz**
+
+71
+
+-2
+
+62
+
+-2
+
+34
 
 -1
 
-13
+16
 
-3
+0
+
+6
+
+1
 
 6
 
 0
-
-5
-
-1
 
 5
 
@@ -132,17 +132,17 @@ EI Systems, Andreas Eicker 1
 
 0
 
-5
+4
 
--1
+0
+
+3
+
+1
 
 2
 
 1
-
-3
-
-0
 
 3
 
@@ -169,11 +169,11 @@ EI Systems, Andreas Eicker 1
 
 266 **x.comfort**
 
-462 **medatixx**
-
-112 **TURBOMED**
+216 **x.isynet**
 
 078 **Med7**
+
+729 **GLIMS**
 
 **Anbieter**
 
@@ -183,23 +183,23 @@ medatixx GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
-CompuGroup Medical Deutschland AG
+Bitron GmbH Technologiesystem
 
-Bitron GmbH Technologiesysteme 2
+Clinisys Deutschland GmbH 2
 
-**Installationen 2.Q.2025**
-
-2
+**Installationen 3.Q.2025**
 
 2
 
 2
+
+2
+
+e 1
 
 1
 
-1
-
-**Installationen 1.Q.2025 Differenz**
+**Installationen 2.Q.2025 Differenz**
 
 2
 
@@ -209,14 +209,14 @@ Bitron GmbH Technologiesysteme 2
 
 0
 
-1
-
-1
-
-1
-
-0
-
-2
+3
 
 -1
+
+1
+
+0
+
+1
+
+0

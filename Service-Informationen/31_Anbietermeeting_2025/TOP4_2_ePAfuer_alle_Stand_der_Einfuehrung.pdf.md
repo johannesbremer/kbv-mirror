@@ -51,19 +51,16 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ## - Nutzungsverpflichtung auszurollen
 
-## Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
+Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 - **STAND PVS-ROLLOUT**
 
 
 ---
 
-| Daten | | der gematik – Aktuelle Nutzungszahlen |
-|---|---|---|
-| **EPA FÜR** | **ALLE - STAND** | **DER EINFÜHRUNG** |
-|  | KBV-ANBIETERMEETING, | 18. SEPTEMBER 2025 |
+## Daten der gematik – Aktuelle Nutzungszahlen
 
-Daten der gematik – - **DATEN GEMATIK**
+- **DATEN GEMATIK**
 
 
 ---
@@ -219,7 +216,7 @@ Daten der gematik – - **DATEN GEMATIK**
 
 **Anforderungen aus Ärztlicher &**  **Psychotherapeutischer Perspektive**
 
-| Aus |  | ärztlicher | und |
+|  | Aus | ärztlicher | und |
 |---|---|---|---|
 |  |  | psychotherapeutischer | |
 |  | Perspektive |  | sind das |

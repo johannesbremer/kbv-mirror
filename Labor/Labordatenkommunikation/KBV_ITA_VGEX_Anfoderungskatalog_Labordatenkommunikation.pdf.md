@@ -10,7 +10,7 @@ Labordatenkommunikation KBV_ITA_VGEX_Anfoderungskatalog _Labordatenkommunikation
 
 ### Die Änderungen der Version 1.07 treten zum 01.01.2024 in Kraft
 
-### Die Änderungen der Version 1.07 müssen bis spätestens zum 01.07.2024 umgesetzt  werden, können aber bereits vorher umgesetzt werden.
+Die Änderungen der Version 1.07 müssen bis spätestens zum 01.07.2024 umgesetzt  werden, können aber bereits vorher umgesetzt werden.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -203,9 +203,7 @@ Dem Anwender muss die Möglichkeit gegeben werden, selbstständig über den Eins
 
 - stehen.
 
-```
 -
-```
 
 KBV-Prüfmoduls -
 
@@ -368,7 +366,7 @@ Für den inhaltlichen Abgleich eines Musters 10 bzw. Musters 10A mit der jeweili
 -
 ```
 
-Gleichzeitiger Import vom digitalen Muster 10 und/oder 10A und einer LDT-- Abweichungen existieren.
+Gleichzeitiger Import vom digitalen Muster 10 und/oder 10A und einer LDT-    - Abweichungen existieren.
 
 
 ---
@@ -432,7 +430,7 @@ In diesem Zusammenhang wird unter „Verarbeitung“ die Erfassung, Bearbeitung 
 - die Kapitel bzw.
 - des
 
-Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Seriennummer 3.-5. Stelle >= 800) Handling Felder Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) 9402, 9403 und 9404 [Hinweis: Kostenträger (VKNR- diesem - Pflichtfunktionen
+Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Seriennummer 3.-5. Stelle >= 800) Handling Felder Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) 9402, 9403 und 9404 [Hinweis: Kostenträger (VKNR- diesem   - Pflichtfunktionen
 
 
 ---
@@ -624,16 +622,12 @@ auszulesen.
 
 - fehlerhaften Prüfung wird  Elektronische Signatur“ des
 
-```
 -
-```
 
 - entsprechend Kapitel „3.4.2.31
 - M39_75: 0000_FES_2, M39_77:
 
-```
 -
-```
 
 - bzw.  Formularfelder digitales Muster 39“
 - 9 Metadaten“  “ bzw. „3.3.1 Metadaten digitales  ausgelesen.
@@ -870,10 +864,9 @@ LDK.praxis], im Modus „
 
 - P4-30] der LDT-Datei das Prüfmodul
 
-```
 -
+
 -
-```
 
 mit einer entsprechenden
 
@@ -949,7 +942,7 @@ Die zu importierenden LDT-Dateien müssen für eine weitere fehlerfreie Verarbei
 
 Das System muss
 
--  nach dem Empfang [P4-100] bzw. vor dem Auslesen [P4-110] der LDT-Datei das Prüfmodul  im Modus „LDT“ zur Prüfung einsetzen, sofern der Anwender die Prüfung nicht deaktiviert  hat [P2-20]
+-  nach dem Empfang [P4-100] bzw. vor dem Auslesen [P4-110] der LDT-Datei das Prüfmodul  im Modus „ LDT“ zur Prüfung einsetzen, sofern der Anwender die Prüfung nicht deaktiviert  hat [P2-20]
 -  sicherstellen, dass nach einer fehlerfreien Prüfung durch das Prüfmodul der Empfang der  LDT-Datei erfolgt. Hinweis: Eine Prüfung wird als fehlerfrei angesehen, wenn das Prüfmodul  keine Fehlermeldungen ausgibt.
 -  nach einer fehlerhaften Prüfung durch das Prüfmodul den Anwender informieren, dass  fehlerhafte LDT-Dateien vorliegen und diese zur weiteren Verarbeitung ggf. nicht verwendet  werden können.
 
@@ -993,10 +986,9 @@ LDK.praxis], im Modus „LDT“, die LDT
 
 - [P2-20]
 
-```
 -
+
 -
-```
 
 - zur Prüfung einsetzen,
 - beinhalten.
@@ -1119,13 +1111,11 @@ Das System muss
 -  dem Anwender jederzeit die freiwillige Anzeige der Protokolle des Prüfmoduls unabhängig  von dem Prüfstatus (fehlerhaft oder fehlerfrei) ermöglichen.
 -  die zum Quartalsbeginn gültige und aktuelle Version des Prüfmoduls beinhalten.
 
-LDK.praxis], im Modus „LDT“
+LDK.praxis], im Modus „LDT “
 
 - [P2-20]
 
-```
 -
-```
 
 (FK 8310)
 

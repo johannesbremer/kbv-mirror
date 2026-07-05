@@ -7,7 +7,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.08   DOKUMENTENSTATUS: IN** |
 |---|---|
 
-# PRUEFPAKET QS- KAPSELENDOSKOPIE
+**PRUEFPAKET QS- KAPSELENDOSKOPIE**
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSKE]
 
@@ -24,22 +24,22 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben | 7 |
-|  | 1.6.1 Prüfstammdaten | 7 |
+| 1.5 | Prü fu nte rla gen | 6 |
+| 1.6 | Prü fvorgaben | 7 |
+|  | 1.6.1 Prü fstam mdate n | 7 |
 |  | 1.6.2 Praxisdaten/ Arztstempel | 8 |
 
-| 2 |  | PRÜFFÄLLE | 9 |
+| 2 | PRÜ | FFÄ LLE | 9 |
 |---|---|---|---|
-| 2.1 | Prüffall | 1 | 9 |
-| 2.2 | Prüffall | 2 | 11 |
-| 2.3 | Prüffall | 3 | 14 |
+| 2.1 | Prü | ffa ll 1 | 9 |
+| 2.2 | Prü | ffa ll 2 | 11 |
+| 2.3 | Prü | ffa ll 3 | 14 |
 
 **3** **REFERENZIERTE DOKUME NTE**
 
 **15**
 
-Prüffall 1 Prüffall 2 Prüffall 3 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 
 
 
 ---

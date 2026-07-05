@@ -98,7 +98,7 @@ Abbildungsverzeichnis
 
 ---
 
-### Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.
+**Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.**
 
 ---
 
@@ -228,17 +228,13 @@ In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat defini
 
 # 3 Arbeiten mit XPM
 
-```
 -
-```
 
 ## 3.1 Technische Hinweise
 
 ### Das XPM ist ein Java-Programm und setzt eine installierte Jav
 
-17 voraus. Nach dem entpacken des Zip
-
-### über eine der beiliegenden Startdateien gestartet werden.
+17 voraus. Nach dem entpacken des Zip über eine der beiliegenden Startdateien gestartet werden.
 
 ### Hier die Aufrufzeile der Batchdatei StartPruefmodul.bat:
 
@@ -405,21 +401,7 @@ Das Attribut
 
 ### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter Fehlerliste festgelegt.
 
-Standardkonfiguration: Listen/Fehler.pdf. Die Datei ist so aufgebaut, dass je Teil-Datenpaket
-
-### im Fehlerfall ein entsprechender Header angelegt wird, dem dann die Fehlermeldungen für
-
-dieses Datenpaket folgen. Wurden in einem Datenpaket keine Fehler festgestellt, so entfällt  auch die Ausgabe des Headers. Auf der letzten Seite wird eine Übersicht ausgegeben, wel-
-
-### che Datenpakete mit welchem Resultat geprüft wurden, welches Gesamtprüfergebnis erzielt
-
-wurde und welche Steuerdateien und welche Programmversion eingesetzt wurde. Je Teil Datenpaket wird ein eigener Prüfstatus verwaltet. Der Prüfstatus der gesamten Datei ent-
-
-### spricht dem höchsten Fehlergrad der Teil-Datenpakete. Traten in keinem Teil-Datenpaket
-
-Fehler auf, so beschränkt sich das Protokoll auf die Übersichtsseite. Die Sätze con0 und prax
-
-### werden dabei als ein Datenpaket mit der Bezeichnung „KVDT Container“ angesehen. Zusätz-lich zu den einzelnen Datenpaketen wird eine Übersichtsseite ausgegeben.
+Standardkonfiguration: Listen/Fehler.pdf. Die Datei ist so aufgebaut, dass je Teil-Datenpaket  im Fehlerfall ein entsprechender Header angelegt wird, dem dann die Fehlermeldungen für  dieses Datenpaket folgen. Wurden in einem Datenpaket keine Fehler festgestellt, so entfällt  auch die Ausgabe des Headers. Auf der letzten Seite wird eine Übersicht ausgegeben, wel-che Datenpakete mit welchem Resultat geprüft wurden, welches Gesamtprüfergebnis erzielt  wurde und welche Steuerdateien und welche Programmversion eingesetzt wurde. Je Teil Datenpaket wird ein eigener Prüfstatus verwaltet. Der Prüfstatus der gesamten Datei ent-spricht dem höchsten Fehlergrad der Teil-Datenpakete. Traten in keinem Teil-Datenpaket  Fehler auf, so beschränkt sich das Protokoll auf die Übersichtsseite. Die Sätze con0 und prax  werden dabei als ein Datenpaket mit der Bezeichnung „KVDT Container“ angesehen. Zusätz-lich zu den einzelnen Datenpaketen wird eine Übersichtsseite ausgegeben.
 
 ---
 
@@ -439,27 +421,27 @@ Status Ok/W/F/A: 0/1/1/0
 
 ### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter DokuAbgabeListe fest-
 
-gelegt. Standardkonfiguration: Listen/DokuAbgabeListe.pdf. Die Liste enthält Angaben, wel-che Dokumentationsbögen bei der Kassenärztlichen Vereinigung abzugeben sind. Die Infor-
+gelegt. Standardkonfiguration: Listen/DokuAbgabeListe.pdf. Die Liste enthält Angaben, wel-che Dokumentationsbögen bei der Kassenärztlichen Vereinigung abzugeben sind. Die Infor-mationen, welche Dokumentationsbögen abzugeben sind, befinden sich in den SDKV-Dateien
 
-### mationen, welche Dokumentationsbögen abzugeben sind, befinden sich in den SDKV-Dateien  (KV-Spezifikadateien), die in konvertierter Form in der KBV-Steuertabelle enthalten sind.
+### (KV-Spezifikadateien), die in konvertierter Form in der KBV-Steuertabelle enthalten sind.
 
 #### 3.3.3.4 Fallstatistikliste
 
 ### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter FallListe festgelegt.  Standardkonfiguration: Listen/FallStatistik.pdf. Die Fallzusammenstellung wird nach ambulan-
 
-ten und stationären Fällen getrennt ausgewiesen. Es werden zuerst die ambulanten, dann die  stationären Fälle aufgeführt. Als „stationäre Fälle“ werden die der „Belegärztlichen Behand-
+ten und stationären Fällen getrennt ausgewiesen. Es werden zuerst die ambulanten, dann die  stationären Fälle aufgeführt. Als „stationäre Fälle“ werden die der „Belegärztlichen Behand-lung“, also Fälle der Satzart 0103 bezeichnet; als „ambulante Fälle“ alle übrigen Behandlungs-fall-Satzarten (0101, 0102, 0104 und hdrg1).
 
-### lung“, also Fälle der Satzart 0103 bezeichnet; als „ambulante Fälle“ alle übrigen Behandlungs-fall-Satzarten (0101, 0102, 0104 und hdrg1).
-
-### Die weiteren Zeilen der Fallzusammenstellung sind wie folgt aufgebaut:
+Die weiteren Zeilen der Fallzusammenstellung sind wie folgt aufgebaut:
 
 ### VKNR/KTAB Kostenträgername Fallinformationen
 
-### Der Kostenträgername wird aus der aufbereiteten SDKT-Datei genommen. Wurde keine  SDKT-Datei angebunden, so bleibt der Eintrag für den Kostenträgernamen leer.
+### Der Kostenträgername wird aus der aufbereiteten SDKT-Datei genommen. Wurde keine
 
-### Die Fallzusammenstellung gibt die Anzahl der Fälle getrennt nach Versichertenstatus wieder.  Vorquartalsfälle sind gesondert ausgewiesen, sind aber schon in den MFR-Summen enthalten
+SDKT-Datei angebunden, so bleibt der Eintrag für den Kostenträgernamen leer.
 
-(d.h. die Vorquartalsfälle dürfen bei der Summenbildung nicht zu den MFR-Summen hinzuge-zählt werden, da sie sonst doppelt gezählt würden). Die Summe aller bei einer  VKNR/Kostenträgeruntergruppe abgerechneten Fälle (inkl. Vorquartalsfällen) steht dann am
+### Die Fallzusammenstellung gibt die Anzahl der Fälle getrennt nach Versichertenstatus wieder.
+
+Vorquartalsfälle sind gesondert ausgewiesen, sind aber schon in den MFR-Summen enthalten  (d.h. die Vorquartalsfälle dürfen bei der Summenbildung nicht zu den MFR-Summen hinzuge-zählt werden, da sie sonst doppelt gezählt würden). Die Summe aller bei einer  VKNR/Kostenträgeruntergruppe abgerechneten Fälle (inkl. Vorquartalsfällen) steht dann am
 
 ### Ende der Zeile.
 
@@ -471,9 +453,7 @@ Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter *GNRListe* f
 
 Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter *KlammerListe* festgelegt. Standardkonfigura-tion: *Listen/KlammerListe.pdf.*
 
-Die Klammerliste wird nur für das ADT-Teildatenpaket des KVDT generiert. Der Aufbau orien-tiert sich an der Sortierliste. Im Vergleich zu dieser werden anstelle des Einlesedatum KVK
-
-### und der Scheinabgabe Informationen zur Klammerung ausgegeben.
+Die Klammerliste wird nur für das ADT-Teildatenpaket des KVDT generiert. Der Aufbau orien-tiert sich an der Sortierliste. Im Vergleich zu dieser werden anstelle des Einlesedatum KVK  und der Scheinabgabe Informationen zur Klammerung ausgegeben.
 
 ### Es wird keine Klammerliste ausgegeben, wenn
 
@@ -484,7 +464,7 @@ Die Klammerliste wird nur für das ADT-Teildatenpaket des KVDT generiert. Der Au
 -  die KV nicht klammert (vgl. kvx6, SDKV), oder
 -  in der ADT-Abrechnung keine Klammerfälle vorkommen.
 
-### Wird die Klammerliste ausgegeben, so entspricht die Reihenfolge der Eintragungen der
+Wird die Klammerliste ausgegeben, so entspricht die Reihenfolge der Eintragungen der
 
 ### entsprechenden KV-spezifischen Sortierung.
 
@@ -498,7 +478,9 @@ Nach der Prüfung der Datei erzeugt das Prüfmodul den sogenannten Kommunikation
 
 Das KV-Prüfmodul prüft im Anschluss die entschlüsselte Datei. Das KV-Prüfmodul übernimmt die Praxis- und KV-Versionsangaben ins Fehlerprotokoll. Bei abweichendem Prüfstatus können die Versionsnummern Aufschluss über  eventuelle Unterschiede zwischen der Praxis- und KV-Version geben.
 
-### Aus dem Kommunikationssatz sind die (Teil-)Prüfergebnisse (FK 9232) der einzelnen enthal-tenden Datenpakete (FK 9237) ablesbar.
+### Aus dem Kommunikationssatz sind die (Teil-)Prüfergebnisse (FK 9232) der einzelnen enthal-
+
+tenden Datenpakete (FK 9237) ablesbar.
 
 Der Kommunikationssatz hat die Kennung „KOMU“ und folgende Felder:
 
@@ -536,17 +518,11 @@ Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- na
 
 Der Name PDT-Datei leitet sich aus Protokoll -Daten-Träger ab. Als Inhalt werden Informatio-nen zu den einzelnen Fehlermeldungen übertragen. Der Aufbau der Datei orientiert sich an  den bekannten Satzbeschreibungen. Einem Header-Satz folgen mehrfach die Sätze für die  einzelnen Fehlermeldungen. Die Datei wird dann durch einen Endesatz abgeschlossen.
 
-### Die Ausgabe der Fehlermeldungen im xDT-Format kann von den Systemen dazu genutzt
+Die Ausgabe der Fehlermeldungen im xDT-Format kann von den Systemen dazu genutzt  werden, den Arzt automatisch zu den vom Prüfmodul gefundenen Fehlern zu führen. Die Da-tei ist gemäß dem xDT Format aufgebaut, d.h. analog zu ADT, LDT, KVDT ... Dateien. Damit  kann gezielt auf spezielle Informationen, z.B. den Errorlevel einer einzelnen Fehlermeldung  oder die interne Scheinidentifikation zugegriffen werden um dann entsprechende Maßnahmen  wie z.B. Korrekturhinweise etc. einzuleiten.
 
-werden, den Arzt automatisch zu den vom Prüfmodul gefundenen Fehlern zu führen. Die Da-tei ist gemäß dem xDT Format aufgebaut, d.h. analog zu ADT, LDT, KVDT ... Dateien. Damit  kann gezielt auf spezielle Informationen, z.B. den Errorlevel einer einzelnen Fehlermeldung
+Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann jeder Fehler  automatisch ausgewertet werden. Auf die Angabe einer Zeilennummer, in der der Fehler  gefunden wurde, wird verzichtet, da beim ADT z.B. über die Feldkennung 3000 eindeutige  Informationen über den aktuellen Schein mitgeteilt werden können und bei den anderen
 
-### oder die interne Scheinidentifikation zugegriffen werden um dann entsprechende Maßnahmen
-
-wie z.B. Korrekturhinweise etc. einzuleiten.
-
-Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann jeder Fehler  automatisch ausgewertet werden. Auf die Angabe einer Zeilennummer, in der der Fehler
-
-### gefunden wurde, wird verzichtet, da beim ADT z.B. über die Feldkennung 3000 eindeutige  Informationen über den aktuellen Schein mitgeteilt werden können und bei den anderen  Datensatzbeschreibungen entsprechend andere Informationen vorliegen. Überträgt das  Systemhaus keine Patientennummer (FK 3000), erhält es auch nur die Standard-Informationen.
+### Datensatzbeschreibungen entsprechend andere Informationen vorliegen. Überträgt das  Systemhaus keine Patientennummer (FK 3000), erhält es auch nur die Standard-Informationen.
 
 ### Satzart prot
 
@@ -772,7 +748,11 @@ java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ...
 
 ## 3.4 Return-Code, Errorlevel des XPM
 
-### Der Errorlevel wird in der Kommunikationsdatei unter der Fe und in der PDT-Datei unter den Feldkennungen 9421 (errorlevel der Meldung) und 9232 ab-gelegt.
+### Der Errorlevel wird in der Kommunikationsdatei unter der Fe
+
+und in der PDT-Datei unter den Feldkennungen 9421 (errorlevel der Meldung) und 9232 ab-
+
+### gelegt.
 
 ### ldkennung 9232 (Prüfergebnis)
 
@@ -789,7 +769,7 @@ gangs. Die Zusammenhänge sind in der folgenden Tabelle wiedergegeben:
 
 #### Tabelle 6: Prüfstatus
 
-### Ab dem Return-Code 2 ist eine Weiterverarbeitung in der KV nicht möglich.
+Ab dem Return-Code 2 ist eine Weiterverarbeitung in der KV nicht möglich.
 
 ## 3.5 Meldungen
 
@@ -852,6 +832,4 @@ jar; usw.“
 
 3.3.1.6 Feh-
 
-```
 -
-```

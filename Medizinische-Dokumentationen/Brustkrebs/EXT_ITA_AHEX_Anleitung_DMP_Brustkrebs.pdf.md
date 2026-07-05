@@ -1,4 +1,9 @@
-# Ausfüllanleitung zur Erst- und Folgedokumentation im  strukturierten Behandlungsprogramm
+# Ausfüllanleitung
+
+***zur Erst- und Folgedokumentation im***
+
+# strukturierten Behandlungsprogramm
+
 Stand der letzten Bearbeitung:
 
 Anzuwenden ab
@@ -349,7 +354,7 @@ Bestehen zwar Nebenwirkungen, diese werden aber nicht als belastend empfunden, g
 
 | hierzu | die | Angaben in |
 |---|---|---|
-| **sind** | **sowie in** | **Abhängigkeit** |
+| **sind** | **sowie in** | **Abhä n gig** |
 |  | **(Dokumentationsfeld** | **19).** |
 
 

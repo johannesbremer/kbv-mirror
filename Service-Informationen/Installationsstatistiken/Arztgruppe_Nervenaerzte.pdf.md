@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id**
 
@@ -24,9 +24,9 @@
 
 243
 
-254
-
 498
+
+254
 
 298
 
@@ -50,9 +50,9 @@
 
 **x.concept**
 
-**ORBIS®**
-
 **T2med**
+
+**ORBIS®**
 
 **Elefant**
 
@@ -76,85 +76,85 @@ psyprax GmbH
 
 medatixx GmbH & Co. KG
 
-Dedalus HealthCare GmbH
-
 T2med GmbH & Co. KG
+
+Dedalus HealthCare GmbH
 
 HASOMED GmbH 1
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+
+386
 
 397
 
-399
+-11
 
--2
+350
 
 357
 
-362
+-7
 
--5
+335
 
 340
 
-348
+-5
 
--8
+294
 
 282
 
-277
+12
 
-5
+238
 
 236
 
-231
-
-5
+2
 
 235
 
-236
+235
 
--1
+0
+
+206
 
 192
 
-180
+14
 
-12
+187
 
 190
 
-193
-
 -3
+
+171
 
 181
 
-182
+-10
 
--1
-
-163
-
-158
-
-5
+171
 
 162
 
-158
+9
 
-4
+163
+
+163
+
+0
+
+142
 
 145
 
-147
-
--2
+-3
 
 
 ---
@@ -173,9 +173,9 @@ HASOMED GmbH 1
 
 135 **EL - Elaphe Longissim**
 
-226 **CGM MEDICO**
-
 086 **DURIA**
+
+226 **CGM MEDICO**
 
 **Anbieter**
 
@@ -193,56 +193,56 @@ New Media Company GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
-CGM Clinical Europe GmbH
+Duria eG
 
-Duria eG 2
+CGM Clinical Europe GmbH 2
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+
+129
 
 126
 
-130
+3
 
--4
+124
 
 125
 
-127
+-1
+
+110
+
+112
 
 -2
 
-112
-
-112
-
-0
+102
 
 102
 
-105
+0
 
--3
+85
 
 87
 
-88
-
--1
+-2
 
 80
 
-81
+80
 
--1
+0
 
-71
-
-68
-
-3
+72
 
 70
 
+2
+
+65
+
 71
 
--1
+-6

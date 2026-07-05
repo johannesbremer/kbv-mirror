@@ -62,10 +62,7 @@ AM 18. SEPTEMBER 2025
 ## - kbv.all.st -combined
 
 - immer **alle gültigen** und noch **nicht gültigen** Schlüsseltabellen kombiniert
-
-```
 - [](https://simplifier.net/kbvschluesseltabellen)
-```
 
 ## - [› https://simplifier.net/kbvschluesseltabellen](https://simplifier.net/kbvschluesseltabellen)
 
@@ -213,11 +210,7 @@ Umsetzung Mitte März 2026 - Vorstandsbeschluss Januar - Dezember - Januar 01.10
 
 ## - Was ist ein Kerndatensatz?
 
-## - Der Begriff "Kerndatensätze" beschreibt ein national einheitliches, harmonisiertes Set von
-
-## - klinischen und/oder gesundheitsbezogenen Datenelementen, die über mehrere
-
-## - Anwendungsfälle hinweg genutzt werden, um die Interoperabilität innerhalb eines Landes zu
+- Der Begriff "Kerndatensätze" beschreibt ein national einheitliches, harmonisiertes Set von  klinischen und/oder gesundheitsbezogenen Datenelementen, die über mehrere  Anwendungsfälle hinweg genutzt werden, um die Interoperabilität innerhalb eines Landes zu
 
 ## - erleichtern.
 
@@ -225,11 +218,7 @@ Umsetzung Mitte März 2026 - Vorstandsbeschluss Januar - Dezember - Januar 01.10
 
 ## - Informationsmodell, sowie einer daraus abgeleiteten Spezifikation.
 
-## - Ergänzend dazu umfasst ein Kerndatensatz auch die zu verwendenden Terminologien z.B.
-
-## - durch Angabe als Werteliste (
-
-ValueSets) die eine einheitliche Interpretation und Nutzung der
+- Ergänzend dazu umfasst ein Kerndatensatz auch die zu verwendenden Terminologien z.B.  durch Angabe als Werteliste (ValueSets) die eine einheitliche Interpretation und Nutzung der
 
 ## - Datenelemente sicherstellen.
 
@@ -250,9 +239,7 @@ ValueSets) die eine einheitliche Interpretation und Nutzung der
 
 ## - Einführung eines verbindlichen Abstimmungsverfahrens für Interoperabilitätsfestlegungen
 
-## - Etablieren einer nationalen Plattform für die transparente Gestaltung des
-
-Governanceprozesses
+- Etablieren einer nationalen Plattform für die transparente Gestaltung des Governanceprozesses
 
 ## - Ergänzen der Förderkriterien von Forschungsprojekten um verpflichtende Nutzung von
 
@@ -316,18 +303,10 @@ Technical Requirements for Electronic Health Record (EHR) systems and key system
 
 ## - WP 6.1 Patient Summary:
 
-Implementationguides on EEHRxF, functional and technical
-
-## - requirements and specifications for EHR systems
+Implementationguides on EEHRxF, functional and technical  requirements and specifications for EHR systems
 
 - Kommentierung abgeschlossen
-
-## - WP 6.2 Electronic prescription and electronic dispensation: Implementation guides on
-
-EEHRxF
-
-## - functional and technical requirements and specifications for EHR systems
-
+- WP 6.2 Electronic prescription and electronic dispensation: Implementation guides on EEHRxF functional and technical requirements and specifications for EHR systems
 - Kommentierung abgeschlossen
 - **ÜBERBLICK EUROPA EHDS**
 
@@ -338,27 +317,14 @@ EEHRxF
 
 ## - WP 7 Services for the ElectronicHealth Record (EHR)
 
-## - WP 7.1 Laboratory results and reports: Implementation guides on
-
-EEHRxF, functional and
-
-## - technical requirements and specifications for EHR systems
-
+- WP 7.1 Laboratory results and reports: Implementation guides on EEHRxF, functional and  technical requirements and specifications for EHR systems
 - Kommentierung laufend
-
-## - WP 7.2 - Medical imaging studies and reports: implementation guides on
-
-EEHRxF, functional
-
-## - and technical requirements and specifications for EHR systems
-
+- WP 7.2 - Medical imaging studies and reports: implementation guides on EEHRxF, functional  and technical requirements and specifications for EHR systems
 - Kommentierung beendet
 
 ## - WP 7.3 Discharge reports: Implementation guides on
 
-EEHRxF, functional and technical
-
-## - requirements and specifications for EHR systems
+EEHRxF, functional and technical  requirements and specifications for EHR systems
 
 - Kommentierung beendet
 - **ÜBERBLICK EUROPA EHDS**
@@ -370,8 +336,7 @@ EEHRxF, functional and technical
 
 ## - WP 8 Certification and labelling network
 
-## - WP 8.1 Guidelines for classification and functional profiles of EHR systems
-
+- WP 8.1 Guidelines for classification and functional profiles of EHR systems
 - Kommentierung verschoben
 
 ## - WP 8.2 EHR Conformity Assessment Scheme-Assertion document
@@ -390,17 +355,12 @@ EEHRxF, functional and technical
 
 ## - WP 9 Cross-border telemedicine services
 
-## - WP 9.1 Requirements and use cases on the availability of health data
-
-incross-border
+- WP 9.1 Requirements and use cases on the availability of health data incross-border
 
 ## - telemedicine services
 
 - Kommentierung abgeschlossen
-
-## - WP 9.2-Technical specifications on the availability of health data
-
-incross-border telemedicine
+- WP 9.2-Technical specifications on the availability of health data incross-border telemedicine
 
 ## - services
 
@@ -434,11 +394,7 @@ incross-border telemedicine
 
 ## - Interoperabilitätsanforderungen
 
-- spezifizieren das Design und die technischen Fähigkeiten,
-
-## - die für den sicheren Austausch und Empfang personenbezogener elektronischer
-
-## - Gesundheitsdaten erforderlich sind, einschließlich der strukturierten Dateneingabe und der
+- spezifizieren das Design und die technischen Fähigkeiten,  die für den sicheren Austausch und Empfang personenbezogener elektronischer  Gesundheitsdaten erforderlich sind, einschließlich der strukturierten Dateneingabe und der
 
 ## - Verhinderung unzulässiger Zugangs
 
@@ -450,7 +406,7 @@ incross-border telemedicine
 
 ## - Identifizierung und Authentifizierung von Angehörigen der Gesundheitsberufe, umfassende
 
-## - Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse
+Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse
 
 ## - erforderlichen Instrumente.
 
@@ -481,14 +437,7 @@ verpflichtende Anforderungen(Übersetzt)
 
 ## - Verwendung keine Risiken für die Sicherheit des Patienten birgt.
 
-- Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten
-
-## - elektronischen personenbezogenen Gesundheitsdaten im EHR
-
-## - solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen
-
-## - werden und muss protokolliert werden.
-
+- Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten  elektronischen personenbezogenen Gesundheitsdaten im EHR solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
 - -System ermöglichen. Eine
 - **ÜBERBLICK EUROPA EHDS**
 
@@ -497,20 +446,10 @@ verpflichtende Anforderungen(Übersetzt)
 
 ## Überblick Europa EHDS
 
-## WP 5.1 - Allgemeine Anforderungen - Beispiele für verpflichtende Anforderungen übersetzt
+WP 5.1 - **Allgemeine Anforderungen** - Beispiele für verpflichtende Anforderungen übersetzt
 
-- Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten
-
-## - elektronischen personenbezogenen Gesundheitsdaten im EHR
-
-## - solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen
-
-## - werden und muss protokolliert werden.
-
-- Das System muss Risikowarnsysteme umfassen, die eine Priorisierung von Warnungen mit
-
-## - hoher Auswirkung bis hin zu Informationswarnungen vornehmen.
-
+- Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten  elektronischen personenbezogenen Gesundheitsdaten im EHR solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
+- Das System muss Risikowarnsysteme umfassen, die eine Priorisierung von Warnungen mit  hoher Auswirkung bis hin zu Informationswarnungen vornehmen.
 - Hersteller müssen architectural failure maps, alert override analytics und
 
 ## - Interoperabilitätsmatrizen einreichen.
@@ -531,11 +470,7 @@ verpflichtende Anforderungen(Übersetzt)
 
 ## - Interoperabilitätsanforderungen
 
-- spezifizieren das Design und die technischen Fähigkeiten, die
-
-## - für den sicheren Austausch und Empfang personenbezogener elektronischer Gesundheitsdaten
-
-## - erforderlich sind, einschließlich der strukturierten Dateneingabe und der Verhinderung
+- spezifizieren das Design und die technischen Fähigkeiten, die  für den sicheren Austausch und Empfang personenbezogener elektronischer Gesundheitsdaten  erforderlich sind, einschließlich der strukturierten Dateneingabe und der Verhinderung
 
 ## - unzulässiger Zugangs
 
@@ -560,24 +495,11 @@ verpflichtende Anforderungen(Übersetzt)
 
 ## Überblick Europa EHDS
 
-## WP 5.1 - Interoperabilitätsanforderungen - Beispiele für verpflichtende Anforderungen übersetzt
+WP 5.1 - **Interoperabilitätsanforderungen** - Beispiele für verpflichtende Anforderungen übersetzt
 
-- Das System muss die europäische Interoperabilitäts-Softwarekomponenten integrieren, um
-
-## - die Einhaltung der EU-weiten Standards sicherzustellen.
-
-- Das EHR-System muss HL7 FHIR und DICOM/DICOMweb sowie anerkannte Terminologien für
-
-## - den strukturierten Datenaustausch der priorisierten Datenkategorien übernehmen, um sich
-
-## - an den EEHRxF (…) anzupassen.
-
-- Ermöglicht natürlichen Personen, Informationen in ihre elektronische Gesundheitsakte  einzufügen. Die eingefügten Informationen müssen von den elektronischen
-
-## - Gesundheitsdaten getrennt werden, die von Angehörigen der Gesundheitsberufe erstellt und
-
-## - eingefügt wurden (EHDS, Artikel 5)
-
+- Das System muss die europäische Interoperabilitäts-Softwarekomponenten integrieren, um  die Einhaltung der EU-weiten Standards sicherzustellen.
+- Das EHR-System muss HL7 FHIR und DICOM/DICOMweb sowie anerkannte Terminologien für  den strukturierten Datenaustausch der priorisierten Datenkategorien übernehmen, um sich  an den EEHRxF (…) anzupassen.
+- Ermöglicht natürlichen Personen, Informationen in ihre elektronische Gesundheitsakte  einzufügen. Die eingefügten Informationen müssen von den elektronischen  Gesundheitsdaten getrennt werden, die von Angehörigen der Gesundheitsberufe erstellt und  eingefügt wurden (EHDS, Artikel 5)
 - **ÜBERBLICK EUROPA EHDS**
 
 
@@ -593,15 +515,13 @@ verpflichtende Anforderungen(Übersetzt)
 
 ## - Identifizierung und Authentifizierung von Angehörigen der Gesundheitsberufe, umfassende
 
-## - Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse
+Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse
 
 ## - erforderlichen Instrumente.
 
 ## - Beispiele für verpflichtende Anforderungen(Übersetzt)
 
-- Das System muss Authentifizierungsmittel (z. B. die EUDI-Wallet) verwenden, die gemäß eIDAS
-
-## - (EU 910/2014, aktualisiert im Jahr 2024) für die Authentifizierung von Angehörigen der
+- Das System muss Authentifizierungsmittel (z. B. die EUDI-Wallet) verwenden, die gemäß eIDAS  (EU 910/2014, aktualisiert im Jahr 2024) für die Authentifizierung von Angehörigen der
 
 ## - Gesundheitsberufe anerkannt sind (siehe EHDS Art. 12).
 
@@ -612,7 +532,9 @@ verpflichtende Anforderungen(Übersetzt)
 
 ## Überblick Europa EHDS
 
-## WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Beispiele für verpflichtende  Anforderungen(Übersetzt)
+WP 5.1 - **Sicherheits- und Protokollierungsanforderungen-** Beispiele für verpflichtende
+
+## Anforderungen(Übersetzt)
 
 ## - Das Protokoll muss mindestens folgende Angaben enthalten:
 
@@ -639,7 +561,9 @@ ii. Breaking the glass: Wenn ein „Breaking the glass”-Szenario eingetreten i
 
 ## Überblick Europa EHDS
 
-## WP 5.1 - Sicherheits- und Protokollierungsanforderungen- Beispiele für verpflichtende  Anforderungen(Übersetzt)
+WP 5.1 - **Sicherheits- und Protokollierungsanforderungen-** Beispiele für verpflichtende
+
+## Anforderungen(Übersetzt)
 
 ## - Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren
 

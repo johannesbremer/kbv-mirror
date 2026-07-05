@@ -18,22 +18,22 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 INHALT
 
-| 1 ALLGEMEINES | 4 |
-|---|---|
-| 1.1 Rechtsgrundlage | 4 |
-| 1.2 Zertifizierungsablauf | 4 |
-| 1.3 Zertifizierungsportal | 5 |
-| 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prüfunterlagen | 5 |
-| 1.6 Prüfvorgaben | 6 |
-| 1.6.1 Prüfstammdaten | 6 |
-| 1.6.2 Versichertendaten | 6 |
-| 1.6.2.1 Althaus [XML_05] | 7 |
-| 1.6.2.2 Schimmelpfennig-Hammerschmidt | Federmannssohn [XML_22] 7 |
-| 1.6.3 Praxisdaten / Arztstempel | 8 |
-| 1.6.4 Produktdaten | 8 |
-| 1.6.5 Falldarstellung | 9 |
-| 1.6.6 Ausstellungsdatum | 9 |
+| 1 | ALLGEMEINES | 4 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 4 |
+| 1.2 | Zertifizierungsablauf | 4 |
+| 1.3 | Zertifizierungsportal | 5 |
+| 1.4 | Zertifizierungsdokumente | 5 |
+| 1.5 Prü fu | nte rla gen | 5 |
+| 1.6 Prü | fvorgaben | 6 |
+| 1.6.1 | Prü fstam mdate n | 6 |
+| 1.6.2 | Versichertendaten | 6 |
+| 1.6.2.1 | Althaus [XML_05] | 7 |
+| 1.6.2.2 | Schimmelpfennig-Hammerschmidt Federmannssohn | [XML_22] 7 |
+| 1.6.3 | Praxisdaten / Arztstempel | 8 |
+| 1.6.4 | Produktdaten | 8 |
+| 1.6.5 | Falldarstellung | 9 |
+| 1.6.6 | Ausstellungsdatum | 9 |
 
 **2** **PRÜFFÄLLE**
 
@@ -49,7 +49,7 @@ INHALT
 
 **14**
 
-Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22]
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22]
 
 
 ---

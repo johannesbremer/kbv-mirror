@@ -141,7 +141,7 @@ QS  festgelegten Datenelemente müssen
 |---|---|
 | **P1-20** | **Berichtszeiträume** |
 
-Die Behandlungsfälle werden erstmals zwei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
+Die Behandlungsfälle werden erstmals zwei Quartal nach Inkrafttreten der QS -Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
 Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge-führt werden.
 
@@ -153,7 +153,9 @@ Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal 
 
 31.12
 
-### Melde-Untersuchungsjahr
+Melde-
+
+### Untersuchungsjahr
 
 ### quartal
 
@@ -350,7 +352,7 @@ Adresse geschickt,  KV-Connect KIM übermittelt
 -
 ```
 
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist. gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb des Berichtszeitraumes (s. - exportieren,
+cher Zuordnung (ID, BSNR, LANR) vorhanden ist. gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb de s Berichtszeitraumes (s. - exportieren,
 
 
 ---

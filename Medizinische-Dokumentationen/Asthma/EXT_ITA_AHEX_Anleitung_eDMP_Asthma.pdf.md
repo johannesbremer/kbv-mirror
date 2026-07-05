@@ -133,7 +133,9 @@ B. aufgrund des Alters bei Kindern nicht valide durchgeführt werden kann.
 
 # Relevante Ereignisse
 
-#### Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen  Asthma bronchiale seit der letzten Dokumentation
+**Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen**
+
+#### Asthma bronchiale seit der letzten Dokumentation
 
 Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und ist hier  verpflichtend.
 

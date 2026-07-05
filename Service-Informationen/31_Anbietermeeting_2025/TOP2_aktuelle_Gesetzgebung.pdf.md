@@ -33,9 +33,9 @@
 
 24.03.2025
 
-## Ergebnisse Arbeitsgruppen CDU/CSU & SPD 09.04.2025
+## Ergebnisse Arbeitsgruppen CDU/CSU & SPD
 
-## „geeinter“ Koalitionsvertrag CDU/CSU & SPD
+09.04.2025 „geeinter“ Koalitionsvertrag CDU/CSU & SPD
 
 **04.05.2025**
 
@@ -62,7 +62,9 @@
 
 - **AMBULANTE VERSORGUNG**
 
-## „Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine  schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier  Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im  Kollektivvertrag.“
+*„Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine*
+
+## schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier  Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im  Kollektivvertrag.“
 
 
 ---
@@ -73,11 +75,7 @@
 
 ## „Noch 2025 rollen wir die elektronische Patientenakte stufenweise aus, von einer
 
-*bundesweiten Testphase zu einer verpflichtenden sanktionsbewehrten Nutzung. Wir*
-
-## vereinfachen den Austausch zwischen den Versicherungsträgern und den Ärztinnen und
-
-*Ärzten. Doppeldokumentationen vermeiden wir.“*
+*bundesweiten Testphase zu einer verpflichtenden sanktionsbewehrten Nutzung. Wir*  *vereinfachen den Austausch zwischen den Versicherungsträgern und den Ärztinnen und*  *Ärzten. Doppeldokumentationen vermeiden wir.“*
 
 ## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und  Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
 
@@ -154,22 +152,16 @@ Veröffentlicht am 26.05.
 
 ## - Wichtig:
 
-**verpflichtender Einsatz standardisierter Ersteinschätzungssysteme**; Patienten ohne
-
-## - dringlichen Bedarf werden in die Regelversorgung vermittelt.
+**verpflichtender Einsatz standardisierter Ersteinschätzungssysteme**; Patienten ohne  dringlichen Bedarf werden in die Regelversorgung vermittelt.
 
 ## - Weiterentwicklung und Ausbau der 116117
 
-als „digitale Multi-Channel-Versorgungsplattform“;
-
-## - mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
+als „digitale Multi-Channel-Versorgungsplattform“;  mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
 
 ## - Für die ambulante Akut
 
 - und Notdienstversorgung bedarf es einer angemessenen  **Vorhaltefinanzierung, inkl. digitaler Zugänge**
-
-## - Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
-
+- Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
 - **NOTFALLVERSORGUNG**
 
 

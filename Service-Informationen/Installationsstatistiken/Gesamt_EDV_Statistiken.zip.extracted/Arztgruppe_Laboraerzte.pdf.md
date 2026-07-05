@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -12,19 +12,19 @@
 
 347 **Opus::L Labormanagementsystem**
 
-704 **PROMED-open / X-PROMED**
-
 716 **Melos-Labor-System**
 
 409 **i/med Billing**
 
-263 **Clinisys vianova Labor**
+704 **PROMED-open / X-PROMED**
 
-729 **GLIMS**
+210 **Medical Office**
+
+263 **Clinisys vianova Labor**
 
 493 **LX**
 
-210 **Medical Office**
+729 **GLIMS**
 
 725 **NEXUS / SWISSLAB**
 
@@ -40,19 +40,19 @@ Medat Computersysteme GmbH
 
 Dedalus Labor GmbH
 
-Clinisys Deutschland GmbH
-
 LABLIONS software & solutions GmbH
 
 Dorner GmbH & Co. KG
 
 Clinisys Deutschland GmbH
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
 Clinisys Deutschland GmbH
 
 labsolution S.à.r.l & Co.KG
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
+Clinisys Deutschland GmbH
 
 NEXUS SWISSLAB GmbH
 
@@ -60,27 +60,27 @@ Limbach Gruppe SE
 
 CompuGroup Medical Deutschland AG 1
 
-**Installationen 2.Q.2025**
+**Installationen 3.Q.2025**
 
-28
+31
 
-18
+19
 
 15
 
-14
-
-14
+12
 
 11
 
-10
+11
 
 9
 
 9
 
-8
+9
+
+9
 
 8
 
@@ -88,13 +88,13 @@ CompuGroup Medical Deutschland AG 1
 
 6
 
-**Installationen 1.Q.2025 Differenz**
+**Installationen 2.Q.2025 Differenz**
 
-31
+28
 
--3
+3
 
-17
+18
 
 1
 
@@ -102,21 +102,29 @@ CompuGroup Medical Deutschland AG 1
 
 0
 
-16
+14
 
 -2
-
-13
-
-1
 
 11
 
 0
 
+14
+
+-3
+
 8
 
-2
+1
+
+10
+
+-1
+
+9
+
+0
 
 9
 
@@ -124,36 +132,26 @@ CompuGroup Medical Deutschland AG 1
 
 8
 
-1
-
-7
-
-1
-
-8
-
 0
 
 7
 
 0
 
-8
+6
 
--2
+0
 
 
 ---
 
 **Id Praxissoftware**
 
-703 **ELADIS**
-
-216 **x.isynet**
+740 **LabCentre**
 
 254 **ORBIS®**
 
-740 **LabCentre**
+703 **ELADIS**
 
 343 **SAP Ambulatory Care Management**
 
@@ -161,15 +159,15 @@ CompuGroup Medical Deutschland AG 1
 
 488 **inSuite**
 
+216 **x.isynet**
+
 **Anbieter**
 
-LabKom Biochemische Dienstleistungen GmbH
-
-medatixx GmbH & Co. KG
+Mesalvo Mannheim GmbH
 
 Dedalus HealthCare GmbH
 
-Mesalvo Mannheim GmbH
+LabKom Biochemische Dienstleistungen GmbH
 
 SAP SE
 
@@ -177,50 +175,48 @@ CompuGroup Medical Deutschland AG
 
 Doc Cirrus GmbH
 
-**Installationen 2.Q.2025**
+medatixx GmbH & Co. KG 2
+
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
 5
 
 4
-
-4
-
-4
-
-3
-
-3
-
-3
-
-2
-
-**Installationen 1.Q.2025 Differenz**
-
-5
-
-0
-
-5
-
--1
-
-4
-
-0
-
-5
-
--1
-
-4
-
--1
-
-4
-
--1
-
-2
 
 1
+
+5
+
+4
+
+1
+
+5
+
+5
+
+0
+
+4
+
+3
+
+1
+
+4
+
+3
+
+1
+
+4
+
+3
+
+1
+
+4
+
+4
+
+0

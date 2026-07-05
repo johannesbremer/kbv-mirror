@@ -1,4 +1,6 @@
-## zum indikationsspezifischen Datensatz für das struk- turierte Behandlungsprogramm
+**zum indikationsspezifischen Datensatz für das struk-**
+
+## turierte Behandlungsprogramm
 
 Stand der letzten Bearbeitung:
 

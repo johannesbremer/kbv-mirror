@@ -4,76 +4,149 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2023   VERSION: 1.22   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.24   DOKUMENTENSTATUS: IN** |
 |---|---|
 
-# PRUE FPAKET EDMP -ASTHMA
+# PRUEFPAKET EDMP-ASTHMA
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_ASTHMA]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
+KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT  
 
 
 ---
 
-INHALT
+## INHALT
 
-| ALLGEMEINES | 6 |
-|---|---|
-| 1.1 Rechtsgrundlage | 6 |
-| 1.2 Zertifizierungsablauf | 6 |
-| 1.3 Zertifizierungsportal | 7 |
-| 1.4 Zertifizierungsdokumente | 7 |
-| 1.5 Prüfunterlagen | 7 |
-| 1.6 Prüfvorgaben | 9 |
-| 1.6.1 Prüfstammdaten | 9 |
-| 1.6.2 Versichertendaten | 9 |
-| 1.6.3 Praxisdaten/ Arztstempel | 9 |
-| 1.6.4 Krankenhausdaten | 10 |
-| 1.6.5 Prüfnummer | 10 |
-| 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 10 |
-| 1.6.7 Auflistung der Prüffälle | 11 |
+**ALLGEMEINES**
 
-| PRÜFFÄLLE |  |  | 12 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 12 |
-| 2.1.1 | Prüffall | 9511 | 12 |
-| 2.1.2 | Prüffall | 9512 | 14 |
-| 2.1.3 | Prüffall | 6513 | 16 |
-| 2.2 Prüffälle |  | Systemreaktion | 21 |
-| 2.2.1 | Prüffall | 9514 | 21 |
-| 2.2.2 | Prüffall | 9515 | 25 |
-| 2.3 Weitere |  | Prüffälle zum Anforderungskatalog | 26 |
-| 2.3.1 | Prüffall | 9530 | 26 |
-| 2.3.2 | Prüffall | 9540 | 27 |
+**6**
+
+1.1 Rechtsgrundlage
+
+6
+
+1.2 Zertifizierungsablauf
+
+6
+
+1.3 Zertifizierungsportal
+
+7
+
+1.4 Zertifizierungsdokumente
+
+7
+
+1.5 Prüfunterlagen
+
+7
+
+1.6 Prüfvorgaben
+
+9
+
+1.6.1 Prüfstammdaten
+
+9
+
+1.6.2 Versichertendaten
+
+9
+
+1.6.3 Praxisdaten/ Arztstempel
+
+9
+
+1.6.4 Krankenhausdaten
+
+10
+
+1.6.5 Prüfnummer
+
+10
+
+1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
+
+1.6.7 Auflistung der Prüffälle 11
+
+**PRÜFFÄLLE**
+
+**12**
+
+2.1 Prüffälle Dokumentation
+
+12
+
+2.1.1 Prüffall 9511
+
+12
+
+2.1.2 Prüffall 9512
+
+14
+
+2.1.3 Prüffall 6513
+
+16
+
+2.2 Prüffälle Systemreaktion
+
+21
+
+2.2.1 Prüffall 9514
+
+21
+
+2.2.2 Prüffall 9515
+
+25
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 26
+
+2.3.1 Prüffall 9530
+
+26
+
+2.3.2 Prüffall 9540
+
+27
 
 **TESTDATENVALIDIERUNG**
 
-**28**  3.1 Prüffall TDV9518 29
+**28**
 
-|  | ANHANG |  | 31 |
-|---|---|---|---|
-| 4.1 | Versichertendaten | 1– Ersatzverfahren | 31 |
-| 4.2 | Versichertendaten | 2– Ersatzverfahren | 32 |
+3.1 Prüffall TDV9518
+
+29
+
+**ANHANG**
+
+**32**
+
+4.1 Versichertendaten 1– Ersatzverfahren 32
+
+4.2 Versichertendaten 2– Ersatzverfahren 33
+
+4.3 Prüffall TDV9518 Ersatzverfahren 34
 
 **REFERENZIERTE DOKUMENTE**
 
-**33**
-
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 9511 Prüffall 9512 Prüffall 6513 Prüffälle Systemreaktion Prüffall 9514 Prüffall 9515 Weitere Prüffälle zum Anforderungskatalog Prüffall 9530 Prüffall 9540 Versichertendaten 1 Versichertendaten 2
-
+**35**
 
 ---
 
 # ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8
 
-8  Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
+Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
 
-8  Abbildung 3: Testdatenvalidierung
+Abbildung 3: Testdatenvalidierung 28
 
-28  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 28
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV9518 28
+
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV9518 29
 
 ---
 
@@ -81,34 +154,49 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 1.24 | 01.07.2026 | KBV | Aufnahme eines Testfalls | Schnittstellenversion ** | 11,  28,  34 |
+| 1.23 | 31.03.2026 | KBV | Anpassung der Prüffälle    Anpassung Prüffall 9540 | Schnittstellenversion    Änderung der |  |
 | 1.22 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 12 |
 | 1.21 | 28.03.2023 | KBV | Korrektur der Daten der  Dokumentationen im  Prüffall 9514 |  | 21, 24 |
 | 1.20 | 08.11.2022 | KBV | Datumsanpassungen der  Neuer Prüffall 9540 zur  Teilnahmeerklärung | Datumsanpassungen  Schnittstellenversion | Prüffälle    25 |
 | 1.19 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue | Alle |
 | 1.18 | 18.03.2021 | KBV | Datumsanpassungen der | Datumsanpassungen | Prüffälle |
 | 1.17 | 15.02.2021 | KBV | Anpassung an | Schnittstellenversion | Prüffälle |
-| 1.16 | 11.02.2019 | KBV | Anpassung an | Schnittstellenversion | Prüffälle |
-| 1.15 | 07.05.2018 | KBV | Anpassung der Prüffälle | Schnittstellenversion | Prüffälle |
-| 1.14 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | Zertifizier |
+|  |  |  |  |  |  |
+|  |  | 01.07.2026 | KBV | Aufnahme eines Testfalls | ** ,  , |
+|  | 1.23 |  | 31.03.2026 | KBV |  |
+| 15.08.2023 | Datumsanpassungen der | Anpassung der | Datumsanpassungen | 12 | 1.21  28.03.2023  KBV |
+| Prüffall 9514 |  | 21 | , 24 |  | Datumsanpassungen der  Datumsanpassungen  Schnittstellenversion |
+|  | 25 |  |  | 1.19 |  |
 
-Prüffälle. Medikamente im Prüffall 6513 für DM2. Erstellung der Prüffälle. Umsetzung der übergreifenden Layouts wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.46 ist ab 01.04.2023 zu verwenden Corporate Design wegen der übergreifenden Schnittstelle 4.45 Schnittstelle 4.44 an Schnittstellen 4.42 und 4.43 auf Zertifizierung 4.45 ist ab 01.04.2021 zu verwenden 4.44 ist ab 01.04.2019 zu verwenden 4.43 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ungsablau
+für die Testdatenvalidierung zur 4.47 Schnittstellenversionen 4.47 Prüffälle. Medikamente im Prüffall 6513 für DM2. Erstellung der Prüffälle. Umsetzung der übergreifenden Layouts Schnittstelle 4.45 1.01 ist ab 01.10.2026 zu verwenden 4.47 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.46 ist ab 01.04.202 3 zu verwenden Corporate Design wegen der übergreifenden 4.45 ist ab 01.04.2021 zu verwenden
 
 ---
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
+|  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  |  |  |  | Korrektur der | f    25 |
+|  | KBV | Anpassung an | Schnittstellenversion |  | Prüffälle |
+| 07.05.2018 | Anpassung der Prüffälle | Schnittstellenversion |  |  |  |
+|  | 1.14 |  | 12.03.2018 KBV | Einreichung des Antrags | Anpassung des |
+|  | 25 |  | 1.12 |  | KBV  Anpassung der Prüffälle  Aufnahme eines Testfalls  Schnittstellenversion |
+|  |  |  |  | Prüffälle | Prüffall  1.11  23.05.2017 |
+| Aktualisierung der |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| 1.16 | 11.02.2019 | KBV | Anpassung an | Schnittstellenversion | Prüffälle |
+| 1.15 | 07.05.2018 | KBV | Anpassung der Prüffälle | Schnittstellenversion | Prüffälle |
+| 1.14 | 12.03.2018 | KBV | Einreichung des Antrags  Korrektur der | Anpassung des | Zertifizier     25 |
 | 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle  Aufnahme eines Testfalls | Schnittstellenversion    Schnittstellenversion | Prüffälle        Prüffall |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Nummerierung in Prüffall 9515 an 4.42 ist ab 01.04.2018 zu verwenden Schnittstellenversionen 4.41 und 4.42 für die 4.43 ist ab 01.07.2018 Testdatenvalidierung zur zu verwenden 4.43 TDV9518 des Prüfpaketes Zertifizierungsrichtlinie 
-
+Schnittstelle 4.44 4.44 ist ab 01.04.2019 zu verwenden an Schnittstellen 4.42 4.43 ist ab 01.07.2018 und 4.43 zu verwenden Zertifizierungsportales  ungsablau auf Zertifizierung Nummerierung in Prüffall 9515 4.42 ist ab 01.04.2018 Schnittstellenversionen zu verwenden 4.41 und 4.42 für die 4.43 ist ab 01.07.2018 Testdatenvalidierung zur zu verwenden 4.43 TDV9518 des Prüfpaketes Zertifizierungsrichtlinie
 
 ---
 
 # ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms Asthma
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms „Asthma“.
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragsstellers definiert, bildet  den Rahmen der Zertifizierung und ist zu beachten.
 
@@ -120,18 +208,20 @@ Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärz
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
 
 - 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
+
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per E-Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und der vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
+
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragssteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung eingescannt per [E-Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiier](mailto:pruefstelle@kbv.de)[t und der vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ---
 
@@ -141,7 +231,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) System-ID (die letzten drei Stellen der Prüfnummer) o[der des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -151,7 +241,7 @@ Die in das Portal integrierte Prüfautomatisierung führt neben einer inhaltlich
 
 Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig eingestuft wird, wird der  Antragssteller vom Zertifizierungsportal in Form einer neuen Aufgabe aufgefordert, den gemeldeten Fehler  zu beheben bzw. die Lieferung zu vervollständigen.
 
-Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen
+Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im HTML- oder XML-Format) erzeugt und  dem Antragssteller zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte  Lieferungen geprüft. Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei  erkannt wurden, erfolgt die Prüfung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind, werden die  Antragssteller aufgefordert, eine Korrekturlieferung hochzuladen.
 
 Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des Zertifizierungsportals  genutzt werden. Bitte beachten Sie, dass hierfür eine anschließende Prüfung nicht stattfindet. Des  Weiteren müssen für die Testdatenvalidierung die Hinweise in Kapitel 3 berücksichtigt werden.
 
@@ -170,16 +260,18 @@ Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.X
 
 ---
 
-[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere  Prüffall 6513 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfall dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei  verschlüsselt (*.zip.XKM) direkt in dem Hauptverzeichnis des zip
+[Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere der in dem  Prüffall 6513 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls  dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei  verschlüsselt (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
 
-- **Videodateien, Screenshots ausgewählter Anforderungen**
+- **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
 
-Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 9540)  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
+Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 9540) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - [PrüffallNr.]1_[lfdNr.]2 3
 - Teilnahmeerklärung (Prüffall 9540): TE_EWE_AB.pdf
 
-Alle Prüfunterlagen (Asthma-Unterlagen und der Ordner „Dokumentation“ übermitteln. Die Asthma-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft.  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung  ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
+sind in einem ZIP-Archiv zu
+
+Alle Prüfunterlagen (Asthma-Unterlagen und der Ordner „Dokumentation“ übermitteln. Die Asthma-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird  ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
 
 - Zert_103_SystemID.zip
 
@@ -189,7 +281,7 @@ Das ZIP-Archiv kann je nach Komponentenzulassung (KHK und/oder DM2) unterschiedl
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
-391234511_20230430101010_1_ AB_446.zip.XKM XKM-Datei
+391234511_20230430101010_1_AB_446.zip.XKM XKM-Datei
 
 Asthma_bronchiale
 
@@ -209,32 +301,28 @@ Dateiordner
 
 **Archivdatei** mit den Prüfunterlagen
 
-der in dem  s -Archives abgelegt werden.
-
-- **und Teilnahmeerklärung:**
-
-müssen in
-
-sind in einem ZIP-Archiv zu
-
-Der Ordner  und wird
-
 
 ---
 
 ## 1.6 PRÜFVORGABEN
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum  werden, welches bei der Dokumentation angegeben ist. 9, „origination_dttm“) benutzt werden.
+Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. 9, „origination_dttm“) benutzt werden.
+
+Das gleiche Datum sollte auch als Kopfdatum (Feld
 
 ### 1.6.1 Prüfstammdaten
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien
+
+werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+
+verwendet
 
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffa Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
@@ -255,22 +343,11 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
-(Feld 22, „service_tmr“)  Das gleiche Datum sollte auch als Kopfdatum (Feld
-
-Prüfstammdateien -Kryptomodul (XKM)
-
-eingesetzt
-
-verwendet
-
-ll nötigen Angaben zu den
-
-
 ---
 
 ### 1.6.4 Krankenhausdaten
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im eDMP. Es soll hier seine Telefonnummer ang Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im eDMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -292,12 +369,7 @@ Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 
 ### 1.6.6 Stammdatei der Datenannahmestellen (SDDA)
 
-Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen), kann ein  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
-
-egeben werden. Die
-
-mit Hilfe der
-
+Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen), kann ein  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
 
 ---
 
@@ -310,12 +382,13 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **9511** | Erna Müller | XML_14 |
 | **9512** | Ludger Königsstein | XML_15 |
 | **9540** | Lija Malta | XML_36 |
-| **TDV9518** | Brigitte Althaus | XML_05 |
 | **Ersatzverfahren** | | |
-| **6513** | Ingrid Schimmelpfennig- | Ersatzverfahren (s. Versichertendaten 1 |
-| **9513** | Martin Gruber | Ersatzverfahren (s. Versichertendaten 2 ) |
+| **6513** | Ingrid Schimmelpfennig- | Ersatzverfahren (s. Anhang 4.1) |
+| **9513** | Martin Gruber | Ersatzverfahren (s. Anhang 4.2) |
+| **TDV9518** | Asma Tiker | Ersatzverfahren (s. Anhang 4.3) |
 
-Hammerschmidt Federmannssohn
+Hammerschmidt Federmannssohn 
+
 
 ---
 
@@ -323,7 +396,7 @@ Hammerschmidt Federmannssohn
 
 ## 2.1 PRÜFFÄLLE DOKUMENTATION
 
-**2.1.1**
+**2.1.1** **Prüffall 9511**
 
 |  |  |
 |---|---|
@@ -333,23 +406,21 @@ Hammerschmidt Federmannssohn
 | **Prüfunterlagen** | Asthma bronchiale -Dokumentationsunterlagen |
 | **Hinweis** |  |
 
-### Prüffall 9511
-
 **Aktionen, die durch den Antragssteller durchgeführt werden:**
 
 - **1.** **Versichertendaten:**
 
-Die Versichertendaten von **Erna Müller (XML_14)**
+Die Versichertendaten von **Erna Müller (XML_14)** einlesen und speichern.
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 9511 | 9511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
+| Datum | 06.10.2023 | 06.12.2023 |
 | Einschreibung wegen | Asthma bronchiale | Asthma bronchiale |
 | Geschlecht | Weiblich | Weiblich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -361,23 +432,20 @@ Die Versichertendaten von **Erna Müller (XML_14)**
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
+| Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-einlesen und speichern.
-
-Informationsangebote der Krankenkasse AVK -
-
+DATEN AVK Informationsangebote der Krankenkasse
 
 ---
 
-| INDIKATIONSPEZIFISCHE DATEN | | |
+| INDIKATIONS | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma | Häufiger als 2 mal | Keine |
 | In den letzten 4 Wochen: Häufigkeit des Einsatzes | < 1 mal wöchentlich | Keine |
 | In den letzten 4 Wochen: Einschränkung von | Ja | Nein |
 | In den letzten 4 Wochen: Asthmabedingte Störung | Nein | Nein |
-| Aktueller FEV1-Wert (mindestens alle 12 Monate) | 120,2 Prozent des Soll- | Nicht durchgeführt |
+| Aktueller FEV1-Wert (mindestens alle 12 Monate) | 120,2 Prozent des Soll | Nicht durchgeführt |
 | **Relevante Ereignisse** | | |
 | Ungeplante, auch notfallmäßige (ambulant und |  | 99 |
 | **Medikamente** | | |
@@ -395,7 +463,7 @@ Informationsangebote der Krankenkasse AVK -
 | Schriftlicher Selbstmanagementplan | Ja | Nein |
 | Therapieanpassung | Verbesserung der | Verbesserung der |
 
-Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma bronchiale des Nachtschlafes stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Sympathomimetika Sympathomimetika Dokumentation) bereits wahrgenommen Wertes Bei Bedarf Bei Bedarf Bei Bedarf,  Antagonisten, Andere Anwendung der Medikation, Reduktion der Medikation Anwendung der
+PEZIFISCHE DATEN Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma bronchiale des Nachtschlafes stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Sympathomimetika Sympathomimetika Dokumentation) bereits wahrgenommen Wertes Bei Bedarf Bei Bedarf Bei Bedarf,  Antagonisten, Andere Anwendung der Medikation, Reduktion der Medikation Anwendung der
 
 ---
 
@@ -417,13 +485,13 @@ Die Versichertendaten von Ludger Königsstein (XML_15) einlesen und speichern.
 
 - 2. Anlegen einer Erst- und einer Verlaufsdokumentation
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 9512 | 9512 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
-| Datum | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
+| Datum | 06.10.2023 | 06.12.2023 |
 | Einschreibung wegen | Asthma bronchiale | Asthma bronchiale |
 | Geschlecht | Männlich | Männlich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -435,21 +503,20 @@ Die Versichertendaten von Ludger Königsstein (XML_15) einlesen und speichern.
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
-| Datum der Erstellung | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
+| Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-der Krankenkasse -
-
+DATEN der Krankenkasse
 
 ---
 
-| INDIKATIONSPEZIFISCHE DATEN | | |
+| INDIKATIONS | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma | Keine | 2 mal wöchentlich |
 | In den letzten 4 Wochen: Häufigkeit des Einsatzes | Häufiger als 2 mal | < 1 mal wöchentlich |
 | In den letzten 4 Wochen: Einschränkung von | Nein | Ja |
 | In den letzten 4 Wochen: Asthmabedingte Störung | Ja | Nein |
-| Aktueller FEV1-Wert (mindestens alle 12 Monate) | 180,5 Prozent des Soll | 085,9 Prozent des Soll- |
+| Aktueller FEV1-Wert (mindestens alle 12 | 180,5 Prozent des Soll | 085,9 Prozent des Soll |
 | **Relevante Ereignisse** | | |
 | Ungeplante, auch notfallmäßige (ambulant und |  | 2 |
 | **Medikamente** | | |
@@ -467,26 +534,40 @@ der Krankenkasse -
 | Schriftlicher Selbstmanagementplan | Nein | Ja |
 | Therapieanpassung | Keine | Reduktion der Medikation |
 
-Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma bronchiale des Nachtschlafes stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Sympathomimetika Sympathomimetika Dokumentation) bereits wahrgenommen Wertes Antagonisten Wertes 
+PEZIFISCHE DATEN Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma bronchiale des Nachtschlafes Monate) stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Sympathomimetika Sympathomimetika Dokumentation) bereits wahrgenommen Wertes Antagonisten Wertes 
 
 
 ---
+
+**2.1.3** **Prüffall 6513**
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | 6513 |
 | **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
 | **Voraussetzung** | › › › |
-| **Prüfunterlagen** | › › 1. 2.2. 6513 **2.1.3 Hinweis ** Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM2 **Aktionen, die durch den Antragssteller durchgeführt werden:** 1. |
-| **Hinweis** | Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM2 |
+| **Prüfunterlagen** | › › |
+| **Hinweis** | Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM2 verfügt, |
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+- 1. Versichertendaten
+
+Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn (Anhang 4.1
+
+im Ersatzverfahren zu erfassen.
+
+) sind
+
+- 2. Anlegen einer Erst- und einer Verlaufsdokumentation
+
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 6513 | 6513 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  | Ja |
-| Datum | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
+| Datum | 06.10.2023 | 06.12.2023 |
 | Einschreibung wegen | Diabetes mellitus Typ 2, | Diabetes mellitus Typ 2, |
 | Geschlecht | Weiblich | Weiblich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -494,42 +575,131 @@ Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma br
 | Körpergewicht | 064 kg | 062 kg |
 | Blutdruck | 120 / 70 mmHg | 124 / 76 mmHg |
 | Raucher | Ja | Nein |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
-Prüffall 6513 Einschreibung AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.07 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Versichertendaten 1  Ersatzverfahren einlesen und speichern. Anlegen einer Erst- und einer Verlaufsdokumentation verfügt, Sollte das Asthma bronchiale, KHK Asthma bronchiale, KHK
+Einschreibung AB: - die Schnittstellenversion 4.46 DM2: - die Schnittstellenversion 6.0 7 KHK: - die Schnittstellenversion 4.16 Asthma bronchiale-Dokumentationsunterlagen zusätzlich DM2- und/oder KHK-Dokumentationsunterlagen müssen die entsprechenden Daten ebenfalls dokumentiert werden. System keine der beiden Zulassungen besitzen, dann sind nur die Asthma bronchiale-Daten zu übermitteln Sollte das  DATEN Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 
-| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
+|  | | |
 |---|---|---|
+|  |  |  |
+|  | nein | oberflächlich |
+| DM2 | (Wund)Infektion | nein |
+|  |  | Injektionsstellen (bei |
+|  | **INDIKATIONS** | **Anamnese- und Befunddaten** |
+|  |  |  |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote | Tabakverzicht |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 06.07.2023 06.10.2023 | 06.10.2023 06.12.2023 |
+| Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-| INDIKATIONSPEZIFISCHE DATEN | | | |
+der Krankenkasse PEZIFISCHE DATEN Asthma In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber Asthma In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation Asthma In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale Asthma In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes Asthma Aktueller FEV1-Wert (mindestens alle 12 Monate) HbA1c-Wert eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulcus Ulkus Insulintherapie) Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Asthma bronchiale- Dokumentation sind dieses KHK und Diabetes mellitus Erstdokumentation Keine Häufiger als 2 mal wöchentlich Ja Nein 299,9 Prozent des Soll Wertes 15,2 % Nicht bestimmt Auffällig Unauffällig Unauffällig Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Asthma bronchiale- Dokumentation sind dieses KHK und Diabetes mellitus Verlaufsdokumentation Häufiger als 2 mal wöchentlich < 1 mal wöchentlich Nein Nein 010,0 Prozent des Soll Wertes 14,3 % 180 ml/min/1,73m²KOF Unauffällig Nicht untersucht Hyperkeratose mit Einblutung nicht untersucht | INDIKATIONS | | | |
 |---|---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | Asthma | In den letzten 4 Wochen: Häufigkeit von | Keine | Häufiger als 2 mal |
 | Asthma | In den letzten 4 Wochen: Häufigkeit des | Häufiger als 2 mal | < 1 mal wöchentlich |
 | Asthma | In den letzten 4 Wochen: Einschränkung | Ja | Nein |
 | Asthma | In den letzten 4 Wochen: Asthmabedingte | Nein | Nein |
-| Asthma | Aktueller FEV1-Wert (mindestens alle 12 | 299,9 Prozent des Soll- | 010,0 Prozent des Soll- |
+| Asthma | Aktueller FEV1-Wert (mindestens alle 12 | 299,9 Prozent des Soll | 010,0 Prozent des Soll |
 |  | | | |
 | DM2 | HbA1c-Wert | 15,2 % | 14,3 % |
-| DM2 | Pathologische Urin-Albumin-Ausscheidung | Nein | Nicht untersucht |
 | DM2 | eGFR | Nicht bestimmt | 180 ml/min/1,73m²KOF |
 | DM2 | Pulsstatus | Auffällig | Unauffällig |
 | DM2 | Sensibilitätsprüfung | Unauffällig | Nicht untersucht |
 | DM2 | Weiteres Risiko für Ulcus | nein | Hyperkeratose mit |
 | DM2 | Ulkus | nein | oberflächlich |
 | DM2 | (Wund)Infektion | nein | nicht untersucht |
+| DM2 | Injektionsstellen (bei | Unauffällig |  |
+| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
+|  |  |  |  |
+| Tabakverzicht | | | |
+| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |  |
+|  | 06.12.2023 |  |  |
+|  | | | |
+|  |  |  |  |
+|  | | | |
+| In den letzten 4 Wochen: Häufigkeit von | Häufiger als 2 mal |  |  |
+| In den letzten 4 Wochen: Häufigkeit des | < 1 mal wöchentlich |  |  |
+| In den letzten 4 Wochen: Einschränkung | Nein |  |  |
+| In den letzten 4 Wochen: Asthmabedingte | | | |
+|  |  | Aktueller FEV1-Wert (mindestens alle 12 | 299,9 Prozent des Soll |
+|  |  |  |  |
+| HbA1c-Wert | 14,3 % |  |  |
+|  | | | |
+|  | Auffällig | Unauffällig |  |
+|  | Unauffällig | Nicht untersucht |  |
+|  | nein | Hyperkeratose mit |  |
+|  | nein | oberflächlich |  |
+|  | nein | nicht untersucht |  |
+|  | Unauffällig |  |  |
+| **Anamnese- und Befunddaten** | | | |
+|  |  |  |  |
+| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
+|  |  |  |  |
+| Tabakverzicht |  |  | Dokumentationsintervall |
+| Jedes zweite Quartal |  | Datum der Erstellung |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  | In den letzten 4 Wochen: Häufigkeit von | Keine |
+|  |  | In den letzten 4 Wochen: Häufigkeit des | Häufiger als 2 mal |
+|  |  | In den letzten 4 Wochen: Einschränkung | Ja |
+|  | | | |
+|  | Asthma |  | Aktueller FEV1-Wert (mindestens alle 12 |
+|  |  |  |  |
+|  | 15,2 % | 14,3 % |  |
+|  | | | |
+|  | DM2 |  | Pulsstatus |
+|  | DM2 |  | Sensibilitätsprüfung |
+|  | DM2 |  | Weiteres Risiko für Ulcus |
+|  | DM2 |  | Ulkus |
+|  | | | |
+| (Wund)Infektion | nicht untersucht |  |  |
+| Injektionsstellen (bei |  |  | **Behandlungsplanung** |
+| **Erstdokumentation** |  |  |  |
+|  | | | |
+|  |  |  |  |
+| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
+|  | | | |
+|  |  | Tabakverzicht |  |
+| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |  |
+|  | 06.12.2023 |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  | Asthma |
 
-der Krankenkasse Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Asthma bronchiale- Dokumentation sind dieses KHK und Diabetes mellitus Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Asthma bronchiale- Dokumentation sind dieses KHK und Diabetes mellitus Asthma-Symptomen tagsüber Einsatzes der Bedarfsmedikation von Aktivitäten im Alltag wegen Asthma bronchiale Störung des Nachtschlafes Monate) Wertes Wertes Einblutung
 
 ---
 
-| DM2 | Injektionsstellen (bei Insulintherapie) | Unauffällig |  |
+|  | | | |
 |---|---|---|---|
+|  |  |  | |
+|  | DM2 |  | Relevante Ereignisse |
+|  | DM2 |  | Schwere Hypoglykämien seit der letzten |
+|  | DM2 |  | Stationäre notfallmäßige Behandlung |
+|  |  |  |  |
+|  | Nein | Herzinfarkt, |  |
+|  | | | |
+|  | KHK |  | Herzinfarkt innerhalb der letzten 12 |
+|  |  |  |  |
+|  |  | Inhalative Glukokortikosteroide | Keine |
+|  |  | Inhalative lang wirksame Beta-2- | Keine |
+|  |  | Kurz wirksame inhalative Beta-2- | Dauermedikation |
+|  |  | Systemische Glukokortikosteroide | Kontraindikation |
+|  |  | Sonstige asthmaspezifische Medikation | Nein |
+|  |  | Inhalationstechnik überprüft | Ja |
 | DM2 | Intervall für künftige Fußinspektionen (bei | alle 6 Monate | Jährlich |
 | DM2 | Spätfolgen | Diabetische | Diabetische |
 |  | | | |
@@ -553,23 +723,91 @@ der Krankenkasse Anforderungskatalogs müssen die anderen eingeschriebenen Indik
 | Asthma | Sonstige asthmaspezifische Medikation | Nein | Nein |
 | Asthma | Inhalationstechnik überprüft | Ja | Nein |
 |  | | | |
+| DM2 | Insulin oder Insulin-Analoga | Ja | Nein |
+| DM2 | Intervall für künftige Fußinspektionen (bei | alle 6 Monate | Jährlich |
+| DM2 | Spätfolgen | Diabetische | Diabetische |
+|  |  |  | KHK |
+| CCS IV |  |  | KHK |
+| Nicht bestimmt |  |  |  |
+|  | | | |
+|  |  | 1 |  |
+|  |  | DM2 |  |
+| Herzinfarkt |  | DM2 |  |
+| 2 |  | DM2 |  |
+|  | | | |
+|  |  | Relevante Ereignisse | Nein |
+|  |  | Ungeplante stationäre Behandlung wegen |  |
+|  |  | Herzinfarkt innerhalb der letzten 12 | Ja |
+|  | | | |
+|  |  | Asthma |  |
+| Bei Bedarf |  | Asthma |  |
+| Kontraindikation |  | Asthma |  |
+| Bei Bedarf |  | Asthma |  |
+| Keine | | | |
+|  | Nein | Nein |  |
+|  | Ja | Nein |  |
+|  |  | DM2 |  |
+|  | | | |
+|  |  |  |  |
+| DM2 | Intervall für künftige Fußinspektionen (bei | alle 6 Monate | Jährlich |
+| DM2 | | | |
+| Diabetische |  |  |  |
+| KHK | Angina pectoris | CCS IV | CCS III |
+| KHK | LDL-Cholesterin | Nicht bestimmt | 20,2 mmol/l |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
 
 Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation KHK seit der letzten Dokumentation Sympathomimetika Sympathomimetika Nephropathie Nephropathie instabile Angina pectoris
 
 ---
 
-| DM2 | Insulin oder Insulin-Analoga | Ja | Nein |
+|  | | | |
 |---|---|---|---|
-| DM2 | Glibenclamid | Nein | Nein |
+|  | KHK |  | |
+|  | Ja | Kontraindikation |  |
+|  | Nein | Nein, ARB |  |
+|  | Kein Statin | Kontraindikation gegen |  |
+|  |  |  |  |
+| Asthma-Schulung empfohlen (bei aktueller | Nein |  |  |
+| Asthma-Schulung schon vor Einschreibung | | | |
+|  |  | Empfohlene Asthma-Schulung |  |
+|  |  |  |  |
+| Schulung empfohlen (bei aktueller | Keine |  |  |
+| Schulung schon vor Einschreibung ins DMP |  |  |  |
+| Empfohlene Diabetes-Schulung | Bei letzter |  |  |
+| Empfohlene Hypertonie-Schulung | Ja |  |  |
+|  | KHK |  | Schulung bereits vor Einschreibung in |
+|  | KHK |  | Schulung empfohlen (bei aktueller |
+| DM2 | Metformin | Ja | Kontraindikation |
+| DM2 | Sonstige antidiabetische Medikation | Ja | Nein |
+| DM2 | | | |
+| Ja |  | DM2 |  |
+| Nein, Kontraindikation |  | DM2 |  |
+|  | | | |
+|  |  | Thrombozytenaggregationshemmer | Nein |
+|  | | | |
+| Ja |  |  | KHK |
+| Nein |  |  | KHK |
+| Kein Statin |  |  |  |
+|  | | | |
+|  | Ja | Nein |  |
+|  | Ja |  |  |
+|  |  | Ja |  |
+|  | | | |
+| Hypertonie- |  |  | DM2 |
+| Diabetes- |  |  | DM2 |
+|  |  |  | DM2 |
+|  |  |  |  |
+|  |  | Schulung bereits vor Einschreibung in | Ja |
+|  |  | Schulung empfohlen (bei aktueller | Ja |
+|  | | | |
+|  |  |  |  |
 | DM2 | Metformin | Ja | Kontraindikation |
 | DM2 | Sonstige antidiabetische Medikation | Ja | Nein |
 | DM2 | SGLT2-Inhibitor | Nein | Ja |
 | DM2 | GLP-1-Rezeptoragonist | Ja | Nein, Kontraindikation |
 | DM2 | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
-| DM2 | Betablocker | Ja | Kontraindikation |
-| DM2 | ACE-Hemmer | Nein | Nein, ARB |
-| DM2 | HMG-CoA-Reduktase-Hemmer | Ja | Ja |
-| DM2 | Thiaziddiuretika, einschließlich | Ja | Nein |
 |  | | | |
 | KHK | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
 | KHK | Betablocker | Ja | Kontraindikation |
@@ -586,16 +824,89 @@ Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) (ambulant und stat
 | DM2 | Empfohlene Hypertonie-Schulung |  | Ja |
 |  | | | |
 | KHK | Schulung bereits vor Einschreibung in | Ja |  |
-
-Chlorthalidon Dokumentation) in DMP bereits wahrgenommen wahrgenommen Dokumentation) bereits wahrgenommen wahrgenommen wahrgenommen DMP wahrgenommen Dokumentation keine
-
----
-
 | KHK | Schulung empfohlen (bei aktueller | Ja | Nein |
-|---|---|---|---|
 | KHK | Empfohlene Schulung(en) |  | Nein |
 | **Behandlungsplanung** | | | |
 | Asthma | Schriftlicher Selbstmanagementplan | Nein | Ja |
+| DM2 | Metformin | Ja | Kontraindikation |
+| DM2 | | | |
+| Nein |  | DM2 |  |
+| Ja |  | DM2 |  |
+| Nein, Kontraindikation |  | DM2 |  |
+| Kontraindikation, Nein |  |  |  |
+| KHK | | | |
+| Kontraindikation, Nein |  | KHK |  |
+
+Dokumentation) in DMP bereits wahrgenommen wahrgenommen Dokumentation) bereits wahrgenommen wahrgenommen wahrgenommen DMP wahrgenommen Dokumentation) wahrgenommen Dokumentation keine
+
+---
+
+|  | | | |
+|---|---|---|---|
+|  |  |  | |
+| Ja |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Asthma | Therapieanpassung | Keine | Steigerung der |
+|  |  |  | DM2 |
+| Zielwert erreicht | | | |
+| DM2 | Ophthalmologische |  | Nicht durchgeführt |
+| DM2 | Behandlung/Mitbehandlung in einer für | Ja, Veranlasst | Nein |
+|  | | | |
+|  |  |  |  |
+| Regelmäßiges sportliches Training | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+| Asthma | Therapieanpassung | Keine | Steigerung der |
+|  |  |  | DM2 |
+| Zielwert erreicht |  |  | DM2 |
+|  |  |  | DM2 |
+| Ja, Veranlasst |  |  | DM2 |
+| Nein | | | |
+|  |  |  | KHK |
+| Nein |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
 | Asthma | Therapieanpassung | Keine | Steigerung der |
 |  | | | |
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert erreicht |
@@ -605,26 +916,19 @@ Chlorthalidon Dokumentation) in DMP bereits wahrgenommen wahrgenommen Dokumentat
 |  | | | |
 | KHK | Regelmäßiges sportliches Training | Nein | Ja |
 
-Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Medikation 
-
+Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Medikation
 
 ---
 
-| 2.2.1 |  |
-|---|---|
-|  | **Prüffall-ID** |
-| 9514 | **Testziel** |
-| Kontrolle der softwareseitigen Erkennung von Fehleingaben | **Voraussetzung ** Patient oder Patientin ist mindestens 18 Jahre alt |
-| **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresyst   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  1.1. 2.**Prüffall-ID  2.2 2.2.1** Dokumentieren Sie durch Video(s) die Eingaben   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| Dokumentieren Sie durch Video(s) die Eingaben |  |
+**2.2** **PRÜFFÄLLE SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
-| **Administrative Daten** | **Erstdokumentation** | **Aktion  Screenshot** |
+| **Administrative Daten** | **Erstdokumentation** | **Aktion ** |
 | DMP-Fallnummer | 9514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.07.2023 06.10.2023 |  |
+| Datum | 06.10.2023 |  |
 | Einschreibung wegen | Asthma bronchiale |  |
 | Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -633,32 +937,51 @@ Dokumentation) wahrgenommen Netzhautuntersuchung seit der letzten Dokumentation 
 | Blutdruck | 47 / 29 mmHg | Nr. 3 |
 | Raucher | Ja |  |
 | Begleiterkrankungen |  | Nr. 4 |
+| **Behandlungsplanung** | | |
+| **2.2.1** |  |  |
+|  |  |  |
+|  |  |  |
 
-PRÜFFÄLLE SYSTEMREAKTION Prüffall 9514  bzw. Prüfung, dass manche Fehleingaben nicht möglich sind em die Eingabefehler verhindert  und die möglichen Hinweis- bzw. Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Hinweis Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Aktionen, die durch den Antragssteller durchgeführt werden: Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar Anlegen einer Erstdokumentation Patienten |  |  |
+|  |  |
 |---|---|
 | **Prüffall-ID** | 9514 |
-| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben bzw. Prüfung, dass |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
-| **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresyst   Dokumentieren Sie durch Video(s) die Eingaben   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
+manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 9514 Aktionen, die durch den Antragssteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Patienten
 
 ---
 
-| Behandlungsplanung | | |
+|  | | |
 |---|---|---|
+|  |  |  |
+| Kontraindikation |  |  |
+| Nein, Andere |  |  |
+| Ja |  |  |
+|  |  |  |
+| Ja |  |  |
+| War aktuell nicht möglich |  |  |
+|  | | |
+|  |  |  |
+| Nicht durchführbar |  |  |
+| Steigerung der |  | **INDIKATIONS** |
+| **Aktion** | **Medikamente** | **Schulung** |
+|  |  |  |
+|  | | |
 | Vom Patienten gewünschte Informationsangebote der |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung | 06.07.2023 06.10.2023 |  |
+| Datum der Erstellung | 06.10.2023 |  |
 
-| INDIKATIONSPEZIFISCHE DATEN | | |
+Krankenkasse PEZIFISCHE DATEN Anamnese- und Befunddaten In den letzten 4 Wochen: Häufigkeit von Asthma -Symptomen tagsüber In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes Aktueller FEV1-Wert (mindestens alle 12 Monate) Relevante Ereignisse Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2-Sympathomimetika Kurz wirksame inhalative Beta-2-Sympathomimetika Systemische Glukokortikosteroide Sonstige asthmaspezifische Medikation Inhalationstechnik überprüft Asthma-Schulung empfohlen (bei aktueller Dokumentation) Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen Empfohlene Asthma-Schulung wahrgenommen Behandlungsplanung Schriftlicher Selbstmanagementplan Therapieanpassung Erstdokumentation Wöchentlich 300 Prozent des Soll -Wertes Keine Keine Keine, Bei Bedarf Medikation, Reduktion der Medikation Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12 Nr. 13 Nr. 14 Nr. 15 | INDIKATIONS | | |
 |---|---|---|
-| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Aktion  Screenshot** |
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Aktion** |
 | In den letzten 4 Wochen: Häufigkeit von Asthma | Wöchentlich | Nr. 5 |
 | In den letzten 4 Wochen: Häufigkeit des Einsatzes der |  | Nr. 6 |
 | In den letzten 4 Wochen: Einschränkung von Aktivitäten im | Nein |  |
 | In den letzten 4 Wochen: Asthmabedingte Störung des |  | Nr. 7 |
-| Aktueller FEV1-Wert (mindestens alle 12 Monate) | 300 Prozent des Soll- | Nr. 8 |
+| Aktueller FEV1-Wert (mindestens alle 12 Monate) | 300 Prozent des Soll | Nr. 8 |
 | **Relevante Ereignisse** | | |
 | Ungeplante, auch notfallmäßige (ambulant und stationär) | 2 | Nr. 9 |
 | **Medikamente** | | |
@@ -674,40 +997,52 @@ PRÜFFÄLLE SYSTEMREAKTION Prüffall 9514  bzw. Prüfung, dass manche Fehleingab
 | Empfohlene Asthma-Schulung wahrgenommen | Ja | Nr. 13 |
 | **Behandlungsplanung** | | |
 | Schriftlicher Selbstmanagementplan | Nicht durchführbar | Nr. 14 |
-
-Krankenkasse -Symptomen tagsüber Bedarfsmedikation Alltag wegen Asthma bronchiale Nachtschlafes ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Wertes
-
----
-
-| Steigerung der Medikation,  Nr. 15 | Asthmabezogene Über- bzw. Einweisung veranlasst Nein |
-|---|---|
-| Nr. 16 | 3. |
-|  |  |
-|  |  |
-|  | 3. Therapieanpassung  Steigerung der Medikation, |
-|  |  |
-
-Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann Reduktion der Medikation | Therapieanpassung | Steigerung der Medikation, | Nr. 15 |
-|---|---|---|
-| Asthmabezogene Über- bzw. Einweisung veranlasst | Nein | Nr. 16 |
+| Therapieanpassung | Steigerung der | Nr. 15 |
+| Vom Patienten gewünschte Informationsangebote der |  |  |
 
 
 ---
 
-| 4. | INDIKATIONSÜBERGREIFENDE DATEN |
-|---|---|
-| **Anamnese- und Befunddaten** | **Verlaufsdokumentation** |
-| **Aktion** |  |
-| **Screenshot ** In den letzten 4 Wochen: Häufigkeit von Asthma | 2 mal wöchentlich    In den letzten 4 Wochen: Häufigkeit des Einsatzes der |
-| 1 mal wöchentlich | In den letzten 4 Wochen: Einschränkung von Aktivitäten im  Nein  Aktueller FEV1-Wert (mindestens alle 12 Monate) Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche **Verlaufsdokumentation** 4. In den letzten 4 Wochen: Asthmabedingte Störung des  Ja    Aktueller FEV1-Wert (mindestens alle 12 Monate) |
-| In den letzten 4 Wochen: Asthmabedingte Störung des | Ja |
-
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+|  | | |
 |---|---|---|
-| **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion  Screenshot** |
-| In den letzten 4 Wochen: Häufigkeit von Asthma | 2 mal wöchentlich |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  |  |  |
+| Asthmabezogene Über | Nein | Nr. 16 |
+
+- 3. **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann**
+- bzw. Einweisung veranlasst -
+
+
+---
+
+- 4. Anlegen einer Verlaufsdokumentation am 06.12.2023
+
+| INDIKATIONSÜBERGREIFENDE | | |
+|---|---|---|
+| **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion** |
+| In den letzten 4 Wochen: | 2 mal wöchentlich |  |
 | In den letzten 4 Wochen: Häufigkeit des Einsatzes der | 1 mal wöchentlich |  |
-| In den letzten 4 Wochen: Einschränkung von Aktivitäten im | Nein |  |
+| In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag | Nein |  |
 | In den letzten 4 Wochen: Asthmabedingte Störung des | Ja |  |
 | Aktueller FEV1-Wert (mindestens alle 12 Monate) | 009,9 Prozent des | Nr. 17 |
 | **Relevante Ereignisse** | | |
@@ -717,7 +1052,7 @@ Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstd
 | Inhalative lang wirksame Beta-2-Sympathomimetika | Keine, Kontraindikation |  |
 | Kurz wirksame inhalative Beta-2-Sympathomimetika | Dauermedikation |  |
 | Systemische Glukokortikosteroide | Bei Bedarf |  |
-| Sonstige asthmaspezifische Medikation | Keine Nein |  |
+| Sonstige asthmaspezifische Medikation | Nein |  |
 | Inhalationstechnik überprüft | Nein |  |
 | **Schulung** | | |
 | Asthma-Schulung empfohlen (bei aktueller Dokumentation) | Ja |  |
@@ -727,25 +1062,32 @@ Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstd
 | Schriftlicher Selbstmanagementplan | Ja |  |
 | Therapieanpassung | Keine |  |
 
-Anlegen einer Verlaufsdokumentation am 06.10.2023 06.12 -Symptomen tagsüber  Bedarfsmedikation wegen Asthma bronchiale Nachtschlafes Relevante Ereignisse Behandlung wegen Asthma bronchiale seit der letzten Dokumentation .2023: Alltag 009,9 Prozent des Nr. 17 Sollwertes möglich 
+DATEN Häufigkeit von Asthma-Symptomen tagsüber  Bedarfsmedikation wegen Asthma bronchiale Nachtschlafes Behandlung wegen Asthma bronchiale seit der letzten Sollwertes möglich 
 
 
 ---
+
+**2.2.2** **Prüffall 9515**
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | 9515 |
 | **Testziel** | Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung |
-| **Voraussetzung** | sein, COPD zu dokumentieren **Prüfunterlagen** |
-| Screenshots / Videodateien und ggf. | **Hinweis ** Nach der Fehlermeldung 20 muss das Geburtsdatum auf den 23.10.1982 geändert  2.**Screenshot ** 9515 **2.2.2** 1. Versichertendaten 2 ) im Ersatzverfahren erfassen. 2. |
-| **Aktionen, die durch den Antragssteller durchgeführt werden:** 1. | Versichertendaten 2 |
+| **Voraussetzung** | sein, COPD zu dokumentieren |
+| **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterungen, wie das Softwaresystem die |
+| **Hinweis** | Nach der Fehlermeldung 20 muss das Geburtsdatum auf den 23.10.1982 geändert |
 
-| INDIKATIONSÜBERGREIFENDE DATEN | | |
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+- 1. Versichertendaten:  Martin Gruber (Versichertendaten 2– Ersatzverfahren
+- 2. Anlegen einer Erstdokumentation
+
+| INDIKATIONSÜBERGREIFENDE | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Screenshot** |
 | DMP-Fallnummer | 9515 |  |
 | Krankenhaus-IK |  |  |
-| Dokumentation in Vertretung erstellt |  |  |
+| Dokumentation in Vertretung |  |  |
 | Datum | 06.10.2023 |  |
 | Einschreibung wegen | Asthma bronchiale | Nr. 20 |
 |  | COPD | Nr. 21 |
@@ -761,15 +1103,7 @@ Anlegen einer Verlaufsdokumentation am 06.10.2023 06.12 -Symptomen tagsüber  Be
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.10.2023 |  |
 
-Prüffall 9515 Für die Erzeugung der Fehlermeldung Eingabefehler verhindert werden, um dann die Fehlermeldungen Versichertendaten: Martin Gruber ( Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten 21 muss die Software ebenfalls in der Lage Erläuterungen, wie das Softwaresystem die 21 zu erzeugen Asthma bronchiale. Keine der genannten
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 9515 |
-| **Testziel** | Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung |
-| **Voraussetzung** | sein, COPD zu dokumentieren |
-| **Prüfunterlagen** | Screenshots / Videodateien und ggf. |
-| **Hinweis** | Nach der Fehlermeldung 20 muss das Geburtsdatum auf den 23.10.1982 geändert |
+Für die Erzeugung der Fehlermeldung 21 muss die Software ebenfalls in der Lage Eingabefehler verhindert werden, um dann die Fehlermeldungen 21 zu erzeugen  DATEN erstellt Asthma bronchiale. Keine der genannten - ) sind im Ersatzverfahren zu erfassen.
 
 
 ---
@@ -797,7 +1131,7 @@ Prüffall 9515 Für die Erzeugung der Fehlermeldung Eingabefehler verhindert wer
 \| **Szenario 3** |
 \| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine  KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Systemfunktionalität Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 9511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren. entsprechenden Warnung gemäß Anforderung P1 -12 (siehe dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Verlaufsdokumentation angelegt. Hinweismeldung (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus (Bildschirmkopie oder PDF beilegen). Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe werden.
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Systemfunktionalität Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 9511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren. entsprechenden Warnung gemäß Anforderung P1-12 (siehe dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Hinweismeldung (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus (Bildschirmkopie oder PDF beilegen). Hier soll die Umsetzung der Anforderungen KP4 -40 und KP4-41 (siehe werden. Verlaufsdokumentation angelegt. 
 
 
 ---
@@ -810,7 +1144,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Systemfun
 | **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | PDF-Datei der indikationsübergreifenden Teilnahme- und Einwilligungserklärung |
-| **Hinweis** | indikationsübergreifenden Teilnahme |
+| **Hinweis** | indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -827,25 +1161,26 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Falls Ihr System die optionale Anforderung O7 -10 (Ausdruck des Barcodes auf der - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der Barcode aufzudrucken. 
 
 
 ---
 
 # TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 6513“.
+Alle beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der  Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der multimorbide  Fall „Prüffall 6513“.
 
-Zusätzlich kann optional auch der Prüffall TDV9518 in der Testdatenvalidierung genutzt werden.
+Zusätzlich kann optional auch der Prüffall TDV9518 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die neue Schnittstellenversion **4.47** (gültig ab 01.10.2026)
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  findet nicht statt,
+
+manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_103“ beginnen muss, sonst schlägt die Validierung fehl.
 
-Abbildung 4: Exemplarische Verzeichn isstruktur für die Testdatenvalidierung
-
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV9518
 
 ---
 
@@ -854,68 +1189,132 @@ Abbildung 4: Exemplarische Verzeichn isstruktur für die Testdatenvalidierung
 |  |  |
 |---|---|
 | **Prüffall-ID** | TDV9518 |
-| **Testziel** | Anlage einer Erstdokumentation mit der Schnittstellenversion |
+| **Testziel** | Anlage einer Erst- und Verlaufsdokumentation mit der neuen Schnittstellenversion**4.47 (** |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | › 1. 2. |
-| **Hinweis** |  |
+| **Prüfunterlagen** | › |
+| **Hinweis** | Dieser Prüffall ist  nicht im Zertifizierungsportal hochgeladen werden. |
 
-| INDIKATIONSÜBERGREIFENDE DATEN | |
-|---|---|
-| **Administrative Daten** | **Erstdokumentation** |
-| DMP-Fallnummer | TDV9518 |
-| Krankenhaus-IK |  |
-| Dokumentation in Vertretung erstellt |  |
-| Datum | 05.04.2022 |
-| Einschreibung wegen | Asthma bronchiale |
-| Geschlecht | Weiblich |
-| **Allgemeine Anamnese- und Befunddaten** | |
-| Körpergröße | 1,60 m |
-| Körpergewicht | 060 kg |
-| Blutdruck | 120 / 80 mmHg |
-| Raucher | Nein |
-| Begleiterkrankungen | Keine der genannten Erkrankungen |
-| **Behandlungsplanung** | |
-| Vom Patienten gewünschte Informationsangebote der Krankenkasse |  |
-| Dokumentationsintervall | Quartalsweise |
-| Datum der Erstellung | 05.04.2022 |
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP
 
-| INDIKATIONSPEZIFISCHE DATEN | |
-|---|---|
-| **Anamnese- und Befunddaten** | **Erstdokumentation** |
-| In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen | 2 mal wöchentlich |
-| In den letzten 4 Wochen: Häufigkeit des Einsatzes der | < 1 mal wöchentlich |
+| INDIKATIONSÜBERGREIFENDE | | |
+|---|---|---|
+| **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
+| DMP-Fallnummer | TDV9518 | TDV9518 |
+| Krankenhaus-IK |  |  |
+| Dokumentation in Vertretung erstellt |  |  |
+| Datum | 15.10.2026 | 15.04.2027 |
+| Einschreibung wegen | Asthma bronchiale | Asthma bronchiale |
+| Geschlecht | Weiblich | Weiblich |
+| **Allgemeine Anamnese- und Befunddaten** | | |
+| Körpergröße | 1,80 m | 1,80 m |
+| Körpergewicht | 095 kg | 092 kg |
+| Blutdruck (systolisch / diastolisch) | 131 / 88 mmHg | 125 / 85 mmHg |
+| Raucher | Ja | Nein |
+| Begleiterkrankungen | Fettstoffwechselstörung, | Fettstoffwechselstörung |
+| Weiblich | | |
+|  |  |  |
+|  |  | TDV9518 |
+|  |  |  |
 
-Asthma bronchiale-Dokumentationsunterlagen Versichertendaten: Die Versichertendaten von Brigitte Althaus (XML_05) einlesen und speichern. Anlegen einer Erstdokumentation 4.45 tagsüber Bedarfsmedikation
+des Archivs mit „
+
+Name
+
+**Test**
+
+Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV9518
+
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+- 1.
+
+gültig ab dem  01.10.2026) Asthma bronchiale-Dokumentationsunterlagen nur  für die Testdatenvalidierung, die Prüfunterlagen können daher -Archives. Beachten Sie, dass der Dateinamen Test _103“ beginnen muss, sonst schlägt die Validierung fehl. Typ _103_SystemID.zip  ZIP-komprimierter Ordner Dateiordner          391234511_20250406101010_1_ AB_447.idx     IDX-Datei 391234511_20250406101010_1_ AB_447.idx.XKM   XKM-Datei Versichertendaten: Die Versichertendaten von Asma Tiker Anlage 4.3 ) sind im Ersatzverfahren zu erfassen. Anlegen einer Erst- und Verlaufsdokumentation:  DATEN AVK - 2.
+
 
 ---
 
-| In den letzten 4 Wochen: Einschränkung von Aktivitäten im | Nein |
-|---|---|
-| In den letzten 4 Wochen: Asthmabedingte Störung des | Ja |
-| Aktueller FEV -Wert (mindestens alle 12 Monate) | 110,1 Prozent des Soll-Wertes |
-| **Medikamente** | |
-| Inhalative Glukokortikosteroide | Bei Bedarf |
-| Inhalative lang wirksame Beta-2-Sympathomimetika | Keine |
-| Kurz wirksame inhalative Beta-2-Sympathomimetika | Keine |
-| Systemische Glukokortikosteroide | Bei Bedarf |
-| Sonstige asthmaspezifische Medikation | Nein |
-| Inhalationstechnik überprüft | Ja |
-| **Schulung** | |
-| Asthma-Schulung empfohlen (bei aktueller Dokumentation) | Nein |
-| Asthma-Schulung schon vor Einschreibung in DMP bereits | Nein |
-| Empfohlene Schulung wahrgenommen |  |
-| **Behandlungsplanung** | |
-| Schriftlicher Selbstmanagementplan | Ja |
-| Therapieanpassung | Reduktion der Medikation |
+|  | | |
+|---|---|---|
+|  |  |  |
+| Ja |  |  |
+|  |  |  |
+| Ja |  |  |
+| Nein |  |  |
+|  |  |  |
+|  |  | **Behandlungsplanung** |
+|  | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| **Behandlungsplanung** | | |
+| Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training |  |
+| Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
+| Datum der Erstellung | 15.10.2026 | 15.04.2027 |
 
-Alltag wegen Asthma bronchiale Nachtschlafes 
+| INDIKATIONS | | |
+|---|---|---|
+| **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
+| In den letzten 4 Wochen: Häufigkeit von Asthma | Häufiger als 2 mal | Keine |
+| In den letzten 4 Wochen: Häufigkeit des Einsatzes | < 1 mal wöchentlich | Keine |
+| In den letzten 4 Wochen: Einschränkung von | Ja | Nein |
+| In den letzten 4 Wochen: Asthmabedingte Störung | Nein | Nein |
+| Aktueller FEV1-Wert (mindestens alle 12 Monate) | 120,2 Prozent des Soll | Nicht durchgeführt |
+| **Relevante Ereignisse** | | |
+| Ungeplante, auch notfallmäßige (ambulant und |  | 99 |
+| **Medikamente** | | |
+| Inhalative Glukokortikosteroide | Dauermedikation, | Keine |
+| Inhalative lang wirksame Beta-2- | Dauermedikation, | Keine, Kontraindikation |
+| Kurz wirksame inhalative Beta-2- | Dauermedikation, | Kontraindikation |
+| Systemische Glukokortikosteroide | Dauermedikation | Keine, Kontraindikation |
+| Sonstige asthmaspezifische Medikation | Leukotrien-Rezeptor- | Nein |
+| Inhalationstechnik überprüft | Ja | Nein |
+| **Schulung** | | |
+| Asthma-Schulung empfohlen (bei aktueller | Ja | Nein |
+| Asthma-Schulung schon vor Einschreibung in DMP | Nein |  |
+| Empfohlene Asthma-Schulung wahrgenommen |  | Nein |
+| **Behandlungsplanung** | | |
+|  |  |  |
+| Vom Patienten gewünschte | Tabakverzicht, | Körperliches Training |
+
+Informationsangebote der Krankenkasse PEZIFISCHE DATEN Erstdokumentation Häufiger als 2 mal wöchentlich < 1 mal wöchentlich  120,2 Prozent des Soll Wertes Dauermedikation, Bei Bedarf Dauermedikation, Bei Bedarf Dauermedikation, Bei Bedarf,  Dauermedikation Leukotrien-Rezeptor- Antagonisten, Andere Verlaufsdokumentation Keine Keine Nicht durchgeführt 99 Keine Keine, Kontraindikation Kontraindikation Keine, Kontraindikation Symptomen tagsüber der Bedarfsmedikation Aktivitäten im Alltag wegen Asthma bronchiale des Nachtschlafes stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Sympathomimetika Sympathomimetika Dokumentation) bereits wahrgenommen
+
+---
+
+|  | | |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | | |
+| Schriftlicher Selbstmanagementplan | Ja | Nein |
+| Therapieanpassung | Verbesserung der | Verbesserung der |
+
+Anwendung der Medikation, Reduktion der Medikation Anwendung der Medikation 
 
 
 ---
 
 # ANHANG
 
-## 4.1 VERSICHERTENDATEN 1 ERSATZVERFAHREN
+## 4.1 VERSICHERTENDATEN 1– ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -945,7 +1344,7 @@ Federmannssohn Plaetzchen
 
 ---
 
-## 4.2 VERSICHERTENDATEN 2 ERSATZVERFAHREN
+## 4.2 VERSICHERTENDATEN 2– ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -975,12 +1374,42 @@ und Georg-von-Groscurth-Plaetzchen
 
 ---
 
+**4.3** **PRÜFFALL TDV9518 ERSATZVERFAHREN**
+
+| PERSONALIEN | | |
+|---|---|---|
+| **3100** | **Namenszusatz** |  |
+| **3120** | **Vorsatzwort** |  |
+| **3101** | **Name** | Tiker |
+| **3102** | **Vorname** | Asma |
+| **3103** | **Geburtsdatum** | 12.08.1996 |
+| **3104** | **Titel** |  |
+| **3119** | **Versicherten_ID** | T120819960 |
+| **3107** | **Straße** | Anneliese- |
+| **3109** | **Hausnummer** | 103 A |
+| **3112** | **PLZ** | 10117 |
+| **3114** | **Wohnsitzländercode** | D |
+| **3113** | **Ort** | Berlin |
+| **3116** | **WOP** | 72 |
+| **3108** | **Versichertenart** | 1 |
+| **3110** | **Geschlecht** | W |
+| **4133** | **Versicherungsschutz Beginn** |  |
+| **4110** | **Versicherungsschutz Ende** |  |
+| **4111** | **Kostentraegerkennung** | 109719018 |
+| **4131** | **BesonderePersonengruppe** | 00 |
+| **4132** | **DMP_Kennzeichnung** | 12 |
+
+und Georg-von-Groscurth-Plaetzchen 
+
+
+---
+
 # REFERENZIERTE DOKUMENTE
 
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| Austausch_von_XML-Daten_V(n.nn ).ZIP | KBV_ITA_VGEX_XML-Schnittstellen - Austausch von |
+| Austausch_von_XML-Daten_V(n.nn ).ZIP | KBV_ITA_VGEX_XML |
 | EXT_ITA_AHEX_Anleitung_eDMP_Asthma | Ausfüllanleitung zum indikationsspezifischen |
 | EXT_ITA_AHEX_Teilnahme_eDMP_Asthma | Erklärung Asthma zur Teilnahme an einem |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma | Plausibilitätsrichtlinie zur Prüfung der |
@@ -998,7 +1427,7 @@ und Georg-von-Groscurth-Plaetzchen
 | VSD_5.2.0_Testfaelle_Vn.n.zip (eGK Daten im XML | eGK Daten |
 | XPM-Paket_Asthma | Prüfmodul Asthma |
 
-Testschlüssel Format) XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm Asthma bronchiale strukturierten Behandlungsprogramm für Asthma Dokumentationsdaten des strukturierten Behandlungsprogramms Asthma Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei)
+-Schnittstellen  - Austausch von XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm Asthma bronchiale strukturierten Behandlungsprogramm für Asthma Dokumentationsdaten des strukturierten Behandlungsprogramms Asthma Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) Testschlüssel Format)
 
 ---
 

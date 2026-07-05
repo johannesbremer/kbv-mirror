@@ -269,21 +269,15 @@ Behandlungsreleva nte Informationen , Inklusive deren Berichtigungen und Änderu
 
 - **strukturierte Datenbank**
 
-```
 -
-```
 
 - nicht unbedingt relevant
 
-```
 -
-```
 
 ## KT IMPORTIERT
 
-```
 -
-```
 
 , müssen erhalten
 

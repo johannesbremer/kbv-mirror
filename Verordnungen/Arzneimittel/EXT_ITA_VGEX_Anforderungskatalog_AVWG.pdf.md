@@ -1,6 +1,10 @@
 ## Anforderungskatalog  SGB V für Verordnungssoftware
 
-*Anforderungen an die Software zur*  *Verordnung von Arzneimitteln und*  *sonstigen nach § 31 SGB V in die*  *Arzneimittelversorgung einbezogenen*  *Produkten*
+## Anforderungen an die Software zur  Verordnung von Arzneimitteln und
+
+*sonstigen nach § 31 SGB V in die*
+
+*Arzneimittelversorgung einbezogenen*  *Produkten*
 
 |  | Anlage 23 zu § 29 Bundesmantelvertrag  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] |
 |---|---|
@@ -14,9 +18,14 @@
 
 ---
 
-# Inkrafttreten
+| Anforderungskatalog | nach § 73 SGB V fü r V ero rd nungssoftw are – Version 5.8 |
+|---|---|
+| **Inkrafttreten** |  |
+| Der Anforderungskatalog | in der Version 5.8 tritt am 01.10.2025 in Kraft. |
+| EXT_ITA_VGEX_Anforderungskatalog_AVWG | * Version 5.8 |
 
-Der Anforderungskatalog in der Version 5. 8 tritt am 01.10.2025 in Kraft.
+Der Anforderungskatalog in der Version 5.
+
 
 ---
 
@@ -61,11 +70,11 @@ Archivierung der Rote-Hand-Briefe und zur Anzeige des Blaue-Hand- Schulungsmater
 \| **Inhaltsverzeichnis ** |
 \|---|
 
-#### Inkrafttreten ...................................................................................................... 2
+Inkrafttreten ...................................................................................................... 2
 
-#### Änderungsverzeichnis .................................................................................... 3
+Änderungsverzeichnis .................................................................................... 3
 
-#### Inhaltsverzeichnis ............................................................................................ 5
+Inhaltsverzeichnis ............................................................................................ 5
 
 **1. Einleitung ................................................................................................... 7** **1.1 Zielbestimmung ..................................................................................................... 7**
 
@@ -258,9 +267,7 @@ Die Inhalte der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a Absatz
 
 - -ausschlüsse),
 
-```
 -
-```
 
 abzubilden. Dies gilt
 
@@ -1125,12 +1132,13 @@ Das Update erfolgt bis zum 30.06.2020 mindestens monatlich. Ab dem 01.07.2020 er
 
 Werden Änderungen an den Arzneimittelstammdaten vorgenommen,  Softwareanbieter einen neuen Datenstand und aktualisiert die Preis- und Produktangaben  sämtlicher Produkte nach den Vorgaben in **P2-100**. Änderungen, die ohne Festsetzung eines  neuen Datenstandes vorgenommen werden oder sich auf einzelne Produkte beziehen, sind  nur zulässig, soweit sie der Korrektur nachträglich festgestellter Fehler dienen. Darübe
 
-```
 -
+
 -
+
 -
+
 -
-```
 
 Arzneimittelstammdaten  dass sämtliche  aktuellen Stand der
 
@@ -1210,9 +1218,7 @@ Umsetzung der Anforderung **O2-145**
 
 n Arzneimittel zu
 
-```
 -
-```
 
 - und durch  P3-624
 - und durch  sind die gemäß der
@@ -1420,15 +1426,12 @@ Kassenärztlichen
 
 **P2-100**
 
-```
 -
-```
 
 - in den
 
-```
 -
-```
+
 
 ---
 
@@ -1642,9 +1645,7 @@ Für alle Rote-Hand-Briefe, die zum Zeitpunkt des 01.10.2023 älter als sechs Mo
 
 fortlaufend in der
 
-```
 -
-```
 
 - die folgenden
 - nach EAMIV
@@ -1689,15 +1690,13 @@ Quellen:
 
 - sein, objektivierbaren
 
-```
 -
-```
 
 - für unerwünschte
-
-```
 - [](https://www.akdae.de/Arzneimittelsicherheit/UAW-Meldung/UAW-Berichtsbogen.pdf)
 - [](https://www.akdae.de/Arzneimittelsicherheit/UAW-Meldung/MF-Berichtsbogen.pdf)
+
+```
 [](https://www.akdae.de/Arzneimitteltherapie/LF/PDF/Nebenwirkungen_melden.pdf)
 ```
 
@@ -1957,9 +1956,7 @@ Verkürztes Anwendungsgebiet
 
 Eine kombinierte Abfrage ist möglich.
 
-```
 -
-```
 
 (Merkmal 171)
 
@@ -1995,9 +1992,7 @@ anzuzeigen.
 - mit unterschiedlichen  Gruppierung nach  jeweils nach
 - nach Wirkstärke (unter  jeweils  A, dann jeweils nach  nach Wirkstoffstärke des
 
-```
 -
-```
 
 Bereich hervorzuheben.
 
@@ -2041,10 +2036,9 @@ angeboten werden. In den
 
 - Wirkstoffkombination
 
-```
 -
+
 -
-```
 
 - N-Kennzeichnung gleicher
 
@@ -2056,9 +2050,7 @@ Kriterien (auch
 
 - Absatz 5a SGB V bei nicht
 
-```
 -
-```
 
 und Sortierung Preisvergleich (Grundeinstellung) der Auswahlliste nach **P3-120** als Übersicht
 
@@ -2300,15 +2292,12 @@ Die Verordnungssoftware weist den Anwender bei jeder Verordnung ohne  Dosierungs
 - (3) Die Verordnungssoftware muss mittels Freitextfeld die Angabe einer Dosierung wie  folgt ermöglichen:
 - o Bei einer papiergebundenen Verordnung erfolgt der Aufdruck hinter dem  verordneten Produkt am Ende der Verordnungszeile mittels „
 
-```
 -
-```
 
 Beispiele:
 
-```
 -  Ramipril XYZ-Pharma 2,5 mg 20 Tbl. N1 PZN01234567  1-0-0
-```
+
 
 ---
 
@@ -2320,9 +2309,7 @@ Beispiele:
 - (4) Die Verordnungssoftware kann optional **zusätzlich** eine strukturierte Eingabe einer  Dosierung ermöglichen.
 - o Bei einer papiergebundenen Verordnung erfolgt der Aufdruck hinter dem  verordneten Produkt am Ende der Verordnungszeile mittels „
 
-```
 -
-```
 
 - o Bei einer elektronischen Verordnung erfolgt die Angabe über das Element  MedicationRequest.dosageInstruction.text in dem Profil  KBV_PR_ERP_Prescription.
 - (5) Die Verordnungssoftware muss die Angabe, dass ein Medikationsplan oder eine  schriftliche Dosierungsanweisung vorliegt, ermöglichen.
@@ -2377,9 +2364,7 @@ Eine
 - nach § 31 Absatz 3 Satz 7
 - -bezogenes
 
-```
 -
-```
 
 - § 31 Absatz 3 Satz 7 SGB V
 - KBV_EX_FOR_L
@@ -2751,24 +2736,19 @@ Die Formularauswahl soll den Anwender dabei unterstützen, das richtige Verordnu
 - o bei Lifestyle-Arzneimitteln (Merkmal 051)
 - o bei Arzneimitteln mit Verordnungsausschluss nach AM (Merkmal 056)
 
-```
 -
-```
 
 Verordnungen
 
 - **P3-710** muss im Element type im Profil
 
-```
 -
+
 -
-```
 
 - en ein Privat-Rezept sein:
 
-```
 -
-```
 
 - ausgefüllt
 
@@ -2776,10 +2756,9 @@ insbesondere das
 
 **P3-731**
 
-```
 -
+
 -
-```
 
 - standardmäßig das
 - die

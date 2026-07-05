@@ -25,11 +25,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **2** **DATEINAMEN**
 
-| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 12 |
-|---|---|---|
-| 3.1 | Kardinalität | 12 |
-| 3.2 | Strukturelemente | 12 |
-| 3.3 | Sonstige Symbole | 13 |
+| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 12 |
+|---|---|---|---|
+| 3.1 | Kardinalitä | t | 12 |
+| 3.2 |  | Strukturelemente | 12 |
+| 3.3 | Sonstige | Symbole | 13 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -47,7 +47,7 @@ eGFR  Pulsstatus  Sensibilitätsprüfung  Weiteres Risiko für Ulcus  Ulkus  (Wu
 
 15  **15**  16  17  18  19  20  20  20  20  21  21  22  23  24  24  24  25  25  25  26 26  27  27  28  29  29  29
 
-30  30  31  31
+Kardinalität Sonstige Symbole 30  30  31  31
 
 
 ---

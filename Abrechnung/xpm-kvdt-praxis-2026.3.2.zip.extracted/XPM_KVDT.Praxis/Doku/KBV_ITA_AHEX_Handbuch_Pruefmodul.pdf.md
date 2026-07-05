@@ -782,7 +782,7 @@ Archive geprüft werden.
 
 ### 3.3.1 Prüfdatei selektieren
 
-### Bitte drücken Sie den ‘...’-Knopf und wählen Sie die gewünschte Prüfdatei aus.
+Bitte drücken Sie den ‘...’-Knopf und wählen Sie die gewünschte Prüfdatei aus.
 
 
 ---
@@ -795,7 +795,9 @@ Bitte drücken Sie den ‘Starten’-Knopf. Während der Prüfung zeigt der Fort
 
 ### 3.3.3 Prüfung abbrechen
 
-### Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf eine Prüfung vor-zeitig abzubrechen.
+Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf eine Prüfung vor-
+
+### zeitig abzubrechen.
 
 
 ---

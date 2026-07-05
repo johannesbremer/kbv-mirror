@@ -1,8 +1,8 @@
 **I.** **Klinischer Status**
 
-### III. Weitere Hinweise
+III. Weitere Hinweise
 
-### II. Erforderlicher Leistungsumfang der AKI
+II. Erforderlicher Leistungsumfang der AKI
 
 ## Verordnung außerklinischer Intensivpflege
 Verordnungsrelevante Diagnose(n) ***(ICD-10-Code)***

@@ -679,7 +679,9 @@ Das Element anzahl_praeparate enthält die Gesamtanzahl der zytologisch untersuc
 
 ### 4.3.2 Element anzahl_nv_praeparate
 
-Das Element anzahl_nv_praeparate enthält die Anzahl der nicht verwertbaren zytologisch  untersuchten Abstrichpräparate (entspricht Gruppe 0) aus der Gesamtanzahl der Präparate  für den Berichtszeitraum.
+Das Element anzahl_nv_praeparate enthält die Anzahl der nicht verwertbaren zytologisch  untersuchten Abstrichpräparate (entspricht Gruppe 0) aus der Gesamtanzahl der Präparate
+
+für den Berichtszeitraum.
 
 | diagram |  |
 |---|---|
@@ -760,7 +762,7 @@ n-
 
 #### 4.3.4.2 Element anzahl_khca
 
-### Das Element anzahl_khca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen, bei denen kein Hinweis auf CA-Vorstufe oder CA gefunden wurden.
+Das Element anzahl_khca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen, bei denen kein Hinweis auf CA-Vorstufe oder CA gefunden wurden.
 
 | diagram |  |
 |---|---|
@@ -773,7 +775,9 @@ n-
 
 #### 4.3.4.3 Element anzahl_cin1
 
-Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit CIN I.
+Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-
+
+klärungsuntersuchungen mit CIN I.
 
 | diagram |  |
 |---|---|
@@ -787,7 +791,9 @@ Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histolog
 
 #### 4.3.4.4 Element anzahl_cin2
 
-### Das Element anzahl_cin2 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit CIN II.
+Das Element anzahl_cin2 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-
+
+### klärungsuntersuchungen mit CIN II.
 
 | diagram |  |
 |---|---|
@@ -798,9 +804,7 @@ Das Element anzahl_cin1 enthält die Anzahl der untersuchten Frauen mit histolog
 
 #### 4.3.4.5 Element anzahl_cin3ca
 
-### Das Element anzahl_cin3ca enthält die Anzahl der untersuchten Frauen mit histologischen
-
-Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
+Das Element anzahl_cin3ca enthält die Anzahl der untersuchten Frauen mit histologischen  Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 | diagram |  |
 |---|---|
@@ -809,7 +813,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### 4.3.4.6 Element anzahl_
 
-### Das Element anzahl_cxca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit Adenocarcinoma in situ.
+Das Element anzahl_cxca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit Adenocarcinoma in situ.
 
 | diagram |  |
 |---|---|
@@ -827,7 +831,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### 4.3.4.7 Element anzahl_plattenepithelca
 
-### Das Element anzahl_plattenepithelca enthält die Anzahl der untersuchten Frauen mit histolo-gischen Abklärungsuntersuchungen mit Plattenepithelkarzinom der Cervix uteri.
+Das Element anzahl_plattenepithelca enthält die Anzahl der untersuchten Frauen mit histolo-gischen Abklärungsuntersuchungen mit Plattenepithelkarzinom der Cervix uteri.
 
 | diagram |  |
 |---|---|
@@ -836,7 +840,7 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### 4.3.4.8 Element anzahl_
 
-### Das Element anzahl_adenocaceut enthält die Anzahl der untersuchten Frauen mit histologi-schen Abklärungsuntersuchungen mit Adenokarzinom der Cervix uteri.
+Das Element anzahl_adenocaceut enthält die Anzahl der untersuchten Frauen mit histologi-schen Abklärungsuntersuchungen mit Adenokarzinom der Cervix uteri.
 
 | diagram |  |
 |---|---|
@@ -851,7 +855,9 @@ Abklärungsuntersuchungen mit CIN III inkl. plattenepithales Ca in situ.
 
 #### 4.3.4.9 Element anzahl_
 
-Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histologischen  Abklärungsuntersuchungen mit Endometriumkarzinom der Cervix uteri.
+Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histologischen
+
+Abklärungsuntersuchungen mit Endometriumkarzinom der Cervix uteri.
 
 | diagram |  |
 |---|---|

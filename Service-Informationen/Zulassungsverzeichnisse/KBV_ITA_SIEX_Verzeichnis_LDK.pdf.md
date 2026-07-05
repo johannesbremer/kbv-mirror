@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**27. JUNI 2026**
+**04. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026
 
 Y/43/2501/24/395
 
@@ -82,19 +82,19 @@ Windows
 
 X/43/2410/24/525
 
-Y/43/2407/24/466
+Y/43/2607/18/466
 
 Z/43/2507/24/574
 
-Y/43/2407/24/706
+Y/43/2607/18/706
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export 30.09.2026 LDT-Befund - Export Digitales Muster 39 - Export
 
-LDT-Befund - Import LDT-Befund - Export 30.06.2026 LDT-Auftrag - Import Digitales Muster 10A - Import Digitales Muster 10 - Import
+LDT-Befund - Import LDT-Befund - Export 31.12.2027 LDT-Auftrag - Import Digitales Muster 10A - Import Digitales Muster 10 - Import
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export 30.06.2027 LDT-Befund - Import LDT-Auftrag - Export
 
-LDT-Befund - Export LDT-Befund - Import 30.06.2026 LDT-Auftrag - Export LDT-Auftrag - Import
+LDT-Befund - Export LDT-Befund - Import 31.12.2027 LDT-Auftrag - Export LDT-Auftrag - Import
 
 Mac OS Windows
 
@@ -130,7 +130,7 @@ Y/43/2407/36/263
 
 Y/43/2501/24/549
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026
 
 LDT-Befund - Export LDT-Befund - Import Digitales Muster 10A - Import 30.06.2027 Digitales Muster 10 - Import LDT-Auftrag - Export Digitales Muster 10 - Export LDT-Auftrag - Import
 
@@ -222,13 +222,13 @@ Y/43/2501/24/347
 
 Y/43/2410/24/374
 
-X/43/2407/24/429
+X/43/2607/18/429
 
 Y/43/2507/24/488 31.12.2026 LDT-Befund - Export
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export 30.09.2026 LDT-Befund - Import Digitales Muster 39 - Export
 
-Digitales Muster 10A - Export 30.06.2026 Digitales Muster 10 - Export
+Digitales Muster 10A - Export 31.12.2027 Digitales Muster 10 - Export
 
 LDT-Auftrag - Import 30.06.2027 LDT-Befund - Import
 
@@ -272,7 +272,7 @@ Y/43/2604/21/673
 
 Y/43/2410/24/606
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026 30.06.2028 LDT-Befund - Import
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026 30.06.2028 LDT-Befund - Import
 
 LDT-Auftrag - Export LDT-Auftrag - Import 31.12.2026 LDT-Befund - Export LDT-Befund - Import
 
@@ -312,7 +312,7 @@ Y/43/2501/24/086
 
 Y/43/2501/24/295
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export 31.12.2026 Digitales Muster 10 - Import LDT-Befund - Import
 
@@ -414,15 +414,15 @@ Y/43/2504/24/703
 
 Y/43/2504/24/065
 
-X/43/2407/24/537 31.03.2027 LDT-Befund - Import
+X/43/2607/18/537 31.03.2027 LDT-Befund - Import
 
 LDT-Auftrag - Import LDT-Befund - Export 31.03.2027 LDT-Befund - Import Digitales Muster 10 - Export 31.03.2027 LDT-Befund - Export
 
-Digitales Muster 6 - Export Digitales Muster 10A - Export Digitales Muster 10A - Import Digitales Muster 10 - Export 30.06.2026 Digitales Muster 10 - Import Digitales Muster 39 - Export LDT-Auftrag - Export LDT-Auftrag - Import
+Digitales Muster 6 - Export Digitales Muster 10A - Export Digitales Muster 10A - Import Digitales Muster 10 - Export 31.12.2027 Digitales Muster 10 - Import Digitales Muster 39 - Export LDT-Auftrag - Export LDT-Auftrag - Import
 
 Windows
 
-Linux Windows
+Linux
 
 Windows
 
@@ -492,9 +492,9 @@ Y/43/2501/24/375
 
 **Medat Computersysteme GmbH** Albrechtstraße 14
 
-Y/43/2407/24/721 80636 München Internet: www.medat.de
+Y/43/2607/18/721 80636 München Internet: www.medat.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026
 
 LDT-Befund-Zervix-Zytologie - Export 30.06.2027 LDT-Befund - Export
 
@@ -502,7 +502,7 @@ Digitales Muster 10A - Export 31.12.2026 Digitales Muster 10 - Export
 
 LDT-Befund - Export LDT-Auftrag - Export 31.12.2026 LDT-Auftrag - Import LDT-Befund - Import
 
-Digitales Muster 10A - Export Digitales Muster 10A - Import 30.06.2026 Digitales Muster 10 - Export Digitales Muster 10 - Import LDT-Befund - Export
+Digitales Muster 10A - Export Digitales Muster 10A - Import 31.12.2027 Digitales Muster 10 - Export Digitales Muster 10 - Import LDT-Befund - Export
 
 Linux Sonstige Windows
 
@@ -538,7 +538,7 @@ Y/43/2501/24/216
 |---|---|---|---|---|
 |  | Y/43/2501/24/266 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026 31.12.2026 LDT-Befund - Import
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026 31.12.2026 LDT-Befund - Import
 
 31.12.2026 LDT-Befund - Import
 
@@ -566,7 +566,7 @@ Softwarevariante(n): - psyx
 |  |  |  | Digitales Muster 39 - Export |  |
 |  | Y/43/2410/24/251 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026
 
 Y/43/2501/24/462 31.12.2026 LDT-Befund - Import
 
@@ -624,7 +624,7 @@ Calo (Computer-Aided-Laboratory-Order) MVZ Labor Dr. Quade und Kollegen GmbH Hug
 
 Y/43/2501/24/299 31.12.2026
 
-Y/43/2407/24/345 30.06.2026
+Y/43/2607/18/345 31.12.2027
 
 LDT-Befund - Import
 
@@ -776,7 +776,7 @@ X/43/2410/24/529
 |---|---|---|---|---|
 |  | Y/43/2509/37/768 | 30.09.2028 | LDT-Befund - Import |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 27. Juni 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 04. Juli 2026
 
 LDT-Auftrag - Export LDT-Befund - Export 30.09.2026 LDT-Befund - Import Digitales Muster 10A - Export Digitales Muster 10 - Export
 

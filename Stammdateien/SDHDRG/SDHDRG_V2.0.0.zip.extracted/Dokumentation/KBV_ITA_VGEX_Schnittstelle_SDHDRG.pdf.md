@@ -41,7 +41,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT
 | 2.3 | Root-Schema | 5 |
 | 2.4 | Dateinamen | 5 |
 | 2.5 | Semantik der verwendeten Diagrammsymbole | 6 |
-|  | 2.5.1 Kardinalität | 6 |
+|  | 2.5.1 Kardinalitä t | 6 |
 |  | 2.5.2 Strukturelemente | 6 |
 |  | 2.5.3 Sonstige Symbole | 7 |
 
@@ -83,6 +83,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT
 
 **15**
 
+Kardinalität
 
 ---
 

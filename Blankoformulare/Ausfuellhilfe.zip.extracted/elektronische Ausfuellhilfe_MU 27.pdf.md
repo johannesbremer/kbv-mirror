@@ -1,6 +1,11 @@
-**Elektronische Ausfüllhilfe Muster 27 – Soziotherapeutischer Betreuungsplan**
+|  | Elektronische Ausfü | llh ilfe | Muster 27 – | Soziotherapeutischer Betreuungsplan |
+|---|---|---|---|---|
+| **Hinweistexte** | **fü r d ie** | **E rs te llu ng** | **e in ere le ktronischen** | **Ausfü llh ilfe fü r d e n** |
+|  | **Soziotherapeutischen** | **Betreuungsplan** | **gem. § 3 7a S** | **GB V (M uste r2 7)** |
+| Stand: | Oktober 2017 |  |  | 1 |
 
-**Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für den**  **Soziotherapeutischen Betreuungsplan gem. § 37a SGB V (Muster 27)**
+Elektronische Ausfüllhilfe Muster 27 – Soziotherapeutischer Betreuungsplan Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für den                  Soziotherapeutischen Betreuungsplan gem. § 37a SGB V (Muster 27)  
+
 
 ---
 

@@ -43,7 +43,9 @@ Als Exazerbation zählt jede Verschlechterung der Symptomatik, die eine Verände
 
 Geben Sie bitte die Anzahl (ohne Nachkommastelle) von Exazerbationen seit der letzten  Dokumentation an. Sollte keine Exazerbation seit der letzten Dokumentation vorgelegen haben,  geben Sie bitte eine „0“ an.
 
-#### Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen  COPD seit der letzten Dokumentation
+**Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen**
+
+#### COPD seit der letzten Dokumentation
 
 Eine Angabe ist nur im Rahmen einer **Folgedokumentation**
 

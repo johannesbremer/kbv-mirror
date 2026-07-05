@@ -24,28 +24,28 @@ INHALT
 | 1.2 Zertifizierungsablauf | 4 |
 | 1.3 Zertifizierungsportal | 5 |
 | 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prüfunterlagen | 5 |
-| 1.6 Prüfvorgaben | 7 |
+| 1.5 Prü funterlagen | 5 |
+| 1.6 Prü fvorgaben | 7 |
 | 1.6.1 Schnittstellenversionen | 7 |
 | 1.6.2 Datumseingaben | 7 |
-| 1.6.3 Prüfstammdaten | 7 |
+| 1.6.3 Prü fstammdaten | 7 |
 | 1.6.4 Versichertendaten | 7 |
 | 1.6.5 Praxisdaten/ Arztstempel | 8 |
 | 1.6.6 Krankenhausdaten | 8 |
-| 1.6.7 Prüfnummer | 8 |
+| 1.6.7 Prü fnummer | 8 |
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
-| 1.6.9 Auflistung der Prüffälle | 9 |
+| 1.6.9 Auflistung der Prü ffä lle | 9 |
 
-| PRÜFFÄLLE |  |  | 10 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 10 |
-| 2.1.1 | Prüffall | 1111 | 10 |
-| 2.1.2 | Prüffall | 1112 | 12 |
-| 2.2 Prüffall |  | Systemreaktion | 14 |
-| 2.2.1 | Prüffall | 1114 | 14 |
-| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 18 |
-| 2.3.1 | Prüffall | 1130 | 18 |
-| 2.3.2 | Prüffall | 1140 | 19 |
+| PRÜ FFÄ LLE |  |  |  | 10 |
+|---|---|---|---|---|
+| 2.1 Prü | ffä lle |  | Dokumentation | 10 |
+| 2.1.1 |  | Prü ffall | 1111 | 10 |
+| 2.1.2 |  | Prü ffall | 1112 | 12 |
+| 2.2 Prü | ffall |  | Systemreaktion | 14 |
+| 2.2.1 |  | Prü ffall | 1114 | 14 |
+| 2.3 Weitere | | Prü ffä | lle zum Anforderungskatalog | 18 |
+| 2.3.1 |  | Prü ffall | 1130 | 18 |
+| 2.3.2 |  | Prü ffall | 1140 | 19 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -61,7 +61,7 @@ INHALT
 
 **22**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 1111 Prüffall 1112 Prüffall Systemreaktion Prüffall 1114 Weitere Prüffälle zum Anforderungskatalog Prüffall 1130 Prüffall 1140 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 1111 Prüffall 1112 Prüffall Systemreaktion Prüffall 1114 Weitere Prüffälle zum Anforderungskatalog Prüffall 1130 Prüffall 1140 
 
 
 ---
@@ -757,12 +757,6 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokum
 
 ---
 
-| IT in der | Arztpraxis |
-|---|---|
-| Tel.: 030 | 4005-2077, pruefstelle@kbv.de |
-| Kassenärztliche | Bundesvereinigung |
-| Herbert-Lewin-Platz | 2, 10623 Berlin |
-| pruefstelle@kbv.de, | www.kbv.de |
-| Seite 23 von | 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026 |
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

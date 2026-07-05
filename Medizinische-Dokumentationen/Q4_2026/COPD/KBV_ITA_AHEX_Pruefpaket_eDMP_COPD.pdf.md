@@ -24,41 +24,35 @@ INHALT
 | 1.2 Zertifizierungsablauf | 6 |
 | 1.3 Zertifizierungsportal | 6 |
 | 1.4 Zertifizierungsdokumente | 7 |
-| 1.5 Prüfunterlagen | 7 |
-| 1.6 Prüfvorgaben | 9 |
+| 1.5 Prü funterlagen | 7 |
+| 1.6 Prü fvorgaben | 9 |
 | 1.6.1 Schnittstellenversionen | 9 |
 | 1.6.2 Datumseingaben | 9 |
-| 1.6.3 Prüfstammdaten | 9 |
+| 1.6.3 Prü fstammdaten | 9 |
 | 1.6.4 Versichertendaten | 10 |
 | 1.6.5 Praxisdaten/ Arztstempel | 10 |
 | 1.6.6 Krankenhausdaten | 10 |
-| 1.6.7 Prüfnummer | 11 |
+| 1.6.7 Prü fnummer | 11 |
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 11 |
-| 1.6.9 Auflistung der Prüffälle | 11 |
+| 1.6.9 Auflistung der Prü ffä lle | 11 |
 
-| PRÜFFÄLLE |  |  | 11 |
+| PRÜ FFÄ LLE |  |  |  | 11 |
+|---|---|---|---|---|
+| 2.1 Prü | ffä lle |  | Dokumentation | 11 |
+| 2.1.1 |  | Prü ffall | 8511 | 11 |
+| 2.1.2 |  | Prü ffall | 8512 | 14 |
+| 2.1.3 |  | Prü ffall | 6520 | 16 |
+| 2.2 Prü | ffall |  | Systemreaktion | 21 |
+| 2.2.1 |  | Prü ffall | 8514 | 21 |
+| 2.2.2 |  | Prü ffall | 8515 | 24 |
+| 2.3 Weitere | | Prü ffä | lle zum Anforderungskatalog | 25 |
+| 2.3.1 |  | Prü ffall | 8530 | 25 |
+| 2.3.2 |  | Prü ffall | 8540 | 26 |
+
+|  |  | TESTDATENVALIDIERUNG | 27 |
 |---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 11 |
-| 2.1.1 | Prüffall | 8511 | 11 |
-| 2.1.2 | Prüffall | 8512 | 14 |
-| 2.1.3 | Prüffall | 6520 | 16 |
-| 2.2 Prüffall |  | Systemreaktion | 21 |
-| 2.2.1 | Prüffall | 8514 | 21 |
-| 2.2.2 | Prüffall | 8515 | 24 |
-| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 25 |
-| 2.3.1 | Prüffall | 8530 | 25 |
-| 2.3.2 | Prüffall | 8540 | 26 |
-
-**TESTDATENVALIDIERUNG**
-
-**27**
-
-3.1 Prüffall TDV8518
-
-28
-
-|  | ANHANG |  | 30 |
-|---|---|---|---|
+| 3.1 | Prü | ffall TDV8518 | 28 |
+|  | **ANHANG** |  | **30** |
 | 4.1 | Versichertendaten | 1 – Ersatzverfahren | 30 |
 | 4.2 | Versichertendaten | 2 – Ersatzverfahren | 31 |
 
@@ -66,18 +60,18 @@ INHALT
 
 **32**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 8511 Prüffall 8512 Prüffall 6520 Prüffall Systemreaktion Prüffall 8514 Prüffall 8515 Weitere Prüffälle zum Anforderungskatalog Prüffall 8530 Prüffall 8540 Versichertendaten 1 Versichertendaten 2 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 8511 Prüffall 8512 Prüffall 6520 Prüffall Systemreaktion Prüffall 8514 Prüffall 8515 Weitere Prüffälle zum Anforderungskatalog Prüffall 8530 Prüffall 8540 Prüffall TDV8518 Versichertendaten 1 Versichertendaten 2 
 
 
 ---
 
 |  |  | ABBILDUNGSVERZEICHNIS |  |
 |---|---|---|---|
-| Abbildung | 1: | Exemplarische Verzeichnisstruktur | für die Zertifizierung |
-| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prüfunterlagen |
+| Abbildung | 1: | Exemplarische Verzeichnisstruktur | fü r d ie Z ertifiz ie ru ng |
+| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prü fu nte rla gen |
 | Abbildung | 3: | Testdatenvalidierung |  |
-| Abbildung | 4: Exemplarische | Verzeichnisstruktur | für die Testdatenvalidierung |
-| Seite 3 von | 33 / KBV / | Pruefpaket eDMP-COPD / | Version: 1.27 / 31. März 2026 |
+| Abbildung | 4: | Exemplarische Verzeichnisstruktur | für die Testdatenvalidierung |
+| Seite 3 von | 33 / KBV / | Pruefpaket eDMP-COPD / | Version: 1.27 / 31. Mä rz 2 026 |
 
 8
 
@@ -87,7 +81,7 @@ Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 85
 
 27
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 
 ---
@@ -208,9 +202,9 @@ Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM
 
 ---
 
-### Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 8540) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention
+### Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 8540) müssen in
 
-entsprechen. Diese werden durch den Prüfer begutachtet.
+einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
 ### - _[lfdNr.]
 
@@ -225,13 +219,11 @@ entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - Zert_105_SystemID.zip
 
-### Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
+Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 ### Das ZIP-Archiv kann je nach Komponentenzulassung (KHK und/oder DM1) unterschiedliche Strukturen
 
-aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die
-
-### alleinige Umsetzung von COPD) dargestellt.
+aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die  alleinige Umsetzung von COPD) dargestellt.
 
 391234511_20261031101010_1_COPD_407.idx
 
@@ -929,11 +921,11 @@ DM1
 
 DM1
 
-| Aktueller FEV1-Wert (alle sechs bis zwölf | 060,0 Prozent des Soll- |  |
+| Aktueller FEV1-Wert (alle sechs bis zwö lf | 060,0 Prozent des Soll- |  |
 |---|---|---|
 | Monate) | Wertes |  |
 | Klinische Einschätzung des | Nein |  |
-| Osteoporoserisikos durchgeführt |  |  |
+| Osteoporoserisikos durchgefü h rt |  |  |
 
 HbA1c-Wert
 
@@ -1009,7 +1001,7 @@ Nicht untersucht
 
 Jährlich
 
-092,0 Prozent des SollDiabetische  Nephropathie
+Aktueller FEV1-Wert (alle sechs bis zwölf Osteoporoserisikos durchgeführt 092,0 Prozent des SollDiabetische  Nephropathie
 
 
 ---
@@ -1934,10 +1926,14 @@ und Georg-von-Groscurth-Plaetzchen
 
 ---
 
-**Ansprechpartner:**
+|  | Ansprechpartner: |  |
+|---|---|---|
+|  | Dezernat | Digitalisierung und IT |
+| IT in | der Arztpraxis |  |
+| Tel.: | 030 | 4005-2077, pruefstelle@kbv.de |
+|  | Kassenä rztlic | he B undesvere in ig ung |
+|  | Herbert-Lewin-Platz | 2, 10623 Berlin |
+|  | pruefstelle@kbv.de, | www.kbv.de |
+| Seite | 33 von 33 / | KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. Mä rz 2 026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

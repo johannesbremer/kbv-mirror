@@ -188,7 +188,7 @@ Beispiel:
 
 ## 1.4 ADT-Referenzversion
 
-### Diese KV--Spezifika Datei ist nur einsetzbar in Verbindung mit der aktuellen ADT-. Version
+Diese KV--Spezifika Datei ist nur einsetzbar in Verbindung mit der aktuellen ADT-. Version
 
 
 ---
@@ -1051,14 +1051,14 @@ Beispielhafter Satz “kvx0” der KV Niedersachsen:
 
 ### Erläuterung:
 
-### Ein Vertragsarzt der KV Niedersachsen müsste - vorausgesetzt dieser ist Kurarzt (KADT) -
-
-gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen:
+Ein Vertragsarzt der KV Niedersachsen müsste - vorausgesetzt dieser ist Kurarzt (KADT) - gemäß dem o. g. Beispielsatz zwei KVDT-Dateien erstellen:
 
 -  KVDT--Datei: ADT Datenpaket
 -  KVDT--Datei: KADT Datenpaket.
 
-### Empfänger der ersten KVDT-Datei wäre die KV Niedersachsen, Empfänger der  KVDT--Datei die KV Westfalen Lippe.
+### Empfänger der ersten KVDT-Datei wäre die KV Niedersachsen, Empfänger der
+
+KVDT--Datei die KV Westfalen Lippe.
 
 ### zweiten
 

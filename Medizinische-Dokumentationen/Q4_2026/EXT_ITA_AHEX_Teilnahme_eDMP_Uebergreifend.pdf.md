@@ -2,7 +2,7 @@ Krankenkasse bzw. Kostenträger
 
 # Erklärung
 
-### zur Teilnahme an einem strukturierten
+zur Teilnahme an einem strukturierten
 
 Name, Vorname des Versicherten
 
@@ -157,7 +157,9 @@ Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 ## Erklärung
 
-#### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+**zur Teilnahme an einem strukturierten**
+
+#### Behandlungsprogramm für
 
 **Krankenhaus-IK**
 
@@ -189,7 +191,7 @@ Unterschrift der Versicherten/des Versicherten bzw. des gesetzlichen Vertreters 
 
 Stempel Ärztin/Arzt
 
-### zt emplar für den Ar
+zt emplar für den Ar
 **xE**
 
 eifend gr
@@ -255,7 +257,7 @@ Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 ## Erklärung
 
-#### zur Teilnahme an einem strukturierten Behandlungsprogramm für
+zur Teilnahme an einem strukturierten Behandlungsprogramm für
 
 **Krankenhaus-IK**
 

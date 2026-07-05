@@ -24,11 +24,11 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben | 8 |
-|  | 1.6.1 Prüfstammdaten | 8 |
+| 1.5 | Prü fu nte rla gen | 6 |
+| 1.6 | Prü fvorgaben | 8 |
+|  | 1.6.1 Prü fstam mdate n | 8 |
 |  | 1.6.2 Versichertendaten | 8 |
-|  | 1.6.3 Auflistung der Prüffälle | 8 |
+|  | 1.6.3 Auflistung der Prü ffä lle | 8 |
 |  | 1.6.4 Praxisdaten/ Arztstempel | 8 |
 
 **2** **PRÜFFÄLLE**
@@ -50,6 +50,9 @@ INHALT
 **4** **REFERENZIERTE DOKUMENTE**
 
 **20**
+
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle 
+
 
 ---
 

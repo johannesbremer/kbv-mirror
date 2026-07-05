@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**27. JUNI 2026**
+**04. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 27. Juni 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 04. Juli 2026
 
 
 ---
@@ -177,7 +177,7 @@ Mac OS Y/9/2504/36/525 31.03.2028 Windows
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **CGM CLINICAL** |  |  |  |
 | **CGM Clinical Deutschland GmbH** |  |  |  |
-| Zur Lüre 44 | Y/9/2307/36/459 | 30.06.2026 | Windows |
+| Zur Lüre 44 | Y/9/2607/24/459 | 30.06.2028 | Windows |
 | 37671 Höxter |  |  |  |
 | Internet: www.cgm-clinical.de |  |  |  |
 
@@ -284,26 +284,9 @@ Y/9/2410/36/629
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
-| **Z1** |  |  |  |
-| **CompuGroup Medical Dentalsysteme GmbH** |  |  |  |
-| Maria Trost 25 | Y/9/2307/36/332 | 30.06.2026 | Windows |
-| 56070 Koblenz |  |  |  |
-| Internet: www.cgm-dentalsysteme.de |  |  |  |
-
-**zugelassen für folgende Muster**
-
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 19: Notfall-/ Vertretungsschein Muster 21: Krankengeld bei Erkrankung eines Kindes
-
-
----
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
 | **TURBOMED** |  |  |  |
 | **CompuGroup Medical Deutschland AG** |  |  |  |
-| Maria Trost 23 | Y/9/2307/36/112 | 30.06.2026 | Windows |
+| Maria Trost 23 | Y/9/2607/24/112 | 30.06.2028 | Windows |
 | 56070 Koblenz |  |  |  |
 | Internet: www.turbomed.de |  |  |  |
 
@@ -385,7 +368,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 |---|---|
 | **Prüfnummer** |  |
 | **gültig bis** | **Betriebssysteme** |
-| Y/9/2307/36/252 30.06.2026 | Windows |
+| Y/9/2607/24/252 30.06.2028 | Windows |
 
 
 ---
@@ -413,12 +396,12 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 **Prüfnummer**
 
-Y/9/2307/36/280
+Y/9/2607/24/280
 
 | Prüfnummer | unterstützte |
 |---|---|
 | **gültig bis** | **Betriebssysteme** |
-| 30.06.2026 | Windows |
+| 30.06.2028 | Windows |
 
 
 ---
@@ -436,7 +419,7 @@ Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapi
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **INFINITYQ HEALTH** |  |  |  |
 | **CROSSSOFT. GmbH** |  |  |  |
-| Knooper Weg 126/128 Hofgebäude | Y/9/2307/36/752 | 30.06.2026 | Windows |
+| Knooper Weg 126/128 Hofgebäude | Y/9/2607/24/752 | 30.06.2028 | Windows |
 | 24105 Kiel |  |  |  |
 | Internet: www.crosssoft.de |  |  |  |
 
@@ -477,7 +460,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 21: Krankengeld bei Erkra
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **Data-AL** |  |  |  |
 | **Data-AL GmbH** |  |  |  |
-| Edisonallee 25 | Y/9/2307/36/060 | 30.06.2026 | Windows |
+| Edisonallee 25 | Y/9/2607/24/060 | 30.06.2028 | Windows |
 | 89231 Neu-Ulm |  |  |  |
 | Internet: www.data-al.de |  |  |  |
 
@@ -727,7 +710,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 06: Überweisungsschein P
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **Epikur** |  |  |  |
 | **Epikur Software GmbH & Co. KG** |  |  | Linux |
-| Franklinstraße 26 a | Y/9/2307/36/295 | 30.06.2026 | Mac OS |
+| Franklinstraße 26 a | Y/9/2607/24/295 | 30.06.2028 | Mac OS |
 | 10587 Berlin |  |  | Windows |
 | Internet: www.epikur.de |  |  |  |
 
@@ -751,7 +734,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **PsychoDat** |  |  |  |
 | **ergosoft GmbH** |  |  |  |
-| Bahnhofstraße 11 c | Y/9/2307/36/253 | 30.06.2026 | Windows |
+| Bahnhofstraße 11 c | Y/9/2607/24/253 | 30.06.2028 | Windows |
 | 67159 Friedelsheim |  |  |  |
 | Internet: www.ergosoft.info |  |  |  |
 
@@ -792,7 +775,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **EVIDENT** |  |  |  |
 | **EVIDENT GmbH** |  |  |  |
-| Eberhard-Anheuser-Straße 3 | Y/9/2307/36/421 | 30.06.2026 | Windows |
+| Eberhard-Anheuser-Straße 3 | Y/9/2607/24/421 | 30.06.2028 | Windows |
 | 55543 Bad Kreuznach |  |  |  |
 | Internet: www.evident.de |  |  |  |
 
@@ -826,7 +809,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **FIDUS** |  |  |  |
 | **FIDUS Software Entwicklungs-GmbH** |  |  |  |
-| Frankfurter Landstr. 117 | Y/9/2307/36/403 | 30.06.2026 | Windows |
+| Frankfurter Landstr. 117 | Y/9/2607/24/403 | 30.06.2028 | Windows |
 | 64291 Darmstadt |  |  |  |
 | Internet: www.fidus.de |  |  |  |
 
@@ -970,7 +953,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **Elefant** |  |  |  |
 | **HASOMED GmbH** |  |  |  |
-| Paul-Ecke-Str. 1 | Y/9/2307/36/298 | 30.06.2026 | Windows |
+| Paul-Ecke-Str. 1 | Y/9/2607/24/298 | 30.06.2028 | Windows |
 | 39114 Magdeburg |  |  |  |
 | Internet: www.hasomed.de |  |  |  |
 
@@ -1011,7 +994,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **IFA-AUGENARZT** |  |  |  |
 | **ifa systems AG** |  |  |  |
-| Augustinusstraße 11b | Y/9/2307/36/400 | 30.06.2026 | Windows |
+| Augustinusstraße 11b | Y/9/2607/24/400 | 30.06.2028 | Windows |
 | 50226 Frechen |  |  |  |
 | Internet: www.ifasystems.de |  |  |  |
 
@@ -1086,7 +1069,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **Medical Office** |  |  |  |
 | **INDAMED EDV-Entwicklung und Vertrieb GmbH** |  |  |  |
-| Ziegeleiweg 1 | Y/9/2307/36/210 | 30.06.2026 | Windows |
+| Ziegeleiweg 1 | Y/9/2607/24/210 | 30.06.2028 | Windows |
 | 19057 Schwerin |  |  |  |
 | Internet: www.indamed.de |  |  |  |
 
@@ -1161,7 +1144,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **esQlab.online** |  |  |  |
 | **IQVIA Commercial GmbH & Co OHG** |  |  |  |
-| Angela-Stadler-Str. 9 | Y/9/2307/36/406 | 30.06.2026 | Windows |
+| Angela-Stadler-Str. 9 | Y/9/2607/24/406 | 30.06.2028 | Windows |
 | 78224 Singen |  |  |  |
 | Internet: www.gradient.de |  |  |  |
 
@@ -1240,29 +1223,19 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 ---
 
-|  | Kontaktdaten |  |  |
+|  |  | Prüfnummer | unterstützte |
 |---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 | **ELADIS** |  |  |  |
-|  | **LabKom** | **Biochemische** | **Dienstleistungen GmbH** |
-|  | August-Wessels-Str. | 5 |  |
-| 86154 | Augsburg |  |  |
-|  | Internet: | www.labkom.de |  |
+| **LabKom Biochemische Dienstleistungen GmbH** |  |  |  |
+| August-Wessels-Str. 5 | Y/9/2401/36/703 | 31.12.2026 | Linux |
+| 86154 Augsburg |  |  |  |
+| Internet: www.labkom.de |  |  |  |
 
 **zugelassen für folgende Muster**
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
-
-**Prüfnummer**
-
-**unterstützte** **Prüfnummer**
-
-**gültig bis**
-
-**Betriebssysteme**
-
-Linux Y/9/2401/36/703
-
-LabKom Biochemische Dienstleistungen GmbH August-Wessels-Str. 5 86154 Augsburg Internet: www.labkom.de31.12.2026 Windows
 
 
 ---
@@ -1273,7 +1246,7 @@ LabKom Biochemische Dienstleistungen GmbH August-Wessels-Str. 5 86154 Augsburg I
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **MELOS MeCom Arzt & Labor** |  |  |  |
 | **LABLIONS software & solutions GmbH** |  |  |  |
-| Franz-Beer-Straße 6 | Y/9/2307/36/065 | 30.06.2026 | Windows |
+| Franz-Beer-Straße 6 | Y/9/2607/24/065 | 30.06.2028 | Windows |
 | 86459 Gessertshausen |  |  |  |
 | Internet: www.mdn.de |  |  |  |
 
@@ -1349,7 +1322,7 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 
 **Betriebssysteme**
 
-Linux Y/9/2307/36/716 30.06.2026 Windows
+Linux Y/9/2607/24/716 30.06.2028 Windows
 
 
 ---
@@ -1391,7 +1364,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Mu
 
 **Prüfnummer**
 
-X/9/2307/36/492
+X/9/2607/24/492
 
 **Prüfnummer**
 
@@ -1399,7 +1372,7 @@ X/9/2307/36/492
 
 **Betriebssysteme**
 
-iOS/Android Linux 30.06.2026 Mac OS Windows
+iOS/Android Linux 30.06.2028 Mac OS Windows
 
 
 ---
@@ -1410,7 +1383,7 @@ iOS/Android Linux 30.06.2026 Mac OS Windows
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **H&S Laborsoftware** |  |  |  |
 | **Limbach Gruppe SE** |  |  | Linux |
-| Marktstraße 32 - 34 | Y/9/2307/36/375 | 30.06.2026 | Sonstige |
+| Marktstraße 32 - 34 | Y/9/2607/24/375 | 30.06.2028 | Sonstige |
 | 65428 Rüsselsheim |  |  | Windows |
 | Internet: www.hus-soft.de |  |  |  |
 
@@ -1570,7 +1543,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 |---|---|
 | **Prüfnummer** |  |
 | **gültig bis** | **Betriebssysteme** |
-| Y/9/2307/36/266 30.06.2026 | Windows |
+| Y/9/2607/24/266 30.06.2028 | Windows |
 
 
 ---
@@ -1679,7 +1652,7 @@ Linux 30.09.2026 Mac OS Sonstige Windows
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **WIN-RADIOLOG** |  |  |  |
 | **medigration GmbH** |  |  |  |
-| Dr.-Rudolf-Eberle-Straße 8 - 10 | Y/9/2307/36/446 | 30.06.2026 | Windows |
+| Dr.-Rudolf-Eberle-Straße 8 - 10 | Y/9/2607/24/446 | 30.06.2028 | Windows |
 | 76534 Baden-Baden |  |  |  |
 | Internet: www.medigration.de |  |  |  |
 
@@ -1852,7 +1825,7 @@ Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **RadCentre Billing (OPD)** |  |  |  |
 | **Mesalvo Mannheim GmbH** |  |  |  |
-| Am Exerzierplatz 14 | Y/9/2307/36/276 | 30.06.2026 | Windows |
+| Am Exerzierplatz 14 | Y/9/2607/24/276 | 30.06.2028 | Windows |
 | 68167 Mannheim |  |  |  |
 | Internet: https://mesalvo.com |  |  |  |
 
@@ -2003,13 +1976,22 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **NEXUS / KIS** |  |  |  |
 | **NEXUS AG** |  |  |  |
-| Irmastraße 1 | Y/9/2307/36/208 | 30.06.2026 | Windows |
+| Irmastraße 1 | Y/9/2607/24/208 | 30.06.2028 | Windows |
 | 78166 Donaueschingen |  |  |  |
 | Internet: www.nexus-ag.de |  |  |  |
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein
+
+Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation
+
+
+---
+
+**zugelassen für folgende Muster**
+
+Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
 
 ---
@@ -2037,7 +2019,7 @@ Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **PegaMed** |  |  |  |
 | **PEGA Elektronik GmbH** |  |  |  |
-| Felix-Dahn-Straße 15 | Y/9/2307/36/083 | 30.06.2026 | Windows |
+| Felix-Dahn-Straße 15 | Y/9/2607/24/083 | 30.06.2028 | Windows |
 | 70597 Stuttgart |  |  |  |
 | Internet: www.pegamed.de |  |  |  |
 
@@ -2061,7 +2043,7 @@ Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit eine
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **PROFIMED** |  |  |  |
 | **PRO MEDISOFT AG** |  |  |  |
-| Besselstraße 25 | Y/9/2307/36/247 | 30.06.2026 | Windows |
+| Besselstraße 25 | Y/9/2607/24/247 | 30.06.2028 | Windows |
 | 68219 Mannheim |  |  |  |
 | Internet: www.pro-medisoft.de |  |  |  |
 
@@ -2135,7 +2117,7 @@ Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diag
 | **RED medical classic** |  |  |  |
 |  |  |  | iOS/Android |
 | **RED Medical Systems GmbH** |  |  | Linux |
-| Lutzstraße 2 | Y/9/2307/36/456 | 30.06.2026 | Mac OS |
+| Lutzstraße 2 | Y/9/2607/24/456 | 30.06.2028 | Mac OS |
 | 80687 München |  |  | Sonstige |
 | Internet: www.REDMEDICAL.DE |  |  | Windows |
 
@@ -2236,7 +2218,7 @@ SAP Ambulatory Care Management Dietmar-Hopp-Allee 16 69190 Walldorf Internet: ww
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **ARZT 2000** |  |  |  |
 | **Schmidt Computersysteme** |  |  |  |
-| Chrysanthemenweg 4 | Y/9/2307/36/171 | 30.06.2026 | Windows |
+| Chrysanthemenweg 4 | Y/9/2607/24/171 | 30.06.2028 | Windows |
 | 02827 Görlitz |  |  |  |
 | Internet: www.arzt2000.de |  |  |  |
 
@@ -2260,7 +2242,7 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **QMED.PRAXIS** |  |  |  |
 | **Schwerdtner Medizin-Software GmbH** |  |  |  |
-| Loebensteinstraße 26 | Y/9/2307/36/230 | 30.06.2026 | Windows |
+| Loebensteinstraße 26 | Y/9/2607/24/230 | 30.06.2028 | Windows |
 | 30175 Hannover |  |  |  |
 | Internet: www.q-med.de |  |  |  |
 
@@ -2308,7 +2290,7 @@ Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 5
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **star.net® Labor** |  |  |  |
 | **Sonic Healthcare Germany GmbH & Co. KG** |  |  | Linux |
-| Mecklenburgische Straße 28 | Y/9/2307/36/412 | 30.06.2026 | Mac OS |
+| Mecklenburgische Straße 28 | Y/9/2607/24/412 | 30.06.2028 | Mac OS |
 | 14197 Berlin |  |  | Windows |
 | Internet: www.sonichealthcare.de |  |  |  |
 
@@ -2450,7 +2432,7 @@ Mac OS X/9/2507/36/529 30.06.2028 Windows
 |  |  | **gültig bis** | **Betriebssysteme** |
 | **tomedo** |  |  |  |
 | **Zollsoft GmbH** |  |  |  |
-| Ernst-Haeckel-Platz 5/6 | Y/9/2307/36/457 | 30.06.2026 | Mac OS |
+| Ernst-Haeckel-Platz 5/6 | Y/9/2607/24/457 | 30.06.2028 | Mac OS |
 | 07745 Jena |  |  |  |
 | Internet: www.zollsoft.de |  |  |  |
 

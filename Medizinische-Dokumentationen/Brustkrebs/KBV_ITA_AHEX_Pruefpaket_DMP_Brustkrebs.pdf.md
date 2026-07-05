@@ -130,29 +130,29 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung
 
 Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 
-| Datum | Autor | Änderung | Begründung |
+| Datum | Autor | Ä n deru ng | Begrü n dung |
 |---|---|---|---|
 | 14.08.2024 | KBV | Anpassung an | Schnittstellenversion |
 
 | 08.11.2022 | KBV | Änderung der Daten in |  |
 |---|---|---|---|
-|  |  | den Prüffällen. |  |
+|  |  | den Prü ffä lle n . |  |
 |  |  | Neuer Prüffall für die |  |
-|  |  | Teilnahmeerklärung |  |
+|  |  | Teilnahmeerklä ru ng |  |
 |  |  | Streichung des TDV- | Die |
 |  |  | Testfalls zur | Schnittstellenversion |
-|  |  | Überprüfung der alten | 4.21 wird nicht mehr |
-|  |  | Schnittstellenversion | unterstützt |
+|  |  | Ü b erp rü fu n g de ralte n | 4.21 wird nicht mehr |
+|  |  | Schnittstellenversion | unterstü tzt |
 |  |  | 4.21 |  |
 | 27.01.2022 | KBV | Korrektur des Datums |  |
 |  |  | der Erstellung der |  |
 |  |  | Erstdokumentation im |  |
-|  |  | Prüffall 2617 |  |
+|  |  | Prü ffa ll 2 617 |  |
 | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue |
 
 | 28.02.2019 | KBV | redaktionelle Korrektur |  |
 |---|---|---|---|
-|  |  | von Prüffall 2612 |  |
+|  |  | von Prü ffa ll 2 612 |  |
 | 26.07.2018 | KBV | Komplettüberarbeitung | AlleAnpassungan |
 
 12.03.2018 KBV
@@ -201,18 +201,18 @@ Aufnahme eines Testfalls Personalienfeldanpass  zur Überprüfung der ung zum 1.
 
 / Version: 4.28 / 14. August 2024
 
-Anpassung an 
+Änderung Begründung den Prüffällen. Teilnahmeerklärung Überprüfung der alten unterstützt Prüffall 2617 von Prüffall 2612 Anpassung an 
 
 
 ---
 
 **Version**
 
-| Datum | Autor | Änderung | Begründung |
+| Datum | Autor | Ä n deru ng | Begrü n dung |
 |---|---|---|---|
 |  |  | 4.21 |  |
-| 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der |
-|  |  | des Prüfpakets | Zertifizierungsrichtlinie |
+| 23.05.2017 | KBV | Komplettü b erarb eitu ng | Aktualisierung der |
+|  |  | des Prü fp akets | Zertifizierungsrichtlinie |
 
 4.19
 
@@ -220,6 +220,7 @@ Anpassung an
 
 Alle
 
+Änderung Komplettüberarbeitung des Prüfpakets Begründung
 
 ---
 

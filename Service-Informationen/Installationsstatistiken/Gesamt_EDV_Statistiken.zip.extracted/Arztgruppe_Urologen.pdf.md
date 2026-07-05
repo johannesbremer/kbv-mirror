@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -14,19 +14,19 @@
 
 210 **Medical Office**
 
-254 **ORBIS®**
-
 457 **tomedo**
+
+254 **ORBIS®**
 
 243 **x.concept**
 
 462 **medatixx**
 
+498 **T2med**
+
 203 **ALBIS**
 
 244 **QUINCY WIN**
-
-498 **T2med**
 
 252 **CGM M1 PRO**
 
@@ -34,83 +34,83 @@
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 277
+CompuGroup Medical Deutschland AG 271
 
-294
+277
 
--17
+-6
 
-medatixx GmbH & Co. KG 180
+medatixx GmbH & Co. KG 183
 
-179
-
-1
-
-CompuGroup Medical Deutschland AG 168
-
-177
-
--9
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH 127 121
-
-6
-
-Dedalus HealthCare GmbH 116
-
-117
-
--1
-
-Zollsoft GmbH 116
-
-103
-
-13
-
-medatixx GmbH & Co. KG 101
-
-103
-
--2
-
-medatixx GmbH & Co. KG 93
-
-90
+180
 
 3
 
-CompuGroup Medical Deutschland AG 89
+CompuGroup Medical Deutschland AG 164
 
-87
+168
 
-2
+-4
 
-Frey ADV GmbH 86
+INDAMED EDV-Entwicklung und Vertrieb GmbH 130 127
 
-87
+3
 
--1
+Zollsoft GmbH 126
 
-T2med GmbH & Co. KG 86
+116
 
-84
+10
 
-2
+Dedalus HealthCare GmbH 112
 
-CompuGroup Medical Deutschland AG 70
+116
 
-69
+-4
+
+medatixx GmbH & Co. KG 102
+
+101
 
 1
 
+medatixx GmbH & Co. KG 100
+
+93
+
+7
+
+T2med GmbH & Co. KG 87
+
+86
+
+1
+
+CompuGroup Medical Deutschland AG 86
+
+89
+
+-3
+
+Frey ADV GmbH 84
+
+86
+
+-2
+
+CompuGroup Medical Deutschland AG 68
+
+70
+
+-2
+
 CGM Clinical Europe GmbH 45
 
-43
+45
 
-2
+0
 
 1
 
@@ -121,43 +121,43 @@ CGM Clinical Europe GmbH 45
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
 266 **x.comfort**
 
-medatixx GmbH & Co. KG 41
+medatixx GmbH & Co. KG 43
 
-42
-
--1
-
-343 **SAP Ambulatory Care Management** SAP SE 37
-
-42
-
--5
-
-135 **EL - Elaphe Longissima**
-
-medatixx GmbH & Co. KG 36
-
-34
+41
 
 2
 
+343 **SAP Ambulatory Care Management** SAP SE 35
+
+37
+
+-2
+
+135 **EL - Elaphe Longissima**
+
+medatixx GmbH & Co. KG 34
+
+36
+
+-2
+
 136 **InterARZT**
 
-InterData Praxiscomputer GmbH 32
+InterData Praxiscomputer GmbH 34
 
-33
+32
 
--1
+2
 
 314 **IMedOne**
 
-Deutsche Telekom Clinical Solutions GmbH 29 34
+Deutsche Telekom Clinical Solutions GmbH 28 29
 
--5
+-1
 
 086 **DURIA**
 
@@ -169,9 +169,9 @@ Duria eG 28
 
 015 **MEDYS**
 
-MEDYS GmbH 21
+MEDYS GmbH 20
 
-22
+21
 
 -1
 

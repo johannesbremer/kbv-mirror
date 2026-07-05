@@ -165,9 +165,9 @@ Bezugsperson
 
 Sonstige **Patientenverfügung Consent**
 
-|  |  | Sonstige::Leistungsanfrage _Psychotherapie (EligibilityRequest ) |  | Sonstige::Leistungsanfrage _Heilmittel(EligibilityRequest ) |
+|  |  | Sonstige::Leistungsanfrage_Psychotherapie(EligibilityRequest) |  | Sonstige::Leistungsanfrage_Heilmittel(EligibilityRequest) |
 |---|---|---|---|---|
-| **Sonstige::Weiterbehandlung _durch(ServiceRequest )** |  | -Patient |  | -Patient |
+| **Sonstige::Weiterbehandlung_durch(ServiceRequest)** |  | -Patient |  | -Patient |
 
 Sonstige **Leistungsgenehmigung Heilmittel Eligibilityresponse**
 
@@ -267,7 +267,9 @@ Begegnung **Krebsfrueherkennung Frauen Zytologischer Befund histologisch** **e K
 
 Begegnung **Zytologischer Befund DiagnosticReport**
 
-# In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt jedoch könnte jedes beliebige KBV Profil referenziert werden
+# In der Klasse Provenienz wird nicht jede Klasse als Attribut explizit aufgeführt
+
+jedoch könnte jedes beliebige KBV Profil referenziert werden
 
 Patient
 
@@ -307,7 +309,7 @@ Begegnung **Krebsfrueherkennung Frauen HPV Impfung 2020 Observation**
 
 | Begegnung::Krebsfrüherkennung _Frauen_2020(Composition) |  |  |
 |---|---|---|
-| -Patient |  | **Begegnung::Krebsfrueherkennung _Frauen_Gynaekologische _Operation(** |
+| -Patient |  | **Begegnung::Krebsfrueherkennung_Frauen_Gynaekologische_Operation(** |
 | -Blutdruck |  | **Procedure)** |
 |  |  | -Patient |
 
@@ -325,9 +327,9 @@ Begegnung **Krebsfrueherkennung Frauen Befund Diverse** **Observation**
 
 Begegnung **Krebsfrueherkennung Frauen Zytologischer Befund Diverse** **Observation**
 
-| Begegnung::Krebsfrueherkennung _Frauen_Zytologischer_Befund_Bemerkungen( |  | Begegnung::Krebsfrueherkennung _Frauen_Zytologischer_Befund_Endozervikal |
+| Begegnung::Krebsfrueherkennung_Frauen_Zytologischer_Befund_Bemerkungen( |  | Begegnung::Krebsfrueherkennung_Frauen_Zytologischer_Befund_Endozervikal |
 |---|---|---|
-| **Oberservation )** |  | **e_Zellen(Observation)** |
+| **Oberservation)** |  | **e_Zellen(Observation)** |
 
 Begegnung **Krebsfrueherkennung Frauen Zytologischer Befund Gruppe** **Observation**
 

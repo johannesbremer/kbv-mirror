@@ -171,9 +171,7 @@ einer
 
 Teilnahme für folgende Indikationen
 
-```
 -
-```
 
 Sie z. B. gleichzeitig eine
 

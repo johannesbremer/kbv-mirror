@@ -116,22 +116,17 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der   [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen  Arbeitsbescheinigungen erfüllt sind.
+|  | Der Antragsteller | versichert, dass alle Pflichtfunktionender☐ Technischen Anlage |
+|---|---|---|
+|  |  | [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen |
+|  | Arbeitsbescheinigungen | erfüllt sind. |
+| **2.1** | **REALISIERTE** | **OPTIONALE FUNKTIONEN EAU** |
+|  | Folgende optionale eAU | Funktionen sind gem. der Technischen Anlage |
+|  | [KBV_ITA_VGEX_Technische_Anlage_eAU] | realisiert. |
+|  | KEINE | ALLE☐☐ Laut nachfolgenderListe☐ |
+|  | **IDENT-NUMMER** | **BEZEICHNUNG DER OPTIONALEN EAU FUNKTION LT. TECHNISCHER ANLAGE EAU** |
 
-**2.1** **REALISIERTE OPTIONALE FUNKTIONEN EAU**
-
-Folgende optionale eAU Funktionen sind gem. der Technischen Anlage  [KBV_ITA_VGEX_Technische_Anlage_eAU] realisiert.
-
-KEINE
-
-ALLE
-
-**IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN EAU FUNKTION LT. TECHNISCHER ANLAGE EAU**
-
-Technischen Anlage
-
-Laut nachfolgender Liste
-
+Der Antragsteller versichert, dass alle Pflichtfunktionen der Arbeitsbescheinigungen erfüllt sind. REALISIERTE OPTIONALE FUNKTIONEN Folgende optionale eAU Funktionen sind gem. der Technischen Anlage [KBV_ITA_VGEX_Technische_Anlage_eAU] realisiert. Laut nachfolgender Liste
 
 ---
 

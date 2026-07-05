@@ -62,23 +62,29 @@ INHALT
 | 1.3 | Abgrenzung | 6 |
 | 1.4 | Methodik | 6 |
 |  | 1.4.1 Erläuterung der Tabellenspalten | 6 |
-|  | 1.4.2 Namensräume der Datentypen | 6 |
+|  | 1.4.2 Namensrä u m ed erD ate ntypen | 6 |
 
-| 2 | KONKRETISIERUNG DER DATENÜBERGABE ZWISCHEN | ATTRBS UND TSP 8 |
-|---|---|---|
-| 2.1 | Übergreifende Festlegungen | 8 |
-| 2.2 | Vorbefüllung | 8 |
-| 2.2.1 | Mehrere Vorbefüllungen | 9 |
-| 2.2.2 | Einzelne Vorbefüllung | 9 |
-| 2.3 | Nachbefüllung | 10 |
-| 2.4 | Freigaben/Ablehnung | 11 |
-| 2.4.1 | SmcbFreigaben | 11 |
-| 2.5 | Antragexport / Monitoring | 13 |
-| 2.5.1 | AntraegeExportRequestType | 13 |
-| 2.5.2 | SmcbAntraegeExport | 15 |
-| 2.6 | Sperrauftrag | 17 |
-| 2.6.1 | SmcbSperrAuftraege | 18 |
-| 2.7 Anträge | in Bearbeitung setzen | 19 |
+**2** **KONKRETISIERUNG DER DATENÜBERGABE ZWISCHEN ATTRBS UND TSP**
+
+**8**  2.1 Übergreifende Festlegungen 8  2.2 Vorbefüllung
+
+8  2.2.1 Mehrere Vorbefüllungen
+
+9  2.2.2 Einzelne Vorbefüllung 9  2.3 Nachbefüllung
+
+10  2.4 Freigaben/Ablehnung
+
+11  2.4.1 SmcbFreigaben
+
+11  2.5 Antragexport / Monitoring
+
+13  2.5.1 AntraegeExportRequestType 13  2.5.2 SmcbAntraegeExport
+
+15  2.6 Sperrauftrag
+
+17  2.6.1 SmcbSperrAuftraege
+
+18  2.7 Anträge in Bearbeitung setzen 19
 
 **3** **DIE SCHEMA-DATEIEN**
 
@@ -124,7 +130,7 @@ INHALT
 
 26  3.2.22 PostfachAdressType
 
-KONKRETISIERUNG DER DATENÜBERGABE ZWISCHEN ATTRBS UND TSP Anträge in Bearbeitung setzen26
+Namensräume der Datentypen 26
 
 
 ---
@@ -866,7 +872,9 @@ Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
 ### Der Aufbau der Betriebstättennummer (BSNR) in „InstID“ MUSS dem Format aus  BETRIEBSTÄTTENNUMMER (BSNR) IN „INSTID“ entsprechen.
 
-### Sonderfall: Bei Betriebsstättennummern (BSNR) beginnend mit den Ziffern 75 oder 35 steht die KV-Nummer an den Stellen 3 und 4. 2
+Sonderfall: Bei Betriebsstättennummern (BSNR) beginnend mit den Ziffern 75 oder 35 steht die KV-
+
+### Nummer an den Stellen 3 und 4. 2
 
 **Tabelle 18:** **Aufbau der Betriebstättennummer (BSNR) in „InstID“**
 
@@ -874,7 +882,9 @@ Es gibt keine Konkretisierung zu [gemSpec_Pers].
 |---|---|
 | 2-stellig numerisch | 7-stellig numerisch |
 
-### Zulässige Werte für „KV Nummer“ MÜSSEN aus  entnommen und vom TSP überprüft werden.
+### Zulässige Werte für „KV Nummer“ MÜSSEN aus
+
+entnommen und vom TSP überprüft werden.
 
 2 Siehe KV_AFO_0131 in [KBV_ITV_VGEX_Anforderungskatalog_SMCB]
 

@@ -40,7 +40,7 @@ der Lebensqualität ist nicht mehr angezeigt.
 
 **Weitere Erläuterungen**
 
-## Ergebnis der Erhebung des  Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials gemäß
+Ergebnis der Erhebung des  Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials gemäß
 
 ## AKI-Richtlinie des G-BA
 

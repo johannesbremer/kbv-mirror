@@ -2,7 +2,9 @@
 
 ## Anforderungskatalog DMP  Brustkrebs
 
-### [KBV_ITA_VGEX_Anforderungskata-log_DMP_Brustkrebs]
+[KBV_ITA_VGEX_Anforderungskata-
+
+### log_DMP_Brustkrebs]
 
 ### Dezernat Digitalisierung und IT
 
@@ -653,9 +655,7 @@ Das System muss,
 
 -  *BK_425*
 
-```
 -
-```
 
 - und
 

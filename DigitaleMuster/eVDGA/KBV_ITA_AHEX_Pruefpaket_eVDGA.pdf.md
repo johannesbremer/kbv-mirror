@@ -28,19 +28,19 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | 2.2 Zertifizierungsablauf | 4 |
 | 2.3 Zertifizierungsportal | 5 |
 | 2.4 Zertifizierungsdokumente | 5 |
-| 2.5 Prüfunterlagen | 5 |
-| 2.6 Prüfvorgaben | 6 |
-| 2.6.1 Prüfstammdaten | 6 |
+| 2.5 Prü fu nte rla gen | 5 |
+| 2.6 Prü fvorgaben | 6 |
+| 2.6.1 Prü fstam mdate n | 6 |
 | 2.6.2 Versichertendaten | 6 |
-| 2.6.3 Auflistung der Prüffälle | 7 |
+| 2.6.3 Auflistung der Prü ffä lle | 7 |
 | 2.6.4 Praxisdaten/ Arztstempel | 7 |
 | 2.6.5 Version der zu verwendenden FHIR-Profile | 8 |
 
-| 3 | PRÜFFÄLLE | 9 |
-|---|---|---|
-| 3.1 | Voraussetzungen | 9 |
-| 3.2 | Erstellen einer eVDGA | 9 |
-| 3.3 | Bestätigung der gematik zum Funktionsumfang | eVDGA 13 |
+**3** **PRÜFFÄLLE**
+
+**9**  3.1 Voraussetzungen 9  3.2 Erstellen einer eVDGA
+
+9  3.3 Bestätigung der gematik zum Funktionsumfang eVDGA 13
 
 **4** **TESTDATENVALIDIERUNG**
 
@@ -50,7 +50,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **15**
 
-Bestätigung der gematik zum Funktionsumfang eVDGA
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle
 
 ---
 

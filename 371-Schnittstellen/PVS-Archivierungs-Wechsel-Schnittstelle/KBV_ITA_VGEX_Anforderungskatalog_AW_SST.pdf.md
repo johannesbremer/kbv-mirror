@@ -1187,17 +1187,23 @@ Plattformunabhängige Festlegung.
 -  Das ASCII Zeichen mit Code 32 (Space / Leerzeichen) ist nicht zulässig
 -  Folgende Zeichen sind nicht zulässig
 
-```
 -
+
 -
+
 -
+
 -
+
 -
+
 -
+
 -
+
 -
+
 -
-```
 
 -  Am Ende eines Verzeichnis - oder Dateinamens darf weder ein Leerzeichen noch ein Punkt (.) stehen.
 -  Folgende Dateinamen sind nicht zulässig:
@@ -1658,9 +1664,7 @@ können.
 
 - hrung des Exports sind ausführlich in
 
-```
 -
-```
 
 die  ]. Dazu ist eine sprechende Meldung
 
@@ -1694,9 +1698,8 @@ Leere Ressourcen können beim Import zu Fehlinterpretationen führen
 
 - 1. Ressourcen ohne fachlichen Inhalt dürfen nicht erzeugt werden bzw. nicht in die BUNDLE -Dateien  geschrieben werden
 
-```
 -
-```
+
 
 ---
 
@@ -1737,9 +1740,7 @@ ystem erfolgen
 
 - sind als Referenz freigegeben.
 
-```
 -
-```
 
 - System
 
@@ -1947,17 +1948,13 @@ Eine Schulung der Anwender durch die Hersteller wird nicht erwartet.
 
 mit gleicher ID muss beim Import beachtet werden.
 
-```
 -
-```
 
 - nicht ausreichende Funktionalität, um im System vorhandene Daten  zuführen, ist beim Start eines Imports (Punkt 2) in ein  der Anwender mit einer aussagekräftigen Meldung
 
 n der Lage sein,
 
-```
 -
-```
 
 - auf die
 

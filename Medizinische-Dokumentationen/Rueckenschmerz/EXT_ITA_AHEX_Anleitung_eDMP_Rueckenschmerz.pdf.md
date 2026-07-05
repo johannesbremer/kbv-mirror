@@ -2,7 +2,7 @@
 
 ## zum indikationsspezifischen Datensatz
 
-## für das strukturierte Behandlungsprogramm chronische r Rückenschmerz
+für das strukturierte Behandlungsprogramm chronische r Rückenschmerz
 Stand der letzten Bearbeitung: 09.07.2020
 
 Version 1.0
@@ -12,7 +12,7 @@ Version 1.0
 
 ## Relevante Ereignisse
 
-#### Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der  letzten Dokumentation
+Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der  letzten Dokumentation
 
 Eine Angabe in diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend **Eine numerische Angabe ohne Nachkommastelle ist erforderlich**
 
@@ -69,7 +69,7 @@ kreuzschmerzbedingte Schmerzmedikation mit Nicht-oder **„Bei Bedarf** erfolgt.
 
 Multimodale kreuzschmerz-spezifischen Schulungen stellen eine  Daher soll jede Patientin und jeder Patient Zugang zu einer  Bitte machen Sie jeweils eine Angabe zu den folgenden drei Dokum
 
-#### Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen
+**Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen**
 
 Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** **Genau eine Angabe** ist erforderlich und zulässig.
 
@@ -139,7 +139,7 @@ Als Mehrfachnennung möglich ist daher nur die Kombination der Antworten: „Nei
 
 ---
 
-#### Erreichen mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation
+Erreichen mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation
 
 Eine Angabe in diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend **Genau eine Angabe** ist erforderlich und zulässig.
 

@@ -34,11 +34,10 @@ INHALT
 | 2.3 | Datentransfer | 13 |
 | 2.4 | Zertifizierung | 13 |
 
-**3** **ANFORDERUNGEN AN DAS PVS UND DIE VOS**
-
-**14**  3.1 Verbindliche Dokumente
-
-14  3.2 Übergreifende Anforderungen 16
+| 3 |  | ANFORDERUNGEN | AN DAS PVS UND DIE VOS | 14 |
+|---|---|---|---|---|
+| 3.1 | Verbindliche |  | Dokumente | 14 |
+| 3.2 | Ü b ergreife | nde A | nfo rd eru ngen | 16 |
 
 **4** **ANFORDERUNGEN AN DAS PVS**
 
@@ -70,6 +69,7 @@ INHALT
 
 **47**
 
+ANFORDERUNGEN AN DAS PVS UND DIE VOS Verbindliche Dokumente Übergreifende Anforderungen
 
 ---
 
@@ -859,9 +859,7 @@ z. B. die LANR (Lebenslange Arztnummer)
 
 estens die LANR und BSNR des Arztes, die  -Behandlung die ASV-Teamnummer übermittelt
 
-```
 -
-```
 
 - -Bundle unter Berücksichtigung der Pflichtfunktion
 - Tabelle 3) vom PVS im
@@ -1621,9 +1619,7 @@ Jedes PVS wird die VoS mit unterschiedlichen Verordnungsfunktionen aufrufen. Die
 - 1. Die VoS unterstützt alle in diesem Dokument unter Kapitel 3 beschriebenen KBV dazugehörigen Anforderungen.
 - - Teamnummer wird  -Behandlung erfolgt und die
 
-```
 -
-```
 
 -Profile an die VoS übermittelt
 

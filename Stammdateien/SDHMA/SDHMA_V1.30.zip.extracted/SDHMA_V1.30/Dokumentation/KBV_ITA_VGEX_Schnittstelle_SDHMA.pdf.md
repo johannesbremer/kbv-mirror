@@ -560,27 +560,34 @@ Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen au
 
 ---
 
-#### Abbildung 8: heilmittel
+| IT in der | Arztpraxis |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+|  | Schnittstellenbeschreibung | | SDHMA | – Stammdatei |  |  |
+| **Abbildung** | **8:** | heilmittel |  |  |  |  |
+| Der | XML-Code | fü r e in | < heilm | itte l> | Element hat | folgenden Aufbau: |
+|  | **<heilmittel>** |  |  |  |  |  |
+|  |  | **<anlage_heilmittelvereinbarung** | | | **V="..." DN="..."/>** |  |
+|  | **<sekundaercode** | | **V="..."/>** |  |  |  |
+|  | **<untere_altersgrenze** | |  | **V="..." U="..."/>** |  |  |
+|  | **<obere_altersgrenze** | | **V ="..."** | **U="..."/>** |  |  |
+|  | **<hinweistext** |  | **V="..."/>** |  |  |  |
+|  |  | **<zeitraum_akutereignis** | | **V="..."** | **U="..."/>** |  |
+|  | **<kapitel_liste>** | |  |  |  |  |
+|  | **<kapitel** |  | **V="..."** | **DN="...">** |  |  |
+|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | | * Version 1.31 |  |  |
 
-### Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau:
-
+```
 **<heilmittel>**
-
 **<anlage_heilmittelvereinbarung V="..." DN="..."/>**
-
 **<sekundaercode V="..."/>**
-
 **<untere_altersgrenze V="..." U="..."/>**
-
-**<ob ere_altersgrenze V="..." U="..."/>**
-
+**<ob**
 **<hinweistext V="..."/>**
-
 **<zeitraum_akutereignis V="..." U="..."/>**
-
 **<kapitel_liste>**
+```
 
-**<kapitel V="..." DN="...">**
+Abbildung 8: Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau: ere_altersgrenze V="..." U="..."/> **<kapitel V="..." DN="...">**
 
 
 ---

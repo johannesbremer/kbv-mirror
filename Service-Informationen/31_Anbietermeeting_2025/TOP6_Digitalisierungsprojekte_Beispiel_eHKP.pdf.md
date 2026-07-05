@@ -52,7 +52,7 @@
 
 ## - Vollständige Digitalisierung
 
-## - trägt zur Akzeptanz in den Praxen bei
+- trägt zur Akzeptanz in den Praxen bei
 
 ## - Nutzerfreundlichkeit des digitalisierten Prozesses
 
@@ -60,8 +60,7 @@
 
 ## - Keine Aufgabenumverteilung zu Lasten der Praxen
 
-## - insbesondere von Aufgaben des Patienten
-
+- insbesondere von Aufgaben des Patienten
 - **LESSONS LEARNED FRÜHERE DIGITALISIERUNGSPROJEKTE**
 
 
@@ -100,7 +99,7 @@
 
 ## Informationsmodell (GKV-SV / KBV)
 
-## - Festlegung der Daten, die in einer ärztlichen Verordnung erfasst werden können
+- Festlegung der Daten, die in einer ärztlichen Verordnung erfasst werden können
 
 ## - Umfangreicher als Muster 12
 
@@ -154,17 +153,17 @@
 
 ## - Einreichen bei Kostenträger
 
-Digitaler Soll- Prozess (vereinfacht)- **DIGITALISIERUNGSPROJEKT EHKP**
+Digitaler Soll- Prozess (vereinfacht)  - **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---
 
-| Statusmodell |  | (vorläufig) |
+|  | Statusmodell | (vorläufig) |
 |---|---|---|
-| **DIGITALISIERUNGSPROJEKTE-** |  | **BEISPIEL EHKP** |
-| 31. ANBIETERMEETING | DER KBV AM | 18. SEPTEMBER 2025 |
+| **DIGITALISIERUNGSPROJEKTE** | **-** | **BEISPIEL EHKP** |
+| 31. ANBIETERMEETING | DER KBV | AM 18. SEPTEMBER 2025 |
 
-Statusmodell (vorläufig)- **DIGITALISIERUNGSPROJEKT EHKP**
+Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
 
 
 ---

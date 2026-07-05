@@ -29,7 +29,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | 2.3 | Root-Schema | 8 |
 | 2.4 | Dateinamen | 8 |
 | 2.5 | Semantik der verwendeten Diagrammsymbole | 9 |
-|  | 2.5.1 Kardinalität | 9 |
+|  | 2.5.1 Kardinalitä t | 9 |
 |  | 2.5.2 Strukturelemente | 9 |
 |  | 2.5.3 Sonstige Symbole | 10 |
 
@@ -163,7 +163,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 5.30 vorschlag
 
-32
+Kardinalität 32
 
 
 ---

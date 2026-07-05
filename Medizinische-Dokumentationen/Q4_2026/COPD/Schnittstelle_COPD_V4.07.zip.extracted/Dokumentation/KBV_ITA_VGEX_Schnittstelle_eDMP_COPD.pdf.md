@@ -22,11 +22,11 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 
 **2** **DATEINAMEN**
 
-| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM | -SYMBOLE 11 |
-|---|---|---|
-| 3.1 | Kardinalität | 11 |
-| 3.2 | Strukturelemente | 11 |
-| 3.3 | Sonstige Symbole | 12 |
+| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 11 |
+|---|---|---|---|
+| 3.1 | Kardinalitä | t | 11 |
+| 3.2 |  | Strukturelemente | 11 |
+| 3.3 | Sonstige | Symbole | 12 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -140,7 +140,7 @@ COPD-Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor der Ei
 
 30
 
-SEMANTIK DER VERWENDETEN DIAGRAMM -SYMBOLE 30
+SEMANTIK DER VERWENDETEN DIAGRAMM -SYMBOLE Kardinalität Sonstige Symbole 30
 
 
 ---

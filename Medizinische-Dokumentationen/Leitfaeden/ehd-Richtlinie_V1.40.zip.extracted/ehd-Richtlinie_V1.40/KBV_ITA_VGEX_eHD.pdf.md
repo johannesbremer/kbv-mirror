@@ -384,37 +384,37 @@ XML-Code 35 /ehd/header/state ................................ .................
 
 ---
 
-XML-Code 36 /ehd/header/interface ................................ .................................................... 41
-
-XML-Code 37 /ehd/header/interface/id ................................................. ................................
+| XML-Code | 36 /ehd/header/interface ....................................................................................41 |
+|---|---|
+| XML-Code | 37 /ehd/header/interface/id................................................................................. |
+| XML-Code | 38 /ehd/header/interface/interface.nm................................................................42 |
+| XML-Code | 39 /ehd/header/interface/version........................................................................ |
+| XML-Code | 40 /ehd/header/interface/description .................................................................. |
+| XML-Code | 41 /ehd/header/local_header..............................................................................44 |
+| XML-Code | 42 /ehd/keytabs.................................................................................................. |
+| XML-Code | 43 /ehd/keytabs/keytab ......................................................................................47 |
+| XML-Code | 44 /ehd/keytabs/keytab/key................................................................................ |
+| XML-Code | 45 /ehd/keytabs/keytab/key................................................................................ |
+| XML-Code | 46 xy_root.xsd.................................................................................................... |
+| XML-Code | 47 xy_header.xsd...............................................................................................61 |
+| XML-Code | 48 xy_body.xsd.................................................................................................. |
 
 42
 
-XML-Code 38 /ehd/header/interface/interface.nm ................................ ................................ 42
+42
 
-XML-Code 39 /ehd/header/interface/version ........................................ ................................ 42
-
-XML-Code 40 /ehd/header/interface/description ................................ .................................. 43
-
-XML-Code 41 /ehd/header/local_header .............................................................................. 44
-
-XML-Code 42 /ehd/keytabs .................................. ................................................................ 46
-
-XML-Code 43 /ehd/keytabs/keytab ...................................................................................... 47
-
-XML-Code 44 /ehd/keytabs/keytab/key ................................................ ................................
+46
 
 48
 
-XML-Code 45 /ehd/keytabs/keytab/key ................................................ ................................
-
 48
 
-XML-Code 46 xy_root.xsd .................................................................... ................................ 61
+61
 
-XML-Code 47 xy_header.xsd ................................ ...............................................................61
+62
 
-XML-Code 48 xy_body.xsd .................................. ................................................................ 62
+XML-Code 36 /ehd/header/interface .................................................... 41 XML-Code 37 /ehd/header/interface/id XML-Code 38 /ehd/header/interface/interface.nm ................................ 42 XML-Code 39 /ehd/header/interface/version XML-Code 40 /ehd/header/interface/description .................................. 43 XML-Code 41 /ehd/header/local_header XML-Code 42 /ehd/keytabs XML-Code 43 /ehd/keytabs/keytab XML-Code 44 /ehd/keytabs/keytab/key XML-Code 45 /ehd/keytabs/keytab/key XML-Code 46 xy_root.xsd XML-Code 47 xy_header.xsd XML-Code 48 xy_body.xsd 
+
 
 ---
 
@@ -562,14 +562,18 @@ Folgender Code ist für die Implementierung einer ehd-Schnittstelle vorgeschrieb
 
 # 4 header (Metadaten)
 
-### Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsdaten, er hat  folgende Grundstruktur:
+Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsdaten, er hat
+
+### folgende Grundstruktur:
 
 **Abbildung 2 /ehd/header**
 
 
 ---
 
-### Folgendes Beispiel zeigt die Grundstruktur des <header> -Elements. Ein komplett ausgefüllter  Beispiel mit Daten befindet sich in der XML-Datei „ehd_beispiel.xml“.
+### Folgendes Beispiel zeigt die Grundstruktur des <header> -Elements. Ein komplett ausgefüllter
+
+Beispiel mit Daten befindet sich in der XML-Datei „ehd_beispiel.xml“.
 
 <header ehd_version=". . .">
 
@@ -629,9 +633,7 @@ Folgender Code ist für die Implementierung einer ehd-Schnittstelle vorgeschrieb
 
 ### Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XML-Dokument
 
-bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere id,
-
-### und auch bei Korrekturen muss eine neue id vergeben werden.
+bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere id,  und auch bei Korrekturen muss eine neue id vergeben werden.
 
 Das Element hat folgende Attribute:
 
@@ -647,15 +649,11 @@ Nummer des Objektes, welches das Objekt innerhalb der Organisation bzw. eines Be
 
 ### einmaliger Identifikator.
 
-### Es wird empfohlen im EX-Attribut einen Identifikator in Form eines GUID (global uni-
-
-que identifier), zu verwenden. Jede, auf Basis dieser Beschreibung, erstellte konkrete
+Es wird empfohlen im EX-Attribut einen Identifikator in Form eines GUID (global uni-que identifier), zu verwenden. Jede, auf Basis dieser Beschreibung, erstellte konkrete
 
 ### XML-Datei muss daher einen anderen Identifikator haben.
 
-### Bei einer GUID handelt sich um eine 128 Bit-Zahl, die aus einer Menge von Informati-
-
-onen gebildet wird. Zum Erzeugen von GUID gibt es zahlreiche Tools, auch mit Java  gibt es solche Werkzeuge. Eine GUID ist z.B. nach den Microsoft-Vorgaben
+Bei einer GUID handelt sich um eine 128 Bit-Zahl, die aus einer Menge von Informati-onen gebildet wird. Zum Erzeugen von GUID gibt es zahlreiche Tools, auch mit Java  gibt es solche Werkzeuge. Eine GUID ist z.B. nach den Microsoft-Vorgaben
 
 
 ---
@@ -792,7 +790,9 @@ Das Element hat folgende Attribute:
 
 ---
 
-### V: hier wird das Erstellungsdatum der Datei im Format „YYYY-MM-DD“ angegeben. Zusätz-lich kann auch die Zeit und Zeitzone angegeben werden (siehe date-Datentyp in W3C-Schema-Spezifikation [3]).
+V: hier wird das Erstellungsdatum der Datei im Format „YYYY-MM-DD“ angegeben. Zusätz-lich kann auch die Zeit und Zeitzone angegeben werden (siehe date-Datentyp in W3C-
+
+### Schema-Spezifikation [3]).
 
 <origination_dttm V="2003-09-30"/>
 
@@ -817,9 +817,9 @@ Das Element hat folgende Attribute:
 
 ***<document_relationship.type_cd*** Der Beziehungstyp wird in diesem Kode-Element festgelegt.
 
-***<related_document>*** Die Verbindung zu anderen Dokumenten erfolgt über dieses Element,
+***<related_document>*** Die Verbindung zu anderen Dokumenten erfolgt über dieses Element,  in dem die Referenz zum anderen Dokument, über die Dokument-
 
-### in dem die Referenz zum anderen Dokument, über die Dokument-Identifikatoren (
+### Identifikatoren (
 
 ***<local_header>*** - Element wird in
 
@@ -827,9 +827,9 @@ Das Element hat folgende Attribute:
 
 ***<id>***
 
-### local_header (Platz für lokale Elementdefinitionen)
+local_header (Platz für lokale Elementdefinitionen)
 
-### werden die Beziehungen („Anhang“ oder „Er-
+werden die Beziehungen („Anhang“ oder „Er-
 
 ### anzugeben.
 
@@ -860,11 +860,11 @@ SN="Dokumentbeziehungstypen
 
 ### 4.7.1 document_relationship.type_cd (Dokument
 
-### Im Element <document_relationship.type_cd satz“) zum Dokument, der im Element <related_document
+### Im Element <document_relationship.type_cd
 
-### Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben
+satz“) zum Dokument, der im Element ***<related_document***
 
-werden können. Der Datentyp ist **v_s_string_typ**
+Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**
 
 ### sind, die für Kode-Elemente üblich sind.
 
@@ -886,9 +886,11 @@ SN="Dokumentbeziehungstypen
 
 ### -Beziehungstyp)
 
-### wird der Typ der Beziehung („Anhang“ oder „Er-angegebenen ist, genannt.
+wird der Typ der Beziehung („Anhang“ oder „Er-
 
-### , in dem Attribute und Elemente definiert
+### angegebenen ist, genannt.
+
+, in dem Attribute und Elemente definiert
 
 " SV="1.0"/>
 
@@ -954,9 +956,7 @@ Das Element hat folgende Attribute:
 
 ### Empfängertyp angegeben werden.
 
-***<organization>*** der Empfänger kann eine Organisation sein. Mehrere Organisationen können
-
-### zu einem Empfängertyp angegeben werden.
+***<organization>*** der Empfänger kann eine Organisation sein. Mehrere Organisationen können  zu einem Empfängertyp angegeben werden.
 
 ***<local_header>*** - Element wird in  local_header (Platz für lokale Elementdefinitionen) erklärt.
 
@@ -992,9 +992,7 @@ Das Element hat folgende Attribute:
 
 Der Empfänger bzw. die Zielgruppe kann einem Typ (z.B. Empfängertyp: „Empfänger“, „Eig-ner“) zugeordnet werden. Der Typ wird in diesem Kode-Element festgelegt.
 
-### Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben
-
-werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
+Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
 
 ### sind, die für Kode-Elemente üblich sind.
 
@@ -1055,17 +1053,15 @@ V="RECEIVER" S="1.2.276.0.76.2.2.102 " SV="1.0" DN="Empfänger"/> function_cd (R
 
 #### 4.8.3.1 id (Personidentifikation)
 
-### Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass kei-
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass kei-ne GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann  eine beliebige Zeichenfolge verwendet werden, welche die weltweite Eindeutigkeit des Ob-
 
-ne GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann
+### jekts gewährleisten muss.
 
-### eine beliebige Zeichenfolge verwendet werden, welche die weltweite Eindeutigkeit des Ob-jekts gewährleisten muss.
+Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetra-gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
 
-### Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetra-
+Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu-
 
-gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
-
-<id> Die Identifikation einer Person.  <person_name> Angabe zu dem Namen einer Person wird hier hinterlegt. Angabe zu dem Organisationsnamen, zu der die Person zugehört, wird hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organi- sation vorhanden und die Notwendigkeit die Organisation noch mal im <organization>  - Element anzugeben entfällt. Angabe zu der Adresse, in der die Person erreichbar ist, wird hier hin- terlegt. Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...), unter den die Person erreichbar ist, wird hier hinterlegt.  - Element wird in  local_header (Platz für lokale Elementdefinitionen)  erklärt. ### Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu-geben:
+<id> Die Identifikation einer Person.  <person_name> Angabe zu dem Namen einer Person wird hier hinterlegt. Angabe zu dem Organisationsnamen, zu der die Person zugehört, wird hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organi- sation vorhanden und die Notwendigkeit die Organisation noch mal im <organization>  - Element anzugeben entfällt. Angabe zu der Adresse, in der die Person erreichbar ist, wird hier hin- terlegt. Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...), unter den die Person erreichbar ist, wird hier hinterlegt.  - Element wird in  local_header (Platz für lokale Elementdefinitionen)  erklärt. ### geben:
 
 
 ---
@@ -1419,13 +1415,9 @@ Der Urheber kann einem Typ („Labore“, „Datenannahmestellen“)  zugeordnet
 
 ### 4.9.1 originator.type_cd (Urhebertypen)
 
-### Der Urheber kann einem Typ („Softwarehäuser“, „Datenannahmestellen“) zugeordnet wer-
+Der Urheber kann einem Typ („Softwarehäuser“, „Datenannahmestellen“) zugeordnet wer-den. Der Typ wird in diesem Kode-Element festgelegt.
 
-den. Der Typ wird in diesem Kode-Element festgelegt.
-
-### Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben
-
-werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
+Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
 
 ### sind, die für Kode-Elemente üblich sind.
 
@@ -1437,9 +1429,7 @@ werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemen
 
 ### Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element  beschrieben.
 
-### Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben
-
-werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
+Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
 
 ### sind, die für Kode-Elemente üblich sind.
 
@@ -1550,9 +1540,7 @@ zugeordnet werden. Der Typ wird in diesem Kode-Element fest-
 
 ### Der Sender kann einem Typ („Softwarehäuser“, „Datenannahmestellen“) zugeordnet werden.  Der Typ wird in diesem Kode-Element festgelegt.
 
-### Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben
-
-werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
+Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
 
 ### sind, die für Kode-Elemente üblich sind.
 
@@ -1609,9 +1597,7 @@ Das Element hat folgende Attribute:
 
 ***<scope.type_cd>***
 
-### Das Geltungsbereich kann einem Typ („KV-Geltungsbereich“) zugeord-
-
-net werden. Der Typ wird in diesem Kode-Element festgelegt.
+Das Geltungsbereich kann einem Typ („KV-Geltungsbereich“) zugeord-net werden. Der Typ wird in diesem Kode-Element festgelegt.
 
 ***<scope.nm>*** Klartextname des Geltungsbereiches
 
@@ -1691,11 +1677,15 @@ state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbei
 
 ***<originator>***
 
-### Angabe zu dem Ersteller/Urheber, alle relevanten Informationen zu der  die Schnittstelle definierenden Instanz
+Angabe zu dem Ersteller/Urheber, alle relevanten Informationen zu der
+
+### die Schnittstelle definierenden Instanz
 
 ***<description >***
 
-### Kurzbeschreibung der Schnittstelle oder aber, im günstigsten Fall, eine  URL auf ein online zugängliches Dokument der vollständigen Schnitt-stellenbezeichnung.
+Kurzbeschreibung der Schnittstelle oder aber, im günstigsten Fall, eine  URL auf ein online zugängliches Dokument der vollständigen Schnitt-
+
+### stellenbezeichnung.
 
 ***<local_header>*** - Element wird in  local_header (Platz für lokale Elementdefinitionen) erklärt.
 
@@ -1743,15 +1733,9 @@ state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbei
 
 ### 4.13.1 id (Identifikation der Schnittstelle)
 
-### Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass kei-
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass kei-ne GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann  eine beliebige Zeichenfolge verwendet werden.
 
-ne GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann
-
-### eine beliebige Zeichenfolge verwendet werden.
-
-### Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetra-
-
-gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
+Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetra-gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
 
 Die Identifikation der Schnittstelle.  Angabe zu dem Namen der Schnittstelle ### Gründe für die Angabe der Schlüsseltabellenversion siehe Seite: 25
 
@@ -1846,11 +1830,13 @@ Die Grundstruktur des ***<local_header>***
 
 **Abbildung 14 /ehd/header/local_header**
 
-### Anstatt des <any> Elements kann in der konkreten ehd-Schnittstellen-Implementierung, jedes
+Anstatt des <any> Elements kann in der konkreten ehd-Schnittstellen-Implementierung, jedes
 
 beliebige Element verwendet werden. Dazu wird der Basistyp: local_header-cont.model mit  ***<xs:restriction>***  eingeschränkt und die schnittstellenspezifische Elemente hinzugefügt.
 
-### Ein Beispiel für die Verwendung des <local_header -Elements mit zwei erfundenen Elementen,  die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ stammen.
+### Ein Beispiel für die Verwendung des <local_header -Elements mit zwei erfundenen Elementen,
+
+die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ stammen.
 
 <local_header ignore="markup" descriptor="KBV">
 
@@ -1894,9 +1880,7 @@ rung innerhalb der XML-Datei verwendet werden. Bei der Entwicklung einer konkret
 
 ### Wenn eine Übertragung von internen Schlüsseltabellen innerhalb einer XML-Instanz erlaubt
 
-werden soll, weil z.B. im body-Bereich auf diese Code-Wert-Paare referenziert wird, so kann  dieses Element verwendet werden. Durch dieses Element können interne Schlüsseltabellen
-
-### übertragen werden, die nicht öffentlich vorliegen.
+werden soll, weil z.B. im body-Bereich auf diese Code-Wert-Paare referenziert wird, so kann  dieses Element verwendet werden. Durch dieses Element können interne Schlüsseltabellen  übertragen werden, die nicht öffentlich vorliegen.
 
 ### Die allgemeine Struktur stellt die folgende Abbildung dar.
 
@@ -2062,7 +2046,9 @@ Annotation
 
 **Abbildung 10: Beispiel-XML-Schema zur Referenzintegrität**
 
-### Um die Werte im V-Attribut der <key>-Elemente als key im Sinne von XML-Schema zu definie-ren, wird im Schema, dem Root-Element <ehd> folgender Code hinzugefügt:
+### Um die Werte im V-Attribut der <key>-Elemente als key im Sinne von XML-Schema zu definie-
+
+ren, wird im Schema, dem Root-Element ***<ehd>*** folgender Code hinzugefügt:
 
 <xs:element name="ehd">
 
@@ -2086,7 +2072,9 @@ Annotation
 
 **XML-Code 18: Definition von keys**
 
-### Um die Werte im V-Attribut des <kv>-Elements als Verweise auf die entsprechenden keys zu  definieren, wird auch im Schema, im Root-Element <ehd> folgender Code hinzugefügt:
+### Um die Werte im V-Attribut des <kv>-Elements als Verweise auf die entsprechenden keys zu
+
+definieren, wird auch im Schema, im Root-Element ***<ehd>*** folgender Code hinzugefügt:
 
 . . .
 
@@ -2108,7 +2096,11 @@ Annotation
 
 **XML-Code 19: Definition von keyrefs**
 
-### Durch diese beiden Definitionen ist sichergestellt, dass in der konkreten XML-Datei in  kv_liste/kv (@V,@S,@SV) nur Werte aus keytab/key (@V,@S,@SV) vorkommen. Der  Schlüssel wird aus drei Attributen gebildet, damit eine genaue Identifikation möglich ist.
+Durch diese beiden Definitionen ist sichergestellt, dass in der konkreten XML-Datei in
+
+### kv_liste/kv (@V,@S,@SV) nur Werte aus keytab/key (@V,@S,@SV) vorkommen. Der
+
+Schlüssel wird aus drei Attributen gebildet, damit eine genaue Identifikation möglich ist.
 
 ### XPath vom Schema ist die eingeschränkte Version von XSL-XPath. Deshalb müssen bei der  Definition von key und keyref folgende Regeln beachtet werden:
 
@@ -2116,10 +2108,7 @@ Annotation
 
 ### - können verwendet werden.
 
-2. *key* und *keyref* müssen **innerhalb eines** Elements definiert werden, sonst ist die Re-
-
-### - ferenz außerhalb des Referenzierungsbereichs und der Parser meldet Fehlermeldung („... out of scope“).
-
+2. *key* und *keyref* müssen **innerhalb eines** Elements definiert werden, sonst ist die Re-ferenz außerhalb des Referenzierungsbereichs und der Parser meldet Fehlermeldung  („... out of scope“).
 3. Auf Vaterelemente kann nicht mit „..“ referenziert werden.
 4. Zusätzliche Einschränkungen mit [ .. ] dürfen nicht verwendet werden.
 
@@ -2310,15 +2299,15 @@ Zu diesem Zweck werden Typen, die auch in anderen Projekten im Gesundheitsbereic
 
 ---
 
-### Die ehd-Richtlinie ist bewusst aus Datentypen zusammengebaut, damit spezifischen ehd-Schnittstellen-Schemas für spezielle Zwecke abgeleitet und eingeschränkt werden können.
+Die ehd-Richtlinie ist bewusst aus Datentypen zusammengebaut, damit spezifischen ehd-Schnittstellen-Schemas für spezielle Zwecke abgeleitet und eingeschränkt werden können.
 
 ### 8.3.2 Wiederverwendung von Typen aus CDA und SCIPHOX
 
 ### Beim Entwurf von XML-Schnittstellen ist die weitestgehende Wiederverwendung von in CDA
 
-und SCIPHOX definierten Typen bzw. Elementen anzustreben. Dies wird durch die Einbin-
+und SCIPHOX definierten Typen bzw. Elementen anzustreben. Dies wird durch die Einbin-dung von vorhandenen Basistypen mittels ***<xs:import>, <xs:include/>*** oder ***<xs:redefine/>*** erreicht.
 
-### dung von vorhandenen Basistypen mittels <xs:import>, <xs:include/> oder <xs:redefine/> erreicht.  Ableitungen von Basistypen werden mit <xs:restriction (Einschränkung) oder <xs:extension>
+### Ableitungen von Basistypen werden mit <xs:restriction (Einschränkung) oder <xs:extension>
 
 (Erweiterung) vorgenommen. Nur mit diesen Mechanismen kann die Qualität der erstellten
 
@@ -2366,17 +2355,13 @@ anstatt
 
 </xs:simpleType>
 
-### Wenn davon auszugehen ist, dass solche Enumerationen ständigem Wandel unterliegen, so  ist besser keine Enumerationen vorzuschreiben, sonder auf Kode-Elemente mit
-
-Schlüsseltabellen auszuweichen. Dazu werden Kode-Elemente mit den Verweisen auf  Schlüsseltabellen definiert, der Änderungsauswand kann damit verringert werden. Bei
+Wenn davon auszugehen ist, dass solche Enumerationen ständigem Wandel unterliegen, so  ist besser keine Enumerationen vorzuschreiben, sonder auf Kode-Elemente mit  Schlüsseltabellen auszuweichen. Dazu werden Kode-Elemente mit den Verweisen auf  Schlüsseltabellen definiert, der Änderungsauswand kann damit verringert werden. Bei
 
 ### Änderungen werden lediglich geänderte Schlüsseltabellen veröffentlicht.
 
 ### 8.4.2 Schlüsseltabellen
 
-### Als Schlüsseltabellen sind Listen von Code-Wert-Paaren anzusehen, welche über einen län-
-
-geren Zeitraum normalerweise unverändert bleiben. Solche Schlüsseltabellen können entwe-
+Als Schlüsseltabellen sind Listen von Code-Wert-Paaren anzusehen, welche über einen län-geren Zeitraum normalerweise unverändert bleiben. Solche Schlüsseltabellen können entwe-
 
 
 ---
@@ -2430,15 +2415,13 @@ vorgenommen werden, um
 
 ### korrekte Kodierung:
 
-### besser ist, im Schema das Element mit maxOccurs zu definieren:
+besser ist, im Schema das Element mit maxOccurs zu definieren:
 
 <xs:element name="element" maxoccurs="unbounded"/>
 
-### Es besteht zwar nicht die Notwendigkeit zusätzlich ein Klammerungselement (..._liste) zu  definieren, wenn jedoch die Schnittstelleanforderungen dies erfordern, kann der Container
+Es besteht zwar nicht die Notwendigkeit zusätzlich ein Klammerungselement (..._liste) zu  definieren, wenn jedoch die Schnittstelleanforderungen dies erfordern, kann der Container  (..._liste) definiert werden. Die Verwendung sollte gut begründet sein, weil ein Container mehr  Platz in der XML-Instanz verbraucht und nicht unbedingt zu mehr Strukturierung und Lesbar-
 
-(..._liste) definiert werden. Die Verwendung sollte gut begründet sein, weil ein Container mehr
-
-### Platz in der XML-Instanz verbraucht und nicht unbedingt zu mehr Strukturierung und Lesbar-keit führt:
+### keit führt:
 
 <xs:element name="element_liste">
 
@@ -2472,7 +2455,9 @@ vorgenommen werden, um
 
 #### 8.4.3.2 Kollektionen
 
-### Als Kollektionen werden Konstrukte in XML-Dateien bezeichnet, in denen Elemente vom glei-chen Typ mehrfach vorkommen.
+Als Kollektionen werden Konstrukte in XML-Dateien bezeichnet, in denen Elemente vom glei-
+
+### chen Typ mehrfach vorkommen.
 
 ### Beispiel:
 
@@ -2492,7 +2477,9 @@ vorgenommen werden, um
 
 </stammdatei>
 
-### Diese Kollektionen können mit einem umschließenden Element versehen werden, welches  die Endung „_liste“ trägt.
+Diese Kollektionen können mit einem umschließenden Element versehen werden, welches
+
+### die Endung „_liste“ trägt.
 
 ### Beispiel:
 
@@ -2521,11 +2508,7 @@ vorgenommen werden, um
 
 ## 8.5 Aufteilung auf mehrere Dokumente
 
-Ein XML-Schema kann in mehrere Dokumente (*.xsd - Dateien) aufgeteilt werden. In diesem
-
-### Fall müssen die Teildokumente denselben Namespace-URI als Targetnamespace verwen-den. Die einzelnen Teildokumente können mittels <xs:include> zusammengefügt werden. Bei  Aufteilung in mehrere Schemata mit unterschiedlichen Namespace-URI, können diese mittels
-
-***<xs:import>*** zusammengefügt werden.
+Ein XML-Schema kann in mehrere Dokumente (*.xsd - Dateien) aufgeteilt werden. In diesem  Fall müssen die Teildokumente denselben Namespace-URI als Targetnamespace verwen-den. Die einzelnen Teildokumente können mittels ***<xs:include>*** zusammengefügt werden. Bei  Aufteilung in mehrere Schemata mit unterschiedlichen Namespace-URI, können diese mittels  ***<xs:import>*** zusammengefügt werden.
 
 ## 8.6 Namespaces
 
@@ -2533,19 +2516,19 @@ Ein XML-Schema kann in mehrere Dokumente (*.xsd - Dateien) aufgeteilt werden. In
 
 ### In allen XML-Schemata ist die Verwendung von Namespaces Pflicht.
 
-Jeder Namespace muss innerhalb der ehd-Namespacehierarchie eindeutig sein. Die bereits  verwendeten Namespaces werden im Internet veröffentlicht. Bei der Registrierung einer neu-
-
-### en ehd-Schnittstelle muss der Namespace angegeben werden.
+Jeder Namespace muss innerhalb der ehd-Namespacehierarchie eindeutig sein. Die bereits  verwendeten Namespaces werden im Internet veröffentlicht. Bei der Registrierung einer neu-en ehd-Schnittstelle muss der Namespace angegeben werden.
 
 ### 8.6.2 Aufbau der Namespacehierarchie
 
 ### Alle Namespace-URIs beginnen mit urn:ehd. Namespace-URIs werden nach dem Schema
 
-### urn:ehd/datenart/[subdatenart/]versionsnummer gebildet (z.B. urn:ehd/12345/sle/001 für  die erste Version der SLE-Schnittstelle).
+### urn:ehd/datenart/[subdatenart/]versionsnummer gebildet (z.B. urn:ehd/12345/sle/001 für
+
+die erste Version der SLE-Schnittstelle).
 
 ### 8.6.3 Präfixe
 
-### Die im XML-Schema verwendeten Namespacekurzbezeichner (Präfixe) sind frei definierbar.  Bei der Auswahl eines Präfixes für einen Namespace ist eine sinnvolle Bezeichnung zu wäh-len, die nicht länger als 6 Zeichen sein darf.
+Die im XML-Schema verwendeten Namespacekurzbezeichner (Präfixe) sind frei definierbar.  Bei der Auswahl eines Präfixes für einen Namespace ist eine sinnvolle Bezeichnung zu wäh-len, die nicht länger als 6 Zeichen sein darf.
 
 ### Beispiel :
 
@@ -2581,27 +2564,19 @@ Detaillierte Anmerkungen zum Erstellen der Bereiche Root, Header und Body:
 
 ---
 
-### Folgende Abbildung stellt die Beziehungen zwischen den xy- und ehd-Schemas dar:
+Folgende Abbildung stellt die Beziehungen zwischen den xy- und ehd-Schemas dar:
 
 **Abbildung 16 Aufteilung der Schemas für die ehd-Schnittstelle XY**
 
-### In der Abbildung sind Schemas in Grün markiert, die nicht verändert werden können (Type-
+In der Abbildung sind Schemas in Grün markiert, die nicht verändert werden können (Type-bibliotheken). Eigendefinierte Schemas sind in Cyan dargestellt. XY-Schemas, die Basis- und  ehd-Typen einschränken, sind in Gelb dargestellt.
 
-bibliotheken). Eigendefinierte Schemas sind in Cyan dargestellt. XY-Schemas, die Basis- und
-
-### ehd-Typen einschränken, sind in Gelb dargestellt.
-
-Das Schema „xy_root.xsd“ schränkt das „ehd_root.xsd“ ein. Gleichzeitig verweist/importiert  es das Schema „xy_header.xsd“ und „xy_body.xsd“. Optional kann auch das ehd-Schema  „keytabs.xsd“ importiert werden. Das schnittstellenspezifische Schema „xy_header.xsd“ ent-
-
-### hält eine Ableitung des „ehd_header_typ“ aus der importierten Bibliothek „ehd_header.xsd“.
-
-Weitere Bibliotheken z.B. von „SCIPHOX“ oder eigendefinierte Schemas können zusätzlich
+Das Schema „xy_root.xsd“ schränkt das „ehd_root.xsd“ ein. Gleichzeitig verweist/importiert  es das Schema „xy_header.xsd“ und „xy_body.xsd“. Optional kann auch das ehd-Schema  „keytabs.xsd“ importiert werden. Das schnittstellenspezifische Schema „xy_header.xsd“ ent-hält eine Ableitung des „ehd_header_typ“ aus der importierten Bibliothek „ehd_header.xsd“.  Weitere Bibliotheken z.B. von „SCIPHOX“ oder eigendefinierte Schemas können zusätzlich
 
 ### importiert werden.
 
 ### Es werden im Folgendem drei Beispiele für die Ableitungen der Bereiche Root, Header und  Body vorgestellt:
 
-### Der Code für die <xs:restriction -Ableitung des Roots sieht im xy_root.xsd wie folgt aus:
+Der Code für die <xs:restriction -Ableitung des Roots sieht im xy_root.xsd wie folgt aus:
 
 <xs:schema targetNamespace="urn:ehd/001" ...
 
@@ -2638,21 +2613,13 @@ Weitere Bibliotheken z.B. von „SCIPHOX“ oder eigendefinierte Schemas können
 
 **XML-Code 46 xy_root.xsd**
 
-### Es wird ein neuer Datentyp („xy_root _typ“) definiert, der eine Einschränkung des Basisdaten-
+Es wird ein neuer Datentyp („xy_root _typ“) definiert, der eine Einschränkung des Basisdaten-typs (hier „ehd_root_typ“) darstellt. Die Einschränkung wird mit ***<xs:restriction*** erreicht. Jetzt  können weitere Typen verwendet werden, die auch einen eingeschränkten Basisdatentyp  darstellen. Z.B. xy_header.typ und xy_body_typ.
 
-typs (hier „ehd_root_typ“) darstellt. Die Einschränkung wird mit ***<xs:restriction*** erreicht. Jetzt
+Das blockDefault-Attribut ist hier bewusst angegeben, weil Substituierung von Kindelementen  im Root-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte den einen oder  anderen Schnittstellenentwickler dazu veranlassen, diese Lücke für seine Schnittstelle aus-
 
-### können weitere Typen verwendet werden, die auch einen eingeschränkten Basisdatentyp
+### zunutzen.
 
-darstellen. Z.B. xy_header.typ und xy_body_typ.
-
-### Das blockDefault-Attribut ist hier bewusst angegeben, weil Substituierung von Kindelementen
-
-im Root-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte den einen oder
-
-### anderen Schnittstellenentwickler dazu veranlassen, diese Lücke für seine Schnittstelle aus-zunutzen.
-
-### Der Code für die <xs:restriction -Ableitung des Headers sieht im xy_header.xsd wie folgt aus:
+Der Code für die <xs:restriction -Ableitung des Headers sieht im xy_header.xsd wie folgt aus:
 
 <xs:schema targetNamespace="urn:ehd/001" ...
 
@@ -2715,21 +2682,19 @@ im Root-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte den
 
 ---
 
-### Hier wird auch neuer Datentyp („xy_header_typ“) definiert, der eine Einschränkung des Ba-
+Hier wird auch neuer Datentyp („xy_header_typ“) definiert, der eine Einschränkung des Ba-sisdatentyps (hier „ehd_header_typ“) darstellt. Die Einschränkung wird mit ***<xs:restriction>*** er-reicht. Innerhalb des Headers können weitere Elemente schnittstellenspezifisch angepasst  werden: Z.B. das Element <document_type_cd> erlaubt nur einen bestimmten Wert (z.B.  V=“SDKT“). Dazu wird ein Datentyp („xy_document_type_cd_typ“) mit Ableitung vom Basis-datentyp („document_type_cd_typ“) definiert. Nur so meldet der Parser keine Fehler und es  kann sichergestellt werden, dass der neue „xy_header_typ“ Datentyp nur eine Untermenge
 
-sisdatentyps (hier „ehd_header_typ“) darstellt. Die Einschränkung wird mit ***<xs:restriction>*** er-reicht. Innerhalb des Headers können weitere Elemente schnittstellenspezifisch angepasst  werden: Z.B. das Element <document_type_cd> erlaubt nur einen bestimmten Wert (z.B.  V=“SDKT“). Dazu wird ein Datentyp („xy_document_type_cd_typ“) mit Ableitung vom Basis-datentyp („document_type_cd_typ“) definiert. Nur so meldet der Parser keine Fehler und es
+### des Basisdatentyps „ehd_header_typ“ darstellt.
 
-### kann sichergestellt werden, dass der neue „xy_header_typ“ Datentyp nur eine Untermenge  des Basisdatentyps „ehd_header_typ“ darstellt.
+Die spezielle Einschränkung für den „xy_document_type_cd_typ“ Typ erfolgt über das V-
 
-### Die spezielle Einschränkung für den „xy_document_type_cd_typ“ Typ erfolgt über das V-Attribut mit <xs:enumeration :“SDKT“.
+### Attribut mit <xs:enumeration :“SDKT“.
 
-### Auch hier ist das blockDefault-Attribut bewusst angegeben, weil Substituierung von allen
+Auch hier ist das blockDefault-Attribut bewusst angegeben, weil Substituierung von allen  Elementen im Header-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte  den einen oder anderen Schnittstellenentwickler dazu veranlassen, diese Lücke für seine
 
-Elementen im Header-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte
+### Schnittstelle auszunutzen.
 
-### den einen oder anderen Schnittstellenentwickler dazu veranlassen, diese Lücke für seine  Schnittstelle auszunutzen.
-
-### Der Code für die <xs:restriction -Ableitung des Body sieht im xy_body.xsd wie folgt aus:
+Der Code für die <xs:restriction -Ableitung des Body sieht im xy_body.xsd wie folgt aus:
 
 <xs:complexType name="xy_body_typ
 
@@ -2759,21 +2724,11 @@ Elementen im Header-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung
 
 ### schen Elemente hinzugefügt werden.
 
-### Mit diesem Verfahren ist es dem Parser möglich komplette Schemas auf die Einhaltung der
+Mit diesem Verfahren ist es dem Parser möglich komplette Schemas auf die Einhaltung der  ehd-Kriterien zu überprüfen. Nachteil dieser Vorgehensweise ist, dass beim Headerdefinition  alle schnittstellenspezifischen Datentypen explizit von Basisdatentypen abgeleitet werden  müssen. Ein Datentyp, welcher nicht aus einem ehd-Basisdatentyp hervorgeht, wird als Feh-ler ausgewiesen. Der Schnittstellenentwickler ist damit auf die konsequente Ableitung von  Basisdatentypen angewiesen. Das neudefinierte Schema wird durch die zahlreichen Ablei-tungen schnell unübersichtlich und schwernachvollziehbar.
 
-ehd-Kriterien zu überprüfen. Nachteil dieser Vorgehensweise ist, dass beim Headerdefinition
+Auf der anderen Seite werden mögliche Fehler im Schema und die Nichteinhaltung der ehd-Kriterien sofort vom Parser erkannt. Dieses Vorgehen trägt viel zur Qualitätssicherung der  Schemas bei. Beim ersten Entwurf von eigenen Schemas wird der Parser sicherlich viele  Fehler melden, weil nicht alle Datentypen konsequent abgeleitet wurden. Aber mit der Zeit  werden alle Flüchtigkeitsfehler beseitigt und der Nutzen der automatischen Sicherstellung der
 
-### alle schnittstellenspezifischen Datentypen explizit von Basisdatentypen abgeleitet werden
-
-müssen. Ein Datentyp, welcher nicht aus einem ehd-Basisdatentyp hervorgeht, wird als Feh-ler ausgewiesen. Der Schnittstellenentwickler ist damit auf die konsequente Ableitung von  Basisdatentypen angewiesen. Das neudefinierte Schema wird durch die zahlreichen Ablei-
-
-### tungen schnell unübersichtlich und schwernachvollziehbar.
-
-### Auf der anderen Seite werden mögliche Fehler im Schema und die Nichteinhaltung der ehd-
-
-Kriterien sofort vom Parser erkannt. Dieses Vorgehen trägt viel zur Qualitätssicherung der  Schemas bei. Beim ersten Entwurf von eigenen Schemas wird der Parser sicherlich viele  Fehler melden, weil nicht alle Datentypen konsequent abgeleitet wurden. Aber mit der Zeit
-
-### werden alle Flüchtigkeitsfehler beseitigt und der Nutzen der automatischen Sicherstellung der  Schemaqualität wird die Entwicklungsschwierigkeiten überwiegen.
+### Schemaqualität wird die Entwicklungsschwierigkeiten überwiegen.
 
 **XML-Code 48 xy_body.xsd**
 

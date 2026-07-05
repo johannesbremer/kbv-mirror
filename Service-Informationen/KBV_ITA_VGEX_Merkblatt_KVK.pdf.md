@@ -886,7 +886,9 @@ Das Kommando dient zum Lesen des VersichertenDatenTemplates. Das Offset wird  fo
 
 **Command:**
 
-CLA INS P1  '00' 'BO' 'xx'
+| CLA | INS | P1 | P2 | L |
+|---|---|---|---|---|
+| '00' | | 'xx' | 'xx' | Le |
 
 ```
 READ BINARY
@@ -902,8 +904,6 @@ Als Offset ist im READ BINARY-Kommando  Adresse '0000' (= Anfangsadresse der Anw
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
-P2 L  'xx' Le
-
 ```
 Length of data to be read  ('00' = read available data  until End-of-File (EOF)  out max. up to 256 bytes)
 Offset ('0000' = Logical start  address of the file)
@@ -915,7 +915,7 @@ Offset ('0000' = Logical start  address of the file)
 Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
 ```
 
-'0000' anzugeben, d.h. es soll ab logischer
+CLA INS P1 '00' 'BO' 'xx' '0000' anzugeben, d.h. es soll ab logischer
 
 
 ---

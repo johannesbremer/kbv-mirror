@@ -35,7 +35,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 | 3.3 |  | Barcode | 7 |
 |  | 3.3.1 | Codierung | 7 |
 |  | 3.3.2 | Eigenschaften | 7 |
-| 3.4 |  | KBV-Prüfnummer | 7 |
+| 3.4 | KBV-Prü | fn um mer | 7 |
 | 3.5 |  | Stempel | 8 |
 
 **4** **ERLÄUTERUNG ZU BEGRIFFLICHKEITEN IM „ANTRAG AUF ZERTIFIZIERUNG“**
@@ -46,7 +46,7 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 **9**
 
-Antrag auf Zertifizierung
+Antrag auf Zertifizierung KBV-Prüfnummer
 
 ---
 

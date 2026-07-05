@@ -1,6 +1,6 @@
 ### TOP 20 Systeme - Radiologen
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.09.2025**
 
 **Id Praxissoftware**
 
@@ -16,23 +16,23 @@
 
 226 **CGM MEDICO**
 
+280 **CGM MEDISTAR BLACK PRO**
+
 439 **eRIS**
 
 314 **IMedOne**
 
-280 **CGM MEDISTAR BLACK PRO**
-
 216 **x.isynet**
 
-252 **CGM M1 PRO**
+487 **NEXUS RIS**
 
-417 **Centricity RIS-i**
+252 **CGM M1 PRO**
 
 385 **CLASSY RT**
 
 203 **ALBIS**
 
-487 **NEXUS RIS**
+417 **Centricity RIS-i**
 
 **Anbieter**
 
@@ -48,117 +48,117 @@ medigration GmbH
 
 CGM Clinical Europe GmbH
 
+CompuGroup Medical Deutschland AG
+
 Digithurst Bildverarbeitungssysteme GmbH & Co. KG
 
 Deutsche Telekom Clinical Solutions GmbH
 
-CompuGroup Medical Deutschland AG
-
 medatixx GmbH & Co. KG
 
-CompuGroup Medical Deutschland AG
+NEXUS / CHILI GmbH
 
-GE Healthcare Information Technologies GmbH & Co. KG
+CompuGroup Medical Deutschland AG
 
 KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
 
 CompuGroup Medical Deutschland AG
 
-NEXUS / CHILI GmbH 1
+GE Healthcare Information Technologies GmbH & Co. KG 1
 
-**Installationen 2.Q.2025**
+**Installationen 3.Q.2025**
 
-216
-
-185
-
-81
-
-80
-
-58
-
-47
-
-43
-
-41
-
-40
-
-36
-
-28
-
-28
-
-27
-
-26
-
-24
-
-**Installationen 1.Q.2025 Differenz**
-
-208
-
-8
+217
 
 186
 
--1
+83
+
+81
+
+59
+
+45
+
+42
+
+42
+
+39
+
+34
+
+33
+
+30
+
+28
+
+25
+
+21
+
+**Installationen 2.Q.2025 Differenz**
+
+216
+
+1
+
+185
+
+1
+
+81
+
+2
 
 80
 
 1
 
-78
-
-2
-
 58
-
-0
-
-46
 
 1
 
-44
-
--1
-
-42
-
--1
-
-44
-
--4
-
-37
-
--1
-
-30
+47
 
 -2
 
-31
+40
 
--3
+2
+
+43
+
+-1
+
+41
+
+-2
+
+36
+
+-2
 
 24
 
-3
+9
 
 28
 
--2
+2
 
-25
+27
+
+1
+
+26
 
 -1
+
+28
+
+-7
 
 
 ---
@@ -169,11 +169,11 @@ NEXUS / CHILI GmbH 1
 
 637 **Xplore RIS**
 
-447 **CARW**
-
 210 **Medical Office**
 
-062 **EVA**
+243 **x.concept**
+
+447 **CARW**
 
 **Anbieter**
 
@@ -181,42 +181,42 @@ CompuGroup Medical Deutschland AG
 
 EDL Software Deutschland GmbH
 
-EDL Software Deutschland GmbH
-
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-Abasoft EDV-Programme GmbH 2
+medatixx GmbH & Co. KG
 
-**Installationen 2.Q.2025**
+EDL Software Deutschland GmbH 2
 
-22
+**Installationen 3.Q.2025**
 
-17
+20
 
-17
+19
 
 16
 
 15
 
-**Installationen 1.Q.2025 Differenz**
+14
 
-24
+**Installationen 2.Q.2025 Differenz**
+
+22
 
 -2
 
 17
 
+2
+
+16
+
 0
+
+14
+
+1
 
 17
 
-0
-
-16
-
-0
-
-16
-
--1
+-3

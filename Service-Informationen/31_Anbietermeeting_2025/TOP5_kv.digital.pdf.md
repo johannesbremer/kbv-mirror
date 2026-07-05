@@ -81,14 +81,9 @@ z.B. „Terminbuchung  aus dem PVS“
 
 (1)
 
-- Abfrage von Abrechnungsinformationen durch das PVS zu einem
-
-# - über den 116117 Terminservice vermittelten Termin
-
+- Abfrage von Abrechnungsinformationen durch das PVS zu einem  über den 116117 Terminservice vermittelten Termin
 - Spezifikation veröffentlicht
-- Hersteller, die ihren Kunden die Schnittstelle anbieten wollen, müssen
-
-# - bis 30.09.2025 die Zertifizierung bei der KBV erfolgreich durchlaufen
+- Hersteller, die ihren Kunden die Schnittstelle anbieten wollen, müssen  bis 30.09.2025 die Zertifizierung bei der KBV erfolgreich durchlaufen
 
 # - haben.
 
@@ -126,7 +121,9 @@ z.B. „Terminbuchung  aus dem PVS“
 
 V) hat die Kassenärztliche
 
-# Bundesvereinigung die erforderlichen technischen  Festlegungen zu treffen, damit nach 75 Absatz 1a  zu vermittelnde Termine von den Vertragsärzten  unter Verwendung von informationstechnischen  Systemen in der vertragsärztlichen Versorgung an  die Terminservicestellen übermittelt werden können.
+Bundesvereinigung die erforderlichen technischen  Festlegungen zu treffen, damit nach 75 Absatz 1a  zu vermittelnde Termine von den Vertragsärzten  unter Verwendung von informationstechnischen  Systemen in der vertragsärztlichen Versorgung an
+
+die Terminservicestellen übermittelt werden können.
 
 (3)
 
@@ -278,9 +275,7 @@ Funktion)
 
 ---
 
-- Alle Informationen zu den Schnittstellen und zur Beantragung von
-
-## - Zugangsdaten für Tests haben wir in unserem Partnerportal unter folgendem
+- Alle Informationen zu den Schnittstellen und zur Beantragung von  Zugangsdaten für Tests haben wir in unserem Partnerportal unter folgendem
 
 ## - Link zusammengestellt:
 
@@ -305,7 +300,7 @@ Funktion)
 
 V) ist die Kassenärztliche
 
-# Bundesvereinigung verpflichtet, die Nutzung der in  ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis  international anerkannter Standards  veröffentlichen.
+Bundesvereinigung verpflichtet, die Nutzung der in  ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis  international anerkannter Standards  veröffentlichen.
 
 
 ---
@@ -338,7 +333,7 @@ V) ist die Kassenärztliche
 
 # Testmöglichkeit für Praxen
 
-# Weitere Infos unter: [https://www.kv.digital/medizini](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html) [sche](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html) [kommunikation/test](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html) [earztbrief.html](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html)
+Weitere Infos unter: [https://www.kv.digital/medizini](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html) [sche](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html) [kommunikation/test](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html) [earztbrief.html](https://www.kv.digital/medizinische-kommunikation/test-earztbrief.html)
 
 
 ---
@@ -357,7 +352,10 @@ Veröffentlichungen unter: [https://partnerportal.kv](https://partnerportal.kv-t
 
 ---
 
-# Testmöglichkeiten in der Referenzumgebung der Telematikinfrastruktur
+# Testmöglichkeiten
+
+**in der Referenzumgebung der Telematikinfrastruktur**
+
 Befund
 
 Auftrag
@@ -369,7 +367,10 @@ Veröffentlichung der Adressen unter: [https://partnerportal.kv](https://partner
 
 ---
 
-# Auditangebote der kv.digital für die SoftwareHersteller
+# Auditangebote
+
+**der kv.digital für die SoftwareHersteller**
+
 Befund
 
 Auftrag
@@ -605,9 +606,7 @@ Hersteller 10 (233 Nutzer) 0
 ## Betroffene Anwendungen
 
 - Spezifikationen seit 2023 durch die kv.digital veröffentlicht
-- Umstellung von eHKS, QSPB und eDokumentation
-
-## - bis spätestens 30.09.2025 durch KBV/KVen sowie
+- Umstellung von eHKS, QSPB und eDokumentation bis spätestens 30.09.2025 durch KBV/KVen sowie
 
 ## - Softwarehersteller
 

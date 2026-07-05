@@ -22,9 +22,9 @@
 
 **64 Teil A**
 
-#### Vorsorge für Mütter oder Väter gemäß § 24 SGB V
+#### Vorsorge für Mütter oder Väter
 
-**Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
+**gemäß § 24 SGB V** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
 
 **II. Vorsorgebedürftigkeit**
 **A. Kurze Angaben zur Anamnese**

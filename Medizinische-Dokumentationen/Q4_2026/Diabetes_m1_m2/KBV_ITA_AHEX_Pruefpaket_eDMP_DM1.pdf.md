@@ -18,36 +18,65 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 INHALT
 
-| 1 ALLGEMEINES | 6 |
-|---|---|
-| 1.1 Rechtsgrundlage | 6 |
-| 1.2 Zertifizierungsablauf | 6 |
-| 1.3 Zertifizierungsportal | 7 |
-| 1.4 Zertifizierungsdokumente | 7 |
-| 1.5 Prüfunterlagen | 7 |
-| 1.6 Prüfvorgaben | 9 |
-| 1.6.1 Schnittstellenversionen | 9 |
-| 1.6.2 Datumseingaben | 9 |
-| 1.6.3 Prüfstammdaten | 9 |
-| 1.6.4 Versichertendaten | 10 |
-| 1.6.5 Praxisdaten/ Arztstempel | 10 |
-| 1.6.6 Krankenhausdaten | 10 |
-| 1.6.7 Prüfnummer | 11 |
-| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 11 |
-| 1.6.9 Auflistung der Prüffälle | 11 |
+| 1 | ALLGEMEINES | 6 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 6 |
+| 1.2 | Zertifizierungsablauf | 6 |
+| 1.3 | Zertifizierungsportal | 7 |
+| 1.4 | Zertifizierungsdokumente | 7 |
+| 1.5 Prü fu | nte rla gen | 7 |
+| 1.6 Prü | fvorgaben | 9 |
+| 1.6.1 | Schnittstellenversionen | 9 |
+| 1.6.2 | Datumseingaben | 9 |
+| 1.6.3 | Prü fstam mdate n | 9 |
+| 1.6.4 | Versichertendaten | 10 |
+| 1.6.5 | Praxisdaten/ Arztstempel | 10 |
+| 1.6.6 | Krankenhausdaten | 10 |
+| 1.6.7 | Prü fn um mer | 11 |
+| 1.6.8 | Stammdatei der Datenannahmestellen (SDDA) | 11 |
+| 1.6.9 | Auflistung der Prü ffä lle | 11 |
 
-| 2 | PRÜFFÄLLE |  | 12 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 12 |
-| 2.1.1 |  | Prüffall 5512 | 12 |
-| 2.1.2 |  | Prüffall 5517 | 15 |
-| 2.1.3 |  | Prüffall 6520 | 18 |
-| 2.2 Prüffall |  | Systemreaktion | 23 |
-| 2.2.1 |  | Prüffall 5514 | 23 |
-| 2.2.2 |  | Prüffall 5515 | 28 |
-| 2.3 | Weitere | Prüffälle zum Anforderungskatalog | 29 |
-| 2.3.1 |  | Prüffall 5530 | 29 |
-| 2.3.2 |  | Prüffall 5540 | 31 |
+**2** **PRÜFFÄLLE**
+
+**12**
+
+2.1 Prüffälle Dokumentation
+
+12
+
+2.1.1 Prüffall 5512
+
+12
+
+2.1.2 Prüffall 5517
+
+15
+
+2.1.3 Prüffall 6520
+
+18
+
+2.2 Prüffall Systemreaktion
+
+23
+
+2.2.1 Prüffall 5514
+
+23
+
+2.2.2 Prüffall 5515
+
+28
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 29
+
+2.3.1 Prüffall 5530
+
+29
+
+2.3.2 Prüffall 5540
+
+31
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -66,20 +95,29 @@ INHALT
 
 **38**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall Systemreaktion Weitere Prüffälle zum Anforderungskatalog Versichertendaten 1 – Ersatzverfahren Versichertendaten 2 – Ersatzverfahren 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Auflistung der Prüffälle Versichertendaten 1 – Ersatzverfahren Versichertendaten 2 – Ersatzverfahren 
 
 
 ---
 
-# ABBILDUNGSVERZEICHNIS
+|  |  | ABBILDUNGSVERZEICHNIS |  |
+|---|---|---|---|
+| Abbildung | 1: | Exemplarische Verzeichnisstruktur | fü r d ie Z ertifiz ie ru ng |
+| Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prü fu nte rla gen |
+| Abbildung | 3: | Testdatenvalidierung |  |
+| Abbildung | 4: | Exemplarische Verzeichnisstruktur | für die Testdatenvalidierung ohne Prüffall TDV5518 |
+| Seite 3 | von 39 / KBV / | Pruefpaket eDMP-DM1 / | Version: 1.24 / 31. Mä rz 2 026 |
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8
+8
 
-Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
+8
 
-Abbildung 3: Testdatenvalidierung 32
+32
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV5518 32
+32
+
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV5518
+
 
 ---
 
@@ -1319,14 +1357,10 @@ und Georg-von-Groscurth-Plaetzchen
 
 ---
 
-| Ansprechpartner: |  |
-|---|---|
-| Dezernat | Digitalisierung und IT |
-| IT in der | Arztpraxis |
-| Tel.: 030 | 4005-2077, pruefstelle@kbv.de |
-| Kassenärztliche | Bundesvereinigung |
-| Herbert-Lewin-Platz | 2, 10623 Berlin |
-| pruefstelle@kbv.de, | www.kbv.de |
-| Seite 39 von | 39 / KBV / Pruefpaket eDMP-DM1 / Version: 1.24 / 31. März 2026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -16,17 +16,17 @@
 
 226 **CGM MEDICO**
 
+457 **tomedo**
+
 112 **TURBOMED**
 
 210 **Medical Office**
 
 314 **IMedOne**
 
-457 **tomedo**
+462 **medatixx**
 
 243 **x.concept**
-
-462 **medatixx**
 
 203 **ALBIS**
 
@@ -34,25 +34,25 @@
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
-Dedalus HealthCare GmbH 592
+Dedalus HealthCare GmbH 583
 
-581
-
-11
-
-CompuGroup Medical Deutschland AG 273
-
-282
+592
 
 -9
 
+CompuGroup Medical Deutschland AG 269
+
+273
+
+-4
+
 medatixx GmbH & Co. KG 252
 
-259
+252
 
--7
+0
 
 SAP SE 192
 
@@ -60,55 +60,55 @@ SAP SE 192
 
 0
 
-CGM Clinical Europe GmbH 175
+CGM Clinical Europe GmbH 173
 
-176
+175
+
+-2
+
+Zollsoft GmbH 155
+
+138
+
+17
+
+CompuGroup Medical Deutschland AG 149
+
+160
+
+-11
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 138 145
+
+-7
+
+Deutsche Telekom Clinical Solutions GmbH 137 138
 
 -1
 
-CompuGroup Medical Deutschland AG 160
+medatixx GmbH & Co. KG 110
 
-168
+104
 
--8
+6
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 145 135
+medatixx GmbH & Co. KG 106
 
-10
+108
 
-Deutsche Telekom Clinical Solutions GmbH 138 141
-
--3
-
-Zollsoft GmbH 138
-
-131
-
-7
-
-medatixx GmbH & Co. KG 108
-
-114
-
--6
-
-medatixx GmbH & Co. KG 104
-
-100
-
-4
+-2
 
 CompuGroup Medical Deutschland AG 97
 
-103
+97
 
--6
+0
 
-CompuGroup Medical Deutschland AG 90
+CompuGroup Medical Deutschland AG 89
 
 90
 
-0
+-1
 
 1
 
@@ -119,62 +119,62 @@ CompuGroup Medical Deutschland AG 90
 
 **Anbieter**
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
 
 208 **NEXUS / KIS**
 
-NEXUS AG 61
+NEXUS AG 58
 
-56
+61
 
-5
+-3
 
 498 **T2med**
 
-T2med GmbH & Co. KG 52
+T2med GmbH & Co. KG 54
 
-48
+52
 
-4
+2
 
 422 **ClinicCentre Billing (OPD)**
 
-Mesalvo Mannheim GmbH 46
+Mesalvo Mannheim GmbH 43
 
 46
 
-0
+-3
 
 290 **M-KIS**
 
-Meierhofer AG 35
+Meierhofer AG 38
 
-36
+35
 
--1
+3
 
 244 **QUINCY WIN**
 
-Frey ADV GmbH 33
+Frey ADV GmbH 32
 
 33
 
-0
+-1
 
 086 **DURIA**
 
-Duria eG 33
+Duria eG 32
 
-32
+33
 
-1
+-1
 
 135 **EL - Elaphe Longissima**
 
-medatixx GmbH & Co. KG 29
+medatixx GmbH & Co. KG 25
 
-31
+29
 
--2
+-4
 
 2

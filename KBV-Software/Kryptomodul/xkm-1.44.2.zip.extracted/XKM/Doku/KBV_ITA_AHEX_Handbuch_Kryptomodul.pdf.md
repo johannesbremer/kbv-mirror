@@ -365,25 +365,19 @@ lich_Testschluessel_V01.pub lich_Testschluessel_V02.pub wird unterstützt wird u
 
 ### Der Dateifilter des Modus ‚Verschluesselung’ übernimmt als
 
-mens (Platzhalter ’*’) und hängt nach erfolgter Verschlüsselung das Suffix ‚.XKM’ an. Bei der
+mens (Platzhalter ’*’) und hängt nach erfolgter Verschlüsselung das Suffix ‚.XKM’ an. Bei der  Entschlüsselung wird das angehängte Suffix wieder entfernt, so dass der ursprüngliche Datei-
 
-### Entschlüsselung wird das angehängte Suffix wieder entfernt, so dass der ursprüngliche Datei-name wiederhergestellt wird.
+### name wiederhergestellt wird.
 
-### Bei der ‚DMP_Verschluesselung’ werden dagegen nur Dateien mit der Endung ‚.zip’ akzep-
-
-tiert, die dann in Dateien mit der Endung ‚.zip.XKM’ umgewandelt werden. Bei der
+Bei der ‚DMP_Verschluesselung’ werden dagegen nur Dateien mit der Endung ‚.zip’ akzep-tiert, die dann in Dateien mit der Endung ‚.zip.XKM’ umgewandelt werden. Bei der
 
 ### ‚DMP_Entschluesselung’ wird der ursprüngliche Dateiname wiederhergestellt.
 
 ### Dito für die anderen Arbeitsmodi.
 
-### Input eine Datei beliebigen Na-
+Input eine Datei beliebigen Na-
 
-### Ab XKM Version 1.14 gibt es die Möglichkeit, bei Entschlüsselungen in vordefinierten Ar-
-
-beitsmodi mit mehreren Schlüsseln zu arbeiten. Hierzu können im gewünschten Arbeitsmodus  einfach weitere Schlüssel benannt werden. Das XKM geht die Liste der spezifizierten Schlüs-
-
-### sel durch, bis eine erfolgreiche Entschlüsselung möglich ist:
+Ab XKM Version 1.14 gibt es die Möglichkeit, bei Entschlüsselungen in vordefinierten Ar-beitsmodi mit mehreren Schlüsseln zu arbeiten. Hierzu können im gewünschten Arbeitsmodus  einfach weitere Schlüssel benannt werden. Das XKM geht die Liste der spezifizierten Schlüs-sel durch, bis eine erfolgreiche Entschlüsselung möglich ist:
 
 <arbeitsmodus>
 
@@ -409,7 +403,9 @@ beitsmodi mit mehreren Schlüsseln zu arbeiten. Hierzu können im gewünschten A
 
 ### 3.2.2 Benutzerdefinierte Arbeitsmodi
 
-### Benutzerdefinierte Arbeitsmodi werden in der XML-Datei  spielhafter Inhalt für je einen Verschlüsselungs
+### Benutzerdefinierte Arbeitsmodi werden in der XML-Datei
+
+spielhafter Inhalt für je einen Verschlüsselungs
 
 <arbeitsmodi>
 
@@ -443,7 +439,9 @@ beitsmodi mit mehreren Schlüsseln zu arbeiten. Hierzu können im gewünschten A
 
 ## 3.3 Die Konfigurationsdatei
 
-### Die Steuerung des XKMs erfolgt mit Hilfe einer Konfigurationsdatei, die defaultmäßig  fig/config.xml heißt. Eine Konfigurationsdatei mit diversen Vorbelegungen befindet sich nach  der Installation im Unterverzeichnis ’Konfig’.
+### Die Steuerung des XKMs erfolgt mit Hilfe einer Konfigurationsdatei, die defaultmäßig  fig/config.xml heißt. Eine Konfigurationsdatei mit diversen Vorbelegungen befindet sich nach
+
+der Installation im Unterverzeichnis ’Konfig’.
 
 ### Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem
 
@@ -483,7 +481,7 @@ angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestel
 
 </Konfiguration>
 
-### Kon-
+*Kon-*
 
 
 ---
@@ -649,16 +647,7 @@ Sollte die Möglichkeit zur Optionsverwaltung aus Sicherheitsgründen nicht erw�
 
 ## 3.7 Arbeiten mit Wechselmedien (CD, ...)
 
-Das XKM unterstützt den Einsatz von Wechselmedien beispielsweise CD´s. Zudem kann aber  auch jedes andere Wechselmedium in den Arbeitsablauf integriert werden. Hierzu müssen die  Konfigurationsschalter *Paketgroesse*
-
-|  | (CD, | ...) |
-|---|---|---|
-|  | Wechselmedien | |
-| den | Arbeitsablauf | |
-| sowie | *Quelle* | bzw. |
-|  | *Konfigurationsschalter)* | |
-
-geeignet belegt wer-den. (Siehe hierzu auch das Kapitel
+Das XKM unterstützt den Einsatz von Wechselmedien beispielsweise CD´s. Zudem kann aber  auch jedes andere Wechselmedium in den Arbeitsablauf integriert werden. Hierzu müssen die  Konfigurationsschalter *Paketgroesse* sowie *Quelle* bzw. *Verschluesselt* geeignet belegt wer-den. (Siehe hierzu auch das Kapitel *Konfigurationsschalter*
 
 ### 3.7.1 Notwendige Schritte zur Integration eines Wechselmediums
 
@@ -675,7 +664,6 @@ Bei gesplitteten Paketen wird zusätzlich zu der Endung *.XKM* noch ein dreistel
 
 Der Schalter Quelle/*Verschluesselt* gibt das Verzeichnis an, wo das XKM die verschlüsselten  Daten laden und sichern kann.
 
-Verschluesselt
 
 ---
 
@@ -916,9 +904,7 @@ Hierbei ist zu beachten, dass das „System“ -Verzeichnis erst nach einem erst
 
 ## 7.4 Starten des XKM aus einem Java-Programm heraus
 
-### Das XKM ist eine Java -Applikation und kann von einem anderen Java -Programm aufgerufen
-
-werden. Für eine leichtere Anbindung wurde die Klasse de.kbv.xkm.extern.XKMEinstieg im-plementiert. Diese Klasse ist im Java-Archiv XKM.jar enthalten, und liegt als Source im Do-kumentationsverzeichnis vor. Das Setzen und Auslesen der Programmschalter erfolgt hier  über entsprechende get/set-Methoden. Anbei ein beispielhafter Aufruf des XKMs über die
+Das XKM ist eine Java -Applikation und kann von einem anderen Java -Programm aufgerufen  werden. Für eine leichtere Anbindung wurde die Klasse de.kbv.xkm.extern.XKMEinstieg im-plementiert. Diese Klasse ist im Java-Archiv XKM.jar enthalten, und liegt als Source im Do-kumentationsverzeichnis vor. Das Setzen und Auslesen der Programmschalter erfolgt hier  über entsprechende get/set-Methoden. Anbei ein beispielhafter Aufruf des XKMs über die
 
 ### Klasse XKMEinstieg:
 
@@ -970,9 +956,8 @@ a. Neu generierte Schlüssel über die Hilfsprogramme  und *ErzeugeGUIBenutzersc
 - („Schlüs-
 - *ErzeugeBenutzerschluessel*
 
-```
 -
-```
+
 
 ---
 
@@ -1020,8 +1005,6 @@ Hinweise:
 
 # Header
 
-```
 -
-```
 
 triebstättenummer (BSNR) BSNR:’ + Arztnummer bzw. BSNR (Optional) im Format dd.mm.yyyy hh:mm:ss y = Pakete insgesamt XKM verschlüsselte Datei XKM 1.08) ‚TEST’ Verwendung (ab XKM 1.08) Testschlüsselung-

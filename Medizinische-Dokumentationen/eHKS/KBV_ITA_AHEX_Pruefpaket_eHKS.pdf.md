@@ -7,7 +7,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  30. MAI 2025   VERSION: 3.03   DOKUMENTENSTATUS: IN** |
 |---|---|
 
-# PRUEFPAKET HAUTKREBS-SCREENING
+**PRUEFPAKET HAUTKREBS-SCREENING**
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EHKS]
 
@@ -24,22 +24,22 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben | 7 |
-|  | 1.6.1 Prüfstammdaten | 7 |
+| 1.5 | Prü fu nte rla gen | 6 |
+| 1.6 | Prü fvorgaben | 7 |
+|  | 1.6.1 Prü fstam mdate n | 7 |
 |  | 1.6.2 Versichertendaten | 8 |
 |  | 1.6.3 Praxisdaten/ Arztstempel | 8 |
-|  | 1.6.4 Auflistung der Prüffälle | 9 |
+|  | 1.6.4 Auflistung der Prü ffä lle | 9 |
 
-| 2 |  | PRÜFFÄLLE | 10 |
+| 2 | PRÜ | FFÄ LLE | 10 |
 |---|---|---|---|
-| 2.1 | Prüffall | 8001 | 10 |
-| 2.2 | Prüffall | 8002 | 11 |
-| 2.3 | Prüffall | 8003 | 12 |
-| 2.4 | Prüffall | 8004 | 14 |
-| 2.5 | Prüffall | 8005 | 16 |
-| 2.6 | Prüffall | 8006 | 20 |
-| 2.7 |  | Konditionaler Prüffall 8007 | 21 |
+| 2.1 | Prü | ffa ll 8 001 | 10 |
+| 2.2 | Prü | ffa ll 8 002 | 11 |
+| 2.3 | Prü | ffa ll 8 003 | 12 |
+| 2.4 | Prü | ffa ll 8 004 | 14 |
+| 2.5 | Prü | ffa ll 8 005 | 16 |
+| 2.6 | Prü | ffa ll 8 006 | 20 |
+| 2.7 |  | Konditionaler Prü ffa ll 8 007 | 21 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -55,7 +55,7 @@ INHALT
 
 **27**
 
-Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Konditionaler Prüffall 8007 Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
 
 
 ---
@@ -556,9 +556,7 @@ Die Versichertendaten von Dr. Guido Tils (
 
 **Konstellation 1:**
 
-```
 -
-```
 
 Anhang 4.2) im Ersatzverfahren erfassen und speichern.
 

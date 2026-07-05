@@ -2,7 +2,7 @@
 
 ## zum indikationsspezifischen Datensatz
 
-## für das strukturierte Behandlungsprogramm chronische Herzinsuffizienz
+für das strukturierte Behandlungsprogramm chronische Herzinsuffizienz
 Stand der letzten Bearbeitung: 11-10-2024
 
 Version 2.0
@@ -10,7 +10,7 @@ Version 2.0
 
 ---
 
-## Anamnese- und Befunddaten
+**Anamnese- und Befunddaten**
 
 #### Serum-Elektrolyte und eGFR in den letzten sechs
 
@@ -40,7 +40,9 @@ Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeit
 
 ## Relevante Ereignisse
 
-#### Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumenta- tion
+**Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumenta-**
+
+#### tion
 
 Eine Angabe zu diesem Feld ist nur im Rahmen einer
 

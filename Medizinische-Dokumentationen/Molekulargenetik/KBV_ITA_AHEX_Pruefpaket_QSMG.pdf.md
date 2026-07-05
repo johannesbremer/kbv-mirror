@@ -7,7 +7,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  27. JANUAR 2022   VERSION: 1.13   DOKUMENTENSTATUS: IN** |
 |---|---|
 
-# PRUEFPAKET QS-MOLEKULARGENETIK
+**PRUEFPAKET QS-MOLEKULARGENETIK**
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSMG]
 
@@ -24,17 +24,17 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben | 7 |
-|  | 1.6.1 Prüfstammdaten | 7 |
+| 1.5 | Prü fu nte rla gen | 6 |
+| 1.6 | Prü fvorgaben | 7 |
+|  | 1.6.1 Prü fstam mdate n | 7 |
 |  | 1.6.2 Praxisdaten/ Arztstempel | 8 |
 
-| 2 |  | PRÜFFÄLLE | 9 |
+| 2 | PRÜ | FFÄ LLE | 9 |
 |---|---|---|---|
-| 2.1 | Prüffall | 1 | 9 |
-| 2.2 | Prüffall | 2 | 15 |
-| 2.3 | Prüffall | 3 | 19 |
-| 2.4 | Prüffall | 4 | 21 |
+| 2.1 | Prü | ffa ll 1 | 9 |
+| 2.2 | Prü | ffa ll 2 | 15 |
+| 2.3 | Prü | ffa ll 3 | 19 |
+| 2.4 | Prü | ffa ll 4 | 21 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -50,7 +50,7 @@ INHALT
 
 **27**
 
-Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4 
 
 
 ---
@@ -443,7 +443,7 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 |  |  | **davon nicht beurteilbare** | keine Angabe |
 
 - Anhang 4.1 (Videomitschnitt, in dem auch
-1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik 0.06.2018  NEN EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde - lerhaften / unvollständigen Daten trotzdem zu
+1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik 0.06.2018  NEN EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde   - lerhaften / unvollständigen Daten trotzdem zu
 
 
 ---

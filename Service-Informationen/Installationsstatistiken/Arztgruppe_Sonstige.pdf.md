@@ -1,6 +1,6 @@
 ### TOP 20 Systeme - Sonstige Ärzte
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.06.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.09.2025**
 
 **Id Praxissoftware**
 
@@ -22,13 +22,13 @@
 
 314 **IMedOne**
 
-456 **RED medical classic**
-
 462 **medatixx**
 
-086 **DURIA**
+456 **RED medical classic**
 
 320 **DISweb**
+
+086 **DURIA**
 
 308 **RescuePro**
 
@@ -52,65 +52,65 @@ medatixx GmbH & Co. KG
 
 Deutsche Telekom Clinical Solutions GmbH
 
-RED Medical Systems GmbH
-
 medatixx GmbH & Co. KG
 
-Duria eG
+RED Medical Systems GmbH
 
 KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
 
+Duria eG
+
 RescuePro Production GmbH & Co. KG 1
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
+**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+
+663
 
 690
 
-664
+-27
 
-26
+639
 
 643
 
-642
+-4
 
-1
+451
 
 483
 
-481
+-32
 
-2
+427
 
 425
 
-406
+2
 
-19
+262
 
 264
 
-263
+-2
 
-1
+233
 
 237
 
-231
+-4
 
-6
+158
 
 175
 
-169
+-17
 
-6
+153
 
 154
 
-157
-
--3
+-1
 
 151
 
@@ -118,35 +118,35 @@ RescuePro Production GmbH & Co. KG 1
 
 0
 
-128
-
-126
-
-2
+127
 
 117
 
-119
+10
 
--2
+122
 
-95
+128
 
-97
+-6
 
--2
+96
 
 93
 
+3
+
 94
+
+95
 
 -1
 
+91
+
 90
 
-85
-
-5
+1
 
 
 ---
@@ -159,11 +159,11 @@ RescuePro Production GmbH & Co. KG 1
 
 290 **M-KIS**
 
-243 **x.concept**
-
 112 **TURBOMED**
 
-252 **CGM M1 PRO**
+243 **x.concept**
+
+034 **medibit**
 
 **Anbieter**
 
@@ -173,48 +173,50 @@ Zollsoft GmbH
 
 Meierhofer AG
 
-medatixx GmbH & Co. KG
-
 CompuGroup Medical Deutschland AG
 
-CompuGroup Medical Deutschland AG 2
+medatixx GmbH & Co. KG
 
-**Installationen 2.Q.2025**
+Examion GmbH
 
-82
+**Installationen 3.Q.2025**
 
-72
-
-69
-
-60
-
-59
-
-53
-
-**Installationen 1.Q.2025 Differenz**
-
-79
-
-3
-
-66
-
-6
+80
 
 71
 
--2
+71
 
-64
+56
 
--4
-
-64
-
--5
+55
 
 52
 
-1
+2
+
+**Installationen 2.Q.2025 Differenz**
+
+82
+
+-2
+
+72
+
+-1
+
+69
+
+2
+
+59
+
+-3
+
+60
+
+-5
+
+48
+
+4

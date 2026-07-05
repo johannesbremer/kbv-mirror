@@ -22,7 +22,7 @@ zu Lasten der GKV
 
 **I. Rehabilitationsbegründende und weitere Diagnosen**
 
-### II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung
+II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung
 
 Diagnoseschlüssel
 

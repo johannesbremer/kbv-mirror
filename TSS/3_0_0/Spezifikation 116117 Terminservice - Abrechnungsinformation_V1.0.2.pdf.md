@@ -1,4 +1,6 @@
-# SPEZIFIKATION 116117 TERMINSERVICE -  ABRECHNUNGSINFORMATION
+**SPEZIFIKATION 116117 TERMINSERVICE -**
+
+# ABRECHNUNGSINFORMATION
 
 **Kassenärztliche Bundesvereinigung**
 
@@ -9,18 +11,15 @@ Herbert-Lewin-Platz 2 10623 Berlin
 
 ---
 
-**Inhalt**
+| Inhalt |  |
+|---|---|
+| **1 AN** | **FORDERUNGEN AN D IE SOFTW ARE -SYSTEM E DER LE ISTUNGSERBR INGER ............4** |
+| **2 VERB INDL** | **ICHKE IT VON AN FORDERUNGEN ..................................................................5** |
+| **3** | **VORAUSSETZUNGEN ....................................................................................................6** |
+| **4 AN** | **FORDERUNGEN AN DEN ABRUF VON ABRECHNUNGS IN FORM AT IONEN ..................7** |
+| **5 REFERENZEN** | **..............................................................................................................10** |
 
-**1 ANFORDERUNGEN AN DIE SOFTWARE-SYSTEME DER LEISTUNGSERBRINGER ............4**
-
-**2 VERBINDLICHKEIT VON ANFORDERUNGEN ..................................................................5**
-
-**3 VORAUSSETZUNGEN....................................................................................................6**
-
-**4 ANFORDERUNGEN AN DEN ABRUF VON ABRECHNUNGSINFORMATIONEN ..................7**
-
-**5 REFERENZEN ..............................................................................................................10**
-
+1 ANFORDERUNGEN AN DIE SOFTWARE-SYSTEME DER LEISTUNGSERBRINGER ............4 2 VERBINDLICHKEIT VON ANFORDERUNGEN ..................................................................5 3 VORAUSSETZUNGEN....................................................................................................6 4 ANFORDERUNGEN AN DEN ABRUF VON ABRECHNUNGSINFORMATIONEN ..................7 5 REFERENZEN ..............................................................................................................10
 
 ---
 
@@ -93,10 +92,10 @@ Seite 5 von 10 / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformati
 
 ---
 
-| 3 | VORAUSSETZUNGEN | |  |
-|---|---|---|---|
-| Für die | Nutzung die | Schnittstelle wird | die Authentisierung gemäß [TSS_Auth] vorausgesetzt. |
-| Seite 6 von | 10 / KBV / Spezifikation | 116117 | Terminservice - Abrechnungsinformation |
+| 3 | VORAUSSETZUNGEN | |
+|---|---|---|
+| Für die | Nutzung die | Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt. |
+| Seite 6 von | 10 / KBV / Spezifikation | 116117 Terminservice - Abrechnungsinformation |
 
 3 VORAUSSETZUNGEN Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.  / KBV / Spezifikation 116117 Terminservice - Abrechnungsinformation
 

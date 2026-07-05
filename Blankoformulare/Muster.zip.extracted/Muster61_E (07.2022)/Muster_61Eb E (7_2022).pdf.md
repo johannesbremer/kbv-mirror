@@ -2,7 +2,7 @@
 
 **61 Teil E**
 
-### VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten
+VIII. Inhalt der abgegebenen Einwilligungserklärungen und Angaben der/des Versicherten
 
 Datum
 

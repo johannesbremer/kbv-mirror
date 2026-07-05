@@ -18,42 +18,79 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS**-OSTEOPOROSE**
 
 INHALT
 
-| ALLGEMEINES | 5 |
-|---|---|
-| 1.1 Rechtsgrundlage | 5 |
-| 1.2 Zertifizierungsablauf | 5 |
-| 1.3 Zertifizierungsportal | 6 |
-| 1.4 Zertifizierungsdokumente | 6 |
-| 1.5 Prüfunterlagen | 6 |
-| 1.6 Prüfvorgaben | 8 |
-| 1.6.1 Schnittstellenversionen | 8 |
-| 1.6.2 Datumseingaben | 8 |
-| 1.6.3 Prüfstammdaten | 8 |
-| 1.6.4 Versichertendaten | 8 |
-| 1.6.5 Praxisdaten/ Arztstempel | 9 |
-| 1.6.6 Krankenhausdaten | 10 |
-| 1.6.7 Prüfnummer | 10 |
-| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 10 |
-| 1.6.9 Auflistung der Prüffälle | 11 |
+| ALLGEMEINES |  | 5 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 5 |
+| 1.2 | Zertifizierungsablauf | 5 |
+| 1.3 | Zertifizierungsportal | 6 |
+| 1.4 | Zertifizierungsdokumente | 6 |
+| 1.5 Prü fu | nte rla gen | 6 |
+| 1.6 Prü | fvorgaben | 8 |
+| 1.6.1 | Schnittstellenversionen | 8 |
+| 1.6.2 | Datumseingaben | 8 |
+| 1.6.3 | Prü fstam mdate n | 8 |
+| 1.6.4 | Versichertendaten | 8 |
+| 1.6.5 | Praxisdaten/ Arztstempel | 9 |
+| 1.6.6 | Krankenhausdaten | 10 |
+| 1.6.7 | Prü fn um mer | 10 |
+| 1.6.8 | Stammdatei der Datenannahmestellen (SDDA) | 10 |
+| 1.6.9 | Auflistung der Prü ffä lle | 11 |
 
-| PRÜFFÄLLE |  |  | 12 |
-|---|---|---|---|
-| 2.1 Prüffälle |  | Dokumentation | 12 |
-| 2.1.1 | Prüffall | 3911 | 12 |
-| 2.1.2 | Prüffall | 3912 | 14 |
-| 2.1.3 | Prüffall | 3920 | 16 |
-| 2.2 Prüffall |  | Systemreaktion | 19 |
-| 2.2.1 | Prüffall | 3914 | 19 |
-| 2.2.2 | Prüffall | 3915 | 23 |
-| 2.2.3 | Prüffall | 3916 | 24 |
-| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 25 |
-| 2.3.1 | Prüffall | 3930 | 25 |
-| 2.3.2 | Prüffall | 3940 | 26 |
+**PRÜFFÄLLE**
 
-|  |  | TESTDATENVALIDIERUNG | 27 |
-|---|---|---|---|
-| 3.1 | Prüffall | Testdatenvalidierung | 28 |
-|  | 3.1.1 | Prüffall TDV3918 | 28 |
+**12**
+
+2.1 Prüffälle Dokumentation
+
+12
+
+2.1.1 Prüffall 3911
+
+12
+
+2.1.2 Prüffall 3912
+
+14
+
+2.1.3 Prüffall 3920
+
+16
+
+2.2 Prüffall Systemreaktion
+
+19
+
+2.2.1 Prüffall 3914
+
+19
+
+2.2.2 Prüffall 3915
+
+23
+
+2.2.3 Prüffall 3916
+
+24
+
+2.3 Weitere Prüffälle zum Anforderungskatalog 25
+
+2.3.1 Prüffall 3930
+
+25
+
+2.3.2 Prüffall 3940
+
+26
+
+**TESTDATENVALIDIERUNG**
+
+**27**
+
+3.1 Prüffall Testdatenvalidierung 28
+
+3.1.1 Prüffall TDV3918
+
+28
 
 **ANHANG**
 
@@ -65,7 +102,7 @@ INHALT
 
 **31**
 
-Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 3911 Prüffall 3912 Prüffall 3920 Prüffall Systemreaktion Prüffall 3914 Prüffall 3915 Prüffall 3916 Weitere Prüffälle zum Anforderungskatalog Prüffall 3930 Prüffall 3940 Prüffall Testdatenvalidierung 
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Auflistung der Prüffälle 
 
 
 ---
@@ -1019,10 +1056,14 @@ Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allg
 
 ---
 
-**Ansprechpartner:**
+|  | Ansprechpartner: |  |
+|---|---|---|
+|  | Dezernat | Digitalisierung und IT |
+| IT in | der Arztpraxis |  |
+| Tel.: | 030 | 4005-2077, pruefstelle@kbv.de |
+| Kassenä | rztlic he | B undesvere in ig ung |
+|  | Herbert-Lewin-Platz | 2, 10623 Berlin |
+|  | pruefstelle@kbv.de, | www.kbv.de |
+| Seite | 32 von 32 / | KBV / Prü fp akete DM P-Osteoporose / Version: 1.07 / 31. Mä rz 2 026 |
 
-Dezernat Digitalisierung und IT
-
-IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
-
-Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin

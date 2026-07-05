@@ -24,19 +24,41 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prüfunterlagen | 6 |
-| 1.6 | Prüfvorgaben | 7 |
+| 1.5 | Prü fu nte rla gen | 6 |
+| 1.6 | Prü fvorgaben | 7 |
 | 1.7 | Praxisdaten/ Arztstempel | 7 |
 
-| 2 |  | PRÜFFÄLLE | 8 |
-|---|---|---|---|
-| 2.1 | Prüffall | 5801 | 8 |
-| 2.2 | Prüffall | 5802 | 10 |
-| 2.3 | Prüffall | 5803 | 12 |
-| 2.4 | Prüffall | 5804 | 14 |
-| 2.5 | Prüffall | 5805 | 16 |
-| 2.6 | Prüffall | 5806 | 19 |
-| 2.7 | Prüffall | 5807 (optional) | 20 |
+**2** **PRÜFFÄLLE**
+
+**8**
+
+2.1 Prüffall 5801
+
+8
+
+2.2 Prüffall 5802
+
+10
+
+2.3 Prüffall 5803
+
+12
+
+2.4 Prüffall 5804
+
+14
+
+2.5 Prüffall 5805
+
+16
+
+2.6 Prüffall 5806
+
+19
+
+2.7 Prüffall 5807 (optional)
+
+20
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -46,7 +68,7 @@ INHALT
 
 **22**
 
-Prüffall 5801 Prüffall 5802 Prüffall 5803 Prüffall 5804 Prüffall 5805 Prüffall 5806 Prüffall 5807 (optional) 
+Prüfunterlagen Prüfvorgaben 
 
 
 ---

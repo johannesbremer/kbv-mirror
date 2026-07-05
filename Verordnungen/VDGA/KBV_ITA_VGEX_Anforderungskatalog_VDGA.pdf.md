@@ -16,7 +16,9 @@ Die Partner des Bundesmantelvertrages schließen als **Anlage 26** mantelvertrag
 
 zum Bundes-
 
-#### Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von  DiGA  Anforderungen an die Software zur Verordnung von Digita- len Gesundheitsanwendungen nach § 33a SGB V
+Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von  DiGA  Anforderungen an die Software zur Verordnung von Digita-
+
+**len Gesundheitsanwendungen nach § 33a SGB V**
 
 **vom 25.05.2023**
 

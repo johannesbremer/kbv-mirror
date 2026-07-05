@@ -42,7 +42,7 @@ der Lebensqualität ist nicht mehr angezeigt.
 
 **Ausfertigung für die Krankenkasse**
 
-## Ergebnis der Erhebung des  Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials gemäß
+Ergebnis der Erhebung des  Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials gemäß
 
 ## AKI-Richtlinie des G-BA
 

@@ -92,9 +92,7 @@ Bei der Verordnung von Leistungen zur Blutzuckermessung  Leistungsverzeichnisses
 
 #### - Kompressionsbehandlung 12.
 
-```
 -
-```
 
 Bei der Verordnung von Leistungen der Kompressionsbehandlung ist Nr. 31 der Häusliche Krankenpflege-Richtlinie zu beachten. Die Kompressionsbehandlung ist im Rahmen der  häuslichen Krankenpflege ab Kompressionsklasse I verordnungsfähig.
 
@@ -108,25 +106,19 @@ Bei der Verordnung von Leistungen der Wundversorgung sind die Nummern 12 Positio
 
 #### - Sonstige Maßnahmen der Behandlungspflege 14.
 
-```
 -
-```
 
 Hier können weitere oder andere als die unter 10. bis 13. genannten Maßnahmen des Leistungsverzeichnis der Häusliche Krankenpflege-Richtlinie verordnet werden.
 
 #### - Anleitung zur Behandlungspflege 15.
 
-```
 -
-```
 
 Sofern die Patientin/der Patient selbst oder Angehörige zur Behandlungspflege durch den Pflegedienst  angeleitet werden sollen, geben Sie dies bitte unter Nennung der einzelnen Leistungen hier an. Hierbei ist Nr.  7 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
 
 #### - Grundpflege und hauswirtschaftliche Versorgung 16.
 
-```
 -
-```
 
 Grundpflege und hauswirtschaftliche Versorgung können in der Regel nur dann verordnet werden, wenn die  Voraussetzungen für Unterstützungspflege oder der Krankenhausvermeidungspflege gegeben sind. Als  Satzungsleistung kann dies bei manchen Krankenkassen auch in anderen Fällen verordnet werden.
 
@@ -136,9 +128,7 @@ Unterstützungspflege kann verordnet werden bei schwerer Krankheit oder wegen ak
 
 #### - Krankenhausvermeidungspflege nach § 37 Abs. 1 SGB V 18.
 
-```
 -
-```
 
 Krankenhausvermeidungspflege kann verordnet werden, wenn Krankenhausbehandlung geboten, aber nicht  ausführbar ist. Dies ist z. B. der Fall, wenn Patienten die Zustimmung zur Krankenhauseinweisung verweigern  oder wenn dadurch eine Krankenhausbehandlung vermieden  Krankenhausvermeidungspflege umfasst Behandlungs- und Grundpflege  Versorgung. Bitte geben Sie zusätzlich an, welche Leistungen erbracht werden sollen. Ein Anspruch auf  Krankenhausvermeidungspflege besteht bis zu 4 Wochen je Krankheitsfall.
 

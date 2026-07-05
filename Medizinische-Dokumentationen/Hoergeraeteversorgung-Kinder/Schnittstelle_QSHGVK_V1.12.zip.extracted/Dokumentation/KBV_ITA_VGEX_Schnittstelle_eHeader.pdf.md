@@ -1,20 +1,33 @@
-| *IT in* | *der* | *Arztpraxis* | |
-|---|---|---|---|
-|  |  | ***Schnittstellenbeschreibung*** | |
-| ***Header*** | ***für*** | ***eDMP*** | ***/ a-*** |
-|  | ***Datensatz*** |  |  |
-|  |  | [KBV_ITA_VGEX_Schnittstelle_eHeader] | |
-| Dezernat6 |  |  |  |
-|  | Informationstechnik, | | Telematik und Telemedizin |
-|  |  | 10623Berlin,Herbert-Lewin-Platz2 | |
-|  | Kassenärztliche |  | Bundesvereinigung |
-| Version | 2.12 |  |  |
-| Datum |  | 12.04.2019 |  |
-| Klassifizierung: | Extern |  |  |
-| Status: | In | Kraft |  |
-| © Kassenärztliche |  | Bundesvereinigung, | Berlin 2019 |
+# IT in der Arztpraxis
 
-IT in der Arztpraxis Header für eDMP / a- Informationstechnik, Telematik und Telemedizin Kassenärztliche  Bundesvereinigung In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2019
+# Schnittstellenbeschreibung
+
+***Header für eDMP / a-***
+
+# Datensatz
+
+### [KBV_ITA_VGEX_Schnittstelle_eHeader]
+
+### Dezernat 6
+
+### Informationstechnik, Telematik und Telemedizin
+
+10623 Berlin, Herbert-Lewin-Platz 2
+
+### Kassenärztliche Bundesvereinigung
+
+Version 2.12
+
+Datum 12.04.2019
+
+Klassifizierung: Extern
+
+Status:
+
+In Kraft
+
+© Kassenärztliche Bundesvereinigung, Berlin 2019
+
 
 ---
 
@@ -1136,7 +1149,11 @@ In a-Datensätzen fallen die Elemente *KostentraegerAbrechnungsbereich, KVBereic
 
 **Abbildung 11 Grundstruktur sciphox:GesetzlicheKrankenversicherung**
 
-### Der Coderahmen für diese Sciphox-SSU würde dann wie folgt aussehen: Die Informationen  müssen zum Teil aus der Kostenträgerstammdatei ermittelt werden. Die Angabe der OIDs ist  verpflichtend.
+### Der Coderahmen für diese Sciphox-SSU würde dann wie folgt aussehen: Die Informationen
+
+müssen zum Teil aus der Kostenträgerstammdatei ermittelt werden. Die Angabe der OIDs ist
+
+### verpflichtend.
 
 <local_header ignore="all" descriptor="sciphox">
 

@@ -24,14 +24,14 @@ INHALT
 | 1.2 Zertifizierungsablauf | 4 |
 | 1.3 Zertifizierungsportal | 5 |
 | 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prüfunterlagen | 5 |
+| 1.5 Prü fu nte rla gen | 5 |
 | 1.5.1 Verzeichnisstruktur | 6 |
-| 1.5.2 Einreichen von Prüfunterlagen als | PDF-Dokumente 6 |
-| 1.6 Prüfvorgaben | 6 |
-| 1.6.1 Prüfstammdaten | 6 |
+| 1.5.2 Einreichen von Prü fu nte rla gen a ls P | DF-Dokumente 6 |
+| 1.6 Prü fvorgaben | 6 |
+| 1.6.1 Prü fstam mdate n | 6 |
 | 1.6.2 Vorbereitung | 6 |
 | 1.6.3 Versichertendaten | 6 |
-| 1.6.4 Auflistung der Prüffälle | 6 |
+| 1.6.4 Auflistung der Prü ffä lle | 6 |
 | 1.6.5 Praxisdaten/ Arztstempel | 8 |
 
 **2**
@@ -52,7 +52,7 @@ Prüffall Audit kv.digital GmbH
 
 **REFERENZIERTE DOKUMENTE**
 
-Einreichen von Prüfunterlagen als PDF-Dokumente **12**
+Prüfunterlagen Einreichen von Prüfunterlagen als PDF-Dokumente Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle **12**
 
 
 ---

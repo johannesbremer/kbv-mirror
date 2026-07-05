@@ -4,7 +4,7 @@
 
 ## Version: 1.2.1
 
-## Stand: 23.04.2026
+Stand: 23.04.2026
 
 Ansprechpartner KV Nordrhein:
 
@@ -56,11 +56,11 @@ Ansprechpartner KV Nordrhein:
 
 ---
 
-|  | Elektronische | Sammelerklärung |
-|---|---|---|
-| **7** |  | **QUELLENNACHWEISE** |
-| **8** | **ANLAGE** | **A** |
-| Seite 3 | von 20 |  |
+|  | Elektronische | Sammelerklä | ru ng |
+|---|---|---|---|
+| **7** |  | **QUELLENNACHWEISE** | |
+| **8** | **ANLAGE** | **A** |  |
+| Seite 3 | von 20 |  |  |
 
 **20**  **20**
 
@@ -225,7 +225,7 @@ bis 17.04.2014 01:00 Uhr vom 23.06.2014 Haben Beschäftigungen stattgefunden, mu
 
 ---
 
-| Elektronische | Sammelerklärung |
+| Elektronische | Sammelerklä ru ng |
 |---|---|
 | Das | Element assistent_liste ist wie folgt zu verwenden: |
 | Seite 12 | von 20 |
@@ -284,8 +284,13 @@ zu implemen-
 
 ---
 
-Demnach treten folgende XML Elemente in der Sammelerklärung Ausprägung ermächti-gete Ärzte - der KV Nordrhein auf:
+|  | Elektronische | Sammelerklä ru ng |
+|---|---|---|
+|  | Demnach treten | folgende XML-Elemente in der Sammelerklärung - Ausprägung ermächti- |
+| gete | Ä rz te - der KV | Nordrhein auf: |
+| Seite | 14 von 20 | Stand: 23.04.2026 |
 
+Demnach treten folgende XML gete Ärzte - der KV Nordrhein auf:
 
 ---
 

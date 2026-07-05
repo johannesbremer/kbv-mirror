@@ -192,9 +192,7 @@ sind auf Basis des HL7 FHIR® R4 Standards
 
 - 3 festgelegt.
 
-```
 -
-```
 
 - Kapitel 3 genannt.
 - -Ressourcen werden in
@@ -420,14 +418,12 @@ Zum 1. Oktober 2025 wird die Aktualisierung der EVDGA ist es erforderlich, eine 
 
 -FHIR-Profile eingeführt. In diesem Zusammenhang  der Version 1.1.1 nach dem 1. Oktober 2025 akzeptiert
 
-```
 -
-```
 
 - -Verord-
 - -Verordnungsdatensätze in
 
-2.2 - -Verordnungsdatensätze der Version  -Verordnungsdatensätze in der Version 1.1.1 werden
+2.2   - -Verordnungsdatensätze der Version  -Verordnungsdatensätze in der Version 1.1.1 werden
 
 
 ---
@@ -507,7 +503,7 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 - 1 aufgeführten Datenfelder zu befül-
 
-daten (PZN) Ta- nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. - EXT_ITA_VGEX_Anforderungskata-
+daten (PZN) Ta- nen.extension:Unfallkennzei- chen.value[x]:valueCoding nen.extension:Unfalltag.va- lue[x]:valueDate nen.extension:Unfallbetrieb.va- lue[x]:valueString cept.text das Feld ID 73 gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden. dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld ID 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertra- gen werden.   - EXT_ITA_VGEX_Anforderungskata-
 
 
 ---
@@ -852,11 +848,11 @@ die Gesundheitsanwendun-
 
 - elektronischen Verordnung gemäß P62-03 er-
 
-```
 -
+
 -
+
 -
-```
 
 Ihres E-Rezeptes Ihrer Verordnung: DIGA-
 
@@ -911,14 +907,12 @@ zur Einlösung der elektronischen Verordnung einheitliche
 - ] abgebildeten Form entsprechen
 - P62-05 bis P62-13 entsprechen.
 
-```
 -
-```
 
 - zulässig. Somit  -A5-Formats haben.
 - ] einzuhalten.
 
-Ihres E-Rezeptes Ihrer Verordnung: DIGA- Vorlage Patientenausdruck
+Ihres E-Rezeptes Ihrer Verordnung: DIGA  - Vorlage Patientenausdruck
 
 
 ---
@@ -1108,9 +1102,7 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 - (ID 45)
 - (ID 69)
 
-```
 -
-```
 
 - -Mail einer Einrichtung angegeben werden;
 
@@ -1122,7 +1114,7 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 - gemäß Ta-
 - gemäß Tabelle 11) in der Form
 
-„ausgestellt am“- -Instanzen.
+„ausgestellt am“  - -Instanzen.
 
 
 ---
@@ -1168,25 +1160,22 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 - (ID 83)
 - (ID 82)
 
-```
 -
+
 -
-```
 
 - P62-11
 
 Verord-P62-11 enthal-
 
-```
 -
+
 -
-```
 
 - 1
 
-```
 -
-```
+
 
 ---
 

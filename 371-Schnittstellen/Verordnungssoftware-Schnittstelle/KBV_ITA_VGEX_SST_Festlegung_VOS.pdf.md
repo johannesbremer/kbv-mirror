@@ -23,12 +23,12 @@ Inhalt
 
 **2** **ÜBERBLICK**
 
-| 3 | FHIR®-DEFINITIONEN | 8 |
+| 3 | FHIR® -DEFINITIONEN | 8 |
 |---|---|---|
 | 3.1 | KBV-Profile | 9 |
 | 3.2 | KBV-Extensions | 14 |
 | 3.3 | KBV-ValueSets, KBV-CodeSystems und KBV-NamingSystems | 15 |
-| 3.4 | FHIR®-Ressourcen | 17 |
+| 3.4 | FHIR® -Ressourcen | 17 |
 
 **4** **REST-SERVICE**
 
@@ -46,7 +46,7 @@ Inhalt
 
 19  19  19  20  20  20  20  21  22  23  23  24  24  24  25  27  **28**  29  29  29
 
-30  30  30  30  31  31  31  **31**  **31**
+FHIR®-DEFINITIONEN FHIR®-Ressourcen 30  30  30  30  31  31  31  **31**  **31**
 
 
 ---

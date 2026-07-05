@@ -110,20 +110,27 @@ INHALT
 
 **8**
 
-| 3 | ÜBERGREIFENDE FESTLEGUNGEN | 9 |
-|---|---|---|
-| 3.1 | Kommunikation | 9 |
-| 3.2 | Authentisierung | 10 |
-|  | 3.2.1 Authentisierung durch Antragsteller | 10 |
-|  | 3.2.2 Authentisierung durch Mitarbeiter der | KVen 10 |
-|  | 3.2.3 Registrierung | 11 |
-| 3.3 | Portal | 13 |
-| 3.4 | Verwendung der SOAP-Schnittstelle | 13 |
-| 3.5 | Löschfristen | 14 |
-| 3.6 | Änderungshistorie | 15 |
-| 3.7 | Mandantenfähigkeit | 15 |
-| 3.8 | Ansprechpartner | 15 |
-| 3.9 | SM-B-Status | 15 |
+**3** **ÜBERGREIFENDE FESTLEGUNGEN**
+
+**9**  3.1 Kommunikation 9  3.2 Authentisierung
+
+10  3.2.1 Authentisierung durch Antragsteller
+
+10  3.2.2 Authentisierung durch Mitarbeiter der KVen 10  3.2.3 Registrierung
+
+11  3.3 Portal
+
+13  3.4 Verwendung der SOAP-Schnittstelle 13  3.5 Löschfristen
+
+14  3.6 Änderungshistorie
+
+15  3.7 Mandantenfähigkeit
+
+15  3.8 Ansprechpartner
+
+15  3.9 SM-B-Status
+
+15
 
 **4** **FUNKTIONSMERKMALE**
 
@@ -171,7 +178,7 @@ INHALT
 
 46  4.6.3 Anforderungen
 
-Authentisierung durch Mitarbeiter der KVen48
+48
 
 
 ---
@@ -544,10 +551,10 @@ die zusammengehörigen Requests und Responses der SOAP die Parametrisierung der 
 
 ---
 
-| Abbildung | 1: | Gesamtübersicht | zu | Antrags - und SM-B-Status |
-|---|---|---|---|---|
-| Seite 17 | von 57 / KBV | / Anforderungskatalog | SM-B | Anbieter -Anforderungen an TSP im Rahmen der Ausgabe vonSM-B für |
-| das | KV-System / | Version: 2.1 / 10.06 | 2026 |  |
+| Abbildung | 1: | Gesamtü b | ersic htz | u A ntrags | - uSMnd-B-Status |
+|---|---|---|---|---|---|
+| Seite 17 | von 57 / KBV | / | Anforderungskatalog | SM-B | Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
+| das | KV-System / Version: | 2.1 / | 10.06 2026 |  |  |
 
 Abbildung 1: Gesamtübersicht zu Antrags - und SM-B-Status 
 
@@ -772,9 +779,11 @@ Der TSP MUSS dem Antragsteller im Antragsportal bei der Eingabe der Betriebsstä
 | 89, 90, 91, 93 | Thüringen |
 | 94, 95, 96, 98 | Sachsen |
 
+-
+
+-
+
 ```
--
--
 -
 ```
 
@@ -993,10 +1002,10 @@ Prüfung des TSPs ergibt Fehler oder Abweichungen. Reaktion: Der TSP informiert 
 
 ---
 
-| Abbildung | 4: | Freigabe über | das Freigabeportal |
-|---|---|---|---|
-| Seite 33 | von 57 / KBV | / | Anforderungskatalog SM-B Anbieter -Anforderungen an TSP im Rahmen der Ausgabe vonSM-B für |
-| das | KV-System / Version: | 2.1 / | 10.06 2026 |
+| Abbildung | 4: | Freigabe | ü b erd | as Freigabeportal |
+|---|---|---|---|---|
+| Seite 33 | von 57 / KBV | / | Anforderungskatalog | SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
+| das | KV-System / | Version: 2.1 | / 10.06 2026 |  |
 
 Abbildung 4: Freigabe über das Freigabeportal
 
@@ -1102,7 +1111,7 @@ Der TSP MUSS die Freigabemöglichkeit im Portal so gestalten, dass
 -
 ```
 
-[GEMSPEC_PERS_SMC-B] Praxis/des MVZ die Freigabe des Antrags durch die KV geprüft.  werden für die Freigabe des Antrags durch die KV geprüft. den Arzt oder Psychotherapeut im KV- System. Sie besteht aus 9 Ziffern. durch die KV geprüft.  Antrags durch die KV geprüft. wird im Rahmen der Freigabe durch die KV geprüft. Praxis oder das MVZ im KV-System. Sie besteht aus 9 Ziffern. durch die KV geprüft. benötigt. Arzt“ oder „Betriebsstätte Psychotherapeut“ lauten. SM-B benötigt. Antrags durch die KV geprüft. StrassenAdressType - durch die KV
+[GEMSPEC_PERS_SMC-B] Praxis/des MVZ die Freigabe des Antrags durch die KV geprüft.  werden für die Freigabe des Antrags durch die KV geprüft. den Arzt oder Psychotherapeut im KV- System. Sie besteht aus 9 Ziffern. durch die KV geprüft.  Antrags durch die KV geprüft. wird im Rahmen der Freigabe durch die KV geprüft. Praxis oder das MVZ im KV-System. Sie besteht aus 9 Ziffern. durch die KV geprüft. benötigt. Arzt“ oder „Betriebsstätte Psychotherapeut“ lauten. SM-B benötigt. Antrags durch die KV geprüft. StrassenAdressType   - durch die KV
 
 
 ---
@@ -1147,8 +1156,8 @@ Alternativen Anforderungen E-Mail an den Antragsteller mit dem Status der Auslie
 
 | Abbildung | 6: | Lieferung |
 |---|---|---|
-| Seite 39 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe vonSM-B für |
-| das | KV-System / | Version: 2.1 / 10.06 2026 |
+| Seite 39 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
+| das | KV-System / Version: | 2.1 / 10.06 2026 |
 
 Abbildung 6: Lieferung 
 
@@ -1246,7 +1255,7 @@ Alternativen Anforderungen Die KV kennt die Vorgangsnummer oder andere Daten, mi
 
 | Abbildung | 7: | Sperrung | durch Antragsteller |
 |---|---|---|---|
-| Seite 43 | von 57 / KBV | / | Anforderungskatalog SM-B Anbieter -Anforderungen an TSP im Rahmen der Ausgabe vonSM-B für |
+| Seite 43 | von 57 / KBV | / | Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
 | das | KV-System / Version: | 2.1 / 10.06 | 2026 |
 
 Abbildung 7: Sperrung durch Antragsteller
@@ -1343,8 +1352,8 @@ Sie können sich eine Überblicksansicht über alle Anträge anzeigen lassen. Si
 
 | Abbildung | 9: | Monitoring |
 |---|---|---|
-| Seite 47 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe vonSM-B für |
-| das | KV-System / | Version: 2.1 / 10.06 2026 |
+| Seite 47 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
+| das | KV-System / Version: | 2.1 / 10.06 2026 |
 
 Abbildung 9: Monitoring
 

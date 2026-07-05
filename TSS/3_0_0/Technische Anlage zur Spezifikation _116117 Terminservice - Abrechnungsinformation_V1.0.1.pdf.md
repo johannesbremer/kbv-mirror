@@ -1,4 +1,8 @@
-# TECHNISCHE ANLAGE ZUR SPEZIFIKATION  "116117 TERMINSERVICE -  ABRECHNUNGSINFORMATION"
+# TECHNISCHE ANLAGE ZUR SPEZIFIKATION
+
+**"116117 TERMINSERVICE -**
+
+# ABRECHNUNGSINFORMATION"
 
 **Kassenärztliche Bundesvereinigung**
 
@@ -9,32 +13,22 @@ Herbert-Lewin-Platz 2 10623 Berlin
 
 ---
 
-**Inhalt**
+| Inhalt |  |
+|---|---|
+| **1 EINLEITUNG** | **& HINTERGRUND ....................................................................................5** |
+| **2** | **AUTHENTIFIZIERUNG, AUTHENTIFIZIERUNGSVERFAHREN UND AUTORISIERUNG.....6** |
+| **3 USE** | **CASE ...................................................................................................................7** |
+| **4 WORKFLOW** | **................................................................................................................8** |
+| **4.1 In itia le** | **Synch ron isa tion .........................................................................................................................8** |
+| **4.2 Kon tinu** | **ie rliche Synch ron isa tion ............................................................................................................8** |
+| **5** | **OPERATIONEN & INTERAKTIONEN .............................................................................9** |
+| **5.1 In itia le** | **Synch ron isa tion : Te rm inbuchungen ab ru fen ..............................................................................9** |
+| **5.2 Kon tinu** | **ie rliche Synch ron isa tion : Ab ru f Ab frage a lle r ge ä nderten Daten.................................................9** |
+| **5.3 HLIR7** | **.F..H..........................................................................................................................................11** |
+| **5.4 Da ten fo** | **rm a t ........................................................................................................................................11** |
+| **6** | **REFERENZEN ............................................................................................................12** |
 
-**1 EINLEITUNG & HINTERGRUND ....................................................................................5**
-
-**2 AUTHENTIFIZIERUNG, AUTHENTIFIZIERUNGSVERFAHREN UND AUTORISIERUNG.....6**
-
-**3 USE CASE ...................................................................................................................7**
-
-**4 WORKFLOW ................................................................................................................8**
-
-**4.1 Initiale Synchronisation .........................................................................................................................8**
-
-**4.2 Kontinuierliche Synchronisation ............................................................................................................8**
-
-**5 OPERATIONEN & INTERAKTIONEN .............................................................................9**
-
-**5.1 Initiale Synchronisation: Terminbuchungen abrufen ..............................................................................9**
-
-**5.2 Kontinuierliche Synchronisation: Abruf Abfrage aller geänderten Daten.................................................9**
-
-**5.3 HL7 FHIR .............................................................................................................................................11**
-
-**5.4 Datenformat ........................................................................................................................................11**
-
-**6 REFERENZEN ............................................................................................................12**
-
+EINLEITUNG & HINTERGRUND ....................................................................................5 USE CASE ...................................................................................................................7 WORKFLOW ................................................................................................................8 4.1 Initiale Synchronisation .........................................................................................................................8 4.2 Kontinuierliche Synchronisation ............................................................................................................8 5.1 Initiale Synchronisation: Terminbuchungen abrufen ..............................................................................9 5.2 Kontinuierliche Synchronisation: Abruf Abfrage aller geänderten Daten.................................................9 5.3 HL7 FHIR .............................................................................................................................................11 5.4 Datenformat ........................................................................................................................................11
 
 ---
 
@@ -142,13 +136,13 @@ Entwurf
 
 ---
 
-| 1 | EINLEITUNG | & | HINTERGRUND |
-|---|---|---|---|
-| Mit der | Schnittstelle | „116117 Terminservice | - Abrechnungsinformation“ ist es möglich, |
-|  | abrechnungsrelevante | Informationen zu | Terminen, welche über den 116117 Terminservice vermittelt wurden, |
-| automatisiert | dem | Abrechnungsfall eines | Patienten zuzuordnen und die Auswahl der zutreffenden |
-|  | Gebührenordnungsposition | zu unterstützen. |  |
-| Seite 5 von | 12 / KBV / Technische | Anlage zur | Spezifikation "116117 Terminservice - Abrechnungsinformation" |
+| 1 | EINLEITUNG | & | HINTERGRUND |  |
+|---|---|---|---|---|
+| Mit der | Schnittstelle | „116117 Terminservice | - | Abrechnungsinformation“ ist es möglich, |
+|  | abrechnungsrelevante | Informationen zu | Terminen, welche | über den 116117 Terminservice vermittelt wurden, |
+| automatisiert | dem | Abrechnungsfall eines | Patienten zuzuordnen | und die Auswahl der zutreffenden |
+|  | Gebührenordnungsposition | zu unterstützen. |  |  |
+| Seite 5 von | 12 / KBV / Technische | Anlage zur | Spezifikation "116117 | Terminservice - Abrechnungsinformation" |
 
 1 EINLEITUNG & HINTERGRUND Mit der Schnittstelle „116117 Terminservice - Abrechnungsinformation“ ist es möglich, abrechnungsrelevante Informationen zu Terminen, welche über den 116117 Terminservice vermittelt wurden, automatisiert dem Abrechnungsfall eines Patienten zuzuordnen und die Auswahl der zutreffenden Gebührenordnungsposition zu unterstützen.  / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
@@ -158,9 +152,9 @@ Entwurf
 |---|---|---|---|
 | UND | AUTORISIERUNG |  |  |
 | Die Authentifizierung | und | Authentifizierungsverfahren | erfolgt gemäß [TSS_Auth]. |
-| Anwender der | Schnittstelle können auf | Daten der | Praxen zugreifen, für die sie sich im |
+| Anwender der | Schnittstelle können | auf Daten der | Praxen zugreifen, für die sie sich im |
 | Authentifizierungsverfahren | mittels | SMC-B authentisieren | konnten. |
-| Seite 6 von 12 / | KBV / Technische Anlage zur | Spezifikation | "116117 Terminservice - Abrechnungsinformation" |
+| Seite 6 von 12 / | KBV / Technische Anlage zur | Spezifikation "116117 | Terminservice - Abrechnungsinformation" |
 
 2 AUTHENTIFIZIERUNG, AUTHENTIFIZIERUNGSVERFAHREN UND AUTORISIERUNG Die Authentifizierung und Authentifizierungsverfahren erfolgt gemäß [TSS_Auth]. Anwender der Schnittstelle können auf Daten der Praxen zugreifen, für die sie sich im Authentifizierungsverfahren mittels SMC-B authentisieren konnten.  / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 

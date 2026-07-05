@@ -46,13 +46,9 @@
 
 **in folgendem Umfang übernommen**
 
-**Die Genehmigung der Krankenkasse ist der Abrechnung beizufügen. Endet die Notwendigkeit vor Ablauf des** **angegebenen Zeitraums, so erlischt damit auch die Ko stenverpflichtung.**
-
-**Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist**  **Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen.**
-
-***Auszufüllen, soweit von Seiten der Krankenkasse Bed*** **Name, Vorname des Versicherten**
-
-**Straße, Hausnummer, PLZ, Wohnort**
+| Die Genehmigung der Krankenkasse istangegebenen Zeitraums, so erlischtSollte die SAPV ü b erd en le tz te n B ew illigZeitraums eine erneute Verordnung bei | der Abrechnung beizufü g en.E ndetd ie N otwdamit auch die Kostenve rp flich tung .ungsta g h in aus e rfo rd erlic h s ein ,s o is tder Krankenkasse einzureichen. rechtzeitig |
+|---|---|
+| ***Auszufüllen, soweit von Seiten der Krankenkasse*****Name, Vorname des VersichertenStraße, Hausnummer, PLZ, Wohnort** | |
 
 **Versichertennummer**
 
@@ -66,8 +62,8 @@
 
 **Stempel / Unterschrift des SAPV-Leistungserbringers**
 
-**rechtzeitig vor Ablauf des genehmigten**
+**des genehmigten**
 
 **Stempel / Unterschrift der Krankenkasse**
 
-**PRF.NR.** **Muster 63a.2/E (10.2014)**
+Die Genehmigung der Krankenkasse ist der Abrechnung beizufügen. Endet die Notwendigkeit vor Ablauf des angegebenen Zeitraums, so erlischt damit auch die Ko stenverpflichtung. Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen. Auszufüllen, soweit von Seiten der Krankenkasse Bed rechtzeitig vor Ablauf**PRF.NR.** **Muster 63a.2/E (10.2014)**

@@ -8,7 +8,7 @@
 
 **I. Rehabilitationsbegründende und weitere Diagnosen**
 
-### II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung
+II. Angaben zur Rehabilitationsbedürftigkeit und zum Verlauf der Krankenbehandlung
 
 **Ausfertigung für die Krankenkasse**
 

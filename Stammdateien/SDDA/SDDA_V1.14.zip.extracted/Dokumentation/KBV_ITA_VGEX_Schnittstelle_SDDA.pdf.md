@@ -33,11 +33,11 @@ kim_email können auch über KIM hinzugefügt erreicht werden tes d2d_kennung nu
 
 **DOKUMENTENHISTORIE ___________________________________________________ 2**
 
-#### INHALTSVERZEICHNIS _____________________________________________________ 3
+INHALTSVERZEICHNIS _____________________________________________________ 3
 
-#### ABBILDUNGSVERZEICHNIS ________________________________________________ 5
+**ABBILDUNGSVERZEICHNIS ________________________________________________ 5**
 
-#### TABELLENVERZEICHNIS ___________________________________________________ 6
+TABELLENVERZEICHNIS ___________________________________________________ 6
 
 **1 EINLEITUNG __________________________________________________________ 7**
 
@@ -426,9 +426,7 @@ Das Element hat folgenden Aufbau:
 
 ***<person_name>***  Angabe zu dem Namen einer Person wird hier hinterlegt.
 
-***<organization.nm>*** Angabe zu dem Organisationsnamen, zu der die Person zugehört, wird  hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organisa-
-
-### tion vorhanden und die Notwendigkeit die Organisation nochmal im
+***<organization.nm>*** Angabe zu dem Organisationsnamen, zu der die Person zugehört, wird  hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organisa-tion vorhanden und die Notwendigkeit die Organisation nochmal im
 
 ***<organization>*** - Element anzugeben entfällt.
 
@@ -436,9 +434,7 @@ Das Element hat folgenden Aufbau:
 
 ### legt.
 
-***<telecom>***    Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...),
-
-### unter den die Person erreichbar ist, wird hier hinterlegt.
+***<telecom>***    Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...),  unter den die Person erreichbar ist, wird hier hinterlegt.
 
 ***<local_header>***  Element wird in 5.5.4.6 erklärt.
 
@@ -487,27 +483,23 @@ Das Element hat folgenden Aufbau:
 
 #### 5.5.4.1 id (Personidentifikation)
 
-### Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine
-
-GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann eine
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann eine
 
 ### beliebige Zeichenfolge verwendet werden.
 
-### Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetragen.  Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
+Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetragen.
 
-### Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu-geben:
+### Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
 
-### a) Wenn neue Werte in die Schlüsseltabelle hinzugefügt werden, so kann anhand der
+Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu-
 
-### - Tabellen-Version erkannt werden, dass es sich nicht um Fehlerwerte handelt, wenn
+### geben:
 
-diese durch das Programm nicht erkannt werden. Die Fehlerursache kann damit ge-
+a) Wenn neue Werte in die Schlüsseltabelle hinzugefügt werden, so kann anhand der  Tabellen-Version erkannt werden, dass es sich nicht um Fehlerwerte handelt, wenn  diese durch das Programm nicht erkannt werden. Die Fehlerursache kann damit ge-
 
 ### - klärt werden.
 
-### b) Um nach mehreren Schlüsseltabellenänderungen noch klären zu können, wann ein
-
-Wert gültig war. D ie Tabellen-Version ist für die Überprüfung von älteren Dateien mit
+b) Um nach mehreren Schlüsseltabellenänderungen noch klären zu können, wann ein  Wert gültig war. D ie Tabellen-Version ist für die Überprüfung von älteren Dateien mit
 
 ### - alten Schlüsseltabellenwerten wichtig.
 

@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.06.2025
+#### Datenstand: 30.09.2025
 
 **Id Praxissoftware**
 
@@ -14,19 +14,19 @@
 
 112 **TURBOMED**
 
+462 **medatixx**
+
 457 **tomedo**
 
-462 **medatixx**
+243 **x.concept**
 
 210 **Medical Office**
 
 343 **SAP Ambulatory Care Management**
 
-243 **x.concept**
+498 **T2med**
 
 226 **CGM MEDICO**
-
-498 **T2med**
 
 203 **ALBIS**
 
@@ -42,6 +42,8 @@ Dedalus HealthCare GmbH
 
 CompuGroup Medical Deutschland AG
 
+medatixx GmbH & Co. KG
+
 Zollsoft GmbH
 
 medatixx GmbH & Co. KG
@@ -50,97 +52,95 @@ INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 SAP SE
 
-medatixx GmbH & Co. KG
+T2med GmbH & Co. KG
 
 CGM Clinical Europe GmbH
-
-T2med GmbH & Co. KG
 
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG 1
 
-**Installationen 2.Q.2025**
+**Installationen 3.Q.2025**
 
-64
+69
 
-60
+56
 
-36
-
-33
-
-28
-
-27
-
-23
-
-22
-
-22
-
-17
-
-15
-
-15
-
-14
-
-**Installationen 1.Q.2025 Differenz**
-
-65
-
--1
-
-59
-
-1
-
-33
-
-3
+35
 
 32
 
-1
+30
 
-27
+29
 
-1
+22
 
-27
+22
 
-0
+19
 
-21
-
-2
-
-20
-
-2
-
-24
-
--2
+17
 
 16
 
-1
-
 14
-
-1
-
-15
-
-0
 
 13
 
+**Installationen 2.Q.2025 Differenz**
+
+64
+
+5
+
+60
+
+-4
+
+36
+
+-1
+
+33
+
+-1
+
+27
+
+3
+
+28
+
 1
+
+22
+
+0
+
+23
+
+-1
+
+22
+
+-3
+
+15
+
+2
+
+17
+
+-1
+
+15
+
+-1
+
+14
+
+-1
 
 
 ---
@@ -149,74 +149,76 @@ CompuGroup Medical Deutschland AG 1
 
 015 **MEDYS**
 
-230 **QMED.PRAXIS**
-
 135 **EL - Elaphe Longissima**
 
 314 **IMedOne**
 
+290 **M-KIS**
+
 086 **DURIA**
 
-266 **x.comfort**
-
 261 **S3-Win**
+
+230 **QMED.PRAXIS**
 
 **Anbieter**
 
 MEDYS GmbH
 
-Schwerdtner Medizin-Software GmbH
-
 medatixx GmbH & Co. KG
 
 Deutsche Telekom Clinical Solutions GmbH
 
+Meierhofer AG
+
 Duria eG
 
-medatixx GmbH & Co. KG
+S3 Praxiscomputer GmbH / Maximilian Flender
 
-S3 Praxiscomputer GmbH / Maximilian Flender 2
+Schwerdtner Medizin-Software GmbH 2
 
-**Installationen 2.Q.2025 Installationen 1.Q.2025 Differenz**
-
-8
-
-8
-
-0
+**Installationen 3.Q.2025**
 
 8
 
 8
-
-0
-
-8
-
-8
-
-0
-
-7
-
-7
-
-0
 
 7
 
 6
+
+6
+
+5
+
+5
+
+**Installationen 2.Q.2025 Differenz**
+
+8
+
+0
+
+8
+
+0
+
+7
+
+0
+
+5
 
 1
 
-6
+7
 
-6
-
-0
-
-5
+-1
 
 5
 
 0
+
+8
+
+-3

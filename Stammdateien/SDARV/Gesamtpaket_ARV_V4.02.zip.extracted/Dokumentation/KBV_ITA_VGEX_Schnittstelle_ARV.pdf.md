@@ -69,7 +69,7 @@ ten Schlüsseltabellen Elementes <fachgruppennummer_liste XML-Elementes <verordn
 
 **2.1**
 
-| Zeichensatz | .................................................................................................................................. 14 |
+| Zeichensatz.................................................................................................................................. | 14 |
 |---|---|
 | **Namespace...................................................................................................................................** | **14** |
 | **Root-Schema** | **............................................................................................................................... 14** |
@@ -87,7 +87,7 @@ ten Schlüsseltabellen Elementes <fachgruppennummer_liste XML-Elementes <verordn
 
 **4.1**
 
-|  | Kardinalität | ................................................................................................................................... 18 |
+|  | Kardinalitä | t................................................................................................................................... 18 |
 |---|---|---|
 |  | **Strukturelemente.........................................................................................................................** | **18** |
 |  | **Sonstige Symbole** | **....................................................................................................................... 18** |
@@ -121,7 +121,7 @@ ten Schlüsseltabellen Elementes <fachgruppennummer_liste XML-Elementes <verordn
 
 **6.8** **state (Bearbeitungszustand) ...................................................................................................... 30**
 
-EHD – ELEMENT (ROOT-ELEMENT) **6.9** **interface (Schnittstelle) ............................................................................................................... 32**
+Kardinalität EHD – ELEMENT (ROOT-ELEMENT) **6.9** **interface (Schnittstelle) ............................................................................................................... 32**
 
 
 ---
@@ -618,7 +618,9 @@ Die ARV-Schnittstelle für den Datenaustausch liegt im XML-Format vor. Sie ist z
 
 ## 2.3 Root- Schema
 
-### Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt arv_root.xsd.
+Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die projektbezogenen body-
+
+### Schemata inkludiert sind, heißt arv_root.xsd.
 
 
 ---
@@ -771,7 +773,9 @@ xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”  ***urn:ehd/001***
 
 # 6 header (Metadaten)
 
-Der „header“ enthält die Metadaten zu den im „body“ liegenden eigentlichen Inhaltsdaten und  hat folgende Struktur:
+Der „header“ enthält die Metadaten zu den im „body“ liegenden eigentlichen Inhaltsdaten und
+
+hat folgende Struktur:
 
 | *diagram* | ** |
 |---|---|
@@ -783,9 +787,7 @@ Der „header“ enthält die Metadaten zu den im „body“ liegenden eigentlic
 
 ### Das Element „id“ ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XML-Dokument
 
-bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere „id“,
-
-### und auch bei Korrekturen muss eine neue „id“ vergeben werden.
+bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere „id“,  und auch bei Korrekturen muss eine neue „id“ vergeben werden.
 
 V="1"/> ne”/>  V=” 2009-10-31”/> SN="S_KBV_BEARBEITUNGSZUSTAND"/> ### Das Element hat folgenden Aufbau:
 
@@ -885,7 +887,7 @@ Es sind folgende Zeitraumangaben durch den „zeitraum_typ“ möglich:
 
 ---
 
-### Stammdateien vom Typ ARV sollten für ein Kalenderjahr gültig sein, also bis zum Dezember  des aktuellen Jahres.
+Stammdateien vom Typ ARV sollten für ein Kalenderjahr gültig sein, also bis zum Dezember  des aktuellen Jahres.
 
 ---
 
@@ -1555,7 +1557,9 @@ Ein arztindividuelles Controlling ist auf DDD-Basis („quote_leitsubstanz_ddd�
 
 ---
 
-### zen Metformin und Glibenclamid eine gemeinsame Quote von 60% zugeordnet werden (siehe  hierzu auch das 2. specific example für das Element „leitsubstanzquotenregelung“).
+zen Metformin und Glibenclamid eine gemeinsame Quote von 60% zugeordnet werden (siehe
+
+hierzu auch das 2. specific example für das Element „leitsubstanzquotenregelung“).
 
 ---
 
@@ -1953,9 +1957,7 @@ Ist beispielsweise „intervall_start“=105,0 und „intervall_stop“=110,0, s
 
 ---
 
-### kehrt gilt die Regelung bei Angabe von „intervall_stop“=100“ und Attribut “inklusi-
-
-ve_intervallgrenze = false“ für alle Medikamente, die unter dem Zielpreis liegen. Das Attribut
+kehrt gilt die Regelung bei Angabe von „intervall_stop“=100“ und Attribut “inklusi-ve_intervallgrenze = false“ für alle Medikamente, die unter dem Zielpreis liegen. Das Attribut
 
 ### „V“ wurde als Datentyp „decimal“ realisiert.
 
@@ -2057,7 +2059,7 @@ Das Element hat folgenden Aufbau:
 
 #### Tabelle 56 – Erläuterung „generikaquotenregelung/generischer_wirkstoff_alternative
 
-### Im Element „generischer_wirkstoff_alternative“ können die alternativ zu verordnenden Präpa-rate, die Generika, definiert werden.
+Im Element „generischer_wirkstoff_alternative“ können die alternativ zu verordnenden Präpa-rate, die Generika, definiert werden.
 
 ### 7.6.5 fachgruppenquote
 
@@ -3276,7 +3278,7 @@ Wenn kein Element <bedingung> vorhanden ist, dann gilt die Zielvereinbarung für
 
 | rung gilt. |  |
 |---|---|
-| Dieses Element | muss entweder mindestens ein Kindelement <fachgruppenintervall> oder |
+| Dieses | Element muss entweder mindestens ein Kindelement <fachgruppenintervall> oder |
 | mindestens | ein Kindelement <fachgruppennummer> enthalten. |
 
 ##### 7.15.1.5.2 fachgruppenintervall

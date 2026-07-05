@@ -529,30 +529,23 @@ Seite 13 von 27 1ClickAbrechnung V2.1
 
 1ClickAbrechnung V2.1
 
-| 3.3.4 | Beispiel für eine |  | 1ClickAbrechnung-Eingangsbestätigung |
-|---|---|---|---|
-| Date: | Wed, 24 Mar | 2021 | 10:30:37 +0100 |
-| From: |  | KV123@xyz.kim.telematik |  |
-| To: |  | ArztABC@xyz.kim.telematik |  |
-|  | Message-ID: | <Message-ID> |  |
-| Subject: |  |  | 1ClickAbrechnung-Eingangsbestaetigung |
-|  | In-Reply-To: | <Original-Message-ID> | |
-|  | X-KIM-Dienstkennung: | | 1ClickAbrechnung;Eingangsbestaetigung;V2.0 |
-|  | X-KIM-Sendersystem: |  | Beispiel-KV;V20.21 |
-|  | Content-Type: | multipart/report; | report-type=disposition-notification; |
-|  |  |  | boundary="--------------mdn050609000308010900000100" |
-|  |  | --------------mdn050609000308010900000100 | |
-|  | Content-Type: | text/plain; | charset=utf-8 |
-|  | Content-Transfer-Encoding: | | 8bit |
-|  | <menschenlesbarer | Teil> |  |
-|  |  | --------------mdn050609000308010900000100 | |
-|  | Content-Type: |  | message/disposition-notification |
-|  | Original-Message-ID: |  | <Original-Message-ID> |
-|  | Disposition: |  | automatic-action/MDN-sent-automatically;displayed |
-|  |  | --------------mdn050609000308010900000100-- | |
-| Abbildung: | beispielhafte |  | 1ClickAbrechnung-Eingangsbestätigung |
+3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung
 
-3.3.4 Beispiel für eine 1ClickAbrechnung-Eingangsbestätigung Date: Wed, 24 Mar 2021 10:30:37 +0100 From: KV123@xyz.kim.telematik To: ArztABC@xyz.kim.telematik Message-ID: <Message-ID> Subject: 1ClickAbrechnung-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickAbrechnung;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit <menschenlesbarer Teil> Content-Type: message/disposition-notification Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed Abbildung: beispielhafte 1ClickAbrechnung-EingangsbestätigungSeite 14 von 27
+Date: Wed, 24 Mar 2021 10:30:37 +0100 From: [KV123@xyz.kim.telematik](mailto:KV123@xyz.kim.telematik) To: [ArztABC@xyz.kim.telematik](mailto:ArztABC@xyz.kim.telematik) Message-ID: <Message-ID> Subject: 1ClickAbrechnung-Eingangsbestaetigung In-Reply-To: <Original-Message-ID> X-KIM-Dienstkennung: 1ClickAbrechnung;Eingangsbestaetigung;V2.0 X-KIM-Sendersystem: Beispiel-KV;V20.21 Content-Type: multipart/report; report-type=disposition-notification; boundary="--------------mdn050609000308010900000100"
+
+--------------mdn050609000308010900000100 Content-Type: text/plain; charset=utf-8 Content-Transfer-Encoding: 8bit
+
+<menschenlesbarer Teil>
+
+--------------mdn050609000308010900000100 Content-Type: message/disposition-notification
+
+Original-Message-ID: <Original-Message-ID> Disposition: automatic-action/MDN-sent-automatically;displayed
+
+--------------mdn050609000308010900000100--
+
+Abbildung: beispielhafte 1ClickAbrechnung-Eingangsbestätigung
+
+Seite 14 von 27
 
 
 ---

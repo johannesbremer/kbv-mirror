@@ -171,7 +171,9 @@ Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal 
 - 31.12
 - 31.03
 
-### Melde-Untersuchungsjahr
+Melde-
+
+### Untersuchungsjahr
 
 ### quartal
 

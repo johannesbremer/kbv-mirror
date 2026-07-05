@@ -70,9 +70,7 @@
 
 ## Verordnung Soziotherapie
 
-**26**
-
-## gemäß § 37a SGB V
+**26** **gemäß § 37a SGB V**
 
 **Diagnose**
 

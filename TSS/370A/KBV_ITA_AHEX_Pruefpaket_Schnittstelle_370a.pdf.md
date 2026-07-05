@@ -22,9 +22,9 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS IN KRAFT
 
 **4**
 
-| 2 | PRÜFVORGABEN | 5 |
+| 2 | PRÜ FVORGABEN | 5 |
 |---|---|---|
-| 2.1 | Prüfunterlagen | 5 |
+| 2.1 | Prü funterlagen | 5 |
 | 2.2 | Zertifizierungsablauf | 5 |
 |  | 2.2.1 Zertifizierungsportal | 5 |
 
@@ -43,6 +43,9 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS IN KRAFT
 3.3 PF-03 Weitere Nachweise
 
 7
+
+PRÜFVORGABEN Prüfunterlagen 
+
 
 ---
 
