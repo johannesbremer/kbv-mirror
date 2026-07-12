@@ -6,9 +6,9 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**2. JUNI 2026**
+**8. JULI 2026**
 
-**VERSION: 6.05**
+**VERSION: 6.06**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -219,42 +219,46 @@ leme, 10. Revision, German Modification Institutionskennzeichen für alle Einric
 ---
 
 \| Version | Datum | Autor | Änderung | Begründung | Seite |
-| DOKUMENTENHISTORIE | Die Änderungen vom 13.05.2026 und 02.06.2026 treten zum 01.07.2026 zur Abrechnung des 3. Quartals | Version | Datum | Autor | Änderung |
+| DOKUMENTENHISTORIE | Die Änderungen vom 13.05.2026 und 02.06.2026 sowie 08.07.2026 treten zum 01.07.2026 zur Abrechnung | Version | Datum | Autor | Änderung |
 |---|---|---|---|---|---|
+| 6.06 | 08.07.2026 | KBV |  | Anpassung an | 118 |
 | 6.05 | 27.05.2026 | KBV |  | Anpassungen | 107  112 |
 | 6.04 | 13.05.2026 | KBV | **ADT-Datenpaket  ** ›  ›  ›  ›  ›  ›  › |  | 36  79, 118  49  96, 112, 115  71, 97, 97  96, 108, 116  71, 38, 46,  56, 63, 191,  192, 192,  192, 40, 48,  58, 65, 128 |
 |  |  |  | **KADT-Datenpaket  ** ›  ›  ›  ›  › |  | 125   181  132, 143, 143  148  126, 128 |
-|  |  |  | **HDRG-Datenpaket  ** ›  ›  ›  ›  ›  ›  27.05.2026  KBV |  | 165  181  170, 181, 181  181, 185  166, 168 |
-| 6.03 | 09.03.2026 | KBV |  | Rückmeldung | 118 |
-| **Begründung** | **Seite** | 6.05 |  | › |  |
-| › |  | Anpassungen | 107  112  6.04  13.05.2026  KBV | **ADT-Datenpaket** | ›  ›  ›  ›  ›  ›  › |
-|  | 36 |  | 79 | , | 118 |
-|  |  |  | 49 |  | 96 |
-|  |  |  | , 112, 115 | 71 | , 97, 97 |
-|  |  |  | 96, 108, 116  71, 38, 46,  56 | , | 63, 191,  192, 192,  192, 40, 48,  58, 65, 128 **KADT-Datenpaket  ** › |
-|  |  |  | ›  ›  ›  ›      125 ›  › |  | 181  132, 143, 143  148  126, 128 |
+|  |  |  | **HDRG-Datenpaket  ** ›  ›  ›  › |  | 165  181  170, 181, 181  181, 185 |
+|  |  |  |  | **Begründung  Seite **   6.05  Anpassungen  107 | 6.06  08.07.2026  KBV  › |
+|  | Anpassung an | 118 |  | 27.05.2026 | KBV  › |
+|  | › |  |  |  | 112 |
+|  | 6.04 | 13.05.2026 | KBV **ADT-Datenpaket  ** ›  ›  › |  | ›  ›  ›  ›      36  79, 118 |
+|  | 49 |  | 96 | , | 112 |
+|  |  |  | , 115 |  | 71 |
+|  |  |  | , 97, 97 | 96 | , 108, 116 |
+|  |  |  | 71, 38, 46,  56, 63, 191,  192 | , | 192,  192, 40, 48,  58, 65, 128 **KADT-Datenpaket  ** ›  ›  ›  › |
+|  |  |  | ›      125   181  132, 143 ›  ›  › | , | 143  148  126, 128 **HDRG-Datenpaket  ** ›  › |
 
-2026 u.ff. in Kraft. Anpassung der Regel 770  Anpassung der Regel 834 FK 9212 angepasst Aufnahme der Regel 901 FK 4214 angepasst Anpassung der Regeln 308, 840 und 869 Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307, 776, 876 Redaktionelle Anpassung der FK 3006, 3010, 3011, 3012, 3013, 4109  der Human- genetik FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Regel 876 Redaktionelle Anpassung der FK 3010, 4109 FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307 und 876 Redaktionelle Anpassung der FK 3010, 4109 Anpassung der Regel 900 (Ände- aus der In- rung grün markiert)  dustrie/von Laboren
+des 3. Quartals 2026 u.ff. in Kraft. Klarstellung der Regel 901 (grün markiert) Anpassung der Regel 770 (grün markiert) Anpassung der Regel 834 (grün markiert) FK 9212 angepasst Aufnahme der Regel 901 FK 4214 angepasst Anpassung der Regeln 308, 840 und 869 Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307, 776, 876 Redaktionelle Anpassung der FK 3006, 3010, 3011, 3012, 3013, 4109  die KVDT An- forderung KP2-565 AK 2 der Human- genetik FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Regel 876 Redaktionelle Anpassung der FK 3010, 4109 FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307 und 876
 
 ---
 
-\| Autor | Änderung | Begründung | Seite | 6.02 | 20.02.2026 |
+\| Autor | Änderung | Begründung | Seite | › |  |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| KBV | › |  |  | KBV | **ADT-Datenpaket  ** ›  › |
-|  | › |  | 36  79, 82, 118,  118  50, 118 |  | 6.00  14.11.2025  KBV **Allgemein **     ›    Alle **Besa-Datenpaket ** ›  ›      29  32 **ADT-Datenpaket  ** ›  ›  ›  ›  ›  ›      36  75, 196  74  44, 53, 61,67,  85  95 |
-|  |  |  | 103 **HDRG-Datenpaket ** ›  ›  ›  › |  | ›      165  175  169, 176  180  183 |
-|  |  |  | › |  |  |
-|  |  |  |  |  |  |
+| 166 | , | 168 |  | 09.03.2026 | KBV  › |
+|  | Rückmeldung | 118 |  | › | 6.01 |
+| 13.02.2026 | KBV | **ADT-Datenpaket** | ›  ›  ›      36  79, 82, 118 | , | 118  50, 118  6.00  14.11.2025  KBV **Allgemein **     ›    Alle **Besa-Datenpaket ** ›  ›      29  32 **ADT-Datenpaket  ** ›  ›  ›  ›  ›  ›      36  75, 196  74  44, 53, 61 |
+|  |  |  | ,67,  85  95  103 **HDRG-Datenpaket ** › |  | ›  ›  ›  ›      165  175  169, 176 |
+|  |  |  | 180  183 |  |  |
+|  |  |  |  | ›  ›  › | 166, 168 |
+| 6.03 | 09.03.2026 | KBV |  | Rückmeldung | 118 |
 | 6.02 | 20.02.2026 | KBV |  |  |  |
 | 6.01 | 13.02.2026 | KBV | **ADT-Datenpaket  ** ›  ›  › |  | 36  79, 82, 118,  118  50, 118 |
 | 6.00 | 14.11.2025 | KBV | **Allgemein** |  |  |
 |  |  |  | › |  | Alle |
 |  |  |  | **Besa-Datenpaket ** ›  › |  | 29  32 |
 |  |  |  | **ADT-Datenpaket  ** ›  ›  ›  ›  ›  › |  | 36  75, 196  74  44, 53, 61,67,  85  95  103 |
-|  |  |  | **HDRG-Datenpaket ** ›  ›  ›  ›  ›      6.01  13.02.2026 |  | 165  175  169, 176  180  183 |
+|  |  |  | **HDRG-Datenpaket ** ›  ›  ›  ›  ›    6.03    6.02  20.02.2026  KBV |  | 165  175  169, 176  180  183 |
 
-Fehlerhafte Regel 539 gestrichen FK 9212 angepasst Aufnahme der Regel 899 und 900 FK 4219  Konkretisierung der Er- läuterung  Aktualisierung des Layouts Korrektur des Beispiels und Anpas- sung Wertebereich FK 0225 Anpassung der Regel 177 FK 9212 angepasst Aktualisierung der FK 4114 Anpassung der FK 4101 Anpassung der FK 5041 Aufnahme der Regel 178 Aufnahme der Regel 706 FK 9212 angepasst Anpassung der FK 5028 Anpassung der FK 5041 Aufnahme der Regel 178 Aufnahme der Regel 706
+Redaktionelle Anpassung der FK 3010, 4109 Anpassung der Regel 900 (Ände- aus der In- rung grün markiert)  dustrie/von Laboren Fehlerhafte Regel 539 gestrichen FK 9212 angepasst Aufnahme der Regel 899 und 900 FK 4219  Konkretisierung der Er- läuterung  Aktualisierung des Layouts Korrektur des Beispiels und Anpas- sung Wertebereich FK 0225 Anpassung der Regel 177 FK 9212 angepasst Aktualisierung der FK 4114 Anpassung der FK 4101 Anpassung der FK 5041 Aufnahme der Regel 178 Aufnahme der Regel 706 FK 9212 angepasst Anpassung der FK 5028 Anpassung der FK 5041 Aufnahme der Regel 178 Aufnahme der Regel 706
 
 ---
 
@@ -1229,7 +1233,7 @@ hausärzte im Rahmen der ASV-Abrechnung kenhaus-Adresse haus-Adresse haus-Adress
 | 0304 |  |  | n |  |  | Analyt-ID | m | Regel 740 |  |
 | 0305 |  |  |  | 1 |  | RV-Zertifikat | m |  |  |
 
-Satzart: Ringversuchszertifikate „rvsa“ Konnektorzertifikats tors ponente stattung der Praxis pflichtigen) Laborleistungen Hersteller suchszertifikate rechnung von Labor- leistungen innerhalb der Betriebsstätte use-Verwendung
+Konnektorzertifikats tors ponente stattung der Praxis Satzart: Ringversuchszertifikate „rvsa“ pflichtigen) Laborleistungen Hersteller suchszertifikate rechnung von Labor- leistungen innerhalb der Betriebsstätte use-Verwendung
 
 ---
 
@@ -8429,7 +8433,7 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | Erlaubte Inhalte und deren Bedeu- | Beispiel |
 | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123 | Personenkreis / Un- | 2 | n | 149 |
 |  | kvx3 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson |
-| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben | 5 | a |
+| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben | 5 | a |
 | 734 |  | kvx3 |  | Österreich | 4125 | Gültigkeitszeitraum |
 | 16 | n | 058 |  | 363 |  | kvx3 |
 |  | 201910012019101 | 4126 | SKT-Bemerkungen |  | a | kvx3 |
@@ -8477,7 +8481,7 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 | 02 = Dialyse-Sachkosten | 03 = Methadon-Substitutionsbe- | 04 = persönlich erbrachte Notfallleis- | 05 = sonstige Notfallleistungen durch | 06 = Fremde Zytologie  07 = Diabetesabrechnung | 08 = Umweltmedizin | 09 = Rheuma |
 | 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123 | Personenkreis / Un- | 2 | n |
 | 149 |  | kvx3 | 01 = Beschädigter | 02 = Schwerbeschädigter  03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson |
-| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734 |  | kvx3 |
+| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734 |  | kvx3 |
 |  | Österreich | 4125 | Gültigkeitszeitraum | 16  n  058 | 363 |  |
 | kvx3 |  | 201910012019101 | 4126 | SKT-Bemerkungen   a  kvx3 | 4131  BesonderePerso- 2  a  534 |  |
 | 778 |  | 779 |  | 780  818  827  00 = keine Besondere Personen- 04 = BSHG (Bundessozialhilfegesetz) |  |  |
@@ -8494,13 +8498,13 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 | 827 |  | 00 = keine Besondere Personen- | 04 = BSHG (Bundessozialhilfegesetz) |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- 05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b |
-| 4123 | Personenkreis / Un- | 2 | n | 149  kvx3 | 01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte | 03 |
+| 4123 | Personenkreis / Un- | 2 | n | 149  kvx3 | 01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte | 03 |
 | 4124 | SKT-Zusatzangaben | 5 | a | 734  kvx3 |  | Österreich |
 | 4125 | Gültigkeitszeitraum | 16 | n | 058  363  kvx3 |  | 201910012019101 |
 | 4126 | SKT-Bemerkungen |  | a | kvx3 |  |  |
 | 4131 | BesonderePerso- | 2 | a | 534  778  779  780  818  827 | 00 = keine Besondere Personen- 04 = BSHG (Bundessozialhilfegesetz) |  |
 |  |  |  |  |  | 02 = Dialyse-Sachkosten | 03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- n  05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin |
-| 09 = Rheuma | 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123  Personenkreis / Un- | 2  n  149  kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum | 16 |
+| 09 = Rheuma | 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123  Personenkreis / Un- | 2  n  149  kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum | 16 |
 |  |  |  |  |  |  | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- 05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  4123  Personenkreis / Un- 2  n  149 |
 | kvx3 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger | 04 = Hinterbliebener  05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung |
 | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung | 11 = Ergänzungsuntersuchung | 12 = Verfolgte  03 | 4124 | SKT-Zusatzangaben |
@@ -8527,7 +8531,7 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 | Gültigkeitszeitraum | 16 | n | 058 | 363  kvx3    201910012019101 4126  SKT-Bemerkungen   a  kvx3      4131  BesonderePerso- | 2  a  534  778  779  780  818  827  00 = keine Besondere Personen- | 04 = BSHG (Bundessozialhilfegesetz) |
 |  |  |  |  |  |  | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- 05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen |
 | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123 | Personenkreis / Un- | 2  n  149  kvx3  01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger |
-| 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben | 5 | a |
+| 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben | 5 | a |
 | 734 |  | kvx3 |  | Österreich | 4125 | Gültigkeitszeitraum |
 | 16 | n | 058 |  | 363 |  | kvx3 |
 |  | 201910012019101 | 4126 | SKT-Bemerkungen |  a  kvx3 |  | 4131 |
@@ -8535,7 +8539,7 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 |  | 818 |  | 827 | 00 = keine Besondere Personen- | 04 = BSHG (Bundessozialhilfegesetz) |  |
 | 02 = Dialyse-Sachkosten | 03 = Methadon-Substitutionsbe- | 04 = persönlich erbrachte Notfallleis- | 05 = sonstige Notfallleistungen durch | 06 = Fremde Zytologie  07 = Diabetesabrechnung | 08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren | 15 = AOP nach §115b |
 | 4123 | Personenkreis / Un- | 2 | n | 149  kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson |
-| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a | 734 |  |
+| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a | 734 |  |
 | kvx3 |  | Österreich | 4125 | Gültigkeitszeitraum | 16 | n |
 | 058 |  | 363 |  | kvx3    201910012019101 4126 | SKT-Bemerkungen |  |
 | a | kvx3 |  |  | 4131  BesonderePerso- 2  a  534 | 778 |  |
@@ -8543,7 +8547,7 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 |  | 00 = keine Besondere Personen- | 04 = BSHG (Bundessozialhilfegesetz) |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- 05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin  09 = Rheuma |
-| 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b  4123 | Personenkreis / Un- | 2  n  149  kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n  058  363  kvx3 | 201910012019101 | 4126 |
+| 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b  4123 | Personenkreis / Un- | 2  n  149  kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n  058  363  kvx3 | 201910012019101 | 4126 |
 | SKT-Bemerkungen |  | a | kvx3 |  |  | 4131 |
 | BesonderePerso- | 2 | a | 534 | 778 |  | 779 |
 |  | 780 |  | 818 | 827  00 = keine Besondere Personen- | 04 = BSHG (Bundessozialhilfegesetz) |  |
@@ -8572,7 +8576,7 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 | 04 = persönlich erbrachte Notfallleis- | 05 = sonstige Notfallleistungen durch | 06 = Fremde Zytologie | 07 = Diabetesabrechnung | 08 = Umweltmedizin | 09 = Rheuma | 10 = Hirnleistungsstörungen |
 | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123 | Personenkreis / Un- | 2 | n | 149 |
 |  | kvx3 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson |
-| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a | 734  kvx3 |  |
+| 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a | 734  kvx3 |  |
 | Österreich | 4125 | Gültigkeitszeitraum | 16 | n  058 |  | 363 |
 |  | kvx3 |  | 201910012019101 | 4126  SKT-Bemerkungen |  a  kvx3 |  |
 |  | 4131 | BesonderePerso- | 2 | a  534  778 |  | 779 |
@@ -8584,20 +8588,20 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- 05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  4123 |
 | Personenkreis / Un- | 2 | n | 149 | kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung |
-| 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung | 11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n | 058 |  |
+| 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung | 11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n | 058 |  |
 | 363 |  | kvx3 |  | 201910012019101 4126  SKT-Bemerkungen   a  kvx3      4131  BesonderePerso- 2  a  534  778  779  780  818 |  | 827 |
 |  | 00 = keine Besondere Personen- | 04 = BSHG (Bundessozialhilfegesetz) |  |  |  |  |
 |  |  |  |  |  |  |  |
 | 02 = Dialyse-Sachkosten | 03 = Methadon-Substitutionsbe- | 04 = persönlich erbrachte Notfallleis- | 05 = sonstige Notfallleistungen durch | 06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123 |
 | Personenkreis / Un- | 2 | n | 149 | kvx3 | 01 = Beschädigter | 02 = Schwerbeschädigter |
-| 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n  058  363  kvx3    201910012019101 4126  SKT-Bemerkungen   a  kvx3 |  |  |
+| 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n  058  363  kvx3    201910012019101 4126  SKT-Bemerkungen   a  kvx3 |  |  |
 | 4131 | BesonderePerso- | 2 | a | 534  778 | 779  780 | 818 |
 |  | 827 |  | 00 = keine Besondere Personen- | 04 = BSHG (Bundessozialhilfegesetz) |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- 05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung | 08 = Umweltmedizin  09 = Rheuma |
-| 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123 | Personenkreis / Un- 2  n | 149  kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung 12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n  058  363  kvx3 | 201910012019101 |
+| 10 = Hirnleistungsstörungen | 14 = Ambulantes Operieren | 15 = AOP nach §115b | 4123 | Personenkreis / Un- 2  n | 149  kvx3  01 = Beschädigter  02 = Schwerbeschädigter  03 = Angehöriger  04 = Hinterbliebener  05 = Pflegeperson  06 = Tauglichkeitsuntersuchung  07 = ärztl. Versorgung   08 = Bewerber  09 = Erstuntersuchung  10 = Nachuntersuchung  11 = Ergänzungsuntersuchung  12 = Verfolgte  03  4124  SKT-Zusatzangaben  5  a  734  kvx3    Österreich  4125  Gültigkeitszeitraum  16  n  058  363  kvx3 | 201910012019101 |
 |  |  |  |  |  |  | 02 = Dialyse-Sachkosten  03 = Methadon-Substitutionsbe- 04 = persönlich erbrachte Notfallleis- 05 = sonstige Notfallleistungen durch  06 = Fremde Zytologie  07 = Diabetesabrechnung  08 = Umweltmedizin  09 = Rheuma  10 = Hirnleistungsstörungen  14 = Ambulantes Operieren  15 = AOP nach §115b  4123  Personenkreis / Un- 2  n  149 |
 |  | kvx3 | 01 = Beschädigter | 02 = Schwerbeschädigter | 03 = Angehöriger | 04 = Hinterbliebener | 05 = Pflegeperson |
 | 06 = Tauglichkeitsuntersuchung | 07 = ärztl. Versorgung | 08 = Bewerber | 09 = Erstuntersuchung | 10 = Nachuntersuchung  11 = Ergänzungsuntersuchung | 12 = Verfolgte | 03 |
@@ -8694,7 +8698,7 @@ tersuchungskatego- von ... bis ...    nengruppe handlung tungen durch ermächtig
 |  |  |  |  |  |  |  |
 | 06 = SER (Soziales Entschädigungs- | 8 |  | 07 = SVA-Kennzeichnung für zwi- | 08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- 4132  DMP_Kennzeich- 2  a | 537 |  |
 | 00 = kein DMP-Kennzeichnen | (Defaultwert) | 01 = Diabetes mellitus Typ 2 | 02 = Brustkrebs | 03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale |
-|  | 06 = COPD (chronic obstructive pul- | monary disease) |  | 07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma | 11 = Osteoporose | 12 = Adipositas |
+|  | 06 = COPD (chronic obstructive pul- | monary disease) |  | 07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma | 11 = Osteoporose | 12 = Adipositas |
 | 30 = Diabetes Typ 2 und KHK | 31 = Asthma und Diabetes Typ 2 | 32 = COPD und Diabetes Typ 2 | 33 = COPD und KHK | 34 = COPD, Diabetes Typ 2 und KHK | 35 = Asthma und KHK | 36 = Asthma, Diabetes Typ 2 und |
 | 37 = Brustkrebs und Diabetes Typ 2 | 38 = Diabetes Typ 1 und KHK | 39 = Asthma und Diabetes Typ 1 | 40 = Asthma und Brustkrebs | 41 = Brustkrebs und KHK |  | 8 |
 |  |  |  |  |  |  |  |
@@ -8720,13 +8724,13 @@ tersuchungskatego- von ... bis ...    nengruppe handlung tungen durch ermächtig
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 06 = SER (Soziales Entschädigungs- 8  07 = SVA-Kennzeichnung für zwi- 08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- 4132  DMP_Kennzeich- 2  a |
-| 537 |  | 00 = kein DMP-Kennzeichnen | (Defaultwert) | 01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas | 30 = Diabetes Typ 2 und KHK |
+| 537 |  | 00 = kein DMP-Kennzeichnen | (Defaultwert) | 01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas | 30 = Diabetes Typ 2 und KHK |
 | 31 = Asthma und Diabetes Typ 2 | 32 = COPD und Diabetes Typ 2 | 33 = COPD und KHK | 34 = COPD, Diabetes Typ 2 und KHK | 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2 | 38 = Diabetes Typ 1 und KHK | 39 = Asthma und Diabetes Typ 1 |
 | 40 = Asthma und Brustkrebs | 41 = Brustkrebs und KHK |  | 8 |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 06 = SER (Soziales Entschädigungs- 8 8   07 = SVA-Kennzeichnung für zwi- 08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- |
-| 4132 | DMP_Kennzeich- | 2 | a | 537 | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK |  |
+| 4132 | DMP_Kennzeich- | 2 | a | 537 | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK |  |
 |  |  |  |  |  |  | 06 = SER (Soziales Entschädigungs- 8  07 = SVA-Kennzeichnung für zwi- 08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- 4132  DMP_Kennzeich- 2  a  537  00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs |
 | 03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale |  | 06 = COPD (chronic obstructive pul- monary disease) |  | 07 = Chronische Herzinsuffizienz |
 | 08 = Depression | 09 = Rückenschmerz | 10 = Rheuma | 11 = Osteoporose | 12 = Adipositas  30 = Diabetes Typ 2 und KHK | 31 = Asthma und Diabetes Typ 2 | 32 = COPD und Diabetes Typ 2 |
@@ -8769,7 +8773,7 @@ tersuchungskatego- von ... bis ...    nengruppe handlung tungen durch ermächtig
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 06 = SER (Soziales Entschädigungs- 8  07 = SVA-Kennzeichnung für zwi- 08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- 4132 |
-| DMP_Kennzeich- | 2 | a  537 |  | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK    8 |  |  |
+| DMP_Kennzeich- | 2 | a  537 |  | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK    8 |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -8816,14 +8820,14 @@ tersuchungskatego- von ... bis ...    nengruppe handlung tungen durch ermächtig
 |  |  |  |  |  |  |  |
 |  | 06 = SER (Soziales Entschädigungs- | 8 |  | 07 = SVA-Kennzeichnung für zwi- 08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- 4132  DMP_Kennzeich- 2 | a | 537 |
 |  | 00 = kein DMP-Kennzeichnen | (Defaultwert) | 01 = Diabetes mellitus Typ 2 | 02 = Brustkrebs  03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale |
-|  | 06 = COPD (chronic obstructive pul- | monary disease) |  | 07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK    8 |  |  |
+|  | 06 = COPD (chronic obstructive pul- | monary disease) |  | 07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK    8 |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  | 06 = SER (Soziales Entschädigungs- 8  07 = SVA-Kennzeichnung für zwi- 08 = SVA-Kennzeichnung, pauschal | 09 = Empfänger von Gesundheitsleis- 4132 |
-| DMP_Kennzeich- | 2 | a | 537 | 00 = kein DMP-Kennzeichnen           (Defaultwert) | 01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK    8 |  |
+| DMP_Kennzeich- | 2 | a | 537 | 00 = kein DMP-Kennzeichnen           (Defaultwert) | 01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK    8 |  |
 |  |  |  |  |  |  | 06 = SER (Soziales Entschädigungs- 8  07 = SVA-Kennzeichnung für zwi- 08 = SVA-Kennzeichnung, pauschal  09 = Empfänger von Gesundheitsleis- 4132  DMP_Kennzeich- 2  a  537  00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2 |
 | 02 = Brustkrebs | 03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale |  | 06 = COPD (chronic obstructive pul- | monary disease) |
 |  | 07 = Chronische Herzinsuffizienz | 08 = Depression | 09 = Rückenschmerz | 10 = Rheuma  11 = Osteoporose | 12 = Adipositas | 30 = Diabetes Typ 2 und KHK |
@@ -9363,7 +9367,7 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 | n | 142 |  | 1 = ja |  | 4239 | Scheinuntergruppe |
 | 2 | n | 331 |  | 354  356 |  | 426 |
 |  | 427 |  | 754 |  | 755 |  |
-| kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = |  | erlaubte Inhalte bei Satzart 0102  20 = | 21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- |
+| kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = |  | erlaubte Inhalte bei Satzart 0102 20 = | 21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- |
 |  | erlaubte Inhalte bei Satzart 0103 | 30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung | 24 |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -9376,15 +9380,15 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 |  |  | 20191001 | 4236 | Abklärung somati- | 1 | n |
 | 142 |  | 1 = ja |  | 4239 | Scheinuntergruppe | 2 |
 | n | 331 |  | 354 | 356 |  | 426 |
-|  | 427 |  | 754 | 755  kvx2  erlaubte Inhalte bei Satzart 0101  00 =    erlaubte Inhalte bei Satzart 0102  20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103  30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung  24 |  |  |
+|  | 427 |  | 754 | 755  kvx2  erlaubte Inhalte bei Satzart 0101 00 =    erlaubte Inhalte bei Satzart 0102 20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103 30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung  24 |  |  |
 |  |  |  |  |  |  |  |
 | 4229 | Ausnahmeindika- | 5 | n | 432 |  | 87777 |
 | 4233 | Stationäre Behand- | 16 | n | 058 |  | 354 |
 |  |  | 201910012019101 | 4234 | anerkannte Psycho- 1 | n | 142 |
 |  | 1 = ja |  | 4235 | Datum des Anerken- 8  d      20191001  4236  Abklärung somati- 1 | n | 142 |
 |  | 1 = ja |  | 4239 | Scheinuntergruppe  2  n  331 |  | 354 |
-|  | 356 |  | 426 | 427  754  755 | kvx2  erlaubte Inhalte bei Satzart 0101  00 = | erlaubte Inhalte bei Satzart 0102 |
-| 20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103  30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung  24 |  |  |
+|  | 356 |  | 426 | 427  754  755 | kvx2  erlaubte Inhalte bei Satzart 0101 00 = | erlaubte Inhalte bei Satzart 0102 |
+| 20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103 30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung  24 |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 4229  Ausnahmeindika- 5  n |
@@ -9402,7 +9406,7 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 |  | 20191001 | 4236 | Abklärung somati- | 1  n  142 |  | 1 = ja |
 |  | 4239 | Scheinuntergruppe | 2 | n  331  354 | 356 |  |
 | 426 |  | 427 |  | 754 |  | 755 |
-|  | kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = | erlaubte Inhalte bei Satzart 0102  20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103  30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung  24 |  |
+|  | kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = | erlaubte Inhalte bei Satzart 0102 20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung  24 |  |
 |  |  |  |  |  | 4229 | Ausnahmeindika- 5  2  n  432 |
 | 87777 | 4233 | Stationäre Behand- | 16 | n  058 | 354    201910012019101 4234  anerkannte Psycho- 1  n  142  1 = ja     4235  Datum des Anerken- 8  d      20191001  4236  Abklärung somati- 1  n  142  1 = ja    4239 | Scheinuntergruppe |
 |  |  |  |  |  |  | 4229  Ausnahmeindika- 5  n  432    87777  4233  Stationäre Behand- 16  n  058  354 |
@@ -9417,7 +9421,7 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 |  | 1 = ja |  | 4235 | Datum des Anerken- 8 | d |  |
 |  | 20191001 | 4236 | Abklärung somati- | 1  n  142  1 = ja    4239 | Scheinuntergruppe | 2 |
 | n | 331 |  | 354 | 356  426  427  754  755  kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = |
-|  | erlaubte Inhalte bei Satzart 0102 | 20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103  30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung  24 |  |  |
+|  | erlaubte Inhalte bei Satzart 0102 | 20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103 30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung  24 |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -9428,29 +9432,29 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 | 4234 | anerkannte Psycho- | 1 | n | 142 | 1 = ja |  |
 | 4235 | Datum des Anerken- | 8 | d |  |  | 20191001 |
 | 4236 | Abklärung somati- | 1 | n | 142 | 1 = ja |  |
-| 4239 | Scheinuntergruppe | 2 | n | 331  354  356  426  427  754  755  kvx2 | erlaubte Inhalte bei Satzart 0101  00 =    erlaubte Inhalte bei Satzart 0102  20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103  30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung | 24 |
+| 4239 | Scheinuntergruppe | 2 | n | 331  354  356  426  427  754  755  kvx2 | erlaubte Inhalte bei Satzart 0101 00 =    erlaubte Inhalte bei Satzart 0102 20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103 30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung | 24 |
 |  |  |  |  |  |  | 4229  Ausnahmeindika- 5  n  432    87777  4233 |
 | Stationäre Behand- | 16 | n | 058 | 354    201910012019101 4234 | anerkannte Psycho- | 1 |
 | n | 142 |  | 1 = ja | 4235  Datum des Anerken- 8  d      20191001 | 4236 | Abklärung somati- |
 | 1 | n | 142 |  | 1 = ja |  | 4239 |
 | Scheinuntergruppe | 2 | n | 331 |  | 354 |  |
 | 356 |  | 426 |  | 427  754 | 755 |  |
-| kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = |  | erlaubte Inhalte bei Satzart 0102  20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- |
+| kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = |  | erlaubte Inhalte bei Satzart 0102 20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- |
 | 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- |  | erlaubte Inhalte bei Satzart 0103 | 30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung | 24 |  |
 | 4229 | Ausnahmeindika- | 5 | n | 432 | 87777  4233  Stationäre Behand- | 16 |
 | n | 058 |  | 354 | 201910012019101 4234  anerkannte Psycho- 1 | n | 142 |
 |  | 1 = ja |  | 4235 | Datum des Anerken- 8  d      20191001  4236  Abklärung somati- | 1 | n |
 | 142 |  | 1 = ja |  | 4239 | Scheinuntergruppe | 2 |
 | n | 331 |  | 354 | 356  426 |  | 427 |
-|  | 754 |  | 755 | kvx2  erlaubte Inhalte bei Satzart 0101  00 =    erlaubte Inhalte bei Satzart 0102 | 20 = | 21 = Auftragsleistungen (Defaultwert |
+|  | 754 |  | 755 | kvx2  erlaubte Inhalte bei Satzart 0101 00 =    erlaubte Inhalte bei Satzart 0102 | 20 = | 21 = Auftragsleistungen (Defaultwert |
 | 23 = Konsiliaruntersuchung | 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- | 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- |  | erlaubte Inhalte bei Satzart 0103 |
 | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 24 |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | 4229  Ausnahmeindika- 5  n  432    87777 |
 | 4233 | Stationäre Behand- | 16  n | 058 | 354    201910012019101 4234  anerkannte Psycho- 1  n  142  1 = ja     4235  Datum des Anerken- 8  d      20191001  4236  Abklärung somati- 1  n  142  1 = ja    4239  Scheinuntergruppe  2  n  331  354  356 |  | 426 |
 |  | 427 |  | 754 |  | 755 |  |
-| kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = |  | erlaubte Inhalte bei Satzart 0102  20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung |
-| 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- | 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- | erlaubte Inhalte bei Satzart 0103  30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung | 24 |  |
+| kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = |  | erlaubte Inhalte bei Satzart 0102 20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung |
+| 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- | 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- | erlaubte Inhalte bei Satzart 0103 30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung | 24 |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -9479,7 +9483,7 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 |  | 1 = ja |  | 4235 | Datum des Anerken- 8  d      20191001  4236  Abklärung somati- | 1  n  142 |  |
 | 1 = ja |  | 4239 | Scheinuntergruppe | 2  n | 331 |  |
 | 354 |  | 356 |  | 426 | 427  754 |  |
-| 755 |  | kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 =    erlaubte Inhalte bei Satzart 0102  20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung |
+| 755 |  | kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 =    erlaubte Inhalte bei Satzart 0102 20 = | 21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung |
 | 24 = Mit-/Weiterbehandlung | 26 = Stationäre Mitbehandlung, Ver- | 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- | erlaubte Inhalte bei Satzart 0103 | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung |
 | 24 |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -9489,13 +9493,13 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 |  |  |  |  |  |  | 4229  Ausnahmeindika- 5  n  432    87777  4233  Stationäre Behand- 16  n |
 | 058 |  | 354 |  | 201910012019101 4234  anerkannte Psycho- 1  n | 142 |  |
 | 1 = ja |  | 4235 | Datum des Anerken- | 8  d      20191001  4236  Abklärung somati- 1  n  142  1 = ja    4239  Scheinuntergruppe  2 | n | 331 |
-|  | 354 |  | 356 | 426  427  754  755  kvx2  erlaubte Inhalte bei Satzart 0101  00 =    erlaubte Inhalte bei Satzart 0102  20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora- |  | erlaubte Inhalte bei Satzart 0103 |
+|  | 354 |  | 356 | 426  427  754  755  kvx2  erlaubte Inhalte bei Satzart 0101 00 =    erlaubte Inhalte bei Satzart 0102 20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora- |  | erlaubte Inhalte bei Satzart 0103 |
 | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 24 |  |  |  |  |
 |  |  |  |  |  |  |  |
 | 4229 | Ausnahmeindika- | 5 | n | 432    87777  4233  Stationäre Behand- | 16 | n |
 | 058 |  | 354 |  | 201910012019101 | 4234 | anerkannte Psycho- |
 | 1 | n | 142 |  | 1 = ja     4235  Datum des Anerken- 8  d      20191001  4236  Abklärung somati- 1  n  142  1 = ja    4239  Scheinuntergruppe  2  n  331  354  356  426  427  754 |  | 755 |
-|  | kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = | erlaubte Inhalte bei Satzart 0102  20 =  21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- |
+|  | kvx2 | erlaubte Inhalte bei Satzart 0101 | 00 = | erlaubte Inhalte bei Satzart 0102 20 =  21 = Auftragsleistungen (Defaultwert | 23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- | 28 = Anforderungsschein für Labora- |
 |  | erlaubte Inhalte bei Satzart 0103 | 30 = Belegärztliche Behandlung | 31 = Belegärztliche Mitbehandlung | 24 |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -9613,7 +9617,7 @@ lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Ps
 |  | 845 |  |  | 4250  Kombinationsbe- 1  n  142  1 = ja |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst |
+|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst |
 | 42 = Urlaubs-/bzw. Krankheitsvertre- | 43 = Notfall | 44 = Notfalldienst mit Taxi | 45 = Notarzt-/Rettungswagen (Ret- | 46 = Zentraler Notfalldienst | 4241 | Lebenslange Arzt- 9 |
 | n | 056 |  | 762 | 844      4242  Lebenslange Arzt- 9 | n | 056 |
 |  | 721 |  | 762 | 845 |  |  |
@@ -9623,15 +9627,15 @@ lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Ps
 | Pseudo-LANR (für | 9 | n | 064 | 845      4250 | Kombinationsbe- | 1 |
 | n | 142 |  | 1 = ja |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- |
+|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- |
 | 9 | n | 056 |  | 762  844 | 4242  Lebenslange Arzt- 9  n  056  721  762 |  |
 | 845 |  |  |  | 4243  Weiterbehandeln-  | a |  |
 |  | Dr. Meier | 4247 | Antragsdatum (des | 8  d | 4248 | Pseudo-LANR (für |
 | 9 | n | 064 |  | 844 |  |  |
 |  | 4249 | Pseudo-LANR (für | 9 | n  064  845      4250  Kombinationsbe- 1  n  142 | 1 = ja |  |
-|  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre- | erlaubte Inhalte bei Satzart 0104  Antragsdatum (des  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi |
+|  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre- | erlaubte Inhalte bei Satzart 0104 Antragsdatum (des  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi |
 | 45 = Notarzt-/Rettungswagen (Ret- | 46 = Zentraler Notfalldienst | 4241 | Lebenslange Arzt- | 9  n | 056  762  844      4242  Lebenslange Arzt- 9  n  056  721  762  845      4243  Weiterbehandeln-  a      Dr. Meier | 4247 |
-|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- 9  n  056  762 |
+|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- 9  n  056  762 |
 | 844 |  |  |  | 4242  Lebenslange Arzt- | 9 | n |
 | 056 |  | 721 |  | 762 | 845 |  |
 |  |  | 4243 | Weiterbehandeln- |  a |  |  |
@@ -9655,7 +9659,7 @@ lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Ps
 |  | 721 |  | 762 |  | 845 |  |
 |  |  | 4243 | Weiterbehandeln- |  a |  |  |
 | Dr. Meier | 4247 | Antragsdatum (des | 8 | d        4248  Pseudo-LANR (für  9  n  064  844      4249 | Pseudo-LANR (für  9  n  064  845      4250  Kombinationsbe- 1  n  142 | 1 = ja |
-|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst |
+|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst |
 | 4241 | Lebenslange Arzt- | 9 | n | 056  762  844 |  |  |
 | 4242 | Lebenslange Arzt- | 9 | n | 056  721  762  845 |  |  |
 | 4243 | Weiterbehandeln- |  | a |  |  | Dr. Meier |
@@ -9672,7 +9676,7 @@ lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Ps
 |  |  |  | 4250 | Kombinationsbe- | 1 | n |
 | 142 |  | 1 = ja |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- |
+|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- |
 | 46 = Zentraler Notfalldienst | 4241 | Lebenslange Arzt- 9 | n | 056  762  844      4242  Lebenslange Arzt- 9  n  056  721  762  845      4243  Weiterbehandeln-  a      Dr. Meier   4247  Antragsdatum (des  8  d        4248 | Pseudo-LANR (für | 9 |
 | n | 064 |  | 844 |  |  |  |
 | 4249 | Pseudo-LANR (für | 9 | n | 064 | 845 |  |
@@ -9712,7 +9716,7 @@ lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Ps
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- 9 |
+|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- 9 |
 | n | 056 |  | 762 | 844      4242 | Lebenslange Arzt- | 9 |
 | n | 056 |  | 721 | 762  845      4243  Weiterbehandeln-  a      Dr. Meier   4247  Antragsdatum (des | 8 | d |
 |  |  |  | 4248 | Pseudo-LANR (für  9  n  064  844      4249  Pseudo-LANR (für  9  n  064  845      4250  Kombinationsbe- | 1 | n |
@@ -9726,9 +9730,9 @@ lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Ps
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall | 44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- |
+|  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall | 44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- |
 | 46 = Zentraler Notfalldienst | 4241 | Lebenslange Arzt- | 9 | n  056 | 762  844      4242  Lebenslange Arzt- 9  n  056  721  762  845      4243  Weiterbehandeln-  a      Dr. Meier   4247  Antragsdatum (des  8  d        4248 | Pseudo-LANR (für |
-|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104  41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- 9  n  056  762 |
+|  |  |  |  |  |  | 32 = Urlaubs- bzw. Krankheitsvertre-   erlaubte Inhalte bei Satzart 0104 41 = Ärztlicher Notfalldienst  42 = Urlaubs-/bzw. Krankheitsvertre- 43 = Notfall  44 = Notfalldienst mit Taxi  45 = Notarzt-/Rettungswagen (Ret- 46 = Zentraler Notfalldienst  4241  Lebenslange Arzt- 9  n  056  762 |
 |  | 844 |  |  |  | 4242 | Lebenslange Arzt- |
 | 9 | n | 056 |  | 721 | 762 |  |
 | 845 |  |  |  | 4243  Weiterbehandeln-  a |  |  |
@@ -11751,8 +11755,8 @@ ADT-Datenpaket der Satzbeschrei- bung der AVS nungen von y Parameter ADT-Regelta
 | 005 | Format | HHMM | F | HH = Stunde, MM = Minute |
 | 016 | Format | QJJJJ | F | Q = Quartal, JJJJ = Jahr |
 | 017 | Format | nnmmm  F  nn = KV-Kennung | mmm = Seriennummer | Wertebereich nn: |
-| 01 = KV Schleswig-Holstein | 02 = KV Hamburg | 03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen | 09 = Hannover | 10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden  16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund  19 = Münster  20 = KV Westfalen-Lippe  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr |
-| 37 = Bergisch-Land | 38 = KV Nordrhein | 39 = Darmstadt | 40 = Frankfurt/Main | 41 = Gießen  42 = Kassel  43 = Limburg |
+| 01 = KV Schleswig-Holstein | 02 = KV Hamburg | 03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen | 09 = Hannover | 10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden  16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund  19 = Münster  20 = KV Westfalen-Lippe  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein |
+| 31 = Ruhr | 37 = Bergisch-Land | 38 = KV Nordrhein | 39 = Darmstadt | 40 = Frankfurt/Main  41 = Gießen  42 = Kassel |
 | 005 | Format | HHMM | F | HH = Stunde, MM = Minute |
 | 016 | Format | QJJJJ  F | Q = Quartal, JJJJ = Jahr  017  Format  nnmmm  F  nn = KV-Kennung | mmm = Seriennummer |
 | Wertebereich nn: | 01 = KV Schleswig-Holstein | 02 = KV Hamburg  03 = KV Bremen  06 = Aurich | 07 = Braunschweig  08 = Göttingen  09 = Hannover  10 = Hildesheim  11 = Lüneburg  12 = Oldenburg | 13 = Osnabrück  14 = Stade |
@@ -12013,8 +12017,8 @@ Wertebereich: 0000-2359
 | 48 = Rheinhessen | 49 = Pfalz | 50 = Trier | 51 = KV Rheinland-Pfalz | 52 = KV Baden-Württemberg |
 | 53 = Mannheim | 54 = Pforzheim | 55 = Karlsruhe | 56 = Baden-Baden | 57 = Freiburg |
 | 58 = Konstanz | 59 = Offenburg | 60 = Freiburg  61 = Stuttgart  62 = Reutlingen | 63 = München Stadt und Land | 64 = Oberbayern |
-| 65 = Oberfranken | 66 = Mittelfranken | 67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben | 71 = KV Bayerns | 72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpom- 79 = Potsdam  80 = Cottbus  81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen  94 = Chemnitz |
-| 95 = Dresden |  |  |  |  |
+| 65 = Oberfranken | 66 = Mittelfranken | 67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben | 71 = KV Bayerns | 72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpom- 79 = Potsdam  80 = Cottbus  81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen |
+| 94 = Chemnitz | 95 = Dresden |  |  |  |
 | 48 = Rheinhessen | 49 = Pfalz | 50 = Trier | 51 = KV Rheinland-Pfalz | 52 = KV Baden-Württemberg |
 | 53 = Mannheim | 54 = Pforzheim | 55 = Karlsruhe  56 = Baden-Baden | 57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen | 63 = München Stadt und Land |
 | 64 = Oberbayern | 65 = Oberfranken | 66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz | 69 = Niederbayern  70 = Schwaben  71 = KV Bayerns  72 = KV Berlin  73 = KV Saarland  74 = KBV | 78 = KV Mecklenburg-Vorpom- 79 = Potsdam |
@@ -12275,8 +12279,8 @@ mern
 | 96 = Leipzig | 98 = KV Sachsen | 99 = KBV-Pseudo-Nummer | 021 | Format |
 | JJJJMMTT | F | TT=Tag; MM=Monat; JJJJ=Jahr | zusätzlich erlaubter Wertebe- | 022 |
 | Format | ann, ann.n, ann.nn, ann.n- | F    027 | Format | JJJJ |
-| F | JJJJ = Jahr | 031  Format  [a]aaaMMJJ.nn  F | [a]aaa = Datenpaketkürzel, MM | 035  Format  G-alpha[n[n[n[n]]][K-al- oder  [G-alpha]n[n[n[n]]][K-al-       F  Mindestens ein Zeichen aus der  Wertevorrat:   G-alpha ::= A K-alpha ::= AB |
-|  | ... |  | Z | a |
+| F | JJJJ = Jahr | 031  Format  [a]aaaMMJJ.nn  F | [a]aaa = Datenpaketkürzel, MM | 035  Format  G-alpha[n[n[n[n]]][K-al- oder  [G-alpha]n[n[n[n]]][K-al-       F  Mindestens ein Zeichen aus der  Wertevorrat:   G-alpha ::= A K-alpha ::= A |
+| B |  | ... |  | Za |
 | 96 = Leipzig | 98 = KV Sachsen | 99 = KBV-Pseudo-Nummer | 021 | Format |
 | JJJJMMTT | F | TT=Tag; MM=Monat; JJJJ=Jahr  zusätzlich erlaubter Wertebe- | 022  Format  ann, ann.n, ann.nn, ann.n-  F    027 | Format |
 | JJJJ | F | JJJJ = Jahr  031  Format | [a]aaaMMJJ.nn  F  [a]aaa = Datenpaketkürzel, MM  035  Format  G-alpha[n[n[n[n]]][K-al- | oder  [G-alpha]n[n[n[n]]][K-al- |
@@ -12303,7 +12307,7 @@ mern
 | oder | [G-alpha]n[n[n[n]]][K-al- |  |  |  |
 | F | Mindestens ein Zeichen aus der | Wertevorrat:   G-alpha ::= A | K | - |
 | alpha ::= A |  | B | ... | Zabcd |
-| n ::= 0 |  | 1 |  | ...9  Lkz ::=  AB.Z01 |
+| n ::= 0 |  | 1 |  | ...9  Lkz ::=  AB.Z0 |
 |  |  |  | 96 = Leipzig | 98 = KV Sachsen |
 | 99 = KBV-Pseudo-Nummer | 021 | Format | JJJJMMTT | F |
 | TT=Tag; MM=Monat; JJJJ=Jahr | zusätzlich erlaubter Wertebe- | 022  Format | ann, ann.n, ann.nn, ann.n- | F |
@@ -12537,8 +12541,8 @@ pha[aerw]]][/Lkz] pha[aerw]][/Lkz] mäß Regel 162 reich: JJJJMM00, JJJJ0000, 00
 | nnnnnn = ID, wobei „nnn- | m = Prüfziffer | ff = erlaubter Inhalt ge- | 052 | Format |
 | a/n[n][n]/JJMM/nn/aaa |  |  | F | a = [V, X, Y, Z] |
 | n = numerisch | JJ = Jahr | MM = Monat  aaa = alphanumerisch  053 | Format | nnnnnn[n][n][n][n][n][n] |
-| F | n = numerisch | 054  Format  annnnnnnnP  F | a = A-Z (ohne Umlaute) | n = numerisch  P = Prüfziffer, numerisch  Verfahren zur Bestimmung der  194  055  Format  n[n][n].n[n][n].n[n][n]  F  n = numerisch  056  Format  nnnnnnmff  mit  nnnnnn = ID, wobei „nnn- m = Prüfziffer  ff = erlaubter Inhalt ge- |
-| W | Verfahren zur Bestimmung der | 5 |  | 058  Format  JJJJMMTTJJJJMMTT |
+| F | n = numerisch | 054  Format  annnnnnnnP  F | a = A-Z (ohne Umlaute) | n = numerisch  P = Prüfziffer, numerisch  Verfahren zur Bestimmung der  194  055  Format  n[n][n].n[n][n].n[n][n]  F  n = numerisch  056  Format  nnnnnnmff  mit  nnnnnn = ID, wobei „nnn- m = Prüfziffer |
+| ff = erlaubter Inhalt ge- | W | Verfahren zur Bestimmung der | 5 | 058  Format |
 | nnnnnn = ID, wobei „nnn- | m = Prüfziffer | ff = erlaubter Inhalt ge- | 052 | Format |
 | a/n[n][n]/JJMM/nn/aaa |  | F | a = [V, X, Y, Z]  n = numerisch  JJ = Jahr  MM = Monat  aaa = alphanumerisch  053 | Format |
 | nnnnnn[n][n][n][n][n][n] | F | n = numerisch  054  Format | annnnnnnnP  F  a = A-Z (ohne Umlaute)  n = numerisch  P = Prüfziffer, numerisch  Verfahren zur Bestimmung der | 194 |
@@ -12800,7 +12804,7 @@ nnn“ ungleich „555555“ sein muss mäß Anlage 35 des BAR- Schlüsselverzei
 | 061 | Format | 35kknnnnn | mit | 35 = Krankenhäuser, die |
 | kk = erlaubter Inhalt ge- | nnnnn = Seriennummer | F  (N)BSNR KH, die Leistungen im  Struktur der BSNR vgl. | 6 |  |
 |  | 062 | Format  74kknnn63  mit   74 = KBV | kk = erlaubter Inhalt ge- | nnn = Seriennummer  63 = Kennzeichnung SAPV  F  (N)BSNR SAPV  Struktur der BSNR vgl.7   063  Format  555555nff  mit   555555= Pseudo-Arzt- n = Ordnungsnummer   ff = Fachgruppencode ge- F  Pseudo-LANR für Krankenhaus- |
-| Wertevorrat: | n ::= 0 |  | 064 | Format  555555nff  mit |
+|  | Wertevorrat: | n ::= 0 |  | 064  Format  555555nff |
 | 060 | Format | JJJJMMTThhmmss | F | JJJJ = Jahr, MM = Monat, TT = |
 | 061 | Format | 35kknnnnn  mit | 35 = Krankenhäuser, die  kk = erlaubter Inhalt ge- nnnnn = Seriennummer  F  (N)BSNR KH, die Leistungen im  Struktur der BSNR vgl. | 6 |
 |  |  | 062  Format  74kknnn63 | mit   74 = KBV  kk = erlaubter Inhalt ge- nnn = Seriennummer  63 = Kennzeichnung SAPV  F | (N)BSNR SAPV  Struktur der BSNR vgl. |
@@ -13062,7 +13066,7 @@ Leistungen im Rahmen von § 75 Absatz 1a SGB V erbringen mäß Regel 162 mäß R
 |  | 108 | erlaubter Inhalt | 1, 2, 3, 4, 6 | F |
 |  | 109 | erlaubter Inhalt  V, Z, A, G  F |  | 110 |
 | erlaubter Inhalt | R, L, B | F    111  erlaubter Inhalt | Z1, Z2, Z3, Z4 | F  Wegegeldzonen  113  erlaubter Inhalt  0, 1, 2, 3  F    116  erlaubter Inhalt  1, 3, 5  F    129  erlaubter Inhalt  02-99  F |
-| 131 | erlaubter Inhalt | 00, 01, 02, 03, 04, 05, 06, | F | Abrechnungsgebiet   132  erlaubter Inhalt |
+|  | 131 | erlaubter Inhalt | 00, 01, 02, 03, 04, 05, 06, | F  Abrechnungsgebiet   132 |
 | Anlage 2 der Richtlinie der | 106 | erlaubter Inhalt | 1, 2, 3 | F |
 |  | 108 | erlaubter Inhalt  1, 2, 3, 4, 6 | F    109  erlaubter Inhalt  V, Z, A, G  F |  |
 | 110 | erlaubter Inhalt | R, L, B  F | 111  erlaubter Inhalt  Z1, Z2, Z3, Z4  F  Wegegeldzonen  113 | erlaubter Inhalt  0, 1, 2, 3 |
@@ -13089,7 +13093,7 @@ Leistungen im Rahmen von § 75 Absatz 1a SGB V erbringen mäß Regel 162 mäß R
 | erlaubter Inhalt | 0, 1, 2, 3 | F |  | 116 |
 | erlaubter Inhalt | 1, 3, 5 | F | 129 | erlaubter Inhalt |
 | 02-99 | F | 131 | erlaubter Inhalt | 00, 01, 02, 03, 04, 05, 06,  F  Abrechnungsgebiet   132  erlaubter Inhalt   01-99  F    142  erlaubter Inhalt   1 |
-| F |  | 147 | erlaubter Inhalt | 0,1  F    149  erlaubter Inhalt  01, 02, 03, 04, 05, 06, 07,  F  Personenkreis / Untersuchungs- 162  erlaubter Inhalt  01-03, 06-21, 24, 25, 27,  F  UKV-/OKV-Kennungen in den  174  erlaubter Inhalt  00, 01, 02, 03, 04, 05, 06, |
+| F |  | 147 | erlaubter Inhalt | 0,1  F    149  erlaubter Inhalt  01, 02, 03, 04, 05, 06, 07,  F  Personenkreis / Untersuchungs- 162  erlaubter Inhalt  01-03, 06-21, 24, 25, 27,  F  UKV-/OKV-Kennungen in den  174  erlaubter Inhalt |
 |  |  |  | Anlage 2 der Richtlinie der | 106 |
 | erlaubter Inhalt | 1, 2, 3 | F |  | 108 |
 | erlaubter Inhalt | 1, 2, 3, 4, 6 | F | 109 | erlaubter Inhalt |
@@ -13183,8 +13187,8 @@ Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Ar
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
 | 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- |
 | 203* | Existenzprüfung | GO-Stammdatei | - |  |
-| 204 | # |  | Existenzprüfung | Anbieterstammdatei  W  Prüfnummer existent und gültig 205  erlaubter Inhalt  1, 2, 3, 4  F    210  Existenzprüfung  Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent  (Angabe 1.Monat der Gültigkeit  222  Existenzprüfung  Datei HGNC-Schlüsseltab- F  HGNC-Gensymbol (Inhalt FK  223  Existenzprüfung  OPS-Stammdatei  F  OP-Schlüssel (Inhalt FK 5035) in  304 |
-|  |  |  |  | 202  Existenzprüfung  Kassendatei  I  Krankenkassennummer (IK) vor- 203*  Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 205  erlaubter Inhalt  1, 2, 3, 4  F    210  Existenzprüfung  Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent  (Angabe 1.Monat der Gültigkeit  222 |
+| 204 | # |  | Existenzprüfung | Anbieterstammdatei  W  Prüfnummer existent und gültig  205  erlaubter Inhalt  1, 2, 3, 4  F    210  Existenzprüfung  Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent  (Angabe 1.Monat der Gültigkeit  222  Existenzprüfung  Datei HGNC-Schlüsseltab- F  HGNC-Gensymbol (Inhalt FK  223  Existenzprüfung  OPS-Stammdatei  F  OP-Schlüssel (Inhalt FK 5035) in  304 |
+|  |  |  |  | 202  Existenzprüfung  Kassendatei  I  Krankenkassennummer (IK) vor- 203*  Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  205  erlaubter Inhalt  1, 2, 3, 4  F    210  Existenzprüfung  Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent  (Angabe 1.Monat der Gültigkeit  222 |
 |  |  |  |  | 202  Existenzprüfung  Kassendatei |
 | I | Krankenkassennummer (IK) vor- | 203* | Existenzprüfung | GO-Stammdatei  - |
 |  | 204 | # |  | Existenzprüfung |
@@ -13203,7 +13207,7 @@ Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Ar
 | HGNC-Gensymbol (Inhalt FK | 223 | Existenzprüfung  OPS-Stammdatei | F | OP-Schlüssel (Inhalt FK 5035) in  304 |
 | Kontext | Datum | F  Vermeidung von Fehleingaben  307  Kontext  Wenn FK 4109 und FK | W | Diese Regel gilt sowohl für das  308 |
 | 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- |
-| 203* | Existenzprüfung | GO-Stammdatei  -    204# |  | Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 205 |
+| 203* | Existenzprüfung | GO-Stammdatei  -    204# |  | Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  205 |
 | erlaubter Inhalt | 1, 2, 3, 4 | F    210  Existenzprüfung  Kassendatei, wenn Inhalt  W | Gebührenordnung nur dann | 212  erlaubter Inhalt   F |
 | Der Kostenträger mit der VKNR | 213 | #  Existenzprüfung  Anbieterstammdatei  F | Erweiterte Existenzprüfung: | Falls Prüfnummer nicht existent  (Angabe 1.Monat der Gültigkeit  222  Existenzprüfung  Datei HGNC-Schlüsseltab- |
 | F | HGNC-Gensymbol (Inhalt FK | 223  Existenzprüfung  OPS-Stammdatei  F  OP-Schlüssel (Inhalt FK 5035) in | 304 | Kontext  Datum  F  Vermeidung von Fehleingaben  307 |
@@ -13285,7 +13289,7 @@ Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Ar
 |  |  |  |  | 202 |
 | Existenzprüfung | Kassendatei | I  Krankenkassennummer (IK) vor- | 203* | Existenzprüfung |
 | GO-Stammdatei | - | 204 | # |  |
-| Existenzprüfung | Anbieterstammdatei | W  Prüfnummer existent und gültig 205  erlaubter Inhalt  1, 2, 3, 4  F |  | 210  Existenzprüfung  Kassendatei, wenn Inhalt |
+| Existenzprüfung | Anbieterstammdatei | W  Prüfnummer existent und gültig  205  erlaubter Inhalt  1, 2, 3, 4  F |  | 210  Existenzprüfung  Kassendatei, wenn Inhalt |
 | W | Gebührenordnung nur dann | 212 | erlaubter Inhalt |  |
 | F | Der Kostenträger mit der VKNR | 213 | # |  |
 | 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- |
@@ -13323,8 +13327,8 @@ Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Ar
 | 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- |
 | 203* | Existenzprüfung | GO-Stammdatei | - |  |
 | 204 | # | Existenzprüfung  Anbieterstammdatei | W | Prüfnummer existent und gültig |
-| 205 | erlaubter Inhalt | 1, 2, 3, 4  F    210 | Existenzprüfung | Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent  (Angabe 1.Monat der Gültigkeit |
-| 222 | Existenzprüfung | Datei HGNC-Schlüsseltab- | F | HGNC-Gensymbol (Inhalt FK  223  Existenzprüfung |
+| 205 | erlaubter Inhalt | 1, 2, 3, 4  F    210 | Existenzprüfung | Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent |
+| (Angabe 1.Monat der Gültigkeit | 222 | Existenzprüfung | Datei HGNC-Schlüsseltab- | F  HGNC-Gensymbol (Inhalt FK  223 |
 | 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- |
 | 203* | Existenzprüfung | GO-Stammdatei  - | 204#  Existenzprüfung  Anbieterstammdatei | W |
 | Prüfnummer existent und gültig | 205 | erlaubter Inhalt  1, 2, 3, 4  F | 210  Existenzprüfung  Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann | 212  erlaubter Inhalt |
@@ -13334,19 +13338,19 @@ Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Ar
 | Prüfnummer existent und gültig | 205 | erlaubter Inhalt | 1, 2, 3, 4 | F |
 |  | 210 | Existenzprüfung | Kassendatei, wenn Inhalt | W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent  (Angabe 1.Monat der Gültigkeit |
 | 222 | Existenzprüfung | Datei HGNC-Schlüsseltab- | F | HGNC-Gensymbol (Inhalt FK  223  Existenzprüfung  OPS-Stammdatei  F  OP-Schlüssel (Inhalt FK 5035) in  304  Kontext  Datum  F  Vermeidung von Fehleingaben  307  Kontext  Wenn FK 4109 und FK  W |
-| 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- 203*  Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 205  erlaubter Inhalt  1, 2, 3, 4 |
+| 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- 203*  Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  205  erlaubter Inhalt  1, 2, 3, 4 |
 | F |  | 210 | Existenzprüfung | Kassendatei, wenn Inhalt  W  Gebührenordnung nur dann  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent |
 | (Angabe 1.Monat der Gültigkeit | 222 | Existenzprüfung  Datei HGNC-Schlüsseltab- | F | HGNC-Gensymbol (Inhalt FK |
 | 223 | Existenzprüfung | OPS-Stammdatei | F | OP-Schlüssel (Inhalt FK 5035) in |
 | 304 | Kontext | Datum | F | Vermeidung von Fehleingaben |
 | 307 | Kontext | Wenn FK 4109 und FK | W |  |
 |  |  |  | 202  Existenzprüfung | Kassendatei  I  Wenn FK 4109 und FK  Krankenkassennummer (IK) vor- 203* |
-| Existenzprüfung | GO-Stammdatei | - |  | 204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 205  erlaubter Inhalt  1, 2, 3, 4  F    210  Existenzprüfung  Kassendatei, wenn Inhalt  W |
+| Existenzprüfung | GO-Stammdatei | - |  | 204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  205  erlaubter Inhalt  1, 2, 3, 4  F    210  Existenzprüfung  Kassendatei, wenn Inhalt  W |
 | Gebührenordnung nur dann | 212 | erlaubter Inhalt |  | F |
 | Der Kostenträger mit der VKNR | 213 | # | Existenzprüfung | Anbieterstammdatei  F  Erweiterte Existenzprüfung: |
 | Falls Prüfnummer nicht existent | (Angabe 1.Monat der Gültigkeit | 222 | Existenzprüfung | Datei HGNC-Schlüsseltab- F  HGNC-Gensymbol (Inhalt FK  223  Existenzprüfung  OPS-Stammdatei  F  OP-Schlüssel (Inhalt FK 5035) in  304  Kontext  Datum  F  Vermeidung von Fehleingaben  307  Kontext |
 |  |  |  | 202 | Existenzprüfung |
-| Kassendatei | I | Krankenkassennummer (IK) vor- | 203* | Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 205  erlaubter Inhalt  1, 2, 3, 4  F |
+| Kassendatei | I | Krankenkassennummer (IK) vor- | 203* | Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  205  erlaubter Inhalt  1, 2, 3, 4  F |
 | 210 | Existenzprüfung | Kassendatei, wenn Inhalt | W | Gebührenordnung nur dann |
 | 212 | erlaubter Inhalt |  | F | Der Kostenträger mit der VKNR |
 | 213 | # | Existenzprüfung | Anbieterstammdatei | F |
@@ -13375,7 +13379,7 @@ Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Ar
 |  |  |  |  | 202 |
 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- | 203* |
 | Existenzprüfung | GO-Stammdatei | - |  | 204 |
-| # |  | Existenzprüfung | Anbieterstammdatei | W  Prüfnummer existent und gültig 205  erlaubter Inhalt  1, 2, 3, 4  F |
+| # |  | Existenzprüfung | Anbieterstammdatei | W  Prüfnummer existent und gültig  205  erlaubter Inhalt  1, 2, 3, 4  F |
 |  | 210 | Existenzprüfung | Kassendatei, wenn Inhalt | W |
 | Gebührenordnung nur dann  212 | erlaubter Inhalt   | F  Der Kostenträger mit der VKNR | 213# | Existenzprüfung |
 | Anbieterstammdatei | F | Erweiterte Existenzprüfung: | Falls Prüfnummer nicht existent | (Angabe 1.Monat der Gültigkeit  222  Existenzprüfung |
@@ -13585,8 +13589,8 @@ von FK 4122 < 80  74799 elle  Maschinenda- 3119 vorhanden sind und Inhalt von FK
 |  | 309 |  | Kontext |  |
 | Wenn Feldinhalt von FK |  | W |  |  |
 | 310 |  | Kontext  Wenn Feldinhalt von FK |  | W |
-|  | 313 | Kontext  Geburtsdatum  F  Vermeidung von Fehleingaben | 315 | Kontext  Falls FK 4110 vorhanden  Leistungsdatum (FK 5000)  W  Vermeidung von Fehleingaben  319  Kontext  Inhalt Feld 4218 darf nicht  F  Vermeidung von Fehleingaben  Erläuterung vgl. Kapitel 3.6.1  Laborauftrag an Facharzt-La- “   320 |
-| Kontext | Wenn Feldinhalt von FK | F |  | 324  Kontext  Der Inhalt des Feldes 5000 |
+|  | 313 | Kontext  Geburtsdatum  F  Vermeidung von Fehleingaben | 315 | Kontext  Falls FK 4110 vorhanden  Leistungsdatum (FK 5000)  W  Vermeidung von Fehleingaben  319  Kontext  Inhalt Feld 4218 darf nicht  F  Vermeidung von Fehleingaben  Erläuterung vgl. Kapitel 3.6.1  Laborauftrag an Facharzt-La- “ |
+| 320 | Kontext | Wenn Feldinhalt von FK | F | 324  Kontext |
 |  | 309 |  | Kontext |  |
 | Wenn Feldinhalt von FK |  | W | 310  Kontext  Wenn Feldinhalt von FK |  |
 | W |  | 313  Kontext  Geburtsdatum | F  Vermeidung von Fehleingaben  315  Kontext  Falls FK 4110 vorhanden  Leistungsdatum (FK 5000) | W  Vermeidung von Fehleingaben |
@@ -13847,8 +13851,8 @@ von FK 4122 < 80  74799 elle  Maschinenda- 3119 vorhanden sind und Inhalt von FK
 | 331 | Kontext | Wenn Feldinhalt von 8000 | F |  |
 | 354 | Kontext | Wenn Feldinhalt von 4239 | F |  |
 | 356 | Kontext | Wenn Inhalt von 8000 =  F | 363 | Kontext |
-| Der Inhalt des Feldes 5000 | F | Vermeidung von Fehleingaben  404  Kontext  Wenn Feldinhalt von FK | Feld 4221 darf nicht vor- | F    405  Kontext  Wenn der Feldinhalt von  F    406  Kontext  Wenn FK 4102 vorhanden  Ausstellungsdatum (FK  F  Ausstellungsdatum ist älter  Korrekt: 20190201 (01.02.2019)  Korrekt: 20190201 <= 20190201 Inkorrekt: 20190203 >  426 |
-| Kontext | Wenn Inhalt von 8000 = | F |  | 427  Kontext  Wenn Inhalt von 8000 = |
+| Der Inhalt des Feldes 5000 | F | Vermeidung von Fehleingaben  404  Kontext  Wenn Feldinhalt von FK | Feld 4221 darf nicht vor- | F    405  Kontext  Wenn der Feldinhalt von  F    406  Kontext  Wenn FK 4102 vorhanden  Ausstellungsdatum (FK  F  Ausstellungsdatum ist älter  Korrekt: 20190201 (01.02.2019)  Korrekt: 20190201 <= 20190201 Inkorrekt: 20190203 > |
+| 426 | Kontext | Wenn Inhalt von 8000 = | F | 427  Kontext |
 | 331 | Kontext | Wenn Feldinhalt von 8000 | F |  |
 | 354 | Kontext | Wenn Feldinhalt von 4239  F | 356  Kontext  Wenn Inhalt von 8000 =  F | 363 |
 | Kontext | Der Inhalt des Feldes 5000 | F  Vermeidung von Fehleingaben  404 | Kontext  Wenn Feldinhalt von FK  Feld 4221 darf nicht vor- F    405 | Kontext  Wenn der Feldinhalt von |
@@ -14500,7 +14504,7 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | F |  | 497 | Kontext | Wenn Feldinhalt von 4121 |
 | F |  | 521 | erlaubter Inhalt | N |
 | F |  | 528 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 |
-| F |  | 531  erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38,  46, (47), (48), (49), (50),  51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98  F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt  01-03, 17, 18, 19, 20, 21,    F  Empfänger der Abrechnung:  UKV-OKV-Kennungen zulässiger  + Kennung für Knappschaft  533  erlaubter Inhalt   M, W, U, X, D  F    534  erlaubter Inhalt  00, 04, 06, 07, 08, 09  F    535  erlaubter Inhalt  002-999  F  Multiplikator/Anzahl  536  erlaubter Inhalt  00, 01, 02, 03, 04, 05, 06,  F    537  erlaubter Inhalt  ≠ T555558879 F    701  Kontext  Wenn FK 4121 ≠ 3: W |
+| F |  | 531  erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38,  46, (47), (48), (49), (50),  51, 52, (55), (60), (61),  (62), 71, 72, 73, | 78, 83, 88, | 93, 98  F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt  01-03, 17, 18, 19, 20, 21,    F  Empfänger der Abrechnung:  UKV-OKV-Kennungen zulässiger  + Kennung für Knappschaft  533  erlaubter Inhalt   M, W, U, X, D  F    534  erlaubter Inhalt  00, 04, 06, 07, 08, 09  F    535  erlaubter Inhalt  002-999  F  Multiplikator/Anzahl  536  erlaubter Inhalt  00, 01, 02, 03, 04, 05, 06,  F    537  erlaubter Inhalt  ≠ T555558879 F    701  Kontext  Wenn FK 4121 ≠ 3: W |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -14508,14 +14512,14 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | F | SDICD | 496  Kontext | Wenn Feldinhalt von 4121 | F    497  Kontext  Wenn Feldinhalt von 4121 |
 | F |  | 521 | erlaubter Inhalt | N |
 | F |  | 528 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6  F    531  erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38, |
-| 46, (47), | (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 |
+| 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, | 78, 83, 88, | 93, 98 |
 |  | F | WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt  01-03, 17, 18, 19, 20, 21, |  | F  Empfänger der Abrechnung:  UKV-OKV-Kennungen zulässiger |
 | + Kennung für Knappschaft | 533 | erlaubter Inhalt   M, W, U, X, D | F | 534 |
 | erlaubter Inhalt | 00, 04, 06, 07, 08, 09 | F    535  erlaubter Inhalt  002-999 | F | Multiplikator/Anzahl  536  erlaubter Inhalt |
 | 492 | Kontext | Wenn zu einer Diagnose | F | SDICD |
 |  | 496 | Kontext  Wenn Feldinhalt von 4121  F    497 | Kontext | Wenn Feldinhalt von 4121  F    521  erlaubter Inhalt |
-| N | F | 528  erlaubter Inhalt  1, 2, 3, 4, 5, 6  F | 531 | erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38,  46, (47), (48), (49), (50), |
-| 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98  F  WOP  ( ) fusioniert, teilweise aber | 532 | erlaubter Inhalt  01-03, 17, 18, 19, 20, 21,    F  Empfänger der Abrechnung: |
+| N | F | 528  erlaubter Inhalt  1, 2, 3, 4, 5, 6  F | 531 | erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38,  46, (47), (48), (49), (50),  51, 52, (55), (60), (61), |
+| (62), 71, 72, 73, | 78, 83, 88, | 93, 98  F  WOP  ( ) fusioniert, teilweise aber | 532 | erlaubter Inhalt  01-03, 17, 18, 19, 20, 21,    F  Empfänger der Abrechnung: |
 | UKV-OKV-Kennungen zulässiger | + Kennung für Knappschaft | 533  erlaubter Inhalt   M, W, U, X, D  F | 534 | erlaubter Inhalt  00, 04, 06, 07, 08, 09  F    535 |
 |  |  |  |  | 492 |
 | Kontext | Wenn zu einer Diagnose | F | SDICD |  |
@@ -14523,8 +14527,8 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | 497 | Kontext | Wenn Feldinhalt von 4121 | F |  |
 | 521 | erlaubter Inhalt | N | F |  |
 | 528 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  |
-| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), |
-| 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 |  | F |
+| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), |
+| (62), 71, 72, 73, | 78, 83, 88, | 93, 98 |  | F |
 | WOP | ( ) fusioniert, teilweise aber | 532 | erlaubter Inhalt | 01-03, 17, 18, 19, 20, 21, |
 |  | F | Empfänger der Abrechnung: | UKV-OKV-Kennungen zulässiger | + Kennung für Knappschaft |
 | 533 | erlaubter Inhalt | M, W, U, X, D | F |  |
@@ -14542,8 +14546,8 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | 497  Kontext | Wenn Feldinhalt von 4121 | F |  | 521 |
 | erlaubter Inhalt | N | F |  | 528 |
 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  | 531 |
-| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), | 51, 52, (55), (60), (61), |
-| (62), 71, 72, 73, 78, 83, 88,  93, 98 | F | WOP | ( ) fusioniert, teilweise aber | 532  erlaubter Inhalt  01-03, 17, 18, 19, 20, 21, |
+| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, |
+| 78, 83, 88,  93, 98 | F | WOP | ( ) fusioniert, teilweise aber | 532  erlaubter Inhalt  01-03, 17, 18, 19, 20, 21, |
 |  | F | Empfänger der Abrechnung: | UKV-OKV-Kennungen zulässiger | + Kennung für Knappschaft |
 | 533 | erlaubter Inhalt | M, W, U, X, D | F |  |
 | 534 | erlaubter Inhalt | 00, 04, 06, 07, 08, 09 | F |  |
@@ -14553,7 +14557,7 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | F | 497  Kontext | Wenn Feldinhalt von 4121  F | 521 | erlaubter Inhalt |
 | N | F |  | 528 | erlaubter Inhalt |
 | 1, 2, 3, 4, 5, 6 | F | 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, |
-| 46, (47), | (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98  F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt |
+| 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, | 78, 83, 88, | 93, 98  F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt |
 | 01-03, 17, 18, 19, 20, 21, |  | F | Empfänger der Abrechnung: | UKV-OKV-Kennungen zulässiger |
 | + Kennung für Knappschaft | 533 | erlaubter Inhalt | M, W, U, X, D | F |
 |  | 534 | erlaubter Inhalt  00, 04, 06, 07, 08, 09 | F |  |
@@ -14562,8 +14566,8 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 |  | 497 | Kontext | Wenn Feldinhalt von 4121 | F |
 |  | 521 | erlaubter Inhalt | N | F |
 |  | 528 | erlaubter Inhalt  1, 2, 3, 4, 5, 6 | F |  |
-| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), |
-| 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 | F | WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt |
+| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), |
+| (62), 71, 72, 73, | 78, 83, 88, | 93, 98 | F | WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt |
 | 01-03, 17, 18, 19, 20, 21, |  | F | Empfänger der Abrechnung: | UKV-OKV-Kennungen zulässiger |
 | + Kennung für Knappschaft | 533 | erlaubter Inhalt | M, W, U, X, D | F |
 |  |  |  |  | 492 |
@@ -14571,7 +14575,7 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | 496 | Kontext | Wenn Feldinhalt von 4121 | F |  |
 | 497 | Kontext | Wenn Feldinhalt von 4121  F | 521 | erlaubter Inhalt |
 | N | F | 528  erlaubter Inhalt  1, 2, 3, 4, 5, 6  F | 531 | erlaubter Inhalt |
-| 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88,  93, 98 |
+| 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, | 78, 83, 88,  93, 98 |
 | 492 | Kontext | Wenn zu einer Diagnose | F | SDICD |
 |  | 496 | Kontext  Wenn Feldinhalt von 4121  F |  | 497  Kontext |
 | Wenn Feldinhalt von 4121 | F |  | 521 | erlaubter Inhalt  N |
@@ -14596,20 +14600,20 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | Kontext | Wenn zu einer Diagnose | F  SDICD |  | 496 |
 | Kontext | Wenn Feldinhalt von 4121 | F | 497 | Kontext |
 | Wenn Feldinhalt von 4121 | F | 521  erlaubter Inhalt  N  F | 528 | erlaubter Inhalt  1, 2, 3, 4, 5, 6  F |
-|  | 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), |
-| (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 |  |
+|  | 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), |
+| 51, 52, (55), (60), (61), | (62), 71, 72, 73, | 78, 83, 88, | 93, 98 |  |
 | 492 | Kontext | Wenn zu einer Diagnose | F | SDICD |
 |  | 496 | Kontext  Wenn Feldinhalt von 4121 | F |  |
 | 497 | Kontext | Wenn Feldinhalt von 4121 | F |  |
 | 521 | erlaubter Inhalt | N | F |  |
 | 528 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  |
-| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), |
+| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), |
 | 492 | Kontext | Wenn zu einer Diagnose  F | SDICD    496  Kontext  Wenn Feldinhalt von 4121 | F |
 |  | 497 | Kontext | Wenn Feldinhalt von 4121 | F |
 |  | 521 | erlaubter Inhalt | N | F |
 |  | 528 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |
-| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), |
-| 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 |  | F |
+| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), |
+| (62), 71, 72, 73, | 78, 83, 88, | 93, 98 |  | F |
 | WOP | ( ) fusioniert, teilweise aber | 532 | erlaubter Inhalt | 01-03, 17, 18, 19, 20, 21, |
 |  |  |  |  | 492 |
 | Kontext | Wenn zu einer Diagnose | F  SDICD |  | 496 |
@@ -14628,17 +14632,17 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | Kontext | Wenn Feldinhalt von 4121 | F |  | 521 |
 | erlaubter Inhalt | N | F |  | 528 |
 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  | 531 |
-| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50),  51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 |
+| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50),  51, 52, (55), (60), (61),  (62), 71, 72, 73, | 78, 83, 88, | 93, 98 |
 |  | F | WOP | ( ) fusioniert, teilweise aber | 532 |
 | 492 | Kontext | Wenn zu einer Diagnose | F | SDICD |
 |  | 496 | Kontext | Wenn Feldinhalt von 4121 | F |
 |  | 497 | Kontext  Wenn Feldinhalt von 4121  F |  | 521 |
-| erlaubter Inhalt | N | F    528  erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F    531  erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38,  46, (47), (48), (49), (50),  51, 52, (55), (60), (61),  (62), 71, 72, 73, 78, 83, 88,  93, 98  F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt  01-03, 17, 18, 19, 20, 21, |
-|  | F | Empfänger der Abrechnung: | UKV-OKV-Kennungen zulässiger | + Kennung für Knappschaft  533  erlaubter Inhalt |
+| erlaubter Inhalt | N | F    528  erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F    531  erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38,  46, (47), (48), (49), (50),  51, 52, (55), (60), (61),  (62), 71, 72, 73, 78, 83, 88,  93, 98  F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt |
+| 01-03, 17, 18, 19, 20, 21, |  | F | Empfänger der Abrechnung: | UKV-OKV-Kennungen zulässiger  + Kennung für Knappschaft  533 |
 | 492 | Kontext | Wenn zu einer Diagnose | F | SDICD |
 |  | 496 | Kontext  Wenn Feldinhalt von 4121 | F    497  Kontext  Wenn Feldinhalt von 4121  F |  |
 | 521 | erlaubter Inhalt | N  F | 528  erlaubter Inhalt  1, 2, 3, 4, 5, 6  F    531 | erlaubter Inhalt  00, 01, 02, 03, 17, 20, 38, |
-| 46, (47), | (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88,  93, 98 | F |
+| 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, | 78, 83, 88,  93, 98 | F |
 |  |  |  |  | 492 |
 | Kontext | Wenn zu einer Diagnose | F  SDICD | 496  Kontext  Wenn Feldinhalt von 4121  F    497  Kontext  Wenn Feldinhalt von 4121 | F |
 | 521 | erlaubter Inhalt | N | F |  |
@@ -14652,45 +14656,45 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | 535 | erlaubter Inhalt | 002-999 | F | Multiplikator/Anzahl |
 |  |  |  | 492  Kontext | Wenn zu einer Diagnose  F  002-999  SDICD |
 | 496 | Kontext | Wenn Feldinhalt von 4121 | F | 497  Kontext  Wenn Feldinhalt von 4121  F    521  erlaubter Inhalt  N  F    528  erlaubter Inhalt  1, 2, 3, 4, 5, 6  F |
-| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), |
-| 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 | F | WOP  ( ) fusioniert, teilweise aber  532 |
+| 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), |
+| (62), 71, 72, 73, | 78, 83, 88, | 93, 98 | F | WOP  ( ) fusioniert, teilweise aber  532 |
 | erlaubter Inhalt | 01-03, 17, 18, 19, 20, 21, |  | F | Empfänger der Abrechnung:  UKV-OKV-Kennungen zulässiger  + Kennung für Knappschaft  533  erlaubter Inhalt   M, W, U, X, D  F    534  erlaubter Inhalt  00, 04, 06, 07, 08, 09  F    535  erlaubter Inhalt |
 |  |  |  | 492 | Kontext |
 | Wenn zu einer Diagnose | F | SDICD |  | 496  Kontext  Wenn Feldinhalt von 4121  F    497  Kontext  Wenn Feldinhalt von 4121  F    521  erlaubter Inhalt  N  F    528 |
 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  | 531 |
-| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50), | 51, 52, (55), (60), (61), |
-| (62), 71, 72, 73, 78, 83, 88, | 93, 98 | F | WOP | ( ) fusioniert, teilweise aber |
+| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, |
+| 78, 83, 88, | 93, 98 | F | WOP | ( ) fusioniert, teilweise aber |
 | 532 | erlaubter Inhalt | 01-03, 17, 18, 19, 20, 21, | F | Empfänger der Abrechnung:  UKV-OKV-Kennungen zulässiger  + Kennung für Knappschaft  533  erlaubter Inhalt   M, W, U, X, D  F    534  erlaubter Inhalt  00, 04, 06, 07, 08, 09 |
-| F |  | 535 | erlaubter Inhalt | 002-999  F  Multiplikator/Anzahl  536  erlaubter Inhalt  00, 01, 02, 03, 04, 05, 06,  F    537  erlaubter Inhalt  ≠ T555558879 F    701  Kontext |
+| F |  | 535 | erlaubter Inhalt | 002-999  F  Multiplikator/Anzahl  536  erlaubter Inhalt  00, 01, 02, 03, 04, 05, 06,  F    537  erlaubter Inhalt  ≠ T555558879 F    701 |
 |  |  |  | 492 | Kontext |
 | Wenn zu einer Diagnose | F | SDICD |  | 496 |
 | Kontext | Wenn Feldinhalt von 4121 | F | 497 | Kontext |
 | Wenn Feldinhalt von 4121 | F |  | 521 | erlaubter Inhalt |
 | N | F |  | 528 | erlaubter Inhalt  1, 2, 3, 4, 5, 6  F |
-|  | 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), |
-| (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88,  93, 98 |  | F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt |
+|  | 531 | erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), |
+| 51, 52, (55), (60), (61), | (62), 71, 72, 73, | 78, 83, 88,  93, 98 |  | F  WOP  ( ) fusioniert, teilweise aber  532  erlaubter Inhalt |
 |  |  |  |  | 492 |
 | Kontext | Wenn zu einer Diagnose | F | SDICD |  |
 | 496 | Kontext | Wenn Feldinhalt von 4121 | F | 497 |
 | Kontext | Wenn Feldinhalt von 4121 | F |  | 521 |
 | erlaubter Inhalt | N | F | 528 | erlaubter Inhalt |
 | 1, 2, 3, 4, 5, 6 | F |  | 531 | erlaubter Inhalt |
-| 00, 01, 02, 03, 17, 20, 38, | 46, (47), | (48), (49), (50),  51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88, | 93, 98 |
+| 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61),  (62), 71, 72, 73, | 78, 83, 88, | 93, 98 |
 | 492 | Kontext | Wenn zu einer Diagnose  F | SDICD |  |
 | 496 | Kontext | Wenn Feldinhalt von 4121  F |  | 497 |
 | Kontext | Wenn Feldinhalt von 4121 | F |  | 521 |
 | erlaubter Inhalt | N | F |  | 528 |
 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  | 531 |
-| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50), | 51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88,  93, 98  F |
+| erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38, | 46, (47), (48), (49), (50),  51, 52, (55), (60), (61), | (62), 71, 72, 73, | 78, 83, 88,  93, 98  F |
 |  |  |  |  | 492 |
 | Kontext | Wenn zu einer Diagnose | F | SDICD |  |
 | 496 | Kontext | Wenn Feldinhalt von 4121 | F |  |
 | 497 | Kontext | Wenn Feldinhalt von 4121 | F | 521  erlaubter Inhalt  N  F |
 | 528 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  |
-| 531  erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38,  46, (47), | (48), (49), (50),  51, 52, (55), (60), (61), | (62), 71, 72, 73, 78, 83, 88,  93, 98 | F |
+| 531  erlaubter Inhalt | 00, 01, 02, 03, 17, 20, 38,  46, (47), (48), (49), (50), | 51, 52, (55), (60), (61),  (62), 71, 72, 73, | 78, 83, 88,  93, 98 | F |
 | WOP | ( ) fusioniert, teilweise aber | 532 | erlaubter Inhalt | 01-03, 17, 18, 19, 20, 21,    F |
 
-(FK 6001 /3673) in der SDICD das Element „schlüsselnum- mer_mit_inhalt_belegt“ mit Inhalt „n“ existiert, darf diese nicht übertra- gen werden = 3, dann gilt für den In- halt des Feldes 5001 Regel 035. = 0 oder 1 oder 2, dann gilt für den Inhalt des Fel- des 5001 die Regel 042. 24, 25, 27, 28, 31, 37, 39- 45, 47-51, 55, 60-70, 72, 73, 78-81, 83, 85-87, 93- 96, 99 07, 08, 09, 10, 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 noch in Gebrauch (bspw. KVK- WOP) Abrechnungsempfänger
+(FK 6001 /3673) in der SDICD das Element schlüsselnum- mer_mit_inhalt_belegt“ mit Inhalt „n“ existiert, darf diese nicht übertra- gen werden = 3, dann gilt für den In- halt des Feldes 5001 Regel 035. = 0 oder 1 oder 2, dann gilt für den Inhalt des Fel- des 5001 die Regel 042. 24, 25, 27, 28, 31, 37, 39- 45, 47-51, 55, 60-70, 72, 73, 78-81, 83, 85-87, 93- 96, 99 07, 08, 09, 10, 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 noch in Gebrauch (bspw. KVK- WOP) Abrechnungsempfänger
 
 ---
 
@@ -16205,8 +16209,8 @@ nes der Felder 4205, 4207 oder 4208 vorhanden sein.  des 5001 dem Inhalt des Att
 | Der Inhalt von Element | *) | 762 | Kontext | Der (Ersatz-)wert |
 | F |  | 763 | Kontext | Der, aus dem Inhalt der |
 | W | Prüfung gegen Kostenträger- | (vgl. Anforderungskatalog  SDKT  770 | Kontext | Wenn Feldinhalt von 5001 |
-| W | G | -alpha ::= AB |  | ...Z  [ ] - optional  Dokumentationspflicht besteht  774  Kontext  Wenn der Inhalt des Fel- F    775  Kontext |
-| Wenn FK 4109 und FK | F |  |  |  |
+| W | G | -alpha ::= AB |  | ...Z  [ ] - optional  Dokumentationspflicht besteht  774  Kontext  Wenn der Inhalt des Fel- F    775 |
+| Kontext | Wenn FK 4109 und FK | F |  |  |
 | Der Inhalt von Element | *) | 762 | Kontext | Der (Ersatz-)wert |
 | F |  | 763  Kontext | Der, aus dem Inhalt der  W  Prüfung gegen Kostenträger- (vgl. Anforderungskatalog  SDKT  770 | Kontext |
 | Wenn Feldinhalt von 5001 | W | G-alpha ::= A | B...Z | [ ] |
@@ -16590,7 +16594,7 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | 789 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- |
 | 790 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig |
 | 813 | Kontext | Wenn der Inhalt des Fel- | Versi- | entsprechen.  W    816  Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt:  Die Felder 5077 und 5078  sein.  W  G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht  817  Kontext  Wenn zu einem ICD-Code  W  Stimmt das Geschlecht des Pati-   SDICD |
-|  |  |  |  | 789  Kontext  Wenn Feld 5100 vorhan- W  Prüfung gegen Besa-Satz bei ak- 790  Kontext  Wenn FK 4109 vorhanden  F  KVK ab 01.01.2015 nur zulässig  813  Kontext  Wenn der Inhalt des Fel- Versi- entsprechen.  W    816  Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt:  Die Felder 5077 und 5078  sein.  W  G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht  817 |
+|  |  |  |  | 789  Kontext  Wenn Feld 5100 vorhan- W  Prüfung gegen Besa-Satz bei ak- 790  Kontext  Wenn FK 4109 vorhanden  F  KVK ab 01.01.2015 nur zulässig  813  Kontext  Wenn der Inhalt des Fel- Versi- entsprechen.  W    816  Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt:  Die Felder 5077 und 5078  sein.  W  G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht  817  Kontext |
 |  |  |  |  | 789  Kontext  Wenn Feld 5100 vorhan- |
 | W | Prüfung gegen Besa-Satz bei ak- | 790 | Kontext | Wenn FK 4109 vorhanden  F |
 | KVK ab 01.01.2015 nur zulässig | 813 | Kontext | Wenn der Inhalt des Fel- | Versi- |
@@ -16605,14 +16609,14 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | entsprechen. | W |  | 816 | Kontext |
 | Wenn Feldinhalt von 5001 | Zusätzlich gilt: | Die Felder 5077 und 5078 | sein. | W  G-alpha ::= AB |
 |  | ... |  | Z |  |
-| [ ] |  | - optional  Dokumentationspflicht besteht | 817 | Kontext  Wenn zu einem ICD-Code  W |
-| Stimmt das Geschlecht des Pati- |  | SDICD |  |  |
+| [ ] | - | optional  Dokumentationspflicht besteht  817 | Kontext | Wenn zu einem ICD-Code  W  Stimmt das Geschlecht des Pati- |
+|  | SDICD |  |  |  |
 |  |  |  |  |  |
 | 789 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- |
 | 790 | Kontext | Wenn FK 4109 vorhanden  F  KVK ab 01.01.2015 nur zulässig  813  Kontext | Wenn der Inhalt des Fel- | Versi- entsprechen.  W    816 |
 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt:  Die Felder 5077 und 5078  sein.  W  G- | alpha ::= A | B... |
-|  | Z | [ ] - | optional | Dokumentationspflicht besteht  817  Kontext  Wenn zu einem ICD-Code |
-| W | Stimmt das Geschlecht des Pati- | SDICD |  |  |
+|  | Z | [ ] - optional |  | Dokumentationspflicht besteht  817  Kontext  Wenn zu einem ICD-Code  W |
+| Stimmt das Geschlecht des Pati- |  | SDICD |  |  |
 |  |  |  |  | 789 |
 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- | 790 |
 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813 |
@@ -16620,10 +16624,10 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 |  | 816 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: |
 | Die Felder 5077 und 5078 | sein. | W | G | - |
 | alpha ::= A |  | B |  | ... |
-|  | Z |  | [ ] |  |
-| - |  | optional |  | Dokumentationspflicht besteht |
-| 817 | Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- |
-|  | SDICD |  |  |  |
+|  | Z |  | [ ] | - |
+|  | optional |  | Dokumentationspflicht besteht | 817 |
+| Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- |  |
+| SDICD |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -16639,9 +16643,9 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | 816 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: | Die Felder 5077 und 5078 |
 | sein. | W | G | - | alpha ::= A |
 |  | B |  | ... |  |
-| Z  [ ] |  | - |  | optional  Dokumentationspflicht besteht |
-| 817 | Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- |
-|  | SDICD |  |  |  |
+| Z  [ ] | - |  | optional | Dokumentationspflicht besteht  817 |
+| Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- |  |
+| SDICD |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -16649,9 +16653,9 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | KVK ab 01.01.2015 nur zulässig  813 | Kontext  Wenn der Inhalt des Fel- | Versi- entsprechen. | W | 816 |
 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: | Die Felder 5077 und 5078 | sein. |
 | W | G | -alpha ::= A |  | B |
-|  | ... |  | Z | [ ] - optional |
-| Dokumentationspflicht besteht | 817 | Kontext | Wenn zu einem ICD-Code | W |
-| Stimmt das Geschlecht des Pati- |  | SDICD |  |  |
+|  | ... |  | Z | [ ] - optional  Dokumentationspflicht besteht |
+| 817 | Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- |
+|  | SDICD |  |  |  |
 |  |  |  |  |  |
 | 789 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- |
 | 790 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig |
@@ -16659,9 +16663,9 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | W |  | 816 | Kontext | Wenn Feldinhalt von 5001 |
 | Zusätzlich gilt: | Die Felder 5077 und 5078 | sein.  W | G | - |
 | alpha ::= A |  | B |  | ... |
-|  | Z | [ ] |  | - optional |
-| Dokumentationspflicht besteht | 817 | Kontext | Wenn zu einem ICD-Code | W |
-| Stimmt das Geschlecht des Pati- |  | SDICD |  |  |
+|  | Z | [ ] | - | optional  Dokumentationspflicht besteht |
+| 817 | Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- |
+|  | SDICD |  |  |  |
 |  |  |  |  | 789 |
 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- | 790 |
 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813 |
@@ -16677,9 +16681,9 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | Kontext | Wenn der Inhalt des Fel- | Versi- | entsprechen. | W |
 |  | 816 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: |
 | Die Felder 5077 und 5078 | sein. | W | G | - |
-| alpha ::= A |  | B...Z  [ ] |  | - |
-| optional |  | Dokumentationspflicht besteht  817 | Kontext | Wenn zu einem ICD-Code  W  Stimmt das Geschlecht des Pati- |
-|  | SDICD |  |  |  |
+| alpha ::= A |  | B...Z  [ ] | - | optional |
+|  | Dokumentationspflicht besteht | 817  Kontext | Wenn zu einem ICD-Code | W  Stimmt das Geschlecht des Pati- |
+| SDICD |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -16705,8 +16709,8 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | W |  | 816 | Kontext | Wenn Feldinhalt von 5001 |
 | Zusätzlich gilt: | Die Felder 5077 und 5078 | sein. | W | G- |
 | alpha ::= A |  | B |  | ... |
-|  | Z |  | [ ] |  |
-| - |  | optional |  | Dokumentationspflicht besteht |
+|  | Z |  | [ ] | - |
+|  | optional |  | Dokumentationspflicht besteht | 817 |
 |  |  |  |  | 789 |
 | Kontext | Wenn Feld 5100 vorhan- | W  Prüfung gegen Besa-Satz bei ak- | 790 | Kontext |
 | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813 | Kontext |
@@ -16717,15 +16721,15 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- | 790 | Kontext |
 | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813 | Kontext  Wenn der Inhalt des Fel- Versi- |
 | entsprechen. | W |  | 816 | Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt:  Die Felder 5077 und 5078  sein.  W  G-alpha ::= AB...Z |
-| [ ] |  | - |  | optional |
-|  | Dokumentationspflicht besteht | 817 | Kontext | Wenn zu einem ICD-Code |
+| [ ] | - |  | optional |  |
+| Dokumentationspflicht besteht | 817 | Kontext | Wenn zu einem ICD-Code | W |
 | 789 | Kontext | Wenn Feld 5100 vorhan- W | Prüfung gegen Besa-Satz bei ak- | 790  Kontext |
 | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813 | Kontext |
 | Wenn der Inhalt des Fel- | Versi- | entsprechen. | W |  |
 | 816 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: | Die Felder 5077 und 5078 |
 | sein. | W | G | - | alpha ::= A |
 |  | B | ... | Z |  |
-| [ ] |  | - |  | optional |
+| [ ] | - |  | optional |  |
 | 789 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- |
 | 790 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig |
 | 813 | Kontext | Wenn der Inhalt des Fel- Versi- entsprechen. | W |  |
@@ -16734,29 +16738,29 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | 789 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- |
 | 790 | Kontext | Wenn FK 4109 vorhanden  F | KVK ab 01.01.2015 nur zulässig  813  Kontext  Wenn der Inhalt des Fel- Versi- entsprechen. | W |
 |  | 816 | Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt: | Die Felder 5077 und 5078  sein.  W  G-alpha ::= A | B |
-|  | ... |  | Z  [ ] |  |
+|  | ... |  | Z  [ ] | - |
 |  |  |  |  | 789 |
 | Kontext | Wenn Feld 5100 vorhan- | W  Prüfung gegen Besa-Satz bei ak- 790 | Kontext  Wenn FK 4109 vorhanden  F  KVK ab 01.01.2015 nur zulässig  813  Kontext  Wenn der Inhalt des Fel- Versi- | entsprechen.  W |
 |  | 816 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: |
-| Die Felder 5077 und 5078 | sein. | W | G | -alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
-| 817 | Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati-   SDICD |
+| Die Felder 5077 und 5078 | sein. | W | G | -alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht  817 |
+| Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- | SDICD |
 | 789 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- 790  Kontext  Wenn FK 4109 vorhanden  F  KVK ab 01.01.2015 nur zulässig  813  Kontext  Wenn der Inhalt des Fel- Versi- entsprechen.  W    816  Kontext  Wenn Feldinhalt von 5001 |
-| Zusätzlich gilt: | Die Felder 5077 und 5078 | sein. | W | G-alpha ::= AB...Z  [ ] - optional |
-| Dokumentationspflicht besteht | 817 | Kontext  Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati- |
-|  | SDICD |  |  |  |
+| Zusätzlich gilt: | Die Felder 5077 und 5078 | sein. | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
+| 817 | Kontext | Wenn zu einem ICD-Code  W | Stimmt das Geschlecht des Pati- |  |
+| SDICD |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  | 789  Kontext | Wenn Feld 5100 vorhan- W  Prüfung gegen Besa-Satz bei ak- 790 |
 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813  Kontext  Wenn der Inhalt des Fel- Versi- entsprechen.  W    816  Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt:  Die Felder 5077 und 5078  sein.  W  G- |
 | alpha ::= A |  | B |  | ... |
-|  | Z | [ ] |  | - optional |
-|  | Dokumentationspflicht besteht | 817 | Kontext | Wenn zu einem ICD-Code  W  Stimmt das Geschlecht des Pati-   SDICD |
+|  | Z | [ ] | - | optional |
+| Dokumentationspflicht besteht | 817 | Kontext | Wenn zu einem ICD-Code | W  Stimmt das Geschlecht des Pati-   SDICD |
 |  |  |  | 789 | Kontext |
 | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- | 790 | Kontext  Wenn FK 4109 vorhanden  F  KVK ab 01.01.2015 nur zulässig  813  Kontext  Wenn der Inhalt des Fel- Versi- entsprechen.  W    816  Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt:  Die Felder 5077 und 5078 |
 | sein. | W | G | - | alpha ::= A |
 |  | B |  | ... |  |
-| Z |  | [ ] | - |  |
-| optional |  | Dokumentationspflicht besteht  817 | Kontext | Wenn zu einem ICD-Code  W  Stimmt das Geschlecht des Pati-   SDICD |
+| Z |  | [ ] - |  | optional |
+|  | Dokumentationspflicht besteht | 817  Kontext | Wenn zu einem ICD-Code | W  Stimmt das Geschlecht des Pati-   SDICD |
 |  |  |  |  |  |
 |  |  |  | 789 | Kontext |
 | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- | 790 | Kontext |
@@ -16764,7 +16768,7 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | Versi- | entsprechen. | W |  | 816 |
 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: | Die Felder 5077 und 5078 | sein.  W  G |
 | - | alpha ::= A |  | B |  |
-| ... |  | Z | [ ] | - optional |
+| ... |  | Z | [ ] | - optional  Dokumentationspflicht besteht |
 |  |  |  |  | 789 |
 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- | 790 |
 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813  Kontext |
@@ -16777,14 +16781,14 @@ ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld
 | Wenn der Inhalt des Fel- | Versi- | entsprechen. | W |  |
 | 816 | Kontext | Wenn Feldinhalt von 5001 | Zusätzlich gilt: | Die Felder 5077 und 5078 |
 | sein. | W | G | - | alpha ::= A |
-|  | B | ... |  | Z  [ ] |
+|  | B | ... |  | Z  [ ] - |
 |  |  |  |  | 789 |
 | Kontext | Wenn Feld 5100 vorhan- | W | Prüfung gegen Besa-Satz bei ak- | 790 |
 | Kontext | Wenn FK 4109 vorhanden | F | KVK ab 01.01.2015 nur zulässig | 813 |
 | Kontext | Wenn der Inhalt des Fel- | Versi- | entsprechen. | W    816  Kontext  Wenn Feldinhalt von 5001  Zusätzlich gilt: |
 | Die Felder 5077 und 5078 | sein. | W | G | - |
-| alpha ::= A | B | ... | Z | [ ] |
-| - |  | optional |  | Dokumentationspflicht besteht  817  Kontext |
+| alpha ::= A | B | ... | Z | [ ] - |
+|  | optional |  | Dokumentationspflicht besteht | 817  Kontext  Wenn zu einem ICD-Code |
 
 den ist, dann gilt: Der Wert in FK 5100 muss mit einem der Werte aus FK 0222 (SA „besa“) über- einstimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von FK 4101 = FK 9204 (adt0)) ist und FK 3006 nicht vor- handen, dann muss der In- halt der Stellen 3 - 5 der FK 4104 >= 800 sein. des 8000 = adt0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen onsangabe = 11233[G-alpha], dann muss das Feld 5079 vor- handen sein. dürfen nicht vorhanden (Feldinhalt FK 6001 bzw. 3673) in der SDICD das Element „geschlechtsbe- zug“ existiert und der In- halt von Element „ ge- schlechtsbezug_fehlerart“ = „k“ ist und kein Feld 6008 / 3677 vorhanden ist, dann muss das Ge- schlecht in FK 3110 (so- fern 3110  U, X, D) zu der Angabe unter Element „geschlechtsbezug“ (SDICD) passen. tuellen Quartalsfällen bei „originären“ SKT auch bei der genannten GOP mit Buchstabensuffix enten nicht mit der Angabe im Element „geschlechtsbezug“ überein, ist vom PVS darauf hin- zuweisen (vgl. KBV_ITA_VGEX_Anforderungs- katalog_ICD-10, P10-470)
 
@@ -17253,8 +17257,8 @@ den ist, dann gilt: Der Wert in FK 5100 muss mit einem der Werte aus FK 0222 (SA
 | Feld 4218 vorhanden ist, | 823 | Kontext | Wenn der Inhalt der Stel- | Wenn der Inhalt der Stel- |
 | Wenn der Inhalt der Stel- | siehe Regel | 049 |  | 061 |
 |  | 062 | (N)BSNR des Ortes der Leis- |  | 827 |
-| Kontext | Falls Feld 4109 vorhanden | W    828  Kontext | Wenn Feldinhalt des Fel- | W  G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
-| 829 | Kontext | Wenn Feldinhalt von Feld | W | G-alpha ::= A |
+| Kontext | Falls Feld 4109 vorhanden | W    828  Kontext | Wenn Feldinhalt des Fel- | W  G-alpha ::= AB...Z  [ ] - optional |
+| Dokumentationspflicht besteht | 829 | Kontext | Wenn Feldinhalt von Feld | W  G- |
 | Feld 4218 vorhanden ist, | 823 | Kontext | Wenn der Inhalt der Stel- | Wenn der Inhalt der Stel- |
 | Wenn der Inhalt der Stel- | siehe Regel | 049 | 061  062    (N)BSNR des Ortes der Leis- |  |
 | 827 | Kontext | Falls Feld 4109 vorhanden  W | 828  Kontext  Wenn Feldinhalt des Fel- W  G- | alpha ::= A |
@@ -17515,8 +17519,8 @@ dann gilt für den Inhalt des Feldes 4218 die For- matregel 049. len 1-2 des Fel
 | 830 | Kontext | Wenn Feldinhalt von Feld | W | G |
 | - | alpha ::= A |  | B |  |
 | ... |  | Z  [ ] | - |  |
-| optional |  | Dokumentationspflicht besteht  834  Kontext  Wenn der Feldinhalt des | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht  837 |
-| Kontext | Wenn der Inhalt des Fel- | Es muss entweder das | F | 838  Kontext |
+| optional |  | Dokumentationspflicht besteht  834  Kontext  Wenn der Feldinhalt des | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
+| 837 | Kontext | Wenn der Inhalt des Fel- | Es muss entweder das | F    838 |
 | 830 | Kontext | Wenn Feldinhalt von Feld | W | G |
 | - | alpha ::= A | B | ...Z  [ ] | - |
 |  | optional | Dokumentationspflicht besteht  834 | Kontext  Wenn der Feldinhalt des  W  G-alpha ::= A | B |
@@ -17777,8 +17781,8 @@ dann gilt für den Inhalt des Feldes 4218 die For- matregel 049. len 1-2 des Fel
 | der Feldinhalt des Feldes | entsprechen | 24: | 9 |  |
 | 25-60: | 843 | Kontext | Wenn Feldinhalt des Fel- | W |
 | G | - | alpha ::= AB |  | ... |
-|  | Z | [ ] - | optional | Dokumentationspflicht besteht  844  Kontext  Wenn ein Feld 4225 vor- W    845  Kontext  Wenn Feldinhalt von 4239  Wenn Feldinhalt von 4239  W  vgl. Erläuterung Kapitel 3.6.2  847  Kontext |
-| Wenn Feldinhalt von Feld | I | G | - | alpha ::= AB |
+|  | Z | [ ] - | optional | Dokumentationspflicht besteht  844  Kontext  Wenn ein Feld 4225 vor- W    845  Kontext  Wenn Feldinhalt von 4239  Wenn Feldinhalt von 4239  W  vgl. Erläuterung Kapitel 3.6.2  847 |
+| Kontext | Wenn Feldinhalt von Feld | I | G | -alpha ::= A |
 | der Feldinhalt des Feldes | entsprechen | 24: | 9 |  |
 | 25-60: | 843 | Kontext  Wenn Feldinhalt des Fel- | W  G-alpha ::= AB |  |
 | ... |  | Z  [ ] | - optional  Dokumentationspflicht besteht  844 | Kontext  Wenn ein Feld 4225 vor- |
@@ -17937,8 +17941,8 @@ dann gilt für den Inhalt des Feldes 4218 die For- matregel 049. len 1-2 des Fel
 | - |  | lässig. | 854 | Kontext |
 | Wenn Feldinhalt des Fel- | W | G | - | alpha ::= A |
 |  | B |  | ... |  |
-| Z |  | [ ] |  | - |
-|  | optional |  |  |  |
+| Z |  | [ ] | - |  |
+| optional |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -17993,7 +17997,7 @@ dann gilt für den Inhalt des Feldes 4218 die For- matregel 049. len 1-2 des Fel
 | - |  | lässig. | 854 | Kontext |
 | Wenn Feldinhalt des Fel- | W | G | - | alpha ::= A |
 |  | B |  | ... |  |
-| Z |  | [ ] |  | - |
+| Z |  | [ ] | - |  |
 | optional |  |  |  |  |
 |  |  |  |  | sollte das Feld 5079 genau |
 | Dokumentationspflicht besteht  848 | Kontext  Wenn Feldinhalt von Feld | I  G- | alpha ::= A |  |
@@ -18039,8 +18043,8 @@ dann gilt für den Inhalt des Feldes 4218 die For- matregel 049. len 1-2 des Fel
 | sollte das Feld 5079 genau | Dokumentationspflicht besteht | 848 | Kontext | Wenn Feldinhalt von Feld |
 | I | G | - | alpha ::= A |  |
 | B |  | ...Z |  | [ ] |
-| - |  | optional  Dokumentationspflicht besteht  850 | Kontext | Die Felder 4252 und 4253  F    851  Kontext  Die Felder 4255 und 4256  F    852  Kontext  Wenn das Feld 4255 be-   F    853  Kontext  Im Feld 4253 dürfen GNR |
-| Im Feld 4256 dürfen GNR | F | Beispiele: | - | - |
+| - |  | optional  Dokumentationspflicht besteht  850 | Kontext | Die Felder 4252 und 4253  F    851  Kontext  Die Felder 4255 und 4256  F    852  Kontext  Wenn das Feld 4255 be-   F    853  Kontext |
+| Im Feld 4253 dürfen GNR | Im Feld 4256 dürfen GNR | F | Beispiele: | -  - |
 | sollte das Feld 5079 genau | Dokumentationspflicht besteht | 848 | Kontext | Wenn Feldinhalt von Feld |
 | I | G | -alpha ::= A | B...Z |  |
 | [ ] | - | optional | Dokumentationspflicht besteht  850  Kontext  Die Felder 4252 und 4253  F | 851  Kontext |
@@ -18947,14 +18951,14 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
 | **Hinweis:** | 895 | Kontext | Wenn die FK 4112 vorhan- | W |
 |  | 897 | Kontext | Wenn die FK 4235 vorhan- | W |
-|  | 899 | Kontext | Das Datum der FK 4214 | W  Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  Unzulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260426   900  Kontext  Das Datum der FK 4214  W    901  Kontext  Wenn für die GOP in Feld  W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen,    Für Praxiscomp. bei Rücksen-**3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |
+|  | 899 | Kontext | Das Datum der FK 4214 | W  Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  Unzulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260426   900  Kontext  Das Datum der FK 4214  W    901  Kontext  Wenn für die GOP in Feld  W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen,    Für Praxiscomp. bei Rücksen-**3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
 |  |  |  |  | **Hinweis:** 895  Kontext  Wenn die FK 4112 vorhan- W    897  Kontext  Wenn die FK 4235 vorhan- W    899  Kontext  Das Datum der FK 4214  W  Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  Unzulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260426   900  Kontext  Das Datum der FK 4214  W    901  Kontext  Wenn für die GOP in Feld  W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen,    Für Praxiscomp |
 |  |  |  |  | **Hinweis:** 895  Kontext |
 | Wenn die FK 4112 vorhan- | W |  | 897 | Kontext  Wenn die FK 4235 vorhan- |
 | W |  | 899 | Kontext | Das Datum der FK 4214 |
 | W | Zulässig: | FK 5000 gleich 20260425 | FK 4214 gleich 20260425 oder | Unzulässig: |
 | FK 5000 gleich 20260425 | FK 4214 gleich 20260426 | 900 | Kontext | Das Datum der FK 4214 |
-| W |  | 901  Kontext  Wenn für die GOP in Feld |  | W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen,    Für Praxiscomp. bei Rücksen-**3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |
+| W |  | 901  Kontext  Wenn für die GOP in Feld |  | W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen,    Für Praxiscomp. bei Rücksen-**3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -18964,13 +18968,13 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | FK 5000 gleich 20260425 | FK 4214 gleich 20260426 | 900 | Kontext | Das Datum der FK 4214  W    901 |
 | Kontext |  | Wenn für die GOP in Feld |  | W |
 |  | Das Feld sollte aus fachlicher | 999*  besondere Hin- wird von KV überlesen,    Für | Praxiscomp | . bei Rücksen-**3.6 3.6.1** |
-| Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in | Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |  |
+| Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |  |  |  |  |
 |  |  |  |  |  |
 | **Hinweis:** | 895 | Kontext | Wenn die FK 4112 vorhan- | W |
 |  | 897 | Kontext  Wenn die FK 4235 vorhan- W    899 | Kontext | Das Datum der FK 4214  W  Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder |
 | Unzulässig: | FK 5000 gleich 20260425 | FK 4214 gleich 20260426   900  Kontext  Das Datum der FK 4214  W |  | 901  Kontext |
 | Wenn für die GOP in Feld |  | W  Das Feld sollte aus fachlicher  999*  besondere Hin- | wird von KV überlesen, | Für Praxiscomp. bei Rücksen-**3.6** |
-| **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in | Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |
+| **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |  |  |  |
 |  |  |  |  | **Hinweis:** |
 | 895 | Kontext | Wenn die FK 4112 vorhan- | W |  |
 | 897 | Kontext | Wenn die FK 4235 vorhan- | W |  |
@@ -18981,7 +18985,7 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | Wenn für die GOP in Feld |  | W |  | Das Feld sollte aus fachlicher |
 | 999* | besondere Hin- | wird von KV überlesen, |  | Für |
 | Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
-| Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -18999,7 +19003,7 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | 901 |  | Kontext |  | Wenn für die GOP in Feld |
 | W | Das Feld sollte aus fachlicher | 999* | besondere Hin- | wird von KV überlesen,    Für |
 | Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
-| Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -19009,7 +19013,7 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | Das Datum der FK 4214 | W |  | 901 |  |
 | Kontext |  | Wenn für die GOP in Feld |  | W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen, |
 | Für | Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** |
-| Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in | Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |  |
+| Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |  |  |  |  |
 |  |  |  |  |  |
 | **Hinweis:** | 895 | Kontext | Wenn die FK 4112 vorhan- | W |
 |  | 897 | Kontext | Wenn die FK 4235 vorhan- | W |
@@ -19019,7 +19023,7 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 |  | 901 |  | Kontext |  |
 | Wenn für die GOP in Feld |  | W | Das Feld sollte aus fachlicher | 999*  besondere Hin- wird von KV überlesen, |
 | Für | Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** |
-| Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in | Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |  |
+| Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |  |  |  |  |
 |  |  |  |  | **Hinweis:** |
 | 895 | Kontext | Wenn die FK 4112 vorhan- | W |  |
 | 897 | Kontext | Wenn die FK 4235 vorhan- | W |  |
@@ -19037,7 +19041,7 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | 900 | Kontext | Das Datum der FK 4214 | W |  |
 |  | 901 | Kontext  Wenn für die GOP in Feld  W | Das Feld sollte aus fachlicher | 999*  besondere Hin- |
 | wird von KV überlesen, |  | Für Praxiscomp | . bei Rücksen- | **3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
-| Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -19087,8 +19091,8 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | **Hinweis:** | 895 | Kontext | Wenn die FK 4112 vorhan- | W |
 |  | 897 | Kontext | Wenn die FK 4235 vorhan- | W |
 |  | 899 | Kontext  Das Datum der FK 4214  W | Zulässig: | FK 5000 gleich 20260425 |
-| FK 4214 gleich 20260425 oder | Unzulässig: | FK 5000 gleich 20260425  FK 4214 gleich 20260426   900  Kontext | Das Datum der FK 4214 | W    901  Kontext  Wenn für die GOP in Feld  W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen,    Für |
-| Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |
+| FK 4214 gleich 20260425 oder | Unzulässig: | FK 5000 gleich 20260425  FK 4214 gleich 20260426   900  Kontext | Das Datum der FK 4214 | W    901  Kontext  Wenn für die GOP in Feld  W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen, |
+| Für | Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
 | **Hinweis:** | 895 | Kontext | Wenn die FK 4112 vorhan- | W |
 |  | 897 | Kontext  Wenn die FK 4235 vorhan- | W    899  Kontext  Das Datum der FK 4214  W | Zulässig: |
 | FK 5000 gleich 20260425 | FK 4214 gleich 20260425 oder | Unzulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260426 | 900  Kontext  Das Datum der FK 4214  W | 901 |
@@ -19097,24 +19101,24 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | 895 | Kontext | Wenn die FK 4112 vorhan- W | 897  Kontext  Wenn die FK 4235 vorhan- W    899  Kontext  Das Datum der FK 4214 | W  Zulässig: |
 | FK 5000 gleich 20260425 | FK 4214 gleich 20260425 oder | Unzulässig: | FK 5000 gleich 20260425 | FK 4214 gleich 20260426 |
 | 900 | Kontext | Das Datum der FK 4214 | W | 901  Kontext  Wenn für die GOP in Feld  W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen,    Für |
-| Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |
+| Praxiscomp | . bei Rücksen- | **3.6** | **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
 | **Hinweis:** | 895 | Kontext | Wenn die FK 4112 vorhan- | W    897  Kontext  Wenn die FK 4235 vorhan- W    899  Kontext  Das Datum der FK 4214  W  Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  Unzulässig:   FK 5000 gleich 20260425 |
 | FK 4214 gleich 20260426 | 900 | Kontext | Das Datum der FK 4214 | W    901  Kontext  Wenn für die GOP in Feld  W  Das Feld sollte aus fachlicher  999*  besondere Hin- wird von KV überlesen, |
 | Für | Praxiscomp | . bei Rücksen-**3.6** | **3.6.1** | Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
-| Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  | **Hinweis:** 895 | Kontext  Wenn die FK 4112 vorhan- W |
 | 897 | Kontext | Wenn die FK 4235 vorhan- | W | 899  Kontext  Das Datum der FK 4214  W  Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  Unzulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260426   900  Kontext  Das Datum der FK 4214  W |
 |  | 901 |  | Kontext |  |
 | Wenn für die GOP in Feld |  | W | Das Feld sollte aus fachlicher | 999*  besondere Hin- wird von KV überlesen, |
-|  | Für | Praxiscomp | . bei Rücksen- | **3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |
+|  | Für | Praxiscomp | . bei Rücksen- | **3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
 |  |  |  | **Hinweis:** | 895 |
 | Kontext | Wenn die FK 4112 vorhan- | W |  | 897  Kontext  Wenn die FK 4235 vorhan- W    899  Kontext  Das Datum der FK 4214  W  Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  Unzulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260426   900 |
 | Kontext | Das Datum der FK 4214 | W |  |  |
 | 901 |  | Kontext |  | Wenn für die GOP in Feld |
 |  | W | Das Feld sollte aus fachlicher | 999* | besondere Hin- |
-| wird von KV überlesen, |  | Für Praxiscomp | . bei Rücksen- | **3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei- |
+| wird von KV überlesen, |  | Für Praxiscomp | . bei Rücksen- | **3.6 3.6.1** Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in |
 |  |  |  |  |  |
 |  |  |  | **Hinweis:** | 895 |
 | Kontext | Wenn die FK 4112 vorhan- | W |  | 897 |
@@ -19144,9 +19148,11 @@ FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“505
 | 901 | Kontext | Wenn für die GOP in Feld | W | Das Feld sollte aus fachlicher |
 | 999* | besondere Hin- | wird von KV überlesen, |  | Für Praxiscomp. bei Rücksen- |
 
-weise BESONDERE HINWEISE Auftrag zur in-vitro-Diagnostik an Facharzt vitro-diagnostische Leistungen als Auftragsleistungen (Muster 10) darf nur die Satzart 0102 mit der Schein- untergruppe „27“ (= Überweisungsschein für in sung des Erstveranlassers eine Weiterüberweisung veranlasst wurde. den ist, dann dürfen die FK 4109 und FK 3010 und FK 4108 und FK 3006 nicht vorhanden sein.  den ist, dann sollte auch die FK 4252 und FK 4253 vorhanden sein darf nicht größer dem Da- tum der FK 5000 sein. darf nicht mehr als 60 Tage kleiner als das Da- tum der FK 5000 sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“4214“ vorhan- den ist, muss das Feld FK 4214 vorhanden sein. kann in jeder Satzart mehrfach vorkommen -vitro-diagnostische Auftragsleistungen) verwenden.  Die FK 5005 kann nur mit einem Wert mindestens 002 vorkommen. 20260424 Sicht auch bei den weiteren be- troffenen IVD-Leistungen ge- setzt werden (siehe hierzu die KVDT-Anforderung KP2-565). dung
+weise BESONDERE HINWEISE Auftrag zur in-vitro-Diagnostik an Facharzt vitro-diagnostische Leistungen als Auftragsleistungen (Muster 10) darf nur die Satzart 0102 mit der Schein- untergruppe „27“ (= Überweisungsschein für in den ist, dann dürfen die FK 4109 und FK 3010 und FK 4108 und FK 3006 nicht vorhanden sein.  den ist, dann sollte auch die FK 4252 und FK 4253 vorhanden sein darf nicht größer dem Da- tum der FK 5000 sein. darf nicht mehr als 60 Tage kleiner als das Da- tum der FK 5000 sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“4214“ vorhan- den ist und das Feld 8000 = „0102“ ist , muss das Feld FK 4214 vorhanden sein. kann in jeder Satzart mehrfach vorkommen diagnostische Auftragsleistungen) verwenden.  Die FK 5005 kann nur mit einem Wert mindestens 002 vorkommen. 20260424 Sicht auch bei den weiteren be- troffenen IVD-Leistungen ge- setzt werden (siehe hierzu die KVDT-Anforderung KP2-565). dung
 
 ---
+
+Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei-sung des Erstveranlassers eine Weiterüberweisung veranlasst wurde.
 
 Werden im Datensatz sowohl Feld FK 4217 als auch Feld FK 4218 ((N)BSNR des Überweisers) übermittelt,  müssen diese bei gleichzeitiger Übertragung im Datensatz daher verschieden sein.
 
@@ -19176,10 +19182,12 @@ In Feld 4218 dürfen nur (Neben-)Betriebsstättennummern von Vertragsärzten üb
 
 Zusätzlich zur (N)BSNR bzw. zur ASV Teamnummer ist jeweils die „Lebenslange Arztnummer (LANR)“ erfor-derlich, d.h. es ist ein Feldpaar 4218/4242 bzw. 4226/4242 zu übermitteln.
 
-Die Kennzeichnung der abgerechneten Leistungen (FK 5098, 5099) muss identisch zu der Überweiser-Be-triebsstättennummer und LANR (FK 4218, 4242) erfolgen.  Sofern die Überweisung durch einen „ASV Arzt“ veranlasst wird (= Feld FK 4226 vorhanden), muss zusätz-lich zu den Feldern 5098, 5099 ein Feld 5100 mit der ASV-Teamnummer übertragen werden.
+Die Kennzeichnung der abgerechneten Leistungen (FK 5098, 5099) muss identisch zu der Überweiser-Be-triebsstättennummer und LANR (FK 4218, 4242) erfolgen.
 
 
 ---
+
+Sofern die Überweisung durch einen „ASV Arzt“ veranlasst wird (= Feld FK 4226 vorhanden), muss zusätz-lich zu den Feldern 5098, 5099 ein Feld 5100 mit der ASV-Teamnummer übertragen werden.
 
 Die (N)BSNR sollte in diesen Fällen aus einem entsprechenden praxisspezifischen „LG-Mitgliederverzeich-nis“ ermittelt werden oder kann ggf. dem auf Muster 10A aufgedruckten Vertragsarztstempel entnommen  werden.
 
@@ -19213,11 +19221,12 @@ Ausnahmen:
 - Feld „ASV Teamnummer des Überweisers“ (FK 4226) ergänzt in der ADT Satzart „Überweisung“ (0102)
 - Feld 4248 „Pseudo-LANR (für Krankenhausärzte im Rahmen der ASV Abrechnung) des Erstveranlassers“  ergänzt in der ADT-Satzart „Überweisung“ (0102)
 - Feld 4249 „Pseudo-LANR (für Krankenhausärzte im Rahmen der ASV Abrechnung) des Überweisers“ er-gänzt in der ADT-Satzart „Überweisung“ (0102)
-- Feld 0213 „Krankenhaus-IK (im Rahmen der ASV-Abrechnung)“ ergänzt in der Container Satzart „Be-triebsstättendaten (besa)“ zur Übermittlung der IK-Nummer des Krankenhauses
-- Feld 5102 „Krankenhaus-IK (im Rahmen der ASV-Abrechnung)“ ergänzt in den ADT Satzarten „Ambu-lante Behandlung“ (0101), „Überweisung“ (0102) und „Notfalldienst/ Vertretung/ Notfall“ (0104)
 
 
 ---
+
+- Feld 0213 „Krankenhaus-IK (im Rahmen der ASV-triebsstättendaten (besa)“ zur Übermittlung der IK
+- Feld 5102 „Krankenhaus-IK (im Rahmen der ASV-lante Behandlung“ (0101), „Überweisung“ (0102) und „Notfalldienst/ Vertretung/ Notfall“ (0104)
 
 Ansonsten werden bestehende Felder des ADT gung von ASV-Abrechnungsinformationen verwendet:
 
@@ -19235,6 +19244,13 @@ Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer GOP aus EBM im Ra
 
 014500150200
 
+- Abrechnung)“ ergänzt in der Container -Nummer des Krankenhauses
+- Abrechnung)“ ergänzt in den ADT
+
+-Datenpakets gemäß der nachfolgenden Tabelle zur Übertra-
+
+-Kapitel VII (Ausschließlich
+
 0185098013201300
 
 0185099604432405
@@ -19243,24 +19259,16 @@ Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer GOP aus EBM im Ra
 
 ### 3.6.5.1 Abrechnung von ASV-Leistungen, die nicht Bestandteil des EBM sind
 
-Seit dem 01.01.2015 können gemäß Beschluss des ergänzten erweiterten Bewertungsausschusses nach §  87 Abs. 5a SGB V zur Vergütung der Leistungen der ambulanten spezialfachärztlichen Versorgung gemäß §  116b Abs. 6 Satz 8 SGB V, **2. Vergütung der ASV-Leistungen** Abs. 6 Satz 12 SGB V über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke  für die ambulante spezialfachärztliche Versorgung (ASV mittels KVDT/ADT-Abrechnung an die jeweilige Kassenärztliche Vereinigung übermittelt werden.
+Seit dem 01.01.2015 können gemäß Beschluss des ergänzten erweiterten Bewertungsausschusses nach §  87 Abs. 5a SGB V zur Vergütung der Leistungen der ambulanten spezialfachärztlichen Versorgung gemäß §  116b Abs. 6 Satz 8 SGB V, **2. Vergütung der ASV-Leistungen** und Anlage 5 zur Vereinbarung gemäß § 116b  Abs. 6 Satz 12 SGB V über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke  für die ambulante spezialfachärztliche Versorgung (ASV-AV) Leistungen, die nicht Bestandteil des EBM sind,  mittels KVDT/ADT-Abrechnung an die jeweilige Kassenärztliche Vereinigung übermittelt werden.
 
-ASV-Ärzte, die diese Leistungen abrechnen, geben eine Pseudoziffer in ihrer Abrechnung im Feld 5001  bührennummer) an und kennzeichnen sie mit ihrer ASV des Vertragsarztes).
+- Satzart „Be-
+- Satzarten „Ambu-
 
--Datenpakets gemäß der nachfolgenden Tabelle zur Übertra-
-
--Kapitel VII (Ausschließlich
-
-und Anlage 5 zur Vereinbarung gemäß § 116b
-
--AV) Leistungen, die nicht Bestandteil des EBM sind,
-
--Teamnummer im Feld 5100 (ASV-Teamnummer
-
-rechnung zur Übertragung … bzw. „Pseudoziffern für ASV-Leistungen außerhalb des EBM“ gemäß Kapitel der GOÄ-Nummer der erbrachten Leis- tung gemäß Kapitel des Preises in Cent zur GOÄ-Nummer gemäß Kapitel in der ASV-Richtlinie vorgegeben), bspw. des TNM-Status mit R- und G- Code nach UICC-Stadium, eine Angabe für die Progression der Tumorerkran- kung (Ge-
-
+rechnung zur Übertragung … bzw. „Pseudoziffern für ASV-Leistungen außerhalb des EBM“ gemäß Kapitel der GOÄ-Nummer der erbrachten Leis- tung gemäß Kapitel des Preises in Cent zur GOÄ-Nummer gemäß Kapitel in der ASV-Richtlinie vorgegeben), bspw. des TNM-Status mit R- und G- Code nach UICC-Stadium, eine Angabe für die Progression der Tumorerkran- kung
 
 ---
+
+ASV-Ärzte, die diese Leistungen abrechnen, geben eine Pseudoziffer in ihrer Abrechnung im Feld 5001 (Ge-bührennummer) an und kennzeichnen sie mit ihrer ASV-Teamnummer im Feld 5100 (ASV-Teamnummer  des Vertragsarztes).
 
 Zusätzlich müssen die GOÄ-Nummer der erbrachten Leistung im Feld 5011 (Sachkosten-Bezeichnung) und  der Preis im Feld 5012 (Sachkosten/Materialkosten) in Cent erfasst und übertragen werden.
 
@@ -19310,10 +19318,10 @@ Die Progression wird durch die Angabe der Ausprägungen 0 oder 1 verschlüsselt.
 
 Beide Angaben werden im Feld 6006 (Diagnosenerläuterung) übertragen.
 
-Werden sowohl der TNM-Status als auch die Progression dokumentiert, sind diese durch geeignete Trenn-zeichen zu separieren; der TNM-Status ist dabei voranzustellen.
-
 
 ---
+
+Werden sowohl der TNM-Status als auch die Progression dokumentiert, sind diese durch geeignete Trenn-zeichen zu separieren; der TNM-Status ist dabei voranzustellen.
 
 Hinweis: Sowohl die Angabe des TNM-Status als auch die Angabe der Progression können auch jeweils se-parat erfolgen.
 
@@ -19864,7 +19872,7 @@ mit Refresher chen Kuraufenthaltes Refresher Refresher Refresher Wochen nahmen a
 | 6006 |  | n |  | Diagnosenerläuterung | k |  | vgl. Kapitel 4.5.1 |
 | 6008 |  | n |  | Diagnosenausnahmetatbe- | m | Regel 491 |  |
 
-tungserbringung (LANR) des Vertragsarz- tes/Vertragspsychotherapeu- stand BESONDERE HINWEISE achten sind. Erläuterung zu den Feldern 5000, 5001, 6001, 6003, 6004 und durchgeführten Kontrolluntersuchung” sind unter FK 5000 zu übertragen. Zu jeder Kontrolluntersuchung muss ein Feld 5001 mit der Pseudo- Gebührennummer ”00001U” übertragen werden.  evtl. in Verbindung mit den Feldern 6003, 6004, 6006, 6008 die Kurdiagnosen als auch die Diagnosen bei interkurrenten Erkrankungen zu übertragen. Vgl. auch Kapitel 4.8 , Abbildung ”Kurarztschein Rückseite”. BEGLEITPAPIERE muss jede Abrechnung mit einer Erklärung versehen werden, deren Aufbau von tungsstelle vorgegeben ist. ANFORDERUNGEN AN DIE DATENQUALITÄT KADT-Feldtabelle dieser Tabelle durchgeführt werden, während zu weiteren Prüfungen in die Regeltabelle (vgl. Kapitel -Abrechnung zu be-  sind sowohl der kurärztlichen Verwal-
+tungserbringung (LANR) des Vertragsarz- tes/Vertragspsychotherapeu- stand BESONDERE HINWEISE achten sind. Erläuterung zu den Feldern 5000, 5001, 6001, 6003, 6004 und durchgeführten Kontrolluntersuchung” sind unter FK 5000 zu übertragen. Zu jeder Kontrolluntersuchung muss ein Feld 5001 mit der Pseudo- Gebührennummer ”00001U” übertragen werden.  evtl. in Verbindung mit den Feldern 6003, 6004, 6006, 6008 die Kurdiagnosen als auch die Diagnosen bei interkurrenten Erkrankungen zu übertragen. Vgl. auch Kapitel 4.8 , Abbildung ”Kurarztschein Rückseite”. BEGLEITPAPIERE muss jede Abrechnung mit einer Erklärung versehen werden, deren Aufbau von der kurärztlichen Verwal- tungsstelle vorgegeben ist. ANFORDERUNGEN AN DIE DATENQUALITÄT KADT-Feldtabelle dieser Tabelle durchgeführt werden, während zu weiteren Prüfungen in die Regeltabelle (vgl. Kapitel -Abrechnung zu be-  sind sowohl
 
 ---
 
@@ -22108,7 +22116,7 @@ Rückseite Kurarztschein
 | SADT-Überweisung | sad2 |
 | SADT-Belegärztliche Behandlung | sad3 |
 
-SADT-DATENPAKET NRW ZIELSETZUNG feänderungsgesetz (SFHÄndG) in den Bereichen der Kassenärztlichen Vereinigung Nordrhein und Westfa- len-Lippe übertragen. ÜBERSICHT ANORDNUNG Satz ”sad0” ist einmal vorhanden.  Er ist als erster Satz des SADT-Datenpaketes abzulegen. Sätze ”sad1“, ”sad2”, ”sad3“ folgen auf den Satz ”sad0” in beliebiger Anzahl und Reihenfolge. Satz ”sad9” ist pro SADT -Datenpaket einmal vorhanden. Er ist als letzter Satz des SADT Datenpaketes abzulegen. SADT-SATZTABELLEN Satzart: SADT-Datenpaket- Header ”sad0” - und Familienhil- SADT-Datenpaketes sind wie folgt Header „sad0“ die bei der Systemprü- fung von der KBV ver- geben wird
+SADT-DATENPAKET NRW ZIELSETZUNG feänderungsgesetz (SFHÄndG) in den Bereichen der Kassenärztlichen Vereinigung Nordrhein und Westfa- len-Lippe übertragen. ÜBERSICHT ANORDNUNG Satz ”sad0” ist einmal vorhanden.  Er ist als erster Satz des SADT-Datenpaketes abzulegen. Sätze ”sad1“, ”sad2”, ”sad3“ folgen auf den Satz ”sad0” in beliebiger Anzahl und Reihenfolge. Satz ”sad9” ist pro SADT -Datenpaket einmal vorhanden. abzulegen. SADT-SATZTABELLEN Satzart: SADT-Datenpaket- Header ”sad0” - und Familienhil- SADT-Datenpaketes sind wie folgt  Er ist als letzter Satz des SADT Datenpaketes Header „sad0“ die bei der Systemprü- fung von der KBV ver- geben wird
 
 ---
 
@@ -22395,7 +22403,7 @@ des Vertragsarztes/Vertragspsy- chotherapeuten ANFORDERUNGEN AN DIE DATENQUALIT�
 | n | 050 |  | 762 | 4220 | Überweisung an |  |
 | a |  |  | Radiologen | 5000 | Leistungstag | 8 |
 
-60 322  60  60 der Software  60  60  60 weisers nummer des Über- weisers  60 (GNR)  60 dungstext kung  60 stift
+60  60  60  60  60 der Software  60 weisers nummer des Über- weisers  60 (GNR)  60 dungstext  60 322 kung stift
 
 ---
 
@@ -22592,11 +22600,11 @@ Stelle 1 0, 1 TTMMJJ gleich „555555“ sein muss des BAR-Schlüsselverzeichnis
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
 | Kassendatei | I | Krankenkassennummer (IK) | 203* | Existenzprüfung |
-| GO-Stammdatei | - |  | 204 | #  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  an die KVen übermittelt werden 213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent in  (Angabe 1.Monat der Gültigkeit  304  Kontext  Datum  F  Vermeidung von Fehleingaben  324  Kontext  Der Inhalt des Feldes 5000 muss in  F    523  erlaubter Inhalt  sad0, sad9, sad1, sad2, sad3  F |
-|  |  |  |  | 202  Existenzprüfung  Kassendatei  I  Krankenkassennummer (IK)  203*  Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  an die KVen übermittelt werden 213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent in  (Angabe 1.Monat der Gültigkeit  304  Kontext  Datum  F  Vermeidung von Fehleingaben  324  Kontext  Der Inhalt des Feldes 5000 muss in  F |
+| GO-Stammdatei | - |  | 204 | #  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  an die KVen übermittelt werden 213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent in  (Angabe 1.Monat der Gültigkeit  304  Kontext  Datum  F  Vermeidung von Fehleingaben  324  Kontext  Der Inhalt des Feldes 5000 muss in  F    523  erlaubter Inhalt  sad0, sad9, sad1, sad2, sad3  F |
+|  |  |  |  | 202  Existenzprüfung  Kassendatei  I  Krankenkassennummer (IK)  203*  Existenzprüfung  GO-Stammdatei  -    204#  Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  212  erlaubter Inhalt   F  Der Kostenträger mit der VKNR  an die KVen übermittelt werden 213#  Existenzprüfung  Anbieterstammdatei  F  Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent in  (Angabe 1.Monat der Gültigkeit  304  Kontext  Datum  F  Vermeidung von Fehleingaben  324  Kontext  Der Inhalt des Feldes 5000 muss in  F |
 |  |  |  |  | 202  Existenzprüfung  Kassendatei  I  Krankenkassennummer (IK) |
 | 203* | Existenzprüfung | GO-Stammdatei | - |  |
-| 204 | # | Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig 212  erlaubter Inhalt   F | Der Kostenträger mit der VKNR | an die KVen übermittelt werden |
+| 204 | # | Existenzprüfung  Anbieterstammdatei  W  Prüfnummer existent und gültig  212  erlaubter Inhalt   F | Der Kostenträger mit der VKNR | an die KVen übermittelt werden |
 | 213 | # | Existenzprüfung  Anbieterstammdatei  F | Erweiterte Existenzprüfung: | Falls Prüfnummer nicht existent in |
 | (Angabe 1.Monat der Gültigkeit | 304 | Kontext  Datum  F  Vermeidung von Fehleingaben | 324 | Kontext |
 | Der Inhalt des Feldes 5000 muss in | F | 523 | erlaubter Inhalt | sad0, sad9, sad1, sad2, sad3  F |
@@ -22662,7 +22670,7 @@ Stelle 1 0, 1 TTMMJJ gleich „555555“ sein muss des BAR-Schlüsselverzeichnis
 | 815 | Kontext | Wenn der Inhalt des Feldes 8000 =  Versions- entsprechen. | W |  |
 | 999* | besondere Hin- | wird von KV überlesen, kann in jeder |  | Für Praxiscomp. Bei Rücksendung |
 
-status „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzulässig. sad0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen angabe weise Satzart mehrfach vorkommen
+weise „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzulässig. sad0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen angabe Satzart mehrfach vorkommen status
 
 ---
 
@@ -23438,7 +23446,7 @@ der Versicherten- karte im Quartal zEnde  60 von ... bis ...     60 nengruppe  e
 |  |  |  |  |  |  |  |
 | nach den §§ 4 und 6 des Asyl- | 4132 | DMP_Kennzeich- | 2 | a | 536 |  |
 | 00 = kein DMP-Kennzeichnen | (Defaultwert) | 01 = Diabetes mellitus Typ 2 | 02 = Brustkrebs | 03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale |
-|  | 06 = COPD | (chronic obstructive pul- | monary disease) | 07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK | 35 = Asthma und KHK | KHK |
+|  | 06 = COPD | (chronic obstructive pul- | monary disease) | 07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK | 35 = Asthma und KHK | KHK |
 | 37 = Brustkrebs und Diabetes Typ 2 | 38 = Diabetes Typ 1 und KHK | 39 = Asthma und Diabetes Typ 1 | 40 = Asthma und Brustkrebs | 41 = Brustkrebs und KHK | 42 = Brustkrebs und COPD | 43 = COPD und Diabetes Typ 1 |
 | KHK | tes Typ 2 | 46 = Brustkrebs und Diabetes Typ 1 | 47 = COPD, Diabetes Typ 1 und KHK | 48 = Brustkrebs, COPD und Diabe- |  |  |
 |  |  |  |  |  |  |  |
@@ -23468,9 +23476,9 @@ der Versicherten- karte im Quartal zEnde  60 von ... bis ...     60 nengruppe  e
 | 47 = COPD, Diabetes Typ 1 und KHK | 48 = Brustkrebs, COPD und Diabe- |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-|  |  |  |  |  | **FK ** Feldbezeichnung  Länge  Typ  Regel  Erlaubte Inhalte und deren Bedeu- Beispiel  nach den §§ 4 und 6 des Asyl- 4132  DMP_Kennzeich- 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  Beispiel  nach den §§ 4 und 6 des Asyl- 01 = Diabetes mellitus Typ 2  02 = Brustkrebs |  |
+|  |  |  |  |  | **FK ** Feldbezeichnung  Länge  Typ  Regel  Erlaubte Inhalte und deren Bedeu- Beispiel  nach den §§ 4 und 6 des Asyl- 4132  DMP_Kennzeich- 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  Beispiel  nach den §§ 4 und 6 des Asyl- 01 = Diabetes mellitus Typ 2  02 = Brustkrebs |  |
 |  |  |  |  |  |  | nach den §§ 4 und 6 des Asyl- |
-| 4132 | DMP_Kennzeich- | 2 | a | 536 | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  KHK  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK  42 = Brustkrebs und COPD  43 = COPD und Diabetes Typ 1  KHK  tes Typ 2  46 = Brustkrebs und Diabetes Typ 1  47 = COPD, Diabetes Typ 1 und KHK 48 = Brustkrebs, COPD und Diabe- |  |
+| 4132 | DMP_Kennzeich- | 2 | a | 536 | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK 35 = Asthma und KHK  KHK  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK  42 = Brustkrebs und COPD  43 = COPD und Diabetes Typ 1  KHK  tes Typ 2  46 = Brustkrebs und Diabetes Typ 1  47 = COPD, Diabetes Typ 1 und KHK 48 = Brustkrebs, COPD und Diabe- |  |
 |  |  |  |  |  |  | nach den §§ 4 und 6 des Asyl- 4132  DMP_Kennzeich- 2  a  536  00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2 |
 | 02 = Brustkrebs | 03 = Koronare Herzkrankheit | 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale | 06 = COPD (chronic obstructive pul- monary disease) |  | 07 = Chronische Herzinsuffizienz |
 | 08 = Depression | 09 = Rückenschmerz | 10 = Rheuma | 11 = Osteoporose | 12 = Adipositas  30 = Diabetes Typ 2 und KHK | 31 = Asthma und Diabetes Typ 2 | 32 = COPD und Diabetes Typ 2 |
@@ -23483,7 +23491,7 @@ der Versicherten- karte im Quartal zEnde  60 von ... bis ...     60 nengruppe  e
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | nach den §§ 4 und 6 des Asyl- 4132  DMP_Kennzeich- 2 |
 | a | 536 |  | 00 = kein DMP-Kennzeichnen | (Defaultwert)  01 = Diabetes mellitus Typ 2 | 02 = Brustkrebs | 03 = Koronare Herzkrankheit |
-| 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale |  | 06 = COPD | (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz | 10 = Rheuma  11 = Osteoporose  12 = Adipositas | 30 = Diabetes Typ 2 und KHK |
+| 04 = Diabetes mellitus Typ 1 | 05 = Asthma bronchiale |  | 06 = COPD | (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz 08 = Depression  09 = Rückenschmerz | 10 = Rheuma  11 = Osteoporose  12 = Adipositas | 30 = Diabetes Typ 2 und KHK |
 | 31 = Asthma und Diabetes Typ 2 | 32 = COPD und Diabetes Typ 2 | 33 = COPD und KHK | 34 = COPD, Diabetes Typ 2 und KHK | 35 = Asthma und KHK  KHK | 37 = Brustkrebs und Diabetes Typ 2 | 38 = Diabetes Typ 1 und KHK |
 | 39 = Asthma und Diabetes Typ 1 | 40 = Asthma und Brustkrebs | 41 = Brustkrebs und KHK | 42 = Brustkrebs und COPD | 43 = COPD und Diabetes Typ 1  KHK  tes Typ 2  46 = Brustkrebs und Diabetes Typ 1 | 47 = COPD, Diabetes Typ 1 und KHK | 48 = Brustkrebs, COPD und Diabe- |
 |  |  |  |  |  |  |  |
@@ -27079,7 +27087,7 @@ fung und -aktualisierung tes : 00000000 0109, hdrg1  5 0109, hdrg1  128  0109, h
 | a | 0101, 0102, 0103, 0104, |  | 3116 | WOP | 2 |
 | n | 0101, 0102, 0103, 0104, | 3119 | Versicherten_ID | 10 | a  0101, 0102, 0103, 0104, |
 
-40  40 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (Datenerfassungs nung - DEÜV) 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 Anlage 08 (Staatsangehörig- keit und Länderkennzeichen für Auslandsanschriften) un- ter austausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp Teil (Versicherten-ID) der eGK-Krankenversicherten- nummer der Versicherten-ID erfolgt nach dem Schema der Anlage 1 der Richtlinie „Organisatori- sche und technische Richtli- nien zur Nutzung der Versi- cherungsnummer nach §147 SGB VI bei Einführung einer neuen Krankenversicherten- nummer nach § 290 SGB V, Version 1.5“. Die Prüfziffer wird mit einem Modulo-10- Verfahren ermittelt. Der Buchstabe wird dabei durch zwei Ziffern ersetzt, das A mit 0 und 1, das B mit 0 und 2, …, und das Z mit 2 und 6. Die Ziffern werden von links nach rechts abwechselnd mit 1 und 2 multipliziert. Es erfolgt eine Quersummenbildung der einzelnen Produkte, mit - und  -Übermittlungsverord-
+40  40 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung nung - DEÜV) 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 Anlage 08 (Staatsangehörig- keit und Länderkennzeichen für Auslandsanschriften) un- ter austausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp Teil (Versicherten-ID) der eGK-Krankenversicherten- nummer der Versicherten-ID erfolgt nach dem Schema der Anlage 1 der Richtlinie „Organisatori- sche und technische Richtli- nien zur Nutzung der Versi- cherungsnummer nach §147 SGB VI bei Einführung einer neuen Krankenversicherten- nummer nach § 290 SGB V, Version 1.5“. Die Prüfziffer wird mit einem Modulo-10- Verfahren ermittelt. Der Buchstabe wird dabei durch zwei Ziffern ersetzt, das A mit 0 und 1, das B mit 0 und 2, …, und das Z mit 2 und 6. Die Ziffern werden von links nach rechts abwechselnd mit 1 und 2 multipliziert. Es erfolgt eine Quersummenbildung der einzelnen Produkte, mit (Datenerfassungs- und  -Übermittlungsverord-
 
 ---
 
@@ -27571,7 +27579,7 @@ Verordnung über die Erfassung und Übermittlung von Daten für die Träger der 
 | Ausstellungsdatum | 8 | d | 0101, 0102, 0103, 0109 |  | 4103 |
 | Vermittlungs-/Kontaktart | 1  n | 0101, 0102, 0103, 0104 |  | 4104 | Abrechnungs-VKNR  5 |
 
-erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs- nungsbereich (KTAB) biles Lesegerät) sichertenkarte im Quartal  60  60  60 sad1, sad2, sad3 0109, sad1, sad2, sad3, hdrg1 hdrg1 0109, hdrg1 0109, hdrg1 bspw.  des „Bis -Datum der Gültig- keit“ im Format „MMJJ“ in die Form „JJJJMMTT“ not- wendig, wobei TT = letzter möglicher Tag dieses Monats und JJJJ = Verkettung (’20‘,JJ vgl. Mappingtabelle_KVK ping_KVK]
+erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs- nungsbereich (KTAB) biles Lesegerät) sichertenkarte im Quartal  60  60  60 sad1, sad2, sad3 0109, sad1, sad2, sad3, hdrg1 hdrg1 bspw.  0109, hdrg1 0109, hdrg1 des „Bis -Datum der Gültig- keit“ im Format „MMJJ“ in die Form „JJJJMMTT“ not- wendig, wobei TT = letzter möglicher Tag dieses Monats und JJJJ = Verkettung (’20‘,JJ), vgl. Mappingtabelle_KVK ping_KVK]
 
 ---
 
@@ -27586,7 +27594,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | BesonderePersonen- | 2 | a | 0101, 0102, 0103, 0104, |  | 4132 |
 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  | 4133 |
 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  | 4134 |
-| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: |
+| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: |
 | 1. Priorität: |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  | 4111 |
@@ -27601,7 +27609,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | 2 | a | 0101, 0102, 0103, 0104, |  | 4132 | DMP-Kennzeichnung |
 | 2 | a | 0101, 0102, 0103, 0104, |  | 4133 | VersicherungsschutzBe- |
 | 8 | d | 0101, 0102, 0103, 0104, |  | 4134 | Kostentraegername |
-|  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: | 1. Priorität: |
+|  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: | 1. Priorität: |
 | 4111 | Kostentraegerkennung  9 | n | 0101, 0102, 0103, 0104, |  | 4112 |
 | eEB vorhanden | 1 | n | 0101, 0102, 0103, 0104, |  | 4115 |
 | Tag der Terminvermitt- | 8 | d | 0101, 0102, 0103, 0104 |  | 4121 |
@@ -27671,7 +27679,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | 4131 | BesonderePersonen- | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4132 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, | 4133 |
 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  | 4134 |
-| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: |
+| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: |
 | 1. Priorität: |  |  |  |  |  |
 | 4111 | Kostentraegerkennung | 9 | n | 0101, 0102, 0103, 0104, |  |
 | 4112 | eEB vorhanden | 1 | n | 0101, 0102, 0103, 0104, |  |
@@ -27685,7 +27693,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | 4131 | BesonderePersonen- | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4132 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4133 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  |
-| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- eGK:   1. Priorität: |
+| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ eGK:   1. Priorität: |
 |  |  |  |  |  | 4111  Kostentraegerkennung  9  n |
 | 0101, 0102, 0103, 0104, |  | 4112 | eEB vorhanden | 1 | n |
 | 0101, 0102, 0103, 0104, |  | 4115 | Tag der Terminvermitt- | 8 | d  0101, 0102, 0103, 0104    4121  Gebührenordnung  1 |
@@ -27701,7 +27709,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 |  | a  0101, 0102, 0103, 0104, |  | 4131 | BesonderePersonen- | 2 |
 | a | 0101, 0102, 0103, 0104,    4132  DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4133 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  |
-| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- |
+| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ |
 | eGK: | 1. Priorität: |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27717,7 +27725,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | 2 | a | 0101, 0102, 0103, 0104, |  | 4132 | DMP-Kennzeichnung |
 | 2 | a | 0101, 0102, 0103, 0104, |  | 4133 | VersicherungsschutzBe- |
 | 8 | d | 0101, 0102, 0103, 0104, |  | 4134 | Kostentraegername |
-|  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: | 1. Priorität: |
+|  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: | 1. Priorität: |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 4111 | Kostentraegerkennung | 9 | n | 0101, 0102, 0103, 0104, |  |
@@ -27732,7 +27740,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | 4131 | BesonderePersonen- | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4132 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4133 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  |
-| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- |
+| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ |
 | eGK: | 1. Priorität: |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27751,7 +27759,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | a | 0101, 0102, 0103, 0104, |  | 4132 | DMP-Kennzeichnung | 2 |
 | a | 0101, 0102, 0103, 0104, |  | 4133 | VersicherungsschutzBe- | 8 |
 | d | 0101, 0102, 0103, 0104, |  | 4134 | Kostentraegername |  |
-| a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: | 1. Priorität: |  |
+| a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: | 1. Priorität: |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  | 4111 |
 | Kostentraegerkennung | 9 | n | 0101, 0102, 0103, 0104, |  | 4112 |
@@ -27766,7 +27774,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | BesonderePersonen- | 2 | a | 0101, 0102, 0103, 0104, |  | 4132 |
 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  | 4133 |
 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  | 4134 |
-| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: |
+| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: |
 | 1. Priorität: |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27785,7 +27793,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | 4131 | BesonderePersonen- 2 | a | 0101, 0102, 0103, 0104, |  | 4132 |
 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  | 4133 |
 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  | 4134 |
-| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: |
+| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: |
 | 1. Priorität: |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27802,7 +27810,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | BesonderePersonen- | 2 | a | 0101, 0102, 0103, 0104, |  | 4132 |
 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  | 4133 |
 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  | 4134 |
-| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- | eGK: |
+| Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „ | eGK: |
 | 1. Priorität: |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27817,7 +27825,7 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | Personenkreis / Untersu- | 2 | n | 0101, 0102, 0103, 0104, |  | 4124 |
 | SKT-Zusatzangaben | 5  a | 0101, 0102, 0103, 0104, |  | 4125 | Gültigkeitszeitraum von …  16 |
 
-lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, hdrg1 0109, hdrg1 hdrg1 hdrg1 hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109 KassenName“ Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz/Kostentrae- ger/AbrechnenderKosten- traeger/Name 2. Priorität: Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz /Kostentrae- ger/Name Das Feld muss übertragen
+lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, hdrg1 0109, hdrg1 hdrg1 hdrg1 hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109 Kranken- KassenName“ Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz/Kostentrae- ger/AbrechnenderKosten- traeger/Name 2. Priorität: Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz /Kostentrae- ger/Name Das Feld muss übertragen
 
 ---
 
@@ -27837,7 +27845,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- |
 | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1 |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1 |
 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |
 |  | Muster 6 (Überweisungs- |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27849,7 +27857,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn  Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1 |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1 |
 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |
 |  | Muster 6 (Überweisungs- |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27862,7 +27870,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- |
 | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1  n |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1  n |
 | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |  |
 | Muster 6 (Überweisungs- |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27874,39 +27882,39 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- |
 | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1 |
-| n | 0101, 0102, 0103  Dieses Feld dient zur Kenn- | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |  |  |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1 |
+| n | 0101, 0102, 0103 Dieses Feld dient zur Kenn- | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- wurde. Dies gilt auch, wenn  Eine manuelle Erfassung  Auch der aus der KT-Stamm- |
-| 4202 | Unfall, Unfallfolgen | 1 | n | 0101, 0102, | eingeschränkter Leis- 1  n  0101, 0102, 0103  Dieses Feld dient zur Kenn-   Das Muster 85 (Nachweis der  Muster 85 ersetzt in diesen |
+| 4202 | Unfall, Unfallfolgen | 1 | n | 0101, 0102, 0103, 0104 | eingeschränkter Leis- 1  n  0101, 0102, 0103 Dieses Feld dient zur Kenn-   Das Muster 85 (Nachweis der  Muster 85 ersetzt in diesen |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen  1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1  n  0101, 0102, 0103 |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1  n  0101, 0102, 0103 |
 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102, |  | 4204 | eingeschränkter Leis- |
+| 1 | n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- |
 | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der  Muster 85 ersetzt in diesen    Muster 6 (Überweisungs- |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102, |  | 4204 | eingeschränkter Leis- |
+| 1 | n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- |
 | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der |
 | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- wurde. Dies gilt auch, wenn |
-| Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 | n  0101, 0102, |
+| Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 | n  0101, 0102, 0103, 0104 |
 | 4204 | eingeschränkter Leis- | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |
 |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102, |  | 4204 | eingeschränkter Leis- |
+| 1 | n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- |
 | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der |
 | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |  |  |  |
 |  |  |  |  |  |  |
@@ -27920,7 +27928,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102, |  | 4204 | eingeschränkter Leis- |
+| 1 | n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- |
 | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der |
 | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |  |  |  |
 |  |  |  |  |  |  |
@@ -27933,11 +27941,11 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- wurde. Dies gilt auch, wenn  Eine manuelle Erfassung  Auch der aus der KT-Stamm- |
-| 4202 | Unfall, Unfallfolgen | 1 | n | 0101, 0102, |  |
+| 4202 | Unfall, Unfallfolgen | 1 | n | 0101, 0102, 0103, 0104 |  |
 | 4204 | eingeschränkter Leis- | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn-   Das Muster 85 (Nachweis der  Muster 85 ersetzt in diesen    Muster 6 (Überweisungs- |
 |  |  |  |  |  | werden, wenn eine Versi- wurde. Dies gilt auch, wenn |
 | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 | n |
-| 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1 | n |
+| 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1 | n |
 | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |  |
 | Muster 6 (Überweisungs- |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -27952,7 +27960,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102, |  | 4204 | eingeschränkter Leis- |
+| 1 | n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- |
 | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der |
 | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |  |  |  |
 |  |  |  |  |  |  |
@@ -27967,7 +27975,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102, |  | 4204 | eingeschränkter Leis- |
+| 1 | n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- |
 | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der |
 | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |  |  |  |
 |  |  |  |  |  |  |
@@ -27986,7 +27994,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102,    4204 | eingeschränkter Leis- | 1 | n |
+| 1 | n | 0101, 0102, 0103, 0104   4204 | eingeschränkter Leis- | 1 | n |
 | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |  |
 | Muster 6 (Überweisungs- |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -28001,7 +28009,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- |
 | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1 |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1 |
 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |
 |  | Muster 6 (Überweisungs- |  |  |  |  |
 |  |  |  |  |  |  |
@@ -28020,7 +28028,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen |
-| 1 | n | 0101, 0102, |  | 4204 | eingeschränkter Leis- |
+| 1 | n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- |
 | 1 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der |
 | Muster 85 ersetzt in diesen |  | Muster 6 (Überweisungs- |  |  |  |
 |  |  |  |  |  |  |
@@ -28037,7 +28045,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | werden, wenn eine Versi- | wurde. Dies gilt auch, wenn  Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1 |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1 |
 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |
 |  | Muster 6 (Überweisungs- |  |  |  |  |
 |  |  |  |  |  |  |
@@ -28056,14 +28064,14 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 |  |  |  |  |  |  |
 |  |  |  |  |  | werden, wenn eine Versi- |
 | wurde. Dies gilt auch, wenn | Eine manuelle Erfassung | Auch der aus der KT-Stamm- | 4202 | Unfall, Unfallfolgen | 1 |
-| n | 0101, 0102, |  | 4204 | eingeschränkter Leis- | 1 |
+| n | 0101, 0102, 0103, 0104 |  | 4204 | eingeschränkter Leis- | 1 |
 | n | 0101, 0102, 0103 | Dieses Feld dient zur Kenn- |  | Das Muster 85 (Nachweis der | Muster 85 ersetzt in diesen |
 |  | Muster 6 (Überweisungs- |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-tungsanspruch gemäß §16 Abs. 3a SGB V  0103, 0104 chertenkarte eingelesen die Daten von einem mobilen Kartenterminal in ein PVS übernommen werden.  durch den Anwender im Er- satzverfahren ist nicht gefor- dert, da faktisch nicht mög- lich. datei abgeleitete "Kassen- name zur Bedruckung" darf nicht übertragen werden. zeichnung von Fällen mit „eingeschränktem Leistungs- anspruch gemäß § 16 Absatz 3a SGB V“. Anspruchsberechtigung bei Ruhen des Anspruchs gemäß § 16 Absatz 3a SGB V) wird von den Krankenkassen aus- gestellt und dient dem Ver- tragsarzt als Information über den Behandlungsan- spruch. Fällen die Versichertenkarte und der „Versicherte“ muss manuell im Ersatzverfahren aufgenommen werden. schein) wurde um ein ent- sprechendes Ankreuzfeld (eingeschränkter Leistungs- anspruch gemäß § 16 Absatz 3a SGB V) erweitert. Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Über- weisung tätig wird, über den eingeschränkten Leistungsan- spruch zu informieren.
+tungsanspruch gemäß §16 Abs. 3a SGB V  chertenkarte eingelesen die Daten von einem mobilen Kartenterminal in ein PVS übernommen werden.  durch den Anwender im Er- satzverfahren ist nicht gefor- dert, da faktisch nicht mög- lich. datei abgeleitete "Kassen- name zur Bedruckung" darf nicht übertragen werden. zeichnung von Fällen mit „eingeschränktem Leistungs- anspruch gemäß § 16 Absatz 3a SGB V“. Anspruchsberechtigung bei Ruhen des Anspruchs gemäß § 16 Absatz 3a SGB V) wird von den Krankenkassen aus- gestellt und dient dem Ver- tragsarzt als Information über den Behandlungsan- spruch. Fällen die Versichertenkarte und der „Versicherte“ muss manuell im Ersatzverfahren aufgenommen werden. schein) wurde um ein ent- sprechendes Ankreuzfeld (eingeschränkter Leistungs- anspruch gemäß § 16 Absatz 3a SGB V) erweitert. Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Über- weisung tätig wird, über den eingeschränkten Leistungsan- spruch zu informieren.
 
 ---
 

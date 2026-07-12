@@ -1452,7 +1452,7 @@
 	  <meldung>
             <nummer>KVDT-R901</nummer>
             <typ>Warnung</typ>
-            <text>Wenn für die GOP in Feld FK 5001 in der EBM-Stammdatei das XML-Element ../gnr_zusatzangabe/@V="4214" vorhanden ist, muss das Feld FK 4214 vorhanden sein.</text>
+            <text>Wenn für die GOP in Feld FK 5001 in der EBM-Stammdatei das XML-Element ../gnr_zusatzangabe/@V="4214" vorhanden ist und das Feld 8000="0102" ist, muss das Feld FK 4214 vorhanden sein.</text>
             <maxcount>5</maxcount>
         </meldung>
 	<meldung>

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**04. JULI 2026**
+**11. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/169/2409/36/031 | 31.08.2027 | nicht umgesetzt |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 Y/169/2407/36/395
 
@@ -126,7 +126,7 @@ Y/169/2408/36/706 44801 Bochum Internet: www.cgm.com
 
 Y/169/2408/36/263
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 Linux 31.07.2027 nicht umgesetzt Windows
 
@@ -302,7 +302,7 @@ Y/169/2408/36/602
 
 Y/169/2401/36/086
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026 31.07.2027
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026 31.07.2027
 
 umgesetzt
 
@@ -336,7 +336,7 @@ Y/169/2507/36/769
 
 Y/169/2407/36/295
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 iOS/Android 30.06.2028 nicht umgesetzt Mac OS Windows
 
@@ -370,7 +370,7 @@ Y/169/2408/36/421
 
 Y/169/2407/36/034
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 31.07.2027 nicht umgesetzt Windows
 
@@ -574,7 +574,7 @@ SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.
 |---|---|---|---|---|
 |  | Y/169/2408/36/216 | 31.07.2027 | umgesetzt |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 Y/169/2409/36/375
 
@@ -612,7 +612,7 @@ Y/169/2406/36/243
 
 Y/169/2405/36/266
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026 31.05.2027
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026 31.05.2027
 
 umgesetzt
 
@@ -692,7 +692,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|---|
 |  | Y/169/2312/36/290 | 30.11.2026 | nicht umgesetzt |  |
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 Y/169/2312/37/251 31.12.2026
 
@@ -932,7 +932,7 @@ Y/169/2410/36/498
 
 Y/169/2409/36/313
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 iOS/Android Linux 30.09.2027 nicht umgesetzt Mac OS Windows
 
@@ -949,7 +949,7 @@ UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unis
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 04. Juli 2026
+Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 11. Juli 2026
 
 **Prüfnummer**
 

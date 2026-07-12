@@ -1,4 +1,4 @@
-Programm KBV-Prüfmodul für KVDT-Prüfung Version 2026.3.2 3/2026
+Programm KBV-Prüfmodul für KVDT-Prüfung Version 2026.3.3 3/2026
 
 Zu diesem Programm gehören folgende Dateien:
 
