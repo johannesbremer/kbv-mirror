@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Datensatzbeschreibung* |
-|  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDAV |
+|  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDAV] |
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Arztverzeichnis-Stammdatei -Lewin-Platz 2 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft 
+Arztverzeichnis-Stammdatei 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
@@ -42,7 +42,7 @@ Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnah
 
 **1.3** **Dateiname der AV-Stammdatei .................................................................................................... 5**
 
-**1.4** **Zeichensatztabelle ISO 8859 Latin 1** **............................................................................................ 5**
+**1.4** **Zeichensatztabelle ISO 8859 Latin 1 ............................................................................................ 5**
 
 **2** **SATZTABELLE**
 
@@ -455,6 +455,7 @@ Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht 
 **UKV bzw. OKV bei nicht untergliederten KVen**
 
 **Seriennummer**
+
 
 ---
 

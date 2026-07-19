@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 22. AUGUST 2024   VERSION: 1.1   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  22. AUGUST 2024   VERSION: 1.1   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ZUSTANDSBEDINGUNGEN  ASTHMAKONTROLLE
@@ -18,21 +18,21 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1**
+**1** **EINLEITUNG**
 
-| 2 | ZUSTÄNDE DER ASTHMAKONTROLLE | 5 |
+**4**
+
+| 2 | ZUSTÄ N DED ER A STHM AKONTROLLE | 5 |
 |---|---|---|
 | 2.1 | Kontrolliert | 5 |
 | 2.2 | Teilweise kontrolliert | 5 |
 | 2.3 | Unkontrolliert | 6 |
 
-**3**
+**3 REFERENZIERTE DOKUMENTE**
 
-**EINLEITUNG**
+**8**
 
-**REFERENZIERTE DOKUMENTE**
-
-**4** **8**
+ZUSTÄNDE DER ASTHMAKONTROLLE 
 
 
 ---
@@ -69,7 +69,7 @@ In den folgenden Kapiteln werden die Bedingungen aufgeführt, anhand derer das S
 
 Es müssen alle folgenden 4 Kriterien zutreffen:
 
-- A. Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma Symptomen tagsüber) = NICHT „Häufiger  als 2 mal wöchentlich“
+- A. Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber) = NICHT „Häufiger  als 2 mal wöchentlich“
 - B. Feld 1a (In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation) = NICHT  „Häufiger als 2 mal wöchentlich“
 - C. Feld 2a (In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma  bronchiale) = „Nein“
 - D. Feld 2b (In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes) = „Nein“
@@ -80,7 +80,7 @@ A UND B UND C UND D
 
 Es müssen alle folgenden 4 Kriterien zutreffen:
 
-- A. NICHT [Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma Symptomen tagsüber) = „Häufiger  als 2 < 1 mal wöchentlich“ ODER Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma Symptomen tagsüber) = 2 mal wöchentlich Keine
+- A. NICHT [Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber) = „Häufiger  als 2 < 1 mal wöchentlich“ ODER Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma Symptomen tagsüber) = 2 mal wöchentlich Keine
 - B. NICHT [Feld 1a (In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation) =  Häufiger als 2 < 1 mal wöchentlich“ ODER Feld 1a (In den letzten 4 Wochen: Häufigkeit des  Einsatzes der Bedarfsmedikation) = „2 mal wöchentlich Keine
 - C. Feld 2a (In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma  bronchiale) = „Nein“
 - D. Feld 2b (In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes) = „Nein“
@@ -126,7 +126,7 @@ Es muss mindestens ein und nicht mehr als zwei der folgenden 4 Kriterien zutreff
 - B. [Feld 1a („In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation“) = „Häufiger  als 2 mal wöchentlich“ ODER Feld 1a („In den letzten 4 Wochen: Häufigkeit des Einsatzes der  Bedarfsmedikation“) = „2 mal wöchentlich“ ODER Feld 1a („In den letzten 4  Einsatzes der Bedarfsmedikation“) = „1 mal wöchentlich“]
 - C. Feld 2a („In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma
 - bronchiale“) = „Ja“
-- D. Feld 2b („In den letzten 4 Wochen: Asthmabedingte Störung des Nachts
+- D. Feld 2b („In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes“) = „Ja“
 
 ((A ODER B) UND (NICHT (C ODER D))) ODER
 
@@ -146,7 +146,10 @@ Es muss mindestens ein und nicht mehr als zwei der folgenden 4 Kriterien zutreff
 
 - -Symptomen tagsüber“) = „Häufiger als 2  -Symptomen
 - Wochen: Häufigkeit des
-- chlafes“) = „Ja“
+
+```
+-
+```
 
 ## 2.3 UNKONTROLLIERT
 
@@ -154,7 +157,7 @@ Es muss mindestens ein und nicht mehr als zwei der folgenden 4 Kriterien zutreff
 
 Es müssen drei oder vier der folgenden 4 Kriterien zutreffen:
 
-- A. Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma Symptomen tagsüber) = „Häufiger als 2
+- A. Feld 1 (In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber) = „Häufiger als 2
 - mal wöchentlich“
 - B. Feld 1a (In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation) = „Häufiger als 2
 - mal wöchentlich“
@@ -202,7 +205,7 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen:
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| [DMP-A-RL] | Richtlinie  des Gemeinsamen Bundesausschusses zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V  DMP-Anforderungen-Richtlinie |
+| [DMP-A-RL] | Richtlinie  des Gemeinsamen Bundesausschusses  zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Absatz 2 SGB V   DMP-Anforderungen-Richtlinie |
 
 **Ansprechpartner:**
 

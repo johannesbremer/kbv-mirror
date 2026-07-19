@@ -8,7 +8,7 @@
 
 **Die spezialisierte ambulante Palliativversorgung wird** **wie vom behandelnden Arzt verordnet beantragt.**
 
-**Datum** **Datenschutzhinweis (§ 67a Abs. 3 SGB X): Damit wir Ihren Antrag auf SAPV-Leistungen** **bearbeiten können, ist Ihr Mitwirken nach § 60 SGB I erforderlich. Ihre Daten sind im** **vorliegenden Falle aufgrund § 37b SGB V i. V. m. § 92 Abs. 1 SGB V zu erheben.**
+**Datenschutzhinweis (§ 67a Abs. 3 SGB X): Damit wir Ihren Antrag auf SAPV-Leistungen** **bearbeiten können, ist Ihr Mitwirken nach § 60 SGB I erforderlich. Ihre Daten sind im** **vorliegenden Falle aufgrund § 37b SGB V i. V. m. § 92 Abs. 1 SGB V zu erheben.**
 
 ### Angaben des Leistungserbringers für die SAPV
 
@@ -24,6 +24,10 @@
 
 **Name des Leistungserbringers / ggf. Stempel**
 
+**Datum**
+
+**Unterschrift des Versicherten / Vertretungsberechtigten**
+
 **Anschrift** **(Straße,** **Hausnummer,** **PLZ,** **Wohnort)**  **ggf.** **Stempel**
 
 **Institutionskennzeichen des Leistungserbringers**
@@ -33,8 +37,6 @@
 **Telefonnummer**
 
 **Fax-Nummer**
-
-**Datum**
 
 **E-Mail**
 
@@ -46,24 +48,22 @@
 
 **in folgendem Umfang übernommen**
 
-| Die Genehmigung der Krankenkasse istangegebenen Zeitraums, so erlischtSollte die SAPV ü b erd en le tz te n B ew illigZeitraums eine erneute Verordnung bei | der Abrechnung beizufü g en.E ndetd ie N otwdamit auch die Kostenve rp flich tung .ungsta g h in aus e rfo rd erlic h s ein ,s o is tder Krankenkasse einzureichen. rechtzeitig |
+| Die Genehmigung der Krankenkasse istangegebenen Zeitraums, so erlischtSollte die SAPV ü b erd en le tz te n B ewilligZeitraums eine erneute Verordnung bei | der Abrechnung beizufügen. Endet diedamit auch die Kostenverpflichtung.ungsta g h in aus e rforderlich sein, so istder Krankenkasse einzureichen. rechtzeitig |
 |---|---|
-| ***Auszufüllen, soweit von Seiten der Krankenkasse*****Name, Vorname des VersichertenStraße, Hausnummer, PLZ, Wohnort** | |
+| ***Auszufü lle n,s ow eit v on S eite n d erK ra nkenkasse*****Name, Vorname des VersichertenStraße, Hausnummer, PLZ, Wohnort** | |
 
 **Versichertennummer**
 
 **Geburtsdatum**
 
-***arf besteht***
-
 **Datum**
-
-**Unterschrift des Versicherten / Vertretungsberechti gten**
 
 **Stempel / Unterschrift des SAPV-Leistungserbringers**
 
 **des genehmigten**
 
+**Datum**
+
 **Stempel / Unterschrift der Krankenkasse**
 
-Die Genehmigung der Krankenkasse ist der Abrechnung beizufügen. Endet die Notwendigkeit vor Ablauf des angegebenen Zeitraums, so erlischt damit auch die Ko stenverpflichtung. Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen. Auszufüllen, soweit von Seiten der Krankenkasse Bed rechtzeitig vor Ablauf**PRF.NR.** **Muster 63a.2/E (10.2014)**
+Die Genehmigung der Krankenkasse ist der Abrechnung b eizufügen. Endet die Notwendigkeit vor Ablauf des angegebenen Zeitraums, so erlischt damit auch die Kostenverpflichtung. Sollte die SAPV über den letzten Bewilligungstag hinaus erforderlich sein, so ist Zeitraums eine erneute Verordnung bei der Krankenkasse einzureichen. Auszufüllen, soweit von Seiten der Krankenkasse Bedarf besteht rechtzeitig vor Ablauf**PRF.NR.** **Muster 63a.2/E (10.2014)**

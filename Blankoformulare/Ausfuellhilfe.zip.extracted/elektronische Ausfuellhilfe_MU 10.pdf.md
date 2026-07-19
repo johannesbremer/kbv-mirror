@@ -12,7 +12,7 @@
 
 ## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
 
-## 1. LEISTUNGSART (KURATIV, PRÄVENTIV, BEI BELEGÄRZTLICHER BEHANDLUNG, EMPFÄNGNIS REGELUNG/STERILISATION/SCHWANGERSCHAFTSABBRUCH)
+## 1. LEISTUNGSART (KURATIV, PRÄVENTIV, BEI BELEGÄRZTLICHER BEHANDLUNG, EMPFÄNGNIS- REGELUNG/STERILISATION/SCHWANGERSCHAFTSABBRUCH)
 
 Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der Prävention, der  Empfängnisregelung/Sterilisation/Schwangerschaftsabbruch oder bei belegärztlicher Behandlung erfolgt.
 
@@ -37,7 +37,7 @@ Knappschaftsärzte tragen für die Veranlassung von Laboratoriumsuntersuchungen 
 
 ## 6.  QUARTAL
 
-Das Quartal der Ausstellung der Überweisung
+Das Quartal der Ausstellung der Überweisung ist in der Form „QJJ“ in das betreffende Feld einzutragen.
 
 ## 7. GESCHLECHT
 
@@ -53,7 +53,7 @@ Leistungsanspruch nach SGB XIV ist hier zu kennzeichnen.
 
 ## 10. EINGESCHRÄNKTER LEISTUNGSANSPRUCH GEMÄß § 16 ABSATZ 3A SGB V
 
-Sollte durch den Versicherten ein Muster 85  Anspruchs gemäß § 16 Absatz 3a SGB V) vorgelegt werden, so sind durch den überweisende Überweisungen im Rahmen akuter Erkrankungen und Schmerzzuständen sowie bei Schwangerschaft und  Mutterschaft zu tätigen. Der überweisende Vertragsarzt kennzeichnet dies entsprechend durch Ankreuzen  des Feldes „eingeschränkter Leistungsanspruch gemäß § 16 Absatz 3a SGB V“.
+Sollte durch den Versicherten ein Muster 85 (Nachweis der Anspruchsberechtigung bei Ruhen des  Anspruchs gemäß § 16 Absatz 3a SGB V) vorgelegt werden, so sind durch den überweisenden Arzt nur  Überweisungen im Rahmen akuter Erkrankungen und Schmerzzuständen sowie bei Schwangerschaft und  Mutterschaft zu tätigen. Der überweisende Vertragsarzt kennzeichnet dies entsprechend durch Ankreuzen  des Feldes „eingeschränkter Leistungsanspruch gemäß § 16 Absatz 3a SGB V“.
 
 ## 11. ABNAHMEDATUM
 
@@ -68,10 +68,6 @@ Die Abnahmezeit ist hier einzutragen.
 Der eine Auftragsleistung ausführende Arzt ist berechtigt, Teile dieses Auftrages, die er selbst nicht erbringen  kann, von einem anderen Arzt als Auftragsleistung erbringen zu lassen (Weiterüberweisung). Er stellt in  diesem Fall ebenfalls einen Überweisungsschein nach dem Muster 10 aus und macht die betreffenden  Angaben, insbesondere sind die Angaben des Erstveranlassers zu übernehmen und dessen Arzt- und  Betriebsstättennummer im betreffenden fett umrandeten Feld anzugeben.
 
 ## 14. EILIGE BEFUNDÜBERMITTLUNG
-
-ist in der Form „QJJ“ in das betreffende Feld einzutragen.
-
-(Nachweis der Anspruchsberechtigung bei Ruhen des  n Arzt nur
 
 
 ---

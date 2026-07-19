@@ -22,7 +22,7 @@
 
 **Art und Ausprägung der Fähigkeitsstörungen**
 
-***Zusätzlich bei Diagnosen aus dem Bereich F00 bis F99 gemäß § 2 Abs. 5 der Richtlinie und GAF <***
+***Zusätzlich bei Diagnosen aus dem Bereich F00 bis F99 gemäß § 2 Abs. 5 der Richtlinie und GAF < 40***
 
 **Art und Ausprägung der Co-Morbiditäten / Sonstige Einschränkungen**
 
@@ -44,7 +44,9 @@
 
 **Beantragte Anzahl der**
 
-**Voraussichtliche Anzahl** **der Therapieeinheiten**
+**Voraussichtliche Anzahl**
+
+**der Therapieeinheiten**
 
 **Bereits durchgeführte**
 
@@ -62,7 +64,7 @@
 
 ***Der soziotherapeutische Betreuungsplan ist beigefügt!***
 
-**Für das Ausstellen der** ***Erst*****verordnung ist die Nr. 30810 EBM berechnungsfähig.** **Für das Ausstellen der** ***Folge*****verordnung ist die Nr. 30811 EBM berechnungsfähig.**
+**Für das Ausstellen der** ***Erst*** **verordnung ist die Nr. 30810 EBM berechnungsfähig.** **Für das Ausstellen der** ***Folge*** **verordnung ist die Nr. 30811 EBM berechnungsfähig.**
 
 **Ausfertigung für den verordnenden Arzt**
 
@@ -82,6 +84,8 @@
 
 **Straße**
 
+**Ort**
+
 **PLZ**
 
 **Telefonnummer**
@@ -92,16 +96,12 @@
 
 **PLZ**
 
+**Ort**
+
 **Telefonnummer**
 
 **ist nicht** **ausführbar**
 
 **Datum**
-
-***40***
-
-**Ort**
-
-**Ort**
 
 **Vertragsarztstempel / Unterschrift des Arztes**

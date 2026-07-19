@@ -12,12 +12,7 @@
 
 - Zum 1. Oktober 2025 treten die neuen FHIR-Profilversionen für die folgenden Verfahren in Kraft:
 - eRezept in der Version 1.3.2
-- Bitte beachten Sie, dass die Nutzung des eRezeptes für Versicherte der Sonstigen
-
-## - Kostenträger, welche an der TI teilnehmen, insbesondere der
-
-BPol erst ab dem 1. Januar  2026 ermöglicht werden darf.
-
+- Bitte beachten Sie, dass die Nutzung des eRezeptes für Versicherte der Sonstigen  Kostenträger, welche an der TI teilnehmen, insbesondere der BPol erst ab dem 1. Januar  2026 ermöglicht werden darf.
 - eAU in der Version 1.2.0
 - Die Nutzung von eAUs für Versicherte der Sonstigen Kostenträger, welche an der TI  teilnehmen, insbesondere der Bpol soll ab dem 1. Oktober 2025 ermöglicht werden.
 - eVDGA in der Version 1.2.0
@@ -26,35 +21,29 @@ BPol erst ab dem 1. Januar  2026 ermöglicht werden darf.
 
 ---
 
-- **KODIERREGELN 2026**
-
 ## Kodierregeln für 2026
 
 ## Inhaltliche Anpassungen im Bereich folgender Kodierhinweise
 
-## - Vollständige Kodierung der Alzheimer
-
--Krankheit im Kreuz-Stern-System (G30.- /F00.-*)
-
+- Vollständige Kodierung der Alzheimer-Krankheit im Kreuz-Stern-System (G30.- /F00.-*)
 - Kodierung üblicherweise stationär zu behandelnder Diagnosen mit dem Zusatzkennzeichen „G“:
 
 ## - Erweiterung im Bereich „Sepsis“ (R57.2)
 
-## - Erweiterung im Bereich Wirbelsäulenfrakturen (S12.
+## - Erweiterung im Bereich Wirbelsäulenfrakturen (S12.-)
 
 ## - Neuaufnahme von Kodes folgender Bereiche:
 
 - Schwangerschaft und Geburt (O60.- bis O62.- , O64.- bis O66.- , O70.-)
-- Komplikationen nach Infusionen, Transfusionen und Injektionen (T80.
+- Komplikationen nach Infusionen, Transfusionen und Injektionen (T80.-)
+- **KODIERREGELN 2026**
 
 
 ---
 
 ## Kodierregeln für 2026
 
-## - Kodierregelwerk
-
-(Anlage I zu den Kodiervorgaben)
+## - Kodierregelwerk (Anlage I zu den Kodiervorgaben)
 
 - Neue bzw. geänderte Kodierregeln: 74
 
@@ -62,9 +51,7 @@ BPol erst ab dem 1. Januar  2026 ermöglicht werden darf.
 
 ## - Erweiterung der Kodes für den Bereich „Sepsis“
 
-## - Aufnahme von Kodes für Schwangerschaft und Geburt
-
-sowie für Komplikationen nach
+## - Aufnahme von Kodes für Schwangerschaft und Geburt sowie für Komplikationen nach
 
 ## - Infusionen, Transfusionen und Injektionen
 
@@ -100,13 +87,11 @@ Kinder Ende September 2025 geplant Kommentierungsphase Q1/2026 eine Pilotierung 
 
 - Zum 1. Januar 2026 sind alle Softwarehersteller, welche eine Zulassung für das Verfahren VDGA  besitzen, aufgefordert die Funktionalitäten der elektronischen Verordnung von digitalen
 
-## - Gesundheitsanwendungen (
+## - Gesundheitsanwendungen (eVGDA) umzusetzen.
 
-eVGDA) umzusetzen.
+## - Die aktuellen Vorgaben finden auf unserem Updateserver unter
 
-## - [Die aktuellen Vorgaben finden auf unserem Updateserver unter](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
-
-[https://update.kbv.de/ita](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
+[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
 
 ## - [update/DigitaleMuster/eVDGA/](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
 
@@ -118,7 +103,7 @@ eVGDA) umzusetzen.
 
 ## - Der verpflichtende Einsatz der elektronischen Verordnung für Praxen wird vom BMG verkündet.
 
-## - Bitte beachten Sie in diesem Zusammenhang auch die Regelungen des Anlage 2b des BMV -Ä.
+## - Bitte beachten Sie in diesem Zusammenhang auch die Regelungen des Anlage 2b des BMV-Ä.
 
 - **EVDGA**
 
@@ -127,9 +112,7 @@ eVGDA) umzusetzen.
 
 ## Weitere Aktualisierung des eRezeptes
 
-## - Aufgrund der anstehenden Einführung des
-
-eT- und eBTM-Rezeptes im Jahr 2026 hat sich die KBV  dazu entschieden eine weitere Anpassung des eRezeptes vorzunehmen.
+- Aufgrund der anstehenden Einführung des eT- und eBTM-Rezeptes im Jahr 2026 hat sich die KBV  dazu entschieden eine weitere Anpassung des eRezeptes vorzunehmen.
 
 ## - Aufnahme von T-Rezept spezifischen Verordnungsinformationen
 
@@ -169,10 +152,7 @@ erhalten, welche zu Ende September 2025 beantwortet werden.
 
 ## Elektronisches Antragsverfahren Psychotherapie
 
-## - Im Rahmen der Einführung der
-
-eAU wurde von verschiedenen Bereichen der Wunsch geäußert  digitale Lösungen für das Antragsverfahren von psychotherapeutischen Praxen zu etablieren
-
+- Im Rahmen der Einführung der eAU wurde von verschiedenen Bereichen der Wunsch geäußert  digitale Lösungen für das Antragsverfahren von psychotherapeutischen Praxen zu etablieren
 - Die gematik hat darauf gemeinsam mit verschiedenen Akteuren des Gesundheitswesens zu
 
 ## - [Anfang 2025 das Impulspapier „](https://www.gematik.de/newsroom/news-detail/aktuelles-impulspapier-fuer-digitalen-antrag-auf-ambulante-psychotherapie)
@@ -191,9 +171,7 @@ eAU wurde von verschiedenen Bereichen der Wunsch geäußert  digitale Lösungen 
 
 ## - Im Rahmen des Projektes sind neben technischen Spezifikationen und einer Optimierung der
 
-## - Psychotherapie
-
--Richtlinie sowie eine umfangreiche Kommentierungsphase und
+## - Psychotherapie-Richtlinie sowie eine umfangreiche Kommentierungsphase und
 
 ## - Pilotierung/Erprobung des Verfahrens geplant.
 
@@ -203,43 +181,34 @@ eAU wurde von verschiedenen Bereichen der Wunsch geäußert  digitale Lösungen 
 
 ---
 
-- **IMPLANTATEREGISTER**
-
 ## Erweiterung des Implantateregisters zum 1. Januar 2026
 
-## - Ende August 2025 hat das Referat 126 „
+## - Ende August 2025 hat das Referat 126 „Implantateregister Deutschland“ des Bundesministeriums
 
-Implantateregister Deutschland“ des Bundesministeriums  [https://xml.ir-](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
-
-- [für Gesundheit die neue verbindliche Version 4.1.0 der technischen Spezifikation (](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
+[für Gesundheit die neue verbindliche Version 4.1.0 der technischen Spezifikation (](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)[https://xml.ir-](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
 
 ## - [d.de/rst/schema/verbindlich/V4.1.0/](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
 
 [) veröffentlicht.](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
 
-## - [Sie beschreibt Meldung, Korrektur und Stornierung von](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
+## - [Sie beschreibt Meldung, Korrektur und Stornierung von implantatbezogenen Maßnahmen mit](https://xml.ir-d.de/rst/schema/verbindlich/V4.1.0/)
 
-implantatbezogenen Maßnahmen mit
-
-## - Brustimplantaten, Endoprothesen an Hüfte und Knie sowie
-
-Aortenklappenprothesen
+## - Brustimplantaten, Endoprothesen an Hüfte und Knie sowie Aortenklappenprothesen.
 
 - Die Spezifikation richtet sich unabhängig vom Versorgungssektor an alle meldepflichtigen  Gesundheitseinrichtungen und deren Softwarehersteller. Sie ist für das Meldejahr 2026
 
 ## - verbindlich.
 
-## - Weitere Informationen und Downloads finden Sie auf den Webseiten zum
+## - Weitere Informationen und Downloads finden Sie auf den Webseiten zum Implantateregister
 
-Implantateregister
+## - Deutschland unter
 
-## - [https://www.bundesgesundheitsministerium.de/implantateregister](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland.html)
-
-## - [Deutschland unter](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland.html)
+[https://www.bundesgesundheitsministerium.de/implantateregister-](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland.html)
 
 ## - [deutschland.html](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland.html)
 
-- [Bei Fragen wenden Sie sich gerne an den unter](mailto:support-implantateregister@d-trust.net)[support-implantateregister@d](mailto:support-implantateregister@d-trust.net)[-trust.net](mailto:support-implantateregister@d-trust.net)[oder](mailto:support-implantateregister@d-trust.net) telefonisch an +49 030 / 2598 -4316
+- [Bei Fragen wenden Sie sich gerne an den unter](mailto:support-implantateregister@d-trust.net)[support-implantateregister@d-trust.net](mailto:support-implantateregister@d-trust.net)[oder](mailto:support-implantateregister@d-trust.net) telefonisch an +49 030 / 2598 -4316
+- **IMPLANTATEREGISTER**
 
 
 ---
@@ -250,15 +219,11 @@ Implantateregister
 
 ## - werden.
 
-## - Die KVen stellen bis Mitte 2027 alle derzeitigen Online
-
--Anwendungen der KVen auf eine „Zwei
+- Die KVen stellen bis Mitte 2027 alle derzeitigen Online-Anwendungen der KVen auf eine „Zwei-
 
 ## - Bein-Strategie“ um (Erreichbarkeit über Internet und über SNK).
 
-## - Die KBV stellt bis Mitte 2027 ebenfalls alle derzeitigen Online
-
--Anwendungen auf eine „Zwei-Bein-
+- Die KBV stellt bis Mitte 2027 ebenfalls alle derzeitigen Online-Anwendungen auf eine „Zwei-Bein-
 
 ## - Strategie“ um (Erreichbarkeit über Internet und über SNK).
 

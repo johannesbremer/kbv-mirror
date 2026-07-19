@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.08   DOKUMENTENSTATUS: IN** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.08   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 **PRUEFPAKET QS- KAPSELENDOSKOPIE**
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSKE]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT  
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -35,7 +35,7 @@ INHALT
 | 2.2 | Prü | ffa ll 2 | 11 |
 | 2.3 | Prü | ffa ll 3 | 14 |
 
-**3** **REFERENZIERTE DOKUME NTE**
+**3** **REFERENZIERTE DOKUMENTE**
 
 **15**
 
@@ -77,14 +77,14 @@ Rechtliche Grundlage bildet die „Vereinbarung von Qualitätssicherungsmaßnahm
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
 - 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
 Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
@@ -99,7 +99,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -131,8 +131,8 @@ Wobei „P“ für den Prüffall und „K“ für die Konstellation steht. Beisp
 
 geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte Dateiname bei Prüffall 3  „Screenshot_3.pdf“. Diese werden durch den Prüfer begutachtet.
 
-- Die Archivdateien müssen um die KV -Connect-Begleitdatei ergänzt werden.  Die Dateinamen der KV-Connect Begleitdateien sind nicht vorgeschrieben, be Dateinamen handelt es sich somit nur um Beispiele. Ebenso ist das Datum in den Dateinamen der XKM Dateien nur beispielhaft
-- Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Screenshots“) sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
+- Die Archivdateien müssen um die KV-Connect-Begleitdatei ergänzt werden.  Die Dateinamen der KV-Connect Begleitdateien sind nicht vorgeschrieben, bei den abgebildeten  Dateinamen handelt es sich somit nur um Beispiele. Ebenso ist das Datum in den Dateinamen der XKM-Dateien nur beispielhaft
+- Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Screenshots“) sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip- Archiv muss wie folgt benannt werden:
 
 Zert_60_*SystemID*.zip
 
@@ -142,18 +142,11 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 ## 1.6 PRÜFVORGABEN
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 ### 1.6.1 Prüfstammdaten
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
-
-- i den abgebildeten
-
-Unterlagen unter Verwendung des
-
-Prüfstammdateien verwendet
-
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
 ---
 
@@ -173,7 +166,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Zu verwendende Prüfnummer:** | Y/60/1407/36/000 |
 
-Urologe
+Urologe 
 
 
 ---
@@ -188,7 +181,7 @@ Urologe
 | Kapselendoskopien mit Auslassung | 11 |
 | Kapselendoskopien ohne Auslassung | 3 |
 | **3 Auswertung der Kapselendoskopie** | |
-| Selbst ausgewertete | 18 |
+| Selbst ausgewertete Kapselendoskopie | 18 |
 | Auswertung durch anderen Arzt | 3 |
 | **4** | |
 | Untersuchungen mit Nachweis einer Blutungsquelle | 6 |
@@ -207,17 +200,17 @@ Urologe
 |  |  |
 |  | **Prüffall-ID** |
 | 1 | |
-| **Testziel** | Erstellen Sie eine Jahresstatistik |
+| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermittlung an die Datenannahmestelle |
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | 1 |
-| **Testziel** | Erstellen Sie eine Jahresstatistik |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermittlung an die Datenannahmestelle |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2015 |
 | **Prüfunterlagen** | Jahresstatistik 2014 |
 | **Hinweis** |  |
 
-(zur Übermittlung an die Datenannahmestelle gemäß Tabelle 1 0.03.2015  PRÜFFÄLLE PRÜFFALL 1 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
+gemäß Tabelle 1 PRÜFFÄLLE PRÜFFALL 1 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
 
 ---
 
@@ -257,7 +250,7 @@ Empfehlungen zur Wiederholungsuntersuchung und 6
 
 ---
 
-| KONSTELLATION | |
+| KONSTELLATION 1 | |
 |---|---|
 | **1 Anzahl Kapselendoskopien** | |
 | Anzahl Erstuntersuchungen | 0 |
@@ -286,17 +279,17 @@ Empfehlungen zur Wiederholungsuntersuchung und 6
 | 2 | **Testziel** |
 | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die | KBV_ITA_VGEX_Plausi_QSKE |
 | ) erkannt werden müssen. | |
-| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
+| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | 2 |
 | **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSKE) erkannt werden müssen. |
-| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Kons |
+| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
 | **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
 | **Hinweis** |  |
 
-Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler - oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
+Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
 
 ---
 
@@ -322,7 +315,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemä�
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | |
 | 3 |  |
 |  |  |
-| **KONSTELLATION** | |
+| **KONSTELLATION 1** | |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen mehr als 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Stenosen | 0 |
@@ -331,7 +324,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe tellationen sind gemä�
 | **7** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 0 |
 
-Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend Beurteilbarkeit des Bildmaterials 11 | KONSTELLATION 2 | |
+Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend 11 Beurteilbarkeit des Bildmaterials | KONSTELLATION 2 | |
 |---|---|
 | **2 Auslassungsmöglichkeit blutungsfördernder Medikation** | |
 | Nicht zutreffend | 7 |
@@ -367,7 +360,7 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
 
-| KONSTELLATION | |
+| KONSTELLATION 7 | |
 |---|---|
 | **6** | |
 | Anzahl vollständiger Untersuchungen | 15 |
@@ -378,7 +371,7 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 1 |
 
-| KONSTELLATION | |
+| KONSTELLATION 8 | |
 |---|---|
 | **7 Empfehlungen zur Wiederholungsuntersuchung** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 11 |
@@ -386,7 +379,7 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 | KONSTELLATION 9 | |
 |---|---|
 | **5** | |
-| Kapselendoskopien | 22 |
+| Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 22 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
 
@@ -397,7 +390,7 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 5 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
 
-Beurteilbarkeit des Bildmaterials 7 Status Vollständigkeit der Untersuchung (Zökum erreicht) 8 und 6 Beurteilbarkeit des Bildmaterials  mit nicht eingeschränkter Beurteilbarkeit Beurteilbarkeit des Bildmaterials
+Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) und 6 Beurteilbarkeit des Bildmaterials Beurteilbarkeit des Bildmaterials 
 
 
 ---
@@ -409,7 +402,7 @@ Beurteilbarkeit des Bildmaterials 7 Status Vollständigkeit der Untersuchung (Z�
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 0 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 5 |
 
-| 7 EMPFEHLUNGEN ZUR W | |
+| 7 EMPFEHLUNGEN ZUR WIEDERHOLUNGSUNTERSUCHUNG | |
 |---|---|
 | **7 Empfehlungen zur Wiederholungsuntersuchung** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 22 |
@@ -420,11 +413,11 @@ Beurteilbarkeit des Bildmaterials 7 Status Vollständigkeit der Untersuchung (Z�
 |---|---|
 | **Prüffall-ID** | 3 |
 | **Testziel** | Nach Eingabe aller zu Prüffall 2 gehörenden Daten erstellen Sie bitte wiederum eine |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 30.06.2015 |
 | **Prüfunterlagen** | › › |
 | **Hinweis** |  |
 
-Beurteilbarkeit des Bildmaterials 7 EMPFEHLUNGEN ZUR WIEDERHOLUNGSUNTERSUCHUNG und 6 Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. 0.06.2015  Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot)
+Beurteilbarkeit des Bildmaterials und 6 Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 
 
 
 ---
@@ -436,7 +429,7 @@ Beurteilbarkeit des Bildmaterials 7 EMPFEHLUNGEN ZUR WIEDERHOLUNGSUNTERSUCHUNG u
 | **Referenz** | **Dokument** |
 | KBV_ITA_FMEX_AAZ_QSKE | Antrag auf Zertifizierung QSKE |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
-| [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XM |
+| [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XML-Schnittstellen - Austausch von |
 | [KBV_ITA_VGEX_Schnittstelle_QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Plausibilitäten und Berechnungsvorschrift QS |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSKE] | Anforderungskatalog |
@@ -450,4 +443,6 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-L-Schnittstellen  - Austausch von XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie TestschlüsselKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Testschlüssel XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie

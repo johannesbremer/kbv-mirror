@@ -10,6 +10,8 @@
 
 **Datum**
 
+**22**
+
 ## Konsiliarbericht
 
 **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
@@ -18,9 +20,13 @@
 
 **Auf Veranlassung von:**
 
+**Arztnummer**
+
 **Status**
 
 **Name des Therapeuten**
+
+**Betriebsstättennummer**
 
 **Aus Datenschutzgründen freibleibend**
 
@@ -32,14 +38,10 @@
 
 **Für** **diese** **Bescheinigung** **ist** **die** **Nr.** **01612** **EBM** **berechnungsfähig**
 
-**Ausfertigung für die Krankenkasse**
-
-**22**
-
-**Arztnummer**
-
-**Betriebsstättennummer**
-
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**PRF.NR.** **Muster 22d/E (10.2014)**
+**PRF.NR.**
+
+**Ausfertigung für die Krankenkasse**
+
+**Muster 22d/E (10.2014)**

@@ -1,8 +1,6 @@
-### Elektronische Ausfüllhilfe Muster 64
+**Elektronische Ausfüllhilfe Muster 64**
 
-### Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die Verordnung
-
-**von medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V (Muster 64)**
+**Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die Verordnung**  **von medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V (Muster 64)**
 
 **Erläuterungen zu den einzelnen Feldern**
 
@@ -25,7 +23,7 @@ Geben Sie hier die Schwierigkeiten an, die Beeinträchtigungen der Aktivitäten 
 
 **4. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind**
 
-Geben Sie die Lebensumstände an, die für die mütter -/väterspezifische Problemkonstellation relevant sind.  Hierzu gehören die Kompetenzen des Patienten, aber auch externe Faktoren (z. B. soziales Umfeld). Die  Angabe zusätzlicher Faktoren sowie Erläuterungen sind im Freitextfeld möglich.
+Geben Sie die Lebensumstände an, die für die mütter-/väterspezifische Problemkonstellation relevant sind.  Hierzu gehören die Kompetenzen des Patienten, aber auch externe Faktoren (z. B. soziales Umfeld). Die  Angabe zusätzlicher Faktoren sowie Erläuterungen sind im Freitextfeld möglich.
 
 ---
 
@@ -33,7 +31,7 @@ Geben Sie die Lebensumstände an, die für die mütter -/väterspezifische Probl
 
 **5. Krankenbehandlung und andere Maßnahmen**
 
-Geben Sie in den Abschnitten A und B die bisher durchgeführten Leistungen der Krankenbehandlung an und  bestätigen Sie, dass die bisherigen Maßnahmen nicht ausreichend bzw. zielführend sind .
+Geben Sie in den Abschnitten A und B die bisher durchgeführten Leistungen der Krankenbehandlung an und  bestätigen Sie, dass die bisherigen Maßnahmen nicht ausreichend bzw. zielführend sind.
 
 **6. Vorsorgeziele**
 
@@ -41,7 +39,7 @@ Geben Sie die Vorsorgeziele möglichst in Bezug auf den genannten Gesundheitsst�
 
 - **Empfohlene Leistungsform: Medizinische Vorsorge für Mütter oder Väter nach § 24 SGB V**
 
-Geben Sie hier die Ihrer Einschätzung n ach geeignete Leistungsform an (z. B. Mütter-Leistung, Mutter-Kind-Leistung, Väter-Leistung, Vater-Kind-Leistung).
+Geben Sie hier die Ihrer Einschätzung nach geeignete Leistungsform an (z. B. Mütter-Leistung, Mutter-Kind-Leistung, Väter-Leistung, Vater-Kind-Leistung).
 
 
 ---
@@ -50,13 +48,13 @@ Geben Sie hier die Ihrer Einschätzung n ach geeignete Leistungsform an (z. B. M
 
 **8. Angaben zu Kindern, die mit aufgenommen werden sollen**
 
-Geben Sie hier bei einer Mutter -Kind-Leistung oder Vater -Kind-Leistung Name und Geburtsdatum des Ki n-des an. Darüber hinaus ist anzukreuzen, aus welchem Grund eine Aufnahme erfolgen soll.
+Geben Sie hier bei einer Mutter-Kind-Leistung oder Vater-Kind-Leistung Name und Geburtsdatum des Kin-des an. Darüber hinaus ist anzukreuzen, aus welchem Grund eine Aufnahme erfolgen soll.
 
 **9. Anforderungen an die Einrichtung**
 
-Geben Sie hier an, welche Anforder ungen an die Vorsorgeeinrichtung gestellt werden (z. B. Klima, Barriere-freiheit, spezialisierte Therapieangebote, besondere Kostformen).
+Geben Sie hier an, welche Anforderungen an die Vorsorgeeinrichtung gestellt werden (z. B. Klima, Barriere-freiheit, spezialisierte Therapieangebote, besondere Kostformen).
 
-**10. Die Leistung ist vor Ablauf der gesetzlichen Wartefrist von 4 Jahren dringend medizinisch no t-** **wendig**
+**10. Die Leistung ist vor Ablauf der gesetzlichen Wartefrist von 4 Jahren dringend medizinisch not-** **wendig**
 
 Im Regelfall ist eine medizinische Vorsorge alle vier Jahre möglich. Ausnahmen sind bei Vorliegen einer  neuen Indikation oder einer Verschlimmerung der gleichen Indikation möglich und müssen begründet wer-den.
 

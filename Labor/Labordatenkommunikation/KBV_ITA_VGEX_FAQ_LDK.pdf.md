@@ -1,4 +1,4 @@
-|  | ***IT in der Arztpraxis*****  *FAQ für Softwarehersteller zur *  [  **   Dezernat Digitalisierung und IT       10623 Berlin, Herbert-Lewin-Platz 2            Kassenärztliche Bundesvereinigung   Version  ** |
+|  | ***IT in der Arztpraxis*****  *FAQ für Softwarehersteller zur *  [  **   Dezernat Digitalisierung und IT        10623 Berlin, Herbert-Lewin-Platz 2            Kassenärztliche Bundesvereinigung    Version  ** |
 |---|---|
 
 Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnung: Öffentlich Status: In Kraft 
@@ -48,11 +48,11 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 # 2 FAQs
 
-**Fragestellung: In [KBV_ITA_VGEX_Technisches_Handbuch_DiMus** **Handbuch der digitalen Muster wird immer nur von PVS gesprochen. Gilt für andere**  **Systeme in Arztpraxen wie Laborinformationssysteme (LIS), Arztinformationssysteme**  **(AIS), Order-Entry-Systeme etc. das technische Handbuch nicht?**
+**Fragestellung: In [KBV_ITA_VGEX_Technisches_Handbuch_DiMus]** **Handbuch der digitalen Muster wird immer nur von PVS gesprochen. Gilt für andere**  **Systeme in Arztpraxen wie Laborinformationssysteme (LIS), Arztinformationssysteme**  **(AIS), Order-Entry-Systeme etc. das technische Handbuch nicht?**
 
 *Antwort der KBV:*
 
-*Doch. Im technischen Handbuch steht PVS als Synonym für Systeme* *Mustern arbeiten. Also auch für LIS, AIS, OE-Systeme etc. Dies ist in Kapitel 1.1 des*  *technischen Handbuchs entsprechend dargestellt.*
+*Doch. Im technischen Handbuch steht PVS als Synonym für Systeme, die mit digitalen*  *Mustern arbeiten. Also auch für LIS, AIS, OE-Systeme etc. Dies ist in Kapitel 1.1 des*  *technischen Handbuchs entsprechend dargestellt.*
 
 **Fragestellung: Dürfen digitale Muster nur gemeinsam mit dem LDT-Auftrag umgesetzt**  **werden?**
 
@@ -60,7 +60,7 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 *Nein. Sowohl digitale Muster als auch LDT-Auftrag können eigenständig ohne den jeweils*  *anderen Bereich zertifiziert werden. Eine Kombination beider ist natürlich auch möglich, bitte*  *beachten Sie in diesem Zusammenhang die Anforderungen KP2-40 und KP2-50. An dieser*  *Stelle sei nochmals darauf hingewiesen, dass nur das Muster (entweder als Papier oder*  *digitaler Form) und nicht der LDT-Auftrag als abrechnungsbegründende Unterlage gilt.*
 
-**Fragestellung: Das Zertifizierungsverfahren „Labordatenkommunikation“**  **verschiedene Zertifizierungsbereiche vor. Muss eine Software alle Bereiche umsetzen**  **und gibt es Abhängigkeiten zwischen den Bereichen?**
+**Fragestellung: Das Zertifizierungsverfahren**  **verschiedene Zertifizierungsbereiche vor. Muss eine Software alle Bereiche umsetzen**  **und gibt es Abhängigkeiten zwischen den Bereichen?**
 
 *Antwort der KBV:*
 
@@ -70,24 +70,26 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 *Antwort der KBV:*
 
-*Systeme, die ein digitales Muster 10 bzw. 10A erstellen und versenden, müssen die*  *Zertifizierungskomponente „Digitales Muster 10 –* *Export“ bzw. „Digitales Muster 10A –* *Export“ aufweisen.*
+*Systeme, die ein digitales Muster 10 bzw. 10A erstellen und versenden, müssen die*  *Zertifizierungskomponente „Digitales Muster 10 –* *Export“ aufweisen.*
 
-*Systeme, die ein digitales Muster 10 bzw. 10A empfangen und einlesen, müssen die*  *Zertifizierungskomponente „Digitales Muster 10 –* *Import“ bzw. „Digitales Muster 10A –* *Import“ aufweisen.*
+*Systeme, die ein digitales Muster 10 bzw. 10A empfangen und einlesen, müssen die*  *Zertifizierungskomponente „Digitales Muster 10 –* *Import“ aufweisen.*
 
-*Systeme, die einen LDT -Auftrag bzw. einen LDT -Befund erstellen und versenden, müssen*  *die Zertifizierungskomponente „LDT-Auftrag*  *Export“*  *aufweisen.*
+*Systeme, die einen LDT-Auftrag bzw. einen LDT-Befund erstellen und versenden, müssen*  *die Zertifizierungskomponente „LDT-Auftrag*  *aufweisen.*
 
 **dem technischen**
 
-*, die mit digitalen*
+**„Labordatenkommunikation“ gibt acht**
 
-**gibt acht**
+*Export“ bzw. „Digitales Muster 10A –*
 
-*bzw. „LDT-Befund*  *Export“*
+*Import“ bzw. „Digitales Muster 10A –*
+
+*Export“ bzw. „LDT-Befund*  *Export“*
 
 
 ---
 
-*Systeme, die einen LDT -Auftrag bzw. einen LDT -Befund empfangen und einlesen, müssen*  *die Zertifizierungskomponente*  *aufweisen.*
+*Systeme, die einen LDT-Auftrag bzw. einen LDT-Befund empfangen und einlesen, müssen*  *die Zertifizierungskomponente*  *aufweisen.*
 
 *In der Regel ergibt*  *Zertifizierungsbereichen. Es sei nochmal darauf hingewiesen, dass jeder Softwarehersteller*  *frei aus den möglichen Zertifizierungsbereichen kombinieren kann und die nachfolgende*  *Darstellung ausschließlich eine Möglichkeit darstellt.*
 
@@ -131,15 +133,15 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Antwort der KBV:*
 
-*Die vergebenen LDT 3.0-Prüfnummern verlieren ihre Gültigkeit. Gleichzeitig erhält der*  *betroffene Hersteller automatisch eine neue LDK -Prüfnummer, mit dem bereits zertifizierten*  *Bereich „LDT-Befund Import“ und/oder „LDT* *Hersteller kontaktieren.*
+*Die vergebenen LDT 3.0-Prüfnummern verlieren ihre Gültigkeit. Gleichzeitig erhält der*  *betroffene Hersteller automatisch eine neue LDK-Prüfnummer, mit dem bereits zertifizierten*  *Bereich „LDT-Befund Import“ und/oder „LDT Befund Export“. Die KBV wird die betroffenen*  *Hersteller kontaktieren.*
 
 **Fragestellung: Was geschieht mit den bereits vergebenen LDT 2.0 Zertifikaten?**
 
 *Antwort der KBV:*
 
-*Die vergebenen LDT 2.0-Prüfnummern*  *Gültigkeit. Die Abkündigung der LDT 2.0-Prüfnummern erfolgte am 21.12.2015 mit der*  *Richtlinie Softwarezertifizierung Version*  *Komponente LDT 2.0 ist seit dem 01.01.2016 nicht mehr möglich. Die*  *bisher vergebenen Prüfnummern wurden bis zum 31.12.2017 automatisch*  *verlängert. Der Softwareverantwortliche muss bis zum Ende dieses*  *Datums die notwendigen Softwareanpassungen*  *durchführen und dem Anwender rechtzeitig zur Verfügung stellen.".* *LDT 2.0 ist kein Bestandteil des LDK-Verfahrens.*
+*Die vergebenen LDT 2.0-Prüfnummern verlieren zum 31.12.2017 automatisch ihre*  *Gültigkeit. Die Abkündigung der LDT 2.0-Prüfnummern erfolgte am 21.12.2015 mit der*  *Richtlinie Softwarezertifizierung Version 3.25 "... Eine Zertifizierung der*  *Komponente LDT 2.0 ist seit dem 01.01.2016 nicht mehr möglich. Die*  *bisher vergebenen Prüfnummern wurden bis zum 31.12.2017 automatisch*  *verlängert. Der Softwareverantwortliche muss bis zum Ende dieses*  *Datums die notwendigen Softwareanpassungen zum Quartalsupdate*  *durchführen und dem Anwender rechtzeitig zur Verfügung stellen.". Der*  *LDT 2.0 ist kein Bestandteil des LDK-Verfahrens.*
 
-**Fragestellung: In KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation** **(Anforderungskatalog Labordatenkommunikation) ist bei LDT -Auftrag bzw. LDT -Befund**  **von „GKV relevanten Objekten“ die Rede z.B. in [P4-20]. Was ist damit gemeint?**
+**Fragestellung: In KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation** **(Anforderungskatalog Labordatenkommunikation) ist bei LDT-Auftrag bzw. LDT-Befund**  **von „GKV relevanten Objekten“ die Rede z.B. in [P4-20]. Was ist damit gemeint?**
 
 *Antwort der KBV:*
 
@@ -155,32 +157,7 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Antwort der KBV:*
 
-*Die KBV prüft, ob Blankoformularbedruckung und digitale Muster zukünftig auf denselben*  *Formularen basieren können. Aktuell sind es noch zwei unterschiedliche Vorlagen. Ein*  *ausgedrucktes digitales Muster ist damit kein Ersatz für das entsprechende BFB-Formular*  *und stellt keine abrechnungsbegründende Unterlage dar*
-
-*Befund Export“. Die KBV wird die betroffenen*
-
-*verlieren zum*
-
-*3.25 "... Eine*
-
-```
--
-```
-
-*31.12.2017*
-
-*Zertifizierung*
-
-*zum*
-
-*automatisch*
-
-*Quartalsupdate*
-
-*ihre*  *der*
-
-*Der*
-
+*Die KBV prüft, ob Blankoformularbedruckung und digitale Muster zukünftig auf denselben*  *Formularen basieren können. Aktuell sind es noch zwei unterschiedliche Vorlagen. Ein*  *ausgedrucktes digitales Muster ist damit kein Ersatz für das entsprechende BFB-Formular*  *und stellt keine abrechnungsbegründende Unterlage dar.*
 
 ---
 
@@ -188,15 +165,15 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Antwort der KBV:*
 
-*Für die Verarbeitung digitaler Muster können sowohl kommerzielle als auch „freie“ Produkt* *genutzt werden  die KBV wird hier keine Vorgaben oder Empfehlungen*
+*Für die Verarbeitung digitaler Muster können sowohl kommerzielle als auch „freie“ Produkte* *genutzt werden  die KBV wird hier keine Vorgaben oder Empfehlungen machen.*
 
 **Fragestellung: Warum befindet sich auf den digitalen Mustern kein Barcode?**
 
 *Antwort der KBV:*
 
-*Der Ausdruck eines digitalen Musters stellt*  *abrechnungsbegründenden Unterlage dar. Da*  *Medienbruchs zwischen Papier- und Digital-Welt dient, schafft ein Barcode auf einem*  *„unausdruckbaren“ digitalen Muster keinen Mehrwert beim Beauftragungsprozess, sondern*  *lediglich Mehraufwand bei der Implementierung.*
+*Der Ausdruck eines digitalen Musters stellt kein*  *abrechnungsbegründenden Unterlage dar. Da ein*  *Medienbruchs zwischen Papier- und Digital-Welt dient, schafft ein Barcode auf einem*  *„unausdruckbaren“ digitalen Muster keinen Mehrwert beim Beauftragungsprozess, sondern*  *lediglich Mehraufwand bei der Implementierung.*
 
-**Fragestellung:** **Ist das Einbetten von Anlagen in die digitalen Muster e**
+**Fragestellung:** **Ist das Einbetten von Anlagen in die digitalen Muster erlaubt?**
 
 *Antwort der KBV:*
 
@@ -206,7 +183,7 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Antwort der KBV:*
 
-*In Anlage 2b des BMV-Ä sind die Anforderungen an einen sicheren Übertragungsweg definiert.*  *Bei der Zertifizierung bestätigt der Softwarehersteller, dass sein Produkt nur Übertragungswege*  *einsetzt, die die Anforderungen nach Anlage 2b BMV-Ä erfüllen. Dazu muss dieser bei der* *Zertifizierung das von der KBV bereitgestellte*  *einreichen, in dem der Anbieter des Übertragungsweges*  *einzuhalten. Wie der Softwarehersteller und der Anbieter des Übertragungsweges im bilateralen* *Verhältnis agieren (Audit etc.), ist ihnen überlassen.* *Übertragungswege anzugeben.*
+*In Anlage 2b des BMV-Ä sind die Anforderungen an einen sicheren Übertragungsweg definiert.*  *Bei der Zertifizierung bestätigt der Softwarehersteller, dass sein Produkt nur Übertragungswege*  *einsetzt, die die Anforderungen nach Anlage 2b BMV-Ä erfüllen. Dazu muss dieser bei der* *Zertifizierung das von der KBV bereitgestellte Formular* *einreichen, in dem der Anbieter des Übertragungsweges*  *einzuhalten. Wie der Softwarehersteller und der Anbieter des Übertragungsweges im bilateralen* *Verhältnis agieren (Audit etc.), ist ihnen überlassen.* *Übertragungswege anzugeben.*
 
 **Fragestellung: Was ist unter einem „Übertragungsweg“ zu verstehen?**
 
@@ -214,17 +191,11 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Ein „Übertragungsweg“ nach Anlage 2b des BMV* *Übertragung von Dateien, insbesondere mit personenbezogenen Daten, von System A zu*  *System B zu stattfindet. Nach deutschem Bundesdatenschutzgesetz (BDSG) hat diese*  *Übertragung hinreichend verschlüsselt zu erfolgen, um diese Daten adäquat zu schützen.*  *Beispielsweise ein von beiden Systemen gemeinsam genutzter Datenträger fällt bereits*  *unter die Definition eines Übertragungsweges.*
 
-*e*  *machen.*
-
-*kein gültiges Muster im Sinne einer*  *ein Barcode zur Überwindung des*
-
-**rlaubt?**
-
-*Formular*
-
-*-Ä ist dann gegeben, wenn eine*
+*gültiges Muster im Sinne einer*  *Barcode zur Überwindung des*
 
 *[KBV_ITA_FMEX_Labor_UW]*  *bestätigt die Anforderungen*   *Es sind alle umgesetzten*
+
+*-Ä ist dann gegeben, wenn eine*
 
 
 ---
@@ -251,7 +222,7 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Antwort der KBV:*
 
-*Die Vorlagen können mit dem von der KBV bereitgestellten Schlüssel für Stammdateien,*  *BFB-Vorlagen etc. entschlüsselt werden. Alle bereits bei der KBV zertifizierten*  *Softwarehersteller können auf Anfrage diesen Schlüssel zur Entschlüsselung der Vo rlagen*  *erhalten. Nicht zertifizierte Softwarehersteller können auf Anfrage bei der KBV die sog.*  *Modellvorlagen für Entwicklungszwecke erhalten. Bitte richten Sie Ihre Anfrage an*  *[ita@kbv.de](mailto:ita@kbv.de)*
+*Die Vorlagen können mit dem von der KBV bereitgestellten Schlüssel für Stammdateien,*  *BFB-Vorlagen etc. entschlüsselt werden. Alle bereits bei der KBV zertifizierten*  *Softwarehersteller können auf Anfrage diesen Schlüssel zur Entschlüsselung der Vorlagen*  *erhalten. Nicht zertifizierte Softwarehersteller können auf Anfrage bei der KBV die sog.*  *Modellvorlagen für Entwicklungszwecke erhalten. Bitte richten Sie Ihre Anfrage an*  *[ita@kbv.de](mailto:ita@kbv.de)*
 
 **Fragestellung: Wird in den Abrechnungsdaten übertragen, ob ein Muster digital**  **übermittelt wurde?**
 
@@ -293,41 +264,23 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 ---
 
-| Sachverhalt: | „Fü r d | en LDT |
-|---|---|---|
-| **Zertifizierung** | **ist** | **jedoch** |
-|  | *Stellungnahme der* | *KBV:* |
+**Sachverhalt: „Für den LDT 3.0 Auftrag gibt es keinen verbindlichen Starttermin, eine**  **Zertifizierung ist jedoch bereits zum jetzigen Zeitpunkt möglich“?**
+
+*Stellungnahme der KBV:*
 
 *Der LDT-Auftrag kann seit dem 04.01.2016 freiwillig von Herstellern umgesetzt und seit dem*  *26.05.2017 bei der KBV zertifiziert und nach einer bestandenen Zertifizierung auch genutzt*  *werden.*
 
-**Sachverhalt: „Sofern Softwarehäuser**  **bestanden haben, kann auf freiwilliger Basis der Datenaustausch ab sofort in diesem**  **Format erfolgen“?**
+**Sachverhalt: „Sofern Softwarehäuser die Zertifizierung für den LDT 3.0 Auftrag**  **bestanden haben, kann auf freiwilliger Basis der Datenaustausch ab sofort in diesem**  **Format erfolgen“?**
 
 *Stellungnahme der KBV:*
 
 *Der LDT-Auftrag kann seit dem 04.01.2016 freiwillig von Herstellern umgesetzt und seit dem*  *26.05.2017 bei der KBV zertifiziert und nach der bestandenen Zertifizierung auch genutzt*  *werden.*
 
-**Sachverhalt: Weder der Einsatz von LDT 3.0 Befund, noch der Einsatz des LDT 3.0**  **Auftrag haben vorerst Auswirkungen auf die KVDT**
+**Sachverhalt: Weder der Einsatz von LDT 3.0 Befund, noch der Einsatz des LDT 3.0**  **Auftrag haben vorerst Auswirkungen auf die KVDT-Abrechnung des 1.Quartals 2018**
 
-| *Die* | *Abrechnung* | *erfolgt* |
-|---|---|---|
-|  | *Abrechnungsbegründend* | |
-|  | *Auftrages mittels* | *BFB-Verfahren* |
+*Stellungnahme der KBV:*
 
-*mit*
-
-**die Zertifizierung**
-
-**-Abrechnung des 1.Quartals 2018**
-
-*einem System,*
-
-**für den LDT**
-
-*welches KVDT*
-
-**3.0 Auftrag**
-
-ür den LDT 3.0 Auftrag gibt es keinen verbindlichen Starttermin, eine Zertifizierung ist jedoch bereits zum jetzigen Zeitpunkt möglich“? Stellungnahme der KBV: Stellungnahme der KBV: Abrechnungsbegründend sind der konventionelle Ausdruck des Auftrages, der Ausdruck des Auftrages mittels BFB-Verfahren oder der digitale Auftrag.*zertifiziert ist.*
+*Die Abrechnung erfolgt mit einem System, welches KVDT zertifiziert ist.*  *Abrechnungsbegründend sind der konventionelle Ausdruck des Auftrages, der Ausdruck des*  *Auftrages mittels BFB-Verfahren oder der digitale Auftrag.*
 
 
 ---

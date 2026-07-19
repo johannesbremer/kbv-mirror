@@ -4,10 +4,10 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. JANUAR 2025   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. JANUAR 2025   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# PRÜFPAKET KVDT HYBRID -DRG
+# PRÜFPAKET KVDT HYBRID-DRG
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_KVDT_HYBRID-DRG]
 
@@ -18,34 +18,29 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**1**
-
-**2**
-
-| 3 | PRÜ FVORGABEN | 4 |
-|---|---|---|
-| 3.1 | Prü fstam mdate ie n | 4 |
-| 3.2 | Versichertendaten | 4 |
-|  | 3.2.1.1 [XML_49] | 5 |
-|  | 3.2.1.2 [XML_48] | 5 |
-| 3.3 | Praxisdaten | 6 |
-| 3.4 | XPM-Prü fm odulu nd V erschlü sselun g | 6 |
+**1** **ALLGEMEINES**
 
 **4**
 
-**ALLGEMEINES**
+**2 TESTDATENVALIDIERUNG**
 
 **4**
 
-**TESTDATENVALIDIERUNG**
+**3 PRÜFVORGABEN**
 
-**4**
+**4** 3.1 Prüfstammdateien 4 3.2 Versichertendaten
 
-**PRÜFFÄLLE**
+4 3.2.1.1 [XML_49]
+
+5 3.2.1.2 [XML_48]
+
+5 3.3 Praxisdaten
+
+6 3.4 XPM-Prüfmodul und Verschlüsselung 6
+
+**4 PRÜFFÄLLE**
 
 **8**
-
-PRÜFVORGABEN Prüfstammdateien XPM-Prüfmodul und Verschlüsselung
 
 ---
 
@@ -71,13 +66,13 @@ Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichk
 
 # 2 TESTDATENVALIDIERUNG
 
-[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) [der Umsetzung des Hybrid-DRG-Datensatzes und der entsprechenden Anforderungen](https://zertifizierungsportal2.kbv.de/) Hybrid-DRG“ ausgewählt werden. Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der  verschlüsselten Abrechnungsdatei hochzuladen. Diese wird automatisi Korrektheit geprüft. Eine manuelle Prüfung der eingereichten Unterlagen d findet nicht statt. Für jeden zu prüfenden Testfall ist eine eigene Datei einzureichen.
+[Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen. Für die Überprüfung](https://zertifizierungsportal2.kbv.de/) [der Umsetzung des Hybrid-DRG-Datensatzes und der entsprechenden Anforderungen muss das Thema](https://zertifizierungsportal2.kbv.de/) Hybrid-DRG“ ausgewählt werden. Nachdem das Thema ausgewählt wurde, ist das .ZIP-Archiv mit der  verschlüsselten Abrechnungsdatei hochzuladen. Diese wird automatisiert auf Vollständigkeit und  Korrektheit geprüft. Eine manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV  findet nicht statt. Für jeden zu prüfenden Testfall ist eine eigene Datei einzureichen.
 
-Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung  hochgeladen werden.
+Die Abrechnungsdatei muss als .ZIP-Archiv mit der Bezeichnung **„test_HDRG_<SystemID**> “.zip  hochgeladen werden.
 
 # 3 PRÜFVORGABEN
 
-Werden in den Prüffällen keine Angaben zu verpflichtenden Feldkennungen (FK) der aktuell  DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns  der Leistung). In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale  Feldkennungen sind nicht zu übertragen.
+Werden in den Prüffällen keine Angaben zu verpflichtenden Feldkennungen (FK) der aktuell gültigen Hybrid-DRG-Datensatzes gemacht, so sind die Werte frei wählbar, z.B. FK 5028 (Erfassung des Datums des Beginns  der Leistung). In den Prüffällen nicht genannte bzw. nicht für den Prüffall notwendige optionale  Feldkennungen sind nicht zu übertragen.
 
 Als Patientennummer (**FK 3000**) muss die Prüffall-ID (siehe Tabellen in Kapitel 4) eingetragen werden
 
@@ -87,23 +82,13 @@ Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwend
 
 ## 3.2 VERSICHERTENDATEN
 
-Die Versichertendaten der Testpatienten enthalten alle für  des Versicherten und werden auch als XML-Dateien  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle  [Versichertenstammdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
+Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die nötigen Angaben zu den Daten  des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle die folgenden XML-Dateien mit  [Versichertenstammdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 
 - [](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [EF.VD](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [= allgemeine Versicherungsdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 - EF.PD = persönliche Versichertendaten
 - EF.GVD = geschützte Versichertendaten
 
 Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren bzw. händisch erfasst werden.
-
-[zu erreichen. Für die Überprüfung](https://zertifizierungsportal2.kbv.de/) muss das Thema
-
-ert auf Vollständigkeit und  urch Mitarbeitende der KBV
-
-**„test_HDRG_<SystemID**> “.zip
-
-gültigen Hybrid-
-
-jeden Prüffall die nötigen Angaben zu den Daten  zur Verfügung gestellt. Die Archivdatei  die folgenden XML-Dateien mit
 
 
 ---
@@ -196,27 +181,18 @@ verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus *TEST_Verschluesselung
 
 # 4 PRÜFFÄLLE
 
-Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die  Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel  Feldkennungen unter Vorgaben“ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige  Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet. bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen.
+Durch das Feld „Versichertendaten“ jedes Prüffalls wird auf die zu verwendende XML-Datei verwiesen. Die  Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2 vorgegeben. Die  Feldkennungen unter Vorgaben“ sind zu erfassen. Die Feldinhalt sind in Spalte drei angegeben. Einige  Felder sind dabei frei wählbar, diese sind entsprechend gekennzeichnet. In den Prüffällen nicht genannte  bzw. nicht für den Prüffall notwendige optionale Feldkennungen sind nicht zu übertragen.
 
-Bei Verwenden eines Groupers wird  abweichend von Regelungen für Kranken Grouperversion für den vertragsärztlichen Bereich  Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am  09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden.
+Bei Verwenden eines Groupers wird  abweichend von Regelungen für Krankenhäuser  die  Grouperversion für den vertragsärztlichen Bereich mit der Jahreszahl des Tags der Durchführung der  Leistung gemäß Anlage 1 zur Hybrid-DRG-Vereinbarung bestimmt. Wenn beispielsweise die Operation am  09.01.2025 erfolgt, wäre die Grouperversion 2025 zu verwenden.
 
 Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn und Ende der Leistung  die Verweildauer (in ganzzahligen Tagen) verarbeitet, sollte diese auf 1 gesetzt werden.
 
-Die Prüffälle wurden mit dem Webgrouper der DRG [group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
+[Die Prüffälle wurden mit dem Webgrouper der DRG-Research-Group getestet (](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)[https://www.drg-research-](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112) [group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
 
 ```
 [](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
 [](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
 ```
-
-3.2 vorgegeben. Die
-
-In den Prüffällen nicht genannte
-
-häuser  die  mit der Jahreszahl des Tags der Durchführung der
-
-[-Research-Group getestet (](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)[https://www.drg-research-](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
-
 
 ---
 

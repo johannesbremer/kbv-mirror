@@ -19,7 +19,7 @@ Geben Sie hier die Gesundheitsstörungen des Kindes an (z.B. Übergewicht, psych
 
 **3. Erkrankungen**
 
-Geben Sie hier die relevanten Erkrankungen in der Reihenfolge ihrer Bedeutung an. Die Diagnosen sind  nach ICD-10-GM zu verschlüsseln . Zusätzlich kann die Diagnose als Klartext oder Freitext angegeben wer-den.
+Geben Sie hier die relevanten Erkrankungen in der Reihenfolge ihrer Bedeutung an. Die Diagnosen sind  nach ICD-10-GM zu verschlüsseln. Zusätzlich kann die Diagnose als Klartext oder Freitext angegeben wer-den.
 
 **4. Weitere relevante Informationen**
 
@@ -35,7 +35,7 @@ Geben Sie die empfohlenen Interventionen für das Kind während der Vorsorge- un
 
 **7. Anforderungen an die Einrichtung**
 
-Geben Sie hier an, welche Anforder ungen an die Vorsorge - oder Rehabilitationseinrichtung geste llt werden  (z.B. Klima, Barrierefreiheit, spezialisierte Therapieangebote, besondere Kostformen).
+Geben Sie hier an, welche Anforderungen an die Vorsorge- oder Rehabilitationseinrichtung gestellt werden  (z.B. Klima, Barrierefreiheit, spezialisierte Therapieangebote, besondere Kostformen).
 
 **Mehr Informationen**
 

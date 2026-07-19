@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.27   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.27   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET EDMP-COPD
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_COPD]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
+KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -70,7 +70,7 @@ Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenan
 | Abbildung | 1: | Exemplarische Verzeichnisstruktur | fü r d ie Z ertifiz ie ru ng |
 | Abbildung | 2: | Exemplarische Struktur der | **Archivdatei** mit den Prü fu nte rla gen |
 | Abbildung | 3: | Testdatenvalidierung |  |
-| Abbildung | 4: | Exemplarische Verzeichnisstruktur | für die Testdatenvalidierung |
+| Abbildung | 4: | Exemplarische Verzeichnisstruktur | fü r d ie T estd ate nvalid ie ru ng |
 | Seite 3 von | 33 / KBV / | Pruefpaket eDMP-COPD / | Version: 1.27 / 31. Mä rz 2 026 |
 
 8
@@ -81,7 +81,7 @@ Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenan
 
 27
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 
 
 
 ---
@@ -105,17 +105,17 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung
 | Datumsanpassungen |  | Anpassung an | 11ff |  |  |
 |  |  |  |  | 1.22 |  |
 
-4.07 ist ab 01.10.2026 Schnittstellenversionen zu verwenden 4.07 Barcodeversion (03) ab 01.10.2026 an die 4.06 ist ab 01.04.202 4 zu verwenden. 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.202 3 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design
+4.07 ist ab 01.10.2026 Schnittstellenversionen zu verwenden 4.07 Barcodeversion (03) ab 01.10.2026 an die 4.06 ist ab 01.04.2024 zu verwenden. 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design
 
 ---
 
 | 19.03.2021 | Datumsanpassungen | ff | 1.20 | KBV |  |
 |---|---|---|---|---|---|
-|  | 28.02.2019 | KBV | Korrektur bei dem Feld  Fehlerkorrektur 11 | ff | 11.02.2019 KBV  Anpassung der Prüffälle  Schnittstellenversion  11ff |
-|  | KBV | Korrektur Prüffall 8514 | 21 |  | 1.16  07.05.2018 KBV  Anpassung der Prüffälle  Schnittstellenversion |
+|  | 28.02.2019 | KBV | Korrektur bei dem Feld  Fehlerkorrektur  11 | ff | 11.02.2019  KBV  Anpassung der Prüffälle  Schnittstellenversion  11ff |
+|  | KBV | Korrektur Prüffall 8514 | 21 |  | 1.16  07.05.2018  KBV  Anpassung der Prüffälle  Schnittstellenversion |
 | 12.03.2018 | Einreichung des Antrags |  | Korrektur der  Anpassung des |  | 6 |
 |  |  |  | 1.14 |  | KBV  Anpassung der Prüffälle    Aufnahme eines Testfalls |
-|  | 11 | ff | 28ff | 1.13  15.11.2017 KBV | Streichung der Zusatz- Schnittstellenversion    Übernahme der  11ff  23.05.2017 |
+|  | 11 | ff | 28ff | 1.13  15.11.2017  KBV | Streichung der Zusatz- Schnittstellenversion    Übernahme der  11ff  23.05.2017 |
 | Aktualisierung der |  |  |  |  |  |
 | 1.21 | 19.03.2021 | KBV | Datumsanpassungen der | Datumsanpassungen | 11ff |
 | 1.20 | 15.02.2021 | KBV | Anpassung der Prüffälle | Schnittstellenversion | 11ff |
@@ -146,7 +146,7 @@ Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärz
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
 - 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
@@ -169,7 +169,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran  anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragsteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -266,7 +266,7 @@ Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
 ## 1.6 PRÜFVORGABEN
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
 
@@ -289,9 +289,9 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **4.17** verwendet werden.
 - **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**
 - **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024** **Ausnahme**
 - Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
-- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum
+- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum.
 - **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
-- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung**
+- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung).**
 
 ### 1.6.3 Prüfstammdaten
 
@@ -302,7 +302,7 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 ### 1.6.4 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall  und werden als XML-Dateien in der Archivdatei „ Dateien sind folgendermaßen aufgebaut:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben  und werden als XML-Dateien in der Archivdatei „ Dateien sind folgendermaßen aufgebaut:
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
@@ -336,14 +336,8 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 | **Postleitzahl und Ort** | 10437 Berlin |
 | **Telefon** | 06151 / 3333333 |
 
-erforderlichen Angaben
-
 VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
 
-```
--
--
-```
 
 ---
 
@@ -357,7 +351,7 @@ Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 
 ### 1.6.8 Stammdatei der Datenannahmestellen (SDDA)
 
-Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
+Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen), kann ein  beliebiger Empfänger gewählt werden. Für die Bearbeitung des Krankenhausfalls kann ein beliebiger  Empfänger gewählt werden.
 
 ### 1.6.9 Auflistung der Prüffälle
 
@@ -385,7 +379,7 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation |
 | **Voraussetzung** |  |
 
-**Prüfunterlagen** COPD-Dokumentationsunterlagen
+**Prüfunterlagen**
 
 **Hinweis**
 
@@ -395,7 +389,7 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 Die Versichertendaten von Viktor Müller (XML_09)
 
-Angaben in der SDDA fehlen), kann ein
+COPD-Dokumentationsunterlagen
 
 einlesen und speichern.
 
@@ -510,7 +504,7 @@ Jedes zweite Quartal 06.07.2024 15.mm.jjjj
 
 **Verlaufsdokumentation**
 
-095,5 Prozent des Soll Wertes
+095,5 Prozent des Soll-Wertes
 
 Ja 0
 
@@ -555,7 +549,7 @@ Keine, Kontraindikation
 
 Nein
 
-Glukokortikosteroide Andere
+Glukokortikosteroide,  Andere
 
 Ja
 
@@ -610,7 +604,7 @@ Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern.
 
 **Hinweis**
 
-**INDIKATIONSÜBERGREIFENDE**
+**INDIKATIONSÜBERGREIFENDE DATEN**
 
 **Administrative Daten**
 
@@ -649,8 +643,6 @@ Datum der Erstellung 8512
 Anlage einer Erst- und einer Verlaufsdokumentation
 
 COPD-Dokumentationsunterlagen
-
-**DATEN**
 
 **Erstdokumentation**
 
@@ -743,7 +735,7 @@ Empfehlung zum körperlichen Training  ausgesprochen
 
 **Erstdokumentation**
 
-Monate) 299,9 Prozent des Soll Wertes
+Monate) 299,9 Prozent des Soll-Wertes
 
 Nein
 
@@ -806,57 +798,63 @@ Die Versichertendaten von Johannes Frônkenstein Versichertendaten 1 einlesen un
 
 **Prüffall-ID**
 
-6520
-
 **Testziel**
-
-Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreibung
 
 **Voraussetzung**
 
 **Prüfunterlagen**
 
-COPD-Dokumentationsunterlagen  zusätzlich DM1- und/oder KHK-Dokumentationsunterlagen
-
 **Hinweis**
-
-Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM1 verfügt,  müssen die entsprechenden Daten ebenfalls dokumentiert werden.  System keine der beiden Zulassungen besitzen, dann sind nur die COPD-Daten zu  übermitteln.
 
 **INDIKATIONSÜBERGREIFENDE DATEN**
 
 **Administrative Daten**
 
-**Erstdokumentation**
+DMP-Fallnummer
 
-DMP-Fallnummer 6520
-
-Krankenhaus-IK 856215715
+Krankenhaus-IK
 
 Dokumentation in Vertretung erstellt
 
-Datum 06.04.2024 15.mm.jjjj
+Datum
 
 Einschreibung wegen
 
-COPD, KHK, Diabetes  mellitus Typ 1
-
 Geschlecht
-
-Männlich
 
 **Allgemeine Anamnese- und Befunddaten**
 
-Körpergröße 1,75 m
+Körpergröße
 
-Körpergewicht 064 kg
+Körpergewicht
 
-Blutdruck 120 / 70 mmHg
+Blutdruck
 
-Raucher
+Raucher 6520
+
+Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreibung
+
+COPD-Dokumentationsunterlagen  zusätzlich DM1- und/oder KHK-Dokumentationsunterlagen
+
+Sofern das System eine Zulassung für die Indikatoren KHK und/oder DM1 verfügt,  müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das  System keine der beiden Zulassungen besitzen, dann sind nur die COPD-Daten zu  übermitteln.
+
+**Erstdokumentation**
+
+6520
+
+856215715
+
+06.04.2024 15.mm.jjjj
+
+COPD, KHK, Diabetes  mellitus Typ 1
+
+Männlich 1,75 m
+
+064 kg
+
+120 / 70 mmHg
 
 Ja
-
-Sollte das
 
 **Verlaufsdokumentation**
 
@@ -897,55 +895,35 @@ Datum der Erstellung
 
 COPD
 
-COPD
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
-DM1
-
 | Aktueller FEV1-Wert (alle sechs bis zwö lf | 060,0 Prozent des Soll- |  |
 |---|---|---|
 | Monate) | Wertes |  |
 | Klinische Einschätzung des | Nein |  |
 | Osteoporoserisikos durchgefü h rt |  |  |
 
-HbA1c-Wert
+COPD
 
-Pathologische Albumin-Kreatinin-Ratio
+DM1 HbA1c-Wert
 
-eGFR
+DM1 Pathologische Albumin-Kreatinin-Ratio
 
-Pulsstatus
+DM1 eGFR
 
-Sensibilitätsprüfung
+DM1 Pulsstatus
 
-Weiteres Risiko für Ulcus Ulkus
+DM1 Sensibilitätsprüfung
 
-Ulkus (Wund)Infektion
+DM1 Weiteres Risiko für Ulcus Ulkus
 
-Injektionsstellen   (bei Insulintherapie)
+DM1 Ulkus
 
-Intervall für künftige Fußinspektionen (bei  Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)
+DM1 (Wund)Infektion
 
-Spätfolgen
+DM1 Injektionsstellen  (bei Insulintherapie)
+
+DM1 Intervall für künftige Fußinspektionen (bei  Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahr)
+
+DM1 Spätfolgen
 
 Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD-Dokumentation sind  dieses KHK und Diabetes  mellitus
 
@@ -1001,7 +979,7 @@ Nicht untersucht
 
 Jährlich
 
-Aktueller FEV1-Wert (alle sechs bis zwölf Osteoporoserisikos durchgeführt 092,0 Prozent des SollDiabetische  Nephropathie
+Aktueller FEV1-Wert (alle sechs bis zwölf Osteoporoserisikos durchgeführt 092,0 Prozent des Soll-Diabetische  Nephropathie
 
 
 ---
@@ -1272,7 +1250,7 @@ Ophthalmologische  Netzhautuntersuchung seit der letzten  Dokumentation
 |---|---|---|
 | das Diabetische Fußsyndrom qualifizierten |  |  |
 | Einrichtung |  |  |
-| Diabetesbezogene stationäre Einweisung | Nein |  |
+| Diabetesbezogene stationä re E in w eisung | Nein |  |
 
 Regelmäßiges sportliches Training
 
@@ -1284,7 +1262,7 @@ Zielwert erreicht
 
 Nicht durchgeführt
 
-Ja
+Diabetesbezogene stationäre Einweisung Ja
 
 
 ---
@@ -1311,7 +1289,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 
 **Hinweis**
 
-**INDIKATIONSÜBERGREIFENDE**
+**INDIKATIONSÜBERGREIFENDE DATEN**
 
 **Administrative Daten**
 
@@ -1339,13 +1317,9 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben
 
 Patient oder Patientin ist mindestens 18 Jahre alt
 
-Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.  Fehlermeldungen.
-
-Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch  Einblenden der entsprechenden Ziffer erfolgen.
+Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.  Fehlermeldungen.   Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch  Einblenden der entsprechenden Ziffer erfolgen.
 
 Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben  sind.
-
-**DATEN**
 
 Raucher
 
@@ -1435,13 +1409,11 @@ Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm  ausgesprochen
 
 An einem Tabakentwöhnungsprogram seit der letzten  Empfehlung teilgenommen
 
-Empfehlung zum körperlichen Training ausgesprochen
-
-Monate) 06.04.2024 15.mm.jjjj
+Empfehlung zum körperlichen Training ausgesprochen 06.04.2024 15.mm.jjjj
 
 **Erstdokumentation**
 
-300,0 Prozent des Soll Wertes
+Monate) 300,0 Prozent des Soll-Wertes
 
 Nein 3
 
@@ -1648,7 +1620,9 @@ COPD
 
 Nr. 16
 
-Asthma bronchiale, Nr. 17  COPD
+Asthma bronchiale, Nr. 17
+
+COPD
 
 Männlich 2,00 m
 
@@ -1683,66 +1657,68 @@ Quartalsweise 06.04.2024 15.mm.jjjj
 
 **Szenario 1**
 
-Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B.  darf entsprechend der Anforderung P1-10 (siehe  vergebene DMP-Fallnummer nicht akzeptieren.
+Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 8511) einzugeben. Das System  darf entsprechend der Anforderung P1-10 (siehe  vergebene DMP-Fallnummer nicht akzeptieren.
 
 **Szenario 2**
 
-Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  entsprechenden Warnung gemäß Anforderung P1-12 (siehe  dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine 8530
+Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  entsprechenden Warnung gemäß Anforderung P1-12 (siehe  dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Verlaufsdokumentation angelegt.
+
+8530
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges  KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
-Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.
-
-Fehlermeldungen.
+Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.  Fehlermeldungen.
 
 Dieser Testfall ist unterteilt in zwei Szenarien
 
-8511) einzugeben. Das System  KBV_ITA_VGEX_Anforderungskatalog_eDMP) die bereits
+KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
-KBV_ITA_VGEX_Anforderungskatalog_eDMP Verlaufsdokumentation angelegt.
+KBV_ITA_VGEX_Anforderungskatalog_eDMP
+
+) die bereits
 
 
 ---
 
 ### 2.3.2 Prüffall 8540
 
-**Prüffall-ID**
-
-8540
-
-**Testziel**
-
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  KBV_ITA_VGEX_Anforderungskatalog_eDMP
-
-**Voraussetzung**
-
-**Prüfunterlagen** PDF-Datei „TE_EWE_COPD.pdf“  Einwilligungserklärung
-
-**Hinweis**
-
-Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein  Barcode aufzudrucken.
-
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.** **Versichertendaten**
 
-Die Versichertendaten von **Lija Malta (XML_36** einlesen und speichern.
+Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 
-- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP
+- **2.** **Erstellen der Teilnahmeerklärung (Exemplar für die Datenstelle)** gemäß Kapitel 3 des  Anforderungskataloges eDMP (KBV_ITA_VGEX_Anforderungskatalog_eDMP) mit den folgenden Daten:
+
+**Prüffall-ID**
+
+**Testziel**
+
+**Voraussetzung**
+
+**Prüfunterlagen**
+
+**Hinweis**
 
 **Administrative Daten**
 
 DMP
 
-COPD
+DMP-Fallnummer
 
-DMP-Fallnummer 1010
+Datum 8540
 
-Datum 15.10.2026
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
-der indikationsübergreifenden Teilnahme- und
+PDF-Datei „TE_EWE_COPD.pdf“ der indikationsübergreifenden Teilnahme- und
 
-- gemäß Kapitel 3 des  ) mit den folgenden Daten:
+Einwilligungserklärung
+
+Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein  Barcode aufzudrucken.
+
+COPD 1010
+
+15.10.2026
 
 
 ---
@@ -1753,7 +1729,7 @@ Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation 
 
 Zusätzlich kann optional auch der Prüffall TDV8518 in der Testdatenvalidierung genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
@@ -1774,10 +1750,10 @@ TDV8518
 
 Anlage einer Erstdokumentation mit der Schnittstellenversion
 
-| INDIKATIONS | |
+| INDIKATIONSPEZIFISCHE DATEN | |
 |---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** |
-| Aktueller FEV1-Wert (alle 6 bis 12 Monate) | 095,3 Prozent des Soll |
+| Aktueller FEV1-Wert (alle 6 bis 12 Monate) | 095,3 Prozent des Soll-Wertes |
 | Klinische Einschätzung des Osteoporoserisikos durchgeführt | Nein |
 |  | |
 |  | |
@@ -1800,9 +1776,8 @@ Anlage einer Erstdokumentation mit der Schnittstellenversion
 |  | DMP-Fallnummer |
 |  | Krankenhaus-IK |
 
-**4.06**
+Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung TDV8518 03.07.2025  COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025 **4.06**
 
-Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung PEZIFISCHE DATEN TDV8518 03.07.202 COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025 -Wertes
 
 ---
 
@@ -1811,7 +1786,7 @@ Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, di
 |  |  |
 |  |  |
 |  |  |
-| **INDIKATIONS** | |
+| **INDIKATIONSPEZIFISCHE DATEN** | |
 | **Relevante Ereignisse** | |
 | Häufigkeit von Exazerbationen seit der letzten Dokumentation |  |
 | Stationäre notfallmäßige Behandlung wegen COPD seit der |  |
@@ -1832,7 +1807,7 @@ Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, di
 | An einem Tabakentwöhnungsprogram seit der letzten |  |
 | Empfehlung zum körperlichen Training ausgesprochen | Nein |
 
-PEZIFISCHE DATEN Empfehlung teilgenommen 
+Empfehlung teilgenommen 
 
 
 ---
@@ -1863,7 +1838,6 @@ PEZIFISCHE DATEN Empfehlung teilgenommen
 | **4111** | **Kostentraegerkennung** | 104212505 |
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 04 |
-
 
 ---
 
@@ -1902,7 +1876,7 @@ und Georg-von-Groscurth-Plaetzchen
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| Austausch_von_XML-Daten_V(n.nn).ZIP | KBV_ITA_VGEX_XML |
+| Austausch_von_XML-Daten_V(n.nn).ZIP | KBV_ITA_VGEX_XML-Schnittstellen - Austausch von |
 | EXT_ITA_AHEX_Anleitung_eDMP_COPD | Ausfüllanleitung zum indikationsspezifischen |
 | EXT_ITA_AHEX_Teilnahme_eDMP_COPD | Erklärung COPD zur Teilnahme an einem |
 | EXT_ITA_VGEX_Plausi_eDMP_COPD | Plausibilitätsrichtlinie zur Prüfung der |
@@ -1920,20 +1894,15 @@ und Georg-von-Groscurth-Plaetzchen
 | VSD_Testfaelle_DMP_Vn.n.zip4 | eGK Daten |
 | XPM-Paket_COPD | Prüfmodul COPD |
 
-4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+Testschlüssel XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) Stammdateien zu verwenden. 4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
 
--Schnittstellen  - Austausch von XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) Testschlüssel Stammdateien zu verwenden.
 
 ---
 
-|  | Ansprechpartner: |  |
-|---|---|---|
-|  | Dezernat | Digitalisierung und IT |
-| IT in | der Arztpraxis |  |
-| Tel.: | 030 | 4005-2077, pruefstelle@kbv.de |
-|  | Kassenä rztlic | he B undesvere in ig ung |
-|  | Herbert-Lewin-Platz | 2, 10623 Berlin |
-|  | pruefstelle@kbv.de, | www.kbv.de |
-| Seite | 33 von 33 / | KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. Mä rz 2 026 |
+**Ansprechpartner:**
 
-Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

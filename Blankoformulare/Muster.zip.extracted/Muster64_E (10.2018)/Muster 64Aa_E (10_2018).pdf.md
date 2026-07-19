@@ -26,22 +26,17 @@
 
 **gemäß § 24 SGB V** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
 
-**II. Vorsorgebedürftigkeit**
-**A. Kurze Angaben zur Anamnese**
+**VorsorgebedürftigkeitII.** **A. Kurze Angaben zur Anamnese**
 
-**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung ac*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
+**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung achten, Hausarbeiten erledigen,*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigenen Interessen und Hobbies nachgehen)***
 
-**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind** **Mehrfachbelastung**
+**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind**
 
-**fehlende Anerkennung**
-
-**Tod des Partners/** **naher Angehöriger**
+**Mehrfachbelastung**
 
 **durch Beruf/Familie**
 
-**der Mutter-/Vaterrolle**
-
-**mangelnde Unterstützung Partner-/ Eheprobleme/**
+**mangelnde Unterstützung**
 
 **Arbeitsplatz/in der Schule**
 
@@ -50,6 +45,14 @@
 **Trennung vom Partner**
 
 **schwangerschaft**
+
+**fehlende Anerkennung**
+
+**Tod des Partners/** **naher Angehöriger**
+
+**der Mutter-/Vaterrolle**
+
+**Partner-/ Eheprobleme/**
 
 **Pflege von**
 
@@ -85,7 +88,11 @@
 
 **chronisch erkrankte, verhaltensauffällige oder behinderte**
 
-**der Frau / des Mannes in der** **Kinder, frühgeborene Kinder, Mehrlingsgeburten**
+**der Frau / des Mannes in der**
+
+**Teenager-**
+
+**Kinder, frühgeborene Kinder, Mehrlingsgeburten**
 
 **andere Kontextfaktoren; ggf. nähere Erläuterungen**
 
@@ -94,10 +101,6 @@
 **PRF.NR.** **Muster 64 Aa/E (10.2018)**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-***hten, Hausarbeiten erledigen,*** ***n Interessen und Hobbies nachgehen)***
-
-**Teenager-**
 
 **Diagnoseschlüssel** **ICD-10-GM**
 

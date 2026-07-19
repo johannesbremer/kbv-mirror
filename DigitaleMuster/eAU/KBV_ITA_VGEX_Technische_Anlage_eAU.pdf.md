@@ -1982,7 +1982,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 
 ---
 
-Tabelle 22: Satztabelle für die Zusammensetzung des PDF417 -Barcode-Inhaltes
+Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode-Inhaltes
 
 | NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 |---|---|---|---|---|---|---|
@@ -2030,7 +2030,7 @@ BUNDLE/ENTRY/RESOURCE/ Organization/identifier/value/@value Composition als Auto
 | 26 | Endbescheinigung | 1 | n | 1 | 1 = angekreuzt | Composition/type/coding/code[@value='FOLGE_END' or |
 | 27 | Diagnosen | <=70 | a |  | max. 6 ICD-10-Diagnosen; | ICD-10:  Condition[meta/profile/@value='https://fhir.kbv.de  Diagnosesicherheit:  Condition[meta/profile/@value='https://fhir.kbv.de  Seitenlokalisation:   Condition[meta/profile/@value='https://fhir.kbv.de |
 
-BUNDLE/ENTRY/RESOURCE/ /coding/code[@value='1'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='http://hl7.org/fhir/StructureDefinition/ /coding/code[@value='3'] /code[@value='wiedereingliederung'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='https://fhir.kbv.de/StructureDefinition/ KBV_EX_EAU_7_weeks']/valueBoolean/@value='true' @value='ERST_END'] mehrere Angaben sind durch ein Komma und ein Leerzeichen getrennt (siehe P7-03) /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/ code/coding/code/@value /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/code/coding/extension[@url='http://fhir.de/Structure Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/code/coding/extension[@url='http://fhir.de/Structure Definition/seitenlokalisation']/valueCoding/code/@value
+BUNDLE/ENTRY/RESOURCE/ mehrere Angaben sind durch ein Komma und ein Leerzeichen getrennt (siehe P7-03) /coding/code[@value='1'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='http://hl7.org/fhir/StructureDefinition/ /coding/code[@value='3'] /code[@value='wiedereingliederung'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='https://fhir.kbv.de/StructureDefinition/ KBV_EX_EAU_7_weeks']/valueBoolean/@value='true' @value='ERST_END'] /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/ code/coding/code/@value /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/code/coding/extension[@url='http://fhir.de/Structure Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/code/coding/extension[@url='http://fhir.de/Structure Definition/seitenlokalisation']/valueCoding/code/@value
 
 ---
 

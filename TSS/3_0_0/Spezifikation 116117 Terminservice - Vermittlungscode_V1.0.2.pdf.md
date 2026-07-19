@@ -109,10 +109,10 @@ Seite 5 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 ---
 
-| 3 | VORAUSSETZUNGEN | |  |
-|---|---|---|---|
-| Fü r d ie N | utz ung d ie S chnitts | te lle w ird d ie | A uth entis ie ru ng g em äß [T S S _Auth]vo raus gesetzt. |
-| Seite 6 von | 11 / KBV / Spezifikation | 116117 | Terminservice - Vermittlungscode |
+| 3 | VORAUSSETZUNGEN | |
+|---|---|---|
+| Fü r die | Nutzung die | Schnittstelle wird die Authentisierung gemä ß [T S S_Auth] v o rau sgesetzt. |
+| Seite 6 von | 11 / KBV / Spezifikation | 116117 Terminservice - Vermittlungscode |
 
 3 VORAUSSETZUNGEN Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.  / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 

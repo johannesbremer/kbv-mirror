@@ -4,10 +4,10 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG  ABRECHNUNGSDATEN -ADT
+# ANTRAG AUF ZERTIFIZIERUNG  ABRECHNUNGSDATEN-ADT
 
 ## [KBV_ITA_FMEX_AAZ_KVDT_ADT]
 
@@ -61,7 +61,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 |  |  | |
 |---|---|---|
@@ -71,18 +71,14 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 ## 1.4  BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-1.1
-
-vorhanden) des Zertifizierungsgegenstandes an.
-
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einlesen von Versichertenkarten? Kontakt (APK) Patient-Kontakt (APK) -Betriebssysteme unterstützt werden.
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einlesen von Versichertenkarten? Kontakt (APK) Patient-Kontakt (APK) 1.1
 
 
 ---
@@ -98,7 +94,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 | ☐ | 21 = Auftragsleistungen (Defaultwert bei Einsendepraxen) | | | | | | |
 | ☐ | 23 = Konsiliaruntersuchung | | | | | | |
 | ☐ | 24 = Mit-/Weiterbehandlung (Defaultwert; außer bei Einsendepraxen) | | | | | | |
-| ☐ | 26 = Stationäre Mitbehandlung, Vergütung nach ambulanten | | | | | | |
+| ☐ | 26 = Stationäre Mitbehandlung, Vergütung nach ambulanten Grundsätzen | | | | | | |
 | ☐ | 27 = Überweisungsschein für Laboratoriumsuntersuchungen als Auftragsleistung | | | | | | |
 | ☐ | 28 = Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften | | | | | | |
 | ☐ | 30 = Belegärztliche Behandlung | | | | | | |
@@ -118,7 +114,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 | ☐ | Die Bedruckung des Personalienfeldes von vertragsärztlichen Formularen wird unterstützt. |
 | ☐ | Die Bedruckung des Personalienfeldes von vertragsärztlichen Formularen wird nicht unterstützt. |
 
-(Ambulante Behandlung) (Überweisung) (Belegärztliche Behandlung) (Notfalldienst) Grundsätzen
+(Ambulante Behandlung) (Überweisung) (Belegärztliche Behandlung) (Notfalldienst)
 
 ---
 
@@ -146,10 +142,10 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 
 |  |  |
 |---|---|
-| ☐ | Auf Grundlage der aktuell gültigen Date |
+| ☐ | Auf Grundlage der aktuell gültigen Datensatzbeschreibung KVDT ist das ADT-Datenpaket mit den |
 | ☐ | Alle Pflichtfunktionen ADT des Anforderungskataloges KVDT sind realisiert. |
 
-nsatzbeschreibung KVDT ist das ADT-Datenpaket mit den oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln
+oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln
 
 ---
 
@@ -173,7 +169,7 @@ Folgende optionale ADT Funktionen sind gemäß Anforderungskatalog KVDT realisie
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION ADT LT. ANFORDERUNGSKATALOG |
 |---|---|
 |  |  |
 |  |  |
@@ -182,7 +178,8 @@ Folgende optionale ADT Funktionen sind gemäß Anforderungskatalog KVDT realisie
 |  |  |
 |  |  |
 
-Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert. ADT LT. ANFORDERUNGSKATALOG
+Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert.
+
 
 ---
 
@@ -226,14 +223,15 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 Diese Information ist verpflichtend anzugeben
 
+
 ---
 
-# 4 KENNTNISNAHME DURCH DEN ANTRAG
+# 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
 - **I.** **Zertifizierungsrahmen**
 - (1) Die Zertifizierung wird im Rahmen einer Sichtprüfung durchgeführt.
-- (2) Die Erweiterungszertifizierung wird im Rahmen einer Ergebnis
-- (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprech Zulassung.
+- (2) Die Erweiterungszertifizierung wird im Rahmen einer Ergebnis- oder Sichtprüfung durchgeführt.
+- (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.
 - (4) Die Laufzeit der Zulassung beträgt 36 Monate.
 - (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
@@ -244,51 +242,21 @@ Diese Information ist verpflichtend anzugeben
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 - (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
-- (2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen a wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
-- (3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV der Zulassung führen.
+- (2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
+- (3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
 - (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 - **III.** **Update und weitere Vereinbarungen**
 - (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 - (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 - (3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
-- (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-# SSTELLER
-
-```
--
-```
-
-- - oder Sichtprüfung durchgeführt.
-- enden Prüfnummer die
-
-```
--
--
--
--
-```
-
-- m Zertifizierungsgegenstand vorgenommen
-
-```
--
-```
-
-- -Vorgaben führen, kann zum Erlöschen
-
-```
--
--
-```
-
-Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung -
+Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
 
 ---
 
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
-- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 - **IV.** **Sonstiges**
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.

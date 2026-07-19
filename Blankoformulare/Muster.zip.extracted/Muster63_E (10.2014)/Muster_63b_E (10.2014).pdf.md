@@ -90,4 +90,4 @@
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**Ausfertigung für den spezialisierten Leistungserbri nger**
+**Ausfertigung für den spezialisierten Leistungserbringer**

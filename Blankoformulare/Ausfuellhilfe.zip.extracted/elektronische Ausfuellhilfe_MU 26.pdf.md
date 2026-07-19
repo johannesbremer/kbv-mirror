@@ -22,7 +22,7 @@ Sofern bekannt, geben Sie hier das Datum an, seit dem die die Soziotherapie begr
 
 **4. Art und Ausprägung der Fähigkeitsstörungen**
 
-Geben Sie hier in Stichworten die Fähigkeitsstörungen des Patienten an, die mit dem angegebenen GAF Wert korrespondieren.
+Geben Sie hier in Stichworten die Fähigkeitsstörungen des Patienten an, die mit dem angegebenen GAF-Wert korrespondieren.
 
 **5. Art und Ausprägung der Co-Morbiditäten / Sonstige Einschränkungen**
 
@@ -66,6 +66,8 @@ Hier ist eine der drei Angaben anzukreuzen.
 
 **Mehr Informationen**
 
-Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php)
+Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php).
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+[www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)

@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  27. FEBRUAR 2025 VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   27. FEBRUAR 2025  VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG 116117  ABRECHNUNGSINFORMATION
 
 ## [KBV_ITA_FMEX_AAZ_116117_ABRECHNUNGSINFORMATION]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
 
 
 ---
@@ -20,11 +20,11 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 # 1 ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
 ## 1.1 ANTRAGSSTELLER
 
-Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV ver
+Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
 |  |  | | |
 |---|---|---|---|
@@ -35,23 +35,19 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 | **Webseite** |  | | |
-| **Der Antragsteller** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
 | **Systempfleger  [nur anzugeben, wenn der  Systempfleger vom Antragsteller  abweicht]** |  | | |
 | **Straße und Hausnummer** |  | | |
 | **PLZ, Ort** |  | | |
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-antwortlich zeichnet.
-
-Übergabe
-
 
 ---
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -69,16 +65,14 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 | **Bezeichnung** |  |
 | **Identnummer [die letzten drei  Stellen der Prüfnummer, falls  vorhanden]** |  |
 
-## 1.4
+## 1.4  BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/ Android | ☐ | Sonstige | | |
-
-## BETRIEBSSYSTEME
 
 # 2 REALISIERUNG VON ANFORDERUNGEN
 
@@ -88,10 +82,7 @@ Bitte geben Sie im Folgenden an, welche
 |---|---|
 | ☐ | Der Antragssteller versichert, dass alle Pflichtfunktionen des Kapitels 4 „Umsetzung der  Der Antragsteller nimmt die Anforderungen K2-512, KP2-512, KP2-513 und P6-804 des |
 
-1.1
-
-Spezifikation – 116117 Terminservice Abrechnungsinformation“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TS Anforderungskataloges KVDT [ S] umgesetzt sind. KBV_ITA_VGEX_Anforderungskatalog_KVDT ] zur Kenntnis. Client-Betriebssysteme unterstützt werden.
-
+Spezifikation – 116117 Terminservice Abrechnungsinformation“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TSS] umgesetzt sind. Anforderungskataloges KVDT [KBV_ITA_VGEX_Anforderungskatalog_KVDT] zur Kenntnis.
 
 ---
 
@@ -135,7 +126,7 @@ Diese Information ist verpflichtend anzugeben
 - (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
 - (2) Bei Änderungen des Zertifizierungsgegenstandes muss der Antragsteller die KBV noch vor  Auslieferung an die Anwender informieren. Mittels einer formlosen Änderungsanzeige teilt der  Antragsteller der KBV mit, welche Änderungen am Zertifizierungsgegenstand vorgenommen  wurden. Die KBV entscheidet im Einzelfall, ob eine Zertifizierung notwendig ist und ggf. ein neuer  Antrag auf Zertifizierung eingereicht werden muss.
 - (3) Bei weiteren Änderungen, die nicht zur Einhaltung der KBV-Vorgaben führen, kann zum Erlöschen  der Zulassung führen.
-- (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KB V ergeben.
+- (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 - **III.** **Update und weitere Vereinbarungen**
 - (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 - (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
@@ -151,9 +142,9 @@ Abrechnungsinformation - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung
 - **IV.** **Sonstiges**
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
-- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgeg
+- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 |  |  |  |
 |---|---|---|
@@ -168,6 +159,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-- enstand erstellten Daten zurückweisen können.
-- - und

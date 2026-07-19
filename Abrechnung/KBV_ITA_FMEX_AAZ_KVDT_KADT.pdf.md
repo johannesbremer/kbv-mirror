@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.2   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 4.2   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  KURÄRZTLICHE ABRECHNUNG
@@ -82,22 +82,22 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
-# 2
+# 2 REALISIERUNG VON ANFORDERUNGEN
 
-**2.1**
+**2.1** **ANFORDERUNGSDOKUMENTE**
 
 |  |  |
 |---|---|
-| ☐ | Auf Grundlage der aktuell gültigen Date |
+| ☐ | Auf Grundlage der aktuell gültigen Datensatzbeschreibung KVDT ist das KADT-Datenpaket realisiert |
 | ☐ | Alle Pflichtfunktionen KADT des Anforderungskataloges KVDT sind realisiert. |
 
-**2.2**
+**2.2** **ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM-AKTUALISIERUNG**
 
 |  |  |
 |---|---|
 | ☐ | Die konditionale Pflichtfunktion KP2-185 wurde im KADT umgesetzt. |
 
-## 2.3
+## 2.3 REALISIERTE OPTIONALE FUNKTIONEN ADT
 
 Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 
@@ -105,19 +105,7 @@ Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-# REALISIERUNG VON ANFORDERUNGEN
-
-## ANFORDERUNGSDOKUMENTE
-
-## ÜBERTRAGUNG PRÜFNACHWEIS NACH VSDM
-
-## REALISIERTE OPTIONALE FUNKTIONEN
-
-## -AKTUALISIERUNG
-
-## ADT
-
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION ADT LT. ANFORDERUNGSKATALOG |
 |---|---|
 |  |  |
 |  |  |
@@ -126,7 +114,8 @@ Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 |  |  |
 |  |  |
 
-mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln nsatzbeschreibung KVDT ist das K ADT-Datenpaket realisiert ADT LT. ANFORDERUNGSKATALOG
+mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln 
+
 
 ---
 
@@ -150,6 +139,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
+
 
 ---
 
@@ -181,23 +171,14 @@ Rezertifizierung Ergebnisprüfung
 
 ---
 
-- (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
-- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+- (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 - **IV.** **Sonstiges**
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
-- aktualisierten
-
-```
--
--
-```
-
-- hersteller- und
-
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 ---
 

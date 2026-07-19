@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  30. MAI 2025   VERSION: 3.03   DOKUMENTENSTATUS: IN** |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  30. MAI 2025   VERSION: 3.03   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 **PRUEFPAKET HAUTKREBS-SCREENING**
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EHKS]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT  
+KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -55,7 +55,7 @@ INHALT
 
 **27**
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Konditionaler Prüffall 8007 Versichertendaten 1 Versichertendaten 2 Versichertendaten 3
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Konditionaler Prüffall 8007 Versichertendaten 1– Ersatzverfahren Versichertendaten 2– Ersatzverfahren Versichertendaten 3– Ersatzverfahren 
 
 
 ---
@@ -98,11 +98,11 @@ Rechtliche Grundlage bildet die „Richtlinie des Gemeinsamen Bundesausschusses 
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
 - 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kb](mailto:pruefstelle@kbv.de)[v.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
@@ -119,7 +119,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) System-ID (die letzten drei Stellen der Prüfnummer) oder des [Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -152,9 +152,9 @@ Kapitel 1.3) hochgeladen und geprüft werden.
 
 ---
 
-- **Videodateien und/oder Screenshots ausgewählter Anforderungen :**
+- **Videodateien und/oder Screenshots ausgewählter Anforderungen:**
 
-Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner „ Screenshots übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer  begutachtet.
+Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner „Screenshots“  übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch den Prüfer  begutachtet.
 
 - Screenshot_P_K.pdf
 
@@ -170,7 +170,7 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 ## 1.6 PRÜFVORGABEN
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werden, welches bei der  Dokumentation angegeben ist.
 
@@ -213,11 +213,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Dokumentationsdatum (Kopfdatum):** | 07.01.2020  07.01.2024 |
 | **Zu verwendende Prüfnummer:** | Y/53/0807/36/001 |
 
-```
--
-```
-
-Glücklich/Müller Dermatologie Allgemeinmedizin -
+Glücklich/Müller Dermatologie Allgemeinmedizin 
 
 
 ---
@@ -264,7 +260,7 @@ Die Versichertendaten von Prof. Dr. Karl-Friedrich Graf Freiherr von Schaumberg 
 |---|---|
 | **Allgemeine Daten** | |
 | Patientennummer | 8001 |
-| Geschlecht der/des Versich | Männlich |
+| Geschlecht der/des Versicherten | Männlich |
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum | 01.01.2020  01.01.2024 |
 
@@ -281,7 +277,7 @@ Die Versichertendaten von Prof. Dr. Karl-Friedrich Graf Freiherr von Schaumberg 
 | **Gesundheitsuntersuchung** | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt | Ja |
 
-erten Anhang 4.1) im
+Anhang 4.1) im
 
 
 ---
@@ -306,7 +302,7 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 |---|---|
 | **Allgemeine Daten** | |
 | Patientennummer | 8002 |
-| Geschlecht der/des Versich | Generiert aus XML-Datei |
+| Geschlecht der/des Versicherten | Generiert aus XML-Datei |
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
@@ -323,7 +319,7 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 | **Gesundheitsuntersuchung** | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt |  |
 
-Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden Dokumentationsbogen ein erten 
+Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden. Dokumentationsbogen ein 
 
 
 ---
@@ -381,11 +377,11 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 |---|---|
 | **Allgemeine Daten** | |
 | Patientennummer | 8003 |
-| Geschlecht der/des Versich | Generiert aus XML-Datei |
+| Geschlecht der/des Versicherten | Generiert aus XML-Datei |
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum | 06.01.2020  06.01.2024 |
 
-erten Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
+Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
 ---
 
@@ -486,11 +482,11 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 |---|---|
 | **Allgemeine Daten** | |
 | Patientennummer | 8004 |
-| Geschlecht der/des Versich | Generiert aus XML-Datei |
+| Geschlecht der/des Versicherten | Generiert aus XML-Datei |
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
-erten Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs
+Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
 ---
 
@@ -544,29 +540,25 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 |---|---|
 | **Prüffall-ID** | 8005 |
 | **Testziel** | Kontrolle der Erkennung von Fehleingaben |
-| **Voraussetzung** | Die Dokumentation wird durch einen Dermatologen ausgefüllt .  Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
+| **Voraussetzung** | Die Dokumentation wird durch einen Dermatologen ausgefüllt.  Das Untersuchungsdatum ist der 02.01.2020  02.01.2024. |
 | **Prüfunterlagen** | XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler |
-| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht v |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 - 1. Versichertendaten:
 
 Die Versichertendaten von Dr. Guido Tils (
 
-- 2. Anlegen von fehlerhaften Hautkrebs
+- 2. Anlegen von fehlerhaften Hautkrebs-Dokumentationen durch einen Dermatologen
 
 **Konstellation 1:**
 
--
-
 Anhang 4.2) im Ersatzverfahren erfassen und speichern.
-
-- -Dokumentationen durch einen Dermatologen
 
 |  | |
 |---|---|
 | **Allgemeine Daten** | |
 | Patientennummer | 8005 |
-| Geschlecht der/des Versich | Männlich |
+| Geschlecht der/des Versicherten | Männlich |
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum |  |
 
@@ -585,7 +577,7 @@ Anhang 4.2) im Ersatzverfahren erfassen und speichern.
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings |  |
 | Überweisender Arzt hat HKS durchgeführt |  |
 
-softwareseitig erkannt werden sind. orgegeben erten 
+softwareseitig erkannt werden. sind. 
 
 
 ---
@@ -755,11 +747,11 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 \| SZENARIEN |
 \|---|
 \| **Szenario 1** |
-\| Es wird eine bereits im System |
+\| Es wird eine bereits im System vorhandene Patientennummer (EDV) eingegeben. Es wird eine |
 \| **Szenario 2** |
-\| Weisen Sie bitte die korrekte Systemfunktionalität nach Pflichtfunktion P1 |
+\| Weisen Sie bitte die korrekte Systemfunktionalität nach Pflichtfunktion P1-40 nach. Es werden |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS vorhandene Patientennummer (EDV) eingegeben. Es wird eine Systemreaktion im Sinne der Pflichtfunktion P1 -50 erwartet. -40 nach. Es werden Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneute r Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen. 
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS Systemreaktion im Sinne der Pflichtfunktion P1-50 erwartet. Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen. 
 
 
 ---
@@ -819,9 +811,9 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS vorh
 | Patientennummer | 8007 |
 | Geschlecht der/des Versicherten | Männlich |
 | **Untersuchungsdatum** | |
-| Untersuchungsdatum | 01.01.2020 |
+| Untersuchungsdatum | 01.01.2020  01.01.2024 |
 
-Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs -Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.   01.01.2024 Versichertendaten: Die Versichertendaten von Alexander Laas ( ) im Ersatzverfahren erfassen und speichern. 2. Anlegen einer Hautkrebs -Dokumentation durch einen Dermatologen
+Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs-Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist. Versichertendaten: Die Versichertendaten von Alexander Laas ( ) im Ersatzverfahren erfassen und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
 ---
 
@@ -877,9 +869,7 @@ Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automat
 
 Abbildung 2: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des
-
-ZIP-Archives.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
@@ -907,17 +897,14 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | **3108** | **Versichertenart** | 1 |
 | **3110** | **Geschlecht** | M |
 | **4133** | **Versicherungsschutz Beginn** |  |
-| **4110** | **Versicherungsschutz Ende** | 30.09.2022 |
+| **4110** | **Versicherungsschutz Ende** | 30.09.2022  30.09.2059 |
 | **4111** | **Kostentraegerkennung** | 104212059 |
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 00 |
 
-30.09.2059 
-
-
 ---
 
-## 4.2 VERSICHERTENDATEN 2 – ERSATZVERFAHREN
+## 4.2 VERSICHERTENDATEN 2– ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -947,7 +934,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 ---
 
-## 4.3 VERSICHERTENDATEN 3 – ERSATZVERFAHREN
+## 4.3 VERSICHERTENDATEN 3– ERSATZVERFAHREN
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -988,12 +975,12 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | KBV_ITA_VGEX_Anforderungskatalog_eHKS | Anforderungskatalog Hautkrebs-Screening (eHKS) |
 | KBV_ITA_VGEX_Plausi_eHKS | Plausibilitätenkatalog Hautkrebs-Screening (eHKS) |
 | KBV_ITA_VGEX_Plausi_Praevention_eHKS | Plausibilitätenkatalog Prävention (eHKS) |
-| KBV_ITA_VGEX_Schnittstelle_eHKS | Schnittstellenbeschreibung Hautkrebs |
+| KBV_ITA_VGEX_Schnittstelle_eHKS | Schnittstellenbeschreibung Hautkrebs-Screening |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 | KBV_ITA_VGEX_XML-Schnittstellen | Austausch von XML-Daten in der Vertragsärztlichen |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- Stammdateien zu verwenden. |
-| VSD_Testfaelle_DMP_Vn.n.zip 1 | Versichertenstammdaten im XML Verwendung im Rahmen der Zertifizierung. |
+| VSD_Testfaelle_DMP_Vn.n.zip1 | Versichertenstammdaten im XML-Format zur  Verwendung im Rahmen der Zertifizierung. |
 | XPM-Paket_eHKS | Prüfmodul eHKS |
 
 1 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
@@ -1004,4 +991,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Versorgung Testschlüssel -Format zur Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Versorgung TestschlüsselKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

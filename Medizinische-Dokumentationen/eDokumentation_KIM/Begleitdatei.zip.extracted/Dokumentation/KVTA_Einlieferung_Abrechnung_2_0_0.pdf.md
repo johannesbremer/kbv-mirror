@@ -13,7 +13,7 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 \|---|
 \| **einlieferung** |
 
-| schema location: | ..\..\Allgemein_Abrechnung |
+| schema location: | ..\..\Allgemein_Abrechnung\Schema\KVTA_Datentypen_1_0_4.xsd |
 |---|---|
 | attributeFormDefault: |  |
 | elementFormDefault: |  |
@@ -29,7 +29,7 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 | **status_typ** |  |
 | **Version_typ** |  |
 
-unqualified qualified \Schema\KVTA_Datentypen_1_0_4.xsd unqualified qualified
+unqualified qualified unqualified qualified
 
 ---
 
@@ -122,7 +122,7 @@ einlieferung/lieferungs_zeitpunkt/@V xs:dateTime UNG+SAMMELERKLÄRUNG  (Wird als
 | properties | content  complex |
 |---|---|
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **derived by: ** required         appinfo <altova:exampleValues> |
-| annotation | documentation Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011 |
+| annotation | documentation Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011-1 zu übermitteln |
 
 attribute
 
@@ -147,7 +147,7 @@ attribute
 |---|---|
 | properties | use  required |
 
-xs:string value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> -1 zu übermitteln einlieferung/quartal/@V restriction of <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> einlieferung/vollstaendig/@V xs:boolean
+xs:string value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> einlieferung/quartal/@V restriction of <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> einlieferung/vollstaendig/@V xs:boolean
 
 ---
 

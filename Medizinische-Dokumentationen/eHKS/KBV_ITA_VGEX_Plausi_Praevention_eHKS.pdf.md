@@ -2,12 +2,12 @@
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  | ** |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 |  |  |
 
-i- on (eHKS) -Lewin-Platz 2 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft 
+i- on (eHKS) 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---

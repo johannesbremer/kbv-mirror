@@ -7,7 +7,7 @@ Version 1.0
 
 ---
 
-Das Ziel der Therapie der Adipositas bei Erwachsenen ist insbesondere eine langfristige Senkung des  Körpergewichtes mit anschließender Stabilisierung oder der Vermeidung einer weiteren Gewichtszunahme.  Damit soll langfristig eine Verbesserung der Lebensqualität sowie die Verring erung der Adipositas-bedingten  Begleiterkrankungen sowie dessen Folgeschäden erreicht werden. Die Therapieziele sollen vorrangig durch  eine langfristige Änderung des Lebensstils hinsichtlich des Ernährungs- und des Bewegungsverhaltens erreicht  werden.
+Das Ziel der Therapie der Adipositas bei Erwachsenen ist insbesondere eine langfristige Senkung des  Körpergewichtes mit anschließender Stabilisierung oder der Vermeidung einer weiteren Gewichtszunahme.  Damit soll langfristig eine Verbesserung der Lebensqualität sowie die Verringerung der Adipositas-bedingten  Begleiterkrankungen sowie dessen Folgeschäden erreicht werden. Die Therapieziele sollen vorrangig durch  eine langfristige Änderung des Lebensstils hinsichtlich des Ernährungs- und des Bewegungsverhaltens erreicht  werden.
 
 Adipositas ist definiert als eine über das Normalmaß hinausgehende Vermehrung des Körperfetts ab einem  Body-Mass-Index (BMI) ≥ 30 kg/m2. Der BMI ist der Quotient aus Gewicht und Körpergröße zum Quadrat  (kg/m²) und bildet die Grundlage für die Beurteilung des weiteren Verlaufs der Adipositas. Bei jeder  Dokumentation muss das aktuelle Körpergewicht eingegeben werden, die Körpergröße wird einmalig  eingegeben und wird in den Folgedokumentationen übernommen (vgl. allgemeine Dokumentation).
 
@@ -23,7 +23,7 @@ Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie unter Berücksicht
 
 „Körperliches Training“ beschreibt körperliche Aktivität die systematisch, wiederholt und mit dem Ziel  durchgeführt wurde, eine Störung der Homöostase zu provozieren, welche zu physiologischen Anpassungen  (z. B. Muskulatur, Herz-Kreislauf-System) führt. Jegliche Art des körperlichen Trainings ist geeignet. Es kann  sowohl Ausdauertraining als auch Krafttraining oder beides beinhalten.
 
-„Körperliche Alltagsaktivität“ stellt im Gegensatz hierzu jedwede Form von Bewegung dar, die in der Freizeit  oder im beruflichen Leben erfolgt und den Energieverbrauch über den Grundumsatz anhebt , beispielsweise  Treppensteigen oder Radfahren zur Arbeit.
+„Körperliche Alltagsaktivität“ stellt im Gegensatz hierzu jedwede Form von Bewegung dar, die in der Freizeit  oder im beruflichen Leben erfolgt und den Energieverbrauch über den Grundumsatz anhebt, beispielsweise  Treppensteigen oder Radfahren zur Arbeit.
 
 Bitte geben Sie „Ziele vereinbart“ an, wenn Sie mit Ihrer Patientin oder Ihrem Patienten mindestens ein Ziel zur  regelmäßigen körperlichen Alltagsaktivität und mindestens ein Ziel zu regelmäßigem körperlichem Training  vereinbaren.
 
@@ -46,9 +46,9 @@ Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie unter Berücksicht
 
 „Körperliches Training“ beschreibt körperliche Aktivität die systematisch, wiederholt und mit dem Ziel  durchgeführt wurde, eine Störung der Homöostase zu provozieren, welche zu physiologischen Anpassungen  (z. B. Muskulatur, Herz-Kreislauf-System) führt. Jegliche Art des körperlichen Trainings ist geeignet. Es kann  sowohl Ausdauertraining als auch Krafttraining oder beides beinhalten.
 
-„Körperliche Alltagsaktivität“ stellt im Gegensatz hierzu jedwede Form von Bewegung dar, die in der Freizeit  oder im beruflichen Leben erfolgt und den Energieverbrauch über den Grundumsatz anhebt , beispielsweise  Treppensteigen oder Radfahren zur Arbeit.
+„Körperliche Alltagsaktivität“ stellt im Gegensatz hierzu jedwede Form von Bewegung dar, die in der Freizeit  oder im beruflichen Leben erfolgt und den Energieverbrauch über den Grundumsatz anhebt, beispielsweise  Treppensteigen oder Radfahren zur Arbeit.
 
-Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation mindestens  ein Ziel zur regelmäßigen körperlichen Alltagsaktivität und mindestens ein Ziel zu körperlichem Training  vereinbart haben und diese im Rahmen dieser Dokumentatio n überprüfen oder diese neu mit Ihrer Patientin  oder Ihrem Patienten vereinbaren, geben Sie bitte „Ziele vereinbart oder überprüft“ an.
+Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation mindestens  ein Ziel zur regelmäßigen körperlichen Alltagsaktivität und mindestens ein Ziel zu körperlichem Training  vereinbart haben und diese im Rahmen dieser Dokumentation überprüfen oder diese neu mit Ihrer Patientin  oder Ihrem Patienten vereinbaren, geben Sie bitte „Ziele vereinbart oder überprüft“ an.
 
 Sollten Sie mit Ihrer Patientin oder Ihrem Patienten bei der aktuellen Dokumentation kein Ziel zur regelmäßigen  körperlichen Alltagsaktivität oder zu körperlichem Training vereinbaren oder die bisher vereinbarten Ziele nicht  überprüfen, geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
 
@@ -148,7 +148,7 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben Sie  bitte **„Ja“** an. War die Teilnahme an einer Adipositas-Schulung innerhalb des Dokumentationszeitraums aus  **nachvollziehbaren Gründen nicht möglich** , geben Sie hier bitte **„War aktuell nicht möglich“** an. Diese  Antwort ist anzugeben, wenn z. B. organisatorische oder andere patientenseitige Voraussetzungen für die  Teilnahme an einer Adipositas-Schulung nicht gegeben sind. Weitere Gründe können z. B. fehlende  Schulungskapazität, Krankenhausaufenthalt Ihrer Patientin oder Ihres Patienten oder private Gründe sein. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.
+Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben Sie  bitte **„Ja“** an. War die Teilnahme an einer Adipositas-Schulung innerhalb des Dokumentationszeitraums aus  **nachvollziehbaren Gründen nicht möglich**, geben Sie hier bitte **„War aktuell nicht möglich“** an. Diese  Antwort ist anzugeben, wenn z. B. organisatorische oder andere patientenseitige Voraussetzungen für die  Teilnahme an einer Adipositas-Schulung nicht gegeben sind. Weitere Gründe können z. B. fehlende  Schulungskapazität, Krankenhausaufenthalt Ihrer Patientin oder Ihres Patienten oder private Gründe sein. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt allein Ihnen und Ihrer Patientin oder Ihrem Patienten.
 
 Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine Schulung  empfohlen haben, Ihre Patientin oder ihr Patient die Schulung aber ohne einen für Sie nachvollziehbaren  Grund nicht wahrgenommen haben, geben Sie bitte **„Nein“** an.
 

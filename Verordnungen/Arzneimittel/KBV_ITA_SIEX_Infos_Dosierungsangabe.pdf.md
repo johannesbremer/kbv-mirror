@@ -34,11 +34,11 @@ Die neue Vorschrift soll zu einer verbesserten Transparenz für alle Beteiligten
 
 Ausgenommen von einer verpflichtenden Dosierungsangabe sind gemäß AMVV lediglich Verordnungen, die  unmittelbar an ÄrztInnen abgegeben werden. Dies betrifft zum Beispiel den Sprechstundenbedarf, in  Einzelfällen auch Arzneimittelverordnungen, die beispielsweise auf einen Patientennamen ausgestellt  wurden, jedoch unmittelbar an die verschreibende Person abgegeben werden (beispielsweise Esketamin  zur intranasalen Anwendung gemäß § 2 Absatz 3a AMVV).
 
-Weitere Ausnahmen sind laut AMVV nicht vorgesehen. Daher sind beispielsweise Impfstoffrezepte, die auf  einen Patientennamen ausgestellt und dem Patienten ausgehändigt werden, von der neuen AMVV -Regelung nicht ausgenommen und müssen mit einer Dosierung versehen werden. Als Dosierangabe kann in  diesen Fällen pauschal ein Dj voreingestellt werden. Dies empfehlen wir den Softwarehäusern.
+Weitere Ausnahmen sind laut AMVV nicht vorgesehen. Daher sind beispielsweise Impfstoffrezepte, die auf  einen Patientennamen ausgestellt und dem Patienten ausgehändigt werden, von der neuen AMVV-Regelung nicht ausgenommen und müssen mit einer Dosierung versehen werden. Als Dosierangabe kann in  diesen Fällen pauschal ein Dj voreingestellt werden. Dies empfehlen wir den Softwarehäusern.
 
 ## Was gilt für nicht- verschreibungspflichtige Arzneimittel und Medizinprodukte?
 
-Die entsprechende Umsetzung (Dosierung bzw. das Kennzeichen >>Dj<<) durch die Verordnungssoftware  für nicht-verschreibungspflichtige Arzneimittel sowie Medizinprodukte ist erlaubt und optional. Aus  Gründen der Arzneimitteltherapiesicherheit ist eine Dosierungsanweisung auch für nicht-verschreibungspflichtige Arzneimittel sowie für Medizinprodukte (z.B. Augentropfen ) empfehlenswert, aber  gemäß AMVV nicht erforderlich
+Die entsprechende Umsetzung (Dosierung bzw. das Kennzeichen >>Dj<<) durch die Verordnungssoftware  für nicht-verschreibungspflichtige Arzneimittel sowie Medizinprodukte ist erlaubt und optional. Aus  Gründen der Arzneimitteltherapiesicherheit ist eine Dosierungsanweisung auch für nicht-verschreibungspflichtige Arzneimittel sowie für Medizinprodukte (z.B. Augentropfen) empfehlenswert, aber  gemäß AMVV nicht erforderlich
 
 ## Wie sieht das von der Software zu setzende Kennzeichen aus, wenn ein Medikationsplan oder eine  schriftliche Dosierungsanweisung vorliegt?
 
@@ -85,7 +85,7 @@ Die Software muss mindestens folgende drei Auswahlmöglichkeiten für ÄrztInnen
 
 Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine strukturierte Dosierungsangabe  erfolgen zum Beispiel in folgender Form:
 
-- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1 ½
+- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens-mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1 ½
 - Entsprechend des „Dreier-Schemas“ für morgens-mittags-abends z.B. bei morgendlicher und  abendlicher Gabe jeweils einer halben Tablette ½-0 -½
 
 
@@ -101,7 +101,7 @@ Des Weiteren kann die Software optional beispielsweise durch das Auffüllen von 
 
 Es ist notwendig, dass die angegebene Dosierung auf einem Rezept unmissverständlich ist, damit die  Belieferung durch die Apotheke ohne Rücksprache mit der verordnenden Arztpraxis erfolgen kann.  Allgemein verständliche Abkürzungen dürfen verwendet werden. Im Folgenden werden mögliche Schemata  dargestellt:
 
-- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens -mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1½
+- Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens-mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1½
 - Entsprechend des „Dreier-Schemas“ für morgens-mittags-abends z.B. bei morgendlicher und  abendlicher Gabe jeweils einer halben Tablette ½-0 -½
 - Ausgeschriebene Tageszeiten z.B. morgens, mittags und abends jeweils 1 Sprühstoß
 - Weitere Beispiele:
@@ -118,7 +118,7 @@ Es ist notwendig, dass die angegebene Dosierung auf einem Rezept unmissverständ
 - Creme zu Beginn der Behandlung zweimal täglich dünn auf die erkrankten Hautpartien auftragen;  mit Besserung des Krankheitsbildes genügt Applikation einmal pro Tag
 -  Shampoo einmal täglich direkt auf trockene Kopfhaut auftragen und einmassiert; für die gesamte  Kopfhaut halber Esslöffel ausreichend; Gesamtdosis sollte 50 g pro Woche nicht überschreiten
 
-Ein ausschließlicher Verweis auf die Packungsbeilage („siehe Packungsbeilage“; „Einnahme gemäß  Packungsbeilage“ o.ä.) ist aus Sicht der KBV keine hinreichende Dosierungsangabe im Sinne der AMVV. Die  Intention des Gesetzgebers bei der Einführung einer erstmals verpflichtenden Dosierungsangab e (oder  Kennzeichnung, dass eine schriftliche Dosierung vorliegt) bei allen verschreibungspflichtigen Arzneimitteln  im Rahmen der Neuregelung der AMVV geschah aus Gründen der Arzneimitteltherapiesicherheit, um  Patienten besser über die anzuwendende Dosierung zu informieren. Diesem Anliegen wird mit einem  ausschließlichen Verweis auf die schon zuvor regelhaft zur Verfügung stehende Packungsbeilage aus Sicht  der KBV nicht hinreichend Rechnung getragen.
+Ein ausschließlicher Verweis auf die Packungsbeilage („siehe Packungsbeilage“; „Einnahme gemäß  Packungsbeilage“ o.ä.) ist aus Sicht der KBV keine hinreichende Dosierungsangabe im Sinne der AMVV. Die  Intention des Gesetzgebers bei der Einführung einer erstmals verpflichtenden Dosierungsangabe (oder  Kennzeichnung, dass eine schriftliche Dosierung vorliegt) bei allen verschreibungspflichtigen Arzneimitteln  im Rahmen der Neuregelung der AMVV geschah aus Gründen der Arzneimitteltherapiesicherheit, um  Patienten besser über die anzuwendende Dosierung zu informieren. Diesem Anliegen wird mit einem  ausschließlichen Verweis auf die schon zuvor regelhaft zur Verfügung stehende Packungsbeilage aus Sicht  der KBV nicht hinreichend Rechnung getragen.
 
 Die Dosierungsangabe „Bei Bedarf“ ist aus Sicht der KBV zwar grundsätzlich mit den Vorgaben der AMVV zu  vereinbaren. Nichtsdestoweniger ist eine präzisere Angabe beispielsweise mit einer täglichen Höchstmenge
 
@@ -131,7 +131,7 @@ Bei Bedarf 1 Tablette; maximal 3 am Tag im Abstand von 8 Stunden ) aus Gründen 
 
 Es gibt keine Feldbegrenzung für die Dosierungsangabe. Wenn zwei Zeilen für ein verordnetes Produkt  nicht ausreichen, müssen mehr Zeilen verwendet werden, auch wenn das bedeutet, dass u.U. weniger als  drei Produkte auf dem Rezept Platz finden. ÄrztInnen müssen von der Software darauf hingewiesen  werden, dass ggf. der Platz auf dem Rezept nicht ausreicht und ein zweites Rezept für den Druck  erforderlich wird.
 
-## Wie sollte idealerweise mit der Situation umgegangen werden, wenn dem Patienten bereits ein  Medikationsplan bzw. eine schriftliche Dosierungsanweisung vorliegt ?
+## Wie sollte idealerweise mit der Situation umgegangen werden, wenn dem Patienten bereits ein  Medikationsplan bzw. eine schriftliche Dosierungsanweisung vorliegt?
 
 Notwendige Dosierungsanpassungen im Laufe einer längerfristigen Therapie eines Patienten können dazu  führen, dass die ursprünglich vom Apotheker auf die Packung übertragenen Dosierungsangabe nicht mehr  korrekt ist und sich damit für den Patienten ein Risiko einer falschen, weil veralteten Dosierung ergibt.
 
@@ -151,7 +151,7 @@ Die Eingabe hat durch ÄrztInnen aktiv zu erfolgen.
 
 Die Verordnungssoftware kann ÄrztInnen optional die Möglichkeit bieten, mit einem Klick die Angabe  Dj für alle Verordnungszeilen auf einem Rezept zu setzen, sodass die Angabe Dj mit nur einem Klick  hinter jedem verordneten Produkt jeweils gesetzt wird.
 
-Des Weiteren kann die auf einem Rezept gesetzte Dosierungsangabe bzw. Kennzeichnung, dass eine  schriftliche Dosierungsanweisung vorliegt, patientenspezifisch gespeichert werden, sodass sie bei einer  erneuten Verordnung direkt vorliegt und voreingstellt werden kann. .
+Des Weiteren kann die auf einem Rezept gesetzte Dosierungsangabe bzw. Kennzeichnung, dass eine  schriftliche Dosierungsanweisung vorliegt, patientenspezifisch gespeichert werden, sodass sie bei einer  erneuten Verordnung direkt vorliegt und voreingstellt werden kann..
 
 ## Was müssen ÄrztInnen bei der handschriftlichen Ausstellung von Rezepten beachten?
 

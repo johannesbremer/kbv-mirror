@@ -4,7 +4,9 @@
 
 **Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+**Betriebsstätten-Nr.**
+
+**Arzt-Nr.**
 
 **Diagnose**
 
@@ -20,29 +22,35 @@
 
 **PRF.NR.**
 
+**geb. am**
+
+**Status**
+
+**Datum**
+
+**gegenüber** **bitte** **diese**
+
+**Kostenübernahme** **es** **liegt**
+
 **2**
 
 **Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
 
-**geb. am**
+**Belegarzt-**
 
-**Belegarzt-** **Notfall**
+**Notfall**
 
 **behandlung**
 
 **Unfall,**
 
-**Versorgungs-** **Unfallfolgen leiden (BVG)** **Status**
-
-**Nächsterreichbare, geeignete Krankenhäuser**
-
-**Datum**
+**Versorgungs-** **Unfallfolgen leiden (BVG)** **Nächsterreichbare, geeignete Krankenhäuser**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**gegenüber** **dem** **Krankenhaus** **bleibt** **bitte** **diese** **Verordnung** **vor** **Aufsuchen** **Krankenkasse** **vorlegen.**
+**dem** **Krankenhaus** **bleibt** **Verordnung** **vor** **Aufsuchen** **Krankenkasse** **vorlegen.**
 
-**Kostenübernahme** **durch** **die** **Krankenkasse** **es** **liegt** **ein** **Notfall** **vor,** **und** **ein**
+**durch** **die** **Krankenkasse** **ein** **Notfall** **vor,** **und** **ein**
 
 **Stempel des Krankenhauses und Unterschrift**
 

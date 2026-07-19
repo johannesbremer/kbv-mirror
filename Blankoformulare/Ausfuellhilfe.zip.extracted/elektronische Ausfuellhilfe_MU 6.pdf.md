@@ -71,7 +71,9 @@ Wenn Ihnen bekannt ist, dass der Patient wegen Rückständen bei den Mitgliedsbe
 
 **Intern**
 
-Unter „Diagnose/Verdachtsdiagnose“, „Befund/Medikation“ bzw. „Auftrag“ geben Sie bitte Informationen  an, die der auf Überweisung tätig werdende Arzt für die Behandlung und zur Vermeidung von  Mehrfachuntersuchungen benötigt. Hierzu zählen auch bisher erhobene Befunde und  Behandlungsmaßnahmen.
+Unter „Diagnose/Verdachtsdiagnose“, „Befund/Medikation“ bzw. „Auftrag“ g an, die der auf Überweisung tätig werdende Arzt für die Behandlung und zur Vermeidung von  Mehrfachuntersuchungen benötigt. Hierzu zählen auch bisher erhobene Befunde und  Behandlungsmaßnahmen.
+
+eben Sie bitte Informationen
 
 ## MEHR INFORMATIONEN
 

@@ -1,4 +1,4 @@
-# SDOPS (OPERATIONEN- UND PROZEDURENSCHLÜSSELSTAMMDATEI)
+# SDOPS (OPERATIONEN- UND  PROZEDURENSCHLÜSSELSTAMMDATEI)
 
 ## KBV_ITA_VGEX_SCHNITTSTELLE_SDOPS
 
@@ -46,17 +46,17 @@ Seite 2 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ## EINLEITUNG ZU SDOPS
 
-Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen-und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
+Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und  Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen-und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
 
 Die Aktualisierung der Stammdatei erfolgt in Abhängigkeit der Änderungen des DIMDIs bzw. durch Beschlüsse des Bewertungsausschusses.
 
 Die vorliegende Schnittstellenbeschreibung definiert das Format der SDOPS der KBV im XML-Format konform zur ehd-Richtlinie KBV_ITA_VGEX_eHD.
 
-Die Datei wird den Softwarehäusern vom Dezernat Digitalisierung und IT der KBV zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt. Für Fragen zu den Nutzungszwecken steht das Dezernat [Vergütung und Gebührenordnung über den Servicedesk der KBV (EMail:](mailto:KBVServiceDesk@KBV.de) 4005-2077) zur Verfügung.
+Die Datei wird den Softwarehäusern vom Dezernat Digitalisierung und IT der KBV zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt. Für Fragen zu den Nutzungszwecken steht das Dezernat Vergütung und Gebührenordnung über den Servicedesk der KBV (EMail:  4005-2077) zur Verfügung.
 
 Seite 3 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
-[KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /
+[KBVServiceDesk@KBV.de, Telefon: 030 /](mailto:KBVServiceDesk@KBV.de)
 
 
 ---
@@ -140,7 +140,7 @@ Kardinalität 0..1
 
 n..m 2.5.2 Strukturelememte
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft. In  diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
 
 Symbol 2.5.3 Sonstige Symbole
 
@@ -205,17 +205,7 @@ ehd:ehd>
 
 ### ehd_version:
 
-Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich
-
-### <header>
-
-### <body>
-
-### Der Namensraum für die ehd-Schnittstelle ist zwingend:
-
-Seite 7 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
-
-wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler
+Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich  wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler
 
 ### melden.
 
@@ -223,7 +213,15 @@ Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für
 
 ### die Version vorgegeben.
 
+### <header>
+
 Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den  im body-Element liegenden eigentlichen Inhaltsdaten.
+
+### <body>
+
+### Der Namensraum für die ehd-Schnittstelle ist zwingend:
+
+Seite 7 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 ### Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
@@ -335,21 +333,23 @@ Seite 10 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedure
 
 5.1.5 kz115b
 
-Das optionale Element <kz115b> enthält die Kategorie zum OPS-Code gem. Anlage 1 zum Vertrag nach § 115 b  Abs. 1 SGB V. Zulässige Werte sind "1", "2" und "s". Im Falle von "s" sind weitere Erläuterungen im Element  <kz115b_info> hinterlegt.
+Das optionale Element <kz115b> enthält die Kategorie zum OPS-Code gem. Anlage 1 zum Vertrag nach § 115 b  Abs. 1 SGB V. Zulässige Werte sind "1", "2" und "s". Im Falle von "s" sind weitere Erläuterungen im Element
 
-Der XML-Code für ein Element <kz115b> hat folgenden Aufbau:
+### <kz115b_info> hinterlegt.
+
+### Der XML-Code für ein Element <kz115b> hat folgenden Aufbau:
 
 ```
 kz115b V="1" />
 ```
 
-oder
+### oder
 
 ```
 kz115b V="2" />
 ```
 
-oder
+### oder
 
 ```
 kz115b V="s" />
@@ -357,9 +357,11 @@ kz115b V="s" />
 
 5.1.6 kz115b_info
 
-Das optionale Element <kz115b_info> enthält ergänzende Informationen zum Element <kz115b>, falls dort der  Wert "s" übermittelt wird.
+Das optionale Element <kz115b_info> enthält ergänzende Informationen zum Element <kz115b>, falls dort der
 
-Der XML-Code für ein Element <kz115b_info> hat beispielsweise folgenden Aufbau:
+### Wert "s" übermittelt wird.
+
+### Der XML-Code für ein Element <kz115b_info> hat beispielsweise folgenden Aufbau:
 
 ```
 kz115b_info V="Erwachsene: 1, Neugeborene, Säuglinge, Kleinkinder, Kinder und  Jugendliche: 2" />

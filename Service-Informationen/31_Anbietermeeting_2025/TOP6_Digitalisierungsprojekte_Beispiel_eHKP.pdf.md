@@ -21,7 +21,9 @@
 
 # - LESSONS LEARNED
 
-# - DIGITALISIERUNGSPROJEKT
+**FRÜHERE DIGITALISIERUNGSPROJEKTE**
+
+# - DIGITALISIERUNGSPROJEKT EHKP
 
 ## - BETEILIGTE
 
@@ -39,14 +41,10 @@
 
 ## - ZEITPLAN GEMATIK
 
-# - FRÜHERE DIGITALISIERUNGSPROJEKTE
-
-# - EHKP
-
 
 ---
 
-## Lessons Learned frühere Digitalisierungsprojekte (eAU, eRezept
+## Lessons Learned frühere Digitalisierungsprojekte (eAU, eRezept)
 
 ## - Abstimmung und Festlegung des Prozesses mit allen Akteuren
 
@@ -176,9 +174,9 @@ Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## - Korrekturanfrage
 
-## - Korrektur -Verordnung
+## - Korrektur-Verordnung
 
-## - Blanko -Verordnung der Pflege
+## - Blanko-Verordnung der Pflege
 
 ## - Entscheidungsdatensatz des Kostenträgers
 
@@ -204,11 +202,9 @@ Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
 - Informationen je Leistung gemäß HKP-Richtlinie
 - Angabe von Häufigkeit und ggf. Verordnungsdauer, oder Angabe „Blankoverordnung“
 
-## - Ärztliche Informationen für die Pflege
+## - Ärztliche Informationen für die Pflege – noch in Abstimmung
 
-– noch in Abstimmung
-
-## - Blanko -Verordnung des Pflegedienstes
+## - Blanko-Verordnung des Pflegedienstes
 
 ## - Angaben des Pflegedienstes zu Dauer und Häufigkeit
 
@@ -223,7 +219,7 @@ Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
 
 ## - Abstimmung der Anforderungen mit Prozessbeteiligten
 
-## - Veröffentlichung im Einvernehmen mit GKV -SV
+## - Veröffentlichung im Einvernehmen mit GKV-SV
 
 ## - Kommentierung geplant
 

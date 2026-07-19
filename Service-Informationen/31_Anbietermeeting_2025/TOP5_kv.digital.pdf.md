@@ -313,7 +313,7 @@ Bundesvereinigung verpflichtet, die Nutzung der in  ihrem elektronischen System 
 - Spezifikation auf Plattform nach 385 SGB V (INA) veröffentlicht
 - Gebührenverordnung gemäß 370a Absatz 4 SGB V im BGBl. 2024 I  Nr. 291 vom 30.09.2024 veröffentlicht
 - Zertifizierungsverfahren wird durch KBV durchgeführt
-- [weitere Informationen im Partnerportal der kv.digital unter dem](https://partnerportal.kv-telematik.de/spaces/1TSG3A2SV/pages/194644046/116117+Terminservice+-+Schnittstelle+gem%C3%A4%C3%9F+%C2%A7+370a+Abs.+2+SGB+V+Startseite)[Link](https://partnerportal.kv-telematik.de/spaces/1TSG3A2SV/pages/194644046/116117+Terminservice+-+Schnittstelle+gem%C3%A4%C3%9F+%C2%A7+370a+Abs.+2+SGB+V+Startseite)
+- weitere Informationen im Partnerportal der kv.digital unter dem [Link](https://partnerportal.kv-telematik.de/spaces/1TSG3A2SV/pages/194644046/116117+Terminservice+-+Schnittstelle+gem%C3%A4%C3%9F+%C2%A7+370a+Abs.+2+SGB+V+Startseite)
 
 
 ---
@@ -369,7 +369,7 @@ Veröffentlichung der Adressen unter: [https://partnerportal.kv](https://partner
 
 # Auditangebote
 
-**der kv.digital für die SoftwareHersteller**
+**der kv.digital für die Software Hersteller**
 
 Befund
 

@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | Schnittstelle Qualitätssicherung |
-|  | [KBV_ITA_VGEX_Schnittstelle_ |
+|  | [KBV_ITA_VGEX_Schnittstelle_QS_Zervix- |
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 2.00 Datum: 13.10.2014 Kennzeichnung: Öffentlich  In Kraft Status:
+Zervix-Zytologie Zytologie] 2.00 Datum: 13.10.2014 Kennzeichnung: Öffentlich  In Kraft Status:
 
 ---
 
@@ -21,10 +21,10 @@ Zervix-Zytologie QS_Zervix- Zytologie] -Lewin-Platz 2 2.00 Datum: 13.10.2014 Ken
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.00 | 13.10.2014 | KBV | Die Änderungen im    Überarbeitung der | Einführung der Münchner Nome | **16 ff **          **20 ff ** |
+| 2.00 | 13.10.2014 | KBV | Die Änderungen im    Überarbeitung der | Einführung der Münchner Nomen- | **16 ff **          **20 ff ** |
 | 1.06 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
-header hinsichtlich der Elemente person_name und addr, welche bereits in der Schnittstelle um- gesetzt waren, wurden der Dokumentation noch angepasst. n- klatur III und Überarbeitung der Schnittstelle GBA-Richtlinie Krebsfrüherkennung
+header hinsichtlich der Elemente person_name und addr, welche bereits in der Schnittstelle um- gesetzt waren, wurden der Dokumentation noch angepasst. klatur III und Überarbeitung der Schnittstelle GBA-Richtlinie Krebsfrüherkennung
 
 ---
 
@@ -204,15 +204,15 @@ Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
 **qszervixzyto** ..... Datentyp der ehd-Schnittstelle
 
-**vv.vv** ......... Version der Schnittstelle;  ***<version>*** des Header-Elements ***<interface>***
-
-Entspricht dem Element
+**vv.vv** ......... Version der Schnittstelle;  Entspricht dem Element ***<version>***
 
 **sender** ...... Absender der Lieferung, entspricht der Betriebsstättennummer.
 
 Beispiel:
 
 -  qszervixzyto_2.00_123456789.xml
+
+des Header-Elements ***<interface>***
 
 
 ---
@@ -328,14 +328,14 @@ XML-Beispiel
 
 ---
 
-\| <local_header ignore="all" descriptor="sciphox |
+\| <local_header ignore="all" descriptor="sciphox"> |
 \|---|
 
 **XML-Code 2 – ehd-header**
 
 ### 4.1.1 Software (local_header)
 
-<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449 -0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> <sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header> Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software* *v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-* *phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-* *phox:Kontakt* zusammen. Die Struktur für dieses Element ist in Abbildung 5 dargestellt.
+<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449-0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> <sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header> Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software* *v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-* *phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-* *phox:Kontakt* zusammen. Die Struktur für dieses Element ist in Abbildung 5 dargestellt.
 
 
 ---
@@ -344,7 +344,7 @@ XML-Beispiel
 
 Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
-<local_header ignore="all" descriptor="sciphox
+<local_header ignore="all" descriptor="sciphox">
 
 <sciphox:sciphox-ssu type="software" country="de" version="v1">
 
@@ -370,17 +370,15 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 </local_header>
 
+**XML-Code 3 – local_header (Software)**
+
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanummerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanummerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 <sciphox:id EX="X/52/0801/36/103" RT="KBV-Prüfnummer"/>
-
-**XML-Code 3 – local_header (Software)**
-
-*EX* und *RT*. Das *EX*-Attribut erhält
 
 **XML-Code 4 – id (Software)**
 
@@ -418,14 +416,14 @@ Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Soft
 | Code | Display Name | Definition |
 |---|---|---|
 | PVS | Arztpraxissoftware | Arztpraxissoftware |
-| XSD | XML-Schnittstelle |  |
+| XSD | XML-Schnittstelle | XML-Daten wurden gemäß dieser XML- |
 | XPM | Prüfmodul | (KBV) Prüfmodul |
 
 **Tabelle 4 SoftwareTyp**
 
 #### 4.1.1.5 Softwarekontakt (Kontakt)
 
-XML-Daten wurden gemäß dieser XML Schnittstelle erzeugt.Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be-steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm*, evtl.  *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt-gruppe*  bilden. Die Grundstruktur ist in Abbildung 6 dargestellt.
+Schnittstelle erzeugt. Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be-steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm*, evtl.  *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt-gruppe*  bilden. Die Grundstruktur ist in Abbildung 6 dargestellt.
 
 
 ---
@@ -434,7 +432,7 @@ XML-Daten wurden gemäß dieser XML Schnittstelle erzeugt.Das Element *sciphox:K
 
 Die Coderahmen für dieses Element sieht wie folgt aus:
 
-\| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>          <cda:person_name>           . . .        <cda:person_name>                  </sciphox:Kontakt> |
+\| <sciphox:Kontakt>         <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher"/>          <cda:person_name>           . . .        <cda:person_name>                  </sciphox:Kontakt> |
 \|---|
 
 **XML-Code 8 – Kontakt**
@@ -443,7 +441,7 @@ Die Coderahmen für dieses Element sieht wie folgt aus:
 
 Hier wird der Kontakttyp im *V*-Attribut als kodierter Wert angegeben. Die Werte können aus  der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester  Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko-dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantworlichen ist zwingend ein-mal erforderlich. Deshalb muss genau einmal im Element *Kontakttyp* der Wert „SOFTV“ an-gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
 
-<sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher "/>
+<sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher"/>
 
 **XML-Code 9 – Kontakttyp**
 
@@ -463,7 +461,11 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 ##### 4.1.1.5.3 Name der Person (person_name)
 
-Das Element *person_name* enthält das Element *nm*, welches im nächsten Abschnitt konkreti-siert wird. Die Grundstruktur dieses Elements ist in Abbildung 7 dargestellt.
+Das Element *person_name* enthält das Element  siert wird. Die Grundstruktur dieses Elements ist in
+
+*nm*, welches im nächsten Abschnitt konkreti-
+
+Abbildung 7
 
 **Abbildung 7 Grundstruktur person_name (Arzt)**
 
@@ -485,17 +487,17 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 **XML-Code 11 – person_name (Arzt)**
 
-*4.1.1.5.3.1* *Namensbestandteile (nm)*
+*4.1.1.5.3.1 Namensbestandteile (nm)*
 
 | Element | Werte | Datentyp | Kard. |
 |---|---|---|---|
 | GIV | durch Bindestriche oder Leerzeichen getrennt) | max. 45 Zeichen | 0..1 |
-| FAM | Familiennamen der Person | String mit | 1..1 |
-| PFX | führender Namenszusatz, wie z.B. „Dr. med“, | String mit max. | 0..10 |
+| FAM | Familiennamen der Person | String mit min. 1 und | 1..1 |
+| PFX | führender Namenszusatz, wie z.B. „Dr. med“, | String mit max. 20 | 0..10 |
 
 **Tabelle 5 Erläuterungen nm (Arzt)**
 
-Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mit den folgenden  Ausprägungen geben:
+Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das  Ausprägungen geben:
 
 | Code | Definition | Ausprägung |
 |---|---|---|
@@ -505,7 +507,11 @@ Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das *QUAL*-Attribut mi
 
 **Tabelle 6 Erläuterungen PFX**
 
-Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind min. 1 und  min. 1 und  und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ 20 Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7 Die folgende Tabelle zeigt die Abbildung der typischen Namensangaben auf die entsprechen-den XML-Elemente:
+Die folgende Tabelle zeigt die Abbildung der typischen Namensangaben auf die entsprechen-den XML-Elemente:
+
+dargestellt.
+
+Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7 *QUAL*-Attribut mit den folgenden
 
 
 ---
@@ -520,7 +526,7 @@ Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere V
 
 **Tabelle 7 Abbildung von Personennamen**
 
-Wenn es sich um eine Berufsausübungsgemeinschaft handelt, so wird der Name der Praxis  beim Element *FAM* eingetragen. Das Element  des Arztes „Dr. med. Ernst August Graf von Oberberg“ ist hier folgender Code anzug
+Wenn es sich um eine Berufsausübungsgemeinschaft handelt, so wird der Name der Praxis  beim Element *FAM* eingetragen. Das Element  des Arztes „Dr. med. Ernst August Graf von Oberberg“ ist hier folgender Code anzugeben:
 
 <nm>
 
@@ -528,7 +534,7 @@ Wenn es sich um eine Berufsausübungsgemeinschaft handelt, so wird der Name der 
 
 <FAM V="Oberberg"/>
 
-*GIV* entfällt dann. Als Beispiel für den Namen  eben:
+*GIV* entfällt dann. Als Beispiel für den Namen
 
 <PFX V="Dr. med." QUAL="AC"/>
 
@@ -578,7 +584,7 @@ In der Tabelle 8 sind die Kindelemente des Elements  angegeben.
 | PHYS | visit address (Wohn- / Aufenthaltsort) | Hausanschrift (default) |
 | PST | postal address (Postanschrift, Post- | Postfachanschrift |
 
-**Tabelle 9 Erläuterungen USE**
+**Tabelle 9 Erläuterungen USE-Attribut**
 
 Als Beispiel für eine Anschrift sei hier folgender Code angegeben:
 
@@ -606,8 +612,6 @@ Als Beispiel für eine Anschrift sei hier folgender Code angegeben:
 
 Das Element *telecom* besteht aus den Attributen  Faxnummern, Emailadressen und Homepages aufzunehmen. Es muss für das Softwarehaus  mindestens eine Telefonnummer angegeben sein. Es sind maximal fünf dieser Elemente er-laubt. Bei dem *V*-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden  String, der mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
 
-**-Attribut**
-
 lung stattgefunden hat Anschriftenzusatz. fach) *V* und *USE*. Es dient dazu, Telefon- und
 
 
@@ -620,8 +624,8 @@ Die Erläuterung für die verschiedenen Werte sind in der
 | tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP"/> |
 | fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP"/> |
 | mailto | Emailadresse | <telecom V="mailto:info@kbv.de" USE="WP"/> |
-| http | Homepage | <telecom V="http://www.kbv.de |
-| ftp | FTP-Server | <telecom V="ftp://ftp.kbv.de |
+| http | Homepage | <telecom V="http://www.kbv.de" USE="WP"/> |
+| ftp | FTP-Server | <telecom V="ftp://ftp.kbv.de" USE="WP"/> |
 
 Das *USE*-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
 
@@ -679,9 +683,7 @@ Das Element anzahl_praeparate enthält die Gesamtanzahl der zytologisch untersuc
 
 ### 4.3.2 Element anzahl_nv_praeparate
 
-Das Element anzahl_nv_praeparate enthält die Anzahl der nicht verwertbaren zytologisch  untersuchten Abstrichpräparate (entspricht Gruppe 0) aus der Gesamtanzahl der Präparate
-
-für den Berichtszeitraum.
+Das Element anzahl_nv_praeparate enthält die Anzahl der nicht verwertbaren zytologisch  untersuchten Abstrichpräparate (entspricht Gruppe 0) aus der Gesamtanzahl der Präparate  für den Berichtszeitraum.
 
 | diagram |  |
 |---|---|
@@ -703,16 +705,16 @@ Das Element anzahl_frauen enthält die Gesamtanzahl der zytologisch untersuchten
 
 ### 4.3.4 Die Gruppen gr1 bis gr5x
 
-### Die Befunde werden nach den Befundgruppen der Münchner Nomenklatur III eingeteilt.
+Die Befunde werden nach den Befundgruppen der Münchner Nomenklatur III eingeteilt.
 
-### Das Element gr1 enthält die Untersuchungsergebnisse der Gruppe I.
+Das Element gr1 enthält die Untersuchungsergebnisse der Gruppe I.
 
 | diagram |  |
 |---|---|
 
 **Tabelle 15 Element gr1**
 
-### XML-Beispiel:
+XML-Beispiel:
 
 
 ---
@@ -722,9 +724,7 @@ Das Element anzahl_frauen enthält die Gesamtanzahl der zytologisch untersuchten
 
 **XML-Code 15 – Befunde der Gruppe I**
 
-Alle Elemente vom Typ gruppe_typ haben den gleichen Aufbau und die gleichen Kindeleme te wie die Gruppe I. Aufgrund der Redundanz wird auf die Beschreibung der einzelnen Ele-mente verzichtet.
-
-n-
+Alle Elemente vom Typ gruppe_typ haben den gleichen Aufbau und die gleichen Kindelemen-te wie die Gruppe I. Aufgrund der Redundanz wird auf die Beschreibung der einzelnen Ele-mente verzichtet.
 
 | Gruppenbezeichnung nach Münchner | Bezeichnung des Elementes |
 |---|---|
@@ -760,6 +760,8 @@ n-
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
+**Tabelle 16 Element anzahl_frauen**
+
 #### 4.3.4.2 Element anzahl_khca
 
 Das Element anzahl_khca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen, bei denen kein Hinweis auf CA-Vorstufe oder CA gefunden wurden.
@@ -768,8 +770,6 @@ Das Element anzahl_khca enthält die Anzahl der untersuchten Frauen mit histolog
 |---|---|
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
-
-**Tabelle 16 Element anzahl_frauen**
 
 **Tabelle 17 Element anzahl_khca**
 
@@ -791,9 +791,7 @@ klärungsuntersuchungen mit CIN I.
 
 #### 4.3.4.4 Element anzahl_cin2
 
-Das Element anzahl_cin2 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-
-
-### klärungsuntersuchungen mit CIN II.
+Das Element anzahl_cin2 enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit CIN II.
 
 | diagram |  |
 |---|---|
@@ -811,7 +809,9 @@ Das Element anzahl_cin3ca enthält die Anzahl der untersuchten Frauen mit histol
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
-#### 4.3.4.6 Element anzahl_
+**Tabelle 20 Element anzahl_cin3ca**
+
+#### 4.3.4.6 Element anzahl_adenocais
 
 Das Element anzahl_cxca enthält die Anzahl der untersuchten Frauen mit histologischen Ab-klärungsuntersuchungen mit Adenocarcinoma in situ.
 
@@ -819,10 +819,6 @@ Das Element anzahl_cxca enthält die Anzahl der untersuchten Frauen mit histolog
 |---|---|
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
-
-**Tabelle 20 Element anzahl_cin3ca**
-
-#### adenocais
 
 **Tabelle 21 Element anzahl_adenocais**
 
@@ -838,7 +834,9 @@ Das Element anzahl_plattenepithelca enthält die Anzahl der untersuchten Frauen 
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
-#### 4.3.4.8 Element anzahl_
+**Tabelle 22 Element anzahl_plattenepithelca**
+
+#### 4.3.4.8 Element anzahl_adenocaceut
 
 Das Element anzahl_adenocaceut enthält die Anzahl der untersuchten Frauen mit histologi-schen Abklärungsuntersuchungen mit Adenokarzinom der Cervix uteri.
 
@@ -847,26 +845,16 @@ Das Element anzahl_adenocaceut enthält die Anzahl der untersuchten Frauen mit h
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
-**Tabelle 22 Element anzahl_**
+**Tabelle 23 Element anzahl_adenocaceut**
 
-#### adenocaceut
+#### 4.3.4.9 Element anzahl_endometriumca
 
-**plattenepithelca**
-
-#### 4.3.4.9 Element anzahl_
-
-Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histologischen
-
-Abklärungsuntersuchungen mit Endometriumkarzinom der Cervix uteri.
+Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histologischen  Abklärungsuntersuchungen mit Endometriumkarzinom der Cervix uteri.
 
 | diagram |  |
 |---|---|
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
-
-**Tabelle 23 Element anzahl_adenocaceut**
-
-#### endometriumca
 
 **Tabelle 24 Element anzahl_endometriumca**
 

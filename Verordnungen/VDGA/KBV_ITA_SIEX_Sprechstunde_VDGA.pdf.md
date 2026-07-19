@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 5. MÄRZ 2025  VERSION 1.23  DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  5. MÄRZ 2025  VERSION 1.23  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SPRECHSTUNDE VDGA
@@ -57,30 +57,30 @@ DOKUMENTENHISTORIE
 
 ---
 
-|  | INHALT |  |  |  |
-|---|---|---|---|---|
-| **1** | **NÄ C HSTER** | **T ERM IN** |  | **6** |
-| **2** | **SPRECHSTUNDE** | **22.** | **AUGUST 2023** | **6** |
-| **3** | **SPRECHSTUNDE** | **5.** | **SEPTEMBER 2023** | **8** |
-| **4** | **SPRECHSTUNDE** | **19.** | **SEPTEMBER 2023** | **9** |
-| **5** | **SPRECHSTUNDE** | **17.** | **OKTOBER 2023** | **10** |
-| **6** | **SPRECHSTUNDE** | **7.** | **NOVEMBER 2023** | **10** |
-| **7** | **SPRECHSTUNDE** | **14.** | **NOVEMBER 2023** | **12** |
-| **8** | **SPRECHSTUNDE** | **28.** | **NOVEMBER 2023** | **12** |
-| **9** | **SPRECHSTUNDE** | **19.** | **DEZEMBER 2023** | **13** |
-| **10** | **SPRECHSTUNDE** | **9. JANUAR** | **2024** | **15** |
-| **11** | **SPRECHSTUNDE** | **23.** | **JANUAR 2024** | **17** |
-| **12** | **SPRECHSTUNDE** | **13.** | **FEBRUAR 2024** | **19** |
-| **13** | **SPRECHSTUNDE** | **20.** | **FEBRUAR 2024** | **20** |
-| **14** | **SPRECHSTUNDE** | **5. MÄRZ** | **2024** | **21** |
-| **15** | **SPRECHSTUNDE** | **19. MÄ** | **R Z2 024** | **22** |
-| **16** | **SPRECHSTUNDE** | **2. APRIL** | **2024** | **25** |
-| **17** | **SPRECHSTUNDE** | **30. APRIL** | **2024** | **26** |
-| **18** | **SPRECHSTUNDE** | **14. MAI** | **2024** | **27** |
-| **19** | **SPRECHSTUNDE** | **28. MAI** | **2024** | **28** |
-| **20** | **SPRECHSTUNDE** | **11. JUNI** | **2024** | **29** |
-| **21** | **SPRECHSTUNDE** | **25. JUNI** | **2024** | **29** |
-| Seite | 4 von 32 / KBV | / Sprechstunde | VDGA / 5. Mä rz 2 025 |  |
+|  | INHALT |  |  |
+|---|---|---|---|
+| **1** | **NÄ C HSTER** | **T ERM IN** | **6** |
+| **2** | **SPRECHSTUNDE** | **22. AUGUST 2023** | **6** |
+| **3** | **SPRECHSTUNDE** | **5. SEPTEMBER 2023** | **8** |
+| **4** | **SPRECHSTUNDE** | **19. SEPTEMBER 2023** | **9** |
+| **5** | **SPRECHSTUNDE** | **17. OKTOBER 2023** | **10** |
+| **6** | **SPRECHSTUNDE** | **7. NOVEMBER 2023** | **10** |
+| **7** | **SPRECHSTUNDE** | **14. NOVEMBER 2023** | **12** |
+| **8** | **SPRECHSTUNDE** | **28. NOVEMBER 2023** | **12** |
+| **9** | **SPRECHSTUNDE** | **19. DEZEMBER 2023** | **13** |
+| **10** | **SPRECHSTUNDE** | **9. JANUAR 2024** | **15** |
+| **11** | **SPRECHSTUNDE** | **23. JANUAR 2024** | **17** |
+| **12** | **SPRECHSTUNDE** | **13. FEBRUAR 2024** | **19** |
+| **13** | **SPRECHSTUNDE** | **20. FEBRUAR 2024** | **20** |
+| **14** | **SPRECHSTUNDE** | **5. MÄ R Z2 024** | **21** |
+| **15** | **SPRECHSTUNDE** | **19. MÄ R Z2 024** | **22** |
+| **16** | **SPRECHSTUNDE** | **2. APRIL 2024** | **25** |
+| **17** | **SPRECHSTUNDE** | **30. APRIL 2024** | **26** |
+| **18** | **SPRECHSTUNDE** | **14. MAI 2024** | **27** |
+| **19** | **SPRECHSTUNDE** | **28. MAI 2024** | **28** |
+| **20** | **SPRECHSTUNDE** | **11. JUNI 2024** | **29** |
+| **21** | **SPRECHSTUNDE** | **25. JUNI 2024** | **29** |
+| Seite | 4 von 32 / KBV | / Sprechstunde VDGA / 5. Mä rz 2 025 |  |
 
 NÄCHSTER TERMIN SPRECHSTUNDE 22. AUGUST 2023 SPRECHSTUNDE 5. SEPTEMBER 2023 SPRECHSTUNDE 19. SEPTEMBER 2023 SPRECHSTUNDE 17. OKTOBER 2023 SPRECHSTUNDE 7. NOVEMBER 2023 SPRECHSTUNDE 14. NOVEMBER 2023 SPRECHSTUNDE 28. NOVEMBER 2023 SPRECHSTUNDE 19. DEZEMBER 2023 SPRECHSTUNDE 9. JANUAR 2024 SPRECHSTUNDE 23. JANUAR 2024 SPRECHSTUNDE 13. FEBRUAR 2024 SPRECHSTUNDE 20. FEBRUAR 2024 SPRECHSTUNDE 5. MÄRZ 2024 SPRECHSTUNDE 19. MÄRZ 2024 SPRECHSTUNDE 2. APRIL 2024 SPRECHSTUNDE 30. APRIL 2024 SPRECHSTUNDE 14. MAI 2024 SPRECHSTUNDE 28. MAI 2024 SPRECHSTUNDE 11. JUNI 2024 SPRECHSTUNDE 25. JUNI 2024
 
@@ -102,15 +102,13 @@ SPRECHSTUNDE 23. JULI 2024 SPRECHSTUNDE 3. SEPTEMBER 2024 SPRECHSTUNDE 1. OKTOBE
 
 # 1 NÄCHSTER TERMIN
 
-Der nächste Termin findet am 25. März 2025 in der Zeit von 15:00 bis 16:00 Uhr
-
-sind:
+Der nächste Termin findet am 25. März 2025 in der Zeit von 15:00 bis 16:00 Uhr statt. Die ZOOM-Daten  sind:
 
 Meeting-ID: 874 6492 7203
 
 Kenncode: 313381
 
-[https://kbv-de.zoom.us/j/87464927203?pwd=RWt5a2lja1JrMVl1LzFSRjdzVkRsZz09](https://kbv-de.zoom.us/j/87464927203?pwd=RWt5a2lja1JrMVl1LzFSRjdzVkRsZz09)
+[https://kbv-de.zoom.us/j/87464927203?pwd=RWt5a2lja1JrMVl1LzFSRjdzVkRsZz09](https://kbv-de.zoom.us/j/87464927203?pwd=RWt5a2lja1JrMVl1LzFSRjdzVkRsZz09)[](https://kbv-de.zoom.us/j/87464927203?pwd=RWt5a2lja1JrMVl1LzFSRjdzVkRsZz09)
 
 ```
 [](https://kbv-de.zoom.us/j/87464927203?pwd=RWt5a2lja1JrMVl1LzFSRjdzVkRsZz09)
@@ -134,7 +132,7 @@ Telefonische Servicezeiten: 9-11 Uhr (Montag bis Freitag)
 
 ## Frage:
 
-**Wir haben vor 5 Wochen einen Antrag auf Nutzung der DiGA-API im BfArM -Portal gestellt. Wie lange**  **sind da i.d.R. die Reaktionszeiten? Bisher ist nichts passiert**
+**Wir haben vor 5 Wochen einen Antrag auf Nutzung der DiGA-API im BfArM -Portal gestellt. Wie lange**  **sind da i.d.R. die Reaktionszeiten? Bisher ist nichts passiert?**
 
 ### Antwort der KBV:
 
@@ -142,7 +140,7 @@ Wir werden das BfArM bitten, auf die Anträge auf Nutzung des DiGA-API möglichs
 
 ## Frage:
 
-**Wie soll eine Zertifizierung mit einem PVS erfolgen, wenn die Ausstellung einer**  **einer Verordnungssoftware durchgeführt wird und die Dokumentation der Verordnungen in einem PVS**  **erfolgt?**
+**Wie soll eine Zertifizierung mit einem PVS erfolgen, wenn die Ausstellung einer DiGA-Verordnung von**  **einer Verordnungssoftware durchgeführt wird und die Dokumentation der Verordnungen in einem PVS**  **erfolgt?**
 
 ### Antwort der KBV:
 
@@ -150,17 +148,7 @@ Wir empfehlen, dass die PVS-Hersteller jeweils die Zertifizierung für ihre PVS 
 
 ## Frage:
 
-**Wie werden Sie es mit dem Systemdatum für die Zertifizierung handha** **das Datum um Jahre zurückzusetzen.**
-
-statt. Die ZOOM-Daten
-
-```
-[](https://kbv-de.zoom.us/j/87464927203?pwd=RWt5a2lja1JrMVl1LzFSRjdzVkRsZz09)
-```
-
-**DiGA-Verordnung von**
-
-**ben? Es ist immer sehr mühselig**
+**Wie werden Sie es mit dem Systemdatum für die Zertifizierung handhaben? Es ist immer sehr mühselig**  **das Datum um Jahre zurückzusetzen.**
 
 
 ---
@@ -232,7 +220,7 @@ Nein, wir werden die Kürzungsregeln des Namens der DiGA-Verordnungseinheit mit 
 
 **KBV_ITA_VGEX_Anforderungskatalog_VDGA.pdf und**
 
-**KBV_ITA_VGEX_Anforderungskatalog_VDGA_Ãnderungen.pdf**
+**KBV_ITA_VGEX_Anforderungskatalog_VDGA_Ãnderungen.pdf.**
 
 **Beide verfügen über dasselbe Erstelldatum 2023-08-29 16:04. Welches soll verwendet werden?**
 
@@ -281,7 +269,7 @@ Einheitliche zentrale Vorgaben für die Datenhaltung existieren nicht, da es kei
 
 ### Antwort der KBV:
 
-Die Kontraindikationen beinhalten Informationen dazu, wann die Anwendung einer Verordnungseinheit  einer digitalen Gesundheitsanwendung nicht angezeigt, also kontr eine Liste von ICD-Diagnosen repräsentiert, die jeweils aus dem ICD Diagnoseklartext bestehen, als auch durch die Ausschlusskriterien. Diese Information ist der DiGA Verordnungseinheit zugeordnet.
+Die Kontraindikationen beinhalten Informationen dazu, wann die Anwendung einer Verordnungseinheit  einer digitalen Gesundheitsanwendung nicht angezeigt, also kontraindiziert ist. Sie werden sowohl durch  eine Liste von ICD-Diagnosen repräsentiert, die jeweils aus dem ICD-10-GM-Kode und dem dazugehörigen  Diagnoseklartext bestehen, als auch durch die Ausschlusskriterien. Diese Information ist der DiGA-Verordnungseinheit zugeordnet.
 
 ## Frage
 
@@ -289,7 +277,7 @@ Die Kontraindikationen beinhalten Informationen dazu, wann die Anwendung einer V
 
 ### Antwort der KBV:
 
-Der Eintrag ‚orderable‘ ist nicht gemeint. Verordnungsfähige  entweder den Status „Vorläufig aufgenommen“ oder „Dauerhaft aufgenommen“ und sind zum Zeitpunkt  der Verordnung gültig.
+Der Eintrag ‚orderable‘ ist nicht gemeint. Verordnungsfähige DiGA-Verordnungseinheiten besitzen  entweder den Status „Vorläufig aufgenommen“ oder „Dauerhaft aufgenommen“ und sind zum Zeitpunkt  der Verordnung gültig.
 
 ## Frage
 
@@ -297,7 +285,7 @@ Der Eintrag ‚orderable‘ ist nicht gemeint. Verordnungsfähige  entweder den 
 
 ### Antwort der KBV:
 
-Nein, das Exportformat ist nicht von der KBV vorgegeben. Aus Sicht de übliches Format gewählt werden.
+Nein, das Exportformat ist nicht von der KBV vorgegeben. Aus Sicht der KBV sollte ein für Ihre Kunden  übliches Format gewählt werden.
 
 ## Frage
 
@@ -315,12 +303,6 @@ Die Funktion ist für den Anwender gedacht, damit dieser die Statistik in Tabell
 
 Für numerische Informationen ist eine aufsteigende Sortierung anhand des numerischen Wertes gemeint.
 
-aindiziert ist. Sie werden sowohl durch  -10-GM-Kode und dem dazugehörigen
-
-DiGA-Verordnungseinheiten besitzen
-
-r KBV sollte ein für Ihre Kunden
-
 
 ---
 
@@ -328,29 +310,29 @@ r KBV sollte ein für Ihre Kunden
 
 ## Frage:
 
-**Welches Verhalten wird von der Software für die Anforderung P4**
+**Welches Verhalten wird von der Software für die Anforderung P4-130 Akzeptanzkriterium 3 erwartet?**
 
 ### Antwort der KBV:
 
 Die Software muss dem Anwender mindestens die Möglichkeit bieten, dass zu einer Verordnung weitere  Informationen in Form eines Freitextes hinterlegt werden.
 
-Die Software kann für diesen Sachverhalt weitere für die Anwender sinnvolle Mögl Verknüpfungen zu anderen dokumentierten Informationen usw. anbieten.
+Die Software kann für diesen Sachverhalt weitere für die Anwender sinnvolle Möglichkeiten wie bspw.  Verknüpfungen zu anderen dokumentierten Informationen usw. anbieten.
 
 ## Frage:
 
-**Sind als zusätzliche Suchkriterien bei Anforderung P4-230 Akzeptanzkriterien 2a die Kriterien gemäß P4** **210 Akzeptanzkriterium 1 gemeint?**
+**Sind als zusätzliche Suchkriterien bei Anforderung P4-230 Akzeptanzkriterien 2a die Kriterien gemäß P4-** **210 Akzeptanzkriterium 1 gemeint?**
 
 ### Antwort der KBV:
 
-Ja, genau diese Kriterien sollen mindestens von der Software unterstützt werden auch alle Kriterien gemäß P2-020 unterstützen.
+Ja, genau diese Kriterien sollen mindestens von der Software unterstützt werden. Die Software kann aber  auch alle Kriterien gemäß P2-020 unterstützen.
 
 ## Frage:
 
-**Welches Verhalten wird von der Software für die Anforderung P4**
+**Welches Verhalten wird von der Software für die Anforderung P4-210 Akzeptanzkriterium 2 erwartet?**
 
 ### Antwort der KBV:
 
-Es wird erwartet, dass die Software die Möglichkeit bieten soll, mittels Angabe eines einzigen Freitexts  gleichzeitig nach dem ICD-10-GM-Kode sowie dem Diagnoseklartext des ICD
+Es wird erwartet, dass die Software die Möglichkeit bieten soll, mittels Angabe eines einzigen Freitexts  gleichzeitig nach dem ICD-10-GM-Kode sowie dem Diagnoseklartext des ICD-10-GM-Kodes zu suchen.
 
 Die KBV wird eine Anpassung der Formulierung prüfen und die Anforderung ggf. eineindeutig  umformulieren. Eine Klarstellung wurde in das FAQ-Dokument aufgenommen.
 
@@ -358,7 +340,7 @@ Die KBV wird eine Anpassung der Formulierung prüfen und die Anforderung ggf. ei
 
 ## Frage:
 
-**Sind die letzten drei Kriterien (Altersgruppen, Status und Preis) gemäß P4** **Rechercheoptionen“) auch nur als Filterkriterien möglich?**
+**Sind die letzten drei Kriterien (Altersgruppen, Status und Preis) gemäß P4-210 („Such** **Rechercheoptionen“) auch nur als Filterkriterien möglich?**
 
 ### Antwort der KBV:
 
@@ -366,36 +348,22 @@ Ja, die Umsetzung einer Filtersuche bei den oben genannten Akzeptanzkriterien is
 
 ## Frage:
 
-**Ist das Akzeptanzkriterium 5 gemäß P4 220 („Sortierung der Auswahlliste“) optional?**
+**Ist das Akzeptanzkriterium 5 gemäß P4-220 („Sortierung der Auswahlliste“) optional?**
 
 ### Antwort der KBV:
 
-Ja, dieses Akzeptanzkriterium, welches beinhaltet, dass die Sortierung der angezeigten Auswahllisten  anhand der Daten der Merkmale nach P4-310 Akzeptanzkriterium 1 nachträglich anzupassen optional („kann“)
-
-**-130 Akzeptanzkriterium 3 erwartet?**
-
-ichkeiten wie bspw.
-
-. Die Software kann aber
-
-**-210 Akzeptanzkriterium 2 erwartet?**
-
--10-GM-Kodes zu suchen.
-
-**210 („Such**
-
-ist, ist
+Ja, dieses Akzeptanzkriterium, welches beinhaltet, dass die Sortierung der angezeigten Auswahllisten  anhand der Daten der Merkmale nach P4-310 Akzeptanzkriterium 1 nachträglich anzupassen ist, ist  optional („kann“)
 
 
 ---
 
 ## Frage:
 
-**Preis, Mehrkosten oder Höchstbetrag: Welcher Preis soll gemäß P4** **wiederholter Verordnung**
+**Preis, Mehrkosten oder Höchstbetrag: Welcher Preis soll gemäß P4-310 („Angaben bei erster und**  **wiederholter Verordnung  Erste Ebene) angezeigt werden?**
 
 ### Antwort der KBV:
 
-Siehe Glossar des Anforderungskataloges unter  „Höchstbetrag oder Vergütungsbetrag“.
+Siehe Glossar des Anforderungskataloges unter den Begriffen „Preis“, „Zusätzliche Mehrkosten“ und  „Höchstbetrag oder Vergütungsbetrag“.
 
 ## Frage:
 
@@ -415,7 +383,7 @@ Nein, eine Optimierung dieses Prozesses ist nicht vorgesehen.
 
 ## Frage:
 
-**Fehlen im BfArM-ValueSet der Altersgruppen zwei SNOMED**
+**Fehlen im BfArM-ValueSet der Altersgruppen zwei SNOMED-Codes (Neugeborene und Kleinkinder)?**
 
 ### Antwort der KBV:
 
@@ -423,7 +391,7 @@ Diese Festlegung erfolgte durch das BfArM und wird durch den Anforderungskatalog
 
 ## Frage:
 
-**Sollen alle Informationen gemäß P4-**
+**Sollen alle Informationen gemäß P4-130 („Verordnungsdokumentation“) auf einem Blick sichtbar sein?**
 
 ### Antwort der KBV:
 
@@ -431,7 +399,7 @@ Nein, das ist nicht notwendig.
 
 ## Frage:
 
-**Gibt es eine Statistik über die bisherigen**
+**Gibt es eine Statistik über die bisherigen DiGA-Verordnungen?**
 
 ### Antwort der KBV:
 
@@ -442,17 +410,6 @@ Ja, beim GKV-SV unter:
 ```
 [](https://www.gkvspitzenverband.de/media/dokumente/krankenversicherung_1/telematik/digitales/2022_DiGA_Bericht_BMG.pdf)
 ```
-
-**310 („Angaben bei erster und**  **Erste Ebene) angezeigt werden?**
-
-den Begriffen „Preis“, „Zusätzliche Mehrkosten“ und
-
-**-Codes (Neugeborene und Kleinkinder**
-
-**130 („Verordnungsdokumentation“) auf einem Blick sichtbar sein?**
-
-**DiGA-Verordnungen?**
-
 
 ---
 
@@ -472,7 +429,7 @@ Diese werden Anfang des Jahres 2024 veröffentlicht.
 
 ### Antwort der KBV:
 
-Ja, auch dann sind die Ergebnisse der Suche nach dem Preis der DiGA sortiert anzuzeigen.
+Ja, auch dann sind die Ergebnisse der Suche nach dem Preis der DiGA-Verordnungseinheit aufsteigend  sortiert anzuzeigen.
 
 # 8 SPRECHSTUNDE 28. NOVEMBER 2023
 
@@ -507,8 +464,6 @@ Es werden nur die durch den Anwender in der Freitextverordnung eingetragenen Inf
 ### Antwort der KBV:
 
 Dieser Vorschlag wird geprüft.
-
--Verordnungseinheit aufsteigend
 
 
 ---
@@ -566,7 +521,7 @@ Ja, da der Name der DiGA i.d.R. bekannter ist. Auch eine Suche direkt nach dem N
 
 ## Frage:
 
-**Warum wird im Prüffall 1 nur die Darstellung einer Antwort aus dem Fragenkatalog** **einzelnen Antworten in der Anzeige separiert werden?**
+**Warum wird im Prüffall 1 nur die Darstellung einer Antwort aus dem Fragenkatalog gefordert? Sollen die**  **einzelnen Antworten in der Anzeige separiert werden?**
 
 ### Antwort der KBV:
 
@@ -574,11 +529,11 @@ Die Einschränkung auf eine Antwort ist als Stichprobenprüfung zu verstehen, ei
 
 ## Frage:
 
-**Überschneiden sich die Statistiken zur Verordnung von DiGA und Arzneimitteln**
+**Überschneiden sich die Statistiken zur Verordnung von DiGA und Arzneimitteln?**
 
 ### Antwort der KBV:
 
-Die Statistiken zur Verordnung von DiGA und Arzneimitteln Vermischung ist nicht verboten.
+Die Statistiken zur Verordnung von DiGA und Arzneimitteln können getrennt angeboten werden, eine  Vermischung ist nicht verboten.
 
 ## Frage:
 
@@ -586,23 +541,15 @@ Die Statistiken zur Verordnung von DiGA und Arzneimitteln Vermischung ist nicht 
 
 ### Antwort der KBV:
 
-Ob eine bestimmte Referenzdatenbank auch alle aktuellen Zusatzdaten zu DiGA enthält, ist der Entscheidung dessen Herstellers überlassen. Falls dies so sein sollte, k des DiGA-Verzeichnisses Verwendung finden.
+Ob eine bestimmte Referenzdatenbank auch alle aktuellen Zusatzdaten zu DiGA enthält, ist der  Entscheidung dessen Herstellers überlassen. Falls dies so sein sollte, könnte die Referenzdatenbank statt  des DiGA-Verzeichnisses Verwendung finden.
 
 ## Frage:
 
-**Wird die Verordnung von DiGA innerhalb der Zertifizierung Verordnung von Arzneimitteln**
+**Wird die Verordnung von DiGA innerhalb der Zertifizierung Verordnung von Arzneimitteln geprüft?**
 
 ### Antwort der KBV:
 
 Nein. Es handelt sich um zwei verschiedene Zertifizierungsverfahren, die sich auch nicht gegenseitig  bedingen.
-
-**gefordert? Sollen die**
-
-können getrennt angeboten werden, eine
-
-önnte die Referenzdatenbank statt
-
-**geprüft?**
 
 
 ---
@@ -623,9 +570,9 @@ Nein. Es wird eine Ergebnisprüfung durchgeführt.
 
 ### Antwort der KBV:
 
-Ja, mit der Zertifizierung kann begonnen werden. W Anforderungskatalog kommt, ändern diese nichts am Zertifizierungsverfahren. Pflicht zur Umsetzung der Freitextverordnung konditional zu gestalten, wird der dazuge optional werden.
+Ja, mit der Zertifizierung kann begonnen werden. Wenn es demnächst zu Anpassungen im  Anforderungskatalog kommt, ändern diese nichts am Zertifizierungsverfahren. Da es derzeit geplant ist, die  Pflicht zur Umsetzung der Freitextverordnung konditional zu gestalten, wird der dazugehörige Prüfffall  optional werden.
 
-Die geplanten Änderungen im Zusammenhang mit der Bedruckung sind bereits im FAQ veröffentlicht.
+Die geplanten Änderungen im Zusammenhang mit der Bedruckung sind bereits im FAQ-Dokument  veröffentlicht.
 
 Nachtrag vom 22. Januar 2024:
 
@@ -633,7 +580,7 @@ Der neue Anforderungskatalog wurde zur Verfügung gestellt.
 
 ## Frage:
 
-**Kann ein Filter für DiGAs in der Suche eingesetzt werden, damit diese getrennt von Arzneimittel** **angezeigt werden, bspw. über eine Checkbox mit der Bezeichnung DiGA.**
+**Kann ein Filter für DiGAs in der Suche eingesetzt werden, damit diese getrennt von Arzneimitteln**  **angezeigt werden, bspw. über eine Checkbox mit der Bezeichnung DiGA.**
 
 ### Antwort der KBV:
 
@@ -641,11 +588,11 @@ Bei der Verordnung einer DiGA dürfen dem Anwender nur DiGA angezeigt werden und
 
 ## Frage:
 
-**Müssen Geschlechtskennzeichen schon bei der Suche einbezog** **Liste für nicht-indizierte Geschlechtskennzeichen bei den Informationen**
+**Müssen Geschlechtskennzeichen schon bei der Suche einbezogen werden oder reicht die Anzeige der**  **Liste für nicht-indizierte Geschlechtskennzeichen bei den Informationen**
 
 ### Antwort der KBV:
 
-Nein, die Geschlechtskennzeichen müssen nicht bereits bei der Suche mit einbezogen werden der Hersteller dies wünscht, ist es möglich, dieses Suchkriterium optional anzubieten
+Nein, die Geschlechtskennzeichen müssen nicht bereits bei der Suche mit einbezogen werden können. Falls  der Hersteller dies wünscht, ist es möglich, dieses Suchkriterium optional anzubieten.
 
 ## Frage:
 
@@ -653,50 +600,40 @@ Nein, die Geschlechtskennzeichen müssen nicht bereits bei der Suche mit einbezo
 
 ### Antwort der KBV:
 
-Bisher liegt der KBV noch keine Spezifikation der gematik vor.  ID und Access-Code bleibt voraussichtlich gleich, aus Sicht der gematik handelt es sich allerdings um einen  anderen Workflow.
-
-enn es demnächst zu Anpassungen im  Da es derzeit geplant ist, die  hörige Prüfffall -Dokument
-
-**n**
-
-**en werden oder reicht die Anzeige der**
-
-können. Falls
-
-Das grundlegende Prinzip mit Dokumenten-
+Bisher liegt der KBV noch keine Spezifikation der gematik vor. Das grundlegende Prinzip mit Dokumenten-ID und Access-Code bleibt voraussichtlich gleich, aus Sicht der gematik handelt es sich allerdings um einen  anderen Workflow.
 
 
 ---
 
 ## Frage:
 
-**Ist mit "Daten des Personalienfeldes gemäß Technischer Anlage zur Anlage 4a (BMV** **gesamte Inhalt des Personalienfeldes gemeint?**
+**Ist mit "Daten des Personalienfeldes gemäß Technischer Anlage zur Anlage 4a (BMV-Ä) tatsächlich der**  **gesamte Inhalt des Personalienfeldes gemeint?**
 
 ### Antwort der KBV:
 
-Ja, die Daten des Personalienfeldes (P4 130 „Verordnungsdokumentation“ Akzeptanzkriterium 2a) gilt es zu  dokumentieren.
+Ja, die Daten des Personalienfeldes (P4-130 „Verordnungsdokumentation“ Akzeptanzkriterium 2a) gilt es zu  dokumentieren.
 
 ## Frage:
 
-**Sollen bei der Dokumentation der Verordnung nur die Daten zur DiGA und nich** **DiGA selbst wie die Plattformverfügbarkeit zum Verordnungszeitpunkt gespeichert werden?**
+**Sollen bei der Dokumentation der Verordnung nur die Daten zur DiGA und nicht die Informationen der**  **DiGA selbst wie die Plattformverfügbarkeit zum Verordnungszeitpunkt gespeichert werden?**
 
 ### Antwort der KBV:
 
-Die Informationen der DiGA zum Verordnungszeitpunkt sollen wiederauffindbar dokumentiert werden. Ob  dazu alle Daten explizit gespeichert werden oder auch Referenzen auf historische Einträge des DiGA Verzeichnisses benutzt werden, bleibt der konkreten Implement
+Die Informationen der DiGA zum Verordnungszeitpunkt sollen wiederauffindbar dokumentiert werden. Ob  dazu alle Daten explizit gespeichert werden oder auch Referenzen auf historische Einträge des DiGA-Verzeichnisses benutzt werden, bleibt der konkreten Implementierung überlassen.
 
 Die Plattformverfügbarkeit soll ausdrücklich nicht dokumentiert werden.
 
 Nachtrag vom 1. März 2024:
 
-Die historisierten Einträge des DiGA-Verzeichnisses können generell nicht zur  Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich  rückwirkend ändern können.
+Die historisierten Einträge des DiGA-Verzeichnisses können generell nicht zur Dokumentation der  Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich  rückwirkend ändern können.
 
 ## Frage:
 
-**Soll der Medikamentendialog in Zukunft auch online abfragbar sein** **für Arzneimittel und DiGA ist unglücklich.)**
+**Soll der Medikamentendialog in Zukunft auch online abfragbar sein? (Die Separierung der Produktdaten**  **für Arzneimittel und DiGA ist unglücklich.)**
 
 ### Antwort der KBV:
 
-Die Bereitstellung des DiGA-Verzeichnisses erfolgt auf gesetzlicher Grundlage online. Eine gesetzliche  Pflicht zur Online-Bereitstellung für die Hersteller von Arzneimitteldatenbanken ist derzeit nicht absehbar.  Es steht dem bvitg e.V. frei, bei ausreichend vorhandenem Interesse seiner  entsprechende Initiativen zu ergreifen.
+Die Bereitstellung des DiGA-Verzeichnisses erfolgt auf gesetzlicher Grundlage online. Eine gesetzliche  Pflicht zur Online-Bereitstellung für die Hersteller von Arzneimitteldatenbanken ist derzeit nicht absehbar.  Es steht dem bvitg e.V. frei, bei ausreichend vorhandenem Interesse seiner Mitgliedsunternehmen  entsprechende Initiativen zu ergreifen.
 
 ## Frage:
 
@@ -704,23 +641,11 @@ Die Bereitstellung des DiGA-Verzeichnisses erfolgt auf gesetzlicher Grundlage on
 
 ### Antwort der KBV:
 
-Die Online-Bereitstellung von Arzneimitteldatenbanken liegt außerhalb des Verantwortungsbereichs der  KBV. Möglicherweise stellt die Bereitstellung eines viel kleineren Verzeichnisses wie des DiGA Verzeichnisses eine elegante Chance dar, mit dieser Technologie erstmalig Erfahrungen in kleinerem  Maßstab zu sammeln.
+Die Online-Bereitstellung von Arzneimitteldatenbanken liegt außerhalb des Verantwortungsbereichs der  KBV. Möglicherweise stellt die Bereitstellung eines viel kleineren Verzeichnisses wie des DiGA-Verzeichnisses eine elegante Chance dar, mit dieser Technologie erstmalig Erfahrungen in kleinerem  Maßstab zu sammeln.
 
 ## Frage:
 
 **Warum wurden Vorgaben an eine Statistikfunktion gegeben? (Die Spezifikationen sind so detailliert, dass**  **kaum zusätzliche Komfortfunktionen realisiert werden können, damit sich Produkte von denen eines**  **Wettbewerbers unterscheiden lassen.)**
-
-**-Ä) tatsächlich der**
-
-**t die Informationen der**
-
-ierung überlassen.
-
-Dokumentation der
-
-**? (Die Separierung der Produktdaten**
-
-Mitgliedsunternehmen
 
 
 ---
@@ -733,11 +658,11 @@ Allen nutzenden Ärzten und Psychotherapeuten soll die Möglichkeit gegeben werd
 
 ## Frage:
 
-**Was ist in der „Einladung zur Zertifizierung“ unter mit dem Begriff**
+**Was ist in der „Einladung zur Zertifizierung“ unter mit dem Begriff „spätestens“ gemeint?**
 
 ### Antwort der KBV:
 
-Die KBV gibt in Einladungen zu Zertifizierungsthemen immer ein Datum spätestens eingereicht werden sollen.
+Die KBV gibt in Einladungen zu Zertifizierungsthemen immer ein Datum an, zu welchem die Unterlagen  spätestens eingereicht werden sollen.
 
 Hintergrund ist, dass Softwarehersteller die Unterlagen bspw. nicht erst 2 Wochen vor dem Ende der  Umsetzungsfrist einreichen. Die Erfahrungen zeigen, dass durch notwendige Nachbesserung die  Umsetzungsfrist ggf. nicht eingehalten werden kann.
 
@@ -753,11 +678,11 @@ Ja, es sind zwei unterschiedliche und separat zu betrachtende Verfahren. AMV umf
 
 ## Frage:
 
-**Was meint die neueste Änderung im Anforderungskatalog bei der Such** **bezüglich des Akzeptanzkriteriums 1 der und/oder-Filterung?**
+**Was meint die neueste Änderung im Anforderungskatalog bei der Such-/ Rechercheoption (P4-210)**  **bezüglich des Akzeptanzkriteriums 1 der und/oder-Filterung?**
 
 ### Antwort der KBV:
 
-Die Formulierung und/oder meint nicht die Umsetzung von komplexen  Operationen“ zur Filterung der Anzeige
+Die Formulierung und/oder meint nicht die Umsetzung von komplexen mathematischen und/oder-Operationen“ zur Filterung der Anzeige
 
 Gemeint ist, dass der Anwender nach den in dieser Anforderung aufgelisteten Kriterien suchen kann,  sowohl einzeln als auch mit einer kombinierten Suche mit mehreren verschiedenen Kriterien.
 
@@ -767,19 +692,9 @@ Gemeint ist, dass der Anwender nach den in dieser Anforderung aufgelisteten Krit
 
 ### Antwort der KBV:
 
-Welche vertraglichen Regelungen bei Verordnung von digitalen Gesundheitsanwendungen für PKV Versicherten gelten, kann die KBV nicht beantworten, da dieser Bereich nicht der Regelungsbereich ist.
+Welche vertraglichen Regelungen bei Verordnung von digitalen Gesundheitsanwendungen für PKV-Versicherten gelten, kann die KBV nicht beantworten, da dieser Bereich nicht der Regelungsbereich der KBV  ist.
 
-Grundsätzlich ist es vorstellbar, dass für Privatversicherte auch Anwendung außerhalb des DiGA Verzeichnisses des BfArMs Verordnung- bzw. erstattungsfähig sind. Die konkreten Regelungen hierzu  treffen die einzelnen Versicherungen oder der PKV-Verband.
-
-**„spätestens“ gemeint?**
-
-an, zu welchem die Unterlagen
-
-**-/ Rechercheoption (P4-210)**
-
-mathematischen und/oder-
-
-der KBV
+Grundsätzlich ist es vorstellbar, dass für Privatversicherte auch Anwendung außerhalb des DiGA-Verzeichnisses des BfArMs Verordnung- bzw. erstattungsfähig sind. Die konkreten Regelungen hierzu  treffen die einzelnen Versicherungen oder der PKV-Verband.
 
 
 ---
@@ -796,7 +711,7 @@ Die KBV geht davon aus, dass für die Verordnung im Entlassmanagement die gleich
 
 ## Frage:
 
-**Welche Regelungen gelten für die Verordnung von digitalen Gesundheitsanwendungen** **Selbstzahlern?**
+**Welche Regelungen gelten für die Verordnung von digitalen Gesundheitsanwendungen bei**  **Selbstzahlern?**
 
 ### Antwort der KBV:
 
@@ -804,7 +719,7 @@ Die KBV hat bisher keine Vorgaben zu Selbstzahlern definiert.
 
 ## Frage:
 
-**Das DiGA-Verzeichnis enthält eine entsprechende**  **DiGA. Ist es möglich, dass das BfArM in der FHIR** **EBM-Ziffern mit übermittelt?**
+**Das DiGA-Verzeichnis enthält eine entsprechende Übersicht der vertragsärztlichen Leistungen für jede**  **DiGA. Ist es möglich, dass das BfArM in der FHIR-Schnittstelle auch die textliche Beschreibung für die**  **EBM-Ziffern mit übermittelt?**
 
 ### Antwort der KBV:
 
@@ -812,7 +727,7 @@ Die KBV wird den Wunsch an das BfArM übermitteln.
 
 Nachtrag vom 20. Februar 2024:
 
-Die KBV wird den Wunsch an das BfArM nicht übermitteln, da sie bereits zusammen mit dem GKV BfArM aus rechtlichen Gründen aufgefordert hat, die EBM und durch eine nicht an konkrete Ziffern gebundene textliche Beschreibung zu ersetzen.
+Die KBV wird den Wunsch an das BfArM nicht übermitteln, da sie bereits zusammen mit dem GKV-SV das  BfArM aus rechtlichen Gründen aufgefordert hat, die EBM-Ziffern aus dem DiGA-Verzeichnis zu entfernen  und durch eine nicht an konkrete Ziffern gebundene textliche Beschreibung zu ersetzen.
 
 ## Frage:
 
@@ -828,16 +743,7 @@ Ja, alle Fragen, die dort aufgelistet sind, sind dem Anwender anzuzeigen.
 
 ### Antwort der KBV:
 
-Ja, diese sind bereits als verbindlich zu betrachten, da keine  werden.
-
-**bei**
-
-**Übersicht der vertragsärztlichen Leistungen für jede**  **-Schnittstelle auch die textliche Beschreibung für die**
-
--SV das  -Ziffern aus dem DiGA-Verzeichnis zu entfernen
-
-Gegenstimmen von den Vorständen erwartet
-
+Ja, diese sind bereits als verbindlich zu betrachten, da keine Gegenstimmen von den Vorständen erwartet  werden.
 
 ---
 
@@ -845,11 +751,11 @@ Gegenstimmen von den Vorständen erwartet
 
 ## Frage:
 
-**Können pro DiGA mehrere Verordnungseinheiten mit unterschi**
+**Können pro DiGA mehrere Verordnungseinheiten mit unterschiedlicher PZN existieren?**
 
 ### Antwort der KBV:
 
-Ja, dies ist laut Informationsmodell möglich. Primär ist diese  inhaltlich unterschiedliche Module mit unterschiedlichem Anwendungsbereich anzubieten.
+Ja, dies ist laut Informationsmodell möglich. Primär ist diese Möglichkeit vorgesehen, damit für eine DiGA  inhaltlich unterschiedliche Module mit unterschiedlichem Anwendungsbereich anzubieten.
 
 ## Frage:
 
@@ -881,7 +787,7 @@ Nein, diese Möglichkeit ist nicht gefordert.
 
 ### Antwort der KBV:
 
-Nein. Sowohl der Status der App als auch die Gültigkeit der Verordnungsein Verordnungsfähigkeit zu berücksichtigen.
+Nein. Sowohl der Status der App als auch die Gültigkeit der Verordnungseinheit sind für die  Verordnungsfähigkeit zu berücksichtigen.
 
 ## Frage:
 
@@ -889,32 +795,24 @@ Nein. Sowohl der Status der App als auch die Gültigkeit der Verordnungsein Vero
 
 ### Antwort der KBV:
 
-Sowohl der Status der App als auch die Gültigkeit der Verordnungseinheit zu berücksichtigen.
+Sowohl der Status der App als auch die Gültigkeit der Verordnungseinheit sind für die Verordnungsfähigkeit  zu berücksichtigen.
 
 ## Frage:
 
 **Kann diese Runde auch für die elektronische Verordnung von DiGA genutzt werden?**
-
-**edlicher PZN existieren?**
-
-Möglichkeit vorgesehen, damit für eine DiGA
-
-heit sind für die
-
-sind für die Verordnungsfähigkeit
 
 
 ---
 
 ### Antwort der KBV:
 
-Die KBV wird diesen Vorschlag später prüfen und entscheiden, wenn die erwarteten Spezifikationen  gematik vorliegen.
+Die KBV wird diesen Vorschlag später prüfen und entscheiden, wenn die erwarteten Spezifikationen der  gematik vorliegen.
 
 # 13 SPRECHSTUNDE 20. FEBRUAR 2024
 
 ## Frage:
 
-**Welche "ersten Prüfungsunterlagen" sollen bis spätestens**
+**Welche "ersten Prüfungsunterlagen" sollen bis spätestens 01.04.2024 eingereicht werden und wo?**
 
 ### Antwort der KBV:
 
@@ -922,11 +820,11 @@ Mit den Prüfungsunterlagen sind die zur Zertifizierung zu prüfenden Unterlagen
 
 ## Frage:
 
-**Woher kommt das Datum 01.04.2024**
+**Woher kommt das Datum 01.04.2024?**
 
 ### Antwort der KBV:
 
-Alle Hersteller im Besitz einer gültigen Zertifizierung für die ADT Arzneimittelverordnung, welche noch keinen Antrag auf Zertifizierung gestellt hatten, wurden per  individuellem Anschreiben gebeten, erstmalig Prüfungsunterlagen bis spätestens  einzureichen, sofern sie eine Umsetzung der Vorgaben planen.
+Alle Hersteller im Besitz einer gültigen Zertifizierung für die ADT-Abrechnung oder die  Arzneimittelverordnung, welche noch keinen Antrag auf Zertifizierung gestellt hatten, wurden per  individuellem Anschreiben gebeten, erstmalig Prüfungsunterlagen bis spätestens zum 1. April 2024  einzureichen, sofern sie eine Umsetzung der Vorgaben planen.
 
 ## Frage:
 
@@ -938,11 +836,11 @@ Diese Frage wird intern und ggf. mit Unterstützung des BfArM geprüft.
 
 Nachtrag vom 12. März 2024:
 
-In Abstimmung mit dem GKV-SV wurde festgestellt, dass die Anzeige der „ und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt"  KP4-312 auch durch eine Darstellung der entsprechenden BfArM-Webseite erfolgen kann, solange diese  Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden Daten auf der Webseite und des DiGA-Verzeichnisses werden in der Prüfung toleriert, selbst wenn sie die  laut Prüfpaket in der Anzeige nachzuweisenden Informationen betreffen sollten.
+In Abstimmung mit dem GKV-SV wurde festgestellt, dass die Anzeige der „Informationen zu Datenschutz  und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt" gemäß Anforderung  KP4-312 auch durch eine Darstellung der entsprechenden BfArM-Webseite erfolgen kann, solange diese  Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden. Differenzen zwischen den  Daten auf der Webseite und des DiGA-Verzeichnisses werden in der Prüfung toleriert, selbst wenn sie die  laut Prüfpaket in der Anzeige nachzuweisenden Informationen betreffen sollten.
 
 ## Frage:
 
-**Muss ein PVS separat zertifiziert werden, wenn ein externes Verordnungsmodul benutzt wird**
+**Muss ein PVS separat zertifiziert werden, wenn ein externes Verordnungsmodul benutzt wird?**
 
 ### Antwort der KBV:
 
@@ -951,18 +849,6 @@ Falls das eingesetzte Verordnungsmodul alle Anforderungen ohne Mithilfe des PVS 
 ## Frage:
 
 **Muss ein System mit AVM-Zertifizierug die VDGA umsetzen?**
-
-der
-
-**01.04.2024 eingereicht werden und wo**
-
--Abrechnung oder die
-
-zum 1. April 2024
-
-Informationen zu Datenschutz  gemäß Anforderung
-
-. Differenzen zwischen den
 
 
 ---
@@ -981,7 +867,7 @@ Im FAQ-Dokument wird die Frage beantwortet, ob für die Umsetzung der Anforderun
 
 ## Frage:
 
-**Ist auch ein ausschließliches DiGA-Verordnungsmodul zertifizierbar**
+**Ist auch ein ausschließliches DiGA-Verordnungsmodul zertifizierbar?**
 
 ### Antwort der KBV:
 
@@ -991,7 +877,7 @@ Ja, falls es alle Anforderung ohne Mithilfe eines PVS erfüllt.
 
 ## Frage:
 
-**Müssen zur Dokumentation die Daten zum Zeitpunkt der Verordnung festgehalten werden**
+**Müssen zur Dokumentation die Daten zum Zeitpunkt der Verordnung festgehalten werden?**
 
 ### Antwort der KBV:
 
@@ -1161,7 +1047,7 @@ Die Daten der ersten Ebene sind zwingend anzuzeigen, sofern es sich nicht um ein
 
 ### Antwort der KBV:
 
-Eine gemeinsamen Verordnungshistorie für DiGA und Medikamente ist nicht verboten. Es wird jedoch nicht  empfohlen, da DiGA und Medikamente i.d.R. keine allerdings sichergestellt sein, dass der Anwender Zugriff auf die Funktionen gemäß
+Eine gemeinsamen Verordnungshistorie für DiGA und Medikamente ist nicht verboten. Es wird jedoch nicht  empfohlen, da DiGA und Medikamente i.d.R. keinen Bezug zueinander haben. Es muss an dieser Stelle  allerdings sichergestellt sein, dass der Anwender Zugriff auf die Funktionen gemäß P5-010 und P4-130 hat.
 
 ## Frage:
 
@@ -1169,7 +1055,7 @@ Eine gemeinsamen Verordnungshistorie für DiGA und Medikamente ist nicht verbote
 
 ### Antwort der KBV:
 
-Ob die Möglichkeit zur Abschaltung der anzuzeigenden Hinweise gemäß P4 zukünftig eingeräumt werden kann, wird bei der nächsten Anpassung des Anforderungskatalogs  entschieden werden.
+Ob die Möglichkeit zur Abschaltung der anzuzeigenden Hinweise gemäß P4-320 Akzeptanzkriterium 3  zukünftig eingeräumt werden kann, wird bei der nächsten Anpassung des Anforderungskatalogs  entschieden werden.
 
 ## Frage:
 
@@ -1191,19 +1077,11 @@ Es müssen alle Daten gemäß P4-310 und P4-311 angezeigt werden. Da die Hausapo
 
 ## Frage:
 
-**Wie sollen Softwarehersteller damit umgehen, wenn**  **Möglichkeit der** **DiGA-API antwortet?**
+**Wie sollen Softwarehersteller damit umgehen, wenn das BfArM nicht zeitnah auf Anfragen bzgl. der**  **Möglichkeit der** **DiGA-API antwortet?**
 
 ### Antwort der KBV:
 
-Falls die angefragte Möglichkeit momentan nicht angeboten wird oder keine Information darüber erhalten  werden kann, sollte für die Umsetzung des Anforderungskatalogs nicht  gewartet werden.
-
-n Bezug zueinander haben. Es muss an dieser Stelle  P5-010 und P4-130 hat.
-
--320 Akzeptanzkriterium 3
-
-**das BfArM nicht zeitnah auf Anfragen bzgl. der**
-
-auf eine Antwort des BfArM
+Falls die angefragte Möglichkeit momentan nicht angeboten wird oder keine Information darüber erhalten  werden kann, sollte für die Umsetzung des Anforderungskatalogs nicht auf eine Antwort des BfArM  gewartet werden.
 
 ## Frage:
 
@@ -1218,7 +1096,7 @@ Da aktuell eine Anpassung der betroffenen Anforderungen, um eine einfache/einhei
 
 ## Frage:
 
-**Im Fragebogen sind von den DiGA-Herstellern etliche Fragen auch im Zusammenhang mit der**  **Platformverfügbarkeit und Versionen und weitere beantwortet worden. Welche Informationen davon**  **müssen gemäß Anforderungskatalog für die Anwender angezeigt werden**
+**Im Fragebogen sind von den DiGA-Herstellern etliche Fragen auch im Zusammenhang mit der**  **Platformverfügbarkeit und Versionen und weitere beantwortet worden. Welche Informationen davon**  **müssen gemäß Anforderungskatalog für die Anwender angezeigt werden?**
 
 ### Antwort der KBV:
 
@@ -1228,7 +1106,7 @@ Laut dem FAQ-Dokument müssen die Daten zu Plattformverfügbarkeit und Versionen
 
 ## Frage
 
-**Zu wann gelten die im FAQ-Dokument ersichtlichen Änderu**
+**Zu wann gelten die im FAQ-Dokument ersichtlichen Änderungen der FHIR-Schnittstelle des BfArMs ?**
 
 ### Antwort der KBV:
 
@@ -1252,11 +1130,7 @@ Im Rahmen der Zertifizierung sind die Prüfstammdateien gemäß Kapitel 1.6.1 zu
 
 ## Frage
 
-**Werden zertifizierte Hersteller über Anpassungen der Anforderungen oder des FAQ** **per Mail informiert? Oder ist ein aktives Verfolgen des Newsletters oder FAQ** **Dokuments notwendig?**
-
-**ngen der FHIR-Schnittstelle des BfArMs ?**
-
-**-Dokumentes direkt**  **- und Sprechstunden-**
+**Werden zertifizierte Hersteller über Anpassungen der Anforderungen oder des FAQ-Dokumentes direkt**  **per Mail informiert? Oder ist ein aktives Verfolgen des Newsletters oder FAQ- und Sprechstunden-** **Dokuments notwendig?**
 
 
 ---
@@ -1285,7 +1159,7 @@ Auf der Freitextverordnung muss der Name der Verordnungseinheit neben der PZN an
 
 Sofern die angegebenen Verordnungsdaten korrekt sind, hat dies keine Konsequenzen.
 
-Durch falsche Verordnungsdaten kann generell die Verordnung der DiGA be
+Durch falsche Verordnungsdaten kann generell die Verordnung der DiGA be- bzw. verhindert werden.
 
 ## Frage
 
@@ -1293,7 +1167,7 @@ Durch falsche Verordnungsdaten kann generell die Verordnung der DiGA be
 
 ### Antwort der KBV:
 
-Dazu kann die KBV keine Aussagen machen. Wir bitten, diese Information direkt vom PKV einzuholen.
+Dazu kann die KBV keine Aussagen machen. Wir bitten, diese Information direkt vom PKV-Verband  einzuholen.
 
 ## Frage
 
@@ -1313,10 +1187,6 @@ Laut dem momentanen Stand ist der 01.07.2024 der Stichtag.
 
 Falls keine Verschiebung bis zum 01.07.2024 erfolgt, dürfen DiGA von Praxen ab diesem Datum mit nicht  zertifizierter Software nicht verordnet werden.
 
-- bzw. verhindert werden.
-
--Verband
-
 
 ---
 
@@ -1324,11 +1194,11 @@ Falls keine Verschiebung bis zum 01.07.2024 erfolgt, dürfen DiGA von Praxen ab 
 
 ## Frage
 
-**Es gibt drei Ebenen für die Darstellung der Produktdaten im Verordnung** **dritten Ebene auch in der zweiten Ebene dargestellt werden?**
+**Es gibt drei Ebenen für die Darstellung der Produktdaten im Verordnungsvorgang. Dürfen die Daten der**  **dritten Ebene auch in der zweiten Ebene dargestellt werden?**
 
 ### Antwort der KBV:
 
-Ja, die Daten der dritten Ebene dürfen auch bereits auf der zweiten Ebene dargestellt werden. sich aus der Bedingung der Anforderung KP4-312.
+Ja, die Daten der dritten Ebene dürfen auch bereits auf der zweiten Ebene dargestellt werden. Dies ergibt  sich aus der Bedingung der Anforderung KP4-312.
 
 ## Frage
 
@@ -1336,7 +1206,7 @@ Ja, die Daten der dritten Ebene dürfen auch bereits auf der zweiten Ebene darge
 
 ### Antwort der KBV:
 
-Nein, diese Informationen werden im Rahmen der Zertifizierung nicht  Anforderung ist.
+Nein, diese Informationen werden im Rahmen der Zertifizierung nicht erfasst, da dies nicht Bestandteil der  Anforderung ist.
 
 ## Frage
 
@@ -1344,44 +1214,30 @@ Nein, diese Informationen werden im Rahmen der Zertifizierung nicht  Anforderung
 
 ### Antwort der KBV:
 
-Dies ist noch nicht entschieden, aber wahrscheinlich ja, da ein anderer Fokus vorliegt und eine gemein Zertifizierung von konventioneller und elektronischer Verordnung zeitlich leider nicht möglich Hintergrund ist, dass die Voraussetzungen für die elektronische Verordnungen in der TI noch nicht  geschaffen worden sind.
+Dies ist noch nicht entschieden, aber wahrscheinlich ja, da ein anderer Fokus vorliegt und eine gemeinsame  Zertifizierung von konventioneller und elektronischer Verordnung zeitlich leider nicht möglich war.  Hintergrund ist, dass die Voraussetzungen für die elektronische Verordnungen in der TI noch nicht  geschaffen worden sind.
 
 ## Frage
 
-**Im Anforderungskatalog steht immer mal wieder etwas von einer Live** **Datenbank.**
+**Im Anforderungskatalog steht immer mal wieder etwas von einer Live-Anbindung an die BfARM-** **Datenbank.**
 
 **Ist eine solche Anbindung sinnvoll oder ist absehbar, dass das im Produktiv-Betrieb nicht funktionieren**  **wird (Auslastung)?**
 
 ### Antwort der KBV:
 
-Es ist vorgesehen, dass auf das DiGA-Verzeichnis bei Bedarf jederzeit online zugegriffen werden kann. Das  BfArM hat bisher noch keine Informationen über mögliche Lastgrenzen des DiGA herausgegeben.
+Es ist vorgesehen, dass auf das DiGA-Verzeichnis bei Bedarf jederzeit online zugegriffen werden kann. Das  BfArM hat bisher noch keine Informationen über mögliche Lastgrenzen des DiGA-Verzeichnisses  herausgegeben.
 
 Aus diesem Grund können Softwarehersteller entscheiden, ob Sie aus den Praxen heraus direkt auf die  BfArM Schnittstelle zugreifen oder die Daten anderweitig bereitstellen.
 
 ## Frage
 
-**Werden Verordnungszahlen von DiGA irgendwo zentral gespeichert** **Auswertung?**
-
-**svorgang. Dürfen die Daten der**
-
-Dies ergibt
-
-erfasst, da dies nicht Bestandteil der
-
-same  war.
-
-**-Anbindung an die BfARM-**
-
--Verzeichnisses
-
-**bzw. gibt es eine zentrale statische**
+**Werden Verordnungszahlen von DiGA irgendwo zentral gespeichert bzw. gibt es eine zentrale statische**  **Auswertung?**
 
 
 ---
 
 ### Antwort der KBV:
 
-Die KBV erhebt keine zentralen Daten, allerdings veröffentlichen einzelne Krankenkassen, der GKV-SV und  die Bundesregierung statistische Daten. Anbei eine beispielhafte Veröffentlichung [https://dserver.bundestag.de/btd/20/105/2010549.pdf](https://dserver.bundestag.de/btd/20/105/2010549.pdf)[](https://dserver.bundestag.de/btd/20/105/2010549.pdf)
+Die KBV erhebt keine zentralen Daten, allerdings veröffentlichen einzelne Krankenkassen, der GKV-SV und  die Bundesregierung statistische Daten. Anbei eine beispielhafte Veröffentlichung:  [https://dserver.bundestag.de/btd/20/105/2010549.pdf](https://dserver.bundestag.de/btd/20/105/2010549.pdf)[](https://dserver.bundestag.de/btd/20/105/2010549.pdf)
 
 # 20 SPRECHSTUNDE 11. JUNI 2024
 
@@ -1436,11 +1292,11 @@ Nein, es handelt sich um zwei voneinander unabhängige Zertifizierungsverfahren.
 
 ## Frage:
 
-**Existiert bereits ein verbindlicher Termin für die verpflichtende Nutzung der e**
+**Existiert bereits ein verbindlicher Termin für die verpflichtende Nutzung der elektronischen Verordnung?**
 
 ### Antwort der KBV:
 
-Es existiert noch kein verbindlicher Termin für die verpflichtende Nutzung der e von DiGA. Dieser wird in den anstehenden Verhandlungen zwischen der KBV und dem GKV der Anpassung des Bundesmantelvertrags (Ärzte) festgelegt werden. Basis dafür sind die festzulegenden Termine „RU Dev Ready“ und „PU GoLive“, welche nach aktueller Planung am 1. Februar  2025 bzw. 15. Juli 2025 erreicht werden sollen.
+Es existiert noch kein verbindlicher Termin für die verpflichtende Nutzung der elektronischen Verordnung  von DiGA. Dieser wird in den anstehenden Verhandlungen zwischen der KBV und dem GKV-SV im Rahmen  der Anpassung des Bundesmantelvertrags (Ärzte) festgelegt werden. Basis dafür sind die durch die gematik  festzulegenden Termine „RU Dev Ready“ und „PU GoLive“, welche nach aktueller Planung am 1. Februar  2025 bzw. 15. Juli 2025 erreicht werden sollen.
 
 ## Frage:
 
@@ -1448,43 +1304,29 @@ Es existiert noch kein verbindlicher Termin für die verpflichtende Nutzung der 
 
 ### Antwort der KBV:
 
-Wir planen, unsererseits die Zertifizierung schon dieses Jahr bereitzustellen,  gematik kann deren Bestätigungsverfahren ab dem 1. März 2025 durchlaufen werden
+Wir planen, unsererseits die Zertifizierung schon dieses Jahr bereitzustellen, laut aktueller Planung der  gematik kann deren Bestätigungsverfahren ab dem 1. März 2025 durchlaufen werden.
 
 ## Frage:
 
-**Wie ist die Differenz in der Spezifikation bei der Angabe des Unfallkennzeichen für Arbeitsunfall**  **der Technischen Anlage und den FHIR-Profilen zu verstehen?**
+**Wie ist die Differenz in der Spezifikation bei der Angabe des Unfallkennzeichen für Arbeitsunfall zwischen**  **der Technischen Anlage und den FHIR-Profilen zu verstehen?**
 
 ### Antwort der KBV:
 
-Diese Differenz ist absichtlich so gestaltet, dass zum Zeitpunkt, ab dem die Unfallkassen auch  teilnehmen können, die FHIR-Spezifikation nicht angepasst werden muss.
+Diese Differenz ist absichtlich so gestaltet, dass zum Zeitpunkt, ab dem die Unfallkassen auch am Verfahren  teilnehmen können, die FHIR-Spezifikation nicht angepasst werden muss.
 
 # 24 SPRECHSTUNDE 1. OKTOBER 2024
 
 ## Frage:
 
-**Dürfen die Kunden der Verordnungssoftware ab dem 1. Oktober 2024**  **Verordnungssoftware nutzen?**
+**Dürfen die Kunden der Verordnungssoftware ab dem 1. Oktober 2024 noch unzertifizierte**  **Verordnungssoftware nutzen?**
 
 ### Antwort der KBV:
 
-Nein, laut den Bestimmungen des Bundesmantelvertrags (Ärzte) darf ab dem 1. Oktober 2024  Verordnung von DiGA nur noch Software eingesetzt werden, welche von der KBV zertifiziert worden ist.
+Nein, laut den Bestimmungen des Bundesmantelvertrags (Ärzte) darf ab dem 1. Oktober 2024 für die  Verordnung von DiGA nur noch Software eingesetzt werden, welche von der KBV zertifiziert worden ist.
 
 ## Frage:
 
 **Ab welchem Zeitpunkt müssen DiGA elektronisch verordnet werden?**
-
-**lektronischen Verordnung?**
-
-lektronischen Verordnung  -SV im Rahmen  durch die gematik
-
-laut aktueller Planung der
-
-**zwischen**
-
-am Verfahren
-
-**noch unzertifizierte**
-
-für die
 
 
 ---
@@ -1501,7 +1343,7 @@ Es existiert noch kein verbindlicher Termin für die verpflichtende Nutzung der 
 
 ### Antwort der KBV:
 
-Derzeit existiert noch kein verbindlicher Termin für die verpflichtende Umsetzung der elektronischen  Verordnung von DiGA. Die aktuelle Planung der gematik für die Bereitstellung der Funktion durch den  [eRezept-Fachdienst ist bisher nicht bestätigt worden. (](https://wiki.gematik.de/display/RUAAS/E-Rezept@RU)[https://wiki.gematik.de/display/RUAAS/E](https://wiki.gematik.de/display/RUAAS/E-Rezept@RU) [Rezept@RU](https://wiki.gematik.de/display/RUAAS/E-Rezept@RU)
+Derzeit existiert noch kein verbindlicher Termin für die verpflichtende Umsetzung der elektronischen  Verordnung von DiGA. Die aktuelle Planung der gematik für die Bereitstellung der Funktion durch den  [eRezept-Fachdienst ist bisher nicht bestätigt worden. (](https://wiki.gematik.de/display/RUAAS/E-Rezept@RU)[https://wiki.gematik.de/display/RUAAS/E-](https://wiki.gematik.de/display/RUAAS/E-Rezept@RU) [Rezept@RU](https://wiki.gematik.de/display/RUAAS/E-Rezept@RU)
 
 ## Frage:
 
@@ -1521,7 +1363,7 @@ Ja, für Psychotherapeuten wurde kein separates Kennzeichen eingeführt, da die 
 
 ## Frage:
 
-**Handelt es sich beim angeforderten Bestätigungsschreiben der gematik um ein spezielles Dokument oder**  **ist das für die Arzneimittelverordnung ausgestellte Dokument gemeint**
+**Handelt es sich beim angeforderten Bestätigungsschreiben der gematik um ein spezielles Dokument oder**  **ist das für die Arzneimittelverordnung ausgestellte Dokument gemeint?**
 
 ### Antwort der KBV:
 
@@ -1529,7 +1371,7 @@ Die gematik wird speziell für die Verordnung von DiGA ein Bestätigungsverfahre
 
 ## Frage:
 
-**Wie erfolgt in Zukunft die Identifikation eines Versicherten eines Sonstigen Kostenträgers, für den eine**  **elektronische Verordnung ausgestellt werden kann**
+**Wie erfolgt in Zukunft die Identifikation eines Versicherten eines Sonstigen Kostenträgers, für den eine**  **elektronische Verordnung ausgestellt werden kann?**
 
 
 ---

@@ -1,13 +1,13 @@
 |  | *IT in der Arztpraxis  Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_eHKS]* |
 |---|---|
-|  | Dezernat Digitalisierung |
+|  | Dezernat Digitalisierung und IT |
 |  | ** |
 |  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  | ** |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Hautkrebs-Screening (eHKS) und IT 2.33 Datum: 12.08.2019 Kennzeichnung: Öffentlich Status: In Kraft 
+Hautkrebs-Screening (eHKS) 2.33 Datum: 12.08.2019 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
@@ -97,13 +97,13 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 *6.1.4.5* *anderer Hautkrebs ................................................................................................ 24*
 
-*6.1.4.6* *sonstiger dermatologisch abklärungsbedürftiger Befund* *..................................... 24*
+*6.1.4.6* *sonstiger dermatologisch abklärungsbedürftiger Befund ..................................... 24*
 
 *6.1.4.7* *Screening-Teilnehmer wird an einen Dermatologen überwiesen ........................ 24*
 
 6.1.5 Abschnitt „Gesundheitsuntersuchung“ ................................................................................ 26
 
-*6.1.5.1* *Gleichzeitig Gesundheitsuntersuchung durchgeführt* *........................................... 26*
+*6.1.5.1* *Gleichzeitig Gesundheitsuntersuchung durchgeführt ........................................... 26*
 
 
 ---
@@ -122,11 +122,11 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 *7.1.4.1* *Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings ........... 29*
 
-*7.1.4.2* *Überweisender Arzt hat HKS durchgeführt* *.......................................................... 30*
+*7.1.4.2* *Überweisender Arzt hat HKS durchgeführt .......................................................... 30*
 
 7.1.5 Abschnitt „Angabe der Verdachtsdiagnose des überweisenden Arztes“ ............................ 30
 
-*7.1.5.1* *Angabe über die Verdachtsdiagnose liegt vor* *...................................................... 31*
+*7.1.5.1* *Angabe über die Verdachtsdiagnose liegt vor ...................................................... 31*
 
 *7.1.5.2* *Malignes Melanom ................................................................................................ 31*
 
@@ -146,17 +146,17 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 *7.1.6.4* *anderer Hautkrebs ................................................................................................ 34*
 
-*7.1.6.5* *sonstiger mit Biopsie abklärungsbedürftiger Befund* *............................................ 34*
+*7.1.6.5* *sonstiger mit Biopsie abklärungsbedürftiger Befund ............................................ 34*
 
 7.1.7 Abschnitt „Biopsie/Exzision“ ................................................................................................ 34
 
-*7.1.7.1* *Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt* *............. 35*
+*7.1.7.1* *Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt ............. 35*
 
-*7.1.7.2* *Anzahl der entnommenen Biopsien/Exzisionen* *................................................... 35*
+*7.1.7.2* *Anzahl der entnommenen Biopsien/Exzisionen ................................................... 35*
 
 *7.1.7.3* *Anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet ............. 35*
 
-*7.1.7.4* *Derzeit keine weitere Therapie/Diagnostik* *........................................................... 35*
+*7.1.7.4* *Derzeit keine weitere Therapie/Diagnostik ........................................................... 35*
 
 7.1.8 Abschnitt „Histopathologie“ .................................................................................................. 36
 
@@ -182,11 +182,11 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 *7.1.8.5* *Atypischer Nävuszellnävus ................................................................................... 41*
 
-*7.1.8.6* *junktionaler, compound, dermaler atypischer Nävuszellnävus* *............................ 42*
+*7.1.8.6* *junktionaler, compound, dermaler atypischer Nävuszellnävus ............................ 42*
 
 *7.1.8.7* *Aktinische Keratose .............................................................................................. 42*
 
-*7.1.8.8* *Andere hier nicht relevante Hautveränderung* *...................................................... 42*
+*7.1.8.8* *Andere hier nicht relevante Hautveränderung ...................................................... 42*
 
 **8** **GLOSSAR**
 
@@ -290,26 +290,33 @@ XML-Code 34 – derzeit keine weitere Therapie/Diagnositk ......................
 
 ---
 
-| XML-Code | 35 – | Histopathologie ............................................................................................37 |
-|---|---|---|
-| XML-Code | 36 – Malignes | Melanom.......................................................................................37 |
-| XML-Code | 37 – | Klassifikation ................................................................................................38 |
-| XML-Code | 38 – | Tumordicke (Breslow) ..................................................................................38 |
-| XML-Code | 39 – | Basalzellkarzinom ........................................................................................39 |
-| XML-Code | 40 – | horizontaler Tumordurchmesser (klinisch)...................................................39 |
-| XML-Code | 41 – vertikaler | Tumordurchmesser (histologisch) ................................................40 |
-| XML-Code | 42 – | Spinozellulä re s K arz in om .............................................................................40 |
-| XML-Code | 43 – | Klassifikation ................................................................................................41 |
-| XML- | 4Code4 – Grading | ........................................................................................................41 |
-| XML-Code | 45 – atypischer | Nä v uszelln äv u s...........................................................................41 |
-| XML-Code | 46 – | junktionaler, compound, dermaler atypischer Nä v uszelln äv u s |
-| XML-Code | 47 – Aktinische | Keratose .....................................................................................42 |
-| XML-Code | 48 – Andere | hier nicht relevante Hautverä n deru ng .............................................42 |
+XML-Code 35 – Histopathologie ............................................................................................ 37
 
-.................... 42
+XML-Code 36 – Malignes Melanom ....................................................................................... 37
 
-XML-Code 35 – Histopathologie XML-Code 36 – Malignes Melanom XML-Code 37 – Klassifikation XML-Code 38 – Tumordicke (Breslow) XML-Code 39 – Basalzellkarzinom XML-Code 40 – horizontaler Tumordurchmesser (klinisch) XML-Code 41 – vertikaler Tumordurchmesser (histologisch) XML-Code 42 – Spinozelluläres Karzinom XML-Code 43 – Klassifikation XML-4 Code 4 XML-Code 45 – atypischer Nävuszellnävus XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus XML-Code 47 – Aktinische Keratose XML-Code 48 – Andere hier nicht relevante Hautveränderung 
+XML-Code 37 – Klassifikation ................................................................................................ 38
 
+XML-Code 38 – Tumordicke (Breslow) .................................................................................. 38
+
+XML-Code 39 – Basalzellkarzinom ........................................................................................ 39
+
+XML-Code 40 – horizontaler Tumordurchmesser (klinisch) ................................................... 39
+
+XML-Code 41 – vertikaler Tumordurchmesser (histologisch) ................................................ 40
+
+XML-Code 42 – Spinozelluläres Karzinom ............................................................................. 40
+
+XML-Code 43 – Klassifikation ................................................................................................ 41
+
+XML-4 Code 4 – Grading ........................................................................................................ 41
+
+XML-Code 45 – atypischer Nävuszellnävus ........................................................................... 41
+
+XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus .................... 42
+
+XML-Code 47 – Aktinische Keratose ..................................................................................... 42
+
+XML-Code 48 – Andere hier nicht relevante Hautveränderung ............................................. 42
 
 ---
 
@@ -879,7 +886,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element  oder „Nein“.
 
-Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der g samte sciphox:Beobachtung-Block.
+Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der ge-samte sciphox:Beobachtung-Block.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -910,8 +917,6 @@ Als Beispiel sei hier folgender Code angegeben:
 *V*-Attribut entweder „Ja“
 
 *V*-Attribut entweder „Ja“
-
-e-
 
 <sciphox:Parameter DN ="VerdachtsdiagnoseND"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Malignes Melanom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Basalzellkarzinom"/> <sciphox:Ergebnistext V="Nein"/> *V*-Attribut entweder „Ja“
 
@@ -954,7 +959,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element  oder „Nein“.
 
-Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der g samte sciphox:Beobachtung-Block.
+Ist die Angabe laut Plausibilitätsrichtlinien optional und nicht getätigt worden, entfällt der ge-samte sciphox:Beobachtung-Block.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -981,8 +986,6 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut entweder „Ja“
 
-e-
-
 <sciphox:Parameter DN ="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="anderer Hautkrebs"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="sonstiger dermatologisch abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/> *V*-Attribut entweder „Ja“
 
 
@@ -1002,7 +1005,7 @@ e-
 
 In diesem Kapitel wird der Abschnitt „Gesundheitsuntersuchung“ beschrieben. Im Element  *content* wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-6.1.2.1 dargestellt. Diese SSU enthält genau ein Element  ment *sciphox:Beobachtungen* enthält genau ein Kindelement  ment *sciphox:Beobachtung* enthält genau ein Kindelement  delement *sciphox:Ergebnistext.* Für das Kindelement *sciphox:Parameter* zeitig Gesundheitsuntersuchung durchgeführt“ fest vorgegeben.
+6.1.2.1 dargestellt. Diese SSU enthält genau ein Element *sciphox:Beobachtungen*. Das Ele-ment *sciphox:Beobachtungen* enthält genau ein Kindelement *sciphox:Beobachtung*. Das Ele-ment *sciphox:Beobachtung* enthält genau ein Kindelement *sciphox:Parameter* und ein Kin-delement *sciphox:Ergebnistext.* Für das Kindelement *sciphox:Parameter* ist der Wert: „Gleich-zeitig Gesundheitsuntersuchung durchgeführt“ fest vorgegeben.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -1044,7 +1047,7 @@ sciphox:Beobachtung
 
 #### 6.1.5.1 Gleichzeitig Gesundheitsuntersuchung durchgeführt
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* oder „Nein“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1053,11 +1056,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 20 – Gleichzeitig Gesundheitsuntersuchung durchgeführt**
 
-*sciphox:Beobachtungen*. Das Ele-*sciphox:Beobachtung*. Das Ele-*sciphox:Parameter* und ein Kin-ist der Wert: „Gleich-
-
-im *V*-Attribut entweder „Ja“
-
 sciphox:Beobachtung <sciphox:Parameter DN ="Gleichzeitig Gesundheitsuntersuchung durchgeführt“/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>
+
 
 ---
 
@@ -1594,7 +1594,7 @@ sciphox:Beobachtung
 
 #### 7.1.7.1 Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im  oder „Nein“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1605,7 +1605,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### 7.1.7.2 Anzahl der entnommenen Biopsien/Exzisionen
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebniswert* im  entnommenen Biopsien oder Exzisionen. Im U-Attribut ist die Einheit „Anzahl“ fest vorgege-ben. Wird keine Angabe getätigt, entfällt der gesamte „Beobachtung“-Block.
+Bei diesem Parameter enthält das Element *sciphox:Ergebniswert* im *V*-Attribut die Anzahl der  entnommenen Biopsien oder Exzisionen. Im U-Attribut ist die Einheit „Anzahl“ fest vorgege-ben. Wird keine Angabe getätigt, entfällt der gesamte „Beobachtung“-Block.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1616,7 +1616,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### 7.1.7.3 Anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im  oder „Nein“. Wird keine Angabe getätigt, entfällt der gesamte „Beobachtung“-Block.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“. Wird keine Angabe getätigt, entfällt der gesamte „Beobachtung“-Block.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1627,17 +1627,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### 7.1.7.4 Derzeit keine weitere Therapie/Diagnostik
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im  oder „Nein“. Wird keine Angabe getätigt, entfällt der gesamte „Beobachtung“-Block.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“. Wird keine Angabe getätigt, entfällt der gesamte „Beobachtung“-Block.
 
-Als Beispiel sei hier folgender Code angegeben:
-
-*V*-Attribut entweder „Ja“
-
-*V*-Attribut die Anzahl der
-
-*V*-Attribut entweder „Ja“
-
-<sciphox:Parameter DN="Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Anzahl der entnommenen Biopsien"/> <sciphox:Ergebniswert V="10" U=“Anzahl“/> <sciphox:Parameter DN="anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet <sciphox:Ergebnistext V="Nein"/> "/> *V*-Attribut entweder „Ja“
+<sciphox:Parameter DN="Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Anzahl der entnommenen Biopsien"/> <sciphox:Ergebniswert V="10" U=“Anzahl“/> <sciphox:Parameter DN="anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet"/> <sciphox:Ergebnistext V="Nein"/> Als Beispiel sei hier folgender Code angegeben:
 
 
 ---
@@ -1911,7 +1903,7 @@ angegeben
 
 ##### 7.1.8.3.2 Grading
 
-Bei diesem Parameter enthält das Element  mäß Tabelle 5
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-e-Attribut einen Wert g mäß Tabelle 5
 
 Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom-plett.
 
@@ -1921,8 +1913,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 
 **XML-Code 44 – Grading**
-
-*sciphox:Ergebnistext* im *V*
 
 \| Wert bei Ergebnistext |
 \|---|
@@ -1940,18 +1930,14 @@ Struktur siehe Abschnitt 6.1.4.5
 
 #### 7.1.8.5 Atypischer Nävuszellnävus
 
-Bei diesem Parameter enthält das Element  oder „Nein“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 45 – atypischer Nävuszellnävus**
-
-*sciphox:Ergebnistext* im -e-Attribut einen Wert g
-
-<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Karzinoma in situ"/> <sciphox:Parameter DN="Grading"/> <sciphox:Ergebnistext V="Gx"/> <sciphox:Parameter DN="atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> *V*-Attribut entweder „Ja“
+<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Karzinoma in situ"/> <sciphox:Parameter DN="Grading"/> <sciphox:Ergebnistext V="Gx"/> <sciphox:Parameter DN="atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> **XML-Code 45 – atypischer Nävuszellnävus**
 
 
 ---
@@ -2013,11 +1999,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 | Referenz | Dokument |
 |---|---|
-| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der Vertragsärztl |
+| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der Vertragsärztli- |
 | [KBV_ITA_VGEX_Schnittstelle_eHKS] | Krebsfrüherkennungsrichtlinie |
-| [KBV_ITA_VGEX_Plausi_eHKS] | Plausibilitätenkatalog der elektronischen Dok |
+| [KBV_ITA_VGEX_Plausi_eHKS] | Plausibilitätenkatalog der elektronischen Doku- |
 | [KBV_ITA_VGEX_Plausi_Praevention_eHKS] | Allgemeiner Datensatz Prävention |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader | Header für elektronische Dokumentation Vollda- |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Header für elektronische Dokumentation Vollda- |
 | [KBV_ITA_VGEX_Anforderungskatalog_eHKS] | Anforderungskatalog eHKS |
 
-chen Versorgung Screening (eHKS) Schnittstellenbeschreibung mentation HautkrebsScreening tensatz / a-Datensatz Schnittstellenbeschreibung i- Hautkrebs- u-
+chen Versorgung Hautkrebs- Screening (eHKS) Schnittstellenbeschreibung mentation HautkrebsScreening tensatz / a-Datensatz Schnittstellenbeschreibung

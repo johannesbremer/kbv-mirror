@@ -43,7 +43,7 @@ nicht in meiner Behandlung
 
 **Arbeitsunfähigkeit:**
 
-längere AU-Zeiten (> 4 Wochen) oder mehr als 5 AU -Fälle innerhalb der letzten 12 Monate
+längere AU-Zeiten (> 4 Wochen) oder mehr als 5 AU-Fälle innerhalb der letzten 12 Monate
 
 derzeit besteht Arbeitsunfähigkeit
 

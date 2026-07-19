@@ -7,9 +7,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2022   VERSION: 1.02   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# SCHNITTSTELLENBESCHR DEPRESSION
-
-# EIBUNG
+# SCHNITTSTELLENBESCHREIBUNG  DEPRESSION
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_DEPRESSION]
 
@@ -207,7 +205,7 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
 |  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
-**Tabelle 2:** Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
@@ -339,7 +337,7 @@ Für die Darstellung der Daten des DMP Depression („erstmalige Dokumentation�
 \| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1">        </content> |
 \|---|
 
-**XML-Code 4:** content mit sciphox -SSU (observation)
+**XML-Code 4:** content mit sciphox-SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
 
@@ -347,7 +345,7 @@ Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobac
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
-**Abbildung 4:** Aufbau Sciphox -SSU observation
+**Abbildung 4:** Aufbau Sciphox-SSU observation
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
@@ -457,7 +455,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 \| <content>**       <sciphox:Beobachtungen>**                                                                                       </content> |
 \|---|
 
-**XML-Code 11:** content (Anamnese- und Befunddaten )
+**XML-Code 11:** content (Anamnese- und Befunddaten)
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Symptomatik  PHQ-9 Summenwert"/> <sciphox:Ergebniswert V="8" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad zu Beginn der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mittelgradig"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dauer der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mehr als zwei Jahre persistierend"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Suizidalität eingeschätzt"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
 |---|---|
@@ -503,7 +501,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 5:** Werte bei Ergebnistext ( Raucher)
+**Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
 *V* Attribut die „Körpergröße“ und im
 
@@ -519,7 +517,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Blutdruck systolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „systolischen Wert“  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+
+*V* Attribut den „systolischen Wert“
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -530,7 +530,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Blutdruck diastolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „diastolischen Wert“  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+
+*V* Attribut den „diastolischen Wert“
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -607,7 +609,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Schwer |
 \|  |
 
-**Tabelle 7:** Werte bei Ergebnistext ( Schweregrad zu Beginn der aktuellen depressiven Episode )
+**Tabelle 7:** Werte bei Ergebnistext (Schweregrad zu Beginn der aktuellen depressiven Episode)
 
 ### Dauer der aktuellen depressiven Episode
 
@@ -625,7 +627,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Mehr als zwei Jahre persistierend |
 \| Weniger als zwei Jahre persistierend |
 
-**Tabelle 8:** Werte bei Ergebnistext ( Dauer der aktuellen depressiven Episode )
+**Tabelle 8:** Werte bei Ergebnistext (Dauer der aktuellen depressiven Episode)
 
 ### Suizidalität eingeschätzt
 
@@ -643,7 +645,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-<sciphox:Parameter DN="Dauer der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mehr als zwei Jahre persistierend"/> <sciphox:Parameter DN="Suizidalität eingeschätzt"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 9:** Werte bei Ergebnistext ( Suizidalität eingeschätzt )
+<sciphox:Parameter DN="Dauer der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mehr als zwei Jahre persistierend"/> <sciphox:Parameter DN="Suizidalität eingeschätzt"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 9:** Werte bei Ergebnistext (Suizidalität eingeschätzt)
 
 |  |  |
 |---|---|
@@ -682,7 +684,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Geplant |
 \| Nicht gewünscht |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle medikamentöse Therapie mit Antidepressiva"/> <sciphox:Ergebnistext V="Aktuell andauernd, seit weniger als 9 Monaten"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 10:** Werte bei Ergebnistext ( Aktuelle Psychotherapie )
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle medikamentöse Therapie mit Antidepressiva"/> <sciphox:Ergebnistext V="Aktuell andauernd, seit weniger als 9 Monaten"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 10:** Werte bei Ergebnistext (Aktuelle Psychotherapie)
 
 |  |  |
 |---|---|
@@ -711,7 +713,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Kontraindikation |
 \| Nicht gewünscht |
 
-**Tabelle 11:** Werte bei Ergebnistext ( Aktuelle medikamentöse Therapie mit Antidepressiva )
+**Tabelle 11:** Werte bei Ergebnistext (Aktuelle medikamentöse Therapie mit Antidepressiva)
 
 ### 6.1.7 Abschnitt „Schulung“
 
@@ -748,9 +750,9 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 12:** Werte bei Ergebnistext ( Bereits vor Einschreibung in das DMP an einer  depressionsspezifischen Schulung teilgenommen )
+**Tabelle 12:** Werte bei Ergebnistext (Bereits vor Einschreibung in das DMP an einer  depressionsspezifischen Schulung teilgenommen)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen "/> <sciphox:Ergebnistext V="Ja"/>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>
 
 |  |  |
 |---|---|
@@ -767,7 +769,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML Code 27** Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
+**XML Code 27** Depressionsspezifische Schulung
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -776,7 +778,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut die Feldbezeichnung
 
-**Tabelle 13:** Werte bei Ergebnistext ( Depressionsspezifische Schulung empfohlen (bei aktueller  Dokumentation) )
+empfohlen (bei aktueller Dokumentation)
+
+**Tabelle 13:** Werte bei Ergebnistext (Depressionsspezifische Schulung empfohlen (bei aktueller  Dokumentation))
 
 ### 6.1.8 Abschnitt „Behandlungsplanung“
 
@@ -789,9 +793,9 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 \| <content>**       <sciphox:Beobachtungen>**                       </content> |
 \|---|
 
-**XML-Code 28:** content (Behandlungsplanung )
+**XML-Code 28:** content (Behandlungsplanung)
 
-<sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) <sciphox:Ergebnistext V="Ja"/> "/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> "/> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
+<sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
 |---|---|
 
 
@@ -832,7 +836,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Quartalsweise |
 \| Jedes zweite Quartal |
 
-**Tabelle 15:** Werte bei Ergebnistext ( Dokumentationsintervall)
+**Tabelle 15:** Werte bei Ergebnistext (Dokumentationsintervall)
 
 *V*-Attribut die Feldbezeichnung
 
@@ -917,7 +921,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Schwer |
 \|  |
 
-**Tabelle 16:** Werte bei Ergebnistext ( Schweregrad zu Beginn der aktuellen depressiven Episode
+**Tabelle 16:** Werte bei Ergebnistext (Schweregrad zu Beginn der aktuellen depressiven Episode)
 
 ### Dauer der aktuellen depressiven Episode
 
@@ -965,7 +969,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 33:** Depressionsspezifische Schulung wahrgenommen
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Depressionsspezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Präsenzgruppenschulung"/>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Depressionsspezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Präsenzgruppenschulung"/>
 
 |  |  |
 |---|---|
@@ -981,7 +985,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| War aktuell nicht möglich |
 \| Bei letzter Dokumentation keine Schulung empfohlen |
 
-**Tabelle 17:** Werte bei Ergebnistext ( Depressionsspezifische Schulung wahrgenommen)
+**Tabelle 17:** Werte bei Ergebnistext (Depressionsspezifische Schulung wahrgenommen)
 
 ### 7.1.5 Abschnitt „Behandlungsplanung“
 

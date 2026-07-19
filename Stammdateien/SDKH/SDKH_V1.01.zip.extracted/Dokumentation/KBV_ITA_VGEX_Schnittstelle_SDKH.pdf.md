@@ -5,13 +5,13 @@
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-SDKH (Kodierhilfe-Stammdatei) -Lewin-Platz 2 1.01 Datum: 30.07.2012 Kennzeichnung: Öffentlich Status: In Kraft
+SDKH (Kodierhilfe-Stammdatei) 1.01 Datum: 30.07.2012 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
@@ -357,4 +357,4 @@ Eine Diagnose enthält einen ICD-e-rien.
 |---|---|
 | [KBV_ITA_VGEX_EHD] | ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und |
 
-Namensgebung beim Entwurf von XML -Schnittstellen
+Namensgebung beim Entwurf von XML-Schnittstellen

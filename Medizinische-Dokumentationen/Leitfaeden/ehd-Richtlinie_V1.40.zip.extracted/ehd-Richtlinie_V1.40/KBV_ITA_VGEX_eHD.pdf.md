@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Richtlinie ehd - eHealthData* |
-|  | [KBV_ITA_VGEX_eHD |
+|  | [KBV_ITA_VGEX_eHD] |
 |  | ** |
 |  | Dezernat 6 |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Informationstechnik, Telematik und Telemedizin -Lewin-Platz 2 1.41 Datum: 20.07.2012 Klassifizierung: Extern  Status: In Kraft 
+Informationstechnik, Telematik und Telemedizin 1.41 Datum: 20.07.2012 Klassifizierung: Extern  Status: In Kraft 
 
 
 ---
@@ -57,19 +57,19 @@ vorlage angepasst
 
 **4.3** **version_nbr (Versionsnummer) ................................................................................................. 17**
 
-**4.4** **document_type_cd (Bezeichnung des Datentyps)** **.................................................................. 18**
+**4.4** **document_type_cd (Bezeichnung des Datentyps) .................................................................. 18**
 
 **4.5** **service_tmr (Gültigkeitszeitraum) ............................................................................................. 19**
 
-**4.6** **origination_dttm (Erstellungsdatum)** **........................................................................................ 19**
+**4.6** **origination_dttm (Erstellungsdatum) ........................................................................................ 19**
 
-**4.7** **document_relationship (Beziehungen zu anderen Dokumenten)** **.......................................... 20**
+**4.7** **document_relationship (Beziehungen zu anderen Dokumenten) .......................................... 20**
 
-4.7.1 document_relationship.type_cd (Dokument -Beziehungstyp) .............................................. 21
+4.7.1 document_relationship.type_cd (Dokument-Beziehungstyp) .............................................. 21
 
 4.7.2 related_document (Verweis auf anderes Dokument) .......................................................... 21
 
-**4.8** **intended_recipient (Empfänger / Zielgruppe der Daten)** **......................................................... 22**
+**4.8** **intended_recipient (Empfänger / Zielgruppe der Daten) ......................................................... 22**
 
 4.8.1 intended_recipient.type_cd (Empfängertypen) .................................................................... 23
 
@@ -112,7 +112,7 @@ vorlage angepasst
 
 4.9.5 organization (Organisationsdaten) ...................................................................................... 35
 
-**4.10** **provider (Lieferant/Sender)** **........................................................................................................ 35**
+**4.10** **provider (Lieferant/Sender) ........................................................................................................ 35**
 
 4.10.1 provider.type_cd (Sendertypen) ...................................................................................... 36
 
@@ -132,9 +132,9 @@ vorlage angepasst
 
 4.11.3 scope.nm (Name des Geltungsbereiches) ...................................................................... 39
 
-**4.12** **state (Bearbeitungszustand)** **...................................................................................................... 40**
+**4.12** **state (Bearbeitungszustand) ...................................................................................................... 40**
 
-**4.13** **interface (Beschreibung der Schnittstelle)** **............................................................................... 40**
+**4.13** **interface (Beschreibung der Schnittstelle) ............................................................................... 40**
 
 4.13.1 id (Identifikation der Schnittstelle) .................................................................................... 41
 
@@ -146,7 +146,7 @@ vorlage angepasst
 
 4.13.5 description (Kurzbeschreibung) ....................................................................................... 43
 
-**4.14** **local_header (Platz für lokale Elementdefinitionen)** **................................................................ 43**
+**4.14** **local_header (Platz für lokale Elementdefinitionen) ................................................................ 43**
 
 **5** **INHALTSDATEN (BODY)**
 
@@ -166,7 +166,7 @@ vorlage angepasst
 
 *6.1.1.1* *fkey (Fremdschlüssel) ........................................................................................... 48*
 
-**6.2** **constraint (Referenzintegrität)** **................................................................................................... 48**
+**6.2** **constraint (Referenzintegrität) ................................................................................................... 48**
 
 **7** **NAMENSGEBUNG FÜR EHD-DATEIEN**
 
@@ -181,7 +181,7 @@ vorlage angepasst
 
 **8.1** **Zeichensatz .................................................................................................................................. 54**
 
-**8.2** **Bezeichner für Elemente, Typen, Attribute und Schematadateien** **........................................ 54**
+**8.2** **Bezeichner für Elemente, Typen, Attribute und Schematadateien ........................................ 54**
 
 **8.3** **Wiederverwendung von Typen .................................................................................................. 54**
 
@@ -227,7 +227,7 @@ vorlage angepasst
 
 **63**
 
-**11.1** **Versionierung der Schnittstelle** **................................................................................................. 63**
+**11.1** **Versionierung der Schnittstelle ................................................................................................. 63**
 
 **12** **REGISTRIERUNG EINER SCHNITTSTELLE**
 
@@ -384,37 +384,37 @@ XML-Code 35 /ehd/header/state ................................ .................
 
 ---
 
-| XML-Code | 36 /ehd/header/interface ....................................................................................41 |
-|---|---|
-| XML-Code | 37 /ehd/header/interface/id................................................................................. |
-| XML-Code | 38 /ehd/header/interface/interface.nm................................................................42 |
-| XML-Code | 39 /ehd/header/interface/version........................................................................ |
-| XML-Code | 40 /ehd/header/interface/description .................................................................. |
-| XML-Code | 41 /ehd/header/local_header..............................................................................44 |
-| XML-Code | 42 /ehd/keytabs.................................................................................................. |
-| XML-Code | 43 /ehd/keytabs/keytab ......................................................................................47 |
-| XML-Code | 44 /ehd/keytabs/keytab/key................................................................................ |
-| XML-Code | 45 /ehd/keytabs/keytab/key................................................................................ |
-| XML-Code | 46 xy_root.xsd.................................................................................................... |
-| XML-Code | 47 xy_header.xsd...............................................................................................61 |
-| XML-Code | 48 xy_body.xsd.................................................................................................. |
+XML-Code 36 /ehd/header/interface ................................ .................................................... 41
+
+XML-Code 37 /ehd/header/interface/id ................................................. ................................
 
 42
 
-42
+XML-Code 38 /ehd/header/interface/interface.nm ................................ ................................ 42
 
-46
+XML-Code 39 /ehd/header/interface/version ........................................ ................................ 42
+
+XML-Code 40 /ehd/header/interface/description ................................ .................................. 43
+
+XML-Code 41 /ehd/header/local_header .............................................................................. 44
+
+XML-Code 42 /ehd/keytabs .................................. ................................................................ 46
+
+XML-Code 43 /ehd/keytabs/keytab ...................................................................................... 47
+
+XML-Code 44 /ehd/keytabs/keytab/key ................................................ ................................
 
 48
 
+XML-Code 45 /ehd/keytabs/keytab/key ................................................ ................................
+
 48
 
-61
+XML-Code 46 xy_root.xsd .................................................................... ................................ 61
 
-62
+XML-Code 47 xy_header.xsd ................................ ............................................................... 61
 
-XML-Code 36 /ehd/header/interface .................................................... 41 XML-Code 37 /ehd/header/interface/id XML-Code 38 /ehd/header/interface/interface.nm ................................ 42 XML-Code 39 /ehd/header/interface/version XML-Code 40 /ehd/header/interface/description .................................. 43 XML-Code 41 /ehd/header/local_header XML-Code 42 /ehd/keytabs XML-Code 43 /ehd/keytabs/keytab XML-Code 44 /ehd/keytabs/keytab/key XML-Code 45 /ehd/keytabs/keytab/key XML-Code 46 xy_root.xsd XML-Code 47 xy_header.xsd XML-Code 48 xy_body.xsd 
-
+XML-Code 48 xy_body.xsd .................................. ................................................................ 62
 
 ---
 
@@ -454,14 +454,14 @@ Es existieren verschiedene Kardinalitäten:
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei-nander verknüpft. In diesem Dokument werden zwei Strukturelemente verwendet:  und ***<xs:sequence>***
 
+***<xs:choice>***
+
 | Symbol | Beschreibung |
 |---|---|
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
-**Tabelle 2 Beschreibung der Strukturelement-Symbole**
-
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vor- kommen. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un- <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. ***<xs:choice>***
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vor- kommen. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis  (un- bounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. **Tabelle 2 Beschreibung der Strukturelement-Symbole**
 
 
 ---
@@ -479,8 +479,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3 Beschreibung sonstiger Symbole**
 
-Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst. 
-
+Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
 
 ---
 
@@ -532,7 +531,7 @@ Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„***urn:
 
 Folgender Code ist für die Implementierung einer ehd-Schnittstelle vorgeschrieben:
 
-<?xml version="1.0" encoding="ISO -8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 
 <ehd xmlns="urn:ehd/001" ehd_version="...">
 
@@ -571,7 +570,7 @@ Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsd
 
 ---
 
-### Folgendes Beispiel zeigt die Grundstruktur des <header> -Elements. Ein komplett ausgefüllter
+### Folgendes Beispiel zeigt die Grundstruktur des
 
 Beispiel mit Daten befindet sich in der XML-Datei „ehd_beispiel.xml“.
 
@@ -589,19 +588,21 @@ Beispiel mit Daten befindet sich in der XML-Datei „ehd_beispiel.xml“.
 
 <origination_dttm V=". . ."/>
 
-<document_relationship
+<document_relationship>
 
 . . .
 
-</document_relationship
+</document_relationship>
 
-<intended_recipient
+<intended_recipient>
 
 . . .
 
-</intended_recipient
+</intended_recipient>
 
 <originator>
+
+***<header>*** -Elements. Ein komplett ausgefüllter
 
 . . .
 
@@ -639,7 +640,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 1..1 |
 |---|---|
-| attributs | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string    optional               RT    xs:string    required               RTV  xs:string optional |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  EX    xs:string    optional               RT    xs:string    required               RTV  xs:string  optional |
 
 **XML-Code 3 /ehd/header**
 
@@ -711,11 +712,11 @@ V: Im V-Attribut steht die Versionsnummer, bei der Erstlieferung erhält das V-A
 
 ## 4.4 document_type_cd (Bezeichnung des Datentyps)
 
-Das Element ***<document_type_cd*** beschreibt den Dokumenttype, d.h. um welche Schnittstelle  bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt um kodierte Werte darzustel-len.
+Das Element ***<document_type_cd>*** beschreibt den Dokumenttype, d.h. um welche Schnittstelle  bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt um kodierte Werte darzustel-len.
 
 Kode-Elemente:
 
-Genereller Aufbau von Elementen, die kodierte Werte und Schlüsseltabellen enthalten, am  Beispiel des Elements ***<document_type_cd*** die kodierte Werte enthalten, in der Regel die Endung _cd. Kode-Elemente haben den Daten-typ **v_s_string_typ**, der folgende Attribute enthält:
+Genereller Aufbau von Elementen, die kodierte Werte und Schlüsseltabellen enthalten, am  Beispiel des Elements ***<document_type_cd>***. Gemäß der Namenskonvention haben Elemente,  die kodierte Werte enthalten, in der Regel die Endung _cd. Kode-Elemente haben den Daten-typ **v_s_string_typ**, der folgende Attribute enthält:
 
 Das Element hat folgende Attribute:
 
@@ -723,8 +724,6 @@ Das Element hat folgende Attribute:
 |---|---|
 | children |  |
 | attributs | Name    Type    Use    Default    Fixed    Annota- V    xs:string    required               DN    xs:string    optional               S    xs:string    optional          1.2.276.0.76.2.2.100     SN    xs:string    optional               SV    xs:string    optional |
-
-. Gemäß der Namenskonvention haben Elemente,
 
 V: Kürzel, kodierter Wert
 
@@ -741,7 +740,7 @@ Bei dem Element <document_type_cd> wird im V-Attribut das Kürzel (Kode) der Sch
 
 ---
 
-<document_type_cd V="DE.SDKT" DN="Kostenträgerstammdatei" S="1243.23.523.1T.e.s.t
+<document_type_cd V="DE.SDKT" DN="Kostenträgerstammdatei" S="1243.23.523.1T.e.s.t"
 
 SN=" KBVSchnittstellen " SV="1.0"/>
 
@@ -749,7 +748,7 @@ SN=" KBVSchnittstellen " SV="1.0"/>
 
 ## 4.5 service_tmr (Gültigkeitszeitraum)
 
-Das Element ***<service_tmr*** beschreibt den Gültigkeitszeitraum der enthaltenen Daten.
+Das Element ***<service_tmr>*** beschreibt den Gültigkeitszeitraum der enthaltenen Daten.
 
 Das Element hat folgende Attribute:
 
@@ -779,7 +778,7 @@ Achtung: Hier gibt es eine Abweichung zur Notation im entsprechenden timeframe-N
 
 ## 4.6 origination_dttm (Erstellungsdatum)
 
-Das Element ***<origination_dttm*** beschreibt das Erstellungsdatum der Datei.
+Das Element ***<origination_dttm>*** beschreibt das Erstellungsdatum der Datei.
 
 Das Element hat folgende Attribute:
 
@@ -790,9 +789,7 @@ Das Element hat folgende Attribute:
 
 ---
 
-V: hier wird das Erstellungsdatum der Datei im Format „YYYY-MM-DD“ angegeben. Zusätz-lich kann auch die Zeit und Zeitzone angegeben werden (siehe date-Datentyp in W3C-
-
-### Schema-Spezifikation [3]).
+V: hier wird das Erstellungsdatum der Datei im Format „YYYY-MM-DD“ angegeben. Zusätz-lich kann auch die Zeit und Zeitzone angegeben werden (siehe date-Datentyp in W3C-Schema-Spezifikation [3]).
 
 <origination_dttm V="2003-09-30"/>
 
@@ -800,13 +797,9 @@ V: hier wird das Erstellungsdatum der Datei im Format „YYYY-MM-DD“ angegeben
 
 ## 4.7 document_relationship (Beziehungen zu anderen Dokumenten)
 
-### Durch das Element <document_relationship
+Durch das Element ***<document_relationship>*** satz“) zu anderen Dokumenten repräsentiert. Bei Verweisen ist es empfehlenswert die Ele-mente ***<set_id>*** und ***<document_relationship>***
 
-satz“) zu anderen Dokumenten repräsentiert. Bei Verweisen ist es empfehlenswert die Ele-
-
-### mente <set_id> und <document_relationship>
-
-#### Abbildung 3 /ehd/header/document_relationship
+**Abbildung 3 /ehd/header/document_relationship**
 
 Das Element hat folgende Attribute:
 
@@ -815,38 +808,30 @@ Das Element hat folgende Attribute:
 | children | **document_relationship.type_cd (1..1)  related_document (1..1)  local_header (0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
-***<document_relationship.type_cd*** Der Beziehungstyp wird in diesem Kode-Element festgelegt.
+***<document_relationship.type_cd>*** Der Beziehungstyp wird in diesem Kode-Element festgelegt.
 
-***<related_document>*** Die Verbindung zu anderen Dokumenten erfolgt über dieses Element,  in dem die Referenz zum anderen Dokument, über die Dokument-
+***<related_document>*** Die Verbindung zu anderen Dokumenten erfolgt über dieses Element,  in dem die Referenz zum anderen Dokument, über die Dokument-Identifikatoren (***<id>***
 
-### Identifikatoren (
+***<local_header>*** - Element wird in  local_header (Platz für lokale Elementdefinitionen)
 
-***<local_header>*** - Element wird in
+<document_relationship>
 
-<document_relationship
-
-***<id>***
-
-local_header (Platz für lokale Elementdefinitionen)
-
-werden die Beziehungen („Anhang“ oder „Er-
-
-### anzugeben.
+werden die Beziehungen („Anhang“ oder „Er-anzugeben.
 
 ***<set_id> <version_nbr>***), angegeben wird.
 
-### erklärt.
+erklärt.
 
 
 ---
 
 <document_relationship.type_cd V="APND" DN="Append/Anhang" S="2.32.442.3"
 
-SN="Dokumentbeziehungstypen
+SN="Dokumentbeziehungstypen" SV="1.0"/>
 
 <related_document>
 
-<id EX=“0123A5Z7-89BB-2rt5-67er-0123zeuA7890" RT="123.345.66446.3
+<id EX=“0123A5Z7-89BB-2rt5-67er-0123zeuA7890" RT="123.345.66446.3"/>
 
 <set_id EX="34453" RT="St_kbv"/>
 
@@ -854,47 +839,31 @@ SN="Dokumentbeziehungstypen
 
 </related_document>
 
-</document_relationship
+</document_relationship>
 
 **XML-Code 10 /ehd/header/document_relationship**
 
-### 4.7.1 document_relationship.type_cd (Dokument
+### 4.7.1 document_relationship.type_cd (Dokument-Beziehungstyp)
 
-### Im Element <document_relationship.type_cd
+### Im Element <document_relationship.type_cd> wird der Typ der Beziehung („Anhang“ oder „Er-
 
-satz“) zum Dokument, der im Element ***<related_document***
+satz“) zum Dokument, der im Element ***<related_document>*** angegebenen ist, genannt.
 
-Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**
+Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert
 
 ### sind, die für Kode-Elemente üblich sind.
 
-<document_relationship.type_cd V="APND" DN="Append/Anhang" S="1.2.276.0.76.2.2.101
+<document_relationship.type_cd V="APND" DN="Append/Anhang" S="1.2.276.0.76.2.2.101"
 
-SN="Dokumentbeziehungstypen
+SN="Dokumentbeziehungstypen" SV="1.0"/>
 
 **XML-Code 11 /ehd/header/document_relationship/document_relationship.type_cd**
 
-### 4.7.2 related_document (Verweis auf
+### 4.7.2 related_document (Verweis auf anderes Dokument)
 
-### Im Element <related_document wird der Verweis auf das Dokument angegeben, mit dem die  Daten in Verbindung stehen.
+### Im Element <related_document> wird der Verweis auf das Dokument angegeben, mit dem die  Daten in Verbindung stehen.
 
 **Abbildung 4 /ehd/header/document_relationship/related_document**
-
-" SV="1.0"/>
-
-"/>
-
-### -Beziehungstyp)
-
-wird der Typ der Beziehung („Anhang“ oder „Er-
-
-### angegebenen ist, genannt.
-
-, in dem Attribute und Elemente definiert
-
-" SV="1.0"/>
-
-### anderes Dokument)
 
 
 ---
@@ -939,12 +908,12 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| children | **intended_recipient.type_cd (0..1)  function_cd (0..1)  person (0..n)  organization (0..n) local_header(0..n)** |
+| children | **intended_recipient.type_cd (0..1)  function_cd (0..1)  person (0..n)  organization (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 **Abbildung 5 /ehd/header/intended_recipient**
 
-***<intended_recipient.type_cd*** , Der Empfänger bzw. die Zielgruppe kann einem Empfängertyp  („Eigner“, „Empfänger“) zugeordnet werden. Der Typ wird in die-
+***<intended_recipient.type_cd>***, Der Empfänger bzw. die Zielgruppe kann einem Empfängertyp  („Eigner“, „Empfänger“) zugeordnet werden. Der Typ wird in die-
 
 ### sem Kode-Element festgelegt.
 
@@ -960,9 +929,9 @@ Das Element hat folgende Attribute:
 
 ***<local_header>*** - Element wird in  local_header (Platz für lokale Elementdefinitionen) erklärt.
 
-<intended_recipient
+<intended_recipient>
 
-<intended_recipient.type_cd V="OWNER " S="1.3.1.3.T.e.s.t" SV="1.0"/>
+<intended_recipient.type_cd V="OWNER" S="1.3.1.3.T.e.s.t" SV="1.0"/>
 
 <organization>
 
@@ -984,7 +953,7 @@ Das Element hat folgende Attribute:
 
 </organization>
 
-</intended_recipient
+</intended_recipient>
 
 **XML-Code 13 /ehd/header/intended_recipient**
 
@@ -996,7 +965,7 @@ Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angege
 
 ### sind, die für Kode-Elemente üblich sind.
 
-<intended_recipient.type_cd V="OWNER " S="1.2.276.0.76.2.2.102" SV="1.0" DN="Eigner"/>
+<intended_recipient.type_cd V="OWNER" S="1.2.276.0.76.2.2.102" SV="1.0" DN="Eigner"/>
 
 
 ---
@@ -1004,17 +973,17 @@ Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angege
 | Kardinalität | 0..n |
 |---|---|
 | children | **id (0..1)** |
-| <intended_recipient.type_cd**XML-Code 14 /ehd/header/intended_recipient/intended_recipient.type_cd**  **4.8.2** Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element | |
-| Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben | Kode-Elemente üblich sind.      <function_cd V="DtE" S="1.2.276.0.76.2.2.105**XML-Code 15 /ehd/header/intended_recipient/function_cd**  **4.8.3** Generell können Persondaten in diesem Element untergebracht werden. Dieses Element wird |
+| <intended_recipient.type_cd V="RECEIVER" S="1.2.276.0.76.2.2.102" SV="1.0" DN="Empfänger"/> **XML-Code 14 /ehd/header/intended_recipient/intended_recipient.type_cd **  **4.8.2** Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element | |
+| Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben | Kode-Elemente üblich sind.      <function_cd V="DtE" S="1.2.276.0.76.2.2.105" SV="1.0" DN=”Dateneingang”/> **XML-Code 15 /ehd/header/intended_recipient/function_cd **  **4.8.3** Generell können Persondaten in diesem Element untergebracht werden. Dieses Element wird |
 
-V="RECEIVER" S="1.2.276.0.76.2.2.102 " SV="1.0" DN="Empfänger"/> function_cd (Rolle/Funktion der Empfänger) beschrieben. werden können. Der Datentyp ist v_s_string_typ , in dem Attribute und Elemente definiert sind, die für " SV="1.0" DN=”Dateneingang”/> person (Persondaten) an mehreren Stellen, wo Personangaben übermittelt werden sollen, wiederverwendet.  Abbildung 6 /ehd/header/.../person Das Element hat folgende Attribute:
+function_cd (Rolle/Funktion der Empfänger) beschrieben. werden können. Der Datentyp ist v_s_string_typ , in dem Attribute und Elemente definiert sind, die für person (Persondaten) an mehreren Stellen, wo Personangaben übermittelt werden sollen, wiederverwendet.  Abbildung 6 /ehd/header/.../person Das Element hat folgende Attribute:
 
 ---
 
 | *<organization.nm>* | *<addr>* |
 |---|---|
 | ***<telecom>*** | ***<local_header>*** |
-| **person_name (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n)** | |
+| **person_name (0..1)  organization.nm (0..n)  addr (0..n)  telecom (0..n)  local_header(0..n)** | |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 <person>
@@ -1068,7 +1037,7 @@ Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen i
 
 a) Wenn neue Werte in die Schlüsseltabelle hinzugefügt werden, so kann anhand der  Tabellen-Version erkannt werden, dass es sich nicht um Fehlerwerte handelt, wenn  diese durch das Programm nicht erkannt werden. Die Fehlerursache kann damit ge-klärt werden.
 
-b) Um nach mehreren Schlüsseltabellenänderungen noch klären zu können, wann ein  Wert gültig war. D ie Tabellen-Version ist für die Überprüfung von älteren Dateien mit  alten Schlüsseltabellenwerten wichtig.
+b) Um nach mehreren Schlüsseltabellenänderungen noch klären zu können, wann ein  Wert gültig war. Die Tabellen-Version ist für die Überprüfung von älteren Dateien mit  alten Schlüsseltabellenwerten wichtig.
 
 <id EX="3223" RT="2.3.5.3.T.e.s.t" RTV="1.10"/>
 
@@ -1120,7 +1089,7 @@ Suffix, Ein folgender Namenszusatz hat eine starke Bindung zum vorherge-henden T
 
 Ein Trennzeichen hat nur die Bedeutung, genau so gedruckt zu werden, wie es  im Namen vorkommt. Ein Trennzeichen hat keine führenden und nachfolgen-den Leerzeichen.
 
-| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required               QUAL    xs:NMTOKENS   optional |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required               QUAL    xs:NMTOKENS    optional |
 |---|---|
 
 V: hier wird der Wert eingetragen
@@ -1255,9 +1224,9 @@ Die Erläuterung für die verschiedenen Werte sind in der
 
 | Code | Definition | Beispiel |
 |---|---|---|
-| tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449 |
-| fax | Faxnummer | <telecom V="fax:(0221)4449 |
-| mailto | Emailadresse | <telecom V="mailto:info@kbv.de |
+| tel | Telefon/Mobiltelefon | <telecom V="tel:(0221)4449-0" USE="WP |
+| fax | Faxnummer | <telecom V="fax:(0221)4449-400" USE="WP |
+| mailto | Emailadresse | <telecom V="mailto:info@kbv.de" USE="WP |
 | http | Homepage | <telecom V="http://www.kbv.de" USE="WP |
 | ftp | FTP-Server | <telecom V="ftp://ftp.kbv.de" USE="WP |
 
@@ -1267,20 +1236,19 @@ Die Erläuterung für die verschiedenen Werte sind in der
 
 Generell können Organisationsdaten in diesem Element untergebracht werden. Dieses El ment wird an mehreren Stellen, wo Organisationsangaben übermittelt werden sollen, wiede verwendet.
 
-Tabelle 5 aufgeführt.
-
-e-r-
-
 **Abbildung 9 /ehd/header/intended_recipient/organization**
 
 Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| children | **id (0..1)  organization.nm (0..n) addr (0..n)  telecom (0..n)  local_header(0..n)** |
+| children | **id (0..1)  organization.nm (0..n)  addr (0..n)  telecom (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
--0" USE="WP "/> -400" USE="WP "/> "/> "/> "/>
+Tabelle 5 aufgeführt.
+
+"/> "/> "/> "/> "/> e-r-
+
 
 ---
 
@@ -1357,7 +1325,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| children | **originator.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n) local_header(0..n)** |
+| children | **originator.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
 ***<originator.type_cd>***
@@ -1366,7 +1334,7 @@ Der Urheber kann einem Typ („Labore“, „Datenannahmestellen“)  zugeordnet
 
 ***<function_cd>***, Die genauere Rolle/Funktion des Urhebers („Datenausgang“) wird in diesem  Kode-Element beschrieben.
 
-***<participation_tmr*** Der Zeitraum/Zeitpunkt, wann der Urheber an der Entstehung des Do-kuments/Daten beteiligt war.
+***<participation_tmr>*** Der Zeitraum/Zeitpunkt, wann der Urheber an der Entstehung des Do-kuments/Daten beteiligt war.
 
 ***<person>*** der Urheber kann eine Person sein. Mehrere Personen können zu einem Ur-hebertyp angegeben werden.
 
@@ -1383,7 +1351,7 @@ Der Urheber kann einem Typ („Labore“, „Datenannahmestellen“)  zugeordnet
 
 <originator.type_cd V="KV" S="1.3.1.3.T.e.s.t" SV="1.0"/>
 
-<participation_tmr V="2003-09--10
+<participation_tmr V="2003-09--1030..2003 -30"/>
 
 <organization>
 
@@ -1393,15 +1361,11 @@ Der Urheber kann einem Typ („Labore“, „Datenannahmestellen“)  zugeordnet
 
 <addr>
 
-<STR V="Teststrasse
+<STR V="Teststrasse"/>
 
 <HNR V="12"/>
 
 <CTY V="Segeberg"/>
-
-30..2003 -30"/>
-
-"/>
 
 </addr>
 
@@ -1433,7 +1397,7 @@ Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angege
 
 ### sind, die für Kode-Elemente üblich sind.
 
-<function_cd V="ENTW " S="1.2.276.0.76.2.2.105" SV="1.0" DN=”Entwickler”/>
+<function_cd V="ENTW" S="1.2.276.0.76.2.2.105" SV="1.0" DN=”Entwickler”/>
 
 **XML-Code 25 /ehd/header/originator/function_cd**
 
@@ -1464,14 +1428,14 @@ Siehe organization (Organisationsdaten)
 
 Eine Person oder Organisation, die das Dokument/Daten liefert/sendet oder weiterleitet. Da-mit ist ***<provider>*** der Sender der Daten. Das Element ***<provider>*** die Herkunft der Daten ermittelt werden kann. Generell wird davon ausgegangen, dass der  provider auch der Urheber ist, wenn zum Sender das Element  Erst wenn der Urheber vom Absender unterscheidet, wird der Urheber mitangegeben.
 
+**Abbildung 11 /ehd/header/provider**
+
 Das Element hat folgende Attribute:
 
 | Kardinalität | 1..n |
 |---|---|
 | children | **provider.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
-
-**Abbildung 11 /ehd/header/provider**
 
 ist ein Pflichtelement, damit
 
@@ -1492,7 +1456,7 @@ zugeordnet werden. Der Typ wird in diesem Kode-Element fest-
 
 ### Die genauere Rolle/Funktion des Senders („Datenausgang“) wird in  diesem Kode-Element beschrieben.
 
-***<participation_tmr*** Der Zeitraum/Zeitpunkt, wann der Sender an der Entstehung/Sendung
+***<participation_tmr>*** Der Zeitraum/Zeitpunkt, wann der Sender an der Entstehung/Sendung
 
 ### des Dokuments/Daten beteiligt war.
 
@@ -1660,9 +1624,9 @@ V: hier wird der Wert eingetragen
 | Kardinalität | 1..1 |
 |---|---|
 | **4.12** | Das optionale Element  Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  Kode-Elemente üblich sind.  Die Werte für das V-Attribut sind je nach konkreter Schnittstelle frei wählbar. Im S-Attribut |
-| <state V="E01002" S="1.2.276.0.76.2.2.108 | **XML-Code 35 /ehd/header/state**  **4.13 ** Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-    **Abbildung 13 /ehd/header/interface** |
+| <state V="E01002" S="1.2.276.0.76.2.2.108" DN="EingangspruefungOK"/> | **XML-Code 35 /ehd/header/state **  **4.13 ** Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-    **Abbildung 13 /ehd/header/interface** |
 
-state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbeitungszustand. Es wird damit ermöglicht, die XML-Dateien zu kennzeichnen, die einen Bearbeitungsschritt durchlaufen haben (z.B. Prüfung, Filterung).  werden können. Der Datentyp ist v_s_string_typ sind, die für steht die OID der jeweiligen Schlüsseltabelle.  , in dem Attribute und Elemente definiert " DN="EingangspruefungOK "/> interface (Beschreibung der Schnittstelle) weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element <interface>  wird auf die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen. Das Element hat folgende Attribute:
+state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbeitungszustand. Es wird damit ermöglicht, die XML-Dateien zu kennzeichnen, die einen Bearbeitungsschritt durchlaufen haben (z.B. Prüfung, Filterung).  werden können. Der Datentyp ist v_s_string_typ sind, die für steht die OID der jeweiligen Schlüsseltabelle.  , in dem Attribute und Elemente definiert interface (Beschreibung der Schnittstelle) weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element <interface>  wird auf die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen. Das Element hat folgende Attribute:
 
 ---
 
@@ -1748,7 +1712,7 @@ Die Identifikation der Schnittstelle.  Angabe zu dem Namen der Schnittstelle ###
 
 ### 4.13.2 interface.nm (Name der Schnittstelle)
 
-Das Element ***<interface.nm*** enthält die Bezeichnung der Schnittstelle als Text, wie er auf der  entsprechenden Schnittstellenbezeichnung steht. Nahliegend ist, dass dieser Text Teile des  DN (Displayname) von document_type_cd enthält.
+Das Element ***<interface.nm>*** enthält die Bezeichnung der Schnittstelle als Text, wie er auf der  entsprechenden Schnittstellenbezeichnung steht. Nahliegend ist, dass dieser Text Teile des  DN (Displayname) von document_type_cd enthält.
 
 Das Element hat folgende Attribute:
 
@@ -1780,7 +1744,9 @@ V: hier wird der Wert eingetragen
 
 ### 4.13.4 originator (Urheber)
 
-Im Element ***<originator>*** sind alle relevanten Informationen zu der die Schnittstelle definieren-den Instanz angegeben. Die Struktur dieses Elements ist bei originator (Urheber) beschrie-ben.
+Im Element ***<originator>*** sind alle relevanten Informationen zu der die Schnittstelle definieren-den Instanz angegeben. Die Struktur dieses Elements ist bei  ben.
+
+originator (Urheber) beschrie-
 
 
 ---
@@ -1813,7 +1779,7 @@ Das Element hat folgende Attribute:
 
 | Kardinalität | 0..n |
 |---|---|
-| attributs | Name    Type    Use    Default    Fixed    Annotation  Ignore    ignore_typ    optional  markup           descriptor    xs:string   optional             Render    xs:render      optional |
+| attributs | Name    Type    Use    Default    Fixed    Annotation  Ignore    ignore_typ    optional  markup           descriptor    xs:string    optional             Render    xs:render      optional |
 
 ignore: Dieses Attribut kann einer Anwendung (z.B. stylesheet) Hinweis geben, ob  Daten innerhalb des ***<local_header>***-Elements ignoriert werden können. Mit  Ausprägung „markup“ soll nur das ***<local_header>***-Element ignoriert werden. Mit  Ausprägung „all“ sollen auch die Elemente und Daten innerhalb des ***<lo-*** ***cal_header>***-Element ignoriert werden.
 
@@ -1834,7 +1800,7 @@ Anstatt des <any> Elements kann in der konkreten ehd-Schnittstellen-Implementier
 
 beliebige Element verwendet werden. Dazu wird der Basistyp: local_header-cont.model mit  ***<xs:restriction>***  eingeschränkt und die schnittstellenspezifische Elemente hinzugefügt.
 
-### Ein Beispiel für die Verwendung des <local_header -Elements mit zwei erfundenen Elementen,
+### Ein Beispiel für die Verwendung des <local_header>-Elements mit zwei erfundenen Elementen,
 
 die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ stammen.
 
@@ -1888,15 +1854,13 @@ werden soll, weil z.B. im body-Bereich auf diese Code-Wert-Paare referenziert wi
 
 **Abbildung 9: /ehd/keytabs**
 
-#### <keytabs> untergeordneten (Pflicht-) Kindelemente (hier <keytab> und
+#### <keytabs> untergeordneten (Pflicht-) Kindelemente (hier
 
 ### Die dem Element
 
 #### <key>) stellen jeweils eine Schlüsseltabelle dar und sind in ihrer Benennung frei wählbar. Die
 
 ### Benennung erfolgt in Attributen.
-
-#### <keytabs> -Sektion.
 
 ### Das folgende XMLCode-Beispiel erläutert beispielhaft den Aufbau einer
 
@@ -1918,6 +1882,10 @@ werden soll, weil z.B. im body-Bereich auf diese Code-Wert-Paare referenziert wi
 
 **XML-Code 42 /ehd/keytabs**
 
+#### <keytab> und
+
+#### <keytabs> -Sektion.
+
 
 ---
 
@@ -1938,17 +1906,15 @@ SN: menschenlesbarer Klartextname der Schlüsseltabelle
 
 SV: Version der Schlüsseltabelle; Wenn die Schlüsseltabelle geändert bzw. ergänzt wird, wird  die Version hochgezählt.
 
-<keytab S="13.54.24.5.TEST
+<keytab S="13.54.24.5.TEST" SN="Kassenärztliche Vereinigungen" SV="1.0">
 
-<key V="01" DN="KV Schleswig-Holstein" S="13.54.24.5.TEST
+<key V="01" DN="KV Schleswig-Holstein" S="13.54.24.5.TEST" SV="1.0"/>
 
-<!--..weitere Schlüssel ...
+<!--..weitere Schlüssel ...-->
 
-<key V="98" DN="KV Sachsen" S="13.54.24.5.TEST
+<key V="98" DN="KV Sachsen" S="13.54.24.5.TEST" SV="1.0"/>
 
 </keytab>
-
-" SN="Kassenärztliche Vereinigungen -->
 
 **XML-Code 43 /ehd/keytabs/keytab**
 
@@ -1971,12 +1937,6 @@ S: OID der Schlüsseltabelle
 SV : Version der Schlüsseltabelle
 
 ##local: weitere Attribute, das können weitere Spalten der Tabelle sein.
-
-" SV="1.0"/>
-
-" SV="1.0">
-
-" SV="1.0"/>
 
 ***<key>***). Hier werden die Kodewerte in At-***<body>***
 
@@ -2046,9 +2006,9 @@ Annotation
 
 **Abbildung 10: Beispiel-XML-Schema zur Referenzintegrität**
 
-### Um die Werte im V-Attribut der <key>-Elemente als key im Sinne von XML-Schema zu definie-
+### Um die Werte im V-Attribut der <key>
 
-ren, wird im Schema, dem Root-Element ***<ehd>*** folgender Code hinzugefügt:
+ren, wird im Schema, dem Root-Element
 
 <xs:element name="ehd">
 
@@ -2065,6 +2025,8 @@ ren, wird im Schema, dem Root-Element ***<ehd>*** folgender Code hinzugefügt:
 <xs:field xpath="@S"/>
 
 <xs:field xpath="@SV"/>
+
+-Elemente als *key* im Sinne von XML-Schema zu definie-***<ehd>*** folgender Code hinzugefügt:
 
 </xs:key>
 
@@ -2135,9 +2097,9 @@ Aufbau des Namens einer ehd-Datei:
 
 [ ] ............ bedeutet allgemein, dass das Namenselement (der "Namepart") optional ist
 
-_ .............  Trennungszeichen zwischen den Namenselementen
+_ ............. Trennungszeichen zwischen den Namenselementen
 
-_xx+val ....  optionales Namenselement mit Wert, [_Namepart-ID+value]. Als Trennzeichen  wird zwischen Namepart und dem Wert das „+“-Zeichen verwendet.
+_xx+val .... optionales Namenselement mit Wert, [_Namepart-ID+value]. Als Trennzeichen  wird zwischen Namepart und dem Wert das „+“-Zeichen verwendet.
 
 Obligate Nameparts:
 
@@ -2153,7 +2115,7 @@ Optionale Nameparts:
 
 Die optionalen Nameparts werden – im Gegensatz zu den obligaten Nameparts - durch ihre  Namepart-ID gekennzeichnet, sie können in beliebiger Reihenfolge dem festen Namensteil  bzw. den obligaten Nameparts folgen. Erlaubte optionale Nameparts sind:
 
-**re+** ........... receiver - Empfänger der Lieferung (nicht immer mit Nutze der Daten identisch) bzw. an wen werden die Daten geliefert;
+**re+** ........... receiver - Empfänger der Lieferung (nicht immer mit Nutzer bzw. Endempfänger  der Daten identisch) bzw. an wen werden die Daten geliefert;
 
 Entspricht dem Element ***<person>*** Elements ***<intended_recipient>*** Wenn der Typecode den Wert für „Empfänger“ hat.
 
@@ -2161,7 +2123,7 @@ Entspricht dem Element ***<person>*** Elements ***<intended_recipient>*** Wenn d
 
 YYYY oder  YYYYqQ oder  YYYYmMM oder
 
-***<document_type_cd***
+***<document_type_cd>***
 
 des Header-Elements
 
@@ -2173,8 +2135,6 @@ oder dem Element
 
 ***<organization>*** des Header-
 
-r bzw. Endempfänger
-
 ***<organization>*** des Header-
 
 
@@ -2184,7 +2144,7 @@ YYYYwWW oder  YYYYmMMdDD oder  YYYYmMMdDD-YYYYmMMdDD oder -YYYYmMMdDD oder
 
 YYYYmMMdDD-
 
-Y.. Jahreswert, M.. Monatswert, W.. Wochenwert, D.. Tageswert , Q.. Quartal wert  q.. Quartal, m.. month, w.. week, d.. day
+Y.. Jahreswert, M.. Monatswert, W.. Wochenwert, D.. Tageswert , Q.. Quartals-wert  q.. Quartal, m.. month, w.. week, d.. day
 
 Entspricht inhaltlich dem Header-Element
 
@@ -2206,7 +2166,7 @@ Entspricht dem Element ***<person>*** oder dem Element  Elements ***<intended_re
 
 **td+** ........... typ of delivery - Art der Lieferung (z.B. Erst-, Korrektur-, Ersatz-Lieferung);
 
-Entspricht inhaltlich dem Element ***<document_relationship.type_cd*** Elements ***<document_relationship***
+Entspricht inhaltlich dem Element ***<document_relationship.type_cd>*** Elements ***<document_relationship>***
 
 **st+** ........... state - Zustand (falls die Daten gefiltert werden kann man hier den Bearbei-tungszustand vermerken);
 
@@ -2233,8 +2193,6 @@ Die Extension .kry ist zulässig, wenn die ehd-Datei mit einem Verschlüsselungs
 ***<organization>***
 
 ***<state >***
-
-s-
 
 des Header-
 
@@ -2276,25 +2234,20 @@ Neben den allgemeinen Regeln für XML-Namen, welche sich aus den Spezifikationen
 -  Bezeichner für Typen, Elemente und Attribute, welche aus externen Schemata (z.B.  CDA oder SCIPHOX) entlehnt werden, behalten zur besseren Identifizierung ihre dor-tige originale Schreibweise (z.B. document_type_cd aus CDA, KostentraegerAbrech-nungsbereich aus einer SCIPHOX-SSU). Auf die Entlehnung ist innerhalb der  ***<xs:annotation>*** -Tags hinzuweisen.
 -  Bezeichner für Typen haben die Endung „_typ“.
 -  Bezeichner für Gruppen haben die Endung „_gruppe“.
--  Bezeichner für Listen haben die Endung „_liste“ (siehe Kapitel
+-  Bezeichner für Listen haben die Endung „_liste“ (siehe Kapitel 8.4.3
 -  Die Verwendung von Abkürzungen ist zu vermeiden und nur für allgemein bekannte  Begriffe (z.B. dmp) erlaubt.
--  Aus der Erfahrung mit der Schemataversionierung, sollten alle Schematadateien in  der Dateibezeichnung die Version der Schemata enthalten:  **tei[_Vx.xx].xsd** z.B. ehd-Richtlinie V1.40 hat eine Schematadatei  **ehd_header_V1.40.xsd**
+-  Aus der Erfahrung mit der Schemataversionierung, sollten alle Schematadateien in  der Dateibezeichnung die Version der Schemata enthalten: **schematada-** **tei[_Vx.xx].xsd** z.B. ehd-Richtlinie V1.40 hat eine Schematadatei  **ehd_header_V1.40.xsd**
 -  Die Schemata, von unterschiedlichen Versionen, sollten in verschiedenen Ordnern  liegen. Die Ordner erhalten in diesem Fall im Ordnernamen die Version der Schema-ta: **schema[_Vx.xx]** z.B. die Schemata der ehd-Richtlinie V1.40 liegen im Ornder:  **schema_V1.40**
 
 ## 8.3 Wiederverwendung von Typen
 
 ### 8.3.1 Allgemeines
 
-Implizite Typdefinitionen sind bei einfachen Typen dann sinnvoll, wenn davon auszugehen ist,  dass dieser Typ nicht mehrmals benötigt wird, da sie das XML
+Implizite Typdefinitionen sind bei einfachen Typen dann sinnvoll, wenn davon auszugehen ist,  dass dieser Typ nicht mehrmals benötigt wird, da sie das XML-Schema kürzer machen.
 
 Durch die Verwendung von expliziten Typdefinitionen (benannte Typen) können diese Typen  wiederverwendet werden, indem neue Schemadefinitionen aus vorhandenen Typen zusam-mengesetzt werden.
 
-Zu diesem Zweck werden Typen, die auch in anderen Projekten im Gesundheitsbereich ver-wendet werden können, nicht im speziellen Schema selbst definiert, sondern in die ehd-Typbibliothek ausgelagert. Diese wird dann durch eine -Schema kürzer machen.
-
-***<xs:import>*** - Anweisung eingebunden.
-
-- 8.4.3
-- **schematada-**
+Zu diesem Zweck werden Typen, die auch in anderen Projekten im Gesundheitsbereich ver-wendet werden können, nicht im speziellen Schema selbst definiert, sondern in die ehd-Typbibliothek ausgelagert. Diese wird dann durch eine ***<xs:import>*** - Anweisung eingebunden.
 
 
 ---
@@ -2305,15 +2258,15 @@ Die ehd-Richtlinie ist bewusst aus Datentypen zusammengebaut, damit spezifischen
 
 ### Beim Entwurf von XML-Schnittstellen ist die weitestgehende Wiederverwendung von in CDA
 
-und SCIPHOX definierten Typen bzw. Elementen anzustreben. Dies wird durch die Einbin-dung von vorhandenen Basistypen mittels ***<xs:import>, <xs:include/>*** oder ***<xs:redefine/>*** erreicht.
+und SCIPHOX definierten Typen bzw. Elementen anzustreben. Dies wird durch die Einbin-dung von vorhandenen Basistypen mittels
 
-### Ableitungen von Basistypen werden mit <xs:restriction (Einschränkung) oder <xs:extension>
+### Ableitungen von Basistypen werden mit
 
 (Erweiterung) vorgenommen. Nur mit diesen Mechanismen kann die Qualität der erstellten
 
 ### Schemas sichergestellt werden.
 
-### Im Header können Datentypen nur mit Option <xs:restriction (Einschränkung) wiederverwen-
+### Im Header können Datentypen nur mit Option
 
 det werden. Es ist nicht zulässig den Header zu erweitern, das wird vom Parser als Fehler  gemeldet. Damit soll sichergestellt werden, dass mögliche Header-Implementierung nur eine
 
@@ -2329,7 +2282,7 @@ det werden. Es ist nicht zulässig den Header zu erweitern, das wird vom Parser 
 
 ### Beispiel:
 
-<xs:simpleType name="gebuehrenordnung_typ
+<xs:simpleType name="gebuehrenordnung_typ">
 
 <xs:restriction base="xs:string">
 
@@ -2339,19 +2292,19 @@ det werden. Es ist nicht zulässig den Header zu erweitern, das wird vom Parser 
 
 <xs:enumeration value="03"/>
 
-</xs:restriction
+</xs:restriction>
 
 </xs:simpleType>
 
 anstatt
 
-<xs:simpleType name="go_mit_string_typ
+<xs:simpleType name="go_mit_string_typ">
 
 <xs:restriction base="xs:string">
 
 <xs:pattern value="0[1 -3]"/>
 
-</xs:restriction
+</xs:restriction>
 
 </xs:simpleType>
 
@@ -2362,6 +2315,10 @@ Wenn davon auszugehen ist, dass solche Enumerationen ständigem Wandel unterlieg
 ### 8.4.2 Schlüsseltabellen
 
 Als Schlüsseltabellen sind Listen von Code-Wert-Paaren anzusehen, welche über einen län-geren Zeitraum normalerweise unverändert bleiben. Solche Schlüsseltabellen können entwe-
+
+***<xs:import>, <xs:include/>*** oder ***<xs:redefine/>*** erreicht.  ***<xs:restriction>*** (Einschränkung) oder ***<xs:extension>***
+
+***<xs:restriction>*** (Einschränkung) wiederverwen-
 
 
 ---
@@ -2425,7 +2382,7 @@ Es besteht zwar nicht die Notwendigkeit zusätzlich ein Klammerungselement (..._
 
 <xs:element name="element_liste">
 
-<xs:complexType
+<xs:complexType>
 
 <xs:sequence>
 
@@ -2433,7 +2390,7 @@ Es besteht zwar nicht die Notwendigkeit zusätzlich ein Klammerungselement (..._
 
 </xs:sequence>
 
-</xs:complexType
+</xs:complexType>
 
 </xs:element>
 
@@ -2467,11 +2424,13 @@ Als Kollektionen werden Konstrukte in XML-Dateien bezeichnet, in denen Elemente 
 
 <body>
 
-<stammsatz></stammsatz
+<stammsatz></stammsatz>
 
-<stammsatz></stammsatz ...
+<stammsatz></stammsatz>
 
-<stammsatz></stammsatz
+...
+
+<stammsatz></stammsatz>
 
 </body>
 
@@ -2492,15 +2451,17 @@ Diese Kollektionen können mit einem umschließenden Element versehen werden, we
 
 <body>
 
-<stammsatz_liste
+<stammsatz_liste>
 
-<stammsatz></stammsatz
+<stammsatz></stammsatz>
 
-<stammsatz></stammsatz ...
+<stammsatz></stammsatz>
 
-<stammsatz></stammsatz
+...
 
-</stammsatz_liste
+<stammsatz></stammsatz>
+
+</stammsatz_liste>
 
 </body>
 
@@ -2548,7 +2509,7 @@ Das Ziel dieses Rahmens ist, bei der großen Anzahl von verschiedenen angepasste
 
 Vorgehensweise bei der Erstellung der xy-ehd-Schnittstellen:
 
-1. xy_root-Schema definieren, welches von der ehd_root.xsd mit ***<xs:restriction*** abgelei-tet ist.
+1. xy_root-Schema definieren, welches von der ehd_root.xsd mit ***<xs:restriction>*** abgelei-tet ist.
 2. xy_header-Schema definieren, welches von der ehd_header.xsd mit ***<xs:restriction>***  abgeleitet ist.
 3. xy_body-Schema definieren.
 -  alle Schemas können eigene Typebibliotheken verwenden.
@@ -2557,9 +2518,9 @@ Mit dieser Vorgehensweise kann mit dem XML-Parser (Xerces) sichergestellt werden
 
 Detaillierte Anmerkungen zum Erstellen der Bereiche Root, Header und Body:
 
--  Im Root-Element ist die Anpassung nur mit ***<xs:restriction*** (Einschränkung) vorzuneh-men. Das Root-Element kann auf einen beliebigen Datentyp verweisen, der jedoch  vom Basisdatentyp abgeleitet ist. Dazu wird neues Schema erstellt und das xy_root  Element vom Typ: ehd_root_typ abgeleitet.
+-  Im Root-Element ist die Anpassung nur mit ***<xs:restriction>*** (Einschränkung) vorzuneh-men. Das Root-Element kann auf einen beliebigen Datentyp verweisen, der jedoch  vom Basisdatentyp abgeleitet ist. Dazu wird neues Schema erstellt und das xy_root  Element vom Typ: ehd_root_typ abgeleitet.
 -  Im Header ist die Anpassung auch nur mit ***<xs:restriction>*** (Einschränkung) erlaubt.  Das Header-Element kann auf einen beliebigen Datentyp verweisen, der jedoch vom  Basisdatentyp abgeleitet ist. Damit können alle Header-Elemente auf die spezielle xy-Schnittstelle eingeschränkt werden. Dazu wird neues Schema erstellt und das  xy_header Element vom Typ: ehd_header_typ abgeleitet. Schnittstellenspezifische  Elemente können nur an vorgesehen Stellen ***<local_header>*** hinzugefügt werden. Wie  im Kapitel 4.14 zu <local_header> beschrieben ist, wird der Basistyp: local_header-cont.model mit ***<xs:restriction>***  eingeschränkt und die schnittstellenspezifische Elemen-te können hinzugefügt werden.
--  Im Body-Bereich wird der Basistyp: ehd_body_typ ebenfalls mit ***<xs:restriction*** einge-schränkt. Analog zu <local_header> (Kapitel 4.14 ) wird das ***<any>*** Element mit eigent-lichen schnittstellenspezifischen Elemente ersetzt. Für den Body-Bereich kann auch  neues Schema erstellt werden.
+-  Im Body-Bereich wird der Basistyp: ehd_body_typ ebenfalls mit ***<xs:restriction>***  einge-schränkt. Analog zu <local_header> (Kapitel 4.14 ) wird das ***<any>*** Element mit eigent-lichen schnittstellenspezifischen Elemente ersetzt. Für den Body-Bereich kann auch  neues Schema erstellt werden.
 -  Das ***<keytabs >***-Element ist unverändert zu übernehmen.
 
 ---
@@ -2576,7 +2537,7 @@ Das Schema „xy_root.xsd“ schränkt das „ehd_root.xsd“ ein. Gleichzeitig 
 
 ### Es werden im Folgendem drei Beispiele für die Ableitungen der Bereiche Root, Header und  Body vorgestellt:
 
-Der Code für die <xs:restriction -Ableitung des Roots sieht im xy_root.xsd wie folgt aus:
+Der Code für die <xs:restriction>-Ableitung des Roots sieht im xy_root.xsd wie folgt aus:
 
 <xs:schema targetNamespace="urn:ehd/001" ...
 
@@ -2593,7 +2554,7 @@ Der Code für die <xs:restriction -Ableitung des Roots sieht im xy_root.xsd wie 
 
 <xs:complexType name="xy_root_typ">
 
-<xs:complexContent
+<xs:complexContent>
 
 <xs:restriction base="ehd_root_typ">
 
@@ -2601,33 +2562,33 @@ Der Code für die <xs:restriction -Ableitung des Roots sieht im xy_root.xsd wie 
 
 <xs:element name="header" type="xy_header_typ">
 
-<xs:element name="body" type="xy_body_typ
+<xs:element name="body" type="xy_body_typ">
 
 <xs:element ref="keytabs" minOccurs="0"/>
 
-</xs:restriction
+</xs:restriction>
 
-</xs:complexContent
+</xs:complexContent>
 
-</xs:complexType
+</xs:complexType>
 
 **XML-Code 46 xy_root.xsd**
 
-Es wird ein neuer Datentyp („xy_root _typ“) definiert, der eine Einschränkung des Basisdaten-typs (hier „ehd_root_typ“) darstellt. Die Einschränkung wird mit ***<xs:restriction*** erreicht. Jetzt  können weitere Typen verwendet werden, die auch einen eingeschränkten Basisdatentyp  darstellen. Z.B. xy_header.typ und xy_body_typ.
+Es wird ein neuer Datentyp („xy_root _typ“) definiert, der eine Einschränkung des Basisdaten-typs (hier „ehd_root_typ“) darstellt. Die Einschränkung wird mit ***<xs:restriction>*** erreicht. Jetzt  können weitere Typen verwendet werden, die auch einen eingeschränkten Basisdatentyp  darstellen. Z.B. xy_header.typ und xy_body_typ.
 
 Das blockDefault-Attribut ist hier bewusst angegeben, weil Substituierung von Kindelementen  im Root-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte den einen oder  anderen Schnittstellenentwickler dazu veranlassen, diese Lücke für seine Schnittstelle aus-
 
 ### zunutzen.
 
-Der Code für die <xs:restriction -Ableitung des Headers sieht im xy_header.xsd wie folgt aus:
+Der Code für die <xs:restriction>-Ableitung des Headers sieht im xy_header.xsd wie folgt aus:
 
 <xs:schema targetNamespace="urn:ehd/001" ...
 
 ... blockDefault="substitution">
 
-<xs:complexType name="xy_header_typ
+<xs:complexType name="xy_header_typ">
 
-<xs:complexContent
+<xs:complexContent>
 
 <xs:restriction base="ehd_header_typ">
 
@@ -2645,17 +2606,17 @@ Der Code für die <xs:restriction -Ableitung des Headers sieht im xy_header.xsd 
 
 ...
 
-</xs:restriction
+</xs:restriction>
 
-</xs:complexContent
+</xs:complexContent>
 
-</xs:complexType
+</xs:complexType>
 
-<xs:complexType name="xy_document_type_cd_typ
+<xs:complexType name="xy_document_type_cd_typ">
 
-<xs:complexContent
+<xs:complexContent>
 
-<xs:restriction base="document_type_cd_typ
+<xs:restriction base="document_type_cd_typ">
 
 <xs:attribute name="V" use="required">
 
@@ -2665,17 +2626,17 @@ Der Code für die <xs:restriction -Ableitung des Headers sieht im xy_header.xsd 
 
 <xs:enumeration value="SDKT"/>
 
-</xs:restriction
+</xs:restriction>
 
 </xs:simpleType>
 
 </xs:attribute>
 
-</xs:restriction
+</xs:restriction>
 
-</xs:complexContent
+</xs:complexContent>
 
-</xs:complexType
+</xs:complexType>
 
 **XML-Code 47 xy_header.xsd**
 
@@ -2688,17 +2649,17 @@ Hier wird auch neuer Datentyp („xy_header_typ“) definiert, der eine Einschr�
 
 Die spezielle Einschränkung für den „xy_document_type_cd_typ“ Typ erfolgt über das V-
 
-### Attribut mit <xs:enumeration :“SDKT“.
+### Attribut mit <xs:enumeration > :“SDKT“.
 
 Auch hier ist das blockDefault-Attribut bewusst angegeben, weil Substituierung von allen  Elementen im Header-Bereich nicht erlaubt ist. Das Weglassen dieser XML-Prüfung könnte  den einen oder anderen Schnittstellenentwickler dazu veranlassen, diese Lücke für seine
 
 ### Schnittstelle auszunutzen.
 
-Der Code für die <xs:restriction -Ableitung des Body sieht im xy_body.xsd wie folgt aus:
+Der Code für die <xs:restriction>-Ableitung des Body sieht im xy_body.xsd wie folgt aus:
 
-<xs:complexType name="xy_body_typ
+<xs:complexType name="xy_body_typ">
 
-<xs:complexContent
+<xs:complexContent>
 
 <xs:restriction base="ehd_body_typ">
 
@@ -2712,11 +2673,11 @@ Der Code für die <xs:restriction -Ableitung des Body sieht im xy_body.xsd wie f
 
 </xs:sequence>
 
-</xs:restriction
+</xs:restriction>
 
-</xs:complexContent
+</xs:complexContent>
 
-</xs:complexType
+</xs:complexType>
 
 ### Die Einschränkung für den Body-Bereich erfolgt über das
 
@@ -2724,17 +2685,17 @@ Der Code für die <xs:restriction -Ableitung des Body sieht im xy_body.xsd wie f
 
 ### schen Elemente hinzugefügt werden.
 
+**XML-Code 48 xy_body.xsd**
+
+***<xs:sequence >***
+
 Mit diesem Verfahren ist es dem Parser möglich komplette Schemas auf die Einhaltung der  ehd-Kriterien zu überprüfen. Nachteil dieser Vorgehensweise ist, dass beim Headerdefinition  alle schnittstellenspezifischen Datentypen explizit von Basisdatentypen abgeleitet werden  müssen. Ein Datentyp, welcher nicht aus einem ehd-Basisdatentyp hervorgeht, wird als Feh-ler ausgewiesen. Der Schnittstellenentwickler ist damit auf die konsequente Ableitung von  Basisdatentypen angewiesen. Das neudefinierte Schema wird durch die zahlreichen Ablei-tungen schnell unübersichtlich und schwernachvollziehbar.
 
 Auf der anderen Seite werden mögliche Fehler im Schema und die Nichteinhaltung der ehd-Kriterien sofort vom Parser erkannt. Dieses Vorgehen trägt viel zur Qualitätssicherung der  Schemas bei. Beim ersten Entwurf von eigenen Schemas wird der Parser sicherlich viele  Fehler melden, weil nicht alle Datentypen konsequent abgeleitet wurden. Aber mit der Zeit  werden alle Flüchtigkeitsfehler beseitigt und der Nutzen der automatischen Sicherstellung der
 
 ### Schemaqualität wird die Entwicklungsschwierigkeiten überwiegen.
 
-**XML-Code 48 xy_body.xsd**
-
-***<xs:sequence >*** können die eigentlichen schnittstellenspezifi-
-
-***<xs:restriction>*** des Basistyps:
+***<xs:restriction>*** des Basistyps:  können die eigentlichen schnittstellenspezifi-
 
 
 ---
@@ -2785,11 +2746,11 @@ Bei Anregungen zur Erweiterung, Änderung, Korrektur dieser Richtlinie senden Si
 
 [2] [XML Schema Part 1: Structures, W3C Recommendation 2 May 2001,](http://www.w3.org/TR/xmlschema-0/)
 
-[URL:](http://www.w3.org/TR/xmlschema-1/)[http://www.w3.org/TR/xmlschema](http://www.w3.org/TR/xmlschema-1/)[-1/](http://www.w3.org/TR/xmlschema-1/)
+[URL:](http://www.w3.org/TR/xmlschema-1/)[http://www.w3.org/TR/xmlschema-1/](http://www.w3.org/TR/xmlschema-1/)
 
 [3] [XML Schema Part 2: Datatypes, W3C Recommendation 2 May 2001,](http://www.w3.org/TR/xmlschema-1/)
 
-[URL:](http://www.w3.org/TR/xmlschema-2/)[http://www.w3.org/TR/xmlschema](http://www.w3.org/TR/xmlschema-2/)[-2/](http://www.w3.org/TR/xmlschema-2/)
+[URL:](http://www.w3.org/TR/xmlschema-2/)[http://www.w3.org/TR/xmlschema-2/](http://www.w3.org/TR/xmlschema-2/)
 
 [4] [SCIPHOX - Standardisation of Communication between Information Systems in Phy-](http://www.w3.org/TR/xmlschema-2/) sician’s Offices and Hospitals using XML, Working Draft 15, Oktober 2002,  [URL:](http://www.sciphox.de/)[http://www.sciphox.de/](http://www.sciphox.de/)[](http://www.sciphox.de/)
 

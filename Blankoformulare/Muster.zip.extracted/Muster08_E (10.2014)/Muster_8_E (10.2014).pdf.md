@@ -1,12 +1,22 @@
+**geb. am**
+
 **Krankenkasse bzw. Kostenträger**
+
+**Status**
 
 **Name, Vorname des Versicherten**
 
-**Versicherten-Nr. Arzt-Nr.**
+**Datum** **Versicherten-Nr. Arzt-Nr.**
 
 **Kostenträgerkennung**
 
-**Betriebsstätten-Nr.** **Befund:**
+**ja**
+
+**Erst-**
+
+**nein** **Betriebsstätten-Nr. Befund:**
+
+**ja**
 
 **0,5 Dioptrien**
 
@@ -16,47 +26,37 @@
 
 **Wenn nein, wird eine Verbesserung der Seh-**
 
-**Diagnose/Begründung:** **Menge und Art der Verordnung:**
+**Diagnose/Begründung:**
+
+**Menge und Art der Verordnung:**
+
+**Basis** **Achse**
+
+**Scheitel-**
 
 **Prisma**
 
 **Sphäre**
 
-**Scheitel-**
+**10-stellige**
 
-**Zylinder** **R** **FL**
+**Zylinder**
+
+**abstand**
+
+**R** **FL**
 
 **R** **NL**
+
+**L**
 
 **R**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**geb. am**
-
-**Status**
-
-**Datum**
-
-**ja**
-
-**nein**
-
-**ja**
-
-**Basis**
-
-**Achse**
-
-**abstand**
-
-**L**
-
 **IK des Leistungserbringers** **Rechnungsnummer** **Sehhilfenverordnung**
 
 **Belegnummer**
-
-**Erst-**
 
 **versorgung**
 
@@ -70,9 +70,9 @@
 
 **leiden (BVG)**
 
-**Sehbehinderung** **Reparatur** **mindestens WHO 1**
+**Sehbehinderung**
 
-**10-stellige**
+**Reparatur** **mindestens WHO 1**
 
 **Hilfsmittelpositionsnummer**
 
@@ -86,23 +86,15 @@
 
 **Erklärung des Versicherten**
 
-**8**
-
-**Unterschrift des Versicherten**
-
-**(bei Erstversorgung oder Verlust der Sehhilfe)**
-
-**Euro**
-
 **Datum**
 
-**dass ich bisher noch keine Sehhilfe gehabt habe** **in Höhe von**
+**dass ich bisher noch keine Sehhilfe gehabt habe**
+
+**in Höhe von**
 
 **Ersatz**
 
 **dass meine bisherige Sehhilfe verlorengegangen ist**
-
-**Stempel der Krankenkasse und Unterschrift**
 
 **Die Kosten werden übernommen**
 
@@ -116,32 +108,46 @@
 
 **Glas / Gläser bzw. Kontaktlinsen**
 
-**e** **ang** **passt.**
+**e** **ang**
 
 **igung ab**
 
-**Unterschrift des Empfängers (Vor- und Zuname)**
+**passt.**
 
-**gegeben und** **Empfangsbestät** **Datum**
+**Empfangsbestät** **Datum**
 
 **der Verordnung entspricht.**
 
-**Die Sehhilfe wurde gemäß vorstehender**
-
-**Stempel und Unterschrift des Leistungserbringers**
-
-**Die**
-
-**PRF.NR.**
+**Die Sehhilfe wurde gemäß vorstehender** **Die**
 
 **Ich versichere, dass die gelieferte Sehhilfe**
 
+**Bescheinigung des Leistungserbringers** **Lieferung anderer Ware**
+
+**Der Barcode enthält keine auf dem Formular nicht le** **Diese Verordnung ist kein Gutschein für einen bestiZur Beachtung für den Versicherten**
+
+**8**
+
+**Unterschrift des Versicherten**
+
+**(bei Erstversorgung oder Verlust der Sehhilfe)**
+
+**Euro**
+
+**Stempel der Krankenkasse und Unterschrift**
+
+**gegeben und**
+
+**Unterschrift des Empfängers (Vor- und Zuname)**
+
+**Stempel und Unterschrift des Leistungserbringers**
+
+**PRF.NR.**
+
 **mmten Betrag.**
 
-**nicht gestattet.** **sbaren Daten.** **Bescheinigung des Leistungserbringers**
+**nicht gestattet.** **sbaren Daten.**
 
-**Muster 8/E (10.2014)** **Lieferung anderer Ware**
+**Muster 8/E (10.2014)**
 
 **anstelle der verordneten Sehhilfen ist**
-
-**Der Barcode enthält keine auf dem Formular nicht le** **Diese Verordnung ist kein Gutschein für einen besti** **Zur Beachtung für den Versicherten**

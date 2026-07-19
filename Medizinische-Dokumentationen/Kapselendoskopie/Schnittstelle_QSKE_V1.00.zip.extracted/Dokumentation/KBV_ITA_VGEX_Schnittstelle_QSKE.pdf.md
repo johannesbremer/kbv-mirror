@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Schnittstellenbeschreibung QS* |
-|  | [KBV_ITA_VGEX_Schnittstelle_QS |
+|  | [KBV_ITA_VGEX_Schnittstelle_QSKE] |
 |  | ** |
-|  | Dezernat |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Kapselendoskopie KE] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status: 
+Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status: 
 
 
 ---
@@ -248,7 +248,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -282,7 +282,7 @@ Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kind
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-<?xml version="1.0" encoding="ISO -8859-15"?>
+<?xml version="1.0" encoding="ISO-8859-15"?>
 
 <ehd xmlns="urn:ehd/001" xmlns:qske="urn:ehd/qske/001" ehd_version="1.40">
 
@@ -315,9 +315,7 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese S
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD]
-
-Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
 [KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-mente eingeschränkt:
 
@@ -325,17 +323,22 @@ Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 - o Im EX-Attribut steht eine eindeutige id (GUID)
 - o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
 
+[KBV_ITA_VGEX_eHD]
+
+-  Im *document_type_cd*
+-  Das  eine Korrekturlieferung erfolgt.
+
 **Abbildung 2 - Element id**
 
--  Im *document_type_cd*-Element wurde der Dokumenttyp festgelegt:
+- -Element wurde der Dokumenttyp festgelegt:
 - o im V-Attribut ist der Wert: „QSKE“ fest vorgeschrieben.
 
 **Abbildung 3 - Element document_type_cd**
 
--  Das  eine Korrekturlieferung erfolgt.  *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
+- *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
 - o Das Element *document_relationship/document_relationship.type_cd* V-Attribut den Wert „RPLC“
-- enthält im
 - o Das Element *document_relationship/related_document/id*  auf das *id*-Element des Ursprungsdokuments.
+- enthält im
 - enthält den Verweis
 
 **Abbildung 4 - Element document_relationship**
@@ -381,7 +384,7 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSKE"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSKE" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Kapselendoskopie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSKE"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSKE" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Kapselendoskopie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
 ---
 
@@ -405,13 +408,15 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 <sciphox:id EX="X/60/0801/36/103" RT="KBV-Prüfnummer"/>
 
 **XML-Code 5 - id (Software)**
+
+*EX* und *RT*. Das *EX*-Attribut erhält
 
 
 ---

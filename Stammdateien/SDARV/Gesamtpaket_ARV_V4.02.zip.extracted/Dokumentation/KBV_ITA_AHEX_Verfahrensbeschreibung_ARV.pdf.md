@@ -3,15 +3,15 @@
 |  | *Verfahrensbeschreibung zur* |
 |  | [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] |
 |  | ** |
-|  | Dezernat |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  Digitalisierung und IT -Lewin-Platz 2 2.02 Datum: 14.08.2019 Kennzeichnung: Öffentlich Status: In Kraft 
+Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  2.02 Datum: 14.08.2019 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
@@ -25,7 +25,7 @@ Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  Dig
 | 2.00 | 28.09.2016 | KBV | Anpassung der Verfahrensweise |  | **5, 6** |
 | 1.08 | 03.08.2013 | KBV | Redaktionelle Korrektur |  | **6** |
 
-Klarstellung der Bereitste lungsfristen Redaktionelle Änderungen Anpassung der Kapitel 1, Punkt 6. und Kapitel 3, Punkt 6 an Änderungen der ARV- Schnittstelle Kapitel 1, Punkt 6 entfallen bzgl. des Medikationskataloges l-
+Klarstellung der Bereitstel- lungsfristen Redaktionelle Änderungen Anpassung der Kapitel 1, Punkt 6. und Kapitel 3, Punkt 6 an Änderungen der ARV- Schnittstelle Kapitel 1, Punkt 6 entfallen bzgl. des Medikationskataloges 
 
 
 ---
@@ -71,9 +71,7 @@ Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte siche
 
 ---
 
-Mit der Kennzeichnung “*Name Leerzeichen Sternchen* dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Handels-name denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han-delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als “Omeprazol  *“ in der Kategorie Standardaggregat oder eine Kennzeichnung als “Omeprazol rati-opharm *“ in der Kategorie Handelsnamen zu machen. In der Kategorie Standardag-gregat muss das Sternchen zwingend angegeben werden, in der Kategorie Handels-name jedoch bei vollständiger Angabe des Handelsnamens nicht.
-
-„ wird ein bestimmtes Stan-
+Mit der Kennzeichnung “*Name Leerzeichen Sternchen*„ wird ein bestimmtes Stan-dardaggregat definiert. Grundsätzlich ist diese Angabe auch in der Kategorie Handels-name denkbar, faktisch verwischt sich damit jedoch der Unterschied zwischen Han-delsname und Standardaggregat. Es ist denkbar, eine Kennzeichnung als “Omeprazol  *“ in der Kategorie Standardaggregat oder eine Kennzeichnung als “Omeprazol rati-opharm *“ in der Kategorie Handelsnamen zu machen. In der Kategorie Standardag-gregat muss das Sternchen zwingend angegeben werden, in der Kategorie Handels-name jedoch bei vollständiger Angabe des Handelsnamens nicht.
 
 5. Bei Angabe von Standardaggregaten und Handelsnamen sind die Sonderzeichen für  Trademark ™ oder für Registrierung  nicht mit anzugeben. Die Sonderzeichen sind  durch ein Leerzeichen zu ersetzen.
 6. Hinweistexte sollten möglichst kurz gehalten werden. Bitte begrenzen Sie möglichst  auch die Anzahl und Länge der PDF-Dokumente, die beispielsweise bei dem Elemen-ten *<behandlungsalternativenregelung>* hinterlegt werden können. Alternativ könnten  Sie einen Internet-Link angeben, bei dem sich der Arzt das entsprechende Dokument  herunterladen kann.

@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 13. MÄRZ 2024   VERSION: 4.06   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. MÄRZ 2024   VERSION: 4.06   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  CHRONIC OBSTRUSIVE PULMONARY  DISEASE (COPD)
@@ -34,15 +34,11 @@ BUNDESVEREINIGUNG      IT IN DER ARZTPRAXIS
 
 **6** **BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese- und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  Aktueller FEV -Wert (alle 6 sechs bis 12 zwölf Monate) 1 Klinische Einschätzung des Osteoporoserisikos durchgeführt 6.1.6 Abschnitt „Relevante Ereignisse“  6.1.7 Abschnitt „Medikamente“  Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika  Lang wirksame Anticholinergika  Inhalationstechnik überprüft  6.1.7.5 Sonstige diagnosespezifische Medikation  6.1.8 Abschnitt „Schulung“  COPD-Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen 6.1.9 Abschnitt „Behandlungsplanung“  6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse 6.1.9.2 Dokumentationsintervall
+6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese- und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  Aktueller FEV -Wert (alle 6 sechs bis 12 zwölf Monate) 1 Klinische Einschätzung des Osteoporoserisikos durchgeführt  6.1.6 Abschnitt „Relevante Ereignisse“  6.1.7 Abschnitt „Medikamente“  Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika  Lang wirksame Anticholinergika  Inhalationstechnik überprüft  6.1.7.5 Sonstige diagnosespezifische Medikation  6.1.8 Abschnitt „Schulung“  COPD-Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen 6.1.9 Abschnitt „Behandlungsplanung“  6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse  6.1.9.2 Dokumentationsintervall
 
-**9**  **10**  **11**  11  11  12  **13**  **14**  14  **14**  15  16  17  17  18  18  18  19  19  20  21  21  22  22  22  23  23 24  24  24
+**9**  **10**  **11**  11  11  12  **13**  **14**  14  **14**  15  16  17  17  18  18  18  19  19  20  21  21  22  22  22  23  23  24  24  24 25  26  26  27  27  28  28
 
-25  26  26  27  27  28  28
-
-28  29
-
-30  30
+28  29  30  30
 
 
 ---
@@ -111,7 +107,7 @@ COPD-bezogene Über- bzw. Einweisung veranlasst
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 11  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 11  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 12  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 20  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 22  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 23  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (KURZ WIRKSAME BETA-2-SYMPATHOMIMETIKA UND/ODER  ANTICHOLINERGIKA) ................................................................................................................................................ 25  **TABELLE 8:** WERTE BEI ERGEBNISTEXT (LANG WIRKSAME BETA-2-SYMPATHOMIMETIKA) ............................................ 26  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (LANG WIRKSAME ANTICHOLINERGIKA) ............................................................ 26  **TABELLE 10** WERTE BEI ERGEBNISTEXT (INHALATIONSTECHNIK ÜBERPRÜFT) ............................................................... 27  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (SONSTIGE DIAGNOSESPEZIFISCHE MEDIKATION) ........................................... 27  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (COPD-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)) ........... 28  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (SCHULUNG SCHON VOR DER EINSCHREIBUNG IN EIN DMP BEREITS  WAHRGENOMMEN) ................................................................................................................................................. 29  **TABELLE 14:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ....................................................................................................................................................... 30  **TABELLE 15:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 30  **TABELLE 16:** WERTE BEI ERGEBNISTEXT (COPD-BEZOGENE ÜBER- BZW. EINWEISUNG VERANLASST) ........................... 31  **TABELLE 17:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZUM TABAKVERZICHT AUSGESPROCHEN) ............................... 31  **TABELLE 18:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZUR TEILNAHME AN TABAKENTWÖHNUNGSPROGRAMM  AUSGESPROCHEN) ................................................................................................................................................... 32  **TABELLE 19:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZUM KÖRPERLICHEN TRAINING AUSGESPROCHEN) ................ 32  **TABELLE 20:** WERTE BEI ERGEBNISTEXT (AN EINEM TABAKENTWÖHNUNGSPROGRAMM SEIT DER LETZTEN  EMPFEHLUNG TEILGENOMMEN) ............................................................................................................................. 36  **TABELLE 21:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG WAHRGENOMMEN ) .............................................. 38
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 11  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 11  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 12  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 20  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 22  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 23  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (KURZ WIRKSAME BETA-2-SYMPATHOMIMETIKA UND/ODER  ANTICHOLINERGIKA) ................................................................................................................................................ 25  **TABELLE 8:** WERTE BEI ERGEBNISTEXT (LANG WIRKSAME BETA-2-SYMPATHOMIMETIKA) ............................................ 26  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (LANG WIRKSAME ANTICHOLINERGIKA) ............................................................ 26  **TABELLE 10** WERTE BEI ERGEBNISTEXT (INHALATIONSTECHNIK ÜBERPRÜFT) ............................................................... 27  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (SONSTIGE DIAGNOSESPEZIFISCHE MEDIKATION) ........................................... 27  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (COPD-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)) ........... 28  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (SCHULUNG SCHON VOR DER EINSCHREIBUNG IN EIN DMP BEREITS  WAHRGENOMMEN) ................................................................................................................................................. 29  **TABELLE 14:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ....................................................................................................................................................... 30  **TABELLE 15:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 30  **TABELLE 16:** WERTE BEI ERGEBNISTEXT (COPD-BEZOGENE ÜBER- BZW. EINWEISUNG VERANLASST) ........................... 31  **TABELLE 17:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZUM TABAKVERZICHT AUSGESPROCHEN) ............................... 31  **TABELLE 18:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZUR TEILNAHME AN TABAKENTWÖHNUNGSPROGRAMM  AUSGESPROCHEN) ................................................................................................................................................... 32  **TABELLE 19:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZUM KÖRPERLICHEN TRAINING AUSGESPROCHEN) ................ 32  **TABELLE 20:** WERTE BEI ERGEBNISTEXT (AN EINEM TABAKENTWÖHNUNGSPROGRAMM SEIT DER LETZTEN  EMPFEHLUNG TEILGENOMMEN) ............................................................................................................................. 36  **TABELLE 21:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG WAHRGENOMMEN) .............................................. 38
 
 |  |  |
 |---|---|
@@ -196,7 +192,7 @@ Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt:
 
 zusammen.
 
-- Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert Allgemein hat das Präfix den folgenden Aufbau:
+- Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert.  Allgemein hat das Präfix den folgenden Aufbau:
 - AAAAAAAAA_BBBBBBB_JJJJMMTT
 
 (die 7 Stellen für die DMP-Fallnummer sind nicht fest vorgeschrieben, es können auch kürzere Nummern  sein).
@@ -218,9 +214,9 @@ Beispiele:
 
 ---
 
-# 3 SEMANTIK DER VERWENDETEN DIAGRAMM
+# 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
 
-Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen.
 
 ## 3.1 KARDINALITÄT
 
@@ -237,7 +233,7 @@ Es existieren verschiedene Kardinalitäten:
 
 ## 3.2 STRUKTURELEMENTE
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelement
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
 
 |  |  |
 |---|---|
@@ -245,11 +241,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
 |  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
-**Tabelle 2:** Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-# -SYMBOLE
-
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.e verwendet: <xs:choice> und <xs:sequence>.
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 |  |  |
 |---|---|
@@ -266,12 +260,12 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 | **Symbol** | **Beschreibung** |
 |  | *Element mit Kindelementen * Ein Element mit einem oder mehreren Kindelementen wird durch ein |
 |  | *Referenzelement * Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
-|  | *Datentyp* Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert ei |
+|  | *Datentyp* Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. nen Datentyp.  welches mehrere Elemente zusammenfasst.
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
 |  |  |
 |---|---|
@@ -289,7 +283,7 @@ Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind
 
 **Abbildung 1:** Grundstruktur levelone
 
-Folgender Code ist für diese Elemente zwingend vorgeschrieben
+Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 \| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"        **  **   </levelone> |
 \|---|
@@ -312,13 +306,13 @@ xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi="http://www.w3.org/2001/XMLS
 
 ## 5.1 UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP COPD
 
-Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des  Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP] durchzuführen.
+Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des  Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
 # 6 BODY DER „ERSTMALIGEN DOKUMENTATION“
 
 In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst  enthält ein Element <section>.
 
-Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
+Der Aufbau des Elements <body> ist in
 
 **Abbildung 2:** Grundstruktur body
 
@@ -329,9 +323,11 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
 **XML-Code 2**: body
 
-<section> </section>
+] durchzuführen.
 
-|  |  |
+Abbildung 2 dargestellt.
+
+<section> </section> |  |  |
 |---|---|
 
 
@@ -353,16 +349,16 @@ Eine Sektion enthält kann die Abschnitte „Administrative Daten“, „Anamnes
 
 ### 6.1.1 caption
 
-Das Element <caption> besteht nur aus dem erfo Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
 
-Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section>  aus (siehe XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschriften aus dem Datensatz.
+Attribut des  „Administrative Daten“, „Anamnese
+
+Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section>  aus (siehe
+
+wie folgt  XML-Code 3). Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den  Abschnittsüberschriften aus dem Datensatz.
 
 \| <section>                                                                                 </paragraph>      <caption>     </caption>         </section> |
 \|---|
-
-rderlichen Kindelement <caption_cd>. Im DN Attribut des  „Administrative Daten“, „Anamnese
-
-wie folgt
 
 <paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>**XML-Code 3:** section
 
@@ -381,7 +377,7 @@ Für die Darstellung von Daten von COPD („erstmalige Dokumentation“ und Verl
 \| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1"> **     </content> |
 \|---|
 
-**XML-Code 4:** content mit sciphox -SSU (observation)
+**XML-Code 4:** content mit sciphox-SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
 
@@ -535,7 +531,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut
 
 ### 6.1.5.3 Raucher
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 5
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 5
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -548,8 +544,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Ja |
 \| Nein |
-
-<sciphox:Ergebnistext> im
 
 **Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
@@ -575,8 +569,6 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 16:** Blutdruck diastolisch
 
-*V*-Attribut die Feldbezeichnung
-
 *V* Attribut den „systolischen Wert“
 
 <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" />*V* Attribut den „diastolischen Wert“
@@ -589,7 +581,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.6 Begleiterkrankungen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -609,13 +601,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Asthma bronchiale |
 \| Chronische Herzinsuffizienz |
 
-*V*-Attribut die Feldbezeichnung  werden.
-
 **Tabelle 6:** Werte bei Ergebnistext (Begleiterkrankungen)
 
 ### Aktueller FEV -Wert (alle 6 sechs bis 12 zwölf Monate) 1
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  *U* Attribut den fest vorgeschriebenen Wert „Prozent des Soll-Wertes“, wenn ein Wert gemessen wurde  (siehe XML-Code 18). Wenn kein Wert gemessen wurde, so wird anstelle Element <sciphox:Ergebnistext> mit dem vorgeschriebenen V Attributwert „Nicht durchgeführt“ verwendet (siehe XML-Code 19
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „FEV1 Wert“ und im  *U* Attribut den fest vorgeschriebenen Wert „Prozent des Soll-Wertes“, wenn ein Wert gemessen wurde  (siehe XML-Code 18). Wenn kein Wert gemessen wurde, so wird anstelle von <sciphox:Ergebniswert> ein  Element <sciphox:Ergebnistext> mit dem vorgeschriebenen V-Attributwert „Nicht durchgeführt“ verwendet  (siehe XML-Code 19
 
 Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 
@@ -624,13 +614,9 @@ Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 
 **XML-Code 18:** Aktueller FEV -Wert (alle 6 sechs bis 12 zwölf Monate) 1
 
-Als Beispiel bei nicht durchgeführter Messung sei hier folgender Code angegeben:
+<sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (alle 6 sechs bis 12 zwölf Monate)"/> <sciphox:Ergebniswert V="110.0" U="Prozent des Soll-Wertes"/>Als Beispiel bei nicht durchgeführter Messung sei hier folgender Code angegeben:
 
-*V* Attribut den „FEV Wert“ und im 1
-
-von <sciphox:Ergebniswert> ein
-
-<sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (alle 6 sechs bis 12 zwölf Monate)"/> <sciphox:Ergebniswert V="110.0" U="Prozent des Soll-Wertes"/>|  |  |
+|  |  |
 |---|---|
 
 
@@ -693,7 +679,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Keine |
 \| Kontraindikation |
 
-**Tabelle 7:** Werte bei Ergebnistext (Kurz wirksame Beta -2-Sympathomimetika und/oder  Anticholinergika )
+**Tabelle 7:** Werte bei Ergebnistext (Kurz wirksame Beta-2-Sympathomimetika und/oder  Anticholinergika)
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lang wirksame Beta-2-Sympathomimetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lang wirksame Anticholinergika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Inhalationstechnik überprüft"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige diagnosespezifische Medikation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika"/> <sciphox:Ergebnistext V="Keine"/>|  |  |
 |---|---|
@@ -703,14 +689,12 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Lang wirksame Beta-2-Sympathomimetika
 
-Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 8. Wenn bei diesem Parameter mehrere Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 8. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-*V*-Attribut die Feldbezeichnung  Werte ausgewählt wurden, können mehrere
 
 **XML-Code 23:** Lang wirksame Beta-2-Sympathomimetika
 
@@ -721,11 +705,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Keine |
 \| Kontraindikation |
 
-**Tabelle 8:** Werte bei Ergebnistext ( Lang wirksame Beta -2-Sympathomimetika
+**Tabelle 8:** Werte bei Ergebnistext (Lang wirksame Beta-2-Sympathomimetika
 
 ### Lang wirksame Anticholinergika
 
-Bei diesem Parametern enthält das Element gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben
+Bei diesem Parametern enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -741,9 +725,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Keine |
 \| Kontraindikation |
 
-**Tabelle 9:** Werte bei Ergebnistext ( Lang wirksame Anticholinergika
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  werden.
+**Tabelle 9:** Werte bei Ergebnistext (Lang wirksame Anticholinergika
 
 <sciphox:Parameter DN="Lang wirksame Beta-2-Sympathomimetika"/> <sciphox:Ergebnistext V="Keine"/> <sciphox:Parameter DN="Lang wirksame Anticholinergika"/> <sciphox:Ergebnistext V="Keine"/>|  |  |
 |---|---|
@@ -827,13 +809,13 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 12:** Werte bei Ergebnistext (COPD -Schulung empfohlen (bei aktueller Dokumentation))
+**Tabelle 12:** Werte bei Ergebnistext (COPD-Schulung empfohlen (bei aktueller Dokumentation))
 
 ### Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 13
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="COPD-Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V="Ja"/>Als Beispiel sei hier folgender Code angegeben:
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="COPD-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>Als Beispiel sei hier folgender Code angegeben:
 
 |  |  |
 |---|---|
@@ -864,7 +846,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 \| <content>       <sciphox:Beobachtungen>                                                       </content> |
 \|---|
 
-<sciphox:Parameter DN="Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V="Nein"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 30:** content (Behandlungsplanung)
+<sciphox:Parameter DN="Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V="Nein"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 30:** content (Behandlungsplanung)
 
 |  |  |
 |---|---|
@@ -874,7 +856,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### 6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -893,7 +875,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.9.2 Dokumentationsintervall
 
-Bei diesem Parameter enthält das Element < gemäß Tabelle 15
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -907,21 +889,15 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Quartalsweise |
 \| Jedes zweite Quartal |
 
-**Tabelle 15:** Werte bei Ergebnistext ( Dokumentationsintervall)
+**Tabelle 15:** Werte bei Ergebnistext (Dokumentationsintervall)
 
 ### COPD-bezogene Über- bzw. Einweisung veranlasst
 
-Bei diesem Parameter enthält das Element  gemäß Tabelle 16
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 16
 
-Als Beispiel sei hier folgender Code angegeben:
+<sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  werden.
-
-sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-<sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote <sciphox:Ergebnistext V="Körperliches Training “/> der Krankenkasse "/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> |  |  |
+|  |  |
 |---|---|
 
 
@@ -937,11 +913,11 @@ sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 \| Ja |
 \| Nein |
 
-**Tabelle 16:** Werte bei Ergebnistext ( COPD-bezogene Über- bzw. Einweisung veranlasst)
+**Tabelle 16:** Werte bei Ergebnistext (COPD-bezogene Über- bzw. Einweisung veranlasst)
 
 ### Empfehlung zum Tabakverzicht ausgesprochen
 
-Bei diesem Parameter enthält das Element < gemäß Tabelle 17
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 17
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -955,11 +931,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 17:** Werte bei Ergebnistext ( Empfehlung zum Tabakverzicht
+**Tabelle 17:** Werte bei Ergebnistext (Empfehlung zum Tabakverzicht ausgesprochen)
 
 ### Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen
 
-Bei diesem Parameter enthält das Element < gemäß Tabelle 18
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 18
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -968,13 +944,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 35:** Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen
 
-sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+*V*-Attribut die Feldbezeichnung
 
-ausgesprochen)
+<sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> *V*-Attribut die Feldbezeichnung
 
-sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-<sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen <sciphox:Ergebnistext V="Nein"/> "/> |  |  |
+|  |  |
 |---|---|
 
 
@@ -985,7 +959,7 @@ sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 \| Ja |
 \| Nein |
 
-**Tabelle 18:** Werte bei Ergebnistext ( Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm  ausgesprochen)
+**Tabelle 18:** Werte bei Ergebnistext (Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm  ausgesprochen)
 
 ### Empfehlung zum körperlichen Training ausgesprochen
 
@@ -1003,9 +977,9 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 19:** Werte bei Ergebnistext ( Empfehlung zum körperlichen Training ausgesprochen
+**Tabelle 19:** Werte bei Ergebnistext (Empfehlung zum körperlichen Training ausgesprochen)
 
-<sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen "/> <sciphox:Ergebnistext V="Nein"/>
+<sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/>
 
 |  |  |
 |---|---|
@@ -1043,7 +1017,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Häufigkeit von Exazerbationen seit der letzten Dokumentation "/> <sciphox:Ergebniswert V=". . ." U Anzahl “/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Dokumentation "/> <sciphox:Ergebniswert V=". . ." U Anzahl “/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Häufigkeit von Exazerbationen seit der letzten Dokumentation "/> <sciphox:Ergebniswert V="2" U Anzahl “/>**XML-Code 38**: Häufigkeit von Exazerbationen seit der letzten Dokumentation
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Häufigkeit von Exazerbationen seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U Anzahl “/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U Anzahl “/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Häufigkeit von Exazerbationen seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="2" U Anzahl “/>**XML-Code 38**: Häufigkeit von Exazerbationen seit der letzten Dokumentation
 
 |  |  |
 |---|---|
@@ -1066,7 +1040,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal drei bis maximal sieben Kindelemente < sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelemente <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal drei bis maximal sieben Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelemente <sciphox:Ergebnistext>.
 
 <sciphox:Parameter DN=" Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="6" U="Anzahl"/> Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -1099,9 +1073,9 @@ Siehe Kapitel 6.1.9.4
 
 ### Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen
 
-Siehe Kapitel 6.1.9.5
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Siehe Kapitel 6.1.9.5
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="COPD-bezogene Über- bzw. Einweisung veranlasst"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
+|  |  |
 |---|---|
 
 
@@ -1109,14 +1083,16 @@ Siehe Kapitel 6.1.9.5
 
 ### An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 20
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
+
+gemäß Tabelle 20
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 41:** An einem Tabakentwöhnungsprogramm seit der letzten
+**XML-Code 41:** An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -1124,15 +1100,15 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 \| War aktuell nicht möglich |
 
+*V*-Attribut die Feldbezeichnung
+
 **Tabelle 20:** Werte bei Ergebnistext (An einem Tabakentwöhnungsprogramm seit der letzten  Empfehlung teilgenommen)
 
 ### Empfehlung zum körperlichen Training ausgesprochen
 
 Siehe Kapitel 6.1.9.6
 
-*V*-Attribut die Feldbezeichnung
-
-<sciphox:Parameter DN="An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen <sciphox:Ergebnistext V="War aktuell nicht möglich"/> "/> Empfehlung teilgenommen
+<sciphox:Parameter DN="An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen "/> <sciphox:Ergebnistext V="War aktuell nicht möglich"/>
 
 |  |  |
 |---|---|
@@ -1181,7 +1157,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| War aktuell nicht möglich |
 \| Bei letzter Dokumentation keine Schulung |
 
-**Tabelle 21:** Werte bei Ergebnistext ( Empfohlene Schulung wahrgenommen)
+**Tabelle 21:** Werte bei Ergebnistext (Empfohlene Schulung wahrgenommen)
 
 empfohlen
 

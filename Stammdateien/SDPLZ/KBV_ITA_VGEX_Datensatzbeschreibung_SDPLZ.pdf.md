@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Datensatzbeschreibung SDPLZ* |
-|  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ |
+|  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ] |
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-(PLZ-Stammdatei) -Lewin-Platz 2 1.06 Datum: 10.08.2016 Kennzeichnung: Öffentlich Status: In Kraft
+(PLZ-Stammdatei) 1.06 Datum: 10.08.2016 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
@@ -125,7 +125,7 @@ Der Dateiname der PLZ-Stammdatei setzt sich gemäß dem folgenden Schema zusamme
 | **1** | **2** | **3** |  | **4** | **5** |  | **6** | **7** | **.** | **1** | **2** | **3** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-| **PLZ74_1.202** | ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ -Stammdatei geliefert |
+| **PLZ74_1.202** | ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ-Stammdatei geliefert |
 |---|---|
 
 mit Beginn des 2. Quartals 2002 eingesetzt werden muss. wird. 

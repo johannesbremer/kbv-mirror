@@ -6,12 +6,9 @@
 
 ---
 
-## Verbindlichkeit der ePA -Nutzung zum 1.10.2025
+## Verbindlichkeit der ePA-Nutzung zum 1.10.2025
 
-## - Wegen der fehlenden Umsetzung wurde die „Verbindlichkeit“ der
-
-ePA -Nutzung durch BM  Lauterbach für den 1.10. angesetzt.
-
+- Wegen der fehlenden Umsetzung wurde die „Verbindlichkeit“ der ePA-Nutzung durch BM  Lauterbach für den 1.10. angesetzt.
 - Das bedeutet: Ab dem 1.10. greifen die Befüllungspflichten des § 347 SGB V.
 
 
@@ -25,9 +22,7 @@ ePA -Nutzung durch BM  Lauterbach für den 1.10. angesetzt.
 
 ## Daten stehen in elektronischer Form bereit
 
-## Es liegt kein Widerspruch des Patienten vor – weder gegen die ePA
-
-insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
+Es liegt kein Widerspruch des Patienten vor – weder gegen die ePA  insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 
 ## Ausnahme: Dringende therapeutische Gründe (KBV-Richtlinie)
 
@@ -36,15 +31,15 @@ insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 
 ## Befüllung der ePA - Pflichtdaten
 
-## - Daten zu Anwendungsfällen nach
+## - Daten zu Anwendungsfällen nach § 342 Abs. 2a, 2b, 2c SGB V (§ 347 Abs. 1
 
-**§ 342 Abs. 2a, 2b, 2c SGB V (** im semantisch und syntaktisch interoperabler Form verarbeitet werden
+im semantisch und syntaktisch interoperabler Form verarbeitet werden
+
+## - soweit diese Daten
 
 ## - Kurzfristig: Medikationsplan, Medikationsliste, Patientenkurzakte
 
-## - Daten nach
-
-**§ 347 Abs. 2 SGB V (Aktuell wesentliche**
+## - Daten nach § 347 Abs. 2 SGB V (Aktuell wesentliche Befüllungspflicht !)
 
 ## - Laborbefunde,
 
@@ -54,37 +49,28 @@ aus bildgebender Diagnostik
 
 ## - Befundberichte
 
-aus invasiven/chirurgischen und nicht
+aus invasiven/chirurgischen und nicht-invasiven/konservativen Maßnahmen
 
-## - eArztbriefe
-
-/Entlassbriefe
-
-## - Befüllungspflicht
-
-- -invasiven/konservativen Maßnahmen
-- **§ 347 Abs. 1** soweit diese Daten
+## - eArztbriefe/Entlassbriefe
 
 
 ---
 
 ## Befüllung der ePA - Weitere Daten (Wunschdaten)
 
-## - Einstellung auf Verlangen des Versicherten (
-
-**§ 347 Abs. 4)**
+## - Einstellung auf Verlangen des Versicherten (§ 347 Abs. 4)
 
 ## - Medizinische Informationen über den Versicherten (Daten zu Befunden, Therapiemaßnahmen,
 
-## - Früherkennungsuntersuchungen, Behandlungsberichte und sonstige untersuchungs
+## - Früherkennungsuntersuchungen, Behandlungsberichte und sonstige untersuchungs- und
 
-- und  behandlungsbezogene medizinische Informationen, Medikationsplan, Patientenkurzakte,
+behandlungsbezogene medizinische Informationen, Medikationsplan, Patientenkurzakte,
 
-## - eArztbriefe
+## - eArztbriefe)
 
 - Ebenso z.B. eKinderuntersuchungsheft, eImpfpass, eMutterpass, Daten zur pflegerischen
 
-## - Versorgung, Medikationsplan/Liste, AU -Bescheinigung, DMP-Daten
+## - Versorgung, Medikationsplan/Liste, AU-Bescheinigung, DMP-Daten
 
 
 ---
@@ -136,42 +122,28 @@ aus invasiven/chirurgischen und nicht
 
 ## Derzeit Ausgestaltung von Übergangsregelungen
 
-## - Da sich KOB
-
--Zertifikate immer wieder ergeben werden, ist aus Sicht der KBV regelmäßig eine  Übergangsfrist geboten, um den Grundsatz der Verhältnismäßigkeit zu wahren:
-
+- Da sich KOB-Zertifikate immer wieder ergeben werden, ist aus Sicht der KBV regelmäßig eine  Übergangsfrist geboten, um den Grundsatz der Verhältnismäßigkeit zu wahren:
 - Die KBV verhandelt derzeit eine Richtlinie, die die Frage der Übergangsfrist adressieren wird.
-
-## - Darüber hinaus wird das Problem der Arztgruppen, die keinen Arzt
-
--/Patientenkontakt haben,  über eine KBV-RL gelöst werden.
+- Darüber hinaus wird das Problem der Arztgruppen, die keinen Arzt-/Patientenkontakt haben,  über eine KBV-RL gelöst werden.
 
 
 ---
 
 ## Befüllungspflichten: Probleme
 
-## - Die Befüllungspflichten
-
-des § 347 SGB V sehen neben dem Widerspruch des Patienten keine
+## - Die Befüllungspflichten des § 347 SGB V sehen neben dem Widerspruch des Patienten keine
 
 ## - Ausnahmen vor.
 
-- Führte zu Problemen insb. bei Psychotherapeuten und Kinder
+- Führte zu Problemen insb. bei Psychotherapeuten und Kinder- und Jugendärzten.
 
 ## - Lösung über KBV-Richtlinie, die in bestimmten Konstellationen (Kindeswohlgefährdung,
 
-dringende therapeutische Gründe) eine Ausnahme von den
+dringende therapeutische Gründe) eine Ausnahme von den Befüllungspflichten vorsah.
 
 ## - Derzeit adressiert durch den Gesetzgeber selbst.
 
 ## - Wichtig ist: Immer Dokumentation im Primärsystem erforderlich.
-
-- - und Jugendärzten.
-
-## - Befüllungspflichten
-
-vorsah.
 
 
 ---

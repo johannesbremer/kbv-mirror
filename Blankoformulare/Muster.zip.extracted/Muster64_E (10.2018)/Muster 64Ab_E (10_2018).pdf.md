@@ -26,22 +26,29 @@
 
 **gemäß § 24 SGB V** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
 
-**II. Vorsorgebedürftigkeit**
-**A. Kurze Angaben zur Anamnese**
+**VorsorgebedürftigkeitII.** **A. Kurze Angaben zur Anamnese**
 
-**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung ac*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigene***
+**B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung achten, Hausarbeiten erledigen,*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigenen Interessen und Hobbies nachgehen)***
 
-**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind** **Mehrfachbelastung**
+**C. Kontextfaktoren, die für die mütter-/väterspezifische Problemkonstellation relevant sind**
+
+**andere Kontextfaktoren; ggf. nähere Erläuterungen**
+
+**PRF.NR.** **Muster 64 Ab/E (10.2018)**
+
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+
+**Mehrfachbelastung**  **durch Beruf/Familie**
 
 **fehlende Anerkennung**
 
 **Tod des Partners/** **naher Angehöriger**
 
-**durch Beruf/Familie**
-
 **der Mutter-/Vaterrolle**
 
-**mangelnde Unterstützung Partner-/ Eheprobleme/**
+**mangelnde Unterstützung**
+
+**Partner-/ Eheprobleme/**
 
 **Arbeitsplatz/in der Schule**
 
@@ -87,15 +94,7 @@
 
 **der Frau / des Mannes in der** **Kinder, frühgeborene Kinder, Mehrlingsgeburten**
 
-**andere Kontextfaktoren; ggf. nähere Erläuterungen**
-
 **Ausfertigung für den Arzt**
-
-**PRF.NR.** **Muster 64 Ab/E (10.2018)**
-
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-***hten, Hausarbeiten erledigen,*** ***n Interessen und Hobbies nachgehen)***
 
 **Teenager-**
 

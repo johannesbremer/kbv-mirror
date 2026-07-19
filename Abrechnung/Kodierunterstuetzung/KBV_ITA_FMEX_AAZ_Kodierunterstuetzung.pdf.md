@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 1.3   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 1.3   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  KODIERUNTERSTÜTZUNG
@@ -50,7 +50,7 @@ Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -61,26 +61,24 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 |  |  |
 |---|---|
 | **Bezeichnung** |  |
 | **Identnummer [die letzten drei** |  |
 | Zertifizierungsgegenstand wird in den folgenden Bereich eingesetzt? | |
-| ☐ | Der Zertifizierungsgegenstand, wird a |
+| ☐ | Der Zertifizierungsgegenstand, wird ausschließlich zur Erstellung |
 | ☐ | Der Zertifizierungsgegenstand wird ausschließlich zur Erstellung |
 
-1.1
-
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] von Direktabrechnungen gemäß §§ 115b, 116b und 120 Abs. 3 SGB V verwendet. von selektivvertraglichen Abrechnungen verwendet. vorhanden) des Zertifizierungsgegenstandes an.
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] von Direktabrechnungen gemäß §§ 115b, 116b und 120 Abs. 3 SGB V verwendet. von selektivvertraglichen Abrechnungen verwendet.  
 
 
 ---
 
 ## 1.4 BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -93,19 +91,17 @@ Bitte geben Sie im Folgenden an, welche Client
 
 |  |  |
 |---|---|
-| ☐ | Alle Pflichtfunktionen/ Konditionale Pflichtfunktion in Abhängigkeit |
+| ☐ | Alle Pflichtfunktionen/ Konditionale Pflichtfunktion in Abhängigkeit des Einsatzbereiches des |
 
-## 2.2
+## 2.2 REALISIERTE OPTIONALE FUNKTIONEN
 
-Folgende optionale Funktionen sind gem. Anforderungskatalog
+Folgende optionale Funktionen sind gem. Anforderungskatalog Kodierunterstützung realisiert.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-## REALISIERTE OPTIONALE FUNKTIONEN
-
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION LT. ANFORDERUNGSKATALOG |
 |---|---|
 |  |  |
 |  |  |
@@ -114,9 +110,7 @@ Folgende optionale Funktionen sind gem. Anforderungskatalog
 |  |  |
 |  |  |
 
--Betriebssysteme unterstützt werden.
-
-Anforderungskataloges Kodierunterstützung sind realisiert. des Einsatzbereiches des LT. ANFORDERUNGSKATALOGKodierunterstützung realisiert.
+Anforderungskataloges Kodierunterstützung sind realisiert. 
 
 
 ---
@@ -141,6 +135,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
+
 
 ---
 
@@ -168,7 +163,7 @@ Diese Information ist verpflichtend anzugeben
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
 
 ---
@@ -176,9 +171,9 @@ Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus d
 - **IV.** **Sonstiges**
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
-- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand er
+- (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hers zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 |  |  |  |
 |---|---|---|
@@ -193,6 +188,3 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-- stellten Daten zurückweisen können.
-- teller- und

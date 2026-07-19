@@ -19,7 +19,7 @@ Ob und welche Felder in diesem Abschnitt anzukreuzen sind, hängt individuell vo
 
 Die Prüfung einer Therapieoptimierung ist bei allen Versicherten notwendig, insbesondere dann,  wenn dauerhaft kein Potenzial auf Beatmungsentwöhnung oder Dekanülierung vorhanden ist. In  diesem Feld sollen Maßnahmen angegeben werden, die aus ärztlicher Sicht notwendig sind, um  die Therapie zu optimieren.
 
-- **(5)** **Innerhalb von mindestens zwei Jahren […] regelmäßige Erhebung des Beat -** **mungsentwöhnungspotenzials bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.**
+- **(5)** **Innerhalb von mindestens zwei Jahren […] regelmäßige Erhebung des Beat-** **mungsentwöhnungspotenzials bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.**
 
 W enn keine Aussicht auf nachhaltige Besserung der zu Grunde liegenden Funktionsstörung  besteht und eine Dekanülierung oder Beatmungsentwöhnung dauerhaft nicht möglich ist, kann  die Erhebung entfallen. Voraussetzung ist, dass dies innerhalb eines Gesamtverordnungszeitraums  der Potenzialbeobachtung von mindestens zwei Jahren zweimal in Folge auf der Grundlage einer  unmittelbar persönlichen (nicht telemedizinischen) Erhebung durch die potenzialerhebende Ärztin  oder den potenzialerhebenden Arzt festgestellt und dokumentiert wurde.
 
@@ -45,12 +45,8 @@ Hier ist anzugeben, wann die nächste Erhebung terminiert wurde. Dieses Datum be
 
 ---
 
-| Muster | 62B: | Verordnung auß e | rklin ischerIn te nsiv pfle ge |
-|---|---|---|---|
-| **Muster 62B: Verordnung auß** | **e rklin ischerIn** | **te nsiv** | **pfle ge** |
-|  |  |  | 4 |
+#### Muster 62B: Verordnung außerklinischer Intensivpflege
 
-Muster 62B: Verordnung außerklinischer Intensivpflege
 
 ---
 
@@ -72,7 +68,7 @@ Bei der Erstverordnung soll ein Zeitraum von 5 Wochen nicht überschritten werde
 
 Folgeverordnungen können für bis zu sechs Monate ausgestellt werden. Besteht dauerhaft kein  Potenzial auf eine Beatmungsentwöhnung oder Dekanülierung, können Folgeverordnungen für bis  zu 12 Monate ausgestellt werden. Folgeverordnungen sind spätestens drei Arbeitstage vor Ablauf  des verordneten Zeitraums auszustellen.
 
-- **5.)** **Vorabinformation aus dem Krankenhaus vor Entlassung gemäß § 10 Abs. 4 Satz 2 AKI -** **Richtlinie (fakultativ I bis III; nur durch Krankenhaus anzugeben)**
+- **5.)** **Vorabinformation aus dem Krankenhaus vor Entlassung gemäß § 10 Abs. 4 Satz 2 AKI-** **Richtlinie (fakultativ I bis III; nur durch Krankenhaus anzugeben)**
 
 Dieses Feld ist ausschließlich für eine Nutzung durch Krankenhäuser im Zuge des  Entlassmanagements vorgesehen.
 
@@ -93,7 +89,7 @@ Anzugeben ist die täglich erforderliche Anzahl der Stunden, in denen die ständ
 
 **III. Weitere Hinweise**
 
-- **9.)** **Innerhalb von mindestens zwei Jahren […] regelmäßige Erhebung des Beat -** **mungsentwöhnungspotenzials bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.**
+- **9.)** **Innerhalb von mindestens zwei Jahren […] regelmäßige Erhebung des Beat-** **mungsentwöhnungspotenzials bzw. Dekanülierungspotenzials ist nicht mehr angezeigt.**
 
 Hier können die Ausführungen des Musters **62A** aus dem Feld „Innerhalb von mindestens zwei  Jahren […] regelmäßige Erhebung des Beatmungsentwöhnungspotenzials bzw.  Dekanülierungspotenzials ist nicht mehr angezeigt.“ übernommen werden.
 

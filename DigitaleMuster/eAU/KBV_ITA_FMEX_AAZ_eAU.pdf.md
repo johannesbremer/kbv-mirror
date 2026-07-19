@@ -1,14 +1,12 @@
-# ANTRAG AUF ZERTIFIZIERUNG
+# ANTRAG AUF ZERTIFIZIERUNG EAU
 
 ## [KBV_ITA_FMEX_AAZ_EAU]
 
 Seite 1 von 8 / KBV / Antrag auf Zertifizierung eAU / 15. Mai 2024
 
-# EAU
-
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**   **IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **15. MAI 2024**
 
@@ -69,13 +67,11 @@ Sonstiges
 
 ---
 
-Antragssteller:
-
 **1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
-**Bestell- bzw. Auftragsnummer des**   **Antragsstellers**
+**Bestell- bzw. Auftragsnummer des**  **Antragsstellers**
 
 **Name**
 
@@ -89,19 +85,17 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 **Bezeichnung**
 
-**Identnummer [die letzten drei**
-
-**Stellen der Prüfnummer, falls**  **vorhanden]**
+**Identnummer [die letzten drei**  **Stellen der Prüfnummer, falls**  **vorhanden]**
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 Windows
 
-iOS/Android 1.1.
+iOS/Android
 
--Betriebssysteme unterstützt werden.
+Antragssteller:
 
 Mac OS
 
@@ -116,17 +110,20 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-|  | Der Antragsteller | versichert, dass alle Pflichtfunktionender☐ Technischen Anlage |
-|---|---|---|
-|  |  | [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen |
-|  | Arbeitsbescheinigungen | erfüllt sind. |
-| **2.1** | **REALISIERTE** | **OPTIONALE FUNKTIONEN EAU** |
-|  | Folgende optionale eAU | Funktionen sind gem. der Technischen Anlage |
-|  | [KBV_ITA_VGEX_Technische_Anlage_eAU] | realisiert. |
-|  | KEINE | ALLE☐☐ Laut nachfolgenderListe☐ |
-|  | **IDENT-NUMMER** | **BEZEICHNUNG DER OPTIONALEN EAU FUNKTION LT. TECHNISCHER ANLAGE EAU** |
+Der Antragsteller versichert, dass alle Pflichtfunktionen der Technischen Anlage   [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen  Arbeitsbescheinigungen erfüllt sind.
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der Arbeitsbescheinigungen erfüllt sind. REALISIERTE OPTIONALE FUNKTIONEN Folgende optionale eAU Funktionen sind gem. der Technischen Anlage [KBV_ITA_VGEX_Technische_Anlage_eAU] realisiert. Laut nachfolgender Liste
+**2.1** **REALISIERTE OPTIONALE FUNKTIONEN EAU**
+
+Folgende optionale eAU Funktionen sind gem. der Technischen Anlage  [KBV_ITA_VGEX_Technische_Anlage_eAU] realisiert.
+
+KEINE
+
+ALLE
+
+**IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN EAU FUNKTION LT. TECHNISCHER ANLAGE EAU**
+
+Laut nachfolgender Liste
+
 
 ---
 
@@ -207,7 +204,7 @@ Ergebnisprüfung 481,67   Rezertifizierung
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 ---
 
@@ -235,7 +232,7 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 Antragssteller:
 

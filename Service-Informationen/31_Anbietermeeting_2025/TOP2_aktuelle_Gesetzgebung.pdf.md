@@ -88,7 +88,7 @@
 
 nachhaltige Stabilisierung der Finanzen von GKV und SPV durch die kostendeckende
 
-## - Refinanzierung der Gesundheitsversorgung von Bürgergeld
+## - Refinanzierung der Gesundheitsversorgung von Bürgergeld-Beziehenden durch den Bund
 
 ## - Keine
 
@@ -105,7 +105,6 @@ vollständige Erstattung der vorgestreckten Corona-Kosten
 ## - Sozialstaatsreform
 
 - **HAUSHALT**
-- -Beziehenden durch den Bund
 
 
 ---
@@ -117,9 +116,7 @@ vollständige Erstattung der vorgestreckten Corona-Kosten
 
 ## „Ambulant passgenau versorgt“: Kernpunkte
 
-## - Steuerung durch Hausärzte, Kinder
-
-- und Jugendärzte sowie
+## - Steuerung durch Hausärzte, Kinder- und Jugendärzte sowie
 
 ## - Gynäkologen
 
@@ -158,27 +155,21 @@ Veröffentlicht am 26.05.
 
 als „digitale Multi-Channel-Versorgungsplattform“;  mehr Möglichkeiten für Versicherte, ihr Anliegen selbst digital in die Hand zu nehmen.
 
-## - Für die ambulante Akut
-
-- und Notdienstversorgung bedarf es einer angemessenen  **Vorhaltefinanzierung, inkl. digitaler Zugänge**
+- Für die ambulante Akut- und Notdienstversorgung bedarf es einer angemessenen  **Vorhaltefinanzierung, inkl. digitaler Zugänge**
 - Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
 - **NOTFALLVERSORGUNG**
 
 
 ---
 
-|  |  |  | ↗ DIGITAL UND NAH |
-|---|---|---|---|
-|  | **Positionspapier** | **Digitalisierung** | **beschlossen auf der VV im Mai 2025** |
-|  |  |  | **SIEBEN THEMENFELDER** |
-| *Erarbeitet in* | *einem* | *gemeinsamen* |  |
-| *Prozess mit* | *der VV* | *12/24-05/25* |  |
-| Weitere | Informationen | unter www.kbv.de/digitalisierung |  |
-|  |  |  | Plus **FÜNF KERNFORDERUNGEN** |
-| **AKTUELLE** |  | **BUNDESGESETZGEBUNG** | SEITE 13 |
-| 31. | ANBIETERMEETING | AM 18. SEPTEMBER 2025 |  |
+## Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025
 
-Positionspapier Digitalisierung beschlossen auf der VV im Mai 2025
+- **DIGITAL UND NAH**
+
+## Plus FÜNF KERNFORDERUNGEN
+
+[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
+
 
 ---
 

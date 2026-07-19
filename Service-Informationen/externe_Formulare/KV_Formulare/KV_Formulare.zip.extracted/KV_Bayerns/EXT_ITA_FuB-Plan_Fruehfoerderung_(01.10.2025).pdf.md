@@ -20,6 +20,10 @@ geb. am
 
 Positionsnummer Status
 
+Rechnungsnummer Beleg Nr.
+
+Faktor/Anzahl
+
 Betriebsstätten-Nr. Arzt-Nr.
 
 Datum
@@ -32,11 +36,13 @@ Name, Vorname
 
 Telefonnummer
 
-## Förder- und Behandlungsplan für Komplexleistungen
+Abweichende Adresse von Versichertendaten
+
+## Förder- und Behandlungsplan für Komplexleistungen gemäß Rahmenvertrag zur Früherkennung
 
 und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)  - für **Ärztin / Arzt** / Frühförderstelle / Personensorgeberechtigte / Kostenträger
 
-oErstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher **Beginn**
+o Erstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher **Beginn**: ________________________ (Datum)
 
 **Zusammenfassendes Ergebnis der (Eingangs-) Diagnostik und Bedarfsermittlung**
 
@@ -70,21 +76,35 @@ o
 
 o
 
-Offenes Beratungsangebot wurde durchgeführt oja
+o Behandlung SIFS* erforderlich
 
-onein Komplexleistung ist notwendig
+Offenes Beratungsangebot wurde durchgeführt o ja
 
-oja
+o nein Komplexleistung ist notwendig
 
-onein
+o ja
+
+o nein
 
 Form und Umfang der Behandlung:
 
 ambulante
 
-ambulante  **Einzel**behandlung
+ambulante
+
+**mobile**
+
+kann als  **Einzel**behandlung
 
 **Gruppen**behandlung
+
+**Einzel**behandlung
+
+**Doppel-BE** er-
+
+gemäß § 6a FrühV
+
+bracht werden
 
 Physiotherapie
 
@@ -92,17 +112,29 @@ __ BE o je Monat
 
 __ BE o je Monat
 
+__ BE o je Monat
+
+o
+
 o o Stimm-, Sprech-,
 
 __ BE o je Monat
 
-__ BE o je Monat  Sprach- und Schlucktherapie o Ergotherapie
+__ BE o je Monat
+
+__ BE o je Monat
+
+o Sprach- und Schlucktherapie o Ergotherapie
 
 __ BE o je Monat
 
 __ BE o je Monat
 
-__ BE (im Bewilligungszeitraum)
+__ BE o je Monat
+
+o
+
+__ BE (im Bewilligungszeitraum) __ BE (im Bewilligungszeitraum)
 
 __ BE (im Bewilligungszeitraum)
 
@@ -110,38 +142,11 @@ o psychologische/  heilpädagogische Leistungen  (incl. evtl. psychosozialer Lei
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
 
-Rechnungsnummer Beleg Nr.
-
-Faktor/Anzahl
-
-Abweichende Adresse von Versichertendaten
-
-gemäß Rahmenvertrag zur Früherkennung
-
-: ________________________ (Datum)
-
-o Behandlung SIFS* erforderlich
-
-**mobile**  **Einzel**behandlung  gemäß § 6a FrühV
-
-__ BE o je Monat  __ BE o je Monat
-
-__ BE o je Monat
-
-__ BE (im Bewilligungszeitraum)
-
-kann als  **Doppel-BE** er-bracht werden
-
-o o
-
-o
-
 
 ---
 
-|  | ___________________________________ | _______________________________________________________________ |
-|---|---|---|
-| **Ärztin / Arzt** (Stempel, | Unterschrift, Datum) | **Interdisziplinäre Frühförderstelle / SIFS*** (Stempel, Unterschrift, Datum) |
-| * SIFS = | sinnesbehinderungsspezifische, überregionale | interdisziplinäre Frühförderstellen |
+___________________________________  **Ärztin / Arzt** (Stempel, Unterschrift, Datum)
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
+
+_______________________________________________________________ **Interdisziplinäre Frühförderstelle / SIFS*** (Stempel, Unterschrift, Datum)

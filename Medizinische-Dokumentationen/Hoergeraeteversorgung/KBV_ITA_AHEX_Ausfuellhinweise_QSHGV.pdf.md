@@ -16,7 +16,7 @@
 |  |  | **Liste der Infoboxen:** |
 |  |  | **Infobox** |
 | **Text** | (Vor) Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
-| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hö r- | APHAB-Bogen |
+| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- | APHAB-Bogen |
 | Der APHAB-Bogen (Abbreviated Profile of Hearing Aid Benefit) ist ein In- | | |
 |  |  | **Liste der Ausfüllhinweise:** |
 |  |  | **Nr.  Eingabefeld** |
@@ -28,7 +28,7 @@
 | Infobox | Text |
 |---|---|
 | (Vor) Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
-| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hö r- |
+| Nach Verordnung | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- |
 | APHAB-Bogen | Der APHAB-Bogen (Abbreviated Profile of Hearing Aid Benefit) ist ein In- |
 
 nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen bei Schwerhörigkeit (entsprechend der GOP 09372). geräteversorgung beim Jugendlichen oder Erwachsenen (entsprechend der GOP 09373). strument zur Bewertung der Qualität der Hörgeräteversorgung. Der Bogen wurde 1995 in den USA von Cox. Et al. entwickelt und wird dort bereits seit Jahren eingesetzt (Cox RM, Alexander GC (1995) The Abbreviated Profile of Hearing Aid Benefit. Ear Hear 16: 176–86). weise eingefügt. enten für Sie ggf. reidentifizierbar sein müssen. opt Patienten. gramm.
@@ -41,7 +41,7 @@ nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen 
 | Sprachverständlichkeitsschwelle (Göttinger Satztest, | Bitte tragen Sie den Hörverlust in dB ein. | 30. |
 | Nutzen (Verbesserung der Hörfä- | | |
 | Bitte beantworten Sie nach Möglichkeit alle Fragen. | **APHAB-Bogen** |  |
-| Sowohl | Bitte tragen Sie hier die Antworten des Patienten ein. | A: immer  B: fast immer  C: häufig |
+| Sowohl beim APHAB-Bogen vor | Bitte tragen Sie hier die Antworten des Patienten ein. | A: immer  B: fast immer  C: häufig |
 | D: in der Hälfte der Fälle | E: gelegentlich | F: selten  G: nie |
 |  |  |  |
 |  |  |  |
@@ -60,6 +60,6 @@ nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen 
 | 27. | dB (SVS) | Sprachverständlichkeitsschwelle (Göttinger Satztest,  Bitte tragen Sie den Hörverlust in dB ein. |
 | 30. | Nutzen (Verbesserung der Hörfä- | Bitte beantworten Sie nach Möglichkeit alle Fragen. |
 | **APHAB-Bogen** | | |
-|  | Sowohl | Bitte tragen Sie hier die Antworten des Patienten ein.  A: immer  B: fast immer  C: häufig  D: in der Hälfte der Fälle  E: gelegentlich  F: selten  G: nie |
+|  | Sowohl beim APHAB-Bogen vor | Bitte tragen Sie hier die Antworten des Patienten ein.  A: immer  B: fast immer  C: häufig  D: in der Hälfte der Fälle  E: gelegentlich  F: selten  G: nie |
 
-(rechts / links) Freifeld mit Hörgerät(en) higkeit) beim APHAB-Bogen vor der Hörgeräteversorgung als auch nach der Hörgeräteversorgung oder nach Ihrer Einschätzung Vertäubung des normalhörigen Ohres) gramm. Oldenburger Satztest) Dies ist wichtig für die Errechnung der Verbesserung der Hörfähigkeit. Dabei bedeuten:
+(rechts / links) Freifeld mit Hörgerät(en) higkeit) der Hörgeräteversorgung als auch nach der Hörgeräteversorgung oder nach Ihrer Einschätzung Vertäubung des normalhörigen Ohres) gramm. Oldenburger Satztest) Dies ist wichtig für die Errechnung der Verbesserung der Hörfähigkeit. Dabei bedeuten:

@@ -7,7 +7,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2022   VERSION: 4.46   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# SCHNITTSTELLENBESCHR ASTHMA BRONCHIALE  EIBUNG
+# SCHNITTSTELLENBESCHREIBUNG  ASTHMA BRONCHIALE
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_ASTHMA]
 
@@ -198,7 +198,7 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
 |  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
-**Tabelle 2:** Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. 
 
@@ -309,7 +309,7 @@ Für die Darstellung von Daten von Asthma bronchiale („erstmalige Dokumentatio
 \| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1"> **     </content> |
 \|---|
 
-**XML-Code 4:** content mit sciphox -SSU (observation)
+**XML-Code 4:** content mit sciphox-SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
 
@@ -317,7 +317,7 @@ Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobac
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
-**Abbildung 4:** Aufbau Sciphox -SSU observation
+**Abbildung 4:** Aufbau Sciphox-SSU observation
 
 <local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> 
 
@@ -421,7 +421,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt Anamnese- und Befunddaten
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal acht bis maximal elf Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal acht bis maximal elf Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -548,7 +548,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 18:** In den letzten 4 Wochen: Häufigkeit von Asthma -Symptomen tagsüber
+**XML-Code 18:** In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -558,7 +558,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| < 1 mal wöchentlich |
 \| Keine |
 
-**Tabelle 7:** Werte bei Ergebnistext ( In den letzten 4 Wochen: Häufigkeit von Asthma -Symptomen  tagsüber)
+**Tabelle 7:** Werte bei Ergebnistext (In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen  tagsüber)
 
 <sciphox:Parameter DN="In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber"/> <sciphox:Ergebnistext V="Häufiger als 2 mal wöchentlich "/>*V*-Attribut die Feldbezeichnung
 
@@ -584,7 +584,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| &lt; 1 mal wöchentlich |
 \| Keine |
 
-**Tabelle 8:** Werte bei Ergebnistext ( In den letzten 4 Wochen: Häufigkeit des Einsatzes der  Bedarfsmedikation )
+**Tabelle 8:** Werte bei Ergebnistext (In den letzten 4 Wochen: Häufigkeit des Einsatzes der  Bedarfsmedikation)
 
 ### 6.1.5.9 In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale
 
@@ -606,7 +606,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation <sciphox:Ergebnistext V="Häufiger als 2 mal wöchentlich"/> "/> <sciphox:Parameter DN="In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale <sciphox:Ergebnistext V="Ja"/> "/>*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN="In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation"/> <sciphox:Ergebnistext V="Häufiger als 2 mal wöchentlich"/> <sciphox:Parameter DN="In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale"/> <sciphox:Ergebnistext V="Ja"/>*V*-Attribut die Feldbezeichnung
 
 
 ---
@@ -631,7 +631,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.11 Aktueller FEV -Wert (mindestens alle 12 Monate) 1
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „FEV Wert“ und im 1 *U*-Attribut den fest vorgeschriebenen Wert „Prozent des Sollwertes“, wenn ein Wert gemessen wurde  (siehe XML-Code 22). Wenn kein Wert gemessen wurde, so wird anstelle von <sciphox:Ergebniswert> ein  Element <sciphox:Ergebnistext> mit dem vorgeschriebenen V-Attributwert „Nicht durchgeführt“ verwendet  (siehe XML-Code 23
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „FEV1 Wert“ und im  *U*-Attribut den fest vorgeschriebenen Wert „Prozent des Sollwertes“, wenn ein Wert gemessen wurde  (siehe XML-Code 22). Wenn kein Wert gemessen wurde, so wird anstelle von <sciphox:Ergebniswert> ein  Element <sciphox:Ergebnistext> mit dem vorgeschriebenen V-Attributwert „Nicht durchgeführt“ verwendet  (siehe XML-Code 23
 
 Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 
@@ -651,7 +651,7 @@ Als Beispiel bei nicht durchgeführter Messung sei hier folgender Code angegeben
 
 Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht verwendet, sondern nur bei der  Verlaufsdokumentation, siehe Kapitel 7.1.1
 
-<sciphox:Parameter DN="In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes "/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebniswert V="080.3" U="Prozent des Sollwertes"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebnistext V="Nicht durchgeführt "/>
+<sciphox:Parameter DN="In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebniswert V="080.3" U="Prozent des Sollwertes"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebnistext V="Nicht durchgeführt "/>
 
 
 ---
@@ -701,7 +701,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 26:** Inhalative lang wirksame Beta -2-Sympathomimetika
+**XML-Code 26:** Inhalative lang wirksame Beta-2-Sympathomimetika
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -710,7 +710,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Keine |
 \| Kontraindikation |
 
-**Tabelle 12:** Werte bei Ergebnistext (Inhalative lang wirksame Beta -2-Sympathomimetika)
+**Tabelle 12:** Werte bei Ergebnistext (Inhalative lang wirksame Beta-2-Sympathomimetika)
 
 ### 6.1.7.3 Kurz wirksame inhalative Beta-2-Sympathomimetika
 
@@ -733,11 +733,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Keine |
 \| Kontraindikation |
 
-**Tabelle 13:** Werte bei Ergebnistext ( Kurz wirksame inhalative Beta-2-Sympathomimetika)
+**Tabelle 13:** Werte bei Ergebnistext (Kurz wirksame inhalative Beta-2-Sympathomimetika)
 
 ### 6.1.7.4 Systemische Glukokortikosteroide
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -757,15 +757,20 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.7.5 Sonstige asthmaspezifische Medikation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Systemische Glukokortikosteroide"/> <sciphox:Ergebnistext V="Bei Bedarf"/> <sciphox:Parameter DN="Sonstige asthmaspezifische Medikation"/> <sciphox:Ergebnistext V="Nein"/>**XML-Code 29:** Sonstige asthmaspezifische Medikation
+**XML-Code 29:** Sonstige asthmaspezifische Medikation
 
+*V*-Attribut die Feldbezeichnung
+
+<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
+
+<sciphox:Parameter DN="Systemische Glukokortikosteroide"/> <sciphox:Ergebnistext V="Bei Bedarf"/> <sciphox:Parameter DN="Sonstige asthmaspezifische Medikation"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
@@ -793,7 +798,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 16:** Werte bei Ergebnistext ( Inhalationstechnik überprüft
+**Tabelle 16:** Werte bei Ergebnistext (Inhalationstechnik überprüft
 
 ### 6.1.8 Abschnitt „Schulung“
 
@@ -831,7 +836,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 17:** Werte bei Ergebnistext (Asthma -Schulung empfohlen (bei aktueller Dokumentation))
+**Tabelle 17:** Werte bei Ergebnistext (Asthma-Schulung empfohlen (bei aktueller Dokumentation))
 
 ### 6.1.8.2 Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen
 
@@ -852,7 +857,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 18:** Werte bei Ergebnistext (Asthma -Schulung schon vor Einschreibung in DMP bereits  wahrgenommen)
+**Tabelle 18:** Werte bei Ergebnistext (Asthma-Schulung schon vor Einschreibung in DMP bereits  wahrgenommen)
 
 ### 6.1.9 Abschnitt „Behandlungsplanung“
 
@@ -871,7 +876,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 19. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schriftlicher Selbstmanagementplan"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapieanpassung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schriftlicher Selbstmanagementplan"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapieanpassung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
 
 
 ---
@@ -887,7 +892,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 \| Ernährungsberatung |
 \| Körperliches Training |
 
-**Tabelle 19:** Werte bei Ergebnistext (Vom Patienten gewünschte Inf ormationsangebote der  Krankenkasse)
+**Tabelle 19:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der  Krankenkasse)
 
 ### 6.1.9.2 Dokumentationsintervall
 
@@ -905,7 +910,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Quartalsweise |
 \| Jedes zweite Quartal |
 
-**Tabelle 20:** Werte bei Ergebnistext ( Dokumentationsintervall)
+**Tabelle 20:** Werte bei Ergebnistext (Dokumentationsintervall)
 
 ### 6.1.9.3 Schriftlicher Selbstmanagementplan
 
@@ -930,7 +935,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 21:** Werte bei Ergebnistext ( Schriftlicher Selbstmanagementplan)
+**Tabelle 21:** Werte bei Ergebnistext (Schriftlicher Selbstmanagementplan)
 
 ### 6.1.9.4 Therapieanpassung
 
@@ -950,7 +955,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Verbesserung der Anwendung der Medikation |
 \| Reduktion der Medikation |
 
-**Tabelle 22:** Werte bei Ergebnistext ( Therapieanpassung)
+**Tabelle 22:** Werte bei Ergebnistext (Therapieanpassung)
 
 <sciphox:Parameter DN="Therapieanpassung"/> <sciphox:Ergebnistext V="Reduktion der Medikation"/> <sciphox:Ergebnistext V="Verbesserung der Anwendung der Medikation"/> 
 
@@ -1028,7 +1033,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| War aktuell nicht möglich |
 \| Bei letzter Dokumentation keine Schulung empfohlen |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Asthma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Asthma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 23:** Werte bei Ergebnistext ( Empfohlene Asthma -Schulung wahrgenommen )
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Asthma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Asthma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 23:** Werte bei Ergebnistext (Empfohlene Asthma-Schulung wahrgenommen)
 
 
 ---

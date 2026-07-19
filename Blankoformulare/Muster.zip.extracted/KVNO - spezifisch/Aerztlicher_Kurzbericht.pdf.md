@@ -2,11 +2,13 @@ Krankenkasse bzw. Kostenträger
 
 Name, Vorname des Versicherten
 
-Kostenträgerkennung Versicherten-Nr
+Kostenträgerkennung Versicherten-Nr.
 
-Betriebsstätten-Nr Arzt-Nr
+Betriebsstätten-Nr.
 
-**Adresse der weiterbehandelnden Praxis/Einrichtung:**
+Arzt-Nr.
+
+**Adresse der weiterbehandelnden Praxis**
 
 **Diagnosen mit ICD-10:**
 
@@ -14,7 +16,7 @@ Betriebsstätten-Nr Arzt-Nr
 
 **Medikament**
 
-**morgens mittags**
+**morgens**
 
 geb. am
 
@@ -22,7 +24,9 @@ Status
 
 Datum
 
-**abends nachts**
+**/Einrichtung:**
+
+**mittags abends nachts**
 
 **Befunde:**
 
@@ -30,25 +34,25 @@ EKG
 
 Röntgen
 
-Sonstige:
-
 Labor
 
 Sono
 
-**Mitgegebene Unterlagen:**
-
-Der Überleitungsbogen wurde der Patientin / dem Patienten mitgegeben. Patientin / Patient übergibt die Unterlagen persönlich.
-
-**Beantragte Leistungen:**
+Sonstige:
 
 Vorberichte
 
 Labor
 
+**Mitgegebene Unterlagen:**
+
+Der Überleitungsbogen wurde der Patientin / dem Patienten mitgegeben. Patientin / Patient übergibt die Unterlagen persönlich.
+
 Pflegestufe beantragt
 
-Es wird bescheinigt, dass keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Krankheit im Sinne des Infektionsschutz  (einschließlich ansteckungsfähiger Lungentuberkulose und MRE) vorliegen.
+**Beantragte Leistungen:**
+
+Es wird bescheinigt, dass keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Krankheit im Sinne des Infektionsschutz gesetzes (einschließlich ansteckungsfähiger Lungentuberkulose und MRE) vorliegen.
 
 Datum
 
@@ -106,7 +110,11 @@ CT
 
 MRT
 
-Bilder Arztbrief Sonstiges: (z.B. Anlage MRE)
+Bilder
+
+Arztbrief
+
+Sonstiges: (z.B. Anlage MRE)
 
 Reha beantragt / eingeleitet
 
@@ -116,22 +124,20 @@ Krankenhaus behandelnden Arzt
 
 Bezugsperson Sonstige:
 
-**503 Anlage 7a**
-
 nein
 
 bis:
 
-**morgens mittags abends nachts** t g u ezr e  si x ar ptzr
-
-A r e d  ni r e k c ur dr e s a L  sl etti m  e dr u w r al u mr o F  s e s ei D
+**morgens mittags**
 
 Endoskopie
-
-OP
-
-gesetzes
 
 nicht einverstanden
 
 Hausarzt
+
+**503 Anlage 7a**
+
+**abends nachts** t g u ezr e  si x ar ptzr A r e d  ni r e k c ur dr e s a L  sl etti m  e dr u w r al u mr o F  s e s ei D
+
+OP

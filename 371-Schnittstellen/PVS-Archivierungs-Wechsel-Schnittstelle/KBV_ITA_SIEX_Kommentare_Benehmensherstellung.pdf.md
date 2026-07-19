@@ -1,7 +1,7 @@
 | [AWS-142] Profile Report Import und Report Export | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Vollständig angenommen |  |  |
 | **Stichwörter:** | Schnittstellenfestlegung | | |
@@ -23,7 +23,7 @@
 | [AWS-141] Unterstützung aller xDT-Formate | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Vollständig angenommen |  |  |
 | **Stichwörter:** | Schnittstellenfestlegung | | |
@@ -43,7 +43,7 @@
 | [AWS- https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Medikament | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Später umsetzen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -54,7 +54,7 @@
 |---|---|
 | Auch hier unterscheidet sich das Profil zu dem äquivalenten Profil im eRezept-Projekt  https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_PZN fachliche Gründe? |  |
 
-140] §291d Absatz 1 für die AWS bilden. In der jetzigen Form soll dieses Medikament die rudimentären Informationen aller Versionen der letzten 10 Jahre übernehmen können. Auch in Zukunft soll die strukturierte Übernahme vergangener Jahre möglich sein. Aber an den Beschreibungen sieht man, dass bereits ein gewisse Harmonisierung erfolgt ist. Beschreibung ). Gibt es hierfür 
+140] §291d Absatz 1 für die AWS bilden. In der jetzigen Form soll dieses Medikament die rudimentären Informationen aller Versionen der letzten 10 Jahre übernehmen können. Auch in Zukunft soll die strukturierte Übernahme vergangener Jahre möglich sein. Aber an den Beschreibungen sieht man, dass bereits ein gewisse Harmonisierung erfolgt ist.  Beschreibung ). Gibt es hierfür 
 
 
 ---
@@ -62,7 +62,7 @@
 | [AWS-139] KBV_PR_AW_Verordnung_Arzneimittel | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Teilweise angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -92,7 +92,7 @@
 |---|---|
 | In Kap. 4.2.3 wird beschrieben, wie Anlagen bzw. Dokumente abgelegt werden. Das |  |
 
-§291d Absatz 1 gemSpec_DM_ePA_V1.4.0 eindeutig mit einer URI wiedergefunden werden. Diese URI kann in der AWS in der Anlage direkt hinterlegt werden. Wir haben allerdings noch einen neuen Anlagetypen (EPA_Dokument) erzeugt. Zusätzlich kann z.B. der Formatcode unter der Spezifikationsversion hinterlegt werden.  Beschreibung betrifft auch patientenaktenbezogene Daten wie Daten aus der ePA des Patienten, seine NFD, eMP oder andere Daten aus der TI. Falls Dokumente für den Versicherten ursprünglich aus der elektronischen Patientenakte nach § 291a stammen, sollte es möglich sein, auch Metadaten der ePA mit dem ePA -Anlagendokument zu verknüpfen. Zur Verknüpfung von Anlagen und Metadaten fehlen in der aktuellen Fassung noch Festlegungen, auch unter Verweis auf Festlegungen in [gemSpec_DM_ePA] ("gematik: Datenmodell ePA") und im Dokument "IHE Deutschland (2018): Value Sets für Aktenprojekte im deutschen Gesundheitswesen. Die Verwendung von Metadaten zu Anlagedokumenten könnten auch für andere Anwendungsdaten nützlich sein. 
+§291d Absatz 1 gemSpec_DM_ePA_V1.4.0 eindeutig mit einer URI wiedergefunden werden. Diese URI kann in der AWS in der Anlage direkt hinterlegt werden. Wir haben allerdings noch einen neuen Anlagetypen (EPA_Dokument) erzeugt. Zusätzlich kann z.B. der Formatcode unter der Spezifikationsversion hinterlegt werden.  Beschreibung betrifft auch patientenaktenbezogene Daten wie Daten aus der ePA des Patienten, seine NFD, eMP oder andere Daten aus der TI. Falls Dokumente für den Versicherten ursprünglich aus der elektronischen Patientenakte nach § 291a stammen, sollte es möglich sein, auch Metadaten der ePA mit dem ePA-Anlagendokument zu verknüpfen. Zur Verknüpfung von Anlagen und Metadaten fehlen in der aktuellen Fassung noch Festlegungen, auch unter Verweis auf Festlegungen in [gemSpec_DM_ePA] ("gematik: Datenmodell ePA") und im Dokument "IHE Deutschland (2018): Value Sets für Aktenprojekte im deutschen Gesundheitswesen. Die Verwendung von Metadaten zu Anlagedokumenten könnten auch für andere Anwendungsdaten nützlich sein. 
 
 
 ---
@@ -100,7 +100,7 @@
 | [AWS-Zusatz1] Alle Profile 1 | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Nicht angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -119,7 +119,7 @@
 | [AWS-Zusatz2] Alle Profile 2 | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Nicht angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -138,7 +138,7 @@
 | [AWS-Zusatz3] KBV_PR_AW_Diagnose 1 | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Nicht angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -149,7 +149,7 @@
 |---|---|
 | Die Kurzbeschreibungen von Condition.code.text ("zusätzliche Anmerkungen") und |  |
 
-§291d Absatz 1 allerdings "Diagnoseerläuterung" und note(Freittextbeschreibung)  Beschreibung Condition.annotation ("Diagnose im Klartext") sind vertauscht. 
+§291d Absatz 1 allerdings "Diagnoseerläuterung" und note(Freittextbeschreibung)  Condition.annotation ("Diagnose im Klartext") sind vertauscht. Beschreibung
 
 
 ---
@@ -157,7 +157,7 @@
 | [AWS-Zusatz4] KBV_PR_AW_Diagnose 2 | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Nicht angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -176,7 +176,7 @@
 | [AWS-Zusatz5] KBV_PR_AW_Patient | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Später umsetzen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -195,7 +195,7 @@
 | [AWS-Zusatz6] KBV_PR_AW_Patient 2 | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel- | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel- | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -204,9 +204,9 @@
 
 |  |  |
 |---|---|
-| Patient.generalPractitioner.identifier könnte/sollte das DE_Basisprofil Keine Inkompatibilität, nur ein Modellierungshinweis... |  |
+| Patient.generalPractitioner.identifier könnte/sollte das DE_Basisprofil für LANR  Keine Inkompatibilität, nur ein Modellierungshinweis... |  |
 
-§291d Absatz 1 J Schnittstelle gemäß verwenden Beschreibung  für LANR 
+Schnittstelle gemäß §291d Absatz 1 J verwenden Beschreibung
 
 
 ---
@@ -233,7 +233,7 @@
 | [AWS-Zusatz8] KBV_PR_AW_Patient 4 | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Nicht angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -252,7 +252,7 @@
 | [AWS-Zusatz9] KBV_PR_AW_Patient 5 | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel- | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel- | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -271,7 +271,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz10] KBV_EX_AW_Patient_Vsdm_Zusatzinformationen | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -309,7 +309,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz12] KBV_EX_AW_Patient_Aktuelle_Taetigkeit | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -328,7 +328,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz13] KBV_PR_AW_Krankenversicherungsverhaeltnis | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -347,7 +347,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz14] KBV_EX_Base_Terminology_German | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Nicht angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -366,7 +366,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz15] KBV_PR_AW_Ambulante_Operation | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -375,7 +375,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 |  |  |
 |---|---|
-| Die Seitenlokalisation ist, wie bei der ICD -10 Kodierung, als Bestandteil des Codes und nicht der  Entsprechen der Vorgaben der Deutschen Basisprofile sollte eine Extension |  |
+| Die Seitenlokalisation ist, wie bei der ICD-10 Kodierung, als Bestandteil des Codes und nicht der  Entsprechen der Vorgaben der Deutschen Basisprofile sollte eine Extension |  |
 
 §291d Absatz 1 bodySite zu betrachten. (https://simplifier.net/basisprofil-de-r4/extension-seitenlokalisation) and Procdure.code.coding verwendet werden. Beschreibung
 
@@ -385,7 +385,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz16] KBV_PR_AW_Behandelnder | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -396,7 +396,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 |---|---|
 | Das Slice für Practitioner.qualification:practitioner_speciality ist invalide. Das Slicing muss |  |
 
-§291d Absatz 1 Beschreibung vor dem eigemtlich Slice ein Slice -Intro mit Informationen rund um den Discriminator enthalten. "practitioner_speciality" darf nicht direkt auf obester Ebene erscheinen. 
+§291d Absatz 1 vor dem eigemtlich Slice ein Slice-Intro mit Informationen rund um den Discriminator enthalten. "practitioner_speciality" darf nicht direkt auf obester Ebene erscheinen. Beschreibung
 
 
 ---
@@ -404,7 +404,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz17] KBV_PR_AW_Observation_Blutdruck | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Später umsetzen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -423,7 +423,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz18] KBV_PR_AW_Observation_Bauchumfang | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Später umsetzen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -442,7 +442,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 | [AWS-Zusatz19] KBV_PR_AW_Observation_Raucherstatus | | | |
 |---|---|---|---|
 | **Status:** | Bearbeitung abgeschlossen | | |
-| **Projekt:** | Festlegung der PVS -Archivierungs- und Wechsel-Schnittstelle gemäß | | |
+| **Projekt:** | Festlegung der PVS-Archivierungs- und Wechsel-Schnittstelle gemäß | | |
 | **Komponente(n):** | Keine | | |
 | **Lösung:** | Später umsetzen |  |  |
 | **Organisation:** | Gematik GmbH | | |
@@ -451,6 +451,6 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 
 |  |  |
 |---|---|
-| LOINC Kodierung sollte für Raucherstatus verwendet werden um mit interrnationalen    Das folgende LOINC Answer Set sollte verwendet werden:  https://loinc.org/LL2201-3/.  Ein Code für "Unbekannt" kann auf Basis des Data-Absent-Reason CodeSystem o.Ä. in ein |  |
+| LOINC Kodierung sollte für Raucherstatus verwendet werden um mit interrnationalen    Das folgende LOINC Answer Set sollte verwendet werden: https://loinc.org/LL2201-3/.  Ein Code für "Unbekannt" kann auf Basis des Data-Absent-Reason CodeSystem o.Ä. in ein |  |
 
 §291d Absatz 1 und sobald diese verfügbar sind in die AWS integriert. Beschreibung Initativen interoperable zu belieben. ValueSet gebunden werden.

@@ -1,4 +1,4 @@
-|  | *IT in der Arztpraxis  Plausibilitätenkatalog Haut- [KBV_ITA_VGEX_Plausi* |
+|  | *IT in der Arztpraxis  Plausibilitätenkatalog Haut- [KBV_ITA_VGEX_Plausi_eHKS]* |
 |---|---|
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -8,7 +8,7 @@
 |  | Version |
 |  |  |
 
-krebs-Screening (eHKS) _eHKS] 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich Status: In Kraft 
+krebs-Screening (eHKS) 1.04 Datum: 29.01.2019 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
@@ -26,46 +26,53 @@ eldern
 
 ---
 
-| IT in der | Arztpraxis |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| Plausibilitä | te nkata | lo g H | autk re | bs-Screening | (eHKS) |  |  |
-| **I N H** | **A L T** | **S V E** | **R Z** | **E I C H** | **N I S** |  |  |
-| **1** | **EINLEITUNG** | |  |  |  |  | **4** |
-| **2** | **GRUNDLAGEN** | |  |  |  |  | **4** |
-| **3** | **PLAUSIBILITÄ** | | **T SPRÜF** | **U** | **NGEN** |  | **5** |
-| **3.1** |  | **Nicht-Dermatologen** | |  | **.......................................................................................................................5** | | |
-| **3.2** | **Dermatologen** | |  |  | **.................................................................................................................................6** | | |
-|  | [KBV_ITA_VGEX_Plausi_eHKS] | | *Version | 1.03 |  | Seite | 3 von 11 |
+**I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
-PLAUSIBILITÄTSPRÜFUNGEN 
+**1** **EINLEITUNG**
+
+**2** **GRUNDLAGEN**
+
+**3** **PLAUSIBILITÄTSPRÜFUNGEN**
+
+**3.1** **Nicht-Dermatologen .......................................................................................................................5**
+
+**3.2** **Dermatologen .................................................................................................................................6**
+
+**4**  **4**  **5**
 
 
 ---
 
 # 1 Einleitung
 
-Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der Krebsfrüherken-nungsrichtline des Gemeinsamen Bundesausschuss (GBA) enthaltenen Plausibilitäten zum  „Hautkrebs Screening“ (kurz: eHKS) im Hinblick auf die technische Umsetzung
+Der vorliegende Plausibilitätenkatalog konkretisiert die in der Änderung der Krebsfrüherken-nungsrichtline des Gemeinsamen Bundesausschuss (GBA) enthaltenen Plausibilitäten zum  „Hautkrebs Screening“ (kurz: eHKS)
 
 - seitens des Praxissoftwareherstellers sowie
 - im Rahmen des Prüfmoduls
 
-Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plaus i-bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
+Die Softwarehersteller sind angehalten, bereits bei der Datenerfassung Prüfungen der Plausi-bilität eingegebener Werte durchzuführen und den Anwender ggf. auf Verstöße gegen die  Plausibilitäten hinzuweisen.
 
 Das Dokument kann fortgeschrieben werden. Sollten sich Sachverhalte ergeben, die in dieser  Unterlage noch nicht abgebildet waren, so können diese ergänzt werden.
 
-Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sy s-temanbieter verteilt.
+Das Dokument wird dann mit neuer Version an alle Kassenärztlichen Vereinigungen und Sys-temanbieter verteilt.
 
 # 2 Grundlagen
 
 Die aufgeführten Plausibilitätsregeln orientieren sich an den Ergänzungen der Früherken-nungsrichtline Hautkrebs-Screening des GBA.
 
-Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs-Screening stellt den  Entwicklern von PVS-Systemen oder Web-Anwendungssystemen ein Hilfsmittel zur Verfü-gung, welches die Anwendung, die Bedienung innerhal b der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation der Früherkennungsrichtlinie Hautkrebs-Screening spezifiziert.
+Der Plausibilitätenkatalog der Krebsfrüherkennungsrichtlinie Hautkrebs-Screening stellt den  Entwicklern von PVS-Systemen oder Web-Anwendungssystemen ein Hilfsmittel zur Verfü-gung, welches die Anwendung, die Bedienung innerhalb der Anwendung und die fachlichen  Prüfungen im Rahmen der eDokumentation  Screening spezifiziert.
 
-Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung e r-folgen soll.
+Der hier beschriebene Plausibilitätenkatalog soll so verwendet werden, dass der Anwender  bei der Ausfüllung der Dokumentation interaktiv auf Inplausibilitäten aufmerksam gemacht  wird. Verstöße gegen die Plausibilitätsregeln führen zu einer Fehlermeldung des Prüfmoduls,  sofern bei der jeweiligen Regel nicht explizit angegeben ist, dass lediglich eine Warnung er-folgen soll.
 
-Weitere Sachverhalte sind in dem Anforderungskatalog eDokumentation Hautkrebs-Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der  Anwendung.
+Weitere Sachverhalte sind in  Screening“ enthalten. Die Anforderungsspezifikation ist Grundlage für die Zertifizierung der  Anwendung.
 
-Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umst and hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
+Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
+
+im Hinblick auf die technische Umsetzung
+
+der Früherkennungsrichtlinie Hautkrebs-
+
+dem Anforderungskatalog eDokumentation Hautkrebs-
 
 
 ---
@@ -86,9 +93,7 @@ Wenn ein Wert zu einer Warnung führt, soll der An wender auf diesen Umst and hi
 | 1.1.5 | anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.6 | sonstiger | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 |
 
-(zur hausärztlichen Versorgung
-
-dermatologisch abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen.  .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen., .1, muss hier zugelassene Praktische Ärzte, Ärzte ohne Gebietsbezeichnung,
+dermatologisch abklärungsbedürftiger Befund /Datenformat .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen.  .1, muss hier eine Angabe erfolgen. .1, muss hier eine Angabe erfolgen., .1, muss hier (zur hausärztlichen Versorgung zugelassene Praktische Ärzte, Ärzte ohne Gebietsbezeichnung,
 
 
 ---
@@ -153,9 +158,9 @@ Befund nommen oder Exzision durchgeführt nommen bzw. eingeleitet .1, muss hier 
 | 2.5.1.1 | 1 | o   o | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.1.2 | Malignes Melanom | o o o o | Optionales Feld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.2 | Basalzellkarzinom | Ja/Nein | Bedingtes Pflichtfeld.     Bei Angabe „   Nur eine Angabe ist möglich. |
-| 2.5.2.1 | Basalzellkarzinom horizontaler Tumordurc | Angabe in mm  Wertebereich: 0,1-999,9   Format: [n][n]n[,][n]   (n | Bedingtes Pflichtfeld    Bei Angabe „ |
+| 2.5.2.1 | Basalzellkarzinom horizontaler Tumordurch- | Angabe in mm  Wertebereich: 0,1-999,9   Format: [n][n]n[,][n]   (n | Bedingtes Pflichtfeld    Bei Angabe „ |
 
-messer (klinisch)  Klassifikation   Tumordicke (Breslow) Melanoma in situ  Invasives Melanom   1 mm 1,01-2 mm 2,01-4 mm > 4 mm h-  numerisch, [ ] - optional) Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ in 2.4.1, muss eine Angabe in 2.5.1. erfolgen. Ja“ in 2.5.1,  muss eine Angabe in 2.5.1.1 erfolgen. Ja“ unter 2.5.1 kann eine Angabe im Feld 2.5.1.2 erfolgen. Ja“ in 2.4.1, muss eine Angabe in 2.5.2. erfolgen. Ja“ in 2.5.2, muss eine Angabe in 2.5.2.1 erfolgen.
+messer (klinisch)  Klassifikation   Tumordicke (Breslow) Melanoma in situ  Invasives Melanom   1 mm 1,01-2 mm 2,01-4 mm > 4 mm  numerisch, [ ] - optional) Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ angegeben, muss hier „ Nein“ angegeben werden Ja“ in 2.4.1, muss eine Angabe in 2.5.1. erfolgen. Ja“ in 2.5.1,  muss eine Angabe in 2.5.1.1 erfolgen. Ja“ unter 2.5.1 kann eine Angabe im Feld 2.5.1.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.2. erfolgen. Ja“ in 2.5.2, muss eine Angabe in 2.5.2.1 erfolgen.
 
 ---
 
@@ -168,7 +173,7 @@ messer (klinisch)  Klassifikation   Tumordicke (Breslow) Melanoma in situ  Invas
 | 2.5.4 | Anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „   Nur eine Angabe ist möglich. |
 | 2.5.5 | atypischer Nävuszellnävus | Ja/Nein | Bedingtes Pflichtfeld    Bei Angabe „ |
 
-ser (histologisch) s-  numerisch, [ ] - optional Ja“ unter 2.5.2 kann eine Angabe im Feld 2.5.2.2 erfolgen. Ja“ in 2.4.1, muss eine Angabe in 2.5.3. erfolgen.  Klassifikation Karzinoma in situ Invasives Karzinom Ja“ in 2.5.3, muss eine Angabe in 2.5.3.1 erfolgen. Gx G1 G2 G3 Ja“ in 2.5.3 , kann eine Angabe in 2.5.3.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.4 erfolgen. Ja“ in 2.4.1, muss eine 1 Der klinisch schwerwiegendste Befund ist zu dokumentieren
+ser (histologisch) s-  numerisch, [ ] - optional Ja“ unter 2.5.2 kann eine Angabe im Feld 2.5.2.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.3. erfolgen.  Klassifikation Karzinoma in situ Invasives Karzinom Ja“ in 2.5.3, muss eine Angabe in 2.5.3.1 erfolgen. Gx G1 G2 G3 Ja“ in 2.5.3 , kann eine Angabe in 2.5.3.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.4 erfolgen. Ja“ in 2.4.1, muss eine 1 Der klinisch schwerwiegendste Befund ist zu dokumentieren
 
 
 ---

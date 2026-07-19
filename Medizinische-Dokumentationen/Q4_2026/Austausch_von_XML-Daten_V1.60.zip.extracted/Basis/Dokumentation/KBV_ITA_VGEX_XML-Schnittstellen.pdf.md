@@ -5,36 +5,36 @@
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-vertragsärztlichen Versorgung KBV_ITA_VGEX_XML -Schnittstellen Herbert-Lewin-Platz 2 1.60 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
+vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.60 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.60 | 13.02.2026 | KBV | Neue Schnittstelle: Adipositas  Neue Schnittstelle: Adipositas    Anpassung der Archivendungen |  | **12, 16, 27** **16** |
-| 1.59 | 15.08.2025 | KBV | Anpassung des Elementes |  | **19, 24** |
+| 1.60 | 13.02.2026 | KBV | Neue Schnittstelle: Adipositas - Er- Neue Schnittstelle: Adipositas - Kin-   Anpassung der Archivendungen |  | **12, 16, 27** **16** |
+| 1.59 | 15.08.2025 | KBV | Anpassung des Elementes verschlu- |  | **19, 24** |
 | 1.58 | 14.11.2024 | KBV | Anpassung der Archivendung Herzin- |  | **14** |
 | 1.57 | 14.08.2024 | KBV | Anpassung der Archivendung Brust- |  | **14** |
 | 1.56 | 15.11.2023 | KBV | Anpassung der Archivendung COPD |  | **14** |
 | 1.55 | 05.04.2023 | KBV | Anpassung der Archivendungen der |  | **14** |
-| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: r Anpassung der Archivendungen |  | **12, 16, 27** **16** |
-| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle:  Anpassung der Archivendungen |  | **12, 16, 27** **16** |
+| 1.54 | 12.08.2022 | KBV | Neue Schnittstelle: rheumatoide Arth- Anpassung der Archivendungen |  | **12, 16, 27** **16** |
+| 1.53 | 15.01.2021 | KBV | Neue Schnittstelle: Osteoporose   Anpassung der Archivendungen |  | **12, 16, 27** **16** |
 | 1.52 | 15.01.2021 | KBV | Anpassung der Archivendung De- | Aufgrund einer Fehlerkorrek- | **16** |
-| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle Anpassung der Archivendungen  Streichung von FEK, BERST und DIA |  | **12, 16, 27** **16** **12, 14, 16,  27** |
+| 1.51 | 09.11.2020 | KBV | Neue Schnittstelle: chronischer Rü- Anpassung der Archivendungen   Streichung von FEK, BERST und DIA |  | **12, 16, 27** **16** **12, 14, 16,  27** |
 | 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | **11, 14, 27** **25** |
-| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen Aktualisierung des Transportbegleit- |  | **14** **31** |
+| 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im  Aktualisierung des Transportbegleit- |  | **14** **31** |
 | 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit | Aufgrund einer Fehlerkorrek- | **14** |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  | 1.60  13.02.2026  KBV |
 
-DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 2026 in Kraft - Er- wachsene - Kin- der und Jugendliche verschlu- esselungssoftware  der Begleitdatei krebs  eDMPs DM1 und DM2 heumatoide Arth- ritis Osteoporose  pression : chronischer Rü- ckenschmerz, Depression der Verschlüsselungssoftware  im Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs tur Komponentennummer im XML- Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer aktualisiert
+DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 2026 in Kraft wachsene der und Jugendliche esselungssoftware der Begleitdatei krebs  eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs tur Komponentennummer im XML- Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer aktualisiert
 
 ---
 
@@ -54,10 +54,10 @@ DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 20
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit  Streichung der Diskette als Datenträ- | Aktualisierung des DMP | **14**   **30, 30, 31** |
-| 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen |  | **14** |
+| 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | **14** |
 | 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | **14** |
 
-der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger  für die Anpassung des Personalienfeldes für Streichung des Modules Herzin- Herzinsuffizienz suffizienz DOKUMENTENHISTORIE ___________________________________________________ EINLEITUNG __________________________________________________________ SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE _____________________ 9 Kardinalität ......................................................................................................................................9 Strukturelemente ............................................................................................................................9 Sonstige Symbole ..........................................................................................................................9 DATEIEN DER DATENLIEFERUNG 11 Aufbau der Archivdatei ............................................................................................................... 11 Komprimierungsalgorithmus ..................................................................................................... 12 eVersandliste ............................................................................................................................... 14 Dateinamen .................................................................................................................................. 14 Die einzelne XML-Datei ....................................................................................................... 14 Die Archivdatei ..................................................................................................................... 14 Die Begleitdatei .................................................................................................................... 17 3.5 Zeichensatz .................................................................................................................................. 18 AUFBAU DER BEGLEITDATEI 19 Datum der Erstellung (erstellungsdatum -datei) ....................................................................... 20 Datei-Empfänger (empfaenger) .................................................................................................. 20 Bezirksstelle (ukv) ................................................................................................................ 21
+der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- Herzinsuffizienz suffizienz DOKUMENTENHISTORIE ___________________________________________________ EINLEITUNG __________________________________________________________ SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE _____________________ 9 Kardinalität ......................................................................................................................................9 Strukturelemente ............................................................................................................................9 Sonstige Symbole ..........................................................................................................................9 DATEIEN DER DATENLIEFERUNG 11 Aufbau der Archivdatei ............................................................................................................... 11 Komprimierungsalgorithmus ..................................................................................................... 12 eVersandliste ............................................................................................................................... 14 Dateinamen .................................................................................................................................. 14 Die einzelne XML-Datei ....................................................................................................... 14 Die Archivdatei ..................................................................................................................... 14 Die Begleitdatei.................................................................................................................... 17 3.5 Zeichensatz .................................................................................................................................. 18 AUFBAU DER BEGLEITDATEI 19 Datum der Erstellung (erstellungsdatum-datei) ....................................................................... 20 Datei-Empfänger (empfaenger) .................................................................................................. 20 Bezirksstelle (ukv)................................................................................................................ 21
 
 ---
 
@@ -71,7 +71,7 @@ der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger
 
 4.3.3 KV-Nummer (kv) .................................................................................................................. 22
 
-**4.4** **Information zur Komprimierungssoftware (komprimierungssoftware)** **................................. 22**
+**4.4** **Information zur Komprimierungssoftware (komprimierungssoftware) ................................. 22**
 
 4.4.1 Name der Software (software-name) .................................................................................. 23
 
@@ -81,7 +81,7 @@ der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger
 
 4.4.4 Link zur Software (software-link) ......................................................................................... 24
 
-**4.5** **Information zur Verschlüsselungssoftware (Verschluesselungssoftware)** **.......................... 24**
+**4.5** **Information zur Verschlüsselungssoftware (Verschluesselungssoftware) .......................... 24**
 
 4.5.1 Name der Software (software-name) .................................................................................. 25
 
@@ -285,7 +285,7 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kindelementen |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente in fest- |
 
-Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. Es existieren verschiedene Kardinalitäten: Tabelle 1 – Beschreibung der Kardinalitäten 2.2 Strukturelemente Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement -Arten verwendet: Choice und Sequence. 2.3 Sonstige Symbole Es werden außerdem folgende Diagramm-Symbole verwendet: Tabelle 2 – Beschreibung der Strukturelement -Symbole am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
+Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. Es existieren verschiedene Kardinalitäten: Tabelle 1 – Beschreibung der Kardinalitäten  2.2 Strukturelemente Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice und Sequence. Tabelle 2 – Beschreibung der Strukturelement-Symbole 2.3 Sonstige Symbole Es werden außerdem folgende Diagramm-Symbole verwendet: am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
 
 ---
 
@@ -372,23 +372,23 @@ Dialyse  Öffentliche Schlüssel 4.6.2  aufgeführt.
 | QS Holmiumlaser-Therapie | QSHLT/Dokumentation |
 | QS Kapselendoskopie | QSKE/Dokumentation |
 
-Weitere DMPs (wie bspw. KHK oder Asthma bronchiale) sowie elektronische Dokumentatio-nen (wie bspw. QS Zervix-Zyto) sind in der  das Vorgehen für diese Schnittstellen identisch. Die Angabe der zulässigen Pfade ist der
+**Tabelle 4 - Zulässige relative Pfade**
 
-belle 4 zu entnehmen.
+Weitere DMPs (wie bspw. KHK oder Asthma bronchiale) sowie elektronische Dokumentatio-nen (wie bspw. QS Zervix-Zyto) sind in der Abbildung 1
+
+das Vorgehen für diese Schnittstellen identisch. Die Angabe der zulässigen Pfade ist der  nicht berücksichtigt. Schematisch ist
+
+belle 4
+
+Ta-
+
+zu entnehmen.
 
 ## 3.2 Komprimierungsalgorithmus
 
 Für das Erstellen der Archivdateien ist der ZIP-Algorithmus zu verwenden. Dieser Komprimie-rungsalgorithmus ist in verschiedensten freien und kommerziellen Softwareprodukten enthal-ten. Da in diesem Bereich sehr viele Produkte existieren, ist es nicht möglich eine komplette  Übersicht über alle verfügbaren Produkte anzubieten. Allerdings findet man im Internet sehr  schnell mit Hilfe gängiger Suchmaschinen eine Vielzahl von möglichen Produkten.
 
-Um eine Auswahl der zu verwendenden Software zu erleichtern, empfehlen wir die Verwen-dung von „Info-ZIP“. Dieses Programm arbeitet kommandozeilenbasiert und kann somit prob-lemlos in ein bestehendes Praxisverwaltungssystem eingebunden werden. Es ist für sämtliche  Betriebssysteme erhältlich und entsprechende Manuals, Readme’s inkl. FAQ’s sind im Liefer-umfang enthalten. Nähere Informationen zu dieser Software können über folgende Webseite  [abgerufen werden:](http://www.info-zip.org/)[http://www.info](http://www.info-zip.org/)
-
-**Tabelle 4 - Zulässige relative Pfade**
-
-Abbildung 1 nicht berücksichtigt. Schematisch ist
-
-[-zip.org/](http://www.info-zip.org/)
-
-Ta-
+Um eine Auswahl der zu verwendenden Software zu erleichtern, empfehlen wir die Verwen-dung von „Info-ZIP“. Dieses Programm arbeitet kommandozeilenbasiert und kann somit prob-lemlos in ein bestehendes Praxisverwaltungssystem eingebunden werden. Es ist für sämtliche  Betriebssysteme erhältlich und entsprechende Manuals, Readme’s inkl. FAQ’s sind im Liefer-umfang enthalten. Nähere Informationen zu dieser Software können über folgende Webseite  [abgerufen werden:](http://www.info-zip.org/)[http://www.info-zip.org/](http://www.info-zip.org/)
 
 
 ---
@@ -646,26 +646,25 @@ Wenn alle Kindelemente vorkommen, sieht der Coderahmen für das Element *begleit
 
 ```
 **<?xml version="1.0" encoding="ISO-8859-15"?>**
-**<bgl:begleitdatei xmlns:bgl="[http://www.kbv.de/ns/meta/2003](http://www.kbv.de/ns/meta/2003)-05-15"**  **xmlns:xsi="[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema)** **xsi:schemaLocation** **..\Schema\begleitdatei.xsd"**  **Version="...">**
+**<bgl:begleitdatei xmlns:bgl="[http://www.kbv.de/ns/meta/2003-05-15"](http://www.kbv.de/ns/meta/2003-05-15")**  **xmlns:xsi="[http://www.w3.org/2001/XMLSchema-instance"](http://www.w3.org/2001/XMLSchema-instance")**  **xsi:schemaLocation="[http://www.kbv.de/ns/meta/2003-05-15](http://www.kbv.de/ns/meta/2003-05-15)**  **..\Schema\begleitdatei.xsd"**  **Version="...">**
 **<bgl:erstellungsdatum-datei V="..."/>**
-**<bgl:empfaenger**
+**<bgl:empfaenger>**
 **...**
 **</bgl:empfaenger>**
-**<bgl:absender**
+**<bgl:absender>**
 **...**
 **</bgl:absender>**
-**<bgl:komprimierungssoftware**
+**<bgl:komprimierungssoftware>**
 **...**
 **</bgl:komprimierungssoftware>**
 **<bgl:verschluesselungssoftware>**
 **...**
 **</>bgl:verschluesselungssoftware**
 **<bgl:archive>**
-**<bgl:archiv**
+**<bgl:archiv>**
 **...**
 **</bgl:archiv>**
 **</bgl:archive>**
-**-instance"**  **="[http://www.kbv.de/ns/meta/2003-05-15](http://www.kbv.de/ns/meta/2003-05-15)**
 **</bgl:begleitdatei>**
 ```
 
@@ -696,12 +695,12 @@ Die Grundstruktur für dieses Element ist in Abbildung 4 dargestellt.
 
 ### 4.2.1 Bezirksstelle (ukv)
 
-Das Element *ukv* enthält die Attribute *EX* und *RT*. Im *EX*-Attribut steht der konkrete 2-stellige  Schlüssel der Bezirksstelle. Im *RT*-Attribut steht der feste Wert „UKV-Nummer“.
+Das Element *ukv* enthält die Attribute *EX* und *RT* Schlüssel der Bezirksstelle. Im *RT*-Attribut steht der feste Wert „UKV-Nummer“.
 
 Folgender Code sei hier als Beispiel angegeben:
 
 ```
-**<bgl:empfaenger**
+**<bgl:empfaenger>**
 **<bgl:ukv EX="02" RT="UKV-Nummer"/>**
 **</bgl:empfaenger>**
 ```
@@ -712,12 +711,12 @@ Zulässige Werte für die Bezirksstelle können der Schlüsseltabelle mit der OI
 
 ### 4.2.2 Datenstelle (datenstelle)
 
-Das Element *datenstelle* enthält die Attribute *EX* und  stellige Institutskennzeichen der Datenstelle. Im  kennzeichen“.
+Das Element *datenstelle* enthält die Attribute *EX* stellige Institutskennzeichen der Datenstelle. Im  kennzeichen“.
 
 Folgender Code sei hier als Beispiel angegeben:
 
 ```
-**<bgl:empfaenger**
+**<bgl:empfaenger>**
 **<bgl:datenstelle EX="100456789" RT="Institutskennzeichen"/>**
 **</bgl:empfaenger>**
 ```
@@ -734,27 +733,33 @@ Das Element *absender* enthält die Information über den Absender der Gesamtlie
 
 Die Grundstruktur für dieses Element ist in Abbildung 5
 
-*RT*. Im *EX*-Attribut steht das konkrete 9-*RT*-Attribut steht der feste Wert „Instituts-
-
-*arzt, krankenhaus* oder *kv*
-
-dargestellt.
-
 **Abbildung 5 – Grundstruktur absender**
 
 ### 4.3.1 Betriebsstättennummer (arzt)
 
-Das Element *arzt* enthält die Attribute *EX* und *RT*. Im *EX*-Attribut wird auf die BSNR bzw.  NBSNR des Tätigkeitsortes, an dem die Archivdatei erstellt wurde, verwiesen steht der feste Wert „BSNR“.
+Das Element *arzt* enthält die Attribute *EX* und  NBSNR des Tätigkeitsortes, an dem die Archivdatei erstellt wurde, verwiesen. Im  steht der feste Wert „BSNR“.
 
 Folgender Code sei hier als Beispiel angegeben:
 
-. Im *RT*-Attribut
+. Im *EX*-Attribut steht der konkrete 2-stellige
+
+und *RT*. Im *EX*-Attribut steht das konkrete 9-*RT*-Attribut steht der feste Wert „Instituts-
+
+*arzt, krankenhaus*
+
+dargestellt.
+
+*RT*. Im *EX*-Attribut wird auf die BSNR bzw.
+
+oder *kv*
+
+*RT*-Attribut
 
 
 ---
 
 ```
-**<bgl:absender**
+**<bgl:absender>**
 **<bgl:arzt EX="012345678" RT="BSNR"/>**
 **</bgl:absender>**
 ```
@@ -763,12 +768,12 @@ Folgender Code sei hier als Beispiel angegeben:
 
 ### 4.3.2 Krankenhaus-IK (krankenhaus)
 
-Das Element *krankenhaus* enthält die Attribute *EX* und *RT*. Im EX-Attribut steht das konkrete  9-stellige Krankenhaus-IK. Im RT-Attribut steht der feste Wert „Krankenhaus-IK“.
+Das Element *krankenhaus* enthält die Attribute  9-stellige Krankenhaus-IK. Im RT-Attribut steht der feste Wert „Krankenhaus-IK“.
 
 Folgender Code sei hier als Beispiel angegeben:
 
 ```
-**<bgl:absender**
+**<bgl:absender>**
 **<bgl:krankenhaus EX="101234567" RT="Krankenhaus-IK"/>**
 **</bgl:absender>**
 ```
@@ -777,12 +782,12 @@ Folgender Code sei hier als Beispiel angegeben:
 
 ### 4.3.3 KV-Nummer (kv)
 
-Das Element *kv* enthält die Attribute *EX* und *RT*. Im *EX*-Attribut steht die konkrete 2-stellige  KV-Nummer. Im *RT*-Attribut steht der feste Wert „KV-Nummer“.
+Das Element *kv* enthält die Attribute *EX* und *RT* KV-Nummer. Im *RT*-Attribut steht der feste Wert „KV-Nummer“.
 
 Folgender Code sei hier als Beispiel angegeben:
 
 ```
-**<bgl:absender**
+**<bgl:absender>**
 **<bgl:kv EX="01" RT="KV-Nummer"/>**
 **</bgl:absender>**
 ```
@@ -793,9 +798,19 @@ Zulässige Werte für die KV-Nummer können der Schlüsseltabelle mit der OID  1
 
 ## 4.4 Information zur Komprimierungssoftware (komprimierungssoft- ware)
 
-Das Element *komprimierungssoftware* enthält die Information zur verwendeten Komprimie-rungssoftware und besteht aus den Kindelementen *software-name software-version soft-* *ware-hersteller* und gegebenenfalls *software-link*
+Das Element *komprimierungssoftware* enthält die Information zur verwendeten Komprimie-rungssoftware und besteht aus den Kindelementen  *ware-hersteller* und gegebenenfalls *software-link*
 
-Die Grundstruktur für dieses Element ist in Abbildung 6 dargestellt.
+Die Grundstruktur für dieses Element ist in Abbildung 6
+
+*EX* und *RT*. Im EX-Attribut steht das konkrete
+
+. Im *EX*-Attribut steht die konkrete 2-stellige
+
+*software-name*
+
+dargestellt.
+
+*software-version soft-*
 
 
 ---
@@ -804,14 +819,13 @@ Die Grundstruktur für dieses Element ist in Abbildung 6 dargestellt.
 
 Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie folgt aus:
 
-```
-**<bgl:komprimierungssoftware**
-**<bgl:software-name V="..."/>**
-**<bgl:software-version V="..."/>**
-**<bgl:software-hersteller V="..."/>**
-**<bgl:software-link V="..."/>**
-**</bgl:komprimierungssoftware>**
-```
+|  | <bgl:komprimierungssoftware> | |
+|---|---|---|
+| **<bgl:software-name** |  | **V="..."/>** |
+|  | **<bgl:software-version** | **V="..."/>** |
+|  | **<bgl:software-hersteller** | **V="..."/>** |
+| **<bgl:software-link** |  | **V="..."/>** |
+|  | **</bgl:komprimierungssoftware>** | |
 
 **XML-Code 8 – komprimierungssoftware**
 
@@ -843,7 +857,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 Das Element *software-hersteller* enthält als Wert den Hersteller der verwendeten Software. Es  handelt sich dabei um einen String.
 
-Als Beispiel sei hier der folgende Code angegeben:
+<bgl:software-name V="..."/> <bgl:software-version V="..."/> <bgl:software-hersteller V="..."/> <bgl:software-link V="..."/> Als Beispiel sei hier der folgende Code angegeben:
 
 
 ---
@@ -895,11 +909,9 @@ Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie f
 
 ---
 
-### 4.5.1 Name der Software (software
+### 4.5.1 Name der Software (software-name)
 
-Das Element *software-name* enthält als Wert den konkreten Namen der verwendeten Soft-ware. Es handelt sich dabei um einen String. Das Element software-name besitzt den Wert
-
-XKM.
+Das Element *software-name* enthält als Wert den konkreten Namen der verwendeten Soft-ware. Es handelt sich dabei um einen String. Das Element software-name besitzt den Wert  XKM.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -907,11 +919,11 @@ Als Beispiel sei hier der folgende Code angegeben:
 **<bgl:software-name V="XKM"/>**
 ```
 
-### -name)
+**XML-Code 14 – software-name**
 
-### 4.5.2 Version der Software (software
+### 4.5.2 Version der Software (software-version)
 
-Das Element *software-version* ten Software. Es handelt sich dabei um einen String in der Form „n.nn“ oder „n.nn.n“.
+Das Element *software-version* enthält als Wert die konkrete Versionsnummer der verwende-ten Software. Es handelt sich dabei um einen String in der Form „n.nn“ oder „n.nn.n“.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -919,9 +931,11 @@ Als Beispiel sei hier der folgende Code angegeben:
 **<bgl:software-version V="1.00"/>**
 ```
 
-### 4.5.3 Hersteller der Software (software
+**XML-Code 15 – software-version**
 
-Das Element *software* handelt sich dabei um einen String.
+### 4.5.3 Hersteller der Software (software-hersteller)
+
+Das Element *software-hersteller* enthält als Wert den Hersteller der verwendeten Software. Es  handelt sich dabei um einen String.
 
 Da die Kassenärztliche Bundesvereinigung für das XKM zuständig ist, ist der folgende Code  fest vorgegeben:
 
@@ -929,38 +943,24 @@ Da die Kassenärztliche Bundesvereinigung für das XKM zuständig ist, ist der f
 **<bgl:software-hersteller V="KBV"/>**
 ```
 
+**XML-Code 16 – software-hersteller**
+
 ## 4.6 Dateiarchive (archive)
 
 Das Element archive enthält mindestens ein Kindelement archiv. Dieses enthält die Informati-onen zum Dateinamen des Archivs und dem Verzeichnis des Archivs. Es besteht aus den  Kindelementen name und verzeichnis.
 
-Die Grundstruktur für dieses Element ist in
-
-**XML-Code 14 – software-name**
-
-### -version)
-
-enthält als Wert die konkrete Versionsnummer der verwende-
-
-**XML-Code 15 – software-version**
-
-### -hersteller)
-
-*-hersteller* enthält als Wert den Hersteller der verwendeten Software. Es
-
-**XML-Code 16 – software-hersteller**
-
-Abbildung 8 dargestellt.
-
-Der Coderahmen für dieses Element sieht wie folgt aus:
+Die Grundstruktur für dieses Element ist in Abbildung 8 dargestellt.
 
 **Abbildung 8 – Grundstruktur archive**
+
+Der Coderahmen für dieses Element sieht wie folgt aus:
 
 
 ---
 
 ```
 **<bgl:archive>**
-**<bgl:archiv**
+**<bgl:archiv>**
 **<bgl:name V="..."/>**
 **<bgl:verzeichnis>**
 **...**
@@ -990,7 +990,7 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 ```
 **<bgl:verzeichnis>**
 **<bgl:pfad V="..."/>**
-**<bgl:zeitraum**
+**<bgl:zeitraum>**
 **...**
 **</bgl:zeitraum>**
 **</bgl:verzeichnis>**
@@ -1041,7 +1041,7 @@ Die zulässigen relativen Pfade sind in der folgenden Tabelle angegeben.
 | QS Zervix-Zyto | Zervix_Zyto/Dokumentation |
 | Hautkrebs-Screening | eHKS/Dokumentation |
 
-**Tabelle 7 - Zulässige relative**
+**Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad**
 
 #### 4.6.2.2 Zeitraum des Verzeichnisses (zeitraum)
 
@@ -1052,15 +1052,13 @@ Die Grundstruktur für dieses Element ist in
 Der Coderahmen für dieses Element sieht wie folgt aus:
 
 ```
-**<bgl:zeitraum**
+**<bgl:zeitraum>**
 **<bgl:von V="..."/>**
 **<bgl:bis V="..."/>**
 **</bgl:zeitraum>**
 ```
 
 **XML-Code 20 – pfad**
-
-**Pfade für Element Verzeichnispfad**
 
 *von* und *bis*
 
@@ -1085,9 +1083,7 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 ##### 4.6.2.2.2 Zeitraum-Ende (bis)
 
-Das Element *bis* enthält als Wert das Datum des Ende des Zeitraumes für welchen die Daten  geliefert werden. Das Datum hat das Format JJJJ
-
-vorhanden sein.
+Das Element *bis* enthält als Wert das Datum des Ende des Zeitraumes für welchen die Daten  geliefert werden. Das Datum hat das Format JJJJ-MM-TT. Das Element muss genau einmal  vorhanden sein.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -1096,8 +1092,6 @@ Als Beispiel sei hier der folgende Code angegeben:
 ```
 
 **XML-Code 22 – von**
-
--MM-TT. Das Element muss genau einmal
 
 **XML-Code 23 – bis**
 
@@ -1132,8 +1126,7 @@ Es dürfen sich mehrere Dateien auf einer CD-ROM befinden.
 
 Die verwendeten Medien sind mit Aufklebern zu versehen bzw. direkt zu beschriften. Die ent-sprechenden Beschriftungen müssen folgende Angaben enthalten:
 
--  Absender ((N)BSNR des Tätigkeitsortes, an dem die Datei erstellt wurde  haus-IK)
-- oder Kranken-
+-  Absender ((N)BSNR des Tätigkeitsortes, an dem die Datei erstellt wurde oder Kranken-haus-IK)
 -  Empfänger (Datenannahmestellen-IK oder KV-Nummer)
 -  Laufende Nummer
 -  Erstellungsdatum
@@ -1205,7 +1198,7 @@ Erstellt am 15.07.2019
 
 | Referenz | Dokument |
 |---|---|
-| [KBV_ITA_VGEX_Schnittstelle_SDDA ] | aktuell gültige Version Schnittstellenbeschreibung |
+| [KBV_ITA_VGEX_Schnittstelle_SDDA] | aktuell gültige Version Schnittstellenbeschreibung |
 | [1] | KBV-Schlüsseltabellen  http://applications.kbv.de/keytabs/ita/schluesseltabell en.asp |
 | [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital    https://partnerportal.kv- telema- tik.de/spaces/KDK/pages/71095111/Dokumente+zu m+Download |
 

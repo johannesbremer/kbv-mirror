@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.05   DOKUMENTENSTATUS: IN** |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.05   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET EDMP-DEPRESSION
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_DEPRESSION]
 
-KASSENÄRZTLICHE IT IN DER ARZTPRAXIS KRAFT  
+KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -177,7 +177,7 @@ Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärz
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
 - 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
@@ -187,9 +187,10 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
 **HINWEIS**
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ---
 
@@ -199,7 +200,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -236,9 +237,15 @@ werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei
 
 Die geforderten Videomitschnitte, Screenshots und die Teilnahmeerklärung (Prüffall 6240) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- _[lfdNr.]2 3
--  PrüffallNr. 1
+- PrüffallNr. 1_[lfdNr.]2 3
 - Teilnahmeerklärung (Prüffall 6240): TE_EWE_DE.pdf
+
+**1 Nummer des Prüffalls**
+
+**2 Laufende Nr.**
+
+**3 Gängiges Bild- bzw. Videoformat**
+
 - Alle Prüfunterlagen (DE-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die DE-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. . Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:
 - Zert_108_SystemID.zip
 
@@ -250,38 +257,23 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 391234511_20231030101010_1_DE_102.zip.XKM XKM-Datei
 
-Depression
+Depression          Dateiordner
 
-Dokumentation
-
-Dateiordner
-
-Dateiordner
+Dokumentation         Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
-
-**1 Nummer des Prüffalls**
-
-**2 Laufende Nr.**
-
-**3 Gängiges Bild- bzw. Videoformat**
-
 
 ---
 
 ## 1.6 PRÜFVORGABEN
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
 
 ### 1.6.1 Prüfstammdaten
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien
-
-werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
-
-verwendet
+Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
 ### 1.6.2 Versichertendaten
 
@@ -307,12 +299,14 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
+Prüfstammdateien verwendet
+
 
 ---
 
 ### 1.6.4 Krankenhausdaten
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen -tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken -haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu -reichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen-tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken-haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu-reichen.
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -372,19 +366,19 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Wie oft fühlten Sie sich im Verlauf der  letzten 2 Wochen durch die folgenden  Beschwerden beeinträchtigt?** |  |  |
-| a. | Beinahe jeden Tag | Beinahe jeden Tag |
-| b. Niedergeschlagenheit, Schwermut oder | Beinahe jeden Tag | An mehr als der Hälfte der |
-| c. | An mehr als der Hälfte der | Beinahe jeden Tag |
-| d. Müdigkeit oder Gefühl, keine Energie zu | Beinahe jeden Tag | Beinahe jeden Tag |
+| a. | Beinahe jeden Tag (3) | Beinahe jeden Tag (3) |
+| b. Niedergeschlagenheit, Schwermut oder | Beinahe jeden Tag (3) | An mehr als der Hälfte der |
+| c. | An mehr als der Hälfte der | Beinahe jeden Tag (3) |
+| d. Müdigkeit oder Gefühl, keine Energie zu | Beinahe jeden Tag (3) | Beinahe jeden Tag (3) |
 | e. | An einzelnen Tagen (1) | Überhaupt nicht (0) |
-| f.  Schlechte Meinung von sich selbst; | Beinahe jeden Tag | Beinahe jeden Tag |
+| f.  Schlechte Meinung von sich selbst; | Beinahe jeden Tag (3) | Beinahe jeden Tag (3) |
 | g. | An mehr als der Hälfte der | An mehr als der Hälfte der |
 | h. Waren Ihre Bewegungen oder Ihre | Überhaupt nicht (0) | Überhaupt nicht (0) |
 |  |  | |
 |  | | |
 |  |  | 6211 |
 
-Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und speichern. Bestimmung der Symptomschwere Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und den Summenscore berechnen. Wenig Interesse oder Freude an Ihren Tätigkeiten  (3)  (3) Hoffnungslosigkeit.  (3) Tage (2) Schwierigkeiten ein - oder durchzuschlafen oder vermehrter Schlaf Tage (2)  (3) haben  (3)  (3) Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben  (3)  (3) Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Tage (2) Tage (2) Sprache so verlangsamt, dass es auch - **2.**
+Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und speichern. Bestimmung der Symptomschwere Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und den Summenscore berechnen. Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch Tage (2) Tage (2) Tage (2) Tage (2) - **2.**
 
 
 ---
@@ -403,11 +397,11 @@ Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und
 | Quartalsweise |  |  |
 | **PHQ-9-Fragebogen** |  | |
 | anderen auffallen würde? Oder waren | | |
-| i. Gedanken, dass Sie lieber tot wären | Beinahe jeden Tag | An mehr als der Hälfte der |
+| i. Gedanken, dass Sie lieber tot wären | Beinahe jeden Tag (3) | An mehr als der Hälfte der |
 
 - **3.**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Administrative Daten** | | |
@@ -428,7 +422,7 @@ Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-| INDIKATIONSPEZIFISCHE | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Aktuelle Symptomatik – PHQ-9 Summenwert | Ergebnis von Punkt 2 | Ergebnis von Punkt 2 |
@@ -443,7 +437,7 @@ Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und
 |  |  |  |
 |  |  | 6211 |
 
-Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall  (3) Erstdokumentation 6211 06.10.2023 Depression Weiblich Tage (2) Verlaufsdokumentation 6211 06.12.2023 Depression Weiblich 56 kg 120 / 90 mmHg Ja Tabakverzicht Jedes zweite Quartal DATEN Episode
+Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Erstdokumentation 6211 06.10.2023 Depression Weiblich Tage (2) Verlaufsdokumentation 6211 06.12.2023 Depression Weiblich 56 kg 120 / 90 mmHg Ja Tabakverzicht Jedes zweite Quartal Episode
 
 ---
 
@@ -495,15 +489,15 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des P
 | b. Niedergeschlagenheit, Schwermut oder | An mehr als der Hälfte | An einzelnen Tagen (1) |
 | c. | An mehr als der Hälfte | An einzelnen Tagen (1) |
 | d. Müdigkeit oder Gefühl, keine Energie zu haben | der Tage (2) | An einzelnen Tagen (1) |
-| e. | Beinahe jeden Tag | Beinahe jeden Tag |
+| e. | Beinahe jeden Tag (3) | Beinahe jeden Tag (3) |
 | f.  Schlechte Meinung von sich selbst; Gefühl, ein | An einzelnen Tagen (1) | Überhaupt nicht (0) |
 | g. | An mehr als der Hälfte | An einzelnen Tagen (1) |
-| h. Waren Ihre Bewegungen oder Ihre Sprache so | Beinahe jeden Tag | An einzelnen Tagen (1) |
+| h. Waren Ihre Bewegungen oder Ihre Sprache so | Beinahe jeden Tag (3) | An einzelnen Tagen (1) |
 | i. Gedanken, dass Sie lieber tot wären oder sich | Überhaupt nicht (0) | Überhaupt nicht (0) |
 |  |  | |
 |  | | |
 
-Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein - oder durchzuschlafen oder vermehrter Schlaf Verminderter Appetit oder übermäßiges Bedürfnis zu essen  (3)  (3) Versager zu sein oder die Familie enttäuscht zu Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst?  (3)
+Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf Verminderter Appetit oder übermäßiges Bedürfnis zu essen Versager zu sein oder die Familie enttäuscht zu Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst?
 
 ---
 
@@ -525,7 +519,7 @@ Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigk
 
 - **3.**
 
-| INDIKATIONS | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Anamnese- und Befunddaten** | | |
@@ -541,7 +535,7 @@ Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigk
 |  |  |  |
 |  |  |  |
 
-Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Behandlungsplanung Informationsangebote der Krankenkasse Erstdokumentation 6212 Depression Männlich 1,96 m Verlaufsdokumentation 6212 Ja Depression Männlich 1,96 m PEZIFISCHE DATEN persistierend persistierend | INDIKATIONSÜBERGREIFENDE | | |
+Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Behandlungsplanung Informationsangebote der Krankenkasse Erstdokumentation 6212 Depression Männlich 1,96 m Verlaufsdokumentation 6212 Ja Depression Männlich 1,96 m persistierend persistierend | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Administrative Daten** | | |
@@ -594,7 +588,7 @@ Antidepressiva  depressionsspezifischen Schulung teilgenommen aktueller Dokument
 | **Prüffall-ID** | 6220 |
 | **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | 1. DMP Depression Dokumentationsunterlagen 2. zusätzlich DMP Diabetes mellitus Typ 2 Dokumentationsunterlagen |
+| **Prüfunterlagen** | 1. DMP Depression Dokumentationsunterlagen  2. zusätzlich DMP Diabetes mellitus Typ 2 Dokumentationsunterlagen |
 | **Hinweis** | Sofern das System eine Zulassung für die Indikation Diabetes mellitus Typ 2 verfügt, |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -614,22 +608,22 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des P
 | a. | An mehr als der Hälfte der | An einzelnen Tagen (1) |
 | b. Niedergeschlagenheit, Schwermut oder | An mehr als der Hälfte der | An einzelnen Tagen (1) |
 | c. | An mehr als der Hälfte der | An mehr als der Hälfte der |
-| d. Müdigkeit oder Gefühl, keine Energie zu | Beinahe jeden Tag | An mehr als der Hälfte der |
+| d. Müdigkeit oder Gefühl, keine Energie zu | Beinahe jeden Tag (3) | An mehr als der Hälfte der |
 | e. | An einzelnen Tagen (1) | Überhaupt nicht (0) |
-| f.  Schlechte Meinung von sich selbst; | Beinahe jeden Tag | An mehr als der Hälfte der |
+| f.  Schlechte Meinung von sich selbst; | Beinahe jeden Tag (3) | An mehr als der Hälfte der |
 | g. | An mehr als der Hälfte der | An einzelnen Tagen (1) |
 | h. Waren Ihre Bewegungen oder Ihre | An einzelnen Tagen (1) | An einzelnen Tagen (1) |
 |  |  | |
 |  | | |
 |  |  |  |
 
-Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte d System diese Zulassung nicht besitzen, dann sind nur die Depression-Daten zu übermitteln. Wenig Interesse oder Freude an Ihren Tätigkeiten Tage (2) Hoffnungslosigkeit. Tage (2) Schwierigkeiten ein - oder durchzuschlafen oder vermehrter Schlaf Tage (2) Tage (2) haben  (3) Tage (2) Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben  (3) Tage (2) Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Tage (2)
+Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System diese Zulassung nicht besitzen, dann sind nur die Depression-Daten zu übermitteln. Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2) Tage (2)
 
 ---
 
 |  | PHQ-9-Fragebogen | |
 |---|---|---|
-|  | **INDIKATIONSÜBERGREIFENDE** |  |
+|  | **INDIKATIONSÜBERGREIFENDE DATEN** |  |
 | **Erstdokumentation  Verlaufsdokumentation  Administrative Daten** | **Allgemeine Anamnese- und Befunddaten** | **Behandlungsplanung** |
 | 1,72 m |  | Körpergewicht |
 | 61 kg |  | Blutdruck |
@@ -643,7 +637,7 @@ Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. So
 | Sprache so verlangsamt, dass es auch | | |
 | i. Gedanken, dass Sie lieber tot wären | An einzelnen Tagen (1) | Überhaupt nicht (0) |
 
-anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten 3. Anlegen einer Erst- und einer Verlaufsdokumentation  DATEN DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Körpergröße Informationsangebote der Krankenkasse 6220 856215715 06.10.2023 Depression, Diabetes mellitus Typ 2 Weiblich 63 kg 120 / 70 mmHg Nach Funktion P1-47 des Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Depression-Dokumentation ist dies Diabetes mellitus. Tabakverzicht Quartalsweise 06.10.2023 6220 856215715 06.12.2023 Depression, Diabetes mellitus Typ 2 Weiblich Tabakverzicht Quartalsweise 06.12.2023| INDIKATIONSÜBERGREIFENDE | | |
+anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten 3. Anlegen einer Erst- und einer Verlaufsdokumentation DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Körpergröße Informationsangebote der Krankenkasse 6220 856215715 06.10.2023 Depression, Diabetes mellitus Typ 2 Weiblich 63 kg 120 / 70 mmHg Nach Funktion P1-47 des Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Depression-Dokumentation ist dies Diabetes mellitus. Tabakverzicht Quartalsweise 06.10.2023 6220 856215715 06.12.2023 Depression, Diabetes mellitus Typ 2 Weiblich Tabakverzicht Quartalsweise 06.12.2023 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Administrative Daten** | | |
@@ -667,7 +661,7 @@ anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelo
 
 ---
 
-| INDIKATIONS | | | |
+| INDIKATIONSPEZIFISCHE DATEN | | | |
 |---|---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | **Anamnese- und Befunddaten** | | | |
@@ -713,7 +707,7 @@ anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelo
 |  |  |  |  |
 |  |  | Relevante Ereignisse | Nierenersatztherapie |
 
-PEZIFISCHE DATEN Summenwert  (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation Antidepressiva  persistierend häufiger Monaten abgebrochen persistierend Hyperkeratose mit Einblutung
+Summenwert  (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation Antidepressiva  persistierend häufiger Monaten abgebrochen persistierend Hyperkeratose mit Einblutung
 
 ---
 
@@ -770,7 +764,7 @@ orale Antikoagulation einer depressionsspezifischen Schulung teilgenommen empfoh
 
 **2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Aktion** |
 | **Administrative Daten** | | |
@@ -796,10 +790,10 @@ orale Antikoagulation einer depressionsspezifischen Schulung teilgenommen empfoh
 | **Prüffall-ID** | 6214 |
 | **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Fehlermeldungen. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 6214 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation  DATEN Krankenkasse
+Fehlermeldungen. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 6214 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation Krankenkasse
 
 ---
 
@@ -811,7 +805,7 @@ Fehlermeldungen. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprach
 | Depressionsspezifische Schulung empfohlen (bei aktueller | Ja |  |
 | Depressionsspezifische Schulung wahrgenommen | aktuell nicht möglich | Nr. 13 |
 |  | **3.** |  |
-| **INDIKATIONS** | **Erstdokumentation** | **Aktion** |
+| **INDIKATIONSSPEZIFISCHE DATEN** | **Erstdokumentation** | **Aktion** |
 | **Schulung** |  |  |
 |  | | |
 |  |  |  |
@@ -824,9 +818,9 @@ Fehlermeldungen. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprach
 | Dokumentationsintervall | Monatsweise | Nr. 7 |
 | Datum der Erstellung | 06.10.2023 |  |
 
-SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode Dauer der aktuellen depressiven Episode Suizidalität eingeschätzt Nicht-medikamentöse und medikamentöse Behandlung Aktuelle Psychotherapie Aktuelle medikamentöse Therapie mit Antidepressiva depressionsspezifischen Schulung teilgenommen Dokumentation) Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. 14 Aktuell keine depressive Episode Nicht gewünscht Kontraindikation Geplant Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12
+Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode Dauer der aktuellen depressiven Episode Suizidalität eingeschätzt Nicht-medikamentöse und medikamentöse Behandlung Aktuelle Psychotherapie Aktuelle medikamentöse Therapie mit Antidepressiva  depressionsspezifischen Schulung teilgenommen Dokumentation) Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. 14 Aktuell keine depressive Episode Nicht gewünscht Kontraindikation Geplant Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12
 
-| INDIKATIONS | | |
+| INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Aktion** |
 | **Anamnese- und Befunddaten** | | |
@@ -847,7 +841,7 @@ SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summe
 
 - **4.** **Anlegen einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | **Verlaufsdokumentation** | **Aktion** |
 | **Administrative Daten** | | |
@@ -868,7 +862,7 @@ SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summe
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.12.2023 |  |
 
-| INDIKATIONS | | |
+| INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | **Verlaufsdokumentation** | **Aktion** |
 | **Anamnese- und Befunddaten** | | |
@@ -884,7 +878,7 @@ SPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summe
 |  |  |  |
 |  |  | DMP-Fallnummer |
 
-DATEN Krankenkasse Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  SPEZIFISCHE DATEN persistierend
+Krankenkasse Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  persistierend
 
 ---
 
@@ -918,7 +912,7 @@ depressionsspezifischen Schulung teilgenommen Dokumentation) weniger als 9 Monat
 | **Prüffall-ID** | 6230 |
 | **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | **Voraussetzung** | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn |
-| **Prüfunterlagen** | Video (Szenario 1) bzw. Screenshots / PDFs |
+| **Prüfunterlagen** | Video (Szenario 1) bzw. Screenshots / PDFs (Szenario 2 und Szenario 3) zum |
 | **Hinweis** | Dieser Testfall ist unterteilt in drei Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -926,15 +920,15 @@ depressionsspezifischen Schulung teilgenommen Dokumentation) weniger als 9 Monat
 \| SZENARIEN |
 \|---|
 \| **Szenario 1** |
-\| Dieses Szenario ist bei der Erfassung von Prüffall 6212 durchzuführen. Das Szenario besteht aus mehreren **1.** Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Korrigieren Sie die DMP-Fallnummer auf den Wert 6212. Zeigen Sie die folgenden Punkte beim Anlegen  › › › KBV_ITA_VGEX_Anforderungskatalog_eDMP).   **2.** Zeigen Sie die folgenden Punkte beim Anlegen der Verlaufsdokumentation: › › Symptomatik – PHQ-9 Summenwert“ der aktuellen Dokumentation gemäß Anforderung KP1 › |
+\| Dieses Szenario ist bei der Erfassung von Prüffall 6212 durchzuführen. Das Szenario besteht aus mehreren **1.** Es wird eine Erstdokumentation für einen noch nicht im System existierenden Patienten angelegt. Bei  Korrigieren Sie die DMP-Fallnummer auf den Wert 6212. Zeigen Sie die folgenden Punkte beim Anlegen  › › › KBV_ITA_VGEX_Anforderungskatalog_eDMP).   **2.** Zeigen Sie die folgenden Punkte beim Anlegen der Verlaufsdokumentation:  › › Symptomatik – PHQ-9 Summenwert“ der aktuellen Dokumentation gemäß Anforderung KP1-81 (siehe  › |
 \|  |
 \|  |
 \|  |
 \|  |
-\| Video (Szenario 1) bzw. Screenshots / PDFs |
+\| Video (Szenario 1) bzw. Screenshots / PDFs (Szenario 2 und Szenario 3) zum |
 \| Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte. Nachweis der korrekten Systemfunktionalität  (Szenario 2 und Szenario 3) zum Schritten. Anlage einer Erstdokumentation Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 6211) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) die bereits vergebene DMP-Fallnummer nicht akzeptieren. der Erstdokumentation: Das System ermöglicht dem Anwender den Ausdruck des Patient Health Questionnaire 9 (PHQ -9) Fragebogens gemäß Anforderung KP1-79 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). Der Patient hat den PHQ-9-Fragebogen im Rahmen der Erstdokumentation ausgefüllt. Zeigen Sie, dass der Anwender die Antworten im System gemäß Anforderung KP1-80 erfassen kann und das System die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Symptomatik Summenwert“ in die aktuelle Dokumentation gemäß Anforderung KP1 -81 ermöglicht (siehe Das System zeigt dem Anwender bei der Erfassung des Parameters „Aktuelle Symptomatik Summenwert“ die näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1 -53 Punkt 1 an (siehe Anlage einer Verlaufsdokumentation Der Patient hat den PHQ-9-Fragebogen im Rahmen der Verlaufsdokumentation ausgefüllt. Der Anwender kann die Antworten im System gemäß Anforderung KP1-80 erfassen. Das System ermöglicht die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle -81 (siehe Das System zeigt bei der Erfassung des Parameters „Aktuelle Symptomatik – PHQ-9 Summenwert“ die
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte. Nachweis der korrekten Systemfunktionalität Schritten. Anlage einer Erstdokumentation Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 6211) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) die bereits vergebene DMP-Fallnummer nicht akzeptieren. der Erstdokumentation: Das System ermöglicht dem Anwender den Ausdruck des Patient Health Questionnaire 9 (PHQ-9) Fragebogens gemäß Anforderung KP1-79 (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). Der Patient hat den PHQ-9-Fragebogen im Rahmen der Erstdokumentation ausgefüllt. Zeigen Sie, dass der Anwender die Antworten im System gemäß Anforderung KP1-80 erfassen kann und das System die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Symptomatik – PHQ-9 Summenwert“ in die aktuelle Dokumentation gemäß Anforderung KP1-81 ermöglicht (siehe Das System zeigt dem Anwender bei der Erfassung des Parameters „Aktuelle Symptomatik – PHQ-9 Summenwert“ die näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1-53 Punkt 1 an (siehe Anlage einer Verlaufsdokumentation Der Patient hat den PHQ-9-Fragebogen im Rahmen der Verlaufsdokumentation ausgefüllt. Der Anwender kann die Antworten im System gemäß Anforderung KP1-80 erfassen. Das System ermöglicht die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Das System zeigt bei der Erfassung des Parameters „Aktuelle Symptomatik – PHQ-9 Summenwert“ die
 
 ---
 
@@ -943,13 +937,13 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies
 \|  |
 \|  |
 \| **SZENARIEN** |
-\| näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1 -53 Punkt 2 und 3 an (siehe |
+\| näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1-53 Punkt 2 und 3 an (siehe |
 \| **Szenario 2** |
 \| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation |
 \| **Szenario 3** |
 \| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen werden. |
 
-KBV_ITA_VGEX_Anforderungskatalog_eDMP). entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4 -40 und KP4-41 (siehe 
+KBV_ITA_VGEX_Anforderungskatalog_eDMP). entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe 
 
 
 ---
@@ -988,11 +982,9 @@ Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungs
 
 Alle beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der  Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der multimorbide  Fall „Prüffall 6220“.
 
-Zusätzlich kann optional auch der Prüffall TDV6218 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die neue Schnittstellenversion 1.03 (gültig ab 01.10.2026)
+Zusätzlich kann optional auch der Prüffall TDV6218 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die neue Schnittstellenversion 1.03 (gültig ab 01.10.2026).
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  findet nicht statt,
-
-manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
@@ -1014,24 +1006,22 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohn
 | **Prüfunterlagen** | DMP Depression Dokumentationsunterlagen |
 | **Hinweis** | Dieser Prüffall ist  nicht im Zertifizierungsportal hochgeladen werden. |
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „
 
 | PHQ-9-Fragebogen |  | |
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Wie oft fühlten Sie sich im Verlauf der  letzten 2 Wochen durch die folgenden  Beschwerden beeinträchtigt?** |  |  |
-| a. | Beinahe jeden Tag (3) | Beinahe jeden Tag |
-| b. Niedergeschlagenheit, Schwermut oder | Beinahe jeden Tag | An mehr als der Hälfte der |
-| c. | An mehr als der Hälfte der | Beinahe jeden Tag |
-| d. Müdigkeit oder Gefühl, keine Energie zu | Beinahe jeden Tag | Beinahe jeden Tag |
+| a. | Beinahe jeden Tag (3) | Beinahe jeden Tag (3) |
+| b. Niedergeschlagenheit, Schwermut oder | Beinahe jeden Tag (3) | An mehr als der Hälfte der |
+| c. | An mehr als der Hälfte der | Beinahe jeden Tag (3) |
+| d. Müdigkeit oder Gefühl, keine Energie zu | Beinahe jeden Tag (3) | Beinahe jeden Tag (3) |
 |  |  | |
 |  |  |  |
 | TDV6218 |  |  |
 |  |  |  |
 |  |  |  |
 |  |  | DMP Depression Dokumentationsunterlagen |
-
-des Archivs mit „
 
 Name
 
@@ -1043,7 +1033,7 @@ Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Pr�
 
 - **1.**
 
-gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher -Archives. Beachten Sie, dass der Dateinamen Test _108“ beginnen muss, sonst schlägt die Validierung fehl. Typ _108_SystemID.zip  ZIP-komprimierter Ordner Dateiordner          391234511_20250406101010_1_ DE_103.idx     IDX-Datei 391234511_20250406101010_1_ DE_103.idx.XKM   XKM-Datei Versichertendaten Die Versichertendaten von Dennis Depri Anhang 4.2 ) sind im Ersatzverfahren zu erfassen. Bestimmung der Symptomschwere Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und den Summenscore berechnen. Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Tage (2) Schwierigkeiten ein - oder durchzuschlafen oder vermehrter Schlaf Tage (2) haben - **2.**
+gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher Test _108“ beginnen muss, sonst schlägt die Validierung fehl. Typ _108_SystemID.zip  ZIP-komprimierter Ordner Dateiordner          391234511_20250406101010_1_ DE_103.idx     IDX-Datei 391234511_20250406101010_1_ DE_103.idx.XKM   XKM-Datei Versichertendaten Die Versichertendaten von Dennis Depri Anhang 4.2 ) sind im Ersatzverfahren zu erfassen. Bestimmung der Symptomschwere Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und den Summenscore berechnen. Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Tage (2) Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf Tage (2) haben - **2.**
 
 
 ---
@@ -1058,14 +1048,14 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 | Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | **PHQ-9-Fragebogen** |  | |
 | e. | An einzelnen Tagen (1) | Überhaupt nicht (0) |
-| f.  Schlechte Meinung von sich selbst; | Beinahe jeden Tag | Beinahe jeden Tag |
+| f.  Schlechte Meinung von sich selbst; | Beinahe jeden Tag (3) | Beinahe jeden Tag (3) |
 | g. | An mehr als der Hälfte der | An mehr als der Hälfte der |
 | h. Waren Ihre Bewegungen oder Ihre | Überhaupt nicht (0) | Überhaupt nicht (0) |
-| i. Gedanken, dass Sie lieber tot wären | Beinahe jeden Tag | An mehr als der Hälfte der |
+| i. Gedanken, dass Sie lieber tot wären | Beinahe jeden Tag (3) | An mehr als der Hälfte der |
 
 - **3.**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Administrative Daten** | | |
@@ -1086,7 +1076,7 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 |  |  |  |
 
-Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE  DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Raucher Begleiterkrankungen Behandlungsplanung Informationsangebote der Krankenkasse  (3) Tage (2)  (3) Erstdokumentation TDV6218 15.10.2026 Depression Männlich Nein Diabetes mellitus  (3) Tage (2) Tage (2) Verlaufsdokumentation TDV6218 15.04.2027 Depression Männlich Ja Diabetes mellitus
+Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Raucher Begleiterkrankungen Behandlungsplanung Informationsangebote der Krankenkasse Tage (2) Erstdokumentation TDV6218 15.10.2026 Depression Männlich Nein Diabetes mellitus Tage (2) Tage (2) Verlaufsdokumentation TDV6218 15.04.2027 Depression Männlich Ja Diabetes mellitus
 
 ---
 
@@ -1157,7 +1147,8 @@ Aktuelle Symptomatik – PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen d
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 08 |
 
-3112 PLZ
+3112 PLZ 
+
 
 ---
 
@@ -1202,8 +1193,8 @@ REFERENZIERTE DOKUMENTE
 | EXT_ITA_VGEX_Plausi_eDMP_Depression | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie zur Prüfung der Dokumentations- |
 | KBV_ITA_VGEX_Schnittstelle_eDMP_Depression | Dokumentation Schnittstellenbeschreibung eDMP |
-| KBV_ITA_VGEX_Schnittstelle_ DM2 | Dokumentation Schnittstellenbeschreibung eDMP |
-| KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader |
+| KBV_ITA_VGEX_Schnittstelle_eDMP_DM2 | Dokumentation Schnittstellenbeschreibung eDMP |
+| KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader-Schnittstellenbeschreibung |
 | XPM-Paket_DE | Prüfmodul eDMP Depression |
 | XPM-Paket_DM2 | Prüfmodul eDMP Diabetes mellitus 2 |
 | Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
@@ -1211,14 +1202,15 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_FMEX_AAZ_eDMP_DE | Antrag auf Zertifizierung eDMP Depression |
 | Prüfstammdateien | KBV-Stammdateien mit der Dateinamenserweiterung |
 | KBV-Kryptomodul (XKM) und öffentlicher Test | KBV-Kryptomodul |
-| VSD_5.2.0_ 5 | eGK Daten (im XML-Format), Versichtertenstammdaten |
+| VSD_5.2.0_Testfaelle_Vn.n.zip5 | eGK Daten (im XML-Format), Versichtertenstammdaten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA (Datenannahmestellen |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 
 4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
 
-schlüssel Testfaelle_Vn.n.zip der Depression daten des indikationsübergreifenden allgemeinen Daten satzes daten des strukturierten Behandlungs programms Depression daten des strukturierten Behandlungsprogramms -Schnittstellenbeschreibung Versorgung „PRF”, welche ausschließlich  zur Zertifizierung eingesetzt werden Stammdatei) 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 2.3
+5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 2.3
 
+der Depression daten des indikationsübergreifenden allgemeinen Daten- satzes Dokumentationsdaten des strukturierten Behandlungsprogramms Depression daten des strukturierten Behandlungsprogramms Versorgung „PRF”, welche ausschließlich  zur Zertifizierung eingesetzt werden schlüssel Stammdatei)
 
 ---
 

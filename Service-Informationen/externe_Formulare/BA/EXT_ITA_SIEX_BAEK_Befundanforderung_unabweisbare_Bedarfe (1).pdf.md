@@ -10,7 +10,7 @@ Patient/in befindet sich seit
 
 # Letzte Behandlung am
 
-# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung  SGB II Abs. 6 (Besonderer Bedarf an z.B. Pflege- oder Hygieneartikel, etc., die aus gesundheitlichen  Gründen laufend benötigt werden):
+# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung – Mehrbedarf nach §21  SGB II Abs. 6 (Besonderer Bedarf an z.B. Pflege- oder Hygieneartikel, etc., die aus gesundheitlichen  Gründen laufend benötigt werden):
 
 regelmäßig
 
@@ -27,8 +27,6 @@ gelegentlich
 # 17 12.2021
 
 nicht in meiner Behandlung
-
-# – Mehrbedarf nach §21
 
 
 ---

@@ -3,11 +3,11 @@
 \| *Handbuch Prüfmodul* |
 \| [*_LDK_praxis* |
 \| Dezernat Digitalisierung und IT |
-\| 10623 Berlin, Herbert |
+\| 10623 Berlin, Herbert-Lewin-Platz 2 |
 \| Kassenärztliche Bundesvereinigung |
 \| Version  Datum:  Klassifizierung:  Extern |
 
-KBV_ITA_AHEX_Handbuch_Pruefmodul -Lewin-Platz 2 1.0.4 28.01.2024 Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.0.4 28.01.2024 Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
 
 
 ---
@@ -534,7 +534,7 @@ XML-Konfigurationsdatei. verarbeitet alle Dateien eines Eingangsverzeichnisses u
 |---|---|
 | -z | Hinter dieser Option sollte die Pfadangabe einer Zip-Datei ste- |
 | -x | Der Parameter –x aktiviert die Prüfung der digitalen Muster. Der  Der Parameter darf nicht gleichzeitig mit –y aufgerufen werden. |
-| -y | Der Parameter –y aktiviert den PDF-LDT abgleich zwischen der  Dieser Parameter darf nicht gleichzeitig mit dem Parameter –x  Bsp: -y ./DigitaleMuster/xyz.pdf |
+| -y | Der Parameter –y aktiviert den PDF-LDT abgleich zwischen der  Dieser Parameter darf nicht gleichzeitig mit dem Parameter –x  Bsp: -y ./DigitaleMuster/xyz.pdf –f ./LDT/Z0112345.ldt |
 
 **Tabelle 3: Übergabeparameter**
 
@@ -556,7 +556,7 @@ XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die
 
 Übergabeparameter:
 
-und beendet sich anschließend. Wird außer diesem Übergabe- parameter auch noch die Konfigurationsdatei (Übergabepara- meter -c) angegeben, so wird zusätzlich die Versionsnummer des Prüfpaketes ausgegeben. hen, die vom Prüfmodul bearbeitet wird. Der Inhalt des Zip- Archivs darf nur Prüfdateien enthalten. Dieser Übergabepara- meter ist optional. Pfad zum PDF wird mit –f %PFAD% übergeben, außer bei der Verzeichnisprüfung. Bsp: -x –f ./DigitaleMuster PDF-Datei, deren Pfad hinter diesem Parameter angegeben wird und der LDT-Datei, deren Pfad hinter dem Parameter –f angegeben wird. –f ./LDT/Z0112345.ldt -c Konfig/konfig.xml –s -e
+und beendet sich anschließend. Wird außer diesem Übergabe- parameter auch noch die Konfigurationsdatei (Übergabepara- meter -c) angegeben, so wird zusätzlich die Versionsnummer des Prüfpaketes ausgegeben. hen, die vom Prüfmodul bearbeitet wird. Der Inhalt des Zip- Archivs darf nur Prüfdateien enthalten. Dieser Übergabepara- meter ist optional. Pfad zum PDF wird mit –f %PFAD% übergeben, außer bei der Verzeichnisprüfung. Bsp: -x –f ./DigitaleMuster PDF-Datei, deren Pfad hinter diesem Parameter angegeben wird und der LDT-Datei, deren Pfad hinter dem Parameter –f angegeben wird. -c Konfig/konfig.xml –s -e
 
 
 ---
@@ -634,13 +634,14 @@ Ist lediglich eine LDT-Datei ausgewählt, kann nur der Modus „Nur LDT“ ausge
 
 ---
 
-| 3.5.3 | Optionen |
-|---|---|
-| Unter | den Optionen kann das Prü fm odulk onfig urie rt w erd en. |
-| **3.5.4** | **Ansicht** |
-| Unter | „ A n sich t“k a n n die Fe hlerstatis tik u n d das Prüfpro to ko ll aufg e rufen |
+# 3.5.3 Optionen
 
-Unter den Optionen kann das Prüfmodul konfiguriert werden. Unter „Ansicht“ kann die Fehlerstatistik und das Prüfprotokoll aufgerufen werden.
+Unter den Optionen kann das Prüfmodul konfiguriert werden.
+
+# 3.5.4 Ansicht
+
+Unter „Ansicht“ kann die Fehlerstatistik und das Prüfprotokoll aufgerufen werden.
+
 
 ---
 
@@ -695,7 +696,7 @@ xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hie
 **public class** XpmEinstiegTest {
 **public static void main**(String[] args) **throws** XPMException {
 **TODO** Auto-generated method stub
-System.***out*** **println**("user.dir: " + System.getProperty("user.dir"));  XPMEinstieg **xpm new XPMEinstieg**("src/test/resources/Konfig/konfig.xml"
+System.***out*** **println**("user.dir: " + System.getProperty("user.dir"));  XPMEinstieg **xpm new XPMEinstieg**("src/test/resources/Konfig/konfig.xml",
 "src/test/resources/Daten/Z01Auftrag.ldt", **new XPMAdapter**());
 **xpm setServer false** **xpm setZipFile false**
 **int nStatus xpm pruefe**();

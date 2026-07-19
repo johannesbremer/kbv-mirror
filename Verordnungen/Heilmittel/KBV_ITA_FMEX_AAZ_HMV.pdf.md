@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.3   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 4.3   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  HEILMITTELVERORDNUNG
@@ -88,7 +88,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass alle (konditionalen |
+| ☐ | Der Antragsteller versichert, dass alle (konditionalen) Pflichtfunktionen des Anforderungskatalogs |
 
 # 3 ANLAGE ZU DEN KONTAKTDATEN
 
@@ -109,9 +109,8 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **Telefonnummer** |  |
 | **E-Mail-Adresse** |  |
 
-Diese Information ist verpflichtend anzugeben
+nach § 73 SGB V für die Verordnung von Heilmittel erfüllt sind. Diese Information ist verpflichtend anzugeben
 
-nach § 73 SGB V für die Verordnung von Heilmittel ) Pflichtfunktionen des Anforderungskatalogs  erfüllt sind.
 
 ---
 
@@ -139,7 +138,7 @@ nach § 73 SGB V für die Verordnung von Heilmittel ) Pflichtfunktionen des Anfo
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
 
 ---

@@ -10,7 +10,7 @@ Patient/in befindet sich seit
 
 # Letzte Behandlung am
 
-# Relevante Diagnose(n) in Bezug auf ernährungsbedingten Mehrbedarf
+# Relevante Diagnose(n) in Bezug auf ernährungsbedingten Mehrbedarf:
 
 # Krankheitsverlauf (insbesondere bei Mangelernährung):
 
@@ -43,7 +43,7 @@ regelmäßig  gelegentlich  nicht in meiner Behandlung
 
 # Erfordert die Erkrankung eine über dem üblichen Bedarf liegende Energiezufuhr und/oder Proteinzufuhr  und/oder Fettzufuhr?
 
-# Wenn ja, geben Sie bitte nach Möglichkeit ca. den individuellen Bedarf pro Tag an (in kcal/kg KG/Tag  bzw. g/kg KG/Tag bzw. Energieprozent En%)
+# Wenn ja, geben Sie bitte nach Möglichkeit ca. den individuellen Bedarf pro Tag an (in kcal/kg KG/Tag  bzw. g/kg KG/Tag bzw. Energieprozent En%).
 
 # Ist es aufgrund der Erkrankung aus medizinischen Gründen erforderlich bestimmte Lebensmittel zu  meiden und diese durch teurere Lebensmittel bzw. nicht verordnungsfähige diätetische Spezialprodukte  (z.B. eiweißreduzierte Diätnahrung, phenylalaninfreie Fertigprodukte, etc.) zu ersetzen, um den  individuellen Energie- und Nährstoffbedarf zu decken?
 

@@ -1621,11 +1621,15 @@ zur XML-
 
 ### 6.10.6.3 Softwaretyp der XML-Schnittstelle (SoftwareTyp)
 
-Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt 6.10.4 beschrieben. Hier ist  der Wert „XSD“ fest vorgeschrieben.
+Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt  der Wert „XSD“ fest vorgeschrieben.
 
 ### 6.10.6.4 Zusatzangabe zum XPM-Prüfmodul (Software)
 
-Hier wird die optionale Angabe zu dem XPM-Prüfmodul (XPM-Paket) angegeben. Das Ele- ment besteht aus den Pflichtelementen *SoftwareName SoftwareVersion* und *SoftwareTyp* Die Grundstruktur ist in Abbildung 15 dargestellt.
+Hier wird die optionale Angabe zu dem XPM-Prüfmodul (XPM-Paket) angegeben. Das Ele- ment besteht aus den Pflichtelementen *SoftwareName* Die Grundstruktur ist in Abbildung 15 dargestellt.
+
+6.10.4 beschrieben. Hier ist
+
+*SoftwareVersion* und *SoftwareTyp*
 
 **Abbildung 15 Grundstruktur sciphox:Software**
 

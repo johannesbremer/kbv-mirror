@@ -4,10 +4,12 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG EDMP DIABETES MELLITUS TYP 2
+**ANTRAG AUF ZERTIFIZIERUNG EDMP-**
+
+# DIABETES MELLITUS TYP 2
 
 ## [KBV_ITA_FMEX_AAZ_EDMP_DM2]
 
@@ -86,7 +88,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
 ## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP DM 2
@@ -97,7 +99,7 @@ Folgende optionale eDMP DM 2 Funktionen sind gem. Anforderungskatalog DMP realis
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION EDMP DM 2 LT. |
 |---|---|
 |  |  |
 |  |  |
@@ -106,7 +108,8 @@ Folgende optionale eDMP DM 2 Funktionen sind gem. Anforderungskatalog DMP realis
 |  |  |
 |  |  |
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei ANFORDERUNGSKATALOG EDMP DM 2 LT.
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. ANFORDERUNGSKATALOG 
+
 
 ---
 
@@ -140,7 +143,7 @@ Diese Information ist verpflichtend anzugeben
 - (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
 - (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.
 - (3) Die Laufzeit der Zulassung beträgt 36 Monate.
-- (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden
+- (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|

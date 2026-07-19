@@ -7,7 +7,11 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2021   VERSION: 1.40   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG  SDKRW (KODIERREGELWERK- STAMMDATEI)
+# SCHNITTSTELLENBESCHREIBUNG
+
+**SDKRW (KODIERREGELWERK-**
+
+# STAMMDATEI)
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDKRW]
 
@@ -541,7 +545,7 @@ Integration von Schlüsseltabellen
 
 # 4 HEADER (KRW)
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung [KBV_ITA_VGEX_EHD] verwiesen.
+Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung [KBV_ITA_VGEX_EHD] verwiesen.
 
 Im Rahmen der KRW-dSchnittstelle werden folgende eh -Elemente im Header verwendet:
 
@@ -549,7 +553,7 @@ Im Rahmen der KRW-dSchnittstelle werden folgende eh -Elemente im Header verwende
 
 ***<id>***
 
-Zur eindeutigen Kennzeichnung der Stammdatei beinhaltet das id -Element eine eindeutige  Instanz-ID.
+Zur eindeutigen Kennzeichnung der Stammdatei beinhaltet das id-Element eine eindeutige  Instanz-ID.
 
 ***<version_nbr>*** Beinhaltet die jeweilige Lieferungsnummer; relevant bei Korrekturlieferung o.ä.
 
@@ -737,9 +741,8 @@ Der XML-Code für das Strukturelement <regelquelle_liste> hat folgenden Aufbau:
 
 ## 5.8 REGELQUELLE
 
-Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die Kodierregel ableiten  lässt.
+Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.50 ) bezieht sich auf das aktuelle Quartal und Zeitraum, inklusive des aktuellen Quartals und wird durch einen ICD-Kode ausgelöst Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die Kodierregel ableiten  lässt.
 
-Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.50 ) bezieht sich auf das aktuelle Quartal und Zeitraum, inklusive des aktuellen Quartals und wird durch einen ICD-Kode ausgelöst
 
 ---
 
@@ -968,7 +971,7 @@ Der XML- Code für das optionale Element <operator> hat folgenden Aufbau:
 
 ## 5.21 EXISTENZ
 
-Das Element <existenz> beschreibt, ob ein Wert vorhanden oder nicht vorhanden ist. Es steht innerhalb der  Bedingung als Existenzkriterium für die Parameter, die innerhalb der Value -Liste angegeben sind.
+Das Element <existenz> beschreibt, ob ein Wert vorhanden oder nicht vorhanden ist. Es steht innerhalb der  Bedingung als Existenzkriterium für die Parameter, die innerhalb der Value-Liste angegeben sind.
 
 **Abbildung 23:** existenz
 
@@ -992,7 +995,7 @@ Der XML-Code für das Element <existenz> hat folgenden Aufbau:
 
 **Hinweis:**
 
-Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ gesetzt, da ein Kode,  der die Kodierregel auslösen soll, erst einmal vorhanden sein muss.  (Sub-)Bedingungen kann der Parameter „existenz“ aber auch den Wert „FALSE“ annehmen.  In Kombination mit mehreren
+Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ gesetzt, da ein Kode,  der die Kodierregel auslösen soll, erst einmal vorhanden sein muss. In Kombination mit mehreren  (Sub-)Bedingungen kann der Parameter „existenz“ aber auch den Wert „FALSE“ annehmen.
 
 V="" ... der Elemente in der Value-Liste voraus der Elemente in der Value-Liste voraus V="" ... Value-Elemente Value-Elemente
 

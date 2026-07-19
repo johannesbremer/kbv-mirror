@@ -10,7 +10,7 @@
 
 **1. Diagnose (ICD-10-Code)**
 
-Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ve schlüsselt nach ICD-10-GM an.
+Geben Sie hier bitte die Diagnose, die die Notwendigkeit einer Soziotherapie medizinisch begründet, ver-schlüsselt nach ICD-10-GM an.
 
 **2. Erkrankung besteht seit (falls bekannt)**
 
@@ -28,14 +28,6 @@ Hier geben Sie bitte Name und Adresse des Soziotherapeuten an.
 
 **Mehr Informationen**
 
-Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php)
+Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php).
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
-
-r-
-
--
-
--
-
-(PDF, 550 KB):  [](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)

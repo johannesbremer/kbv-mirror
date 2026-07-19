@@ -31,7 +31,7 @@
 
 | Lfd. | Parameter | Ausprägung | Plausibilitätsregeln |
 |---|---|---|---|
-|  | **Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt,** | | |
+|  | **Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt, sind die nachstehenden Felder der Anlage 10** | | |
 |  | Anamnese- und Befunddaten |  | |
 | 1 | In den letzten 4 Wochen: | Häufiger als 2 mal wöchentlich / 2 mal | Pflichtfeld;  Genau eine Angabe ist zulässig |
 | 1a | In den letzten 4 Wochen: | Häufiger als 2 mal wöchentlich / 2 mal | Pflichtfeld;  Genau eine Angabe ist zulässig |
@@ -42,7 +42,7 @@
 |  | Relevante Ereignisse |  | |
 | 3 | Ungeplante, auch | Anzahl | Bedingtes Pflichtfeld;   Ganzzahlige numerische Angabe   Eine Angabe ist erforderlich, wenn die Anlage 10 im Rahmen einer  Angabe muss gleich oder größer „0“ sein und kleiner oder gleich  Eine Angabe im Rahmen einer Erstdokumentation ist nicht |
 | **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
-|  | **Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt,** |  | |
+|  | **Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt, sind die nachstehenden Felder der Anlage 10** |  | |
 | Anamnese- und Befunddaten |  | 1 | In den letzten 4 Wochen:  Häufiger als 2 mal wöchentlich / 2 mal  Pflichtfeld;  In den letzten 4 Wochen: |
 | 2a | In den letzten 4 Wochen: | Ja / Nein | Pflichtfeld;  Genau eine Angabe ist zulässig  2b  Pflichtfeld;  X Prozent des Soll-Wertes / Nicht durchgeführt  Erfolgt eine Angabe zu „X Prozent des Soll-Wertes“ muss die |
 | Wertebereich 010,0 – 299,9 |  | Relevante Ereignisse | 3   Ungeplante, auch  Anzahl   Angabe muss gleich oder größer „0“ sein und kleiner oder gleich |
@@ -56,11 +56,11 @@
 | Angabe muss gleich oder größer „0“ sein und kleiner oder gleich | Eine Angabe im Rahmen einer Erstdokumentation ist nicht |  |  |
 |  |  |  | |
 | **Lfd.** | **Parameter** | **Ausprägung** | **Plausibilitätsregeln** |
-|  | **Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt,** |  | Anamnese- und Befunddaten     1 |
+|  | **Ist in der Anlage 2 in Feld 10 mindestens die Angabe „Asthma bronchiale“ erfolgt, sind die nachstehenden Felder der Anlage 10** |  | Anamnese- und Befunddaten     1 |
 | In den letzten 4 Wochen: | Häufiger als 2 mal wöchentlich / 2 mal | Pflichtfeld; | Genau eine Angabe ist zulässig  1a  Pflichtfeld;    Ja / Nein  2b |
 | In den letzten 4 Wochen: | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig |
 
-Nr.  sind die nachstehenden Felder der Anlage 10 entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig.
+Nr. entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig.
 
 ---
 
@@ -165,4 +165,4 @@ Nr. Medikation  Andere   (bei aktueller Dokumentation)  Einschreibung in DMP ber
 | 11a | Therapieanpassung | Keine / Steigerung der Medikation / | Pflichtfeld;  Mehrfachnennungen sind möglich  -  -  -  Wenn die Angabe „Steigerung der Medikation“ erfolgt ist, kann |
 |  |  |  |  |
 
-Nr. Selbstmanagementplan  Verbesserung der Anwendung der Medikation / Reduktion der Medikation Wenn die Angabe „Keine“ erfolgt ist, ist keine weitere Angabe zulässig. Die Angaben „Steigerung der Medikation“ und „Verbesserung der Anwendung der Medikation “ können einzeln oder gemeinsam erfolgen. Die Angaben „Reduktion der Medikation“ und „Verbesserung der Anwendung der Medikation“ können einzeln oder gemeinsam erfolgen. nicht gleichzeitig die Angabe „Reduktion der Medikation“ erfolgen.
+Nr. Selbstmanagementplan  Verbesserung der Anwendung der Medikation / Reduktion der Medikation Wenn die Angabe „Keine“ erfolgt ist, ist keine weitere Angabe zulässig. Die Angaben „Steigerung der Medikation“ und „Verbesserung der Anwendung der Medikation“ können einzeln oder gemeinsam erfolgen. Die Angaben „Reduktion der Medikation“ und „Verbesserung der Anwendung der Medikation“ können einzeln oder gemeinsam erfolgen. nicht gleichzeitig die Angabe „Reduktion der Medikation“ erfolgen.

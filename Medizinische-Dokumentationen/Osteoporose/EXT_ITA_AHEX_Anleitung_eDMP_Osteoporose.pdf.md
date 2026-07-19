@@ -17,51 +17,29 @@ Version:
 
 ### Anamnese- und Befunddaten
 
-Die Osteoporose ist eine **systemische Skeletterkrankung** **masse und eine mikroarchitektonische Verschlechterung des Knochengewebes** terisiert ist, mit einem konsekutiven Anstieg der Knochenfragilität und der  **ren**. Sind bereits Frakturen als Folge der Osteoporose aufgetreten, liegt eine manifeste Osteo-porose vor.
+Die Osteoporose ist eine **systemische Skeletterkrankung**, die durch eine **niedrige Knochen-** **masse und eine mikroarchitektonische Verschlechterung des Knochengewebes** charak-terisiert ist, mit einem konsekutiven Anstieg der Knochenfragilität und der **Neigung zu Fraktu-** **ren**. Sind bereits Frakturen als Folge der Osteoporose aufgetreten, liegt eine manifeste Osteo-porose vor.
 
 #### Osteoporosebedingte Fraktur in den letzten 12 Monaten
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend. **Genau eine Angabe** ist erforderlich
+Eine Angabe zu diesem Feld ist nur im Rahmen einer **Erstdokumentation** möglich und hier  verpflichtend. **Genau eine Angabe** ist erforderlich und zulässig.
 
-Bei einer Folgedokumentation ist hier kein
+Bei einer Folgedokumentation ist hier keine Angabe möglich.
 
-Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihrem Patienten  **ten 12 Monaten vor der Einschreibung**  eingetreten ist.
+Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihrem Patienten rückblickend **in den letz-** **ten 12 Monaten vor der Einschreibung eine ausschließlich osteoporosebedingte Fraktur**  eingetreten ist.
 
 Sollte in den letzten 12 Monaten keine osteoporosebedingte Fraktur eingetreten sein, geben  Sie dies bitte mit „Nein“ an.
 
-Bitte geben Sie ebenfalls „Nein“ an, wenn  scheinlichkeit nach, nicht im Zusammenhang mit der Osteoporose steht.  eine Angabe zu „Lokalisation der osteoporosebedingten Fraktur“ nicht erforderlich.
+Bitte geben Sie ebenfalls „Nein“ an, wenn zwar eine Fraktur vorlag, diese aber aller Wahr-scheinlichkeit nach, nicht im Zusammenhang mit der Osteoporose steht. In diesen Fällen ist  eine Angabe zu „Lokalisation der osteoporosebedingten Fraktur“ nicht erforderlich.
 
 #### Neu aufgetretene osteoporosebedingte Fraktur seit der letzten Dokumentation
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend. **Genau eine Angabe** ist erforderlich
+Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und hier  verpflichtend. **Genau eine Angabe** ist erforderlich und zulässig.
 
 Bei einer Erstdokumentation ist hier keine Angabe möglich.
 
-Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihrem Patienten  **mentation** eine im Wesentlichen durch die  ist.
+Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihrem Patienten **seit der letzten Doku-** **mentation** eine im Wesentlichen durch die **Osteoporose** **bedingte Fraktur neu** eingetreten  ist.
 
-Sollte seit der letzten Dokumentation keine osteoporosebedingte Fraktur eingetreten sein, ge-ben Sie dies bitte mit „Nein“ an. Bitte geben Sie ebenfalls „Nein“ an, wenn  vorlag, diese aber aller Wahrscheinlichkeit nach, nicht im Zusammenhang mit der Osteoporose  steht. In diesen Fällen ist eine Angabe zu „Lokalisation der osteoporosebedingten Fraktur“ nicht  erforderlich.
-
-, die durch eine **niedrige Knochen-** charak-**Neigung zu Fraktu-**
-
-**Erstdokumentation** und zulässig
-
-e Angabe möglich.
-
-**eine ausschließlich osteoporosebedingte Fraktur**
-
-zwar eine Fraktur vorlag, diese aber
-
-möglich und hier
-
-rückblickend **in den letz-**
-
-aller Wahr-In diesen Fällen ist
-
-**Folgedokumentation** möglich und hier  und zulässig
-
-**seit der letzten Doku-** **Osteoporose** **bedingte Fraktur neu** eingetreten
-
-zwar eine Fraktur
+Sollte seit der letzten Dokumentation keine osteoporosebedingte Fraktur eingetreten sein, ge-ben Sie dies bitte mit „Nein“ an. Bitte geben Sie ebenfalls „Nein“ an, wenn zwar eine Fraktur  vorlag, diese aber aller Wahrscheinlichkeit nach, nicht im Zusammenhang mit der Osteoporose  steht. In diesen Fällen ist eine Angabe zu „Lokalisation der osteoporosebedingten Fraktur“ nicht  erforderlich.
 
 
 ---
@@ -90,7 +68,7 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** mögli
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-Das DMP Osteoporose soll unter anderem dazu beitragen, durch die Vermeidung von Stürzen  osteoporosebedingte Frakturen zu reduzieren
+Das DMP Osteoporose soll unter anderem dazu beitragen, durch die Vermeidung von Stürzen  osteoporosebedingte Frakturen zu reduzieren.
 
 Geben Sie in diesem Feld bitte die **Anzahl aller Stürze** rückblickend seit der letzten Dokumen-tation an. Dabei liegt es im Ermessen Ihrer Patientin bzw. Ihres Patienten und Ihnen, welche  Stürze als anamnestisch relevant zu bewerten sind. Trat seit der letzten Dokumentation kein  Sturz auf, geben Sie bitte eine „0“ an. Eine Angabe. kleiner als „0“ und größer als „99“ ist nicht  möglich.
 
@@ -107,7 +85,7 @@ Ist Ihre Patientin oder Ihr Patient jünger als 70 Jahre alt, ist hier keine Ang
 
 Um das Sturzrisiko Ihrer Patientin bzw. Ihres Patienten zu ermitteln, kann ab einem Lebensalter  von 70 Jahren im Rahmen des Geriatrischen Basisassessments ein Sturzassessment durchge-führt werden.
 
-Hierzu bieten sich bei Patientinnen oder Patienten mit klinischen oder anamnestischen Anhalts-punkten für eine Einschränkung von Muskelkraft oder Koordination einfach durchzuführende  Untersuchungen wie der Timed „up & go“ oder „Chair Rising“-Test an.  Letzterer sollte mit der  Überprüfung des Tandem-Stand-Tests kombiniert werden.
+Hierzu bieten sich bei Patientinnen oder Patienten mit klinischen oder anamnestischen Anhalts-punkten für eine Einschränkung von Muskelkraft oder Koordination einfach durchzuführende  Untersuchungen wie der Timed „up & go“ oder „Chair Rising“-Test an. Letzterer sollte mit der  Überprüfung des Tandem-Stand-Tests kombiniert werden.
 
 Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihrem Patienten ein **erhöhtes Sturzri-** **siko** vorliegt. Sollte kein erhöhtes Sturzrisiko vorliegen, geben Sie dies bitte mit „Nein“ an.
 
@@ -140,13 +118,13 @@ Sollten Sie bei Ihrer Patientin oder Ihrem Patienten trotz eines erhöhten Sturz
 
 **Mindestens eine Angabe** ist erforderlich. Mehrfachnennungen sind möglich.
 
-Weisen Sie regelmäßig auf die Bedeutung von körperlichen Aktivitäten (Bewegung im Alltag, wie  Treppenstiegen oder Radfahren und körperliches Training) hin und e mpfehlen und motivieren  Sie Ihre Patientin oder Ihren Patienten zur Teilnahme an geeigneten Trainingsmaßnahmen
+Weisen Sie regelmäßig auf die Bedeutung von körperlichen Aktivitäten (Bewegung im Alltag, wie  Treppenstiegen oder Radfahren und körperliches Training) hin und empfehlen und motivieren  Sie Ihre Patientin oder Ihren Patienten zur Teilnahme an geeigneten Trainingsmaßnahmen.
 
-Körperliches Training kann regelmäßiges sportliches Training (beispielweise im Rahmen von  Funktionstraining oder Rehabilitationssport), regelmäßiges Krafttraining oder auch eine Maß-nahme zur Sturzprophylaxe inklusive Eigenaktivitäten sein. Neben Kraft oder Widerstandtraining  werden auch Kombinationen mit Übungen zu Ausdauer, Kondition und Gleichgewicht (Jogging Walking Aerobic, Tai-Chi oder Treppensteigen), empfohlen. Die Erhaltung der Knochenmasse  mit resultierender Frakturreduktion kann nur durch regelmäßig durchgeführtes Widerstandstrai-ning (high-impact-training/Krafttraining) erreicht werden, dies setzt jedoch eine ausreichende kör-perliche Belastungsfähigkeit voraus.
+Körperliches Training kann regelmäßiges sportliches Training (beispielweise im Rahmen von  Funktionstraining oder Rehabilitationssport), regelmäßiges Krafttraining oder auch eine Maß-nahme zur Sturzprophylaxe inklusive Eigenaktivitäten sein. Neben Kraft- oder Widerstandtraining  werden auch Kombinationen mit Übungen zu Ausdauer, Kondition und Gleichgewicht (Jogging,  Walking Aerobic, Tai-Chi oder Treppensteigen), empfohlen. Die Erhaltung der Knochenmasse  mit resultierender Frakturreduktion kann nur durch regelmäßig durchgeführtes Widerstandstrai-ning (high-impact-training/Krafttraining) erreicht werden, dies setzt jedoch eine ausreichende kör-perliche Belastungsfähigkeit voraus.
 
 Funktionstraining oder Rehabilitationssport sind einem langfristigen Einsatz von Physiotherapie  (insbesondere passive Maßnahmen) vorzuziehen.
 
-Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihr Patient regelmäßig körperliches Training  durchführt
+Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihr Patient regelmäßig körperliches Training  durchführt.
 
 Sollte aus einem für Sie nachvollziehbaren Grund regelmäßiges körperliches Training nicht mög-lich gewesen sein (z.B. aufgrund einer Komorbidität), geben Sie bitte „Nicht möglich“ an.
 
@@ -156,7 +134,7 @@ Sollte Ihre Patientin bzw. Ihr Patient aus einem für Sie nicht nachvollziehbare
 
 #### Aktuelle osteoporosespezifische Medikation
 
-**Genau eine Angabe** ist erforderlich und zulässig
+**Genau eine Angabe** ist erforderlich und zulässig.
 
 **Allen Patientinnen und Patienten** soll eine **osteoporosespezifische Therapie** angeboten  werden.
 
@@ -193,7 +171,7 @@ Erhält Ihre Patientin aktuell eine Hormonersatztherapie (HRT) mit Östrogenen u
 
 Eine spezifische Osteoporosetherapie soll **in der Regel mindestens drei Jahre** **andauern**, kann  aber auch in Abhängigkeit vom individuellen Frakturrisiko lebenslang notwendig sein. Bei einer  Therapie mit Teriparatid, welche auf 24 Monate begrenzt ist, ist auch hier die antiresorptive An-schlusstherapie zu berücksichtigen.
 
-Bitte machen Sie hier eine Angabe zur **Dauer der Einnahme** der osteoporosespezifischen Me-dikation bei Ihrer Patientin bzw. Ihrem Patienten
+Bitte machen Sie hier eine Angabe zur **Dauer der Einnahme** der osteoporosespezifischen Me-dikation bei Ihrer Patientin bzw. Ihrem Patienten.
 
 Wurde die **osteoporosespezifische Medikation** bei Ihrer Patientin bzw. Ihrem Patienten zum  Zeitpunkt der Dokumentation **bereits beendet,** geben Sie hier bitte an, ob diese „Vor dem abge-schlossenen 3. Jahr abgebrochen“ oder ob diese „Nach drei Jahren abgeschlossen“ wurde.
 
@@ -206,7 +184,7 @@ Wurde die osteoporosespezifische medikamentöse Therapie regulär „Nach drei J
 
 Wurde zu keinem Zeitpunkt - weder in der Vergangenheit noch aktuell- eine osteoporosespezifi-sche medikamentöse Therapie durchgeführt, geben Sie bitte Keine osteoporosespezifische Me-dikation durchgeführt an.
 
-Bitte geben Sie ebenfalls „Keine osteoporosespezifische Medikation durchgeführtan, wenn Ihrer  Patientin eine Hormonersatztherapie (HRT) mit Östrogenen und Gestagenen oder nur mit Öst-rogenen erhält.
+Bitte geben Sie ebenfalls „Keine osteoporosespezifische Medikation durchgeführt an, wenn Ihrer  Patientin eine Hormonersatztherapie (HRT) mit Östrogenen und Gestagenen oder nur mit Öst-rogenen erhält.
 
 ### Schulungen
 
@@ -214,7 +192,7 @@ Bitte machen Sie jeweils eine Angabe zu den folgenden drei Dokumentationsfeldern
 
 #### Schulung bereits vor Einschreibung in das DMP wahrgenommen
 
-Eine Angabe in diesem Feld ist nur im Rahmen der  pflichtend **Genau eine Angabe** ist erforderlich und zulässig.
+Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier ver-pflichtend. **Genau eine Angabe** ist erforderlich und zulässig.
 
 Bei der Folgedokumentation ist hier keine Angabe möglich.
 
@@ -237,31 +215,21 @@ Sollten Sie keine Schulung empfohlen haben, geben Sie bitte „Nein“ an.
 
 #### Empfohlene Schulung wahrgenommen
 
-Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die  Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher  nur im Rahmen einer **Folgedokumentation** möglich u
+Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf eine Schulung, die  Sie Ihrem Patienten bei dem letzten Dokumentationstermin empfohlen haben, und sind daher  nur im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend.
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
-
-**Erstdokumentation** möglich und hier ver-
-
-nd hier verpflichtend
 
 
 ---
 
 Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen,  geben Sie bitte „Ja“ an.
 
-War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus  baren Gründen nicht möglich, geben Sie hier bitte „War aktuell nicht möglich“ an. Solche Gründe  können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin oder des Pati-enten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt  alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
+War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus nachvollzieh-baren Gründen nicht möglich, geben Sie hier bitte „War aktuell nicht möglich“ an. Solche Gründe  können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin oder des Pati-enten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt  alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
 
-Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine  Schulung empfohlen haben, die Patientin bzw. der Patient die Schulung ab nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „Nein“ an.
+Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokumentation eine  Schulung empfohlen haben, die Patientin bzw. der Patient die Schulung aber ohne einen für Sie  nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „Nein“ an.
 
 **Bitte beachten Sie:** Diese Angabe kann bei wiederholter Angabe zum Ausschluss des Versi-cherten aus dem Programm führen!
 
 Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte „Bei  letzter Dokumentation keine Schulung empfohlen“ an.
 
-Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss der Patient
-
-in oder des Patienten aus dem Programm.
-
-nachvollzieh-
-
-er ohne einen für Sie
+Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.

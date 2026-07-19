@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 2.6   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 2.6   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  LABORDATENKOMMUNIKATION
@@ -50,7 +50,7 @@ Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -61,7 +61,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 |  |  |
 |---|---|
@@ -70,18 +70,12 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 ## 1.4  BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
-
-1.1
-
--Betriebssysteme unterstützt werden.
-
-vorhanden) des Zertifizierungsgegenstandes an.
 
 Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
@@ -100,7 +94,6 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 | **LDT-Auftrag** | ☐ | ☐ |
 | **LDT-Befund** | ☐ | ☐ |
 | **LDT-Befund- Zervix-Zytologie** | ☐ |  |
-
 
 ---
 
@@ -125,13 +118,14 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 
 Diese Information ist verpflichtend anzugeben
 
+
 ---
 
-# 4 KENNTNISNAHME DURCH DEN ANTRAG
+# 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
 - **I.** **Zertifizierungsrahmen**
 - (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
-- (2) Die Erweiterungszertifizierung wird im Rahmen einer Ergebnis
+- (2) Die Erweiterungszertifizierung wird im Rahmen einer Ergebnis- oder Sichtprüfung durchgeführt.
 - (3) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.
 - (4) Die Laufzeit der Zulassung beträgt 36 Monate.
 - (5) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
@@ -152,18 +146,7 @@ Diese Information ist verpflichtend anzugeben
 | LDT-Befund  Zervix-Zytologie/ | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | LDT-Befund - Import | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
 
-1 LDT-Befund-Export Vollständig beinhaltet LDT-Befund  Export Zervix-Zytologie/Pathologie
-
-# SSTELLER
-
-- - oder Sichtprüfung durchgeführt.
-
-```
--
--
-```
-
-Pathologie Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung -
+Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Pathologie Erweiterungszertifizierung 1 LDT-Befund-Export Vollständig beinhaltet LDT-Befund  Export Zervix-Zytologie/Pathologie
 
 
 ---
@@ -179,7 +162,7 @@ Pathologie Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszer
 - (3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
-- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung – Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
 
 ---

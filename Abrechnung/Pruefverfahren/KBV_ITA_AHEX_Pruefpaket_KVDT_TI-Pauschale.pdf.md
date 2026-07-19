@@ -4,10 +4,10 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 21. NOVEMBER 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  21. NOVEMBER 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# PRÜFPAKET KVDT TI -PAUSCHA LE
+# PRÜFPAKET KVDT TI-PAUSCHALE
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_KVDT_TI-PAUSCHALE]
 
@@ -26,22 +26,23 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4**
 
-| 3 | PRÜ | FVORGABEN | 4 |
-|---|---|---|---|
-| 3.1 | Prü | fstam mdate ie n | 4 |
-| 3.2 |  | Versichertendaten | 4 |
-|  | 3.2.1.1 | [XML_45] | 5 |
-|  | 3.2.1.2 | [XML_46] | 5 |
-|  | 3.2.1.3 | [XML_47] | 6 |
-| 3.3 |  | Praxisdaten | 6 |
-| 3.4 | XPM-Prü | fm odulu nd V erschlü sselun g | 7 |
+**3** **PRÜFVORGABEN**
+
+**4**  3.1 Prüfstammdateien 4  3.2 Versichertendaten
+
+4  3.2.1.1 [XML_45]
+
+5  3.2.1.2 [XML_46]
+
+5  3.2.1.3 [XML_47]
+
+6  3.3 Praxisdaten
+
+6  3.4 XPM-Prüfmodul und Verschlüsselung 7
 
 **4** **PRÜFFÄLLE**
 
 **8**
-
-PRÜFVORGABEN Prüfstammdateien XPM-Prüfmodul und Verschlüsselung
-
 
 ---
 
@@ -67,6 +68,9 @@ Die Testdatenvalidierung des Zertifizierungsportals der KBV bietet die Möglichk
 
 **HINWEIS**
 
+- [](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [EF.VD](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [= allgemeine Versicherungsdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
+- EF.PD = persönliche Versichertendaten
+
 Die Anforderung wird auch im Prüfvorgang KVDT geprüft.
 
 # 2 TESTDATENVALIDIERUNG
@@ -91,15 +95,14 @@ Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwend
 
 Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die nötigen Angaben zu den Daten  des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle die folgenden XML-Dateien mit  [Versichertenstammdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 
-- [](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [EF.VD](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip) [= allgemeine Versicherungsdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
-- EF.PD = persönliche Versichertendaten
-
 
 ---
 
 - EF.GVD = geschützte Versichertendaten
 
-Die Erfassung der Patientendaten  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden  Ersatzverfahren bzw. händisch erfasst werden.
+Die Erfassung der Patientendaten in den einzelnen Prüffällen kann  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden  Ersatzverfahren bzw. händisch erfasst werden.
+
+entweder über das Einlesen (mit einer  oder die Daten können im
 
 ### 3.2.1 Patientendaten für die Prüffälle 3.2.1.1 [XML_45]
 
@@ -135,12 +138,6 @@ Die Erfassung der Patientendaten  sogenannten Import-Schnittstelle) der XML-Date
 | **Wohnsitzländercode** | D |
 | **Ort** | München |
 
-```
--
-```
-
-in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  oder die Daten können im
-
 
 ---
 
@@ -175,7 +172,7 @@ in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  oder 
 
 ## 3.3 PRAXISDATEN
 
-Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Für Prüffall 3 wird eine Nebenbetriebsstätte benötigt.  abgebildeten Daten ist möglich.
+Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die folgenden Praxisdaten  verwendet werden. Für Prüffall 3 wird eine Nebenbetriebsstätte benötigt. Eine Abweichung von den hier  abgebildeten Daten ist möglich.
 
 | PRAXISDATEN (HAUPTSITZ - ABRECHNENDER ARZT) | |
 |---|---|
@@ -183,8 +180,6 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
 | **Lebenslange Arztnummer (LANR)** | 776299002 |
 | **ASV Teamnummer** | 001234566 |
-
-Eine Abweichung von den hier
 
 
 ---
@@ -219,9 +214,7 @@ Eine Abweichung von den hier
 
 ## 3.4 XPM-PRÜFMODUL UND VERSCHLÜSSELUNG
 
-Bevor die Abrechnungsdateien (pro Prüffall eine Datei) hochgeladen werden, mü Verwendung des XPM-Prüfmoduls vom vierten Quartal 2023 fehlerfrei geprüft werden. Die Da anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu  verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus  [der dazu bestimmte](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
-
-ssen diese unter  ten sind
+Bevor die Abrechnungsdateien (pro Prüffall eine Datei) hochgeladen werden, müssen diese unter  Verwendung des XPM-Prüfmoduls vom vierten Quartal 2023 fehlerfrei geprüft werden. Die Daten sind  anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu  verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus  [der dazu bestimmte](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
 
 Testpraxis.de Testpraxis.de *TEST_Verschluesselung* vorgenommen. Hierfür ist  [Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[zu verwenden.](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
 
@@ -230,9 +223,7 @@ Testpraxis.de Testpraxis.de *TEST_Verschluesselung* vorgenommen. Hierfür ist  [
 
 # 4 PRÜFFÄLLE
 
-In der Kopfzeile der Tabelle wird auf die zu verwendende XML die konkreten Werte vorgegeben, die bei dem jeweiligen Prüffall verwendet werden müssen.  Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2.1 vorgegeben. Alle weiteren  Angaben sind frei wählbar.
-
-Datei referenziert. Unter „Vorgaben“ sind  Die
+In der Kopfzeile der Tabelle wird auf die zu verwendende XML-die konkreten Werte vorgegeben, die bei dem jeweiligen Prüffall verwendet werden müssen. Die  Versichertendaten sind in der XML-Datei bzw. in den Tabellen unter Kapitel 3.2.1 vorgegeben. Alle weiteren  Angaben sind frei wählbar.
 
 |  |  |
 |---|---|
@@ -248,8 +239,9 @@ Datei referenziert. Unter „Vorgaben“ sind  Die
 | **Vorgaben** | ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
-Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein Prüfunterlagen 
+Datei referenziert. Unter „Vorgaben“ sind
 
+Prüfunterlagen Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein
 
 ---
 

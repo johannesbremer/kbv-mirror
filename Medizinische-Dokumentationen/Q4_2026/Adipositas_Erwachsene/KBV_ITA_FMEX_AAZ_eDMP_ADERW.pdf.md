@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  13. FEBRUAR 2026 VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   13. FEBRUAR 2026  VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 **ANTRAG AUF ZERTIFIZIERUNG EDMP-**
@@ -13,7 +13,7 @@
 
 ## [KBV_ITA_FMEX_AAZ_EDMP_ADERW]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
 
 
 ---
@@ -39,7 +39,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 | **Webseite** |  | | |
-| **Der Antragsteller** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
 | **Systempfleger  [nur anzugeben, wenn der  Systempfleger vom Antragsteller  abweicht]** |  | | |
 | **Straße und Hausnummer** |  | | |
 | **PLZ, Ort** |  | | |
@@ -51,7 +51,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -71,16 +71,12 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 ## 1.4  BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
-
-1.1
-
--Betriebssysteme unterstützt werden.
 
 
 ---
@@ -89,10 +85,10 @@ Bitte geben Sie im Folgenden an, welche Client
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP ADIPOSITAS
+## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP ADIPOSITAS-ERWACHSENE
 
 Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungskatalog eDMP  realisiert.
 
@@ -100,7 +96,7 @@ Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungsk
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION  LT. ANFORDERUNGSKATALOG |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION EDMP ADIPOSITAS-ERWACHSENE  LT. ANFORDERUNGSKATALOG |
 |---|---|
 |  |  |
 |  |  |
@@ -109,7 +105,7 @@ Folgende optionale eDMP Adipositas-Erwachsene Funktionen sind gem. Anforderungsk
 |  |  |
 |  |  |
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. -Stammdatei EDMP ADIPOSITAS-ERWACHSENE ## -ERWACHSENE
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. 
 
 
 ---
@@ -172,7 +168,7 @@ Erwachsene Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinb
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller - und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 ---
 

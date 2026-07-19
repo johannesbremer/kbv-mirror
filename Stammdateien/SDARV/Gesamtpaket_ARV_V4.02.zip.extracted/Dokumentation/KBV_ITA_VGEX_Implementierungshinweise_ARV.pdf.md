@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Implementierungshinweise zur* |
-|  | [KBV_ITA_VGEX_Implementierungshinweise |
+|  | [KBV_ITA_VGEX_Implementierungshinweise_ARV] |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Schnittstelle Arzneimittelver- einbarungen (ARV) Umsetzung im Arzneimittelverord- nungssystem _ARV] -Lewin-Platz 2 2.02 Datum: 12.12.2018 Kennzeichnung: Öffentlich Status: In Kraft 
+Schnittstelle Arzneimittelver- einbarungen (ARV) Umsetzung im Arzneimittelverord- nungssystem 2.02 Datum: 12.12.2018 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
@@ -58,11 +58,11 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **2.2** **Anzeigen des Gültigkeitszeitraumes der regional geltenden Arzneimittelvereinbarungen .. 8**
 
-**2.3** **Anzeigen des Erstellungsdatums der regional geltenden Arzneimittelvereinbarungen** **....... 8**
+**2.3** **Anzeigen des Erstellungsdatums der regional geltenden Arzneimittelvereinbarungen ....... 8**
 
 **2.4** **Verwendung der regional geltenden Arzneimittelvereinbarungen nur während des**  **Gültigkeitszeitraumes ........................................................................................................................... 8**
 
-**2.5** **Bei der Anzeige von Arzneimittelvereinbarungen wird die Priorität berücksichtigt** **.............. 8**
+**2.5** **Bei der Anzeige von Arzneimittelvereinbarungen wird die Priorität berücksichtigt .............. 8**
 
 **2.6** **Standardaggregat-Suche mit Joker „*“ durchführen ................................................................ 9**
 
@@ -70,11 +70,11 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **10**
 
-**3.1** **Pflichtfunktion: Kennzeichnung in der Verordnungssoftware** **............................................... 10**
+**3.1** **Pflichtfunktion: Kennzeichnung in der Verordnungssoftware ............................................... 10**
 
 **3.2** **Pflichtfunktion: Anzeigen der Verordnungsalternative ........................................................... 10**
 
-**3.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **........................... 11**
+**3.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt ........................... 11**
 
 **3.4** **Konditionale Pflichtfunktion: Fachgruppenspezifisches Anzeigen eines Hinweistextes für**  **den Arzt ................................................................................................................................................ 11**
 
@@ -88,7 +88,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **4.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Verordnungssoftware ........................ 14**
 
-**4.2** **KonditionalePflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **............................ 14**
+**4.2** **KonditionalePflichtfunktion: Anzeigen eines Hinweistextes für den Arzt ............................ 14**
 
 **5** **UMSETZUNG DER ME-TOO-REGELUNGEN**
 
@@ -97,11 +97,11 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 ---
 
-**5.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Datenbank** **........................................... 15**
+**5.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Datenbank ........................................... 15**
 
-**5.2** **Konditionale Pflichtfunktion: Anzeigen der Verordnungsalternative** **.................................... 15**
+**5.2** **Konditionale Pflichtfunktion: Anzeigen der Verordnungsalternative .................................... 15**
 
-**5.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **.......................... 15**
+**5.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt .......................... 15**
 
 **5.4** **Konditionale Pflichtfunktion: Fachgruppenspezifisches Anzeigen eines Hinweistextes für**  **den Arzt ................................................................................................................................................ 15**
 
@@ -115,7 +115,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **6.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Datenbank Verordnungssoftware .... 17**
 
-**6.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **........................... 17**
+**6.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt ........................... 17**
 
 **6.3** **Konditionale Pflichtfunktion: Fachgruppenspezifisches Anzeigen eines Hinweistextes für**  **den Arzt ................................................................................................................................................ 17**
 
@@ -131,11 +131,11 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **7.2** **Konditionale Pflichtfunktion: Anzeigen der generischen Wirkstoffalternative .................... 19**
 
-**7.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **.......................... 19**
+**7.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt .......................... 19**
 
 **7.4** **Konditionale Pflichtfunktion: Fachgruppenspezifisches Anzeigen eines Hinweistextes für**  **den Arzt ................................................................................................................................................ 20**
 
-**7.5** **Optionale Funktion: Controlling Generikaquotenregelung** **.................................................... 20**
+**7.5** **Optionale Funktion: Controlling Generikaquotenregelung .................................................... 20**
 
 **7.6** **Fachgruppenspezifisches Controlling ...................................................................................... 21**
 
@@ -147,7 +147,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **8.2** **Konditionale Pflichtfunktion: Anzeigen der Verordnungsalternative .................................... 22**
 
-**8.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **.......................... 22**
+**8.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt .......................... 22**
 
 **8.4** **Konditionale Pflichtfunktion: Fachgruppenspezifisches Anzeigen eines Hinweistextes für**  **den Arzt ................................................................................................................................................ 23**
 
@@ -166,7 +166,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **9.2** **Konditionale Pflichtfunktion: Anzeigen der Biosimilars ......................................................... 25**
 
-**9.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **........................... 25**
+**9.3** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt ........................... 25**
 
 **9.4** **Optionale Funktion: Controlling Biosimilarquotenregelung .................................................. 26**
 
@@ -178,7 +178,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **10.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Arzneimitteldatenbank**  **Verordnungssoftware ......................................................................................................................... 28**
 
-**10.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **........................... 28**
+**10.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt ........................... 28**
 
 **11** **UMSETZUNG DER QUALITÄTSSICHERUNGSREGELUNGEN**
 
@@ -186,7 +186,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **11.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Arzneimitteldatenbank ..................... 29**
 
-**11.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **.......................... 29**
+**11.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt .......................... 29**
 
 **12** **UMSETZUNG DER STUDIENREGELUNGEN**
 
@@ -194,7 +194,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **12.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Arzneimitteldatenbank ..................... 30**
 
-**12.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **.......................... 30**
+**12.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt .......................... 30**
 
 **13** **UMSETZUNG DER BEHANDLUNGSALTERNATIVENREGELUNG**
 
@@ -202,7 +202,7 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **13.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Arzneimitteldatenbank**  **Verordnungssoftware ......................................................................................................................... 31**
 
-**13.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt** **........................... 31**
+**13.2** **Konditionale Pflichtfunktion: Anzeigen eines Hinweistextes für den Arzt ........................... 31**
 
 **14** **UMSETZUNG DER INDIKATIONSGERECHTEN WIRTSCHAFTLICHEN**
 
@@ -221,9 +221,9 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 ---
 
-**15.1** **Pflichtfunktion: Kennzeichnung der PZNs auf Grundlage von Verordnungszielen** **............ 36**
+**15.1** **Pflichtfunktion: Kennzeichnung der PZNs auf Grundlage von Verordnungszielen ............ 36**
 
-**15.2** **Pflichtfunktion: Anzeige von weiteren Informationen zu den Verordnungszielen** **............... 39**
+**15.2** **Pflichtfunktion: Anzeige von weiteren Informationen zu den Verordnungszielen ............... 39**
 
 **16** **REFERENZIERTE DOKUMENTE**
 
@@ -307,7 +307,7 @@ Mithilfe der im Element „leitsubstanzquotenregelung“ beschriebenen Datenfeld
 
 Mit dem Element „leitsubstanzquotenr_liste“ werden die Regelungen zu den Leitsubstanzquo-ten wie folgt abgebildet:
 
--  In der Arzneimitteldatenbank und in der Hausapotheke1 müssen vom AVS In der VoS  müssen die unter die Leitsubstanzquotenregelung fallenden Präparate entsprechend  für den Arzt erkennbar gekennzeichnet werden. Diese Anforderung gilt auch für die  Hausapotheken gemäß Anforderungskatalog nach § 73 SGB V für Verordnungssoft-ware (siehe Funktion O2 -. 145), sofern diese in der VoS enthalten sind
+-  In der Arzneimitteldatenbank und in der Hausapotheke1 müssen vom AVS In der VoS  müssen die unter die Leitsubstanzquotenregelung fallenden Präparate entsprechend  für den Arzt erkennbar gekennzeichnet werden. Diese Anforderung gilt auch für die  Hausapotheken gemäß Anforderungskatalog nach § 73 SGB V für Verordnungssoft-ware (siehe Funktion O2-. 145), sofern diese in der VoS enthalten sind
 -  Die Leitsubstanz(en) müssen gesondert für den Arzt erkennbar gekennzeichnet wer-den.
 -  Die Kennzeichnung in der Datenbank Verordnungssoftware richtet sich nach der Kas-senärztlichen Vereinigung, in der die Leitsubstanzquotenregelung implementiert wer-den soll.
 -  Bei der Kennzeichnung in der Arzneimitteldatenbank Verordnungssoftware wird keine  Unterscheidung nach Fachgruppen getroffen.
@@ -445,11 +445,11 @@ Es muss für den Arzt möglich sein, sich bei der Verordnung eines Me-Too-Präpa
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG], P3 - 420).
 
-## 5.3 Konditionale Pflichtfunktion:   Anzeigen eines Hinweistextes für den Arzt
+## 5.3 Konditionale Pflichtfunktion:  Anzeigen eines Hinweistextes für den Arzt
 
 Das Format bietet die Möglichkeit, für alle Ärzte Warnhinweise („warnhinweis_ersetzung“) zu  implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen, wenn er ein Me-Too-Präparat verordnet. Der entsprechende Hinweistext ist von der Landesebene zu definieren  und muss vom AVS angezeigt werden, wenn der Arzt ein unter eine Me-too-n-Regelung falle des Präparat verordnet.
 
-## 5.4 Konditionale Pflichtfunktion:   Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
+## 5.4 Konditionale Pflichtfunktion:  Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
 
 Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin-weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-, Bereich hinweisen wenn er ein Me-Too-Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren. Die für  den KV- Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Me-Too-Präparate < 5%
 
@@ -590,7 +590,7 @@ Das Format bietet die Möglichkeit, für alle Ärzte Warnhinweise („warnhinwei
 
 ## 7.4 Konditionale Pflichtfunktion:  Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
 
-Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin-weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein Original- Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren.
+Das Format bietet die Möglichkeit, fachgruppenspezifische  weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen,  wenn er ein Original- Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren.
 
 Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Generika in der  Gruppe der Antibiotika > 85% bei den Allgemeinmedizinern) kann – sofern gewünscht – in  den Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein  Textfeld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird  von der Landesebene ein arztindividuelles Controlling gewünscht, ist in den optionalen Ele-menten „quote_generika_ddd“ oder „quote_generika_verordnungen“ oder „quo-te_generika_bruttoumsatz“ eine entsprechende Quote einzutragen.
 
@@ -600,27 +600,43 @@ Siehe auch Abschnitt Kapitel 3.4
 
 Controlling-Funktionen sind optional vom AVS von der VoS umzusetzen. Auf Landesebene  können unterschiedliche Quoten für verschiedene Fachgruppen vereinbart sein. Für das Con-trolling gleicht das AVS die VoS die tatsächliche Quote mit der auf der Landesebene verein-barten Zielquote ab.
 
-Die tatsächliche Quote lässt sich **auf Basis der Anzahl verordneter DDD auf Basis der**  **verordneten Packungen** oder **auf Basis des Bruttoumsatzes** vom AVS von der VoS ermit-teln.
+Die tatsächliche Quote lässt sich **auf Basis der Anzahl verordneter DDD** **verordneten Packungen** oder **auf Basis des Bruttoumsatzes** teln.
 
-Wird von der Landesebene gewünscht, dass die Generika-r Quotenregelung auf Basis de DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal-tet auch die entsprechenden Original- Präparate.
+Wird von der Landesebene gewünscht, dass die Generika-r  DDD ausgewertet wird, so sind von der Landesebene alle PZN und die entsprechenden DDD  („ddd_je_packung“) für alle von der jeweiligen Regelung betroffenen Wirkstoffe bzw. für den  Gesamtmarkt bereit zu stellen. Die Vergleichsgruppe ist von der KV zu definieren und beinhal-tet auch die entsprechenden Original- Präparate.
 
 *DDDverordneteGenerika*
 
+*100
+
 *Quote (%)*
 
-*100 *Vergleichsgruppe*
+Je nach Vereinbarung kann sich eine definierte Generika-s-anteil beziehen. Dann gilt die Formel:
 
-*DDD*
+*Quote (%)*
 
-Je nach Vereinbarung kann sich eine definierte Generika-s-Quote auch auf den Verordnung anteil beziehen. Dann gilt die Formel:
+*DDDVergleichsgruppe*
 
-*VerordnungenGenerika* *Quote (%)*
+*en*
 
-** 100* *VerordnungenVergleichsgruppe*
+*Verordnung Generika*
+
+*en*
+
+*Verordnung Vergleichsgruppe*
 
 Wird bei „quote_generika_verordnungen“ zwar eine Quote angegeben, aber keine zusätzli-chen Angaben zur Vergleichsgruppe gemacht, ist der Anteil im Verhältnis zu allen vom Arzt  über die GKV getätigten Verordnungen von Fertigarzneimitteln zu setzen.
 
 Wird ein arztindividuelles Controlling auf Basis Bruttoumsatz gewünscht, wird die Quote nach  folgender Formel berechnet:
+
+Quote auch auf den Verordnung
+
+** 100*
+
+Warnhinweise („warnhin-
+
+**auf Basis der**  vom AVS von der VoS ermit-
+
+Quotenregelung auf Basis de
 
 
 ---
@@ -892,17 +908,21 @@ Siehe Abschnitt 10.2
 
 Mithilfe der in diesem Element beschriebenen Datenfelder müssen vom AVS die in den fol-genden Abschnitten beschriebenen konditionalen Pflichtfunktionen implementiert werden  (siehe auch die Funktionen K3---610, K3 620, K3 630 in dem AVWG-Anforderungskatalog
 
-EXT_ITA_VGEX_Anforderungskatalog_AVWGEXT_ITA_VGEX_Anforderungskatalog_AVW G
+EXT_ITA_VGEX_Anforderungskatalog_AVWG
 
-## 12.1 Konditionale Pflichtfunktion:   Kennzeichnung in der Arzneimitteldatenbank
+G
+
+## 12.1 Konditionale Pflichtfunktion:  Kennzeichnung in der Arzneimitteldatenbank
 
 In der Arzneimitteldatenbank und in der Hausapotheke sind vom AVS die unter eine Studien-regelung fallenden Präparate entsprechend für den Arzt erkennbar zu kennzeichnen. Die  Kennzeichnung in der Datenbank richtet sich nach der Kassenärztlichen Vereinigung, in der  die Studienregelung implementiert werden soll. Bei der Kennzeichnung in der Arzneimittelda-tenbank wird keine Unterscheidung nach Fachgruppen getroffen.
 
 Die dazugehörigen Informationen sind für den Arzt abrufbar.
 
-## 12.2 Konditionale Pflichtfunktion:   Anzeigen eines Hinweistextes für den Arzt
+## 12.2 Konditionale Pflichtfunktion:  Anzeigen eines Hinweistextes für den Arzt
 
 Siehe Abschnitt 10.2
+
+EXT_ITA_VGEX_Anforderungskatalog_AVW
 
 
 ---
@@ -1134,10 +1154,10 @@ Bei einem als unerwünscht gekennzeichnten Präparat muss dem Anwender angezeigt
 
 | Referenz | Dokument |
 |---|---|
-| [KBV_ITA_VGEX_Schnittstelle_ARV] | ARV-Schnittstellenbeschreibung, aktuelle Vers |
-| [EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 Abs. 8 SGB V für |
+| [KBV_ITA_VGEX_Schnittstelle_ARV] | ARV-Schnittstellenbeschreibung, aktuelle Versi- |
+| [EXT_ITA_VGEX_Anforderungskatalog_AVWG] | Anforderungskatalog nach § 73 Abs. 8 SGB V für |
 | [KBV_ITA_AHEX_UKV2OKV_V01.02] | Zuordnungstabelle von UKV zu OKV |
-| [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] | Verfahrensbeschreibung zur Erstellung und Ve |
+| [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] | Verfahrensbeschreibung zur Erstellung und Ver- |
 | [1] | Veröffentlichung der ARV_Stammdateien durch  http://www.kbv.de/ita |
 
-i- Verordnungssoftware / Arzneimitteldatenbanken r- arbeitung der XML-Stammdatei für die ARV Schnittstelle, aktuelle Version die KBV:
+Verordnungssoftware / Arzneimitteldatenbanken arbeitung der XML-Stammdatei für die ARV- Schnittstelle, aktuelle Version die KBV:

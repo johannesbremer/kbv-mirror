@@ -11,7 +11,7 @@ Bei ausgewählten Eingabefeldern sollen Ausfüllhinweise integriert werden.
 | Infobox | Text |
 |---|---|
 | Verordnung | Inhalt dieses Abschnitts ist die Untersuchung des Patienten bei Neuverord- |
-| Nachsorge | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hö r- |
+| Nachsorge | Inhalt dieses Abschnitts ist die erste Nachuntersuchung nach erfolgter Hör- |
 
 #### Liste der Ausfüllhinweise:
 

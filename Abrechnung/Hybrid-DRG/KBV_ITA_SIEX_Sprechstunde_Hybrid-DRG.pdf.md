@@ -1,17 +1,18 @@
 \|  |
 \|---|
 
-# SPRECHSTUNDE HYBRID-DRG
-
-## [KBV_ITA_SIEX_SPRECHSTUNDE
-
-|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  18. AUGUST 2025  VERSION 1.08  DOKUMENTENSTATUS: IN** |
-|---|---|
-
 \|  |
 \|---|
 
-BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  18. AUGUST 2025  VERSION 1.08  DOKUMENTENSTATUS: IN KRAFT** |
+|---|---|
+
+# SPRECHSTUNDE HYBRID-DRG
+
+## [KBV_ITA_SIEX_SPRECHSTUNDE]
+
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+
 
 ---
 
@@ -27,9 +28,9 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  KRAFT
 | 1.03 | 05.12.2024 | KBV | Übersicht der Datenannahme | Aufnahme der | 24 |
 | 1.02 | 03.12.2024 | KBV | Erfassung der Fragen aus der    Übersicht der Datenannahme |  | 8      24 |
 | 1.01 | 25.10.2024 | KBV | Erfassung der Fragen aus der |  | 7 |
-| 1.00 | 22.10.2024 | KBV | Erstellung des Dokuments |  | alle |
+| 1.00 | 22.10.2024 | KBV | Erstellung des Dokuments und |  | alle |
 
-Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Information zur KV Sachsen-Anhalt Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024  und Aufnahme der Fragen vom 02.10.2024
+Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Information zur KV Sachsen-Anhalt Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024 Aufnahme der Fragen vom 02.10.2024 
 
 
 ---
@@ -84,7 +85,7 @@ Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025
 
 ## Frage:
 
-**Wird ab dem 01.01.2025 die Erstellung einer Probeabrechnung für Hybrid -DRG möglich sein?**
+**Wird ab dem 01.01.2025 die Erstellung einer Probeabrechnung für Hybrid-DRG möglich sein?**
 
 ### Antwort der KBV:
 
@@ -222,13 +223,13 @@ Ja, für die Verschlüsselung der Testdaten soll der Testschlüssel verwendet we
 
 ## Frage:
 
-**Ist für ein System, das ausschließlich für die Abrechnung von Hybrid -DRG und die Versendung der**  **Abrechnung über 1Click genutzt wird, eine KVDT -Zertifizierung notwendig?**
+**Ist für ein System, das ausschließlich für die Abrechnung von Hybrid-DRG und die Versendung der**  **Abrechnung über 1Click genutzt wird, eine KVDT-Zertifizierung notwendig?**
 
 ### Antwort der KBV:
 
 ###
 
-Nein, für ein System, das ausschließlich der Abrechnung von Hybrid -DRG dient, ist keine KVDT-Zertifizierung  erforderlich. Die erzeugte Abrechnungsdatei wird mithilfe des Prüfmoduls geprüft, wodurch sichergestellt  wird, dass nur datensatzkonforme Abrechnungen eingereicht werden. Der Datensatz orientiert sich am  ADT-Format, was die Umsetzung für Hersteller von bestehenden Abrechnungssystemen erleichtert.
+Nein, für ein System, das ausschließlich der Abrechnung von Hybrid-DRG dient, ist keine KVDT-Zertifizierung  erforderlich. Die erzeugte Abrechnungsdatei wird mithilfe des Prüfmoduls geprüft, wodurch sichergestellt  wird, dass nur datensatzkonforme Abrechnungen eingereicht werden. Der Datensatz orientiert sich am  ADT-Format, was die Umsetzung für Hersteller von bestehenden Abrechnungssystemen erleichtert.
 
 ## Frage:
 
@@ -242,7 +243,7 @@ Eine direkte Stornierung, wie sie bei der eAU möglich ist, ist nicht vorgesehen
 
 ## Frage:
 
-**Gibt es Überlegungen zu einer Budgetierung oder Limitierung bei Hybrid -DRG-Leistungen, oder könnten**  **ähnliche Einschränkungen wie im übrigen Versorgungsalltag auftreten?**
+**Gibt es Überlegungen zu einer Budgetierung oder Limitierung bei Hybrid-DRG-Leistungen, oder könnten**  **ähnliche Einschränkungen wie im übrigen Versorgungsalltag auftreten?**
 
 ### Antwort der KBV:
 
@@ -261,9 +262,9 @@ Eine Budgetierung für Hybrid-DRG-Leistungen ist nicht vorgesehen.
 
 ### Antwort der KBV:
 
-Ja, das Paket vom 25.10.2024 ist die korrigierte Version des Prüfpakets. Dieses kann für die Testvalidierung  verwendet werden. Bitte beachten Sie die Hinweise zur Verwendung der Grouper
+Ja, das Paket vom 25.10.2024 ist die korrigierte Version des Prüfpakets. Dieses kann für die Testvalidierung  verwendet werden. Bitte beachten Sie die Hinweise zur Verwendung der Grouper-Software.
 
-Auch wenn bei Testvalidierungen kein Support für die Anwendung oder die Ergebnisse der  Testdatenvalidierung durch die KBV erfolgt, haben Sie die Möglichkeit, uns eine E Fragen zum Prüfpaket zu senden.
+Auch wenn bei Testvalidierungen kein Support für die Anwendung oder die Ergebnisse der  Testdatenvalidierung durch die KBV erfolgt, haben Sie die Möglichkeit, uns eine E-Mail an [ita@kbv.de](mailto:ita@kbv.de) mit  Fragen zum Prüfpaket zu senden.
 
 ## Frage:
 
@@ -271,33 +272,27 @@ Auch wenn bei Testvalidierungen kein Support für die Anwendung oder die Ergebni
 
 ### Antwort der KBV:
 
-Ist noch in Klärung -Software.
-
--Mail an [ita@kbv.de](mailto:ita@kbv.de) mit
+Ist noch in Klärung
 
 ## Frage:
 
-**Existiert in der EBM-Stammdatei eine Kennzeichnung für OPS-Schlüssel für Hybrid**
+**Existiert in der EBM-Stammdatei eine Kennzeichnung für OPS-Schlüssel für Hybrid-DRGs?**
 
 ### Antwort der KBV:
 
-Die EBM-Stammdatei enthält solche Informationen nicht. Die  zulässigen Hybrid-DRGs sowie für die Leistungsbereiche die OPS-Kodes enthalten.
+Die EBM-Stammdatei enthält solche Informationen nicht. Die zukünftige Hybrid-DRG-Stammdatei wird die  zulässigen Hybrid-DRGs sowie für die Leistungsbereiche die OPS-Kodes enthalten.
 
 ## Frage:
 
-**Welche Version der KBV-Stammdateien, die quartalsweise aktualisiert werden (z.B. KT -Stammdatei),**  **sollte bei der Abrechnung von Hybrid-DRGs verwendet werden, deren Leistungsumfang über einen**  **Quartalswechsel hinausgeht? Auch wenn solche Fälle nur selten auftreten, muss bei der**  **Implementierung des Hybrid-DRG-Datensatzes berücksichtigt werden, welche Stammdatei herangezogen**  **werden soll.**
+**Welche Version der KBV-Stammdateien, die quartalsweise aktualisiert werden (z.B. KT-Stammdatei),**  **sollte bei der Abrechnung von Hybrid-DRGs verwendet werden, deren Leistungsumfang über einen**  **Quartalswechsel hinausgeht? Auch wenn solche Fälle nur selten auftreten, muss bei der**  **Implementierung des Hybrid-DRG-Datensatzes berücksichtigt werden, welche Stammdatei herangezogen**  **werden soll.**
 
 ### Antwort der KBV:
 
-Bei der Abrechnung von Hybrid-DRGs, die einen Quartalswechsel überschreiten, muss die KBV-Stammdatei  berücksichtigt werden, die zum Zeitpunkt der Erbringung der Hybrid -DRG-Leistung aktuell ist.
+Bei der Abrechnung von Hybrid-DRGs, die einen Quartalswechsel überschreiten, muss die KBV-Stammdatei  berücksichtigt werden, die zum Zeitpunkt der Erbringung der Hybrid-DRG-Leistung aktuell ist.
 
 ## Frage:
 
 **Der Hybrid-DRG-Datensatz ist im KVDT-Anforderungskatalog bzw. in der KVDT-Datensatzbeschreibung**  **veröffentlicht. Ist dies ein Hinweis darauf, dass eine Zertifizierung zu einem späteren Zeitpunkt, ähnlich**  **der KVDT-Zertifizierung, geplant ist?**
-
-**-DRGs?**
-
-zukünftige Hybrid-DRG-Stammdatei wird die
 
 
 ---
@@ -371,7 +366,7 @@ Nein die Hybrid-DRG-Stammdatei ersetzt einen Grouper nicht.
 
 ## Frage:
 
-**In der Hybrid-DRG Stammdatei wird die Vergütung der Leistungen in Postoperativ und nicht postoperativ**  **unterschieden. Muss eine entsprechende Kennzeichnung im Hybrid -DRG Abrechnungsdatensatz**  **stattfinden?**
+**In der Hybrid-DRG Stammdatei wird die Vergütung der Leistungen in Postoperativ und nicht postoperativ**  **unterschieden. Muss eine entsprechende Kennzeichnung im Hybrid-DRG Abrechnungsdatensatz**  **stattfinden?**
 
 ### Antwort der KBV:
 
@@ -428,7 +423,7 @@ Die Implementierung der Regel 735 des Hybrid-DRG Datensatzes im Prüfmodul wurde
 
 ## Frage
 
-**Werden Unterschiede zwischen den Testfällen und der Testdatenvalidierung für Hybrid -DRG im Z-Port**  **behoben?**
+**Werden Unterschiede zwischen den Testfällen und der Testdatenvalidierung für Hybrid-DRG im Z-Port**  **behoben?**
 
 ### Antwort der KBV
 
@@ -444,7 +439,7 @@ Ja, die Unstimmigkeiten wurden bereits korrigiert. Die KBV wird erneut prüfen, 
 
 ### Antwort der KBV:
 
-Im Rahmen des eEB -Verfahrens werden die VSD-Daten der eGK an die Praxis übermittelt. Allerdings wird  kein Prüfnachweis übermittelt bzw. erzeugt.
+Im Rahmen des eEB-Verfahrens werden die VSD-Daten der eGK an die Praxis übermittelt. Allerdings wird  kein Prüfnachweis übermittelt bzw. erzeugt.
 
 Bei der Verarbeitung der eEB-Daten darf in der Abrechnung kein Einlesedatum gesetzt werden.
 
@@ -495,7 +490,7 @@ Nein es gibt keine offizielle Mappingtabelle von der KBV. Sollte ein Mapping von
 
 ### Antwort der KBV:
 
-Bei den von der KBV ergänzten Einträgen handelt sich um sogenannte HGNC -Kette.
+Bei den von der KBV ergänzten Einträgen handelt sich um sogenannte HGNC-Kette.
 
 Nachtrag:
 
@@ -525,7 +520,7 @@ Die KBV empfiehlt, sich bereits jetzt mit dem Thema auseinanderzusetzen, um die 
 
 Es wird aktuell auf eine offizielle konkretisierende Aussage der gematik gewartet.
 
-Bis zur endgültigen Klärung bleiben alle bisher bestehenden Anforderungen der KBV zum Thema eEB  weiterhin gültig. Testmöglichkeiten über die Referenzumgebung der gematik sind weiterhin aktiv. Bei  Fragen empfehlen wir die direkte Kontaktaufnahme mit den Krankenkassen
+Bis zur endgültigen Klärung bleiben alle bisher bestehenden Anforderungen der KBV zum Thema eEB  weiterhin gültig. Testmöglichkeiten über die Referenzumgebung der gematik sind weiterhin aktiv. Bei  Fragen empfehlen wir die direkte Kontaktaufnahme mit den Krankenkassen.
 
 Nachtrag:
 
@@ -536,7 +531,7 @@ Gemäß der Aussage der gematik von der Aussetzung des Verfahrens nur der Teil A
 
 ## Vorabinformationen zum Hybrid-DRG
 
-Mit der Veröffentlichung des KVDT-Anforderungskatalog und Datensatzbeschreibung am 15. Mai 2025  werden für die Parameter Beatmungsstunden sowie Leistungsdatum bzw. Anfangs -/Enddatum  Konkretisierungen vorgenommen.
+Mit der Veröffentlichung des KVDT-Anforderungskatalog und Datensatzbeschreibung am 15. Mai 2025  werden für die Parameter Beatmungsstunden sowie Leistungsdatum bzw. Anfangs-/Enddatum  Konkretisierungen vorgenommen.
 
 Der Parameter Beatmungsstunden bleibt bestehen. Er ist für die Eingabe im Grouper erforderlich. Dabei ist  sicherzustellen, dass der Wert nicht größer als 0 ist, da dieser sonst zur Auslösung einer DRG führen würde.  Es soll eine Hinweismeldung ausgegeben werden, dass Beatmungszeiten, die während einer Narkose  anfallen, nicht angegeben werden dürfen.
 
@@ -702,7 +697,7 @@ Das System soll den Anwender über einen unrechtmäßigen Absender informieren.
 
 ### Antwort der KBV:
 
-Aus unserer Sicht spricht nichts gegen die Aufbewahrung der eEB -Daten im System. Im Gegenteil: Ihre  Speicherung kann sogar sinnvoll sein – etwa zu Dokumentations- oder Prüfzwecken.
+Aus unserer Sicht spricht nichts gegen die Aufbewahrung der eEB-Daten im System. Im Gegenteil: Ihre  Speicherung kann sogar sinnvoll sein – etwa zu Dokumentations- oder Prüfzwecken.
 
 Entscheidend ist jedoch, dass für die Abrechnung die Daten der eingelesenen eGK verwendet werden.
 
@@ -737,7 +732,7 @@ Der Wert wurde aufgenommen, da es sich um eine TI-Anwendung handelt. Die Abstimm
 
 Im KVDT-Anforderungskatalog definiert die KBV ausschließlich, welche Inhalte zu übertragen sind.
 
-Fragen zu möglichen Kürzungen liegen im Zuständigkeitsbereich der jeweiligen KVen
+Fragen zu möglichen Kürzungen liegen im Zuständigkeitsbereich der jeweiligen KVen.
 
 ## Frage:
 
@@ -745,7 +740,7 @@ Fragen zu möglichen Kürzungen liegen im Zuständigkeitsbereich der jeweiligen 
 
 ### Antwort der KBV:
 
-Ja, die Fusionsgene sind als ein einzelner Eintrag in der FK 5077 in der Abrechnung zu übertragen .
+Ja, die Fusionsgene sind als ein einzelner Eintrag in der FK 5077 in der Abrechnung zu übertragen.
 
 ## Frage:
 
@@ -761,7 +756,7 @@ Ja, die Fusionsgene können Teil einer Gen-Kette sein. Dabei ist zu beachten, da
 
 ### Antwort der KBV:
 
-Ja, die IDs der Fusionsgene sind eindeutig. Sie bestehen aus dem Präfix „KBV “, gefolgt von den Gen-IDs der  einzelnen an der Fusion beteiligten Gene.
+Ja, die IDs der Fusionsgene sind eindeutig. Sie bestehen aus dem Präfix „KBV“, gefolgt von den Gen-IDs der  einzelnen an der Fusion beteiligten Gene.
 
 ## Frage:
 
@@ -867,7 +862,7 @@ Da in vielen Praxen ein grundlegendes Verständnis oder Grundbasis fehlt sollten
 
 ## Frage:
 
-**Wenn das Antragsdatum des Anerkennungsbescheids vor dem 01.0 4.2017 liegt, wie ist in solchen Fällen**  **bei der Abrechnung vorzugehen, da die Felder (FK 4244, 4245 und 4246), die hierfür verwendet wurden,**  **mit dem letzten Update entfernt wurden?**
+**Wenn das Antragsdatum des Anerkennungsbescheids vor dem 01.04.2017 liegt, wie ist in solchen Fällen**  **bei der Abrechnung vorzugehen, da die Felder (FK 4244, 4245 und 4246), die hierfür verwendet wurden,**  **mit dem letzten Update entfernt wurden?**
 
 ### Antwort der KBV:
 
@@ -875,7 +870,7 @@ Unsere Empfehlung ist, dass in diesen Fällen die Abrechnung auf die gültigen /
 
 ## Frage:
 
-**Nach den gültigen KVDT Vorgaben ist die Angabe der BSNR/ LANR je BESA-Datensatz nur einmal zulässig.**  **Für den Fall einer ärztlichen Vertretung stellt sich die Frage: Welche Kombination ist anzugeben , die des**  **Vertreters oder die des zu Vertretenden?**
+**Nach den gültigen KVDT Vorgaben ist die Angabe der BSNR/ LANR je BESA-Datensatz nur einmal zulässig.**  **Für den Fall einer ärztlichen Vertretung stellt sich die Frage: Welche Kombination ist anzugeben, die des**  **Vertreters oder die des zu Vertretenden?**
 
 ### Antwort der KBV:
 
@@ -908,7 +903,7 @@ Diese werden so schnell wie möglich veröffentlicht.
 
 ### Antwort der KBV:
 
-Eine Umkehr zur OMIM-Kodierung wird es nicht geben bzw. die alten Feldkennungen werden nicht wieder  in den KVDT aufgenommen
+Eine Umkehr zur OMIM-Kodierung wird es nicht geben bzw. die alten Feldkennungen werden nicht wieder  in den KVDT aufgenommen.
 
 Grundsätzlich gilt, dass ab der Abrechnung des dritten Quartals 2025 ausschließlich HGNC in der  Abrechnung übertragen werden kann.
 
@@ -943,7 +938,7 @@ Ein mehrfaches Vorkommen der Pseudo-LANR/ BSNR ist nicht erlaubt. Da es jedoch U
 
 ---
 
-**somit besteht keine Möglichkeit der Prüfung, ob es sich um einen Sonstigen Kostenträger handelt . Wie**  **kann in solchen Fällen dennoch eine Prüfung erfolgen?**
+**somit besteht keine Möglichkeit der Prüfung, ob es sich um einen Sonstigen Kostenträger handelt. Wie**  **kann in solchen Fällen dennoch eine Prüfung erfolgen?**
 
 ### Antwort der KBV:
 

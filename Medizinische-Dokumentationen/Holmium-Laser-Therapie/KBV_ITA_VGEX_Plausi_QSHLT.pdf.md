@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Plausibilitätenkatalog Holmium* |
-|  | [KBV_ITA_VGEX_Plausi_QSHLT ] |
+|  | [KBV_ITA_VGEX_Plausi_QSHLT] |
 |  |  |
-|  | Dezernat |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Laser-Therapie Digitalisierung und IT -Lewin-Platz 2 1.01 Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kraft
+Laser-Therapie 1.01 Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
@@ -19,10 +19,10 @@ Laser-Therapie Digitalisierung und IT -Lewin-Platz 2 1.01 Datum: 11.02.2016 Kenn
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.01 | 11.02.2016 | KBV | Ergänzung von Bedi |  | **5ff** |
+| 1.01 | 11.02.2016 | KBV | Ergänzung von Bedin- |  | **5ff** |
 | 1.00 | 31.03.2014 | KBV |  | Einführung der Schnitt- |  |
 
-n- gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32 stelle QS Holmium-Laser- Therapie
+gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32  stelle QS Holmium-Laser- Therapie
 
 ---
 

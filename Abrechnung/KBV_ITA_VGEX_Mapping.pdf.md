@@ -10,7 +10,7 @@
 
 # ANWENDUNG DER EGK
 
-# TECHNISCHE ANLAGE ZU ANLAGE 4A  (BMV -Ä)
+# TECHNISCHE ANLAGE ZU ANLAGE 4A  (BMV-Ä)
 
 ## VERARBEITUNG DER VERSICHERTENSTAMMDATEN IM RAHMEN DER  VERTRAGSÄRZTLICHEN ABRECHNUNG
 
@@ -173,7 +173,7 @@ Das vorliegende Dokument beschreibt die Verwendung der Versichertenstammdaten, d
 
 Die vertragsärztlichen Abrechnungsunterlagen gemäß § 291 SGB V werden in das Referenz Design gemäß  der aktuellen VSD-Version 5.2.0 überführt. Mit der Einführung der Versichertenstammdatenmanagements  in der Aufbaustufe 2.0 (VSDM 2.0) ergibt sich ab dem 01.07.2026 ein Parallelbetrieb, in dem die  Versichertenstammdaten entweder weiterhin von der elektronischen Gesundheitskarte (VSDM 1.0) oder  über einen online Abruf beim Fachdienst VSDM der Kassen (VSDM 2.0) bezogen werden können. Für den  Bereich der Sonstigen Kostenträger bleibt darüber hinaus die Krankenversichertenkarte (KVK) zulässig. Die  für die jeweiligen Transformationen geltenden Vorschriften werden im Folgenden als Tabellen dargestellt.
 
-Mit der Aufnahme der Transformationsvorschriften für VSDM 2.0 wird die in der Vorgängerversion  angekündigte Fortschreibung dieser Technischen Anlage umgesetzt. Weitere Anpassungen bleiben in  Abhängigkeit der gematik-Spezifikation zu VSDM 2.0 sowie der Weiterentwicklung des KVDT vorbehalten.  Nach der vollständigen Abschaltung von VSDM 1.0 erfolgt eine erneute Überarbeitung der Mapping-Tabelle  auf die ausschließlich neuen Strukturen des VSDM 2.0
+Mit der Aufnahme der Transformationsvorschriften für VSDM 2.0 wird die in der Vorgängerversion  angekündigte Fortschreibung dieser Technischen Anlage umgesetzt. Weitere Anpassungen bleiben in  Abhängigkeit der gematik-Spezifikation zu VSDM 2.0 sowie der Weiterentwicklung des KVDT vorbehalten.  Nach der vollständigen Abschaltung von VSDM 1.0 erfolgt eine erneute Überarbeitung der Mapping-Tabelle  auf die ausschließlich neuen Strukturen des VSDM 2.0.
 
 Die Abstimmung der Inhalte dieser Technischen Anlage erfolgt zwischen den Partnern der  Bundesmantelverträge.
 
@@ -508,7 +508,7 @@ eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d au
 | Coverage.payor[1].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  |
 | Coverage.payor[1]. | 1..1 | 45 | string |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |
 
-Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden, wenn der abrechnende Kostenträger nicht vorhanden ist. :IKNR display  Kostenträger [abrechnender Kostenträger] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden. :IKNR display Die fehlende Angabe des Tages wird durch 00 wird durch 00 ersetzt. | GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | ERLÄUTERUNG |
+Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verw endet werden, wenn der abrechnende Kostenträger nicht vorhanden ist. :IKNR display  Kostenträger [abrechnender Kostenträger] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden. :IKNR display Die fehlende Angabe des Tages wird durch 00 wird durch 00 ersetzt. | GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | ERLÄUTERUNG |
 |---|---|---|
 | YYYY-MM-DD | YYYYMMDD |  |
 | YYYY-MM | YYYYMM00 | ersetzt. |
@@ -542,7 +542,7 @@ Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnun
 | 08 | 08 | SVA-Kennzeichnung, pauschal |
 | 09 | 09 | Empfänger von Gesundheitsleistungen nach den |
 
-Tabelle 4: Transformation BesonderePersonengruppe VSD M2.0_KVDT
+Tabelle 4: Transformation BesonderePersonengruppe VSDM2.0_KVDT
 
 Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Aufwand §§ 4 und 6 des Asylbewerberleistungsgesetzes (AsylbLG)
 
@@ -566,7 +566,7 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | 11 | 11 | Osteoporose |
 | 12 | 12 | Adipositas Erwachsene |
 | 13 | 13 | Adipositas Kinder und Jugendliche |
-| Berechnungsvorschrift, wenn das DMP | | |
+| Berechnungsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 2-mal vorkommt. | | |
 | 01 und 03 | 30 | Diabetes Typ 2 und KHK |
 | 05 und 01 | 31 | Asthma und Diabetes Typ 2 |
 | 06 und 01 | 32 | COPD und Diabetes Typ 2 |
@@ -586,7 +586,7 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | 11 | 11 | Osteoporose |
 | 12 | 12 | Adipositas Erwachsene |
 | 13 | 13 | Adipositas Kinder und Jugendliche |
-| Berechnungsvorschrift, wenn das DMP | 01 und 03 | 30 |
+| Berechnungsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 2-mal vorkommt. | 01 und 03 | 30 |
 | Diabetes Typ 2 und KHK | 05 und 01 | 31 |
 | Asthma und Diabetes Typ 2 | 06 und 01 | 32 |
 | COPD und Diabetes Typ 2 | 06 und 03 | 33 |
@@ -599,7 +599,7 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | 02 | 02 | Brustkrebs |
 | 03 | 03 | Koronare Herzkrankheit |
 
-Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombinationen vorliegt. -Kennzeichen im VSDM2.0 2-mal vorkommt.
+Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombinationen vorliegt.
 
 ---
 
@@ -615,7 +615,7 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 | 41 | Brustkrebs und KHK | 02 und 04 |
 | 46 | Brustkrebs und Diabetes Typ 1 | 02 und 06 |
 | 42 | Brustkrebs und COPD | 06 und 04 |
-| 43 | COPD und Diabetes Typ 1 | Berechnungsvorschrift, wenn das DMP |
+| 43 | COPD und Diabetes Typ 1 | Berechnungsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 3-mal vorkommt. |
 | 06, 01 und 03 | 34 | COPD, Diabetes Typ 2 und KHK |
 | 05, 01 und 03 | 36 | Asthma, Diabetes Typ 2 und KHK |
 | 02, 01 und 03 | 44 | Brustkrebs, Diabetes Typ 2 und KHK |
@@ -635,7 +635,7 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 | 02 und 04 | 46 | Brustkrebs und Diabetes Typ 1 |
 | 02 und 06 | 42 | Brustkrebs und COPD |
 | 06 und 04 | 43 | COPD und Diabetes Typ 1 |
-| Berechnungsvorschrift, wenn das DMP | | |
+| Berechnungsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 3-mal vorkommt. | | |
 | 06, 01 und 03 | 34 | COPD, Diabetes Typ 2 und KHK |
 | 05, 01 und 03 | 36 | Asthma, Diabetes Typ 2 und KHK |
 | 02, 01 und 03 | 44 | Brustkrebs, Diabetes Typ 2 und KHK |
@@ -654,7 +654,6 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 | 38 | Diabetes Typ 1 und KHK | 05 und 04 |
 | 39 | Asthma und Diabetes Typ 1 | 05 und 02 |
 
--Kennzeichen im VSDM2.0 3-mal vorkommt.
 
 ---
 
@@ -666,7 +665,7 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK |
 | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK |
 | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
-| Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  | **2.2.2** |
+| Tabelle 5: Transformation DMP-Kennzeichen VSDM2.0 - KVDT |  | **2.2.2** |
 | 2.2.2.1 |  | **VSD520** |
 |  |  |  |
 | **KVDT** |  | **Feld** |
@@ -685,7 +684,7 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 | Brustkrebs, COPD, Diabetes Typ 2 und KHK | 05, 02, 01 und 03 | 53 |
 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 |
 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 |
-| Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  |
+| Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 5: Transformation DMP-Kennzeichen VSDM2.0 - KVDT |  |
 | **2.2.2** | 2.2.2.1 |  |
 | **VSD520** |  |  |
 |  | **KVDT** |  |
@@ -714,7 +713,7 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 \| CODIERUNG GEMÄß KVDT | BEDEUTUNG | Transformationsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 4-mal vorkommt.  02, 06, 01 und 03 | | | | | | | | | |
 \| Feld | K | L | T | Ausprägung | Transformati | FK | Name | K | L | T | Ausprägung |
 \| Transformationsvorschrift, wenn das DMP-Kennzeichen im VSDM2.0 4-mal vorkommt.  02, 06, 01 und 03 | 52 | Brustkrebs, COPD, Diabetes Typ 2 und KHK | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK |
-| 52  Brustkrebs, COPD, Diabetes Typ 2 und KHK | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  |
+| 52  Brustkrebs, COPD, Diabetes Typ 2 und KHK | 05, 02, 01 und 03 | 53 | Asthma, Brustkrebs, Diabetes Typ 2 und KHK | 05, 02, 04 und 03 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 02, 06, 04 und 03 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 5: Transformation DMP-Kennzeichen VSDM2.0 - KVDT |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Persönliche Versichertendaten (EF.PD)** |  |  |  |  |  |  |  | | | | |
 | UC_PersoenlicheVersichertendatenXML |  |  |  |  |  |  |  | | | | |
@@ -732,7 +731,7 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 | //Titel | 0..1 | 0..20 | a |  | → | 3104 | Titel | 0..1 | ≤ 20 | a |  |
 | //PostfachAdresse | 0..1 |  |  |  |  |  |  |  |  |  |  |
 | ///Postleitzahl | 0..1 | 1..10 | a |  | → | 3121 | PostfachPLZ | 0..1 | ≤ 10 | a |  |
-| Tabelle 5: Transformation DMP -Kennzeichen VSD M2.0 - KVDT |  | **2.2.2** | 2.2.2.1 |  | **VSD520** |  |  |  | **KVDT** |  | **Feld** |
+| Tabelle 5: Transformation DMP-Kennzeichen VSDM2.0 - KVDT |  | **2.2.2** | 2.2.2.1 |  | **VSD520** |  |  |  | **KVDT** |  | **Feld** |
 | **K** | **L** | **T** | **Ausprägung** | **Transformati** | **FK** | **Name** | **K** | **L** | **T** | **Ausprägung** | **Persönliche Versichertendaten (EF.PD)** |
 |  |  |  |  |  |  |  | UC_PersoenlicheVersichertendatenXML |  |  |  |  |
 |  |  |  | CDMVersion | „5.2.0“ | → | 3006 | CDMVersion | 0..1 | 5..11 | a |  |
@@ -1010,7 +1009,7 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 
 ---
 
-\| COPD, Diabetes Typ 2 und KHK 35 | 35  Asthma und KHK | 36  36 |
+\| COPD, Diabetes Typ 2 und KHK  35 | 35  Asthma und KHK | 36  36 |
 \| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
 | DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
 |---|---|---|
@@ -1062,7 +1061,7 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 
 ---
 
-\| Asthma, Brustkrebs, Diabetes Typ 1 und KHK 57 | 57  Brustkrebs, COPD und Diabetes Typ 1 | 58  58 |
+\| Asthma, Brustkrebs, Diabetes Typ 1 und KHK  57 | 57  Brustkrebs, COPD und Diabetes Typ 1 | 58  58 |
 \| DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
 | DMP-KENNZEICHEN VSD | CODIERUNG GEMÄß KVDT | BEDEUTUNG |
 |---|---|---|
@@ -1196,7 +1195,7 @@ VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert g
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **KVK-CODIERUNG** |  | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] | 00 | M - Diabetes mellitus Typ 2 ( | 01 | A - Brustkrebs ( | 02 | K - Koronare Herzkrankheit ( | 03 | E - Diabetes mellitus Typ 1 ( |
 | 04 | D - Asthma bronchiale ( | 05 | S - COPD ( | 06 | X - Diabetes mellitus Typ 2 ( | 01 | C - Brustkrebs ( | 02 | L - Koronare Herzkrankheit ( | 03 | N - Diabetes mellitus Typ 1 ( |
-| 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP -Kennzeichen |  |  | **KVK-CODIERUNG** |  | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] |
+| 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP-Kennzeichen |  |  | **KVK-CODIERUNG** |  | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] |
 | 00 |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1208,7 +1207,7 @@ VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert g
 | 1..1 | 2..28 | a |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  | Tabelle 9: Mapping KVK in KVDT |
 |  |  | **KVK-CODIERUNG** |  | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] | 00 | M - Diabetes mellitus Typ 2 ( | 01 | A - Brustkrebs ( | 02 | K - Koronare Herzkrankheit ( |
 | 03 | E - Diabetes mellitus Typ 1 ( | 04 | D - Asthma bronchiale ( | 05 | S - COPD ( | 06 | X - Diabetes mellitus Typ 2 ( | 01 | C - Brustkrebs ( | 02 | L - Koronare Herzkrankheit ( |
-| 03 | N - Diabetes mellitus Typ 1 ( | 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP -Kennzeichen |  |  | **KVK-CODIERUNG** |  |
+| 03 | N - Diabetes mellitus Typ 1 ( | 04 | F - Asthma bronchiale ( | 05 | P - COPD ( | 06 | Tabelle 10: Transformation DMP-Kennzeichen |  |  | **KVK-CODIERUNG** |  |
 | **CODIERUNG GEMÄß KVDT** | [kein Wert vorhanden] | 00 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1277,14 +1276,6 @@ Im mobilen Einsatzszenario werden zusätzlich die  die Protokolldaten (EF.Status
 
 Diese Datenobjekte sind gemäß BMV-Ä zum Zwecke der vertragsärztlichen Abrechnung in den Abrechnungsdatensatz zu übernehmen. Folgende Tabellen  zeigen das jeweilige Mapping in Abhängigkeit der Ausbaustufe des einzusetzenden mobilen Kartenterminals.
 
-Tabelle 12: Zwischenspeicher mobKT
-
-## 2.3 BEDRUCKUNG DES PERSONALIENFELDES UND DES VERKÜRZTEN PERSONALIENFELDES
-
-Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der Abrechnungsunterlagen maschinell auswertbar, d erstellen. Zu diesem Zweck sind die hier dargestellten Bedruckungsvorschriften verbindlich zu beachten.
-
-.h. beleglesefähig, zu
-
 | MOBILES KARTENTERMINAL |  | KVDTVSD520 | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **Feld** | K | L | T | Ausprägung | Transformation | FK | Name | K | L | T | Ausprägung |
@@ -1292,11 +1283,16 @@ Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der 
 | tag ‚91‘ |  | 8 | n | TTMMJJJJ | ➔ | 4109 | Einlesedatum |  | 8 | n | JJJJMMTT |
 | tag ‚92‘ |  | 27 | a | 123xyzX.Y.Z | ➔ | 4108 | Zulassungsnummer |  | ≤ 40 | a | 123xyzX.Y.Z |
 
-West Mobiles Einsatzszenario Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an MOBILES KARTENTERMINAL Feld L Ausprägung EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ tag ‚92‘ TTMMJJJJ 27 123xyzX.Y.Z VSD520 KVDTVSD520 Transformation FK Name 4109 Einlesedatum L
+Tabelle 12: Zwischenspeicher mobKT
+
+## 2.3 BEDRUCKUNG DES PERSONALIENFELDES UND DES VERKÜRZTEN PERSONALIENFELDES
+
+VSD520  West Mobiles Einsatzszenario Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an MOBILES KARTENTERMINAL KVDTVSD520 Feld L Ausprägung Transformation FK Name L EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ TTMMJJJJ 4109 Einlesedatum tag ‚92‘ 27 123xyzX.Y.Z Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der Abrechnungsunterlagen maschinell auswertbar, d.h. beleglesefähig, zu  erstellen. Zu diesem Zweck sind die hier dargestellten Bedruckungsvorschriften verbindlich zu beachten.
+
 
 ---
 
-Die Druckzeilen 3, 4, 5 des Personalienfeldes beinhalten keine fixen Druckpositionen. Die Druckzeilen werden durch Aneinander Datenobjekte gefüllt. Die Trennung der jeweiligen Feldinhalte erfolgt durch Blank. Um die Maximallänge der je werden ggf. notwendige Kürzungsregeln festgelegt (siehe Tabelle 9), die überwiegend außerhalb des Regelfalles notwendig werde
+Die Druckzeilen 3, 4, 5 des Personalienfeldes beinhalten keine fixen Druckpositionen. Die Druckzeilen werden durch Aneinanderreihung der einzelnen  Datenobjekte gefüllt. Die Trennung der jeweiligen Feldinhalte erfolgt durch Blank. Um die Maximallänge der jeweiligen Druckzeile nicht zu überschreiten,  werden ggf. notwendige Kürzungsregeln festgelegt (siehe Tabelle 9), die überwiegend außerhalb des Regelfalles notwendig werden.
 
 ### 2.3.1 Schriftart
 
@@ -1308,15 +1304,22 @@ Vorgegeben sind die Monotype-Schriftarten Courier bzw. Courier New. Bei Einsatz 
 123456789012345678901234567890
 ```
 
+Schriftart:
+
+Courier (New), NLQ
+
+Zeichendichte: 10 Zeichen/Zoll
+
 Krankenkasse bzw. Kostenträger
 
 ```
 Testort-Musterkasse/SVA 72
 ```
 
-Mustermann-Müller geb. am
+geb. am
 
 ```
+Mustermann-Müller
 Prof. Dr. Johann von 20.10.25
 Musterweg 6  D 12345 Musterhausen 12/20
 ```
@@ -1351,21 +1354,12 @@ Zeile 4: Straßenname, Hausnummer
 
 Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
 
-reihung der einzelnen  weiligen Druckzeile nicht zu überschreiten,
-n.
-
-Schriftart:
-
-Courier (New), NLQ
-
-Zeichendichte: 10 Zeichen/Zoll
-
 
 ---
 
 \| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
-\| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | 2.3.3 |  |  |
-| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rech Zeile 7: Betriebsstättennummer/ASV | 2.3.3 |  |  |
+\| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rechtsgrundlage  Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum | 2.3.3 |  |  |
+| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rechtsgrundlage  Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum | 2.3.3 |  |  |
 |---|---|---|---|
 | 1 | KostentraegerName | 1-24 | ab 24 kürzen4 4 |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
@@ -1373,7 +1367,7 @@ Zeichendichte: 10 Zeichen/Zoll
 | 3 | Titel Vorname Namenszusatz Vorsatzwort | 1-21 | ab 21 kürzen |
 |  |  |  |  |
 | Name, |  | Kostenträgerkennung |  |
-| Versicherten-Nr. | Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID | **2.3.4** | 2.3.4.1 Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von 2.3.4.2**DRUCKZEILE** |
+| Versicherten-Nr. | Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID | **2.3.4** | 2.3.4.1 Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von dem eingelesenen  2.3.4.2**DRUCKZEILE** |
 |  | **FELD  POSITION  DRUCKVORSCHRIFT** | 1 | KostentraegerName  1-24  ab 24 kürzen4 |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
 | 2 | Nachname | 1-30 | ab 30 kürzen |
@@ -1383,7 +1377,7 @@ Zeichendichte: 10 Zeichen/Zoll
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  | Name,    Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID **2.3.4** 2.3.4.1 |
-| Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von | 2.3.4.2 |  | **DRUCKZEILE** |
+| Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von dem eingelesenen | 2.3.4.2 |  | **DRUCKZEILE** |
 |  | **FELD** |  | **POSITION** |
 |  | **DRUCKVORSCHRIFT** | 1 | KostentraegerName |
 
@@ -1393,11 +1387,11 @@ Zeichendichte: 10 Zeichen/Zoll
 |  | Name, | Kostenträgerkennung | Versicherten-Nr. |
 |---|---|---|---|
 
-123456789012345678901234 123456789              123456789012  Vorname des Versicherten Mustermann-Müller, Johan 101234567 A123456789 tsgrundlage -Teamnummer, Arztnummer, Tagesdatum Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift  dem eingelesenen Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforder ungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei
+123456789012345678901234 123456789              123456789012  Vorname des Versicherten Mustermann-Müller, Johan 101234567 A123456789 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforderungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei
 
 ---
 
-\| Falls Hausnummer nicht vorhanden: Länge | 5  Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), alternativ: | 6 |
+\| Falls Hausnummer nicht vorhanden:  Länge | 5  Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt),  alternativ: | 6 |
 \| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 | DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 |---|---|---|---|
@@ -1407,21 +1401,21 @@ Zeichendichte: 10 Zeichen/Zoll
 |  | Versicherten_ID | 11-22 | linksbündig, alphanumerisch |
 |  |  |  | (durch Leerzeichen getrennt) |
 |  | Geburtsdatum | 23-30 | Format TT.MM.JJ |
-| 4 | Straßenname Hausnummer  (durch Leerzeichen getrennt),**alternativ** 5 5   (durch Leerzeichen getrennt) | 1-30 | Falls Hausnummer vorhanden:  Länge    Falls Hausnummer nicht vorhanden: Länge |
-| 5 | Wohnsitzlaendercode Postleitzahl Ort (durch Leerzeichen getrennt),**alternativ:** 6 6 | 1-24 | Mit Wohnsitzlaendercode:  Länge    Ohne Wohnsitzlaendercode:  Länge |
+| 4 | Straßenname Hausnummer  (durch Leerzeichen getrennt), **alternativ** 5 5   (durch Leerzeichen getrennt) | 1-30 | Falls Hausnummer vorhanden:  Länge    Falls Hausnummer nicht vorhanden:  Länge |
+| 5 | Wohnsitzlaendercode Postleitzahl Ort  (durch Leerzeichen getrennt), **alternativ:** 6 6 | 1-24 | Mit Wohnsitzlaendercode:  Länge    Ohne Wohnsitzlaendercode:  Länge |
 |  | Versicherungsschutz Ende | 26-30 | Format MM/JJ |
 | 6 | Kostentraegerkennung | 1-9 | Wenn Länge(Kostentraegerkennung) < 9 |
 |  | Versicherten_ID | 11-22 | linksbündig, alphanumerisch |
 |  | Versichertenart | 24 |  |
 |  | BesonderePersonengruppe | 25-26 | Alphanumerisch |
 | 6 | DMP_Kennzeichnung | 27-28 | Alphanumerisch |
-|  | Kennzeichen Rechtsgrundlage | 29-30 | Folgende Ausprägungen sind möglich:  ›  ›  7 7 |
-|  |  |  | (durch Leerzeichen getrennt)    Geburtsdatum  23-30  Format TT.MM.JJ  4  Straßenname Hausnummer  (durch Leerzeichen getrennt),**alternativ** 5  (durch Leerzeichen getrennt)  1-30  Falls Hausnummer vorhanden: |
+|  | Kennzeichen Rechtsgrundlage | 29-30 | Folgende Ausprägungen sind möglich:   ›  ›  7 7 |
+|  |  |  | (durch Leerzeichen getrennt)    Geburtsdatum  23-30  Format TT.MM.JJ  4  Straßenname Hausnummer  (durch Leerzeichen getrennt), **alternativ** 5  (durch Leerzeichen getrennt)  1-30  Falls Hausnummer vorhanden: |
 | Länge |  | Falls Hausnummer nicht vorhanden: | Länge |
 | 5 | Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), | **alternativ:** |
 | 6 |  | 1-24 | Mit Wohnsitzlaendercode: |
 
-: „Postfach“ Postfachnummer  Items der Postfachadresse  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV -Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen „11“
+: „Postfach“ Postfachnummer  Items der Postfachadresse  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV-Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen „11“
 
 ---
 
@@ -1471,7 +1465,7 @@ Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverord
 |  |  |  |  |  |  | 3012 | Error-Code | 0..1 | 5 | n | 99999 |
 | Prüfziffer Fachdienst | 0..1 | 65 | a |  | → | 3013 | Prüfziffer des Fachdienstes | 0..1 | ≤ | a |  |
 
-Tabelle 15: Prüfungsnachweis VSDM 2.0 in KVDT -Referenz-Design mappen
+Tabelle 15: Prüfungsnachweis VSDM 2.0 in KVDT-Referenz-Design mappen
 
 VSDM-Instanz  Bundle.meta.profile) FHIR-Response VSDM2.0 nach „|“, Ende des Values) Aktualisierung (Timestamp) aktualisierung Wert „1“ –  bei HTTP 200 OK mit FHIR-Bundle und gültigem VSDM- Pz-Header Wert „2“ –  bei HTTP 304 Not Modified mit gültigen VSDM Pz- Wert „3“ –  bei serverseitigem Fehler des Fachdienstes oder bei Verarbeitungsfehler im Clientsystem (z.B. ungültiges FHIR- Bundle, fehlender VSDM-Pz- Header), sofern PoPP-Token erfolgreich erlangt wurde Wert „4“ –  wenn die PoPP-Token- Anforderung wegen ungültiger oder gesperrter eGK fehlschlägt (Fehler des PoPP-Service mit entsprechender Fehlerursache) Wert „5“ –  bei Verbindungsfehler (Netzwerk, TLS, ZETA/ASL, DNS, Timeout). 128
 
@@ -1499,12 +1493,12 @@ VSDM2.0 aktualisierung (Timestamp) aktualisierung
 3 REFERENZIERTE DOKUMENTE
 
 \|  |  |
-| )  [3] | Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung, in  https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage |
+| )  [3] | Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung, in  https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage- |
 |---|---|
 | **Referenz** | **Dokument** |
-| [1] | Vereinbarung zum Inhalt und  zur Anwendung der elektronischen Gesundheitskarte (https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage  ) |
-| [2] | Vereinbarung über Vordrucke für die vertragsärztliche Versorgung  (https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage  ) |
-| [3] | Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung, in  https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage  ) |
+| [1] | Vereinbarung zum Inhalt und  zur Anwendung der elektronischen Gesundheitskarte (Vereinbarung zur elektronischen  (https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-  ) |
+| [2] | Vereinbarung über Vordrucke für die vertragsärztliche Versorgung  (https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-  ) |
+| [3] | Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung, in  https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-  ) |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] | Datensatzbeschreibung KVDT, in aktuellster Version |
 | [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_KVDT] | KVDT Anforderungskatalog, in aktuellster Version |
 | [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] | Anforderungskatalog Formularbedruckung |
@@ -1515,7 +1509,7 @@ VSDM2.0 aktualisierung (Timestamp) aktualisierung
 | ) | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] |
 | Datensatzbeschreibung KVDT, in aktuellster Version | [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_KVDT |
 
-(VSDM 2.0) VSDM] Telematikinfrastruktur]  (Vereinbarung zur elektronischen Gesundheitskarte - Anlage 4a BMV-Ä), in aktuellster Version  04a-elektronische-gesundheitskarte/04a_elektr._Gesundheitskarte.pdf (Vordruckvereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version 02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf 02-vordruckvereinbarung/02_Erlaeuterungen.pdf Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen
+(VSDM 2.0) VSDM] Telematikinfrastruktur] Gesundheitskarte - Anlage 4a BMV-Ä), in aktuellster Version  04a-elektronische-gesundheitskarte/04a_elektr._Gesundheitskarte.pdf (Vordruckvereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version  02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf 02-vordruckvereinbarung/02_Erlaeuterungen.pdf Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen
 
 ---
 
@@ -1524,14 +1518,14 @@ VSDM2.0 aktualisierung (Timestamp) aktualisierung
 |---|---|
 |  |  |
 |  | **Ansprechpartner: ** Dezernat Digitalisierung und IT  IT in der Arztpraxis |
-| Tel.: 030 4005-2077, ita@kbv.de | Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin  ita@kbv.de, www.kbv.de |
+| Tel.: 030 4005-2077, ita@kbv.de | Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  ita@kbv.de, www.kbv.de |
 |  |  |
-| GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00. |  |
-| GKV-SV, KBV, KZBV. (2009). Technische Spezifikation der Versichertenkarte; Version 2.08 |  |
-|  |  |
-|  |  |
+| GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung  und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00. |  |
+| GKV-SV, KBV, KZBV. (2009). Technische Spezifikation der Versichertenkarte;  Version 2.08 |  |
 |  |  |
 |  |  |
 |  |  |
-|  | GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00. |
-|  | GKV-SV, KBV, KZBV. (2009). Technische Spezifikation der Versichertenkarte; Version 2.08 |
+|  |  |
+|  |  |
+|  | GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung  und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00. |
+|  | GKV-SV, KBV, KZBV. (2009). Technische Spezifikation der Versichertenkarte;  Version 2.08 |

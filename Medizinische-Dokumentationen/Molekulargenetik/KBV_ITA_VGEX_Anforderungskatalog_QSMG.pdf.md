@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Anforderungskatalog QS Mole-* |
-|  | [KBV_ITA_VGEX_Anforderungskatalog_QSMG |
+|  | [KBV_ITA_VGEX_Anforderungskatalog_QSMG] |
 |  | ** |
-|  | Dezernat |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-kulargenetik Digitalisierung und IT Herbert-Lewin-Platz 2 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft 
+kulargenetik 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft 
 
 
 ---
@@ -53,7 +53,7 @@ ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu
 
 **1.1** **Zielbestimmung ............................................................................................................................. 5**
 
-**1.2** **Pflichtfunktionen und optionale Funktionen der Software** **....................................................... 5**
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software ....................................................... 5**
 
 **2** **ÄRZTLICHES DOKUMENTIEREN**
 
@@ -142,7 +142,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | Optionale FUNKTION | |
 |---|---|
-| **K8-30** | **Funktionsbezeichnung                                                                            (2 -80)** |
+| **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
 (2-70) Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
@@ -460,7 +460,7 @@ Eine Ausnahme bilden die Pflichtfelder, welche immer ausgefüllt werden müssen.
 |---|---|
 | **P1-220** | **Behandlungsfälle ohne Art des Befundes** |
 
-Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befund im Sinne der Fra-gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen
+Liegen im Untersuchungsjahr Behandlungsfälle vor, zu denen kein Befund im Sinne der Fra-gestellung (s P1-70) dokumentiert wurde, ist der Anwender darauf hinzuweisen.
 
 ### 2.1.6 Darstellung
 
@@ -589,9 +589,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 - Spezifikation_eDoku_KIM
 
-Spezifikation_eDoku_KIM] an
-
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. -
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Spezifikation_eDoku_KIM] an
 
 
 ---

@@ -2,9 +2,11 @@
 
 **Name, Vorname des Versicherten**
 
-**Kostenträgerkennung**
+**Kostenträgerkennung Versicherten-Nr.**
 
 **Betriebsstätten-Nr.**
+
+**Arzt-Nr.**
 
 **Therapieziele (Nah- und Fernziele definieren)**
 
@@ -17,14 +19,6 @@
 **3.**
 
 **4.**
-
-**Versicherten-Nr.**
-
-**Status**
-
-**Arzt-Nr.**
-
-**Datum**
 
 **5.**
 
@@ -44,13 +38,7 @@
 
 **Zeitraum**
 
-**Ausstellungsdatum**
-
-**2. Durchschlag**
-
-zum Verbleib beim verordnenden Arzt
-
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+**27**
 
 ## Soziotherapeutischer Betreuungsplan
 
@@ -60,17 +48,27 @@ zum Verbleib beim verordnenden Arzt
 
 #### Weiterleitung an die Krankenkasse)
 
+**Status**
+
+**Datum**
+
 **IK des Leistungserbringers**
 
-**Datum**
+**Ausstellungsdatum**
 
-**Datum**
+**2. Durchschlag**
+
+zum Verbleib beim verordnenden Arzt
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**Muster 27c/E (10.2014) PRF.NR.**
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**27**
+**Datum**
+
+**Datum**
+
+**Muster 27c/E (10.2014) PRF.NR.**
 
 **Unterschrift des Therapeuten**
 

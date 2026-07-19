@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**11. JULI 2026**
+**18. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -37,29 +37,29 @@ System ohne APK
 
 System mit APK
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 Y/500/2407/36/062 Y/1/2407/36/062
 
 Y/200/2607/36/416
 
-Y/500/2408/36/031 Y/1/2408/36/031 30.06.2027 30.06.2027
+Y/500/2408/36/031 Y/1/2408/36/031
 
-30.06.2029
+SADT Satzart: Ambulante Behandlung 30.06.2027 Satzart: Überweisung
 
-31.07.2027 31.07.2027
+Windows 30.06.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Überweisung
-
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Linux 30.06.2029 Satzart: Überweisung
 
 Windows
 
-Linux Windows
+SADT
 
-LIS++ 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner Brüsseler Str.1 67657 Kaiserslautern Internet: www.4labs.eu Linux WindowsiOS/Android Linux Mac OS Windows
+iOS/Android Satzart: Ambulante Behandlung 31.07.2027
+
+Linux Satzart: Überweisung 31.07.2027
+
+LIS++ 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner Brüsseler Str.1 67657 Kaiserslautern Internet: www.4labs.eu Linux WindowsMac OS Satzart: Belegärztliche Behandlung Windows Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -83,7 +83,7 @@ LIS++ 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner Brüsseler St
 |  |  |  |  | Satzart: Notfall/ Notfalldienst |  |
 |  | System ohne APK | Y/200/2607/36/525 | 30.06.2029 | Satzart: Überweisung |  |
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -91,17 +91,15 @@ System mit APK
 
 Y/1/2401/36/081 Y/500/2401/36/081 Y/2/2401/36/081
 
-Y/1/2410/36/078
-
-31.12.2026 31.12.2026 31.12.2026 30.09.2027
+31.12.2026 31.12.2026 31.12.2026
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT Kurärztliche Behandlung
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
 Windows
 
-RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm QuickCON BS software development GmbH & Co.KG Blaubeurer Straße 71 89077 Ulm Internet: www.bs-sd.de Linux Mac OS Windows Mac OS WindowsWindows
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2410/36/078 30.09.2027
+
+RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm QuickCON BS software development GmbH & Co.KG Blaubeurer Straße 71 89077 Ulm Internet: www.bs-sd.de Linux Mac OS Windows Mac OS WindowsWindows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -127,7 +125,7 @@ RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augusti
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -141,29 +139,25 @@ Y/1/2607/36/323
 
 Y/1/2601/36/459
 
-Y/1/2601/36/226
-
-Y/200/2402/36/466 30.06.2029
+Y/1/2601/36/226 30.06.2029
 
 31.12.2028
 
 31.12.2028
 
-31.01.2027
-
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Überweisung
-
 Windows
 
 Windows
 
 Windows
+
+Y/200/2402/36/466 31.01.2027 Satzart: Überweisung
 
 Windows
 
@@ -191,7 +185,7 @@ Windows
 
 **Clinisys Deutschland GmbH** Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System ohne APK
 
@@ -257,7 +251,7 @@ Windows
 
 **AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System ohne APK
 
@@ -267,35 +261,29 @@ System mit APK
 
 System mit APK
 
-Y/201/2309/36/702
+Satzart: Überweisung Y/201/2309/36/702 31.08.2026 Satzart: Notfall/ Notfalldienst
+
+iOS/Android Linux Mac OS Windows
 
 Y/1/2607/36/346
 
 Y/1/2309/36/332
 
-Y/2/2501/36/112 Y/500/2501/36/112 Y/1/2501/36/112 31.08.2026
+Y/2/2501/36/112 Y/500/2501/36/112 Y/1/2501/36/112
 
-30.06.2029
+Satzart: Ambulante Behandlung Satzart: Überweisung 30.06.2029
 
-31.08.2026
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-31.12.2027 31.12.2027 31.12.2027
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.08.2026
 
-Satzart: Überweisung Satzart: Notfall/ Notfalldienst
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Kurärztliche Behandlung
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+SADT 31.12.2027 Satzart: Ambulante Behandlung 31.12.2027
 
-Kurärztliche Behandlung SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-iOS/Android Linux Mac OS Windows
-
-Windows
-
-Windows
-
-Windows
+Windows Satzart: Überweisung 31.12.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -319,7 +307,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -329,25 +317,15 @@ System mit APK
 
 Y/500/2407/36/203 Y/1/2407/36/203
 
-Y/1/2402/36/023 Y/500/2402/36/023
-
-Y/1/2501/36/252 Y/500/2501/36/252 30.06.2027 30.06.2027
-
-31.01.2027 31.01.2027
-
-31.12.2027 31.12.2027
-
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
+SADT Satzart: Ambulante Behandlung 30.06.2027 Satzart: Überweisung 30.06.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Windows
 
-Linux
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2402/36/023 31.01.2027 Satzart: Belegärztliche Behandlung Linux Y/500/2402/36/023 31.01.2027 Satzart: Notfall / Notfalldienst SADT
 
-Windows
+Y/1/2501/36/252 Y/500/2501/36/252
+
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2027 Satzart: Belegärztliche Behandlung Windows 31.12.2027 Satzart: Notfall / Notfalldienst SADT
 
 
 ---
@@ -375,7 +353,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 24105 Kiel Internet: www.crosssoft.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK Y/500/2412/36/280
 
@@ -421,15 +399,17 @@ Windows
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
+**InterMediNet**
+
+**DBI Informatik, Dirk Blume**
+
+Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
+
 **ORBIS®**
 
 **Dedalus HealthCare GmbH** Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com
 
-**Opus::L Labormanagementsystem**
-
-**Dedalus Labor GmbH** Ruhrallee 201 45136 Essen Internet: www.osm-gruppe.de
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -437,21 +417,21 @@ System mit APK
 
 System mit APK
 
-System ohne APK
+System mit APK
 
 Y/1/2501/36/262
 
 Y/1/2401/36/060 Y/500/2401/36/060
 
-Y/1/2507/36/254
+Y/1/2607/36/238
 
-Y/201/2607/36/347 31.12.2027
+Y/1/2507/36/254 31.12.2027
 
 31.12.2026 31.12.2026
 
-30.06.2028
-
 30.06.2029
+
+30.06.2028
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
@@ -459,7 +439,7 @@ Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Beh
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Überweisung Satzart: Notfall/ Notfalldienst
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Windows
 
@@ -467,7 +447,7 @@ Windows
 
 Windows
 
-Linux Sonstige Windows
+Windows
 
 
 ---
@@ -477,9 +457,17 @@ Linux Sonstige Windows
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
 
+**Opus::L Labormanagementsystem**
+
+**Dedalus Labor GmbH** Ruhrallee 201 45136 Essen Internet: www.osm-gruppe.de
+
 **IMedOne**
 
 **Deutsche Telekom Clinical Solutions** **GmbH** Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com
+
+System ohne APK
+
+System mit APK
 
 **inSuite**
 
@@ -489,37 +477,27 @@ Linux Sonstige Windows
 
 **Doctolib GmbH** Mehringdamm 51 10961 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
 
-**i/med Billing**
-
-**Dorner GmbH & Co. KG** Neuenburger Straße 4 79379 Müllheim Internet: www.dorner.de
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
 System mit APK
 
-System mit APK
+Satzart: Überweisung Y/201/2607/36/347 30.06.2029 Satzart: Notfall/ Notfalldienst
 
-System mit APK
+Linux Sonstige Windows
 
-Y/1/2601/36/314
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2601/36/314 31.12.2028
 
-Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2028 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2407/36/488 30.06.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Ambulante Behandlung Linux Satzart: Überweisung
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2405/38/677 30.06.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Mac OS Y/1/2407/36/488 30.06.2027 Satzart: Belegärztliche Behandlung Sonstige Satzart: Notfall / Notfalldienst Windows
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2507/36/409 30.06.2028 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+iOS/Android Satzart: Ambulante Behandlung Linux Satzart: Überweisung Y/1/2405/38/677 30.06.2027
 
-Windows
-
-Linux Mac OS Sonstige Windows
-
-iOS/Android Linux Mac OS Sonstige Windows
-
-Windows
+Mac OS Satzart: Belegärztliche Behandlung Sonstige Satzart: Notfall / Notfalldienst Windows
 
 
 ---
@@ -528,7 +506,14 @@ Windows
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
-|  | System ohne APK | Y/200/2407/36/673 | 30.06.2027 | Satzart: Überweisung |  |
+
+**i/med Billing**
+
+**Dorner GmbH & Co. KG** Neuenburger Straße 4 79379 Müllheim Internet: www.dorner.de
+
+**JPC ZytoLab**
+
+**Dr. Axel Stenkamp Consulting &** **SoftwareEngineering** Denglerstraße 55 53173 Bonn
 
 **apraxos**
 
@@ -538,40 +523,46 @@ Windows
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
 
-**Xplore RIS**
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
-**EDL Software Deutschland GmbH** Sprockhövelerstraße 4 45527 Hattingen Internet: [https://www.edl.gmbh/](https://www.edl.gmbh/)
+System mit APK
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+System ohne APK
 
 System mit APK
 
 System mit APK
 
-System mit APK
+Y/1/2507/36/409
+
+Y/200/2407/36/673
 
 Y/1/2401/36/602
 
-Y/500/2401/36/086 Y/1/2401/36/086
+Y/500/2401/36/086 Y/1/2401/36/086 30.06.2028
 
-Y/1/2607/36/637 31.12.2026
+30.06.2027
+
+31.12.2026
 
 31.12.2026 31.12.2026
 
-30.06.2029
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Satzart: Überweisung
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Windows
+
+Windows
 
 Linux
 
 Windows
 
-JPC ZytoLab Dr. Axel Stenkamp Consulting & SoftwareEngineering Denglerstraße 55 53173 Bonn WindowsWindows
-
 
 ---
 
@@ -579,36 +570,62 @@ JPC ZytoLab Dr. Axel Stenkamp Consulting & SoftwareEngineering Denglerstraße 55
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
-|  | System ohne APK | Y/207/2507/36/561 | 30.06.2028 | Satzart: Überweisung |  |
-|  | System ohne APK | Y/207/2507/36/769 | 30.06.2028 | Satzart: Überweisung |  |
+
+**Xplore RIS**
+
+**EDL Software Deutschland GmbH** Sprockhövelerstraße 4 45527 Hattingen Internet: [https://www.edl.gmbh/](https://www.edl.gmbh/)
+
+**EISHISTO**
+
+**EI Systems, Andreas Eicker** Keltenring 210 79199 Kirchzarten
+
+**Elea Lab**
+
+**Elea.ai GmbH** Holsteinischer Kamp 37 22081 Hamburg Internet: www.elea.health
 
 **Epikur**
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-**PsychoDat**
-
-**ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
+System ohne APK
+
+System ohne APK
+
 System mit APK
 
-Y/7/2507/36/295 Y/500/2607/36/295 Y/1/2607/36/295
+Y/1/2607/36/637
 
-Y/1/2501/36/253
+Y/207/2507/36/561 30.06.2029
 
-30.06.2028 30.06.2029 30.06.2029 31.12.2027
-
-NDT SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+30.06.2028
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Linux Mac OS Windows
+Satzart: Überweisung
 
-EISHISTO EI Systems, Andreas Eicker Keltenring 210 79199 Kirchzarten Elea Lab Elea.ai GmbH Holsteinischer Kamp 37 22081 Hamburg Internet: www.elea.health Windows iOS/Android Mac OS WindowsWindows
+Windows
+
+Windows
+
+iOS/Android Y/207/2507/36/769 30.06.2028 Satzart: Überweisung
+
+Mac OS Windows
+
+Y/7/2507/36/295 Y/500/2607/36/295 Y/1/2607/36/295
+
+NDT
+
+SADT 30.06.2028
+
+Linux Satzart: Ambulante Behandlung 30.06.2029
+
+Mac OS Satzart: Überweisung 30.06.2029
+
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -617,6 +634,10 @@ EISHISTO EI Systems, Andreas Eicker Keltenring 210 79199 Kirchzarten Elea Lab El
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
+**PsychoDat**
+
+**ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
 **INDICATION**
 
@@ -630,11 +651,7 @@ EISHISTO EI Systems, Andreas Eicker Keltenring 210 79199 Kirchzarten Elea Lab El
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
-**FIDUS**
-
-**FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
-
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -643,28 +660,28 @@ System mit APK
 System mit APK
 
 System mit APK
+
+Y/1/2501/36/253
 
 Y/1/2407/36/223
 
 Y/1/2407/36/421
 
-Y/500/2407/36/034 Y/1/2407/36/034
+Y/500/2407/36/034 Y/1/2407/36/034 31.12.2027
 
-Y/1/2501/36/403 30.06.2027
+30.06.2027
 
 30.06.2027
 
 30.06.2027 30.06.2027
 
-31.12.2027
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Windows
 
@@ -681,7 +698,16 @@ Windows
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
-|  | System ohne APK | Y/207/2501/36/478 | 31.12.2027 | Satzart: Überweisung |  |
+
+**FIDUS**
+
+**FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
+
+**PathoFlow**
+
+**Florian Kaiser**
+
+Klosteranger 15 83629 Weyarn
 
 **theHub**
 
@@ -691,39 +717,39 @@ Windows
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-**Doctorly**
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
-**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
+System mit APK
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+System ohne APK
 
 System mit APK
 
 System mit APK
 
-System mit APK
+Y/1/2501/36/403
+
+Y/207/2501/36/478 31.12.2027
+
+31.12.2027
+
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Satzart: Überweisung
+
+Windows
+
+Windows
 
 Y/1/2509/36/630
 
 Y/1/2501/36/244 Y/500/2501/36/244
 
-Y/1/2409/36/616 31.08.2028
+iOS/Android Satzart: Ambulante Behandlung Linux Satzart: Überweisung 31.08.2028
 
-31.12.2027 31.12.2027
+Mac OS Satzart: Belegärztliche Behandlung Sonstige Satzart: Notfall / Notfalldienst Windows
 
-31.08.2027
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-iOS/Android Linux Mac OS Sonstige Windows
-
-Windows
-
-PathoFlow Florian Kaiser Klosteranger 15 83629 Weyarn WindowsiOS/Android Linux Mac OS Windows
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2027 Satzart: Belegärztliche Behandlung Windows 31.12.2027 Satzart: Notfall / Notfalldienst SADT
 
 
 ---
@@ -732,6 +758,10 @@ PathoFlow Florian Kaiser Klosteranger 15 83629 Weyarn WindowsiOS/Android Linux M
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
+**Doctorly**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
 **garrioPRO**
 
@@ -745,11 +775,7 @@ PathoFlow Florian Kaiser Klosteranger 15 83629 Weyarn WindowsiOS/Android Linux M
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-**Elefant**
-
-**HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -759,31 +785,23 @@ System mit APK
 
 System mit APK
 
-Y/1/2404/36/701
+Y/1/2409/36/616
 
-Y/1/2607/36/417
+Y/1/2404/36/701 31.08.2027
 
-Y/1/2407/36/195
-
-Y/500/2601/36/298 Y/1/2601/36/298 31.03.2027
-
-30.06.2029
-
-30.06.2027
-
-31.12.2028 31.12.2028
+31.03.2027
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2607/36/417 30.06.2029 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2407/36/195 30.06.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+iOS/Android Linux Mac OS Windows
 
 Linux Mac OS Windows
-
-Windows
 
 Windows
 
@@ -796,6 +814,10 @@ Windows
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
+**Elefant**
+
+**HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
 
 **IFA-AUGENARZT**
 
@@ -805,29 +827,37 @@ Windows
 
 **ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
-|  | System ohne APK | Y/200/2501/36/473 | 31.12.2027 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
-|  | System ohne APK | Y/207/2607/36/455 | 30.06.2029 | Satzart: Überweisung |  |
+**KVDT (ADT)**
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+**IFMS - Institut für medizinische** **Software GmbH** Sulzbachstraße 39 - 41 66111 Saarbrücken Internet: www.ifms.de
 
 System mit APK
 
 System mit APK
 
-Y/1/2407/36/400
+System mit APK
 
-Y/1/2408/36/451 30.06.2027
+System ohne APK
 
-31.07.2027
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Y/500/2601/36/298 Y/1/2601/36/298
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+SADT Satzart: Ambulante Behandlung 31.12.2028 Satzart: Überweisung 31.12.2028 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Windows
 
-KVDT (ADT) IFMS - Institut für medizinische Software GmbH Sulzbachstraße 39 - 41 66111 Saarbrücken Internet: www.ifms.de imassense ISG imassense Deutschland GmbH Buckower Chaussee 106 - 107 12277 Berlin Internet: www.imassense.de Windows Linux Sonstige WindowsLinux Mac OS Windows
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2407/36/400 30.06.2027
+
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Satzart: Ambulante Behandlung Linux Satzart: Überweisung Y/1/2408/36/451 31.07.2027
+
+Mac OS Satzart: Belegärztliche Behandlung Windows Satzart: Notfall / Notfalldienst
+
+Y/200/2501/36/473 31.12.2027 Satzart: Überweisung
+
+Windows
 
 
 ---
@@ -836,6 +866,7 @@ KVDT (ADT) IFMS - Institut für medizinische Software GmbH Sulzbachstraße 39 - 
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+|  | System ohne APK | Y/207/2607/36/455 | 30.06.2029 | Satzart: Überweisung |  |
 
 **DynaMed**
 
@@ -849,13 +880,7 @@ KVDT (ADT) IFMS - Institut für medizinische Software GmbH Sulzbachstraße 39 - 
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-**esQlab.online**
-
-**IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
-
-System mit APK
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -869,29 +894,19 @@ Y/500/2401/36/210 Y/1/2401/36/210
 
 Y/500/2501/36/136 Y/1/2501/36/136
 
-Y/1/2501/36/406 31.03.2028
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.03.2028
 
-31.12.2026 31.12.2026
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-31.12.2027 31.12.2027
+SADT Satzart: Ambulante Behandlung 31.12.2026 Satzart: Überweisung
 
-31.12.2027
+Windows 31.12.2026 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+SADT Satzart: Ambulante Behandlung 31.12.2027
 
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Mac OS Satzart: Überweisung 31.12.2027
 
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Windows
-
-Windows
-
-Mac OS Windows
-
-Windows
+imassense ISG imassense Deutschland GmbH Buckower Chaussee 106 - 107 12277 Berlin Internet: www.imassense.de Linux Sonstige WindowsWindows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -900,28 +915,42 @@ Windows
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
+**esQlab.online**
+
+**IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
 **DISweb**
 
 **KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
+System mit APK
+
+System mit APK
+
 **CLASSY RT**
 
-**KHP Kelm & Homberg** **Produktionsgesellschaft GmbH &** **Co.KG** Friedrich-Ebert-Str. 85 58454 Witten Internet: www.khp-informatik.de
+**KHP Kelm & Homberg** **Produktionsgesellschaft GmbH &**
 
-|  | System ohne APK | Y/207/2607/36/741 | 30.06.2029 | Satzart: Überweisung |  |
-|---|---|---|---|---|---|
-|  | System ohne APK | Y/200/2606/37/643 | 30.06.2029 | Satzart: Überweisung |  |
+**Co.KG** Friedrich-Ebert-Str. 85 58454 Witten Internet: www.khp-informatik.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+**LINA**
+
+**LAB4.0 GmbH** Am Propsthof 3 53121 Bonn Internet: www.luuconnect.de
+
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
-System mit APK
+System ohne APK Y/207/2607/36/741
+
+Y/1/2501/36/406
 
 Y/1/2601/36/320
 
-Y/1/2501/36/385 31.12.2028
+Y/1/2501/36/385 31.12.2027
+
+31.12.2028
 
 31.12.2027
 
@@ -929,9 +958,17 @@ Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Beh
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+30.06.2029 Satzart: Überweisung
+
 Windows
 
-LINA LAB4.0 GmbH Am Propsthof 3 53121 Bonn Internet: www.luuconnect.de smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22765 Hamburg Internet: www.labdock.de Windows Linux Mac OS WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -940,6 +977,7 @@ LINA LAB4.0 GmbH Am Propsthof 3 53121 Bonn Internet: www.luuconnect.de smartLIS 
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+|  | System ohne APK | Y/200/2606/37/643 | 30.06.2029 | Satzart: Überweisung |  |
 
 **ELADIS**
 
@@ -953,13 +991,7 @@ LINA LAB4.0 GmbH Am Propsthof 3 53121 Bonn Internet: www.luuconnect.de smartLIS 
 
 **LABLIONS software & solutions** **GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
 
-**SYLAB**
-
-**Labor Dr. von Froreich GmbH** Großmoorbogen 25 21079 Hamburg Internet: www.labor-froreich.de
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
-
-System ohne APK
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System ohne APK
 
@@ -971,31 +1003,23 @@ Y/201/2407/36/703
 
 Y/201/2407/36/065
 
-Y/201/2407/36/716
-
-Y/200/2607/36/730 30.06.2027
+Y/201/2407/36/716 30.06.2027
 
 30.06.2027
 
 30.06.2027
 
-30.06.2029
-
 Satzart: Überweisung Satzart: Notfall/ Notfalldienst
 
 Satzart: Überweisung Satzart: Notfall/ Notfalldienst
 
 Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Satzart: Überweisung
 
 Linux
 
 Windows
 
-Linux Windows
-
-Linux
+smartLIS Laborinformationssystem Abrechnungsmodul labdock GmbH Helenenstieg 4 22765 Hamburg Internet: www.labdock.de Linux Mac OS WindowsLinux Windows
 
 
 ---
@@ -1004,6 +1028,7 @@ Linux
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+|  | System ohne APK | Y/200/2607/36/730 | 30.06.2029 | Satzart: Überweisung |  |
 
 **LX**
 
@@ -1017,19 +1042,13 @@ Linux
 
 **Medat Computersysteme GmbH** Albrechtstraße 14 80636 München Internet: www.medat.de
 
-**EL - Elaphe Longissima**
-
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System ohne APK
 
 System ohne APK
 
 System ohne APK
-
-System mit APK
 
 Y/203/2507/36/493
 
@@ -1037,29 +1056,17 @@ Y/200/2501/36/375
 
 Y/201/2407/36/721
 
-Y/2/2407/36/135 Y/500/2407/36/135 Y/1/2407/36/135 30.06.2028
+Satzart: Ambulante Behandlung 30.06.2028 Satzart: Überweisung Satzart: Notfall/ Notfalldienst
 
-31.12.2027
+31.12.2027 Satzart: Überweisung
 
-30.06.2027
-
-30.06.2027 30.06.2027 30.06.2027
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Satzart: Überweisung
-
-Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Kurärztliche Behandlung SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Überweisung 30.06.2027 Satzart: Notfall/ Notfalldienst
 
 Linux Sonstige Windows
 
 Linux Sonstige Windows
 
-Linux Sonstige Windows
-
-Windows
+SYLAB Labor Dr. von Froreich GmbH Großmoorbogen 25 21079 Hamburg Internet: www.labor-froreich.de LinuxLinux Sonstige Windows
 
 
 ---
@@ -1069,11 +1076,19 @@ Windows
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
 
+**EL - Elaphe Longissima**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
 **x.isynet**
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Softwarevariante(n): - x.vianova
+
+System mit APK
+
+System mit APK
 
 **x.concept**
 
@@ -1083,21 +1098,13 @@ Softwarevariante(n): - x.vianova
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
-**medatixx**
-
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
-
-Softwarevariante(n): - psyx
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
 System mit APK
 
-System mit APK
-
-System mit APK
+Y/2/2407/36/135 Y/500/2407/36/135 Y/1/2407/36/135
 
 Y/500/2501/36/216 Y/1/2501/36/216
 
@@ -1105,19 +1112,19 @@ Y/2/2407/36/243 Y/500/2407/36/243 Y/1/2407/36/243
 
 Y/2/2401/36/266 Y/1/2401/36/266 Y/500/2401/36/266
 
-Y/1/2607/36/462 31.12.2027 31.12.2027
+30.06.2027 30.06.2027 30.06.2027 31.12.2027 31.12.2027
 
 30.06.2027 30.06.2027 30.06.2027
 
-31.12.2026 31.12.2026 31.12.2026 30.06.2029
+31.12.2026 31.12.2026 31.12.2026
+
+Kurärztliche Behandlung SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Kurärztliche Behandlung SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Kurärztliche Behandlung Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Windows
 
@@ -1134,6 +1141,12 @@ Windows
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
+**medatixx**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+Softwarevariante(n): - psyx
 
 **medavis RIS**
 
@@ -1147,11 +1160,7 @@ Windows
 
 **medigration GmbH** Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de
 
-**Praxis-Programm**
-
-**medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
-
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1161,35 +1170,23 @@ System mit APK
 
 System mit APK
 
-Y/1/2501/36/256
+Y/1/2607/36/462
 
-Y/203/2407/36/439
-
-Y/203/2507/36/446
-
-Y/1/2407/36/030 31.12.2027
-
-30.06.2027
-
-30.06.2028
-
-30.06.2027
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Ambulante Behandlung Satzart: Überweisung 30.06.2029 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 Windows
 
-Windows
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2501/36/256 31.12.2027
 
-Windows
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Windows
+Satzart: Ambulante Behandlung Y/203/2407/36/439 30.06.2027 Satzart: Überweisung
+
+Windows Satzart: Notfall/ Notfalldienst
+
+Satzart: Ambulante Behandlung Y/203/2507/36/446 30.06.2028 Satzart: Überweisung
+
+Windows Satzart: Notfall/ Notfalldienst
 
 
 ---
@@ -1198,6 +1195,10 @@ Windows
 |---|---|---|---|---|---|
 | **Kontaktdaten** |  | **Prüfnummer(n)** |  | **zertifiziert für** |  |
 |  | **Kontakt (APK)** |  | **gültig bis** |  | **Betriebssysteme** |
+
+**Praxis-Programm**
+
+**medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
 
 **MEDIPX**
 
@@ -1211,7 +1212,9 @@ Windows
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
+
+System mit APK
 
 System mit APK
 
@@ -1219,27 +1222,31 @@ System ohne APK
 
 System mit APK
 
-Y/1/2407/36/087
+Y/1/2407/36/030
 
-Y/200/2501/36/728
+Y/1/2407/36/087 30.06.2027
 
-Y/1/2308/36/192 30.06.2027
-
-31.12.2027
-
-31.07.2026
+30.06.2027
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-Satzart: Überweisung
-
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Windows
 
 Linux Windows
 
-Windows
+Y/200/2501/36/728
+
+Y/1/2308/36/192
+
+31.12.2027 Satzart: Überweisung
 
 Windows
+
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.07.2026
+
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1263,7 +1270,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **Meierhofer AG** Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1273,25 +1280,23 @@ System mit APK
 
 Y/1/2507/36/251
 
+Satzart: Ambulante Behandlung Satzart: Überweisung 30.06.2028 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Windows
+
 Y/500/2401/36/015 Y/1/2401/36/015
 
-Y/1/2601/36/290 30.06.2028
+Y/1/2601/36/290
 
-31.12.2026 31.12.2026
+SADT Satzart: Ambulante Behandlung 31.12.2026
 
-31.12.2028
+Mac OS Satzart: Überweisung 31.12.2026
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2028
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Windows
-
-Mac OS Windows
-
-Windows
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1317,7 +1322,7 @@ Windows
 
 **Müritz COMP Greifswald** **Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1329,33 +1334,31 @@ System mit APK
 
 Y/1/2407/36/276
 
-Y/1/2607/36/422
+Y/1/2607/36/422 30.06.2027
+
+30.06.2029
+
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Windows
+
+Windows
 
 Y/201/2607/36/740
 
-Y/1/2407/36/494 30.06.2027
+Y/1/2407/36/494
 
-30.06.2029
+Linux Satzart: Überweisung 30.06.2029
 
-30.06.2029
-
-30.06.2027
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Sonstige Satzart: Notfall/ Notfalldienst
 
 Windows
 
-Windows
+Satzart: Ambulante Behandlung Satzart: Überweisung 30.06.2027
 
-Linux Sonstige Windows
-
-Windows
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1381,7 +1384,7 @@ Windows
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-](https://www.nexus-) chili.com
 
-Seite 26 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+Seite 26 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1393,33 +1396,21 @@ System mit APK
 
 Y/1/2407/36/043
 
+Satzart: Ambulante Behandlung Satzart: Überweisung 30.06.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Windows
+
 Y/1/2601/36/299 Y/500/2601/36/299
 
-Y/1/2407/36/278
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2028 Satzart: Belegärztliche Behandlung Windows 31.12.2028 Satzart: Notfall / Notfalldienst SADT
 
-Y/1/2401/36/487 30.06.2027
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2407/36/278 30.06.2027
 
-31.12.2028 31.12.2028
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-30.06.2027
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2401/36/487 31.12.2026
 
-31.12.2026
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Windows
-
-Windows
-
-Windows
-
-Windows
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1445,7 +1436,7 @@ Windows
 
 **NEXUS SWISSLAB GmbH** Sachsendamm 2-7 10829 Berlin Internet: [http://www.nexus-](http://www.nexus-) swisslab.de
 
-Seite 27 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+Seite 27 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System ohne APK
 
@@ -1509,37 +1500,33 @@ System mit APK
 
 System mit APK
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 Y/1/2407/36/083 Y/500/2407/36/083
 
-Y/200/2309/36/475
-
-Y/202/2607/36/609
-
-Y/500/2407/36/247 Y/1/2407/36/247 30.06.2027 30.06.2027
+Y/200/2309/36/475 30.06.2027 30.06.2027
 
 31.08.2026
-
-30.06.2029
-
-30.06.2027 30.06.2027
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
 
 Satzart: Überweisung
 
-Satzart: Ambulante Behandlung Satzart: Überweisung
-
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
 Windows
 
 Windows
 
-Windows
+Y/202/2607/36/609
 
-Windows
+Y/500/2407/36/247 Y/1/2407/36/247
+
+Satzart: Ambulante Behandlung 30.06.2029
+
+Windows Satzart: Überweisung
+
+SADT Satzart: Ambulante Behandlung 30.06.2027 Satzart: Überweisung
+
+Windows 30.06.2027 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1565,7 +1552,7 @@ Windows
 
 **RescuePro Production GmbH & Co.** **KG** Steinstraße 9 34385 Bad Karlshafen Internet: www.rescuepro.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1579,15 +1566,11 @@ Y/1/2607/36/348 Y/500/2607/36/348
 
 Y/1/2601/36/456
 
-Y/1/2507/36/626
-
-Y/500/2606/37/308 Y/1/2606/37/308 30.06.2029 30.06.2029
+Y/1/2507/36/626 30.06.2029 30.06.2029
 
 31.12.2028
 
 30.06.2028
-
-30.06.2029 30.06.2029
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
 
@@ -1595,15 +1578,17 @@ Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Beh
 
 Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
 Windows
 
 iOS/Android Linux Mac OS Sonstige Windows
 
 iOS/Android Linux Mac OS Sonstige Windows
 
-Windows
+Y/500/2606/37/308 Y/1/2606/37/308
+
+SADT Satzart: Ambulante Behandlung 30.06.2029 Satzart: Überweisung
+
+Windows 30.06.2029 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1631,7 +1616,7 @@ Windows
 
 Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1643,33 +1628,23 @@ System mit APK
 
 Y/500/2407/36/261 Y/1/2407/36/261 Y/2/2407/36/261
 
-Y/203/2607/36/343
-
-Y/1/2501/36/171
-
-Y/1/2502/36/230
-
-30.06.2027 30.06.2027 30.06.2027 30.06.2029
-
-31.12.2027
-
-31.01.2028
+30.06.2027 30.06.2027 30.06.2027
 
 SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst Kurärztliche Behandlung
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
 Sonstige Windows
 
-Sonstige Windows
+Satzart: Ambulante Behandlung Sonstige Y/203/2607/36/343 30.06.2029 Satzart: Überweisung
 
-Windows
+Windows Satzart: Notfall/ Notfalldienst
 
-Windows
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2501/36/171 31.12.2027
+
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Satzart: Ambulante Behandlung Satzart: Überweisung Y/1/2502/36/230 31.01.2028
+
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1695,7 +1670,7 @@ Windows
 
 **SysTek GmbH** Bad Meinberger Str. 1 32760 Detmold Internet: www.systek.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1707,31 +1682,25 @@ System ohne APK
 
 Y/1/2601/36/458 Y/500/2601/36/458
 
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2028 Satzart: Belegärztliche Behandlung 31.12.2028 Satzart: Notfall / Notfalldienst SADT
+
+Linux Windows
+
 Y/201/2601/36/770
 
 Y/1/2403/36/454
 
-Y/207/2501/36/818 31.12.2028 31.12.2028
+Linux Satzart: Überweisung 31.12.2028
 
-31.12.2028
-
-28.02.2027
-
-31.12.2027
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
-
-Satzart: Überweisung Satzart: Notfall/ Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Überweisung
-
-Linux Windows
-
-Linux Mac OS Windows
+Mac OS Satzart: Notfall/ Notfalldienst
 
 Windows
+
+Satzart: Ambulante Behandlung Satzart: Überweisung 28.02.2027
+
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+
+Y/207/2501/36/818 31.12.2027 Satzart: Überweisung
 
 Windows
 
@@ -1759,7 +1728,7 @@ Windows
 
 **Universitätsklinikum Freiburg AdöR** Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1771,33 +1740,27 @@ System mit APK
 
 Y/1/2501/36/498 Y/500/2501/36/498
 
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2027 Satzart: Belegärztliche Behandlung 31.12.2027 Satzart: Notfall / Notfalldienst SADT
+
+iOS/Android Linux Mac OS Windows
+
 Y/500/2601/36/313 Y/1/2601/36/313
 
 Y/1/2501/36/205
 
-Y/1/2501/36/551 31.12.2027 31.12.2027
+Y/1/2501/36/551
 
-31.12.2028 31.12.2028
+SADT Satzart: Ambulante Behandlung 31.12.2028 Satzart: Überweisung
 
-31.12.2027
+Windows 31.12.2028 Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-31.12.2027
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2027
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
+Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
-SADT Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Ambulante Behandlung Satzart: Überweisung
 
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
-
-iOS/Android Linux Mac OS Windows
-
-Windows
-
-Windows
-
-Linux Windows
+Linux 31.12.2027 Satzart: Belegärztliche Behandlung Windows Satzart: Notfall / Notfalldienst
 
 
 ---
@@ -1815,7 +1778,7 @@ Linux Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 11. Juli 2026
+/ KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung / 18. Juli 2026
 
 System mit APK
 
@@ -1823,14 +1786,10 @@ System mit APK
 
 Y/1/2601/36/457 Y/500/2601/36/457
 
-Y/1/2509/36/768 31.12.2028 31.12.2028
-
-31.08.2028
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst SADT
-
-Satzart: Ambulante Behandlung Satzart: Überweisung Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
+Satzart: Ambulante Behandlung Satzart: Überweisung 31.12.2028 Satzart: Belegärztliche Behandlung 31.12.2028 Satzart: Notfall / Notfalldienst SADT
 
 Mac OS
 
-Mac OS Windows
+Satzart: Ambulante Behandlung Satzart: Überweisung
+
+Mac OS Y/1/2509/36/768 31.08.2028 Satzart: Belegärztliche Behandlung Windows Satzart: Notfall / Notfalldienst

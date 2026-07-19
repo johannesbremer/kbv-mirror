@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Handbuch KBV-Prüfmodul* |
-|  | [KBV_ITA_AHEX_Handbuch_Pruefmodul |
+|  | [KBV_ITA_AHEX_Handbuch_Pruefmodul] |
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-XPM -Lewin-Platz 2 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In Kraft 
+XPM 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In Kraft 
 
 
 ---
@@ -283,7 +283,9 @@ Langsamere Prozessoren und wenig Hauptspeicher erhöhen stark die Laufzeit des P
 
 Im Installationsverzeichnis befinden sich Batchdateien bzw. Shellskripte, die das KBV-Prüfmodul mit unterschiedlichen Optionen bzw. Konfigurationsdateien ausführen.
 
-Die Verzeichnisstruktur des KBV-bau: Prüfmoduls hat folgenden Auf
+Die Verzeichnisstruktur des KBV-bau:
+
+Prüfmoduls hat folgenden Auf
 
 ## 2.1 Ordner 'Bin'
 
@@ -305,13 +307,17 @@ In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfigu
 
 ## 2.4 Ordner 'Geprueft/Abgelehnt'
 
-Dieser Ordner dient als Ablage für **nicht** korrekt geprüfte Dateien. Dieser Ordner kann bei  einigen Prüfprojekten entfallen.
+Dieser Ordner dient als Ablage für  einigen Prüfprojekten entfallen.
 
 In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfiguriert  worden sein.
 
+**nicht** korrekt geprüfte Dateien. Dieser Ordner kann bei
+
 ## 2.5 Ordner 'Geprueft/NichtAbgelehnt'
 
-Dieser Ordner dient als Ablage für korrekt geprüfte Dateien. Dieser Ordner kann bei einigen  Prüfprojekten entfallen.
+Dieser Ordner dient als Ablage für korrekt geprüfte Dateien. Dieser Ordner kann bei einigen
+
+Prüfprojekten entfallen.
 
 In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfiguriert  worden sein.
 
@@ -704,22 +710,21 @@ Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden
 
 | Übergabeparameter | Beschreibung |
 |---|---|
-| -c | Das Prüfmodul braucht für die Prüfung die Pfadangabe einer XML Hinter dieser Option muss die Pfadangabe stehen. |
+| -c | Das Prüfmodul braucht für die Prüfung die Pfadangabe einer XML- Hinter dieser Option muss die Pfadangabe stehen. |
 | -e | Das Prüfmodul wird im Einzellaufmodus gestartet. XPM verarbeitet alle Dateien |
 | -f | Hinter dieser Option sollte die Pfadangabe einer Prüfdatei stehen, die vom |
 | -h | Das Prüfmodul gibt einen Hilfetext aus und beendet sich anschließend. |
 | -m | Das Prüfmodul verschiebt bereits geprüfte Dateien bzw. Zip-Archive in entspre- |
 | -p | Alle Konfigurationsmöglichkeiten der Konfigurationsdatei, können nun über die- |
 | -s | Das Prüfmodul wird im s.g. Servermodus gestartet. XPM verarbeitet im 30 Se- |
-| -v | Das Prüfmodul gibt die Versionsnummer des XPM |
-| -z | Hinter dieser Option sollte die Pfadangabe einer Zip |
-
-Um eine Prüfung durchzuführen muss einer der Schalter –f, -–
+| -v | Das Prüfmodul gibt die Versionsnummer des XPM-Kernels aus und beendet |
+| -z | Hinter dieser Option sollte die Pfadangabe einer Zip-Datei stehen, die vom |
 
 **Tabelle 2: Übergabeparameter**
 
-Konfigurationsdatei. eines Eingangsverzeichnisses und beendet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist optional. Prüfmodul bearbeitet wird. Dieser Übergabeparameter ist optional. chende Verzeichnisse, die in der Konfigurationsdatei eingestellt werden. Dieser Übergabeparameter ist optional. sen Übergabeparameter gesetzt werden. Die Zuweisung erfolgt in der Form ’Schalter[@Attribut]=Wert’. Schalter ist ein beliebiger Schalter der Konfigurati- onsdatei. Soll nur das Attribut eines Schalters gesetzt werden so muss der Na- me des Attributes hinter dem @-Zeichen angegeben werden. Die Wert selbst wird hinter dem Gleichheitszeichen angegeben. Dieser Parameter kann mehr- fach übergeben werden, um diverse Einstellungen vorzunehmen. Bitte beachten Sie, dass die hier übergebenen Parameter die Einstellungen der Konfigurati datei überschreiben. Schauen Sie sich zum besseren Verständnis das Beispiel 4 an. Dieser Übergabeparameter ist optional. kunden-Takt Dateien eines Eingangsverzeichnisses. Der grammlaufs kann über CTRL-C erfolgen. Dieser Übergabeparameter ist optio- nal. sich anschließend. Wird außer diesem Übergabeparameter auch noch die Kon- figurationsdatei (Übergabeparameter -c) angegeben, so wird zusätzlich die Ver- sionsnummer des Prüfpaketes ausgegeben. Prüfmodul bearbeitet wird. Der Inhalt des Zip -Archivs darf nur Prüfdateien ent- halten. Dieser Übergabeparameter ist optional. ons- Abbruch des Pro- -Kernels aus und beendet -Datei stehen, die vom z bzw. s angegeben werden.
+Um eine Prüfung durchzuführen muss einer der Schalter –f, -–z bzw. s angegeben werden.
 
+Konfigurationsdatei. eines Eingangsverzeichnisses und beendet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist optional. Prüfmodul bearbeitet wird. Dieser Übergabeparameter ist optional. chende Verzeichnisse, die in der Konfigurationsdatei eingestellt werden. Dieser Übergabeparameter ist optional. sen Übergabeparameter gesetzt werden. Die Zuweisung erfolgt in der Form ’Schalter[@Attribut]=Wert’. Schalter ist ein beliebiger Schalter der Konfigurati- onsdatei. Soll nur das Attribut eines Schalters gesetzt werden so muss der Na- me des Attributes hinter dem @-Zeichen angegeben werden. Die Wert selbst wird hinter dem Gleichheitszeichen angegeben. Dieser Parameter kann mehr- fach übergeben werden, um diverse Einstellungen vorzunehmen. Bitte beachten Sie, dass die hier übergebenen Parameter die Einstellungen der Konfigurations- datei überschreiben. Schauen Sie sich zum besseren Verständnis das Beispiel 4 an. Dieser Übergabeparameter ist optional. kunden-Takt Dateien eines Eingangsverzeichnisses. Der Abbruch des Pro- grammlaufs kann über CTRL-C erfolgen. Dieser Übergabeparameter ist optio- nal. sich anschließend. Wird außer diesem Übergabeparameter auch noch die Kon- figurationsdatei (Übergabeparameter -c) angegeben, so wird zusätzlich die Ver- sionsnummer des Prüfpaketes ausgegeben. Prüfmodul bearbeitet wird. Der Inhalt des Zip-Archivs darf nur Prüfdateien ent- halten. Dieser Übergabeparameter ist optional.
 
 ---
 
@@ -806,7 +811,7 @@ Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf e
 |---|---|
 | -q <Dateiname> | Der Dateiname der zu konvertierenden Datei bzw. Verzeichnisname. |
 | -z <Dateiname> | Der Dateiname der umgewandelten Datei bzw. Verzeichnisname. |
-| -s <Zeichensatz> | Der Zeichensatz in den konvertiert werden soll. Mögliche Werte:  7Bit  IBM  ISO-8859-1  ISO-8859-15 |
+| -s <Zeichensatz> | Der Zeichensatz in den konvertiert werden soll.  Mögliche Werte:  7Bit  IBM  ISO-8859-1  ISO-8859-15 |
 | **4 Zusatzprogramme  4.1 Zeichensatzkonverter** | Hier ein Beispiel für einen Aufruf: java -Xmx300m |
 |  | -classpath "Bin/xpm-core-4.2.15.jar" |
 |  |  |
@@ -826,9 +831,9 @@ Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünsc
 | -b | Die konvertierte Datei wird unter dem Namen der Ursprungsdatei abgelegt. |
 | -h | Ausgabe eines Hilfetextes. |
 | -l | Die Ursprungsdatei wird nach der Verarbeitung gelöscht. Dieser Übergabepa- |
-| -t | Eingangsdateien sind beliebige Textdateien, kein xDT |
+| -t | Eingangsdateien sind beliebige Textdateien, kein xDT-Format |
 
-Dieser Parameter wird nur dann berücksichtigt, wenn die Aktion nicht der Da- teinamenskonvention widerspricht. Dateien mit Dateinamen, die mit dem Zei- chen A, S oder X beginnen, können nicht unter Ihrem Ursprungsnamen abge- legt werden, da dies der Dateinamenskonvention widerspricht beparameter ist optional. rameter ist optional. . Dieser Überga- -Format **Tabelle 3: Übergabeparameter**
+Dieser Parameter wird nur dann berücksichtigt, wenn die Aktion nicht der Da- teinamenskonvention widerspricht. Dateien mit Dateinamen, die mit dem Zei- chen A, S oder X beginnen, können nicht unter Ihrem Ursprungsnamen abge- legt werden, da dies der Dateinamenskonvention widerspricht. Dieser Überga- beparameter ist optional. rameter ist optional. **Tabelle 3: Übergabeparameter**
 
 
 ---
@@ -853,17 +858,24 @@ Der Befehl ‘java’ startet die virtuelle Maschine von Java.
 
 Der Parameter ‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher von  bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf bei Ab-rechnungsdateien in der Größenordnung bis ca. 300 MB.
 
-Der Parameter ‘-Dfile.encoding=8859_1’ stellt den entsprechenden Zeichensatz ein  und ermöglicht hier die Verwendung von deutschen Umlauten.
+Der Parameter ‘-Dfile.encoding=8859_1’ und ermöglicht hier die Verwendung von deutschen Umlauten.
 
-Der Parameter ‘-classpath "Bin/xpm-dmp-dm2-2022.2.0.jar;..."’ stellt alle Ja-va- Archive zusammen, die für den Programmablauf benötigt werden.
+Der Parameter ‘-classpath "Bin/xpm-dmp-dm2-2022.2.0.jar;..."’ va- Archive zusammen, die für den Programmablauf benötigt werden.
 
-Der Parameter ‘de.kbv.xpm.modul.dmp.dm2.StartGUI’ ist der Name einer Klasse,  die das XPM startet.
+Der Parameter ‘de.kbv.xpm.modul.dmp.dm2.StartGUI’  die das XPM startet.
 
 Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter, die an das Prüfpro-gramm übergeben werden.
 
 ## 5.2 Starten des Prüfmoduls aus einem Java-Programm
 
 Das KBV--Prüfmodul ist eine Java Applikation und kann von einem anderem Java-Programm  aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse  *de.kbv.xpm.core.extern.XPMEinstieg* implementiert. Diese Klasse ist im Java-Archiv pruefmo-dul.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu die Methode ‘main’ etwas ge-nauer an.
+
+stellt den entsprechenden Zeichensatz ein
+
+stellt alle Ja-
+
+ist der Name einer Klasse,
+
 
 ---
 

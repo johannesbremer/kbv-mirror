@@ -1,13 +1,3 @@
-**TECHNISCHE ANLAGE ZUR**
-
-**ELEKTRONISC HEN**
-
-**ARZNEIMITTELVERORDNUNG (E16A**
-
-[KBV_ITA_VGEX_TECHNISCHE_ANLAGE_
-
-## ERP]
-
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
@@ -18,6 +8,9 @@
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
+# TECHNISCHE ANLAGE ZUR  ELEKTRONISCHEN  ARZNEIMITTELVERORDNUNG (E16A)
+
+## [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP]
 
 ---
 
@@ -83,18 +76,18 @@ Tabelle 1: KBV_PR_ERP_Bundle  Tabelle 2: KBV_PR_ERP_Composition  Tabelle 3: KBV_
 ---
 
 \| Version | Datum | Autor | Änderung | Begründung | Seite |
-\| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70 | Version | Datum | Autor |
-| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70 | Version | Datum | Autor |
+\| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70, 1.71, 1.72 sowie 1.73 sind gelb markiert sowie die Änderungen der | Version | Datum | Autor |
+| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70, 1.71, 1.72 sowie 1.73 sind gelb markiert sowie die Änderungen der | Version | Datum | Autor |
 |---|---|---|---|---|---|
 | 1.74 | 16.06.2026 | KBV | Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung derVersion des | Bugfix-Release des | 56  67    10, 12,  15, 18  106 |
-| 1.73 | 15.04.2026 | KBV | Anpassung der Übergangsregelung Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des | 18  58, 60,  62, 63  19, 106  10, 12,  18, 106 |
+| 1.73 | 15.04.2026 | KBV | Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des | 18  58, 60,  62, 63  19, 106  10, 12,  18, 106 |
 | 1.72 | 09.02.2026 | KBV | Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des | Bereitstellung eines          eVerordnungs- | 10, 12,   18  85    52, 52,  53, 53,  54, 55,  56, 58,  60, 62,  63, 66,  67, 106 |
 | **Änderung** | **Begründung** | **Seite** | 1.74  16.06.2026  KBV  Klarstellung der Vorgaben in P6- | Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung derVersion des |  |
 |  |  | Bugfix-Release des | 56  67 | 10, | 12,  15, |
-| 18 |  | 106 | 1.73  15.04.2026  KBV  Anpassung der Übergangsregelung Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des  18  58, 60,  62, 63  19, 106  10, 12, | 18, 106  1.72  09.02.2026  KBV  Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des  Bereitstellung eines |
-| **Änderung** | **Begründung** | **Seite** | 1.74  16.06.2026  KBV  Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32 | Aktualisierung der  Aktualisierung derVersion des | Bugfix-Release des  56  67    10, 12,  15, 18  106  1.73  15.04.2026  KBV  Anpassung der Übergangsregelung Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der |
+| 18 |  | 106 | 1.73  15.04.2026  KBV  Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des  18  58, 60,  62, 63  19, 106  10, 12, | 18, 106  1.72  09.02.2026  KBV  Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des  Bereitstellung eines |
+| **Änderung** | **Begründung** | **Seite** | 1.74  16.06.2026  KBV  Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32 | Aktualisierung der  Aktualisierung derVersion des | Bugfix-Release des  56  67    10, 12,  15, 18  106  1.73  15.04.2026  KBV  Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der |
 
-, 1.71, 1.72 sowie 1.73 sind gelb markiert sowie die Änderungen der Version 1.74 grün markiert. Die Änderungen der genannten Versionen treten zum 01.07.2026 in Kraft.  243 Versionsnummer der FHIR-Profile Medication IG Medication IG Patientenausdruck Referenzimplementierung zur Erzeugung eines menschenlesbaren Dosierungstextes Medication IG DE eRezept-Profile Versionsnummer der FHIR-Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Abrechnungsnummer (Feld 61c) Patientenausdruckes  übergreifende Vereinheitlichungen
+Version 1.74 grün markiert. Die Änderungen der genannten Versionen treten zum 01.07.2026 in Kraft.  243 Versionsnummer der FHIR-Profile Medication IG Medication IG Patientenausdruck Referenzimplementierung zur Erzeugung eines menschenlesbaren Dosierungstextes Medication IG DE eRezept-Profile Versionsnummer der FHIR-Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Abrechnungsnummer (Feld 61c) Patientenausdruckes  übergreifende Vereinheitlichungen
 
 ---
 
@@ -134,11 +127,11 @@ Version 1.4.0 Änderungen Funktionsumfangs des Betäubungsmitteln (BtM) und T- E
 
 Der Gesetzgeber hat im Zuge des „Gesetzes für mehr Sicherheit in der Arzneimittelversorgung“ im Rahmen  des §86 SGB V festgelegt, dass ärztliche Verordnungen für apothekenpflichtige Arzneimittel und sonstige in  die Arzneimittelversorgung einbezogene Produkte in elektronischer Form zu ermöglichen sind und die  Vertragspartner der Bundesmantelverträge-Ärzte (BMV-Ä) hierfür entsprechende Regelungen zu treffen  haben. Mit dem „Digitale-Versorgung-Gesetz“ wurde der Kreis der auch digital verordnungsfähigen  Produkte und Leistungen stufenweise erweitert. Die generellen Vorgaben hierzu sind in der Anlage 2b  BMV-Ä [Anlage 2b ] enthalten.
 
-Um einen möglichst einheitlichen Prozess in den Arztpraxen zu ermöglichen, wird in der Technischen  Anlage eRezept die elektronische Verordnung in möglichst vielen Varianten unterstützt
+Um einen möglichst einheitlichen Prozess in den Arztpraxen zu ermöglichen, wird in der Technischen  Anlage eRezept die elektronische Verordnung in möglichst vielen Varianten unterstützt:
 
 - Elektronische Verordnungen von Arzneimitteln für PKV-Versicherte sind mit den hier definierten FHIR-Profilen möglich. Ob diese Anwendung finden, regelt der PKV-Verband.
 - Elektronische Verordnungen von Arzneimitteln zu Lasten der Berufsgenossenschaften / Unfallkassen  sind mit den hier definierten FHIR-Profilen ebenfalls möglich. Laut Vertrag gemäß § 34 Absatz 3 SGB VII  über die Durchführung der Heilbehandlung, die Vergütung der Ärzte sowie die Art und Weise der  Abrechnungen ärztlicher Leistungen ist die Ausstellung von eRezepten zulässig und kann somit  ermöglicht werden.
-- Elektronische Verordnungen von Arzneimitteln zu Lasten von Sonstigen Kostenträgern (SKT) sind mit  den hier definierten FHIR-Profilen möglich. Ob diese Anwendung finden, regeln die Verträge mit den  Sonstigen Kostenträgern. Die Übermittlung dieser Verordnungen über den Fachdienst der gematik ist  möglich, sofern der SKT elektronische Gesundheitskarten (eGK) für seine Versicherten ausgegeben hat  und entsprechend eine Versicherten-ID übertragen werden kann
+- Elektronische Verordnungen von Arzneimitteln zu Lasten von Sonstigen Kostenträgern (SKT) sind mit  den hier definierten FHIR-Profilen möglich. Ob diese Anwendung finden, regeln die Verträge mit den  Sonstigen Kostenträgern. Die Übermittlung dieser Verordnungen über den Fachdienst der gematik ist  möglich, sofern der SKT elektronische Gesundheitskarten (eGK) für seine Versicherten ausgegeben hat  und entsprechend eine Versicherten-ID übertragen werden kann.
 - Elektronische Verordnungen von Sprechstundenbedarf / Praxisbedarf sind mit den hier definierten FHIR-Profilen möglich. Aktuell ist die Übermittlung dieser Verordnungen über den Fachdienst der gematik  ausgeschlossen.
 - Elektronische Verordnungen von Betäubungsmitteln (BtM) und teratogenen Arzneimitteln (T-Rezepte)  sind mit den hier definierten FHIR-Profilen möglich.
 
@@ -157,33 +150,25 @@ Dieses Dokument enthält Inhalte, die nicht in der Regelungshoheit der Partner d
 
 # 2 ÜBERBLICK
 
-Die auszutauschenden Daten zwischen den beteiligten Systemen  definiert.
+Die auszutauschenden Daten zwischen den beteiligten Systemen sind auf Basis des HL7 FHIR® R4 Standards  definiert.
 
-- Die hierfür erforderlichen FHIR®-Definitionen sind in Kapitel
-- Das Kapitel 4 enthält die Anforderungen an die Visualisierung und die Signatur
-- Die Anforderungen an die Übertragung de
-- In Kapitel 6 sind weitere Vorgaben für Praxisverwaltungssysteme
-- Die zu übertragenden Inhalte sowie das Mapping auf die einzelnen FHIR® Kapitel 7 beschrieben.
-
-sind auf Basis des HL7 FHIR® R4 Standards
-
-- 3 festgelegt.
-- s ERP werden in Kapitel 5 genannt.
-- (PVS) beschrieben.
-- -Ressourcen werden in
-
+- Die hierfür erforderlichen FHIR®-Definitionen sind in Kapitel 3 festgelegt.
+- Das Kapitel 4 enthält die Anforderungen an die Visualisierung und die Signatur.
+- Die Anforderungen an die Übertragung des ERP werden in Kapitel 5 genannt.
+- In Kapitel 6 sind weitere Vorgaben für Praxisverwaltungssysteme (PVS) beschrieben.
+- Die zu übertragenden Inhalte sowie das Mapping auf die einzelnen FHIR®-Ressourcen werden in  Kapitel 7 beschrieben.
 
 ---
 
 # 3 FHIR®-DEFINITIONEN
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der elektronischen  Arzneimittelverordnung wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Profile erstellt,  welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind. Folglich  müssen diese Profile mit den deutschen Basis-Profilen und den KBV-Basisprofilen verwendet werden. Die  FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente finden  [sich unter:](http://hl7.org/fhir/R4/)[http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/)[. Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses](http://hl7.org/fhir/R4/) [Dokuments. Die Elemente dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften](http://hl7.org/fhir/R4/) sind den FHIR®-XML-Definitionsdateien zu entnehmen HL7-Basis-Profile
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Für den Anwendungszweck der elektronischen  Arzneimittelverordnung wurden von den Partnern des Bundesmantelvertrag-Ärzte FHIR®-Profile erstellt,  welche zum Teil von den deutschen Basis-Profilen und den KBV-Basisprofilen abgeleitet sind. Folglich  müssen diese Profile mit den deutschen Basis-Profilen und den KBV-Basisprofilen verwendet werden. Die  FHIR®-Ressourcen und eine Zusammenstellung der in der FHIR®-Notation spezifizierten Elemente finden  [sich unter:](http://hl7.org/fhir/R4/)[http://hl7.org/fhir/R4/](http://hl7.org/fhir/R4/)[. Die deutschen FHIR®-Basisprofile sind nicht Gegenstand dieses](http://hl7.org/fhir/R4/) [Dokuments. Die Elemente dieser Profile sowie deren Kardinalitäten, Datentypen und weitere Eigenschaften](http://hl7.org/fhir/R4/) sind den FHIR®-XML-Definitionsdateien zu entnehmen [HL7-Basis-Profile
 
 [Sie finden die Profile unter:](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)[https://update.kbv.de/ita-update/DigitaleMuster/ERP/](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)[sowie auf der Webseite](https://update.kbv.de/ita-update/DigitaleMuster/ERP/) [Simplifier unter](https://simplifier.net/erezept)[https://simplifier.net/erezept](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)
 
-[In den definierten FHIR®-Profilen für das ERP kommen CodeSysteme und ValueSet](https://simplifier.net/erezept)s zur Anwendung, welche  nicht im Rahmen des ERP definiert und gepflegt werden. Diese CodeSysteme und ValueSets müssen immer  in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versionsänderung der  ERP-Profile bedarf. Die von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind  [abrufbar unter](https://simplifier.net/kbvschluesseltabellen)[https://simplifier.net/kbvschluesseltabellen](https://simplifier.net/kbvschluesseltabellen)
+[In den definierten FHIR®-Profilen für das ERP kommen CodeSysteme und ValueSets zur Anwendung, welche](https://simplifier.net/erezept) nicht im Rahmen des ERP definiert und gepflegt werden. Diese CodeSysteme und ValueSets müssen immer  in der jeweils aktuellen und gültigen Fassung eingesetzt werden, ohne dass es einer Versionsänderung der  ERP-Profile bedarf. Die von der KBV verantworten übergreifenden CodeSysteme und ValueSets sind  [abrufbar unter](https://simplifier.net/kbvschluesseltabellen)[https://simplifier.net/kbvschluesseltabellen](https://simplifier.net/kbvschluesseltabellen)
 
-[Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen](https://simplifier.net/kbvschluesseltabellen)der FHIR®-Profile des ERP und  somit zu einer neuen Version der FHIR®-Profile führen, dann wird das Inkrafttreten dieser Änderung  Stichtagsregelung oder Übergangsregelung - im Rahmen der Veröffentlichung definiert.
+[Sollte eine Weiterentwicklung dieser Technischen Anlage zu Änderungen der FHIR®-Profile des ERP und](https://simplifier.net/kbvschluesseltabellen) somit zu einer neuen Version der FHIR®-Profile führen, dann wird das Inkrafttreten dieser Änderung - Stichtagsregelung oder Übergangsregelung - im Rahmen der Veröffentlichung definiert.
 
 Die Angabe der Profilversion im Element StructureDefinition.version erfolgt gemäß der FHIR-Versionierung  basierend auf der Semantic-Versioning Syntax bestehend aus einer Major-Version, einer Minor-Version und  einer Patch-Version: [MAJOR].[MINOR].[PATCH] (z.B. „1.2.0“) FHIR Releases and Versioning). Das  Referenzieren der Profil-Version im eRP-FHIR-Projekt erfolgt ohne Angabe der Patch-Version (z.B. „1.2“).  Somit wird die in den E-Rezept-Instanzen referenzierte Profil-Version ohne Patch-Version angegeben.  Durch das Weglassen der Patch-Version muss bei Versionserhöhungen aufgrund von kompatiblen  Änderungen die Implementierung der Erstellung der FHIR-Instanzen nicht angepasst werden, sofern die  Erstellung bereits korrekt umgesetzt ist. Gleichzeitig ist die Nachvollziehbarkeit der Versionsnummer  gegeben.
 
@@ -212,81 +197,81 @@ Bedeutung:
 
 | KBV_PR_ERP_PRESCRIPTION |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Prescription |
 | **Beispiel:  ** › |  |
 | › | URL: |
 | https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient | › |
 
 ## 3.2
 
-Die übergreifenden Profile, welche für alle elektronischen Verordnung haben, sind im Technischen Handbuch Digitale Vordrucke [ als FHIR®-
+Die übergreifenden Profile, welche für alle elektronischen Verordnungen als FHIR®-Ressourcen Gültigkeit  haben, sind im Technischen Handbuch Digitale Vordrucke [ als FHIR®-
 
-Für die elektronische Arzneimittelverordnung sind die folgenden  enthaltenen Extensions, CodeSystems, ValueSets und NamingSystems) der Version 1.3.1 zu verwenden:
+Für die elektronische Arzneimittelverordnung sind die folgenden formularübergreifenden Profile (inkl. der  enthaltenen Extensions, CodeSystems, ValueSets und NamingSystems) der Version 1.3.1 zu verwenden:
 
 ## 3.3
 
-Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbildung de Diese Profile geben Auskunft darüber, wie die Elemente mit welchen Erweiterungen sowie  Einschränkungen zu verwenden sind, um die jeweilige Verordnungssituation abzubilden der Profile erfolgt durch die Angabe einer kanonischen URL.
+Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbildung des ERP notwendig sind.  Diese Profile geben Auskunft darüber, wie die Elemente mit welchen Erweiterungen sowie  Einschränkungen zu verwenden sind, um die jeweilige Verordnungssituation abzubilden. Die Identifikation  der Profile erfolgt durch die Angabe einer kanonischen URL.
 
 | KBV_PR_ERP_BUNDLE |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Bundle |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
-| Definition | Bundle zur Definition der gesamthaften Inhalte des |
+| Definition | Bundle zur Definition der gesamthaften Inhalte des ERP-Dokuments |
 | Version | 1.4.2 1.4.3 |
-| Hinweis | Beinhaltet die Abbildung aller Instanzen der benötigten Profile für die |
+| Hinweis | Beinhaltet die Abbildung aller Instanzen der benötigten Profile für die ERP-Inhalte |
 
 **Tabelle 1: KBV_PR_ERP_Bundle**
 
 | KBV_PR_ERP_COMPOSITION |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Composition |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
 | Definition | Klammerung der fachlichen Daten für das ERP |
 | Version | 1.4.2 1.4.3 |
 
-_ERP_Bundle  ERP-Dokuments ERP-Inhalte _ERP_Composition Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifend Patienten informationen FORMULARÜBERGREIFENDE PROFILE en als FHIR®-Ressourcen Gültigkeit KBV_ITA_VGEX_Technisches_Handbuch_DiMus Profile im Kapitel 4.2 „Übergreifende Regelungen für die Muster“ beschrieben formularübergreifenden Profile (inkl. der KBV_PR_FOR_Patient gemäß P4-05 KBV_PR_FOR_Coverage gemäß P4 04 KBV_PR_FOR_Practitioner gemäß P4 01 KBV_PR_FOR_PractitionerRole gemäß P4 02 KBV_PR_FOR_Organization gemäß P4 03 SPEZIFISCHE ERP-PROFILE s ERP notwendig sind. . Die Identifikation KBV_PR_ERP_Prescription**Tabelle 2: KBV_PR_ERP_Composition**
+Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifend Patienten informationen FORMULARÜBERGREIFENDE PROFILE KBV_ITA_VGEX_Technisches_Handbuch_DiMus Profile im Kapitel 4.2 „Übergreifende Regelungen für die Muster“ beschrieben KBV_PR_FOR_Patient gemäß P4-05 KBV_PR_FOR_Coverage gemäß P4 04 KBV_PR_FOR_Practitioner gemäß P4 01 KBV_PR_FOR_PractitionerRole gemäß P4 02 KBV_PR_FOR_Organization gemäß P4 03 SPEZIFISCHE ERP-PROFILE **Tabelle 2: KBV_PR_ERP_Composition**
 
 
 ---
 
-| https://fhir.kbv.de/StructureDefinition/ |  |
+| https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_FreeText |  |
 |---|---|
 |  |  |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/MedicationRequest |
-| Definition | Darstellung der spezifischen Informationen einer Arzneimittelverordnung |
+| Definition | Darstellung der spezifischen Informationen einer Arzneimittelverordnung neben |
 | Version | 1.4.2 1.4.3 |
 
 | KBV_PR_ERP_MEDICATION_FREETEXT |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_FreeText |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/MedicationRequest |
-| Definition  Darstellung der spezifischen Informationen einer Arzneimittelverordnung |  |
+| Definition  Darstellung der spezifischen Informationen einer Arzneimittelverordnung neben |  |
 | Version | 1.4.2 1.4.3 **Tabelle 3: KBV_PR_ERP_Prescription** |
 
-den Rezeptierdaten  neben KBV_PR_ERP_PRACTICESUPPLY Kanonische URL KBV_PR_ERP_PracticeSupply http://hl7.org/fhir/StructureDefinition/SupplyRequest Darstellung der spezifischen Informationen einer Verordnung für Sprechstundenbedarf / Praxisbedarf neben den Rezeptierdaten KBV_PR_ERP_MEDICATION_PZN Kanonische URL KBV_PR_ERP_Medication_PZN Rezeptierdaten für eine Verordnung von in den Preis - und Produktverzeichnissen nach § 131 SGB V gelisteten Produkten KBV_PR_ERP_MEDICATION_INGREDIENT Kanonische URL KBV_PR_ERP_Medication_Ingredient Rezeptierdaten Wirkstoffverordnung KBV_PR_ERP_MEDICATION_COMPOUNDING Kanonische URL KBV_PR_ERP_Medication_Compounding Rezeptierdaten Rezeptur KBV_PR_ERP_Medication_Compounding KBV_PR_ERP_MEDICATION_FREETEXT Kanonische URL KBV_PR_ERP_Medication_FreeText Tabelle 4: KBV_PR_ERP_PracticeSupply Tabelle 5: KBV_PR_ERP_Medication_PZN Tabelle 6: KBV_PR_ERP_Medication_Ingredient | KBV_PR_ERP_PRACTICESUPPLY |  |
+den Rezeptierdaten KBV_PR_ERP_PRACTICESUPPLY Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_PracticeSupply http://hl7.org/fhir/StructureDefinition/SupplyRequest Darstellung der spezifischen Informationen einer Verordnung für Sprechstundenbedarf / Praxisbedarf neben den Rezeptierdaten KBV_PR_ERP_MEDICATION_PZN Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_PZN Rezeptierdaten für eine Verordnung von in den Preis- und Produktverzeichnissen nach § 131 SGB V gelisteten Produkten KBV_PR_ERP_MEDICATION_INGREDIENT Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Ingredient Rezeptierdaten Wirkstoffverordnung KBV_PR_ERP_MEDICATION_COMPOUNDING Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Compounding Rezeptierdaten Rezeptur KBV_PR_ERP_Medication_Compounding KBV_PR_ERP_MEDICATION_FREETEXT Kanonische URL Tabelle 4: KBV_PR_ERP_PracticeSupply Tabelle 5: KBV_PR_ERP_Medication_PZN Tabelle 6: KBV_PR_ERP_Medication_Ingredient | KBV_PR_ERP_PRACTICESUPPLY |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_PracticeSupply |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/SupplyRequest |
 | Definition | Darstellung der spezifischen Informationen einer Verordnung für |
 | Version | 1.4.2 1.4.3 |
 
 | KBV_PR_ERP_MEDICATION_PZN |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_PZN |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/Medication |
-| Definition | Rezeptierdaten für eine Verordnung von in den Preis |
+| Definition | Rezeptierdaten für eine Verordnung von in den Preis- und Produktverzeichnissen |
 | Version | 1.4.2 1.4.3 |
 
 | KBV_PR_ERP_MEDICATION_INGREDIENT |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Ingredient |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/Medication |
 | Definition | Rezeptierdaten Wirkstoffverordnung |
 | Version | 1.4.2 1.4.3 |
 
 | KBV_PR_ERP_MEDICATION_COMPOUNDING |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Compounding |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/Medication |
 | Definition | Rezeptierdaten Rezeptur |
 | Version | 1.4.2 1.4.3 |
@@ -309,7 +294,7 @@ Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Resso
 
 | KBV_EX_ERP_EMERGENCYSERVICESFEE |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_EmergencyServicesFee |
 | Definition | Kennzeichnung, ob diese Verordnung auch während der allgemeinen |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | MedicationRequest |
@@ -318,7 +303,7 @@ Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Resso
 
 | KBV_EX_ERP_DOSAGEFLAG |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_DosageFlag |
 | Definition | Kennzeichnung, ob eine Dosierung in der Verordnung angegeben ist |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | MedicationRequest.dosageInstruction |
@@ -327,19 +312,19 @@ Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Resso
 
 | KBV_EX_ERP_PRACTICESUPPLY_PAYOR |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_PracticeSupply_Payor |
 | Definition | Abbildung der Informationen über den zuständigen Kostenträger für die Verordnung |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | SupplyRequest |
 
-KBV_EX_ERP_EmergencyServicesFee Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdienstgebühr („noctu“) zu Lasten der Krankenkasse gemäß Arzneimittelpreisverordnung Ressource KBV_EX_ERP_DosageFlag Ressource KBV_EX_ERP_PracticeSupply_Payor des Sprechstundenbedarfs / Praxisbedarfs Ressource **Tabelle 11 KBV_EX_ERP_PracticeSupply_Payor**
+Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdienstgebühr („noctu“) zu Lasten der Krankenkasse gemäß Arzneimittelpreisverordnung Ressource Ressource des Sprechstundenbedarfs / Praxisbedarfs Ressource **Tabelle 11 KBV_EX_ERP_PracticeSupply_Payor**
 
 
 ---
 
 | KBV_EX_ERP_MEDICATION_VACCINE |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Vaccine |
 | Definition | Kennzeichnung einer Verordnung als Impfstoff |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | Medication  (KBV_PR_ERP_Medication_PZN,         KBV_PR_ERP_Medication_Ingredient,  KBV_PR_ERP_Medication_Compounding,    KBV_PR_ERP_Medication_FreeText) |
@@ -348,14 +333,14 @@ KBV_EX_ERP_EmergencyServicesFee Ladenschlusszeiten beliefert werden soll, verbun
 
 | KBV_EX_ERP_MEDICATION_INGREDIENT_FORM |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
-| Definition | Abbildung der Darreichungsform eines Bestandteils einer Rezeptur |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Ingredient_Form |
+| Definition | Abbildung der Darreichungsform eines Bestandteils einer Rezeptur als Freitext |
 | Version | 1.4.2 1.4.3 |
-| **KBV_EX_ERP_MEDICATION_VACCINE** | Kanonische URL  https://fhir.kbv.de/StructureDefinition/ |
+| **KBV_EX_ERP_MEDICATION_VACCINE** | Kanonische URL  https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Vaccine |
 
 | KBV_EX_ERP_MEDICATION_CATEGORY |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Category |
 | Definition | Kennzeichnung der Kategorie einer Verordnung |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | Medication  (KBV_PR_ERP_Medication_PZN,         KBV_PR_ERP_Medication_Ingredient,  KBV_PR_ERP_Medication_Compounding,    KBV_PR_ERP_Medication_FreeText) |
@@ -365,7 +350,7 @@ KBV_EX_ERP_EmergencyServicesFee Ladenschlusszeiten beliefert werden soll, verbun
 
 | KBV_EX_ERP_MEDICATION_PACKAGING |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Packaging |
 | Definition | Abbildung der Information zur Verpackung einer Rezeptur |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | Medication   (KBV_PR_ERP_Medication_Compounding) |
@@ -375,11 +360,11 @@ KBV_EX_ERP_EmergencyServicesFee Ladenschlusszeiten beliefert werden soll, verbun
 | KBV_EX_ERP_MEDICATION_COMPOUNDINGINSTRUCTION |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_CompoundingInst |
-| Definition | Anweisung bzgl. der Herstellung eine |
+| Definition | Anweisung bzgl. der Herstellung einer Rezeptur (Subscriptio) |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | Medication   (KBV_PR_ERP_Medication_Compounding) |
 
-Ressource KBV_EX_ERP_Medication_Vaccine Ressource KBV_EX_ERP_Medication_Category hat die Kategorie immer den Wert „00“. Ressource KBV_EX_ERP_Medication_Packaging Ressource ruction r Rezeptur (Subscriptio) 12 KBV_EX_ERP_Medication_Vaccine 13 KBV_EX_ERP_Medication_Category 14 KBV_EX_ERP_Medication_Packaging 15 KBV_EX_ERP_Medication_CompoundingInstruction KBV_EX_ERP_Medication_Ingredient_Form  als Freitext **Tabelle**
+Ressource Ressource hat die Kategorie immer den Wert „00“. Ressource Ressource ruction 12 13 KBV_EX_ERP_Medication_Category 14 KBV_EX_ERP_Medication_Packaging 15 KBV_EX_ERP_Medication_CompoundingInstruction**Tabelle**
 
 
 ---
@@ -396,12 +381,12 @@ Ressource KBV_EX_ERP_Medication_Vaccine Ressource KBV_EX_ERP_Medication_Category
 | erweitert FHIR®- | Medication.ingredient   ( |
 | KBV_PR_ERP_Medication_Compounding) | **Tabelle 16: KBV_EX_ERP_Medication_Ingredient_Form** |
 | **KBV_EX_ERP_MEDICATION_INGREDIENT_AMOUNT** |  |
-|  | Kanonische URL  https://fhir.kbv.de/StructureDefinition/ |
+|  | Kanonische URL  https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Ingredient_Amou |
 
 | KBV_EX_ERP_MEDICATION_INGREDIENT_AMOUNT |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/ |
-| Definition | Abbildung der Menge eines Bestandteils einer Rezeptur |
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Ingredient_Amou |
+| Definition | Abbildung der Menge eines Bestandteils einer Rezeptur als Freitext |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | Medication.ingredient.strength   (KBV_PR_ERP_Medication_Compounding) |
 
@@ -426,7 +411,7 @@ Ressource KBV_EX_ERP_Medication_Vaccine Ressource KBV_EX_ERP_Medication_Category
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | MedicationRequest |
 
-Ressource Ressource KBV_EX_ERP_Medication_Ingredient_Amou  als Freitext Ressource Wirkstoffverordnungen bzw. der Gesamtmenge der Rezeptur bei Rezepturverordnungen  Ressource Ressource (bspw. Fintepla®) anzugeben ist, damit die Apotheke das Rezept beliefern darf. 17 KBV_EX_ERP_Medication_Ingredient_Amount 18 19 : KBV_EX_ERP_Multiple_Prescription Tabelle 20: KBV_EX_ERP_ Prescriber_ID Packaging Size
+Ressource Ressource Ressource Wirkstoffverordnungen bzw. der Gesamtmenge der Rezeptur bei Rezepturverordnungen  Ressource Ressource (bspw. Fintepla®) anzugeben ist, damit die Apotheke das Rezept beliefern darf. 17 KBV_EX_ERP_Medication_Ingredient_Amount 18 19 : KBV_EX_ERP_Multiple_Prescription Tabelle 20: KBV_EX_ERP_Prescriber_ID Packaging Size
 
 ---
 
@@ -442,7 +427,7 @@ Ressource Ressource KBV_EX_ERP_Medication_Ingredient_Amou  als Freitext Ressourc
 | KBV_EX_ERP_NARCOTIC |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Narcotic |
-| Definition | Abbildung der Informationen im Rahmen einer Betäubungsmittel |
+| Definition | Abbildung der Informationen im Rahmen einer Betäubungsmittel-Verordnung (BtM) |
 | Version | 1.4.2 1.4.3 |
 | erweitert FHIR®- | MedicationRequest, SupplyRequest |
 
@@ -463,7 +448,7 @@ Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeute
 
 | KBV_CS_ERP_MEDICATION_CATEGORY |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/CodeSystem/ |
+| Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Category |
 | Definition | Kennzeichnung der Kategorie für die Verordnung |
 | Version | 1.4.2 1.4.3 |
 
@@ -475,7 +460,7 @@ Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeute
 | Definition | Kennzeichnung der Kategorie für die Verordnung |
 | Version | 1.4.2 1.4.3 |
 
-Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzneimittel Ressource -Verordnung (BtM) Abbildung der Informationen im Rahmen der Verordnung von teratogenen Ressource KBV_CS_ERP_Medication_Category
+Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzneimittel Ressource Abbildung der Informationen im Rahmen der Verordnung von teratogenen Ressource
 
 ---
 
@@ -483,7 +468,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 
 | KBV_CS_ERP_MEDICATION_TYPE |  |
 |---|---|
-| Kanonische URL | https://fhir.kbv.de/CodeSystem/ |
+| Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Type |
 | Definition | Klassifizierung von Medikamenten (Wirkstoff, Rezeptur, Freitext) soweit keine PZN- |
 | Version | 1.4.2 1.4.3 |
 
@@ -492,7 +477,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 | KBV_CS_ERP_SECTION_TYPE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Section_Type |
-| Definition | Ausprägung der zulässigen Codes für das Element section.code.coding.code de |
+| Definition | Ausprägung der zulässigen Codes für das Element section.code.coding.code des |
 | Version | 1.4.2 1.4.3 |
 
 **Tabelle 27: KBV_CS_ERP_Section_Type**
@@ -503,7 +488,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 | Definition | Ausprägung des Zuzahlungsstatus für die Verordnung |
 | Version | 1.4.2 1.4.3 |
 
-**Tabelle 28: KBV_VS_ERP_StatusCo Payment**
+**Tabelle 28: KBV_VS_ERP_StatusCoPayment**
 
 | KBV_VS_ERP_ACCIDENT_TYPE |  |
 |---|---|
@@ -513,12 +498,12 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 
 **Tabelle 29: KBV_VS_ERP_Accident_Type**
 
-KBV_CS_ERP_Medication_Type Verordnung erfolgt Profils „KBV_PR_ERP_Composition“
+Verordnung erfolgt Profils „KBV_PR_ERP_Composition“
 
 
 ---
 
-## 3.6 VORGABEN ZUR VERWENDUNG DER FORMULARÜBERGREIFENDEN UND
+## 3.6 VORGABEN ZUR VERWENDUNG DER FORMULARÜBERGREIFENDEN UND ERP FHIR-PROFILE
 
 **3.6.1** **Allgemeine Vorgaben**
 
@@ -526,11 +511,11 @@ KBV_CS_ERP_Medication_Type Verordnung erfolgt Profils „KBV_PR_ERP_Composition�
 |---|---|
 | **P36-01** | Verwendung der ERP- und FOR-Profile |
 
-Die ERP-spezifischen sowie die formularübergreifenden  eingesetzt werden.
+Die ERP-spezifischen sowie die formularübergreifenden KBV-Profile müssen ohne jegliche Modifikation  eingesetzt werden.
 
 **Begründung:**
 
-Die FHIR®-Spezifikation definiert eine Reihe von Basis Gesundheitswesens eingesetzt werden können. Diese  angepasst.
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Diese wurden für den vorliegenden Anwendungsbereich  angepasst.
 
 Für die Umsetzung des ERP wurden KBV-Profile erstellt, welche zum Teil von den deutschen Basis-Profilen  der FHIR®-Spezifikation abgeleitet sind. Die KBV-Profile geben Auskunft darüber, mit welchen  Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen zu verwenden sind.
 
@@ -539,30 +524,27 @@ Für die Umsetzung des ERP wurden KBV-Profile erstellt, welche zum Teil von den 
 - 1. Für die Umsetzung eines ERP müssen die in diesem Dokument genannten:
 - KBV-Profile gemäß Kapitel 3.3
 - KBV-Extensions gemäß Kapitel 3.4
-- KBV-ValueSets gemäß Kapitel 3.5 und
-- KBV-CodeSystems gemäß Kapitel 3.5
+- KBV-ValueSets gemäß Kapitel 3.5
+- KBV-CodeSystems gemäß Kapitel
 
 eingesetzt werden.
 
-- 2. Zusätzlich müssen die formularübergreifenden KBV Digitale Vordrucke [Anlage 2b KBV_ITA_VGEX_Technisches_Handbuch_DiMus KBV-Extensions, KBV-ValueSets, KBV-NamingSystems und KBV-CodeSystems eingesetzt werden.
+- 2. Zusätzlich müssen die formularübergreifenden KBV-Profile gemäß Kapitel 4 im Technischen Handbuch  Digitale Vordrucke [Anlage 2b KBV_ITA_VGEX_Technisches_Handbuch_DiMus KBV-Extensions, KBV-ValueSets, KBV-NamingSystems und KBV-CodeSystems eingesetzt werden.
 - 3. Einschränkungen, Erweiterungen und jegliche Modifikationen der in Akzeptanzkriterien (1) und (2)  genannten Profile, Extensions, ValueSets, NamingSystems und CodeSystems sind nicht erlaubt.
-- 4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke [ KBV_ITA_VGEX_Technisches_Handbuch_DiMus] im Kapitel 4.2 hinsichtlich des zu verwendenden  Zeichensatzes sind einzuhalten.
+- 4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke [ KBV_ITA_VGEX_Technisches_Handbuch_DiMus Zeichensatzes sind einzuhalten.
 
 **HINWEIS**
 
 Die KBV-Profile bilden die Gesamtmenge von Attributen, die im Rahmen einer elektronischen  Arzneimittelverordnung vorliegen können. Die KBV-Profile sowie die darin enthaltenen Attribute sind  immer dann zu verwenden, wenn die jeweilige Verordnungssituation diese zur Weiterverarbeitung benötigt  oder diese aus dem Kontext heraus erforderlich sind. Beispielsweise muss die Extension  KBV_EX_FOR_Accident“ nur dann verwendet werden, wenn die Verordnung im Kontext eines Unfalls  erfolgt.
 
-## ERP FHIR-PROFILE
-
-KBV-Profile müssen ohne jegliche Modifikation
-
--Ressourcen, welche in verschiedenen Bereichen des  wurden für den vorliegenden Anwendungsbereich
-
 ```
 -
 ```
 
-- -Profile gemäß Kapitel 4 im Technischen Handbuch  ] inklusive der enthaltenen
+- und
+- 3.5
+- ] im Kapitel 4.2 hinsichtlich des zu verwendenden
+- ] inklusive der enthaltenen
 - Anlage 2b
 
 
@@ -615,16 +597,16 @@ einbinden.
 
 ---
 
+- 1. Die Übergangsregelung gilt vom 1. Juli 2026 bis zum 31. Dezember 2026 14. Januar 2027.
+- a) Als entscheidendes Datum zur Feststellung der jeweils gültigen Vorgaben gilt das Datum der  Ausstellung (im Profil KBV_PR_ERP_Prescription: MedicationRequest.authoredOn oder  KBV_PR_ERP_PracticeSupply: SupplyRequest.authoredOn) des eRezeptes.
+- b) Im Zeitraum vom 1. Juli 2026 bis zum 31. Dezember 2026 14. Januar 2027 werden eRezepte in der  Version 1.3.2 und 1.4.0 1.4.1 1.4.2 1.4.3 von den Krankenkassen verarbeitet.
+- 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. Januar 2027 15. Januar 2027 (der Wert des  Elementes gemäß Akzeptanzkriterium 1a) >= 01.01.2027 15.01.2027), werden nur noch eRezepte der  Version 1.4.0 1.4.1 1.4.2 1.4.3 von den Krankenkassen verarbeitet. eRezept in der Version 1.3.2 werden  als fehlerhaft abgewiesen.
+
 **Begründung:**
 
 Zum 1. Juli 2026 wird die Aktualisierung der FHIR-Profile für das eRezept eingeführt. In diesem  Zusammenhang ist es erforderlich, eine Übergangsregelung für den Fall zu schaffen, dass neben der  gültigen Version 1.4.0 1.4.1 1.4.2 1.4.3 übergangsweise eRezepte in der Version 1.3.2 nach dem 1. Juli 2026  akzeptiert werden.
 
 **Akzeptanzkriterium**
-
-- 1. Die Übergangsregelung gilt vom 1. Juli 2026 bis zum 31. Dezember 2026 14. Januar 2027.
-- a) Als entscheidendes Datum zur Feststellung der jeweils gültigen Vorgaben gilt das Datum der  Ausstellung (im Profil KBV_PR_ERP_Prescription: MedicationRequest.authoredOn oder  KBV_PR_ERP_PracticeSupply: SupplyRequest.authoredOn) des eRezeptes.
-- b) Im Zeitraum vom 1. Juli 2026 bis zum 31. Dezember 2026 14. Januar 2027 werden eRezepte in der  Version 1.3.2 und 1.4.0 1.4.1 1.4.2 1.4.3 von den Krankenkassen verarbeitet.
-- 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. Januar 2027 15. Januar 2027 (der Wert des  Elementes gemäß Akzeptanzkriterium 1a) >= 01.01.2027 15.01.2027), werden nur noch eRezepte der  Version 1.4.0 1.4.1 1.4.2 1.4.3 von den Krankenkassen verarbeitet. eRezept in der Version 1.3.2 werden  als fehlerhaft abgewiesen.
 
 **Bedingung:**
 
@@ -632,11 +614,14 @@ Diese Funktion ist lediglich von den Softwaresystemen der Krankenkassen umzusetz
 
 **HINWEIS**
 
+- 1. Für die Umsetzung der Dosieranweisung im E-Rezept müssen die folgenden FHIR®-Ressourcen (inkl.  Extensions, ValueSets, CodeSystems) der HL7® Deutschland in der Version 1.0.0 gemäß dem  Implementation Guide [Medication IG DE] genutzt werden:
+- Profil DosageDgMP
+
 Verordnungen für Sonstige Kostenträger (z.B. Bundespolizei) können erst ab der Profilversion 1.3.2  ausgestellt werden.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P36-04** | Angabe einer Dosieranweisung |
+| **P36-04** | Verwendung der Profile und des Algorithmus zur Textgenerierung von HL7® Deutschland zur |
 
 Die Profile von HL7® Deutschland zur Abbildung einer Dosieranweisung müssen entsprechend des FHIR®  Implementation Guide für medikationsbezogene Anwendungsfälle im deutschen Gesundheitswesen  Medication IG DE] ohne jegliche Modifikation eingesetzt werden.
 
@@ -644,28 +629,24 @@ Die Profile von HL7® Deutschland zur Abbildung einer Dosieranweisung müssen en
 
 Der Implementation Guide (IG) beschreibt die standardisierte und interoperable Abbildung  medikationsbezogener Informationen und Prozesse im deutschen Gesundheitswesen auf Basis von HL7®  FHIR®. Für freitextliche und strukturierte Dosieranweisungen bzw. Gebrauchsanweisungen für Rezepturen  im E-Rezept gelten die Vorgaben aus diesem IG. Das Ziel ist es, die strukturierte Dosierungsinformation als  sektorenübergreifenden Anwendungsfall im E-Rezept sowie im elektronischen Medikationsplan zu  ermöglichen und zu harmonisieren. Für die menschenlesbare Darstellung der strukturierten  Dosieranweisung wird ein Algorithmus in Form einer Referenzimplementierung vorgegeben, damit der  Text, der sich aus einer strukturierten Dosieranweisung ableitet, entlang des digital gestützten  Medikationsprozesses (dgMP) immer exakt derselbe ist und der strukturierten Darstellung entspricht.
 
-**Akzeptanzkriterium:**
-
-- 1. Für die Umsetzung der Dosieranweisung im E-Rezept müssen die folgenden FHIR®-Ressourcen (inkl.  Extensions, ValueSets, CodeSystems) der HL7® Deutschland in der Version 1.0.0 gemäß dem  Implementation Guide [Medication IG DE] genutzt werden:
-
-Verwendung der Profile und des Algorithmus zur Textgenerierung von HL7® Deutschland zur - Profil DosageDgMP
+Angabe einer Dosieranweisung  **Akzeptanzkriterium:**
 
 
 ---
 
 - Profil TimingDgMP
-- 2. E-Rezepte mit strukturierten Dosieranweisungen (Felder in Block ID 175) sowie Dosierangaben in Form  eines Freitextes (Feld ID 108) enthalten, müssen einen menschenlesbaren Text (Feld ID 186) enthalten,  der mit einem Algorithmus (Feld ID 187) entsprechend der Python Referenzimplementierung in der  Version 1.0.0 in der Version 1.0.1 [Python Skript] gemäß dem Implementation Guide Medication IG DE ePA Medication Service IG] Kapitel 5 generiert wird.
+- 2. E-Rezepte mit strukturierten Dosieranweisungen (Felder in Block ID 175) sowie Dosierangaben in Form  eines Freitextes (Feld ID 108) enthalten, müssen einen menschenlesbaren Text (Feld ID 186) enthalten,  der mit einem Algorithmus (Feld ID 187) entsprechend der Python Referenzimplementierung in der  Version 1.0.0 in der Version 1.0.1 [Python Skript] gemäß dem Implementation Guide [Medication IG DE ePA Medication Service IG] Kapitel 5 generiert wird.
 - a) Im FHIR-Element  MedicationRequest.extension:generatedDosageInstructionsMeta.extension:algorithmVersion.value[ x]:valueString ist der Wert „1.0.1“ anzugeben.
 
 **HINWEIS**
 
-- Wenn die Dosieranweisung in Form von Freitext angegeben wird  (MedicationRequest.dosageInstruction.text), dann entspricht der Freitext dem generierten Text der  Dosieranweisung (MedicationRequest.extension:renderedDosageInstruction). Dies ist durch die  Referenzimplementierung des Algorithmus sichergestellt. Demnach ist ein menschenlesbarer Text, egal  ob die Dosieranweisung freitextlich oder strukturiert angegeben wird, immer an derselben Stelle im E Rezept Bundle (MedicationRequest.extension:renderedDosageInstruction) zu finden.
+- Wenn die Dosieranweisung in Form von Freitext angegeben wird  (MedicationRequest.dosageInstruction.text), dann entspricht der Freitext dem generierten Text der  Dosieranweisung (MedicationRequest.extension:renderedDosageInstruction). Dies ist durch die  Referenzimplementierung des Algorithmus sichergestellt. Demnach ist ein menschenlesbarer Text, egal  ob die Dosieranweisung freitextlich oder strukturiert angegeben wird, immer an derselben Stelle im E-Rezept Bundle (MedicationRequest.extension:renderedDosageInstruction) zu finden.
 
 **3.6.2** **Erstellung der ERP-Instanz**
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P36-21** | Erzeugung einer Instanz auf Basis der |
+| **P36-21** | Erzeugung einer Instanz auf Basis der ERP-Profile und FOR-Profile |
 
 Die Software erzeugt eine Instanz auf Basis der ERP-Profile und FOR-Profile immer als XML-Datei.
 
@@ -682,7 +663,7 @@ Da der FHIR®-Standard die Übertragung der Instanzen im XML- sowie JSON-Format 
 
 **HINWEIS**
 
-ERP-Profile und FOR-Profile - Die Informationen in einem Bundle bilden das eigentliche Dokument  das elektronische Rezept.
+- Die Informationen in einem Bundle bilden das eigentliche Dokument  das elektronische Rezept.
 
 
 ---
@@ -703,7 +684,7 @@ ERP-Profile und FOR-Profile - Die Informationen in einem Bundle bilden das eigen
 | Wirkstärke | 159 |  |  |
 |  | 159a | Medication.ingredient.strengt h.numerator.value |  |
 |  |  | **PFLICHTFUNKTION ERP ** | **P36-22** |
-| Instanziierung KBV_PR_ERP_Medication_PZN Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_ERP_Medication_PZN. | **Begründung:** | In diesem Profil werden die Rezeptierdaten einer Verordnung aus **Akzeptanzkriterium:  ** 1. | 7 |
+| Instanziierung KBV_PR_ERP_Medication_PZN  Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_ERP_Medication_PZN. | **Begründung:** | In diesem Profil werden die Rezeptierdaten einer Verordnung aus den Preis- und Produktverzeichnissen **Akzeptanzkriterium:  ** 1. | 7 |
 | folgt erfolgen: |  | **KBV_PR_ERP_MEDICATION_PZN** | **Daten** |
 | **ID gemäß** | | | |
 | **Tabelle 42** |  | **FHIR®-Mapping** | **Bedingung** |
@@ -714,7 +695,7 @@ ERP-Profile und FOR-Profile - Die Informationen in einem Bundle bilden das eigen
 |---|---|
 | **P36-22** | Instanziierung KBV_PR_ERP_Medication_PZN |
 
-Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab. Das Bundle enthält immer die Instanzen aller Profile referenzierten Profilen) durch das Bundle selber oder durch die enthaltene Composition (KBV_PR_ERP_Composition) referenziert werden. , die direkt oder indirekt (über Referenzen in Je Verordnung wird eine Instanz des Bundles KBV_PR_ERP_Bundle erstellt.  Das Mapping der Informationen aus Kapitel  auf das Profil KBV_PR_ERP_Medication_PZN muss wie nach § 131 SGB V abgebildet. Die Rezeptierdaten sind inhaltlich der elementare Bestandteil einer Arzneimittelverordnung. den Preis- und Produktverzeichnissen ID des Produkts (PZN) Darreichungsform  rreichungsform.code Wirkstoffnummer Zahlenwert der Wirkstoffmenge
+Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab. Das Bundle enthält immer die Instanzen aller Profile, die direkt oder indirekt (über Referenzen in referenzierten Profilen) durch das Bundle selber oder durch die enthaltene Composition (KBV_PR_ERP_Composition) referenziert werden. Je Verordnung wird eine Instanz des Bundles KBV_PR_ERP_Bundle erstellt.  Das Mapping der Informationen aus Kapitel  auf das Profil KBV_PR_ERP_Medication_PZN muss wie nach § 131 SGB V abgebildet. Die Rezeptierdaten sind inhaltlich der elementare Bestandteil einer Arzneimittelverordnung. ID des Produkts (PZN) Darreichungsform  rreichungsform.code Wirkstoffnummer Zahlenwert der Wirkstoffmenge
 
 ---
 
@@ -741,27 +722,27 @@ Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab. 
 |  | 112 | Medication.amount.numerato | WENN  ANSONSTEN |
 |  | 110 | Medication.extension:Normgr oesse.value[x]:valueCode | WENN  ANSONSTEN |
 
-Einheit der Wirkstoffmenge Zahlenwert der Bezugsmenge Einheit der Bezugsmenge Packungsgröße nach abgeteilter Menge Einheit Packungsgröße nach N- Bezeichnung Die Software muss es ermöglichen , alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben Optionale Felder müssen befüllt werden können. Die Software muss sicherstellen, dass die Angaben zu: ID des Produkts (PZN) (ID 115),  Handelsname (ID 116), Darreichungsform (ID 103), den Wirkstoffen (ID 157 - ID 159) sowie  r.extension:Packungsgroesse gemäß das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.
+Einheit der Wirkstoffmenge Zahlenwert der Bezugsmenge Einheit der Bezugsmenge Packungsgröße nach abgeteilter Menge Einheit Packungsgröße nach N- Bezeichnung Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß Optionale Felder müssen befüllt werden können.  Die Software muss sicherstellen, dass die Angaben zu: ID des Produkts (PZN) (ID 115),  Handelsname (ID 116), Darreichungsform (ID 103), den Wirkstoffen (ID 157 - ID 159) sowie  r.extension:Packungsgroesse das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.
 
 ---
 
 \| KBV_PR_ERP_MEDICATION_INGREDIENT | | | |
 | · | | | |
 |---|---|---|---|
-| **Daten** | **ID gemäß  Tabelle 42** | **FHIR®-Mapping** | **Bedingung  (Feldnr. = IDs gemäß Tabelle 42)** |
+| **Daten** | **ID gemäß  Tabelle 42** | **FHIR®-Mapping** | **Bedingung  (Feldnr. = IDs gemäß Tabelle 42** |
 | Kategorie | 81 | Medication.extension:Arzneim ittelkategorie.value[x]:valueCo ding.code |  |
 | Impfstoff | 84 | Medication.extension:Impfstof f.value[x]:valueBoolean |  |
 | Rezeptierdaten |  |  |  |
 |  | 118 | Medication.ingredient.item[x]:  itemCodeableConcept.coding: askCode.code |  |
 | Wirkstoffname | 119 | Medication.ingredient.item[x]: itemCodeableConcept.text |  |
 | Wirkstärke | 120 |  |  |
-| ausschließlich aus der ID des Produkts (PZN) (ID 115) auf Basis der Arzneimittelstammdaten nach P2 EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] abgeleitet werden. | a)  EXT_ITA_VGEX_Anforderungskatalog_AVWG]). | b) |
+| ausschließlich aus der ID des Produkts (PZN) (ID 115) auf Basis der Arzneimittelstammdaten nach P2-110  EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] abgeleitet werden. | a)  EXT_ITA_VGEX_Anforderungskatalog_AVWG]). | b) |
 | c) |  | d)   › |  |
-| P36-41 |  | **KONDITIONALE PFLICHTFUNKTION ERP ** |  |
-| **K36-23 ** Instanziierung KBV_PR_ERP_Medication_Ingredient | Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_ERP_Medication_Ingredient | **Begründung:** In diesem Profil werden die Rezeptierdaten einer Wirkstoffverordnung abgebildet. Die Rezeptierdaten sind **Akzeptanzkriterium:  ** 4. |  |
-| 7 auf das Profil KBV_PR_ERP_Medication_Ingredient |  | **KBV_PR_ERP_MEDICATION_INGREDIENT** |  |
+| P36-41 zu entnehmen. |  | **KONDITIONALE PFLICHTFUNKTION ERP ** |  |
+| **K36-23 ** Instanziierung KBV_PR_ERP_Medication_Ingredient | Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_ERP_Medication_Ingredient. | **Begründung:** In diesem Profil werden die Rezeptierdaten einer Wirkstoffverordnung abgebildet. Die Rezeptierdaten sind **Akzeptanzkriterium:  ** 4. |  |
+| 7 wie folgt erfolgen: |  | **KBV_PR_ERP_MEDICATION_INGREDIENT** |  |
 | **Daten** | **ID gemäß  Tabelle 42** |  | **FHIR®-Mapping** |
-| **Bedingung** |  | **(Feldnr. = IDs gemäß Tabelle 42)** | Kategorie  81 |
+| **Bedingung** |  | **(Feldnr. = IDs gemäß Tabelle 42** | Kategorie  81 |
 | Medication.extension:Arzneim | ittelkategorie.value[x]:valueCo | ding.code |  |
 | Impfstoff | 84 | Medication.extension:Impfstof f.value[x]:valueBoolean | Rezeptierdaten |
 
@@ -769,7 +750,7 @@ Einheit der Wirkstoffmenge Zahlenwert der Bezugsmenge Einheit der Bezugsmenge Pa
 |---|---|
 | **K36-23** | Instanziierung KBV_PR_ERP_Medication_Ingredient |
 
-Packungsgröße (ID 110  112)  -110 Eine Änderung der auf Basis der PZN übernommen Angaben durch den Anwendenden ist nicht zulässig (siehe hierzu auch P3-621 Akzeptanzkriterium (2) Die Software muss sicherstellen, dass bei Produkten mit mehreren Wirkstoffen diese vollständig angegeben werden. Sofern die Wirkstoffnummer (ID 157) in der Arzneimitteldatenbank vorliegt, ist diese zu übertragen. Sofern es sich um ein Produkt ohne Wirkstoffe handelt (z.B. Placebo -Tabletten), sind die Felder Medication.ingredient.item[x]:itemCodeableConcept.extension:data -absent- reason.value[x]:valueCode und  Medication.ingredient.strength.extension:data -absent- reason.value[x]:valueCode jeweils mit dem Wert „unknown“ zu befüllen HINWEISE Die weiteren Vorgaben zu den Wirkstoffangaben bei PZN -Verordnungen sind der Pflichtfunktion zu entnehmen. inhaltlich der elementare Bestandteil einer Arzneimittelverordnung. Das Mapping der Informationen aus Kapitel  muss wie folgt erfolgen: Wirkstoffnummer
+Packungsgröße (ID 110  112)  Eine Änderung der auf Basis der PZN übernommen Angaben durch den Anwendenden ist nicht zulässig (siehe hierzu auch P3-621 Akzeptanzkriterium (2) Die Software muss sicherstellen, dass bei Produkten mit mehreren Wirkstoffen diese vollständig angegeben werden. Sofern die Wirkstoffnummer (ID 157) in der Arzneimitteldatenbank vorliegt, ist diese zu übertragen. Sofern es sich um ein Produkt ohne Wirkstoffe handelt (z.B. Placebo-Tabletten), sind die Felder Medication.ingredient.item[x]:itemCodeableConcept.extension:data-absent- reason.value[x]:valueCode und  Medication.ingredient.strength.extension:data-absent- reason.value[x]:valueCode jeweils mit dem Wert „unknown“ zu befüllen HINWEISE Die weiteren Vorgaben zu den Wirkstoffangaben bei PZN-Verordnungen sind der Pflichtfunktion inhaltlich der elementare Bestandteil einer Arzneimittelverordnung. Das Mapping der Informationen aus Kapitel Wirkstoffnummer  auf das Profil KBV_PR_ERP_Medication_Ingredient muss
 
 ---
 
@@ -793,7 +774,7 @@ Packungsgröße (ID 110  112)  -110 Eine Änderung der auf Basis der PZN überno
 |  | 112 | Medication.amount.numerato | WENN  ANSONSTEN |
 |  | 110 | Medication.extension:Normgr oesse.value[x]:valueCode | WENN  ANSONSTEN |
 
-Zahlenwert der Wirkstoffmenge Einheit der Wirkstoffmenge Zahlenwert der Bezugsmenge Einheit der Bezugsmenge Freitext Packungsgröße nach abgeteilter Menge Einheit  Packungsgröße nach N- Bezeichnung   Die Software muss es ermöglichen Pflichtfelder sind unter Berücksichtigung der Vorgaben Optionale Felder müssen befüllt werden können. Die Software muss sicherstellen, dass die , alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu  gemäß Angaben zu: das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.
+Zahlenwert der Wirkstoffmenge Einheit der Wirkstoffmenge Zahlenwert der Bezugsmenge Einheit der Bezugsmenge Freitext Packungsgröße nach abgeteilter Menge Einheit  Packungsgröße nach N- Bezeichnung   Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß Optionale Felder müssen befüllt werden können. Die Software muss sicherstellen, dass die Angaben zu: das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.
 
 ---
 
@@ -807,10 +788,10 @@ Zahlenwert der Wirkstoffmenge Einheit der Wirkstoffmenge Zahlenwert der Bezugsme
 |  | 123 | Medication.code.text |  |
 |  | 124 | Medication.amount.numerato r.extension:Gesamtmenge |  |
 | Einheit der | 125 | Medication.amount.numerato |  |
-|  | ausschließlich auf Basis der Arzneimittelstammdaten nach | EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] abgeleitet werden. |
-| **Bedingung:** | Diese Funktion muss von der Software umgesetzt werden, wenn die Software die | EXT_ITA_VGEX_Anforderungskatalog_AVWG] umgesetzt hat. | › |
+|  | ausschließlich auf Basis der Arzneimittelstammdaten nach P2-110 | EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] abgeleitet werden. |
+| **Bedingung:** | Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Funktion | EXT_ITA_VGEX_Anforderungskatalog_AVWG] umgesetzt hat. | › |
 | › | › | P36-41 zu entnehmen. |  |
-| **KONDITIONALE PFLICHTFUNKTION ERP** |  | **K36-24 ** Instanziierung KBV_PR_ERP_Medication_Compounding Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_ERP_Medication_Compounding**Begründung:** | In diesem Profil werden die Rezeptierdaten einer Rezepturverordnung abgebildet. Die Rezeptierdaten sind |
+| **KONDITIONALE PFLICHTFUNKTION ERP** |  | **K36-24 ** Instanziierung KBV_PR_ERP_Medication_Compounding  Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_ERP_Medication_Compounding.  **Begründung:** | In diesem Profil werden die Rezeptierdaten einer Rezepturverordnung abgebildet. Die Rezeptierdaten sind |
 | **Akzeptanzkriterium:  ** 1. | 7 | auf das Profil KBV_PR_ERP_Medication_Compounding |  |
 | **KBV_PR_ERP_MEDICATION_COMPOUNDING** |  | **Daten ID gemäß  Tabelle 42** |  |
 | **FHIR®-Mapping** | **Bedingung** | **(Feldnr. = IDs gemäß Tabelle 42)** | Kategorie  81 |
@@ -822,7 +803,7 @@ Zahlenwert der Wirkstoffmenge Einheit der Wirkstoffmenge Zahlenwert der Bezugsme
 |---|---|
 | **K36-24** | Instanziierung KBV_PR_ERP_Medication_Compounding |
 
-den Wirkstoffen (ID 118 - ID 120) sowie  Packungsgröße (ID 110  112)  P2-110 O3-622 Wirkstoffverordnung des [ HINWEISE Es wird ausdrücklich empfohlen, die strukturierte Wirkstoffverordnung um zusetzen, um dem Anwender eine einfache Erstellung von eindeutigen Wirkstoffverordnungen zu ermöglichen. Perspektivisch soll die strukturierte Wirkstoffverordnung  verpflichtender Bestandteil der Verordnungssoftware werden. Die empfangenden Systeme  in der Regel Apothekensysteme  müssen die FHIR-Profile vollständig umsetzen. Die weiteren Vorgaben zu den Wirkstoffangaben bei Wirkstoffverordnungen sind der Pflichtfunktion inhaltlich der elementare Bestandteil einer Arzneimittelverordnung. Das Mapping der Informationen aus Kapitel muss wie folgt erfolgen: Rezepturname Gesamtmenge der r.unit
+den Wirkstoffen (ID 118 - ID 120) sowie  Packungsgröße (ID 110  112)  O3-622 Wirkstoffverordnung des [ HINWEISE Es wird ausdrücklich empfohlen, die strukturierte Wirkstoffverordnung umzusetzen, um dem Anwender eine einfache Erstellung von eindeutigen Wirkstoffverordnungen zu ermöglichen. Perspektivisch soll die strukturierte Wirkstoffverordnung verpflichtender Bestandteil der Verordnungssoftware werden. Die empfangenden Systeme  in der Regel Apothekensysteme  müssen die FHIR-Profile vollständig umsetzen. Die weiteren Vorgaben zu den Wirkstoffangaben bei Wirkstoffverordnungen sind der Pflichtfunktion Das Mapping der Informationen aus Kapitel muss wie folgt erfolgen: inhaltlich der elementare Bestandteil einer Arzneimittelverordnung. Rezepturname Gesamtmenge der r.unit
 
 ---
 
@@ -835,7 +816,7 @@ den Wirkstoffen (ID 118 - ID 120) sowie  Packungsgröße (ID 110  112)  P2-110 O
 | ENTWEDER | ODER | 104  Medication.form.text | **Tabelle** |
 | **32** | **: Mapping** | **KBV_PR_ERP_Medication_Compounding** |  |
 | 2. |  | a)  EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen. | b) |
-| **Bedingung:** | Diese Funktion muss von der Software umgesetzt werden, wenn die Software die | EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] umgesetzt hat. |
+| **Bedingung:** | Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Funktion | EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] umgesetzt hat. |
 |  | 126 | Medication.extension:Herstell |  |
 |  | 127 | Medication.extension:Verpack ung.value[x]:valueString |  |
 | Bestandteile |  |  |  |
@@ -847,13 +828,13 @@ den Wirkstoffen (ID 118 - ID 120) sowie  Packungsgröße (ID 110  112)  P2-110 O
 |  | 135 | Medication.ingredient.strengt h.extension:MengeFreitext.val ue[x]:valueString | ENTWEDER  ODER |
 |  | 104 | Medication.form.text |  |
 
-Die Software muss es ermöglichen , alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß Optionale Felder müssen befüllt werden können. Herstellungsanweisung ungsanweisung.value[x]:value Verpackung Name des  Bestandteils Bestandteils itemCodeableConcept.coding: pznCode.code Darreichungsform des Bestandteils  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Einheit des  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Menge und Einheit des Bestandteils  muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Darreichungsform Rezepturverordnung des [ O3-623 #### HINWEISE
+Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß Optionale Felder müssen befüllt werden können.  Herstellungsanweisung ungsanweisung.value[x]:value Verpackung Name des  Bestandteils Bestandteils itemCodeableConcept.coding: pznCode.code Darreichungsform des Bestandteils  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Einheit des  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Menge und Einheit des Bestandteils  muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Darreichungsform Rezepturverordnung des [ O3-623 #### HINWEISE
 
 
 ---
 
 - Es wird ausdrücklich empfohlen, die strukturierte Rezepturverordnung umzusetzen, um dem Anwender  eine einfache Erstellung von eindeutigen Rezepturverordnungen zu ermöglichen. Perspektivisch soll die  strukturierte Rezepturverordnung verpflichtender Bestandteil der Verordnungssoftware werden.
-- Die empfangenden Systeme - in der Regel Apothekensysteme  müssen die FHIR-Profile vollständig  umsetzen.
+- Die empfangenden Systeme - in der Regel Apothekensysteme  umsetzen.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -867,7 +848,7 @@ In diesem Profil werden die Rezeptierdaten einer freitextlichen Verordnung abgeb
 
 **Akzeptanzkriterium:**
 
-- 1. Das Mapping der Informationen aus Kapitel 7 auf das Profil KBV_PR_ERP_Medication_FreeText muss  wie folgt erfolgen:
+- 1. Das Mapping der Informationen aus Kapitel  wie folgt erfolgen:
 
 | KBV_PR_ERP_MEDICATION_FREETEXT | | |
 |---|---|---|
@@ -880,7 +861,7 @@ In diesem Profil werden die Rezeptierdaten einer freitextlichen Verordnung abgeb
 **Tabelle 33: Mapping KBV_PR_ERP_Medication_FreeText**
 
 - 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu  befüllen.
-- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß  EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen.
+- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß  EXT_ITA_VGEX_Anforderungskatalog_AVWG
 - b) Optionale Felder müssen befüllt werden können.
 
 | PFLICHTFUNKTION ERP |  |
@@ -895,7 +876,11 @@ Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteil
 
 **Akzeptanzkriterium:**
 
-- 1. Das Mapping der Informationen aus Kapitel 7 auf das Profil KBV_PR_ERP_Prescription muss wie folgt  erfolgen:
+- 1. Das Mapping der Informationen aus Kapitel  erfolgen:
+- müssen die FHIR-Profile vollständig
+- 7 auf das Profil KBV_PR_ERP_Medication_FreeText muss
+- ] zu befüllen.
+- 7 auf das Profil KBV_PR_ERP_Prescription muss wie folgt
 
 
 ---
@@ -1058,7 +1043,7 @@ Kennzeichen Dosierung Gebrauchsanweisung Freitext / strukturiert Gebrauchsanweis
 |  |  |  |  |
 |  |  |  |  |
 
-Algorithmus der Textgenerierung Unfallkennzeichen Unfalltag Name des Unfallbetriebs Kennzeichen Zähler extension:generatedDosageInstr uctionsMeta das Feld "Kennzeichen Dosierung" gleich "true" ist ist dieses Feld Pflicht. darf es nicht angegeben werden. fallkennzeichen.value[x]:valueC oding das Feld 73 gleich "1" oder "2" ist, ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. dieses Feld ein Datum enthält, darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld 73 gleich "2" ist, ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. ehrfachverordnung.extension:K ennzeichen.value[x]:valueBoole an ehrfachverordnung.extension:ID das Feld 87 gleich „true“ ist, .value[x]:valueIdentifier muss dieses Feld angegeben werden. darf es nicht gesetzt werden. ehrfachverordnung.extension:N das Feld 87 gleich „true“ ist, ummerierung.value[x]:valueRati o.numerator.value muss dieses Feld angegeben werden. darf es nicht gesetzt werden.
+Algorithmus der Textgenerierung Unfallkennzeichen Unfalltag Name des Unfallbetriebs Kennzeichen Zähler extension:generatedDosageInstr uctionsMeta das Feld "Kennzeichen Dosierung" gleich "true" ist ist dieses Feld Pflicht. darf es nicht angegeben werden. fallkennzeichen.value[x]:valueC oding das Feld 73 gleich "1" oder "2" ist, ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. dieses Feld ein Datum enthält, darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld 73 gleich "2" ist, ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. ehrfachverordnung.extension:K ennzeichen.value[x]:valueBoole an ehrfachverordnung.extension:ID .value[x]:valueIdentifier das Feld 87 gleich „true“ ist, muss dieses Feld angegeben werden. ehrfachverordnung.extension:N ummerierung.value[x]:valueRati o.numerator.value darf es nicht gesetzt werden. das Feld 87 gleich „true“ ist, muss dieses Feld angegeben werden. darf es nicht gesetzt werden.
 
 ---
 
@@ -1112,7 +1097,7 @@ Algorithmus der Textgenerierung Unfallkennzeichen Unfalltag Name des Unfallbetri
 |  |  |  |  |
 |  |  |  |  |
 
-Nenner Mehrfachverordnung Beginn Einlösefrist der Verordnung Ende Einlösefrist der Verordnung ehrfachverordnung.extension:N das Feld 87 gleich „true“ ist, ummerierung.value[x]:valueRati DANN  o.denominator.value muss dieses Feld angegeben werden. darf es nicht gesetzt werden. ehrfachverordnung.extension:Ze das Feld 87 gleich „true“ ist, itraum.value[x]:valuePeriod.star DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. ehrfachverordnung.extension:Ze das Feld 87 gleich „true“ ist, itraum.value[x]:valuePeriod.end DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. erschreiberID atientenID das Feld "Kategorie" gleich „01“ ist,  DANN  muss dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code
+Nenner Mehrfachverordnung Beginn Einlösefrist der Verordnung Ende Einlösefrist der Verordnung ehrfachverordnung.extension:N ummerierung.value[x]:valueRati o.denominator.value das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. ehrfachverordnung.extension:Ze das Feld 87 gleich „true“ ist, itraum.value[x]:valuePeriod.star DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. ehrfachverordnung.extension:Ze das Feld 87 gleich „true“ ist, itraum.value[x]:valuePeriod.end DANN  muss dieses Feld angegeben werden. erschreiberID atientenID darf es nicht gesetzt werden. Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code das Feld "Kategorie" gleich „01“ ist,  DANN  muss dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein.
 
 ---
 
@@ -1222,11 +1207,9 @@ Substitutionsmitteln des Substitutionsmittels Substitutionsmittels quest.expecte
 
 **Tabelle 34: Mapping KBV_PR_ERP_Prescription**
 
-- 2. Die Software muss es ermöglichen befüllen.
-- a) Pflichtfelder sind unter Berücksichtigung der Vorgaben  EXT_ITA_VGEX_Anforderungskatalog_AVWG
-- , alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu  befüllen.
 
-zum Substitutionsmittel Arzneimittels T-Arzneimittels Sicherheitsmaßnahmen Informationsmaterialien Betaeubungsmittel n.extension:VorgabenTeilmenge nabgabeSubstitutionsmittel.valu e[x]:valueString.value das Feld "Kategorie" gleich „02“ muss dieser Block vorhanden Rezept.extension:Off- Label.value[x]:valueBoolean.val Rezept.extension:Gebaerfaehige Frau.value[x]:valueBoolean.valu quest.expectedSupplyDuration.v „Gebärfähige Frau“ alue gleich „true“ ist, DANN 4 12 Woche(n) “ sein. quest.expectedSupplyDuration. unit Rezept.extension:EinhaltungSich erheitsmassnahmen.value[x]:val ueBoolean.value Rezept.extension:Aushaendigun gInformationsmaterialien.value[ x]:valueBoolean.value Rezept.extension:ErklaerungSac hkenntnis.value[x]:valueBoolean .value - gemäß  ] zu befüllen.
+zum Substitutionsmittel Arzneimittels T-Arzneimittels Sicherheitsmaßnahmen Informationsmaterialien Betaeubungsmittel n.extension:VorgabenTeilmenge nabgabeSubstitutionsmittel.valu e[x]:valueString.value das Feld "Kategorie" gleich „02“ muss dieser Block vorhanden Rezept.extension:Off- Label.value[x]:valueBoolean.val Rezept.extension:Gebaerfaehige Frau.value[x]:valueBoolean.valu quest.expectedSupplyDuration.v „Gebärfähige Frau“ alue gleich „true“ ist, DANN 4 12 Woche(n) “ sein. quest.expectedSupplyDuration. unit Rezept.extension:EinhaltungSich erheitsmassnahmen.value[x]:val ueBoolean.value Rezept.extension:Aushaendigun gInformationsmaterialien.value[ x]:valueBoolean.value Rezept.extension:ErklaerungSac hkenntnis.value[x]:valueBoolean .value - a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß  EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen.
 
 
 ---
@@ -1236,13 +1219,10 @@ zum Substitutionsmittel Arzneimittels T-Arzneimittels Sicherheitsmaßnahmen Info
 - a) Es wird eine UUID in Form einer URN übermittelt. Die UUID wird gemäß RFC4122 Version 5 mit den  zugehörigen Separatoren erzeugt.
 - b) Der Inhalt des Elementes entspricht somit dem folgenden Schema urn:uuid:<XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX>, welches die UUID nach a) darstellt.
 - c) Alle Teilverordnungen einer Mehrfachfachverordnung übertragen in diesem Element die gleiche  UUID nach diesem Akzeptanzkriterium.
+- Die Definition einer Teilverordnung einer Mehrfachverordnung sind der Pflichtfunktion P3-640  EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu entnehmen.
 - 4. Die Software muss sicherstellen, dass das Element „status“ den Wert „active“ hat.
 - 5. Die Software muss sicherstellen, dass das Element „intent“ den Wert „order“ hat.
 - 6. Die Instanz des KBV_PR_ERP_Prescription muss die folgenden Instanzen referenzieren können:
-- 7. Die Instanz KBV_PR_ERP_Prescription darf nur genau eine Referenz auf eine Instanz eines ERP-Medication-Profils in MedicationRequest.medicationReference.reference enthalten.
-- 8. Die Software stellt sicher, dass der Wert des Elementes „Anzahl der verordneten Packungen“ (Feld 113)  größer als 0 ist.
-- 9. Die Software stellt sicher, dass die Information der „Anzahl der verordneten Packungen“ (Feld 113)  entsprechend in der ERP-Instanz übertragen wird.
-- Die Definition einer Teilverordnung einer Mehrfachverordnung sind der Pflichtfunktion P3-640  EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu entnehmen.
 
 | KBV_PR_ERP_PRESCRIPTION | | |
 |---|---|---|
@@ -1255,7 +1235,12 @@ zum Substitutionsmittel Arzneimittels T-Arzneimittels Sicherheitsmaßnahmen Info
 | KBV_PR_FOR_Patient | MedicationRequest.subject.reference  = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] |
 | KBV_PR_FOR_Practitioner | MedicationRequest.requester.referen ce  = *<UUID der Instanz>* | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] |
 
-FreeText Compounding PZN ngredient DiMus DiMus DiMus**Tabelle 35: Referenzierte Instanzen KBV_PR_ERP_Prescription**
+**Tabelle 35: Referenzierte Instanzen KBV_PR_ERP_Prescription**
+
+- 7. Die Instanz KBV_PR_ERP_Prescription darf nur genau eine Referenz auf eine Instanz eines ERP-Medication-Profils in MedicationRequest.medicationReference.reference enthalten.
+- 8. Die Software stellt sicher, dass der Wert des Elementes „Anzahl der verordneten Packungen“ (Feld 113)  größer als 0 ist.
+
+FreeText Compounding PZN ngredient DiMus DiMus DiMus- 9. Die Software stellt sicher, dass die Information der „Anzahl der verordneten Packungen“ (Feld 113)  entsprechend in der ERP-Instanz übertragen wird.
 
 
 ---
@@ -1272,7 +1257,7 @@ FreeText Compounding PZN ngredient DiMus DiMus DiMus**Tabelle 35: Referenzierte 
 
 **HINWEIS**
 
-Wenn das Feld „Kennzeichen Dosierung“ (ID 107) gleich true ist oder eine Rezeptur verordnet wird, ist eine  Dosieranweisung bzw. Gebrauchsanweisung (ID 108 bzw. ID 175) in der Verordnung zu übermitteln. Wenn  der Wert false ist, bedeutet dies, dass dem Versicherten außerhalb der Verordnung eine Dosieranweisung  oder ein Medikationsplan mitgegeben wird
+Wenn das Feld „Kennzeichen Dosierung“ (ID 107) gleich true ist oder eine Rezeptur verordnet wird, ist eine  Dosieranweisung bzw. Gebrauchsanweisung (ID 108 bzw. ID 175) in der Verordnung zu übermitteln. Wenn  der Wert false ist, bedeutet dies, dass dem Versicherten außerhalb der Verordnung eine Dosieranweisung  oder ein Medikationsplan mitgegeben wird.
 
 Anwendende sollen geeignet darauf hingewiesen werden, dass Dosierinformationen freitextlich  ausschließlich in dem Feld Dosieranweisung / Gebrauchsanweisung Freitext (ID 108) oder strukturiert in  den Feldern Dosieranweisung / Gebrauchsanweisung strukturiert (ID 175) Angaben zur  Dosierinformationen zu hinterlegen sind. Es ist nicht sichergestellt, dass bei einer Aufteilung der  Dosierinformationen auf weitere Felder diese durch die weiterverarbeitenden Systeme entsprechend  interpretiert werden. Sofern die zur Verfügung stehende Zeichenlänge in dem Feld Dosieranweisung /  Gebrauchsanweisung Freitext (ID 108) für die vollständige Angabe einer Dosierung nicht ausreichend ist  bzw. die strukturierte Dosieranweisung / Gebrauchsanweisung (ID 175) nicht geeignet ist, so ist die  Dosierung außerhalb des eRezeptes mitzugeben.
 
@@ -1288,7 +1273,7 @@ Die Software kann eine Instanz auf Basis des Profils KBV_PR_ERP_PracticeSupply e
 ---
 
 \| KBV_PR_ERP_PRACTICESUPPLY | | |
-| Begründung: Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteile einer | | |
+| Begründung: Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteile einer Beschaffung von | | |
 |---|---|---|
 | **Referenzierte Instanz** | **FHIR®-Element** | **Bedingung** |
 | **Akzeptanzkriterium:  ** 1. | 7 erfolgen: **KBV_PR_ERP_PRACTICESUPPLY** | **Daten ID gemäß  Tabelle 42** |
@@ -1309,7 +1294,7 @@ Die Software kann eine Instanz auf Basis des Profils KBV_PR_ERP_PracticeSupply e
 | BtM-Angaben | 160 |  | WENN  ANSONSTEN |
 | BtM-Sonderkennzeichen | 161 | SupplyRequest.extension: |  |
 
-Packungen Kostenträgertyp IK der zuständigen Krankenkasse Kostenträgers traeger.extension:Kostentraeger typ.value[x]:valueCoding das Feld "Kategorie" gleich „01“ ist,  DANN  muss dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code Sprechstundenbedarf / Praxisbedarf ab. Das Mapping der Informationen aus Kapitel 36 : Mapping KBV_PR_ERP_PracticeSupply 2. Die Software muss es ermöglichen , alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu befüllen. a) Pflichtfelder sind unter Berücksichtigung der Vorgaben EXT_ITA_VGEX_Anforderungskatalog_AVWG b) Optionale Felder müssen befüllt werden können. 3. Die Instanz des KBV_PR_ERP_PracticeSupply Beschaffung von  auf das Profil KBV_PR_ERP_PracticeSupply muss wie folgt ] zu befüllen.   muss die folgenden Instanzen referenzieren können:
+Packungen Kostenträgertyp IK der zuständigen Krankenkasse Kostenträgers traeger.extension:Kostentraeger typ.value[x]:valueCoding Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code darf dieser Block nicht vorhanden sein. das Feld "Kategorie" gleich „01“ ist,  DANN  muss dieser Block vorhanden sein. Sprechstundenbedarf / Praxisbedarf ab. Das Mapping der Informationen aus Kapitel 36 : Mapping KBV_PR_ERP_PracticeSupply 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu befüllen. a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß EXT_ITA_VGEX_Anforderungskatalog_AVWG b) Optionale Felder müssen befüllt werden können.  3. Die Instanz des KBV_PR_ERP_PracticeSupply muss die folgenden Instanzen referenzieren können:  auf das Profil KBV_PR_ERP_PracticeSupply muss wie folgt ] zu befüllen.
 
 ---
 
@@ -1325,21 +1310,21 @@ Packungen Kostenträgertyp IK der zuständigen Krankenkasse Kostenträgers traeg
 
 **Tabelle 37: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply**
 
-- 4. Die Instanz KBV_PR_ERP_PracticeSupply darf nur genau eine Referenz auf eine Instanz eines  Medications-Profil in SupplyRequest.itemReference.reference
+- 4. Die Instanz KBV_PR_ERP_PracticeSupply darf nur genau eine Referenz auf eine Instanz eines ERP-Medications-Profil in SupplyRequest.itemReference.reference
 - 5. Die Software stellt sicher, dass der Wert des  größer als 0 ist.
 - enthalten.
 - Elementes „Anzahl der verordneten Packungen“ (Feld 113)
 
 #### HINWEIS
 
-- Die elektronische Verordnung von Sprechstundenbedarf / Praxisbedarf ist über den Fachdienst der  gematik aktuell ausgeschlossen (siehe P5-01). Sofern im Rahmen von Pilotprojekten elektronische  Verordnungen von Sprechstundenbedarf ausgestellt werden, sollten die Anforderungen nach  berücksichtigt werden.
-- Das Feld „Sprechstundenbedarf/ Praxisbedarf“ (ID 83) ist nicht zu befüllen.  Verordnung von Sprechstundenbedarf / Praxisbedarf ergibt sich durch die Instanziierung des Profils  KBV_PR_ERP_PracticeSupply. Wenn kein Sprechstundenbedarf  eine Instanziierung des Profils KBV_PR_ERP_Prescription.
+- Die elektronische Verordnung von Sprechstundenbedarf / Praxisbedarf ist über den Fachdienst der  gematik aktuell ausgeschlossen (siehe P5-01). Sofern im Rahmen von Pilotprojekten elektronische  Verordnungen von Sprechstundenbedarf ausgestellt werden, sollten die Anforderungen nach O36-27  berücksichtigt werden.
+- Das Feld „Sprechstundenbedarf/ Praxisbedarf“ (ID 83) ist nicht zu befüllen.  Verordnung von Sprechstundenbedarf / Praxisbedarf ergibt sich durch die Instanziierung des Profils  KBV_PR_ERP_PracticeSupply. Wenn kein Sprechstundenbedarf / Praxisbedarf verordnet wird, erfolgt  eine Instanziierung des Profils KBV_PR_ERP_Prescription.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
 | **P36-28** | Instanziierung KBV_PR_ERP_Composition |
 
-Die Software erzeugt eine Instanz des Profils KBV_PR_ERP_Composition als fachlichen Rahmen der  elektronischen Arzneimittelverordnung
+Die Software erzeugt eine Instanz des Profils KBV_PR_ERP_Composition als fachlichen Rahmen der  elektronischen Arzneimittelverordnung.
 
 #### Begründung:
 
@@ -1348,11 +1333,8 @@ Die Composition definiert die Gesamtheit von Informationen, die zu einem einzige
 #### Akzeptanzkriterium:
 
 - 1. Das Mapping der Informationen aus Kapitel 7 auf das Profil KBV_PR_ERP_Composition muss wie folgt  erfolgen:
-- ERP-
-- O36-27
-- Die Information über die
 
-FreeText Compounding PZN ngredient buch_DiMus- / Praxisbedarf verordnet wird, erfolgt
+FreeText Compounding PZN ngredient buch_DiMus- Die Information über die
 
 
 ---
@@ -1366,7 +1348,7 @@ FreeText Compounding PZN ngredient buch_DiMus- / Praxisbedarf verordnet wird, er
 | **Tabelle 42** | **FHIR®-Mapping Bedingung  (Feldnr. = IDs gemäß Tabelle 42** | **) ** Dokumententyp  2  Composition.type.coding.code = |
 |  | Prüfnummer  4  Composition.author:Pruefnumm er.identifier    WENN  ANSONSTEN | Kennzeichen  17  Composition.extension:Rechtsgr |
 |  | WENN  ANSONSTEN | PKV-Tarifart  139  Composition.extension:PKV- Tarif.value[x]:valueCoding |
-|  | WENN  ANSONSTEN **Tabelle 38: Mapping KBV_PR _ERP_Composition**  2.  a) | EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen.   b)  3. |
+|  | WENN  ANSONSTEN **Tabelle 38: Mapping KBV_PR_ERP_Composition**  2.  a) | EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen.   b)  3. |
 |  | **KBV_PR_ERP_COMPOSITI** | **Referenzierte Instanz** |
 |  | **FHIR®-Element Bedingung ** KBV_PR_ERP_Prescription  Composition.section.code.coding.code =  „Prescription | “ |
 
@@ -1378,7 +1360,7 @@ FreeText Compounding PZN ngredient buch_DiMus- / Praxisbedarf verordnet wird, er
 | Kennzeichen | 17 | Composition.extension:Rechtsgr | WENN  ANSONSTEN |
 | PKV-Tarifart | 139 | Composition.extension:PKV- Tarif.value[x]:valueCoding | WENN  ANSONSTEN |
 
-„e16A“ das Feld ID 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. Rechtsgrundlage  undlage.value[x]:valueCoding das Feld ID 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder "PKV" ist und KEIN "Sprechstundenbedarf / Praxisbedarf " verordnet wird, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld ID 7 gleich "PKV" ist, DANN ist dieses Feld optional darf dieses Feld nicht angegeben werden. Die Software muss es ermöglichen , alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben Optionale Felder müssen befüllt werden können. Die Instanz des KBV_PR_ERP_Composition muss die folgenden Instanzen referenzieren können:
+„e16A“ das Feld ID 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. Rechtsgrundlage  undlage.value[x]:valueCoding das Feld ID 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" oder "PKV" ist und KEIN "Sprechstundenbedarf / Praxisbedarf " verordnet wird, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld ID 7 gleich "PKV" ist, DANN ist dieses Feld optional darf dieses Feld nicht angegeben werden. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß Optionale Felder müssen befüllt werden können.  Die Instanz des KBV_PR_ERP_Composition muss die folgenden Instanzen referenzieren können:
 
 ---
 
@@ -1387,7 +1369,7 @@ FreeText Compounding PZN ngredient buch_DiMus- / Praxisbedarf verordnet wird, er
 |---|---|---|
 | KBV_ITA_VGEX_Technisches_Handbuch_ ] | KBV_PR_FOR_PractitionerR Composition.section.code.coding.code = | „FOR_PractitionerRole“ |
 |  | Composition.section.entry.reference = *<UUID der Instanz>*  Instanz gemäß P4-02 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] **Tabelle 39: Referenzierte Instanzen KBV_PR_ERP_Composition ** 4. | **PFLICHTFUNKTION ERP **  **P36-29** |
-| Instanziierung KBV_PR_ERP_Bundle | Die Software erzeugt eine Instanz des Profils KBV_PR_ERP_Bundle.  **Begründung:** Das Bundle ermöglicht das Zusammentragen von KBV Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der  gemILF_PS_eRp]. **Akzeptanzkriterium:  ** 1.  a) |  |
+| Instanziierung KBV_PR_ERP_Bundle | Die Software erzeugt eine Instanz des Profils KBV_PR_ERP_Bundle.  **Begründung:** Das Bundle ermöglicht das Zusammentragen von KBV-Profilen mit Kontext in einer einzigen Instanz. In  Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der ERP in die TI gemäß den  gemILF_PS_eRp]. **Akzeptanzkriterium:  ** 1.  a) |  |
 | KBV_PR_FOR_Patient | Composition.subject.reference = *<UUID der Instanz>* | Instanz gemäß P4-05 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] |
 | KBV_PR_FOR_Practitioner | Composition.author.type = „Practitioner“    Composition.author.reference =   *<UUID der Instanz>* | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] |
 | KBV_PR_FOR_Practitioner | Composition.attester.party.reference = | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ]    P36-34 ist zu berücksichtigen |
@@ -1395,7 +1377,7 @@ FreeText Compounding PZN ngredient buch_DiMus- / Praxisbedarf verordnet wird, er
 | KBV_PR_FOR_Organization | Composition.custodian.reference = *<UUID der Instanz>* | Instanz gemäß P4-03 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] |
 | KBV_PR_FOR_PractitionerR | Composition.section.code.coding.code =  „FOR_PractitionerRole“    Composition.section.entry.reference = *<UUID der Instanz>* | Instanz gemäß P4-02 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] |
 
-Die Instanz von KBV_PR_ERP_Composition darf nur genau eine Referenz auf entweder eine Instanz des Profils KBV_PR_ERP_Prescription oder auf eine Instanz des Profils enthalten. FHIR® wird dies als "Bündelung" der Ressourcen bezeichnet. Vorgaben der gematik [ Für die Übermittlung der ERP muss die Software ein Bundle gemäß KBV_PR_ERP_Bundle mit den vollständigen Instanzen der erforderlichen KBV-Profile erstellen können.  Dieses Profil muss unter dem FHIR KBV_PR_ERP_Composition sowie nachfolgend alle in der Instanz dieser Composition direkt oder indirekt referenzierten Instanzen als eigene Elemente enthalten. -Profilen mit Kontext in einer einzigen Instanz. In -Element entry.resource zuerst die Instanz des Profils DiMus DiMus DiMus DiMus DiMus DiMus KBV_PR_ERP_PracticeSupply ERP in die TI gemäß den | PFLICHTFUNKTION ERP |  |
+Die Instanz von KBV_PR_ERP_Composition darf nur genau eine Referenz auf entweder eine Instanz des Profils KBV_PR_ERP_Prescription oder auf eine Instanz des Profils KBV_PR_ERP_PracticeSupply enthalten. FHIR® wird dies als "Bündelung" der Ressourcen bezeichnet.  Vorgaben der gematik [ Für die Übermittlung der ERP muss die Software ein Bundle gemäß KBV_PR_ERP_Bundle mit den vollständigen Instanzen der erforderlichen KBV-Profile erstellen können.  Dieses Profil muss unter dem FHIR -Element entry.resource zuerst die Instanz des Profils KBV_PR_ERP_Composition sowie nachfolgend alle in der Instanz dieser Composition direkt oder indirekt referenzierten Instanzen als eigene Elemente enthalten.  DiMus DiMus DiMus DiMus DiMus DiMus| PFLICHTFUNKTION ERP |  |
 |---|---|
 | **P36-29** | Instanziierung KBV_PR_ERP_Bundle |
 
@@ -1403,20 +1385,21 @@ Die Instanz von KBV_PR_ERP_Composition darf nur genau eine Referenz auf entweder
 ---
 
 - 2. Das Mapping der Informationen aus Kapitel 7 auf das Profil KBV_PR_ERP_Bundle muss wie folgt  erfolgen:
-- 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 2 aufgeführten Datenfelder  automatisch befüllt werden.
 
 | KBV_PR_ERP_BUNDLE | | | |
 |---|---|---|---|
 | **Daten** | **IDs gemäß  Tabelle 42** | **FHIR®-Mapping** | **Bedingung  (Feldnr. = IDs gemäß Tabelle 42)** |
 | Dokumenten-ID | 5 | Bundle.identifier | gemäß den Vorgaben der gematik  gemILF_PS_eRp] über die    P36-37 ist zu berücksichtigen |
 
-**Tabelle 40: Mapping KBV_PR _ERP_Bundle**
+**Tabelle 40: Mapping KBV_PR_ERP_Bundle**
+
+- 3. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 2 aufgeführten Datenfelder  automatisch befüllt werden.
 
 **3.6.3** **Spezifische Vorgaben zum Umgang mit den ERP-Profilen**
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P36-31** | Verwendung des entsprechend der Verordnungssituation |
+| **P36-31** | Verwendung des entsprechend der Verordnungssituation korrekten ERP-Medication-Profils |
 
 Die Software muss entsprechend der vorliegenden Verordnungssituation das richtige Profil für die  Abbildung der Rezeptierdaten verwenden.
 
@@ -1428,7 +1411,12 @@ Im Rahmen des ERP können die Rezeptierdaten entweder
 - aus einer strukturierten Wirkstoffverordnung oder
 - aus einer strukturierten Rezepturverordnung oder
 - aus einer Freitextverordnung
-- 1. Das Profil KBV_PR_ERP_Medication_PZN muss verwendet werden, sofern Verordnungsinformationen  im Rahmen einer Verordnung aus den Preis- und Produktverzeichnissen nach § 131 SGB V (PZN bezogene Verordnung) übermittelt werden.
+
+stammen. Für alle vier Varianten wurde jeweils ein einzelnes Profil erstellt, welche entsprechend der  jeweiligen Verordnungssituation zu verwenden ist.
+
+**Akzeptanzkriterium:**
+
+- 1. Das Profil KBV_PR_ERP_Medication_PZN muss verwendet werden, sofern Verordnungsinformationen  im Rahmen einer Verordnung aus den Preis- und Produktverzeichnissen nach § 131 SGB V (PZN-bezogene Verordnung) übermittelt werden.
 - Entsprechend **P3-621** der Anlage 23 BMV-Ä [EXT_ITA_VGEX_Anforderungskatalog_AVWG
 - 2. Das Profil KBV_PR_ERP_Medication_Ingredient muss verwendet werden, sofern  Verordnungsinformationen im Rahmen einer Wirkstoffverordnung übermittelt werden.
 - Entsprechend **O3-622** der Anlage 23 BMV-Ä [EXT_ITA_VGEX_Anforderungskatalog_AVWG
@@ -1437,11 +1425,8 @@ Im Rahmen des ERP können die Rezeptierdaten entweder
 - 4. Das Profil KBV_PR_ERP_Medication_FreeText muss verwendet werden, sofern  Verordnungsinformationen im Rahmen einer freitextlichen Verordnung übermittelt werden.
 - Entsprechend **P3-624** der Anlage 23 BMV-Ä [EXT_ITA_VGEX_Anforderungskatalog_AVWG
 
-stammen. Für alle vier Varianten wurde jeweils ein einzelnes Profil erstellt, welche entsprechend der  jeweiligen Verordnungssituation zu verwenden ist.
+Komponenten der TI -
 
-**Akzeptanzkriterium:**
-
-Komponenten der TI korrekten ERP-Medication-Profils
 
 ---
 
@@ -1479,7 +1464,7 @@ Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Fun
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P36-34** | Abbildung verantwortliche Person in KBV_PR |
+| **P36-34** | Abbildung verantwortliche Person in KBV_PR_ERP_Composition |
 
 Das ERP ermöglicht es neben der Person, welche die Verordnung ausstellt, auch zusätzliche eine für die  Verordnung verantwortliche Person zu hinterlegen.
 
@@ -1489,7 +1474,7 @@ Sofern es sich bei der die Verordnung ausstellenden Person um einen Arzt in Weit
 
 **Akzeptanzkriterium:**
 
-_ERP_Composition - 1. Die Software muss in dem Profil KBV_PR_ERP_Composition ermöglichen, dass neben der ausstellenden  Person (über composition.author.reference und composition.author.type = „Practitioner“) auch die  verantwortliche Person (über composition.attester.party.reference) hinterlegt werden kann.
+- 1. Die Software muss in dem Profil KBV_PR_ERP_Composition ermöglichen, dass neben der ausstellenden  Person (über composition.author.reference und composition.author.type = „Practitioner“) auch die  verantwortliche Person (über composition.attester.party.reference) hinterlegt werden kann.
 
 
 ---
@@ -1526,7 +1511,7 @@ Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Fun
 |---|---|
 | **K36-36** | Abbildung Krankenversicherungsverhältnis bei Verordnung von Sprechstundenbedarf |
 
-Verwendung des Elements MedicationRequest.dosageInstruction.patientInstruction  in
+Verwendung des Elements MedicationRequest.dosageInstruction.patientInstruction in
 
 ---
 
@@ -1549,7 +1534,7 @@ Im Rahmen der Verordnung von Sprechstundenbedarf / Praxisbedarf sind die Informa
 
 **Bedingung:**
 
-Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Funktion O36-27  umgesetzt hat.
+Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Funktion  umgesetzt hat.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -1563,9 +1548,12 @@ Durch die Verwendung einer Rezept-ID, welche vom E-Rezept-Fachdienst der gematik
 
 **Akzeptanzkriterium:**
 
-- 1. Das System muss für jede Instanz eines ERP jeweils eine Rezept-ID der gematik gemäß der Anforderung  A_19276 im Dokument [gemILF_PS_eRp] vom E-Rezept-Fachdienst der gematik abrufen und im Element  identifier in der Instanz des Profils KBV_PR_ERP_Bundle hinterlegen.
+- 1. Das System muss für jede Instanz eines ERP jeweils eine Rezept-ID der gematik gemäß der Anforderung  A_19276 im Dokument [ identifier in der Instanz des Profils KBV_PR_ERP_Bundle hinterlegen.
 
-ension:Kostentraegertyp.value[x]:valueCodi Krankenkasse (ID 9) Kostenträgers
+O36-27
+
+Krankenkasse (ID 9) Kostenträgers  ension:Kostentraegertyp.value[x]:valueCodi- gemILF_PS_eRp] vom E-Rezept-Fachdienst der gematik abrufen und im Element
+
 
 ---
 
@@ -1577,7 +1565,7 @@ Bei einer Verordnung im Kontext der Versorgung durch die Deutsche Gesetzliche Un
 
 **Begründung:**
 
-Die Vorgabe dient der Sicherstellung der eindeutigen Zuordnung des verantwortlichen Kostenträgers im  Rahmen der Abrechnung von Verordnungen zu Lasten der Kostenträger der DGUV
+Die Vorgabe dient der Sicherstellung der eindeutigen Zuordnung des verantwortlichen Kostenträgers im  Rahmen der Abrechnung von Verordnungen zu Lasten der Kostenträger der DGUV.
 
 **Akzeptanzkriterium:**
 
@@ -1594,13 +1582,13 @@ Die Software muss sicherstellen, dass das in dem FHIR-Datensatz hinterlegte Auss
 
 Um verschiedene Prozesse der Vorbereitung und Ausstellung von Arzneimittelverordnungen durch die  Mitarbeitenden der Praxis zu unterstützen, muss es möglich sein, dass das Ausstellungsdatum einer  Verordnung zum tatsächlich Ausstellungszeitpunkt gesetzt wird bzw. gesetzt werden kann.
 
-Für eine valide Verordnung muss das Ausstellungsdatum dem Signaturdatum entsprechen. Wenn  Ausstellungsdatum und Signaturzeitpunkt voneinander abweichen, wird der Verordnungsdatensatz vom E Rezept-Fachdienst mit einem Fehler abgewiesen ([gemILF_PS_eRp] Anforderung A_22893).
+Für eine valide Verordnung muss das Ausstellungsdatum dem Signaturdatum entsprechen. Wenn  Ausstellungsdatum und Signaturzeitpunkt voneinander abweichen, wird der Verordnungsdatensatz vom E-Rezept-Fachdienst mit einem Fehler abgewiesen ([gemILF_PS_eRp] Anforderung A_22893).
 
 **Akzeptanzkriterium:**
 
 - 1. Die Software prüft direkt vor der Anforderung einer Signatur gemäß P4-01, ob das Ausstellungsdatum  (MedicationRequest.authoredOn) in dem FHIR-Datensatz dem aktuellen Datum entspricht.
 - a) Sofern eine Abweichung vorliegt, aktualisiert das System automatisch das Ausstellungsdatum auf das  aktuelle Tagesdatum.
-- b) Im Anschluss startet automatisch der angeforderte Signaturvorgang
+- b) Im Anschluss startet automatisch der angeforderte Signaturvorgang.
 - 2. Die Datumsangabe muss in deutscher Zeit (Mitteleuropäische Zeitzone) erfasst werden.
 
 | OPTIONALE FUNKTION ERP |  |
@@ -1622,7 +1610,7 @@ IK des Kostenträgers im DGUV-Fall
 - b) Standardmäßig (nach Installation bzw. Bereitstellung der Funktion) ist die automatische  Aktualisierung zu deaktivieren.
 - 1. Die Software muss bei PZN- und Wirkstoffverordnungen die Wirkstoffmenge der Wirkstärke eines  Wirkstoffs getrennt nach Zahlenwert (Felder 120a bzw. 159a) und Einheit (Felder 120b und 159b)  angeben.
 
-Die Software darf zum Zeitpunkt der Anforderung der qualifizierten elektronischen Signatur die in dem  FHIR-Datensatz hinterlegte ausstellende Person aktualisieren
+Die Software darf zum Zeitpunkt der Anforderung der qualifizierten elektronischen Signatur die in dem  FHIR-Datensatz hinterlegte ausstellende Person aktualisieren.
 
 **Begründung:**
 
@@ -1634,7 +1622,7 @@ Für eine valide Verordnung muss die im eRezept-Datensatz hinterlegte ausstellen
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P36-41** | Vorgaben zu Wirkstoffangaben bei PZN |
+| **P36-41** | Vorgaben zu Wirkstoffangaben bei PZN- und Wirkstoffverordnungen |
 
 Die Wirkstärke ist für PZN- und Wirkstoffverordnungen strukturiert anzugeben. Falls für einen aktiven  Wirkstoff zusätzliche Informationen zu einem äquivalenten Wirkstoff vorliegen, können diese alternativ  angegeben werden.
 
@@ -1642,7 +1630,7 @@ Die Wirkstärke ist für PZN- und Wirkstoffverordnungen strukturiert anzugeben. 
 
 Die Angabe der Wirkstärke für PZN- und Wirkstoffverordnungen erfolgt getrennt nach Wirkstoffmenge und  Bezugsmenge. Liegen für einen aktiven Wirkstoff zusätzliche Informationen zu einem äquivalenten  Wirkstoff vor, können diese alternativ im Verordnungsdatensatz angegeben werden. Häufig wird damit auf  die einem Wirkstoff zu Grunde liegende freie Säure oder Base Bezug genommen.
 
-- und Wirkstoffverordnungen **Akzeptanzkriterium:**
+**Akzeptanzkriterium:**
 
 
 ---
@@ -1653,7 +1641,7 @@ Die Angabe der Wirkstärke für PZN- und Wirkstoffverordnungen erfolgt getrennt 
 
 **Beispiele:**
 
-- 1. PZN 12724045: Inhalt der Datenbank 50 mg, 1 Stück   Feldbelegung:
+- 1. PZN 12724045: Inhalt der Datenbank 50 mg, 1 Stück  Feldbelegung:
 - a. 159a = 50
 - b. 159b = mg
 - c. 159c = 1
@@ -1676,15 +1664,11 @@ Es wird empfohlen, bei PZN-Verordnungen die Angaben des äquivalenten Wirkstoffs
 |---|---|
 | **P36-42** | Verwendung der entsprechend dem Arzneimittel korrekten Kategorie |
 
-Die Software muss sicherstellen, dass das in dem FHIR Arzneimittelkategorie (Feldname „Kategorie“ ID 81)
+Die Software muss sicherstellen, dass das in dem FHIR-Datensatz hinterlegte Kennzeichen für die  Arzneimittelkategorie (Feldname „Kategorie“ ID 81) dem verordneten Arzneimittel entspricht.
 
 **Begründung:**
 
-Die Arzneimittelkategorie dient der Unterscheidung zwischen in die  einbezogenen Arzneimitteln, Betäubungsmitteln (BtM) und teratogenen Arzneimitteln (T-Rezept). Für die
-
--Datensatz hinterlegte Kennzeichen für die  dem verordneten Arzneimittel entspricht.
-
-Versorgung nach § 31 SGB V
+Die Arzneimittelkategorie dient der Unterscheidung zwischen in die Versorgung nach § 31 SGB V  einbezogenen Arzneimitteln, Betäubungsmitteln (BtM) und teratogenen Arzneimitteln (T-Rezept). Für die
 
 
 ---
@@ -1745,12 +1729,12 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der ERP-Profile  von KBV_PR_ERP_Bundle - mit einer qualifizierten elektronischen Signatur  elektronischen Heilberufsausweises (eHBA) versehen wird.
+- 1. Die Software stellt sicher, dass die zu versendende Instanz auf Basis der ERP-Profile  sprich die Instanz  von KBV_PR_ERP_Bundle - mit einer qualifizierten elektronischen Signatur unter Verwendung eines  elektronischen Heilberufsausweises (eHBA) versehen wird.
 - 2. Der Anwender muss die folgenden Möglichkeiten haben:
 - a) Setzen einer Stapelsignatur auf die erzeugten Instanzen
 - b) Setzen einer Einzelsignatur auf die erzeugte Instanz
-- 3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des  Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise  PIN-Eingabe und Komfortsignatur) unterstützen.
-- 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik Rezept [gemILF_PS_eRp] zu entnehmen.
+- 3. Die Software muss eine Signaturerstellung mittels der Komponenten der TI (Basisfunktionalität des  Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (beispielweise einzelne  PIN-Eingabe und Komfortsignatur) unterstützen.
+- 4. Die weiteren Anforderungen an die Signatur sind den Vorgaben der gematik für die Fachanwendung E-Rezept [gemILF_PS_eRp] zu entnehmen.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -1764,18 +1748,12 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 **Akzeptanzkriterium:**
 
-- 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets [ lassen.
-- 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML des Stylesheets [ERP-Stylesheet] ermöglicht wird.
+- 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets [ERP-Stylesheet] anzeigen zu  lassen.
+- 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML-Repräsentation auf Basis  des Stylesheets [ERP-Stylesheet] ermöglicht wird.
 
 **HINWEIS**
 
 Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewählten  Algorithmus einzelne Instanzen anzeigen und so die Prüfung erleichtern.
-
-- sprich die Instanz  unter Verwendung eines
-- einzelne
-- für die Fachanwendung E-
-- ERP-Stylesheet] anzeigen zu
-- -Repräsentation auf Basis
 
 
 ---
@@ -1784,7 +1762,7 @@ Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eine
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P5-01** | Umsetzung der Vorgaben der gematik |
+| **P5-01** | Umsetzung der Vorgaben der gematik zum E-Rezept |
 
 Die Übertragung der ERP erfolgt in der TI über die Fachanwendung E-Rezept. Die Software des Anwenders  setzt dazu die definierten Anforderungen der gematik zum E-Rezept um.
 
@@ -1794,19 +1772,34 @@ Gemäß § 312 Absatz 1 Punkt 1 SGB V hat zum 30. Juni 2020 die gematik die Maß
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRp] für die Übermittlung der ERP im  Rahmen der Fachanwendung E-Rezept in der TI um.
-- 2. Die Software muss **bis einschließlich** **31.12.2025** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherten bei einem „Sonstigen Kostenträger“  versichert ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG] und [Anlage  2]..
-- a) Identifizierung eines „Sonstigen Kostenträgers“:   Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT] [KBV_ITA_VGEX_Anforderungskatalog_KVDT]) ist immer >= 800 und der Kostenträger Abrechnungsbereich kann 00 - 09 sein.  **Beispiel**: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 27860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
-- 3. Die Software muss **ab dem 01.01.2026** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn für den Versicherten keine VersichertenID (ID 19a)  vorhanden ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG] und [Anlage  2
+- 1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRp Rahmen der Fachanwendung E-Rezept in der TI um.
+- 2. Die Software muss **bis einschließlich** **31.12.2025** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherten bei einem „Sonstigen Kostenträger“  versichert ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG 2]..
+- a) Identifizierung eines „Sonstigen Kostenträgers“:   Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT],  [KBV_ITA_VGEX_Anforderungskatalog_KVDT]) ist immer >= 800 und der Kostenträger-Abrechnungsbereich kann 00 - 09 sein.  **Beispiel**: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 27860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
+- 3. Die Software muss **ab dem 01.01.2026** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn für den Versicherten keine VersichertenID (ID  vorhanden ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG 2
 - a) Sofern der Versicherte bei einem „Sonstigen Kostenträger“ versichert ist, muss das Feld  Kostenträgertype (ID 7) mit dem Wert „SKT“ befüllt sein.
 - Identifizierung eines „Sonstigen Kostenträgers“:
-- Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT KBV_ITA_VGEX_Anforderungskatalog_KVDT]) ist immer >= 800 und der Kostenträger Abrechnungsbereich kann 00 - 09 sein.
+- Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT KBV_ITA_VGEX_Anforderungskatalog_KVDT]) ist immer >= 800 und der Kostenträger-Abrechnungsbereich kann 00 - 09 sein.
 - Beispiel: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
-- 4. Die Software stellt sicher, dass der Versand eines ERP über die Fachanwendung E-Rezept nicht erfolgt,  wenn eine Verordnung von Sprechstundenbedarf / Praxisbedarf vorgenommen werden soll.
+- 4. Die Software stellt sicher, dass der Versand eines ERP über die Fachanwendung E-Rezept nicht erfolgt,  wenn eine Verordnung von Sprechstundenbedarf / Praxisbedarf
 
 **HINWEIS**
 
-zum E-Rezept - Gemäß dem Anforderungskatalog für Verordnungssoftware  EXT_ITA_VGEX_Anforderungskatalog_AVWG] muss die Software die Verordnung auf Muster 16 in  Papierform weiter ermöglichen. Im Kontext des E-Rezeptes greift dies insbesondere im Rahmen von  technischen Störungen der TI oder bei mobilen Versorgungssituationen, wie bspw. Haus- und  Heimbesuchen.
+- Gemäß dem Anforderungskatalog für Verordnungssoftware  EXT_ITA_VGEX_Anforderungskatalog_AVWG] muss die Software die Verordnung auf Muster 16 in  Papierform weiter ermöglichen. Im Kontext des E-Rezeptes greift dies insbesondere im Rahmen von  technischen Störungen der TI oder bei mobilen Versorgungssituationen, wie bspw. Haus- und  Heimbesuchen.
+- ] für die Übermittlung der ERP im
+- ] und [Anlage
+
+```
+-
+```
+
+- 19a)
+- ] und [Anlage
+
+```
+-
+```
+
+- vorgenommen werden soll.
 
 
 ---
@@ -1816,9 +1809,9 @@ zum E-Rezept - Gemäß dem Anforderungskatalog für Verordnungssoftware  EXT_ITA
 |---|---|---|---|
 | **Feld (ID gemäß  Tabelle 42)** | Betroffene Profile | Betroffenes Element | Default-Wert |
 | Zuzahlungsstatus (ID | KBV_PR_ERP_Prescription | MedicationRequest.ext ension:Zuzahlungsstatu s.value[x]:valueCoding | gleich "BG" oder "UK" ist,   ANSONSTEN |
-|  | **PFLICHTFUNKTION ERP **  **P6-01 ** Erstellung von validen Dateien in der Software  Die Software muss sicherstellen, dass die erstellte und zu versendende **Begründung:** Für die fehlerfreie Weiterverarbeitung der **Akzeptanzkriterium:  ** 1.  ERP-Profil | ] entsprechen.   2.    › |  |
-| https://fachportal.gematik.de/hersteller | verwendet werden. | **PFLICHTFUNKTION ERP ** |  |
-| **P6-02** | Verwendung von Default-Werten  Die Software muss bestimmte Informationen standardmäßig im Rahmen der elektronischen **Begründung:** Die automatische Vorbelegung von bestimmten **Akzeptanzkriterium:  ** 1.   **Feld (ID gemäß  Tabelle 42)** | Betroffene Profile   Betroffenes Element  Default-Wert  Zuzahlungsstatus (ID | KBV_PR_ERP_Prescription |
+|  | **PFLICHTFUNKTION ERP **  **P6-01 ** Erstellung von validen Dateien in der Software  Die Software muss sicherstellen, dass die erstellte und zu versendende ERP-Datei den ERP- und FOR-**Begründung:** Für die fehlerfreie Weiterverarbeitung der ERP in den nachfolgenden Systemen muss eine valide FHIR®-**Akzeptanzkriterium:  ** 1.  ERP-Profil | ] entsprechen.   2.    › |  |
+| https://fachportal.gematik.de/hersteller- | verwendet werden. | **PFLICHTFUNKTION ERP ** |  |
+| **P6-02** | Verwendung von Default-Werten  Die Software muss bestimmte Informationen standardmäßig im Rahmen der elektronischen **Begründung:** Die automatische Vorbelegung von bestimmten Informationen erleichtert die Nutzung des ERPs. **Akzeptanzkriterium:  ** 1.   **Feld (ID gemäß  Tabelle 42)** | Betroffene Profile   Betroffenes Element  Default-Wert  Zuzahlungsstatus (ID | KBV_PR_ERP_Prescription |
 | MedicationRequest. | ext | ension:Zuzahlungsstatu s.value[x]:valueCoding  gleich "BG" oder "UK" ist,   ANSONSTEN | **HINWEIS** |
 |  |  |  |  |
 |  |  |  |  |
@@ -1835,7 +1828,7 @@ zum E-Rezept - Gemäß dem Anforderungskatalog für Verordnungssoftware  EXT_ITA
 |---|---|
 | **P6-02** | Verwendung von Default-Werten |
 
-FESTLEGUNG FÜR DIE SOFTWARE ÜBERGREIFENDE ANFORDERUNGEN Profilen entspricht.  ERP in den nachfolgenden Systemen muss eine valide FHIR® Instanz erstellt werden.  Die Software stellt auf geeignete Weise sicher, dass die erzeugten versendenden Dateien valide sind und den ERP-FHIR-Profilen [ Die Software stellt sicher, dass bei der Erstellung der des Informationsmodells eingehalten werden. Zum Zwecke der Qualitätssicherung während des gesamten Entwicklungsprozesses von FHIR Umsetzungen kann beispielweise der TI-Validator anbieter/primaersysteme/referenzvalidator Arzneimittelverordnung vorbelegen. Informationen erleichtert die Nutzung des ERPs. Die Software muss die folgenden Elemente der ERP vorbelegen: 77) ERP-Datei den ERP- und FOR- , zu signierenden und zu ERP-FHIR-Instanzen die definierten Bedingungen -Profile mit den genannten Werten automatisch WENN das Feld Kostenträgertyp (ID 7) DANN ist der Default-Wert = 1 ist der Default-Wert = 0.
+FESTLEGUNG FÜR DIE SOFTWARE ÜBERGREIFENDE ANFORDERUNGEN Profilen entspricht.  Instanz erstellt werden.  Die Software stellt auf geeignete Weise sicher, dass die erzeugten, zu signierenden und zu versendenden Dateien valide sind und den ERP-FHIR-Profilen [ Die Software stellt sicher, dass bei der Erstellung der ERP-FHIR-Instanzen die definierten Bedingungen des Informationsmodells eingehalten werden.  Zum Zwecke der Qualitätssicherung während des gesamten Entwicklungsprozesses von FHIR- Umsetzungen kann beispielweise der TI-Validator anbieter/primaersysteme/referenzvalidator Arzneimittelverordnung vorbelegen. Die Software muss die folgenden Elemente der ERP-Profile mit den genannten Werten automatisch vorbelegen: 77) WENN das Feld Kostenträgertyp (ID 7) DANN ist der Default-Wert = 1 ist der Default-Wert = 0.
 
 ---
 
@@ -1881,7 +1874,7 @@ Auf Wunsch des Versicherten muss die Einlösung eines ERP in einer Apotheke auch
 - 3. Die Software kann die automatische Bereitstellung des Ausdrucks ermöglichen, wenn der Anwender  dies vorher per Konfiguration bspw. patientenindividuell hinterlegt hat.
 - 4. Die Software darf den Ausdruck erst ermöglichen, wenn jedes signierte E-Rezept für den Versicherten  erfolgreich in den Fachdienst eingestellt wurde.
 - a) Die Software muss den Ausdruck zu einem beliebigen Zeitpunkt ermöglichen.
-- b) Auch ein wiederholter Ausdruck ist zu ermöglichen
+- b) Auch ein wiederholter Ausdruck ist zu ermöglichen.
 
 **HINWEIS**
 
@@ -1902,13 +1895,20 @@ Ihres E-Rezeptes Ihrer Verordnung: E-RezeptFür eine übersichtliche Handhabbark
 
 ---
 
-**Akzeptanzkriterium:**
-
 - 1. Die Software muss bis zu vier drei ERP für einen Versicherten in dem Ausdruck erfassen können.
 - 2. Der Anwender muss die Möglichkeit haben, die aufzudruckenden ERP-Instanzen auswählen zu können.
 - 3. Die Software muss den Anwender bei der Auswahl der zu druckenden ERPs unterstützen   beispielsweise durch Vorauswahl aller noch nicht gedruckten ERP des aktuellen Tages.
 - 4. Die Software muss sicherstellen, dass auf einem Ausdruck ausschließlich ERP von einem Versicherten  enthalten sind.
 - 5. Im Rahmen einer Mehrfachverordnung muss bei der Zusammenstellung der ERP-Instanzen für den  Ausdruck zusätzlich P6-221 berücksichtigt werden.
+- 1. Die Software muss die ERP-Instanzen der letzten maximal vier drei Teilverordnungen einer  Mehrfachverordnung in aufsteigender Reihenfolge (von links oben nach rechts oben nach links unten) in  einem Ausdruck zusammenfassen. P6-22 ist zu berücksichtigen.
+- 2. Die Software muss die auf dem Ausdruck enthaltene ERP-Instanzen so optimieren, dass neben den  Teilverordnungen der Mehrfachverordnung auch weitere Verordnungen angegeben werden können.
+- 1. Das Layout des Ausdrucks muss der in der [Vorlage Patientenausdruck] abgebildeten Form entsprechen  (siehe hierzu auch Abbildung 1).
+- 2. Die Inhalte des Ausdrucks müssen den Vorgaben der Pflichtfunktionen P6-24 bis P6-32 entsprechen.
+- 3. Der Anwender muss die Möglichkeit haben, den Ausdruck im DIN-A5- oder DIN-A4-Format  auszudrucken.
+- a) Die Einstellung des zu verwendenden Papierformats muss konfigurierbar sein.
+- b) Eine Veränderung der Skalierung in Abhängigkeit des gewählten Formats ist nicht zulässig. Somit  muss auch beim Druck auf ein DIN-A4-Blatt der Ausdruck die Maße des DIN-A5-Formats haben.
+
+**Akzeptanzkriterium:**
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -1922,9 +1922,6 @@ Für eine übersichtliche Handhabbarkeit soll der Ausdruck möglichst die Teilve
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die ERP-Instanzen der letzten maximal vier drei Teilverordnungen einer  Mehrfachverordnung in aufsteigender Reihenfolge (von links oben nach rechts oben nach links unten) in  einem Ausdruck zusammenfassen. P6-22 ist zu berücksichtigen.
-- 2. Die Software muss die auf dem Ausdruck enthaltene ERP-Instanzen so optimieren, dass neben den  Teilverordnungen der Mehrfachverordnung auch weitere Verordnungen angegeben werden können
-
 | PFLICHTFUNKTION ERP |  |
 |---|---|
 | **P6-23** | Layout des „Ausdruck zur Einlösung |
@@ -1935,24 +1932,17 @@ Die Software muss für das Layout des Ausdrucks einheitliche Vorgaben berücksic
 
 Für eine systemübergreifende einheitliche Darstellung des Ausdrucks sind spezifische Layoutvorgaben zu  berücksichtigen.
 
-**Akzeptanzkriterium:**
-
-- 1. Das Layout des Ausdrucks muss der in der [Vorlage Patientenausdruck] abgebildeten Form entsprechen  (siehe hierzu auch Abbildung 1).
-- 2. Die Inhalte des Ausdrucks müssen den Vorgaben der Pflichtfunktionen P6-24 bis P6-32 entsprechen.
-- 3. Der Anwender muss die Möglichkeit haben, den Ausdruck im DIN-A5- oder DIN-A4-Format  auszudrucken.
-- a) Die Einstellung des zu verwendenden Papierformats muss konfigurierbar sein.
-
-Ausdruck  Ihres E-Rezeptes Ihrer Verordnung: E-Rezept- b) Eine Veränderung der Skalierung in Abhängigkeit des gewählten Formats ist nicht zulässig. Somit  muss auch beim Druck auf ein DIN-A4-Blatt der Ausdruck die Maße des DIN-A5-Formats haben.
+Ausdruck  Ihres E-Rezeptes Ihrer Verordnung: E-Rezept**Akzeptanzkriterium:**
 
 
 ---
 
-- 4. Die Software muss sicherstellen, dass die gemäß P6 in den 2D-Codes und Ruhebereichen nach P6-31 und P6-311 gedruckt werden. Hierbei sind die Höhe  und Breite der vorgegebenen Druckbereiche in der [
-- 5. Die Software muss sicherstellen, dass die Positionierung der 2D entspricht.
+- 4. Die Software muss sicherstellen, dass die gemäß P6-24 bis P6-30 aufzudruckenden Informationen nicht  in den 2D-Codes und Ruhebereichen nach P6-31 und P6-311 gedruckt werden. Hierbei sind die Höhe  und Breite der vorgegebenen Druckbereiche in der [
+- 5. Die Software muss sicherstellen, dass die Positionierung der 2D-Codes der [Vorlage Patientenausdruck]  entspricht.
 
 **HINWEIS**
 
-- Das Layout des Ausdrucks ist so gewählt, dass insbesondere die 2D liegen. Somit soll die Unversehrtheit des 2D-Codes bei einem eventuellen Zusammenfalten des  Ausdrucks gewährleistet werden. Die Positionierung ist somit zwingend einzuhalten.
+- Das Layout des Ausdrucks ist so gewählt, dass insbesondere die 2D-Codes nicht auf Standard-Faltlinien  liegen. Somit soll die Unversehrtheit des 2D-Codes bei einem eventuellen Zusammenfalten des  Ausdrucks gewährleistet werden. Die Positionierung ist somit zwingend einzuhalten.
 - Es darf nur die tatsächlich notwendige Anzahl an Verordnungen (durch den Anwender zum Ausdruck  ausgewählte ERP-Instanzen gemäß P6-22) aufgedruckt werden. In der musterartigen Darstellung  Abbildung 1) ist der zur Verfügung stehende Platz für die Abbildung der Informationen von drei ERP  vollständig mit beispielhaften Verordnungsinformationen belegt. Bei weniger abzubildenden ERP sind  entsprechend weniger Informationen und 2D-Codes zu drucken.
 - Bei Druck auf ein DIN-A4-Blatt sollte die Ausrichtung des Ausdrucks „Hochformat“ voreingestellt sein, so  dass die Informationen in der oberen Hälfte des Blattes aufgedruckt werden.
 
@@ -1962,17 +1952,9 @@ Siehe P6-25
 
 Siehe P6-31
 
-**Abbildung 1: Exemplarischer „Ausdruck zur Einlösung Ihres E-Rezeptes Ihrer Verordnung: E -Rezept"**
+**Abbildung 1: Exemplarischer „Ausdruck zur Einlösung Ihres E-Rezeptes Ihrer Verordnung: E-Rezept"**
 
-- -24 bis P6-30 aufzudruckenden Informationen nicht
 - Vorlage Patientenausdruck] einzuhalten.
-- -Codes der [Vorlage Patientenausdruck]
-- -Codes nicht auf Standard-Faltlinien
-
-```
--
--
-```
 
 Siehe P6-243
 
@@ -1999,7 +1981,7 @@ Siehe P6-30
 
 | OPTIONALE FUNKTION ERP |  |
 |---|---|
-| **O6-231** | Zwei Patientenausdrucke einer Person auf einem DIN |
+| **O6-231** | Zwei Patientenausdrucke einer Person auf einem DIN-A4-Blatt |
 
 Die Software kann den Ausdruck von zwei Patientenausdrucken einer Person auf einem DIN-A4-Blatt  unterstützen.
 
@@ -2036,14 +2018,20 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss der 
 - Die Reihenfolge der Daten muss im Ausdruck entsprechend der Auflistung erfolgen.
 - Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
 - 2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen aus gemäß  Akzeptanzkriterium (1) ausreicht.
-
--A4-Blatt - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs gemäß  Tabelle 42) vollständig abgebildet werden:
+- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs gemäß  Tabelle 42) vollständig abgebildet werden:
 
 
 ---
 
 - Vorname des Versicherten   (ID 20)
 - Nachname des Versicherten  (ID 21)
+- 1. In dem Bereich „geboren am“ ist das Geburtsdatum (ID 25 gemäß Tabelle 42) in der Form TT.MM.JJJJ zu  hinterlegen.
+- 1. In dem Bereich "Versichertennummer" sind die folgenden Informationen aufzudrucken:
+- a) VersichertenID (ID 19a gemäß Tabelle 58)
+- 1. In dem Bereich der Überschrift muss hinter den Text „Ausdruck zur Einlösung Ihrer Verordnung:“ der  Text „ E Rezept“ aufgedruckt werden. Der Text „ E Rezept“ muss dieselbe Schriftart, dieselbe  Schriftgröße und denselben Schriftschnitt haben wie der Text „Ausdruck zur Einlösung Ihrer  Verordnung:“.
+- a) Der Schriftschnitt ist „fett“.
+- b) Die Schriftart ist Helvetica (ggf. artverwandt, d.h. ohne Serifen und proportional).
+- c) 3. Die Schriftgröße ist 12 pt.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -2057,8 +2045,6 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss das 
 
 **Akzeptanzkriterium:**
 
-- 1. In dem Bereich „geboren am“ ist das Geburtsdatum (ID 25  hinterlegen.
-
 | PFLICHTFUNKTION ERP |  |
 |---|---|
 | **P6-242** | Aufzudruckende Informationen in dem Bereich "Versichertennummer" |
@@ -2071,37 +2057,19 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss die 
 
 **Akzeptanzkriterium:**
 
-- 1. In dem Bereich "Versichertennummer" sind die folgenden Informationen aufzudrucken:
-- a) VersichertenID (ID 19a gemäß Tabelle 58)
-
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P6-243** | Aufzudruckende Informationen in der Überschrift |
+| **P6-243** | Aufzudruckende Informationen in der Überschrift des Patientenausdruckes |
 
-Die Software muss auf dem Ausdruck im Bereich der Überschrift den Wert „
+Die Software muss auf dem Ausdruck im Bereich der Überschrift den Wert „ E-Rezept“ aufdrucken.
 
 **Begründung:**
 
-Um einem Versicherten die Zuordnung des Patientenausdruckes zu ermöglichen werden, um was für einen Patientenausdruck es sich handelt.
+Um einem Versicherten die Zuordnung des Patientenausdruckes zu ermöglichen, muss aufgedruckt  werden, um was für einen Patientenausdruck es sich handelt.
 
 **Akzeptanzkriterium:**
 
-- 1. In dem Bereich der Überschrift muss hinter den Text „Ausdruck zur Einlösung Ihrer Verordnung:“ der  Text „ E Rezept“ aufgedruckt werden. Der Text „ E Rezept“ muss dieselbe Schriftart, dieselbe  Schriftgröße und denselben Schriftschnitt haben wie der Text „Ausdruck zur Einlösung Ihrer  Verordnung:“.
-- a) Der Schriftschnitt ist „fett“.
-- b) Die Schriftart ist Helvetica (ggf. artverwandt, d.h. ohne Serifen und proportional).
-- c) 3. Die Schriftgröße ist 12 pt.
-- gemäß Tabelle 42) in der Form TT.MM.JJJJ zu
-
-```
--
-```
-
-E-Rezept“ aufdrucken.
-
-, muss aufgedruckt
-
-oren am“  des Patientenausdruckes -
-
+oren am“
 
 ---
 
@@ -2119,53 +2087,32 @@ Um eine Zuordnung des Ausdrucks zu der verschreibenden Person zu ermöglichen, m
 
 - 2. In dem Bereich „ausgestellt von“ sind in bis zu fünf Zeilen die folgenden Angaben zu hinterlegen (IDs  gemäß Tabelle 42
 - b) In der ersten und ggfs. zweiten Zeile ist der vollständige Name der verschreibenden Person  bestehend aus den folgenden Informationen aufzudrucken:
-- Titel der verschreibenden Person
-- Vorname der verschreibenden Person
-- Namenszusatz der verschreibenden Person
-- Vorsatzwort der verschreibenden Person
-- Nachname der verschreibenden Person
+- Titel der verschreibenden Person   (ID 46)
+- Vorname der verschreibenden Person   (ID 44)
+- Namenszusatz der verschreibenden Person (ID 47)
+- Vorsatzwort der verschreibenden Person  (ID 48)
+- Nachname der verschreibenden Person  (ID 45)
 - Die Reihenfolge der Daten im Ausdruck muss entsprechend der Auflistung erfolgen.
 - Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
-- c) In der auf den Namen folgenden Zeilen ist d aufzudrucken.
-- d) In der folgenden Zeile ist die Telefonnummer der
+- c) In der auf den Namen folgenden Zeilen ist der Name der Einrichtung (ID 62) sofern vorhanden  aufzudrucken.
+- d) In der folgenden Zeile ist die Telefonnummer der Einrichtung (ID 69) aufzudrucken.
 - e) In der letzten Zeile ist die E-Mail der Einrichtung (ID 71) aufzudrucken, sofern vorhanden.
-- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium ausreicht.
-- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs  Tabelle 42) vollständig abgebildet werden:
-- Vorname der verschreibenden Person
-- Nachname der verschreibenden Person
-- Telefonnummer der Einrichtung
+- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium (1)  ausreicht.
+- a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs gemäß  Tabelle 42) vollständig abgebildet werden:
+- Vorname der verschreibenden Person   (ID 44)
+- Nachname der verschreibenden Person  (ID 45)
+- Telefonnummer der Einrichtung    (ID 69)
 
 **HINWEIS**
 
-- Als Telefonnummer der Einrichtung (ID 69) muss nicht die zentrale Telefonnummer einer Einrichtung  angegeben werden; es kann bspw. auch die Telefonnummer eines Bereiches  angegeben werden, in welchem die Verordnung ausgestellt wurde.
-- Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E-Mail einer Einrichtung angegeben werden es kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung angegeben werden, in  welchem die Verordnung ausgestellt wurde.
+- Als Telefonnummer der Einrichtung (ID 69) muss nicht die zentrale Telefonnummer einer Einrichtung  angegeben werden; es kann bspw. auch die Telefonnummer eines Bereiches einer Einrichtung  angegeben werden, in welchem die Verordnung ausgestellt wurde.
+- Die E-Mail der Einrichtung (ID 71) muss nicht die zentrale E-Mail einer Einrichtung angegeben werden;  es kann bspw. auch die E-Mail-Adresse eines Bereiches einer Einrichtung angegeben werden, in  welchem die Verordnung ausgestellt wurde.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
 | **P6-26** | Aufzudruckende Informationen in dem Block „ |
 
-- (ID 46)
-- (ID 44)
-- (ID 47)
--  (ID 48)
-- (ID 45)
-- er Name der Einrichtung (ID 62) sofern vorhanden
-- Einrichtung (ID 69) aufzudrucken.
-- (ID 44)
-- (ID 45)
-- (ID 69)
-
-```
--
--
--
-```
-
-- (1)
-- gemäß
-
-ausgestellt am- einer Einrichtung
-
+ausgestellt am
 
 ---
 
@@ -2186,7 +2133,7 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P6-27** | Aufzudruckende Verordnungsinformationen für eine Verordnung aus den Preis |
+| **P6-27** | Aufzudruckende Verordnungsinformationen für eine Verordnung aus den Preis- und |
 
 Auf dem Ausdruck müssen die notwendigen Zugriffsinformationen eines oder mehrerer ERPs enthalten  sein. Je nach Verordnungssituation sind dabei verschiedene Informationen aufzudrucken.
 
@@ -2214,7 +2161,8 @@ Fixer Wert „Teil “
 
 - Zähler Mehrfachverordnung         (ID 88)
 - Fixer Wert „ von “
-- und Produktverzeichnissen nach § 131 SGB V (PZN -bezogene Verordnung) - Nenner Mehrfachverordnung        (ID 89)
+
+Produktverzeichnissen nach § 131 SGB V (PZN-bezogene Verordnung) - Nenner Mehrfachverordnung        (ID 89)
 
 
 ---
@@ -2222,7 +2170,7 @@ Fixer Wert „Teil “
 - Fixer Wert „ ab “
 - Beginn Einlösefrist der Verordnung in der Form TT.MM.JJJJ (ID 90)
 - Zeilenumbruch als Trennzeichen
-- Anzahl der verordneten Packungen        (ID 113)
+- Anzahl der verordneten Packungen       (ID 113)
 - Fixer Wert als Trennzeichen: „x “
 - Schriftschnitt „fett“ zu verwenden
 - Handelsname              (ID 116)
@@ -2286,11 +2234,11 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 - a) Aufdruck des 2D-Codes linksbündig gemäß P6-31
 - b) Rechts neben dem 2D-Code sind fortlaufend in einer Reihe die folgenden Informationen inkl. der  vorgegebenen Trennzeichen aufzudrucken, sofern diese vorhanden sind:
 
-Angabe, wenn es sich um eine Verordnung gemäß BTM Rezept handelt (ID 81 gleich „01“):
+Angabe, wenn es sich um eine Verordnung gemäß BTM-Rezept handelt (ID 81 gleich „01“):
 
 Fixer Wert „BtM-Rezept (verkürzte Einlösefrist)
 
-Angabe, wenn es sich um eine Verordnung gemäß T Rezept handelt (ID 81 gleich „02“):
+Angabe, wenn es sich um eine Verordnung gemäß T-Rezept handelt (ID 81 gleich „02“):
 
 Fixer Wert „T-Rezept (verkürzte Einlösefrist)
 
@@ -2311,7 +2259,7 @@ Fixer Wert „Teil “
 - Anzahl der verordneten Packungen
 - Fixer Wert als Trennzeichen „x “
 - Schriftschnitt „fett“ zu verwenden
-- Sofern die Anzahl der Wirkstoffe größer als eins ist, ist f
+- Sofern die Anzahl der Wirkstoffe größer als eins ist, ist fixer Wert „(“
 - Angabe Wirkstoffe nach dem folgenden Muster
 - Wirkstoffname
 - Leerzeichen als Trennzeichen
@@ -2323,10 +2271,10 @@ Fixer Wert „Teil “
 - Sofern ein weiterer Wirkstoff folgt, ist fixer Wert als Trennzeichen zu verwenden
 - Schriftschnitt „fett“ zu verwenden
 
-Sofern weitere Wirkstoffe enthalten sind und der zur Verfügung stehende Platz ausreicht der weitere Wirkstoff nach demselben Muster anzugeben.
+Sofern weitere Wirkstoffe enthalten sind und der zur Verfügung stehende Platz ausreicht, ist  der weitere Wirkstoff nach demselben Muster anzugeben.
 
-- Sofern weitere Wirkstoffe enthalten sind und der zur Verfügung stehende Platz nicht ausreicht ist der fixe Wert „ …“ zu verwenden.
-- Sofern die Anzahl der Wirkstoffe größer als eins ist, ist f
+- Sofern weitere Wirkstoffe enthalten sind und der zur Verfügung stehende Platz nicht ausreicht,  ist der fixe Wert „ …“ zu verwenden.
+- Sofern die Anzahl der Wirkstoffe größer als eins ist, ist fixer Wert „) “
 - Darreichungsform Freitext
 - Fixer Wert als Trennzeichen: „ / “
 - Schriftschnitt „fett“ zu verwenden
@@ -2342,38 +2290,23 @@ Sofern weitere Wirkstoffe enthalten sind und der zur Verfügung stehende Platz a
 - Schriftschnitt „fett“ zu verwenden
 - Dosieranweisung
 - 2. Die Software muss, sofern die Dosieranweisung strukturiert erfolgt ist, die Informationen der  Dosieranweisung gemäß den Ausgabevorschriften der Anforderungen  47  in Form des generierten Textes gemäß P36-04 Akzeptanzkriterium (3) aufdrucken.
-- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium ausreicht.
+- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium (1)  ausreicht.
 - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen vollständig  abgebildet werden:
 - Fixer Wert „BtM Rezept“
 - Fixer Wert „T Rezept“
 - Angabe Mehrfachverordnung
 - Anzahl der verordneten Packungen
--   (ID 113)
-- ixer Wert „(“ zu verwenden
--    (ID 119)
--    (ID 120a/120b/120c/120d)
-
-```
--
--
-```
-
+-  (ID 113)
+- zu verwenden
+-   (ID 119)
+-   (ID 120a/120b/120c/120d)
 - : „
-
-, ist
-
-- ixer Wert „) “ zu verwenden
--   (ID 104)
--   (ID 111)
--   (ID 112)
-
-```
--
-```
-
+- zu verwenden
+-  (ID 104)
+-  (ID 111)
+-  (ID 112)
 - (ID 108 bzw. ID 175)
 - P36-44 P36-45 P36-46 oder P36-
-- (1)
 
 
 ---
@@ -2398,7 +2331,7 @@ Auf dem Ausdruck müssen die notwendigen Zugriffsinformationen eines oder mehrer
 
 **Begründung:**
 
-Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen  Arzneimittelverordnung durch den Versicherten an die Apotheke. Die dabei notwendigen Informationen für  die Apotheke sind in dem aufzudruckenden 2D-Code enthalten. Um insbesondere bei mehreren ERPs auf  einem Ausdruck dem Versicherten eine Zuordnung der einzelnen  Verordnung zu ermöglichen, sind einzelne Verordnungsinformationen je ERP separat zu erfassen. Die zu  erfassenden Inhalte unterscheiden sich je nach Verordnungssituation.
+Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen  Arzneimittelverordnung durch den Versicherten an die Apotheke. Die dabei notwendigen Informationen für  die Apotheke sind in dem aufzudruckenden 2D-Code enthalten. Um insbesondere bei mehreren ERPs auf  einem Ausdruck dem Versicherten eine Zuordnung der einzelnen 2D-Codes zu der vorgenommenen  Verordnung zu ermöglichen, sind einzelne Verordnungsinformationen je ERP separat zu erfassen. Die zu  erfassenden Inhalte unterscheiden sich je nach Verordnungssituation.
 
 **Akzeptanzkriterium:**
 
@@ -2406,11 +2339,11 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 - a) Aufdruck des 2D-Codes linksbündig gemäß P6-31
 - b) Rechts neben dem 2D-Code sind die folgenden Informationen inkl. der vorgegebenen Trennzeichen  aufzudrucken, sofern diese vorhanden sind:
 
-Angabe, wenn es sich um eine Verordnung gemäß BtM-
+Angabe, wenn es sich um eine Verordnung gemäß BtM-Rezept handelt (ID 81 gleich „01“):
 
 Fixer Wert „BtM-Rezept (verkürzte Einlösefrist)
 
-Angabe, wenn es sich um eine Verordnung gemäß T Rezept handelt (ID 81 gleich „02“):
+Angabe, wenn es sich um eine Verordnung gemäß T-Rezept handelt (ID 81 gleich „02“):
 
 Fixer Wert „T-Rezept (verkürzte Einlösefrist)
 
@@ -2418,24 +2351,16 @@ Angabe Mehrfachverordnung nach dem folgenden Muster, sofern Kennzeichen  Mehrfac
 
 Fixer Wert „Teil “
 
-- Zähler Mehrfachverordnung
+- Zähler Mehrfachverordnung           (ID 88)
 - Fixer Wert „ von “
-- Nenner Mehrfachverordnung
+- Nenner Mehrfachverordnung          (ID 89)
 - Fixer Wert „ ab “
 - Beginn Einlösefrist der Verordnung in der Form TT.MM.JJJJ (ID 90)
 - Zeilenumbruch als Trennzeichen
 - Fixer Wert „Rezeptur“
 - Zeilenumbruch als Trennzeichen
-- Anzahl der verordneten Packungen
+- Anzahl der verordneten Packungen         (ID 113)
 - Fixer Wert als Trennzeichen: „x “
-
-2D-Codes zu der vorgenommenen
-
-Rezept handelt (ID 81 gleich „01“):
-
--   (ID 88)
--   (ID 89)
--   (ID 113)
 
 
 ---
@@ -2454,7 +2379,7 @@ Rezept handelt (ID 81 gleich „01“):
 - Schriftschnitt „fett“ zu verwenden
 - Gebrauchsanweisung
 - 2. Die Software muss, sofern die Gebrauchsanweisung strukturiert erfolgt ist, die Informationen der  Gebrauchsanweisung gemäß den Ausgabevorschriften der Anforderungen  P36-47 in Form des generierten Textes gemäß P36-04 Akzeptanzkriterium (3) aufdrucken.
-- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium ausreicht.
+- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium (1)  ausreicht.
 - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen vollständig  abgebildet werden:
 - Fixer Wert „BtM Rezept“
 - Fixer Wert „T Rezept“
@@ -2475,7 +2400,7 @@ Auf dem Ausdruck müssen die notwendigen Zugriffsinformationen eines oder mehrer
 
 **Begründung**
 
-Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen  Arzneimittelverordnung durch den Versicherten an die Apotheke. Die dabei notwendigen Informationen für  die Apotheke sind in dem aufzudruckenden 2D-Code enthalten. Um insbesondere bei mehreren ERP auf  einem Ausdruck dem Versicherten eine Zuordnung der einzelnen 2D Verordnung zu ermöglichen, sind einzelne Verordnungsinformationen je ERP separat zu erfassen. Die zu  erfassenden Inhalte unterscheiden sich je nach Verordnungssituation.
+Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen einer elektronischen  Arzneimittelverordnung durch den Versicherten an die Apotheke. Die dabei notwendigen Informationen für  die Apotheke sind in dem aufzudruckenden 2D-Code enthalten. Um insbesondere bei mehreren ERP auf  einem Ausdruck dem Versicherten eine Zuordnung der einzelnen 2D-Codes zu der vorgenommenen  Verordnung zu ermöglichen, sind einzelne Verordnungsinformationen je ERP separat zu erfassen. Die zu  erfassenden Inhalte unterscheiden sich je nach Verordnungssituation.
 
 -    (ID 123)
 -    (ID 124)
@@ -2483,17 +2408,31 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 -    (ID 104)
 -    (ID 108 bzw. ID 175)
 - P36-44 P36-45 P36-46 oder
-- (1)
 - -Schriftzeichen zu
 
-K36-24 -Codes zu der vorgenommenen
+K36-24
 
 
 ---
 
+**Akzeptanzkriterium:**
+
 - 1. Je Block für die Verordnungsinformationen eines ERPs als Freitextverordnung sind die folgenden  Angaben zu hinterlegen (IDs gemäß Tabelle 42
 - a) Aufdruck des 2D-Codes linksbündig gemäß P6-31
 - b) Rechts neben dem 2D-Code sind die folgenden Informationen inkl. der vorgegebenen Trennzeichen  aufzudrucken, sofern diese vorhanden sind:
+
+Angabe, wenn es sich um eine Verordnung gemäß BtM-Rezept handelt (ID 81 gleich „01“):
+
+Fixer Wert „BtM-Rezept (verkürzte Einlösefrist)
+
+Angabe, wenn es sich um eine Verordnung gemäß T-Rezept handelt (ID 81 gleich „02“):
+
+Fixer Wert „T-Rezept (verkürzte Einlösefrist)
+
+Angabe Mehrfachverordnung nach dem folgenden Muster, sofern Kennzeichen  Mehrfachverordnung (ID 87) = true
+
+Fixer Wert „Teil “
+
 - Zähler Mehrfachverordnung           (ID 88)
 - Fixer Wert „ von “
 - Nenner Mehrfachverordnung          (ID 89)
@@ -2502,7 +2441,7 @@ K36-24 -Codes zu der vorgenommenen
 - Zeilenumbruch als Trennzeichen
 - Fixer Wert „Freitextverordnung“
 - Zeilenumbruch als Kennzeichen
-- Anzahl der verordneten Packungen          (ID 113)
+- Anzahl der verordneten Packungen         (ID 113)
 - Fixer Wert als Trennzeichen: „x “
 - Schriftschnitt „fett“ zu verwenden
 - Freitextverordnung (ID 137)
@@ -2517,46 +2456,25 @@ K36-24 -Codes zu der vorgenommenen
 - Fixer Wert „Freitextverordnung“
 - b) Sofern eine Kürzung der aufgedruckten Dosierungsanweisung erfolgt, druckt die Software am Ende  der Dosierungsanweisung den Text „…TEXT GEKÜRZT“. Hier ist das Dreipunkt-Schriftzeichen zu  verwenden und nicht drei aufeinanderfolgende Punkte.
 
-**Akzeptanzkriterium:**
-
-Angabe, wenn es sich um eine Verordnung gemäß BtM Rezept handelt (ID 81 gleich „01“):
-
-Fixer Wert „BtM-Rezept (verkürzte Einlösefrist)
-
-Angabe, wenn es sich um eine Verordnung gemäß T Rezept handelt (ID 81 gleich „02“):
-
-Fixer Wert „T-Rezept (verkürzte Einlösefrist)
-
-Angabe Mehrfachverordnung nach dem folgenden Muster, sofern Kennzeichen  Mehrfachverordnung (ID 87) = true
-
-Fixer Wert „Teil “
-
 
 ---
+
+- 1. Die Art des 2D-Codes muss je ERP gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  gemSpec_DM_eRp] gewählt werden.
+- 2. Der Inhalt des 2D-Codes muss je ERP gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  gemSpec_DM_eRp] gewählt werden.
+- 3. Der 2D-Code muss fest mit einer Größe von 2,8cm x 2,8cm 2 cm x 2 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
+- 4. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
 | **P6-31** | Vorgaben für den 2D-Code-Aufdruck für einen Einzeltoken |
 
-Der aufzudruckende 2D-Code je ERP enthält die technischen Informationen (Zugangs der Apotheke einzulösen.
+Der aufzudruckende 2D-Code je ERP enthält die technischen Informationen (Zugangs-Codes), um das ERP in  der Apotheke einzulösen.
 
 **Begründung**
 
-Nur durch den 2D-Code kann im Rahmen der Nutzung des Ausdrucks ein  Verordnungsinformationen vom E-Rezept-Fachdienst der gematik in der Apotheke erfolgen.
+Nur durch den 2D-Code kann im Rahmen der Nutzung des Ausdrucks ein atomischer Abruf der  Verordnungsinformationen vom E-Rezept-Fachdienst der gematik in der Apotheke erfolgen.
 
 **Akzeptanzkriterium:**
-
-- 1. Die Art des 2D-Codes muss je ERP gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  gemSpec_DM_eRp] gewählt werden.
-- 2. Der Inhalt des 2D-Codes muss je ERP gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  gemSpec_DM_eRp] gewählt werden.
-- 3. Der 2D-Code muss fest mit einer Größe von 2,8cm x 2,8cm 2 cm x 2 cm entsprechend der in [ Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
-- 4. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
-
--Codes), um das ERP in
-
-atomischer Abruf der
-
-- Vorlage
-
 
 ---
 
@@ -2568,14 +2486,14 @@ Zusätzlich zu den einzelnen 2D-Codes je ERP muss ein Sammeltoken, welcher den I
 
 **Begründung:**
 
-Der Sammeltoken erleichtert die Einlösung in der Apotheke. Sofern die Einlösungen aller auf dem Ausdruck  enthalten ERPs in einer Apotheke erfolgen soll, muss nur dieser 2D
+Der Sammeltoken erleichtert die Einlösung in der Apotheke. Sofern die Einlösungen aller auf dem Ausdruck  enthalten ERPs in einer Apotheke erfolgen soll, muss nur dieser 2D-Code gescannt werden.
 
 **Akzeptanzkriterium:**
 
-- 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [ gewählt werden.
+- 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRp gewählt werden.
 - 2. Der Inhalt des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  gemSpec_DM_eRp] gewählt werden.
-- 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der  aufgedruckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token  in dem 2D-Code als Sammeltoken umfasst, welche gemäß P6 Einzelverordnungen erstellt sind.
-- 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [ Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
+- 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der  aufgedruckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token  in dem 2D-Code als Sammeltoken umfasst, welche gemäß P6-31 bereits für die 2D-Codes der  Einzelverordnungen erstellt sind.
+- 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
 - 5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
 
 | PFLICHTFUNKTION ERP |  |
@@ -2590,26 +2508,28 @@ Durch diese Informationen werden die Patienten in die Lage versetzt, sich selbst
 
 **Akzeptanzkriterium:**
 
-- 1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [ abgebildeten Form aufgedruckt werden.
-- a) Der Text ist abweichend von den Vorgaben gemäß P6-32
-- 2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [ Patientenausdruck] genutzt werden.
+- 1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [Vorlage Patientenausdruck abgebildeten Form aufgedruckt werden.
+- a) Der Text ist abweichend von den Vorgaben gemäß P6-32 in Schriftgröße 8 pt.
+- 2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [Vorlage  Patientenausdruck] genutzt werden.
 - 3. Der enthaltene QR-Code muss:
 - a) [ausschließlich den folgenden Inhalt enthalten:](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[https://www.das-e-rezept-fuer-](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/) [deutschland.de/ausdruck/](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[und](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)
-- [b)](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/) [gemäß ISO/IEC 18004:2006 codiert sein](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/) -Code gescannt werden.
-- -31 bereits für die 2D-Codes der
-
-```
--
-```
-
-- Vorlage Patientenausdruck
-- in Schriftgröße 8 pt.
-- gemSpec_DM_eRp
-- Vorlage
-- Vorlage
+- [b)](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/) [gemäß ISO/IEC 18004:2006 codiert sein.](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)
 
 
 ---
+
+- 1. Die Software muss standardmäßig eine Schriftgröße von 12 pt für den Ausdruck verwenden.
+- a) Dies gilt nicht für die unter P6-312 Akzeptanzkriterium 1a beschriebene Ausnahme.
+- b) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
+- 2. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen möglichst vollständig  abzubilden. Die minimale Schriftgröße ist 10 pt.
+- a) Dies gilt nicht für die unter P6-312 Akzeptanzkriterium 1a beschriebene Ausnahme.
+- b) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
+- 3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht  proportional und mit Serifen) verwenden.
+- a) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
+- 4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“  vorsehen, sofern gemäß den Vorgaben der [Vorlage Patientenausdruck]oder in dem Kapitel 6.2 keine  anderen Vorgaben definiert sind.
+- a) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
+- 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte  eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.
+- 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“ innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P6-27 K6-28 K6-29und P6-30 jeweils dieselbe Schriftgröße haben.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -2622,19 +2542,6 @@ Die Software muss für einen einheitlichen Ausdruck des ERP Vorgaben zu Schriftg
 Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks werden Vorgaben für die  Schriftgröße und Schriftart definiert.
 
 **Akzeptanzkriterium:**
-
-- 1. Die Software muss standardmäßig eine Schriftgröße von 12 pt für den Ausdruck verwenden.
-- a) Dies gilt nicht für die unter P6-312 Akzeptanzkriterium 1a beschriebene Ausnahme.
-- b) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
-- 2. Die Software muss die Schriftgröße automatisch skalieren, um die Informationen möglichst vollständig  abzubilden. Die minimale Schriftgröße ist 10 pt.
-- a) Dies gilt nicht für die unter P6-312 Akzeptanzkriterium 1a beschriebene Ausnahme.
-- b) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
-- 3. Die Software muss als Schriftart für den Ausdruck einheitlich Courier (ggf. artverwandt, d.h. nicht  proportional und mit Serifen) verwenden.
-- a) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
-- 4. Die Software muss als Schriftschnitt für die aufzudruckenden Informationen standardmäßig „normal“  vorsehen, sofern gemäß den Vorgaben der Vorlage Patientenausdruck]oder in dem Kapitel 6.2 keine  anderen Vorgaben definiert sind.
-- a) Dies gilt nicht für die unter P6-243 beschriebene Ausnahme.
-- 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte  eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.
-- 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“ innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P6-27 K6-28 K6-29und P6-30 jeweils dieselbe Schriftgröße haben.
 
 ---
 
@@ -6416,7 +6323,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  | **Name der** |  | **1..1** | **Dieser Block enthält den Namen der** | 53 |  | x |  | Vorname der  1..45  1..1  Dieses Feld enthält den Vornamen der    54 |
 |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den Familiennamen der |  | 55 |  |  |
 
-(GRAU = FELDGRUPPE) verantwortlichen Person DERH. Person eine Zahnarztnummer (ZANR). der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person ist dieses Feld Pflicht.  darf dieses Feld nicht angegeben werden. Person eine Telematik-ID. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt.
+(GRAU = FELDGRUPPE) verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person verantwortlichen Person DERH. Person eine Zahnarztnummer (ZANR). Person eine Telematik-ID. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  darf dieses Feld nicht angegeben werden.
 
 ---
 
@@ -11930,7 +11837,7 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 | HL7-Basis-Profile | HL7 Basis-Profile  https://simplifier.net/Basisprofil-DE-R4 |
 | KBV-Basis-Profile | KBV-Basis-Profile  https://simplifier.net/base1x0 |
 | FOR-Profile | Formularübergreifende Profile  https://update.kbv.de/ita-    https://simplifier.net/for |
-| ERP-Profile | Spezifische Profile zur Abbildung der  https://update.kbv.de/ita-     https://simplifier.net/erezept |
+| ERP-Profile | Spezifische Profile zur Abbildung der ERP  https://update.kbv.de/ita-     https://simplifier.net/erezept |
 | ERP-Stylesheet | Stylesheet zur Visualisierung des ERP-Daten   https://update.kbv.de/ita- |
 | Anlage 2 | Anlage 2 - Vereinbarung über die Vordrucke für  https://www.kbv.de/media/sp/02_Vordruckver |
 | Anlage 2b | Anlage 2b des Bundesmantelvertrages-Ärzte  https://www.kbv.de/media/sp/02b_Vordruckve |
@@ -11941,7 +11848,7 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 | Releases and Versioning | https://hl7.org/fhir/versions.html#versions |
 | HL7-Basis-Profile | HL7 Basis-Profile  https://simplifier.net/Basisprofil-DE-R4 |
 | KBV-Basis-Profile  KBV-Basis-Profile | https://simplifier.net/base1x0  FOR-Profile  Formularübergreifende Profile  https://update.kbv.de/ita- |
-| https://simplifier.net/for | ERP-Profile  Spezifische Profile zur Abbildung der  https://update.kbv.de/ita-     https://simplifier.net/erezept |
+| https://simplifier.net/for | ERP-Profile  Spezifische Profile zur Abbildung der ERP  https://update.kbv.de/ita-     https://simplifier.net/erezept |
 | ERP-Stylesheet  Stylesheet zur Visualisierung des ERP-Daten | https://update.kbv.de/ita-   Anlage 2  Anlage 2 - Vereinbarung über die Vordrucke für  https://www.kbv.de/media/sp/02_Vordruckver    Anlage 2b   Anlage 2b des Bundesmantelvertrages-Ärzte |
 |  | **Referenz ** Dokument FHIR® R4 |
 
@@ -11957,9 +11864,9 @@ REFERENZIERTE DOKUMENTE update/DigitaleMuster/FOR/ update/DigitaleMuster/ERP/ up
 | Anforderungskatalog nach § 73 SGB V für | https://update.kbv.de/ita-    gemILF_PS_eRp |
 | Spezifikation Implementierungsleitfaden | https://gemspec.gematik.de/docs/gemILF/gemI   gemSpec_DM_eRp  Spezifikation Datenmodell E-Rezept  https://gemspec.gematik.de/docs/gemSpec/ge |
 | SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita- |
-|  | KBV_ITA_VGEX_Anforderungskatalog_KVDT Anforderungskatalog KVDT, siehe KP2-101 |
+|  | KBV_ITA_VGEX_Anforderungskatalog_KVDT  Anforderungskatalog KVDT, siehe KP2-101 |
 |  | https://update.kbv.de/ita-    Medication IG DE |
-| Implementation Guide für | https://ig.fhir.de/igs/medication/1.0.4/   https://ig.fhir.de/igs/medication/1.0. |
+| Implementation Guide für | https://ig.fhir.de/igs/medication/1.0.4/   https://ig.fhir.de/igs/medication/1.0.7/ |
 |  | ePA Medication Service IG  Implementation Guide ePA Medication Service |
 |  | https://gemspec.gematik.de/ig/fhir/epa- |
 | https://gemspec.gematik.de/ig/fhir/epa- |  |
@@ -11970,11 +11877,11 @@ REFERENZIERTE DOKUMENTE update/DigitaleMuster/FOR/ update/DigitaleMuster/ERP/ up
 | gemSpec_DM_eRp | Spezifikation Datenmodell E-Rezept  https://gemspec.gematik.de/docs/gemSpec/ge |
 | SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT, siehe KP2-101  https://update.kbv.de/ita- |
-| Medication IG DE | Implementation Guide für  https://ig.fhir.de/igs/medication/1.0.4/   https://ig.fhir.de/igs/medication/1.0. |
-| ePA Medication Service IG | Implementation Guide ePA Medication Service https://gemspec.gematik.de/ig/fhir/epa-    https://gemspec.gematik.de/ig/fhir/epa- |
-| KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Anlage 2b | https://update.kbv.de/ita-    EXT_ITA_VGEX_Anforderungskatalog_AVWG Anforderungskatalog nach § 73 SGB V für |
+| Medication IG DE | Implementation Guide für  https://ig.fhir.de/igs/medication/1.0.4/   https://ig.fhir.de/igs/medication/1.0.7/ |
+| ePA Medication Service IG | Implementation Guide ePA Medication Service  https://gemspec.gematik.de/ig/fhir/epa-    https://gemspec.gematik.de/ig/fhir/epa- |
+| KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Anlage 2b | https://update.kbv.de/ita-    EXT_ITA_VGEX_Anforderungskatalog_AVWG  Anforderungskatalog nach § 73 SGB V für |
 
-update/DigitaleMuster/KBV_ITA_VGEX_Technis ches_Handbuch_DiMus.pdf Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_ITA_V GEX_Anforderungskatalog_AVWG.pdf Primärsysteme LF_PS_eRp/latest/ mSpec_DM_eRp/latest/ update/Stammdateien/SDKT/ update/Abrechnung/KBV_ITA_VGEX_Anforderu ngskatalog_KVDT.pdf medikationsbezogene Anwendungsfälle im deutschen Gesundheitswesen in der Version 1.0.4 1.0.7 7/ medication/1.2.0/technical-use- cases.html#anwendungsfall-verordnung- verschreibung-und-dispensierung-mit-dem-emp medication/1.2.0/dgmp-overview.html
+update/DigitaleMuster/KBV_ITA_VGEX_Technis ches_Handbuch_DiMus.pdf Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_ITA_V GEX_Anforderungskatalog_AVWG.pdf Primärsysteme LF_PS_eRp/latest/ mSpec_DM_eRp/latest/ update/Stammdateien/SDKT/ update/Abrechnung/KBV_ITA_VGEX_Anforderu ngskatalog_KVDT.pdf medikationsbezogene Anwendungsfälle im deutschen Gesundheitswesen in der Version 1.0.4 1.0.7 medication/1.2.0/technical-use- cases.html#anwendungsfall-verordnung- verschreibung-und-dispensierung-mit-dem-emp medication/1.2.0/dgmp-overview.html
 
 ---
 
@@ -11984,7 +11891,7 @@ update/DigitaleMuster/KBV_ITA_VGEX_Technis ches_Handbuch_DiMus.pdf Verordnungsso
 |---|---|
 | Python Skript | Referenzimplementierung zur Erzeugung eines  https://github.com/hl7germany/dgMP- |
 |  | **Kontakt:** |
-| Dezernat Digitalisierung und IT | IT in der Arztpraxis  Kassenärztliche Bundesvereinigung www.kbv.de |
+| Dezernat Digitalisierung und IT | IT in der Arztpraxis  Kassenärztliche Bundesvereinigung  www.kbv.de |
 |  |  |
 |  |  |
 |  |  |

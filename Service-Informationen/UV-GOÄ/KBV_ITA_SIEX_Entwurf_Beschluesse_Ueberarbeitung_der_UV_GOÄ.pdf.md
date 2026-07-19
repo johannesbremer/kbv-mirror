@@ -534,15 +534,13 @@ Nummer Nummer*bei*
 
 *1. Ein „Besuch“ im Sinne dieses Abschnitts liegt vor, wenn der Arzt einen Patienten an einem*  *Ort aufsucht, an dem der Arzt üblicherweise seine berufliche Tätigkeit nicht ausübt. Ein*  *Besuch liegt nur vor, wenn sich der Arzt zum Patienten (oder an den Ort eines Notfalles)*  *begibt.*
 
-*Ein „Besuch“ liegt nicht vor, wenn die Behandlung an einem Ort stattfindet,* *der Patient begeben muss, sei dies nun die regelmäßige Arbeitsstätte des Arztes, eine*  *Zweitpraxis oder der Ort einer belegärztlichen Tätigkeit, etc*
+*Ein „Besuch“ liegt nicht vor, wenn die Behandlung an einem Ort stattfindet, an den sich auch*  *der Patient begeben muss, sei dies nun die regelmäßige Arbeitsstätte des Arztes, eine*  *Zweitpraxis oder der Ort einer belegärztlichen Tätigkeit, etc*
 
 *7 Uhr, sowie an Samstagen, Sonn*
 
 *und*
 
 *und*
-
-*an den sich auch*
 
 
 ---

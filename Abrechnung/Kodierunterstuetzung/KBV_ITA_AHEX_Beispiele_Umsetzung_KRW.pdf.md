@@ -60,7 +60,7 @@ INHALT
 
 4.1 Beispiel zur Kategorisierung und Übernahme von Dauerdiagnosen (KP10 --240)200 und KP10 30
 
-4.2 Fragen / Antworten zum Anforderungskatalog zur Anwendung der ICD -10-GM 31
+4.2 Fragen / Antworten zum Anforderungskatalog zur Anwendung der ICD-10-GM 31
 
 4.2.1 Wie unterscheiden sich behandlungsfallbezogenen und quartalsübergreifenden  Kodierregeln zur gleichen Behandlungsdiagnose?
 
@@ -150,7 +150,7 @@ Der Anwender wählt den ICD-10-GM- Kode I25.22 G aus der Vorschlagsliste aus und
 
 \| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
-\| Der ICD-10-GM-Kode I21.2 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.22 mit der |
+\| Der ICD-10-GM-Kode I21.2 mit der Diagnosesicherheit Z wird durch den ICD-10-GM-Kode I25.22 mit der |
 
 | ERWARTETE ERGEBNISDATEN | |
 |---|---|
@@ -205,7 +205,7 @@ Der Anwender wählt den ICD-10-GM- Kode I25.29 G aus der Vorschlagsliste aus und
 
 \| ERWARTETE REAKTION DER SOFTWARE |
 \|---|
-\| Der ICD-10-GM-Kode I21.0 mit der Diagnosesicherheit Z wird durch den ICD -10-GM-Kode I25.29 mit der |
+\| Der ICD-10-GM-Kode I21.0 mit der Diagnosesicherheit Z wird durch den ICD-10-GM-Kode I25.29 mit der |
 
 | ERWARTETE ERGEBNISDATEN | |
 |---|---|
@@ -469,7 +469,7 @@ als entgleist bezeichnet [N08.3*]) Nierenkomplikationen, nicht als entgleist bez
 | Aufforderung an den Anwender, das zutreffende Zusatzkennzeichen für die Diagnosensicherheit zu | Hinweis für die Prüfung der Umsetzung: Übernehmen Sie die Diagnosen E10.20 und E11.10, jeweils mit |
 | **Nach der Beendigung des Kodiervorgangs wird (bei sequenzieller Abarbeitung) zuerst die Kodierregel** | Anzeige des ICD-10-GM-Kodes, der die Prüfung ausgelöst hat: |
 
-ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde , ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | ERWARTETE REAKTION DER SOFTWARE |
+ergänzen. dem Zusatzkennzeichen „G“. mit der ID „01-01-025“ oder zuerst die Kodierregel mit der ID „01-01-026“ausgelöst schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*]) Kode E10.20 G gelöscht aus der Abrechnung entfernt werden soll. keine weiteren Kodierregeln ausgeführt. Da E10.20 G gelöscht wurde, ist dieser Kode kein Bestandteil der Wertemengen des Bedingungsblockes der Regel  mehr. Nach Verarbeitung der zuerst angeschlagenen Regel sollte die jeweils andere Regel daher nicht (mehr) anschlagen. schließen sich üblicherweise aus. Nierenkomplikationen [N08.3*], nicht als entgleist bezeichnet) Diabetes mellitus [Typ-2-Diabetes] mit Nierenkomplikationen, nicht als entgleist bezeichnet [N08.3*])  bzw. des Prüfungsblockes der Regel | ERWARTETE REAKTION DER SOFTWARE |
 \|---|
 \| Der ICD-10-GM-Kode E10.20 G wird aus den eingegebenen Behandlungsdiagnosen entfernt.  Anmerkung: Gemäß KP-710, Akzeptanzkriterium 6, werden gegen gelöschte Behandlungsdiagnosen |
 
@@ -1164,11 +1164,11 @@ Die Kodierregeln mit den IDs
 
 können durch den ICD-10-GM-Kode I21.0 G ausgelöst werden.
 
-Das „Thema“ ist in beiden Fällen der akute Herzinfarkt. Die behandlungsfallbezogene Regel 01 -01-001  behandelt den Fall, dass ein zurückliegender Herzinfarkt spezifisch mit Diagnoseschlüsseln aus I25.2 - kodiert werden kann. Daher ist der Auslöser der Regel nicht bspw. der ICD-10-GM-Kode I21.0 mit dem  Zusatzkennzeichen **G** sondern bspw. I21.0 mit dem Zusatzkennzeichen **Z**
+Das „Thema“ ist in beiden Fällen der akute Herzinfarkt. Die behandlungsfallbezogene Regel 01-01-001  behandelt den Fall, dass ein zurückliegender Herzinfarkt spezifisch mit Diagnoseschlüsseln aus I25.2 - kodiert werden kann. Daher ist der Auslöser der Regel nicht bspw. der ICD-10-GM-Kode I21.0 mit dem  Zusatzkennzeichen **G** sondern bspw. I21.0 mit dem Zusatzkennzeichen **Z**
 
 Die quartalsübergreifende Regel 03 -02-036 behandelt den Fall, dass ein stets über zwei zurückliegende  Behandlungsfälle hinweg kodierter akuter Herzinfarkt (mit dem Zusatzkennzeichen **G**) daraufhin überprüft  werden sollte, ob im aktuellen Behandlungsfall wirklich weiterhin ein akuter Herzinfarkt vorliegt oder eher  ein zurückliegender Herzinfarkt kodiert werden sollte.
 
-Die Regeln gleichen sich daher im Ergebnis, dass für den aktuellen Behandlungsfall der auslösende ICD -10 - GM-Kode in einen ICD-10-GM-Kode aus der Liste I25.2 - mit dem Zusatzkennzeichen G zu ändern ist.
+Die Regeln gleichen sich daher im Ergebnis, dass für den aktuellen Behandlungsfall der auslösende ICD-10 - GM-Kode in einen ICD-10-GM-Kode aus der Liste I25.2- mit dem Zusatzkennzeichen G zu ändern ist.
 
 ### 4.2.2 Kann eine Diagnose mehr als eine Kodierregel auslösen?
 

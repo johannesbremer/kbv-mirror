@@ -125,7 +125,7 @@ zu Kategorie AV gehören Fragenummern: 3, 8, 13, 17, 20, 22
 
 - Es gehen in die Auswertung nur die Fragen ein, die vor und nach der Hörgeräteversorgung beantwortet wurden.
 - Es müssen mindestens 4 gleiche Fragen pro Kategorie (Vor und Nachverordnung) beantwortet werden, damit eine  Auswertung möglich ist. Bei weniger als 4 gleichen Fragen darf die Kategorie nicht errechnet werden.
-- Wenn mindestens eine der Kategorien EC, BN oder RV nicht berechnet werden können, dürfen auch die Gesamtbewertung (EC, BN, RV ) (
+- Wenn mindestens eine der Kategorien EC, BN oder RV nicht berechnet werden können, dürfen auch die Gesamtbewertung (EC, BN, RV) (
 - Alle berechneten Werte ohne Nachkommastellen (kaufmännisch gerundet)
 - Berechnung der Mittelwerte der Kategorien (einschl. Gesamtbewertung):
 
@@ -184,10 +184,6 @@ E=75% ("gelegentlich"), F=87% ("selten"), G=99% ("nie")
 H
 
 N O P Q R
-
-```
--
-```
 
 - ("häufig"), D=50%  ("zur Hälfte")
 - Feld H46)

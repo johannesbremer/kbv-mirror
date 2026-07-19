@@ -307,7 +307,7 @@ FORMEL 29: XML-CODE: KEINE_DAUERDIAGNOSE .......................................
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.4.0 | 15.11.2021 | KBV | Ergänzung der Arztgruppe |  | **23** |
-| 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung    Aufnahme der neuen Elemente:   <keine_dauerdiagnose>  <verschluesselungsanleitung_liste> <verschluesselungsanleitung_ref>   Die nicht verwendeten Elemente | Neues CD und Anpassungen | **Alle **    **19, 20,  24, 25,  33, 33** |
+| 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung    Aufnahme der neuen Elemente:   <keine_dauerdiagnose>  <verschluesselungsanleitung_liste>  <verschluesselungsanleitung_ref>    Die nicht verwendeten Elemente | Neues CD und Anpassungen | **Alle **    **19, 20,  24, 25,  33, 33** |
 | 2.3.0 | 26.07.2016 | KBV | Korrektur der Abbildung 11 Korrektur Kapitel 5.1 und 5.15 | Entfernung der optionalen  Einführung einer angleichen- | **18  13, 20** |
 
 Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen #
@@ -442,7 +442,7 @@ xmlns="urn:ehd/sdda/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" e
 
 # 5 HEADER (METADATEN)
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung verwiesen.
+Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung verwiesen.
 
 # 6 BODY (INHALTSDATEN)
 
@@ -511,7 +511,7 @@ Formel 5: XML-Code: nummer
 
 ## VON_ICD_CODE
 
-Das Element <von_icd_code> legt zusammen mit dem Element <bis_icd_code> den Bereich von ICD -Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
+Das Element <von_icd_code> legt zusammen mit dem Element <bis_icd_code> den Bereich von ICD-Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD-Code  (siehe 5.20).
 
 Abbildung 6: von_icd_code
 
@@ -526,7 +526,7 @@ Formel 6: XML-Code: von_icd_code
 
 ## BIS_ICD_CODE
 
-Das Element <bis_icd_code> legt zusammen mit dem Element <von_icd_code> den Bereich von ICD-Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD -Code  (siehe 5.20).
+Das Element <bis_icd_code> legt zusammen mit dem Element <von_icd_code> den Bereich von ICD-Kodierungen von <kapitel> oder <gruppe> Elementen fest. Der Inhalt folgt dem Muster für einen ICD-Code  (siehe 5.20).
 
 Abbildung 7: bis_icd_code
 
@@ -639,7 +639,7 @@ Abbildung 13: diagnosethesaurus_liste
 
 Der XML-Code für ein <diagnosethesaurus_liste> Element hat folgenden Aufbau:
 
-DIAGNOSETHESAURUS_LI STE
+DIAGNOSETHESAURUS_LISTE
 
 ---
 
@@ -795,9 +795,8 @@ Tabelle 7: Ausprägungen der Attribute des Elements <abrechenbar>
 
 Das optionale Element <notationskennzeichen> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält das Notationskennzeichen * (Stern) oder + (Kreuz) oder !  (Ausrufezeichen).
 
-**DN="..."**
+<abrechenbar V="..." DN="..."/> Formel 20: XML-Code: abrechenbar ABRECHENBAR V="..." Bedeutung (optional **DN="..."**
 
-<abrechenbar V="..." DN="..."/> Formel 20: XML-Code: abrechenbar ABRECHENBAR V="..." Bedeutung (optional
 
 ---
 
@@ -977,12 +976,12 @@ Abbildung 29: schlüsselnummer_mit_inhalt_belegt
 
 Der XML-Code für ein <schlüsselnummer_mit_inhalt_belegt> Element hat folgenden Aufbau:
 
-\| **<schlüsselnummer_mit_inhalt_belegt** |
+\| **<schlüsselnummer_mit_inhalt_belegt V="..." DN="..."/>** |
 \|---|
 
 Formel 28: XML-Code: schlüsselnummer_mit_inhalt_belegt
 
-V="..." DN="..." V="..." DN="..."/>
+V="..." DN="..."
 
 ---
 
@@ -1017,7 +1016,7 @@ Tabelle 16: Ausprägungen der Attribute des Elements <infektionsschutzgesetz_mel
 
 ## INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEITEN
 
-Das optionale Element <infektionsschutzgesetz_abrechnungsbesonderheit> befindet sich auf der untersten  Hierarchieebene der ICD Kodierungssystematik und kennzeichnet, ob die EBM -Kennnummer bei  Meldepflicht nach dem Infektionsschutzgesetz angegeben werden kann. Wenn ja, kann EBM -Kennnummer  32006 angegeben werden.
+Das optionale Element <infektionsschutzgesetz_abrechnungsbesonderheit> befindet sich auf der untersten  Hierarchieebene der ICD Kodierungssystematik und kennzeichnet, ob die EBM-Kennnummer bei  Meldepflicht nach dem Infektionsschutzgesetz angegeben werden kann. Wenn ja, kann EBM-Kennnummer  32006 angegeben werden.
 
 V="..." DN="..." V="..." DN="..."
 

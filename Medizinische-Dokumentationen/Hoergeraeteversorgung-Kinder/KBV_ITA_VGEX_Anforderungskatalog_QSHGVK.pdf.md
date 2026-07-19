@@ -1,7 +1,7 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Anforderungskatalog QS Hör-* |
-|  | [KBV_ITA_VGEX_Anforderungskatalog_ |
+|  | [KBV_ITA_VGEX_Anforderungskatalog_QSHGVK] |
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -11,7 +11,7 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-geräteversorgung Kinder QSHGVK] 1.11 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
+geräteversorgung Kinder 1.11 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
@@ -58,9 +58,7 @@ Abbildung 1 Berichtszeiträume .................................................
 
 ---
 
-# 1 Qualitätssicherungsvereinbarung
-
-# Kinder
+# Kinder 1 Qualitätssicherungsvereinbarung Hörgeräteversorgung
 
 ## 1.1 Zielbestimmung
 
@@ -68,7 +66,10 @@ Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssi
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
--  die elektronische Dokumentation zur Hörgeräteversorgung bzw. -nachsorge für Kinder  korrekt zu dokumentieren sowie
+-
+
+- korrekt zu dokumentieren sowie
+- die elektronische Dokumentation zur Hörgeräteversorgung bzw. -nachsorge für Kinder
 -  den quartalsweisen Datentransfer an die Datenannahmestelle zu realisieren.
 
 ## 1.2 Pflichtfunktionen und optionale Funktionen der Software
@@ -101,17 +102,9 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | Optionale FUNKTION | |
 |---|---|
-| **K8-30** | **Funktionsbezeichnung                                                                            (2** |
+| **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
-Ident-Nummer einer optionalen Funktion Ident
-
-# Hörgeräteversorgung
-
-```
--
-```
-
-(2-70) -80) -Nummer einer älteren Version
+(2-70) Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 
 ---
@@ -128,9 +121,7 @@ Ident-Nummer einer optionalen Funktion Ident
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller rele-vanten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung Kinder ermögli-chen.
 
-Die in der  KBV_ITA_VGEX_Schnittstelle_ erfassbar sein.
-
-Schnittstellenbeschreibung QS Hörgeräteversorgung  QSHGVK] festgelegten Datenelemente müssen vollständig
+Die in der Schnittstellenbeschreibung  KBV_ITA_VGEX_Schnittstelle_QSHGVK erfassbar sein.
 
 | Optionale Funktion QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -148,19 +139,19 @@ Die Verordnungen/ Nachsorgen werden ab 01.07.2013 quartalsweise erfasst.
 
 Verordnungsquartal: Das Quartal, in dem die eigentliche Hörgeräteverordnung durchgeführt  wird als auch das Quartal, in dem die erste Nachuntersuchung / Nach-sorge durchgeführt wird.
 
-Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal.  den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie-ferungen statt.
+Melde-/Prüfquartal: Das sich an das Verordnungsquartal anschließende Quartal. In ihm fin-den die Datenübermittlung, Prüfung auf Vollständigkeit, Plausibilität und  Vollzähligkeit sowie eventuelle Korrekturen, Ergänzungen und Nachlie-ferungen statt.
 
 Auswertungsquartal: Dem Melde- und Prüfquartal folgt das Auswertungsquartal. In ihm wer-den die in der Datenstelle gesammelten QS-Datensätze ausgewertet.
-
-### Meldequartal
 
 ## Verordnungsquartal
 
 **Abbildung 1 Berichtszeiträume**
 
-Kinder
+QS Hörgeräteversorgung  ] festgelegten Datenelemente müssen vollständig
 
-In ihm fin-
+### Meldequartal
+
+Kinder
 
 Auswertungs-
 
@@ -221,7 +212,7 @@ QSHGVK Dokumentation (PatientenID) QSHGVK Dokumentation  QSHGVK Verordnung Dokum
 |---|---|
 | **P1-90** | **Inhalte der** |
 
-Die Dokumentationsparameter (kurz: Parameter)  KBV_ITA_VGEX_PLAUSI_QSHGVK] müssen auf der Benutzeroberfläche abgebildet wer-den.
+Die Dokumentationsparameter (kurz: Parameter) der Plausibilitäten  KBV_ITA_VGEX_PLAUSI_QSHGVK] müssen auf der Benutzeroberfläche abgebildet wer-den.
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -233,7 +224,7 @@ Das System muss über die aktuelle Position der Dokumentationseingabe Auskunft g
 |---|---|
 | **P1-110** | **Anzeige von aktuellen Dokumentationen** |
 
-Das System muss sicherstellen, dass zweifelsfrei erkennbar ist, welche Dokumentation  ordnung oder Nachsorge) aktuell dokumentiert wird.
+Das System muss sicherstellen, dass zweifelsfrei erkennbar ist, welche Dokumentation (Ver-ordnung oder Nachsorge) aktuell dokumentiert wird.
 
 **2.1.4 Parameter**
 
@@ -254,9 +245,7 @@ Das System muss die Parameter als:
 
 unterschiedlich kennzeichnen.
 
-der Plausibilitäten
-
-Dokumentationen (Ver-
+Dokumentationen 
 
 
 ---
@@ -265,9 +254,7 @@ Dokumentationen (Ver-
 |---|---|
 | **K1-136** | **Datenübernahme aus dem PVS1** 1 |
 
-Plausibilität
-
-Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  des Anwenders in die QS Hörgeräteversorgung Kinder übernommen werden. 2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1 -130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen KBV_ITA_VGEX_PLAUSI_QSHGVK ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt wer- den und mit Hinweis auf das fehlerhafte Datenfeld erfolgen. Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_ Ausprägung / Datenformat "Pflichtfeld" und "Antwortmöglichkeiten" diese Vorgaben sind verpflichtend.   Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.  K1-131 Verweis auf fehlerhaftes Datenfeld Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der gelangen kann. PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1 -140 Gesamtprüfung auf Plausibilität Das System muss auf Anforderung KBV_ITA_VGEX_PLAUSI_QSHGVK ] der gesamten Dokumentation(en) durchführen können. a)  Der Datensatz wird als nicht plausibel erkannt. Dies muss dem Nutzer durch eine aus- sagekräftige Fehlermeldung angezeigt werden und die entsprechende Stelle (Feld) muss dem Nutzer zur Korrektur zur Verfügung gestellt werden. Liegt eine Verletzung gegen die Vorschriften in den Plausibilitäts-Spalten: "Ausprä- gung / Datenformat",  "Pflichtfeld" oder "Antwortmöglichkeiten" vor, so ist das Einrei- chen an die Datenstelle nicht möglich. Liegt eine Verletzung gegen die Vorschriften in der Plausibilitäts- sibilitäten“  vor, kann der Arzt sich über diese hinwegsetzen. b)  Wurden die Prüfungen plausibel abgeschlossen, so  Praxisverwaltungssystem systemseitig des Nutzers  wird dies dem Nutzer angezeigt. QSHGVK ] enthält die Spalten: Nutzer zu diesem direkt eine auf Plausibilitätenprüfung Spalte „optional Plau--
+Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  des Anwenders in die QS Hörgeräteversorgung Kinder übernommen werden. 2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1 -130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf KBV_ITA_VGEX_PLAUSI_QSHGVK ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt wer- den und mit Hinweis auf das fehlerhafte Datenfeld erfolgen.  Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_QSHGVK ] enthält die Spalten: Ausprägung / Datenformat "Pflichtfeld" und "Antwortmöglichkeiten" diese Vorgaben sind verpflichtend.   Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.   K1-131 Verweis auf fehlerhaftes Datenfeld Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der Nutzer zu diesem direkt gelangen kann. PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1 -140 Gesamtprüfung auf Plausibilität Das System muss auf Anforderung des Nutzers eine Plausibilitätenprüfung KBV_ITA_VGEX_PLAUSI_QSHGVK ] der gesamten Dokumentation(en) durchführen können.  a)  Der Datensatz wird als nicht plausibel erkannt. Dies muss dem Nutzer durch eine aus- sagekräftige Fehlermeldung angezeigt werden und die entsprechende Stelle (Feld) muss dem Nutzer zur Korrektur zur Verfügung gestellt werden.  Liegt eine Verletzung gegen die Vorschriften in den Plausibilitäts-Spalten: "Ausprä- gung / Datenformat",  "Pflichtfeld" oder "Antwortmöglichkeiten" vor, so ist das Einrei- chen an die Datenstelle nicht möglich.  Liegt eine Verletzung gegen die Vorschriften in der Plausibilitäts- Spalte „optional Plau- sibilitäten“  vor, kann der Arzt sich über diese hinwegsetzen. b)  Wurden die Prüfungen plausibel abgeschlossen, so wird dies dem Nutzer angezeigt.  Praxisverwaltungssystem Plausibilität
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
@@ -350,7 +337,7 @@ Dokumentation(en)
 
 Jede elektronische Dokumentation muss eindeutig innerhalb eines Systems identifizierbar  sein. Dazu ist im Attribut „EX“ des Elements <id> innerhalb des <clinical_document_headers>  eine für das System eindeutige Identifikationsnummer zu vergeben (s. Schnittstellenbeschrei-bung [KBV_ITA_VGEX_Schnittstelle_eHeader]).
 
-*Hinweis: Durch die Kombination des „EX“-Attributs (systemweit eindeutiges Identifikations-* *merkmal) und des „RT“ -Attributs ist eine bundesweit eindeutige Identifikation einer elektroni-* *schen Dokumentation möglich.*
+*Hinweis: Durch die Kombination des „EX“-Attributs (systemweit eindeutiges Identifikations-* *merkmal) und des „RT“-Attributs ist eine bundesweit eindeutige Identifikation einer elektroni-* *schen Dokumentation möglich.*
 
 **2.1.11 Darstellung Übersicht der Dokumentationen**
 
@@ -373,7 +360,7 @@ Innerhalb dieser Übersicht müssen weitere Angaben erfolgen:
 |---|---|
 | **P1-230** | **Öffnen von** |
 
-PatientenID Dokumentationen anhand der ÜbersichtAnhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be-arbeiten.
+PatientenID Dokumentationen anhand der Übersicht Anhand der Übersicht ist es möglich, eine ausgewählte Dokumentation zu öffnen und zu be-arbeiten.
 
 
 ---
@@ -455,13 +442,13 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 Wenn eine KV  Spezifikation_eDoku_KIM trag.
 
-für das Verfahren QSHGVK das  ] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
+für das Verfahren QSHGVK  ] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
 
 | KONDITIONALE PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | **KP1-264** | **Importstatus von der Datenannahmestelle** |
 
-Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten.  Beim Importieren wird die Verordnungs-Datei geprüft und eine KIM-Nachricht mit dem Import-Status und ggf. Fehlermeldungen wird erstellt.
+Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten.  Beim Importieren wird die Verordnungs-Datei geprüft und eine KIM-Nachricht mit dem Import-Status und ggf. Fehlermeldungen wird erstellt.
 
 Es sind folgende Import-Status möglich:
 
@@ -482,7 +469,7 @@ Das PVS muss dem Anwender den Importstatus in geeigneter Weise anzeigen.
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 - Spezifikation_eDoku_KIM
 
-KIM-Verfahren
+das KIM-Verfahren
 
 Spezifikation_eDoku_KIM
 
@@ -490,11 +477,7 @@ Adresse geschickt, von der
 
 gemäß der
 
-Versand  ] an
-
--
-
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist. nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. -
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (SET_ID, BSNR, LANR) vorhanden ist.  nicht gespeichert werden. Es sind entweder Plausibilitätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. ] an
 
 
 ---

@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01 DOKUMENTENSTATUS: IN** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG-KINDER
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHGVK]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS  KRAFT  
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
 ---
@@ -64,7 +64,7 @@ INHALT
 
 **21**
 
-**4** **REFERENZIERTE DOKUME NTE**
+**4** **REFERENZIERTE DOKUMENTE**
 
 **22**
 
@@ -115,23 +115,17 @@ Einreichung des Antrages  auf Zertifizierung
 
 **Begründung**
 
-**Seite**
+Austausch des FTP-Servers durch neuen  „Update-Server“ der  KBV:  [https://update.kbv.de](https://update.kbv.de/)
 
-Austausch des FTP-
-
-Alle
-
-Servers durch neuen  „Update-Server“ der
-
-KBV:  [https://update.kbv.de](https://update.kbv.de/)
-
-Schnittstellenversion  1.12 ist ab 01.10.2019 zu
-
-verwenden
+Schnittstellenversion  1.12 ist ab 01.10.2019 zu  verwenden
 
 Überführung ins neue  Corporate Design
 
 Anpassung des  Zertifizierungsportals
+
+**Seite**
+
+Alle
 
 ```
 [](https://update.kbv.de/)
@@ -154,13 +148,13 @@ Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten u
 
 ## 1.1 RECHTSGRUNDLAGE
 
-Rechtliche Grundlage bildet hier die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2  SGB V zur Hörgeräteversorgung bei Säuglingen, Kleinkindern und K indern“.
+Rechtliche Grundlage bildet hier die „Vereinbarung von Qualitätssicherungsmaßnahmen nach § 135 Abs. 2  SGB V zur Hörgeräteversorgung bei Säuglingen, Kleinkindern und Kindern“.
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per E-Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach Erhalt](mailto:pruefstelle@kbv.de) [der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab](mailto:pruefstelle@kbv.de)via E-Mail  eingereichten Antrag auf Zertifizierung hochladen.
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per E-Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach Erhalt](mailto:pruefstelle@kbv.de) [der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung hochladen.
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
@@ -209,11 +203,11 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 ---
 
 - jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die Daten können nur über das  Zertifizierungsportal (siehe Kapitel 1.3) hochgeladen und geprüft werden.
-- Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.  Bitte speichern Sie jeden Screenshot in einer
+- Die geforderten Screenshots sind in einem gesonderten Ordner „Screenshots“ zur Verfügung zu stellen.  Bitte speichern Sie jeden Screenshot in einer PDF-Datei mit folgender Namenskonvention:
 
 *Screenshot_P_K.pdf*
 
-wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. das Szenario steht. Beispielsweise lautet  der Dateiname für Konstellation 1 aus Prüffall 5805 „Screenshot_5805_1.pdf“. Sollte es keine  Konstellation in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der gefo Dateiname bei Prüffall 5801 „Screenshot_5801.pdf“.
+wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. das Szenario steht. Beispielsweise lautet  der Dateiname für Konstellation 1 aus Prüffall 5805 „Screenshot_5805_1.pdf“. Sollte es keine  Konstellation in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte  Dateiname bei Prüffall 5801 „Screenshot_5801.pdf“.
 
 **Ordnerstruktur**
 
@@ -223,7 +217,7 @@ Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispi
 
 ## 1.6 PRÜFVORGABEN
 
-Die geforderten Prüffälle sind zu bearbeiten. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Die geforderten Prüffälle sind zu bearbeiten. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 Die Angaben für die hier beschriebenen und für die Zertifizierung erforderlichen Unterlagen finden Sie in  Kapitel 1.4 – Zertifizierungsdokumente.
 
@@ -242,10 +236,6 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Zu verwendende Prüfnummer:** | Y/58/1307/36/000 |
 
 ##
-
-- PDF-Datei mit folgender Namenskonvention:
-
-rderte
 
 
 ---
@@ -292,7 +282,7 @@ nd einer Nachsorge andere Ursache  andere
 
 ---
 
-- 2. Anlegen einer Nachsorge Dokumentation
+- 2. Anlegen einer Nachsorge Dokumentation:
 
 |  |  |
 |---|---|
@@ -520,9 +510,9 @@ Versorgungskonzept Testverfahren
 | **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler |
-| **Hinweis** | Konkrete Dokumentationsdat |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-| KONSTELLATION 5805 |  |
+| KONSTELLATION 5805-1 |  |
 |---|---|
 | **Patientenangaben** | |
 | Patienten-ID | 5805 |
@@ -530,7 +520,7 @@ Versorgungskonzept Testverfahren
 | Geburtsmonat des Kindes |  |
 | Geschlecht | männlich |
 
-| KONSTELLATION |  |
+| KONSTELLATION 5805-2 |  |
 |---|---|
 | **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
@@ -539,7 +529,7 @@ Versorgungskonzept Testverfahren
 | Sprachentwicklungsstörung | ja, audiogen |
 |  | *Andere Ursache* |
 
-| KONSTELLATION 5805 |  |
+| KONSTELLATION 5805-3 |  |
 |---|---|
 | **Vor Verordnung** | |
 | Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
@@ -548,19 +538,19 @@ Versorgungskonzept Testverfahren
 | Sprachentwicklungsstörung | nein; nicht beurteilbar |
 |  | ** |
 
-verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 andere Ursache -3 andere Ursache 
+verhindert andere Ursache andere Ursache 
 
 
 ---
 
-| KONSTELLATION |  |
+| KONSTELLATION 5805-4 |  |
 |---|---|
 | **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
 | Schallleitungsschwerhörigkeit |  |
 | Kombinierte Schwerhörigkeit |  |
 
-| KONSTELLATION |  |
+| KONSTELLATION 5805-5 |  |
 |---|---|
 | **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
@@ -569,10 +559,10 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 
 | Schweregrad der Hörstörung (WHO 2001): rechts |  |
 | Schweregrad der Hörstörung (WHO 2001): links | hochgradig schwerhörig; Hörreste oder |
 | Ärztlicher Vorschlag zur Gerätetechnik: Luftleitung |  |
-|  | *Andere Gerätetechnik Luftleitung* |
+| andere | *Andere Gerätetechnik Luftleitung* |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-| KONSTELLATION |  |
+| KONSTELLATION 5805-6 |  |
 |---|---|
 | **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) | 17-09-2020 |
@@ -585,12 +575,12 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 
 | Versorgung erfolgte zuzahlungsfrei | nein |
 | Kooperation erfolgt mit |  |
 
-5805-4  5805-5 Taubheit andere  5805-6 aufgestellten Versorgungskonzept andere 
+Taubheit aufgestellten Versorgungskonzept andere 
 
 
 ---
 
-| KONSTELLATION |  |
+| KONSTELLATION 5805-7 |  |
 |---|---|
 | **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) |  |
@@ -603,7 +593,7 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 
 | Versorgung erfolgte zuzahlungsfrei |  |
 | Kooperation erfolgt mit | Logopäde |
 
-5805-7 aufgestellten Versorgungskonzept andere 
+aufgestellten Versorgungskonzept andere 
 
 
 ---
@@ -621,15 +611,15 @@ verhindert sind en sind frei wählbar, sofern diese nicht vorgegeben -1  5805-2 
 \| SZENARIEN |
 \|---|
 \| **Szenario 1** |
-\| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angel |
+\| Es wird eine „(Vor) Verordnung“ für einen noch nicht im System existierenden Patienten angelegt. Bei |
 \| **Szenario 2** |
-\| Weisen Sie die korrekte Systemfunktionalität nach P1 |
+\| Weisen Sie die korrekte Systemfunktionalität nach P1-170 bis P1-190 nach. Es werden Screenshots vom |
 \| **Szenario 3** |
-\| Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als |
+\| Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als PDF-Dokument |
 \| **Szenario 4** |
 \| Zeigen Sie mittels Screenshots, dass eine Korrektur/Änderung der im Prüffall 5802 erstellten |
 
-Hörgeräteversorgung Kinder (s. Angabe der Patienten darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneute Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01. -ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System 2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). egt. Bei -ID nicht -170 bis P1-190 nach. Es werden Screenshots vom n Aufruf dieser PDF-Dokument 
+Hörgeräteversorgung Kinder (s. Angabe der Patienten-ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten-ID nicht akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01.2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). 
 
 
 ---
@@ -669,7 +659,7 @@ Hörgeräteversorgung Kinder (s. Angabe der Patienten darf entsprechend den Anfo
 |  | ** |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgeset zt haben -Datei  
+Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgesetzt haben -Datei  
 
 
 ---
@@ -697,7 +687,7 @@ Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von 
 | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | Anforderungskatalog QS Hörgeräteversorgung |
 | KBV_ITA_VGEX_Plausi_QSHGVK | Plausibilitäten und Berechnungsvorschrift QS |
 | KBV_ITA_VGEX_Schnittstelle_QSHGVK | Schnittstellenbeschreibung QS |
-| KBV_ITA_VGEX_XML | Austausch von XML-Daten in der Vertragsärztlichen |
+| KBV_ITA_VGEX_XML-Schnittstellen | Austausch von XML-Daten in der Vertragsärztlichen |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
 
 **Ansprechpartner:**
@@ -706,4 +696,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kinder Hörgeräteversorgung Kinder Hörgeräteversorgung Kinder -Schnittstellen Versorgung TestschlüsselKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kinder Hörgeräteversorgung Kinder Hörgeräteversorgung Kinder Versorgung TestschlüsselKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

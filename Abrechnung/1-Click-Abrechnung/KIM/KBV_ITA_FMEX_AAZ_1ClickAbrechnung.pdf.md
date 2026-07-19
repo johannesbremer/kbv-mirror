@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 1.1   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 1.1   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG
@@ -148,7 +148,7 @@ Diese Information ist verpflichtend anzugeben
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-KIM - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_VGEX_Lizenzvereinbarung
+KIM - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_VGEX_Lizenzvereinbarung
 
 
 ---

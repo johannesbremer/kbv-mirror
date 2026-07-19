@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. MAI 2025   VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  9. MAI 2025   VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET 116117 TERMINSERVICE  VERMITTLUNGSCODE
@@ -26,7 +26,7 @@ INHALT
 | 1.4 Zertifizierungsdokumente | 5 |
 | 1.5 Prü fu nte rla gen | 5 |
 | 1.5.1 Verzeichnisstruktur | 6 |
-| 1.5.2 Einreichen von Prü fu nte rla gen a ls P | DF-Dokumente 6 |
+| 1.5.2 Einreichen von Prü fu nte rla gen als | PDF-Dokumente 6 |
 | 1.6 Prü fvorgaben | 6 |
 | 1.6.1 Prü fstam mdate n | 6 |
 | 1.6.2 Vorbereitung | 6 |
@@ -34,26 +34,18 @@ INHALT
 | 1.6.4 Auflistung der Prü ffä lle | 6 |
 | 1.6.5 Praxisdaten/ Arztstempel | 8 |
 
-**2**
+| 2 | PRÜ | FFÄLLE |  |  | 9 |
+|---|---|---|---|---|---|
+| 2.1 | Prü | ffa ll A udit | k v.d ig | italG m bH | 9 |
+| 2.2 |  | Prüffall Muster | 6 – Ü | b erw eisungsschein | 10 |
+| 2.3 |  | Prüffall Muster | PTV11 | – Individuelle Patienteninformation zur | ambulanten |
+|  |  | Psychotherapeutischen | | Sprechstunde | 11 |
 
-2.1 2.2 2.3
+**3 REFERENZIERTE DOKUMENTE**
 
-**3**
+**12**
 
-**PRÜFFÄLLE**
-
-**9**
-
-Prüffall Audit kv.digital GmbH
-
-9 Prüffall Muster 6  Überweisungsschein
-
-10 Prüffall Muster PTV11  Individuelle Patienteninformation zur ambulanten  Psychotherapeutischen Sprechstunde 11
-
-**REFERENZIERTE DOKUMENTE**
-
-Prüfunterlagen Einreichen von Prüfunterlagen als PDF-Dokumente Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle **12**
-
+Prüfunterlagen Einreichen von Prüfunterlagen als PDF-Dokumente Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall Audit kv.digital GmbH Prüffall Muster 6  Überweisungsschein Prüffall Muster PTV11  Individuelle Patienteninformation zur ambulanten Psychotherapeutischen Sprechstunde
 
 ---
 
@@ -100,7 +92,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 - 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
-Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und de](mailto:pruefstelle@kbv.de)r vorab via E-Mail  eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und der vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichte Antrag auf Zertifizierung dort hochgeladen werden.
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
@@ -122,7 +114,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-[Die Zugangsdaten können direkt über das Portal oder per Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefor](mailto:pruefstelle@kbv.de)[dert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -172,11 +164,11 @@ Im Rahmen der Prüfung sind die regulären KBV-Stammdateien zu verwenden. Die si
 
 Wenn die Prüffälle mit der Blankoformularbedruckung (BFB) realisiert werden, dann ist die eigene  Prüfnummer des Verfahrens BFB zu verwenden.
 
-Jeder Prüffall wird einzeln geprüft. Zu diesem Zweck werden personen vorgegeben.
+Jeder Prüffall wird einzeln geprüft. Zu diesem Zweck werden personen- und formularspezifische Angaben  vorgegeben.
 
 ### 1.6.3 Versichertendaten
 
-Die Versichertendaten des Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden auch als XML-Datei zur Verfügung gestellt. Die Archivdatei  (Testpatient_XML.zip) enthält für jeden Prüffall die folgenden XML
+Die Versichertendaten des Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden auch als XML-Datei zur Verfügung gestellt. Die Archivdatei  (Testpatient_XML.zip) enthält für jeden Prüffall die folgenden XML-Dateien mit Versichertenstammdaten
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
@@ -185,10 +177,6 @@ Die Versichertendaten des Testpatienten enthalten alle für den jeweiligen Prüf
 ### 1.6.4 Auflistung der Prüffälle
 
 Prüffälle als XML-Dateien
-
-- und formularspezifische Angaben
-
--Dateien mit Versichertenstammdaten
 
 |  |  |
 |---|---|
@@ -200,7 +188,7 @@ Prüffälle als XML-Dateien
 |---|---|---|
 | **02  03  04** | Schaumbërg-von-und-zu- | Testpatient_XML |
 
-**Prüffall-ID „02, 03 und 04“ (XML_40)**
+**Prüffall-ID „02**
 
 |  |  |  |
 |---|---|---|
@@ -230,7 +218,9 @@ Prüffälle als XML-Dateien
 | **4134** | **Kostentraegername** | Thyssen Industrie |
 | **4132** | **DMP_Kennzeichnung** | 09 |
 
-Schaumburg-und-Radëberg |  |  |
+Schaumburg-und-Radëberg **, 03 und 04“ (XML_40)**
+
+|  |  |
 |---|---|
 
 
@@ -268,7 +258,7 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | **Testziel** | „ |
 | **Einzureichende** | Eine Audit-Bescheinigung der kv.digital GmbH |
 
-Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in  Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
+Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in  Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice-Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
 
 [Weitere Informationen zum Ablauf des Audits finden Sie im](https://partnerportal.kv-telematik.de/display/TSSSPEC/Audit+116117+Terminservice-Schnittstellen)[Partnerportal](https://partnerportal.kv-telematik.de/display/TSSSPEC/Audit+116117+Terminservice-Schnittstellen)[der kv.digital.](https://partnerportal.kv-telematik.de/display/TSSSPEC/Audit+116117+Terminservice-Schnittstellen)
 
@@ -285,7 +275,7 @@ Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 
 |  |  |
 |---|---|
 | **Prüffall-ID** | 02 |
-| **Testziel** | Der Arzt möchte im Rahmen einer Überweisung einen gültigen |
+| **Testziel** | Der Arzt möchte im Rahmen einer Überweisung einen gültigen Vermittlungscode |
 | **Einzureichende** | Ein Ausdruck des Musters 6 als „PDF“ |
 
 **Personalien**
@@ -312,7 +302,9 @@ XML-Name: Testpatient_XML
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-der Terminservicestelle nach den aktuellen Vorgaben auf das Muster 6 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument. Hierbei kann entweder die Vermittlungscode 3a SGB V Unterbauchschmerz li, Lab: Entzündungsparameter erhöht, MiBi Stuhl negativ der geforderten Daten laut Anforderungskatalog>|  |  |
+der Terminservicestelle nach den aktuellen Vorgaben auf das Muster 6 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument. Hierbei kann entweder die 3a SGB V Unterbauchschmerz li, Lab: Entzündungsparameter erhöht, MiBi Stuhl negativ der geforderten Daten laut Anforderungskatalog>
+
+|  |  |
 |---|---|
 
 
@@ -346,7 +338,9 @@ XML-Name: Testpatient_XML
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Muster PTV11 zur Weitergabe an den Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. Patienten drucken. -Dokument . Hierbei kann entweder die Ihr nächster Termin Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie, nicht näher bezeichnet; sonstige nichtorganische psychotische Störungen der geforderten Daten laut Anforderungskatalog>|  |  |
+Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Muster PTV11 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument . Hierbei kann entweder die Ihr nächster Termin Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie, nicht näher bezeichnet; sonstige nichtorganische psychotische Störungen der geforderten Daten laut Anforderungskatalog>
+
+|  |  |
 |---|---|
 
 
@@ -371,7 +365,7 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Spezifikation 116117 Terminservice - Vermittlungscode  in der stets aktuellen Version  Terminservice -  Vermittlungscode““ in der stets aktuellen Version Anforderungskatalog Terminservice “ in der stets aktuellen Version Vermittlungscode Stammdateien zu verwenden. Verwendung im Rahmen der Zertifizierung. Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Spezifikation 116117 Terminservice - Vermittlungscode  in der stets aktuellen Version   Terminservice -  Vermittlungscode““ in der stets aktuellen Version Anforderungskatalog Terminservice “ in der stets aktuellen Version Vermittlungscode Stammdateien zu verwenden. Verwendung im Rahmen der Zertifizierung.  Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
 |  |  |
 |---|---|

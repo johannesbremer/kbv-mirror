@@ -14,14 +14,16 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-| Zeugnis | über | den |  |
-|---|---|---|---|
-|  |  | **3mutmaßlichenTag** | |
-| **der** | **Entbindung** |  |  |
-|  | **Ausfertigung** | **für die** | **Versicherte** |
-|  | **(z.B. zur** | **Vorlage beim** | **Arbeitgeber)** |
-|  | **Vertragsarztstempel** | **/ Unterschrift** | **des Arztes** |
-| **PRF.NR.** |  |  |  |
-| **Muster** | **3b/E (10.2014)** |  |  |
+**Zeugnis über den**
 
-Zeugnis über den mutmaßlichen Tag der Entbindung Ausfertigung für die Versicherte (z.B. zur Vorlage beim Arbeitgeber) Vertragsarztstempel / Unterschrift des Arztes Muster 3b/E (10.2014)**geb. am**
+**3**
+
+**mutmaßlichen Tag** **der Entbindung**
+
+**Ausfertigung für die Versicherte** **geb. am**
+
+**(z.B. zur Vorlage beim Arbeitgeber)**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
+
+**PRF.NR.** **Muster 3b/E (10.2014)**

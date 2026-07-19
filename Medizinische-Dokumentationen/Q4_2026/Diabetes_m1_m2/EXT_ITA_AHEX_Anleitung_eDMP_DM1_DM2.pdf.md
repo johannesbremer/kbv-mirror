@@ -68,7 +68,7 @@ Bitte geben Sie  bestehen.
 
 **auffällig** an, wenn an mindestens einem Fuß Auffälligkeiten des Pulsstatus
 
-Sofern unveränderliche auff ällige Befunde bekannt sind, ist keine erneute Untersuchung an dem  betroffenen Fuß notwendig. Diese Befunde sind bis zu einer Befundänderung z. B. nach  rekonstruktiven Maßnahmen zur Wiederherstellung einer ungestörten Durchblutung in den  folgenden Dokumentationen weiterhin als auffällig zu dokumentieren.
+Sofern unveränderliche auffällige Befunde bekannt sind, ist keine erneute Untersuchung an dem  betroffenen Fuß notwendig. Diese Befunde sind bis zu einer Befundänderung z. B. nach  rekonstruktiven Maßnahmen zur Wiederherstellung einer ungestörten Durchblutung in den  folgenden Dokumentationen weiterhin als auffällig zu dokumentieren.
 
 Bitte geben Sie „nicht untersucht“ nur dann an, wenn der Pulsstatus an beiden Füßen nicht  untersucht wurde.
 
@@ -84,7 +84,7 @@ Bitte geben Sie „**auffällig** an, wenn an mindestens einem Fuß eine Sensibi
 
 Eine Sensibilitätsstörung liegt vor, wenn die den Fuß schützenden Empfindungsqualitäten  eingeschränkt sind (Nachweis z. B. durch Monofilament oder Stimmgabeltest).
 
-Sofern unveränderliche auff ällige Befunde bekannt sind, ist keine erneute Untersuchung an dem  betroffenen Fuß notwendig. Diese Befunde sind bis zu einer Befundänderung in den folgenden  Dokumentationen weiterhin als auffällig zu dokumentieren.
+Sofern unveränderliche auffällige Befunde bekannt sind, ist keine erneute Untersuchung an dem  betroffenen Fuß notwendig. Diese Befunde sind bis zu einer Befundänderung in den folgenden  Dokumentationen weiterhin als auffällig zu dokumentieren.
 
 Bitte geben Sie „nicht untersucht“ nur dann an, wenn eine Sensibilitätsprüfung an beiden Füßen  nicht durchgeführt wurde.
 
@@ -163,7 +163,7 @@ Anhand der folgenden Kriterien ist die künftige Frequenz der Fußinspektion, ei
 | sensible Neuropathie | Mindestens alle sechs Monate |
 | sensible Neuropathie und Zeichen einer peripheren arteriellen | alle drei Monate oder häufiger |
 
-Bitte geben Sie an, ob Sie beabsichtigen, die nächste Fußins oder „alle drei Monate oder häufiger“ durch zuführen. Das Untersuchungsintervall kann von dem  Dokumentationsintervall abweichen.
+Bitte geben Sie an, ob Sie beabsichtigen, die nächste Fußins oder „alle drei Monate oder häufiger“ durchzuführen. Das Untersuchungsintervall kann von dem  Dokumentationsintervall abweichen.
 
 #### Spätfolgen
 
@@ -199,128 +199,145 @@ Verschlusskrankheit und/oder Risiken wie Fußdeformitäten (ggf. infolge Osteoar
 
 ---
 
-Handelt es sich um eine **Erstdokumentation,** einzubeziehen.
+Handelt es sich um eine **Erstdokumentation,** sind hier **Ereignisse aus der Vergangenheit**  einzubeziehen.
 
-Erfolgt die Angabe im Rahmen einer **Folgedokumentation,** **Ereignisse seit der letzten Dokumentation**
+Erfolgt die Angabe im Rahmen einer **Folgedokumentation,** sind jeweils **nur neu eingetretene**  **Ereignisse seit der letzten Dokumentation** zu berücksichtigen.
 
-Geben Sie bitte „Keine der genannten Ereignisse“ an, wenn kein Ereignis bestanden hat oder  im Falle einer Folgedokumentation - im Zeitraum zwischen der  letzten Dokumentation (Erst- oder Folgedokumentation) bis zur aktuellen Folgedokumentation kein  neues Ereignis eingetreten ist.
+Geben Sie bitte „Keine der genannten Ereignisse“ an, wenn zum Zeitpunkt der Erstdokumentation  kein Ereignis bestanden hat oder  im Falle einer Folgedokumentation- im Zeitraum zwischen der  letzten Dokumentation (Erst- oder Folgedokumentation) bis zur aktuellen Folgedokumentation kein  neues Ereignis eingetreten ist.
 
 Zur Erläuterung der Erkrankungen:
 
 - **Nierenersatztherapie:** Hier ist die Dialyse gemeint.
-- **Erblindung:** Hier ist die Erblindung im gesetzlichen Sinn mit einer verbleibenden Sehschärfe  von höchstens 0,02 (2 %) auf dem besseren Auge oder einer Störung des Sehvermögens,  die dieser Beeinträchtigung gleichkommt,
-- **Amputation:** Eine Amputation soll dann angegeben  diabetischen Fußsyndroms notwendig wurde. Hierunter sind alle Arten der Amputation den unteren Extremitäten, also sowohl die Zehen-, die Vorfuß- als auch die Unter- oder  Oberschenkelamputation zu verstehen.
+- **Erblindung:** Hier ist die Erblindung im gesetzlichen Sinn mit einer verbleibenden Sehschärfe  von höchstens 0,02 (2 %) auf dem besseren Auge oder einer Störung des Sehvermögens,  die dieser Beeinträchtigung gleichkommt, gemeint. Diese muss Folge des Diabetes sein.
+- **Amputation:** Eine Amputation soll dann angegeben werden, wenn diese aufgrund eines  diabetischen Fußsyndroms notwendig wurde. Hierunter sind alle Arten der Amputation an  den unteren Extremitäten, also sowohl die Zehen-, die Vorfuß- als auch die Unter- oder  Oberschenkelamputation zu verstehen.
 - **Herzinfarkt:** Gemeint ist hier der durch EKG und/oder biochemische Marker nachgewiesene  Infarkt.
 - **Schlaganfall:** Gemeint ist z. B. der primär ischämische Hirninfarkt.
 
 #### Schwere Hypoglykämien seit der letzten Dokumentation
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
+Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und hier  verpflichtend.
 
-Geben Sie bitte die Anzahl von Hypoglykämien seit der letzten Dokumentation an Hypoglykämie ist bei Erwachsenen durch die No Gabe von Glukose oder eine parenterale Gabe von Glukagon Hypoglykämie durch Bewusstlosigkeit und/oder  Fremdhilfe, um dies zu vermeiden, definiert.
+Geben Sie bitte die Anzahl von Hypoglykämien seit der letzten Dokumentation an. Eine schwere  Hypoglykämie ist bei Erwachsenen durch die Notwendigkeit der Fremdhilfe, z. B. durch intravenöse  Gabe von Glukose oder eine parenterale Gabe von Glukagon definiert. Bei Kindern ist eine schwere  Hypoglykämie durch Bewusstlosigkeit und/oder Krampfanfall bzw. der Notwendigkeit der  Fremdhilfe, um dies zu vermeiden, definiert.
 
 Sollte seit der letzten Dokumentation kein solches Ereignis vorgekommen sein, geben Sie bitte die  Zahl „0“ an.
 
-#### Stationäre notfallmäßige Behandlung wegen  Dokumentation
+#### Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten  Dokumentation
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
+Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und ist hier  verpflichtend.
 
-Geben Sie bitte die Anzahl aller notfallmäßigen vollstationären Aufenthalte an, die seit der letzten  Dokumentation aufgrund eines Diabetes mellitus (Typ 1 oder Typ 2) notwendig wurden. Sollte seit  der letzten Dokumentation keine solche Behandlung notwendig gewesen sein, geben Sie bitte  Zahl „0“ an
-
-sind hier **Ereignisse aus der Vergangenheit**
-
-sind jeweils **nur neu eingetretene**  zu berücksichtigen.
-
-zum Zeitpunkt der Erstdokumentation
-
-```
--
-```
-
-- gemeint. Diese muss Folge des Diabetes sein.
-- werden, wenn diese aufgrund eines  an
-
-**Folgedokumentation** möglich und hier
-
-. Eine schwere  twendigkeit der Fremdhilfe, z. B. durch intravenöse  definiert. Bei Kindern ist eine schwere  Krampfanfall bzw. der Notwendigkeit der
-
-#### Diabetes mellitus seit der letzten
-
-**Folgedokumentation** möglich und ist hier
-
-die
+Geben Sie bitte die Anzahl aller notfallmäßigen vollstationären Aufenthalte an, die seit der letzten  Dokumentation aufgrund eines Diabetes mellitus (Typ 1 oder Typ 2) notwendig wurden. Sollte seit  der letzten Dokumentation keine solche Behandlung notwendig gewesen sein, geben Sie bitte die  Zahl „0“ an
 
 
 ---
 
 # Medikamente
 
-Bitte machen Sie zu jeder Wirkstoffgruppe eine Angabe. Bitte geben Sie bei einem „ Nein“ - wo  möglich - zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen den Wirkstoff  zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig. Bei Verwendung von  Kombinationspräparaten oder Kombinationstherapien geben Sie bitte jeweils die einzelnen  Wirkstoffe an (z. B. „Metformin“ und zusätzlich eine Angabe bei „Sonstige antidiabetische  Medikation“).
+Bitte machen Sie zu jeder Wirkstoffgruppe eine Angabe. Bitte geben  möglich - zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen den Wirkstoff  zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig. Bei Verwendung von  Kombinationspräparaten oder Kombinationstherapien geben Sie bitte jeweils die einzelnen  Wirkstoffe an (z. B. „Metformin“ und zusätzlich eine Angabe bei „ Medikation“).
 
 Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen  werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
 
 Eine Metformin-Monotherapie ist bei Diabetes mellitus Typ 2 Mittel der ersten Wahl bei den zu  verordnenden Antidiabetika.
 
-Patientinnen und Patienten mit unzureichender Kontrolle eines Diabetes mellitus Typ 2 und  Vorliegen einer manifesten kardiovaskulären Erkrankung, die bereits mit Medikamenten zur  Behandlung kardiovaskulärer Risikofaktoren behandelt werden, sollen darüber hinaus eine  Kombinationstherapie aus Metformin plus Liraglutid (GLP -1-Rezeptoragonist) oder Empagliflozin  (SGLT2-Inhibitor) erhalten, wenn Patientinnen und Patienten nach Abwägung der Wirkungen und  Nebenwirkungen dazu bereit sind.
+Patientinnen und Patienten mit unzureichender Kontrolle eines Diabetes mellitus Typ 2 und  Vorliegen einer manifesten kardiovaskulären Erkrankung, die bereits mit Medikamenten zur  Behandlung kardiovaskulärer Risikofaktoren behandelt werden, sollen darüber hinaus eine  Kombinationstherapie aus Metformin plus Liraglutid (GLP-1-Rezeptoragonist) oder Empagliflozin  (SGLT2-Inhibitor) erhalten, wenn Patientinnen und Patienten nach Abwägung der Wirkungen und  Nebenwirkungen dazu bereit sind.
 
-Patientinnen und Patienten mit Herzinsuffizienz (Linksventrikuläre Ejektionsfraktion < 40 %) sollten  primär, d. h. unabhängig vom HbA1c-Wert und zusätzlich zur Standardtherapie, eine  Kombinationstherapie aus Metformin plus Dapagliflozin, nachrangig Metformin plus Empagliflozin ,  erhalten.
+Patientinnen und Patienten mit Herzinsuffizienz (Linksventrikuläre Ejektionsfraktion < 40 %) sollten  primär, d. h. unabhängig vom HbA1c-Wert und  Kombinationstherapie aus Metformin plus Dapagliflozin, nachrangig Metformin plus Empagliflozin,  erhalten.
 
 #### Insulin oder Insulin-Analoga
 
-Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 2** möglich und  hier verpflichtend. (Bei einem Diabetes mellitus Typ 1 ist eine Insulin -Therapie Voraussetzung für  eine Einschreibung und wird daher hier nicht noch einmal erfasst.) Genau eine Angabe ist zulässig.
+Diese Angabe ist nur im Rahmen einer Dokumentation zu  hier verpflichtend. (Bei einem Diabetes mellitus Typ 1 ist eine Insulin-Therapie Voraussetzung für  eine Einschreibung und wird daher hier nicht noch einmal erfasst.) Genau eine Angabe ist zulässig.
 
-Bitte geben Sie „Ja“ an, wenn eine Therapie mit Humaninsulin oder Insulin -Analoga durchgeführt  wird.
+Bitte geben Sie „Ja“ an, wenn eine Therapie mit Humaninsulin oder Insulin-Analoga durchgeführt  wird.
 
 #### Metformin
 
 Eine Metformin-Monotherapie ist Mittel der ersten Wahl bei den zu verordnenden Antidiabetika.
 
-Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 2** möglich und  hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
+Diese Angabe ist nur im Rahmen einer Dokumentation zu  hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit Metformin durchgeführt wird. Bitte geben Sie bei „ Nein“  gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe  von Metformin zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit Metformin durchgeführt wird. Bitte geben Sie bei „ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe  von Metformin zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Sonstige antidiabetische Medikation
 
-Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 2** möglich und  hier verpflichtend. Genau eine Angabe ist zulässig.
+Diese Angabe ist nur im Rahmen einer Dokumentation zu  hier verpflichtend. Genau eine Angabe ist zulässig.
 
 Metformin als Monotherapie ist Mittel der ersten Wahl bei den zu verordnenden Antidiabetika. Sollte  Ihre Patientin oder Ihr Patient wegen Nichterreichung des individuellen Therapiezieles unter  Metformin-Monotherapie andere bzw. weitere Antidiabetika erhalten, ist dies hier zu dokumentieren.  Hierzu zählen z. B. Präparate aus der Gruppe der Sulfonylharnstoffe (Glibenclamid, Glitazone), der  Alpha-Glukosidasehemmer oder Acarbose.
 
 Nicht dazu zählen SGLT2-Inhibitor und GLP-1-Rezeptoragonist. Diese werden gesondert erfragt.
 
+Sie bei einem „Nein“ - wo
+
+Sonstige antidiabetische
+
+zusätzlich zur Standardtherapie, eine
+
+**Diabetes mellitus Typ 2** möglich und
+
+**Diabetes mellitus Typ 2** möglich und
+
+Nein“
+
+**Diabetes mellitus Typ 2** möglich und
+
 
 ---
 
-Wenn Ihre Patientin oder Ihr Patient keine der vorstehend genannten Antidiabetika erhält oder aber  SGLT2-Inhibitor bzw. GLP-1-Rezeptoragonist einnimmt, geben Sie bitte „ Nein“ an. Diese Angabe  ist für die Qualitätssicherung notwendig.
+Wenn Ihre Patientin oder Ihr Patient keine der vorstehend genannten Antidiabetika erhält oder aber  SGLT2-Inhibitor bzw. GLP-1-Rezeptoragonist einnimmt ist für die Qualitätssicherung notwendig.
 
 #### SGLT2-Inhibitor
 
-Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 2** möglich und  hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
+Diese Angabe ist nur im Rahmen einer Dokumentation zu  hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit einem SLGT2-Inhibitor (z. B. Empagliflozin, Dapagliflozin)  durchgeführt wird. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung  auf eine Kontraindikation gegen die Gabe von SLGT2-Inhibitoren zurückzuführen ist. Diese Angabe  ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit einem SLGT2-Inhibitor (z. B. Empagliflozin, Dapagliflozin)  durchgeführt wird. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob  auf eine Kontraindikation gegen die Gabe von SLGT2-Inhibitoren zurückzuführen ist. Diese Angabe  ist für die Qualitätssicherung notwendig.
 
 #### GLP-1-Rezeptoragonist
 
-Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 2** möglich und  hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
+Diese Angabe ist nur im Rahmen einer Dokumentation zu  hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit einem GLP-1-Rezeptoragonist (z. B. Liraglutid)  durchgeführt wird. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung  auf eine Kontraindikation gegen die Gabe von GLP-1-Rezeptoragonisten zurückzuführen ist. Diese  Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit einem GLP-1-Rezeptoragonist (z. B. Liraglutid)  durchgeführt wird. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob  auf eine Kontraindikation gegen die Gabe von GLP-1-Rezeptoragonisten zurückzuführen ist. Diese  Angabe ist für die Qualitätssicherung notwendig.
 
 #### Thrombozytenaggregationshemmer
 
 Grundsätzlich sollen alle Patientinnen und Patienten mit makroangiopathischen Erkrankungen  (z. B. kardio- und zerebrovaskulären Erkrankungen) Thrombozytenaggregationshemmer erhalten.
 
-Eine Angabe ist sowohl bei **Diabetes mellitus Typ 1 als auch bei Typ 2** verpflichtend. Mindestens  eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
+Eine Angabe ist sowohl bei **Diabetes mellitus Typ 1 als auch bei Typ 2** eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgeführt wird.  Hierbei ist die Gabe u. a. von ASS oder Clopidogrel gemeint. Sie können auch angeben, ob eine  orale Antikoagulations-Therapie erfolgt. Bitte geben Sie bei „Nein“ gegebenenfalls zusätzlich an, ob  die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe eines  Thrombozytenaggregationshemmers zurückzuführen ist und/oder eine orale Antikoagulations-Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgeführt wird.  Hierbei ist die Gabe u. a. von ASS oder Clopidogrel gemeint. Sie können auch angeben, ob eine  orale Antikoagulations-Therapie erfolgt. Bitte geben Sie bei „ die Nicht-Verordnung auf eine Kontraindikation  Thrombozytenaggregationshemmers zurückzuführen ist und/oder eine orale Antikoagulations-Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Schulung
 
 #### Schulung schon vor Einschreibung ins DMP bereits wahrgenommen
 
-Eine Angabe zu diesem Feld ist nur im Rahmen einer **Erstdokumentation** möglich und ist hier  verpflichtend. Mehrfachnennungen sind möglich. Bitte geben Sie an, ob Ihre Patientin oder Ihr  Patient bereits vor ihrer bzw. seiner Teilnahme am DMP an einer Diabetes - und/oder Hypertonie-Schulung teilgenommen hat.
+Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend. Mehrfachnennungen sind möglich. Bitte geben Sie an, ob Ihre Patientin oder Ihr  Patient bereits vor ihrer bzw. seiner Teilnahme am DMP an einer Diabetes- und/oder Hypertonie-Schulung teilgenommen hat.
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 - a) akkreditierte und für das DMP zugelassene Schulungen, sowie
+
+, geben Sie bitte „
+
+**Diabetes mellitus Typ 2**
+
+**Diabetes mellitus Typ 2**
+
+verpflichtend. Mindestens
+
+Nein“ gegebenenfalls zusätzlich an, ob  gegen
+
+**Erstdokumentation**
+
+Nein“ an. Diese Angabe
+
+möglich und
+
+die Nicht-Verordnung
+
+möglich und
+
+die Nicht-Verordnung
+
+die Gabe eines
+
+möglich und ist hier
 
 
 ---
@@ -337,7 +354,7 @@ Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
 Wenn Sie Ihrer Patientin oder Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an  einem Schulungsprogramm empfohlen haben, geben Sie bitte hier an, für welche der beiden hier in  Frage kommenden Indikation(en) die Schulung(en) (Diabetes- und/oder Hypertonie-Schulung)  durchgeführt werden soll(en).
 
-Wenn Sie bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden  konnte, sprechen Sie die Empfehlung bitte erneut aus. In diesem Fall geben Sie bitte erneut an, für  welche der beiden hier in Frage kommenden Indikation(en) die Schulung(en) (Diabetes - und/oder  Hypertonie-Schulung) empfohlen wurde.
+Wenn Sie bereits zuvor eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden  konnte, sprechen Sie die Empfehlung bitte erneut aus. In diesem Fall geben Sie bitte erneut an, für  welche der beiden hier in Frage kommenden Indikation(en) die Schulung(en) (Diabetes- und/oder  Hypertonie-Schulung) empfohlen wurde.
 
 Wurde **keine Schulung** empfohlen, geben Sie bitte „Keine“ an.
 
@@ -345,7 +362,7 @@ Wurde **keine Schulung** empfohlen, geben Sie bitte „Keine“ an.
 
 Die Angaben zu den Schulungen beziehen sich hier ausschließlich rückblickend auf Schulungen,  die Sie Ihrer Patientin oder Ihrem Patienten beim letzten Dokumentationstermin empfohlen haben,  und sind daher nur im Rahmen einer **Folgedokumentation** möglich und verpflichtend.
 
-Bitte machen Sie sowohl zur Diabetes -Schulung als auch zur Hypertonie -Schulung genau eine  Angabe.
+Bitte machen Sie sowohl zur Diabetes-Schulung als auch zur Hypertonie-Schulung genau eine  Angabe.
 
 Hat Ihre Patientin oder Ihr Patient seit der letzten Dokumentation an einer Schulung teilgenommen,  machen Sie bitte die Angabe „Ja“.
 
@@ -356,7 +373,7 @@ Sollte Sie Ihrer Patientin oder Ihrem Patienten bei der vorherigen Dokumentation
 
 ---
 
-Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte  letzter Dokumentation keine Schulung empfohlen“
+Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte  letzter Dokumentation keine Schulung empfohlen“ an.
 
 Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss Ihrer Patientin oder Ihres Patienten aus dem Programm.
 
@@ -366,17 +383,17 @@ Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokume
 
 Genau eine Angabe ist erforderlich.
 
-Unter Berücksichtigung der Gesamtsituation Ihrer Patientin oder Ihres Patienten (z. B. bestehende  Folge- und Begleiterkrankungen) ist zu dokumentieren, ob der aktuell gemessene HbA1c Rahmen der Zielvereinbarungen seit dem letzten Dokumentationstermin erreicht oder noch nicht  erreicht wurde.
+Unter Berücksichtigung der Gesamtsituation Ihrer Patientin oder Ihres Patienten (z. B. bestehende  Folge- und Begleiterkrankungen) ist zu dokumentieren, ob der aktuell gemessene HbA1c-Wert im  Rahmen der Zielvereinbarungen seit dem letzten Dokumentationstermin erreicht oder noch nicht  erreicht wurde.
 
-#### Ophthalmologische Netzhautuntersuchung
+#### Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation
 
 Mindestens eine Angabe ist verpflichtend. Mehrfachnennungen sind möglich.
 
-Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich rückblickend auf den  Zeitraum seit der letzten Dokumentation,  **Folgedokumentation** möglich und verpflichtend. Eine Netzhautuntersuchung ist in Mydriasis in  Abhängigkeit vom Risikoprofil ein- oder zweijährlich durchzuführen.
+Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich rückblickend auf den  Zeitraum seit der letzten Dokumentation, und sind daher  **Folgedokumentation** möglich und verpflichtend. Eine Netzhautuntersuchung ist in Mydriasis in  Abhängigkeit vom Risikoprofil ein- oder zweijährlich durchzuführen.
 
 Bei Kindern und Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren  Diabetesdauer, frühestens ab dem 11. Lebensjahr erfolgen.
 
-Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation  durchgeführt“ oder von Ihnen „Veranlasst
+Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation  durchgeführt“ oder von Ihnen „Veranlasst wurde.
 
 #### Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung
 
@@ -384,29 +401,17 @@ Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
 Eine Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung  ist mindestens erforderlich bei: Fuß-Läsionen mit oberflächlicher Wunde mit Ischämie und allen  tiefen Ulcera (mit oder ohne (Wund)Infektion, mit oder ohne Ischämie) sowie bei Verdacht auf  Charcot-Fuß.
 
-Die Angabe „Ja“ soll erfolgen, wenn eine  qualifizierte Einrichtung erfolgt oder, wenn Sie selbst zur Gruppe der für das Diabetische  Fußsyndrom qualifizierten Ärztinnen oder Ärzte gehören und Ihre Patientin oder Ihren Patienten  daher nicht überweisen, sondern selber behandeln.
+Die Angabe „Ja“ soll erfolgen, wenn eine Behandlung in einer für das Diabetische Fußsyndrom  qualifizierte Einrichtung erfolgt oder, wenn Sie selbst zur Gruppe der für das Diabetische  Fußsyndrom qualifizierten Ärztinnen oder Ärzte gehören und Ihre Patientin oder Ihren Patienten  daher nicht überweisen, sondern selber behandeln.
 
-Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte
+Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte mit „Veranlasst“
 
-an.
-
-#### seit der letzten Dokumentation
-
-und sind daher
-
-wurde.
-
-Behandlung in einer für das Diabetische Fußsyndrom
-
-mit „
-
-„Bei -Wert im
+„Bei
 
 nur im Rahmen einer
 
 “Durchgeführt“, „Nicht
 
-Veranlasst“ an.
+an.
 
 
 ---

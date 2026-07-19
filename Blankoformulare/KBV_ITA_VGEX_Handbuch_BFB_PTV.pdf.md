@@ -189,7 +189,7 @@ Das Ausstellungsdatum ist das Datum des Drucks des Formulars. Die Prüfnummer ke
 
 ## 1.2 DIAGNOSEVERSCHLÜSSELUNG
 
-Bei der Bedruckung der Formulare mit einer Diagnoseverschlüsselung gem. ICD -10-GM gilt:
+Bei der Bedruckung der Formulare mit einer Diagnoseverschlüsselung gem. ICD-10-GM gilt:
 
 - 1. Mehrere ICD-10-Kodes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen ausge-druckt.
 
@@ -207,7 +207,7 @@ Die Softwareprodukte müssen in der Lage sein, Formulare im Rahmen der Blankofor
 
 Software, die die Blankoformularbedruckung unterstützt, muss vor ihrem Einsatz durch die KBV zertifiziert  werden.
 
-Psychotherapeuten, die das Verfahren der Blankoformularbedruckung nutzen wollen, dürfen im Rahmen  der Blankoformularbedruckung ausschließlich die in der Psychotherapie -Vereinbarung festgelegten Vordru-cke erzeugen.
+Psychotherapeuten, die das Verfahren der Blankoformularbedruckung nutzen wollen, dürfen im Rahmen  der Blankoformularbedruckung ausschließlich die in der Psychotherapie-Vereinbarung festgelegten Vordru-cke erzeugen.
 
 ## 2.2 ERSTELLUNG VON VORDRUCKEN
 
@@ -274,13 +274,13 @@ Ident-Nummer einer optionalen Funktion
 |---|---|
 | **P2.8-10** | **Verwendung zulässiger BFB-Formulare** |
 
-Im Rahmen der Blankoformularbedruckung für Psychotherapie dürfen nur die in Anlage 1 des BMV -Ä (Psy-chotherapie-Vereinbarung) §18 Absatz 12 Satz 3 bestimmten Formblätter verwendet werden.
+Im Rahmen der Blankoformularbedruckung für Psychotherapie dürfen nur die in Anlage 1 des BMV-Ä (Psy-chotherapie-Vereinbarung) §18 Absatz 12 Satz 3 bestimmten Formblätter verwendet werden.
 
 Am Ende dieses Dokumentes (Handbuch Blankoformularbedruckung für die Psychotherapie (PTV)) sind Bei-spieldarstellungen der zulässigen Blankoformulare für Psychotherapie angefügt.
 
 ## 2.9 FORMULARE ALS DRUCK-DATEIEN
 
-Die KBV stellt die in der Blankoformularbedruckung aufgenommenen PT -Formulare als PDF- Dateien zur  Verfügung.
+Die KBV stellt die in der Blankoformularbedruckung aufgenommenen PT-Formulare als PDF- Dateien zur  Verfügung.
 
 **2.10** **ÄNDERUNGSDIENST / LOGISTIK**
 
@@ -297,7 +297,7 @@ Mit einem Update zu den PT-Formularen muss der Softwareverantwortliche sicherste
 
 ## 2.11 BEDRUCKUNGSVORGABEN
 
-Die Bedruckungsvorgaben beziehen sich auf die psychotherapeutischen BFB -Formulare. Die im Rahmen der  Blankoformularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrest-riktionen gemäß Vorgaben der Bundesmantelverträge (siehe § 19 Bundesmantelvertrag-Ärzte (BMV-Ä)  bzw. §§23, 24 BMV-Ä unter [Bundesmantelvertrag]), sowie der Technischen Anlage zu Anlage 4a
+Die Bedruckungsvorgaben beziehen sich auf die psychotherapeutischen BFB-Formulare. Die im Rahmen der  Blankoformularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrest-riktionen gemäß Vorgaben der Bundesmantelverträge (siehe § 19 Bundesmantelvertrag-Ärzte (BMV-Ä)  bzw. §§23, 24 BMV-Ä unter [Bundesmantelvertrag]), sowie der Technischen Anlage zu Anlage 4a
 
 KBV_ITA_VGEX_Mapping_KVK] und des KVDT [KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
@@ -305,7 +305,7 @@ KBV_ITA_VGEX_Mapping_KVK] und des KVDT [KBV_ITA_VGEX_Anforderungskatalog_KVDT
 |---|---|
 | **P2.11-10** | **Geltungsbereich** |
 
-Die Anwendungssoftware darf den Ausdruck von psychotherapeutischen BFB -Formularen nur unterstützen  bei Versicherten der
+Die Anwendungssoftware darf den Ausdruck von psychotherapeutischen BFB-Formularen nur unterstützen  bei Versicherten der
 
 - Gesetzlichen Krankenversicherung (GKV)
 
@@ -357,7 +357,7 @@ Bei erfolgreicher Prüfung wird vom Referat Zertifizierung eine Prüfnummer verg
 
 Für den Ausdruck der Prüfnummer gilt:
 
-Die zugeteilte Prüfnummer muss an der definierten Position (vgl. Vordruck -Vereinbarung Blankoformular-bedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden.
+Die zugeteilte Prüfnummer muss an der definierten Position (vgl. Vordruck-Vereinbarung Blankoformular-bedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden.
 
 | PFLICHTFUNKTION BFB | |
 |---|---|

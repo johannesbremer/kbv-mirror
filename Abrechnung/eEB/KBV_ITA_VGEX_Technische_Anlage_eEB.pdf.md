@@ -1,21 +1,16 @@
-# TECHNISCHE ANLAGE ELEKTRONISCHE  ERSATZBESCHEINIGUNG (EEB)
-
-## [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_
-
-## EEB]
-
-**DEZERNAT DIGITALISIERUNG UND IT**
-
-**DOKUMENTENSTATUS: IN KRAFT**
-
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **13. MAI 2026**
 
 **VERSION: 1.02**
 
+**DOKUMENTENSTATUS: IN KRAFT**
+
+# TECHNISCHE ANLAGE ELEKTRONISCHE  ERSATZBESCHEINIGUNG (EEB)
+
+## [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_EEB]
 
 ---
 
@@ -73,15 +68,11 @@ Dieses Kapitel beschreibt die Vorgaben, welche Softwarehersteller umsetzen müss
 |---|---|
 | **P2-01** | Erzeugung des QR-Codes für die Praxis |
 
-Die Software muss dem Anwender die Möglichkeit bieten, einen QR eEB_Implementierungsleitfadens] zu erzeugen.
+Die Software muss dem Anwender die Möglichkeit bieten, einen QR-Code gemäß des  eEB_Implementierungsleitfadens] zu erzeugen.
 
 **Begründung:**
 
-Aufgrund der Notwendigkeit die KIM-Adresse der Arztpraxis den Krankenkassen geordnet bereitzustellen, erfolgt die Herausgabe der KIM-Adresse an den Patienten bevorzugt in Form  eines QR-Codes.
-
--Code gemäß des
-
--Apps standardisiert und
+Aufgrund der Notwendigkeit die KIM-Adresse der Arztpraxis den Krankenkassen-Apps standardisiert und  geordnet bereitzustellen, erfolgt die Herausgabe der KIM-Adresse an den Patienten bevorzugt in Form  eines QR-Codes.
 
 **Akzeptanzkriterium:**
 
@@ -126,7 +117,7 @@ Gemäß § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Vertrag
 -  + Wenn nein:
 -  Dann übernimmt die Software die übermittelten Daten nicht ins Praxisverwaltungssystem.
 -  + Wenn ja:
--  Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins   Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten  VSD-Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten“,   „Coverage.extension:allgemeineVersicherungsdaten“ sowie   „Coverage.extension:geschuetzteVersichertendaten“.
+-  Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten  VSD-Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten“,   „Coverage.extension:allgemeineVersicherungsdaten“ sowie   „Coverage.extension:geschuetzteVersichertendaten“.
 - Wenn nein:
 - - Dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD-Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten Coverage.extension:allgemeineVersicherungsdaten“ sowie  Coverage.extension:geschuetzteVersichertendaten
 - b) Wenn nein, dann zeigt die Software dem Anwender die Versichertendaten zur Übernahme ins  Praxisverwaltungssystem an. Die Software übernimmt die in der FHIR-Instanz übermittelten VSD-Daten aus den FHIR-Elementen „Coverage.extension:persoenlicheVersichertendaten“,  „Coverage.extension:allgemeineVersicherungsdaten“ sowie  „Coverage.extension:geschuetzteVersichertendaten“.
@@ -140,7 +131,7 @@ Gemäß § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Vertrag
 ---
 
 - 1. Die Software bietet dem Anwender die Funktionen zur Erstellung und Versand einer eEB-Anfrage gemäß  den Kapiteln „Einführung“ >“Interoperabilitätsvorgaben“ > “KIM Nachrichtenstruktur“ KIM Anfrage  einer Ersatzbescheinigung“ sowie „Einführung“ > „Elektronische Ersatzbescheinigung (eEB)“ des  eEB_Implementierungsleitfadens] an.
-- 2. Die Software bietet dem Anwender eine Funktion an, um die Zustimmung des Patienten zu der eEB Anfrage im PVS zu dokumentieren.
+- 2. Die Software bietet dem Anwender eine Funktion an, um die Zustimmung des Patienten zu der eEB-Anfrage im PVS zu dokumentieren.
 
 | OPTIONALE FUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
 |---|---|
@@ -162,7 +153,7 @@ Dieses Kapitel beschreibt die Vorgaben, die von den Krankenkassen umgesetzt werd
 
 | PFLICHTFUNKTION ELEKTRONISCHE ERSATZBESCHEINIGUNG |  |
 |---|---|
-| **P4-01** | Bereitstellung von Funktionen der Versicherten |
+| **P4-01** | Bereitstellung von Funktionen der Versicherten-Apps |
 
 Die Krankenkassen müssen ihren Versicherten Funktionen zur Verfügung stellen, um einen eEB gemäß dem  Implementierungsleitfaden [eEB_Implementierungsleitfadens] per App anzufordern und an die  entsprechende Vertragsarztpraxis zu senden.
 
@@ -175,9 +166,6 @@ Gemäß des § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Ver
 - 1. Die Krankenkassen müssen ihren Versicherten Funktionen gemäß dem Kapitel „Einführung“ >“Interoperabilitätsvorgaben“ >“QR Scan“ Nutzung des QR-Codes durch Versicherte“ des  Implementierungsleitfaden [eEB_Implementierungsleitfadens] zur Verfügung stellen.
 - 2. Die Krankenkassen müssen sicherstellen, dass der vom Versicherten ausgewählten Vertragsarztpraxis  eine eEB-Bescheinigung per KIM-Nachricht gemäß dem Kapitel „Einführung“ >“Interoperabilitätsvorgaben“ KIM-Nachrichtenstruktur KIM Bescheinigung“ übermittelt wird.
 
--Apps 
-
-
 ---
 
 4 REFERENZIERTE DOKUMENTE
@@ -185,7 +173,7 @@ Gemäß des § 19 BMV-Ä sollen Versicherte die Möglichkeit erhalten, einer Ver
 |  |  |
 |---|---|
 | **Referenz** | Dokument |
-| eEB_Implementierungsleitfaden | https://simplifier.net/guide/implementierungsl |
+| eEB_Implementierungsleitfaden der gematik | https://simplifier.net/guide/implementierungsl |
 | BMV-Ä | https://www.kbv.de/media/sp/BMV-Aerzte.pdf |
 | Anlage 4a und Anlage 4b | Anlage 4a:   https://www.kbv.de/media/sp/04a_elektr._Ges     Anlage 4b:  https://www.kbv.de/media/sp/Anlage_4b_Aut |
 
@@ -197,4 +185,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-der gematik eitfaden-vsdm- ersatzbescheinigung?version=current undheitskarte.pdf hentifizierung_Fernbehandlung.pdf[](mailto:ita@kbv.de)
+eitfaden-vsdm- ersatzbescheinigung?version=current undheitskarte.pdf hentifizierung_Fernbehandlung.pdf[](mailto:ita@kbv.de)

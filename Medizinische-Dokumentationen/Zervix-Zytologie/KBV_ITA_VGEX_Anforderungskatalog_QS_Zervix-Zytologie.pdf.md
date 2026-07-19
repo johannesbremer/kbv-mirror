@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | Anforderungskatalog zur Quali- |
-|  | [KBV_ITA_VGEX_Anforderung_ QS_Zervix- |
+|  | [KBV_ITA_VGEX_Anforderung_QS_Zervix- |
 |  | ** |
-|  | Dezernat |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2 1.03 Datum: 09.08.2012 Kennzeichnung: Öffentlich  Status: In Kraft
+tätssicherung Zervix-Zytologie Zytologie] 1.03 Datum: 09.08.2012 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ---
 
@@ -34,7 +34,7 @@ tätssicherung Zervix-Zytologie Zytologie] Digitalisierung und IT -Lewin-Platz 2
 
 **1.1** **Zielbestimmung ..............................................................................................................................4**
 
-**1.2** **Pflichtfunktionen und optionale Funktionen der Software** **........................................................4**
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software ........................................................4**
 
 **2** **ÄRZTLICHES DOKUMENTIEREN _________________________________________ 5**
 
@@ -236,7 +236,7 @@ KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur B
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
-| [KBV_ITA_VGEX_Schnittstelle_ QS_Zervix- | Schnittstellenbeschreibung Qualitätssicherung Zer- |
+| [KBV_ITA_VGEX_Schnittstelle_QS_Zervix- | Schnittstellenbeschreibung Qualitätssicherung Zer- |
 | [KBV_ITA_AHEX_Handbuch_XKM] | XKM Anwenderhandbuch |
 
 Zytologie] Versorgung vix-Zytologie

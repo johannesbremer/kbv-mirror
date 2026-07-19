@@ -1,7 +1,7 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Datensatzbeschreibung EBM-* |
-|  | [KBV_ITA_VGEX_Datensatz_SDEBM |
+|  | [KBV_ITA_VGEX_Datensatz_SDEBM] |
 |  | ** |
 |  | Dezernat 6 |
 |  |  |
@@ -16,7 +16,7 @@ Stammdatei - Satzarten 850, 851, 852, 853 Informationstechnik, Telematik und Tel
 
 ---
 
-**D** **O** **K** **U** **M** **E** **N**
+**D** **O** **K**
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@ Stammdatei - Satzarten 850, 851, 852, 853 Informationstechnik, Telematik und Tel
 |  | 10.11.2016 | KBV | -  -  - | Beschluss aus dem AK7 (Ver- | **20, 21,  32,  34,  35, 35,  38, 37,  39, 42,  42 bis  52, 63,  63, 66,  73, 77,  79, 80,  81, 93,  95, 96,  100,  101,   102,  103,  106,  107,  108,  109,  111,  112,  113,  114** |
 | 1.50 | 27.07.2016 | KBV | - |  |  |
 
-**T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
+**U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
 Anpassung des Werteberei- ches des Elementes <seite> Aufnahme eines Kapitels zu EBM-Zusatznummern Element genehmigungs- pflicht  Element kategorie Redaktionelle Korrekturen Nicht mehr verwendete Ele- mente gelöscht Formate für die Texte der GNR angepasst Attribut SV entfernt Redaktionelle Korrektur  gelung S_FAO_ICPM in die Operatio- nen- und Prozedurenschlüssel- stammdatei (SDOPS) Information im XML-Element pfg_ausschluss  besserung der Schnittstellen- struktur)
 
@@ -42,7 +42,7 @@ Anpassung des Werteberei- ches des Elementes <seite> Aufnahme eines Kapitels zu 
 | 1.40 | 06.06.2013 | KBV | -  -  - | Referenz auf verknüpfte Leistun- Verweis auf Schlüsseltabelle | **86** **88** **95** |
 | 1.32 | 26.07.2012 | KBV | - | redaktionell |  |
 
-Beta Änderung des Zeichensatzes in ISO-8859-15 OIDs der Schlüsseltabellen bei den Elementen <ms_versorgungsbereich>, <ms_arztgruppe>, <ms_scheinuntergruppe> <ms_leistungsuntergruppe> ergänzt Anpassung der EBM- Systematik Aktualisierung der Erläute- rungen für die Bereiche bei dem XML-Element <bereich> Entfernung der Elemente maximalhaeufigkeit und    minimalhaeufigkeit Neuaufnahme des XML- Elementes Mengensteue- rung_liste mit seinen ent- sprechenden Kindelementen Entfernung des rlv Kennzei- chens aus dem KBV Teil Kennzeichen arztpraxis züberlick der EBM-Systematik angepasst werden Version 1.41 Dokumentation zum Kz. Arztpraxis aktualisiert steckt“ präzisiert Kennzeichen arztpraxis sowie Referenz auf Schlüsseltab- Regel: Sub-GOP  Regel: PFG-Ausschluss gnr_type_cd Layout gen Ausschluss fachärztl. Grund- pauschale 
+Beta Änderung des Zeichensatzes in ISO-8859-15 OIDs der Schlüsseltabellen bei den Elementen <ms_versorgungsbereich>, <ms_arztgruppe>, <ms_scheinuntergruppe> <ms_leistungsuntergruppe> ergänzt Anpassung der EBM- Systematik Aktualisierung der Erläute- rungen für die Bereiche bei dem XML-Element <bereich> Entfernung der Elemente maximalhaeufigkeit und    minimalhaeufigkeit Neuaufnahme des XML- Elementes Mengensteue- rung_liste mit seinen ent- sprechenden Kindelementen Entfernung des rlv Kennzei- chens aus dem KBV Teil Kennzeichen arztpraxis Dokumentation zum Kz. Arztpraxis aktualisiert Kennzeichen arztpraxis Regel: Sub-GOP  Regel: PFG-Ausschluss gnr_type_cd Layout züberlick der EBM-Systematik angepasst werden Version 1.41 steckt“ präzisiert sowie Referenz auf Schlüsseltab- gen Ausschluss fachärztl. Grund- pauschale 
 
 
 ---
@@ -252,7 +252,7 @@ XML Code 5 /ehd/keytabs/keytab/key/fkey ........................................
 
 Die vorliegende Datensatzbeschreibung gibt die essentiellen Inhalte des EBM in strukturierter  und elektronisch weiterverarbeitbarer Form wieder.
 
-Zweck der Schnittstelle ist es, die GO -Stammdatenlieferungen zwischen KBV und KVen ab-zubilden, sowie maschinell interpretierbare Daten zur Information als auch zur Automatisie-rung der Prozesse in den Arztpraxen und Kassenärztlichen Vereinigungen zur Verfügung zu  stellen und gleichzeitig eine Qualitätssteigerung der Abrechnungsdaten zu erreichen.
+Zweck der Schnittstelle ist es, die GO-Stammdatenlieferungen zwischen KBV und KVen ab-zubilden, sowie maschinell interpretierbare Daten zur Information als auch zur Automatisie-rung der Prozesse in den Arztpraxen und Kassenärztlichen Vereinigungen zur Verfügung zu  stellen und gleichzeitig eine Qualitätssteigerung der Abrechnungsdaten zu erreichen.
 
 Der Aufbau der XML-Datei richtet sich nach den Vorgaben der ehd-Richtlinie  [KBV_ITA_VGEX_eHD].
 
@@ -266,32 +266,23 @@ Standard-Zeichensatz ist ISO-8859-15.
 
 ## 2.2 Namespace
 
-Der Standard-Namespace ist mit **urn:ehd/go/001**
+Der Standard-Namespace ist mit **urn:ehd/go/001** definiert.
 
 ## 2.3 Root-Schema
 
-Das Root-Schema, worin die abgeleiteten ehd -Schemata sowie die Projektbezogenen body -Schemata includiert sind, heißt **go_root.xsd.**
+Das Root-Schema, worin die abgeleiteten ehd-Schemata sowie die Projektbezogenen body-Schemata includiert sind, heißt **go_root.xsd.**
 
 ## 2.4 KV-spezifische Nummernkreise
 
 Für die Nummernvergabe der KV-spezifischen Ziffern steht der Nummernkreis
 
-**89.000  99.999** zur Verfügung, wobei der Bereich  serviert ist.
+**89.000  99.999** zur Verfügung, wobei der Bereich **89.000 bis 89.999** für die Impfziffern re-serviert ist.
 
 ## 2.5 KV-spezifische Bewertung
 
-Die EBM-Bewertung aus der Sektion „allgemein“ darf nicht geändert werden. Liegen dennoch  kv-spezifisch abweichende Bewertungen vor, werden diese innerhalb der Sektion „kv“ ange-geben. U.a. ist dabei eine feinere Differenzierung der KV
+Die EBM-Bewertung aus der Sektion „allgemein“ darf nicht geändert werden. Liegen dennoch  kv-spezifisch abweichende Bewertungen vor, werden diese innerhalb der Sektion „kv“ ange-geben. U.a. ist dabei eine feinere Differenzierung der KV-Bewertung(en) möglich.
 
 Wichtig: Die KV-Bewertung ersetzt die EBM-Bewertung und muss daher in sich vollständig  ausgewiesen werden.
-
-definiert.
-
-**89.000 bis 89.999**
-
--Bewertung(en) möglich.
-
-für die Impfziffern re-
-
 
 ---
 
@@ -317,7 +308,7 @@ Wie bei allen kv-spezifischen, geänderten und modifizierten Ziffern wird der Be
 
 ### 2.6.3 KV-spezifische Ziffern (neu hinzugefügte Ziffern)
 
-Von der KV können auch neue Ziffern im Nummernbereich 89000 -99999 angelegt werden. In  diesen Fällen ist der Bereich mit „X“ und in der Regel ein Kapitel aus „89“ „99“ zu verwenden  (Ausnahme bei bundeseinheitlichen Vorgaben, z.B. DMP).
+Von der KV können auch neue Ziffern im Nummernbereich 89000-99999 angelegt werden. In  diesen Fällen ist der Bereich mit „X“ und in der Regel ein Kapitel aus „89“ „99“ zu verwenden  (Ausnahme bei bundeseinheitlichen Vorgaben, z.B. DMP).
 
 Das USE-Attribut des GNR-Elements ist mit der KV-Nr. zu belegen.
 
@@ -325,7 +316,7 @@ Das USE-Attribut des GNR-Elements ist mit der KV-Nr. zu belegen.
 
 Ziffern können für die Verwendung in der Arztpraxis gesperrt werden, indem unter der Sektion  „kv“ das Kennzeichen „arztpraxis“ auf den Wert „false“ gesetzt wird.
 
-Entsprechende GOP sollen somit nicht abgerechnet werden , um bspw. die Abrechnungssta-tistiken nicht zu verfälschen.
+Entsprechende GOP sollen somit nicht abgerechnet werden, um bspw. die Abrechnungssta-tistiken nicht zu verfälschen.
 
 Dieser Sachverhalt gilt überwiegend für sogenannte Höchstwertziffern, kann aber auch in an-deren Zusammenhängen sinnvoll sein, in denen z.B. eine automatische Zusetzung durch die  KV erfolgen soll.
 
@@ -392,11 +383,11 @@ Kapitel  1  88
 
 EBM-Zusatznummern sind abgeleitete Varianten von originalen EBM-Ziffern und Pseudozif-fern (Kapitel 2.7.1 und 2.7.2), die durch einen angehängten Großbuchstaben im Wertebereich  A-Z gekennzeichnet sind (6-stellige GNR).
 
-Es gilt der Grundsatz, dass alle in den EBM -Stammsätzen abgebildeten Regeln und Bezüge  von originalen EBM-Ziffern und Pseudoziffern (Kapitel 2.7.1 Ziffern vornehmlich mit der 5-stelligen GNR ohne Buchstaben-Suffix angegeben werden, je-doch alle EBM -Zusatznummern mit Buchstaben-Suffix mit gleicher 5 -stelliger GNR einschlie-ßen. Der Buchstaben-Suffix ist somit für die Regeln und Bezüge zu einer Ziffer irrelevant, so-fern er nicht explizit angegeben wird und keine von der 5-stelligen GNR abweichenden Re-geln oder Bezüge angegeben sind. Dies gilt auch für den impliziten Bezug auf die aktuelle  Ziffer bei der Anzahlbedingung.
+Es gilt der Grundsatz, dass alle in den EBM-Stammsätzen abgebildeten Regeln und Bezüge  von originalen EBM-Ziffern und Pseudoziffern (Kapitel  Ziffern vornehmlich mit der 5-stelligen GNR ohne Buchstaben-Suffix angegeben werden, je-doch alle EBM-Zusatznummern mit Buchstaben-Suffix mit gleicher 5-stelliger GNR einschlie-ßen. Der Buchstaben-Suffix ist somit für die Regeln und Bezüge zu einer Ziffer irrelevant, so-fern er nicht explizit angegeben wird und keine von der 5-stelligen GNR abweichenden Re-geln oder Bezüge angegeben sind. Dies gilt auch für den impliziten Bezug auf die aktuelle  Ziffer bei der Anzahlbedingung.
 
 Ob dieser Grundsatz generell auch für die modifizierten EBM-Ziffern (Kapitel  KV-spezifischen Ziffern (Kapitel 2.7.4) sowie die KV-bearbeiteten EBM- und Pseudoziffern  (Kapitel 2.7.5) gilt, sollte vor einer möglichen Implementierung von entsprechenden GNR-Prüfungen mit der jeweils zuständigen Kassenärztlichen Vereinigung erörtert werden.
 
-und 2.7.2) auf andere EBM-
+2.7.1 und 2.7.2) auf andere EBM-
 
 2.7.3), die neuen
 
@@ -405,7 +396,7 @@ und 2.7.2) auf andere EBM-
 
 # 3 Satzarten
 
-Je nach Sender und Empfänger werden folgende Satzarten gemäß DTA
+Je nach Sender und Empfänger werden folgende Satzarten gemäß DTA-Richtlinie vereinbart:
 
 ## 3.1 KBV -> KV (Satzart 850)
 
@@ -423,7 +414,7 @@ Die möglichst vollständige Abbildung aller Elemente aus den Sektionen allgemei
 
 ## 3.2 KV -> KBV (Satzart 851)
 
-Auf die Satzart 850 aufsetzend, wird von den KVen unter  geänderten und modifizierten Ziffern, die Satzart 851 erstellt.
+Auf die Satzart 850 aufsetzend, wird von den KVen unter Hinzusetzung der kv-spezifischen,  geänderten und modifizierten Ziffern, die Satzart 851 erstellt.
 
 Primäre Adressaten dieser Satzart sind die Systemhäuser, welche diese Stammdaten über  die PVS für den Einsatz in der Arztpraxis einbinden.
 
@@ -435,9 +426,7 @@ Primäre Adressaten dieser Satzart sind die Systemhäuser, welche diese Stammdat
 | kv | Ergänzung bei Bedarf | KV-Bewertung |
 | vdx | [optional] |  |
 
--Richtlinie vereinbart:
-
-Arztpraxis Hinzusetzung der kv -spezifischen,
+Arztpraxis 
 
 
 ---
@@ -458,7 +447,7 @@ Dabei ist nur eine begrenzte Menge an Informationen notwendig. Beispielsweise ka
 
 ## 3.4 KBV für interne Zwecke (Satzart 853)
 
-Satzart 853 entspricht den Inhalten von Satzart 850 mit dem Unterschied, dass alle Leistun-gen mit Euro-Bewertung ausgegeben werden
+Satzart 853 entspricht den Inhalten von Satzart 850 mit dem Unterschied, dass alle Leistun-gen mit Euro-Bewertung ausgegeben werden.
 
 | Gruppe | Elemente | Beispiel |
 |---|---|---|
@@ -523,7 +512,7 @@ Die Satzart 853 wird für interne Zwecke bei Bedarf erzeugt.
 
 # 5 Dateinamenskonvention
 
-Die Vergabe der Dateinamen erfolgt nach ehd -Richtlinie und wird nach der ZIP -Archivierung  in die Dateinamenskonvention gemäß DTA
+Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie und wird nach der ZIP-Archivierung  in die Dateinamenskonvention gemäß DTA-Richtlinie überführt.
 
 Dateinamenskonvention nach ehd-Richtlinie:
 
@@ -531,11 +520,11 @@ Dateinamenskonvention nach ehd-Richtlinie:
 
 _ ............. Trennungszeichen zwischen den Namenselementen
 
-datatyp ..... Datentyp, "Satzart",  Entspricht dem Header-Element
+datatyp ..... Datentyp, "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Entspricht dem Header-Element *<document_type_cd>*
 
-vv.vv ......... VersionsNr. der Datentypbeschreibung; Entspricht dem Element
+vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<version>* des Header-Elements *<interface>*
 
-sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch)  Entspricht dem Element  Elements *<provider>*
+sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element *<person>* oder dem Element *<organization>* des Header-Elements *<provider>*
 
 tf ………… timeframe (YYYYqQ)
 
@@ -549,9 +538,9 @@ nr ............ number  Nummer der Lieferung
 
 Beispiel: 850_01.00_74_tf2005q1_nr1.xml
 
-Lange Dateinamen können vom aktuell eingesetzten Projektmanagement -System noch nicht  verarbeitet werden.
+Lange Dateinamen können vom aktuell eingesetzten Projektmanagement-System noch nicht  verarbeitet werden.
 
-Übergangsweise hilft hierbei die Umbenennung des ZIP
+Übergangsweise hilft hierbei die Umbenennung des ZIP-Archivs nach DTA-Richtlinie:
 
 **kvEJJQnn.nnn**
 
@@ -568,24 +557,6 @@ nn ....... Gültigkeitsdauer (in Quartale)
 nnn ....  Satzart
 
 Beispiel: 74E05101.850
-
--Richtlinie überführt.
-
-"ehd." ist  *<document_type_cd>*
-
-*<version>* des Header-Elements
-
-bzw. wer  *<person>* oder dem Element
-
-optional
-
-hat die -Archivs nach DTA-Richtlinie:
-
-als Vorsatz erlaubt;
-
-*<interface>*
-
-Daten geliefert;  *<organization>* des Header-
 
 
 ---
@@ -624,7 +595,7 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 Der Namensraum für die ehd-
 
-Folgender Code ist für die Implementierung einer ehd
+Folgender Code ist für die Implementierung einer ehd-Schnittstelle vorgeschrieben:
 
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
@@ -634,19 +605,20 @@ header
 header
 body
 ...
-body
-ehd
 ```
 
 Schnittstelle ist zwingend vorgeschrieben:„
+
+```
+body
+ehd
+```
 
 zusammensetzt, wie es in [KBV_ITA_VGEX_eHD]
 
 -Richtlinie
 
 **XML-Code 1 /ehd**
-
--Schnittstelle vorgeschrieben:
 
 ***<ehd>***, welches sich aus den
 
@@ -657,7 +629,7 @@ zusammensetzt, wie es in [KBV_ITA_VGEX_eHD]
 
 # 7 header (Metadaten)
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente wird auf die  jeweils aktuelle Version der ehd-Schnittstellenbeschreibung [KBV_ITA_VGEX_eHD] verwie-sen.
+Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die  jeweils aktuelle Version der ehd-Schnittstellenbeschreibung [KBV_ITA_VGEX_eHD] verwie-sen.
 
 # 8 Inhaltsdaten (body)
 
@@ -742,9 +714,7 @@ buten eingetragen. Zur besseren Referenzierung von Kodewerten innerhalb der
 
 ### Sektion und der Bildung von „Constraints“ (Referenzintegrität) wird die Benennung der  Schlüsseltabelle noch einmal in Attributen angegeben.
 
-#### <key>). Hier werden die Kodewerte in Attri-
-
-#### <body>
+#### <key>). Hier werden die Kodewerte in Attri-<body>
 
 Das Element hat folgende Attribute:
 
@@ -799,7 +769,7 @@ Das Element hat folgende Attribute:
 
 ## 10.1 Element: gnr_liste
 
-Die <gnr_liste> umschließt die zentralen Bausteine der Stammdatei, die <gnr>  Innerhalb der GNR-Liste muss jede Ziffer eindeutig definiert sein. Schemaseitig wird dies  durch eine Identitätsbedingung auf das V-Attribut geprüft.
+Die <gnr_liste> umschließt die zentralen Bausteine der Stammdatei, die <gnr> - Datensätze.  Innerhalb der GNR-Liste muss jede Ziffer eindeutig definiert sein. Schemaseitig wird dies  durch eine Identitätsbedingung auf das V-Attribut geprüft.
 
 element **gnr_liste**
 
@@ -810,23 +780,16 @@ element **gnr_liste**
 | identity cons- | Name    Refer    Selector    Field(s)    unique    u_gnr_V        go:gnr    @V |
 | annotation | documentation   Sammelelement für die GNR-Elemente. Jede GNR muss eindeutig definiert sein. |
 
-***<gnr>***
+***<gnr>***   Schlüsselelement und jeweiliger Datensatz der EBM-Stammdatei
 
-### 10.1.1
+### 10.1.1 Element: gnr
 
 Das V-Attribut des Elements <gnr> beinhaltet die Gebührennummer. Ein Pattern überprüft  hierbei, ob die Ziffer 5-stellig bzw. 6-stellig (mit einem Großbuchstaben als Suffix versehen)  formal korrekt ist. In den untergeordneten 5 Sektionen <allgemein>, <bedingung>, <regel>,  <kv> und <vdx> werden die Eigenschaften der Gebührenziffer nach ihrer fachlichen Zugehö-rigkeit gruppiert.
 
 Das Attribut VT (ValidTime) gibt Auskunft über das letzte Bearbeitungsdatum der Ziffer.
 
-Die genaue Struktur gibt die folgende Abbildung wieder:
+traints Die genaue Struktur gibt die folgende Abbildung wieder:
 
-Schlüsselelement und jeweiliger Datensatz der EBM
-
-### Element: gnr -Stammdatei
-
-- Datensätze.
-
-traints
 
 ---
 
@@ -931,13 +894,13 @@ element** body/gnr_liste/gnr/allgemein/gueltigkeit**
 |---|---|
 | type | go:gueltigkeit_typ |
 | properties | content   complex |
-| annotation | documentation   Das Element beinhaltet Unterlelemente, die sowohl die |
+| annotation | documentation   Das Element beinhaltet Unterlelemente, die sowohl die fachliche als auch die technische Gültigkeit |
 
 ***<service_tmr>***  Fachliche Gültigkeit der Ziffer
 
 ***<effective_tmr>***  Technische Gültigkeit der Ziffer (mit der aktuellen Ausprägung)
 
-fachliche als auch die technische Gültigkeit einer Ziffer ausdrücken.
+einer Ziffer ausdrücken.
 
 ---
 
@@ -1000,22 +963,33 @@ element** body/gnr_liste/gnr/allgemein/legende**
 |---|---|
 | type | go:legende_typ |
 | properties | content   complex |
-| annotation | documentation   Die legende ist ein Sammelelement für die systematische |
+| annotation | documentation   Die legende ist ein Sammelelement für die systematische Einordnung der Leistung als auch zur |
 
-***<kap_bez>***   Kapitelbezeichnung
+***<kap_bez>***
 
-***<kurztext>***   Überschrift
+***<kurztext>***
 
-***<langtext>***   Beschreibung
+***<langtext>***
 
-***<langtext_continued>*** Erweiterte Beschreibung bei sogen. „Katalogleistungen“
+***<langtext_continued>***
 
-***<quittungstext>***  Patientenfreundliche Formulierung für die Patientenquittung
+***<quittungstext>***
 
 ### 11.2.1 Element: kap_bez
 
-Einordnung der Leistung als auch zur Leistungsbeschreibung. Das Element <kap_bez> enthält die vollständige Kapitelbezeichnung, sowie die einzelnen  Bestandteile der Kapitelhierarchie in seinen Kindelementen.
+Das Element <kap_bez> enthält die vollständige Kapitelbezeichnung, sowie die einzelnen  Bestandteile der Kapitelhierarchie in seinen Kindelementen.
 
+Kapitelbezeichnung
+
+Überschrift
+
+Beschreibung
+
+Erweiterte Beschreibung bei sogen. „Katalogleistungen“
+
+Patientenfreundliche Formulierung für die Patientenquittung
+
+Leistungsbeschreibung.
 
 ---
 
@@ -1095,9 +1069,13 @@ element** kapiteldetails_typ/kapitel**
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               DN    xs:string  required |
 | annotation | documentation   Beinhaltet die Kapitelangabe. |
 
-***V***   Kapitel
+***V***
 
-***DN***   Bezeichnung
+***DN***
+
+Kapitel
+
+Bezeichnung
 
 
 ---
@@ -1231,7 +1209,7 @@ sonsten nicht gefüllt11.10 Element: div
 
 |  | V    xs:string  required |
 |---|---|
-| annotation | documentation   Verständliche Kurzfassung für die |
+| annotation | documentation   Verständliche Kurzfassung für die Patientenquittung. |
 
 ***V***   Text für die Patientenquittung
 
@@ -1245,7 +1223,7 @@ element** anmerkungen_liste**
 |---|---|
 | type | go:anmerkungen_liste_typ |
 | properties | content   complex |
-| annotation | documentation   Sammelelement für diverse Anmerkungen des |
+| annotation | documentation   Sammelelement für diverse Anmerkungen des EBM. |
 
 ### 11.3.1 Element: anmerkung
 
@@ -1261,15 +1239,12 @@ element** anmerkungen_liste_typ/anmerkung**
 | ***children*** | *go:div* |
 | ***annotation*** | ***documentation Ausformulierte Regeln oder Abrechnungshinweise des EBM2000plus. ***** |
 
-Patientenquittung. EBM.
 
 ---
 
 **<div>**
 
-Anmerkungstext
-
-ment: div
+Anmerkungstext (Erläuterung des Elementes siehe Kapitel „ ment: div
 
 ## 11.4 Element: leistungsinhalt_fakultativ
 
@@ -1284,7 +1259,7 @@ element **leistungsinhalt_fakultativ**
 | ***properties*** | ***content  complex mixed  true***** |
 | ***children*** | *go:div* |
 | ***used by*** | ***complexType ****allgemein_typ* |
-| ***annotation*** | ***documentation fakultativer Leistungsinhalt des GNR***** |
+| ***annotation*** | ***documentation fakultativer Leistungsinhalt des GNR-Textes***** |
 
 **<div>**
 
@@ -1303,11 +1278,14 @@ element **leistungsinhalt_obligat**
 | ***properties*** | ***content  complex mixed  true***** |
 | ***children*** | *go:div* |
 | ***used by*** | ***complexType ****allgemein_typ* |
-| ***annotation*** | ***documentation obligater Leistungsinhalt des GNR***** |
+| ***annotation*** | ***documentation obligater Leistungsinhalt des GNR-Textes***** |
 
-(Erläuterung des Elementes siehe Kapitel „11.10 Ele-
+Elementes siehe Kapitel „
 
-Elementes siehe Kapitel „11.10 Element: -Textes -Textes
+11.10 Ele-
+
+11.10 Element:
+
 
 ---
 
@@ -1362,7 +1340,7 @@ element** bewertung_liste/bewertung**
 
 Hinweis:
 
-Die bisherige Regelung, dass EBM -Leistungen jeweils nur eine Bewertungseinheit aufweisen  dürfen (Euro- und Punktbewertungen dürfen nicht vermischt werden), gilt mit Inkrafttreten des  EBM 2009 (Euro-EBM) nicht mehr.
+Die bisherige Regelung, dass EBM-Leistungen jeweils nur eine Bewertungseinheit aufweisen  dürfen (Euro- und Punktbewertungen dürfen nicht vermischt werden), gilt mit Inkrafttreten des  EBM 2009 (Euro-EBM) nicht mehr.
 
 #### 11.6.1.1 Element: leistungserbringerart
 
@@ -1497,7 +1475,7 @@ leistung). Wird derzeit ausschließlich für die Gesamtleistung angegeben und ka
 | properties | content   complex |
 |---|---|
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               U    xs:string  required               U-DOMAIN    xs:string  required        1.2.276.0.76.5.2 38 |
-| annotation | documentation   Die Prüfzeit liegt in der Regel etwas unterhalb der kalkulatorischen Zeit und ist Basis der |
+| annotation | documentation   Die Prüfzeit liegt in der Regel etwas unterhalb der kalkulatorischen Zeit und ist Basis der zeitbezo- |
 
 ***V***   Zeitangabe (bis zu zwei Stellen nach dem Punkt)
 
@@ -1509,7 +1487,7 @@ leistung). Wird derzeit ausschließlich für die Gesamtleistung angegeben und ka
 
 ### 11.8.1 Element: zeitprofilart
 
-Ob eine Prüfzeit für die Quartals - und/oder Tagesprüfung geeignet ist, wird durch dieses Ele-ment gekennzeichnet.
+Ob eine Prüfzeit für die Quartals- und/oder Tagesprüfung geeignet ist, wird durch dieses Ele-ment gekennzeichnet.
 
 element** pruefzeit/zeitprofilart**
 
@@ -1531,7 +1509,7 @@ Hinweis: Die in der Satzart 850 gelieferten Leistungsgruppen sind als Vorschlag 
 
 In diesen Fällen sollte in der Satzart 851 die Angabe der Schlüsseltabelle entfallen, da dann  keine Prüfung gegen die Schlüsseltabelle durch das GOS-XPM erfolgt.
 
-genen Plausibilitätenprüfungen. zeitbezo-element** leistungsgruppe**
+genen Plausibilitätenprüfungen. element** leistungsgruppe**
 
 
 ---
@@ -1570,63 +1548,35 @@ space
 
 **<ul>**
 
-nicht nummerierte Liste
-
 **<ol>**
-
-Nummerierte Liste
 
 **<table>**
 
-Tabelle mit oder ohne Kopfzeile
-
 **<b>**
-
-Fett formatierter Text
 
 **<br>**
 
-Zeilenumbruch im Text
-
 **< div>**
-
-Unterabsatz im Text
 
 **<em>**
 
-Kursiv formatierter Text
-
 **<i>**
-
-Kursiv formatierter Text
 
 **<u>**
 
-Unterstrichen formatierter Text
-
 **<sup>**
-
-Hochgestellter Text
 
 **<sub>**
 
-Tiefgesteller Text
-
 **<strong>**
-
-Hervorgehobener Text
 
 **<font>**
 
-Text, der nicht die Standardschriftgröße hat
-
 **<a>**
-
-Verlinkung auf ein anderes EBM-Element,  in href steht die OID vom EBM-Element
 
 ### 11.10.1 Element: ul
 
-Das Element <ul> wird zur Darstellung von nicht nummerierten Listen verwendet
+Das Element <ul> wird zur Darstellung von nicht nummerierten Listen verwendet.
 
 element **ul**
 
@@ -1640,18 +1590,48 @@ element **ul**
 
 **style**
 
-enthält CSS-Formatierungen für die Liste z.B. wenn Point angezeigt werden soll  der Liste oder wenn Listeneinträge eingerückt werden sollen kein Bullet-bei ‚oder‘ oder ‚und/oder‘ innerhalb
-
 **<li>**
 
+nicht nummerierte Liste
+
+Nummerierte Liste
+
+Tabelle mit oder ohne Kopfzeile
+
+Fett formatierter Text
+
+Zeilenumbruch im Text
+
+Unterabsatz im Text
+
+Kursiv formatierter Text
+
+Kursiv formatierter Text
+
+Unterstrichen formatierter Text
+
+Hochgestellter Text
+
+Tiefgesteller Text
+
+Hervorgehobener Text
+
+Text, der nicht die Standardschriftgröße hat
+
+Verlinkung auf ein anderes EBM-Element,  in href steht die OID vom EBM-Element
+
+enthält CSS-Formatierungen für die Liste z.B. wenn kein Bullet-Point angezeigt werden soll  der Liste oder wenn Listeneinträge eingerückt werden sollen
+
 Listenelement, welches die einzelnen Listenelemente repräsen-tiert
+
+bei ‚oder‘ oder ‚und/oder‘ innerhalb
 
 
 ---
 
 ### 11.10.2 Element: li
 
-Das Element <li> bildet die einzelnen Listeneinträ ge, für nummerierte und nicht nummerierte  Listen ab. Es kann weitere Unterlisten sowie Formartierungselemente enthalten.
+Das Element <li> bildet die einzelnen Listeneinträge, für nummerierte und nicht nummerierte  Listen ab. Es kann weitere Unterlisten sowie Formartierungselemente enthalten.
 
 element **li**
 
@@ -1668,7 +1648,7 @@ element **li**
 |  |  |
 |---|---|
 
-Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „ 11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
+Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
 
 ### 11.10.3 Element: ol
 
@@ -1698,7 +1678,7 @@ Listenelement, , welches die einzelnen Listenelemente repräsen-tiert (siehe Kap
 
 ### 11.10.4 Element: table
 
-Das Element <table> wird zur Darstellung einer Tabelle verwendet.
+Das Element <table> wird zur Darstellung einer Tabelle verwendet..
 
 element **table**
 
@@ -1757,7 +1737,7 @@ element **th**
 | children | **go:b** **go:br** **go:div** **go:em** **go:i** **go:u** **go:sup** **go:sub** **go:strong** **go:font** **go:a** |
 | used by | element **tr** |
 
-Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „ 11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
+Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
 
 ---
 
@@ -1775,13 +1755,13 @@ element **td**
 | children | **go:b** **go:br** **go:div** **go:em** **go:i** **go:u** **go:sup** **go:sub** **go:strong** **go:font** **go:a** |
 | used by | element **tr** |
 
-Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „ 11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
+Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
 
 ---
 
 ### 11.10.8 Element: a
 
-Das Element <a> ist eine Verlinkung auf ein anderes EBM -Element. Es kann Formatierungs-elemente enthalten.
+Das Element <a> ist eine Verlinkung auf ein anderes EBM-Element. Es kann Formatierungs-elemente enthalten.
 
 element **a**
 
@@ -1814,7 +1794,7 @@ element **font**
 |---|---|
 | name- | urn:ehd/go/001 |
 
-werden in den Kapiteln „ 11.10.9“, „11.10.10 11.10.15“ beschrieben
+werden in den Kapiteln „11.10.9“, „11.10.10 11.10.15“ beschrieben
 
 
 ---
@@ -1865,7 +1845,7 @@ element **strong**
 
 ### 11.10.11 Element: br
 
-Das Element <br> stellt einen Zeilenumbruch in einem Fließtext dar
+Das Element <br> stellt einen Zeilenumbruch in einem Fließtext dar.
 
 
 ---
@@ -1930,9 +1910,9 @@ element **u**
 
 ### 11.10.14 Element sup
 
-Das Element <sup> kennzeichnet einen Text als hochgestellten. Unterhalb von  weitere Formatierungen oder Verlinkungen
+Das Element <sup> kennzeichnet einen Text als hochgestellten. Unterhalb von  weitere Formatierungen oder Verlinkungen stehen.
 
-<sup> können  stehen.
+<sup> können
 
 
 ---
@@ -1981,33 +1961,33 @@ element** bedingung**
 
 | properties | content   complex |
 |---|---|
-| annotation | documentation   Unter dieser Sektion werden die Bedingungen einer |
+| annotation | documentation   Unter dieser Sektion werden die Bedingungen einer Ziffer, welche als Voraussetzung zur Abrech- |
 
-***<fachgruppe_liste>***  Zulässige Fachgruppen
+***<fachgruppe_liste>***
 
-***<berichtspflicht>***   Arztbrief ist Bestandteil der Leistung
+***<berichtspflicht>***
 
-***<genehmigungspflicht>***  Genehmigungspflicht oder QS-Maßnahmen notwendig
+***<genehmigungspflicht>***
 
-***<aop_115b>***    Trigger für AOP-relevante Leistungen nach § 115b
+***<aop_115b>***
 
-***<gnr_zusatzangaben>***  Abrechnungsbegründung erforderlich
+***<gnr_zusatzangaben>***
 
-***<begruendungen_liste>***  Auswahl möglicher Abrechnungsbegründungen
+***<begruendungen_liste>***
 
-***<administrative_gender_cd>*** Geschlechtsspezifische Leistung
+***<administrative_gender_cd>***
 
-***<Altersbedingung>***  Mindest- und/oder Höchstalter des Patienten
+***<Altersbedingung>***
 
-***<anzahlbedingung>***  Maximalansatz, definiert für einen Bezugsraum
+***<anzahlbedingung>***
 
-***<scheinarten_liste>***  Satzartenspezifische Abrechnungsfähigkeit
+***<scheinarten_liste>***
 
-***<abr_best>***    Abrechnungsbestimmung als Fließtext
+***<abr_best>***
 
 ## 12.1 Element: fachgruppe_liste
 
-Die folgende Struktur gibt Auskunft darüber, welche Fachgruppen die Leistung überhaupt ab-rechnen dürfen. Der Wert V sagt aus, ob es sich um einen Ein - oder Ausschluss der betref-fenden Versorgungsbereiche/Fachgruppen handelt.
+Die folgende Struktur gibt Auskunft darüber, welche Fachgruppen die Leistung überhaupt ab-rechnen dürfen. Der Wert V sagt aus, ob es sich um einen Ein- oder Ausschluss der betref-fenden Versorgungsbereiche/Fachgruppen handelt.
 
 Der Versorgungsbereich muss logischerweise eindeutig definiert sein.
 
@@ -2021,13 +2001,38 @@ element** fachgruppe_liste**
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_versbereich_V        go:versorgungsbereic @V |
 | annotation | documentation   Sammelelement für die betroffenen Versorgungsbereiche und Fachgruppen. Definiert darüber hin- |
 
-***V***    true /1: zulässige Fachgruppen
+***V***
+
+***<versorgungsbereich>***
+
+Zulässige Fachgruppen
+
+Arztbrief ist Bestandteil der Leistung
+
+Genehmigungspflicht oder QS-Maßnahmen notwendig
+
+Trigger für AOP-relevante Leistungen nach § 115b
+
+Abrechnungsbegründung erforderlich
+
+Auswahl möglicher Abrechnungsbegründungen
+
+Geschlechtsspezifische Leistung
+
+Mindest- und/oder Höchstalter des Patienten
+
+Maximalansatz, definiert für einen Bezugsraum
+
+Satzartenspezifische Abrechnungsfähigkeit
+
+Abrechnungsbestimmung als Fließtext
+
+true /1: zulässige Fachgruppen
 
 false /0: unzulässige Fachgruppen
 
-***<versorgungsbereich>*** Versorgungsbereich
+nung gelten, aufgeführt. aus deren Ein- oder Ausschluss.  Versorgungsbereich
 
-Ziffer, welche als Voraussetzung zur Abrech- nung gelten, aufgeführt. aus deren Ein- oder Ausschluss.
 
 ---
 
@@ -2103,7 +2108,7 @@ element **bedingung/genehmigungspflicht**
 
 ## 12.4 Element: aop_115b
 
-Dieses Element wird nur in der Ausprägung V=“true“ ausgegeben und  Fällen diejenigen Leistungen, die gemäß AOP -Vertrag dem Abschnitt 3 entsprechen und per  Definition einen 115b-Fall auslösen.
+Dieses Element wird nur in der Ausprägung V=“true“ ausgegeben und  Fällen diejenigen Leistungen, die gemäß AOP-Vertrag dem Abschnitt 3 entsprechen und per  Definition einen 115b-Fall auslösen.
 
 Leistung berechtigt. kennzeichnet in diesen
 
@@ -2123,11 +2128,11 @@ element** trigger_aop**
 
 ## 12.5 Element: gnr_zusatzangaben
 
-In der Struktur <gnr_zusatzangaben> werden Begründungen aufgelistet, die zur  der jeweiligen GNR gefordert werden.
+### In der Struktur <gnr_zusatzangaben> werden Begründungen aufgelistet, die zur Abrechnung
 
-### Abrechnung
+der jeweiligen GNR gefordert werden.
 
-Bei den Kindelementen werden zwei Arten von Listen unterschieden, deren Typ durch das V -Attribut des Elements <gnr_zusatzangaben_liste> bestimmt wird. Dieses Attribut sagt aus, wie  die Verknüpfung der Kindelemente erfolgt.
+Bei den Kindelementen werden zwei Arten von Listen unterschieden, deren Typ durch das V-Attribut des Elements <gnr_zusatzangaben_liste> bestimmt wird. Dieses Attribut sagt aus, wie  die Verknüpfung der Kindelemente erfolgt.
 
 element** gnr_zusatzangaben**
 
@@ -2157,7 +2162,7 @@ element** gnr_zusatzangaben/gnr_zusatzangaben_liste**
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_gnr_zusatzangabe     go:gnr_zusatzangabe    @V |
 | annotation | documentation   Beinhaltet die auswahl- oder sequenzgesteuerte Auflistung von abrechnungsbegründenden Zusatz- |
 
-***V***    Verknüpfung mehrerer Felder (AUSWAHL, SEQUENZ
+***V***    Verknüpfung mehrerer Felder (AUSWAHL, SEQUENZ)
 
 ***<gnr_zusatzangabe>*** FK der Zusatzangabe gemäß KVDT [2]
 
@@ -2195,13 +2200,13 @@ element** gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/zusatzbedin
 |---|---|
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
-| annotation | documentation   Optionale Erweiterung für zukünftige Anforderungen |
+| annotation | documentation   Optionale Erweiterung für zukünftige Anforderungen. |
 
 ***V***   Fließtext
 
 ## 12.6 Element: begruendungen_liste
 
-Aus der Begründungsliste muss mindestens ein Element als Abrechnungsbegründung aus-gewählt werden. Die Abrechnungsbegründung kann dabei ein OP -Schlüssel, ICD-Code oder  eine der aufgeführten Gebührennummern sein.
+Aus der Begründungsliste muss mindestens ein Element als Abrechnungsbegründung aus-gewählt werden. Die Abrechnungsbegründung kann dabei ein OP-Schlüssel, ICD-Code oder  eine der aufgeführten Gebührennummern sein.
 
 
 ---
@@ -2212,7 +2217,7 @@ element** begruendungen_liste**
 |---|---|
 | type | go:begruendungen_liste_typ |
 | properties | content   complex |
-| annotation | documentation |
+| annotation | documentation   Beinhaltet die Verknüpfungen zu ICD, OPS und GNR, deren Auswahl abrechnungsbegründende |
 
 ***<ops_liste>***
 
@@ -2236,7 +2241,7 @@ Liste mit verknüpften ICD-Codes
 
 Liste mit verknüpften GOP
 
-Beinhaltet die Verknüpfungen zu ICD, OPS und Wirkung erzielt, falls diese als Zusatzangabe definiert wurde. GNR, deren Auswahl abrechnungsbegründende ### Element: ops_liste
+Wirkung erzielt, falls diese als Zusatzangabe definiert wurde. ### Element: ops_liste
 
 
 ---
@@ -2271,9 +2276,9 @@ element** begruendungen_liste/ops_liste/kategorie**
 
 #### 12.6.1.2 Element: ops
 
-Das Element <ops> beinhaltet in seinem V-Attribut den OP-Schlüssel. Aufgrund der Menge  und Redundanz der OPS wurde auf die Bezeichnungen und Zusatzinformationen innerhalb  der SDEBM verzichtet und diese in eine r Schlüsseltabelle ausgelagert. Die Seitenlokalisation  wird nur in den Ausnahmefällen ausgegeben, in denen die Ausprägung der Seitenlokalisation  für die eindeutige Zuordnung in eine Kategorie relevant ist.
+Das Element <ops> beinhaltet in seinem V-Attribut den OP-Schlüssel. Aufgrund der Menge  und Redundanz der OPS wurde auf die Bezeichnungen und Zusatzinformationen innerhalb  der SDEBM verzichtet und diese in einer Schlüsseltabelle ausgelagert. Die Seitenlokalisation  wird nur in den Ausnahmefällen ausgegeben, in denen die Ausprägung der Seitenlokalisation  für die eindeutige Zuordnung in eine Kategorie relevant ist.
 
-Beinhaltet die mit der Leistung verknüpften OP -Schlüssel im Rahmen des ambulanten Operierens. rung des Ambulanten Operierens handelt oder wenn die OPS und damit außerhalb von Anhang 2 erfolgt. -Verknüpfung im Rahmen von § 115b Hier ist die OP-Kategorie inklusive der kalkulatorischen Schnitt-Naht-Zeit enthalten. Eine konkrete Das Attribut R kennzeichnet den jeweiligen OPS ggf. als 115b-fähig. In der Kombination 115b-fähiger OPS und GOP kann die jeweilige Ziffer einen separaten, extrabudgetär vergüteten  Abrechnungsschein/Datensatz auslösen (Abrechnungsgebiet 115b).
+Beinhaltet die mit der Leistung verknüpften OP-Schlüssel im Rahmen des ambulanten Operierens. rung des Ambulanten Operierens handelt oder wenn die OPS-Verknüpfung im Rahmen von § 115b und damit außerhalb von Anhang 2 erfolgt.  Hier ist die OP-Kategorie inklusive der kalkulatorischen Schnitt-Naht-Zeit enthalten. Eine konkrete Das Attribut R kennzeichnet den jeweiligen OPS ggf. als 115b-fähig. In der Kombination 115b-fähiger OPS und GOP kann die jeweilige Ziffer einen separaten, extrabudgetär vergüteten  Abrechnungsschein/Datensatz auslösen (Abrechnungsgebiet 115b).
 
 
 ---
@@ -2294,7 +2299,7 @@ element** begruendungen_liste/ops_liste/kategorie/ops**
 
 Hinweis:
 
-Die Bezeichnung der OP -Schlüssel kann dem DN-Attribut des XML-Elements ..//opscode der  Operationen- und Prozedurenschlüsselstammdatei (SDOPS) entnommen werden.
+Die Bezeichnung der OP-Schlüssel kann dem DN-Attribut des XML-Elements ..//opscode der  Operationen- und Prozedurenschlüsselstammdatei (SDOPS) entnommen werden.
 
 #### 12.6.1.3 Element: seite
 
@@ -2322,9 +2327,8 @@ L (links)
 
 B (beidseitig)
 
-P (Paarig)
+mit ggf. Ab- rechnungsbe- sonderheit nach §115b Abschnitte 1,2 Anlage 1 rie-/GNR-Zuordnung erzwingt. P (Paarig)
 
-mit ggf. Ab- rechnungsbe- sonderheit nach §115b Abschnitte 1,2 Anlage 1 rie-/GNR-Zuordnung erzwingt.
 
 ---
 
@@ -2338,7 +2342,7 @@ Eine grundsätzliche Information, ob der jeweilige OPS eine Seitenlokalisation e
 
 Der Wert V der <icd_liste> gibt an, ob die folgenden ICD-Codes ein- oder ausgeschlossen  sind.
 
-In der Regel handelt es sich um einen Einschluss der aufgeführten ICD-Codes und hat zur  Folge, dass bei Abrechnung einer entspechenden Ziffer einer der aufgeführten ICD -Codes im  Behandlungsfall vorliegen muss.
+In der Regel handelt es sich um einen Einschluss der aufgeführten ICD-Codes und hat zur  Folge, dass bei Abrechnung einer entspechenden Ziffer einer der aufgeführten ICD-Codes im  Behandlungsfall vorliegen muss.
 
 element** begruendungen_liste/icd_liste**
 
@@ -2347,9 +2351,9 @@ element** begruendungen_liste/icd_liste**
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_icd_V        go:icd    @V |
-| annotation | documentation   Beinhaltet die mit der Leistung verknüpften ICD |
+| annotation | documentation   Beinhaltet die mit der Leistung verknüpften ICD-Codes, welche die Abrechnung der Leistung legiti- |
 
-***V***
+***V***   true /1:  zulässig
 
 ***<icd>***
 
@@ -2364,11 +2368,9 @@ element** begruendungen_liste/icd_liste/icd**
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
-true /1:  zulässig
-
 false /0: unzulässig
 
-mieren.  -Codes, welche die Abrechnung der Leistung legiti-ICD-Code
+mieren.  ICD-Code
 
 
 ---
@@ -2380,7 +2382,7 @@ mieren.  -Codes, welche die Abrechnung der Leistung legiti-ICD-Code
 
 ### 12.6.3 Element: gnr_liste
 
-Für einige wenige Leistungen aus Kapitel 31.2 kann der Fall auftreten, dass eine GNR als  Abrechnungsbegründung herangezogen werden kann. Dies betrifft in der Regel OP -Eingriffe,  bei denen kein OPS-Code vorliegt.
+Für einige wenige Leistungen aus Kapitel 31.2 kann der Fall auftreten, dass eine GNR als  Abrechnungsbegründung herangezogen werden kann. Dies betrifft in der Regel OP-Eingriffe,  bei denen kein OPS-Code vorliegt.
 
 Beispielsweise ist durch die Begründung einer OP-Ziffer durch  dass es sich um einen *Kleinen operativen Eingriff I und/oder primäre Wundversorgung“*
 
@@ -2392,7 +2394,7 @@ element** begruendungen_liste/gnr_liste**
 |---|---|
 | properties | isRef   0  content   complex |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_begr_gnr_V        go:gnr    @V |
-| annotation | documentation   Beinhaltet Leistungen der Kleinchirurgie, die im Rahmen des ambulanten |
+| annotation | documentation   Beinhaltet Leistungen der Kleinchirurgie, die im Rahmen des ambulanten Operierens abrechnungs- |
 
 ***<gnr>***  Gebührennummer
 
@@ -2416,7 +2418,7 @@ Gebührennummer
 
 Bezeichnung
 
-begründend verwendet werden können, falls kein OPS vorliegt. Operierens abrechnungs-*02300* für die KV erkennbar,  han-
+begründend verwendet werden können, falls kein OPS vorliegt. *02300* für die KV erkennbar,  han-
 
 
 ---
@@ -2448,13 +2450,13 @@ element** altersbedingung_liste**
 | type | go:altersbedingung_liste_typ |
 | properties | content   complex |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_alter_V_rt        go:alter    @V    go:range_typ/@V |
-| annotation | documentation   achte die begrifflichen Besonderheiten in Zusammenhang mit dem |
+| annotation | documentation   achte die begrifflichen Besonderheiten in Zusammenhang mit dem Alter /Lebensjahr! |
 
 ***<alter>***   Patientenalter als Voraussetzung
 
 ### 12.8.1 Element: alter
 
-Alter /Lebensjahr! Beinhaltet das Mindest- und/oder Höchstalter für die Abrechnugsfähigkeit einer Leistung. Man be-Das Alter wird durch das V-Attribut, die Einheit des Alters durch das U-Attribut wiedergege-ben.
+Beinhaltet das Mindest- und/oder Höchstalter für die Abrechnugsfähigkeit einer Leistung. Man be-Das Alter wird durch das V-Attribut, die Einheit des Alters durch das U-Attribut wiedergege-ben.
 
 
 ---
@@ -2583,7 +2585,7 @@ gabe_V
 
 |  | S    xs:string  required        1.2.276.0.76.5.2 29 |
 |---|---|
-| annotation | documentation   Zu dokumentierende Zusatzangabe gemäß |
+| annotation | documentation   Zu dokumentierende Zusatzangabe gemäß KVDT-Codierung zur Aussetzung der maximal zulässi- |
 
 ***V***   FK gemäß KVDT
 
@@ -2620,7 +2622,7 @@ element** altersbedingung_liste/alter**
 
 ***U***   Einheit
 
-KVDT-Codierung zur Aussetzung der maximal zulässi- gen Anzahl ***U-DOMAIN***  OID der Schlüsseltabelle
+gen Anzahl ***U-DOMAIN***  OID der Schlüsseltabelle
 
 
 ---
@@ -2658,9 +2660,9 @@ element** scheinarten_liste**
 | properties | content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_scheinart_V        go:scheinart    @V |
-| annotation | documentation   Beinhaltet die Definition zulässigen Scheinarten |
+| annotation | documentation   Beinhaltet die Definition zulässigen Scheinarten /Scheinuntergruppen durch Ein- bzw. Ausschluss |
 
-/Scheinuntergruppen durch Ein- bzw. Ausschluss derselben. ***V***   true /1:  Scheinart(en) zulässig
+derselben. ***V***   true /1:  Scheinart(en) zulässig
 
 
 ---
@@ -2689,7 +2691,7 @@ element** scheinarten_liste/scheinart**
 
 #### 12.10.1.1 Element: scheinuntergruppen_liste
 
-Über Attribut V, wird die Liste als Ein - oder Ausschluss definiert. Eine Identitätsbedingung auf  die Attribute der Kindelemente ‚scheinuntergruppe’ stellt dabei die Eindeutigkeit innerhalb der  Liste sicher.
+Über Attribut V, wird die Liste als Ein- oder Ausschluss definiert. Eine Identitätsbedingung auf  die Attribute der Kindelemente ‚scheinuntergruppe’ stellt dabei die Eindeutigkeit innerhalb der  Liste sicher.
 
 Folgender Kontext ist im Rahmen einer eindeutigen Interpretation zu beachten:
 
@@ -2706,9 +2708,9 @@ element** scheinarten_liste/scheinart/scheinuntergruppen_liste**
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_scheinuntergruppe     go:scheinuntergruppe    @V |
-| annotation | documentation   Sammelelement für die Scheinuntergrupp(en) und Definition von Ein |
+| annotation | documentation   Sammelelement für die Scheinuntergrupp(en) und Definition von Ein- oder Ausschluss derselben. |
 
-_V   - oder Ausschluss derselben.
+_V
 
 ---
 
@@ -2744,11 +2746,10 @@ element** abr_best**
 |---|---|
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
-| annotation | documentation   Textlich formulierte Abrechnungsbestimmung gemäß |
+| annotation | documentation   Textlich formulierte Abrechnungsbestimmung gemäß EBM. |
 
 ***V***   Abrechnungsbestimmung in Fließtext
 
-EBM.
 
 ---
 
@@ -2761,29 +2762,18 @@ element** regel**
 | diagram |  |
 |---|---|
 | properties | content   complex |
-| annotation | documentation   Regeln im Postprocessing der KV-Abrechnung |
+| annotation | documentation   Sektion mit den gebräuchlichsten Regeln im Postprocessing der KV-Abrechnung |
 
-***<ausschluss_liste>***
+***<ausschluss_liste>*** Leistungsausschluss
 
-***<grundleistungen_liste>***
+***<grundleistungen_liste>*** erforderliche Grundleistungen bei Zuschlagleistungen
 
-***<sub_gop_liste>***
+***<sub_gop_liste>***  Differenzierung von Pauschalen und Strukturzuschlägen
 
-***<pfg_ausschluss>***
+***<pfg_ausschluss>***  Kennzeichen „Grundpauschale fachärztliche Grundversorgung“
 
-***<ersetzungs_liste>***
+***<ersetzungs_liste>*** Höchstwertregel
 
-Leistungsausschluss
-
-erforderliche Grundleistungen bei Zuschlagleistungen
-
-Differenzierung von Pauschalen und Strukturzuschlägen
-
-Kennzeichen „Grundpauschale fachärztliche Grundversorgung“
-
-Höchstwertregel
-
-Sektion mit den gebräuchlichsten
 
 ---
 
@@ -2838,7 +2828,7 @@ element** ausschluss_liste/bezugsraum/gnr_liste**
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V   **xs:boolean**  required |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_aus_gnr_V        go:gnr    @V |
-| annotation | documentation   Sammelelement für Auflistung von GNR und Definition von Ein |
+| annotation | documentation   Sammelelement für Auflistung von GNR und Definition von Ein- bzw. Ausschluss. |
 
 ***V***   true /1:  zulässig, Einschluss
 
@@ -2864,7 +2854,6 @@ zulässige Formate: nnnnn, nnnnnA (6. Stelle alphanum. Uppercase)
 
 ***DN***   GNR-Text, Bezeichnung
 
-- bzw. Ausschluss.
 
 ---
 
@@ -2879,7 +2868,7 @@ element** ausschluss_liste/bezugsraum/kap_liste**
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_aus_kap_bez_V        go:kap_bez    @V |
-| annotation | documentation   Sammelelement für Kapitelangaben und Definition von Ein |
+| annotation | documentation   Sammelelement für Kapitelangaben und Definition von Ein- bzw. Ausschluss. |
 
 ***V***   true /1:  zulässig, Einschluss
 
@@ -2889,7 +2878,7 @@ false /0: unzulässig, Ausschluss
 
 ##### 13.1.1.2.1 Element: kap_bez
 
-Durch das Element <kap_bez> werden die in der Kapitelhierarchie untergeordneten Kapi-tel/Abschnitte/Blöcke definiert, die für den Ausschluss relevant sind. Das DN -Attribut gibt da-bei die Bezeichnung der untersten Kapitelstufe wieder.
+Durch das Element <kap_bez> werden die in der Kapitelhierarchie untergeordneten Kapi-tel/Abschnitte/Blöcke definiert, die für den Ausschluss relevant sind. Das DN-Attribut gibt da-bei die Bezeichnung der untersten Kapitelstufe wieder.
 
 element** ausschluss_liste/bezugsraum/kap_liste/kap_bez**
 
@@ -2905,7 +2894,7 @@ element** ausschluss_liste/bezugsraum/kap_liste/kap_bez**
 
 ## 13.2 Element: grundleistungen_liste
 
-- bzw. Ausschluss. Durch diesen Regeltyp werden bei reinen Zuschlagleistungen die erforderlichen Grundleis-tungen aufgeführt, die für die Abrechnung der Zuschlagleistung Voraussetzung sind.
+Durch diesen Regeltyp werden bei reinen Zuschlagleistungen die erforderlichen Grundleis-tungen aufgeführt, die für die Abrechnung der Zuschlagleistung Voraussetzung sind.
 
 
 ---
@@ -2925,7 +2914,7 @@ element** grundleistungen_liste**
 
 Hierbei wird der Zeitraum angegeben, für den die Grundleistungsregel relevant ist.
 
-Dieser lässt sich oftmals jedoch nicht eindeutig bestimmen, da bei mehreren Grundleistungen  diese bspw. in unterschiedlichen Quartalen erfasst worden sind . In diesem Fällen für die Ein-heit für den Bezugsraum mit „U=0“ (= unbekannt) ausgegeben.
+Dieser lässt sich oftmals jedoch nicht eindeutig bestimmen, da bei mehreren Grundleistungen  diese bspw. in unterschiedlichen Quartalen erfasst worden sind. In diesem Fällen für die Ein-heit für den Bezugsraum mit „U=0“ (= unbekannt) ausgegeben.
 
 Sofern eine beliebige Grundleistung also „je Sitzung“ berechnungsfähig ist, gilt dies ebenso  für die Zuschlagleistung; sofern die Grundleistung einmal „im Behandlungsfall“ abrechenbar  ist, gilt dies analog für die Zuschlagleistung u.s.w.
 
@@ -2944,7 +2933,7 @@ element** grundleistungen_liste/bezugsraum**
 
 ***U-DOMAIN***  OID der Schlüsseltabelle für U
 
-aufgeführt, die für die Abrechnung der Zuschlagleistung Voraussetzung sind.***<gnr>***  GNR als Grundleistung
+aufgeführt, die für die Abrechnung der Zuschlagleistung Voraussetzung sind. ***<gnr>***  GNR als Grundleistung
 
 
 ---
@@ -2965,9 +2954,7 @@ element** grundleistungen_liste/bezugsraum/gnr**
 
 ## 13.3 Element: sub_gop_liste
 
-Die sub_gop_liste enthält eine Referenz auf weitere Unter sich diese Sub-GOP wie Zuschlagleistungen, haben jedoch einen anderen fachlichen Hinter-grund. Ausgehend von einer Basisleistung kann über diese Regel in untergeordnete Sub GOP verzweigt werden.
-
--Leistungen. Technisch verhalten
+Die sub_gop_liste enthält eine Referenz auf weitere Unter-Leistungen. Technisch verhalten  sich diese Sub-GOP wie Zuschlagleistungen, haben jedoch einen anderen fachlichen Hinter-grund. Ausgehend von einer Basisleistung kann über diese Regel in untergeordnete Sub-GOP verzweigt werden.
 
 element** sub_gop_liste**
 
@@ -2977,13 +2964,15 @@ element** sub_gop_liste**
 | identity cons- | Name    Refer    Selector    Field(s)    unique    u_supgop_bezugsraum        go:bezugsraum    @V    @U |
 | annotation | documentation   Verweis auf  Unter-Leistungen , die als Spezialisierung  oder Differenzierung der Basisleistung |
 
-***<bezugsraum>***  Bezugsraum
+***<bezugsraum>***
 
-### 13.3.1 Element: sub_gop_liste/bezugsraum
+### 13.3.1
 
-Definiert den Bezugszeitraum, innerhalb dessen die regel anzuwenden ist.  Behandlungstag, Behandlungsfall etc.
+Definiert den Bezugszeitraum, innerhalb dessen die regel anzuwenden ist. Beispiele sind der  Behandlungstag, Behandlungsfall etc.
 
-traints gelten. Kann ebenfalls in Zusammenhang mit Zuschlägen verwendet werden.Beispiele sind der
+Bezugsraum
+
+traints gelten. Kann ebenfalls in Zusammenhang mit Zuschlägen verwendet werden. ### Element: sub_gop_liste/bezugsraum
 
 
 ---
@@ -2995,15 +2984,13 @@ element** sub_gop_liste/bezugsraum**
 | properties | minOcc  maxOcc   1  unbounded  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               U    xs:string  required               U-DOMAIN    xs:string  required        1.2.276.0.76.5.2 26 |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_supgop_gnr        go:gnr    @V |
-| annotation | documentation   Definiert den Bezugszeitraum, innerhalb dessen die Sub |
+| annotation | documentation   Definiert den Bezugszeitraum, innerhalb dessen die Sub-GOP gesetzt werden. |
 
 ### <gnr> Referenz auf Sub-GOP
 
 #### 13.3.1.1 Element: sub_gop_liste/bezugsraum/gnr
 
-### Hier aufgelistete GOP (Sub-GOP) sind Spezialisierungen oder Differenzierungen der Basis-
-
-leistung. Sie dienen idR als Hilfsziffer, um bspw. altersabhängige Bewertungen einer Pau-schale in der vorliegenden Systematik abbilden zu können.
+Hier aufgelistete GOP (Sub-GOP) sind Spezialisierungen oder Differenzierungen der Basis-leistung. Sie dienen idR als Hilfsziffer, um bspw. altersabhängige Bewertungen einer Pau-schale in der vorliegenden Systematik abbilden zu können.
 
 element** sub_gop_liste/bezugsraum/gnr**
 
@@ -3011,13 +2998,13 @@ element** sub_gop_liste/bezugsraum/gnr**
 |---|---|
 | properties | minOcc  maxOcc   1  unbounded  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    go:gnr_format_typ  required               DN    xs:string  required |
-| annotation | documentation   Referenz auf eine Sub-GOP (Unterleistung), die ggf. an |
+| annotation | documentation   Referenz auf eine Sub-GOP (Unterleistung), die ggf. an eine weitere Bedingung |
 
 ### <altersbedingung_liste>  Referenz auf die Altersbedingung der Sub-GOP
 
 ##### 13.3.1.1.1 Element: altersbedingung_liste
 
--GOP gesetzt werden. eine weitere Bedingung gekoppelt sein kann. Die Zusatzbedingung dient insbesondere dazu, bei mehreren Sub-GOP die zutreffende Sub-GOP zu ermitteln. Wie bei der Referenz auf die Sub-GOP ist auch die Zusatzbedingung (hier: altersbedin-gung_liste) eine Referenz auf die jeweilige Bedingung, die noch einmal bei der Sub-GOP
+gekoppelt sein kann. Die Zusatzbedingung dient insbesondere dazu, bei mehreren Sub-GOP die zutreffende Sub-GOP zu ermitteln. Wie bei der Referenz auf die Sub-GOP ist auch die Zusatzbedingung (hier: altersbedin-gung_liste) eine Referenz auf die jeweilige Bedingung, die noch einmal bei der Sub-GOP
 
 
 ---
@@ -3048,9 +3035,8 @@ element** pfg_ausschluss**
 
 ## 13.5 Element: ersetzungs_liste
 
-Die Nebeneinanderabrechnung von Leistungen kann zu Höchstwerten führen. Die Höchstwer-te werden durch sogenannte Ersetzungsziffern in folgender Struktur abgebildet:
+Dient zur Kennzeichnung von Leistungen, deren Abrechnung zum Ausschluss der Grundpauschale Die Nebeneinanderabrechnung von Leistungen kann zu Höchstwerten führen. Die Höchstwer-te werden durch sogenannte Ersetzungsziffern in folgender Struktur abgebildet:
 
-Dient zur Kennzeichnung von Leistungen, deren Abrechnung zum Ausschluss der Grundpauschale
 
 ---
 
@@ -3061,7 +3047,7 @@ element** ersetzungs_liste**
 | type | go:ersetzungs_liste_typ |
 | properties | content   complex |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_ers_ersetzung_V        go:ersetzung    @V |
-| annotation | documentation   ersetzt. Um eine Verfälschung der Abrechnungsstatistik zu vermeiden, darf die |
+| annotation | documentation   Ziffern, deren Nebeneinanderabrechnung  zu Höchstwerten führt, werden (in der KV!) durch diese |
 
 ***<ersetzung>*** Höchstwertziffer, die Kombinationen von Leistungen ersetzt
 
@@ -3085,7 +3071,7 @@ element** ersetzungs_liste/ersetzung**
 
 ***<gnr_liste>***  Liste der Ziffern, deren Gesamtbewertung
 
-Ziffern, deren Nebeneinanderabrechnung  zu Höchstwerten führt, werden (in der KV!) durch diese Ersetzung nicht in der Arztpraxis erfolgen. wird.
+ersetzt. Um eine Verfälschung der Abrechnungsstatistik zu vermeiden, darf die Ersetzung nicht in der Arztpraxis erfolgen. wird.
 
 ---
 
@@ -3181,33 +3167,19 @@ element** kennzeichen**
 |---|---|
 | type | go:kennzeichen_typ |
 | properties | content   Complex |
-| annotation | documentation |
+| annotation | documentation   Sammelelement für besondere Kennzeichen der Ziffer |
 
-***<arztpraxis>***
+***<arztpraxis>*** Abrechnungsfähigkeit in der Arztpraxis
 
-***<fkz>***
+***<fkz>***  fkz-Fähigkeit der Leistung (Bool)
 
-***<gnr_type_cd>***
+***<gnr_type_cd>*** Modifizierung einer EBM-Leistung, GOP-Art
 
-***<begleit_115b>***
+***<begleit_115b>*** Zulässige Begleitleistung im 115b-Fall
 
-***<begleit_115b>***
+***<begleit_115b>*** Zulässige Begleitleistung im 115b-Fall
 
-***<mengensteuerungs_liste>***
-
-Abrechnungsfähigkeit in der Arztpraxis
-
-fkz-Fähigkeit der Leistung (Bool)
-
-Modifizierung einer EBM-Leistung, GOP-Art
-
-Zulässige Begleitleistung im 115b-Fall
-
-Zulässige Begleitleistung im 115b-Fall
-
-regelt die Mengensteuerung der GOP
-
-Sammelelement für besondere Kennzeichen der Ziffer
+***<mengensteuerungs_liste>*** regelt die Mengensteuerung der GOP
 
 ---
 
@@ -3215,7 +3187,7 @@ Sammelelement für besondere Kennzeichen der Ziffer
 
 Das Element definiert die Verwendung von GOP hinsichtlich ihrer Abrechnungsfähigkeit in der  Arztpraxis. In der Ausprägung *false* werden bspw. Höchstwerte und technische Ziffern ge-kennzeichnet, die nicht in die Abrechnung zu exportieren und zu übermitteln sind.
 
-Die erlaubten Inhalte werden über eine externe Schlüsseltabelle definiert
+Die erlaubten Inhalte werden über eine externe Schlüsseltabelle definiert.
 
 element** kennzeichen/arztpraxis**
 
@@ -3225,9 +3197,13 @@ element** kennzeichen/arztpraxis**
 | attributes | Name    Type    Use    Default    Fixed    Annotation |
 | annotation | documentation   Boolescher Wert, welcher die Abrechenbarkeit der Ziffer in der Arztpraxis kennzeichnet. |
 
-***V***   Codewert, z.B. false, true
+***V***
 
-***S***   Referenz auf Schlüsseltabelle
+***S***
+
+Codewert, z.B. false, true
+
+Referenz auf Schlüsseltabelle
 
 ### 14.1.2 Element: fkz
 
@@ -3334,15 +3310,13 @@ Innerhalb der Einschluss-Liste (V=true) sind diejenigen Kostenträgergruppen ent
 
 Im Falle der Ausschluss-Liste (V=false) werden diejenigen Kostenträgergruppen aufgezählt,  welche die betreffende Leistung nicht als Begleitleistung innerhalb eines 115b-Scheines  /Datensatzes anerkennen.
 
-Eine nähere Beschreibung des Elements <ktgruppen_liste> siehe unter
+Eine nähere Beschreibung des Elements <ktgruppen_liste> siehe unter 14.4
 
 element** kennzeichen/begleit_115b/ktgruppen_liste**
 
-14.4
-
 ###### 14.1.4.1.1.1.2 Element: kt_liste
 
-Innerhalb der Einschluss-Liste (V=true) sind diejenigen Kostenträger aufgeführt, welche die  betreffende Leistung als Begleitleistung anerkennen und somit zusammen mit den 115b-auslösenden Leistungen gemäß der Abschnitte 1 -3 des AOP-Vertrages extrabudgetär vergü-ten.
+Innerhalb der Einschluss-Liste (V=true) sind diejenigen Kostenträger aufgeführt, welche die  betreffende Leistung als Begleitleistung anerkennen und somit zusammen mit den 115b-auslösenden Leistungen gemäß der Abschnitte 1-3 des AOP-Vertrages extrabudgetär vergü-ten.
 
 Im Falle der Ausschluss-Liste (V=false) werden diejenigen Kostenträger aufgezählt, welche  die betreffende Leistung nicht als Begleitleistung innerhalb eines 115b-Scheines /Datensatzes  anerkennen.
 
@@ -3362,9 +3336,8 @@ element** mengensteuerung_liste**
 |---|---|
 | properties | content   Complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation |
-| annotation | documentation   Wenn dieses Element vorhanden ist, gibt es |
+| annotation | documentation   Wenn dieses Element vorhanden ist, gibt es eine Mengensteuerung |
 
-eine Mengensteuerung
 
 ---
 
@@ -3388,7 +3361,7 @@ element** mengensteuerung**
 
 Attribute dient der textuellen kv-internen Erläute-rung/Beschreibung des Elementes
 
-***<ms_versorgungsbereich_liste>***  dient der Definition von Versorgungsbereichen, die in  der Mengensteuerung der Leistung berücksichtigt wer-den sollen
+***<ms_versorgungsbereich_liste>*** dient der Definition von Versorgungsbereichen, die in  der Mengensteuerung der Leistung berücksichtigt wer-den sollen
 
 ***<ms_arztgruppe_liste>***
 
@@ -3403,7 +3376,7 @@ dient der Definition von Arztgruppen, die in der Men-gensteuerung der Leistung b
 
 ##### 14.1.5.1.1 Element: ms_versorgungsbereich_liste
 
-Mit dem Element *ms_versorgungsbereich_liste* können verschiedene Versorgungsbereiche  beschrieben werden, für welche die Mengensteuerung angewendet wird
+Mit dem Element *ms_versorgungsbereich_liste* können verschiedene Versorgungsbereiche  beschrieben werden, für welche die Mengensteuerung angewendet wird.
 
 element** ms_versorgungsbereich_liste**
 
@@ -3427,21 +3400,13 @@ element** ms_versorgungsbereich**
 | Attributes | Name    Type    Use    Default    Fixed    V    xs:string  required        S    xs:string  required        1.2.276.0.76.3.1.1.5.2.31 |
 | annotation | documentation |
 
-***V***
+***V***   Code für den Versorgungsbereich
 
-***S***
+***S***   OID der Schlüsseltabelle
 
-##### 14.1.5.1.2
+##### 14.1.5.1.2 Element: ms_arztgruppe_liste
 
-Mit dem Element  den, für welche die Mengensteuerung angewendet wird
-
-Code für den Versorgungsbereich
-
-OID der Schlüsseltabelle
-
-##### Element: ms_arztgruppe_liste
-
-*ms_arztgruppe_liste* können verschiedene Arztgruppen beschrieben wer-
+Mit dem Element *ms_arztgruppe_liste* können verschiedene Arztgruppen beschrieben wer-den, für welche die Mengensteuerung angewendet wird.
 
 
 ---
@@ -3472,7 +3437,7 @@ element** ms_arztgruppe**
 
 ##### 14.1.5.1.3 Element: ms_scheinuntergruppe_liste
 
-Mit dem Element *ms_scheinuntergruppe_liste* können verschiedene Scheinuntergruppen be-schrieben werden, für welche die Mengensteuerung angewendet wird
+Mit dem Element *ms_scheinuntergruppe_liste* können verschiedene Scheinuntergruppen be-schrieben werden, für welche die Mengensteuerung angewendet wird.
 
 element** ms_scheinuntergruppe_liste**
 
@@ -3505,7 +3470,7 @@ element** ms_scheinuntergruppe**
 
 ##### 14.1.5.1.4 Element: ms_leistungsuntergruppe_liste
 
-Mit dem Element  beschrieben werden, für welche die Mengensteuerung angewendet wird *ms_leistungsuntergruppe_liste* können verschiedene Leistungsuntergruppen
+Mit dem Element  beschrieben werden, für welche die Mengensteuerung angewendet wird.  *ms_leistungsuntergruppe_liste* können verschiedene Leistungsuntergruppen
 
 element** ms_leistungsuntergruppe_liste**
 
@@ -3530,9 +3495,9 @@ element** ms_leistungsuntergruppe**
 | attributes | Name    Type    Use    Default    Fixed    V    xs:string  required        S    xs:string  required        1.2.276.0.76.3.1.1.5.2.33 |
 | annotation | documentation |
 
-***V***   Code für die Leistungsuntergruppe
+***V***
 
-***S***   OID der Schlüsseltabelle
+***S***
 
 ## 14.2 Element: kv_gruppierungsfeld_liste
 
@@ -3546,11 +3511,19 @@ element** kv_gruppierungsfeld_liste**
 | properties | content   complex |
 | annotation | documentation   Sammelelement für kv-spezifische Informationen zur Initialisierung der Bewertungssteuerungsdatei |
 
-***<kv_gruppierungsfeld>*** Eingruppierung für die Bewertungssteuerung
+Code für die Leistungsuntergruppe
 
-### 14.2.1 Element: kv_gruppierungsfeld
+OID der Schlüsseltabelle
 
-im Rahmen von VDX KV-spezifische Information zur Initialisierung der Bewertungssteuerungsdatei (VDX).
+***<kv_gruppierungsfeld>***
+
+### 14.2.1
+
+KV-spezifische Information zur Initialisierung der Bewertungssteuerungsdatei (VDX).
+
+Eingruppierung für die Bewertungssteuerung
+
+im Rahmen von VDX ### Element: kv_gruppierungsfeld
 
 
 ---
@@ -3585,11 +3558,11 @@ element** kv_bewertung_liste**
 
 Die kv-spezifische Bewertung kann in Abhängigkeit der Gebührenordnung, dem Ort der Leis-tungserbringung, der Leistungsart, der Fachgruppe, der Kostenträgergruppe oder auch für  einzelne Kostenträger separat definiert werden.
 
-Die KV-Bewertung übersteuert die Standard -EBM-Bewertung aus dem Teil <allgemein> und  ersetzt diese auf regionaler Ebene.
+Die KV-Bewertung übersteuert die Standard-EBM-Bewertung aus dem Teil <allgemein> und  ersetzt diese auf regionaler Ebene.
 
 kv-spezifische Bewertung
 
-tung regional die allgemeingültige EBM -Bewertung. ### Element: kv_bewertung
+tung regional die allgemeingültige EBM-Bewertung. ### Element: kv_bewertung
 
 
 ---
@@ -3604,7 +3577,7 @@ element** kv_bewertung_liste/kv_bewertung**
 
 ***V***    Bewertung (bis zwei Stellen nach Punkt; auch negativ)
 
-/Einschränkungen im Folgenden.***U***    Bewertungseinheit
+/Einschränkungen im Folgenden. ***U***    Bewertungseinheit
 
 
 ---
@@ -3662,7 +3635,7 @@ element** kv_bewertung_liste/kv_bewertung/leistungserbringerart**
 
 #### 14.3.1.3 Element: leistung_typ
 
-Die Bewertung der Leistung kann mit Angabe dieses Elementes  bestandteil AL, TL, GL separat erfolgen.
+Die Bewertung der Leistung kann mit Angabe dieses Elementes optional für jede Leistungs-bestandteil AL, TL, GL separat erfolgen.
 
 Standardmäßig werden die Bewertungen für die Gesamtleistung (GL) ausgegeben, wodurch  die Angabe dieses Elementes auch entfallen kann.
 
@@ -3672,15 +3645,13 @@ element** kv_bewertung_liste/kv_bewertung/leistung_typ**
 |---|---|
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
-| annotation | documentation   dardmäßig wird derzeit ausschließlich die Gesamtleistung bewertet, sodass die Angabe dieses |
-
-optional für jede Leistungs-
+| annotation | documentation   Die Bewertung kann auf die ärztliche, technische oder die gesamte Leistung bezogen sein. Stan- |
 
 ***V***   AL, TL, GL
 
 #### 14.3.1.4 Element: fachgruppe_liste
 
-Ferner kann die KV-Bewertung in Abhängigkeit von Arztgruppen, auch durch deren Ein - oder  Ausschluss, definiert werden.
+Ferner kann die KV-Bewertung in Abhängigkeit von Arztgruppen, auch durch deren Ein- oder  Ausschluss, definiert werden.
 
 element** kv_bewertung_liste/kv_bewertung/fachgruppe_liste**
 
@@ -3696,11 +3667,11 @@ Die Struktur und deren Elemente sind unter
 
 #### 14.3.1.6 Element: kt_liste
 
-Mit Hilfe der folgenden Struktur kann die KV -Bewertung in Abhängigkeit einzelner Kostenträ-ger erfolgen.
+Mit Hilfe der folgenden Struktur kann die KV-Bewertung in Abhängigkeit einzelner Kostenträ-ger erfolgen.
 
-14.4 erläutert.
+12.1 erläutert.
 
-Die Bewertung kann auf die ärztliche, technische oder die gesamte Elements entfallen kann. Leistung bezogen sein. Stan-12.1 erläutert.
+dardmäßig wird derzeit ausschließlich die Gesamtleistung bewertet, sodass die Angabe dieses Elements entfallen kann. 14.4 erläutert.
 
 
 ---
@@ -3749,7 +3720,7 @@ wenn Euro- und Punktbewertung existiert.
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 |---|---|
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_ktgruppe_V        go:ktgruppe    @V |
-| annotation | documentation   Sammelelement für die betroffenen Kostenträgergruppen. Definiert darüber hinaus |
+| annotation | documentation   Sammelelement für die betroffenen Kostenträgergruppen. Definiert darüber hinaus deren Ein- oder |
 
 ***V***   true /1: KT-Gruppe(n) eingeschlossen
 
@@ -3777,7 +3748,7 @@ element** ktgruppen_liste/ktgruppe**
 
 Für den Fall, dass eine GNR nur bei einzelnen Kostenträgern abrechenbar ist, kann ein Aus-schluss von einzelnen Kostenträgern definiert werden. Um den Kostenträger eindeutig zu de-finieren, wird dessen Vertragskassennummer zur Identifikation verwendet.
 
-Im Umkehrfall ist auch der Einschluss eines Kostenträgers sinnvoll, wenn beispielsweise eine  Leistung nur mit einem Kostenträger verhandelt wurde. Dabei ist dann die Kostenträger -Liste  als Einschluss zu definieren, indem das V Attribut der Liste mit „true“ belegt wird.
+Im Umkehrfall ist auch der Einschluss eines Kostenträgers sinnvoll, wenn beispielsweise eine  Leistung nur mit einem Kostenträger verhandelt wurde. Dabei ist dann die Kostenträger-Liste  als Einschluss zu definieren, indem das V-Attribut der Liste mit „true“ belegt wird.
 
 element** kt_liste**
 
@@ -3785,7 +3756,7 @@ element** kt_liste**
 |---|---|
 | type | go:kt_liste_typ |
 
-deren Ein- oder Ausschluss.
+Ausschluss.
 
 ---
 
@@ -3793,15 +3764,13 @@ deren Ein- oder Ausschluss.
 |---|---|
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_kt_V        go:kt    @V |
-| annotation | documentation   Sammelelement für die betroffenen Kostenträger. Definiert darüber hinaus deren Ein |
+| annotation | documentation   Sammelelement für die betroffenen Kostenträger. Definiert darüber hinaus deren Ein- oder Aus- |
 
-***V***   true /1: Kostenträger eingeschlossen
+***V***
 
-false /0: Kostenträger ausgeschlossen
+***<kt>***
 
-***<kt>***   Kostenträger (VKNR)
-
-### 14.5.1 Element: kt
+### 14.5.1
 
 Ein Kostenträger wird durch seine Vertragskassennummer identifiziert.
 
@@ -3813,15 +3782,23 @@ element** kt_liste/kt**
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    go:vknr_typ  required |
 | annotation | documentation   Beinhaltet die VKNR des jeweiligen Kostenträgers. |
 
+true /1: Kostenträger eingeschlossen
+
+false /0: Kostenträger ausgeschlossen
+
+Kostenträger (VKNR)
+
+### Element: kt
+
 ***V***   VKNR
 
 Hinweis:
 
-Weitere Informationen zum Kostenträger sind über die Kostenträgerstammdatei (SDKT)  holbar, was im weitesten Sinne ebenfalls als Schlüsseltabelle angesehen werden kann. ein-
+Weitere Informationen zum Kostenträger sind über die Kostenträgerstammdatei (SDKT) ein-holbar, was im weitesten Sinne ebenfalls als Schlüsseltabelle angesehen werden kann.
 
 ## 14.6 Element: ktab_liste
 
-Die <ktab_liste> definiert den Ein - bzw. Ausschluss von Kostenträgerabrechnungsbereichen.  Wie bei den meisten Listen ist auch hier durch die Definition des V-Attributes der Liste die  Angabe einer Positiv- bzw. Negativliste möglich.
+Die <ktab_liste> definiert den Ein- bzw. Ausschluss von Kostenträgerabrechnungsbereichen.  Wie bei den meisten Listen ist auch hier durch die Definition des V-Attributes der Liste die  Angabe einer Positiv- bzw. Negativliste möglich.
 
 element** ktab_liste**
 
@@ -3830,14 +3807,14 @@ element** ktab_liste**
 | type | go:ktab_liste_typ |
 | properties | content   complex |
 
-schluss. - oder Aus-
+schluss.
 
 ---
 
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 |---|---|
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_ktab_V        go:ktab    @V |
-| annotation | documentation   Sammelelement für die Kostenträgerabrechnungsbereiche und definiert deren Ein |
+| annotation | documentation   Sammelelement für die Kostenträgerabrechnungsbereiche und definiert deren Ein- oder Ausschluss. |
 
 ***V***   true /1: Einschluss
 
@@ -3872,7 +3849,6 @@ element** abrechnungsstelle_liste**
 | type | go:abrechnungsstelle_liste_typ |
 | properties | content   complex |
 
-- oder Ausschluss.
 
 ---
 
@@ -3921,7 +3897,7 @@ _V   erlaubt oder durch Ausschluss als unzulässig definiert ist.
 | properties | content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:boolean  required |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    elle_V        go:abrechnungsstelle    @V |
-| annotation | documentation   Sammelelement für die Bezirksstellen, denen |
+| annotation | documentation   Sammelelement für die Bezirksstellen, denen Kostenträgergruppen zugeordnet wurden. |
 
 ***V***    true /1: Einschluss
 
@@ -3956,7 +3932,7 @@ element** as_ktgruppen_liste/abrechnungsstelle/ktgruppe**
 |---|---|
 | properties | isRef   0  content   complex |
 
-u_as_abrechnungsst Kostenträgergruppen zugeordnet wurden. Beinhaltet den Code der jeweiligen Bezirksstelle und Sammelelement der durch Einschluss zulässi-
+u_as_abrechnungsst Beinhaltet den Code der jeweiligen Bezirksstelle und Sammelelement der durch Einschluss zulässi-
 
 ---
 
@@ -3985,7 +3961,7 @@ element
 |---|---|
 | type | go:vdx_typ |
 | properties | content   complex |
-| annotation | documentation |
+| annotation | documentation   In dieser Sektion werden relevante Daten zum Vertragsdatensatz zur Verfügung gestellt. |
 
 # Sektion: vdx
 
@@ -4018,7 +3994,6 @@ Kontenart
 
 Da die GKV-Kontenart mehrfach definiert sein kann, werden diese Elemente durch eine Liste  geklammert und folenden Aufbau:
 
-In dieser Sektion werden relevante Daten zum Vertragsdatensatz zur Verfügung gestellt.
 
 ---
 

@@ -4,10 +4,10 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 13. FEBRUAR 2026  VERSION 1.00  DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  13. FEBRUAR 2026  VERSION 1.00  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# ERLÄUTERUNG DER DOSB -FORMULARE
+# ERLÄUTERUNG DER DOSB-FORMULARE
 
 ## [KBV_ITA_SIEX_ DOSB_FORMULARE_ERLAUTERUNG]
 
@@ -21,7 +21,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.00 | 13.02.2026 | KBV | Bereitstellung |  |  |
-
 
 ---
 
@@ -37,7 +36,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 Die in diesem Verzeichnis bereitgestellten DOSB-Formulare können von den Softwareherstellern freiwillig  den Praxen zur Nutzung zur Verfügung gestellt werden.
 
-Bewegungsmangel ist eine gesundheitliche Herausforderung unserer Zeit. Um Ärztinnen und Ärzte in ihrem  präventiven Engagement weiter zu stärken, wurde das **Rezept für Bewegung für Erwachsene und auch**  **für Kinder/Jugendliche** in einer gemeinsamen Initiative des Deutschen Olympischen Sportbundes, der  Bundesärztekammer und der Deutschen Gesellschaft für Sportmedizin und Prävention entwickelt und von  weiteren Ärzteverbänden, wie bspw. dem Hausärztinnen- und Hausärzteverband oder dem Berufsverband  der Kinder- und Jugendärzte unterstützt. Ab sofort kann das „Rezept für Bewegung“ als **freiwillige Leistung**  in die Praxisverwaltungssysteme (PVS) integriert werden
+Bewegungsmangel ist eine gesundheitliche Herausforderung unserer Zeit. Um Ärztinnen und Ärzte in ihrem  präventiven Engagement weiter zu stärken, wurde das **Rezept für Bewegung für Erwachsene und auch**  **für Kinder/Jugendliche** in einer gemeinsamen Initiative des Deutschen Olympischen Sportbundes, der  Bundesärztekammer und der Deutschen Gesellschaft für Sportmedizin und Prävention entwickelt und von  weiteren Ärzteverbänden, wie bspw. dem Hausärztinnen- und Hausärzteverband oder dem Berufsverband  der Kinder- und Jugendärzte unterstützt. Ab sofort kann das „Rezept für Bewegung“ als **freiwillige Leistung**  in die Praxisverwaltungssysteme (PVS) integriert werden.
 
 Mit der technischen Umsetzung leisten Sie als PVS-Anbieter einen wichtigen Beitrag zur  Gesundheitsförderung: Sie ermöglichen es, Bewegung niedrigschwellig in den Praxisalltag einzubinden und  Patientinnen und Patienten gezielt zu einem aktiveren Lebensstil zu motivieren.
 
@@ -61,4 +60,4 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 
 [Tel.: 030 4005-2077,](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[](mailto:ita@kbv.de)
 
-[Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de)  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+[Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de) Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

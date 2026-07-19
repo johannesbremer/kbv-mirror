@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. MAI 2026   VERSION: 1.5   DOKUMENTENSTATUS:** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. MAI 2026   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET SCHNITTSTELLE FÜR DRITTE  GEMÄß § 370A ABS. 2 SGB V
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_SST_370A_ABS2]
 
-BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS IN KRAFT 
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS     
 
 
 ---
@@ -137,11 +137,11 @@ Alle weiteren Informationen zum Audit „116117 Terminservice Schnittstelle gem�
 
 [Nachweis der Erfüllung der TOMs laut [](https://update.kbv.de/ita-update/TSS/370A)[KBV_ITV_FMEX_TOM_370a](https://update.kbv.de/ita-update/TSS/370A)
 
-Bitte füllen Sie das Dokumen[t aus und stellen Sie es uns über](https://update.kbv.de/ita-update/TSS/370A)[das Zertifizierungsportal](https://update.kbv.de/ita-update/TSS/370A) [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[) oder über das Tausch-Portal (](https://zertifizierungsportal2.kbv.de/)[https://tausch.kbv.de](https://tausch.kbv.de/)[) unter Angabe](https://tausch.kbv.de/) [der](https://zertifizierungsportal2.kbv.de/)[pruefstelle@kbv.de](https://zertifizierungsportal2.kbv.de/)[als Empfänger zur Verfügung. Dies kann unabhängig von den für die restlichen](https://zertifizierungsportal2.kbv.de/) [Prüffälle erforderlichen Prüfunterlagen erfolgen.](mailto:pruefstelle@kbv.de)
+[Bitte füllen Sie das Dokument aus und stellen Sie es uns über das Zertifizierungsportal](https://update.kbv.de/ita-update/TSS/370A) [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[) oder über das Tausch-Portal (](https://zertifizierungsportal2.kbv.de/)[https://tausch.kbv.de](https://tausch.kbv.de/)[) unter Angabe](https://tausch.kbv.de/) [der](https://zertifizierungsportal2.kbv.de/)[pruefstelle@kbv.de](https://zertifizierungsportal2.kbv.de/)[als Empfänger zur Verfügung. Dies kann unabhängig von den für die restlichen](https://zertifizierungsportal2.kbv.de/) [Prüffälle erforderlichen Prüfunterlagen erfolgen.](mailto:pruefstelle@kbv.de)
 
 ## 3.3 PF-03 WEITERE NACHWEISE
 
-Bitte reichen Sie folgende Nachweise über das [Zertifizierungsportal (](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) [oder über das Tausch-Portal (](https://tausch.kbv.de/)[https://tausch.kbv.de](https://tausch.kbv.de/)[) unter Angabe der](https://zertifizierungsportal2.kbv.de/)[pruefstelle@kbv.de](https://zertifizierungsportal2.kbv.de/)[als Empfänger](https://zertifizierungsportal2.kbv.de/) ein:
+[Bitte reichen Sie folgende Nachweise über das Zertifizierungsportal (](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) [oder über das Tausch-Portal (](https://tausch.kbv.de/)[https://tausch.kbv.de](https://tausch.kbv.de/)[) unter Angabe der](https://zertifizierungsportal2.kbv.de/)[pruefstelle@kbv.de](https://zertifizierungsportal2.kbv.de/)[als Empfänger](https://zertifizierungsportal2.kbv.de/) ein:
 
 - 1. Nachweis eines zertifizierten Informationssicherheits-Managementsystems (ISMS) gemäß Anlage 2  zur Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß § 370A  Abs. 2 SGB V, Anforderung P3-01)
 - 2. Eigenerklärung zur Verschlüsselung der Datenkommunikation zwischen Systembestandteilen über  offene Netze gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V  (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P3-04)

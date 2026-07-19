@@ -54,7 +54,7 @@ Die dargestellten Tabellenspalten haben folgende Bedeutung:
 
 - **KBV BFB Feld Nummer**
 
-Die Nummer stellt die Nummerierung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Must er 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.
+Die Nummer stellt die Nummerierung der Datenfelder des auf Blankoformularen aufgedruckten Barcodes der Muster 39a/E und 39b/E gemäß dem  Technischen Handbuch Blankoformularbedruckung [1] der KBV dar.
 
 - **KBV BFB Feld Name**
 
@@ -66,7 +66,7 @@ Die Spalte Nummer stellt die Nummerierung der Formularfelder des digitalen Muste
 
 - **KBV DM Feld Name**
 
-Die Spalte Name stellt die Bezeichnung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im PDF/A Format [2] der KBV dar.
+Die Spalte Name stellt die Bezeichnung der Formularfelder des digitalen Musters 39 gemäß dem Technischen Handbuch Digitale Vordrucke im PDF/A-Format [2] der KBV dar.
 
 - **QMS LDT Feld Kennung**
 
@@ -82,7 +82,10 @@ Die Spalte Nummer stellt die Feldnummern des Dokumentationsbogens des Moduls ZKP
 
 - **IQTIG Feld Name**
 
-Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3] dar und enthält Anmerkungen  zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.
+Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Moduls ZKP der IQTIG-Spezifikation [3]
+
+zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.  dar und enthält Anmerkungen
+
 
 ---
 
@@ -97,7 +100,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 | 5 | Nachname | P3 | 3101_Name | 3101 | Nachname |  |  |  |
 | 6 | Vorname | P4 | 0000_Titel_Vorname_Namenszusat |  |  |  |  |  |
 | 7 | Geburtsdatum | P5 | 3103_Geburtsdatum | 3103 | Geburtsdatum | 9 | Geburtsdatum |  |
-|  |  |  |  |  |  | 10.2 | Es liegt kein vollständiges Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im  10.2“ des IQTIG- |
+|  |  |  |  |  |  | 10.2 | Es liegt kein vollständiges  Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im  10.2“ des IQTIG- |
 | 8 | Versicherungsschutz Ende | P8 | 4110_VersicherungsschutzEnde | 4110 | Versicherungsschutz-Ende |  |  |  |
 | 9 | Kostenträgerkennung | P9 | 4111_Kostentraegerkennung | 4111 | Kostenträger-Kennung | 2 | Institutionskennzeichen der |  |
 | 10 | Kostenträgername | P1 | 4134_Kostentraegername | 4134 | Kostentraegername |  |  |  |
@@ -764,7 +767,7 @@ vor? Vorbefundes Chemotherapie des Genitales Chemotherapie des Genitales – Wel
 | IUP | 28 | IUP |  | M39_31 | 7382_iup_ja | 47 | Einnahme von Ovulationshemmer | M39_32 |
 | 7383_ | 7383 | Einnahme von | 29 | Einnahme von |  | M39_33 | 7383_ | Befund |
 | 48 | Klinischer Befund | M39_84 | 7384_klinischer_befund_unauffällig | 7384 | Klinischer Befund | 32 | Klinischer Befund |  |
-| M39_85 | 7384_klinischer_befund_auffällig 49 | Erläuterungen  M39_47  7423_erlaeuterungen | | | | | | |
+| M39_85 | 7384_klinischer_befund_auffällig  49 | Erläuterungen  M39_47  7423_erlaeuterungen | | | | | | |
 | 7423 | Erläuterungen |  |  |  | Labor Auftragsnummer |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -1039,7 +1042,7 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 | “ des IQTIG-Dokumentationsbogen | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt |
 | 3316 | HPV-HR-Testergebnis | | | | | | | |
 | 37 | HPV-Test-Ergebnis | | | | | | | |
-|  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden 3317  HPV-Typ 16/18  38 Liegt HPV-Typ 16 oder HPV-   3317_virustyp_16_18_nein 3317_virustyp_16_18_nicht_differe |
+|  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64 | 3317_virustyp_16_18_vorhanden  3317  HPV-Typ 16/18  38 Liegt HPV-Typ 16 oder HPV-   3317_virustyp_16_18_nein  3317_virustyp_16_18_nicht_differe |
 | Bemerkungen | M39_65 | | | | | | | |
 | 8167_bemerkungen | 8167 | Zusaetzliche_Informationen |  |  |  | | | |
 | Zusammenfassende Empfehlung |  | | | | | | | |
@@ -1114,11 +1117,11 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 |  | Gruppe | M39_60 | 7414_gruppe_des_zytologischen_b | 7414 | Gruppe | 35 | Zytologischer Befund - nach |  |
 |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | 3316 | HPV-HR-Testergebnis | 36 | Wurde ein HPV-Test | Wenn einer der jeweiligen  18“ des IQTIG-Dokumentationsbogen |
 | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | HPV-HR-Testergebnis des | M39_61 | 3316_hpv_hr_testergebnis_des_zyt | 3316  HPV-HR-Testergebnis  37 |
-| HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64  3317_virustyp_16_18_vorhanden 3317 |
+| HPV-Test-Ergebnis |  | M39_62 | 3316_hpv_hr_testergebnis_des_zyt | M39_63 | 3316_hpv_hr_testergebnis_des_zyt |  | Liegt HPV-Typ 16 oder HPV-Typ 18 | M39_64  3317_virustyp_16_18_vorhanden  3317 |
 | HPV-Typ 16/18 | 38 | Liegt HPV-Typ 16 oder HPV- |  | 3317_virustyp_16_18_nein | 3317_virustyp_16_18_nicht_differe |  | Bemerkungen | M39_65  8167_bemerkungen  8167  Zusaetzliche_Informationen |
 |  |  | Zusammenfassende Empfehlung |  | | | | | |
 |  |  |  |  | | | | | |
-|  | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden | 38 | “ des IQTIG- |  | zytologische Kontrolle | M39_66  7415_zytologische_kontrolle 7415 |
+|  | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden | 38 | “ des IQTIG- |  | zytologische Kontrolle | M39_66  7415_zytologische_kontrolle  7415 |
 | Zytologische Kontrolle | 40 | Welche Kontrolle/Abklärung | Ist die zytologische Kontrolle gesetzt, | | | | | |
 | 38 | “ zu übertragen. |  | zytologische Kontrolle nach | | | | | |
 

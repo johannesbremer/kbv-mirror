@@ -8,7 +8,7 @@
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
-# ERLÄUTERUNG DER KV -FORMULARE
+# ERLÄUTERUNG DER KV-FORMULARE
 
 ## [KBV_ITA_SIEX_ERLAUTERUNG_KV_FORMULARE]
 
@@ -22,7 +22,8 @@
 | 1.01 | 13.02.2026 | KBV | Ergänzung eines neuen |  | 5 |
 | 1.00 | 14.11.2025 | KBV | Bereitstellung |  |  |
 
-regionalen Formularen der KV Thüringen regionalen Formulars der KV Bayerns
+regionalen Formularen der KV Thüringen regionalen Formulars der KV Bayerns 
+
 
 ---
 
@@ -54,7 +55,7 @@ Bei Fragen zu den Formularen wenden sie sich bitte direkt an die jeweilige KV.
 
 | KV | FORMULAR |
 |---|---|
-| **KV Bayerns ** Rückfragen bitte an it- | Formular zum Förder- und Behandlungsplan • |
+| **KV Bayerns ** Rückfragen bitte an it- | Formular zum Förder- und Behandlungsplan für  • |
 | **KV Bayerns ** Rückfragen bitte an it- | Formular für den Förder- und Behandlungsplan (RV IHF) für die  KV_Bayerns\EXT_ITA_FuB_Plan_RV_IHF_(23.01.2026).pdf |
 | **KV Thüringen ** Rückfragen bitte an it- | Patientenfragebogen zum „Früherkennungsprogramm“ der HzV KV_Thueringen\EXT_ITA_Anlage_11b_Patientenfragebogen.pdf |
 | **KV Thüringen ** Rückfragen bitte an it- | Ergebnisbogen zum „Früherkennungsprogramm“ der HzV KV_Thueringen\EXT_ITA_Anlage_11c_Ergebnisbogen_für |
@@ -70,4 +71,4 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 
 [Tel.: 030 4005-2077,](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[](mailto:ita@kbv.de)
 
-[Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de)  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+[Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de) Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

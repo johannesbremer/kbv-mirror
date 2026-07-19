@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **DEZERNAT ÄRZTLICHE UND  ABTEILUNG VERANLASSTE LEISTUNGEN 8. AUGUST 2025 ** |
+|  | **DEZERNAT ÄRZTLICHE UND  ABTEILUNG VERANLASSTE LEISTUNGEN  8. AUGUST 2025 ** |
 |---|---|
 
 # MUSTER 9  BESCHEINIGUNG EINER  FEHLGEBURT, FRÜHGEBURT ODER  BEHINDERUNG DES KINDES
@@ -23,7 +23,7 @@
 
 - **1.** **Fehlgeburt am**
 
-Hier ist das Datum der Fehlgeburt im Format TTMMJJ einzutragen. Abortion) ist das Datum, an dem der Fötus vom Uterus getrennt wurde, etwa durch einen operativen oder  medikamentösen Eingriff oder einen spontanen Abgang, anzugeben.
+Hier ist das Datum der Fehlgeburt im Format TTMMJJ einzutragen. Bei einer verhaltenen Fehlgeburt (Missed  Abortion) ist das Datum, an dem der Fötus vom Uterus getrennt wurde, etwa durch einen operativen oder  medikamentösen Eingriff oder einen spontanen Abgang, anzugeben.
 
 - **2.** **Angabe der Schwangerschaftswoche**
 
@@ -49,12 +49,4 @@ Die ärztliche Feststellung muss gemäß § 3 Abs. 2 Nr. 3 MuSchG innerhalb von 
 
 #### Mehr Informationen
 
-Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF [https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf) [vordruckvereinbarung/02_Vordruckvereinbarung.pdf](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)[](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)
-
-Bei einer verhaltenen Fehlgeburt (Missed
-
-```
--
-```
-
-[-02-](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)
+Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF):  [https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf) [vordruckvereinbarung/02_Vordruckvereinbarung.pdf](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)[](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)

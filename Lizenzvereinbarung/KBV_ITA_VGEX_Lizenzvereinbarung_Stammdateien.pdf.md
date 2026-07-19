@@ -23,7 +23,7 @@ Die Stammdateien sind insbesondere durch das Urheberrechtsgesetz geschützt. Die
 - b) Abgeleitete Werke zu schaffen, die ganz oder teilweise auf den Daten der Stammdateien basieren;
 - c) Eigentümerkennzeichnungen, Seriennummern oder Beschriftungen von den Stammdateien entfernen.
 - (4) Es ist dem Softwarehersteller erlaubt die Stammdateien im Rahmen der vertragsärztlichen Versorgung  einzusetzen und an seine Kunden weiterzugeben. Im Rahmen des Einsatzes und der Weitergabe kann der  Softwarehersteller die Stammdateien unterlizenzieren. Eine Weitergabe und Unterlizensierung insbesondere  an andere Softwarehersteller ist ausgeschlossen.
-- (5) Die KBV behält sich alle Rechte vor, um eine unbefugte Nutzung der Stammdateien zu untersagen oder zu  stoppen, insbesondere Ansprüche auf Unterlassung und Schadensersatz geltend zu machen
+- (5) Die KBV behält sich alle Rechte vor, um eine unbefugte Nutzung der Stammdateien zu untersagen oder zu  stoppen, insbesondere Ansprüche auf Unterlassung und Schadensersatz geltend zu machen.
 
 # § 4 PFLICHTEN DES SOFTWAREHERSTELLERS
 
@@ -34,7 +34,7 @@ Die Einrichtung einer funktionsfähigen Hardware- und Softwareumgebung für die 
 
 # § 5 BESCHRÄNKTE GEWÄHRLEISTUNG UND  GEWÄHRLEISTUNGSAUSSCHLUSS
 
-- (1) Die Stammdateien werden als Freeware unentgeltlich und ohne Gewähr zur Verfügung gestellt. Die KBV  übernimmt keine Gewährleistung im Hinblick auf die Stammdateien. Die KBV verpflichtet sich insbesondere  nicht zur vollständigen Bereitstellung der Stammdateien, zur Bereitstellung in einer bestimmten Qualität  oder Richtigkeit der Stammdateien. Die KBV stellt für den Gegenstand der Vereinbarung keinen Produkt Support zur Verfügung.
+- (1) Die Stammdateien werden als Freeware unentgeltlich und ohne Gewähr zur Verfügung gestellt. Die KBV  übernimmt keine Gewährleistung im Hinblick auf die Stammdateien. Die KBV verpflichtet sich insbesondere  nicht zur vollständigen Bereitstellung der Stammdateien, zur Bereitstellung in einer bestimmten Qualität  oder Richtigkeit der Stammdateien. Die KBV stellt für den Gegenstand der Vereinbarung keinen Produkt-Support zur Verfügung.
 - (2) Sofern nicht ausdrücklich etwas anderes vereinbart ist, entsprechen die von der KBV zur Verfügung gestellten  Stammdateien dem aktuellen Stand der Technik und stimmen mit den jeweils von der KBV zur Verfügung  gestellten Produktinformationen und -spezifikationen überein. Die KBV gewährleistet nicht, dass die  Stammdateien nach diesem Vertrag für Zwecke geeignet sind, die über die Erfüllung der Vertragspflichten  hinausgehen.
 - (3) Die KBV weist darauf hin, dass sich nach dem aktuellen Stand der Technik trotz größter Gewissenhaftigkeit  und Sorgfalt Datenfehler nicht gänzlich ausschließen lassen.
 

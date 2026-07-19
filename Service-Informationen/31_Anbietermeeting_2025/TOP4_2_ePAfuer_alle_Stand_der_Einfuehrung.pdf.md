@@ -9,11 +9,9 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ---
 
-# - AKTUELLER STAND
+# - AKTUELLER STAND EPA-ROLLOUT
 
-**EPA -ROLLOUT**
-
-## - STAND PVS -ROLLOUT AUS SICHT DER KBV
+## - STAND PVS-ROLLOUT AUS SICHT DER KBV
 
 ## - DATEN DER GEMATIK
 
@@ -26,11 +24,9 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ---
 
-# - AKTUELLER STAND
+# - AKTUELLER STAND EPA-ROLLOUT
 
-**EPA -ROLLOUT**
-
-## - STAND PVS -ROLLOUT AUS SICHT DER KBV
+## - STAND PVS-ROLLOUT AUS SICHT DER KBV
 
 ## - DATEN DER GEMATIK
 
@@ -47,7 +43,7 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ## - Ca. 90% der Hersteller (gemessen am Marktanteil) haben der KBV Informationen geliefert
 
-- 77% haben das ePA -Modul bereits ausgerollt oder planen es bis zum Start der
+- 77% haben das ePA-Modul bereits ausgerollt oder planen es bis zum Start der
 
 ## - Nutzungsverpflichtung auszurollen
 
@@ -65,7 +61,7 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 ---
 
-## Stand – KOB Zertifizierung
+## Stand – KOB – Zertifizierung
 
 # - Entspricht: 113.926 Installationen in den Praxen mit
 
@@ -82,11 +78,9 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 ---
 
-# - AKTUELLER STAND
+# - AKTUELLER STAND EPA-ROLLOUT
 
-**EPA -ROLLOUT**
-
-## - STAND PVS -ROLLOUT AUS SICHT DER KBV
+## - STAND PVS-ROLLOUT AUS SICHT DER KBV
 
 ## - DATEN DER GEMATIK
 
@@ -201,7 +195,7 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 ---
 
-## Prozesse der ePA -Nutzung in der Praxis
+## Prozesse der ePA-Nutzung in der Praxis
 
 - **BLICK IN DIE ARZTPRAXIS**
 
@@ -214,19 +208,14 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 ---
 
-**Anforderungen aus Ärztlicher &**  **Psychotherapeutischer Perspektive**
+## Anforderungen aus Ärztlicher &  Psychotherapeutischer Perspektive
 
-|  | Aus | ärztlicher | und |
-|---|---|---|---|
-|  |  | psychotherapeutischer | |
-|  | Perspektive |  | sind das |
-|  |  | „Anforderungen“ | |
+## Aus ärztlicher und  psychotherapeutischer  Perspektive sind das  „Anforderungen“
 
-Aus ärztlicher und Perspektive sind das
 
 ---
 
-## Wichtige Punkte der KBV Einstellen von Dokumenten (1)
+## Wichtige Punkte der KBV – Einstellen von Dokumenten (1)
 
 ## So wenig Interaktionen  für den Benutzer wie  möglich
 

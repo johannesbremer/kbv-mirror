@@ -12,16 +12,14 @@
 ## ERLÄUTERUNGEN ZU DEN EINZELNEN FELDERN
 
 - **1.** **Akutbehandlung für / Beginn am**
+- **2.** **Diagnose(n)**
+- **3.** **Weitere Angaben zum bisherigen Behandlungsverlauf**
 
 Geben Sie hier an, ob die Akutbehandlung bei einer bzw. einem Erwachsenen (Erwachsenenbehandlung)  oder bei einem Kind oder einer bzw. einem Jugendlichen (Kinder- und Jugendlichenbehandlung) durchge-führt wird. Besteht eine Zulassung für Kinder- und Jugendlichenpsychotherapie können in der Akutbehand-lung zusätzliche Kontingente für den Einbezug der Bezugspersonen bei Kindern und Jugendlichen durchge-führt werden (maximal 6 x 25 Minuten oder 3 x 50 Minuten). Diese zusätzlichen Kontingente stehen auch  für Erwachsene mit Intelligenzminderung zur Verfügung, wenn Bezugspersonen einbezogen werden; in die-sem Fall ist das Vorliegen einer Diagnose nach F70-79 ICD-10-GM Voraussetzung und muss bei den Diagno-sen (siehe Punkt 2) angegeben werden.
 
 Geben Sie den Beginn der Psychotherapeutischen Akutbehandlung im Format TTMMJJ an. Die Akutbehand-lung muss spätestens am Tag ihres Beginns angezeigt werden.
 
-- **2.** **Diagnose(n)**
-
 Geben Sie hier die für die Akutbehandlung maßgeblichen Diagnose(n) an. Die Angabe „endständig“ macht  deutlich, dass die ICD-10-GM-Codes als terminale Schlüsselnummern anzugeben sind (Codes, die keine Sub-codes mehr enthalten). Darüber hinaus ist die Diagnosesicherheit anzugeben (z. B. „G“ für „gesicherte Diag-nose“). Handelt es sich bei der Patientin oder dem Patienten um eine Erwachsene bzw. einen Erwachsenen  mit Intelligenzminderung (Diagnose nach F70-F79 ICD-10-GM), muss dies ebenfalls angegeben werden,  wenn die für diese Personengruppe vorgesehenen zusätzlichen Kontingente für den Einbezug von Bezugs-personen durchgeführt werden sollen.
-
-- **3.** **Weitere Angaben zum bisherigen Behandlungsverlauf**
 
 Für eine Akutbehandlung muss eine entsprechende Indikation im Sinne der Psychotherapie-Richtlinie gege-ben sein. Folgende Voraussetzungen müssen erfüllt sein:
 

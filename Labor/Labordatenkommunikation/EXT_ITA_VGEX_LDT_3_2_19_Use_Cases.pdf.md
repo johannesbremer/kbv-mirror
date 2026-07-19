@@ -30,25 +30,69 @@ eingearbeitet
 
 ---
 
-|  | Inhaltsverzeichnis | |
-|---|---|---|
-| **1.** | **USE CASE** | **1 – LABORAUFTRAG KAPITEL 32.2/32.3** |
-| **2.** | **USE CASE** | **2 – LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL** |
-| **3.** | **USE CASE** | **3 – LABORAUFTRAG FÜ R P RIV ATPATIE NT** |
-| **4.** | **USE CASE** | **4 – LABORAUFTRAG IM RAHMEN DER ASV** |
-| **5.** | **USE CASE** | **5 – BEFUND ZU USE CASE 1** |
-| **6.** | **USE CASE** | **6 – BEFUND MIT ANTIBIOGRAMM** |
-| **7.** | **USE CASE** | **7 – ÜBERGABE “STAMMDATEN”** |
-| **8.** | **USE CASE** | **8 – BEFUND ZU LABORAUFTRAG KAPITEL 32.2/32.3/IGEL** |
-| **9.** | **USE CASE** | **9 – BEFUND ZU LABORAUFTRAG FÜ R P RIV ATPATIE** |
-| **10.** | **USE CASE** | **12 – STORNIERUNG UNTERSUCHUNGSANFORDERUNGEN** |
-| **11.** | **USE CASE** | **13 – LABORAUFTRAG MIT Ü B ERMITTLUNG V** |
-| **12.** | **USE CASE** | **14 – BEFUND MOLEKULARGENETIK** |
-| **13.** | **USE CASE** | **15 – BEFUND (KONVENTIONELLE UND SI-EINHEITEN)** |
-| **14.** | **USE CASE** | **16 – DARSTELLUNG DES INHALTES OBJ_0068** |
-| **15.** | **USE CASE** | **17 – BEFUND KREBSFRÜ H ERKENNUNG Z ERVIX** |
+#### Inhaltsverzeichnis
 
-USE CASE 2 USE CASE 3 USE CASE 4 USE CASE 5 USE CASE 6 USE CASE 7 USE CASE 8 USE CASE 9 USE CASE 12 USE CASE 13 USE CASE 14 USE CASE 15 USE CASE 16 USE CASE 17 – BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM 65  LABORAUFTRAG FÜR PRIVATPATIENT  BEFUND ZU LABORAUFTRAG FÜR PRIVATPATIENT  LABORAUFTRAG MIT ÜBERMITTLUNG VORBEFUND **4** **7** **15** **23** **32** **34** **37** **42** **53** **55** **57** **59** **61** **63**
+**1.** **USE CASE 1**
+
+**2. USE CASE 2**
+
+**3. USE CASE 3**
+
+**4. USE CASE 4**
+
+**5. USE CASE 5**
+
+**6. USE CASE 6**
+
+**7. USE CASE 7**
+
+**8. USE CASE 8**
+
+**9. USE CASE 9**
+
+**10. USE CASE 12**
+
+**11. USE CASE 13**
+
+**12. USE CASE 14**
+
+**13. USE CASE 15**
+
+**14. USE CASE 16**
+
+**15. USE CASE 17 – BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM 65**
+
+**LABORAUFTRAG KAPITEL 32.2/32.3**
+
+**LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL**
+
+**LABORAUFTRAG FÜR PRIVATPATIENT**
+
+**LABORAUFTRAG IM RAHMEN DER ASV**
+
+**BEFUND ZU USE CASE 1**
+
+**BEFUND MIT ANTIBIOGRAMM**
+
+**ÜBERGABE “STAMMDATEN”**
+
+**BEFUND ZU LABORAUFTRAG KAPITEL 32.2/32.3/IGEL**
+
+**BEFUND ZU LABORAUFTRAG FÜR PRIVATPATIENT**
+
+**STORNIERUNG UNTERSUCHUNGSANFORDERUNGEN**
+
+**LABORAUFTRAG MIT ÜBERMITTLUNG VORBEFUND**
+
+**BEFUND MOLEKULARGENETIK**
+
+**BEFUND (KONVENTIONELLE UND SI-EINHEITEN)**
+
+**DARSTELLUNG DES INHALTES OBJ_0068**
+
+**4** **7** **15** **23** **32** **34** **37** **42** **53** **55** **57** **59** **61**
+
+**63**
 
 
 ---
@@ -987,7 +1031,7 @@ chungsanforderung
 | 014 | 8430 | Serum | Probenmaterial-Bezeichnung |
 |---|---|---|---|
 | 017 | 8431 | gefroren | Probenmaterial-Spezifikation |
-| 010 | 8504 | 1 | Medikamenteneinnahme zum Zeitpunkt der Materialent- |
+| 010 | 8504 | 1 | Medikamenteneinnahme zum Zeitpunkt der |
 | 019 | 8170 | Medikament | Objektattribut |
 | 017 | 8002 | Obj_0070 | ObjektIdent |
 | 025 | 6208 | Arzneimittel XYZ | Handelsname des Arzneimittels |
@@ -3028,11 +3072,15 @@ Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt
 
 ---
 
+```
+-
+```
+
 # 13. Use Case 15 – Befund (konventionelle und SI-Einheiten)
 
 - **13.1. Beschreibung**
 
-In diesem UseCase wird die Ausgabe von Ergebniswerten und dazugehörigen Normalwerten im  LDT 3 mit konventionellen Maßeinheiten und SI che sind in dem Beispieldatensatz grün hinterlegt hervorgehoben.
+In diesem UseCase wird die Ausgabe von Ergebniswerten und dazugehörigen Normalwerten im  LDT 3 mit konventionellen Maßeinheiten und SI-Maßeinheiten beispielhaft dargestellt. Die Berei-che sind in dem Beispieldatensatz grün hinterlegt hervorgehoben.
 
 **EINSENDER:**
 
@@ -3090,12 +3138,6 @@ Probengefäß mit Nummer 1234567801 enthält Fluoridblut
 
 Material wurde am JJJJMMTT um HHmm entnommen
 
-```
--
-```
-
--Maßeinheiten beispielhaft dargestellt. Die Berei-
-
 
 ---
 
@@ -3126,7 +3168,7 @@ In diesem UseCase wird der Umgang mit Texten im Obj_0068 (Fließtext) für die A
 
 Beispiel:
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea  commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari-atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, co nsectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore  magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea  commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari-atur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex  ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est  laborum.
 
 Darstellung im Obj_0068:
 

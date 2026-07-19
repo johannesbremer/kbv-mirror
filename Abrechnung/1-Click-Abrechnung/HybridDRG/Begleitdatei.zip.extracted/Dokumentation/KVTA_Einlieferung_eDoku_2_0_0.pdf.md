@@ -74,7 +74,7 @@ element **einlieferung/quartal**
 |---|---|
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **derived by: ** required         appinfo <altova:exampleValues> |
-| annotation | documentation Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011 |
+| annotation | documentation Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011- |
 
 attribute
 
@@ -94,7 +94,7 @@ element **einlieferung/anhang**
 | diagram |  |
 |---|---|
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/1.0.0 |
-| attributes | Name   Type   Use   Default   Fixed   Annotation V  **xs:string** required |
+| attributes | Name   Type   Use   Default   Fixed  Annotation V  **xs:string** required |
 | annotation | documentation eDoku Dokumente eines Types. |
 
 attribute

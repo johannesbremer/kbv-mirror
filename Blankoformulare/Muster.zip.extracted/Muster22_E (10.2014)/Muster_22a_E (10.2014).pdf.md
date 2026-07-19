@@ -46,17 +46,17 @@
 
 **Ärztliche** **Mitbehandlung** **ist** **erforderlich** **Art der Maßnahme:**
 
+**erfolgt**
+
 **nicht erforderlich**
 
-**notwendig** **bzw.**
+**notwendig** **bzw.** **veranlasst**
 
 **derzeit** **Kontra-** **(Begründung** **s.** **o.)**
 
-**erfolgt**
-
 **veranlasst**
 
-**veranlasst** **und** **ggf.** **welche?**
+**und** **ggf.** **welche?**
 
 **Ausstellungsdatum**
 

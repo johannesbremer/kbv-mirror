@@ -5,13 +5,13 @@
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-SDHMA – Stammdatei -Lewin-Platz 2 1.31 Datum: 03.09.2020 Kennzeichnung: Öffentlich Status: In Kraft
+SDHMA – Stammdatei 1.31 Datum: 03.09.2020 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
@@ -337,7 +337,7 @@ chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargeste
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
-**Tabelle 2:** Beschreibung der Strukturelement
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 ### 2.5.3 Sonstige Symbole
 
@@ -350,9 +350,9 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 |  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
-**Tabelle 3:** Beschreibung sonstiger Symbole -Symbole
+**Tabelle 3:** Beschreibung sonstiger Symbole
 
-delementen genau eins ausgewählt werden muss. gelegter Reihenfolge aufgeführt werden müssen. <xs:choice> zeigt an, dass zwischen verschiedenen Kin- <xs:sequence>  beschreibt, dass die Kindelemente in fest- Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
+<xs:choice> delementen genau eins ausgewählt werden muss. <xs:sequence> gelegter Reihenfolge aufgeführt werden müssen. zeigt an, dass zwischen verschiedenen Kin-  beschreibt, dass die Kindelemente in fest- Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
 
 ---
 
@@ -509,12 +509,13 @@ Der XML-Code für ein <icd- code> Element hat folgenden Aufbau:
 <icd_code V="..."/>
 ```
 
-**XML-Code 5:** icd-code
+| XML-Code | 5: icd-code |
+|---|---|
+| **5.5** | **geltungsbereich_kv** |
+| Das | Element <geltungsbereich_kv> gibt an welchem KV-Bereich der Schlü s selta belle |
+| S_KBV_KV | (OID: 1.2.276.0.76.5.233) die entsprechenden Heilmittelbedarfe zugeordnet sind. |
 
-## 5.5 geltungsbereich_kv
-
-Das Element <geltungsbereich_kv> gibt an welchem KV-Bereich der Schlüsseltabelle  S_KBV_KV (OID: 1.2.276.0.76.5.233) die entsprechenden Heilmittelbedarfe zugeordnet sind.
-
+XML-Code 5: Das Element <geltungsbereich_kv> gibt an welchem KV-Bereich der Schlüsseltabelle S_KBV_KV (OID: 1.2.276.0.76.5.233) die entsprechenden Heilmittelbedarfe zugeordnet sind.
 
 ---
 
@@ -560,48 +561,41 @@ Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen au
 
 ---
 
-| IT in der | Arztpraxis |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-|  | Schnittstellenbeschreibung | | SDHMA | – Stammdatei |  |  |
-| **Abbildung** | **8:** | heilmittel |  |  |  |  |
-| Der | XML-Code | fü r e in | < heilm | itte l> | Element hat | folgenden Aufbau: |
-|  | **<heilmittel>** |  |  |  |  |  |
-|  |  | **<anlage_heilmittelvereinbarung** | | | **V="..." DN="..."/>** |  |
-|  | **<sekundaercode** | | **V="..."/>** |  |  |  |
-|  | **<untere_altersgrenze** | |  | **V="..." U="..."/>** |  |  |
-|  | **<obere_altersgrenze** | | **V ="..."** | **U="..."/>** |  |  |
-|  | **<hinweistext** |  | **V="..."/>** |  |  |  |
-|  |  | **<zeitraum_akutereignis** | | **V="..."** | **U="..."/>** |  |
-|  | **<kapitel_liste>** | |  |  |  |  |
-|  | **<kapitel** |  | **V="..."** | **DN="...">** |  |  |
-|  | KBV_ITA_VGEX_Schnittstelle_SDHMA | | | * Version 1.31 |  |  |
+#### Abbildung 8: heilmittel
 
-```
+### Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau:
+
 **<heilmittel>**
-**<anlage_heilmittelvereinbarung V="..." DN="..."/>**
-**<sekundaercode V="..."/>**
-**<untere_altersgrenze V="..." U="..."/>**
-**<ob**
-**<hinweistext V="..."/>**
-**<zeitraum_akutereignis V="..." U="..."/>**
-**<kapitel_liste>**
-```
 
-Abbildung 8: Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau: ere_altersgrenze V="..." U="..."/> **<kapitel V="..." DN="...">**
+**<anlage_heilmittelvereinbarung V="..." DN="..."/>**
+
+**<sekundaercode V="..."/>**
+
+**<untere_altersgrenze V="..." U="..."/>**
+
+**<ob ere_altersgrenze V="..." U="..."/>**
+
+**<hinweistext V="..."/>**
+
+**<zeitraum_akutereignis V="..." U="..."/>**
+
+**<kapitel_liste>**
+
+**<kapitel V="..." DN="...">**
 
 
 ---
 
 ```
 **<diagnosegruppe>_liste**
-**<diagnosegruppe V="..." DN="..." S=""/> 1.2.276.0.76.3.1.1.5.2.38**
-**<diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/>**
+**<diagnosegruppe V="..." DN="..." S=""/>**
+**<diagnosegruppe V="..." DN="..."**
 **<diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/>**
 **</diagnosegruppe_liste>**
 **</>kapitel**
 **<kapitel V="..." DN="...">**
 **<diagnosegruppe>_liste**
-**<diagnosegruppe V="..." DN="..." S=""/> 1.2.276.0.76.3.1.1.5.2.38**
+**<diagnosegruppe V="..." DN="..." S=""/>**
 **</diagnosegruppe_liste>**
 **</>kapitel**
 **</kapitel>_liste**
@@ -613,6 +607,12 @@ Abbildung 8: Der XML-Code für ein <heilmittel > Element hat folgenden Aufbau: e
 ## 5.8 anlage_heilmittelvereinbarung
 
 Das Element <anlage_heilmittelvereinbarung> enthält im V-Attribut die Kennzeichnung der Art  der Anlage der Heilmittelvereinbarung (Anlage 1 der Vereinbarung über besondere Veror-dungsbedarfe nach § 84 Abs. 8 SGB V oder Anlage 2 im Sinne von § 32 Abs. 1a).
+
+```
+**1.2.276.0.76.3.1.1.5.2.38**
+**S="1.2.276.0.76.3.1.1.5.2.38"/>**
+**1.2.276.0.76.3.1.1.5.2.38**
+```
 
 **Abbildung 9:** anlage_heilmittelvereinbarung
 
@@ -762,10 +762,10 @@ V="..." DN="..."
 | EN3 | Periphere Nervenläsionen / Muskelerkrankungen Rückenmarkserkrankungen |
 | EN4 | periphere Nervenläsionen |
 | EX1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
-| EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des |
+| EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX3 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
-| EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz |
-| GE | Arterielle Gefäßerkrankungen (bei konservativer Behandlung, nach  Interventioneller / operativer Behandlung) |
+| EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz- und Bewegungsorgane im |
+| GE | Arterielle Gefäßerkrankungen (bei konservativer Behandlung, nach   Interventioneller / operativer Behandlung) |
 | **Abbildung 16:** | Der XML-Code für ein <diagnosegruppe_liste> Element hat folgenden Aufbau: |
 | **<diagnosegruppe_liste>** | **<diagnosegruppe V="..."** |
 | **DN="..."** |  |
@@ -792,9 +792,9 @@ V="..." DN="..."
 | EN3 | Periphere Nervenläsionen / Muskelerkrankungen Rückenmarkserkrankungen |
 | EN4 | periphere Nervenläsionen |
 | EX1 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
-| EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des |
+| EX2 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
 | EX3 | Verletzungen/Operationen und Erkrankungen der Extremitäten und des Beckens |
-| EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz |
+| EX4 | Miss- und Fehlbildungen, Strukturschäden der Stütz- und Bewegungsorgane im |
 | GE | Arterielle Gefäßerkrankungen (bei konservativer Behandlung, nach |
 | Interventioneller / operativer Behandlung) |  |
 |  |  |
@@ -808,14 +808,14 @@ V="..." DN="..."
 | **DN="..."** | **S="1.2.276.0.76.3.1.1.5.2.38"/>** |
 | **<diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/>** |  |
 
-piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID: 1.2.276.0.76.3.1.1.5.2.38). - und Bewegungsorgane im Säuglings-, Kleinkind- und Kindesalter
+piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID: 1.2.276.0.76.3.1.1.5.2.38). Säuglings-, Kleinkind- und Kindesalter
 
 ---
 
-| SAS  Seltene angeborene Stoffwechselerkrankungen | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch SB2 |
+| SAS  Seltene angeborene Stoffwechselerkrankungen | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch- SB2 |
 |---|---|
 | SB3 | System- und Autoimmunerkrankungen mit Bindegewebe-, Muskel- und Gefäßbe- |
-| SB4 | Gelenkerkrankungen, Vorwiegend Schulter/ Ellbogen/ Hand mit prognostisc |
+| SB4 | Gelenkerkrankungen, Vorwiegend Schulter/ Ellbogen/ Hand mit prognostisch |
 | SB5 | Gelenkerkrankungen/ Störung der Gelenkfunktion mit prognostisch längerdauern- |
 | SB6 | Sympathische Reflexdystrophie, Sudeck`sches Syndrom, CRPS (chronisch regio- |
 | SB7 | Erkrankungen mit Gefäß-, Muskel- und Bindegewebsbeteiligung, insbesondere |
@@ -826,7 +826,7 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | SO3 | Schwindel unterschiedlicher Genese und Ätiologie |
 | SO4 | Sekundäre periphere trophische Störungen bei Erkrankungen |
 | SO5 | Prostatitis, Adnexitis |
-| SP1 | Störungen der Sprache vor Abschluss der Sprachentwicklung |
+| SP1 | Störungen der Sprache vor Abschluss der Sprachentwicklungsstörung |
 | SP2 | Störungen der auditiven Wahrnehmung |
 | SP3 | Störungen der Artikulation  SP4 |
 | LY1 | Lymphabflussstörungen |
@@ -834,17 +834,17 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen |
 | PN | periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
-| PS2 | Neurotische-, Belastungs- und somatoforme Störungen; Verhaltensauffällig |
+| PS2 | Neurotische-, Belastungs- und somatoforme Störungen; Verhaltensauffälligkeiten |
 | PS3 | Schizophrenie, schizo-type und Wwahnhafte Störungen; und affektive Störungen  Abhängigkeitserkrankungen |
 | PS4 | Dementielle Syndrome Psychische und Verhaltensstörungen durch psychotrope |
 | PS5 | Dementielle Syndrome |
 | RE1 | Störungen des Redeflusses (Stottern) |
 | RE2 | Störungen des Redeflusses (Poltern) |
 | SAS | Seltene angeborene Stoffwechselerkrankungen |
-| SB1 | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch |
-| SB2 | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch |
+| SB1 | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch- |
+| SB2 | Erkrankungen der Wirbelsäule, Gelenke und Extremitäten (mit motorisch- |
 | SB3 | System- und Autoimmunerkrankungen mit Bindegewebe-, Muskel- und Gefäßbe- |
-| SB4 | Gelenkerkrankungen, Vorwiegend Schulter/ Ellbogen/ Hand mit prognostisc |
+| SB4 | Gelenkerkrankungen, Vorwiegend Schulter/ Ellbogen/ Hand mit prognostisch |
 | SB5 | Gelenkerkrankungen/ Störung der Gelenkfunktion mit prognostisch längerdauern- |
 | SB6 | Sympathische Reflexdystrophie, Sudeck`sches Syndrom, CRPS (chronisch regio- |
 | SB7 | Erkrankungen mit Gefäß-, Muskel- und Bindegewebsbeteiligung, insbesondere |
@@ -856,7 +856,7 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | SO3 | Schwindel unterschiedlicher Genese und Ätiologie |
 | SO4 | Sekundäre periphere trophische Störungen bei Erkrankungen |
 | SO5 | Prostatitis, Adnexitis |
-| SP1 | Störungen der Sprache vor Abschluss der Sprachentwicklung |
+| SP1 | Störungen der Sprache vor Abschluss der Sprachentwicklungsstörung |
 | SP2 | Störungen der auditiven Wahrnehmung |
 | SP3 | Störungen der Artikulation |
 | SP4 | Störungen des Sprechens / der Sprache bei hochgradiger Schwerhörigkeit oder |
@@ -868,10 +868,10 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | ST4 | Psychogene Dysphonie Erkrankungen der Stimme |
 | LY1 | Lymphabflussstörungen |
 | LY2 | Lymphabflussstörungen |
-| LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen PN  periphere Nervenläsionen / Muskelerkrankungen |
+| LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen  PN  periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 
-Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit keiten  Persönlichkeits-und Verhaltensstörun- -perzeptiven Schädigungen)
+Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Persönlichkeits-und Verhaltensstörun- Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch-perzeptiven Schädigungen) Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit
 
 ---
 

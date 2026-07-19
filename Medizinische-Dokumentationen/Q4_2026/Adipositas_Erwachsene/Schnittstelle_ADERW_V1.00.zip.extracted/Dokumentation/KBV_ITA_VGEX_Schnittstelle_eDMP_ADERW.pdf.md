@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 19. FEBRUAR 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  19. FEBRUAR 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  ADIPOSITAS - ERWACHSENE
@@ -84,9 +84,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 25 6.1.7 Abschnitt „Schulung“
 
-26  Schulung
-
-Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas teilgenommen
+26  Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung  teilgenommen
 
 26 Adipositas-Schulung empfohlen (bei aktueller Dokumentation)
 
@@ -191,7 +189,7 @@ Kardinalität Sonstige Symbole
 
 ## XML-CODE-VERZEICHNIS
 
-**XML-CODE 1:** LEVELONE ................................................................................................................................................... 12  **XML-CODE 2:** BODY .......................................................................................................................................................... 13  **XML-CODE 3:** SECTION ..................................................................................................................................................... 15  **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16  **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16  **XML-CODE 6:** PARAMETER ............................................................................................................................................... 17  **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17  **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17  **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18  **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18  **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 19  **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20  **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 20  **XML-CODE 14:** RAUCHER .................................................................................................................................................. 20  **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 21  **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21  **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 21  **XML-CODE 18:** CONTENT (THERAPEUTISCHE MAßNAHMEN) .......................................................................................... 23  **XML-CODE 19:** ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND KÖRPERLICHEM TRAINING ......... 23  **XML-CODE 20:** REGELMÄßIGE KÖRPERLICHE ALLTAGSAKTIVITÄT ................................................................................... 24  **XML-CODE 21:** REGELMÄßIGES KÖRPERLICHES TRAINING .............................................................................................. 24  **XML-CODE 22:** ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG ....................................................................................................................................... 24  **XML-CODE 23:** ADÄQUAT GEÄNDERTES ERNÄHRUNGSVERHALTEN ............................................................................... 25  **XML-CODE 24:** PRÄDIABETES BEI EINSCHREIBUNG .......................................................................................................... 25  **XML-CODE 25:** CONTENT (SCHULUNG) ............................................................................................................................ 26  **XML-CODE 26:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER MULTIMODALEN ADIPOSITAS -SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 26  **XML-CODE 27**: ADIPOSITAS-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ........................................... 27  **XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 27  **XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 28  **XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................ 28  **XML-CODE 31:** SECTION (VERLAUFSDOKUMENTATION) .................................................................................................. 30  **XML-CODE 32:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 31  **XML-CODE 33:** CONTENT (THERAPEUTISCHE MAßNAHMEN) .......................................................................................... 33  **XML-CODE 34:** ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND KÖRPERLICHEM TRAINING SEIT  DER LETZTEN DOKUMENTATION ............................................................................................................................. 33  **XML-CODE 35:** ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG SEIT DER LETZTEN DOKUMENTATION ........................................................................... 34  **XML-CODE 36:** CONTENT (SCHULUNG) ............................................................................................................................ 35  **XML-CODE 37:** EMPFOHLENE ADIPOSITAS-SCHULUNG WAHRGENOMMEN ................................................................... 35  **XML-CODE 38:** CONTENT (RELEVANTE EREIGNISSE SEIT DER LETZTEN DOKUMENTATION) ............................................ 36  **XML-CODE 39:** MANIFESTER DIABETES MELLITUS TYP 2 ................................................................................................. 36  **XML-CODE 40:** BEENDIGUNG DER DMP-TEILNAHME ....................................................................................................... 37
+**XML-CODE 1:** LEVELONE ................................................................................................................................................... 12  **XML-CODE 2:** BODY .......................................................................................................................................................... 13  **XML-CODE 3:** SECTION ..................................................................................................................................................... 15  **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16  **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16  **XML-CODE 6:** PARAMETER ............................................................................................................................................... 17  **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17  **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17  **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18  **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18  **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 19  **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20  **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 20  **XML-CODE 14:** RAUCHER .................................................................................................................................................. 20  **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 21  **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21  **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 21  **XML-CODE 18:** CONTENT (THERAPEUTISCHE MAßNAHMEN) .......................................................................................... 23  **XML-CODE 19:** ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND KÖRPERLICHEM TRAINING ......... 23  **XML-CODE 20:** REGELMÄßIGE KÖRPERLICHE ALLTAGSAKTIVITÄT ................................................................................... 24  **XML-CODE 21:** REGELMÄßIGES KÖRPERLICHES TRAINING .............................................................................................. 24  **XML-CODE 22:** ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG ....................................................................................................................................... 24  **XML-CODE 23:** ADÄQUAT GEÄNDERTES ERNÄHRUNGSVERHALTEN ............................................................................... 25  **XML-CODE 24:** PRÄDIABETES BEI EINSCHREIBUNG .......................................................................................................... 25  **XML-CODE 25:** CONTENT (SCHULUNG) ............................................................................................................................ 26  **XML-CODE 26:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER MULTIMODALEN ADIPOSITAS-SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 26  **XML-CODE 27**: ADIPOSITAS-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ........................................... 27  **XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 27  **XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 28  **XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................ 28  **XML-CODE 31:** SECTION (VERLAUFSDOKUMENTATION) .................................................................................................. 30  **XML-CODE 32:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 31  **XML-CODE 33:** CONTENT (THERAPEUTISCHE MAßNAHMEN) .......................................................................................... 33  **XML-CODE 34:** ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND KÖRPERLICHEM TRAINING SEIT  DER LETZTEN DOKUMENTATION ............................................................................................................................. 33  **XML-CODE 35:** ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG SEIT DER LETZTEN DOKUMENTATION ........................................................................... 34  **XML-CODE 36:** CONTENT (SCHULUNG) ............................................................................................................................ 35  **XML-CODE 37:** EMPFOHLENE ADIPOSITAS-SCHULUNG WAHRGENOMMEN ................................................................... 35  **XML-CODE 38:** CONTENT (RELEVANTE EREIGNISSE SEIT DER LETZTEN DOKUMENTATION)............................................ 36  **XML-CODE 39:** MANIFESTER DIABETES MELLITUS TYP 2 ................................................................................................. 36  **XML-CODE 40:** BEENDIGUNG DER DMP-TEILNAHME ....................................................................................................... 37
 
 |  |  |
 |---|---|
@@ -243,13 +241,13 @@ Das Konzept zur Gestaltung der XML-Dateien für den Datentransfer ist in einem E
 Für den Dateinamen einer einzelnen XML-Datei ist folgendes festgelegt:
 
 - Das Präfix setzt sich aus
-- 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9 Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen)
+- 9 Stellen der (Neben-) Betriebsstättennummer bzw. dem 9-stelligen  Krankenhaus-Institutionskennzeichen (Absender der Dokumentationen)
 - der DMP-Fallnummer
 - und dem Datum (Kopfdaten)
 
 zusammen.
 
-- Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert Allgemein hat das Präfix also folgenden Aufbau:
+- Die drei Bestandteile des Präfixes werden in o.g. Reihenfolge und durch Unterstriche getrennt notiert.  Allgemein hat das Präfix also folgenden Aufbau:
 - AAAAAAAAA_BBBBBBB_JJJJMMTT
 
 (die 7 Stellen für die DMP-Fallnummer sind nicht fest vorgeschrieben, es können auch kürzere Nummern  sein).
@@ -258,14 +256,12 @@ Es sind die folgenden Suffixkonventionen festgelegt:
 
 - Für die elektronische erstmalige Dokumentation: EE
 - Für die elektronische Verlaufsdokumentation: EV
-- Gefolgt von fünf Buchstaben für die Kennzeichnung des DMP für
+- Gefolgt von fünf Buchstaben für die Kennzeichnung des DMP für Adipositas - Erwachsene: ADERW
 
 Beispiele:
 
 - 123456789_123_20260930.EEADERW
 - 123456789_123_20261231.EVADERW
-- -stelligen
-- Adipositas - Erwachsene: ADERW
 
 |  |  |
 |---|---|
@@ -273,9 +269,9 @@ Beispiele:
 
 ---
 
-# 3 SEMANTIK DER VERWENDETEN DIAGRAMM
+# 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
 
-Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen.
 
 ## 3.1 KARDINALITÄT
 
@@ -284,7 +280,7 @@ Es existieren verschiedene Kardinalitäten:
 |  |  |  |
 |---|---|---|
 | **Kardinalität** | **Symbol** | **Beschreibung** |
-| 0..1 |  | Optionales Element: Element wird als |
+| 0..1 |  | Optionales Element: Element wird als Rechteck mit |
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
 | n...m |  | Multielement enthält mindestens n aber maximal m |
 
@@ -292,19 +288,17 @@ Es existieren verschiedene Kardinalitäten:
 
 ## 3.2 STRUKTURELEMENTE
 
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet:
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
 
 |  |  |
 |---|---|
 | **Symbol** | **Beschreibung** |
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
-|  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente |
+|  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
-**Tabelle 2:** Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-<xs:choice> und <xs:sequence>.
-
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. aus, Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.# -SYMBOLE
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 |  |  |
 |---|---|
@@ -322,11 +316,11 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | *Element mit Kindelementen * Ein Element mit einem oder mehreren Kindelementen wird durch ein |
 |  | *Referenzelement * Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
 |  | *Datentyp* Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
-|  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein |
+|  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert im Schema definiert wurde. welches mehrere Elemente zusammenfasst. Gruppenelement dar,
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
 |  |  |
 |---|---|
@@ -344,7 +338,7 @@ Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind
 
 **Abbildung 1:** Grundstruktur levelone
 
-Folgender Code ist für diese Elemente zwingend vorgeschrieben
+Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 \| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"           xmlns:sciphox="urn::sciphox-org/sciphox"           xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance>    <clinical_document_header>      . . .    </clinical_document_header>**   <body>** …    </body>  </levelone> |
 \|---|
@@ -363,15 +357,15 @@ Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
 # 5 CLINICAL_DOCUMENT_HEADER
 
-## 5.1 UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP
+## 5.1 UNTERSCHIEDE IM HEADER DES DATENSATZES ZUM DMP ADIPOSITAS - ERWACHSENE
 
-Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die Abbildung der Geschlechtsausprägungen auf die Werte des V Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP
+Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des  Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
 # 6 BODY DER „ERSTMALIGEN DOKUMENTATION“
 
-In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element  enthält ein Element <section>.
+In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst  enthält ein Element <section>.
 
-Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
+Der Aufbau des Elements <body> ist in
 
 **Abbildung 2:** Grundstruktur body
 
@@ -382,11 +376,9 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
 **XML-Code 2:** body
 
-## ADIPOSITAS - ERWACHSENE
+] durchzuführen.
 
--Attributs ist gemäß Pflichtfunktion P2-52 des  ] durchzuführen.
-
-<body> selbst
+Abbildung 2 dargestellt.
 
 |  |  |
 |---|---|
@@ -400,23 +392,13 @@ Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <
 
 **Abbildung 3:** Grundstruktur section
 
-Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese Therapeutische Maßnahmen“, „Schulung“ und „ Element untergebracht sind.
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“,  Therapeutische Maßnahmen“, „Schulung“ und „Behandlungsplanung , die jeweils in einem <paragraph>-Element untergebracht sind.
 
 ### 6.1.1 caption
 
-Das Element <caption> besteht nur aus dem erforderlichen Kindelement  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“, „Anamnese und Befunddaten“, „Therapeutische Maßnahmen
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Attribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften „Administrative Daten“, „Anamnese und Befunddaten“, „Therapeutische Maßnahmen“, „Schulung“ und „Behandlungsplanung“ angegeben.
 
-Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
-
-Behandlungsplanung
-
-“, „Schulung“ und „Behandlungsplanung“ angegeben.
-
-und Befunddaten“,  , die jeweils in einem <paragraph>-
-
-<caption_cd>. Im DN-Attribut des
-
-<section> wie folgt
+Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
 |  |  |
 |---|---|
@@ -444,7 +426,7 @@ Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine 
 \| <content>**   <local_markup ignore="all" descriptor="sciphox">**     <sciphox:sciphox-ssu type="observation" country="de" version="v1">      ...**     </sciphox:sciphox-ssu>**   </local_markup>  </content>** |
 \|---|
 
-**XML-Code 4:** content mit sciphox -SSU (observation)
+**XML-Code 4:** content mit sciphox-SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
 
@@ -517,7 +499,7 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>**   <local_markup ignore="all" descriptor="sciphox">**     <sciphox:sciphox-ssu type="observation" country="de" version="v1">**       <sciphox:Beobachtungen>               </content> |
 \|---|
 
-**XML-Code 9:** content (Administrative Daten )
+**XML-Code 9:** content (Administrative Daten)
 
 ### Einschreibung wegen
 
@@ -559,7 +541,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt Anamnese- und Befunddaten
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau sechs Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau sechs Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -578,7 +560,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### Körpergröße
 
-Bei diesem Parameter enthält das Element  *U* Attribut den fest vorgeschriebenen Wert „m“. <sciphox:Ergebniswert> im *V* Attribut die „Körpergröße“ und im
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  *U* Attribut den fest vorgeschriebenen Wert „m“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -591,8 +573,6 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  im *U* Attribut den fest vorgeschriebenen Wert „kg“.
 
-*V* Attribut das „Körpergewicht“ und
-
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
@@ -602,9 +582,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Raucher
 
-Bei diesem Parameter enthält das Element gemäß
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  Tabelle 5
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 5
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -618,11 +596,17 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 5:** Werte bei Ergebnistext ( Raucher)
+**Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
 ### Blutdruck systolisch
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+
+*V* Attribut die „Körpergröße“ und im
+
+*V* Attribut das „Körpergewicht“ und
+
+*V*-Attribut die Feldbezeichnung
 
 <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>*V* Attribut den „systolischen Wert“
 
@@ -641,7 +625,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Blutdruck diastolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut den „diastolischen Wert“  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
+
+*V* Attribut den „diastolischen Wert“
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -683,7 +669,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.6 Abschnitt „Therapeutische Maßnahmen“
 
-Dieses Kapitel beschreibt den Abschnitt „Therapeutische Maßnahmen
+Dieses Kapitel beschreibt den Abschnitt „Therapeutische Maßnahmen“
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau sechs Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
@@ -716,7 +702,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ziele vereinbart |
 \| Keine Ziele vereinbart |
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur  Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training "/> <sciphox:Ergebnistext V="Ziele vereinbart"/>**Tabelle 7:** Werte bei Ergebnistext ( Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training )
+<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>**Tabelle 7:** Werte bei Ergebnistext (Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training)
 
 |  |  |
 |---|---|
@@ -726,7 +712,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Regelmäßige körperliche Alltagsaktivität
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 8
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 8
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -740,7 +726,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 8:** Werte bei Ergebnistext ( Regelmäßige körperliche Alltagsaktivität )
+**Tabelle 8:** Werte bei Ergebnistext (Regelmäßige körperliche Alltagsaktivität)
 
 ### Regelmäßiges körperliches Training
 
@@ -758,7 +744,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 9:** Werte bei Ergebnistext ( Regelmäßiges körperliches Training )
+**Tabelle 9:** Werte bei Ergebnistext (Regelmäßiges körperliches Training)
 
 ### Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der
 
@@ -773,9 +759,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut die Feldbezeichnung
 
+*V*-Attribut die Feldbezeichnung
+
 ### Ernährungsänderung
 
-<sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität "/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur <sciphox:Ergebnistext V="Ziele vereinbart"/>  Aufrechterhaltung der Ernährungsänderung"/>*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>*V*-Attribut die Feldbezeichnung
 
 |  |  |
 |---|---|
@@ -788,7 +776,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ziele vereinbart |
 \| Keine Ziele vereinbart |
 
-**Tabelle 10:** Werte bei Ergebnistext ( Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung  der Ernährungsänderung )
+**Tabelle 10:** Werte bei Ergebnistext (Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung  der Ernährungsänderung)
 
 ### Adäquat geändertes Ernährungsverhalten
 
@@ -806,7 +794,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 11:** Werte bei Ergebnistext ( Adäquat geändertes Ernährungsverhalten )
+**Tabelle 11:** Werte bei Ergebnistext (Adäquat geändertes Ernährungsverhalten)
 
 ### Prädiabetes bei Einschreibung
 
@@ -824,7 +812,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-<sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 12:** Werte bei Ergebnistext ( Prädiabetes bei Einschreibung )
+<sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 12:** Werte bei Ergebnistext (Prädiabetes bei Einschreibung)
 
 |  |  |
 |---|---|
@@ -836,40 +824,36 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt Schulung
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
 
 \| <content>**   <local_markup ignore="all" descriptor="sciphox">**     <sciphox:sciphox-ssu type="observation" country="de" version="v1">**       <sciphox:Beobachtungen>                       </local_markup>** </content> |
 \|---|
 
+*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
 **XML-Code 25:** content (Schulung)
 
-### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas
+### Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas Schulung teilgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 13
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 13
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 26:** Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas teilgenommen
+**XML-Code 26:** Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung  teilgenommen
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
 \| Ja |
 \| Nein |
 
-**Tabelle 13:** Werte bei Ergebnistext ( Bereits vor Einschreibung in das DMP an einer multimodalen  Adipositas-Schulung teilgenommen )
+**Tabelle 13:** Werte bei Ergebnistext (Bereits vor Einschreibung in das DMP an einer multimodalen  Adipositas-Schulung teilgenommen)
 
-### Schulung teilgenommen
-
-*V*-Attribut die Feldbezeichnung
-
-<sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>-Schulung
-
-|  |  |
+<sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
 |---|---|
 
 
@@ -891,7 +875,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 14:** Werte bei Ergebnistext ( Adipositas-Schulung empfohlen (bei aktueller Dokumentation) )
+**Tabelle 14:** Werte bei Ergebnistext (Adipositas-Schulung empfohlen (bei aktueller Dokumentation))
 
 ### 6.1.8 Abschnitt „Behandlungsplanung“
 
@@ -908,7 +892,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-<sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+<sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 |  |  |
 |---|---|
@@ -947,7 +931,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Quartalsweise |
 \| Jedes zweite Quartal |
 
-**Tabelle 16:** Werte bei Ergebnistext ( Dokumentationsintervall)
+**Tabelle 16:** Werte bei Ergebnistext (Dokumentationsintervall)
 
 <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V="Körperliches Training"/> <sciphox:Ergebnistext V="Ernährungsberatung"/> <sciphox:Ergebnistext V="Tabakverzicht"/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/>
 
@@ -959,7 +943,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 # 7 BODY DER VERLAUFSDOKUMENTATION
 
-Der body der Verlaufsdokumentation enthält die gleichen Abschnitte und fast alle Parameter wie die  „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten.  Ergänzend kommt der Abschnitt „Relevante Ereignisse seit der letzten Dokumentation“ hinzu. In diesem  Kapitel werden nur die speziellen Parameter für die Verlaufsdokumentation erläutert
+Der body der Verlaufsdokumentation enthält die gleichen Abschnitte und fast alle Parameter wie die  „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten.  Ergänzend kommt der Abschnitt „Relevante Ereignisse seit der letzten Dokumentation“ hinzu. In diesem  Kapitel werden nur die speziellen Parameter für die Verlaufsdokumentation erläutert.
 
 ## 7.1 SEKTION (SECTION)
 
@@ -1049,7 +1033,7 @@ Siehe Kapitel 6.1.5.6
 
 ### 7.1.6 Abschnitt „Therapeutische Maßnahmen“
 
-Dieses Kapitel beschreibt den Abschnitt „Therapeutische Maßnahmen
+Dieses Kapitel beschreibt den Abschnitt „Therapeutische Maßnahmen“
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau sechs Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
@@ -1082,7 +1066,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ziele vereinbart oder überprüft |
 \| Keine Ziele vereinbart oder überprüft |
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur  Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training  seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>**Tabelle 17:** Werte bei Ergebnistext ( Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training seit der letzten Dokumentation )
+<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>**Tabelle 17:** Werte bei Ergebnistext (Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training seit der letzten Dokumentation)
 
 |  |  |
 |---|---|
@@ -1114,7 +1098,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ziele vereinbart oder überprüft |
 \| Keine Ziele vereinbart oder überprüft |
 
-**Tabelle 18:** Werte bei Ergebnistext ( Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung  der Ernährungsänderung seit der letzten Dokumentation )
+**Tabelle 18:** Werte bei Ergebnistext (Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung  der Ernährungsänderung seit der letzten Dokumentation)
 
 ### Adäquat geändertes Ernährungsverhalten
 
@@ -1165,11 +1149,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| War aktuell nicht möglich |
 \| Bei letzter Dokumentation keine Schulung empfohlen |
 
-**Tabelle 19:** Werte bei Ergebnistext ( Empfohlene Adipositas-Schulung wahrgenommen )
+**Tabelle 19:** Werte bei Ergebnistext (Empfohlene Adipositas-Schulung wahrgenommen)
 
 ### 7.1.8 Abschnitt „Relevante Ereignisse seit der letzten Dokumentation
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation) <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Parameter DN="Adipositas-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse seit der letzten Dokumentation
+<sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Parameter DN="Adipositas-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse seit der letzten Dokumentation
 
 |  |  |
 |---|---|
@@ -1184,7 +1168,7 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>**   <local_markup ignore="all" descriptor="sciphox">**     <sciphox:sciphox-ssu type="observation" country="de" version="v1">**       <sciphox:Beobachtungen>                       </local_markup>** </content> |
 \|---|
 
-**XML-Code 38:** content (Relevante Ereignisse seit der letzten Dokumentation )
+**XML-Code 38:** content (Relevante Ereignisse seit der letzten Dokumentation)
 
 ### Manifester Diabetes mellitus Typ 2
 
@@ -1202,7 +1186,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 20**: Werte bei Ergebnistext ( Manifester Diabetes mellitus Typ 2 )
+**Tabelle 20**: Werte bei Ergebnistext (Manifester Diabetes mellitus Typ 2)
 
 ### Beendigung der DMP Teilnahme
 
@@ -1219,14 +1203,14 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 40:** Beendigung der DMP -Teilnahme
+**XML-Code 40:** Beendigung der DMP-Teilnahme
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
 \| Ja |
 \| Nein |
 
-**Tabelle 21:** Werte bei Ergebnistext ( Beendigung der DMP -Teilnahme)
+**Tabelle 21:** Werte bei Ergebnistext (Beendigung der DMP-Teilnahme)
 
 ### 7.1.9 Abschnitt „Behandlungsplanung“
 

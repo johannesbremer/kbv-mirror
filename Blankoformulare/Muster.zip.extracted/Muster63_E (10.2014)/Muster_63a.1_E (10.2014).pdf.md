@@ -1,6 +1,10 @@
 **Krankenkasse bzw. Kostenträger**
 
-## Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
+## Verordnung spezialisierter
+
+**63**
+
+## ambulanter Palliativversorgung (SAPV)
 
 **Name, Vorname des Versicherten**
 
@@ -9,6 +13,8 @@
 **Folge-**
 
 **Erst-** **verordnung**
+
+**verordnung**
 
 **Unfall** **Kostenträgerkennung** **Versicherten-Nr.**
 
@@ -52,9 +58,15 @@
 
 **Aktuelle Medikation (ggf. einschließlich BtM)**
 
+**ausgeprägte gastrointestinale**
+
+**sonstiges komplexes**
+
 **Folgende Maßnahmen sind notwendig**
 
 **Beratung**
+
+**Koordination der Palliativversorgung**
 
 **a. des behandelnden Arztes**
 
@@ -77,16 +89,6 @@
 **PRF.NR.** **Muster 63a.1/E (10.2014)**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-**63**
-
-**verordnung**
-
-**ausgeprägte gastrointestinale**
-
-**sonstiges komplexes**
-
-**Koordination der Palliativversorgung**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 

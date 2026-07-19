@@ -31,13 +31,15 @@ INHALT
 | 1.6.5 Version der zu verwendenden FHIR-Profile | 9 |
 | 1.6.6 Signierung von Verordnungen | 9 |
 
-| 2 | PRÜ | FFÄLLE | 10 |
-|---|---|---|---|
-| 2.1 |  | Voraussetzungen | 11 |
-| 2.2 | Erstellen | eines eRP | 11 |
-| 2.3 | Erstellen | eines eRP – Konditionale Prü ffä lle | 17 |
-| 2.4 | Erstellen | eines eRP – Prü ffä lle fü r w eitere V erord nu | ngsszenarien 19 |
-| 2.5 | Bestätigung | der gematik zum Funktionsumfang E-Rezept | 19 |
+**2** **PRÜFFÄLLE**
+
+**10**  2.1 Voraussetzungen 11  2.2 Erstellen eines eRP
+
+11  2.3 Erstellen eines eRP  Konditionale Prüffälle
+
+17  2.4 Erstellen eines eRP  Prüffälle für weitere Verordnungsszenarien
+
+19  2.5 Bestätigung der gematik zum Funktionsumfang E-Rezept 19
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -47,7 +49,7 @@ INHALT
 
 **23**
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Erstellen eines eRP Erstellen eines eRP  Konditionale Prüffälle Erstellen eines eRP  Prüffälle für weitere Verordnungsszenarien Bestätigung der gematik zum Funktionsumfang E
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle
 
 ---
 
@@ -72,13 +74,18 @@ die Profilversion 1.4.3 PF01, PF02, PF05, PF07, PF08, zwischen freitextlicher PF
 
 # 1 ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung (AMV)  konkret die elektronische  Arzneimittelverordnung (e16A) in Form des elektronischen Rezepts (eRP)
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung (AMV)  konkret die elektronische  Arzneimittelverordnung (e16A) in Form des elektronischen Rezepts (eRP).
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
 Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
 
 **HINWEIS**
+
+- 1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang AMV-eRezept sowie den Prüfvorgang  AMV-Sichtprüfung initiieren. Die genaue Vorgehensweise wird im Prüfpaket Arzneimittelverordnung  KBV_ITA_AHEX_PRUEFPAKET_AMV] beschrieben.
+- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
+- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) von beiden Prüfvorgängen kann dem  Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden.
 
 Dieses Prüfverfahren ist nur durch Systeme durchführbar, welche eine Zertifizierung für das  Zertifizierungsthema „Verordnung von Arzneimitteln“ anstreben, siehe auch  KBV_ITA_AHEX_PRUEFPAKET_AMV
 
@@ -90,23 +97,11 @@ Rechtliche Grundlage bildet §73 Absatz 9 des Fünften Buches Sozialgesetzbuch (
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den Prüfvorgang AMV-eRezept sowie den Prüfvorgang  AMV-Sichtprüfung initiieren. Die genaue Vorgehensweise wird im Prüfpaket Arzneimittelverordnung  KBV_ITA_AHEX_PRUEFPAKET_AMV] beschrieben.
-- 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als zip-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
-- 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung mit ein) von beiden Prüfvorgängen kann dem  Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden
-
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung AMV bei der KBV oder  des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ---
-
-- Signierte eRP-Dateien
-- XML-Dateien der eRP-Dateien
-- PDF-Dateien des Patientenausdrucks des eRP
-- Screenshots ausgewählter Anforderungen
-- Videoaufzeichnungen ausgewählter Anforderungen
-- Bestätigungsschreiben der gematik für den Funktionsumfang E-Rezept
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
@@ -126,11 +121,11 @@ Solange fehlerhafte Dateien vorhanden sind oder die Lieferung als unvollständig
 
 Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechende  Fehlermeldungsbenachrichtigungen (sogenannte Log-Dateien im .html oder .xml -Format) erzeugt und  Ihnen zur Verfügung gestellt, jedoch werden nur vollständige und fehlerfrei eingereichte Lieferungen durch  das Referat Zertifizierung geprüft.
 
-Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind,  werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
+Erst wenn alle Prüfunterlagen vorliegen und von der Prüfautomatisierung als fehlerfrei erkannt wurden,  erfolgt die Prüfung durch das Referat Zertifizierung. Wird hierbei festgestellt, dass Dateien fehlerhaft sind,  werden Sie aufgefordert eine Korrekturlieferung hochzuladen.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-Alle erforderlichen Unterlagen stehen im Internet zum Download unter Testdaten_eRP] bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
+Alle erforderlichen Unterlagen stehen im Internet zum Download unter [Testdaten_eRP] bereit. In diesem  Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Dokumente
 
 ## 1.5 PRÜFUNTERLAGEN
 
@@ -138,7 +133,14 @@ Das Prüfpaket umfasst Prüffälle zum Erstellen und Signieren von eRP-Dateien.
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
-Die Teile der Lieferung, welche eine eRP-Datei darstellen, sind im entsprechenden Dateiformat zu  exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese  Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall eine XML-Datei  sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss
+- Signierte eRP-Dateien
+- XML-Dateien der eRP-Dateien
+- PDF-Dateien des Patientenausdrucks des eRP
+- Screenshots ausgewählter Anforderungen
+- Videoaufzeichnungen ausgewählter Anforderungen
+- Bestätigungsschreiben der gematik für den Funktionsumfang E-Rezept
+
+Die Teile der Lieferung, welche eine eRP-Datei darstellen, sind im entsprechenden Dateiformat zu  exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese  Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall eine XML-Datei  sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss.
 
 
 ---
@@ -146,7 +148,7 @@ Die Teile der Lieferung, welche eine eRP-Datei darstellen, sind im entsprechende
 - <PrüffallNr.>1.xml  z.B. PF01.xml
 - <PrüffallNr.>.p7s  z.B. PF01.p7s
 
-Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  die prüfende Person begutachtet. Die Screenshots können in einem gängigen Bildformat oder im PDF
+Die geforderten Screenshots, ersichtlich am Prüffall, müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden durch  die prüfende Person begutachtet. Die Screenshots können in einem gängigen Bildformat oder im PDF-
 
 Format übermittelt werden.
 
@@ -172,7 +174,7 @@ sind in einem zip-Archiv zu übermitteln. Das  Wenn bereits eine Prüfnummer ver
 ---
 
 \| ÄRZTIN 1 |  |
-| 1.6 1.6.1 | Für die Zertifizierung können die für die Prüfung speziell entwickelten  1.6.2 |
+| 1.6 1.6.1 | Für die Zertifizierung können die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  1.6.2 |
 |---|---|
 | **Bezeichnung** | **Inhalt/ Bedingung zum Inhalt** |
 | **Typ** | Arzt |
@@ -202,7 +204,7 @@ sind in einem zip-Archiv zu übermitteln. Das  Wenn bereits eine Prüfnummer ver
 | **Viktor Werner** | XML_34 |
 | **Ingrid Schimmelpfennig-Hammerschmidt** | XML_37 |
 
-Federmannssohn PRÜFVORGABEN Prüfstammdaten werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung bzw. der Dateiname mit „PRF” gekennzeichnet. Stammdaten für den „produktiv“ Betrieb verwendet werden. Daten des Versicherten und werden als XML -Dateien zur Verfügung gestellt. Die Archivdatei EF.VD   =  allgemeine Versicherungsdaten EF.PD  persönliche Versichertendaten EF.GVD =  geschützte Versichertendaten Auflistung der Prüffälle Produktivbetrieb unterbunden werden. Praxisdaten/ Arztstempel  Neben den speziellen Prüfstammdateien können auch die Prüfstammdateien verwendet ) in einem jeweils separaten
+Federmannssohn PRÜFVORGABEN Prüfstammdaten werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung bzw. der Dateiname mit „PRF” gekennzeichnet. Stammdaten für den „produktiv“ Betrieb verwendet werden. Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei EF.VD   =  allgemeine Versicherungsdaten EF.PD  persönliche Versichertendaten EF.GVD =  geschützte Versichertendaten Auflistung der Prüffälle Produktivbetrieb unterbunden werden. Praxisdaten/ Arztstempel  Neben den speziellen Prüfstammdateien können auch die ) in einem jeweils separaten
 
 ---
 
@@ -279,7 +281,7 @@ Der bei den Prüffällen zu PZN-Verordnungen angegebene Handelsname des Medikame
 
 ## 2.1 VORAUSSETZUNGEN
 
-Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünsc Szenarien prüfen zu können: Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu  prüfenden Systems Screenshots und Videoaufzeichnungen
+Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünschten  Szenarien prüfen zu können: Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu  prüfenden Systems Screenshots und Videoaufzeichnungen zu erstellen.
 
 **2.2** **ERSTELLEN EINES ERP**
 
@@ -290,28 +292,24 @@ Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prü
 | **Voraussetzung** | ›  › Patient „Karl |
 | **Aktion** |  |
 | **Einzureichende** | ›  ›  ›  › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
 **Tabelle 1: Prüffalltabelle**
 
-hten
-
-zu erstellen.
-
 **PZN-Verordnung für Patient „Karl-Friederich Schaumberg**
 
-Prüfunterlagen Karl- Friederich Schaumberg“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 11536100 (Entresto® 49 mg/51 mg 20 Filmtbl. N1) b) Anzahl der verordneten Packungen = 2 c) Kennzeichen Dosierung = true d) Strukturierte Dosieranweisung = 0-0-1-0 Stück 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender das eRP vor der Signierung visualisieren lassen kann. 3. Der Anwender visualisiert das eRP mit dem Stylesheet. 4. Bitte erzeugen Sie einen Screenshot, auf dem das visualisierte eRP vollständig zu erkennen ist. 5. Der Anwender signiert das eRP. 6. Der Anwender löscht das eRP. XML-Datei des eRP Signierte eRP-Datei Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung Screenshot mit der Anzeige des mittels Stylesheet visualisierten eRP -Dateien auf Basis der eRezept FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.
+Prüfunterlagen Karl- Friederich Schaumberg“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 11536100 (Entresto® 49 mg/51 mg 20 Filmtbl. N1) b) Anzahl der verordneten Packungen = 2 c) Kennzeichen Dosierung = true d) Strukturierte Dosieranweisung = 0-0-1-0 Stück 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender das eRP vor der Signierung visualisieren lassen kann. 3. Der Anwender visualisiert das eRP mit dem Stylesheet. 4. Bitte erzeugen Sie einen Screenshot, auf dem das visualisierte eRP vollständig zu erkennen ist. 5. Der Anwender signiert das eRP. 6. Der Anwender löscht das eRP. XML-Datei des eRP Signierte eRP-Datei Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung Screenshot mit der Anzeige des mittels Stylesheet visualisierten eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.
 
 ---
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | PF02 |
-| **Testziel** | Erneutes Erstellen und Signieren eines eRP (PZN |
+| **Testziel** | Erneutes Erstellen und Signieren eines eRP (PZN-Verordnung) für den Patienten |
 | **Voraussetzung** | ›  › Patient „Karl › |
 | **Aktion** |  |
 | **Einzureichende** | ›  › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
 **Tabelle 2: Prüffalltabelle**
 
@@ -322,13 +320,13 @@ Prüfunterlagen Karl- Friederich Schaumberg“ Ärztin 1 ist als ausstellende Ä
 | **Voraussetzung** | ›  › Patient „ |
 | **Aktion** | 1x tgl. dünn auf die betroffene Stelle auftragen |
 | **Einzureichende** | › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
 **Tabelle 3: Prüffalltabelle**
 
 **Erneute PZN-Verordnung für Patient „Karl Friederich Schaumberg“**
 
-Prüfunterlagen Karl- Friederich Schaumberg“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt PF01 wurde durchgeführt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 11126514 (Entresto® 49 mg/51 mg 56 Filmtbl. N2) b) Anzahl der verordneten Packungen = 1 c) Kennzeichen Dosierung = true d) Strukturierte Dosieranweisung = 0-0-1-0 Stück e) Abgabehinweis = bitte Dosierung deutlich mitgeben 2. Der Anwender signiert das eRP. 3. Der Anwender erzeugt einen Patientenausdruck XML-Datei des eRP PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  -Verordnung) für den Patienten  des eRP. -Dateien auf Basis der eRezept Prüfunterlagen Ärztin 1 ist als ausstellende Ärztin im System ausgewählt “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) Freitextverordnung = Triamcinolonacetonid 0,1% in Basiscreme DAC 75g b) Anzahl der verordneten Packungen = 1 c) Darreichungsform Freitext = Creme d) Kennzeichen Dosierung = false XML-Datei des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  -Dateien auf Basis der eRezept**Freitextverordnung für Patient „Viktor Müller**
+Prüfunterlagen Karl- Friederich Schaumberg“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt PF01 wurde durchgeführt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 11126514 (Entresto® 49 mg/51 mg 56 Filmtbl. N2) b) Anzahl der verordneten Packungen = 1 c) Kennzeichen Dosierung = true d) Strukturierte Dosieranweisung = 0-0-1-0 Stück e) Abgabehinweis = bitte Dosierung deutlich mitgeben 2. Der Anwender signiert das eRP. 3. Der Anwender erzeugt einen Patientenausdruck des eRP. XML-Datei des eRP PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  Prüfunterlagen Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) Freitextverordnung = Triamcinolonacetonid 0,1% in Basiscreme DAC 75g b) Anzahl der verordneten Packungen = 1 c) Darreichungsform Freitext = Creme d) Kennzeichen Dosierung = false XML-Datei des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  **Freitextverordnung für Patient „Viktor Müller**
 
 
 ---
@@ -340,7 +338,7 @@ Prüfunterlagen Karl- Friederich Schaumberg“ Ärztin 1 ist als ausstellende Ä
 | **Voraussetzung** | ›  › Patient „Viktor Müller“ ist im System ausgewählt › |
 | **Aktion** |  |
 | **Einzureichende** | › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept |
 
 **Tabelle 4: Prüffalltabelle**
 
@@ -351,13 +349,13 @@ Prüfunterlagen Karl- Friederich Schaumberg“ Ärztin 1 ist als ausstellende Ä
 | **Voraussetzung** | ›  › Patient „Viktor Müller“ ist im System ausgewählt › |
 | **Aktion** |  |
 | **Einzureichende** | › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept |
 
 **Tabelle 5: Prüffalltabelle**
 
 **PZN-Verordnung für Patient „Viktor Müller**
 
-Prüfunterlagen Verordnung) für den Patienten „Viktor Müller“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in PF03 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 00102999 (Twinrix® Erwachsene Eurim, Injektionssuspension b) Anzahl der verordneten Packungen = 1 c) Impfstoff = true d) Kennzeichen Dosierung = false XML-Datei des eRP FHIR-Profile in der Version 1.3.2 zu erstellen.  -Dateien auf Basis der eRezept Prüfunterlagen ) für den Patienten „ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Das Ausstellungsdatum ist dasselbe wie in PF03 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 03716124 (Janumet® 50 mg/850 mg 196 Filmtabletten N3) b) Anzahl der verordneten Packungen = 1 c) Kennzeichen Dosierung = true d) Freitextliche Dosieranweisung = 1 Tablette, 2x täglich, morgens und abends, zu der Mahlzeit e) Aut idem (Arzneimittel nicht austauschbar) = false XML-Datei des eRP XML-Dateien auf Basis der eRezept FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  **PZN-Verordnung für Patient „Viktor Müller**
+Prüfunterlagen Verordnung) für den Patienten „Viktor Müller“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Das Ausstellungsdatum ist dasselbe wie in PF03 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 00102999 (Twinrix® Erwachsene Eurim, Injektionssuspension) b) Anzahl der verordneten Packungen = 1 c) Impfstoff = true d) Kennzeichen Dosierung = false XML-Datei des eRP FHIR-Profile in der Version 1.3.2 zu erstellen.  Prüfunterlagen ) für den Patienten „ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Das Ausstellungsdatum ist dasselbe wie in PF03 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 03716124 (Janumet® 50 mg/850 mg 196 Filmtabletten N3) b) Anzahl der verordneten Packungen = 1 c) Kennzeichen Dosierung = true d) Freitextliche Dosieranweisung = 1 Tablette, 2x täglich, morgens und abends, zu der Mahlzeit e) Aut idem (Arzneimittel nicht austauschbar) = false XML-Datei des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  **PZN-Verordnung für Patient „Viktor Müller**
 
 
 ---
@@ -379,7 +377,7 @@ Prüfunterlagen Verordnung) für den Patienten „Viktor Müller“ Ärztin 1 is
 | **Voraussetzung** | ›  ›  › |
 | **Aktion** |  |
 | **Einzureichende** | › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
 **Tabelle 7: Prüffalltabelle**
 
@@ -391,7 +389,7 @@ Prüfunterlagen Verordnung) für den Patienten „Viktor Müller“ Ärztin 1 is
 
 **PZN-Verordnung für Patientin Brigitte Althaus**
 
-Prüfunterlagen Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Viktor Müller “ ist im System ausgewählt PF02, PF03, PF04 und PF05 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eRP setzen kann. 2. Der Anwender signiert die eRP aus den Prüffällen PF02 PF03, PF04 und PF05 mittels Stapelsignatur. 3. Der Anwender erzeugt einen Patientenausdruck der drei eRP. Screenshot mit Option zur Stapelsignatur PDF-Datei mit Patientenausdruck der drei eRP Prüfunterlagen ) für die Patientin „ Arzt als Vertreter Arzt 2 ist als ausstellender Arzt im System ausgewählt Ärztin 1 ist als die zu vertretende Ärztin im System ausgewählt Patientin Brigitte Althaus “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 01016144 (Ibuprofen AbZ 800mg 50 Filmtbl. N2) b) Anzahl der verordneten Packungen = 1 c) Kennzeichen Dosierung = true false d) Strukturierte Dosierung: alle 2 Tage: 08:00 Uhr Stück e) Befreiung von Notdienstgebühr = true f) Unfall = ja g) Unfalltag entspricht dem Ausstellungsdatum der 2. Der Anwender signiert das eRP. Brigitte Althaus “ durch einen  je 1 Stück; 20:00 Uhr  je 2 XML-Datei des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  -Dateien auf Basis der eRezept
+Prüfunterlagen Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Viktor Müller “ ist im System ausgewählt PF02, PF03, PF04 und PF05 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eRP setzen kann. 2. Der Anwender signiert die eRP aus den Prüffällen PF02 PF03, PF04 und PF05 mittels Stapelsignatur. 3. Der Anwender erzeugt einen Patientenausdruck der drei eRP. Screenshot mit Option zur Stapelsignatur PDF-Datei mit Patientenausdruck der drei eRP Prüfunterlagen ) für die Patientin „ Brigitte Althaus “ durch einen Arzt als Vertreter Arzt 2 ist als ausstellender Arzt im System ausgewählt Ärztin 1 ist als die zu vertretende Ärztin im System ausgewählt Patientin Brigitte Althaus “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 01016144 (Ibuprofen AbZ 800mg 50 Filmtbl. N2) b) Anzahl der verordneten Packungen = 1 c) Kennzeichen Dosierung = true false d) Strukturierte Dosierung: alle 2 Tage: 08:00 Uhr  je 1 Stück; 20:00 Uhr  je 2 Stück e) Befreiung von Notdienstgebühr = true f) Unfall = ja g) Unfalltag entspricht dem Ausstellungsdatum der Verordnung 2. Der Anwender signiert das eRP. XML-Datei des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.
 
 ---
 
@@ -402,9 +400,9 @@ Prüfunterlagen Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Vi
 | **Voraussetzung** | ›  › Patient „Viktor Werner“ ist im System ausgewählt |
 | **Aktion** |  |
 | **Einzureichende** | ›  ›  1.  a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  c)  d) e) )   b)  c)  d) e)  2.  a)  b)  c)  d) **3.**  1.  a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  c)  d) e)  2.  a)  b)  c)  d) **3.**  a)  b)  c)  d) **4.**  a)  b)  c) **5.** **6.** **Einzureichende **   a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)    a)  PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)    d) **4.**  a)  b)  c) **5.** PZN = 07097020 (Metoprololsuccinat AL 47,5mg 100 Retardtabl. N3)   b)  c)  d) e)  2.  a)  b)  c)  d)   **Prüffall-ID ** PF08 **Testziel ** Erstellen eines eRP (PZN-**Voraussetzung ** ›  › Patient „Viktor Werner“ ist im System ausgewählt |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
-Mehrfachverordnung) für den Patienten „Viktor Werner“ Ärztin 1 ist als ausstellende Ärztin im System Der Anwender erstellt eine Mehrfachverordnung  bestehend aus drei eRP mit den folgenden Daten: Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = montags 09:00 Uhr, 21:00 Uhr  je 1 Stück; mittwochs 09:00 Uhr, 21:00 Uhr  je 1 Stück; freitags 09:00 Uhr, 21:00 Uhr je 1 Stück 1-0-0-0 SER = true Die erste Teilverordnung enthält folgende Daten: Zähler Mehrfachverordnung = 1 Nenner Mehrfachverordnung = 3 Beginn Einlösefrist der Verordnung entspricht Ausstellungsdatum Ende Einlösefrist der Verordnung  liegt nach dem Beginn der Einlösefrist der ersten Teilverordnung, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Die zweite Teilverordnung enthält folgende Daten: Zähler Mehrfachverordnung = 2 Nenner Mehrfachverordnung = 3 Beginn Einlösefrist der Verordnung liegt nach dem Ausstellungsdatum, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Ende Einlösefrist der Verordnung liegt nach dem Beginn der Einlösefrist der zweiten Teilverordnung, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Die dritte Teilverordnung enthält folgende Daten: Zähler Mehrfachverordnung = 3 Nenner Mehrfachverordnung = 3 Beginn Einlösefrist der Verordnung liegt nach dem Ausstellungsdatum, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Der Anwender signiert die Mehrfachverordnung. Der Anwender erzeugt einen Patientenausdruck der Mehrfachverordnung XML-Dateien der drei eRP Prüfunterlagen PDF-Datei mit Patientenausdruck der Mehrfachverordnung -Dateien auf Basis der eRezept FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  Tabelle 8: Prüffalltabelle Mehrfachverordnung für Patient „Viktor Werner“
+Mehrfachverordnung) für den Patienten „Viktor Werner“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Der Anwender erstellt eine Mehrfachverordnung bestehend aus drei eRP mit den folgenden Daten: Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = montags 09:00 Uhr, 21:00 Uhr  je 1 Stück; mittwochs 09:00 Uhr, 21:00 Uhr  je 1 Stück; freitags 09:00 Uhr, 21:00 Uhr je 1 Stück 1-0-0-0 SER = true Die erste Teilverordnung enthält folgende Daten: Zähler Mehrfachverordnung = 1 Nenner Mehrfachverordnung = 3 Beginn Einlösefrist der Verordnung entspricht Ausstellungsdatum Ende Einlösefrist der Verordnung liegt nach dem Beginn der Einlösefrist der ersten Teilverordnung, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Die zweite Teilverordnung enthält folgende Daten: Zähler Mehrfachverordnung = 2 Nenner Mehrfachverordnung = 3 Beginn Einlösefrist der Verordnung liegt nach dem Ausstellungsdatum, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Ende Einlösefrist der Verordnung liegt nach dem Beginn der Einlösefrist der zweiten Teilverordnung, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Die dritte Teilverordnung enthält folgende Daten: Zähler Mehrfachverordnung = 3 Nenner Mehrfachverordnung = 3 Beginn Einlösefrist der Verordnung liegt nach dem Ausstellungsdatum, jedoch maximal innerhalb eines Jahres (365 Tage) nach dem Ausstellungsdatum Der Anwender signiert die Mehrfachverordnung. Der Anwender erzeugt einen Patientenausdruck der Mehrfachverordnung XML-Dateien der drei eRP Prüfunterlagen PDF-Datei mit Patientenausdruck der Mehrfachverordnung FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  Tabelle 8: Prüffalltabelle Mehrfachverordnung für Patient „Viktor Werner“
 
 ---
 
@@ -414,38 +412,38 @@ Mehrfachverordnung) für den Patienten „Viktor Werner“ Ärztin 1 ist als aus
 | **Testziel** | Erstellen eines eRP (PZN-Verordnung) für die Patientin |
 | **Voraussetzung** | ›  › |
 | **Aktion** |  |
-|  | 1.  a)  b)  c)  d) e)  f) **2.**    d) e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 9: Prüffalltabelle **   1.  a)  b)  c)  d) e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 9: Prüffalltabelle **     a)  b)  c)  d)   a)  b)  c)  d) b)  c)  d) e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 9: Prüffalltabelle **  **Prüffall-ID ** PF09 **Testziel ** Erstellen eines eRP (PZN-Verordnung) für die Patientin **Voraussetzung ** ›  › |
+|  | 1.  a)  b)  c)  d) e)  f) **2.**    d) e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-**Tabelle 9: Prüffalltabelle **   1.  a)  b)  c)  d) e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-**Tabelle 9: Prüffalltabelle **     a)  b)  c)  d)   a)  b)  c)  d) b)  c)  d) e)  f) **2.** **Einzureichende ** › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-**Tabelle 9: Prüffalltabelle **  **Prüffall-ID ** PF09 **Testziel ** Erstellen eines eRP (PZN-Verordnung) für die Patientin **Voraussetzung ** ›  › |
 |  |  |
 
-Prüfunterlagen Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn  im Rahmen der ASV Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn “ ist im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 01672693 (CAPVAL® Saft 25 mg/5 g, 100ml Suspension zum Einnehmen N1) Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = 4 x täglich: je 5 ml 3x täglich 5ml Zuzahlungsstatus = von Zuzahlungspflicht befreit Behandlung findet im Rahmen der ambulanten spezialfachärztlichen Versorgung (ASV) statt: ASV-Teamnummer = 001234566 Der Anwender signiert das eRP. XML-Datei des eRP -Dateien auf Basis der eRezept FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.   PZN-Verordnung für Patientin Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn  im Rahmen der ASV |  |  |
+Prüfunterlagen Hammerschmidt Federmannssohn  im Rahmen der ASV Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 01672693 (CAPVAL® Saft 25 mg/5 g, 100ml Suspension zum Einnehmen N1) Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = 4 x täglich: je 5 ml 3x täglich 5ml Zuzahlungsstatus = von Zuzahlungspflicht befreit Behandlung findet im Rahmen der ambulanten spezialfachärztlichen Versorgung (ASV) statt: ASV-Teamnummer = 001234566 Der Anwender signiert das eRP. XML-Datei des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.   PZN-Verordnung für Patientin Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Ingrid Schimmelpfennig- “ ist im  im Rahmen der ASV |  |  |
 |---|---|
 | **Prüffall-ID** | PF09 |
 | **Testziel** | Erstellen eines eRP (PZN-Verordnung) für die Patientin |
 | **Voraussetzung** | ›  › |
 | **Aktion** |  |
 | **Einzureichende** | › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
 
 ---
 
-| 2.3 Bedingung für den Prüffall PF10: | Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Wirkstoffverordnung  EXT_ITA_VGEX_Anforderungskatalog_AV |
+| 2.3 Bedingung für den Prüffall PF10: | Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Wirkstoffverordnung  EXT_ITA_VGEX_Anforderungskatalog_AVWG |
 |---|---|
 | im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV | ] anzugeben. |
 |  |  |
 |  | **Prüffall-ID ** PF10 |
 | **Testziel** |  |
-|  | Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d)  1.  a)  b)  c)  d)  e)  f)  g) h) **2.** **3.**  Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d)  e)  f)  g) h) **2.** **3.** **Einzureichende ** ›  › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  EXT_ITA_VGEX_Anforderungskatalog_AV im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.   **Voraussetzung ** ›  › **Aktion ** 1.  a) **Voraussetzung ** ›  › **Aktion ** 1.  a) **Hinweis ** Für die Zertifizierung sind die einzureichenden XML**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  EXT_ITA_VGEX_Anforderungskatalog_AV im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.    › **Aktion ** 1.  a)  b)  c)  d)  e)  f)  g) h) **2.**  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.     **Prüffall-ID ** PF10 |
+|  | Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d)  1.  a)  b)  c)  d)  e)  f)  g) h) **2.** **3.**  Erstellen eines eRP (Wirkstoffverordnung**Voraussetzung ** ›  › **Aktion ** 1.  a)  b)  c)  d)  e)  f)  g) h) **2.** **3.** **Einzureichende ** ›  › **Hinweis ** Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  EXT_ITA_VGEX_Anforderungskatalog_AVWG im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.   **Voraussetzung ** ›  › **Aktion ** 1.  a) **Voraussetzung ** ›  › **Aktion ** 1.  a) **Hinweis ** Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept-**Tabelle 10: Prüffalltabelle ** Bedingung für den Prüffall PF11:  Der nachfolgende Prüffall ist nur durchzuführen, sofern das zu prüfende Systeme eine Rezepturverordnung  EXT_ITA_VGEX_Anforderungskatalog_AVWG im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.    › **Aktion ** 1.  a)  b)  c)  d)  e)  f)  g) h) **2.**  im Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_AMV] anzugeben.     **Prüffall-ID ** PF10 |
 |  |  |
 
-Der Anwender erstellt eine Verordnung mit den folgenden Daten: Wirkstoffnummer = 5682 oder 05682 Darreichungsform Freitext = Tabletten Packungsgröße nach abgeteilter Menge = 20 Packungsgröße Einheit = Stück Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = 1-0-1-0 Stück Zuzahlungsstatus = von Zuzahlungspflicht befreit Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck  des eRP. ERSTELLEN EINES ERP  KONDITIONALE PRÜFFÄLLE gemäß den Vorgaben in dem Dokument WG ] unterstützt. Dies ist ) für die Patientin „ Ingrid Schimmelpfennig Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn “ ist im System ausgewählt Prüfunterlagen XML-Datei des eRP PDF-Datei mit Patientenausdruck des eRP -Dateien auf Basis der eRezept FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn gemäß den Vorgaben in dem Dokument WG ] unterstützt. Dies ist |  |  |
+ERSTELLEN EINES ERP gemäß den Vorgaben in dem Dokument [ Prüfunterlagen gemäß den Vorgaben in dem Dokument [  KONDITIONALE PRÜFFÄLLE ] unterstützt. Dies ist ) für die Patientin „ Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn “ ist im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Wirkstoffnummer = 5682 oder 05682 Darreichungsform Freitext = Tabletten Packungsgröße nach abgeteilter Menge = 20 Packungsgröße Einheit = Stück Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = 1-0-1-0 Stück Zuzahlungsstatus = von Zuzahlungspflicht befreit Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck des eRP. XML-Datei des eRP PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn ] unterstützt. Dies ist |  |  |
 |---|---|
 | **Prüffall-ID** | PF10 |
 | **Testziel** | Erstellen eines eRP (Wirkstoffverordnung |
 | **Voraussetzung** | ›  › |
 | **Aktion** |  |
 | **Einzureichende** | ›  › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
 
 ---
@@ -457,16 +455,16 @@ Der Anwender erstellt eine Verordnung mit den folgenden Daten: Wirkstoffnummer =
 | **Voraussetzung** | ›  › |
 | **Aktion** |  |
 | **6.** | **Einzureichende ** ›  ›  1.  a)  b)  c)  d)  e)  f)  g) h)   d)  e)  f)  g) h)  i)  j) **2.**  a)  b)  c)  1.  a)  b)  c)  d)  e)  f)  g) h)  i)  j) **2.**  a)  b)  c)  d) **3.**  a)  b)  c)  d) **4.**  a)  b) **5.** **6.**    a)  b)  c)  d)  e)   a)  b)  c)  d)  e)   b)  c)  d) **4.**  a)  b) b)  c)  d)  e)  f)  g) h)  i)  j) **2.**  a)  b)   **Prüffall-ID ** PF11 **Testziel ** Erstellen eines eRP (Rezepturverordnung**Voraussetzung ** ›  › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
-) für die Patientin „ Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig -Hammerschmidt Federmannssohn “ ist im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Rezepturname = Viskose Aluminiumchlorid-Hexahydrat-Lösung 20 % (NRF 11.132.) Gesamtmenge der Rezeptur = 100 Einheit der Gesamtmenge = g Herstellungsanweisung = M.D.S. Verpackung = Deo-Roller Darreichungsform Freitext = Gel Freitextliche Gebrauchsanweisung = Jeden 2. Tag vorm Schlafen dünn auf Achselhöhle auftragen Zuzahlungsstatus = von Zuzahlungspflicht befreit Anzahl der verordneten Packungen = 1 Folgende drei Bestandteile: Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Aluminiumchlorid-Hexahydrat PZN = 10206346 Menge = 50 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Hydroxyethylcellulose 250 Darreichungsform Freitext = Pulver Menge = 2 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Gereinigtes Wasser Menge und Einheit Freitext = Ad 100 g Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck  des eRP. XML-Datei des eRP Prüfunterlagen PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  Tabelle 11: Prüffalltabelle für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn|  |  |
+) für die Patientin „ Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Patientin Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn “ ist im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Rezepturname = Viskose Aluminiumchlorid-Hexahydrat-Lösung 20 % (NRF 11.132.) Gesamtmenge der Rezeptur = 100 Einheit der Gesamtmenge = g Herstellungsanweisung = M.D.S. Verpackung = Deo-Roller Darreichungsform Freitext = Gel Freitextliche Gebrauchsanweisung = Jeden 2. Tag vorm Schlafen dünn auf Achselhöhle auftragen Zuzahlungsstatus = von Zuzahlungspflicht befreit Anzahl der verordneten Packungen = 1 Folgende drei Bestandteile: Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Aluminiumchlorid-Hexahydrat PZN = 10206346 Menge = 50 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Hydroxyethylcellulose 250 Darreichungsform Freitext = Pulver Menge = 2 Einheit = g Die Verordnung enthält ein Bestandteil mit folgenden Daten: Name = Gereinigtes Wasser Menge und Einheit Freitext = Ad 100 g Der Anwender signiert das eRP. Der Anwender erzeugt einen Patientenausdruck des eRP. XML-Datei des eRP Prüfunterlagen PDF-Datei mit Patientenausdruck des eRP FHIR-Profile in der Version 1.3.2 1.4.3 zu erstellen.  Tabelle 11: Prüffalltabelle für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn|  |  |
 |---|---|
 | **Prüffall-ID** | PF11 |
 | **Testziel** | Erstellen eines eRP (Rezepturverordnung |
 | **Voraussetzung** | ›  › |
 | **Aktion** |  |
 | **Einzureichende** | ›  › |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eRezept- |
 
 
 ---
@@ -477,10 +475,10 @@ Der Anwender erstellt eine Verordnung mit den folgenden Daten: Wirkstoffnummer =
 | PF12 | **Testziel** |
 | Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist | **Voraussetzung ** › |
 | › Patient „Viktor Müller“ ist im System ausgewählt |  |
-|  | **Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5** b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung ** Bestehen des Bestätigungsverfahren der gematik**Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung ** Bestehen des Bestätigungsverfahren der gematik gemLeit_Best_Konf_eRP] **Einzureichende ** ›**Tabelle 13: Prüffalltabelle **  **1.** **2.**  a)  b) **3.** **1.** **2.**  a)  b) **3.** **Tabelle 13: Prüffalltabelle **     a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept   **Prüffall-ID ** PF12 **Testziel ** Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist **Voraussetzung ** › |
+|  | **Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5** b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung ** Bestehen des Bestätigungsverfahren der gematik [**Aktion  1.** **2.**  a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept **Voraussetzung ** Bestehen des Bestätigungsverfahren der gematik [gemLeit_Best_Konf_eRP] **Einzureichende ** ›**Tabelle 13: Prüffalltabelle **  **1.** **2.**  a)  b) **3.** **1.** **2.**  a)  b) **3.** **Tabelle 13: Prüffalltabelle **     a)  b) **3.** **Einzureichende ** › **Tabelle 12: Prüffalltabelle **  **2.5**    **Prüffall-ID ** PF13 **Testziel ** Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept   **Prüffall-ID ** PF12 **Testziel ** Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist **Voraussetzung ** › |
 |  |  |
 
-ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG E-REZEPT  Prüfunterlagen  PRÜFFÄLLE FÜR WEITERE VERORDNUNGS Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Bitte starten Sie die Videoaufzeichnung Ihres Bildschirms Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 06973620 (Ritalin® Adult 30 mg 56 Hartkapseln mit veränderter Wirkstofffreisetzung N2)  Kennzeichen Dosierung = false Bitte beenden Sie die Videoaufzeichnung Ihres Bildschirms Videoaufzeichnung des Bildschirms  PZN-Verordnung für Patient „  Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zum Funktionsumfang E-Rezept  Einreichung Bestätigungsschreiben der gematik SZENARIEN |  |  |
+ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG E-REZEPT  Prüfunterlagen  PRÜFFÄLLE FÜR WEITERE VERORDNUNGSSZENARIEN Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Bitte starten Sie die Videoaufzeichnung Ihres Bildschirms Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 06973620 (Ritalin® Adult 30 mg 56 Hartkapseln mit veränderter Wirkstofffreisetzung N2)  Kennzeichen Dosierung = false Bitte beenden Sie die Videoaufzeichnung Ihres Bildschirms Videoaufzeichnung des Bildschirms   PZN-Verordnung für Patient „  Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zum Funktionsumfang E-Rezept  Einreichung Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept |  |  |
 |---|---|
 | **Prüffall-ID** | PF12 |
 | **Testziel** | Nachweis, dass die Erstellung eines BtM-Rezept als eRP nicht möglich ist |
@@ -492,7 +490,7 @@ ERSTELLEN EINES ERP Prüfunterlagen BESTÄTIGUNG DER GEMATIK ZUM FUNKTIONSUMFANG
 |---|---|
 | **Prüffall-ID** | PF13 |
 | **Testziel** | Bestätigungsschreiben der gematik zum Funktionsumfang E-Rezept |
-| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik gemLeit_Best_Konf_eRP] |
+| **Voraussetzung** | Bestehen des Bestätigungsverfahren der gematik [gemLeit_Best_Konf_eRP] |
 | **Einzureichende** | › |
 
 
@@ -551,17 +549,17 @@ TESTFÄLLE EREZEPT Prüfunterlagen Prüfunterlagen Ernesto Müller Ärztin 1 ist
 | TF03 | **Testziel** |
 | Erstellen eines eRP (PZN-Verordnung, T- | **Voraussetzung** |
 | › |  |
-| Erstellen eines eRP (Freitextverordnung, T- | **Voraussetzung ** ›  › Patientin „Ingrid **Aktion  1.** a) b) c) d) e) a) b) c) d) e) f) g)**2. 3. 4. 5. Einzureichende ** › Patientin „Ingrid **Aktion  1.** a) b) c) d) e) f) g)**2. 3. 4. 5. Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle **        **Prüffall-ID ** TF04 **Testziel ** Erstellen eines eRP (Freitextverordnung, T- › Patientin „Ingrid **Aktion  1.** a) b) › Patientin „Ingrid **Aktion  1.** a) b) Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle **        **Prüffall-ID  1.** a) b) c) d) e) f) g)**2. 3. 4. 5. 1.** a) b) c) d) e) f)**Prüffall-ID ** TF03 **Testziel ** Erstellen eines eRP (PZN-Verordnung, T-**Voraussetzung** |
+| Erstellen eines eRP (Freitextverordnung, T- | **Voraussetzung ** ›  › Patientin „Ingrid **Aktion  1.** a) b) c) d) e) a) b) c) d) e) f) g)**2. 3. 4. 5. Einzureichende ** › Patientin „Ingrid **Aktion  1.** a) b) c) d) e) f) g)**2. 3. 4. 5. Einzureichende ** › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle **        **Prüffall-ID ** TF04 **Testziel ** Erstellen eines eRP (Freitextverordnung, T- › Patientin „Ingrid **Aktion  1.** a) b) › Patientin „Ingrid **Aktion  1.** a) b) Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle **        **Prüffall-ID  1.** a) b) c) d) e) f) g)**2. 3. 4. 5. 1.** a) b) c) d) e) f)**Prüffall-ID ** TF03 **Testziel ** Erstellen eines eRP (PZN-Verordnung, T-**Voraussetzung** |
 | › Patient „Viktor Müller“ ist im System ausgewählt |  |
 
-Prüfunterlagen Rezept) für die Patientin „Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Schimmelpfennig- Hammerschmidt Federmannssohn“ ist im Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 16880629 (THALIDOMID BMS® 50 mg 28 Hartkapseln N1 Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = 0-0-2-0 Stück Off-Label = true Gebärfähige Frau = true Reichdauer = 2 Wochen Der Anwender bestätigt die Einhaltung der Sicherheitsmaßnahmen. Der Anwender bestätigt die Aushändigung der Informationsmaterialien. Der Anwender bestätigt die Erklärung der Sachkenntnis. Der Anwender signiert das eRP. XML-Datei des eRP -Dateien auf Basis der eRezept-FHIR-Profile in der Version 1.4.3 zu erstellen.   PZN-Verordnung T-Rezept für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Rezept) für den Patient „Viktor Müller“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Freitextverordnung = Pomalidomid 1mg 21 Stück Anzahl der verordneten Packungen = Darreichungsform Freitext = Hartkapseln Kennzeichen Dosierung = false Off-Label = false Gebährfähige Frau = false |  |  |
+Prüfunterlagen Rezept) für die Patientin „Ingrid Schimmelpfennig- Hammerschmidt Federmannssohn“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt  Schimmelpfennig- Hammerschmidt Federmannssohn“ ist im Der Anwender erstellt eine Verordnung mit den folgenden Daten: PZN = 16880629 (THALIDOMID BMS® 50 mg 28 Hartkapseln N1) Anzahl der verordneten Packungen = 1 Kennzeichen Dosierung = true Strukturierte Dosieranweisung = 0-0-2-0 Stück Off-Label = true Gebärfähige Frau = true Reichdauer = 2 Wochen Der Anwender bestätigt die Einhaltung der Sicherheitsmaßnahmen. Der Anwender bestätigt die Aushändigung der Informationsmaterialien. Der Anwender bestätigt die Erklärung der Sachkenntnis. Der Anwender signiert das eRP. XML-Datei des eRP eRezept-FHIR-Profile in der Version 1.4.3 zu erstellen.   PZN-Verordnung T-Rezept für Patientin „ Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn Rezept) für den Patient „Viktor Müller“ Ärztin 1 ist als ausstellende Ärztin im System ausgewählt Der Anwender erstellt eine Verordnung mit den folgenden Daten: Freitextverordnung = Pomalidomid 1mg 21 Stück Anzahl der verordneten Packungen = 4 Darreichungsform Freitext = Hartkapseln Kennzeichen Dosierung = false Off-Label = false Gebährfähige Frau = false |  |  |
 |---|---|
 | **Prüffall-ID** | TF03 |
 | **Testziel** | Erstellen eines eRP (PZN-Verordnung, T- |
 | **Voraussetzung** | ›  › Patientin „Ingrid |
 | **Aktion** |  |
 | **Einzureichende** | › |
-| **Hinweis** | Für die Testdatenvalidierung sind die einzureichenden XML |
+| **Hinweis** | Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der |
 
 \|  |  |
 |  |  |
@@ -583,10 +581,10 @@ Prüfunterlagen Rezept) für die Patientin „Ingrid Schimmelpfennig- Hammerschm
 | **2.** | **3.** |
 | **4.** | **5.** |
 | **Einzureichende** |  |
-|  | › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle **   4    **Referenz  Tabelle 16: Prüffalltabelle **   4    **Referenz ** Dokument KBV_ITA_RLEX_Zert  Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita-    KBV_ITA_VGEX_Technische_Anlage_eRP Technische Anlage zum eRP  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Digitale Vordrucke https://update.kbv.de/ita-    › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle **   4    **Referenz ** Dokument KBV_ITA_RLEX_Zert  Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita-    KBV_ITA_VGEX_Technische_Anlage_eRP Technische Anlage zum eRP  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Digitale Vordrucke https://update.kbv.de/ita-    KBV_ITA_FMEX_AAZ_AMV  Antrag auf Zertifizierung Verordnung von  https://update.kbv.de/ita-   KBV_ITA_AHEX_PRUEFPAKET_AMV  Prüfpaket Arzneimittelverordnung  https://update.kbv.de/ita-   › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle **   4 › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle **   4 AMV  Prüfpaket Arzneimittelverordnung  https://update.kbv.de/ita-   Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle **   4    **Referenz ** Dokument KBV_ITA_RLEX_Zert  Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita-    KBV_ITA_VGEX_Technische_Anlage_eRP Technische Anlage zum eRP  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Digitale Vordrucke g)**2. 3. 4. 5.** |
+|  | › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle **   4    **Referenz  Tabelle 16: Prüffalltabelle **   4    **Referenz ** Dokument KBV_ITA_RLEX_Zert  Zertifizierungsrichtlinie der KBV  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technische_Anlage_eRP Technische Anlage zum eRP  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Digitale Vordrucke  https://update.kbv.de/ita-    › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle **   4    **Referenz ** Dokument KBV_ITA_RLEX_Zert  Zertifizierungsrichtlinie der KBV  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technische_Anlage_eRP Technische Anlage zum eRP  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Digitale Vordrucke  https://update.kbv.de/ita-    KBV_ITA_FMEX_AAZ_AMV  Antrag auf Zertifizierung Verordnung von  https://update.kbv.de/ita-   KBV_ITA_AHEX_PRUEFPAKET_AMV  Prüfpaket Arzneimittelverordnung  https://update.kbv.de/ita-   › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle **   4 › **Hinweis ** Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle **   4 AMV  Prüfpaket Arzneimittelverordnung  https://update.kbv.de/ita-   Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle **   4    **Referenz ** Dokument KBV_ITA_RLEX_Zert  Zertifizierungsrichtlinie der KBV  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technische_Anlage_eRP Technische Anlage zum eRP  https://update.kbv.de/ita-    KBV_ITA_VGEX_Technisches_Handbuch_DiMus Technisches Handbuch Digitale Vordrucke  g)**2. 3. 4. 5.** |
 |  |  |
 
-Reichdauer = 12 Wochen Der Anwender bestätigt die Einhaltung der Sicherheitsmaßnahmen. Der Anwender bestätigt die Aushändigung der Informationsmaterialien. Der Anwender bestätigt die Erklärung der Sachkenntnis. Der Anwender signiert das eRP. XML-Datei des eRP Prüfunterlagen eRezept-FHIR-Profile in der Version 1.4.3 zu erstellen.   Freitextverordnung T- Rezept für Patient „Viktor Müller“ REFERENZIERTE DOKUMENTE -Dateien auf Basis der update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/ERP/KBV_ITA_VGEX _Technische_Anlage_ERP.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf Arzneimitteln (AMV) update/Verordnungen/Arzneimittel/KBV_IT A_FMEX_AAZ_AMV.pdf update/Verordnungen/Arzneimittel/KBV_IT A_AHEX_Pruefpaket_AMV.pdf|  |  |
+Reichdauer = 12 Wochen Der Anwender bestätigt die Einhaltung der Sicherheitsmaßnahmen. Der Anwender bestätigt die Aushändigung der Informationsmaterialien. Der Anwender bestätigt die Erklärung der Sachkenntnis. Der Anwender signiert das eRP. XML-Datei des eRP Prüfunterlagen eRezept-FHIR-Profile in der Version 1.4.3 zu erstellen.   Freitextverordnung T- Rezept für Patient „Viktor Müller“ REFERENZIERTE DOKUMENTE update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/ERP/KBV_ITA_VGEX _Technische_Anlage_ERP.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf Arzneimitteln (AMV) update/Verordnungen/Arzneimittel/KBV_IT A_FMEX_AAZ_AMV.pdf update/Verordnungen/Arzneimittel/KBV_IT A_AHEX_Pruefpaket_AMV.pdf|  |  |
 |  |  |
 |---|---|
 |  |  |
@@ -595,22 +593,22 @@ Reichdauer = 12 Wochen Der Anwender bestätigt die Einhaltung der Sicherheitsma�
 |  |  |
 |  |  |
 | **Einzureichende** | › |
-| **Hinweis** | Für die Testdatenvalidierung sind die einzureichenden XML |
+| **Hinweis** | Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der |
 
 \|  |  |
 |  |  |
 |---|---|
 | **Referenz** | Dokument |
-| KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV https://update.kbv.de/ita- |
+| KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV  https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technische_Anlage_eRP | Technische Anlage zum eRP  https://update.kbv.de/ita- |
-| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke https://update.kbv.de/ita- |
+| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke  https://update.kbv.de/ita- |
 | KBV_ITA_FMEX_AAZ_AMV | Antrag auf Zertifizierung Verordnung von  https://update.kbv.de/ita- |
 | KBV_ITA_AHEX_PRUEFPAKET_AMV | Prüfpaket Arzneimittelverordnung  https://update.kbv.de/ita- |
 |  | g)**2.** |
 |  | **3. 4.** |
 |  | **5. Einzureichende** |
 |  | › **Hinweis** |
-|  | Für die Testdatenvalidierung sind die einzureichenden XML**Tabelle 16: Prüffalltabelle** |
+|  | Für die Testdatenvalidierung sind die einzureichenden XML-Dateien auf Basis der **Tabelle 16: Prüffalltabelle** |
 |  | 4 |
 
 
@@ -621,15 +619,15 @@ Reichdauer = 12 Wochen Der Anwender bestätigt die Einhaltung der Sicherheitsma�
 |---|---|
 |  |  |
 |  | **Kontakt:** |
-| Dezernat Digitalisierung und IT | IT in der Arztpraxis  Kassenärztliche Bundesvereinigung www.kbv.de |
+| Dezernat Digitalisierung und IT | IT in der Arztpraxis  Kassenärztliche Bundesvereinigung  www.kbv.de |
 |  |  |
 |  |  |
 |  |  |
-| EXT_ITA_VGEX_Anforderungskatalog_AV | Anforderungskatalog nach § 73 SGB V für  https://update.kbv.de/ita- |
-| gemLeit_Best_Konf_eRP | Leitfaden Bestätigung der Konformität des  https://fachportal.gematik.de/hersteller |
-| VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version https://update.kbv.de/ita- |
+| EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 SGB V für  https://update.kbv.de/ita- |
+| gemLeit_Best_Konf_eRP | Leitfaden Bestätigung der Konformität des  https://fachportal.gematik.de/hersteller- |
+| VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version  https://update.kbv.de/ita- |
 | Testdaten_eRP | Testdaten eRP in der aktuellen Version  https://update.kbv.de/ita- |
 | gemSpec_DM_eRp | Spezifikation Datenmodell E-Rezept  https://gemspec.gematik.de/docs/gemSpec |
 | gemTest_Karten | Informationen zu Testkarten  https://fachportal.gematik.de/toolkit/testk |
 
-WG Tel.: 030 4005-2077, pruefstelle@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de, Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_IT A_VGEX_Anforderungskatalog_AVWG.pdf Primärsystems zum Funktionsumfang E- anbieter/primaersysteme/best-konf-ps-ti update/Abrechnung/Pruefverfahren/ update/DigitaleMuster/ERP/ /gemSpec_DM_eRp/latest/
+Tel.: 030 4005-2077, pruefstelle@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de, Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_IT A_VGEX_Anforderungskatalog_AVWG.pdf Primärsystems zum Funktionsumfang E- anbieter/primaersysteme/best-konf-ps-ti update/Abrechnung/Pruefverfahren/ update/DigitaleMuster/ERP/ /gemSpec_DM_eRp/latest/

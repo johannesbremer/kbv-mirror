@@ -28,11 +28,15 @@
 - 8. Medizinische Dokumentationen nach G-BA2 Richtlinien oder Qualitätssicherungsvereinbarungen,
 - 9. Sicheres Netz der KVen (SNK): KV-SafeNet, KV-FlexNet und KV-SafeNet (Netzkopplung),
 - 10. eArztbrief,
-- 11. Terminmanagement nach § 75 Absatz 7 SGB V
+- 11. Terminmanagement nach § 75 Absatz 7 SGB V,
 - 12. Archivierungs-, Systemwechsel- und Interoperabilitätsschnittstellen,
 - 13. Verordnung von digitalen Gesundheitsanwendungen nach § 73 Absatz 2 und 9 SGB V,
 - 14. Schnittstelle gemäß § 370a Absatz 2 SGB V und
 - 15. Sektorzulassung Praxisausweis.
+
+1 Bundesmantelvertrag-Ärzte
+
+2 Gemeinsamer Bundesausschuss
 
 # § 2 BEGRIFFSBESTIMMUNGEN
 
@@ -40,10 +44,6 @@
 - (2) Eine Neuzertifizierung liegt vor, wenn der Zertifizierungsgegenstand keine gültige Zulassung für das  vorliegende Zertifizierungsthema, für welches eine Zulassung angestrebt wird, besitzt.
 - (3) Eine Rezertifizierung findet statt, wenn die Zulassung für ein bestimmtes Zertifizierungsthema in  absehbarer Zeit ausläuft und der Antragsteller für dieses weiterhin eine Zulassung anstrebt.
 - (4) Eine automatische Rezertifizierung stellt eine Rezertifizierung ohne Prüfungen dar, wenn keine bzw.  geringfügige Anforderungen an dem Zertifizierungsthema geändert wurden oder die Zertifizierung  dieser Änderungen zu einem späteren Zeitpunkt erfolgen soll. Die KBV legt fest, ob eine automatische  Rezertifizierung durchgeführt wird.
-
-1 Bundesmantelvertrag-Ärzte
-
-2 Gemeinsamer Bundesausschuss
 
 
 ---
@@ -68,7 +68,7 @@ d. R. mit Vergabe einer Prüfnummer bescheinigt wird.
 
 - (1) Die KBV legt fest, ob für die anstehende Zertifizierung eine Ergebnis- und/oder Sichtprüfung notwendig  [ist. Die Festlegung erfolgt pro Zertifizierungsverfahren und ist unter](https://update.kbv.de/)[https://update.kbv.de](https://update.kbv.de/)[](https://update.kbv.de/) verfahrensbezogen veröffentlicht.
 - (2) Für die Durchführung einer Prüfung stellt der Antragsteller das vollständige, lauffähig implementierte  System zusammen mit der notwendigen Hard- und Software zur Verfügung.
-- (3) Die Sichtprüfungen finden in den Räumen der KBV in Berlin statt. Sichtprüfungen können auch in  virtuellen Räumen der KBV durchgeführt werden. Für die Durchführung der Sichtprüfungen in virtuellen  Räumen, gelten die technischen Vorgaben der KBV
+- (3) Die Sichtprüfungen finden in den Räumen der KBV in Berlin statt. Sichtprüfungen können auch in  virtuellen Räumen der KBV durchgeführt werden. Für die Durchführung der Sichtprüfungen in virtuellen  Räumen, gelten die technischen Vorgaben der KBV.
 - (4) Sind die Unterlagen bei Antragstellung unvollständig, kann die KBV eine angemessene Frist zur  Vervollständigung setzen. Nach Ablauf der Frist gilt der Antrag als zurückgenommen.
 
 
@@ -87,7 +87,7 @@ Wenn erforderliche Prüfunterlagen nicht innerhalb einer angemessenen Frist beig
 - (1) Die Zulassung ist nach deren Vergabe auf einen Zeitraum von maximal fünf Jahren befristet.
 - (2) Die KBV kann die Zulassung verkürzen oder verlängern, sofern hierfür besondere Gründe schon zum  Zeitpunkt der Erteilung der Zulassung bekannt sind. Dies ist insbesondere der Fall, wenn gesetzliche  Änderungen eintreten oder erwartet werden.
 - (3) Die KBV kann die bereits ausgesprochene Zulassung verkürzen, wenn in absehbarer Zeit Änderungen  von Anforderungen aufgrund gesetzlicher Neuerungen bevorstehen. In diesem Zusammenhang kann  die KBV den Antragsteller zu einer Zertifizierung auffordern.
-- (4) Die KBV kann die bereits ausgesprochene Zulassung verlängern (automatische Rezertifizierung)
+- (4) Die KBV kann die bereits ausgesprochene Zulassung verlängern (automatische Rezertifizierung).
 - (5) Die Zulassung erlischt mit Ablauf der Gültigkeit der Prüfnummer automatisch, ohne dass es einer  Aufhebung bedarf.
 
 # § 8 AUßERORDENTLICHE KONTROLLPRÜFUNG
@@ -106,10 +106,10 @@ Die Gebühren und Auslagen auf Grundlage dieser Richtlinie bestimmen sich nach d
 | 2. | **Sichtprüfung** | 68,00 |
 | 3. | Beendigung der Zertifizierung ohne Zulassung | 34,00 |
 | 4. | Entzug der Zulassung | 68,00 |
-| 5. | Herstellung von Abschriften und Ausdrucken 5.1 - je DIN A4-Kopie-SW  5.2 - je DIN A3-Kopie-SW  5.3 - je DIN A4-Farbkopie  5.4 - je DIN A3-Farbkopie | 0,10  0,15  0,50  0,75 € |
+| 5. | Herstellung von Abschriften und Ausdrucken  5.1 - je DIN A4-Kopie-SW  5.2 - je DIN A3-Kopie-SW  5.3 - je DIN A4-Farbkopie  5.4 - je DIN A3-Farbkopie | 0,10  0,15  0,50  0,75 € |
 | 6. | Herstellung von Kopien auf sonstigen Datenträgern | In voller Höhe |
-| 7. | Vollständige oder teilweise Zurückweisung eines  Widerspruchs. | Bis zur Höhe der für den |
-| 8. | Aufwand für besondere Verpackung und besondere  Beförderung | In voller Höhe |
+| 7. | Vollständige oder teilweise Zurückweisung eines   Widerspruchs. | Bis zur Höhe der für den |
+| 8. | Aufwand für besondere Verpackung und besondere    Beförderung | In voller Höhe |
 
 für Neu-, Re- und Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung für Neu-, Re- und Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung € bis 4.000,00 € bis 4.000,00 € bis zu  25 % der themenspezifischen Kosten des Verfahrens € bis 4.000,00 angefochtenen Verwaltungsakt festgesetzten Gebühr; mindestens €, höchstens 350,00 €
 
@@ -140,8 +140,6 @@ Kassenärztliche Bundesvereinigung  Dezernat Digitalisierung und IT
 
 Abteilung IT in der Arztpraxis  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Die Kassenärztliche Bundesvereinigung (KBV) vertritt die pol itischen Interessen der rund 170 .000 an der vertragsärztlichen Versorgung  teilnehmenden Ärzte und Psychotherapeuten auf Bundesebene. Sie ist der Dachverband der 17 Kassenärztlichen Vereinigungen (KVen), die die ambulante medizinische Versorgung für 70 Millionen ge setzlich Versicherte in Deutschland sicherstellen. Die KBV schließt mit den gesetzlichen
+Die Kassenärztliche Bundesvereinigung (KBV) vertritt die politischen Interessen der rund 170.000 an der vertragsärztlichen Versorgung  teilnehmenden Ärzte und Psychotherapeuten auf Bundesebene. Sie ist der Dachverband der 17 Kassenärztlichen Vereinigungen (KVen), die die  ambulante medizinische Versorgung für 70 Millionen gesetzlich Versicherte in Deutschland sicherstellen. Die KBV schließt mit den gesetzlichen
 
-Krankenkassen und anderen Sozialversicherungsträgern Vereinbarungen, beispielsweise Psychotherapeuten sowie zum Leistun gsspektrum der gesetzlichen Krankenkassen. Die KVen und die KBV sind als Einrichtung der ärztlichen Selbstverwaltung Körperschaften des öffentlichen Rechts.
-
-s zur Honorierung der niedergelassenen Ärzte und
+Krankenkassen und anderen Sozialversicherungsträgern Vereinbarungen, beispielsweises zur Honorierung der niedergelassenen Ärzte und  Psychotherapeuten sowie zum Leistungsspektrum der gesetzlichen Krankenkassen. Die KVen und die KBV sind als Einrichtung der ärztlichen  Selbstverwaltung Körperschaften des öffentlichen Rechts.

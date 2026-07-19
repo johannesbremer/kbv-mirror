@@ -8,7 +8,7 @@
 
 **1. Bewegungsgewohnheiten / Ernährung / Stressmanagement / Suchtmittelkonsum / Sonstiges**
 
-Geben Sie hier bitte an, in welchem Handlungsfeld Sie für den Patienten eine Präventionsmaßnahme em p-fehlen. Unter „Sonstiges“ können Sie nähere Angaben zu weiteren Handlungsfeldern machen.
+Geben Sie hier bitte an, in welchem Handlungsfeld Sie für den Patienten eine Präventionsmaßnahme emp-fehlen. Unter „Sonstiges“ können Sie nähere Angaben zu weiteren Handlungsfeldern machen.
 
 **2. Hinweise des behandelnden Arztes**
 

@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  17. MAI 2024  VERSION: 5.6   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT   17. MAI 2024  VERSION: 5.6   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG  VERORDNUNG VON ARZNEIMITTELN
@@ -50,7 +50,7 @@ Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -61,7 +61,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 |  |  |
 |---|---|
@@ -70,18 +70,12 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 ## 1.4  BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
-
-1.1
-
--Betriebssysteme unterstützt werden.
-
-vorhanden) des Zertifizierungsgegenstandes an.
 
 Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
@@ -100,7 +94,7 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 |  |  | ☐ |  |
 |  |  | ☐ |  |
 | ☐ | Es wird eine Arzneimitteldatenbank verwendet. | | |
-|  | Name der Arzneimitteldatenbank(en) (sofern verwendet) | ☐ |  |
+|  | Name der Arzneimitteldatenbank(en)  (sofern verwendet) | ☐ |  |
 |  |  | ☐ |  |
 |  |  | ☐ |  |
 
@@ -112,11 +106,12 @@ Bitte kreuzen Sie zutreffendes an (Mehrfachnennungen sind möglich):
 
 |  |  |
 |---|---|
-| ☐ | Der Softwareverantwortliche versichert, dass alle Pfl |
+| ☐ | Der Softwareverantwortliche versichert, dass alle Pflichtfunktionen des Anforderungskatalogs |
 | ☐ | Der Softwareverantwortliche versichert, dass alle konditionalen Pflichtfunktionen des |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der Technischen Anlage für die |
 
-nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Anforderungskatalogs nach § 73 SGB V für Verordn sind. Übermittlung von elektronischen Arzneimittelverordnungen erfüllt sind. ichtfunktionen des Anforderungs ungssoftware/Arzneimitteldaten katalogs banken erfüllt
+nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Anforderungskatalogs nach § 73 SGB V für Verordnungssoftware/Arzneimitteldatenbanken erfüllt sind. Übermittlung von elektronischen Arzneimittelverordnungen erfüllt sind. 
+
 
 ---
 
@@ -132,14 +127,14 @@ Folgende optionale Funktionen wurden umgesetzt:
 | **O3-540** | Preishistorie | ☐ |
 | **O3-622** | Wirkstoffverordnung | ☐ |
 | **O3-623** | Rezepturverordnung | ☐ |
-| **O36-40** | Festlegung der ausstellenden Person zum Signaturzeitpunkt [siehe Technischen Anlage eRezept] | ☐ |
-| **O6-231** | Zwei Patientenausdrucke einer Person auf einem DIN [siehe Technischen Anlage eRezept] | ☐ |
+| **O36-40** | Festlegung der ausstellenden Person zum Signaturzeitpunkt  [siehe Technischen Anlage eRezept] | ☐ |
+| **O6-231** | Zwei Patientenausdrucke einer Person auf einem DIN-A4- [siehe Technischen Anlage eRezept] | ☐ |
 | **O4-100** | Richtgrößen | ☐ |
 | **O4-110** | Controlling: Richtgrößenausschöpfung | ☐ |
 | **O4-130** | Weitere Controllingprogramme | ☐ |
 | **O4-140** | Preiszuordnung bei Wirkstoffverordnung | ☐ |
 
-NUMMER -A4- Blatt BITTE ANKREUZEN
+NUMMER Blatt BITTE ANKREUZEN
 
 ---
 
@@ -163,6 +158,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
+
 
 ---
 
@@ -195,7 +191,7 @@ Sichtprüfung und mitteln  weiterungszertifizierung Ergebnisprüfung eRezept) - 
 ---
 
 - Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
-- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 - **IV.** **Sonstiges**
 - (1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.

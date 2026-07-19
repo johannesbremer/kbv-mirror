@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Schnittstellenbeschreibung QS* |
-|  | [KBV_ITA_VGEX_Schnittstelle_QS |
+|  | [KBV_ITA_VGEX_Schnittstelle_QSHLT] |
 |  | ** |
-|  | Dezernat |
+|  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft 
+Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft 
 
 
 ---
@@ -124,7 +124,7 @@ Holmium -Laser-Therapie HLT] Digitalisierung und IT -Lewin-Platz 2 1.00 Datum: 0
 
 4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion .................................. 21
 
-4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfus ion ..................................... 21
+4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfusion ..................................... 21
 
 4.3.21 anzahl_andere_interventionspflichtige_fruehkomplikationen .......................................... 21
 
@@ -273,7 +273,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -288,9 +288,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Datentyp: Ein Rechteck mit zwei abgeflachten Ecken symboli- |
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein |
 
-**Tabelle 3 – Beschreibung sonstiger Symbole**
+zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. **Tabelle 3 – Beschreibung sonstiger Symbole**
 
-zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst.
 
 ---
 
@@ -304,7 +303,7 @@ Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kind
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-<?xml version="1.0" encoding="ISO -8859-15"?>
+<?xml version="1.0" encoding="ISO-8859-15"?>
 
 <ehd xmlns="urn:ehd/001" xmlns:qshlt="urn:ehd/qshlt/001" ehd_version="1.40">
 
@@ -345,9 +344,7 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese S
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD]
-
-Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
 [KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-mente eingeschränkt:
 
@@ -355,17 +352,22 @@ Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 - o Im EX-Attribut steht eine eindeutige id (GUID)
 - o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
 
+[KBV_ITA_VGEX_eHD]
+
+-  Im *document_type_cd*
+-  Das  eine Korrekturlieferung erfolgt.
+
 **Abbildung 2 - Element id**
 
--  Im *document_type_cd*-Element wurde der Dokumenttyp festgelegt:
+- -Element wurde der Dokumenttyp festgelegt:
 - o im V-Attribut ist der Wert: „QSHLT“ fest vorgeschrieben.
 
 **Abbildung 3 - Element document_type_cd**
 
--  Das  eine Korrekturlieferung erfolgt.  *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
+- *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
 - o Das Element *document_relationship/document_relationship.type_cd* V-Attribut den Wert „RPLC“
-- enthält im
 - o Das Element *document_relationship/related_document/id*  auf das *id*-Element des Ursprungsdokuments.
+- enthält im
 - enthält den Verweis
 
 **Abbildung 4 - Element document_relationship**
@@ -411,7 +413,7 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSHLT"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSHLT" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Holmium-Laser-Therapie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSHLT"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSHLT" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Holmium-Laser-Therapie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
 ---
 
@@ -435,13 +437,15 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 <sciphox:id EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
 
 **XML-Code 5 - id (Software)**
+
+*EX* und *RT*. Das *EX*-Attribut erhält
 
 
 ---
@@ -473,9 +477,9 @@ enthält die QS Holmium-Laser-Therapie Jahresstatistik.
 
 \| <qshlt:qshlt_dokumentation> |
 \|---|
-\| **Abbildung 10 - Element qshlt_dokumentation** XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qshlt:qshlt_dokumentation> |
+\| **Abbildung 10 - Element qshlt_dokumentation Teil 2 ** XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qshlt:qshlt_dokumentation> |
 
-Teil 2 <anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_eingriffe_mit_absoluter_op_indikation V="5"/> <anzahl_eingriffe_mit_relativer_op_indikation V="15"/> <anzahl_prostatavolumen_0_2 4 V="2"/> <anzahl_prostatavolumen_25_49 V="3"/> <anzahl_prostatavolumen_50_69 V="15"/> <anzahl_prostatavolumen_70 V="0"/> <anzahl_harnstrahlmessung_0 V="3"/> <anzahl_harnstrahlmessung_0_9 V="2"/> <anzahl_harnstrahlmessung_10_15 V="15"/> <anzahl_harnstrahlmessung_16 V="5"/> <anzahl_blasenverletzungen V="3"/> <anzahl_verletzung_harnleiterostien V="2"/> <anzahl_einschwemmung V="1"/> <anzahl_andere_intraoperative_komplikationen V="0"/> <anzahl_umstiege_turp V="3"/>
+<anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_eingriffe_mit_absoluter_op_indikation V="5"/> <anzahl_eingriffe_mit_relativer_op_indikation V="15"/> <anzahl_prostatavolumen_0_24 V="2"/> <anzahl_prostatavolumen_25_49 V="3"/> <anzahl_prostatavolumen_50_69 V="15"/> <anzahl_prostatavolumen_70 V="0"/> <anzahl_harnstrahlmessung_0 V="3"/> <anzahl_harnstrahlmessung_0_9 V="2"/> <anzahl_harnstrahlmessung_10_15 V="15"/> <anzahl_harnstrahlmessung_16 V="5"/> <anzahl_blasenverletzungen V="3"/> <anzahl_verletzung_harnleiterostien V="2"/> <anzahl_einschwemmung V="1"/> <anzahl_andere_intraoperative_komplikationen V="0"/> <anzahl_umstiege_turp V="3"/>
 
 ---
 
@@ -518,7 +522,7 @@ Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit 0 ml/s wird hier im 
 
 ### 4.3.10
 
-Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit größer 0 bis 9,9 ml/s wird hier  im V-Attribut angegeben. Der Wert muss zwischen 0 und
+Die Anzahl (nonNegativeInteger) der Harnstrahlmessungen mit größer 0 bis 9,9 ml/s wird hier  im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
 ### 4.3.11
 
@@ -556,46 +560,64 @@ Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen d
 
 ### anzahl_verletzung_harnleiterostien
 
-### anzahl_einschwemmung 99999 liegen.
+### anzahl_einschwemmung
 
 
 ---
 
-### 4.3.16 anzahl_andere_interoperative_komplikationen
+### 4.3.16
 
 Die Anzahl (nonNegativeInteger) der anderen intraoperativ aufgetretenen Komplikationen wird  hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-### 4.3.17 anzahl_umstiege_turp
+### 4.3.17
 
 Die Anzahl (nonNegativeInteger) der Umsteige auf TURP wird hier im V-Attribut angegeben.  Der Wert muss zwischen 0 und 99999 liegen.
 
-### 4.3.18 anzahl_umstiege_konventionelle_op
+### 4.3.18
 
 Die Anzahl (nonNegativeInteger) der Umsteige auf konventionelle Operation wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-### 4.3.19 anzahl_interventionspflichtige_nachblutungen_ohne_transfusion
+### 4.3.19
 
 Die Anzahl (nonNegativeInteger) der interventionspflichtigen Nachblutungen ohne Transfusion  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-### 4.3.20 anzahl_interventionspflichtige_nachblutungen_mit_transfusion
+### 4.3.20
 
 Die Anzahl (nonNegativeInteger) der interventionspflichtigen Nachblutungen mit Transfusion  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-### 4.3.21 anzahl_andere_interventionspflichtige_fruehkomplikationen
+### 4.3.21
 
 Die Anzahl (nonNegativeInteger) der anderen interventionspflichtigen Fruehkomplikationen  wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-### 4.3.22 anzahl_operationszeit_0_59
+### 4.3.22
 
 Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) von  0 bis 59 Minuten wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
-### 4.3.23 anzahl_operationszeit_60_89
+### 4.3.23
 
 Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) von  60 bis 89 Minuten wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
-### 4.3.24 anzahl_operationszeit_90
+### 4.3.24
 
 Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) mit  90 Minuten und mehr wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+
+### anzahl_andere_interoperative_komplikationen
+
+### anzahl_umstiege_turp
+
+### anzahl_umstiege_konventionelle_op
+
+### anzahl_interventionspflichtige_nachblutungen_ohne_transfusion
+
+### anzahl_interventionspflichtige_nachblutungen_mit_transfusion
+
+### anzahl_andere_interventionspflichtige_fruehkomplikationen
+
+### anzahl_operationszeit_0_59
+
+### anzahl_operationszeit_60_89
+
+### anzahl_operationszeit_90
 
 
 ---

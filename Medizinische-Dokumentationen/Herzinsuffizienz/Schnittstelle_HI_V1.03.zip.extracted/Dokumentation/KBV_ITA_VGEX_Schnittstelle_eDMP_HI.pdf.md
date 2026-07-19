@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 14. NOVEMBER 2024   VERSION: 1.03   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2024   VERSION: 1.03   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  CHRONISCHE HERZINSUFFIZIENZ
@@ -34,28 +34,48 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6 BODY DER „ERSTMALIGEN DOKUMENTATION“**
 
-6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  Symptomatik  Serum-Elektrolyte und eGFR in den letzten sechs Monaten 6.1.6 Abschnitt „Relevante Ereignisse“  6.1.7 Abschnitt „Medikamente“  ACE-Hemmer  Evidenzbasierte Zieldosis ACE-Hemmer oder ARB  Betablocker  Evidenzbasierte Zieldosis Betablocker  Mineralokortikoid-RezeptorAntagonist (MRA)  Evidenzbasierte Zieldosis MRA  SGLT2  Inhibitor  6.1.8 Abschnitt „Schulung“  Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
+6.1 Sektion (section)  6.1.1 caption  6.1.2 content  6.1.3 Sciphox-SSU observation  6.1.3.1 Parameter  6.1.3.2 Ergebnistext  6.1.3.3 Ergebniswert  6.1.3.4 Beobachtungen  6.1.4 Abschnitt „Administrative Daten“  6.1.4.1 Einschreibung wegen  6.1.5 Abschnitt „Anamnese und Befunddaten“  6.1.5.1 Körpergröße  6.1.5.2 Körpergewicht  6.1.5.3 Raucher  6.1.5.4 Blutdruck systolisch  6.1.5.5 Blutdruck diastolisch  6.1.5.6 Begleiterkrankungen  Symptomatik  Serum-Elektrolyte und eGFR in den letzten sechs Monaten  6.1.6 Abschnitt „Relevante Ereignisse“  6.1.7 Abschnitt „Medikamente“  ACE-Hemmer  Evidenzbasierte Zieldosis ACE-Hemmer oder ARB  Betablocker  Evidenzbasierte Zieldosis Betablocker  Mineralokortikoid-RezeptorAntagonist (MRA)  Evidenzbasierte Zieldosis MRA  SGLT2  Inhibitor  6.1.8 Abschnitt „Schulung“  Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
 **8** **9** **10** 10 10 11 **12** **13**
 
-13 **14** 14 14 15 16 17 17 17 17 18 18 19 20 20 21 21 21 22 22
-
-23  23 24 24 25 26 27 27 28 28 30 30
+13 **14** 14 14 15 16 17 17 17 17 18 18 19 20 20 21 21 21 22 22 23  23 24 24 25 26 27 27 28 28 30 30
 
 
 ---
 
-Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen  6.1.9 Abschnitt „Behandlungsplanung“  6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse  6.1.9.2 Dokumentationsintervall  Regelmäßiges körperliches Training  Führen eines Gewichtsprotokolls
+Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung  teilgenommen
+
+31 6.1.9 Abschnitt „Behandlungsplanung“
+
+31 6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
+
+32 6.1.9.2 Dokumentationsintervall
+
+32 Regelmäßiges körperliches Training
+
+33  Führen eines Gewichtsprotokolls 33
 
 **7 BODY DER VERLAUFSDOKUMENTATION**
 
-7.1 Sektion (section)  7.1.1 Abschnitt „Relevante Ereignisse“  Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten  Dokumentation  7.1.2 Abschnitt „Schulung“  Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen  Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
+**35** 7.1 Sektion (section)
+
+35 7.1.1 Abschnitt „Relevante Ereignisse“
+
+35 Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten  Dokumentation
+
+35 7.1.2 Abschnitt „Schulung“
+
+36 Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen
+
+36 Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation) 37
 
 **8 GLOSSAR**
 
+**38**
+
 **9 REFERENZIERTE DOKUMENTE**
 
--spezifischen Schulung  31 31 32 32 33  33 **35** 35 35 35 36 36 37 **38** **39**
+**39**
 
 |  |  |
 |---|---|
@@ -75,7 +95,7 @@ Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen  6.1
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10 **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11 **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 19 **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 21 **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 22 **TABELLE 7:** WERTE BEI ERGEBNISTEXT (SYMPTOMATIK) ................................................................................................. 23 **TABELLE 8:** WERTE BEI ERGEBNISTEXT (SERUM-ELEKTROLYTE UND EGFR IN DEN LETZTEN SECHS MONATEN) ............. 23 **TABELLE 9:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) ................................................................................................... 25 **TABELLE 10:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB) ................................ 26 **TABELLE 11:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) ................................................................................................. 26 **TABELLE 12:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS BETABLOCKER) ................................................. 27 **TABELLE 13:** WERTE BEI ERGEBNISTEXT (MRA) ................................................................................................................ 28 **TABELLE 14:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS MRA) ................................................................. 28 **TABELLE 15:** WERTE BEI ERGEBNISTEXT (SGLT2  INHIBITOR ......................................................................................... 29 **TABELLE 16:** WERTE BEI ERGEBNISTEXT (HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER  DOKUMENTATION) ................................................................................................................................................. 30 **TABELLE 17:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ -SPEZIFISCHEN SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 31 **TABELLE 18:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ....................................................................................................................................................... 32 **TABELLE 18:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 33 **TABELLE 19:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES KÖRPERLICHES TRAINING) ..................................................... 33 **TABELLE 21:** WERTE BEI ERGEBNISTEXT (FÜHREN EINES GEWICHTSPROTOKOLLS)......................................................... 34 **TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG  WAHRGENOMMEN) ................................................................................................................................................. 36
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10 **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11 **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 19 **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 21 **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 22 **TABELLE 7:** WERTE BEI ERGEBNISTEXT (SYMPTOMATIK) ................................................................................................. 23 **TABELLE 8:** WERTE BEI ERGEBNISTEXT (SERUM-ELEKTROLYTE UND EGFR IN DEN LETZTEN SECHS MONATEN) ............. 23 **TABELLE 9:** WERTE BEI ERGEBNISTEXT (ACE-HEMMER) ................................................................................................... 25 **TABELLE 10:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB) ................................ 26 **TABELLE 11:** WERTE BEI ERGEBNISTEXT (BETABLOCKER) ................................................................................................. 26 **TABELLE 12:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS BETABLOCKER) ................................................. 27 **TABELLE 13:** WERTE BEI ERGEBNISTEXT (MRA) ................................................................................................................ 28 **TABELLE 14:** WERTE BEI ERGEBNISTEXT (EVIDENZBASIERTE ZIELDOSIS MRA) ................................................................. 28 **TABELLE 15:** WERTE BEI ERGEBNISTEXT (SGLT2  INHIBITOR ......................................................................................... 29 **TABELLE 16:** WERTE BEI ERGEBNISTEXT (HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER  DOKUMENTATION) ................................................................................................................................................. 30 **TABELLE 17:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ-SPEZIFISCHEN SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 31 **TABELLE 18:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ....................................................................................................................................................... 32 **TABELLE 18:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 33 **TABELLE 19:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES KÖRPERLICHES TRAINING) ..................................................... 33 **TABELLE 21:** WERTE BEI ERGEBNISTEXT (FÜHREN EINES GEWICHTSPROTOKOLLS)......................................................... 34 **TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG  WAHRGENOMMEN) ................................................................................................................................................. 36
 
 |  |  |
 |---|---|
@@ -85,7 +105,7 @@ Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen  6.1
 
 ## XML-CODE-VERZEICHNIS
 
-**XML-CODE 1:** LEVELONE ................................................................................................................................................... 12  **XML-CODE 2**: BODY .......................................................................................................................................................... 14 **XML-CODE 3:** SECTION ..................................................................................................................................................... 15 **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16 **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16 **XML-CODE 6:** PARAMETER ............................................................................................................................................... 17 **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17 **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17 **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18 **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18 **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 20 **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20 **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 21 **XML-CODE 14:** RAUCHER .................................................................................................................................................. 21 **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 21 **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21 **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 22 **XML-CODE 18:** SYMPTOMATIK ......................................................................................................................................... 22 **XML-CODE 19:** RAUCHER .................................................................................................................................................. 23 **XML-CODE 20:** CONTENT (MEDIKAMENTE)...................................................................................................................... 24 **XML-CODE 21:** ACE-HEMMER........................................................................................................................................... 25 **XML-CODE 22:** EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB .......................................................................... 25 **XML-CODE 23:** BETABLOCKER .......................................................................................................................................... 26 **XML-CODE 24:** EVIDENZBASIERTE ZIELDOSIS BETABLOCKER ........................................................................................... 27 **XML-CODE 25:** MINERALOKORTIKOID-REZEPTOR-ANTAGONIST (MRA) .......................................................................... 27 **XML-CODE 26:** EVIDENZBASIERTE ZIELDOSIS MRA .......................................................................................................... 28 **XML-CODE 27:** (SGLT2  INHIBITOR) ................................................................................................................................ 28 **XML-CODE 28:** CONTENT (SCHULUNG) ............................................................................................................................ 30 **XML-CODE 29:** HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ........... 30 **XML-CODE 30:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ -SPEZIFISCHEN SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 31 **XML-CODE 30:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 32 **XML-CODE 32:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 32 **XML-CODE 32:** DOKUMENTATIONSINTERVALL ................................................................................................................ 33 **XML-CODE 33:** REGELMÄßIGES KÖRPERLICHES TRAINING .............................................................................................. 33 **XML-CODE 35:** FÜHREN EINES GEWICHTSPROTOKOLLS .................................................................................................. 33 **XML-CODE 35:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 35 **XML-CODE 36:** UNGEPLANTE STATIONÄRE BEHANDLUNG, WEGEN HERZINSUFFIZIENZ, SEIT DER LETZTEN  DOKUMENTATION ................................................................................................................................................... 35 **XML-CODE 37:** CONTENT (SCHULUNG) ............................................................................................................................ 36 **XML-CODE 39:** EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG WAHRGENOMMEN ................................... 36
+**XML-CODE 1:** LEVELONE ................................................................................................................................................... 12  **XML-CODE 2**: BODY .......................................................................................................................................................... 14 **XML-CODE 3:** SECTION ..................................................................................................................................................... 15 **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16 **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16 **XML-CODE 6:** PARAMETER ............................................................................................................................................... 17 **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17 **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17 **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18 **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18 **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 20 **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20 **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 21 **XML-CODE 14:** RAUCHER .................................................................................................................................................. 21 **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 21 **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21 **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 22 **XML-CODE 18:** SYMPTOMATIK ......................................................................................................................................... 22 **XML-CODE 19:** RAUCHER .................................................................................................................................................. 23 **XML-CODE 20:** CONTENT (MEDIKAMENTE)...................................................................................................................... 24 **XML-CODE 21:** ACE-HEMMER........................................................................................................................................... 25 **XML-CODE 22:** EVIDENZBASIERTE ZIELDOSIS ACE-HEMMER ODER ARB .......................................................................... 25 **XML-CODE 23:** BETABLOCKER .......................................................................................................................................... 26 **XML-CODE 24:** EVIDENZBASIERTE ZIELDOSIS BETABLOCKER ........................................................................................... 27 **XML-CODE 25:** MINERALOKORTIKOID-REZEPTOR-ANTAGONIST (MRA) .......................................................................... 27 **XML-CODE 26:** EVIDENZBASIERTE ZIELDOSIS MRA .......................................................................................................... 28 **XML-CODE 27:** (SGLT2  INHIBITOR) ................................................................................................................................ 28 **XML-CODE 28:** CONTENT (SCHULUNG) ............................................................................................................................ 30 **XML-CODE 29:** HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ........... 30 **XML-CODE 30:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER HERZINSUFFIZIENZ-SPEZIFISCHEN SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 31 **XML-CODE 30:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 32 **XML-CODE 32:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 32 **XML-CODE 32:** DOKUMENTATIONSINTERVALL ................................................................................................................ 33 **XML-CODE 33:** REGELMÄßIGES KÖRPERLICHES TRAINING .............................................................................................. 33 **XML-CODE 35:** FÜHREN EINES GEWICHTSPROTOKOLLS .................................................................................................. 33 **XML-CODE 35:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 35 **XML-CODE 36:** UNGEPLANTE STATIONÄRE BEHANDLUNG, WEGEN HERZINSUFFIZIENZ, SEIT DER LETZTEN  DOKUMENTATION ................................................................................................................................................... 35 **XML-CODE 37:** CONTENT (SCHULUNG) ............................................................................................................................ 36 **XML-CODE 39:** EMPFOHLENE HERZINSUFFIZIENZ-SPEZIFISCHE SCHULUNG WAHRGENOMMEN ................................... 36
 
 |  |  |
 |---|---|
@@ -169,7 +189,7 @@ Beispiele:
 
 # 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
 
-Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen
+Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den  folgenden Kapiteln kurz erläutert werden sollen.
 
 ## 3.1 KARDINALITÄT
 
@@ -194,9 +214,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
 |  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
-**Tabelle 2:** Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahle n rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden mü ssen.
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 |  |  |
 |---|---|
@@ -218,7 +238,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfas st.
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
 |  |  |
 |---|---|
@@ -236,7 +256,7 @@ Alle Schemata, die in dieser Schnittstellenbeschreibung beschrieben werden, sind
 
 **Abbildung 1:** Grundstruktur levelone
 
-Folgender Code ist für diese Elemente zwingend vorgeschrieben
+Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 \| <?xml version="1.0" encoding="ISO-8859-15"?>  <levelone xmlns="urn::hl7-org/cda"        **  **   </levelone> |
 \|---|
@@ -269,7 +289,7 @@ Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unb
 
 # 6 BODY DER „ERSTMALIGEN DOKUMENTATION“
 
-In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element  enthält ein Element <section>.
+In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst  enthält ein Element <section>.
 
 Der Aufbau des Elements <body> ist in
 
@@ -280,6 +300,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus:
 \| <body>  **   </body> |
 \|---|
 
+Abbildung 2 dargestellt.
+
 **XML-Code 2**: body
 
 ## 6.1 SEKTION (SECTION)
@@ -288,21 +310,15 @@ Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusa
 
 **Abbildung 3:** Grundstruktur section
 
-Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“  enthalten, die jeweils in einem <paragraph>-Element untergebracht sind
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“  enthalten, die jeweils in einem <paragraph>-Element untergebracht sind.
 
 ### 6.1.1 caption
 
-Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“ angegeben.
-
-Abbildung 2 dargestellt.
-
-, „Medikamente“, „Schulung“ und „Behandlungsplanung“
-
-<body> selbst
+Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd>. Im DN-Attribut des  Elements <caption_cd> werden die jeweiligen Abschnittsüberschriften  und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“  angegeben.
 
 und Befunddaten“,
 
-<section> </section> -Attribut des  „Administrative Daten“, „Anamnese
+<section> </section> „Administrative Daten“, „Anamnese
 
 |  |  |
 |---|---|
@@ -319,9 +335,9 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 ### 6.1.2 content
 
-Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute  Wert “all”. Um zu kennzeichnen, dass SCIPHOX der feste Wert „sciphox“ vorgeschrieben.
+Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen  Wert “all”. Um zu kennzeichnen, dass SCIPHOX der feste Wert „sciphox“ vorgeschrieben.
 
-<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>*ignore* und *descriptor*. Das Attribut *ignore* hat den festen  -Elemente verwendet werden, ist für das *descriptor*-Attribut
+<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>-Elemente verwendet werden, ist für das *descriptor*-Attribut
 
 |  |  |
 |---|---|
@@ -334,7 +350,7 @@ Für die Darstellung von Daten von Diabetes mellitus Typ 1 („erstmalige Dokume
 \| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1"> **     </content> |
 \|---|
 
-**XML-Code 4:** content mit sciphox -SSU (observation)
+**XML-Code 4:** content mit sciphox-SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
 
@@ -361,11 +377,11 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
 ### 6.1.3.1 Parameter
 
-Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
+Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
 
 *Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*  *den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
 
-Der XML-Code zum Element <Parameter> sieht folgendermaße
+Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
@@ -374,18 +390,16 @@ Der XML-Code zum Element <Parameter> sieht folgendermaße
 
 ### 6.1.3.2 Ergebnistext
 
-Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im  zum Element <Ergebnistext> sieht folgendermaßen aus:
+Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
-
-*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
 
 **XML-Code 7:** Ergebnistext
 
 ### 6.1.3.3 Ergebniswert
 
-Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird di eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
@@ -394,17 +408,9 @@ Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausp
 
 ### 6.1.3.4 Beobachtungen
 
-In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parame Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
+In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parameter in einem  Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
 
-n aus:
-
-*V-*Attribut, angegeben. Der XML-Code
-
-Parameter aus dem Datensatz
-
-*V-*Attribut, angegeben. Als  e Einheit (z.B. „m
-
-<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>ter in einem
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
 |  |  |
 |---|---|
@@ -416,7 +422,7 @@ Parameter aus dem Datensatz
 
 Dieses Kapitel beschreibt den Abschnitt Administrative Daten
 
-Im Element <content> wird die Sciphox-SSU *observation* 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -427,20 +433,16 @@ Der Coderahmen sieht wie folgt aus:
 
 ### 6.1.4.1 Einschreibung wegen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 10:** Einschreibung wegen
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/>**XML-Code 10:** Einschreibung wegen
 
-verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
-
-*V*-Attribut die Feldbezeichnung
-
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Chronische Herzinsuffizienz"/>|  |  |
+|  |  |
 |---|---|
 
 
@@ -510,7 +512,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut
 
 ### 6.1.5.3 Raucher
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 5
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 5
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -523,8 +525,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Ja |
 \| Nein |
-
-<sciphox:Ergebnistext> im
 
 **Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
@@ -549,8 +549,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 
 **XML-Code 16:** Blutdruck diastolisch
-
-*V*-Attribut die Feldbezeichnung
 
 *V* Attribut den „systolischen Wert“
 
@@ -610,11 +608,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| NYHA III |
 \| NYHA IV |
 
-**Tabelle 7:** Werte bei Ergebnistext ( Symptomatik)
+**Tabelle 7:** Werte bei Ergebnistext (Symptomatik)
 
 ### Serum-Elektrolyte und eGFR in den letzten sechs Monaten
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 8
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 8
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -628,15 +626,13 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 8:** Werte bei Ergebnistext (Serum -Elektrolyte und eGFR in den letzten sechs Monaten)
+**Tabelle 8:** Werte bei Ergebnistext (Serum-Elektrolyte und eGFR in den letzten sechs Monaten)
 
 ### 6.1.6 Abschnitt „Relevante Ereignisse“
 
-Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht Verlaufsdokumentation, siehe Kapitel 7.1.1
+Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht verwendet, sondern nur bei der  Verlaufsdokumentation, siehe Kapitel 7.1.1
 
-*V*-Attribut die Feldbezeichnung
-
-<sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten <sciphox:Ergebnistext V="Nein "/> "/>verwendet, sondern nur bei der
+<sciphox:Parameter DN="Serum-Elektrolyte und eGFR in den letzten sechs Monaten "/> <sciphox:Ergebnistext V="Nein "/>
 
 |  |  |
 |---|---|
@@ -644,32 +640,22 @@ Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht Verl
 
 ---
 
-### 6.1.7
+### 6.1.7 Abschnitt „Medikamente“
 
-Dieses Kapitel beschreibt den Abschnitt
+Dieses Kapitel beschreibt den Abschnitt „Medikamente“.
 
-Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält minimal vier bis maximal sieben genau zwei Kindelemente  <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein  Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> . Zusätzlich  kann das Element <sciphox: Beobachtung> ein <sciphox:Beobachtungen>-Block enthalten (siehe XML-Code  20
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal vier bis maximal sieben genau zwei Kindelemente  <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein  Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> . Zusätzlich  kann das Element <sciphox: Beobachtung> ein <sciphox:Beobachtungen>-Block enthalten (siehe XML-Code  20
 
 Der Coderahmen sieht wie folgt aus:
 
 \| <content>        <sciphox:Beobachtungen>   **  **      **    **  **      **    **    **    **         </local_markup>  </content> |
 \|---|
 
-**XML-Code 20:**
-
-Bei diesem Parameter enthält das Element gemäß  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
-
-### Abschnitt „Medikamente“
-
-„Medikamente“.
-
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  sciphox:Beobachtungen>. Das Element
-
-content (Medikamente)
+**XML-Code 20:** content (Medikamente)
 
 ### ACE-Hemmer
 
-<local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis ACE-Hemmer oder ARB"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis Betablocker"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis MRA"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis ACE-Hemmer oder ARB"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Ja"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis Betablocker"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Evidenzbasierte Zieldosis MRA"/> <sciphox:Ergebnistext V="Nicht erreicht"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 9. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 |  |  |
 |---|---|
@@ -693,7 +679,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Kontraindikation |
 \| ARB |
 
-**Tabelle 9:** Werte bei Ergebnistext (ACE -Hemmer)
+**Tabelle 9:** Werte bei Ergebnistext (ACE-Hemmer)
 
 ### Evidenzbasierte Zieldosis ACE-Hemmer oder ARB
 
@@ -704,7 +690,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 22:** Evidenzbasierte Zieldosis ACE -Hemmer oder ARB
+**XML-Code 22:** Evidenzbasierte Zieldosis ACE-Hemmer oder ARB
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -721,7 +707,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Titrationsphase |
 \| Max. tolerierte Dosis erreicht |
 
-**Tabelle 10:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis ACE -Hemmer oder ARB)
+**Tabelle 10:** Werte bei Ergebnistext (Evidenzbasierte Zieldosis ACE-Hemmer oder ARB)
 
 ### Betablocker
 
@@ -779,24 +765,22 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Titrationsphase |
 \| Max. tolerierte Dosis erreicht |
 
-**Tabelle 12:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis Betablocker)
+**Tabelle 12:** Werte bei Ergebnistext (Evidenzbasierte Zieldosis Betablocker)
 
 ### Mineralokortikoid-Rezeptor-Antagonist (MRA)
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 13. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angege
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 13. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 25:** Mineralokortikoid -Rezeptor-Antagonist (MRA)
+**XML-Code 25:** Mineralokortikoid-Rezeptor-Antagonist (MRA)
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
 \| Ja |
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  ben werden.
 
 <sciphox:Parameter DN = „ Evidenzbasierte Zieldosis Betablocker “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> <sciphox:Parameter DN="Mineralokortikoid-Rezeptor-Antagonist (MRA)"/> <sciphox:Ergebnistext V="Nein"/>|  |  |
 |---|---|
@@ -808,11 +792,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Kontraindikation |
 
-**Tabelle 13:** Werte bei Ergebnistext (Mineralokortikoid -Rezeptor-Antagonist (MRA))
+**Tabelle 13:** Werte bei Ergebnistext (Mineralokortikoid-Rezeptor-Antagonist (MRA))
 
 ### Evidenzbasierte Zieldosis MRA
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 14. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -828,20 +812,16 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Titrationsphase |
 \| Max. tolerierte Dosis erreicht |
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-**Tabelle 14:** Werte bei Ergebnistext ( Evidenzbasierte Zieldosis MRA)
+**Tabelle 14:** Werte bei Ergebnistext (Evidenzbasierte Zieldosis MRA)
 
 ### SGLT2  Inhibitor
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 **XML-Code 27:** (SGLT2  Inhibitor)
 
@@ -850,7 +830,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-<sciphox:Parameter DN = „ Evidenzbasierte Zieldosis MRA <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> “/> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/>|  |  |
+<sciphox:Parameter DN = „ Evidenzbasierte Zieldosis MRA “/> <sciphox:Ergebnistext V = „ Nicht erreicht “/> <sciphox:Ergebnistext V = „ Max. tolerierte Dosis erreicht “/> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Nein"/>|  |  |
 |---|---|
 
 
@@ -859,7 +839,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Kontraindikation |
 \|---|
 
-**Tabelle 15:** Werte bei Ergebnistext ( SGLT2  Inhibitor
+**Tabelle 15:** Werte bei Ergebnistext (SGLT2  Inhibitor
 
 |  |  |
 |---|---|
@@ -882,16 +862,14 @@ Der Coderahmen sieht wie folgt aus:
 
 ### Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
-**XML-Code 29:** Herzinsuffizienz -spezifische Schulung empfohlen (bei aktueller Dokumentation)
+**XML-Code 29:** Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -899,49 +877,41 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 \| Schulung bereits vor Einschreibung in das DMP wahrgenommen |
 
-**Tabelle 16:** Werte bei Ergebnistext (Herzinsuffizienz -spezifische  Dokumentation)
+**Tabelle 16:** Werte bei Ergebnistext (Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller  Dokumentation)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>Schulung empfohlen (bei aktueller
-
-|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
 |---|---|
 
 
 ---
 
-### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen
+### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung  teilgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 18. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 30:** Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen  Schulung teilgenommen
+**XML-Code 30:** Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen  Schulung teilgenommen
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
 \| Ja |
 \| Nein |
 
-**Tabelle 17:** Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz -spezifischen Schulung  teilgenommen
+**Tabelle 17:** Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung  teilgenommen
 
 ### 6.1.9 Abschnitt „Behandlungsplanung“
 
 Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal zwei bis maximal vier Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement < und mindestens ein Kindelemente <sciphox:Ergebnistext>.
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal zwei bis maximal vier Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelemente <sciphox:Ergebnistext>.
 
-Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-### -spezifischen Schulung
-
-*V*-Attribut die Feldbezeichnung
-
-sciphox:Parameter>
-
-<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> -spezifischen Schulung |  |  |
+|  |  |
 |---|---|
 
 
@@ -950,7 +920,7 @@ sciphox:Parameter>
 \| <content>       <sciphox:Beobachtungen>                                       </content> |
 \|---|
 
-**XML-Code 31:** content (Behandlungsplanung )
+**XML-Code 31:** content (Behandlungsplanung)
 
 ### 6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
@@ -973,9 +943,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.9.2 Dokumentationsintervall
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 19
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 19
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote <sciphox:Ergebnistext V="Körperliches Training “/> der Krankenkasse "/>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/>*V*-Attribut die Feldbezeichnung
 
 |  |  |
 |---|---|
@@ -993,16 +965,18 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 \| Quartalsweise |
 \| Jedes zweite Quartal |
 
-**Tabelle 19:** Werte bei Ergebnistext ( Dokumentationsintervall)
+**Tabelle 19:** Werte bei Ergebnistext (Dokumentationsintervall)
 
 ### Regelmäßiges körperliches Training
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
+
+*V*-Attribut die Feldbezeichnung
 
 **XML-Code 34:** Regelmäßiges körperliches Training
 
@@ -1012,18 +986,20 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 \| Nicht möglich |
 
-**Tabelle 20:** Werte bei Ergebnistext ( Regelmäßiges körperliches Training
+**Tabelle 20:** Werte bei Ergebnistext (Regelmäßiges körperliches Training)
 
 ### Führen eines Gewichtsprotokolls
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training "/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/> **XML-Code 35:** Führen eines Gewichtsprotokolls
+**XML-Code 35:** Führen eines Gewichtsprotokolls
+
+<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/> *V*-Attribut die Feldbezeichnung
 
 |  |  |
 |---|---|
@@ -1037,7 +1013,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 \| Nicht erforderlich |
 
-**Tabelle 21:** Werte bei Ergebnistext ( Führen eines Gewichtsprotokolls
+**Tabelle 21:** Werte bei Ergebnistext (Führen eines Gewichtsprotokolls)
 
 |  |  |
 |---|---|
@@ -1047,17 +1023,17 @@ Als Beispiel sei hier folgender Code angegeben:
 
 # 7 BODY DER VERLAUFSDOKUMENTATION
 
-Der body der Verlaufsdokumentation enthält die gleichen Abschnitte  „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten. Ergänzend kommt der Abschnitt „Relevante Ereignisse“ hinzu. Parameter für die Verlaufsdokumentation erläutert.
+Der body der Verlaufsdokumentation enthält die gleichen Abschnitte und fast alle Parameter wie die  „erstmalige Dokumentation“ sowie zusätzliche Parameter, die nur für die Verlaufsdokumentationen gelten.  Ergänzend kommt der Abschnitt „Relevante Ereignisse“ hinzu. In diesem Kapitel werden nur die speziellen  Parameter für die Verlaufsdokumentation erläutert.
 
 ## 7.1 SEKTION (SECTION)
 
-Das <section>-Element hat die gleiche Struktur wie in der „erstmaligen Dokumentation“, siehe Kapitel
+Das <section>-Element hat die gleiche Struktur wie in der „erstmaligen Dokumentation“, siehe Kapitel 6.1
 
 ### 7.1.1 Abschnitt „Relevante Ereignisse“
 
 Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse“.
 
-Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement < <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> oder <
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext> oder <sciphox:Ergebniswert>.
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -1068,7 +1044,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ### Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  Behandlungen“ und im *U* Attribut den fest vorgeschriebenen Wert „Anzahl“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Anzahl der  Behandlungen“ und im *U* Attribut den fest vorgeschriebenen Wert „Anzahl“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1077,13 +1053,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 37:** Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten  Dokumentation
 
-und fast alle Parameter wie die   In diesem Kapitel werden nur die speziellen 6.1
-
-sciphox:Beobachtungen>. Das Element
-
-sciphox:Ergebniswert>.
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U Anzahl “/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN=" Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation <sciphox:Ergebniswert V="1" U Anzahl “/> "/> *V* Attribut die „Anzahl der
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U Anzahl “/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN=" Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation "/> <sciphox:Ergebniswert V="1" U Anzahl “/>
 
 |  |  |
 |---|---|
@@ -1122,7 +1092,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| War aktuell nicht möglich |
 \| Bei letzter Dokumentation keine Schulung empfohlen |
 
-**Tabelle 22:** Werte bei Ergebnistext ( Empfohlene Herzinsuffizienz-spezifische Schulung  wahrgenommen)
+**Tabelle 22:** Werte bei Ergebnistext (Empfohlene Herzinsuffizienz-spezifische Schulung  wahrgenommen)
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Herzinsuffizienz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
 |---|---|

@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 12. OKTOBER 2023   VERSION: 1.12   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. OKTOBER 2023   VERSION: 1.12   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET  ARZNEIMITTELVERORDNUNG
@@ -62,34 +62,34 @@ Zusammenhang mit der Rezertifizierung Geburtsdatums von Patientin Leonie Gonzale
 
 # 1 ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den Rahmen der Zertifizierung und  ist zu beachten.
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Arzneimittelverordnung (AMV). Die Zertifizierungsrichtlinie der  KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den Rahmen der Zertifizierung und  ist zu beachten.
 
-Des Weiteren können dem Antrag auf Zertifizierung AMV neben Zertifizierungskosten und Laufzeit der  Zulassung weitere wichtige Informationen entnommen werden, die nicht sind.
+Des Weiteren können dem Antrag auf Zertifizierung AMV neben Zertifizierungskosten und Laufzeit der  Zulassung weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes  sind.
 
 ## 1.1 RECHTSGRUNDLAGE
 
-Vertragsärzte sollen für die Verordnung von Arzneimittel in die Lage versetzt werden, die durch das GKV Versorgungsstärkungsgesetz im § 73 SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
+Vertragsärzte sollen für die Verordnung von Arzneimittel in die Lage versetzt werden, die durch das GKV-Versorgungsstärkungsgesetz im § 73 SGB V festgeschriebenen gesetzlichen Regelungen zu erfüllen.
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsporta Sichtprüfung. Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung  und keine Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur  Verfügung gestellt.
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Sichtprüfung. Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung  und keine Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur  Verfügung gestellt.
 
-Die Zertifizierung erfolgt ggfs. zweigeteilt mit Unterstützung des Zertifizierungsportals der KBV
+Die Zertifizierung erfolgt ggfs. zweigeteilt mit Unterstützung des Zertifizierungsportals der KBV.
 
-Für eine **AMV-Neuzertifizierung** sind die folgenden zwei Prüfvorgänge im Zertifizierungsportal zu  und durchzuführen.
+Für eine **AMV-Neuzertifizierung** sind die folgenden zwei Prüfvorgänge im Zertifizierungsportal zu initiieren  und durchzuführen.
 
 - 1. AMV-Sichtprüfung (im Rahmen einer Sichtprüfung)
 - 2. AMV-eRezept (im Rahmen einer Ergebnisprüfung)
 
-Beiden Prüfvorgängen muss derselbe Antrag auf Zertifizierung
+Beiden Prüfvorgängen muss derselbe Antrag auf Zertifizierung AMV zugeordnet sein.
 
-Für die Vergabe einer Prüfnummer AMV müssen beide Prüfvorgänge erfolgreich abges
+Für die Vergabe einer Prüfnummer AMV müssen beide Prüfvorgänge erfolgreich abgeschlossen werden.
 
 Für eine **AMV-Rezertifizierung** ist der folgende Prüfvorgang im Zertifizierungsportal zu initiieren und  durchzuführen.
 
 - 1. AMV-Sichtprüfung (im Rahmen einer Sichtprüfung)
 
-Für die Vergabe einer Prüfnummer AMV muss dieser Prüfvorgang erfolgreich
+Für die Vergabe einer Prüfnummer AMV muss dieser Prüfvorgang erfolgreich abgeschlossen werden.
 
 - 2. AMV-eRezept (im Rahmen einer Ergebnisprüfung)
 
@@ -97,36 +97,18 @@ Beiden Prüfvorgängen muss derselbe Antrag auf Zertifizierung AMV zugeordnet se
 
 Für die Vergabe einer Prüfnummer AMV müssen beide Prüfvorgänge erfolgreich abgeschlossen werden.
 
-(AMV). Die Zertifizierungsrichtlinie der
-
-Bestandteil dieses Prüfpaketes
-
-ls der KBV im Rahmen einer
-
-AMV zugeordnet sein.
-
-abgeschlossen werden.
-
-Zertifizierung eines
-
-initiieren
-
-chlossen werden.
-
-
 ---
 
-Im Folgenden wird der Zertifizierungsablauf im Fall einer Neuzertifizierung/ Rezertifizierung beschrieben.  Bei einer AMV-Rezertifizierung ist der Prüfvorgang „AMV eRezept“ nicht zu durchlaufen und  entsprechende Querverweise im Ablauf nicht zu berücksichtigen. Dabei ist folgendes Vorgehen  einzuhalten.:
-
 - 1. Der Antragsteller muss im Zertifizierungsportal die entsprechenden Prüfvorgänge „AMV Sichtprüfung“  und „AMV eRezept“ initiieren. Nach Einleitung eines Prüfvorganges wird im Zertifizierungsportal der  Antrag auf Zertifizierung AMV mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt.  Dieser muss jeweils pro Prüfvorgang vollständig ausgefüllt und unterschrieben als pdf-Dokument  eingescannt über das Zertifizierungsportal bei der KBV eingereicht werden.
-
-Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung AMV eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach](mailto:pruefstelle@kbv.de) [Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung AMV hochladen.
-
 - 2. Sobald der Eingang des Antrags auf Zertifizierung AMV durch einen Mitarbeiter der Prüfstelle / des  Referats Zertifizierung bestätigt wurde, ist im Zertifizierungsportal ein Termin für die Sichtprüfung  (Prüfvorgang AMV-Sichtprüfung ) durch den Softwareverantwortlichen zu vereinbaren bzw. kann mit  der Bearbeitung des Prüfvorgangs AMV-eRezept begonnen werden.
 - 3. Für den Prüfvorgang AMV-Sichtprüfung ist das System entsprechend der Vorgaben des Kapitels 2  vorzubereiten. Vorgaben für den Prüfvorgang AMV-eRezept entnehmen Sie bitte dem Prüfpaket  eRezept [KBV_ITA_AHEX_Pruefpaket_eRP].
 - 4. Im Rahmen der AMV-Sichtprüfung und der AMV-eRezept- Ergebnisprüfung erfolgt die Kontrolle der  Einhaltung der Anforderungen durch die KBV.
 - 5. Werden bei der Prüfung Fehler festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert,  eine Korrekturlieferung im Zertifizierungsportal hochzuladen (s. Kapitel 1.5 bzw. Prüfpaket eRezept). Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur erneuten Sichtprüfung  auffordern.
 - 6. Erst nach einem fehlerfreien Prüflauf von beiden Prüfvorgängen kann dem Zertifizierungsgegenstand  AMV die entsprechende Zulassung ausgesprochen werden.
+
+Im Folgenden wird der Zertifizierungsablauf im Fall einer Neuzertifizierung/ Rezertifizierung beschrieben.  Bei einer AMV-Rezertifizierung ist der Prüfvorgang „AMV eRezept“ nicht zu durchlaufen und  entsprechende Querverweise im Ablauf nicht zu berücksichtigen. Dabei ist folgendes Vorgehen  einzuhalten.:
+
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung AMV eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach](mailto:pruefstelle@kbv.de) [Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung AMV hochladen.
 
 **HINWEIS**
 
@@ -140,7 +122,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierun
 
 [Die Zugangsdaten können direkt über das Portal oder beim Referat Zertifizierung (](https://zertifizierungsportal2.kbv.de/)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) [unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert](mailto:pruefstelle@kbv.de) werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-Der Zertifizierungsprozess beginnt, sobald Sie eines der beiden Zertifizierungsthemen initiiert und den  Antrag auf Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten  der Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert
+Der Zertifizierungsprozess beginnt, sobald Sie eines der beiden Zertifizierungsthemen initiiert und den  Antrag auf Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten  der Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
@@ -162,7 +144,7 @@ Für eine reibungslose Durchführung der AMV-Sichtprüfung müssen einige Rahmen
 
 Systemseitig müssen die folgenden Einstellungen am Zertifizierungsgegenstand vorgenommen sein bzw.  ermöglicht werden:
 
--  Bei Prüfungsbeginn müssen die Arzneimitteldaten vom 1. oder 15. des Monats mit einem Abstand  von 14 Tagen zum Sichtprüfungstermin vorhanden sein (z.B. ist bei einer Sichtprüfung am 18. 06.2018  der Arzneimitteldatenstand vom 01.06.2018 vorzuhalten).
+-  Bei Prüfungsbeginn müssen die Arzneimitteldaten vom 1. oder 15. des Monats mit einem Abstand  von 14 Tagen zum Sichtprüfungstermin vorhanden sein (z.B. ist bei einer Sichtprüfung am 18.06.2018  der Arzneimitteldatenstand vom 01.06.2018 vorzuhalten).
 -  In der Prüfung wird ein Update der Arzneimitteldaten auf den aktuellen Datenstand vom 1. oder 15.  des aktuellen Monats durchgeführt (z.B. ist bei einer Sichtprüfung am 18.06.2018 der  Arzneimitteldatenstand vom 15.06.2018 einzupflegen). Das Update soll so durchgeführt werden, wie  es die Anwender Ihrer Verordnungssoftware vorzunehmen haben.
 -  Es müssen die Stammdaten der Praxen und die Patientendaten aus Kapitel 2.1 eingepflegt sein.
 -  Für den Rezeptdruck und den Druck der Medikationspläne wird ein PDF-Drucker benötigt.
@@ -219,7 +201,8 @@ Tabelle 3: Liste der anzulegenden Patienten
 
 Alle in Tabelle 3 nicht vorgegebenen Werte sind beliebig.
 
-23.05.1984 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 18.09.2009 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 31.12.2010 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693
+23.05.1984 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 18.09.2009 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 31.12.2010 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 
+
 
 ---
 
@@ -229,11 +212,11 @@ Alle in Tabelle 3 nicht vorgegebenen Werte sind beliebig.
 |---|---|
 | **Referenz** | **Dokument** |
 | **KBV_ITA_RLEX_Zert** | Zertifizierungsrichtlinie der KBV |
-| **EXT_ITA_VGEX_Anforderungskatalog_AVWG** | Anforderungskatalog nach § 73 SGB V  für Verordnungssoftware/Arzneimitteldatenb |
-| **EXT_ITA_VGEX_BMP_Anlage3** | Spezifikation für einen bundeseinheitlichen Medikationsplan (BMP) gemäß § 31a SGB V |
+| **EXT_ITA_VGEX_Anforderungskatalog_AVWG** | Anforderungskatalog nach § 73 SGB V  für Verordnungssoftware/Arzneimitteldatenbanken |
+| **EXT_ITA_VGEX_BMP_Anlage3** | Spezifikation für einen bundeseinheitlichen  Medikationsplan (BMP) gemäß § 31a SGB V |
 | **KBV_ITA_FMEX_AAZ_AVWG** | Antrag auf Zertifizierung Verordnung von |
 | **KBV_ITA_AHEX_AVWG_FAQ** | Fragen und Antworten zum Anforderungskatalog |
-| **KBV_ITA_AHEX_BMP_FAQs_PVS** | Handlungsempfehlungen für Hersteller von BMP |
+| **KBV_ITA_AHEX_BMP_FAQs_PVS** | Handlungsempfehlungen für Hersteller von BMP- |
 | **KBV_ITA_AHEX_Pruefpaket_eRP** | Prüfpaket eRezept |
 
 **Kontakt:**
@@ -244,4 +227,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-anken  Arzneimitteln Software
+Arzneimitteln Software

@@ -169,17 +169,17 @@ Festformat).
 
 '80' 2-28 KrankenKassenName
 
-'81' 7 KrankenKassenNummer 1)
+'81' 7 KrankenKassenNummer
 
-'8F' 5 VKNR bzw. WOP-Kennzeichen N
+'8F' 5 VKNR bzw. WOP-Kennzeichen1) N
 
-'82' 6-12 VersichertenNummer 1)
+'82' 6-12 VersichertenNummer
 
-'83' 4 VersichertenStatus N 1)
+'83' 4 VersichertenStatus1) N
 
-'90' 1 StatusErgänzung / DMP-Kennzeichnung 2)
-
-'84' 2-15 Titel (mehrere Titel sind durch Blank getrennt)
+| '90' | 1 | StatusErgänzung1) / DMP-Kennzeichnung |  |  | AN |  |
+|---|---|---|---|---|---|---|
+| '84' | 2-15 | Titel2) (mehrere Titel sind durch Blank getrennt) | O |  |  |  |
 
 VorName2) (mehrere Vornamen sind durch Bindestrich oder Blank  '85' 1-28  getrennt)  NamensZuatz/VorsatzWort2) (mehrere Namenszusätze sind durch  '86' 1-15  Blank getrennt)  '87' 2-28 FamilienName  '88' 8 GeburtsDatum (TTMMJJJJ)
 
@@ -187,9 +187,7 @@ VorName2) (mehrere Vornamen sind durch Bindestrich oder Blank  '85' 1-28  getren
 |---|---|---|---|---|---|---|
 | '8A' | 1-3 | WohnsitzLänderCode3) (Datenobjekt entfällt bei Defaultwert = D) | O |  |  |  |
 
-3)
-
-'8B' 4-7 Postleitzahl N
+'8B' 4-7 Postleitzahl3) N
 
 '8C' 2-22
 
@@ -211,17 +209,13 @@ N
 
 N
 
-AN
-
-O AN
-
 O AN
 
 O AN
 
 AN  N
 
-tag length Daten- typ '8A' 1-3 WohnsitzLänderCode AN AN '8D' 4 GültigkeitsDatum (MMJJ)  N AN  AN
+tag length Daten- typ '90' 1 StatusErgänzung '84' 2-15 Titel '8A' 1-3 WohnsitzLänderCode AN AN '8D' 4 GültigkeitsDatum (MMJJ)  N AN  AN
 
 
 ---
@@ -301,7 +295,11 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 Zeichen Bezeichnung
 
-' Apostroph  ) Klammer zu  - Bindestrich  / Schrägstrich
+' Apostroph
+
+) Klammer zu  - Bindestrich
+
+/ Schrägstrich
 
 **1.4 Gesamtliste der im Rahmen von DIN 66003 zulässigen Zeichen**
 
@@ -496,21 +494,15 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 **2.1.1.1 Fehlerfreie Übertragung**  Die Karten-Terminal-Steuerungs-Kommandos und die Anwendungs-Kommandos sowie  deren zugehörige Antworten werden im sog. I-Block (Information-Block) übertragen  (siehe Abb. 2).
 
-**I-Block**
+| Host | I-Block |  |
+|---|---|---|
+|  |  | **Card-Terminal** |
+| **(PC oder** |  |  |
+| **Workstation)** | **I-Block** |  |
 
 **Fehlerfreie**
 
-**Host**
-
-**Card-Terminal**
-
 **Übertragung**
-
-**(PC oder**
-
-**I-Block**
-
-**Workstation)**
 
 **Abbildung 2: Tabelle 7: Kommandos KVK**
 
@@ -704,6 +696,8 @@ Header (4 bytes) and body (mandatory*) (optional)
 
 CLA INS P1 P2 L
 
+Data
+
 Response (rsp):
 
 CLA = Class  INS = Instruction  P1, P2  L
@@ -724,8 +718,6 @@ b) L = Lc: Le not send, because known  = Status byte 1 (cmd processing status)  
 **Tabelle 6: Kommandos KVK**
 
 Die Struktur der 'CardTerminal Control Commands' ist identisch mit der Struktur der  'Interindustry Commands'. Das CLA-Byte (Class-Byte) ist daher entsprechend  ISO 7816-4 codiert:  '20' = Command message structure according to ISO 7816-4
-
-Data
 
 Trailer  (mandatory)
 
@@ -813,11 +805,13 @@ Status Bytes:  '9000' = synchronous ICC presented,  reset successful  '6200' = W
 
 Das Kommando steuert die Kontaktiereinheit und ggf. vorhandene Signalgeber. Der Timer T  ist auf '01' (=1 Sekunde) zu setzen. Im L-Byte ist dann ebenfalls '01' (Length = 1 Byte)  anzugeben. Gesetzte Indikatoren (LEDs und/oder akustisches Signal) werden nach  Herausnahme der Karte bzw. nach Ablauf des Application Timers, wenn die Karte nicht  entnommen wurde, gelöscht.
 
-**Command:**  Lc  CLA INS P1 P2  '20' '15' 'FU' 'CQ' Lc
+**Command:**  Lc  CLA INS P1  '20' '15' 'FU' 'CQ' Lc
 
 ```
 EJECT ICC
 ```
+
+P2
 
 **Response:**
 
@@ -900,7 +894,7 @@ READ BINARY
 
 a) Lesen des VD-Templates mit einem einzigen READ BINARY-Kommando
 
-Als Offset ist im READ BINARY-Kommando  Adresse '0000' (= Anfangsadresse der Anwendungsdaten, beginnend mit dem Tag '60')  gelesen werden. Als Länge ist '00' anzugeben, d.h. es soll der komplette zur Anwendung  gehörende Datenbereich, also das gesamte VD-Template, beginnend mit Tag '60' und  endend mit dem XOR-Prüfbyte des ASN.1-Elements 'Prüfsumme', gelesen werden. Die  Länge des VD-Templates und damit das logische Ende (EOF) des zur Anwendung  gehörenden Datenbereichs ergibt sich aus dem Längenbyte nach Tag '60'. Das  VersichertenDatenTemplate wird in einem Block übertragen, falls die Informationsfeldgröße  ausreichend ist (ansonsten in geketteten Blöcken), und mit den Status-Bytes '6282'  abgeschlossen.
+Als Offset ist im READ BINARY-Kommando '0000' anzugeben, d.h. es soll ab logischer  Adresse '0000' (= Anfangsadresse der Anwendungsdaten, beginnend mit dem Tag '60')  gelesen werden. Als Länge ist '00' anzugeben, d.h. es soll der komplette zur Anwendung  gehörende Datenbereich, also das gesamte VD-Template, beginnend mit Tag '60' und  endend mit dem XOR-Prüfbyte des ASN.1-Elements 'Prüfsumme', gelesen werden. Die  Länge des VD-Templates und damit das logische Ende (EOF) des zur Anwendung  gehörenden Datenbereichs ergibt sich aus dem Längenbyte nach Tag '60'. Das  VersichertenDatenTemplate wird in einem Block übertragen, falls die Informationsfeldgröße  ausreichend ist (ansonsten in geketteten Blöcken), und mit den Status-Bytes '6282'  abgeschlossen.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
@@ -911,11 +905,7 @@ Offset ('0000' = Logical start  address of the file)
 
 **SW2**
 
-```
-Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
-```
-
-CLA INS P1 '00' 'BO' 'xx' '0000' anzugeben, d.h. es soll ab logischer
+CLA INS P1 '00' 'BO' 'xx' Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
 
 
 ---
@@ -939,13 +929,19 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 **1. REQUEST ICC**
 
+**Chipkarte anfordern**
+
 **2. SELECT FILE**
+
+**KVK-Anwendung selektieren**
 
 **3. READ BINARY**
 
 **KrankenVersichertenDatenTemplate lesen (der**  **Befehl wird ggf. mehrfach mit Fortschaltung des**  **Lesebereichs gegeben)**
 
-**4. EJECT ICC**    Dieser Kommando-Zyklus wird dann jeweils nach Bedarf wiederholt. Das  RESET CT-Kommando wird nur dann gegeben, wenn  Karten-Terminal auf Anwendungsebene eine Situation eingestellt hat, die ein  RESET CT-Kommando erfordert.
+**4. EJECT ICC**
+
+**Chipkarte auswerten**   Dieser Kommando-Zyklus wird dann jeweils nach Bedarf wiederholt. Das  RESET CT-Kommando wird nur dann gegeben, wenn sich bei der Kommunikation mit dem  Karten-Terminal auf Anwendungsebene eine Situation eingestellt hat, die ein  RESET CT-Kommando erfordert.
 
 Weiterhin gelten folgende Hinweise:
 
@@ -970,12 +966,6 @@ Der PC sendet bis zum Ablauf einer Default-Wartezeit von 60 Sekunden (diese Zeit
 **5. Sonstiger Kommunikationsfehler (z.B. Ablauf der BWT ohne Antwort)**   Bei Abbruch-Bedingung 2) bis 5) folgt der weiter oben geschilderte RESYNCH - und RESET  CT -Zyklus.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
-
-**Chipkarte anfordern**  **KVK-Anwendung selektieren**
-
-**Chipkarte auswerten**
-
-sich bei der Kommunikation mit dem
 
 
 ---

@@ -7,7 +7,11 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  21. APRIL 2021   VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# SCHNITTSTELLENBESCHREIBUNG SDVA  (VERSCHLÜSSELUNGSANLEITUNG- STAMMDATEI)
+# SCHNITTSTELLENBESCHREIBUNG SDVA
+
+**(VERSCHLÜSSELUNGSANLEITUNG-**
+
+# STAMMDATEI)
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDVA]
 
@@ -441,7 +445,7 @@ xmlns="urn:ehd/sdva/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" e
 
 # 4 HEADER (METADATEN)
 
-Für die Beschreibung der Inhalte und deren Ausprägungen der header -Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung verwiesen.
+Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils  aktuelle Version der ehd-Schnittstellenbeschreibung verwiesen.
 
 # 5 BODY (INHALTSDATEN)
 

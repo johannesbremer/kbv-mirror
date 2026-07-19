@@ -4,12 +4,11 @@
 
 **Versicherten-Nr.**
 
-**III. Krankenbehandlung und andere Maßnahmen**
-**A. Bisherige ärztliche/psychotherapeutische Interventionen einschließlich Arzneimittel-/Heilmitteltherapie**
+**III. Krankenbehandlung und andere Maßnahmen** **A. Bisherige ärztliche/psychotherapeutische Interventionen einschließlich Arzneimittel-/Heilmitteltherapie**
 
 **Heilmittel zur Erreichung des Behandlungsziels nicht ausreichend / nicht zielführend**
 
-**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/*** ***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigener Regie)***
+**B. Bisherige andere Maßnahmen***** (z. B. Patientenschulungen, Rehabilitationssport/Funktionstraining, Wahrnehmung von Beratungs- und*** ***Selbsthilfeangeboten, Angaben zu Maßnahmen in eigener Regie)***
 
 **IV. Vorsorgeziele** **Vorsorgeziele in Bezug auf die genannten Gesundheitsstörungen/Erkrankungen, Kontext- und Risikofaktoren**
 
@@ -21,19 +20,15 @@
 
 **1.**
 
-**Väter-Leistung**
-
-**Geburtsdatum**
-
 **2.**
 
-**3.** ***Das "Ärztliche Attest Kind" (Muster 65) nur ausfüll*** ***Auffälligkeiten des Kindes (ggf. durch den behandel***
+**3.** ***Das "Ärztliche Attest Kind" (Muster 65) nur ausfüllen bei Behandlungsbedürftigkeit, chronischer Erkrankung, Behinderung oder bei psychischen*** ***Auffälligkeiten des Kindes (ggf. durch den behandelnden Kinderarzt)***
 
 **VI. Sonstige Angaben**
 
-***(z.B. Klima, Barrierefreiheit, Allergenarmut, besondere Kostformen, fremdsprachliche Angebote,***
+**Anforderungen an die EinrichtungA.**
 
-**A. Anforderungen an die Einrichtung** ***spezialisierte Therapieangebote, konfessionelle Aus***
+***spezialisierte Therapieangebote, konfessionelle Ausrichtung, Einrichtung nur für Frauen, Hinweise für mitaufzunehmende Kinder)***
 
 **ja, folgende**
 
@@ -41,13 +36,13 @@
 
 **ja, Erläuterung**
 
-**C. Sonstiges***** (z. B. besondere Hinweise zur Reisefähigkeit, ggf.***
+**C. Sonstiges***** (z. B. besondere Hinweise zur Reisefähigkeit, ggf. vorliegende Schwangerschaft)***
 
-***en bei Behandlungsbedürftigkeit, chronischer Erkran*** ***nden Kinderarzt)***
+**Väter-Leistung**
 
-***richtung, Einrichtung nur für Frauen, Hinweise für***
+**Geburtsdatum**
 
-***vorliegende Schwangerschaft)***
+***(z.B. Klima, Barrierefreiheit, Allergenarmut, besondere Kostformen, fremdsprachliche Angebote,***
 
 **D. Rückruf erbeten unter Telefon-Nummer**
 
@@ -59,32 +54,22 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-***Funktionstraining, Wahrnehmung von Beratungs- und***
+**64 Teil B**
 
 **Mutter-Kind-Leistung**
 
-**s. Attest Kind**  **insbes. bei** **Behandlungs-**
+**Vater-Kind-Leistung**
+
+**s. Attest Kind** **Belastete** **Psychosoziale** **Gründe/**
+
+**insbes. bei Mutter-/** **Behandlungs-**
 
 **Betreuung**
 
-**Vater-Kind-** **Beziehung**
+**Vater-Kind-** **Beziehung** **notwendig**
 
 **notwendigkeit***
-
-***kung, Behinderung oder bei psychischen***
-
-***mitaufzunehmende Kinder)***
 
 **Ausstellungsdatum**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
-
-**64 Teil B**
-
-**Vater-Kind-Leistung**
-
-**Belastete** **Psychosoziale** **Gründe/**
-
-**Mutter-/**
-
-**notwendig**

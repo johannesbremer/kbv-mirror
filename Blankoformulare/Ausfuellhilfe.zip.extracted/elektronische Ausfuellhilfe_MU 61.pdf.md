@@ -22,7 +22,7 @@ Wenn für die Diagnosen eine der rechts auf dem Vordruck aufgeführten Ursachen 
 
 - **3.** **Beratung der/des Versicherten**
 
-Wenn zunächst eine Beratung zum Thema Rehabilitation sowie zu weiteren Leistungen durch die Kranken-kasse sinnvoll erscheint, kann dies hier angegeben werden
+Wenn zunächst eine Beratung zum Thema Rehabilitation sowie zu weiteren Leistungen durch die Kranken-kasse sinnvoll erscheint, kann dies hier angegeben werden.
 
 - **4.** **Prüfung des zuständigen Rehabilitationsträgers**
 

@@ -4,14 +4,16 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  31. MÄRZ 2026   VERSION: 1.00   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# PRÜFPAKET EDMP- ADIPOSITAS -  ERWACHSENE
+**PRÜFPAKET EDMP- ADIPOSITAS -**
+
+# ERWACHSENE
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_ADIPOSITAS_ERWACHSENE]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
+KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -107,7 +109,7 @@ Die Regelungen zur Zertifizierung werden auf Landesebene zwischen den Kassenärz
 
 ## 1.2 ZERTIFIZIERUNGSABLAUF
 
-Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten :
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten:
 
 - 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
 
@@ -117,9 +119,10 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
+Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
 #### HINWEIS
 
-Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
 ---
 
@@ -129,7 +132,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -145,7 +148,7 @@ Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/)[ITA-Update](https://update.kbv.de/)[bereit. In diesem](https://update.kbv.de/) Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte [Dokumente](https://update.kbv.de/)
+[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/)[ITA-Update](https://update.kbv.de/)[bereit. In diesem](https://update.kbv.de/) Zusammenhang berücksichtigen Sie bitte das Kapitel [Referenzierte Dokumente](https://update.kbv.de/)
 
 ## 1.5 PRÜFUNTERLAGEN
 
@@ -213,7 +216,7 @@ Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
 
 ## 1.6 PRÜFVORGABEN
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 ### 1.6.1 Schnittstellenversionen
 
@@ -225,7 +228,7 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 - **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024** **Ausnahme**
 - Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
 
-**Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum
+**Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum.
 
 - **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
 - **Datumseingaben in den Nachlieferungen bzw. Korrekturlieferungen:** Alle Datumsangaben aus der  Erstlieferung bleiben unverändert.
@@ -263,7 +266,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 ### 1.6.6 Krankenhausdaten
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen -tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken -haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu -reichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen-tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr  Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den  Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt  hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken-haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu-reichen.
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -343,8 +346,8 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 |  | Adipositas-Schulung wahrgenommen |  |
 |  |  |  |
 |  | Manifester Diabetes mellitus Typ 2 |  |
-|  | Beendigung der DMP |  |
-|  |  | **INDIKATIONSPEZIFISCHE** |
+|  | Beendigung der DMP-Teilnahme |  |
+|  |  | **INDIKATIONSPEZIFISCHE DATEN** |
 |  | | |
 |  |  |  |
 |  |  |  |
@@ -356,7 +359,7 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 |  |  |  |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-| INDIKATIONSPEZIFISCHE | | |
+Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Erstdokumentation Ziele vereinbart Ja Nein Ziele vereinbart  Ja Nein Ja Ja Folgedokumentation Keine Ziele vereinbart  oder überprüft Nein Ja Keine Ziele vereinbart oder überprüft Nein Nein Nein Ja Nein | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Folgedokumentation** |
 | **Therapeutische Maßnahmen** | | |
@@ -374,9 +377,8 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Adipositas-Schulung wahrgenommen |  | Ja |
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 |  |  |
-| Beendigung der DMP |  | Nein |
+| Beendigung der DMP-Teilnahme |  | Nein |
 
-DATEN Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Dokumentation) Relevante Ereignisse seit der letzten Dokumentation -Teilnahme Erstdokumentation Ziele vereinbart Ja Nein Ziele vereinbart  Ja Nein Ja Ja Folgedokumentation Keine Ziele vereinbart  oder überprüft Nein Ja Keine Ziele vereinbart oder überprüft Nein Nein Nein Ja Nein
 
 ---
 
@@ -394,7 +396,7 @@ DATEN Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsak
 
 - **1.** **Versichertendaten**
 
-Die Versichertendaten von **Peter Pan (XML_13)** einlesen und speichern.
+Die Versichertendaten von **Peter Pan (XML_13)**
 
 Daten“).
 
@@ -419,7 +421,7 @@ Daten“).
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen Erwachsene Erwachsene Informationsangebote der Krankenkasse 
+Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen Informationsangebote der Krankenkasse Erwachsene Erwachsene einlesen und speichern.
 
 
 ---
@@ -442,9 +444,9 @@ Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dok
 | Adipositas-Schulung wahrgenommen |  | Ja |
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 |  | Ja |
-| Beendigung der DMP |  | Nein |
+| Beendigung der DMP-Teilnahme |  | Nein |
 
-Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem Training seit Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung teilgenommen Dokumentation) -Teilnahme überprüft überprüft 
+Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem Training seit Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung teilgenommen Dokumentation) überprüft überprüft 
 
 
 ---
@@ -458,7 +460,7 @@ Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem
 | DMP-Fallnummer | 1114 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
+| Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 | Einschreibung wegen | Adipositas - Erwachsene |  |
 | Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -484,7 +486,7 @@ Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem
 
 - **1.**
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Prüffall 1114 Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation 2) Patienten Erkrankungen - **2.**
+Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Prüffall 1114 Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation Patienten Erkrankungen - **2.**
 
 
 ---
@@ -508,7 +510,7 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 |  | | |
 | Vom Patienten gewünschte Informationsangebote |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
+| Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -525,9 +527,9 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 | Adipositas-Schulung empfohlen (bei aktueller | Ja |  |
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 | Nein | Nr. 6 |
-| Beendigung der DMP | Ja | Nr. 7 |
+| Beendigung der DMP-Teilnahme | Ja | Nr. 7 |
 
-der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Nr. 2 Regelmäßige körperliche Alltagsaktivität Ziele vereinbart  Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Nr. 3 Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Keto Nr. 4 Prädiabetes bei Einschreibung Unbekannt Nr. 5 Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Nr. 6 Nr. 7 Beendigung der DMP -Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann.
+der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Nr. 2 Regelmäßige körperliche Alltagsaktivität Ziele vereinbart  Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Nr. 3 Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Keto Nr. 4 Prädiabetes bei Einschreibung Unbekannt Nr. 5 Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Nr. 6 Nr. 7 Beendigung der DMP-Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann.
 
 ---
 
@@ -540,7 +542,7 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele z
 | DMP-Fallnummer | 1114 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
+| Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 | Einschreibung wegen | Adipositas - Erwachsene |  |
 | Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -552,7 +554,7 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele z
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung (siehe Kap. 1.6. | 15.mm.jjjj |  |
+| Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -569,11 +571,11 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele z
 |  | DMP-Fallnummer |  |
 |  | Krankenhaus-IK |  |
 |  | | |
-|  | Datum der Erstellung (siehe Kap. 1.6. |  |
+|  | Datum der Erstellung (siehe Kap. 1.6.2) |  |
 |  | Einschreibung wegen |  |
 |  | Geschlecht |  |
 
-2) der Krankenkasse 2) Asthma bronchiale Ernährungsberatung, und körperlichem Training und körperlichem Training seit der letzten Dokumentation
+der Krankenkasse Asthma bronchiale Ernährungsberatung,  und körperlichem Training und körperlichem Training seit der letzten Dokumentation
 
 ---
 
@@ -593,10 +595,10 @@ der Krankenkasse 2) INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele z
 | Adipositas-Schulung empfohlen (bei aktueller | Nein |  |
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 |  | Nr. 13 |
-| Beendigung der DMP | Nein |  |
+| Beendigung der DMP-Teilnahme | Nein |  |
 |  |  |  |
 
-Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schulung teilgenommen Dokumentation) -Teilnahme überprüft 
+Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schulung teilgenommen Dokumentation) überprüft 
 
 
 ---
@@ -618,13 +620,14 @@ Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schu
 \| SZENARIEN |
 \|---|
 \| **Szenario 1** |
-\| Es wird eine Folgedokumentation |
+\| Es wird eine Folgedokumentation angelegt. Zeigen Sie, wie das System die Datenübernahme aus |
 \| **Szenario 2** |
 \| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
 \| **Szenario 3** |
 \| Es wird eine weitere Folgedokumentation für den Patienten aus Prüffall 1114 angelegt, welche **1. 2. 3. 4.** Mit diesem Szenario soll die korrekte Umsetzung der |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Video Dieser Testfall ist unterteilt in  drei Szenarien s die Eingaben einschließlich der Ergebnisse  angelegt. Zeigen Sie, wie das System die Datenübernahme aus einer vorherigen Dokumentation, gemäß Anforderung P1 KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht. KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden. zeitlich nach den bestehenden Dokumentationen liegt. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden. -50  (siehe Anforderung KP1 -24  (siehe Anforderung KP2 -510  (siehe
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse Dieser Testfall ist unterteilt in drei Szenarien einer vorherigen Dokumentation, gemäß Anforderung P1-50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht.  Anforderung KP1-24  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden.  zeitlich nach den bestehenden Dokumentationen liegt. Bei dem Parameter „Körpergewicht“ wird die Angabe „210“ gemacht. Zeigen Sie die Ändern Sie das Körpergewicht auf den Wert „220“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „190“ und zeigen Sie die Systemreaktion. Ändern Sie das Körpergewicht auf den Wert „200“ und zeigen Sie die Systemreaktion. Anforderung KP2-510  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft werden. 
+
 
 ---
 
@@ -636,7 +639,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumenti
 | **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges  KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | PDF-Datei „TE_EWE_ADERW.pdf“ der indikationsübergreifenden |
-| **Hinweis** | Falls Ihr System die optionale Anforderung O |
+| **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -653,20 +656,20 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1112 |
 | Datum | 15.10.2026 |
 
-eDMP ( Teilnahme- und Einwilligungserklärung  Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der indikationsübergreifenden Teilnahme - und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken.
+eDMP ( Teilnahme- und Einwilligungserklärung  auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
 
 ---
 
 # TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP des Archivs mit „**Test**_111“ beginnen muss, sonst schlägt die Validierung fehl.
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_111“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Name
 
@@ -679,12 +682,6 @@ Name
 391234511_20261031101010_1_ADERW_100.idx.XKM XKM-Datei
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
-
--Dokumentation das Ergebnis ist, können
-
-findet nicht statt,
-
--Archives. Beachten Sie, dass der Dateinamen
 
 Typ
 
@@ -734,25 +731,25 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_VGEX_Anforderungskatalog_eDMP | Anforderungskatalog eDMP |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_Adipositas_Erwachsene | Plausibilitätsrichtlinie zur Prüfung der |
-| KBV_ITA_VGEX_Schnittstelle_eDMP_ | Dokumentation |
+| KBV_ITA_VGEX_Schnittstelle_eDMP_Adipositas_Erwachsene | Dokumentation |
 | KBV_ITA_VGEX_Schnittstelle_eHeader | Dokumentation eHeader- |
 | XPM-Paket_ADERW | Prüfmodul eDMP Adipositas - |
 | Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
-| KBV_ITA_FMEX_AAZ_eDMP_ | Antrag auf Zertifizierung eDMP |
+| KBV_ITA_FMEX_AAZ_eDMP_ADERW | Antrag auf Zertifizierung eDMP |
 | Stammdateien | Im Rahmen der Prüfung sind die |
 | KBV-Kryptomodul (XKM) und öffentlicher Testschlüssel | KBV-Kryptomodul |
 | VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 
-4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.5 8
-
-5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.1
-
 **Ansprechpartner:**
 
-Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Schnittstellenbeschreibung eDMP Adipositas - Erwachsene Schnittstellenbeschreibung Vertragsärztlichen Versorgung Adipositas - Erwachsene regulären KBV-Stammdateien zu verwenden. (Datenannahmestellen Stammdatei) Dezernat Digitalisierung und IT
+Dezernat Digitalisierung und IT
+
+4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.58
+
+Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Schnittstellenbeschreibung eDMP Adipositas - Erwachsene Schnittstellenbeschreibung Vertragsärztlichen Versorgung Adipositas - Erwachsene regulären KBV-Stammdateien zu verwenden. (Datenannahmestellen Stammdatei) 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.1
 
 
 ---

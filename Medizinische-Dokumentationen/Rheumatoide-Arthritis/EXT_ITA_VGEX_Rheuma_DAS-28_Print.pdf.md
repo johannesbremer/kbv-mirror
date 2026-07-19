@@ -44,7 +44,7 @@ Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der link
 |---|---|---|---|
 | 14. | Kniegelenk |  |  |
 
-Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen  sein. ***Daher sind die Gelenke separat hinsichtlich der Schwellung und der Schmerzen zu beurteilen.***
+Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig geschwollen und druckschmerzhaft  sein. ***Daher sind die Gelenke separat hinsichtlich der Schwellung und der Schmerzen zu beurteilen.***
 
 , ob es **druckschmerzhaft** ist oder nicht:
 
@@ -54,7 +54,7 @@ Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nic
 
 **R L**
 
-14. Kniegelenk oder gleichzeitig geschwollen und druckschmerzhaft
+14. Kniegelenk 
 
 
 ---
@@ -65,7 +65,7 @@ Die Skala wird über eine 10 cm lange horizontale Linie mit den Begrenzungen 0 u
 
 Die VAS wird der Patientin oder dem Patienten mit folgender Instruktion vorgelegt:
 
-*„Bitte geben Sie auf dieser Skala an, wie aktiv Ihre*  *ist. Null bedeutet dabei ‚keine Krankheitsaktivität‘ und 100 ‚stärkst mögliche Krankheitsaktivität‘.“*
+*„Bitte geben Sie auf dieser Skala an, wie aktiv Ihre rheumatoide Arthritis in den letzten 7 Tagen gewesen*  *ist. Null bedeutet dabei ‚keine Krankheitsaktivität‘ und 100 ‚stärkst mögliche Krankheitsaktivität‘.“*
 
 | 0 |  | 100 |
 |---|---|---|
@@ -91,8 +91,6 @@ DAS-28-Wert = 0.56* (t28) + 0.28* (sw28) + 0.70*Ln(BSG) + 0.014*VAS
 *Legende:* t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher  Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen.
 
 **durch die Patientin oder den Patienten**
-
-*rheumatoide Arthritis in den letzten 7 Tagen gewesen*
 
 ________
 

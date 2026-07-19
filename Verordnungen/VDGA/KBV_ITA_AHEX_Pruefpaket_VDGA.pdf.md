@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 27. MÄRZ 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  27. MÄRZ 2024   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET VERORDNUNG DIGITALER  GESUNDHEITSANWENDUNGEN
@@ -49,7 +49,7 @@ INHALT
 
 **14**
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22]
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22] 
 
 
 ---
@@ -60,7 +60,7 @@ DOKUMENTENHISTORIE
 |---|---|---|---|---|---|
 | 1.5 | 27.03.2024 | KBV | Redaktionelle Korrektur der |  | 11 |
 | 1.4 | 21.02.2024 | KBV | Redaktionelle Korrektur der |  | 10 |
-| 1.3 | 19.01.2024 | KBV | Optionalisierung des Prüffalls 03 Aufnahme von Hinweisen zum |  | 12  10, 11,  12 |
+| 1.3 | 19.01.2024 | KBV | Optionalisierung des Prüffalls 03  Aufnahme von Hinweisen zum |  | 12  10, 11,  12 |
 | 1.2 | 04.12.2023 | KBV | Streichung des nicht genutzten  Redaktionelle Korrektur von  Anpassung der Reihenfolge der |  | 8  12 ff |
 | 1.1 | 12.10.2023 | KBV | Korrektur der Überschrift von |  | 12 |
 | 1.0 | 15.09.2023 | KBV | Erstellung des Prüfpaketes |  | Alle |
@@ -72,11 +72,11 @@ Beschreibung von Prüffall 02 Beschreibung von Prüffall 01 Ausdruck der Praxisd
 
 # 1 ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Verordnung von Digitalen Gesundheitsanwendungen (DiGA)
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Verordnung von Digitalen Gesundheitsanwendungen (DiGA).
 
-Die Zertifizierungsrichtlinie der KBV KBV_ITA_RLEX_Zert], welche die Rechte und Pflichten des  Antragstellers definiert, bildet den Rahmen der Zertifizierung und ist zu beachten.
+Die Zertifizierungsrichtlinie der KBV [KBV_ITA_RLEX_Zert], welche die Rechte und Pflichten des  Antragstellers definiert, bildet den Rahmen der Zertifizierung und ist zu beachten.
 
-Des Weiteren können dem Antrag auf Zertifizierung KBV_ITA_FMEX_AAZ_VDGA] neben  Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen werden, die  nicht Bestandteil dieses Prüfpaketes sind.
+Des Weiteren können dem Antrag auf Zertifizierung [KBV_ITA_FMEX_AAZ_VDGA] neben  Zertifizierungskosten und Laufzeit der Zulassung weitere wichtige Informationen entnommen werden, die  nicht Bestandteil dieses Prüfpaketes sind.
 
 ## 1.1 RECHTSGRUNDLAGE
 
@@ -87,12 +87,11 @@ Vertragsärzte sollen für die Verordnung von DiGA in die Lage versetzt werden, 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
 - 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit den der KBV  bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und  unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht  werden.
-
-Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via](mailto:pruefstelle@kbv.de)E-Mail  eingereichten Antrag auf Zertifizierung hochladen.
-
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch die Zertifizierungsstelle.
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen durch die Zertifizierungsstelle mit ein) kann dem Zertifizierungsgegenstand die  entsprechende Zulassung ausgesprochen werden.
+
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen und erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung hochladen.
 
 **HINWEIS**
 
@@ -100,13 +99,16 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 ---
 
+- Elektronisch dokumentierte ausgedruckte Verordnungen, sofern dies nach den Vorgaben möglich ist.
+- Entweder ein Video oder ein oder mehrere Screenshots, welche die Realisierung einzelner  Anforderungen an der Benutzerschnittstelle des Zertifizierungsgegenstandes zeigen.
+
 ## 1.3 ZERTIFIZIERUNGSPORTAL
 
 [Das Zertifizierungsportal ist über](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[zu erreichen.](https://zertifizierungsportal2.kbv.de/)
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung durch die Zertifizierungsstelle.
 
-Die Zugangsdaten können direkt über das Portal oder bei[der Zertifizierungsstelle (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) [unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert](mailto:pruefstelle@kbv.de) werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder bei der Zertifizierungsstelle (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de) [unter Angabe der System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert](mailto:pruefstelle@kbv.de) werden. Bitte beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt Ihnen in Form von Aufgaben (Menüpunkt: „Meine  Aufgaben“) die nächsten Arbeiten an, die von Ihnen durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird für Sie eine neue Aufgabe generiert.
 
@@ -120,16 +122,13 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 
 ## 1.4 ZERTIFIZIERUNGSDOKUMENTE
 
-[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/ita-update/Verordnungen/DiGA)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Verordnungen/DiGA) [update/Verordnungen/DiGA](https://update.kbv.de/ita-update/Verordnungen/DiGA)[bereit. In diesem Zusammenhang berücksichtigen Sie bitte das](https://update.kbv.de/ita-update/Verordnungen/DiGA)[dritte Kapitel -](https://update.kbv.de/ita-update/Verordnungen/DiGA) [Referenzierte Dokumente](https://update.kbv.de/ita-update/Verordnungen/DiGA)
+[Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/ita-update/Verordnungen/DiGA)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Verordnungen/DiGA) [update/Verordnungen/DiGA](https://update.kbv.de/ita-update/Verordnungen/DiGA)[bereit. In diesem Zusammenhang berücksichtigen Sie bitte das dritte Kapitel -](https://update.kbv.de/ita-update/Verordnungen/DiGA) [Referenzierte Dokumente](https://update.kbv.de/ita-update/Verordnungen/DiGA)
 
 ## 1.5 PRÜFUNTERLAGEN
 
-Das Prüfpaket umfasst Prüffälle zur Verordnung von DiGA in der vertragsärztlichen Versorgung
+Das Prüfpaket umfasst Prüffälle zur Verordnung von DiGA in der vertragsärztlichen Versorgung.
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
-
-- Elektronisch dokumentierte ausgedruckte Verordnungen, sofern dies nach den Vorgaben möglich ist
-- Entweder ein Video oder ein oder mehrere Screenshots, welche die Realisierung einzelner  Anforderungen an der Benutzerschnittstelle des Zertifizierungsgegenstandes zeigen.
 
 Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF-Format bereitzustellen  und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien  werden durch den Prüfer begutachtet. Es ist zu beachten, dass pro Prüffall eine PDF-Datei bereitgestellt  werden kann. Die dokumentierten Verordnungen und die geforderten Screenshots sind entsprechend der  Reihenfolge der Anweisungen des Prüffalls in der Datei zu hinterlegen, wobei jeweils die Screenshots vor  der dokumentierten Verordnung anzuordnen sind.
 
@@ -137,12 +136,6 @@ Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF-Form
 ---
 
 <PrüffallNr.>1 .pdf  z.B. **PF01.pdf**
-
-1 Nr. des Prüffalls
-
-2 Nr. der Anweisung
-
-3 Gängiges Bild- bzw. Videoformat
 
 Die geforderten Videomitschnitte müssen ebenfalls im Hauptverzeichnis übermittelt werden und sollen  folgender Namenskonvention entsprechen. Diese werden durch den Prüfer begutachtet.
 
@@ -154,10 +147,6 @@ Die Struktur des ZIP-Archives sollte folgende Form aufweisen:
 
 **HINWEIS**
 
-- EF.VD = allgemeine Versicherungsdaten
-- EF.PD = persönliche Versichertendaten
-- EF.GVD = geschützte Versichertendaten
-
 Die Gesamtheit der im Zertifizierungsverfahren bereitgestellten Prüfunterlagen darf eine maximale Größe  von 500 MB nicht überschreiten. Es wird daher empfohlen, die Videodateien in hocheffizienter Kodierung  zu erstellen.
 
 ## 1.6 PRÜFVORGABEN
@@ -168,12 +157,20 @@ Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prü
 
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten:
+
+- EF.VD = allgemeine Versicherungsdaten
+- EF.PD = persönliche Versichertendaten
+- EF.GVD = geschützte Versichertendaten 1 Nr. des Prüffalls
+
+2 Nr. der Anweisung
+
+3 Gängiges Bild- bzw. Videoformat
 
 
 ---
 
-Die Erfassung der Patientendaten  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren erfasst werden.
+Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren erfasst werden.
 
 **HINWEIS**
 
@@ -211,8 +208,6 @@ Die Verwendung einer Import-Schnittstelle ist nur für Prüfzwecke erlaubt und m
 | **Geburtsdatum** | 31.01.2010 |
 | **Versicherten_ID** | M310119802 |
 | **Straße** | Anneliese- und Georg-von-Groscurth-Plaetzchen |
-
-in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer
 
 
 ---
@@ -253,9 +248,7 @@ in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer
 
 ### 1.6.4 Produktdaten
 
-Die Software verwendet im Rahmen des Zertifizierungsverfahren die  Verzeichnisses des BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte)
-
-aktuellen Daten des DiGA-
+Die Software verwendet im Rahmen des Zertifizierungsverfahren die aktuellen Daten des DiGA-Verzeichnisses des BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte).
 
 
 ---
@@ -302,6 +295,12 @@ Das Ausstellungsdatum der Verordnungen kann jeweils so gewählt werden, dass es 
 
 ---
 
+- P2-010 Vollständigkeit und Aktualität der Daten des Produktverzeichnisses
+- dass die Werbung nicht mit Funktionen hinterlegt ist, die unmittelbar oder mittelbar zur Auswahl oder  Erfassung der Verordnungsdaten oder
+- zur Ausstellung einer Verordnung oder
+- zu einer Veränderung der Grundeinstellungen bzw. der Konfiguration der Verordnungssoftware führt.
+- die Möglichkeit besteht, angezeigte Werbefenster durch eine einzige Aktion auszuschalten.
+
 # 2 PRÜFFÄLLE
 
 **2.1** **VERORDNUNG NACH PRODUKTSUCHE**
@@ -313,9 +312,7 @@ Das Ausstellungsdatum der Verordnungen kann jeweils so gewählt werden, dass es 
 
 Dokumentieren Sie den vollständigen Anwendungsdialog zur Anzeige des Datums des Datenstands des  Produktverzeichnisses einschließlich möglicher Hinweissteuerung durch Screenshots.
 
-**Insbesondere folgende Pflichtfunktionen sind betroffen**
-
-- P2-010 Vollständigkeit und Aktualität der Daten des Produktverzeichnisses
+**Insbesondere folgende Pflichtfunktionen sind betroffen:**
 
 **Anweisung 2:**
 
@@ -326,11 +323,6 @@ Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher
 Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist. Dabei sind  die Praxisdaten gemäß Kapitel 1.6.3 als Arztstempel aufzudrucken.
 
 Falls die konditionale Pflichtfunktion KP3-020 unterstützt werden muss, ist während des  Verordnungsvorgangs Werbung anzuzeigen und in geeigneter Weise zu demonstrieren,
-
-- dass die Werbung nicht mit Funktionen hinterlegt ist, die unmittelbar oder mittelbar zur Auswahl oder  Erfassung der Verordnungsdaten oder
-- zur Ausstellung einer Verordnung oder
-- zu einer Veränderung der Grundeinstellungen bzw. der Konfiguration der Verordnungssoftware führt.
-- die Möglichkeit besteht, angezeigte Werbefenster durch eine einzige Aktion auszuschalten.
 
 | Felder Muster 16 | Daten |
 |---|---|
@@ -355,14 +347,14 @@ der Indikationen
 **Insbesondere folgende Pflichtfunktionen sind betroffen:**
 
 - P2-020 Mindestangaben der Daten des Produktverzeichnisses
-- P2-021 Liste von nicht indizierten Geschlechtskennzeichen der Ziel
+- P2-021 Liste von nicht indizierten Geschlechtskennzeichen der Ziel- /Patientengruppen
 - KP3-020 Verhalten der Software bei der Anzeige von Werbung
 - P4-110 Einheitliches Layout von Auswahllisten
 - P4-210 Such-/ Rechercheoptionen
 - P4-220 Sortierung der Auswahlliste
-- P4-310 Angaben bei erster und wiederholter Verordnung
-- P4-311 Angaben bei erster und wiederholter
-- KP4-312 Angaben bei erster und wiederholter Verordnung
+- P4-310 Angaben bei erster und wiederholter Verordnung  Erste Ebene
+- P4-311 Angaben bei erster und wiederholter Verordnung  Zweite Ebene
+- KP4-312 Angaben bei erster und wiederholter Verordnung  Dritte Ebene
 - P4-321 Verordnung aus den Daten des Produktverzeichnisses
 - P4-340 Erstellung von Verordnungen
 - P4-342 Allgemeine Vorgaben für die Formularbedruckung
@@ -374,45 +366,19 @@ der Indikationen
 
 **Anweisung:**
 
-Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung für die bereits verordnete Verordnungseinheit diejenigen alle in der Verordnungsdokumentation erfassten  Information zur Anzeige gebracht werden, welche bei diesem Vorgang angezeigt werden können.
+Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende Verordnung (Prüffall PF01). Dabei sollen  für die bereits verordnete Verordnungseinheit diejenigen alle in der Verordnungsdokumentation erfassten  Information zur Anzeige gebracht werden, welche bei diesem Vorgang angezeigt werden können.
 
-Führen Sie nach der Anzeige der zurückliegenden Verordnung  durch und erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung)
+Führen Sie nach der Anzeige der zurückliegenden Verordnung eine indikationsbezogene Vergleichssuche  durch und erstellen Sie eine Verordnung mit folgenden Daten (siehe Tabelle dieser Anweisung).
 
-Dokumentieren Sie den vollständigen Erfassungsdialog  angezeigter Werbung durch ein Video. Dabei sollen für die zu verordnende Verordnungseinheit alle  Daten des Produktverzeichnisses verfügbaren Information vollständig zur Anzeige gebracht werden die laut  Pflichtfunktion P4-311 mindestens auf der zweiten Ebene angezeigt werden müssen.
+Dokumentieren Sie den vollständigen Erfassungsdialog einschließlich möglicher Hinweissteuerung oder  angezeigter Werbung durch ein Video. Dabei sollen für die zu verordnende Verordnungseinheit alle in den  Daten des Produktverzeichnisses verfügbaren Information vollständig zur Anzeige gebracht werden die laut  Pflichtfunktion P4-311 mindestens auf der zweiten Ebene angezeigt werden müssen.
 
-Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach  die Praxisdaten gemäß Kapitel 1.6.3 als Arztstempel aufzudrucken.
+Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist. Dabei sind  die Praxisdaten gemäß Kapitel 1.6.3 als Arztstempel aufzudrucken.
 
 | Felder Muster 16 | Daten |
 |---|---|
 | **Patient/Patientin** | XML Verzeichnisname: XML_05 |
 | **PZN** | 16879359 |
 | **Name der DiGA-Verordnungseinheit** | velibra 001 |
-
-```
--
-```
-
-- - /Patientengruppen
-
-```
--
-```
-
-- Erste Ebene
-- Verordnung  Zweite Ebene
-- Dritte Ebene
-
-```
--
-```
-
-eine indikationsbezogene Vergleichssuche
-
-einschließlich möglicher Hinweissteuerung oder
-
-den Vorgaben möglich ist. Dabei sind (Prüffall PF01). Dabei sollen
-
-in den
 
 die digitale Gesundheitsanwendung nutzende Person die für ihre Authentisierung genutzten Daten nur ändern kann, wenn hierbei für die Prüfung der Authentizität dieser Person ausreichende Informationen beigegeben werden? diagnostisches Instrument
 
@@ -473,7 +439,7 @@ Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben mö
 
 **Anweisung 1:**
 
-Dokumentieren Sie die tabellarische Übersicht der Verordnungsstatistik aller im Rahmen der Prüffälle  bzw. 01-03 erstellten Verordnungen per Screenshot(s).
+Dokumentieren Sie die tabellarische Übersicht der Verordnungsstatistik aller im Rahmen der Prüffälle 01-02  bzw. 01-03 erstellten Verordnungen per Screenshot(s).
 
 **Insbesondere folgende Pflichtfunktionen werden in diesem Prüffall geprüft:**
 
@@ -481,14 +447,14 @@ Dokumentieren Sie die tabellarische Übersicht der Verordnungsstatistik aller im
 
 **Anweisung 2:**
 
-Wählen Sie aus der tabellarischen Übersicht nach Anweisung 1 die dokumentierte Verordnung von Prüffall  02 aus. Dokumentieren Sie die Darstellung per Screenshot(s)
+Wählen Sie aus der tabellarischen Übersicht nach Anweisung 1 die dokumentierte Verordnung von Prüffall  02 aus. Dokumentieren Sie die Darstellung per Screenshot(s).
 
 **Insbesondere folgende Pflichtfunktionen werden in diesem Prüffall geprüft:**
 
 - P5-010 Verordnungsstatistik
 - P4-130 Verordnungsdokumentation
 
-**2.5** **ANZEIGE NICHT VERORDNUNGSFÄHIGER DIGA**
+**2.5** **ANZEIGE NICHT VERORDNUNGSFÄHIGER DIGA-VERORDNUNGSEINHEITEN**
 
 \| **PRÜFFALL 05** |
 \|---|
@@ -499,7 +465,7 @@ Die optionale Anforderungsfunktion O4-221 wurde umgesetzt.
 
 **Anweisung:**
 
-Suchen Sie in der Produktliste nach der DiGA-Verordnungseinheit mit folgenden Daten (siehe Tabelle dieser  Anweisung) und lassen Sie sich anschließend zusätzlich auch die nicht verordnungsfähigen DiGA Verordnungseinheiten anzeigen.
+Suchen Sie in der Produktliste nach der DiGA-Verordnungseinheit mit folgenden Daten (siehe Tabelle dieser  Anweisung) und lassen Sie sich anschließend zusätzlich auch die nicht verordnungsfähigen DiGA-Verordnungseinheiten anzeigen.
 
 Dokumentieren Sie den vollständigen Anwendungsdialog einschließlich möglicher Hinweissteuerung oder  angezeigter Werbung durch Screenshots. Dabei sollen alle in der Auswahlliste verfügbaren Information aus  den Daten des Produktverzeichnisses zur Anzeige gebracht werden.
 
@@ -515,19 +481,8 @@ Dokumentieren Sie den vollständigen Anwendungsdialog einschließlich möglicher
 - P4-110 Einheitliches Layout von Auswahllisten
 - P4-210 Such-/ Rechercheoptionen
 - P4-220 Sortierung der Auswahlliste
-- O4-221 Anzeige nicht verordnungsfähiger DiGA
-- P4-310 Angaben bei erster und wiederholter Verordnung 01-02
-
-## -VERORDNUNGSEINHEITEN
-
-```
--
--
--
-```
-
-- -Verordnungseinheiten
-- Erste Ebene
+- O4-221 Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten
+- P4-310 Angaben bei erster und wiederholter Verordnung  Erste Ebene
 
 
 ---

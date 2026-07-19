@@ -29,10 +29,11 @@ Wenn Sie der Patientin oder dem Patienten eine ambulante psychotherapeutische Be
 
 Vermittlung über Terminservicestelle / Patientenservice:
 
-Patientinnen und Patienten haben Anspruch auf eine Weitervermittlung über die Terminservicestelle  [www.116117.de](http://www.116117.de/)[, Tel. 116 117) f ür die sich aus der Abklärung in der Psychotherapeutischen Sprechstunde](http://www.116117.de/) [ergebenden zeitnah erforderlichen Behandlungstermine (§ 75 Abs. 1a SGB V). Bei der Empfehlung für eine](http://www.116117.de/) Psychotherapeutische Akutbehandlung wird davon ausgegangen, dass diese immer zeit nah erforderlich ist.  Bei der Empfehlung für eine ambulante Psychotherapie muss explizit angegeben werden ob diese „zeitnah  erforderlich“ ist oder nicht. Sollte eine Vermittlung über die Terminservicestelle erforderlich sein (z. B. weil  die Behandlung in Ihrer Praxis nicht durchgeführt werden kann oder weil keine eigenständige Vermittlung an  eine andere Praxis möglich ist etc.), müssen folgende Angaben gemacht werden:
+Patientinnen und Patienten haben Anspruch auf eine Weitervermittlung über die Terminservicestelle  [www.116117.de](http://www.116117.de/)[, Tel. 116 117) für die sich aus der Abklärung in der Psychotherapeutischen Sprechstunde](http://www.116117.de/) [ergebenden zeitnah erforderlichen Behandlungstermine (§ 75 Abs. 1a SGB V). Bei der Empfehlung für eine](http://www.116117.de/) Psychotherapeutische Akutbehandlung wird davon ausgegangen, dass diese immer zeitnah erforderlich ist.  Bei der Empfehlung für eine ambulante Psychotherapie muss explizit angegeben werden ob diese „zeitnah  erforderlich“ ist oder nicht. Sollte eine Vermittlung über die Terminservicestelle erforderlich sein (z. B. weil  die Behandlung in Ihrer Praxis nicht durchgeführt werden kann oder weil keine eigenständige Vermittlung an  eine andere Praxis möglich ist etc.), müssen folgende Angaben gemacht werden:
 
 -  Bei Empfehlung für eine ambulante Psychotherapie (vgl. Angaben in Punkt 3) geben Sie immer „Wei-tervermittlung“ an. Geben Sie an, ob diese „zeitnah erforderlich“ ist oder nicht. Nur wenn Sie ange-ben, dass die Weitervermittlung „zeitnah erforderlich“ ist, hat die Patientin oder der Patient einen  Anspruch auf die Vermittlung von probatorischen Sitzungen über die Terminservicestelle.
 -  Bei Empfehlung für eine Psychotherapeutische Akutbehandlung (vgl. Angaben in Punkt 3), geben Sie  immer „Weitervermittlung“ und immer „zeitnah erforderlich“ an.
+- **5.** **Erklärung Patient*in**
 
 Im Freitextfeld müssen bei Weitervermittlung über die Terminservicestelle der Vermittlungscode und die  Kontaktdaten der Terminservicestelle angegeben werden.
 
@@ -41,8 +42,6 @@ Andere Weitervermittlung:
 Das Freitextfeld kann in Kombination mit der Angabe „Weitervermittlung“ auch für die Vermittlung an Fach-kolleginnen und Fachkollegen (eine entsprechende Absprache vorausgesetzt) oder für eine Zuweisung in an-dere Versorgungsbereiche (wie z. B. Beratungsstellen) genutzt werden und beispielsweise Kontaktdaten, Öff-nungszeiten oder weitere Informationen zur Unterstützung der Patientin oder des Patienten angegeben wer-den.
 
 Vergewissern Sie sich bei der mündlichen Erläuterung Ihrer Empfehlungen, dass sich die Patientin oder der  Patient über ihre oder seine nächsten Schritte im Klaren ist.
-
-- **5.** **Erklärung Patient*in**
 
 Wünscht die Patientin oder der Patient die Weitergabe einer Kopie der individuellen Information an die  Hausärztin oder den Hausarzt oder eine andere mitbehandelnde Ärztin bzw. einen anderen mitbehandeln-den Arzt, kann sie oder er hier die entsprechenden Kontaktinformationen eintragen und ihr oder sein Ein-verständnis zur Übermittlung mit Unterschrift bestätigen.
 

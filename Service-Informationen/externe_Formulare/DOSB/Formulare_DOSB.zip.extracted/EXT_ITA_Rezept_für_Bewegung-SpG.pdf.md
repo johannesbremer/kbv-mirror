@@ -1,5 +1,9 @@
 Name, Vorname der des Versicherten
 
+geb. am
+
+Datum
+
 Ich empfehle Ihnen ein Training mit folgendem Schwerpunkt:
 
 Herz-Kreislaufsystem
@@ -12,21 +16,17 @@ Allgemeines Gesundheitstraining
 
 Hinweise an die Übungsleitung:
 
-# REZEPT FÜR   BEWEGUNG
-
-geb. am
+# REZEPT FÜR  BEWEGUNG
 
 **Regelmäßige körperliche**  **Aktivität tut Ihnen und Ihrer**  **Gesundheit gut!**
 
-Datum
+Bewegung kann Krankheiten  des Herz-Kreislauf- und des Stoff-
 
-Bewegung kann Krankheiten   des Herz-Kreislauf- und des Stoff-
-
-wechselsystems sowie des Bewe -gungsapparates verhindern. Zudem
+wechselsystems sowie des Bewe-gungsapparates verhindern. Zudem
 
 reduziert Bewegung das Risiko für  Krebs, Diabetes Typ II und Demenz  und trägt zur Entspannung bei.
 
-Daher empfehle ich Ihnen die  Teilnahme an einem Bewegungs angebot in einem Sportverein. Das  kann ein Angebot sein, dass mit  dem Qualitätssiegel **SPORT PRO**  **GESUNDHEIT** zertifiziert ist, oder ein  anderes gesundheitsorientiertes,  auch sportartspezifisches Angebot.  Teilweise besteht die Möglichkeit  der finanziellen Förderung durch die
+Daher empfehle ich Ihnen die  Teilnahme an einem Bewegungs-angebot in einem Sportverein. Das  kann ein Angebot sein, dass mit  dem Qualitätssiegel **SPORT PRO**  **GESUNDHEIT** zertifiziert ist, oder ein  anderes gesundheitsorientiertes,  auch sportartspezifisches Angebot.  Teilweise besteht die Möglichkeit  der finanziellen Förderung durch die
 
 Krankenkassen.
 
@@ -53,7 +53,7 @@ Deutscher Olympischer Sportbund  Ressort Breiten- und Gesundheitssport
 
 **Kraft**
 
-Lange Sitzphasen vermeiden und Sitzen durch körperliche Aktivitäten unterbrechen – z. Quelle: modifiziert nach WHO: Bull et al., 2020
+Lange Sitzphasen vermeiden und Sitzen durch körperliche Aktivitäten unterbrechen – z.  Quelle: modifiziert nach WHO: Bull et al., 2020
 
 Mitteilung der Übungsleitung an den
 
@@ -77,7 +77,7 @@ Ausdauerorientierte Bewegung,   die etwas anstrengend ist, z. B. Nordic Walking,
 
 ODER EINE KOMBINATION
 
-Ausdauerorientierte Bewegung,  strengend ist,  die an B. Laufen, schnelles Rad ­fahren,
+Ausdauerorientierte Bewegung,  strengend ist,  die an B. Laufen, schnelles Rad­fahren,
 
 z. schnelles Schwimmen
 
@@ -93,7 +93,7 @@ B. kleine Spaziergänge, Arbeiten im Stehen
 
 ZUSÄTZLICH
 
-Gleichge­wichts­übungen,  für ältere Erwachsene   ab 65 Jahren zur Sturz­ ­ventionprä
+Gleichge­wichts­übungen,  für ältere Erwachsene  ab 65 Jahren zur Sturz­ ­ventionprä
 
 Piktogramme: © DOSB/Sportdeutschland
 

@@ -5,7 +5,7 @@
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
@@ -13,7 +13,7 @@
 
 #### DOKUMENTENHISTORIE
 
-KBV_ITA_AHEX_Handbuch_Pruefmodul _LDK_KV -Lewin-Platz 2 1.0.3 Datum: 01.03.2018 Klassifizierung: Extern  Status: In Kraft
+KBV_ITA_AHEX_Handbuch_Pruefmodul _LDK_KV 1.0.3 Datum: 01.03.2018 Klassifizierung: Extern  Status: In Kraft
 
 ---
 
@@ -166,7 +166,7 @@ Dieser Ordner enthält die Prüfdateien.
 
 Dieser Ordner enthält die Dokumentation zum XPM_LDK.
 
-## 2.4 Ordner 'Geprueft/Abgelehnt
+## 2.4 Ordner 'Geprueft/Abgelehnt'
 
 Dieser Ordner dient als Ablage für geprüfte Dateien. Hier werden die Dateien abgelegt,  die fehlerhaft sind.
 
@@ -524,7 +524,7 @@ Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter
 
 Das LDK-Prüfmodul ist eine Java-Applikation und kann von einem anderen Java-Programm aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse
 
-### de.kbv.pruefmodul.core.extern.XPMEinstieg implementiert. Diese Klasse ist im Java-Archiv
+### de.kbv.pruefmodul.core.extern.XPMEinstieg
 
 xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu  die Methode ‘main’ etwas genauer an.
 
@@ -536,16 +536,26 @@ xpm-core-<Versionsnummer>.jar im Quellcode enthalten. Bitte schauen Sie sich hie
 **import** de.kbv.pruefmodul.core.extern.XPMEinstieg;
 **import** de.kbv.pruefmodul.modul.ldk.XPMAdapter;
 **public** **class** XpmEinstiegTest {
-**public** **static** **void** **main**(String[] args) **throws** XPMException {
+**public** **static** **void** **main**(String[] args)
 **TODO** Auto-generated method stub
 System.***out*** **println**("user.dir: " + System.getProperty("user.dir"));
-XPMEinstieg **xpm new** **XPMEinstieg**("src/test/resources/Konfig/konfig.xml"
-"src/test/resources/Daten/Z01Auftrag.ldt", **new** **XPMAdapter**());
+XPMEinstieg **xpm new** **XPMEinstieg**
+"src/test/resources/Daten/Z01Auftrag.ldt",
 **xpm setServer false**
 **xpm setZipFile false**
 **int** **nStatus xpm pruefe**();
-System.***out*** **println**("Einzel-Prüfung mit Status " + **nStatus** + " beendet.");
+System.***out*** **println**("Einzel-Prüfung mit Status " +
 System.***out*** **println**();
+```
+
+implementiert. Diese Klasse ist im Java-Archiv
+
+**throws** XPMException {
+
+```
+("src/test/resources/Konfig/konfig.xml",
+**new** **XPMAdapter**());
+**nStatus** + " beendet.");
 ```
 
 ---

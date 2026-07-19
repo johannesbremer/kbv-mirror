@@ -8,7 +8,7 @@
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
-# SCHNITTSTELLE LEO TSP IM KV -SYSTEM
+**SCHNITTSTELLE LEO-TSP IM KV-SYSTEM**
 
 ## [KBV_ITV_VGEX_SCHNITTSTELLE_SMCB]
 
@@ -61,7 +61,7 @@ INHALT
 | 1.2 | Zielgruppe | 6 |
 | 1.3 | Abgrenzung | 6 |
 | 1.4 | Methodik | 6 |
-|  | 1.4.1 Erläuterung der Tabellenspalten | 6 |
+|  | 1.4.1 Erlä u te ru ng d erT abelle nspalte n | 6 |
 |  | 1.4.2 Namensrä u m ed erD ate ntypen | 6 |
 
 **2** **KONKRETISIERUNG DER DATENÜBERGABE ZWISCHEN ATTRBS UND TSP**
@@ -130,7 +130,7 @@ INHALT
 
 26  3.2.22 PostfachAdressType
 
-Namensräume der Datentypen 26
+Erläuterung der Tabellenspalten Namensräume der Datentypen 26
 
 
 ---
@@ -181,7 +181,11 @@ Anhang B.1 Allgemeine Festlegungen
 
 Zur Unterstützung der Beantragung und des Herausgabeprozesses der SMC-B ist eine Schnittstelle  bereitzustellen, welche die Anforderungen des KV-Systems berücksichtigt.
 
-Das vorliegende Dokument konkretisiert die Datenstrukturen, welche im Kontext der LEO-TSP-Schnittstelle1  für die Übermittlung von Daten zwischen Trust Service Provider (TSP) und Kartenherausgeber /  Attributbestätigende Stelle (AttrBS) zu verwenden sind.
+Das vorliegende Dokument konkretisiert die Datenstrukturen, welche im Kontext der LEO-TSP-Schnittstelle1
+
+1 Übergabeschnittstelle für die Produktion von SMC-Bs 3.3.2a [gemSpec_Pers_SMC-B]
+
+für die Übermittlung von Daten zwischen Trust Service Provider (TSP) und Kartenherausgeber /  Attributbestätigende Stelle (AttrBS) zu verwenden sind.
 
 Die in diesem Dokument getroffenen Festlegungen dienen den Anbietern der LEO-TSP-Schnittstelle als  Grundlage für die Modellierung der zu verwaltenden Daten.
 
@@ -203,7 +207,7 @@ Die KV-System spezifischen Konkretisierungen an der von der LEO-TSP-AG definiert
 
 Für die nachfolgenden Beschreibungen in tabellarischer Form wird die folgende Notation verwendet:
 
-**Tabelle 1: Erläuterungen zu den Tabellen -Spalten**
+**Tabelle 1: Erläuterungen zu den Tabellen-Spalten**
 
 | SPALTE | ERLÄUTERUNG |
 |---|---|
@@ -215,8 +219,6 @@ Für die nachfolgenden Beschreibungen in tabellarischer Form wird die folgende N
 ### 1.4.2 Namensräume der Datentypen
 
 Für die Definition der Datentypen werden die Datentypen aus Standardnamensräumen genutzt. Diese  werden in den tabellarischen Darstellungen entsprechend gekennzeichnet. Die gematik-Datentypen  werden in den Tabellen in diesem Dokument ohne Namenspräfix geschrieben, erscheinen in den  Abbildungen aber mit dem Präfix „gematik“.
-
-1 Übergabeschnittstelle für die Produktion von SMC-Bs 3.3.2a [gemSpec_Pers_SMC-B]
 
 
 ---
@@ -230,7 +232,7 @@ Für die Definition der Datentypen werden die Datentypen aus Standardnamensräum
 | gematik | http://ws.gematik.de/cm/pers/HBA_SMC-B/v1.3, der durch die gematik definierte |
 | xs | http://www.w3.org/2001/XMLSchema, der Standardnamensraum für XML |
 
-Standards Bremen (KoSIT) definierte Namensraum für die Einschränkung von UTF -8 auf die west- und osteuropäischen Zeichen Namensraum für die Datenübergabeschnittstelle
+Standards Bremen (KoSIT) definierte Namensraum für die Einschränkung von UTF-8 auf die west- und osteuropäischen Zeichen Namensraum für die Datenübergabeschnittstelle 
 
 
 ---
@@ -272,7 +274,7 @@ GeneralResponseType >ReturnCodeType >Number
 
 GeneralResponseType->ReturnCodeType->Description
 
-MÜSSEN gemäß **TABELLE 29:** **RÜCKMELDUNGEN** **"VORBEFÜLLUNG "** gesetzt werden.
+MÜSSEN gemäß **TABELLE 29:** **RÜCKMELDUNGEN** **"VORBEFÜLLUNG"** gesetzt werden.
 
 In GeneralResponseType->ReturnCodeType->Description MUSS der TSP im Erfolgsfall alle  „<Vorgangsnummer>;<URL>;“ - Tupel zurückliefern. Die Reihenfolge der Tupel MUSS der Reihenfolge der  übertragenen Vorbefüllungsdaten entsprechen.
 
@@ -286,7 +288,7 @@ GeneralResponseType >ReturnCodeType >Description „ERROR;< Number>;“
 ---
 
 \| DATENFELD | BESTANDTEIL | ELEMENT/ | P/ | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES |
-| an der entsprechenden Stelle zurückgeliefert werden. 2.2.1 Tabelle 3: SmcbVorbefuellungen | DATENFELD |  | BESTANDTEILE | ELEMENT/ATTRIBUT |  |
+| an der entsprechenden Stelle zurückgeliefert werden.  2.2.1 Tabelle 3: SmcbVorbefuellungen | DATENFELD |  | BESTANDTEILE | ELEMENT/ATTRIBUT |  |
 |---|---|---|---|---|---|
 | Vorgangs- |  | VorgangsNr | O | xs:string | Der TSP MUSS mit dem Erhalt der  Die Vorgangsnummer wird NICHT von |
 | Antragsteller | Name des | Namensdaten | P | HNameType | Name und Meldeanschrift der  HNameType->Nachname MUSS gefüllt  HNameType->Vornamen MUSS gefüllt |
@@ -303,7 +305,7 @@ GeneralResponseType >ReturnCodeType >Description „ERROR;< Number>;“
 |  |  |  |  |  | **P/O** |
 |  |  |  | **FELDTYP** |  | **BEMERKUNG** |
 |  | SmcbVorbefuellungen |  | SmcbVorbefuellung [ ] | P | Vorbefüllungsdaten eines Antrags, |
-|  | Kardinalität: unbounded | **2.2.2** | **Tabelle 4: Vorbefüllungsdaten für einen SMC -B-Antrag (SmcbVorbefuellung)** |  | **DATENFELD** |
+|  | Kardinalität: unbounded | **2.2.2** | **Tabelle 4: Vorbefüllungsdaten für einen SMC-B-Antrag (SmcbVorbefuellung)** |  | **DATENFELD** |
 |  |  | **BESTANDTEIL** |  | **ELEMENT/** | **P/** |
 |  | **FELDTYP** |  | **BEMERKUNG / KONKRETISIERUNG DES** | Vorgangs- | VorgangsNr |
 |  | O | xs:string | Der TSP MUSS mit dem Erhalt der | Die Vorgangsnummer wird NICHT von | Antragsteller |
@@ -448,7 +450,7 @@ AttrBSType->AttrBS_Data wird NICHT  gefüllt und NICHT gesendet -System z. Zt. N
 | GeneralResponseType | - | >ReturnCodeType | - | >Number | GeneralResponseType- |
 |  |  | >ReturnCodeType | - | >Description | MÜSSEN gemäß **TABELLE 30:** |
 |  |  | gesetzt werden. | Schlägt mindestens | GeneralResponseType->ReturnCodeType- | GeneralResponseType >ReturnCodeType >Description je ein Tupel „<Number>;<AntragsID>;“ |
-|  |  | für jede fehlgeschlagene Freigabe / Ablehnung enthalten. | **2.4.1** | Die Datenstruktur SmcbFreigaben dient der Übertragung eines oder mehrerer Freigabe | **TABELLE 5:** beschriebene Datenstruktur verwenden. |
+|  |  | für jede fehlgeschlagene Freigabe / Ablehnung enthalten. | **2.4.1** | Die Datenstruktur SmcbFreigaben dient der Übertragung eines oder mehrerer Freigabe- / | **TABELLE 5:** beschriebene Datenstruktur verwenden. |
 |  |  | **Tabelle 5: SmcbFreigaben** |  | **DATENFELD** | **BESTANDTEILE** **ELEMENT/ATTRIBUT** **P/O** **FELDTYP** |
 |  |  |  |  | **BEMERKUNG / KONKRETISIERUNG DES KV-** | SmcbFreigaben |
 |  |  |  | SmcbFreigabe [ ] | P | Freigabedaten eines oder mehrere Anträge, siehe |
@@ -457,13 +459,13 @@ AttrBSType->AttrBS_Data wird NICHT  gefüllt und NICHT gesendet -System z. Zt. N
 |  | **ELEMENT/ATTRIBUT** |  | **P/O** |  | **FELDTYP  BEMERKUNG / KONKRETISIERUNG DES ** Vorgangs- CHOICE  VorgangsNr  O |
 |  |  |  |  |  | GeneralResponseType->ReturnCodeType->Code und  GeneralResponseType->ReturnCodeType->Number   GeneralResponseType- |
 | >ReturnCodeType | - | >Description |  | MÜSSEN gemäß | **TABELLE 30:**  gesetzt werden.   Schlägt mindestens |
-|  | GeneralResponseType->ReturnCodeType- | GeneralResponseType >ReturnCodeType >Description je ein Tupel „<Number>;<AntragsID>;“ | für jede fehlgeschlagene Freigabe / Ablehnung enthalten. | **2.4.1** | Die Datenstruktur SmcbFreigaben dient der Übertragung eines oder mehrerer Freigabe**TABELLE 5:** beschriebene Datenstruktur verwenden. |
+|  | GeneralResponseType->ReturnCodeType- | GeneralResponseType >ReturnCodeType >Description je ein Tupel „<Number>;<AntragsID>;“ | für jede fehlgeschlagene Freigabe / Ablehnung enthalten. | **2.4.1** | Die Datenstruktur SmcbFreigaben dient der Übertragung eines oder mehrerer Freigabe- / **TABELLE 5:** beschriebene Datenstruktur verwenden. |
 
 | DATENFELD | BESTANDTEILE | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV- |
 |---|---|---|---|---|---|
 | SmcbFreigaben |  | SmcbFreigabe [ ] | P |  | Freigabedaten eines oder mehrere Anträge, siehe **Tabelle 6: SmcbFreigabe**  Kardinalität: unbounded |
 
-SYSTEMS FREIGABEN/ABLEHNUNG gesendet werden. addSmcbFreigabenRequest addSmcbFreigabenResponse RÜCKMELDUNGEN "FREIGABEN /ABLEHNUNG " eine von mehreren  Freigaben / Ablehnungen fehl, MUSS in >Number mit „2450“ gefüllt werden und Ablehnungsdatensätze. Für die Übertragung der Datensätze MUSS der TSP die in - / SMCBFREIGABEN KV-SYSTEMS nummer die vom TSP vergeben wurde die AntragsID zur Antragsidentifizierung verwendet wird. Freigabe erteilt Werte in zulässig. gefüllt und NICHT gesendet
+SYSTEMS FREIGABEN/ABLEHNUNG gesendet werden. addSmcbFreigabenRequest addSmcbFreigabenResponse RÜCKMELDUNGEN "FREIGABEN/ABLEHNUNG" eine von mehreren  Freigaben / Ablehnungen fehl, MUSS in  >Number mit „2450“ gefüllt werden und Ablehnungsdatensätze. Für die Übertragung der Datensätze MUSS der TSP die in SMCBFREIGABEN KV-SYSTEMS nummer die vom TSP vergeben wurde die AntragsID zur Antragsidentifizierung verwendet wird. Freigabe erteilt Werte in zulässig. gefüllt und NICHT gesendet
 
 ---
 
@@ -515,7 +517,7 @@ KV-SYSTEMS oder (schließen einander aus) der die Freigabe autorisiert System op
 | FreigabePDF | FreigabePDF |  | O | FileTransferType | Optional:  Freigabedaten oder Ablehnung als PDF  Wird NICHT gefüllt und NICHT gesendet |
 |  | Signatur | Signatur | O | ds:Signature | Optional:  Signatur der Freigabe oder Ablehnung  Wird NICHT gefüllt und NICHT gesendet |
 
-"BSNR existiert nicht" "BSNR gehört nicht zur angegebenen LANR" "Name gehört nicht zur angegebenen LANR" "Geburtsdatum gehört nicht zur angegebenen LANR" "Berufsgruppe der Betriebsstätte falsch" Adresse der Betriebsstätte ist KV nicht bekannt Eine Kombination aus den oben genannten Gründen mit Trennzeichen Semikolon ";" getrennt oder Signatur (optional 0..1) durch den autorisierten Mitarbeiter der attributbestätigenden Stelle ANTRAGEXPORT / MONITORING getSmcbAntraegeExportRequest GetSmcbAntraegeExportRequestType (type="tns:AntraegeExportRequestType“) getSmcbAntraegeExportResponse (enthält SmcbAntraegeExport und GeneralResponseType) Erfolgsfall die Anzahl (0..n) der zurückgelieferten SMC -B-Anträge enthalten, sonst eine Fehlermeldung. RÜCKMELDUNGEN "ANTRAGEXPORT / MONITORING " KVen.  | DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+"BSNR existiert nicht" "BSNR gehört nicht zur angegebenen LANR" "Name gehört nicht zur angegebenen LANR" "Geburtsdatum gehört nicht zur angegebenen LANR" "Berufsgruppe der Betriebsstätte falsch" Adresse der Betriebsstätte ist KV nicht bekannt Eine Kombination aus den oben genannten Gründen mit Trennzeichen Semikolon ";" getrennt oder Signatur (optional 0..1) durch den autorisierten Mitarbeiter der attributbestätigenden Stelle ANTRAGEXPORT / MONITORING getSmcbAntraegeExportRequest GetSmcbAntraegeExportRequestType (type="tns:AntraegeExportRequestType“) getSmcbAntraegeExportResponse (enthält SmcbAntraegeExport und GeneralResponseType) Erfolgsfall die Anzahl (0..n) der zurückgelieferten SMC-B-Anträge enthalten, sonst eine Fehlermeldung. RÜCKMELDUNGEN "ANTRAGEXPORT / MONITORING" KVen.  | DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
 |---|---|---|---|---|
 | Filterkriterien | AntraegeExportRequestType | P |  | Filterkriterien für den Export  Kardinalität: unbounded |
 
@@ -551,7 +553,7 @@ KV-SYSTEMS oder (schließen einander aus) der die Freigabe autorisiert System op
 | NachnameAntragsteller | O | lat:String.Latin | Nachname des Antragstellers | Vorname Antragsteller |
 | VornameAntragsteller | O | lat:String.Latin | Vorname des Antragsteller | Institutionsname  Institutionsname  O  xs:String64Type  Name der Betriebsstätte  Geburtsdatum  GeburtsdatumAntragsteller  O  xs:date  Geburtsdatum Antragsteller  Änderungsdatum Von |
 
-EXPORT-FILTERKRITERIEN vom TSP zurückgelieferten Ergebnisse alle Filterkriterien erfüllen. -Typen- Elementen“ MUSS das Filterergebnis unabhängig von Groß (case insensitive Suche).  -Typen- Elementen“ MUSS der übermittelte Wert auf „enthalten in“ gefiltert werden.  AntraegeExportRequestType ANTRAEGE EXPORTREQUEST TYPE  MUSS gefiltert - und Kleinschreibung sein SYSTEMS Karte gehörigen Antrags gesendet, da die KartenAntragsID lediglich internen Zwecken der TSP dient. MUSS einer der folgenden Werte enthalten sein siehe Antragsänderungen gesucht wird Antragsänderungen gesucht wird Datum der ersten Zwischenspeicherung gespeichert.  stattgefunden, so ist das Datum der (erstmaligen) Antragsannahme zu verwenden. Zeitpunkt, an dem der Antragsstatus auf „Zur Freigabe (Kartenherausgeber)“ gesetzt wurde. Betriebsstättennummer (BSNR) der Arztnummer (LANR)
+EXPORT-FILTERKRITERIEN vom TSP zurückgelieferten Ergebnisse alle Filterkriterien erfüllen.  -Typen- Elementen“ MUSS das Filterergebnis unabhängig von Groß (case insensitive Suche).  -Typen- Elementen“ MUSS der übermittelte Wert auf „enthalten in“ gefiltert werden.  AntraegeExportRequestType ANTRAEGEEXPORTREQUESTTYPE  MUSS gefiltert - und Kleinschreibung sein SYSTEMS Karte gehörigen Antrags gesendet, da die KartenAntragsID lediglich internen Zwecken der TSP dient. MUSS einer der folgenden Werte enthalten sein siehe Antragsänderungen gesucht wird Antragsänderungen gesucht wird Datum der ersten Zwischenspeicherung gespeichert.  stattgefunden, so ist das Datum der (erstmaligen) Antragsannahme zu verwenden. Zeitpunkt, an dem der Antragsstatus auf „Zur Freigabe (Kartenherausgeber)“ gesetzt wurde. Betriebsstättennummer (BSNR) der Arztnummer (LANR)
 
 ---
 
@@ -673,7 +675,7 @@ KV-SYSTEMS ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsdatum 
 | FileTransferType | Freigabedaten oder Ablehnung als PDF | Signatur | P | ds:Signature  Freigabe oder Ablehnung mit Aufführung  Kartendaten sind genau dann vorhanden, wenn die ICCSNs bereits zugeteilt wurden. Je Karte ist ein ProdResult-Element  Kartendaten (0.. ProdResult [ ] | |
 | O | ProdResultType | Kartendaten (ab Beginn der | Angaben zur Sperrung | SperrAuftrag | |
 | O | SmcbSperrAuftragType[] | Sperraufträge für die mit diesem Antrag | **2.6** | Message: | |
-| In: | Message: | Out: | Die Sperrung durch die AttrBS wird notwendig, wenn die Betriebstättennumme | GeneralResponseType->ReturnCodeType->ReturnCode | |
+| In: | Message: | Out: | Die Sperrung durch die AttrBS wird notwendig, wenn die Betriebstättennummer (InstID) ungültig geworden | GeneralResponseType->ReturnCodeType->ReturnCode | |
 | GeneralResponseType | - | >ReturnCodeType | - | >Code und | |
 |  |  | GeneralResponseType | - | >ReturnCodeType->Number | |
 |  |  |  |  | gesendet. | |
@@ -691,7 +693,7 @@ KV-SYSTEMS ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsdatum 
 
 ### GeneralResponseType->ReturnCodeType->Description
 
-KV-SYSTEMS den Freigabedaten der AttrBS.  Arzt" oder "Betriebsstätte Psychotherapeut" enthalten. die Vorgangsnummer verwendet wird. dem Ablehnungsgrund;  ist, MUSS der Ablehnungsgrund übertragen werden.  vollständig benennen und mit der KBV abstimmen. Freigabebestätigung  entweder als PDF oder als Signatur des autorisierten, freigebenden Mitarbeiters der AttrBS. enthalten. Kartenproduktion)  von Karten produzierten und verwalteten Karten SPERRAUFTRAG addSmcbSperrAuftraegeRequest SmcbSperrAutraege addSmcbSperrAuftraegeResponse ist und damit die Bestätigungsgrundlage weggefallen ist. In diesem Fall sperrt die AttrBS immer einer  Betriebsstätte. r (InstID) ungültig geworden alle  SMC-Bs möglich waren, sonst „ERROR“. MUSS „OK“ enthalten, wenn alle Sperrungen ### MÜSSEN gem. TABELLE 32: RÜCKMELDUNGEN "SPERRAUFTRAG " gesetzt werden.
+KV-SYSTEMS den Freigabedaten der AttrBS.  Arzt" oder "Betriebsstätte Psychotherapeut" enthalten. die Vorgangsnummer verwendet wird. dem Ablehnungsgrund;  ist, MUSS der Ablehnungsgrund übertragen werden.  vollständig benennen und mit der KBV abstimmen. Freigabebestätigung  entweder als PDF oder als Signatur des autorisierten, freigebenden Mitarbeiters der AttrBS. enthalten. Kartenproduktion)  von Karten produzierten und verwalteten Karten SPERRAUFTRAG addSmcbSperrAuftraegeRequest SmcbSperrAutraege addSmcbSperrAuftraegeResponse ist und damit die Bestätigungsgrundlage weggefallen ist. In diesem Fall sperrt die AttrBS immer einer  Betriebsstätte. alle  SMC-Bs möglich waren, sonst „ERROR“. MUSS „OK“ enthalten, wenn alle Sperrungen ### MÜSSEN gem. TABELLE 32: RÜCKMELDUNGEN "SPERRAUFTRAG" gesetzt werden.
 
 
 ---
@@ -809,35 +811,34 @@ werden
 
 ### 3.2.7 CertificateRefKey
 
-Es gibt keine Konkretisierung zu [gemSpec_Pers].
+### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
 ### 3.2.8 CertType
 
-Es gibt keine Konkretisierung zu [gemSpec_Pers].
+### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
 ### 3.2.9 ChangesType
 
-Wird im KV-System NICHT verwendet, da vorbefüllte Datenfelder NICHT verändert werden dürfen.
+### Wird im KV-System NICHT verwendet, da vorbefüllte Datenfelder NICHT verändert werden dürfen.
 
 ### 3.2.10 ErklaerungType
 
 Die Übermittlung von „Erklärungen“ ist z. Zt. NICHT vorgesehen. Falls später notwendig, MÜSSEN die Werte  von der AttrBS vorgeben und vom TSP im Antragsportal angezeigt werden.
 
-Es gibt keine Konkretisierung zu [gemSpec_Pers].
+### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
 ### 3.2.11 ExtCertType
 
-Es gibt keine Konkretisierung zu [gemSpec_Pers].
+### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
 ### 3.2.12 GeburtsdatenType
 
-Es gibt keine Konkretisierung zu [gemSpec_Pers].
+### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
 ### 3.2.13 HNameType
 
-Es gibt keine Konkretisierung zu [gemSpec_Pers].
+"KV Bayerns" "KV Berlin"  "KV Brandenburg" "KV Bremen" "KV Hamburg" "KV Hessen" "KV Mecklenburg-Vorpommern" "KV Niedersachsen" "KV Nordrhein" "KV Rheinland-Pfalz" "KV Saarland" "KV Sachsen" "KV Sachsen-Anhalt" "KV Schleswig-Holstein" "KV Thüringen" "KV Westfalen-Lippe" ### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
-"KV Bayerns" "KV Berlin"  "KV Brandenburg" "KV Bremen" "KV Hamburg" "KV Hessen" "KV Mecklenburg-Vorpommern" "KV Niedersachsen" "KV Nordrhein" "KV Rheinland-Pfalz" "KV Saarland" "KV Sachsen" "KV Sachsen-Anhalt" "KV Schleswig-Holstein" "KV Thüringen" "KV Westfalen-Lippe"
 
 ---
 
@@ -886,7 +887,7 @@ Sonderfall: Bei Betriebsstättennummern (BSNR) beginnend mit den Ziffern 75 oder
 
 entnommen und vom TSP überprüft werden.
 
-2 Siehe KV_AFO_0131 in [KBV_ITV_VGEX_Anforderungskatalog_SMCB]
+2 Siehe KV_AFO_0131 in [KBV_ITV_VGEX_Anforderungskatalog_SMCB].
 
 ### TABELLE 18: AUFBAU DER
 
@@ -923,7 +924,7 @@ Bei Eingabe der BSNR über das TSP-Antragsportal MUSS der TSP „InstID“ mit d
 
 Gem. **TABELLE 19:** **ZUORDNUNG KV-NUMMER ZU KV-BEREICH**
 
-#### TABELLE 23: KVBEREICH KEY, belegen.
+#### TABELLE 23: KVBEREICHKEY, belegen.
 
 „AttrBSType >AttrBS_Ident“ MUSS gem.
 
@@ -937,7 +938,7 @@ Gem. **TABELLE 19:** **ZUORDNUNG KV-NUMMER ZU KV-BEREICH**
 
 MUSS der TSP den „KVBereichKey“, siehe
 
-BEIDEN ZIFFERN DER BSNR) #### TABELLE 15: ATTRBST YPE gesetzt werden.
+BEIDEN ZIFFERN DER BSNR) #### TABELLE 15: ATTRBSTYPE gesetzt werden.
 
 
 ---
@@ -1030,7 +1031,7 @@ sein  zulässige Werte siehe Type[]
 
 ### 3.2.28 SubjectDNType
 
-Wird Teil der Zertifikate. MU
+Wird Teil der Zertifikate. MUSS vom TSP belegt werden, siehe
 
 ### [KBV_ITV_VGEX_Anforderungskatalog_SMCB]
 
@@ -1060,7 +1061,7 @@ Wird Teil der Zertifikate. MU
 | TelematikID | O | String128Type | Telematik-ID oder Online-Kennung. |
 | newTID | O | boolean | (Attribut von TelematikID). Gibt an, ob der Nutzer für eine Folgekarte  false: vorhandene TID behalten  true: neue TID  newTID MUSS false sein. |
 
-### Die TelematikID MUSS vom TSP nach der Bildungsvorschrift der Anforderung  Dokument [KBV_ITV_VGEX_Anforderungskatalog_SMCB] erzeugt werden.
+### Die TelematikID MUSS vom TSP nach der Bildungsvorschrift der Anforderung [KV_AFO_0119] aus dem  Dokument [KBV_ITV_VGEX_Anforderungskatalog_SMCB] erzeugt werden.
 
 ### 3.2.30 VPersonType
 
@@ -1074,11 +1075,8 @@ Wird Teil der Zertifikate. MU
 
 ### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
-### SS vom TSP belegt werden, siehe
+MUSS aus den folgenden Daten gebildet werden: Name der Betriebsstätte aus „InstName“ Straße und Hausnummer der Betriebsstätte (siehe StrassenAdressType)  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet stellige Betriebsstättennummer aus „InstID“  wird NICHT verwendet eine neue Telematik-ID erhalten möchte: 
 
-### [KV_AFO_0119] aus dem
-
-MUSS aus den folgenden Daten gebildet werden: Name der Betriebsstätte aus „InstName“ Straße und Hausnummer der Betriebsstätte (siehe StrassenAdressType)  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet stellige Betriebsstättennummer aus „InstID“  wird NICHT verwendet eine neue Telematik-ID erhalten möchte:
 
 ---
 
@@ -1182,7 +1180,7 @@ RÜCKMELDUNGEN ALLGEMEINE FESTLEGUNGEN : OK / ERROR_TECHNISCH / ERROR_LOGISCH : 
 \| CODE | NUMBER | DESCRIPTION | *BEMERKUNG* |
 | CODE | NUMBER | DESCRIPTION | *BEMERKUNG* |
 |---|---|---|---|
-| OK | 2200 | OK | *Es ist kein Fehler aufgetreten* |
+| OK | 2200 | OK | *Es ist kein Fehler aufgetreten.* |
 | ERROR_LOGISCH | 2400 | Daten unvollständig-Pflichtfelder | *Der TSP MUSS prüfen, ob alle* |
 | ERROR_LOGISCH | 2403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der* |
 | ERROR_LOGISCH | 2410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die* |
@@ -1194,7 +1192,7 @@ RÜCKMELDUNGEN ALLGEMEINE FESTLEGUNGEN : OK / ERROR_TECHNISCH / ERROR_LOGISCH : 
 
 | CODE | NUMBER | DESCRIPTION | *BEMERKUNG* |
 |---|---|---|---|
-| OK | 2200 | OK | *Es ist kein Fehler aufgetreten* |
+| OK | 2200 | OK | *Es ist kein Fehler aufgetreten.* |
 | ERROR_LOGISCH | 2400 | Daten unvollständig-Pflichtfelder | *Der TSP MUSS prüfen, ob alle* |
 | ERROR_LOGISCH | 2403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der* |
 | ERROR_LOGISCH | 2410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die* |
@@ -1212,17 +1210,17 @@ RÜCKMELDUNGEN ALLGEMEINE FESTLEGUNGEN : OK / ERROR_TECHNISCH / ERROR_LOGISCH : 
 \| CODE | NUMBER | DESCRIPTION | *BEMERKUNG* |
 | Tabelle 31: Rückmeldungen "Antragexport / Monitoring" | CODE | NUMBER | DESCRIPTION |
 |---|---|---|---|
-| OK | 4200 | OK | *Es ist kein Fehler aufgetreten* |
+| OK | 4200 | OK | *Es ist kein Fehler aufgetreten.* |
 | ERROR_LOGISCH | 4400 | Daten unvollständig- | *Der TSP MUSS prüfen, ob alle Pflichtfelder* |
 | ERROR_LOGISCH | 4403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der Aufruf der* |
 | ERROR_LOGISCH | 4410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die überge-* |
 | ERROR_LOGISCH | 4430 | Keine SMC-B im | *Der TSP MUSS prüfen, ob überhaupt* |
-| ***BEMERKUNG*** | OK | 3200  <Anzahl Anträge (0..n)> | *Es ist kein Fehler aufgetreten* |
+| ***BEMERKUNG*** | OK | 3200  <Anzahl Anträge (0..n)> | *Es ist kein Fehler aufgetreten.* |
 | ERROR_LOGISCH | 3400 | Daten unvollständig- | *Der TSP MUSS prüfen, ob alle* |
 
 | CODE | NUMBER | DESCRIPTION | *BEMERKUNG* |
 |---|---|---|---|
-| OK | 3200 | <Anzahl Anträge (0..n)> | *Es ist kein Fehler aufgetreten* |
+| OK | 3200 | <Anzahl Anträge (0..n)> | *Es ist kein Fehler aufgetreten.* |
 | ERROR_LOGISCH | 3400 | Daten unvollständig- | *Der TSP MUSS prüfen, ob alle* |
 | ERROR_LOGISCH | 3403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der* |
 | ERROR_LOGISCH | 3410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die* |
@@ -1252,7 +1250,7 @@ Pflichtfelder fehlen Validierung fehlgeschlagen Pflichtfelder vorhanden sind. Au
 | ERROR_LOGISCH | 6403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der Aufruf der* |
 | ERROR_LOGISCH | 6410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die  zu lang ist oder ein Attribut einen  Fehlertext des XML-Parsers ergänzt* |
 | ERROR_LOGISCH | 6420 | AntragsID nicht vorhanden | ** |
-| ERROR_LOGISCH | 6450 | Beispiel für mehrere  Rücksetzungen, von der  „<Number>;<AntragsID >;“ | *Mindestens eine  Rücksetzung von mehreren  war nicht möglich. In diesem  Fall ist für jede Rücksetzung,  die nicht durchgeführt werden konnte, der konkrete Fehler in <Number> anzugeben.* |
+| ERROR_LOGISCH | 6450 | Beispiel für mehrere  Rücksetzungen, von der  „<Number>;<AntragsID >;“ | *Mindestens eine  Rücksetzung von mehreren  war nicht möglich. In diesem  Fall ist für jede Rücksetzung,  die nicht durchgeführt werden  konnte, der konkrete Fehler in  <Number> anzugeben.* |
 | ERROR_LOGISCH | 6460 | Antrag kann nicht | *Antrag hat einen Status, aus dem eine* |
 | ERROR_TECHNISCH | 6500 | TSP-Allgemeiner | ** |
 

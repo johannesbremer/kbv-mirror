@@ -4,7 +4,9 @@
 
 **Kostenträgerkennung Versicherten-Nr.**
 
-**Betriebsstätten-Nr. Arzt-Nr.**
+**Betriebsstätten-Nr.**
+
+**Arzt-Nr.**
 
 **Datum**
 
@@ -28,7 +30,9 @@
 
 **geb. am**
 
-**Belegarzt-** **Notfall**
+**Belegarzt-**
+
+**Notfall**
 
 **behandlung**
 

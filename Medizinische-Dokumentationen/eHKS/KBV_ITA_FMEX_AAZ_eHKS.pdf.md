@@ -4,12 +4,12 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.2   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 4.2   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG
 
-**EDOKUMENTATION -HAUTKREBS -**
+**EDOKUMENTATION-HAUTKREBS-**
 
 # SCREENING
 
@@ -26,11 +26,11 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 # 1 ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
 ## 1.1 ANTRAGSSTELLER
 
-Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV ver
+Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
 |  |  | | |
 |---|---|---|---|
@@ -48,16 +48,13 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-antwortlich zeichnet.
-
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] Übergabe
-
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht]
 
 ---
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -77,7 +74,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 ## 1.4  BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
@@ -88,14 +85,10 @@ Bitte geben Sie im Folgenden an, welche
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
-1.1
-
-Client-Betriebssysteme unterstützt werden.
-
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. Kostenträger-Stammdatei
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind.
 
 ---
 
@@ -119,6 +112,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
+
 
 ---
 
@@ -146,7 +140,7 @@ Diese Information ist verpflichtend anzugeben
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung – Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
 
 ---

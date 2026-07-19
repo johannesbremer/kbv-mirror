@@ -17,42 +17,27 @@
 
 ---
 
-## Hinweise zu den einzelnen Feldern (Ausfüllbereich
+## Hinweise zu den einzelnen Feldern (Ausfüllbereich Gynäkologe/ Gynäkologin):
 
 ## 1. Alterskategorie
 
-Entsprechend den Vorgaben der Richtlinie wird im Screening bei Frauen un zytologische Untersuchung durchgeführt, bei Frauen ab 35 eine Kombinationsuntersuchung aus Zytologie  und HPV-Test (Ko-Test). Im Rahmen der Abklärung auffälliger Befunde kann auch be und 34 Jahren ein Ko-Test erfolgen. Die Zuordnung zu einer Alterskategorie entscheidet über die primäre  Screeninguntersuchung und darüber, nach welchem in der Richtlinie  Befunde bei der Patientin abgeklärt werden sollen. Die Alterskategorie bezieht sich auf das Geburtsdatum  im Verhältnis zum Behandlungstag und erleichtert die Abläufe in der Zytologie
+Entsprechend den Vorgaben der Richtlinie wird im Screening bei Frauen unter 35 Jahren nur eine  zytologische Untersuchung durchgeführt, bei Frauen ab 35 eine Kombinationsuntersuchung aus Zytologie  und HPV-Test (Ko-Test). Im Rahmen der Abklärung auffälliger Befunde kann auch bei Frauen zwischen 30  und 34 Jahren ein Ko-Test erfolgen. Die Zuordnung zu einer Alterskategorie entscheidet über die primäre  Screeninguntersuchung und darüber, nach welchem in der Richtlinie vorgegebenen Algorithmus auffällige  Befunde bei der Patientin abgeklärt werden sollen. Die Alterskategorie bezieht sich auf das Geburtsdatum  im Verhältnis zum Behandlungstag und erleichtert die Abläufe in der Zytologie.
 
 ## 2. Auftrag
 
-Die Felder dienen der differenzierten Beauftragung von Leistungen des Primärscreenings oder der  Abklärungsdiagnostik gemäß oKFE-RL. Sollte der HPV-Test im Rahmen einer Ko-Testung (HPV + Zytologie)  selbst erbracht oder an Dritte überwiesen werden, so ist dies dem zur Durchführun Untersuchung beauftragten Zytologen/ Pathologen im Freitextfeld Nr.  Befund zugänglich zu machen. Der Pathologe/ Zytologe weist dann seinerseits im Freitextfeld  „Bemerkungen“ durch eine Notiz darauf hin, dass seine Zusammenfassende Empfehlung einen externen  HPV Befund berücksichtigt. Im oben dargestellten Fall einer Aufspaltung des Ko Berücksichtigung o.g. Empfehlungen, nur Zytologie angekreuzt.
+Die Felder dienen der differenzierten Beauftragung von Leistungen des Primärscreenings oder der  Abklärungsdiagnostik gemäß oKFE-RL. Sollte der HPV-Test im Rahmen einer Ko-Testung (HPV + Zytologie)  selbst erbracht oder an Dritte überwiesen werden, so ist dies dem zur Durchführung der zytologischen  Untersuchung beauftragten Zytologen/ Pathologen im Freitextfeld Nr. 6 anzuzeigen und diesem auch der  Befund zugänglich zu machen. Der Pathologe/ Zytologe weist dann seinerseits im Freitextfeld  „Bemerkungen“ durch eine Notiz darauf hin, dass seine Zusammenfassende Empfehlung einen externen  HPV Befund berücksichtigt. Im oben dargestellten Fall einer Aufspaltung des Ko-Test wird, unter  Berücksichtigung o.g. Empfehlungen, nur Zytologie angekreuzt.
 
 ## 3. Anamnese
 
-Das Muster 39 ist für Untersuchungen im Rahmen des Primärscreenings und der Abklärungsdiagnostik  vorgesehen. Die Befüllung dieses Feldes dient dazu, Angaben  Krebsfrüherkennungsuntersuchungen, HPV-Impfung, HPV-HR-Testergebnis sowie zu Voroperatione Strahlen- oder Chemotherapie der Patientin zu geben.
+Das Muster 39 ist für Untersuchungen im Rahmen des Primärscreenings und der Abklärungsdiagnostik  vorgesehen. Die Befüllung dieses Feldes dient dazu, Angaben zu durchgeführten  Krebsfrüherkennungsuntersuchungen, HPV-Impfung, HPV-HR-Testergebnis sowie zu Voroperationen,  Strahlen- oder Chemotherapie der Patientin zu geben.
 
-Bitte geben Sie den Befund mittels Münchener Nomenklatur III an
+Bitte geben Sie den Befund mittels Münchener Nomenklatur III an:
 
 | Erlaubte Werte | Erläuterung zur Münchner Nomenklatur III |
 |---|---|
 | 0, I, II-a, II-p, II-g, II-e, III-p, III-g, III-e, III-x, IIID1,  Die folgenden Werte der Münchener  I/II, II, I-II, IIw, IIk, IIID, III, IVa, IVb, V | 0 = unzureichendes Material,  I = unauffällige und unverdächtige Befunde  II-a = Unauffällige Befunde bei auffälliger  II-p, II-g, II-e = Befunde mit eingeschränkt  III-p, III-g, III-e, III-x = Unklare bzw. zweifelhafte  IIID1, IIID2 = Dysplasiebefunde mit größerer  IVa-p, IVa-g, IVb-p, IVb-g = Unmittelbare  V-p, V-g, V-e, V-x = Malignome |
 
-## Gynäkologe/ Gynäkologin):
-
-ter 35 Jahren nur eine
-
-i Frauen zwischen 30
-
-vorgegebenen Algorithmus auffällige
-
-6 anzuzeigen und diesem auch der
-
-zu durchgeführten
-
-g der zytologischen -Test wird, unter
-
-IIID2, IVa-p, IVa-g, IVb-p, IVb-g, V-p, V-g, V-e, V-x Nomenklatur II dürfen nur für Befunde bis zum 31.12.2014 verwendet werden: Anamnese protektivem Wert Regressionsneigung Vorstufen des Zervixkarzinoms n,
-
+IIID2, IVa-p, IVa-g, IVb-p, IVb-g, V-p, V-g, V-e, V-x Nomenklatur II dürfen nur für Befunde bis zum 31.12.2014 verwendet werden: Anamnese protektivem Wert Regressionsneigung Vorstufen des Zervixkarzinoms
 
 ---
 
@@ -80,4 +65,4 @@ Die Untersuchungsnummer des zytologischen Befundes ist im Bemerkungsfeld des Abs
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
 
-Richtlinie organisierte Krebsfrüherkennung des GBA ([https://www.g](https://www.g)-ba.de/richtlinien/104/).
+Richtlinie organisierte Krebsfrüherkennung des GBA ([https://www.g-ba.de/richtlinien/104/)](https://www.g-ba.de/richtlinien/104/)).

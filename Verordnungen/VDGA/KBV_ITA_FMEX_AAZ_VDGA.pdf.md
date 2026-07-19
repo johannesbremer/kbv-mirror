@@ -4,10 +4,10 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  21. FEBRUAR 2024  VERSION: 1.2   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   21. FEBRUAR 2024  VERSION: 1.2   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG  VERORDNUN G VON DIGA
+# ANTRAG AUF ZERTIFIZIERUNG  VERORDNUNG VON DIGA
 
 ## [KBV_ITA_FMEX_AAZ_VDGA]
 
@@ -88,15 +88,15 @@ Antragstellers Stellen der Prüfnummer, falls vorhanden]
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskatalogs |
+| ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskatalogs nach § 73 Abs. 9 |
 
 ## 2.2 KONDITIONALE PFLICHTFUNKTIONEN
 
-Folgende konditionalen Pflichtfunktionen
+Folgende konditionalen Pflichtfunktionen wurden umgesetzt:
 
 | IDENT- | BEZEICHNUNG | UMGESETZTE FUNKTIONEN |
 |---|---|---|
-| **KP3-020  KP3-030** | Eine Version der Verordnungssoftware  Verhalten der Software bei der Anzeige von Werbung Ausschalten von Werbung | ☐ |
+| **KP3-020  KP3-030** | Eine Version der Verordnungssoftware mit Produktwerbung  Verhalten der Software bei der Anzeige von Werbung  Ausschalten von Werbung | ☐ |
 | **KP4-312** | Angaben bei erster und wiederholter Verordnung | ☐ |
 | **KP4-322** | Freitext-Verordnung | ☐ |
 
@@ -110,9 +110,8 @@ Folgende optionale Funktionen wurden umgesetzt:
 | **O3-040** | Eine von Produktwerbung freie Version der  Werbefreie Verordnungssoftware | ☐ |
 | **O4-221** | Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten | ☐ |
 
-wurden umgesetzt:
+SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V erfüllt sind. NUMMER wird angeboten Ebene BITTE ANKREUZEN  Dritte NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN 
 
-SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V nach § 73 Abs. 9  erfüllt sind. NUMMER wird angeboten Ebene mit Produktwerbung  Dritte BITTE ANKREUZEN NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN
 
 ---
 
@@ -136,6 +135,7 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **E-Mail-Adresse** |  |
 
 Diese Information ist verpflichtend anzugeben
+
 
 ---
 
@@ -163,7 +163,7 @@ Diese Information ist verpflichtend anzugeben
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
 
 ---

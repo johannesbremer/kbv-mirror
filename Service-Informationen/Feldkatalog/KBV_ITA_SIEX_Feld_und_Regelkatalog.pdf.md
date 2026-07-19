@@ -1,7 +1,7 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Feld- und Regelkatalog* |
-|  | [KBV_ITA_SIEX_Feld_Regelkatalog |
+|  | [KBV_ITA_SIEX_Feld_Regelkatalog] |
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -24,7 +24,7 @@
 | 1.34 | 15.11.2024 | KBV | - |  | **4,  58** |
 | 1.33 | 15.08.2024 | KBV | -  -  -  -  -  -  -  -  - |  | **12** **18**     **71** **81** **82, 82** **85** **87** |
 
-Anpassung an das Update zum zweiten Quar- tal 2025 Aufnahme der FK 4112 Aufnahme der Regel 894 und 895 Streichen der FK 4244, 4245, 4246 Regel 849 und 871 gestrichen Anpassung an das Update zum ersten Quartal Anpassung der Erläuterung für Feld 3119 Anpassung des Felds 4132 Streichung der Felder 4273 und 4274 Streichung der Regel 057 Anpassung der Regel 536 Anpassung der Regel 868 Einführung der Regeln 886 und 887 Anpassung der Regel E001 Anpassung der Regel E020
+Anpassung an das Update zum zweiten Quar- tal 2025 Anpassung an das Update zum ersten Quartal Aufnahme der FK 4112 Aufnahme der Regel 894 und 895 Streichen der FK 4244, 4245, 4246 Regel 849 und 871 gestrichen Anpassung der Erläuterung für Feld 3119 Anpassung des Felds 4132 Streichung der Felder 4273 und 4274 Streichung der Regel 057 Anpassung der Regel 536 Anpassung der Regel 868 Einführung der Regeln 886 und 887 Anpassung der Regel E001 Anpassung der Regel E020
 
 ---
 
@@ -46,9 +46,7 @@ Anpassung an das Update zum zweiten Quar- tal 2025 Aufnahme der FK 4112 Aufnahme
 
 # 1 Einleitung
 
-### In diesem Dokument werden alle Feldkennungen und
-
-welche von der Kassenärztlichen Bundesvereinigung aktuell definiert bzw. veröffentlicht sind.
+In diesem Dokument werden alle Feldkennungen und Regeln aus der xDT-Familie aufgelistet,  welche von der Kassenärztlichen Bundesvereinigung aktuell definiert bzw. veröffentlicht sind.
 
 # 2 Feldverzeichnis
 
@@ -59,31 +57,80 @@ Zu jeder Feldkennung ist ein Eintrag mit den folgenden Angaben vorhanden:
 -  Feldkennung (FK),
 -  Feldbezeichnung,
 -  Länge des Feldinhaltes,
--  Feldtyp (a/A=alphanumerisch, n/N=numerisch, d/D=Datum)
+-  Feldtyp (a/A=alphanumerisch, n/N=numerisch, d/D=Datum),
 -  Wertebereich
 -  teilweise ergänzende Erläuterung.
 
-| FK | Feldbezeichnung | Länge | Typ | Wertebereich | Erläuterung |
-|---|---|---|---|---|---|
-| 0001 | Version XDT |  | A |  |  |
-| 0080 | ID der Fallakte oder Studie | ≤ 60 | A |  |  |
-| 0081 | Bezeichnung der Fallakte oder | ≤ 60 | A |  |  |
-| 0101 | KBV-Prüfnummer | 16 | A |  |  |
-| 0102 | Softwareverantwortlicher (SV) |  | A |  | Softwareverantwortlicher ist die juristi- |
-| 0103 | Software |  | A |  | Name der zugelassenen Software |
-| 0104 | Grouper-Software | ≤ 60 | a |  |  |
-| 0105 | KBV-Prüfnummer | 15 | A |  | Die Komponenten der Prüfnummer |
-| 0111 | Email-Adresse des SV |  | A |  |  |
-| 0121 | Straße des SV |  | A |  |  |
-| 0122 | PLZ des SV |  | A |  |  |
-| 0123 | Ort des SV |  | A |  |  |
-| 0124 | Telefonnummer des SV |  | A |  |  |
-| 0125 | Telefaxnummer des SV |  | A |  |  |
-| 0126 | Regionaler Systembetreuer |  | A |  | Regionaler Systembetreuer ist die ju- |
+**FK Feldbezeichnung**
 
-### Regeln aus der xDT-Familie aufgelistet,
+**Länge Typ**
 
-17  7 (SB) sche oder natürliche Person, die für die Einhaltung der Zulassungskrite- rien im rechtlichen Sinne gegenüber der KBV verantwortlich zeichnet. oder Softwarevariante. Bei Einsatz einer Softwarevariante ist deren Name zu hinterlegen. werden durch „/“ geternnt und werden als Zeichen mitgezählt ristische oder natürliche Person, die
+0001 Version XDT
+
+A 12
+
+0080 ID der Fallakte oder Studie ≤ 60 A
+
+0081 Bezeichnung der Fallakte oder ≤ 60 A
+
+Studie 0101 KBV-Prüfnummer
+
+16 A
+
+0102 Softwareverantwortlicher (SV)
+
+A 60
+
+0103 Software
+
+A 60
+
+0104 Grouper-Software
+
+≤ 60 a 0105 KBV-Prüfnummer
+
+15  17 A
+
+0111 Email-Adresse des SV
+
+A 60
+
+0121 Straße des SV
+
+A 60
+
+0122 PLZ des SV
+
+A 7
+
+0123 Ort des SV
+
+A 60
+
+0124 Telefonnummer des SV
+
+A 60
+
+0125 Telefaxnummer des SV
+
+A 60
+
+0126 Regionaler Systembetreuer
+
+A 60
+
+(SB)
+
+**Wertebereich Erläuterung**
+
+Softwareverantwortlicher ist die juristi-sche oder natürliche Person, die für  die Einhaltung der Zulassungskrite-rien im rechtlichen Sinne gegenüber  der KBV verantwortlich zeichnet.
+
+Name der zugelassenen Software  oder Softwarevariante. Bei Einsatz  einer Softwarevariante ist deren  Name zu hinterlegen.
+
+Die Komponenten der Prüfnummer  werden durch „/“ geternnt und werden  als Zeichen mitgezählt
+
+Regionaler Systembetreuer ist die ju-ristische oder natürliche Person, die
+
 
 ---
 
@@ -106,9 +153,7 @@ Zu jeder Feldkennung ist ein Eintrag mit den folgenden Angaben vorhanden:
 
 1  = Senkrechter Strich, im Programmiererjargon  Tastenkombination „Alt Gr“ und „<“ erzeugt.
 
-„Pipe” genannt. Auf PCs mit dem Betriebssystem
-
-betriebsstättennummer (NBSNR) haus-Adresse chen Dienstleistungen bzgl. der zuge- lassenen Software vornimmt.  Übertragung des Release-Stands der Software. Rahmen von KV-spezifischen Verträ- gen zur Übermittlung sonstiger Infor- mationen verwendet werden. Das Feld muss entsprechend folgende In- formationen enthalten können: Versionsnummer fixes Trennzeichen „|“ sonstige Informationen hört (beliebiger Identifier, falls (N)BSNR nicht existiert, eindeutige al- phanumerische Kennung z.B. bei Pri- vatpraxen) Zuläs- haus) sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, 99) Windows wird er über die
+betriebsstättennummer (NBSNR) haus-Adresse chen Dienstleistungen bzgl. der zuge- lassenen Software vornimmt.  Übertragung des Release-Stands der Software. Rahmen von KV-spezifischen Verträ- gen zur Übermittlung sonstiger Infor- mationen verwendet werden. Das Feld muss entsprechend folgende In- formationen enthalten können: Versionsnummer fixes Trennzeichen „|“ sonstige Informationen hört (beliebiger Identifier, falls (N)BSNR nicht existiert, eindeutige al- phanumerische Kennung z.B. bei Pri- vatpraxen) Zuläs- haus) sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, 99) „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die
 
 
 ---
@@ -356,7 +401,7 @@ chungskategorie bis 06, 07, 08, 09, 10, 14, 15]  60  60 Feldes „Bis Datum der 
 | 4202 | Unfall, Unfallfolgen | 1 | n |  |  |
 | 4204 | eingeschränkter Leistungsan- | 1 | n |  | Dieses Feld dient zur Kennzeichnung |
 
-45 spruch gemäß §16 Abs. 3a SGB V  2 und KHK Typ 2 und KHK Typ 1 und KHK 1 und KHK Name“ UC_Allgemeine- VersicherungsdatenXML/Versicherter/ Versicherungsschutz/Kostentrae- ger/AbrechnenderKostentrae- ger/Name UC_Allgemeine- VersicherungsdatenXML/Versicherter/ Versicherungsschutz /Kostentrae- ger/Name wenn eine Versichertenkarte eingele- sen wurde. Dies gilt auch, wenn die Daten von einem mobilen Kartenter- minal in ein PVS übernommen wer- den.  Anwender im Ersatzverfahren ist nicht gefordert, da faktisch nicht möglich. geleitete "Kassenname zur Bedruck- ung" darf nicht übertragen werden. von Fällen mit „eingeschränktem Leis- tungsanspruch gemäß § 16 Absatz 3a SGB V“.
+spruch gemäß §16 Abs. 3a SGB V   45 2 und KHK Typ 2 und KHK Typ 1 und KHK 1 und KHK Name“ UC_Allgemeine- VersicherungsdatenXML/Versicherter/ Versicherungsschutz/Kostentrae- ger/AbrechnenderKostentrae- ger/Name UC_Allgemeine- VersicherungsdatenXML/Versicherter/ Versicherungsschutz /Kostentrae- ger/Name wenn eine Versichertenkarte eingele- sen wurde. Dies gilt auch, wenn die Daten von einem mobilen Kartenter- minal in ein PVS übernommen wer- den.  Anwender im Ersatzverfahren ist nicht gefordert, da faktisch nicht möglich. geleitete "Kassenname zur Bedruck- ung" darf nicht übertragen werden. von Fällen mit „eingeschränktem Leis- tungsanspruch gemäß § 16 Absatz 3a SGB V“.
 
 ---
 
@@ -374,7 +419,7 @@ chungskategorie bis 06, 07, 08, 09, 10, 14, 15]  60  60 Feldes „Bis Datum der 
 | 4218 | (N)BSNR des Überweisers | 9 | n | 35nnnnnnn (Kranken- kknnnnnnn | Die Werte von „kk“ enthalten  kk=(01-03, 06-21, 24, 25, 27, 28, 31, |
 | 4219 | Überweisung von anderen Ärz- |  | a |  |  |
 
-suchungen tungen  60  60  60  60  60 Muster 85 (Nachweis der Anspruchs- berechtigung bei Ruhen des An- spruchs gemäß § 16 Absatz 3a SGB V) wird von den Krankenkassen aus- gestellt und dient dem Vertragsarzt als Information über den Behand- lungsanspruch. Versichertenkarte und der „Versi- cherte“ muss manu ell im Ersatzver- fahren aufgenommen werden. Muster 6 (Überweisungsschein) um ein entsprechendes Ankreuzfeld (ein- geschränkter Leistungsanspruch ge- mäß § 16 Absatz 3a SGB V) erwei- tert. Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten Leistungs- anspruch zu informieren.  formation im Rahmen seiner Abrech- nung unter Angabe des Feldes 4204 entsprechend übertragen.  haus) haus) sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, Zuläs- Zuläs-
+60  60  60  60 suchungen tungen  60 Muster 85 (Nachweis der Anspruchs- berechtigung bei Ruhen des An- spruchs gemäß § 16 Absatz 3a SGB V) wird von den Krankenkassen aus- gestellt und dient dem Vertragsarzt als Information über den Behand- lungsanspruch. Versichertenkarte und der „Versi- cherte“ muss manu ell im Ersatzver- fahren aufgenommen werden. Muster 6 (Überweisungsschein) um ein entsprechendes Ankreuzfeld (ein- geschränkter Leistungsanspruch ge- mäß § 16 Absatz 3a SGB V) erwei- tert. Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten Leistungs- anspruch zu informieren.  formation im Rahmen seiner Abrech- nung unter Angabe des Feldes 4204 entsprechend übertragen.  haus) haus) sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, Zuläs- Zuläs-
 
 ---
 
@@ -646,7 +691,7 @@ Darüber hinaus kann das Feld zusätz-lich ein mehrfaches Ansetzen der in  FK 50
 | 6006 | Diagnosenerläuterung |  | a |  |  |
 | 6008 | Diagnosenausnahmetat-be- |  | a |  |  |
 
-ten Gens kung)   20 tungserbringung (LANR) des Vertragsarz- tes/Vertragspsychotherapeu- tragsarztes hausärzte im Rahmen der ASV-Abrechnung) des LE der ASV-Abrechnung) stand haus) in KVDT-Anforderungskatalog in KVDT-Anforderungskatalog Zuläs- sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, 99) des BAR-Schlüsselverzeichnis- ses, tolerierter Ersatzwert für die Ziffern 8 - 9: 00 Werte 0, 1, 2, 3, 4, 5, 6, 7, 8, 9) weils gültigen Anlage 2 der Richtli- nie
+ten Gens kung)  tungserbringung (LANR) des Vertragsarz- tes/Vertragspsychotherapeu- tragsarztes hausärzte im Rahmen der ASV-Abrechnung) des LE der ASV-Abrechnung) stand  20 haus) in KVDT-Anforderungskatalog in KVDT-Anforderungskatalog Zuläs- sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, 99) des BAR-Schlüsselverzeichnis- ses, tolerierter Ersatzwert für die Ziffern 8 - 9: 00 Werte 0, 1, 2, 3, 4, 5, 6, 7, 8, 9) weils gültigen Anlage 2 der Richtli- nie
 
 ---
 
@@ -1213,17 +1258,15 @@ ketes tendatensätze  11 gramm  11 setzten Arzneimittelverordnungssoft- ware, fa
 
 **Feldbezeichnung**
 
-Handhabung “Übertragung  Doppelkilometer bzw. Wege-pauschale nach E-GO”  satzkassen
-
-zusätzlich erforderliche, zuläs-sige Werte in Feld “4123” (Per-sonenkreis/ Untersuchungs-kate-gorie)
-
 **Länge**
 
-2
+Handhabung “Übertragung 2
 
-bei Er-
+Doppelkilometer bzw. Wege-pauschale nach E-GO” bei Er-satzkassen
 
-2
+zusätzlich erforderliche, zuläs- 2
+
+sige Werte in Feld “4123” (Per-sonenkreis/ Untersuchungs-kate-gorie)
 
 **Typ Wertebereich Erläuterung**
 
@@ -1283,7 +1326,7 @@ n [01, 02, 03, 04, 05, 06, 01 = Beschädigter
 | 9407 | nicht zulässige Versichertenar- | 1 | n | [1, 3, 5] | 1 = Mitglied  3 = Familienversicherter  5 = Rentner |
 | 9408 | Abgabe von Früherkennungs- | 1 | n |  |  |
 
-Feld “4124” (SKT ben) rechnungsinformation SKT Pseudo-GNR" “010x” ten in Feld “3108” dokumenten -Zusatzanga- 10] amt gungsbehörde behörde unter FK 4126 erforder- 5000) eine GNR (FK 5001), muss dem Feld “Sachkosten/ Material- kosten in Cent” (FK 5012) eine Pseudo-GNR für Kosten vorange- hen. 5000) eine GNR (FK 5001), muss dem Feld “Sachkosten/ Material- kosten in Cent” (FK 5012) keine Pseudo-GNR für Kosten vorange- hen. 5000) keine GNR (FK 5001), so muss dem Feld “Sachkosten/Materialkosten in Cent” (FK 501 2) die Pseudo-GNR “88999” vorangehen, wenn nicht eine abweichende Regelung zur Pseudo- GNR unter den Feldkennungen 9410/9411 definiert ist. (vgl. auch P2- 610 (2) a, Anforderungskatalog KVDT) 0104]
+Feld “4124” (SKT -Zusatzanga- ben) rechnungsinformation SKT Pseudo-GNR" “010x” ten in Feld “3108” dokumenten 10] amt gungsbehörde behörde unter FK 4126 erforder- 5000) eine GNR (FK 5001), muss dem Feld “Sachkosten/ Material- kosten in Cent” (FK 5012) eine Pseudo-GNR für Kosten vorange- hen. 5000) eine GNR (FK 5001), muss dem Feld “Sachkosten/ Material- kosten in Cent” (FK 5012) keine Pseudo-GNR für Kosten vorange- hen. 5000) keine GNR (FK 5001), so muss dem Feld “Sachkosten/Materialkosten in Cent” (FK 501 2) die Pseudo-GNR “88999” vorangehen, wenn nicht eine abweichende Regelung zur Pseudo- GNR unter den Feldkennungen 9410/9411 definiert ist. (vgl. auch P2- 610 (2) a, Anforderungskatalog KVDT) 0104]
 
 ---
 
@@ -1296,7 +1339,7 @@ Feld “4124” (SKT ben) rechnungsinformation SKT Pseudo-GNR" “010x” ten in
 | 9452 | Festlegung der Sortierkriterien | 1 | n | [1, 2, 3, 4, 5, 6, 7, 8, 9] | 1 = KTAB  2 = AbrA  3 = GebO  4 = AbrG  5 = VKNR  6 = Status  7 = Name  8 = Quartal  9 = Scheinuntergruppe |
 | 9453 | Wert der KTAB in Sortierung | 2 | n |  |  |
 
-Doppelkilometer bzw. Wege- pauschale nach BMÄ” bei Pri- märkassen  60 10] DKM ab 2 Kilometer einmal je SA “010x”, Ausnahme: falls bei einzelnen Besuchen der Besuchsort und somit die Entfer- nung von dieser Zonenangabe ab- weicht, so ist die zutreffende We- gepauschale hinter dem entspre- chenden Besuch zu erfassen einer “handschriftlichen” Wege- geldliste bei der KV  enten” (SA 8000 =  0104),  dann auch Wegepauschale zulässig licher Notfalldienst,  dann tatsäch- lich gefahrene DKM Ausnahme:  ärztlicher Notfall- dienst, dann tatsächlich gefahrene organisierten Notfalldienst  ab ei- ner Entfernung von 0,5 Kilometern Angabe von DKM. Anmerkung: der organisierte Not- falldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Angabe der Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!)
+Doppelkilometer bzw. Wege- pauschale nach BMÄ” bei Pri- märkassen 10]  60 DKM ab 2 Kilometer einmal je SA “010x”, Ausnahme: falls bei einzelnen Besuchen der Besuchsort und somit die Entfer- nung von dieser Zonenangabe ab- weicht, so ist die zutreffende We- gepauschale hinter dem entspre- chenden Besuch zu erfassen einer “handschriftlichen” Wege- geldliste bei der KV  enten” (SA 8000 =  0104),  dann auch Wegepauschale zulässig licher Notfalldienst,  dann tatsäch- lich gefahrene DKM Ausnahme:  ärztlicher Notfall- dienst, dann tatsächlich gefahrene organisierten Notfalldienst  ab ei- ner Entfernung von 0,5 Kilometern Angabe von DKM. Anmerkung: der organisierte Not- falldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Angabe der Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!)
 
 ---
 
@@ -1367,7 +1410,7 @@ Zu jeder Regel ist ein Eintrag mit den folgenden Angaben vorhanden:
 | 005 | Format | HHMM | F | HH = Stunde, MM = Minute   Wertebereich: 0000-2359 |
 | 008 | Format | TTMMJJJJ | F | TT=Tag;MM=Monat;  JJJJ=Jahr |
 
-Archivierung  60 Parameter GenDG (Gen-Diagnostik-Ge- setz)  onsschutz-Gesetz) Normbereichsgrafik  für Muster der vertragsärztlichen Ver- sorgung  status
+GenDG (Gen-Diagnostik-Ge- setz)  onsschutz-Gesetz) Normbereichsgrafik  für Muster der vertragsärztlichen Ver- sorgung  Archivierung Parameter  60 status
 
 ---
 
@@ -1771,7 +1814,7 @@ status wenn Feld 4217 vorhanden ist und der Inhalt der Stellen 1-2 des Feldes 42
 | 839 | Kontext | Wenn Feld 5101 vorhanden ist, dann gilt:   der Wert in Feld 5101 muss mit einem der | I | Prüfung gegen besa-Satz bei ak- |
 | 840 | Kontext | Wenn das Feld 9102 = „93“ oder „94“ oder | W | 1-23:  Versionsnummer |
 
-status 2 des Feldes 4218 ≠ 35, dann gilt für den Inhalt des Feldes 4218 die Formatre- gel 049. 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Fel- des 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. = 00, dann muss der Feldinhalt von Feld 4106 = 00 oder „09“ sein. alpha], 11303[G-alpha] oder 19402[G-alpha], dann muss mindestens ein Feld 6001 mit ei- nem Inhalt ungleich „Z01.7“ vorhanden sein und die Felder 5070 und 5071 dürfen nicht übertragen werden. pha], 19451[G-alpha] oder 19452 [G-alpha], dann muss das Feld 5070 genau einmal je Feld 5001 vorhanden sein und es muss min- destens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein. pha], 19453[G-alpha] oder 19456[G-alpha], dann muss das Feld FK 5070 mindestens einmal je Feld 5001 vorhanden sein muss mindestens ein Feld 6001 mit einem In- halt ungleich „Z01.7“ vorhanden sein. 11513[G-alpha] oder 11522[G-alpha], müs- sen die Felder FK 5070 und FK 5071 mindes- tens einmal je Feld 5001 vorhanden sein. ein Feld FK 0223 vorhanden sein. Es können auch beide Feldkennungen vorkommen. 0102 oder 0104, dann gilt: Feld 5101 vorhanden sein. vorhanden ist, dann müssen die Inhalte der Felder 4226 und 5100 identisch sein. Werte aus Feld 0223 (SA „besa“) überein- stimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von Feld 4101 = Feld 9204 (adt0)). „95“ oder „96“ ist, dann muss der Feldinhalt B ... Z bei der genannten GOP mit Buchstabensuffix B ... Z bei der genannten GOP mit Buchstabensuffix B ... Z bei der genannten GOP mit Buchstabensuffix B ... Z bei der genannten GOP mit Buchstabensuffix führender“ Arzt tuellen Quartalsfällen
+status 2 des Feldes 4218 ≠ 35, dann gilt für den Inhalt des Feldes 4218 die Formatre- gel 049. 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Fel- des 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. = 00, dann muss der Feldinhalt von Feld 4106 = 00 oder „09“ sein. alpha], 11303[G-alpha] oder 19402[G-alpha], dann muss mindestens ein Feld 6001 mit ei- nem Inhalt ungleich „Z01.7“ vorhanden sein und die Felder 5070 und 5071 dürfen nicht übertragen werden. pha], 19451 [G-alpha] oder 19452 [G-alpha], dann muss das Feld 5070 genau einmal je Feld 5001 vorhanden sein und es muss min- destens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein. pha], 19453 [G-alpha] oder 19456[G-alpha], dann muss das Feld FK 5070 mindestens einmal je Feld 5001 vorhanden sein muss mindestens ein Feld 6001 mit einem In- halt ungleich „Z01.7“ vorhanden sein. 11513[G-alpha] oder 11522[G-alpha], müs- sen die Felder FK 5070 und FK 5071 mindes- tens einmal je Feld 5001 vorhanden sein. ein Feld FK 0223 vorhanden sein. Es können auch beide Feldkennungen vorkommen. 0102 oder 0104, dann gilt: Feld 5101 vorhanden sein. vorhanden ist, dann müssen die Inhalte der Felder 4226 und 5100 identisch sein. Werte aus Feld 0223 (SA „besa“) überein- stimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von Feld 4101 = Feld 9204 (adt0)). „95“ oder „96“ ist, dann muss der Feldinhalt B ... Z bei der genannten GOP mit Buchstabensuffix B ... Z bei der genannten GOP mit Buchstabensuffix B ... Z bei der genannten GOP mit Buchstabensuffix B ... Z bei der genannten GOP mit Buchstabensuffix führender“ Arzt tuellen Quartalsfällen
 
 ---
 
@@ -1789,11 +1832,9 @@ status 2 des Feldes 4218 ≠ 35, dann gilt für den Inhalt des Feldes 4218 die F
 | 852 | Kontext | Wenn das Feld 4255 befüllt ist, muss auch | F |  |
 | 853 | Kontext | Im Feld 4253 dürfen GNR nicht mehrfach  Im Feld 4256 dürfen GNR nicht mehrfach | F | Beispiele:   - Die Übertragung der Ziffer 35401 |
 
-6  = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem
+6  = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die
 
-Tastenkombination „Alt Gr“ und „<“ erzeugt.
-
-status „(.{1,23})|(.{1,23} \|([0-9][0-9][0-9][0-9])?([a-ku- x][a-z][1-9])*([a-ku-x][A-Z][1- 9])*)“ alpha], 32902[G-alpha], 32904[G-alpha], 32906[G-alpha], 32908[G-alpha], 32910[G-al- pha] oder 32911[G-alpha], dann muss min- destens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein und die Felder 5070 und 5071 dürfen nicht übertragen wer- den. muss entweder ein Feld 4241 oder ein Feld 4248 vorhanden sein.  Feld 4226 vorhanden ist, dann muss entwe- der ein Feld 4242 oder ein Feld 4249 vorhan- den sein. Feld 4226 vorhanden ist, dann muss ein Feld 4242 vorhanden sein. Das Feld 4249 darf nicht vorhanden sein. pha], 19451[G-alpha] oder 19452 [G-alpha], dann sollte das Feld 5071 genau einmal je Feld 5001 vorhanden sein. pha], 19453[G-alpha] oder 19456[G-alpha], dann sollte das Feld 5071 mindestens einmal je Feld 5001 vorhanden sein. wenn die Felder 4250, 4252, 4253, 4255 und 4256 nicht befüllt sind. dürfen nur übertragen werden, wenn das Feld 4244 nicht befüllt ist. meinsam übertragen werden. meinsam übertragen werden. das Feld 4252 befüllt sein. übertragen werden. übertragen werden. Trennzeichen „|“ 6F6F ... bei der genannten GOP mit Buchstabensuffix ... bei der genannten GOP mit Buchstabensuffix ... bei der genannten GOP mit Buchstabensuffix oder es dürfen die Felder 4250, 4252, 4253, 4255 und 4256 übertra- gen werden. in der FK 4253 und die erneute Windows wird er über die
+status „(.{1,23})|(.{1,23} \|([0-9][0-9][0-9][0-9])?([a-ku- x][a-z][1-9])*([a-ku-x][A-Z][1- 9])*)“ alpha], 32902[G-alpha], 32904[G-alpha], 32906[G-alpha], 32908[G-alpha], 32910[G-al- pha] oder 32911[G-alpha], dann muss min- destens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein und die Felder 5070 und 5071 dürfen nicht übertragen wer- den. muss entweder ein Feld 4241 oder ein Feld 4248 vorhanden sein.  Feld 4226 vorhanden ist, dann muss entwe- der ein Feld 4242 oder ein Feld 4249 vorhan- den sein. Feld 4226 vorhanden ist, dann muss ein Feld 4242 vorhanden sein. Das Feld 4249 darf nicht vorhanden sein. pha], 19451 [G-alpha] oder 19452 [G-alpha], dann sollte das Feld 5071 genau einmal je Feld 5001 vorhanden sein. pha], 19453 [G-alpha] oder 19456[G-alpha], dann sollte das Feld 5071 mindestens einmal je Feld 5001 vorhanden sein. wenn die Felder 4250, 4252, 4253, 4255 und 4256 nicht befüllt sind. dürfen nur übertragen werden, wenn das Feld 4244 nicht befüllt ist. meinsam übertragen werden. meinsam übertragen werden. das Feld 4252 befüllt sein. übertragen werden. übertragen werden. Trennzeichen „|“ 6F6F ... bei der genannten GOP mit Buchstabensuffix ... bei der genannten GOP mit Buchstabensuffix ... bei der genannten GOP mit Buchstabensuffix oder es dürfen die Felder 4250, 4252, 4253, 4255 und 4256 übertra- gen werden. in der FK 4253 und die erneute Tastenkombination „Alt Gr“ und „<“ erzeugt.
 
 
 ---
@@ -2207,7 +2248,7 @@ status den. muss FK 8421 vorkommen.   8421 nicht vorkommen. handen sein. sein vo
 | K019 | KBV | Wenn Inhalt von FK 4121 = 1 oder 2, dann | F |  |
 | K020 | KBV | Wenn Inhalt FK 8002 = Obj_0002 (Obj_Ab- | F | Die Angabe der BSNR und der |
 
-status (Obj_Laborergebnisbericht), dann muss min- destens eine FK 8002 mit den Werten Obj_0060 (Obj_Untersuchungsergebnis Klini- sche Chemie), Obj_0061 (Obj_Untersu- chungsergebnis Mikrobiologie), Obj_0062(Obj_Untersuchungsergebnis Krebsfrueherkennung Zervix-Karzinom), Obj_0063 (Obj_Untersuchungsergebnis Zyto- logie), Obj_0073(Sonstige Untersuchungser- geb-nisse) oder Obj_0055(Obj_Transfusions- medizin/Mutterschaftsvorsorge) vorhanden sein. chungsanforderung) oder    FK 8002 = derbarer Leistungen oder auf Test-I- Obj_0061 (Obj_Untersuchungsergebnis Mik- dent referenziert. Sind keine dieser robiologie), dann muss FK 8410 oder FK Angaben verfügbar, können die An- 7260 oder FK 8434 vorhanden sein (FK 8410 forderungen auch als Freitext mit und FK 7260 dürfen nicht gemeinsam vor- der FK 8434 übertragen werden.  handen sein). 8002 = Obj_0059 (Obj_Untersuchungsanfor- derung) und     FK 7303 = 2 oder 10 dann muss FK 8410 vorhanden sein und FK 7260 darf nicht vorhanden sein. muss das FK 4221 vorhanden sein. ≠ 27 oder 28. den Kombinationen vorhanden sein:  durch Laborfachärzte durchgeführt werden. FK 4217 und FK 4241 oder  FK 4225 und FK 4241 oder  FK 4225 und FK 4248. 4229 vorhanden sein. ≠ 27, 28, dann muss FK 8241 vorhanden sein. muss vorhanden sein. tens erforderlichen Angaben im Obj_0007 (Anschrift). Grundlage für diese Regel bilden die Vorgaben des KVDT. inhalt ungleich „D“ ist, dann gilt: FK 3112 nicht vorhanden sein. inhalt ungleich „D“  ist, dann gilt:  nicht vorhanden sein. gilt für den Inhalt FK 5001 die Regel F009. rechnung GKV) und FK 0201 in Satzart 8230 LANR ist bei Anforderungen, die im oder 8215 vorhanden, dann muss auch FK
+status (Obj_Laborergebnisbericht), dann muss min- destens eine FK 8002 mit den Werten Obj_0060 (Obj_Untersuchungsergebnis Klini- sche Chemie), Obj_0061 (Obj_Untersu- chungsergebnis Mikrobiologie), Obj_0062(Obj_Untersuchungsergebnis Krebsfrueherkennung Zervix-Karzinom), Obj_0063 (Obj_Untersuchungsergebnis Zyto- logie), Obj_0073(Sonstige Untersuchungser- geb-nisse) oder Obj_0055 (Obj_Transfusions- medizin/Mutterschaftsvorsorge) vorhanden sein. chungsanforderung) oder    FK 8002 = derbarer Leistungen oder auf Test-I- Obj_0061 (Obj_Untersuchungsergebnis Mik- dent referenziert. Sind keine dieser robiologie), dann muss FK 8410 oder FK Angaben verfügbar, können die An- 7260 oder FK 8434 vorhanden sein (FK 8410 forderungen auch als Freitext mit und FK 7260 dürfen nicht gemeinsam vor- der FK 8434 übertragen werden.  handen sein). 8002 = Obj_0059 (Obj_Untersuchungsanfor- derung) und     FK 7303 = 2 oder 10 dann muss FK 8410 vorhanden sein und FK 7260 darf nicht vorhanden sein. muss das FK 4221 vorhanden sein. ≠ 27 oder 28. den Kombinationen vorhanden sein:  durch Laborfachärzte durchgeführt werden. FK 4217 und FK 4241 oder  FK 4225 und FK 4241 oder  FK 4225 und FK 4248. 4229 vorhanden sein. ≠ 27, 28, dann muss FK 8241 vorhanden sein. muss vorhanden sein. tens erforderlichen Angaben im Obj_0007 (Anschrift). Grundlage für diese Regel bilden die Vorgaben des KVDT. inhalt ungleich „D“ ist, dann gilt: FK 3112 nicht vorhanden sein. inhalt ungleich „D“  ist, dann gilt:  nicht vorhanden sein. gilt für den Inhalt FK 5001 die Regel F009. rechnung GKV) und FK 0201 in Satzart 8230 LANR ist bei Anforderungen, die im oder 8215 vorhanden, dann muss auch FK
 
 ---
 
@@ -2359,7 +2400,7 @@ Für die Gruppe existieren inzwischen mehrere Nomenklaturen und Schreibweisen. F
 | V-e | V = 8 | e = 3 | 8,3 | **III** |
 | V-x | V = 8 | x = 4 | 8,4 | **III** |
 
-der Spalte „ Gruppe “ den dazu in FK7413 zu übermittelnden Wert.
+der Spalte „Gruppe “ den dazu in FK7413 zu übermittelnden Wert.
 
 “ den Wert, der im LDT mit der F
 

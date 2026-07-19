@@ -7,7 +7,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. FEBRUAR 2022   VERSION: 1.06   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# EMPFEHLUNG Z UR ERWEITERUNG DES  LDT2
+# EMPFEHLUNG ZUR ERWEITERUNG DES  LDT2
 
 ## [KBV_ITA_VGEX_EMPFEHLUNG_BEI_LDT2]
 
@@ -59,11 +59,11 @@ Feldkennungen 8617, 8618, 8620 und 8624 GUID in der Satzart 8218
 
 # 1 ÜBERSICHT
 
-Trotz des etablierten LDT 3 Standards zur Übermittlung von Laborinformationen wird an  noch der LDT 2 Standard eingesetzt.
+Trotz des etablierten LDT 3 Standards zur Übermittlung von Laborinformationen wird an einigen Stellen  noch der LDT 2 Standard eingesetzt.
 
-Zur Unterstützung einer weiterhin funktionierenden Übermittlung  empfiehlt die KBV den Nutzern die in Kapitel 2 beschriebenen Erweiterung des LDT 2.
+Zur Unterstützung einer weiterhin funktionierenden Übermittlung von Laborinformationen mittels LDT2  empfiehlt die KBV den Nutzern die in Kapitel 2 beschriebenen Erweiterung des LDT 2.
 
-Diese Empfehlung ist nicht als Weiterentwicklung des LDT 2
+Diese Empfehlung ist nicht als Weiterentwicklung des LDT 2 Standards durch die KBV anzusehen.
 
 # 2 ERWEITERUNG DES LDT2-DATENSATZES
 
@@ -77,12 +77,6 @@ Zwischen den Feldkennungen **4208** und **4217** sollten die nachfolgenden Feldk
 | **8626** | 1 | Rechtsgrundlage der | k | Entweder darf FK 8626 oder FK 8624  Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3,  Wenn Inhalt von FK 8626 = 3, darf FK  Wenn Inhalt von FK 8626 = 1, muss FK |
 | **8627** | 1 | KV-Sonderziffer | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
 | **8617** | 1 | Beauftragungsgrund | m | Wenn Inhalt von FK 8626 = 1, muss  Entweder darf FK 8617 oder FK 8624  Wenn Inhalt von FK 8626 = 3, darf FK |
-
-einigen Stellen
-
-von Laborinformationen mittels LDT2
-
-Standards durch die KBV anzusehen.
 
 vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. 8617, 8618, 8619 und 8620 nicht vor- handen sein. 8617 vorhanden sein. entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine be- liebige Kombination der zwei drei Feld- kennungen vorhanden sein. vorhanden sein.  8617 nicht vorhanden sein.
 
@@ -102,17 +96,13 @@ vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennu
 | **8624** | 1 | Covid-Beauftragung | k | Entweder darf FK 8617 oder FK 8624  Entweder darf FK 8626 oder FK 8624 |
 | **7330** | 1 | Telefonnummer des Ge- | K |  |
 
-Für die Feldkennung  Regel zusätzlich anzuwenden:
+Für die Feldkennung  Regel zusätzlich anzuwenden: **4111**, welche bereits in der ursprünglich LDT2 Definition vorhanden ist, ist folgende
 
 | FK | VORKOMMEN  1  2  3  4 | FELDBEZEICHNUNG | FELDART | BEDINGUNG |
 |---|---|---|---|---|
 | **4111** | 1 | Kostentraegerkennung | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
 
-Die Feldkennungen sollten wie folgt definiert werden:
-
-**4111**, welche bereits in der ursprünglich LDT2 Definition vorhanden ist, ist
-
-chen ÖGD testeten min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vorhan- den sein. vorhanden sein.  8618 nicht vorhanden sein. vorhanden sein.  8619 nicht vorhanden sein. 8620 nicht vorhanden sein. vorhanden sein.  vorhanden sein. entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein.folgende
+min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vorhan- den sein. vorhanden sein.  8618 nicht vorhanden sein. vorhanden sein.  8619 nicht vorhanden sein. 8620 nicht vorhanden sein. chen ÖGD vorhanden sein.  vorhanden sein. testeten entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein. Die Feldkennungen sollten wie folgt definiert werden:
 
 
 ---
@@ -126,7 +116,7 @@ chen ÖGD testeten min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  d
 | **8632** | Virusvarianten- diagnostik | 1 | num | 1 = Varianten-PCR nach § 4b Satz 2  TestV nach positivem PCR-Test | Muster OEDG |
 | **8618** | Betreut/unter- | 1 | num | 1 = ja | Muster 10C  Muster OEDG |
 | **8619** | Tätigkeit in Ein- | 1 | num | 1 = ja | Muster 10C  Muster OEDG |
-| **8620** | Betroffene Ein- | 1 | num | 1 = Medizinischen Einrichtungen  2 = Pflege- und anderen Wohneinrich- 3 = Gemeinschaftseinrichtungen 4 = Sonstigen Einrichtungen | Muster 10C  Muster OEDG |
+| **8620** | Betroffene Ein- | 1 | num | 1 = Medizinischen Einrichtungen   2 = Pflege- und anderen Wohneinrich- 3 = Gemeinschaftseinrichtungen  4 = Sonstigen Einrichtungen | Muster 10C  Muster OEDG |
 | **8621** | Einverständnis | 1 | num | 1 = ja | Muster 10C  Muster OEDG |
 | **8622** | Corona-GUID | 43 | alnum | Die eindeutige GUID wird nach den   o   | Muster 10C  Muster OEDG |
 
@@ -143,7 +133,7 @@ mer des Getes- teten grund / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4
 | **8626** | Rechtsgrund- | 1 | num | 1 = TestV | Muster OEDG |
 | **8627** | KV-Sonderziffer | 1 | alnum |  | Muster OEDG |
 
-Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen-den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind
+Wenn die Satzart 8218 die Informationen des Musters OEDG transportieren soll, dann können die folgen-den Felder nicht befüllt werden, da diese Informationen auf dem Muster nicht enthalten sind:
 
 - 3116
 - 3108

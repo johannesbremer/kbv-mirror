@@ -5,46 +5,46 @@
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Brustkrebs log_DMP_Brustkrebs Herbert-Lewin-Platz 2 2.24 Datum: 15.08.2024 Kennzeichnung: Öffentlich  Status: In Kraft 
+Brustkrebs log_DMP_Brustkrebs] 2.24 Datum: 15.08.2024 Kennzeichnung: Öffentlich  Status: In Kraft 
 
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.24 | 15.08.2024 | KBV | Neue Anforderung zu näheren Pa meter-Erläuterungen für Brust   Ergänzung einer zu berücksichti den Anforderung aus KVDT (Abschnitt  2.2)    Anpassung der möglichen  DMP-Kennzeichen (Abschnitt 3.3)   Aktualisierung bzgl. der zu übermit den Archive |  | **10f**   **14**   **24**   **9** |
-| 2.23 | 25.04.2023 | KBV | Aktualisierung der relevanten KVDT       Redaktionelle Überarbeitung     Einführung eines Barcodes PDF417 auf der übergreifenden | Angleichung an den ak-         Angleichung an den An- | **13** **29** **22** |
-| 2.22 | 08.08.2018 | KBV | Klarstellung der Anforderung    Aufnahme einer Regelung zur Zwi-   Überarbeitung der Anforderung P3   Klarstellung der Anforderung        Streichung der Anforderung P5   Anpassung der Anforderung    Aktualisierung der relevanten KVDT   Aktualisierung der referenzierten Do- | Behebung von Proble-     Klarstellung zum Um-   Angleichung an KVDT | **8** **11** **18,  19** **13** **20** **13** **30** |
+| 2.24 | 15.08.2024 | KBV | Neue Anforderung zu näheren Para- meter-Erläuterungen für Brustkrebs    Ergänzung einer zu berücksichtigen- den Anforderung aus KVDT (Abschnitt  2.2)    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)    Aktualisierung bzgl. der zu übermitteln- den Archive |  | **10f**   **14**   **24**   **9** |
+| 2.23 | 25.04.2023 | KBV | Aktualisierung der relevanten KVDT-       Redaktionelle Überarbeitung      Einführung eines Barcodes PDF417  auf der übergreifenden Teilnahmeer- | Angleichung an den ak-         Angleichung an den An- | **13** **29** **22** |
+| 2.22 | 08.08.2018 | KBV | Klarstellung der Anforderung P1-12 so-   Aufnahme einer Regelung zur Zwi-   Überarbeitung der Anforderung P3-20    Klarstellung der Anforderung P1-50        Streichung der Anforderung P5-30 und    Anpassung der Anforderung P4 -10    Aktualisierung der relevanten KVDT-   Aktualisierung der referenzierten Do- | Behebung von Proble-     Klarstellung zum Um-   Angleichung an KVDT | **8** **11** **18,  19** **13** **20** **13** **30** |
 | 2.21 | 25.07.2018 | KBV | Aktualisierung bzgl. der zu übermitteln- | Anpassung des DMP | **9** **20** |
-| 2.20 | 15.03.2018 | KBV | Aktualisierung der relevanten KVDT | Personalienfeld Ände- | **13** |
+| 2.20 | 15.03.2018 | KBV | Aktualisierung der relevanten KVDT- | Personalienfeld Ände- | **13** |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  | **10f** |  |  |  |
-|  |  |  | **24**  **9 DOKUMENTENHISTORIE** | 2.23  25.04.2023  KBV  Aktualisierung der relevanten KVDT       Redaktionelle Überarbeitung | Einführung eines Barcodes PDF417 auf der übergreifenden Angleichung an den ak-        **13** |
-|  |  | 2.22 | 08.08.2018 | KBV | Klarstellung der Anforderung |
-| Aufnahme einer Regelung zur Zwi- |  | Überarbeitung der Anforderung P3 |  | Klarstellung der Anforderung |  |
-|  | Anpassung der Anforderung |  | Aktualisierung der relevanten KVDT |  | Aktualisierung der referenzierten Do- |
+|  |  |  | **24**  **9 DOKUMENTENHISTORIE** | 2.23  25.04.2023  KBV  Aktualisierung der relevanten KVDT-       Redaktionelle Überarbeitung | Einführung eines Barcodes PDF417  auf der übergreifenden Teilnahmeer- Angleichung an den ak-        **13** |
+|  |  | 2.22 | 08.08.2018 | KBV | Klarstellung der Anforderung P1-12 so- |
+| Aufnahme einer Regelung zur Zwi- |  | Überarbeitung der Anforderung P3-20 |  | Klarstellung der Anforderung P1-50 |  |
+|  | Anpassung der Anforderung P4 -10 |  | Aktualisierung der relevanten KVDT- |  | Aktualisierung der referenzierten Do- |
 |  |  |  |  |  | Behebung von Proble- |
 |  | Klarstellung zum Um- |  | Angleichung an KVDT |  |  |
 |  | **11** |  | **18** | **,** | **19** |
 | **13** |  |  | **20** |  | **30** |
 
-Die Änderung der Version 2.2 4 sind zum 01.10.2024 umzusetzen.  ra- krebs gen- Anforderungen  Teilnahmeer- klärung tuellen Stand des KVDT Anforderungskataloges forderungskatalog eDMP P1-12 so- wie Neuaufnahme der Anforderung P1 schenspeicherung in P1-21 -20 sowie neu Aufnahme der Anforderung P3-21 P1-50 -30 und des Kapitels 3.1.3 P4 -10 Anforderungen kumente men bzgl. der TE/EWE gang mit Korrekturliefe- Fehler! Textmarke nicht definiert. Brustkrebs Anforderungen
+Die Änderung der Version 2.24 sind zum 01.10.2024 umzusetzen.  Anforderungen klärung wie Neuaufnahme der Anforderung P1- schenspeicherung in P1-21 sowie neu Aufnahme der Anforderung P3-21 des Kapitels 3.1.3 Anforderungen kumente Anforderungen tuellen Stand des KVDT- Anforderungskataloges  forderungskatalog eDMP men bzgl. der TE/EWE gang mit Korrekturliefe- Fehler! Textmarke nicht definiert.
 
 ---
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  |  |  | KBV  Ende der Übergangsfrist | 2.16 | 04.02.2015  KBV  Ende der Übergangsfrist   22.09.2014  KBV  Verweis auf KVDT-Funktionen P2-101-  Verwendung eines Ersatzwertes bei    Formulierung bezüglich der Standardi- |
-|  |  |  | Teilnahme von Versi-     bessere Verständlichkeit**13** |  | **16** 2.14 |
-| KBV | Formulierung in P4-70 korrigiert |  | 2.13  08.05.2014  KBV  Entfernen des Verweises auf die Up-  **26**  2.12  06.03.2014  KBV  Übergangslösung für Umstellung auf | 2.11  12.12.2013  KBV  Anpassung bzgl. Änderungen aus Up-   s. 2.07    2.10  16.10.2013  KBV  Umstellung auf eGK-VSD 5.2.0 (sci- Umstellung auf eGK**13** | 2.07  11.11.2013  KBV  Streichen der Regelung zur Über- Ende des Übergangs-**20 ** 2.06  06.08.2013  Hinweis auf eVersandliste unter P1-14   **8** |
+|  |  |  | KBV  Ende der Übergangsfrist | 2.16 | 04.02.2015  KBV  Ende der Übergangsfrist    22.09.2014  KBV  Verweis auf KVDT-Funktionen P2-101-  Verwendung eines Ersatzwertes bei    Formulierung bezüglich der Standardi- |
+|  |  |  | Teilnahme von Versi-     bessere Verständlichkeit **13** |  | **16** 2.14 |
+| KBV | Formulierung in P4-70 korrigiert |  | 2.13  08.05.2014  KBV  Entfernen des Verweises auf die Up-  **26**  2.12  06.03.2014  KBV  Übergangslösung für Umstellung auf | 2.11  12.12.2013  KBV  Anpassung bzgl. Änderungen aus Up-   s. 2.07    2.10  16.10.2013  KBV  Umstellung auf eGK-VSD 5.2.0 (sci- Umstellung auf eGK **13** | 2.07  11.11.2013  KBV  Streichen der Regelung zur Über- Ende des Übergangs-**20 ** 2.06  06.08.2013  Hinweis auf eVersandliste unter P1 -14   **8** |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 2.19 | 16.01.2018 | KBV | Angleichung an den eDMP-Anforde- • •   Aktualisierung bzgl. der zu übermitteln- | Personalienfeld Ände- | **9** **13**   **20** |
@@ -58,9 +58,9 @@ Die Änderung der Version 2.2 4 sind zum 01.10.2024 umzusetzen.  ra- krebs gen- 
 | 2.11 | 12.12.2013 | KBV | Anpassung bzgl. Änderungen aus Up- | s. 2.07 |  |
 | 2.10 | 16.10.2013 | KBV | Umstellung auf eGK-VSD 5.2.0 (sci- | Umstellung auf eGK | **13** |
 | 2.07 | 11.11.2013 | KBV | Streichen der Regelung zur Über- | Ende des Übergangs- | **20** |
-| 2.06 | 06.08.2013 | KBV | Hinweis auf eVersandliste unter P1-14 |  | **8** |
+| 2.06 | 06.08.2013 | KBV | Hinweis auf eVersandliste unter P1 -14 |  | **8** |
 
-rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- den Archive KVK-Ablöse KVK-Ablöse KVK als Berechtigungsnachweis zur Inanspruchnahme ärztlicher Leistun- gen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger  und P2 -166 –Überprüfung der Leistungs- pflicht des Kostenträgers im Abschnitt „Versicherteninformationen“ eingefügt. Versicherten der Sonstigen Kostenträ- ger ohne Versichertenkarte sierung des Wertes des Geburtsda- tums angepasst. date CD eGK-Formate date I/2014 phox-ssu v3) gestrichen derungskatalog cherten der Sonstigen Kostenträger an DMP zeitraums
+rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- den Archive KVK-Ablöse KVK-Ablöse KVK als Berechtigungsnachweis zur Inanspruchnahme ärztlicher Leistun- gen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger und P2 -166 –Überprüfung der Leistungs- pflicht des Kostenträgers im Abschnitt „Versicherteninformationen“ eingefügt. Versicherten der Sonstigen Kostenträ- ger ohne Versichertenkarte sierung des Wertes des Geburtsda- tums angepasst. date CD eGK-Formate date I/2014 phox-ssu v3) gestrichen derungskatalog cherten der Sonstigen Kostenträger an DMP zeitraums
 
 ---
 
@@ -70,7 +70,7 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 
 **1.1** **Zielbestimmung ..............................................................................................................................7**
 
-**1.2** **Pflichtfunktionen und optionale Funktionen der Software** **........................................................7**
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software ........................................................7**
 
 **2** **ÄRZTLICHES DOKUMENTIEREN _________________________________________ 8**
 
@@ -84,7 +84,7 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 
 2.1.4 Archivieren von Dokumentationsdaten ................................................................................ 11
 
-2.1.5 Eindeutigkeit von elektronischen Dokumentationen ............................................................ 12
+2.1.5 Eindeutigkeit von elektronischen Dokumentationen............................................................ 12
 
 2.1.6 Kostenerstattung.................................................................................................................. 13
 
@@ -92,7 +92,7 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 
 **2.2** **Versicherteninformationen......................................................................................................... 13**
 
-2.2.1 Patientenstammdaten "manuell" erfassen ........................................................................... 15
+2.2.1 Patientenstammdaten "manuell" erfassen........................................................................... 15
 
 *2.2.1.1* *Ersatzverfahren .................................................................................................... 15*
 
@@ -100,7 +100,7 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 
 2.2.3 Geschlecht DMP-Brustkrebs ............................................................................................... 17
 
-**2.3** **Drucken der Dokumentationsbögen des DMP Brustkrebs** **..................................................... 18**
+**2.3** **Drucken der Dokumentationsbögen des DMP Brustkrebs ..................................................... 18**
 
 2.3.1 Allgemeine Vorgaben .......................................................................................................... 18
 
@@ -118,7 +118,7 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 
 **3** **BARCODE DES FORMULARS DER TEILNAHMEERKLÄRUNG (EXEMPLAR FÜR DIE**  **DATENSTELLE) __________________________________________________________ 22**
 
-**3.1** **Anforderungen zur Barcodebedruckung** **.................................................................................. 22**
+**3.1** **Anforderungen zur Barcodebedruckung .................................................................................. 22**
 
 3.1.1 Zielbestimmung ................................................................................................................... 22
 
@@ -126,7 +126,7 @@ rungskatalog Verwendung/Bedeutung der Datumsfelder relevante KVDT-Anforderun- de
 
 3.1.3 Bedruckungsvorgaben ......................................................................................................... 22
 
-**3.2** **Datensatzbeschreibung Barcode** **.............................................................................................. 23**
+**3.2** **Datensatzbeschreibung Barcode .............................................................................................. 23**
 
 3.2.1 Allgemeine Informationen Barcode ..................................................................................... 23
 
@@ -341,7 +341,7 @@ Die Software muss dem Anwender die folgende Erläuterung zum Erstelldatum anzeig
 
 ---
 
-*Mithilfe von diesem Datumsfeld wird angegeben, für welches Quartal die Dokumentation er-* *stellt wurde, das Datum muss in dem entsprechenden Abrechnungsquartal liegen. Anhand die-* *ses Datums wird von Ihrer Datenannahmestelle geprüft, ob die korrekten Pa* *Dokumentation erfasst wurden.*
+*Mithilfe von diesem Datumsfeld wird angegeben, für welches Quartal die Dokumentation er-* *stellt wurde, das Datum muss in dem entsprechenden Abrechnungsquartal liegen. Anhand die-* *ses Datums wird von Ihrer Datenannahmestelle geprüft, ob die korrekten Parameter für die*  *Dokumentation erfasst wurden.*
 
 | PFLICHTFUNKTION EDMP | |
 |---|---|
@@ -349,7 +349,7 @@ Die Software muss dem Anwender die folgende Erläuterung zum Erstelldatum anzeig
 
 Der Anwender muss vor Beginn der Dokumentation auswählen, für welches Quartal die Doku-mentation erstellt werden soll.
 
-**Begründung:** Um zu gewährleisten, dass der Anwender die korrekten Dokumentationspara-meter erfasst und das von dem Softwaresystem die korre wird, soll zu Beginn der Dokumentation abgefragt werden, für welches Quartal der Anwender  dokumentieren möchte.
+**Begründung:** Um zu gewährleisten, dass der Anwender die korrekten Dokumentationspara-meter erfasst und das von dem Softwaresystem die korrekte Schnittstellenversion verwendet  wird, soll zu Beginn der Dokumentation abgefragt werden, für welches Quartal der Anwender  dokumentieren möchte.
 
 **Akzeptanzkriterium:**
 
@@ -378,15 +378,9 @@ Die Software prüft das Erstelldatum mit der Quartalsauswahl (P1-17) auf Konsist
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
-| **P1-41** | **Nähere Parameter** |
+| **P1-41** | **Nähere Parameter-Erläuterungen bei dem DMP Brustkrebs** |
 
-Das System muss sicherstellen, dass dem Anwender bei dem DMP Brustkrebs Parametern nähere Erläuterungen zur Verfügung gestellt werden.
-
-kte Schnittstellenversion verwendet
-
-*rameter für die*
-
--Erläuterungen bei dem DMP Brustkrebs zu spezifischen
+Das System muss sicherstellen, dass dem Anwender bei dem DMP Brustkrebs zu spezifischen  Parametern nähere Erläuterungen zur Verfügung gestellt werden.
 
 
 ---
@@ -494,7 +488,7 @@ Kombinationssysteme erhalten diese Informationen aus dem exportierenden System (
 
 Aus Kapitel 2.2 „Patientenstammdaten erfassen und verarbeiten“ in [KBV_ITA_VGEX_Anfor-derungskatalog_KVDT] müssen folgende Funktionen umgesetzt werden:
 
-*Hinweis: Für die Anwendung der Pflichtfunktionen P2-230, gilt, dass „Eine Weiterverarbeitung*  *zum Zwecke der ADT-Abrechnung darf mit diesem IK nicht möglich sein“ durch „Eine Weiter-* *verarbeitung zum Zwecke der Dokumentation darf mit diesem IK*  *ist.*
+*Hinweis: Für die Anwendung der Pflichtfunktionen P2-230, gilt, dass „Eine Weiterverarbeitung*  *zum Zwecke der ADT-Abrechnung darf mit diesem IK nicht möglich sein“ durch „Eine Weiter-* *verarbeitung zum Zwecke der Dokumentation darf mit diesem IK nicht möglich sein“ zu ersetzen*  *ist.*
 
 | KP2-100 | Einsatz zertifizierter Lesegeräte |
 |---|---|
@@ -524,9 +518,7 @@ Aus Kapitel 2.2 „Patientenstammdaten erfassen und verarbeiten“ in [KBV_ITA_V
 
 Tabelle 1
 
-Übersicht der zu realisierenden Pflichtfunktionen analog zu [KBV_ITA_VGEX_Anforderungs-katalog_KVDT]
-
-ärztlicher Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR-Seriennummer 3.-5. Stelle >= 800) Form angezeigt *nicht möglich sein“ zu ersetzen*
+ärztlicher Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR-Seriennummer 3.-5. Stelle >= 800) Form angezeigt Übersicht der zu realisierenden Pflichtfunktionen analog zu [KBV_ITA_VGEX_Anforderungs-katalog_KVDT]
 
 
 ---
@@ -551,7 +543,7 @@ Tabelle 1
 | **2.2.1** | Neben dem Einlesen einer Versichertenkarte existieren weitere Möglichkeiten, Patienten- |
 |  |  |
 | • |  |
-| **2.2.1.1 Ersatzverfahren** | Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von |
+| **2.2.1.1 Ersatzverfahren** | Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von Patientenstamm- |
 |  |  |
 |  |  |
 |  |  |
@@ -565,7 +557,7 @@ Tabelle 1
 |---|---|
 | **P2-40** | **„Ersatzverfahren“ anwenden** |
 
-Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. Patientenstamm- daten und wird wie folgt definiert  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen, Einsendepraxen, be- fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen , wie sie in das Personalienfeld des jeweiligen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: cda:patient  ver- gleiche [ <local_header><sciphox-ssu><GesetzlicheKrankenversiche-
+Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen  stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. daten und wird wie folgt definiert  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen, Einsendepraxen, be- fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen , wie sie in das Personalienfeld des jeweiligen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: cda:patient  ver- gleiche [ <local_header><sciphox-ssu><GesetzlicheKrankenversiche-
 
 ---
 
@@ -597,7 +589,7 @@ Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen stamm
 | BesonderePersonengruppe | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung>  <BesonderePersonengruppe> |
 | Versichertenart | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertenart> |
 
-Tabelle 2 Übersicht der zu erfassenden Daten im Ersatzverfahren Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte noch eine Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über das Ersatzverfahren erfasst werden. Da die Versichertennummer für die DMP-Dokumentation ein Pflichtfeld ist, muss in diesem Fall der Ersatzwert „X999999999“ für das Feld Versicherten- nummer eingetragen werden. Für die Weiterverarbeitung der o.a. Daten gelten - mit Ausnahme der Restriktionen zur "Amt- lichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet werden müssen.  2.2.2 Ein Geburtsdatum kann außerhalb des üblichen Datumsformats liegen; daher gilt: werden können.  birth_dttm (Geburtsdatum des Patienten) im DMP-Header:  JJJJ-TT-MM, JJJJ-MM-00, JJJJ-00-00 mit den Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart: 1. Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der der Versichertenkarte, so ist die Aufnahme in ein DMP abzulehnen un Krankenkasse eine Sonderbescheinigung einzureichen, auf der das Geburtsdatum ver- merkt ist. Dieses, seitens der zuständigen Krankenkasse bekannt gegebene Geburts- datum, ist für Dokumentation und Bedruckung zu verwenden. 2. Sind auf der der Versichertenkarte keine Angaben zum Geburtstag und –monat enthal- ten, so sind grundsätzlich folgende Angaben für Dokumentation und Bedruckung zu ver- wenden: Geburtstag: 01 Geburtsmonat: 01 Elemente gem. DMP-Header (Kindelemente von cda:patient  ver- d der Patient aufzufordern seitens seiner | PFLICHTFUNKTION DMP | |
+Elemente gem. DMP-Header (Kindelemente von Tabelle 2 Übersicht der zu erfassenden Daten im Ersatzverfahren Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte noch eine Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über das Ersatzverfahren erfasst werden. Da die Versichertennummer für die DMP-Dokumentation ein Pflichtfeld ist, muss in diesem Fall der Ersatzwert „X999999999“ für das Feld Versicherten- nummer eingetragen werden. Für die Weiterverarbeitung der o.a. Daten gelten - mit Ausnahme der Restriktionen zur "Amt- lichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet werden müssen.  2.2.2 Ein Geburtsdatum kann außerhalb des üblichen Datumsformats liegen; daher gilt: werden können.  birth_dttm (Geburtsdatum des Patienten) im DMP-Header:  JJJJ-TT-MM, JJJJ-MM-00, JJJJ-00-00 mit den Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart: 1. Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der der Versichertenkarte, so ist die Aufnahme in ein DMP abzulehnen und der Patient aufzufordern seitens seiner Krankenkasse eine Sonderbescheinigung einzureichen, auf der das Geburtsdatum ver- merkt ist. Dieses, seitens der zuständigen Krankenkasse bekannt gegebene Geburts- datum, ist für Dokumentation und Bedruckung zu verwenden. 2. Sind auf der der Versichertenkarte keine Angaben zum Geburtstag und –monat enthal- ten, so sind grundsätzlich folgende Angaben für Dokumentation und Bedruckung zu ver- wenden: Geburtstag: 01 Geburtsmonat: 01 cda:patient  ver-| PFLICHTFUNKTION DMP | |
 |---|---|
 | **P2-50** | **Geburtsdatum mit besonderem Wertebereich** |
 
@@ -628,8 +620,6 @@ Die Geschlechtsangabe ist optional. Falls die Geschlechtsangabe vorliegt, dann m
 2. Die Software muss sicherstellen, dass auf dem erzeugten Ausdruck alle Daten nach den  aktuell gültigen DMP-Richtlinien des G-BA2 ([GBA_DMP_RL], [GBA_DMP_A_RL]) aus-gedruckt werden.
 3. Die Software muss nach Bestätigung der vollständigen Plausibilisierung und endgültiger  Speicherung einen Hinweis bzw. eine Frage enthalten, ob jetzt ein Ausdruck zur Weiter-gab e an den Patienten erfolgen soll.
 
-2 Gemeinsamer Bundesausschuss
-
 | PFLICHTFUNKTION DMP | |
 |---|---|
 | **P3-12** | **Inhalt und Layout des Ausdrucks** |
@@ -656,6 +646,8 @@ Mithilfe dieser Anforderung soll sichergestellt werden, dass die aus dem System 
 1. Das System muss beim Ausdruck der Teilnahmeerklärungen stets die aktuell veröffent-lichten Vorlagen inklusive der Abmaße berücksichtigen und vollständig ausdrucken.
 2. Die Bedruckung des Personalienfeldes erfolgt stets nach den Bedruckungsvorschriften  des Kapitels „2.3 Bedruckung des Personalienfeldes“ aus dem Dokument „Anwendung  der eGK - Technische Anlage zu Anlage 4a (BMV-Ä)“.
 3. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderun-gen P2-210, P2-220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungs-katalog_KVDT] ermittelt werden.
+
+2 Gemeinsamer Bundesausschuss
 
 
 ---
@@ -705,15 +697,16 @@ KBV_ITA_AHEX_Handbuch_Pruefmodul] nachzulesen.
 
 Das System muss,
 
-a) die Daten nach den in [ ben für den Export vorbereiten,
+a) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen
+
+- ben für den Export vorbereiten,
+- ] beschriebenen Vorga-
 
 b) sicherstellen, dass die vom Anwender einzureichende Datenlieferung mindestens  aus einem Datenarchiv und einer Begleitdatei besteht,
 
 c) exportierte Dokumentationsdatensätze innerhalb des Systems kennzeichnen und
 
 d) sicherstellen, dass ausschließlich eine Dokumentationsart in einem Archiv enthalten  ist.
-
-- KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorga-
 
 ***Hinweis:***
 
@@ -733,9 +726,8 @@ d) sicherstellen, dass ausschließlich eine Dokumentationsart in einem Archiv en
 |---|---|
 | **P4-25** | **Korrekter Datenempfänger** |
 
-1. Das System muss es automatisiert ermöglichen, die Dokumentationsdaten empfänger-spezifisch zu exportieren. Dazu ist die von der KBV bereitgestellte  *annahmestellen* einzusetzen. Details zu den Vorgaben zum Einsatz dieser Stammdatei  sind Kapitel 3.2 zu entnehmen.
+1. Das System muss es automatisiert ermöglichen, die Dokumentationsdaten empfänger-spezifisch zu exportieren. Dazu ist die von der KBV bereitgestellte *Stammdatei Daten-* *annahmestellen* einzusetzen. Details zu den Vorgaben zum Einsatz dieser Stammdatei  sind Kapitel 3.2 zu entnehmen.
 2. Der Anwender muss die Möglichkeit haben, patientenspezifisch abweichende Empfän-ger zu konfigurieren. Diese patientenspezifische Einstellung überlagert die automatisiert  ermittelten Empfängerinformationen.
-- *Stammdatei Daten-*
 
 
 ---
@@ -910,7 +902,7 @@ IK tus Typ 1 oder Herzkrankheit oder Herzin- Arthritis schmerz samtlänge 1, Her
 
 # 4 Stammdateien der KBV
 
-## 4.1 Kostenträger-Stammdateien der KBV (EHD -Format)
+## 4.1 Kostenträger-Stammdateien der KBV (EHD-Format)
 
 *Hinweis: Mit dem Update „Datenkommunikation in der Arztpraxis“ für das 1.Quartal 2008 stellt*  *die KBV die Kostenträger-Stammdatei im EHD-Format zur Verfügung. Die neue Stammdatei ist*  *ab dem 01.04.2008 verpflichtend einzusetzen.*
 
@@ -922,7 +914,7 @@ Beispiel:
 
 **Mitte 2. Quartal 200x**  **EINSATZ KT-Stammdatei in der Praxis spätestens Beginn 3. Quartal 200x**
 
-*Hinweis zur Kostenträger-Stammdatei: Sollten sich im laufenden Quartal Änderungen zur KT* *Stammdatei ergeben, werden diese in einer KT-Änderungsdatei auf dem Server der KBV unter*  *[http://www.kbv.de](http://www.kbv.de/html/updates.php)[/html/updates.php](http://www.kbv.de/html/updates.php)[bereitgestellt.](http://www.kbv.de/html/updates.php)*
+*Hinweis zur Kostenträger-Stammdatei: Sollten sich im laufenden Quartal Änderungen zur KT-* *Stammdatei ergeben, werden diese in einer KT-Änderungsdatei auf dem Server der KBV unter*  *[http://www.kbv.de/html/updates.php](http://www.kbv.de/html/updates.php)[bereitgestellt.](http://www.kbv.de/html/updates.php)*
 
 ```
 [](http://www.kbv.de/html/updates.php)
@@ -998,7 +990,7 @@ b) Ein IK darf zu einem bestehenden KT-Stammsatz hinzugefügt werden.
 |---|---|
 | **K5-21** | **temporäre Erweiterung der KT-Stammdatei durch den Softwareverantwortli-** |
 
-Die von der KBV gelieferte aktuelle KT-Stammdatei kann bereits mit einem Update an die An-wender seitens des Softwareverantwortlichen **temporär** erweitert werden. Es können sowohl  neue Kostenträger-Stammsätze (SA 1250) als auch neue IK’s zu einem bestehenden KT Stammsatz hinzugefügt werden.
+Die von der KBV gelieferte aktuelle KT-Stammdatei kann bereits mit einem Update an die An-wender seitens des Softwareverantwortlichen **temporär** erweitert werden. Es können sowohl  neue Kostenträger-Stammsätze (SA 1250) als auch neue IK’s zu einem bestehenden KT-Stammsatz hinzugefügt werden.
 
 ## 4.2 Stammdatei Datenannahmestellen (SDDA)
 
@@ -1070,7 +1062,7 @@ Die von der KBV gelieferte aktuelle SDDA kann bereits mit einem Update an die An
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDoku-Header, gültig ab |
 | [KBV_ITA_AHEX_Handbuch_Pruefmodul] | KBV-Prüfmodul XPM Anwenderhandbuch |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
-| [KBV_ITA_VGEX_Schnittstelle_SDDA ] | Datenannahmestellen-Stammdatei (SDDA) Schnitt- |
+| [KBV_ITA_VGEX_Schnittstelle_SDDA] | Datenannahmestellen-Stammdatei (SDDA) Schnitt- |
 | [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT |
 | [GBA_DMP_RL] | Richtlinie des Gemeinsamen Bundesausschusses |
 | [GBA_DMP_A_RL] | Richtlinie des Gemeinsamen Bundesausschusses |

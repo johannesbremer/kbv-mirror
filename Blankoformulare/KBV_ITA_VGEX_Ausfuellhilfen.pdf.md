@@ -367,18 +367,20 @@ Das Element <feld> repräsentiert die einzelnen Felder eines Musters. Es enthäl
 
 Der XML-Code für ein <feld> Element hat folgenden Aufbau:
 
-**<feld>**
+| <feld> |  |  |
+|---|---|---|
+|  | **<nummer** | **V="..."/>** |
+| **<name** | **V="..."/>** |  |
+|  | **<hinweistext** | **V=“ . . .“/>** |
+| **</feld>** |  |  |
 
 **<nummer V="..."/>**
 
 **<name V="..."/>**
 
-**<hinweistext V=“...“/>**
-
-**</feld>**
-
 **XML-Code 4:** feld
 
+<hinweistext V=“...“/>
 
 ---
 
@@ -392,17 +394,16 @@ Der XML-Code für ein <nummer> Element hat folgenden Aufbau:
 
 **<nummer V="1">**
 
-**XML-Code 5:** nummer
+| XML-Code | 5: nummer |
+|---|---|
+| **5.5** | **name** |
+| Das | Element <name> enthä lt im V -Attribut den Namen des jeweiligen Feldes. |
+| **Abbildung** | **6:** name |
+| Der | XML-Code fü r e in < name> Element hat folgenden Aufbau: |
 
-## 5.5 name
-
-Das Element <name> enthält im V-Attribut den Namen des jeweiligen Feldes.
-
-**Abbildung 6:** name
-
-Der XML-Code für ein <name> Element hat folgenden Aufbau:
-
+```
 **<name V="** **Zeitraum der Dauerbehandlung">**
+```
 
 **XML-Code 6:** nummer
 
@@ -416,7 +417,7 @@ Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
 **<hinweistext V="** **Geben Sie hier bitte an, seit wann (TTMMJJ) der Versicherte sich in Dauerbe-** **handlung befindet. Eine**Dauerbehandlung** liegt vor, wenn der Versicherte mindestens ein Jahr**  **lang vor Ausstellen dieser Bescheinigung jeweils wenigstens einmal im Quartal wegen derselben**  **Erkrankung in Ärztlicher Behandlung war.">**
 
-**XML-Code 7:** hinweistext
+XML-Code 5: 5.5 name Das Element <name> enthält im V-Attribut den Namen des jeweiligen Feldes. Abbildung 6: Der XML-Code für ein <name> Element hat folgenden Aufbau: **XML-Code 7:** hinweistext
 
 
 ---

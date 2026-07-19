@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.07   DOKUMENTENSTATUS: IN** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 1.07   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 **PRUEFPAKET QS-HOLMIUM-LASER-**
@@ -13,7 +13,7 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHLT]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  KRAFT  
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -28,7 +28,7 @@ INHALT
 | 1.4 | Zertifizierungsdokumente | 6 |
 | 1.5 | Prü fu nte rla gen | 6 |
 | 1.6 | Prü fvorgaben | 7 |
-|  | 1.6.1 Prü fstam mdate n | 7 |
+|  | 1.6.1 Prü fstam mdaten | 7 |
 |  | 1.6.2 Praxisdaten/ Arztstempel | 8 |
 
 | 2 | PRÜ | FFÄ LLE | 9 |
@@ -94,7 +94,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen. Erst nach Erhalt der](mailto:pruefstelle@kbv.de) [Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab via E-Mail](mailto:pruefstelle@kbv.de) eingereichten Antrag auf Zertifizierung dort hochgeladen werden.
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch das Referat Zertifizierung.
-- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern .
+- 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
 **HINWEIS**
@@ -109,7 +109,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -135,7 +135,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Es wird eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im entsprechenden Verzeichnis  enthält, erwartet. Die Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die  weiteren Angaben entnehmen Sie bitte folgender Quelle: [KBV_ITA_VGEX_XML-Schnittstellen]. Diese  müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Die  Daten können nur über das Zertifizierungsportal (siehe Kapitel 1.3) hochgeladen und geprüft werden.
 
-- Videodateien und/oder Screenshots ausgewählter Anforderungen :
+- Videodateien und/oder Screenshots ausgewählter Anforderungen:
 
 
 ---
@@ -146,7 +146,7 @@ _[lfdNr.]2 3
 
 [PrüffallNr.]1
 
-- Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Dokumentation übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip Archiv muss wie folgt benannt werden:
+- Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Dokumentation“) sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip- Archiv muss wie folgt benannt werden:
 
 Zert_59_*SystemID*.zip
 
@@ -156,23 +156,17 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 ## 1.6 PRÜFVORGABEN
 
-Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV -Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
+Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
 ### 1.6.1 Prüfstammdaten
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
-1 Nummer des Prüffalls
+Prüfstammdateien verwendet 1 Nummer des Prüffalls
 
 2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
-
-- “) sind in einem zip-Archiv zu
-
-Unterlagen unter Verwendung des
-
-Prüfstammdateien verwendet
 
 
 ---
@@ -193,12 +187,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Zu verwendende Prüfnummer:** | Y/59/1407/36/000 |
 
-**Hinweis**: Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verste Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Datei
-
-en den zugehörigen Prüffällen zuzuordnen.
-
-hen Sie dieses
-
+**Hinweis**: Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses  Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen.
 
 ---
 
@@ -231,8 +220,8 @@ hen Sie dieses
 |  |  |
 |  | **Prüffall-ID** |
 | 1 | |
-| **Testziel** | Erstellen Sie eine Jahresstatistik |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermit |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2017 |
 | **Prüfunterlagen** | Jahresstatistik |
 | **Hinweis** | |
 |  |  |
@@ -246,12 +235,12 @@ hen Sie dieses
 |  |  |
 |---|---|
 | **Prüffall-ID** | 1 |
-| **Testziel** | Erstellen Sie eine Jahresstatistik |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermit |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2017 |
 | **Prüfunterlagen** | Jahresstatistik |
 | **Hinweis** |  |
 
-(zur Übermit gemäß Tabelle 1 tlung an die Datenannahmestelle) 0.03.2017  PRÜFFÄLLE PRÜFFALL 1
+gemäß Tabelle 1 tlung an die Datenannahmestelle) PRÜFFÄLLE PRÜFFALL 1
 
 ---
 
@@ -326,7 +315,7 @@ hen Sie dieses
 |  | |
 | **Prüffall-ID** | 2 |
 | **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die |
-| KBV_ITA_VGEX_Plausi_QSHLT | ) erkannt werden müssen |
+| KBV_ITA_VGEX_Plausi_QSHLT | ) erkannt werden müssen. |
 | **Voraussetzung** | |
 | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind | **Prüfunterlagen** |
 | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende | **Hinweis** |
@@ -343,12 +332,12 @@ hen Sie dieses
 |  |  |
 |---|---|
 | **Prüffall-ID** | 2 |
-| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSHLT) erkannt werden müssen |
+| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSHLT) erkannt werden müssen. |
 | **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
 | **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
 | **Hinweis** |  |
 
-Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Um die Plausibilitätsverstöße entsprechend darstellen zu können, sollten Sie die jeweils ausgewiesenen Wertkorrekturen an den Ursprungsdaten (Prüffall 1) zwischen den Konstellationen durchführen. Screenshots von allen Fehler - oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2
+Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Um die Plausibilitätsverstöße entsprechend darstellen zu können, sollten Sie die jeweils ausgewiesenen Wertkorrekturen an den Ursprungsdaten (Prüffall 1) zwischen den Konstellationen durchführen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2
 
 ---
 
@@ -454,7 +443,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 
 ---
 
-| KONSTELLATION | |
+| KONSTELLATION 7 | |
 |---|---|
 | **Harnstrahlmessungen** | |
 | 0 ml/s (Harnverhalt) | 1 |
@@ -470,7 +459,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | 10 – 15 ml/s | 2 |
 | Mehr als 15 ml/s | 3 |
 
-| KONSTELLATION | |
+| KONSTELLATION 8 | |
 |---|---|
 | **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Blasenverletzung | 12 |
@@ -495,7 +484,6 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Einschwemmung | 9 |
 
-7 8
 
 ---
 
@@ -606,7 +594,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 |---|---|
 | **Prüffall-ID** | 3 |
 | **Testziel** | Nach Eingabe aller zu Prüffall 2 gehörenden Daten erstellen Sie bitte wiederum eine |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 3 |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 30.06.2017 |
 | **Prüfunterlagen** | › › |
 | **Hinweis** |  |
 
@@ -618,7 +606,7 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | 50 – 69 ml | 5 |
 | 70 und mehr ml | 5 |
 
-Jahres-statistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 19 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 0.06.2017 
+Jahres-statistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 19 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 
 
 
 ---
@@ -627,16 +615,13 @@ Jahres-statistik (zur Übermittlung an die Datenannahmestelle) mit den Änderung
 
 Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstan Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den  Prüfunterlagen hochgeladen werden. An die angegebene E-Mail Adresse werden die Testergebnisse  gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den  Prüfunterlagen hochgeladen werden. An die angegebene E-Mail Adresse werden die Testergebnisse  gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
-
-d der -Archives.
-
 
 ---
 
@@ -647,8 +632,8 @@ d der -Archives.
 | **Referenz** | **Dokument** |
 | KBV_ITA_FMEX_AAZ_QSHLT | Antrag auf Zertifizierung QSHLT |
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV |
-| [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XML |
-| [KBV_ITA_VGEX_Schnittstelle_QS ] | Schnittstellenbeschreibung QS Kapselendoskopie |
+| [Austausch_von_XML-Daten_V(n.nn ).ZIP] | KBV_ITA_VGEX_XML-Schnittstellen - Austausch von |
+| [KBV_ITA_VGEX_Schnittstelle_QSHLT] | Schnittstellenbeschreibung QS Kapselendoskopie |
 | [KBV_ITA_VGEX_Plausi_QSHLT] | Plausibilitäten und Berechnungsvorschrift QS |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSHLT] | Anforderungskatalog |
 | Prüfstammdateien | Alle für das Verfahren ggf. relevanten |
@@ -660,4 +645,4 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Testschlüssel -Schnittstellen  - Austausch von XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Testschlüssel XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)

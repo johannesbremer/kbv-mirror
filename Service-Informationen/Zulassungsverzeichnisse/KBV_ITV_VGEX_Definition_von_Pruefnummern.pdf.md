@@ -5,7 +5,7 @@
 
 [KBV_ITV_VGEX_Definition_von_Prüfnummern]
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. NOVEMBER 2023  VERSION 1.0** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2023  VERSION 1.0** |
 |---|---|
 
 \|  |
@@ -40,13 +40,13 @@ Definition von Prüfnummern
 
 # 1 EINLEITUNG
 
-Zum Zwecke des Nachweises der erfolgten Zertifizierung werden Prüfnummern vergeben und auf  Zulassungslisten auf der Homepage der KBV veröffentlicht. Diese Prüfnummern gelten  Monate und müssen dann über Rezertifizierung
+Zum Zwecke des Nachweises der erfolgten Zertifizierung werden Prüfnummern vergeben und auf  Zulassungslisten auf der Homepage der KBV veröffentlicht. Diese Prüfnummern gelten in der Regel für 36  Monate und müssen dann über Rezertifizierungen erneuert werden.
 
 ## 1.1 DEFINITION DER PRÜFNUMMERN DER KBV ZUR ZERTIFIZIERUNG VON PRAXSISOFTWARE
 
-Die Bedeutung der einzelnen Stellen der Prüfnummern
+Die Bedeutung der einzelnen Stellen der Prüfnummern ist:
 
-**Softwareklasse/Komponente/Gültigkeitsbeginn/Gültigkeitsdauer/Software**
+**Softwareklasse/Komponente/Gültigkeitsbeginn/Gültigkeitsdauer/Software-ID**
 
 Beispiel: Y/1/2206/36/523 (Dr. KBV, Testsystem)
 
@@ -87,13 +87,7 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 | 500 | KVDT SADT |
 | 806-808 | KV-SafeNet Versionen 3.1-3.3 |
 
-in der Regel für 36  en erneuert werden.
-
-ist:
-
-**-ID**
-
-Deutsche Krankenhausgesellschaft
+Deutsche Krankenhausgesellschaft)
 
 ---
 

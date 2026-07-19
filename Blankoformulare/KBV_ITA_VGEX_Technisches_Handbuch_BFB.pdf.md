@@ -5,15 +5,14 @@
 
 ## KBV_ITA_VGEX_TECHNISCHES_HANDBUCH_BFB
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 14. NOVEMBER 2025   VERSION: 4.72   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 4.72   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
-
-**BLANKOFOR-**
 
 \|  |
 \|---|
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   **BLANKOFOR-**
+
 
 ---
 
@@ -246,11 +245,9 @@ Abbildung 1: Darstellung eines PDF417-Symbols  Abbildung 2: Aufbau des PDF417  A
 
 # TABELLENVERZEICHNIS
 
-Tabelle 1: Wechsel zwischen den Modi  Tabelle 2: Übergänge der TC-Sub-Modes  Tabelle 3: Sicherheits-Level des PDF417  Tabelle 4: Koeffzienten der Fehlerkorrektur-Codewörter für den Sicherheitslevel s=4 Tabelle 5: Barcode Inhalt 111  113  113
+Tabelle 1: Wechsel zwischen den Modi  Tabelle 2: Übergänge der TC-Sub-Modes  Tabelle 3: Sicherheits-Level des PDF417  Tabelle 4: Koeffzienten der Fehlerkorrektur-Codewörter für den Sicherheitslevel s=4  Tabelle 5: Barcode Inhalt 111  113  113
 
-114  116  118
-
-119  123
+114  116  118  119  123
 
 
 ---
@@ -310,7 +307,7 @@ Blankoformularbedruckung bezeichnet die Formularerzeugung auf Blankoformularen i
 
 Muster 16 (Rezept) ist das einzige Formular, das ausschließlich unter Verwendung des konventionellen Vor-drucks (DIN A6 quer) bedruckt wird.
 
-Bei der Erzeugung vertragsärztlicher Formulare im Rahmen der Blankoformularbedruckung wird, sofern in  [EXT_ITA_VGEX_Vordruckvereinbarung_BFB](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)[] vorgeschrieben, ein formularspezifischer Barcode generiert](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf) [und auf das Blankoformular gedruckt. Um die notwendige Genauigkeit des Barcodes für maschinelles Einle-](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf) sen zu garantieren, muss das Blankoformular entweder mit einem Laserdrucker oder einem Tintenstrahl-drucker erzeugt werden. Der Laserdrucker darf nicht im Modus „Eco Druck“ betrieben werden, weil dabei  weniger Toner aufgebracht wird und die maschinelle Lesbarkeit eingeschränkt ist. Der Tintenstrahldrucker  muss nach einem Prüfzeugnis der Papiertechnischen Stiftung (PTS) in Heidenau (früher der Bundesanstalt  für Materialforschung und -prüfung in Berlin) zur Herstellung von Urschriften von Urkunden geeignet sein.  Durch den Barcodeeinsatz bei der Blankoformularbedruckung werden direkt auf dem Formular lesbare In-formationen redundant in einem Barcode gespeichert und damit in maschinenlesbarer Form bereitgestellt Voraussetzung für das Erkennen des Barcodes ist der Einsatz von Barcode-Lesegeräten.
+Bei der Erzeugung vertragsärztlicher Formulare im Rahmen der Blankoformularbedruckung wird, sofern in  [EXT_ITA_VGEX_Vordruckvereinbarung_BFB](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)[] vorgeschrieben, ein formularspezifischer Barcode generiert](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf) [und auf das Blankoformular gedruckt. Um die notwendige Genauigkeit des Barcodes für maschinelles Einle-](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf) sen zu garantieren, muss das Blankoformular entweder mit einem Laserdrucker oder einem Tintenstrahl-drucker erzeugt werden. Der Laserdrucker darf nicht im Modus „Eco Druck“ betrieben werden, weil dabei  weniger Toner aufgebracht wird und die maschinelle Lesbarkeit eingeschränkt ist. Der Tintenstrahldrucker  muss nach einem Prüfzeugnis der Papiertechnischen Stiftung (PTS) in Heidenau (früher der Bundesanstalt  für Materialforschung und -prüfung in Berlin) zur Herstellung von Urschriften von Urkunden geeignet sein.  Durch den Barcodeeinsatz bei der Blankoformularbedruckung werden direkt auf dem Formular lesbare In-formationen redundant in einem Barcode gespeichert und damit in maschinenlesbarer Form bereitgestellt.  Voraussetzung für das Erkennen des Barcodes ist der Einsatz von Barcode-Lesegeräten.
 
 Das vorliegende Handbuch dient der Begleitung der technischen Umsetzung des Blankoformularbedruck-ungsverfahrens und ist zwingend in der jeweils gültigen Fassung durch die Anbieter entsprechender Soft-ware zu beachten.
 
@@ -378,6 +375,16 @@ Die optionalen Spalten „KVDT Feld“ und „LDT Feld“ benennen die Kennung d
 
 ---
 
+- 1. Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen ausge-druckt.
+- 2. Beispiel: O26.83 G, O12.2 Z, S51.9 G L
+- 3. Der Ausdruck der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-Code in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-Code, Diagno-sesicherheit und Seitenlokalisation ist das "Leerzeichen".
+- 4. Der Inhalt des Barcodes entspricht der Definition des Ausdruckes. Die Diagnosesicherheit (G, V, Z, A) und  / oder die Seitenlokalisation (R, L, B) erfolgt hinter jedem ICD-10-Code in der hier angegebenen Reihen-folge. Trennzeichen zwischen ICD-10-Code, Diagnosesicherheit und Seitenlokalisation ist das "Leerzei-chen". Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen in  den Barcode übertragen.
+- a) Auf den Mustern 8 „Sehhilfenverordnung“ und 8A „Verordnung von vergrößernden Sehhilfen“ wird  der Barcode in den freien Bereich rechts neben dem Arztstempel positioniert.
+- b) Bei Muster 56 „Antrag auf Kostenübernahme“ wird der Barcode auf Seite 2 in den freien Bereich  über dem Kassenstempel positioniert.
+- c) Bei Muster 20b/c „Stufenweise Wiedereingliederung in das Erwerbsleben (Wiedereingliederungs-plan)“ wird der Barcode in den freien Bereich links direkt neben dem Vertragsarztstempel positio-niert.
+- d) Bei Muster 10A „Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaft“ wird  der Barcode rechts in den freien Bereich unter ggf. Kennziffer und Geschlecht positioniert.
+- e) Bei Muster 39 „Krebsfrüherkennung Zervix Karzinom“ wird der Barcode in den freien Bereich links  direkt neben dem Vertragsarztstempel / Unterschrift des Arztes positioniert.
+
 | **NR.** | **FELD-** | **FELD-** | **TYP** | **ERLAUBTE INHALTE** | **FORMAT/ BEMERKUNG** | **KVDT-** | **LDT-** |
 |---|---|---|---|---|---|---|---|
 
@@ -397,23 +404,11 @@ Feldtrenner zwischen den Datenfeldern ist das TAB-Zeichen. Jedes Feld, auch wenn
 
 Bei der Bedruckung der Formulare mit einer Diagnoseverschlüsselung gem. ICD-10-SGB V gilt:
 
-- 1. Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen ausge-druckt.
-- 2. Beispiel: O26.83 G, O12.2 Z, S51.9 G L
-- 3. Der Ausdruck der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-Code in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-Code, Diagno-sesicherheit und Seitenlokalisation ist das "Leerzeichen".
-- 4. Der Inhalt des Barcodes entspricht der Definition des Ausdruckes. Die Diagnosesicherheit (G, V, Z, A) und  / oder die Seitenlokalisation (R, L, B) erfolgt hinter jedem ICD-10-Code in der hier angegebenen Reihen-folge. Trennzeichen zwischen ICD-10-Code, Diagnosesicherheit und Seitenlokalisation ist das "Leerzei-chen". Mehrere ICD-10-Codes werden mit "Komma", gefolgt von einem Leerzeichen als Trennzeichen in  den Barcode übertragen.
-
 ## 2.6 POSITIONIERUNG / AUFDRUCK DES BARCODES
 
 Der Barcode wird in der Regel unter Beachtung der in Kapitel 5 definierten Ruhezonen in den freien Bereich  direkt über dem Feld für den Arztstempel aufgedruckt.
 
-Ausnahmen:
-
-- a) Auf den Mustern 8 „Sehhilfenverordnung“ und 8A „Verordnung von vergrößernden Sehhilfen“ wird  der Barcode in den freien Bereich rechts neben dem Arztstempel positioniert.
-- b) Bei Muster 56 „Antrag auf Kostenübernahme“ wird der Barcode auf Seite 2 in den freien Bereich  über dem Kassenstempel positioniert.
-- c) Bei Muster 20b/c „Stufenweise Wiedereingliederung in das Erwerbsleben (Wiedereingliederungs-plan)“ wird der Barcode in den freien Bereich links direkt neben dem Vertragsarztstempel positio-niert.
-- d) Bei Muster 10A „Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaft“ wird  der Barcode rechts in den freien Bereich unter ggf. Kennziffer und Geschlecht positioniert.
-
-BEZEICHNUNG LÄNGE- e) Bei Muster 39 „Krebsfrüherkennung Zervix Karzinom“ wird der Barcode in den freien Bereich links  direkt neben dem Vertragsarztstempel / Unterschrift des Arztes positioniert.
+BEZEICHNUNG LÄNGEAusnahmen:
 
 
 ---
@@ -450,7 +445,7 @@ Da elektronische Dokumente in der Regel mit vertretbarem Aufwand nicht die gleic
 
 ## 2.10 ZEICHENSATZ ISO 8859-15
 
-Für den Ausdruck als auch für die in den Barcode zu codierenden Nutzdaten wird der Zeichensatz ISO 8859 15 (analog eGK) als Standard festgelegt.
+Für den Ausdruck als auch für die in den Barcode zu codierenden Nutzdaten wird der Zeichensatz ISO 8859-15 (analog eGK) als Standard festgelegt.
 
 ## 2.11 STANDARDBARCODES
 
@@ -488,9 +483,7 @@ In allen Mustern des Entlassmanagements gilt für das Feld „LANR“, dass bei 
 \|  |
 \|---|
 
-[Rahmenvertrag Entlassmanagement](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf) [](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
-
-LÄNGE 05, 06, 07, 08, 09, 10, 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1 [). Nach der Übergangs-](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
+LÄNGE zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 05, 06, 07, 08, 09, 10, 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1 [Rahmenvertrag Entlassmanagement](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)[). Nach der Übergangs-](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
 
 
 ---
@@ -824,7 +817,7 @@ Da der Barcode bei maximaler Befüllung der Felder eine Höhe von 4,8 cm erreich
 
 ### Barcode Inhalt Muster 8/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -857,7 +850,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + T
 
 ### Barcode Inhalt Muster 8A/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -990,9 +983,9 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 
 **HINWEIS**
 
-Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca.
+Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben.
 
-LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333 MAXIMALE GESAMTLÄNGE  1002 + TABS  TYP 3 3,7 cm ergeben.
+LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333 MAXIMALE GESAMTLÄNGE  1002 + TABS  TYP 3 
 
 
 ---
@@ -1073,9 +1066,9 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 
 **HINWEIS**
 
-Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca.
+Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben.
 
-LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333 MAXIMALE GESAMTLÄNGE  1002 + TABS  TYP 3 3,7 cm ergeben.
+LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333 MAXIMALE GESAMTLÄNGE  1002 + TABS  TYP 3 
 
 
 ---
@@ -1191,7 +1184,7 @@ Diese Aufträge sind im Barcode zu codieren als „03 06 23", wobei das Zeichen 
 
 ### Barcode Inhalt Muster 11/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -1688,9 +1681,9 @@ Laut Vordruckerläuterungen dürfen die Felder „täglich“, „wöchentlich�
 
 Für die Ausdrucke der Formulare gelten die folgenden Datumsformate abweichend vom Barcode:
 
-- Zeitraum und Häufigkeit der Maßnahmen: TTMM
+- Zeitraum und Häufigkeit der Maßnahmen: TTMM oder „TT.MM“ oder „TT MM“
 
-MAXIMALE GESAMTLÄNGE  406 + TABS   TYP 3 - oder „TT.MM“ oder „TT MM“
+MAXIMALE GESAMTLÄNGE  406 + TABS   TYP 3 
 
 
 ---
@@ -1865,7 +1858,7 @@ LÄNGE code-Typ 1 Arzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 0000000
 
 Das Feld 21 im Barcode vom Muster 19b ist aus Platzgründen auf 80 Zeichen beschränkt. Werden im Feld  „Befunde/Therapie“ des Formulars mehr als 80 Zeichen eingetragen, so wird der Textinhalt nur bis ein-schließlich Zeichen 80 in den Barcode übernommen. Die übrigen Zeichen werden nur in das Formular ge-druckt.
 
-Bei den Mustern 19a, 19b und 19c darf das Geschlecht unbekannt („U“ im Barcode) sein. In Ausnahme zu  den Kriterien (3) und (4) der Anforderung P4.8-30 erfolgt in diesem Fall kein Eintrag auf dem Formular
+Bei den Mustern 19a, 19b und 19c darf das Geschlecht unbekannt („U“ im Barcode) sein. In Ausnahme zu  den Kriterien (3) und (4) der Anforderung P4.8-30 erfolgt in diesem Fall kein Eintrag auf dem Formular.
 
 ---
 
@@ -1898,7 +1891,7 @@ Bei den Mustern 19a, 19b und 19c darf das Geschlecht unbekannt („U“ im Barco
 
 ### Barcode Inhalt Muster 20b/E
 
-LÄNGE code-Typ 1 kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2009,7 +2002,7 @@ oder Pflege wegen Krankheit vom  oder Pflege wegen Krankheit bis einschließlich
 
 ### Barcode Inhalt Muster 26a/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2100,7 +2093,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + T
 
 ### Barcode Inhalt Muster 27a/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2191,7 +2184,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + T
 
 ### Barcode Inhalt Muster 28a/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2286,9 +2279,9 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAX
 
 ---
 
-## 3.21
+## 3.21 MUSTER 39
 
-**3.21.1**
+**3.21.1** **Barcode Inhalt Muster 39a/E**
 
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
@@ -2316,10 +2309,7 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAX
 | **22** | **PLZ** | <=10 | a |  |  | 3112 | |
 | **23** | **Ort** | <=40 | a |  |  | 3113 | |
 
-## MUSTER 39
-
-Ende Versicherten_ID oder SKT-Zusatz gruppe LÄNGE INHALTE 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld ### Barcode Inhalt Muster 39a/E
-
+LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
 
 ---
 
@@ -2374,7 +2364,7 @@ LÄNGE Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - W
 
 ---
 
-**3.21.2**
+**3.21.2** **Barcode Inhalt Muster 39b/E**
 
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
@@ -2404,8 +2394,7 @@ LÄNGE Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - W
 | **24** | **Straße** | <=46 | a |  |  | 3107 | |
 | **25** | **Hausnummer** | <=9 | a |  |  | 3109 | |
 
-Ende Versicherten_ID oder SKT-Zusatz gruppe LÄNGE INHALTE 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld ### Barcode Inhalt Muster 39b/E
-
+LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
 
 ---
 
@@ -2423,7 +2412,7 @@ Ende Versicherten_ID oder SKT-Zusatz gruppe LÄNGE INHALTE 07, 08, 09 dardbar- c
 | **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM  JJ (die letzten beiden Stel- MM (die Angabe des Mo- |  | 7297 |
 | **36** | **Gruppe** | <=5 | a | 0, I, II, I/II, I- | Erläuterung zur Münchner    0 = unzureichendes Mate- rial,   I = unauffällige und un- verdächtige Befunde   II-a = Unauffällige Befunde  bei auffälliger Anamnese   II-p, II-g, II-e = Befunde  mit eingeschränkt protek- tivem Wert   III-p, III-g, III-e, III-x = Un- klare bzw. zweifelhafte  Befunde   IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung |  | 7414 |
 
-chung suchung LÄNGE INHALTE leer sind suchung  1=ja len der Jahresangabe) nates) Nomenklatur III II, II-a, IIw, IIk, II-p, II-g, II-e, IIID, IIID1, IIID2, III, III-p, III- g, III-e, III-x, IVa, IVa-p, IVa-g, IVb, IVb-p, IVb- g, V, V-p, V- g, V-e, V-x
+chung suchung LÄNGE INHALTE leer sind suchung  II, II-a, IIw, IIk, II-p, II-g, II-e, IIID, IIID1, IIID2, III, III-p, III- g, III-e, III-x, IVa, IVa-p, IVa-g, IVb, IVb-p, IVb- g, V, V-p, V- g, V-e, V-x 1=ja len der Jahresangabe) nates) Nomenklatur III
 
 ---
 
@@ -2454,7 +2443,7 @@ LÄNGE gebnis vor? Chemotherapie des Geni- tales Chemotherapie des Geni- tales -
 \|  |
 \|---|
 
-onshemmer / sonstige Hormonanwendung LÄNGE INHALTE 1=ja 1=ja 1=auffällig MAXIMALE GESAMTLÄNGE  560 + TABS   TYP 3 
+LÄNGE INHALTE onshemmer / sonstige Hormonanwendung 1=ja 1=ja 1=auffällig MAXIMALE GESAMTLÄNGE  560 + TABS   TYP 3 
 
 
 ---
@@ -2488,7 +2477,7 @@ onshemmer / sonstige Hormonanwendung LÄNGE INHALTE 1=ja 1=ja 1=auffällig MAXIM
 
 ### Barcode Inhalt Muster 50.2/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2521,7 +2510,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + T
 
 ### Barcode Inhalt Muster 51.2/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2554,7 +2543,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + T
 
 ### Barcode Inhalt Muster 52.2/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2587,7 +2576,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + T
 
 ### Barcode Inhalt Muster 53.2/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2653,7 +2642,7 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAX
 
 ### Barcode Inhalt Muster 56.2/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2748,7 +2737,7 @@ LÄNGE code-Typ 1 kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 000000
 
 ### Barcode Inhalt Muster 62Aa.1/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
 
 ---
 
@@ -2810,7 +2799,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  164 + T
 
 ### Barcode Inhalt Muster 63a.1/E
 
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3105,7 +3094,7 @@ Software, die die Blankoformularbedruckung unterstützt, muss vor ihrem Einsatz 
 
 Es kann Pflichtfunktionen, konditionale Pflichtfunktionen und optionale Funktionen geben. Pflichtfunktio-nen müssen in der Anwendungssoftware implementiert sein. Konditionale Pflichtfunktionen müssen imple-mentiert werden, wenn alle genannten Bedingungen zu dieser Funktion erfüllt sind. Optionale Funktionen  können implementiert werden, wenn alle genannten Bedingungen entsprechend realisiert werden.
 
-Die Realisierung aller Pflichtfunktionen, der konditionalen Pflichtfunktionen sowie der implementierten op-tionalen Funktionen ist im Rahmen des Begutachtungsverfahrens nachzuweisen
+Die Realisierung aller Pflichtfunktionen, der konditionalen Pflichtfunktionen sowie der implementierten op-tionalen Funktionen ist im Rahmen des Begutachtungsverfahrens nachzuweisen.
 
 Pflichtfunktionen sind wie folgt gekennzeichnet:
 
@@ -3174,13 +3163,13 @@ Mit einem Update zu den vertragsärztlichen Formularen muss der Softwareverantwo
 
 Die Bedruckungsvorgaben beziehen sich auf vertragsärztliche BFB-Formulare. Die im Rahmen der Blanko-formularbedruckung aufzudruckenden Daten der Versichertenkarte unterliegen Verarbeitungsrestriktionen  gemäß Vorgaben der Bundesmantelverträge1
 
+1 .vgl. § 19 Bundesmantelvertrag-Ärzte
+
 | PFLICHTFUNKTION BFB | |
 |---|---|
 | **P4.8-10** | **Geltungsbereich** |
 
 Alle bisher konventionell bedruckten vertragsärztlichen Formulare dürfen auch als BFB-Formulare gedruckt  werden, sofern sie als Blankoformular gemäß Vordruckvereinbarung vereinbart sind. Für das Entlassma-[nagement werden nur die im [](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)[Rahmenvertrag Entlassmanagement](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)[] vereinbarten Formulare verwendet.](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
-
-1 .vgl. § 19 Bundesmantelvertrag-Ärzte
 
 
 ---
@@ -3258,7 +3247,7 @@ Bei erfolgreicher Prüfung wird von der KBV-Prüfstelle eine Prüfnummer vergebe
 
 **HINWEIS**
 
-Für den Ausdruck der Prüfnummer gilt: Die zugeteilte Prüfnummer muss an der definierten Position (vgl.  Vordruck-Vereinbarung Blankoformularbedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden
+Für den Ausdruck der Prüfnummer gilt: Die zugeteilte Prüfnummer muss an der definierten Position (vgl.  Vordruck-Vereinbarung Blankoformularbedruckung) in ARIAL, Schriftgröße 5 ausgedruckt werden.
 
 | PFLICHTFUNKTION BFB | |
 |---|---|
@@ -3273,17 +3262,19 @@ Da bisherige Formate wie „TTMMJJ“ und „MMJJ“ für Ärzte und Patienten z
 
 ---
 
+**Akzeptanzkriterium**
+
 - 1. Das System stellt sicher, dass das Format von Datumsangaben auf BFB-Mustern dem Schema  TT.MM.JJ und MM.JJ oder MM/JJ oder „MM JJ“ folgt.
 - 2. Ausnahmen stellen die folgenden Muster und definierten Felder dar:
 - Muster 12 und 62C: Zeitraum und Häufigkeit der Maßnahmen:
-- Muster 25 „Der/die Versicherte ist bei mir in Behandlung seit:“
-- 3. Die Datumsangaben des Personalienfelds bleiben von dieser Anforderung unberührt.
-
-**Akzeptanzkriterium**
 
 TTMM“ oder „TT.MM“ oder „TT MM“
 
+- Muster 25 „Der/die Versicherte ist bei mir in Behandlung seit:“
+
 TTMMJJ
+
+- 3. Die Datumsangaben des Personalienfelds bleiben von dieser Anforderung unberührt.
 
 **HINWEIS**
 
@@ -3295,15 +3286,15 @@ Diese Anforderung gilt nicht für die Bedruckung der konventionellen Muster. Im 
 
 Ein Barcode (engl. Strichcode) bezeichnet eine aus Strichkombinationen bestehende Zeichenfolge. Bar-codes können mit Hilfe besonderer Lesegeräte (Scanner) gelesen werden und dienen so einer schnellen Da-tenübertragung bzw. Datenerfassung. Im Vergleich zu einer manuellen Erfassung von Daten lassen sich Ein-gabefehler und Korrekturen vermeiden. Barcodes lassen sich grundsätzlich in zwei Gruppen einteilen: eindi-mensionale (lineare) Barcodes, die Informationen lediglich in eine Richtung abbilden, und zweidimensionale  Barcodes, die Informationen durch die Verteilung von Strichen und Punkten sowohl über die Breite als auch  die Höhe codieren. Die Vorteile eines zweidimensionalen Barcodes gegenüber einem linearen Barcode lie-gen zum einen im geringen Platzbedarf und zum anderen in dem größeren codierbaren Zeichenvorrat.
 
-Der PDF417 ist ein zweidimensionaler Barcode. Ein PDF417-Symbol besteht aus mehreren Zeilen. Jede Zeile  beginnt mit einem einheitlichen Start-Muster und endet mit einem Stop-Muster, dazwischen befinden sich  die verschiedenen Datenmuster, sogenannte Codewörter. Der äußere Bereich eines PDF417-Symbols ist  stets unbedruckt. Diese sogenannte Ruhezone beträgt in horizontaler Richtung QH 2x und in vertikaler  Richtung Qv 2x.
+Der PDF417 ist ein zweidimensionaler Barcode. Ein PDF417-Symbol besteht aus mehreren Zeilen. Jede Zeile  beginnt mit einem einheitlichen Start-Muster und endet mit einem Stop-Muster, dazwischen befinden sich  die verschiedenen Datenmuster, sogenannte Codewörter. Der äußere Bereich eines PDF417-Symbols ist  stets unbedruckt. Diese sogenannte Ruhezone beträgt in horizontaler Richtung QH  2x und in vertikaler  Richtung Qv  2x.
 
-Abbildung 1: Darstellung eines PDF417 -Symbols
+Abbildung 1: Darstellung eines PDF417-Symbols
 
 ## 5.1 AUFBAU EINES PDF417-SYMBOLS
 
 ### 5.1.1 Cluster
 
-Die Codewörter im PDF417 können 929 Werte annehmen, wobei die Werte 900 -928 reserviert sind. Die  Menge aller möglichen Codewörter ist in drei - sich gegenseitig ausschließende - Verschlüsselungsmengen,  sogenannte Cluster, aufgeteilt. Jedes Cluster enthält 929 verschiedene Muster. Zugelassene Cluster -Num-mern sind 0, 3 und 6. Pro Zeile wird jeweils nur ein Cluster verwendet, dass sich in jeder 3. Zeile wiederholt,  wobei die Cluster-Nummer  des verwendeten Clusters sich aus der Reihen-Nummer # berechnen lässt  =((#-1)mod3)*3).
+Die Codewörter im PDF417 können 929 Werte annehmen, wobei die Werte 900-928 reserviert sind. Die  Menge aller möglichen Codewörter ist in drei - sich gegenseitig ausschließende - Verschlüsselungsmengen,  sogenannte Cluster, aufgeteilt. Jedes Cluster enthält 929 verschiedene Muster. Zugelassene Cluster-Num-mern sind 0, 3 und 6. Pro Zeile wird jeweils nur ein Cluster verwendet, dass sich in jeder 3. Zeile wiederholt,  wobei die Cluster-Nummer  des verwendeten Clusters sich aus der Reihen-Nummer # berechnen lässt  =((#-1)mod3)*3).
 
 ---
 
@@ -3340,7 +3331,7 @@ if =6  R =30*((# 1) div 3)+(s*3)+(r 1) mod 3
 
 ### 5.1.4 Füll-Codewort
 
-Da ein PDF417-Symbol immer rechteckig ist, muss im Fall cr>n+k ergänzt werden. Die Anzahl der Füll-Codewörter ist f=cr-n-k. Der Wert eines Füll-Codewort ist stets 900.  die Codewort-Matrix mit Füll-Codewörtern
+Da ein PDF417-Symbol immer rechteckig ist, muss im Fall cr>n+k die Codewort-Matrix mit Füll-Codewörtern  ergänzt werden. Die Anzahl der Füll-Codewörter ist f=cr-n-k. Der Wert eines Füll-Codewort ist stets 900.
 
 ### 5.1.5 Symbollängendeskriptor
 
@@ -3370,14 +3361,15 @@ Abbildung 2: Aufbau des PDF417
 
 und  werden zur Fehlererkennung verwendet, während  für Fehlerkorrektur genutzt werden, wobei 0 1
 
-2 k-1 die Anzahl der Fehlerkorrekturwörter k von dem gewählten Fehlerkorrektur -Level abhängig ist (s. Kapitel  5.2.4).
+2 k-1 die Anzahl der Fehlerkorrekturwörter k von dem gewählten Fehlerkorrektur-Level abhängig ist (s. Kapitel  5.2.4).
 
 Abbildung 3: Codeword-Symbol
 
 Die graphische Darstellung eines einzelnen Codeworts - sog. Codewort-Symbol (s. Abbildung 3) - besteht aus  17 Modulen, die zu 8 Elementen zusammengefasst sind, insgesamt 4 Striche (Bars) und 4 Leerräume (Spaces).  Elemente können maximal 6 Module breit sein1F2. Jedes Codewort-Symbol kann als eine Folge von 8 Ziffern,
 
-= Symbollängendeskriptor  - d = Codierte Daten 2 Ausnahme sind die Start- und Stop-Muster.
+2 Ausnahme sind die Start- und Stop-Muster.
 
+= Symbollängendeskriptor  - d = Codierte Daten
 
 ---
 
@@ -3394,7 +3386,7 @@ Daten, die codiert werden sollen, werden nicht direkt in einem Codewort abgebild
 | **BC** | 900 |  | 902 |
 | **NC** | 900 | 901,  924 |  |
 
-3. Eine solche Folge heißt X -Sequenz. Die X -Se-
+3. Eine solche Folge heißt X-Sequenz. Die X-Se-
 
 Tabelle 1: Wechsel zwischen den Modi
 
@@ -3406,25 +3398,23 @@ Codewort 913 bewirkt einen (temporären) Wechsel vom TC- zum BC-Mode, der sich n
 
 **HINWEIS**
 
-Nach Shift auf BC ist anschließend wieder der vorangegangene TC
+Nach Shift auf BC ist anschließend wieder der vorangegangene TC-Sub-Mode gültig.
 
 ### 5.2.1 Byte Compaction Mode
 
-Der Byte Compaction (BC) Mode erlaubt die Verschlüsselung von 256 internationalen Zeichen, inkl. der  ASCII-Werte 0-127 (s. Anhang 5.6.3). Im BC-Mode werden 6 Zeichen in 5 PDF417 wendung des „Basis 256 zu Basis 900 Konvertierungs Algorithmus“ codiert, der auf folgender Gleichung ba-siert:
+Der Byte Compaction (BC) Mode erlaubt die Verschlüsselung von 256 internationalen Zeichen, inkl. der  ASCII-Werte 0-127 (s. Anhang 5.6.3). Im BC-Mode werden 6 Zeichen in 5 PDF417-Codewörter unter Ver-wendung des „Basis 256 zu Basis 900 Konvertierungs siert:
 
 ```
-b *2565+b *2564+b *2563+b *2562+b *256
+b *2565+b *2564+b *2563+b *256
 5
 4
 3
 2
-1
-= d *9005+d *9004+d *9003+d *9002+d *900
+= d *9005+d *9004+d *9003+d *900
 5
 4
 3
 2
-1
 ```
 
 Wobei bi = dezimaler Wert eines BC-Zeichen; di = Codewort
@@ -3439,17 +3429,15 @@ Algorithmus:
 
 3 Ausnahme ist das Stop-Muster.
 
--Sub-Mode gültig.
+Algorithmus“ codiert, der auf folgender Gleichung ba-
 
 ```
-1+b *2560
+2+b *2561
+1
+2+d *9001
++b *2560
 0
 1+d *9000
-```
-
--Codewörter unter Ver-
-
-```
 0
 ```
 
@@ -3507,7 +3495,7 @@ Die Codewort Sequenz d ... d ist 387,700,208,213,302 4
 
 ### 5.2.2 Numeric Compaction Mode
 
-Im Numeric Compaction (NC) Mode werden längere Ziffernfolgen in Codewörter codiert (bei Ziffernfolgen  mit weniger als 14 Ziffern ist der TC -Mode effizienter). Im NC können bis zu 2,93 Zeichen pro Codewort co-diert werden. Der NC-Mode basiert auf dem „Basis 10 zu Basis 900-Konvertierungsalgorithmus“.
+Im Numeric Compaction (NC) Mode werden längere Ziffernfolgen in Codewörter codiert (bei Ziffernfolgen  mit weniger als 14 Ziffern ist der TC-Mode effizienter). Im NC können bis zu 2,93 Zeichen pro Codewort co-diert werden. Der NC-Mode basiert auf dem „Basis 10 zu Basis 900-Konvertierungsalgorithmus“.
 
 Algorithmus:
 
@@ -3562,7 +3550,8 @@ d = 1234831232 mod 900 2
 = 632
 t = 1234831232 div 900 = 1372034
 Berechnung des Codeworts 3
-d = 1372034 mod 900 3
+d = 1372034 mod 900
+3
 = 434
 t = 1372034 div 900  = 1524
 Berechnung des Codeworts 4
@@ -3571,24 +3560,19 @@ d = 1524 mod 900
 = 624
 t = 1524 div 900   = 1
 Berechnung des Codeworts 5
-d = 1 mod 900
+d = 1 mod 900    = 1
 4
-= 1
 t = 1 div 900    = 0
 Die Codewort Sequenz d ...d ist 1,624,434,632,282,200 5 0
 ```
 
 ### 5.2.3 Text Compaction Mode
 
-Im Text Compaction (TC) Mode können alle druckbaren ASCII ISO646), und einige ASCII-Steuerzeichen (ASCII-Werte 9, 10, 13) codiert werden.  -Zeichen, d.h. ASCII-Werte 32-126 (gemäß
+Im Text Compaction (TC) Mode können alle druckbaren ASCII-Zeichen, d.h. ASCII-Werte 32-126 (gemäß  ISO646), und einige ASCII-Steuerzeichen (ASCII-Werte 9, 10, 13) codiert werden.
 
 Der TC-Mode hat vier Sub-Modes:
 
-Jeder Sub-Mode enthält 30 Zeichen (s. Anlage  deren Sub-Mode zu wechseln. Sprungbefehle können zum einen ein „Umschalten“ bewirken, d.h. nach ei-nem Zeichen wird wieder in den Ausgangs d.h. der neue Sub-Mode bleibt bis zum nächsten Sprungbefehl erhalten.
-
-5.6.4) -
-
--Sub-Mode zurückgegangen, und zum anderen einen „Wechsel“,  inkl. „Sprungbefehlen“, d.h. Zeichen, um in einen an-
+Jeder Sub-Mode enthält 30 Zeichen (s. Anlage 5.6.4) - deren Sub-Mode zu wechseln. Sprungbefehle können zum einen ein „Umschalten“ bewirken, d.h. nach ei-nem Zeichen wird wieder in den Ausgangs-Sub-d.h. der neue Sub-Mode bleibt bis zum nächsten Sprungbefehl erhalten.  Mode zurückgegangen, und zum anderen einen „Wechsel“,  inkl. „Sprungbefehlen“, d.h. Zeichen, um in einen an-
 
 | AUSGANGS  SUB-MODE | ZIEL SUB-MODE |  |  | |
 |---|---|---|---|---|
@@ -3598,7 +3582,7 @@ Jeder Sub-Mode enthält 30 Zeichen (s. Anlage  deren Sub-Mode zu wechseln. Sprun
 | **Mixed** | al | ll |  | ps, pl |
 | **Punctuation** | al |  |  |  |
 
-Tabelle 2: Übergänge der TC -Sub-Modes
+Tabelle 2: Übergänge der TC-Sub-Modes
 
 - al = Wechsel zu Alpha
 
@@ -3661,13 +3645,13 @@ P.
 
 Der PDF417 bietet die Möglichkeit, Fehler zu erkennen und zu beheben. Diese Fähigkeit ist über verschiedene  Sicherheitslevel skalierbar, die die Anzahl der zur Fehlerkorrektur verwendeten Codewörter determinieren  (s. Tabelle 3
 
-Die Fehlererkennung wird im PDF417 über 2 Codewörter realisiert. Alle Sicherheitslevel beinhalten eine Feh-lererkennung. Fehlerkorrektur wird eingesetzt, um Beschädigungen des Barcode -Symbols oder Lesefehler  beim Einleseprozess zu kompensieren. Prinzipiell können bei der Fehlerkorrektur zwei Arten von Fehlern be-hoben werden:
+Die Fehlererkennung wird im PDF417 über 2 Codewörter realisiert. Alle Sicherheitslevel beinhalten eine Feh-lererkennung. Fehlerkorrektur wird eingesetzt, um Beschädigungen des Barcode-Symbols oder Lesefehler  beim Einleseprozess zu kompensieren. Prinzipiell können bei der Fehlerkorrektur zwei Arten von Fehlern be-hoben werden:
 
 Auslöschungen, d.h. fehlende oder nicht-lesbare Codewörter (die Position des Codeworts ist bekannt, nicht  jedoch sein Wert)
 
 Ersetzungsfehler, d.h. falsch gelesene Codewörter (die Position und der Wert des Codeworts sind unbekannt)
 
-Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Codewörter, um Ersetzungs-fehler auszubessern. Demzufolge können bei einem bestimmten Sicherheitslevel maximal eine bestimmte  Anzahl Fehler gefunden und richtiggestellt werden: 2s+1  2
+Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Codewörter, um Ersetzungs-fehler auszubessern. Demzufolge können bei einem bestimmten Sicherheitslevel maximal eine bestimmte  Anzahl Fehler gefunden und richtiggestellt werden: 2s+1
 
 | SICHERHEITSLEVEL | BENÖTIGTE ANZAHL AN CODEWÖRTERN | |
 |---|---|---|
@@ -3682,16 +3666,18 @@ Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Co
 | **7** | 254 | 2 |
 | **8** | 510 | 2 |
 
-Tabelle 3: Sicherheits -Level des PDF417
+Tabelle 3: Sicherheits-Level des PDF417
 
 ### 5.2.5 Berechnung der Koeffizienten der PDF417 Fehlerkorrektur-Codewörter
 
 Das folgende Generator-Polynom wird verwendet, um die Koeffizienten für jeden Fehlerkorrektur-Level zu  bestimmen.
 
 ```
-g (x) =(x-3)(x-3k
-2)(x-33) ... (x-3K
-k0 k1x+ k2x2+ ... kk 1xk 1+xk
+g (x) =(x-3)(x-32)(x-33) ... (x-3
+k
+x+ x2+ ... xk 1+xk
+k0 k1 k2
+kk 1
 ```
 
 wobei k = 2s+1
@@ -3701,8 +3687,19 @@ Algorithmus:
 ```
 - 1. Berechne k = 2s+1
 - 2. Berechne g (x)=(x-3)(x-3k
-- 2)(x-33)...(x-3K
-- 3. k0 k1x+ k2x2+...+ kk-1xk-1+xk
+- 3.
+- x+ x2+...+ xk-1
+- k0 k1 k2
+- kk-1
+```
+
+2
+
+```
+K
+- 2)(x-33)...(x-3
+- +xk
+- K
 ```
 
 ---
@@ -3740,7 +3737,7 @@ Die Koeffizienten für den im Rahmen der Blankoformularbedruckung verwendeten Si
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  | 273 | 494 | 263 | 147 | 593 | 800 | 571 | 320 | 803 | 133 | 231 | 390 | 685 | 330 | 63 | 410 |
 
-Tabelle 4: Koeffzienten der Fehlerkorrektur -Codewörter für den Sicherheitslevel s=4
+Tabelle 4: Koeffzienten der Fehlerkorrektur-Codewörter für den Sicherheitslevel s=4
 
 **Berechnung der Fehlerkorrektur-Codewörter**
 
@@ -3788,22 +3785,15 @@ jj-1 3
 
 ```
 END
-t = (t * ) mod 929
-2
-1 0
+t = (t *2
+1
 t = 929-t 3
-2
 = t mod 929 0 3
 END
-- 5. Berechene das Komplement für alle  ...
-- j 0
-- k 1
+- 5. Berechene das Komplement für alle
 BEGIN
-if  not 0
-j
-= 929
-j
-j
+if  not 0 j
+= 929j
 END
 ```
 
@@ -3819,40 +3809,53 @@ d  = 178 2
 d  = 121 1
 d  = 239 0
 Sei der Fehlerkorrekturlevel s = 1, dann ist
-k = 2s+1 = 4
-,..., = 522,568,723,809
-0
-3
-- 2. Initialisiere t t mit dem Wert 0
-- 1,..., 3
+k = 2s+1
+,..., 0
+- 2. Initialisiere t
 - 3. Initialisiere
--  mit dem Wert 0
-- 0,..., 3
-- 4. t =(d + ) mod 929=(5+0) mod 929=5
-- 1 4 3
-t =(t ) mod 929=(5*809) mod 929=329
-2 1 3
-t =929 t =929 329=600
-3
-2
-+t ) mod 929=(0+600) mod 929=600
-3 2 3
-t =(t ) mod 929=(5*723) mod 929=828
-2 1 2
-t =929 t =929 828=101
-3
-2
-+t ) mod 929=(0+101) mod 929=101
-2 1 3
-t =(t ) mod 929=(5*568) mod 929=53
-2 1 1
-t =929 t =929 53=876
-3
-2
+- 4. t =(d +1 4 3
+t =(t2 1
+t =9293
++t
+3 2
+t =(t2 1
+t =9293
++t
+2 1
+t =(t2 1
+t =9293
 ```
 
 5 Das folgende Beispiel - mit nur 5 Datencodewörter und 4 Fehlerkorrekturcodewörter - ist bewusst einfach konstruiert. Es soll lediglich den Be-rechnungsprozess veranschaulichen.
 
+```
+) mod 929 0
+2
+- j
+j
+= 4
+= 522,568,723,809 3
+- t mit dem Wert 0
+- 1,..., 3
+- mit dem Wert 0
+- 0,..., 3
+- ) mod 929=(5+0) mod 929=5
+) mod 929=(5*809) mod 929=3293
+t =929 329=600
+2
+) mod 929=(0+600) mod 929=600
+3
+) mod 929=(5*723) mod 929=8282
+t =929 828=101
+2
+) mod 929=(0+101) mod 929=1013
+) mod 929=(5*568) mod 929=531
+t =929 53=876
+2
+- ...
+- 0
+- k 1
+```
 
 ---
 
@@ -4011,13 +4014,9 @@ Der Inhalt eines Barcodes ist für die einzelnen Formulare unterschiedlich (und 
 
 Tabelle 5: Barcode Inhalt
 
-Der Großteil der Daten entspricht den Daten der Versichertenkarte. Der Formularcode gibt die vertraglich  vereinbarte Formularkennzeichnung an, wobei die Formularcodeergänzung die entsprechende Seite kenn-zeichnet. Die Versionsnummer bezeichnet eine bestimmt wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist das Datum des Drucks des Formulars. In dem Feld  Formularspezifika werden bestimmte Daten eines Formulars aufgeführt. Die restlichen Felder entspreche n  weitestgehend den Inhalten der Versichertenkarte.
+Der Großteil der Daten entspricht den Daten der Versichertenkarte. Der Formularcode gibt die vertraglich  vereinbarte Formularkennzeichnung an, wobei die Formularcodeergänzung die entsprechende Seite kenn-zeichnet. Die Versionsnummer bezeichnet eine bestimmte Barcode-Version eines bestimmten Formulars; sie  wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist das Datum des Drucks des Formulars. In dem Feld  Formularspezifika werden bestimmte Daten eines Formulars aufgeführt. Die restlichen Felder entsprechen  weitestgehend den Inhalten der Versichertenkarte.
 
-zeigt exemplarisch den in den meisten Formularen weitestge-
-
-e Barcode
-
-Betriebsstättennummer  gesamt maximal 55 -Version eines bestimmten Formulars; sie
+Betriebsstättennummer  gesamt maximal 55 zeigt exemplarisch den in den meisten Formularen weitestge-
 
 
 ---
@@ -4028,19 +4027,19 @@ Die Parameter, die die Darstellung eines PDF417-Symbols beeinflussen, bedingen e
 
 Durch die konkreten Vorgaben zum Platzbedarf und zum Datenvolumen ergeben sich für den PDF417 fol-gende Barcodeparameter:
 
-Datenspalten:    c = 7
+Datenspalten:
 
-Modulbreite5F :   x = 10 mil
+Modulbreite5F :
 
-Modulhöhe:     2 x
+Modulhöhe:
 
-Qv und Qh:    2 x
+Qv und Qh:
 
-Codierung:    TC-Mode (Umlaute temporär im BC-Mode)
+Codierung:
 
-Sicherheitslevel:   s = 4
+Sicherheitslevel:
 
-Feldtrenner:     tab
+Feldtrenner:
 
 Berechnung des Platzbedarfs des PDF417-Symbols:
 
@@ -4052,6 +4051,18 @@ H = 2 * QV + 2x (2s+1 + 165 / 2 + f) / 7, mit QV = 2x
 ```
 
 unter der vereinfachenden Annahme, dass im TC-Mode 2 Zeichen durch 1 Codewort repräsentiert werden.  Die Höhe des Barcode-Symbols ist offensichtlich abhängig von der Art der zu codierenden Daten.
+
+c = 7
+
+x = 10 mil 2 x
+
+2 x
+
+TC-Mode (Umlaute temporär im BC-Mode)
+
+s = 4
+
+tab
 
 
 ---

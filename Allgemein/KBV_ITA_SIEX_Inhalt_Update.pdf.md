@@ -769,7 +769,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien  Lizenzvereinbarung für Stammdateien     **MEDIZINISCHE DOKUMENTATION**    **Dokument** |  | **Erläuterung** |
+| KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien  Lizenzvereinbarung für Stammdateien     **MEDIZINISCHE DOKUMENTATION **    **Dokument** |  | **Erläuterung** |
 | **Hinweise auf Änderungen** | **Leitfaeden** |  |
 |  |  | Austausch_von_XML-Daten_V1.59.zip |
 | Austausch von XML-Daten in der ärztl. Versorgung |  | ehd-Richtlinie_V1.40.zip |
@@ -826,7 +826,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 |  |  |  |
 |  |  |  |
 | KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien | Lizenzvereinbarung für Stammdateien |  |
-| **MEDIZINISCHE DOKUMENTATION**    **Dokument  Erläuterung** | **Hinweise auf Änderungen** | **Leitfaeden** |
+| **MEDIZINISCHE DOKUMENTATION **    **Dokument  Erläuterung** | **Hinweise auf Änderungen** | **Leitfaeden** |
 |  |  | Austausch_von_XML-Daten_V1.59.zip  Austausch von XML-Daten in der ärztl. Versorgung |
 | ehd-Richtlinie_V1.40.zip  ehd-Richtlinie    KBV_ITA_VGEX_Schnittstelle_eHeader  Schnittstellenbeschreibung eHeader   **Uebergreifend **     EXT_ITA_AHEX_Anleitung_eDMP_Uebergreifend  Ausfüllanleitung diagnoseübergreifenden allg. Datensatz | EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend | Teilnahmeerklärung zum Behandlungsprogramm |
 | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend  Plausibilitätsrichtlinie Prüfung der Dokumentationsdaten    KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen  Übersicht der DMP-Datenannahmestellen  -  KBV_ITA_VGEX_Anforderungskatalog_eDMP  Anforderungskatalog eDMP    KBV_ITA_SIEX_FAQ_eDMP  FAQ-Dokument zum Anforderungskatalog eDMP | VSD_Testfaelle_DMP_V1.0.zip  Testdaten für Zertifzierung |  |
@@ -911,7 +911,7 @@ LABOR EXT_ITA_VGEX_LDT 3_2_19_Gesamtdokument LDT3.2.19_Testdateien LDT-KBV KBV_I
 |  |  |  |
 |  |  |  |
 |  |  |  |
-| KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien  Lizenzvereinbarung für Stammdateien     **MEDIZINISCHE DOKUMENTATION** | **Dokument** | **Erläuterung** |
+| KBV_ITA_VGEX_Lizenzvereinbarung_Stammdateien  Lizenzvereinbarung für Stammdateien     **MEDIZINISCHE DOKUMENTATION ** | **Dokument** | **Erläuterung** |
 | **Hinweise auf Änderungen** | **Leitfaeden** |  |
 |  | Austausch_von_XML-Daten_V1.59.zip | Austausch von XML-Daten in der ärztl. Versorgung |
 | ehd-Richtlinie_V1.40.zip  ehd-Richtlinie |  | KBV_ITA_VGEX_Schnittstelle_eHeader |
@@ -2603,237 +2603,85 @@ Aktualisierung  Aktualisierung  Aktualisierung  Aktualisierung
 
 ---
 
-| Berechnung APHAB Nutzen vor Hörgeräteversorgung | KBV_ITA_AHEX_Ausfuellhinweise_QSHGV  Ausfüllhinweise Dokumentationsbögen QS HGV | KBV_ITA_AHEX_Berechnung_APHAB_Detail_ |
-|---|---|---|
-| Formeln zur Berechnung des APHAB Nutzens detailliert | KBV_ITA_AHEX_Pruefpaket_QSHGV  Prüfpaket QS Hörgeräteversorgung | KBV_ITA_VGEX_Anforderungskatalog_QSHGV |
-| Anforderungskatalog QS Hörgeräteversorgung | KBV_ITA_VGEX_Plausi_QSHGV  Plausibilitäten Dokumentationsbögen QS HGV | Schnittstelle_QSHGV_V1.12.zip |
-| Schnittstelle QS Hörgeräteversorgung |  | KBV_ITA_FMEX_AAZ_QSHGV |
-| Antrag auf Zertifizierung für QS HGV |  |  |
-| **Hoergeraeteversorgung-Kinder** |  |  |
-|  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK  Ausfüllhinweise Dokumentationsbögen QS HGVK | KBV_ITA_AHEX_Pruefpaket_QSHGVK |
-| Prüfpaket QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK |
-| Anforderungskatalog QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Plausi_QSHGVK |
-| Plausibilitäten Dokumentationsbögen QS HGVK |  | Schnittstelle_QSHGVK_V1.12.zip |
-| Schnittstelle QS Hörgeräteversorgung Kinder | KBV_ITA_FMEX_AAZ_QSHGVK  Antrag auf Zertifizierung für QS HGVK |  |
-| **Kapselendoskopie** |  |  |
-|  |  | KBV_ITA_AHEX_Pruefpaket_QSKE |
-|  | Prüfpaket QS Kapselendoskopie |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSKE  Anforderungskatalog QS KE | KBV_ITA_VGEX_Plausi_QSKE | Plausibilitäten Dokumentationsbögen QS KE |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSKE | Ausfüllhinweise für QS KE |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_  Berechnung APHAB Nutzen nach Hörgeräteversorgung | EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | Berechnung APHAB Nutzen vor Hörgeräteversorgung |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGV | Ausfüllhinweise Dokumentationsbögen QS HGV |  |
-| KBV_ITA_AHEX_Berechnung_APHAB_Detail_ | Formeln zur Berechnung des APHAB Nutzens detailliert |  |
-| KBV_ITA_AHEX_Pruefpaket_QSHGV | Prüfpaket QS Hörgeräteversorgung |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGV | Anforderungskatalog QS Hörgeräteversorgung |  |
-| KBV_ITA_VGEX_Plausi_QSHGV | Plausibilitäten Dokumentationsbögen QS HGV |  |
-| Schnittstelle_QSHGV_V1.12.zip  Schnittstelle QS Hörgeräteversorgung | KBV_ITA_FMEX_AAZ_QSHGV | Antrag auf Zertifizierung für QS HGV |
-|  | **Hoergeraeteversorgung-Kinder** |  |
-|  |  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK |
-| Ausfüllhinweise Dokumentationsbögen QS HGVK |  | KBV_ITA_AHEX_Pruefpaket_QSHGVK |
-| Prüfpaket QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK |
-| Anforderungskatalog QS Hörgeräteversorgung Kinder    KBV_ITA_VGEX_Plausi_QSHGVK  Plausibilitäten Dokumentationsbögen QS HGVK    Schnittstelle_QSHGVK_V1.12.zip  Schnittstelle QS Hörgeräteversorgung Kinder    KBV_ITA_FMEX_AAZ_QSHGVK  Antrag auf Zertifizierung für QS HGVK |  |  |
-| **Kapselendoskopie **     KBV_ITA_AHEX_Pruefpaket_QSKE  Prüfpaket QS Kapselendoskopie    KBV_ITA_VGEX_Anforderungskatalog_QSKE  Anforderungskatalog QS KE | KBV_ITA_VGEX_Plausi_QSKE | Plausibilitäten Dokumentationsbögen QS KE |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSKE | Ausfüllhinweise für QS KE |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_ | Berechnung APHAB Nutzen nach Hörgeräteversorgung |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | Berechnung APHAB Nutzen vor Hörgeräteversorgung |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGV | Ausfüllhinweise Dokumentationsbögen QS HGV |  |
-| KBV_ITA_AHEX_Berechnung_APHAB_Detail_  Formeln zur Berechnung des APHAB Nutzens detailliert    KBV_ITA_AHEX_Pruefpaket_QSHGV  Prüfpaket QS Hörgeräteversorgung    KBV_ITA_VGEX_Anforderungskatalog_QSHGV  Anforderungskatalog QS Hörgeräteversorgung    KBV_ITA_VGEX_Plausi_QSHGV  Plausibilitäten Dokumentationsbögen QS HGV | Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung |
-| KBV_ITA_FMEX_AAZ_QSHGV | Antrag auf Zertifizierung für QS HGV | **Hoergeraeteversorgung-Kinder** |
-|  |  |  |
-|  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise Dokumentationsbögen QS HGVK |
-| KBV_ITA_AHEX_Pruefpaket_QSHGVK  Prüfpaket QS Hörgeräteversorgung Kinder    KBV_ITA_VGEX_Anforderungskatalog_QSHGVK  Anforderungskatalog QS Hörgeräteversorgung Kinder    KBV_ITA_VGEX_Plausi_QSHGVK  Plausibilitäten Dokumentationsbögen QS HGVK    Schnittstelle_QSHGVK_V1.12.zip  Schnittstelle QS Hörgeräteversorgung Kinder |  | KBV_ITA_FMEX_AAZ_QSHGVK |
-| Antrag auf Zertifizierung für QS HGVK | **Kapselendoskopie** |  |
-|  | KBV_ITA_AHEX_Pruefpaket_QSKE | Prüfpaket QS Kapselendoskopie |
-| KBV_ITA_VGEX_Anforderungskatalog_QSKE  Anforderungskatalog QS KE | KBV_ITA_VGEX_Plausi_QSKE | Plausibilitäten Dokumentationsbögen QS KE |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSKE | Ausfüllhinweise für QS KE |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_  Berechnung APHAB Nutzen nach Hörgeräteversorgung    EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV  Berechnung APHAB Nutzen vor Hörgeräteversorgung    KBV_ITA_AHEX_Ausfuellhinweise_QSHGV  Ausfüllhinweise Dokumentationsbögen QS HGV    KBV_ITA_AHEX_Berechnung_APHAB_Detail_  Formeln zur Berechnung des APHAB Nutzens detailliert | KBV_ITA_AHEX_Pruefpaket_QSHGV | Prüfpaket QS Hörgeräteversorgung |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGV | Anforderungskatalog QS Hörgeräteversorgung | KBV_ITA_VGEX_Plausi_QSHGV  Plausibilitäten Dokumentationsbögen QS HGV |
-|  | Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung |
-|  | KBV_ITA_FMEX_AAZ_QSHGV | Antrag auf Zertifizierung für QS HGV |
-|  |  | **Hoergeraeteversorgung-Kinder** |
-|  |  |  |
-|  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise Dokumentationsbögen QS HGVK |
-|  | KBV_ITA_AHEX_Pruefpaket_QSHGVK | Prüfpaket QS Hörgeräteversorgung Kinder |
-|  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | Anforderungskatalog QS Hörgeräteversorgung Kinder |
-|  | KBV_ITA_VGEX_Plausi_QSHGVK | Plausibilitäten Dokumentationsbögen QS HGVK |
-| Schnittstelle_QSHGVK_V1.12.zip | Schnittstelle QS Hörgeräteversorgung Kinder | KBV_ITA_FMEX_AAZ_QSHGVK  Antrag auf Zertifizierung für QS HGVK |
-|  |  | **Kapselendoskopie** |
-| KBV_ITA_AHEX_Pruefpaket_QSKE  Prüfpaket QS Kapselendoskopie    KBV_ITA_VGEX_Anforderungskatalog_QSKE  Anforderungskatalog QS KE |  | KBV_ITA_VGEX_Plausi_QSKE |
-| Plausibilitäten Dokumentationsbögen QS KE    KBV_ITA_AHEX_Ausfuellhinweise_QSKE  Ausfüllhinweise für QS KE |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_ | Berechnung APHAB Nutzen nach Hörgeräteversorgung |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | Berechnung APHAB Nutzen vor Hörgeräteversorgung |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGV  Ausfüllhinweise Dokumentationsbögen QS HGV    KBV_ITA_AHEX_Berechnung_APHAB_Detail_  Formeln zur Berechnung des APHAB Nutzens detailliert    KBV_ITA_AHEX_Pruefpaket_QSHGV  Prüfpaket QS Hörgeräteversorgung    KBV_ITA_VGEX_Anforderungskatalog_QSHGV  Anforderungskatalog QS Hörgeräteversorgung | KBV_ITA_VGEX_Plausi_QSHGV | Plausibilitäten Dokumentationsbögen QS HGV |
-| Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung | KBV_ITA_FMEX_AAZ_QSHGV  Antrag auf Zertifizierung für QS HGV |
-|  |  | **Hoergeraeteversorgung-Kinder** |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK  Ausfüllhinweise Dokumentationsbögen QS HGVK    KBV_ITA_AHEX_Pruefpaket_QSHGVK  Prüfpaket QS Hörgeräteversorgung Kinder    KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | Anforderungskatalog QS Hörgeräteversorgung Kinder |  |
-| KBV_ITA_VGEX_Plausi_QSHGVK  Plausibilitäten Dokumentationsbögen QS HGVK    Schnittstelle_QSHGVK_V1.12.zip  Schnittstelle QS Hörgeräteversorgung Kinder    KBV_ITA_FMEX_AAZ_QSHGVK  Antrag auf Zertifizierung für QS HGVK   **Kapselendoskopie** |  |  |
-| KBV_ITA_AHEX_Pruefpaket_QSKE | Prüfpaket QS Kapselendoskopie | KBV_ITA_VGEX_Anforderungskatalog_QSKE |
-| Anforderungskatalog QS KE |  | KBV_ITA_VGEX_Plausi_QSKE |
-| Plausibilitäten Dokumentationsbögen QS KE |  | KBV_ITA_AHEX_Ausfuellhinweise_QSKE |
-| Ausfüllhinweise für QS KE |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_  Berechnung APHAB Nutzen nach Hörgeräteversorgung |  | EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV |
-| Berechnung APHAB Nutzen vor Hörgeräteversorgung |  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGV |
-| Ausfüllhinweise Dokumentationsbögen QS HGV |  | KBV_ITA_AHEX_Berechnung_APHAB_Detail_ |
-| Formeln zur Berechnung des APHAB Nutzens detailliert |  | KBV_ITA_AHEX_Pruefpaket_QSHGV |
-| Prüfpaket QS Hörgeräteversorgung |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGV |
-| Anforderungskatalog QS Hörgeräteversorgung    KBV_ITA_VGEX_Plausi_QSHGV  Plausibilitäten Dokumentationsbögen QS HGV    Schnittstelle_QSHGV_V1.12.zip  Schnittstelle QS Hörgeräteversorgung    KBV_ITA_FMEX_AAZ_QSHGV  Antrag auf Zertifizierung für QS HGV | **Hoergeraeteversorgung-Kinder** |  |
-|  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK  Ausfüllhinweise Dokumentationsbögen QS HGVK | KBV_ITA_AHEX_Pruefpaket_QSHGVK |
-| Prüfpaket QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK |
-| Anforderungskatalog QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Plausi_QSHGVK |
-| Plausibilitäten Dokumentationsbögen QS HGVK |  | Schnittstelle_QSHGVK_V1.12.zip |
-| Schnittstelle QS Hörgeräteversorgung Kinder |  | KBV_ITA_FMEX_AAZ_QSHGVK |
-| Antrag auf Zertifizierung für QS HGVK |  |  |
-| **Kapselendoskopie** |  |  |
-|  |  | KBV_ITA_AHEX_Pruefpaket_QSKE |
-|  | Prüfpaket QS Kapselendoskopie |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSKE | Anforderungskatalog QS KE |  |
-| KBV_ITA_VGEX_Plausi_QSKE  Plausibilitäten Dokumentationsbögen QS KE | KBV_ITA_AHEX_Ausfuellhinweise_QSKE | Ausfüllhinweise für QS KE |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_ | Berechnung APHAB Nutzen nach Hörgeräteversorgung |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV  Berechnung APHAB Nutzen vor Hörgeräteversorgung    KBV_ITA_AHEX_Ausfuellhinweise_QSHGV  Ausfüllhinweise Dokumentationsbögen QS HGV    KBV_ITA_AHEX_Berechnung_APHAB_Detail_  Formeln zur Berechnung des APHAB Nutzens detailliert    KBV_ITA_AHEX_Pruefpaket_QSHGV  Prüfpaket QS Hörgeräteversorgung | KBV_ITA_VGEX_Anforderungskatalog_QSHGV | Anforderungskatalog QS Hörgeräteversorgung |
-| KBV_ITA_VGEX_Plausi_QSHGV  Plausibilitäten Dokumentationsbögen QS HGV | Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung |
-| KBV_ITA_FMEX_AAZ_QSHGV  Antrag auf Zertifizierung für QS HGV   **Hoergeraeteversorgung-Kinder **     KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK  Ausfüllhinweise Dokumentationsbögen QS HGVK    KBV_ITA_AHEX_Pruefpaket_QSHGVK  Prüfpaket QS Hörgeräteversorgung Kinder | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK  Anforderungskatalog QS Hörgeräteversorgung Kinder | KBV_ITA_VGEX_Plausi_QSHGVK |
-| Plausibilitäten Dokumentationsbögen QS HGVK    Schnittstelle_QSHGVK_V1.12.zip  Schnittstelle QS Hörgeräteversorgung Kinder    KBV_ITA_FMEX_AAZ_QSHGVK  Antrag auf Zertifizierung für QS HGVK   **Kapselendoskopie **     KBV_ITA_AHEX_Pruefpaket_QSKE | Prüfpaket QS Kapselendoskopie | KBV_ITA_VGEX_Anforderungskatalog_QSKE |
-| Anforderungskatalog QS KE    KBV_ITA_VGEX_Plausi_QSKE  Plausibilitäten Dokumentationsbögen QS KE    KBV_ITA_AHEX_Ausfuellhinweise_QSKE  Ausfüllhinweise für QS KE |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_ | Berechnung APHAB Nutzen nach Hörgeräteversorgung |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | Berechnung APHAB Nutzen vor Hörgeräteversorgung |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGV | Ausfüllhinweise Dokumentationsbögen QS HGV |  |
-| KBV_ITA_AHEX_Berechnung_APHAB_Detail_  Formeln zur Berechnung des APHAB Nutzens detailliert | KBV_ITA_AHEX_Pruefpaket_QSHGV  Prüfpaket QS Hörgeräteversorgung | KBV_ITA_VGEX_Anforderungskatalog_QSHGV  Anforderungskatalog QS Hörgeräteversorgung |
-| KBV_ITA_VGEX_Plausi_QSHGV | Plausibilitäten Dokumentationsbögen QS HGV    Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung |
-| KBV_ITA_FMEX_AAZ_QSHGV  Antrag auf Zertifizierung für QS HGV |  | **Hoergeraeteversorgung-Kinder** |
-|  |  |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise Dokumentationsbögen QS HGVK |  |
-| KBV_ITA_AHEX_Pruefpaket_QSHGVK | Prüfpaket QS Hörgeräteversorgung Kinder |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | Anforderungskatalog QS Hörgeräteversorgung Kinder |  |
-| KBV_ITA_VGEX_Plausi_QSHGVK | Plausibilitäten Dokumentationsbögen QS HGVK |  |
-| Schnittstelle_QSHGVK_V1.12.zip | Schnittstelle QS Hörgeräteversorgung Kinder |  |
-| KBV_ITA_FMEX_AAZ_QSHGVK  Antrag auf Zertifizierung für QS HGVK |  | **Kapselendoskopie** |
-|  | KBV_ITA_AHEX_Pruefpaket_QSKE | Prüfpaket QS Kapselendoskopie |
-|  | KBV_ITA_VGEX_Anforderungskatalog_QSKE | Anforderungskatalog QS KE |
-| KBV_ITA_VGEX_Plausi_QSKE | Plausibilitäten Dokumentationsbögen QS KE |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSKE  Ausfüllhinweise für QS KE |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_ | Berechnung APHAB Nutzen nach Hörgeräteversorgung |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | Berechnung APHAB Nutzen vor Hörgeräteversorgung |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGV | Ausfüllhinweise Dokumentationsbögen QS HGV |  |
-| KBV_ITA_AHEX_Berechnung_APHAB_Detail_ | Formeln zur Berechnung des APHAB Nutzens detailliert |  |
-| KBV_ITA_AHEX_Pruefpaket_QSHGV | Prüfpaket QS Hörgeräteversorgung |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGV | Anforderungskatalog QS Hörgeräteversorgung |  |
-| KBV_ITA_VGEX_Plausi_QSHGV | Plausibilitäten Dokumentationsbögen QS HGV |  |
-| Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung |  |
-| KBV_ITA_FMEX_AAZ_QSHGV | Antrag auf Zertifizierung für QS HGV |  |
-| **Hoergeraeteversorgung-Kinder** |  |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise Dokumentationsbögen QS HGVK |  |
-| KBV_ITA_AHEX_Pruefpaket_QSHGVK | Prüfpaket QS Hörgeräteversorgung Kinder |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | Anforderungskatalog QS Hörgeräteversorgung Kinder |  |
-| KBV_ITA_VGEX_Plausi_QSHGVK | Plausibilitäten Dokumentationsbögen QS HGVK |  |
-| Schnittstelle_QSHGVK_V1.12.zip | Schnittstelle QS Hörgeräteversorgung Kinder |  |
-| KBV_ITA_FMEX_AAZ_QSHGVK | Antrag auf Zertifizierung für QS HGVK |  |
-| **Kapselendoskopie** |  |  |
-| KBV_ITA_AHEX_Pruefpaket_QSKE | Prüfpaket QS Kapselendoskopie |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSKE | Anforderungskatalog QS KE |  |
-| KBV_ITA_VGEX_Plausi_QSKE | Plausibilitäten Dokumentationsbögen QS KE |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSKE | Ausfüllhinweise für QS KE |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_ | Berechnung APHAB Nutzen nach Hörgeräteversorgung |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | Berechnung APHAB Nutzen vor Hörgeräteversorgung |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGV  Ausfüllhinweise Dokumentationsbögen QS HGV | KBV_ITA_AHEX_Berechnung_APHAB_Detail_ | Formeln zur Berechnung des APHAB Nutzens detailliert |
-| KBV_ITA_AHEX_Pruefpaket_QSHGV | Prüfpaket QS Hörgeräteversorgung |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGV | Anforderungskatalog QS Hörgeräteversorgung |  |
-| KBV_ITA_VGEX_Plausi_QSHGV | Plausibilitäten Dokumentationsbögen QS HGV |  |
-| Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung |  |
-| KBV_ITA_FMEX_AAZ_QSHGV | Antrag auf Zertifizierung für QS HGV |  |
-| **Hoergeraeteversorgung-Kinder** |  |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise Dokumentationsbögen QS HGVK |  |
-| KBV_ITA_AHEX_Pruefpaket_QSHGVK  Prüfpaket QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK |
-| Anforderungskatalog QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Plausi_QSHGVK |
-| Plausibilitäten Dokumentationsbögen QS HGVK |  | Schnittstelle_QSHGVK_V1.12.zip |
-| Schnittstelle QS Hörgeräteversorgung Kinder |  | KBV_ITA_FMEX_AAZ_QSHGVK |
-| Antrag auf Zertifizierung für QS HGVK   **Kapselendoskopie **     KBV_ITA_AHEX_Pruefpaket_QSKE  Prüfpaket QS Kapselendoskopie | KBV_ITA_VGEX_Anforderungskatalog_QSKE  Anforderungskatalog QS KE | KBV_ITA_VGEX_Plausi_QSKE |
-| Plausibilitäten Dokumentationsbögen QS KE | KBV_ITA_AHEX_Ausfuellhinweise_QSKE  Ausfüllhinweise für QS KE |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_  Berechnung APHAB Nutzen nach Hörgeräteversorgung    EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV  Berechnung APHAB Nutzen vor Hörgeräteversorgung    KBV_ITA_AHEX_Ausfuellhinweise_QSHGV  Ausfüllhinweise Dokumentationsbögen QS HGV    KBV_ITA_AHEX_Berechnung_APHAB_Detail_  Formeln zur Berechnung des APHAB Nutzens detailliert | KBV_ITA_AHEX_Pruefpaket_QSHGV | Prüfpaket QS Hörgeräteversorgung |
-| KBV_ITA_VGEX_Anforderungskatalog_QSHGV  Anforderungskatalog QS Hörgeräteversorgung | KBV_ITA_VGEX_Plausi_QSHGV | Plausibilitäten Dokumentationsbögen QS HGV |
-| Schnittstelle_QSHGV_V1.12.zip | Schnittstelle QS Hörgeräteversorgung |  |
-| KBV_ITA_FMEX_AAZ_QSHGV  Antrag auf Zertifizierung für QS HGV |  | **Hoergeraeteversorgung-Kinder** |
-|  |  |  |
-|  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK | Ausfüllhinweise Dokumentationsbögen QS HGVK |
-|  | KBV_ITA_AHEX_Pruefpaket_QSHGVK | Prüfpaket QS Hörgeräteversorgung Kinder |
-|  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | Anforderungskatalog QS Hörgeräteversorgung Kinder |
-| KBV_ITA_VGEX_Plausi_QSHGVK  Plausibilitäten Dokumentationsbögen QS HGVK    Schnittstelle_QSHGVK_V1.12.zip  Schnittstelle QS Hörgeräteversorgung Kinder    KBV_ITA_FMEX_AAZ_QSHGVK  Antrag auf Zertifizierung für QS HGVK   **Kapselendoskopie** |  |  |
-| KBV_ITA_AHEX_Pruefpaket_QSKE | Prüfpaket QS Kapselendoskopie | KBV_ITA_VGEX_Anforderungskatalog_QSKE  Anforderungskatalog QS KE |
-| KBV_ITA_VGEX_Plausi_QSKE | Plausibilitäten Dokumentationsbögen QS KE |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSKE  Ausfüllhinweise für QS KE |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_nach_ | Berechnung APHAB Nutzen nach Hörgeräteversorgung |  |
-| EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV | Berechnung APHAB Nutzen vor Hörgeräteversorgung |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSHGV | Ausfüllhinweise Dokumentationsbögen QS HGV |  |
-| KBV_ITA_AHEX_Berechnung_APHAB_Detail_ | Formeln zur Berechnung des APHAB Nutzens detailliert |  |
-| KBV_ITA_AHEX_Pruefpaket_QSHGV  Prüfpaket QS Hörgeräteversorgung    KBV_ITA_VGEX_Anforderungskatalog_QSHGV  Anforderungskatalog QS Hörgeräteversorgung    KBV_ITA_VGEX_Plausi_QSHGV  Plausibilitäten Dokumentationsbögen QS HGV    Schnittstelle_QSHGV_V1.12.zip  Schnittstelle QS Hörgeräteversorgung | KBV_ITA_FMEX_AAZ_QSHGV  Antrag auf Zertifizierung für QS HGV |  |
-| **Hoergeraeteversorgung-Kinder** |  | KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK |
-| Ausfüllhinweise Dokumentationsbögen QS HGVK |  | KBV_ITA_AHEX_Pruefpaket_QSHGVK |
-| Prüfpaket QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Anforderungskatalog_QSHGVK |
-| Anforderungskatalog QS Hörgeräteversorgung Kinder |  | KBV_ITA_VGEX_Plausi_QSHGVK |
-| Plausibilitäten Dokumentationsbögen QS HGVK |  | Schnittstelle_QSHGVK_V1.12.zip |
-| Schnittstelle QS Hörgeräteversorgung Kinder |  | KBV_ITA_FMEX_AAZ_QSHGVK |
-| Antrag auf Zertifizierung für QS HGVK |  |  |
-| **Kapselendoskopie** |  | KBV_ITA_AHEX_Pruefpaket_QSKE |
-|  | Prüfpaket QS Kapselendoskopie |  |
-| KBV_ITA_VGEX_Anforderungskatalog_QSKE | Anforderungskatalog QS KE |  |
-| KBV_ITA_VGEX_Plausi_QSKE | Plausibilitäten Dokumentationsbögen QS KE |  |
-| KBV_ITA_AHEX_Ausfuellhinweise_QSKE | Ausfüllhinweise für QS KE |  |
+EXT_ITA_AHEX_Bewertung_APHAB_nach_  QSHGV
+
+EXT_ITA_AHEX_Bewertung_APHAB_vor_QSHGV
+
+KBV_ITA_AHEX_Ausfuellhinweise_QSHGV
+
+KBV_ITA_AHEX_Berechnung_APHAB_Detail_  QSHGV
+
+KBV_ITA_AHEX_Pruefpaket_QSHGV
+
+KBV_ITA_VGEX_Anforderungskatalog_QSHGV
+
+KBV_ITA_VGEX_Plausi_QSHGV
+
+Schnittstelle_QSHGV_V1.12.zip
+
+KBV_ITA_FMEX_AAZ_QSHGV
+
+**Hoergeraeteversorgung-Kinder**
+
+KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK
+
+KBV_ITA_AHEX_Pruefpaket_QSHGVK
+
+KBV_ITA_VGEX_Anforderungskatalog_QSHGVK
+
+KBV_ITA_VGEX_Plausi_QSHGVK
+
+Schnittstelle_QSHGVK_V1.12.zip
+
+KBV_ITA_FMEX_AAZ_QSHGVK
+
+**Kapselendoskopie**
+
+KBV_ITA_AHEX_Pruefpaket_QSKE
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE
+
+KBV_ITA_VGEX_Plausi_QSKE
+
+KBV_ITA_AHEX_Ausfuellhinweise_QSKE
+
+Berechnung APHAB Nutzen nach Hörgeräteversorgung
+
+Berechnung APHAB Nutzen vor Hörgeräteversorgung
+
+Ausfüllhinweise Dokumentationsbögen QS HGV
+
+Formeln zur Berechnung des APHAB Nutzens detailliert
+
+Prüfpaket QS Hörgeräteversorgung
+
+Anforderungskatalog QS Hörgeräteversorgung
+
+Plausibilitäten Dokumentationsbögen QS HGV
+
+Schnittstelle QS Hörgeräteversorgung
+
+Antrag auf Zertifizierung für QS HGV
+
+Ausfüllhinweise Dokumentationsbögen QS HGVK
+
+Prüfpaket QS Hörgeräteversorgung Kinder
+
+Anforderungskatalog QS Hörgeräteversorgung Kinder
+
+Plausibilitäten Dokumentationsbögen QS HGVK
+
+Schnittstelle QS Hörgeräteversorgung Kinder
+
+Antrag auf Zertifizierung für QS HGVK
+
+Prüfpaket QS Kapselendoskopie
+
+Anforderungskatalog QS KE
+
+Plausibilitäten Dokumentationsbögen QS KE
+
+Ausfüllhinweise für QS KE
 
 
 ---
@@ -3952,7 +3800,7 @@ Abrechnungsinformation_V1.0.1 Vermittlungscode_V1.0.1 Abrechnungsinformationen A
 | KBV_ITA_VGEX_Anforderungskatalog_VDGA  Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung | KBV_ITA_AHEX_FAQ_VDGA | FAQ-Katalog |
 | KBV_ITA_AHEX_Pruefpaket_VDGA | Prüfpaket für das Verfahren VDGA | KBV_ITA_SIEX_Sprechstunde_VDGA  Mitschrift der Sprechstunde |
 |  | KBV_ITA_FMEX_AAZ_VDGA | Antrag auf Zertifizierung |
-|  | **Legende zum Inhaltsverzeichnis** | Als eindeutiges Identifikationsmerkmal dient der Referenztitel. Er setzt sich aus insgesamt vier Stellen zusammen, die jeweils mit einem Unte |
+|  | **Legende zum Inhaltsverzeichnis** | Als eindeutiges Identifikationsmerkmal dient der Referenztitel. Er setzt sich aus insgesamt vier Stellen zusammen, die jeweils mit einem Unterstrich separiert sind. |
 | 1. | a. | b. |
 | 2. |  |  |
 | EXT_ITA_VGEX_BMP_Anlage3_mitÄnd | Spezifikation für einen bundeseinheitlichen Medikationsplan | Inkrafttreten zum 1. Juli 2026 |
@@ -3970,33 +3818,20 @@ Abrechnungsinformation_V1.0.1 Vermittlungscode_V1.0.1 Abrechnungsinformationen A
 | KBV_ITA_SIEX_Sprechstunde_VDGA | Mitschrift der Sprechstunde |  |
 | KBV_ITA_FMEX_AAZ_VDGA | Antrag auf Zertifizierung |  |
 
-(BMP) mit Änderungsmarkierung von DiGA rstrich separiert sind. Folgende Stellen des Referenztitels sind definiert: Organisation (Eigentümer) des Dokuments: Kassenärztliche Bundesvereinigung Externe Thema: IT in der Arztpraxis
+Folgende Stellen des Referenztitels sind definiert: Organisation (Eigentümer) des Dokuments: Kassenärztliche Bundesvereinigung  Externe Thema: IT in der Arztpraxis (BMP) mit Änderungsmarkierung von DiGA
 
 ---
 
 - 3. Kennzeichnung der Dokumentenart und Klassifizierung:
-- a. Richtlinie:
-- b. Vorgabe:
-- c. Anhang:
-- d. Formular:
-- e. Service Informationen
+- a. Richtlinie:                    RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines           grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
+- b. Vorgabe:         VGEX (verbindliche technische oder fachliche Dokumentationen)
+- c. Anhang:          AHEX (ergänzende Dokumente wie Handbücher, Vorlagen oder FAQs zur Vorgabe)
+- d. Formular:          FMEX (ausfüllbares Dokument zur Beantragung oder Bestätigung eines Vorganges)
+- e. Service Informationen     SIEX (Informationen mit organisatorischen, fachlichen oder technischen Inhalten)
 - 4. Kurzform des Dokumententitels
 
-Beispiel: KBV_ITA_VGEX_Anforderungskatalog_KVDT
+Beispiel: KBV_ITA_VGEX_Anforderungskatalog_KVDT - (KBV Dokument des Themas ITA für Externe mit dem Titel: Anforderungskatalog KVDT)
 
 # HINWEISE ZUM DATENSCHUTZ
 
-Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV überni Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten [(VSD_5.2.0_Testfaelle_VX.X.zip) unter](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)[https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) [http://www.kbv.de/html/datenschutz.php](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)
-
-```
--
-```
-
-- RLEX (Anforderungen zu Vorgaben zur Einhaltung bzw. Umsetzung im Sinne eines          grundlegenden, verbindlichen Regelwerkes innerhalb eines Geltungsbereiches)
-- VGEX (verbindliche technische oder fachliche Dokumentationen)
-- AHEX (ergänzende Dokumente wie Handbücher, Vorlagen oder FAQs zur Vorgabe)
-- FMEX (ausfüllbares Dokument zur Beantragung oder Bestätigung eines Vorganges)
-- SIEX (Informationen mit organisatorischen, fachlichen oder technischen Inhalten)
-- (KBV Dokument des Themas ITA für Externe mit dem Titel: Anforderungskatalog KVDT)
-
-mmt keine Verantwortung für   [. Weitere Informationen finden Sie unter](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)
+Wir bitten Sie darauf zu achten, dass sich in Datenlieferungen zur KBV keine personenbezogenen Daten befinden. Die KBV übernimmt keine Verantwortung für  Daten, welche von Dritten erhalten wurden. Bitte benutzen Sie, die von der KBV im Rahmen der Zertifizierungsverfahren zur Verfügung gestellten Testpatienten  [(VSD_5.2.0_Testfaelle_VX.X.zip) unter](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)[https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)[. Weitere Informationen finden Sie unter](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/) [http://www.kbv.de/html/datenschutz.php](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/)

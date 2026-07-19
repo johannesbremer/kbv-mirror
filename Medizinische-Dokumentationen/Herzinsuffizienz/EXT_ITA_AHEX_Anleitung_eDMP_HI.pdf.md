@@ -12,19 +12,23 @@ Version 2.0
 
 **Anamnese- und Befunddaten**
 
-#### Serum-Elektrolyte und eGFR in den letzten sechs
+#### Serum-Elektrolyte und eGFR in den letzten sechs Monaten
 
 Eine Angabe ist erforderlich.
 
-In halbjährlichen Abständen sollen die Serum-Elektrolyte (Natrium, Kalium) und die eGFR Serum-Kreatinin-Bestimmung) bestimmt werden. Bitte geben Sie an, ob die Bestimmung erfolgt ist oder  nicht.
+In halbjährlichen Abständen sollen die Serum-Elektrolyte (Natrium, Kalium) und die eGFR (auf Basis der  Serum-Kreatinin-Bestimmung) bestimmt werden. Bitte geben Sie an, ob die Bestimmung erfolgt ist oder  nicht.
 
-Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl  eGFR bestimmt haben. Sofern Sie nur einen von beiden Labortwerten innerhalb der letzten 6 Monate be-stimmt haben, geben Sie bitte „Nein“ an.
+Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl  eGFR bestimmt haben. Sofern Sie nur einen von beiden Labortwerten innerhalb der letzten 6 Monate be-stimmt haben, geben Sie bitte „Nein“
+
+die Serum-Elektrolyte (Natrium, Kalium) als auch die
+
+an.
 
 #### Symptomatik
 
 Eine Angabe ist erforderlich.
 
-Bitte geben Sie hier gemäß NYHA-Klassifikation an:
+Bitte geben Sie hier die Symptomschwere der chronischen Herzinsuffizienz zum Dokumentationszeitpunkt  gemäß NYHA-Klassifikation an:
 
 **NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)**
 
@@ -34,9 +38,7 @@ Bitte geben Sie hier gemäß NYHA-Klassifikation an:
 | **NYHA III ** (mittelschwer) | Herzerkrankung mit höhergradiger Einschränkung der körperlichen Leistungsfähigkeit bei ge- Keine Beschwerden in Ruhe.  Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder An- |
 | **NYHA IV ** (schwer) | Herzerkrankung mit Beschwerden bei allen körperlichen Aktivitäten und in Ruhe, Bettlägerigkeit. |
 
-die Symptomschwere der chronischen Herzinsuffizienz
-
-Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der  schen Fachgesellschaften (AWMF). Nationale Versorgungs-Leitlinie Chronische Herzinsuffizienz, Langfassung, Version
+Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen Medizini-schen Fachgesellschaften (AWMF). Nationale Versorgungs-Leitlinie Chronische Herzinsuffizienz, Langfassung, Version 4, 2023
 
 ## Relevante Ereignisse
 
@@ -48,21 +50,11 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer
 
 tend.
 
-Geben Sie bitte die Anzahl (ohne Nachkommastelle)  gen Herzinsuffizienz seit der letzten Dokumentation an. Erfolgte seit der letzten Dokumentation kein un-geplanter stationärer Aufenthalt, geben Sie bitte eine
-
-#### Monaten
-
-die Serum-Elektrolyte (Natrium, Kalium) als auch
+Geben Sie bitte die Anzahl (ohne Nachkommastelle) aller ungeplanten vollstationären Aufenthalte we-gen Herzinsuffizienz seit der letzten Dokumentation an. Erfolgte seit der letzten Dokumentation kein un-geplanter stationärer Aufenthalt, geben Sie bitte eine
 
 **Folgedokumentation**
 
-aller ungeplanten vollstationären Aufenthalte we-„0“ an (auf Basis der
-
-die
-
-zum Dokumentationszeitpunkt
-
-Wissenschaftlichen Medizini-4, 2023
+„0“ an
 
 tisch) gen, Luftnot oder Angina pectoris. gina pectoris, z. B. Bergaufgehen oder Treppensteigen. wohnter Tätigkeit.  gina pectoris, z. B. Gehen in der Ebene.möglich und hier verpflich-
 
@@ -77,7 +69,7 @@ Unter Berücksichtigung der Kontraindikationen sollen vorrangig Medikamente zur 
 
 Es wurde gezeigt, dass die gewünschte Reduktion der Mortalität für Herzinsuffizienz-Patienten nur im Rah-men einer adäquaten Dosierung erreicht werden konnte. Die jeweilige Zieldosis begründet sich aus den  randomisierten kontrollierten Studien mit patientenrelevanten Endpunkten, die die Nutzenbelege erbracht  haben.
 
-Die jeweilige Zieldosis ist durch eine , sich an der Verträglichkeit orientierenden (bei MRA langsamen),  Steigerung der Dosierung unter engmaschiger Kontrolle der Vitalparameter und der laborchemischen Be-funde anzustreben. Wenn die optimale Zieldosis nicht erreicht wird, erfolgt die Behandlung in der maximal  von der Patientin bzw. vom Patienten tolerierten Dosis.
+Die jeweilige Zieldosis ist durch eine, sich an der Verträglichkeit orientierenden (bei MRA langsamen),  Steigerung der Dosierung unter engmaschiger Kontrolle der Vitalparameter und der laborchemischen Be-funde anzustreben. Wenn die optimale Zieldosis nicht erreicht wird, erfolgt die Behandlung in der maximal  von der Patientin bzw. vom Patienten tolerierten Dosis.
 
 Bei der an der Symptomatik und Progression orientierten Stufentherapie soll die Titration in kleinen Schrit-ten und mit der gebotenen Wartezeit zur Beobachtung der Wirkung erfolgen. Insbesondere bei bestehen-der Komorbidität sollten Blutdruck, Herzfrequenz, Herzrhythmus und der Elektrolythaushalt (Natrium und  Kalium) sowie die Nierenfunktion kontrolliert werden.
 
@@ -85,7 +77,7 @@ Nach 6 bis maximal 12 Wochen soll bei Patientinnen und Patienten, die weiterhin 
 
 Bei initial geplanter Vierfachkombination soll eine Therapieinitiierung möglichst nacheinander, mit nicht  mehr als zwei prognoseverbessernden Substanzen gleichzeitig erfolgen. Dies dient in erster Linie der Ver-meidung von Hypotonie bedingten Komplikationen wie orthostatischer Dysregulation und Stürzen sowie  Elektrolytentgleisungen. Für die Therapieinitialisierung mit einer weiteren Substanz ist eine Titrierung bis  zur Zieldosierung bzw. maximal tolerierten Dosis keine Voraussetzung.
 
-Evidenzbasierte Dosistabelle (Quelle: modifiziert übernommen aus “20 21 ESC Guidelines for the diag-nosis and treatment of acute and chronic heart failure”, S. 3621
+Evidenzbasierte Dosistabelle (Quelle: modifiziert übernommen aus “2021 ESC Guidelines for the diag-nosis and treatment of acute and chronic heart failure”, S. 3621
 
 | Wirkstoff | Zieldosierung |
 |---|---|
@@ -115,7 +107,7 @@ Evidenzbasierte Dosistabelle (Quelle: modifiziert übernommen aus “20 21 ESC G
 | Eplerenon | 1x50 mg |
 | Spironolacton | 1x50 mg |
 
-Aus: Tragende Gründe zum 14. Änderungsbeschluss der DMP-A-RL zum DMP Herzinsuffizienz vom 19.04.2018 , ergänzt um die  Aktualisierung der ESC Guideline
+Aus: Tragende Gründe zum 14. Änderungsbeschluss der DMP-A-RL zum DMP Herzinsuffizienz vom 19.04.2018, ergänzt um die  Aktualisierung der ESC Guideline
 
 #### ACE-Hemmer
 
@@ -125,25 +117,27 @@ Geben Sie bitte an, ob eine Therapie mit einem ACE-Hemmer durchgeführt wird. Bi
 
 #### Evidenzbasierte Zieldosis ACE-Hemmer oder ARB
 
-Mindestens eine Angabe ist erforderlich, wenn unter ACE -Hemmer die  ist.
+Mindestens eine Angabe ist erforderlich, wenn unter ACE-Hemmer die  ist.
 
-„Erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des ACE Zieldosierungstabelle oben) bei Ihrer Patientin bzw. Ihrem Patienten erreicht wurde . Wenn die Angabe  „Erreicht“ erfolgt ist, kann gleichzeitig keine andere Angabe erfolgen.
+„Erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des ACE Zieldosierungstabelle oben) bei Ihrer Patientin bzw. Ihrem Patienten erreicht wurde. Wenn die Angabe  „Erreicht“ erfolgt ist, kann gleichzeitig keine andere Angabe erfolgen.
 
-„Nicht erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des ACE bei Ihrer Patientin bzw. Ihrem Patienten (noch) nicht erreicht wird (siehe Zieldosierungstabelle oben) .  Geben Sie gegebenenfalls zusätzlich zu „Nicht erreicht“ auch „Titrationsphase“ oder „Max. tolerierte Dosis  erreicht“ an.
+„Nicht erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des ACE bei Ihrer Patientin bzw. Ihrem Patienten (noch) nicht erreicht wird (siehe Zieldosierungstabelle oben).  Geben Sie gegebenenfalls zusätzlich zu „Nicht erreicht“ auch „Titrationsphase“ oder „Max. tolerierte Dosis  erreicht“ an.
 
-„Titrationsphase“ geben Sie bitte an, wenn  Aufdosierung des ACE-Hemmers oder des ARB  zeitig mit der Angabe „Max. tolerierte Dosis erreicht“ erfolgen.
+„Titrationsphase“ geben Sie bitte an, wenn  Aufdosierung des ACE-Hemmers oder des ARB befindet.  zeitig mit der Angabe „Max. tolerierte Dosis erreicht“ erfolgen.
 
-„Max. tolerierte Dosis erreicht“ geben Sie bitte an, wenn bei  Berücksichtigung der Verträglichkeit die maximal
+„Max. tolerierte Dosis erreicht“ geben Sie bitte an, wenn bei  Berücksichtigung der Verträglichkeit die maximal tolerierte Dosis des ACE-Hemmers oder des ARB er-
 
 ob die Nicht-Verordnung auf eine Kontraindikation
 
-sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  befindet. Die Angabe „Titrationsphase“ kann nicht gleich-
+sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der
 
-Ihrer Patientin bzw. Ihrem Patienten unter  tolerierte Dosis des ACE -Hemmers oder des ARB er-
+Die Angabe „Titrationsphase“ kann nicht gleich-
+
+Ihrer Patientin bzw. Ihrem Patienten unter
 
 Angabe „Ja“ oder „ARB“ erfolgt -Hemmers oder des ARB
 
-(gilt auch für ACE
+(gilt auch für ACE-
 
 (siehe
 
@@ -152,7 +146,7 @@ Angabe „Ja“ oder „ARB“ erfolgt -Hemmers oder des ARB
 
 ---
 
-reicht wurde. Die Angabe „Max. tolerierte Dosis erreicht“ onsphase“ erfolgen.
+reicht wurde. Die Angabe „Max. tolerierte Dosis erreicht“ kann nicht gleichzeitig mit der Angabe  onsphase“ erfolgen.
 
 #### Betablocker
 
@@ -166,7 +160,7 @@ Mindestens eine Angabe ist erforderlich, wenn unter Betablocker die
 
 „Erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des Betablocker Ihrem Patienten erreicht wurde. Wenn die Angabe „Erreicht“ erfolgt ist, kann gleichzeitig keine andere  Angabe erfolgen.
 
-„Nicht erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des Betablockers bzw. Ihrem Patienten (noch) nicht erreicht wird (siehe Zieldosierungstabelle oben) . nenfalls zusätzlich zu „Nicht erreicht“ auch „Titrationsphase“ oder „Max. tolerierte Dosis erreicht“ a
+„Nicht erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des Betablockers bzw. Ihrem Patienten (noch) nicht erreicht wird (siehe Zieldosierungstabelle oben). nenfalls zusätzlich zu „Nicht erreicht“ auch „Titrationsphase“ oder „Max. tolerierte Dosis erreicht“ a
 
 „Titrationsphase“ geben Sie bitte an, wenn sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  Aufdosierung des Betablockers befindet. Die Angabe „Titrationsphase“ kann nicht gleichzeitig mit der An-gabe „Max. tolerierte Dosis erreicht“ erfolgen.
 
@@ -176,7 +170,7 @@ Mindestens eine Angabe ist erforderlich, wenn unter Betablocker die
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Therapie mit einem MRA durchgeführt wird. Bitte geben Sie bei  gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontr aindikation gegen die Gabe eines  MRA zurückzuführen ist.
+Geben Sie bitte an, ob eine Therapie mit einem MRA durchgeführt wird. Bitte geben Sie bei  gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe eines  MRA zurückzuführen ist.
 
 #### Evidenzbasierte Zieldosis (MRA)
 
@@ -184,11 +178,11 @@ Mindestens eine Angabe ist erforderlich, wenn unter MRA die
 
 „Erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des  Patienten erreicht wurde. Wenn die Angabe „Erreicht“ erfolgt ist, kann gleichzeitig keine andere Angabe  erfolgen.
 
-„Nicht erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des  Ihrem Patienten (noch) nicht erreicht wird (siehe Zieldosierungstabelle oben) . zusätzlich zu „Nicht erreicht“ auch „Titrationsphase“ oder „
+„Nicht erreicht“ geben Sie bitte an, wenn die evidenzbasierte Zieldosis des  Ihrem Patienten (noch) nicht erreicht wird (siehe Zieldosierungstabelle oben). zusätzlich zu „Nicht erreicht“ auch „Titrationsphase“ oder „Max.
 
-„Titrationsphase“ geben Sie bitte an, wenn sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  Aufdosierung des MRA befindet. Die Angabe „Titrationsphase“ kann  Max. tolerierte Dosis erreicht“ erfolgen.
+„Titrationsphase“ geben Sie bitte an, wenn sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  Aufdosierung des MRA befindet. Die Angabe „Titrationsphase“ kann nicht gleichzeitig mit der Angabe  Max. tolerierte Dosis erreicht“ erfolgen.
 
-kann nicht gleichzeitig mit der Angabe „Titrati-
+„Titrati-
 
 Nein“
 
@@ -209,9 +203,7 @@ Angabe „Ja“ erfolgt ist.
 
 MRA bei Ihrer Patientin bzw. Ihrem
 
-MRA bei Ihrer Patientin bzw.  Geben Sie gegebenenfalls  Max. tolerierte Dosis erreicht“ an.
-
-nicht gleichzeitig mit der Angabe
+MRA bei Ihrer Patientin bzw.  Geben Sie gegebenenfalls  tolerierte Dosis erreicht“ an.
 
 
 ---
@@ -234,7 +226,9 @@ Wenn Sie Ihrer Patientin bzw. Ihrem Patienten **aktuell (am Tage der Konsultatio
 
 Sollten Sie **keine Schulung** **empfohlen** haben (z. B. weil Ihre Patientin bzw. Ihr Patient bereits eine Schu-lung wahrgenommen hat), geben Sie dies bitte mit „**Nein** an.
 
-#### Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teil- genommen
+**Bereits vor Einschreibung in das DMP an einer Herzinsuffizienz-spezifischen Schulung teil-**
+
+#### genommen
 
 Eine Angabe in diesem Feld ist nur im Rahmen der **Erstdokumentation** möglich und hier verpflichtend.  **Genau eine Angabe** ist erforderlich und zulässig. Bei der Folgedokumentation ist hier keine Angabe mög-lich.
 
@@ -271,7 +265,7 @@ Mindestens eine Angabe ist erforderlich, wenn eine Angabe unter Symptomatik NYHA
 
 Zur Steigerung der Belastungsfähigkeit und der Lebensqualität sollten Patientinnen bzw. Patienten mit  einer chronischen stabilen Herzinsuffizienz (NYHA I  III) ohne Kontraindikationen regelmäßig körperliches  Training durchführen. Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf die  Bedeutung von körperlichem Training hinweisen und zur Teilnahme an geeigneten Trainingsmaßnahmen  motivieren (z. B. im Rahmen von Rehabilitationssport in Herzgruppen).
 
-Bitte geben Sie an, ob Ihre Patientin bzw. Ihr Patient regelmäßi ges körperliches Training macht. Sollte  aufgrund von Beschwerden, Komorbiditäten oder anderen Gründen ein Training nicht möglich sein, geben  Sie hier bitte „Nicht möglich“ an.
+Bitte geben Sie an, ob Ihre Patientin bzw. Ihr Patient regelmäßiges körperliches Training macht. Sollte  aufgrund von Beschwerden, Komorbiditäten oder anderen Gründen ein Training nicht möglich sein, geben  Sie hier bitte „Nicht möglich“ an.
 
 #### Führen eines Gewichtsprotokolls
 

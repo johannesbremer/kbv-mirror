@@ -4,10 +4,10 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 1.4   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 1.4   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG EDMP OSTEOPOROSE
+# ANTRAG AUF ZERTIFIZIERUNG EDMP- OSTEOPOROSE
 
 ## [KBV_ITA_FMEX_AAZ_EDMP_OST]
 
@@ -50,7 +50,7 @@ Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -77,8 +77,6 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-1.1
-
 Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
@@ -87,7 +85,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
 ## 2.1 REALISIERTE OPTIONALE FUNKTIONEN DMP OST
@@ -107,7 +105,8 @@ Folgende optionale DMP OST Funktionen sind gem. Anforderungskatalog DMP realisie
 |  |  |
 |  |  |
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitäts Kostenträger-Stammdatei richtlinien erfüllt sind. ANFORDERUNGSKATALOG
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. ANFORDERUNGSKATALOG 
+
 
 ---
 
@@ -159,7 +158,7 @@ Diese Information ist verpflichtend anzugeben
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
 
 ---
@@ -169,8 +168,7 @@ Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus d
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
-- - und
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 ---
 

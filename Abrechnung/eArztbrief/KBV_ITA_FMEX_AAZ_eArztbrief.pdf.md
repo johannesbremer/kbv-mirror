@@ -6,7 +6,7 @@ Seite 1 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / 15. Mai 2024
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**   **IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **15. MAI 2024**
 
@@ -20,7 +20,7 @@ Seite 1 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / 15. Mai 2024
 
 ## EARZTBRIEF 1 ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV)
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
 **1.1** **ANTRAGSSTELLER**
 
@@ -30,9 +30,7 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **[bei juristischen Personen ist die**  **Rechtsform anzugeben]**
 
-**Geschäftsbereich [falls**
-
-**vorhanden]**
+**Geschäftsbereich [falls**  **vorhanden]**
 
 **Straße und Hausnummer**
 
@@ -46,8 +44,6 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Der Antragsteller ist**
 
-Arzt/Ärztin
-
 **Systempfleger**
 
 **[nur anzugeben, wenn der**  **Systempfleger vom Antragsteller**  **abweicht]**
@@ -60,9 +56,9 @@ Arzt/Ärztin
 
 **E-Mail-Adresse**
 
-/ Version: 3.2 / 15. Mai 2024
+Seite 2 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / Version: 3.2 / 15. Mai 2024
 
-initiiert.
+Arzt/Ärztin
 
 Softwarehaus
 
@@ -71,47 +67,41 @@ Sonstiges
 
 ---
 
+Antragssteller:
+
 **1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
-**Bestell- bzw. Auftragsnummer des**  **Antragsstellers**
+**Bestell- bzw. Auftragsnummer des**   **Antragsstellers**
 
 **Name**
 
 **Straße und Hausnummer**
 
-Antragssteller: 1.1.
-
 **PLZ, Ort**
 
 **1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 **Bezeichnung**
 
-**Identnummer [die letzten drei**   **Stellen der Prüfnummer, falls**  **vorhanden]**
+**Identnummer [die letzten drei**
+
+**Stellen der Prüfnummer, falls**  **vorhanden]**
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 | Windows☐ | ☐ | Mac OS | Linux☐ |
 |---|---|---|---|
-| iOS/Android☐ | ☐ | Sonstige | |
+| iOS/Android☐ |  | Sonstige☐ | |
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges   [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief erfüllt sind.
-
-vorhanden) des Zertifizierungsgegenstandes an.
-
--Betriebssysteme unterstützt werden.
-
-] für die Übermittlung von elektronischen Briefen
-
-/ Version: 3.2 / 15. Mai 2024
+Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges   [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief] für die Übermittlung von elektronischen Briefen  erfüllt sind.
 
 
 ---
@@ -150,7 +140,6 @@ Diese Information ist verpflichtend anzugeben
 
 Antragssteller:
 
-/ Version: 3.2 / 15. Mai 2024
 
 ---
 
@@ -158,7 +147,7 @@ Antragssteller:
 
 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
-**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden
+**I.** **Zertifizierungsrahmen**  (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.  (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.  (3) Die Laufzeit der Zulassung beträgt 36 Monate.  (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 **THEMA**
 
@@ -194,9 +183,7 @@ Ergebnisprüfung 275,24   Rezertifizierung
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
-
-/ Version: 3.2 / 15. Mai 2024
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 ---
 
@@ -204,24 +191,15 @@ Antragssteller:
 
 **IV.** **Sonstiges**
 
-(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellung Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
+(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
 (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
 (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
-(4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständ Antrag aufgeführten Aussagen.
+(4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
-
-/ Version: 3.2 / 15. Mai 2024
-
-nahmen den
-
-igkeit der in diesem
-
-- und
-
+(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 ---
 
@@ -236,8 +214,6 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
-
-/ Version: 3.2 / 15. Mai 2024
 
 Unterschrift
 

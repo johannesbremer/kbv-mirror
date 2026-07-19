@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  4. FEBRUAR 2025  VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   4. FEBRUAR 2025  VERSION: 1.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANTRAG AUF ZERTIFIZIERUNG 116117  VERMITTLUNGSCODE
 
 ## [KBV_ITA_FMEX_AAZ_116117_VERMITTLUNGSCODE]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
 
 
 ---
@@ -24,7 +24,7 @@ Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wi
 
 ## 1.1 ANTRAGSSTELLER
 
-Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeic
+Antragssteller ist die juristische oder natürliche Person, die für die Einhaltung der in diesem Antrag  bezeichneten Zulassungskriterien gegenüber der KBV verantwortlich zeichnet.
 
 |  |  | | |
 |---|---|---|---|
@@ -35,21 +35,19 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 | **Webseite** |  | | |
-| **Der Antragsteller** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
+| **Der Antragsteller ist** | ☐ Arzt/Ärztin | ☐ Softwarehaus | ☐ Sonstiges |
 | **Systempfleger  [nur anzugeben, wenn der  Systempfleger vom Antragsteller  abweicht]** |  | | |
 | **Straße und Hausnummer** |  | | |
 | **PLZ, Ort** |  | | |
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-hnet.
-
 
 ---
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1
 
 |  |  |
 |---|---|
@@ -57,8 +55,6 @@ Nur anzugeben, wenn abweichend von Abschnitt
 | **Name** |  |
 | **Straße und Hausnummer** |  |
 | **PLZ, Ort** |  |
-
-1.1
 
 ## 1.3 ZERTIFIZIERUNGSGEGENSTAND
 
@@ -69,16 +65,14 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 | **Bezeichnung** |  |
 | **Identnummer [die letzten drei  Stellen der Prüfnummer, falls  vorhanden]** |  |
 
-## 1.4
+## 1.4  BETRIEBSSYSTEME
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
-
-## BETRIEBSSYSTEME
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
@@ -86,8 +80,7 @@ Bitte geben Sie im Folgenden an, welche Client
 |---|---|
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen des Kapitels 2 „Umsetzung der Spezifikation  Der Antragsteller nimmt die Anforderung KP2-505 des Anforderungskataloges KVDT |
 
-- 116117 Terminservice Vermittlungscode“ und des Kapitels 3 „Umsetzung der Bedruckung“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TSS] umgesetzt sind. [KBV_ITA_VGEX_Anforderungskatalo g_KVDT] zur Kenntnis. -Betriebssysteme unterstützt werden.
-
+- 116117 Terminservice Vermittlungscode“ und des Kapitels 3 „Umsetzung der Bedruckung“ des Anforderungskataloges [KBV_ITA_VGEX_Anforderungskatalog_TSS] umgesetzt sind. [KBV_ITA_VGEX_Anforderungskatalog_KVDT] zur Kenntnis.
 
 ---
 
@@ -136,7 +129,7 @@ Diese Information ist verpflichtend anzugeben
 - (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 - (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 - (3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
-- (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern .
+- (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
 Vermittlungscode - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_VGEX_Lizenzvereinbarung
@@ -149,7 +142,7 @@ Vermittlungscode - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus d
 - (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
-- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller - und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+- (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 |  |  |  |
 |---|---|---|

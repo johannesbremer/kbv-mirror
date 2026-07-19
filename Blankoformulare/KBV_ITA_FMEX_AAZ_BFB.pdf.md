@@ -6,7 +6,7 @@ Seite 1 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / 15. 
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**DEZERNAT DIGITALISIERUNG UND IT**   **IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
 **15. MAI 2024**
 
@@ -69,7 +69,7 @@ Sonstiges
 
 **1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
 **Bestell- bzw. Auftragsnummer des**  **Antragsstellers**
 
@@ -81,7 +81,7 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 **1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 **Bezeichnung**
 
@@ -89,7 +89,7 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 Windows
 
@@ -99,11 +99,7 @@ Antragssteller:
 
 Mac OS
 
-Sonstige 1.1.
-
-vorhanden) des Zertifizierungsgegenstandes an.
-
--Betriebssysteme unterstützt werden.
+Sonstige
 
 Linux
 
@@ -164,7 +160,7 @@ Zeugnis über den mutmaßlichen Tag der Entbindung
 
 Verordnung einer Krankenbeförderung
 
-Abrechnungsschein ambulante Behandlung, belegärztliche Behandlung, Abklärung  somatischer Ursachen vor Aufnahme einer Psychotherapie,  Psychotherapie
+Abrechnungsschein ambulante Behandlung, belegärztliche Behandlung, Abklärung  somatischer Ursachen vor Aufnahme einer Psychotherapie, anerkannte  Psychotherapie
 
 Überweisungsschein
 
@@ -197,8 +193,6 @@ Maßnahmen zur stufenweisen Wiedereingliederung in das Erwerbsleben  (Wiedereing
 Konsiliarbericht vor Aufnahme einer Psychotherapie
 
 Anregung einer ambulanten Vorsorgeleistung in anerkannten Kurorten  gem. § 23 Abs. 2 SGB V
-
-anerkannte
 
 
 ---
@@ -247,7 +241,7 @@ Verordnung Soziotherapie gem. § 37a SGB V
 
 Soziotherapeutischer Betreuungsplan gem. § 37a SGB V
 
-Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie   gem. § 37a SGB V
+Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie  gem. § 37a SGB V
 
 Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V
 
@@ -261,13 +255,13 @@ Bericht für die Krankenkasse bei Fortbestehen der Arbeitsunfähigkeit
 
 Anfrage zum Zusammenhang von Arbeitsunfähigkeiten
 
-Bescheinigung einer schwerwiegenden chronischen Erkrankung   gem. § 62 SGB V
+Bescheinigung einer schwerwiegenden chronischen Erkrankung  gem. § 62 SGB V
 
 Antrag auf Kostenübernahme von Rehabilitationssport/Funktionstraining
 
 Verordnung von medizinischer Rehabilitation
 
-Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials  gemäß AKI-Richtlinie des G-BA  Verordnung außerklinischer Intensivpflege   Behandlungsplan für außerklinische Intensivpflege
+Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials  gemäß AKI-Richtlinie des G-BA  Verordnung außerklinischer Intensivpflege  Behandlungsplan für außerklinische Intensivpflege
 
 Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
@@ -326,35 +320,32 @@ Antrag des Versicherten auf Psychotherapie
 
 Angaben des Therapeuten zum Antrag des Versicherten
 
-Individuelle Patienteninformation zur ambulanten  Sprechstunde
+Individuelle Patienteninformation zur ambulanten psychotherapeutischen  Sprechstunde
 
 Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie
 
 Ärztlicher Kurzbericht - DIN A4 hoch, kein Sicherheitspapier
 
-KVNO 06: Allgemeine ambulante Palliativversorgung (Anlage 3a)  Sicherheitspapier
+KVNO 06: Allgemeine ambulante Palliativversorgung (Anlage 3a) - DIN A4 hoch, kein  Sicherheitspapier
 
-Allgemeine ambulante Palliativversorgung (Anlage 3b)  Sicherheitspapier
+Allgemeine ambulante Palliativversorgung (Anlage 3b) - DIN A4 hoch, kein
+
+Sicherheitspapier
 
 Ersatzkassen, Erstdokumentation, Anlage 2 - DIN A4 hoch, kein Sicherheitspapier
 
 Ersatzkassen, Abschlussdokumentation, Anlage 3  Sicherheitspapier
-
-psychotherapeutischen
-
-- DIN A4 hoch, kein
-- DIN A4 hoch, kein
 
 DIN A4 hoch kein -Vereinbarung
 
 
 ---
 
-Antragssteller:
-
 **2.4** **BARCODE**
 
 Der Barcode PDF 417 wird bei den vertragsärztlichen Formularen gemäß Vorgabe zu den jeweiligen   Mustern erzeugt (außer Formulare der Psychotherapie) und wird an definierter Stelle ausgedruckt.
+
+Antragssteller:
 
 **2.5**  **SICHERHEITSPAPIER**
 
@@ -441,7 +432,7 @@ Ergebnisprüfung 68,81  Rezertifizierung
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 ---
 
@@ -449,23 +440,15 @@ Antragssteller:
 
 **IV.** **Sonstiges**
 
-(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen de Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
+(1) Der Antragsteller räumt der KBV das unwiderrufliche Recht ein, seine Stellungnahmen den  Kassenärztlichen Vereinigungen zur vertraulichen und internen Verwendung zur Verfügung zu  stellen, soweit dieses erforderlich ist.
 
 (2) Jede von diesem Antrag abweichende Angabe kann den Widerruf und die Rücknahme der  Zulassung bewirken.
 
 (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 
-(4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit de Antrag aufgeführten Aussagen.
+(4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 
-(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
-
-n
-
-r in diesem
-
-- und
-
-Seite 10 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
+(5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
 ---
 
@@ -481,10 +464,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-Seite 11 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung
-
 Unterschrift
 
 Name in Druckbuchstaben
-
-/ Version: 4.8 / 15. Mai 2024

@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.22   DOKUMENTENSTATUS: IN** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.22   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET EDMP-KHK
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_KHK]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS KRAFT  
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -159,7 +159,7 @@ DOKUMENTENHISTORIE
 |  |  |  |  |  |  |
 |  | | | | | |
 | 01.07.2026 | Aufnahme eines Testfalls | Schnittstellenversion |  |  |  |
-|  |  |  |  | 1.21 | 31.03.2026 KBV |
+|  |  |  |  | 1.21 | 31.03.2026  KBV |
 |  |  | 1.20 | 15.08.2023 | KBV  Datumsanpassungen der | Datumsanpassungen  12  1.19 |
 | KBV |  |  |  |  |  |
 
@@ -172,7 +172,7 @@ für die Testdatenvalidierung zur 4.17 an Schnittstellenversion 4.17  Anpassung 
 |  | 1.14 |  | 07.05.2018 | KBV  Anpassung der Prüffälle | 12 13.03.2018 |
 | Anpassung des | 7 |  |  |  | 1.12 |
 | KBV | Aufnahme eines Testfalls | Schnittstellenversion | Schnittstellenversion | 12 |  |
-| ff |  | 1.11 | 23.05.2017 KBV  Komplettüberarbeitung  Aktualisierung der  Alle |  |  |
+| ff |  | 1.11 | 23.05.2017  KBV  Komplettüberarbeitung  Aktualisierung der  Alle |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -190,7 +190,7 @@ an Schnittstellenversionen 4.12 und 4.13 auf Zertifizierung an Schnittstellenver
 
 # 1 ALLGEMEINES
 
-Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms „Koronare Herzkrankheiten [KHK]
+Dieses Dokument beschreibt das allgemeine Vorgehen und beinhaltet Prüffälle für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich des elektronischen Disease-Management-Programms „Koronare-Herzkrankheiten [KHK]“.
 
 Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
 
@@ -208,15 +208,15 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 - 1. Der Antragssteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Nach  Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung (Ergänzende  Erklärung) mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig  ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV  eingereicht werden.
 
-Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung (Ergänzende Erklärung) eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen](mailto:pruefstelle@kbv.de) [Erst nach Erhalt der Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab](mailto:pruefstelle@kbv.de) via E-Mail eingereichten Antrag auf Zertifizierung (Ergänzende Erklärung) dort hochgeladen werden.
+Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  [Antrag auf Zertifizierung (Ergänzende Erklärung) eingescannt per Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) einreichen.](mailto:pruefstelle@kbv.de) [Erst nach Erhalt der Zugangsdaten kann der Prüfvorgang im Zertifizierungsportal initiiert und den vorab](mailto:pruefstelle@kbv.de) via E-Mail eingereichten Antrag auf Zertifizierung (Ergänzende Erklärung) dort hochgeladen werden.
 
 - 2. Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden. Erst wenn alle  Unterlagen vollständig eingereicht und von der Prüfautomatisierung des Zertifizierungsportals als  fehlerfrei erkannt wurden, erfolgt eine manuelle Prüfung durch Mitarbeitende der KBV.
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
-**HINWEIS**
-
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+**HINWEIS**
 
 
 ---
@@ -227,7 +227,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 [Die vorliegende Ergebnisprüfung besteht sowohl aus einer automatisierten als auch aus einer daran](https://zertifizierungsportal2.kbv.de/) anschließenden manuellen Prüfung.
 
-Die Zugangsdaten können direkt über das Portal oder per [E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
+[Die Zugangsdaten können direkt über das Portal oder per E-Mail an](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
 Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema initiiert und den Antrag auf  Zertifizierung hochgeladen haben. Das Portal zeigt dem Antragssteller in Form von Aufgaben (Menüpunkt:  „Meine Aufgaben“) die nächsten Arbeiten an, die von ihm durchzuführen sind. Immer wenn Aktivitäten der  Zertifizierungsstelle abgeschlossen wurden, wird eine neue Aufgabe generiert.
 
@@ -342,7 +342,7 @@ Telefon
 
 ### 1.6.4 Krankenhausdaten
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. F dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -366,8 +366,6 @@ Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 ### 1.6.6 Stammdatei der Datenannahmestellen (SDDA)
 
 Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen, da kein  Vertrag für den KV-Bereich Hessen existiert), kann ein beliebiger Empfänger gewählt werden. Für die  Bearbeitung des Krankenhausfalls kann ein beliebiger Empfänger gewählt werden.
-
-ür die Angabe des
 
 
 ---
@@ -414,7 +412,7 @@ Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 7511 | 7511 |
@@ -428,18 +426,18 @@ Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck (systolisch / diastolisch) | 300 / 180 mmHg | 250 / 90 mmHg |
 | Raucher | Ja | Nein |
-| Begleiterkrankungen | Fettstoffwechselstörung, | Fettstoffwechselstörung |
+| Begleiterkrankungen | Arterielle Hypertonie, | Fettstoffwechselstörung |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht, |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-DATEN Informationsangebote der Krankenkasse Arterielle Hypertonie, AVK, Chronische Herzinsuffizienz Körperliches Training speichern.
+Informationsangebote der Krankenkasse Fettstoffwechselstörung, AVK, Chronische Herzinsuffizienz Körperliches Training speichern.
 
 
 ---
 
-| INDIKATIONS | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Angina pectoris | CCS I | CCS III |
@@ -462,7 +460,7 @@ DATEN Informationsangebote der Krankenkasse Arterielle Hypertonie, AVK, Chronisc
 | **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nein | Ja |
 
-PEZIFISCHE DATEN seit der letzten Dokumentation Dokumentation)
+seit der letzten Dokumentation Dokumentation) 
 
 
 ---
@@ -485,7 +483,7 @@ Die Versichertendaten von Regina Unbehandelt (XML_17) einlesen und speichern
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 7512 | 7512 |
@@ -505,12 +503,12 @@ Die Versichertendaten von Regina Unbehandelt (XML_17) einlesen und speichern
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-DATEN Informationsangebote der Krankenkasse Erkrankungen Erkrankungen 
+Informationsangebote der Krankenkasse Erkrankungen Erkrankungen 
 
 
 ---
 
-| INDIKATIONS | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufs** |
 | Angina pectoris | Nein | CCS II |
@@ -518,7 +516,7 @@ DATEN Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 | **Relevante Ereignisse** | | |
 | Relevante Ereignisse | Instabile Angina pectoris | Nein |
 | Herzinfarkt innerhalb der letzten 12 Monate | Nein  PCI, Bypass | Nein |
-| Ungeplante stationäre |  | 99 |
+| Ungeplante stationäre Behandlung wegen KHK |  | 99 |
 | **Medikamente** | | |
 | Thrombozytenaggregationshemmer | Orale Antikoagulation | Nein |
 | Betablocker | Nein | Nein, Kontraindikation |
@@ -533,7 +531,7 @@ DATEN Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 | **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nicht möglich | Nein |
 
-PEZIFISCHE DATEN Behandlung wegen KHK seit der letzten Dokumentation Dokumentation) vereinbart Hochdosis Operation 
+seit der letzten Dokumentation Dokumentation) vereinbart Hochdosis Operation 
 
 
 ---
@@ -545,7 +543,7 @@ PEZIFISCHE DATEN Behandlung wegen KHK seit der letzten Dokumentation Dokumentati
 | **Prüffall-ID** | 6513 |
 | **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | 1. KHK-Dokumentationsunterlagen 2. zusätzlich DM2- und/oder Asthma bronchiale-Dokumentationsunterlagen |
+| **Prüfunterlagen** | 1. KHK-Dokumentationsunterlagen  2. zusätzlich DM2- und/oder Asthma bronchiale-Dokumentationsunterlagen |
 | **Hinweis** | Sofern das System eine Zulassung für die Indikationen DM2 und/oder Asthma |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -556,7 +554,7 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn si
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | DMP-Fallnummer | 6513 | 6513 |
@@ -576,7 +574,7 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn si
 |  |  |  |
 |  |  |  |
 
-Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln.  DATEN Asthma bronchiale, KHK Asthma bronchiale, KHK Anhang 4.1
+Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die KHK-Daten zu übermitteln. Asthma bronchiale, KHK Asthma bronchiale, KHK Anhang 4.1
 
 
 ---
@@ -584,7 +582,7 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 |  | | |
 |---|---|---|
 |  |  |  |
-| Aktueller FEV -Wert (mindestens alle | 010,0 Prozent des Soll |  |
+| Aktueller FEV -Wert (mindestens alle | 010,0 Prozent des Soll- |  |
 |  | 15,2 % | 14,3 % |
 | DM2 | eGFR | Nicht bestimmt |
 |  |  | Pulsstatus |
@@ -601,14 +599,14 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-| INDIKATIONS | | | |
+| INDIKATIONSPEZIFISCHE DATEN | | | |
 |---|---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
 | Asthma | In den letzten 4 Wochen: Häufigkeit | Keine | Häufiger als 2 mal |
-| Asthma | In den letzten 4 Wochen: | Häufiger als 2 mal | < 1 mal wöchentlich |
+| Asthma | In den letzten 4 Wochen: Häufigkeit | Häufiger als 2 mal | < 1 mal wöchentlich |
 | Asthma | In den letzten 4 Wochen: | Ja | Nein |
 | Asthma | In den letzten 4 Wochen: | Nein | Nein |
-| Asthma | Aktueller FEV -Wert (mindestens alle | 299,9 Prozent des Soll | 010,0 Prozent des Soll |
+| Asthma | Aktueller FEV -Wert (mindestens alle | 299,9 Prozent des Soll- | 010,0 Prozent des Soll- |
 | DM2 | HbA1c-Wert | 15,2 % | 14,3 % |
 | DM2 | eGFR | Nicht bestimmt | 180 ml/min/1,73m²KOF |
 | DM2 | Pulsstatus | Auffällig | Unauffällig |
@@ -625,10 +623,10 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 |  |  |  |  |
 |  |  |  |  |
 | Asthma | In den letzten 4 Wochen: Häufigkeit | Keine | Häufiger als 2 mal |
-| Asthma | In den letzten 4 Wochen: | Häufiger als 2 mal | < 1 mal wöchentlich |
+| Asthma | In den letzten 4 Wochen: Häufigkeit | Häufiger als 2 mal | < 1 mal wöchentlich |
 | Asthma | In den letzten 4 Wochen: | Ja | Nein |
 | Asthma | In den letzten 4 Wochen: | Nein | Nein |
-| Asthma | Aktueller FEV -Wert (mindestens alle | 299,9 Prozent des Soll | 010,0 Prozent des Soll |
+| Asthma | Aktueller FEV -Wert (mindestens alle | 299,9 Prozent des Soll- | 010,0 Prozent des Soll- |
 |  | | | |
 |  |  | eGFR | Nicht bestimmt |
 |  |  | Pulsstatus | Auffällig |
@@ -651,7 +649,7 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 |  | | | |
 | Asthma | In den letzten 4 Wochen: | Ja | Nein |
 | Asthma | In den letzten 4 Wochen: | Nein | Nein |
-| Asthma | Aktueller FEV -Wert (mindestens alle | 299,9 Prozent des Soll | 010,0 Prozent des Soll |
+| Asthma | Aktueller FEV -Wert (mindestens alle | 299,9 Prozent des Soll- | 010,0 Prozent des Soll- |
 | DM2 | HbA1c-Wert | 15,2 % | 14,3 % |
 | DM2 | eGFR | Nicht bestimmt | 180 ml/min/1,73m²KOF |
 | DM2 | Pulsstatus | Auffällig | Unauffällig |
@@ -668,7 +666,7 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 | Tabakverzicht |  |  | Dokumentationsintervall |
 | Quartalsweise |  | Datum der Erstellung |  |
 
-Informationsangebote der Krankenkasse INDIKATIONS PEZIFISCHE DATEN Asthma In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber Asthma In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation Asthma In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale Asthma In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes Asthma 12 Monate) HbA1c-Wert Sensibilitätsprüfung Weiteres Risiko für Ulcus (Wund)Infektion (bei Insulintherapie) Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Keine Häufiger als 2 mal wöchentlich Ja Nein 299,9 Prozent des Soll Wertes Auffällig Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Verlaufsdokumentation Häufiger als 2 mal wöchentlich < 1 mal wöchentlich Nein Nein Wertes 180 ml/min/1,73m²KOF Hyperkeratose mit Einblutung
+Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma Asthma Asthma Asthma Asthma In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes 12 Monate) HbA1c-Wert Sensibilitätsprüfung Weiteres Risiko für Ulcus (Wund)Infektion (bei Insulintherapie) Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Keine Häufiger als 2 mal wöchentlich Ja Nein 299,9 Prozent des Soll- Wertes Auffällig Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Verlaufsdokumentation Häufiger als 2 mal wöchentlich < 1 mal wöchentlich Nein Nein Wertes 180 ml/min/1,73m²KOF Hyperkeratose mit Einblutung
 
 ---
 
@@ -739,7 +737,7 @@ Informationsangebote der Krankenkasse INDIKATIONS PEZIFISCHE DATEN Asthma In den
 | KHK | Angina pectoris | CCS IV | CCS III |
 | KHK | LDL-Cholesterin | Nicht bestimmt | 20,2 mmol/l |
 
-(bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation letzten Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation wegen KHK seit der letzten Dokumentation Sympathomimetika Sympathomimetika Nephropathie Nephropathie Instabile Angina pectoris
+(bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation letzten Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation  wegen KHK seit der letzten Dokumentation Sympathomimetika Sympathomimetika Nephropathie Nephropathie Instabile Angina pectoris
 
 ---
 
@@ -887,7 +885,7 @@ Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyn
 
 **2.2** **PRÜFFALL SYSTEMREAKTION**
 
-| INDIKATIONSÜBERGREIFENDE | | |
+| INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
 | **Administrative Daten** | **Erstdokumentation** | **Aktion ** |
 | DMP-Fallnummer | 7514 |  |
@@ -910,12 +908,12 @@ Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyn
 |  |  |
 |---|---|
 | **Prüffall-ID** | 7514 |
-| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben bzw. Prüfung, dass |
 | **Voraussetzung** | Patient oder Patientin ist mindestens 18 Jahre alt |
-| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis - bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind.  bzw. Prüfung, dass Prüffall 7514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation:  DATEN Patienten
+manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation: Patienten
 
 ---
 
@@ -939,7 +937,7 @@ manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufze
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.10.2023 |  |
 
-| INDIKATIONS | | |
+| INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Aktion** |
 | Angina pectoris | Nein, CCS II | Nr. 5 |
@@ -963,7 +961,7 @@ manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufze
 | **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Ja, Nicht möglich | Nr. 15 |
 
-Krankenkasse INDIKATIONS SPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris Serum-Elektrolyte LDL-Cholesterin Relevante Ereignisse Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre notfallmäßige Behandlung wegen KHK seit der letzten Dokumentation Grund für moderate oder niedrige Statin-Dosis Erstdokumentation Nein, CCS II Bestimmt 27,0 mmol/l Andere Form des akuten Koronarsyndroms Keine Keine Begründung Aktion Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 13 
+Krankenkasse INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris Serum-Elektrolyte LDL-Cholesterin Relevante Ereignisse Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre notfallmäßige Behandlung wegen KHK seit der letzten Dokumentation Grund für moderate oder niedrige Statin-Dosis Erstdokumentation Nein, CCS II Bestimmt 27,0 mmol/l Andere Form des akuten Koronarsyndroms Keine Keine Begründung Aktion Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 13 
 
 
 ---
@@ -971,7 +969,7 @@ Krankenkasse INDIKATIONS SPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pect
 - **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
 - **4.** **Anlegen einer Verlaufsdokumentation am** 06.12.2023
 
-| INDIKATIONS | | | |
+| INDIKATIONSSPEZIFISCHE DATEN | | | |
 |---|---|---|---|
 | **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion** | |
 | Angina pectoris | CCS I |  | |
@@ -993,7 +991,7 @@ Krankenkasse INDIKATIONS SPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pect
 | **Behandlungsplanung** | | | |
 | Regelmäßiges sportliches Training | Ja, Nein | Nr. 23 | |
 
-SPEZIFISCHE DATEN seit der letzten Dokumentation-
+seit der letzten Dokumentation -
 
 
 ---
@@ -1023,9 +1021,9 @@ SPEZIFISCHE DATEN seit der letzten Dokumentation-
 \| **Szenario 4** |
 \| Das System ermöglicht dem Anwender, sich als erläuternde Übersicht bei der Indikation KHK die Tabelle  KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 \| **Szenario 5** |
-\| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
+\| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin- KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte. Systemfunktionalität Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. nachgewiesen werden. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in anzeigen zu lassen. Dosis“ die Dosierung gemäß An forderung P1-42 (2.) anzeigt (siehe 
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte. Systemfunktionalität Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. nachgewiesen werden. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in anzeigen zu lassen. Dosis“ die Dosierung gemäß Anforderung P1-42 (2.) anzeigt (siehe 
 
 
 ---
@@ -1037,7 +1035,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies
 | **Prüffall-ID** | 7540 |
 | **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
 | **Voraussetzung** |  |
-| **Prüfunterlagen** | PDF-Datei „TE_EWE_KHK.pdf“ |
+| **Prüfunterlagen** | PDF-Datei „TE_EWE_KHK.pdf“ der indikationsübergreifenden Teilnahme- und |
 | **Hinweis** | Falls Ihr System die optionale Anforderung O7-10 (Ausdruck des Barcodes auf der |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
@@ -1055,7 +1053,7 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
-der indikationsübergreifenden Teilnahme- und Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
+Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
 
 ---
@@ -1066,7 +1064,7 @@ Alle beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis 
 
 Zusätzlich kann optional auch der Prüffall TDV7518 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die neue Schnittstellenversion 4.17 (gültig ab 01.10.2026).
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip -Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
 
 Abbildung 3: Testdatenvalidierung
 
@@ -1136,7 +1134,7 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 
 | Behandlungsplanung | | |
 |---|---|---|
-| **INDIKATIONS** | **Anamnese- und Befunddaten** | **Erstdokumentation** |
+| **INDIKATIONSPEZIFISCHE DATEN** | **Anamnese- und Befunddaten** | **Erstdokumentation** |
 |  | Ja | Orale Antikoagulation |
 | Betablocker | Ja | Nein, Kontraindikation |
 | ACE-Hemmer | ARB | Kontraindikation |
@@ -1154,7 +1152,7 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.10.2026 | 15.04.2027 |
 
-| INDIKATIONS | | |
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Angina pectoris | CCS I | CCS III |
@@ -1177,7 +1175,7 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 | **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nein | Ja |
 
-Informationsangebote der Krankenkasse PEZIFISCHE DATEN Angina pectoris LDL-Cholesterin Relevante Ereignisse  Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation Medikamente Thrombozytenaggregationshemmer Grund für niedrige Statin-Dosis Schulung Schulung bereits vor Einschreibung in DMP wahrgenommen Schulung empfohlen (bei aktueller Dokumentation) Empfohlene Schulung(en) wahrgenommen Fettstoffwechselstörung, AVK, Chronische Herzinsuffizienz Körperliches Training CCS I Nicht bestimmt Instabile Angina pectoris Feste Hochdosis- Strategie   Strategie der festen Dosis (hoch oder moderat) CCS III 180 mg/dl 99 Zielwert-Strategie Aufdosierungsphase
+Informationsangebote der Krankenkasse Angina pectoris LDL-Cholesterin Relevante Ereignisse  Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation Medikamente Thrombozytenaggregationshemmer Grund für niedrige Statin-Dosis Schulung Schulung bereits vor Einschreibung in DMP wahrgenommen Schulung empfohlen (bei aktueller Dokumentation) Empfohlene Schulung(en) wahrgenommen Fettstoffwechselstörung, AVK, Chronische Herzinsuffizienz Körperliches Training CCS I Nicht bestimmt Instabile Angina pectoris Feste Hochdosis- Strategie   Strategie der festen Dosis (hoch oder moderat) CCS III 180 mg/dl 99 Zielwert-Strategie Aufdosierungsphase
 
 ---
 
@@ -1238,7 +1236,8 @@ Federmannssohn Plaetzchen
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 12 |
 
-und Georg-von-Groscurth-Plaetzchen
+und Georg-von-Groscurth-Plaetzchen 
+
 
 ---
 
@@ -1291,7 +1290,7 @@ schlüssel KBV_ITA_VGEX_Schnittstelle_SDDA von XML Daten in der Vertragsärztlic
 |  |  |
 |  |  |
 |  |  |
-| VSD_5.2.0_Testfaelle_Vn.n.zip (eGK Daten im XML | eGK Daten |
+| VSD_5.2.0_Testfaelle_Vn.n.zip (eGK Daten im XML- | eGK Daten |
 | XPM-Paket_KHK | Prüfmodul KHK |
 
-Format) Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de,
+Format) Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de,

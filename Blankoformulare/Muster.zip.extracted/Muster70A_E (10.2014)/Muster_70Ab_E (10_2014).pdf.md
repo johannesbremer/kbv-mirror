@@ -2,8 +2,6 @@
 
 **Name, Vorname des Versicherten**
 
-**geb. am**
-
 **Versicherten-Nr.**
 
 **Kostenträgerkennung**
@@ -12,25 +10,17 @@
 
 **Betriebsstätten-Nr.** **Arzt-Nr.**
 
-**Datum**
-
 **Krankenkasse bzw. Kostenträger**
 
 **Name, Vorname des Versicherten**
 
-**geb. am**
-
 **Kostenträgerkennung** **Versicherten-Nr.**
-
-**Status**
 
 **Betriebsstätten-Nr.** **Arzt-Nr.**
 
-**Datum**
-
 ### III Kostenschätzung
 
-**Alle Angaben stehen unter dem Vorbehalt einer nacht** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
+**Alle Angaben stehen unter dem Vorbehalt einer nachträglichen Änderung der diagnostischen und therapeutischen Einzelfallerfordernisse.** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
 
 **a Kosten für einmalig im Reproduktionsfall** **anfallende Leistungen**
 
@@ -46,27 +36,35 @@
 
 **Gesamtsumme** **für einmalig im** **Reproduktionsfall** **anfallende** **Leistungen (Euro)** **Ort**
 
+### IV Genehmigung durch die Krankenkasse(n)
+
+**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **Vorbehandlungen** **sind** **zu** **berücksichtigen** **die** **Anzahl** **der** **genehmigten** **Zyklen.**
+
+**Werden** **mehrere** **Zyklen** **genehmigt,** **gung,** **sobald** **die** **Gesamtzahl** **der** **schließlich** **Vorbehandlungen),** **die** **nachgewiesenen** **Schwangerschaft** **jeweils** **zulässige** **Höchstzahl** **erreicht**
+
+**Nach**  **27a** **SGB** **V** **sind** **50%** **der**
+
+**Datum**
+
+**Datum**
+
 **Datum**
 
 **pro Zyklusfall** **(Euro)**
 
-### IV Genehmigung durch die Krankenkasse(n)
+**anzurechnenden**
 
-**Die** **auf** **die** **jeweils** **zulässige** **Höchstzahl** **anzurechnenden** **Vorbehandlungen** **sind** **zu** **berücksichtigen** **und** **verringern** **die** **Anzahl** **der** **genehmigten** **Zyklen.**
+**und**
 
-**Werden** **mehrere** **Zyklen** **genehmigt,** **erlischt** **die** **Genehmi-** **gung,** **sobald** **die** **Gesamtzahl** **der** **Behandlungen** **(ein-** **schließlich** **Vorbehandlungen),** **die** **nicht** **zu** **einer** **klinisch** **nachgewiesenen** **Schwangerschaft** **geführt** **haben,** **die** **jeweils** **zulässige** **Höchstzahl** **erreicht** **hat.**
+**erlischt** **die** **Behandlungen** **nicht** **zu** **einer** **geführt**  **hat.**
 
-**Nach**  **27a** **SGB** **V** **sind** **50%** **der** **entstehenden** **Kosten** **(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III**  **Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-** **nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **des** **vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro** **erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
-
-**Spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der** **Genehmi-** **gung** **sowie** **bei** **Änderung** **der** **Behandlungsmethode**  **ein** **neuer** **Folge-Behandlungsplan** **vorzulegen.**
-
-**Ausfertigung für die Kassenärztliche Vereinigung**
-
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+**entstehenden**
 
 ## Folge-Behandlungsplan
 
-**zum Behandlungsplan vom** **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
+**70A** **zum Behandlungsplan vom** **für Maßnahmen zur künstlichen Befruchtung gemäß § 27a SGB V** **geb. am**
+
+**sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
 ### Indikation(en)I
 
@@ -76,15 +74,15 @@
 
 **Insemination im Spontanzyklus (gemäß Nr. 10.1)**
 
+**geb. am**
+
 **Insemination nach hormoneller Stimulation (gemäß Nr. 10.2)**
 
 **In-Vitro-Fertilisation mit Embryotransfer (gemäß Nr. 10.3)**
 
-**Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)**
+**Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)** **Status**
 
-**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)** **Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
-
-**räglichen Änderung der diagnostischen und therapeut**
+**Intracytoplasmatische Spermieninjektion (gemäß Nr. 10.5)** **Anzahl und Art bereits ohne Eintritt einer klinisch nachgewiesenen** **Schwangerschaft erfolgter Behand-** **lungen (gemäß Nr. 10.1-10.5)**
 
 **b Kosten pro Zyklusfall (ohne einmalig im** **Reproduktionsfall anfallende Leistungen)**
 
@@ -94,45 +92,57 @@
 
 **Medikamenten-**
 
-**70A**
-
-**ischen Einzelfallerfordernisse.**
-
 **(Euro)**
 
 **Sachkosten und** **Sprechstunden-** **bedarf (Euro)**
 
 **Gesamtsumme**
 
-**Vertragsarztstempel / Unterschrift des Arztes**
-
 **Der Behandlungs-/Kostenplan wird**
-
-**Zyklen/Zyklus genehmigt**
-
-**für maximal**
-
-**nicht genehmigt** **(separate Begründung** **anbei)** **Ort**
-
-**Datum**
-
-**b)**
 
 **Zyklen/Zyklus**
 
 **für maximal**
 
-**nicht genehmigt** **ist**
+**verringern**
 
-**(separate Begründung** **anbei)** **Ort**
+**Genehmi-** **(ein-**
+
+**klinisch** **Ort**
+
+**haben,** **die**
+
+**Kosten**
+
+**nicht genehmigt** **(separate Begründung** **anbei)**
+
+**genehmigt**
+
+**Datum**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
+
+**Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
+
+**(inklusive** **Medikamentenkosten,** **siehe** **Abschnitt** **III** **b)** **Eigenanteil** **des** **Patienten.** **Eine** **abschließende** **Berech-** **nung** **der** **Gesamtkosten** **kann**  **u.** **a.** **in** **Abhängigkeit** **des** **vertraglich** **vereinbarten** **Punktwertes** **in** **Cent** **bzw.** **Euro**  **erst** **nach** **Beendigung** **der** **Behandlung** **erfolgen.**
+
+**Spätestens** **nach** **Ablauf** **eines** **Jahres** **seit** **der** **Genehmi-** **gung** **sowie** **bei** **Änderung** **der** **Behandlungsmethode** **ist** **ein** **neuer** **Folge-Behandlungsplan** **vorzulegen.**
+
+**Ausfertigung für die Kassenärztliche Vereinigung**
+
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
+
+**Zyklen/Zyklus**
+
+**für maximal**
+
+**nicht genehmigt** **(separate Begründung** **anbei)** **Ort**
 
 **PRF.NR.**
 
 **genehmigt**
 
 **Datum**
-
-**Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
 
 **Stempel und Unterschrift der Krankenkasse,** **auf beiden Ausfertigungen**
 

@@ -1,6 +1,6 @@
 #### AUSFÜLLHINWEISE ZUR BETRIEBSSTÄTTENBEZOGENEN JAHRESSTATIS- TIK FÜR MOLEKULARGENETIK
 
-Die Qualitätssicherungs-Vereinbarung Molekulargenetik nach § 135 Abs. 2 SGB V sieht  vor, dass Labore eine Jahresstatistik erstellen. Der § 8 Abs. 1 gibt vor, welche Angaben  für die Statistik erforderlich sind. Nachfolgend erhalten Sie Definitionen zentraler Begrif f-lichkeiten.
+Die Qualitätssicherungs-Vereinbarung Molekulargenetik nach § 135 Abs. 2 SGB V sieht  vor, dass Labore eine Jahresstatistik erstellen. Der § 8 Abs. 1 gibt vor, welche Angaben  für die Statistik erforderlich sind. Nachfolgend erhalten Sie Definitionen zentraler Begriff-lichkeiten.
 
 | Behandlungsfall | In der Jahresstatistik sind lediglich die abgeschlossenen |
 |---|---|
@@ -11,7 +11,7 @@ Die Qualitätssicherungs-Vereinbarung Molekulargenetik nach § 135 Abs. 2 SGB V 
 | Unauffälliger Befund | Bei einem unauffälligen Befund kann keine krankheitsver- |
 | Nicht beurteilbarer Befund | In der Kategorie „nicht beurteilbar“ werden alle Befunde |
 | Unterauftrag | Ein Unterauftrag ist die vollständige oder teilweise Weiter- |
-| Einsender | Der Einsender (Erstveranlasser) ist der Arzt, der das U n- |
+| Einsender | Der Einsender (Erstveranlasser) ist der Arzt, der das Un- |
 | Fachgruppe | Die Fachgruppenzugehörigkeit ergibt sich aus der lebens- |
 | Externe Qualitätssicherung   (Ringversuche) | In die Jahresstatistik fließen nur die Untersuchungen ein,    |
 

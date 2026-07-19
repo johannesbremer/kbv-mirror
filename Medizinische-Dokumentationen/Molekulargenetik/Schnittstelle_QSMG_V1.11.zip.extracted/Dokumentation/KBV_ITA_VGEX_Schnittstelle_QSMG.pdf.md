@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Schnittstellenbeschreibung QS* |
-|  | [KBV_ITA_VGEX_Schnittstelle_QSMG |
+|  | [KBV_ITA_VGEX_Schnittstelle_QSMG] |
 |  | ** |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Molekulargenetik -Lewin-Platz 2 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft 
+Molekulargenetik 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft 
 
 
 ---
@@ -25,7 +25,7 @@ Molekulargenetik -Lewin-Platz 2 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlic
 | 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an neues Layout |  |
 | 1.00 | 21.05.2012 | KBV | neues Dokument |  |  |
 
-bzgl. veralteter Links überarbeitet
+bzgl. veralteter Links überarbeitet 
 
 
 ---
@@ -111,7 +111,7 @@ bzgl. veralteter Links überarbeitet
 
 4.3.11 einsender_bsnr_anzahl ................................................................................................... 24
 
-4.3.12 fachgruppe_einsender_liste/fachgruppe_einsender ........................................................ 24
+4.3.12 fachgruppe_einsender_liste/fachgruppe_einsender........................................................ 24
 
 4.3.13 Produkt1_teilnahmehaufigkeit ......................................................................................... 24
 
@@ -243,7 +243,7 @@ Es existieren verschiedene Kardinalitäten:
 
 ## 3.2 Strukturelemente
 
-Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-gisch verknüpft. In diesem Dokument werden zwei Strukturelement -Arten verwendet: Choice  und Sequence.
+Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinander lo-gisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice  und Sequence.
 
 | Symbol | Beschreibung |
 |---|---|
@@ -252,7 +252,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen.  Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -267,9 +267,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Datentyp: Ein Rechteck mit zwei abgeflachten Ecken symboli- |
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein |
 
-**Tabelle 3 – Beschreibung sonstiger Symbole**
+zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. **Tabelle 3 – Beschreibung sonstiger Symbole**
 
-zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst.
 
 ---
 
@@ -287,7 +286,7 @@ Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kind
 
 Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
-<?xml version="1.0" encoding="ISO -8859-15"?>
+<?xml version="1.0" encoding="ISO-8859-15"?>
 
 <ehd xmlns="urn:ehd/001" xmlns:qsmg="urn:ehd/qsmg/001" ehd_version="1.40">
 
@@ -320,9 +319,7 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese S
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD]
-
-Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
 [KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-mente eingeschränkt:
 
@@ -330,17 +327,22 @@ Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 - o Im EX-Attribut steht eine eindeutige id (GUID)
 - o Im RT-Attribut steht die Betriebsstättennummer (BSNR)
 
+[KBV_ITA_VGEX_eHD]
+
+-  Im *document_type_cd*
+-  Das  eine Korrekturlieferung erfolgt.
+
 **Abbildung 2 - Element id**
 
--  Im *document_type_cd*-Element wurde der Dokumenttyp festgelegt:
+- -Element wurde der Dokumenttyp festgelegt:
 - o im V-Attribut ist der Wert: „QSMG“ fest vorgeschrieben.
 
 **Abbildung 3 - Element document_type_cd**
 
--  Das  eine Korrekturlieferung erfolgt.  *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
+- *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
 - o Das Element *document_relationship/document_relationship.type_cd* V-Attribut den Wert „RPLC“
-- enthält im
 - o Das Element *document_relationship/related_document/id*  auf das *id*-Element des Ursprungsdokuments.
+- enthält im
 - enthält den Verweis
 
 **Abbildung 4 - Element document_relationship**
@@ -386,7 +388,7 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="123456789" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSMG"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSMG" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Molekulargenetik"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id  EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+<ehd:header> <ehd:id RT="123456789" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSMG"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSMG" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Molekulargenetik"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
 
 ---
 
@@ -410,13 +412,15 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 <sciphox:id EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
 
 **XML-Code 5 - id (Software)**
+
+*EX* und *RT*. Das *EX*-Attribut erhält
 
 
 ---
@@ -446,19 +450,19 @@ enthält die QS Molekulargenetik Jahresstatistik.
 
 ---
 
-\| <qsmg:qsmg_dokumentation |
+\| <qsmg:qsmg_dokumentation xmlns:qsmg="urn:ehd/qsmg/001"> |
 \|---|
-\| Die Jahresstatistik enthält weitere Elemente die nachfolgend beschrieben werden.    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qsmg:qsmg_dokumentation |
+\| Die Jahresstatistik enthält weitere Elemente die nachfolgend beschrieben werden.    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qsmg:qsmg_dokumentation xmlns:qsmg="urn:ehd/qsmg/001"> |
 
-xmlns:qsmg ="urn:ehd/qsmg/001 <behandlungsfall_anzahl  V="1500 "/> <diagnostische_fragestellung <behandlungsfall_anzahl  V="700"/> <pathologischer_befund_anzahl  V="300"/> <unauffaelliger_befund_anzahl  V="300"/> <nichtbeurteilbarer_befund_anzahl  V="100"/> </diagnostische_fragestellung <praediktive_fragestellung <behandlungsfall_anzahl V="500"/> <pathologischer_befund_anzahl  V="200"/> <unauffaelliger_befund_anzahl  V="100"/> <nichtbeurteilbarer_befund_anzahl  V="200"/> </praediktive_fragestellung <vorgeburtliche_fragestellung <behandlungsfall_anzahl  V="300"/> <pathologischer_befund_anzahl  V="100"/> <unauffaelliger_befund_anzahl  V="100"/> <nichtbeurteilbarer_befund_anzahl  V="100"/> </vorgeburtliche_fragestellung <leistung_liste> <leistung> <gop=" 11395"/> <gop_anzahl V="1200"/> <pathologischer_befund_anzahl  V="600"/> <unauffaelliger_befund_anzahl  V="400"/> <nichtbeurteilbarer_befund_anzahl  V="200"/> <fachgruppe_einsender_liste <fachgruppe_einsender <fachgruppe_nummer V="03"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="02"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender </fachgruppe_einsender_liste </leistung> <leistung> <gop=" 11432"/> <gop_anzahl V="500"/> <pathologischer_befund_anzahl  V="100"/> <unauffaelliger_befund_anzahl  V="100"/> <nichtbeurteilbarer_befund_anzahl  V="300"/> <fachgruppe_einsender_liste <fachgruppe_einsender <fachgruppe_nummer V="03"/> <einsendungen_anzahl  V="200"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="05"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender </fachgruppe_einsender_liste </leistung> </leistung_liste> <quotient_pathologisch <gop_anzahl V="700"/> <befund_anzahl V="600"/>
+<behandlungsfall_anzahl V="1500 "/> <diagnostische_fragestellung> <behandlungsfall_anzahl V="700"/> <pathologischer_befund_anzahl V="300"/> <unauffaelliger_befund_anzahl V="300"/> <nichtbeurteilbarer_befund_anzahl V="100"/> </diagnostische_fragestellung> <praediktive_fragestellung> <behandlungsfall_anzahl V="500"/> <pathologischer_befund_anzahl V="200"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="200"/> </praediktive_fragestellung> <vorgeburtliche_fragestellung> <behandlungsfall_anzahl V="300"/> <pathologischer_befund_anzahl V="100"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="100"/> </vorgeburtliche_fragestellung> <leistung_liste> <leistung> <gop=" 11395"/> <gop_anzahl V="1200"/> <pathologischer_befund_anzahl V="600"/> <unauffaelliger_befund_anzahl V="400"/> <nichtbeurteilbarer_befund_anzahl V="200"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="02"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> </leistung> <leistung> <gop=" 11432"/> <gop_anzahl V="500"/> <pathologischer_befund_anzahl V="100"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="300"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="200"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="05"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> </leistung> </leistung_liste> <quotient_pathologisch> <gop_anzahl V="700"/> <befund_anzahl V="600"/>
 
 ---
 
-\| </qsmg:qsmg_dokumentation XML-Code 6 - qsmg dokumentation   4.3.1  Die Anzahl (nonNegativeInteger   4.3.2  Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element  1 [2] nur ganze Zahlen im positiven Bereich inklusive „0“.  1) aller Behandlungsfälle wird hier im V-Attribut angegeben. |
+\| </qsmg:qsmg_dokumentation> XML-Code 6 - qsmg dokumentation    4.3.1  Die Anzahl (nonNegativeInteger   4.3.2  Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element  1 [2] nur ganze Zahlen im positiven Bereich inklusive „0“.  1) aller Behandlungsfälle wird hier im V-Attribut angegeben. |
 \|---|
-\| </qsmg:qsmg_dokumentation |
+\| </qsmg:qsmg_dokumentation> |
 
-<quotient V="1.16"/> </quotient_pathologisch <quotient_unauffaellig <gop_anzahl V="500 "/> <befund_anzahl V="500"/> <quotient V="1"/> </quotient_unauffaellig <quotient_nichtbeurteilbar <gop_anzahl V="500"/> <befund_anzahl V="400"/> <quotient V="1.25"/> </quotient_nichtbeurteilbar <unterauftrag_anzahl  V="300"/> <einsender_lanr_anzahl  V="120"/> <einsender_bsnr_anzahl  V="90"/> <fachgruppe_einsender_liste <fachgruppe_einsender <fachgruppe_nummer V="02"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="03"/> <einsendungen_anzahl  V="500"/> </fachgruppe_einsender <fachgruppe_einsender <fachgruppe_nummer V="05"/> <einsendungen_anzahl  V="300"/> </fachgruppe_einsender </fachgruppe_einsender_liste <produkt1_teilnahmehaufigkeit  V="3"/> <produkt2_ringversuchszertifikat  V="2"/> behandlungsfall_anzahl diagnostische_fragestellung enthält die folgenden Unterelemente: behandlungsfall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl  und nichtbeurteilbarer_befund_anzahl  Gemäß der W3C Spezifikation
+<quotient V="1.16"/> </quotient_pathologisch> <quotient_unauffaellig> <gop_anzahl V="500 "/> <befund_anzahl V="500"/> <quotient V="1"/> </quotient_unauffaellig> <quotient_nichtbeurteilbar> <gop_anzahl V="500"/> <befund_anzahl V="400"/> <quotient V="1.25"/> </quotient_nichtbeurteilbar> <unterauftrag_anzahl V="300"/> <einsender_lanr_anzahl V="120"/> <einsender_bsnr_anzahl V="90"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="02"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="500"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="05"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> <produkt1_teilnahmehaufigkeit V="3"/> <produkt2_ringversuchszertifikat V="2"/> behandlungsfall_anzahl diagnostische_fragestellung enthält die folgenden Unterelemente: behandlungsfall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl  und nichtbeurteilbarer_befund_anzahl  Gemäß der W3C Spezifikation
 
 ---
 
@@ -603,7 +607,7 @@ Die Anzahl der erbrachten Leistungen (GOPs) in den Behandlungsfällen mit nicht 
 
 #### 4.3.8.2 befund_anzahl
 
-Die Anzahl der Behandlungsfälle mit nicht beurteilbarem Befund. Angabe erfolgt im V -Attribut.
+Die Anzahl der Behandlungsfälle mit nicht beurteilbarem Befund. Angabe erfolgt im V-Attribut.
 
 #### 4.3.8.3 quotient
 

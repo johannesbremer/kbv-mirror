@@ -10,15 +10,9 @@
 
 # - indikationsbezogenen Dokumentation
 
-**der Anlage 6*, 8*, 10*, 12*, 14*, 16*, 18*, 20 oder 22* der**
+**der Anlage 6*, 8*, 10*, 12*, 14*, 16*, 18*, 20 oder 22* der**  **DMP-A-RL -**
 
 **Grundlage:**
-
-```
--
-```
-
-**DMP-A-RL -**
 
 **DMP-A-RL**
 
@@ -57,9 +51,8 @@
 
 2 Dies entspricht dem „origination_dttm“
 
-### Anlage 2
+Nr.  Institutionskennzeichen  22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein ### Anlage 2
 
-Nr.  Institutionskennzeichen  22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein
 
 ---
 
@@ -73,7 +66,7 @@ Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rü
 |  |  |  | festgelegten Plausibilitätsregeln erfolgen.   4a. Ergibt die Differenz aus der Datumsangabe in Feld    5. Erfolgt eine Angabe zu    6. Erfolgt eine Angabe zu        7a. Ergibt die Differenz aus der Datumsangabe in Feld          8a.    8b. |
 |---|---|---|---|
 
-3 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe COPD" nicht möglich. chronische Herzinsuffizienz müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln  3, 4 chronischer Rückenschmerz müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln 3, 7 7. Erfolgt eine Angabe zu Depression , müssen zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 8 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „Depression" nicht möglich. 8. Erfolgt eine Angabe zu „Osteoporose“ , müssen zusätzlich die Angaben der Anlage 20* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 9 Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 60 Jahren, ist die Angabe „ Osteoporose" nicht möglich. Erfolgt in Feld 12 die Angabe „Weiblich“ oder „Unbestimmt“ oder „Divers“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 50 Jahren, ist die Angabe
+3 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe COPD" nicht möglich. chronische Herzinsuffizienz müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln  3, 4 chronischer Rückenschmerz müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln 3, 7 7. Erfolgt eine Angabe zu Depression , müssen zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 8 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 18 Jahren, ist die Angabe „Depression" nicht möglich. 8. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 20* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 60 Jahren, ist die Angabe „ Erfolgt in Feld 12 die Angabe „Weiblich“ oder „Unbestimmt“ oder „Divers“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von < 50 Jahren, ist die Angabe „Osteoporose“ , müssen 3, 9 Osteoporose" nicht möglich.
 
 ---
 

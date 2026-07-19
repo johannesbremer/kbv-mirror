@@ -7,7 +7,7 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2022   VERSION: 1.01   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# SCHNITTSTELLENBESCHR EIBUNG  CHRONISCHER RÜCKENSC HMERZ
+# SCHNITTSTELLENBESCHREIBUNG  CHRONISCHER RÜCKENSCHMERZ
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_CR]
 
@@ -216,7 +216,7 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
 |  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
-**Tabelle 2:** Beschreibung der Strukturelement -Symbole
+**Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
@@ -352,7 +352,7 @@ Für die Darstellung von Daten des Chronischen Rückenschmerzes  Verlaufsdokumen
 \| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1">        </content> |
 \|---|
 
-**XML-Code 4:** content mit sciphox -SSU (observation)
+**XML-Code 4:** content mit sciphox-SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
 
@@ -360,7 +360,7 @@ Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobac
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
-**Abbildung 4:** Aufbau Sciphox -SSU observation
+**Abbildung 4:** Aufbau Sciphox-SSU observation
 
 Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
@@ -427,7 +427,7 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>**   iptor="sciphox">**     <sciphox:Beobachtungen>**               </content> |
 \|---|
 
-**XML-Code 9:** content (Administrative Daten )
+**XML-Code 9:** content (Administrative Daten)
 
 ### Einschreibung wegen
 
@@ -520,7 +520,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 5:** Werte bei Ergebnistext ( Raucher)
+**Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
 ### Blutdruck systolisch
 
@@ -608,7 +608,7 @@ Der Coderahmen sieht wie folgt aus:
 
 ### Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika
 
-Bei diesem Parameter enthält das Element sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 7
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 7
 
 \| <   Schmerzmedikation: Opioidanalgetika"/>**   </sciphox:Beobachtung> |
 \|---|
@@ -621,11 +621,11 @@ Bei diesem Parameter enthält das Element sciphox:Ergebnistext> im *V*-Attribut 
 \| Ja, weniger als 12 Wochen |
 \| Nein |
 
-**Tabelle 7:** Werte bei Ergebnistext (Aktuelle kreuzsch merzbedingte Schmerzmedikation:  Opioidanalgetika
+**Tabelle 7:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation:  Opioidanalgetika
 
 ### Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht Opioidanalgetika
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte <sciphox:Ergebnistext V="Nein"/>Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 8
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte <sciphox:Ergebnistext V="Nein"/>Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 8
 
 |  |  |
 |---|---|
@@ -681,7 +681,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 \| Ja |
 \| Nein |
 
-**Tabelle 9:** Werte bei Ergebnistext ( Bereits vor Einschreibung in das DMP an einer multimodalen  Schulung teilgenommen )
+**Tabelle 9:** Werte bei Ergebnistext (Bereits vor Einschreibung in das DMP an einer multimodalen  Schulung teilgenommen)
 
 ### Kreuzschmerz spezifische Schulung empfohlen (bei aktueller Dokumentation)
 
@@ -701,7 +701,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut die Feldbezeichnung
 
-**Tabelle 10** Werte bei Ergebnistext ( Kreuzschmerz Dokumentation)
+**Tabelle 10** Werte bei Ergebnistext (Kreuzschmerz Dokumentation)
 
 ### 6.1.9 Abschnitt „Sonstige Behandlung
 
@@ -724,7 +724,7 @@ spezifische Schulung empfohlen (bei aktueller
 \| <content>**       <sciphox:Beobachtungen>**                               </content> |
 \|---|
 
-**XML-Code 24:** content (Sonstige Behandlung )
+**XML-Code 24:** content (Sonstige Behandlung)
 
 ### Regelmäßig körperlich aktiv
 
@@ -743,11 +743,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 \| Nicht möglich |
 
-**Tabelle 11:** Werte bei Ergebnistext ( Regelmäßig körperlich aktiv)
+**Tabelle 11:** Werte bei Ergebnistext (Regelmäßig körperlich aktiv)
 
 ### CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 =  “Keine“ bis 10 = “Stärkster Schmerz“)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V=". . ." U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monate n (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)"/> <sciphox:Ergebniswert V=". . ." U="{Punktzahl}"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Ergebnistext V="Nicht möglich"/>Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Schmerzstärke“ und  im *U* Attribut den fest vorgeschriebenen Wert „{Punktzahl} Die Angabe der Schmerzstärke erfolgt ohne
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V=". . ." U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)"/> <sciphox:Ergebniswert V=". . ." U="{Punktzahl}"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Ergebnistext V="Nicht möglich"/>Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut die „Schmerzstärke“ und  im *U* Attribut den fest vorgeschriebenen Wert „{Punktzahl} Die Angabe der Schmerzstärke erfolgt ohne
 
 |  |  |
 |---|---|
@@ -769,7 +769,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut
 \| <sciphox:Beobachtung>      </sciphox |
 \|---|
 
-**XML-Code 27**: CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monate n (0 = “Keine“ bis 10 =  “Maximale Beeinträchtigung“)
+**XML-Code 27**: CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = “Keine“ bis 10 =  “Maximale Beeinträchtigung“)
 
 ### 6.1.10 Abschnitt „Behandlungsplanung“
 
@@ -835,7 +835,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Quartalsweise |
 \| Jedes zweite Quartal |
 
-**Tabelle 13:** Werte bei Ergebnistext ( Dokumentationsintervall)
+**Tabelle 13:** Werte bei Ergebnistext (Dokumentationsintervall)
 
 |  |  |
 |---|---|
@@ -907,7 +907,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>**     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation) "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>**XML-Code 34:** Kreuzschmerz-spezifische Schulung wahrgenommen
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>**XML-Code 34:** Kreuzschmerz-spezifische Schulung wahrgenommen
 
 |  |  |
 |---|---|
@@ -922,7 +922,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| War aktuell nicht möglich |
 \| Bei letzter Dokumentation keine Schulung empfohlen |
 
-**Tabelle 14:** Werte bei Ergebnistext (Kreuzschmerz -spezifische Schulung wahrgenommen )
+**Tabelle 14:** Werte bei Ergebnistext (Kreuzschmerz-spezifische Schulung wahrgenommen)
 
 ### 7.1.3 Abschnitt „Sonstige Behandlung
 
@@ -935,9 +935,9 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>       <sciphox:Beobachtungen>**                                               </content> |
 \|---|
 
-**XML-Code 35:** content (Sonstige Behandlung )
+**XML-Code 35:** content (Sonstige Behandlung)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V=". . ."/> U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monate n (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)"/> <sciphox:Ergebniswert V="=". . ."/>" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Beendigung der DMP-Teilnahme vereinbart"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V=". . ."/> U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)"/> <sciphox:Ergebniswert V="=". . ."/>" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Beendigung der DMP-Teilnahme vereinbart"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
 |---|---|
 
 
@@ -961,7 +961,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Kein Ziel überprüft |
 \| Kein Ziel vereinbart |
 
-**Tabelle 15:** Werte bei Ergebnistext ( Erreichung mindestens eines der individuell vereinbarten Ziele  seit der letzten Dokumentation )
+**Tabelle 15:** Werte bei Ergebnistext (Erreichung mindestens eines der individuell vereinbarten Ziele  seit der letzten Dokumentation)
 
 ### Regelmäßig körperlich aktiv
 
@@ -987,7 +987,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### n (0 = “Keine“ bis 10 = “Maximale
 
-<sciphox:Parameter DN=" Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation <sciphox:Ergebnistext V="Mindestens ein Ziel erreicht"/> "/>*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN=" Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation "/> <sciphox:Ergebnistext V="Mindestens ein Ziel erreicht"/> *V*-Attribut die Feldbezeichnung
 
 |  |  |
 |---|---|
@@ -1005,7 +1005,7 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 16** Werte bei Ergebnistext ( Beendigung der DMP Teilnahme vereinbart
+**Tabelle 16** Werte bei Ergebnistext (Beendigung der DMP Teilnahme vereinbart
 
 <sciphox:Ergebnistext V="Ja"/>
 

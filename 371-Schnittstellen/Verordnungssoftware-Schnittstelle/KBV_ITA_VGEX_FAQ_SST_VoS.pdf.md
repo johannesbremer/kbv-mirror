@@ -4,10 +4,12 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT 2. SEPTEMBER 2025   VERSION: 2.1.2   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE   DEZERNAT DIGITALISIERUNG UND IT  2. SEPTEMBER 2025   VERSION: 2.1.2   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# VERORDNUNGSSOFTWARE SCHNITTSTELLE VERSION 2.1.0 - FAQ  FÜR SOFTWAREHERSTELLER
+**VERORDNUNGSSOFTWARE-**
+
+# SCHNITTSTELLE VERSION 2.1.0 - FAQ  FÜR SOFTWAREHERSTELLER
 
 ## [KBV_ITV_VGEX_FAQ_SST_VOS]
 
@@ -65,7 +67,7 @@ DOKUMENTENHISTORIE
 | 1.20.0 | 08.07.2021 | KBV | Neue Fragen | E-Rezept | 6 ff. |
 | 1.0 | 15.06.2020 | KBV | Dokumenterstellung |  | alle |
 
-Kompetenzzentrum für entfernt  Interoperabilität im Gesundheits wesen (KIG) aufgenommen aufgenommen Überarbeitung 
+Kompetenzzentrum für entfernt  Interoperabilität im Gesundheits- wesen (KIG) aufgenommen aufgenommen Überarbeitung 
 
 
 ---
@@ -80,7 +82,7 @@ Die vorliegenden FAQs richten sich an Hersteller, welche die B1- und/oder B2-Sch
 
 ## 2.1 FRAGESTELLUNG  WELCHER FHIR-VALIDATOR WIRD BEI DER PRÜFUNG KANN EINGESETZT  WERDEN?
 
-[Für die automatische Prüfung wird der Validator von HL7.org [](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator)[Dokumentation HL7.org FHIR-Validator](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator) [Release-Seite des FHIR-Validators](https://github.com/hapifhir/org.hl7.fhir.core/)[] benutzt und mit folgenden Parametern aufgerufen:](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator)[](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator)
+[Für die automatische Prüfung wird der Validator von HL7.org [](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator)[Dokumentation HL7.org FHIR-Validator](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator) [Release-Seite des FHIR-Validators](https://github.com/hapifhir/org.hl7.fhir.core/)[] benutzt und mit folgenden Parametern aufgerufen:](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator)
 
 java jar validator_cli.jar <X> ig <Y> version 4.0.1 locale de DE no extensible binding warnings
 
@@ -96,7 +98,7 @@ Die Parameter bedeuten im Detail:
 
 -no-extensible-binding-warnings Unterdrückung von Warnungen zu erweiterbaren ValueSet-Bindungen
 
-## 2.2 FRAGESTELLUNG  BESITZT DER VERWENDETE VALDITATOR EINSCHRÄNKUNGEN, DIE WICHTIG FÜR  DIE EIGENE ANWENDUNG SIND
+## 2.2 FRAGESTELLUNG  BESITZT DER VERWENDETE VALDITATOR EINSCHRÄNKUNGEN, DIE WICHTIG FÜR  DIE EIGENE ANWENDUNG SIND?
 
 Folgende Validierungsfehler und Warnungen entstehen bei der Validierung der Profile der Version 2.1.0  bzw. der zur Verfügung gestellten Beispielinstanzen mit der Version 5.6.87 des HL7.org-Validators, obwohl  nach unserer Einschätzung weder Fehler in den Instanzen noch in den Profilen enthalten sind.
 
@@ -137,7 +139,7 @@ Bevor die Daten in der VoS weiterverarbeitet werden, müssen einige Überprüfun
 
 **VoS: Daten abfragen**
 
-Die VoS fragt mit Hilfe der Kontext-ID die entsprechenden Daten beim PVS ab. Sollte in der VoS ein eRP aus  dem PVS nachgeladen werden müssen, erfolgt dieses über den REST-Server mit einer Suche nach  Ressourcen vom Typ DocumentReference mit   type.coding.code = „Signiertes_eRezept“. Die Suche kann noch auf patientenspezifische Angaben  (Patienten-Referenz) und Datumszeiträume (indexed) eingegrenzt werden.
+Die VoS fragt mit Hilfe der Kontext-ID die entsprechenden Daten beim PVS ab. Sollte in der VoS ein eRP aus  dem PVS nachgeladen werden müssen, erfolgt dieses über den REST-Server mit einer Suche nach  Ressourcen vom Typ DocumentReference mit  type.coding.code = „Signiertes_eRezept“. Die Suche kann noch auf patientenspezifische Angaben  (Patienten-Referenz) und Datumszeiträume (indexed) eingegrenzt werden.
 
 **VoS: E-Rezept stornieren und Löschauftrag an Fachdienst versenden**
 
@@ -145,7 +147,7 @@ Das E-Rezept wird gemäß den E-Rezept Anforderungen storniert und der Löschauf
 
 **VoS: Provenance an das PVS übergeben**
 
-Für die Übertragung einer Stornierung eines E-Rezepts wird von der VoS eine Instanz des Profils  KBV_PR_VoS_Provenance_ePrescription verwendet. Dieses beinhaltet die  auf das signierte (und optional das unsignierte) E-Rezept.
+Für die Übertragung einer Stornierung eines E-Rezepts wird von der VoS eine Instanz des Profils  KBV_PR_VoS_Provenance_ePrescription verwendet. Dieses beinhaltet die Aktivität „DELETE“ und Verweise  auf das signierte (und optional das unsignierte) E-Rezept.
 
 **PVS: E-Rezept als gelöscht markieren**
 
@@ -156,9 +158,6 @@ Das PVS markiert den entsprechenden Eintrag als gelöscht.
 **PVS: Daten zusammenstellen**
 
 Die Vorbedingung hierbei ist, dass der Arzt bestimmte Daten und/oder Verordnungsfunktionen im PVS  ausgewählt hat. Auf dieser Grundlage stellt das PVS die für die VoS erforderlichen Daten zusammen.
-
-Aktivität „DELETE“ und Verweise
-
 
 ---
 
@@ -247,13 +246,13 @@ Für die Übertragung einer Stornierung eines E-Rezepts wird von der VoS eine In
 
 Das PVS übernimmt die Speicherung des E-Rezeptes und markiert den entsprechenden Eintrag gegebenfalls  als gelöscht.
 
-## 2.6 FRAGESTELLUNG - WAS SIND DIE UNTERSCHIEDE BEI DER VERORDNUNG VON  PAPIERGEBUNDENEN REZEPTEN UND E-REZEPTEN UND DEREN ÜBERTRAGUNG ÜBER DIE VOS SCHNITTSTELLE?
+## 2.6 FRAGESTELLUNG - WAS SIND DIE UNTERSCHIEDE BEI DER VERORDNUNG VON  PAPIERGEBUNDENEN REZEPTEN UND E-REZEPTEN UND DEREN ÜBERTRAGUNG ÜBER DIE VOS- SCHNITTSTELLE?
 
 Der Aufruf der VoS durch das PVS ist identisch. Beim Aufruf werden die zum Aufrufkontext notwendigen  und ggf. optionalen Daten an die VoS übergeben. Mit den übergebenen Praxis-, Behandelnden-, Patienten- und Kostenträgerdaten können in der VoS die entsprechenden Funktionen durchgeführt und (E-)Rezepte  erstellt werden.
 
 E-Rezepte:
 
-Die E-Rezepte werden entsprechend der Spezifikation des E-Rezepts mit den dort festgelegten FHIR Profilen erzeugt und als Bundle zusammengestellt und signiert an den Fachdienst gesendet. Eine  Übertragung des signierten Bundles an das PVS erfolgt über eine Instanz vom Typ DocumentReference mit  dem Profil KBV_PR_VoS_DocumentReference im Dateiformat PKCS#7 (content.attachment.contentType =  „application /pkcs7 mime“). Optional ist auch die Übergabe des unsignierten eRP-Bundles möglich. Diese  Instanzen werden als Inhalt im Speicherbundle KBV_PR_VoS_Bundle_VoS_PVS aufgenommen.
+Die E-Rezepte werden entsprechend der Spezifikation des E-Rezepts mit den dort festgelegten FHIR-Profilen erzeugt und als Bundle zusammengestellt und signiert an den Fachdienst gesendet. Eine  Übertragung des signierten Bundles an das PVS erfolgt über eine Instanz vom Typ DocumentReference mit  dem Profil KBV_PR_VoS_DocumentReference im Dateiformat PKCS#7 (content.attachment.contentType =  „application /pkcs7 mime“). Optional ist auch die Übergabe des unsignierten eRP-Bundles möglich. Diese  Instanzen werden als Inhalt im Speicherbundle KBV_PR_VoS_Bundle_VoS_PVS aufgenommen.
 
 Papiergebundene Rezepte:
 
@@ -290,13 +289,13 @@ Für alle englische Codes werden entsprechende deutsche Übersetzungen zur Verf�
 
 ---
 
-## 2.12 FRAGESTELLUNG - WER ÜBERNIMMT DIE ZERTIFIZIERUNG DER VERORDNUNGSSOFTWARE SCHNITTSTELLE?
+## 2.12 FRAGESTELLUNG - WER ÜBERNIMMT DIE ZERTIFIZIERUNG DER VERORDNUNGSSOFTWARE- SCHNITTSTELLE?
 
 Nach SGB V §372 Absatz 3, sowie SGB V §387 Absatz 1 „führt das Kompetenzzentrum oder eine  akkreditierte Stelle im Sinne von § 385 Absatz 8 eine Konformitätsbewertung auf die Übereinstimmung des  Systems mit den geltenden Interoperabilitätsanforderungen durch.“
 
-[Für die Zertifizierung ist somit nun das KIG der gematik (](https://www.ina.gematik.de/kig)[https://www.ina.gematik.de/kig](https://www.ina.gematik.de/kig)[) zuständig. Bitte](https://www.ina.gematik.de/kig) erfragen Sie dort das weitere Vorgehen
+[Für die Zertifizierung ist somit nun das KIG der gematik (](https://www.ina.gematik.de/kig)[https://www.ina.gematik.de/kig](https://www.ina.gematik.de/kig)[) zuständig. Bitte](https://www.ina.gematik.de/kig) erfragen Sie dort das weitere Vorgehen.
 
-Die derzeitig gültigen KBV-Zertifikate werden planmäßig auslaufen
+Die derzeitig gültigen KBV-Zertifikate werden planmäßig auslaufen.
 
 ---
 

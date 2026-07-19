@@ -1,72 +1,68 @@
+**geb. am**
+
 **Krankenkasse bzw. Kostenträger**
+
+**Status**
 
 **Name, Vorname des Versicherten**
 
+**Datum** **Versicherten-Nr. Arzt-Nr.**
+
 **Kostenträgerkennung**
 
-**Betriebsstätten-Nr.** **Befund:**
+**Betriebsstätten-Nr. Befund:**
 
-**Bestkorrigierter**
+**Versorgungs-fach**
 
-**Bestkorrigierter**
+**mit**
+
+**Unfallfolgen** **Bestkorrigierter**
 
 **leiden (BVG)**
 
-**Fernvisus rechts**
+**Brille**
+
+**Bestkorrigierter**
+
+**bedarf**
+
+**Fernvisus links** **Fernvisus rechts**
+
+**Kontaktlinsen**
 
 **Sehbehinderung**
 
 **mindestens WHO 1**
 
-**Diagnose/Begründung:** **Menge und Art der Verordnung:**
+**Diagnose/Begründung:**
 
-**R** **FL**
+**Menge und Art der Verordnung:**
 
-**R** **NL**
+**Basis** **Achse**
+
+**Scheitel-**
 
 **Prisma**
 
 **Sphäre**
 
+**Zylinder**
+
+**abstand**
+
+**R** **FL**
+
+**R** **NL**
+
+**L**
+
 **R**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**Versicherten-Nr. Arzt-Nr.**
-
-**Scheitel-**
-
-**Zylinder**
-
-**geb. am**
-
-**Status**
-
-**Datum**
-
-**mit** **Brille** **Fernvisus links**
-
-**Kontaktlinsen**
-
-**Vergrößerungs-**
-
-**Ersatz**
-
-**Basis**
-
-**Achse**
-
-**abstand**
-
-**L**
-
 **Verordnung von** **IK des Leistungserbringers** **Rechnungsnummer**
 
-**Belegnummer**
-
-**Unterschrift des Versicherten** **Erst-**
-
-**vergrößernden Sehhilfen**
+**Belegnummer** **vergrößernden Sehhilfen Erst-**
 
 **versorgung**
 
@@ -74,9 +70,7 @@
 
 **Unfall,**
 
-**Versorgungs-fach**
-
-**Unfallfolgen** **bedarf**
+**Vergrößerungs-**
 
 **Reparatur**
 
@@ -98,6 +92,8 @@
 
 **in Höhe von**
 
+**Ersatz**
+
 **Die Kosten werden übernommen**
 
 **Entscheidung der Krankenkasse in Höhe des geltenden Festbetrages** **Datum**
@@ -118,9 +114,11 @@
 
 **Bescheinigung des Leistungserbringers** **Lieferung anderer Ware**
 
-**Der Barcode enthält keine auf dem Formular nicht le** **Diese Verordnung ist kein Gutschein für einen besti** **Zur Beachtung für den Versicherten**
+**Der Barcode enthält keine auf dem Formular nicht le** **Diese Verordnung ist kein Gutschein für einen bestiZur Beachtung für den Versicherten**
 
 **8A**
+
+**Unterschrift des Versicherten**
 
 **(bei Erstversorgung oder Verlust der Sehhilfe)**
 

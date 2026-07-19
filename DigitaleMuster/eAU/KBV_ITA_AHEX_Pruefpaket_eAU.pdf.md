@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 9. SEPTEMBER 2025   VERSION: 1.62   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  9. SEPTEMBER 2025   VERSION: 1.62   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET ELEKTRONISCHE  ARBEITSUNFÄHIGKEITSBESCHEINIGUNG
@@ -133,7 +133,7 @@ Alle erforderlichen Unterlagen stehen im Internet zum Download unter [Testdaten_
 
 ## 1.5 PRÜFUNTERLAGEN
 
-Das Prüfpaket umfasst zum einen Prüffälle zum Versand von eAU- sowie Storno-Dateien und zum anderem  den Empfang von Fehlernachrichten der Krankenkassen
+Das Prüfpaket umfasst zum einen Prüffälle zum Versand von eAU- sowie Storno-Dateien und zum anderem  den Empfang von Fehlernachrichten der Krankenkassen.
 
 Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwartet:
 
@@ -170,11 +170,11 @@ Die Struktur des zip-Archives sollte folgende Form aufweisen:
 
 ### 1.6.1 Prüfstammdaten
 
-Für die Zertifizierung können die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet. Stammdaten für den „produktiv“ Betrieb verwendet werden.
+Für die Zertifizierung können die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet. Stammdaten für den „produktiv“ Betrieb verwendet werden.
 
 ### 1.6.2 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  [VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  [VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
@@ -209,15 +209,6 @@ Die Verwendung einer Import-Schnittstelle für die XML-Dateien ist nur für Prü
 | **Titel** | Dr. |
 
 Neben den speziellen Prüfstammdateien können auch die
-
-```
--
--
-```
-
-Prüfstammdateien verwendet
-
-nötigen Angaben zu den
 
 Federmannssohn 1.6.3) in einem jeweils separaten
 
@@ -270,23 +261,21 @@ Federmannssohn 1.6.3) in einem jeweils separaten
 | **Voraussetzung** | ›  › Patient „Karl |
 | **Aktion** |  |
 | **Einzureichende** |  |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eAU FHIR- |
 
 # 2 PRÜFFÄLLE
 
-Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden. aus diesen. Wie diese Prüffälle zu bearbeiten und
+Zur Überprüfung von Softwarefunktionalitäten oder dem softwareseitigen Erkennen von Fehleingaben  können mit einzelnen Prüffällen besondere Anforderungen verknüpft sein. Diese werden dem jeweiligen  Prüffall vorangestellt bzw. der Prüffall selbst besteht nur aus diesen. Wie diese Prüffälle zu bearbeiten und  welche Prüfunterlagen einzureichen sind, kann den einzelnen Prüffällen entnommen werden.
 
 ## 2.1 VORAUSSETZUNGEN
 
-Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünsc Szenarien prüfen zu können:
-
-hten
+Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prüffällen gewünschten  Szenarien prüfen zu können:
 
 Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfenden Systems  Screenshots zu erstellen.
 
 ## 2.2 ERSTELLUNG EINER EAU
 
-1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) AU-seit = <muss dem Ausstellungsdatum entsprechen> c) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> d) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> e) Erstbescheinigung = Ja f) ICD-10-GM-Kode = J06.9 G ICD-10-GM-Kode = U07.1 G 2. Der Anwender signiert die eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM Nachricht für den Versand der eAU. 4. Bitte erzeugen Sie einen Screenshot des Header- Elements „Reply -T o“ der erzeugten KIM-Nachricht. 5. Der Anwender versendet die eAU. 1. XML-Datei der eAU 2. Signierte eAU-Datei 3. Screenshot der Betreffzeile 4. Screenshot des Header- Elements „Reply To“ Karl-Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgewählt Friederich Schaumberg“ ist im System ausgewählt Prüfunterlagen -Dateien auf Basis der eAU FHIR Profile in der Version 1.2.0 zu erstellen.  **Tabelle 1: Prüffalltabelle**  **Erstbescheinigung für Patient „Karl-Friederich Schaumberg**
+1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden>  b) AU-seit = <muss dem Ausstellungsdatum entsprechen> c) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> d) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> e) Erstbescheinigung = Ja f) ICD-10-GM-Kode = J06.9 G ICD-10-GM-Kode = U07.1 G 2. Der Anwender signiert die eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM- Nachricht für den Versand der eAU. 4. Bitte erzeugen Sie einen Screenshot des Header- Elements „Reply -T o“ der erzeugten KIM-Nachricht. 5. Der Anwender versendet die eAU. 1. XML-Datei der eAU 2. Signierte eAU-Datei 3. Screenshot der Betreffzeile 4. Screenshot des Header- Elements „Reply To“ Karl-Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   **Tabelle 1: Prüffalltabelle**  **Erstbescheinigung für Patient „Karl-Friederich Schaumberg**
 
 
 ---
@@ -298,7 +287,7 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 | **Voraussetzung** | ›  ›  › Patient „Karl |
 | **Aktion** |  |
 | **Einzureichende** |  |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eAU FHIR- |
 
 **Tabelle 2: Prüffalltabelle**
 
@@ -310,13 +299,7 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 | **Aktion** |  |
 | **Einzureichende** |  |
 
-**Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
-
-```
--
-```
-
-Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg“ PF01 erfolgreich ausgeführt Arzt 1 ist als ausstellender Arzt im System ausgewählt Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <+ 4 Tage zum Ausstellungsdatum> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU -Dateien auf Basis der eAU FHIR- Profile in der Version 1.2.0 zu erstellen.  Prüfunterlagen Die eAU aus PF2 ist angelegt und als versendet markiert Arzt 1 ist als ausstellender Arzt im System ausgewählt 1. Der Anwender erstellt eine Stornierung der eAU aus PF02: a) Bundle-Identifier der eAU aus PF02 b) Stornierungsdatum = <kann beliebig gewählt werden> 2. Der Anwender signiert die Stornierung der eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM Nachricht. 4. Der Anwender versendet die Stornierung der eAU. 1. XML-Datei der Storno -
+Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg“ PF01 erfolgreich ausgeführt  Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <+ 4 Tage zum Ausstellungsdatum> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen Die eAU aus PF2 ist angelegt und als versendet markiert  Arzt 1 ist als ausstellender Arzt im System ausgewählt 1. Der Anwender erstellt eine Stornierung der eAU aus PF02: a) Bundle-Identifier der eAU aus PF02 b) Stornierungsdatum = <kann beliebig gewählt werden> 2. Der Anwender signiert die Stornierung der eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM- Nachricht. 4. Der Anwender versendet die Stornierung der eAU. 1. XML-Datei der Storno **Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
 
 
 ---
@@ -324,7 +307,7 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 |  |  |
 |---|---|
 |  |  |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eAU FHIR- |
 
 **Tabelle 3: Prüffalltabelle**
 
@@ -335,15 +318,13 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 | **Voraussetzung** | › ›  › Patient „Karl |
 | **Aktion** |  |
 | **Einzureichende** |  |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eAU FHIR- |
 
 **Tabelle 4: Prüffalltabelle**
 
 **Stornonachricht für PF02**
 
-**Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
-
-2. Signierte Storno-Datei 3. Screenshot der Betreffzeile Profile in der Version 1.2.0 zu erstellen.  -Dateien auf Basis der eAU FHIR Prüfunterlagen Schaumberg“  PF01 bis PF03 erfolgreich ausgeführt Arzt 1 ist als ausstellender Arzt im System ausgewählt Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G f) ICD-10-GM-Kode = U07.1 G Diagnosetext = Nun die korrekten Informationen 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 4. Die Papierausfertigung für den Versicherten sowie die Papierausfertigung für den Arbeitgeber sollen auf Grundlage der entsprechenden Stylesheets erzeugt werden. 5. Der Anwender druckt die Papierausfertigungen Versicherter und Arbeitgeber aus. 1. XML-Datei der eAU 2. PDF-Datei mit den beiden Papierausfertigungen für den Versicherten und den Arbeitgeber Profile in der Version 1.2.0 zu erstellen.  Karl-Friederich -Dateien auf Basis der eAU FHIR-
+2. Signierte Storno-Datei 3. Screenshot der Betreffzeile Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen Karl-Friederich Schaumberg“  PF01 bis PF03 erfolgreich ausgeführt  Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G f) ICD-10-GM-Kode = U07.1 G Diagnosetext = Nun die korrekten Informationen 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 4. Die Papierausfertigung für den Versicherten sowie die Papierausfertigung für den Arbeitgeber sollen auf Grundlage der entsprechenden Stylesheets erzeugt werden. 5. Der Anwender druckt die Papierausfertigungen Versicherter und Arbeitgeber aus. 1. XML-Datei der eAU 2. PDF-Datei mit den beiden Papierausfertigungen für den Versicherten und den Arbeitgeber Profile in der Version 1.2.0 zu erstellen.   **Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
 
 
 ---
@@ -351,16 +332,15 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 |  |  |
 |---|---|
 | **Prüffall-ID** | PF05 |
-| **Testziel** | Erstellung einer eAU (Folgebescheinigung) für d |
+| **Testziel** | Erstellung einer eAU (Folgebescheinigung) für die Patientin |
 | **Voraussetzung** | ›  › Patientin „Brigitte Althaus“ ist im System ausgewählt |
 | **Aktion** |  |
 | **Einzureichende** |  |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eAU FHIR- |
 
-**Tabelle 5: Prüffalltabelle**
+**Tabelle 5: Prüffalltabelle**  **Folgebescheinigung für die Patientin „Brigitte Althaus**
 
-Prüfunterlagen ie Patientin Arzt 1 ist als ausstellender Arzt im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Behandlung findet im Rahmen der ASV statt e) ASV-Teamnummer: 001234566 f) Folgebescheinigung = Ja ICD-10-GM-Kode = C50.0 G h) Diagnosetext = Schwerer Krankheitsverlauf i) Reha = Ja j) Wiedereingliederung = Ja k) Sonstiges = Ja Sonstiges-Text = Eine weitere Maßnahme  l) 7. AU-Woche = Ja 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU -Dateien auf Basis der eAU FHIR Profile in der Version 1.2.0 zu erstellen.   **Folgebescheinigung für die Patientin „Brigitte Althaus**
-
+a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Behandlung findet im Rahmen der ASV statt e) ASV-Teamnummer: 001234566 f) Folgebescheinigung = Ja ICD-10-GM-Kode = C50.0 G h) Diagnosetext = Schwerer Krankheitsverlauf i) Reha = Ja j) Wiedereingliederung = Ja k) Sonstiges = Ja Sonstiges-Text = Eine weitere Maßnahme  l) 7. AU-Woche = Ja 1. XML-Datei der eAU 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. Arzt 1 ist als ausstellender Arzt im System ausgewählt  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.
 
 ---
 
@@ -369,14 +349,13 @@ Prüfunterlagen ie Patientin Arzt 1 ist als ausstellender Arzt im System ausgew�
 | **Prüffall-ID** | PF06 |
 | **Testziel** | Erstellung einer eAU (Folgebescheinigung |
 | **Voraussetzung** | ›  › Patient „Viktor Müller“ ist im System ausgewählt |
-| **Aktion** | Der Anwender visualisiert die erzeugte eAU mit dem |
+| **Aktion** | Der Anwender visualisiert die erzeugte eAU mit dem Stylesheet für die |
 | **Einzureichende** |  |
-| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML |
+| **Hinweis** | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eAU FHIR- |
 
-**Tabelle 6: Prüffalltabelle**
+**Tabelle 6: Prüffalltabelle  Folgebescheinigung für Patient „Viktor Müller**
 
-Prüfunterlagen ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) Sonstiger Unfall, Unfallfolgen = Ja f) ICD-10-GM-Kode = I83.9 G L g) ICD-10-GM-Kode = H16.4 V h) Diagnosetext = Nun die korrekten Informationen 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eAU vor der Signierung visualisieren lassen kann. Stylesheet für die Ausfertigung Krankenkasse.  3. Bitte erzeugen Sie einen Screenshot, auf dem die visualisierte eAU vollständig zu erkennen ist. 4. Der Anwender signiert die eAU. 5. Der Anwender versendet die eAU. 1. XML-Datei der eAU 2. Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung 3. Screenshot mit der Anzeige der visualisierten eAU -Dateien auf Basis der eAU FHIR- Profile in der Version 1.2.0 zu erstellen.   **Folgebescheinigung für Patient „Viktor Müller**
-
+a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) Sonstiger Unfall, Unfallfolgen = Ja f) ICD-10-GM-Kode = I83.9 G L g) ICD-10-GM-Kode = H16.4 V h) Diagnosetext = Nun die korrekten Informationen 1. XML-Datei der eAU 2. Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung 3. Screenshot mit der Anzeige der visualisierten eAU  1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eAU vor der Signierung visualisieren lassen kann. 3. Bitte erzeugen Sie einen Screenshot, auf dem die visualisierte eAU vollständig zu erkennen ist. 4. Der Anwender signiert die eAU. 5. Der Anwender versendet die eAU. ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im System ausgewählt  Ausfertigung Krankenkasse.  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.
 
 ---
 
@@ -385,11 +364,9 @@ Prüfunterlagen ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im Sy
 | **Prüffall-ID** | PF07 |
 | **Testziel** | Erhalt und Darstellung einer Fehlernachricht der Krankenkasse zu PF06 |
 | **Voraussetzung** | PF06 ist im System angelegt und als versendet markiert. |
-| **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler [Testdaten_eAU] |
+| **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler-Kasse-Arzt_96d6a790- [Testdaten_eAU] |
 | **Aktion** |  |
 | **Einzureichende** | 1. Screenshot der Fehlermeldung im Kontext des Importes der Fehlernachricht. |
-
-**Tabelle 7: Prüffalltabelle**
 
 |  |  |
 |---|---|
@@ -400,18 +377,11 @@ Prüfunterlagen ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im Sy
 | **Einzureichende** |  |
 | **Hinweis** | Wenn ein Arzt in Weiterbildung eine AU ausstellt, dann muss ebenfalls der |
 
-Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml Bitte fügen Sie den Bundle-Identifier aus PF06 in das Feld extension(https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance _Practitioner_Bundle_Identifier).value der zur Verfügung gestellten Fehlernachricht ein.  2. Der Anwender liest die Fehlernachricht der Krankenkasse ein und bekommt die entsprechenden Informationen angezeigt. Prüfunterlagen Ernesto Müller Arzt 2 ist als ausstellender Arzt im System ausgewählt Arzt 1 ist als verantwortlicher Arzt für Arzt 2 im System ausgewählt im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum: <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis: <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am: <muss dem Ausstellungsdatum entsprechen> d) Endbescheinigung: Ja e) ICD-10-GM-Kode = S02.4 G L f) 7. AU-Woche: Ja Folgebescheinigung: Ja 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU verantwortlich zeichnende Arzt in der eAU enthalten sein (siehe P310-09). **Einlesen einer Fehlernachricht**
+**Tabelle 7: Prüffalltabelle  Einlesen einer Fehlernachricht**
 
+Bitte fügen Sie den Bundle-Identifier aus PF06 in das Feld extension(https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance _Practitioner_Bundle_Identifier).value der zur Verfügung gestellten Fehlernachricht ein.  2. Der Anwender liest die Fehlernachricht der Krankenkasse ein und bekommt die entsprechenden Informationen angezeigt.  afc2-4556-ab73-301e51a7bf30.xml Prüfunterlagen 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum: <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis: <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am: <muss dem Ausstellungsdatum entsprechen> d) Endbescheinigung: Ja e) ICD-10-GM-Kode = S02.4 G L f) 7. AU-Woche: Ja Folgebescheinigung: Ja 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU Ernesto Müller Arzt 2 ist als ausstellender Arzt im System ausgewählt  Arzt 1 ist als verantwortlicher Arzt für Arzt 2 im System ausgewählt im System ausgewählt Prüfunterlagen verantwortlich zeichnende Arzt in der eAU enthalten sein (siehe P310-09).
 
 ---
-
-|  |  |
-|---|---|
-|  | Für die Zertifizierung sind die einzureichenden XML |
-
-**Tabelle 8: Prüffalltabelle**
-
-**2.3** **VERWENDUNG VON KIM**
 
 |  |  |
 |---|---|
@@ -421,10 +391,6 @@ Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml Bitte füg
 | **Einzureichende** |  |
 | **Hinweis** | Sollten Sie bereits das Bestätigungsschreiben für ein anderes Verfahren bei der KBV |
 
-**Tabelle 9: Prüffalltabelle**
-
-**2.4** **DARSTELLUNG IN DER SOFTWARE**
-
 |  |  |
 |---|---|
 | **Prüffall-ID** | PF10 |
@@ -432,30 +398,35 @@ Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml Bitte füg
 | **Voraussetzung** | Prüffälle PF01 bis PF08 wurden durchgeführt |
 | **Einzureichende** |  |
 
-**Tabelle 10: Prüffalltabelle**
+- abbildet.
+- 1. Bitte fügen Sie den Bundle-Identifier aus PF05 in das Feld  extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance) _Practitioner_Bundle_Identifier).value der Fehlernachricht ein.
+- 2. Der Anwender liest die Fehlernachricht der Krankenkasse ein.
+
+|  |  |
+|---|---|
+|  | Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eAU FHIR- |
+
+**Tabelle 8: Prüffalltabelle  AU eines Arztes in Weiterbildung**
+
+## 2.3 VERWENDUNG VON KIM
+
+**Tabelle 9: Prüffalltabelle  Einreichung KIM Bestätigungsschreiben der gematik**
+
+## 2.4 DARSTELLUNG IN DER SOFTWARE
+
+**Tabelle 10: Prüffalltabelle  Übersicht über die versendeten eAUs**
 
 **2.5** **VERHALTEN BEIM EMPFANG VON FEHLERHAFTEN DATEN**
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | PF11 |
-| **Testziel** | Anzeige des Verhaltens der Software beim Import von fehlerhafter |
+| **Testziel** | Anzeige des Verhaltens der Software beim Import von fehlerhafter Fehlernachricht |
 | **Voraussetzung** | Prüffall PF05 wurde durchgeführt |
-| **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler [Testdaten_eAU] |
+| **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler-Kasse-Arzt_6413570d- [Testdaten_eAU] |
 | **Aktion** |  |
 
-**AU eines Arztes in Weiterbildung**
-
-**Einreichung KIM Bestätigungsschreiben der gematik**
-
-- abbildet.
-
-**Übersicht über die versendeten eAUs**
-
-- 1. Bitte fügen Sie den Bundle-Identifier aus PF05 in das Feld  extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance) _Practitioner_Bundle_Identifier).value der Fehlernachricht ein.
-
--Dateien auf Basis der eAU FHIR Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen 1. PDF-Datei: Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM z.B. den eArztbrief eingereicht haben, dann muss  dennoch eine erneute Übermittlung dieser Bestätigung im Verfahren eAU erfolgen. Prüfunterlagen 1. Screenshot, welcher die Übersicht der erzeugten/versendeten eAUs und eStornos der Krankenkasse. d8ce-4afa-9f6e-0950111a4cb8.xml -Kasse-Arzt_6413570d-- 2. Der Anwender liest die Fehlernachricht der Krankenkasse ein.
-
+Profile in der Version 1.2.0 zu erstellen.   1. PDF-Datei: Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM. Prüfunterlagen z.B. den eArztbrief eingereicht haben, dann muss dennoch eine erneute Übermittlung dieser Bestätigung im Verfahren eAU erfolgen.  1. Screenshot, welcher die Übersicht der erzeugten/versendeten eAUs und eStornos Prüfunterlagen der Krankenkasse. d8ce-4afa-9f6e-0950111a4cb8.xml
 
 ---
 
@@ -482,10 +453,9 @@ Prüfunterlagen -Kasse-Arzt_96d6a790- afc2-4556-ab73-301e51a7bf30.xml Bitte füg
 - zum Ausdruck einer Papierausfertigung für die Krankenkasse.
 - 2. PDF-Datei mit der Papierausfertigung Krankenkasse (inkl. Barcode).
 
-**Erzeugung einer Papierausfertigung Krankenkasse zur Übermittlung durch**
+**Erzeugung einer Papierausfertigung Krankenkasse zur Übermittlung durch den Versicherten**
 
-Prüfunterlagen 1. Screenshot, welcher das Verhalten der Software in diesem Fall darstellt Prüfunterlagen Übermittlung durch den Versicherten 1. Es soll eine Papierausfertigung auf Grundlage des Stylesheets Krankenkasse mit dem Barcode erzeugt werden. 2. Der Anwender druckt die Papierausfertigung Krankenkasse aus und dem Versicherten zur Übermittlung an die Krankenkasse. 1. Screenshot bzgl. der Auswahl der versendeten eAU aus PF04 inkl. Aufforderung Ausfertigung übergibt sie **den Versicherten**
-
+Prüfunterlagen 1. Screenshot, welcher das Verhalten der Software in diesem Fall darstellt.  Prüfunterlagen Übermittlung durch den Versicherten 1. Es soll eine Papierausfertigung auf Grundlage des Stylesheets Ausfertigung Krankenkasse mit dem Barcode erzeugt werden. 2. Der Anwender druckt die Papierausfertigung Krankenkasse aus und übergibt sie dem Versicherten zur Übermittlung an die Krankenkasse. 1. Screenshot bzgl. der Auswahl der versendeten eAU aus PF04 inkl. Aufforderung
 
 ---
 
@@ -514,11 +484,11 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 |  |  |
 |---|---|
 | **Referenz** | **Dokument** |
-| KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV   https://update.kbv.de/ita- |
+| KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV    https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technische_Anlage_eAU | Technische Anlage zur eAU    https://update.kbv.de/ita- |
-| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke   https://update.kbv.de/ita- |
+| KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Digitale Vordrucke    https://update.kbv.de/ita- |
 | KBV_ITA_FMEX_AAZ_eAU | Antrag auf Zertifizierung eAU    https://update.kbv.de/ita- |
-| gemLeit_Best_Konf_PS | Leitfaden Bestätigung der Konformität des    https://fachportal.gematik.de/hersteller |
+| gemLeit_Best_Konf_PS | Leitfaden Bestätigung der Konformität des    https://fachportal.gematik.de/hersteller- |
 | VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version    https://update.kbv.de/ita- |
 | Testdaten_eAU | Testdaten eAU in der aktuellen Version    https://update.kbv.de/ita- |
 

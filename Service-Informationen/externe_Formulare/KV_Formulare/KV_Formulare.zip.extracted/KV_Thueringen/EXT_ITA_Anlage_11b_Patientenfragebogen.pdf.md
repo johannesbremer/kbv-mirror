@@ -1,8 +1,8 @@
-| Krankenkasse bzw. Kostenträger |  | Hausarztzentrierte  Patientenfragebogen zum | | |
+| Krankenkasse bzw. Kostenträger |  | Hausarztzentrierte Versorgung Thüringen    Patientenfragebogen zum | | |
 |---|---|---|---|---|
 |  |  | Name, Vorname des Versicherten | | |
 |  |  |  |  | |
-|  |  | Kostenträgerkennung |  | Status |
+|  |  | Kostenträgerkennung | Versicherten-Nr. | Status |
 |  |  |  |  |  |
 |  |  | Betriebsstätten-Nr. | Arzt-Nr. | Datum |
 |  |  |  |  |  |
@@ -15,7 +15,7 @@
 | **Für Frauen:** |  |  |  |
 | **Für Männer:** |  |  |  |
 
-- **□□ □□□ □□□ □□□**  **Raucher - □**
+- **□□ □□□ □□□ □□□**
 
 **Alter Größe in cm Gewicht in kg Taillenumfang in cm nein ja**
 
@@ -24,7 +24,7 @@
 | 1. Nehmen Sie regelmäßig mehr als 5 verordnete Medikamente ein? |  |  |
 | 2. Nehmen Sie Medikamente ein, die nicht verordnet wurden, selbst gekaufte Arzneimittel? **Welche? ** |  |  |
 | 3. Sind Sie täglich weniger als mindestens eine Stunde körperlich aktiv? (z. B. Gartenarbeit, Sport, |  |  |
-| 4. Hat sich Ihre Leistungsfähigkeit in den letzten Monaten verschlechtert ? |  |  |
+| 4. Hat sich Ihre Leistungsfähigkeit in den letzten Monaten verschlechtert? |  |  |
 | 5. Wurden bei vergangenen ärztlichen Untersuchungen schon einmal zu hohe Blutzuckerwerte |  |  |
 | 6. Waren/sind Ihre Eltern und/oder Geschwister an Diabetes erkrankt? |  |  |
 | 7. Haben Sie in letzter Zeit verstärkt Durst mit vermehrtem Harndrang? |  |  |
@@ -40,7 +40,9 @@
 | 17. |  |  |
 | 18. |  |  |
 
-(HzV-THR) Versorgung Thüringen   „Früherkennungsprogramm“                                                            der HzV-THR (Anlage 11b)      geb. am Versicherten-Nr. Teilnehmer V1A den HzV letzte gynäkologische Krebs-Früherkennungsuntersuchung letzte Prostatakrebs-Früherkennungsuntersuchung spazieren gehen) festgestellt? Leiden Sie unter chronischem Husten (länger als 8 Wochen), Atemnot, Schmerzen und/oder Auswurf? Hat sich Ihre Körpergröße um mehr als 5 cm verringert? Sind Sie in den vergangenen 12 Monaten gestürzt oder haben Sie Probleme mit dem Gleichgewicht?  Haben Sie Probleme, Ihre Blase zu entleeren oder das Wasser zu halten? Sind Sie auffällig oft schwunglos oder ständig müde ? Haben Sie oder Ihre Angehörigen den Eindruck, dass Sie im Alltag zunehmend Dinge vergessen oder Ihnen alltägliche Dinge nicht mehr leicht von der Hand gehen? Verspüren Sie seit Wochen wenig Interesse oder Freude an Tätigkeiten und/oder Niedergeschlagen -           heit, Schwermut oder Hoffnungslosigkeit? Fühlen Sie sich in den letzten Wochen stark psychisch belastet oder gestresst, z. B. durch Pflege von Angehörigen oder die Betreuung erkrankter Familienmitglieder ?  Haben Sie weitere Anliegen, die Sie mit uns besprechen möchten? **Exemplar für**
+**Raucher - □**
+
+(HzV-THR)      geb. am „Früherkennungsprogramm“                                                            der HzV-THR (Anlage 11b) V1A Teilnehmer den HzV letzte gynäkologische Krebs-Früherkennungsuntersuchung letzte Prostatakrebs-Früherkennungsuntersuchung spazieren gehen) festgestellt? Leiden Sie unter chronischem Husten (länger als 8 Wochen), Atemnot, Schmerzen und/oder Auswurf? Hat sich Ihre Körpergröße um mehr als 5 cm verringert? Sind Sie in den vergangenen 12 Monaten gestürzt oder haben Sie Probleme mit dem Gleichgewicht?  Haben Sie Probleme, Ihre Blase zu entleeren oder das Wasser zu halten? Sind Sie auffällig oft schwunglos oder ständig müde? Haben Sie oder Ihre Angehörigen den Eindruck, dass Sie im Alltag zunehmend Dinge vergessen oder Ihnen alltägliche Dinge nicht mehr leicht von der Hand gehen? Verspüren Sie seit Wochen wenig Interesse oder Freude an Tätigkeiten und/oder Niedergeschlagen-           heit, Schwermut oder Hoffnungslosigkeit? Fühlen Sie sich in den letzten Wochen stark psychisch belastet oder gestresst, z. B. durch Pflege von Angehörigen oder die Betreuung erkrankter Familienmitglieder?  Haben Sie weitere Anliegen, die Sie mit uns besprechen möchten? **Exemplar für**
 
 
 ---

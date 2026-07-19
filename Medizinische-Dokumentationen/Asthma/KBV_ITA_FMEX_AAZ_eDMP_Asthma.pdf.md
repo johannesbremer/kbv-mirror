@@ -4,7 +4,7 @@
 
 Seite 1 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / 15. Mai 2024
 
-**EDMP -**
+**EDMP-**
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
@@ -23,7 +23,7 @@ Seite 1 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / 15. Mai 2024
 
 ## EDMP-ASTHMA 1 ALLGEMEINE ANGABEN
 
-Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV)
+Die Einleitung der Zertifizierung für das oben genannte Zertifizierungsthema wird durch die Übergabe  dieses Antrages an die Kassenärztliche Bundesvereinigung (KBV) initiiert.
 
 **1.1** **ANTRAGSSTELLER**
 
@@ -63,8 +63,6 @@ Seite 2 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15.
 
 Arzt/Ärztin
 
-initiiert.
-
 Softwarehaus
 
 Sonstiges
@@ -72,11 +70,13 @@ Sonstiges
 
 ---
 
+Antragssteller:
+
 **1.2** **OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE**
 
-Nur anzugeben, wenn abweichend von Abschnitt
+Nur anzugeben, wenn abweichend von Abschnitt 1.1.
 
-**Bestell- bzw. Auftragsnummer des**  **Antragsstellers**
+**Bestell- bzw. Auftragsnummer des**   **Antragsstellers**
 
 **Name**
 
@@ -86,27 +86,21 @@ Nur anzugeben, wenn abweichend von Abschnitt
 
 **1.3** **ZERTIFIZIERUNGSGEGENSTAND**
 
-Bitte geben Sie die Bezeichnung und Identnummer (falls
+Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizierungsgegenstandes an.
 
 **Bezeichnung**
 
-**Identnummer [die letzten drei**  **Stellen der Prüfnummer, falls**  **vorhanden]**
+**Identnummer [die letzten drei**   **Stellen der Prüfnummer, falls**  **vorhanden]**
 
 **1.4**  **BETRIEBSSYSTEME**
 
-Bitte geben Sie im Folgenden an, welche Client
+Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
 Windows
 
-iOS/Android
-
-Antragssteller: 1.1.
-
-vorhanden) des Zertifizierungsgegenstandes an.
-
--Betriebssysteme unterstützt werden.
-
 Mac OS
+
+iOS/Android
 
 Sonstige
 
@@ -119,7 +113,7 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger  der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
+Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei   der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
 
 Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden   Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
 
@@ -131,13 +125,9 @@ KEINE
 
 ALLE
 
-**IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION**  **ANFORDERUNGSKATALOG**
+**IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION EDMP ASTHMA LT.**  **ANFORDERUNGSKATALOG**
 
 Laut nachfolgender Liste
-
-**EDMP ASTHMA LT.**
-
--Stammdatei
 
 
 ---
@@ -219,7 +209,7 @@ Ergebnisprüfung 275,24  Rezertifizierung
 
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller  “ [KBV_ITA_ VGEX_Lizenzvereinbarung
+(6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller  “ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
 ---
 

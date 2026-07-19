@@ -73,13 +73,13 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 **HINWEIS**
 
-Nach Eingang des Antrages auf Zertifizierung bei der KBV oder des Prüfprotokolls beim Antragsteller,  müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen. Nach Ablauf dieser Frist, kann die  KBV das Zertifizierungsverfahren einstellen
+Nach Eingang des Antrages auf Zertifizierung bei der KBV oder des Prüfprotokolls beim Antragsteller,  müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen. Nach Ablauf dieser Frist, kann die  KBV das Zertifizierungsverfahren einstellen.
 
 ---
 
 1.3 ZERTIFIZIERUNGSPORTAL
 
-Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen
+Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
 Die vorliegende Ergebnisprüfung besteht aus einer manuellen Prüfung durch die KBV.
 

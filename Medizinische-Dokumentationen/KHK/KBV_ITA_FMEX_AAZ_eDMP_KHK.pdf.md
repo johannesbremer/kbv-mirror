@@ -4,10 +4,12 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT  15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE    DEZERNAT DIGITALISIERUNG UND IT   15. MAI 2024  VERSION: 4.4   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# ANTRAG AUF ZERTIFIZIERUNG EDMP KORONARE HERZKRANKHEITEN
+**ANTRAG AUF ZERTIFIZIERUNG EDMP-**
+
+# KORONARE HERZKRANKHEITEN
 
 ## [KBV_ITA_FMEX_AAZ_EDMP_KHK]
 
@@ -86,7 +88,7 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 |  |  |
 |---|---|
-| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger |
+| ☐ | Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden |
 
 ## 2.1 REALISIERTE OPTIONALE FUNKTIONEN EDMP KHK
@@ -97,7 +99,7 @@ Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisi
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
-| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION |
+| IDENT-NUMMER | BEZEICHNUNG DER OPTIONALEN FUNKTION EDMP KHK  LT. |
 |---|---|
 |  |  |
 |  |  |
@@ -106,7 +108,7 @@ Folgende optionale eDMP KHK Funktionen sind gem. Anforderungskatalog DMP realisi
 |  |  |
 |  |  |
 
--Stammdatei der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. EDMP KHK  LT. ANFORDERUNGSKATALOG 
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen  sowie Plausibilitätsrichtlinien erfüllt sind. ANFORDERUNGSKATALOG 
 
 
 ---
@@ -141,7 +143,7 @@ Diese Information ist verpflichtend anzugeben
 - (1) Die Zertifizierung wird im Rahmen einer Ergebnisprüfung durchgeführt.
 - (2) Bei erfolgreichem Abschluss bestätigt die KBV mit Vergabe einer entsprechenden Prüfnummer die  Zulassung.
 - (3) Die Laufzeit der Zulassung beträgt 36 Monate.
-- (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden
+- (4) Die Kosten der Zertifizierung können der folgenden Tabelle entnommen werden.
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
@@ -159,7 +161,7 @@ Diese Information ist verpflichtend anzugeben
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
-Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung   Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
 
 ---

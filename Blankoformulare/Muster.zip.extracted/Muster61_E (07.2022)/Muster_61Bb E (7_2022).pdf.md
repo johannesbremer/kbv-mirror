@@ -112,7 +112,7 @@ Datum
 
 Krankenkasse bzw. Kostenträger
 
-|  | Kognition | SchmerzHerz-/LungenfunktionMobilität |  |
+| Mobilität | Kognition | Schmerz | Herz-/Lungenfunktion |
 |---|---|---|---|
 | Chair |  | Schmerz- |  |
 | TUG sek **+** sek | MMST / 30 |  | WattErgometrie/10 |
@@ -121,6 +121,5 @@ Krankenkasse bzw. Kostenträger
 | kg **oder** kpa | GDS 15 / 15 |  | FEV1 % **+** VK % |
 | kraft |  |  |  |
 |  | Uhren- |  | NYHA- |
-| DEMMI / 100 testTinetti/28 | / 7 |  | Stadium |
-
-/ 28
+| DEMMI / 100 Tinetti / 28 | / 7 |  |  |
+|  | test |  | Stadium |

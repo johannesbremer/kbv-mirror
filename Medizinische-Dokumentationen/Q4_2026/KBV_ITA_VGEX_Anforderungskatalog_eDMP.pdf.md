@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. FEBRUAR 2025  VERSION: 2.49 DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. FEBRUAR 2025  VERSION: 2.49   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANFORDERUNGSKATALOG EDMP
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EDMP]
 
-BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
 ---
@@ -130,7 +130,7 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 
 74
 
-**3** **BARCODE DES FORMULARS DER TEILNAHMEERKL ÄRUNG (EXEMPLAR FÜR DIE DATENSTELLE) 75**
+**3** **BARCODE DES FORMULARS DER TEILNAHMEERKLÄRUNG (EXEMPLAR FÜR DIE DATENSTELLE) 75**
 
 3.1 Anforderungen zur Barcodebedruckung 75
 
@@ -203,15 +203,15 @@ DOKUMENTENHISTORIE
 | 2.46 | 15.08.2024 | KBV | Anpassung der folgenden  KP2-210   KP2-310  KP2-410  KP1-48  P1-47  P1-101 | Redaktionelle | 18  22  24  29  40  50 |
 |  |  |  |  |  |  |
 | 2.49  13.02.2026  KBV  Einführung eDMP Adipositas –        Anpassung P1-15 und P4-20 durch | Anpassung der Anforderungen KP2-   Anpassung der Anforderung KP1-48    Anpassung der möglichen | Anpassung der Anforderung P1-50  Aufnahme der Anforderung P1-42     Redaktionelle Anpassungen            Plausibilitätsänderung  10, 11 11, | | | |
-| 31 | 34 |  | 45, 45,  12, 71     14, 71 | 18, 40        29 | 77      29  18    alle  15.05.2025 KBV  Anpassung der Anforderung KP2-20    53  15.11.2024 |
+| 31 | 34 |  | 45, 45,  12, 71     14, 71 | 18, 40        29 | 77      29  18    alle  15.05.2025  KBV  Anpassung der Anforderung KP2-20    53  15.11.2024 |
 |  | Anpassung der folgenden | KP1-48 | P1-15  KP1-22  P4-20 |  | Aufnahme von KIM als    Änderungen der    Redaktionelle  60 |
-| 29 |  | 14 | 9  71  2.46  15.08.2024 KBV | Anpassung der folgenden  KP2-210   KP2-310  KP2-410  KP1-48  P1-47  P1-101  Redaktionelle | 18  22  24  29  40  50  Die Änderungen vom 13.02.2026 (Version 2.49) treten zum |
+| 29 |  | 14 | 9  71  2.46  15.08.2024  KBV | Anpassung der folgenden  KP2-210   KP2-310  KP2-410  KP1-48  P1-47  P1-101  Redaktionelle | 18  22  24  29  40  50  Die Änderungen vom 13.02.2026 (Version 2.49) treten zum |
 |  |  |  |  |  |  |
 | 2.49  13.02.2026  KBV  Einführung eDMP Adipositas –        Anpassung P1-15 und P4-20 durch | Anpassung der Anforderungen KP2- | Anpassung der Anforderung KP1-48    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)    Anpassung der Anforderung P1-50    Aufnahme der Anforderung P1-42   Redaktionelle Anpassungen              10, 11 11, | | | |
 | 31 | 34 |  | 45, 45,  12, 71 |  | 14, 71      18, 40        29   77    29 |
-|  | alle |  |  | 2.48 | 15.05.2025 KBV |
+|  | alle |  |  | 2.48 | 15.05.2025  KBV |
 |  | 53 |  |  |  | 15.11.2024 |
-|  | Anpassung der folgenden | KP1-48 | P1-15  KP1-22  P4-20    Redaktionelle Anpassungen  Aufnahme von KIM als |  | Redaktionelle  60    29  14    71  2.46  15.08.2024 KBV  Anpassung der folgenden |
+|  | Anpassung der folgenden | KP1-48 | P1-15  KP1-22  P4-20    Redaktionelle Anpassungen  Aufnahme von KIM als |  | Redaktionelle  60    29  14    71  2.46  15.08.2024  KBV  Anpassung der folgenden |
 | KP2-410 | P1-47 | P1-101 | Redaktionelle |  |  |
 |  |  | 18 |  |  | 24 |
 |  | 40 |  |  | 50 | Die Änderungen vom 13.02.2026 (Version 2.49) treten zum |
@@ -222,21 +222,21 @@ DOKUMENTENHISTORIE
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  |  |  | Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)        Nähere      68  71 | 23        53 | 77  2.45  15.01.2024 KBV  Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2-   Aufnahme der Anforderung KP2-310      Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100      Überführung in        Nähere  Nähere      14          , 20,  21 |
+|  |  |  | Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)        Nähere      68  71 | 23        53 | 77  2.45  15.01.2024  KBV  Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2-   Aufnahme der Anforderung KP2-310      Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100      Überführung in        Nähere  Nähere      14          , 20,  21 |
 |  |  |  |  |  |  |
-|  |  |  | 2.44  25.10.2023 KBV  Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw. | 29    17, 40 | 62  2.43  KBV  Redaktionelle Korrekturen |
+|  |  |  | 2.44  25.10.2023  KBV  Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw. | 29    17, 40 | 62  2.43  KBV  Redaktionelle Korrekturen |
 |  |  |  |  |  | 8 9,  , 13 14,  ,  16 17,  , 15,  25 |
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | P2-50  P4-20    Aufnahme der Anforderung KP2-320        Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3) | Nähere | 68  71    23        53        77 | | | |
 | 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2-   Aufnahme der Anforderung KP2-310        Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100 | Überführung in        Nähere    Nähere | 14      16      18, 20,  21    22        24        62 |
 | 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw. |  | 29    17, 40,  62 |
-| 2.43 | 26.04.2023 | KBV | Redaktionelle Korrekturen                   Anpassung an die DM1 & 2 |  | 8, 9,  12, 13,  14, 15,  16, 17,  17, 15,  25, 29,  40, 44,  47, 60,  63, 69,    18, 20,  21, 41,  46, 71 |
+| 2.43 | 26.04.2023 | KBV | Redaktionelle Korrekturen                    Anpassung an die DM1 & 2 |  | 8, 9,  12, 13,  14, 15,  16, 17,  17, 15,  25, 29,  40, 44,  47, 60,  63, 69,    18, 20,  21, 41,  46, 71 |
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | P2-50  P4-20    Aufnahme der Anforderung KP2-320        Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3) |  | Nähere      68  71   23               77 | | | |
 | 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2- | Aufnahme der Anforderung KP2-310 | Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100        Überführung in        Nähere    Nähere    14    16 |
 | 20 | 21 |  |  |  |  |
 |  |  |  |  |  | 62 |
-| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw.    29 |  | 17, 40,  62  2.43  26.04.2023 KBV  Redaktionelle Korrekturen               Anpassung an die DM1 & 2 |
+| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw.    29 |  | 17, 40,  62  2.43  26.04.2023  KBV  Redaktionelle Korrekturen                Anpassung an die DM1 & 2 |
 |  |  |  |  |  |  |
 |  | , | 9 | , | 12 | 13,  14, |
 | 16 | 17 | , | 17 | , 15, | , 29 |
@@ -247,26 +247,26 @@ Parametererläuterung Asthma berücksichtigenden Anforderung aus KVDT (Abschnitt
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  |  | Anpassung der Anforderung O1-45 | Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1-   Klarstellung der Anforderung P1-100  Angleichung der    64, 66            39 | 58 | 62  2.42  11.08.2022 KBV  Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6-   , 14,  28, 39 41, 41,  52, 71   74       , 82  2.41  12.11.2021 |
-|  | 46 |  |  | 2.40 | 13.08.2021 KBV |
-|  |  |  | 2.39  15.02.2021 KBV  Einführung des eDMP Osteoporose      Anpassung der eDMP DM1 und DM2 | Redaktionelle Anpassungen     12, | ,  39,  ,  71 83  39 71 |
-| , | , | 70 | 2.38  12.02.2021 KBV | Fehlerkorrektur bei KP1   47 | 2.37  KBV  Anpassung der Schnittstellenversion  14 71  2.36  13.11.2020 KBV |
+|  |  | Anpassung der Anforderung O1-45 | Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1-   Klarstellung der Anforderung P1-100  Angleichung der    64, 66            39 | 58 | 62  2.42  11.08.2022  KBV  Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6-   , 14,  28, 39 41, 41,  52, 71   74       , 82  2.41  12.11.2021 |
+|  | 46 |  |  | 2.40 | 13.08.2021  KBV |
+|  |  |  | 2.39  15.02.2021  KBV  Einführung des eDMP Osteoporose      Anpassung der eDMP DM1 und DM2 | Redaktionelle Anpassungen     12, | ,  39,  ,  71 83  39 71 |
+| , | , | 70 | 2.38  12.02.2021  KBV | Fehlerkorrektur bei KP1-76    47 | 2.37  KBV  Anpassung der Schnittstellenversion  14 71  2.36  13.11.2020  KBV |
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | Redaktionelle Bearbeitung /          Anpassung der Anforderung O1-45    Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1- | Klarstellung der Anforderung P1-100  Angleichung der    64, 66 | 39   58    58      62 | | | |
-| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6-   12, 14,  28, 39 | ,  41, 41,  52, 71    74 | 81, 82 2.41  12.11.2021 KBV  Anpassung der Anforderung P1-61  46  13.08.2021 KBV  Neue Pflichtfunktion P1-82    60 |
+| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6-   12, 14,  28, 39 | ,  41, 41,  52, 71    74 | 81, 82 2.41  12.11.2021  KBV  Anpassung der Anforderung P1-61  46  13.08.2021  KBV  Neue Pflichtfunktion P1-82    60 |
 | 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose | Anpassung der eDMP DM1 und DM2 | Redaktionelle Anpassungen     12, 14,  39 |
-| , | , | 83 | 16, 17,  39, 71  46, 47,  70 | 2.38  12.02.2021 KBV  Fehlerkorrektur bei KP1   47 | 15.01.2021 KBV  Anpassung der Schnittstellenversion    14, 71  2.36  13.11.2020 KBV  Fehlerkorrektur der    71 |
+| , | , | 83 | 16, 17,  39, 71  46, 47,  70 | 2.38  12.02.2021  KBV  Fehlerkorrektur bei KP1-76    47 | 15.01.2021  KBV  Anpassung der Schnittstellenversion    14, 71  2.36  13.11.2020  KBV  Fehlerkorrektur der    71 |
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | Redaktionelle Bearbeitung /          Anpassung der Anforderung O1-45    Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1-   Klarstellung der Anforderung P1-100 | Angleichung der | 64, 66            39    58      58      62 | | | |
 | 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6- |  | 12, 14,  28, 39,  41, 41,  52, 71    74        81, 82 |
 | 2.41 | 12.11.2021 | KBV | Anpassung der Anforderung P1-61 |  | 46 |
 | 2.40 | 13.08.2021 | KBV | Neue Pflichtfunktion P1-82 |  | 60 |
 | 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose      Anpassung der eDMP DM1 und DM2    Redaktionelle Anpassungen |  | 12, 14,  39, 41,  71, 83  16, 17,  39, 71  46, 47,  70 |
-| 2.38 | 12.02.2021 | KBV | Fehlerkorrektur bei KP1 |  | 47 |
+| 2.38 | 12.02.2021 | KBV | Fehlerkorrektur bei KP1-76 |  | 47 |
 | 2.37 | 15.01.2021 | KBV | Anpassung der Schnittstellenversion |  | 14, 71 |
 | 2.36 | 13.11.2020 | KBV | Fehlerkorrektur der |  | 71 |
 
-eindeutigen Ident- Nummern, Vereinheitlichung von 72 Arthritis auf der übergreifenden Teilnahmeerklärung 20 und K6-21 -76 Akzeptanzkriterium 2 und der Archivbezeichnungen des eDMP Depression Archivbezeichnungen
+eindeutigen Ident- Nummern, Vereinheitlichung von 72 Arthritis auf der übergreifenden Teilnahmeerklärung 20 und K6-21 Akzeptanzkriterium 2 und der Archivbezeichnungen des eDMP Depression Archivbezeichnungen
 
 ---
 
@@ -428,7 +428,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | *Eindeutige Ident- Nummer  z. B.* | Funktionsbezeichnung |
 
-Pn-nn,  P4-10 KPn-nn, KP4-10 On-nn,  O8-30 1 Dazu zählen die DMP (Disease Management Programme) Diabetes Mellitus Typ 1, Diabetes Mellitus Typ 2, Koronare Herzkrankheit ( KHK), Asthma  bronchiale, COPD, Herzinsuffizienz (HI), chronischer Rückenschmerz, Depression, Osteoporose , Rheumatoide Arthritis, Adipositas – Erwachsene und  Adipositas - Kinder und Jugendliche.
+Pn-nn,  P4-10 KPn-nn, KP4-10 On-nn,  O8-30 1 Dazu zählen die DMP (Disease Management Programme) Diabetes Mellitus Typ 1, Diabetes Mellitus Typ 2, Koronare Herzkrankheit (KHK), Asthma  bronchiale, COPD, Herzinsuffizienz (HI), chronischer Rückenschmerz, Depression, Osteoporose, Rheumatoide Arthritis, Adipositas – Erwachsene und  Adipositas - Kinder und Jugendliche.
 
 
 ---
@@ -470,13 +470,14 @@ Der Anwender soll darauf hingewiesen werden, dass er möglicherweise eine Folged
 **Akzeptanzkriterium:**
 
 - 1. Das System muss beim Anlegen einer Folgedokumentation prüfen, welche Angabe in der letzten  Dokumentation der Behandlung bei dem Parameter „Beendigung der DMP-Teilnahme vereinbart“  gemacht wurde. Falls die Angabe „Ja“ gesetzt war, erhält der Anwender eine Hinweismeldung mit  folgendem Inhalt:
-- „Im Rahmen der letzten Dokumentation haben Sie gemeinsam mit Ihrem Patienten die Beendigung  der Teilnahme am DMP chronischer Rückenschmerz vereinbart. Bitte beachten Sie, dass keine  weitere Folgedokumentation vergütet wird. Für eine erneute Teilnahme am DMP chronischer
 
-Prüfung auf Folgedokumentationen bei dem eDMP chronischer Rückenschmerz
+Prüfung auf Folgedokumentationen bei dem eDMP chronischer Rückenschmerz - „Im Rahmen der letzten Dokumentation haben Sie gemeinsam mit Ihrem Patienten die Beendigung  der Teilnahme am DMP chronischer Rückenschmerz vereinbart. Bitte beachten Sie, dass keine  weitere Folgedokumentation vergütet wird. Für eine erneute Teilnahme am DMP chronischer
+
 
 ---
 
 - Rückenschmerz ist bei Vorliegen der Einschlusskriterien eine erneute Einschreibung mittels einer  neuen Teilnahme- und Einwilligungserklärung sowie Erstdokumentation notwendig.“
+2. Im Rahmen eines Arztwechsels (siehe P1-13) oder im Falle einer Vertretung, welche in der  Folgedokumentation dokumentiert werden können, wird Akzeptanzkriterium 1. nicht geprüft.
 
 **Bedingung:**
 
@@ -514,10 +515,8 @@ Der Anwender soll darauf hingewiesen werden, dass er möglicherweise eine Folged
 **Akzeptanzkriterium:**
 
 - 2. Das System muss beim Anlegen einer Folgedokumentation prüfen, welche Angabe in der letzten  Dokumentation der Behandlung bei dem Parameter „Beendigung der DMP-Teilnahme“ gemacht wurde.  Falls die Angabe „Ja“ gesetzt war, erhält der Anwender eine Hinweismeldung mit folgendem Inhalt:
-- *Im Rahmen der letzten Dokumentation haben Sie gemeinsam mit Ihrem Patienten die Beendigung*  *der Teilnahme am DMP Adipositas - Erwachsene vereinbart. Bitte beachten Sie, dass keine weitere*  *Folgedokumentation vergütet wird. Für eine erneute Teilnahme am DMP Adipositas - Erwachsene ist*  *bei Vorliegen der Einschlusskriterien eine erneute Einschreibung mittels einer neuen Teilnahme - und*  *Einwilligungserklärung sowie Erstdokumentation notwendig.*
-2. Im Rahmen eines Arztwechsels (siehe P1 Folgedokumentation dokumentiert werden können, wird Akzeptanzkriterium 1. nicht geprüft.
 
-chronischer Rückenschmerz -13) oder im Falle einer Vertretung, welche in der
+chronischer Rückenschmerz - *Im Rahmen der letzten Dokumentation haben Sie gemeinsam mit Ihrem Patienten die Beendigung*  *der Teilnahme am DMP Adipositas - Erwachsene vereinbart. Bitte beachten Sie, dass keine weitere*  *Folgedokumentation vergütet wird. Für eine erneute Teilnahme am DMP Adipositas - Erwachsene ist*  *bei Vorliegen der Einschlusskriterien eine erneute Einschreibung mittels einer neuen Teilnahme- und*  *Einwilligungserklärung sowie Erstdokumentation notwendig.*
 
 
 ---
@@ -536,7 +535,7 @@ Das System belegt den Parameter „Beendigung der DMP-Teilnahme“ mit dem Wert 
 
 **Begründung:**
 
-Die Vorbelegung des Parameters soll verhindern, dass Patienten versehentlich aus dem eDMP Adipositas  Erwachsene ausgeschrieben werden.
+Die Vorbelegung des Parameters soll verhindern, dass Patienten versehentlich aus dem eDMP Adipositas - Erwachsene ausgeschrieben werden.
 
 **Akzeptanzkriterium:**
 
@@ -576,24 +575,20 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipos
 |---|---|
 | **KP1-27** | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas -  Kinder und Jugendliche |
 
-Das System belegt den Parameter „Beendigung der DMP
+Das System belegt den Parameter „Beendigung der DMP-Teilnahme“ mit dem Wert „Nein“ vor.
 
 **Begründung:**
 
-Die Vorbelegung des Parameters soll verhindern, dass Patienten versehentlich aus dem eDMP Adipositas  Kinder und Jugendliche ausgeschrieben werden.
+Die Vorbelegung des Parameters soll verhindern, dass Patienten versehentlich aus dem eDMP Adipositas - Kinder und Jugendliche ausgeschrieben werden.
 
 **Akzeptanzkriterium:**
 
-- 1. Das System belegt den Parameter „Beendigung der DMP standardmäßig mit dem Wert „Nein“ vor.
+- 1. Das System belegt den Parameter „Beendigung der DMP-Teilnahme“ in der Folgedokumentation  standardmäßig mit dem Wert „Nein“ vor.
 - a) Der Anwender muss die Möglichkeit haben, diesen Wert zu verändern.
 
 **Bedingung:**
 
 Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipositas - Kinder und  Jugendliche unterstützen.
-
--Teilnahme“ mit dem Wert „Nein“ vor.
-
-- -Teilnahme“ in der Folgedokumentation
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -649,13 +644,11 @@ Die Benennung der einzelnen Eingabefelder soll wortgleich mit den im Bundesanzei
 |---|---|
 | **P1-13** | Arztwechsel |
 
-Wechselt der eingeschriebene Patient den dokumentierenden Arzt Folgedokumentation gekennzeichnet werden. Das Element Arztwechsel wird nicht in den Datensatz  übermittelt.
-
-, muss das bei Erfassung der
+Wechselt der eingeschriebene Patient den dokumentierenden Arzt, muss das bei Erfassung der  Folgedokumentation gekennzeichnet werden. Das Element Arztwechsel wird nicht in den Datensatz  übermittelt.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
-| **P1-14** | Umgang mit dem |
+| **P1-14** | Umgang mit dem Kopfdatum |
 
 Die Software muss den Zeitpunkt der Dokumentation erfassen.
 
@@ -673,7 +666,6 @@ Zu beachten ist in diesem Zusammenhang auch die Pflichtfunktion P1-15
 |---|---|
 | **P1-19** | Erläuterung Kopfdatum |
 
-Kopfdatum
 
 ---
 
@@ -703,34 +695,15 @@ Die Software muss vom Anwender den Zeitpunkt abfragen, an dem die Dokumentation 
 
 Über das Erstelldatum wird festgestellt:
 
-```
--
--
-```
+- In welchem Quartal die der Dokumentation zugrundeliegende Behandlung stattgefunden hat.
+- Welche Version der Dokumentationsrichtlinie der Dokumentation zugrunde liegt.
 
 **Akzeptanzkriterium:**
 
 - 1. Die Software muss bei der Erstellung und nach jeder Korrektur einer Dokumentation das Erstelldatum  vom Anwender angeben bzw. bestätigen lassen.
 - 2. Die Software muss das Erstelldatum explizit vom Anwender bestätigen lassen.
-- 3. Die Software überträgt das Erstelldatum in der Dokumentation über das Element
+- 3. Die Software überträgt das Erstelldatum in der Dokumentation über das Element *service_tmr*
 - 4. Die Software muss anhand des Erstelldatums die folgenden gültigen Schnittstellenversionen verwenden:
-
-```
--
--
--
--
--
-```
-
-- In welchem Quartal die der Dokumentation zugrundeliegende Behandlung stattgefunden hat.
-- Welche Version der Dokumentationsrichtlinie der Dokumentation zugrunde liegt.
-
-```
--
-```
-
-- *service_tmr*
 - Indikation Asthma:
 - ab dem 01.04.2023 bis zum 30.09.2026 die Schnittstellenversion 4.46
 - ab dem 01.10.2026 die Schnittstellenversion 4.47
@@ -887,23 +860,25 @@ Die zu den Parametern angegebenen Ausfüllanleitungen müssen für den Anwender 
 
 Das System muss die Parameter, deren Eingabe von der Dokumentationsart (Erstdokumentation,  Folgedokumentation) abhängig sind, textuell näher erläutern.
 
-Zur textuellen Erläuterung muss bei einer Erstdokumentation der Parameter um den Text „(*Bitte bereits*  *stattgefundene Ereignisse dokumentieren*)“ erweitert werden.
+Zur textuellen Erläuterung muss bei einer Erstdokumentation der Parameter um den Text „( *stattgefundene Ereignisse dokumentieren*)“ erweitert werden.
 
-Bei einer Folgedokumentation muss der Parameter um die textuelle Erläuterung „(*Bitte neu aufgetretene*  *Ereignisse dokumentieren*)“ erweitert werden.
+Bei einer Folgedokumentation muss der Parameter um die textuelle Erläuterung „( *Ereignisse dokumentieren*)“ erweitert werden.
+
+*Bitte bereits*
+
+*Bitte neu aufgetretene*
 
 
 ---
 
-Die textuellen Erläuterungen gelten für die in Tabelle 1
-
-Dokumentationsart.
+Die textuellen Erläuterungen gelten für die in Tabelle 1 aufgeführten Parameter abhängig von der  Dokumentationsart.
 
 **Beispiel:**
 
 Das folgende Beispiel soll diese Pflichtfunktion anhand des KHK-Parameters „Relevante Ereignisse“  verdeutlichen.
 
-- a) Handelt es sich um eine Erstdokumentation des Patienten in die Indikation KHK, wird dieser  Parameter um den Text „(*Bitte alle bereits stattgefundene Ereignisse dokumentieren*
-- b) Handelt es sich um eine Folgedokumentation, wird dieser Parameter um den Text „( *aufgetretene Ereignisse dokumentieren*)“ erweitert.
+- a) Handelt es sich um eine Erstdokumentation des Patienten in die Indikation KHK, wird dieser  Parameter um den Text „(*Bitte alle bereits stattgefundene Ereignisse dokumentieren*)“ erweitert.
+- b) Handelt es sich um eine Folgedokumentation, wird dieser Parameter um den Text „(*Bitte neu*  *aufgetretene Ereignisse dokumentieren*)“ erweitert.
 
 | Indikation | Parameter |
 |---|---|
@@ -921,8 +896,6 @@ Diese Tabellenbeschriftungen dienen lediglich der Orientierung innerhalb dieses 
 
 | **KONDITIONALE PFLICHTFUNKTION EDMP** |  |
 |---|---|
-
-**KP2-210** Nähere Parameter-Erläuterungen bei dem eDMP Diabetes mellitus Typ 1 und 2
 
 Das System muss sicherstellen, dass dem Anwender bei dem eDMP Diabetes mellitus Typ 1 und 2 zu  spezifischen Parametern nähere Erläuterungen zur Verfügung gestellt werden.
 
@@ -944,15 +917,7 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 |  |  |
 |  | |
 
-aufgeführten Parameter abhängig von der
-
-```
--
-```
-
-- )“ erweitert.
-
-arteriellen Verschlusskrankheit und/oder Risiken - *Bitte neu*
+arteriellen Verschlusskrankheit und/oder Risiken **KP2-210** Nähere Parameter-Erläuterungen bei dem eDMP Diabetes mellitus Typ 1 und 2
 
 
 ---
@@ -998,9 +963,11 @@ Osteoarthropathie), Hyperkeratose mit Einblutung, Z. n. Ulkus, Z. n. Amputation
 
 ---
 
-- b) Falls das System keine komplette Fußuntersuchung ermitteln konnte Text angezeigt werden, ohne den Workflow zu unterbrechen:
+- b) Falls das System keine komplette Fußuntersuchung ermitteln konnte, muss stattdessen der folgende  Text angezeigt werden, ohne den Workflow zu unterbrechen:
 
-*Denken Sie an die mindestens jährlich durchzuführende komplette Inspektion der Füße! Bisher*  *haben Sie bei diesem Patienten noch keine komplette Fußuntersuchung dokumentiert.“*
+*Denken Sie an die mindestens jährlich durchzuführende komplette Inspektion der Füße! Bisher*
+
+*haben Sie bei diesem Patienten noch keine komplette Fußuntersuchung dokumentiert.“*
 
 **Bedingung:**
 
@@ -1011,7 +978,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche eines oder mehr
 
 **Hinweis:**
 
-Eine komplette Fußuntersuchung liegt vor, wenn innerhalb  des Parameters „Fußstatus“ eine andere Angabe als „Nicht untersucht“ erfolgt, also:
+Eine komplette Fußuntersuchung liegt vor, wenn innerhalb **einer** Dokumentation bei allen Ausprägungen  des Parameters „Fußstatus“ eine andere Angabe als „Nicht untersucht“ erfolgt, also:
 
 [ [ 1. Pulsstatus: „unauffällig“ ODER „auffällig“]
 
@@ -1048,17 +1015,12 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 
 *„Denken Sie an die Kontrolle beim Augenarzt!*  *Eine augenärztliche Kontrolle soll mindestens alle 2 Jahre durchgeführt werden. In der aktuellen*
 
-- , muss stattdessen der folgende
-
-**einer** Dokumentation bei allen Ausprägungen
-
-```
--
-```
 
 ---
 
-*und den Dokumentationen der letzten [*ANZAHL_MONATE*] Monate haben Sie bei diesem*  *Patienten keine durchgeführte Augenuntersuchung dokumentiert.“*
+*und den Dokumentationen der letzten [*ANZAHL_MONATE*] Monate haben Sie bei diesem*
+
+*Patienten keine durchgeführte Augenuntersuchung dokumentiert.“*
 
 Die Angabe [ANZAHL_MONATE] im anzuzeigenden Text muss von der Software durch die tatsächliche  Anzahl an Monaten ersetzt werden, seit denen keine Augenuntersuchung dokumentiert wurde.
 
@@ -1091,7 +1053,9 @@ Die Angabe [ANZAHL_MONATE] im anzuzeigenden Text nach Akzeptanzkriterium 1 muss 
 
 - b) Falls das System keine Dokumentation ermitteln konnte, in der eine Augenuntersuchung dokumentiert  wurde, muss stattdessen der folgende Text angezeigt werden, ohne den Workflow zu unterbrechen:
 
-*„Denken Sie an die Kontrolle beim Augenarzt! Bisher haben Sie bei diesem Patienten keine*  *durchgeführte Augenuntersuchung dokumentiert.* *Bei Kindern und Jugendlichen mit Diabetes*  *mellitus Typ 1 soll die augenärztliche Untersuchung nach fünf Jahren Diabetesdauer, frühestens ab*  *dem 11. Lebensjahr erfolgen.“*
+*„Denken Sie an die Kontrolle beim Augenarzt! Bisher haben Sie bei diesem Patienten keine*  *durchgeführte Augenuntersuchung dokumentiert.* *Bei Kindern und Jugendlichen mit Diabetes*  *mellitus Typ 1 soll die augenärztliche Untersuchung nach fünf Jahren Diabetesdauer, frühestens ab*
+
+*dem 11. Lebensjahr erfolgen.“*
 
 
 ---
@@ -1113,31 +1077,27 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 **Akzeptanzkriterium:**
 
 - 1. Falls in der aktuellen Folgedokumentation für den Parameter „Aktueller FEV -Wert (alle sechs bis zwölf 1 Monate)“ eine Angabe in der Ausprägung „X Prozent des Soll-Wertes“ erfolgt ist, muss das System  folgende Texte zur Anzeige bringen, ohne den Workflow zu unterbrechen:
-- a) Wenn in der Erstdokumentation eine Angabe für den Parameter „Aktueller FEV-Wert (alle sechs bis 1 zwölf Monate)“ in der Ausprägung „X Prozent des Soll-Wertes“ erfolgt ist:
+- a) Wenn in der Erstdokumentation eine Angabe für den Parameter „Aktueller FEV -Wert (alle sechs bis 1 zwölf Monate)“ in der Ausprägung „X Prozent des Soll-Wertes“ erfolgt ist:
 
 [DATUM]: [FEV1-WERT]
 
 *„FEV -Wert in der Erstdokumentation am 1*
 
-Für [DATUM] wird das Datum der Erstdokumentation im Format DD.MM.YYYY und für [FEV1-WERT]  -Wertes angegeben.
+Für [DATUM] wird das Datum der Erstdokumentation im Format DD.MM.YYYY und für [FEV1-WERT]  wird der FEV -Wert der Erstdokumentation in Prozent des Soll-Wertes angegeben. 1
 
-wird der FEV -Wert der Erstdokumentation in Prozent des Soll1
-
-- b) Wenn in einer vorherigen Folgedokumentation eine Angabe für den Parameter „Aktueller FEV1-Wert  (alle sechs bis zwölf Monate)“ in der Ausprägung „X Prozent des Soll -Wertes“ erfolgt ist, muss der  Wert der letzten verfügbaren Folgedokumentation für die Hinweismeldung verwendet werden:
+- b) Wenn in einer vorherigen Folgedokumentation eine Angabe für den Parameter „Aktueller FEV1-Wert  (alle sechs bis zwölf Monate)“ in der Ausprägung „X Prozent des Soll-Wertes“ erfolgt ist, muss der  Wert der letzten verfügbaren Folgedokumentation für die Hinweismeldung verwendet werden:
 
 [DATUM]: [FEV1-WERT]
 
 *„FEV -Wert in der vorherigen Dokumentation am 1*
 
-Für [DATUM] wird das Datum der vorherigen Folgedokumentation im Format DD.MM.YYYY und für  [FEV1-WERT] wird der FEV -Wert der vorherigen Folgedokumentation in Prozent des Soll -Wertes 1 angegeben.
+Für [DATUM] wird das Datum der vorherigen Folgedokumentation im Format DD.MM.YYYY und für  [FEV1-WERT] wird der FEV -Wert der vorherigen Folgedokumentation in Prozent des Soll-Wertes 1 angegeben.
 
 - c) Wenn keine Erstdokumentation vorliegt, soll dem Anwender folgender Text angezeigt werden, ohne  den Workflow zu unterbrechen:
 
-*vor.“*
+*„FEV -Wert in der Erstdokumentation: Es liegt keine Erstdokumentation vor.“1*
 
-*„FEV -Wert in der Erstdokumentation: Es liegt keine Erstdokumentation1*
-
-- 2. Falls in der aktuellen Folgedokumentation für den Parameter „Aktueller FEV -Wert (alle sechs bis zwölf 1 Monate)“ die Angabe „Nicht durchgeführt“ erfolgt ist, muss das System prüfen, wann die letzte  Untersuchung dokumentiert wurde, in der eine Angabe in der Ausprägung „X Prozent des Soll -Wertes“  bei dem Parameter „Aktueller FEV -Wert (alle sechs bis zwölf Monate)“ erfolgt ist. 1
+- 2. Falls in der aktuellen Folgedokumentation für den Parameter „Aktueller FEV -Wert (alle sechs bis zwölf 1 Monate)“ die Angabe „Nicht durchgeführt“ erfolgt ist, muss das System prüfen, wann die letzte  Untersuchung dokumentiert wurde, in der eine Angabe in der Ausprägung „X Prozent des Soll-Wertes“  bei dem Parameter „Aktueller FEV -Wert (alle sechs bis zwölf Monate)“ erfolgt ist. 1
 - a) Wenn das System errechnet, dass diese Untersuchung mehr als 9 Monate vor dieser Dokumentation  erfolgt ist, muss das System den folgenden Text zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
 
 *„Bitte denken Sie an die mindestens jährliche Bestimmung des FEV -Wertes. In der aktuellen und 1* *den Dokumentationen der letzten* [ANZAHL_MONATE]* Monate haben Sie keinen FEV -Wert bei 1* *diesem Patienten dokumentiert.“*
@@ -1145,13 +1105,13 @@ Für [DATUM] wird das Datum der vorherigen Folgedokumentation im Format DD.MM.YY
 
 ---
 
-Für [ANZAHL_MONATE] wird die Anzahl der Monate angegeben, seitdem für den Parameter „Aktueller  FEV -Wert (alle sechs bis zwölf Monate)“ keine Angabe in „X Prozent des Soll1
-
--Wertes“ in den  vorherigen Dokumentationen erfolgt ist.
+Für [ANZAHL_MONATE] wird die Anzahl der Monate angegeben, seitdem für den Parameter „Aktueller  FEV -Wert (alle sechs bis zwölf Monate)“ keine Angabe in „X Prozent des Soll-Wertes“ in den 1 vorherigen Dokumentationen erfolgt ist.
 
 - b) Falls das System keinen FEV -Wert ermitteln konnte, muss stattdessen der folgende Text angezeigt 1 werden, ohne den Workflow zu unterbrechen:
 
-*„Bitte denken Sie an die mindestens jährliche Bestimmung des FEV -Wertes. Bisher haben Sie bei 1* *diesem Patienten keinen FEV -Wert dokumentiert.“1*
+*„Bitte denken Sie an die mindestens jährliche Bestimmung des FEV -Wertes. Bisher haben Sie bei 1*
+
+*diesem Patienten keinen FEV -Wert dokumentiert.“1*
 
 - 3. Falls in der aktuellen Folgedokumentation für den Parameter „Klinische Einschätzung des  Osteoporoserisikos durchgeführt“ ein „Nein“ angegeben ist, muss das System prüfen, wann die letzte  Untersuchung dokumentiert wurde, in der die Angabe „Ja“ bei dem Parameter „Klinische Einschätzung  des Osteoporoserisikos durchgeführt“ erfasst wurde.
 - a) Wenn das System errechnet, dass diese Untersuchung mehr als 9 Monate vor dieser Dokumentation  erfolgt ist, muss das System den folgenden Text zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
@@ -1166,7 +1126,7 @@ Für [ANZAHL_MONATE] wird die Anzahl der Monate angegeben, seitdem für den Para
 
 **Bedingung:**
 
-Diese Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP COPD unterstützen
+Diese Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP COPD unterstützen.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -1188,7 +1148,7 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 
 *„Bitte denken Sie an die mindestens jährliche Bestimmung des FEV1-Wertes. In der aktuellen und*  *den Dokumentationen der letzten [ANZAHL_MONATE] Monate haben Sie keinen FEV1-Wert bei*  *diesem Patienten dokumentiert.“*
 
-Für [ANZAHL_MONATE] wird die Anzahl der Monate angegeben, seitdem für den Parameter „Aktueller  FEV1-Wert (mindestens alle 12 Monate)“ keine Angabe in „X Prozent des Soll vorherigen Dokumentationen erfolgt ist.
+Für [ANZAHL_MONATE] wird die Anzahl der Monate angegeben, seitdem für den Parameter „Aktueller  FEV1-Wert (mindestens alle 12 Monate)“ keine Angabe in „X Prozent des Soll-Wertes“ in den  vorherigen Dokumentationen erfolgt ist.
 
 - b) Falls das System keinen FEV1-Wert ermitteln konnte, muss stattdessen der folgende Text angezeigt  werden, ohne den Workflow zu unterbrechen:
 
@@ -1210,20 +1170,18 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 
 **Akzeptanzkriterien**
 
-- **1.** Bei dem Parameter „Angina pectoris“ muss dem Anwender ermöglicht werden, sich die entsprechende  Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll dem als nähere Erläuterung zur Anzeige gebracht werden, ohne den Workflow zu unterbrechen:
+- **1.** Bei dem Parameter „Angina pectoris“ muss dem Anwender ermöglicht werden, sich die entsprechende  Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll dem Anwender die folgende Tabelle  als nähere Erläuterung zur Anzeige gebracht werden, ohne den Workflow zu unterbrechen:
 
 | Schweregrad | Belastungstoleranz |
 |---|---|
 | CCS 4 | Ruhebeschwerden oder Beschwerden bei |
 | CCS 3 | Angina pectoris bei leichter körperlicher Belastung |
 | CCS 2 | Angina pectoris bei stärkerer Anstrengung |
-| CCS 1 | Keine Angina pectoris |
+| CCS 1 | Keine Angina pectoris bei Alltagsbelastung (Laufen, |
 
 Tabelle 3 : Schweregradeinteilung der stabilen Angina pectoris nach der Canadian Cardiovascular Soiciety (CCS)
 
-Quelle: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK – Langfassung, 3 1. Auflage.  Version 1 7. 2014 2024 -Wertes“ in den
-
-geringster körperlicher Belastung (normales Gehen, Ankleiden) (schnelles Laufen, Bergaufgehen, Treppensteigen nach dem Essen, bei Kälte, Wind oder psychischer Belastung)  bei Alltagsbelastung (Laufen, Treppensteigen), jedoch bei plötzlicher oder längerer physischer Belastung - Anwender die folgende Tabelle
+geringster körperlicher Belastung (normales Gehen, Ankleiden) (schnelles Laufen, Bergaufgehen, Treppensteigen nach dem Essen, bei Kälte, Wind oder psychischer Belastung) Treppensteigen), jedoch bei plötzlicher oder längerer physischer Belastung Quelle: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK – Langfassung, 3 1. Auflage.  Version 1 7. 2014 2024
 
 
 ---
@@ -1256,15 +1214,11 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 **Akzeptanzkriterium:**
 
-- 1. Dem Anwender muss bei dem Parameter „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht -Opioidanalgetika“ der folgende Text angezeigt werden, ohne den Workflow zu unterbrechen:
+- 1. Dem Anwender muss bei dem Parameter „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika“ der folgende Text angezeigt werden, ohne den Workflow zu unterbrechen:
 
 *„Hier ist auch die Selbstmedikation zu dokumentieren.“*
 
 - 2. Dem Anwender muss bei dem Parameter „Beendigung der DMP-Teilnahme vereinbart“ der folgende  Text angezeigt werden, ohne den Workflow zu unterbrechen:
-
-```
--
-```
 
 Reduktion ≥ 50 %)*„Sofern Sie hier „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme (Ausschreibung!) durch*  *die Krankenkasse. In diesem Fall endet die DMP-Teilnahme mit dem Erstelldatum dieser*  *Dokumentation. Der Patient wird hierüber nochmals gesondert von der Krankenkasse informiert.*  *Bitte beachten Sie, dass DMP-spezifische Leistungen, die nach dem Erstelldatum erbracht werden,*  *nicht mehr vergütet werden. Eine erneute Teilnahme des Patienten ist bei Vorliegen der*  *Einschlusskriterien möglich.“*
 
@@ -1289,7 +1243,7 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 - 1. Falls eine Erstdokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert der folgende Text  als Hinweis zur Anzeige gebracht werden, ohne den Workflow zu unterbrechen:
 
-| Aktueller Wert im  Symptomatik – PHQ-9 Summenwert“ | Anzuzeigender Text |
+| Aktueller Wert im Parameter „Aktuelle  Symptomatik – PHQ-9 Summenwert“ | Anzuzeigender Text |
 |---|---|
 | 0 – 4 | „Aktueller PHQ-9-Wert: Keine Symptomatik“ |
 | 5 – 9 | „Aktueller PHQ-9-Wert: Leichte |
@@ -1301,19 +1255,15 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 - 2. Falls eine Folgedokumentation erstellt wird, muss das System nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ die Differenz zum Wert dieses Parameters aus der  vorhergehenden verfügbaren Dokumentation berechnen.
 
-𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖
+𝐖𝐖𝐖𝐖 𝐯𝐯 𝐖𝐖𝐖𝐖
 
-- 3. Falls eine Folgedokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert und vom  berechneten Differenzwert der folgende Text als Hinweis zur Anzeige gebracht werden, ohne d en  Workflow zu unterbrechen:
-
-```
--
-```
-
-𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
+𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
 
 𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
 
-Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ 𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+
+Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ - 3. Falls eine Folgedokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert und vom  berechneten Differenzwert der folgende Text als Hinweis zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen:
 
 
 ---
@@ -1337,11 +1287,11 @@ Parameter „Aktuelle Symptomausprägung“ Symptomausprägung“ Symptomausprä
 | 0 – 4 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
 | 0 – 4 | <= -5 | „Aktueller PHQ-9-Wert: Keine Symptomatik. |
 
-Relevante Verbesserung zur letzten Dokumentation“ Keine relevante Veränderung zur letzten Dokumentation“ Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“
+Relevante Verbesserung zur letzten Dokumentation“  Keine relevante Veränderung zur letzten Dokumentation“  Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“
 
 ---
 
-| >=2,6 bis < 3,2 | „Aktuell niedrige Krankheitsaktivität“ >=3,2 bis | Anzuzeigender Text |
+| >=2,6 bis < 3,2 | „Aktuell niedrige Krankheitsaktivität“  >=3,2 bis <=5,1 | Anzuzeigender Text |
 |---|---|---|
 | 20 – 27 | >= 5 | „Aktueller PHQ-9-Wert: Schwerste |
 | 20 – 27 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Schwerste |
@@ -1364,11 +1314,11 @@ Relevante Verbesserung zur letzten Dokumentation“ Keine relevante Veränderung
 |---|---|
 | < 2,6 | „Aktuell in Remission” |
 | >=2,6 bis < 3,2 | „Aktuell niedrige Krankheitsaktivität“ |
-| >=3,2 bis  > 5,1 | „Aktuell moderate Krankheitsaktivität“ |
+| >=3,2 bis <=5,1  > 5,1 | „Aktuell moderate Krankheitsaktivität“ |
 
 Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle Krankheitsaktivität – DAS-28-Wert)
 
-Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“ Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik – PHQ-9 Summenwert) Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depression unterstützen. KONDITIONALE PFLICHTFUNKTION EDMP KP2-01 Nähere Parameter-Erläuterungen bei dem eDMP Rheumatoide Arthritis  Parametern nähere Erläuterungen zur Verfügung gestellt werden. Begründung:  Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unterstützt werden. 1. Bei jeder Erstdokumentation muss das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom eingegebenen Parame terwert ab: Aktueller Wert im Parameter „Aktuelle Krankheitsaktivität - DAS-28-Wert“  < 2,6 <=5,1 „Aktuell moderate Krankheitsaktivität“ „Aktuell hohe Krankheitsaktivität“- **2.** Falls eine Folgedokumentation erstellt wird, muss das System nach der Erfassung des Parameters  „Aktuelle Krankheitsaktivität - DAS-28-Wert“ die Differenz zum Wert dieses Parameters aus der  vorhergehenden verfügbaren Dokumentation berechnen.
+Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik – PHQ-9 Summenwert) Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depression unterstützen. KONDITIONALE PFLICHTFUNKTION EDMP KP2-01 Nähere Parameter-Erläuterungen bei dem eDMP Rheumatoide Arthritis   Parametern nähere Erläuterungen zur Verfügung gestellt werden. Begründung:  Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unterstützt werden. 1. Bei jeder Erstdokumentation muss das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom eingegebenen Parameterwert ab: Aktueller Wert im Parameter „Aktuelle Krankheitsaktivität - DAS-28-Wert“  < 2,6 Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ „Aktuell moderate Krankheitsaktivität“ „Aktuell hohe Krankheitsaktivität“ - **2.** Falls eine Folgedokumentation erstellt wird, muss das System nach der Erfassung des Parameters  „Aktuelle Krankheitsaktivität - DAS-28-Wert“ die Differenz zum Wert dieses Parameters aus der  vorhergehenden verfügbaren Dokumentation berechnen.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -1379,38 +1329,16 @@ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“ Symptoma
 
 𝐖𝐖𝐖𝐖 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚
 
+𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+
 - **3.** Falls eine Folgedokumentation erstellt wird, muss das System dem Anwender nach der Erfassung des  Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ einen Hinweistext anzeigen, ohne den  Workflow zu unterbrechen. Der Inhalt des Hinweistexts hängt vom aktuellen Parameterwert und vom  berechneten Differenzwert ab:
 
 | **Aktueller Wert im  Parameter „Aktuelle  Krankheitsaktivität -  DAS-28-Wert“** | **Differenzwert (Wert der  vorhergehenden  Dokumentation minus Wert  der aktuellen  Dokumentation)** | Anzuzeigender Text |
 |---|---|---|
-
-< 2,6
-
-*Nicht relevant für den*  *anzuzeigenden Text*
-
->= 2,6 bis < 3,2
-
-> 0,6
-
->= 2,6 bis < 3,2
-
-<= 0,6
-
->= 3,2 bis <=5,1
-
-> 0,6
-
->= 3,2 bis <= 5,1
-
-<= 0,6
-
-> 5,1
-
-> 1,2
-
-> 5,1
-
-<= 1,2
 
 Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthritis (Aktuelle Krankheitsaktivität – DAS-28-Wert)
 
@@ -1418,19 +1346,41 @@ Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthr
 
 Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Rheumatoide Arthritis  unterstützen.
 
-**KONDITIONALE PFLICHTFUNKTION EDMP**
-
-**KP1-48** Nähere Parameter-Erläuterungen bei dem eDMP Herzinsuffizienz
-
 Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz zu spezifischen  Parametern nähere Erläuterungen zur Verfügung gestellt werden.
 
 **Begründung:**
 
-𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
+< 2,6
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐃𝐃
+>= 2,6 bis < 3,2
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+>= 2,6 bis < 3,2
+
+>= 3,2 bis <=5,1
+
+>= 3,2 bis <= 5,1
+
+> 5,1
+
+> 5,1
+
+**KONDITIONALE PFLICHTFUNKTION EDMP**
+
+**KP1-48** Nähere Parameter-Erläuterungen bei dem eDMP Herzinsuffizienz
+
+*Nicht relevant für den*  *anzuzeigenden Text*
+
+> 0,6
+
+<= 0,6
+
+> 0,6
+
+<= 0,6
+
+> 1,2
+
+<= 1,2
 
 „Aktuell in Remission“
 
@@ -1442,7 +1392,7 @@ Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz z
 
 „Aktuell moderate Krankheitsaktivität.  Keine relevante Verbesserung zur letzten  Dokumentation“
 
-„Aktuell hohe Krankheitsaktivität Relevante Verbesserung zur letzten  Dokumentation“
+„Aktuell hohe Krankheitsaktivität.  Relevante Verbesserung zur letzten  Dokumentation“
 
 „Aktuell hohe Krankheitsaktivität. Keine  relevante Verbesserung zur letzten  Dokumentation“
 
@@ -1453,14 +1403,13 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 **Akzeptanzkriterium:**
 
-- 1. Bei dem Parameter „Symptomatik“ muss dem Anwender ermöglicht werden, sich die entsprechende  Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll die folgende Tabelle zur Anzeige  gebracht werden, ohne den Workflow zu unterbrechen
+- 1. Bei dem Parameter „Symptomatik“ muss dem Anwender ermöglicht werden, sich die entsprechende  Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll die folgende Tabelle zur Anzeige  gebracht werden, ohne den Workflow zu unterbrechen:
 
 Tabelle 9: NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)
 
 Aus: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische Herzinsuffizienz, Langfassung, Version  4, 2023
 
-- 2. Bei der Auswahl des Parameters „Evidenzbasierte Zieldosis“  sich die entsprechende Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll bei dem  Parameter „ACE-Hemmer oder ARB“ die folgende Tabelle zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen:
-- muss dem Anwender ermöglicht werden,
+- 2. Bei der Auswahl des Parameters „Evidenzbasierte Zieldosis“ muss dem Anwender ermöglicht werden,  sich die entsprechende Ausfüllanleitung zu dem Parameter anzeigen zu lassen. Dabei soll bei dem  Parameter „ACE-Hemmer oder ARB“ die folgende Tabelle zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen:
 
 NYHA I  (asymptomatisch)
 
@@ -1539,9 +1488,7 @@ Quelle: modifiziert übernommen aus “2021 ESC Guidelines for the diagnosis and
 
 Tabelle 12 Evidenzbasierte Dosistabelle
 
-Quelle: modifiziert übernommen aus “2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart
-
-failure”, S. 3621
+Quelle: modifiziert übernommen aus “2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart  failure”, S. 3621
 
 **Bedingung:**
 
@@ -1597,8 +1544,7 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 - **1.** Das System muss in jeder Dokumentation nach Angabe der Parameter „Körpergewicht“ und  „Körpergröße“ (auch bei Übernahme gemäß P1-50  Der BMI errechnet sich aus der Formel: Quotient aus dem Körpergewicht und der Körpergröße zum  Quadrat.
 - a)
 - **2.** Das System muss nach jeder Angabe des Parameters „Körpergewicht“ in einer Folgedokumentation die  Differenz des Wertes des Parameters „Körpergewicht“ in der aktuellen Dokumentation zum Wert des  Parameters „Körpergewicht“ aus der vorhergehenden verfügbaren Dokumentation berechnen.
--  Das System muss den folgenden Text als Hinweis zur Anzeige bringen, ohne den Workflow zu
-- unterbrechen:
+-  Das System muss den folgenden Text als Hinweis zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
 
 *„Aktueller BMI = [BMI] kg/m*
 
@@ -1718,12 +1664,6 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 𝐒𝐒
 
-𝐭𝐭
-
-𝐌𝐌 𝐭𝐭
-
-𝐭𝐭) × 𝐭𝐭
-
 - a) Das System muss den Wert des berechneten BMI-SDS in den Parameter „BMI-SDS“ der aktuellen  Dokumentation übernehmen.
 - b) Das System muss nach der automatischen Erfassung des Parameters „BMI-SDS“ einen Text als Hinweis  zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der anzuzeigende Text ist abhängig von  dem berechneten BMI-SDS Wert:
 
@@ -1740,16 +1680,26 @@ Tabelle 16: Nähere Parameter-Erläuterungen Adipositas - Kinder und Jugendliche
 Für die verwendeten Parameter gilt:
 
 - **BMI**: Der Body-Mass-Index (BMI) berechnet sich als Quotient aus dem aktuellen Körpergewicht und der  aktuellen Körpergröße zum Quadrat
+- **M(t), L(t)** und** S(t)**: Die Werte für M(t), L(t) und S(t) werden aus den geschlechtsspezifischen Tabellen -
+- **Tabelle 17 (männlich)** oder **Tabelle 18 (weiblich oder divers),**
+
+𝐭𝐭
+
+𝐌𝐌 𝐭𝐭
+
+𝐭𝐭) × 𝐭𝐭
 
 ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐫𝐫 𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤  ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦
 
-- **M(t), L(t)** und** S(t)**: Die Werte für M(t), L(t) und S(t) werden aus den geschlechtsspezifischen Tabellen -
-- **Tabelle 17 (männlich)** oder **Tabelle 18 (weiblich oder divers),** entnommen. Dafür muss zunächst das
+- entnommen. Dafür muss zunächst das
 
 
 ---
 
 - aktuelle Alter des Kindes, mit einer Nachkommastelle, berechnet werden. In Abhängigkeit des aktuellen
+
+Alters in Jahren (t) sind die entsprechenden Werte M, L und S aus der entsprechenden Tabelle abzulesen  und in die Formel zur Berechnung des BMI-SDS einzusetzen.
+
 - **(t):** Das Alter (t) des Kindes berechnet sich aus der Angabe im Parameter „Datum der Erstellung“ (Feld  22 der Anlage 2) der aktuellen Dokumentation und der Angabe im Parameter „Geburtsdatum der/des  Versicherten“ (Feld 3 der Anlage 2).
 
 Das Alter wird in halbjährigen Altersstufen eingeordnet, es wird in 0,5 Schritten abgerundet.
@@ -1799,8 +1749,6 @@ Das Alter wird in halbjährigen Altersstufen eingeordnet, es wird in 0,5 Schritt
 | 0,081 | 16,791 | 1,5 | -1,276 |
 | 0,081 | 16,440 | 2,0 | -1,453 |
 | 0,082 | 16,079 | 2,5 | -1,577 |
-
-Alters in Jahren (t) sind die entsprechenden Werte M, L und S aus der entsprechenden Tabelle abzulesen  und in die Formel zur Berechnung des BMI-SDS einzusetzen.
 
 
 ---
@@ -1949,15 +1897,9 @@ Alters in Jahren (t) sind die entsprechenden Werte M, L und S aus der entspreche
 
 Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in halbjährigen Altersstufen im Alter von 0 bis  21 Jahren
 
-- 2. Das System muss in jeder Folgedokumentation die Differenz des Wertes BMI-SDS in der aktuellen  Dokumentation zum Wert des BMI-SDS aus der vorhergehenden verfügbaren Dokumentation nach der  folgenden Formel berechnen
+- 2. Das System muss in jeder Folgedokumentation die Differenz des Wertes BMI-SDS in der aktuellen  Dokumentation zum Wert des BMI-SDS aus der vorhergehenden verfügbaren Dokumentation nach der  folgenden Formel berechnen:
 
-𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
-
-𝐚𝐚 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+𝐃𝐃 𝐃𝐃
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
@@ -1974,10 +1916,6 @@ Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 
 𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
 
-𝐚𝐚 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
-
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
 | Differenzwert | Anzuzeigender Text |
@@ -1988,7 +1926,20 @@ Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 |  |  |
 |  |  |
 
+𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+
+𝐚𝐚 𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+
+𝐚𝐚 𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+
 Erfolg)“
+
 
 ---
 
@@ -2004,7 +1955,7 @@ Tabelle 20: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kin
 
 Vergleich zur Erstdokumentation)
 
-- b) Falls keine Erstdokumentation vorliegt, muss das System für die Berechnung statt des Wertes der  Erstdokumentation den Wert der ältesten verfügbaren Dokumentation heranziehen abgewandelten Hinweistext anzeigen, ohne den Workflow zu unterbrechen. Der Inhalt des  Hinweistexts hängt von dem berechneten Differenzwert ab:
+- b) Falls keine Erstdokumentation vorliegt, muss das System für die Berechnung statt des Wertes der  Erstdokumentation den Wert der ältesten verfügbaren Dokumentation heranziehen und einen  abgewandelten Hinweistext anzeigen, ohne den Workflow zu unterbrechen. Der Inhalt des  Hinweistexts hängt von dem berechneten Differenzwert ab:
 
 | Differenzwert | Anzuzeigender Text |
 |---|---|
@@ -2016,9 +1967,7 @@ Vergleich zur Erstdokumentation)
 Tabelle 21: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im  Vergleich zur ältesten verfügbaren Dokumentation)
 
 - c) Falls die Berechnungen nicht durchführbar sind, weil die für die Berechnung notwendigen  Dokumentationen nicht zur Verfügung stehen oder gefunden werden können, wird das  Akzeptanzkriterium 3 nicht geprüft und angezeigt.
-- 4. Wenn der Patient über 18 Jahre  dem Anwender als nähere Erläuterung den folgenden Text zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
-- und einen
-- alt ist und eine Folgedokumentation angelegt wird, muss das System
+- 4. Wenn der Patient über 18 Jahre alt ist und eine Folgedokumentation angelegt wird, muss das System  dem Anwender als nähere Erläuterung den folgenden Text zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
 
 
 ---
@@ -2031,9 +1980,9 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipos
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| **O1-43** | Übernahme von Daten aus näheren Parameter -Erläuterungen |
+| **O1-43** | Übernahme von Daten aus näheren Parameter-Erläuterungen |
 
-Das System kann dem Anwender die Übernahme von definierten Parameter -Erläuterungen ermöglichen.
+Das System kann dem Anwender die Übernahme von definierten Parameter-Erläuterungen ermöglichen.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -2050,7 +1999,7 @@ unterschiedlich kennzeichnen.
 |---|---|
 | **O1-45** | Inaktive Parameter |
 
-Das System muss Parameter, die für die Erstdokumentation eines eDMP Folgedokumentation inaktiv anzeigen. Genauso muss das System Parameter, die spezifisch für die  Folgedokumentation eines eDMP sind, in der jeweiligen Erstdokumentation inaktiv anzeigen.
+Das System muss Parameter, die für die Erstdokumentation eines eDMP spezifisch sind, in der jeweiligen  Folgedokumentation inaktiv anzeigen. Genauso muss das System Parameter, die spezifisch für die  Folgedokumentation eines eDMP sind, in der jeweiligen Erstdokumentation inaktiv anzeigen.
 
 **Begründung:**
 
@@ -2066,8 +2015,6 @@ Die Anforderung betrifft in der Regel Parameter, die in den indikationsspezifisc
 
 **Beispiel:**
 
-spezifisch sind, in der jeweiligen
-
 
 ---
 
@@ -2082,7 +2029,7 @@ Das System kann direkt auf Eingaben mit Ein- und Ausblenden von weiteren Paramet
 
 **Beispiel 1:**
 
-Auswahl der Indikation DM2 und Eingabe der Anamnese- und Befunddaten. Werden zum Parameter  „Weiteres Risiko für Ulkus Ulcus“ die Angaben „Nein“ oder „Nicht untersucht“ ausgewählt, so muss die  Eingabe weiterer Angaben unterbunden werden. Wurden andere Angaben als „Nein“ oder „Nicht  untersucht“ angegeben, so muss die zusätzliche Angabe von „Nein“ oder „Nicht untersucht“ unterbund en  werden.
+Auswahl der Indikation DM2 und Eingabe der Anamnese- und Befunddaten. Werden zum Parameter  „Weiteres Risiko für Ulkus Ulcus“ die Angaben „Nein“ oder „Nicht untersucht“ ausgewählt, so muss die  Eingabe weiterer Angaben unterbunden werden. Wurden andere Angaben als „Nein“ oder „Nicht  untersucht“ angegeben, so muss die zusätzliche Angabe von „Nein“ oder „Nicht untersucht“ unterbunden  werden.
 
 **Beispiel 2:**
 
@@ -2098,13 +2045,13 @@ Auswahl der Indikation KHK und Eingabe der Medikamente. Wird zum Parameter „Ak
 
 Die Ausprägungen des Parameters „Begleiterkrankungen“ (siehe Plausibilitäten
 
-EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend]) müssen nach der Eingabe der Indikation aufgrund der ein  Versicherter in ein DMP eingeschrieben wurde, angepasst werden. Dabei darf die Indikation, wegen der ein  Versicherter in das DMP eingeschrieben wurde, nicht mehr angezeigt werden
+EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend]) müssen nach der Eingabe der Indikation aufgrund der ein  Versicherter in ein DMP eingeschrieben wurde, angepasst werden. Dabei darf die Indikation, wegen der ein  Versicherter in das DMP eingeschrieben wurde, nicht mehr angezeigt werden.
 
 Im Falle einer Multimorbidität und Einschreibung in mehrere DMP müssen die jeweils anderen  Indikationen, sofern als Ausprägung des Parameters „Begleiterkrankungen“ vorhanden, automatisch in den  Datensatz übernommen werden.
 
 **Beispiel:**
 
-Der Anwender wählt beim Parameter „Einschreibung wegen“: Diabetes mellitus Typ 1 (Erstdokumentation)  und KHK (Erstdokumentation) gleichzeitig aus. Somit verringern sich die Ausprägungen für den Parameter  „Begleiterkrankungen“ um Diabetes mellitus sowie um KHK. Bei der Speicherung der jeweiligen  Dokumentation muss dann für z. B. die Dokumentation zum DMP DM1 automatisch KHK als  Begleiterkrankung, neben eventuell weiteren ausgewählten Begleiterkrankungen, in den Datensatz  übernommen werden. Gleichermaßen muss dies für die Dokumentation zum DMP KHK umgesetzt werden Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mellitus in den Datensatz  aufgenommen werden.
+Der Anwender wählt beim Parameter „Einschreibung wegen“: Diabetes mellitus Typ 1 (Erstdokumentation)  und KHK (Erstdokumentation) gleichzeitig aus. Somit verringern sich die Ausprägungen für den Parameter  „Begleiterkrankungen“ um Diabetes mellitus sowie um KHK. Bei der Speicherung der jeweiligen  Dokumentation muss dann für z. B. die Dokumentation zum DMP DM1 automatisch KHK als  Begleiterkrankung, neben eventuell weiteren ausgewählten Begleiterkrankungen, in den Datensatz  übernommen werden. Gleichermaßen muss dies für die Dokumentation zum DMP KHK umgesetzt werden.  Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mellitus in den Datensatz  aufgenommen werden.
 
 
 ---
@@ -2118,10 +2065,10 @@ Der Anwender wählt beim Parameter „Einschreibung wegen“: Diabetes mellitus 
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
 |---|---|---|
 | Indikationsübergreifend | Geschlecht | einzeln oder blockweise mit weiteren |
-| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Rückenschmerz  Depression  Osteoporose Rheumatoide Arthritis  Herzinsuffizienz  Adipositas - Erwachsene   (für die Indikation  Adipositas - Kinder und  Jugendliche darf keine  automatische Übernahme  erfolgen) | Körpergröße | einzeln oder blockweise mit weiteren |
-| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Depression  Osteoporose Rheumatoide Arthritis  (für die Indikation  Adipositas - Kinder und  Jugendliche und  Adipositas - Erwachsene | Körpergewicht | einzeln oder blockweise mit weiteren |
+| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Rückenschmerz  Depression  Osteoporose  Rheumatoide Arthritis  Herzinsuffizienz  Adipositas - Erwachsene   (für die Indikation  Adipositas - Kinder und  Jugendliche darf keine  automatische Übernahme  erfolgen) | Körpergröße | einzeln oder blockweise mit weiteren |
+| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Depression  Osteoporose  Rheumatoide Arthritis  (für die Indikation  Adipositas - Kinder und  Jugendliche und  Adipositas - Erwachsene | Körpergewicht | einzeln oder blockweise mit weiteren |
 |  |  |  |
-| Datenübernahme aus vorhergehender Dokumentation Das System muss ermöglichen, Daten aus einer vorhergehenden Dokumentation zu übernehmen.  Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die |  |  |
+| Datenübernahme aus vorhergehender Dokumentation  Das System muss ermöglichen, Daten aus einer vorhergehenden Dokumentation zu übernehmen.  Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die |  |  |
 |  | Quittierung |  |
 | Indikationsübergreifend | Geschlecht |  |
 |  |  | Körpergröße  Diabetes mellitus 1 + 2 |
@@ -2135,7 +2082,7 @@ Der Anwender wählt beim Parameter „Einschreibung wegen“: Diabetes mellitus 
 |  |  | Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird. Die |
 |  |  | einzeln oder blockweise mit weiteren |
 |  |  | KHK |
-|  |  | Osteoporose**PFLICHTFUNKTION EDMP ** Diabetes mellitus 1 + 2  Chronischer |
+|  |  | Osteoporose **PFLICHTFUNKTION EDMP ** Diabetes mellitus 1 + 2  Chronischer |
 | (für die Indikation | Jugendliche darf keine | automatische Übernahme  Adipositas - Erwachsene |
 |  |  |  |
 | COPD |  |  |
@@ -2156,7 +2103,7 @@ Dabei ist zu berücksichtigen, dass dies ausschließlich für ausgewählte Param
 | Diabetes mellitus Typ 2  Metformin  Diabetes mellitus Typ 2  SGLT2-Inhibitor  Diabetes mellitus Typ 2 | › |  |
 | › GLP-1-Rezeptoragonist |  | › |
 | **Indikation** | Übernahmerelevanter Parameter | Quittierung |
-| Diabetes mellitus 1 + 2   KHK   Herzinsuffizienz  Chronischer  Depression  Osteoporose (für die Indikation COPD, | Raucher | einzeln oder blockweise mit |
+| Diabetes mellitus 1 + 2   KHK   Herzinsuffizienz  Chronischer  Depression  Osteoporose  (für die Indikation COPD, | Raucher | einzeln oder blockweise mit weiteren |
 | Indikationsübergreifend | Begleiterkrankungen | einzeln oder blockweise mit weiteren |
 | Diabetes mellitus Typ 2 | Insulin oder Insulin-Analoga | einzeln oder blockweise mit  ausschließlich folgenden Parametern:  › › |
 | Diabetes mellitus Typ 2 | Thrombozytenaggregationshemmer | einzeln oder blockweise mit  ausschließlich folgenden Parametern:  › › |
@@ -2216,14 +2163,14 @@ Rückenschmerz Asthma und Rheumatoide Arthritis darf keine automatische Übernah
 |  |  |  |
 |  |  | › |
 
-Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer ausschließlich folgenden Parametern: Sympathomimetika Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sympathomimetika Sonstige asthmaspezifische Medikation
+Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer  ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer ausschließlich folgenden Parametern: Sympathomimetika Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sympathomimetika Sonstige asthmaspezifische Medikation
 
 ---
 
 | 2 |  | › |
 |---|---|---|
 |  |  | COPD |
-| 2 **Indikation  OPTIONALE FUNKTION EDMP**  **O1-51** |  | Aktuelle DMARD-Therapie |
+| 2 **Indikation  OPTIONALE FUNKTION EDMP **  **O1-51** |  | Aktuelle DMARD-Therapie |
 | Tabelle 22: relevante Parameter mit Art der Quittierung | Datenübernahme aus dem PVS |  |
 |  | Übernahmerelevanter Parameter | Quittierung |
 | Asthma  Sonstige asthmaspezifische  › › |  |  |
@@ -2251,7 +2198,7 @@ Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thromboz
 | Diabetes mellitus 1 + 2 | Spätfolgen | einzeln oder blockweise mit weiteren |
 | Rheumatoide Arthritis | Aktuelle DMARD-Therapie | einzeln oder blockweise mit weiteren |
 
-Die Software kann eine automatisierte Übernahme von Parametern aus dem PVS unterstützen, falls durch eine Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt.  Praxisverwaltungssystem Medikation Sympathomimetika und/oder Sympathomimetika  des Anwenders in das eDMP übernommen werden. Dies gilt für alle Formen der ausschließlich folgenden Parametern:  Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Systemische Glukokortikosteroide mit den folgenden beiden Parametern: (Lang wirksame Beta Sympathomimetika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Beta- 2-Sympathomimetika)  Anamnese- und Befunddaten Anamnese- und Befunddaten diese | OPTIONALE FUNKTION EDMP |  |
+Die Software kann eine automatisierte Übernahme von Parametern aus dem PVS unterstützen, falls diese durch eine Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt.  Praxisverwaltungssystem Medikation Sympathomimetika und/oder Sympathomimetika  des Anwenders in das eDMP übernommen werden. Dies gilt für alle Formen der ausschließlich folgenden Parametern:  Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Systemische Glukokortikosteroide mit den folgenden beiden Parametern: (Lang wirksame Beta-2- Sympathomimetika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Beta- 2-Sympathomimetika)  Anamnese- und Befunddaten Anamnese- und Befunddaten | OPTIONALE FUNKTION EDMP |  |
 |---|---|
 | **O1-51** | Datenübernahme aus dem PVS2 |
 
@@ -2279,9 +2226,9 @@ Da die Angabe im Parameter „Prädiabetes bei Einschreibung“ für andere Para
 **Akzeptanzkriterium:**
 
 - **1.** Das System muss die Angabe der Erstdokumentation für den Parameter „Prädiabetes bei Einschreibung“  automatisch für jede folgende Folgedokumentation übernehmen.
-- **2.** Das System muss sicherstellen, dass der Anwender die Angabe des Parameters „ Prädiabetes bei  Einschreibung“ in Folgedokumentationen nicht manuell füllen oder verändern kann.
+- **2.** Das System muss sicherstellen, dass der Anwender die Angabe des Parameters „Prädiabetes bei  Einschreibung“ in Folgedokumentationen nicht manuell füllen oder verändern kann.
 - **3.** Die Software zeigt dem Anwender den Parameter in der Folgedokumentation an, falls die Angabe „Ja“  ist.
-- **4.** Falls die Angabe „Nein“ ist, übernimmt das System den Wert ausschließlich in den XML -Datensatz der  Folgedokumentationen, zeigt diesen dem Anwender jedoch nicht an.
+- **4.** Falls die Angabe „Nein“ ist, übernimmt das System den Wert ausschließlich in den XML-Datensatz der  Folgedokumentationen, zeigt diesen dem Anwender jedoch nicht an.
 - **5.** Falls keine Erstdokumentation zur Verfügung steht, muss die Software den Parameter mit „Nein“  vorbelegen, weiterführen und wie in Akzeptanzkriterium 4. beschrieben, nicht anzeigen.
 
 **Bedingung:**
@@ -2339,12 +2286,12 @@ Das System muss dem Anwender bei der Dokumentation des Parameters „Dokumentati
 
 **Beispiel:**
 
-Es wird eine Kombination von DM2 und KHK dokumentiert. Hierbei überschneiden sich die Parameter  „Thrombozytenaggregationshemmer“ im Abschnitt „Medikamente“ sowie der Parameter  „Dokumentationsintervall“ im Abschnitt „Behandlungsplanung“. Selektiert der Anwender bspw. bei DM 2  „Ja“ beim Parameter „Thrombozytenaggregationshemmer“, so muss automatisch beim Parameter  „Thrombozytenaggregationshemmer“ bei KHK die Ausprägung „Ja“ ausgewählt werden. Ändert der  Anwender die Angabe bei KHK auf „Nein“, so erfolgt automatisch eine gleichartige Änderung bei der  Indikation DM2. Selektiert der Anwender bspw. bei DM2 „Quartalsweise“ beim Parameter  „Dokumentationsintervall“, so muss automatisch beim Parameter „Dokumentationsintervall“ bei KHK die
+Es wird eine Kombination von DM2 und KHK dokumentiert. Hierbei überschneiden sich die Parameter  „Thrombozytenaggregationshemmer“ im Abschnitt „Medikamente“ sowie der Parameter  „Dokumentationsintervall“ im Abschnitt „Behandlungsplanung“. Selektiert der Anwender bspw. bei DM2  „Ja“ beim Parameter „Thrombozytenaggregationshemmer“, so muss automatisch beim Parameter  „Thrombozytenaggregationshemmer“ bei KHK die Ausprägung „Ja“ ausgewählt werden. Ändert der  Anwender die Angabe bei KHK auf „Nein“, so erfolgt automatisch eine gleichartige Änderung bei der  Indikation DM2. Selektiert der Anwender bspw. bei DM2 „Quartalsweise“ beim Parameter  „Dokumentationsintervall“, so muss automatisch beim Parameter „Dokumentationsintervall“ bei KHK die
 
 
 ---
 
-Ausprägung „Quartalsweise“ ausgewählt werden. Ändert der Anwender die Angabe bei KHK auf „Jedes  zweite Quartal“, darf keine automatische gleichartige Änderung bei der Indikation DM 2 erfolgen.
+Ausprägung „Quartalsweise“ ausgewählt werden. Ändert der Anwender die Angabe bei KHK auf „Jedes  zweite Quartal“, darf keine automatische gleichartige Änderung bei der Indikation DM2 erfolgen.
 
 **2.1.8** **Erhebung der Symptome für das eDMP chronischer Rückenschmerz**
 
@@ -2352,7 +2299,7 @@ Ausprägung „Quartalsweise“ ausgewählt werden. Ändert der Anwender die Ang
 |---|---|
 | **KP1-75** | Ausdruck des CPG-Fragebogens |
 
-Das System muss dem Anwender den Ausdruck des Chronic Pain Grade (CPG) -Fragebogens ermöglichen.
+Das System muss dem Anwender den Ausdruck des Chronic Pain Grade (CPG)-Fragebogens ermöglichen.
 
 **Begründung:**
 
@@ -2380,7 +2327,7 @@ Der Anwender soll die Möglichkeit erhalten, einem relevanten Patienten den Frag
 |---|---|
 | **KP1-76** | Überprüfung der Eingaben des CPG-Fragebogens auf Plausibilität im Rahmen der |
 
-Erstdokumentation Das System muss dem Anwender die Möglichkeit bieten, den CPG-Fragebogen [ KBV_ITA_VHEX_CPG- Fragebogen ] im Rahmen der Erst- und Folgedokumentation vollständig auszudrucken. Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP  chronischer Rückenschmerz unterstützen. Das System muss sicherstellen, dass ein Anwender vor der Erstellung einer Erstdokumentation für das eDMP chronischer Rückenschmerz die Bestimmung des Schweregrades nach von Korff mittels der sieben Fragen des CPG-Fragebogens durchführt.  Begründung: Die verpflichtende Schweregradbestimmung mittels des CPG -Fragebogens leitet sich aus der Vorgabe zum DMP chronischer Rückenschmerz ab, dass Patienten nur dann in das DMP chronischer Rückenschmerz eingeschrieben werden können, wenn sie einen bestimmten Schw eregrad nach von Korff (größer gleich II) aufweisen.  1. Das System stellt sicher, dass der Anwender vor Erstellung einer Erstdokumentation jeweils eine gültige Angabe zu den Fragen 1 bis 7 zur Bestimmung des Schweregrades nach von Korff gemacht hat.  momentanen  Rückenschmerzen, d. h. jetzt im Augenblick , auf einer Skala  0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen  in den letzten 3 Monaten einschätzen, wenn = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten?
+Erstdokumentation Das System muss dem Anwender die Möglichkeit bieten, den CPG-Fragebogen [ KBV_ITA_VHEX_CPG- Fragebogen ] im Rahmen der Erst- und Folgedokumentation vollständig auszudrucken. Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chronischer Rückenschmerz unterstützen. Das System muss sicherstellen, dass ein Anwender vor der Erstellung einer Erstdokumentation für das eDMP chronischer Rückenschmerz die Bestimmung des Schweregrades nach von Korff mittels der sieben Fragen des CPG-Fragebogens durchführt.  Begründung: Die verpflichtende Schweregradbestimmung mittels des CPG-Fragebogens leitet sich aus der Vorgabe zum DMP chronischer Rückenschmerz ab, dass Patienten nur dann in das DMP chronischer Rückenschmerz eingeschrieben werden können, wenn sie einen bestimmten Schweregrad nach von Korff (größer gleich II) aufweisen.  1. Das System stellt sicher, dass der Anwender vor Erstellung einer Erstdokumentation jeweils eine gültige Angabe zu den Fragen 1 bis 7 zur Bestimmung des Schweregrades nach von Korff gemacht hat.  momentanen  Rückenschmerzen, d. h. jetzt im Augenblick , auf einer Skala  0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen  in den letzten 3 Monaten einschätzen, wenn = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten?
 
 ---
 
@@ -2407,12 +2354,12 @@ Erstdokumentation Das System muss dem Anwender die Möglichkeit bieten, den CPG-
 | Berechnung | Bewertung |  |
 |---|---|---|
 | **Schmerzintensität ** (Ergebnis Frage 1 +   Ergebnis Frage 2 +   Ergebnis Frage 3) / 3 * 10 | **Schmerz-Score: **              0 = 0 (kein)      1 - 49 = 1 (geringer)  50 - 100 = 2 (hoher) |  |
-| **Beeinträchtigungsgrad  ** (Ergebnis Frage 5 +   Ergebnis Frage 6 +   Ergebnis Frage 7) / 3 * 10 | **Disability**        0 - 29 = 0        30 - 49 = 1        50 - 69 = 2      70 - 100 = 3 | **Disability** Summe aus **Disablity-Score ** und **Disablilty** |
-| **Beeinträchtigungstage  ** Anzahl der Tage in Frage 4 | **Disability**          0 - 6 = 0 | |
+| **Beeinträchtigungsgrad  ** (Ergebnis Frage 5 +   Ergebnis Frage 6 +   Ergebnis Frage 7) / 3 * 10 | **Disability-Score:**        0 - 29 = 0        30 - 49 = 1        50 - 69 = 2      70 - 100 = 3 | **Disability-Punkte: ** Summe aus **Disablity-Score ** und **Disablilty-Tagen** |
+| **Beeinträchtigungstage  ** Anzahl der Tage in Frage 4 | **Disability-Tage:**          0 - 6 = 0 | |
 |  |  |  |
 |  | | |
 
-in den letzten 3 Monaten im Durchschnitt kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten  mehr möglich bedeuten? oder Unternehmungen im Familien- und Freundeskreis  beeinträchtigt, wenn und 10 = keine Aktivitäten mehr möglich  bedeuten? (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich  bedeuten? Das System führt die folgenden Berechnungen durch:  Berechnung Bewertung Schmerz-Score: Schmerzintensität              0 = 0 (kein) (Ergebnis Frage 1 +      1 - 49 = 1 (geringer) Ergebnis Frage 2 +  50 - 100 = 2 (hoher) Ergebnis Frage 3) / 3 * 10 Beeinträchtigungsgrad  Disability -Score:        0 - 29 = 0  , wenn 0 = Freizeitaktivitäten 0 = keine Beeinträchtigung Arbeitsfähigkeit Disability -Punkte: Summe aus -Tage: -Tagen
+in den letzten 3 Monaten im Durchschnitt kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten  mehr möglich bedeuten? oder Unternehmungen im Familien- und Freundeskreis  beeinträchtigt, wenn und 10 = keine Aktivitäten mehr möglich  bedeuten? (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich  bedeuten? Das System führt die folgenden Berechnungen durch:  Berechnung Bewertung Schmerz-Score: Schmerzintensität              0 = 0 (kein) (Ergebnis Frage 1 +      1 - 49 = 1 (geringer) Ergebnis Frage 2 +  50 - 100 = 2 (hoher) Ergebnis Frage 3) / 3 * 10 Beeinträchtigungsgrad  Disability-Score:        0 - 29 = 0  , wenn 0 = Freizeitaktivitäten 0 = keine Beeinträchtigung Arbeitsfähigkeit Disability-Punkte: Summe aus
 
 ---
 
@@ -2428,13 +2375,11 @@ Im Rahmen der Folgedokumentation und gegebenenfalls eines Vergleiches kann der A
 
 **Akzeptanzkriterium:**
 
-- 1. Das System ermöglicht dem Anwender das freiwillige Ausfüllen des CPG Folgedokumentation, nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1 -
+- 1. Das System ermöglicht dem Anwender das freiwillige Ausfüllen des CPG-Fragebogens im Rahmen einer  Folgedokumentation, nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1-
 
 76.
 
-- 2. Sofern der Anwender alle Fragen des CPG-Fragebogens ausgefüllt hat, führt die Software erst die  Berechnungen nach Akzeptanzkriterium 2 und dann nach Akzeptanzkriterium 3 der Anforderung KP1 -76  durch.
-
-Tabelle 23: Berechnung des Schweregrades nach von Korff 2. Das System ermittelt aus dem Schmerz Korff wie folgt:  Schweregrad nach von Korff Grad I Grad II Grad III Grad IV Tabelle 24: Einteilung des Schweregrades nach von Korff 3. Das System zeigt dem Anwender den Schweregrad nach von Korff in Form der römischen Zahl I, II, III, oder IV an. Im Zusammenhang mit den ermittelten Werten wird dem Anwender folgender Text zur Anzeige gebracht:  „Patienten mit dem Schweregrad II, III und IV können in das DMP eingeschrieben werden.“  a) Des Weiteren muss der Anwender mittels Bestätigung entscheiden, ob mit der Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll. Rückenschmerz unterstützen. KONDITIONALE PFLICHTFUNKTION EDMP KP1-77 Eingaben des CPG-Fragebogens im Rahmen der Folgedokumentation Das System muss es dem Anwender ermöglichen, den CPG Folgedokumentation freiwillig auszufüllen.  -Score und den Disability-Punkten den Schweregrad nach von Schmerz-Score 0 - 1 0 - 2 0 - 2 -Fragebogen im Rahmen einer Disability-Punkte 0 bis 2  0 bis 2 3 bis 4 5 bis 6 - -Fragebogens im Rahmen einer
+Tabelle 23: Berechnung des Schweregrades nach von Korff 2. Das System ermittelt aus dem Schmerz-Score und den Disability-Punkten den Schweregrad nach von Korff wie folgt:  Schweregrad nach von Korff Grad I Grad II Grad III Grad IV Tabelle 24: Einteilung des Schweregrades nach von Korff 3. Das System zeigt dem Anwender den Schweregrad nach von Korff in Form der römischen Zahl I, II, III, oder IV an. Im Zusammenhang mit den ermittelten Werten wird dem Anwender folgender Text zur Anzeige gebracht:  „Patienten mit dem Schweregrad II, III und IV können in das DMP eingeschrieben werden.“  a) Des Weiteren muss der Anwender mittels Bestätigung entscheiden, ob mit der Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll.  Rückenschmerz unterstützen. KONDITIONALE PFLICHTFUNKTION EDMP KP1-77 Eingaben des CPG-Fragebogens im Rahmen der Folgedokumentation Das System muss es dem Anwender ermöglichen, den CPG-Fragebogen im Rahmen einer Folgedokumentation freiwillig auszufüllen.  Schmerz-Score 0 - 1 0 - 2 0 - 2 Disability-Punkte 0 bis 2  0 bis 2 3 bis 4 5 bis 6 - 2. Sofern der Anwender alle Fragen des CPG-Fragebogens ausgefüllt hat, führt die Software erst die  Berechnungen nach Akzeptanzkriterium 2 und dann nach Akzeptanzkriterium 3 der Anforderung KP1-76  durch.
 
 | Schweregrad nach von Korff | Schmerz-Score | Disability-Punkte |
 |---|---|---|
@@ -2460,7 +2405,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chroni
 |---|---|
 | **KP1-78** | Übernahme von Angaben des CPG-Fragebogens in die Erst- und Folgedokumentation |
 
-Das System ermöglicht die Übernahme der Ergebnisse der Fragen 3 und 5 des CPG -Fragebogens in die Erst- und gegebenenfalls in die Folgedokumentation.
+Das System ermöglicht die Übernahme der Ergebnisse der Fragen 3 und 5 des CPG-Fragebogens in die Erst- und gegebenenfalls in die Folgedokumentation.
 
 **Begründung:**
 
@@ -2482,7 +2427,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP chroni
 |---|---|
 | **KP1-79** | Ausdruck des PHQ-9-Fragebogens |
 
-Das System muss dem Anwender den Ausdruck des Patient Health Questionnaire 9 (PHQ -9) Fragebogens  ermöglichen.
+Das System muss dem Anwender den Ausdruck des Patient Health Questionnaire 9 (PHQ-9) Fragebogens  ermöglichen.
 
 **Begründung:**
 
@@ -2503,15 +2448,15 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depres
 
 ---
 
-Das System muss sicherstellen, dass ein Anwender bei jeder Dokumentation (Erst Folgedokumentation) die Bestimmung der Symptomschwere mittels der neun Fragen des PHQ Fragebogens durchführt.
+Das System muss sicherstellen, dass ein Anwender bei jeder Dokumentation (Erst- und  Folgedokumentation) die Bestimmung der Symptomschwere mittels der neun Fragen des PHQ-9-Fragebogens durchführt.
 
 #### Begründung:
 
-Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ sich aus der Vorgabe zum eDMP Depression ab.
+Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ-9-Fragebogens leitet  sich aus der Vorgabe zum eDMP Depression ab.
 
 #### Akzeptanzkriterium:
 
-- 1. Das System stellt sicher, dass der Anwender die folgenden Fragen zur Bestimmung der  Symptomschwere mittels des PHQ
+- 1. Das System stellt sicher, dass der Anwender die folgenden Fragen zur Bestimmung der  Symptomschwere mittels des PHQ-9 im Rahmen der Erst- und Folgedokumentation durchläuft:
 
 | **PHQ-9-Fragebogen** |  |
 |---|---|
@@ -2559,11 +2504,7 @@ Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ s
 | h. Waren Ihre Bewegungen oder Ihre |  | 2 |  | 3 |  |
 |  | 0    1 |  | 2 | 3 | 3 |
 
-- -9 im Rahmen der Erst- und Folgedokumentation durchläuft:
-- und  -9-
-
-letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Tätigkeiten Hoffnungslosigkeit oder vermehrter Schlaf haben Bedürfnis zu essen ein Versager zu sein oder die Familie enttäuscht zu haben konzentrieren, z. B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? sich Leid zufügen möchten Überhaupt Beinahe An einzelnen An mehr als der Tage Das System führt die folgenden Berechnungen durch: Es wird die Summe aller Werte der Fragen a. bis i. gebildet. Der Summenscore muss zwischen 0 und 27 liegen.  -9-Fragebogens leitet
-
+letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Tätigkeiten Hoffnungslosigkeit oder vermehrter Schlaf haben Bedürfnis zu essen ein Versager zu sein oder die Familie enttäuscht zu haben konzentrieren, z. B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? sich Leid zufügen möchten Überhaupt Beinahe An einzelnen An mehr als der Tage Das System führt die folgenden Berechnungen durch: Es wird die Summe aller Werte der Fragen a. bis i. gebildet. Der Summenscore muss zwischen 0 und 27 liegen.
 
 ---
 
@@ -2607,7 +2548,7 @@ Der Anwender soll die Möglichkeit erhalten, das im eDMP Rheumatoide Arthritis v
 **Akzeptanzkriterium:**
 
 - 1. Das System muss dem Anwender die Möglichkeit bieten, den DAS-28 [DAS-28 Print] im Rahmen der  Erst- und Folgedokumentation vollständig auszudrucken.
-- 2. Der Ausdruck muss es dem Anwender ermöglichen, die vier Parameter zur Berechnung des DAS -28-Scores einzutragen:
+- 2. Der Ausdruck muss es dem Anwender ermöglichen, die vier Parameter zur Berechnung des DAS-28-Scores einzutragen:
 - a) Anzahl geschwollener Gelenke (sw28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - b) Anzahl druckschmerzhafter Gelenke (t28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - c) Subjektive Krankheitsaktivität (VAS): Einschätzung der Krankheitsaktivität in den letzten sieben Tagen  durch die Patientin oder den Patienten auf einer visuellen Analogskala von 0 (keine  Krankheitsaktivität) bis 100 (stärkst mögliche Krankheitsaktivität).
@@ -2624,11 +2565,11 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Rheuma
 |---|---|
 | **KP2-20** | Überprüfung der Eingaben des DAS-28 auf Plausibilität im Rahmen jeder Dokumentation (Erst- |
 
-Das System muss sicherstellen, dass ein Anwender vor der Erstellung einer Erst für das eDMP Rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS vier unten genannten Parameter durchführt.
+Das System muss sicherstellen, dass ein Anwender vor der Erstellung einer Erst- oder Folgedokumentation  für das eDMP Rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS-28) mittels der  vier unten genannten Parameter durchführt.
 
 **Begründung:**
 
-Die verpflichtende Bestimmung der Krankheitsaktivität mittels des DAS leitet sich aus der Vorgabe zum DMP Rheumatoide Arthritis (RA) ab.
+Die verpflichtende Bestimmung der Krankheitsaktivität mittels des DAS-28-Scores bei jeder Dokumentation  leitet sich aus der Vorgabe zum DMP Rheumatoide Arthritis (RA) ab.
 
 Zur Anwendung des DAS-28-Scores, im Folgenden DAS-28-Wertes, müssen in diesem DMP folgende vier  Parameter erfasst werden:
 
@@ -2640,7 +2581,7 @@ Zur Anwendung des DAS-28-Scores, im Folgenden DAS-28-Wertes, müssen in diesem D
 
 (4) die Blutsenkungsgeschwindigkeit (BSG) in der Einheit mm pro Stunde (mm/h) als aktuelles serologisches  Entzündungszeichen
 
-Die unter (1) und (2) durch die Ärztin oder den Arzt zu beurteilenden Gelenke sind jeweils rechts - und  linksseitig wie folgt definiert:
+Die unter (1) und (2) durch die Ärztin oder den Arzt zu beurteilenden Gelenke sind jeweils rechts- und  linksseitig wie folgt definiert:
 
 - 1. Schultergelenk
 - 2. Ellenbogengelenk
@@ -2657,13 +2598,7 @@ Die unter (1) und (2) durch die Ärztin oder den Arzt zu beurteilenden Gelenke s
 - 13. Fingermittelgelenk PIP 5
 - 14. Kniegelenk
 
-Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken Körperseite beurteilt,  sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Dabei soll für jedes der 28 Gelenke zum  einen angegeben werden, ob es geschwollen ist un RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig geschwollen und druckschmerzhaft  sein. Daher sind die Gelenke separat hinsichtlich der Schwellung und hinsichtlich der Schmerzen zu  beurteilen.
-
-- oder Folgedokumentation  -28) mittels der
-
--28-Scores bei jeder Dokumentation
-
-und Folgedokumentation) d zum anderen, ob es druckschmerzhaft ist. Ein von der
+und Folgedokumentation) Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken Körperseite beurteilt,  sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Dabei soll für jedes der 28 Gelenke zum  einen angegeben werden, ob es geschwollen ist und zum anderen, ob es druckschmerzhaft ist. Ein von der  RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig geschwollen und druckschmerzhaft  sein. Daher sind die Gelenke separat hinsichtlich der Schwellung und hinsichtlich der Schmerzen zu  beurteilen.
 
 
 ---
@@ -2683,16 +2618,17 @@ Abbildung 2: Erfassung der Anzahl der druckschmerzhaften Gelenke (t28)
 
 **Akzeptanzkriterium:**
 
-- 1. Das System muss dem Anwender die 14 beidseitig zu erfassenden Gelenke darstellen, die für die  Abfrage „Geschwollen“ und die Abfrage „Druckschmerzhaft“ geprüft werden müssen. Die Darstellung  kann in textueller oder grafischer Form [Markierte_Gelenke] erfolgen.
-- 2. Das System muss sicherstellen, dass der Anwender zur Erstellung einer Erst - oder Folgedokumentation  die folgenden vier Parameter zur Berechnung des DAS-28-Scores („Aktuelle Krankheitsaktivität  28-Wert“ in [
-- – DAS-
-- EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide Arthritis]) eingibt:
+- 1. Das System muss dem Anwender die 14 beidseitig zu erfassenden Gelenke darstellen, die für die  Abfrage „Geschwollen“ und die Abfrage „Druckschmerzhaft“ geprüft werden müssen. Die Darstellung  kann in textueller oder grafischer Form [Markierte_Gelenke
+- 2. Das System muss sicherstellen, dass der Anwender zur Erstellung einer Erst- oder Folgedokumentation  die folgenden vier Parameter zur Berechnung des DAS-28-Scores („Aktuelle Krankheitsaktivität – DAS-28-Wert“ in [EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide Arthritis
 
-| 1. | Anzahl geschwollener Gelenke (sw28)  (Wertebereich: 0 – 28) |  |
+| 1. | Anzahl geschwollener Gelenke (sw28)   (Wertebereich: 0 – 28) |  |
 |---|---|---|
 | **2.** | **Anzahl druckschmerzhafter Gelenke (t28)   (Wertebereich 0 - 28)** |  |
 | **3.** | **Subjektive Krankheitsaktivität (VAS)   (Wertebereich 0 – 100)** |  |
 | **4.** | **Blutsenkung (BSG)  (Wertebereich 0 – 999)** | ________ mm/h |
+
+- ] erfolgen.
+- ]) eingibt:
 
 
 ---
@@ -2737,7 +2673,7 @@ Die Auswahl der druckschmerzhaften Gelenke und der geschwollenen Gelenke in der 
 - 4. Das System muss die Summe der ausgewählten Gelenke in der Abfrage druckschmerzhafte Gelenke  errechnen und diesen Wert in den Parameter „Anzahl druckschmerzhafter Gelenke (t28)“ (Zeile 2
 - Tabelle  der Anforderung KP2-20) zur Berechnung des DAS-28-Scores übernehmen.
 
-Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln (BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen. **Hinweis:**
+Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen. **Hinweis:**
 
 
 ---
@@ -2754,7 +2690,7 @@ Das System muss den Wert des berechneten DAS-28-Scores oder den manuell eingegeb
 
 **Begründung:**
 
-Die doppelte Eingabe von bereits erfassten Daten soll verhindert werden. Die manuelle Eingabe des DAS 28-Scores muss möglich sein, um die Übernahme von Daten aus weiteren Systemen außerhalb des aktuell  eingesetzten Softwaresystems zu ermöglichen.
+Die doppelte Eingabe von bereits erfassten Daten soll verhindert werden. Die manuelle Eingabe des DAS-28-Scores muss möglich sein, um die Übernahme von Daten aus weiteren Systemen außerhalb des aktuell  eingesetzten Softwaresystems zu ermöglichen.
 
 **Akzeptanzkriterium:**
 
@@ -2782,7 +2718,7 @@ Eine zeitnahe Prüfung erleichtert es dem Anwender, die notwendigen Korrekturen 
 **Akzeptanzkriterium:**
 
 - 1. Das System muss die zu prüfenden Plausibilitäten in Abhängigkeit von Indikation(en) und  Dokumentationsart(en) bestimmen.
-- 2. Das System muss zusätzlich zu den indikationsspezifischen Plausibilitäten die übergreifenden  Plausibilitäten [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] berücksichtigen
+- 2. Das System muss zusätzlich zu den indikationsspezifischen Plausibilitäten die übergreifenden  Plausibilitäten [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] berücksichtigen.
 - 3. Das System muss den Anwender auf eine unplausible Eingabe hinweisen. Der Hinweis auf eine  unplausible Eingabe muss das fehlerhafte Datenfeld enthalten.
 
 **Hinweis:**
@@ -2808,7 +2744,7 @@ Das System muss auf Anforderung des Anwenders eine Gesamtprüfung auf Plausibili
 **Akzeptanzkriterium:**
 
 - 1. Das System muss die zu prüfenden Plausibilitäten in Abhängigkeit von Indikation(en) und  Dokumentationsart(en) bestimmen.
-- 2. Das System muss zusätzlich zu den indikationsspezifischen Plausibilitäten die übergreifenden  Plausibilitäten [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] berücksichtigen
+- 2. Das System muss zusätzlich zu den indikationsspezifischen Plausibilitäten die übergreifenden  Plausibilitäten [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] berücksichtigen.
 - 3. Falls das System einen Datensatz als unplausibel erkennt, muss das System dieses dem Anwender durch  eine aussagekräftige Fehlermeldung anzeigen und die entsprechende Stelle dem Anwender zur  Korrektur zur Verfügung stellen.
 - 4. Falls das System alle Prüfungen als plausibel abgeschlossen hat, muss dies dem Anwender angezeigt  werden.
 - 5. Das System muss dem Anwender ermöglichen, die eingegebenen Dokumentationsdaten in einem  angemessenen Format auszudrucken. Dem Anwender ist der Ausdruck freigestellt. Es muss der Hinweis
@@ -2861,8 +2797,6 @@ Mit den folgenden Kriterien kann die Güte der Asthmakontrolle, über die die me
 
 - Die Einstufung, ob es sich um ein „Unkontrolliertes Asthma“ handelt bestimmt die Software anhand der  Einstufungskriterien des Kapitels „4. UNKONTROLLIERTES ASTHMA“ des Dokumentes
 
-EXT_ITA_VGEX_Asthma_Kontrolle
-
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
 | **P1-82** | Prüfung der Formatierung von eingegebenen numerischen Werten |
@@ -2895,6 +2829,8 @@ Beispiel: Parameter Körpergröße 0,00 – 2,50 m (Eingabe 1,6 / Formatierung z
 
 Beispiel: Parameter BMI-SDS -3,00 bis 6,00 (Eingabe -1,6 / Formatierung zu -1,60)
 
+EXT_ITA_VGEX_Asthma_Kontrolle
+
 
 ---
 
@@ -2922,7 +2858,7 @@ Das System muss sicherstellen, dass alle Dokumentationsdaten unverändert gespei
 |---|---|
 | **P1-91** | Zwischenspeichern der Dokumentationsdaten |
 
-Das System muss sicherstellen, dass nicht vollständige und/oder fehlerhafte Dokumentationen unverändert  zwischengespeichert werden können, so dass diese erhalten bleiben und erweiterbar sind. Für den  Anwender muss ersichtlich sein, dass es sich um eine unvollständige und/ oder fehlerhafte Dokumentation  handelt.
+Das System muss sicherstellen, dass nicht vollständige und/oder fehlerhafte Dokumentationen unverändert  zwischengespeichert werden können, so dass diese erhalten bleiben und erweiterbar sind. Für den  Anwender muss ersichtlich sein, dass es sich um eine unvollständige und/oder fehlerhafte Dokumentation  handelt.
 
 **Hinweis:**
 
@@ -2967,7 +2903,7 @@ Jede elektronische Dokumentation muss eindeutig innerhalb eines Systems identifi
 
 **Hinweis:**
 
-Durch die Kombination des „EX“-Attributs (systemweit eindeutiges Identifikationsmerkmal) und des „RT“ Attributs (lebenslange Arztnummer bzw. Krankenhaus-IK des Anwenders) ist eine bundesweit eindeutige  Identifikation einer elektronischen Dokumentation möglich.
+Durch die Kombination des „EX“-Attributs (systemweit eindeutiges Identifikationsmerkmal) und des „RT“-Attributs (lebenslange Arztnummer bzw. Krankenhaus-IK des Anwenders) ist eine bundesweit eindeutige  Identifikation einer elektronischen Dokumentation möglich.
 
 **2.1.16** **Übersicht der Dokumentation**
 
@@ -3066,7 +3002,7 @@ Kostenträger vorhanden und es kommt zu Problemen bei der eDMP-Datenübermittlun
 |  |  | |
 |  |  | |
 
-Begründung:  Die Kennzeichnung korrigierter Dokumentationen ermöglicht die Zuordnung zum Originaldokument. Akzeptanzkriterium: 1. Die Software muss in der Korrektur zu einer Dokumentation die gleiche Dokumentenset -ID (Element set_id) wie in der Originaldokumentation übertragen (siehe [ KBV_ITA_VGEX_Schnittstelle_eHeader Kapitel 6.2). 2. Die Software muss in der Korrektur die Versionsnummer (Element version_nbr) gegenüber der Versionsnummer des Originaldokuments um 1 erhöhen (siehe [ KBV_ITA_VGEX_Schnittstelle_eHeader Kapitel 6.3).  3. Die Software muss in der Korrektur zu einer Dokumentation im Dokumentenverweis (Element related_document) die Dokument -ID (Element id) des Originaldokuments übertragen (siehe KBV_ITA_VGEX_Schnittstelle_eHeader ] Kapitel 6.7). 4. Die Software muss in der Korrektur zu einer Dokumentation in der Korrekturkennzeichnung (Element document_relationship.type_cd) den Wert RPLC übertragen (siehe KBV_ITA_VGEX_Schnittstelle_eHeader ] Kapitel 6.7). 5. Die Software muss die korrigierte Dokumentation auf Basis derselben Schnittstellenversion wie das Originaldokument erstellen. 2.2 VERSICHERTENINFORMATIONEN Die Anforderungen bezüglich der Ermittlung und Speicherung der Versicherteninformationen weichen nur in wenigen Punkten von [ KBV_ITA_VGEX_Anforderungskatalog_KVDT unten explizit aufgeführt. Kombinationssysteme erhalten diese Informationen aus dem exportierenden System (PVS). Eigenständige Dokumentationssysteme hingegen müssen die Versicherteninformationen von der Versichertenkarte ein lesen oder der Anwender muss die Informationen eingeben. Alle im Folgenden aufgelisteten Anforderungen betreffen eigenständige Dokumentationssysteme und sind KBV_ITA_VGEX_Anforderungskatalog_KVDT ] zu entnehmen.  Aus Kapitel 2.2 „Patientenstammdaten erfassen und verarbeiten“ in KBV_ITA_VGEX_Anforderungskatalog_KVDT ] müssen folgende Funktionen umgesetzt werden: Hinweis:  Tabelle 26  gelisteten Pflichtfunktionen gilt, dass „Abrechnung“ oder „ADT - Abrechnung“ durch „Dokumentation“ zu ersetzen ist.
+Begründung:  Die Kennzeichnung korrigierter Dokumentationen ermöglicht die Zuordnung zum Originaldokument. Akzeptanzkriterium: 1. Die Software muss in der Korrektur zu einer Dokumentation die gleiche Dokumentenset-ID (Element set_id) wie in der Originaldokumentation übertragen (siehe [ KBV_ITA_VGEX_Schnittstelle_eHeader Kapitel 6.2). 2. Die Software muss in der Korrektur die Versionsnummer (Element version_nbr) gegenüber der Versionsnummer des Originaldokuments um 1 erhöhen (siehe [ KBV_ITA_VGEX_Schnittstelle_eHeader Kapitel 6.3).  3. Die Software muss in der Korrektur zu einer Dokumentation im Dokumentenverweis (Element related_document) die Dokument-ID (Element id) des Originaldokuments übertragen (siehe KBV_ITA_VGEX_Schnittstelle_eHeader ] Kapitel 6.7). 4. Die Software muss in der Korrektur zu einer Dokumentation in der Korrekturkennzeichnung (Element document_relationship.type_cd) den Wert RPLC übertragen (siehe KBV_ITA_VGEX_Schnittstelle_eHeader ] Kapitel 6.7). 5. Die Software muss die korrigierte Dokumentation auf Basis derselben Schnittstellenversion wie das Originaldokument erstellen. 2.2 VERSICHERTENINFORMATIONEN Die Anforderungen bezüglich der Ermittlung und Speicherung der Versicherteninformationen weichen nur in wenigen Punkten von [ KBV_ITA_VGEX_Anforderungskatalog_KVDT unten explizit aufgeführt. Kombinationssysteme erhalten diese Informationen aus dem exportierenden System (PVS). Eigenständige Dokumentationssysteme hingegen müssen die Versicherteninformationen von der Versichertenkarte einlesen oder der Anwender muss die Informationen eingeben. Alle im Folgenden aufgelisteten Anforderungen betreffen eigenständige Dokumentationssysteme und sind KBV_ITA_VGEX_Anforderungskatalog_KVDT ] zu entnehmen.  Aus Kapitel 2.2 „Patientenstammdaten erfassen und verarbeiten“ in KBV_ITA_VGEX_Anforderungskatalog_KVDT ] müssen folgende Funktionen umgesetzt werden: Hinweis:  Tabelle 26  gelisteten Pflichtfunktionen gilt, dass „Abrechnung“ oder „ADT- Abrechnung“ durch „Dokumentation“ zu ersetzen ist.
 
 ---
 
@@ -3076,7 +3012,7 @@ Begründung:  Die Kennzeichnung korrigierter Dokumentationen ermöglicht die Zuo
 | **FUNKTION** | **BEZEICHNUNG** |  |
 | **KP2-101** | Krankenversichertenkarte als Berechtigungsnachweis zur Inanspruchnahme ärztlicher | |
 | **KP2-102** | Kartendaten der abgelehnten Krankenversichertenkarte werden in kopierbarer Form | |
-| **P2-105** | Konvertierung der KVK | |
+| **P2-105** | Konvertierung der KVK-Daten in eGK-/KVDT-konforme Strukturen | |
 | **P2-120** | Verarbeitung und Anzeige der Versichertendaten nach dem Einlesen einer | |
 | **P2-166** | Überprüfung der Leistungspflicht des Kostenträgers | |
 | **P2-200** | IK als Suchschlüssel für einen Kostenträger | |
@@ -3086,13 +3022,13 @@ Begründung:  Die Kennzeichnung korrigierter Dokumentationen ermöglicht die Zuo
 | **P2-260** | FALL 6 - IK ungültig/abgelaufen | |
 | **P2-265** | FALL 7 - Kostenträger nicht in KV zulässig | |
 | **P2-270** | FALL 8 - unbekanntes IK | |
-| **P2-275** | Temporäre Datensätze zur KT | |
+| **P2-275** | Temporäre Datensätze zur KT-Stammdatei | |
 | **K2-276** | bestehende KT-Stammsätze erweitern | |
 | **KP2-300** | Abgleich der Versichertendaten beim Einlesen | |
 | **KP2-310** | Abgleich der Versichertendaten nach Kassenwechsel | |
 | **P2-325** | Hinweis bei Besonderer Personengruppe „09“ | |
 | **P2-401** | „Defaultwert“ Besondere Personengruppe im Rahmen des Ersatzverfahrens | |
-| **P2-402** | „Defaultwert“ DMP-Kennzeichen im Rahmen des | |
+| **P2-402** | „Defaultwert“ DMP-Kennzeichen im Rahmen des Ersatzverfahrens | |
 | **P2-410** | Identifizierung eines KT-Stammsatzes und Weiterverarbeitung im Rahmen der manuellen | |
 | **P2-420** | Programmierte Suchhilfen zur Identifikation eines Kostenträgers bei Nichtvorlage eines IK | |
 | **P2-403** | Nähere Informationen zur DMP-Kennzeichnung | |
@@ -3106,13 +3042,7 @@ Neben dem Einlesen einer Versichertenkarte existieren weitere Möglichkeiten, Pa
 - Patientenstammdaten manuell über Tastatur eingeben,
 - gedruckte Patientenstammdaten (z. B. Überweisungsschein im Labor) scannen und interpretieren.
 
-```
--
-```
-
-KBV_ITA_VGEX_Anforderungskatalog_KVDT
-
-Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR- Seriennummer 3.-5. Stelle >= 800) angezeigt -Daten in eGK-/KVDT-konforme Strukturen Versichertenkarte  -Stammdatei Erfassung bzw. im Ersatzverfahren -
+Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR- Seriennummer 3.-5. Stelle >= 800) angezeigt Versichertenkarte  Erfassung bzw. im Ersatzverfahren KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
 
 ---
@@ -3121,7 +3051,7 @@ Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostent
 
 Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von Patientenstammdaten und
 
-| Bezeichnung | Elemente gem. DMP KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- |
+| Bezeichnung | Elemente gem. DMP-Header (Kindelemente von cda:patient  KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- |
 |---|---|---|
 | Vorsatzwort | <person><person_name><nm><pfx> |  |
 | Namenszusatz | <person><person_name><nm><pfx> |  |
@@ -3154,22 +3084,22 @@ Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von Patien
 |---|---|
 | **P2-40** | „Ersatzverfahren“ anwenden   Versichertendaten manuell erfassen |
 
-wird wie folgt definiert  liegt vor, wenn der Arzt noch nicht am VSDM nach Punkt 1.3 in  teilnimmt und der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse, die Versichertenart oder die Besondere Personengruppe geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, eine für das Einlesen der Versichertenkarte erforderliche Komponente defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Haus - und Heimbesuche kein entsprechendes Gerät zur Verfügung steht und keine bereits in der Arztpraxis mit den Daten der elektronischen Gesundheitskarte vorgefertigten Formulare verwendet werden kö nnen oder die VSDs von der eGK falsch sind und nicht übernommen werden müssen (Punkt 1.5 in die im Rahmen des VSDM bereitgestellten Daten nicht den Felddefinitionen und Ausprägungen in Nummer 2.2.1 der Technischen Anlage zu Anlage 4a BMV-Ä [KBV_ITA_VGEX_Mapping_KVK.pdf entsprechen. Im Ersatzverfahren sind mindestens die gemäß den übergreifend definierten Plausibilitäten eDMP ] und der spezifischen Schnittstellenbeschreibungen festgelegten Pflichtangaben zu erfassen und im Rahmen der Dokumentation zu übertragen . Versichertendaten umfassend und unverändert in ein Dokumentationssystem zu übernehmen und im Rahmen der Dokumentation zu übertragen sind.  und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z. B. befristete provisorische Ersatzbescheinigung nach § 19(2) BMV -Ä) die Erfassung, Speicherung und Übertragung sämtlicher vorhandener Versichertendaten ermöglichen Begründung: Die übergreifend definierten Plausibilitäten eDMP [ ] und / oder die spezifischen Schnittstellenbeschreibungen legen die Pflichtangaben fest, die im Ersatzverfahren mindestens zu erfassen und im Rahmen der Dokumentation zu übertragen sind. Rechtsgrundlagen für ein Ersatzverfahren sind Punkte 2.4 und 2.5 in Akzeptanzkriterium:  1. Die Software stellt dem Anwender alle entsprechenden Erfassungsfelder zur Verfügung. Diese sind: -Header (Kindelemente von cda:patient vergleiche [[ angabe 3 sinngemäß laut Anlage 4a BMV-Ä (Vereinbarung zum Inhalt und zur Anwendung der elektronischen Gesundheitskarte), Anhang 1, 2.4 Anlage 4  BMV-Ä/EKV (Vereinbarung zur Gestaltung und zum Inhalt der Krankenversichertenkarte) und Anlage 6 BMV-Ä (Datenaustausch)
+wird wie folgt definiert  liegt vor, wenn der Arzt noch nicht am VSDM nach Punkt 1.3 in  teilnimmt und der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse, die Versichertenart oder die Besondere Personengruppe geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, eine für das Einlesen der Versichertenkarte erforderliche Komponente defekt ist, die Versichertenkarte nicht benutzt werden kann, weil für Haus- und Heimbesuche kein entsprechendes Gerät zur Verfügung steht und keine bereits in der Arztpraxis mit den Daten der elektronischen Gesundheitskarte vorgefertigten Formulare verwendet werden können oder die VSDs von der eGK falsch sind und nicht übernommen werden müssen (Punkt 1.5 in die im Rahmen des VSDM bereitgestellten Daten nicht den Felddefinitionen und Ausprägungen in Nummer 2.2.1 der Technischen Anlage zu Anlage 4a BMV-Ä [KBV_ITA_VGEX_Mapping_KVK.pdf] entsprechen. Im Ersatzverfahren sind mindestens die gemäß den übergreifend definierten Plausibilitäten eDMP ] und der spezifischen Schnittstellenbeschreibungen festgelegten Pflichtangaben zu erfassen und im Rahmen der Dokumentation zu übertragen. Versichertendaten umfassend und unverändert in ein Dokumentationssystem zu übernehmen und im Rahmen der Dokumentation zu übertragen sind.  und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z. B. befristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä) die Erfassung, Speicherung und Übertragung sämtlicher vorhandener Versichertendaten ermöglichen Begründung: Die übergreifend definierten Plausibilitäten eDMP [ ] und / oder die spezifischen Schnittstellenbeschreibungen legen die Pflichtangaben fest, die im Ersatzverfahren mindestens zu erfassen und im Rahmen der Dokumentation zu übertragen sind. Rechtsgrundlagen für ein Ersatzverfahren sind Punkte 2.4 und 2.5 in Akzeptanzkriterium:  1. Die Software stellt dem Anwender alle entsprechenden Erfassungsfelder zur Verfügung. Diese sind: vergleiche [[ angabe 3 sinngemäß laut Anlage 4a BMV-Ä (Vereinbarung zum Inhalt und zur Anwendung der elektronischen Gesundheitskarte), Anhang 1, 2.4 Anlage 4  BMV-Ä/EKV (Vereinbarung zur Gestaltung und zum Inhalt der Krankenversichertenkarte) und Anlage 6 BMV-Ä (Datenaustausch)
 
 
 ---
 
-| <local_header><sciphox | Postfach PLZ |  |
+| <local_header><sciphox-ssu> | Postfach PLZ |  |
 |---|---|---|
 |  |  |  |
 |  |  |  |
-| **Bezeichnung** | Elemente gem. DMP KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- |
+| **Bezeichnung** | Elemente gem. DMP-Header (Kindelemente von cda:patient  KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- |
 | Name | <person><person_name><nm><fam> | X |
 | Vorname | <person><person_name><nm><giv> | X |
 | Geburtsdatum | <birth_dttm> | X |
 | Titel des Patienten | <person><person_name><nm><pfx> |  |
-| Versichertennummer | <local_header><sciphox <GesetzlicheKrankenversicherung><Versichertennummer> | X |
-| Versicherungsschutz Ende | <local_header><sciphox <GesetzlicheKrankenversicherung><VersicherungsschutzEnde> |  |
+| Versichertennummer | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertennummer> | X |
+| Versicherungsschutz Ende | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><VersicherungsschutzEnde> |  |
 | **Straßenadresse** |  |  |
 | Straße | <person><addr><STR> |  |
 | PLZ | <person><addr><ZIP> |  |
@@ -3181,14 +3111,14 @@ wird wie folgt definiert  liegt vor, wenn der Arzt noch nicht am VSDM nach Punkt
 | Postfach Ort | <person><addr><CTY> |  |
 | Postfach | <person><addr><POB> |  |
 | Postfach | <person><addr><CNT> |  |
-| Kostentraegerkennung | <local_header><sciphox <GesetzlicheKrankenversicherung><Kostentraegerkennung> | X |
-| WOP-Kennzeichen (KV- | <local_header><sciphox <GesetzlicheKrankenversicherung><KVBereich><WOP> |  |
-| DMP-Kennzeichnung | <local_header><sciphox <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> | X   (vgl. KVDT   P2-402) |
-| BesonderePersonengruppe | <local_header><sciphox <GesetzlicheKrankenversicherung> <BesonderePersonengruppe> | X  (vgl. KVDT   P2-401) |
-| Versichertenart | <local_header><sciphox <GesetzlicheKrankenversicherung><Versichertenart> | X |
+| Kostentraegerkennung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Kostentraegerkennung> | X |
+| WOP-Kennzeichen (KV- | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><KVBereich><WOP> |  |
+| DMP-Kennzeichnung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> | X   (vgl. KVDT   P2-402) |
+| BesonderePersonengruppe | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung>  <BesonderePersonengruppe> | X  (vgl. KVDT   P2-401) |
+| Versichertenart | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertenart> | X |
 | Geschlecht | <administrative_gender_cd> | X   (vgl. KP2- |
 
-Postfachadresse Bereich) -Header (Kindelemente von cda:patient vergleiche [[ -ssu> -ssu> -ssu> -ssu> -ssu> -ssu> -ssu> angabe 52)
+Postfachadresse Bereich) vergleiche [[ angabe 52)
 
 ---
 
@@ -3202,9 +3132,9 @@ Tabelle 27: Übersicht der zu erfassenden Daten im Ersatzverfahren / „manuelle
 
 Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte noch eine  Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über das Ersatzverfahren  erfasst werden. Da die Versichertennummer für die DMP-Dokumentation ein Pflichtfeld ist, muss in diesem  Fall der Ersatzwert „X999999999“ für das Feld Versichertennummer eingetragen werden.
 
-Die für die Erfassung der Mindestangaben notwendige Voraussetzung eines Arzt -Patienten-Kontaktes ist  bei der Behandlung durch den dokumentierenden Arzt bei allen eDMP -Verfahren immer gegeben.
+Die für die Erfassung der Mindestangaben notwendige Voraussetzung eines Arzt-Patienten-Kontaktes ist  bei der Behandlung durch den dokumentierenden Arzt bei allen eDMP-Verfahren immer gegeben.
 
-Für die Weiterverarbeitung der o. a. Daten gelten - mit Ausnahme der Restriktionen zur "Amtlichkeit"  grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet  werden müssen.
+Für die Weiterverarbeitung der o. a. Daten gelten - mit Ausnahme der Restriktionen zur "Amtlichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet  werden müssen.
 
 ### 2.2.2 Geburtsdatum mit besonderem Wertebereich
 
@@ -3222,7 +3152,7 @@ JJJJ-MM-TT, JJJJ-MM-00, JJJJ-00-00
 
 Das Geburtsdatum ist für die Ermittlung der Einschreibekriterien unabdingbar. Deswegen wurde mit den  Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart:
 
-- 1. Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der Versichertenkarte, so ist die Aufnahme in  ein DMP abzulehnen und der Patient aufzufordern seitens seiner Krankenkasse eine  Sonderbescheinigung einzureichen, auf der das Geburtsdatum vermerkt ist . Dieses, seitens der  zuständigen Krankenkasse bekannt gegebene Geburtsdatum, ist für Dokumentation und Bedruckung zu  verwenden.
+- 1. Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der Versichertenkarte, so ist die Aufnahme in  ein DMP abzulehnen und der Patient aufzufordern seitens seiner Krankenkasse eine  Sonderbescheinigung einzureichen, auf der das Geburtsdatum vermerkt ist. Dieses, seitens der  zuständigen Krankenkasse bekannt gegebene Geburtsdatum, ist für Dokumentation und Bedruckung zu  verwenden.
 - 2. Sind keine Angaben (entspricht der Angabe „00“) zum Geburtstag und/ oder –monat enthalten, so sind  grundsätzlich folgende Angaben für die Dokumentation zu verwenden:
 - a)  Geburtstag: **01**
 - b)  Geburtsmonat: **01**
@@ -3303,7 +3233,7 @@ Bitte beachten Sie die Anforderung P1-72.
 **Akzeptanzkriterium:**
 
 - 1. An das Layout des Ausdrucks werden keine Anforderungen gestellt. Logisch zueinander gehörende  Informationen sollten auch zusammen abgebildet werden.
-- 2. Inhaltlich müssen alle Informationen, die auch im System erfasst wurden, auf dem Ausdruck dargestellt  werden. Zusätzlich zu den reinen Dokumentationsdaten müssen die Patienten - und Arztdaten  abgebildet sein.
+- 2. Inhaltlich müssen alle Informationen, die auch im System erfasst wurden, auf dem Ausdruck dargestellt  werden. Zusätzlich zu den reinen Dokumentationsdaten müssen die Patienten- und Arztdaten  abgebildet sein.
 - 3. Der Ausdruck muss auf A4-Format erfolgen.
 - 4. Sollte der Ausdruck nur auf mehreren Seiten umzusetzen sein, so sind alle Seiten zu nummerieren und  auf jeder Seite muss der Arzt die Möglichkeit haben zu unterschreiben.
 
@@ -3322,7 +3252,7 @@ Mithilfe dieser Anforderung soll sichergestellt werden, dass die aus dem System 
 - 1. Das System muss dem Anwender ermöglichen, die Teilnahmeerklärung zu drucken.
 - 2. Das System muss beim Ausdruck der Teilnahmeerklärung stets die aktuell veröffentlichte Vorlage  inklusive der Abmaße berücksichtigen und vollständig ausdrucken.
 - 3. Die Bedruckung des Personalienfeldes erfolgt stets nach den Bedruckungsvorschriften des Kapitels „2.3  Bedruckung des Personalienfeldes“ aus dem Dokument „Anwendung der eGK - Technische Anlage zu  Anlage 4a (BMV-Ä)“ [KBV_ITA_VGEX_Mapping_KVK.pdf]
-- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2 -210, P2-220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
+- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2-210, P2-220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3341,7 +3271,7 @@ Mit Hilfe dieser Anforderung wird der Anwender darauf hingewiesen, dass vor der 
 
 - 1. Der Anwender erhält beim Abschluss (setzen des Erstelldatums) einer erstmaligen Dokumentation pro  Patient und Indikation den folgenden einmaligen Hinweis:
 
-„Bitte prüfen Sie, ob Sie die von Ihnen und Ihrem Patienten unterschriebene Teilnahme - und  Einwilligungserklärung versendet haben!
+„Bitte prüfen Sie, ob Sie die von Ihnen und Ihrem Patienten unterschriebene Teilnahme- und  Einwilligungserklärung versendet haben!
 
 Nur wenn beide Erklärungen unterschrieben und versendet wurden, sind die Datenschutzrechtlichen  Voraussetzungen erfüllt und die DMP-Vergütung kann erfolgen.“
 
@@ -3357,9 +3287,11 @@ Nur wenn beide Erklärungen unterschrieben und versendet wurden, sind die Datens
 
 Das System muss zur Prüfung der Dokumentationen das jeweils für das Dokumentationsquartal gültige  XPM einsetzen. Keine vom XPM als fehlerhaft erkannten Dokumentationen dürfen übertragen werden. Für  nähere Erläuterungen bezüglich Funktion und Anwendung des XPM ist in
 
-KBV_ITA_AHEX_Handbuch_Pruefmodul] nachzulesen.
+KBV_ITA_AHEX_Handbuch_Pruefmodul
 
-**2.4.2** **Export der Daten**
+### 2.4.2 Export der Daten
+
+] nachzulesen.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3404,7 +3336,7 @@ Die Dokumentationen der Indikation Herzinsuffizienz, welche mit einem Erstelldat
 
 - Herzinsuffizienz: Kürzel HI_103
 
-Die Dokumentationen der Indikation Asthma, COPD, Diabetes mellitus Typ 1, Diabetes mellitus Typ 2, KHK,  Herzinsuffizienz, chronischer Rückenschmerz, Depression, Osteoporose, Rheuma , Adipositas - Erwachsene  und Adipositas - Kinder und Jugendliche, welche mit einem Erstelldatum ab dem 1. Oktober 2026 erstellt  bzw. exportiert werden, erhalten die folgenden Archivkürzel:
+Die Dokumentationen der Indikation Asthma, COPD, Diabetes mellitus Typ 1, Diabetes mellitus Typ 2, KHK,  Herzinsuffizienz, chronischer Rückenschmerz, Depression, Osteoporose, Rheuma, Adipositas - Erwachsene  und Adipositas - Kinder und Jugendliche, welche mit einem Erstelldatum ab dem 1. Oktober 2026 erstellt  bzw. exportiert werden, erhalten die folgenden Archivkürzel:
 
 - Asthma: Kürzel AB_447
 - COPD: Kürzel COPD_407
@@ -3436,13 +3368,13 @@ Die Dokumentationen der Indikation Asthma, COPD, Diabetes mellitus Typ 1, Diabet
 |---|---|
 | **P4-30** | Einsatz Kryptomodul (XKM) |
 
-Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Schlüssels zur DMP -Datenverschlüsselung (Oeffentlich_DA_Vxy.key) zu verschlüsseln. Welche Form der Datenübertragung  gewählt wird, ist für den Einsatz des XKM nicht relevant. Es muss bei allen Datenübertragungen eingesetzt  werden. Für nähere Erläuterungen zur Funktion und Anwendung des XKM ist in
+Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  ihrer Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Schlüssels zur DMP-Datenverschlüsselung (Oeffentlich_DA_Vxy.key) zu verschlüsseln. Welche Form der Datenübertragung  gewählt wird, ist für den Einsatz des XKM nicht relevant. Es muss bei allen Datenübertragungen eingesetzt  werden. Für nähere Erläuterungen zur Funktion und Anwendung des XKM ist in
 
 KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzulesen.
 
 ### 2.4.4 Datenträgerbeschriftung und Transportbegleitzettel
 
-Die Anforderungen dieses Kapitels beruhen auf Vereinbarungen zwischen der KBV und den  Spitzenverbänden der Krankenkassen. Werden Datenträger zur Datenübermittlung der DMP Dokumentationsdaten eingesetzt, so sind die Anforderungen KP4-40 und KP4-41 einzuhalten.
+Die Anforderungen dieses Kapitels beruhen auf Vereinbarungen zwischen der KBV und den  Spitzenverbänden der Krankenkassen. Werden Datenträger zur Datenübermittlung der DMP-Dokumentationsdaten eingesetzt, so sind die Anforderungen KP4-40 und KP4-41 einzuhalten.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3461,7 +3393,7 @@ Um die korrekte Zuordnung und Vollständigkeit der übermittelten Dokumente sich
 
 **Bedingung:**
 
-Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP -Dokumentation auf Datenträger unterstützen.
+Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP-Dokumentation auf Datenträger unterstützen.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3484,7 +3416,7 @@ Um die korrekte Zuordnung und Vollständigkeit der übermittelten Dokumente sich
 
 **Bedingung:**
 
-Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP -Dokumentationen auf Datenträger unterstützen
+Die Anforderung muss von allen Systemen umgesetzt werden, welche die Speicherung der eDMP-Dokumentationen auf Datenträger unterstützen.
 
 **2.4.5** **Übertragungsweg**
 
@@ -3496,7 +3428,7 @@ Die Software kann dem Anwender eine Funktion zur Übertragung der eDMP Dokumenta
 
 **Begründung:**
 
-Der Übertragungsweg KIM kann zur Übermittlung der eDMP Dokumentationen verwendet werden, sofern  die jeweilige Datenannahmestelle das KIM-Verfahren zur Dokumentationsübermittlung unterstützt. Den  Starttermin zur Nutzung des Übertragungsweges KIM legen die regionalen DMP -Arbeitsgemeinschaften in  Absprache mit der DMP-Datenstelle fest.
+Der Übertragungsweg KIM kann zur Übermittlung der eDMP Dokumentationen verwendet werden, sofern  die jeweilige Datenannahmestelle das KIM-Verfahren zur Dokumentationsübermittlung unterstützt. Den  Starttermin zur Nutzung des Übertragungsweges KIM legen die regionalen DMP-Arbeitsgemeinschaften in  Absprache mit der DMP-Datenstelle fest.
 
 **Akzeptanzkriterium:**
 
@@ -3522,7 +3454,7 @@ Die Vorgaben zur Befüllung des Formulars der Teilnahmeerklärung richten sich n
 
 KBV_ITA_VGEX_Technisches_Handbuch_BFB
 
-Gemäß den dort beschriebenen und den unten stehenden Vorgaben ist auf dem Formular der 2D -Barcode  gemäß Kapitel 3.2.2 aufzudrucken.
+Gemäß den dort beschriebenen und den unten stehenden Vorgaben ist auf dem Formular der 2D-Barcode  gemäß Kapitel 3.2.2 aufzudrucken.
 
 ### 3.1.2 Barcode PDF 417
 
@@ -3532,7 +3464,7 @@ Die technischen Details, Aufbau und Inhalt des zweidimensionalen Barcodes PDF 41
 
 ### 3.1.3 Bedruckungsvorgaben
 
-Die Bedruckungsvorgaben beziehen sich auf das Formular der indikationsübergreifende Teilnahme - und  Einwilligungserklärung.
+Die Bedruckungsvorgaben beziehen sich auf das Formular der indikationsübergreifende Teilnahme- und  Einwilligungserklärung.
 
 | OPTIONALE FUNKTION EDMP | |
 |---|---|
@@ -3551,8 +3483,6 @@ Einwilligungserklärung - **1.** Die Software muss den Barcode an der definierte
 
 ---
 
-EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend]) für die Datenstelle aufdrucken (siehe Kapitel 3.2.2  3.2.2 Positionierung / Aufdruck des Barcodes
-
 - 1. Falls die auf der TE/EWE aufgedruckte Information auch als Inhalt des Barcodes definiert ist, muss die  Software diese Information unter Beachtung der Barcodedefinition in den Barcode codieren.
 - 2. Falls für ein definiertes Feld des Barcodes keine Information auf dem Formular aufgedruckt wird, muss  die Software das entsprechende Feld im Barcode leer codieren.
 - 3. Die Software darf außer der DMP-Fallnummer nur Informationen im Barcode codieren, die auch auf  dem Formular aufgedruckt werden. Die DMP-Fallnummer, welche nicht gesondert im Formular  aufgeführt wird, muss zusätzlich in den Barcode übernommen werden.
@@ -3561,9 +3491,9 @@ EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend]) für die Datenstelle aufdrucken (sie
 
 ### 3.2.1 Allgemeine Informationen Barcode
 
-Der Barcode enthält die lesbaren Daten der TE/EWE und darüber hinaus noch die Information der „DMP -Fallnummer“. Entgegen den Vorgaben des Personalienfeldes werden die Informationen in den Barcode  ungekürzt erfasst/abgebildet.
+Der Barcode enthält die lesbaren Daten der TE/EWE und darüber hinaus noch die Information der „DMP-Fallnummer“. Entgegen den Vorgaben des Personalienfeldes werden die Informationen in den Barcode  ungekürzt erfasst/abgebildet.
 
-Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufgedruckten  Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die Formularcode -ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte  Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks der TE/EWE.
+Der Großteil der Daten entspricht den Daten der Versichertenkarte und eines Teils der aufgedruckten  Daten. Der Formularcode gibt die Formularkennzeichnung der TE/EWE an, wobei die Formularcode-ergänzung die entsprechende Seite kennzeichnet. Die Versionsnummer bezeichnet eine bestimmte  Barcode-Version eines bestimmten Formulars; sie wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist  das Datum des Drucks der TE/EWE.
 
 Um den Barcode platzsparend generieren zu können, wird für den Barcode das dynamische Format  verwendet. Die einzelnen Datenfelder werden dabei mit dem Feldtrenner TAB getrennt.
 
@@ -3577,7 +3507,12 @@ Abbildung 3: Positionierung des PDF 417 Barcodes auf dem Formular Teilnahmeerkl�
 
 Auf der Datenstellenausfertigung der TE/EWE (Versionsmuster 070E 070F) kann in der markierten Stelle in
 
-Abbildung 3 - unterhalb des Textes „Erklärung zur Teilnahme an einem strukturierten  Behandlungsprogramm für“ und oberhalb des Feldes „Krankenhaus -IK“ - ein 2D-Barcode (PDF 417)  gedruckt werden.
+Abbildung 3 - unterhalb des Textes „Erklärung zur Teilnahme an einem strukturierten  Behandlungsprogramm für“ und oberhalb des Feldes „Krankenhaus-IK“ - ein 2D-Barcode (PDF 417)  gedruckt werden.
+
+EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend 3.2.2 Positionierung / Aufdruck des Barcodes
+
+]) für die Datenstelle aufdrucken (siehe Kapitel 3.2.2
+
 
 ---
 
@@ -3614,7 +3549,7 @@ Abbildung 3 - unterhalb des Textes „Erklärung zur Teilnahme an einem struktur
 |  | n | 2 = Diabetes Typ 2 |  |  |  |
 | 1 | <=12  a  1 = Koronare |  |  |  |  |
 
-05, 06, 07, 08, 09, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 Datenstelle zusätzlicher Wertebereich: JJJJMM00, JJJJ0000, 00000000 Herzkrankheit,## BARCODE INHALT
+05, 06, 07, 08, 09, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 Datenstelle zusätzlicher Wertebereich: JJJJMM00, JJJJ0000, 00000000 Herzkrankheit, ## BARCODE INHALT
 
 
 ---
@@ -3669,9 +3604,13 @@ Mit dem Update „Datenkommunikation in der Arztpraxis“ für das 1.Quartal 200
 
 **Beispiel:**
 
-**VERSAND KT-Stammdatei**      **Mitte 2. Quartal 20yx**
+**VERSAND KT-Stammdatei**
 
-**EINSATZ KT-Stammdatei in der Praxis**  **spätestens Beginn 3. Quartal 20yx**
+**EINSATZ KT-Stammdatei in der Praxis**
+
+**Mitte 2. Quartal 20yx**
+
+**spätestens Beginn 3. Quartal 20yx**
 
 **4.1.1** **Verbindlichkeit und Gültigkeit der SDKT**
 
@@ -3682,7 +3621,7 @@ Mit dem Update „Datenkommunikation in der Arztpraxis“ für das 1.Quartal 200
 - a) Der Einsatz der jeweils aktuell gültigen KT-Stammdatei muss im Zusammenhang mit der  Dokumentationserstellung und der Bedruckung der Dokumentationsbögen erfolgen. Durch geeignete  organisatorische Maßnahmen muss sichergestellt werden, dass die Anwender rechtzeitig zum  Quartalsbeginn jeweils die aktuell gültige Kostenträger-Stammdatei im Rahmen ihrer  Dokumentationssoftware einsetzen können.
 - b)  **Update zur KT-Stammdatei**
 
-Mit einem Update zur KT-Stammdatei muss spätestens mit Beginn des neuen Quartals die neue KT Stammdatei eingesetzt werden, auch wenn einige Dokumentationen des Vorquartals noch nicht  abgeschlossen sind.
+Mit einem Update zur KT-Stammdatei muss spätestens mit Beginn des neuen Quartals die neue KT-Stammdatei eingesetzt werden, auch wenn einige Dokumentationen des Vorquartals noch nicht  abgeschlossen sind.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3715,22 +3654,22 @@ haben einen "amtlichen" Charakter, d. h. sie dürfen für den Anwender nicht ver
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
-| **P5-20** | temporäre Erweiterung der KT |
+| **P5-20** | temporäre Erweiterung der KT-Stammdatei |
 
 Nach Maßgabe der im Kapitel 2.2 (P2-270) des Dokumentes [KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
 aufgeführten Vorgaben darf die KT-Stammdatei temporär erweitert werden:
 
-- a)  Da neue Kassengründungen nach Redaktionsschluss der für das Folgequartal gültigen KT -Stammdatei  erfolgen können, müssen neue Kostenträger als **temporäre Kostenträger-Stammsätze** (SA 1250) der  KT-Stammdatei hinzugefügt werden können, unabhängig davon, ob ein IK über eine  Versichertenkarte eingelesen oder (in Analogie zum Ersatzverfahren) manuell erfasst wurde.
+- a)  Da neue Kassengründungen nach Redaktionsschluss der für das Folgequartal gültigen KT-Stammdatei  erfolgen können, müssen neue Kostenträger als **temporäre Kostenträger-Stammsätze** (SA 1250) der  KT-Stammdatei hinzugefügt werden können, unabhängig davon, ob ein IK über eine  Versichertenkarte eingelesen oder (in Analogie zum Ersatzverfahren) manuell erfasst wurde.
 - b)  Ein IK darf zu einem bestehenden KT-Stammsatz hinzugefügt werden.
 
 4.1.2.2 Temporäre Erweiterung durch den Softwareverantwortlichen
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
-| **O5-21** | temporäre Erweiterung der KT |
+| **O5-21** | temporäre Erweiterung der KT-Stammdatei durch den Softwareverantwortlichen |
 
-Die von der KBV gelieferte aktuelle KT-Stammdatei kann bereits mit einem Update an die Anwender seitens  des Softwareverantwortlichen **temporär** erweitert werden. Es können sowohl neue Kostenträger Stammsätze (SA 1250) als auch neue IK’s zu einem bestehenden KT-Stammsatz hinzugefügt werden.
+Die von der KBV gelieferte aktuelle KT-Stammdatei kann bereits mit einem Update an die Anwender seitens  des Softwareverantwortlichen **temporär** erweitert werden. Es können sowohl neue Kostenträger-Stammsätze (SA 1250) als auch neue IK’s zu einem bestehenden KT-Stammsatz hinzugefügt werden.
 
 ## 4.2 STAMMDATEI DATENANNAHMESTELLEN (SDDA)
 
@@ -3747,12 +3686,12 @@ Erstmals mit dem Update zum 3. Quartal 2005 stellt die KBV eine Stammdatei Daten
 
 Mit einem Update zur SDDA muss spätestens mit Beginn des neuen Quartals die neue SDDA  eingesetzt werden, auch wenn einige Dokumentationen des Vorquartals noch nicht exportiert sind.
 
--Stammdatei -Stammdatei durch den Softwareverantwortlichen**Hinweis:**
+**Hinweis:**
 
 
 ---
 
-Der Einsatz der SDDA in der Arztpraxis **darf** bereits unmittelbar nach Auslieferung der Datei seitens der KBV  erfolgen.
+Der Einsatz der SDDA in der Arztpraxis  erfolgen.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3770,7 +3709,7 @@ Ist dennoch eine automatisierte Zuordnung nicht eindeutig möglich, muss dem Anw
 
 Weitere Informationen zum Aufbau und somit zur Anwendung der SDDA können
 
-KBV_ITA_VGEX_Schnittstelle_SDDA] entnommen werden.
+KBV_ITA_VGEX_Schnittstelle_SDDA
 
 ### 4.2.2 Temporäre Erweiterung
 
@@ -3788,9 +3727,16 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt dem Anwender eine Funktion zur Verfügung, um neue Datenannahmestellen -Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  aufzunehmen.
-- 2. Die Software stellt dem Anwender eine Funktion zur Verfügung, bestehende Datenannahmestellen Stammsätze nach Maßgabe der in [KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben  anzupassen.
+- 1. Die Software stellt dem Anwender eine Funktion zur Verfügung, um neue Datenannahmestellen-Stammsätze nach Maßgabe der in [ aufzunehmen.
+- 2. Die Software stellt dem Anwender eine Funktion zur Verfügung, bestehende Datenannahmestellen-Stammsätze nach Maßgabe der in [ anzupassen.
 - 3. Die nach den Akzeptanzkriterien 1 und 2 durchgeführten Änderungen bleiben bis zur Anpassung der  Datengrundlage auf Grundlage einer aktualisierten SDDA erhalten.
+
+**darf** bereits unmittelbar nach Auslieferung der Datei seitens der KBV
+
+] entnommen werden.
+
+- KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben
+- KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben
 
 
 ---
@@ -3823,7 +3769,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 |---|---|
 | **Referenz** | **Dokument** |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDoku |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung eDoku-Header, gültig ab |
 | [KBV_ITA_AHEX_Handbuch_Pruefmodul] | KBV-Prüfmodul XPM Anwenderhandbuch |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [KBV_ITA_VGEX_Schnittstelle_SDDA] | Datenannahmestellen-Stammdatei (SDDA) |
@@ -3833,7 +3779,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 | [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] | Plausibilität eDMP Übergreifend |
 | [EXT_ITA_VGEX_Plausi_eDMP_Asthma] | Plausibilität eDMP Asthma |
 | [EXT_ITA_VGEX_Plausi_eDMP_Adipositas_Erwa ] | Plausibilität eDMP Adipositas - Erwachsene |
-| [EXT_ITA_VGEX_Plausi_eDMP_Adipositas_ ] | Plausibilität eDMP Adipositas -  Kinder und |
+| [EXT_ITA_VGEX_Plausi_eDMP_Adipositas_KiJu] | Plausibilität eDMP Adipositas -  Kinder und |
 | [EXT_ITA_VGEX_Plausi_eDMP_COPD] | Plausibilität eDMP COPD |
 | [EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2] | Plausibilität eDMP DM1 und DM2 |
 | [EXT_ITA_VGEX_Plausi_eDMP_KHK] | Plausibilität eDMP KHK |
@@ -3841,7 +3787,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 | [EXT_ITA_VGEX_Plausi_eDMP_HI] | Plausibilität eDMP Herzinsuffizienz |
 | [EXT_ITA_VGEX_Plausi_eDMP_Ruecken] | Plausibilität eDMP chronischer Rückenschmerz |
 | [EXT_ITA_VGEX_Plausi_eDMP_Depression] | Plausibilität eDMP Depression |
-| [KBV_ITA_VHEX_CPG ] | CPG-Fragebogen zur Bestimmung des |
+| [KBV_ITA_VHEX_CPG-Fragebogen] | CPG-Fragebogen zur Bestimmung des |
 | [KBV_ITA_VHEX_PHQ-9-Fragebogen] | PHQ-9-Fragebogen zur Bestimmung des |
 | [EXT_ITA_VGEX_Plausi_eDMP_Osteoporose] | Plausibilität eDMP Osteoporose |
 | Plausibilität eDMP Adipositas - Erwachsene |  |
@@ -3856,7 +3802,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 | Anforderungskatalog KVDT | GBA_DMP_A_RL |
 | Richtlinie des Gemeinsamen Bundesausschusses | EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend |
 
-Versorgung -Header, gültig ab dem 01.07.2018 allgemeinen Datensatz zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Abs. 2 SGB V KiJu Jugendliche die Entscheidung über den Zustand der Asthmakontrolle beschrieben. Schweregrades nach Korff Schweregrades der Depression
+Versorgung dem 01.07.2018 allgemeinen Datensatz zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Abs. 2 SGB V Jugendliche die Entscheidung über den Zustand der Asthmakontrolle beschrieben. Schweregrades nach Korff Schweregrades der Depression
 
 ---
 
@@ -3886,9 +3832,9 @@ Versorgung -Header, gültig ab dem 01.07.2018 allgemeinen Datensatz zur Zusammen
 |  |  |
 |  |  |
 |  |  |
-| [EXT_ITA_VGEX_Plausi_eDMP_Rheuma ] | Plausibilität eDMP Rheumatoide Arthritis |
+| [EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide  ] | Plausibilität eDMP Rheumatoide Arthritis |
 | [DAS-28 Print] | DAS-28 Print |
-| [Markierte_Gelenke | Darstellung der markierten druckschmerzhaften |
+| [Markierte_Gelenke] | Darstellung der markierten druckschmerzhaften |
 | [Gelenke] | Darstellung der Gelenke ohne gesonderte |
 | [KBV_ITA_VGEX_Technisches_Handbuch_BFB] | Technisches Handbuch Blankoformularbedruckung |
 | [EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreife ] | Vorlage der übergreifenden TE/EWE. |
@@ -3897,4 +3843,4 @@ Versorgung -Header, gültig ab dem 01.07.2018 allgemeinen Datensatz zur Zusammen
 | [eDMP 1.0] | Spezifikation der Inhalte der Anwendung eDMP 1.0 |
 | [gematik Implementierungsleitfaden  ] | Vorgaben der gematik für die Implementierung des |
 
-bzw. geschwollenen Gelenke Markierung der druckschmerzhaften bzw. geschwollenen Gelenke Anwendung der elektronischen Gesundheitskarte für die Übermittlung von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Primärsysteme Telematikinfrastruktur Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de,
+bzw. geschwollenen Gelenke  Markierung der druckschmerzhaften bzw. geschwollenen Gelenke Anwendung der elektronischen Gesundheitskarte für die Übermittlung von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Primärsysteme Telematikinfrastruktur Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de,

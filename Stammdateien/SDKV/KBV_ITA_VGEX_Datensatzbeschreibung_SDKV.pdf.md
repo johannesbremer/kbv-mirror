@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Datensatzbeschreibung SDKV* |
-|  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDKV |
+|  | [KBV_ITA_VGEX_Datensatzbeschreibung_SDKV] |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, Herbert |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-(KV-- Spezifika Stammdatei) -Lewin-Platz 2 3.56 Datum: 18.01.2021 Kennzeichnung: Öffentlich Status: In Kraft
+(KV-- Spezifika Stammdatei) 3.56 Datum: 18.01.2021 Kennzeichnung: Öffentlich Status: In Kraft
 
 ---
 
@@ -106,7 +106,7 @@ INHALTSVERZEICHNIS
 
 **5.8** **Erläuterung zur Satzart “kvx7” .................................................................................................. 32**
 
-**5.9** **Erläuterung zur Satzart Kommentierung / Zusatzinformation “kvx8“** **................................... 33**
+**5.9** **Erläuterung zur Satzart Kommentierung / Zusatzinformation “kvx8“ ................................... 33**
 
 
 ---
@@ -225,13 +225,13 @@ Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Sp
 
 ---
 
-**2.1 Definition der Satzart: SDKV**
+**2.1 Definition der Satzart: SDKV-Headersatz “kvx0”**
 
 | FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | SDKV-Headersatz |
 | 9103 | 1 | Erstellungsdatum | M |  |  |
-| 9106 | 1 | verwendeter Zeichensatz | M |  | ISO 8859 -15 |
+| 9106 | 1 | verwendeter Zeichensatz | M |  | ISO 8859-15 |
 | 9111 | 1 | Gültigkeitsquartal | M |  | ab diesem Quartal |
 | 9113 | 1 | KV-Geltungsbereich | M |  |  |
 | 9212 | 1 | Version der Satzbeschreibung | M |  | Version der SDKV- |
@@ -250,9 +250,8 @@ Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Sp
 | 8000 | 1 | Satzart | M |  | SDKV-Endesatz |
 | 9219 | 1 | Version SDKV-Pflegeprogramm | M |  | nur für KBV-interne |
 
-## -Headersatz “kvx0”
+Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese Datei erstellt wurde 
 
-Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese Datei erstellt wurde
 
 ---
 
@@ -277,7 +276,8 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 | 4239 | n | Scheinuntergruppe | M |  |  |
 | 4122 |  | Abrechnungsgebiet | m |  |  |
 
-2 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen "Übertragung Pseudo-GNR" Handhabungshinweise Übertragung einer Pseudo-GNR zur FK 5012 jeweiligen Pseudo-GNR (KTAB) Feldinhalte”
+2 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen "Übertragung Pseudo-GNR" Handhabungshinweise Übertragung einer Pseudo-GNR zur FK 5012 jeweiligen Pseudo-GNR (KTAB) Feldinhalte” 
+
 
 ---
 

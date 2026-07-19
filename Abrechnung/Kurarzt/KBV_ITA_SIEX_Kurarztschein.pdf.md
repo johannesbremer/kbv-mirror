@@ -18,11 +18,11 @@ EKG
 
 **Unterlagen:**
 
-Status
-
 **Auswertung**
 
-**Relevante Diagnosen** **toren**  **Regulations-**
+**Relevante Diagnosen** Status
+
+**toren**  **Regulations-**
 
 **Schädigungen**  **Befindlichkeitsstörungen**
 

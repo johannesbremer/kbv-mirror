@@ -31,7 +31,7 @@ Genau eine Angabe ist erforderlich.
 
 Die individuelle Risikokonstellation bezüglich des Auftretens einer Osteoporose soll einmal jährlich  bei allen Patienten klinisch abgeschätzt werden.
 
-Bitte kreuzen Sie „Ja“ an, wenn Sie im Rahmen der DMP Auftreten einer Osteoporose abgeschätzt haben. Bei Patientinnen und  Risikofaktoren neben Alter, Geschlecht, Untergewicht,  Entzündung bei schwerer COPD (FEV unter 50% des Sollwertes) und die medikamentöse 1 Therapie (z. B. systemische Glukokortikosteroide, auch in geringen Tagesdosen).
+Bitte kreuzen Sie „Ja“ an, wenn Sie im Rahmen der DMP Auftreten einer Osteoporose abgeschätzt haben. Bei Patientinnen und Patienten mit COPD sind die  Risikofaktoren neben Alter, Geschlecht, Untergewicht,  Entzündung bei schwerer COPD (FEV unter 50% des Sollwertes) und die medikamentöse 1 Therapie (z. B. systemische Glukokortikosteroide, auch in geringen Tagesdosen).
 
 # Relevante Ereignisse
 
@@ -49,31 +49,27 @@ Geben Sie bitte die Anzahl (ohne Nachkommastelle) von Exazerbationen seit der le
 
 Eine Angabe ist nur im Rahmen einer **Folgedokumentation**
 
-Geben Sie bitte die Anzahl (ohne Nachkommastelle) aller Ihnen bekannten ungeplanten  Behandlungen (ambulant und stationär) an, die seit der letzten Dokumentation auf Grund notwendig wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig  gewesen sein, geben Sie bitte eine „0“ an.
+Geben Sie bitte die Anzahl (ohne Nachkommastelle) aller Ihnen bekannten ungeplanten  Behandlungen (ambulant und stationär) an, die seit der letzten Dokumentation auf Grund der COPD  notwendig wurden. Sollte seit der letzten Dokumentation keine solche Behandlung notwendig  gewesen sein, geben Sie bitte eine „0“ an.
 
 # Medikamente
 
-Bitte machen Sie zu jeder Wirkstoffgruppe mindestens eine Angabe. Bitte machen Sie bei der Angabe  „Keine“ - wo möglich - zusätzlich eine Angabe, wenn die Nicht gegen die Gabe der jeweiligen Wirkstoffgruppe zurückzuführen ist. Diese Angabe ist für die  Qualitätssicherung notwendig.
+Bitte machen Sie zu jeder Wirkstoffgruppe mindestens eine Angabe. Bitte machen Sie bei der Angabe  „Keine“ - wo möglich - zusätzlich eine Angabe, wenn die Nicht-Verordnung auf eine Kontraindikation  gegen die Gabe der jeweiligen Wirkstoffgruppe zurückzuführen ist. Diese Angabe ist für die  Qualitätssicherung notwendig.
 
 Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen werden.  Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
 
 Die Angaben „Bei Bedarf“ und „Dauermedikation“ sind gemeinsam
 
-Vorrangig sollen unter Berücksichtigung der Kontraindikationen  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien nachgewiesen wurde. Dabei sollen -Wert Ihrer Patientin bzw. 1
+Vorrangig sollen unter Berücksichtigung der Kontraindikationen und der Patientenpräferenzen  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien nachgewiesen wurde. Dabei sollen -Wert Ihrer Patientin bzw. 1
 
--Konsultation die Risikofaktoren für das  Patienten mit COPD sind die  Immobilität auch die systemische
+-Konsultation die Risikofaktoren für das
+
+Immobilität auch die systemische
 
 möglich und hier verpflichtend.
 
 möglich und hier verpflichtend.
-
-der COPD
-
--Verordnung auf eine Kontraindikation
 
 möglich.
-
-und der Patientenpräferenzen
 
 
 ---
@@ -95,7 +91,12 @@ Falls erforderlich zur **Dauertherapie**
 
 - Langwirksames Anticholinergikum* (z. B.Tiotropiumbromid)* oder
 - Langwirksame Beta-2-Sympatomimetika (z. B. *Formoterol, Salmeterol*
-- Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2-Sympathomimetikum und Anticholinergikum.
+- und Anticholinergikum.
+- Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2-Sympathomimetikum
+
+```
+-
+```
 
 Zusätzlich in begründeten Fällen:
 
@@ -110,7 +111,7 @@ Sollte Ihre Patientin bzw. Ihr Patient eine solche Kombinationstherapie erhalten
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurzwirksamen Beta-2-Sympathomimetika und/oder Anticholinergika durchgeführt wird. Bitte geben Sie bei „Keine“  gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Antic holinergikums  besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit kurzwirksamen Beta-2-Sympathomimetika und/oder Anticholinergika durchgeführt wird. Bitte geben Sie bei „Keine“  gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Anticholinergikums  besteht. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Lang wirksame Beta-2-Sympathomimetika
 
@@ -125,7 +126,7 @@ Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit langwirksamen Be
 
 Mindestens eine Angabe ist erforderlich.
 
-Geben Sie bitte an, ob eine Bedarfs - und/oder Dauertherapie mit langwirksamen Anticholinergika  durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob eine  Kontraindikation gegen die Gabe eines langwirksamen Anticholinergikums beste ht. Diese Angabe  ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit langwirksamen Anticholinergika  durchgeführt wird. Bitte geben Sie  Kontraindikation gegen die Gabe eines langwirksamen Anticholinergikums besteht. Diese Angabe  ist für die Qualitätssicherung notwendig.
 
 #### Inhalationstechnik überprüft
 
@@ -145,7 +146,7 @@ Sollte Ihr Patient inhalative oder systemische Glukokortikosteroide oder andere 
 
 Der Wirkstoff Theophyllin wird wegen seiner geringen therapeutischen Breite und aufgrund des  Nebenwirkungsprofils zur Behandlung der COPD im Rahmen der Bedarfs- und Dauertherapie nicht  mehr empfohlen. Für den Fall, dass Sie Patienten haben, die Theophyllin erhalten, kreuzen Sie hier  bitte „Andere“ an. Unter der Angabe „Andere“ sind ebenfalls z.B. mukoaktive Substanzen wie z. B.  Acetylcystein, Ambroxol oder Carbocystein zu erfassen.
 
-Die Angaben zu „Inhalative Glukokortikosteroide" und/oder Systemische Glukokortikosteroide  sowie „Andere“ können einzeln oder gemeinsam erfolgen.
+Die Angaben zu „Inhalative Glukokortikosteroide" und/oder  sowie „Andere“ können einzeln oder gemeinsam erfolgen.
 
 # Schulung
 
@@ -153,22 +154,34 @@ Die Angaben zu „Inhalative Glukokortikosteroide" und/oder Systemische Glukokor
 
 Genau eine Angabe ist erforderlich.
 
-Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einem  Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. Wenn Sie bereits zuvor  eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die  Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
+Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einem  Schulungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an. eine Schulung empfohlen haben, diese aber aktuell noch nicht stattfinden konnte, sprechen Sie die  Empfehlung bitte erneut aus und kreuzen hier „Ja“ an.
 
 Wurde *keine Schulung* empfohlen (z. B., weil Ihre Patientin bzw. Ihr Patient bereits eine Schulung  wahrgenommen hat), geben Sie dies bitte mit „Nein“ an.
 
 #### Schulung schon vor Einschreibung in DMP bereits wahrgenommen
 
-Bitte geben Sie an, ob Ihr Patient bereits vor seiner Teilnahme am DMP COPD an einer COPD Schulung teilgenommen hat. Eine Angabe zu diesem Feld ist nur im Rahmen einer  **Erstdokumentation** möglich und ist hier verpflichtend.  Bei der **Folgedokumentation** ist hier keine  Angabe möglich.
+Bitte geben Sie an, ob Ihr Patient bereits vor seiner Teilnahme am DMP COPD an einer COPD-Schulung teilgenommen hat. Eine  **Erstdokumentation** möglich und ist hier verpflichtend. Bei der  Angabe möglich.
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 - a) akkreditierte und für das DMP zugelassene Schulungen, sowie
 
+bei „Keine“
+
+Angabe
+
+gegebenenfalls zusätzlich an, ob eine
+
+Systemische Glukokortikosteroide
+
+Wenn Sie bereits zuvor
+
+zu diesem Feld ist nur im Rahmen einer  **Folgedokumentation** ist hier keine
+
 
 ---
 
-- b) andere Schulungsmaßnahmen, die den Patienten durch den Erwerb von Kenntnissen und  Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der  Basis eigener Entscheidungen die COPD bestmöglich in das eigene Leben zu integrieren ,  akute oder langfristige negative Konsequenzen der COPD zu vermeiden und die  Lebensqualität zu erhalten.
+- b) andere Schulungsmaßnahmen, die den Patienten durch den Erwerb von Kenntnissen und  Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt haben, auf der  Basis eigener Entscheidungen die COPD bestmöglich in das eigene Leben zu integrieren,  akute oder langfristige negative Konsequenzen der COPD zu vermeiden und die  Lebensqualität zu erhalten.
 
 Sofern eine Teilnahme stattgefunden hat, geben Sie dies bitte hier mit „Ja“ an. Eine erneute  Teilnahme an einer Schulung ist dadurch NICHT ausgeschlossen!
 
@@ -221,7 +234,7 @@ Eine Angabe in diesen Feldern führt **nicht** zum Ausschluss des Patienten aus 
 
 Genau eine Angabe ist bei allen aktiven Rauchern erforderlich und nur im Rahmen einer  Folgedokumentation möglich und hier verpflichtend.
 
-Bitte geben Sie hier an, ob Ihr Patient an einem Tabakentwöhnungsprogramm teilgenommen hat  und machen Sie in diesem Fall die Angabe „Ja“. Wenn Ihr Patient Ihrer Empfehlung nicht gefolgt  ist, machen Sie die Angabe „Nein“. Sollte eine Teilnahme an einem Taba kentwöhnungsprogramm  bisher nicht möglich gewesen sein, machen Sie bitte die Angabe „War aktuell nicht möglich“.
+Bitte geben Sie hier an, ob Ihr Patient an einem Tabakentwöhnungsprogramm teilgenommen hat  und machen Sie in diesem Fall die Angabe „Ja“. Wenn Ihr Patient Ihrer Empfehlung nicht gefolgt  ist, machen Sie die Angabe „Nein“. Sollte eine Teilnahme an einem Tabakentwöhnungsprogramm  bisher nicht möglich gewesen sein, machen Sie bitte die Angabe „War aktuell nicht möglich“.
 
 Eine Angabe in diesen Feldern führt **nicht** zum Ausschluss des Patienten aus dem Programm.
 

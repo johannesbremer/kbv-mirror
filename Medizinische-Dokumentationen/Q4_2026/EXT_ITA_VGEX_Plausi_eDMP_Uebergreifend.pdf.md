@@ -49,9 +49,8 @@
 | 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe  - Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, |
 | 9 | Datum2 2 | TT.MM.JJJJ | Pflichtfeld;  das Datum muss gleich oder kleiner zum |
 
-### Anlage 2
+Nr.  Institutionskennzeichen   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem „origination_dttm“ 22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein ### Anlage 2
 
-Nr.  Institutionskennzeichen   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem „origination_dttm“ 22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein
 
 ---
 
@@ -103,7 +102,7 @@ Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rü
 |  |  |  |  | |
 |  |  |  |  |  |
 
-Angaben der Anlage 12* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  3, 4 müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 7 7. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „Depression" nicht COPD , müssen zusätzlich die  3 COPD" nicht chronische Herzinsuffizienz chronischer Rückenschmerz Depression , müssen 3, 8 8. Erfolgt eine Angabe zu „Osteoporose“ , müssen zusätzlich die Angaben der Anlage 20* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 9 Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 60 Jahren, ist die Angabe „Osteoporose" nicht möglich.
+Angaben der Anlage 12* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  3, 4 müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 7 7. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „Depression" nicht COPD , müssen zusätzlich die  3 COPD" nicht chronische Herzinsuffizienz chronischer Rückenschmerz Depression , müssen 3, 8 8. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 20* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 60 Jahren, ist die Angabe „Osteoporose" nicht möglich. „Osteoporose“ , müssen 3, 9
 
 ---
 

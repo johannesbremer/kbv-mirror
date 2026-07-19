@@ -4,10 +4,12 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT 15. AUGUST 2025   VERSION: 1.14   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. AUGUST 2025   VERSION: 1.14   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-# ANFORDERUNGSKATALOG HAUTKREBS SCREENING (EHKS)
+**ANFORDERUNGSKATALOG HAUTKREBS-**
+
+# SCREENING (EHKS)
 
 ### [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EHKS]
 
@@ -53,7 +55,7 @@ INHALT
 
 **9**
 
-Pflichtfunktionen und optionale Funktionen der Software
+Pflichtfunktionen und optionale Funktionen der Software 
 
 
 ---
@@ -71,7 +73,7 @@ Die Vorgaben der Version 1.14 sind zum 1. Oktober 2025 umzusetzen.
 | 1.10 | 26.06.2018 | KBV | Streichung der Anforderungen | Abkündigung des |  |
 | 1.09 | 08.08.2017 | KBV | Streichung des Hinweises in | Anpassung an neue | 5 |
 | 1.08 | 02.08.2012 | KBV | Red. Änderungen | entfällt | alle |
-| 1.07 | 22.04.2010 | KBV | P2-50-Erstellung Versandliste    Neue Funktionen:  P2-70-Elektronische Versandliste P2-75-Anbindung an das EVL- P2-80-Druck des | Einführung |  |
+| 1.07 | 22.04.2010 | KBV | P2-50-Erstellung Versandliste    Neue Funktionen:  P2-70-Elektronische Versandliste  P2-75-Anbindung an das EVL- P2-80-Druck des | Einführung |  |
 | 1.06 | 13.01.2010 | KBV | P1-40: Bezeichnung |  | 6 |
 
 P2-30 des Schemas von 3.32 in 2.33 P1-60 P1-11 zum eVersandlistenmodul P1-10 entfallen Modul Bestätigungsschreibens Pflichtfunktion korrigiert Spezifikation für KIM der kv.digital Wertebereichs für den Parameter „Geschlecht des Patienten“ nach Änderung des Personenstandsgesetz (PstG) von Parameter- bezeichnungen Versandlistenmoduls Zertifizierungsrichtlinie der KBV eVersandlisten- Verfahren 
@@ -125,7 +127,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
-| **P1-10** | Vollständigkeit der Eingaben aller |
+| **P1-10** | Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten |
 
 - 1. Die Bedieneroberfläche der Hautkrebs-Screening-Software muss eine lückenlose und korrekte Eingabe  aller relevanten Bewegungsdaten bzgl. der eDokumentation Hautkrebs-Screening ermöglichen. Die in  der Schnittstellenbeschreibung [KBV_ITA_VGEX_Schnittstelle_eHKS] festgelegten Datenelemente  müssen vollständig erfassbar sein.
 - 2. Bezüglich der Ermittlung, Erfassung und Speicherung der Versicherteninformationen gelten alle  Vorgaben der Kapitel „Allgemeine Vorgaben“ (2.1), „Patientenstammdaten erfassen und verarbeiten“  (2.2) sowie „Kostenträger Stammdatei der KBV“ (6.1) in [KBV_ITA_VGEX_Anforderungskatalog_KVDT
@@ -162,7 +164,7 @@ Alter (des Versicherten): Das Alter des Versicherten kann systemseitig berechnet
 |---|---|
 | **K1-25** | Unterstützung von ergänzenden Verträgen der KVen |
 
-Stamm- und Bewegungsdaten ionsparameters „Verdachtsdiagno seND“
+ionsparameters „VerdachtsdiagnoseND“
 
 ---
 
@@ -196,9 +198,13 @@ Die Software muss sicherstellen, dass
 
 - eine Patientennummer nicht doppelt vergeben werden kann. Gibt der Anwender eine  Patientennummer ein, die systemseitig bereits für einen anderen Patienten existiert, so darf diese  Nummer nicht übernommen werden und das System muss mit einem entsprechenden Fehlerhinweis  den Anwender auffordern eine nicht existierende Patientennummer einzugeben.
 - Die gewählte Patientennummer maximal 8-stellig, alphanumerisch ist.
-- Das System kann dem Anwender eine bereits im System gespeicherte Patienten-ID (die den  vorgenannten formalen Anforderungen genügt), zur Übernahme in die eDokumentation Hautkrebs Screening vorschlagen.
+- Das System kann dem Anwender eine bereits im System gespeicherte Patienten-ID (die den  vorgenannten formalen Anforderungen genügt), zur Übernahme in die eDokumentation Hautkrebs-Screening vorschlagen.
 
 ---
+
+- Das System muss das administrative Geschlechts des Patienten im Element <administrative_gender_cd>  als Teil der administrativen Daten übermitteln.
+- die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben für den Export  vorbereiten,
+- sicherstellen, dass die vom Anwender einzureichende Datenlieferung mindestens aus einem  Datenarchiv besteht und exportierte Dokumentationsdatensätze innerhalb des Systems kennzeichnen.
 
 ## 2.2 VERSICHERTENINFORMATIONEN
 
@@ -212,11 +218,9 @@ Das administrative Geschlecht des Patienten ist zu übermitteln.
 
 **Begründung:**
 
-Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermittelt werden
+Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermittelt werden.
 
 **Akzeptanzkriterium:**
-
-- Das System muss das administrative Geschlechts des Patienten im Element <administrative_gender_cd>  als Teil der administrativen Daten übermitteln.
 
 Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Schnittstelle (siehe  Kapitel 6.10.6.2 [KBV_ITA_VGEX_Schnittstelle_eHeader]) abhängig.
 
@@ -247,13 +251,6 @@ Das System muss das jeweils gültige XPM einsetzen. Für nähere Erläuterungen 
 
 Das System muss,
 
-- die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen vorbereiten,
-- sicherstellen, dass die vom Anwender einzureichende Datenlieferung mindestens aus einem  Datenarchiv besteht und exportierte Dokumentationsdatensätze innerhalb des Systems kennzeichnen.
-- ] beschriebenen Vorgaben für den Export
-
-```
--
-```
 
 ---
 
@@ -274,8 +271,6 @@ Bis zur Anpassung des Schemas der Begleitdatei sind im Rahmen der Übermittlung 
 - verschluesselungssoftware\software-name\@V = XKM
 - verschluesselungssoftware\software-version\@V = 1.0.0
 - verschluesselungssoftware\software-hersteller\@V = KBV
-- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten  oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
-- 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
 
 **2.3.4** **Datenträgerbeschriftung und Transportbegleitzettel**
 
@@ -289,6 +284,9 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 |---|---|
 | **P2-60** | Erstellung Transportbegleitzettel |
 
+- 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten  oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
+- 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
+
 ---
 
 3 REFERENZIERTE DOKUMENTE
@@ -297,19 +295,18 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 |---|---|
 | **Referenz** | Dokument |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der |
-| [KBV_ITA_VGEX_Schnittstelle_eHeader | Schnittstellenbeschreibung Header für |
+| [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung Header für |
 | [KBV_ITA_VGEX_Schnittstelle_eHKS] | Krebsfrüherkennungsrichtlinie |
 | [KBV_ITA_VGEX_Plausi_eHKS] | Plausibilitätenkatalog der elektronischen |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [KBV_ITA_AHEX_Handbuch_Pruefmodul] | KBV-Prüfmodul XPM Anwenderhandbuch |
 | [KBV_ITA_VGEX_Anforderungskatalog_KVDT] | Anforderungskatalog KVDT |
-| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital   https://partnerportal.kv- |
+| [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital    https://partnerportal.kv- |
 
 **Ansprechpartner:**
 
-Dezernat Digitalisierung und IT
+Vertragsärztlichen Versorgung eDMP/a-Datensatz  Hautkrebs- Screening (eHKS) Dokumentation HautkrebsScreening telematik.de/spaces/KDK/pages/71095111/ Dokumente+zum+DownloadDezernat Digitalisierung und IT
 
-Vertragsärztlichen Versorgung eDMP/a-Datensatz  Hautkrebs- Screening (eHKS) Dokumentation HautkrebsScreening telematik.de/spaces/KDK/pages/71095111/ Dokumente+zum+Download
 
 ---
 

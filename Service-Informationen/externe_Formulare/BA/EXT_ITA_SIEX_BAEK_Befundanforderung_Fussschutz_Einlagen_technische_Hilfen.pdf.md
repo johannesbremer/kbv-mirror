@@ -69,7 +69,7 @@ elektrisch
 
 ---
 
-# Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des  Fußschutzes oder der technischen Hilfen
+# Begründung der Notwendigkeit (beispielweise: Diagnose, Funktionseinschränkungen, etc.) des  Fußschutzes oder der technischen Hilfen:
 
 ## Sofern orthopädisches Schuhwerk oder Einlagen beantragt wurde: Muss das Schuhwerk bzw. die  Einlagen ganztags getragen werden?
 

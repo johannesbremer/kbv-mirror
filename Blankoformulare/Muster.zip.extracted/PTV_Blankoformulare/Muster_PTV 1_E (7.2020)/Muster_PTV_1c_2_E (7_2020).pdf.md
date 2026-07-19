@@ -1,6 +1,6 @@
 Name, Vorname des Versicherten
 
-Kostenträgerkennung
+Kostenträgerkennung Versicherten-Nr.
 
 ### Informationen zum Antrags- und Gutachtenverfahren für Psychotherapie
 
@@ -20,15 +20,15 @@ Wird der Antrag gutachterlich geprüft, kann die Rückmeldung bis zu fünf Woche
 
 Der Bescheid Ihrer Krankenkasse enthält hierzu weitere Informationen.
 
-Daten nach § 292 SGB V in Bezug auf Ihren Antrag sowie Daten nach § 295 SGB V, die für die Abrechnung  ärztlicher und psychotherapeutischer Leistungen mit der Krankenkasse notwendig sind, werden spätestens nach zehn Jahren gemäß § 304 Absatz 1 Nummer 1 SGB V gelöscht.
+Daten nach § 292 SGB V in Bezug auf Ihren Antrag sowie Daten nach § 295 SGB V, die für die Abrechnung   ärztlicher und psychotherapeutischer Leistungen mit der Krankenkasse notwendig sind, werden spätestens nach  zehn Jahren gemäß § 304 Absatz 1 Nummer 1 SGB V gelöscht.
 
 **Wie läuft das Gutachtenverfahren ab?**
 
-Ihre Krankenkasse kann Ihren Antrag gutachterlich prüfen lassen. Manche Anträge müssen immer gutachterlich geprüft werden (zum Beispiel erstmaliger Antrag auf Langzeittherapie als Einzeltherapie). Ihr*e Therapeut*in
+Ihre Krankenkasse kann Ihren Antrag gutachterlich prüfen lassen. Manche Anträge müssen immer gutachterlich  geprüft werden (zum Beispiel erstmaliger Antrag auf Langzeittherapie als Einzeltherapie). Ihr*e Therapeut*in
 
 versendet hierzu Unterlagen, insbesondere einen kurzen Bericht zu Ihrer Erkrankung und zum Behandlungsplan,
 
-in einem verschlossenen Umschlag an die Krankenkasse. Die Krankenkasse leitet diesen zur gutachterlichen Prüfung weiter, ohne den Umschlag mit den Unterlagen zu öffnen. Gutachter*innen dürfen von Ihrer Krankenkasse
+in einem verschlossenen Umschlag an die Krankenkasse. Die Krankenkasse leitet diesen zur gutachterlichen  Prüfung weiter, ohne den Umschlag mit den Unterlagen zu öffnen. Gutachter*innen dürfen von Ihrer Krankenkasse
 
 folgende zusätzliche Informationen erhalten und in ihrer gutachterlichen Empfehlung an die Krankenkasse
 
@@ -46,7 +46,5 @@ Institution, Kostenträger)
 - Rehabilitative Verfahren der letzten vier Jahre (Diagnosen, Zeiträume, Institution, Kostenträger)
 
 Gutachter*innen erhalten keine Informationen zu Ihrem Namen, Adresse oder Versicherungsnummer.
-
-Versicherten-Nr.
 
 PRF.NR. Muster PTV 1c.2/E (7.2020)

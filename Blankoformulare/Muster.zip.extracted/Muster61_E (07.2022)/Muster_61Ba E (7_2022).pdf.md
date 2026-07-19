@@ -90,7 +90,7 @@ zu Lasten der GKV
 
 ***mind. zwei Funktionstests folgender unterschiedlicher Schädigungsbereiche***
 
-|  | Kognition | SchmerzHerz-/LungenfunktionMobilität |  |
+| Mobilität | Kognition | Schmerz | Herz-/Lungenfunktion |
 |---|---|---|---|
 | Chair |  | Schmerz- |  |
 | TUG sek **+** sek | MMST / 30 |  | WattErgometrie/10 |
@@ -99,7 +99,8 @@ zu Lasten der GKV
 | kg **oder** kpa | GDS 15 / 15 |  | FEV1 % **+** VK % |
 | kraft |  |  |  |
 |  | Uhren- |  | NYHA- |
-| DEMMI / 100 testTinetti/28 | / 7 |  | Stadium |
+| DEMMI / 100 Tinetti / 28 | / 7 |  |  |
+|  | test |  | Stadium |
 
 **D. Bisherige ärztliche/psychotherapeutische Interventionen sowie andere Maßnahmen***** (z. B. Patientenschulungen, Reha-***
 
@@ -121,4 +122,4 @@ Betriebsstätten-Nr. Arzt-Nr.
 
 Datum
 
-/ 28Krankenkasse bzw. Kostenträger
+Krankenkasse bzw. Kostenträger

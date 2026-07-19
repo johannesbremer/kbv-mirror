@@ -4,7 +4,7 @@
 
 **11**
 
-**Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehende n Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und derglei chen dem Medizinischen Dienst zur Verfügung zu stel len.*** ***Dieser Vordruck ist dann nicht auszufüllen, wenn sp ätestens am Tage der Begutachtung durch den Medizin ischen Dienst die*** ***Arbeitsunfähigkeit beendet ist.***
+**Bericht für den Medizinischen Dienst** ***Der behandelnde Arzt wird gebeten, den nachstehenden Berichtsvordruck auszufüllen und Röntgen-, Labor- und andere*** ***Spezialbefunde sowie Kankenhausberichte und dergleichen dem Medizinischen Dienst zur Verfügung zu stellen.*** ***Dieser Vordruck ist dann nicht auszufüllen, wenn spätestens am Tage der Begutachtung durch den Medizinischen Dienst die*** ***Arbeitsunfähigkeit beendet ist.***
 
 **Datum der letzten Untersuchung**
 
@@ -12,7 +12,11 @@
 
 **Befunde**
 
-**Mitbehandlung nein ja, im Fachbereich**
+**Mitbehandlung**
+
+**nein**
+
+**ja, im Fachbereich**
 
 **Behinderung**
 
@@ -28,6 +32,8 @@
 
 **Eine Begutachtung ist voraussichtlich nach**
 
+**Tagen / Wochen möglich.** ***(Nichtzutreffendes streichen)***
+
 **Arbeitsfähig ab**
 
 **Voraussichtlich arbeitsfähig ab**
@@ -37,8 +43,6 @@
 |  | Röntgen- |  | Ultraschall- |  |
 |---|---|---|---|---|
 |  | **befund** |  | **befund** |  |
-
-**Tagen / Wochen möglich.** ***(Nichtzutreffendes streichen)***
 
 **EKG-** **befund**
 
@@ -50,12 +54,10 @@
 
 **Sonstiges**
 
-**Für den Bericht des Arztes ist die** **Nr. 01621 EBM berechnungfähig**
+**Ausstellungsdatum** **Für den Bericht des Arztes ist die** **Nr. 01621 EBM berechnungfähig**
+
+**Vertragsarztstempel / Unterschrift des Arztes**
 
 **PRF.NR.** **Muster 11/E (1.2015)**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
-
-**Ausstellungsdatum**
-
-**Vertragsarztstempel / Unterschrift des Arztes**

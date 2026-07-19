@@ -59,7 +59,7 @@ Die eSammelerklärung muss im PDF/A-1b Format erstellt werden und ist vom Erklä
 
 Die signierte eSammelerklärung wird online per KIM an die KVSH gesendet.
 
-Die Sammelerklärung ist eine Anlage zum Gesamtvertrag. Gemäß § 35 Abs. 2 Satz 3 BMV -Ä kann der Arzt  anstelle seiner Unterschrift auf jedem einzelnen der KVSH zu übermittelnden Abrechnungsscheine eine  Sammelerklärung für alle Abrechnungsscheine des Quartals abgeben. Eine solche Sammelerklärung ist  Voraussetzung für die Entstehung des Anspruchs des Arztes auf Vergütung der von ihm erbrachten  Leistungen. Mit ihr versichert der Arzt, dass die Abrechnung sachlich richtig und vollständig erbracht wurde.  Sie übernimmt eine Garantiefunktion hinsichtlich einer sachlich richtigen Rechnungsstellung und der  persönlichen Leistungserbringung. Im Bedarfsfall wird die Sammelerklärung im Benehmen mit den  Krankenkassenverbänden angepasst.
+Die Sammelerklärung ist eine Anlage zum Gesamtvertrag. Gemäß § 35 Abs. 2 Satz 3 BMV-Ä kann der Arzt  anstelle seiner Unterschrift auf jedem einzelnen der KVSH zu übermittelnden Abrechnungsscheine eine  Sammelerklärung für alle Abrechnungsscheine des Quartals abgeben. Eine solche Sammelerklärung ist  Voraussetzung für die Entstehung des Anspruchs des Arztes auf Vergütung der von ihm erbrachten  Leistungen. Mit ihr versichert der Arzt, dass die Abrechnung sachlich richtig und vollständig erbracht wurde.  Sie übernimmt eine Garantiefunktion hinsichtlich einer sachlich richtigen Rechnungsstellung und der  persönlichen Leistungserbringung. Im Bedarfsfall wird die Sammelerklärung im Benehmen mit den  Krankenkassenverbänden angepasst.
 
 Es wird für alle Leistungserbringer die gleichlautende Sammelerklärung verwendet:
 
@@ -82,14 +82,14 @@ Wer hat eine Sammelerklärung einzureichen:
 -  die ärztliche Leitung bei ermächtigten Einrichtungen
 -  die ärztliche Leitung bei Laborgemeinschaften
 
-Die Sammelerklärung ist für die jeweilige Hauptbetriebsstätten einzureichen und beinhalten die jeweilige (n)  Nebenbetriebsstätte(n).
+Die Sammelerklärung ist für die jeweilige Hauptbetriebsstätten einzureichen und beinhalten die jeweilige(n)  Nebenbetriebsstätte(n).
 
 
 ---
 
 ## 4.3 Mitgeltende Dokumente
 
-Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elektronische  Sammelerklärung (eSE)1“, die im Rahmen einer KV -übergreifenden Arbeitsgruppe der KV Telematik ARGE  im Jahr 2010 definiert wurde.
+Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung „elektronische  Sammelerklärung (eSE)1“, die im Rahmen einer KV-übergreifenden Arbeitsgruppe der KV Telematik ARGE  im Jahr 2010 definiert wurde.
 
 [1](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)[https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/) Sammelerklärung.zip
 

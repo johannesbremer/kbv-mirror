@@ -11,15 +11,18 @@ Herbert-Lewin-Platz 2 10623 Berlin
 
 ---
 
-| Inhalt |  |
-|---|---|
-| **1 AN** | **FORDERUNGEN AN D IE SOFTW ARE -SYSTEM E DER LE ISTUNGSERBR INGER ............4** |
-| **2 VERB INDL** | **ICHKE IT VON AN FORDERUNGEN ..................................................................5** |
-| **3** | **VORAUSSETZUNGEN ....................................................................................................6** |
-| **4 AN** | **FORDERUNGEN AN DEN ABRUF VON ABRECHNUNGS IN FORM AT IONEN ..................7** |
-| **5 REFERENZEN** | **..............................................................................................................10** |
+**Inhalt**
 
-1 ANFORDERUNGEN AN DIE SOFTWARE-SYSTEME DER LEISTUNGSERBRINGER ............4 2 VERBINDLICHKEIT VON ANFORDERUNGEN ..................................................................5 3 VORAUSSETZUNGEN....................................................................................................6 4 ANFORDERUNGEN AN DEN ABRUF VON ABRECHNUNGSINFORMATIONEN ..................7 5 REFERENZEN ..............................................................................................................10
+**1 ANFORDERUNGEN AN DIE SOFTWARE-SYSTEME DER LEISTUNGSERBRINGER ............4**
+
+**2 VERBINDLICHKEIT VON ANFORDERUNGEN ..................................................................5**
+
+**3 VORAUSSETZUNGEN....................................................................................................6**
+
+**4 ANFORDERUNGEN AN DEN ABRUF VON ABRECHNUNGSINFORMATIONEN ..................7**
+
+**5 REFERENZEN ..............................................................................................................10**
+
 
 ---
 

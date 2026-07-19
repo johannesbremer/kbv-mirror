@@ -243,9 +243,9 @@ Tabelle 75: Element unz_kv_geltungsbereich .....................................
 
 # 1 Einleitung
 
-Die folgende Satzbeschreibung definiert einen Überblick über die Inhalte der Schnittstell e für  die Kostenträgerstammdatei. Die Angabe des Pfades für jeden Dateninhalt als XML  Ele-ment oder  Attribut erleichtert eine Orientierung innerhalb der Gliederung der Schnittstellen-beschreibung.
+Die folgende Satzbeschreibung definiert einen Überblick über die Inhalte der Schnittstelle für  die Kostenträgerstammdatei. Die Angabe des Pfades für jeden Dateninhalt als XML  Ele-ment oder  Attribut erleichtert eine Orientierung innerhalb der Gliederung der Schnittstellen-beschreibung.
 
-Die Elemente der Schnittstelle werden zur Vereinfachung des Verständnisses in diesem Do-kument visualisiert. Grundsätzlich liegt für jedes dargestellte Element der Schnittstelle eine  textliche Erläuterung vor. Dies gilt nicht für Elemente, in deren Namen das Wort “_liste“ ent-halten ist, da diese Elemente keinen Inhalt übermitteln, sondern zur automatisierten Vera rbei-tungssteuerung mit Standard  XML  Werkzeugen dienen.
+Die Elemente der Schnittstelle werden zur Vereinfachung des Verständnisses in diesem Do-kument visualisiert. Grundsätzlich liegt für jedes dargestellte Element der Schnittstelle eine  textliche Erläuterung vor. Dies gilt nicht für Elemente, in deren Namen das Wort “_liste“ ent-halten ist, da diese Elemente keinen Inhalt übermitteln, sondern zur automatisierten Verarbei-tungssteuerung mit Standard  XML  Werkzeugen dienen.
 
 # 2 Darstellung des Wurzelelements ehd
 
@@ -296,7 +296,7 @@ zugrundeliegende Schnittstellenversion.
 
 ### 2.1.1 Element id
 
-Das Element ***<id>*** ist ein eindeutiger Instanz  ment bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere  ID, und auch bei Korrekturen muss eine neue
+Das Element ***<id>*** ist ein eindeutiger Instanz  ment bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere  ID, und auch bei Korrekturen muss eine neue ID vergeben werden.
 
 | *diagram* | ** |
 |---|---|
@@ -309,11 +309,7 @@ Das Element ***<id>*** ist ein eindeutiger Instanz  ment bzw. jede XML-Datei wel
 
 Das Element ***<document_type_cd>*** beschreibt den Dokumenttyp, d.h. um welche Schnittstelle  bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt um kodierte Werte darzustellen.  Im vorliegenden Fall ist hier "KTS" einzutragen.
 
-Identifikator, mit welchem jedes XML
-
-ID vergeben werden.
-
-Doku-
+Identifikator, mit welchem jedes XML  Doku-
 
 
 ---
@@ -327,7 +323,7 @@ Doku-
 
 ### 2.1.3 Element service_tmr
 
-Das Element ***<service_tmr>*** beschreibt den Gültigkeitszeitraum der enthaltenen Daten. tenträgerstammdatei ist jeweils für ein Quartal gültig, anzugeben in Form von Tagesangaben  als von  bis  Intervallgrenzen.
+Das Element ***<service_tmr>*** beschreibt den Gültigkeitszeitraum der enthaltenen Daten. Die Kos-tenträgerstammdatei ist jeweils für ein Quartal gültig, anzugeben in Form von Tagesangaben  als von  bis  Intervallgrenzen.
 
 | *diagram* | ** |
 |---|---|
@@ -335,8 +331,6 @@ Das Element ***<service_tmr>*** beschreibt den Gültigkeitszeitraum der enthalte
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 
 **Tabelle 5: Element service_tmr**
-
-Die Kos-
 
 
 ---
@@ -354,13 +348,15 @@ Das Element ***<origination_dttm>*** beschreibt das Erstellungsdatum der Datei.
 
 ### 2.1.5 Element provider
 
-Eine Person oder Organisation, die das Dokument/Daten liefert/sendet oder weiterleitet. Damit  ist ***<provider>*** der Sender der Daten. Das Element  Herkunft der Daten ermittelt werden kann. Generell wird davon ausgegangen, dass der provi-der auch der Urheber ist, wenn zum Sender das Element  wenn der Urheber vom Absender untersc
+Eine Person oder Organisation, die das Dokument/Daten liefert/sendet oder weiterleitet. Damit  ist ***<provider>*** der Sender der Daten. Das Element  Herkunft der Daten ermittelt werden kann. Generell wird davon ausgegangen, dass der provi-der auch der Urheber ist, wenn zum Sender das Element  wenn der Urheber vom Absender unterscheidet, wird der Urheber mitangegeben.
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/001*** |
 
-heidet, wird der Urheber mitangegeben.
+***<provider>*** ist ein Pflichtelement, damit die
+
+***<originator>*** (Urheber) fehlt. Erst
 
 **Tabelle 7: Element provider**
 
@@ -376,13 +372,7 @@ Generell können Organisationsdaten in diesem Element untergebracht werden.
 
 ##### 2.1.5.1.1 Element id
 
-Das id-Element wird genauso gebildet wie das Dokument GUID angegeben werden muss.
-
-***<provider>*** ist ein Pflichtelement, damit die
-
-***<originator>*** (Urheber) fehlt. Erst
-
--ID, mit dem Unterschied, dass keine
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss.
 
 
 ---
@@ -392,26 +382,25 @@ Das id-Element wird genauso gebildet wie das Dokument GUID angegeben werden muss
 | ***namespace*** | ***urn:ehd/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  EX   ****derived by: ****required   ********RT   ****derived by: ****required   ********RTV   ****xs:string ****prohibited   ***** |
 
-**Tabelle 9: Element id**
+#### Tabelle 9: Element id
 
 ### 2.1.6 Element interface
 
-Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiese
+Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element  die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen.
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/001*** |
 
-**Tabelle 10: Element**
+#### Tabelle 10: Element
 
 #### 2.1.6.1 Element id
 
-Das id-Element wird genauso gebildet wie das Dokument GUID angegeben werden muss.
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine
 
--ID, mit dem Unterschied, dass keine
+### GUID angegeben werden muss.
 
 ***<interface>*** wird auf
-n.
 
 
 ---
@@ -421,7 +410,7 @@ n.
 | ***namespace*** | ***urn:ehd/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  EX   ****derived by: ****required   ********RTV   ****xs:string ****optional   ********RT   ****derived by: ****required   ***** |
 
-**Tabelle 11: Element id**
+#### Tabelle 11: Element id
 
 #### 2.1.6.2 Element interface.nm
 
@@ -432,20 +421,23 @@ Das Element ***<interface.nm>*** entsprechenden Schnittstellenbezeichnung steht.
 | ***namespace*** | ***urn:ehd/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: ****required   ***** |
 
-**Tabelle 12: Element interface.nm**
+#### Tabelle 12: Element interface.nm
 
 #### 2.1.6.3 Element version
 
-Das Element ***<version>*** enthält die Versionsnummer der Schnittstellenbezeichnung. Da sich  von Version zu Version auch Struktur und Inhaltsbedeutung der Daten ändern kann, sind zur  Kennzeichnung einer Schnittstelle immer Bezeichnung und Versionsnummer erforderlich.
+### Das Element <version> enthält die Versionsnummer der Schnittstellenbezeichnung. Da sich
+
+von Version zu Version auch Struktur und Inhaltsbedeutung der Daten ändern kann, sind zur
+
+Kennzeichnung einer Schnittstelle immer Bezeichnung und Versionsnummer erforderlich.
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: ****required   ***** |
 
-enthält die Bezeichnung der Schnittstelle als Text, wie er auf der
+xs:string xs:string enthält die Bezeichnung der Schnittstelle als Text, wie er auf der
 
-xs:string xs:string
 
 ---
 
@@ -496,7 +488,7 @@ Die Definitionen der Schlüsseltabellen „Keytab“ sind im
 
 |  | *SV    xs:string  required* |
 |---|---|
-| ***annotation*** | ***documentation *** Sclüsseltabelle mit S=OID, SN=Name der Schlüsseltabelle, SV=Version** |
+| ***annotation*** | ***documentation *** Sclüsseltabelle mit S=OID, SN=Name der Schlüsseltabelle, SV=Version ** |
 
 #### Tabelle 16: Element keytab
 
@@ -583,57 +575,37 @@ Verarbeitungsnummer (derzeitige KV-Interne Kassen- Nr. laut KBV-Schlüssel);  Ze
 
 ### 3.1.1 Element gueltigkeit
 
-Frühere Datenart: 100, 105, 900, 905
+Frühere Datenart: 100, 105, 900, 905, 145, 146
 
-Beschreibung: Das Element gueltigkeit Folgende Varianten sind möglich:
+Beschreibung: Das Element gueltigkeit enthält das Gültigkeitsdatum der Kassennummer.  Folgende Varianten sind möglich:
 
 1. z.B.: 2006-10-01.. für nicht beendete oder fusionierte Kassen
 2. z.B.: 1990-10-01..2006-09-30 für eine beendete oder fusionierte Kasse
 
-Alte Feldbezeichnung: Feldkennung  (DA 100, 105, 900, 905), entspricht Feldkennung 146)
+Alte Feldbezeichnung: Feldkennung KK-OFF-DATUM-Z8 (DA 100, 105, 900, 905), entspricht Feldkennung 146)
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 
-, 145, 146
+und eventuell KK-REWI-DATUM-X8  2025 und 2026 (DA 145), service_tmr (DA
 
-```
-KK-OFF-DATUM-Z8
-```
-
-**Tabelle 21: Element**
+**Tabelle 21: Element gueltigkeit**
 
 ### 3.1.2 Element letzte_aenderung
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Im Element  erfassungsdatum
+Beschreibung: Im Element letzte_aenderung erfassungsdatum enthalten.
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 
-**Tabelle 22: Element**
+**Tabelle 22: Element letzte_aenderung**
 
-**gueltigkeit**
-
-letzte_aenderung enthalten.
-
-**letzte_aenderung**
-
-enthält das Gültigkeitsdatum der Kassennummer.
-
--
-
--
-
-und eventuell KK-REWI-DATUM-X8 2025 und 2026 (DA 145), service_tmr (DA
-
-sind das wirksamkeitsdatum
-
-und das
+sind das wirksamkeitsdatum und das
 
 
 ---
@@ -642,7 +614,7 @@ und das
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element wirksamkeitsdatum rung gültig ist. Das wirksamkeitsdatum hat folgendes Format: z.B.: 2006
+Beschreibung: Das Element wirksamkeitsdatum rung gültig ist. Das wirksamkeitsdatum hat folgendes Format: z.B.: 2006-10-01..
 
 Alte Feldbezeichnung: Feldkennung KK-AEN-DATUM-Z8
 
@@ -650,7 +622,7 @@ Alte Feldbezeichnung: Feldkennung KK-AEN-DATUM-Z8
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
-| ***annotation*** | ***documentation  Wirksamkeit der letzten Änderung (V=KK documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' ***** |
+| ***annotation*** | ***documentation  Wirksamkeit der letzten Änderung (V=KK-AEN-DATUM- documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' ***** |
 
 gibt an, ab welchem Zeitpunkt die Ände-
 
@@ -662,21 +634,17 @@ gibt an, ab welchem Zeitpunkt die Ände-
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Im Element erfassungsdatum Änderung vorgenommen worden ist.
+Beschreibung: Im Element erfassungsdatum wird das Datum angegeben, an dem die letzte  Änderung vorgenommen worden ist.
 
-Alte Feldbezeichnung: Feldkennung KK-MASCH-DATUM-Z8
+Alte Feldbezeichnung: Feldkennung KK-MASCH-DATUM-Z8 (DA 100, 105, 900, 905)
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
-| ***annotation*** | ***documentation  Maschinendatum der letzten Durchführung  documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' ***** |
+| ***annotation*** | ***documentation  Maschinendatum der letzten Durchführung - Stammsatzeröffnung oder Änderung (V=KK-MASCH- documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' ***** |
 
-wird das Datum angegeben, an dem die letzte (DA 100, 105, 900, 905)
-
--10-01..
-
-Z8) -AEN-DATUM- DATUM-Z8) - Stammsatzeröffnung oder Änderung (V=KK -MASCH-**Tabelle 24: Element erfassungsdatum**
+Z8) DATUM-Z8) **Tabelle 24: Element erfassungsdatum**
 
 
 ---
@@ -685,9 +653,9 @@ Z8) -AEN-DATUM- DATUM-Z8) - Stammsatzeröffnung oder Änderung (V=KK -MASCH-**Ta
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element vertrags_kv den Vertrag geschlossen hat, und ist identisch mit der
+Beschreibung: Das Element vertrags_kv den Vertrag geschlossen hat, und ist identisch mit der zahlungspflichtigen KV-Landesstelle.
 
-Alte Feldbezeichnung: Feldkennungen  905; Zusammenlegung der Felder, da Inhalte identisch
+Alte Feldbezeichnung: Feldkennungen  905; Zusammenlegung der Felder, da Inhalte identisch)
 
 Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüsseltabelle ist.
 
@@ -716,17 +684,12 @@ Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüs
 
 enthält die KV-Nummer der KV, die mit der Kasse
 
-```
-VERT-KV-X3
-```
-
-zahlungspflichtigen KV-Landesstelle.
-
-und ZPFL-KV-Z2 (DA 100, 105, 900,
+VERT-KV-X3 und ZPFL-KV-Z2
 
 enthält die KV-Nummer der KV, die für (DA 100, 105, 900, 905)
 
-xs:string
+xs:string (DA 100, 105, 900,
+
 
 ---
 
@@ -854,9 +817,8 @@ suchname
 
 enthält den Suchnamen der Kasse für die schnellere
 
-(DA 145), Kassensuchname (DA 146)
+NAME-X18 (DA 145), Kassensuchname (DA 146)
 
-NAME-X18
 
 ---
 
@@ -942,7 +904,7 @@ Folgende Varianten sind möglich:
 1. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines Institutionskennzeichen
 2. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions-
 - kennzeichen
-3. z.B.: ..2006-09-30 Endedatum der Gültigkeit des Institu
+3. z.B.: ..2006-09-30 Endedatum der Gültigkeit des Institutionskennzeichen
 
 Alte Feldbezeichnung: Feldkennung
 
@@ -955,11 +917,7 @@ Alte Feldbezeichnung: Feldkennung
 
 enthält den Gültigkeitszeitraum des Institutions-
 
-2027 und 2033 (DA 145),
-
-- tionskennzeichen
-
-service_tmr (DA 146)
+2027 und 2033 (DA 145), service_tmr (DA 146)
 
 
 ---
@@ -968,7 +926,7 @@ service_tmr (DA 146)
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Im Element  oder aufgelöst worden ist. Bei einer Fusion ist im V -Auflösung ist der Wert „A“ enthalten.
+Beschreibung: Im Element  oder aufgelöst worden ist. Bei einer Fusion ist im V-Auflösung ist der Wert „A“ enthalten.
 
 Alte Feldbezeichnung: Feldkennung
 
@@ -976,7 +934,7 @@ Alte Feldbezeichnung: Feldkennung
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: ****required   ********documentati- KK-ART-X2  documentati- F = Fusion, A ***** |
-| ***annotation*** | ***documentation  Art der Existenzbeendigung***** |
+| ***annotation*** | ***documentation  Art der Existenzbeendigung ***** |
 
 **Tabelle 37: Element existenzbeendigung**
 
@@ -995,21 +953,15 @@ xs:string = Auflösung
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element letztes_quartal Kassennummer an. Es muss das Format YYYYQ haben.
+Beschreibung: Das Element letztes_quartal Kassennummer an. Es muss das Format YYYYQ haben.  gibt das letzte Abrechnungsquartal dieser
 
-Alte Feldbezeichnung: Feldkennung
+Alte Feldbezeichnung: Feldkennung ABR-QRT
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: ****required   ********documentati- Quartal (For-***** |
-| ***annotation*** | ***documentation  Letztes Quartal der maschinellen Abrechnungsfähigkeit im FKZ (V=ABR***** |
-
-gibt das letzte Abrechnungsquartal dieser
-
-```
-ABR-QRT
-```
+| ***annotation*** | ***documentation  Letztes Quartal der maschinellen Abrechnungsfähigkeit im FKZ (V=ABR-QRT) ***** |
 
 **Tabelle 38: Element letztes_quartal**
 
@@ -1019,7 +971,9 @@ Frühere Datenart: 100, 105, 900, 905, 145, 146
 
 Beschreibung: Das Element aufnehmender_kostentraeger sich um eine Fusion handelt. In diesem Fall enthält das Element die Kassennummer in welche  die Kasse fusioniert ist.
 
-Alte Feldbezeichnung: Feldkennung AUFN-KK-VKNR 2028 (DA 145), aufnehmender_kostentraeger
+ist nur vorhanden, wenn es
+
+Alte Feldbezeichnung: Feldkennung AUFN-KK-VKNR 2028 (DA 145), aufnehmender_kostentraeger (DA 100, 105, 900, 905), Feldkennung  (DA 146)
 
 Prüfung: Die angegebene Kassennummer muss in der Kostenträgerliste vorhanden sein.
 
@@ -1029,13 +983,8 @@ Prüfung: Die angegebene Kassennummer muss in der Kostenträgerliste vorhanden s
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****kts:vknr_typ ****required   ********documentation  AUFN-KK-VKNR ***** |
 | ***annotation*** | ***documentation *** Aufnehmende Kasse (AUFN-KK-X6) ** |
 
-**Tabelle 39: Element aufnehmender_kostentraeger**
+xs:string mat: YYYYQ) **Tabelle 39: Element aufnehmender_kostentraeger**
 
-(DA 100, 105, 900, 905), Feldkennung  (DA 146)
-
-ist nur vorhanden, wenn es
-
-xs:string -QRT) mat: YYYYQ)
 
 ---
 
@@ -1071,13 +1020,13 @@ Prüfung: Das Element adresse muss mindestens einmal und kann maximal zweimal au
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  R   ****derived by: ****required   ********documentati- Art der Adres-***** |
-| ***annotation*** | ***documentation  CTY = ORT-X30; STR = STR-X30; PLZ = PLZ_ORT (Hausanschrift) documentation  CTY = Ort-Postfach; PBO = POSTFACH; PLZ = PLZ_Postfach (Postfachan-***** |
+| ***annotation*** | ***documentation  CTY = ORT-X30; STR = STR-X30; PLZ = PLZ_ORT (Hausanschrift)  documentation  CTY = Ort-Postfach; PBO = POSTFACH; PLZ = PLZ_Postfach (Postfachan-***** |
+
+adresse wird angegeben ob es sich bei der Ad-Attribut „anschrift
 
 **Tabelle 41: Element adresse**
 
-adresse wird angegeben ob es sich bei der Ad-Attribut „anschrift“) oder ein Postfach (Wert vom
-
-xs:string eigentlichen Informationen
+xs:string “) oder ein Postfach (Wert vom  eigentlichen Informationen
 
 
 ---
@@ -1228,7 +1177,7 @@ ist das Kennzeichen des Praxisnetzes eingetragen.
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Im Element basiskasse Praxisnetze existieren bislang nur in der KV Bayerns. ist die Basiskasse des Praxisnetzes angegeben.
+Beschreibung: Im Element basiskasse Praxisnetze existieren bislang nur in der KV Bayerns.  ist die Basiskasse des Praxisnetzes angegeben.
 
 Alte Feldbezeichnung: Feldkennung BASISKASSE-VKNR
 
@@ -1292,7 +1241,7 @@ Frühere Datenart: 100, 105, 900, 905
 
 Beschreibung: Das Element ik enthält das Institutionskennzeichen der entsprechenden Da-tenannahmestelle.
 
-Alte Feldbezeichnung: Feldkennung
+Alte Feldbezeichnung: Feldkennung DAV-IK-Kasse
 
 | *diagram* | ** |
 |---|---|
@@ -1300,10 +1249,6 @@ Alte Feldbezeichnung: Feldkennung
 | ***properties*** | ***content   complex ***** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****kts:iknummer_typ ****required   ********documentati- IK-Nummer ********R   ****derived by: xs:string ****optional   ***** |
 | ***annotation*** | ***documentation *** Institutionskennzeichen ** |
-
-```
-DAV-IK-Kasse
-```
 
 **Tabelle 53: Element ik**
 
@@ -1315,7 +1260,7 @@ Beschreibung: Das Element gueltigkeit kennzeichen der jeweiligen Datenannahmeste
 
 Folgende Varianten sind möglich:
 
-4. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines
+4. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines Institutionskennzeichen
 1. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions-kennzeichen
 
 | *diagram* | ** |
@@ -1327,13 +1272,7 @@ Folgende Varianten sind möglich:
 
 enthält das Gültigkeitsdatum des Institutions-
 
-```
-DAV-IK-Land
-```
-
-- Institutionskennzeichen
-
-und DAV-IK-Bund
+DAV-IK-Land und DAV-IK-Bund
 
 
 ---
@@ -1348,7 +1287,7 @@ Beschreibung: Das Element  Kürzel und Bezeichnung.
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:string ****optional   ********documentati- EBS-Kürzel ********DN   ****xs:string ****optional   ********documentati- EBS-***** |
-| ***annotation*** | ***documentation *** EBS - Enschlüsselungsberechtigte Stelle** |
+| ***annotation*** | ***documentation *** EBS - Enschlüsselungsberechtigte Stelle ** |
 
 ebs enthält die Entschlüsselungsberechtigte Stelle eventuell mit
 
@@ -1381,7 +1320,7 @@ Bezeichnung
 
 Frühere Datenart: 100, 105, 900, 905, 145, 146
 
-Beschreibung: Das Element gueltigkeit kennzeichen der Entschlüsselungsberechtigten Stelle. enthält das Gültigkeitsdatum des Institutions-
+Beschreibung: Das Element gueltigkeit kennzeichen der Entschlüsselungsberechtigten Stelle.  enthält das Gültigkeitsdatum des Institutions-
 
 Folgende Varianten sind möglich:
 
@@ -1408,7 +1347,7 @@ Beschreibung: Das Element ebs enthält die Entschlüsselungsberechtigte Stelle e
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:string ****optional   ********documentati- EBS-Kürzel ********DN   ****xs:string ****optional   ********documentati- EBS-***** |
-| ***annotation*** | ***documentation *** EBS - Enschlüsselungsberechtigte Stelle** |
+| ***annotation*** | ***documentation *** EBS - Enschlüsselungsberechtigte Stelle ** |
 
 Bezeichnung #### Tabelle 58: Element ebs
 
@@ -1440,7 +1379,7 @@ Beschreibung: Das Element gueltigkeit kennzeichen der Entschlüsselungsberechtig
 
 Folgende Varianten sind möglich:
 
-6. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines
+6. z.B.: 2006-10-01.. Beginndatum der Gültigkeit eines Institutionskennzeichen
 3. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Institutions-kennzeichen
 
 | *diagram* | ** |
@@ -1449,8 +1388,6 @@ Folgende Varianten sind möglich:
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 
 enthält das Gültigkeitsdatum des Institutions-
-
-- Institutionskennzeichen
 
 
 ---
@@ -1478,7 +1415,7 @@ Prüfung: Das Unterelement versicherte muss genau dreimal vorkommen.
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element versicherte tengruppe Mitglieder, Familienversicherte und Rentner
+Beschreibung: Das Element versicherte enthält jeweils die Mitgliederzahlen der Versicher-tengruppe Mitglieder, Familienversicherte und Rentner.
 
 Alte Feldbezeichnung: Feldkennung ALLG-VS-MG-Z7, ALLG-VS-FA-Z7, ALLG-VS-RV-Z7
 
@@ -1487,8 +1424,6 @@ Prüfung: Der Wert des R-Attributs muss eindeutig sein.
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
-
-enthält jeweils die Mitgliederzahlen der Versicher-
 
 sind die Mitgliederzahlen der Kasse
 
@@ -1564,22 +1499,20 @@ Nummer.
 
 Alte Feldbezeichnung: Feldkennung
 
-Prüfung: Die KV-Nummer muss laut Schlüsseltabelle S_KBV_
+Prüfung: Die KV-Nummer muss laut Schlüsseltabelle S_KBV_KV korrekt sein.
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***properties*** | ***isRef   0  minOcc   21  maxOcc   21  content   complex ***** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****kts:kvnr_typ ****required   ********S   ****derived by: ****optional   ***** |
-| ***annotation*** | ***documentation  KV_BEZ_WOP_01, KV_BEZ_WOP_02 ... KV_BEZ_WOP_98 documentation  WOP-Zuordnung KV-Landesstelle ***** |
+| ***annotation*** | ***documentation  KV_BEZ_WOP_01, KV_BEZ_WOP_02 ... KV_BEZ_WOP_98  documentation  WOP-Zuordnung KV-Landesstelle ***** |
 
 enthält alle für diese Kasse gültigen KV-
 
 enthält eine für diese Kassennummer gültige KV-
 
-KV_BEZ_WOP_01 bis KV_BEZ_WOP_98
-
-xs:string KV korrekt sein.
+xs:string KV_BEZ_WOP_01 bis KV_BEZ_WOP_98
 
 
 ---
@@ -1634,7 +1567,7 @@ xs:string enthält alle Bewertungsfelder. Die  ) muss eindeutig sein.
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element bewertungsfeld nummer und im V -Attribut die Bewertung inklusive Vorzeichen. Das Vorzeichen wird lediglich  angegeben, wenn es negativ ist. Die Bewertung selbst kann maximal 9 Zeichen beinhalten  und schließt 5 Nachkommastellen ein. Im U-Attribut des Elements ist angegeben, ob es sich  um einen Punktwert (Wert des U-Attributs „1“) oder eine Quote (Wert des U delt.
+Beschreibung: Das Element bewertungsfeld nummer und im V-Attribut die Bewertung inklusive Vorzeichen. Das Vorzeichen wird lediglich  angegeben, wenn es negativ ist. Die Bewertung selbst kann maximal 9 Zeichen beinhalten  und schließt 5 Nachkommastellen ein. Im U-Attribut des Elements ist angegeben, ob es sich  um einen Punktwert (Wert des U-Attributs „1“) oder eine Quote (Wert des U delt.
 
 Beispiele:
 
@@ -1646,7 +1579,7 @@ es handelt sich hier um das Bewertungsfeld 1 mit einer Quote von 100%
 
 2. ***<bewertungsfeld V="474000" RT="50" U="1"/>***
 
-es handelt sich hier um das Bewertungsfeld 50 mit einem Punktwert von
+es handelt sich hier um das Bewertungsfeld 50 mit einem Punktwert von 4,47 Cent
 
 3. ***<bewertungsfeld V="-552000" RT="25" U="1"/>***
 
@@ -1656,7 +1589,7 @@ Alte Feldbezeichnung: Feldkennung  S8
 
 | *diagram* | ** |
 |---|---|
-| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: xs:string ****required   ***** documentation  1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-  ***RT   ****derived by: ****required   ***** documentation  Bewertungsfeldnummer (1-50)  ***DN   ****derived by: xs:string ****optional   ***** documentation  Anzahl der Nachkommastellen ***U   ****derived by: xs:string ****required   ***** documentation  1 - Punktwert, 2 - Quote  ** |
+| ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: xs:string ****required   ***** documentation  1-BEW-S8, 2-BEW-S8 ... 50-BEW-S8 inklusi-  ***RT   ****derived by: ****required   ***** documentation  Bewertungsfeldnummer (1-50)  ***DN   ****derived by: xs:string ****optional   ***** documentation  Anzahl der Nachkommastellen  ***U   ****derived by: xs:string ****required   ***** documentation  1 - Punktwert, 2 - Quote  ** |
 | ***annotation*** | ***documentation ****1-BEW-S9, 2-BEW-S9 ... 50-BEW-S9  documentation  Bewertungsfeld* |
 
 enthält im RT-Attribut die Bewertungsfeld-
@@ -1669,9 +1602,7 @@ Attributs „2“) han-
 
 -
 
-bis 50-BEW-VZ 4,47 Cent
-
-5,52 Cent
+bis 50-BEW-VZ 5,52 Cent
 
 xs:positiveInteger ve dem Vorzeichen und 50-BEW-
 
@@ -1781,7 +1712,7 @@ Alte Feldbezeichnung: Feldkennung
 
 reich_liste (DA 146)
 
-Prüfung: Der Wert muss laut Schlüsseltabelle S_KTS_ABRECHNUNGSBEREICH sein.
+Prüfung: Der Wert muss laut Schlüsseltabelle S_KTS_ABRECHNUNGSBEREICH korrekt  sein.
 
 | *diagram* | ** |
 |---|---|
@@ -1791,8 +1722,7 @@ Prüfung: Der Wert muss laut Schlüsseltabelle S_KTS_ABRECHNUNGSBEREICH sein.
 
 2008 (DA 145), KostentraegerAbrechnungsbe-
 
-xs:string xs:string korrekt
-
+xs:string xs:string
 
 ---
 
@@ -1852,9 +1782,9 @@ abrechnungsbereichs.
 Folgende Varianten sind möglich:
 
 1. z.B.: 2006-10-01.. Beginndatum der Gültigkeit des Kostenträgerabrechnungsbereich
-2. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Ko
+2. z.B.: 1990-10-01..2006-09-30 Beginn und Endedatum der Gültigkeit des Kostenträgerab-
 - rechnungsbereichs.
-3. z.B.: ..2006-09-30 Endedatum der Gültigkeit des
+3. z.B.: ..2006-09-30 Endedatum der Gültigkeit des Kostenträgerabrechnungsbereichs
 
 Alte Feldbezeichnung: Feldkennung
 
@@ -1871,7 +1801,7 @@ Frühere Datenart: 145, 146
 
 Alte Feldbezeichnung: Feldkennung (DA 146)
 
-Prüfung: Die im Element unz_kv_geltungsbereich Kasse auftreten und muss in der Schlüsseltabelle S_KBV_KV vorhanden sein
+Prüfung: Die im Element unz_kv_geltungsbereich Kasse auftreten und muss in der Schlüsseltabelle S_KBV_KV vorhanden sein.
 
 | *diagram* | ** |
 |---|---|
@@ -1879,29 +1809,15 @@ Prüfung: Die im Element unz_kv_geltungsbereich Kasse auftreten und muss in der 
 
 enthält den Gültigkeitszeitraum des Kostenträger-
 
-2039 und 2040
+2039 und 2040 (DA 145), service_tmr
 
-2029 (DA 145),
+2029 (DA 145), unz_kv_geltungsbereich_list
 
-- Kostenträgerabrechnungsbereichs (DA 145), service_tmr
-
-```
-unz_kv_geltungsbereich_list
-```
-
-angegebene KV darf nur einmal pro
-
-**Tabelle 77: Element unz_kv_geltungsbereich_liste**
-
--
-
-- stenträgerab-
-
--
-
-(DA 146)
+angegebene KV darf nur einmal pro (DA 146)
 
 e
+
+**Tabelle 77: Element unz_kv_geltungsbereich_liste**
 
 
 ---
@@ -1910,7 +1826,7 @@ e
 
 Frühere Datenart: 145, 146
 
-Beschreibung: Darf ein Kostenträger nicht bundesweit, sondern lediglich in einem ( oder meh-reren) KV-Gebieten abgerechnet werden, dann wird bei einem solchen Kostenträger der  “nicht zulässige KV Geltungsbereich” im Element  geben. Dies kann vor allem im Bereich der Sonstigen Kostenträger (SKT) vorkommen
+Beschreibung: Darf ein Kostenträger nicht bundesweit, sondern lediglich in einem (oder meh-reren) KV-Gebieten abgerechnet werden, dann wird bei einem solchen Kostenträger der  “nicht zulässige KV Geltungsbereich” im Element  geben. Dies kann vor allem im Bereich der Sonstigen Kostenträger (SKT) vorkommen.
 
 Alte Feldbezeichnung: Feldkennung 2029 (DA 145),
 

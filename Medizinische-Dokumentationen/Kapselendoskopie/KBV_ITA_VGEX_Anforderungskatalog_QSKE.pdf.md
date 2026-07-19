@@ -1,17 +1,17 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Anforderungskatalog QS Kap-* |
-|  | [KBV_ITA_VGEX_Anforderungskatalog_QS |
+|  | [KBV_ITA_VGEX_Anforderungskatalog_QSKE] |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
-|  | 10623 Berlin, |
+|  | 10623 Berlin, Herbert-Lewin-Platz 2 |
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version  1.03 |
 
-selendoskopie KE] Herbert-Lewin-Platz 2 Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft 
+selendoskopie Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft 
 
 
 ---
@@ -49,7 +49,7 @@ le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1- 263 g
 
 **1.1** **Zielbestimmung ............................................................................................................................. 5**
 
-**1.2** **Pflichtfunktionen und optionale Funktionen der Software** **....................................................... 5**
+**1.2** **Pflichtfunktionen und optionale Funktionen der Software ....................................................... 5**
 
 **2** **ÄRZTLICHES DOKUMENTIEREN**
 
@@ -322,7 +322,7 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Hinweis:**
 
-Wenn eine KV für das Verfahren QSKE das KIM
+Wenn eine KV für das Verfahren QSKE das KIM-Verfahren gemäß der
 
 Spezifikation_eDoku_KIM
 
@@ -353,11 +353,9 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 
 ] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
 
-- Spezifikation_eDoku_KIM -Verfahren gemäß der
+- Spezifikation_eDoku_KIM
 
-Spezifikation_eDoku_KIM] an
-
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. -
+cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Spezifikation_eDoku_KIM] an
 
 
 ---
@@ -404,11 +402,11 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 | Referenz | Dokument |
 |---|---|
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
-| [KBV_ITA_VGEX_Schnittstelle_ QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |
-| [KBV_ITA_AHEX_Ausfuellhinweise_QSKE] | Ausfüllhinweise zur Jahresstatistik für |
-| [KBV_ITA_VGEX_Plausi_QSKE ] | Berechnungsvorschriften zur Jahresstatistik für Kap- |
+| [KBV_ITA_VGEX_Schnittstelle_QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |
+| [KBV_ITA_AHEX_Ausfuellhinweise_QSKE] | Ausfüllhinweise zur Jahresstatistik für Kapselendosko- |
+| [KBV_ITA_VGEX_Plausi_QSKE] | Berechnungsvorschriften zur Jahresstatistik für Kap- |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
 
-Versorgung Kapselendosko-
+Versorgung

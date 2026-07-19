@@ -1,7 +1,7 @@
 |  | *IT in der Arztpraxis* |
 |---|---|
 |  | *Anforderungskatalog* |
-|  | [KBV_ITA_VGEX_Anforderungskatalog_QS |
+|  | [KBV_ITA_VGEX_Anforderungskatalog_QSHLT] |
 |  |  |
 |  | Dezernat Digitalisierung und IT |
 |  |  |
@@ -12,7 +12,7 @@
 |  | Version  1.04 |
 |  |  |
 
-Hol- mium-Laser-Therapie HLT] Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft 
+Hol- mium-Laser-Therapie Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft 
 
 
 ---
@@ -71,11 +71,11 @@ Abbildungsverzeichnis
 
 ---
 
-# 1 Qualitätssicherungsvereinbarung Holmium Laser Therapie
+# 1 Qualitätssicherungsvereinbarung Holmium
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Holmium-Laser-Therapie (QSHLT) [1] eingesetzt wird. Es wird eine arztbezogene  Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Holmium-Laser-Therapie (QSHLT)  Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
@@ -91,6 +91,10 @@ Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Kate
 **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
+
+# Laser Therapie
+
+[1] eingesetzt wird. Es wird eine arztbezogene
 
 **Vorschriftsmäßigkeit**
 
@@ -114,9 +118,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
-Ident-Nummer einer optionalen Funktion Ident
-
-(2-70) -Nummer einer älteren Version
+(2-70) Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 
 ---
@@ -135,13 +137,13 @@ Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe 
 
 Die in der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_QSHLT] erfassbar sein.
 
-QS  festgelegten Datenelemente müssen
+QS  festgelegten Datenelemente
 
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
 | **P1-20** | **Berichtszeiträume** |
 
-Die Behandlungsfälle werden erstmals zwei Quartal nach Inkrafttreten der QS -Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
+Die Behandlungsfälle werden erstmals zwei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
 Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge-führt werden.
 
@@ -161,7 +163,7 @@ Melde-
 
 Abbildung 1: Berichtszeiträume
 
-Holmium-Laser-Therapie  vollständig 31.03
+Holmium-Laser-Therapie  müssen vollständig 31.03
 
 30.06
 
@@ -196,19 +198,15 @@ Die erstellte Jahresstatistik muss  [KBV_ITA_VGEX_Plausi_QSHLT] entsprechen.
 |---|---|
 | **P1-210** | **Fehlerbehandlung bei Plausibilitäten** |
 
-Die Jahresstatistik wird gegen die Plausibilitäten  und Warnungen und ggf. Fehlermeldungen werden dem
+Die Jahresstatistik wird gegen die Plausibilitäten  und Warnungen und ggf. Fehlermeldungen werden dem Anwender angezeigt.
 
 Über die Plausibilitäten in den Pflichtfeldern darf der Anwender sich nicht hinwegsetzen, die  nicht valide Dokumentation darf nicht an die Datenannahmestelle weitergereicht werden.
 
-den vorgegebenen
-
-[KBV_ITA_VGEX_Plausi_QSHLT] Anwender angezeigt.
-
 der gesetzli-
 
-Plausibilitäten
+den vorgegebenen Plausibilitäten
 
-geprüft
+[KBV_ITA_VGEX_Plausi_QSHLT] geprüft
 
 
 ---
@@ -225,7 +223,7 @@ Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuscha
 |---|---|
 | **P1-310** | **Drucken der Jahresstatistik** |
 
-Der Anwender muss die Möglichkeit haben die generierte
+Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik auszudrucken.
 
 ### 2.1.4 Speichern
 
@@ -241,12 +239,7 @@ Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehle
 |---|---|
 | **P1-500** | **Ändern der Jahresstatistik** |
 
-Das System muss sicherstellen, dass der Anwender  des Prüfquartals ändern kann.
-
-Jahresstatistik auszudrucken.
-
-alle Daten zur Jahresstatistik bis Ende
-
+Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
 ---
 
@@ -302,15 +295,15 @@ Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstü
 
 **Hinweis:**
 
-Wenn eine KV  Spezifikation_eDoku_KIM trag.
+Wenn eine KV für
 
-für das Verfahren  ] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
+Spezifikation_eDoku_KIM trag.
 
 | Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
 | **K KP2-264** | **E-Mail Rückmeldung Importstatus  von der Datenannahmestelle** |
 
-Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten. Beim Importieren wird die Verordnungs Import-Status und ggf. Fehlermeldungen wird erstellt.
+Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten. E-Mail-Versand.  Beim Importieren wird die Verordnungs-Datei geprüft und eine E-Mail KIM-Nachricht mit dem  Import-Status und ggf. Fehlermeldungen wird erstellt.
 
 Es sind folgende Import-Status möglich:
 
@@ -320,7 +313,7 @@ Es sind folgende Import-Status möglich:
 | Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht  P1-20) übermittelt. |
 
-Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender  von der aus der Anwender (Arzt) die exportierten Dateien über  hat.
+Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
 
 Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig-neter Weise anzeigen.
 
@@ -329,7 +322,7 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 - (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-E-Mail-Versand.  -Datei geprüft und eine E-Mail KIM-Nachricht mit dem
+das Verfahren  ] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
 
 ### 2.2.2 Export der Daten
 
@@ -343,16 +336,11 @@ Das System muss
 
 QSHLT das KIM-Verfahren gemäß der
 
-Versand  Spezifikation_eDoku_KIM] an
+Spezifikation_eDoku_KIM] an
 
-Adresse geschickt,  KV-Connect KIM übermittelt
+Adresse geschickt,
 
-```
--
--
-```
-
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist. gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb de s Berichtszeitraumes (s. - exportieren,
+cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb des Berichtszeitraumes (s. - exportieren,
 
 
 ---

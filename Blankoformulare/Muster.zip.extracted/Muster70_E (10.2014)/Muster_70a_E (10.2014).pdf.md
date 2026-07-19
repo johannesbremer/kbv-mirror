@@ -30,7 +30,7 @@
 
 ### III Kostenschätzung
 
-**Alle Angaben stehen unter dem Vorbehalt einer nacht** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
+**Alle Angaben stehen unter dem Vorbehalt einer nachträglichen Änderung der diagnostischen und therapeutischen Einzelfallerfordernisse.** **Auflistung der Positionen ggf. auf separatem Beiblatt. Kostenschätzungen sind als durchschnittliche Kostenspanne in Euro anzugeben.**
 
 **a Kosten für einmalig im Reproduktionsfall** **anfallende Leistungen**
 
@@ -70,7 +70,7 @@
 
 ## Behandlungsplan
 
-**70** **für Maßnahmen zur künstlichen Befruchtung gemäß § 2 7a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
+**70** **für Maßnahmen zur künstlichen Befruchtung gemäß § 27a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
 ### Indikation(en)I
 
@@ -86,11 +86,9 @@
 
 **Intratubarer-Gameten-Transfer (gemäß Nr. 10.4)**
 
-**Intracytoplasmatische Spermieninjektion (gemäß Nr. 1 0.5)**
+**Intracytoplasmatische Spermieninjektion (gemäß Nr. 10.5)**
 
 **Anzahl und Art bereits erfolgter** **Behandlungen (gemäß Nr. 10.1-10.5)**
-
-**räglichen Änderung der diagnostischen und therapeutischen Einzelfallerfordernisse.**
 
 **b Kosten pro Zyklusfall (ohne einmalig im** **Reproduktionsfall anfallende Leistungen)**
 

@@ -1,3 +1,7 @@
+**Aus Datenschutzgründen freibleibend**
+
+**Es sollen ggf. Angaben zu folgenden Inhalten gemacht werden:** **Aktuelle** **Beschwerden,** **Angaben** **zum** **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische** **Parallelbehandlungen** **stat./amb.** **(z.B.**  **gleitbehandlung und/oder psychiatrische bzw. kinder- und jugendpsychiatrische Untersuchung erforderlich machen:**
+
 **22**
 
 ## Konsiliarbericht
@@ -5,8 +9,6 @@
 **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
 
 **Auf Veranlassung von:**
-
-**Aus Datenschutzgründen freibleibend**
 
 **Arztnummer**
 
@@ -18,15 +20,27 @@
 
 ## Chiffre
 
-**Anfangsbuchstabe Geburtsdatum** **des Familiennamens** **Es sollen ggf. Angaben zu folgenden Inhalten gemacht werden:** **Aktuelle** **Beschwerden,** **Angaben** **zum** **psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-** **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische** **Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und** **Parallelbehandlungen** **stat./amb.** **(z.B.** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-** **gleitbehandlung und/oder psychiatrische bzw. kinder- und jugendpsychiatrische Untersuchung erforderlich machen:**
+**Anfangsbuchstabe Geburtsdatum** **des Familiennamens**
 
-**Psychiatrische bzw. kinder- und** **jugendpsychiatrische Abklärung ist**
+**psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-**
+
+**Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-**
+
+**Psychiatrische bzw. kinder- und**
+
+**erfolgt**
+
+**jugendpsychiatrische Abklärung ist**
 
 **erforderlich**
 
-**Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen**
+**nicht erforderlich**
 
-**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **indikationen** **für** **eine** **psychotherapeutische** **Behandlung**
+**veranlasst**
+
+**Sind** **ärztliche/ärztlich** **veranlasste** **Maßnahmen** **bzw.** **Untersuchungen** **notwendig** **bzw.** **veranlasst** **und** **ggf.** **welche?**
+
+**Aufgrund** **somatischer/psychiatrischer** **Befunde** **bestehen** **derzeit** **Kontra-** **indikationen** **für** **eine** **psychotherapeutische** **Behandlung** **(Begründung** **s.** **o.)**
 
 **Ärztliche Mitbehandlung ist erforderlich** **Art der Maßnahme:**
 
@@ -35,18 +49,6 @@
 **Für** **diese** **Bescheinigung** **ist** **die** **Nr.** **01612** **EBM** **berechnungsfähig**
 
 **Ausfertigung für den Gutachter**
-
-**nicht erforderlich**
-
-**notwendig** **bzw.**
-
-**derzeit** **Kontra-** **(Begründung** **s.** **o.)**
-
-**erfolgt**
-
-**veranlasst**
-
-**veranlasst** **und** **ggf.** **welche?**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 

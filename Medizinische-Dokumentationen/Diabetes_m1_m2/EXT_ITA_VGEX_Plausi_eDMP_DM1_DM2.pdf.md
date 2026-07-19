@@ -1,3 +1,7 @@
+- Anlage 8* -
+
+## Plausibilitätsrichtlinie
+
 ## zur Prüfung der Dokumentationsdaten
 
 ## der strukturierten Behandlungsprogramme
@@ -6,21 +10,17 @@
 
 **Grundlage:**
 
-**Stand der Bearbeitung:**
-
-**Version anzuwenden ab:**
-
-- Anlage 8* -
-
-## Plausibilitätsrichtlinie
-
 **DMP-A-RL**
 
 **gültig ab 01.10.2022**
 
 # Version: 5 0
 
+**Stand der Bearbeitung:**
+
 **22.02.2023**
+
+**Version anzuwenden ab:**
 
 **01.10.2023**
 
@@ -43,12 +43,70 @@ Nr. Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüll
 
 ---
 
-| Lfd. | Parameter | Ausprägung | Plausibilitäten |
-|---|---|---|---|
-|  |  |  | nummerischer Wert; Angabe ohne Nachkommastelle  Wertebereich 0 bis 200 |
-| 3 | Fußstatus | 1.  Unauffällig / Auffällig / Nicht untersucht     2.  Unauffällig / Auffällig / Nicht untersucht     3.  Fußdeformität / Hyperkeratose mit  ja / nein / nicht untersucht      4.  oberflächlich / tief/ nein / nicht untersucht    5.  ja / nein / nicht untersucht | Bedingtes Pflichtfeld    Wenn die Differenz aus der Datumsangabe in Feld 22 der  -        UND  -  -        UND  -  -    Zu 1. Pulsstatus: genau eine Angabe ist zulässig.    Zu 2. Sensibilitätsprüfung: genau eine Angabe ist    Zu 3. Weiteres Risiko für Ulcus: mindestens eine Angabe    Wenn die Angab Wenn die Angabe „   zu 4. Ulkus: genau eine Angabe ist zulässig.    Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
+**Lfd.**  **Nr.**
 
-Nr. Einblutung / Z. n. Ulkus /Z. n. Amputation / Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von >=18 Jahren ergeben, muss jeweils  genau eine Angabe zu „ Pulsstatus“ genau eine Angabe zu genau eine Angabe zu „4. Ulkus“ zu „5. (Wund)Infektion“ mindestens eine Angabe zu „3. für Ulcus“ erfolgen. weiteres Risiko ist erforderlich, Mehrfachnennungen sind möglich. weitere Angabe zulässig. “ erfolgt ist, ist keine “ e rfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig.
+**Parameter**
+
+**Ausprägung**
+
+**Plausibilitäten**
+
+nummerischer Wert; Angabe ohne Nachkommastelle
+
+Wertebereich 0 bis 200 3 Fußstatus
+
+1. Pulsstatus:
+
+Unauffällig / Auffällig / Nicht untersucht
+
+2. Sensibilitätsprüfung:
+
+Unauffällig / Auffällig / Nicht untersucht
+
+3. Weiteres Risiko für Ulcus:
+
+Fußdeformität / Hyperkeratose mit  Einblutung / Z. n. Ulkus /Z. n. Amputation /
+
+ja / nein / nicht untersucht
+
+4. Ulkus:
+
+oberflächlich / tief/ nein / nicht untersucht
+
+5. (Wund)Infektion:
+
+ja / nein / nicht untersucht
+
+Bedingtes Pflichtfeld
+
+Wenn die Differenz aus der Datumsangabe in Feld 22 der  Plausibilitätsregeln zur Anlage 2* minus der  Datumsangabe in Feld 3 der Plausibilitätsregeln zur  Anlage 2* ein Lebensalter von >=18 Jahren ergeben,  muss jeweils
+
+- genau eine Angabe zu „1. Pulsstatus“
+
+UND
+
+- genau eine Angabe zu 2. Sensibilitätsprüfung UND
+- genau eine Angabe zu „4. Ulkus“
+
+UND
+
+- genau eine Angabe zu „5. (Wund)Infektion“   UND
+- mindestens eine Angabe zu „3. weiteres Risiko  für Ulcus“ erfolgen.
+
+Zu 1. Pulsstatus: genau eine Angabe ist zulässig.
+
+Zu 2. Sensibilitätsprüfung: genau eine Angabe ist  zulässig.
+
+Zu 3. Weiteres Risiko für Ulcus: mindestens eine Angabe  ist erforderlich, Mehrfachnennungen sind möglich.
+
+Wenn die Angabe „nicht untersucht“ erfolgt ist, ist keine  weitere Angabe zulässig.
+
+Wenn die Angabe „nein“ erfolgt ist, ist keine weitere  Angabe zulässig.  Alle anderen Kombinationen sind zulässig.
+
+zu 4. Ulkus: genau eine Angabe ist zulässig.
+
+Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig.
+
 
 ---
 
