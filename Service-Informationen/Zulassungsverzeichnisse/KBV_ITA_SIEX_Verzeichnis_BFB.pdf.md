@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. JULI 2026**
+**25. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 18. Juli 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 25. Juli 2026
 
 
 ---
@@ -611,8 +611,8 @@ Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Ar
 | **Doctolib Praxis** |  |  |  |
 |  |  |  | iOS/Android |
 | **Doctolib GmbH** |  |  | Linux |
-| Mehringdamm 51 | Y/9/2512/37/677 | 31.12.2028 | Mac OS |
-| 10961 Berlin |  |  | Sonstige |
+| Friedrichstraße 111 | Y/9/2512/37/677 | 31.12.2028 | Mac OS |
+| 10117 Berlin |  |  | Sonstige |
 | Internet: https://www.doctolib.de |  |  | Windows |
 
 **zugelassen für folgende Muster**

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. JULI 2026**
+**25. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 18. Juli 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 25. Juli 2026
 
 Y/400/2504/36/062
 
@@ -200,7 +200,7 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 
 **Doctolib Praxis**
 
-**Doctolib GmbH** Mehringdamm 51 10961 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
+**Doctolib GmbH** Friedrichstraße 111 10117 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
 
 **apraxos**
 
@@ -709,7 +709,7 @@ data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de
 
 Y/400/2510/36/768 30.09.2028 Rohdaten MMI
 
-Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 18. Juli 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 25. Juli 2026
 
 **unterstützte** **Betriebssysteme**
 

@@ -2,9 +2,9 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**2. JUNI 2026**
+**22. JULI 2026**
 
-**VERSION 2.5**
+**VERSION 2.6**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -14,17 +14,31 @@
 
 ---
 
-**AUFFÜHRUNG DOKUMENTENSTATUS**
+\| Version | Datum | Autor | Änderung | Begründung | Seite |
+| AUFFÜHRUNG DOKUMENTENSTATUS | Version | Datum | Autor | Änderung | Begründung |
+|---|---|---|---|---|---|
+| 2.6 | 22.07.2026 | KBV | Ergänzung einer Frage zu    Entfernung der Frage zur | Einführung der    Regelung der | 10    10 |
+| 2.5 | 02.06.2026 | KBV | Druckvorgabe der Überschrift |  | 10 |
+| 2.4 | 13.05.2026 | KBV | Ergänzung der Antwort zu    Ergänzung der Antwort zu PZN-   Klarstellung der Fragestellung |  | 12          14        13 |
+| 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur    Vereinheitlichung der Antwort    Aktualisierung der Information |  | 13    13    11 |
+| 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu    Anpassung der Frage zur Länge    Streichung der Fragen zur |  | 5        13        f |
+|  |  |  |  | **Seite ** 2.6  22.07.2026 | KBV  Ergänzung einer Frage zu    Entfernung der Frage zur  Einführung der |
 
+überlangen Dosieranweisungen strukturierten beim E-Rezept Dosieranweisung Druckvorgabe über die Technische Anlage E-Rezept für die Patientenausdrucke für eVDGA und eRezepte Teilverordnungen einer Mehrfachverordnung auf dem Patientenausdruck Verordnungen mit nicht vorhandenen Wirkstoffen zur Länge von Wirkstoffnamen Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID
+
+---
+
+\| Datum | Autor | Änderung | Begründung | Seite | Ergänzung der Fragestellung zu |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.5 | 02.06.2026 | KBV | Druckvorgabe der Überschrift |  | 9 |
-| 2.4 | 13.05.2026 | KBV | Ergänzung der Antwort zu    Ergänzung der Antwort zu PZN-   Klarstellung der Fragestellung |  | 11          13        12 |
-| 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur    Vereinheitlichung der Antwort    Aktualisierung der Information |  | 12    12    10 |
-| 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu    Anpassung der Frage zur Länge    Streichung der Fragen zur    Ergänzung der Fragestellung zu    Ergänzung der Fragestellung zu |  | 4        12        f    12    13 |
+|  | Ergänzung der Fragestellung zu | 13 | 14 |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  | Ergänzung der Fragestellung zu    Ergänzung der Fragestellung zu | 13    14 |
 
-für die Patientenausdrucke für eVDGA und eRezepte Teilverordnungen einer Mehrfachverordnung auf dem Patientenausdruck Verordnungen mit nicht vorhandenen Wirkstoffen zur Länge von Wirkstoffnamen Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen 
-
+Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen
 
 ---
 
@@ -49,6 +63,10 @@ Es gibt verschiedene Möglichkeiten, die Validität Ihrer XML-Dateien zu prüfen
 Ihre XML-Dateien müssen gegen die deutschen Basis-Profile R4, die KBV-Basis-Profile sowie die Profile des  Zertifizierungsthemas (z.B. eAU, eRP) - entsprechend der in den technischen Vorgaben definierten  [Versionen - valide sein. Das unter](https://update.kbv.de/ita-update/DigitaleMuster)[https://update.kbv.de/ita-update/DigitaleMuster](https://update.kbv.de/ita-update/DigitaleMuster)[zur Verfügung gestellte](https://update.kbv.de/ita-update/DigitaleMuster) [Archiv KBV_FHIR_XXX_Vn.n.n_zur_Validierung.zip enthält diese grundlegenden Profile, gegen die Ihre XML-](https://update.kbv.de/ita-update/DigitaleMuster) Dateien valide sein müssen. Bitte beachten Sie, dass diese Archive weder die Vollständigkeit noch die  Aktualität der tatsächlich benötigten Dateien garantiert. Die Verwendung der korrekten Dateien liegt  alleinig in der Verantwortung der Hersteller. Dies betrifft insbesondere die Einbindung der aktuell gültigen  Versionen der CodeSysteme und ValueSets auf Basis der KBV-Schlüsseltabellen.
 
 Für die Validierung der XML-Dateien können Sie den freien Validator der HL7 Community  [http://hl7.org/fhir/validator/](http://hl7.org/fhir/validator/)[) nutzen. Hinweise zur Konfiguration des Validators können Sie der](http://hl7.org/fhir/validator/) [Dokumentation von HL7 entnehmen - insbesondere in dem](http://hl7.org/fhir/validator/)Abschnitt „Validating against an  implementation guide“  [https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator#UsingtheFHIRValidator-](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator#UsingtheFHIRValidator-Validatingagainstanimplementationguide) [Validatingagainstanimplementationguide](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator#UsingtheFHIRValidator-Validatingagainstanimplementationguide)
+
+```
+[](https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator#UsingtheFHIRValidator-Validatingagainstanimplementationguide)
+```
 
 ## Frage: Worauf ist bei der Nutzung des HL7-Validators zu achten?
 
@@ -182,15 +200,18 @@ Es ist zu beachten, dass bei der Ausstellung einer eAU oder eines eRezepts für 
 
 Ja, für die Informationen Versichertenart, DMP-Kennzeichen, Besondere Personengruppe und/oder  Kennzeichen Rechtsgrundlage muss immer ein Wert in der FHIR-Instanz des eRezeptes oder der eAU  übertragen werden  außer es wird ein Rezept für Sprechstundenbedarf erzeugt. Die Differenz zwischen  den Technischen Anlagen und den FHIR-Profilen wurde zum 01.07.2023 behoben.
 
+Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da die entsprechenden Werte im  Rahmen der Fallanlage vorliegen müssen (auch für die Bedruckung von Papierformularen). Grundsätzlich  sollte die Befüllung wie folgt erfolgen:
+
 
 ---
-
-Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da die entsprechenden Werte im  Rahmen der Fallanlage vorliegen müssen (auch für die Bedruckung von Papierformularen). Grundsätzlich  sollte die Befüllung wie folgt erfolgen:
 
 - a. Versichertenart:  Das Feld sollte den vom Anwender erfassten Wert enthalten.
 - b. Besondere Personengruppe:  Das Feld sollte den vom Anwender erfassten Wert enthalten. Sofern der Anwender keinen  Wert erfasst hat, sollte das Feld den Wert „00“ enthalten.
 - c. DMP-Kennzeichen:  Das Feld sollte den vom Anwender erfassten Wert enthalten. Sofern der Anwender keinen  Wert erfasst hat, sollte das Feld den Wert „00“ enthalten.
 - d. Kennzeichen Rechtsgrundlage:  Das Feld sollte den vom Anwender erfassten Wert enthalten. Sofern der Anwender keinen  Wert erfasst hat, sollte das Feld den Wert „00“ enthalten.
+- 1. Der Schriftschnitt ist „fett“.
+- 2. Die Schriftart ist Helvetica (ggf. artverwandt, d.h. ohne Serifen und proportional).
+- 3. Die Schriftgröße ist 12 pt.
 
 ## Frage: Ist es Softwareherstellern erlaubt, die Funktionalitäten der Anforderungen 036-39 und O36-40 der  Technischen Anlage eRezept auch in anderen Digitalen Mustern (konkret: eAU) anzuwenden?
 
@@ -202,11 +223,15 @@ Ja, diese Funktionalitäten können auch in weiteren Digitalen Mustern eingesetz
 
 ### Antwort der KBV:
 
-- 1. Die gemäß den Anforderungen P6-243 (Technische Anlage eRezept) und P62-15 (Technische Anlage  eVDGA) zu druckende Überschrift sollte nach den folgenden Vorgaben gedruckt werden: Der  Schriftschnitt ist „fett“.
-- 2. Die Schriftart ist Helvetica (ggf. artverwandt, d.h. ohne Serifen und proportional).
-- 3. Die Schriftgröße ist 12 pt.
+Die gemäß den Anforderungen P6-243 (Technische Anlage eRezept) und P62-15 (Technische Anlage  eVDGA) zu druckende Überschrift sollte nach den folgenden Vorgaben gedruckt werden:
 
 Eine entsprechende Anpassung der betroffenen Anforderungen in den Technischen Anlagen ist in  Erarbeitung.
+
+## Frage: Wie ist die Dosieranweisung anzugeben, wenn eine papiergebundene Verordnung ausgestellt wird  und die Dosieranweisung (freitextlich oder aus einer strukturierten Dosieranweisung menschenlesbar  generiert) für den vorhandenen Platz auf dem Papier zu lang ist?
+
+### Antwort der KBV:
+
+Im Fall einer überlangen Dosieranweisung auf einer papiergebundenen Verordnung soll die  Dosieranweisung separat ausgedruckt und dem Versicherten mitgegeben werden. Auf dem Muster 16 bzw.  dem amtlichen T-Rezept-Formblatt muss dann ">>Dj<<" aufgedruckt werden. Auf dem amtlichen BtM-Formblatt muss dann ">> gemäß schriftlicher Anweisung<<" aufgedruckt werden.
 
 ---
 

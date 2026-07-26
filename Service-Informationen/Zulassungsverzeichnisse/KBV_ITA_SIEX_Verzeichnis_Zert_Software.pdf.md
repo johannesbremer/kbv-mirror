@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**18. JULI 2026**
+**25. JULI 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -53,7 +53,7 @@ x Vertrieb GmbH
 
 asthenis GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 18. Juli 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 25. Juli 2026
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -1288,7 +1288,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 18. Juli 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 25. Juli 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
 
@@ -2133,7 +2133,7 @@ Name der Software und Anbieter Sonic Healthcare Germany GmbH & Co. KG Sonic Heal
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 18. Juli 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 25. Juli 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
 

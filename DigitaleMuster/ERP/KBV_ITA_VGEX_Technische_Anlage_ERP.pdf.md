@@ -2,9 +2,9 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**16. JUNI 2026**
+**22. JULI 2026**
 
-**VERSION: 1.74**
+**VERSION: 1.75**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -68,7 +68,7 @@
 
 # TABELLENVERZEICHNIS
 
-Tabelle 1: KBV_PR_ERP_Bundle  Tabelle 2: KBV_PR_ERP_Composition  Tabelle 3: KBV_PR_ERP_Prescription  Tabelle 4: KBV_PR_ERP_PracticeSupply  Tabelle 5: KBV_PR_ERP_Medication_PZN  Tabelle 6: KBV_PR_ERP_Medication_Ingredient  Tabelle 7: KBV_PR_ERP_Medication_Compounding  Tabelle 8: KBV_PR_ERP_Medication_FreeText  Tabelle 14: KBV_EX_ERP_EmergencyServicesFee  Tabelle 15: KBV_EX_ERP_DosageFlag  Tabelle 16: KBV_EX_ERP_PracticeSupply_Payor  Tabelle 17: KBV_EX_ERP_Medication_Vaccine  Tabelle 18: KBV_EX_ERP_Medication_Category  Tabelle 19: KBV_EX_ERP_Medication_Packaging  Tabelle 20: KBV_EX_ERP_Medication_CompoundingInstruction  Tabelle 21: KBV_EX_ERP_Medication_Ingredient_Form  Tabelle 22: KBV_EX_ERP_Medication_Ingredient_Amount  Tabelle 23: KBV_EX_ERP_Medication_PackagingSize  Tabelle 24: KBV_EX_ERP_Multiple_Prescription  Tabelle 25: KBV_EX_ERP_Prescriber_ID  Tabelle 26: KBV_EX_ERP_Patient_ID  Tabelle 27: KBV_EX_ERP_Narcotic  Tabelle 28: KBV_EX_ERP_Narcotic  Tabelle 30: KBV_CS_ERP_Medication_Category  Tabelle 31: KBV_VS_ERP_Medication_Category  Tabelle 32: KBV_CS_ERP_Medication_Type  Tabelle 33: KBV_CS_ERP_Section_Type  Tabelle 34: KBV_VS_ERP_StatusCoPayment  Tabelle 35: KBV_VS_ERP_Accident_Type  Tabelle 41: Mapping KBV_PR_ERP_Medication_PZN  Tabelle 42: Mapping KBV_PR_ERP_Medication_Ingredient  Tabelle 43: Mapping KBV_PR_ERP_Medication_Compounding  Tabelle 44: Mapping KBV_PR_ERP_Medication_FreeText  Tabelle 45: Mapping KBV_PR_ERP_Prescription  Tabelle 46: Referenzierte Instanzen KBV_PR_ERP_Prescription  Tabelle 47: Mapping KBV_PR_ERP_PracticeSupply  Tabelle 48: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply  Tabelle 49: Mapping KBV_PR_ERP_Composition  Tabelle 50: Referenzierte Instanzen KBV_PR_ERP_Composition  Tabelle 51: Mapping KBV_PR_ERP_Bundle  Tabelle 52: Mapping DosageDgMP  Tabelle 58: Auflistung der abzubildenden Felder für das ERP
+Tabelle 1: KBV_PR_ERP_Bundle  Tabelle 2: KBV_PR_ERP_Composition  Tabelle 3: KBV_PR_ERP_Prescription  Tabelle 4: KBV_PR_ERP_PracticeSupply  Tabelle 5: KBV_PR_ERP_Medication_PZN  Tabelle 6: KBV_PR_ERP_Medication_Ingredient  Tabelle 7 KBV_PR_ERP_Medication_Compounding  Tabelle 8: KBV_PR_ERP_Medication_FreeText  Tabelle 14: KBV_EX_ERP_EmergencyServicesFee  Tabelle 15: KBV_EX_ERP_DosageFlag  Tabelle 16: KBV_EX_ERP_PracticeSupply_Payor  Tabelle 17: KBV_EX_ERP_Medication_Vaccine  Tabelle 18: KBV_EX_ERP_Medication_Category  Tabelle 19: KBV_EX_ERP_Medication_Packaging  Tabelle 20: KBV_EX_ERP_Medication_CompoundingInstruction  Tabelle 21: KBV_EX_ERP_Medication_Ingredient_Form  Tabelle 22: KBV_EX_ERP_Medication_Ingredient_Amount  Tabelle 23: KBV_EX_ERP_Medication_PackagingSize  Tabelle 24: KBV_EX_ERP_Multiple_Prescription  Tabelle 25: KBV_EX_ERP_Prescriber_ID  Tabelle 26: KBV_EX_ERP_Patient_ID  Tabelle 27: KBV_EX_ERP_Narcotic  Tabelle 28: KBV_EX_ERP_Narcotic  Tabelle 30: KBV_CS_ERP_Medication_Category  Tabelle 31: KBV_VS_ERP_Medication_Category  Tabelle 32: KBV_CS_ERP_Medication_Type  Tabelle 33: KBV_CS_ERP_Section_Type  Tabelle 34: KBV_VS_ERP_StatusCoPayment  Tabelle 35: KBV_VS_ERP_Accident_Type  Tabelle 41: Mapping KBV_PR_ERP_Medication_PZN  Tabelle 42: Mapping KBV_PR_ERP_Medication_Ingredient  Tabelle 43: Mapping KBV_PR_ERP_Medication_Compounding  Tabelle 44: Mapping KBV_PR_ERP_Medication_FreeText  Tabelle 45: Mapping KBV_PR_ERP_Prescription  Tabelle 46: Referenzierte Instanzen KBV_PR_ERP_Prescription  Tabelle 47: Mapping KBV_PR_ERP_PracticeSupply  Tabelle 48: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply  Tabelle 49: Mapping KBV_PR_ERP_Composition  Tabelle 50: Referenzierte Instanzen KBV_PR_ERP_Composition  Tabelle 51: Mapping KBV_PR_ERP_Bundle  Tabelle 52: Mapping DosageDgMP  Tabelle 58: Auflistung der abzubildenden Felder für das ERP
 
 10  10  11  11  11  11  11  12  12  12  12  13  13  13  13  14  14  14  14  14  15  15  15  15  16  16  16  16  16  22  24  26  27  33  34  36  37  38  39  40  47  105
 
@@ -76,18 +76,36 @@ Tabelle 1: KBV_PR_ERP_Bundle  Tabelle 2: KBV_PR_ERP_Composition  Tabelle 3: KBV_
 ---
 
 \| Version | Datum | Autor | Änderung | Begründung | Seite |
-\| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70, 1.71, 1.72 sowie 1.73 sind gelb markiert sowie die Änderungen der | Version | Datum | Autor |
-| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70, 1.71, 1.72 sowie 1.73 sind gelb markiert sowie die Änderungen der | Version | Datum | Autor |
+\| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70, 1.71, 1.72, 1.73 sowie 1.74 sind gelb markiert sowie die Änderungen | Version | Datum | Autor |
+| DOKUMENTENHISTORIE |  | Die Änderungen der Versionen 1.70, 1.71, 1.72, 1.73 sowie 1.74 sind gelb markiert sowie die Änderungen | Version | Datum | Autor |
 |---|---|---|---|---|---|
-| 1.74 | 16.06.2026 | KBV | Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung derVersion des | Bugfix-Release des | 56  67    10, 12,  15, 18  106 |
+| 1.75 | 22.07.2026 | KBV | Aktualisierung der    Klarstellung der Kardinalität bei d    Redaktionelle Korrekturen bei der | Bugfix-Release bzgl.  Anpassung an die | 10, 12,  15, 18    97, 98,  98    52, 53,  66 |
+| 1.74 | 16.06.2026 | KBV | Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung der Version des | Bugfix-Release des | 56  67    10, 12,  15, 18  106 |
 | 1.73 | 15.04.2026 | KBV | Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des | 18  58, 60,  62, 63  19, 106  10, 12,  18, 106 |
-| 1.72 | 09.02.2026 | KBV | Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des | Bereitstellung eines          eVerordnungs- | 10, 12,   18  85    52, 52,  53, 53,  54, 55,  56, 58,  60, 62,  63, 66,  67, 106 |
-| **Änderung** | **Begründung** | **Seite** | 1.74  16.06.2026  KBV  Klarstellung der Vorgaben in P6- | Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung derVersion des |  |
-|  |  | Bugfix-Release des | 56  67 | 10, | 12,  15, |
-| 18 |  | 106 | 1.73  15.04.2026  KBV  Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des  18  58, 60,  62, 63  19, 106  10, 12, | 18, 106  1.72  09.02.2026  KBV  Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des  Bereitstellung eines |
-| **Änderung** | **Begründung** | **Seite** | 1.74  16.06.2026  KBV  Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32 | Aktualisierung der  Aktualisierung derVersion des | Bugfix-Release des  56  67    10, 12,  15, 18  106  1.73  15.04.2026  KBV  Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der |
+| **Änderung** | **Begründung** | **Seite** | 1.75  22.07.2026  KBV  Aktualisierung der | Klarstellung der Kardinalität bei d    Redaktionelle Korrekturen bei der  Bugfix-Release bzgl.  Anpassung an die | 10, 12,  15, 18    97, 98,  98    52, 53,  66  1.74  16.06.2026  KBV  Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung der Version des            Bugfix-Release des  56 |
+|  | 67 |  | 10, 12 | ,  15, 18 | 106 |
+| 1.73 | 15.04.2026 | KBV | Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der |  | Bugfix-Release des  18  58 |
+| **Änderung** | **Begründung** | **Seite** | 1.75  22.07.2026  KBV  Aktualisierung der    Klarstellung der Kardinalität bei d    Redaktionelle Korrekturen bei der  Bugfix-Release bzgl.  Anpassung an die  10 | , 12,  15, 18    97, 98,  98    52, 53, | 66  1.74  16.06.2026  KBV  Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung der Version des |
+|  | Bugfix-Release des | 56 | 67    10, | 12,  15, 18 | 106  1.73  15.04.2026  KBV  Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der        Bugfix-Release des  18  58, 60,  62, 63  19, 106 |
 
-Version 1.74 grün markiert. Die Änderungen der genannten Versionen treten zum 01.07.2026 in Kraft.  243 Versionsnummer der FHIR-Profile Medication IG Medication IG Patientenausdruck Referenzimplementierung zur Erzeugung eines menschenlesbaren Dosierungstextes Medication IG DE eRezept-Profile Versionsnummer der FHIR-Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Abrechnungsnummer (Feld 61c) Patientenausdruckes  übergreifende Vereinheitlichungen
+der Version 1.75 grün markiert. Die Änderungen der genannten Versionen treten zum 01.07.2026 in Kraft.  Versionsnummer der FHIR-Profile Constraint zum Dosierungskennzeiche Struktur des dgMP en Element en „Wochentag der Anwendung“, „Uhrzeit der Anwendung“ und „Tageszeit der Anwendung“ Bedruckung der Patientenausdrucke 243 Versionsnummer der FHIR-Profile Medication IG Medication IG Patientenausdruck Referenzimplementierung zur Erzeugung eines menschenlesbaren Dosierungstextes Medication IG DE eRezept-Profile
+
+---
+
+\| Änderung | Begründung | Seite | 1.72 | 09.02.2026 | KBV |
+\| Version | Datum | Autor | Änderung | Begründung | Seite |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
+|---|---|---|---|---|---|
+| Aktualisierung der | Anpassung der Bedingung der KZV- |  | Anpassung des  Bereitstellung eines | eVerordnungs- | 10, 12,   18  85    52, 52,  53, 53,  54, 55,  56 |
+| , | 58 | , | 60, 62,  63 | , 66,  67, 106 | 1.71  06.11.2025  KBV  Rückgängigmachen der Definition    Einführung einer Patienten-ID    Aufgrund der    Rückmeldung in der    11ff, 15,    15, 105 |
+| 1.71 | 06.11.2025 | KBV | Streichung ValueSet und    Einführung eines eMP-Identifiers | Abbildung der Werte    Referenzierung  19 | 29, 36, |
+| 1.72 | 09.02.2026 | KBV | Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des | Bereitstellung eines          eVerordnungs- | 10, 12,   18  85    52, 52,  53, 53,  54, 55,  56, 58,  60, 62,  63, 66,  67, 106 |
+| 1.71 | 06.11.2025 | KBV | Rückgängigmachen der Definition    Einführung einer Patienten-ID | Aufgrund der    Rückmeldung in der | 11ff, 15,    15, 105 |
+| 1.71 | 06.11.2025 | KBV | Streichung ValueSet und    Einführung eines eMP-Identifiers | Abbildung der Werte    Referenzierung | 19      29, 36, |
+| 1.72 | 09.02.2026 | KBV | Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des  Bereitstellung eines          eVerordnungs- 10 | , 12,   18  85    52, 52,  53, 53,  54, 55 | ,  56, 58,  60, 62,  63, 66,  67 |
+| , | 106 |  | 1.71  06.11.2025  KBV  Rückgängigmachen der Definition    Einführung einer Patienten-ID | Aufgrund der    Rückmeldung in der    11ff, 15, | 15, 105  1.71  06.11.2025  KBV  Streichung ValueSet und    Einführung eines eMP-Identifiers    Abbildung der Werte    Referenzierung  19      29, 36, |
+
+Versionsnummer der FHIR-Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Abrechnungsnummer (Feld 61c) Patientenausdruckes  übergreifende Vereinheitlichungen von FHIR®-Ressourcen zu 17, 20ff, strukturierten Dosierangaben  Kommentierung 31, 42, (Profile, Extensions, CodeSystems, verantwortet die HL7® 47ff, ValueSets, …) sowie der die FHIR®- 107, Ausgabevorschriften; Nutzung der Definitionen zu 110 FHIR-Ressourcen sowie des strukturierten Textgenerierungsalgorithmus der Dosieranweisungen HL7 Deutschland. Streichung der sowie den Längenangaben zu den Feldern der Algorithmus zur strukturierten Dosieranweisungen. Textgenerierung Kommentierung CodeSystem Narcotic Label über Schlüsseltabelle zwischen E-Rezept 99 und eMP
 
 ---
 
@@ -95,31 +113,16 @@ Version 1.74 grün markiert. Die Änderungen der genannten Versionen treten zum 
 \| Version | Datum | Autor | Änderung | Begründung | Seite |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| Rückgängigmachen der Definition |  | Einführung einer Patienten-ID | Aufgrund der    Rückmeldung in der | 11ff, 15,    15, 105  1.71  06.11.2025  KBV | Streichung ValueSet und    Einführung eines eMP-Identifiers    Abbildung der Werte    Referenzierung  19      29, 36,  1.71  06.11.2025  KBV  Glattziehen von Bedingungen zum |
-|  | Ergänzung von default-Werten bei |  | Aufnahme einer Bedingung zur    Korrektur der Bedingung zum Typ | Aufnahme der Bedingung, dass bei    Erweiterung der Anforderung P36- Korrektur | Angleichen an die  Rückmeldung in der      Rückmeldung in der            Rückmeldung in der    Ermöglichung der  29, 30 |
-|  |  |  | 107 | 20 |  |
-| 1.71 | 06.11.2025 | KBV | Rückgängigmachen der Definition    Einführung einer Patienten-ID | Aufgrund der    Rückmeldung in der | 11ff, 15,    15, 105 |
-| 1.71 | 06.11.2025 | KBV | Streichung ValueSet und    Einführung eines eMP-Identifiers | Abbildung der Werte    Referenzierung | 19      29, 36, |
+| Glattziehen von Bedingungen zum |  | Ergänzung von default-Werten bei | Aufnahme einer Bedingung zur    Korrektur der Bedingung zum Typ | Aufnahme der Bedingung, dass bei | Erweiterung der Anforderung P36- Korrektur            Angleichen an die  Rückmeldung in der      Rückmeldung in der            Rückmeldung in der    Ermöglichung der  29, 30 |
+|  |  |  |  | 107    20  1.70  17.06.2025 | KBV  Aktualisierung der FHIR-Profile auf    Ermöglichung der Verordnung von      Einführung strukturierter  Abbildung der    Erweiterung des      Im Rahmen der  10ff |
+|  | 7 | , | 12,  15, | 27,  35, | 46,  50, 58,  60, 62,  63, 68 |
+| 1.71 | 06.11.2025 | KBV | Glattziehen von Bedingungen zum    Ergänzung von default-Werten bei | Aufnahme einer Bedingung zur    Korrektur der Bedingung zum Typ    Aufnahme der Bedingung, dass bei | Erweiterung der Anforderung P36- Korrektur            Angleichen an die  Rückmeldung in der      Rückmeldung in der            Rückmeldung in der    Ermöglichung der  29, 30                    107    20  1.70  17.06.2025  KBV |
+| Aktualisierung der FHIR-Profile auf |  | Ermöglichung der Verordnung von | Einführung strukturierter  Abbildung der | Erweiterung des | Im Rahmen der  10ff |
+|  | 7 | , | 12,  15, | 27,  35 | , 46,  50 |
 | 1.71 | 06.11.2025 | KBV | Glattziehen von Bedingungen zum    Ergänzung von default-Werten bei    Aufnahme einer Bedingung zur    Korrektur der Bedingung zum Typ    Aufnahme der Bedingung, dass bei    Erweiterung der Anforderung P36- | Korrektur            Angleichen an die  Rückmeldung in der      Rückmeldung in der            Rückmeldung in der    Ermöglichung der | 29, 30                    107    20 |
-| 1.71 | 06.11.2025 | KBV | Rückgängigmachen der Definition    Einführung einer Patienten-ID    Aufgrund der | Rückmeldung in der    11ff, 15,    15, 105  1.71 | 06.11.2025  KBV  Streichung ValueSet und    Einführung eines eMP-Identifiers    Abbildung der Werte    Referenzierung  19      29, 36,  1.71  06.11.2025  KBV  Glattziehen von Bedingungen zum    Ergänzung von default-Werten bei    Aufnahme einer Bedingung zur    Korrektur der Bedingung zum Typ    Aufnahme der Bedingung, dass bei    Erweiterung der Anforderung P36- |
-
-von FHIR®-Ressourcen zu 17, 20ff, strukturierten Dosierangaben  Kommentierung 31, 42, (Profile, Extensions, CodeSystems, verantwortet die HL7® 47ff, ValueSets, …) sowie der die FHIR®- 107, Ausgabevorschriften; Nutzung der Definitionen zu 110 FHIR-Ressourcen sowie des strukturierten Textgenerierungsalgorithmus der Dosieranweisungen HL7 Deutschland. Streichung der sowie den Längenangaben zu den Feldern der Algorithmus zur strukturierten Dosieranweisungen. Textgenerierung Kommentierung CodeSystem Narcotic Label über Schlüsseltabelle zwischen E-Rezept 99 und eMP  Angleichen des FHIR-Mappings von Dosieranweisung und Gebrauchsanweisung bei Rezepturverordnung 62 Feldern zum T-Rezept Spezifikation der gematik  83 Verknüpfung der Felder SER und Kommentierung Zuzahlungsstatus 88 der ausstellenden / Kommentierung verschreibenden Person (Zahnarzt und Hebamme dürfen kein T- Rezept ausstellen. Hebamme darf kein BtM-Rezept ausstellen). der Verordnung einer Rezeptur das Kommentierung Kennzeichen Dosierung nicht "false" sein darf. 21 um eine Vorgabe zum Element Versionierung von E- meta.versionId Rezepten
-
----
-
-\| Änderung | Begründung | Seite | 1.70 | 17.06.2025 | KBV |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
-| Version | Datum | Autor | Änderung | Begründung | Seite |
-|---|---|---|---|---|---|
-| Aktualisierung der FHIR-Profile auf |  | Ermöglichung der Verordnung von | Einführung strukturierter  Abbildung der | Erweiterung des      Im Rahmen der  10ff | 7, 12,  15, 27,  35, 46,  50, |
-| 58 | , | 60 | , 62,  63 | , 68 |  |
-|  |  |  |  |  |  |
-| 1.70 | 17.06.2025 | KBV | Aktualisierung der FHIR-Profile auf    Ermöglichung der Verordnung von | Einführung strukturierter  Abbildung der | Erweiterung des |
-| Im Rahmen der | 10 | ff | 7, 12 | ,  15, | 27,  35, |
-| 46 | , | 50 | , 58,  60, 62,  63, 68 |  |  |
 | 1.70 | 17.06.2025 | KBV | Aktualisierung der FHIR-Profile auf    Ermöglichung der Verordnung von      Einführung strukturierter | Abbildung der    Erweiterung des      Im Rahmen der | 10ff    7, 12,  15, 27,  35, 46,  50, 58,  60, 62,  63, 68 |
 
-Version 1.4.0 Änderungen Funktionsumfangs des Betäubungsmitteln (BtM) und T- E-Rezepts Arzneimitteln nach § 3a Abs. 1 AMVV (T-Rezepte) Weiterentwicklung Dosierungsanweisungen überarbeitet
+Angleichen des FHIR-Mappings von Dosieranweisung und Gebrauchsanweisung bei Rezepturverordnung Feldern zum T-Rezept Spezifikation der gematik  83 Verknüpfung der Felder SER und Kommentierung Zuzahlungsstatus 88 der ausstellenden / Kommentierung verschreibenden Person (Zahnarzt und Hebamme dürfen kein T- Rezept ausstellen. Hebamme darf kein BtM-Rezept ausstellen). der Verordnung einer Rezeptur das Kommentierung Kennzeichen Dosierung nicht "false" sein darf. 21 um eine Vorgabe zum Element Versionierung von E- meta.versionId Rezepten Version 1.4.0 Änderungen Funktionsumfangs des Betäubungsmitteln (BtM) und T- E-Rezepts Arzneimitteln nach § 3a Abs. 1 AMVV (T-Rezepte) Weiterentwicklung Dosierungsanweisungen überarbeitet
 
 ---
 
@@ -217,7 +220,7 @@ Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbild
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Bundle |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/bundle.html |
 | Definition | Bundle zur Definition der gesamthaften Inhalte des ERP-Dokuments |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | Hinweis | Beinhaltet die Abbildung aller Instanzen der benötigten Profile für die ERP-Inhalte |
 
 **Tabelle 1: KBV_PR_ERP_Bundle**
@@ -227,7 +230,7 @@ Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbild
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Composition |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
 | Definition | Klammerung der fachlichen Daten für das ERP |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifend Patienten informationen FORMULARÜBERGREIFENDE PROFILE KBV_ITA_VGEX_Technisches_Handbuch_DiMus Profile im Kapitel 4.2 „Übergreifende Regelungen für die Muster“ beschrieben KBV_PR_FOR_Patient gemäß P4-05 KBV_PR_FOR_Coverage gemäß P4 04 KBV_PR_FOR_Practitioner gemäß P4 01 KBV_PR_FOR_PractitionerRole gemäß P4 02 KBV_PR_FOR_Organization gemäß P4 03 SPEZIFISCHE ERP-PROFILE **Tabelle 2: KBV_PR_ERP_Composition**
 
@@ -239,42 +242,42 @@ Dateiname: KBV_PR_FOR_Patient Abbildung der formularübergreifend Patienten info
 |  |  |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/MedicationRequest |
 | Definition | Darstellung der spezifischen Informationen einer Arzneimittelverordnung neben |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 | KBV_PR_ERP_MEDICATION_FREETEXT |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_FreeText |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/MedicationRequest |
 | Definition  Darstellung der spezifischen Informationen einer Arzneimittelverordnung neben |  |
-| Version | 1.4.2 1.4.3 **Tabelle 3: KBV_PR_ERP_Prescription** |
+| Version | 1.4.3 1.4.4 **Tabelle 3: KBV_PR_ERP_Prescription** |
 
 den Rezeptierdaten KBV_PR_ERP_PRACTICESUPPLY Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_PracticeSupply http://hl7.org/fhir/StructureDefinition/SupplyRequest Darstellung der spezifischen Informationen einer Verordnung für Sprechstundenbedarf / Praxisbedarf neben den Rezeptierdaten KBV_PR_ERP_MEDICATION_PZN Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_PZN Rezeptierdaten für eine Verordnung von in den Preis- und Produktverzeichnissen nach § 131 SGB V gelisteten Produkten KBV_PR_ERP_MEDICATION_INGREDIENT Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Ingredient Rezeptierdaten Wirkstoffverordnung KBV_PR_ERP_MEDICATION_COMPOUNDING Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Compounding Rezeptierdaten Rezeptur KBV_PR_ERP_Medication_Compounding KBV_PR_ERP_MEDICATION_FREETEXT Kanonische URL Tabelle 4: KBV_PR_ERP_PracticeSupply Tabelle 5: KBV_PR_ERP_Medication_PZN Tabelle 6: KBV_PR_ERP_Medication_Ingredient | KBV_PR_ERP_PRACTICESUPPLY |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_PracticeSupply |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/SupplyRequest |
 | Definition | Darstellung der spezifischen Informationen einer Verordnung für |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 | KBV_PR_ERP_MEDICATION_PZN |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_PZN |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/Medication |
 | Definition | Rezeptierdaten für eine Verordnung von in den Preis- und Produktverzeichnissen |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 | KBV_PR_ERP_MEDICATION_INGREDIENT |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Ingredient |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/Medication |
 | Definition | Rezeptierdaten Wirkstoffverordnung |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 | KBV_PR_ERP_MEDICATION_COMPOUNDING |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_Compounding |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/Medication |
 | Definition | Rezeptierdaten Rezeptur |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 
 ---
@@ -284,7 +287,7 @@ den Rezeptierdaten KBV_PR_ERP_PRACTICESUPPLY Kanonische URL https://fhir.kbv.de/
 |  |  |
 | FHIR®-Ressource | http://hl7.org/fhir/StructureDefinition/Medication |
 | Definition | Rezeptierdaten als Freitext |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 **Tabelle 8: KBV_PR_ERP_Medication_FreeText**
 
@@ -296,7 +299,7 @@ Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Resso
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_EmergencyServicesFee |
 | Definition | Kennzeichnung, ob diese Verordnung auch während der allgemeinen |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | MedicationRequest |
 
 **Tabelle 9: KBV_EX_ERP_EmergencyServicesFee**
@@ -305,7 +308,7 @@ Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Resso
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_DosageFlag |
 | Definition | Kennzeichnung, ob eine Dosierung in der Verordnung angegeben ist |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | MedicationRequest.dosageInstruction |
 
 **Tabelle 10: KBV_EX_ERP_DosageFlag**
@@ -314,7 +317,7 @@ Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Resso
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_PracticeSupply_Payor |
 | Definition | Abbildung der Informationen über den zuständigen Kostenträger für die Verordnung |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | SupplyRequest |
 
 Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdienstgebühr („noctu“) zu Lasten der Krankenkasse gemäß Arzneimittelpreisverordnung Ressource Ressource des Sprechstundenbedarfs / Praxisbedarfs Ressource **Tabelle 11 KBV_EX_ERP_PracticeSupply_Payor**
@@ -326,7 +329,7 @@ Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdien
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Vaccine |
 | Definition | Kennzeichnung einer Verordnung als Impfstoff |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | Medication  (KBV_PR_ERP_Medication_PZN,         KBV_PR_ERP_Medication_Ingredient,  KBV_PR_ERP_Medication_Compounding,    KBV_PR_ERP_Medication_FreeText) |
 
 **Tabelle**
@@ -335,14 +338,14 @@ Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdien
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Ingredient_Form |
 | Definition | Abbildung der Darreichungsform eines Bestandteils einer Rezeptur als Freitext |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | **KBV_EX_ERP_MEDICATION_VACCINE** | Kanonische URL  https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Vaccine |
 
 | KBV_EX_ERP_MEDICATION_CATEGORY |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Category |
 | Definition | Kennzeichnung der Kategorie einer Verordnung |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | Medication  (KBV_PR_ERP_Medication_PZN,         KBV_PR_ERP_Medication_Ingredient,  KBV_PR_ERP_Medication_Compounding,    KBV_PR_ERP_Medication_FreeText) |
 | Hinweis | In der aktuellen Version des ERP |
 
@@ -352,7 +355,7 @@ Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdien
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Packaging |
 | Definition | Abbildung der Information zur Verpackung einer Rezeptur |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | Medication   (KBV_PR_ERP_Medication_Compounding) |
 
 **Tabelle**
@@ -361,7 +364,7 @@ Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdien
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_CompoundingInst |
 | Definition | Anweisung bzgl. der Herstellung einer Rezeptur (Subscriptio) |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | Medication   (KBV_PR_ERP_Medication_Compounding) |
 
 Ressource Ressource hat die Kategorie immer den Wert „00“. Ressource Ressource ruction 12 13 KBV_EX_ERP_Medication_Category 14 KBV_EX_ERP_Medication_Packaging 15 KBV_EX_ERP_Medication_CompoundingInstruction**Tabelle**
@@ -387,28 +390,28 @@ Ressource Ressource hat die Kategorie immer den Wert „00“. Ressource Ressour
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_Ingredient_Amou |
 | Definition | Abbildung der Menge eines Bestandteils einer Rezeptur als Freitext |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | Medication.ingredient.strength   (KBV_PR_ERP_Medication_Compounding) |
 
 | KBV_EX_ERP_MEDICATION_PACKAGINGSIZE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Medication_PackagingSize |
 | Definition | Abbildung der Packungsgröße (als String) nach abgeteilter Menge bei PZN- und |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | Medication  (KBV_PR_ERP_Medication_PZN,         KBV_PR_ERP_Medication_Ingredient,  KBV_PR_ERP_Medication_Compounding) |
 
 | KBV_EX_ERP_MULTIPLE_PRESCRIPTION |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Multiple_Prescription |
 | Definition | Abbildung der Informationen im Rahmen einer Mehrfachverordnung |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | MedicationRequest |
 
 | KBV_EX_ERP_PRESCRIBER_ID |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Prescriber_ID |
 | Definition | Abbildung der Verschreiber-ID, welche bei der Verordnung bestimmter Präparate |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | MedicationRequest |
 
 Ressource Ressource Ressource Wirkstoffverordnungen bzw. der Gesamtmenge der Rezeptur bei Rezepturverordnungen  Ressource Ressource (bspw. Fintepla®) anzugeben ist, damit die Apotheke das Rezept beliefern darf. 17 KBV_EX_ERP_Medication_Ingredient_Amount 18 19 : KBV_EX_ERP_Multiple_Prescription Tabelle 20: KBV_EX_ERP_Prescriber_ID Packaging Size
@@ -419,7 +422,7 @@ Ressource Ressource Ressource Wirkstoffverordnungen bzw. der Gesamtmenge der Rez
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Patient_ID |
 | Definition | (bspw. Fabhalta®, Aspaveli®, Zilbrysg®) angegeben werden kann. |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | MedicationRequest |
 
 **Tabelle 21: KBV_EX_ERP_Patient_ID**
@@ -428,7 +431,7 @@ Ressource Ressource Ressource Wirkstoffverordnungen bzw. der Gesamtmenge der Rez
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Narcotic |
 | Definition | Abbildung der Informationen im Rahmen einer Betäubungsmittel-Verordnung (BtM) |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | MedicationRequest, SupplyRequest |
 
 **Tabelle 22: KBV_EX_ERP_Narcotic**
@@ -437,7 +440,7 @@ Ressource Ressource Ressource Wirkstoffverordnungen bzw. der Gesamtmenge der Rez
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_ERP_Teratogenic |
 | Definition | Arzneimitteln (T-Rezept) |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 | erweitert FHIR®- | MedicationRequest |
 
 **Tabelle 23: KBV_EX_ERP_Narcotic**
@@ -450,7 +453,7 @@ Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeute
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Category |
 | Definition | Kennzeichnung der Kategorie für die Verordnung |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 **Tabelle 24 KBV_CS_ERP_Medication_Category**
 
@@ -458,7 +461,7 @@ Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeute
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_ERP_Medication_Category |
 | Definition | Kennzeichnung der Kategorie für die Verordnung |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzneimittel Ressource Abbildung der Informationen im Rahmen der Verordnung von teratogenen Ressource
 
@@ -470,7 +473,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Medication_Type |
 | Definition | Klassifizierung von Medikamenten (Wirkstoff, Rezeptur, Freitext) soweit keine PZN- |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 **Tabelle 26: KBV_CS_ERP_Medication_Type**
 
@@ -478,7 +481,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_ERP_Section_Type |
 | Definition | Ausprägung der zulässigen Codes für das Element section.code.coding.code des |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 **Tabelle 27: KBV_CS_ERP_Section_Type**
 
@@ -486,7 +489,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_ERP_StatusCoPayment |
 | Definition | Ausprägung des Zuzahlungsstatus für die Verordnung |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 **Tabelle 28: KBV_VS_ERP_StatusCoPayment**
 
@@ -494,7 +497,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_ERP_Accident_Type |
 | Definition | Kennzeichnung der Art des Unfalls |
-| Version | 1.4.2 1.4.3 |
+| Version | 1.4.3 1.4.4 |
 
 **Tabelle 29: KBV_VS_ERP_Accident_Type**
 
@@ -590,7 +593,7 @@ einbinden.
 
 | KONDITIONALE PFLICHTFUNKTION ERP |  |
 |---|---|
-| **KP36-04** | Übergangsregelung für eRezepte in den Versionen 1.3.2 und 1.4.0 1.4.1 1.4.2 1.4.3 |
+| **KP36-04** | Übergangsregelung für eRezepte in den Versionen 1.3.2 und 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 |
 
 „mustSupport“Die Vorgaben zur Übergangsregelung haben eine begrenzte Gültigkeit. Nach Ablauf der Übergangsregelung  werden nicht mehr gültige Versionen als fehlerhaft abgelehnt.
 
@@ -599,12 +602,12 @@ einbinden.
 
 - 1. Die Übergangsregelung gilt vom 1. Juli 2026 bis zum 31. Dezember 2026 14. Januar 2027.
 - a) Als entscheidendes Datum zur Feststellung der jeweils gültigen Vorgaben gilt das Datum der  Ausstellung (im Profil KBV_PR_ERP_Prescription: MedicationRequest.authoredOn oder  KBV_PR_ERP_PracticeSupply: SupplyRequest.authoredOn) des eRezeptes.
-- b) Im Zeitraum vom 1. Juli 2026 bis zum 31. Dezember 2026 14. Januar 2027 werden eRezepte in der  Version 1.3.2 und 1.4.0 1.4.1 1.4.2 1.4.3 von den Krankenkassen verarbeitet.
-- 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. Januar 2027 15. Januar 2027 (der Wert des  Elementes gemäß Akzeptanzkriterium 1a) >= 01.01.2027 15.01.2027), werden nur noch eRezepte der  Version 1.4.0 1.4.1 1.4.2 1.4.3 von den Krankenkassen verarbeitet. eRezept in der Version 1.3.2 werden  als fehlerhaft abgewiesen.
+- b) Im Zeitraum vom 1. Juli 2026 bis zum 31. Dezember 2026 14. Januar 2027 werden eRezepte in der  Version 1.3.2 und 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4von den Krankenkassen verarbeitet.
+- 2. Nach dem Auslaufen der Übergangsregelung, ab dem 1. Januar 2027 15. Januar 2027 (der Wert des  Elementes gemäß Akzeptanzkriterium 1a) >= 01.01.2027 15.01.2027), werden nur noch eRezepte der  Version 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 von den Krankenkassen verarbeitet. eRezept in der Version 1.3.2  werden als fehlerhaft abgewiesen.
 
 **Begründung:**
 
-Zum 1. Juli 2026 wird die Aktualisierung der FHIR-Profile für das eRezept eingeführt. In diesem  Zusammenhang ist es erforderlich, eine Übergangsregelung für den Fall zu schaffen, dass neben der  gültigen Version 1.4.0 1.4.1 1.4.2 1.4.3 übergangsweise eRezepte in der Version 1.3.2 nach dem 1. Juli 2026  akzeptiert werden.
+Zum 1. Juli 2026 wird die Aktualisierung der FHIR-Profile für das eRezept eingeführt. In diesem  Zusammenhang ist es erforderlich, eine Übergangsregelung für den Fall zu schaffen, dass neben der  gültigen Version 1.4.0 1.4.1 1.4.2 1.4.3 1.4.4 übergangsweise eRezepte in der Version 1.3.2 nach dem 1. Juli  2026 akzeptiert werden.
 
 **Akzeptanzkriterium**
 
@@ -685,11 +688,11 @@ Da der FHIR®-Standard die Übertragung der Instanzen im XML- sowie JSON-Format 
 |  | 159a | Medication.ingredient.strengt h.numerator.value |  |
 |  |  | **PFLICHTFUNKTION ERP ** | **P36-22** |
 | Instanziierung KBV_PR_ERP_Medication_PZN  Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_ERP_Medication_PZN. | **Begründung:** | In diesem Profil werden die Rezeptierdaten einer Verordnung aus den Preis- und Produktverzeichnissen **Akzeptanzkriterium:  ** 1. | 7 |
-| folgt erfolgen: |  | **KBV_PR_ERP_MEDICATION_PZN** | **Daten** |
-| **ID gemäß** | | | |
-| **Tabelle 42** |  | **FHIR®-Mapping** | **Bedingung** |
-|  | **(Feldnr. = IDs gemäß** | **Tabelle 42** | Kategorie |
-| 81 | Medication.extension:Arzneim | ittelkategorie.value[x]:valueCo ding.code | Impfstoff  84 |
+| folgt erfolgen: |  | **KBV_PR_ERP_MEDICATION_PZN** |  |
+| **Daten** | | | |
+| **ID gemäß** | **Tabelle 42** |  | **FHIR®-Mapping** |
+| **Bedingung** |  | **(Feldnr. = IDs gemäß** | **Tabelle 42** |
+| Kategorie | 81 | Medication.extension:Arzneim ittelkategorie.value[x]:valueCo ding.code | Impfstoff |
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -702,12 +705,12 @@ Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab. 
 \| 159d  Medication.ingredient.strengt | h.denominator.unit | | |
 | KBV_PR_ERP_MEDICATION_PZN |  | | |
 |---|---|---|---|
-|  | Packungsgröße    111 | Medication.amount.numerato | WENN  ANSONSTEN    112  Medication.amount.numerato WENN |
-| ANSONSTEN |  | 110  Medication.extension:Normgr oesse.value[x]:valueCode |  |
-| WENN | ANSONSTEN | **Tabelle 30: Mapping KBV_PR_ERP_Medication_PZN** | 2. |
+|  | Packungsgröße    111  Medication.amount.numerato | WENN | ANSONSTEN    112  Medication.amount.numerato WENN  ANSONSTEN |
+|  | 110 | Medication.extension:Normgr oesse.value[x]:valueCode | WENN |
+| ANSONSTEN | **Tabelle** | **30: Mapping KBV_PR_ERP_Medication_PZN**  2. |  |
 | a) | | | |
-| EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] zu befüllen. | b)  3. **·** | **·** |
-| **·** | **·** |  |  |
+| EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen. | b) | 3. **·** **·** |  |
+| **·** **·** |  |  |  |
 |  |  |  |  |
 |  | | | |
 |  |  |  |  |
@@ -812,11 +815,11 @@ den Wirkstoffen (ID 118 - ID 120) sowie  Packungsgröße (ID 110  112)  O3-622 W
 |---|---|---|---|
 | 132  Medication.ingredient.extensi | on:Darreichungform.value[x]:v alueString |  | Menge des   133  Medication.ingredient.strengt h.numerator.value |
 | ENTWEDER | ODER | 134  Medication.ingredient.strengt | h.numerator.unit |
-|  | ENTWEDER | ODER    135  Medication.ingredient.strengt h.extension:MengeFreitext.val | ue[x]:valueString |
-| ENTWEDER | ODER | 104  Medication.form.text | **Tabelle** |
-| **32** | **: Mapping** | **KBV_PR_ERP_Medication_Compounding** |  |
-| 2. |  | a)  EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen. | b) |
-| **Bedingung:** | Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Funktion | EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] umgesetzt hat. |
+|  | ENTWEDER | ODER    135  Medication.ingredient.strengt h.extension:MengeFreitext.val ue[x]:valueString |  |
+| ENTWEDER  ODER | 104 | Medication.form.text | **Tabelle 32** |
+| **: Mapping** | **KBV_PR_ERP_Medication_Compounding** |  | 2. |
+|  | a) | EXT_ITA_VGEX_Anforderungskatalog_AVWG] zu befüllen.   b) |  |
+| **Bedingung:  ** Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Funktion | EXT_ITA_VGEX_Anforderungskatalog_AVWG | ] umgesetzt hat. |  |
 |  | 126 | Medication.extension:Herstell |  |
 |  | 127 | Medication.extension:Verpack ung.value[x]:valueString |  |
 | Bestandteile |  |  |  |
@@ -828,8 +831,7 @@ den Wirkstoffen (ID 118 - ID 120) sowie  Packungsgröße (ID 110  112)  O3-622 W
 |  | 135 | Medication.ingredient.strengt h.extension:MengeFreitext.val ue[x]:valueString | ENTWEDER  ODER |
 |  | 104 | Medication.form.text |  |
 
-Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß Optionale Felder müssen befüllt werden können.  Herstellungsanweisung ungsanweisung.value[x]:value Verpackung Name des  Bestandteils Bestandteils itemCodeableConcept.coding: pznCode.code Darreichungsform des Bestandteils  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Einheit des  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Menge und Einheit des Bestandteils  muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Darreichungsform Rezepturverordnung des [ O3-623 #### HINWEISE
-
+Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß Optionale Felder müssen befüllt werden können.  Herstellungsanweisung ungsanweisung.value[x]:value Verpackung Name des  Bestandteils Bestandteils itemCodeableConcept.coding: pznCode.code Darreichungsform des Bestandteils  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Einheit des  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Menge und Einheit des Bestandteils  muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Darreichungsform Rezepturverordnung des [ O3-623 HINWEISE
 
 ---
 
@@ -1772,34 +1774,19 @@ Gemäß § 312 Absatz 1 Punkt 1 SGB V hat zum 30. Juni 2020 die gematik die Maß
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRp Rahmen der Fachanwendung E-Rezept in der TI um.
-- 2. Die Software muss **bis einschließlich** **31.12.2025** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherten bei einem „Sonstigen Kostenträger“  versichert ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG 2]..
+- 1. Die Software setzt die Vorgaben der gematik gemäß [gemILF_PS_eRp] für die Übermittlung der ERP im  Rahmen der Fachanwendung E-Rezept in der TI um.
+- 2. Die Software muss **bis einschließlich** **31.12.2025** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn der Versicherten bei einem „Sonstigen Kostenträger“  versichert ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG] und [Anlage  2]..
 - a) Identifizierung eines „Sonstigen Kostenträgers“:   Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT],  [KBV_ITA_VGEX_Anforderungskatalog_KVDT]) ist immer >= 800 und der Kostenträger-Abrechnungsbereich kann 00 - 09 sein.  **Beispiel**: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 27860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
-- 3. Die Software muss **ab dem 01.01.2026** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn für den Versicherten keine VersichertenID (ID  vorhanden ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG 2
+- 3. Die Software muss **ab dem 01.01.2026** sicherstellen, dass der Versand eines ERP über die  Fachanwendung E-Rezept nicht erfolgt, wenn für den Versicherten keine VersichertenID (ID 19a)  vorhanden ist. In diesem Fall erfolgt weiterhin eine Ausstellung eines Papier-Rezeptes (Muster 16) nach  den bestehenden Vorgaben  insbesondere [EXT_ITA_VGEX_Anforderungskatalog_AVWG] und [Anlage  2
 - a) Sofern der Versicherte bei einem „Sonstigen Kostenträger“ versichert ist, muss das Feld  Kostenträgertype (ID 7) mit dem Wert „SKT“ befüllt sein.
 - Identifizierung eines „Sonstigen Kostenträgers“:
 - Die Seriennummer (Stellen 3-5) der VKNR (siehe [SDKT KBV_ITA_VGEX_Anforderungskatalog_KVDT]) ist immer >= 800 und der Kostenträger-Abrechnungsbereich kann 00 - 09 sein.
 - Beispiel: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Kontingent 860 - 861  (= Kassenart „Bundespolizei (BPOL)“) = Sonstiger Kostenträger.
-- 4. Die Software stellt sicher, dass der Versand eines ERP über die Fachanwendung E-Rezept nicht erfolgt,  wenn eine Verordnung von Sprechstundenbedarf / Praxisbedarf
+- 4. Die Software stellt sicher, dass der Versand eines ERP über die Fachanwendung E-Rezept nicht erfolgt,  wenn eine Verordnung von Sprechstundenbedarf / Praxisbedarf vorgenommen werden soll.
 
 **HINWEIS**
 
 - Gemäß dem Anforderungskatalog für Verordnungssoftware  EXT_ITA_VGEX_Anforderungskatalog_AVWG] muss die Software die Verordnung auf Muster 16 in  Papierform weiter ermöglichen. Im Kontext des E-Rezeptes greift dies insbesondere im Rahmen von  technischen Störungen der TI oder bei mobilen Versorgungssituationen, wie bspw. Haus- und  Heimbesuchen.
-- ] für die Übermittlung der ERP im
-- ] und [Anlage
-
-```
--
-```
-
-- 19a)
-- ] und [Anlage
-
-```
--
-```
-
-- vorgenommen werden soll.
 
 
 ---
@@ -1886,7 +1873,7 @@ Auf Wunsch des Versicherten muss die Einlösung eines ERP in einer Apotheke auch
 |---|---|
 | **P6-22** | Erfassung der Informationen mehrerer ERP-Instanzen auf dem Ausdruck |
 
-Der Ausdruck kann Informationen von bis zu drei ERPs eines Versicherten enthalten.
+Der Ausdruck kann Informationen von bis zu vier drei ERPs eines Versicherten enthalten.
 
 Begründung:
 
@@ -1943,7 +1930,7 @@ Ausdruck  Ihres E-Rezeptes Ihrer Verordnung: E-Rezept**Akzeptanzkriterium:**
 **HINWEIS**
 
 - Das Layout des Ausdrucks ist so gewählt, dass insbesondere die 2D-Codes nicht auf Standard-Faltlinien  liegen. Somit soll die Unversehrtheit des 2D-Codes bei einem eventuellen Zusammenfalten des  Ausdrucks gewährleistet werden. Die Positionierung ist somit zwingend einzuhalten.
-- Es darf nur die tatsächlich notwendige Anzahl an Verordnungen (durch den Anwender zum Ausdruck  ausgewählte ERP-Instanzen gemäß P6-22) aufgedruckt werden. In der musterartigen Darstellung  Abbildung 1) ist der zur Verfügung stehende Platz für die Abbildung der Informationen von drei ERP  vollständig mit beispielhaften Verordnungsinformationen belegt. Bei weniger abzubildenden ERP sind  entsprechend weniger Informationen und 2D-Codes zu drucken.
+- Es darf nur die tatsächlich notwendige Anzahl an Verordnungen (durch den Anwender zum Ausdruck  ausgewählte ERP-Instanzen gemäß P6-22) aufgedruckt werden. In der musterartigen Darstellung  Abbildung 1) ist der zur Verfügung stehende Platz für die Abbildung der Informationen von vier drei ERP  vollständig mit beispielhaften Verordnungsinformationen belegt. Bei weniger abzubildenden ERP sind  entsprechend weniger Informationen und 2D-Codes zu drucken.
 - Bei Druck auf ein DIN-A4-Blatt sollte die Ausrichtung des Ausdrucks „Hochformat“ voreingestellt sein, so  dass die Informationen in der oberen Hälfte des Blattes aufgedruckt werden.
 
 Siehe P6-24
@@ -2490,10 +2477,10 @@ Der Sammeltoken erleichtert die Einlösung in der Apotheke. Sofern die Einlösun
 
 **Akzeptanzkriterium:**
 
-- 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [gemSpec_DM_eRp gewählt werden.
+- 1. Die Art des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in [ gewählt werden.
 - 2. Der Inhalt des 2D-Codes muss gemäß den Vorgaben der gematik gemäß Kapitel 2.3 in  gemSpec_DM_eRp] gewählt werden.
-- 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der  aufgedruckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token  in dem 2D-Code als Sammeltoken umfasst, welche gemäß P6-31 bereits für die 2D-Codes der  Einzelverordnungen erstellt sind.
-- 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
+- 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der  aufgedruckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal vier drei)  Token in dem 2D-Code als Sammeltoken umfasst, welche gemäß P6-31 bereits für die 2D-Codes der  Einzelverordnungen erstellt sind.
+- 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [ Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
 - 5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
 
 | PFLICHTFUNKTION ERP |  |
@@ -2508,12 +2495,18 @@ Durch diese Informationen werden die Patienten in die Lage versetzt, sich selbst
 
 **Akzeptanzkriterium:**
 
-- 1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [Vorlage Patientenausdruck abgebildeten Form aufgedruckt werden.
-- a) Der Text ist abweichend von den Vorgaben gemäß P6-32 in Schriftgröße 8 pt.
-- 2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [Vorlage  Patientenausdruck] genutzt werden.
+- 1. Der Inhalt und die Positionierung des Informationsbereiches muss in der [ abgebildeten Form aufgedruckt werden.
+- a) Der Text ist abweichend von den Vorgaben gemäß
+- 2. Für die Abbildung der Grafiken (App-Logo und QR-Code) muss die bereitgestellte Vorlage [ Patientenausdruck] genutzt werden.
 - 3. Der enthaltene QR-Code muss:
-- a) [ausschließlich den folgenden Inhalt enthalten:](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[https://www.das-e-rezept-fuer-](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/) [deutschland.de/ausdruck/](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[und](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)
+- a) [ausschließlich den folgenden Inhalt enthalten:](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/) [deutschland.de/ausdruck/](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[und](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)
 - [b)](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)[](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/) [gemäß ISO/IEC 18004:2006 codiert sein.](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)
+- Vorlage Patientenausdruck
+- P6-32 in Schriftgröße 8 pt.
+- [https://www.das-e-rezept-fuer-](https://www.das-e-rezept-fuer-deutschland.de/ausdruck/)
+- gemSpec_DM_eRp
+- Vorlage
+- Vorlage
 
 
 ---
@@ -2772,13 +2765,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | **1  x** |
 |  |  |  |  |  |  |  |  | **Dokumenteninformation** |  | **1..1  Dieser Block enthält Informationen zum** | **2 **   x |
 |  |  |  | Dokumententyp | Kodiert | 1..1  Dieses Feld enthält den Typ des Formulars |  | 3 | x |  | Dokumentenversion | 5..8  1..1  Dieses Feld enthält die Version des |
-| 4 | x |  |  |  | Prüfnummer | 6..17 | 0..1  Dieses Feld enthält die Prüfnummer, | Im zahnärztlichen Bereich ist hier das | WENN  ANSONSTEN | 5 | x |
-| Dokumenten-ID | 22 | 1..1 | Dieses Feld enthält eine eindeutige |  |  | **6** | **x** |  |  |  |  |
-| **1** |  | **x** |  |  |  |  |  |  |  | **Dokumenteninformation** | **1..1** |
-| **Dieser Block enthält Informationen zum** |  | **2** |  | x |  |  | Dokumententyp | Kodiert  1..1 | Dieses Feld enthält den Typ des Formulars | 3 | x |
-| Dokumentenversion | 5..8 | 1..1 | Dieses Feld enthält die Version des |  | 4 | x |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die Prüfnummer, |  |
-| Im zahnärztlichen Bereich ist hier das  WENN | ANSONSTEN | 5 |  | x |  |  | Dokumenten-ID | 22  1..1 | Dieses Feld enthält eine eindeutige |  | **6** |
-| **x** |  |  |  |  |  |  |  |  | **Empfänger /** | **1..1** | **Dieser Block enthält Daten zum ** |
+| 4 | x |  |  |  | Prüfnummer | 6..17 | 0..1  Dieses Feld enthält die Prüfnummer, | Im zahnärztlichen Bereich ist hier das | WENN  ANSONSTEN  5 | x |  |
+| Dokumenten-ID  22 | 1..1 | Dieses Feld enthält eine eindeutige |  |  | **6** |  | **x** |  |  |  | **Empfänger /** |
+| **1** |  | **x** |  |  |  |  |  |  | **Dokumenteninformation** |  | **1..1  Dieser Block enthält Informationen zum** |
+| **2** |  | x |  |  |  | Dokumententyp | Kodiert  1..1 | Dieses Feld enthält den Typ des Formulars | 3    x |  | Dokumentenversion  5..8  1..1 |
+| Dieses Feld enthält die Version des | 4 |  | x |  |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die Prüfnummer, | Im zahnärztlichen Bereich ist hier das | WENN  ANSONSTEN | 5 |
+| x |  |  |  |  | Dokumenten-ID  22 | 1..1 | Dieses Feld enthält eine eindeutige |  | **6** | **x** |  |
+|  |  |  |  |  |  |  | **Empfänger /** |  | **1..1** | **Dieser Block enthält Daten zum ** |  |
 | **1** |  | **x** |  |  |  |  |  |  |  | **Dokumenteninformation** | **1..1  Dieser Block enthält Informationen zum** |
 |  | **2** |  | x |  |  |  | Dokumententyp  Kodiert | 1..1  Dieses Feld enthält den Typ des Formulars | 3 | x |  |
 | Dokumentenversion | 5..8 | 1..1 | Dieses Feld enthält die Version des |  | 4 |  | x |  |  |  | Prüfnummer |
@@ -3022,12 +3015,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | **7 **   x |
 |  |  | Kostenträgertyp | Kodiert | 1..1 | Dieses Feld enthält die Art des  WENN | ANSONSTEN | **8** |  | **x** |  |  |
 | **Allgemeine Information** |  |  |  | **1..1** | **Dieser Block enthält allgemeine** |  | 9 |  | x |  | IK der zuständigen  9  0..1  Dieses Feld enthält das |
-| WENN  ANSONSTEN |  | 10 |  |  | x |  | IK des Kostenträgers | 9  0..1 | Dieses Feld enthält das  WENN | ANSONSTEN  11 | x |
-|  | Name des Kostenträgers | 1..45 | 1..1 | Dieses Feld enthält den Namen des |  |  |  |  |  |  |  |
-| **7 ** | x |  |  |  | Kostenträgertyp | Kodiert | 1..1  Dieses Feld enthält die Art des | WENN  ANSONSTEN | **8** |  | **x ** |
-|  |  |  |  |  | **Allgemeine Information** |  |  | **1..1** | **Dieser Block enthält allgemeine** | 9 | x |
-|  | IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das | WENN  ANSONSTEN |  | 10 | x |  | IK des Kostenträgers | 9 |
-| 0..1  Dieses Feld enthält das | WENN | ANSONSTEN | 11 |  | x |  |  | Name des Kostenträgers   1..45 | 1..1  Dieses Feld enthält den Namen des |  |  |
+| WENN  ANSONSTEN |  | 10 |  |  | x |  | IK des Kostenträgers | 9  0..1 | Dieses Feld enthält das  WENN  ANSONSTEN | 11 | x |
+| Name des Kostenträgers | 1..45 | 1..1 | Dieses Feld enthält den Namen des |  |  |  |  |  |  |  |  |
+| **7 ** | x |  |  |  | Kostenträgertyp | Kodiert | 1..1  Dieses Feld enthält die Art des | WENN  ANSONSTEN | **8 ** | **x** |  |
+|  |  |  |  | **Allgemeine Information** |  |  | **1..1** | **Dieser Block enthält allgemeine** | 9 | x | IK der zuständigen  9 |
+| 0..1  Dieses Feld enthält das | WENN | ANSONSTEN |  | 10 |  | x |  | IK des Kostenträgers | 9  0..1 | Dieses Feld enthält das  WENN | ANSONSTEN |
+| 11 |  | x |  |  | Name des Kostenträgers | 1..45 | 1..1  Dieses Feld enthält den Namen des |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **7 ** | x |  |  |  | Kostenträgertyp | Kodiert | 1..1  Dieses Feld enthält die Art des | WENN | ANSONSTEN | **8 ** | **x ** |
 |  |  |  |  | **Allgemeine Information** |  |  | **1..1** | **Dieser Block enthält allgemeine** |  | 9 | x |
@@ -3272,12 +3265,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | Bedruckung des Personalienfeldes und des  12 |
 | x |  |  | WOP | Kodiert | 0..1  Dieses Feld enthält das | WENN | ANSONSTEN | **72** |  | **x** |  |
 |  | **Unfallinformationen** |  |  |  | **0..1** | **Dieser Block enthält Informationen zum** | **WENN** | **ANSONSTEN** | 73 |  | x      Unfallkennzeichen |
-| Kodiert  1..1 | Dieses Feld enthält die Information, in |  | 74 |  |  | x |  | Unfalltag  4..10 | 0..1  Dieses Feld enthält das Datum des | WENN  ANSONSTEN | WENN in diesem Feld ein Datum angegeben wird, |
+| Kodiert  1..1 | Dieses Feld enthält die Information, in |  | 74 |  |  | x |  | Unfalltag  4..10 | 0..1  Dieses Feld enthält das Datum des  WENN | ANSONSTEN  WENN in diesem Feld ein Datum angegeben wird, |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Bedruckung des Personalienfeldes und des  12 |  |  | x |  |  | WOP | Kodiert   0..1 | Dieses Feld enthält das  WENN | ANSONSTEN | **72** |  |
-| **x** |  |  |  |  |  | **Unfallinformationen** |  | **0..1** | **Dieser Block enthält Informationen zum** | **WENN** | **ANSONSTEN ** 73 |
-|  | x |  |  | Unfallkennzeichen | Kodiert  1..1 | Dieses Feld enthält die Information, in | 74 |  | x |  | Unfalltag |
-| 4..10  0..1 | Dieses Feld enthält das Datum des | WENN | ANSONSTEN | WENN in diesem Feld ein Datum angegeben wird, |  |  |  |  |  |  |  |
+| Bedruckung des Personalienfeldes und des  12 |  |  | x |  |  | WOP | Kodiert   0..1 | Dieses Feld enthält das  WENN | ANSONSTEN **72** |  | **x** |
+|  |  |  |  |  | **Unfallinformationen** |  | **0..1** | **Dieser Block enthält Informationen zum** | **WENN  ANSONSTEN** | 73 | x |
+| Unfallkennzeichen | Kodiert | 1..1 | Dieses Feld enthält die Information, in |  | 74 |  | x |  | Unfalltag  4..10 | 0..1  Dieses Feld enthält das Datum des | WENN |
+| ANSONSTEN  WENN in diesem Feld ein Datum angegeben wird, |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Bedruckung des Personalienfeldes und des  12 |  |  | x |  |  | WOP | Kodiert   0..1 | Dieses Feld enthält das | WENN  ANSONSTEN | **72 ** | **x** |
 |  |  |  |  |  | **Unfallinformationen** |  |  | **0..1** | **Dieser Block enthält Informationen zum** | **WENN** | **ANSONSTEN ** 73 |
@@ -3522,13 +3515,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | 75 |
 | x |  | Name des Unfallbetriebs | 1..45 | 0..1 | Dieses Feld enthält den Namen des  WENN | ANSONSTEN | **76** |  | **x** |  |  |
 | **Informationen GKV** |  |  |  | **0..1** | **Dieser Block enthält spezifische** |  | **das Feld "Kostenträgertyp" gleich "GKV" oder** | **ANSONSTEN WENN** | **ANSONSTEN ** 77 |  | x |
-| Zuzahlungsstatus  Kodiert | 1..1 | Dieses Feld enthält den Zuzahlungsstatus |  | WENN | **138** |  |  | **x** |  |  |  |
-| **Informationen PKV** |  |  | **0..1** |  | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "PKV" ist,** | **ANSONSTEN** | 139 | x |  | PKV-Tarifart   Kodiert  1..1 |
-| 75 |  |  | x |  | Name des Unfallbetriebs | 1..45 | 0..1  Dieses Feld enthält den Namen des | WENN  ANSONSTEN | **76** |  | **x ** |
-|  |  |  |  |  | **Informationen GKV** |  |  | **0..1** | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "GKV" oder** | **ANSONSTEN WENN  ANSONSTEN ** 77 |
-|  | x |  |  |  | Zuzahlungsstatus  Kodiert | 1..1 | Dieses Feld enthält den Zuzahlungsstatus | WENN | **138** |  | **x** |
-|  |  |  |  |  |  |  | **Informationen PKV** |  | **0..1** | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "PKV" ist,** |
-| **ANSONSTEN** | 139 |  |  | x |  |  | PKV-Tarifart   Kodiert | 1..1 | Dieses Feld enthält die PKV-Tarifart des |  |  |
+| Zuzahlungsstatus  Kodiert | 1..1 | Dieses Feld enthält den Zuzahlungsstatus |  | WENN | **138** |  |  | **x** |  |  | **Informationen PKV** |
+|  |  | **0..1** |  | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "PKV" ist,** |  | **ANSONSTEN ** 139 |  | x | PKV-Tarifart   Kodiert | 1..1  Dieses Feld enthält die PKV-Tarifart des |
+| 75 |  |  | x |  | Name des Unfallbetriebs | 1..45 | 0..1  Dieses Feld enthält den Namen des | WENN  ANSONSTEN | **76 ** | **x** |  |
+|  |  |  |  | **Informationen GKV** |  |  | **0..1** | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "GKV" oder  ANSONSTEN WENN** | **ANSONSTEN ** 77 | x |
+|  | Zuzahlungsstatus | Kodiert | 1..1 | Dieses Feld enthält den Zuzahlungsstatus | WENN |  | **138** |  | **x** |  |  |
+|  |  |  |  | **Informationen PKV** |  |  | **0..1** | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "PKV" ist,** | **ANSONSTEN ** 139 |  |
+| x |  |  |  | PKV-Tarifart   Kodiert | 1..1 | Dieses Feld enthält die PKV-Tarifart des |  |  |  |  |  |
 | 75 |  |  | x |  | Name des Unfallbetriebs | 1..45 | 0..1  Dieses Feld enthält den Namen des | WENN | ANSONSTEN | **76 ** | **x ** |
 |  |  |  |  | **Informationen GKV** |  |  | **0..1** | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "GKV" oder** | **ANSONSTEN WENN** | **ANSONSTEN ** 77 |
 |  | x |  |  |  | Zuzahlungsstatus | Kodiert | 1..1 | Dieses Feld enthält den Zuzahlungsstatus |  | WENN | **138** |
@@ -3772,13 +3765,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | **13 ** |
 | **x** |  |  |  |  |  |  |  | **Versichertenstatus ** | **0..1** | **Dieser Block enthält Angaben zum  das Feld "Kostenträgertyp" gleich "GKV" oder** | **ANSONSTEN ** 14 |
 | x |  |  |  | Versichertenart | Kodiert  1..1 | Dieses Feld enthält die Art der | 15 |  | x |  | Besondere  Kodiert  1..1  Dieses Feld enthält die besondere |
-| 16 |  |  | x |  |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease- | 17 | x | Kennzeichen |
-| Kodiert  1..1 | Dieses Feld enthält die Rechtsgrundlage, |  | 26 |  | x |  |  | Versicherungsschutz  10 | 0..1  Dieses Feld enthält das Datum des Endes |  | **18  x** |
-| **13** |  |  |  | **x** |  |  |  |  |  | **Versichertenstatus ** | **0..1  Dieser Block enthält Angaben zum** |
-| **das Feld "Kostenträgertyp" gleich "GKV" oder** |  | **ANSONSTEN** | 14 |  | x |  |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der | 15 | x |
-|  | Besondere | Kodiert | 1..1 | Dieses Feld enthält die besondere | 16 |  | x |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease- |
-| 17 |  |  | x |  |  | Kennzeichen | Kodiert  1..1 | Dieses Feld enthält die Rechtsgrundlage, | 26 | x |  |
-|  | Versicherungsschutz | 10 | 0..1 | Dieses Feld enthält das Datum des Endes |  | **18** | **x** |  |  |  |  |
+| 16 |  |  | x |  |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease- | 17 | x | Kennzeichen  Kodiert |
+| 1..1  Dieses Feld enthält die Rechtsgrundlage, |  | 26 |  | x |  |  | Versicherungsschutz | 10  0..1 | Dieses Feld enthält das Datum des Endes   **18** | **x** |  |
+| **13** |  |  |  | **x** |  |  |  |  | **Versichertenstatus ** | **0..1** | **Dieser Block enthält Angaben zum  das Feld "Kostenträgertyp" gleich "GKV" oder** |
+| **ANSONSTEN** | 14 |  |  | x |  |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der | 15 | x | Besondere  Kodiert |
+| 1..1  Dieses Feld enthält die besondere |  | 16 |  |  | x |  | DMP-Kennzeichen | Kodiert  1..1 | Dieses Feld enthält das Disease- | 17 |  |
+| x |  |  | Kennzeichen | Kodiert | 1..1  Dieses Feld enthält die Rechtsgrundlage, |  | 26 | x |  | Versicherungsschutz | 10 |
+| 0..1  Dieses Feld enthält das Datum des Endes |  |  | **18** | **x** |  |  |  |  |  |  | **Versicherter ** |
 | **13** |  |  |  | **x** |  |  |  |  |  | **Versichertenstatus ** | **0..1  Dieser Block enthält Angaben zum** |
 | **das Feld "Kostenträgertyp" gleich "GKV" oder** | **ANSONSTEN** | 14 |  | x |  |  | Versichertenart | Kodiert  1..1 | Dieses Feld enthält die Art der | 15 | x |
 |  | Besondere | Kodiert | 1..1 | Dieses Feld enthält die besondere |  | 16 |  |  | x |  |  |
@@ -4022,13 +4015,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | **ANSONSTEN  19** |
 |  | **x** |  |  |  |  | **Identifikator des** |  | **1..1** | **Diesers Feld Block enthält den** | **WENN  ANSONSTEN  ** 19a | x |
 |  | VersichertenID | 10 | 1..1 | Dieses Feld enthält die VersichertenID der |  | **140** |  | **x** |  |  |  |
-| **Name des Versicherten** |  |  |  | **1..1** | **Dieser Block enthält die Bestandteile des** |  | 20 |  | x |  | Vorname des  1..45  1..1  Dieses Feld enthält den Vornamen des |
-| 21 |  |  | x |  |  | Nachname des | 1..45  1..1 | Dieses Feld enthält den Nachnamen des | 22 | x | Titel des Versicherten |
-| **ANSONSTEN** |  | **19** |  |  | **x ** |  |  | **Identifikator des** |  | **1..1** | **Diesers Feld Block enthält den  WENN** |
-| **ANSONSTEN  ** 19a |  |  | x |  |  | VersichertenID | 10  1..1 | Dieses Feld enthält die VersichertenID der | **140** |  | **x ** |
-|  |  |  |  |  | **Name des Versicherten** |  |  | **1..1** | **Dieser Block enthält die Bestandteile des** | 20 |  |
-| x |  |  |  | Vorname des | 1..45  1..1 | Dieses Feld enthält den Vornamen des | 21 |  | x |  | Nachname des |
-| 1..45  1..1 | Dieses Feld enthält den Nachnamen des |  | 22 |  | x |  |  | Titel des Versicherten | 1..20  0..1 | Dieses Feld enthält den akademischen    23 | x |
+| **Name des Versicherten** |  |  |  | **1..1** | **Dieser Block enthält die Bestandteile des** |  | 20 |  | x | Vorname des | 1..45  1..1  Dieses Feld enthält den Vornamen des |
+| 21 |  | x |  |  | Nachname des | 1..45 | 1..1  Dieses Feld enthält den Nachnamen des | 22 | x |  | Titel des Versicherten  1..20  0..1  Dieses Feld enthält den akademischen |
+| **ANSONSTEN** |  | **19** |  |  | **x ** |  |  | **Identifikator des** | **1..1** | **Diesers Feld Block enthält den** | **WENN  ANSONSTEN  ** 19a |
+|  | x |  |  |  | VersichertenID  10 | 1..1 | Dieses Feld enthält die VersichertenID der | **140** | **x** |  |  |
+|  |  | **Name des Versicherten** |  |  | **1..1** |  | **Dieser Block enthält die Bestandteile des** | 20 |  | x |  |
+| Vorname des | 1..45 | 1..1 | Dieses Feld enthält den Vornamen des |  | 21 |  | x |  | Nachname des  1..45 | 1..1  Dieses Feld enthält den Nachnamen des |  |
+| 22 |  | x |  |  | Titel des Versicherten | 1..20 | 0..1  Dieses Feld enthält den akademischen |  | 23 | x | Namenszusatz des  1..20  0..1 |
 | **ANSONSTEN** |  | **19** |  | **x** |  |  |  |  | **Identifikator des ** | **1..1  Diesers Feld Block enthält den** | **WENN  ANSONSTEN** |
 | 19a |  | x |  |  | VersichertenID | 10 | 1..1  Dieses Feld enthält die VersichertenID der |  | **140** |  | **x ** |
 |  |  |  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** | **Dieser Block enthält die Bestandteile des** |
@@ -4272,12 +4265,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | 24      x |
 |  |  | Vorsatzwort des | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als | 25 | x |  |  | Geburtsdatum des  4..10  1..1  Dieses Feld enthält das Geburtsdatum des | WENN **27** |
 |  | **x** |  |  |  |  |  |  | **Straßenadresse des** |  | **0..1** | **Dieser Block enthält Informationen zur  WENN** |
-| **ANSONSTEN** |  |  | 28 |  | x |  |  | Wohnsitzländercode der  Kodiert | 1..3  0..1 | Dieses Feld enthält den | 29      x |
-|  |  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl.  WENN | ANSONSTEN WENN |  |  |  |  |  |
-| 24 |  | x |  |  | Vorsatzwort des | 1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als | 25 | x |  | Geburtsdatum des  4..10 |
-| 1..1  Dieses Feld enthält das Geburtsdatum des | WENN |  | **27** |  |  | **x** |  |  |  |  | **Straßenadresse des ** |
-| **0..1** |  | **Dieser Block enthält Informationen zur** |  | **WENN** | **ANSONSTEN** |  | 28 |  | x |  | Wohnsitzländercode der |
-| Kodiert  1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  | x |  | Postleitzahl der | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN | ANSONSTEN WENN |
+| **ANSONSTEN** |  |  | 28 |  | x |  |  | Wohnsitzländercode der  Kodiert | 1..3  0..1  Dieses Feld enthält den | 29 | x |
+|  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  ANSONSTEN WENN |  |  |  |  |  |  |
+| 24 |  | x |  |  | Vorsatzwort des | 1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als | 25 | x |  | Geburtsdatum des  4..10  1..1  Dieses Feld enthält das Geburtsdatum des |
+| WENN | **27** |  |  |  | **x** |  |  |  | **Straßenadresse des** |  | **0..1  Dieser Block enthält Informationen zur** |
+| **WENN** |  | **ANSONSTEN** |  |  | 28 |  | x |  | Wohnsitzländercode der  Kodiert | 1..3  0..1 | Dieses Feld enthält den |
+| 29 |  |  | x |  |  | Postleitzahl der | 1..10  0..1 | Dieses Feld enthält die Postleitzahl.  WENN | ANSONSTEN WENN |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 24 |  | x |  |  | Vorsatzwort des | 1..20 | 0..1  Dieses Feld enthält das Vorsatzwort als |  | 25 | x | Geburtsdatum des  4..10  1..1 |
 | Dieses Feld enthält das Geburtsdatum des  WENN |  | **27** |  |  | **x** |  |  |  |  |  | **Straßenadresse des ** |
@@ -4523,12 +4516,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  | x |  |  |  | Ortsname der  1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. | 31 | x | Straßenname der | 1..46  0..1  Dieses Feld enthält den Straßennamen. |
 | 32 |  | x |  |  | Hausnummer der | 1..9 | 0..1  Dieses Feld enthält die Hausnummer. | 33 |  | x | Anschriftenzusatz der  1..40 |
 | 0..1  Dieses Feld enthält den Anschriftenzusatz, |  |  | **34** |  |  | **x** |  |  |  |  | **Postfachanschrift des ** |
-| **0..1** |  | **Postfachanschrift des Versicherten.** |  | **der Block "Straßenadresse des Versicherten"** | **ANSONSTEN** |  | 35 |  | x |  | Wohnsitzländercode der  Kodiert  1..3  0..1 |
-| DANN  ANSONSTEN |  | 30 |  |  | x |  | Ortsname der | 1..40  0..1 | Dieses Feld enthält den Ortsnamen. | 31 | x |
-| Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  | x |  | Hausnummer der  1..9 | 0..1  Dieses Feld enthält die Hausnummer. | 33 |
-| x |  |  | Anschriftenzusatz der | 1..40 | 0..1  Dieses Feld enthält den Anschriftenzusatz, |  | **34** |  | **x** |  |  |
-|  |  |  |  |  | **Postfachanschrift des** |  | **0..1** | **Postfachanschrift des Versicherten.** | **der Block "Straßenadresse des Versicherten"** | **ANSONSTEN** |  |
-| 35 |  |  | x |  |  | Wohnsitzländercode der | Kodiert  1..3 | 0..1 | Dieses Feld enthält den | 36      x | Postleitzahl der |
+| **0..1** | **Postfachanschrift des Versicherten.** |  | **der Block "Straßenadresse des Versicherten"** |  | **ANSONSTEN** |  | 35 | x | Wohnsitzländercode der | Kodiert  1..3 | 0..1  Dieses Feld enthält den    36 |
+| DANN  ANSONSTEN |  | 30 |  |  | x |  | Ortsname der | 1..40  0..1 | Dieses Feld enthält den Ortsnamen.    31 | x | Straßenname der |
+| 1..46  0..1 | Dieses Feld enthält den Straßennamen. |  | 32 |  | x |  |  | Hausnummer der  1..9 | 0..1  Dieses Feld enthält die Hausnummer.    33 |  | x |
+| Anschriftenzusatz der  1..40 | 0..1 | Dieses Feld enthält den Anschriftenzusatz, |  |  | **34** |  | **x** |  |  |  |  |
+|  | **Postfachanschrift des** |  |  |  | **0..1** | **Postfachanschrift des Versicherten.** | **der Block "Straßenadresse des Versicherten"** | **ANSONSTEN** |  | 35 |  |
+| x |  |  | Wohnsitzländercode der | Kodiert  1..3 | 0..1 | Dieses Feld enthält den | 36 |  | x | Postleitzahl der | 1..10  0..1  Dieses Feld enthält die Postleitzahl.  WENN |
 | DANN  ANSONSTEN |  | 30 |  | x |  |  | Ortsname der | 1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 31 | x |
 | Straßenname der  1..46 | 0..1 | Dieses Feld enthält den Straßennamen. | 32 |  |  | x |  | Hausnummer der | 1..9  0..1 | Dieses Feld enthält die Hausnummer. | 33      x |
 |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzusatz, |  |  | **34** |  |  |
@@ -4772,13 +4765,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN  37 |
 | x |  |  |  | Ortsname der | 1..40  0..1 | Dieses Feld enthält den Ortsnamen. | 38 |  | x | Postfach der  1..8 | 0..1  Dieses Feld enthält das Postfach. |
 | **39** | **x** |  |  |  |  |  |  |  | **Stempelinformationen** |  | **1..1  Die Angaben in diesem Block entsprechen** |
-|  |  | **40** |  |  | **x** |  |  |  |  |  | **Ausstellende/ ** |
-| **1..1** | **Dieser Block enthält die Daten der** |  |  |  | **146** |  |  | **x** |  |  | **Qualifikation der** |
-| ANSONSTEN WENN  ANSONSTEN | 37 |  |  | x |  |  | Ortsname der  1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 38 |  | x |
-| Postfach der  1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** | **x** |  |  |  |  | **Stempelinformationen** |
-|  |  | **1..1** |  | **Die Angaben in diesem Block entsprechen** |  |  | **40** |  | **x** |  |  |
-|  |  |  |  | **Ausstellende/** |  |  | **1..1** | **Dieser Block enthält die Daten der** |  | **146** |  |
-|  |  | **x** |  |  |  |  |  | **Qualifikation der** |  | **1..1  Dieser Block enthält Informationen über** | 41 |
+|  |  | **40** |  |  | **x** |  |  |  |  | **Ausstellende/** | **1..1** |
+| **Dieser Block enthält die Daten der** |  |  |  | **146** |  |  |  | **x** |  |  | **Qualifikation der ** |
+| ANSONSTEN WENN  ANSONSTEN | 37 |  |  | x |  |  | Ortsname der  1..40 | 0..1  Dieses Feld enthält den Ortsnamen. | 38 | x | Postfach der  1..8 |
+| 0..1  Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |  |  |  |  | **Stempelinformationen** | **1..1** |
+| **Die Angaben in diesem Block entsprechen** |  |  |  | **40** |  |  | **x** |  |  |  |  |
+| **Ausstellende/** |  |  |  | **1..1** | **Dieser Block enthält die Daten der** |  |  | **146** |  |  | **x** |
+|  |  |  |  |  | **Qualifikation der** |  |  | **1..1** | **Dieser Block enthält Informationen über** | 41 | x |
 | ANSONSTEN WENN  ANSONSTEN | 37 |  |  | x |  |  | Ortsname der  1..40 | 0..1 | Dieses Feld enthält den Ortsnamen. | 38      x | Postfach der |
 | 1..8  0..1 | Dieses Feld enthält das Postfach. |  | **39** |  | **x** |  |  |  |  |  | **Stempelinformationen** |
 |  |  | **1..1** |  | **Die Angaben in diesem Block entsprechen** |  |  |  | **40** |  |  | **x** |
@@ -5024,9 +5017,9 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 | **42** |  |  |  | **x** |  |  | **Identifikator der** |  | **0..1** | **(Lebenslange Arztnummer LANR) oder** | **"BG" oder "SKT" oder "UK" oder “PKV“ ist,  ANSONSTEN WENN** |
 | **das Feld "Kostenträgertyp" gleich "GKV" oder "BG"** | **und das Feld „Typ der ausstellenden /** |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 49 |  |  |  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine Freitextangabe zur | 147 |  | x |
-| ASV- 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN | **42** |  |  | **x ** |  | **Identifikator der** | **0..1** |
-| **(Lebenslange Arztnummer LANR) oder** | **"BG" oder "SKT" oder "UK" oder “PKV“ ist,** |  | **ANSONSTEN WENN** |  | **das Feld "Kostenträgertyp" gleich "GKV" oder "BG"** | **und das Feld „Typ der ausstellenden /** |  |  |  |  |  |
+|  | 49 |  |  |  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine Freitextangabe zur | 147 | x | ASV- 9 |
+| 0..1  Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  | **42** |  |  | **x ** |  | **Identifikator der ** | **0..1** | **(Lebenslange Arztnummer LANR) oder  "BG" oder "SKT" oder "UK" oder “PKV“ ist,** |
+| **ANSONSTEN WENN** | **das Feld "Kostenträgertyp" gleich "GKV" oder "BG"** |  | **und das Feld „Typ der ausstellenden /** |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 49 |  |  | x |  |  | Berufsbezeichnung der  1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe zur | 147 | x      ASV- |
@@ -5274,9 +5267,9 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN  42c |  |  | x | Telematik-ID der | 1..128  0..1 | Dieses Feld enthält als Identifikator der |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| **Block „Verantwortliche Person“ nicht vorhanden ist,** |  | **ist dieser Block Pflicht.** |  | **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  | x |  | Arztnummer der  9 | 0..1  Dieses Feld enthält als Identifikator der  WENN  ANSONSTEN |
-| 42b |  |  | x |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN | 42c |  | x      Telematik-ID der |
-| 1..128  0..1 | Dieses Feld enthält als Identifikator der |  |  |  |  |  |  |  |  |  |  |
+| **Block „Verantwortliche Person“ nicht vorhanden ist,** |  | **ist dieser Block Pflicht.** |  | **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  | x | Arztnummer der  9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN   42b |
+|  | x |  |  | Zahnarztnummer der | 9  0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN | 42c | x | Telematik-ID der | 1..128  0..1  Dieses Feld enthält als Identifikator der |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **Block „Verantwortliche Person“ nicht vorhanden ist,** |  | **ist dieser Block Pflicht.** |  | **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  |  | x | Arztnummer der  9  0..1 | Dieses Feld enthält als Identifikator der  WENN  ANSONSTEN   42b |
@@ -5522,13 +5515,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | 43      x |
 |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer  WENN | ANSONSTEN | **141** |  |  | **x ** |  |
 | **Name der** |  |  |  | **1..1** | **Dieser Block enthält den Namen der** |  | 44 |  | x |  | Vorname der  1..45  1..1  Dieses Feld enthält den Vornamen der |
-| 45 |  |  |  | x |  | Nachname der | 1..45  1..1 | Dieses Feld enthält den Familiennamen der | 46 |  | x      Titel der ausstellenden/ |
-| 1..100  0..1 | Dieses Feld enthält den akademischen |  | 47 |  |  | x |  | Namenszusatz der  1..20 | 0..1  Dieses Feld enthält den Namenszusatz als | 48 | x |
-| 43 |  | x |  |  | ASV-Teamnummer | 9 | 0..1  Dieses Feld wird im Rahmen einer | WENN  ANSONSTEN | **141** |  | **x** |
-|  |  |  |  |  | **Name der** |  |  | **1..1** | **Dieser Block enthält den Namen der** | 44 | x |
-|  | Vorname der | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der | 45 |  |  | x | Nachname der | 1..45  1..1 | Dieses Feld enthält den Familiennamen der |
-| 46 |  |  |  | x |  | Titel der ausstellenden/ | 1..100  0..1 | Dieses Feld enthält den akademischen | 47 |  | x |
-|  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz als | 48 |  |  | x |  | Vorsatzwort der  1..20  0..1  Dieses Feld enthält das Vorsatzwort der |  |
+| 45 |  |  |  | x |  | Nachname der | 1..45  1..1 | Dieses Feld enthält den Familiennamen der | 46 | x | Titel der ausstellenden/  1..100 |
+| 0..1  Dieses Feld enthält den akademischen |  | 47 |  |  | x |  | Namenszusatz der | 1..20  0..1 | Dieses Feld enthält den Namenszusatz als    48 |  | x      Vorsatzwort der |
+| 43 |  | x |  |  | ASV-Teamnummer | 9 | 0..1  Dieses Feld wird im Rahmen einer | WENN  ANSONSTEN | **141 ** |  | **x ** |
+|  |  |  |  | **Name der** |  |  | **1..1** | **Dieser Block enthält den Namen der** | 44 | x | Vorname der  1..45 |
+| 1..1  Dieses Feld enthält den Vornamen der |  | 45 |  |  | x |  | Nachname der | 1..45  1..1 | Dieses Feld enthält den Familiennamen der | 46 |  |
+| x |  |  | Titel der ausstellenden/ | 1..100 | 0..1  Dieses Feld enthält den akademischen |  | 47 |  | x | Namenszusatz der | 1..20 |
+| 0..1  Dieses Feld enthält den Namenszusatz als |  | 48 |  |  | x |  | Vorsatzwort der | 1..20 | 0..1  Dieses Feld enthält das Vorsatzwort der |  |  |
 | 43 |  | x |  |  | ASV-Teamnummer | 9 | 0..1  Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN | **141 ** | **x** |
 |  |  |  |  | **Name der** |  |  | **1..1** | **Dieser Block enthält den Namen der** |  | 44 | x |
 |  | Vorname der | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |  |  | x |  |
@@ -5772,12 +5765,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | **50 ** |
 | **x** |  |  |  |  |  |  |  | **Verantwortliche Person** |  | **0..1  Dieser Block enthält die Daten der** | **das Feld  ANSONSTEN WENN** |
 | **ANSONSTEN** | **148** |  |  |  |  | **x** |  |  |  | **Qualifikation der** | **1..1** |
-| **die Qualifikation der verantwortlichen** |  |  | 51 |  |  | x |  | Typ der verantwortlichen  Kodiert | 1..1  Dieses Feld enthält einen Typ zur | Diesesas Feld | 58 |
-| x |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe zur |  |  |  |  |  |  |
-| **50** |  |  |  | **x** |  |  |  |  |  | **Verantwortliche Person** | **0..1** |
-| **Dieser Block enthält die Daten der** | **das Feld** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | **148** |  |  | **x** |  |  |
-| **Qualifikation der** |  |  |  | **1..1** | **die Qualifikation der verantwortlichen** |  | 51 |  | x |  | Typ der verantwortlichen |
-| Kodiert  1..1 | Dieses Feld enthält einen Typ zur |  | Diesesas Feld | 58 |  |  | x | Berufsbezeichnung der | 1..100   1..1 | Dieses Feld enthält eine Freitextangabe zur |  |
+| **die Qualifikation der verantwortlichen** |  |  | 51 |  |  | x |  | Typ der verantwortlichen  Kodiert | 1..1  Dieses Feld enthält einen Typ zur | Diesesas Feld  58 | x |
+|  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe zur |  |  |  |  |  |  |  |
+| **50** |  |  |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1  Dieser Block enthält die Daten der** |
+| **das Feld** | **ANSONSTEN WENN** |  | **ANSONSTEN** |  | **148** |  |  | **x** |  |  | **Qualifikation der ** |
+| **1..1** |  | **die Qualifikation der verantwortlichen** |  |  | 51 |  | x |  | Typ der verantwortlichen  Kodiert | 1..1  Dieses Feld enthält einen Typ zur |  |
+| Diesesas Feld  58 |  |  |  | x |  | Berufsbezeichnung der | 1..100   1..1 | Dieses Feld enthält eine Freitextangabe zur |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **50** |  |  |  | **x** |  |  |  |  |  | **Verantwortliche Person ** | **0..1  Dieser Block enthält die Daten der** |
 | **das Feld** |  | **ANSONSTEN WENN** | **ANSONSTEN** |  | **148** |  |  |  | **x** |  |  |
@@ -6024,9 +6017,9 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 | **Dieser Block enthält den Identifikator der** |  | **"BG" oder "SKT" oder "UK" oder “PKV“ und das** |  | **ANSONSTEN WENN** | **ANSONSTEN** | 52a |  | x |  | Arztnummer der  9 | 0..1  Dieses Feld enthält als Identifikator der  WENN  ANSONSTEN |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 149 |  |  | x |  | ASV- | 9 | 0..1  Dieses Feld enthält die ASV- | WENN  ANSONSTEN | **52** |  | **x ** |
-|  | **Identifikator der** |  |  | **0..1** | **Dieser Block enthält den Identifikator der** |  | **"BG" oder "SKT" oder "UK" oder “PKV“ und das** | **ANSONSTEN WENN** | **ANSONSTEN ** 52a |  | x |
-| Arztnummer der  9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN |  |  |  |  |  |  |  |
+| 149 |  |  | x |  | ASV- | 9 | 0..1  Dieses Feld enthält die ASV- | WENN  ANSONSTEN | **52 ** | **x** |  |
+| **Identifikator der ** |  | **0..1** |  | **Dieser Block enthält den Identifikator der** | **"BG" oder "SKT" oder "UK" oder “PKV“ und das** |  | **ANSONSTEN WENN** | **ANSONSTEN ** 52a | x |  | Arztnummer der  9  0..1  Dieses Feld enthält als Identifikator der |
+| WENN  ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 149 |  |  | x |  | ASV- | 9 | 0..1  Dieses Feld enthält die ASV- | WENN | ANSONSTEN | **52 ** | **x ** |
@@ -6073,7 +6066,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 | **ANSONSTEN ** 52a |  | x |  | Arztnummer der  9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-(GRAU = FELDGRUPPE) Fachgruppennummer der verantwortlichen Person verantwortlichen Person verantwortlichen Person DERH. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zusätzlich eine Telematik-ID enthalten. Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Fachgruppennummer der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „ASV -Fachgruppennummer der verantwortlichen Person“ vorhanden ist, DANN darf dieser Block nicht angegeben  werden. ist dieser Block optional. der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+(GRAU = FELDGRUPPE) Fachgruppennummer der verantwortlichen Person verantwortlichen Person verantwortlichen Person DERH. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zusätzlich eine Telematik-ID enthalten. Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Fachgruppennummer der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „ASV -Fachgruppennummer der verantwortlichen Person“ vorhanden ist, DANN darf dieser Block nicht angegeben  werden. ist dieser Block optional. der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
 
 ---
 
@@ -6272,13 +6265,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | 52b |
 | x |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als Identifikator der  WENN | ANSONSTEN | 52c |  | x | Telematik-ID der  1..128  0..1 | Dieses Feld enthält als Identifikator der   **142** |
 |  |  |  |  | **x** |  |  |  |  | **Name der** |  | **1..1  Dieser Block enthält den Namen der** |
-| 53 |  |  |  | x |  | Vorname der | 1..45  1..1 | Dieses Feld enthält den Vornamen der | 54 |  | x      Nachname der |
-| 1..45  1..1 | Dieses Feld enthält den Familiennamen der |  | 55 |  |  | x |  | Titel der  1..100 | 0..1  Dieses Feld enthält den akademischen | 56 | x |
-| 52b |  |  | x |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN | 52c |  | x      Telematik-ID der |
-| 1..128  0..1 | Dieses Feld enthält als Identifikator der |  |  | **142** |  |  |  | **x** |  |  | **Name der** |
-|  | **1..1** |  | **Dieser Block enthält den Namen der** |  | 53 |  |  | x | Vorname der | 1..45  1..1 | Dieses Feld enthält den Vornamen der |
-| 54 |  |  |  | x |  | Nachname der | 1..45  1..1 | Dieses Feld enthält den Familiennamen der | 55 |  | x |
-|  | Titel der | 1..100 | 0..1 | Dieses Feld enthält den akademischen | 56 |  |  | x |  | Namenszusatz der  1..20  0..1  Dieses Feld enthält den Namenszusatz als | 57 |
+| 53 |  |  |  | x |  | Vorname der | 1..45  1..1 | Dieses Feld enthält den Vornamen der | 54 | x | Nachname der  1..45 |
+| 1..1  Dieses Feld enthält den Familiennamen der |  | 55 |  |  | x |  | Titel der | 1..100  0..1 | Dieses Feld enthält den akademischen    56 |  | x      Namenszusatz der |
+| 52b |  |  | x |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN | 52c | x | Telematik-ID der  1..128  0..1 |
+| Dieses Feld enthält als Identifikator der |  | **142** |  |  |  |  | **x** |  |  | **Name der** | **1..1** |
+| **Dieser Block enthält den Namen der** |  | 53 |  |  | x |  | Vorname der | 1..45  1..1 | Dieses Feld enthält den Vornamen der | 54 |  |
+| x |  |  | Nachname der | 1..45 | 1..1  Dieses Feld enthält den Familiennamen der |  | 55 |  | x | Titel der | 1..100 |
+| 0..1  Dieses Feld enthält den akademischen |  | 56 |  |  | x |  | Namenszusatz der | 1..20 | 0..1  Dieses Feld enthält den Namenszusatz als | 57 | x |
 | 52b |  |  | x |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als Identifikator der | WENN | ANSONSTEN  52c | x | Telematik-ID der  1..128 |
 | 0..1  Dieses Feld enthält als Identifikator der |  |  | **142** |  |  |  | **x** |  |  |  | **Name der ** |
 |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 53 |  |  |  | x |  |
@@ -6522,12 +6515,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | **59** |
 | **x** |  |  |  |  |  |  |  | **Einrichtung** |  | **1..1 Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich gilt der ** |
 | **61** |  |  |  |  | **x** |  |  |  | **Identifikator der** |  | **0..1 Dieses Feld enthält einen Identifikator** |
-| **„PKV“ oder "BG" oder "SKT" oder "UK" ist, und** |  | **ANSONSTEN** | 61a |  |  | x |  | BSNR  9 | 0..1  Dieses Feld enthält eine | WENN  ANSONSTEN | 61b |
-| x |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein  WENN | ANSONSTEN |  |  |  |  |  |
-| **59** |  |  |  | **x** |  |  |  |  |  | **Einrichtung** | **1..1** |
-| **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich gilt der** |  |  |  | **61** |  |  | **x** |  |  | **Identifikator der** |
-|  |  | **0..1** |  | **Dieses Feld enthält einen Identifikator** | **„PKV“ oder "BG" oder "SKT" oder "UK" ist, und** |  | **ANSONSTEN ** 61a |  | x |  | BSNR |
-| 9  0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |  |  | x | IK-Nummer | 9  0..1 | Dieses Feld enthält ein  WENN | ANSONSTEN |
+| **„PKV“ oder "BG" oder "SKT" oder "UK" ist, und** |  | **ANSONSTEN** | 61a |  |  | x |  | BSNR  9 | 0..1  Dieses Feld enthält eine  WENN | ANSONSTEN  61b | x |
+|  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN  ANSONSTEN |  |  |  |  |  |  |
+| **59** |  |  |  | **x** |  |  |  |  | **Einrichtung** |  | **1..1 Dieser Block enthält Daten der** |
+| **Für den zahnärztlichen Bereich gilt der** |  |  | **61** |  |  |  | **x** |  |  | **Identifikator der** | **0..1** |
+| **Dieses Feld enthält einen Identifikator** |  | **„PKV“ oder "BG" oder "SKT" oder "UK" ist, und** |  | **ANSONSTEN** | 61a |  | x |  | BSNR  9 | 0..1  Dieses Feld enthält eine | WENN |
+| ANSONSTEN  61b |  |  |  | x |  | IK-Nummer | 9  0..1 | Dieses Feld enthält ein  WENN | ANSONSTEN |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **59** |  |  |  | **x** |  |  |  |  |  | **Einrichtung ** | **1..1 Dieser Block enthält Daten der** |
 | **Für den zahnärztlichen Bereich gilt der** |  |  | **61** |  |  |  |  | **x** |  |  | **Identifikator der** |
@@ -6772,13 +6765,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | 61c |
 | x |  | KZV- | 9 | 0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN | 61d |  | x | Standortnummer  9  0..1 | Dieses Feld enthält eine Standortnummer  WENN  ANSONSTEN  61e |
 |  |  | x |  |  | Telematik-ID der  1..128 | 0..1 | Dieses Feld enthält eine Telematik-ID der | 62 | x |  | Name der Einrichtung   1..60  0..1 |
-| Dieses Feld enthält die Bezeichnung der |  | **143** |  |  |  |  | **x** |  |  |  | **Straßenadresse der ** |
-| **1..1** | **Dieser Block enthält Daten zur** |  |  | 63 |  |  | x | Wohnsitzländercode der | Kodiert  0..1 | Dieses Feld enthält den | 64 |
-| 61c |  |  | x |  | KZV- | 9 | 0..1  Dieses Feld enthält eine | WENN  ANSONSTEN | 61d |  | x      Standortnummer |
-| 9  0..1 | Dieses Feld enthält eine Standortnummer | WENN | ANSONSTEN | 61e |  |  | x | Telematik-ID der | 1..128  0..1 | Dieses Feld enthält eine Telematik-ID der | 62      x |
-|  |  | Name der Einrichtung | 1..60 | 0..1 | Dieses Feld enthält die Bezeichnung der |  | **143** |  |  | **x** |  |
-|  |  |  |  | **Straßenadresse der** |  |  | **1..1** | **Dieser Block enthält Daten zur** | 63 |  |  |
-| x |  | Wohnsitzländercode der | Kodiert | 0..1  Dieses Feld enthält den |  | 64 |  |  | x | Postleitzahl der  1..10  0..1 | Dieses Feld enthält die Postleitzahl. |
+| Dieses Feld enthält die Bezeichnung der |  | **143** |  |  |  |  | **x** |  |  | **Straßenadresse der** | **1..1** |
+| **Dieser Block enthält Daten zur** |  |  | 63 |  |  | x |  | Wohnsitzländercode der  Kodiert | 0..1  Dieses Feld enthält den    64 |  | x |
+| 61c |  |  | x |  | KZV- | 9 | 0..1  Dieses Feld enthält eine | WENN  ANSONSTEN | 61d | x | Standortnummer  9  0..1 |
+| Dieses Feld enthält eine Standortnummer  WENN | ANSONSTEN | 61e |  |  | x |  | Telematik-ID der | 1..128  0..1 | Dieses Feld enthält eine Telematik-ID der    62 | x | Name der Einrichtung |
+| 1..60  0..1 | Dieses Feld enthält die Bezeichnung der |  |  | **143** |  |  |  | **x** |  |  |  |
+| **Straßenadresse der** |  |  |  | **1..1** | **Dieser Block enthält Daten zur** |  | 63 |  | x |  | Wohnsitzländercode der |
+| Kodiert  0..1 | Dieses Feld enthält den |  | 64 |  |  | x |  | Postleitzahl der | 1..10  0..1 | Dieses Feld enthält die Postleitzahl. |  |
 | 61c |  |  | x |  | KZV- | 9 | 0..1  Dieses Feld enthält eine | WENN | ANSONSTEN  61d | x | Standortnummer  9 |
 | 0..1  Dieses Feld enthält eine Standortnummer | WENN | ANSONSTEN | 61e |  |  | x |  | Telematik-ID der  1..128 | 0..1  Dieses Feld enthält eine Telematik-ID der | 62 | x |
 |  |  | Name der Einrichtung | 1..60 | 0..1 | Dieses Feld enthält die Bezeichnung der |  |  | **143** |  |  |  |
@@ -7022,13 +7015,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | 65 |
 | x |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. | 66 |  | x |  | Straßenname der  1..46  1..1  Dieses Feld enthält den Straßennamen. | 67 |
 | x |  |  | Hausnummer der | 1..9 | 1..1  Dieses Feld enthält die Hausnummer. |  | 68 |  | x | Anschriftenzusatz der | 1..40  0..1  Dieses Feld enthält den Anschriftenzusatz, |
-| **144** |  |  |  |  | **x** |  |  |  |  | **Kontaktdaten der** | **1..1** |
-| **Dieser Block enthält die Kontaktdaten der** |  | 69 |  |  | x |  | Telefonnummer der | 1..30  1..1 | Dieses Feld enthält die Telefonnummer. | 70 | x |
-| 65 |  |  | x |  | Ortsname der Einrichtung | 1..40 | 1..1  Dieses Feld enthält den Ortsnamen. | 66 |  | x | Straßenname der  1..46 |
-| 1..1  Dieses Feld enthält den Straßennamen. |  | 67 |  |  | x |  | Hausnummer der | 1..9  1..1 | Dieses Feld enthält die Hausnummer. | 68 | x |
-| Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzusatz, |  | **144** |  |  |  | **x** |  |  |
-|  |  | **Kontaktdaten der** |  |  | **1..1** |  | **Dieser Block enthält die Kontaktdaten der** | 69 |  | x |  |
-| Telefonnummer der | 1..30 | 1..1 | Dieses Feld enthält die Telefonnummer. | 70 |  |  | x |  | Faxnummer der | 1..30  0..1  Dieses Feld enthält die Faxnummer. | 71 |
+| **144** |  |  |  |  | **x** |  |  |  | **Kontaktdaten der** |  | **1..1 Dieser Block enthält die Kontaktdaten der** |
+|  | 69 |  |  |  | x |  | Telefonnummer der  1..30 | 1..1  Dieses Feld enthält die Telefonnummer. | 70 | x | Faxnummer der  1..30 |
+| 65 |  |  | x |  | Ortsname der Einrichtung | 1..40 | 1..1  Dieses Feld enthält den Ortsnamen. | 66 | x |  | Straßenname der  1..46  1..1  Dieses Feld enthält den Straßennamen. |
+| 67 |  |  |  | x |  | Hausnummer der | 1..9  1..1 | Dieses Feld enthält die Hausnummer. | 68 | x | Anschriftenzusatz der  1..40  0..1 |
+| Dieses Feld enthält den Anschriftenzusatz, |  | **144** |  |  |  |  | **x** |  |  |  | **Kontaktdaten der** |
+|  |  | **1..1** |  | **Dieser Block enthält die Kontaktdaten der** |  | 69 |  | x |  | Telefonnummer der  1..30 | 1..1 |
+| Dieses Feld enthält die Telefonnummer. | 70 |  |  | x |  |  | Faxnummer der  1..30 | 0..1 | Dieses Feld enthält die Faxnummer. | 71 | x      E-Mail der Einrichtung |
 | 65 |  |  | x |  | Ortsname der Einrichtung | 1..40 | 1..1  Dieses Feld enthält den Ortsnamen. |  | 66 | x | Straßenname der  1..46  1..1 |
 | Dieses Feld enthält den Straßennamen. | 67 |  |  | x |  |  | Hausnummer der  1..9 | 1..1  Dieses Feld enthält die Hausnummer. | 68 |  | x |
 | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den Anschriftenzusatz, |  |  | **144** |  |  |  |  | **x** |
@@ -7272,12 +7265,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | Arzneimittel oder sonstige Arzneimittel für  82 |
 | x |  |  |  | Noctu | Bool  0..1 | Dieses Feld enthält die Kennzeichnung, ob | WENN  ANSONSTEN | 83 | x |  | Sprechstundenbedarf /   Bool  0..1  Dieses Feld enthält die Kennzeichnung, ob |
 | 84 |  |  | x |  |  | Impfstoff | Bool  1..1 | Dieses Feld enthält die Kennzeichnung, ob  WENN | 85 | x | SER |
-| Bool  0..1 | Dieses Feld enthält die Kennzeichnung, ob | WENN | ANSONSTEN |  | 188 |  | x |  |  | eMP-Identifier | 36  0..1 |
-| Dieses Feld enthält einen Identifikator für | WENN |  |  |  |  |  |  |  |  |  |  |
-| Arzneimittel oder sonstige Arzneimittel für | 82 |  |  | x |  |  | Noctu    Bool | 0..1  Dieses Feld enthält die Kennzeichnung, ob | WENN  ANSONSTEN | 83 | x |
-|  | Sprechstundenbedarf / | Bool | 0..1 | Dieses Feld enthält die Kennzeichnung, ob | 84 |  | x |  | Impfstoff | Bool  1..1 | Dieses Feld enthält die Kennzeichnung, ob  WENN  85 |
-| x |  |  |  | SER | Bool  0..1 | Dieses Feld enthält die Kennzeichnung, ob | WENN  ANSONSTEN | 188 |  | x |  |
-|  |  | eMP-Identifier |  | 36 | 0..1 |  | Dieses Feld enthält einen Identifikator für | WENN |  |  |  |
+| Bool  0..1 | Dieses Feld enthält die Kennzeichnung, ob | WENN | ANSONSTEN |  | 188 |  | x |  | eMP-Identifier | 36 | 0..1  Dieses Feld enthält einen Identifikator für |
+| WENN |  |  |  |  |  |  |  |  |  |  |  |
+| Arzneimittel oder sonstige Arzneimittel für | 82 |  |  | x |  |  | Noctu    Bool | 0..1  Dieses Feld enthält die Kennzeichnung, ob | WENN  ANSONSTEN  83 | x |  |
+| Sprechstundenbedarf /   Bool | 0..1 | Dieses Feld enthält die Kennzeichnung, ob |  | 84 |  | x |  | Impfstoff | Bool  1..1  Dieses Feld enthält die Kennzeichnung, ob  WENN | 85 | x |
+| SER | Bool | 0..1 | Dieses Feld enthält die Kennzeichnung, ob | WENN | ANSONSTEN | 188 |  | x |  |  | eMP-Identifier |
+| 36 |  | 0..1 |  | Dieses Feld enthält einen Identifikator für | WENN |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Arzneimittel oder sonstige Arzneimittel für | 82 |  |  | x |  |  | Noctu    Bool | 0..1 | Dieses Feld enthält die Kennzeichnung, ob  WENN | ANSONSTEN  83 | x |
 | Sprechstundenbedarf / | Bool | 0..1 | Dieses Feld enthält die Kennzeichnung, ob | 84 |  |  | x |  | Impfstoff   Bool | 1..1  Dieses Feld enthält die Kennzeichnung, ob | WENN  85 |
@@ -7522,12 +7515,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | Medikationsplan (eMP) des Versicherten.  ePA Medication  ]. |
 | verordnet wird, |  | ANSONSTEN |  | **86** |  |  |  | **x** |  |  | **Mehrfachverordnung **  **0..1** |
 | **Dieser Block enthält Angaben zur** |  | **WENN** |  | **ANSONSTEN** | 87 |  | x |  | Kennzeichen  Bool | 1..1  Dieses Feld enthält die Kennzeichnung, ob | WENN  145 |
-|  | x |  |  | ID Mehrfachverordnung | 45  0..1 | Dieses Feld enthält eine eineindeutige ID, | WENN  ANSONSTEN | 88 |  | x | Zähler  1  0..1 |
-| Dieses Feld enthält die Angabe, um die  WENN | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
-| Medikationsplan (eMP) des Versicherten. | ePA Medication | ]. |  | verordnet wird, | ANSONSTEN |  | **86** |  |  | **x** |  |
-|  | **Mehrfachverordnung** |  |  | **0..1** | **Dieser Block enthält Angaben zur** |  | **WENN** | **ANSONSTEN ** 87 |  | x | Kennzeichen  Bool |
-| 1..1  Dieses Feld enthält die Kennzeichnung, ob |  | WENN | 145 |  |  | x |  | ID Mehrfachverordnung  45 | 0..1  Dieses Feld enthält eine eineindeutige ID, | WENN  ANSONSTEN | 88 |
-|  |  | x |  |  | Zähler  1 | 0..1 | Dieses Feld enthält die Angabe, um die  WENN | ANSONSTEN |  |  |  |
+|  | x |  |  | ID Mehrfachverordnung | 45  0..1 | Dieses Feld enthält eine eineindeutige ID, | WENN  ANSONSTEN | 88 | x |  | Zähler  1  0..1  Dieses Feld enthält die Angabe, um die |
+| WENN  ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
+| Medikationsplan (eMP) des Versicherten. | ePA Medication | ]. |  | verordnet wird, | ANSONSTEN |  | **86** |  | **x** |  |  |
+| **Mehrfachverordnung ** |  | **0..1** |  | **Dieser Block enthält Angaben zur** | **WENN** |  | **ANSONSTEN ** 87 |  | x | Kennzeichen  Bool | 1..1  Dieses Feld enthält die Kennzeichnung, ob  WENN |
+| 145 |  |  | x |  | ID Mehrfachverordnung | 45 | 0..1  Dieses Feld enthält eine eineindeutige ID, | WENN  ANSONSTEN | 88 |  | x |
+|  | Zähler | 1 | 0..1 | Dieses Feld enthält die Angabe, um die | WENN  ANSONSTEN |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Medikationsplan (eMP) des Versicherten. | ePA Medication | ]. |  | verordnet wird, | ANSONSTEN |  | **86** |  |  | **x ** |  |
 | **Mehrfachverordnung** |  |  | **0..1** | **Dieser Block enthält Angaben zur** |  | **WENN** | **ANSONSTEN** | 87 |  | x | Kennzeichen  Bool  1..1 |
@@ -7773,12 +7766,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 | x |  | Nenner | 1 | 0..1 | Dieses Feld enthält die Angabe der Länge  WENN | ANSONSTEN | 90 |  | x | Beginn Einlösefrist der  10  0..1 | Dieses Feld enthält das Datum, ab dem die  WENN  ANSONSTEN  91 |
 |  |  | x |  |  | Ende Einlösefrist der  10 | 0..1 | Dieses Feld enthält das Datum des letzten  WENN | ANSONSTEN | **160** |  | **x** |
 |  |  |  |  |  | **BtM-Angaben** |  | **0..1** | **Dieser Block enthält Angaben für die** | **WENN** | **ANSONSTEN** | 161 |
-|  | x |  |  |  | BtM-Sonderkennzeichen | Kodiert | 0..1 | Dieses Feld enthält ein Kennzeichen |  |  |  |
-| 89 |  |  | x |  | Nenner | 1 | 0..1  Dieses Feld enthält die Angabe der Länge | WENN  ANSONSTEN | 90 |  | x      Beginn Einlösefrist der |
-| 10  0..1 | Dieses Feld enthält das Datum, ab dem die | WENN | ANSONSTEN | 91 |  |  | x | Ende Einlösefrist der | 10  0..1 | Dieses Feld enthält das Datum des letzten  WENN | ANSONSTEN **160** |
-|  |  |  | **x** |  |  |  |  | **BtM-Angaben** |  | **0..1** |  |
-| **Dieser Block enthält Angaben für die** | **WENN** |  | **ANSONSTEN** |  | 161 |  |  | x |  | BtM-Sonderkennzeichen | Kodiert |
-| 0..1 |  | Dieses Feld enthält ein Kennzeichen |  |  |  |  |  |  |  |  |  |
+| x |  |  |  | BtM-Sonderkennzeichen | Kodiert |  | 0..1 | Dieses Feld enthält ein Kennzeichen |  |  |  |
+| 89 |  |  | x |  | Nenner | 1 | 0..1  Dieses Feld enthält die Angabe der Länge | WENN  ANSONSTEN | 90 | x | Beginn Einlösefrist der  10  0..1 |
+| Dieses Feld enthält das Datum, ab dem die  WENN | ANSONSTEN | 91 |  |  | x |  | Ende Einlösefrist der | 10  0..1 | Dieses Feld enthält das Datum des letzten  WENN  ANSONSTEN | **160** |  |
+| **x** |  |  |  |  |  | **BtM-Angaben** |  | **0..1** | **Dieser Block enthält Angaben für die** | **WENN** |  |
+| **ANSONSTEN** | 161 |  |  |  | x |  |  | BtM-Sonderkennzeichen | Kodiert | 0..1 | Dieses Feld enthält ein Kennzeichen |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 | 89 |  |  | x |  | Nenner | 1 | 0..1  Dieses Feld enthält die Angabe der Länge | WENN | ANSONSTEN  90 | x | Beginn Einlösefrist der  10 |
 | 0..1  Dieses Feld enthält das Datum, ab dem die | WENN | ANSONSTEN | 91 |  |  | x |  | Ende Einlösefrist der  10 | 0..1  Dieses Feld enthält das Datum des letzten | WENN  ANSONSTEN | **160 ** |
 |  |  |  | **x** |  |  |  |  |  |  |  | **BtM-Angaben** |
@@ -8022,13 +8015,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | **162 ** |
 |  |  |  |  | **x** |  |  |  | **Angaben zu** |  | **0..1 Dieser Block enthält Angaben für die** | **WENN       KEIN "Sprechstundenbedarf / Praxisbedarf"** |
 | **ANSONSTEN** | **WENN** |  | **KEIN "Sprechstundenbedarf / Praxisbedarf"** |  | **DANN** | **ANSONSTEN** | **darf dieser Block nicht vorhanden sein.** | 163 |  |  | x |
-| Wert der Reichdauer des | 1..2 |  | 0..1 |  | Dieses Feld enthält den Wert der die | WENN | ANSONSTEN |  |  | WENN | DANN      darf der Wert maximal 30 sein. |
-| 164 |  |  |  |  | x |  | Einheit der Reichdauer | 6 | 0..1 | Dieses Feld enthält die Einheit der | WENN    ANSONSTEN |
-| **162** |  |  |  |  |  |  | **x** |  |  | **Angaben zu** | **0..1** |
-| **Dieser Block enthält Angaben für die** | **WENN** |  | **KEIN "Sprechstundenbedarf / Praxisbedarf"** |  | **ANSONSTEN** | **WENN** | **KEIN "Sprechstundenbedarf / Praxisbedarf"** | **DANN** | **ANSONSTEN** | **darf dieser Block nicht vorhanden sein.** | 163 |
-|  |  | x |  |  | Wert der Reichdauer des | 1..2 | 0..1 | Dieses Feld enthält den Wert der die | WENN | ANSONSTEN |  |
-|  |  | WENN |  | DANN | darf der Wert maximal 30 sein. |  | 164 |  |  | x |  |
-| Einheit der Reichdauer |  | 6 |  | 0..1 | Dieses Feld enthält die Einheit der |  | WENN | ANSONSTEN |  |  |  |
+| Wert der Reichdauer des | 1..2 |  | 0..1 |  | Dieses Feld enthält den Wert der die | WENN | ANSONSTEN |  | WENN | DANN | darf der Wert maximal 30 sein. |
+| 164 |  |  |  |  | x |  | Einheit der Reichdauer | 6 | 0..1  Dieses Feld enthält die Einheit der | WENN | ANSONSTEN |
+| **162** |  |  |  |  |  |  | **x** |  | **Angaben zu** |  | **0..1 Dieser Block enthält Angaben für die** |
+| **WENN** | **KEIN "Sprechstundenbedarf / Praxisbedarf"** |  | **ANSONSTEN** |  | **WENN** | **KEIN "Sprechstundenbedarf / Praxisbedarf"** | **DANN** | **ANSONSTEN** | **darf dieser Block nicht vorhanden sein. ** 163 |  | x |
+|  | Wert der Reichdauer des |  | 1..2 |  | 0..1 | Dieses Feld enthält den Wert der die | WENN | ANSONSTEN |  |  | WENN |
+| DANN |  | darf der Wert maximal 30 sein. |  |  | 164 |  |  | x |  | Einheit der Reichdauer | 6 |
+| 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN | ANSONSTEN |  |  |  |  |  |  |
 | **162** |  |  |  |  |  |  | **x** |  |  | **Angaben zu ** | **0..1 Dieser Block enthält Angaben für die** |
 | **WENN** |  | **KEIN "Sprechstundenbedarf / Praxisbedarf"** | **ANSONSTEN** |  | **WENN** |  | **KEIN "Sprechstundenbedarf / Praxisbedarf"** | **DANN** | **ANSONSTEN** | **darf dieser Block nicht vorhanden sein.** | 163 |
 |  |  | x |  |  | Wert der Reichdauer des |  | 1..2 |  | 0..1 |  | Dieses Feld enthält den Wert der die |
@@ -8274,9 +8267,9 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  | **166** |  |  |  |  | **x** |  |  |  | **T-Rezept-Angaben** | **0..1** |
 | **Dieser Block enthält Angaben für die** |  | **WENN** |  | **ANSONSTEN WENN** | **ANSONSTEN** |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | WENN |  | DANN |  |  |  | 165 |  |  | x | Ergänzende Angaben |
-| 1..500 |  | 0..1 |  | Dieses Feld enthält ergänzende Angaben |  | **166** |  |  | **x** |  |  |
-| **T-Rezept-Angaben** |  |  |  | **0..1** | **Dieser Block enthält Angaben für die** |  | **WENN** | **ANSONSTEN WENN** | **ANSONSTEN** |  |  |
+|  | WENN |  | DANN |  |  |  | 165 |  | x |  | Ergänzende Angaben    1..500 |
+| 0..1 |  | Dieses Feld enthält ergänzende Angaben |  |  | **166** |  |  | **x** |  |  | **T-Rezept-Angaben** |
+| **0..1** |  | **Dieser Block enthält Angaben für die** |  | **WENN** | **ANSONSTEN WENN** |  | **ANSONSTEN** |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | WENN |  | DANN |  |  |  | 165 |  |  | x | Ergänzende Angaben |
@@ -8522,13 +8515,13 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | 167 |
 |  |  |  |  | x |  |  |  | Off-Label | Bool | 1..1  Dieses Feld enthält eine Angabe, ob eine | 168 |
 |  |  |  |  |  | x |  |  | Gebärfähige Frau | Bool | 1..1 | Dieses Feld enthält die Angabe, ob es sich |
-| 169 |  |  |  |  |  |  | x |  |  | Wert der Reichdauer des | 1..2  1..1 |
-| Dieses Feld enthält den Wert der die | WENN |  | das Feld |  | DANN | darf der Wert dieses Feldes | übersteigen. | ANSONSTEN | darf der Wert dieses Feldes | übersteigen. | 170 |
-| 167 |  |  |  |  |  |  | x |  |  | Off-Label | Bool  1..1 |
-| Dieses Feld enthält eine Angabe, ob eine |  |  | 168 |  |  |  |  | x |  |  | Gebärfähige Frau  Bool |
-| 1..1 |  | Dieses Feld enthält die Angabe, ob es sich |  |  | 169 |  |  |  |  | x |  |
-|  |  | Wert der Reichdauer des |  | 1..2 | 1..1 |  | Dieses Feld enthält den Wert der die | WENN | das Feld | DANN | darf der Wert dieses Feldes |
-| übersteigen. |  | ANSONSTEN |  | darf der Wert dieses Feldes | übersteigen. |  | 170 |  |  | x |  |
+| 169 |  |  |  |  |  |  | x |  | Wert der Reichdauer des | 1..2 | 1..1  Dieses Feld enthält den Wert der die |
+| WENN |  | das Feld |  | DANN | darf der Wert dieses Feldes |  | übersteigen. | ANSONSTEN | darf der Wert dieses Feldes     übersteigen. | 170 |  |
+| 167 |  |  |  |  |  |  | x |  | Off-Label | Bool | 1..1  Dieses Feld enthält eine Angabe, ob eine |
+|  | 168 |  |  |  |  |  | x |  | Gebärfähige Frau | Bool | 1..1  Dieses Feld enthält die Angabe, ob es sich |
+|  |  | 169 |  |  |  |  |  | x |  |  | Wert der Reichdauer des |
+| 1..2 |  | 1..1 |  | Dieses Feld enthält den Wert der die | WENN |  | das Feld | DANN | darf der Wert dieses Feldes | übersteigen. | ANSONSTEN |
+| darf der Wert dieses Feldes |  | übersteigen. |  | 170 |  |  |  |  | x |  | Einheit der Reichdauer  8 |
 | 167 |  |  |  |  |  |  | x |  |  | Off-Label  Bool | 1..1  Dieses Feld enthält eine Angabe, ob eine |
 |  |  | 168 |  |  |  |  |  | x |  |  | Gebärfähige Frau  Bool |
 | 1..1 |  | Dieses Feld enthält die Angabe, ob es sich |  |  |  | 169 |  |  |  |  |  |
@@ -8772,12 +8765,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  |  | Informationsmaterialien ausgehändigt  173 |
 |  |  |  |  |  | x |  |  |  | Erklärung Sachkenntnis | Bool  1..1 | Dieses Feld enthält die Erklärung, ob die |
 | **101 ** |  | **x** |  |  |  |  | **Verordnungsinhalt** |  | **1..1** | **Dieser Block enthält Angaben zum Inhalt ** | 102      x |
-|  |  | Aut idem | Bool | 0..1 | Dieses Feld enthält die Angabe, ob das  WENN | ANSONSTEN | 103 | x |  | Darreichungsform | Kodiert  0..1  Dieses Feld enthält die Angabe der  WENN |
-| ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
-| Informationsmaterialien ausgehändigt |  | 173 |  |  |  |  |  | x |  |  | Erklärung Sachkenntnis  Bool |
-| 1..1 | Dieses Feld enthält die Erklärung, ob die |  |  |  | **101 ** |  | **x ** |  |  | **Verordnungsinhalt** | **1..1** |
-| **Dieser Block enthält Angaben zum Inhalt ** | 102 |  |  | x |  |  | Aut idem   Bool | 0..1  Dieses Feld enthält die Angabe, ob das | WENN  ANSONSTEN | 103 |  |
-| x |  |  | Darreichungsform | Kodiert | 0..1  Dieses Feld enthält die Angabe der | WENN | ANSONSTEN |  |  |  |  |
+|  |  | Aut idem | Bool | 0..1 | Dieses Feld enthält die Angabe, ob das  WENN | ANSONSTEN | 103 | x |  | Darreichungsform  Kodiert | 0..1  Dieses Feld enthält die Angabe der  WENN  ANSONSTEN |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| Informationsmaterialien ausgehändigt |  | 173 |  |  |  |  |  | x |  | Erklärung Sachkenntnis | Bool  1..1 |
+| Dieses Feld enthält die Erklärung, ob die |  |  | **101** |  | **x** |  |  |  | **Verordnungsinhalt ** | **1..1** | **Dieser Block enthält Angaben zum Inhalt **   102 |
+| x |  |  |  | Aut idem | Bool  0..1 | Dieses Feld enthält die Angabe, ob das | WENN  ANSONSTEN | 103 | x |  |  |
+| Darreichungsform  Kodiert | 0..1 | Dieses Feld enthält die Angabe der | WENN | ANSONSTEN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Informationsmaterialien ausgehändigt |  | 173 |  |  |  |  |  | x |  | Erklärung Sachkenntnis | Bool  1..1 |
 | Dieses Feld enthält die Erklärung, ob die |  |  | **101** |  |  | **x** |  |  | **Verordnungsinhalt** |  | **1..1  Dieser Block enthält Angaben zum Inhalt** |
@@ -9024,9 +9017,9 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 | 155 |  | x |  |  | Verschreiber-ID | 1..45 | 0..1  Dieses Feld enthält eine Verschreiber-ID, | sich aus der Zulassung des Arzneimittels.  Verschreiber-ID angegeben wurde. |  | 189 | x |
 |  |  | Patienten-ID |  | 1..45 | 0..1 |  | Dieses Feld enthält eine Patienten-ID, |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 104 |  | x |  |  | Darreichungsform | 1..30 | 0..1  Dieses Feld enthält die Darreichungsform | WENN  ANSONSTEN WENN | ANSONSTEN  105 |  | x |
-| Abgabehinweis  1..500 | 0..1 | Dieses Feld enthält über die Dosierung |  |  | 155 |  | x |  | Verschreiber-ID  1..45 | 0..1  Dieses Feld enthält eine Verschreiber-ID, | sich aus der Zulassung des Arzneimittels.  Verschreiber-ID angegeben wurde. |
-| 189 |  |  | x |  |  |  | Patienten-ID | 1..45 | 0..1 | Dieses Feld enthält eine Patienten-ID, |  |
+| 104 |  | x |  |  | Darreichungsform | 1..30 | 0..1  Dieses Feld enthält die Darreichungsform | WENN  ANSONSTEN WENN | ANSONSTEN  105 | x | Abgabehinweis  1..500 |
+| 0..1  Dieses Feld enthält über die Dosierung |  |  | 155 |  | x |  |  | Verschreiber-ID  1..45 | 0..1  Dieses Feld enthält eine Verschreiber-ID,  sich aus der Zulassung des Arzneimittels.  Verschreiber-ID angegeben wurde. |  | 189 |
+| x |  |  |  | Patienten-ID | 1..45 |  | 0..1 | Dieses Feld enthält eine Patienten-ID, |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 104 |  | x |  |  | Darreichungsform | 1..30 | 0..1  Dieses Feld enthält die Darreichungsform | WENN | ANSONSTEN WENN  ANSONSTEN | 105      x | Abgabehinweis |
@@ -9274,9 +9267,9 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  | x |  |  | Kennzeichen Dosierung | Bool  1..1 | Dieses Feld enthält ein Kennzeichen zur | WENN | DANN | 108 |  | x |
 | Dosieranweisung / | 1..500 | 0..1 |  | Dieses Feld enthält eine freitextliche | WENN |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| **106** |  |  |  | **x** |  |  | **Dosierung** |  | **0..1** | **Dieser Block enthält Angaben zur** | **Medication IG DE vorgegeben.  das Feld "** |
-| **ANSONSTEN WENN** |  | **ANSONSTEN** | 107 |  |  | x |  | Kennzeichen Dosierung   Bool | 1..1  Dieses Feld enthält ein Kennzeichen zur | WENN | DANN     108 |
-|  |  | x |  |  | Dosieranweisung / | 1..500 | 0..1 | Dieses Feld enthält eine freitextliche  WENN |  |  |  |
+| **106** |  |  |  | **x** |  |  | **Dosierung** |  | **0..1  Dieser Block enthält Angaben zur** | **Medication IG DE vorgegeben.** | **das Feld " ANSONSTEN WENN** |
+| **ANSONSTEN** | 107 |  |  |  | x |  | Kennzeichen Dosierung   Bool | 1..1  Dieses Feld enthält ein Kennzeichen zur | WENN  DANN | 108 | x |
+|  | Dosieranweisung / |  | 1..500 | 0..1 | Dieses Feld enthält eine freitextliche | WENN |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | **106** |  |  |  | **x ** |  |  | **Dosierung** |  |  | **0..1  Dieser Block enthält Angaben zur  Medication IG DE** | **vorgegeben.  das Feld "** |
@@ -9523,12 +9516,12 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  |  |  | x |  |  | Dosieranweisung / | Kodiert | 1..1 | Dieses Feld enthält die Kategorie der | WENN  ANSONSTEN | **175 ** |
 |  |  |  |  | **x** |  |  |  | **Dosieranweisung /** |  | **0..*** | **Gebrauchsanweisung.  ist UND das Feld „Dosieranweisung /** |
 | **das Feld „Dosieranweisung Kategorie“ gleich** | **ANSONSTEN** |  | 176 |  |  |  |  | x | Wert der Dauer der | 3 | 0..1  Dieses Feld enthält den Wert der Dauer |
-| WENN |  |  | 177 |  |  |  | x |  | Einheit der Dauer der | Kodiert | 0..1  Dieses Feld enthält die Einheit der Dauer |
-| DANN   ANSONSTEN |  | 174 |  |  |  | x |  | Dosieranweisung / | Kodiert | 1..1 | Dieses Feld enthält die Kategorie der  WENN |
-| ANSONSTEN |  | **175** |  |  |  |  |  | **x** |  |  | **Dosieranweisung / ** |
-| **0..*** | **Gebrauchsanweisung.** |  | **ist UND das Feld „Dosieranweisung /** |  | **das Feld „Dosieranweisung Kategorie“ gleich** | **ANSONSTEN** | 176 |  |  |  | x |
-|  | Wert der Dauer der |  | 3 |  | 0..1 | Dieses Feld enthält den Wert der Dauer | WENN |  | 177 |  |  |
-| x |  |  | Einheit der Dauer der | Kodiert |  | 0..1 | Dieses Feld enthält die Einheit der Dauer |  | WENN |  |  |
+| WENN |  | 177 |  |  |  |  | x | Einheit der Dauer der | Kodiert  0..1 | Dieses Feld enthält die Einheit der Dauer | WENN |
+| DANN   ANSONSTEN |  | 174 |  |  |  | x |  | Dosieranweisung / | Kodiert  1..1 | Dieses Feld enthält die Kategorie der | WENN  ANSONSTEN |
+| **175** |  |  |  |  |  |  | **x** |  | **Dosieranweisung /** |  | **0..*  Gebrauchsanweisung.** |
+| **ist UND das Feld „Dosieranweisung /** | **das Feld „Dosieranweisung Kategorie“ gleich** |  | **ANSONSTEN** |  | 176 |  |  |  | x | Wert der Dauer der |  |
+| 3 | 0..1 |  | Dieses Feld enthält den Wert der Dauer |  | WENN |  | 177 |  |  | x |  |
+| Einheit der Dauer der | Kodiert |  | 0..1 | Dieses Feld enthält die Einheit der Dauer |  | WENN |  |  |  |  |  |
 | DANN   ANSONSTEN |  | 174 |  |  |  | x |  |  | Dosieranweisung / | Kodiert  1..1 | Dieses Feld enthält die Kategorie der  WENN |
 | ANSONSTEN | **175** |  |  |  |  |  | **x** |  |  | **Dosieranweisung /** | **0..*** |
 |  | **Gebrauchsanweisung.** |  | **ist UND das Feld „Dosieranweisung /** |  | **das Feld „Dosieranweisung Kategorie“ gleich** |  | **ANSONSTEN** |  | 176 |  |  |
@@ -9619,13 +9612,13 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 | WENN |  | ANSONSTEN |  | 179 |  |  |  |  |  | x |  |
 |  | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |
 |  | 180 |  |  |  |  |  | x |  |  | Einheit der Zeitangabe  Kodiert | 0..1 |
-|  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |
-| x | Wochentag der | Kodiert | 0..1 | Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |  |  |  |  |  |
+|  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |
+| x |  | Wochentag der | Kodiert | 0..1 | 0..* | Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 |  |  | x |  |
 | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN | 180 |
 |  |  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |
-| Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |  |
+|  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |  |
 | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 |  |  | x | Wert der Zeitangabe  2 |
@@ -9634,42 +9627,42 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 |  |  | x | Wert der Zeitangabe  2 |
 | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |  | 180 |  |  |  |
-| x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 |  |  | x    Wochentag der |
-|  | Kodiert |  | 0..1 |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |
+| x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 |  |  | x |
+| Wochentag der |  | Kodiert |  | 0..1 |  | 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN | ANSONSTEN |
 | DANN | ANSONSTEN | 178 |  |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“:  WENN |
 |  | ANSONSTEN |  | 179 |  |  |  |  |  | x |  |  |
 | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |  |
 | 180 |  |  |  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |
-|  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |
-|  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |  |
-| Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |  |  |  |  |  |  |  |  |  |
+|  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |
+|  |  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |
+| 0..* | Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | DANN |
 | ANSONSTEN |  | 178 |  |  |  |  | x |  | Häufigkeit der | 2 | 0..1  Dieses Feld enthält die Häufigkeit der |
 | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |  | ANSONSTEN |  | 179 |  |  |  |  |  |
 | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |  |  | x |  |
-| Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  |
-| 181 |  |  |  |  |  | x |  |  | Wochentag der |  | Kodiert |
-|  | 0..1 |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |
+| Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |
+|  | 181 |  |  |  |  |  | x |  |  | Wochentag der |  |
+| Kodiert |  | 0..1 |  | 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 |  |  | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  |
 | WENN | ANSONSTEN | 179 |  |  | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN  180 |
-|  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert | 0..1 |  | Dieses Feld enthält die Einheit der |
-|  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |  | x |
+|  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert | 0..1 |  |  |
+| Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  | x |
 |  |  |  |  |  |  |  |  |  |  |  | DANN |
 | ANSONSTEN |  | 178 |  |  |  |  |  | x |  |  | Häufigkeit der |
 |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |  | ANSONSTEN |
 |  | 179 |  |  |  |  |  | x |  |  | Wert der Zeitangabe |  |
 | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |  | 180 |  |
-|  |  | x | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 |  | x |
-| Wochentag der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält den Wochentag der |  | WENN | ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | x | Einheit der Zeitangabe | Kodiert | 0..1 |  | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 | x |
+|  | Wochentag der |  | Kodiert |  | 0..1 |  | 0..* | Dieses Feld enthält den Wochentag der |  | WENN |  |
+| ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | DANN |
 |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |  |  |
 | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |  |
 | ANSONSTEN | 179 |  |  | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |
 |  |  | x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 |  |
-|  | x | Wochentag der | Kodiert | 0..1 | Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |  |  |  |  |
+|  | x |  | Wochentag der | Kodiert | 0..1 | 0..* | Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | DANN |
 |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |  |  |
@@ -9683,13 +9676,13 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 |  |  | x |  |
 | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |  |
 | 180 |  |  |  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |
-|  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |
-|  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |  |
-| Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |
+|  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |
+|  |  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |
+|  | 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |
 | DANN | ANSONSTEN | 178 |  |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“:  WENN  ANSONSTEN |
 | 179 |  |  | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |  |
-|  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 | Dieses Feld enthält die Einheit der |
-|  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |  | x |
+|  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  |
+| Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 | Häufigkeit der |  | 2 | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 | x |
 |  |  | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN | ANSONSTEN |
@@ -9697,28 +9690,28 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |
 | ANSONSTEN | 179 |  |  | x |  | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN |
 | 180 |  |  |  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |
-|  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |
-|  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |  |
-| Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |
+|  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |
+|  |  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |
+|  | 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | DANN | ANSONSTEN | 178 |  |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der  Beispiel Dosieranweisung „2mal täglich“: | WENN |
 | ANSONSTEN | 179 |  |  | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |
-|  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 | Dieses Feld enthält die Einheit der |
-|  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |  | x |
+|  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  |
+| Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  | x |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 |  | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |
 | ANSONSTEN |  | 179 |  |  |  |  |  | x |  |  | Wert der Zeitangabe |
 |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |  | 180 |
 |  |  | x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 |  |
-|  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält den Wochentag der |
-|  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |  |
+|  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |  |
+| 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 |  |  | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  |
 | WENN |  | ANSONSTEN |  | 179 |  |  |  |  |  | x |  |
 |  | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |
 | 180 |  |  | x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 |
-|  |  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |
-|  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |
+|  |  |  |  |  | x |  |  | Wochentag der |  | Kodiert |  |
+| 0..1 |  | 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -9734,29 +9727,29 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 |  |
 |  | x |  |  | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der | WENN |
 |  | ANSONSTEN |  | 180 |  |  |  |  |  | x |  | Einheit der Zeitangabe |
-|  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |
+|  | Kodiert |  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN | 181 |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 |  | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |
 | ANSONSTEN |  | 179 |  |  |  |  |  | x |  |  | Wert der Zeitangabe |
-| 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |  |  | x | Einheit der Zeitangabe | Kodiert | 0..1  Dieses Feld enthält die Einheit der |
-| WENN |  | ANSONSTEN |  | 181 |  |  |  | x | Wochentag der | Kodiert |  |
+| 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |  |  | x | Einheit der Zeitangabe | Kodiert | 0..1 |
+| Dieses Feld enthält die Einheit der | WENN |  | ANSONSTEN | 181 |  |  |  | x |  | Wochentag der | Kodiert |
 | DANN | ANSONSTEN | 178 |  |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“:  WENN  ANSONSTEN  179          x    Wert der Zeitangabe |
-| 2 |  | 0..1 |  | Dieses Feld enthält den Wert der | WENN |  | ANSONSTEN | 180 |  |  | x    Einheit der Zeitangabe  Kodiert  0..1  Dieses Feld enthält die Einheit der  WENN  ANSONSTEN |
-| 181 |  |  |  |  | x |  | Wochentag der | Kodiert | 0..1 | Dieses Feld enthält den Wochentag der | WENN  ANSONSTEN |
+| 2 |  | 0..1 |  | Dieses Feld enthält den Wert der | WENN |  | ANSONSTEN | 180 |  |  | x    Einheit der Zeitangabe  Kodiert  0..1    Dieses Feld enthält die Einheit der  WENN |
+| ANSONSTEN | 181 |  |  |  |  | x |  | Wochentag der | Kodiert | 0..1 | 0..*  Dieses Feld enthält den Wochentag der  WENN |
 |  |  |  |  |  |  |  |  |  |  |  | DANN   ANSONSTEN  178 |
 |  | x |  |  | Häufigkeit der | 2 |  | 0..1  Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN |  |
 | 179 |  |  | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 | x |
 | DANN | ANSONSTEN | 178 |  |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: |
 | WENN | ANSONSTEN | 179 |  |  | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN |
-| 180 |  |  | x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181          x    Wochentag der  Kodiert  0..1  Dieses Feld enthält den Wochentag der |
-| WENN | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
+| 180 |  |  | x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181          x    Wochentag der  Kodiert  0..1 |
+| 0..* | Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | DANN |
 | ANSONSTEN | 178 |  |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN |
 | ANSONSTEN | 179 |  |  |  |  | x |  | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der |
 |  | WENN |  | ANSONSTEN |  | 180 |  |  |  |  |  | x |
-|  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |
+|  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN | ANSONSTEN |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN | ANSONSTEN |
 |  | 179 |  |  |  |  |  | x |  |  | Wert der Zeitangabe  2 |  |
@@ -9767,22 +9760,22 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  |  |  |  |  |  |  |  |  |  |  | DANN |
 | ANSONSTEN |  | 178 |  |  |  |  | x | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der  Beispiel Dosieranweisung „2mal täglich“: |
 | WENN | ANSONSTEN | 179 |  |  | x |  | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN  ANSONSTEN  180 |
-|  |  | x |  |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN | 181 |
-|  |  |  | x |  | Wochentag der |  | Kodiert | 0..1 | Dieses Feld enthält den Wochentag der | WENN | ANSONSTEN |
+|  |  | x |  |  | Einheit der Zeitangabe | Kodiert | 0..1 |  | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN  181 |
+|  |  |  |  | x |  | Wochentag der | Kodiert | 0..1 | 0..* | Dieses Feld enthält den Wochentag der | WENN |
 |  |  |  |  |  |  |  |  |  |  |  | DANN   ANSONSTEN |
 | 178 |  |  |  |  | x |  | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der  Beispiel Dosieranweisung „2mal täglich“: | WENN  ANSONSTEN |
 | 179 |  |  |  |  | x |  | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN  ANSONSTEN |
 | 180 |  |  |  |  | x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der | WENN  ANSONSTEN |
-| 181 |  |  |  |  | x |  | Wochentag der | Kodiert | 0..1 | Dieses Feld enthält den Wochentag der | WENN  ANSONSTEN |
-| DANN |  | ANSONSTEN |  | 178 |  |  |  | x | Häufigkeit der | 2 | 0..1  Dieses Feld enthält die Häufigkeit der |
-| Beispiel Dosieranweisung „2mal täglich“: |  | WENN |  | ANSONSTEN | 179 |  |  |  | x | Wert der Zeitangabe | 2  0..1 |
-| Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN | 180 |  |  |  | x | Einheit der Zeitangabe |  |
-| Kodiert | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN | ANSONSTEN | 181 |  |  | x |  |
-| Wochentag der |  | Kodiert |  | 0..1 | Dieses Feld enthält den Wochentag der |  | WENN | ANSONSTEN |  |  |  |
+| 181 |  |  |  |  | x |  | Wochentag der | Kodiert | 0..1  0..* | Dieses Feld enthält den Wochentag der | WENN  ANSONSTEN |
+| DANN |  | ANSONSTEN |  | 178 |  |  |  | x | Häufigkeit der  2 | 0..1 | Dieses Feld enthält die Häufigkeit der  Beispiel Dosieranweisung „2mal täglich“: |
+| WENN |  | ANSONSTEN |  | 179 |  |  |  | x | Wert der Zeitangabe  2 | 0..1 | Dieses Feld enthält den Wert der  WENN |
+| ANSONSTEN |  | 180 |  |  |  |  | x | Einheit der Zeitangabe | Kodiert | 0..1 |  |
+| Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN | 181 |  |  |  | x | Wochentag der |  |
+| Kodiert | 0..1 |  | 0..* | Dieses Feld enthält den Wochentag der |  | WENN | ANSONSTEN |  |  |  |  |
 | DANN |  | ANSONSTEN |  | 178 |  |  |  | x |  | Häufigkeit der  2 | 0..1  Dieses Feld enthält die Häufigkeit der |
 | Beispiel Dosieranweisung „2mal täglich“: | WENN |  | ANSONSTEN | 179 |  |  |  | x |  | Wert der Zeitangabe | 2  0..1 |
 | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |  | 180 |  |  |  |  | x |
-|  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN | ANSONSTEN  181 |
+|  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN  ANSONSTEN |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x    Häufigkeit der |
 |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |  | ANSONSTEN |
 | 179 |  |  |  |  | x |  | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN  ANSONSTEN  180 |
@@ -9792,36 +9785,36 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 | Häufigkeit der | 2 | 0..1 | Dieses Feld enthält die Häufigkeit der | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 |  |  | x |  |
 | Wert der Zeitangabe |  | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der |  | WENN |  | ANSONSTEN |  |
 | 180 |  |  |  |  |  | x |  |  | Einheit der Zeitangabe |  | Kodiert |
-| 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN | ANSONSTEN | 181 |  |  |  | x |  |
-| Wochentag der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält den Wochentag der |  | WENN | ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
+| 0..1 |  |  | Dieses Feld enthält die Einheit der | WENN | ANSONSTEN |  | 181 |  |  | x |  |
+|  | Wochentag der |  | Kodiert |  | 0..1 |  | 0..* | Dieses Feld enthält den Wochentag der |  | WENN |  |
+| ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  | x |  |
 | Häufigkeit der |  | 2 | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN | 179 | x    Wert der Zeitangabe |
 | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |  |  | x |  | Einheit der Zeitangabe | Kodiert |
-| 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |
-|  |  | x |  |  | Wochentag der | Kodiert |  | 0..1 |  | Dieses Feld enthält den Wochentag der |  |
-| WENN | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
+| 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |
+|  |  |  | x |  | Wochentag der |  | Kodiert |  | 0..1 |  | 0..* |
+| Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 |  |  | Häufigkeit der |  | 2 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  |
 | WENN |  | ANSONSTEN |  | 179 |  |  |  |  | x |  |  |
 | Wert der Zeitangabe | 2 |  | 0..1 | Dieses Feld enthält den Wert der |  | WENN | ANSONSTEN | 180 |  |  | x    Einheit der Zeitangabe  Kodiert |
-| 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |
-|  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält den Wochentag der |
-|  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |  |
+| 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |
+|  |  |  | x |  |  | Wochentag der |  | Kodiert |  | 0..1 |  |
+| 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x |
 | Häufigkeit der |  | 2 |  | 0..1  Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: | WENN | ANSONSTEN  179 |  | x | Wert der Zeitangabe |
 | 2 |  | 0..1 |  | Dieses Feld enthält den Wert der | WENN |  | ANSONSTEN | 180 |  |  | x |
-|  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Einheit der |  | WENN |  |
-| ANSONSTEN |  | 181 |  |  |  |  |  | x |  |  | Wochentag der |
-|  | Kodiert |  | 0..1 |  | Dieses Feld enthält den Wochentag der |  | WENN |  | ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Einheit der Zeitangabe |  | Kodiert |  | 0..1 |  |  | Dieses Feld enthält die Einheit der |  | WENN |
+|  | ANSONSTEN |  | 181 |  |  |  |  |  | x |  |  |
+| Wochentag der |  | Kodiert |  | 0..1 |  | 0..* |  | Dieses Feld enthält den Wochentag der |  | WENN |  |
+| ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
 |  | DANN |  | ANSONSTEN |  | 178 |  |  |  |  |  | x    Häufigkeit der  2 |
 |  | 0..1 |  | Dieses Feld enthält die Häufigkeit der |  | Beispiel Dosieranweisung „2mal täglich“: |  | WENN |  | ANSONSTEN |  | 179 |
 | x | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der | WENN | ANSONSTEN | 180 |  |  | x | Einheit der Zeitangabe  Kodiert  0..1 |
-| Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |  |
+|  | Dieses Feld enthält die Einheit der |  | WENN |  | ANSONSTEN |  | 181 |  |  |  |  |
 
 (GRAU = FELDGRUPPE) Anwendung pro Anwendung DERH. Anwendung pro Zeitangabe. Häufigkeit der Anwendung ist 2. Wert der Zeitangabe ist 1. Einheit der Zeitangabe ist Tag.  Zeitangabe (z.B. 1). Zeitangabe (z.B. Tag) Anwendung (z.B. Montag). ist dieses Feld Pflicht. darf es nicht angegeben werden. das Feld „Dosieranweisung Kategorie“ gleich „DAILY_FOUR_SCHEME“ oder „INTERVAL“ ist muss dieses Feld angegeben werden. darf es nicht angegeben werden das Feld „Dosieranweisung Kategorie“ gleich „DAILY_FOUR_SCHEME“ oder „INTERVAL“ ist muss dieses Feld angegeben werden. darf es nicht angegeben werden das Feld „Dosieranweisung Kategorie“ gleich „DAILY_FOUR_SCHEME“ oder „INTERVAL“ ist muss dieses Feld angegeben werden. darf es nicht angegeben werden das Feld „Dosieranweisung Kategorie“ gleich „WEEKDAY“ ist muss dieses Feld angegeben werden. darf es nicht angegeben werden
 
@@ -9865,213 +9858,213 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 \| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |
-|  |  |  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |
-|  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |
-|  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge | 185 |
-|  |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert | 1..1 |  |
-| Dieses Feld enthält die Einheit der Menge | 186 |  |  | x |  | Generierter Text | 0..1 | Dieses Feld enthält einen Text, der von | ePA Medication  ] erzeugt wurde. Bei | WENN | ANSONSTEN |
+| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN |
+| 183 |  |  |  |  |  | x |  |  | Tageszeit der |  | Kodiert |
+|  | 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |
+|  |  |  |  |  | x |  |  | Wert der Menge pro |  | 3  1..1 | Dieses Feld enthält den Wert der Menge |
+|  |  | 185 |  |  |  |  |  | x |  | Einheit der Menge pro |  |
+| Kodiert | 1..1 | Dieses Feld enthält die Einheit der Menge | 186 |  |  | x |  | Generierter Text | 0..1 | Dieses Feld enthält einen Text, der von | ePA Medication  ] erzeugt wurde. Bei |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-| 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert | 0..1 |
-| Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  | x |
-|  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |
-|  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  |
+| 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert |
+| 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |
+|  |  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |
+|  | 185 |  |  |  |  |  | x |  |  | Einheit der Menge pro |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  | 5 |
-| 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der  WENN |
-|  | ANSONSTEN |  | 184 |  |  |  |  |  | x |  |  |
-| Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |
+| 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x | Tageszeit der | Kodiert | 0..1  0..* |
+|  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |
+|  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge | 185 |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-| 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert | 0..1  Dieses Feld enthält die Tageszeit der  WENN |
-| ANSONSTEN |  | 184 |  |  |  |  |  | x |  | Wert der Menge pro |  |
-| 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  | Einheit der Menge pro | Kodiert | 1..1 | Dieses Feld enthält die Einheit der Menge    186 |
-|  |  |  |  | x |  |  |  | Generierter Text |  | 0..1 |  |
-| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |
-|  |  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  |
-| Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |  |
-| x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  |
-| 185 |  |  |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |
-|  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  | x |
-|  | Generierter Text |  | 0..1 | Dieses Feld enthält einen Text, der von  ePA Medication | ] erzeugt wurde. Bei | WENN | ANSONSTEN |  |  |  |  |
+| 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert  0..1  0..* |
+| Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  | x |
+|  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  | Einheit der Menge pro | Kodiert  1..1 |
+| Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  | x |  |  | Generierter Text |
+| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN  183 |
+|  |  |  |  |  | x |  |  | Tageszeit der |  | Kodiert |  |
+| 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |
+|  |  |  |  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |
+|  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |  |
+|  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |
+|  | x |  | Generierter Text |  | 0..1 | Dieses Feld enthält einen Text, der von  ePA Medication | ] erzeugt wurde. Bei | WENN | ANSONSTEN |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | 182 |
-|  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |  | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN |
-| 183 |  |  |  |  |  | x |  |  | Tageszeit der |  | Kodiert |
-| 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |  | Wert der Menge pro | 3 | 1..1 |
-| Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |  |  |
-| Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |
-|  |  | x |  |  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von |
-| ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |
+|  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |  | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der  WENN |
+| ANSONSTEN |  | 183 |  |  |  |  |  | x |  |  | Tageszeit der |
+| Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |  | Wert der Menge pro |
+| 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |
+|  | x |  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |
+|  | 186 |  |  |  |  | x |  |  |  | Generierter Text |  |
+|  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  |
-| 5 |  | 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |
-|  |  | x | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  | x |
-| Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  | 185 |  |  |  |
-|  |  | x |  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |
+| 5 |  | 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  |
+| 183 |  |  | x | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |
+|  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 | Dieses Feld enthält den Wert der Menge |  |  |
+| 185 |  |  |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |
 |  |  |  |  |  |  |  |  |  |  |  | 182 |
 |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  | 5 |  | 0..1 |
-|  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |  |  |
-|  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Tageszeit der |  |
-| WENN |  | ANSONSTEN |  | 184 |  |  |  |  |  | x |  |
-| Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge |  | 185 |  |  | x | Einheit der Menge pro | Kodiert | 1..1  Dieses Feld enthält die Einheit der Menge |
-| 186 |  |  |  |  | x |  |  | Generierter Text |  |  | 0..1 |
-|  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |
+|  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |
+|  |  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  |
+| 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |
+|  | x | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge |  | 185 |  |  | x | Einheit der Menge pro  Kodiert  1..1 |
+|  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  | x |  |  |  |
+| Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |
 |  |  |  |  |  |  |  |  |  |  |  | 182 |
 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  | 5 |  |
-| 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |  |
-|  | x | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |
-|  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  | Einheit der Menge pro | Kodiert |
-| 1..1 | Dieses Feld enthält die Einheit der Menge | 186 |  |  | x |  | Generierter Text | 0..1 | Dieses Feld enthält einen Text, der von | ePA Medication  ] erzeugt wurde. Bei | WENN |
-|  | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
+| 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |
+|  |  | x | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |
+|  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  |
+| Einheit der Menge pro | Kodiert | 1..1 | Dieses Feld enthält die Einheit der Menge | 186 |  |  | x |  | Generierter Text | 0..1 | Dieses Feld enthält einen Text, der von |
+| ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | 182 |
 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  | 5 |  |
-| 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |  |
-| x |  |  | Tageszeit der | Kodiert |  | 0..1 | Dieses Feld enthält die Tageszeit der |  | WENN | ANSONSTEN | 184          x |
+| 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |
+|  |  | x |  | Tageszeit der |  | Kodiert | 0..1 |  | 0..* | Dieses Feld enthält die Tageszeit der | WENN  ANSONSTEN  184 |
 |  |  |  |  |  |  |  |  |  |  |  | 182          x |
-|  |  | Uhrzeit der Anwendung |  | 5 |  | 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN | ANSONSTEN |
-|  | 183 |  |  |  |  |  | x |  |  | Tageszeit der | Kodiert |
-|  | 0..1 |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |
+|  |  | Uhrzeit der Anwendung |  | 5 |  | 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der | WENN |
+|  | ANSONSTEN |  | 183 |  |  |  |  |  | x |  | Tageszeit der |
+|  | Kodiert |  | 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-| 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert | 0..1 |
-| Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |  |
-| x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  |
+| 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert |
+| 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |
+|  |  |  |  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |
+|  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |  |
+|  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |
+|  |  |  | x |  |  |  | Generierter Text |  |  | 0..1 |  |
+| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN  183 |
+|  | x | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  |
+|  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |
 | 185 |  |  |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |
-|  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  | x |
-|  |  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  |
-| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |
-| x | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |  |
-| Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |
-|  |  | x |  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-| 0..1 |  | Dieses Feld enthält die Uhrzeit der | WENN |  | ANSONSTEN |  | 183 |  |  | x | Tageszeit der  Kodiert |
-| 0..1 |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |
+| 0..1 |  | 0..* | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN | 183 |  |  | x    Tageszeit der |
+| Kodiert |  | 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN | 184 |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-|  | 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |
-|  | x |  | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  |
-| x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  |
+|  | 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |
+|  |  | x |  | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |
+|  |  |  |  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |
+|  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |  |
+|  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |
+|  |  |  | x |  |  |  | Generierter Text |  |  | 0..1 |  |
+| Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |  |
+| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN | 183 |
+|  |  | x | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |
+|  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |
 | 185 |  |  |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |
-|  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  | x |
-|  |  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  |
-| WENN |  | ANSONSTEN |  |  |  |  |  |  |  |  |  |
-| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN  183 |  |
-|  | x | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |
-| Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |
-|  |  | x |  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-|  | 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |
-|  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Tageszeit der |
-|  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |  | x |
-|  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  | Einheit der Menge pro | Kodiert |
-| 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  | x |  |
-|  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |
-|  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  |
-| 5 |  | 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |
+|  | 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |
 |  |  |  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |
-|  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |
-| x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  | Einheit der Menge pro |
-| Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  |
-| x |  |  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |
-|  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |  |
+|  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |
+|  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  |
+| Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |
+|  |  | x |  |  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von |
+|  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  |
+| 5 |  | 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  |
+| 183 |  |  |  |  |  | x |  |  | Tageszeit der |  | Kodiert |
+|  | 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |
+|  |  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |
+|  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |
+|  |  |  |  | x |  |  |  | Generierter Text |  |  | 0..1 |
+|  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | 182 |
 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  | 5 | 0..1 |
-|  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |  |  |
-| x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Tageszeit der |  | WENN |
-|  | ANSONSTEN |  | 184 |  |  |  |  |  | x |  | Wert der Menge pro |
-| 3 |  | 1..1 | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  | x |  | Einheit der Menge pro |
+|  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN | 183 |  |  |  |
+|  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  | 0..* |
+|  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |
+| x |  | Wert der Menge pro | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |
 |  |  |  |  |  |  |  |  |  |  | 182 | x |
-|  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x | Tageszeit der |
-| Kodiert |  | 0..1 |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |
-|  |  |  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 | Dieses Feld enthält den Wert der Menge |
-|  |  | 185 |  |  |  |  |  | x |  |  | Einheit der Menge pro |
+|  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |
+| Tageszeit der |  | Kodiert |  | 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN | ANSONSTEN |
+|  | 184 |  |  |  |  |  | x |  |  | Wert der Menge pro | 3 |
+|  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  | x |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-|  | 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |
-|  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Tageszeit der |
-| WENN | ANSONSTEN | 184 |  |  | x | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge |  | 185 |
-|  | x |  |  | Einheit der Menge pro | Kodiert |  | 1..1 | Dieses Feld enthält die Einheit der Menge | 186 |  |  |
-| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183          x    Tageszeit der  Kodiert  0..1  Dieses Feld enthält die Tageszeit der |
-| WENN |  | ANSONSTEN |  | 184 |  |  |  | x | Wert der Menge pro | 3 | 1..1  Dieses Feld enthält den Wert der Menge    185          x |
-| Einheit der Menge pro |  | Kodiert |  | 1..1 | Dieses Feld enthält die Einheit der Menge |  | 186 |  |  | x | Generierter Text    0..1 |
+|  | 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |
+|  |  |  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |
+| 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge |
+| 185 |  |  |  | x |  |  | Einheit der Menge pro | Kodiert | 1..1 | Dieses Feld enthält die Einheit der Menge |  |
+| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN  183          x    Tageszeit der  Kodiert  0..1 |
+| 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN | ANSONSTEN |  | 184 |  |  | x | Wert der Menge pro  3  1..1  Dieses Feld enthält den Wert der Menge    185 |
+|  | x |  |  | Einheit der Menge pro | Kodiert |  | 1..1 | Dieses Feld enthält die Einheit der Menge | 186 |  | x |
 |  |  |  |  |  |  |  |  |  |  |  | 182          x |
-| Uhrzeit der Anwendung |  | 5 |  | 0..1 | Dieses Feld enthält die Uhrzeit der |  | WENN  ANSONSTEN | 183 |  |  |  |
-| x | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x | Wert der Menge pro  3 |
-| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |
-|  |  | x | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  |
-| x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x |  | Einheit der Menge pro  Kodiert  1..1  Dieses Feld enthält die Einheit der Menge    186        x |
-|  | Generierter Text | 0..1 | Dieses Feld enthält einen Text, der von | ePA Medication  ] erzeugt wurde. Bei | WENN | ANSONSTEN |  |  |  |  |  |
+| Uhrzeit der Anwendung |  | 5 |  | 0..1 | 0..* |  | Dieses Feld enthält die Uhrzeit der  WENN | ANSONSTEN | 183 |  |  |
+|  | x | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  | x |
+| 182 |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN |
+| 183 |  |  | x | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |
+|  |  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |  | x    Einheit der Menge pro  Kodiert  1..1  Dieses Feld enthält die Einheit der Menge    186 |
+|  | x |  | Generierter Text | 0..1 | Dieses Feld enthält einen Text, der von | ePA Medication  ] erzeugt wurde. Bei | WENN | ANSONSTEN |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | 182 |
-|  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |
-|  | x |  | Tageszeit der |  | Kodiert |  | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |
-|  |  |  |  |  | x |  |  | Wert der Menge pro |  | 3 | 1..1 |
-|  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |  |
+|  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |
+|  |  | x |  |  | Tageszeit der |  | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN |
+|  | ANSONSTEN |  | 184 |  |  |  |  |  | x |  | Wert der Menge pro |
+|  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5 |
-| 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |  |
-|  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 |  | Dieses Feld enthält die Tageszeit der  WENN |  |
-| ANSONSTEN | 184 |  |  |  |  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge |
-| 182 |  |  |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der  WENN | ANSONSTEN  183 |
-|  |  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1 | Dieses Feld enthält die Tageszeit der  WENN |
-| ANSONSTEN |  | 184 |  |  |  |  |  | x |  | Wert der Menge pro | 3 |
+| 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |
+|  |  |  | x |  |  | Tageszeit der |  | Kodiert |  | 0..1  0..* |  |
+| Dieses Feld enthält die Tageszeit der | WENN |  | ANSONSTEN | 184 |  |  |  | x |  | Wert der Menge pro | 3 |
+| 182 |  |  |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..*  Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN  183 |
+|  |  |  |  |  | x |  |  | Tageszeit der |  | Kodiert | 0..1  0..* |
+| Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  | x |  |
 |  |  |  |  |  |  |  |  |  |  |  | 182 |
-|  |  |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN  183 |
-|  |  | x |  | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 | x |
-| Wert der Menge pro | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  | 185 |  |  | x | Einheit der Menge pro |
-| Kodiert | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  | 186 |  |  | x |  | Generierter Text |  |
-|  |  |  |  |  |  |  |  |  |  |  | 182 |
-|  |  | x |  |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN  183 |  |
-| x |  |  | Tageszeit der |  | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |
+|  |  |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN |
+| 183 |  |  | x |  | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN  184 |
 | x |  |  | Wert der Menge pro |  | 3 | 1..1 | Dieses Feld enthält den Wert der Menge |  | 185 |  | x |
-| Einheit der Menge pro |  | Kodiert |  | 1..1 | Dieses Feld enthält die Einheit der Menge |  | 186 |  |  | x | Generierter Text |
-| 182 |  |  |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1 | Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN |
-| 183 |  |  |  |  | x |  | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN  ANSONSTEN |
+|  | Einheit der Menge pro |  | Kodiert |  | 1..1 | Dieses Feld enthält die Einheit der Menge |  | 186 |  | x |  |
+|  |  |  |  |  |  |  |  |  |  |  | 182 |
+|  |  | x |  |  | Uhrzeit der Anwendung | 5 | 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN | 183 |
+|  |  | x |  |  | Tageszeit der | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN  184 |
+|  |  |  |  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |  |
+| x |  |  | Einheit der Menge pro |  | Kodiert | 1..1 | Dieses Feld enthält die Einheit der Menge |  | 186 | x | Generierter Text |
+| 182 |  |  |  |  | x |  | Uhrzeit der Anwendung | 5 | 0..1  0..* | Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN |
+| 183 |  |  |  |  | x |  | Tageszeit der | Kodiert | 0..1  0..* | Dieses Feld enthält die Tageszeit der | WENN  ANSONSTEN |
 | 184 |  |  |  |  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge |  |
 | 185 |  |  |  |  | x |  | Einheit der Menge pro | Kodiert | 1..1 | Dieses Feld enthält die Einheit der Menge |  |
 | 186 |  |  |  | x |  |  | Generierter Text |  | 0..1 | Dieses Feld enthält einen Text, der von  ePA Medication  ] erzeugt wurde. Bei | WENN  ANSONSTEN |
-| 182 |  |  |  |  | x |  | Uhrzeit der Anwendung |  | 5 | 0..1  Dieses Feld enthält die Uhrzeit der | WENN  ANSONSTEN |
-| 183 |  |  |  | x |  |  | Tageszeit der | Kodiert | 0..1 | Dieses Feld enthält die Tageszeit der | WENN  ANSONSTEN |
-| 184 |  |  |  |  |  | x |  |  | Wert der Menge pro |  | 3 |
-| 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x    Einheit der Menge pro |
-|  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5  0..1 |
-|  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |  |  |
-| x |  |  | Tageszeit der | Kodiert |  | 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 | x |
+| 182 |  |  |  |  | x |  | Uhrzeit der Anwendung |  | 5 | 0..1  0..* | Dieses Feld enthält die Uhrzeit der  WENN |
+| ANSONSTEN | 183 |  |  |  |  | x |  | Tageszeit der | Kodiert | 0..1 | 0..*  Dieses Feld enthält die Tageszeit der |
+| WENN |  | ANSONSTEN |  | 184 |  |  |  |  |  | x |  |
 | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |
+|  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5  0..1 |
+|  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |
+|  |  | x |  | Tageszeit der |  | Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN  184 |
+|  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  | 5 |
-| 0..1 | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert | 0..1 |
-| Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |  |  |  |  |
-| x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  |
-| 185 |  |  |  | x |  | Einheit der Menge pro | Kodiert |  | 1..1 | Dieses Feld enthält die Einheit der Menge |  |
-| 186 |  |  |  |  | x |  |  | Generierter Text |  |  | 0..1 |
-|  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |
+| 0..1 | 0..* | Dieses Feld enthält die Uhrzeit der | WENN | ANSONSTEN | 183 |  |  | x |  | Tageszeit der | Kodiert |
+| 0..1 |  | 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN |  | ANSONSTEN |  | 184 |  |
+|  |  |  |  | x |  |  | Wert der Menge pro |  | 3 |  | 1..1 |
+| Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  | x |  | Einheit der Menge pro | Kodiert | 1..1 |
+|  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  | x |  |  |  |
+| Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 182 |  |  |  |  |  | x |  | Uhrzeit der Anwendung |  | 5 |
-| 0..1 |  | Dieses Feld enthält die Uhrzeit der | WENN |  | ANSONSTEN |  | 183 |  |  | x | Tageszeit der  Kodiert  0..1  Dieses Feld enthält die Tageszeit der |
-| WENN | ANSONSTEN | 184 |  |  | x |  | Wert der Menge pro | 3 | 1..1 | Dieses Feld enthält den Wert der Menge | 185 |
-|  |  |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |  |
-| 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  | x |  |  |
-| Generierter Text |  |  | 0..1 | Dieses Feld enthält einen Text, der von | ePA Medication  ] erzeugt wurde. Bei |  | WENN | ANSONSTEN |  |  |  |
+| 0..1 |  | 0..* | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN | 183 |  |  | x    Tageszeit der  Kodiert  0..1 |
+| 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |  | Wert der Menge pro | 3 | 1..1 |
+| Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |  |  |
+| Einheit der Menge pro |  | Kodiert |  | 1..1 | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |
+| x |  |  |  | Generierter Text | 0..1 |  | Dieses Feld enthält einen Text, der von  ePA Medication | ] erzeugt wurde. Bei | WENN | ANSONSTEN |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  |
-| 5 |  | 0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |
-|  |  |  |  | x |  |  | Tageszeit der | Kodiert |  | 0..1 |  |
-| Dieses Feld enthält die Tageszeit der | WENN |  | ANSONSTEN | 184 |  |  |  | x |  | Wert der Menge pro | 3  1..1  Dieses Feld enthält den Wert der Menge    185 |
-|  |  |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |  |
-| 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  | x |  |
-|  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |
-|  | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
+| 5 |  | 0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  |
+| 183 |  |  |  |  |  | x |  | Tageszeit der |  | Kodiert |  |
+| 0..1 | 0..* |  | Dieses Feld enthält die Tageszeit der | WENN |  | ANSONSTEN | 184 |  |  | x | Wert der Menge pro  3  1..1 |
+| Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |  |  |
+| Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |
+|  |  | x |  |  |  | Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von |
+| ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |
 |  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung |  |
-| 5  0..1 |  | Dieses Feld enthält die Uhrzeit der |  | WENN  ANSONSTEN |  | 183 |  | x | Tageszeit der | Kodiert  0..1 | Dieses Feld enthält die Tageszeit der |
-| WENN |  | ANSONSTEN |  | 184 |  |  |  | x | Wert der Menge pro | 3 |  |
-| 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |  |  |  | x |
-|  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  | Dieses Feld enthält die Einheit der Menge |  |  | 186 |
-|  |  |  |  | x |  |  |  | Generierter Text |  |  | 0..1 |
-|  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |  |  |  |  |
-|  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5  0..1  Dieses Feld enthält die Uhrzeit der |
-|  | WENN |  | ANSONSTEN |  | 183 |  |  |  |  |  | x    Tageszeit der  Kodiert |
-| 0..1 | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |  | Wert der Menge pro | 3 | 1..1  Dieses Feld enthält den Wert der Menge    185 |
+| 5  0..1 |  | 0..* |  | Dieses Feld enthält die Uhrzeit der  WENN |  | ANSONSTEN | 183 |  | x | Tageszeit der  Kodiert | 0..1 |
+| 0..* |  | Dieses Feld enthält die Tageszeit der |  | WENN | ANSONSTEN |  | 184 |  |  | x |  |
+| Wert der Menge pro |  | 3 |  | 1..1 |  | Dieses Feld enthält den Wert der Menge |  |  | 185 |  |  |
 |  |  |  | x |  |  | Einheit der Menge pro |  | Kodiert |  | 1..1 |  |
+| Dieses Feld enthält die Einheit der Menge |  |  | 186 |  |  |  |  | x |  |  |  |
+| Generierter Text |  |  | 0..1 |  | Dieses Feld enthält einen Text, der von | ePA Medication | ] erzeugt wurde. Bei |  | WENN |  | ANSONSTEN |
+|  | 182 |  |  |  |  |  | x |  |  | Uhrzeit der Anwendung | 5  0..1  0..* |
+|  | Dieses Feld enthält die Uhrzeit der |  | WENN |  | ANSONSTEN |  | 183 |  |  |  | x    Tageszeit der |
+| Kodiert | 0..1 | 0..* | Dieses Feld enthält die Tageszeit der | WENN | ANSONSTEN | 184 |  |  | x |  | Wert der Menge pro  3  1..1  Dieses Feld enthält den Wert der Menge |
+|  | 185 |  |  |  |  |  | x |  |  | Einheit der Menge pro |  |
 
 (GRAU = FELDGRUPPE) Dosieranweisung DERH. Anwendung. Anwendung (z.B. Mmorgens, mittags, abends, zur Nacht). pro Anwendung (z.B. 30). pro Anwendung (z.B. Tropfen). einem Algorithmus [ Service IG strukturierten Dosierangaben enthält dieses Feld eine menschenlesbare Ausgabe der strukturierten Angaben. Bei freitextlichen Dosierangaben enthält das Feld denselben Text.  das Feld „Dosieranweisung Kategorie“ gleich „DAILY_TIME“ ist DANN  muss dieses Feld angegeben werden. darf es nicht angegeben werden das Feld „Dosieranweisung Kategorie“ gleich „DAILY_FOUR_SCHEME“ ist DANN  muss dieses Feld angegeben werden. darf es nicht angegeben werden das Feld "Kennzeichen Dosierung" gleich "true" ist DANN  ist dieses Feld Pflicht. darf es nicht angegeben werden.
 
@@ -10272,12 +10265,12 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  |  |  |  |  |  |  |  |  |  |  | 187 |
 |  | x |  |  |  | Metadaten zum |  | 0..1 | Dieses Feld enthält Metadaten zu dem  Medication IG DE | ], z.B. | WENN  ANSONSTEN | **109 ** |
 | **x ** |  |  |  | **Packungsgröße** |  |  | **0..1** | **Dieser Block enthält Angaben zur** | **der Block "Rezeptierdaten PZN-Verordnung"** | **ANSONSTEN ** 110 | x |
-|  | Packungsgröße nach N- | Kodiert | 0..1 | Dieses Feld enthält die Normgröße der | WENN  ANSONSTEN | 111 |  | x |  | Packungsgröße nach  1..7 | 0..1  Dieses Feld enthält die Packungsgröße (z.B.  WENN |
-| ODER das Feld "Packungsgröße nach N-Bezeichnung"  ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
-| 187 |  |  |  |  | x |  | Metadaten zum |  | 0..1 | Dieses Feld enthält Metadaten zu dem  Medication IG DE | ], z.B.  WENN |
-| ANSONSTEN | **109** |  |  |  | **x ** |  |  | **Packungsgröße** |  | **0..1** | **Dieser Block enthält Angaben zur  der Block "Rezeptierdaten PZN-Verordnung"** |
-| **ANSONSTEN ** 110 |  |  |  | x |  | Packungsgröße nach N- | Kodiert  0..1 | Dieses Feld enthält die Normgröße der  WENN | ANSONSTEN  111 |  |  |
-| x |  | Packungsgröße nach | 1..7 | 0..1 | Dieses Feld enthält die Packungsgröße (z.B.  WENN |  | ODER das Feld "Packungsgröße nach N-Bezeichnung"  ANSONSTEN |  |  |  |  |
+|  | Packungsgröße nach N- | Kodiert | 0..1 | Dieses Feld enthält die Normgröße der | WENN  ANSONSTEN | 111 |  | x | Packungsgröße nach | 1..7  0..1 | Dieses Feld enthält die Packungsgröße (z.B.  WENN  ODER das Feld "Packungsgröße nach N-Bezeichnung" |
+| ANSONSTEN |  |  |  |  |  |  |  |  |  |  |  |
+| 187 |  |  |  |  | x |  | Metadaten zum |  | 0..1  Dieses Feld enthält Metadaten zu dem  Medication IG DE | ], z.B. | WENN  ANSONSTEN |
+| **109 ** |  |  | **x** |  |  |  | **Packungsgröße** |  | **0..1  Dieser Block enthält Angaben zur** | **der Block "Rezeptierdaten PZN-Verordnung"** | **ANSONSTEN ** 110 |
+| x |  |  | Packungsgröße nach N- | Kodiert | 0..1  Dieses Feld enthält die Normgröße der | WENN | ANSONSTEN  111 |  | x |  | Packungsgröße nach |
+| 1..7  0..1 | Dieses Feld enthält die Packungsgröße (z.B. | WENN |  | ODER das Feld "Packungsgröße nach N-Bezeichnung" | ANSONSTEN |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 187 |  |  |  | x |  |  | Metadaten zum |  | 0..1 | Dieses Feld enthält Metadaten zu dem  Medication IG DE], z.B. | WENN  ANSONSTEN |
 | **109** |  |  | **x** |  |  |  | **Packungsgröße** |  | **0..1** | **Dieser Block enthält Angaben zur** | **der Block "Rezeptierdaten PZN-Verordnung"  ANSONSTEN** |
@@ -10524,10 +10517,10 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 | **114** |  |  |  | **x** |  |  | **Rezeptierdaten PZN-** |  | **0..1** | **Dieser Block enthält Rezeptierdaten** | **Verordnung"  ODER** |
 | **ODER** |  | **ODER** | 115 |  |  | x |  | ID des Produkts (PZN)  Kodiert | 1..1  Dieses Feld enthält die |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 112 |  |  | x |  | Einheit | 1..12 | 0..1  Dieses Feld enthält die Einheit (z.B. Stück) | WENN | ODER das Feld "Packungsgröße nach N-Bezeichnung"  ANSONSTEN | 113 | x |
-| Anzahl der verordneten | 1..6 | 1..1 | Dieses Feld enthält die Anzahl der |  | **114** |  |  | **x ** |  | **Rezeptierdaten PZN-** | **0..1** |
-| **Dieser Block enthält Rezeptierdaten** |  | **Verordnung"** |  | **ODER** | **ODER** |  | **ODER ** 115 |  | x |  | ID des Produkts (PZN) |
-| Kodiert  1..1 | Dieses Feld enthält die |  |  |  |  |  |  |  |  |  |  |
+| 112 |  |  | x |  | Einheit | 1..12 | 0..1  Dieses Feld enthält die Einheit (z.B. Stück) | WENN | ODER das Feld "Packungsgröße nach N-Bezeichnung"  ANSONSTEN  113 | x | Anzahl der verordneten |
+| 1..6  1..1 | Dieses Feld enthält die Anzahl der |  |  | **114** |  |  | **x ** |  | **Rezeptierdaten PZN-** | **0..1** | **Dieser Block enthält Rezeptierdaten  Verordnung"** |
+| **ODER** |  | **ODER** |  | **ODER** | 115 |  | x |  | ID des Produkts (PZN)  Kodiert | 1..1  Dieses Feld enthält die |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 112 |  |  | x |  | Einheit | 1..12 | 0..1  Dieses Feld enthält die Einheit (z.B. Stück) | WENN | ODER das Feld "Packungsgröße nach N-Bezeichnung" | ANSONSTEN  113 | x |
 | Anzahl der verordneten  1..6 | 1..1 | Dieses Feld enthält die Anzahl der |  | **114** |  |  | **x** |  |  | **Rezeptierdaten PZN-** | **0..1** |
@@ -10772,13 +10765,13 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 |  |  |  |  |  |  |  |  |  |  |  | Angaben Handelsname, Darreichungsform,  116 |
 | x |  |  | Handelsname | 1..100 | 1..1  Dieses Feld enthält den Handelsnamen des |  | **156** |  |  | **x** |  |
 | **Wirkstoff** |  |  |  | **1..n** | **Dieser Block enthält die einzelnen** |  | 157 |  |  | x | Wirkstoffnummer  Kodiert  0..1  Dieses Feld enthält eine ASK-Nummer |
-| 158 |  |  |  |  | x | Wirkstoffname | 1..80  1..1 | Dieses Feld enthält einen Wirkstoffnamen | **159** |  |  |
-| **x ** |  | **Wirkstärke** |  |  | **1..1** | **Dieser Block enthält eine Angabe der** | 159a |  |  | x | Zahlenwert der  1..15    1..1 |
-| Angaben Handelsname, Darreichungsform,  116 |  |  |  | x |  | Handelsname | 1..100  1..1 | Dieses Feld enthält den Handelsnamen des | **156** |  |  |
-| **x** |  |  |  |  | **Wirkstoff** |  |  | **1..n** | **Dieser Block enthält die einzelnen** | 157 |  |
-| x | Wirkstoffnummer | Kodiert | 0..1 | Dieses Feld enthält eine ASK-Nummer | 158 |  |  | x | Wirkstoffname | 1..80  1..1 | Dieses Feld enthält einen Wirkstoffnamen |
-|  | **159** |  |  |  |  |  | **x ** | **Wirkstärke** |  | **1..1** | **Dieser Block enthält eine Angabe der** |
-| 159a |  |  |  |  | x | Zahlenwert der | 1..15 | 1..1 | Dieses Feld enthält eine Angabe eines | 159b | x  Einheit der |
+| 158 |  |  |  |  | x | Wirkstoffname | 1..80  1..1 | Dieses Feld enthält einen Wirkstoffnamen | **159 ** |  | **x** |
+|  | **Wirkstärke** |  |  | **1..1** | **Dieser Block enthält eine Angabe der** |  | 159a |  | x  Zahlenwert der | 1..15 | 1..1  Dieses Feld enthält eine Angabe eines    159b |
+| Angaben Handelsname, Darreichungsform,  116 |  |  |  | x |  | Handelsname | 1..100  1..1 | Dieses Feld enthält den Handelsnamen des | **156 ** |  | **x** |
+|  |  |  |  | **Wirkstoff** |  |  | **1..n** | **Dieser Block enthält die einzelnen** | 157 |  | x    Wirkstoffnummer  Kodiert |
+| 0..1  Dieses Feld enthält eine ASK-Nummer |  | 158 |  |  |  | x | Wirkstoffname | 1..80  1..1 | Dieses Feld enthält einen Wirkstoffnamen | **159** |  |
+|  |  |  |  | **x** |  | **Wirkstärke** |  | **1..1** | **Dieser Block enthält eine Angabe der ** | 159a |  |
+|  |  | x | Zahlenwert der | 1..15 | 1..1 | Dieses Feld enthält eine Angabe eines | 159b |  |  | x  Einheit der | 1..15  1..1  Dieses Feld enthält die Einheit der |
 | Angaben Handelsname, Darreichungsform,  116 |  |  |  | x |  | Handelsname | 1..100  1..1 | Dieses Feld enthält den Handelsnamen des |  | **156 ** |  |
 | **x** |  |  |  | **Wirkstoff** |  |  | **1..n** | **Dieser Block enthält die einzelnen** |  | 157 | x |
 |  | Wirkstoffnummer | Kodiert | 0..1 | Dieses Feld enthält eine ASK-Nummer |  | 158 |  |  |  |  | x |
@@ -11022,13 +11015,13 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 |  |  |  |  |  |  |  |  |  |  |  | 159d |
 |  | x | Einheit der Bezugsmenge |  | 1..15 | 1..1  Dieses Feld enthält die Einheit der |  | **117** |  | **x** |  | **Rezeptierdaten ** |
 | **0..1** | **spezifisch für eine Wirkstoffverordnung.** |  | **muss der Block "Rezeptierdaten PZN-** |  | **ODER** | **ODER** | **ODER** | **150** |  |  | **x** |
-|  |  |  |  | **Wirkstoff** |  |  | **1..n** | **Dieser Block enthält die einzelnen** | 118 |  | x |
-| Wirkstoffnummer  Kodiert | 0..1 | Dieses Feld enthält eine ASK-Nummer |  | 119 |  |  |  | x | Wirkstoffname  1..80 | 1..1  Dieses Feld enthält einen Wirkstoffnamen | **120 ** |
-| 159d |  |  |  |  | x  Einheit der Bezugsmenge |  | 1..15  1..1 | Dieses Feld enthält die Einheit der | **117** |  | **x ** |
-|  | **Rezeptierdaten** |  |  |  | **0..1** | **spezifisch für eine Wirkstoffverordnung.** | **muss der Block "Rezeptierdaten PZN-** | **ODER** | **ODER** | **ODER** | **150 ** |
-|  |  |  |  | **x** |  |  |  | **Wirkstoff** |  | **1..n** | **Dieser Block enthält die einzelnen** |
-|  | 118 |  |  |  | x |  | Wirkstoffnummer  Kodiert | 0..1  Dieses Feld enthält eine ASK-Nummer | 119 |  |  |
-|  | x |  | Wirkstoffname | 1..80  1..1 | Dieses Feld enthält einen Wirkstoffnamen |  | **120** |  |  | **x** | **Wirkstärke ** |
+|  |  |  |  | **Wirkstoff** |  |  | **1..n** | **Dieser Block enthält die einzelnen** | 118 |  | x    Wirkstoffnummer |
+| Kodiert  0..1 | Dieses Feld enthält eine ASK-Nummer |  | 119 |  |  |  | x | Wirkstoffname | 1..80  1..1  Dieses Feld enthält einen Wirkstoffnamen | **120** |  |
+| 159d |  |  |  |  | x  Einheit der Bezugsmenge |  | 1..15  1..1 | Dieses Feld enthält die Einheit der | **117 ** | **x** |  |
+| **Rezeptierdaten** |  |  | **0..1** |  | **spezifisch für eine Wirkstoffverordnung.** | **muss der Block "Rezeptierdaten PZN-** | **ODER** | **ODER** | **ODER  150** |  |  |
+| **x** |  |  |  |  | **Wirkstoff** |  |  | **1..n** | **Dieser Block enthält die einzelnen** | 118 |  |
+|  |  | x |  | Wirkstoffnummer | Kodiert  0..1 | Dieses Feld enthält eine ASK-Nummer | 119 |  |  | x |  |
+| Wirkstoffname  1..80 | 1..1 | Dieses Feld enthält einen Wirkstoffnamen |  | **120** |  |  |  |  | **x** | **Wirkstärke ** | **1..1  Dieser Block enthält eine Angabe der** |
 | 159d |  |  |  | x | Einheit der Bezugsmenge |  | 1..15  1..1 | Dieses Feld enthält die Einheit der |  | **117 ** | **x ** |
 | **Rezeptierdaten** |  |  | **0..1** |  | **spezifisch für eine Wirkstoffverordnung.** |  | **muss der Block "Rezeptierdaten PZN-** | **ODER** | **ODER** | **ODER** | **150 ** |
 |  |  |  |  | **x** |  |  |  |  |  | **Wirkstoff** |  |
@@ -11272,13 +11265,13 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 |  |  |  |  |  |  |  |  |  |  |  | 120b |
 |  | x | Einheit der | 1..15 | 1..1 | Dieses Feld enthält die Einheit der | 120c |  |  | x | Zahlenwert der  1..15  1..1  Dieses Feld enthält eine Angabe eines | 120d |
 |  |  | x | Einheit der Bezugsmenge |  | 1..15  1..1 | Dieses Feld enthält die Einheit der |  | **122 ** |  | **x ** | **Rezeptierdaten** |
-|  |  | **0..1** |  | **spezifisch für eine Rezepturverordnung.** | **muss der Block "Rezeptierdaten PZN-** |  | **ODER** | **ODER** | **ODER  ** 123 |  | x |
-| Rezepturname  1..70 | 0..1 | Dieses Feld enthält eine Bezeichnung der |  | 124 |  |  | x | Gesamtmenge der | 1..7  1..1 | Dieses Feld enthält die Gesamtmenge der | 125 |
-| 120b |  |  |  |  | x  Einheit der | 1..15 | 1..1  Dieses Feld enthält die Einheit der | 120c |  |  | x  Zahlenwert der  1..15 |
-| 1..1  Dieses Feld enthält eine Angabe eines |  | 120d |  |  |  |  | x  Einheit der Bezugsmenge | 1..15 | 1..1  Dieses Feld enthält die Einheit der |  | **122 ** |
-| **x ** |  |  |  | **Rezeptierdaten** |  |  | **0..1** | **spezifisch für eine Rezepturverordnung.** | **muss der Block "Rezeptierdaten PZN-** | **ODER** | **ODER** |
-| **ODER** | 123 |  |  |  | x |  | Rezepturname  1..70 | 0..1  Dieses Feld enthält eine Bezeichnung der | 124 |  |  |
-| x |  | Gesamtmenge der | 1..7 | 1..1  Dieses Feld enthält die Gesamtmenge der |  | 125 |  |  | x | Einheit der  1..12  1..1 | Dieses Feld enthält die Einheit der    126 |
+|  |  | **0..1** |  | **spezifisch für eine Rezepturverordnung.** | **muss der Block "Rezeptierdaten PZN-** |  | **ODER** | **ODER** | **ODER  ** 123 |  | x      Rezepturname |
+| 1..70  0..1 | Dieses Feld enthält eine Bezeichnung der |  | 124 |  |  | x |  | Gesamtmenge der  1..7 | 1..1  Dieses Feld enthält die Gesamtmenge der    125 |  | x |
+| 120b |  |  |  |  | x  Einheit der | 1..15 | 1..1  Dieses Feld enthält die Einheit der | 120c |  | x | Zahlenwert der  1..15  1..1  Dieses Feld enthält eine Angabe eines |
+| 120d |  |  |  |  | x | Einheit der Bezugsmenge | 1..15 | 1..1  Dieses Feld enthält die Einheit der | **122 ** |  | **x ** |
+| **Rezeptierdaten** |  |  |  | **0..1** | **spezifisch für eine Rezepturverordnung.** |  | **muss der Block "Rezeptierdaten PZN-** | **ODER** | **ODER** | **ODER  ** 123 |  |
+|  | x |  |  | Rezepturname | 1..70  0..1 | Dieses Feld enthält eine Bezeichnung der | 124 |  | x |  | Gesamtmenge der |
+| 1..7  1..1 | Dieses Feld enthält die Gesamtmenge der |  | 125 |  |  | x |  | Einheit der | 1..12  1..1 | Dieses Feld enthält die Einheit der    126 | x |
 | 120b |  |  |  | x | Einheit der | 1..15 | 1..1  Dieses Feld enthält die Einheit der |  | 120c |  | x  Zahlenwert der  1..15  1..1 |
 | Dieses Feld enthält eine Angabe eines | 120d |  |  |  |  | x | Einheit der Bezugsmenge | 1..15  1..1 | Dieses Feld enthält die Einheit der | **122** | **x** |
 |  |  |  |  | **Rezeptierdaten** |  |  |  | **0..1** |  | **spezifisch für eine Rezepturverordnung.** | **muss der Block "Rezeptierdaten PZN-** |
@@ -11522,13 +11515,13 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 |  |  |  |  |  |  |  |  |  |  |  | 127 |
 | x |  | Verpackung | 1..90 | 0..1 | Dieses Feld enthält Angaben zur |  | 128 |  |  | x | Gebrauchsanweisung |
 | 1..500 |  | 0..1 |  |  | Dieses Feld enthält die | Gebrauchsanweisung der Rezeptur. |  | **129** |  |  | **x ** |
-| **Bestandteil** |  |  | **1..n** |  | **Dieser Block enthält Angaben zu einem ** | 130 |  |  | x | Name des Bestandteils  1..60 | 1..1  Dieses Feld enthält die namentliche    131 |
-|  |  |  | x |  | PZN des Bestandteils  Kodiert | 0..1 | Dieses Feld enthält die | 132 |  | x | Darreichungsform des  1..30  0..1 |
+| **Bestandteil** |  |  | **1..n** |  | **Dieser Block enthält Angaben zu einem ** | 130 |  |  | x    Name des Bestandteils | 1..60  1..1 | Dieses Feld enthält die namentliche    131 |
+|  |  | x |  | PZN des Bestandteils | Kodiert  0..1 | Dieses Feld enthält die | 132 |  | x | Darreichungsform des  1..30 | 0..1  Dieses Feld enthält die Darreichungsform    133 |
 | 127 |  |  | x |  | Verpackung | 1..90 | 0..1  Dieses Feld enthält Angaben zur |  | 128 |  | x |
-|  |  | Gebrauchsanweisung |  |  | 1..500 |  | 0..1 | Dieses Feld enthält die | Gebrauchsanweisung der Rezeptur. |  | **129 ** |
-|  | **x** |  |  |  | **Bestandteil** |  | **1..n** | **Dieser Block enthält Angaben zu einem** | 130 |  |  |
-| x |  | Name des Bestandteils | 1..60 | 1..1 | Dieses Feld enthält die namentliche | 131 |  |  | x | PZN des Bestandteils  Kodiert | 0..1 |
-| Dieses Feld enthält die | 132 |  |  |  | x |  | Darreichungsform des  1..30 | 0..1 | Dieses Feld enthält die Darreichungsform | 133 | x    Menge des Bestandteils |
+| Gebrauchsanweisung |  |  | 1..500 |  | 0..1 |  | Dieses Feld enthält die | Gebrauchsanweisung der Rezeptur. | **129** |  | **x ** |
+|  | **Bestandteil** |  |  |  | **1..n** | **Dieser Block enthält Angaben zu einem** | 130 |  |  | x | Name des Bestandteils |
+| 1..60  1..1 | Dieses Feld enthält die namentliche |  | 131 |  |  |  | x | PZN des Bestandteils  Kodiert | 0..1  Dieses Feld enthält die | 132 |  |
+|  |  | x |  | Darreichungsform des  1..30 | 0..1 | Dieses Feld enthält die Darreichungsform | 133 |  |  | x    Menge des Bestandteils | 1..7  0..1  Dieses Feld enthält die Menge des  WENN |
 | 127 |  |  | x |  | Verpackung | 1..90 | 0..1  Dieses Feld enthält Angaben zur |  | 128 |  | x |
 |  | Gebrauchsanweisung |  | 1..500 |  |  | 0..1 |  | Dieses Feld enthält die | Gebrauchsanweisung der Rezeptur. |  | **129 ** |
 |  | **x** |  |  |  | **Bestandteil** |  |  |  | **1..n** |  | **Dieser Block enthält Angaben zu einem ** |
@@ -11772,12 +11765,12 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 |  |  |  |  |  |  |  |  |  |  |  | 134 |
 | x |  | Einheit des Bestandteils | 1..12 | 0..1 | Dieses Feld enthält die Einheit des  WENN | das Feld "Menge und Einheit des Bestandteils | DANN           ist dieses Feld Pflicht. | ANSONSTEN           darf dieses Feld nicht angegeben werden. | 135 | x | Menge und Einheit des  1..20  0..1 |
 | Dieses Feld enthält eine freitextliche  WENN | das Feld "Menge des Bestandteils" nicht | DANN | ist dieses Feld Pflicht. | ANSONSTEN | darf dieses Feld nicht angegeben werden. | **136** |  |  | **x** |  |  |
-| **Rezeptierdaten** |  |  |  | **0..1** | **Dieser Block enthält Rezeptierdaten** |  | **ENTWEDER** | **ODER** | **ODER** | **ODER  ** 137 | x |
-|  | Freitextverordnung | 1..500 | 1..1 | Dieses Feld enthält den Text einer | **Tabelle 42: Auflistung der abzubildenden Felder für das ERP** |  |  |  |  |  |  |
-| 134 |  |  |  | x | Einheit des Bestandteils | 1..12 | 0..1  Dieses Feld enthält die Einheit des | WENN       das Feld "Menge und Einheit des Bestandteils | DANN           ist dieses Feld Pflicht. | ANSONSTEN           darf dieses Feld nicht angegeben werden. | 135 |
-| x |  | Menge und Einheit des | 1..20 | 0..1 | Dieses Feld enthält eine freitextliche  WENN | das Feld "Menge des Bestandteils" nicht | DANN           ist dieses Feld Pflicht. | ANSONSTEN           darf dieses Feld nicht angegeben werden. | **136** |  | **x** |
-|  |  |  |  |  | **Rezeptierdaten** |  |  | **0..1** | **Dieser Block enthält Rezeptierdaten** | **ENTWEDER** | **ODER** |
-| **ODER** |  | **ODER** | 137 |  |  | x |  | Freitextverordnung  1..500 | 1..1  Dieses Feld enthält den Text einer | **Tabelle 42: Auflistung der abzubildenden Felder für das ERP** |  |
+| **Rezeptierdaten** |  |  |  | **0..1** | **Dieser Block enthält Rezeptierdaten** |  | **ENTWEDER** | **ODER** | **ODER  ODER** | 137 | x |
+| Freitextverordnung | 1..500 | 1..1 | Dieses Feld enthält den Text einer |  | **Tabelle 42: Auflistung der abzubildenden Felder für das ERP** |  |  |  |  |  |  |
+| 134 |  |  |  | x | Einheit des Bestandteils | 1..12 | 0..1  Dieses Feld enthält die Einheit des | WENN       das Feld "Menge und Einheit des Bestandteils | DANN           ist dieses Feld Pflicht.  ANSONSTEN           darf dieses Feld nicht angegeben werden. | 135 | x |
+| Menge und Einheit des | 1..20 | 0..1 | Dieses Feld enthält eine freitextliche | WENN | das Feld "Menge des Bestandteils" nicht       DANN | ist dieses Feld Pflicht. | ANSONSTEN           darf dieses Feld nicht angegeben werden. | **136** |  | **x** |  |
+|  |  | **Rezeptierdaten** |  |  | **0..1** |  | **Dieser Block enthält Rezeptierdaten** | **ENTWEDER** | **ODER** | **ODER** | **ODER** |
+| 137 |  |  | x |  | Freitextverordnung | 1..500 | 1..1  Dieses Feld enthält den Text einer | **Tabelle 42: Auflistung der abzubildenden Felder für das ERP** |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 134 |  |  |  | x | Einheit des Bestandteils | 1..12 | 0..1  Dieses Feld enthält die Einheit des | WENN | das Feld "Menge und Einheit des Bestandteils       DANN | ist dieses Feld Pflicht.  ANSONSTEN           darf dieses Feld nicht angegeben werden.   135 |  |
 | x | Menge und Einheit des | 1..20 | 0..1  Dieses Feld enthält eine freitextliche | WENN | das Feld "Menge des Bestandteils" nicht | DANN | ist dieses Feld Pflicht.  ANSONSTEN | darf dieses Feld nicht angegeben werden. | **136** |  | **x** |
@@ -11848,8 +11841,8 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 | Releases and Versioning | https://hl7.org/fhir/versions.html#versions |
 | HL7-Basis-Profile | HL7 Basis-Profile  https://simplifier.net/Basisprofil-DE-R4 |
 | KBV-Basis-Profile  KBV-Basis-Profile | https://simplifier.net/base1x0  FOR-Profile  Formularübergreifende Profile  https://update.kbv.de/ita- |
-| https://simplifier.net/for | ERP-Profile  Spezifische Profile zur Abbildung der ERP  https://update.kbv.de/ita-     https://simplifier.net/erezept |
-| ERP-Stylesheet  Stylesheet zur Visualisierung des ERP-Daten | https://update.kbv.de/ita-   Anlage 2  Anlage 2 - Vereinbarung über die Vordrucke für  https://www.kbv.de/media/sp/02_Vordruckver    Anlage 2b   Anlage 2b des Bundesmantelvertrages-Ärzte |
+|  | https://simplifier.net/for  ERP-Profile  Spezifische Profile zur Abbildung der ERP  https://update.kbv.de/ita- |
+| https://simplifier.net/erezept | ERP-Stylesheet  Stylesheet zur Visualisierung des ERP-Daten   https://update.kbv.de/ita-   Anlage 2  Anlage 2 - Vereinbarung über die Vordrucke für  https://www.kbv.de/media/sp/02_Vordruckver |
 |  | **Referenz ** Dokument FHIR® R4 |
 
 REFERENZIERTE DOKUMENTE update/DigitaleMuster/FOR/ update/DigitaleMuster/ERP/ update/DigitaleMuster/ERP/ die vertragsärztliche Versorgung einbarung.pdf reinbarung_digitale_Vordrucke.pdf Ausdruck zur Einlösung Ihres E-Rezeptes Ihrer Verordnung: E- Rezept update/DigitaleMuster/ERP/
@@ -11865,11 +11858,11 @@ REFERENZIERTE DOKUMENTE update/DigitaleMuster/FOR/ update/DigitaleMuster/ERP/ up
 | Spezifikation Implementierungsleitfaden | https://gemspec.gematik.de/docs/gemILF/gemI   gemSpec_DM_eRp  Spezifikation Datenmodell E-Rezept  https://gemspec.gematik.de/docs/gemSpec/ge |
 | SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita- |
 |  | KBV_ITA_VGEX_Anforderungskatalog_KVDT  Anforderungskatalog KVDT, siehe KP2-101 |
-|  | https://update.kbv.de/ita-    Medication IG DE |
-| Implementation Guide für | https://ig.fhir.de/igs/medication/1.0.4/   https://ig.fhir.de/igs/medication/1.0.7/ |
-|  | ePA Medication Service IG  Implementation Guide ePA Medication Service |
+|  | https://update.kbv.de/ita-    Medication IG DE  Implementation Guide für |
+| https://ig.fhir.de/igs/medication/1.0.4/ | https://ig.fhir.de/igs/medication/1.0.7/  ePA Medication Service IG |
+|  | Implementation Guide ePA Medication Service  https://gemspec.gematik.de/ig/fhir/epa- |
 |  | https://gemspec.gematik.de/ig/fhir/epa- |
-| https://gemspec.gematik.de/ig/fhir/epa- |  |
+|  |  |
 |  |  |
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Anlage 2b  https://update.kbv.de/ita- |
 | EXT_ITA_VGEX_Anforderungskatalog_AVWG | Anforderungskatalog nach § 73 SGB V für  https://update.kbv.de/ita- |
