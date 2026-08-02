@@ -15,7 +15,9 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDVA]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+Seite 1 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   2021
 
 
 ---
@@ -167,7 +169,13 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 5.3.4 ol
 
-Kardinalität 23
+23
+
+Seite 2 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung 2021
+
+Stammdatei) / Version: 1.0 / 21. April
+
+Kardinalität 
 
 
 ---
@@ -195,6 +203,10 @@ Kardinalität 23
 **6** **REFERENZIERTE DOKUMENTE**
 
 **26**
+
+Seite 3 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 /  2021
+
+21. April
 
 ---
 
@@ -245,6 +257,9 @@ ABBILDUNG 21: BR ...............................................................
 ABBILDUNG 22: TITEL ....................................................................................................................................................... 25
 
 ABBILDUNG 23: NR ........................................................................................................................................................... 25
+
+Seite 4 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April 2021
+
 
 ---
 
@@ -306,6 +321,9 @@ FORMEL 22: XML-CODE: TITEL .....................................................
 
 FORMEL 23: XML-CODE: NR ............................................................................................................................................. 25
 
+Seite 5 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April 2021
+
+
 ---
 
 DOKUMENTENHISTORIE
@@ -315,7 +333,11 @@ DOKUMENTENHISTORIE
 | 1.0 | 20.04.2021 | KBV | Erweiterung der Datenstruktur zur |  | **alle** |
 | 1.0 | 01.02.2021 | KBV | Initiale Erstellung |  | **alle** |
 
-Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jährlichen Änderung der ICD- Stammdatei #
+Seite 6 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 /  2021
+
+21. April
+
+Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jährlichen Änderung der ICD- Stammdatei 
 
 
 ---
@@ -335,7 +357,10 @@ Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jäh
 | **2.1** | Standard-Zeichensatz ist ISO-8859-15. |
 | **2.2** | Standard-Namespace ist |
 
-EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  KONVENTIONEN ZEICHENSATZ NAMENSPACE urn:ehd/va/001 2.3 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt va_root.xsd 2.4 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>.
+Seite 7 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  KONVENTIONEN ZEICHENSATZ NAMENSPACE urn:ehd/va/001 2.3 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt va_root.xsd 2.4 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. 2021
+
 
 ---
 
@@ -354,7 +379,10 @@ EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informa
 | nr+ | Lieferungen erfolgen |
 | du+ | verwendet werden |
 
-Tabelle 1: Beschreibung der Bestandteile des Dateinamens number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals Beispiel: VA_01.00_74_tf+2022q1_nr+1.xml
+Seite 8 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+Tabelle 1: Beschreibung der Bestandteile des Dateinamens number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals Beispiel: VA_01.00_74_tf+2022q1_nr+1.xml  2021
+
 
 ---
 
@@ -387,7 +415,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 Tabelle 3: Beschreibung der Strukturelement-Symbole
 
-dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. 
+Seite 9 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. 2021
 
 
 ---
@@ -406,7 +436,9 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 Tabelle 4: Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
+Seite 10 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 2021
 
 
 ---
@@ -438,7 +470,9 @@ Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im bo
 
 Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
-xmlns="urn:ehd/sdva/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="..."> 
+Seite 11 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+xmlns="urn:ehd/sdva/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="..."> 2021
 
 
 ---
@@ -480,6 +514,8 @@ Abbildung 3 haupt_zweig_liste
 
 Der Coderahmen für das <haupt_zweig_liste>-Element sieht wie folgt aus:
 
+Seite 12 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April 2021
+
 
 ---
 
@@ -507,7 +543,9 @@ Der Coderahmen für das <haupt_zweig>- Element sieht wie folgt aus:
 
 Formel 4: XML-Code: haupt_zweig
 
-=“Anleitung zur Verschlüsselung“ Anleitung zur Verschlüsselung /> 
+Seite 13 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+=“Anleitung zur Verschlüsselung“ Anleitung zur Verschlüsselung /> 2021
 
 
 ---
@@ -549,7 +587,11 @@ Formel 5: XML-Code: hauptkapitel_liste
 
 Das Element <hauptkapitel> stellt ein Hauptkapitel der darzustellenden Information dar. Im V-Attribut des  Elementes ist die ID der Information für eine mögliche Referenzierung von einem bestimmten ICD-10-GM-Kode in der ICD-Stammdatei auf das Hauptkapitel enthalten.
 
-DN  der ICD-10-GM-Das Element <hauptkapitel> enthält immer die Kinderelemente <titel> und <nr>. Es kann die Kindelemente  <beschreibung> und <kapitel_liste> enthalten.
+Das Element <hauptkapitel> enthält immer die Kinderelemente <titel> und <nr>. Es kann die Kindelemente  <beschreibung> und <kapitel_liste> enthalten.
+
+Seite 14 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+DN  der ICD-10-GM-2021
 
 
 ---
@@ -583,7 +625,13 @@ Das Element <kapitel_liste> enthält immer min. ein Kindelement <kapitel>.
 
 Abbildung 7: kapitel_liste
 
-Was ist zu verschlüsseln?“ /> hauptkapitel>Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
+Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
+
+Seite 15 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) /  2021
+
+Version: 1.0 / 21. April
+
+Was ist zu verschlüsseln?“ /> hauptkapitel>
 
 
 ---
@@ -610,7 +658,11 @@ Formel 8: XML-Code: kapitel
 
 ### 5.2.12 titel
 
-Gesetzliche Bestimmungen /> _liste _listeSiehe Kapitel 5.4
+Siehe Kapitel 5.4
+
+Seite 16 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+Gesetzliche Bestimmungen /> _liste _liste2021
 
 
 ---
@@ -648,6 +700,8 @@ Abbildung 10: unterkapitel
 
 Der XML-Code für ein <unterkapitel> Element hat folgenden Aufbau:
 
+Seite 17 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April 2021
+
 
 ---
 
@@ -676,7 +730,11 @@ Im Rahmen der Anzeige muss die tatsächliche Reihenfolge der Kindelemente zwinge
 
 Abbildung 11: beschreibung
 
-Gesetzliche Bestimmungen /> kapitel>Der XML-Code für ein <beschreibung> Element hat folgenden Aufbau:
+Der XML-Code für ein <beschreibung> Element hat folgenden Aufbau:
+
+Seite 18 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+Gesetzliche Bestimmungen /> kapitel>2021
 
 
 ---
@@ -696,7 +754,11 @@ Im Rahmen der Anzeige muss die tatsächliche Reihenfolge der Kindelemente zwinge
 
 Abbildung 12: div
 
-<p>      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       der endständigen Verschlüsselung gibt es die folgenden Ausnahmen: <p>    <ul> Der XML-Code für ein <div> Element hat folgenden Aufbau:
+Der XML-Code für ein <div> Element hat folgenden Aufbau:
+
+Seite 19 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+<p>      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       der endständigen Verschlüsselung gibt es die folgenden Ausnahmen: <p>    <ul> 2021
 
 
 ---
@@ -723,7 +785,11 @@ Formel 13: XML-Code: ul
 
 Mithilfe des Elementes <li> wird ein einzelner Listeneintrag abgebildet. Die Struktur des Elementes ist an  den Standard HTML angelehnt.
 
-<p> Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       n: der endständigen Verschlüsselung gibt es die folgenden Ausnahme <p> In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden    <ul> fachärztlichen Versorgung für DiagnEs kann die Kindelemente für verschachtelte Listen <ul> und <ol> sowie die Kindelemente, <br>, <p> oder  <div> zur Strukturierung enthalten.
+Es kann die Kindelemente für verschachtelte Listen <ul> und <ol> sowie die Kindelemente, <br>, <p> oder  <div> zur Strukturierung enthalten.
+
+Seite 20 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+<p> Grundsätzlich gilt: Zur Verschlüsselung sind die endständigen (terminalen) Schlüsselnummern      der ICD-10-GM zu verwenden, also Kodes, die keine Subkodes mehr enthalten. Endständige       Schlüsselnummern können dreistellig, vierstellig oder fünfstellig sein. Von dieser Grundregel       n: der endständigen Verschlüsselung gibt es die folgenden Ausnahme <p> In der ambulanten Versorgung (§ 295 SGB V) kann auf die fünfte Stelle verzichtet werden    <ul> fachärztlichen Versorgung für Diagn2021
 
 
 ---
@@ -749,6 +815,8 @@ Der XML-Code für ein <table> Element hat folgenden Aufbau:
 
 \| **<table>     <tr>        <th>...</th>           <th>...</th>        </tr>     <tr>        <td>...</td>           <td>...</td>        </tr>  </table>** |
 \|---|
+
+Seite 21 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April 2021
 
 
 ---
@@ -781,6 +849,8 @@ Es kann die Kindelemente <br>, <p> oder <div> zur Strukturierung enthalten.
 Abbildung 17: th
 
 Der XML-thCode für ein <
+
+Seite 22 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April  2021
 
 > Element hat folgenden Aufbau:
 
@@ -818,7 +888,10 @@ Der XML-Code für ein <ol> Element hat folgenden Aufbau:
 \| **<ol>    <li>in der hausärztlichen Versorgung,</li>       <li>im organisierten Notfalldienst und</li>    <li>in der fachärztlichen Versorgung für Diagnosen außerhalb des Fachgebietes.</li>  </ol>** |
 \|---|
 
-95 SGB V (ambulante Versorgung)</
+Seite 23 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+95 SGB V (ambulante Versorgung)</2021
+
 
 ---
 
@@ -856,7 +929,11 @@ Formel 21: XML-Code: br
 
 ## 5.4 TITEL
 
-ursprüngliche Terminologie der WHO-Fassung angeglichen und die Kodes, bei denen eine Divertikelkrankheit mit Perforation/Abszedierung der Kategorie Divertikulose zugeordnet war, gestrichen und auf die entsprechenden Kodes der Kategorie Divertikulitis übergeleitet. Mit dem Element <titel> wird der Titel eines Kapitels repräsentiert. Im V-Attribut des Elementes ist der Titel  enthalten.
+Mit dem Element <titel> wird der Titel eines Kapitels repräsentiert. Im V-Attribut des Elementes ist der Titel  enthalten.
+
+Seite 24 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
+
+ursprüngliche Terminologie der WHO-Fassung angeglichen und die Kodes, bei denen eine Divertikelkrankheit mit Perforation/Abszedierung der Kategorie Divertikulose zugeordnet war, gestrichen und auf die entsprechenden Kodes der Kategorie Divertikulitis übergeleitet. 2021
 
 
 ---
@@ -883,10 +960,13 @@ Der XML-nrCode für ein <
 
 Formel 23: XML-Code: nr
 
+Seite 25 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April  2021
+
 > Element hat folgenden Aufbau:
 
-Divertikelkrankheit des Darmes /> Attribut des Elementes ist
+Attribut des Elementes ist
 
+Divertikelkrankheit des Darmes />
 
 ---
 
@@ -904,3 +984,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 26 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April  2021

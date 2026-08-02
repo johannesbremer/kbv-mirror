@@ -13,6 +13,8 @@
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_AW_SST]
 
+Seite 1 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   IN KRAFT 
 
 
@@ -76,6 +78,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   IN KRAFT
 
 **54**
 
+Seite 2 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 ---
 
 # ABKÜRZUNGSVERZEICHNIS
@@ -87,6 +91,10 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   IN KRAFT
 | LANR | Lebenslange Arztnummer |
 | BSNR | Betriebsstättennummer |
 | SST | Schnittstelle |
+
+Seite 3 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) /
+
+Version: 1.2.1
 
 ---
 
@@ -102,7 +110,10 @@ DOKUMENTENHISTORIE
 | 27.05.2019 | | | | | |
 |  | 1. | P5-02 | ,   aufgenommen.  4.   5. 6. 7. 20 43       05.09.2019  1. |  | 2. 4. 5. 6.   35  46  50  47  1.2.0  10.12.2020  7. 8. |
 
-Neue Anforderung Neue Export-Anforderungen und Neue Import-Anforderungen und Anpassung Erzeugung Reportdateien und Historisierung der Begegnung geändert. Neue Anforderung P3-10 aufgenommen Neue Anforderung zur Kompatibilität der Schnittstellenversionen P6-20 und P707 1 SGB V Anlagen können auf Wunsch des Anwenders referenziert werden P5-52 Anforderung P6-03 konkretisiert Neue Afo P6-21 für Multiplikator einer GOP Neue Afo KP6-22 zum Abbilden von GOPn aus sonstigen Codesystemen Import in ein System mit vorhandenen Daten konkretisiert Afo P7-03 Neue Afo KP6-23 für die Abbildung von Teilaufträgen Geänderte gesetzliche Grundlage in § 371 und 372 Umstellung der Ressourcen von STU3 auf R4 Änderung der Dateinamen von 74_* in KBV_* Kapitel 1.4 eingefügt Ausnahmen in P3-02 zugefügt Hinweis P3-04 Must-Support Überarbeitung P7-01 und Separierung in KP7-05 Div. redaktionelle Anpassung Neue Anforderungen: P3-11, P5-59, O6-24 38
+Seite 4 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+Neue Anforderung Neue Export-Anforderungen und Neue Import-Anforderungen und Anpassung Erzeugung Reportdateien und Historisierung der Begegnung geändert. Neue Anforderung P3-10 aufgenommen Neue Anforderung zur Kompatibilität der Schnittstellenversionen P6-20 und P707 1 SGB V Anlagen können auf Wunsch des Anwenders referenziert werden P5-52 Anforderung P6-03 konkretisiert Neue Afo P6-21 für Multiplikator einer GOP Neue Afo KP6-22 zum Abbilden von GOPn aus sonstigen Codesystemen Import in ein System mit vorhandenen Daten konkretisiert Afo P7-03 Neue Afo KP6-23 für die Abbildung von Teilaufträgen Geänderte gesetzliche Grundlage in § 371 und 372 Umstellung der Ressourcen von STU3 auf R4 Änderung der Dateinamen von 74_* in KBV_* Kapitel 1.4 eingefügt Ausnahmen in P3-02 zugefügt Hinweis P3-04 Must-Support Überarbeitung P7-01 und Separierung in KP7-05 Div. redaktionelle Anpassung Neue Anforderungen: P3-11, P5-59, O6-24 38 
+
 
 ---
 
@@ -115,6 +126,8 @@ Neue Anforderung Neue Export-Anforderungen und Neue Import-Anforderungen und Anp
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | 16. | | | | | |
 | 1.2.1 | 15.11.2021 | KBV | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.   Versch. Punkte Anpassung ä => ae | P3-20 ist ein | 7  8  12  15  19  20  24  27  28  29  32  33  36  42  48  51  52  53 |
+
+Seite 5 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 Komplette Überarbeitung der Anforderungen zu den Datenbereichen im Kapitel 2.4 Gültigkeit des Anforderungskatalogs Hinweis hinzugefügt P1-01 4. Angepasst P3-04 1. Und 2. Präzisiert P3-20 Neu hinzugefügt P5-00 2. Hinweis auf Änderung für die Zukunft P5-02 Konkretisierung  KP5-05 7. hinzugefügt P5-52 überarbeitet KP5-54 kleiner Hinweis KP5-55 kleiner Hinweis P5-59 Anpassung des Zeichensatzes P6-00 1. Spezifizierung P6-05 Anpassungen P6-13 generell überarbeitet P7-01 versch. Änderungen KP7-05 c) Textanpassungen P708 3. Spezifizierung der Vers. Nummer KP7-09 NEU Spezifizierung der Provenienzen als Anlage wichtiger Zusatz um Datenkonflikte zu klären 
 
@@ -161,7 +174,11 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **O4-20** | Funktionsbezeichnung |
 
-PFLICHTFUNKTION AW-SST und -psychotherapeuten mittels einer offenen
+Seite 6 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+und -psychotherapeuten mittels einer offenen
+
+PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -171,6 +188,8 @@ PFLICHTFUNKTION AW-SST und -psychotherapeuten mittels einer offenen
 Die Version des Anforderungskataloges V1.2.1 bezieht sich auf die Schnittstellenversion der AW-SST V1.2.0.
 
 Hinweis: In der Version 1.2.1 werden keine neuen Verpflichtungen in den Anforderungen aufgenommen.  Bereits heute erkannte Bedarf für eine Verpflichtung wird mit der Markierung [siehe Hinweis Kapitel 1.4]  verdeutlicht und voraussichtlich mit der neuen Version der AWS-SST verpflichtend definiert. Damit wird  gewährleistet, dass bei der Umsetzung die Verpflichtung bereits heute angenommen werden kann, um ggf.  spätere Aufwände zu minimieren.
+
+Seite 7 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -212,6 +231,8 @@ Die KBV-Definitionsdateien geben Auskunft darüber, mit welchen Erweiterungen so
 - 2. Eine Einschränkung, Erweiterung bzw. Modifikation der in Punkt 1 genannten Dokumente ist nicht  erlaubt.
 - 3. Es dürfen in der AW-SST ausschließlich die Instanzen der KBV-Definitionsdateien aus [KBV_FHIR_AW.zip]  übertragen werden.
 - 4. Ausnahme von Punkten 2 und 3 sind die von den Herstellern erzeugten eigenen Codesysteme, die die  KBV-CodeSysteme ergänzen. Diese sind in den entsprechenden KBV-Profilen zu referenzieren. Weiterhin  sind diese nach P5-02 zu übertragen.
+
+Seite 8 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -261,6 +282,8 @@ Die Dateien müssen den jeweils gültigen Vorgaben entsprechen und fehlerfrei se
 - 2. Es dürfen nur valide BUNDLE-Dateien verarbeitet werden.
 - 3. Der gesamte Import ist bei einer nicht validen BUNDLE-Datei mit einer aussagekräftigen Fehlermeldung  abzubrechen.
 
+Seite 9 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 ---
 
 ## 2.3 STRUKTUR DER FHIR®-ELEMENTE
@@ -304,6 +327,7 @@ Festlegung für die Schnittstelle.
 
 Die Definition für die Verwendung der maschinenlesbaren Elemente in den KBV-Profilen ist ausnahmslos (in  der jeweils aktuellen Schnittstellenversion) einzuhalten.
 
+Seite 10 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -346,8 +370,9 @@ Festlegung für die Schnittstelle.
 
 Eine konkrete Formatierung für die einzelnen Texte und Abschnitte wird nicht vorgegeben, da die  Softwarehersteller somit größere Freiheiten haben, dies in ihrem System optimal umzusetzen.
 
-- KBV_PR_AW_Krebsfrueherkennung_Frauen,  (Ressourcentyp “Composition“)
+Seite 11 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
+- KBV_PR_AW_Krebsfrueherkennung_Frauen,  (Ressourcentyp “Composition“)
 
 ---
 
@@ -387,6 +412,8 @@ Festlegung für die Schnittstelle.
 **HINWEIS**
 
 - 2. Bei den BUNDLES vom Ressourcentyp „History“ erfolgt die Definition ohne eine „Composition“. Im  jeweiligen KBV-Profil sind im Element „BUNDLE.entry“ alle Pflichtressourcen, sowie die nicht direkt  referenzierten Ressourcen angegeben.
+
+Seite 12 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -433,7 +460,11 @@ Festlegung für den Transport von Änderungen an gleichen Informationsobjekten.
 
 **HINWEIS**
 
-PFLICHTFUNKTION AW-SST Nach der FHIR-Spezifikation können versionierte Referenzen genutzt werden. Die meta.versionID ist dabei  in der Referenz explizit anzugeben z. [B.](http://testserver.de/Patient/1/_history/2)[http://Testserver.de/Patient/1/_history/2](http://testserver.de/Patient/1/_history/2) In diesem Bsp. würde  auf den Patienten [mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen werden.](http://testserver.de/Patient/1/_history/2)
+Nach der FHIR-Spezifikation können versionierte Referenzen genutzt werden. Die meta.versionID ist dabei  in der Referenz explizit anzugeben z. [B.](http://testserver.de/Patient/1/_history/2)[http://Testserver.de/Patient/1/_history/2](http://testserver.de/Patient/1/_history/2) In diesem Bsp. würde  auf den Patienten [mit der Ressourcen-ID=1 und der meta.versionID=2 verwiesen werden.](http://testserver.de/Patient/1/_history/2)
+
+Seite 13 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -450,7 +481,10 @@ PFLICHTFUNKTION AW-SST Nach der FHIR-Spezifikation können versionierte Referenz
 |---|---|
 | **P3-10** | Schnittstellenversion im Element meta.profile |
 
-PFLICHTFUNKTION AW-SST diese Strukturen mit einer Historie-Version auch in dieser SST abzubilden. Zum einheitlichen Verständnis muss der Aufbau der Versionsnummer definiert werden. Begründung: Hiermit werden Änderungen an fachlichen gleichen Objekten mit einer Versionierung abgebildet. Akzeptanzkriterium: Die zeitlich gesehen älteste Informationseinheit hat die kleinste numerische Versionsnummer (meta.versionId=1). Darauffolgende chronologische Änderungen haben fortlaufende ansteigende Versionsnummern (1, 2, 3 usw.) zur Folge. Es sind nur natürliche Zahlen OHNE DIE NULL  erlaubt Das Element meta.profile in Instanzen der FHIR®-Ressourcen ist mit der Canonical-URL des verwendeten FHIR®-Profils unter Angabe der Versionsnummer der Schnittstelle zu versehen.  Begründung: Zur Kennzeichnung mit welchem KBV-Profil die FHIR®-Instanz konform ist, ist die entsprechende URL des FHIR®-Profils anzugeben. Zur Gewährleistung einer Eindeutigkeit ist die URL um die Versionsnummer der Schnittstelle des entsprechenden Profils zu erweitern. Akzeptanzkriterium: Alle FHIR®-Instanzen müssen im Element meta.profile einen Eintrag gemäß Kapitel 2.3.0.5 http://www.hl7.org/fhir/r4/references.html der [ FHIR® ]-Spezifikation in folgender Form enthalten:  <URL des FHIR-Profils>|<Version des Profils> Es gilt: <URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils <Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils im Format „X.X.X“
+Seite 14 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+PFLICHTFUNKTION AW-SST diese Strukturen mit einer Historie-Version auch in dieser SST abzubilden. Zum einheitlichen Verständnis muss der Aufbau der Versionsnummer definiert werden. Begründung: Hiermit werden Änderungen an fachlichen gleichen Objekten mit einer Versionierung abgebildet. Akzeptanzkriterium: Die zeitlich gesehen älteste Informationseinheit hat die kleinste numerische Versionsnummer (meta.versionId=1). Darauffolgende chronologische Änderungen haben fortlaufende ansteigende Versionsnummern (1, 2, 3 usw.) zur Folge. Es sind nur natürliche Zahlen OHNE DIE NULL  erlaubt Das Element meta.profile in Instanzen der FHIR®-Ressourcen ist mit der Canonical-URL des verwendeten FHIR®-Profils unter Angabe der Versionsnummer der Schnittstelle zu versehen.  Begründung: Zur Kennzeichnung mit welchem KBV-Profil die FHIR®-Instanz konform ist, ist die entsprechende URL des FHIR®-Profils anzugeben. Zur Gewährleistung einer Eindeutigkeit ist die URL um die Versionsnummer der Schnittstelle des entsprechenden Profils zu erweitern. Akzeptanzkriterium: Alle FHIR®-Instanzen müssen im Element meta.profile einen Eintrag gemäß Kapitel 2.3.0.5 http://www.hl7.org/fhir/r4/references.html der [ FHIR® ]-Spezifikation in folgender Form enthalten:  <URL des FHIR-Profils>|<Version des Profils> Es gilt: <URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils <Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils im Format „X.X.X“ 
+
 
 ---
 
@@ -474,8 +508,11 @@ Erstellung valider Ressourcen mit KBV-Profilen.
 - a) Element Patient.birthDate: Ist das Geburtsdatum insgesamt unbekannt (z.B. Wert im PVS 00000000)  muss die Extension data-absent-reason verwendet werden und das Element  Patient.extension(versichertendaten_Zusatzinformationen).extension:geburtsdatum darf nicht  gefüllt werden.
 - b) Element Patient.deceased[x]: Ist der Todeszeitpunkt unbekannt, die Tatsache soll aber übertragen  werden, so muss der Dummy-Wert 0001-01-01 verwendet werden.
 - 2. KBV-Profil KBV_PR_AW_ANLAGE:
+- a) Element DocumentReference.date: Ist das Referenzierungsdatum unbekannt, kann das Dummy-Datum 01.01.0001 (0001-01-01T00:00:00.000+00:00) verwendet werden. Bei fehlender Möglichkeit  eine Zeit zum Datum zu speichern ist nach dem Datum T00:00:00.000+00:00 zu ergänzen (bspw.  2021-05-15T00:00:00.000+00:00)
 
-P3-11 Belegung der Elemente text.status in den KBV-Profilen Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur derzeit noch uneinheitlichen Definition in den KBV-Profilen. Akzeptanzkriterium: Das Element text.status muss in allen Instanzen der KBV-Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE - a) Element DocumentReference.date: Ist das Referenzierungsdatum unbekannt, kann das Dummy-Datum 01.01.0001 (0001-01-01T00:00:00.000+00:00) verwendet werden. Bei fehlender Möglichkeit  eine Zeit zum Datum zu speichern ist nach dem Datum T00:00:00.000+00:00 zu ergänzen (bspw.  2021-05-15T00:00:00.000+00:00)
+Seite 15 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+P3-11 Belegung der Elemente text.status in den KBV-Profilen Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur derzeit noch uneinheitlichen Definition in den KBV-Profilen. Akzeptanzkriterium: Das Element text.status muss in allen Instanzen der KBV-Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE
 
 | PFLICHTFUNKTION AW-SST |  |
 |---|---|
@@ -529,11 +566,15 @@ Festlegung für die Schnittstelle.
 **Bedingung:**
 
 - 1. Im System sind Termine für den Export vorhanden und der gewählte Datenbereich schließt die Termine  ein.
+
+Seite 16 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 - KP4-01 bis KP4-04) vollständig in den
 - mit den in den Anforderungen KP4-01 bis KP4-04
 - KBV_PR_AW_Bundle_Termin vollständig
+- der im Profil KBV_PR_AW_Betriebsstaette
 
-PFLICHTFUNKTION AW-SST - der im Profil KBV_PR_AW_Betriebsstaette
+PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -575,10 +616,14 @@ Festlegung für die Schnittstelle.
 **Bedingung:**
 
 - 1. Im System sind Behandlungsbausteine schließt die Behandlungsbausteine
+
+Seite 17 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 - für den Export vorhanden und der gewählte Datenbereich  ein.
 - KBV_PR_AW_Bundle_Adressbuch
+- eingeschränkt werden.
 
-PFLICHTFUNKTION AW-SST PFLICHTFUNKTION AW-SST - eingeschränkt werden.
+PFLICHTFUNKTION AW-SST PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -616,6 +661,8 @@ Festlegung für die Schnittstelle.
 **Bedingung:**
 
 - 1. Im System sind Patientenakten für den Export vorhanden und der gewählte Datenbereich schließt die  Patientenakten ein.
+
+Seite 18 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST 
 
@@ -665,6 +712,7 @@ Bedeutung der einzelnen Parameter:
 - Exportumfang: V = Vollständig; E = Eingeschränkt z. B. nur Termin und/oder Adressbuch oder die Daten  eines Arztes
 - Schnittstelle: AW = Fester Wert (Archiv- und Wechselschnittstelle)
 
+Seite 19 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -685,6 +733,8 @@ Hiermit wird ein besseres Auffinden der Dateien ermöglicht.
 - 2. Im Unterordner Codesystem müssen alle vom Hersteller zusätzlichen Code- und Namingsysteme  gespeichert werden.
 - 3. Eigens erstellte Codes müssen im Codesystem mit einem aussagekräftigen, verständlichen und  erläuternden Text unter codesystem.concept.display versehen werden.
 - 4. Im Unterordner Report werden die Dateien vom Export nach P6-12 und ggf. vom Import nach P7-04  gespeichert.
+
+Seite 20 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -715,6 +765,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 1. Im System sind Adressen für den Export vorhanden und der gewählte Datenbereich schließt die  Adressen ein.
 - 2. Es wird eine BUNDLE-Datei mit Daten nach KP4-02 erzeugt.
+
+Seite 21 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST 5-03 
 
@@ -748,6 +800,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 - 1. Im System sind Behandlungsbausteine für den Export vorhanden und der gewählte Datenbereich  schließt die Behandlungsbausteine ein.
 - 2. Es wird eine BUNDLE-Datei mit Daten nach KP4-03 erzeugt.
 
+Seite 22 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 PFLICHTFUNKTION AW-SST 
 
 
@@ -775,7 +829,10 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 - d) Schnittstelle: AW = Fester Wert (Archiv- und Wechselschnittstelle)
 - 4. Die BUNDLE-Dateien der Patienten müssen im Verzeichnis Patientenakten alphabetisch nach dem  ersten Buchstaben des Nachnamens in Unterordnern gespeichert werden:
 
-PFLICHTFUNKTION AW-SST
+Seite 23 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+PFLICHTFUNKTION AW-SST 
+
 
 ---
 
@@ -815,7 +872,10 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 - 1. Im System ist Sprechstundenbedarf für den Export vorhanden und der gewählte Datenbereich schließt  den Sprechstundenbedarf ein.
 - 2. Es wird eine BUNDLE-Datei mit Daten zum Sprechstundenbedarf nach KP4-04 erzeugt.
 
-PFLICHTFUNKTION AW-SST
+Seite 24 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+PFLICHTFUNKTION AW-SST 
+
 
 ---
 
@@ -845,6 +905,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 1. Im System sind Termine für den Export vorhanden und der gewählte Datenbereich schließt die Termine  ein.
 - 2. Es wird eine BUNDLE-Datei mit Daten nach KP4-01 erzeugt.
+
+Seite 25 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST 
 
@@ -892,10 +954,11 @@ Festlegung für die Schnittstelle.
 
 Die ursprünglichen Dateinamen der Anlagen bleiben erhalten bzw. sind frei wählbar.
 
+Seite 26 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 (URL) muss eindeutig auf eine Anlage
 
 *"/>*
-
 
 ---
 
@@ -922,6 +985,8 @@ Können Anlagen nicht referenziert werden, da sie bspw. in einer internen Datenb
 - 6. Alle Dokumente, die in der Hoheit des Systems (z.B. eigene ArchivierungsKomponente) liegen, deren  Ablageort bzw. Ablagestruktur das System aber nicht direkt bestimmt, müssen nach den Punkten 1 5  exportiert werden, sofern nicht gewährleistet ist, dass das importierende System den Zugriff auf diese  Anlagen sicherstellen kann.
 - 7. Der Umfang der aus Punkt 6 vorhandenen Daten muss durch eine sprechende Abfrage (Erweiterung der  Abfrage unter Punkt 3) durch den Nutzer festlegbar sein. In der Abfrage muss auf alle bekannten  Abhängigkeiten zur Weiternutzung des Systems hingewiesen werden, die dem exportierenden System  bekannt sind.
 - 8. Die Anlagen müssen in fachlich getrennten Unterordnern unter dem Ordner „Anlagen“ abgelegt  werden:
+
+Seite 27 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -967,7 +1032,11 @@ referenzieren, in Unterordnern mit der Bezeichnung - Quartal der Abrechnung im F
 
 **Bedingung:**
 
-PFLICHTFUNKTION AW-SST - 1. Im System sind Anlagen der Abrechnung für den Export vorhanden.
+- 1. Im System sind Anlagen der Abrechnung für den Export vorhanden.
+
+Seite 28 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -991,6 +1060,8 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 **Bedingung:**
 
 - 1. Im System sind Anlagen der Begegnung für den Export vorhanden.
+
+Seite 29 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST 
 
@@ -1016,7 +1087,11 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 
 - 1. Im System sind Anlagen der Behandlungsbausteine
 
-PFLICHTFUNKTION AW-SST - für den Export vorhanden.
+Seite 30 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+- für den Export vorhanden.
+
+PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -1061,9 +1136,13 @@ Hiermit wird ein besseres Auffinden der exportierten Dateien ermöglicht.
 - KBV_PR_AW_Notfallberechtigter
 - KBV_PR_AW_Patientenverfuegung
 - KBV_PR_AW_Gesundheitspass
-- für den Export vorhanden.
 
-PFLICHTFUNKTION AW-SST PFLICHTFUNKTION AW-SST - mit
+Seite 31 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+- für den Export vorhanden.
+- mit
+
+PFLICHTFUNKTION AW-SST PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -1118,6 +1197,8 @@ Plattformunabhängige Festlegung.
 -  Folgende Dateinamen sind nicht zulässig:
 -  CON, PRN, AUX, NUL, COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9,  LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, LPT9
 
+Seite 32 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 Verzeichnis- und Dateinamen 
 
 
@@ -1160,6 +1241,8 @@ Festlegung für die Schnittstelle.
 - 1. Die strukturierte kontextbezogene Erhaltung z. B. der Behandlungsinformationen ist zwingend  notwendig.
 - 2. Aus dem exportierenden System abweichende Wertebereiche oder Datentypen müssen an die KBV-Profile angepasst werden.
 
+Seite 33 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 ---
 
 | KONDITIONALE |  |
@@ -1196,6 +1279,8 @@ Festlegung für die Schnittstelle.
 - 4. Der Anwender kann mit einer Auswahlmöglichkeit, die originalen Labordaten, sofern diese im System  vorhanden sind, in der zum Zeitpunkt der Erstellung gültigen Version des LDT-Formats exportieren.
 - 5. Die erzeugten Dateien der Punkte 1, 3 und 4 sind über die Ressource KBV_PR_AW_Anlage zu  exportieren.
 
+Seite 34 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 PFLICHTFUNKTION AW-SST 
 
 
@@ -1225,6 +1310,8 @@ Festlegung für die Schnittstelle.
 **HINWEIS**
 
 Bei patientenbezogenen medizinischen Dokumentationen (z. B. QS Hörgeräteversorgung) ist in der Instanz  des Profils KBV_PR_AW_Anlage das Profil KBV_PR_AW_Patient zu referenzieren. Bei statistikbezogener  (Betriebsstätte) Dokumentation (z. B. QS Kapselendoskopie) ist in der Instanz des Profils  KBV_PR_AW_Anlage das Profil KBV_PR_AW_Betriebsstaette zu referenzieren.
+
+Seite 35 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1268,6 +1355,8 @@ Festlegung für die Schnittstelle.
 -
 -
 ```
+
+Seite 36 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1313,11 +1402,10 @@ Es sollen im Zielsystem alle für eine noch nicht erfolgte Abrechnung relevanten
 
 Die Markierung ob eine GOP abrechnungsfähig ist, erfolgt im KBV-Profil  KBV_PR_AW_Abrechnung_vorlaeufig.
 
-2.4
+Seite 37 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1 2.4
 
 - 2.4) für
 - 2.5.1) zu
-
 
 ---
 
@@ -1344,6 +1432,8 @@ Dementsprechend muss bei einer abgeschlossenen (abgerechneten) Abrechnung eine I
 - KBV_PR_AW_Abrechnung_Vertragsaerztlich
 
 auftreten und dieselbe Instanz des KBV-Profils KBV_PR_AW_Abrechnung_vorlaeufig referenzieren.
+
+Seite 38 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1382,6 +1472,8 @@ Sofern die notwendigen Informationen zum Erstellen der Instanz von KBV_PR_AW_Per
 - (Es kann ein Text als Diagnose/Verdachtsdiagnose in reasonCode oder eine
 -  **REASONREFERENCE** komplette Diagnoseklasse angegeben werden)
 - **SUPPORTINGI NFO** (Befund/Medikation, es kann entweder ein String oder eine Referenz zu einer  Diagnose erstellt werden.)
+
+Seite 39 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1433,6 +1525,8 @@ Die strukturierte Übermittlung der Anlagen ist zwingend notwendig, um eine auto
 [](mailto:ITA@kbv.de)
 ```
 
+Seite 40 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 ---
 
 | PFLICHTFUNKTION AW-SST |  |
@@ -1460,6 +1554,8 @@ Bedeutung:
 - 4. Die Reportdatei muss im Unterordner Report (P5-02) gespeichert werden.
 - 5. Zusätzlich ist die Instanz des KBV-Profils KBV_PR_AW_Report_Export mit dem Dateinamen nach 3. und  der Dateiendung .xml im Unterordner Punkt 4 zu speichern.
 - 6. Für Test-Exporte kann unter Angabe des Parameters KBV_PR_AW_Report_Export.purposeOfEvent =  HTEST, sowohl der menschenlesbare Teil aus [P3-02] als auch die PDFs aus [P6-13] weggelassen werden.
+
+Seite 41 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1500,6 +1596,8 @@ Es sollen keine unvollständigen Dateien oder Verzeichnisse erhalten bleiben, di
 - 1. Bei einem fehlerhaften Export sind alle erzeugten Dateien und Verzeichnisse zu löschen.
 - 2. Der Anwender ist entsprechend, unter Angabe der Fehlerursache, darüber zu informieren.
 - 3. Die Reportdatei darf in diesem Fall nicht erzeugt werden.
+
+Seite 42 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 PFLICHTFUNKTION AW-SST 
 
@@ -1563,6 +1661,8 @@ Leere Ressourcen können beim Import zu Fehlinterpretationen führen.
 -
 ```
 
+Seite 43 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 ---
 
 | KONDITIONALE |  |
@@ -1596,7 +1696,11 @@ Festlegung für die Schnittstelle.
 
 - 1. Alle Profile aus dem Dokument KBV_ITA_VGEX_SST_Festlegung_AW
 
-PFLICHTFUNKTION AW-SST KBV_PR_AW_Abrechnung_Privat   - sind als Referenz freigegeben.
+Seite 44 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+- sind als Referenz freigegeben.
+
+PFLICHTFUNKTION AW-SST KBV_PR_AW_Abrechnung_Privat 
 
 
 ---
@@ -1635,6 +1739,8 @@ Festlegung für die Schnittstelle.
 
 - 1. Der Multiplikator einer GOP soll mit dem Element Claim.item.quantity im KBV-Profil  PR_AW_Abrechnung_Vorlaeufig abgebildet werden.
 - 2. Die technische Möglichkeit den Multiplikator durch Wiederholen des Elements Claim.Item im KBV-Profil  KBV_PR_AW_Abrechnung_vorlaeufig abzubilden ist nicht zulässig.
+
+Seite 45 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1686,9 +1792,13 @@ Möglichkeit zum Übertragen von allgemeinen Information die kein bestimmtes Ers
 - Typ = Dummy
 - Inhalt = Dummy
 
+Seite 46 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 Gebührenordnungen können im KBV-
 
-PFLICHTFUNKTION AW-SST aus sonstigen Codesystemen PFLICHTFUNKTION AW-SST - Code und einer
+- Code und einer
+
+PFLICHTFUNKTION AW-SST aus sonstigen Codesystemen PFLICHTFUNKTION AW-SST 
 
 
 ---
@@ -1716,6 +1826,8 @@ Festlegung für die Schnittstelle.
 Die Anforderung im Punkt 1 gilt in dieser Version nur für die verpflichtenden Ressourcen (siehe
 
 Festlegung_SST_AW]). Bei der Implementierung weiterer optionaler Ressourcen, gilt die Definition im  Punkt 1 ausnahmslos.
+
+Seite 47 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1745,6 +1857,8 @@ Für die Abbildung der Provenienz-Ressourcen gilt die Anforderung KP7-09.
 - 9. Die Anlagen aus dem Profil KBV_PR_AW_Anlage die aufgrund fehlender Funktionalität nicht ins  Zielsystem importiert werden können, müssen an einem vom Anwender auswählbaren Ort erhalten  bleiben.
 - 10. Es muss ein Eintrag für jede Ressource aus Punkten 96 und 7 nach [KP7-05] erfolgen, wobei der Punkt 1c  (Ressourcentyp.text) nur auf Wunsch des Anwenders zu füllen ist.
 - 11. Die Einträge aus den Punkten 8 und 10 sind dem Anwender in geeigneter Weise anzuzeigen.
+
+Seite 48 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1784,6 +1898,8 @@ Der Anwender muss den Import, wenn er dies wünscht, eigenständig durchführen 
 
 Eine Schulung der Anwender durch die Hersteller wird nicht erwartet.
 
+Seite 49 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 ---
 
 | PFLICHTFUNKTION AW-SST |  |
@@ -1810,6 +1926,8 @@ Bedeutung:
 - Schnittstelle: AW = Fester Wert (Archiv- und Wechselschnittstelle)
 - 4. Die Reportdatei muss in einem vom Anwender auswählbaren Ordner abgelegt werden. Es soll der  Unterordner Report (P5-02) zur Auswahl angezeigt werden.
 - 5. Zusätzlich ist die Instanz des KBV-Profils KBV_PR_AW_Report_Import mit dem Dateinamen nach 3. und  der Dateiendung .xml im ausgewählten Ordner aus Punkt 4 zu speichern.
+
+Seite 50 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
 ---
 
@@ -1851,7 +1969,10 @@ Die FHIR-Spezifikation ermöglicht derzeit nicht das Importieren von historisier
 - 3. Alle im Bundle verpackten Ressourcen sollen im fehlerfreien Fall vollständig auf dem Server gespeichert  werden.
 - 4. Sind Ressourcen mit gleicher ID vorhanden, so müssen die Ressourcen in der Reihenfolge der  meta.versionId importiert werden. Also Ressource mit meta.versionId=1 zuerst, meta.versionId=2  danach, u. s. w. (Siehe P7-02
 
-PFLICHTFUNKTION AW-SST der Reportdatei eines Bundles mittels FHIR-Server
+Seite 51 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
+PFLICHTFUNKTION AW-SST der Reportdatei eines Bundles mittels FHIR-Server 
+
 
 ---
 
@@ -1886,6 +2007,8 @@ Die AW-SST ist derzeit nicht abwärtskompatibel.
 - 2. Die Version im Element meta.profile der zu importierenden Ressourcen muss mit der verwendeten  Version der Schnittstelle identisch sein.
 - 3. Wird die übermittelte Version des Exportverzeichnisses beim Import nicht unterstützt, ist dies dem  Nutzer mit einer Fehlermeldung inklusive der Versionsnummern (System-Einstellung und ermittelte  Versionsnummer des Imports) anzuzeigen. Der Import darf in diesem Fall nicht durchgeführt werden.
 
+Seite 52 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 ---
 
 | KO |  |
@@ -1913,6 +2036,8 @@ Hinweis: Derzeit ist es auch nicht möglich für jeden Ressourcentyp eine separa
 
 - 6. Die Änderungsinformation darf nicht mit weiteren nicht strukturierten Informationen in einer Anlage  zusammengefasst importiert werden.
 
+Seite 53 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
+
 NDITIONALE PFLICHTFUNKTION AW-SST 
 
 
@@ -1939,4 +2064,8 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-update/Allgemein/ Schnittstellen/PVS-Archivierungs-Wechsel- Schnittstelle/ Schnittstelle nach § 371 Abs. 1 SGB V: Schnittstellen/PVS-Archivierungs-Wechsel- Schnittstelle/ Schweigepflicht, Datenschutz und Datenverarbeitung in der Arztpraxis: dmin/user_upload/downloads/pdf- Ordner/Recht/Hinweise_und_Empfehlunge n_aerztliche_Schweigepflicht_Datenschutz _Datenverarbeitung_09.03.2018_.pdf# NTE
+Seite 54 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle
+
+# NTE (AW-SST) / Version: 1.2.1
+
+update/Allgemein/ Schnittstellen/PVS-Archivierungs-Wechsel- Schnittstelle/ Schnittstelle nach § 371 Abs. 1 SGB V: Schnittstellen/PVS-Archivierungs-Wechsel- Schnittstelle/ Schweigepflicht, Datenschutz und Datenverarbeitung in der Arztpraxis: dmin/user_upload/downloads/pdf- Ordner/Recht/Hinweise_und_Empfehlunge n_aerztliche_Schweigepflicht_Datenschutz _Datenverarbeitung_09.03.2018_.pdf

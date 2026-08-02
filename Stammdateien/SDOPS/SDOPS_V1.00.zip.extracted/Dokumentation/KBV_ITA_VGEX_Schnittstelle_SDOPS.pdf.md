@@ -44,9 +44,7 @@ Seite 2 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ---
 
-## EINLEITUNG ZU SDOPS
-
-Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und  Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen-und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
+1. EINLEITUNG ZU SDOPS Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und  Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen-und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
 
 Die Aktualisierung der Stammdatei erfolgt in Abhängigkeit der Änderungen des DIMDIs bzw. durch Beschlüsse des Bewertungsausschusses.
 
@@ -61,7 +59,7 @@ Seite 3 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ---
 
-## KONVENTIONEN ZU SDOPS 2.1 ZEICHENSATZ
+2. KONVENTIONEN ZU SDOPS 2.1 ZEICHENSATZ
 
 Der Standard-Zeichensatz ist ISO-8859-15.
 
@@ -188,7 +186,7 @@ Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelemen
 
 ---
 
-# EHD-ELEMENT (ROOT-ELEMENT) IN SDOPS
+3. EHD-ELEMENT (ROOT-ELEMENT) IN SDOPS
 
 Dieses Element ist das Wurzelelement der Stammdatei. Es beinhaltet die Kindelemente „header“ und „body“, wie
 
@@ -230,16 +228,14 @@ Seite 7 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ---
 
-## HEADER (METADATEN) IN SDOPS
-
-Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle  Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
+4. HEADER (METADATEN) IN SDOPS Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die jeweils aktuelle  Version der ehd-Schnittstellenbeschreibung [1] verwiesen.
 
 Seite 8 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 
 ---
 
-# BODY (INHALTSDATEN) IN SDOPS
+5. BODY (INHALTSDATEN) IN SDOPS
 
 ### Das <body> Element beinhaltet alle Operationen- und Prozedurenschlüssel (OPS) mit den zugehörigen
 
@@ -281,7 +277,7 @@ Seite 9 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 Das Element <gueltigkeit> enthält das Gültigkeitsdatum des OPS. Folgende Varianten sind möglich:
 
-z. B.: 2006-10-01.. für unbegrenzt gültige Codes 2. z. B.: 1990-10-01..2006-09-30 für beendete Codes bzw. mit einer begrenzten Gültigkeit
+1. z. B.: 2006-10-01.. für unbegrenzt gültige Codes 2. z. B.: 1990-10-01..2006-09-30 für beendete Codes bzw. mit einer begrenzten Gültigkeit
 
 Der XML-Code für ein Element <gueltigkeit> hat folgenden Aufbau:
 

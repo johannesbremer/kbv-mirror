@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-1.00 Datum: 14.11.2017 Kennzeichnung:  Öffentlich Status: In Kraft
+1.00 Datum: 14.11.2017 Kennzeichnung:  Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2018
+
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 ### DOKUMENTENHISTORIE
 
@@ -21,8 +24,14 @@
 |---|---|---|---|---|---|
 | 1.00 | 14.11.2017 | KBV | neues Dokument |  |  |
 
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+Seite 2 14 von
+
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 ### INHALTSVERZEICHNIS
 
@@ -72,7 +81,14 @@
 
 **14**
 
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+Seite 3 14 von
+
+
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 #### ABBILDUNGSVERZEICHNIS
 
@@ -90,8 +106,14 @@ Abbildung 6: name ..............................................................
 
 Abbildung 7: hinweistext......................................................................................................... 13
 
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+Seite 4 14 von
+
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 #### TABELLENVERZEICHNIS
 
@@ -101,11 +123,15 @@ Tabelle 2: Beschreibung der Strukturelement-
 
 Tabelle 3: Beschreibung sonstiger Symbole
 
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
 ........................................... 8
 
 Symbole........................................................... 9
 
 ............................................................................ 9
+
+Seite 5 14 von
 
 
 ---
@@ -126,8 +152,16 @@ XML-Code 6: nummer .............................................................
 
 XML-Code 7: hinweistext ....................................................................................................... 13
 
+**IT in der Arztpraxis**  Ausfüllhilfen
+
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+Seite 6 14 von
+
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 # 1 Einleitung
 
@@ -177,7 +211,11 @@ _ ............. Trennungszeichen zwischen den Namenselementen
 
 datatyp ..... Datentyp , "Satzart", "ehd." ist optional als Vorsatz erlaubt;  Entspricht dem Header-Element *<document_type_cd>*
 
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
 **.xml**
+
+Seite 7 14 von
 
 
 ---
@@ -218,8 +256,15 @@ Es existieren verschiedene Kardinalitäten:
 | 1 |  | **Obligatorische Elemente ** Elemente, welche als Rechteck mit durchgezogener |
 | n...m |  | **Mehrfache Elemente ** Bei Elementen, welche mehrfach vorkommen kön- |
 
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un-**Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
+**Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
+**IT in der Arztpraxis**  Ausfüllhilfen
+
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+Seite 8 14 von
+
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un-
 
 ---
 
@@ -247,9 +292,17 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
+**IT in der Arztpraxis**  Ausfüllhilfen
+
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+Seite 9 14 von
+
 <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 # 3 ehd – Element (root-
 
@@ -293,6 +346,8 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
 
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
 # Element)
 
 **/ehd (root-Element)** dargestellt ist. Im header-
@@ -303,8 +358,12 @@ Schemas angeben. Der Wertebereich wird auf 0.00
 
 ***urn:ehd/001***
 
+Seite 10 14von
+
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 # 4 header (Metadaten)
 
@@ -334,10 +393,16 @@ Der XML-Code für ein <ausfuellhilfen> Element hat folgenden Aufbau:
 
 **XML-Code 2:** ausfuellhilfen
 
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
 Schnittstellenbeschreibung [1] verwiesen.
+
+Seite 11 14von
 
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhilfen
 
 ## 5.2 feld_liste
 
@@ -380,7 +445,10 @@ Der XML-Code für ein <feld> Element hat folgenden Aufbau:
 
 **XML-Code 4:** feld
 
-<hinweistext V=“...“/>
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+<hinweistext V=“...“/> Seite 12 14von
+
 
 ---
 
@@ -417,7 +485,13 @@ Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
 **<hinweistext V="** **Geben Sie hier bitte an, seit wann (TTMMJJ) der Versicherte sich in Dauerbe-** **handlung befindet. Eine**Dauerbehandlung** liegt vor, wenn der Versicherte mindestens ein Jahr**  **lang vor Ausstellen dieser Bescheinigung jeweils wenigstens einmal im Quartal wegen derselben**  **Erkrankung in Ärztlicher Behandlung war.">**
 
-XML-Code 5: 5.5 name Das Element <name> enthält im V-Attribut den Namen des jeweiligen Feldes. Abbildung 6: Der XML-Code für ein <name> Element hat folgenden Aufbau: **XML-Code 7:** hinweistext
+**XML-Code 7:** hinweistext
+
+**IT in der Arztpraxis**  Ausfüllhilfen
+
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+XML-Code 5: 5.5 name Das Element <name> enthält im V-Attribut den Namen des jeweiligen Feldes. Abbildung 6: Der XML-Code für ein <name> Element hat folgenden Aufbau: Seite 13 14von
 
 
 ---
@@ -428,4 +502,8 @@ XML-Code 5: 5.5 name Das Element <name> enthält im V-Attribut den Namen des jew
 |---|---|
 | KBV_ITA_VGEX_eHD | ehd – |
 
-eHealthData, Richtlinie
+**IT in der Arztpraxis**  Ausfüllhilfen
+
+KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+eHealthData, Richtlinie Seite 14 14von

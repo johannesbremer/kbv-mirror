@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_ RHEUMATOIDE ARTHRITIS]
 
+Seite 1 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -44,6 +46,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 6.1.8
 
+Seite 2 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 caption
 
 content  Sciphox-SSU observation  Parameter  Ergebnistext
@@ -62,8 +66,9 @@ Blutdruck systolisch  Blutdruck diastolisch  Begleiterkrankungen  Aktuelle Krank
 
 25  26  26
 
-Kardinalität Sonstige Symbole 27  27
+27  27
 
+Kardinalität Sonstige Symbole
 
 ---
 
@@ -74,6 +79,8 @@ Kardinalität Sonstige Symbole 27  27
 **8** **GLOSSAR**
 
 **9** **REFERENZIERTE DOKUMENTE**
+
+Seite 3 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 **29**  29  29  29  29  29  30  30  30  **31**  **32**
 
@@ -87,6 +94,8 @@ Kardinalität Sonstige Symbole 27  27
 
 **ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 12  **ABBILDUNG 2:** GRUNDSTRUKTUR BODY .......................................................................................................................... 13  **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 14  **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16
 
+Seite 4 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 |  |  |
 |---|---|
 
@@ -97,6 +106,8 @@ Kardinalität Sonstige Symbole 27  27
 
 **TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 18  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 20  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 22  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (ERKRANKUNGSDAUER DER RHEUMATOIDEN ARTHRITIS (ZUM ZEITPUNKT DER  AKTUELLEN DOKUMENTATION)) ............................................................................................................................. 22  **TABELLE 8:** WERTE BEI ERGEBNISTEXT (KLINISCHE EINSCHÄTZUNG DES OSTEOPOROSERISIKOS DURCHGEFÜHRT) ...... 23  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (AKTUELLE GLUKOKORTIKOIDTHERAPIE WEGEN RHEUMATOIDER ARTHRITIS) 24  **TABELLE 10:** WERTE BEI ERGEBNISTEXT (AKTUELLE DMARD-THERAPIE) ......................................................................... 24  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGE KÖRPERLICHE AKTIVITÄT) ........................................................ 25  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER RHEUMA-SCHULUNG  TEILGENOMMEN) ..................................................................................................................................................... 26  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (RHEUMA-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)) ...... 26  **TABELLE 14:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ...................................................................................................................................................... 27  **TABELLE 15:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 28  **TABELLE 16:** WERTE BEI ERGEBNISTEXT (RHEUMA- SCHULUNG WAHRGENOMMEN) .................................................... 30
 
+Seite 5 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 |  |  |
 |---|---|
 
@@ -106,6 +117,8 @@ Kardinalität Sonstige Symbole 27  27
 ## XML-CODE-VERZEICHNIS
 
 **XML-CODE 1:** LEVELONE ................................................................................................................................................... 12  **XML-CODE 2:** BODY .......................................................................................................................................................... 13  **XML-CODE 3:** SECTION ..................................................................................................................................................... 15  **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16  **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16  **XML-CODE 6:** PARAMETER ............................................................................................................................................... 17  **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17  **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17  **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18  **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18  **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 19  **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20  **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 20  **XML-CODE 14:** RAUCHER .................................................................................................................................................. 20  **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 21  **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21  **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 21  **XML-CODE 18:** AKTUELLE KRANKHEITSAKTIVITÄT - DAS-28-WERT .................................................................................. 22  **XML-CODE 19:** ERKRANKUNGSDAUER DER RHEUMATOIDEN ARTHRITIS (ZUM ZEITPUNKT DER AKTUELLEN  DOKUMENTATION) .................................................................................................................................................. 22  **XML-CODE 20:** KLINISCHE EINSCHÄTZUNG DES OSTEOPOROSERISIKOS DURCHGEFÜHRT .............................................. 23  **XML-CODE 21:** CONTENT (MEDIKAMENTÖSE UND SONSTIGE MAßNAHMEN) ................................................................ 23  **XML-CODE 22:** AKTUELLE GLUKOKORTIKOIDTHERAPIE WEGEN RHEUMATOIDER ARTHRITIS ........................................ 24  **XML-CODE 23:** AKTUELLE DMARD-THERAPIE ................................................................................................................... 24  **XML-CODE 24:** REGELMÄßIGE KÖRPERLICHE AKTIVITÄT ................................................................................................. 25  **XML-CODE 25:** CONTENT (SCHULUNG) ............................................................................................................................ 25  **XML-CODE 26:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER RHEUMA-SCHULUNG TEILGENOMMEN ............ 26  **XML-CODE 27**: RHEUMA-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ............................................... 26  **XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 27  **XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 27  **XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................ 27  **XML-CODE 31:** CONTENT (SCHULUNG) ............................................................................................................................ 30  **XML-CODE 32:** RHEUMA- SCHULUNG WAHRGENOMMEN .............................................................................................. 30
+
+Seite 6 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 |  |  |
 |---|---|
@@ -118,6 +131,10 @@ Kardinalität Sonstige Symbole 27  27
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.00 | 12.08.2022 | KBV | neues Dokument |  |  |
+
+Seite 7 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis /
+
+Version: 1.00 / 12. August 2022
 
 |  |  |
 |---|---|
@@ -140,6 +157,8 @@ Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlini
 [Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.](ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/)
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 8 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 |  |  |
 |---|---|
@@ -176,6 +195,8 @@ Beispiele:
 - 123456789_123_20210301.EERA
 - 123456789_123_20210601.EVRA
 
+Seite 9 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 |  |  |
 |---|---|
 
@@ -211,6 +232,8 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
+Seite 10 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 |  |  |
@@ -232,6 +255,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
+
+Seite 11 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
@@ -262,6 +287,8 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
+Seite 12 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body>
 
 |  |  |
@@ -291,6 +318,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
 **XML-Code 2:** body
 
+Seite 13 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 [] durchzuführen.](ftp://ftp.kbv.de/ita-update/Medizinische-Dokumentationen/)
 
 Abbildung 2 dargestellt.
@@ -308,6 +337,8 @@ Das <section>-Element setzt sich aus fünf <paragraph>-Elementen zusammen. Ein <
 **Abbildung 3:** Grundstruktur section
 
 Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese und Befunddaten“,  Medikamentöse und sonstige Maßnahmen“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem  <paragraph>-Element untergebracht sind.
+
+Seite 14 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 |  |  |
 |---|---|
@@ -330,9 +361,11 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen  Wert “all”. Um zu kennzeichnen, dass SCIPHOX der feste Wert „sciphox“ vorgeschrieben.
 
-<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamentöse und sonstige Maßnahmen"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>-Elemente verwendet werden, ist für das *descriptor*-Attribut
+Seite 15 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
-|  |  |
+-Elemente verwendet werden, ist für das *descriptor*-Attribut
+
+<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamentöse und sonstige Maßnahmen"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>|  |  |
 |---|---|
 
 
@@ -360,7 +393,11 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
 **XML-Code 5:** Beobachtungen
 
-<local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>|  |  |
+Seite 16 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
+
+|  |  |
 |---|---|
 
 
@@ -401,7 +438,11 @@ Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausp
 
 Dieses Kapitel beschreibt den Abschnitt Administrative Daten
 
-<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+
+Seite 17 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
 |  |  |
 |---|---|
@@ -444,7 +485,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 4:** Werte bei Ergebnistext (Einschreibung wegen)
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="rheumatoide Arthritis"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="rheumatoide Arthritis"/>|  |  |
+Seite 18 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="rheumatoide Arthritis"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="rheumatoide Arthritis"/>
+
+|  |  |
 |---|---|
 
 
@@ -463,7 +508,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Krankheitsaktivität - DAS-28-Wert"/> <sciphox:Ergebniswert V="4.1" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation)"/> <sciphox:Ergebnistext V="Zwei Jahre oder mehr"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Klinische Einschätzung des Osteoporoserisikos durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
+Seite 19 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Krankheitsaktivität - DAS-28-Wert"/> <sciphox:Ergebniswert V="4.1" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation)"/> <sciphox:Ergebnistext V="Zwei Jahre oder mehr"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Klinische Einschätzung des Osteoporoserisikos durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
+
+|  |  |
 |---|---|
 
 
@@ -517,15 +566,17 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* 
 
 Als Beispiel sei hier folgender Code angegeben:
 
+Seite 20 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 *V* Attribut die „Körpergröße“ und im
 
 *V* Attribut das „Körpergewicht“ und
 
 *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>*V* Attribut den „systolischen Wert“
+*V* Attribut den „systolischen Wert“
 
-|  |  |
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
 |---|---|
 
 
@@ -571,7 +622,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Asthma bronchiale |
 \| COPD |
 
-<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>|  |  |
+Seite 21 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>
+
+|  |  |
 |---|---|
 
 
@@ -621,13 +676,15 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  Tabelle 8. 
 
 Als Beispiel sei hier folgender Code angegeben:
 
+Seite 22 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 *V*-Attribut die Feldbezeichnung gemäß
 
 *V* Attribut den Aktuelle  {Punktzahl}
 
-<sciphox:Parameter DN="Aktuelle Krankheitsaktivität - DAS-28-Wert"/> <sciphox:Ergebniswert V="4.1" U="{Punktzahl}" /> <sciphox:Parameter DN="Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation)"/> <sciphox:Ergebnistext V="Zwei Jahre oder mehr"/>###
+###
 
-|  |  |
+<sciphox:Parameter DN="Aktuelle Krankheitsaktivität - DAS-28-Wert"/> <sciphox:Ergebniswert V="4.1" U="{Punktzahl}" /> <sciphox:Parameter DN="Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation)"/> <sciphox:Ergebnistext V="Zwei Jahre oder mehr"/>|  |  |
 |---|---|
 
 
@@ -662,7 +719,11 @@ Der Coderahmen sieht wie folgt aus:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß  Tabelle 9. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben werden.
 
-<sciphox:Parameter DN="Klinische Einschätzung des Osteoporoserisikos durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Glukokortikoidtherapie wegen rheumatoider Arthritis"/> <sciphox:Ergebnistext V="Ja, länger als 6 Monate"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle DMARD-Therapie"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Aktivität"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 23 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<sciphox:Parameter DN="Klinische Einschätzung des Osteoporoserisikos durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Glukokortikoidtherapie wegen rheumatoider Arthritis"/> <sciphox:Ergebnistext V="Ja, länger als 6 Monate"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle DMARD-Therapie"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Aktivität"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 |  |  |
 |---|---|
@@ -709,11 +770,13 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  Tabelle 11.
 
 Als Beispiel sei hier folgender Code angegeben:
 
+Seite 24 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
 *V*-Attribut die Feldbezeichnung gemäß
 
-<sciphox:Parameter DN="Aktuelle Glukokortikoidtherapie wegen rheumatoider Arthritis"/> <sciphox:Ergebnistext V="Ja, länger als 6 Monate"/> <sciphox:Parameter DN="Aktuelle DMARD-Therapie"/> <sciphox:Ergebnistext V="Ja"/>*V*-Attribut die Feldbezeichnung gemäß
+*V*-Attribut die Feldbezeichnung gemäß
 
-|  |  |
+<sciphox:Parameter DN="Aktuelle Glukokortikoidtherapie wegen rheumatoider Arthritis"/> <sciphox:Ergebnistext V="Ja, länger als 6 Monate"/> <sciphox:Parameter DN="Aktuelle DMARD-Therapie"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
 |---|---|
 
 
@@ -749,7 +812,11 @@ Der Coderahmen sieht wie folgt aus:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 12. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben  werden.
 
-<sciphox:Parameter DN="Regelmäßige körperliche Aktivität"/> <sciphox:Ergebnistext V="Ja"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 25 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<sciphox:Parameter DN="Regelmäßige körperliche Aktivität"/> <sciphox:Ergebnistext V="Ja"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 |  |  |
 |---|---|
@@ -794,6 +861,8 @@ Dieses Kapitel beschreibt den Abschnitt Behandlungsplanung
 Im Element <content> wird die Sciphox-SSU  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal ein bis maximal zwei Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+
+Seite 26 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
@@ -842,9 +911,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 30:** Dokumentationsintervall
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> *V*-Attribut die Feldbezeichnung
+Seite 27 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
-|  |  |
+*V*-Attribut die Feldbezeichnung
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training “/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> |  |  |
 |---|---|
 
 
@@ -856,6 +927,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Jedes zweite Quartal |
 
 **Tabelle 15:** Werte bei Ergebnistext (Dokumentationsintervall)
+
+Seite 28 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 |  |  |
 |---|---|
@@ -890,6 +963,8 @@ Dieses Kapitel beschreibt den Abschnitt Schulung
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
 Der Coderahmen sieht wie folgt aus:
+
+Seite 29 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
 |  |  |
 |---|---|
@@ -928,7 +1003,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 7.1.5 Abschnitt „Behandlungsplanung“
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Rheuma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Rheuma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Rheuma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="War aktuell nicht möglich"/>Der Abschnitt „Administrative Daten“ hat die gleiche Struktur wie in der „erstmaligen  Dokumentation“, siehe Kapitel 6.1.8
+Der Abschnitt „Administrative Daten“ hat die gleiche Struktur wie in der „erstmaligen  Dokumentation“, siehe Kapitel 6.1.8
+
+Seite 30 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Rheuma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Rheuma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Rheuma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="War aktuell nicht möglich"/>
 
 |  |  |
 |---|---|
@@ -959,9 +1038,9 @@ Als Beispiel sei hier folgender Code angegeben:
 | V | V-Attribut (value) |
 | XML | Extensible Markup Language |
 
-Information Systems in Physician Offices and Hospitals using XML
+Seite 31 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
 
-|  |  |
+Information Systems in Physician Offices and Hospitals using XML |  |  |
 |---|---|
 
 
@@ -984,7 +1063,11 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes thritis Dokumentationsdaten des strukturierten Behandlungsprogramms Rheumatoide Arthritis Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 32 von 32 / KBV / Schnittstellenbeschreibung Rheumatoide Arthritis / Version: 1.00 / 12. August 2022
+
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes thritis Dokumentationsdaten des strukturierten Behandlungsprogramms Rheumatoide Arthritis Volldatensatz / a-Datensatz Schnittstellenbeschreibung
 
 |  |  |
 |---|---|

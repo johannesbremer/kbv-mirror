@@ -100,6 +100,8 @@ Windows
 
 iOS/Android
 
+Seite 3 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
+
 Mac OS
 
 Linux
@@ -128,6 +130,8 @@ ALLE
 Laut nachfolgender Liste
 
 **IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION DMP BRUSTKREBS LT.**  **ANFORDERUNGSKATALOG**
+
+Seite 4 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
 
 
 ---
@@ -163,6 +167,8 @@ Ansprechpartner(in): Produktmanagement
 ________________
 
 Diese Information ist verpflichtend anzugeben
+
+Seite 5 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
 
 
 ---
@@ -208,6 +214,8 @@ Ergebnisprüfung 275,24  Rezertifizierung
 (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 
 (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung – Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
+
+Seite 6 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
 
 
 ---

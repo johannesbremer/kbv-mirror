@@ -31,6 +31,8 @@ Dr. Florian Fuhrmann
 
 Q & A
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 2
+
 
 ---
 
@@ -100,6 +102,8 @@ Verbindliche Festlegungen
 
 **5**
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
+
 #### [Operationalisierung +](https://www.ina.gematik.de/kig/unsere-basis) [Prozessoptimierung in](https://www.ina.gematik.de/kig/unsere-basis) [Geschäfts](https://www.ina.gematik.de/kig/unsere-basis) [und](https://www.ina.gematik.de/kig/unsere-basis) [Verfahrensordnung auf](https://www.ina.gematik.de/kig/unsere-basis)
 
 ### [Anlagen](https://www.ina.gematik.de/kig/unsere-basis)
@@ -118,7 +122,7 @@ Antrag, Zertifikat, Anzeigepflichten,  Beschwerdemöglichkeiten
 
 Unterstützung Bundesregierung,  Kompetenzbildung Reporting
 
-der IOP Governance Verordnung
+der IOP Governance Verordnung 5
 
 
 ---
@@ -169,12 +173,14 @@ I
 
 **pflegt Pool**
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 6
+
 
 ---
 
 ## Fehlende Verbindlichkeit
 
-## Konformitätsbewertungsverfahren
+## Konformitätsbewertungsverfahren 7
 
 
 ---
@@ -223,7 +229,7 @@ Innovationskraft
 
 ### aktueller IOP
 
-### Standards
+### Standards 8
 
 
 ---
@@ -231,6 +237,8 @@ Innovationskraft
 **63 Praxisverwaltungssysteme**
 
 bestehen die KOB 96%  Marktabdeckung
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 9
 
 
 ---
@@ -263,6 +271,8 @@ bestehen die KOB 96%  Marktabdeckung
 
 2
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 10
+
 
 ---
 
@@ -274,7 +284,7 @@ bestehen die KOB 96%  Marktabdeckung
 
 ## KOB & Praxisverfügbarkeit
 
-## Use Case Fit
+## Use Case Fit 11
 
 
 ---
@@ -318,6 +328,8 @@ ePA 3.1.3 **ersetzt**
 
 **Titus**
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
+
 
 ---
 
@@ -338,6 +350,8 @@ ePA 3.1.3 **ersetzt**
 - interaktive Lernplattform für  Interoperabilität im  Gesundheitswesen
 - Entscheidungshilfe, umfassende  Lernressourcen, Experten  gesteuerte Inhalte, kollaborative  Lernumgebung
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 13
+
 
 ---
 
@@ -347,7 +361,7 @@ credits:istock.com CoreDesignKEY
 
 ## Roadmap
 
-### Hier geht es zur Umfrage an den Expertenkreis
+Hier geht es zur Umfrage an den Expertenkreis 14
 
 ---
 
@@ -362,12 +376,14 @@ credits:istock.com CoreDesignKEY
 
 # Unser gemeinsames Ziel ist  eine bessere Versorgung in  Deutschland.
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 16
+
 
 ---
 
 ## Top
 
-## Mittelfeld
+## Mittelfeld 17
 
 
 ---
@@ -377,33 +393,33 @@ credits:istock.com CoreDesignKEY
 |  | **dem** |  | **Land** |
 |  |  | **Bürokratie** | |
 
-## Demographie Komplexität Personalmangel
-Versorgung auf dem Land## Kostendruck
+## Demographie Komplexität Personalmangel Kostendruck
+Versorgung auf dem Land18
 
 
 ---
 
 ## Digitalisierung
 
-## Regulatorik
+## Regulatorik 19
 
 
 ---
 
-## organisationszentriert patientenzentriert
+## organisationszentriert patientenzentriert 20
 
 ---
 
 ## Analoge Prozesse
 
-## Digitale Journeys
+## Digitale Journeys 21
 
 
 ---
 
 ## Technologieperspektive
 
-## Versorgungszentrierung
+## Versorgungszentrierung 22
 
 
 ---
@@ -424,10 +440,14 @@ Versorgung auf dem Land## Kostendruck
 
 #### Patient:innen
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 23
+
 
 ---
 
 # Was haben wir  bereits erreicht?
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 24
 
 
 ---
@@ -448,16 +468,22 @@ Versorgung auf dem Land## Kostendruck
 
 **2025**
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
+
 **TI Messenger**
 
 **Elektronische**  **Patientenakte**  **ePA**
 
 **Elektronische**  **Medikationsliste**  **eML**
 
+25
+
 
 ---
 
 # Die Anwendungen der Telematikinfrastruktur Digitale Lösungen der gematik
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 26
 
 
 ---
@@ -475,6 +501,8 @@ Versorgung auf dem Land## Kostendruck
 ## eAU) an
 
 ## Krankenkassen
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 27
 
 
 ---
@@ -496,6 +524,8 @@ Versorgung auf dem Land## Kostendruck
 ## Elektronische  Patientenakten
 
 ## angelegt
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 28
 
 
 ---
@@ -520,10 +550,14 @@ Versorgung auf dem Land## Kostendruck
 
 **E Rezepte**
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 29
+
 
 ---
 
 # Nutzungsverpflichtung  der ePA zum 1.10.
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 30
 
 
 ---
@@ -545,6 +579,8 @@ Seit 29.04.25
 ### ePA Einführung in  Modellregionen
 
 #### heute
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 31
 
 
 ---
@@ -571,6 +607,8 @@ Seit 29.04.25
 
 ## Telematik IDs Zugriff =  Nutzung der ePA
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 32
+
 
 ---
 
@@ -590,13 +628,15 @@ Seit 29.04.25
 
 ### Produkte zu gewährleisten.
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
+
 ## und Betriebsverantwortung.
 
 ### Die gematik nimmt zur Wahrnehmung
 
 der Betriebsverantwortung vor allem eine
 
-### Governance Rolle ein
+### Governance Rolle ein 33
 
 
 ---
@@ -625,6 +665,8 @@ Veränderung
 
 seit Jan 2022
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
+
 ### Steigende Abhängigkeiten stellen hohe Anforderungen
 
 ### TI Teilnehmer1 127
@@ -634,6 +676,8 @@ seit Jan 2022
 ### Produktinstanzen (PU) 224
 
 +100%
+
+34
 
 
 ---
@@ -645,6 +689,8 @@ seit Jan 2022
 ## Notfallreform
 
 ## Primärarztversorgung
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 35
 
 
 ---
@@ -663,16 +709,19 @@ seit Jan 2022
 
 ## Vorhaben
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 36
+
 
 ---
 
 # Alle Infos an einem Ort, wenn Sie benötigt werden
 
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 37
+
 
 ---
 
-> [OCR REQUIRED — page 38]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+38
 
 
 ---
@@ -684,3 +733,5 @@ seit Jan 2022
 Geschäftsführer
 
 Friedrichstraße 136 10117 Berlin
+
+gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 39

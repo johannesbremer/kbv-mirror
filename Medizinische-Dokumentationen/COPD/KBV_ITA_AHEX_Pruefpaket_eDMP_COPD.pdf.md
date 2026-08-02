@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_COPD]
 
+Seite 1 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
+
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
@@ -134,6 +136,8 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 **34**
 
+Seite 2 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
+
 ---
 
 # ABBILDUNGSVERZEICHNIS
@@ -147,6 +151,8 @@ Abbildung 3: Testdatenvalidierung 27
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV8518 27
 
 Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV8518 28
+
+Seite 3 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 ---
 
@@ -172,7 +178,12 @@ Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Pr�
 | DOKUMENTENHISTORIE | | | | | |
 |  | **Datum** |  |  | **Autor** |  |
 
-für die Testdatenvalidierung zur 4.07 Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der 4.07 ist ab 01.10.2026 zu verwenden 4.07 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 01.10.2026 4.06 ist ab 01.04.2024 zu verwenden. wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.2023 zu verwenden. Änderungen im
+Seite 4 von 35 / KBV / Pruefpaket eDMP-COPD
+
+/ Version: 1.28 / 1. Juli 2026
+
+für die Testdatenvalidierung zur 4.07 Schnittstellenversionen 4.07 an die 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der 4.07 ist ab 01.10.2026 zu verwenden 4.07 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 01.10.2026 4.06 ist ab 01.04.2024 zu verwenden. wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.2023 zu verwenden. Änderungen im 
+
 
 ---
 
@@ -198,7 +209,12 @@ für die Testdatenvalidierung zur 4.07 Schnittstellenversionen 4.07 an die 4.06 
 | übergreifenden | | | | | |
 |  |  | 12.08.2021 | KBV | Überarbeitung des | Überführung ins neue |
 
-Teilnahmeerklärung Layouts Schnittstellenversionen 4.04 „Datum der Erstellung“ Schnittstellenversionen 4.03 Schnittstellenversionen 4.01 und 4.02 auf Zertifizierung  Nummerierung in Prüffall 8515 Schnittstellenversionen 4.00 und 4.01 für die Testdatenvalidierung zur 4.02  an neue Schnittstelle Prüffälle aus der Testdatenvalidierung Corporate Design wegen der 4.04 ist ab 01.04.2021 zu verwenden 4.03 ist ab 01.04.2019 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden Zertifizierungsportales 4.01 ist ab 01.04.2018 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden 4.00 ist ab 01.01.2018 zu verwenden Prüffälle bzgl. des
+Seite 5 von 35 / KBV / Pruefpaket eDMP-COPD
+
+/ Version: 1.28 / 1. Juli 2026
+
+Teilnahmeerklärung Layouts Schnittstellenversionen 4.04 „Datum der Erstellung“ Schnittstellenversionen 4.03 Schnittstellenversionen 4.01 und 4.02 auf Zertifizierung  Nummerierung in Prüffall 8515 Schnittstellenversionen 4.00 und 4.01 für die Testdatenvalidierung zur 4.02  an neue Schnittstelle Prüffälle aus der Testdatenvalidierung Corporate Design wegen der 4.04 ist ab 01.04.2021 zu verwenden 4.03 ist ab 01.04.2019 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden Zertifizierungsportales 4.01 ist ab 01.04.2018 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden 4.00 ist ab 01.01.2018 zu verwenden Prüffälle bzgl. des 
+
 
 ---
 
@@ -223,6 +239,8 @@ Teilnahmeerklärung Layouts Schnittstellenversionen 4.04 „Datum der Erstellung
 |  |  |  |  |  |  |
 | Schnittstellenwechsels | | | | | |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
+
+Seite 6 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 in Kapitel 2 des Prüfpaketes Zertifizierungsrichtlinie 
 
@@ -261,6 +279,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 **HINWEIS**
 
+Seite 7 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 ---
 
@@ -296,6 +315,7 @@ Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM
 
 - **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
 
+Seite 8 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 ---
 
@@ -336,12 +356,13 @@ Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
-**1 Nummer des Prüffalls**
+________________  **1 Nummer des Prüffalls**
 
 **2 Laufende Nummer**
 
 **3 Gängiges Bild- bzw. Videoformat**
 
+Seite 9 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 ---
 
@@ -381,6 +402,7 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des
 
+Seite 10 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 ---
 
@@ -420,6 +442,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **6520** | Johannes Frônkenstein | Ersatzverfahren (s. Anhang 4.1) |
 | **8515** | Martin Gruber | Ersatzverfahren (s. Anhang 4.2) |
 | **TDV8518** | Cody Pulmonal | Ersatzverfahren (s. Anhang 4.3) |
+
+Seite 11 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 
 ---
@@ -465,8 +489,11 @@ Die Versichertendaten von Viktor Müller (XML_09)
 |  |  |  |
 |  |  |  |
 
-Hinweis Informationsangebote der Krankenkasse Erstdokumentation Chronische Herzinsuffizienz Ernährungsberatung, Körperliches Training Verlaufsdokumentation Chronische Herzinsuffizienz einlesen und speichern.
+Seite 12 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+einlesen und speichern.
+
+Hinweis Informationsangebote der Krankenkasse Erstdokumentation Chronische Herzinsuffizienz Ernährungsberatung, Körperliches Training Verlaufsdokumentation Chronische Herzinsuffizienz
 
 ---
 
@@ -490,9 +517,9 @@ Hinweis Informationsangebote der Krankenkasse Erstdokumentation Chronische Herzi
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.04.2024 | 06.07.2024 |
 
-Anamnese- und Befunddaten Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  Nicht durchgeführt Klinische Einschätzung des Osteoporoserisikos Relevante Ereignisse Häufigkeit von Exazerbationen seit der letzten Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  Medikamente Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika  Lang wirksame Beta-2-Sympathomimetika  Lang wirksame Anticholinergika  Inhalationstechnik überprüft  Sonstige diagnosespezifische Medikation  Kontraindikation Dauermedikation Keine, Kontraindikation Andere COPD-Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen  Empfohlene Schulung wahrgenommen  Behandlungsplanung Empfehlung zum Tabakverzicht ausgesprochen Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen An einem Tabakentwöhnungsprogram seit der letzten Empfehlung teilgenommen Empfehlung zum körperlichen Training ausgesprochen 095,5 Prozent des Soll- Wertes  1 Keine Kontraindikation Keine Inhalative Glukokortikosteroide
+Seite 13 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
-| INDIKATIONSPEZIFISCHE DATEN | | |
+Anamnese- und Befunddaten Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  Nicht durchgeführt Klinische Einschätzung des Osteoporoserisikos Relevante Ereignisse Häufigkeit von Exazerbationen seit der letzten Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  Medikamente Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika  Lang wirksame Beta-2-Sympathomimetika  Lang wirksame Anticholinergika  Inhalationstechnik überprüft  Sonstige diagnosespezifische Medikation  Kontraindikation Dauermedikation Keine, Kontraindikation Andere COPD-Schulung empfohlen (bei aktueller Dokumentation)  Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen  Empfohlene Schulung wahrgenommen  Behandlungsplanung Empfehlung zum Tabakverzicht ausgesprochen Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen An einem Tabakentwöhnungsprogram seit der letzten Empfehlung teilgenommen Empfehlung zum körperlichen Training ausgesprochen 095,5 Prozent des Soll- Wertes  1 Keine Kontraindikation Keine Inhalative Glukokortikosteroide | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Aktueller FEV1-Wert (alle sechs bis zwölf | Nicht durchgeführt | 095,5 Prozent des Soll- |
@@ -557,8 +584,11 @@ Die Versichertendaten von Monika Kleinjung (XML_08)
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.04.2024 | 06.07.2024 |
 
-der Krankenkasse Erkrankungen einlesen und speichern.
+Seite 14 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+einlesen und speichern.
+
+der Krankenkasse Erkrankungen
 
 ---
 
@@ -586,8 +616,9 @@ der Krankenkasse Erkrankungen einlesen und speichern.
 | An einem Tabakentwöhnungsprogram seit der |  |  |
 | Empfehlung zum körperlichen Training | Nein | Nein |
 
-durchgeführt Dokumentation  stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  und/oder Anticholinergika  Dokumentation)  bereits wahrgenommen  Tabakentwöhnungsprogramm ausgesprochen letzten Empfehlung teilgenommen Monate)  Wertes Dauermedikation Inhalative Glukokortikosteroide, Systemische Glukokortikosteroide, Wertes 
+Seite 15 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+durchgeführt Dokumentation  stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  und/oder Anticholinergika  Dokumentation)  bereits wahrgenommen  Tabakentwöhnungsprogramm ausgesprochen letzten Empfehlung teilgenommen Monate)  Wertes Dauermedikation Inhalative Glukokortikosteroide, Systemische Glukokortikosteroide, Wertes
 
 ---
 
@@ -622,6 +653,8 @@ durchgeführt Dokumentation  stationär) ärztliche Behandlung wegen COPD seit d
 |  |  |  |
 |  |  |  |
 
+Seite 16 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
+
 Einschreibung COPD-Dokumentationsunterlagen zusätzlich DM1- und/oder KHK-Dokumentationsunterlagen müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die COPD-Daten zu übermitteln. Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Versichertendaten von Johannes Frônkenstein 2. Anlegen einer Erst- und einer Verlaufsdokumentation Anhang 4.1 ) sind im Ersatzverfahren zu erfassen. mellitus Typ 1 mellitus Typ 1
 
 ---
@@ -646,6 +679,8 @@ Einschreibung COPD-Dokumentationsunterlagen zusätzlich DM1- und/oder KHK-Dokume
 | Vom Patienten gewünschte Informationsangebote | Tabakverzicht |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.04.2024 | 06.07.2024 |
+
+Seite 17 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 | INDIKATIONSPEZIFISCHE DATEN | | | |
 |---|---|---|---|
@@ -797,6 +832,8 @@ der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten COPD Aktu
 | 3 | | | |
 |  |  | 2 |  |
 
+Seite 18 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
+
 letzten Dokumentation (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation KHK seit der letzten Dokumentation Monate und/oder Anticholinergika instabile Angina pectoris Glukokortikosteroide
 
 ---
@@ -873,6 +910,8 @@ letzten Dokumentation (ambulant und stationär) ärztliche Behandlung wegen COPD
 |  | Nein | Ja |  |
 |  | | | |
 |  | COPD |  | Empfohlene Schulung wahrgenommen |
+
+Seite 19 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 Dokumentation) in DMP bereits wahrgenommen Dokumentation) bereits wahrgenommen Dokumentation) DMP wahrgenommen ausgesprochen Tabakentwöhnungsprogramm ausgesprochen der letzten Empfehlung teilgenommen ausgesprochen Dokumentation keine Dokumentation keine Dokumentation keine
 
@@ -951,8 +990,9 @@ Dokumentation) in DMP bereits wahrgenommen Dokumentation) bereits wahrgenommen D
 |  | | | |
 | KHK | Regelmäßiges sportliches Training | Nein | Ja |
 
-Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung 
+Seite 20 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung
 
 ---
 
@@ -997,6 +1037,8 @@ Die Personalien zu dem Testfall sind frei wählbar.
 |  | | |
 |  |  |  |
 
+Seite 21 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
+
 Fehlermeldungen. Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Krankenkasse
 
 ---
@@ -1021,6 +1063,8 @@ Fehlermeldungen. Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachli
 |  |  |  |
 | **INDIKATIONSÜBERGREIFENDE DATEN** | | |
 | Datum der Erstellung | 06.04.2024 |  |
+
+Seite 22 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle sechs bis zwölf Klinische Einschätzung des Osteoporoserisikos durchgeführt Relevante Ereignisse Häufigkeit von Exazerbationen seit der letzten Dokumentation Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation  Medikamente Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Lang wirksame Anticholinergika Inhalationstechnik überprüft Sonstige diagnosespezifische Medikation Schulung COPD-Schulung empfohlen (bei aktueller Dokumentation) Schulung schon vor der Einschreibung in ein DMP bereits wahrgenommen  Empfohlene Schulung wahrgenommen COPD-bezogene Über- bzw. Einweisung veranlasst Empfehlung zum Tabakverzicht ausgesprochen Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen An einem Tabakentwöhnungsprogram seit der letzten Empfehlung teilgenommen Empfehlung zum körperlichen Training ausgesprochen Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. Monate)  Erstdokumentation 300,0 Prozent des Soll Wertes Bei Bedarf Kontraindikation Bei Bedarf Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 11 | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -1076,8 +1120,9 @@ INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle 
 | An einem Tabakentwöhnungsprogram seit der letzten Empfehlung |  |  |
 | Empfehlung zum körperlichen Training ausgesprochen | Nein |  |
 
-Behandlung wegen COPD seit der letzten Dokumentation  teilgenommen Dauermedikation 
+Seite 23 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+Behandlung wegen COPD seit der letzten Dokumentation  teilgenommen Dauermedikation
 
 ---
 
@@ -1117,8 +1162,11 @@ Behandlung wegen COPD seit der letzten Dokumentation  teilgenommen Dauermedikati
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.04.2024 |  |
 
-Für die Erzeugung der Fehlermeldung 20 muss die Software ebenfalls in der Lage Eingabefehler verhindert werden, um dann die Fehlermeldungen 20 zu erzeugen. Asthma bronchiale, Keine der genannten - ) sind im Ersatzverfahren zu erfassen.
+Seite 24 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+- ) sind im Ersatzverfahren zu erfassen.
+
+Für die Erzeugung der Fehlermeldung 20 muss die Software ebenfalls in der Lage Eingabefehler verhindert werden, um dann die Fehlermeldungen 20 zu erzeugen. Asthma bronchiale, Keine der genannten
 
 ---
 
@@ -1143,8 +1191,9 @@ Für die Erzeugung der Fehlermeldung 20 muss die Software ebenfalls in der Lage 
 \| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), |
 \|  |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Fehlermeldungen. Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 8511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren. entsprechenden Warnung gemäß Anforderung P1-12 (siehe dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Verlaufsdokumentation angelegt. 
+Seite 25 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Fehlermeldungen. Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 8511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren. entsprechenden Warnung gemäß Anforderung P1-12 (siehe dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Verlaufsdokumentation angelegt.
 
 ---
 
@@ -1173,6 +1222,8 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
+Seite 26 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
+
 Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
 
@@ -1197,6 +1248,8 @@ Dokumentation
 391234511_20250406101010_1_ COPD_406.idx.XKM
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV8518
+
+Seite 27 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 Dateiordner
 
@@ -1249,8 +1302,11 @@ Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Pr�
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - 1.
+- 2.
 
-gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher Test _105“ beginnen muss, sonst schlägt die Validierung fehl. Typ _105_SystemID.zip  ZIP-komprimierter Ordner Dateiordner          391234511_20250406101010_1_ COPD_407.idx     IDX-Datei 391234511_20250406101010_1_ COPD_407.idx.XKM    XKM-Datei Versichertendaten: Die Versichertendaten von Cody Pulmonal Anhang 4.3 ) sind im Ersatzverfahren zu erfassen. Anlegen einer Erst- und Verlaufsdokumentation: - 2.
+Seite 28 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
+
+gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher Test _105“ beginnen muss, sonst schlägt die Validierung fehl. Typ _105_SystemID.zip  ZIP-komprimierter Ordner Dateiordner          391234511_20250406101010_1_ COPD_407.idx     IDX-Datei 391234511_20250406101010_1_ COPD_407.idx.XKM    XKM-Datei Versichertendaten: Die Versichertendaten von Cody Pulmonal Anhang 4.3 ) sind im Ersatzverfahren zu erfassen. Anlegen einer Erst- und Verlaufsdokumentation: 
 
 
 ---
@@ -1275,6 +1331,8 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 | Vom Patienten gewünschte | Tabakverzicht, |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.10.2026 | 15.04.2027 |
+
+Seite 29 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
 Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle sechs bis zwölf Monate)  Klinische Einschätzung des Osteoporoserisikos Häufigkeit von Exazerbationen seit der letzten Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Dokumentation Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika  Lang wirksame Beta-2-Sympathomimetika  Lang wirksame Anticholinergika  Inhalationstechnik überprüft  Dokumentation)  bereits wahrgenommen  Chronische Herzinsuffizienz Ernährungsberatung, Körperliches Training Erstdokumentation Nicht durchgeführt Kontraindikation Dauermedikation Keine, Kontraindikation Chronische Herzinsuffizienz 095,5 Prozent des Soll- Wertes  Keine Kontraindikation Keine Glukokortikosteroide | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -1331,10 +1389,12 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und 
 
 ```
 -
+-
 ```
 
-Tabakentwöhnungsprogramm ausgesprochen letzten Empfehlung teilgenommen ausgesprochen -
+Seite 30 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+Tabakentwöhnungsprogramm ausgesprochen letzten Empfehlung teilgenommen ausgesprochen
 
 ---
 
@@ -1365,6 +1425,10 @@ Tabakentwöhnungsprogramm ausgesprochen letzten Empfehlung teilgenommen ausgespr
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 04 |
 
+Seite 31 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 /
+
+1. Juli 2026
+
 ---
 
 ## 4.2 PRÜFFALL 8515 – ERSATZVERFAHREN
@@ -1391,6 +1455,10 @@ Tabakentwöhnungsprogramm ausgesprochen letzten Empfehlung teilgenommen ausgespr
 | **4111** | **Kostentraegerkennung** | 104826164 |
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
+
+Seite 32 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 /
+
+1. Juli 2026
 
 und Georg-von-Groscurth-Plaetzchen  
 
@@ -1422,8 +1490,9 @@ und Georg-von-Groscurth-Plaetzchen
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 12 |
 
-und Georg-von-Groscurth-Plaetzchen 
+Seite 33 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026
 
+und Georg-von-Groscurth-Plaetzchen
 
 ---
 
@@ -1450,7 +1519,12 @@ und Georg-von-Groscurth-Plaetzchen
 | VSD_5.2.0_Testfaelle_Vn.n.zip (eGK Daten im XML | eGK Daten |
 | XPM-Paket_COPD | Prüfmodul COPD |
 
-Testschlüssel Format) XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei)
+Seite 34 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 /
+
+1. Juli 2026
+
+Testschlüssel Format) XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) 
+
 
 ---
 
@@ -1461,3 +1535,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 35 von 35 / KBV / Pruefpaket eDMP-COPD / Version: 1.28 / 1. Juli 2026

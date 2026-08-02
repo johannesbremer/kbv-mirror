@@ -44,6 +44,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 7
 
+Seite 2 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
+
 PRÜFVORGABEN Prüfunterlagen 
 
 
@@ -60,6 +62,10 @@ DOKUMENTENHISTORIE
 | 1.1 | 03.02.2026 | KBV | Ergänzung Prüffall zu | Erweiterung der | 9ff |
 | 1.0 | 01.10.2024 | KBV | Initiale Erstellung |  | Alle |
 
+Seite 3 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V
+
+/ Version: 1.5 / 13. Mai 2026
+
 .04.2026 Einreichungswegs im Prüffall 02 und 03 zu weiteren einzureichenden Nachweisen Einreichungswegs im Prüffall 2  Prüffälle  Prüffällen 02 und 03 Behandlungsterminen Nachweises des Audits der kv.digital Schnittstelle um die Vermittlung von Behandlungsterminen ab Mai 2025 
 
 
@@ -72,6 +78,8 @@ Im Folgenden wird die Prüfung der Schnittstelle gemäß § 370A, Abs. 2 Fünfte
 V) beschrieben. Der Zertifizierungsprozess wird nach der Version 1.0 des Anforderungskataloges dargestellt.
 
 Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine  Überprüfung, ob die Anforderungen vom jeweiligen Nutzer der Schnittstelle korrekt umgesetzt wurden.
+
+Seite 4 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
 
 ---
 
@@ -112,6 +120,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 [Die Zugangsdaten können direkt über das Portal oder per E-Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
+Seite 5 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
 
 ---
 
@@ -120,6 +129,8 @@ Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln.
 
 Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues ZIP-Archiv,  und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
+
+Seite 6 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
 
 ---
 
@@ -149,3 +160,5 @@ Alle weiteren Informationen zum Audit „116117 Terminservice Schnittstelle gem�
 - 4. Nachweis von Penetrationstests gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V  (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P5-02)
 - 5. Eigenerklärung zur Barrierefreiheit gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB  V (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P4-01). Dabei sind  nicht barrierefrei gestaltete Teile der Anwendung zu benennen und zu begründen sowie auf  barrierefreie inhaltliche Alternativen zu verweisen.
 - 6. Eigenerklärung zur Erfüllung der Anforderungen an das elektronische System der Ersteinschätzung  gemäß Anlage 1 der Anlage 31c BMV-Ä. Nutzer der Schnittstelle, die in ihrer Software Funktionen  zur Suche, Anzeige, Buchung und ggf. Absage von Terminen für telemedizinische Leistungen  anbieten, müssen die Erfüllung der Anforderung an das elektronische System der Ersteinschätzung  nachweisen.
+
+Seite 7 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026

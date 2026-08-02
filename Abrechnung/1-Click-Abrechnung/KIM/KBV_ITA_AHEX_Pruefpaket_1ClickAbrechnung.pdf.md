@@ -81,9 +81,11 @@ Versand 1ClickAbrechnung-Lieferung  11
 
 3.10.1 Einzureichende Prüfunterlagen 16
 
-3.11 PF-11 Anforderungen [1Click0130]  Versand 1ClickAbrechnung inkl. Sammelerklärung als  Echtpaket
+3.11 PF-11 Anforderungen [1Click0130]  Versand 1ClickAbrechnung inkl. Sammelerklärung als  Echtpaket 16
 
-PRÜFVORGABEN Prüfstammdatei Abrechnungsdatei und Sammelerklärung Testverschlüsselung Prüfunterlagen 16
+Seite 2 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+
+PRÜFVORGABEN Prüfstammdatei Abrechnungsdatei und Sammelerklärung Testverschlüsselung Prüfunterlagen 
 
 
 ---
@@ -126,6 +128,8 @@ PRÜFVORGABEN Prüfstammdatei Abrechnungsdatei und Sammelerklärung Testverschl�
 
 4.4.2 Prüfungen der Fachlichen Rückmeldung 25
 
+Seite 3 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+
 ---
 
 DOKUMENTENHISTORIE
@@ -142,7 +146,12 @@ DOKUMENTENHISTORIE
 | Anpassungen beim | Bessere | 11 |  |  | 2.3 |
 |  |  | 24.06.2026 | KBV  Überarbeitung des | Überarbeitung und | Alle  2.4 |
 
-.07.2023 verbesserte Prüfpakets Prüfungen des Test- Zertifizierungsbackend PF04 Verständlichkeit und Vermeidung von Missverständnissen 4.4.1 Prüfergebnisse im 1Click0136/d Prüfprotokoll Prüffalls (PF-11) die Referenzumgebung (RU) der Telematikinfrastruktur PF06 Verständlichkeit und Vermeidung von Missverständnissen Änderung (Anpassung des Textes für den menschenlesbaren Body, Einfügen eines Hinweises) des Prüfpaketes KIM statt KV-Connect Layouts Änderung und Korrektur der Links
+Seite 4 von 26 / KBV / Prüfpaket 1ClickAbrechnung
+
+/ Version: 2.5 / 24. Juni 2026
+
+.07.2023 verbesserte Prüfpakets Prüfungen des Test- Zertifizierungsbackend PF04 Verständlichkeit und Vermeidung von Missverständnissen 4.4.1 Prüfergebnisse im 1Click0136/d Prüfprotokoll Prüffalls (PF-11) die Referenzumgebung (RU) der Telematikinfrastruktur PF06 Verständlichkeit und Vermeidung von Missverständnissen Änderung (Anpassung des Textes für den menschenlesbaren Body, Einfügen eines Hinweises) des Prüfpaketes KIM statt KV-Connect Layouts Änderung und Korrektur der Links 
+
 
 ---
 
@@ -158,7 +167,10 @@ DOKUMENTENHISTORIE
 | **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** | **SEITE** |
 | 1.13 | 15.05.2020 | KBV | Klarstellung zur  Klarstellung zum Audit |  | 12      13 |
 
-Bereitstellung der Prüfdaten „Anbindung an KV- Connect“
+Seite 5 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+
+Bereitstellung der Prüfdaten „Anbindung an KV- Connect“ 
+
 
 ---
 
@@ -173,6 +185,8 @@ Im Folgenden wird die Prüfung der KIM-Anwendung 1ClickAbrechnung  Zertifizierun
 beschrieben. Der
 
 In der Spezifikation der Anwendung 1ClickAbrechnung sind die Anforderungen an die Software-Systeme  festgelegt. Bei der Zertifizierung erfolgt eine Überprüfung, ob die Anforderungen aus der Spezifikation vom  jeweiligen Softwarehersteller korrekt umgesetzt wurden.
+
+Seite 6 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -215,6 +229,7 @@ Für jeden Prüffall wird die jeweils anzuwendende KV genannt, um eine erfolgrei
 
 Die eigentliche Erstellung der Abrechnungsdatei oder der Sammelerklärung sowie der Inhalt dieser sind nicht  Bestandteile des Nachweises für die 1ClickAbrechnung. Allerdings ist die fehlerfreie Erzeugung der Dateien
 
+Seite 7 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -251,6 +266,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 **Hinweis**: Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV  oder des Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
+Seite 8 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -267,6 +283,8 @@ Der Zertifizierungsprozess beginnt, sobald Sie das Zertifizierungsthema und den 
 Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln.
 
 Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues ZIP-Archiv,  und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
+
+Seite 9 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -308,6 +326,8 @@ Zusätzlich muss Folgendes erläutert werden:
 - Wie erkennt der Anwender, ob für die 1ClickAbrechnung-Lieferung Rückmeldungen (technisch und  fachlich) empfangen wurden?
 - Anhand welcher (Nachrichten-)Merkmale erfolgt die Zuordnung der Rückmeldungen zur versendeten  1ClickAbrechnung-Lieferung?
 - Wie können Anhänge geöffnet werden?
+
+Seite 10 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -355,6 +375,7 @@ empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
 Die vom Software-System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**  **hinzuzufügen**. Es sind nur diejenigen Prüf-IDs bzw. Nachrichten zu verwenden, die der Prüfclient als fehlerfrei
 
+Seite 11 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -395,6 +416,7 @@ empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
 Die vom Software-System versendeten Nachrichten selbst sind nicht für die Zertifizierung einzureichen,  jedoch ist **die Prüf-ID der versendeten Nachricht aus dem empfangenen Prüfprotokoll den Prüfunterlagen**  **hinzuzufügen**. Es sind nur diejenigen Prüf-IDs bzw. Nachrichten zu verwenden, die der Prüfclient als fehlerfrei  beurteilt hat. Die Informationen zu Prüf-IDs und verwendetem KIM-Accounts sind in einem Dateiformat  einzureichen, das das Kopieren von Text ermöglicht.
 
+Seite 12 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -444,6 +466,7 @@ Der Screencast muss folgende Aktivitäten zeigen:
 
 **HINWEISE**
 
+Seite 13 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -491,6 +514,7 @@ Zur Prüfung dieser Anforderungen muss der Antragsteller einen Screencast sowie 
 
 Der Screencast dokumentiert, wie das Software-System reagiert, wenn innerhalb eines angemessenen  Zeitraums nach Versand der 1ClickAbrechnung-Lieferung noch keine technische Rückmeldung eingetroffen  ist bzw. wie das Software-System den Anwender über die ausbleibende 1ClickAbrechnung-Rückmeldung
 
+Seite 14 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -531,6 +555,7 @@ Zur Prüfung dieser Anforderung sendet der Antragsteller über sein Software-Sys
 
 und empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
+Seite 15 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -571,6 +596,7 @@ Zur Prüfung dieser Anforderungen sendet der Antragsteller über sein Software-S
 
 und empfängt mit seinem Software-System die entsprechenden Rückmeldungen.
 
+Seite 16 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -613,6 +639,7 @@ Der Screencast muss folgende Aktivitäten zeigen:
 
 Zur Prüfung dieser Anforderung versucht der Antragsteller,
 
+Seite 17 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -635,6 +662,8 @@ Zur Prüfung dieser Anforderungen beauftragt und führt der Hersteller die Best�
 ### 3.15.1 Einzureichende Prüfunterlagen
 
 Bitte fügen Sie das Bestätigungsschreiben der gematik – „Bestätigung der Konformität von Primärsystemen  zur Konnektorschnittstelle: Funktionsumfang KIM“ - als PDF-Datei Ihren Prüfunterlagen bei.
+
+Seite 18 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -659,6 +688,7 @@ Der Ablauf des Nachrichtenversands für die Zertifizierung erfolgt in mehreren S
 
 Die Adresse muss aus der SDKVCA bestimmt werden.
 
+Seite 19 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 ---
 
@@ -774,6 +804,8 @@ Lieferung" enthielt Fehler oder keine oder nicht fehlerfrei PRÜFUNGEN DER 1CLIC
 | Korrekter Aufbau wird im Rahmen der Zertifizierung |  | 1Click0002 |  |
 |  |  | 1Click0003 | Ja / Nein  AAA0060/a |
 
+Seite 21 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+
 Subject  mit dem vorgegebenen Wert befüllt? Message-ID  im Nachrichten-Header vorhanden und befüllt? Notification-To Cc angegeben? 1ClickAbrechnung-Lieferung MIME-Segment mit einer Begleitdatei im XML-Format? angelegt? entsprechend der Vorgaben befüllt? KVTA_Einlieferung-Abrechnung_2_0_0.xsd Disposition- genau geprüft. 1Click0131= Nein 1Click0142/b = Nein 1Click0131=Nein 1Click0142/a=Nein
 
 ---
@@ -828,6 +860,8 @@ Subject  mit dem vorgegebenen Wert befüllt? Message-ID  im Nachrichten-Header v
 | › | | | |
 |  |  |  | 1Click0134/a1 |
 | Ja / Nein |  |  | 1Click0134/a2  Ist maximal eine Abrechnungsdatei enthalten (da die Begleitdatei |
+
+Seite 22 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 einmal enthalten? der Begleitdatei keine zu erwarten ist)? fehlt oder ungültig ist)? sind angelegt? entsprechend der Vorgaben befüllt? Segment stimmt mit der Angabe des Dateinamens in der Begleitdatei überein? genau einmal enthalten? Angaben in der Begleitdatei keine zu erwarten ist)? 1Click0142/b=Nein BGD0101=Nein 1Click0134/a1 = Nein 1Click0134/a2 = Ja 1Click0134/a3 = Nein 1Click0131 = Nein 1Click0142/a = Nein 1Click0142/b = Nein
 
@@ -884,6 +918,8 @@ einmal enthalten? der Begleitdatei keine zu erwarten ist)? fehlt oder ungültig 
 | entfällt, wenn |  |  |  |
 |  | › |  | 1Click0142/f |
 
+Seite 23 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+
 Begleitdatei fehlt oder ungültig ist)? im XML-Format sind angelegt? XML-Format sind entsprechend der Vorgaben befüllt? Format eingehalten? Schemadatei " ese_root.xsd " sowie den mit dieser Datei verbundenen Dateien? Schnittstellenversion V=“1.21“ erstellt worden? genau einmal enthalten? 1Click0134/b1 = Nein 1Click0134/b2 = Ja 1Click0134/b3 = Nein 1Click0134/b3 = Ja 1Click0134/b1 = Nein 1Click0134/b2 = Ja 1Click0134/b3 = Nein 1Click0134/b3 = Ja 1Click0142/f = Nein 1Click0134/b1 = Nein 1Click0134/b2 = Ja 1Click0134/b3 = Nein 1Click0134/b3 = Ja 1Click0142/f = Nein
 
 ---
@@ -938,6 +974,8 @@ Begleitdatei fehlt oder ungültig ist)? im XML-Format sind angelegt? XML-Format 
 | wird nur ausgeführt, wenn 1Click0134/b0 = Nein | | | |
 | wird nur ausgeführt, wenn BGD0101 = Nein |  | 1Click0142/g |  |
 | entfällt, wenn: |  |  | › › › |
+
+Seite 24 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 Angaben in der Begleitdatei keine zu erwarten ist)? Begleitdatei fehlt oder ungültig ist)? im PDF-Format sind angelegt? PDF-Format sind entsprechend der Vorgaben befüllt? Format eingehalten (ausschließlich der Dateinamenserweiterung)? 1Click0134/c1 = Nein 1Click0134/c2 = Ja 1Click0134/c3 = Nein  1Click0134/c3 = Ja 1Click0134/c1 = Nein 1Click0134/c2 = Ja 1Click0134/c3 = Nein 1Click0134/c3 = Ja  1Click0142/h = Nein 1Click0134/c1 = Nein 1Click0134/c2 = Ja 1Click0134/c3 = Nein 1Click0134/c3 = Ja  1Click0142/h = Nein
 
@@ -994,6 +1032,8 @@ Angaben in der Begleitdatei keine zu erwarten ist)? Begleitdatei fehlt oder ung�
 | 1Click0141/b | Ist die Dateinamenserweiterung der Sammelerklärung im PDF- | Ja / Nein | entfällt, wenn 1Click0141/a = Nein |
 | 1Click0134/e | Stimmen die Dateinamen der Sammelerklärung alle überein (PDF | Ja / Nein | entfällt, wenn:  › › › |
 
+Seite 25 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+
 Tabelle 2: Prüfungen der 1ClickAbrechnung-Lieferung | Prüfprotokoll Prüfungen der Fachlichen Rückmeldung In der nachfolgenden Tabelle sind die Prüfungen aufgelistet, die das Backend durchführt und deren Ergebnisse in der Fachlichen Rückmeldung mitgeteilt werden. werden. Format " .sig.pdf und XML jeweils in der Begleitdatei und im entsprechenden MIME- Anhang)? Plausibilitätsprüfung (XPM) 1Click0137 = Nein 1Click0142/f=Nein 1Click0142/h=Nein  1Click0134/b0=Nein Test-Entschlüsselung Ergebnis wird als Anhang (protokoll.pdf) zurückgesendet entfällt, wenn keine Abrechnungsdatei enthalten ist aktuelles XPM | DATENPAKET | PRÜFUMFANG | HINWEIS |
 |---|---|---|
 | Abrechnungsdatei | Prüfung der Verschlüsselung (XKM) | › › › |
@@ -1014,5 +1054,7 @@ Tabelle 2: Prüfungen der 1ClickAbrechnung-Lieferung | Prüfprotokoll Prüfungen
 | Sammelerklärung (PDF) | Prüfung der Signatur, ob:    › › › › › › | › › |
 
 **Tabelle 3: Prüfungen der 1ClickAbrechnung-Lieferung | Fachliche Rückmeldung**
+
+Seite 26 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
 das PDF-Dokument genau einmal signiert ist, das Signaturformat den Vorgaben entspricht (PKCS#7 oder CAdES), der Hashwert des signierten PDF-Segmentes mit dem dazugehörigen Signaturblock übereinstimmt (Integritätsprüfung), der in der Signatur angegebene Signaturzeitpunkt innerhalb des Gültigkeitsintervalls des Zertifikats liegt, das PDF-Dokument mit einem eHBA signiert wurde, das PDF-Dokument qualifiziert elektronisch signiert wurde Ergebnis wird als Anhang (pruefprotokoll.pdf) zurückgesendet entfällt, wenn keine Abrechnungsdatei enthalten ist Ergebnis wird im menschenlesbaren Body zurückgesendet entfällt, wenn keine Sammelerklärung enthalten ist

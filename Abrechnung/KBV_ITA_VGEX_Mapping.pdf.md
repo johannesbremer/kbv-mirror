@@ -16,6 +16,8 @@
 
 ## [KBV_ITA_VGEX_MAPPING_KVK]
 
+Seite 1 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
 ---
 
 ## INHALT
@@ -69,6 +71,8 @@
 
 **32**
 
+Seite 2 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
 EINFÜHRUNG 
 
 
@@ -81,6 +85,8 @@ Abbildung 1: Transformation und Zielformat
 7  Abbildung 2: eGK-konforme Bedruckung des Personalienfelds
 
 26  Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds 27
+
+Seite 3 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 ---
 
@@ -118,6 +124,8 @@ VSD520 Tabelle 10: Transformation DMP-Kennzeichen
 
 30  Tabelle 16: Prüfungsnachweis zum VSD 31
 
+Seite 4 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
 ---
 
 ABKÜRZUNGSVERZEICHNIS
@@ -142,8 +150,9 @@ ABKÜRZUNGSVERZEICHNIS
 | VKNR | 5-stellige Kassennummer |
 | VKNR-KTAB-Kombination |  |
 
-Kombination von Abrechnungs-VKNR und Kostenträger
+Seite 5 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
+Kombination von Abrechnungs-VKNR und Kostenträger
 
 ---
 
@@ -161,6 +170,8 @@ Die Vorgaben der Version 1.19 treten zum 01.07.2026 zur Abrechnung des 3. Quarta
 | 1.14 | 30.03.2019 | KBV | › |  | 29 |
 | 1.13 | 12.06.2019 | KBV | ›    › | Änderungen im    Aufkündigung | 19,  24 |
 | 1.12 | 17.04.2018 | KBV | › **·** **·** **·**  › |  | 19,  22 |
+
+Seite 6 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 Aktualisierung des Layouts Aufnahme von Regelung zu VSDM 2.0 Mapping Erweiterung des DMP-Kennzeichens an das VSDM Erweiterung des Kennzeichens Rechtsgrundlage zur Bedruckung des Personalienfeldes Anpassung der Bezeichnung der Besonderen Personengruppe 06 Einführung neuer DMP-Kennzeichen für das VSD-Schema 5.2.0: 10: Rheuma 11: Osteoporose Aufnahme von Regelung zur Bedruckung des verkürzten Personalienfeldes Fehlerkorrektur Anpassung der Bedruckung der Stellen 29 und 30 des Personalienfeldes Einfügen des Wertes D für das PStG §22 Abs. 3 „diverse“ Geschlecht Streichung der VSD-Version 5.1.0 durch die gematik Einführung neuer DMP-Kennzeichen für das VSD-Schema 5.2.0: 7: Chronische Herzinsuffizienz 8: Depression  9: Rückenschmerz Diese neuen DMP-Kennzeichen werden nicht auf KVK´s und eGKs mit VSD-Schema 5.1.0 verwendet, die Aufnahme für ein Mapping entfällt somit. 
 
@@ -183,6 +194,7 @@ Abbildung 1: Transformation und Zielformat
 
 Die in diesem Dokument definierten Vorschriften beziehen sich auf die fachlichen Inhalte zur Verarbeitung  der Versichertenstammdaten zum Zwecke der vertragsärztlichen Abrechnung. Ergänzende technische und  organisatorische Vorgaben zur Nutzung der Versichertenkarte sowie zu den eingesetzten Verfahren und  Diensten der Telematikinfrastruktur sind den jeweils einschlägigen Spezifikationen der gematik zu  entnehmen.
 
+Seite 7 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 ---
 
@@ -193,6 +205,8 @@ Die im weiteren Verlauf dargestellten Transformationsvorschriften gelten verbind
 Aufgrund der Einschränkung der zulässigen Zeichen aus dem 7-bit-Code gemäß DIN 66003 auf der KVK  sowie der Übereinstimmung der Zeichensätze zwischen eGK und KVDT (jeweils ISO 8859-15) besteht  vollständige Kompatibilität zwischen den Zeichensätzen.
 
 Die über den VSDM 2.0 Fachdienst abgerufenen Versichertenstammdaten werden in UTF-8 bereitgestellt.  Vor der weiteren Verarbeitung und Übertragung dieser Daten in KVDT müssen die Daten von UTF-8 nach  ISO 8859-15 konvertiert werden. Um Datenverluste bei der Konvertierung zu vermeiden übermitteln die  Krankenkassen in der Phase des Parallelbetriebs von VSDM 1.0 und 2.0 ausschließlich Zeichen, welche im  ISO-8859-15 Zeichensatz vorhanden sind.
+
+Seite 8 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 ---
 
@@ -209,6 +223,8 @@ Im Folgenden werden die notwendigen Zuordnungen und ggf. erforderlichen Transfor
 ## 2.2 USE-CASES
 
 Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabellen dargestellt.
+
+Seite 9 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 ---
 
@@ -282,6 +298,8 @@ Im Folgenden werden für die jeweiligen USE-CASES die relevanten Mapping-Tabelle
 | YYYY | | | | | | | | | | | |
 | Codierung | Tabelle |  | 3103 | Geburtsdatum | 1..1  8 | n | YYYYMMDD | Patient.name:Name.given |  | 1..* | 1..45 |
 | string    → | 3102 | Vorname | 1..1 | ≤ 45 | a |  | Patient.name:Name.family.ext |  | 0..1 | 1..45 | string |
+
+Seite 10 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:vorsatzwort ension:namenszusatz ension:prefix-qualifier her-amtlich sse sse.postalCode sse.city sse.line.extension:Postfach sse.country Kvid10 YYYY-MM,  other hen nach „|“, Ende des Values) nach nach VSD520
 
@@ -358,7 +376,12 @@ VSDM 2.0 Fachdienstabruf in KVDT-Referenz-Design mappen ension:nachname ension:v
 | Straße | 0..1 | ≤ 46 | a |  | Patient.address:StrassenAdre | 0..1 | 0..9 | a |  | → | 3109 |
 | Hausnummer  0..1  ≤ 9 | a |  | Patient.address:StrassenAdre |  | 0..1 | 0..40 | a |  | → | 3115 | Anschriftenzusatz |
 
-sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.extension:Strasse sse.line.extension:Hausnumme sse.line.extension:Adresszus sse.country sse.country.extension:anlage 8.value[x].code Personengruppe.value[x].code sDMP.value[x] .value[x].start .value[x].end eistungsanspruch eistungsanspruch.extension:d auer 06, 07, 08, 09, 10, 11, 12, 13,  nach nach VSD520 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58
+Seite 11 von 33 / KBV / KBV_ITA_VGEX_Mapping_
+
+KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.extension:Strasse sse.line.extension:Hausnumme sse.line.extension:Adresszus sse.country sse.country.extension:anlage 8.value[x].code Personengruppe.value[x].code sDMP.value[x] .value[x].start .value[x].end eistungsanspruch eistungsanspruch.extension:d auer 06, 07, 08, 09, 10, 11, 12, 13,  nach nach VSD520 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58  
+
 
 ---
 
@@ -433,7 +456,12 @@ sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.ex
 | 1 | n/a |  |  |  |  |  | Coverage.extension:zuzahlung | 1..1 | 10 | date | YYYY-MM-DD |
 | n/a |  |  |  |  | Coverage.extension:kosteners |  | 0..1 |  |  |  |  |
 
-eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d auer.value[x].end eistungsanspruch.extension:a sstatus sstatus.extension:status sstatus.extension:gueltigBis tattung tattung.extension:aerztliche Versorgung tattung.extension:stationaer erBereich tattung.extension:veranlasst eLeistungen [x].code 20, 38, 46, 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98 VSD520 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98
+Seite 12 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 /
+
+13. Mai 2026
+
+eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d auer.value[x].end eistungsanspruch.extension:a sstatus sstatus.extension:status sstatus.extension:gueltigBis tattung tattung.extension:aerztliche Versorgung tattung.extension:stationaer erBereich tattung.extension:veranlasst eLeistungen [x].code 20, 38, 46, 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98 VSD520 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98 
+
 
 ---
 
@@ -508,7 +536,11 @@ eistungsanspruch.extension:d auer.value[x].start eistungsanspruch.extension:d au
 | Coverage.payor[1].identifier | 1..1 | 9 | string |  | → | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  |
 | Coverage.payor[1]. | 1..1 | 45 | string |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |
 
-Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verw endet werden, wenn der abrechnende Kostenträger nicht vorhanden ist. :IKNR display  Kostenträger [abrechnender Kostenträger] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden. :IKNR display Die fehlende Angabe des Tages wird durch 00 wird durch 00 ersetzt. | GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | ERLÄUTERUNG |
+Seite 13 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verw endet werden, wenn der abrechnende Kostenträger nicht vorhanden ist. :IKNR display  Kostenträger [abrechnender Kostenträger] Informationen muss vorrangig zum Zwecke der Abrechnung/ Dokuerstellung und Formularausstellung verwendet werden. :IKNR display Die fehlende Angabe des Tages wird durch 00 wird durch 00 ersetzt.
+
+| GEBURTSDATUM VSDM2.0 | CODIERUNG GEMÄß KVDT | ERLÄUTERUNG |
 |---|---|---|
 | YYYY-MM-DD | YYYYMMDD |  |
 | YYYY-MM | YYYYMM00 | ersetzt. |
@@ -543,6 +575,8 @@ Kostenträger [bundesweit] Informationen muss vorrangig zum Zwecke der Abrechnun
 | 09 | 09 | Empfänger von Gesundheitsleistungen nach den |
 
 Tabelle 4: Transformation BesonderePersonengruppe VSDM2.0_KVDT
+
+Seite 14 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Aufwand §§ 4 und 6 des Asylbewerberleistungsgesetzes (AsylbLG)
 
@@ -599,7 +633,10 @@ Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Au
 | 02 | 02 | Brustkrebs |
 | 03 | 03 | Koronare Herzkrankheit |
 
-Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombinationen vorliegt.
+Seite 15 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombinationen vorliegt. 
+
 
 ---
 
@@ -653,6 +690,8 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 | 37 | Brustkrebs und Diabetes Typ 2 | 04 und 03 |
 | 38 | Diabetes Typ 1 und KHK | 05 und 04 |
 | 39 | Asthma und Diabetes Typ 1 | 05 und 02 |
+
+Seite 16 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 
 ---
@@ -784,6 +823,8 @@ Kennzeichen nicht eine der unter den Berechnungsvorschriften vorgegebenen Kombin
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 
+Seite 17 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
 Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 
 ---
@@ -864,7 +905,12 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 |  | //Gueltig_bis | 0..1 | 8 | n | YYYYMMDD | n/a |  |  |  |  |  |
 |  | /Selektivvertraege | 1..1 |  |  |  |  |  |  |  |  |  |
 
-10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,52, 53, 54, 55, 56, 57, 58 nach nach 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58
+Seite 18 von 33 / KBV / KBV_ITA_VGEX_Mapping
+
+KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,52, 53, 54, 55, 56, 57, 58 nach nach 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58  
+
 
 ---
 
@@ -944,7 +990,12 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | /////Kostentraegerkennung | 1..1 | 9 | n |  | (1. Priorität) | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  |
 | /////Name | 1..1 | 0..45 | a |  | (1. Priorität) | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |
 
-46, 51, 52, 71, 72, 73, 78, 83, 88, 93, 98 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98
+Seite 19 von 33 / KBV / KBV_ITA_VGEX_Mapping_
+
+KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+46, 51, 52, 71, 72, 73, 78, 83, 88, 93, 98 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98 
+
 
 ---
 
@@ -1005,6 +1056,8 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | **DMP-KENNZEICHEN VSD** |  | **CODIERUNG GEMÄß KVDT** |
 |  | **BEDEUTUNG** | [Element nicht vorhanden] |
 
+Seite 20 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
 520 VSD520 Krankenversicherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Aufwand Asylbewerberleistungsgesetzes (AsylbLG) 520 520 VSD520
 
 ---
@@ -1057,7 +1110,10 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | 35 | 35 | Asthma und KHK |
 | 36 | 36 | Asthma, Diabetes Typ 2 und KHK |
 
-520 VSD520
+Seite 21 von 33 / KBV / KBV_ITA_VGEX_Mapping
+
+KVK _KVDT / Version 1.19 / 13. Mai 2026 520 VSD520
+
 
 ---
 
@@ -1145,7 +1201,10 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | 54 | 54 | Brustkrebs, Diabetes Typ 1 und KHK | 55 | 55 | Asthma, Brustkrebs und Diabetes Typ 1 | 56 | 56 | Asthma, Brustkrebs, Diabetes Typ 1 und KHK | 57 | 57 | Brustkrebs, COPD und Diabetes Typ 1 |
 | 58 | 58 | Brustkrebs, COPD, Diabetes Typ 1 und KHK | Tabelle 8: Transformation DMP-Kennzeichen VSD |  | **2.2.3** | Seitdem 01.01.2015 hat die KVK ihre Gültigkeit als Nachweis des Leistungsanspruchs in der GKV verloren und darf somit nur noch im Ber | 2.2.3.1 |  | **VDT, KVK-VERSION 2.08** |  |  |
 
-520 VSD520 520 Einlesen der KVK eich der Sonstigen Kostenträger verarbeitet werden. KVK in KVDT-Referenz-Design mappen VSD520 3105
+Seite 22 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+520 VSD520 520 Einlesen der KVK eich der Sonstigen Kostenträger verarbeitet werden. KVK in KVDT-Referenz-Design mappen VSD520 3105 
+
 
 ---
 
@@ -1185,7 +1244,10 @@ Einlesen der eGK VSD-Version 5.2.0 in KVDT-Referenz-Design mappen
 | Anl. 7, DEÜV | Titel | 0..1 | 2..15 | a |  | → | 3104 | Titel | 0..1 | ≤ 20 | a |
 |  |  |  |  |  |  | when contains (Straßenname |  |  |  |  |  |
 
-VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert ggf. nicht in allen Fällen das optimale Ergebnis zurück Leerzeichen v. re-1) liefert nicht in jeglicher Schreibweise das gewünschte Ergebnis, z.B. „103 A“ anstatt „103A“ A, C, K, L, E, N, D, F, S,  der Rechtskreis mit den Ausprägungen 1, 9 entfällt (M,X,A,C,K,L,E,N,D,F,S,P), tenstatus,1) right(VKNR/WOP,2) 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98
+Seite 23 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert ggf. nicht in allen Fällen das optimale Ergebnis zurück Leerzeichen v. re-1) liefert nicht in jeglicher Schreibweise das gewünschte Ergebnis, z.B. „103 A“ anstatt „103A“ A, C, K, L, E, N, D, F, S,  der Rechtskreis mit den Ausprägungen 1, 9 entfällt (M,X,A,C,K,L,E,N,D,F,S,P), tenstatus,1) right(VKNR/WOP,2) 47, 48, 49, 50, 51, 52, 55, 60, 61, 62, 71, 72, 73, 78, 83, 88, 93, 98 ________________ 
+
 
 ---
 
@@ -1225,7 +1287,13 @@ VSD520 & Hausnummer, ‚Postfach‘) Länge(erstes Leerzeichen v. re)  liefert g
 | Krankenkassennummer | 1..1 | 7 | n |  | concat(‚10‘, Krankenkassen | 4111 | Kostentraegerkennung | 1..1 | 9 | n |  |
 | Krankenkassenname | 1..1 | 2..28 | a |  | → | 4134 | KostentraegerName | 1..1 | ≤ 45 | a |  |
 
-VSD520  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9) nummer) VSD520 VSD520 VSD520| KVK-CODIERUNG | CODIERUNG GEMÄß KVDT |
+Seite 24 von 33 / KBV / KBV_ITA_VGEX_Mapping_
+
+KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+VSD520  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9)  RK 1)  RK 1)  RK 1)  RK 9)  RK 9)  RK 9) nummer) VSD520 VSD520 VSD520
+
+| KVK-CODIERUNG | CODIERUNG GEMÄß KVDT |
 |---|---|
 | [kein Wert vorhanden] | 00 |
 | M - Diabetes mellitus Typ 2 ( | 01 |
@@ -1287,7 +1355,11 @@ Tabelle 12: Zwischenspeicher mobKT
 
 ## 2.3 BEDRUCKUNG DES PERSONALIENFELDES UND DES VERKÜRZTEN PERSONALIENFELDES
 
-VSD520  West Mobiles Einsatzszenario Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an MOBILES KARTENTERMINAL KVDTVSD520 Feld L Ausprägung Transformation FK Name L EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ TTMMJJJJ 4109 Einlesedatum tag ‚92‘ 27 123xyzX.Y.Z Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der Abrechnungsunterlagen maschinell auswertbar, d.h. beleglesefähig, zu  erstellen. Zu diesem Zweck sind die hier dargestellten Bedruckungsvorschriften verbindlich zu beachten.
+Entsprechend den Anforderungen des § 291 SGB V sind die Vordrucke im Sinne der Abrechnungsunterlagen maschinell auswertbar, d.h. beleglesefähig, zu  erstellen. Zu diesem Zweck sind die hier dargestellten Bedruckungsvorschriften verbindlich zu beachten.
+
+Seite 25 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+VSD520  West Mobiles Einsatzszenario Datenobjekte Einlesedatum (tag ‘91‘) und Zulassungsnummer (tag ‘92‘) durch das mobile Kartenterminal an MOBILES KARTENTERMINAL KVDTVSD520 Feld L Ausprägung Transformation FK Name L EF.StatusVD  (im Zwischenspeicher mobKT) tag ‚91‘ TTMMJJJJ 4109 Einlesedatum tag ‚92‘ 27 123xyzX.Y.Z 
 
 
 ---
@@ -1354,6 +1426,7 @@ Zeile 4: Straßenname, Hausnummer
 
 Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
 
+Seite 26 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
 ---
 
@@ -1387,7 +1460,10 @@ Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
 |  | Name, | Kostenträgerkennung | Versicherten-Nr. |
 |---|---|---|---|
 
-123456789012345678901234 123456789              123456789012  Vorname des Versicherten Mustermann-Müller, Johan 101234567 A123456789 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforderungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei
+Seite 27 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+123456789012345678901234 123456789              123456789012  Vorname des Versicherten Mustermann-Müller, Johan 101234567 A123456789 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld ________________  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforderungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei 
+
 
 ---
 
@@ -1415,7 +1491,12 @@ Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
 | 5 | Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), | **alternativ:** |
 | 6 |  | 1-24 | Mit Wohnsitzlaendercode: |
 
-: „Postfach“ Postfachnummer  Items der Postfachadresse  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV-Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen „11“
+Seite 28 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19
+
+/ 13. Mai 2026
+
+: „Postfach“ Postfachnummer  Items der Postfachadresse ________________  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV-Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen „11“
+
 
 ---
 
@@ -1443,7 +1524,13 @@ Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
 |  | Lebenslange Arztnummer | 11-19 | linksbündig, numerisch |
 |  | Tagesdatum | 22-29 | Format TT.MM.JJ |
 
-Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“ Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
+Seite 29 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 /
+
+13. Mai 2026
+
+Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“ Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)
+
+| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 |---|---|---|---|
 | 1 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) |
 | 2 | Kostentraegerkennung | 1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 |
@@ -1467,6 +1554,8 @@ Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverord
 
 Tabelle 15: Prüfungsnachweis VSDM 2.0 in KVDT-Referenz-Design mappen
 
+Seite 30 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
 VSDM-Instanz  Bundle.meta.profile) FHIR-Response VSDM2.0 nach „|“, Ende des Values) Aktualisierung (Timestamp) aktualisierung Wert „1“ –  bei HTTP 200 OK mit FHIR-Bundle und gültigem VSDM- Pz-Header Wert „2“ –  bei HTTP 304 Not Modified mit gültigen VSDM Pz- Wert „3“ –  bei serverseitigem Fehler des Fachdienstes oder bei Verarbeitungsfehler im Clientsystem (z.B. ungültiges FHIR- Bundle, fehlender VSDM-Pz- Header), sofern PoPP-Token erfolgreich erlangt wurde Wert „4“ –  wenn die PoPP-Token- Anforderung wegen ungültiger oder gesperrter eGK fehlschlägt (Fehler des PoPP-Service mit entsprechender Fehlerursache) Wert „5“ –  bei Verbindungsfehler (Netzwerk, TLS, ZETA/ASL, DNS, Timeout). 128
 
 ---
@@ -1484,6 +1573,10 @@ VSDM-Instanz  Bundle.meta.profile) FHIR-Response VSDM2.0 nach „|“, Ende des 
 | Prüfziffer Fachdienst | 0..1 | 65 | a |  | → | 3013 | Prüfziffer des Fachdienstes | 0..1 | ≤ 88 | a |  |
 
 Tabelle 16: Prüfungsnachweis zum VSD
+
+Seite 31 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT /
+
+Version 1.19 / 13. Mai 2026
 
 VSDM2.0 aktualisierung (Timestamp) aktualisierung 
 
@@ -1509,7 +1602,12 @@ VSDM2.0 aktualisierung (Timestamp) aktualisierung
 | ) | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] |
 | Datensatzbeschreibung KVDT, in aktuellster Version | [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_KVDT |
 
-(VSDM 2.0) VSDM] Telematikinfrastruktur] Gesundheitskarte - Anlage 4a BMV-Ä), in aktuellster Version  04a-elektronische-gesundheitskarte/04a_elektr._Gesundheitskarte.pdf (Vordruckvereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version  02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf 02-vordruckvereinbarung/02_Erlaeuterungen.pdf Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen
+Seite 32 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 /
+
+13. Mai 2026
+
+(VSDM 2.0) VSDM] Telematikinfrastruktur] Gesundheitskarte - Anlage 4a BMV-Ä), in aktuellster Version  04a-elektronische-gesundheitskarte/04a_elektr._Gesundheitskarte.pdf (Vordruckvereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version  02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf 02-vordruckvereinbarung/02_Erlaeuterungen.pdf Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen 
+
 
 ---
 
@@ -1529,3 +1627,7 @@ VSDM2.0 aktualisierung (Timestamp) aktualisierung
 |  |  |
 |  | GKV-SV, KBV, KZBV. (06. März 2003). Technische Spezifikation der Arztausstattung - Lesegeräte -; entwickelt aus der Anlage 4 der Vereinbarung zur Gestaltung  und bundesweiten Einführung der Krankenversichertenkarte, Version 2.00. |
 |  | GKV-SV, KBV, KZBV. (2009). Technische Spezifikation der Versichertenkarte;  Version 2.08 |
+
+Seite 33 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 /
+
+13. Mai 2026

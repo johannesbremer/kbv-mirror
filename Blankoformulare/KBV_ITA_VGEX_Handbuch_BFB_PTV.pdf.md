@@ -13,6 +13,8 @@
 
 ## [KBV_ITA_VGEX_HANDBUCH_BFB_PTV]
 
+Seite 1 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -130,6 +132,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **21**
 
+Seite 2 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
 ---
 
@@ -157,6 +160,8 @@ Abbildung 10: PTV 12a, Original: DIN A4 hoch 19
 
 Abbildung 11: PTV 12b, Original: DIN A4 hoch 20
 
+Seite 3 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
+
 ---
 
 # DOKUMENTENHISTORIE
@@ -171,6 +176,8 @@ Die Änderung der Version 1.36 tritt zum 1. Juli 2021 in Kraft.
 | 1.33 | 14.08.2018 | KBV | Aktualisierung der Vorlagen |  | 17  18 |
 | 1.32 | 10.11.2017 | KBV | Die BFB-Vorlagen werden |  | 1010 |
 | 1.31 | 10.07.2017 | KBV | Änderung der Vorgaben |  | 6 |
+
+Seite 4 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
 des verkürzten Personalien- felds für das Muster PTV1, PTV2, PTV11 und PTV12 ständlichkeit P2.11-20 gabeformates für Da- tumsangeben auf BFB- Mustern für das Muster PTV11 auch als PDF-Dateien zur Verfügung gestellt bzgl. des zu verwendenden Papiers 
 
@@ -217,6 +224,7 @@ Bei der Herstellung der Vordrucke sind als Druckvorlage ausschließlich die verb
 
 Von dem Maßstab bzw. den Randeinstellungen kann geringfügig abgewichen werden.
 
+Seite 5 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
 ---
 
@@ -245,6 +253,8 @@ KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung
 ## 2.6 PAPIER
 
 Für die Erzeugung der PT-Formulare ist weißes Papier, vorzugsweise in OCR-Qualität, mit einer Mindest-stärke von 80g/m² zu verwenden.
+
+Seite 6 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
 ---
 
@@ -292,6 +302,7 @@ Die KBV stellt die in der Blankoformularbedruckung aufgenommenen PT-Formulare al
 
 Mit einem Update zu den PT-Formularen muss der Softwareverantwortliche sicherstellen, dass spätestens  mit Beginn des Folgequartals bzw. des genannten Stichtages die in der Praxis betroffenen Formulare ent-sprechend angepasst werden.
 
+Seite 7 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
 ---
 
@@ -338,6 +349,7 @@ Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzud
 - 1. Die Software ermöglicht den Ausdruck eines BFB-Formulars mit den zulässigen personenbezogenen und  optional beliebigen formularspezifischen Daten.
 - 2. Die Software muss beim Ausdruck von BFB-Formularen, bei denen die Angabe von Personalien, Kosten-träger oder Arztnummer erwartet wird, sicherstellen, dass diese Angaben ausgedruckt werden.
 
+Seite 8 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
 ---
 
@@ -378,6 +390,8 @@ Da bisherige Formate wie „TTMMJJ“ für Ärzte und Patienten zu Verständnisp
 
 Diese Anforderung gilt nicht für die Bedruckung der konventionellen Muster. Im Rahmen der konventionel-len Muster ist das Format durch die jeweilige Vorlage vorgegeben.
 
+Seite 9 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
+
 ---
 
 # 3 VERBINDLICHE MUSTER
@@ -388,6 +402,9 @@ Diese Anforderung gilt nicht für die Bedruckung der konventionellen Muster. Im 
 
 Abbildung 1: PTV 1a, Original: DIN A4 hoch
 
+Seite 10 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) /  2021
+
+Version: 1.36 / 18. Februar
 
 ---
 
@@ -395,6 +412,9 @@ Abbildung 1: PTV 1a, Original: DIN A4 hoch
 
 Abbildung 2: PTV 1b, Original: DIN A4 hoch
 
+Seite 11 von 21 / KBV /  2021
+
+Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar
 
 ---
 
@@ -402,6 +422,9 @@ Abbildung 2: PTV 1b, Original: DIN A4 hoch
 
 Abbildung 3: PTV 1c.1, Original: DIN A4 hoch
 
+Seite 12 von 21 / KBV /  2021
+
+Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar
 
 ---
 
@@ -409,6 +432,9 @@ Abbildung 3: PTV 1c.1, Original: DIN A4 hoch
 
 Abbildung 4: PTV 1c.2, Original: DIN A4 hoch
 
+Seite 13 von 21 / KBV /  2021
+
+Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar
 
 ---
 
@@ -418,6 +444,8 @@ Abbildung 4: PTV 1c.2, Original: DIN A4 hoch
 
 Abbildung 5: PTV 2a, Original: DIN A4 hoch
 
+Seite 14 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
+
 
 ---
 
@@ -425,6 +453,9 @@ Abbildung 5: PTV 2a, Original: DIN A4 hoch
 
 Abbildung 6: PTV 2b, Original: DIN A4 hoch
 
+Seite 15 von 21 / KBV /  2021
+
+Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar
 
 ---
 
@@ -432,6 +463,9 @@ Abbildung 6: PTV 2b, Original: DIN A4 hoch
 
 Abbildung 7: PTV 2c, Original: DIN A4 hoch
 
+Seite 16 von 21 / KBV /  2021
+
+Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar
 
 ---
 
@@ -441,12 +475,18 @@ Abbildung 7: PTV 2c, Original: DIN A4 hoch
 
 Abbildung 8: PTV 11a, Original: DIN A4 hoch
 
+Seite 17 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
+
 
 ---
 
 ### 3.3.2 PTV 11b (7.2020)
 
 Abbildung 9: PTV 11bc, Original: DIN A4 hoch
+
+Seite 18 von 21 / KBV /  2021
+
+Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar
 
 ---
 
@@ -456,12 +496,19 @@ Abbildung 9: PTV 11bc, Original: DIN A4 hoch
 
 Abbildung 10: PTV 12a, Original: DIN A4 hoch
 
+Seite 19 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) 2021
+
+Version: 1.36 / 18. Februar
 
 ---
 
 ### 3.4.2 PTV 12b (7.2020)
 
 Abbildung 11: PTV 12b, Original: DIN A4 hoch
+
+Seite 20 von 21 / KBV /  2021
+
+Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar
 
 ---
 
@@ -484,4 +531,10 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-mularbedruckung, aktuelle Version dazugehörenden Anlagen  transfer Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 21 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) 2021
+
+/ Version: 1.36 / 18. Februar
+
+mularbedruckung, aktuelle Version dazugehörenden Anlagen  transfer 

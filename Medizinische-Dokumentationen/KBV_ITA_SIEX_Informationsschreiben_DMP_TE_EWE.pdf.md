@@ -21,6 +21,10 @@ Konkret bedeutet dies:
 - Wenn eine Patientin oder ein Patient bereits in DMP eingeschrieben ist und zu einem späteren  Zeitpunkt in weitere DMP neu eingeschrieben werden soll, müssen auf dem TE/EWE-Formular nur  die DMP angegeben werden, zu denen eine Neueinschreibung erfolgen soll; bestehende DMP-Teilnahmen sind nicht erneut anzugeben.
 - Die Information für Patientinnen und Patienten wurde komplett überarbeitet und generisch  gestaltet. Sie beinhaltet keine indikationsspezifischen Informationen mehr, sondern bezieht sich  grundsätzlich auf Informationen, die für alle Indikationen gleichermaßen gelten. Zur Unterstützung  der ärztlichen Beratung wird die jeweilige Krankenkasse den Patientinnen und Patienten, die bei ihr  versichert sind, ebenfalls wie bisher umfangreiche Informationen zu ihren Erkrankungen zur  Verfügung stellen.
 
+Seite 1 von 2 / KBV / Versorgungsqualität / Abteilung Indikationsbezogene Versorgungskonzepte / NEUE INDIKATIONSÜBERGREIFENDE  TEILNAHME-UND EINWILLIGUNGSERKLÄRUNG ab 01.04.2021 / November 2020
+
+Intern
+
 
 ---
 
@@ -41,3 +45,7 @@ Für die neuen DMP-Indikationen, die ebenfalls auf der indikationsübergreifende
 Am Bestellprozess für die TE/EWE-Vordrucke gibt es keine Änderungen. Über den Zeitpunkt, ab dem die  neue TE/EWE bestellbar sein wird, erfolgt eine gesonderte Information. Die Möglichkeit, die TE/EWE auch  über die Praxisverwaltungssoftware auszudrucken, wird ebenfalls weiterhin bestehen.
 
 Anlage: Indikationsübergreifende TE/EWE, gültig ab 01.04.2021
+
+Seite 2 von 2 / KBV / Versorgungsqualität / Abteilung Indikationsbezogene Versorgungskonzepte / NEUE INDIKATIONSÜBERGREIFENDE  TEILNAHME-UND EINWILLIGUNGSERKLÄRUNG ab 01.04.2021 / November 2020
+
+Intern

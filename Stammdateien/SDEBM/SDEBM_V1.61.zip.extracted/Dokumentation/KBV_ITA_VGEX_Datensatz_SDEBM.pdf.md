@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Stammdatei - Satzarten 850, 851, 852, 853 Informationstechnik, Telematik und Telemedizin 1.61 Datum: 31.10.2025 Klassifizierung: Extern  Status: In Kraft 
+Stammdatei - Satzarten 850, 851, 852, 853 Informationstechnik, Telematik und Telemedizin 1.61 Datum: 31.10.2025 Klassifizierung: Extern  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
 
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **D** **O** **K**
 
@@ -26,11 +28,16 @@ Stammdatei - Satzarten 850, 851, 852, 853 Informationstechnik, Telematik und Tel
 |  | 10.11.2016 | KBV | -  -  - | Beschluss aus dem AK7 (Ver- | **20, 21,  32,  34,  35, 35,  38, 37,  39, 42,  42 bis  52, 63,  63, 66,  73, 77,  79, 80,  81, 93,  95, 96,  100,  101,   102,  103,  106,  107,  108,  109,  111,  112,  113,  114** |
 | 1.50 | 27.07.2016 | KBV | - |  |  |
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-Anpassung des Werteberei- ches des Elementes <seite> Aufnahme eines Kapitels zu EBM-Zusatznummern Element genehmigungs- pflicht  Element kategorie Redaktionelle Korrekturen Nicht mehr verwendete Ele- mente gelöscht Formate für die Texte der GNR angepasst Attribut SV entfernt Redaktionelle Korrektur  gelung S_FAO_ICPM in die Operatio- nen- und Prozedurenschlüssel- stammdatei (SDOPS) Information im XML-Element pfg_ausschluss  besserung der Schnittstellen- struktur)
+Anpassung des Werteberei- ches des Elementes <seite> Aufnahme eines Kapitels zu EBM-Zusatznummern Element genehmigungs- pflicht  Element kategorie Redaktionelle Korrekturen Nicht mehr verwendete Ele- mente gelöscht Formate für die Texte der GNR angepasst Attribut SV entfernt Redaktionelle Korrektur  gelung S_FAO_ICPM in die Operatio- nen- und Prozedurenschlüssel- stammdatei (SDOPS) Information im XML-Element pfg_ausschluss  besserung der Schnittstellen- struktur) Seite 2 von 117
+
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 |  | 17.04.2015 | KBV | -  -  -  - | Aufgrund der ASV muss der Kur- | 10  100  101  102  102  12  29 |
 |---|---|---|---|---|---|
@@ -42,7 +49,9 @@ Anpassung des Werteberei- ches des Elementes <seite> Aufnahme eines Kapitels zu 
 | 1.40 | 06.06.2013 | KBV | -  -  - | Referenz auf verknüpfte Leistun- Verweis auf Schlüsseltabelle | **86** **88** **95** |
 | 1.32 | 26.07.2012 | KBV | - | redaktionell |  |
 
-Beta Änderung des Zeichensatzes in ISO-8859-15 OIDs der Schlüsseltabellen bei den Elementen <ms_versorgungsbereich>, <ms_arztgruppe>, <ms_scheinuntergruppe> <ms_leistungsuntergruppe> ergänzt Anpassung der EBM- Systematik Aktualisierung der Erläute- rungen für die Bereiche bei dem XML-Element <bereich> Entfernung der Elemente maximalhaeufigkeit und    minimalhaeufigkeit Neuaufnahme des XML- Elementes Mengensteue- rung_liste mit seinen ent- sprechenden Kindelementen Entfernung des rlv Kennzei- chens aus dem KBV Teil Kennzeichen arztpraxis Dokumentation zum Kz. Arztpraxis aktualisiert Kennzeichen arztpraxis Regel: Sub-GOP  Regel: PFG-Ausschluss gnr_type_cd Layout züberlick der EBM-Systematik angepasst werden Version 1.41 steckt“ präzisiert sowie Referenz auf Schlüsseltab- gen Ausschluss fachärztl. Grund- pauschale 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Beta Änderung des Zeichensatzes in ISO-8859-15 OIDs der Schlüsseltabellen bei den Elementen <ms_versorgungsbereich>, <ms_arztgruppe>, <ms_scheinuntergruppe> <ms_leistungsuntergruppe> ergänzt Anpassung der EBM- Systematik Aktualisierung der Erläute- rungen für die Bereiche bei dem XML-Element <bereich> Entfernung der Elemente maximalhaeufigkeit und    minimalhaeufigkeit Neuaufnahme des XML- Elementes Mengensteue- rung_liste mit seinen ent- sprechenden Kindelementen Entfernung des rlv Kennzei- chens aus dem KBV Teil Kennzeichen arztpraxis Dokumentation zum Kz. Arztpraxis aktualisiert Kennzeichen arztpraxis Regel: Sub-GOP  Regel: PFG-Ausschluss gnr_type_cd Layout züberlick der EBM-Systematik angepasst werden Version 1.41 steckt“ präzisiert sowie Referenz auf Schlüsseltab- gen Ausschluss fachärztl. Grund- pauschale Seite 3 von 117
 
 
 ---
@@ -109,10 +118,18 @@ Beta Änderung des Zeichensatzes in ISO-8859-15 OIDs der Schlüsseltabellen bei 
 
 **19**
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
 **I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 4 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **9** **KEYTABS (SCHLÜSSELTABELLEN)**
 
@@ -176,6 +193,10 @@ Beta Änderung des Zeichensatzes in ISO-8859-15 OIDs der Schlüsseltabellen bei 
 
 **12.11** **Element: abr_best ..................................................................................................................... 80**
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 5 von 117
+
 
 ---
 
@@ -225,14 +246,29 @@ Beta Änderung des Zeichensatzes in ISO-8859-15 OIDs der Schlüsseltabellen bei 
 
 **117**
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 6 von 117
+
+
 ---
 
 Abbildung 1: Struktur des Elements keytabs ........................................................................ 20
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
 **A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 7 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **X** **M** **L - C** **O** **D** **E** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
@@ -246,6 +282,11 @@ XML-Code 4 /ehd/keytabs/keytab/key .............................................
 
 XML Code 5 /ehd/keytabs/keytab/key/fkey ........................................................................... 21
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 8 von 117
+
+
 ---
 
 # 1 Einleitung
@@ -255,6 +296,13 @@ Die vorliegende Datensatzbeschreibung gibt die essentiellen Inhalte des EBM in s
 Zweck der Schnittstelle ist es, die GO-Stammdatenlieferungen zwischen KBV und KVen ab-zubilden, sowie maschinell interpretierbare Daten zur Information als auch zur Automatisie-rung der Prozesse in den Arztpraxen und Kassenärztlichen Vereinigungen zur Verfügung zu  stellen und gleichzeitig eine Qualitätssteigerung der Abrechnungsdaten zu erreichen.
 
 Der Aufbau der XML-Datei richtet sich nach den Vorgaben der ehd-Richtlinie  [KBV_ITA_VGEX_eHD].
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 9 von 117
+
 
 ---
 
@@ -283,6 +331,13 @@ Für die Nummernvergabe der KV-spezifischen Ziffern steht der Nummernkreis
 Die EBM-Bewertung aus der Sektion „allgemein“ darf nicht geändert werden. Liegen dennoch  kv-spezifisch abweichende Bewertungen vor, werden diese innerhalb der Sektion „kv“ ange-geben. U.a. ist dabei eine feinere Differenzierung der KV-Bewertung(en) möglich.
 
 Wichtig: Die KV-Bewertung ersetzt die EBM-Bewertung und muss daher in sich vollständig  ausgewiesen werden.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 10 von 117
+
 
 ---
 
@@ -319,6 +374,13 @@ Ziffern können für die Verwendung in der Arztpraxis gesperrt werden, indem unt
 Entsprechende GOP sollen somit nicht abgerechnet werden, um bspw. die Abrechnungssta-tistiken nicht zu verfälschen.
 
 Dieser Sachverhalt gilt überwiegend für sogenannte Höchstwertziffern, kann aber auch in an-deren Zusammenhängen sinnvoll sein, in denen z.B. eine automatische Zusetzung durch die  KV erfolgen soll.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 11 von 117
+
 
 ---
 
@@ -372,8 +434,16 @@ Kapitel  89 - 99
 
 USE  KV-Nummer
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 12 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 Bereich I, II, III, IV, V  oder X (falls keinem anderen Bereich zuordbar)
 
@@ -387,12 +457,18 @@ Es gilt der Grundsatz, dass alle in den EBM-Stammsätzen abgebildeten Regeln und
 
 Ob dieser Grundsatz generell auch für die modifizierten EBM-Ziffern (Kapitel  KV-spezifischen Ziffern (Kapitel 2.7.4) sowie die KV-bearbeiteten EBM- und Pseudoziffern  (Kapitel 2.7.5) gilt, sollte vor einer möglichen Implementierung von entsprechenden GNR-Prüfungen mit der jeweils zuständigen Kassenärztlichen Vereinigung erörtert werden.
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 2.7.1 und 2.7.2) auf andere EBM-
 
 2.7.3), die neuen
 
+Seite 13 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 # 3 Satzarten
 
@@ -426,10 +502,14 @@ Primäre Adressaten dieser Satzart sind die Systemhäuser, welche diese Stammdat
 | kv | Ergänzung bei Bedarf | KV-Bewertung |
 | vdx | [optional] |  |
 
-Arztpraxis 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Arztpraxis Seite 14 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 ## 3.3 KV -> KBV (Satzart 852)
 
@@ -457,7 +537,10 @@ Satzart 853 entspricht den Inhalten von Satzart 850 mit dem Unterschied, dass al
 | kv | teilweise | GOP-Art  Abrechnungskennzeichen |
 | vdx | vollständig | KV-Gruppierungsfeld  Kontenart |
 
-Arztpraxis
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Arztpraxis Seite 15 von 117
+
 
 ---
 
@@ -491,7 +574,7 @@ Termine:
 
 Die Satzart 853 wird für interne Zwecke bei Bedarf erzeugt.
 
-25.10. (1. Quartal)
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853 25.10. (1. Quartal)
 
 25.01. (2. Quartal)
 
@@ -506,6 +589,10 @@ Die Satzart 853 wird für interne Zwecke bei Bedarf erzeugt.
 01.02. (3. Quartal)
 
 01.05. (4. Quartal)
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 16 von 117
 
 
 ---
@@ -558,8 +645,16 @@ nnn ....  Satzart
 
 Beispiel: 74E05101.850
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 17 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 # 6 ehd Grundstruktur
 
@@ -614,6 +709,8 @@ body
 ehd
 ```
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 zusammensetzt, wie es in [KBV_ITA_VGEX_eHD]
 
 -Richtlinie
@@ -623,6 +720,8 @@ zusammensetzt, wie es in [KBV_ITA_VGEX_eHD]
 ***<ehd>***, welches sich aus den
 
 ***urn:ehd/001***
+
+Seite 18 von 117
 
 
 ---
@@ -635,8 +734,16 @@ Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wi
 
 Das ***<body>*** Element enthält alle relevanten Stammdaten-Informationen als Kindelemente.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 19 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 # 9 keytabs (Schlüsseltabellen)
 
@@ -690,6 +797,10 @@ Das Element hat folgende Attribute:
 SV: Version der Schlüsseltabelle; Wenn die Schlüsseltabelle geändert bzw. ergänzt wird, wird
 
 ### die Version hochgezählt.
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 20 von 117
 
 
 ---
@@ -762,8 +873,16 @@ Das Element hat folgende Attribute:
 
 **XML Code 5** **/ehd/keytabs/keytab/key/fkey**
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 21 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 # 10 body
 
@@ -788,10 +907,16 @@ Das V-Attribut des Elements <gnr> beinhaltet die Gebührennummer. Ein Pattern ü
 
 Das Attribut VT (ValidTime) gibt Auskunft über das letzte Bearbeitungsdatum der Ziffer.
 
-traints Die genaue Struktur gibt die folgende Abbildung wieder:
+Die genaue Struktur gibt die folgende Abbildung wieder:
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+traints Seite 22 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** gnr**
 
@@ -810,6 +935,8 @@ element** gnr**
 
 ***VT***
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 Gebührenziffer
 
 Zulässige Formate: nnnnn
@@ -824,7 +951,8 @@ Bearbeitungsdatum (5-stellig numerisch)
 
 (6. Stelle alphanum. Uppercase)
 
-erlaubt ist 5-stellig numerisch bzw. 6-stellig (mit einem Großbuchstaben als Suffix). In den unterge- ordneten 5 Sektionen werden die Eigenschaften der GNR nach ihrer fachlichen Zugehörigkeit grup- piert. 33
+erlaubt ist 5-stellig numerisch bzw. 6-stellig (mit einem Großbuchstaben als Suffix). In den unterge- ordneten 5 Sektionen werden die Eigenschaften der GNR nach ihrer fachlichen Zugehörigkeit grup- piert. 33   Seite 23 von 117
+
 
 ---
 
@@ -839,6 +967,12 @@ erlaubt ist 5-stellig numerisch bzw. 6-stellig (mit einem Großbuchstaben als Su
 ***<vdx>***  Zusätzliche Datenelemente zum Vertragsdatensatz (VDX)
 
 ##
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 24 von 117
 
 
 ---
@@ -855,6 +989,12 @@ element** allgemein**
 | ***type*** | *go:allgemein_typ* |
 | ***properties*** | ***content  complex***** |
 | ***children*** | *go:gueltigkeit go:legende go:anmerkungen_liste go:leistungsinhalt_obligat go:leistungsinhalt_fakultativ* |
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 25 von 117
 
 
 ---
@@ -900,9 +1040,16 @@ element** body/gnr_liste/gnr/allgemein/gueltigkeit**
 
 ***<effective_tmr>***  Technische Gültigkeit der Ziffer (mit der aktuellen Ausprägung)
 
-einer Ziffer ausdrücken.
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+einer Ziffer ausdrücken. Seite 26 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 ### 11.1.1 Element: service_tmr
 
@@ -950,8 +1097,14 @@ Für Gültigkeitsangaben sind folgende Formate möglich:
 
 ***YYYY-MM-DD***   ***gilt am YYYY-MM-DD***
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 27 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 ## 11.2 Element: legende
 
@@ -979,6 +1132,8 @@ element** body/gnr_liste/gnr/allgemein/legende**
 
 Das Element <kap_bez> enthält die vollständige Kapitelbezeichnung, sowie die einzelnen  Bestandteile der Kapitelhierarchie in seinen Kindelementen.
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 Kapitelbezeichnung
 
 Überschrift
@@ -989,9 +1144,12 @@ Erweiterte Beschreibung bei sogen. „Katalogleistungen“
 
 Patientenfreundliche Formulierung für die Patientenquittung
 
-Leistungsbeschreibung.
+Leistungsbeschreibung. Seite 28 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** body/gnr_liste/gnr/allgemein/legende/kap_bez**
 
@@ -1020,8 +1178,14 @@ element** body/gnr_liste/gnr/allgemein/legende/kap_bez**
 
 Spiegelt die systematische Einordnung der GNR wieder.
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 29 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** kapiteldetails_typ/bereich**
 
@@ -1073,12 +1237,18 @@ element** kapiteldetails_typ/kapitel**
 
 ***DN***
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 Kapitel
 
 Bezeichnung
 
+Seite 30 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 #### 11.2.1.3 Element: abschnitt
 
@@ -1114,10 +1284,16 @@ element** kapiteldetails_typ/uabschnitt**
 
 #### 11.2.1.5 Element: block
 
-zeichnet. Die unterste Hierarchiestufe der Kapitelstruktur bildet der Block und wird durch folgendes  Element näher bezeichnet.
+Die unterste Hierarchiestufe der Kapitelstruktur bildet der Block und wird durch folgendes  Element näher bezeichnet.
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+zeichnet. Seite 31 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** kapiteldetails_typ/block**
 
@@ -1157,8 +1333,14 @@ element **legende_typ/langtext**
 | ***type*** | *go:ebm_text_absatz* |
 | ***properties*** | ***minOcc  0 maxOcc  1*** |
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 32 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 |  | *content  complex mixed  true* |
 |---|---|
@@ -1200,9 +1382,11 @@ element** legende_typ/quittungstext**
 
 Text (Erläuterung des Elementes siehe Kapitel „
 
-### Element: quittungstext
+### Element: quittungstext 11.10 Element: div
 
-sonsten nicht gefüllt11.10 Element: div
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+sonsten nicht gefülltSeite 33 von 117
 
 
 ---
@@ -1239,8 +1423,16 @@ element** anmerkungen_liste_typ/anmerkung**
 | ***children*** | *go:div* |
 | ***annotation*** | ***documentation Ausformulierte Regeln oder Abrechnungshinweise des EBM2000plus. ***** |
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 34 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **<div>**
 
@@ -1286,8 +1478,14 @@ Elementes siehe Kapitel „
 
 11.10 Element:
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 35 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **<div>**
 
@@ -1316,6 +1514,10 @@ Dieses Element enthält zum einen die Bewertung in seinem V-Attribut, wohingegen
 Die Kindelemente geben dabei die evtl. einschränkende Gebührenordnung, den Ort der Leis-tungserbringung und ggf. den Leistungstyp an.
 
 Da standardmäßig nur die Bewertung der Gesamtleistung (GL) ausgegeben wird, kann auf  die Angabe des Leistungstyps verzichtet werden.
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 36 von 117
 
 
 ---
@@ -1347,6 +1549,12 @@ Die bisherige Regelung, dass EBM-Leistungen jeweils nur eine Bewertungseinheit a
 Mit dem Element <leistungserbringerart> wird gekennzeichnet, ob eine Einschränkung für den  ambulanten oder stationären Bereich bei der Leistungserbringung gelten soll.
 
 element** bewertung_liste/bewertung/leistungserbringerart**
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 37 von 117
 
 
 ---
@@ -1386,6 +1594,12 @@ element** bewertung_liste/bewertung/versorgungsgebiet**
 | diagram |  |
 |---|---|
 | properties | isRef   0  content   complex |
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 38 von 117
 
 
 ---
@@ -1428,7 +1642,12 @@ element** zeitbedarf_liste/zeit**
 |---|---|
 | properties | isRef   0  content   complex |
 
-wenn Euro- und Punktbewertung existiert.
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+wenn Euro- und Punktbewertung existiert. Seite 39 von 117
+
 
 ---
 
@@ -1468,7 +1687,12 @@ element** pruefzeit**
 |---|---|
 | type | go:pruefzeit_typ |
 
-leistung). Wird derzeit ausschließlich für die Gesamtleistung angegeben und kann daher auch entfal- len.
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+leistung). Wird derzeit ausschließlich für die Gesamtleistung angegeben und kann daher auch entfal- len. Seite 40 von 117
+
 
 ---
 
@@ -1509,7 +1733,13 @@ Hinweis: Die in der Satzart 850 gelieferten Leistungsgruppen sind als Vorschlag 
 
 In diesen Fällen sollte in der Satzart 851 die Angabe der Schlüsseltabelle entfallen, da dann  keine Prüfung gegen die Schlüsseltabelle durch das GOS-XPM erfolgt.
 
-genen Plausibilitätenprüfungen. element** leistungsgruppe**
+element** leistungsgruppe**
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+genen Plausibilitätenprüfungen. Seite 41 von 117
 
 
 ---
@@ -1527,7 +1757,13 @@ genen Plausibilitätenprüfungen. element** leistungsgruppe**
 
 ## 11.10 Element: div
 
-ordnet. Mithilfe des Elementes <div> und seinen Kindelementen werden die Formatierungsinformati-onen für die EBM-Texte dargestellt. Die verwendeten Elemente zur Darstellung der Formatie-rungsinformation orientieren sich an aktuellen HTML-Elementen.
+Mithilfe des Elementes <div> und seinen Kindelementen werden die Formatierungsinformati-onen für die EBM-Texte dargestellt. Die verwendeten Elemente zur Darstellung der Formatie-rungsinformation orientieren sich an aktuellen HTML-Elementen.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+ordnet. Seite 42 von 117
 
 
 ---
@@ -1542,9 +1778,16 @@ element **div**
 | ***children*** | *go:ul go:ol go:b go:br go:div go:em go:i go:u go:sup go:sub go:strong go:font go:a go:table* |
 | ***used by*** | ***group ****ebmtextformattedtype_group* |
 
-space
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+spaceSeite 43 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **<ul>**
 
@@ -1592,6 +1835,8 @@ element **ul**
 
 **<li>**
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 nicht nummerierte Liste
 
 Nummerierte Liste
@@ -1626,6 +1871,8 @@ Listenelement, welches die einzelnen Listenelemente repräsen-tiert
 
 bei ‚oder‘ oder ‚und/oder‘ innerhalb
 
+Seite 44 von 117
+
 
 ---
 
@@ -1641,6 +1888,12 @@ element **li**
 | type | **go:listindex** |
 | properties | content  complex mixed  true |
 | children | **go:ul** **go:ol** **go:b** **go:br** **go:div** **go:em** **go:i** **go:u** **go:sup** **go:sub** **go:strong** **go:font** **go:a** **go:table** |
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 45 von 117
 
 
 ---
@@ -1686,6 +1939,12 @@ element **table**
 |---|---|
 | namespace | urn:ehd/go/001 |
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 46 von 117
+
 
 ---
 
@@ -1724,6 +1983,12 @@ Spalte im Kopf der Tabelle
 
 Das Element <th> repräsentiert eine Spalte im Tabellenkopf. Es kann weitere Formartie-rungselemente enthalten.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 47 von 117
+
 
 ---
 
@@ -1738,6 +2003,13 @@ element **th**
 | used by | element **tr** |
 
 Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 48 von 117
+
 
 ---
 
@@ -1757,6 +2029,13 @@ element **td**
 
 Die weiteren XML-Elementen zur Formatierung werden in den Kapiteln „11.10.9“, „11.10.10 11.10.11“, „11.10.12“, „11.10.13“, „11.10.14“ und „11.10.15“ beschrieben.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 49 von 117
+
+
 ---
 
 ### 11.10.8 Element: a
@@ -1774,9 +2053,16 @@ element **a**
 | attributes | Name   Type   Use   Default   Fixed   Annotation href |
 | annotation | documentation Verlinkung zu einer anderen GNR |
 
-space
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+spaceSeite 50 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **href**
 
@@ -1794,10 +2080,16 @@ element **font**
 |---|---|
 | name- | urn:ehd/go/001 |
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 werden in den Kapiteln „11.10.9“, „11.10.10 11.10.15“ beschrieben
+
+Seite 51 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 |  | space |
 |---|---|
@@ -1817,6 +2109,10 @@ Die Formatierungen wurden bereits in Kapitel 11.10 beschrieben.
 
 Mit den Elementen <b> oder <strong> kann ein Text als fett formatiert markiert werden. Un-terhalb von <b> oder <strong> können weitere Formatierungen oder auch Verlinkungen ste-hen.
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 52 von 117
+
 
 ---
 
@@ -1829,6 +2125,12 @@ element **b**
 | properties | content  complex mixed  true |
 | children | **go:b** **go:br** **go:div** **go:em** **go:i** **go:u** **go:sup** **go:sub** **go:strong** **go:font** **go:a** |
 | used by | group **ebmtextformattedtype_group** |
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 53 von 117
 
 
 ---
@@ -1847,6 +2149,12 @@ element **strong**
 
 Das Element <br> stellt einen Zeilenumbruch in einem Fließtext dar.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 54 von 117
+
 
 ---
 
@@ -1864,6 +2172,12 @@ element **br**
 
 Mit den Elementen <em> oder <i> werden Texte kursiv hervorgehoben. Beide Elemente wer-den gleich dargestellt. Unterhalb von <em> oder <i> können weitere Formatierungen oder  auch Verlinkungen stehen.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 55 von 117
+
 
 ---
 
@@ -1877,7 +2191,12 @@ element **em**
 | children | **go:b** **go:br** **go:div** **go:em** **go:i** **go:u** **go:sup** **go:sub** **go:strong** **go:font** **go:a** |
 | used by | group **ebmtextformattedtype_group** |
 
-diagram
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+diagramSeite 56 von 117
+
 
 ---
 
@@ -1894,6 +2213,12 @@ element **i**
 ### 11.10.13 Element: u
 
 Mit dem Element <u> wird dargestellt, dass ein Text unterstrichenen wird. Unterhalb von <u>  können weitere Formatierungen oder Verlinkungen stehen.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 57 von 117
 
 
 ---
@@ -1914,6 +2239,12 @@ Das Element <sup> kennzeichnet einen Text als hochgestellten. Unterhalb von  wei
 
 <sup> können
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 58 von 117
+
 
 ---
 
@@ -1931,6 +2262,12 @@ element **sup**
 
 Das Element <sub> kennzeichnet einen Text als tiefgestellten. Unterhalb von <sub> können  weitere Formatierungen oder Verlinkungen stehen.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 59 von 117
+
 
 ---
 
@@ -1944,6 +2281,13 @@ element **sub**
 | children | **go:b** **go:br** **go:div** **go:em** **go:i** **go:u** **go:sup** **go:sub** **go:strong** **go:font** **go:a** |
 | used by | group **ebmtextformattedtype_group** |
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 60 von 117
+
+
 ---
 
 # 12 Sektion: Bedingung
@@ -1956,8 +2300,16 @@ element** bedingung**
 |---|---|
 | type | go:bedingung_typ |
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 61 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 | properties | content   complex |
 |---|---|
@@ -2005,6 +2357,8 @@ element** fachgruppe_liste**
 
 ***<versorgungsbereich>***
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 Zulässige Fachgruppen
 
 Arztbrief ist Bestandteil der Leistung
@@ -2031,7 +2385,9 @@ true /1: zulässige Fachgruppen
 
 false /0: unzulässige Fachgruppen
 
-nung gelten, aufgeführt. aus deren Ein- oder Ausschluss.  Versorgungsbereich
+Versorgungsbereich
+
+nung gelten, aufgeführt. aus deren Ein- oder Ausschluss.  Seite 62 von 117
 
 
 ---
@@ -2073,8 +2429,16 @@ element** fachgruppe_liste/versorgungsbereich/fachgruppe**
 
 ***S***   OID der Schlüsseltabelle
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 63 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 ## 12.2 Element: berichtspflicht
 
@@ -2110,7 +2474,11 @@ element **bedingung/genehmigungspflicht**
 
 Dieses Element wird nur in der Ausprägung V=“true“ ausgegeben und  Fällen diejenigen Leistungen, die gemäß AOP-Vertrag dem Abschnitt 3 entsprechen und per  Definition einen 115b-Fall auslösen.
 
-Leistung berechtigt. kennzeichnet in diesen
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+kennzeichnet in diesen
+
+Leistung berechtigt. Seite 64 von 117
 
 
 ---
@@ -2142,7 +2510,11 @@ element** gnr_zusatzangaben**
 | properties | content   complex |
 | annotation | documentation   Beinhaltet Zusatzangaben, welche abrechnungsbegründend dokumentiert werden müssen. |
 
-Abschnitt 3, Anlage 1 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Abschnitt 3, Anlage 1 Seite 65 von 117
 
 
 ---
@@ -2184,9 +2556,16 @@ element** gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe**
 
 ***<zusatzbedingung>*** als Dummy-Feld für zukünftige Anforderungen vorgesehen worden (der-zeit nicht in Verwendung)
 
-_V   angaben.
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+_V   angaben. Seite 66 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 ##### 12.5.1.1.1 Element: zusatzbedingung
 
@@ -2208,8 +2587,14 @@ element** gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/zusatzbedin
 
 Aus der Begründungsliste muss mindestens ein Element als Abrechnungsbegründung aus-gewählt werden. Die Abrechnungsbegründung kann dabei ein OP-Schlüssel, ICD-Code oder  eine der aufgeführten Gebührennummern sein.
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 67 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** begruendungen_liste**
 
@@ -2241,7 +2626,11 @@ Liste mit verknüpften ICD-Codes
 
 Liste mit verknüpften GOP
 
-Wirkung erzielt, falls diese als Zusatzangabe definiert wurde. ### Element: ops_liste
+### Element: ops_liste
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Wirkung erzielt, falls diese als Zusatzangabe definiert wurde. Seite 68 von 117
 
 
 ---
@@ -2278,10 +2667,18 @@ element** begruendungen_liste/ops_liste/kategorie**
 
 Das Element <ops> beinhaltet in seinem V-Attribut den OP-Schlüssel. Aufgrund der Menge  und Redundanz der OPS wurde auf die Bezeichnungen und Zusatzinformationen innerhalb  der SDEBM verzichtet und diese in einer Schlüsseltabelle ausgelagert. Die Seitenlokalisation  wird nur in den Ausnahmefällen ausgegeben, in denen die Ausprägung der Seitenlokalisation  für die eindeutige Zuordnung in eine Kategorie relevant ist.
 
-Beinhaltet die mit der Leistung verknüpften OP-Schlüssel im Rahmen des ambulanten Operierens. rung des Ambulanten Operierens handelt oder wenn die OPS-Verknüpfung im Rahmen von § 115b und damit außerhalb von Anhang 2 erfolgt.  Hier ist die OP-Kategorie inklusive der kalkulatorischen Schnitt-Naht-Zeit enthalten. Eine konkrete Das Attribut R kennzeichnet den jeweiligen OPS ggf. als 115b-fähig. In der Kombination 115b-fähiger OPS und GOP kann die jeweilige Ziffer einen separaten, extrabudgetär vergüteten  Abrechnungsschein/Datensatz auslösen (Abrechnungsgebiet 115b).
+Das Attribut R kennzeichnet den jeweiligen OPS ggf. als 115b-fähig. In der Kombination 115b-fähiger OPS und GOP kann die jeweilige Ziffer einen separaten, extrabudgetär vergüteten  Abrechnungsschein/Datensatz auslösen (Abrechnungsgebiet 115b).
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Beinhaltet die mit der Leistung verknüpften OP-Schlüssel im Rahmen des ambulanten Operierens. rung des Ambulanten Operierens handelt oder wenn die OPS-Verknüpfung im Rahmen von § 115b und damit außerhalb von Anhang 2 erfolgt.  Hier ist die OP-Kategorie inklusive der kalkulatorischen Schnitt-Naht-Zeit enthalten. Eine konkrete Seite 69 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** begruendungen_liste/ops_liste/kategorie/ops**
 
@@ -2315,6 +2712,8 @@ element** begruendungen_liste/ops_liste/kategorie/ops/seite**
 
 ***V***
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 OP-Schlüssel
 
 Hinweis auf 115b-OPS
@@ -2327,10 +2726,14 @@ L (links)
 
 B (beidseitig)
 
-mit ggf. Ab- rechnungsbe- sonderheit nach §115b Abschnitte 1,2 Anlage 1 rie-/GNR-Zuordnung erzwingt. P (Paarig)
+P (Paarig)
+
+mit ggf. Ab- rechnungsbe- sonderheit nach §115b Abschnitte 1,2 Anlage 1 rie-/GNR-Zuordnung erzwingt. Seite 70 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 Hinweis:
 
@@ -2370,10 +2773,16 @@ element** begruendungen_liste/icd_liste/icd**
 
 false /0: unzulässig
 
-mieren.  ICD-Code
+ICD-Code
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+mieren.  Seite 71 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 | annotation | documentation   Codierung nach ICD-10 |
 |---|---|
@@ -2414,11 +2823,17 @@ element** begruendungen_liste/gnr_liste/gnr**
 
 ***DN***
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 Gebührennummer
 
 Bezeichnung
 
-begründend verwendet werden können, falls kein OPS vorliegt. *02300* für die KV erkennbar,  han-
+*02300* für die KV erkennbar,
+
+han-
+
+begründend verwendet werden können, falls kein OPS vorliegt. Seite 72 von 117
 
 
 ---
@@ -2456,7 +2871,13 @@ element** altersbedingung_liste**
 
 ### 12.8.1 Element: alter
 
-Beinhaltet das Mindest- und/oder Höchstalter für die Abrechnugsfähigkeit einer Leistung. Man be-Das Alter wird durch das V-Attribut, die Einheit des Alters durch das U-Attribut wiedergege-ben.
+Das Alter wird durch das V-Attribut, die Einheit des Alters durch das U-Attribut wiedergege-ben.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Beinhaltet das Mindest- und/oder Höchstalter für die Abrechnugsfähigkeit einer Leistung. Man be-Seite 73 von 117
 
 
 ---
@@ -2500,6 +2921,12 @@ element** anzahlbedingung_liste**
 | diagram |  |
 |---|---|
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 74 von 117
+
 
 ---
 
@@ -2539,7 +2966,13 @@ element** anzahlbedingung/bezugsraum**
 
 #### 12.9.1.1 Element: Anzahl
 
-zugszeitraum. Anzahl der möglichen Ansetzungen einer GNR für einen konkreten Bezugsraum.
+Anzahl der möglichen Ansetzungen einer GNR für einen konkreten Bezugsraum.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+zugszeitraum. Seite 75 von 117
 
 
 ---
@@ -2579,7 +3012,12 @@ element** anzahlbedingung/bezugsraum/aussetzungsgrund_liste/gnr_zusatzangabe**
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
 
-gabe_V
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+gabe_V   Seite 76 von 117
+
 
 ---
 
@@ -2622,7 +3060,13 @@ element** altersbedingung_liste/alter**
 
 ***U***   Einheit
 
-gen Anzahl ***U-DOMAIN***  OID der Schlüsseltabelle
+***U-DOMAIN***  OID der Schlüsseltabelle
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+gen Anzahl Seite 77 von 117
 
 
 ---
@@ -2662,7 +3106,13 @@ element** scheinarten_liste**
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_scheinart_V        go:scheinart    @V |
 | annotation | documentation   Beinhaltet die Definition zulässigen Scheinarten /Scheinuntergruppen durch Ein- bzw. Ausschluss |
 
-derselben. ***V***   true /1:  Scheinart(en) zulässig
+***V***   true /1:  Scheinart(en) zulässig
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+derselben. Seite 78 von 117
 
 
 ---
@@ -2710,7 +3160,12 @@ element** scheinarten_liste/scheinart/scheinuntergruppen_liste**
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_scheinuntergruppe     go:scheinuntergruppe    @V |
 | annotation | documentation   Sammelelement für die Scheinuntergrupp(en) und Definition von Ein- oder Ausschluss derselben. |
 
-_V
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+_V   Seite 79 von 117
+
 
 ---
 
@@ -2750,6 +3205,12 @@ element** abr_best**
 
 ***V***   Abrechnungsbestimmung in Fließtext
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 80 von 117
+
 
 ---
 
@@ -2773,6 +3234,12 @@ element** regel**
 ***<pfg_ausschluss>***  Kennzeichen „Grundpauschale fachärztliche Grundversorgung“
 
 ***<ersetzungs_liste>*** Höchstwertregel
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 81 von 117
 
 
 ---
@@ -2804,7 +3271,13 @@ element** ausschluss_liste/bezugsraum**
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               U    xs:string  required               U-DOMAIN    xs:string  required        1.2.276.0.76.5.2 26 |
 | annotation | documentation   Definiert den Bezugszeitraum, auf den der Ausschluss gelten soll. |
 
-u_aus_bezugsraum_***V***   Anzahl
+***V***   Anzahl
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+u_aus_bezugsraum_Seite 82 von 117
 
 
 ---
@@ -2854,6 +3327,12 @@ zulässige Formate: nnnnn, nnnnnA (6. Stelle alphanum. Uppercase)
 
 ***DN***   GNR-Text, Bezeichnung
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 83 von 117
+
 
 ---
 
@@ -2896,6 +3375,12 @@ element** ausschluss_liste/bezugsraum/kap_liste/kap_bez**
 
 Durch diesen Regeltyp werden bei reinen Zuschlagleistungen die erforderlichen Grundleis-tungen aufgeführt, die für die Abrechnung der Zuschlagleistung Voraussetzung sind.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 84 von 117
+
 
 ---
 
@@ -2933,10 +3418,18 @@ element** grundleistungen_liste/bezugsraum**
 
 ***U-DOMAIN***  OID der Schlüsseltabelle für U
 
-aufgeführt, die für die Abrechnung der Zuschlagleistung Voraussetzung sind. ***<gnr>***  GNR als Grundleistung
+***<gnr>***  GNR als Grundleistung
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+aufgeführt, die für die Abrechnung der Zuschlagleistung Voraussetzung sind. Seite 85 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 #### 13.2.1.1 Element: gnr
 
@@ -2972,7 +3465,11 @@ Definiert den Bezugszeitraum, innerhalb dessen die regel anzuwenden ist. Beispie
 
 Bezugsraum
 
-traints gelten. Kann ebenfalls in Zusammenhang mit Zuschlägen verwendet werden. ### Element: sub_gop_liste/bezugsraum
+### Element: sub_gop_liste/bezugsraum
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+traints gelten. Kann ebenfalls in Zusammenhang mit Zuschlägen verwendet werden. Seite 86 von 117
 
 
 ---
@@ -3004,7 +3501,13 @@ element** sub_gop_liste/bezugsraum/gnr**
 
 ##### 13.3.1.1.1 Element: altersbedingung_liste
 
-gekoppelt sein kann. Die Zusatzbedingung dient insbesondere dazu, bei mehreren Sub-GOP die zutreffende Sub-GOP zu ermitteln. Wie bei der Referenz auf die Sub-GOP ist auch die Zusatzbedingung (hier: altersbedin-gung_liste) eine Referenz auf die jeweilige Bedingung, die noch einmal bei der Sub-GOP
+Wie bei der Referenz auf die Sub-GOP ist auch die Zusatzbedingung (hier: altersbedin-gung_liste) eine Referenz auf die jeweilige Bedingung, die noch einmal bei der Sub-GOP
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+gekoppelt sein kann. Die Zusatzbedingung dient insbesondere dazu, bei mehreren Sub-GOP die zutreffende Sub-GOP zu ermitteln. Seite 87 von 117
 
 
 ---
@@ -3035,10 +3538,18 @@ element** pfg_ausschluss**
 
 ## 13.5 Element: ersetzungs_liste
 
-Dient zur Kennzeichnung von Leistungen, deren Abrechnung zum Ausschluss der Grundpauschale Die Nebeneinanderabrechnung von Leistungen kann zu Höchstwerten führen. Die Höchstwer-te werden durch sogenannte Ersetzungsziffern in folgender Struktur abgebildet:
+Die Nebeneinanderabrechnung von Leistungen kann zu Höchstwerten führen. Die Höchstwer-te werden durch sogenannte Ersetzungsziffern in folgender Struktur abgebildet:
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Dient zur Kennzeichnung von Leistungen, deren Abrechnung zum Ausschluss der Grundpauschale Seite 88 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** ersetzungs_liste**
 
@@ -3071,9 +3582,14 @@ element** ersetzungs_liste/ersetzung**
 
 ***<gnr_liste>***  Liste der Ziffern, deren Gesamtbewertung
 
-ersetzt. Um eine Verfälschung der Abrechnungsstatistik zu vermeiden, darf die Ersetzung nicht in der Arztpraxis erfolgen. wird.
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+ersetzt. Um eine Verfälschung der Abrechnungsstatistik zu vermeiden, darf die Ersetzung nicht in der Arztpraxis erfolgen. wird. Seite 89 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 ##### 13.5.1.1.1 Element: gnr_liste
 
@@ -3105,6 +3621,10 @@ element** ersetzungs_liste/ersetzung/gnr_liste/gnr**
 
 ***V***   GNR (nnnnn, nnnnnA)
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 90 von 117
+
 
 ---
 
@@ -3113,6 +3633,12 @@ element** ersetzungs_liste/ersetzung/gnr_liste/gnr**
 ### Innerhalb der KV-Struktur lassen sich weitere kv-spezifische Besonderheiten und Ausschlüsse
 
 abbilden, die weitestgehend für den internen Gebrauch bestimmt sind. Die genaue Struktur  gibt die folgende Abbildung wieder:
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 91 von 117
 
 
 ---
@@ -3124,6 +3650,12 @@ element** kv**
 | type | go:kv_typ |
 | properties | content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required |
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 92 von 117
 
 
 ---
@@ -3158,8 +3690,16 @@ Diverse Kennungen der GNR, auch in Zusammenhang mit anderen Projekten, werden in
 
 Bedingt durch die Abrechnungsbesonderheit nach §115b kann ebenfalls ein Kennzeichen für  die Zulässigkeit der jeweiligen Leistung als Begleitleistung vergeben werden.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 93 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** kennzeichen**
 
@@ -3181,7 +3721,14 @@ element** kennzeichen**
 
 ***<mengensteuerungs_liste>*** regelt die Mengensteuerung der GOP
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 94 von 117
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 ### 14.1.1 Element: arztpraxis
 
@@ -3229,6 +3776,10 @@ Bei KV-spezifischen Leistungen muss dieses Element vorhanden sein. Es kennzeichn
 
 Beispiel: Die Ziffer 10215A ist eine modifizierte Leistung. Sie ist von der originären Ziffer  10215 abgeleitet.
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 95 von 117
+
 
 ---
 
@@ -3264,10 +3815,18 @@ element** kennzeichen/gnr_type_cd/gnr**
 
 ### 14.1.4 Element: begleit_115b
 
-angegeben. KV-spezifisch kann eine Zuordnung der Leistung als zulässige Begleitleistung im Rahmen von  §115b vorgenommen werden. Diese Leistungen sind dann neben den 115b-auslösenden  Leistungen gemäß der Abschnitte 1-3 AOP-Vertrag ebenfalls extrabudgetär auf dem gleichen  Schein /Datensatz, i.d.R. unter dem speziellen Abrechnungsgebiet 115b, abrechenbar.
+KV-spezifisch kann eine Zuordnung der Leistung als zulässige Begleitleistung im Rahmen von  §115b vorgenommen werden. Diese Leistungen sind dann neben den 115b-auslösenden  Leistungen gemäß der Abschnitte 1-3 AOP-Vertrag ebenfalls extrabudgetär auf dem gleichen  Schein /Datensatz, i.d.R. unter dem speziellen Abrechnungsgebiet 115b, abrechenbar.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+angegeben. Seite 96 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 Die Begleitleistung kann dabei dem prä-, intra- und/oder postoperativen Bereich zugeordnet  werden als auch, falls die Vertragslage dies erfordert, nur für aufgeführte Kostenträgergrup-pen oder gar einzelne Kostenträger freigeschaltet sein.
 
@@ -3300,6 +3859,10 @@ element** kennzeichen/begleit_115b/op_typ**
 | annotation | documentation   Systematische Einordnung der Begleitleistung. |
 
 ***V***   prae, intra, post
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 97 von 117
 
 
 ---
@@ -3338,6 +3901,12 @@ element** mengensteuerung_liste**
 | attributes | Name    Type    Use    Default    Fixed    Annotation |
 | annotation | documentation   Wenn dieses Element vorhanden ist, gibt es eine Mengensteuerung |
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 98 von 117
+
 
 ---
 
@@ -3370,6 +3939,12 @@ dient der Definition von Arztgruppen, die in der Men-gensteuerung der Leistung b
 ***<ms_scheinuntergruppe_liste>*** dient der Definition von Scheinuntergruppen, die in der  Mengensteuerung der Leistung berücksichtigt werden  sollen
 
 ***<ms_leistungsuntergruppe_liste>*** dient der Definition von Leistungsuntergruppen, die in  der Mengensteuerung der Leistung berücksichtigt wer-den sollen
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 99 von 117
 
 
 ---
@@ -3408,6 +3983,12 @@ element** ms_versorgungsbereich**
 
 Mit dem Element *ms_arztgruppe_liste* können verschiedene Arztgruppen beschrieben wer-den, für welche die Mengensteuerung angewendet wird.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 100 von 117
+
 
 ---
 
@@ -3443,6 +4024,12 @@ element** ms_scheinuntergruppe_liste**
 
 | diagram |  |
 |---|---|
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 101 von 117
 
 
 ---
@@ -3484,8 +4071,16 @@ element** ms_leistungsuntergruppe_liste**
 
 Das Element *ms_leistungsuntergruppe* beschreibt eine bestimmte Leistungsuntergruppe.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 102 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** ms_leistungsuntergruppe**
 
@@ -3523,10 +4118,16 @@ KV-spezifische Information zur Initialisierung der Bewertungssteuerungsdatei (VD
 
 Eingruppierung für die Bewertungssteuerung
 
-im Rahmen von VDX ### Element: kv_gruppierungsfeld
+### Element: kv_gruppierungsfeld
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+im Rahmen von VDX Seite 103 von 117
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 element** kv_gruppierungsfeld_liste/kv_gruppierungsfeld**
 
@@ -3562,7 +4163,11 @@ Die KV-Bewertung übersteuert die Standard-EBM-Bewertung aus dem Teil <allgemein
 
 kv-spezifische Bewertung
 
-tung regional die allgemeingültige EBM-Bewertung. ### Element: kv_bewertung
+### Element: kv_bewertung
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+tung regional die allgemeingültige EBM-Bewertung. Seite 104 von 117
 
 
 ---
@@ -3577,7 +4182,13 @@ element** kv_bewertung_liste/kv_bewertung**
 
 ***V***    Bewertung (bis zwei Stellen nach Punkt; auch negativ)
 
-/Einschränkungen im Folgenden. ***U***    Bewertungseinheit
+***U***    Bewertungseinheit
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+/Einschränkungen im Folgenden. Seite 105 von 117
 
 
 ---
@@ -3628,10 +4239,20 @@ element** kv_bewertung_liste/kv_bewertung/leistungserbringerart**
 
 ***V***   Code für den ambulanten /stationären Bereich
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 106 von 117
+
 
 ---
 
-***S***   OID der Schlüsseltabelle
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+***S***
+
+OID der Schlüsseltabelle
 
 #### 14.3.1.3 Element: leistung_typ
 
@@ -3669,9 +4290,11 @@ Die Struktur und deren Elemente sind unter
 
 Mit Hilfe der folgenden Struktur kann die KV-Bewertung in Abhängigkeit einzelner Kostenträ-ger erfolgen.
 
-12.1 erläutert.
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61 12.1 erläutert.
 
-dardmäßig wird derzeit ausschließlich die Gesamtleistung bewertet, sodass die Angabe dieses Elements entfallen kann. 14.4 erläutert.
+14.4 erläutert.
+
+dardmäßig wird derzeit ausschließlich die Gesamtleistung bewertet, sodass die Angabe dieses Elements entfallen kann. Seite 107 von 117
 
 
 ---
@@ -3713,7 +4336,12 @@ element** ktgruppen_liste**
 | type | go:ktgruppen_liste_typ |
 | properties | content   complex |
 
-wenn Euro- und Punktbewertung existiert.
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+wenn Euro- und Punktbewertung existiert. Seite 108 von 117
+
 
 ---
 
@@ -3756,9 +4384,16 @@ element** kt_liste**
 |---|---|
 | type | go:kt_liste_typ |
 
-Ausschluss.
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Ausschluss. Seite 109 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 | properties | content   complex |
 |---|---|
@@ -3807,7 +4442,10 @@ element** ktab_liste**
 | type | go:ktab_liste_typ |
 | properties | content   complex |
 
-schluss.
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+schluss. Seite 110 von 117
+
 
 ---
 
@@ -3849,6 +4487,12 @@ element** abrechnungsstelle_liste**
 | type | go:abrechnungsstelle_liste_typ |
 | properties | content   complex |
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 111 von 117
+
 
 ---
 
@@ -3888,7 +4532,12 @@ element** as_ktgruppen_liste**
 | diagram |  |
 |---|---|
 
-_V   erlaubt oder durch Ausschluss als unzulässig definiert ist.
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+_V   erlaubt oder durch Ausschluss als unzulässig definiert ist.  Seite 112 von 117
+
 
 ---
 
@@ -3932,9 +4581,16 @@ element** as_ktgruppen_liste/abrechnungsstelle/ktgruppe**
 |---|---|
 | properties | isRef   0  content   complex |
 
-u_as_abrechnungsst Beinhaltet den Code der jeweiligen Bezirksstelle und Sammelelement der durch Einschluss zulässi-
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+u_as_abrechnungsst Beinhaltet den Code der jeweiligen Bezirksstelle und Sammelelement der durch Einschluss zulässi-Seite 113 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               S    xs:string  required        1.2.276.0.76.5.2 40 |
 |---|---|
@@ -3944,12 +4600,18 @@ u_as_abrechnungsst Beinhaltet den Code der jeweiligen Bezirksstelle und Sammelel
 
 ***S***
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
 Code für KT-Gruppe
 
 OID
 
+Seite 114 von 117
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 # 15
 
@@ -3994,6 +4656,10 @@ Kontenart
 
 Da die GKV-Kontenart mehrfach definiert sein kann, werden diese Elemente durch eine Liste  geklammert und folenden Aufbau:
 
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 115 von 117
+
 
 ---
 
@@ -4021,7 +4687,16 @@ element** gkv_kontenart_liste/gkv_kontenart**
 
 ***S***   OID der Schlüsseltabelle
 
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
+
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+Seite 116 von 117
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung EBM-Stammdatei - Satzarten 850, 851, 852, 853
 
 **16** **Referenzierte Dokumente**
 
@@ -4031,4 +4706,6 @@ element** gkv_kontenart_liste/gkv_kontenart**
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] | KBV_ITA_VGEX_Datensatzbeschreibung_KVDT |
 | [KBV_ITA_VGEX_Schnittstelle_SDOPS] | Operationen- und Prozedurenschlüsselstammdatei |
 
-eHealthData Richtlinie: Grundstrukturen, Regeln und Namensgebung beim Entwurf von XML-Schnittstellen (SDOPS)
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+
+eHealthData Richtlinie: Grundstrukturen, Regeln und Namensgebung beim Entwurf von XML-Schnittstellen (SDOPS) Seite 117 von 117

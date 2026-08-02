@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_KHK]
 
+Seite 1 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -85,6 +87,8 @@ Relevante Ereignisse
 Thrombozytenaggregationshemmer  Betablocker  ACE-Hemmer  Aktuelle Statin-Dosis  Aktuelle Therapiestrategie Statin  Grund für moderate oder niedrige Statin-Dosis 6.1.8 Abschnitt „Schulung“
 
 Schulung bereits vor Einschreibung in DMP wahrgenommen
+
+Seite 2 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 **9**
 
@@ -189,6 +193,8 @@ Schulung empfohlen (bei aktueller Dokumentation) 32
 
 **39**
 
+Seite 3 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 ---
 
 ## ABBILDUNGSVERZEICHNIS
@@ -200,6 +206,8 @@ Schulung empfohlen (bei aktueller Dokumentation) 32
 **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 15
 
 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 18
+
+Seite 4 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 ---
 
@@ -248,6 +256,8 @@ Schulung empfohlen (bei aktueller Dokumentation) 32
 **TABELLE 21:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES SPORTLICHES TRAINING) ....................................................... 34
 
 **TABELLE 22:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ....................................... 37
+
+Seite 5 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 ---
 
@@ -335,6 +345,8 @@ Schulung empfohlen (bei aktueller Dokumentation) 32
 
 **XML-CODE 41:** EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN ................................................................................. 37
 
+Seite 6 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 ---
 
 DOKUMENTENHISTORIE
@@ -349,7 +361,10 @@ DOKUMENTENHISTORIE
 |  |  |  |  |  |  |
 |  | 4.17 |  | 14.11.2025 | KBV | Anpassung an die aktualisierten |
 
-Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 6 Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 2 (Einschreibung wegen) Korrekturen der DMP-Schnittstellen (bpsw. body  wird zu <body>) 6.1.2.1 zu 6.1.3.  bestehende Schnittstelle verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Plausibilitäten der Anlage 6 6.1.7.7, 6.1.93, 6.1.9.4, 7.1.1.2 (Version 4.0) 6.1.7.4 bis 6.1.7.6, 6.1.8.1, 6.1.9.3, 7.1.1.2 6.1.7, 6.1.7.1, 6.1.7.2, 6.1.7.3, 6.1.8, 6.1.8.2, 6.1.9, 7.1.1.3, 7.1.2.2
+Seite 7 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 6 Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 2 (Einschreibung wegen) Korrekturen der DMP-Schnittstellen (bpsw. body  wird zu <body>) 6.1.2.1 zu 6.1.3.  bestehende Schnittstelle verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Plausibilitäten der Anlage 6 6.1.7.7, 6.1.93, 6.1.9.4, 7.1.1.2 (Version 4.0) 6.1.7.4 bis 6.1.7.6, 6.1.8.1, 6.1.9.3, 7.1.1.2 6.1.7, 6.1.7.1, 6.1.7.2, 6.1.7.3, 6.1.8, 6.1.8.2, 6.1.9, 7.1.1.3, 7.1.2.2 
+
 
 ---
 
@@ -362,6 +377,8 @@ Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 
 |  |  |  |  |  |  |
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | 4.14 | 01.08.2019 | KBV | Redaktionelle Anpassung der | Der Wert „Chronische | 21 |
+
+Seite 8 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 Tabelle 4 Herzinsuffizienz“ hat in der Tabelle gefehlt
 
@@ -384,6 +401,8 @@ EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] und [EXT_ITA_VGEX_Plausi_eDMP_KHK
 Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 9 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 ---
 
@@ -416,6 +435,8 @@ Beispiele:
 - 123456789_123_20070301.EEKHK
 - 123456789_123_20070601.EVKHK
 
+Seite 10 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 ---
 
 # 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
@@ -447,9 +468,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
+Seite 11 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
-\|  |
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. |  |
 \|---|
 
 
@@ -468,6 +489,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
+
+Seite 12 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
@@ -501,6 +524,8 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
+Seite 13 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <clinical_document_header> . . . </clinical_document_header> <body> </body> 
 
 
@@ -527,6 +552,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
 **XML-Code 2**: body
 
+Seite 14 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 ] durchzuführen.
 
 Abbildung 2 dargestellt.
@@ -540,7 +567,10 @@ Abbildung 2 dargestellt.
 \| Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Abbildung 3 dargestellt. **Abbildung 3:** |
 \|---|
 
-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in  Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind.
+Seite 15 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in  Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind. 
+
 
 ---
 
@@ -553,7 +583,11 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 \| <section>                                                                                 </paragraph>      <caption>     </caption>         </section> |
 \|---|
 
-<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>**XML-Code 3:** section
+**XML-Code 3:** section
+
+Seite 16 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>
 
 
 ---
@@ -568,6 +602,8 @@ Für die Darstellung von Daten der koronaren Herzkrankheit („erstmalige Dokume
 \|---|
 
 **XML-Code 4:** content mit sciphox-SSU (observation)
+
+Seite 17 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 <local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> 
 
@@ -588,6 +624,8 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 \|---|
 
 **XML-Code 5:** Beobachtungen
+
+Seite 18 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
 
@@ -629,6 +667,8 @@ Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausp
 
 In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parameter in einem  Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel
 
+Seite 19 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ...  Ergebnistext Ergebniswert <sciphox:Ergebniswert V=". . ." U="..."/>  Ergebniswert Beobachtungen  schon beschrieben wurde.  
 
 
@@ -658,7 +698,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="KHK"/>**XML-Code 10:** Einschreibung wegen
+**XML-Code 10:** Einschreibung wegen
+
+Seite 20 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="KHK"/>
 
 
 ---
@@ -690,6 +734,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
+Seite 21 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 ---
 
@@ -713,7 +758,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut das „Körpergewicht“ und  im *U*-Attribut den fest vorgeschriebenen Wert „kg“.
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Angina pectoris"/> </sciphox:Beobachtung> <sciphox:Parameter DN="LDL-Cholesterin"/> <sciphox:Ergebniswert V="120" U="mg/dl"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 22 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit /
+
+Version: 4.17 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Angina pectoris"/> </sciphox:Beobachtung> <sciphox:Parameter DN="LDL-Cholesterin"/> <sciphox:Ergebniswert V="120" U="mg/dl"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> 
 
 
 ---
@@ -763,10 +814,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 16:** Blutdruck diastolisch
 
+Seite 23 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 *V*-Attribut den „systolischen Wert“
 
-<sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" />*V*-Attribut den „diastolischen Wert“
+*V*-Attribut den „diastolischen Wert“
 
+<sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" />
 
 ---
 
@@ -807,7 +861,11 @@ Als Beispiel bei durchgeführter Messung sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/> <sciphox:Parameter DN="Angina pectoris"/> <sciphox:Ergebnistext V="CCS III"/>**XML-Code 18:** Angina pectoris
+**XML-Code 18:** Angina pectoris
+
+Seite 24 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/> <sciphox:Parameter DN="Angina pectoris"/> <sciphox:Ergebnistext V="CCS III"/>
 
 
 ---
@@ -853,7 +911,11 @@ Die möglichen Werte für den Ergebniswert sind dieser Tabelle zu entnehmen:
 
 ### 6.1.6 Abschnitt „Relevante Ereignisse“
 
-<sciphox:Parameter DN="LDL-Cholesterin“/> <sciphox:Ergebniswert V="128“ U="mg/dl"/> <sciphox:Parameter DN="LDL-Cholesterin"/> <sciphox:Ergebnistext V="Nicht bestimmt"/>Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse“.
+Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse“.
+
+Seite 25 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<sciphox:Parameter DN="LDL-Cholesterin“/> <sciphox:Ergebniswert V="128“ U="mg/dl"/> <sciphox:Parameter DN="LDL-Cholesterin"/> <sciphox:Ergebnistext V="Nicht bestimmt"/>
 
 
 ---
@@ -889,7 +951,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 9:** Werte bei Ergebnistext (Relevante Ereignisse)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Herzinfarkt innerhalb der letzten 12 Monate"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Relevante Ereignisse“/> <sciphox:Ergebnistext V="Herzinfarkt“/>
+Seite 26 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Herzinfarkt innerhalb der letzten 12 Monate"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Relevante Ereignisse“/> <sciphox:Ergebnistext V="Herzinfarkt“/> 
+
 
 ---
 
@@ -919,7 +984,11 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält vier bis sechs Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext>.
 
-<sciphox:Parameter DN="Herzinfarkt innerhalb der letzten 12 Monate"/> <sciphox:Ergebnistext V="Ja"/>Der Coderahmen sieht wie folgt aus:
+Der Coderahmen sieht wie folgt aus:
+
+Seite 27 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<sciphox:Parameter DN="Herzinfarkt innerhalb der letzten 12 Monate"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -949,7 +1018,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 11:** Werte bei Ergebnistext (Thrombozytenaggregationshemmer)
 
+Seite 28 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Statin-Dosis"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Therapiestrategie Statin"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Grund für moderate oder niedrige Statin-Dosis"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="O" rale Antikoagulation />
+
 
 ---
 
@@ -992,7 +1064,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 13:** Werte bei Ergebnistext (ACE-Hemmer)
 
-<sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Ergebnistext V="Kontraindikation"/> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="Kontraindikation"/>
+Seite 29 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<sciphox:Parameter DN="Betablocker"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Ergebnistext V="Kontraindikation"/> <sciphox:Parameter DN="ACE-Hemmer"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="Kontraindikation"/> 
+
 
 ---
 
@@ -1035,7 +1110,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Zielwert-Strategie |
 \| Keine Strategie vereinbart |
 
-<sciphox:Parameter DN="Aktuelle Statin-Dosis"/> <sciphox:Ergebnistext V="Moderat"/> <sciphox:Parameter DN="Aktuelle Therapiestrategie Statin"/> <sciphox:Ergebnistext V="Zielwert-Strategie"/>**Tabelle 15:** Werte bei Ergebnistext Aktuelle Therapiestrategie Statin
+**Tabelle 15:** Werte bei Ergebnistext Aktuelle Therapiestrategie Statin
+
+Seite 30 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<sciphox:Parameter DN="Aktuelle Statin-Dosis"/> <sciphox:Ergebnistext V="Moderat"/> <sciphox:Parameter DN="Aktuelle Therapiestrategie Statin"/> <sciphox:Ergebnistext V="Zielwert-Strategie"/>
 
 
 ---
@@ -1074,7 +1153,10 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>       <sciphox:Beobachtungen>                       </local_markup> </content> |
 \|---|
 
+Seite 31 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 <sciphox:Parameter DN="Grund für moderate oder niedrige Statin-Dosis"/> <sciphox:Ergebnistext V="LDL-Zielwert erreicht"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung bereits vor Einschreibung in DMP wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+
 
 ---
 
@@ -1124,14 +1206,17 @@ Im Element <content> wird die Sciphox-SSU
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal zwei bis maximal vier Kindelemente <sciphox:Beobachtung>. Ein
 
+Seite 32 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 empfohlen (bei aktueller Dokumentation)
 
-<sciphox:Parameter DN="Schulung bereits vor Einschreibung in DMP wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Nein"/>*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
+<sciphox:Parameter DN="Schulung bereits vor Einschreibung in DMP wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Nein"/>
 
 ---
 
@@ -1169,8 +1254,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 20
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges sportliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/> *V*-Attribut die Feldbezeichnung
+Seite 33 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
+*V*-Attribut die Feldbezeichnung
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges sportliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/>
 
 ---
 
@@ -1206,6 +1294,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nicht möglich |
 
 **Tabelle 21:** Werte bei Ergebnistext (Regelmäßiges sportliches Training)
+
+Seite 34 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Regelmäßiges sportliches Training"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Ergebnistext V="Nicht möglich"/> 
 
@@ -1243,7 +1333,10 @@ Siehe Kapitel 6.1.6.1
 
 Siehe Kapitel 6.1.6.2
 
+Seite 35 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Herzinfarkt innerhalb der letzten 12 Monate"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Stationäre notfallmäßige Behandlung wegen KHK seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U=“Anzahl“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+
 
 ---
 
@@ -1283,11 +1376,17 @@ Siehe Kapitel 6.1.8.2
 
 Bei diesem Parametern enthält das Element gemäß Tabelle 22
 
+________________
+
 ### 1
 
 <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="1" U=“Anzahl“/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN=“Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Schulung(en) wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>1 Der Parameter „Empfohlene Schulung(en) wahrgenommen“ entspricht dem Dokumentationsparameter „Empfohlene Schulung wahrgenommen“  der Anlage 6 der DMP-Anforderungen-Richtlinie (DMP-A-RL), zuletzt geändert am 6. August 2020
+1 Der Parameter „Empfohlene Schulung(en) wahrgenommen“ entspricht dem Dokumentationsparameter „Empfohlene Schulung wahrgenommen“  der Anlage 6 der DMP-Anforderungen-Richtlinie (DMP-A-RL), zuletzt geändert am 6. August 2020
+
+Seite 36 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+<sciphox:Parameter DN="Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="1" U=“Anzahl“/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN=“Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Schulung(en) wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 
 ---
@@ -1307,6 +1406,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Bei letzter Dokumentation keine Schulung empfohlen |
 
 **Tabelle 22:** Werte bei Ergebnistext (Empfohlene Schulung(en) wahrgenommen)
+
+Seite 37 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
 <sciphox:Parameter DN="Empfohlene Schulung(en) wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>
 
@@ -1340,8 +1441,9 @@ Als Beispiel sei hier folgender Code angegeben:
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Information Systems in Physician Offices and Hospitals using XML 
+Seite 38 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
+Information Systems in Physician Offices and Hospitals using XML
 
 ---
 
@@ -1364,4 +1466,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Volldatensatz / a-Datensatz Schnittstellenbeschreibung
+Seite 39 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
+
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Volldatensatz / a-Datensatz Schnittstellenbeschreibung 

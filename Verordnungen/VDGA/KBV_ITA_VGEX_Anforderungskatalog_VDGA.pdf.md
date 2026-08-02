@@ -24,6 +24,8 @@ Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von  DiGA  Anforderu
 
 ---
 
+#### (Anlage 26 BMV-Ä)
+
 DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
@@ -33,7 +35,8 @@ DOKUMENTENHISTORIE
 | 1.1 | 11.01.2024 | KBV/GKV-SV | Anpassung der Anforde- Erweiterung der   Anpassung der Anforde- Erweiterung der | Klarstellungen und Anre- | 13  14  21  22 |
 | 1.0 | 25.05.2023 | KBV/GKV-SV | neues Dokument | Einführung des Anforde- | alle |
 
-tels 1.2 pflichtenden Umsetzung der elektronischen Verord- nung rung P2-020 und P4-311 Nutzungshinweise und des Glossars  rung P2-020 und P4-310 Vorhandenseins von Kont- und des Glossars  raindikationen rung P4-230 rung P4-311 und des kriterium 3 und 4 Glossars  rung P4-342 kriterium 5 rung P4-340 schen Verordnung rung P4-343 der verpflichtenden Um- setzung gungen aus der Sprech- rungen KP4-312  stunde und den Zertifizie- rungen zum Verfahren Ver- rung P4-342 ordnung von DiGA (VDGA) gungen aus der Sprech- rung P4-130 stunde zum Verfahren Ver- ordnung von DiGA (VDGA) Anforderung P4-210 rung P4-322 Anforderung P4-342 rungskatalogs nach § 73 Abs. 9 SGB V für Verord- nung von DiGA
+tels 1.2 pflichtenden Umsetzung der elektronischen Verord- nung rung P2-020 und P4-311 Nutzungshinweise und des Glossars  rung P2-020 und P4-310 Vorhandenseins von Kont- und des Glossars  raindikationen rung P4-230 rung P4-311 und des kriterium 3 und 4 Glossars  rung P4-342 kriterium 5 rung P4-340 schen Verordnung rung P4-343 der verpflichtenden Um- setzung gungen aus der Sprech- rungen KP4-312  stunde und den Zertifizie- rungen zum Verfahren Ver- rung P4-342 ordnung von DiGA (VDGA) gungen aus der Sprech- rung P4-130 stunde zum Verfahren Ver- ordnung von DiGA (VDGA) Anforderung P4-210 rung P4-322 Anforderung P4-342 rungskatalogs nach § 73 Abs. 9 SGB V für Verord- nung von DiGA 2
+
 
 ---
 
@@ -81,6 +84,9 @@ tels 1.2 pflichtenden Umsetzung der elektronischen Verord- nung rung P2-020 und 
 
 **33**
 
+#### (Anlage 26 BMV-Ä) 3
+
+
 ---
 
 # 1 EINLEITUNG
@@ -108,6 +114,8 @@ Die für die elektronische Verordnung relevante Pflichtfunktion P4-343 sowie das
 Die Umsetzung aller Pflichtfunktionen, der implementierten optionalen Funktionen sowie der
 
 konditionalen Pflichtfunktionen ist im Rahmen eines Gutachterverfahrens nachzuweisen.
+
+#### (Anlage 26 BMV-Ä) 4
 
 
 ---
@@ -162,6 +170,8 @@ Die Einstellungen, welche innerhalb der Software durch die nutzenden Ärzte und 
 
 Der zeitliche und bürokratische Aufwand für die Ärzte und Psychotherapeuten im Zusammenhang  mit dem Einspielen eines Updates soll so gering wie möglich gehalten werden.
 
+#### (Anlage 26 BMV-Ä) 5
+
 
 ---
 
@@ -182,7 +192,12 @@ Der zeitliche und bürokratische Aufwand für die Ärzte und Psychotherapeuten i
 
 **Akzeptanzkriterium:**
 
+#### (Anlage 26 BMV-Ä) 6
+
+
 ---
+
+#### (Anlage 26 BMV-Ä)
 
 2 DATEN DES PRODUKTVERZEICHNISSES DIGITALER  GESUNDHEITSANWENDUNGEN
 
@@ -218,6 +233,8 @@ In der Verordnungssoftware sind Prüfregeln zu implementieren, die bei Ablauf de
 **Begründung:**
 
 Die Daten des DiGA-Verzeichnisses des BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte)  sind den nutzenden Ärzten und Psychotherapeuten von der Verordnungssoftware aktuell bereitzu-stellen.
+
+7
 
 
 ---
@@ -262,6 +279,8 @@ Um während des Verordnungsvorgangs eine geeignete DiGA finden und ähnliche DiG
 - Erforderlichkeit von Zusatzgeräten
 - Erforderliche Zusatzgeräte
 
+#### (Anlage 26 BMV-Ä) 8
+
 
 ---
 
@@ -293,8 +312,12 @@ Da nur im Ausnahmefall die Anwendung einer bestimmten DiGA-Verordnungseinheit f�
 
 **Akzeptanzkriterien:**
 
+#### (Anlage 26 BMV-Ä) 9
+
 
 ---
+
+#### (Anlage 26 BMV-Ä)
 
 **Hinweis:**
 
@@ -330,9 +353,12 @@ Die Daten des DiGA-Verzeichnisses bestehend aus Preis- und Produktinformationen 
 
 - 1. Die Verordnungssoftware muss sicherstellen, dass die aus dem Produktverzeichnis übernomme-nen Daten durch die nutzenden Ärzte und Psychotherapeuten nicht bearbeitet werden können.
 
+10
+
+
 ---
 
-3 WERBUNG
+#### (Anlage 26 BMV-Ä) 3 WERBUNG
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -364,6 +390,8 @@ Die verordnenden Ärzte und Psychotherapeuten sollen bei der Wahrung ihrer Inter
 **Bedingung:**
 
 Ausgenommen von der Umsetzung dieser Anforderung ist Verordnungssoftware, welche keine Wer-bung anzeigt.
+
+11
 
 
 ---
@@ -399,6 +427,9 @@ Die nutzenden Ärzte und Psychotherapeuten der Verordnungssoftware sollen die M�
 **Akzeptanzkriterium:**
 
 - 1. Die nutzenden Ärzte und Psychotherapeuten müssen die Möglichkeit haben, eine von Produkt-werbung freie Version der Verordnungssoftware zu erwerben.
+
+#### (Anlage 26 BMV-Ä) 12
+
 
 ---
 
@@ -447,6 +478,8 @@ Die Verordnungssoftware dokumentiert alle durch die nutzenden Ärzte und Psychot
 
 Die nutzenden Ärzte und Psychotherapeuten müssen die Möglichkeit haben, auf die patientenindivi-duelle Verordnungshistorie zurückgreifen zu können. Neben den Daten des Personalienfelds und den
 
+#### (Anlage 26 BMV-Ä) 13
+
 
 ---
 
@@ -488,6 +521,8 @@ Um während des Verordnungsvorgangs eine geeignete DiGA finden und ähnliche DiG
 - Name des Herstellers
 - ICD-10-GM-Kode einer Diagnose der Indikationen
 
+#### (Anlage 26 BMV-Ä) 14
+
 
 ---
 
@@ -523,6 +558,8 @@ Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten sollen die M�
 
 **Akzeptanzkriterien:**
 
+#### (Anlage 26 BMV-Ä) 15
+
 
 ---
 
@@ -550,8 +587,12 @@ Die die Verordnungssoftware nutzenden Ärzte und Psychotherapeuten können bei B
 
 **Akzeptanzkriterien:**
 
+#### (Anlage 26 BMV-Ä) 16
+
 
 ---
+
+#### (Anlage 26 BMV-Ä)
 
 - 4. Die Verordnungssoftware muss die in den Auswahllisten zusätzlich angezeigten nicht verord-nungsfähigen DiGA-Verordnungseinheiten in geeigneter Weise so kennzeichnen, dass die Nicht-möglichkeit einer Auswahl gemäß der Pflichtfunktion P4-120 verdeutlicht wird.
 - a) Das Akzeptanzkriterium P4-220 1 b) gilt in diesem Fall nicht.
@@ -580,6 +621,8 @@ Um während des Verordnungsvorgangs eine geeignete DiGA finden und ähnliche DiG
 - 5. Die Verordnungssoftware muss Hervorhebungen (z. B. Farbänderungen, Feldunterlegungen o. ä.),  die über die im Anforderungskatalog geregelten Kennzeichnungen hinausgehen, sowie den Fokus  oder die Cursorposition so gestalten, dass keine Vorauswahl einer DiGA-Verordnungseinheit sug-geriert wird.
 - a) Die für den Vergleich ursprünglich ausgewählte DiGA-Verordnungseinheit kann in der Auswahl-liste hervorgehoben werden.
 - b) Die Hervorhebung der ursprünglich ausgewählten DiGA-Verordnungseinheit muss so gestaltet  sein, dass die nutzenden Ärzte und Psychotherapeuten eine weitere Suchauswahl unbeein-flusst treffen können.
+
+17
 
 
 ---
@@ -618,7 +661,10 @@ Bei einem Verordnungsvorgang bzw. der Auswahl einer Verordnungseinheit sollen di
 \| Erforderlichkeit von Zusatzgeräten |
 \| Status im DiGA-Verzeichnis |
 
-Erste Ebene
+#### (Anlage 26 BMV-Ä)
+
+Erste Ebene 18
+
 
 ---
 
@@ -658,6 +704,8 @@ Für eine bestimmte DiGA-Verordnungseinheit sollen weitere Eigenschaften und Inf
 \| Name des Herstellers |
 \| Nutzungshinweise |
 
+#### (Anlage 26 BMV-Ä)
+
 P2-020 anzuzeigen.
 
 - P2-020 anzeigen zu lassen, falls das entsprechende
@@ -667,11 +715,14 @@ P2-020 anzuzeigen.
 - 3. Die Verordnungssoftware muss zusätzlich zur Liste der kontraindizierten ICD-Diagnosen die zuge-ordneten Ausschlusskriterien anzeigen, falls diese vorhanden sind.
 - 4. Die Verordnungssoftware muss zusätzlich zur Bezeichnung einer Altersgruppe der Ziel- /Patien-tengruppen den zugeordneten Kommentar anzeigen, falls dieser vorhanden ist.
 - 1 ermöglichen, sich durch einfache Interaktionen
+- 1 zurückzukehren.
 
-Zweite Ebene - 1 zurückzukehren.
+Zweite Ebene 19
 
 
 ---
+
+#### (Anlage 26 BMV-Ä)
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -714,8 +765,9 @@ Zur Vereinfachung des Verordnungsvorgangs muss es möglich sein, auf zurücklieg
 - 1. Die Verordnungssoftware muss den nutzenden Ärzten und Psychotherapeuten die Möglichkeit  bieten, die PZN aus einer zurückliegenden Verordnung des jeweiligen Patienten in die aktuelle  Verordnung zu übernehmen.
 - 2. Die Verordnungssoftware muss bei Übernahme der PZN aus einer Vorverordnung sicherstellen,
 - a) dass keine Übernahme möglich ist, falls die PZN auf Basis der aktuellen Produktdaten nicht ver-ordnungsfähig ist, d.h. falls ihr aktuell im DiGA-Verzeichnis weder der Status „Vorläufig aufge-nommen“ noch „Dauerhaft aufgenommen“ zugeordnet ist oder sie nicht gültig ist.
+- b) dass die Angaben nach Pflichtfunktion P2-020 auf Basis der aktuellen Produktdaten erfolgen.
 
-Dritte Ebene - b) dass die Angaben nach Pflichtfunktion P2-020 auf Basis der aktuellen Produktdaten erfolgen.
+Dritte Ebene 20
 
 
 ---
@@ -765,6 +817,8 @@ Aufgrund der stets aktuellen Bereitstellung der Daten des Produktverzeichnisses 
 
 umsetzen.
 
+#### (Anlage 26 BMV-Ä)
+
 - 1 die mit
 
 ```
@@ -773,8 +827,12 @@ umsetzen.
 
 P4-342 zu be-
 
+21
+
 
 ---
+
+#### (Anlage 26 BMV-Ä)
 
 **Akzeptanzkriterium:**
 
@@ -819,7 +877,7 @@ Die Verordnung von Digitalen Gesundheitsanwendungen erfolgt gemäß den gesetzli
 - b) Zeile 2: Unbesetzt
 - Es müssen zur Verdeutlichung Trennstriche „---“ in passender Anzahl in der Zeile verwendet  werden.
 - c) Zeile 3: PZN (in der Form 01234567 oder PZN01234567)
-- d) Zeile 4: Unbesetzt
+- d) Zeile 4: Unbesetzt 22
 
 
 ---
@@ -860,12 +918,19 @@ Die Pflicht zur elektronischen Verordnung digitaler Gesundheitsanwendungen ist g
 
 **Akzeptanzkriterien:**
 
+#### (Anlage 26 BMV-Ä) 23
+
 
 ---
 
 **Hinweis:**
 
 Die Funktion zur elektronischen Verordnung von Digitalen Gesundheitsanwendungen kann in den  Praxen bereitgestellt werden, sobald das Zertifizierungsverfahren eVDGA erfolgreich absolviert  wurde und die gematik die Bereitstellung des E-Rezept-Fachdienstes für die produktive Nutzung zur  elektronischen Verordnung von Digitalen Gesundheitsanwendungen verkündet hat.
+
+**(Anlage 26 BMV-Ä)**
+
+24
+
 
 ---
 
@@ -905,6 +970,8 @@ Den nutzenden Ärzten und Psychotherapeuten soll die Möglichkeit gegeben werden
 
 **Akzeptanzkriterien:**
 
+#### (Anlage 26 BMV-Ä) 25
+
 
 ---
 
@@ -928,6 +995,9 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 
 **Akzeptanzkriterium:**
 
+#### (Anlage 26 BMV-Ä) 26
+
+
 ---
 
 6 ABKÜRZUNGSVERZEICHNIS
@@ -943,11 +1013,14 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 | **SGB** | Sozialgesetzbuch |
 | **VDGA** | Verordnung digitaler Gesundheitsanwendungen |
 
-schen Klassifikation der Krankheiten und verwandter Gesundheits- probleme
+#### (Anlage 26 BMV-Ä)
+
+schen Klassifikation der Krankheiten und verwandter Gesundheits- probleme 27
+
 
 ---
 
-7 GLOSSAR
+#### (Anlage 26 BMV-Ä) 7 GLOSSAR
 
 | BEGRIFF | BEDEUTUNG |
 |---|---|
@@ -960,7 +1033,8 @@ schen Klassifikation der Krankheiten und verwandter Gesundheits- probleme
 | **Vorhandensein von Kontraindika-** | Das Vorhandensein von Kontraindikationen (als Boolescher Wert) |
 | **Kontraindikationen** | Die Kontraindikationen beinhalten Informationen dazu, wann die  Ausschlusskriterien. Diese Information |
 
-DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzung der PZN verordnet werden.  durch die Ärzte und Psychotherapeuten wird jeder DiGA-Verord- nungseinheit bei der Aufnahme ins Produktverzeichnis zusätzlich eine eineindeutige 8-stellige numerische PZN zugeordnet. zialitäten - IFA GmbH vergeben, die dem BfArM die benötigten PZN zur Zuordnung zu den DiGA-Verordnungseinheiten zur Verfügung stellt. ordnete Produkt dar, dem die verordnungsrelevanten Daten wie bei- spielsweise ein Name, die PZN, zulässige Indikationen und Preisan- gaben zugeordnet sind. Die DiGA-Verordnungseinheit ist einem kon- kreten DiGA-Modul zugeordnet, welches wiederum einer DiGA zuge- ordnet ist. stehen, die für speziellen Anwendungsfälle zum Einsatz kommen. Die Angabe des Namens des DiGA-Moduls entspricht dem offiziel- len, vollständigen Handelsnamen des DiGA-Moduls. Diese Informa- tion ist dem DiGA-Modul zugeordnet. ständigen Handelsnamen der DiGA. Diese Information ist der DiGA zugeordnet. dung einer Verordnungseinheit einer digitalen Gesundheitsanwen- dung angezeigt ist. Sie werden durch eine Liste von ICD-Diagnosen repräsentiert, die jeweils aus dem ICD-10-GM-Kode und dem dazu- gehörigen ICD-10-GM-Diagnoseklartext bestehen. Diese Information ist der DiGA-Verordnungseinheit zugeordnet. gen einer DiGA oder eines Moduls einer DiGA. Diese Information ist der DiGA zugeordnet. zeigt an, ob bei der Verordnung der DiGA-Verordnungseinheit Kont- raindikationen zu beachten sind. Anwendung einer Verordnungseinheit einer digitalen Gesundheits- anwendung nicht angezeigt, also kontraindiziert ist. Sie werden so- wohl durch eine Liste von ICD-Diagnosen repräsentiert, die jeweils aus dem ICD-10-GM-Kode und dem dazugehörigen Diagnoseklartext bestehen, als auch durch die ist der DiGA-Verordnungseinheit zugeordnet.
+DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzung der PZN verordnet werden.  durch die Ärzte und Psychotherapeuten wird jeder DiGA-Verord- nungseinheit bei der Aufnahme ins Produktverzeichnis zusätzlich eine eineindeutige 8-stellige numerische PZN zugeordnet. zialitäten - IFA GmbH vergeben, die dem BfArM die benötigten PZN zur Zuordnung zu den DiGA-Verordnungseinheiten zur Verfügung stellt. ordnete Produkt dar, dem die verordnungsrelevanten Daten wie bei- spielsweise ein Name, die PZN, zulässige Indikationen und Preisan- gaben zugeordnet sind. Die DiGA-Verordnungseinheit ist einem kon- kreten DiGA-Modul zugeordnet, welches wiederum einer DiGA zuge- ordnet ist. stehen, die für speziellen Anwendungsfälle zum Einsatz kommen. Die Angabe des Namens des DiGA-Moduls entspricht dem offiziel- len, vollständigen Handelsnamen des DiGA-Moduls. Diese Informa- tion ist dem DiGA-Modul zugeordnet. ständigen Handelsnamen der DiGA. Diese Information ist der DiGA zugeordnet. dung einer Verordnungseinheit einer digitalen Gesundheitsanwen- dung angezeigt ist. Sie werden durch eine Liste von ICD-Diagnosen repräsentiert, die jeweils aus dem ICD-10-GM-Kode und dem dazu- gehörigen ICD-10-GM-Diagnoseklartext bestehen. Diese Information ist der DiGA-Verordnungseinheit zugeordnet. gen einer DiGA oder eines Moduls einer DiGA. Diese Information ist der DiGA zugeordnet. zeigt an, ob bei der Verordnung der DiGA-Verordnungseinheit Kont- raindikationen zu beachten sind. Anwendung einer Verordnungseinheit einer digitalen Gesundheits- anwendung nicht angezeigt, also kontraindiziert ist. Sie werden so- wohl durch eine Liste von ICD-Diagnosen repräsentiert, die jeweils aus dem ICD-10-GM-Kode und dem dazugehörigen Diagnoseklartext bestehen, als auch durch die ist der DiGA-Verordnungseinheit zugeordnet. 28
+
 
 ---
 
@@ -974,7 +1048,11 @@ DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzu
 | **Status im DiGA-Verzeichnis** | Die Angabe zum Status im DiGA-Verzeichnis repräsentiert den Status  Diese Information ist dem Verzeichniseintrag zugeordnet. |
 | **Erforderlichkeit von Zusatzgerä-** | Diese Angabe kennzeichnet, ob zusätzliche Geräte entweder im zu |
 
-Nachweis zum positiven Versorgungseffekt  Angabe Erprobungszeitraum (höchstens 12 Monate) Kurzfassung zum vorliegenden oder geplanten Nachweis des po- sitiven Versorgungseffektes nach PICO-Schema Angaben zum positiven Versorgungseffekt draft: vorläufig aufgenommen active: dauerhaft aufgenommen retired: zurückgezogen/entfernt/gestrichen Angaben und Nachweise zum positiven Versorgungseffekt, die der DiGA-Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA-Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Ant- worten zu vorgegebenen Fragen repräsentiert, die zu einem Block von Fragen mit dem Titel „Angaben zum positiven Versorgungsef- fekt“ gehören. Diese Informationen sind de m DiGA-Antwortdaten- satz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragenblock kann beispielsweise Fragen zu fol- genden Einträgen enthalten: zeichen der Ziel-/Patientengrup- Ziel- /Patientengruppen besteht aus einer Liste von menschenlesba- ren Geschlechtskennzeichen. Diese Information ist der DiGA-Verord- nungseinheit zugeordnet. steht aus einer Liste von menschenlesbaren Altersgruppenbezeich- nungen. Diese Information ist der DiGA-Verordnungseinheit zuge- mentar beigefügt sein, welcher z.B. die in der Bezeichnung angege- bene Altersangaben korrigiert. Wert und der menschenlesbaren Angabe einer Zeiteinheit. Diese In- formation ist der DiGA-Verordnungseinheit zugeordnet. forderlich gehaltenen Mindest- und Höchstdauer der Nutzung der DiGA enthalten. Diese Information ist der DiGA zugeordnet. des Eintrags der DiGA im Verzeichnis. Dieser kann die folgenden drei Werte annehmen: verordnenden Produkt enthalten sind, oder zusätzlich verpflichtend oder optional erworben werden müssen. Es sind folgende vier Kenn- zeichnungen zu verwenden: - keine Zusatzgeräte
+- keine Zusatzgeräte
+
+#### (Anlage 26 BMV-Ä)
+
+Nachweis zum positiven Versorgungseffekt  Angabe Erprobungszeitraum (höchstens 12 Monate) Kurzfassung zum vorliegenden oder geplanten Nachweis des po- sitiven Versorgungseffektes nach PICO-Schema Angaben zum positiven Versorgungseffekt draft: vorläufig aufgenommen active: dauerhaft aufgenommen retired: zurückgezogen/entfernt/gestrichen Angaben und Nachweise zum positiven Versorgungseffekt, die der DiGA-Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA-Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Ant- worten zu vorgegebenen Fragen repräsentiert, die zu einem Block von Fragen mit dem Titel „Angaben zum positiven Versorgungsef- fekt“ gehören. Diese Informationen sind de m DiGA-Antwortdaten- satz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragenblock kann beispielsweise Fragen zu fol- genden Einträgen enthalten: zeichen der Ziel-/Patientengrup- Ziel- /Patientengruppen besteht aus einer Liste von menschenlesba- ren Geschlechtskennzeichen. Diese Information ist der DiGA-Verord- nungseinheit zugeordnet. steht aus einer Liste von menschenlesbaren Altersgruppenbezeich- nungen. Diese Information ist der DiGA-Verordnungseinheit zuge- mentar beigefügt sein, welcher z.B. die in der Bezeichnung angege- bene Altersangaben korrigiert. Wert und der menschenlesbaren Angabe einer Zeiteinheit. Diese In- formation ist der DiGA-Verordnungseinheit zugeordnet. forderlich gehaltenen Mindest- und Höchstdauer der Nutzung der DiGA enthalten. Diese Information ist der DiGA zugeordnet. des Eintrags der DiGA im Verzeichnis. Dieser kann die folgenden drei Werte annehmen: verordnenden Produkt enthalten sind, oder zusätzlich verpflichtend oder optional erworben werden müssen. Es sind folgende vier Kenn- zeichnungen zu verwenden: 29
 
 
 ---
@@ -996,6 +1074,8 @@ Nachweis zum positiven Versorgungseffekt  Angabe Erprobungszeitraum (höchstens 
 **Preis**
 
 **Zusätzliche Mehrkosten**
+
+#### (Anlage 26 BMV-Ä)
 
 **BEDEUTUNG**
 
@@ -1029,8 +1109,12 @@ Der Preis wird nicht direkt im DiGA-Verzeichnis gelistet. Er entspricht  dem vom
 
 Die zusätzlichen Mehrkosten in Form eines dezimalen monetären  Wertes und der Währungsbezeichnung sind vom Versicherten zu  tragen. Dies trifft zu, falls der Herstellerpreis über dem von den Ge-setzlichen Krankenkassen erstatteten Abgabepreis in Gestalt eines  Höchstbetrags oder Vergütungsbetrags liegt. Diese Information ist  der DiGA-Verordnungseinheit zugeordnet.
 
+30
+
 
 ---
+
+#### (Anlage 26 BMV-Ä)
 
 | BEGRIFF | BEDEUTUNG |
 |---|---|
@@ -1039,7 +1123,9 @@ Die zusätzlichen Mehrkosten in Form eines dezimalen monetären  Wertes und der 
 | **Ausschlusskriterien** | Die Angabe zu den Ausschlusskriterien benennt die Kriterien, bei de- |
 | **Informationen zu Datenschutz** | Die Informationen zu Datenschutz und Datensicherheit beinhalten |
 
-nis gelistet. Sie entsprechen der Differenz zwischen dem Hersteller- preis und dem optional im Verzeichnis hinterlegten niedrigerem Höchstbetrag oder Vergütungsbetrag. Falls kein Höchstbetrag oder Vergütungsbetrag im Verzeichnis gelistet ist, ist der Zahlenwert 0,00 für die zusätzlichen Mehrkosten auszuweisen. gsbe- Aufnahme ins DiGA-Verzeichnis oder so lange, wie ihre Erprobungs- zeit anhält (max. 2 Jahre), grundsätzlich alleinig vom Hersteller be- stimmt. Für Gruppen vergleichbarer DiGA gelten allerdings Höchst- beträge, d. h. Preisgrenzen, bis zu denen die Krankenkassen die Kos- ten einer DiGA-Verordnungseinheit erstatten. Sollte der Hersteller- preis höher als der für die DiGA- Verordnungseinheit relevante Höchstbetrag liegen, fallen für die Versicherten zusätzliche Mehr- kosten an. einheit ab dem 13. Monat ihrer Listung von den gesetzlichen Kran- kenkassen erstattet wird (Wird ein Vergütungsbetrag erst nach dem 13. Monat der Listung vereinbart, so tritt er rückwirkend ab dem 13. Monat der Listung in Kraft). Dieser Vergütungsbetrag tritt an die Stelle des eventuell durch einen Höchstbetrag gedeckelten Preises, den die Hersteller innerhalb der Erprobungszeit für ihre DiGA-Ver- ordnungseinheit selbst bestimmen. Der Vergütungsbetrag wird zwi- schen Hersteller und GKV-Spitzenverband vereinbart. Kommt eine Vereinbarung nicht zustande, legt die zuständige Schiedsstelle die- sen Vergütungsbetrag fest. Vergütungsbetrag hinterlegt. nen die Anwendung der DiGA-Verordnungseinheit einer digitalen Gesundheitsanwendung ausgeschlossen ist. Diese Information ist der DiGA-Verordnungseinheit zugeordnet. die näheren Angaben des Herstellers zu den wichtigen Anforderun- gen an Datenschutz und Datensicherheit der DiGA, die der DiGA- Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA- Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Antwor- ten zu vorgegebenen Fragen repräsentiert, die zu den drei mögli- chen Blöcken von Fragen mit den Tite ln „Datenschutz“, „Datensi- cherheit“ und „Zusatzanforderungen bei digitalen Gesundheitsan- wendungen mit sehr hohem Schutzbedarf“ gehören. Diese Informa- tionen sind dem DiGA-Antwortdatensatz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragen- block kann beispielsweise Fragen zu folgenden Einträgen enthalten:   - Werden personenbezogene Daten nach Erfüllung der Zwecke  nach § 4 Absatz 2 Satz 1 Nummer 1 bis 4 nicht weiter gespei-chert?
+- Werden personenbezogene Daten nach Erfüllung der Zwecke  nach § 4 Absatz 2 Satz 1 Nummer 1 bis 4 nicht weiter gespei-chert?
+
+nis gelistet. Sie entsprechen der Differenz zwischen dem Hersteller- preis und dem optional im Verzeichnis hinterlegten niedrigerem Höchstbetrag oder Vergütungsbetrag. Falls kein Höchstbetrag oder Vergütungsbetrag im Verzeichnis gelistet ist, ist der Zahlenwert 0,00 für die zusätzlichen Mehrkosten auszuweisen. gsbe- Aufnahme ins DiGA-Verzeichnis oder so lange, wie ihre Erprobungs- zeit anhält (max. 2 Jahre), grundsätzlich alleinig vom Hersteller be- stimmt. Für Gruppen vergleichbarer DiGA gelten allerdings Höchst- beträge, d. h. Preisgrenzen, bis zu denen die Krankenkassen die Kos- ten einer DiGA-Verordnungseinheit erstatten. Sollte der Hersteller- preis höher als der für die DiGA- Verordnungseinheit relevante Höchstbetrag liegen, fallen für die Versicherten zusätzliche Mehr- kosten an. einheit ab dem 13. Monat ihrer Listung von den gesetzlichen Kran- kenkassen erstattet wird (Wird ein Vergütungsbetrag erst nach dem 13. Monat der Listung vereinbart, so tritt er rückwirkend ab dem 13. Monat der Listung in Kraft). Dieser Vergütungsbetrag tritt an die Stelle des eventuell durch einen Höchstbetrag gedeckelten Preises, den die Hersteller innerhalb der Erprobungszeit für ihre DiGA-Ver- ordnungseinheit selbst bestimmen. Der Vergütungsbetrag wird zwi- schen Hersteller und GKV-Spitzenverband vereinbart. Kommt eine Vereinbarung nicht zustande, legt die zuständige Schiedsstelle die- sen Vergütungsbetrag fest. Vergütungsbetrag hinterlegt. nen die Anwendung der DiGA-Verordnungseinheit einer digitalen Gesundheitsanwendung ausgeschlossen ist. Diese Information ist der DiGA-Verordnungseinheit zugeordnet. die näheren Angaben des Herstellers zu den wichtigen Anforderun- gen an Datenschutz und Datensicherheit der DiGA, die der DiGA- Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA- Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Antwor- ten zu vorgegebenen Fragen repräsentiert, die zu den drei mögli- chen Blöcken von Fragen mit den Tite ln „Datenschutz“, „Datensi- cherheit“ und „Zusatzanforderungen bei digitalen Gesundheitsan- wendungen mit sehr hohem Schutzbedarf“ gehören. Diese Informa- tionen sind dem DiGA-Antwortdatensatz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragen- block kann beispielsweise Fragen zu folgenden Einträgen enthalten: 31
 
 
 ---
@@ -1050,7 +1136,9 @@ nis gelistet. Sie entsprechen der Differenz zwischen dem Hersteller- preis und d
 | **Verfügbare Sprachversionen** | Die Information zu den verfügbare Sprachversionen gibt in Form ei- |
 | **DiGA-API** | Das DiGA-API ist eine Softwareschnittstelle zur Bereitstellung der |
 
-Resultieren alle Fehler und Fehlfunktionen der Zugriffskontrolle in einer Ablehnung von Zugriffen?  ner Liste von Sprachbezeichnungen an, in welchen Sprachen das DiGA-Modul bereitgestellt wird. Diese Information ist dem DiGA- Modul zugeordnet. Daten aus dem DiGA-Verzeichnis nach §§ 33a und 139e Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch (SGB V) i.V.m. § 22 Ab- satz 1 Satz 1 Nr. 1 der Digitalen Gesundheitsanwendungen-Verord- nung (DiGAV). 
+#### (Anlage 26 BMV-Ä)
+
+Resultieren alle Fehler und Fehlfunktionen der Zugriffskontrolle in einer Ablehnung von Zugriffen?  ner Liste von Sprachbezeichnungen an, in welchen Sprachen das DiGA-Modul bereitgestellt wird. Diese Information ist dem DiGA- Modul zugeordnet. Daten aus dem DiGA-Verzeichnis nach §§ 33a und 139e Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch (SGB V) i.V.m. § 22 Ab- satz 1 Satz 1 Nr. 1 der Digitalen Gesundheitsanwendungen-Verord- nung (DiGAV). 32
 
 
 ---
@@ -1067,7 +1155,10 @@ Resultieren alle Fehler und Fehlfunktionen der Zugriffskontrolle in einer Ablehn
 | DiGA-API | Beschreibung der DiGA-API  https://simplifier.net/guide/diga/ |
 | KBV_ITA_VGEX_TECHNISCHE_ANLAGE_EVDGA | Technische Anlage eVDGA  https://update.kbv.de/ita-update/DigitaleMus- |
 
-die vertragsärztliche Versorgung vereinbarung.pdf vereinbarung_digitale_Vordrucke.pdf ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf lage 4a (BMV-Ä) nung/KBV_ITA_VGEX_Mapping_KVK.pdf ter/eVDGA/KBV_ITA_VGEX_Technische_An- lage_eVDGA.pdf
+#### (Anlage 26 BMV-Ä)
+
+die vertragsärztliche Versorgung vereinbarung.pdf vereinbarung_digitale_Vordrucke.pdf ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf lage 4a (BMV-Ä) nung/KBV_ITA_VGEX_Mapping_KVK.pdf ter/eVDGA/KBV_ITA_VGEX_Technische_An- lage_eVDGA.pdf33
+
 
 ---
 
@@ -1076,3 +1167,7 @@ Berlin, den 30.06.2023
 Kassenärztliche Bundesvereinigung, K.d.ö.R., Berlin
 
 GKV-Spitzenverband, K.d.ö.R., Berlin
+
+**(Anlage 26 BMV-Ä)**
+
+34

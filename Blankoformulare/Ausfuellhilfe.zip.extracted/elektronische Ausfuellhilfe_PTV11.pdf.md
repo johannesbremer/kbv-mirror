@@ -6,6 +6,9 @@
 
 ## AUSFÜLLHILFE: FORMBLATT PTV 11  INDIVIDUELLE  PATIENTENINFORMATION ZUR SPRECHSTUNDE
 
+Seite 1 von 3 / KBV / Ausfüllhilfe: Formblatt PTV 11
+
+Individuelle Patienteninformation zur Sprechstunde / 1. Januar 2025
 
 ---
 
@@ -21,9 +24,13 @@ Machen Sie hier Angaben zum Ergebnis der Psychotherapeutischen Sprechstunde im S
 
 Geben Sie der Patientin oder dem Patienten hier Empfehlungen zum weiteren Vorgehen. Eine Mehrfach-auswahl ist möglich. Wird eine ambulante Psychotherapie empfohlen, muss in Punkt 4 („Ihr nächster Ter-min“) angegeben werden, ob die Psychotherapie zeitnah erforderlich ist oder nicht. Das Ergebnis einer Psy-chotherapeutischen Sprechstunde kann auch sein, dass keine Maßnahme oder aber eine weitere ärztliche  Abklärung erforderlich ist. Ist eine weitere Abklärung bei einer Fachärztin oder einem Facharzt erforderlich,  geben Sie das entsprechende Fachgebiet an. Erläutern Sie im Freitextfeld die aus Ihrer Sicht empfohlenen  Maßnahmen. Machen Sie hier nähere Angaben zur Art der Maßnahme (z. B. um welche Präventionsmaß-nahme oder andere Maßnahme handelt es sich?). Handelt es sich bei der Empfehlung um eine Weiterbe-handlung, können Sie auch hierzu nähere Angaben machen (z. B. „Gruppentherapie sinnvoll“). Bitte achten  Sie auf eine für die Patientin oder den Patienten verständliche Sprache und erläutern Sie der Patientin oder  dem Patienten Ihre Empfehlungen zum Abschluss der Psychotherapeutischen Sprechstunde(n) mündlich.
 
+Seite 2 von 3 / KBV / Ausfüllhilfe: Formblatt PTV 11
+
+Individuelle Patienteninformation zur Sprechstunde / 1. Januar 2025
+
 ---
 
-- **Ihr nächster Termin**
+- **4.** **Ihr nächster Termin**
 
 Wenn Sie der Patientin oder dem Patienten eine ambulante psychotherapeutische Behandlung (*ambulante*  *Psychotherapie* und/oder *ambulante Psychotherapeutische Akutbehandlung*) empfehlen, geben Sie hier an,  ob diese in Ihrer Praxis durchgeführt werden kann oder nicht. Bei Durchführung in Ihrer Praxis können Sie  hier den nächsten Termin mit Uhrzeit bei Ihnen angeben.
 
@@ -52,3 +59,7 @@ Wünscht die Patientin oder der Patient die Weitergabe einer Kopie der individue
 [Themenseite Psychotherapie:](https://www.kbv.de/psychotherapie)[www.kbv.de/psychotherapie](https://www.116117.de/psychotherapie)[](https://www.116117.de/psychotherapie)
 
 [Formulare & Ausfüllhilfen zum Download:](https://www.kbv.de/psychotherapie)[www.kbv.de/html/formulare.php](https://www.kbv.de/psychotherapie)[](https://www.kbv.de/html/formulare.php)
+
+Seite 3 von 3 / KBV / Ausfüllhilfe: Formblatt PTV 11
+
+Individuelle Patienteninformation zur Sprechstunde / 1. Januar 2025

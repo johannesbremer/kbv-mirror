@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  2.02 Datum: 14.08.2019 Kennzeichnung: Öffentlich Status: In Kraft 
+Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  2.02 Datum: 14.08.2019 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2019
 
 
 ---
+
+**IT in der Arztpraxis** Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV Schnittstelle
 
 ### DOKUMENTENHISTORIE
 
@@ -25,7 +27,9 @@ Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  2.0
 | 2.00 | 28.09.2016 | KBV | Anpassung der Verfahrensweise |  | **5, 6** |
 | 1.08 | 03.08.2013 | KBV | Redaktionelle Korrektur |  | **6** |
 
-Klarstellung der Bereitstel- lungsfristen Redaktionelle Änderungen Anpassung der Kapitel 1, Punkt 6. und Kapitel 3, Punkt 6 an Änderungen der ARV- Schnittstelle Kapitel 1, Punkt 6 entfallen bzgl. des Medikationskataloges 
+[KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] * Version 2.02
+
+Klarstellung der Bereitstel- lungsfristen Redaktionelle Änderungen Anpassung der Kapitel 1, Punkt 6. und Kapitel 3, Punkt 6 an Änderungen der ARV- Schnittstelle Kapitel 1, Punkt 6 entfallen bzgl. des Medikationskataloges Seite 2 von 7
 
 
 ---
@@ -50,7 +54,16 @@ Klarstellung der Bereitstel- lungsfristen Redaktionelle Änderungen Anpassung de
 
 **6**
 
+**IT in der Arztpraxis**  Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle
+
+[KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] * Version 2.02
+
+Seite 3 von 7
+
+
 ---
+
+**IT in der Arztpraxis**  Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle
 
 # 1 Erstellung der ARV-Stammdateien
 
@@ -68,6 +81,10 @@ Falls eine ARV-Stammdatei vor dem Ablauf der angegebenen Gültigkeitsdauer von d
 
 Die korrekte Schreibweise muss unbedingt eingehalten werden, und es sollte sicher-gestellt sein, dass keine Abgrenzungsschwierigkeiten durch namensgleiche Kombina-tionspräparate auftreten können. Z. B. würde durch „Fempress *“ sowohl das Präparat  „Fempress®“ als auch das Kombinationspräparat „Fempress plus®“ mit erfasst. Glei-ches gilt für „Rasilez®“ und „Rasilez® plus“.
 
+[KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] * Version 2.02
+
+Seite 4 von 7
+
 
 ---
 
@@ -83,6 +100,13 @@ Mit der Kennzeichnung “*Name Leerzeichen Sternchen*„ wird ein bestimmtes Sta
 i. In der bereitgestellten Datei müssen die nach Nummer 1 bis 3 be-schriebenen Daten entsprechend den regionalen Informationen ange-passt werden.
 
 ii. Die bereitgestellte Datei kann um weitere regionale ARV-Stammdaten  erweitert werden.
+
+**IT in der Arztpraxis**  Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle
+
+[KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] * Version 2.02
+
+Seite 5 von 7
+
 
 ---
 
@@ -114,7 +138,19 @@ Wenn Sie eine fehlerhafte Angabe in einer Stammdatei feststellen, informieren Si
 4. Bitte senden Sie eine Rückmeldung bzw. Fehlermeldung an die KV mit CC an die KBV  [KBV_Arzneimittel@kbv.de](mailto:KBV_Arzneimittel@kbv.de) [arv@kbv.de](mailto:arv@kbv.de)[). Wenn die KV eine Korrektur der Stammda-](mailto:arv@kbv.de) [tei liefert, dann wird diese durch die KBV zeitnah im Internet zur Verfügung gestellt und](mailto:KBV_Arzneimittel@kbv.de) es wird durch einen ITA-Newsletter darauf hingewiesen.
 5. Wenn die von der Landesebene gelieferten PZN keinen Treffer in der Verordnungs-software ergeben, wird die Datei normal weiterbearbeitet. Bitte senden Sie eine Feh-lermeldung an die KV mit CC an die KBV (siehe 4.)
 
+**IT in der Arztpraxis**  Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle
+
+[KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] * Version 2.02
+
+Seite 6 von 7
+
 
 ---
 
 6. Wenn die von der Landesebene gelieferten Standard-Aggregate oder Handelsnamen  keinen Treffer in der Verordnungssoftware ergeben, wird die Datei normal weiterbear-beitet. Bitte senden Sie eine Fehlermeldung an die KV mit CC an die KBV (siehe 4.)
+
+**IT in der Arztpraxis**  Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle
+
+[KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] * Version 2.02
+
+Seite 7 von 7

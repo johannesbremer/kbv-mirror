@@ -8,6 +8,8 @@
 
 Geben Sie hier die Anamnese und ggf. den bisherigen Verlauf der Krankenbehandlung einschließlich der  Beschwerden des Kindes an.
 
+Stand: August 2018 1
+
 
 ---
 
@@ -42,3 +44,5 @@ Geben Sie hier an, welche Anforderungen an die Vorsorge- oder Rehabilitationsein
 [Themenseite Vorsorge/Kur:](http://www.kbv.de/320215)[http://www.kbv.de/320215](http://www.kbv.de/320215)[](http://www.kbv.de/320215)
 
 [Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 5 MB):](http://www.kbv.de/320215) [http://www.kbv.de/873744](http://www.kbv.de/873744)[](http://www.kbv.de/873744)
+
+Stand: August 2018 2

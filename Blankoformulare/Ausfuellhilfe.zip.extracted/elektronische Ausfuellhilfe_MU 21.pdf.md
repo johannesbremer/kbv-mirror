@@ -3,7 +3,11 @@
 
 # MUSTER 21  ÄRZTLICHE  BESCHEINIGUNG FÜR DEN BEZUG VON  KRANKENGELD BEI ERKRANKUNG EINES  KINDES
 
-JULI 2024 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
+## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
+
+Seite 1 von 3 / KBV / Muster 21  Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes /
+
+JULI 2024 1. Oktober 20201. Juli 2024
 
 \|  |
 \|---|
@@ -28,6 +32,8 @@ Das Feld ist bei einem Unfall in einer Kita oder Schule (auch auf dem Weg aus de
 
 Das Feld ist anzukreuzen, wenn kein Kita- oder Schulunfall vorliegt, sondern ein sonstiger Unfall oder eine  Unfallfolge.
 
+Seite 2 von 3 / KBV / Muster 21 – Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes / 1. Juli 2024
+
 
 ---
 
@@ -38,3 +44,5 @@ Leistungsanspruch nach SGB XIV ist hier zu kennzeichnen.
 **Mehr Informationen**
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 15,5 MB): [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Seite 3 von 3 / KBV / Muster 21 – Ärztliche Bescheinigung für den Bezug von Krankengeld bei Erkrankung eines Kindes / 1. Juli 2024

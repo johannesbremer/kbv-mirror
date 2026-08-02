@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EHKS]
 
+Seite 1 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
@@ -55,6 +57,10 @@ INHALT
 
 **27**
 
+Seite 2 von 27 / KBV / Pruefpaket Hautkrebs-Screening /
+
+Version: 3.03 / 30. Mai 2025
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Konditionaler Prüffall 8007 Versichertendaten 1– Ersatzverfahren Versichertendaten 2– Ersatzverfahren Versichertendaten 3– Ersatzverfahren 
 
 
@@ -68,6 +74,8 @@ Abbildung 2: Testdatenvalidierung 23
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
+Seite 3 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
 ---
 
 DOKUMENTENHISTORIE
@@ -80,7 +88,12 @@ DOKUMENTENHISTORIE
 | 3.00 | 15.08.2019 | KBV | Aufnahme eines Testfalls    Überarbeitung des | Schnittstellenversion        Überführung ins neue | 24          Alle |
 | 2.08 | 08.11.2018 | KBV | Komplettanpassung der    Streichung des | Schnittstellenversion      Abkündigung des | 10ff |
 
-Versichertendaten. 8005 zu erfassenden Geburtsdatums  Prüffälle an 2.33 8005 zu erfassenden Geburtsdatums  Personalien in der Prüffallauflistung Patientennummer für die Testdatenvalidierung zur 2.33 Layouts Prüffälle an 2.32 eVersandlistenmoduls Servers durch neuen „Update-Server“ der KBV: 2.33 ist ab 01.10.2019 zu verwenden 2.33 ist ab 01.10.2019 zu verwenden Corporate Design 2.32 ist ab 01.01.2019 zu verwenden eVersandlistenmoduls
+Seite 4 von 27 / KBV / Pruefpaket Hautkrebs-
+
+Screening / Version: 3.03 / 30. Mai 2025
+
+Versichertendaten. 8005 zu erfassenden Geburtsdatums  Prüffälle an 2.33 8005 zu erfassenden Geburtsdatums  Personalien in der Prüffallauflistung Patientennummer für die Testdatenvalidierung zur 2.33 Layouts Prüffälle an 2.32 eVersandlistenmoduls Servers durch neuen „Update-Server“ der KBV: 2.33 ist ab 01.10.2019 zu verwenden 2.33 ist ab 01.10.2019 zu verwenden Corporate Design 2.32 ist ab 01.01.2019 zu verwenden eVersandlistenmoduls 
+
 
 ---
 
@@ -110,6 +123,8 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 - **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 5 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 ---
 
@@ -149,6 +164,7 @@ KBV_ITA_VGEX_XML-Schnittstellen]. Diese müssen fehlerfrei gegen das jeweils akt
 
 Kapitel 1.3) hochgeladen und geprüft werden.
 
+Seite 6 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 ---
 
@@ -179,6 +195,8 @@ Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werd
 Im Rahmen der Prüfung sind die regulären
 
 ### Prüfstammdaten
+
+Seite 7 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 Stammdateien zu verwenden.
 
@@ -213,8 +231,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Dokumentationsdatum (Kopfdatum):** | 07.01.2020  07.01.2024 |
 | **Zu verwendende Prüfnummer:** | Y/53/0807/36/001 |
 
-Glücklich/Müller Dermatologie Allgemeinmedizin 
+Seite 8 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+Glücklich/Müller Dermatologie Allgemeinmedizin
 
 ---
 
@@ -231,6 +250,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **8001** | Prof Dr. Karl-Friedrich Graf | Ersatzverfahren (s. Anhang 4.1) |
 | **8005** | Guido Tils | Ersatzverfahren (s. Anhang 4.2) |
 | **8007** | Alexander Laas | Ersatzverfahren (s. Anhang 4.3) |
+
+Seite 9 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 ### Auflistung der Prüffälle
 
@@ -277,6 +298,8 @@ Die Versichertendaten von Prof. Dr. Karl-Friedrich Graf Freiherr von Schaumberg 
 | **Gesundheitsuntersuchung** | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt | Ja |
 
+Seite 10 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
 Anhang 4.1) im
 
 
@@ -319,8 +342,9 @@ Die Versichertendaten von Brigitte Neuhaus (XML_06) einlesen und speichern.
 | **Gesundheitsuntersuchung** | |
 | Gleichzeitig Gesundheitsuntersuchung durchgeführt |  |
 
-Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden. Dokumentationsbogen ein 
+Seite 11 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Protokolle zu den fehlerhaften Angaben oder Screenshots, wenn die Fehler softwareseitig erkannt werden. Dokumentationsbogen ein
 
 ---
 
@@ -381,7 +405,10 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum | 06.01.2020  06.01.2024 |
 
-Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
+Seite 12 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
+Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen 
+
 
 ---
 
@@ -424,8 +451,9 @@ Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen un
 | Aktinische Keratose |  |
 | Andere hier nicht relevante Hautveränderung |  |
 
-durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading 
+Seite 13 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
 
@@ -486,6 +514,8 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
+Seite 14 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
 Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
 ---
@@ -529,8 +559,9 @@ Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einles
 | Aktinische Keratose | Nein |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
-durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading 
+Seite 15 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
 
@@ -577,8 +608,9 @@ Anhang 4.2) im Ersatzverfahren erfassen und speichern.
 | Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings |  |
 | Überweisender Arzt hat HKS durchgeführt |  |
 
-softwareseitig erkannt werden. sind. 
+Seite 16 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+softwareseitig erkannt werden. sind.
 
 ---
 
@@ -617,8 +649,9 @@ softwareseitig erkannt werden. sind.
 | Aktinische Keratose |  |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
-durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading 
+Seite 17 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
 
@@ -686,6 +719,8 @@ durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom
 |  |  |
 |  |  |
 
+Seite 18 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
 entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading Konstellation 7:
 
 ---
@@ -729,8 +764,9 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 | Aktinische Keratose | Ja |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
-entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading 2 mm 
+Seite 19 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading 2 mm
 
 ---
 
@@ -751,8 +787,9 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 \| **Szenario 2** |
 \| Weisen Sie bitte die korrekte Systemfunktionalität nach Pflichtfunktion P1-40 nach. Es werden |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS Systemreaktion im Sinne der Pflichtfunktion P1-50 erwartet. Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen. 
+Seite 20 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS Systemreaktion im Sinne der Pflichtfunktion P1-50 erwartet. Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
 
 ---
 
@@ -813,6 +850,8 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS Syst
 | **Untersuchungsdatum** | |
 | Untersuchungsdatum | 01.01.2020  01.01.2024 |
 
+Seite 21 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
 Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs-Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist. Versichertendaten: Die Versichertendaten von Alexander Laas ( ) im Ersatzverfahren erfassen und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
 ---
@@ -856,8 +895,9 @@ Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über di
 | Aktinische Keratose | Nein |
 | Andere hier nicht relevante Hautveränderung | Nein |
 
-durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading 
+Seite 22 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
+durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
 
@@ -872,6 +912,8 @@ Abbildung 2: Testdatenvalidierung
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 23 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 ---
 
@@ -902,6 +944,9 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 00 |
 
+Seite 24 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
+
+
 ---
 
 ## 4.2 VERSICHERTENDATEN 2– ERSATZVERFAHREN
@@ -929,8 +974,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 00 |
 
-30.09.2059 
-
+Seite 25 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025 30.09.2059
 
 ---
 
@@ -960,8 +1004,7 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
 
-30.09.2059 
-
+Seite 26 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025 30.09.2059
 
 ---
 
@@ -991,4 +1034,12 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Versorgung TestschlüsselKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+________________
+
+Seite 27 von 27 / KBV / Pruefpaket Hautkrebs-Screening /
+
+Version: 3.03 / 30. Mai 2025
+
+Versorgung Testschlüssel

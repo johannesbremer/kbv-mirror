@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Arztverzeichnis-Stammdatei 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft 
+Arztverzeichnis-Stammdatei 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2018
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 ### DOKUMENTENHISTORIE
 
@@ -22,7 +24,10 @@ Arztverzeichnis-Stammdatei 1.08 Datum: 01.02.2016 Kennzeichnung: Öffentlich Sta
 |---|---|---|---|---|---|
 | 1.08 | 01.02.2016 | KBV | **AV-Stammsatz ** • | Anpassung gemäß Anlage | **8** **10** **10** **11** |
 
-Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnahme Kapitel 5.3  28 BMV-Ä
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnahme Kapitel 5.3  28 BMV-Ä Seite 2 13 von
+
 
 ---
 
@@ -86,6 +91,12 @@ Felder FK 0201 (BSNR) / FK 0200 (NBSNR)  - Aufnahme der Regeln 061, 826 - Aufnah
 
 **13**
 
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Seite 3 13 von
+
 
 ---
 
@@ -121,6 +132,13 @@ Demzufolge ergibt sich für die Längenberechnung eines Feldes:
 *Feldinhalt + 9* Bytes
 
 Anmerkung: Die Reihenfolge der Betriebsstätten-/Arztnummern ergibt sich aus einem  Zeichenkettenvergleich der Nummern, *nicht* durch einen numerischen Vergleich. Hierdurch  wird insbesondere dem Umstand Rechnung getragen, dass Betriebsstätten- /Arztnummern führende Nullen besitzen können. Durch diese Sortierweise ist gewährleistet, dass die  Datensätze zusätzlich aufsteigend nach KV-Kennungen angeordnet sind, da die ersten  beiden Stellen der Betriebsstättennummer diese Kennung darstellen.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Seite 4 13 von
+
 
 ---
 
@@ -174,10 +192,18 @@ Für die erste Lieferung des Quartals 3/04 ergibt sich also z.B.:
 Quelle:  [http://www.uni-muenster.de/inform/syziso](http://www.uni-muenster.de/inform/syziso)
 Die Spalten 0, 1, 8 und 9 sowie Position 7F enthalten Steuerzeichen,  Position
 A0 das feste Leerzeichen und AD den Silbentrennstrich.
-
 ```
 
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Seite 5 13 von
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 # 2 Satztabelle
 
@@ -243,8 +269,14 @@ Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei  Bed
 
 ### nicht programmtechnisch erfolgen kann.
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Seite 6 13 von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 ### k = bedingtes Kannfeld
 
@@ -284,12 +316,18 @@ Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldar
 | 8000 | 1 | Satzart | M |  | AVS9 = AV- |
 | 9208 | 1 | Gesamtzahl | M |  | Zahl für KV |
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
 ) gebunden. Ein bedingtes
 
-Headersatz Datei erstellt wurde Gültigkeit der AV- Stammdatei Datensatzbeschrei 3 (LANR) Stammsatz Betriebsstättennu überlesen werden Betriebsstättendatensätze Endesatz /Bezirksstelle bzw. KBV ### Bedingung
+### Bedingung
+
+Headersatz Datei erstellt wurde Gültigkeit der AV- Stammdatei Datensatzbeschrei 3 (LANR) Stammsatz Betriebsstättennu überlesen werden Betriebsstättendatensätze Endesatz /Bezirksstelle bzw. KBV Seite 7 13 von
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 # 3 Feldtabelle
 
@@ -331,14 +369,20 @@ aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direk
 | 9222 | ADT-Referenzversion | ≤ | alnum | 031 |  | ADT0199.01 |
 | 9901 | Systeminternes Feld | ≤ | alnum | 999 |  | abc<de-FG |
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
 ### - , wobei
 
 *TT* = 01 - 31, *MM*
 
-kenn (LANR) Betriebsstättendatensätze  60 ### ein möglicher Feldinhalt
+### ein möglicher Feldinhalt
+
+kenn (LANR) Betriebsstättendatensätze  60 Seite 8 13 von
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 # 4 Regeltabelle
 
@@ -376,7 +420,14 @@ Feldtabelle
 
 Regeltabelle
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Seite 9 13 von
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 **4.1 Regeltabelle: AV-Stammdatei**
 
@@ -394,9 +445,14 @@ Regeltabelle
 | 826 | Kontext | Wenn der Inhalt der Stellen 1-2 des Feldes  Wenn der Inhalt der Stellen 1-2 des Feldes |  |
 | 999 | besondere | sollte beim Import überlesen werden, kann | Für Exportprogramme für interne |
 
-Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a SGB V erbringen  81, 83, 85-91, 93-96, 98, 99 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. mehrfach vorkommen  12, 01 (Anlage 28 BMV-Ä) Kennzeichnungszwecke   88)
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Hinweise BAR-Schlüsselverzeichnisses „999999900“ Rahmen von § 75 Absatz 1a SGB V erbringen  81, 83, 85-91, 93-96, 98, 99 0200 bzw. des Feldes 0201  = 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 061. 0200 bzw. des Feldes 0201 ≠ 35, dann gilt für den Inhalt des Feldes 0200 bzw. des Feldes 0201 die Formatregel 049. mehrfach vorkommen  12, 01 (Anlage 28 BMV-Ä) Kennzeichnungszwecke   88) Seite 10 13von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 # 5 Besondere Hinweise
 
@@ -430,6 +486,8 @@ Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht 
 
 ### abgelaufen sind.
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version
+
 **Lebenslange Arztnummer (LANR)**
 
 **ID**
@@ -456,12 +514,23 @@ Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht 
 
 **Seriennummer**
 
+1.08
+
+Seite 11 13von
+
 
 ---
 
 ## 5.5 Erläuterungen zum systeminternen Feld (FK 9901)
 
 Das Feld mit der Kennung “9901” beinhaltet systeminterne Parameter und muss für den  Import im Allgemeinen nicht berücksichtigt werden . Dieses Feld kann in jeder Satzart an  beliebiger Stelle in beliebiger Anzahl übertragen werden.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Seite 12 13von
+
 
 ---
 
@@ -470,3 +539,9 @@ Das Feld mit der Kennung “9901” beinhaltet systeminterne Parameter und muss 
 Mit dem Export der Datensätze in ein Softwaresystem geht der amtliche Charakter der Daten  verloren und die Kassenärztliche Bundesvereinigung übernimmt danach keine Gewähr für die  Richtigkeit und Vollständigkeit der Daten.
 
 Die vorliegende Datensatzbeschreibung der Arzt-Stammdatei richtet sich nach den  etablierten Standards der xDT-Datensatzbeschreibung. Im Hinblick auf gesetzliche und  vertragliche Bestimmungen sowie Beschlüsse der ärztlichen Selbstverwaltungsorgane  bleiben Änderungen der vorliegenden Richtlinien vorbehalten.
+
+**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+
+Seite 13 13von

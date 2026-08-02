@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_FMEX_AAZ_LDK]
 
+Seite 1 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / 15. Mai 2024
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
 
 
@@ -44,9 +46,14 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht]
+Seite 2 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
+
+Rechtsform anzugeben] vorhanden] Systempfleger vom Antragsteller abweicht] 
+
 
 ---
+
+Antragssteller:
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
@@ -77,9 +84,13 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
+Seite 3 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
+
 Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
+
+Antragssteller:
 
 # 2 REALISIERUNG VON ANFORDERUNGEN
 
@@ -94,6 +105,9 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 | **LDT-Auftrag** | ☐ | ☐ |
 | **LDT-Befund** | ☐ | ☐ |
 | **LDT-Befund- Zervix-Zytologie** | ☐ |  |
+
+Seite 4 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
+
 
 ---
 
@@ -116,10 +130,18 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **Telefonnummer** |  |
 | **E-Mail-Adresse** |  |
 
+________________
+
 Diese Information ist verpflichtend anzugeben
+
+Seite 5 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
+
+Antragssteller:
 
 
 ---
+
+Antragssteller:
 
 # 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -146,8 +168,11 @@ Diese Information ist verpflichtend anzugeben
 | LDT-Befund  Zervix-Zytologie/ | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | LDT-Befund - Import | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
 
-Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Pathologie Erweiterungszertifizierung 1 LDT-Befund-Export Vollständig beinhaltet LDT-Befund  Export Zervix-Zytologie/Pathologie
+________________  1 LDT-Befund-Export Vollständig beinhaltet LDT-Befund  Export Zervix-Zytologie/Pathologie
 
+Seite 6 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
+
+Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Pathologie Erweiterungszertifizierung
 
 ---
 
@@ -164,6 +189,10 @@ Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
 - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung – Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
+Antragssteller:
+
+Seite 7 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
+
 
 ---
 
@@ -173,6 +202,10 @@ Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem Antrag aufgeführten Aussagen.
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+
+Antragssteller:
+
+Seite 8 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
 
 
 ---
@@ -190,3 +223,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Antragssteller:
+
+Seite 9 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024

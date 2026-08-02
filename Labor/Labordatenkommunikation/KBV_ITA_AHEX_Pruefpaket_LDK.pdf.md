@@ -8,13 +8,16 @@
 |  |  |
 |---|---|
 
+Seite 1 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
 \|  |
 \|---|
 
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2023  VERSION: 1.23  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-KASSENÄRZTLICHE BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
+KASSENÄRZTLICHE BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS 
+
 
 ---
 
@@ -94,6 +97,7 @@ KASSENÄRZTLICHE BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 
 **40**
 
+Seite 2 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -106,6 +110,8 @@ Abbildung 1: Struktur des ZIP-Archives
 7  Abbildung 3: Struktur des ZIP-Archives
 
 32  Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export 32
+
+Seite 3 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -122,6 +128,8 @@ DOKUMENTENHISTORIE
 | 1.17 | 09.08.2019 | KBV | Anpassung Prüffälle        Neuer Prüffall | Änderung der technischen  LDT3.2.1  Zervix-Zytologie | 13, 19,  19, 21    28  27 |
 | 1.16 | 15.02.2019 | KBV | Anpassung Prüffälle | Entfernung der  Fachliche Korrektheit der  Redaktionelle Änderung | 13, 19    29    33, 35, 38 |
 | 1.15 | 15.05.2018 | KBV | Anpassung Prüffälle | Änderung der technischen  LDT3.1.0 | 13, 19,  19, 21    25, 29,   37, 38 |
+
+Seite 4 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 PF05, PF065 und TE02 PF10, PF01, PF02, PF03, PF04, PF05, PF06, PF07_1, PF07_2, PF10, PF11, TE05, TE01, TE02, TE06, TE04 die Telematikinfrastrukur Bestätigungsschreibens der gematik Datumsvorgaben Anlage zu Anlage 4a des BMV-Ä zum 01.10.2019 Ausnahmeindikation Prüffälle 01 und 02 Anlage zu Anlage 4a des BMV-Ä zum 01.07.2018 
 
@@ -154,6 +162,8 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 - 3. Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragssteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen. Bei  Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur Sichtprüfung auffordern.
 - 4. Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten  Unterlagen mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen  werden.
 
+Seite 5 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
 ---
 
 **HINWEIS**
@@ -184,6 +194,7 @@ Für das vorliegende Zertifizierungsthema kann auch die Testdatenvalidierung des
 
 [Alle erforderlichen Unterlagen stehen im Internet zum Download unter](https://update.kbv.de/ita-update/)[https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)[](https://update.kbv.de/ita-update/) bereit. In diesem Zusammenhang muss das vierte Kapitel [Referenzierte Dokumente](https://update.kbv.de/ita-update/)[berücksichtigt werden.](https://update.kbv.de/ita-update/)
 
+Seite 6 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -203,6 +214,7 @@ Beispiel einer gültigen .ZIP-Datei mit dem Bereich „DigitalesMuster10A Export
 
 Abbildung 2: Struktur des ZIP-Archives für DigitalesMuster10A-Export
 
+Seite 7 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -248,6 +260,7 @@ Folgende Dateinamenskonvention für die Dokumente ist verbindlich:
 
 - *.pdf Beispiele: Übertragungsweg01.pdf oder Übertragung.pdf
 
+Seite 8 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -288,6 +301,7 @@ Daten des Einsenders: In den Feldern BSNR und LANR innerhalb des Personalienfeld
 | **Lebenslange Arztnummer (LANR)** | 776299002 |
 | **Arztname** | gemäß der zur Signatur verwendeten Testkarte  Dr. med. Topp-Glücklich |
 
+Seite 9 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -331,7 +345,10 @@ Daten des Labors: Das Labor, welches die Leistung erbringt.
 | **Laborbezeichnung** | Laborarztpraxis Müller |
 | **Laborname** | Dr. Richard Müller |
 
-Hauptbetriebsstätte
+Seite 10 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Hauptbetriebsstätte 
+
 
 ---
 
@@ -373,6 +390,7 @@ Daten des zytologisch tätigen Arztes (Prüffall PF07_2):
 
 Werden in den LDT Prüffällen zu den Werten von unbedingten LDT Mussfeldern und/oder bedingten LDT  Mussfeldern der aktuell gültigen LDT 3.0 Datensatzbeschreibung [EXT_ITA_VGEX_LDT  3_0_X_Gesamtdokument] keine Vorgaben gemacht, so sind diese frei zu wählen.
 
+Seite 11 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -383,6 +401,8 @@ Die Importdateien für die einzelnen Prüffälle werden im Zertifizierungsportal
 ## 1.9 SIGNIERUNG DER MUSTER 6, 10 UND 39
 
 Auf die Muster 6, 10 und 39 ist eine qualifizierte elektronische Signatur (QES) aufzubringen. Die Erstellung  der QES erfordert neben einem Zugang zur Telematikinfrastruktur einen Konnektor, ein eHealth-Kartenterminal und einen elektronischen Heilberufsausweis (eHBA) für Ärzte. Über die gematik sind  entsprechende HBA-Testkarten für Ärzte mit unterschiedlichen Namen erhältlich.
+
+Seite 12 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -424,9 +444,13 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
+Seite 13 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
 ## EXPORT
 
-Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01] Abschnitt 1.6.3 **Digitales Muster**
+**Digitales Muster**
+
+Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01] Abschnitt 1.6.3 
 
 
 ---
@@ -450,7 +474,13 @@ Eike Flüchtling [EV01]
 | **Befund / Medikation  (324 Zeichen)** | 123456789012345678901234567890123456789012345678901234 |
 | **Auftrag  (1512 Zeichen)** | 123456789012345678901234567890123456789012345678901234 |
 
-gemäß § 116b SGB V ESS / bei nach Abschnitt 31.2 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678-
+Seite 14 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+```
+-
+```
+
+gemäß § 116b SGB V ESS / bei nach Abschnitt 31.2 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678 901234567890123456789012345678901234567890123456789012 345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 567890123456789012345678901234567890123456789012345678
 
 
 ---
@@ -481,7 +511,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 Das von der KBV bereitgestellte PDF-Dokument „Muster_06_Schimmelpfennig“ wird in den  Zertifizierungsgegenstand importiert.
 
-345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 123456789012345678901234567890123456789012345678901234 567890123456789012345678901234567890123456789012345678 des Arztes sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 06 - Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Verfügung.
+Seite 15 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+345678901234567890123456789012345678901234567890123456 789012345678901234567890123456789012345678901234567890 123456789012345678901234567890123456789012345678901234 567890123456789012345678901234567890123456789012345678 des Arztes sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 06 - Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Verfügung. 
+
 
 ---
 
@@ -525,7 +558,10 @@ Eike Flüchtling [EV01]
 | **Befund / Medikation** | Befund |
 | **Auftrag Anforderungen** | Untersuchung auf Schilddrüsenunterfunktion |
 
-Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 10 als PDF-Dokument für Eike Flüchtling [EV01] Abschnitt 1.6.3 Behandlung
+Seite 16 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 10 als PDF-Dokument für Eike Flüchtling [EV01] Abschnitt 1.6.3 Behandlung 
+
 
 ---
 
@@ -566,7 +602,13 @@ Friedrich Schaumbërg [XML_21]
 | **Befundübermittlung eilt, Übermittlung an** | ja |
 | **Telefon** | nein |
 
-Zertifizierungsgegenstand.  Dateinamenskonvention beachten [ Abschnitt 1.6.3 -
+Seite 17 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+```
+-
+```
+
+Zertifizierungsgegenstand.  Dateinamenskonvention beachten [ Abschnitt 1.6.3 
 
 
 ---
@@ -584,6 +626,7 @@ Zertifizierungsgegenstand.  Dateinamenskonvention beachten [ Abschnitt 1.6.3 -
 - 3. digitales Muster exportieren signieren
 - 4. digitales Muster exportieren signieren
 
+Seite 18 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -635,7 +678,10 @@ Eike Flüchtling [EV01]
 | **Ausstellungsdatum** | 11.01.2021 |
 | **Kurativ / Präventiv / bei belegärztl. Behandlung** | Kurativ |
 
-sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 10 hierfür bereits eine Zulassung hat. Verfügung. d mit Export“ beantragt oder Zertifizierungsgegenstand.
+Seite 19 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+sowie die Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  werden, wenn der Antragsteller „Muster 10 hierfür bereits eine Zulassung hat. Verfügung. d mit Export“ beantragt oder Zertifizierungsgegenstand. 
+
 
 ---
 
@@ -678,7 +724,10 @@ Friedrich Schaumbërg [XML_21]
 | **Auftrag** | Glukose, Sonstiges |
 | **Sonstiger Aufträage** | 123456789012345678901234 |
 
-kleines Blutbild, Quick, PTT, ASL, Calcium, CK, Eisen, Zertifizierungsgegenstand.  Digitales Muster 10A als PDF-Dokument für Friedrich Schaumbërg Großes Blutbild, Blutsenkung, Quick, Bilirubin gesamt, IgG,
+Seite 20 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+kleines Blutbild, Quick, PTT, ASL, Calcium, CK, Eisen, Zertifizierungsgegenstand.  Digitales Muster 10A als PDF-Dokument für Friedrich Schaumbërg Großes Blutbild, Blutsenkung, Quick, Bilirubin gesamt, IgG, 
+
 
 ---
 
@@ -719,7 +768,11 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
-Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Optional: Die importierten Daten müssen als Muster 10 - Befund exportiert werden, wenn der Antragsteller Muster 10 - Befund mit Export  beantragt oder hierfür bereits eine Zulassung hat. Verfügung. Zertifizierungsgegenstand.  - 1. Versichertendaten aus der XML-Datei einlesen:
+- 1. Versichertendaten aus der XML-Datei einlesen:
+
+Seite 21 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Optional: Die importierten Daten müssen als Muster 10 - Befund exportiert werden, wenn der Antragsteller Muster 10 - Befund mit Export  beantragt oder hierfür bereits eine Zulassung hat. Verfügung. Zertifizierungsgegenstand.  
 
 
 ---
@@ -753,7 +806,10 @@ Malta [XML_20]
 | **Erläuterungen  (130  Zeichen)** | Zervixkarzinom, das die Gebärmuttergrenze |
 | **Vertragsarztstempel / Unterschrift des Arztes** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
 
-(vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung überschritten hat, aber weder die Beckenwand noch das untere Drittel der Vagina erreicht
+Seite 22 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+(vollständig/unvollständig/keine/unklar) oder Chemotherap… Hormonanwendung -Testuntersuchung überschritten hat, aber weder die Beckenwand noch das untere Drittel der Vagina erreicht 
+
 
 ---
 
@@ -799,7 +855,10 @@ Malta [XML_20]
 | **Liegt HPV-Typ 16 oder HPV-Typ 18 vor?** | ja |
 | **Bemerkungen  (195 Zeichen)** | € 78901234567890123456789012345678901 |
 
-Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456
+Seite 23 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456 
+
 
 ---
 
@@ -835,7 +894,11 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Prüffallnummer: PF08_1**
 
-zytologisch tätigen Arztes Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Verfügung. **Aktionen, die durch den Antragsteller durchgeführt werden:**
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+Seite 24 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+zytologisch tätigen Arztes Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Verfügung. 
 
 
 ---
@@ -882,7 +945,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Material** | |
 | **Probenmaterial-Ident:** | SE |
 
-Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Verfügung.
+Seite 25 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Verfügung. 
+
 
 ---
 
@@ -924,8 +990,10 @@ Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang so
 | **Dateiformat** | PDF |
 
 - 4. Eine LDT Befund Datei (.ldt) erstellen und exportieren.
-- -kodierte_Anlage) zum Laborergebnisbericht
 
+Seite 26 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+- -kodierte_Anlage) zum Laborergebnisbericht
 
 ---
 
@@ -968,9 +1036,13 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Zytologische Kontrolle** | ja |
 | **Grund der Nachkontrolle** | nach Östrogenbehandlung |
 
+Seite 27 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
 ## EXPORT
 
-Die exportierte LDT-Datei. **LDT-Befund-**
+**LDT-Befund-**
+
+Die exportierte LDT-Datei. 
 
 
 ---
@@ -1019,7 +1091,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Testziel** | Import des LDT-Befundes Zytologie Krebsvorsorge |
 | **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [ Stammdaten] |
 
--Cent Datei aufgenommen worden sein. Screenshots über den Ablauf.  Export des enthaltenden Anhangs. Optional: Die importierten Daten müssen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat.
+Seite 28 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+-Cent Datei aufgenommen worden sein. Screenshots über den Ablauf.  Export des enthaltenden Anhangs. Optional: Die importierten Daten müssen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. 
+
 
 ---
 
@@ -1064,7 +1139,10 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 | **Eingeschränkter Leistungsanspruch gemäß §16** | ja |
 | **Eintragung nur bei Weiterüberweisungbehandlung** | ja (Daten des Erstveranlassers) |
 
-Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Datei aufgenommen worden sein. Die exportierte LDT-Datei Behandlung Abs. 3a SGB V
+Seite 29 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Datei aufgenommen worden sein. Die exportierte LDT-Datei Behandlung Abs. 3a SGB V 
+
 
 ---
 
@@ -1106,7 +1184,10 @@ Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-
 | **MaterialaAbnahme/Entnahmeuhrzeit** | 12:15 Uhr |
 | **Dringlichkeit** | Eilig |
 
-Die exportierte LDT-Datei
+Seite 30 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Die exportierte LDT-Datei 
+
 
 ---
 
@@ -1135,6 +1216,8 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 - 1. Die, von der KBV bereitgestellte, LDT-Datei „z01PF12.ldt“ wird importiert.
 - 2. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller  LDT-Auftrag mit Export beantragt oder hierfür bereits eine Zulassung hat.
 
+Seite 31 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
 Großes Blutbild, Blutsenkung, Quick, Bilirubin Zeichen) 234568 Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-Auftrag exportiert werden, wenn der Antragsteller „LDT Auftrag mit Export“ beantragt oder hierfür bereits eine Zulassung hat. 
 
 
@@ -1151,6 +1234,8 @@ Abbildung 3: Struktur des ZIP-Archives
 Bereiche, die nicht getestet werden, dürfen nicht in der .zip-Datei vorkommen.
 
 Abbildung 4: Struktur des ZIP-Archives mit LDT-Befund-Export
+
+Seite 32 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -1188,7 +1273,10 @@ Malta [XML_20]
 | **Vertragsarztstempel / Unterschrift des Arztes** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
 | **Unterschrift (QES)** | „elektr. Signatur“ des Einsenders einfügen |
 
-Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen ESS / bei belegärztl.icher Behandlung nach Abschnitt 31.2
+Seite 33 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen ESS / bei belegärztl.icher Behandlung nach Abschnitt 31.2 
+
 
 ---
 
@@ -1229,7 +1317,10 @@ Malta [XML_20]
 | **Auftrag Anforderungen (34 Zeichen)** | Test-Auftrag sollte 42 entsprechen |
 | **Vertragsarztstempel / Unterschrift überw. Arzt** | 398212400  Praxis Dr. med. Heribert Topp-Glücklich  776299002  Schölz  Marian  Musterstr. 1  64297 Darmstadt  06151 / 1111111  06151 / 2222222 |
 
-Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen Behandlung
+Seite 34 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen Behandlung 
+
 
 ---
 
@@ -1273,7 +1364,10 @@ Malta [XML_20]
 | **Auftrag Anforderungen** | alkalische Phosphatase Fibrinogen, Eiweiß gesamt, |
 | **Sonstiger Aufträage (10 Zeichen)** | Auftrag 42 |
 
-Digitales Muster 10A als PDF-Dokument für Malta. Prüfunterlagen IgM, Kalium, Kreatinin, LDL-Cholesterin, Sonstiges
+Seite 35 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Digitales Muster 10A als PDF-Dokument für Malta. Prüfunterlagen IgM, Kalium, Kreatinin, LDL-Cholesterin, Sonstiges 
+
 
 ---
 
@@ -1319,7 +1413,10 @@ Malta [XML_20]
 | **Klinischer Befund** | auffällig |
 | **Erläuterungen (14)** | Zervixkarzinom |
 
-Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/unvollständig/keine/unklar) oder Chemotherap… -Testuntersuchung Hormonanwendung
+Seite 36 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/unvollständig/keine/unklar) oder Chemotherap… -Testuntersuchung Hormonanwendung 
+
 
 ---
 
@@ -1360,7 +1457,10 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 | **Ergebnisstatus** | Befundergebnis |
 | **Ergebnis-Wert** | 4.7 |
 
-Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3  Prüfunterlagen.
+Seite 37 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3  Prüfunterlagen. 
+
 
 ---
 
@@ -1404,7 +1504,10 @@ Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3  
 | **Telefonnummer** | 06151 / 1111111 |
 | **Faxnummer** | 06151 / 2222222 |
 
-Wertes nach Norm Wertes  Die exportierte LDT-Datei. Behandlung Abs. 3a SGB V
+Seite 38 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
+
+Wertes nach Norm Wertes  Die exportierte LDT-Datei. Behandlung Abs. 3a SGB V 
+
 
 ---
 
@@ -1416,6 +1519,8 @@ Wertes nach Norm Wertes  Die exportierte LDT-Datei. Behandlung Abs. 3a SGB V
 | **Befund / Medikation** | Befund |
 | **Dringlichkeit** | Eilig |
 | **Anforderungen** | Untersuchung auf Schilddrüsenunterfunktion |
+
+Seite 39 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ---
 
@@ -1442,9 +1547,15 @@ Wertes nach Norm Wertes  Die exportierte LDT-Datei. Behandlung Abs. 3a SGB V
 | LDK_LDT_Auftrag_Import_V01.zip  LDK_LDT_Befund_Import_V01.zip | LDT-Import Dateien |
 | VSD_5.2.0_Vn.n | eGK-XML Dateien XML_21 und |
 
-1 Der Schlüssel wird an Softwarehäuser ausgegeben, die ein vorliegendes Zertifikat für eine Abrechnungskomponente haben (Voraussetzung für  die Zertifizierung Labordatenkommunikation).
+________________  1 Der Schlüssel wird an Softwarehäuser ausgegeben, die ein vorliegendes Zertifikat für eine Abrechnungskomponente haben (Voraussetzung für  die Zertifizierung Labordatenkommunikation).
 
-(KV Hessen) Erklärung) Übertragungsweges verschlüsselt Optional XML_20 2 n.n= in der jeweils aktuellen Version
+2 n.n= in der jeweils aktuellen Version
+
+Seite 40 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 /
+
+15. November 2023
+
+(KV Hessen) Erklärung) Übertragungsweges verschlüsselt Optional XML_20 
 
 
 ---
@@ -1456,3 +1567,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 41 von 41 / KBV / Prüfpaket Labordatenkommunikation
+
+/ Version: 1.23 / 15. November 2023

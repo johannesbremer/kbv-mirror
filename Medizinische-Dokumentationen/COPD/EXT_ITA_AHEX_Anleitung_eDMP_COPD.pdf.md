@@ -12,6 +12,8 @@ Version 5
 
 Anzuwenden ab:   01.04.2024
 
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 1
+
 
 ---
 
@@ -59,7 +61,9 @@ Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation �
 
 Die Angaben „Bei Bedarf“ und „Dauermedikation“ sind gemeinsam
 
-Vorrangig sollen unter Berücksichtigung der Kontraindikationen und der Patientenpräferenzen  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien nachgewiesen wurde. Dabei sollen -Wert Ihrer Patientin bzw. 1
+Vorrangig sollen unter Berücksichtigung der Kontraindikationen und der Patientenpräferenzen  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien nachgewiesen wurde. Dabei sollen
+
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 -Wert Ihrer Patientin bzw. 1
 
 -Konsultation die Risikofaktoren für das
 
@@ -70,6 +74,8 @@ möglich und hier verpflichtend.
 möglich und hier verpflichtend.
 
 möglich.
+
+2
 
 
 ---
@@ -119,6 +125,8 @@ Mindestens eine Angabe ist erforderlich.
 
 Geben Sie bitte an, ob eine Bedarfs- und/oder Dauertherapie mit langwirksamen Beta-2-Sympathomimetika durchgeführt wird. Bitte geben Sie bei „Keine“ gegebenenfalls zusätzlich an, ob  eine Kontraindikation gegen die Gabe eines lang wirksamen Beta-2-Sympathomimetikums besteht.  Diese Angabe ist für die Qualitätssicherung notwendig.
 
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 3
+
 
 ---
 
@@ -166,6 +174,8 @@ Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 - a) akkreditierte und für das DMP zugelassene Schulungen, sowie
 
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023
+
 bei „Keine“
 
 Angabe
@@ -176,7 +186,7 @@ Systemische Glukokortikosteroide
 
 Wenn Sie bereits zuvor
 
-zu diesem Feld ist nur im Rahmen einer  **Folgedokumentation** ist hier keine
+zu diesem Feld ist nur im Rahmen einer  **Folgedokumentation** ist hier keine 4
 
 
 ---
@@ -219,6 +229,8 @@ Genau eine Angabe ist bei allen aktiven Rauchern erforderlich.
 
 Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) die Teilnahme an einem  Tabakentwöhnungsprogramm empfohlen haben, geben Sie dies bitte hier mit „Ja“ an.
 
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 5
+
 
 ---
 
@@ -249,3 +261,5 @@ Daher soll die behandelnde Ärztin oder der behandelnde Arzt regelmäßig auf di
 Wenn Sie Ihrem Patienten aktuell (am Tage der Konsultation) eine Empfehlung zum körperlichen  Training ausgesprochen haben, geben Sie dies bitte hier mit „Ja“ an.
 
 Wurde keine Empfehlung ausgesprochen, geben Sie dies bitte hier mit „Nein“ an.
+
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 6

@@ -51,8 +51,14 @@ Bedenken Sie, dass aufgrund vertraglicher Regelungen nur bei vollständig ausgef
 
 Da beim DMP Brustkrebs die zur Einschreibung erforderliche histologische Sicherung des Be-fundes in der Regel vor dem therapeutischen Eingriff erfolgt, gilt für die Fälle, in denen eine  Operation erst zu einem späteren Zeitpunkt geplant ist sowie für die Fälle, in denen grundsätz-lich keine OP geplant ist, eine Dokumentation auch dann als vollständig zu werten, wenn in  Abschnitt 2 Anamnese und Behandlungsstatus die Angabe zu Ziffer 2.1 „OP geplant“ oder  „OP nicht geplant“ lautet und im Weiteren sich die Angaben in Abschnitt 3 Aktueller
 
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 1
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 2
 
 Befundstatus des Primärtumors/kontralateralen Brustkrebs“ auf die klinische Befunde bezie-hen. Nach erfolgter chirurgischer Primärtherapie sind ausschließlich die Angaben zu Ziffer 2.1  sowie zu Abschnitt 3 (Ziffer 3.1.  3.5) und 4 innerhalb von vier Wochen nach erfolgter Opera-tion auf einer weiteren Erstdokumentation zu aktualisieren. Die übrigen Abschnitte sind nicht  erneut auszufüllen.
 
@@ -76,6 +82,8 @@ Bei allen teilnehmenden Patientinnen können im individuellen Fall kürzere oder
 
 Wie oben beschrieben, ändert sich in Abhängigkeit von dem Auftreten eines neuen Ereignis-ses während der bestehenden Teilnahme das Nachsorge- und Dokumentationsintervall. Tritt  ein neues Ereignis nach Ablauf des fünften Jahres nach Sicherung der Erstdiagnose eines  Primärtumors, eines lokoregionären Rezidivs oder eines kontralateralen Brustkrebses auf, so  wechselt in der Regel das Dokumentationsintervall von mindestens jedes vierte Quartal (bzw.  einmal jährlich) auf mindestens jedes zweite Quartal. Um fehlende Dokumentationen und da-mit ggf. eine Beendigung der Teilnahme Ihrer Patientin zu vermeiden, ist es daher erforderlich,  dass jedes neue Ereignis während einer bestehenden Teilnahme zeitnah zur histologischen  Sicherung, spätestens bei der nächsten fälligen Dokumentation, mittels einer vollständigen  Folgedokumentation, einschließlich einer Angabe zum Dokumentationsintervall, an die Kran-kenkasse gemeldet wird. Damit wird die Krankenkasse u. a. in die Lage versetzt, Sie und Ihre  Patientin an anstehende Dokumentationstermine zu erinnern. Maßgeblich dafür ist die Angabe  zu dem von Ihnen in Abstimmung mit der Patientin gewählten Dokumentationsintervall.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
 
@@ -84,6 +92,10 @@ Wie oben beschrieben, ändert sich in Abhängigkeit von dem Auftreten eines neue
 Nach der Erstellung der Dokumentation ist diese** innerhalb von 10 Kalendertagen** nach Ab-lauf des Dokumentationszeitraumes an die Datenstelle **zu übermitteln.** Sollten die von Ihnen  vorgenommenen Angaben in der Dokumentation unvollständig oder unplausibel sein, wird sie  in Kopie an Sie zur Korrektur zurückgeschickt. Die **vollständige und plausible** Dokumenta-tion muss inklusive abgeschlossener Korrektur bzw. Vervollständigung erneut von Ihnen unter  Angabe des Korrekturdatums zurückgesandt werden und der vertraglich vereinbarten Daten-stelle **innerhalb von 52 Kalendertagen** nach Ende des Quartals, in dem die Dokumentation  erstellt wurde, vorliegen.
 
 Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben, wen-den Sie sich bitte an die zuständige Stelle
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 3
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---
@@ -121,6 +133,10 @@ Die Fallnummer hat den Zweck, dass Sie eingehende Feedback-Berichte Ihren Patien
 ***Krankenhaus-IK***
 
 Erfolgt die Einschreibung bzw. Koordination der Patientin durch das Krankenhaus, ist an dieser Stelle  das Institutionskennzeichen einzutragen. In allen anderen Fällen, d.h. Einschreibung bzw. Koordination  durch eine belegärztlich tätige Ärztin oder einen belegärztlich tätigen Arzt bzw. niedergelassene Ver-tragsärztin oder niedergelassenen Vertragsarzt, ist die Angabe der „Krankenhaus IK“ nicht zwingend  erforderlich. Um im Rahmen der Qualitätssicherung eine Zuordnung zum behandelnden Krankenhaus  herstellen zu können, ist die Angabe allerdings wünschenswert.
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 4
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---
@@ -167,8 +183,14 @@ Bei einer gleichzeitigen Angabe zur histologischen Sicherung eines Primärtumors
 
 Tritt ein kontralateraler Brustkrebs während der Teilnahme am strukturierten Behandlungsprogramm  auf, ist ein Verbleiben im Programm für weitere 10 Jahre ab dem Zeitpunkt des histologischen Nach-weises des kontralateralen Brustkrebses möglich. Dies ist im Behandlungsverlauf auf der Folgedoku-mentation im Abschnitt 3 zu vermerken (siehe Bearbeitungshinweis zur Folgedokumentation).
 
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 5
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 6
 
 Ist die histologische Sicherung eines **Primärtumors** oder eines **kontralateralen Brustkrebses** **der**  **jüngste und damit der zur Einschreibung führende Befund,** sind im Weiteren nur Angaben zu den  Parametern der Abschnitte
 
@@ -210,8 +232,12 @@ Die Abschnitte 2, 3 und 4 müssen dann frei bleiben.
 
 Die Dokumentation erfolgt bei Patientinnen mit Einschreibung aufgrund von Fernmetastasen, oder,  wenn im Verlauf einer bestehenden Teilnahme Fernmetastasen auftreten, über den gesamten Teilnah-mezeitraum ab der diagnostischen Sicherung der Fernmetastasen in der Regel mindestens jedes zweite  Quartal.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
 # 2 Anamnese und Behandlungsstatus des Primärtumors bzw. des kontralate- ralen Brustkrebses
 
@@ -233,12 +259,16 @@ Wenn die Angabe „OP geplant“ oder „OP nicht geplant“ erfolgt ist, ist ke
 
 Sollte bereits eine operative Therapie durchgeführt worden sein, geben Sie die Art der erfolgten opera-tiven Therapie an. Sofern es sich bei der durchgeführten operativen Therapie weder um eine BET oder  Mastektomie noch um eine Sentinel-Lymphknoten-Biopsie oder Axilläre Lymphonodektomie handelt,  geben Sie bitte „Anderes Vorgehen“ an. In allen Fällen Abschnitt 3 (Dokumentationsfeld 15 - 18) erforderlich und müssen sich auf den post-operativen Befund  beziehen.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 7
+
 **OP nicht geplant**“ an. In beiden Fällen  18 auf den klinischen Befund beziehen.
 
 sind im Weiteren die Angaben im kompletten
 
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
 # 3 Aktueller Befundstatus des Primärtumors bzw. des kontralateralen Brust- krebses
 
@@ -290,6 +320,8 @@ Ergeben sich aus der Score-Bewertung zu Östrogen und Progesteron unterschiedlic
 
 Scores zu dokumentieren.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 8
+
 ehen.
 
 „OP nicht geplant“ angegeben haben, ist hier nur die Angabe
@@ -304,6 +336,8 @@ ehen.
 
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 9
 
 # 4 Behandlung des Primärtumors bzw. des kontralateralen Brustkrebses
 
@@ -340,6 +374,8 @@ Sofern aktuell (zum Zeitpunkt der Dokumentationserstellung) bei Ihrer Patientin 
 Bitte geben Sie hier an, ob Sie mögliche Nebenwirkungen der Therapie erfragt haben. Ist dies der Fall,  geben Sie bitte an, als wie belastend die Nebenwirkungen der Therapie eingeschätzt werden.
 
 Bestehen zwar Nebenwirkungen, diese werden aber nicht als belastend empfunden, geben Sie bitte  „nicht belastend“ an. Weitere Ausprägungen der Belastung durch die Nebenwirkung sind „mäßig be-lastend und „stark belastend“.
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---
@@ -378,7 +414,14 @@ Bitte geben Sie hier den Befund der DXA an.
 
 Sofern keine DXA durchgeführt wurde oder der Befund nicht bekannt ist, geben Sie bitte „Unbekannt“  an.
 
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 10
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
+
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
 # 5 Befunde und Therapie von Fernmetastasen
 
@@ -405,12 +448,16 @@ Bitte machen Sie jeweils eine Angabe zu
 
 Die Angabe „Nein kann jeweils gleichzeitig mit Kontraindikation
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 11
+
 ## .1 die Angabe „Knochen“ dokumentiert ist. Ist
 
 angegeben werden.
 
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 12
 
 # 6 Sonstige Befunde
 
@@ -474,8 +521,12 @@ Die Angabe erfolgt in kg.
 
 Ist das Körpergewicht, z.B. auf Grund einer Beinamputation, nicht zu erheben, ist eine „0“ einzutragen.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 13
 
 # 7 Behandlungsplanung
 
@@ -511,6 +562,8 @@ Bitte beachten Sie, dass die Dokumentationen regelmäßig erstellt werden müsse
 
 Für die Einschreibung der Patientin in ein strukturiertes Behandlungsprogramm ist das  an dem die Dokumentation** vollständig ausgefüllt** wurde. Daher müssen Sie das Datum eintragen. Die  Dokumentation muss **innerhalb von 10 Tagen nach Ablauf des Dokumentationszeitraumes**  vertraglich vereinbarte Datenstelle übermittelt werden.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 **Datum relevant** an die
 
 
@@ -518,7 +571,14 @@ Für die Einschreibung der Patientin in ein strukturiertes Behandlungsprogramm i
 
 Wurde in der zuständigen Stelle festgestellt, dass die Angaben in der Dokumentation an einer oder  mehreren Stellen unvollständig oder unplausibel sind, erhalten Sie einen Ausdruck der Dokumentation  zurück und werden aufgefordert, diesen **zu korrigieren und erneut mit dem aktuellen Datum der**  **Korrektur** zu versehen. Die vollständige und plausible Dokumentation muss der vertraglich vereinbar-ten Datenstelle einschließlich der abgeschlossenen Korrektur **innerhalb von 52 Tagen** **nach Ablauf**  **des Quartals, in dem die Dokumentation erstellt wurde,** vorliegen.
 
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 14
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
+
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 15
 
 # Hinweise zum Ausfüllen der einzelnen Abschnitte
 
@@ -540,8 +600,12 @@ Die Folgedokumentation gliedert sich in folgende Abschnitte:
 
 **7. Datum**
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 16
 
 # 1 Einschreibung erfolgte wegen
 
@@ -563,7 +627,12 @@ Angaben zum Abschnitt 5 Behandlung bei fortgeschrittener Erkrankung (lokoregion�
 
 Sollte die Einschreibung auf Grund des Vorliegens eines **lokoregionären Rezidivs** oder von **Fernme-** **tastasen** erfolgt sein, sind nur die Angaben zu den **Abschnitten 3, 4, 5 und zum „Dokumentations-** **intervall“ (6.1) sowie** **„Datum der Erstellung (7.1) zwingend** **erforderlich**. Die Angaben zum Ab-schnitt 2 sind nicht erforderlich.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
+
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
 # 2 Behandlungsstatus nach operativer Therapie des Primärtumors / des kont- ralateralen Brustkrebses (adjuvante Therapie)  kumentation)
 
@@ -605,9 +674,11 @@ Bestehen zwar Nebenwirkungen, diese werden aber nicht als belastend empfunden, g
 
 Bestehen keine Nebenwirkungen, geben Sie bitte „Nein“ an.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 # 14)
 
-sein, geben Sie bitte „Endokrine Therapie geplant“ an. In diesem
+sein, geben Sie bitte „Endokrine Therapie geplant“ an. In diesem 17
 
 # (entspricht Abschnitt 4 der Erstdo-
 
@@ -645,6 +716,10 @@ Bei Beginn einer Therapie mit Aromataseinhibitoren soll eine Osteodensitometrie 
 Bitte geben Sie hier den Befund der DXA an.
 
 Sofern keine DXA durchgeführt wurde oder der Befund nicht bekannt ist, geben Sie bitte „Unbekannt an.
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 18
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---
@@ -691,8 +766,14 @@ Sollten bei Ihrer Patientin **viszerale Metastasen** vorliegen und haben Sie die
 
 Sollten bei Ihrer Patientin **Knochenmetastasen** vorliegen und haben Sie diese hier dokumentiert, ist  zusätzlich eine Angabe zu Ziffer 5.1 im Abschnitt 5 erforderlich.
 
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 19
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
 Sollten seit der letzten Dokumentation keine Fernmetastasen aufgetreten sein, geben Sie bitte „ an.
 
@@ -716,6 +797,8 @@ Geben Sie bitte an, ob bei Ihrer Patientin aktuell ein symptomatisches Lymphöde
 
 Liegt kein symptomatisches Lymphödem vor, geben Sie bitte „Nein“ an.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 20
+
 **Nein**
 
 die Angabe „Viszeral“ dokumentiert ist. Ist
@@ -724,6 +807,8 @@ eben Sie bitte „Geplant“
 
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 21
 
 # 4 Sonstige Befunde
 
@@ -775,8 +860,12 @@ Die Angabe erfolgt in kg.
 
 Ist das Körpergewicht, z.B. auf Grund einer Beinamputation, nicht zu erheben, ist eine „0“ einzutragen.
 
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
+
 
 ---
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
 
 # 5 Behandlung bei fortgeschrittener Erkrankung (lokoregionäres Rezidiv /  Fernmetastasen)
 
@@ -798,6 +887,8 @@ Bitte machen Sie jeweils eine Angabe zu
 Die Angabe „Nein kann jeweils gleichzeitig mit Kontraindikation
 
 ##
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 22
 
 **(bei aktueller oder früherer Dokumentation).**
 
@@ -835,6 +926,10 @@ In diesen beiden Fällen geben Sie „*Halbjährlich oder häufiger“* an.
 Bei allen teilnehmenden Patientinnen können im individuellen Fall kürzere oder längere Dokumentati-onsintervalle gewählt werden. So kann auch unabhängig von der Erkrankungsdauer bzw. dem Grund  der Einschreibung eine Dokumentation jedes zweite Quartal, quartalsweise oder längstens jedes vierte  Quartal (bzw. einmal jährlich) erstellt werden.
 
 Bitte beachten Sie, dass die Dokumentationen regelmäßig erstellt werden müssen. Fehlen zwei Doku-mentationen in Folge, muss die DMP-Teilnahme der Patientin beendet. Zur Bestimmung, ob eine Do-kumentation fehlt, wird Angabe zum Dokumentationsintervall der letzten gültig vorliegenden Dokumen-tation herangezogen.
+
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 23
+
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---

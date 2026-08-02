@@ -13,6 +13,8 @@
 
 ### [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EHKS]
 
+Seite 1 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -55,6 +57,8 @@ INHALT
 
 **9**
 
+Seite 2 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+
 Pflichtfunktionen und optionale Funktionen der Software 
 
 
@@ -76,8 +80,9 @@ Die Vorgaben der Version 1.14 sind zum 1. Oktober 2025 umzusetzen.
 | 1.07 | 22.04.2010 | KBV | P2-50-Erstellung Versandliste    Neue Funktionen:  P2-70-Elektronische Versandliste  P2-75-Anbindung an das EVL- P2-80-Druck des | Einführung |  |
 | 1.06 | 13.01.2010 | KBV | P1-40: Bezeichnung |  | 6 |
 
-P2-30 des Schemas von 3.32 in 2.33 P1-60 P1-11 zum eVersandlistenmodul P1-10 entfallen Modul Bestätigungsschreibens Pflichtfunktion korrigiert Spezifikation für KIM der kv.digital Wertebereichs für den Parameter „Geschlecht des Patienten“ nach Änderung des Personenstandsgesetz (PstG) von Parameter- bezeichnungen Versandlistenmoduls Zertifizierungsrichtlinie der KBV eVersandlisten- Verfahren 
+Seite 3 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
 
+P2-30 des Schemas von 3.32 in 2.33 P1-60 P1-11 zum eVersandlistenmodul P1-10 entfallen Modul Bestätigungsschreibens Pflichtfunktion korrigiert Spezifikation für KIM der kv.digital Wertebereichs für den Parameter „Geschlecht des Patienten“ nach Änderung des Personenstandsgesetz (PstG) von Parameter- bezeichnungen Versandlistenmoduls Zertifizierungsrichtlinie der KBV eVersandlisten- Verfahren
 
 ---
 
@@ -116,6 +121,8 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 | OPTIONALE FUNKTION EHKS |  |
 |---|---|
 | **K8-30** | Funktionsbezeichnung |
+
+Seite 4 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
 
 ---
 
@@ -164,7 +171,10 @@ Alter (des Versicherten): Das Alter des Versicherten kann systemseitig berechnet
 |---|---|
 | **K1-25** | Unterstützung von ergänzenden Verträgen der KVen |
 
+Seite 5 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+
 ionsparameters „VerdachtsdiagnoseND“
+
 
 ---
 
@@ -199,6 +209,8 @@ Die Software muss sicherstellen, dass
 - eine Patientennummer nicht doppelt vergeben werden kann. Gibt der Anwender eine  Patientennummer ein, die systemseitig bereits für einen anderen Patienten existiert, so darf diese  Nummer nicht übernommen werden und das System muss mit einem entsprechenden Fehlerhinweis  den Anwender auffordern eine nicht existierende Patientennummer einzugeben.
 - Die gewählte Patientennummer maximal 8-stellig, alphanumerisch ist.
 - Das System kann dem Anwender eine bereits im System gespeicherte Patienten-ID (die den  vorgenannten formalen Anforderungen genügt), zur Übernahme in die eDokumentation Hautkrebs-Screening vorschlagen.
+
+Seite 6 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
 
 ---
 
@@ -251,6 +263,7 @@ Das System muss das jeweils gültige XPM einsetzen. Für nähere Erläuterungen 
 
 Das System muss,
 
+Seite 7 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
 
 ---
 
@@ -287,6 +300,8 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 - 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten  oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
 - 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
 
+Seite 8 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+
 ---
 
 3 REFERENZIERTE DOKUMENTE
@@ -305,7 +320,13 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 
 **Ansprechpartner:**
 
-Vertragsärztlichen Versorgung eDMP/a-Datensatz  Hautkrebs- Screening (eHKS) Dokumentation HautkrebsScreening telematik.de/spaces/KDK/pages/71095111/ Dokumente+zum+DownloadDezernat Digitalisierung und IT
+Dezernat Digitalisierung und IT
+
+Seite 9 von 10 / KBV / Anforderungskatalog Hautkrebs-
+
+Screening (eHKS) / Version: 1.14 / 15. August 2025
+
+Vertragsärztlichen Versorgung eDMP/a-Datensatz  Hautkrebs- Screening (eHKS) Dokumentation HautkrebsScreening telematik.de/spaces/KDK/pages/71095111/ Dokumente+zum+Download
 
 
 ---
@@ -313,3 +334,7 @@ Vertragsärztlichen Versorgung eDMP/a-Datensatz  Hautkrebs- Screening (eHKS) Dok
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 10 von 10 / KBV / Anforderungskatalog Hautkrebs
+
+-Screening (eHKS) / Version: 1.14 / 15. August 2025

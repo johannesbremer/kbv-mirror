@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Informationstechnik, Telematik und Telemedizin 1.41 Datum: 20.07.2012 Klassifizierung: Extern  Status: In Kraft 
+Informationstechnik, Telematik und Telemedizin 1.41 Datum: 20.07.2012 Klassifizierung: Extern  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2012
 
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 ### DOKUMENTENHISTORIE
 
@@ -22,7 +24,9 @@ Informationstechnik, Telematik und Telemedizin 1.41 Datum: 20.07.2012 Klassifizi
 |---|---|---|---|---|---|
 | 1.41 | 20.07.12 | KBV | Dokument an Standard |  |  |
 
-vorlage angepasst 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+vorlage angepasst Seite 2 von 64
 
 
 ---
@@ -97,8 +101,16 @@ vorlage angepasst
 
 *4.8.4.4* *telecom (Kommunikationsmöglichkeiten) ............................................................. 31*
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 3 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 **4.9** **originator (Urheber) ..................................................................................................................... 32**
 
@@ -171,6 +183,10 @@ vorlage angepasst
 **7** **NAMENSGEBUNG FÜR EHD-DATEIEN**
 
 **51**
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 4 von 64
 
 
 ---
@@ -245,6 +261,13 @@ vorlage angepasst
 
 **14.2** **Schlüsseltabellen ........................................................................................................................ 64**
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 5 von 64
+
+
 ---
 
 #### ABBILDUNGSVERZEICHNIS
@@ -283,6 +306,13 @@ Abbildung 15 /ehd/body ....................................... .................
 
 Abbildung 16 Aufteilung der Schemas für die ehd-Schnittstelle XY ...................................... 60
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 6 von 64
+
+
 ---
 
 #### TABELLENVERZEICHNIS
@@ -298,6 +328,13 @@ Tabelle 4 Erläuterungen /person/person_name/pfx ...............................
 Tabelle 5 Erläuterungen /person/person_name/telecom ...................................................... 30
 
 Tabelle 6 Schlüsseltabellen ................................................................................................. 64
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 7 von 64
+
 
 ---
 
@@ -381,6 +418,12 @@ XML-Code 34 /ehd/header/scope/scope.nm ........................................ 
 
 XML-Code 35 /ehd/header/state ................................ .......................................................... 40
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 8 von 64
+
 
 ---
 
@@ -416,6 +459,13 @@ XML-Code 47 xy_header.xsd ................................ .....................
 
 XML-Code 48 xy_body.xsd .................................. ................................................................ 62
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 9 von 64
+
+
 ---
 
 # 1 Einführung
@@ -431,6 +481,13 @@ ehd ist also ein Familienkonzept und kein eigener Schnittstellenstandard wie SCI
 Das vorliegende Dokument ist geschaffen worden, um Schnittstellenentwicklern eine Richtli-nie bereitzustellen, nach der sie eine XML-Schnittstelle entwickeln können, die (bei vollstän-diger Beachtung) dann zur ehd-Schnittstellenfamilie gehört. Eine ehd-Schnittstelle kann zu  den unterschiedlichsten Inhalten erfunden werden - zur Familie der ehd-Schnittstellen zählt  sie dann, wenn sich der Schnittstellenerfinder an die aktuelle Version der ehd-Richtlinie ge-halten hat.
 
 ehd steht für eHealth-Data. Die ehd-Richtlinie ist bewusst so gestaltet, dass sie nicht an eine  Institution gebunden ist.
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 10 von 64
+
 
 ---
 
@@ -461,10 +518,18 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 |  | Das Strukturelement |
 |  | Das Strukturelement |
 
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vor- kommen. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis  (un- bounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. **Tabelle 2 Beschreibung der Strukturelement-Symbole**
+**Tabelle 2 Beschreibung der Strukturelement-Symbole**
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vor- kommen. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis  (un- bounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Seite 11 von 64
 
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 ## 2.3 Sonstige Symbole
 
@@ -477,11 +542,18 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 |  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement |
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 **Tabelle 3 Beschreibung sonstiger Symbole**
 
-Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
+Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst. Seite 12 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 # 3 ehd-Grundstruktur
 
@@ -512,11 +584,15 @@ Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für di
 
 Der Schnittstellenentwickler kann also selbst entscheiden, ob im Schema das  Attribut auf Übereinstimmung mit einer bestimmten ehd-Richtlinienversion  oder auf „>“, „<“,oder „=“ oder beliebig geprüft wird.
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ***<ehd>***, welches sich aus den
 
 Abbildung 1 dargestellt
 
 und ***<body>*** ersetzt werden.
+
+Seite 13 von 64
 
 
 ---
@@ -557,6 +633,13 @@ Folgender Code ist für die Implementierung einer ehd-Schnittstelle vorgeschrieb
 
 **XML-Code 2 /ehd (Root-Element)**
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 14 von 64
+
+
 ---
 
 # 4 header (Metadaten)
@@ -567,8 +650,16 @@ Der Header enthält die Metadaten zu den im body liegenden eigentlichen Inhaltsd
 
 **Abbildung 2 /ehd/header**
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 15 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 ### Folgendes Beispiel zeigt die Grundstruktur des
 
@@ -656,8 +747,16 @@ Es wird empfohlen im EX-Attribut einen Identifikator in Form eines GUID (global 
 
 Bei einer GUID handelt sich um eine 128 Bit-Zahl, die aus einer Menge von Informati-onen gebildet wird. Zum Erzeugen von GUID gibt es zahlreiche Tools, auch mit Java  gibt es solche Werkzeuge. Eine GUID ist z.B. nach den Microsoft-Vorgaben
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 16 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 „XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX“ aufgebaut, wobei die 128 Bit-Zahl in hexadezimal dargestellt wird. Damit entspricht X einem beliebigen Buchstaben  aus der Menge (a-f,A-F) oder einer der Ziffern 0-9.
 
@@ -701,8 +800,14 @@ Das Element hat folgende Attribute:
 |---|---|
 | attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:nonNegativeInteger    required |
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 17 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 V: Im V-Attribut steht die Versionsnummer, bei der Erstlieferung erhält das V-Attribut die Ziffer  „1“. Für jede nachfolgende Austausch-, Korrektur- u.a. Lieferung wird die Versionsnummer  um eins hochgezählt.
 
@@ -737,8 +842,14 @@ SV: Version der Schlüsseltabelle, wenn die Schlüsseltabelle geändert bzw. erg
 
 Bei dem Element <document_type_cd> wird im V-Attribut das Kürzel (Kode) der Schnittstelle  bzw. Satzart eingetragen, im S-Attribut steht die Schlüsseltabelle, in der alle Kodes verwaltet  werden.
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 18 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 <document_type_cd V="DE.SDKT" DN="Kostenträgerstammdatei" S="1243.23.523.1T.e.s.t"
 
@@ -786,8 +897,16 @@ Das Element hat folgende Attribute:
 |---|---|
 | attributs | Name    Type    Use    Default    Fixed    Annotation  V    xs:date    required |
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 19 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 V: hier wird das Erstellungsdatum der Datei im Format „YYYY-MM-DD“ angegeben. Zusätz-lich kann auch die Zeit und Zeitzone angegeben werden (siehe date-Datentyp in W3C-Schema-Spezifikation [3]).
 
@@ -816,11 +935,15 @@ Das Element hat folgende Attribute:
 
 <document_relationship>
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 werden die Beziehungen („Anhang“ oder „Er-anzugeben.
 
 ***<set_id> <version_nbr>***), angegeben wird.
 
 erklärt.
+
+Seite 20 von 64
 
 
 ---
@@ -865,6 +988,12 @@ SN="Dokumentbeziehungstypen" SV="1.0"/>
 
 **Abbildung 4 /ehd/header/document_relationship/related_document**
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 21 von 64
+
 
 ---
 
@@ -901,8 +1030,16 @@ Die Identifikation des Verweisdokuments erfolgt über die Dokument-Identifikator
 
 Das Element ***<intended_recipient>*** enthält Angaben zum Empfänger der Daten bzw. zur Ziel-gruppe.
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 22 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 Das Element hat folgende Attribute:
 
@@ -967,6 +1104,10 @@ Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angege
 
 <intended_recipient.type_cd V="OWNER" S="1.2.276.0.76.2.2.102" SV="1.0" DN="Eigner"/>
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 23 von 64
+
 
 ---
 
@@ -976,9 +1117,16 @@ Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angege
 | <intended_recipient.type_cd V="RECEIVER" S="1.2.276.0.76.2.2.102" SV="1.0" DN="Empfänger"/> **XML-Code 14 /ehd/header/intended_recipient/intended_recipient.type_cd **  **4.8.2** Die genauere Rolle/Funktion des Empfängers („Dateneingang“) wird in diesem Kode-Element | |
 | Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben | Kode-Elemente üblich sind.      <function_cd V="DtE" S="1.2.276.0.76.2.2.105" SV="1.0" DN=”Dateneingang”/> **XML-Code 15 /ehd/header/intended_recipient/function_cd **  **4.8.3** Generell können Persondaten in diesem Element untergebracht werden. Dieses Element wird |
 
-function_cd (Rolle/Funktion der Empfänger) beschrieben. werden können. Der Datentyp ist v_s_string_typ , in dem Attribute und Elemente definiert sind, die für person (Persondaten) an mehreren Stellen, wo Personangaben übermittelt werden sollen, wiederverwendet.  Abbildung 6 /ehd/header/.../person Das Element hat folgende Attribute:
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+function_cd (Rolle/Funktion der Empfänger) beschrieben. werden können. Der Datentyp ist v_s_string_typ , in dem Attribute und Elemente definiert sind, die für person (Persondaten) an mehreren Stellen, wo Personangaben übermittelt werden sollen, wiederverwendet.  Abbildung 6 /ehd/header/.../person Das Element hat folgende Attribute: Seite 24 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 | *<organization.nm>* | *<addr>* |
 |---|---|
@@ -1030,7 +1178,11 @@ Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werde
 
 Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen immer anzu-
 
-<id> Die Identifikation einer Person.  <person_name> Angabe zu dem Namen einer Person wird hier hinterlegt. Angabe zu dem Organisationsnamen, zu der die Person zugehört, wird hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organi- sation vorhanden und die Notwendigkeit die Organisation noch mal im <organization>  - Element anzugeben entfällt. Angabe zu der Adresse, in der die Person erreichbar ist, wird hier hin- terlegt. Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...), unter den die Person erreichbar ist, wird hier hinterlegt.  - Element wird in  local_header (Platz für lokale Elementdefinitionen)  erklärt. ### geben:
+### geben:
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+<id> Die Identifikation einer Person.  <person_name> Angabe zu dem Namen einer Person wird hier hinterlegt. Angabe zu dem Organisationsnamen, zu der die Person zugehört, wird hier hinterlegt. Damit ist der direkter Bezug der Person zu der Organi- sation vorhanden und die Notwendigkeit die Organisation noch mal im <organization>  - Element anzugeben entfällt. Angabe zu der Adresse, in der die Person erreichbar ist, wird hier hin- terlegt. Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...), unter den die Person erreichbar ist, wird hier hinterlegt.  - Element wird in  local_header (Platz für lokale Elementdefinitionen)  erklärt. Seite 25 von 64
 
 
 ---
@@ -1056,8 +1208,16 @@ Das Element hat folgende Attribute:
 | children | **nm (1..1)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 26 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 ***<nm>***, Hier werden die Namensbestandteile angegeben.
 
@@ -1117,10 +1277,18 @@ Als Beispiel für den Namen des Arztes „Dr. med. Ernst August Graf von Oberber
 
 </nm>
 
-sind durch Leerzeichen getrennt) Namenszusätze sind durch Leerzeichen getrennt) **XML-Code 18 /ehd/header/…/person/person_name/nm**
+**XML-Code 18 /ehd/header/…/person/person_name/nm**
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+sind durch Leerzeichen getrennt) Namenszusätze sind durch Leerzeichen getrennt) Seite 27 von 64
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 #### 4.8.3.3 organization.nm (Name der Organisation)
 
@@ -1146,10 +1314,16 @@ Die Adresse wird in diesem Element erfasst.
 
 Dieses Element kann folgende Kindelemente enthalten:
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ***<organization>*** - Element anzugeben, entfällt.
+
+Seite 28 von 64
 
 
 ---
+
+**IT in der Arztpraxis** Richtlinie ehd - eHealthData
 
 ***<STR>***
 
@@ -1217,8 +1391,14 @@ Das Element hat folgende Attribute:
 
 V: hier wird der Wert eingetragen
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 29 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 Die Erläuterung für die verschiedenen Werte sind in der
 
@@ -1245,9 +1425,13 @@ Das Element hat folgende Attribute:
 | children | **id (0..1)  organization.nm (0..n)  addr (0..n)  telecom (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 Tabelle 5 aufgeführt.
 
-"/> "/> "/> "/> "/> e-r-
+e-r-
+
+"/> "/> "/> "/> "/> Seite 30 von 64
 
 
 ---
@@ -1312,8 +1496,18 @@ Siehe addr (Adresse)
 
 Siehe telecom (Kommunikationsmöglichkeiten)
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 31 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 ## 4.9 originator (Urheber)
 
@@ -1338,12 +1532,23 @@ Der Urheber kann einem Typ („Labore“, „Datenannahmestellen“)  zugeordnet
 
 ***<person>*** der Urheber kann eine Person sein. Mehrere Personen können zu einem Ur-hebertyp angegeben werden.
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 32 von 64
+
 
 ---
 
 ***<organization>*** der Urheber kann eine Organisation sein. Mehrere Organisationen können zu  einem Urhebertyp angegeben werden.
 
 ***<local_header>*** - Element wird in  local_header (Platz für lokale Elementdefinitionen) erklärt.
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 33 von 64
+
 
 ---
 
@@ -1413,8 +1618,18 @@ war. Der Zeitraum wird so angegeben, wie der Gültigzeitraum des Elements <servi
 
 **XML-Code 26 /ehd/header/originator/participation_tmr**
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 34 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 ### 4.9.4 person (Persondaten)
 
@@ -1437,9 +1652,13 @@ Das Element hat folgende Attribute:
 | children | **provider.type_cd (0..1)  function_cd (0..1)  participation_tmr (0..1)  person (0..n)  organization (0..n)  local_header(0..n)** |
 | attributs | Name    Type    Use    Default    Fixed    Annotation |
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ist ein Pflichtelement, damit
 
 ***<originator>*** (Urheber) fehlt.
+
+Seite 35 von 64
 
 
 ---
@@ -1516,8 +1735,16 @@ Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angege
 
 ### Die genauere Rolle/Funktion des Senders („Datenausgang“) wird in diesem Kode-Element  beschrieben.
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 36 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  werden können. Der Datentyp ist **v_s_string_typ**, in dem Attribute und Elemente definiert  sind, die für Kode-Elemente üblich sind.
 
@@ -1545,8 +1772,14 @@ Siehe organization (Organisationsdaten)
 
 Das optionale Element ***<scope>*** beschreibt den Geltungsbereich der Daten. ***<scope>*** ist in ers-ter Linie bei Stammdateien relevant, die nur einen begrenzten Geltungsbereich haben, wenn  z.B. von der KBV Daten verteilt werden, die nur in bestimmten KV-Regionen gelten. Die nä-heren Angaben stehen in den Kindelementen.
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 37 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 **Abbildung 12 /ehd/header/scope**
 
@@ -1579,8 +1812,14 @@ Das Geltungsbereich kann einem Typ („KV-Geltungsbereich“) zugeord-net werden
 
 **XML-Code 31 /ehd/header/scope**
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 38 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 ### 4.11.1 id (Geltungsbereichidentifikation)
 
@@ -1618,17 +1857,30 @@ V: hier wird der Wert eingetragen
 
 **XML-Code 34 /ehd/header/scope/scope.nm**
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 39 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 | Kardinalität | 1..1 |
 |---|---|
 | **4.12** | Das optionale Element  Bei diesem Element handelt es sich um ein Kode-Element, mit dem Kodewerte angegeben  Kode-Elemente üblich sind.  Die Werte für das V-Attribut sind je nach konkreter Schnittstelle frei wählbar. Im S-Attribut |
 | <state V="E01002" S="1.2.276.0.76.2.2.108" DN="EingangspruefungOK"/> | **XML-Code 35 /ehd/header/state **  **4.13 ** Die Daten der XML-Datei entsprechen einer Schnittstellenbeschreibung, welche normaler-    **Abbildung 13 /ehd/header/interface** |
 
-state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbeitungszustand. Es wird damit ermöglicht, die XML-Dateien zu kennzeichnen, die einen Bearbeitungsschritt durchlaufen haben (z.B. Prüfung, Filterung).  werden können. Der Datentyp ist v_s_string_typ sind, die für steht die OID der jeweiligen Schlüsseltabelle.  , in dem Attribute und Elemente definiert interface (Beschreibung der Schnittstelle) weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element <interface>  wird auf die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen. Das Element hat folgende Attribute:
+KBV_ITA_VGEX_eHD * Version 1.41
+
+state (Bearbeitungszustand) <state>  beschreibt in seinem V-Attribut den Bearbeitungszustand. Es wird damit ermöglicht, die XML-Dateien zu kennzeichnen, die einen Bearbeitungsschritt durchlaufen haben (z.B. Prüfung, Filterung).  werden können. Der Datentyp ist v_s_string_typ sind, die für steht die OID der jeweiligen Schlüsseltabelle.  , in dem Attribute und Elemente definiert interface (Beschreibung der Schnittstelle) weise aus Strukturinformation und ggf. Kontextregeln besteht. Im Element <interface>  wird auf die Beschreibung der zu den Daten gehörenden Schnittstelle verwiesen. Das Element hat folgende Attribute: Seite 40 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 | *<id>* | *<interface.nm>* |
 |---|---|
@@ -1701,10 +1953,16 @@ Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, d
 
 Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetra-gen. Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
 
-Die Identifikation der Schnittstelle.  Angabe zu dem Namen der Schnittstelle ### Gründe für die Angabe der Schlüsseltabellenversion siehe Seite: 25
+### Gründe für die Angabe der Schlüsseltabellenversion siehe Seite: 25
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Die Identifikation der Schnittstelle.  Angabe zu dem Namen der Schnittstelle Seite 41 von 64
 
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 <id EX="SDKT" RT="1.2.276.0.76.2.2.109" RTV="1.11"/>
 
@@ -1746,10 +2004,18 @@ V: hier wird der Wert eingetragen
 
 Im Element ***<originator>*** sind alle relevanten Informationen zu der die Schnittstelle definieren-den Instanz angegeben. Die Struktur dieses Elements ist bei  ben.
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 originator (Urheber) beschrie-
+
+Seite 42 von 64
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 ### 4.13.5 description (Kurzbeschreibung)
 
@@ -1791,6 +2057,10 @@ render: In diesem Attribut wird vorgegeben, wie die Inhalte durch Anwendungen (z
 
 Die Grundstruktur des ***<local_header>***
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 43 von 64
+
 
 ---
 
@@ -1814,6 +2084,13 @@ die Kurzbeschreibung (descriptor) kennzeichnet, dass die Elemete von „KBV“ s
 
 **XML-Code 41 /ehd/header/local_header**
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 44 von 64
+
+
 ---
 
 # 5 Inhaltsdaten (body)
@@ -1834,7 +2111,16 @@ Diese Möglichkeit wird noch geprüft und steht in der vorliegenden Version der 
 
 Diese Möglichkeit wird noch geprüft und steht in der vorliegenden Version der ehd-Richtlinie  nicht zur Verfügung.
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 45 von 64
+
+
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 # 6 keytabs (Schlüsseltabellen)
 
@@ -1882,12 +2168,20 @@ werden soll, weil z.B. im body-Bereich auf diese Code-Wert-Paare referenziert wi
 
 **XML-Code 42 /ehd/keytabs**
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 #### <keytab> und
 
 #### <keytabs> -Sektion.
 
+Seite 46 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 ## 6.1 keytab (Schlüsseltabelle)
 
@@ -1938,7 +2232,13 @@ SV : Version der Schlüsseltabelle
 
 ##local: weitere Attribute, das können weitere Spalten der Tabelle sein.
 
-***<key>***). Hier werden die Kodewerte in At-***<body>***
+KBV_ITA_VGEX_eHD * Version 1.41
+
+***<key>***). Hier werden die Kodewerte in At-
+
+***<body>***
+
+Seite 47 von 64
 
 
 ---
@@ -1976,6 +2276,8 @@ Dazu müssen die Schlüsselwerte aus der Schlüsseltabelle als *keys* im Sinne d
 
 In der ***<body>***-Sektion wird das Element <kv> definiert, welches Kodewerte aus der  Schlüsseltabelle „kv_bereiche“ enthält. Die Schlüsseltabelle wird im ***<keytab>***-Element  angelegt und die Schlüsseln werden im ***<key>***-Element angegeben. Das <kv>-Element enthält Attribute (V, S, DN, SN, SV-), die für Kode Elemente üblich sind. So  könnte das Schema aussehen:
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
 Name
 
 Type
@@ -1990,6 +2292,8 @@ SV
 
 xs:string  ##local
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 Use
 
 Default  required
@@ -2002,7 +2306,12 @@ Fixed
 
 Annotation
 
+Seite 48 von 64
+
+
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 **Abbildung 10: Beispiel-XML-Schema zur Referenzintegrität**
 
@@ -2076,12 +2385,23 @@ Schlüssel wird aus drei Attributen gebildet, damit eine genaue Identifikation m
 
 ### Nähere Informationen zur Verwendung von key und keyref und Schema-XPath gibt es auf der  W3C-Seite: [1]
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 49 von 64
+
 
 ---
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 50 von 64
 
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 # 7 Namensgebung für ehd-Dateien
 
@@ -2123,6 +2443,8 @@ Entspricht dem Element ***<person>*** Elements ***<intended_recipient>*** Wenn d
 
 YYYY oder  YYYYqQ oder  YYYYmMM oder
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ***<document_type_cd>***
 
 des Header-Elements
@@ -2137,8 +2459,12 @@ oder dem Element
 
 ***<organization>*** des Header-
 
+Seite 51 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 YYYYwWW oder  YYYYmMMdDD oder  YYYYmMMdDD-YYYYmMMdDD oder -YYYYmMMdDD oder
 
@@ -2182,6 +2508,8 @@ Die Extension .zip ist zulässig, wenn die ehd-Datei mit einem zip-Algorithmus k
 
 Die Extension .kry ist zulässig, wenn die ehd-Datei mit einem Verschlüsselungs-Algorithmus  verschlüsselt wurde. Wenn es Einschränkungen bei der Art und Weise des verschlüsseln  gibt, muss das in der konkreten Schnittstellenbeschreibung der ehd-Schnittstelle erläutert  werden.
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ***<service_tmr>***
 
 ***<id>***
@@ -2198,8 +2526,12 @@ des Header-
 
 des Header-
 
+Seite 52 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 Fiktive Beispiele von ehd-Dateinamen: 12345_01.05_kv04.xml
 
@@ -2216,6 +2548,11 @@ ehd.sdkt_01.12_kbv_ re+allkv_tf+2004q4.xml.zip.kry
 ehd.sdebm2000plus_01.02_kbv_ re+allkv_tf+2005q1.xml.zip
 
 Die vorgegebene Namensgebung betrifft ehd-Dateien, gezippte Archive können einer ande-ren Konvention entsprechen (KV-DTA Richtlinie).
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 53 von 64
+
 
 ---
 
@@ -2249,8 +2586,18 @@ Durch die Verwendung von expliziten Typdefinitionen (benannte Typen) können die
 
 Zu diesem Zweck werden Typen, die auch in anderen Projekten im Gesundheitsbereich ver-wendet werden können, nicht im speziellen Schema selbst definiert, sondern in die ehd-Typbibliothek ausgelagert. Diese wird dann durch eine ***<xs:import>*** - Anweisung eingebunden.
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 54 von 64
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Richtlinie ehd - eHealthData
 
 Die ehd-Richtlinie ist bewusst aus Datentypen zusammengebaut, damit spezifischen ehd-Schnittstellen-Schemas für spezielle Zwecke abgeleitet und eingeschränkt werden können.
 
@@ -2316,12 +2663,18 @@ Wenn davon auszugehen ist, dass solche Enumerationen ständigem Wandel unterlieg
 
 Als Schlüsseltabellen sind Listen von Code-Wert-Paaren anzusehen, welche über einen län-geren Zeitraum normalerweise unverändert bleiben. Solche Schlüsseltabellen können entwe-
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ***<xs:import>, <xs:include/>*** oder ***<xs:redefine/>*** erreicht.  ***<xs:restriction>*** (Einschränkung) oder ***<xs:extension>***
 
 ***<xs:restriction>*** (Einschränkung) wiederverwen-
 
+Seite 55 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 der direkt in die Stammdateien eingebunden werden (siehe Kapitel  referenziert werden oder als externe Datei referenziert werden (siehe Kapitel
 
@@ -2357,14 +2710,18 @@ im Schema:
 
 <xs:element name="notallowed" type="xs:NMTOKENS"/>
 
-8.4.2.2) und dann intern
+KBV_ITA_VGEX_eHD * Version 1.41 8.4.2.2) und dann intern
 
 8.4.2.1
 
 vorgenommen werden, um
 
+Seite 56 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 ### in der XML-Instanz:
 
@@ -2446,6 +2803,10 @@ Diese Kollektionen können mit einem umschließenden Element versehen werden, we
 
 <header></header>
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 57 von 64
+
 
 ---
 
@@ -2499,6 +2860,13 @@ Die im XML-Schema verwendeten Namespacekurzbezeichner (Präfixe) sind frei defin
 
 ### Qualified Name: <kts:vknr></kts:vknr>
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 58 von 64
+
+
 ---
 
 # 9 Anleitung zum Erstellen einer ehd- Schnittstelle
@@ -2522,6 +2890,13 @@ Detaillierte Anmerkungen zum Erstellen der Bereiche Root, Header und Body:
 -  Im Header ist die Anpassung auch nur mit ***<xs:restriction>*** (Einschränkung) erlaubt.  Das Header-Element kann auf einen beliebigen Datentyp verweisen, der jedoch vom  Basisdatentyp abgeleitet ist. Damit können alle Header-Elemente auf die spezielle xy-Schnittstelle eingeschränkt werden. Dazu wird neues Schema erstellt und das  xy_header Element vom Typ: ehd_header_typ abgeleitet. Schnittstellenspezifische  Elemente können nur an vorgesehen Stellen ***<local_header>*** hinzugefügt werden. Wie  im Kapitel 4.14 zu <local_header> beschrieben ist, wird der Basistyp: local_header-cont.model mit ***<xs:restriction>***  eingeschränkt und die schnittstellenspezifische Elemen-te können hinzugefügt werden.
 -  Im Body-Bereich wird der Basistyp: ehd_body_typ ebenfalls mit ***<xs:restriction>***  einge-schränkt. Analog zu <local_header> (Kapitel 4.14 ) wird das ***<any>*** Element mit eigent-lichen schnittstellenspezifischen Elemente ersetzt. Für den Body-Bereich kann auch  neues Schema erstellt werden.
 -  Das ***<keytabs >***-Element ist unverändert zu übernehmen.
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 59 von 64
+
 
 ---
 
@@ -2549,8 +2924,16 @@ Der Code für die <xs:restriction>-Ableitung des Roots sieht im xy_root.xsd wie 
 
 <xs:element name="ehd" type="xy_root_typ">
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 60 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 <xs:complexType name="xy_root_typ">
 
@@ -2640,8 +3023,14 @@ Der Code für die <xs:restriction>-Ableitung des Headers sieht im xy_header.xsd 
 
 **XML-Code 47 xy_header.xsd**
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 61 von 64
+
 
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 Hier wird auch neuer Datentyp („xy_header_typ“) definiert, der eine Einschränkung des Ba-sisdatentyps (hier „ehd_header_typ“) darstellt. Die Einschränkung wird mit ***<xs:restriction>*** er-reicht. Innerhalb des Headers können weitere Elemente schnittstellenspezifisch angepasst  werden: Z.B. das Element <document_type_cd> erlaubt nur einen bestimmten Wert (z.B.  V=“SDKT“). Dazu wird ein Datentyp („xy_document_type_cd_typ“) mit Ableitung vom Basis-datentyp („document_type_cd_typ“) definiert. Nur so meldet der Parser keine Fehler und es  kann sichergestellt werden, dass der neue „xy_header_typ“ Datentyp nur eine Untermenge
 
@@ -2695,7 +3084,11 @@ Auf der anderen Seite werden mögliche Fehler im Schema und die Nichteinhaltung 
 
 ### Schemaqualität wird die Entwicklungsschwierigkeiten überwiegen.
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ***<xs:restriction>*** des Basistyps:  können die eigentlichen schnittstellenspezifi-
+
+Seite 62 von 64
 
 
 ---
@@ -2734,7 +3127,16 @@ Die ehd-Richtlinie ist bewusst so gestaltet, dass sie nicht an eine Institution 
 
 Bei Anregungen zur Erweiterung, Änderung, Korrektur dieser Richtlinie senden Sie bitte eine  [email an:](mailto:ehd@kbv.de)[ehd@kbv.de](mailto:ehd@kbv.de)[](mailto:ehd@kbv.de)
 
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
+
+KBV_ITA_VGEX_eHD * Version 1.41
+
+Seite 63 von 64
+
+
 ---
+
+**IT in der Arztpraxis**  Richtlinie ehd - eHealthData
 
 # 14 Anhang
 
@@ -2788,9 +3190,13 @@ Bei Anregungen zur Erweiterung, Änderung, Korrektur dieser Richtlinie senden Si
 
 **Tabelle 6 Schlüsseltabellen**
 
+KBV_ITA_VGEX_eHD * Version 1.41
+
 ```
 [](http://www.w3.org/TR/xmlschema-0/)
 [](http://www.w3.org/TR/xmlschema-1/)
 [](http://www.w3.org/TR/xmlschema-2/)
 [](http://www.w3.org/TR/1999/REC-xpath-19991116)
 ```
+
+Seite 64 von 64

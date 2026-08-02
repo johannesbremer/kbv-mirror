@@ -8,12 +8,15 @@
 
 # HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
+Seite 1 von 4 / KBV / Muster 39
+
+Krebsfrüherkennung Zervix- Karzinom / 1. Januar 2020
 
 ---
 
-> [OCR REQUIRED — page 2]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 2 von 4 / KBV / Muster 39
 
+Krebsfrüherkennung Zervix- Karzinom / 1. Januar 2020
 
 ---
 
@@ -37,7 +40,12 @@ Bitte geben Sie den Befund mittels Münchener Nomenklatur III an:
 |---|---|
 | 0, I, II-a, II-p, II-g, II-e, III-p, III-g, III-e, III-x, IIID1,  Die folgenden Werte der Münchener  I/II, II, I-II, IIw, IIk, IIID, III, IVa, IVb, V | 0 = unzureichendes Material,  I = unauffällige und unverdächtige Befunde  II-a = Unauffällige Befunde bei auffälliger  II-p, II-g, II-e = Befunde mit eingeschränkt  III-p, III-g, III-e, III-x = Unklare bzw. zweifelhafte  IIID1, IIID2 = Dysplasiebefunde mit größerer  IVa-p, IVa-g, IVb-p, IVb-g = Unmittelbare  V-p, V-g, V-e, V-x = Malignome |
 
-IIID2, IVa-p, IVa-g, IVb-p, IVb-g, V-p, V-g, V-e, V-x Nomenklatur II dürfen nur für Befunde bis zum 31.12.2014 verwendet werden: Anamnese protektivem Wert Regressionsneigung Vorstufen des Zervixkarzinoms
+Seite 3 von 4 / KBV / Muster 39
+
+Krebsfrüherkennung Zervix- Karzinom / 1. Januar 2020
+
+IIID2, IVa-p, IVa-g, IVb-p, IVb-g, V-p, V-g, V-e, V-x Nomenklatur II dürfen nur für Befunde bis zum 31.12.2014 verwendet werden: Anamnese protektivem Wert Regressionsneigung Vorstufen des Zervixkarzinoms 
+
 
 ---
 
@@ -66,3 +74,5 @@ Die Untersuchungsnummer des zytologischen Befundes ist im Bemerkungsfeld des Abs
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  www.kbv.de/media/sp/02_Erlaeuterungen.pdf
 
 Richtlinie organisierte Krebsfrüherkennung des GBA ([https://www.g-ba.de/richtlinien/104/)](https://www.g-ba.de/richtlinien/104/)).
+
+Seite 4 von 4 / KBV / Muster 39  Krebsfrüherkennung Zervix- Karzinom / 1. Januar 2020

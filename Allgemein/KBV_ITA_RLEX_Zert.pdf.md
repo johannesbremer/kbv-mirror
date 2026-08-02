@@ -8,6 +8,8 @@
 |  | 6. Mai 2024 |
 |---|---|
 
+Seite 1 von 6 / KBV / ZERTIFIZIERUNGSRICHTLINIE DER KBV / 6. Mai 2024
+
 \|  |
 \|---|
 
@@ -45,6 +47,10 @@
 - (3) Eine Rezertifizierung findet statt, wenn die Zulassung für ein bestimmtes Zertifizierungsthema in  absehbarer Zeit ausläuft und der Antragsteller für dieses weiterhin eine Zulassung anstrebt.
 - (4) Eine automatische Rezertifizierung stellt eine Rezertifizierung ohne Prüfungen dar, wenn keine bzw.  geringfügige Anforderungen an dem Zertifizierungsthema geändert wurden oder die Zertifizierung  dieser Änderungen zu einem späteren Zeitpunkt erfolgen soll. Die KBV legt fest, ob eine automatische  Rezertifizierung durchgeführt wird.
 
+________________
+
+Seite 2 von 6 / KBV / ZERTIFIZIERUNGSRICHTLINIE DER KBV / 6. Mai 2024
+
 
 ---
 
@@ -71,6 +77,8 @@ d. R. mit Vergabe einer Prüfnummer bescheinigt wird.
 - (3) Die Sichtprüfungen finden in den Räumen der KBV in Berlin statt. Sichtprüfungen können auch in  virtuellen Räumen der KBV durchgeführt werden. Für die Durchführung der Sichtprüfungen in virtuellen  Räumen, gelten die technischen Vorgaben der KBV.
 - (4) Sind die Unterlagen bei Antragstellung unvollständig, kann die KBV eine angemessene Frist zur  Vervollständigung setzen. Nach Ablauf der Frist gilt der Antrag als zurückgenommen.
 
+Seite 3 von 6 / KBV / ZERTIFIZIERUNGSRICHTLINIE DER KBV / 6. Mai 2024
+
 
 ---
 
@@ -94,6 +102,9 @@ Wenn erforderliche Prüfunterlagen nicht innerhalb einer angemessenen Frist beig
 
 Die KBV kann bei einem konkreten Verdacht auf einen Verstoß gegen die Anforderungen an den  Zertifizierungsgegenstand eine außerordentliche Kontrollprüfung durchführen. Die KBV entscheidet je  Einzelfall über Art, Umfang und Durchführung der Kontrollprüfung.
 
+Seite 4 von 6 / KBV / ZERTIFIZIERUNGSRICHTLINIE DER KBV / 6. Mai 2024
+
+
 ---
 
 # § 9 GEBÜHREN UND AUSLAGEN
@@ -111,8 +122,9 @@ Die Gebühren und Auslagen auf Grundlage dieser Richtlinie bestimmen sich nach d
 | 7. | Vollständige oder teilweise Zurückweisung eines   Widerspruchs. | Bis zur Höhe der für den |
 | 8. | Aufwand für besondere Verpackung und besondere    Beförderung | In voller Höhe |
 
-für Neu-, Re- und Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung für Neu-, Re- und Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung € bis 4.000,00 € bis 4.000,00 € bis zu  25 % der themenspezifischen Kosten des Verfahrens € bis 4.000,00 angefochtenen Verwaltungsakt festgesetzten Gebühr; mindestens €, höchstens 350,00 €
+Seite 5 von 6 / KBV / ZERTIFIZIERUNGSRICHTLINIE DER KBV / 6. Mai 2024
 
+für Neu-, Re- und Erweiterungszertifizierung beinhaltet u. a. die anfallende automatische Rezertifizierung für Neu-, Re- und Erweiterungszertifizierung [pro Sichtprüfungstermin] beinhaltet u. a. die anfallende automatische Rezertifizierung € bis 4.000,00 € bis 4.000,00 € bis zu  25 % der themenspezifischen Kosten des Verfahrens € bis 4.000,00 angefochtenen Verwaltungsakt festgesetzten Gebühr; mindestens €, höchstens 350,00 €
 
 ---
 
@@ -143,3 +155,5 @@ Abteilung IT in der Arztpraxis  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de
 Die Kassenärztliche Bundesvereinigung (KBV) vertritt die politischen Interessen der rund 170.000 an der vertragsärztlichen Versorgung  teilnehmenden Ärzte und Psychotherapeuten auf Bundesebene. Sie ist der Dachverband der 17 Kassenärztlichen Vereinigungen (KVen), die die  ambulante medizinische Versorgung für 70 Millionen gesetzlich Versicherte in Deutschland sicherstellen. Die KBV schließt mit den gesetzlichen
 
 Krankenkassen und anderen Sozialversicherungsträgern Vereinbarungen, beispielsweises zur Honorierung der niedergelassenen Ärzte und  Psychotherapeuten sowie zum Leistungsspektrum der gesetzlichen Krankenkassen. Die KVen und die KBV sind als Einrichtung der ärztlichen  Selbstverwaltung Körperschaften des öffentlichen Rechts.
+
+Seite 6 von 6 / KBV / ZERTIFIZIERUNGSRICHTLINIE DER KBV / 6. Mai 2024

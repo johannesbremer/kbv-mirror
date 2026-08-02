@@ -20,6 +20,8 @@ Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der
 
 Wenn die Behandlung aufgrund oder als Folge eines Unfalles erforderlich wird, kann die Krankenkassen ggf.  Kosten gegenüber Dritten geltend machen.
 
+Seite 1 von 3 / KBV /Elektronische Ausfüllhilfe Muster 10 / April 2024
+
 
 ---
 
@@ -69,6 +71,8 @@ Der eine Auftragsleistung ausführende Arzt ist berechtigt, Teile dieses Auftrag
 
 ## 14. EILIGE BEFUNDÜBERMITTLUNG
 
+Seite 2 von 3 / KBV /Elektronische Ausfüllhilfe Muster 10 / April 2024
+
 
 ---
 
@@ -83,3 +87,5 @@ Die Veranlassung von Leistungen der Mutterschaftsvorsorge gemäß den Mutterscha
 ## 16. BARCODE BEI BLANKOFORMULARBEDRUCKUNG
 
 Bei Einsatz des Verfahrens zur Blankoformularbedruckung wird mittels Laserdrucker ein zweidimensionaler  Barcode PDF 417 aufgedruckt. Dieser enthält sämtliche Informationen des Formulars und kann von dem im  Auftrag tätig werdenden Arzt automatisch ausgewertet werden.
+
+Seite 3 von 3 / KBV /Elektronische Ausfüllhilfe Muster 10 / April 2024

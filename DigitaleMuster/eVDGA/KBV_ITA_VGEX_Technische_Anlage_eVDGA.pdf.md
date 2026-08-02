@@ -13,6 +13,11 @@
 # ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
 ## [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_EVDGA]
 
+SEITE 1 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
+
 ---
 
 ## INHALT
@@ -58,7 +63,9 @@
 
 **54**
 
-FESTLEGUNG FÜR DIE SOFTWARE Übergreifende Anforderungen Bereitstellung eines Patientenausdrucks 
+SEITE 2 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+FESTLEGUNG FÜR DIE SOFTWARE Übergreifende Anforderungen Bereitstellung eines Patientenausdrucks 13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -72,6 +79,10 @@ Tabelle 1: KBV_PR_EVDGA_Bundle  Tabelle 2: KBV_PR_EVDGA_Composition  Tabelle 3: 
 Abbildung 1: Exemplarischer „Ausdruck zur Einlösung
 
 Ihres E-Rezeptes Ihrer Verordnung: DIGA
+
+SEITE 3 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 
 10  11  11  11  11  15  16  16  17  18  36 27
 
@@ -94,7 +105,10 @@ Ihres E-Rezeptes Ihrer Verordnung: DIGA
 |  |  |  |  |  | **Begründung  Seite ** 1.10  13.05.2026  KBV  Anpassung des Patientenausdruckes  Anpassung der Anforderung P62-15  Streichung der Anforderung P62-12  Verbesserung der Pati- 27 |
 |  | 29 |  | 33 |  | 1.09 |
 
-entenverständlichkeit 29, 36 greifende Vereinheitli- chungen FHIR-Profile BugFix-Release (auf- grund Anpassung in FOR-Profilen) 61c FHIR-Profile KBV_EX_EVDGA_SER Textm arke P35-21, P35-31, P35-34 und P5-01 nicht defini ert. der 19, 25, 29, 36, 43, 50 und 74 des In- formationsmodells und35 des Informationsmodells Textm arke nicht
+SEITE 4 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+entenverständlichkeit 29, 36 greifende Vereinheitli- chungen FHIR-Profile BugFix-Release (auf- grund Anpassung in FOR-Profilen) 61c FHIR-Profile KBV_EX_EVDGA_SER Textm arke P35-21, P35-31, P35-34 und P5-01 nicht defini ert. der 19, 25, 29, 36, 43, 50 und 74 des In- formationsmodells und35 des Informationsmodells Textm arke nicht 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -114,7 +128,10 @@ entenverständlichkeit 29, 36 greifende Vereinheitli- chungen FHIR-Profile BugFi
 |  |  |  |  |  | **defini** 15, 36  36  36  1.05 |
 | 20.01.2025 | KBV | Anpassungen der Versionsnummer der | Redaktionelle Anpassungen | Verzicht auf FHIRPath- | 10 |
 
-FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens SER (Anfor- derungen P35-22) Anpassung der Anforderung P62-01 Feld 61a) P62-01 und P62-08  funktion P35-34 (Anforderungen P35-13, P35-22, P35-23 und P35-31) ert. Funktion Low- Boundary() Profils KBV_PR_EVDGA_Bundl zung der FHIR-Profile für Versicherte der Verordnung zu Lasten Fehler von gesetzlichen Un- fallversicherungen, Textm sonstigen Kostenträ- arke gern und privaten nicht Krankenversicherun- ert. Ausdruck zur Einlösung
+SEITE 5 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens SER (Anfor- derungen P35-22) Anpassung der Anforderung P62-01 Feld 61a) P62-01 und P62-08  funktion P35-34 (Anforderungen P35-13, P35-22, P35-23 und P35-31) ert. Funktion Low- Boundary() Profils KBV_PR_EVDGA_Bundl zung der FHIR-Profile für Versicherte der Verordnung zu Lasten Fehler von gesetzlichen Un- fallversicherungen, Textm sonstigen Kostenträ- arke gern und privaten nicht Krankenversicherun- ert. Ausdruck zur Einlösung 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -134,7 +151,12 @@ FHIR-Profile FHIR-Profile P35-33 und P5-01 und P35-37 Aufnahme des Kennzeichens 
 |  |  |  |  |  | 13, 14,  16, 18,  35 |
 | 0.90 | 12.10.2023 | KBV | Erstellung der Spezifikation zur Kom- |  | alle |
 
-mentierung
+SEITE 6 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN
+
+13. MAI 2026 / VERSION: 1.10
+
+mentierung (E16D)
+
 
 ---
 
@@ -158,6 +180,10 @@ Softwarehersteller, die ihren Anwendern im vertragsärztlichen Bereich die elekt
 
 Dieses Dokument enthält Inhalte, die nicht in der Regelungshoheit der Partner des Bundesmantelvertrags-Ärzte (BMV-Ä) liegen. Die fachliche Verantwortung für spezifische Vorgaben zur Privaten Krankenversiche-rung liegt beim Verband der Privaten Krankenversicherung (PKV).
 
+SEITE 7 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -170,6 +196,10 @@ Die auszutauschenden Daten zwischen den beteiligten Systemen sind auf Basis des 
 - Die Anforderungen an die Übertragung der Verordnung werden in Kapitel
 - In Kapitel 4 sind weitere Vorgaben für Praxisverwaltungssysteme (PVS) beschrieben.
 - Die zu übertragenden Inhalte sowie das Mapping auf die einzelnen FHIR®-Ressourcen werden in  Kapitel 4 beschrieben.
+
+SEITE 8 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 
 Standards
 
@@ -209,6 +239,10 @@ Bedeutung:
 - Thema
 - EVDGA steht für elektronische Gesundheitsanwendungen-Verordnung
 
+SEITE 9 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -245,7 +279,11 @@ Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbild
 | Version | 1.2.2 |
 | Hinweis | Beinhaltet die Abbildung aller Instanzen der benötigten Profile für die Inhalte der |
 
-Bundle zur Definition der gesamthaften Inhalte der elektronischen Verordnung digi- elektronischen Verordnung digitaler Gesundheitsanwendungen **Tabelle 1: KBV_PR_EVDGA_Bundle**
+**Tabelle 1: KBV_PR_EVDGA_Bundle**
+
+SEITE 10 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+Bundle zur Definition der gesamthaften Inhalte der elektronischen Verordnung digi- elektronischen Verordnung digitaler Gesundheitsanwendungen 13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -296,7 +334,10 @@ Die CodeSysteme definieren, welche Codes festgelegt wurden und was diese bedeute
 |---|---|
 | **P35-11** | Verwendung der FOR- und EVDGA-Profile |
 
-Klammerung der fachlichen Daten für die elektronische Verordnung digitaler Ge- Darstellung der spezifischen Informationen der elektronischen Verordnung digitaler Ausprägung der zulässigen Codes für das Element section.code.coding.code des Pro- KBV_PR_EVDGA_Composition
+SEITE 11 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+Klammerung der fachlichen Daten für die elektronische Verordnung digitaler Ge- Darstellung der spezifischen Informationen der elektronischen Verordnung digitaler Ausprägung der zulässigen Codes für das Element section.code.coding.code des Pro- KBV_PR_EVDGA_Composition13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -337,7 +378,11 @@ Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt 
 
 **Akzeptanzkriterium:**
 
-„mustSupport“- 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Ele-mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
+- 1. Die Software, welche die Dateien erstellt, muss die mit „mustSupport“ gekennzeichneten FHIR®-Ele-mente (mustSupport value="true") in den KBV-Profilen unterstützen  befüllen und übermitteln können.
+
+SEITE 12 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+„mustSupport“13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -384,6 +429,10 @@ Zum 1. Oktober 2025 wird die Aktualisierung der EVDGA-FHIR-Profile eingeführt. 
 
 **HINWEIS**
 
+SEITE 13 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -426,6 +475,10 @@ Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EVDGA_HealthAppRe
 
 Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteile einer Gesundheitsanwen-dungen-Verordnung ab.
 
+SEITE 14 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -454,6 +507,10 @@ Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteil
 - log_VDGA] zu befüllen.
 - b) Optionale Felder müssen befüllt werden können.
 - 3. Die Instanz des KBV_PR_EVDGA_HealthAppRequest muss die folgenden Instanzen referenzieren kön-nen:
+
+SEITE 15 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 - 4 auf das Profil KBV_PR_EVDGA_HealthAppRequest muss
 - 1 aufgeführten Datenfelder zu befül-
 
@@ -495,7 +552,11 @@ Die Composition definiert die Gesamtheit von Informationen, die zu einem einzige
 | Prüfnummer | 4 | author.type = „Device“    author.identifier | WENN         ANSONSTEN |
 | Kennzeichen Rechtsgrund- | 17 | extension:rechtsgrundlage.va- | WENN         ANSONSTEN |
 
-belle 11 14-16 + 26 sches_Handbuch_DiMus 33 + 35-38 sches_Handbuch_DiMus + 44 - 49, 147 sches_Handbuch_DiMus das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. **Tabelle 8: Mapping KBV_PR_EVDGA Composition**
+**Tabelle 8: Mapping KBV_PR_EVDGA Composition**
+
+SEITE 16 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+belle 11 14-16 + 26 sches_Handbuch_DiMus 33 + 35-38 sches_Handbuch_DiMus + 44 - 49, 147 sches_Handbuch_DiMus das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. lue[x]:valueCoding.code das Feld ID 7 gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. 13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -522,7 +583,11 @@ belle 11 14-16 + 26 sches_Handbuch_DiMus 33 + 35-38 sches_Handbuch_DiMus + 44 - 
 |---|---|
 | **P35-24** | Instanziierung KBV_PR_EVDGA_Bundle |
 
-belle 11 pRequest 80, 82-83 DiGA.code.coding.code = Prescription DiGA.entry.reference = 33 + 35-38 sches_Handbuch_DiMus + 44 - 49, 147 sches_Handbuch_DiMus 58, 149 sches_Handbuch_DiMus 14-16 + 26 verhaeltnis.code.coding.code = verhaeltnis.entry.reference = sches_Handbuch_DiMus - 71 sches_Handbuch_DiMus sches_Handbuch_DiMusDie Software erzeugt eine Instanz des Profils KBV_PR_EVDGA_Bundle.
+Die Software erzeugt eine Instanz des Profils KBV_PR_EVDGA_Bundle.
+
+SEITE 17 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+belle 11 pRequest 80, 82-83 DiGA.code.coding.code = Prescription DiGA.entry.reference = 33 + 35-38 sches_Handbuch_DiMus + 44 - 49, 147 sches_Handbuch_DiMus 58, 149 sches_Handbuch_DiMus 14-16 + 26 verhaeltnis.code.coding.code = verhaeltnis.entry.reference = sches_Handbuch_DiMus - 71 sches_Handbuch_DiMus sches_Handbuch_DiMus13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -563,8 +628,11 @@ Sofern es sich bei der die Verordnung ausstellende Person um einen Arzt in Weite
 **Akzeptanzkriterium:**
 
 - 1. Die Software muss in dem Profil KBV_PR_EVDGA_Composition ermöglichen, dass neben der ausstellen-den Person (über Element „author.reference“ und Element „author.type = „Practitioner“) auch die ver-antwortliche Person (über Element „attester.party.reference hinterlegt werden kann.
+- a) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person  (Element „author.reference“ und Element „author.type = „Practitioner“ im Profil
 
-nenten der TI   - a) Dies darf nur dann erfolgen, wenn in der Instanz des referenzierten Profils der ausstellenden Person  (Element „author.reference“ und Element „author.type = „Practitioner“ im Profil
+SEITE 18 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+nenten der TI 13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -605,6 +673,10 @@ Die elektronische Verordnung von DiGA zu Lasten einer gesetzlichen Unfallversich
 
 - 4. Die Software muss die Erzeugung von FHIR-Instanz gemäß P35-21 zu Lasten der gesetzlichen Unfallversi-cherung verhindern:
 - a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil  KBV_PR_FOR_Coverage nicht mit den Werten „BG“ oder „UK“ versehen werden kann.
+
+SEITE 19 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -647,6 +719,10 @@ Für eine valide Verordnung muss, die im FHIR-Verordnungsdatensatz hinterlegte a
 
 - 1. Die Software ermöglicht es, direkt vor der Anforderung einer Signatur gemäß P4-01 die in dem FHIR-Ver-ordnungsdatensatz hinterlegte ausstellende Person (unter Composition.author.reference referenzierte  Practioner-Instanz) durch den Anwender zu aktualisieren.
 
+SEITE 20 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -675,6 +751,11 @@ Die privaten Krankenversicherungen nehmen nicht am Verfahren der elektronischen 
 - a) Die Software muss sicherstellen, dass das Element „type.coding.code“ im Profil  KBV_PR_FOR_Coverage nicht mit dem Wert „PKV“ versehen werden kann.
 - b) Die Software muss sicherstellen, dass das Element „identifier.type.coding.code“ im Profil  KBV_PR_FOR_Patient nicht mit dem Wert „PKV“ versehen werden kann.
 - c) Die Software muss sicherstellen, dass das Element „extension.value[x].system“ im Profil  KBV_PR_FOR_Composition nicht mit dem Wert „[https://fhir.kbv.de/CodeSys-](https://fhir.kbv.de/CodeSys-) tem/KBV_CS_SFHIR_KBV_PKV_TARIFF“ versehen werden kann.
+
+SEITE 21 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -714,11 +795,21 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 - 1. Der Anwender muss im Rahmen des Signaturvorgangs die Möglichkeit haben, sich die Inhalte einer oder  mehrerer zu signierenden Instanz(en) auf Basis des definierten Stylesheets [eVDGA-Stylesheet] anzeigen  zu lassen.
 - 2. Die Software muss verhindern, dass ein unmittelbarer Ausdruck der xHTML-Repräsentation auf Basis  des Stylesheets [eVDGA-Stylesheet] ermöglicht wird.
 
+SEITE 22 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
+
 ---
 
 **HINWEIS**
 
 - Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewähl-ten Algorithmus einzelne Instanzen anzeigen, und so die Prüfung erleichtern.
+
+SEITE 23 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -746,7 +837,9 @@ Gemäß § 312 Absatz 1 Punkt 7 SGB V hat die gematik die Maßnahmen durchzufüh
 
 Gemäß dem Anforderungskatalog für Verordnungssoftware [EXT_ITA_VGEX_Anforderungskatalog_VDGA muss die Software die Verordnung auf Muster 16 in Papierform weiter ermöglichen. Im Kontext der Verord-nung von DiGA greift dies insbesondere im Rahmen von technischen Störungen oder bei mobilen Versor-gungssituationen, wie bspw. Haus- und Heimbesuchen.
 
-nung 
+SEITE 24 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+nung 13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -792,8 +885,11 @@ Auf Wunsch des Versicherten muss die Einlösung einer elektronischen Gesundheits
 - 2. Der Ausdruck darf standardmäßig nur auf Anforderung des Anwenders erfolgen.
 - 3. Die Software kann die automatische Bereitstellung des Ausdrucks ermöglichen, wenn der Anwender  dies vorher per Konfiguration bspw. patientenindividuell hinterlegt hat.
 - 4. Die Software darf den Ausdruck erst ermöglichen, wenn jede signierte elektronische Verordnung für den  Versicherten erfolgreich in den Fachdienst eingestellt wurde.
+- a) Die Software muss den Ausdruck zu einem beliebigen Zeitpunkt ermöglichen.
 
-Ihres E-Rezeptes Ihrer Verordnung: DIGA  - a) Die Software muss den Ausdruck zu einem beliebigen Zeitpunkt ermöglichen.
+SEITE 25 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+Ihres E-Rezeptes Ihrer Verordnung: DIGA13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -826,7 +922,10 @@ Für eine systemübergreifende einheitliche Darstellung des Ausdrucks sind spezi
 
 **Akzeptanzkriterium:**
 
-Ihres E-Rezeptes Ihrer Verordnung: DIGA
+SEITE 26 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+Ihres E-Rezeptes Ihrer Verordnung: DIGA13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -870,6 +969,10 @@ Um in den Praxen die Anzahl der bedruckten Blätter zu reduzieren, kann die Soft
 
 **Akzeptanzkriterium:**
 
+SEITE 27 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -911,7 +1014,11 @@ Die Software muss auf dem Ausdruck das Geburtsdatum des Versicherten aufdrucken.
 
 **Begründung:**
 
-oren am“Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss das Geburtsdatum des  Versicherten auf dem Ausdruck erfasst werden.
+Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss das Geburtsdatum des  Versicherten auf dem Ausdruck erfasst werden.
+
+SEITE 28 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+oren am“13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -964,6 +1071,10 @@ Um eine Zuordnung des Ausdrucks zu der verschreibenden Person zu ermöglichen, m
 
 **Akzeptanzkriterium:**
 
+SEITE 29 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -1006,6 +1117,10 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 
 - Sofern auf dem Ausdruck Verordnungen mit verschiedenen Ausstellungsdaten vorhanden sind, so ist  immer das aktuelle Datum aufzudrucken. Das Datum auf dem Ausdruck hat einen rein informativen Cha-rakter und führt zu keinen Änderungen der Informationen in den FHIR-Instanzen.
 - Dies kann bspw. bei einem erneuten Ausdruck einer Verordnung aufgrund des Verlustes des vorange-gangenen Papierausdrucks erfolgen.
+
+SEITE 30 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 - (ID 48)
 - (ID 45)
 - (ID 44)
@@ -1055,6 +1170,10 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 
 - Die Angaben zu Trennzeichen und fixen Werten erfolgt im Ausdruck ohne die Anführungszeichen „“.  Diese dienen in den Akzeptanzkriterien ausschließlich der Kenntlichmachung des Inhaltes und von Leer-zeichen.
 
+SEITE 31 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -1092,6 +1211,10 @@ Der Sammeltoken ermöglicht die Einlösung der elektronischen Verordnungen digit
 - 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der aufge-druckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal drei) Token in  dem 2D-Code als Sammeltoken umfasst, welche gemäß P62-10 bereits für die 2D-Codes der Einzelver-ordnungen erstellt sind.
 - 4. Der 2D-Code muss fest mit einer Größe von 5cm x 5cm 4,4 cm x 4,4 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
 - 5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
+
+SEITE 32 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -1136,9 +1259,16 @@ Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks we
 - 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte  eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.
 - 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“,  innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P62-09 jeweils dieselbe Schriftgröße haben.
 
+SEITE 33 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
+SEITE 34 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -1171,6 +1301,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 - Ggfs. detaillierte Beschreibung des Feldes, sofern nötig
 - **Bedingung**
 - Logische Bedingung, an welche die Befüllung eines Feldes oder eines gesamten Blocks geknüpft ist
+
+SEITE 35 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 
 
 ---
@@ -1297,7 +1431,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  | **1..1** |  | **Dieser Block enthält Informationen** |  |  | 2 |  | x |  |
 |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des Formu- |  | 3 |  | x |  |  |
 
-(GRAU = BLOCK) DERH. zum Dokument. lars der vertragsärztlichen Versorgung. formationsmodells. Konkret bezieht sich diese Angabe auf die Version des FHIR-Profils KBV_PR_EVDGA_Bundle. welche jede zertifizierte Software im vertragsärztlichen Bereich im Rahmen der Zertifizierung der KBV erhält.  Verordnung von digitalen Gesundheitsanwendungen (Vordruck e16D)" ist die Prüfnummer für das Zertifizierungsthema "Verord- nung von digitalen Gesundheitsanwen- dungen" anzugeben. Programmstandskennzeichen anzuge- ben. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional.
+SEITE 36 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+(GRAU = BLOCK) DERH. zum Dokument. lars der vertragsärztlichen Versorgung. formationsmodells. Konkret bezieht sich diese Angabe auf die Version des FHIR-Profils KBV_PR_EVDGA_Bundle. welche jede zertifizierte Software im vertragsärztlichen Bereich im Rahmen der Zertifizierung der KBV erhält.  Verordnung von digitalen Gesundheitsanwendungen (Vordruck e16D)" ist die Prüfnummer für das Zertifizierungsthema "Verord- nung von digitalen Gesundheitsanwen- dungen" anzugeben. Programmstandskennzeichen anzuge- ben. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“  oder "BG" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -1423,7 +1560,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** |  |
 |  |  | **1..1** |  | **Dieser Block enthält Daten zum Kos-** |  |  | 7 |  | x |  |  |
 
-(GRAU = BLOCK) DERH. Identifikation des Dokuments, bzw. der Verordnung. Diese ID wird mit signiert und sichert damit die Verordnung vor Fälschungen. nung von digitalen Gesundheitsanwen- dungen (Vordruck e16D)" wird die Do- kumenten-ID gemäß den Vorgaben der gematik gesetzt. tenträger. trägers, z.B. gesetzliche Krankenversi- cherung (GKV). mationen zum Kostenträger. kennzeichen (IK) laut der Versicherten- karte.  nach der "Technische Anlage zur An- lage 4a BMV-Ä" Kapitel 2.2 "USE- CASES". das Feld „Unfallkennzeichen“ gleich „2“ oder „4“ ist, DANN  muss in diesem Feld der Wert „BG“ oder „UK“ übertragen werden. darf in diesem Feld der Wert „BG“ oder „UK“ nicht übertragen werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  ist dieses Feld Pflicht. ist dieses Feld optional.
+SEITE 37 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+(GRAU = BLOCK) DERH. Identifikation des Dokuments, bzw. der Verordnung. Diese ID wird mit signiert und sichert damit die Verordnung vor Fälschungen. nung von digitalen Gesundheitsanwen- dungen (Vordruck e16D)" wird die Do- kumenten-ID gemäß den Vorgaben der gematik gesetzt. tenträger. trägers, z.B. gesetzliche Krankenversi- cherung (GKV). mationen zum Kostenträger. kennzeichen (IK) laut der Versicherten- karte.  nach der "Technische Anlage zur An- lage 4a BMV-Ä" Kapitel 2.2 "USE- CASES". das Feld „Unfallkennzeichen“ gleich „2“ oder „4“ ist, DANN  muss in diesem Feld der Wert „BG“ oder „UK“ übertragen werden. darf in diesem Feld der Wert „BG“ oder „UK“ nicht übertragen werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  ist dieses Feld Pflicht. ist dieses Feld optional. 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -1549,7 +1689,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 | 11 |  |  | x |  |  |  | Name des Kostenträgers | 1..45 | 1..1 | Dieses Feld enthält den Namen des | 12 |
 |  |  | x |  |  |  | WOP | 2 | 0..1 | Dieses Feld enthält das Wohnortkenn- | WENN | ANSONSTEN |
 
-(GRAU = BLOCK) DERH. kennzeichen (IK) und wird verwendet, wenn der Kostenträger nicht die zu- ständige Krankenkasse laut eGK ist, bspw. eine Berufsgenossenschaft (BG) oder eine Unfallkasse (UK). Kostenträgers. Der korrekte Name ergibt sich aus den definierten Be- druckungsregeln laut "Technische An- lage zur Anlage 4a BMV-Ä" Kapitel "2.3 Bedruckung des Personalienfelds und des verkürzten Personalienfelds". zeichen entsprechend des Wohnort- prinzips (WOP) für Honorarvereinba- rungen (BMV-Ä Anlage 21). einem Unfall, falls die Verordnung im Zusammenhang mit einem Unfall aus- gestellt wurde. welchem Zusammenhang die Verord- nung ausgestellt wurde, z.B. Unfall. das Feld "Kostenträgertyp" gleich "BG" oder "UK"  ist, DANN kann das Feld übertragen werden. darf das Feld nicht übertragen werden. eine eGK mit VSD-Schema >= 5.2.0 eingelesen wurde, DANN ist dieses Feld verpflichtend zu übertragen. kann dieses Feld übertragen werden. das Feld „Unfallkennzeichen“ gleich „2“ oder „4“ ist, DANN  muss im Feld Kostenträgertyp der Wert „BG“ oder „UK“ übertragen werden. darf im Feld Kostenträgertyp der Wert „BG“ oder „UK“ nicht übertragen werden.
+SEITE 38 VON 55 / KBV / TECHNISCHE ANLAGE ZUR
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) DERH. kennzeichen (IK) und wird verwendet, wenn der Kostenträger nicht die zu- ständige Krankenkasse laut eGK ist, bspw. eine Berufsgenossenschaft (BG) oder eine Unfallkasse (UK). Kostenträgers. Der korrekte Name ergibt sich aus den definierten Be- druckungsregeln laut "Technische An- lage zur Anlage 4a BMV-Ä" Kapitel "2.3 Bedruckung des Personalienfelds und des verkürzten Personalienfelds". zeichen entsprechend des Wohnort- prinzips (WOP) für Honorarvereinba- rungen (BMV-Ä Anlage 21). einem Unfall, falls die Verordnung im Zusammenhang mit einem Unfall aus- gestellt wurde. welchem Zusammenhang die Verord- nung ausgestellt wurde, z.B. Unfall. das Feld "Kostenträgertyp" gleich "BG" oder "UK"  ist, DANN kann das Feld übertragen werden. darf das Feld nicht übertragen werden. eine eGK mit VSD-Schema >= 5.2.0 eingelesen wurde, DANN ist dieses Feld verpflichtend zu übertragen. kann dieses Feld übertragen werden. das Feld „Unfallkennzeichen“ gleich „2“ oder „4“ ist, DANN  muss im Feld Kostenträgertyp der Wert „BG“ oder „UK“ übertragen werden. darf im Feld Kostenträgertyp der Wert „BG“ oder „UK“ nicht übertragen werden.ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -1675,7 +1820,12 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 | WENN | 75 |  |  |  | x |  |  | Name des Unfallbetriebs | 1..45 | 0..1  Dieses Feld enthält den Namen des Ar- | WENN |
 |  |  |  | ANSONSTEN |  |  | **13** |  |  |  | **x** |  |
 
-(GRAU = BLOCK) DERH. fallereignisses, das Ursache für die Ver- ordnung ist. beitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Versichertenstatus. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ cherung, z.B. ob der Versicherte Fami- lienversicherter, Mitglied oder Rentner ist. sonengruppe, zu der der Versicherte gehört (§ 264 SGB V). das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  oder "BG" oder "UK ist,  DANN  ist dieser Block Pflicht. ist dieser Block optional.
+SEITE 39 VON 55 / KBV / TECHNISCHE ANLAGE ZUR
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) DERH. fallereignisses, das Ursache für die Ver- ordnung ist. beitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Versichertenstatus. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ cherung, z.B. ob der Versicherte Fami- lienversicherter, Mitglied oder Rentner ist. sonengruppe, zu der der Versicherte gehört (§ 264 SGB V). das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  dieses Feld ein Datum enthält, DANN darf dieses nicht nach dem Ausstellungsdatum liegen. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden.  oder "BG" oder "UK ist,  DANN  ist dieser Block Pflicht. ist dieser Block optional. ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -1801,7 +1951,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die Rechtsgrund- |  | 26 |  |  | x |  |
 |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des En- |  |  | **18** |  | **x** |  |  |
 
-cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). lage, auf Basis derer die Leistung er- bracht wurde, z. B. Entlass-Rezept, Ter- minservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des des Versicherungsschutzes, wenn die Datumsangabe auf der Versicher- tenkarte gespeichert ist und ausgele- sen wurde. der Person, z.B. die Krankenversiche- rungsnummer der GKV. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  der gesetzlichen Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer der GKV gemäß § 290 und § 362 SGB V). des Namens des Versicherten. ist dieser Block Pflicht.  ist dieser Block optional.
+SEITE 40 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+cherten. (GRAU = BLOCK) DERH. nagement-Programm (DMP), in dem der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). lage, auf Basis derer die Leistung er- bracht wurde, z. B. Entlass-Rezept, Ter- minservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des des Versicherungsschutzes, wenn die Datumsangabe auf der Versicher- tenkarte gespeichert ist und ausgele- sen wurde. der Person, z.B. die Krankenversiche- rungsnummer der GKV. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN  der gesetzlichen Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer der GKV gemäß § 290 und § 362 SGB V). des Namens des Versicherten. ist dieser Block Pflicht.  ist dieser Block optional. 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -1826,6 +1979,10 @@ x
 28
 
 x
+
+SEITE 41 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+13. MAI 2026 / VERSION: 1.10
 
 **4 5 6 FELDNAME**  **(GRAU = BLOCK)**
 
@@ -2024,7 +2181,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  | ANSONSTEN |  | 30 |  |  | x |  |  |  | Ortsname der Versichertenan- 1..40 | 0..1 |
 | Dieses Feld enthält den Ortsnamen. |  | 31 |  |  | x |  |  |  | Straßenname der Versicherten- | 1..46  0..1 | Dieses Feld enthält den Straßennamen. |
 
-(GRAU = BLOCK) tenanschrift nicht angegeben ist, DANN muss dieser Block angegeben werden. DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Dieser Block enthält Informationen zur der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional. darf dieser Block nicht angegeben werden.
+SEITE 42 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) tenanschrift nicht angegeben ist, DANN muss dieser Block angegeben werden. DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. Dieser Block enthält Informationen zur der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional. darf dieser Block nicht angegeben werden. GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -2150,7 +2312,10 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |  |  | ANSONSTEN WENN |  |
 |  | ANSONSTEN |  | 37 |  |  | x |  |  |  | Ortsname der Versicherten- 1..40 | 0..1 |
 
-(GRAU = BLOCK) cherten-Postfachanschrift Postfachanschrift Postfachanschrift fachanschrift Person son. den/ verschreibenden Person den/ verschreibenden Person DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. chen den Angaben des Vertrags- arztstempels für Formulare. Dieser Block enthält die Daten der Dieser Block enthält Informationen der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional.
+SEITE 43 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+(GRAU = BLOCK) cherten-Postfachanschrift Postfachanschrift Postfachanschrift fachanschrift Person son. den/ verschreibenden Person den/ verschreibenden Person DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. chen den Angaben des Vertrags- arztstempels für Formulare. Dieser Block enthält die Daten der Dieser Block enthält Informationen der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versi- chertenanschrift“ gleich „D“ und das Feld "Kosten- trägertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, DANN ist dieses Feld Pflicht.  ist dieses Feld optional. 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -2276,7 +2441,10 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  |  | Berufsbezeichnung der ausstel- | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe |  | 147 |  |  | x |  |
 |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV-Fachgrup- | WENN |  | ANSONSTEN |  | **42** |  |  |
 
-(GRAU = BLOCK) schreibenden Person lenden/ verschreibenden Person ausstellenden/ verschreibenden Person verschreibenden Person DERH. zeichnung der verschreibenden Person, z.B. Arzt, Arzt in Weiterbildung. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer (Le- benslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zu- sätzlich eine Telematik-ID enthalten. „ASV -Fachgruppennummer der ausstellenden/ das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ und das Feld „Kenn- zeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und das Feld „Identifikator der ausstellenden/ ver- schreibenden Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben  werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist und das Feld „Typ der ausstellenden / verschreibenden Person“ verschreibenden Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieses Feld optional.
+SEITE 44 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+(GRAU = BLOCK) schreibenden Person lenden/ verschreibenden Person ausstellenden/ verschreibenden Person verschreibenden Person DERH. zeichnung der verschreibenden Person, z.B. Arzt, Arzt in Weiterbildung. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer (Le- benslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zu- sätzlich eine Telematik-ID enthalten. „ASV -Fachgruppennummer der ausstellenden/ das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ und das Feld „Kenn- zeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und das Feld „Identifikator der ausstellenden/ ver- schreibenden Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben  werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist und das Feld „Typ der ausstellenden / verschreibenden Person“ verschreibenden Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreiben- den Person“ gleich „02“ ist oder das Feld „ASV Fachgruppennummer der ausstellenden/ ver- schreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieses Feld optional. 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -2402,7 +2570,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  | x |  |  | Zahnarztnummer der der aus- | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN |  | ANSONSTEN  42c |  |
 |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  | 43 |  |
 
-(GRAU = BLOCK) verschreibenden Person stellenden/ verschreibenden Person verschreibenden Person lenden/ verschreibenden Person DERH. Person eine Arztnummer (Lebenslange Arztnummer LANR). Person, eine Zahnarztnummer (ZANR). Person eine Telematik-ID. bulanten spezialfachärztlichen Versor- gung (ASV) genutzt. Jedes ASV-Team erhält von der ASV-Servicestelle eine ASV-Teamnummer. Mit ihr kennzeich- nen ASV-Ärzte die Leistungen oder Ver- ordnungen, die sie in der ASV durch- führen. Die Teamnummer umfasst neun Ziffern und ist wie eine Betriebs- stättennummer (BSNR) aufgebaut. Sie wird vergeben, sobald die Ärzte eine ASV-Berechtigung haben  zusätzlich zur BSNR und zur lebenslangen Arzt- nummer. der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  darf dieses Feld nicht angegeben werden. das Feld „Kennzeichen Rechtsgrundlage“ den Wert "01" oder "11" besitzt, DANN muss dieses Feld übertragen werden. darf dieses Feld nicht angegeben werden.
+SEITE 45 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) verschreibenden Person stellenden/ verschreibenden Person verschreibenden Person lenden/ verschreibenden Person DERH. Person eine Arztnummer (Lebenslange Arztnummer LANR). Person, eine Zahnarztnummer (ZANR). Person eine Telematik-ID. bulanten spezialfachärztlichen Versor- gung (ASV) genutzt. Jedes ASV-Team erhält von der ASV-Servicestelle eine ASV-Teamnummer. Mit ihr kennzeich- nen ASV-Ärzte die Leistungen oder Ver- ordnungen, die sie in der ASV durch- führen. Die Teamnummer umfasst neun Ziffern und ist wie eine Betriebs- stättennummer (BSNR) aufgebaut. Sie wird vergeben, sobald die Ärzte eine ASV-Berechtigung haben  zusätzlich zur BSNR und zur lebenslangen Arzt- nummer. der Block „Identifikator der ausstellenden/ ver- schreibenden Person“ vorhanden ist und das „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  darf dieses Feld nicht angegeben werden. das Feld „Kennzeichen Rechtsgrundlage“ den Wert "01" oder "11" besitzt, DANN muss dieses Feld übertragen werden. darf dieses Feld nicht angegeben werden. GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -2528,7 +2701,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  |  | **1..1** |  | **Dieser Block enthält den Namen der** |  |  | 44 |  |  | x |  |
 |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen der |  | 45 |  |  |  | x |  |
 
-(GRAU = BLOCK) schreibenden Person verschreibenden Person verschreibenden Person schreibenden Person den/ verschreibenden Person verschreibenden Person DERH. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. der Person. Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. als Bestandteil des Nachnamens der Person, z.B. „Freiherr“, „Gräfin“; meh- rere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens der Per- son, z.B. „von“, „von der“, „zu“; meh- rere Vorsatzwörter sind durch Blank getrennt.
+SEITE 46 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) schreibenden Person verschreibenden Person verschreibenden Person schreibenden Person den/ verschreibenden Person verschreibenden Person DERH. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. der Person. Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. als Bestandteil des Nachnamens der Person, z.B. „Freiherr“, „Gräfin“; meh- rere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens der Per- son, z.B. „von“, „von der“, „zu“; meh- rere Vorsatzwörter sind durch Blank getrennt. GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -2654,7 +2832,10 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  |  | **0..1** |  | **Dieser Block enthält die Daten der ver-** |  | **Der Block dient dazu, die entspre-** |  | **das Feld „Typ der ausstellenden/ verschreiben-** |  | **ANSONSTEN WENN** |  |
 |  |  |  | **ANSONSTEN** |  |  |  | **148** |  |  |  |  |
 
-(GRAU = BLOCK) lichen Person. DERH. antwortlichen Person, z.B.  des zur Weiterbildung ermächtigten Arztes den Person" gleich „03“ ist und das Feld "Identifi- (im vertrags(zahn)ärztlichen Bereich kator der ausstellenden/ verschreibenden Per- und im Krankenhaus).  chende Konstellation des Arztstem- pels abzubilden und eine Zuordnung zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu ermögli- chen. Dieser Block enthält Informationen zeichnung der verantwortlichen Per- son, z.B. Arzt. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. son“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. das Feld Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und wenn das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. nicht gleich „02“ oder „03“ sein.
+SEITE 47 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+(GRAU = BLOCK) lichen Person. DERH. antwortlichen Person, z.B.  des zur Weiterbildung ermächtigten Arztes den Person" gleich „03“ ist und das Feld "Identifi- (im vertrags(zahn)ärztlichen Bereich kator der ausstellenden/ verschreibenden Per- und im Krankenhaus).  chende Konstellation des Arztstem- pels abzubilden und eine Zuordnung zum verantwortlichen Ver- trags(zahn)arzt / Facharzt zu ermögli- chen. Dieser Block enthält Informationen zeichnung der verantwortlichen Per- son, z.B. Arzt. zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. son“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. das Feld Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ vor- handen ist und das Feld „Typ der verantwortli- chen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschrei- benden Person" gleich „04“ ist und wenn das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. nicht gleich „02“ oder „03“ sein.13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -2780,7 +2961,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  |  | **x** |  |  |  |  | **Identifikator der verantwortli-** |  |  | **0..1** | **Dieser Block enthält den Identifikator** |
 |  | **verantwortlichen Person“ gleich „00“ oder „01“** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |  |
 
-(GRAU = BLOCK) DERH. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zu- sätzlich eine Telematik-ID enthalten. oder „04“ ist und das Feld „ASV -Fachgruppen- Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechts- grundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" und das Feld „Typ der nummer der verantwortlichen Person“ nicht vor- handen ist, DANN ist dieses Feld Pflicht. das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ist dieses Feld optional. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+SEITE 48 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) DERH. pennummer gemäß der ASV Vereinba- rung (ASV-AV) §9 Absatz 5. Diese ist ge- mäß der ASV-AV von Krankenhausärz- ten an Stelle der Arztnummer anzuge- ben. der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zu- sätzlich eine Telematik-ID enthalten. oder „04“ ist und das Feld „ASV -Fachgruppen- Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechts- grundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN darf dieses Feld vorhanden sein. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" und das Feld „Typ der nummer der verantwortlichen Person“ nicht vor- handen ist, DANN ist dieses Feld Pflicht. das Feld „ASV -Fachgruppennummer der verant- wortlichen Person“ vorhanden ist, DANN darf dieses Feld nicht angegeben werden. ist dieses Feld optional. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -2906,7 +3092,10 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 | x |  |  | Telematik-ID der verantwortli- | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |  | **142** |  |  |
 |  |  | **x** |  |  |  |  |  |  |  | **Name der verantwortlichen** |  |
 
-(GRAU = BLOCK) DERH. wortlichen Person Person eine Zahnarztnummer (ZANR). das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. chen Person Person eine Telematik-ID. Person Person. Person Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person der Person. son Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. chen Person als Bestandteil des Nachnamens der Person, z.B. „von“, „von der“, „zu“; mehrere Namenszusätze sind durch Blank getrennt. chen Person Bestandteil des Nachnamens der Per- son; mehrere Vorsatzwörter sind durch Blank getrennt.
+SEITE 49 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
+(GRAU = BLOCK) DERH. wortlichen Person Person eine Zahnarztnummer (ZANR). das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. chen Person Person eine Telematik-ID. Person Person. Person Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person der Person. son Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. chen Person als Bestandteil des Nachnamens der Person, z.B. „von“, „von der“, „zu“; mehrere Namenszusätze sind durch Blank getrennt. chen Person Bestandteil des Nachnamens der Per- son; mehrere Vorsatzwörter sind durch Blank getrennt. 13. MAI 2026 / VERSION: 1.10
+
 
 ---
 
@@ -3032,7 +3221,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  |  | **1..1** |  | **Dieser Block enthält Daten der Einrich-** |  | **Für den zahnärztlichen Bereich gilt der** |  |  |  | **61 ** |  |
 |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  |  | **0..1** | **Dieser Block enthält einen Identifika-** |  |
 
-(GRAU = BLOCK) DERH. tung / Institution, z.B. eine Betriebs- stätte / Praxis. Begriff Betriebsstätte entsprechend als Praxis. tor zur Identifikation einer Einrichtung in Form einer Betriebsstättennummer (BSNR), IK-Nummer, KZV-Abrech- nungsnummer oder Standortnummer und kann zusätzlich eine Telematik-ID enthalten. tennummer (BSNR) zur Identifikation einer Einrichtung. Im vertragsärztlichen Bereich ist das Feld eine Voraussetzung für die Abrechnung zwischen Leistungs- erbringern und Kostenträgern. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, und das Feld "Typ der ausstellenden/ verschreibenden Person" gleich "00" oder "01" oder "03" oder „04“ ist, DANN  ist dieser Block Pflicht. ist dieser Block optional. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "IK-Nummer" und "KZV-Ab- rechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+SEITE 50 VON 55 / KBV / TECHNISCHE ANLAGE ZUR
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) DERH. tung / Institution, z.B. eine Betriebs- stätte / Praxis. Begriff Betriebsstätte entsprechend als Praxis. tor zur Identifikation einer Einrichtung in Form einer Betriebsstättennummer (BSNR), IK-Nummer, KZV-Abrech- nungsnummer oder Standortnummer und kann zusätzlich eine Telematik-ID enthalten. tennummer (BSNR) zur Identifikation einer Einrichtung. Im vertragsärztlichen Bereich ist das Feld eine Voraussetzung für die Abrechnung zwischen Leistungs- erbringern und Kostenträgern. das Feld "Kostenträgertyp" gleich "GKV" oder „SKT“ oder "BG" oder "UK" ist, und das Feld "Typ der ausstellenden/ verschreibenden Person" gleich "00" oder "01" oder "03" oder „04“ ist, DANN  ist dieser Block Pflicht. ist dieser Block optional. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "IK-Nummer" und "KZV-Ab- rechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -3158,7 +3352,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine Abrechnungs- | WENN | ANSONSTEN | 61d |  |  |
 | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine Standortnum- | WENN | ANSONSTEN | 61e |  |  |
 
-(GRAU = BLOCK) DERH. kennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeu- tiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. nummer der Kassenzahnärztlichen Ver- einigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit we- niger als 9 Stellen sind mit vorange- stellten Nullen entsprechend zu füllen. mer eines Krankenhauses. der Einrichtung. der Einrichtung (Praxis / Krankenhaus). ßenadresse der Einrichtung. der Block „Identifikator der Einrichtung“ vorhan- den ist die Felder "BSNR" und "KZV-Abrechnungs- nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und, die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "BSNR" und "IK-Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden.
+SEITE 51 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) DERH. kennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeu- tiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. nummer der Kassenzahnärztlichen Ver- einigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit we- niger als 9 Stellen sind mit vorange- stellten Nullen entsprechend zu füllen. mer eines Krankenhauses. der Einrichtung. der Einrichtung (Praxis / Krankenhaus). ßenadresse der Einrichtung. der Block „Identifikator der Einrichtung“ vorhan- den ist die Felder "BSNR" und "KZV-Abrechnungs- nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und, die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhan- den ist und die Felder "BSNR" und "IK-Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -3284,7 +3483,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 |  |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  | 65 |  |  | x |  |
 |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den Ortsnamen. |  | 66 |  |  |  | x |  |
 
-(GRAU = BLOCK) DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. der Einrichtung. der Einrichtung. nungsdaten angegeben. Verordnungsdaten. tum der Verordnung. ob diese Verordnung im Rahmen des Sozialen Entschädigungsrechts (SER, ehemals BVG) erfolgt.
+SEITE 52 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER
+
+13. MAI 2026 / VERSION: 1.10
+
+(GRAU = BLOCK) DERH. dercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. satz, z.B. Hinterhaus. der Einrichtung. der Einrichtung. nungsdaten angegeben. Verordnungsdaten. tum der Verordnung. ob diese Verordnung im Rahmen des Sozialen Entschädigungsrechts (SER, ehemals BVG) erfolgt. GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -3410,7 +3614,12 @@ WENN  dieses Feld ein Datum enthält,  DANN  darf dieses nicht nach dem Ausstell
 | 82 |  |  | x |  |  |  | Pharmazentralnummer Verord- | Kodiert | 1..1 | In diesem Feld ist die 8-stellige Phar- Sofern einer DiGA für unterschiedliche |  |
 | 83 |  |  | x |  |  |  | Name der Verordnungseinheit | 1.. | 1..1 | In diesem Feld ist die Bezeichnung der  Sofern die Bezeichnung der Verord- |  |
 
-Verordnungsdaten. (GRAU = BLOCK) DERH. mazentralnummer (PZN) der DiGA Ver- ordnungseinheit (DiGA-VE) gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. Indikationen mit jeweils unterschiedli- chen Inhalten angewendet werden kann, ist jeder Indikation eine eigene PZN zugeordnet. Sofern für eine DiGA unterschiedliche Anwendungsdauern hinterlegt sein sollten, sind ebenfalls eigene PZN zugeordnet. DiGA-Verordnungseinheit gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. nungseinheit nicht automatisch durch das System zugesetzt wird, ist die Be- zeichnung händisch zu ergänzen"
+SEITE 53 VON 55 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN VERORDNUNG DIGITALER
+
+13. MAI 2026 / VERSION: 1.10
+
+Verordnungsdaten. (GRAU = BLOCK) DERH. mazentralnummer (PZN) der DiGA Ver- ordnungseinheit (DiGA-VE) gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. Indikationen mit jeweils unterschiedli- chen Inhalten angewendet werden kann, ist jeder Indikation eine eigene PZN zugeordnet. Sofern für eine DiGA unterschiedliche Anwendungsdauern hinterlegt sein sollten, sind ebenfalls eigene PZN zugeordnet. DiGA-Verordnungseinheit gemäß öf- fentlichem DiGA-Verzeichnis nach § 139e SGB V anzugeben. nungseinheit nicht automatisch durch das System zugesetzt wird, ist die Be- zeichnung händisch zu ergänzen" GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -3436,7 +3645,12 @@ Verordnungsdaten. (GRAU = BLOCK) DERH. mazentralnummer (PZN) der DiGA Ver- ordnu
 | KBV-Basis-Profile | KBV-Basis-Profile  https://simplifier.net/base1x0 |
 | FOR-Profile | Formularübergreifende Profile  https://update.kbv.de/ita-update/DigitaleMus- |
 
-REFERENZIERTE DOKUMENTE ter/FOR/ schen Verordnung digitaler Gesundheitsanwen- dungen ter/eVDGA/ nischen Verordnung digitaler Gesundheitsan- wendungen ter/eVDGA/ die vertragsärztliche Versorgung vereinbarung.pdf vereinbarung_digitale_Vordrucke.pdf Ausdruck zur Einlö- sung Ihres E-Rezeptes Ihrer Verordnung: DIGA ter/eVDGA/
+SEITE 54 VON 55 / KBV / TECHNISCHE ANLAGE ZUR
+
+13. MAI 2026 / VERSION: 1.10
+
+REFERENZIERTE DOKUMENTE ter/FOR/ schen Verordnung digitaler Gesundheitsanwen- dungen ter/eVDGA/ nischen Verordnung digitaler Gesundheitsan- wendungen ter/eVDGA/ die vertragsärztliche Versorgung vereinbarung.pdf vereinbarung_digitale_Vordrucke.pdf Ausdruck zur Einlö- sung Ihres E-Rezeptes Ihrer Verordnung: DIGA ter/eVDGA/ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)
+
 
 ---
 
@@ -3462,4 +3676,8 @@ REFERENZIERTE DOKUMENTE ter/FOR/ schen Verordnung digitaler Gesundheitsanwen- du
 | gemF_eRp_DiGA | Feature: Verordnung von Digitalen Gesund- https://gemspec.gema- |
 | SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita-update/Stammda- |
 
-Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf Verordnungssoftware gen/VDGA/KBV_ITA_VGEX_Anforderungskata- log_VDGA.pdf tik.de/docs/gemSysL/gemSysL_eRp/gemSysL_e Rp_V1.1.0/ märsysteme mILF_PS_eRp/latest/ tik.de/docs/gemSpec/gemSpec_DM_eRp/la- test/ heitsanwendungen tik.de/docs/gemF/gemF_eRp_DiGA/latest/ teien/KBV_Stammdateien/
+SEITE 55 VON 55 / KBV / TECHNISCHE ANLAGE ZUR
+
+13. MAI 2026 / VERSION: 1.10
+
+Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, ter/KBV_ITA_VGEX_Technisches_Hand- buch_DiMus.pdf Verordnungssoftware gen/VDGA/KBV_ITA_VGEX_Anforderungskata- log_VDGA.pdf tik.de/docs/gemSysL/gemSysL_eRp/gemSysL_e Rp_V1.1.0/ märsysteme mILF_PS_eRp/latest/ tik.de/docs/gemSpec/gemSpec_DM_eRp/la- test/ heitsanwendungen tik.de/docs/gemF/gemF_eRp_DiGA/latest/ teien/KBV_Stammdateien/ELEKTRONISCHEN VERORDNUNG DIGITALER GESUNDHEITSANWENDUNGEN (E16D)

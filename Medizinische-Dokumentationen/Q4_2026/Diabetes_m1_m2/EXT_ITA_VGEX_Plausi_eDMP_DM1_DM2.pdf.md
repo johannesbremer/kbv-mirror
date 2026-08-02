@@ -12,6 +12,7 @@
 
 **Version anzuwenden ab:**
 
+* Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
 - Anlage 8* -
 
 ## Plausibilitätsrichtlinie
@@ -83,7 +84,8 @@
 |  |  |  | **Parameter  Ausprägung  Plausibilitäten** |
 |  | **Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2*** |  | Anamnese- und Befunddaten |
 
-Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2 in Feld 10 mindestens die Angabe „Diabetes mellitus Angabe mit einer Stelle hinter dem Komma; be ohne Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.   KOF / Nicht bestimmt
+Nr. Datensatz für die indikationsspezifische Dokumentation: Typ 1“ oder „Diabetes mellitus Typ 2“ Plausibilitätsregeln auszufüllen Typ 1: Ratio  erfolgt, sind die nachstehenden Felder der Anlage 8* entsprechend den Festlegungen der Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2 in Feld 10 mindestens die Angabe „Diabetes mellitus Angabe mit einer Stelle hinter dem Komma; be ohne Nachkommastelle; 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist die Angabe „Diabetes mellitus Typ 2“ erfolgt ist.   KOF / Nicht bestimmt * Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -147,6 +149,8 @@ Wenn die Angabe „nicht untersucht“ erfolgt ist, ist keine  weitere Angabe zu
 
 Wenn die Angabe „nein“ erfolgt ist, ist keine weitere  Angabe zulässig.  Alle anderen Kombinationen sind zulässig.
 
+* Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -204,7 +208,8 @@ Wenn die Angabe „nein“ erfolgt ist, ist keine weitere  Angabe zulässig.  Al
 |  |  |  | zu 4. Ulkus: genau eine Angabe ist zulässig.    Zu 5. (Wund)Infektion: genau eine Angabe ist zulässig. |
 |  | 3a  Injektionsstellen (bei | Unauffällig / Auffällig / Nicht untersucht  Bedingtes Pflichtfeld | Genau eine Angabe ist zulässig. |
 
-Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) oder häufiger Neuropathie / Diabetische Retinopathie  „Diabetes mellitus Typ 1“ erfolgt ist „Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe „ Ja“ erfolgt ist Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe Nein“ erfolgt ist Datumsangabe in Feld 22 der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von   größer oder gleich 18 Jahren ergibt.
+Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) oder häufiger Neuropathie / Diabetische Retinopathie  „Diabetes mellitus Typ 1“ erfolgt ist „Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe „ Ja“ erfolgt ist Diabetes mellitus Typ 2“ und gleichzeitig in Feld 9 der Anlage 8* (Insulin oder Insulin-Analoga) die Angabe Nein“ erfolgt ist Datumsangabe in Feld 22 der Plausibilitätsregeln zur Anlage 2* minus der Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2* ein Lebensalter von   größer oder gleich 18 Jahren ergibt. * Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -262,7 +267,8 @@ Nr. Insulintherapie) Fußinspektionen (bei Patientinnen und Patienten ab dem vol
 |  |  |  |  |
 | Relevante Ereignisse |  | 5   Relevante Ereignisse | Nierenersatztherapie / Erblindung / Amputation / |
 
-Nr. letzten Dokumentation Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Herzinfarkt / Schlaganfall / Keine der genannten Keine der genannten Ereignisse“ erfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein.
+Nr. letzten Dokumentation Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Herzinfarkt / Schlaganfall / Keine der genannten Keine der genannten Ereignisse“ erfolgt ist, ist keine weitere Angabe zulässig. Alle anderen Kombinationen sind zulässig. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein. Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. oder gleich 99  sein. * Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -320,7 +326,10 @@ Nr. letzten Dokumentation Behandlung wegen Diabetes mellitus seit der letzten Do
 |  |  |  |  |
 | Medikamente |  | 9   Nur bei Diabetes mellitus Typ 2: | Insulin oder Insulin-Analoga |
 
-Nr. Metformin  Sonstige antidiabetische Medikation 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist.
+* Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP  Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 -A-RL
+
+Nr. Metformin  Sonstige antidiabetische Medikation 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -378,7 +387,10 @@ Nr. Metformin  Sonstige antidiabetische Medikation 2* mindestens eine Angabe zu 
 |  |  |  | 2*    Eine Angabe ist nicht zulässig, wenn in Feld 10 der |
 |  | 12a  Nur bei Diabetes mellitus Typ 2: | SGLT2-Inhibitor | Ja / Nein / Kontraindikation |
 
-Nr. mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen
+* Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP  Plausibilitätsprüfung Diabetes mellitus Typ 1 und -A-RL
+
+Nr. mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgen Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. 10 der Anlage 2* mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der Angabe „Kontraindikation“ erfolgenDiabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -436,7 +448,8 @@ Nr. mindestens eine Angabe zu „Diabetes mellitus Typ 2“ erfolgt ist. Anlage 
 |  |  |  | Eine Angabe ist nicht zulässig, wenn in Feld 10 der    13 |
 | Thrombozytenaggregationshemmer | Ja / Nein / Kontraindikation / orale  Pflichtfeld | Mindestens eine Angabe ist erforderlich.  Mehrfachnennungen sind möglich. |  |
 
-Nr. Antikoagulation Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Ja“ kann auch gleichzeitig mit „orale Antikoagulation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der und/oder Antikoagulation“ erfolgen. gleichzeitig mit „Nein“ und /oder „orale Antikoagulation“ erfolgen. orale Antikoagulation“ kann alleine oder gleichzeitig mit „ Ja“ oder „ Nein“ und/oder „Kontraindikation“ erfolgen.
+Nr. Antikoagulation Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt ist. Ja“ kann nicht gleichzeitig mit „ Nein“ und/ oder „Kontraindikation“ erfolgen Ja“ kann auch gleichzeitig mit „orale Antikoagulation“ erfolgen Nein“ kann alleine oder gleichzeitig mit der und/oder Antikoagulation“ erfolgen. gleichzeitig mit „Nein“ und /oder „orale Antikoagulation“ erfolgen. orale Antikoagulation“ kann alleine oder gleichzeitig mit „ Ja“ oder „ Nein“ und/oder „Kontraindikation“ erfolgen.* Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -494,7 +507,8 @@ Nr. Antikoagulation Anlage 2* die Angabe „Diabetes mellitus Typ 1“ erfolgt i
 |  |  |  |  |
 | Schulung |  | 18   Schulung empfohlen (bei aktueller | Diabetes-Schulung / Hypertonie-Schulung / |
 
-Nr. Dokumentation)   ins DMP bereits wahrgenommen wahrgenommen  Dokumentation keine Schulung empfohlen  Dokumentation keine Schulung empfohlen gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Anlage 8* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig.
+Nr. Dokumentation)   ins DMP bereits wahrgenommen wahrgenommen  Dokumentation keine Schulung empfohlen  Dokumentation keine Schulung empfohlen gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Anlage 8* im Rahmen einer Erstdokumentation auszufüllen ist. Eine Angabe im Rahmen einer Folgedokumentation ist nicht zulässig. gleichzeitig „Diabetes Schulung“ und / oder „Hypertonie Schulung“ angekreuzt werden Schulung“ kann gleichzeitig mit der Angabe „Hypertonie Schulung“ erfolgen Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. * Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -552,7 +566,8 @@ Nr. Dokumentation)   ins DMP bereits wahrgenommen wahrgenommen  Dokumentation ke
 |  |  |  | Genau jeweils eine Angabe ist für die "Diabetes-   Genau jeweils eine Angabe zu „Diabetes |
 |  | Die Angaben zu „Diabetes Schulung“ und „Hypertonie |  |  |
 
-Nr. Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyndrom qualifizierten Einrichtung  Schulung" und für die "Hypertonie-Schulung" Hypertonie- Schulung“ ist zulässig Schulung“ sind gleichzeitig erforderlich und voneinander unabhängig.  Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Durchgeführt“ angekreuzt ist, kann nicht gleichzeitig „ Nicht durchgeführt“ angekreuzt sein Veranlasst“ angekreuzt ist, kann gleichzeitig Durchgeführt“ oder „ Nicht durchgeführt“ angekreuzt sein.
+Nr. Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyndrom qualifizierten Einrichtung  Schulung" und für die "Hypertonie-Schulung" Hypertonie- Schulung“ ist zulässig Schulung“ sind gleichzeitig erforderlich und voneinander unabhängig.  Rahmen einer Folgedokumentation auszufüllen ist. nicht zulässig. Durchgeführt“ angekreuzt ist, kann nicht gleichzeitig „ Nicht durchgeführt“ angekreuzt sein Veranlasst“ angekreuzt ist, kann gleichzeitig Durchgeführt“ oder „ Nicht durchgeführt“ angekreuzt sein. * Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025
+
 
 ---
 
@@ -610,4 +625,4 @@ Nr. Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fu�
 |  |  |  | Wenn „ „Ja“ kann auch gleichzeitig mit „ |
 | 23 | (weggefallen) | (weggefallen) |  |
 
-Nr. Nein“ angekreuzt ist, ist keine weitere Angabe zulässig. Veranlasst“ angekreuzt werden.
+Nr. Nein“ angekreuzt ist, ist keine weitere Angabe zulässig. Veranlasst“ angekreuzt werden. * Die Anlagenbezeichnung erfolgt analog der Anlagenbezifferung aus der DMP-A-RL   Plausibilitätsprüfung Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2, Version 6 letzte Bearbeitung: 06.10.2025

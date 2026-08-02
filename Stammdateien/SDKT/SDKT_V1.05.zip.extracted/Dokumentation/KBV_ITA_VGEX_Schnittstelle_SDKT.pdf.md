@@ -12,9 +12,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-SDKT (Kostenträger- Stammdatei) 1.05 Datum: 12.03.2025 Kennzeichnung: Öffentlich Status: In Kraft
+SDKT (Kostenträger- Stammdatei) 1.05 Datum: 12.03.2025 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2025
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### DOKUMENTENHISTORIE
 
@@ -30,10 +33,14 @@ SDKT (Kostenträger- Stammdatei) 1.05 Datum: 12.03.2025 Kennzeichnung: Öffentli
 | 1.00 | 29.01.2007 | KBV | kleine Änderungen |  | **diverse** |
 | 1.00 | Dezember | KBV | neues Dokument |  |  |
 
-ik_liste aktualisiert Hybrid-DRG <dav> Abrechnung <ebs> als Kindelement des Elementes <dav> versicherte_liste aktualisiert keit> ergänzt tation möglicher Angaben Element <gueltigkeit> KV Baden- Württemberg bei Bezeichnung entfernt und Schema von //bezeichnung nach kt_abrechnungsbereich //kt_abrechnungsbereich ver- hinzugefügt schoben Bewertungsfeld um eine Stelle erweitert Beschrei- bungstextes zum frage aus KV "vertrags_kv" 2006 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+ik_liste aktualisiert Hybrid-DRG <dav> Abrechnung <ebs> als Kindelement des Elementes <dav> versicherte_liste aktualisiert keit> ergänzt tation möglicher Angaben Element <gueltigkeit> KV Baden- Württemberg bei Bezeichnung entfernt und Schema von //bezeichnung nach kt_abrechnungsbereich //kt_abrechnungsbereich ver- hinzugefügt schoben Bewertungsfeld um eine Stelle erweitert Beschrei- bungstextes zum frage aus KV "vertrags_kv" 2006 Seite 2 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### INHALTSVERZEICHNIS
 
@@ -65,8 +72,14 @@ ik_liste aktualisiert Hybrid-DRG <dav> Abrechnung <ebs> als Kindelement des Elem
 
 **20** **3.1 Element kostentraeger ................................................................................................................ 20** 3.1.1 Element gueltigkeit .............................................................................................................. 23 3.1.2 Element letzte_aenderung ................................................................................................... 23 *3.1.2.1 Element wirksamkeitsdatum ................................................................................. 24* *3.1.2.2 Element erfassungsdatum .................................................................................... 24* 3.1.3 Element vertrags_kv ............................................................................................................ 25 3.1.4 Element abrechnungsstelle ................................................................................................. 25 3.1.5 Element referenzkasse ........................................................................................................ 26 3.1.6 Element bezeichnung .......................................................................................................... 26 *3.1.6.1 Element name ....................................................................................................... 27* *3.1.6.2 Element sortierungsname ..................................................................................... 27* *3.1.6.3 Element kurzname ................................................................................................ 27*
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 3 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 *3.1.6.4* *Element suchname ............................................................................................... 28* 3.1.7 Element kostentraegergruppe ............................................................................................. 29 3.1.8 Element ik_liste.................................................................................................................... 29 *3.1.8.1 Element ik ............................................................................................................. 30* 3.1.9 Element existenzbeendigung .............................................................................................. 32 *3.1.9.1 Element letztes_quartal ........................................................................................ 33* *3.1.9.2 Element aufnehmender_kostentraeger ................................................................ 33* 3.1.10 Element adresse_liste ..................................................................................................... 34 *3.1.10.1 Element adresse ................................................................................................... 35* 3.1.11 Element praxisnetz .......................................................................................................... 39 *3.1.11.1 Element basiskasse .............................................................................................. 40* 3.1.12 Element dav_liste/dav ...................................................................................................... 40 *3.1.12.1 Element ik ............................................................................................................. 42* *3.1.12.2 Element ebs .......................................................................................................... 43* 3.1.13 Element ebs ..................................................................................................................... 44 *3.1.13.1 Element ik ............................................................................................................. 46* 3.1.14 Element versicherte_liste ................................................................................................. 47 *3.1.14.1 Element versicherte .............................................................................................. 47* 3.1.15 Element wop .................................................................................................................... 49 *3.1.15.1 Element wop_kv_liste/wop_kv .............................................................................. 50* 3.1.16 Element bewertungsfeld_liste .......................................................................................... 51 *3.1.16.1 Element bewertungsfeld ....................................................................................... 52* *3.1.16.2 Element bewertungskriterium ............................................................................... 53* 3.1.17 Element ortssuchname_liste ............................................................................................ 53 *3.1.17.1 Element ortssuchname ......................................................................................... 53* 3.1.18 Element gebuehrenordnung ............................................................................................ 55 3.1.19 Element kt_abrechnungsbereich_liste ............................................................................. 55 *3.1.19.1 Element kt_abrechnungsbereich .......................................................................... 56* 3.1.20 Element unz_kv_geltungsbereich_liste ........................................................................... 57 *3.1.20.1 Element unz_kv_geltungsbereich ......................................................................... 58*
 
@@ -78,7 +91,14 @@ ik_liste aktualisiert Hybrid-DRG <dav> Abrechnung <ebs> als Kindelement des Elem
 
 **60**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 4 von 60
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### TABELLENVERZEICHNIS
 
@@ -151,6 +171,10 @@ Tabelle 33: Element kostentraegergruppe ........................................
 Tabelle 34: Element ik_liste ........................................................................................... 29
 
 Tabelle 35: Element ik ........................................................................................................ 30
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 5 von 60
 
 
 ---
@@ -227,6 +251,12 @@ Tabelle 70: Element kt_abrechnungsbereich_liste ................................
 
 Tabelle 71: Element kt_abrechnungsbereich ................................................................ 56
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 6 von 60
+
 
 ---
 
@@ -237,6 +267,12 @@ Tabelle 73: Element gueltigkeit ................................................
 Tabelle 74: Element unz_kv_geltungsbereich_liste ................................................. 57
 
 Tabelle 75: Element unz_kv_geltungsbereich .............................................................. 58
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 7 von 60
 
 
 ---
@@ -254,20 +290,46 @@ Die Schnittstelle der Kostenträgerstammdatei ist von der EHD  Schnittstelle abg
 | ***diagram*** | ** |
 |---|---|
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 8 von 60
+
 
 ---
 
 | ** | ** |
 |---|---|
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-
+
+Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 9 von 60
+
 
 ---
 
 | ** | ** |
 |---|---|
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+Stammdatei)
+
+* Version 1.05
+
+Seite 10 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *namespace* | *urn:ehd/001* |
 |---|---|
@@ -291,8 +353,16 @@ zugrundeliegende Schnittstellenversion.
 
 #### Tabelle 2: Element header
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+Seite 11 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 2.1.1 Element id
 
@@ -309,10 +379,18 @@ Das Element ***<id>*** ist ein eindeutiger Instanz  ment bzw. jede XML-Datei wel
 
 Das Element ***<document_type_cd>*** beschreibt den Dokumenttyp, d.h. um welche Schnittstelle  bzw. Satzart es sich handelt. Das Element ist dafür ausgelegt um kodierte Werte darzustellen.  Im vorliegenden Fall ist hier "KTS" einzutragen.
 
-Identifikator, mit welchem jedes XML  Doku-
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Identifikator, mit welchem jedes XML
+
+Doku-
+
+Seite 12 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *diagram* | ** |
 |---|---|
@@ -332,8 +410,16 @@ Das Element ***<service_tmr>*** beschreibt den Gültigkeitszeitraum der enthalte
 
 **Tabelle 5: Element service_tmr**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+Seite 13 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 2.1.4 Element origination_dttm
 
@@ -374,8 +460,14 @@ Generell können Organisationsdaten in diesem Element untergebracht werden.
 
 Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss.
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 14 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *diagram* | ** |
 |---|---|
@@ -400,10 +492,16 @@ Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, d
 
 ### GUID angegeben werden muss.
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 ***<interface>*** wird auf
+
+Seite 15 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *diagram* | ** |
 |---|---|
@@ -436,10 +534,18 @@ Kennzeichnung einer Schnittstelle immer Bezeichnung und Versionsnummer erforderl
 | ***namespace*** | ***urn:ehd/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: ****required   ***** |
 
-xs:string xs:string enthält die Bezeichnung der Schnittstelle als Text, wie er auf der
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+enthält die Bezeichnung der Schnittstelle als Text, wie er auf der
+
+* Version 1.05
+
+xs:string xs:string Seite 16 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 **Tabelle 13: Element version**
 
@@ -465,10 +571,14 @@ Das Element ***<keytabs>*** beinhaltet Schlüsseltabellen, welche für die Refer
 
 **Tabelle 15: Element keytabs**
 
-3 erläutert.
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05 3 erläutert.
+
+Seite 17 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 2.3.1 Element keytab
 
@@ -481,10 +591,18 @@ Die Definitionen der Schlüsseltabellen „Keytab“ sind im
 | ***namespace*** | ***urn:ehd/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  S   ****xs:string ****required   ********SN   ****xs:string ****required   ***** |
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
 ### Anhang zu finden.
+
+Seite 18 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 |  | *SV    xs:string  required* |
 |---|---|
@@ -504,10 +622,18 @@ Eine Schlüsseltabelle enthält mehrere Schlüsseln ( buten eingetragen.
 
 #### Tabelle 17: Element key
 
-Schlüsseltabelle #### <key>). Hier werden die Kodewerte in Attri-
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+#### <key>). Hier werden die Kodewerte in Attri-
+
+Schlüsseltabelle Seite 19 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 2.3.3 Element fkey
 
@@ -539,6 +665,8 @@ Alte Feldbezeichnung: Feldkennung KEY-KT-NR (DA 145), AbrechnungsVKNR (DA 146)
 
 Prüfung: Es wird geprüft, dass das Element
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 wird für jede Kasse angelegt und enthält alle
 
 (DA 100, 105, 900, 905), Feldkennung
@@ -553,10 +681,23 @@ eindeutig ist.
 2001
 ```
 
+Seite 20 von 60
+
+
 ---
 
 | ***diagram*** | ** |
 |---|---|
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+Stammdatei)
+
+* Version 1.05
+
+Seite 21 von 60
 
 
 ---
@@ -568,10 +709,18 @@ eindeutig ist.
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V    kts:vknr_typ required   ********documentation *** KV-KK-NR: KV-Kassen-Nummer - KV- a) Kostenträger-Nummer (KV-Abrechnungsstelle - 2  b) Pflichtkassen-Nummer (KV-Abrechnungsstelle - 2  c) Ersatzkassen-Nummer (KV-Abrechnungsstelle - 2  d) Besondere Kostenträger-Nummer (KV-** |
 | ***annotation*** | ***documentati- Kostenträger ***** |
 
-Verarbeitungsnummer (derzeitige KV-Interne Kassen- Nr. laut KBV-Schlüssel);  Zeichen, Seriennummer - 3 Zeichen);  Zeichen, Kassengruppe - 1 Zeichen, lfd. Nummer - 2 Zeichen);  Zeichen, Kassengruppe - 2 Zeichen, lfd. Nummer - 1 Zeichen);  Abrechnungsstelle - 2 Zeichen, Kassengruppe - 2 Zei- chen, lfd. Nummer - 1 Zeichen#### Tabelle 20: Element kostentraeger
+#### Tabelle 20: Element kostentraeger
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Verarbeitungsnummer (derzeitige KV-Interne Kassen- Nr. laut KBV-Schlüssel);  Zeichen, Seriennummer - 3 Zeichen);  Zeichen, Kassengruppe - 1 Zeichen, lfd. Nummer - 2 Zeichen);  Zeichen, Kassengruppe - 2 Zeichen, lfd. Nummer - 1 Zeichen);  Abrechnungsstelle - 2 Zeichen, Kassengruppe - 2 Zei- chen, lfd. Nummer - 1 ZeichenSeite 22 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 3.1.1 Element gueltigkeit
 
@@ -603,12 +752,22 @@ Beschreibung: Im Element letzte_aenderung erfassungsdatum enthalten.
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 
-**Tabelle 22: Element letzte_aenderung**
+**Tabelle 22: Element**
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+**letzte_aenderung**
+
+* Version 1.05
 
 sind das wirksamkeitsdatum und das
 
+Seite 23 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.2.1 Element wirksamkeitsdatum
 
@@ -644,10 +803,18 @@ Alte Feldbezeichnung: Feldkennung KK-MASCH-DATUM-Z8 (DA 100, 105, 900, 905)
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 | ***annotation*** | ***documentation  Maschinendatum der letzten Durchführung - Stammsatzeröffnung oder Änderung (V=KK-MASCH- documentation  Format: 'YYYY-MM-DD..YYYY-MM-DD' ***** |
 
-Z8) DATUM-Z8) **Tabelle 24: Element erfassungsdatum**
+**Tabelle 24: Element erfassungsdatum**
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+Z8) DATUM-Z8) Seite 24 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 3.1.3 Element vertrags_kv
 
@@ -682,13 +849,23 @@ Prüfung: Es wird geprüft, ob diese KV-Nummer eine gültige Nummer laut Schlüs
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****kts:kvnr_typ ****required   ********documentation*** |
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
 enthält die KV-Nummer der KV, die mit der Kasse
 
-VERT-KV-X3 und ZPFL-KV-Z2
+```
+VERT-KV-X3
+```
+
+und ZPFL-KV-Z2
 
 enthält die KV-Nummer der KV, die für (DA 100, 105, 900, 905)
 
-xs:string (DA 100, 105, 900,
+(DA 100, 105, 900,
+
+xs:string Seite 25 von 60
 
 
 ---
@@ -731,10 +908,18 @@ enthält alle Bezeichnungs- und Namensinformati-
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***properties*** | ***isRef   0  content   complex ***** |
 
-vergütung zuständige KV- Abrechnungsstelle (V=NR-GES- VERG-KVA-Z2) xs:string VKNR **Tabelle 28: Element bezeichnung**
+**Tabelle 28: Element bezeichnung**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+vergütung zuständige KV- Abrechnungsstelle (V=NR-GES- VERG-KVA-Z2) xs:string VKNR Seite 26 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.6.1 Element name
 
@@ -781,12 +966,18 @@ Beschreibung: Das Element kurzname
 
 Alte Feldbezeichnung: Feldkennung KK-KURZ-NAME-X18
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 enthält den dreistelligen Namen zur Sortie-
 
 enthält den Kurznamen der Kasse.
 
+Seite 27 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *diagram* | ** |
 |---|---|
@@ -815,12 +1006,18 @@ suchname
 
 **Tabelle 32: Element suchname**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 enthält den Suchnamen der Kasse für die schnellere
 
-NAME-X18 (DA 145), Kassensuchname (DA 146)
+(DA 145), Kassensuchname (DA 146)
+
+NAME-X18 Seite 28 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 3.1.7 Element kostentraegergruppe
 
@@ -852,7 +1049,7 @@ Prüfung: Es wird geprüft, dass die Abrechnungs
 
 **Tabelle 34: Element ik_liste**
 
-(DA 146)
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05 (DA 146)
 
 (DA 145),
 
@@ -864,8 +1061,12 @@ ist die Kostenträgergruppe laut Schlüs-
 
 ik_liste (DA 146)
 
+Seite 29 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.8.1 Element ik
 
@@ -884,12 +1085,20 @@ Alte Feldbezeichnung: Feldkennung
 
 **Tabelle 35: Element ik**
 
-ik enthält ein gültiges Institutionskennzeichen 2003 (DA 145), ik (DA 146)
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+ik enthält ein gültiges Institutionskennzeichen 2003 (DA 145), ik
+
+* Version 1.05 (DA 146)
 
 der Kassennum-
 
+Seite 30 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ##### 3.1.8.1.1 Element gueltigkeit
 
@@ -917,10 +1126,16 @@ Alte Feldbezeichnung: Feldkennung
 
 enthält den Gültigkeitszeitraum des Institutions-
 
-2027 und 2033 (DA 145), service_tmr (DA 146)
+2027 und 2033 (DA 145), service_tmr
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05 (DA 146)
+
+Seite 31 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 3.1.9 Element existenzbeendigung
 
@@ -938,14 +1153,19 @@ Alte Feldbezeichnung: Feldkennung
 
 **Tabelle 37: Element existenzbeendigung**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
 ```
 existenzbeendigung
 KK-ART-X2
 ```
 
+* Version 1.05
+
 ist enthalten, ob eine Kassen fusioniert  Attribut der Wert „F“ enthalten, bei einer
 
-xs:string = Auflösung
+xs:string = Auflösung Seite 32 von 60
+
 
 ---
 
@@ -983,7 +1203,13 @@ Prüfung: Die angegebene Kassennummer muss in der Kostenträgerliste vorhanden s
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****kts:vknr_typ ****required   ********documentation  AUFN-KK-VKNR ***** |
 | ***annotation*** | ***documentation *** Aufnehmende Kasse (AUFN-KK-X6) ** |
 
-xs:string mat: YYYYQ) **Tabelle 39: Element aufnehmender_kostentraeger**
+**Tabelle 39: Element aufnehmender_kostentraeger**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+xs:string mat: YYYYQ) Seite 33 von 60
 
 
 ---
@@ -1001,8 +1227,16 @@ Alte Feldbezeichnung: nicht vorhanden
 
 #### Tabelle 40: Element adresse_liste
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 34 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.10.1 Element adresse
 
@@ -1026,10 +1260,18 @@ adresse wird angegeben ob es sich bei der Ad-Attribut „anschrift
 
 **Tabelle 41: Element adresse**
 
-xs:string “) oder ein Postfach (Wert vom  eigentlichen Informationen
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+“) oder ein Postfach (Wert vom  eigentlichen Informationen
+
+xs:string Seite 35 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ##### 3.1.10.1.1 Element STR
 
@@ -1061,6 +1303,8 @@ Alte Feldbezeichnung: Feldkennung  (DA 145), HNR (DA 146)
 
 **Tabelle 43: Element HNR**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 STR-X30 (DA 100, 105, 900, 905), Feldkennung
 
 STR-X30 (DA 100, 105, 900, 905), Feldkennung
@@ -1069,8 +1313,13 @@ STR-X30 (DA 100, 105, 900, 905), Feldkennung
 2004
 2004
 ```
+
+Seite 36 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ##### 3.1.10.1.3 Element POB
 
@@ -1102,8 +1351,14 @@ Alte Feldbezeichnung: Feldkennung PLZ_O oder PLZ_P (DA 100, 105, 900, 905), Feld
 
 **Tabelle 45: Element ZIP**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 37 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ##### 3.1.10.1.5 Element CTY
 
@@ -1135,8 +1390,14 @@ Alte Feldbezeichnung: STA (DA 146)
 
 **Tabelle 47: Element STA**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 38 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ##### 3.1.10.1.7 Element CNT
 
@@ -1168,7 +1429,11 @@ Alte Feldbezeichnung: Feldkennung PRAXISNETZ-KZ
 
 **Tabelle 49: Element praxisnetz**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 ist das Kennzeichen des Praxisnetzes eingetragen.
+
+Seite 39 von 60
 
 
 ---
@@ -1208,11 +1473,18 @@ Beschreibung: Das Element dav ist für jede existierende der drei Datenannahmest
 Prüfung: Innerhalb einer dav_liste darf jede Datenannahmestellen nur einmal im R-Attribut  des Elementes dav auftreten:
 
 - ASV
+- EFN
 
-verteilstellen - EFN
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+verteilstellen Seite 40 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 - FB3-Bund (ehemals „Bund“)
 - FB3-Land (ehemals „Land“)
@@ -1230,10 +1502,20 @@ für den Bund (R-Attribut enthält den Wert „ Land“) und für die Kasse (R A
 
 **Tabelle 52: Element dav**
 
-Landesebene / Bundesebene EFN, FB3-Bund, FB3- Land, FB3-Kasse, NVI, HDRG (DAV-Typ) Bund“), das Land (R-Attribut enthält den Wert  Kasse“) nur einmal auftreten.
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+Bund“), das Land (R-Attribut enthält den Wert  Kasse“) nur einmal
+
+auftreten.
+
+Landesebene / Bundesebene EFN, FB3-Bund, FB3- Land, FB3-Kasse, NVI, HDRG (DAV-Typ) Seite 41 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.12.1 Element ik
 
@@ -1268,14 +1550,28 @@ Folgende Varianten sind möglich:
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 
-**Tabelle 54: Element gueltigkeit**
+**Tabelle 54: Element**
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+**gueltigkeit**
+
+* Version 1.05
 
 enthält das Gültigkeitsdatum des Institutions-
 
-DAV-IK-Land und DAV-IK-Bund
+```
+DAV-IK-Land
+```
+
+und DAV-IK-Bund
+
+Seite 42 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.12.2 Element ebs
 
@@ -1305,7 +1601,10 @@ Alte Feldbezeichnung: Feldkennung EBS-IK
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 
-Bezeichnung
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Bezeichnung Seite 43 von 60
+
 
 ---
 
@@ -1340,8 +1639,16 @@ Frühere Datenart: 100, 105, 900, 905
 
 Beschreibung: Das Element ebs enthält die Entschlüsselungsberechtigte Stelle eventuell mit  Kürzel und Bezeichnung.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 44 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *diagram* | ** |
 |---|---|
@@ -1349,10 +1656,18 @@ Beschreibung: Das Element ebs enthält die Entschlüsselungsberechtigte Stelle e
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:string ****optional   ********documentati- EBS-Kürzel ********DN   ****xs:string ****optional   ********documentati- EBS-***** |
 | ***annotation*** | ***documentation *** EBS - Enschlüsselungsberechtigte Stelle ** |
 
-Bezeichnung #### Tabelle 58: Element ebs
+#### Tabelle 58: Element ebs
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+Bezeichnung Seite 45 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.13.1 Element ik
 
@@ -1387,10 +1702,18 @@ Folgende Varianten sind möglich:
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
 enthält das Gültigkeitsdatum des Institutions-
+
+Seite 46 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 **Tabelle 60: Element gueltigkeit**
 
@@ -1425,19 +1748,33 @@ Prüfung: Der Wert des R-Attributs muss eindeutig sein.
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 sind die Mitgliederzahlen der Kasse
+
+Seite 47 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *attributes* | *Name    Type    Use    Default    Fixed    Annotation  V    xs:int  required            documentati- ALLG-VS-MG-   R    derived by:  required            documentati- M (Mitglieder),* |
 |---|---|
 | ***identity*** | *****Name    Refer    Selector    Field(s)    unique    nur_ein_versicherte********./kts:versicherte   @R   ***** |
 
-constraints xs:string _typ   Z7, ALLG-VS- FA-Z7, ALLG- VS-RV-Z7 F (Familien- versicherte), R (Rentner) #### Tabelle 62: Element mitglieder
+#### Tabelle 62: Element mitglieder
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+constraints xs:string _typ   Z7, ALLG-VS- FA-Z7, ALLG- VS-RV-Z7 F (Familien- versicherte), R (Rentner) Seite 48 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 3.1.15 Element wop
 
@@ -1454,7 +1791,11 @@ Alte Feldbezeichnung: Feldkennung
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:string ****required   ********documentati- KZ_WOP  documentati- WOP-********S   ****derived by: ****optional   ***** |
 | ***annotation*** | ***documentation  WOP - Wohnortprin-***** |
 
-**Tabelle 63: Element wop**
+**Tabelle 63: Element**
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+**wop**
 
 wop enthält im V-Attribut ein
 
@@ -1462,10 +1803,16 @@ wop enthält im V-Attribut ein
 KZ_WOP
 ```
 
-zip Kennzeichen gültiges WOP-Kennzeichen laut
+* Version 1.05
+
+gültiges WOP-Kennzeichen laut
+
+zip Kennzeichen Seite 49 von 60
 
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.15.1 Element wop_kv_liste/wop_kv
 
@@ -1512,10 +1859,22 @@ enthält alle für diese Kasse gültigen KV-
 
 enthält eine für diese Kassennummer gültige KV-
 
-xs:string KV_BEZ_WOP_01 bis KV_BEZ_WOP_98
+```
+KV_BEZ_WOP_01
+```
+
+bis KV_BEZ_WOP_98
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
+xs:string Seite 50 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 **Tabelle 65: Element wop_kv**
 
@@ -1556,12 +1915,18 @@ bewertungsfeld
 
 **Tabelle 67: Element bewertungsfeld_liste**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 bis KV_BEZ_WOP_98
 
-xs:string enthält alle Bewertungsfelder. Die  ) muss eindeutig sein.
+enthält alle Bewertungsfelder. Die  ) muss eindeutig sein.
+
+xs:string Seite 51 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.16.1 Element bewertungsfeld
 
@@ -1596,6 +1961,10 @@ enthält im RT-Attribut die Bewertungsfeld-
 
 1-BEW-VZ und 1-BEW-S8
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
+
 Attributs „2“) han-
 
 -
@@ -1604,10 +1973,14 @@ Attributs „2“) han-
 
 bis 50-BEW-VZ 5,52 Cent
 
-xs:positiveInteger ve dem Vorzeichen und 50-BEW-
+und 50-BEW-
+
+xs:positiveInteger ve dem Vorzeichen Seite 52 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 **Tabelle 68: Element bewertungsfeld**
 
@@ -1652,6 +2025,8 @@ Beschreibung: Ähnlich dem Kassensuchnamen dient das Element  einem schnellen Au
 
 Alte Feldbezeichnung: Feldkennung
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 2014 (DA 145), ortssuchname_liste
 
 enthält die Bezeichnung (DA 146)
@@ -1660,20 +2035,34 @@ enthält die Bezeichnung (DA 146)
 ortssuchname
 ```
 
-xs:string (DA 146)
+(DA 146)
+
+xs:string Seite 53 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:string ****required   ***** |
 
-#### Tabelle 71: Element ortssuchname
+#### Tabelle 71: Element
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+#### ortssuchname
+
+* Version 1.05
+
+Seite 54 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ### 3.1.18 Element gebuehrenordnung
 
@@ -1720,11 +2109,16 @@ Prüfung: Der Wert muss laut Schlüsseltabelle S_KTS_ABRECHNUNGSBEREICH korrekt 
 
 **Tabelle 73: Element kt_abrechnungsbereich_liste**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 2008 (DA 145), KostentraegerAbrechnungsbe-
 
-xs:string xs:string
+xs:string xs:string Seite 55 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.19.1 Element kt_abrechnungsbereich
 
@@ -1761,15 +2155,23 @@ Alte Feldbezeichnung: Feldkennung
 
 **Tabelle 75: Element bedruckungsname**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
 ```
 bedruckungsname
 2002
 ```
 
+* Version 1.05
+
 enthält den Namen der Kasse, der für die
+
+Seite 56 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 ##### 3.1.19.1.2 Element gueltigkeit
 
@@ -1819,8 +2221,14 @@ e
 
 **Tabelle 77: Element unz_kv_geltungsbereich_liste**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+Seite 57 von 60
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 #### 3.1.20.1 Element unz_kv_geltungsbereich
 
@@ -1837,6 +2245,8 @@ Alte Feldbezeichnung: Feldkennung 2029 (DA 145),
 
 **Tabelle 78: Element unz_kv_geltungsbereich**
 
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
 ```
 unz_kv_geltungsbereich
 unz_kv_geltungsbereich
@@ -1844,10 +2254,14 @@ unz_kv_geltungsbereich
 
 explizit ange-
 
-xs:string (DA 146)
+(DA 146)
+
+xs:string Seite 58 von 60
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
 
 # 4 Anhang
 
@@ -1866,7 +2280,10 @@ xs:string (DA 146)
 | unz_kv_geltungsbereich_liste/unz_kv_g | 1.2.276.0.76.5.233 | S_KBV_KV |
 | kt_abrechnungsbereich/@V | 1.2.276.0.76.5.239 | S_KTS_KTABRECHNUNGSBERE |
 
-eltungsbereich/@V ICH
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+eltungsbereich/@V ICH Seite 59 von 60
+
 
 ---
 
@@ -1876,4 +2293,8 @@ eltungsbereich/@V ICH
 |---|---|
 | [KBV_ITA_VGEX_eHD] | ehd |
 
-eHealthData, Richtlinie
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+eHealthData, RichtlinieSeite 60 von 60

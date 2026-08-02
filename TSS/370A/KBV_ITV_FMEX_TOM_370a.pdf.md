@@ -6,6 +6,8 @@ Die Technisch-Organisatorische Maßnahmen (TOMs) zur Nutzung des elektronischen 
 
 Die nachfolgend aufgeführten Maßnahmen gelten für die Schutzstufe C und müssen vom Nutzer der Schnittstelle nachweislich erfüllt sein.
 
+Seite 1 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -53,6 +55,9 @@ Die nachfolgend aufgeführten Maßnahmen gelten für die Schutzstufe C und müss
 
 **11** **REGELMÄßIGE ÜBERPRÜFUNG, BEWERTUNG UND EVALUIERUNG DER WIRKSAMKEIT DER TECHNISCH ORGANISATORISCHEN MAßNAHMEN 36**
 
+Seite 2 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
+
 ---
 
 1 ALLGEMEINE MAßNAHMEN
@@ -66,6 +71,8 @@ Die nachfolgend aufgeführten Maßnahmen gelten für die Schutzstufe C und müss
 | **01.05** | Gibt es Vorgaben zum Arbeiten in Sicherheitsbereichen?  ☐ ja  ☐ nein |  |  |
 |  |  | nein |  |
 |  | **01.03 ** Richtlinien und Anweisungen zur **01.02** |  | Gibt es klare Regeln zur Nutzung geistigen Eigentums und |
+
+Seite 3 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
 nachgelagerte gelenkte Richtlinien und Anweisungen, auf die Mitarbeitende geschult werden? lizenzierter Software? Fehlverhalten und Regelverstößen (Maßregelungsprozess)? Beendigung ihres Arbeits- oder Vertragsverhältnisses weiterhin zur Einhaltung der Vertraulichkeit verpflichtet bleiben? Informationssicherheit müssen existieren und Mitarbeitende darauf geschult werden.
 
@@ -81,7 +88,8 @@ nachgelagerte gelenkte Richtlinien und Anweisungen, auf die Mitarbeitende geschu
 | **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER  SCHNITTSTELLE** |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: | Es muss bestätigt werden, dass die |  |
 
-unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte angeben getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte angeben getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 4 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -118,7 +126,8 @@ unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der 
 |  | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES NUTZERS** |  | **02.02** |
 | Standort(e) an denen der Auftragnehmer die | **DER SCHNITTSTELLE ** • ☐ ☐ • |  |  |
 
-Serverräumen oder Rechenzentren (zwischen-) gespeichert oder weitergeleitet, die von dem Auftragnehmer verantwortet werden? In diesem Fall müssen die weiteren Fragen zu 2 nicht beantwortet werden, zu 7 und 8 entfallen. Systeme betreibt: angeben bitte der EU, des Europäischen Wirtschaftsraums, der Schweiz, oder in einem Drittstaat nur, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 DSGVO vorliegt und zusätzlich die sich aus dem Angemessenheitsbeschluss ergebenden Voraussetzungen (wie zum Beispiel erforderliche Zertifizierungen) vorliegen,
+Serverräumen oder Rechenzentren (zwischen-) gespeichert oder weitergeleitet, die von dem Auftragnehmer verantwortet werden? In diesem Fall müssen die weiteren Fragen zu 2 nicht beantwortet werden, zu 7 und 8 entfallen. Systeme betreibt: angeben bitte der EU, des Europäischen Wirtschaftsraums, der Schweiz, oder in einem Drittstaat nur, sofern ein Angemessenheitsbeschluss gemäß Artikel 45 DSGVO vorliegt und zusätzlich die sich aus dem Angemessenheitsbeschluss ergebenden Voraussetzungen (wie zum Beispiel erforderliche Zertifizierungen) vorliegen,Seite 5 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -153,7 +162,8 @@ Serverräumen oder Rechenzentren (zwischen-) gespeichert oder weitergeleitet, di
 | **02.04** | Alle Bauelemente der Gebäudehülle müssen |  | Sind Serverräume fensterlos? |
 |  | nein**02.08  Wenn 02.07 ja:  Wenn 02.05 nein:** Alle Bauelemente der Gebäudehülle müssen  Bei vorhandenem C5 Testat: Abgedeckt über PS-03 |  | **02.07** |
 
-einem System je Standort verteilt (z. B. für Backup / Datenreplikation / Nutzung von Cloud- Dienstleistungen)? aterial bestehen die zu den Serverräumen (Stahl oder sonstiges Material)? bitte angeben  Wie sind die Fenster vor Einbruch geschützt? Einbruchmeldeanlage (EMA) alarmgesichert? Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! mindestens RC 2 gemäß DIN EN 1627-1630:11 erfüllen. mindestens RC 2 gemäß DIN EN 1627-1630:11 erfüllen. muss 24/7 erreichbar sein und reagieren.
+einem System je Standort verteilt (z. B. für Backup / Datenreplikation / Nutzung von Cloud- Dienstleistungen)? aterial bestehen die zu den Serverräumen (Stahl oder sonstiges Material)? bitte angeben  Wie sind die Fenster vor Einbruch geschützt? Einbruchmeldeanlage (EMA) alarmgesichert? Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! mindestens RC 2 gemäß DIN EN 1627-1630:11 erfüllen. mindestens RC 2 gemäß DIN EN 1627-1630:11 erfüllen. muss 24/7 erreichbar sein und reagieren. Seite 6 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -188,7 +198,8 @@ einem System je Standort verteilt (z. B. für Backup / Datenreplikation / Nutzun
 | **02.10** | Die Videoaufzeichnungen müssen mindestens  Ein elektronisches Schließsystem ist |  |  |
 | Bei vorhandenem C5 Testat: Abgedeckt über PS-04 | definierter Freigabeprozess  kein definierter Freigabeprozess, auf Zuruf Sonstige Vergabeweise: bitte angeben | Ein definierter Freigabeprozess ist erforderlich. | Bei vorhandenem C5 Testat: Abgedeckt über PS-04 |
 
-lange werden die B ilddaten gespeichert? bitte angeben viele Zutritt Serverräumen und w  haben elche Funktionen diese inne? bitte angeben Zutrittsberechtigungen bei der Neueinstellung und beim Ausscheiden von Mitarbeitenden bzw. bei organisatorischen Veränderungen? Schließsystem versehen?  Welche Zutrittstechnik kommt zum Einsatz? Mehrfachantworten möglich! 24 h vorgehalten werden. Zutritt erlangen. Die Zutrittsberechtigung darf nur personengebunden vergeben werden. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zutritt erforderlich.
+lange werden die B ilddaten gespeichert? bitte angeben viele Zutritt Serverräumen und w  haben elche Funktionen diese inne? bitte angeben Zutrittsberechtigungen bei der Neueinstellung und beim Ausscheiden von Mitarbeitenden bzw. bei organisatorischen Veränderungen? Schließsystem versehen?  Welche Zutrittstechnik kommt zum Einsatz? Mehrfachantworten möglich! 24 h vorgehalten werden. Zutritt erlangen. Die Zutrittsberechtigung darf nur personengebunden vergeben werden. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zutritt erforderlich.Seite 7 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -223,7 +234,8 @@ lange werden die B ilddaten gespeichert? bitte angeben viele Zutritt Serverräum
 | **02.16** |  |  | **Wenn 02.15 ja:** |
 |  | nein**02.20 ** Existiert ein Pförtnerdienst / Wachdienst /  Ist der Zutritt zu den Serverräumen (auch)  ja | nein |  |
 
-Werden die Zutritte zu Serverräumen protokolliert?  Zutrittsdaten gespeichert? bitte angeben  e werden die Wie lang ausgewertet?  Werden die Protokolle regelmäßig mechanisch mit Schlüssel möglich?  Wo werden d S aufbewahrt und  sie aus? bitte angeben wer gibt chlüssel besetzter Empfangsbereich o. ä. zum Rechenzentrum/Serverraum?
+Werden die Zutritte zu Serverräumen protokolliert?  Zutrittsdaten gespeichert? bitte angeben  e werden die Wie lang ausgewertet?  Werden die Protokolle regelmäßig mechanisch mit Schlüssel möglich?  Wo werden d S aufbewahrt und  sie aus? bitte angeben wer gibt chlüssel besetzter Empfangsbereich o. ä. zum Rechenzentrum/Serverraum? Seite 8 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -258,7 +270,8 @@ Werden die Zutritte zu Serverräumen protokolliert?  Zutrittsdaten gespeichert? 
 | **02.22** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben ☐ nein | Eine offizielle Zutrittsregelung für | Bei vorhandenem C5 Testat: Abgedeckt über PS-04 |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die getroffenen |  |
 
-Funktion noch für andere Zwecke genutzt? betriebsfremde Personen (bspw. Besucher) zu den Serverräumen? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Zwecke ist nicht erlaubt. betriebsfremde Personen ist zwingend erforderlich. Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+Funktion noch für andere Zwecke genutzt? betriebsfremde Personen (bspw. Besucher) zu den Serverräumen? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Zwecke ist nicht erlaubt. betriebsfremde Personen ist zwingend erforderlich. Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 9 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -287,6 +300,8 @@ Funktion noch für andere Zwecke genutzt? betriebsfremde Personen (bspw. Besuche
 |  |  | **03.03** | Ist das Gebäude oder sind die Büroräume mittels |
 |  | ja  bitte angeben   ja |  | nein |
 
+Seite 10 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 NUTZERS DER Clientarbeitsplätze auf personenbezogene Daten zugegriffen? besetzter Empfangsbereich o. ä. zum Gebäude bzw. zu Ihren Büros? einer Einbruchmeldeanlage (EMA) alarmgesichert?  Wer wird informiert, wenn die EMA auslöst? Mehrfachantworten möglich! videoüberwacht? Stellen muss 24/7 erreichbar sein und reagieren.
 
 ---
@@ -314,7 +329,8 @@ NUTZERS DER Clientarbeitsplätze auf personenbezogene Daten zugegriffen? besetzt
 |  | nein |  | Ein elektronisches Schließsystem ist |
 | **03.06** | **03.08 ** Sind die Räumlichkeiten mit einem elektronischen   ja, die Büroräume sind elektronisch | ja, die Büroetagen sind elektronisch |  |
 
-Wie lange werden die B g ilddaten espeichert? bitte angeben Schließsystem versehen? verschlossen. verschlossen. verschlossen.  Welche Zutrittstechnik kommt zum Einsatz?   Werden die Zutritte im Zutrittssystem protokolliert?   e werden diese Wie lang Protokolldaten aufbewahrt? bitte angeben erforderlich. müssen genutzt werden. protokolliert werden.
+Wie lange werden die B g ilddaten espeichert? bitte angeben Schließsystem versehen? verschlossen. verschlossen. verschlossen.  Welche Zutrittstechnik kommt zum Einsatz?   Werden die Zutritte im Zutrittssystem protokolliert?   e werden diese Wie lang Protokolldaten aufbewahrt? bitte angeben erforderlich. müssen genutzt werden. protokolliert werden. Seite 11 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -340,6 +356,8 @@ Wie lange werden die B g ilddaten espeichert? bitte angeben Schließsystem verse
 | **03.16** | Gibt es offizielle Zutrittsregelung für  ☐ ja, bitte angeben  ☐ nein | Eine offizielle Zutrittsregelung für | Bei vorhandenem C5 Testat: Abgedeckt über PS-04 |
 | nein |  |  |  |
 | **03.11** | **Wenn 03.09 ja: 03.13 **  ja   nein**Wenn 03.07 oder 03.12 ja:**  **03.12** | Existiert ein mechanisches Schloss für die |  |
+
+Seite 12 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
 Werden die Protokolle regelmäßig ausgewertet? Gebäude / Büroräume? (mechanischen / elektronischen) Schlüssel/Token protokolliert? (mechanisch/elektronisch) aus?  Wird die Ausgabe der  Wer gibt die Schlüssel personenbezogen vergeben? betriebsfremde Personen (bspw. Besucher) zu den Büroräumen? Schlüsselausgabe vornehmen darf. sind zwingend erforderlich. betriebsfremde Personen ist zwingend erforderlich.
 
@@ -368,7 +386,8 @@ Werden die Protokolle regelmäßig ausgewertet? Gebäude / Büroräume? (mechani
 | **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER  SCHNITTSTELLE** |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die |  |
 
-Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 13 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -422,6 +441,8 @@ ja
 
 nein
 
+Seite 14 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 Ein definierter Freigabeprozess ist  erforderlich.
 
 Need-to-Know und Least-Privilege  Prinzipien auf Basis eines Rollen- und  Rechtekonzeptes sind erforderlich.
@@ -468,6 +489,8 @@ Bei vorhandenem C5 Testat: Abgedeckt über IDM-09
 | **04.06** | **Passwort-Zeichenlänge: ** Die Bildschirmsperre muss automatisch |  |  |
 | Die Passwortlänge muss mindestens 12 | **04.07 ** Die technische Unterstützung der  Bei vorhandenem C5 Testat: Abgedeckt über IDM-08 |  |  |
 
+Seite 15 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 Kategorien entsprechend den Mindestanforderungen der Schutzstufe: (Sonderzeichen): (~! @ # $% ^& * -+ = ' | \ \ (){}\ []:; "' <>,.? /) der oben genannten Passwortvorgaben?  gesperrt?  Vergessen oder Ausspähen eines Passworts?  Anmeldeversuchen?  Versuchen. Zeichen sein. Für die Passwortkomplexität müssen alle vier Kategorien (Großbuchstaben, Kleinbuchstaben, Ziffern oder nicht alphanumerische Zeichen) enthalten sein.  - ODER -  Es wird eine Multi-Faktor-Authentifizierung eingesetzt. Einhaltung der Password-Policy ist erforderlich. nach spätestens 10 Minuten Inaktivität aktiviert werden. nach 10 erfolglosen Anmeldeversuchen eingerichtet sein.
 
 ---
@@ -498,6 +521,8 @@ Kategorien entsprechend den Mindestanforderungen der Schutzstufe: (Sonderzeichen
 |  |  |  | |
 | **04.11** | **Wenn 04.10 ja:**  Die Zugänge bleiben bis zur manuellen   ja, bitte Anzahl angeben Versuche pro Tag   Die Zugänge bleiben für bitte Anzahl angeben |  | **04.12** |
 |  | nein   nein   **04.13  Wenn 04.12 ja:** |  |  |
+
+Seite 16 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
 Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht wurde? Aufhebung der Sperre gesperrt. Minuten gesperrt. Home-Office) möglich? Wie erfolgt die Authentisierung beim Zugriff auf Daten aus dem Internet:  (RSA) Token  VPN-Zertifikat   pre-shared key  Benutzeraccount Gibt es eine Begrenzung von erfolglosen Anmeldeversuchen bei Fernzugängen? Aufhebung gesperrt bleiben. Authentifizierungskomponenten (Besitz, Wissen oder biometrische Charakteristika) sind für den Zugriff erforderlich. nach 10 erfolglosen Anmeldeversuchen eingerichtet sein.
 
@@ -530,7 +555,8 @@ Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldev
 | **04.15** | **Wenn  4.14 ja: 04.18** |  |  |
 |  | **Wenn ein externer DL zum Einsatz kommt** ja Firewalls sind zwingend erforderlich. **04.17** |  | Wer administriert die Firewall des |
 
-Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? Aufhebung gesperrt. Minuten gesperrt. Aufhebung gesperrt bleiben. Auftragnehmers? : Kann sich dieser ohne Aufsicht durch Ihre IT auf ein System aufschalten?  ohne Beaufsichtigung durch eigenes Personal ist nicht zulässig, es sei denn, es handelt sich um den beauftragten IT- Dienstleister. und Firewall Logs) regelmäßig ausgewertet? Management-Lösung (SIEM) möglich
+Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldeversuche erreicht worden ist? Aufhebung gesperrt. Minuten gesperrt. Aufhebung gesperrt bleiben. Auftragnehmers? : Kann sich dieser ohne Aufsicht durch Ihre IT auf ein System aufschalten?  ohne Beaufsichtigung durch eigenes Personal ist nicht zulässig, es sei denn, es handelt sich um den beauftragten IT- Dienstleister. und Firewall Logs) regelmäßig ausgewertet? Management-Lösung (SIEM) möglichSeite 17 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -561,7 +587,8 @@ Wie lange bleiben Zugänge gesperrt, wenn die maximale Zahl erfolgloser Anmeldev
 | **04.20** | Werden Mitarbeitende vor der Nutzung von  ☐ ja, im Rahmen des Arbeitsvertrags ☐ ja, dediziert vor jedem neuen Gebrauch ☐ nein | Mitarbeitende müssen auf einen zulässigen | Bei vorhandenem C5 Testat: Abgedeckt über AM-05 |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die |  |
 
-internen und externen Assets und Informationen auf deren zulässigen Gebrauch verpflichtet? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte Gebrauch verpflichtet werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+internen und externen Assets und Informationen auf deren zulässigen Gebrauch verpflichtet? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte Gebrauch verpflichtet werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 18 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -580,7 +607,8 @@ internen und externen Assets und Informationen auf deren zulässigen Gebrauch ve
 |  |  | Es stehen hierfür Schredder zur Verfügung, deren | |
 |  | Sonstiges: bitte angeben Sensible Informationen müssen **05.02** |  | Wie werden nicht mehr benötigte Papier-Unterlagen |
 
-sensibler Informationen? mit personenbezogenen Daten (bspw. Ausdrucke / Akten / Schriftwechsel) entsorgt? Nutzung angewiesen ist. von einem Entsorgungsdienstleister zur datenschutzkonformen Vernichtung abgeholt werden. Sticks, Festplatten), auf denen personenbezogene Daten gespeichert sind, entsorgt? Überschreibungen verwendet werden? (z. B. USB-Sticks) klassifiziert und ggf. gekennzeichnet werden, um den korrekten Umgang mit ihnen zu gewährleisten. Vernichtungsart zu wählen. wählen.
+sensibler Informationen? mit personenbezogenen Daten (bspw. Ausdrucke / Akten / Schriftwechsel) entsorgt? Nutzung angewiesen ist. von einem Entsorgungsdienstleister zur datenschutzkonformen Vernichtung abgeholt werden. Sticks, Festplatten), auf denen personenbezogene Daten gespeichert sind, entsorgt? Überschreibungen verwendet werden? (z. B. USB-Sticks) klassifiziert und ggf. gekennzeichnet werden, um den korrekten Umgang mit ihnen zu gewährleisten. Vernichtungsart zu wählen. wählen. Seite 19 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -596,6 +624,8 @@ sensibler Informationen? mit personenbezogenen Daten (bspw. Ausdrucke / Akten / 
 | **05.07 ** Werden personenbezogene Daten beim Speichern Werden personenbezogene Daten beim Speichern Werden personenbezogene Daten beim Speichern | Verarbeiten Mitarbeitende personenbezogene Daten  ☐ ja  ☐ nein | Das Halten personenbezogener Daten |  |
 |  | **05.06** |  | |
 | **05.05** | Dürfen die Mitarbeitenden private Datenträger (z. B.   ja, aber Mitarbeitende sind angehalten, vorher einen   ja, aber nur nach Genehmigung und Überprüfung   Verschlüsselung auf allen Systemen und Endgeräten   nein, alle benötigten Speichermedien werden vom  Die Verwendung ist auf  Bei vorhandenem C5 Testat: Abgedeckt über AM-03 |  |  |
+
+Seite 20 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
 USB Sticks) verwenden? Virencheck durchführen zu lassen. des Speichermediums durch die IT. Unternehmen gestellt. verschlüsselt?  auch auf eigenen privaten Geräten (bring your own device)? unternehmenseigene Speichermedien beschränkt. verschlüsseln. des Auftraggebers auf privaten Geräten des Auftragnehmers ist untersagt.
 
@@ -614,7 +644,8 @@ USB Sticks) verwenden? Virencheck durchführen zu lassen. des Speichermediums du
 | **ID** | **FRAGE** | **MINDESTANFORDERUNG** | |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung: angeben | Es muss bestätigt werden, dass die |  |
 
-GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? bitte getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 21 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -632,6 +663,8 @@ GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER unter Berücksichtigung des Stands der
 |  | ☐ | ☐ |  |
 | ☐ | ☐ ☐**06.03 ** Beim Transfer personenbezogener Daten **06.02** |  | Wer verwaltet die Schlüssel/ Zertifikate? |
 
+Seite 22 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 übertragen, sind die Fragen zu 6 nicht zu durchgängig verschlüsselt?  Wie lange werden diese Protokolldaten aufbewahrt? muss durch Verschlüsselung sichergestellt werden, dass keine unberechtigte Einsichtnahme Dritter möglich ist.
 
 ---
@@ -648,7 +681,8 @@ GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER unter Berücksichtigung des Stands der
 | **06.06** | Werden alle Systeme auf eine verlässliche  ☐ ja ☐ nein | Systeme müssen auf eine gemeinsame |  |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
 
-Werden die Protokolle regelmäßig ausgewertet? Management-Lösung (SIEM) möglich gemeinsame Zeitquelle synchronisiert? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Zeitquelle synchronisiert werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+Werden die Protokolle regelmäßig ausgewertet? Management-Lösung (SIEM) möglich gemeinsame Zeitquelle synchronisiert? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Zeitquelle synchronisiert werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 23 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -715,6 +749,8 @@ Sind die Serverräume / RZ klimatisiert?
 ja
 
 nein
+
+Seite 24 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
 Zugangstüren müssen feuerhemmend bzw.  feuerfest sein.
 
@@ -795,6 +831,8 @@ ja
 
 nein
 
+Seite 25 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 Der Einsatz einer USV ist zwingend erforderlich.
 
 Ein zusätzlicher Schutz durch angemessenes  Zugriffs- (z. B. Passwort, 2FA, …) und  Rechtemanagement ist zu gewährleisten.
@@ -827,8 +865,9 @@ Bei vorhandenem C5 Testat: Abgedeckt über  PS-06
 | **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES  DER SCHNITTSTELLE** |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet  ☐ begrenzt geeignet  ☐ ungeeignet     Begründung:  bitte angeben | Es muss bestätigt werden, dass die getroffenen |  |
 
-NUTZERS Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen. 
+Seite 26 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
+NUTZERS Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
 
 ---
 
@@ -846,7 +885,8 @@ NUTZERS Sicht unter Berücksichtigung des Stands der Technik, der Implementierun
 |  | In welchem Rhythmus werden Backups von  bitte angeben |  | Ein Backupkonzept muss vorhanden sein. |
 |  | **08.02 ** Wird die Funktionalität der Backup /  ja |  |  |
 
-denen personenbezogene Daten gespeichert sind? fortfahren mit  09.01 Wiederherstellung regelmäßig getestet? Systemen angefertigt, auf denen personenbezogene Daten gespeichert werden?  Wie wird dieser durchgeführt?
+denen personenbezogene Daten gespeichert sind? fortfahren mit  09.01 Wiederherstellung regelmäßig getestet? Systemen angefertigt, auf denen personenbezogene Daten gespeichert werden?  Wie wird dieser durchgeführt? Seite 27 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -862,7 +902,8 @@ denen personenbezogene Daten gespeichert sind? fortfahren mit  09.01 Wiederherst
 | **08.06** | Befindet sich der Aufbewahrungsort der Backups  ☐ ja ☐ nein | Backups müssen in einem getrennten | Bei vorhandenem C5 Testat: Abgedeckt über OPS-09 |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
 
-in einem (von den Serverräumen aus betrachtet) getrennten Brandabschnitt bzw. Gebäudeteil? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Brandabschnitt bzw. Gebäudeteil aufbewahrt werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+in einem (von den Serverräumen aus betrachtet) getrennten Brandabschnitt bzw. Gebäudeteil? Sicht unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Brandabschnitt bzw. Gebäudeteil aufbewahrt werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 28 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -883,7 +924,8 @@ in einem (von den Serverräumen aus betrachtet) getrennten Brandabschnitt bzw. G
 |  | **09.05 ** Kontakte müssen gepflegt werden.  Werden gefährliche/unerwünschte Websites für  Sind die IT-Systeme technisch vor Angriffen geschützt? | ja |  |
 |  | ja**Wenn 09.02 ja: 09.04** |  | Erfolgt eine Separierung von Netzen unterschiedlichen |
 
-Fachgremien gepflegt (z. B. für Bedrohungsinformationen)?  Wer ist für die Aktualisierung von Virenschutz, Anti-Spyware und Spamfilter zuständig? Schutzbedarfs (z. B. DMZ und Intern, Produktions- und erforderlich. 10 & COS-03 Entwicklungsnetz)? Mitarbeitende gesperrt? werden gesperrt.
+Fachgremien gepflegt (z. B. für Bedrohungsinformationen)?  Wer ist für die Aktualisierung von Virenschutz, Anti-Spyware und Spamfilter zuständig? Schutzbedarfs (z. B. DMZ und Intern, Produktions- und erforderlich. 10 & COS-03 Entwicklungsnetz)? Mitarbeitende gesperrt? werden gesperrt. Seite 29 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -902,7 +944,8 @@ Fachgremien gepflegt (z. B. für Bedrohungsinformationen)?  Wer ist für die Akt
 | **09.06** | Werden Systeme gehärtet?   ja: nein  Patchmanagement  Deaktivierung unnötiger Komponenten Es gibt einen   Aktivierung hardwarenaher Schutzfunktionen Bei vorhandenem C5 Testat: Abgedeckt über SIM-01   Sicherheitskonfiguration |  | Minimale Vergabe von Berechtigungen (z. B. Role |
 | Konten und Kennwörter | **09.08 ** nein | Systeme müssen durch möglichst alle | Bei vorhandenem C5 Testat: Abgedeckt über AM- |
 
-Based Access Control) Vorfällen? Kommunikations-vorgaben) aufgeführten Maßnahmen gehärtet werden. Nicht umgesetzte Maßnahmen müssen begründet werden. 02, OPS-05, PSS-08, OPS-13 & OPS-23 Incidentmanagementprozess. heitsvorfällen müssen zeitnah erfolgen und Verantwortlichkeiten im Prozess geklärt sein.
+Based Access Control) Vorfällen? Kommunikations-vorgaben) aufgeführten Maßnahmen gehärtet werden. Nicht umgesetzte Maßnahmen müssen begründet werden. 02, OPS-05, PSS-08, OPS-13 & OPS-23 Incidentmanagementprozess. heitsvorfällen müssen zeitnah erfolgen und Verantwortlichkeiten im Prozess geklärt sein. Seite 30 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -920,6 +963,8 @@ Based Access Control) Vorfällen? Kommunikations-vorgaben) aufgeführten Maßnah
 | **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES NUTZERS  DER SCHNITTSTELLE** |
 | **09.09** | Werden im Anschluss an einen erfolgreichen Angriff  ☐ ja:  ☐ durch ein ungeregeltes Vorgehen  ☐ durch ein geregeltes Vorgehen  ☐ durch ein geregeltes Vorgehen (inkl. Rollen- und  ☐ nein | Details zu | Bei vorhandenem C5 Testat: Abgedeckt über SIM-01 |
 |  | **Sind die dokumentierten Maßnahmen aus Ihrer Sicht ** ☐ geeignet  ☐ begrenzt geeignet  ☐ ungeeignet  Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
+
+Seite 31 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
 Betroffene über Angriffsdetails und Maßnahmen informiert? Kommunikations-vorgaben) unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? Informationssicherheitsvorfällen müssen, geregelt durch Verantwortlichkeiten im Prozess, kommuniziert werden. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
 
@@ -950,6 +995,8 @@ Betroffene über Angriffsdetails und Maßnahmen informiert? Kommunikations-vorga
 |  |  |  | **10.03 ** Werden Änderungen an System- und |
 |  | ja  Koordinierte regelmäßige Updates **10.02** |  | **Wenn 10.01 ja:** |
 
+Seite 32 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 und Patchmanagement?  Wer ist für die Installation von Updates bzw. Patches zuständig? Entwicklungstools protokolliert? Lebenszyklus nach klar definierten Sicherheitsanforderungen entwickelt, betrieben und geschützt? Systeme sind erforderlich. Entwicklungsprozess existieren. vorhanden und dokumentiert.
 
 ---
@@ -977,7 +1024,8 @@ und Patchmanagement?  Wer ist für die Installation von Updates bzw. Patches zus
 |  | Notfallkonzept wird regelmäßig getestet |  | nein |
 | **10.07** | Werden regelmäßige Schwachstellenprüfungen  Notfallkonzept wird regelmäßig  ja Bei vorhandenem C5 Testat: Abgedeckt über BCM-03  nein Bei vorhandenem C5 Testat: Abgedeckt über OPS-22 **10.08** | Existiert ein Notfallkonzept (bspw. |  |
 
-durchgeführt? Notfallmaßnahmen bei Hardware-defekt, Brand, Totalverlust etc.) und findet ein regelmäßiger Test dieses bzw. von Teilen davon statt? Internetanbindung? redundant miteinander verbunden? verantwortlich?  sind erforderlich. getestet.
+durchgeführt? Notfallmaßnahmen bei Hardware-defekt, Brand, Totalverlust etc.) und findet ein regelmäßiger Test dieses bzw. von Teilen davon statt? Internetanbindung? redundant miteinander verbunden? verantwortlich?  sind erforderlich. getestet. Seite 33 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -1021,6 +1069,8 @@ ja
 
 nein
 
+Seite 34 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 Personal- und IT-Ressourcen werden  geplant und überwacht.
 
 Die Pseudonymisierung besonders  schutzbedürftiger Daten erfolgt mittels  kryptografisch sicherer. Eine Re-Identifizierung ist technisch erschwert,  streng reglementiert und vollständig  protokolliert.
@@ -1057,7 +1107,8 @@ Bei vorhandenem C5 Testat: Abgedeckt über OPS-11
 | **ID** | **FRAGE** | **MINDESTANFORDERUNG** | **ERLÄUTERUNGEN ODER DARSTELLUNG  GLEICHWERTIGER MAßNAHMEN DES NUTZERS DER  SCHNITTSTELLE** |
 |  | **Sind die dokumentierten Maß-nahmen aus Ihrer ** ☐ geeignet ☐ begrenzt geeignet ☐ ungeeignet Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
 
-Sicht unter Berücksichtigung des Stands der Technik, der Implementierungs-kosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.
+Sicht unter Berücksichtigung des Stands der Technik, der Implementierungs-kosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten? getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.Seite 35 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 
 ---
 
@@ -1072,6 +1123,8 @@ Sicht unter Berücksichtigung des Stands der Technik, der Implementierungs-koste
 | Es muss durch mindestens zwei  Bei vorhandenem C5 Testat: Abgedeckt über SSO-04   ja **ID **  nein**FRAGE **  **MINDESTANFORDERUNG  11.02  ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER  MAßNAHMEN DES NUTZERS DER SCHNITTSTELLE ** ☐ |  | | |
 |  | ☐ ☐ Werden Tests im Rahmen von Audits mit  ☐  nein | Es existieren Vorgaben zur | Bei vorhandenem C5 Testat: Abgedeckt über COM-02 |
 
+Seite 36 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
+
 Wird die Härtung regelmäßig bei laufenden Systemen geprüft? Systeme/des Netzwerkes statt? minimalem Zugriff, ohne Störungen und mit vollständiger Protokollierung durchgeführt? Evaluierung der technisch-organisatorischen Maßnahmen?  Interne Audits reibungslosen Durchführung von Audits. geeignete Verfahren sichergestellt werden, dass eine regelmäßige Prüfung, Aktualisierung und Dokumentation der technisch-
 
 ---
@@ -1084,5 +1137,7 @@ Wird die Härtung regelmäßig bei laufenden Systemen geprüft? Systeme/des Netz
 | **ID ID** | **MINDESTANFORDERUNG FRAGE** | ☐**MINDESTANFORDERUNG** | ☐**ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER ERLÄUTERUNGEN ODER DARSTELLUNG GLEICHWERTIGER** |
 | ☐ ☐ Überprüfung durch Wirtschaftsprüfer  ☐ Interne Revision  ☐ Prüfung durch Compliance-Beauftragten  ☐ Austausch zwischen Informations- ☐ Überprüfung durch Rechtsaufsicht  ☐ Aufrechterhaltung von Zertifikaten: bitte  ☐ Sonstiges: bitte angeben  ☐ nein | organisatorischen Maßnahmen | | |
 |  | **Sind die dokumentierten Maßnahmen aus ** ☐ geeignet  ☐ begrenzt geeignet  ☐ ungeeignet  Begründung:  bitte angeben | Es muss bestätigt werden, dass die |  |
+
+Seite 37 von 37 / KBV / KBV_ITV_FMEX_TOM_370a / 16. Juni 2026 / Version: 1.13
 
 MAßNAHMEN DES NUTZERS DER SCHNITTSTELLE  Externe Audits sicherheitsbeauftragten und Datenschutzbeauftragten Zertifikate angeben Ihrer Sicht unter Berücksichtigung des Stands der Technik, der Imple-mentierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrschein-lichkeit und Schwere des Risikos für die Rechte und Freiheiten der Betroffenen geeignet, um ein dem Risiko angemes-senes Schutzniveau zu gewährleisten? stattfindet. Davon erfolgt mindestens eine Maßnahme durch Dritte. getroffenen Maßnahmen geeignet sein, um ein angemessenes Schutzniveau zu gewährleisten. Bei der Angabe „begrenzt geeignet“ muss eine Begründung erfolgen.

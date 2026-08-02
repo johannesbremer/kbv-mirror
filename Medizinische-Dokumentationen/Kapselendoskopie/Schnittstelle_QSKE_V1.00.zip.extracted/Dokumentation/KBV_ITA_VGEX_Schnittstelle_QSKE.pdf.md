@@ -11,16 +11,23 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status: 
+Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status: © KBV Kassenärztliche Bundesvereinigung, Berlin 2018
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 ### DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.00 | 31.07.2014 | KBV | neues Dokument |  |  |
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 2 von 22
+
 
 ---
 
@@ -98,6 +105,12 @@ Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Sta
 
 4.3.9 anzahl_untersuchungen_ohne_nachweis_blutungsquelle .................................................. 20
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 3 von 22
+
 
 ---
 
@@ -127,6 +140,13 @@ Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Sta
 
 **22**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 4 von 22
+
+
 ---
 
 #### ABBILDUNGSVERZEICHNIS
@@ -149,6 +169,13 @@ Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Sta
 
 **Abbildung 9 - Element qske_dokumentation .................................................................... 18**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 5 von 22
+
+
 ---
 
 #### TABELLENVERZEICHNIS
@@ -159,7 +186,16 @@ Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Sta
 
 **Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 6 von 22
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 #### XML- CODE VERZEICHNIS
 
@@ -174,6 +210,11 @@ Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Sta
 **XML-Code 5 - id (Software) ................................................................................................. 16**
 
 **XML-Code 6 - qske dokumentation .................................................................................... 19**
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 7 von 22
+
 
 ---
 
@@ -194,6 +235,12 @@ Der Leser soll erfahren, was er tun muss, um die Jahresstatistik über die Schni
 ## 1.2 Zielgruppen
 
 Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste-men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 8 von 22
 
 
 ---
@@ -217,6 +264,12 @@ T-Tag, M-Monat, J-Jahr, h-Stunden, m-Minuten, s-Sekunden
 Beispiel:
 
 -  qske_1.00_555333222_du+20120520140200.xml
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 9 von 22
 
 
 ---
@@ -248,9 +301,16 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Seite 10 von 22
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 ## 3.3 Sonstige Symbole
 
@@ -263,10 +323,16 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Datentyp: Ein Rechteck mit zwei abgeflachten Ecken symboli- |
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein |
 
-zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. **Tabelle 3 – Beschreibung sonstiger Symbole**
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+**Tabelle 3 – Beschreibung sonstiger Symbole**
+
+zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. Seite 11 von 22
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 # 4. Beschreibung der ehd-Schnittstelle
 
@@ -304,14 +370,22 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese Schnittstelle aufbaut.
 
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
 . Damit entspricht
 
 *ehd*, welches sich aus
 
-[KBV_ITA_VGEX_eHD] an,
+[KBV_ITA_VGEX_eHD]
+
+an,
+
+Seite 12 von 22
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 ## 4.1 Element header
 
@@ -343,6 +417,11 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Besc
 
 **Abbildung 4 - Element document_relationship**
 
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 13 von 22
+
+
 ---
 
 \| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document>  <ehd:id EX="ag111105-2d51-4016-831e-cbd9e1a318h9" RT="555333222"/>  </ehd:related_document>  </ehd:document_relationship> |
@@ -368,6 +447,12 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten-nu
 
 **Abbildung 6 - Element interface**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 14 von 22
+
 
 ---
 
@@ -384,9 +469,16 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSKE"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSKE" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Kapselendoskopie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSKE"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSKE" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Kapselendoskopie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer> Seite 15 von 22
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
@@ -418,6 +510,10 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 *EX* und *RT*. Das *EX*-Attribut erhält
 
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 16 von 22
+
 
 ---
 
@@ -433,6 +529,12 @@ Das body-Element hat den benutzerdefinierten Typ *qske_body_typ*. Das Kindelemen
 
 Das Element *qske_dokumentation* enthält die QS Kapselendoskopie Jahresstatistik.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 17 von 22
+
 
 ---
 
@@ -440,9 +542,16 @@ Das Element *qske_dokumentation* enthält die QS Kapselendoskopie Jahresstatisti
 \|---|
 \| **Abbildung 9 - Element qske_dokumentation **   XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
 
-<anzahl_wiederholungsuntersuchungen V="10"/> <anzahl_nicht_zutreffend V="5"/> <anzahl_kapselendoskopien_mit_auslassung V="15"/> <anzahl_kapselendoskopien_ohne_auslassung V="2"/> <anzahl_auswertungen_selbst V="3"/> <anzahl_auswertungen_anderer_arzt V="15"/> <anzahl_untersuchungen_mit_nachweis_blutungsquelle V="0"/>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+<anzahl_wiederholungsuntersuchungen V="10"/> <anzahl_nicht_zutreffend V="5"/> <anzahl_kapselendoskopien_mit_auslassung V="15"/> <anzahl_kapselendoskopien_ohne_auslassung V="2"/> <anzahl_auswertungen_selbst V="3"/> <anzahl_auswertungen_anderer_arzt V="15"/> <anzahl_untersuchungen_mit_nachweis_blutungsquelle V="0"/> Seite 18 von 22
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 \| </qske:qske_dokumentation> |
 \|---|
@@ -474,7 +583,13 @@ Die Anzahl (nonNegativeInteger) der Kapselendoskopien ohne Auslassung (entsprich
 
 Die Anzahl (nonNegativeInteger) der selbst ausgewerteten Kapselendoskopien (entspricht  Feld 3.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
-<anzahl_untersuchungen_ohne_nachweis_blutungsquelle V="0"/> <anzahl_kapselendoskopien_bild_ohne_einschraenkung V="3"/> <anzahl_kapselendoskopien_bild_tech_probleme V="2"/> <anzahl_kapselendoskopien_bild_sichteinschraenkung V="15"/> <anzahl_vollstaendiger_untersuchungen V="5"/> <anzahl_unvollstaendiger_untersuchungen_retention1 V="3"/> <anzahl_unvollstaendiger_untersuchungen_retention1_2 V="2"/> <anzahl_unvollstaendiger_untersuchungen_retention2 V="1"/> <anzahl_unvollstaendiger_untersuchungen_stenosen V="3"/> <anzahl_unvollstaendiger_untersuchungen_divertikel V="5"/> <anzahl_unvollstaendiger_untersuchungen_andere V="1"/> <anzahl_empfohlener_wiederholungsuntersuchung V="2"/> 1 Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
+1 Gemäß der W3C Spezifikation
+
+[2] nur ganze Zahlen im positiven Bereich inklusive „0“.
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+<anzahl_untersuchungen_ohne_nachweis_blutungsquelle V="0"/> <anzahl_kapselendoskopien_bild_ohne_einschraenkung V="3"/> <anzahl_kapselendoskopien_bild_tech_probleme V="2"/> <anzahl_kapselendoskopien_bild_sichteinschraenkung V="15"/> <anzahl_vollstaendiger_untersuchungen V="5"/> <anzahl_unvollstaendiger_untersuchungen_retention1 V="3"/> <anzahl_unvollstaendiger_untersuchungen_retention1_2 V="2"/> <anzahl_unvollstaendiger_untersuchungen_retention2 V="1"/> <anzahl_unvollstaendiger_untersuchungen_stenosen V="3"/> <anzahl_unvollstaendiger_untersuchungen_divertikel V="5"/> <anzahl_unvollstaendiger_untersuchungen_andere V="1"/> <anzahl_empfohlener_wiederholungsuntersuchung V="2"/> Seite 19 von 22
 
 
 ---
@@ -519,8 +634,16 @@ Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von
 
 Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund von Retention  mehr als 2 Stunden im Magen (entspricht Feld 6.b.I.03 der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 20 von 22
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 ### 4.3.17 anzahl_unvollstaendiger_untersuchungen_stenosen
 
@@ -538,8 +661,14 @@ Die Anzahl (nonNegativeInteger) der unvollständiger Untersuchungen aufgrund and
 
 Die Anzahl (nonNegativeInteger) der empfohlener Wiederholungsuntersuchungen aufgrund  von Einschränkungen gemäß Nummern 5 und 6 der Plausibilitäten (entspricht Feld 7 der  Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie-gen.
 
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 21 von 22
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
 # 5. Referenzierte Dokumente
 
@@ -549,3 +678,7 @@ Die Anzahl (nonNegativeInteger) der empfohlener Wiederholungsuntersuchungen aufg
 | [KBV_ITA_VGEX_Plausi_QSKE] | Plausibilitäten der Qualitätssicherungsvereinbarung Kapselen- |
 | [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
 | [2] | XML Schema Part 0: Primer Second Edition  http://www.w3.org/TR/xmlschema-0/ |
+
+KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
+
+Seite 22 von 22

@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.60 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft
+vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.60 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2025
+
 
 ---
+
+**IT in der Arztpraxis** Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -34,9 +37,14 @@ vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.60 Datum: 13.02
 |  |  |  |  |  |  |
 |  |  |  |  |  | 1.60  13.02.2026  KBV |
 
-DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 2026 in Kraft wachsene der und Jugendliche esselungssoftware der Begleitdatei krebs  eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs tur Komponentennummer im XML- Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer aktualisiert
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 2026 in Kraft wachsene der und Jugendliche esselungssoftware der Begleitdatei krebs  eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs tur Komponentennummer im XML- Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer aktualisiert Seite 2 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
@@ -57,7 +65,10 @@ DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 20
 | 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | **14** |
 | 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | **14** |
 
-der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- Herzinsuffizienz suffizienz DOKUMENTENHISTORIE ___________________________________________________ EINLEITUNG __________________________________________________________ SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE _____________________ 9 Kardinalität ......................................................................................................................................9 Strukturelemente ............................................................................................................................9 Sonstige Symbole ..........................................................................................................................9 DATEIEN DER DATENLIEFERUNG 11 Aufbau der Archivdatei ............................................................................................................... 11 Komprimierungsalgorithmus ..................................................................................................... 12 eVersandliste ............................................................................................................................... 14 Dateinamen .................................................................................................................................. 14 Die einzelne XML-Datei ....................................................................................................... 14 Die Archivdatei ..................................................................................................................... 14 Die Begleitdatei.................................................................................................................... 17 3.5 Zeichensatz .................................................................................................................................. 18 AUFBAU DER BEGLEITDATEI 19 Datum der Erstellung (erstellungsdatum-datei) ....................................................................... 20 Datei-Empfänger (empfaenger) .................................................................................................. 20 Bezirksstelle (ukv)................................................................................................................ 21
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- Herzinsuffizienz suffizienz DOKUMENTENHISTORIE ___________________________________________________ EINLEITUNG __________________________________________________________ SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE _____________________ 9 Kardinalität ......................................................................................................................................9 Strukturelemente ............................................................................................................................9 Sonstige Symbole ..........................................................................................................................9 DATEIEN DER DATENLIEFERUNG 11 Aufbau der Archivdatei ............................................................................................................... 11 Komprimierungsalgorithmus ..................................................................................................... 12 eVersandliste ............................................................................................................................... 14 Dateinamen .................................................................................................................................. 14 Die einzelne XML-Datei ....................................................................................................... 14 Die Archivdatei ..................................................................................................................... 14 Die Begleitdatei.................................................................................................................... 17 3.5 Zeichensatz .................................................................................................................................. 18 AUFBAU DER BEGLEITDATEI 19 Datum der Erstellung (erstellungsdatum-datei) ....................................................................... 20 Datei-Empfänger (empfaenger) .................................................................................................. 20 Bezirksstelle (ukv)................................................................................................................ 21Seite 3 von 32
+
 
 ---
 
@@ -113,7 +124,16 @@ der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger
 
 **6** **REFERENZIERTE DOKUMENTE _________________________________________ 32**
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 4 von 32
+
+
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 #### ABBILDUNGSVERZEICHNIS
 
@@ -141,6 +161,8 @@ Abbildung 11 - Beschriftung CD .................................................
 
 Abbildung 12 – Transportbegleitzettel
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 ................................... 11
 
 ............................................................................ 14
@@ -163,8 +185,12 @@ Abbildung 12 – Transportbegleitzettel
 
 ................................................................................... 31
 
+Seite 5 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 #### TABELLENVERZEICHNIS
 
@@ -182,6 +208,8 @@ Tabelle 6 – Sonderzeichen in XML
 
 Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 ................................................................
 
 ................................................................
@@ -196,8 +224,12 @@ Tabelle 7 - Zulässige relative Pfade für Element Verzeichnispfad
 
 ......................................... 27
 
+Seite 6 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 #### XML- CODE VERZEICHNIS
 
@@ -247,7 +279,14 @@ XML-Code 22 – von ............................................................
 
 XML-Code 23 – bis................................................................................................................ 28
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 7 von 32
+
+
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 # 1 Einleitung
 
@@ -260,6 +299,11 @@ Zu jeder Datenlieferung *(Ausnahmen siehe Abschnitt 3.4.3* wird eine entsprechen
 Grundsätzlich sind alle Nutzdaten (ZIP-Archive), die von einer Arztpraxis übermittelt werden,  mit Hilfe des KBV-Kryptomoduls (XKM) zu verschlüsseln. Die Begleitdateien werden **nicht**  verschlüsselt.
 
 Die hier beschriebenen Sachverhalte sind so angelegt, dass sie gleichermaßen für den Da-tenaustausch der Arztpraxis mit der Kassenärztlichen Vereinigung aber auch mit der Daten-stelle genutzt werden können.
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 8 von 32
+
 
 ---
 
@@ -285,7 +329,12 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kindelementen |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente in fest- |
 
-Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. Es existieren verschiedene Kardinalitäten: Tabelle 1 – Beschreibung der Kardinalitäten  2.2 Strukturelemente Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice und Sequence. Tabelle 2 – Beschreibung der Strukturelement-Symbole 2.3 Sonstige Symbole Es werden außerdem folgende Diagramm-Symbole verwendet: am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein.
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. Es existieren verschiedene Kardinalitäten: Tabelle 1 – Beschreibung der Kardinalitäten  2.2 Strukturelemente Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice und Sequence. Tabelle 2 – Beschreibung der Strukturelement-Symbole 2.3 Sonstige Symbole Es werden außerdem folgende Diagramm-Symbole verwendet: am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. Seite 9 von 32
+
 
 ---
 
@@ -296,10 +345,18 @@ Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkomme
 |  | Datentyp: Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert |
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein Grup- |
 
-einen Datentyp.  penelement dar, welches verschiedene Elemente zusammenfasst. **Tabelle 3 – Beschreibung sonstiger Symbole**
+**Tabelle 3 – Beschreibung sonstiger Symbole**
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+einen Datentyp.  penelement dar, welches verschiedene Elemente zusammenfasst. Seite 10 von 32
 
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 # 3 Dateien der Datenlieferung
 
@@ -334,11 +391,15 @@ Dialyse  Dokumentationen
 
 **Abbildung 1 – Beispiele von Verzeichnisstrukturen der Archivdateien**
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 Tabelle 4
 
 Keys
 
 Dialyse  Öffentliche Schlüssel 4.6.2  aufgeführt.
+
+Seite 11 von 32
 
 | Diabetes_mellitus_Typ_1 |  | Koloskopie |
 |---|---|---|
@@ -390,6 +451,12 @@ Für das Erstellen der Archivdateien ist der ZIP-Algorithmus zu verwenden. Diese
 
 Um eine Auswahl der zu verwendenden Software zu erleichtern, empfehlen wir die Verwen-dung von „Info-ZIP“. Dieses Programm arbeitet kommandozeilenbasiert und kann somit prob-lemlos in ein bestehendes Praxisverwaltungssystem eingebunden werden. Es ist für sämtliche  Betriebssysteme erhältlich und entsprechende Manuals, Readme’s inkl. FAQ’s sind im Liefer-umfang enthalten. Nähere Informationen zu dieser Software können über folgende Webseite  [abgerufen werden:](http://www.info-zip.org/)[http://www.info-zip.org/](http://www.info-zip.org/)
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 12 von 32
+
 
 ---
 
@@ -409,6 +476,12 @@ Der allgemeine Aufbau des Befehls zip sieht demzufolge so aus:
 ***zip [-options] [archivname] [Liste mit Verzeichnissen bzw. Dateien, die komprimiert***  ***werden sollen]***
 
 Eine Übersicht über die Konfigurationsmöglichkeiten und weiteren Befehlen erhalten Sie,  wenn Sie einfach den Befehl ***zip*** in die Kommandozeile eingeben. Sie bekommen dann fol-gende Ausgabe:
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 13 von 32
 
 
 ---
@@ -443,8 +516,16 @@ Anstelle von *Absender* muss die konkrete (N)BSNR des Tätigkeitsortes, an dem d
 
 *N* steht für eine laufende Nummer, damit mehrere Dateiarchive eines Absenders, welche zum  Zeitpunkt JJJJMMTT erstellt wurden und in einer Datenlieferung enthalten sind, unterschieden  werden können. Die laufende Nummer sollte pro Indikation gezählt werden.
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 14 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 *K* steht für das Kürzel der Dokumentationsart, welche ausschließlich in diesem Archiv enthal-ten ist. Die Übersicht der Kürzel kann der
 
@@ -518,14 +599,20 @@ Beispiel:
 | BK_423 | AB |
 |  |  |
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 Tabelle 5 entnommen werden.
 
 4.6.1
 
 - Die erste Datei mit der (N)BSNR
 
+Seite 15 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 | AB_446 |  |
 |---|---|
@@ -589,7 +676,11 @@ Tabelle 5 entnommen werden.
 | QSHLT | QS Holmiumlaser-Therapie |
 | QSKE | QS Kapselendoskopie |
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 **Tabelle 5 – Kürzel der Dokumentationsarten**
+
+Seite 16 von 32
 
 
 ---
@@ -605,7 +696,16 @@ Begleitdateiname für das im Abschnitt 3.4.2 angegebene Beispiel:
 -  987654321_20030310100200_1_BK.idx
 - Begleitdatei zum Datenarchiv  987654321_20030310100200_1_BK.zip.XKM mit der (N)BSNR „987654321“, die am  10.03.2003 erstellt wurde.
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 17 von 32
+
+
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 ## 3.5 Zeichensatz
 
@@ -625,7 +725,10 @@ Einige Sonderzeichen des Zeichensatzes führen zu Problemen bei der Verarbeitung
 
 Tabelle 6 dargestellt.
 
-Spezifikation erlaubt Spezifikation nur innerhalb der Attri- butwerte nicht erlaubt
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Spezifikation erlaubt Spezifikation nur innerhalb der Attri- butwerte nicht erlaubt Seite 18 von 32
+
 
 ---
 
@@ -640,6 +743,12 @@ Die grundsätzliche Struktur einer Begleitdatei ist in Abbildung 3 dargestellt.
 **Abbildung 3 – Grundstruktur begleitdatei**
 
 Wenn alle Kindelemente vorkommen, sieht der Coderahmen für das Element *begleitdatei* wie  folgt aus:
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 19 von 32
 
 
 ---
@@ -690,8 +799,16 @@ Die Grundstruktur für dieses Element ist in Abbildung 4 dargestellt.
 
 **Abbildung 4 – Grundstruktur empfaenger**
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 20 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 ### 4.2.1 Bezirksstelle (ukv)
 
@@ -741,6 +858,8 @@ Das Element *arzt* enthält die Attribute *EX* und  NBSNR des Tätigkeitsortes, 
 
 Folgender Code sei hier als Beispiel angegeben:
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 . Im *EX*-Attribut steht der konkrete 2-stellige
 
 und *RT*. Im *EX*-Attribut steht das konkrete 9-*RT*-Attribut steht der feste Wert „Instituts-
@@ -755,8 +874,12 @@ oder *kv*
 
 *RT*-Attribut
 
+Seite 21 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 ```
 **<bgl:absender>**
@@ -802,6 +925,8 @@ Das Element *komprimierungssoftware* enthält die Information zur verwendeten Ko
 
 Die Grundstruktur für dieses Element ist in Abbildung 6
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 *EX* und *RT*. Im EX-Attribut steht das konkrete
 
 . Im *EX*-Attribut steht die konkrete 2-stellige
@@ -811,6 +936,8 @@ Die Grundstruktur für dieses Element ist in Abbildung 6
 dargestellt.
 
 *software-version soft-*
+
+Seite 22 von 32
 
 
 ---
@@ -857,10 +984,18 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 Das Element *software-hersteller* enthält als Wert den Hersteller der verwendeten Software. Es  handelt sich dabei um einen String.
 
-<bgl:software-name V="..."/> <bgl:software-version V="..."/> <bgl:software-hersteller V="..."/> <bgl:software-link V="..."/> Als Beispiel sei hier der folgende Code angegeben:
+Als Beispiel sei hier der folgende Code angegeben:
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+<bgl:software-name V="..."/> <bgl:software-version V="..."/> <bgl:software-hersteller V="..."/> <bgl:software-link V="..."/> Seite 23 von 32
 
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 ```
 **<bgl:software-hersteller V="Info-ZIP Group"/>**
@@ -905,6 +1040,10 @@ Wenn alle Kindelemente vorkommen, sieht der Coderahmen für dieses Element wie f
 ```
 
 **XML-Code 13 – verschluesselungssoftware**
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 24 von 32
 
 
 ---
@@ -955,8 +1094,16 @@ Die Grundstruktur für dieses Element ist in Abbildung 8 dargestellt.
 
 Der Coderahmen für dieses Element sieht wie folgt aus:
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 25 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 ```
 **<bgl:archive>**
@@ -1004,6 +1151,8 @@ Schema vorgegeben.
 
 Als Beispiel sei hier der folgende Code angegeben:
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 **XML-Code 17 – archive**
 
 **XML-Code 18 – name**
@@ -1014,8 +1163,12 @@ Abbildung 9 dargestellt.
 
 **XML-Code 19 – verzeichnis**
 
+Seite 26 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 ```
 **<bgl:pfad V="Brustkrebs/Dokumentation"/>**
@@ -1058,6 +1211,8 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 **</bgl:zeitraum>**
 ```
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
 **XML-Code 20 – pfad**
 
 *von* und *bis*
@@ -1068,8 +1223,12 @@ Abbildung 10 dargestellt.
 
 **XML-Code 21 – zeitraum**
 
+Seite 27 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 ##### 4.6.2.2.1 Zeitraum-Anfang (von)
 
@@ -1095,8 +1254,14 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **XML-Code 23 – bis**
 
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 28 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 # 5 Datenträgeraustausch
 
@@ -1119,6 +1284,11 @@ Es sind handelsübliche Recordable-CD-ROMs zu verwenden.
 Auf der CD-ROM dürfen keine Unterverzeichnisse eingerichtet werden. Alle auf dem Daten-träger befindlichen Dateien müssen sich im Wurzelverzeichnis befinden.
 
 Es dürfen sich mehrere Dateien auf einer CD-ROM befinden.
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 29 von 32
+
 
 ---
 
@@ -1161,6 +1331,12 @@ Erstellt am 15.07.2019
 
 **Abbildung 11 - Beschriftung CD**
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 30 von 32
+
 
 ---
 
@@ -1191,8 +1367,16 @@ Erstellt am 15.07.2019
 
 **Abbildung 12 – Transportbegleitzettel**
 
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
+
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+Seite 31 von 32
+
 
 ---
+
+**IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 **6 Referenzierte Dokumente**
 
@@ -1202,4 +1386,6 @@ Erstellt am 15.07.2019
 | [1] | KBV-Schlüsseltabellen  http://applications.kbv.de/keytabs/ita/schluesseltabell en.asp |
 | [Spec_KIM_eHKS] | KIM Spezifikation für eHKS der kv.digital    https://partnerportal.kv- telema- tik.de/spaces/KDK/pages/71095111/Dokumente+zu m+Download |
 
-S_KBV_BEZIRKSSTELLE,
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+
+S_KBV_BEZIRKSSTELLE, Seite 32 von 32

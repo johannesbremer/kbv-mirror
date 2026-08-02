@@ -103,6 +103,8 @@ A 1 2 3
 
 105 106 107 108 109
 
+KBV_ITA_AHEX_Berechnung_APHAB_Detail_QSHGV * Version 1.00
+
 B
 
 - Die Antwort-Buchstaben bedeuten für die Berechnung: A = 99% ("immer"), B = 87% ("fast immer"), C = 75% ("häufig"), D = 50% ("zur Hälfte"),
@@ -187,3 +189,5 @@ N O P Q R
 
 - ("häufig"), D=50%  ("zur Hälfte")
 - Feld H46)
+
+Seite 1 von 1

@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-(PLZ-Stammdatei) 1.06 Datum: 10.08.2016 Kennzeichnung: Öffentlich Status: In Kraft
+(PLZ-Stammdatei) 1.06 Datum: 10.08.2016 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2018
+
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
 ### DOKUMENTENHISTORIE
 
@@ -23,9 +26,16 @@
 | 1.05 | 25.04.2016 | KBV | Entfall |  | **7, 8, 11** |
 | 1.04 | 16.07.2012 | KBV | redaktionelle | - | **Alle** |
 
-erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06
+
+* Version
+
+erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung Seite 2 11 von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
 #### INHALTSVERZEICHNIS
 
@@ -65,7 +75,14 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung
 
 **11**
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version
+
+Seite 3 11 von
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
 # 1 Grundsätzliche Festlegungen
 
@@ -94,6 +111,8 @@ Ein Satz ist unterteilt in Felder, die die kleinste Einheit der PLZ-Stammdatei b
 -  dem eigentlichen Feldinhalt
 -  der Feldendemarkierung (CR, LF)
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version
+
 **KV-Bereich**/Bezirksstelle als auch eine
 
 - (3 Bytes)
@@ -104,6 +123,8 @@ Ein Satz ist unterteilt in Felder, die die kleinste Einheit der PLZ-Stammdatei b
 **Postleitzahl** (des  **PLZ-**
 
 Stammsätze auftreten.
+
+Seite 4 11 von
 
 
 ---
@@ -128,7 +149,11 @@ Der Dateiname der PLZ-Stammdatei setzt sich gemäß dem folgenden Schema zusamme
 | **PLZ74_1.202** | ist der Name der bundeseinheitlichen PLZ-Stammdatei der KBV in der ersten Version, die  Diese Datei muss solange eingesetzt werden, bis eine neue PLZ-Stammdatei geliefert |
 |---|---|
 
-mit Beginn des 2. Quartals 2002 eingesetzt werden muss. wird. 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version
+
+mit Beginn des 2. Quartals 2002 eingesetzt werden muss. wird. Seite 5 11 von
 
 
 ---
@@ -161,9 +186,14 @@ Bei einem bedingten Mußfeld ist die Existenz an eine bestimmte Bedingung (s. Sp
 
 Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei  Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen, muß sie  in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über das  Vorhandensein der Informationen - im Gegensatz zu bedingten Mußfeldern - nicht  programmtechnisch erfolgen kann.
 
-2
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version 2 Seite 6 11 von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
 -  **k = bedingtes Kannfeld**
 
@@ -194,7 +224,13 @@ Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Sp
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | Satzart = PLZ-Endesatz |
 
-*Bedingung* ein Eintrag vorhanden und 2 2 3 *Vorkommen*
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version
+
+*Bedingung* ein Eintrag vorhanden und
+
+*Vorkommen*
+
+2 2 3 Seite 7 11 von
 
 
 ---
@@ -221,7 +257,16 @@ numerische Datumsangaben im Format *TTMMJJJJ*, wobei
 
 In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen (Bytes) ein  Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Die Längenangabe „var“ kennzeichnet die Feldlänge als variable Länge. Durch das  -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine maximale Länge  beschränkt.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version
+
+Seite 8 11 von
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
 **Feldtabelle: PLZ- Stammdatei**
 
@@ -238,9 +283,16 @@ In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen 
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 
-02 = Hamburg 03 = Bremen 17 = Niedersachsen 20 = Westfalen-Lippe 38 = Nordrhein 46 = Hessen 51 = Rheinland-Pfalz 52 = Baden-Württemberg 71 = Bayern 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 83 = Brandenburg 88 = Sachsen-Anhalt 93 = Thüringen 98 = Sachsen 02 = Hamburg 03 = Bremen 06 = Aurich 07 = Braunschweig 08 = Göttingen 09 = Hannover 10 = Hildesheim 11 = Lüneburg 12 = Oldenburg 13 = Osnabrück 14 = Stade 15 = Verden Bedeutung 16 = Wilhelmshaven 18 = Dortmund 19 = Münster 21 = Aachen 24 = Düsseldorf 25 = Duisburg 27 = Köln 28 = Linker Niederrhein 31 = Ruhr 37 = Bergisch-Land 39 = Darmstadt 40 = Frankfurt/Main 41 = Gießen 42 = Kassel 43 = Limburg 44 = Marburg 45 = Wiesbaden 47 = Koblenz 48 = Rheinhessen 49 = Pfalz 50 = Trier 55 = Karlsruhe 57 = Freiburg  58 = Konstanz 59 = Offenburg 60 = Freiburg 61 = Stuttgart 62 = Reutlingen 63 = München Stadt u. Land 64 = Oberbayern 65 = Oberfranken 66 = Mittelfranken 67 = Unterfranken
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06
+
+* Version
+
+02 = Hamburg 03 = Bremen 17 = Niedersachsen 20 = Westfalen-Lippe 38 = Nordrhein 46 = Hessen 51 = Rheinland-Pfalz 52 = Baden-Württemberg 71 = Bayern 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 83 = Brandenburg 88 = Sachsen-Anhalt 93 = Thüringen 98 = Sachsen 02 = Hamburg 03 = Bremen 06 = Aurich 07 = Braunschweig 08 = Göttingen 09 = Hannover 10 = Hildesheim 11 = Lüneburg 12 = Oldenburg 13 = Osnabrück 14 = Stade 15 = Verden Bedeutung 16 = Wilhelmshaven 18 = Dortmund 19 = Münster 21 = Aachen 24 = Düsseldorf 25 = Duisburg 27 = Köln 28 = Linker Niederrhein 31 = Ruhr 37 = Bergisch-Land 39 = Darmstadt 40 = Frankfurt/Main 41 = Gießen 42 = Kassel 43 = Limburg 44 = Marburg 45 = Wiesbaden 47 = Koblenz 48 = Rheinhessen 49 = Pfalz 50 = Trier 55 = Karlsruhe 57 = Freiburg  58 = Konstanz 59 = Offenburg 60 = Freiburg 61 = Stuttgart 62 = Reutlingen 63 = München Stadt u. Land 64 = Oberbayern 65 = Oberfranken 66 = Mittelfranken 67 = Unterfranken Seite 9 11 von
+
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
 |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
@@ -255,10 +307,16 @@ In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen 
 | 9111 | Gültigkeitsquartal | 5 | n | 016 |  | 22002 |
 | 9212 | Version der | ≤ | a | 031 | PLZ1016.01 | PLZ1016.01 |
 
-Satzbeschreibung 69 = Niederbayern 70 = Schwaben 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 85 = Magdeburg 6 = Halle 87 = Dessau 89 = Erfurt 90 = Gera 91 = Suhl 94 = Chemnitz 95 = Dresden 96 = Leipzig plz9 = 2150 = PLZ-Headersatz PLZ-Endesatz PLZ-Stammsatz Bedeutung 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06
+
+* Version
+
+Satzbeschreibung 69 = Niederbayern 70 = Schwaben 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 85 = Magdeburg 6 = Halle 87 = Dessau 89 = Erfurt 90 = Gera 91 = Suhl 94 = Chemnitz 95 = Dresden 96 = Leipzig plz9 = 2150 = PLZ-Headersatz PLZ-Endesatz PLZ-Stammsatz Bedeutung Seite 10 11von
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
 # 4 Regeltabelle
 
@@ -281,4 +339,6 @@ Folgende Regelklassen lassen sich klassifizieren: 000 – 099 Formatprüfungen
 | 505 | erlaubter Inhalt | plz0, plz9, 2150 |  |
 | 507 | erlaubter Inhalt | 01-03, 06-16, 18, 19, 21, 24, 25, 27, 28, 31, 37, 39- | UKV-Kennung bzw. OKV-Kennung bei nicht |
 
-nummer 93, 98 45, 47-50, 55, 57-70, 72, 73, 74, 78-81, 85-87, 89- 91, 94-96 MM = Monat, JJ = Jahr nn = Unterversionsnummer gegliederten KVen
+KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version
+
+nummer 93, 98 45, 47-50, 55, 57-70, 72, 73, 74, 78-81, 85-87, 89- 91, 94-96 MM = Monat, JJ = Jahr nn = Unterversionsnummer gegliederten KVen Seite 11 11von

@@ -8,6 +8,8 @@
 
 Geben Sie in den Abschnitten A und B die relevanten Gesundheitsstörungen einschließlich Risikofaktoren  (z. B. Übergewicht, Tabak- und Alkoholkonsum, Bewegungsmangel) und die relevanten Erkrankungen in der  Reihenfolge ihrer Bedeutung an. Die Diagnosen sind nach ICD-10-GM zu verschlüsseln.
 
+Stand: August 2018 1
+
 
 ---
 
@@ -25,6 +27,9 @@ Geben Sie hier die Schwierigkeiten an, die Beeinträchtigungen der Aktivitäten 
 
 Geben Sie die Lebensumstände an, die für die mütter-/väterspezifische Problemkonstellation relevant sind.  Hierzu gehören die Kompetenzen des Patienten, aber auch externe Faktoren (z. B. soziales Umfeld). Die  Angabe zusätzlicher Faktoren sowie Erläuterungen sind im Freitextfeld möglich.
 
+Stand: August 2018 2
+
+
 ---
 
 ### Elektronische Ausfüllhilfe Muster 64
@@ -37,9 +42,11 @@ Geben Sie in den Abschnitten A und B die bisher durchgeführten Leistungen der K
 
 Geben Sie die Vorsorgeziele möglichst in Bezug auf den genannten Gesundheitsstörungen/Erkrankungen  bzw. Kontext- und Risikofaktoren an (z. B. Erlernen von Bewältigungsstrategien).
 
-- **Empfohlene Leistungsform: Medizinische Vorsorge für Mütter oder Väter nach § 24 SGB V**
+**7. Empfohlene Leistungsform: Medizinische Vorsorge für Mütter oder Väter nach § 24 SGB V**
 
 Geben Sie hier die Ihrer Einschätzung nach geeignete Leistungsform an (z. B. Mütter-Leistung, Mutter-Kind-Leistung, Väter-Leistung, Vater-Kind-Leistung).
+
+Stand: August 2018 3
 
 
 ---
@@ -71,3 +78,5 @@ Wenn Sie einen telefonischen Rückruf der Krankenkasse wünschen, geben Sie dies
 [Themenseite Vorsorge/Kur:](http://www.kbv.de/320215)[http://www.kbv.de/320215](http://www.kbv.de/320215)[](http://www.kbv.de/320215)
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 5 MB):  [http://www.kbv.de/873744](http://www.kbv.de/873744)[](http://www.kbv.de/873744)
+
+Stand: August 2018 4

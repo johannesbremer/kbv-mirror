@@ -119,7 +119,7 @@ DMP Diabetes mellitus Typ 1
 |---|---|
 | 99 | Kennziffern (GOP ohne Wert) im FKZ |
 
-2 / KBV / SCHLÜSSELTABELLE - S_VDX_VERTRAGSART
+Seite 2 von 2 / KBV / SCHLÜSSELTABELLE - S_VDX_VERTRAGSART
 
 **Bezeichnung**
 

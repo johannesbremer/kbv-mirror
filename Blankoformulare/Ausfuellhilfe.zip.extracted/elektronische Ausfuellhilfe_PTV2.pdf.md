@@ -6,6 +6,9 @@
 
 ## AUSFÜLLHILFE: FORMBLATT PTV 2  ANGABEN THERAPEUTIN
 
+Seite 1 von 4 / KBV / Ausfüllhilfe: Formblatt PTV 2
+
+Angaben Therapeut*in / 1. Januar 2025
 
 ---
 
@@ -28,9 +31,13 @@ Besonderheit bei Gruppentherapie: Geben Sie bei der Beantragung von Therapieeinh
 
 Besonderheiten bei Kassenwechsel: Wechselt eine Versicherte oder ein Versicherter die Krankenkasse wäh-rend einer laufenden Psychotherapie muss dem Antrag auf Fortführung der Psychotherapie bei der neuen  Krankenkasse zusätzlich der Genehmigungsbescheid der Vorkasse sowie die Anzahl der bereits zu Lasten  der Vorkasse erbrachten Therapieeinheiten beigefügt werden. Der Antrag muss bei der neuen Kranken-kasse innerhalb von vier Wochen nach Beginn des auf den Kassenwechsel folgenden Quartals eingehen  oder spätestens zum Zeitpunkt der ersten Sitzung des auf den Kassenwechsel folgenden Quartals gestellt  werden (siehe hierzu § 13 Abs. 6 Psychotherapie-Vereinbarung).
 
+Seite 2 von 4 / KBV / Ausfüllhilfe: Formblatt PTV 2
+
+Angaben Therapeut*in / 1. Januar 2025
+
 ---
 
-- **Für den Einbezug von Bezugspersonen in diesem Bewilligungsschritt werden beantragt**
+- **5.** **Für den Einbezug von Bezugspersonen in diesem Bewilligungsschritt werden beantragt**
 - **6.** **Bei Erstanträgen angeben / Bei Erst- und Umwandlungsanträge angeben**
 - **7.** **Bei Anträgen auf LZT angeben**
 - **8.** **Bisheriger Behandlungsumfang**
@@ -48,9 +55,13 @@ Geben Sie hier die zum Zeitpunkt der Antragstellung bereits mit der Patientin od
 
 Hat vor dem Zeitpunkt der jetzigen Antragstellung bereits eine Gutachterin oder ein Gutachter zu der lau-fenden Behandlung Stellung genommen, so sind hier der Name der Gutachterin oder des Gutachters und  das Datum der letzten Stellungnahme (Gutachten) anzugeben.
 
+Seite 3 von 4 / KBV / Ausfüllhilfe: Formblatt PTV 2
+
+Angaben Therapeut*in / 1. Januar 2025
+
 ---
 
-- **Erklärung Therapeut*in**
+- **10.** **Erklärung Therapeut*in**
 
 Durch das Ankreuzen erklären Sie, dass Sie die beantragte Psychotherapie nach den jeweils geltenden Best-immungen der vertragsärztlichen Versorgung (u. a. Psychotherapie-Richtlinie, Psychotherapie-Vereinba-rung sowie weitere Bestimmungen im Bundesmantelvertrag  Ärzte) durchführen und von der zuständigen  Kassenärztlichen Vereinigung die hierfür erforderlichen Genehmigungen zur Ausführung und Abrechnung  erhalten haben.
 
@@ -61,3 +72,7 @@ Bei Durchführung der Psychotherapie durch Teilnehmende einer Aus- oder Weiterbi
 [Themenseite Psychotherapie:](https://www.kbv.de/psychotherapie)[www.kbv.de/psychotherapie](https://www.kbv.de/psychotherapie)[](https://www.kbv.de/psychotherapie)
 
 [Formulare & Ausfüllhilfen zum Download:](https://www.kbv.de/psychotherapie)[www.kbv.de/html/formulare.php](https://www.kbv.de/psychotherapie)[](https://www.kbv.de/html/formulare.php)
+
+Seite 4 von 4 / KBV / Ausfüllhilfe: Formblatt PTV 2
+
+Angaben Therapeut*in / 1. Januar 2025

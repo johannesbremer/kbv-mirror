@@ -7,6 +7,8 @@ Stand der letzten Bearbeitung: 09.07.2020
 
 Version 1.0
 
+Ausfüllanleitung DMP chronischer Rückenschmerz Version 01.0 Stand der Bearbeitung 09.07.2020 1
+
 
 ---
 
@@ -39,6 +41,8 @@ Eine **kreuzschmerzbedingte** **Opioidanalgetika-Therapie** sollte nach Möglich
 Opioidanalgetika können bei chronischen Rückenschmerzen im Rahmen eines therapeutischen  Gesamtkonzepts **zeitlich begrenzt** indiziert sein, daher sollte die Indikation auch ständig überprüft werden.  Opioidanalgetika sind als einzige Maßnahme aber im Regelfall nicht ausreichend und führen nur bei einem Teil  der Patientinnen und Patienten zur erwünschten Schmerzlinderung und/oder einer Verbesserung der  funktionellen Kapazität. Eine langfristige Behandlung ist entsprechend nur bei Patientinnen und Patienten mit  individuell gutem Ansprechen und guter Verträglichkeit sinnvoll. Aufgrund dieser eingeschränkten Wirksamkeit,  des relevanten Nebenwirkungsprofils, der Suchtgefahr und der möglichen Einschränkung der  Verkehrssicherheit, sollte eine **langfristige Anwendung von Opioiden** unter regelmäßiger kritischer Prüfung  von Wirkung und Nebenwirkungen durchgeführt, angepasst oder beendet werden.
 
 Bitte geben Sie an, ob aktuell eine kreuzschmerzbedingte Schmerzmedikation mit Opioiden erfolgt und wenn  ja, wie lange diese schon andauert. Wird Ihre Patientin oder Ihr Patient aktuell mit Opioidanalgetika behandelt,  geben Sie bitte je nach Dauer der Medikation „Ja, länger als 12 Wochen“ oder „Ja, weniger als 12 Wochen“
+
+2
 
 
 ---
@@ -93,6 +97,8 @@ at. „Multimodal“ bedeutet hier, dass
 
 „Nein“ an.
 
+3
+
 
 ---
 
@@ -128,7 +134,7 @@ Sollte aus einem für Sie nachvollziehbaren Grund regelmäßige körperliche Akt
 
 Ist Ihre Patientin bzw. Ihr Patient aus keinem für Sie nachvollziehbaren Grund körperlich nicht aktiv, geben Sie  bitte ausschließlich die Antwort „Nein“ an.
 
-Als Mehrfachnennung möglich ist daher nur die Kombination der Antworten: „Nein“ und „Nicht möglich
+Als Mehrfachnennung möglich ist daher nur die Kombination der Antworten: „Nein“ und „Nicht möglich 4
 
 
 ---
@@ -187,6 +193,8 @@ erforderlich.
 
 gehört die Beurteilung der **subjektiven**
 
+5
+
 
 ---
 
@@ -207,3 +215,5 @@ Anders als bei anderen Erkrankungen, bei denen von einem lebenslangen chronische
 **Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme**  **(Ausschreibung!) durch die Krankenkasse mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**  **Sie, dass DMP-spezifische Leistungen, die nach dem Erstelldatum erbracht werden, daher nicht mehr**  **vergütet werden.**
 
 Eine erneute Teilnahme ist bei Vorliegen der Einschlusskriterien möglich.
+
+6

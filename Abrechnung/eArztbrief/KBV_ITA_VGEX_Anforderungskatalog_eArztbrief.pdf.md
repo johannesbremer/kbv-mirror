@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EARZTBRIEF]
 
+Seite 1 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -46,6 +48,8 @@ INHALT
 
 **20**
 
+Seite 2 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
 VORGABEN FÜR DEN VERSAND / EMPFANG VON ELEKTRONISCHEN ARZTBRIEFEN Allgemeine Vorgaben an Inhalt und Struktur Vorgaben an die Signatur Vorgaben für den Versand Vorgaben für den Empfang 
 
 
@@ -67,6 +71,8 @@ Die Änderungen vom 13.02.2026 treten zum 2. Quartal 2026 (01.04.2026) in Kraft.
 | 2.07 | 15.11.2023 | KBV | Änderung P43-03 | Header-Element 'Subject' frei  wählbar | **10** |
 | 2.06 | 15.11.2023 | KBV | Anpassung der Anforderung P44-04        Ergänzung der P41-02    Konkretisierung P42-03        Vorankündigung von Änderungen P43- Konkretisierung P44-05 | Alle Systeme, unabhängig ob  Hinweis auf den richtigen OID  Klarstellung der Inhalte, die      Anlegen eines Patienten mit | **13 **      **7 **  **9 **      **10 **  **14** |
 
+Seite 3 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
 „Patientenakte“ aufgenommen und P41-02  PDF/A-Versionen 01.10.2024 verpflichtend statt wie bisher 6 Monate  Änderung der Richtlinie  dem PDF/A-Dokument und Interoperabilitätsworkshop der kv.digital verpflichtend mit oder ohne APK, sollen die Anforderung umsetzen können für die Versicherten_ID (eGK) bei der Überprüfung der Signatur angezeigt werden sollen. den in der eArztbrief- Lieferung enthaltenen Daten ist möglich.
 
 ---
@@ -79,6 +85,8 @@ Die Änderungen vom 13.02.2026 treten zum 2. Quartal 2026 (01.04.2026) in Kraft.
 | 2.02 | 14.11.2022 | KBV | Anpassung der P42-01, P42-02, P43- | redaktionelle Korrekturen | **11, 11,  13** |
 | 2.01 | 02.09.2020 | KBV | Anpassung der P43-01 | Anpassung an die KIM- | **11** |
 | 2.00 | 20.02.2020 | KBV | Komplett Überarbeitung | Neues CD und Anpassung von | **alle** |
+
+Seite 4 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
 
 aufgenommen Kommunikation P44-01 Spezifikation der kv.digital Anforderungen 
 
@@ -107,6 +115,8 @@ Pflichtfunktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **P4-10** | Funktionsbezeichnung |
 
+Seite 5 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
 ---
 
 2 VERWENDUNG DES KOMMUNIKATIONSDIENSTES KIM
@@ -125,6 +135,8 @@ Es muss sichergestellt sein, dass der Kommunikationsdienst KIM von der eArztbrie
 
 - 1. Die Software muss für den Versand von eArztbriefen den Kommunikationsdienstes KIM nutzen.
 - 2. Es muss der Nachweis des erfolgreich durchlaufenen Bestätigungsverfahrens der gematik - Bestätigung  der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  gemäß  gemLeit_Best_Konf_PS] eingereicht werden.
+
+Seite 6 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
 
 ---
 
@@ -166,6 +178,7 @@ Die PDF/A-Datei enthält den eigentlichen Inhalt des Arztbriefes als signier-, l
 
 - 1. Die Software bietet dem Anwender eine Möglichkeit, die für den eArztbrief relevanten medizinischen  Informationen zu erfassen bzw. zu bearbeiten.
 
+Seite 7 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
 
 ---
 
@@ -204,6 +217,7 @@ Anhand dieser XML-Datei ist die (teil-)automatische Verarbeitung des eArztbriefe
 - Versichertenart,
 - PLZ oder PostfachPLZ
 
+Seite 8 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
 
 ---
 
@@ -224,6 +238,8 @@ Anhand dieser XML-Datei ist die (teil-)automatische Verarbeitung des eArztbriefe
 | **Nachnamen des  Vornamen des** | **<name>**            **<given>Paul</given>**            **<family>Pappel</family>** **</name>** |  |
 | **Geburtsdatum** | **<birthTime value="19551217"/>** |  |
 
+Seite 9 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
 root=" 1.2.276.0.76.4.8 nummer root=" 1.2.276.0.76.4.1 Patienten mindestens PLZ oder PostfachPLZ Patienten Patienten des Patienten eGK-Spezifikation) muss der Identifikator (OID) 1.2.276.0.76.4.8  verwendet werden. .2.276.0.76.4.1  ist für die Versichertennummer bei KV- Karten zu verwenden.
 
 ---
@@ -239,7 +255,11 @@ root=" 1.2.276.0.76.4.8 nummer root=" 1.2.276.0.76.4.1 Patienten mindestens PLZ 
 \|---|
 \| Sofern medizinische Dokumentationen (Anamnese, Befunde, Diagnosen) im XML-Body vorhanden sind, |
 
-codeSystem="2.16.840.1.113883.5.111"> codeSystem="2.16.840.1.113883.3.7.1.1" kennung Institutionskennzeichen müssen diese den Vorgaben des [Implementierungsleitfaden Arztbrief] entsprechen. PFLICHTFUNKTION P41-03 Zwingende Bestandteile einer eArztbrief-Lieferung Eine eArztbrief-Lieferung besteht mindestens aus zwei Dateien, dem signierten PDF/A-Dokument und der XML-Datei.  Begründung:  Anhand dieser beiden Dateien wird sowohl die Übermittlung der medizinisch relevanten Informationen in lesbarer Form für den Empfänger (PDF/A-Dokument) als auch eine (teil-)automatisierte Verarbeitung durch die Software (XML-Dokument) gewährleistet. Akzeptanzkriterium: Die Software übermittelt für eine eArztbrief-Lieferung immer mindestens die folgenden zwei Dateien: genau ein signiertes PDF/A-Dokument entsprechend P41-01 genau ein XML-Dokument entsprechend P41-02 Die Software kann neben den in Akzeptanzkriterium 1 genannten Dateien weitere Anhänge in einer e- Arztbrief-Lieferung unterstützen.  | PFLICHTFUNKTION |  |
+Seite 10 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+codeSystem="2.16.840.1.113883.5.111"> codeSystem="2.16.840.1.113883.3.7.1.1" kennung Institutionskennzeichen müssen diese den Vorgaben des [Implementierungsleitfaden Arztbrief] entsprechen. PFLICHTFUNKTION P41-03 Zwingende Bestandteile einer eArztbrief-Lieferung Eine eArztbrief-Lieferung besteht mindestens aus zwei Dateien, dem signierten PDF/A-Dokument und der XML-Datei.  Begründung:  Anhand dieser beiden Dateien wird sowohl die Übermittlung der medizinisch relevanten Informationen in lesbarer Form für den Empfänger (PDF/A-Dokument) als auch eine (teil-)automatisierte Verarbeitung durch die Software (XML-Dokument) gewährleistet. Akzeptanzkriterium: Die Software übermittelt für eine eArztbrief-Lieferung immer mindestens die folgenden zwei Dateien: genau ein signiertes PDF/A-Dokument entsprechend P41-01 genau ein XML-Dokument entsprechend P41-02 Die Software kann neben den in Akzeptanzkriterium 1 genannten Dateien weitere Anhänge in einer e- Arztbrief-Lieferung unterstützen.
+
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P41-03** | Zwingende Bestandteile einer eArztbrief-Lieferung |
 
@@ -256,7 +276,11 @@ codeSystem="2.16.840.1.113883.5.111"> codeSystem="2.16.840.1.113883.3.7.1.1" ken
 
 Die Software muss den Versand einer eArztbrief-Lieferung ermöglichen.
 
-Alle in einer eArztbrief-Lieferung übermittelten Dateien müssen semantisch zu dem gleichen Patienten gehören. Die Software muss eine Funktionalität zur Verfügung stellen, die es dem Anwender ermöglicht, das PDF/A-Dokument einer eArztbrief-Lieferung mit einer qualifizierten, elektronischen Signatur zu versehen. Die Software muss die Signaturerstellung mittels der Komponenten der Telematikinfrastruktur (TI) (Basisfunktionalität des Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (bspw. PIN-Eingabe und Komfortsignatur) unterstützen. VORGABEN AN DIE SIGNATUR P42-01 Erstellung einer qualifizierten, elektronischen Signatur Die Software muss es dem Anwender ermöglichen, den eArztbrief mit einer qualifizierten, elektronischen Signatur (QES) zu versehen.  Gemäß § 383 SGB V fordert der Gesetzgeber die Verwendung einer qualifizierten, elektronischen Signatur (QES), welche mit einem elektronischen Heilberufsausweis (eHBA) erzeugt worden ist, für die Übermittlung von elektronischen Briefen in der vertragsärztlichen Versorgung. Durch die Verwendung der QES wird eine rechtsverbindliche Unterschrift an das Dokument angefügt und somit eine eindeutige Identifikation des Senders ermöglicht. Durch die Verwendung des eHBA wird eine personenbezogene Identifizierung des Senders als Arzt bzw. Psychotherapeut ermöglicht. Akzeptanzkriterium: übermittelten eArztbriefes zu überprüfen  Der Anwender muss den Absender eines eArztbriefes eindeutig identifizieren können, um die Authentizität der übermittelten Informationen sicherzustellen. Akzeptanzkriterium: Die Software muss dem Anwender eine Funktionalität zur Verfügung stellen, die es dem Anwender ermöglicht, die Gültigkeit der qualifizierten elektronischen Signatur des PDF/A-Dokumentes gemäß P41-01 mit Hilfe der Komponenten der Telematikinfrastruktur (TI) (Basisfunktionalität des Konnektors) zu prüfen. VORGABEN FÜR DEN VERSAND **Begründung:**
+**Begründung:**
+
+Seite 11 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+Alle in einer eArztbrief-Lieferung übermittelten Dateien müssen semantisch zu dem gleichen Patienten gehören. Die Software muss eine Funktionalität zur Verfügung stellen, die es dem Anwender ermöglicht, das PDF/A-Dokument einer eArztbrief-Lieferung mit einer qualifizierten, elektronischen Signatur zu versehen. Die Software muss die Signaturerstellung mittels der Komponenten der Telematikinfrastruktur (TI) (Basisfunktionalität des Konnektors) ermöglichen und dabei alle zur Verfügung stehenden Signaturmodi (bspw. PIN-Eingabe und Komfortsignatur) unterstützen. VORGABEN AN DIE SIGNATUR P42-01 Erstellung einer qualifizierten, elektronischen Signatur Die Software muss es dem Anwender ermöglichen, den eArztbrief mit einer qualifizierten, elektronischen Signatur (QES) zu versehen.  Gemäß § 383 SGB V fordert der Gesetzgeber die Verwendung einer qualifizierten, elektronischen Signatur (QES), welche mit einem elektronischen Heilberufsausweis (eHBA) erzeugt worden ist, für die Übermittlung von elektronischen Briefen in der vertragsärztlichen Versorgung. Durch die Verwendung der QES wird eine rechtsverbindliche Unterschrift an das Dokument angefügt und somit eine eindeutige Identifikation des Senders ermöglicht. Durch die Verwendung des eHBA wird eine personenbezogene Identifizierung des Senders als Arzt bzw. Psychotherapeut ermöglicht. Akzeptanzkriterium: übermittelten eArztbriefes zu überprüfen  Der Anwender muss den Absender eines eArztbriefes eindeutig identifizieren können, um die Authentizität der übermittelten Informationen sicherzustellen. Akzeptanzkriterium: Die Software muss dem Anwender eine Funktionalität zur Verfügung stellen, die es dem Anwender ermöglicht, die Gültigkeit der qualifizierten elektronischen Signatur des PDF/A-Dokumentes gemäß P41-01 mit Hilfe der Komponenten der Telematikinfrastruktur (TI) (Basisfunktionalität des Konnektors) zu prüfen. VORGABEN FÜR DEN VERSAND
 
 | PFLICHTFUNKTION |  |
 |---|---|
@@ -272,6 +296,8 @@ Alle in einer eArztbrief-Lieferung übermittelten Dateien müssen semantisch zu 
 \| CONTENT- CONTENT-DESCRIPTION  attachment  <eAB-Anhang-01  bis eAB-Anhang-99>  Gemäß § 383 SGB V wird die Übermittlung eines elektronischen Briefes zwischen den an der  Akzeptanzkriterium:  P43-03  Weitere Festlegungen zum Einsatz von KIM beim Versand von eArztbriefen  Die Software setzt die eArztbrief spezifischen Festlegungen zu KIM beim Einsatz zur Versendung von  Begründung:  1.  ·  ·  ·  1.  2.  3.  4.  Gemäß § 383 SGB V wird die Übermittlung eines elektronischen Briefes zwischen den an der  Akzeptanzkriterium: |
 \|---|
 \| signierte PDF/A- application/pdf  base64 |
+
+Seite 12 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
 
 vertragsärztlichen Versorgung teilnehmenden Ärzten und Einrichtungen gefördert, wenn die Übermittlung durch sichere elektronische Verfahren erfolgt. Die Software ermöglicht den Versand eines elektronischen Arztbriefes nach folgenden Kriterien: Der Versand erfolgt mittels eines Kommunikationsdienstes nach Kapitel 2 dieses Anforderungskatalogs. Der Aufbau der eArztbrief-Lieferung entspricht P41-03. Das PDF/A-Dokument der eArztbrief-Lieferung ist mit einer qualifizierten, elektronischen Signatur gemäß P42-01 versehen PFLICHTFUNKTION eArztbriefen um. Aus Gründen der Einheitlichkeit wird hierfür der Kommunikationsdienst KIM eingesetzt. Die allgemeinen Vorgaben der gematik zu KIM müssen im Rahmen des Einsatzes bei dem eArztbrief um verfahrensspezifische Vorgaben erweitert werden. Die Software ermöglicht es dem Anwender, das Header-Element Subject Anwender das Header-Element Subject  nicht ausfüllt, füllt die Software es automatisch mit dem Wert Das Header-Element X-KIM-Dienstkennung muss genau den Inhalt "Arztbrief;VHitG-Versand;V1.2" aufweisen. Sofern für den zu versendenden eArztbrief eine MDN angefordert werden soll, müssen in dem zu versendenden eArztbrief die Header-Felder Disposition-Notification-To werden. Die MIME-Segmente müssen mindestens folgende Metainformationen (Content-Type, Content- Transfer-Encoding, Content-Disposition und Content-Description) unterstützten: ANHANG CONTENT-TYPE TRANSFER- DISPOSITION ENCODING Arztbrief-Datei XML-Arztbrief- application/xml Datei <abhängig vom Format der Datei>*  frei zu wählen. Wenn der  und Return-Path  gesetzt eAB-PDF-signed eAB-XML | PFLICHTFUNKTION |  |
 |---|---|
@@ -290,7 +316,11 @@ vertragsärztlichen Versorgung teilnehmenden Ärzten und Einrichtungen geförder
 \|---|
 \| 1.  2. |
 
-Der Nachrichten-Body der eArztbrief-Lieferung darf keine fachlichen Inhalte enthalten. Dienstkennung „Arztbrief;VHitG Versand;V1.0“ (veraltete und nicht mehr gültige X -KIM-Dienstkennung) bzw. „Arztbrief;VHitG Versand;V1.2“ gemäß den Vorgaben von P44  P44-05 weiterverarbeiten. P43-02 Verfügung stellen. sichergestellt werden. Dies unterstützt den behandelnden Arzt bei der Weiterbehandlung des Patienten.  Sämtliche zu einem Patienten versendete eArztbriefe werden durch die Software in der Patientenakte hinterlegt. VORGABEN FÜR DEN EMPFANG P44-01 Empfang eines eArztbriefes Die Software muss dem Anwender den Empfang von eArztbrief-Lieferungen ermöglichen.  vertragsärztlichen Versorgung teilnehmenden Ärzten und Einrichtungen gefördert, wenn die Übermittlung durch sichere elektronische Verfahren erfolgt. Die Software ermöglicht den Abruf von eArztbrief-Lieferungen entweder manuell durch den Anwender oder automatisch in konfigurierbaren Intervallen.  Der Empfang einer eArztbrief-Lieferung erfolgt nach den folgenden Kriterien: Die Übermittlung erfolgt mittels eines Kommunikationsdienstes nach Kapitel  dieses Anforderungskatalogs genau ein XML-Dokument entsprechend P41-02. Der Aufbau der eArztbrief-Lieferung entspricht P41-03. | HINWEIS  1.  1.  2.  ·  2 dieses  ·       Das empfangende System kann eine erhaltene Nachricht als eArztbrief anhand der verwendeten      PFLICHTFUNKTION    P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation  5.  P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation    3.4 Akzeptanzkriterium:  1. PFLICHTFUNKTION    P44-01  Empfang eines eArztbriefes  Die Software muss dem Anwender den Empfang von eArztbrief-Lieferungen ermöglichen.                P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation  Akzeptanzkriterium:  1.    3.4 PFLICHTFUNKTION  ·  2 dieses  ·    PFLICHTFUNKTION    P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation  Akzeptanzkriterium: |
+Seite 13 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+Der Nachrichten-Body der eArztbrief-Lieferung darf keine fachlichen Inhalte enthalten. Dienstkennung „Arztbrief;VHitG Versand;V1.0“ (veraltete und nicht mehr gültige X -KIM-Dienstkennung) bzw. „Arztbrief;VHitG Versand;V1.2“ gemäß den Vorgaben von P44  P44-05 weiterverarbeiten. P43-02 Verfügung stellen. sichergestellt werden. Dies unterstützt den behandelnden Arzt bei der Weiterbehandlung des Patienten.  Sämtliche zu einem Patienten versendete eArztbriefe werden durch die Software in der Patientenakte hinterlegt. VORGABEN FÜR DEN EMPFANG P44-01 Empfang eines eArztbriefes Die Software muss dem Anwender den Empfang von eArztbrief-Lieferungen ermöglichen.  vertragsärztlichen Versorgung teilnehmenden Ärzten und Einrichtungen gefördert, wenn die Übermittlung durch sichere elektronische Verfahren erfolgt. Die Software ermöglicht den Abruf von eArztbrief-Lieferungen entweder manuell durch den Anwender oder automatisch in konfigurierbaren Intervallen.  Der Empfang einer eArztbrief-Lieferung erfolgt nach den folgenden Kriterien: Die Übermittlung erfolgt mittels eines Kommunikationsdienstes nach Kapitel  dieses Anforderungskatalogs genau ein XML-Dokument entsprechend P41-02. Der Aufbau der eArztbrief-Lieferung entspricht P41-03.
+
+\| HINWEIS  1.  1.  2.  ·  2 dieses  ·       Das empfangende System kann eine erhaltene Nachricht als eArztbrief anhand der verwendeten      PFLICHTFUNKTION    P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation  5.  P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation    3.4 Akzeptanzkriterium:  1. PFLICHTFUNKTION    P44-01  Empfang eines eArztbriefes  Die Software muss dem Anwender den Empfang von eArztbrief-Lieferungen ermöglichen.                P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation  Akzeptanzkriterium:  1.    3.4 PFLICHTFUNKTION  ·  2 dieses  ·    PFLICHTFUNKTION    P43-02  Zuordnung eines gesendeten eArztbriefes zu einem Patienten  Die Software muss dem Anwender für einen Patienten alle ihm zugeordneten gesendeten eArztbriefe zur  Begründung:   Durch die Bereitstellung aller eArztbriefe zu einem Patienten kann eine lückenlose Dokumentation  Akzeptanzkriterium: |
 \|---|
 \| Das empfangende System kann eine erhaltene Nachricht als eArztbrief anhand der verwendeten |
 
@@ -313,7 +343,11 @@ Der Nachrichten-Body der eArztbrief-Lieferung darf keine fachlichen Inhalte enth
 \|---|
 \| 2.  a) |
 
-Die Software ordnet einen empfangenen eArztbrief mit Hilfe der enthaltenen Header-Informationen in der übermittelten XML-Datei auf Anforderung des Anwenders einem Patienten zu. Hierbei weist das System den Anwender auf etwaige Abweichungen zwischen den in der XML-Datei der empfangenen eArztbrief-Lieferung übermittelten Patientendaten mit den im System bereits vorhandenen Daten zu einem Patienten hin. Ist eine eindeutige Zuordnung zu einem Patienten möglich, so wird die eArztbrief-Lieferung einschließlich aller enthaltenen Dokumente (Anhänge) standardmäßig automatisch durch das System  der Patientenakte zugeordnet, ohne Anforderung des Anwenders. Sobald eine automatische Zuordnung und Übernahme erfolgt ist, muss der Anwender mit einem Hinweis über selbige informiert werden. Der Hinweis muss die Information enthalten, zu welchem Patient (mindestens Vor- und Nachname) die Zuordnung erfolgte.  Das System kann dem Anwender ermöglichen, die automatische Zuordnung der eArztbrief-Lieferung zur Patientendokumentation zu konfigurieren. Initial muss die automatische Zuordnung aktiviert sein.  Das System kann dem Anwender ermöglichen, die Übernahme der Anhänge der eArztbrief-Lieferung  in die Patientendokumentation zu konfigurieren. Initial muss eine automatische Übernahme aktiviert sein.   Weitere Konfigurationsoptionen, beispielsweise zur selektiven Übernahme von Dokumenten, können optional vorgesehen werden. Ist eine systemseitige Zuordnung zu einem Patienten nach diesen Kriterien nicht möglich, informiert die Software den Anwender und erlaubt es dem Anwender, den Brief manuell einem Patienten zuzuordnen. Hierbei weist das System den Anwender auf etwaige Abweichungen zwischen den in der XML-Datei der empfangenen eArztbrief-Lieferung übermittelten Patientendaten mit den im System bereits vorhandenen Daten zu einem Patienten hin. Die Software muss dem Anwender das übermittelte PDF/A-Dokument immer in lesbarer Form zur Verfügung stellen. Dies gilt unabhängig von der Auswertbarkeit der übermittelten XML-Datei. Die übermittelten Dokumente und Informationen dürfen dabei inhaltlich nicht verändert bzw. gelöscht werden.  relevanten Dokumente einer eArztbrief-Lieferung in der medizinischen Patientendokumentation dargestellt und gespeichert werden. elektronischen Arztbrief übermittelten Dokumente und Informationen vollständig dem richtigen Patienten zugeordnet und zur Verfügung gestellt werden. überschreiben, sofern im laufenden Quartal bereits Patientendaten erfasst wurden (bspw. Einlesen einer eGK, manuelle Erfassung usw.).  werden kann, ob die Patientendaten des Senders aktueller als die bereits hinterlegten Patientendaten sind. | PFLICHTFUNKTION |  |
+Seite 14 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+Die Software ordnet einen empfangenen eArztbrief mit Hilfe der enthaltenen Header-Informationen in der übermittelten XML-Datei auf Anforderung des Anwenders einem Patienten zu. Hierbei weist das System den Anwender auf etwaige Abweichungen zwischen den in der XML-Datei der empfangenen eArztbrief-Lieferung übermittelten Patientendaten mit den im System bereits vorhandenen Daten zu einem Patienten hin. Ist eine eindeutige Zuordnung zu einem Patienten möglich, so wird die eArztbrief-Lieferung einschließlich aller enthaltenen Dokumente (Anhänge) standardmäßig automatisch durch das System  der Patientenakte zugeordnet, ohne Anforderung des Anwenders. Sobald eine automatische Zuordnung und Übernahme erfolgt ist, muss der Anwender mit einem Hinweis über selbige informiert werden. Der Hinweis muss die Information enthalten, zu welchem Patient (mindestens Vor- und Nachname) die Zuordnung erfolgte.  Das System kann dem Anwender ermöglichen, die automatische Zuordnung der eArztbrief-Lieferung zur Patientendokumentation zu konfigurieren. Initial muss die automatische Zuordnung aktiviert sein.  Das System kann dem Anwender ermöglichen, die Übernahme der Anhänge der eArztbrief-Lieferung  in die Patientendokumentation zu konfigurieren. Initial muss eine automatische Übernahme aktiviert sein.   Weitere Konfigurationsoptionen, beispielsweise zur selektiven Übernahme von Dokumenten, können optional vorgesehen werden. Ist eine systemseitige Zuordnung zu einem Patienten nach diesen Kriterien nicht möglich, informiert die Software den Anwender und erlaubt es dem Anwender, den Brief manuell einem Patienten zuzuordnen. Hierbei weist das System den Anwender auf etwaige Abweichungen zwischen den in der XML-Datei der empfangenen eArztbrief-Lieferung übermittelten Patientendaten mit den im System bereits vorhandenen Daten zu einem Patienten hin. Die Software muss dem Anwender das übermittelte PDF/A-Dokument immer in lesbarer Form zur Verfügung stellen. Dies gilt unabhängig von der Auswertbarkeit der übermittelten XML-Datei. Die übermittelten Dokumente und Informationen dürfen dabei inhaltlich nicht verändert bzw. gelöscht werden.  relevanten Dokumente einer eArztbrief-Lieferung in der medizinischen Patientendokumentation dargestellt und gespeichert werden. elektronischen Arztbrief übermittelten Dokumente und Informationen vollständig dem richtigen Patienten zugeordnet und zur Verfügung gestellt werden. überschreiben, sofern im laufenden Quartal bereits Patientendaten erfasst wurden (bspw. Einlesen einer eGK, manuelle Erfassung usw.).  werden kann, ob die Patientendaten des Senders aktueller als die bereits hinterlegten Patientendaten sind.
+
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P44-03** | Keine Änderung von Patientendaten |
 
@@ -324,7 +358,11 @@ Die Software ordnet einen empfangenen eArztbrief mit Hilfe der enthaltenen Heade
 \|---|
 \| **P44-04** |
 
-Die Software überschreibt bereits im System vorhandene Patientendaten nicht durch die in der XML- Datei der empfangenen eArztbrief-Lieferung übermittelten Patientendaten, sofern bereits Patientendaten im laufenden Quartal erfasst wurden.  Patienten-Kontakt im aktuellen Quartal einer eArztbrief-Lieferung sowie die Abrechnung des Empfangs (entsprechend P50-03) ermöglichen, wenn bei einem bekannten Patienten noch kein Arzt-Patienten-Kontakt im Quartal stattgefunden hat. bekannten Versicherten ohne persönlichen Kontakt im Ersatzverfahren zu erfassen und im Rahmen der ADT-Abrechnung zu übertragen. Die für die Übertragung vorgesehenen Versichertenstammdaten sind auf der Grundlage der Patientenstammdatei zu übernehmen.  Die Zuordnung der eArztbrief-Lieferung erfolgt gemäß P44-02 Die Software erstellt automatisch einen Abrechnungsschein, wenn bei dem Patienten im Quartal noch kein Schein angelegt wurde bzw. existiert: Bei Systemen mit Arzt-Patienten-Kontakt muss die Software den Abrechnungsschein mit der Satzart 0101 und der Scheinuntergruppe 00 (Satzart „Ambulante Behandlung“) vorbeleg Bei Systemen ohne Arzt-Patienten-Kontakt muss die Software den Abrechnungsschein mit der Satzart 0102 und der Scheinuntergruppe 21 (Satzart „Auftragsleistungen“) vorbele gen. Falls die Scheinuntergruppe 21 nicht unterstützt wird, soll die Vorbelegung mit einer beliebigen, unterstützten Scheinuntergruppe erfolgen.  Sofern in der eArztbrief-Lieferung abweichende Patientendaten enthalten sind (enthalten in der Header- Informationen in der übermittelten XML-Datei), im Vergleich zu den im Patientenstamm vorhanden Daten, muss die Software dem Anwender die Möglichkeit bieten, die Daten im Patientenstamm zu aktualisieren.  Eine Aktualisierung der Daten darf nur erfolgen bzw. angeboten werden, wenn für den bekannten Patienten im laufenden Quartal noch keine Daten erfasst wurden, dies bedeutet es wurde keine Versichertenkarte eingelesen bzw. kein Ersatzverfahren durchgeführt. Dem Anwender werden die Unterschiede der einzelnen Daten angezeigt.  Der Anwender kann alle unterschiedlichen Daten mit einmal übernehmen oder bei Bedarf nur einzelne Daten aktualisieren.  Der Anwender hat die Möglichkeit die Aktualisierung abzulehnen. bekannten Patienten.  | PFLICHTFUNKTION |  |
+Seite 15 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+Die Software überschreibt bereits im System vorhandene Patientendaten nicht durch die in der XML- Datei der empfangenen eArztbrief-Lieferung übermittelten Patientendaten, sofern bereits Patientendaten im laufenden Quartal erfasst wurden.  Patienten-Kontakt im aktuellen Quartal einer eArztbrief-Lieferung sowie die Abrechnung des Empfangs (entsprechend P50-03) ermöglichen, wenn bei einem bekannten Patienten noch kein Arzt-Patienten-Kontakt im Quartal stattgefunden hat. bekannten Versicherten ohne persönlichen Kontakt im Ersatzverfahren zu erfassen und im Rahmen der ADT-Abrechnung zu übertragen. Die für die Übertragung vorgesehenen Versichertenstammdaten sind auf der Grundlage der Patientenstammdatei zu übernehmen.  Die Zuordnung der eArztbrief-Lieferung erfolgt gemäß P44-02 Die Software erstellt automatisch einen Abrechnungsschein, wenn bei dem Patienten im Quartal noch kein Schein angelegt wurde bzw. existiert: Bei Systemen mit Arzt-Patienten-Kontakt muss die Software den Abrechnungsschein mit der Satzart 0101 und der Scheinuntergruppe 00 (Satzart „Ambulante Behandlung“) vorbeleg Bei Systemen ohne Arzt-Patienten-Kontakt muss die Software den Abrechnungsschein mit der Satzart 0102 und der Scheinuntergruppe 21 (Satzart „Auftragsleistungen“) vorbele gen. Falls die Scheinuntergruppe 21 nicht unterstützt wird, soll die Vorbelegung mit einer beliebigen, unterstützten Scheinuntergruppe erfolgen.  Sofern in der eArztbrief-Lieferung abweichende Patientendaten enthalten sind (enthalten in der Header- Informationen in der übermittelten XML-Datei), im Vergleich zu den im Patientenstamm vorhanden Daten, muss die Software dem Anwender die Möglichkeit bieten, die Daten im Patientenstamm zu aktualisieren.  Eine Aktualisierung der Daten darf nur erfolgen bzw. angeboten werden, wenn für den bekannten Patienten im laufenden Quartal noch keine Daten erfasst wurden, dies bedeutet es wurde keine Versichertenkarte eingelesen bzw. kein Ersatzverfahren durchgeführt. Dem Anwender werden die Unterschiede der einzelnen Daten angezeigt.  Der Anwender kann alle unterschiedlichen Daten mit einmal übernehmen oder bei Bedarf nur einzelne Daten aktualisieren.  Der Anwender hat die Möglichkeit die Aktualisierung abzulehnen. bekannten Patienten.
+
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P44-04** | Datenübernahme nach Empfang eines eArztbriefes bei bekannten Patienten ohne Arzt- |
 
@@ -339,7 +377,10 @@ Die Software überschreibt bereits im System vorhandene Patientendaten nicht dur
 \|---|
 \|  |
 
-Die Abrechnung der eArztbrief-Lieferung darf nicht erfolgen. Die Anlage des Patienten mit den vorhandenen Daten darf erfolgen. Sofern es im aktuellen Quartal für den unbekannten Patienten nach Erhalt der eArztbrief-Lieferung zu einem Arzt-Patienten-Kontakt kommt, d.h. eine Versichertenkarte eingelesen bzw. ein Ersatzverfahren durchgeführt wird, muss das System die Zuordnung und Abrechnung des eArztbriefes ermöglichen. Die Zuordnung der eArztbrief-Lieferung erfolgt gemäß P44-02.
+Seite 16 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+Die Abrechnung der eArztbrief-Lieferung darf nicht erfolgen. Die Anlage des Patienten mit den vorhandenen Daten darf erfolgen. Sofern es im aktuellen Quartal für den unbekannten Patienten nach Erhalt der eArztbrief-Lieferung zu einem Arzt-Patienten-Kontakt kommt, d.h. eine Versichertenkarte eingelesen bzw. ein Ersatzverfahren durchgeführt wird, muss das System die Zuordnung und Abrechnung des eArztbriefes ermöglichen. Die Zuordnung der eArztbrief-Lieferung erfolgt gemäß P44-02. 
+
 
 ---
 
@@ -347,7 +388,11 @@ Die Abrechnung der eArztbrief-Lieferung darf nicht erfolgen. Die Anlage des Pati
 \|---|
 \| **P50-01 ** Quartalsweise Zustimmung der automatischen Abrechnung  Zu Beginn eines jeden Quartals muss der Arzt seine Zustimmung für die automatischen Abrechnungen von |
 
-ABRECHNUNGSUNTERSTÜTZUNG eArztbriefen bestätigen. und muss entsprechend bei einer automatischen Beregelung der Quartalsabrechnung explizit informiert werden. Die Software muss beim ersten Versand einer eArztbrief-Lieferung im Quartal den Anwender die automatische Abrechnung der Kostenpauschale 86900 bestätigen lassen. Die Software muss beim ersten Empfang einer eArztbrief-Lieferung im Quartal den Anwender die automatische Abrechnung der Kostenpauschale 86901 bestätigen lassen.  Eine Ablehnung der automatischen Abrechnung ist zulässig und muss ebenfalls quartalsweise erfolgen. Entsprechend dürfen in diesem Fall die Kostenpauschalen 86900 bzw. 86901 nicht durch das System automatisch für die Quartalsabrechnung übernommen werden. Eine Änderung der Einstellung zur automatischen Abrechnung von eArztbriefen muss jederzeit über die Konfiguration des Systems durch den Anwender möglich sein. Der Anwender ist darüber zu informieren, dass die Bestätigung beziehungsweise die Ablehnung der automatischen Abrechnung immer für das laufende Quartal gilt. Die automatische Abrechnung der Kostenpauschale 86900 bzw. 86901 ist dem Anwender spätestens bei der Erstellung der Abrechnung fallbezogen anzuzeigen. Die Bestätigung der Übernahme in die Abrechnung kann, wie folgt, erfolgen: Unmittelbar fallbezogen bei dem Versand bzw. dem Empfang der eArztbrief-Lieferung Fallbezogen oder fallübergreifend bei Erstellung der Abrechnung P50-02 Automatische Abrechnung der GOP 86900 beim Versand einer eArztbrief-Lieferung Versenden eines elektronischen Briefes je Empfänger- Praxis“ für die Quartalsabrechnung. Die Software übernimmt bei Versand einer eArztbrief- Lieferung die Gebührenordnungsposition „GOP  Versenden eines elektronischen Briefes je Empfänger- Praxis“ automatisch für die Quartalsabrechnung, sofern die folgenden Bedingungen erfüllt sind: Der Anwender muss einer automatischen Abrechnung von elektronischen Briefen im aktuellen Quartal gemäß Pflichtfunktion P50-01 zugestimmt haben. Der Versand der eArztbrief-Lieferung muss der Pflichtfunktion P43-01 entsprechen. Die Zuordnung der eArztbrief-Lieferung zu einem Patienten nach Pflichtfunktion P43-02 ist erfolgt. | PFLICHTFUNKTION |  |
+Seite 17 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+ABRECHNUNGSUNTERSTÜTZUNG eArztbriefen bestätigen. und muss entsprechend bei einer automatischen Beregelung der Quartalsabrechnung explizit informiert werden. Die Software muss beim ersten Versand einer eArztbrief-Lieferung im Quartal den Anwender die automatische Abrechnung der Kostenpauschale 86900 bestätigen lassen. Die Software muss beim ersten Empfang einer eArztbrief-Lieferung im Quartal den Anwender die automatische Abrechnung der Kostenpauschale 86901 bestätigen lassen.  Eine Ablehnung der automatischen Abrechnung ist zulässig und muss ebenfalls quartalsweise erfolgen. Entsprechend dürfen in diesem Fall die Kostenpauschalen 86900 bzw. 86901 nicht durch das System automatisch für die Quartalsabrechnung übernommen werden. Eine Änderung der Einstellung zur automatischen Abrechnung von eArztbriefen muss jederzeit über die Konfiguration des Systems durch den Anwender möglich sein. Der Anwender ist darüber zu informieren, dass die Bestätigung beziehungsweise die Ablehnung der automatischen Abrechnung immer für das laufende Quartal gilt. Die automatische Abrechnung der Kostenpauschale 86900 bzw. 86901 ist dem Anwender spätestens bei der Erstellung der Abrechnung fallbezogen anzuzeigen. Die Bestätigung der Übernahme in die Abrechnung kann, wie folgt, erfolgen: Unmittelbar fallbezogen bei dem Versand bzw. dem Empfang der eArztbrief-Lieferung Fallbezogen oder fallübergreifend bei Erstellung der Abrechnung P50-02 Automatische Abrechnung der GOP 86900 beim Versand einer eArztbrief-Lieferung Versenden eines elektronischen Briefes je Empfänger- Praxis“ für die Quartalsabrechnung. Die Software übernimmt bei Versand einer eArztbrief- Lieferung die Gebührenordnungsposition „GOP  Versenden eines elektronischen Briefes je Empfänger- Praxis“ automatisch für die Quartalsabrechnung, sofern die folgenden Bedingungen erfüllt sind: Der Anwender muss einer automatischen Abrechnung von elektronischen Briefen im aktuellen Quartal gemäß Pflichtfunktion P50-01 zugestimmt haben. Der Versand der eArztbrief-Lieferung muss der Pflichtfunktion P43-01 entsprechen. Die Zuordnung der eArztbrief-Lieferung zu einem Patienten nach Pflichtfunktion P43-02 ist erfolgt.
+
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P50-01** | Quartalsweise Zustimmung der automatischen Abrechnung |
 
@@ -362,7 +407,11 @@ ABRECHNUNGSUNTERSTÜTZUNG eArztbriefen bestätigen. und muss entsprechend bei ei
 \|---|
 \| Automatische Abrechnung der GOP 86901 beim Empfang einer eArztbrief-Lieferung  Die Software ermöglicht nach Empfang eines eArztbriefes die automatische Übernahme der „GOP 86901 **Begründung:** |
 
-Empfangen eines elektronischen Briefes“ für die Quartalsabrechnung. Die Software übernimmt beim Empfang einer eArztbrief- Lieferung die Gebührenordnungsposition „GOP 86901 - Empfangen eines elektronischen Briefes“ automatisch für die Quartalsabrechnung, sofern die folgenden Bedingungen erfüllt sind: Der Anwender muss einer automatischen Abrechnung von elektronischen Briefen im aktuellen Quartal gemäß Pflichtfunktion P50-01 zugestimmt haben. Der Empfang der eArztbrief-Lieferung muss der Pflichtfunktion P44-01 entsprechen. Die Zuordnung der eArztbrief-Lieferung zu einem Patienten nach Pflichtfunktion P44-02 ist erfolgt. Die eArztbrief-Lieferung muss durch den Anwender als gelesen gekennzeichnet sein. | PFLICHTFUNKTION |  |
+Seite 18 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
+Empfangen eines elektronischen Briefes“ für die Quartalsabrechnung. Die Software übernimmt beim Empfang einer eArztbrief- Lieferung die Gebührenordnungsposition „GOP 86901 - Empfangen eines elektronischen Briefes“ automatisch für die Quartalsabrechnung, sofern die folgenden Bedingungen erfüllt sind: Der Anwender muss einer automatischen Abrechnung von elektronischen Briefen im aktuellen Quartal gemäß Pflichtfunktion P50-01 zugestimmt haben. Der Empfang der eArztbrief-Lieferung muss der Pflichtfunktion P44-01 entsprechen. Die Zuordnung der eArztbrief-Lieferung zu einem Patienten nach Pflichtfunktion P44-02 ist erfolgt. Die eArztbrief-Lieferung muss durch den Anwender als gelesen gekennzeichnet sein.
+
+| PFLICHTFUNKTION |  |
 |---|---|
 | **P50-03** | Automatische Abrechnung der GOP 86901 beim Empfang einer eArztbrief-Lieferung |
 
@@ -381,6 +430,9 @@ Empfangen eines elektronischen Briefes“ für die Quartalsabrechnung. Die Softw
 | QES | qualifizierte, elektronische Signatur |
 | VPN | virtuelles privates Netzwerk |
 | Begriff | Bedeutung |
+
+Seite 19 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
+
 
 ---
 
@@ -402,5 +454,7 @@ Dezernat Digitalisierung und IT
 Geschäftsbereich IT in der Versorgung  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 20 von 20 / KBV / Anforderungskatalog eArztbrief / Version: 2.14 / 13. Februar 2026
 
 elektronischer Briefe in der vertragsärztlichen Versorgung gemäß § 383 SGB V Basis der HL7 Clinical Document Architecture, Release 2, für das deutsche Gesundheitswesen 12.05.2006 1.2.276.0.76.3.1.13.7.5 Primärsystems zur Konnektorschnittstelle

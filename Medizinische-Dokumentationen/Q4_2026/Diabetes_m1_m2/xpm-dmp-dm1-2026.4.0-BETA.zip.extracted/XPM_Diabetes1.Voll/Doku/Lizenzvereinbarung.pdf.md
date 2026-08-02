@@ -34,6 +34,8 @@ a) Einen Teil der Software zu kopieren (außer zu Sicherungszwecken), unterzuliz
 
 b) die Software ganz oder teilweise zu verändern oder abgeleitete Werke zu schaffen, die  ganz oder teilweise auf der Software basieren;
 
+Seite **1** von **3**
+
 
 ---
 
@@ -77,6 +79,8 @@ Erfüllung der Vertragspflichten hinausgehen.
 
 **Haftungsbeschränkung**
 
+Seite **2** von **3**
+
 
 ---
 
@@ -113,3 +117,5 @@ Kassenärztliche Bundesvereinigung
 wird durch sie nicht eingeschränkt oder
 
 i-
+
+Seite **3** von **3**

@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_116117_VERMITTLUNGSCODE]
 
+Seite 1 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -45,7 +47,10 @@ INHALT
 
 **12**
 
-Prüfunterlagen Einreichen von Prüfunterlagen als PDF-Dokumente Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall Audit kv.digital GmbH Prüffall Muster 6  Überweisungsschein Prüffall Muster PTV11  Individuelle Patienteninformation zur ambulanten Psychotherapeutischen Sprechstunde
+Seite 2 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
+
+Prüfunterlagen Einreichen von Prüfunterlagen als PDF-Dokumente Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall Audit kv.digital GmbH Prüffall Muster 6  Überweisungsschein Prüffall Muster PTV11  Individuelle Patienteninformation zur ambulanten Psychotherapeutischen Sprechstunde 
+
 
 ---
 
@@ -68,6 +73,8 @@ alle 116117 Terminservice
 Abbildung 1: Struktur des ZIP-Archives
 
 **6**
+
+Seite 3 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
 Textfeldbezeichnung im Prüffall Muster PTV11 
 
@@ -102,6 +109,8 @@ Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, 
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
+Seite 4 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
+
 |  |  |
 |---|---|
 
@@ -133,6 +142,8 @@ Zwar werden auch unvollständige Lieferungen inhaltlich geprüft und entsprechen
 ## 1.5 PRÜFUNTERLAGEN
 
 In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet.
+
+Seite 5 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
 |  |  |
 |---|---|
@@ -178,6 +189,8 @@ Die Versichertendaten des Testpatienten enthalten alle für den jeweiligen Prüf
 
 Prüffälle als XML-Dateien
 
+Seite 6 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
+
 |  |  |
 |---|---|
 
@@ -218,9 +231,11 @@ Prüffälle als XML-Dateien
 | **4134** | **Kostentraegername** | Thyssen Industrie |
 | **4132** | **DMP_Kennzeichnung** | 09 |
 
-Schaumburg-und-Radëberg **, 03 und 04“ (XML_40)**
+Seite 7 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
-|  |  |
+**, 03 und 04“ (XML_40)**
+
+Schaumburg-und-Radëberg |  |  |
 |---|---|
 
 
@@ -242,6 +257,8 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | **Telefon:** | 02151 / 1111111 |
 | **Telefax:** | 02151 / 2222222 |
 
+Seite 8 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
+
 |  |  |
 |---|---|
 
@@ -261,6 +278,8 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in  Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice-Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
 
 [Weitere Informationen zum Ablauf des Audits finden Sie im](https://partnerportal.kv-telematik.de/display/TSSSPEC/Audit+116117+Terminservice-Schnittstellen)[Partnerportal](https://partnerportal.kv-telematik.de/display/TSSSPEC/Audit+116117+Terminservice-Schnittstellen)[der kv.digital.](https://partnerportal.kv-telematik.de/display/TSSSPEC/Audit+116117+Terminservice-Schnittstellen)
+
+Seite 9 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
 Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 116117 Terminservice -Vermittlungscode als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung.
 
@@ -302,9 +321,9 @@ XML-Name: Testpatient_XML
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-der Terminservicestelle nach den aktuellen Vorgaben auf das Muster 6 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument. Hierbei kann entweder die 3a SGB V Unterbauchschmerz li, Lab: Entzündungsparameter erhöht, MiBi Stuhl negativ der geforderten Daten laut Anforderungskatalog>
+Seite 10 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
-|  |  |
+der Terminservicestelle nach den aktuellen Vorgaben auf das Muster 6 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument. Hierbei kann entweder die 3a SGB V Unterbauchschmerz li, Lab: Entzündungsparameter erhöht, MiBi Stuhl negativ der geforderten Daten laut Anforderungskatalog> |  |  |
 |---|---|
 
 
@@ -338,9 +357,9 @@ XML-Name: Testpatient_XML
 
 Alle weiteren Formularfelder können beliebig ausgefüllt werden.
 
-Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Muster PTV11 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument . Hierbei kann entweder die Ihr nächster Termin Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie, nicht näher bezeichnet; sonstige nichtorganische psychotische Störungen der geforderten Daten laut Anforderungskatalog>
+Seite 11 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
-|  |  |
+Vermittlungscode der Terminservicestelle nach den aktuellen Vorgaben auf das Muster PTV11 zur Weitergabe an den Patienten drucken. Prüfunterlagen konventionelle Bedruckung als auch die Blankoformularbedruckung verwendet werden. -Dokument . Hierbei kann entweder die Ihr nächster Termin Diagnose(n)/Verdachtsdiagnose(n) festgestellt Schizophrenie, nicht näher bezeichnet; sonstige nichtorganische psychotische Störungen der geforderten Daten laut Anforderungskatalog> |  |  |
 |---|---|
 
 
@@ -365,7 +384,11 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Spezifikation 116117 Terminservice - Vermittlungscode  in der stets aktuellen Version   Terminservice -  Vermittlungscode““ in der stets aktuellen Version Anforderungskatalog Terminservice “ in der stets aktuellen Version Vermittlungscode Stammdateien zu verwenden. Verwendung im Rahmen der Zertifizierung.  Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 12 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
+
+Spezifikation 116117 Terminservice - Vermittlungscode  in der stets aktuellen Version   Terminservice -  Vermittlungscode““ in der stets aktuellen Version Anforderungskatalog Terminservice “ in der stets aktuellen Version Vermittlungscode Stammdateien zu verwenden. Verwendung im Rahmen der Zertifizierung.
 
 |  |  |
 |---|---|

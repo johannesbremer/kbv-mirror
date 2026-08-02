@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_CR]
 
+Seite 1 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -71,6 +73,8 @@ Regelmäßig körperlich aktiv  CPG Item 3: Durchschnittliche Stärke der Kreuzs
 Abschnitt „Behandlungsplanung“
 
 6.1.10
+
+Seite 2 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 **8**
 
@@ -155,6 +159,8 @@ Vom Patienten gewünschte Informationsangebote der Krankenkasse 27 Dokumentation
 
 **35**
 
+Seite 3 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 ---
 
 ## ABBILDUNGSVERZEICHNIS
@@ -166,6 +172,8 @@ Vom Patienten gewünschte Informationsangebote der Krankenkasse 27 Dokumentation
 **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 14
 
 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16
+
+Seite 4 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 ---
 
@@ -212,6 +220,8 @@ KRANKENKASSE) ..................................................................
 DER LETZTEN DOKUMENTATION) ............................................................................................................................ 32
 
 **TABELLE 16:** WERTE BEI ERGEBNISTEXT (BEENDIGUNG DER DMP-TEILNAHME VEREINBART) ........................................ 33
+
+Seite 5 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 ---
 
@@ -299,6 +309,8 @@ DOKUMENTATION ..................................................................
 
 **XML-CODE 37:** BEENDIGUNG DER DMP-TEILNAHME VEREINBART ................................................................................. 33
 
+Seite 6 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 ---
 
 # DOKUMENTENHISTORIE
@@ -308,6 +320,8 @@ DOKUMENTATION ..................................................................
 | 1.02 | 14.11.2025 | KBV | Anpassung an die | Beschluss des G-BA | 18 |
 | 1.01 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 18 |
 | 1.00 | 22.10.2020 | KBV | neues Dokument |  |  |
+
+Seite 7 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) 
 
@@ -331,6 +345,8 @@ EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] und [EXT_ITA_VGEX_Plausi_eDMP_CR
 Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 8 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 ---
 
@@ -363,6 +379,8 @@ Beispiele:
 - 123456789_123_20210301.EECR
 - 123456789_123_20210601.EVCR
 
+Seite 9 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 ---
 
 # 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
@@ -394,8 +412,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. 
+Seite 10 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -412,6 +431,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
+
+Seite 11 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
 
@@ -439,6 +460,8 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
+Seite 12 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body> 
 
 
@@ -465,6 +488,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
 **XML-Code 2:** body
 
+Seite 13 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 ] durchzuführen.
 
 Abbildung 2 dargestellt.
@@ -487,6 +512,7 @@ Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
+Seite 14 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 ---
 
@@ -499,8 +525,11 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element
 
-<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Sonstige Behandlung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>### content
+Seite 15 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
+### content
+
+<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Sonstige Behandlung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>
 
 ---
 
@@ -530,7 +559,11 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 \| <sciphox:sciphox-ssu type="observation" country="de" version="v1">   <sciphox:Beobachtungen>               </sciphox:sciphox-ssu> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>**XML-Code 5:** Beobachtungen
+**XML-Code 5:** Beobachtungen
+
+Seite 16 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
 
 
 ---
@@ -572,7 +605,11 @@ Dieses Kapitel beschreibt den Abschnitt „Administrative Daten“.
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+
+Seite 17 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
 
 ---
@@ -605,7 +642,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/> content (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere mit entsprechenden Werten angegeben werden. Einschreibung wegen **XML-Code 10:**
+**XML-Code 10:**
+
+Seite 18 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/> content (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere mit entsprechenden Werten angegeben werden. Einschreibung wegen 
 
 
 ---
@@ -645,7 +686,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die „Körpergröße“ und im  *U*-Attribut den fest vorgeschriebenen Wert „m“.
 
-Werte bei Ergebnistext (Einschreibung wegen) Abschnitt „Anamnese- und Befunddaten“ observation  verwendet. Der Aufbau dieser SSU ist in Kapitel  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element content <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 19 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+Werte bei Ergebnistext (Einschreibung wegen) Abschnitt „Anamnese- und Befunddaten“ observation  verwendet. Der Aufbau dieser SSU ist in Kapitel  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element content <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 
 ---
@@ -693,7 +738,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" />**XML-Code 15:** Blutdruck systolisch
+**XML-Code 15:** Blutdruck systolisch
+
+Seite 20 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" />
 
 
 ---
@@ -736,7 +785,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 6:** Werte bei Ergebnistext (Begleiterkrankungen)
 
+Seite 21 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>
+
 
 ---
 
@@ -776,7 +828,11 @@ Tabelle 7
 \| Ja, weniger als 12 Wochen |
 \| Nein |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte <sciphox:Ergebnistext V="Nein"/>**Tabelle 7:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation:  Opioidanalgetika
+**Tabelle 7:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation:  Opioidanalgetika
+
+Seite 22 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte <sciphox:Ergebnistext V="Nein"/>
 
 
 ---
@@ -817,7 +873,10 @@ Der Coderahmen sieht wie folgt aus:
 
 **XML-Code 21:** content (Schulung)
 
+Seite 23 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 <sciphox:Parameter DN="Aktuelle kreuzschmerzbedingte <sciphox:Ergebnistext V="Nein"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+
 
 ---
 
@@ -869,12 +928,15 @@ Im Element <content> wird die Sciphox-SSU *observation*
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau drei Kindelemente <sciphox:Beobachtung>. Ein Element
 
-*V*-Attribut die Feldbezeichnung
+Seite 24 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>verwendet. Der Aufbau dieser SSU ist in Kapitel
+*V*-Attribut die Feldbezeichnung
 
+verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>
 
 ---
 
@@ -906,7 +968,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 11:** Werte bei Ergebnistext (Regelmäßig körperlich aktiv)
 
+Seite 25 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V=". . ." U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)"/> <sciphox:Ergebniswert V=". . ." U="{Punktzahl}"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Ergebnistext V="Nicht möglich"/>
+
 
 ---
 
@@ -936,7 +1001,11 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal ein bis maximal zwei Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
-<sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V="2" U="{Punktzahl}"/> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)“/> <sciphox:Ergebniswert V="4" U=" Punktzahl}"/> Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+
+Seite 26 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V="2" U="{Punktzahl}"/> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)“/> <sciphox:Ergebniswert V="4" U=" Punktzahl}"/> 
 
 
 ---
@@ -978,8 +1047,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 30:** Dokumentationsintervall
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> *V*-Attribut die Feldbezeichnung
+Seite 27 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
+*V*-Attribut die Feldbezeichnung
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/>
 
 ---
 
@@ -989,6 +1061,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Jedes zweite Quartal |
 
 **Tabelle 13:** Werte bei Ergebnistext (Dokumentationsintervall)
+
+Seite 28 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 ---
 
@@ -1024,7 +1098,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>   Dokumentation "/>   </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN=" Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der <sciphox:Ergebniswert V=". . ." U=“Anzahl“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN=" Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten <sciphox:Ergebniswert V="2" U=“Anzahl“/>**XML-Code 32**: Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit  der letzten Dokumentation
+**XML-Code 32**: Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit  der letzten Dokumentation
+
+Seite 29 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN=" Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der <sciphox:Ergebniswert V=". . ." U=“Anzahl“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN=" Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten <sciphox:Ergebniswert V="2" U=“Anzahl“/>
 
 
 ---
@@ -1057,7 +1135,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>**XML-Code 34:** Kreuzschmerz-spezifische Schulung wahrgenommen
+**XML-Code 34:** Kreuzschmerz-spezifische Schulung wahrgenommen
+
+Seite 30 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Kreuzschmerz-spezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -1086,7 +1168,10 @@ Der Coderahmen sieht wie folgt aus:
 
 **XML-Code 35:** content (Sonstige Behandlung)
 
+Seite 31 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßig körperlich aktiv"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Stärkster Schmerz&quot;)"/> <sciphox:Ergebniswert V=". . ."/> U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = &quot;Keine&quot; bis 10 = &quot;Maximale Beeinträchtigung&quot;)"/> <sciphox:Ergebniswert V="=". . ."/>" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Beendigung der DMP-Teilnahme vereinbart"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
+
 
 ---
 
@@ -1130,8 +1215,11 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN=" Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation "/> <sciphox:Ergebnistext V="Mindestens ein Ziel erreicht"/> *V*-Attribut die Feldbezeichnung
+Seite 32 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
+*V*-Attribut die Feldbezeichnung
+
+<sciphox:Parameter DN=" Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation "/> <sciphox:Ergebnistext V="Mindestens ein Ziel erreicht"/>
 
 ---
 
@@ -1146,6 +1234,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 
 **Tabelle 16:** Werte bei Ergebnistext (Beendigung der DMP-Teilnahme vereinbart)
+
+Seite 33 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
 <sciphox:Parameter DN=" Beendigung der DMP-Teilnahme vereinbart "/> <sciphox:Ergebnistext V="Ja"/>
 
@@ -1179,8 +1269,9 @@ Als Beispiel sei hier folgender Code angegeben:
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Information Systems in Physician Offices and Hospitals using XML 
+Seite 34 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
+Information Systems in Physician Offices and Hospitals using XML
 
 ---
 
@@ -1201,4 +1292,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Chronischer Rückenschmerz Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 35 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
+
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Chronischer Rückenschmerz Volldatensatz / a-Datensatz Schnittstellenbeschreibung 

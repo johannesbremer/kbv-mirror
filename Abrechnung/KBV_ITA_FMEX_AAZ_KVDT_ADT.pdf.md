@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_FMEX_AAZ_KVDT_ADT]
 
+Seite 1 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / 15. Mai 2024
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
 
 
@@ -44,7 +46,10 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht]
+Seite 2 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
+
+Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] 
+
 
 ---
 
@@ -78,8 +83,11 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
-Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einlesen von Versichertenkarten? Kontakt (APK) Patient-Kontakt (APK) 1.1
+Seite 3 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
+Antragssteller: 1.1
+
+Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einlesen von Versichertenkarten? Kontakt (APK) Patient-Kontakt (APK)
 
 ---
 
@@ -114,7 +122,10 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 | ☐ | Die Bedruckung des Personalienfeldes von vertragsärztlichen Formularen wird unterstützt. |
 | ☐ | Die Bedruckung des Personalienfeldes von vertragsärztlichen Formularen wird nicht unterstützt. |
 
-(Ambulante Behandlung) (Überweisung) (Belegärztliche Behandlung) (Notfalldienst)
+Antragssteller:
+
+(Ambulante Behandlung) (Überweisung) (Belegärztliche Behandlung) (Notfalldienst) Seite 4 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
+
 
 ---
 
@@ -145,7 +156,12 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden] unterstützt das Einle
 | ☐ | Auf Grundlage der aktuell gültigen Datensatzbeschreibung KVDT ist das ADT-Datenpaket mit den |
 | ☐ | Alle Pflichtfunktionen ADT des Anforderungskataloges KVDT sind realisiert. |
 
-oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln
+Antragssteller:
+
+Seite 5 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
+
+oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln 
+
 
 ---
 
@@ -178,8 +194,11 @@ Folgende optionale ADT Funktionen sind gemäß Anforderungskatalog KVDT realisie
 |  |  |
 |  |  |
 
-Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert.
+Seite 6 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
+Antragssteller:
+
+Überweisungsscheins (Muster 6)“ des Anforderungskataloges KVDT sind realisiert.
 
 ---
 
@@ -196,6 +215,10 @@ Folgende Felder werden mit Defaultwerten bzw. Ersatzwerten vorbelegt:
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+
+Antragssteller:
+
+Seite 7 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
 ERSATZWERT 
 
@@ -221,10 +244,18 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **Telefonnummer** |  |
 | **E-Mail-Adresse** |  |
 
+________________
+
 Diese Information ist verpflichtend anzugeben
+
+Seite 8 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
+
+Antragssteller:
 
 
 ---
+
+Antragssteller:
 
 # 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -249,9 +280,11 @@ Diese Information ist verpflichtend anzugeben
 - (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
 - (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 - (3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
+- (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 
-Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
+Seite 9 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
+Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergebnisprüfung
 
 ---
 
@@ -263,6 +296,10 @@ Rezertifizierung zertifizierung einer neuen Satzart oder Scheinuntergruppe Ergeb
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+
+Antragssteller:
+
+Seite 10 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
 ---
 
@@ -279,3 +316,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Antragssteller:
+
+Seite 11 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024

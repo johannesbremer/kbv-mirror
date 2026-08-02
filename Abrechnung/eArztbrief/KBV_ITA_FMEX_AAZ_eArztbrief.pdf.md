@@ -103,6 +103,8 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges   [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief] für die Übermittlung von elektronischen Briefen  erfüllt sind.
 
+Seite 3 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / Version: 3.2 / 15. Mai 2024
+
 
 ---
 
@@ -137,6 +139,8 @@ Ansprechpartner(in): Produktmanagement
 ________________
 
 Diese Information ist verpflichtend anzugeben
+
+Seite 4 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / Version: 3.2 / 15. Mai 2024
 
 Antragssteller:
 
@@ -185,6 +189,8 @@ Ergebnisprüfung 275,24   Rezertifizierung
 
 (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+Seite 5 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / Version: 3.2 / 15. Mai 2024
+
 ---
 
 Antragssteller:
@@ -201,6 +207,8 @@ Antragssteller:
 
 (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+Seite 6 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / Version: 3.2 / 15. Mai 2024
+
 ---
 
 Antragssteller:
@@ -214,6 +222,8 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 7 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / Version: 3.2 / 15. Mai 2024
 
 Unterschrift
 

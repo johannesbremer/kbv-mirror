@@ -7,10 +7,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Hautkrebs-Screening (eHKS) 2.33 Datum: 12.08.2019 Kennzeichnung: Öffentlich Status: In Kraft 
+Hautkrebs-Screening (eHKS) 2.33 Datum: 12.08.2019 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2019
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 ### DOKUMENTENHISTORIE
 
@@ -24,10 +26,14 @@ Hautkrebs-Screening (eHKS) 2.33 Datum: 12.08.2019 Kennzeichnung: Öffentlich Sta
 | 2.00 | 16.10.2013 | KBV | Verwendung des neuen eDoku- Änderung der Schemaversion | Anpassung des eDoku- |  |
 | 1.08 | 02.08.2012 | KBV | Red. Änderungen | entfällt | **Alle** |
 
-und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnittstellenbeschreibung und dem Schnittstellenpaket neuen eDokuHeader korrigiert Headers: KBV_ITA_VGEX_Schnittstelle_eHeader nenstandsgesetz (PstG) Headers an eGK 5.2.0 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnittstellenbeschreibung und dem Schnittstellenpaket neuen eDokuHeader korrigiert Headers: KBV_ITA_VGEX_Schnittstelle_eHeader nenstandsgesetz (PstG) Headers an eGK 5.2.0 Seite 2 44 von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 ### INHALTSVERZEICHNIS
 
@@ -104,6 +110,10 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 6.1.5 Abschnitt „Gesundheitsuntersuchung“ ................................................................................ 26
 
 *6.1.5.1* *Gleichzeitig Gesundheitsuntersuchung durchgeführt ........................................... 26*
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 3 44 von
 
 
 ---
@@ -192,12 +202,25 @@ und Geburtsdatum Parameter „Geschlecht des Patienten“ 18.01.2018 der Schnitt
 
 **43**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 4 44 von
+
 
 ---
 
 **9** **REFERENZIERTE DOKUMENTE**
 
 **44**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 5 44 von
+
 
 ---
 
@@ -215,7 +238,16 @@ Abbildung 5 - Grundstruktur body ...............................................
 
 Abbildung 6 - Grundstruktur section (HKS-D bzw. HKS-D-EV) .............................................. 27
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 6 44 von
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 #### XML- CODE- VERZEICHNIS
 
@@ -287,8 +319,14 @@ XML-Code 33 – anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleit
 
 XML-Code 34 – derzeit keine weitere Therapie/Diagnositk ................................................... 36
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 7 44 von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 XML-Code 35 – Histopathologie ............................................................................................ 37
 
@@ -318,7 +356,14 @@ XML-Code 47 – Aktinische Keratose ............................................
 
 XML-Code 48 – Andere hier nicht relevante Hautveränderung ............................................. 42
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 8 44 von
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 #### TABELLEN- VERZEICHNIS
 
@@ -332,6 +377,8 @@ Tabelle 4 – Werte bei Ergebnistext (Tumordicke (Breslow))
 
 Tabelle 5 – Werte bei Ergebnistext (Grading)
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
 ......................................................................... 12
 
 ....................................................... 12
@@ -341,6 +388,8 @@ Tabelle 5 – Werte bei Ergebnistext (Grading)
 .................................................. 39
 
 ........................................................................ 41
+
+Seite 9 44 von
 
 
 ---
@@ -357,7 +406,16 @@ Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlini
 
 Lediglich die genannten Plausibilitätsprüfungen sind Prüfungen des KBV-Prüfmoduls XPM.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 10 44von
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 # 2 Dateinamen
 
@@ -391,6 +449,11 @@ Beispiele:
 -  123456789_123_20091112.HKSNDEV
 -  123456789_123_20091112.HKSDEV
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 11 44von
+
+
 ---
 
 # 3 Semantik der verwendeten Diagramm-Symbole
@@ -420,10 +483,16 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann.  drückt z.B. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann.  drückt z.B. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Seite 12 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 ## 1.3 Sonstige Symbole
 
@@ -438,10 +507,14 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3 – Beschreibung sonstiger Symbole**
 
-Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. Seite 13 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 # 4 Dokumentenstruktur
 
@@ -475,11 +548,15 @@ Das Element *clinical_document_header* wird allgemein für alle medizinischen Do
 
 Die Struktur des Elements *body* wird in Kapitel 6 bzw.
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
 /Kleinschreibung zu b
 
 *levelone*, welches sich  und *body* zusammensetzt, wie es 5 beschrieben.
 
 7 näher erläutert.
+
+Seite 14 44von
 
 
 ---
@@ -524,8 +601,16 @@ Die Struktur des Elements *body* wird in Kapitel 6 bzw.
 
 *o patient.GesetzlicheKrankenversicherung.VersicherungsschutzEnde*
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 15 44von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 *o patient.GesetzlicheKrankenversicherung.Einlesedatum*
 
@@ -537,6 +622,11 @@ werden nicht verwendet.
 -  Das Element *service_tmr* enthält als Wert das „Untersuchungsdatum“.
 -  Das Element *origination_dttm* enthält als Wert das „Erstellungsdatum der Datei“.
 -  Das Element *administrative_gender_cd* (patient) kann zusätzlich den Wert X=Unbestimmt  enthalten. Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kode-systems AdministrativeGender (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen  Version des Kodesystems definiert wird. Die Abbildung der Geschlechtsausprägungen auf  die Werte des V-Attributs ist gemäß Pflichtfunktion P1 -60 des Anforderungskatalogs eHKS  [KBV_ITA_VGEX_Anforderungskatalog_eHKS] durchzuführen.
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 16 44von
+
 
 ---
 
@@ -572,8 +662,16 @@ Das *section*-Element setzt sich aus zwei bis drei Elementen *paragraph* zusamme
 
 Die Sektion kann die Abschnitte „ohne Name“, „Verdachtsdiagnose“ und „Gesundheitsunter-suchung“ enthalten, die jeweils in einem *paragraph*-Element untergebracht sind.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 17 44von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 ### 6.1.1 caption
 
@@ -643,8 +741,14 @@ Für die Darstellung der Hautkrebs--Screening Daten in XML, wird ausschließlich
 
 *observation* verwendet. Das Element *sciphox-ssu* hat drei Attribute, die mit den festen Werten  vorbelegt sind: type =“observation“, country=“de“, version=“v1“. Damit wird gekennzeichnet,  dass die Sciphox-ssu *observation* in Version *v1* verwendet wird. Der Coderahmen für das  Element *content* mit Sciphox-SSU *observation* sieht demnach folgendermaßen aus:
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 18 44von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 \| ** <content>      <sciphox:sciphox-ssu type="observation" country="de" version="v1">              . . . |
 \|---|
@@ -664,15 +768,20 @@ Der XML-Code zum Element
 \| <sciphox:sciphox-ssu type="observation" country="de" version="v1">        <>               <>              . . .               </sciphox:Beobachtung>                <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente-->              . . .               </sciphox:Beobachtung>        </sciphox:Beobachtungen>  </sciphox:sciphox-ssu> |
 \|---|
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
 *sciphox-ssu* sieht folgendermaßen aus:
 
 das
 
 setzt sich aus  *sci-* zusammen. Neben  *sci-*
 
-local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> </content>
+local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> </content>Seite 19 44von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 **XML-Code 5 – Beobachtungen**
 
@@ -707,7 +816,10 @@ Das Element *Ergebniswert* enthält nur das *V-* und *U*-Attribut. Einzelne Ausp
 
 **XML-Code 8 – Ergebniswert**
 
-<sciphox:Parameter DN=". . ."/>
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN=". . ."/> Seite 20 44von
+
 
 ---
 
@@ -772,7 +884,12 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <>     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Alter"/> <sciphox:Ergebniswert V="37" U="Jahre"/>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="Alter"/> <sciphox:Ergebniswert V="37" U="Jahre"/> Seite 21 44von
+
 
 ---
 
@@ -864,8 +981,16 @@ sciphox:Beobachtung
 
 </content>
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 22 44von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 </paragraph>
 
@@ -908,6 +1033,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 14 – Basalzellkarzinom**
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
 *sciphox:Ergebnistext* im
 
 *sciphox:Ergebnistext* im
@@ -918,10 +1045,14 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut entweder „Ja“
 
-<sciphox:Parameter DN ="VerdachtsdiagnoseND"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Malignes Melanom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Basalzellkarzinom"/> <sciphox:Ergebnistext V="Nein"/> *V*-Attribut entweder „Ja“
+*V*-Attribut entweder „Ja“
+
+<sciphox:Parameter DN ="VerdachtsdiagnoseND"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Malignes Melanom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN ="Basalzellkarzinom"/> <sciphox:Ergebnistext V="Nein"/> Seite 23 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 #### 6.1.4.4 Spinozelluläres Karzinom
 
@@ -974,6 +1105,8 @@ Bei diesem Parameter enthält das Element  oder „Nein“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
 *sciphox:Ergebnistext* im
 
 *sciphox:Ergebnistext* im
@@ -986,7 +1119,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 *V*-Attribut entweder „Ja“
 
-<sciphox:Parameter DN ="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="anderer Hautkrebs"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="sonstiger dermatologisch abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/> *V*-Attribut entweder „Ja“
+*V*-Attribut entweder „Ja“
+
+<sciphox:Parameter DN ="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="anderer Hautkrebs"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="sonstiger dermatologisch abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/> Seite 24 44von
 
 
 ---
@@ -996,7 +1131,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### XML-Code 18 – Screening-Teilnehmer wird an einen Dermatologen überwiesen
 
-<sciphox:Parameter DN- ="Screening Teilnehmer wird an einen Dermatologen überwiesen"/> <sciphox:Ergebnistext V="Nein"/> 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN- ="Screening Teilnehmer wird an einen Dermatologen überwiesen"/> <sciphox:Ergebnistext V="Nein"/> Seite 25 44von
 
 
 ---
@@ -1056,10 +1195,16 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 20 – Gleichzeitig Gesundheitsuntersuchung durchgeführt**
 
-sciphox:Beobachtung <sciphox:Parameter DN ="Gleichzeitig Gesundheitsuntersuchung durchgeführt“/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+sciphox:Beobachtung <sciphox:Parameter DN ="Gleichzeitig Gesundheitsuntersuchung durchgeführt“/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>Seite 26 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 # 7 Body – Dokumentation Hautkrebs-Screening – Dermato- loge
 
@@ -1097,8 +1242,14 @@ dargestellt.
 
 Die Sektion kann die Abschnitte „ohne Name“, „Überweisung im Rahmen des Hautkrebs-Screenings“, „Angabe der Verdachtsdiagnose des überweisenden Arztes“, „Verdachtsdiagno-se des Dermatologen“, „Biopsie/Exzision“ und „Histopathologie“ enthalten, die jeweils in einem  *paragraph* Element untergebracht sind.
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 27 44von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 ### 7.1.1 caption
 
@@ -1208,6 +1359,10 @@ caption_cd DN="Histopathologie"/>
 
 **XML-Code 22 – section (HKS-D / HKS-D-EV)**
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 28 44von
+
 
 ---
 
@@ -1276,7 +1431,13 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <> |
 \|---|
 
-sciphox:Beobachtung <sciphox:Parameter DN="Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>**XML-Code 24 – Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings**
+**XML-Code 24 – Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+sciphox:Beobachtung <sciphox:Parameter DN="Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>Seite 29 44von
 
 
 ---
@@ -1354,7 +1515,13 @@ sciphox:Beobachtung
 
 . . .
 
-<sciphox:Parameter DN="Überweisender Arzt hat HKS durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>
+</sciphox:Beobachtung>
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="Überweisender Arzt hat HKS durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> Seite 30 44von
 
 
 ---
@@ -1402,7 +1569,13 @@ Struktur siehe Kapitel 6.1.4.4
 
 #### 7.1.5.5 anderer Hautkrebs
 
-<sciphox:Parameter DN="Angabe über die Verdachtsdiagnose liegt vor"/> <sciphox:Ergebnistext V="Nein"/> Sofern der Wert „Ja“ zu Parameter „Angabe über die Verdachtsdiagnose liegt vor“ angegeben  wird, muss dieser Beobachtungsblock vorhanden sein. Sofern der Wert „Nein“ zu Parameter
+Sofern der Wert „Ja“ zu Parameter „Angabe über die Verdachtsdiagnose liegt vor“ angegeben  wird, muss dieser Beobachtungsblock vorhanden sein. Sofern der Wert „Nein“ zu Parameter
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="Angabe über die Verdachtsdiagnose liegt vor"/> <sciphox:Ergebnistext V="Nein"/> Seite 31 44von
 
 
 ---
@@ -1410,6 +1583,13 @@ Struktur siehe Kapitel 6.1.4.4
 „Angabe über die Verdachtsdiagnose liegt vor“ angegeben wird, entfällt dieser Beobach-tungsblock komplett.
 
 Struktur siehe Kapitel 6.1.4.5
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 32 44von
+
 
 ---
 
@@ -1501,6 +1681,12 @@ Struktur siehe Kapitel 6.1.4.2 .
 
 Struktur siehe Kapitel 6.1.4.3
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 33 44von
+
 
 ---
 
@@ -1581,7 +1767,13 @@ sciphox:Beobachtung
 
 </sciphox:sciphox-ssu>
 
-<sciphox:Parameter DN="sonstiger mit Biopsie abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/> </local_markup>
+</local_markup>
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="sonstiger mit Biopsie abklärungsbedürftiger Befund"/> <sciphox:Ergebnistext V="Nein"/> Seite 34 44von
 
 
 ---
@@ -1629,7 +1821,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“. Wird keine Angabe getätigt, entfällt der gesamte „Beobachtung“-Block.
 
-<sciphox:Parameter DN="Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Anzahl der entnommenen Biopsien"/> <sciphox:Ergebniswert V="10" U=“Anzahl“/> <sciphox:Parameter DN="anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet"/> <sciphox:Ergebnistext V="Nein"/> Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Anzahl der entnommenen Biopsien"/> <sciphox:Ergebniswert V="10" U=“Anzahl“/> <sciphox:Parameter DN="anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet"/> <sciphox:Ergebnistext V="Nein"/> Seite 35 44von
 
 
 ---
@@ -1707,10 +1905,18 @@ sciphox:Beobachtung
 
 sciphox:Beobachtung
 
-<sciphox:Parameter DN="derzeit keine weitere Therapie/Diagnostik"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="junktionaler, compound, dermaler atypischer Nävuszellnävus"/>
+<sciphox:Parameter DN="junktionaler, compound, dermaler atypischer Nävuszellnävus"/>
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="derzeit keine weitere Therapie/Diagnostik"/> <sciphox:Ergebnistext V="Nein"/> Seite 36 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 . . .
 
@@ -1775,7 +1981,11 @@ Bei diesem Parameter enthält das Element  lanoma in situ“ oder „Invasives M
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<sciphox:Parameter DN="Malignes Melanom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="Klassifikation"/> <sciphox:Parameter DN="Tumordicke (Breslow)"/> </sciphox:Beobachtungen> *sciphox:Ergebnistext* im *V*-Attribut entweder „Me-
+*sciphox:Ergebnistext* im *V*-Attribut entweder „Me-
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="Malignes Melanom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="Klassifikation"/> <sciphox:Parameter DN="Tumordicke (Breslow)"/> </sciphox:Beobachtungen> Seite 37 44von
 
 
 ---
@@ -1798,10 +2008,16 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 38 – Tumordicke (Breslow)**
 
-<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Melanoma in situ"/> <sciphox:Parameter DN="Tumordicke (Breslow)"/> <sciphox:Ergebnistext V="1,01-2 mm"/> 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Melanoma in situ"/> <sciphox:Parameter DN="Tumordicke (Breslow)"/> <sciphox:Ergebnistext V="1,01-2 mm"/> Seite 38 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 \| Wert bei Ergebnistext |
 \|---|
@@ -1840,10 +2056,16 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 40 – horizontaler Tumordurchmesser (klinisch)**
 
-<sciphox:Parameter DN="Basalzellkarzinom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> <sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> </sciphox:Beobachtungen> <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> im *V*-Attribut den „horizonta-*U*-Attribut
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+im *V*-Attribut den „horizonta-*U*-Attribut
+
+<sciphox:Parameter DN="Basalzellkarzinom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> <sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> </sciphox:Beobachtungen> <sciphox:Parameter DN="horizontaler Tumordurchmesser (klinisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> Seite 39 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 ##### 7.1.8.2.2 vertikaler Tumordurchmesser (histologisch)
 
@@ -1883,6 +2105,8 @@ Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* zinoma in situ�
 
 Als Beispiel sei hier folgender Code angegeben:
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
 im *V*-Attribut den „vertikalen  *U*-Attribut den
 
 im *V*-Attribut entweder „Ja“
@@ -1891,7 +2115,9 @@ angegeben
 
 *sciphox:Beobachtung* enthält  *sciphox:Ergebniswert*. Für die
 
-<sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> <sciphox:Parameter DN="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="Klassifikation"/> <sciphox:Parameter DN="Grading“/> </sciphox:Beobachtungen> im *V*-Attribut entweder „Kar-
+im *V*-Attribut entweder „Kar-
+
+<sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> <sciphox:Parameter DN="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="Klassifikation"/> <sciphox:Parameter DN="Grading“/> </sciphox:Beobachtungen> Seite 40 44von
 
 
 ---
@@ -1937,7 +2163,13 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <>     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Karzinoma in situ"/> <sciphox:Parameter DN="Grading"/> <sciphox:Ergebnistext V="Gx"/> <sciphox:Parameter DN="atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> **XML-Code 45 – atypischer Nävuszellnävus**
+**XML-Code 45 – atypischer Nävuszellnävus**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN"/> ="Klassifikation <sciphox:Ergebnistext V="Karzinoma in situ"/> <sciphox:Parameter DN="Grading"/> <sciphox:Ergebnistext V="Gx"/> <sciphox:Parameter DN="atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> Seite 41 44von
 
 
 ---
@@ -1975,10 +2207,16 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 48 – Andere hier nicht relevante Hautveränderung**
 
-<sciphox:Parameter DN="junktionaler, compound, dermaler atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Aktinische Keratose"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Andere hier nicht relevante Hautveränderung"/> <sciphox:Ergebnistext V="Nein"/> 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
+
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+<sciphox:Parameter DN="junktionaler, compound, dermaler atypischer Nävuszellnävus"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Aktinische Keratose"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Andere hier nicht relevante Hautveränderung"/> <sciphox:Ergebnistext V="Nein"/> Seite 42 44von
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 **8 Glossar**
 
@@ -1993,7 +2231,14 @@ Als Beispiel sei hier folgender Code angegeben:
 | String | Kette aus alphanumerischen Zeichen |
 | V | V-Attribut (value) |
 
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+Seite 43 44von
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
 # 9 Referenzierte Dokumente
 
@@ -2006,4 +2251,6 @@ Als Beispiel sei hier folgender Code angegeben:
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Header für elektronische Dokumentation Vollda- |
 | [KBV_ITA_VGEX_Anforderungskatalog_eHKS] | Anforderungskatalog eHKS |
 
-chen Versorgung Hautkrebs- Screening (eHKS) Schnittstellenbeschreibung mentation HautkrebsScreening tensatz / a-Datensatz Schnittstellenbeschreibung
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+chen Versorgung Hautkrebs- Screening (eHKS) Schnittstellenbeschreibung mentation HautkrebsScreening tensatz / a-Datensatz Schnittstellenbeschreibung Seite 44 44von

@@ -9,6 +9,8 @@
 
 ---
 
+### L I Z E N Z B E S T I M M U N G E N
+
 | Version | Datum | Autor | Änderung | Begründung  kv.digital  Umfirmung KV Telematik GmbH | Seite |
 |---|---|---|---|---|---|
 | 1.21L | 10.02.2020 | kv.digital | Umfirmung KV Telematik GmbH  Anpassung URL |  | Alle    68 |
@@ -18,9 +20,14 @@
 | 1.20  1.10 | 18.11.2010 |  | Generische Ausrichtung der  Berücksichtigung weiterer An- | gesteigerte Wiederverwendbar-  Kommentierungsphase |  |
 | 1.00 | 25.03.2010 |  | neues Dokument |  |  |
 
-in kv.digital GmbH Schlüsseltabellen der KBV ler_arzt_liste aufgenommen Strukturen forderungen keit
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+in kv.digital GmbH Schlüsseltabellen der KBV ler_arzt_liste aufgenommen Strukturen forderungen keit Seite 2 von 68
+
 
 ---
+
+#### L I Z E N Z B E S T I M M U N G E N
 
 **Herausgeber:**
 
@@ -47,6 +54,11 @@ kv.digital GmbH, Herbert-Lewin-Platz 2, 10623 Berlin („Lizenzgeberin“)
 - 4.1. Wegen etwaiger Mängel kann die Lizenzgeberin nur in Anspruch genommen werden,  wenn sie den Mangel arglistig verschwiegen hat.
 - 4.2. Die Lizenzgeberin hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten (§ 521 BGB).
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 2 von 68
+
+
 ---
 
 5. Freistellung
@@ -56,8 +68,16 @@ kv.digital GmbH, Herbert-Lewin-Platz 2, 10623 Berlin („Lizenzgeberin“)
 
 Auf diesen Vertrag findet deutsches Recht unter Ausschluss des UN-Kaufrechts Anwendung.  Erfüllungsort ist Berlin. Bei Streitigkeiten aus oder in Verbindung mit diesem Vertrag ist der  Gerichtsstand am Landgericht Berlin, wenn der Lizenznehmer Kaufmann, eine juristische Person  des öffentlichen Rechts oder öffentlich rechtlichen Sondervermögen ist. Jede Vertragspartei kann  jedoch auch an ihrem allgemeinen Gerichtsstand in Anspruch genommen werden. Diese  Gerichtsstandsvereinbarung gilt nicht für Rechtsstreitigkeiten die nichtvermögensrechtliche  Ansprüche betreffen, die den Amtsgerichten ohne Rücksicht auf den Wert des Streitgegenstandes  zugewiesen sind oder wenn ein ausschließlicher Gerichtsstand begründet ist.
 
+#### L I Z E N Z B E S T I M M U N G E N
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 3 von 68
+
 
 ---
+
+**I N H A L T S V E R Z E I C H N I S**
 
 - **1 EINLEITUNG**
 - **10**
@@ -94,6 +114,10 @@ Auf diesen Vertrag findet deutsches Recht unter Ausschluss des UN-Kaufrechts Anw
 - *4.8.1.1 id (Personenidentifikator) ...................................................................................... 24*
 - *4.8.1.2 person_name ........................................................................................................ 24*
 - 4.8.2 addr (Adresse) ..................................................................................................................... 26
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 4 von 68
 
 
 ---
@@ -135,6 +159,12 @@ Auf diesen Vertrag findet deutsches Recht unter Ausschluss des UN-Kaufrechts Anw
 - 5.9.1 Beispiel für eine generische Bestätigung mit hoher Komplexität ..........................................62
 - **5.10 xslt_hash .......................................................................................................................................64**
 
+**I N H A L T S V E R Z E I C H N I S**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 5 von 68
+
 
 ---
 
@@ -144,6 +174,8 @@ Auf diesen Vertrag findet deutsches Recht unter Ausschluss des UN-Kaufrechts Anw
 | Schnittstellenbeschreibung | | Elektronische Sammelerklä | ru ng (e SE) |
 
 - **65**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE) Seite 6 von 68
 
 
 ---
@@ -200,7 +232,11 @@ Abbildung 34: grund ............................................................
 
 Abbildung 35: provider ..................................................................................................... 40
 
-/ehd (root-Element) ................................................................................... Aus ehd-header abgeleitetes ega-header ................................................. 14 id ............................................................................................................... 15 version_nbr ............................................................................................... 15 document_type_cd .................................................................................... 16 service_tmr ............................................................................................... 16 origination_dttm ........................................................................................ 17 intended_recipient ..................................................................................... 17 organization .............................................................................................. 18 organization.nm ........................................................................................ 18 originator ................................................................................................... 19 organization .............................................................................................. 19 id ............................................................................................................... 20 Abbildung 36: function_cd ............................................................................................... 40
+Abbildung 36: function_cd ............................................................................................... 40
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+/ehd (root-Element) ................................................................................... Aus ehd-header abgeleitetes ega-header ................................................. 14 id ............................................................................................................... 15 version_nbr ............................................................................................... 15 document_type_cd .................................................................................... 16 service_tmr ............................................................................................... 16 origination_dttm ........................................................................................ 17 intended_recipient ..................................................................................... 17 organization .............................................................................................. 18 organization.nm ........................................................................................ 18 originator ................................................................................................... 19 organization .............................................................................................. 19 id ............................................................................................................... 20 Seite 7 von 68
 
 
 ---
@@ -243,6 +279,10 @@ Abbildung 54: ankreuzfeld_liste ................................................
 
 Abbildung 55: xslt_hash ................................................................................................... 64
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 8 von 68
+
 
 ---
 
@@ -255,7 +295,10 @@ Abbildung 55: xslt_hash ........................................................
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-Beschreibung der Kardinalitäten eines XML-Elements 12 Beschreibung der Strukturelement-Symbole 12 Beschreibung sonstiger Symbole 13 Erläuterungen zu <telecom> 22 Ausprägungen von <grund> 39 Ausprägungen von <function_cd> 41
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Beschreibung der Kardinalitäten eines XML-Elements 12 Beschreibung der Strukturelement-Symbole 12 Beschreibung sonstiger Symbole 13 Erläuterungen zu <telecom> 22 Ausprägungen von <grund> 39 Ausprägungen von <function_cd> 41Seite 9 von 68
+
 
 ---
 
@@ -296,7 +339,11 @@ XML-Code 35: provider (lokal) ..................................................
 
 XML-Code 36: function_cd ............................................................................................... 41
 
-XML-Code 1: /ehd id version_nbr version_nbr service_tmr origination_dttm 17 intended_recipient 17 organization organization.nm originator organization id 20 organization.nm 20 addr telecom provider 23 XML-Code 17: person 24 person 24 person_name 25 XML-Code 20: nm 26 local_header mit einem beliebigen Kindelement 26 organization (Betriebsstätte) 27XML-Code 37: person (lokaler Typ) .................................................................................. 42
+XML-Code 37: person (lokaler Typ) .................................................................................. 42
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+XML-Code 1: /ehd id version_nbr version_nbr service_tmr origination_dttm 17 intended_recipient 17 organization organization.nm originator organization id 20 organization.nm 20 addr telecom provider 23 XML-Code 17: person 24 person 24 person_name 25 XML-Code 20: nm 26 local_header mit einem beliebigen Kindelement 26 organization (Betriebsstätte) 27Seite 10 von 68
 
 
 ---
@@ -332,6 +379,10 @@ XML-Code 51: ankreuzfeld_liste .................................................
 XML-Code 52: Beispiel für eine generische Bestätigung mit Zusatzfeldern ....................... 64
 
 XML-Code 53: xslt_hash ................................................................................................... 64
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 11 von 68
 
 
 ---
@@ -371,6 +422,10 @@ Dateinamenskonvention nach ehd-Richtlinie:
 **ese_vv.vv_sender_[re+empfänger]_tf+val_nr+val_du+val.xml**
 
 _ ............. Trennungszeichen zwischen den Namenselementen
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 12 von 68
 
 
 ---
@@ -421,7 +476,10 @@ Es existieren verschiedene Kardinalitäten:
 |---|---|---|
 | 0..1 |  | **Optionale Elemente ** Ein optionales Element wird als Rechteck mit gestri- |
 
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen.
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Seite 13 von 68
+
 
 ---
 
@@ -458,7 +516,10 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | **Referenzelement ** Der Pfeil links unten im Element zeigt an, dass das Element an ande- |
 |  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen |
 
-Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis (un- bounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence> beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis (un- bounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kin- delementen genau eins ausgewählt werden muss. <xs:sequence> beschreibt, dass die Kindelemente in fest- gelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp. Seite 14 von 68
+
 
 ---
 
@@ -516,7 +577,11 @@ Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für di
 
 Hier werden die Bewegungsdaten abgebildet
 
-dar, welches mehrere Elemente zusammenfasst. Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„***urn:ehd/001***
+Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„***urn:ehd/001***
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+dar, welches mehrere Elemente zusammenfasst. Seite 15 von 68
 
 
 ---
@@ -536,6 +601,10 @@ ID zur eindeutigen Kennzeichnung des Dokuments. Bspw. durch Kombination  einer f
 ***<version_nbr>*** Beinhaltet die jeweilige Lieferungsnummer; relevant bei Korrekturlieferung o.ä.
 
 ***<document_type_cd>*** Definiert die jeweilige Dokumentart (fix: eSE).
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 16 von 68
 
 
 ---
@@ -592,6 +661,10 @@ Der XML-Code für das Element <version_nbr> hat folgenden Aufbau:
 
 V Lieferungsnummer
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 17 von 68
+
 
 ---
 
@@ -639,7 +712,11 @@ Die Intervalle werden durch zwei Punkte voneinander getrennt
 
 Folgende Zeitraumangaben sind erlaubt:
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
 mit allen Dokumenttypen-Definitionen -MM-DD..YYYY-MM-DD“ ange
+
+Seite 18 von 68
 
 
 ---
@@ -690,6 +767,10 @@ Der XML-Code für das Element <intended_recipient> hat folgenden Aufbau:
 
 **XML-Code 7:** intended_recipient
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 19 von 68
+
 
 ---
 
@@ -735,6 +816,10 @@ In einigen Kassenärztlichen Vereinigungen existieren unterschiedliche Varianten
 
 In Kassenärztlichen Vereinigungen, in denen keine Unterscheidung für die betreffenden Ziel- gruppen notwendig ist, kann diese Struktur entfallen.
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 20 von 68
+
 
 ---
 
@@ -775,6 +860,10 @@ Der XML-Code für das Element <organization> hat folgenden Aufbau:
 </ehd:organization>
 
 **XML-Code 11:** organization
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 21 von 68
 
 
 ---
@@ -829,6 +918,10 @@ V Name der Organisationseinheit (Name der KV)
 
 1  [Siehe](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 22 von 68
+
 
 ---
 
@@ -870,6 +963,8 @@ Der XML-Code für das Element <addr> hat folgenden Aufbau:
 
 **<ADL>**
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
 **addr**
 
 addr
@@ -889,6 +984,8 @@ Bundesland
 Staat
 
 zusätzliche Adressangabe
+
+Seite 23 von 68
 
 
 ---
@@ -927,6 +1024,10 @@ Die Präfixe sind gemäß folgender Tabelle definiert:
 
 Das Element <provider> kennzeichnet den Lieferanten/Sender der Datei. Im speziellen An- wendungsfall ist dies die Arztpraxis (provider), deren Bestandteile sich in Betriebsstätte(n)  (organization) und die jeweils beschäftigten Ärzte (person) operationalisieren lassen.
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 24 von 68
+
 
 ---
 
@@ -963,6 +1064,10 @@ Kennzeichnung einer Person/Arzt
 Unter dem Element <person> werden Informationen zur Identifikation einer Person erfaßt. Im  speziellen Anwendungsfall wird die jeweilige Person in der Funktion „Arzt“ identifiziert.
 
 **Abbildung 18: person**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 25 von 68
 
 
 ---
@@ -1025,6 +1130,10 @@ Der Name einer Person wird unter dem Element <person_name> nach folgender Strukt
 
 2  Bei nichtärztlichen Leitern eines MVZ bzw. Nicht-Kassenärzten ohne LANR sind die im Rahmen des  Vertragsarztrechtsänderungsgesetzes (VÄndG) definierten Dummy-Werte zu verwenden
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 26 von 68
+
 
 ---
 
@@ -1065,6 +1174,10 @@ Der XML-Code für das Element <nm> hat folgenden Aufbau:
 **<ehd:GIV V="Hans"/>**
 
 **<ehd:FAM V="Test"/>**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 27 von 68
 
 
 ---
@@ -1121,6 +1234,10 @@ Unter dem Element <local_header> können individuell Elemente eingehängt werden
 
 **XML-Code 21:** local_header mit einem beliebigen Kindelement
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 28 von 68
+
 
 ---
 
@@ -1169,6 +1286,10 @@ Der XML-Code für das Element <organization> hat folgenden Aufbau:
 EX
 
 Identifikator der Betriebsstätte, mit (N)BSNR
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 29 von 68
 
 
 ---
@@ -1223,6 +1344,10 @@ OID; Schlüsseltabelle der KBV-Schnittstellen (1.2.276.0.76.5.109)
 
 Version der Schnittstelle
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 30 von 68
+
 
 ---
 
@@ -1233,6 +1358,10 @@ Das ***<body>*** Element beinhaltet die Bewegungsdaten der Sammelerklärung. Mit
 Unterhalb des root-Elements sind die thematisch strukturierten Bereiche angesiedelt.
 
 **Abbildung 25: body**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 31 von 68
 
 
 ---
@@ -1333,6 +1462,10 @@ Hashwert des verwendeten SAK-Stylesheets; nur relevant bei
 
 Verwendung der XML-Signatur
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 32 von 68
+
 
 ---
 
@@ -1373,6 +1506,10 @@ Der XML-Code für das Element <fall_statistik> hat folgenden beispielhaften Aufb
 **</fall_statistik>**
 
 **XML-Code 25:** fall_statistik
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 33 von 68
 
 
 ---
@@ -1415,6 +1552,10 @@ Der XML-Code für das Element <titel> hat folgenden Aufbau:
 
 <titel V="Angabe der Vertretungszeiten"/>
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 34 von 68
+
 
 ---
 
@@ -1456,6 +1597,10 @@ Der XML-Code für das Element <text> hat folgenden Aufbau:
 
 **XML-Code 28:** text
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 35 von 68
+
 
 ---
 
@@ -1474,6 +1619,10 @@ Mittels dem Element <anzahl_kov> kann eine statistische Angabe über die Anzahl 
 ### 5.1.6 anzahl_gesamt
 
 Mittels dem Element <anzahl_gesamt> kann eine statistische Angabe über die Anzahl aller  abgerechneten Behandlungsfälle übertragen werden.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 36 von 68
 
 
 ---
@@ -1574,6 +1723,10 @@ Im nachfolgenden Code-Beispiel wird die gesamte Struktur beispielhaft dargestell
 
 **</bool_komplex>**
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 37 von 68
+
 
 ---
 
@@ -1613,6 +1766,10 @@ XML-Beispiel:
 
 **XML-Code 30: bool_komplex**
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 38 von 68
+
 
 ---
 
@@ -1641,6 +1798,10 @@ Das Element <true> ist ein weiterer Zweig des Entscheidungsbaumes, an dem weiter
 Die Struktur <komplex> erlaubt es, eine beliebige Anzahl von Komplexen zu definieren, die  wahlweise ein Datumsintervall, eine Begründung oder einen konkreten Arztbezug abbilden  können.
 
 **- komplex**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 39 von 68
 
 
 ---
@@ -1680,6 +1841,10 @@ Der XML-Code für das Element <grund>
 **<grund V="Urlaub"/>**
 
 **XML-Code 33:** grund
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 40 von 68
 
 
 ---
@@ -1728,6 +1893,10 @@ Die Syntax sei an folgendem Beispiel-Code erläutert:
 #### 5.2.1.1.3 provider (lokal)
 
 Der ehd-Provider-Typ wurde lokal eingeschränkt, um Ärzte (person) und Betriebsstätten (or- ganization) möglichst einfach abbilden zu können. Über das Element <function_cd> ist es  zusätzlich möglich, einer Person oder Organisation eine bestimmte Rolle zuzuordnen (zum  Verwendungszweck siehe function_cd).
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 41 von 68
 
 
 ---
@@ -1782,6 +1951,10 @@ Das Element <function_cd> beschreibt die Rolle der jeweiligen Person und/oder Or
 
 Folgende Attribute sind erlaubt:
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 42 von 68
+
 
 ---
 
@@ -1815,7 +1988,11 @@ Als repräsentativer XML-Code dient folgendes Beispiel:
 
 - *5.2.1.1.3.2 person (lokal)*
 
-delnden Arzt; spiegelt im aktuellen Kontext den Arzt wieder, der vertre- ten wurde (Default) Vertreter-Arzt Das Element <person> ist vom ehd-Typ soweit für die lokale Verwendung eingeschränkt wor- den, wie es für die Identifizierung einer Person als Arzt notwendig und sinnvoll ist.
+Das Element <person> ist vom ehd-Typ soweit für die lokale Verwendung eingeschränkt wor- den, wie es für die Identifizierung einer Person als Arzt notwendig und sinnvoll ist.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+delnden Arzt; spiegelt im aktuellen Kontext den Arzt wieder, der vertre- ten wurde (Default) Vertreter-Arzt Seite 43 von 68
 
 
 ---
@@ -1875,6 +2052,10 @@ Mittels Element <organization.nm> kann zu der Person eine Organisationseinheit a
 ## 5.3 schliesszeit_liste (Dokumentation der Schließzeiten)
 
 Das Element <schliesszeiten_liste> ist strukturell wie die <vertretungszeiten_liste> aufgebaut,  bildet aber einen anderen Kontext ab. Anstatt der Vertretungszeiten sind mit dieser Regel die  Schließzeiten der Praxis zu dokumentieren, weshalb unter dem <bool_komplex> wiederum  mehrere Zeiträume mit dem jeweiligen Grund der Schließung und/oder mit dem jeweiligen  Provider kombiniert werden können. Die Verwendung des Providers ist nur dann notwendig,  wenn die Schließzeiten personen- und/oder betriebsstättenbezogen dokumentiert werden  sollen. Für die Dokumentation des Elements <bool_komplex> sei auf Kapitel 5.2.1 ff. verwie- sen.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 44 von 68
 
 
 ---
@@ -1945,6 +2126,10 @@ Formularbeispiel:
 
 **</zeitraum>**
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 45 von 68
+
 
 ---
 
@@ -1973,6 +2158,10 @@ Der XML-Code für das Element <org_notdienstzeit_liste> könnte folgendermaßen 
 **</text_liste>**
 
 **<bool_komplex>**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 46 von 68
 
 
 ---
@@ -2016,6 +2205,10 @@ Das Element <assistent_liste> ist strukturell wie die <vertretungszeiten_liste> 
 <bool_komplex> sind die jeweiligen Zeiträume personenbezogen zu definieren, d.h. die An- gabe des Providers/person ist in diesem Sachzusammenhang zwingend erforderlich und  kennzeichnet den Assistenten.
 
 Die Angabe des optionalen Feldes <grund> ist in diesem Zusammenhang nicht relevant. So- fern die Assistenztätigkeit auf bestimmte Betriebstätten beschränkt ist, kann der <provider>  zusätzlich zu <person> um die Struktur <organization> ergänzt werden. Für nähere Informati- onen zur Struktur <bool_komplex> sei auf Kapitel 5.2.1 ff. verwiesen.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 47 von 68
 
 
 ---
@@ -2082,6 +2275,10 @@ Formularbeispiel:
 
 Quelle: Sammelerklärung KVWL, Stand 2010
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 48 von 68
+
 
 ---
 
@@ -2147,6 +2344,10 @@ Der XML-Code für das Element <angesteller_arzt_liste> könnte folgendermaßen a
 
 **XML-Code 41:** angestellter_arzt_liste
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 49 von 68
+
 
 ---
 
@@ -2202,6 +2403,10 @@ Der XML-Code für das Element <paxisgeminschaft_liste> könnte folgendermaßen a
 
 **XML-Code 42:** praxisgemeinschaft_liste
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 50 von 68
+
 
 ---
 
@@ -2241,6 +2446,10 @@ Der XML-Code der Struktur <bestaetigungen> ist wie folgt aufgebaut:
 
 **<avwg_erklaerung>**
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 51 von 68
+
 
 ---
 
@@ -2277,6 +2486,10 @@ Unter dem Element <abrechnung_erklaerung> bestätigt der Anwender, die Vorausset
 Der konkrete Wortlaut der Erklärung ist durch die Elemente <titel> und <text_liste> definiert. Die  Bestätigung dieses Sachverhaltes erfolgt mittels dem Element <bool_einfach>; ein Ent- scheidungsbaum, der in die Endpunkte <true> oder <false> verzweigt, um die Bestätigung oder  Ablehnung des Sachverhaltes durch den Anwender zu dokumentieren.
 
 **Abbildung 44: abrechnung_erklaerung**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 52 von 68
 
 
 ---
@@ -2327,6 +2540,10 @@ Das Element <bool_einfach> wird mehrfach innerhalb der Sammelerklärung eingeset
 
 Der Entscheidungsbaum gliedert sich in die Zweige <true> und <false>. Beide Elemente sind  jeweils Endpunkt des Entscheidungsbaumes, d.h. es sind keine weiteren Felder daran ge- knüpft.
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 53 von 68
+
 
 ---
 
@@ -2373,6 +2590,10 @@ Der XML-Code für das Element <ueberweisungsscheine> könnte wie folgt aussehen:
 </ueberweisungsscheine>
 
 **XML-Code 46:** ueberweisungsscheine
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 54 von 68
 
 
 ---
@@ -2427,6 +2648,10 @@ Der XML-Code für das Element <abrechnung_edv> könnte wie folgt aussehen:
 
 **XML-Code 47:** abrechnung_edv
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 55 von 68
+
 
 ---
 
@@ -2455,6 +2680,10 @@ Ab 2011 gilt die Onlineübertragung der Abrechnung verpflichtend. Die Angabe des
 Das Element <bool_software> ist vom Typ „bool_software_typ“ und kommt zur Anwendung,  wenn es darum geht, den Einsatz einer Software zu bestätigen und diese ggf. zu spezifizie- ren.  Die Beschreibung der Software erfolgt durch eine standardisierte Sciphox-ssu.
 
 **Abbildung 48: bool_software**
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 56 von 68
 
 
 ---
@@ -2501,6 +2730,8 @@ Aufgrund der in den KBV-Schnittstellen bereits oftmals verwendeten sciphox-ssu w
 
 ***<id>***
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
 Wechsel in den Sciphox-Namensraum; Ankündigung einer
 
 sciphox-ssu
@@ -2508,6 +2739,8 @@ sciphox-ssu
 Klammerelement für die Abbildung der Struktur Software
 
 Eindeutige Kennzeichnung einer Software mittels KBV- Prüfnummer im EX-Attribut; RT-Attribut kennzeichnet EX als  KBV-Prüfnummer
+
+Seite 57 von 68
 
 
 ---
@@ -2582,6 +2815,10 @@ Thematische Einordnung des Sachverhaltes
 
 Erläuterung des Sachverhaltes durch Kombination von Textbausteinen
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 58 von 68
+
 
 ---
 
@@ -2606,6 +2843,10 @@ Das Element <bool_labor> bildet den Entscheidungsbaum in Zusammenhang mit der Ab
 Mit dem Element <true> wird der Sachverhalt zum Allgemeinlabor bestätigt. Über das Kin- delement <provider> besteht die Möglichkeit, die Zugehörigkeit zu einer Laborgemeinschaft zu  dokumentieren, über die die allgemeinen Laborleistungen veranlasst wurden.
 
 Alternativ oder zusätzlich kann über das Kindelement <qualifikation_labor> bestätigt werden,  dass eine entsprechende Qualifikation zur Erbringung und Abrechnung von Leistungen des  Allgemeinlabors im eigenen Präsenzlabor vorliegt.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 59 von 68
 
 
 ---
@@ -2651,6 +2892,10 @@ Eindeutige Kennzeichnung der Laborgemeinschaft durch Betriebsstät- tennummer im
 Unter Element <avwg_erklaerung> bestätigt der Anwender mittels <true>, dass ausschließlich  zertifizierte Arzneimittelverordnungssoftware für Verordnungen zu Lasten der GKV eingesetzt  worden ist.
 
 Der Entscheidungsbaum beginnt mit dem bekannten Element <bool_software>, welches bei  Bestätigung des Software-Einsatzes eine Identifizierung der Software nach sich zieht.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 60 von 68
 
 
 ---
@@ -2712,6 +2957,10 @@ bausteine
 
 Entscheidungsbaum mit Angabe der eingesetzten Software
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 61 von 68
+
 
 ---
 
@@ -2728,6 +2977,10 @@ Näher Informationen siehe unter 5.8.3.1
 ## 5.9 ankreuzfeld_liste (Generische Bestätigung)
 
 Mit dem Regeltyp <ankreuzfeld_liste> wird eine generische Struktur angeboten, um einfache  Sachverhalte bestätigen zu können. Der Kontext lässt sich dabei allein aus den Meta- Informationen <titel> und ggf. <text_liste> ableiten.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 62 von 68
 
 
 ---
@@ -2818,6 +3071,10 @@ Der XML-Code für das Element <ankreuzfeld_liste> hat folgenden beispielhaften A
 
 <ankreuzfeld> Klammerelement für einen generischen Sachverhalt (Ankreuzfeld)
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 63 von 68
+
 
 ---
 
@@ -2844,6 +3101,10 @@ Quelle: Sammelerklärung KVNO, Stand 2009
 Unter der generischen Struktur lassen sich auch Sachverhalte abbilden, die mit weiteren Ein- gabefeldern verknüpft sind. Der Entscheidungsbaum <bool_komplex> bietet innerhalb der  generischen Struktur die Möglichkeit, diese an einen Zeitraum, Personen und/oder Organisa- tionseinheiten zu koppeln. Ein komplexes Beispiel ist die Sammelerklärung der KVWL, bei der  eine Bestätigung zur Erbringung der Betreuungsleistungen gemäß Kapitel 31 und 36 des EBM  jeweils an Personen geknüpft ist.
 
 Es handelt sich hierbei genau genommen um zwei Bestätigungen, einmal für Kapitel 31 und  einmal für Kapitel 36. Um diese Sachverhalte innerhalb des vorgegebenen Rahmens abbilden  zu können, sind diese zuvor in zwei generische Bestätigungen aufzubrechen, wie es im XML-- Code beispielhaft für die u.a. Formulardarstellung umgesetzt werden könnte.
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 64 von 68
 
 
 ---
@@ -2942,6 +3203,10 @@ Heruntergrbrochen in zwei einzelne Regeln ließe sich der Sachverhalt wie folgt 
 
 **</person>**
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 65 von 68
+
 
 ---
 
@@ -2969,6 +3234,10 @@ Der XML-Code für das Element <xslt_hash> hat folgenden beispielhaften Aufbau:
 
 **XML-Code 53:** xslt_hash
 
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 66 von 68
+
 
 ---
 
@@ -2977,3 +3246,7 @@ Der XML-Code für das Element <xslt_hash> hat folgenden beispielhaften Aufbau:
 - [1] ehd  eHealthData, Richtlinie, Version 1.40  [http://www.kbv.de/ita/4287.html](http://www.kbv.de/ita/4287.html)[](http://www.kbv.de/ita/4287.html)
 - [2] Schlüsseltabellen der KBV  [https://applications.kbv.de/](https://applications.kbv.de/)[](https://applications.kbv.de/)
 - [3] Im Rahmen der Schnittstellenentwicklung wurden folgende Sammelerklärungen analy- siert und sind zum Teil beispielhaft in der Dokumentation verwendet worden: KVSH,  KVHB, KVH, KVN, KVNO, KVT, KVWL, KVB
+
+Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
+
+Seite 67 von 68

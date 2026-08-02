@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-tätssicherung Zervix-Zytologie Zytologie] 1.03 Datum: 09.08.2012 Kennzeichnung: Öffentlich  Status: In Kraft
+tätssicherung Zervix-Zytologie Zytologie] 1.03 Datum: 09.08.2012 Kennzeichnung: Öffentlich  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2018
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 ### DOKUMENTENHISTORIE
 
@@ -22,6 +25,10 @@ tätssicherung Zervix-Zytologie Zytologie] 1.03 Datum: 09.08.2012 Kennzeichnung:
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.03 | 09.08.2012 | KBV | Red. Änderungen |  |  |
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
+
+Seite 2 von 8
 
 
 ---
@@ -61,6 +68,15 @@ tätssicherung Zervix-Zytologie Zytologie] 1.03 Datum: 09.08.2012 Kennzeichnung:
 2.2.4 Datenträgerbeschriftung und Transportbegleitzettel ..............................................................7
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 8**
+
+**IT in der Arztpraxis**
+
+Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
+
+Seite 3 von 8
+
 
 ---
 
@@ -107,9 +123,20 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
-Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi-on (2-70)
+Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi-on
+
+**IT in der Arztpraxis**
+
+Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03 (2-70) Seite 4 von 8
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 # 2 Ärztliches Dokumentieren
 
@@ -155,6 +182,11 @@ Die Gesamtanzahl der untersuchten Frauen ist gleich der Anzahl der Ausgangsbefun
 | **P1-45** | **Gesamtanzahl der untersuchten Präparate** |
 
 Die Gesamtzahl der untersuchten Präparate ist größer als die Summe der Anzahl der nicht  verwertbaren Präparate und der Anzahl der untersuchten Frauen. Unabhängig von den nicht  verwertbaren Präparaten kann pro Frau mehr als ein untersuchtes Präparat existieren (zum  Beispiel bei einer verkürzten Nachbeobachtungszeit eines auffälligen Befundes).
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
+
+Seite 5 von 8
+
 
 ---
 
@@ -208,6 +240,15 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokume
 
 nachzulesen.
 
+**IT in der Arztpraxis**
+
+Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
+
+Seite 6 von 8
+
+
 ---
 
 ### 2.2.4 Datenträgerbeschriftung und Transportbegleitzettel
@@ -229,7 +270,18 @@ KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur B
 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben  von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel  „Transportbegleitzettel“ in [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken.  Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels hand-schriftlich anzugeben.
 
+**IT in der Arztpraxis**
+
+Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
+
+Seite 7 von 8
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 # 3 Referenzierte Dokumente
 
@@ -239,4 +291,6 @@ KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur B
 | [KBV_ITA_VGEX_Schnittstelle_QS_Zervix- | Schnittstellenbeschreibung Qualitätssicherung Zer- |
 | [KBV_ITA_AHEX_Handbuch_XKM] | XKM Anwenderhandbuch |
 
-Zytologie] Versorgung vix-Zytologie
+KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
+
+Zytologie] Versorgung vix-Zytologie Seite 8 von 8

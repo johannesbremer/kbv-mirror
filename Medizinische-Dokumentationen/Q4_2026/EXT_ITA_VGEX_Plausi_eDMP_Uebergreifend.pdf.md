@@ -24,6 +24,8 @@
 
 **Version anzuwenden ab:**
 
+Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0 letzte Bearbeitung: 01.08.2025
+
 # Version: 8.0
 
 **01.08.2025**
@@ -49,8 +51,11 @@
 | 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; neunstellige numerische Angabe  - Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, |
 | 9 | Datum2 2 | TT.MM.JJJJ | Pflichtfeld;  das Datum muss gleich oder kleiner zum |
 
-Nr.  Institutionskennzeichen   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem „origination_dttm“ 22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein ### Anlage 2
+Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0 letzte Bearbeitung: 01.08.2025
 
+### Anlage 2
+
+Nr.  Institutionskennzeichen   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem „origination_dttm“ 22 sein Angabe notwendig,  Angabe notwendig, ist hier keine Angabe erforderlich  Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein
 
 ---
 
@@ -76,7 +81,8 @@ Nr.  Institutionskennzeichen   Gemeint ist die Lebenslange Arztnummer Dies entsp
 |  |  |  |  | |
 |  |  |  |  |  |
 
-Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rückenschmerz / Depression / Osteoporose / rheumatoide Arthritis / Adipositas - Erwachsene / Adipositas - Kinder und Jugendliche Mehrfachnennungen sind möglich mit folgenden Ausnahmen: „Diabetes mellitus Typ 2“ angegeben werden angegeben werden chronischer Herzinsuffizienz“ angegeben werden Erwachsene“ kann nicht gleichzeitig mit Kinder und Jugendliche“ angegeben werden Anlage 2* ist nur gültig in Verbindung mit der jeweiligen indikationsbezogenen Dokumentation. Es gilt: , müssen zusätzlich die Angaben der Anlage 6* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  oder Typ 2 , müssen zusätzlich die Angaben der Anlage 8* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. , müssen zusätzlich die Angaben der Anlage 10* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 1 Jahr, ist die Angabe Asthma bronchiale"
+Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rückenschmerz / Depression / Osteoporose / rheumatoide Arthritis / Adipositas - Erwachsene / Adipositas - Kinder und Jugendliche Mehrfachnennungen sind möglich mit folgenden Ausnahmen: „Diabetes mellitus Typ 2“ angegeben werden angegeben werden chronischer Herzinsuffizienz“ angegeben werden Erwachsene“ kann nicht gleichzeitig mit Kinder und Jugendliche“ angegeben werden Anlage 2* ist nur gültig in Verbindung mit der jeweiligen indikationsbezogenen Dokumentation. Es gilt: , müssen zusätzlich die Angaben der Anlage 6* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  oder Typ 2 , müssen zusätzlich die Angaben der Anlage 8* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. , müssen zusätzlich die Angaben der Anlage 10* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 1 Jahr, ist die Angabe Asthma bronchiale" Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0 letzte Bearbeitung: 01.08.2025
+
 
 ---
 
@@ -102,7 +108,10 @@ Typ 2 / Asthma bronchiale / COPD / chronische Herzinsuffizienz / chronischer Rü
 |  |  |  |  | |
 |  |  |  |  |  |
 
-Angaben der Anlage 12* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  3, 4 müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 7 7. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „Depression" nicht COPD , müssen zusätzlich die  3 COPD" nicht chronische Herzinsuffizienz chronischer Rückenschmerz Depression , müssen 3, 8 8. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 20* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 60 Jahren, ist die Angabe „Osteoporose" nicht möglich. „Osteoporose“ , müssen 3, 9
+Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0
+
+Angaben der Anlage 12* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe müssen zusätzlich die Angaben der Anlage 14* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  3, 4 müssen zusätzlich die Angaben der Anlage 16* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 7 7. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 18* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „Depression" nicht COPD , müssen zusätzlich die  3 COPD" nicht chronische Herzinsuffizienz chronischer Rückenschmerz Depression , müssen 3, 8 8. Erfolgt eine Angabe zu zusätzlich die Angaben der Anlage 20* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. Erfolgt in Feld 12 die Angabe „Männlich“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 60 Jahren, ist die Angabe „Osteoporose" nicht möglich. „Osteoporose“ , müssen 3, 9-A-RL  letzte Bearbeitung: 01.08.2025
+
 
 ---
 
@@ -128,7 +137,10 @@ Angaben der Anlage 12* entsprechend den dort festgelegten Plausibilitätsregeln 
 |  |  |  |  | |
 |  |  |  |  |  |
 
-Erfolgt in Feld 12 die Angabe „Weiblich“ oder „Unbestimmt“ oder „Divers“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 50 Jahren, ist die Angabe „Osteoporose" nicht möglich. rheumatoide Arthritis , müssen zusätzlich die Angaben der Anlage 22* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 10 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „rheumatoide Arthritis" nicht möglich.  - Erwachsene müssen zusätzlich die Angaben der Anlage 24* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  3, 11 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „Adipositas Erwachsene" nicht möglich. - Kinder und Jugendliche“, müssen zusätzlich die Angaben der Anlage 26* entsprechend den dort festgelegten 2 Plausibilitätsregeln erfolgen.  3, 1 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner fünf Jahren , ist die Angabe „Adipositas Kinder und Jugendliche" nicht möglich. Erstdokumentation und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in
+Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0
+
+Erfolgt in Feld 12 die Angabe „Weiblich“ oder „Unbestimmt“ oder „Divers“ und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 50 Jahren, ist die Angabe „Osteoporose" nicht möglich. rheumatoide Arthritis , müssen zusätzlich die Angaben der Anlage 22* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen. 3, 10 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „rheumatoide Arthritis" nicht möglich.  - Erwachsene müssen zusätzlich die Angaben der Anlage 24* entsprechend den dort festgelegten Plausibilitätsregeln erfolgen.  3, 11 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist die Angabe „Adipositas Erwachsene" nicht möglich. - Kinder und Jugendliche“, müssen zusätzlich die Angaben der Anlage 26* entsprechend den dort festgelegten 2 Plausibilitätsregeln erfolgen.  3, 1 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner fünf Jahren , ist die Angabe „Adipositas Kinder und Jugendliche" nicht möglich. Erstdokumentation und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in -A-RL  letzte Bearbeitung: 01.08.2025
+
 
 ---
 
@@ -154,7 +166,10 @@ Erfolgt in Feld 12 die Angabe „Weiblich“ oder „Unbestimmt“ oder „Diver
 | Pflichtfeld; | Numerische Angabe mit zwei Stellen hinter dem Komma; | 14 | Körpergewicht | |
 | kg | Pflichtfeld; | Numerische Angabe ohne Komma, Wertebereich 000 - | 15   Blutdruck | mm Hg |
 
-Angabe „Adipositas - Kinder und Jugendliche" nicht möglich. Folgedokumentation und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter größer gleich 21 Jahren, ist die Angabe „Adipositas - Kinder und Jugendliche" nicht möglich. Wertebereich 0,00 - 2,50 500 Diabetes mellitus Typ 2 Herzinsuffizienz oder „c Depression “ oder „Osteoporose“ Arthritis“ oder „Adipositas hier eine Angabe erfolgen.  oder COPD hronischer Rückenschmerz oder „rheumatoide  Erwachsene KHK  oder  oder chronische  oder erfolgt ist, muss
+Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0
+
+Angabe „Adipositas - Kinder und Jugendliche" nicht möglich. Folgedokumentation und ergibt die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter größer gleich 21 Jahren, ist die Angabe „Adipositas - Kinder und Jugendliche" nicht möglich. Wertebereich 0,00 - 2,50 500 Diabetes mellitus Typ 2 Herzinsuffizienz oder „c Depression “ oder „Osteoporose“ Arthritis“ oder „Adipositas hier eine Angabe erfolgen.  oder COPD hronischer Rückenschmerz oder „rheumatoide  Erwachsene KHK  oder  oder chronische  oder erfolgt ist, muss -A-RL  letzte Bearbeitung: 01.08.2025
+
 
 ---
 
@@ -180,7 +195,8 @@ Angabe „Adipositas - Kinder und Jugendliche" nicht möglich. Folgedokumentatio
 |  |  |  |  | |
 |  |  |  |  |  |
 
-Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von größer gleich18 Jahren, muss  Kinder und Jugendliche“ ist hier eine Angabe optional Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist hier eine Angabe optional Typ 1“ und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von größer gleich11 Jahren, muss Typ 1“ und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 11 Jahren, ist hier eine Angabe optional. Wert sein. minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 12 Jahren, ist hier eine Angabe optional. minus der Datumsangabe in Feld 3 ein Lebensalter von
+Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von größer gleich18 Jahren, muss  Kinder und Jugendliche“ ist hier eine Angabe optional Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 18 Jahren, ist hier eine Angabe optional Typ 1“ und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von größer gleich11 Jahren, muss Typ 1“ und ergibt gleichzeitig die Differenz aus der Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 11 Jahren, ist hier eine Angabe optional. Wert sein. minus der Datumsangabe in Feld 3 ein Lebensalter von kleiner 12 Jahren, ist hier eine Angabe optional. minus der Datumsangabe in Feld 3 ein Lebensalter von Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0 letzte Bearbeitung: 01.08.2025
+
 
 ---
 
@@ -214,4 +230,6 @@ Datumsangabe in Feld 22 minus der Datumsangabe in Feld 3 ein Lebensalter von gr�
 
 11 Eine Angabe zu „Adipositas  Erwachsene “ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 24* in Kraft treten.
 
-Diabetes mellitus / KHK / AVK / Chronische Herzinsuffizienz / Asthma bronchiale / COPD / Keine der genannten Erkrankungen   Mehrfachnennungen sind möglich; ist, sind keine weiteren Angaben zulässig; alle anderen Kombinationen sind zulässig geben Informationsangebote der Krankenkasse Training  Erfassungsstelle sein Für die Umsetzung der Prüfung nach den jeweiligen indikationsspezifischen Dokumentationen in Verbindung mit Feld 10 nach den Nummern 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 und 11 in den DMP-Datenstellen ist der Eintrag im Element <document_type_cd>  des übermittelten Dokumentationsdatensatzes maßgeblich. Eine Angabe zu „ chronische Herzinsuffizienz erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 14* in Kraft treten. Diese Angabe ist ab dem vollendeten 12. Lebensjahr verpflichtend und bei jüngeren Kindern nur optional auszufüllen Dies ist das „service_tmr“ Eine Angabe zu „ chronischer Rückenschmerz“ erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 16* in Kraft treten. 12 Eine Angabe zu „Adipositas – Kinder und Jugendliche “ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 26* in Kraft treten.
+12 Eine Angabe zu „Adipositas – Kinder und Jugendliche “ ist erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 26* in Kraft treten.
+
+Diabetes mellitus / KHK / AVK / Chronische Herzinsuffizienz / Asthma bronchiale / COPD / Keine der genannten Erkrankungen   Mehrfachnennungen sind möglich; ist, sind keine weiteren Angaben zulässig; alle anderen Kombinationen sind zulässig geben Informationsangebote der Krankenkasse Training  Erfassungsstelle sein Für die Umsetzung der Prüfung nach den jeweiligen indikationsspezifischen Dokumentationen in Verbindung mit Feld 10 nach den Nummern 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 und 11 in den DMP-Datenstellen ist der Eintrag im Element <document_type_cd>  des übermittelten Dokumentationsdatensatzes maßgeblich. Eine Angabe zu „ chronische Herzinsuffizienz erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 14* in Kraft treten. Diese Angabe ist ab dem vollendeten 12. Lebensjahr verpflichtend und bei jüngeren Kindern nur optional auszufüllen Dies ist das „service_tmr“ Eine Angabe zu „ chronischer Rückenschmerz“ erst ab dem Zeitpunkt möglich, zu dem die Plausibilitätsregeln zur Anlage 16* in Kraft treten. Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung indikationsübergreifender, allgemeiner Datensatz Version 8.0 letzte Bearbeitung: 01.08.2025

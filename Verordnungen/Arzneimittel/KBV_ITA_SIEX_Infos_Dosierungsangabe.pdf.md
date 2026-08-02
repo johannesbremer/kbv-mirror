@@ -9,6 +9,8 @@
 
 # PT-BERATER – DOSIERUNGSANGABE  AUF REZEPT – FAQS
 
+Seite 1 von 6 / KBV / PT-Berater – Dosierungsangabe auf Rezept – FAQs / 1. Dezember 2020
+
 VERSORGUNGSMANAGEMENT  GB ÄRZTLICHE UND VERANLASSTE LEISTUNGEN ABTEILUNG ARZNEIMITTEL   
 
 
@@ -46,6 +48,7 @@ Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanw
 
 über das Kürzel  **Verordnungszeile jeweils**
 
+Seite 2 von 6 / KBV / PT-Berater – Dosierungsangabe auf Rezept – FAQs / 1. Dezember 2020
 
 ---
 
@@ -88,6 +91,7 @@ Alternativ zum Freitextfeld kann zur softwareseitigen Unterstützung eine strukt
 - Entsprechend des „Vierer-Schemas“ des bundeseinheitlichen Medikationsplanes für morgens-mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht:  1 -0 -0 -1 ½
 - Entsprechend des „Dreier-Schemas“ für morgens-mittags-abends z.B. bei morgendlicher und  abendlicher Gabe jeweils einer halben Tablette ½-0 -½
 
+Seite 3 von 6 / KBV / PT-Berater – Dosierungsangabe auf Rezept – FAQs / 1. Dezember 2020
 
 ---
 
@@ -122,6 +126,7 @@ Ein ausschließlicher Verweis auf die Packungsbeilage („siehe Packungsbeilage�
 
 Die Dosierungsangabe „Bei Bedarf“ ist aus Sicht der KBV zwar grundsätzlich mit den Vorgaben der AMVV zu  vereinbaren. Nichtsdestoweniger ist eine präzisere Angabe beispielsweise mit einer täglichen Höchstmenge
 
+Seite 4 von 6 / KBV / PT-Berater – Dosierungsangabe auf Rezept – FAQs / 1. Dezember 2020
 
 ---
 
@@ -157,6 +162,7 @@ Des Weiteren kann die auf einem Rezept gesetzte Dosierungsangabe bzw. Kennzeichn
 
 Sofern ÄrztInnen ein Rezept handschriftlich ausstellen und das verschriebene Arzneimittel nicht  unmittelbar an sie abgegeben wird, schreiben sie entweder eine Dosierung auf oder kennzeichnen auf dem
 
+Seite 5 von 6 / KBV / PT-Berater – Dosierungsangabe auf Rezept – FAQs / 1. Dezember 2020
 
 ---
 
@@ -169,3 +175,5 @@ Fehlt die Dosierung auf dem Rezept über verschreibungspflichtige Arzneimittel, 
 Fehlt der Hinweis auf einen Medikationsplan bzw. eine schriftliche Dosierungsanweisung auf dem Rezept  über verschreibungspflichtige Arzneimittel, kann in der Apotheke auch ohne Rücksprache mit der Praxis das  Rezept insoweit ergänzt werden, wenn diese Angaben zweifelsfrei bekannt sind (§ 2 Absatz 6a AMVV).
 
 Eine unmissverständlich formulierte Dosierung oder ein Hinweis auf einen Medikationsplan bzw. eine  schriftliche Dosierungsanweisung kann daher das Erfordernis zur Rücksprache mit der Praxis und damit  verbundenen Mehraufwand deutlich reduzieren.
+
+Seite 6 von 6 / KBV / PT-Berater – Dosierungsangabe auf Rezept – FAQs / 1. Dezember 2020

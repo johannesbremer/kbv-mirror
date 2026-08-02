@@ -53,6 +53,12 @@ Ansprechpartner KV Nordrhein:
 
 **6.3** **Hinweise zu verwendbaren Tools ...............................................................................................18**
 
+Elektronische Sammelerklärung
+
+Seite 2 von 20
+
+Stand: 23.04.2026
+
 
 ---
 
@@ -64,7 +70,7 @@ Ansprechpartner KV Nordrhein:
 
 **20**  **20**
 
-ANLAGE A 
+ANLAGE A Elektronische Sammelerklärung Seite 3 von 20 Stand: 23.04.2026
 
 
 ---
@@ -78,9 +84,16 @@ ANLAGE A
 | 10.08.2022 | 1.2 | Anpassungen von Dateinamen und Versionsnummern. Logo ausgetauscht |
 | 23.04.2026 | 1.2.1 | Redaktionelle |
 
-Anpassen des Dateinamens des XSL-Stylesheets. - Hinweis, dass bei Einsatz des Apache FOP Formatters, dieser in der Version   2.1 zu verwenden ist. Anpassungen (u.a. Kontaktdaten auf Seite 1)
+Elektronische Sammelerklärung
+
+Seite 4 von 20
+
+Anpassen des Dateinamens des XSL-Stylesheets. - Hinweis, dass bei Einsatz des Apache FOP Formatters, dieser in der Version   2.1 zu verwenden ist. Anpassungen (u.a. Kontaktdaten auf Seite 1)Stand: 23.04.2026
+
 
 ---
+
+Elektronische Sammelerklärung
 
 # 2 Vorbemerkungen
 
@@ -104,8 +117,14 @@ Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung �
 
 [3](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)[](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/Sammelerklaerung.zip)
 
+Seite 5 von 20
+
+Stand: 23.04.2026
+
 
 ---
+
+Elektronische Sammelerklärung
 
 # 3 Aufbau der Sammelerklärung Vertragsärzte
 
@@ -124,6 +143,10 @@ Das Element ist wie folgt zu verwenden:
 Mit dem Element origination_dttm wird das Erstellungsdatum der Sammelerklärung an-gegeben. Das Datum wird bei der PDF-Darstellung der Sammelerklärung (auf Basis des XSL-FO Stylesheets) berücksichtigt.
 
 Das Element ist wie folgt zu verwenden:
+
+Seite 6 von 20
+
+Stand: 23.04.2026
 
 
 ---
@@ -155,6 +178,12 @@ Definition des V Attributs des Elements organization.nm
 
 Das Element ist wie folgt zu verwenden:
 
+Elektronische Sammelerklärung
+
+Seite 7 von 20
+
+Stand: 23.04.2026
+
 
 ---
 
@@ -172,6 +201,12 @@ Mit dem Element vertretungszeit_liste werden sowohl die Vertretungszeiten als au
 
 Haben Vertretungen stattgefunden, muss der Zeitraum der Vertretung angegeben werden  und die Person, die die Vertretung durchgeführt hat. Es können beliebig viele Zeiträume mit  den dazugehörigen Vertretern angegeben werden; pro Vertretungszeitraum ist ein komplex  Element als Kindelement zum Element true anzulegen.
 
+Elektronische Sammelerklärung
+
+Seite 8 von 20
+
+Stand: 23.04.2026
+
 
 ---
 
@@ -183,6 +218,12 @@ Mit dem Element angestellter_arzt_liste werden sowohl die Zeiten als auch die Pe
 
 Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben  werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen angestellten Ärzten angegeben werden; pro Beschäftigungszeitraum ist ein  komplex Element als Kindelement zum Element true anzulegen.
 
+Elektronische Sammelerklärung
+
+Seite 9 von 20
+
+Stand: 23.04.2026
+
 
 ---
 
@@ -193,6 +234,12 @@ Das Element angestellter_arzt_liste ist wie folgt zu verwenden:
 Mit dem Element org_notdienstzeit_liste werden die Notfalldienstzeiten angegeben,  an denen die Ärzte der Praxis teilgenommen haben.   Wurde an keinem Notfalldienst teilgenommen, kann dies auf zwei Arten angezeigt werden.  Zum einen kann das Element org_notdienstzeit_liste komplett fehlen, zum anderen  kann folgende Struktur verwendet werden:
 
 Wurde hingegen am Notdienst teilgenommen, muss der Zeitraum bzw. der Tag, an dem der  Notdienst stattfand, angegeben werden. Es können beliebig viele Zeiträume bzw. Tage an-gegeben werden; pro Zeitangabe ist ein komplex Element als Kindelement zum Element  true anzulegen.
+
+Elektronische Sammelerklärung
+
+Seite 10 von 20
+
+Stand: 23.04.2026
 
 
 ---
@@ -211,12 +258,24 @@ Das Element org_notdienstzeit_liste ist wie folgt zu verwenden:
 
 Mit dem Element assistent_liste werden sowohl die Zeiten als auch die Personen ge-nannt, die in der eigenen Praxis als Assistenten tätig waren.   Wurden keine Assistenten beschäftigt, kann dies auf zwei Arten angezeigt werden. Zum ei-nen kann das Element assistent_liste komplett fehlen, zum anderen kann folgende  Struktur verwendet werden:
 
-bis 17.04.2014 01:00 Uhr vom 23.06.2014 Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben  werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen Assistenten angegeben werden; pro Beschäftigungszeitraum ist ein komplex  Element als Kindelement zum Element true anzulegen.
+Haben Beschäftigungen stattgefunden, muss der Zeitraum der Beschäftigung angegeben  werden und die Person, die beschäftigt wurde. Es können beliebig viele Zeiträume mit den  dazugehörigen Assistenten angegeben werden; pro Beschäftigungszeitraum ist ein komplex  Element als Kindelement zum Element true anzulegen.
+
+Elektronische Sammelerklärung
+
+Seite 11 von 20
+
+bis 17.04.2014 01:00 Uhr vom 23.06.2014 Stand: 23.04.2026
 
 
 ---
 
 Das Element assistent_liste ist wie folgt zu verwenden:
+
+Elektronische Sammelerklärung
+
+Seite 12 von 20
+
+Stand: 23.04.2026
 
 
 ---
@@ -256,6 +315,12 @@ Das Element ist wie folgt zu verwenden:
 
 Für die Ausprägung *ermächtigte Ärzte* ist nur das Element fall_statistik zu implemen-tieren. Alle weiteren im Kapitel 3 beschriebenen body-Elemente treten in dieser Ausprägung  der Sammelerklärung **nicht** auf.
 
+Elektronische Sammelerklärung
+
+Seite 13 von 20
+
+Stand: 23.04.2026
+
 
 ---
 
@@ -265,7 +330,7 @@ Für die Ausprägung *ermächtigte Ärzte* ist nur das Element fall_statistik zu
 | gete | Ä rz te - der KV | Nordrhein auf: |
 | Seite | 14 von 20 | Stand: 23.04.2026 |
 
-Demnach treten folgende XML- Elemente in der Sammelerklärung - gete Ärzte - der KV Nordrhein auf:
+Demnach treten folgende XML- Elemente in der Sammelerklärung - gete Ärzte - der KV Nordrhein auf: Elektronische Sammelerklärung Seite 14 von 20
 
 ---
 
@@ -300,6 +365,12 @@ Definition des V Attributs des Elements organization.nm
 
 Das Element ist wie folgt zu verwenden:
 
+Elektronische Sammelerklärung
+
+Seite 15 von 20
+
+Stand: 23.04.2026
+
 
 ---
 
@@ -309,8 +380,16 @@ Für die Ausprägung *Krankenhaus* ist nur das Element fall_statistik zu impleme
 
 Demnach treten folgende XML-Elemente in der Sammelerklärung - Ausprägung Kranken-haus - der KV Nordrhein auf:
 
+Elektronische Sammelerklärung
+
+Seite 16 von 20
+
+Stand: 23.04.2026
+
 
 ---
+
+Elektronische Sammelerklärung
 
 # 6 Erzeugung einer Sammelerklärung im PDF/A-1b Format
 
@@ -325,8 +404,14 @@ Grundlage zur Erstellung einer PDF/A-Datei Sammelerklärung, ist das Vorliegen d
 - 1) Erstellung der XML-Datei Sammelerklärung nach den Vorgaben der Schnittstellenbe-schreibung „elektronische Sammelerklärung (eSE)“ sowie des vorliegenden Doku-ments durch das Praxisverwaltungssystem (PVS).
 - 2) Die Vorgabe für die Bildung des Dateinamens zur Sammelerklärung im XML-Format  basiert auf der Definition zur Schnittstellenbeschreibung „elektronische Sammelerklä-rung (eSE)“ ese_{Version Schnittstelle}_{BSNR}_tf+{Quartal}.xml
 
+Seite 17 von 20
+
+Stand: 23.04.2026
+
 
 ---
+
+Elektronische Sammelerklärung
 
 - wobei für den Platzhalter {Version Schnittstelle}, eine gültige Versionsnummer zur  Schnittstelle ab Version 1.21 zu verwenden ist und  wobei für den Platzhalter {BSNR}, eine konkrete BSNR einzusetzen ist und  wobei für den Platzhalter {Quartal}, eine Quartalsangabe im Format JJJJ’q‘Q einzu-setzen ist (4-stellige Jahreszahl, fixer Buchstabe ‚q‘ und 1-stellige Quartalszahl).   Ein beispielhafter Dateiname wäre: ese_1.21_274412300_tf+2014q4.xml
 - 3) Validierung der XML-Datei mit der zugehörigen Schemadatei. Alle drei Varianten der  Sammelerklärung werden mit demselben XSD-Schema validiert. Die Schemadateien  wurden durch die KV Telematik ARGE erstellt. Das Wurzel-Schema ist die Datei   eSE_root.xsd
@@ -354,6 +439,10 @@ Nachfolgend sind einige Tools zur Erzeugung einer PDF/A Datei genannt. Diese Too
 
 **kostenfreier XSL Formatter:**
 
+Seite 18 von 20
+
+Stand: 23.04.2026
+
 
 ---
 
@@ -371,6 +460,13 @@ Weitere Informationen [auch zu Produkten - finden Sie unter](http://xmlgraphics.
 [](http://xmlgraphics.apache.org/fop/resources.html)
 ```
 
+Elektronische Sammelerklärung
+
+Seite 19 von 20
+
+Stand: 23.04.2026
+
+
 ---
 
 # 7 Quellennachweise
@@ -382,3 +478,9 @@ Weitere Informationen [auch zu Produkten - finden Sie unter](http://xmlgraphics.
 # 8 Anlage A
 
 In einem separaten Zip-Archiv werden PDF-Vorlagen zu den drei Ausprägungen der Sam-melerklärung mitgeliefert.
+
+Elektronische Sammelerklärung
+
+Seite 20 von 20
+
+Stand: 23.04.2026

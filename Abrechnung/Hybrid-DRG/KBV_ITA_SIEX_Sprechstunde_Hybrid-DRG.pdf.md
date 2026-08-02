@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_SIEX_SPRECHSTUNDE]
 
+Seite 1 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -29,6 +31,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 | 1.02 | 03.12.2024 | KBV | Erfassung der Fragen aus der    Übersicht der Datenannahme |  | 8      24 |
 | 1.01 | 25.10.2024 | KBV | Erfassung der Fragen aus der |  | 7 |
 | 1.00 | 22.10.2024 | KBV | Erstellung des Dokuments und |  | alle |
+
+Seite 2 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025 und 06.05.2025 Sprechstunde vom 25.02.2025 Sprechstunde vom 14.01.2025 erweitert Information zur KV Sachsen-Anhalt Sprechstunde am 12.11.2024 Sprechstunde am 22.10.2024 Aufnahme der Fragen vom 02.10.2024 
 
@@ -77,6 +81,8 @@ Sprechstunde am 1.07.2025 Sprechstunde am 27.05.2025 Sprechstunde vom 01.04.2025
 
 **24**
 
+Seite 3 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
+
 ---
 
 # FRAGEN UND ANTWORTEN ZU TECHNISCHEN VORGABEN
@@ -123,6 +129,7 @@ Es gibt hierzu unterschiedliche fachliche Auffassungen. Wenn KVen entsprechende 
 
 **Der Leistungsumfang der Hybrid-DRG ist zwar hinsichtlich des Endes der Leistung klar definiert – das**  **Verlassen der Praxis bzw. der nächste Tag bei Wundversorgung. Allerdings ist der Beginn der Leistung**
 
+Seite 4 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -176,6 +183,7 @@ Im Zertifizierungsportal wird, wie bereits von anderen Themen bekannt, eine Test
 
 Nein, die Stammdatei ist keine Grouper-Software.
 
+Seite 5 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -194,6 +202,8 @@ Derzeit ist vorgesehen, die Anlage 1 (OPS-Kodes) der Hybrid-DRG-Vereinbarung vom
 ### Antwort der KBV:
 
 Die KBV reguliert dies nicht.
+
+Seite 6 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -251,6 +261,7 @@ Eine direkte Stornierung, wie sie bei der eAU möglich ist, ist nicht vorgesehen
 
 Eine Budgetierung für Hybrid-DRG-Leistungen ist nicht vorgesehen.
 
+Seite 7 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -294,6 +305,7 @@ Bei der Abrechnung von Hybrid-DRGs, die einen Quartalswechsel überschreiten, mu
 
 **Der Hybrid-DRG-Datensatz ist im KVDT-Anforderungskatalog bzw. in der KVDT-Datensatzbeschreibung**  **veröffentlicht. Ist dies ein Hinweis darauf, dass eine Zertifizierung zu einem späteren Zeitpunkt, ähnlich**  **der KVDT-Zertifizierung, geplant ist?**
 
+Seite 8 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -341,6 +353,7 @@ In einer Abrechnungsdatei können die erbrachten Leistungen aus mehreren Betrieb
 
 **Sind Korrekturen von eingereichten Hybrid-DRG Abrechnungen elektronisch in den KVen möglich?**
 
+Seite 9 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -390,6 +403,7 @@ Nein, der verpflichtende Einsatz der Hybrid-DRG-Stammdatei ist nicht vorgesehen.
 
 Die Teilnehmer der KBV können diese fachliche Frage im Moment nicht beantworten. Die KBV bittet den  [Fragenden, den Sachverhalt nochmals schriftlich an](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[mit einem Beispiel zu schildern.](mailto:ita@kbv.de)
 
+Seite 10 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -428,6 +442,8 @@ Die Implementierung der Regel 735 des Hybrid-DRG Datensatzes im Prüfmodul wurde
 ### Antwort der KBV
 
 Ja, die Unstimmigkeiten wurden bereits korrigiert. Die KBV wird erneut prüfen, ob die meldende Person  bereits informiert wurde.
+
+Seite 11 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -477,6 +493,7 @@ Wir werden für diesen Sachverhalt eine Erläuterung im kommenden Update in den 
 
 **Gibt es im Rahmen der Ablösung von OMIM durch HGNC eine offizielle Mappingtabelle?**
 
+Seite 12 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -526,6 +543,7 @@ Nachtrag:
 
 Gemäß der Aussage der gematik von der Aussetzung des Verfahrens nur der Teil Anfrage aus der Arztpraxis  betroffen, somit bleiben die Umsetzungspflichten des eEB gemäß der Technischen Anlage eEB bestehen für  den Teil Anforderung des eEB aus Krankenkassen-Apps bestehen.
 
+Seite 13 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -575,6 +593,7 @@ Die im Termin geäußerte Aussage, dass sich bei den Einträgen in der Schlüsse
 
 Nein, eine zentrale Mapping-Liste seitens der KBV wird es nicht geben. Sollte ein solches Mapping benötigt  werden, müssen die Hersteller oder Labore diese selbst erstellen.
 
+Seite 14 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -624,6 +643,7 @@ KV-Connect wird am 20. Oktober 2025 abgeschaltet. Eine Verzögerung der Abschalt
 
 Nächste Sprechstunde findet am 27. Mai 2025 statt.
 
+Seite 15 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -674,6 +694,7 @@ Eine Erklärung zu den einzelnen Parametern wird in der KVDT-Anforderung aufgeno
 
 Der Hintergrund der Anforderung ist, sicherzustellen, dass die Nachricht tatsächlich von der Krankenkasse  stammt. Die Praxis könnte eine KIM-Nachricht erhalten, die möglicherweise von einem beliebigen
 
+Seite 16 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -725,6 +746,7 @@ Der Wert wurde aufgenommen, da es sich um eine TI-Anwendung handelt. Die Abstimm
 
 **Ist es möglich, dass die KBV eine Übersicht der TI-Anwendungen bereitstellt, die von Laboren nicht**  **umgesetzt werden müssen und für die daher keine Kürzung erfolgt?**
 
+Seite 17 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -776,6 +798,7 @@ Die Information, dass für bestimmten GOPen die Eingabe zur Art der Erkrankung e
 
 **Kann davon ausgegangen werden, dass die Schlüsseltabelle – ähnlich wie die Stammdateien –**  **quartalsweise aktualisiert wird und die entsprechende Versionsnummer aus der Tabelle verwendet**  **werden kann?**
 
+Seite 18 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -825,6 +848,7 @@ Hintergrund ist die mit der Einführung der ePA aufgekommene Diskussion um eine 
 
 **Ist für bestimmte Ziffern vorgesehen, dass sie nicht auf der Patientenquittung erscheinen sollen?**
 
+Seite 19 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -843,6 +867,8 @@ In diesem Fall sollte in der Patientenquittung ein Hinweis auf die mögliche Unv
 ### Antwort der KBV:
 
 Aus fachlicher Sicht ist die Definition spezifischer Prüfregeln hierfür derzeit nicht vorgesehen bzw. nicht  erforderlich.
+
+Seite 20 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -886,6 +912,7 @@ Grundsätzlich ist im Zusammenhang mit VDGA und eVDGA zu prüfen, ob eine Funkti
 
 Eine eVDGA Zertifizierung setzt zwingend eine erfolgreiche VDGA-Zertifizierung voraus.
 
+Seite 21 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -935,6 +962,7 @@ Ein mehrfaches Vorkommen der Pseudo-LANR/ BSNR ist nicht erlaubt. Da es jedoch U
 
 **Bei der Erfassung von temporären Datensätzen für einen Kostenträger sind bestimmte Angaben zu**  **machen, um diesen zu validieren. Allerdings ist keine Angabe zur Kostenträgergruppe vorgesehen und**
 
+Seite 22 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -943,6 +971,8 @@ Ein mehrfaches Vorkommen der Pseudo-LANR/ BSNR ist nicht erlaubt. Da es jedoch U
 ### Antwort der KBV:
 
 Temporäre Datensätze sollten möglichst schlank gehalten werden. Eine Prüfung des Kostenträgers kann  über die VKNR erfolgen. SKT-Zusatzangaben sind aktuell nicht prüfbar, da in den KV-Spezifika (noch) nicht  vorgesehen.
+
+Seite 23 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
 ---
 
@@ -970,6 +1000,8 @@ Temporäre Datensätze sollten möglichst schlank gehalten werden. Eine Prüfung
 |  |  |
 |  | **· KV** |
 
+Seite 24 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
+
 Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal (spätestens zum 01.07.2025 möglich) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal
 
 ---
@@ -996,7 +1028,10 @@ Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Ann
 | Sachsen-Anhalt | › ›**· ·** |
 | Thüringen | ›**· ·** |
 
-1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal  1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben)
+Seite 25 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
+
+1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal  1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) Annahme des Hybrid-DRG-Datenpaketes:  Mitgliederportal 1Click-Hybrid-DRG (Starttermin wird über SDKVCA bekanntgegeben) 
+
 
 ---
 
@@ -1007,3 +1042,5 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 [Tel.: 030 4005-2077,](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[](mailto:ita@kbv.de)
 
 [Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de) Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 26 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025

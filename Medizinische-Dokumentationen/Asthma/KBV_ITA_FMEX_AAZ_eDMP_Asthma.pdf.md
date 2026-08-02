@@ -104,6 +104,8 @@ iOS/Android
 
 Sonstige
 
+Seite 3 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15. Mai 2024
+
 Linux
 
 
@@ -126,6 +128,8 @@ KEINE
 ALLE
 
 **IDENT-NUMMER BEZEICHNUNG DER OPTIONALEN FUNKTION EDMP ASTHMA LT.**  **ANFORDERUNGSKATALOG**
+
+Seite 4 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15. Mai 2024
 
 Laut nachfolgender Liste
 
@@ -163,6 +167,8 @@ Ansprechpartner(in): Produktmanagement
 ________________
 
 Diese Information ist verpflichtend anzugeben
+
+Seite 5 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15. Mai 2024
 
 Antragssteller:
 
@@ -211,6 +217,8 @@ Ergebnisprüfung 275,24  Rezertifizierung
 
 (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller  “ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+Seite 6 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15. Mai 2024
+
 ---
 
 Antragssteller:
@@ -227,6 +235,8 @@ Antragssteller:
 
 (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+Seite 7 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15. Mai 2024
+
 ---
 
 Antragssteller:
@@ -240,6 +250,8 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 8 von 8 / KBV / Antrag auf Zertifizierung eDMP-Asthma / Version: 4.4 / 15. Mai 2024
 
 Unterschrift
 

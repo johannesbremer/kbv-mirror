@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_ADKJ]
 
+Seite 1 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -112,6 +114,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 27
 
+Seite 2 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 Kardinalität Sonstige Symbole 
 
 
@@ -191,6 +195,7 @@ Kardinalität Sonstige Symbole
 
 **38**
 
+Seite 3 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
@@ -205,6 +210,8 @@ Kardinalität Sonstige Symbole
 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16
 
 **ABBILDUNG 5:** GRUNDSTRUKTUR SECTION (VERLAUFSDOKUMENTATION) ................................................................... 29
+
+Seite 4 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
@@ -245,6 +252,8 @@ Kardinalität Sonstige Symbole
 **TABELLE 19:** WERTE BEI ERGEBNISTEXT (ADIPOSITAS-SCHULUNG FÜR KINDER UND JUGENDLICHE WAHRGENOMMEN) ................................................................................................................................................................................. 35
 
 **TABELLE 21:** WERTE BEI ERGEBNISTEXT (BEENDIGUNG DER DMP-TEILNAHME) ............................................................. 36
+
+Seite 5 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
@@ -326,6 +335,8 @@ Kardinalität Sonstige Symbole
 
 **XML-CODE 38:** BEENDIGUNG DER DMP-TEILNAHME ....................................................................................................... 36
 
+Seite 6 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 ---
 
 # DOKUMENTENHISTORIE
@@ -333,6 +344,9 @@ Kardinalität Sonstige Symbole
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.00 | 13.02.2026 | KBV | neues Dokument | Beschluss des G-BA | alle |
+
+Seite 7 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 
 ---
 
@@ -353,6 +367,8 @@ EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] und [EXT_ITA_VGEX_Plausi_eDMP_Adipositas
 Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 8 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
@@ -385,6 +401,8 @@ Beispiele:
 - 123456789_123_20260930.EEADKJ
 - 123456789_123_20261231.EVADKJ
 
+Seite 9 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 ---
 
 \| 3 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren Symbole in den **3.1** Es existieren verschiedene Kardinalitäten:  0..1    Optionales Element: Element wird als Rechteck mit  1    Musselement: Rechteck mit durchgezogener Linie. Das  n...m |
@@ -411,8 +429,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE folgenden Kapiteln kurz erläutert werden sollen. KARDINALITÄT 
+Seite 10 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE folgenden Kapiteln kurz erläutert werden sollen. KARDINALITÄT
 
 ---
 
@@ -426,6 +445,8 @@ gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element mus
 |  | *Referenzelement * Der Pfeil links unten im Element zeigt an, dass das Element an anderer Stelle |
 |  | *Datentyp* Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
+
+Seite 11 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. SONSTIGE SYMBOLE  Beschreibung sonstiger Symbole
 
@@ -459,6 +480,8 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
+Seite 12 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body> 
 
 
@@ -485,6 +508,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
 **XML-Code 2:** body
 
+Seite 13 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 Abbildung 2 dargestellt.
 
 ] durchzuführen.
@@ -509,11 +534,14 @@ Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
+Seite 14 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
 \| <section>                       Für die Darstellung von Daten von Adipositas - Kinder und Jugendliche („erstmalige Dokumentation“ und                                              </paragraph>      <caption>     </caption>           </section> |
 \|---|
+
+Seite 15 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 <paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Therapeutische Maßnahmen"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content> XML-Code 3: 6.1.2 content Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element <local_markup> hat die erforderlichen Attribute ignore descriptor . Das Attribut ignore  hat den festen Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das der feste Wert „sciphox“ vorgeschrieben.  Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU observation  verwendet. Das Element <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: country =“de“, version =“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU folgendermaßen aus: descriptor -Attribut type  =“observation“, observation  in Version v1 observation  sieht demnach
 
@@ -538,6 +566,8 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 \|---|
 
 **XML-Code 5:** Beobachtungen
+
+Seite 16 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 <local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
 
@@ -564,7 +594,11 @@ Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen
 \| <sciphox:Beobachtung>       Im Element <content> wird die Sciphox-SSU  </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... XML-Code 7:  Ergebnistext Ergebniswert Das Element <Ergebniswert> enthält nur das V- und -Attribut. Einzelne Ausprägungen, die als Werte im Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im V- Attribut, angegeben. Als Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“) eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus: <sciphox:Ergebniswert V=". . ." U="..."/> XML-Code 8:  Ergebniswert 6.1.4 Abschnitt „Administrative Daten“ Dieses Kapitel beschreibt den Abschnitt „Administrative Daten“. observation  verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+
+Seite 17 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... XML-Code 7:  Ergebnistext Ergebniswert Das Element <Ergebniswert> enthält nur das V- und -Attribut. Einzelne Ausprägungen, die als Werte im Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im V- Attribut, angegeben. Als Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“) eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus: <sciphox:Ergebniswert V=". . ." U="..."/> XML-Code 8:  Ergebniswert 6.1.4 Abschnitt „Administrative Daten“ Dieses Kapitel beschreibt den Abschnitt „Administrative Daten“. observation  verwendet. Der Aufbau dieser SSU ist in Kapitel
 
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
@@ -601,7 +635,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Kinder und Jugendliche"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Kinder und Jugendliche"/> content (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere Einschreibung wegen **XML-Code 10:**
+**XML-Code 10:**
+
+Seite 18 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Kinder und Jugendliche"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Kinder und Jugendliche"/> content (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere Einschreibung wegen 
 
 
 ---
@@ -624,7 +662,10 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <content>       <sciphox:Beobachtungen>                                                       </content> |
 \|---|
 
+Seite 19 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 Tabelle 4:  Werte bei Ergebnistext (Einschreibung wegen) 6.1.5 Abschnitt „Anamnese- und Befunddaten“ Dieses Kapitel beschreibt den Abschnitt „Anamnese- und Befunddaten“.  Im Element <content> wird die Sciphox-SSU observation  verwendet. Der Aufbau dieser SSU ist in Kapitel 6.1.3  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element <sciphox:Beobachtungen> enthält genau sechs Kindelemente <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.  Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:  <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Keine der genannten Erkrankungen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> XML-Code 11: content (Anamnese- und Befunddaten)
+
 
 ---
 
@@ -670,7 +711,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Blutdruck systolisch
 
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut den „systolischen Wert“  und im *U*-Attribut den fest vorgeschriebenen Wert „mmHg“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut den „systolischen Wert“  und im *U*-Attribut den fest vorgeschriebenen Wert „mmHg“.
+
+Seite 20 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -704,7 +749,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>**XML-Code 17:** Begleiterkrankungen
+**XML-Code 17:** Begleiterkrankungen
+
+Seite 21 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>
 
 
 ---
@@ -733,6 +782,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
+Seite 22 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
@@ -763,7 +813,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="BMI-SDS"/> <sciphox:Ergebniswert V="…" U="Anzahl" /> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen Bewegung im Alltag"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige Bewegung im Alltag"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="BMI-SDS"/> <sciphox:Ergebniswert V="3.00" U="Anzahl" /> <sciphox:Parameter DN="Ziele zur regelmäßigen Bewegung im Alltag"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>**XML-Code 20:** Ziele zur regelmäßigen Bewegung im Alltag
+**XML-Code 20:** Ziele zur regelmäßigen Bewegung im Alltag
+
+Seite 23 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="BMI-SDS"/> <sciphox:Ergebniswert V="…" U="Anzahl" /> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen Bewegung im Alltag"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige Bewegung im Alltag"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="BMI-SDS"/> <sciphox:Ergebniswert V="3.00" U="Anzahl" /> <sciphox:Parameter DN="Ziele zur regelmäßigen Bewegung im Alltag"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>
 
 
 ---
@@ -811,7 +865,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 9:** Werte bei Ergebnistext (Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der  Ernährungsänderung)
 
+Seite 24 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 <sciphox:Parameter DN="Regelmäßige Bewegung im Alltag"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>
+
 
 ---
 
@@ -852,7 +909,11 @@ Der Coderahmen sieht wie folgt aus:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 13
 
-<sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V="Ja"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 25 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V="Ja"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 
 ---
@@ -899,7 +960,11 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal ein bis maximal zwei Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext>.
 
-<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+
+Seite 26 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -936,8 +1001,11 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V="Körperliches Training"/> <sciphox:Ergebnistext V="Ernährungsberatung"/> <sciphox:Ergebnistext V="Tabakverzicht"/> *V*-Attribut die Feldbezeichnung
+Seite 27 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
+*V*-Attribut die Feldbezeichnung
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V="Körperliches Training"/> <sciphox:Ergebnistext V="Ernährungsberatung"/> <sciphox:Ergebnistext V="Tabakverzicht"/>
 
 ---
 
@@ -952,6 +1020,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Jedes zweite Quartal |
 
 **Tabelle 14:** Werte bei Ergebnistext (Dokumentationsintervall)
+
+Seite 28 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> 
 
@@ -978,6 +1048,7 @@ Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
+Seite 29 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
@@ -994,7 +1065,10 @@ Der Abschnitt „content“ hat die gleiche Struktur wie in der „erstmaligen D
 
 Der Abschnitt „Sciphox-SSU observation“ hat die gleiche Struktur wie in der „erstmaligen Dokumentation“,  siehe Kapitel 6.1.3
 
+Seite 30 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 <paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Therapeutische Maßnahmen"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse seit der letzten Dokumentation"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>
+
 
 ---
 
@@ -1023,7 +1097,11 @@ Siehe Kapitel 6.1.5.1
 
 ### Körpergewicht
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Keine der genannten Erkrankungen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Siehe Kapitel 6.1.5.2
+Siehe Kapitel 6.1.5.2
+
+Seite 31 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Keine der genannten Erkrankungen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 
 ---
@@ -1054,6 +1132,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
+Seite 32 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
 ---
 
@@ -1084,7 +1163,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 15:** Werte bei Ergebnistext (Ziele zur regelmäßigen Bewegung im Alltag seit der letzten  Dokumentation)
 
+Seite 33 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN <sciphox:Ergebniswert V </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen Bewegung im Alltag seit <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige Bewegung im Alltag"/> <sciphox:Ergebnistext V </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>
+
 
 ---
 
@@ -1122,7 +1204,11 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
-<sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>Der Coderahmen sieht wie folgt aus:
+Der Coderahmen sieht wie folgt aus:
+
+Seite 34 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>
 
 
 ---
@@ -1160,7 +1246,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 7.1.8 Abschnitt „Relevante Ereignisse seit der letzten Dokumentation“
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse seit der letzten Dokumentation“.
+Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse seit der letzten Dokumentation“.
+
+Seite 35 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Adipositas-Schulung für Kinder und Jugendliche wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -1198,6 +1288,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Der Abschnitt „Behandlungsplanung“ hat die gleiche Struktur wie in der „erstmaligen Dokumentation“,  siehe Kapitel 6.1.8
 
+Seite 36 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Beendigung der DMP-Teilnahme"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Beendigung der DMP-Teilnahme"/> <sciphox:Ergebnistext V="Ja"/>
 
 
@@ -1228,8 +1320,9 @@ Der Abschnitt „Behandlungsplanung“ hat die gleiche Struktur wie in der „er
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Information Systems in Physician Offices and Hospitals using XML 
+Seite 37 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
 
+Information Systems in Physician Offices and Hospitals using XML
 
 ---
 
@@ -1250,4 +1343,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Kinder und Jugendliche Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 38 von 38 / KBV / Schnittstellenbeschreibung Adipositas - Kinder und Jugendliche / Version: 1.00 / 13. Februar 2026
+
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Kinder und Jugendliche Volldatensatz / a-Datensatz Schnittstellenbeschreibung

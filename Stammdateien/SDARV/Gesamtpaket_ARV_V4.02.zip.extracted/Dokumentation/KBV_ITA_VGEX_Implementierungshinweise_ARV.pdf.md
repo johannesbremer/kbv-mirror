@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Schnittstelle Arzneimittelver- einbarungen (ARV) Umsetzung im Arzneimittelverord- nungssystem 2.02 Datum: 12.12.2018 Kennzeichnung: Öffentlich Status: In Kraft 
+Schnittstelle Arzneimittelver- einbarungen (ARV) Umsetzung im Arzneimittelverord- nungssystem 2.02 Datum: 12.12.2018 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2018
 
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 ### DOKUMENTENHISTORIE
 
@@ -27,7 +29,9 @@ Schnittstelle Arzneimittelver- einbarungen (ARV) Umsetzung im Arzneimittelverord
 | 1.08 | 02.08.2012 | KBV | Überarbeitung | redaktionell |  |
 | 1.07 | 02.06.2012 | KBV | Die Erläuterung für die Kostenver- | Regelung | **17** |
 
-Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qualitätssicherungsrege- lungen“ und „Studienregelungen“ wirtschaftlichen Wirkstoffauswahl (IWW)“ Korrekturen der Vorgaben für den Indikationbaum  nierten Verordnungszielen“ indikationsgerechten wirtschaftlichen Wirkstoffauswahl (IWW)“ DDD- bzw. PDD-Basis wird erweitert um die Möglichkeit zur Angabe einer Quote. Studienregelung, die Qualitätssiche- rungmaßnahmenregelung und die Be- handlungsalternativenregelung werden erweitert um die Möglichkeit, das An- zeigen von Texten und Dokumenten an Bedingungen bezüglich Alter und Ge- schlecht des Patienten/der Patientin zu knüpfen. kann auf Basis gleichsregelung wird hinsichtlich der KV-spezifischer PDD ang wandt werden. PDD (prescribed daily doses) ange- passt. 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qualitätssicherungsrege- lungen“ und „Studienregelungen“ wirtschaftlichen Wirkstoffauswahl (IWW)“ Korrekturen der Vorgaben für den Indikationbaum  nierten Verordnungszielen“ indikationsgerechten wirtschaftlichen Wirkstoffauswahl (IWW)“ DDD- bzw. PDD-Basis wird erweitert um die Möglichkeit zur Angabe einer Quote. Studienregelung, die Qualitätssiche- rungmaßnahmenregelung und die Be- handlungsalternativenregelung werden erweitert um die Möglichkeit, das An- zeigen von Texten und Dokumenten an Bedingungen bezüglich Alter und Ge- schlecht des Patienten/der Patientin zu knüpfen. kann auf Basis gleichsregelung wird hinsichtlich der KV-spezifischer PDD ang wandt werden. PDD (prescribed daily doses) ange- passt. Seite 2 41 von
 
 
 ---
@@ -94,8 +98,16 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **15**
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 3 41 von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 **5.1** **Konditionale Pflichtfunktion: Kennzeichnung in der Datenbank ........................................... 15**
 
@@ -153,8 +165,14 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **8.5** **Optionale Funktion: Controlling Höchstquotenregelung ....................................................... 23**
 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 4 41 von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 **8.6** **Fachgruppenspezifisches Controlling ...................................................................................... 24**
 
@@ -218,6 +236,10 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **36**
 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 5 41 von
+
 
 ---
 
@@ -229,8 +251,16 @@ Element <verweis_dokument> im Kapi- tel 15.2 Fachgruppen too Regelung“, „Qua
 
 **41**
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 6 41 von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 # 1 Einleitung
 
@@ -255,6 +285,10 @@ KBV_ITA_AHEX_UKV2OKV_V01.02 [1]. Für jeden KV-Bereich gibt es maximal eine gül
 In der vorliegenden Dokumentation sind Hinweise für die Arzneimitteldatenbankanbieter bzw.  die PVS-Hersteller Software-Anbieter enthalten, wie die zugrundeliegenden Daten, welche  von der jeweiligen Landesebene in Form einer XML-Datei zur Verfügung gestellt werden, zu  interpretieren sind. Hierbei gibt es einerseits die konditionalen Pflichtfunktionen aus dem An-forderungskatalog nach § 73 SGB V für Verordnungssoftware AVWG-Anforderungskatalog
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG], welche bei Vorliegen entsprechender Daten  von den AVSder VoS realisiert werden **müssen**, andererseits die sogenannten Controlling-funktionen, welche arztindividuelle Berechnungen ermöglichen, und die vom AVS von der  VoS** optional** angeboten werden können.
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 7 41 von
 
 
 ---
@@ -283,6 +317,12 @@ Eine ARV-Stammdatei darf nur während ihrer Gültigkeitsdauer (Element „servic
 
 Es kann vorkommen, dass einige Präparate von unterschiedlichen Regelungen in den Arz-neimittelvereinbarungen betroffen sind. Beispielsweise könnte das Präparat Nexium sowohl  von einer Leitsubstanzquotenregelung als auch von einer Me-Too Höchstquoten-Regelung  betroffen sein. Wenn die Landesebene im jeweiligen Listenelement im Attribut „prioritaet“ für  die AVS Software-Anbieter definiert hat, welche Regelung eine höhere Priorität besitzt, muss  vom AVS von der VoS die höher priorisierte Regel angezeigt werden. Das AVS Die VoS darf  nicht den Hinweistext anzeigen, welcher zur niedriger priorisierten Regel gehört. Bei gleicher  Priorität müssen beide Hinweistexte angezeigt werden.
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 8 41 von
+
 
 ---
 
@@ -296,8 +336,16 @@ Die Suche wird so durchgeführt, wie von der Landesebene vorgegeben. In den Fäl
 
 Im Element „standardaggregat“ sind die Sonderzeichen für Trademark ™ oder für Registrie-rung  bei der Suche nicht mit anzugeben. Die Sonderzeichen sind durch ein Leerzeichen zu  ersetzen, damit ist zum Beispiel Omeprazol® bei der Suche nach „Omeprazol *“ ein Sucher-gebnis.
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 9 41 von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 # 3 Umsetzung der Leitsubstanzquotenregelungen
 
@@ -319,6 +367,10 @@ Es muss für den Arzt möglich sein, sich bei der Verordnung eines Präparates, 
 1 Unter Hausapotheke sind gemäß Abschnitt 2.1.3 des AVWG-Anforderungskataloges Kapitel 2.3. Hausapotheke  des Anforderungskatalog nach § 73 SGB V für Verordnungssoftware EXT_ITA_VGEX_Anforderungskatalog_AVWG
 
 patientenbezogene, praxisbezogene oder arztbezogeneProduktlisten Verordnungshistorien zu verstehen, aus  denen Verordnungen vorgenommen werden können.
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 10 41von
 
 
 ---
@@ -345,8 +397,16 @@ Controlling-Funktionen sind optional vom AVS von der VoS umzusetzen. Auf Landese
 
 Wenn die Landesebene ein arztindividuelles Controlling unterstützen möchte, ist unter „leit-substanz“  „fachgruppenquote“ in den optionalen Elementen „quote_leitsubstanz_ddd“ oder
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 11 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 „quote_leitsubstanz_verordnungen“ oder „quote_leitsubstanz_bruttoumsatz“ eine entspre-chende Quote einzutragen.
 
@@ -392,6 +452,8 @@ Es besteht die Möglichkeit, dass sich die Quoten auf alle Ärzte oder nur auf e
 
 Wenn im AVS in der VoS die Controllingfunktion implementiert ist, dann muss die individuelle  Zugehörigkeit des Arztes zu einer Fachgruppe berücksichtigt werden. Anhand der von der  Landesebene benannten Fachgruppennummer(n) und/oder der Fachgruppenintervall(e) muss  das AVS die VoS im Abgleich mit der 8. und 9. Stelle der lebenslangen Arztnummer (LANR)  des Benutzers ermitteln, ob dieser zur definierten Fachgruppe gehört und diejenigen Quoten
 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
 wird durch das AVS die VoS nach folgender
 
 *100
@@ -402,6 +464,8 @@ gewünscht, wird die
 
 gewünscht, wird die Quote
 
+Seite 12 41von
+
 
 ---
 
@@ -411,12 +475,24 @@ in die Berechnung miteinbeziehen, welche für seine Fachgruppe definiert sind. W
 
 sind, dann ist die Quote auf alle Fachgruppen anzuwenden.
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 13 41von
+
 
 ---
 
 # 4 Umsetzung der Zielpreisregelungen
 
-Mithilfe der im Element „zielpreisregelung“ beschriebenen Datenfelder müssen von den AVS  der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen imple-mentiert werden (siehe auch die Funktionen P3-610 K3 -610, K3 --630 620, K3 in dem AVWG-Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG
+Mithilfe der im Element „zielpreisregelung“ beschriebenen Datenfelder müssen von den AVS
+
+|  |  | P3-610 | K3-610, K3--630620, K3 | in | dem AVWG- |
+|---|---|---|---|---|---|
+| der |  | VoS | die | in den Kapiteln |  |
+
+mentiert werden (siehe auch die Funktionen P3-610 K3 -610, K3 --630 620, K3 in dem AVWG-Anforderungskatalog EXT_ITA_VGEX_Anforderungskatalog_AVWG
 
 ## 4.1 Konditionale Pflichtfunktion: Kennzeichnung in der Verord- nungssoftware
 
@@ -427,6 +503,12 @@ Diese Anforderung gilt auch für die Hausapotheken gemäß Anforderungskatalog n
 ## 4.2 KonditionalePflichtfunktion: Anzeigen eines Hinweistextes für  den Arzt
 
 Sofern von der Landesebene gewünscht, wird dem Arzt bei der Verordnung eines Präparates  mit einem Zielpreis ein Hinweis gegeben. Hierbei kann die Landesebene festlegen, bei wel-cher Abweichung des Apothekenverkaufspreises vom Zielpreis welcher Hinweis gegeben  wird. Die Hinweistexte werden ebenfalls von der Landesebene vorgegeben.
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+der VoS die in den Kapiteln 4.1 und 4.2 beschriebenen konditionalen Pflichtfunktionen imple-Seite 14 41von
 
 
 ---
@@ -453,8 +535,16 @@ Das Format bietet die Möglichkeit, für alle Ärzte Warnhinweise („warnhinwei
 
 Das Format bietet die Möglichkeit, fachgruppenspezifische Warnhinweise („warnhin-weis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-, Bereich hinweisen wenn er ein Me-Too-Präparat verordnet und zur definierten Fachgruppe gehört. Die Fach-gruppe und der entsprechende Hinweistext sind von der Landesebene zu definieren. Die für  den KV- Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Me-Too-Präparate < 5%
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 15 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 bei den Allgemeinmedizinern) kann – sofern gewünscht – in den Hinweistext integriert wer-den. Die Quote im Hinweistext kann, da es sich hierbei um ein Textfeld und kein numerisches  Feld handelt, nicht für Controllingzwecke genutzt werden.
 
@@ -500,6 +590,8 @@ Wird eine Controllingfunktion auf Basis des Bruttoumsatzes von der Landesebene g
 
 Siehe Abschnitt 3.6
 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
 gewünscht, wird die
 
 ** 100*
@@ -507,6 +599,8 @@ gewünscht, wird die
 gewünscht, wird die Quote
 
 ** 100*
+
+Seite 16 41von
 
 
 ---
@@ -539,6 +633,12 @@ Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil der Gen
 
 Siehe auch Kapitel 3.4
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 17 41von
+
 
 ---
 
@@ -560,8 +660,16 @@ Wird von der Landesebene gewünscht, dass die DDD-Kostenregelung auf Basis der D
 
 Siehe Abschnitt Kapitel 3.6
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 18 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 # 7 Umsetzung der Generikaquotenregelungen
 
@@ -585,8 +693,14 @@ EXT_ITA_VGEX_Anforderungskatalog_AVWG], P3 - 420).
 
 Das Format bietet die Möglichkeit, für alle Ärzte Warnhinweise („warnhinweis_ersetzung“) zu  implementieren, die den Arzt auf die Regelung im KV-Bereich hinweisen, wenn er ein Original-Präparat verordnet. Der entsprechende Hinweistext ist von der Landesebene zu definieren  und muss vom AVS von der VoS angezeigt werden, wenn der Arzt ein unter eine Generi-kaquotenregelung fallendes Präparat verordnet.
 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 19 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 ## 7.4 Konditionale Pflichtfunktion:  Fachgruppenspezifisches Anzeigen eines Hinweistextes für den Arzt
 
@@ -628,9 +742,13 @@ Wird bei „quote_generika_verordnungen“ zwar eine Quote angegeben, aber keine
 
 Wird ein arztindividuelles Controlling auf Basis Bruttoumsatz gewünscht, wird die Quote nach  folgender Formel berechnet:
 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02
+
 Quote auch auf den Verordnung
 
 ** 100*
+
+* Version
 
 Warnhinweise („warnhin-
 
@@ -638,8 +756,12 @@ Warnhinweise („warnhin-
 
 Quotenregelung auf Basis de
 
+Seite 20 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 *tz*
 
@@ -667,6 +789,10 @@ Wird eine Controllingfunktion **auf Basis des Bruttoumsatzes** von der Landesebe
 
 Siehe Abschnitt Kapitel 3.6
 
+KBV_ITA_VGEX_Implementierungshinweise_ARV 2.02* Version
+
+Seite 21 41von
+
 
 ---
 
@@ -692,8 +818,16 @@ Es muss für den Arzt möglich sein, sich bei der Verordnung eines Präparates, 
 
 Das Format bietet die Möglichkeit, für alle Ärzte oder fachgruppenspezifisch Warnhinweise  („warnhinweis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich  hinweist, wenn er ein Präparat verordnet, dessen Anteil bezogen auf die definierte Gruppe
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 22 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 gesenkt werden soll (z.B. Ezetimib® oder Inegy®) Der entsprechende Hinweistext ist von der  Landesebene zu definieren und muss vom AVS von der VoS angezeigt werden, wenn der  Arzt ein unter eine Höchstquotenregelung fallendes Präparat verordnet..
 
@@ -720,6 +854,10 @@ Wird von der Landesebene gewünscht, dass die Höchstquotenregelung auf Basis de
 *DDDVergleichsgruppe*
 
 Je nach Vereinbarung kann sich eine definierte Höchstquote auch auf den Verordnungsanteil  beziehen. Dann gilt die Formel:
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 23 41von
 
 
 ---
@@ -752,6 +890,12 @@ ruttoumsatz“ im Attribut „V“ eine Quote anzu-geben. Soll sich das Controll
 
 Siehe Abschnitt Kapitel 3.6
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 24 41von
+
 
 ---
 
@@ -773,8 +917,16 @@ Es muss für den Arzt möglich sein, sich bei der Verordnung eines Präparates d
 
 Das Format bietet die Möglichkeit, für alle Ärzte oder fachgruppenspezifisch Warnhinweise  („warnhinweis_ersetzung“) zu implementieren, die den Arzt auf die Regelung im KV-Bereich  (z.B. Regelung zu den Erythropoetinen) hinweist, wenn er ein Präparat (z.B. Aranesp ) ver-ordnet, das kein Biosimilar ist. Der entsprechende Hinweistext ist optional und wird von der  Landesebene definiert. Die für den KV-Bereich gültige Quote für eine Fachgruppe (z.B. Anteil  an Biosimilars bei den Eryhtropoetinen bei Internisten) kann – sofern gewünscht – in den  Hinweistext integriert werden. Die Quote im Hinweistext kann, da es sich hierbei um ein Text-feld und kein numerisches Feld handelt, nicht für Controllingzwecke genutzt werden. Wird von  der Landesebene ein arztindividuelles Controlling gewünscht, ist unter „biosimilar“  „fach-
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 25 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 gruppenquote“ in den optionalen Elementen „quote_biosimilar_ddd“, „quo-te_biosimilar_verordnungen“ oder „quote_biosimilar_bruttoumsatz“ eine entsprechende Quote  einzutragen.
 
@@ -830,6 +982,8 @@ Die Vergleichsgruppe ist von der KV zu definieren und beinhaltet auch die entspr
 
 Sollen die verordneten DDD der Biosimilar-Präparate im Verhältnis zu den verordneten DDD  der Vergleichsgruppe durch das AVS die VoS gemessen werden, ist im Element  **te_biosimilar_ddd“** das Attribut „V“ von der Landesebene zu füllen. Zusätzlich sind die PZN  und DDD für die Vergleichsgruppe inklusive der Biosimilar von der Landesebene bereit zu  stellen. Wird eine Controllingfunktion auf Basis der verordneten Packungen von der Landes-ebene gewünscht, ist im optionalen Element  „V“ die Quote anzugeben. Das Controlling wird auf die Anzahl aller vom Arzt über die GKV
 
+Implementierungshinweise zur ARV-Schnittstelle
+
 *100
 
 gewünscht, wird die Quote
@@ -838,11 +992,15 @@ gewünscht, wird die Quote
 
 **„quote_biosimilar_verordnungen“**
 
+Seite 26 41
+
 **auf den Verord-**
 
 **„quo-**
 
 im Attribut
+
+von
 
 
 ---
@@ -852,6 +1010,12 @@ getätigten Verordnungen von Fertigarzneimitteln einer Biosimilarregelung (z.B. 
 ## 9.5 Fachgruppenspezifisches Controlling
 
 Siehe Abschnitt Kapitel 3.6
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 27 41von
 
 
 ---
@@ -882,6 +1046,12 @@ Es sind auch weiterführende Links möglich, welche auf eine Datei verweisen, we
 
 Der entsprechende Hinweistext ist optional und wird von der Landesebene definiert.
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 28 41von
+
 
 ---
 
@@ -901,8 +1071,16 @@ Die dazugehörigen Informationen sind für den Arzt abrufbar.
 
 Siehe Abschnitt 10.2
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 29 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 # 12 Umsetzung der Studienregelungen
 
@@ -922,7 +1100,11 @@ Die dazugehörigen Informationen sind für den Arzt abrufbar.
 
 Siehe Abschnitt 10.2
 
+Implementierungshinweise zur ARV-Schnittstelle
+
 EXT_ITA_VGEX_Anforderungskatalog_AVW
+
+Seite 30 41von
 
 
 ---
@@ -943,7 +1125,16 @@ Die dazugehörigen Informationen sind für den Arzt abrufbar.
 
 Siehe Abschnitt Kapitel 10.2
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 31 41von
+
+
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 # 14 Umsetzung der indikationsgerechten wirtschaftlichen  Wirkstoffauswahl (IWW)
 
@@ -964,6 +1155,10 @@ Durch die Auswahl einer Indikation aus dem in maximal zwei Hierarchieebenen gegl
 Zusätzlich zur Wahl eines Wirkstoffes in einer bestimmten Indikation unterstützen die  IWW auch direkt bei der Verordnung. Wählt der Arzt z.B. ein Präparat aus, werden an-hand des dem Präparat zugeordneten ATC-e-Codes ein bzw. mehrere Hinweise ang zeigt, die die Zuordnung des gewählten Arzneimittels zu einer Kategorie enthalten so-wie ggf. auch Links zu Alternativen für den entsprechenden Wirkstoff enthalten.
 
 Der Anwender soll in seinem Arbeitsablauf durch den Einsatz der IWW nicht durch zusätzliche  Dialoge etc. beeinträchtigt oder behindert werden, sondern in die Lage versetzt werden, die  Hinweise und Erläuterungen zur Kenntnis nehmen zu können und diese bei Bedarf aktiv zu  nutzen.
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 32 41von
 
 
 ---
@@ -991,8 +1186,16 @@ gestellt werden:
 - Sollten mehrere <link>-Elemente mit gleicher Beschreibung vorhanden  sein, muss die Suche für alle angegebenen ATC-Codes erfolgen.
 - Wenn das Element <link> ein oder mehrere Kindelemente <darrei-chungsform> besitzt, müssen die Informationen (Attribute „V“ und „ein-
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 33 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 - schluss“ des XML-Elementes ../iww_anmerkung/link/darreichungsform/)  bei der Suche berücksichtigt werden.
 - o Enthält das XML- Element <kapitel> ein Kindelement <verweise , muss dessen  Inhalt als Link auf die Indikationen angezeigt werden, auf die verwiesen wird.  Sind benannte Indikationen in den Daten nicht enthalten, müssen diese als  Text angezeigt werden.
@@ -1014,8 +1217,14 @@ Wenn der Anwender ein Präparat zur Verordnung auswählt, muss die Software in d
 
 Dem Anwender muss die Möglichkeit geboten werden, im Rahmen des Navigierens in  den IWW-. Anmerkungen das ursprünglich gewählte Präparat erneut auszuwählen  Das ausgewählte Präparat kann direkt auf das Rezept übernommen werden.
 
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 34 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 -  Alle ermittelten möglichen Verordnungen werden nach den hinterlegten Indikationen  (siehe: XML-: Element  ../iww_liste/iwwliste/bedingungs_liste/bedingung/iww_indikationen/indikationen) grup-piert für den Anwender dargestellt. Dabei muss der Name der Indikation ersichtlich  sein:
 - o Zu den einzelnen ATC-IWW-Codes muss die Kategorie (Attribut  „iww-_kategorie“ des XML Elementes ../iww_liste/iwwliste/verordnungen/atc5/)  angezeigt werden sowie die entsprechend zugeordnete Farbe (XML-Element  „../geltungsbereich_kv/iww_kategorien/kategorie/@color“) angezeigt werden.
@@ -1033,8 +1242,14 @@ Dem Anwender muss die Möglichkeit geboten werden, im Rahmen des Navigierens in 
 - o Die IWW-Kategorien sollen in der zugeordneten Farbe angezeigt werden. Die  Farbe der Indikation ist im Attribut „color“ des XML-Elementes  „../geltungsbereich_kv/iww“ _kategorien/kategorie angegeben.
 -  In den Texten der XML-Elemente sind mögliche Zeilenumbrüche wie folgt kodiert:  „&#xD;&#xA;“.
 
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 35 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 # 15 Umsetzung von kombinierten Verordnungszielen
 
@@ -1071,8 +1286,14 @@ Für die Generika-Ziele
 -  für die PZN ein Rabattvertrag (Datenelement 043 und/oder 044 siehe Anforde-rung P2- 110 [EXT_ITA_VGEX_Anforderungskatalog_AVWG]) vorliegt.
 2. Die PZN ist gleich …/kombi_verordnungsziel/pzn_liste/pzn/@V und
 
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 36 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 -  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 -  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “true“ und
@@ -1110,6 +1331,10 @@ Für die Generika-Ziele
 -  …/kombi_verordnungsziel/ziel_art/@V ist “G“ (Generika- Ziel) und
 -  …/kombi_verordnungsziel/pzn_liste/pzn/erwuenscht/@V ist “false“ und
 
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 37 41von
+
 
 ---
 
@@ -1128,6 +1353,12 @@ Alle genannten Kennzeichnungen erfolgen, wenn:
 
 Beispielhafte Abbildung der Regelungen:
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 38 41von
+
 
 ---
 
@@ -1138,6 +1369,12 @@ Bei einem als erwünscht gekennzeichnten Präparat muss der Anwender die Möglic
 -  welcher Wirkstoffvereinbarung (XML-Element: …/kombi_verordnungsziel/@V und  @DN) dieses Präparat unterliegt sowie die.
 -  möglichen hinterlegten Dokumente (XML-Element:  (…/kombi_verordnungsziel/verweis_dokument/@V) zu dem Präparat.
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 39 41von
+
 
 ---
 
@@ -1147,8 +1384,16 @@ Bei einem als unerwünscht gekennzeichnten Präparat muss dem Anwender angezeigt
 -  der hinterlegte Warnhinweis (XML-Element  ./kombi_verordnungsziel/warnhinweis_pvs/@V) für die Wirkstoffvereinbarung.
 -  Ebenso muss der Anwender die Möglichkeit haben sich mögliche hinterlegte Doku-mente (XML-Element: …/kombi_verordnungsziel/verweis_dokument/@V) zu dem  Präparat anzeigen zulassen.
 
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
+
+Implementierungshinweise zur ARV-Schnittstelle
+
+Seite 40 41von
+
 
 ---
+
+**IT in der Arztpraxis** Implementierungshinweise zur Schnittstelle Arzneimittelvereinbarungen (ARV)
 
 **16 Referenzierte Dokumente**
 
@@ -1160,4 +1405,6 @@ Bei einem als unerwünscht gekennzeichnten Präparat muss dem Anwender angezeigt
 | [KBV_ITA_AHEX_Verfahrensbeschreibung_ARV] | Verfahrensbeschreibung zur Erstellung und Ver- |
 | [1] | Veröffentlichung der ARV_Stammdateien durch  http://www.kbv.de/ita |
 
-Verordnungssoftware / Arzneimitteldatenbanken arbeitung der XML-Stammdatei für die ARV- Schnittstelle, aktuelle Version die KBV:
+Implementierungshinweise zur ARV-Schnittstelle
+
+Verordnungssoftware / Arzneimitteldatenbanken arbeitung der XML-Stammdatei für die ARV- Schnittstelle, aktuelle Version die KBV: Seite 41 41von

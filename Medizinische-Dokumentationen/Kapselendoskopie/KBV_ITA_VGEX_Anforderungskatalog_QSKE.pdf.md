@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version  1.03 |
 
-selendoskopie Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft 
+selendoskopie Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
 Dokumentenhistorie
 
@@ -27,7 +29,10 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 | 1.01 | 07.05.2018 | KBV | • • | Aktualisierung der KV- | 9 |
 | 1.00 | 31.07.2014 | KBV | Neues Dokument |  |  |
 
-le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenommen weg Connect Spezifikation
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenommen weg Connect Spezifikation Seite 2 von 12
+
 
 ---
 
@@ -81,12 +86,24 @@ le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1- 263 g
 
 INHALTSVERZEICHNIS
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+Seite 3 von 12
+
 
 ---
 
 **ABBILDUNG 1:** **BERICHTSZEITRÄUME** ................................................................................................................................ 6
 
 Abbildungsverzeichnis
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+Seite 4 von 12
 
 
 ---
@@ -134,10 +151,18 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
-(2-70) Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation über die Funktionen erleichtert.  Pflichtfunktionen sind wie folgt gekennzeichnet: Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
+Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+(2-70) Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation über die Funktionen erleichtert.  Pflichtfunktionen sind wie folgt gekennzeichnet: Seite 5 von 12
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
 # 2 Ärztliches Dokumentieren
 
@@ -179,14 +204,20 @@ Melde-
 
 Abbildung 1: Berichtszeiträume
 
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
 Kapselendoskopie
 
 - 30.06
 
 ### Prüfquartal
 
+Seite 6 von 12
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -234,8 +265,14 @@ entsprechen.
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+Seite 7 von 12
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
@@ -258,6 +295,11 @@ Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehle
 | **P1-500** | **Ändern der Jahresstatistik** |
 
 Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+Seite 8 von 12
+
 
 ---
 
@@ -306,8 +348,16 @@ Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE-Doku
 
 Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSKE-Dokumentation auf Basis von KIM.
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+Seite 9 von 12
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
 **Akzeptanzkriterium:**
 
@@ -351,11 +401,15 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 - (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
 ] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
 
 - Spezifikation_eDoku_KIM
 
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Spezifikation_eDoku_KIM] an
+Spezifikation_eDoku_KIM] an
+
+cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Seite 10 von 12
 
 
 ---
@@ -395,7 +449,16 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokume
 
 Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-sen.
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+Seite 11 von 12
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
 # 3 Referenzierte Dokumente
 
@@ -409,4 +472,6 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 | [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
 
-Versorgung
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+
+Versorgung Seite 12 von 12

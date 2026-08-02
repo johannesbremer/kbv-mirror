@@ -9,6 +9,8 @@
 
 # FAQS ZUR ARCHIVIERUNGS- UND  WECHSELSCHNITTSTELLE
 
+Seite 1 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
+
 IT IN DER ARZTPRAXIS   DEZERNAT IT IN DER ARZTPRAXIS   
 
 
@@ -150,6 +152,7 @@ IT IN DER ARZTPRAXIS   DEZERNAT IT IN DER ARZTPRAXIS
 
 17
 
+Seite 2 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 ---
 
@@ -158,6 +161,10 @@ IT IN DER ARZTPRAXIS   DEZERNAT IT IN DER ARZTPRAXIS
 **17**
 
 7.1 KBV_Profil KBV_PR_AW_Report_Import 17
+
+Seite 3 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS-
+
+UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 ---
 
@@ -171,6 +178,8 @@ IT IN DER ARZTPRAXIS   DEZERNAT IT IN DER ARZTPRAXIS
 | 1.2.0 | 14.07.2021 | KBV | Neue Kapitel 4.6, 5.4, |  | 11, 14, 18, |
 | 1.2.0 | 15.11.2021 | KBV | Kapitel 7.3 | Aufnahme in |  |
 | 1.3 | 13.05.2022 | KBV | Kapitel 6.2 |  | 17 |
+
+Seite 4 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 von STU3 auf R4 eingefügt aktualisiert. und 8. „Alternativwerte entfernt Anforderungs- katalog und 6.3 eingefügt 
 
@@ -223,6 +232,7 @@ Funktionsumfang von PVS B:
 - FHIR-Ressourcen Patient (74_PR_AW_Patient)
 - FHIR-Ressourcen Arzt-Patientenkontakt (74_PR_AW_Begegnung)
 
+Seite 5 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 ---
 
@@ -265,6 +275,7 @@ Ist ein Import der Informationen in direkt dafür vorhergesehene Felder nicht m�
 
 Behandlungsrelevante Informationen, Inklusive deren Berichtigungen und Änderungen, müssen erhalten  bleiben. D.h. diese Informationen müssen im Zielsystem integriert werden, dazu gibt es zwei grundsätzliche  Ansätze. Zum einen können die Informationen fachlich sinnvoll zugeordnet in Freitextfeldern o.Ä. hinterlegt  werden oder als Anlage (z.B. PDF) ebenfalls fachlich sinnvoll zugeordnet angehängt werden. Für die AWS  bedeutet dies, dass Informationen z.B. aus dem Profil KBV_PR_AW_Patient, KBV_PR_AW_Begegnung,  KBV_PR_AW_Diagnose, usw. übernommen werden müssen. Siehe auch [P7-01]. Ein Zusammenfassen von  fachlich zusammenhängenden Informationen bspw. in einer PDF-Anlage ist ebenfalls möglich.
 
+Seite 6 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 ---
 
@@ -292,6 +303,8 @@ Hinweis: Die Abwärtskompatibilität bei der reinen Archivierung ist immer über
 ## 1.5 KÖNNEN BEIM EXPORT DIE MENSCHENLESBAREN PDFS DEAKTIVIERT WERDEN?
 
 In der aktuellen Version der AW-SST müssen die menschenlesbaren PDFs immer generiert werden.  in der Version 1.2.0 ein zusätzlicher Status für den Export (Testexport) eingeführt,  die menschenlesbaren PDFs deaktiviert werden könnten.
+
+Seite 7 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 **in der Report_Import**
 
@@ -323,6 +336,8 @@ Soll ein Auftrag z.B. mit einem Muster 6 oder 10 von unterschiedlichen Behandeln
 ## 2.4 WIE SIND PATHOLOGISCHE AUFTRÄGE ABZUBILDEN?
 
 Pathologische Überweisungen werden per Muster 6 übertragen, daher ist in der AW-SST das Profil  KBV_PR_AW_Behandlung_im_Auftrag_Ueberweisung zu nutzen. Der Einsender wird im Element requester  angegeben.
+
+Seite 8 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 ---
 
@@ -360,6 +375,7 @@ Es darf je maximal eine Instanz der KBV-Profile, KBV_PR_AW_Abrechnung_Privat,  K
 
 Pro Gebührenordnung (bmae, e-go, ebm, goae, uv-goae, hzv_selektiv) sollte ein gesondertes KBV-Profil  KBV_PR_AW_Abrechnung_Vorlaeufig vorliegen.
 
+Seite 9 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 ---
 
@@ -396,6 +412,7 @@ Zusätzlich können die originalen Dateien im ursprünglichen Format als Anlage 
 - 1. Alle Dokumente deren Ablageort und Ablagestruktur das System bestimmt, müssen exportiert werden.
 - 2. Alternativ können die Anlagen im Wechselszenario beim Export eindeutig als Anlage referenziert  werden, sofern das importierende System Zugriff auf diese Anlagen hat, um diese frei verwalten zu
 
+Seite 10 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
 
 ---
 
@@ -423,6 +440,8 @@ Für das/die nicht übernommenen Elemente ist ein entsprechender Eintrag in den 
 
 Hinweis: Das Element DocumentReference.date wird nach derzeitigem Stand in der kommenden AWS-Version in ein optionales Element geändert. Das Element DocumentReference.content.attachment.creation  wird in der kommenden AWS-Version als optionales Element mit „must support“ im KBV-Profil  KBV_PR_AW_Anlage definiert.
 
+Seite 11 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE / 13. Mai 2022
+
 ---
 
 # 5 VERSIONIERUNG/HISTORISIERUNG
@@ -435,11 +454,19 @@ Die Felderlegende besteht aus Ressourcen und Provenance-Ressourcen.
 
 **Fall Nr. 1**: Das System verfügt über sowohl eine Versionierung, als auch über eine Benutzerverwaltung. Für  jede Ressource und deren Änderungen wird für den gesamten Zeitraum die jeweilige Version und Änderung  gespeichert. Eine direkte Nachverfolgung und ggf. Rekonstruktion der Gegebenheiten zum jeweiligen  Zeitpunkt ist gegeben.
 
+Seite 12 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE /
+
+13. Mai 2022
+
 ---
 
 **Fall Nr. 2**: Das System verfügt über weder eine Versionierung / Historisierung, noch über eine  Benutzerverwaltung. Jede Ressource existiert nur in seiner aktuellen Form, ggf. mit der dazugehörigen  Versionsnummer und der Information über die letzte Änderung.
 
 **Fall Nr. 3**: Das System verfügt über eine Versionierung, aber keine Benutzerverwaltung. Die einzelnen  Versionen der Ressourcen sind vorhanden, die dazugehörigen Änderungen der Benutzer jedoch nicht.
+
+Seite 13 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE /
+
+13. Mai 2022
 
 ---
 
@@ -465,6 +492,9 @@ Grundsätzlich soll die Übernahme der Daten, aus den Elementen der KBV-Profile 
 
 Es sind alle behandlungsrelevanten Informationen zu importieren. [Anforderung P7-01]
 
+Seite 14 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE /
+
+13. Mai 2022
 
 ---
 
@@ -498,6 +528,9 @@ Für diese Anlagen ist zu beachten, dass alle Informationen und vorhandenen Bezi
 
 Hinweis: Es ist zu beachten, dass Begegnungs-Provenienz-Ressourcen nicht in einer Anlage  zusammengefasst werden, die ursprünglich zu unterschiedlichen Begegnungen verknüpft worden sind.
 
+Seite 15 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE /
+
+13. Mai 2022
 
 ---
 
@@ -531,6 +564,8 @@ Dateinamen:
 
 Hinweis: Ein vermischen von Änderungsinformation mit anderen Information bspw. weiteren nicht  strukturiert übernommen behandlungsrelevanten Informationen ist zu vermeiden. Dies wird  wahrscheinlich in zukünftigen Anforderungen gefordert.
 
+Seite 16 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE /
+
 übernommen werden.
 
 angezeigt werden können.
@@ -539,6 +574,7 @@ nur aus einem Import eines
 
 sind für diese Anlagen die  mit einer aussagekräftigen
 
+13. Mai 2022
 
 ---
 
@@ -575,3 +611,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 17 von 17 / KBV / FAQS ZUR ARCHIVIERUNGS- UND WECHSELSCHNITTSTELLE /
+
+13. Mai 2022

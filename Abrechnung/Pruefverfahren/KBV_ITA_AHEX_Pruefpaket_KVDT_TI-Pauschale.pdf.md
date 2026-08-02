@@ -44,6 +44,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **8**
 
+Seite 2 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
+
 ---
 
 DOKUMENTENHISTORIE
@@ -57,8 +59,9 @@ DOKUMENTENHISTORIE
 | 1.4 | 17.07.2024 | KBV | Kapitel 4 | Anpassung Prüffall 3 | 9 |
 | 1.5 | 21.11.2024 | KBV | Anpassungen Patientendaten | Anpassungen der | 5-6 |
 
-Quartalsangabe Testvorgaben Aufnahme von dem Hinweis zur Feldkennung 3000 (FK 3000) Prüffälle 
+Seite 3 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
 
+Quartalsangabe Testvorgaben Aufnahme von dem Hinweis zur Feldkennung 3000 (FK 3000) Prüffälle
 
 ---
 
@@ -95,6 +98,7 @@ Zur Realisierung der Prüffälle sind die regulären KBV-Stammdateien zu verwend
 
 Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die nötigen Angaben zu den Daten  des Versicherten und werden auch als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für die Prüffälle die folgenden XML-Dateien mit  [Versichertenstammdaten](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/VSD_5.2.0_Testfaelle_V2.3.zip)
 
+Seite 4 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
 
 ---
 
@@ -138,6 +142,7 @@ entweder über das Einlesen (mit einer  oder die Daten können im
 | **Wohnsitzländercode** | D |
 | **Ort** | München |
 
+Seite 5 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
 
 ---
 
@@ -181,6 +186,8 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 | **Lebenslange Arztnummer (LANR)** | 776299002 |
 | **ASV Teamnummer** | 001234566 |
 
+Seite 6 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
+
 
 ---
 
@@ -216,7 +223,11 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 
 Bevor die Abrechnungsdateien (pro Prüffall eine Datei) hochgeladen werden, müssen diese unter  Verwendung des XPM-Prüfmoduls vom vierten Quartal 2023 fehlerfrei geprüft werden. Die Daten sind  anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu  verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus  [der dazu bestimmte](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
 
-Testpraxis.de Testpraxis.de *TEST_Verschluesselung* vorgenommen. Hierfür ist  [Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[zu verwenden.](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
+*TEST_Verschluesselung* vorgenommen. Hierfür ist  [Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[zu verwenden.](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
+
+Seite 7 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
+
+Testpraxis.de Testpraxis.de 
 
 
 ---
@@ -239,6 +250,8 @@ In der Kopfzeile der Tabelle wird auf die zu verwendende XML-die konkreten Werte
 | **Vorgaben** | ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt |
 
+Seite 8 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
+
 Datei referenziert. Unter „Vorgaben“ sind
 
 Prüfunterlagen Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein
@@ -252,5 +265,7 @@ Prüfunterlagen Prüfunterlagen  nein (keine Unterstützung)  nein  nein  nein
 | **Hinweis** | Bitte erfassen Sie auch eine Nebenbetriebsstätte. | |
 | **Vorgaben** | Hauptsitz:   ePA Stufe 1  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA | Nebensitz:   ePA Stufe 3  eRezept  NFDM  eMP  KIM  eAU  eArztbrief  Kartenterminal - ja  SMC-B  eHBA |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
+
+Seite 9 von 9 / KBV / Prüfpaket KVDT TI-Pauschale / Version: 1.5 / 21. November 2024
 
 Prüfunterlagen  nein  nein  nein

@@ -11,14 +11,16 @@
 
 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
+Seite 1 von 5 / KBV / Muster 12
+
+Verordnung häuslicher Krankenpflege / 1. Juli 2024
+
 VERSORGUNGSMANAGEMENT 
 
 
 ---
 
-> [OCR REQUIRED — page 2]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
-
+Seite 2 von 5 / KBV / Muster 12  Verordnung häuslicher Krankenpflege / 1. Juli 2024
 
 ---
 
@@ -76,9 +78,13 @@ Die Behandlungspflege umfasst Maßnahmen der ärztlichen Behandlung, die dazu di
 
 Geben Sie hier bitte die zu verabreichenden Präparate sowie deren jeweilige Dauer und Häufigkeit an. Diese  Angaben können alternativ auf einem gesonderten Dokument als Anlage zur Verordnung erfolgen. Bei der  Verordnung der Medikamentengabe ist Nr. 26 des Leistungsverzeichnisses der Häusliche Krankenpflege-Richtlinie zu beachten.
 
+Seite 3 von 5 / KBV / Muster 12
+
+Verordnung häuslicher Krankenpflege / 1. Juli 2024
+
 ---
 
-#### - Blutzuckermessung
+#### - Blutzuckermessung 11.
 
 ```
 -
@@ -146,6 +152,8 @@ Krankenhausvermeidungspflege kann verordnet werden, wenn Krankenhausbehandlung g
 
 Die Grundpflege umfasst pflegerische Hilfen aus den Bereichen Körperpflege, Ernährung und Mobilität. Die  verordnungsfähigen Leistungen sind im Leistungsverzeichnis der Häusliche  (Nr. 1 - 4) aufgeführt.
 
+Seite 4 von 5 / KBV / Muster 12  Verordnung häuslicher Krankenpflege / 1. Juli 2024
+
 Sie bitte Nr. 11 des 31a Wundversorgung einer
 
 - 5 vorliegt.
@@ -157,7 +165,7 @@ Krankenpflege-Richtlinie
 
 ---
 
-- **Hauswirtschaftliche Versorgung**
+- 20. **Hauswirtschaftliche Versorgung**
 
 Hauswirtschaftliche Versorgung beinhaltet hauswirtschaftliche Leistungen wie Einkaufen oder Reinigen der  Wohnung. Die Leistungen sind im Leistungsverzeichnis der Häusliche Krankenpflege-Richtlinie (Nr. 5)  aufgeführt.
 
@@ -166,3 +174,7 @@ Hauswirtschaftliche Versorgung beinhaltet hauswirtschaftliche Leistungen wie Ein
 [Themenseite häusliche Krankenpflege:](http://www.kbv.de/html/haeusliche_krankenpflege.php)[http://www.kbv.de/html/haeusliche_krankenpflege.php](http://www.kbv.de/html/haeusliche_krankenpflege.php)[](http://www.kbv.de/html/haeusliche_krankenpflege.php)
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Seite 5 von 5 / KBV / Muster 12
+
+Verordnung häuslicher Krankenpflege / 1. Juli 2024

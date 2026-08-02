@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft 
+Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2018
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 ### DOKUMENTENHISTORIE
 
@@ -24,6 +26,11 @@ Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | 1.00 | 01.04.2014 | KBV | neues Dokument |  |  |
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 2 von 23
+
 
 ---
 
@@ -101,6 +108,12 @@ Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status
 
 4.3.9 anzahl_harnstrahlmessung_0 ............................................................................................. 20
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 3 von 23
+
 
 ---
 
@@ -150,6 +163,13 @@ Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status
 
 **23**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 4 von 23
+
+
 ---
 
 #### ABBILDUNGSVERZEICHNIS
@@ -174,6 +194,13 @@ Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status
 
 **Abbildung 10 - Element qshlt_dokumentation Teil 2 ........................................................ 18**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 5 von 23
+
+
 ---
 
 #### TABELLENVERZEICHNIS
@@ -183,6 +210,13 @@ Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole ................................................. 10**
 
 **Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 6 von 23
+
 
 ---
 
@@ -199,6 +233,13 @@ Holmium-Laser-Therapie 1.00 Datum: 01.04.2014 Kennzeichnung: Öffentlich  Status
 **XML-Code 5 - id (Software) ................................................................................................. 16**
 
 **XML-Code 6 - qshlt dokumentation................................ .................................................... 19**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 7 von 23
+
 
 ---
 
@@ -219,6 +260,12 @@ Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnit
 ## 1.2 Zielgruppen
 
 Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste-men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 8 von 23
 
 
 ---
@@ -243,8 +290,16 @@ Beispiel:
 
 -  qshlt_1.00_555333222_du+20120520140200.xml
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 9 von 23
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 # 3. Semantik der verwendeten Diagramm-Symbole
 
@@ -273,9 +328,14 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Seite 10 von 23
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 ## 3.3 Sonstige Symbole
 
@@ -288,10 +348,16 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Datentyp: Ein Rechteck mit zwei abgeflachten Ecken symboli- |
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein |
 
-zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. **Tabelle 3 – Beschreibung sonstiger Symbole**
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+**Tabelle 3 – Beschreibung sonstiger Symbole**
+
+zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. Seite 11 von 23
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 # 4. Beschreibung der ehd-Schnittstelle
 
@@ -323,6 +389,8 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese Schnittstelle aufbaut.
 
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
 *header* und *body* zusammensetzt, wie es in Abbildung 1 darge-
 
 **Abbildung 1 - Element ehd**
@@ -339,8 +407,12 @@ Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese S
 
 [KBV_ITA_VGEX_eHD] an,
 
+Seite 12 von 23
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 ## 4.1 Element header
 
@@ -372,6 +444,11 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Besc
 
 **Abbildung 4 - Element document_relationship**
 
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 13 von 23
+
+
 ---
 
 \| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document> **<** </ehd:related_document>  </ehd:document_relationship> |
@@ -395,7 +472,13 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten-nu
 - o *interface.nm*-Element im V-Attribut ist der Wert: „QS Holmium-Laser-Therapie“  fest vorgeschrieben.
 - o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
-id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/> **Abbildung 6 - Element interface**
+**Abbildung 6 - Element interface**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/> Seite 14 von 23
 
 
 ---
@@ -413,9 +496,16 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSHLT"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSHLT" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Holmium-Laser-Therapie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+<ehd:header> <ehd:id RT="555333222" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSHLT"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSHLT" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Holmium-Laser-Therapie"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer> Seite 15 von 23
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
@@ -447,8 +537,14 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 *EX* und *RT*. Das *EX*-Attribut erhält
 
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 16 von 23
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 ## 4.2 Element body
 
@@ -470,7 +566,11 @@ enthält die QS Holmium-Laser-Therapie Jahresstatistik.
 
 **Abbildung 9 - Element qshlt_dokumentation Teil 1**
 
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
 *qshlt_body_typ*. Das Kindelement in die-
+
+Seite 17 von 23
 
 
 ---
@@ -479,7 +579,12 @@ enthält die QS Holmium-Laser-Therapie Jahresstatistik.
 \|---|
 \| **Abbildung 10 - Element qshlt_dokumentation Teil 2 ** XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qshlt:qshlt_dokumentation> |
 
-<anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_eingriffe_mit_absoluter_op_indikation V="5"/> <anzahl_eingriffe_mit_relativer_op_indikation V="15"/> <anzahl_prostatavolumen_0_24 V="2"/> <anzahl_prostatavolumen_25_49 V="3"/> <anzahl_prostatavolumen_50_69 V="15"/> <anzahl_prostatavolumen_70 V="0"/> <anzahl_harnstrahlmessung_0 V="3"/> <anzahl_harnstrahlmessung_0_9 V="2"/> <anzahl_harnstrahlmessung_10_15 V="15"/> <anzahl_harnstrahlmessung_16 V="5"/> <anzahl_blasenverletzungen V="3"/> <anzahl_verletzung_harnleiterostien V="2"/> <anzahl_einschwemmung V="1"/> <anzahl_andere_intraoperative_komplikationen V="0"/> <anzahl_umstiege_turp V="3"/>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+<anzahl_ersteingriffe V="10"/> <anzahl_folgeeingriffe V="10"/> <anzahl_eingriffe_mit_absoluter_op_indikation V="5"/> <anzahl_eingriffe_mit_relativer_op_indikation V="15"/> <anzahl_prostatavolumen_0_24 V="2"/> <anzahl_prostatavolumen_25_49 V="3"/> <anzahl_prostatavolumen_50_69 V="15"/> <anzahl_prostatavolumen_70 V="0"/> <anzahl_harnstrahlmessung_0 V="3"/> <anzahl_harnstrahlmessung_0_9 V="2"/> <anzahl_harnstrahlmessung_10_15 V="15"/> <anzahl_harnstrahlmessung_16 V="5"/> <anzahl_blasenverletzungen V="3"/> <anzahl_verletzung_harnleiterostien V="2"/> <anzahl_einschwemmung V="1"/> <anzahl_andere_intraoperative_komplikationen V="0"/> <anzahl_umstiege_turp V="3"/> Seite 18 von 23
+
 
 ---
 
@@ -503,10 +608,18 @@ Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostat
 
 ### 4.3.6 anzahl_prostatavolumen_25_49
 
-<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe ) der Ersteingriffe wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen. Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  zwischen 25 und 49 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostatavolumina  zwischen 25 und 49 ml wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe ) der Ersteingriffe wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen. Seite 19 von 23
 
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 ### 4.3.7
 
@@ -544,6 +657,8 @@ Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen d
 
 Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen durch Ein-schwemmung wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 lie-gen.
 
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
 ### anzahl_prostatavolumen_50_69
 
 ### anzahl_prostatavolumen_70
@@ -562,8 +677,12 @@ Die Anzahl (nonNegativeInteger) der intraoperativ aufgetretenen Komplikationen d
 
 ### anzahl_einschwemmung
 
+Seite 20 von 23
+
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 ### 4.3.16
 
@@ -601,6 +720,8 @@ Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-
 
 Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-Naht-Zeit) mit  90 Minuten und mehr wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
 ### anzahl_andere_interoperative_komplikationen
 
 ### anzahl_umstiege_turp
@@ -619,8 +740,12 @@ Die Anzahl (nonNegativeInteger) der Eingriffe mit einer Operationszeit (Schnitt-
 
 ### anzahl_operationszeit_90
 
+Seite 21 von 23
+
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 ### 4.3.25
 
@@ -646,6 +771,8 @@ Die Anzahl (nonNegativeInteger) der Eingriffe mit einem Resektionsgewicht von 40
 
 Die Anzahl (nonNegativeInteger) der Entlassungen mit Spontanmiktion wird hier im V-Attribut  angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
 ### anzahl_resektionsgewicht_0
 
 ### anzahl_resektionsgewicht_0_9
@@ -658,8 +785,12 @@ Die Anzahl (nonNegativeInteger) der Entlassungen mit Spontanmiktion wird hier im
 
 ### anzahl_spontanmiktion
 
+Seite 22 von 23
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
 # 5. Referenzierte Dokumente
 
@@ -668,3 +799,7 @@ Die Anzahl (nonNegativeInteger) der Entlassungen mit Spontanmiktion wird hier im
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
 | [1] | Qualitätssicherungsvereinbarung Holmium-Laser-Therapie |
 | [2] | XML Schema Part 0: Primer Second Edition  http://www.w3.org/TR/xmlschema-0/ |
+
+KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
+
+Seite 23 von 23

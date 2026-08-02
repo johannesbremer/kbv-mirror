@@ -11,14 +11,18 @@
 
 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE FÜR DIE VERORDNUNG EINER  KRANKENBEFÖRDERUNG
 
+Seite 1 von 5 / KBV / Elektronische Ausfüllhilfe Muster 4
+
+Verordnung einer Krankenbeförderung / 5. März 2020
+
 VERSORGUNGSMANAGEMENT 
 
 
 ---
 
-> [OCR REQUIRED — page 2]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 2 von 5 / KBV / Elektronische Ausfüllhilfe Muster 4  Verordnung einer Krankenbeförderung /
 
+5. März 2020
 
 ---
 
@@ -48,6 +52,9 @@ Seit 2019 ist für Patienten mit Merkzeichen „aG“, „Bl“, „H“ oder ei
 
 Die Verordnung dieser Fahrten ist ohne vorherige Genehmigung der Krankenkasse zulässig, wenn es sich  um eine Fahrt ins Hospiz, in eine Kurzzeitpflegeeinrichtung als Leistung der Krankenkasse oder um eine  Fahrt zu einer stationsersetzenden ambulanten Operation, einschließlich Vor- oder Nachbehandlung,  handelt. Bei ambulanten Operationen ist Voraussetzung, dass dadurch eine aus medizinischen Gründen  notwendige stationäre Krankenhausbehandlung vermieden wird oder diese nicht ausführbar ist, weil der  Patient sich bewusst gegen die stationäre Krankenhausbehandlung entscheidet. Der Anlass der Fahrt ist in  der Freitextzeile ❻ zu erfassen. Die Begründung für eine stationsersetzende Durchführung sowie den  Operationstag tragen Sie bitte im Freitextfeld unter 4. Begründung/Sonstiges ⓱ ein.
 
+Seite 3 von 5 / KBV / Elektronische Ausfüllhilfe Muster 4
+
+Verordnung einer Krankenbeförderung / 5. März 2020
 
 ---
 
@@ -79,6 +86,9 @@ Die Beförderung im KTW ist nur verordnungsfähig, wenn während der Fahrt eine 
 
 „Rollstuhl“ ist anzukreuzen, wenn ein nicht gehfähiger Patient im eigenen Rollstuhl oder im  Krankenfahrsessel befördert werden muss (Fahrzeug mit rollstuhlgerechter Ausstattung). „Tragestuhl“ ist  anzukreuzen, wenn es sich um einen nicht gehfähigen Patienten handelt, der sitzend befördert werden
 
+Seite 4 von 5 / KBV / Elektronische Ausfüllhilfe Muster 4
+
+Verordnung einer Krankenbeförderung / 5. März 2020
 
 ---
 
@@ -105,3 +115,7 @@ In diesem Freitextfeld können Sie weitere relevante Informationen zur Verordnun
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB)  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
 
 [Informationen der KBV zum Thema Krankenbeförderung: https://www.kbv.de/html/krankentransport.php](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Seite 5 von 5 / KBV / Elektronische Ausfüllhilfe Muster 4
+
+Verordnung einer Krankenbeförderung / 5. März 2020

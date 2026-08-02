@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_VDGA]
 
+Seite 1 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -49,6 +51,8 @@ INHALT
 
 **14**
 
+Seite 2 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten Schimmelpfennig-Hammerschmidt Federmannssohn [XML_22] 
 
 
@@ -64,6 +68,8 @@ DOKUMENTENHISTORIE
 | 1.2 | 04.12.2023 | KBV | Streichung des nicht genutzten  Redaktionelle Korrektur von  Anpassung der Reihenfolge der |  | 8  12 ff |
 | 1.1 | 12.10.2023 | KBV | Korrektur der Überschrift von |  | 12 |
 | 1.0 | 15.09.2023 | KBV | Erstellung des Prüfpaketes |  | Alle |
+
+Seite 3 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
 
 Beschreibung von Prüffall 02 Beschreibung von Prüffall 01 Ausdruck der Praxisdaten Testpatienten Kapitel 1.6.4 Prüffälle Kapitel 2.3 
 
@@ -96,6 +102,8 @@ Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 4 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
 
 ---
 
@@ -132,6 +140,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF-Format bereitzustellen  und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese Dateien  werden durch den Prüfer begutachtet. Es ist zu beachten, dass pro Prüffall eine PDF-Datei bereitgestellt  werden kann. Die dokumentierten Verordnungen und die geforderten Screenshots sind entsprechend der  Reihenfolge der Anweisungen des Prüffalls in der Datei zu hinterlegen, wobei jeweils die Screenshots vor  der dokumentierten Verordnung anzuordnen sind.
 
+Seite 5 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
 
 ---
 
@@ -161,12 +170,17 @@ Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüf
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
-- EF.GVD = geschützte Versichertendaten 1 Nr. des Prüffalls
+- EF.GVD = geschützte Versichertendaten
+
+________________
+
+1 Nr. des Prüffalls
 
 2 Nr. der Anweisung
 
 3 Gängiges Bild- bzw. Videoformat
 
+Seite 6 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
 
 ---
 
@@ -209,6 +223,8 @@ Die Verwendung einer Import-Schnittstelle ist nur für Prüfzwecke erlaubt und m
 | **Versicherten_ID** | M310119802 |
 | **Straße** | Anneliese- und Georg-von-Groscurth-Plaetzchen |
 
+Seite 7 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
+
 
 ---
 
@@ -250,6 +266,8 @@ Die Verwendung einer Import-Schnittstelle ist nur für Prüfzwecke erlaubt und m
 
 Die Software verwendet im Rahmen des Zertifizierungsverfahren die aktuellen Daten des DiGA-Verzeichnisses des BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte).
 
+Seite 8 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
+
 
 ---
 
@@ -289,6 +307,8 @@ Die Pflichtfunktionen, die insbesondere von den zugeordneten Anweisungen des Pr�
 ### 1.6.6 Ausstellungsdatum
 
 Das Ausstellungsdatum der Verordnungen kann jeweils so gewählt werden, dass es dem aktuellen Datum  der Erstellung der Prüfunterlagen entspricht.
+
+Seite 9 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
 
 , […]).
 
@@ -335,7 +355,10 @@ Falls die konditionale Pflichtfunktion KP3-020 unterstützt werden muss, ist wä
 | **ICD-10-GM-Diagnoseklartext einer Diagnose** | Generalisierte Angststörung |
 | **Altersgruppen der Ziel- /Patientengruppen** | Erwachsene(r) (18-65 Jahre) |
 
-der Indikationen
+Seite 10 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
+
+der Indikationen 
+
 
 ---
 
@@ -380,7 +403,10 @@ Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben mö
 | **PZN** | 16879359 |
 | **Name der DiGA-Verordnungseinheit** | velibra 001 |
 
-die digitale Gesundheitsanwendung nutzende Person die für ihre Authentisierung genutzten Daten nur ändern kann, wenn hierbei für die Prüfung der Authentizität dieser Person ausreichende Informationen beigegeben werden? diagnostisches Instrument
+Seite 11 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
+
+die digitale Gesundheitsanwendung nutzende Person die für ihre Authentisierung genutzten Daten nur ändern kann, wenn hierbei für die Prüfung der Authentizität dieser Person ausreichende Informationen beigegeben werden? diagnostisches Instrument 
+
 
 ---
 
@@ -429,6 +455,7 @@ Dokumentieren Sie die ausgedruckte Verordnung, sofern dies nach den Vorgaben mö
 - P4-340 Erstellung von Verordnungen
 - P4-342 Allgemeine Vorgaben für die Formularbedruckung
 
+Seite 12 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
 
 ---
 
@@ -484,6 +511,7 @@ Dokumentieren Sie den vollständigen Anwendungsdialog einschließlich möglicher
 - O4-221 Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten
 - P4-310 Angaben bei erster und wiederholter Verordnung  Erste Ebene
 
+Seite 13 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen / Version: 1.5 / 27. März 2024
 
 ---
 
@@ -505,4 +533,10 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Gesundheitsanwendungen Verfahrens Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 14 von 14 / KBV / Prüfpaket Verordnung Digitaler Gesundheitsanwendungen
+
+/ Version: 1.5 / 27. März 2024
+
+Gesundheitsanwendungen Verfahrens 

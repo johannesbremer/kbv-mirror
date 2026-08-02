@@ -20,6 +20,8 @@ Hier können Sie für die Krankenkasse oder den Patienten nähere Hinweise zu de
 
 [Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):](http://www.kbv.de/html/1150_23864.php) [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
 
+Stand: Mai 2017
+
 ```
 -
 -
@@ -31,3 +33,5 @@ Hier können Sie für die Krankenkasse oder den Patienten nähere Hinweise zu de
 ```
 [](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
 ```
+
+1

@@ -84,7 +84,16 @@
 |  |  |  | | | |
 |  |  |  | | | |
 
-Datum 12.08.2019 Version 1.03 (10 Zeichen) ist M=Monat ist. Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. wobei T=Tag, M=Monat und J=Jahr ist angekreuzt wurde
+IT in der Arztpraxis
+
+Plausibilitäten QS Hörgeräteversorgung Kinder
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. KBV_ITA_VGEX_Plausis_QSHGVK * Version 1.02
+
+Seite 1 von 4
+
+Datum 12.08.2019 Version 1.03 (10 Zeichen) ist M=Monat ist. Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. wobei T=Tag, M=Monat und J=Jahr ist angekreuzt wurdeÜber die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
 
 ---
 
@@ -174,9 +183,20 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) ist M=Monat ist. Verordnung) und (Ver
 |  | links | true / false | | | |
 |  | **10.** | **Kombinierte Schwerhörigkeit** | | | |
 
-Ursache" angekreuzt wurde. Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. mehrere Antworten sind möglich In den drei Nummern zusammen dürfen maximal einmal "rechts" und maximal einmal "links" angekreuzt werden.
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung Kinder
+
+KBV_ITA_VGEX_Plausis_QSHGVK * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend.
+
+Seite 2 von 4
+
+Ursache" angekreuzt wurde. Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. mehrere Antworten sind möglich In den drei Nummern zusammen dürfen maximal einmal "rechts" und maximal einmal "links" angekreuzt werden.Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
 
 ---
+
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung Kinder
 
 |  | | | | | |
 |---|---|---|---|---|---|
@@ -264,9 +284,18 @@ Ursache" angekreuzt wurde. Verordnung) und (Verordnung) oder (Nachsorge) müssen
 |  |  |  | | | |
 |  |  |  | | | |
 
-aufgestellten Versorgungskonzept wobei T=Tag, M=Monat und J=Jahr ist) Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. angekreuzt wurde angekreuzt wurde. Mehrere Antworten möglich. angekreuzt wurde angekreuzt wurde. Mehrere Antworten möglich.
+KBV_ITA_VGEX_Plausis_QSHGVK * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend.
+
+Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
+aufgestellten Versorgungskonzept wobei T=Tag, M=Monat und J=Jahr ist) Verordnung) und (Verordnung) oder (Nachsorge) müssen ausgefüllt sein. angekreuzt wurde angekreuzt wurde. Mehrere Antworten möglich. angekreuzt wurde angekreuzt wurde. Mehrere Antworten möglich.Seite 3 von 4
+
 
 ---
+
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung Kinder
 
 |  | | | | | |
 |---|---|---|---|---|---|
@@ -354,4 +383,8 @@ aufgestellten Versorgungskonzept wobei T=Tag, M=Monat und J=Jahr ist) Verordnung
 |  | Pädagoge | true / false | | | |
 |  | Betreuungseinrichtung | true / false | | | |
 
-angekreuzt wurde. Mehrere Antworten möglich.
+KBV_ITA_VGEX_Plausis_QSHGVK * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
+angekreuzt wurde. Mehrere Antworten möglich. Seite 4 von 4

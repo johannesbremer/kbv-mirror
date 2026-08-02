@@ -30,6 +30,9 @@ Stand der letzten Bearbeitung: 01.10.2026
 
 Version 10
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
+
+
 ---
 
 ## Ausfüllanleitung
@@ -67,6 +70,8 @@ DMP gibt es für die Indikationen
 - Chronische Herzinsuffizienz
 - Chronischer Rückenschmerz
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
+
 
 ---
 
@@ -96,12 +101,16 @@ Die Dokumentationen sind aus Ihrer Praxis elektronisch an die für Sie zuständi
 
 Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden werden,  lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible Dokumentation muss inklusive
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
+
 
 ---
 
 abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle innerhalb von  52 Kalendertagen nach Ablauf des Dokumentationszeitraumes vorliegen.
 
 Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben,  wenden Sie sich bitte an die zuständige Stelle (z. B. Ihre KV oder die zuständige Datenstelle).
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 
 ---
@@ -141,6 +150,8 @@ Bitte beachten Sie, dass eine gleichzeitige Teilnahme für folgende Indikationen
 
 Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst- oder Folgedokumentation) für die jeweils ausgewählte  Indikation angeben. Dabei ist es möglich, die diagnosebezogen unterschiedlichen
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
+
 
 ---
 
@@ -177,6 +188,8 @@ Erfolgt die Angabe im Rahmen einer Dokumentation zu  **Jugendlichen** werden. Au
 Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen sowie bei Teilnehmenden an einem DMP  **Jugendlichen**
 
 Bei allen Patientinnen und Patienten ab dem vollendeten 18. Lebensjahren, die an einem  DMP Asthma teilnehmen, ist die Angabe verpflichtend.
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 , muss die aktuelle Körpergröße bei jeder Dokumentation angegeben
 
@@ -230,6 +243,8 @@ Das Dokumentationsintervall ist in Abhängigkeit vom Krankheitsstatus unter  Ber
 Eine Angabe ist verpflichtend.
 
 Hier ist das Datum der Erstellung der Dokumentation einzutragen. Es dient zur  Feststellung, ob die Dokumentation im dafür geplanten Intervall ausgestellt wurde. Es  kann durch Sie nach Abschluss der Dokumentation nicht mehr verändert werden.
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 **DMP zu Diabetes mellitus**
 

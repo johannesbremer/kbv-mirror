@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. JULI 2026**
+**01. AUGUST 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -15,8 +15,25 @@
 
 ---
 
-| Kontaktdaten | Prüfnummer | Prüfnummer gültig bis |
-|---|---|---|
-|  | Y/170/2605/36/782 |  |
+|  | Kontaktdaten |  |  |
+|---|---|---|---|
+| **AOK** | **NAVIDA** |  |  |
+| **AOK** | **PLUS** |  |  |
+| Sternplatz | 7 |  |  |
+| 01067 | Dresden |  |  |
+| Internet: |  | Https://www.aok.de/pk/plus/ | |
+| **Meine** | **SBK** |  |  |
+|  |  | **Siemens-Betriebskrankenkasse** | **(SBK)** |
+|  | Ganghoferstraße | 29 |  |
+| 80339 | München |  |  |
+| Internet: |  | www.sbk.org |  |
 
-Meine SBK Siemens-Betriebskrankenkasse (SBK) Ganghoferstraße 29 80339 München Internet: www.sbk.org 30.04.2029Seite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 25. Juli 2026
+**Prüfnummer**
+
+**Prüfnummer gültig bis**
+
+Y/170/2607/36/783 30.06.2029
+
+Y/170/2605/36/782 30.04.2029
+
+AOK NAVIDA AOK PLUS Sternplatz 7 01067 Dresden Internet: Https://www.aok.de/pk/plus/ Meine SBK Siemens-Betriebskrankenkasse (SBK) Ganghoferstraße 29 80339 München Internet: www.sbk.orgSeite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 01. August 2026

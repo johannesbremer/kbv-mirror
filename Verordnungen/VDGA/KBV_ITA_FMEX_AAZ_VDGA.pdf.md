@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_FMEX_AAZ_VDGA]
 
+Seite 1 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / 21. Februar 2024
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
 
 
@@ -44,7 +46,10 @@ Antragsteller ist die juristische oder natürliche Person, die für die Einhaltu
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
-Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht]
+Seite 2 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / Version: 1.2 / 21. Februar 2024
+
+Rechtsform anzugeben] Systempfleger vom Antragsteller abweicht] 
+
 
 ---
 
@@ -76,6 +81,10 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 |---|---|---|---|---|---|
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
+
+Antragsteller:
+
+Seite 3 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / Version: 1.2 / 21. Februar 2024
 
 Antragstellers Stellen der Prüfnummer, falls vorhanden] 
 
@@ -110,8 +119,11 @@ Folgende optionale Funktionen wurden umgesetzt:
 | **O3-040** | Eine von Produktwerbung freie Version der  Werbefreie Verordnungssoftware | ☐ |
 | **O4-221** | Anzeige nicht verordnungsfähiger DiGA-Verordnungseinheiten | ☐ |
 
-SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V erfüllt sind. NUMMER wird angeboten Ebene BITTE ANKREUZEN  Dritte NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN 
+Seite 4 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / Version: 1.2 / 21. Februar 2024
 
+Antragsteller:
+
+SGB V zur Verordnung von Digitalen Gesundheitsanwendungen nach § 33a SGB V erfüllt sind. NUMMER wird angeboten Ebene BITTE ANKREUZEN  Dritte NUMMER Verordnungssoftware wird angeboten BITTE ANKREUZEN
 
 ---
 
@@ -134,10 +146,18 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **Telefonnummer** |  |
 | **E-Mail-Adresse** |  |
 
+________________
+
 Diese Information ist verpflichtend anzugeben
+
+Seite 5 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / Version: 1.2 / 21. Februar 2024
+
+Antragsteller:
 
 
 ---
+
+Antragsteller:
 
 # 4 KENNTNISNAHME DURCH DEN ANTRAGSTELLER
 
@@ -162,8 +182,11 @@ Diese Information ist verpflichtend anzugeben
 - (3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  der KBV“ [KBV_ITA_RLEX_Zert], sowie zukünftige Aktualisierungen dieser Richtlinie.
 - (4) Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der  Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
 
-Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung
+Seite 6 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / Version: 1.2 / 21. Februar 2024
+
+Rezertifizierung 
 
 
 ---
@@ -174,6 +197,10 @@ Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus d
 - (3) Der Widerruf hat zur Folge, dass Kassenärztliche Vereinigungen, Datenannahmestellen und  Kostenträgerstellen, die mit dem Zertifizierungsgegenstand erstellten Daten zurückweisen können.
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
+
+Antragsteller:
+
+Seite 7 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / Version: 1.2 / 21. Februar 2024
 
 ---
 
@@ -190,3 +217,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Antragsteller:
+
+Seite 8 von 8 / KBV / Antrag auf Zertifizierung Verordnung von DiGA / Version: 1.2 / 21. Februar 2024

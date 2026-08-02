@@ -36,12 +36,15 @@ Hier ist Platz für weitere Anmerkungen (z.B. Rückruf durch die Krankenkasse). 
 
 Nach erfolgter Prüfung teilt die Krankenkasse Ihnen mit, ob die Krankenkasse, die Rentenversicherung oder ein  anderer Träger zuständig ist. Wenn die Krankenkasse zuständig ist, füllen Sie bitte die Teile B bis E des Vor-drucks aus. Wenn die Rentenversicherung zuständig ist, sendet die Krankenkasse Ihnen den Vordruck der Ren-tenversicherung zu.
 
+Seite 1 von 9 / KBV / Muster 61
+
+VERORDNUNG VON MEDIZINISCHER REHABILITATION / 1. Juli 2022
 
 ---
 
-> [OCR REQUIRED — page 2]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 2 von 9 / KBV / Muster 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION /
 
+1. Juli 2022
 
 ---
 
@@ -85,6 +88,7 @@ Geben Sie in den Abschnitten D bis E bitte die bisher durchgeführten Leistungen
 
 Geben Sie hier bitte die Beeinträchtigungen und den Unterstützungsbedarf der Patientin / des Patienten an.  Relevant sind Beeinträchtigungen, die nicht nur vorübergehend sind. Die Kategorien „Mobilität“ und „Selbst-versorgung“ sind untergliedert dargestellt. Hier kann ein übergeordnetes Kreuz gesetzt werden, falls keinerlei  Beeinträchtigungen vorliegen.
 
+Seite 3 von 9 / KBV / Muster 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION / 1. Juli 2022
 
 ---
 
@@ -132,6 +136,7 @@ Bitte geben Sie hier an, ob die Patientin / der Patient in der Lage ist, mit öf
 
 Hier können Angaben zur möglichen Versorgung der/des Pflegebedürftigen während der stationären Rehabili-tation der/des pflegenden Angehörigen gemacht werden. Sofern die Mitaufnahme der/des Pflegebedürftigen  in derselben Einrichtung, d.h. der Rehabilitationseinrichtung oder die Koordination der Versorgung in einer
 
+Seite 4 von 9 / KBV / Muster 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION / 1. Juli 2022
 
 ---
 
@@ -153,26 +158,30 @@ Der Inhalt der abgegebenen Einwilligungen der oder des Versicherten ist durch di
 
 Sofern die oder der Versicherte die Einwilligung nach Punkt VIII A. 2. positiv vornimmt, ist darauf hinzuweisen,  dass vor einer Weitergabe der Verordnung durch die oder den Versicherten konkrete Angaben zu den Angehö-rigen und Vertrauenspersonen sowie Pflege- und Betreuungseinrichtungen vorzunehmen sind. Die jeweiligen  Angaben sind durch die oder den Versicherten vorzunehmen.
 
+Seite 5 von 9 / KBV / Muster 61
+
+VERORDNUNG VON MEDIZINISCHER REHABILITATION / 1. Juli 2022
 
 ---
 
-> [OCR REQUIRED — page 6]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 6 von 9 / KBV / Muster 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION /
 
-
----
-
-> [OCR REQUIRED — page 7]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
-
+1. Juli 2022
 
 ---
 
-> [OCR REQUIRED — page 8]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 7 von 9 / KBV / Muster 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION /
 
+1. Juli 2022
 
 ---
 
-> [OCR REQUIRED — page 9]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 8 von 9 / KBV / Muster 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION /
+
+1. Juli 2022
+
+---
+
+Seite 9 von 9 / KBV / Muster 61  VERORDNUNG VON MEDIZINISCHER REHABILITATION /
+
+1. Juli 2022

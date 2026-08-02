@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_EMPFEHLUNG_BEI_LDT2]
 
+Seite 1 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -30,6 +32,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 8  2.3 Erweiterung der Satzart 8203 10
 
+Seite 2 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
 ---
 
 DOKUMENTENHISTORIE
@@ -42,6 +46,8 @@ DOKUMENTENHISTORIE
 | 1.03 | 13.11.2020 | KBV | Nutzung der Feldkennung  Aufnahme der Feldkennung  Anpassung der erlaubten In- Anpassung der Feldart der  Anpassung der Bedingungen | Änderung der Muster | 5  8, 10  5, 8, 10  5, 8, 10  5, 8, 10 |
 | 1.02 | 30.07.2020 | KBV | Aufnahme der Feldkennun- Anpassung der erlaubten In- Aufnahme der Feldkennun- Anpassung des Vorkommens | Änderung des Musters    Anpassung an die Vorga- Anpassung an Muster | 5    8, 10  5 |
 
+Seite 3 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
 8201, 8203 und 8218 gestri- chen 8632 in den Satzarten 8201, 8203 und 8218 geändert halte der Feldkennung 8617 8631 und 8632 in die Satzar- ten 8201, 8203 und 8218 4111 in der Satzart 8218 4111 in die Satzarten 8201 und 8203 halte der Feldkennungen 8617, 8624 und 8626 Feldkennung 8620 der Feldkennungen 8626, 8627, 8617, 8618, 8619, 8620 gen 8626 und 8627 halte und des Vorkommens der Feldkennung 8617 gen 8616, 8617, 8618, 8619, 8620, 8623, 8625, 8626, 8627 in die Satzarten 8201 und 8203 der Feldkennung 8620 OEGD zur Befüllung der Felder Beauftragungsgrund, Be- stätigungsdiagnostik und Virusvariantendiagnostik des Musters OEGD und deren Abbildung auf die TestV-Datensatzart LAB- TEST OEGD 10C und OEGD OEGD ben zu den Pflichten der Leistungserbringer 10C und OEGD
 
 ---
@@ -51,6 +57,8 @@ DOKUMENTENHISTORIE
 |  |  |  |  |  | Anpassung der Feldart der |
 | 1.01 | 26.06.2020 | KBV | Korrektur der Länge der |  | 7 |
 | 1.00 | 25.06.2020 | KBV |  |  | Alle |
+
+Seite 4 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
 
 Feldkennungen 8617, 8618, 8620 und 8624 GUID in der Satzart 8218 
 
@@ -78,7 +86,10 @@ Zwischen den Feldkennungen **4208** und **4217** sollten die nachfolgenden Feldk
 | **8627** | 1 | KV-Sonderziffer | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
 | **8617** | 1 | Beauftragungsgrund | m | Wenn Inhalt von FK 8626 = 1, muss  Entweder darf FK 8617 oder FK 8624  Wenn Inhalt von FK 8626 = 3, darf FK |
 
-vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. 8617, 8618, 8619 und 8620 nicht vor- handen sein. 8617 vorhanden sein. entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine be- liebige Kombination der zwei drei Feld- kennungen vorhanden sein. vorhanden sein.  8617 nicht vorhanden sein.
+Seite 5 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+vorhanden sein.  entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. 8617, 8618, 8619 und 8620 nicht vor- handen sein. 8617 vorhanden sein. entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine be- liebige Kombination der zwei drei Feld- kennungen vorhanden sein. vorhanden sein.  8617 nicht vorhanden sein. 
+
 
 ---
 
@@ -102,7 +113,11 @@ Für die Feldkennung  Regel zusätzlich anzuwenden: **4111**, welche bereits in 
 |---|---|---|---|---|
 | **4111** | 1 | Kostentraegerkennung | m | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3, |
 
-min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vorhan- den sein. vorhanden sein.  8618 nicht vorhanden sein. vorhanden sein.  8619 nicht vorhanden sein. 8620 nicht vorhanden sein. chen ÖGD vorhanden sein.  vorhanden sein. testeten entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein. Die Feldkennungen sollten wie folgt definiert werden:
+Die Feldkennungen sollten wie folgt definiert werden:
+
+Seite 6 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vorhan- den sein. vorhanden sein.  8618 nicht vorhanden sein. vorhanden sein.  8619 nicht vorhanden sein. 8620 nicht vorhanden sein. chen ÖGD vorhanden sein.  vorhanden sein. testeten entweder FK 8627 oder FK 4111 vor- handen sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein. 
 
 
 ---
@@ -120,7 +135,10 @@ min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldke
 | **8621** | Einverständnis | 1 | num | 1 = ja | Muster 10C  Muster OEDG |
 | **8622** | Corona-GUID | 43 | alnum | Die eindeutige GUID wird nach den   o   | Muster 10C  Muster OEDG |
 
-mer des Getes- teten grund / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung TestV nach positivem Antigentest gebracht in folgenden Vorgaben erzeugt:  Aufbau ist GUID: <XXXXXX>- <UUID>. Komplette Form des Strings: XXXXXX- XXXXXXXX-XXXX-XXXX- XXXX-XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zu- gehörigen Separatoren er- zeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl er- zeugt, welche ggf. linksbündig mit “0” gefüllt werden kann.
+Seite 7 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+mer des Getes- teten grund / CWA 3 = Test nach § 3 TestV Ausbruchsge- schehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung TestV nach positivem Antigentest gebracht in folgenden Vorgaben erzeugt:  Aufbau ist GUID: <XXXXXX>- <UUID>. Komplette Form des Strings: XXXXXX- XXXXXXXX-XXXX-XXXX- XXXX-XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zu- gehörigen Separatoren er- zeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl er- zeugt, welche ggf. linksbündig mit “0” gefüllt werden kann. 
+
 
 ---
 
@@ -154,7 +172,10 @@ Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 | **8616** | 1 | Testungen | K |  |
 | **8626** | 1 | Rechtsgrundlage der Tes- | K | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3,  Wenn Inhalt von FK 8626 = 3, darf  Wenn Inhalt von FK 8626 = 1, muss |
 
-3D6D08-3567F3F2-4DCF-43A3-8737- 4CD1F87D6FDA tion/Aktenzei- chen ÖGD gung lage der Tes- tung 2 = Regionale Sondervereinbarung 3 = Selbstzahler entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. FK 8617, 8618, 8619 und 8620 nicht vorhanden sein. FK 8617 vorhanden sein.
+Seite 8 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+3D6D08-3567F3F2-4DCF-43A3-8737- 4CD1F87D6FDA tion/Aktenzei- chen ÖGD gung lage der Tes- tung 2 = Regionale Sondervereinbarung 3 = Selbstzahler entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. FK 8617, 8618, 8619 und 8620 nicht vorhanden sein. FK 8617 vorhanden sein. 
+
 
 ---
 
@@ -172,7 +193,11 @@ Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 | **8623** | 1 | Identifikation/Aktenzei- | K |  |
 | **8625** | 1 | PLZ ÖGD | K |  |
 
-entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhan- den sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine beliebige Kombination der zwei Feldkennungen vorhanden sein. FK 8617 nicht vorhanden sein. entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei Feldkennungen vorhanden sein. 8619 vorhanden sein.  FK 8618 nicht vorhanden sein. 8619 vorhanden sein.  FK 8619 nicht vorhanden sein. FK 8620 nicht vorhanden sein. chen ÖGD Die Feldkennungen sollten wie folgt definiert werden:
+Die Feldkennungen sollten wie folgt definiert werden:
+
+Seite 9 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhan- den sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine beliebige Kombination der zwei Feldkennungen vorhanden sein. FK 8617 nicht vorhanden sein. entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei Feldkennungen vorhanden sein. 8619 vorhanden sein.  FK 8618 nicht vorhanden sein. 8619 vorhanden sein.  FK 8619 nicht vorhanden sein. FK 8620 nicht vorhanden sein. chen ÖGD 
 
 
 ---
@@ -201,7 +226,10 @@ Nach der Feldkennung **8311** sollte die folgende Feldkennung ergänzt werden:
 | **8616** | 1 | Testungen | K |  |
 | **8626** | 1 | Rechtsgrundlage der Tes- | K | Wenn Inhalt von FK 8626 = 2, muss  Wenn Inhalt von FK 8626 = 1 oder 3,  Wenn Inhalt von FK 8626 = 3, darf |
 
-bracht in richtung richtung tenzeichen ÖGD der Testung entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. FK 8617, 8618, 8619 und 8620 nicht vorhanden sein.
+Seite 10 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+bracht in richtung richtung tenzeichen ÖGD der Testung entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 8627 und FK 4111 nicht vor- handen sein. FK 8617, 8618, 8619 und 8620 nicht vorhanden sein. 
+
 
 ---
 
@@ -220,7 +248,12 @@ bracht in richtung richtung tenzeichen ÖGD der Testung entweder FK 8627 oder FK
 | **8623** | 1 | Identifikation/Aktenzei- | K |  |
 | **8625** | 1 | PLZ ÖGD | K |  |
 
-FK 8617 vorhanden sein. entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhan- den sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine beliebige Kombination der zwei drei Feldkennungen vorhanden sein. FK 8617 nicht vorhanden sein. entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vor- handen sein. 8619 vorhanden sein.  FK 8618 nicht vorhanden sein. 8619 vorhanden sein.  FK 8619 nicht vorhanden sein. FK 8620 nicht vorhanden sein. chen ÖGD
+Seite 11 von 12 / KBV /
+
+Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+FK 8617 vorhanden sein. entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. dann darf die FK 8627 nicht vorhan- den sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein. Es kann eine beliebige Kombination der zwei drei Feldkennungen vorhanden sein. FK 8617 nicht vorhanden sein. entweder FK 8627 oder FK 4111 vorhanden sein. Beide Feldkennun- gen dürfen gleichzeitig vorhanden sein. darf FK 4111 nicht vorhanden sein. min. die FK 8617 oder FK 8631 oder FK 8632 vorhanden sein.  der zwei drei Feldkennungen vor- handen sein. 8619 vorhanden sein.  FK 8618 nicht vorhanden sein. 8619 vorhanden sein.  FK 8619 nicht vorhanden sein. FK 8620 nicht vorhanden sein. chen ÖGD 
+
 
 ---
 
@@ -247,4 +280,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-bracht in richtung richtung tenzeichen ÖGD der Testung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 12 von 12 / KBV / Empfehlung zur Erweiterung des LDT2 / Version: 1.06 / 14. Februar 2022
+
+bracht in richtung richtung tenzeichen ÖGD der Testung

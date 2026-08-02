@@ -11,8 +11,7 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_KVDT_HYBRID-DRG]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS     
-
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
@@ -42,6 +41,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **8**
 
+Seite 2 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
+
 ---
 
 DOKUMENTENHISTORIE
@@ -55,8 +56,9 @@ DOKUMENTENHISTORIE
 | 1.1 | 16.10.2024 | KBV | Aktualisierungen | - | Alle |
 | 1.0 | 17.09.2024 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 
-Änderung der Vorgaben in Pruffall 1 und 2  Löschung von Prüffall 3 korrigiert 
+Seite 3 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
+Änderung der Vorgaben in Pruffall 1 und 2  Löschung von Prüffall 3 korrigiert
 
 ---
 
@@ -90,6 +92,7 @@ Die Versichertendaten der Testpatienten enthalten alle für jeden Prüffall die 
 
 Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder über das Einlesen (mit einer  sogenannten Import-Schnittstelle) der XML-Datei realisiert werden oder die Daten können im  Ersatzverfahren bzw. händisch erfasst werden.
 
+Seite 4 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
 ---
 
@@ -132,6 +135,9 @@ Die Erfassung der Patientendaten in den einzelnen Prüffällen kann entweder üb
 | **Versicherungsschutz Beginn** | 20.10.2024 |
 | **Versicherungsschutz Ende** | 31.12.2040 |
 
+Seite 5 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 /
+
+13. Januar 2025
 
 ---
 
@@ -172,10 +178,14 @@ Sofern zur Bearbeitung der Prüffälle Praxisdaten benötigt werden, können die
 
 Bevor die Abrechnungsdateien (pro eingereichten Prüffall eine Datei) hochgeladen werden, müssen diese  unter Verwendung des XPM-Prüfmoduls für das erste Quartal 2025 fehlerfrei geprüft werden. Die Daten  sind anschließend mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen Testschlüssels zu
 
+Seite 6 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
+
 
 ---
 
 verschlüsseln. Die Verschlüsselung wird im Arbeitsmodus *TEST_Verschluesselung* vorgenommen. Hierfür ist  [der dazu bestimmte](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[zu verwenden.](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
+
+Seite 7 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
 ---
 
@@ -193,6 +203,8 @@ Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn
 [](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
 [](https://www.drg-research-group.de/index.php?option=com_webgrouper&view=webgrouper&Itemid=112)
 ```
+
+Seite 8 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
 ---
 
@@ -216,8 +228,9 @@ Falls die verwendete Groupersoftware alternativ zu den Datumsangaben für Beginn
 | **FK 6010** | Seitenlokalisation Hauptdiagnose | L |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
 
-Prüfunterlagen Leistungserbringung Vertragsarztes/ 
+Seite 9 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
+Prüfunterlagen Leistungserbringung Vertragsarztes/
 
 ---
 
@@ -237,5 +250,7 @@ Prüfunterlagen Leistungserbringung Vertragsarztes/
 | **FK 5099** | Lebenslange Arztnummer (LANR) des | 776299002 |
 | **FK 6009** | Hauptdiagnose | K40.20 |
 | **Einzureichende** | .XKM-Abrechnungsdatei mit Testschlüssel verschlüsselt | |
+
+Seite 10 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
 Prüfunterlagen Leistungserbringung Vertragsarztes/Vertragspsychotherapeut

@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Molekulargenetik 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft 
+Molekulargenetik 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2018
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 ### DOKUMENTENHISTORIE
 
@@ -25,7 +27,9 @@ Molekulargenetik 1.12 Datum: 11.04.2014 Kennzeichnung: Öffentlich  Status: In K
 | 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an neues Layout |  |
 | 1.00 | 21.05.2012 | KBV | neues Dokument |  |  |
 
-bzgl. veralteter Links überarbeitet 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+bzgl. veralteter Links überarbeitet Seite 2 von 25
 
 
 ---
@@ -104,8 +108,16 @@ bzgl. veralteter Links überarbeitet
 
 4.3.9 unterauftrag_anzahl ............................................................................................................. 23
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 3 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 4.3.10 einsender_lanr_anzahl .................................................................................................... 23
 
@@ -121,7 +133,14 @@ bzgl. veralteter Links überarbeitet
 
 **25**
 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 4 von 25
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 #### ABBILDUNGSVERZEICHNIS
 
@@ -153,6 +172,11 @@ bzgl. veralteter Links überarbeitet
 
 **Abbildung 14 - Element fachgruppe_einsender_liste/fachgruppe_einsender ................ 24**
 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 5 von 25
+
+
 ---
 
 #### TABELLENVERZEICHNIS
@@ -163,7 +187,16 @@ bzgl. veralteter Links überarbeitet
 
 **Tabelle 3 – Beschreibung sonstiger Symbole ................................................................... 11**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 6 von 25
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 #### XML- CODE VERZEICHNIS
 
@@ -178,6 +211,11 @@ bzgl. veralteter Links überarbeitet
 **XML-Code 5 - id (Software) ................................................................................................. 16**
 
 **XML-Code 6 - qsmg dokumentation ................................................................................... 19**
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 7 von 25
+
 
 ---
 
@@ -198,6 +236,12 @@ Der Leser soll erfahren was er tun muss, um die Jahresstatistik über die Schnit
 ## 1.2 Zielgruppen
 
 Das Dokument richtet sich an Hersteller von Praxisverwaltungs- bzw. Arztinformationssyste-men, die Aufrufe der Schnittstelle in ein Softwareprodukt einbinden wollen.
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 8 von 25
 
 
 ---
@@ -221,6 +265,12 @@ T-Tag, M-Monat, J-Jahr, h-Stunden, m-Minuten, s-Sekunden
 Beispiel:
 
 -  qsmg_1.00_123456789_du+20120520140200.xml
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 9 von 25
 
 
 ---
@@ -252,9 +302,16 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 2 – Beschreibung der Strukturelement-Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen.
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Existieren keine Daten zu diesem Element, wird es nicht angegeben. Das Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch unendlich mal auftreten kann.  drückt z.B. elementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Seite 10 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 ## 3.3 Sonstige Symbole
 
@@ -267,10 +324,16 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Datentyp: Ein Rechteck mit zwei abgeflachten Ecken symboli- |
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein |
 
-zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. **Tabelle 3 – Beschreibung sonstiger Symbole**
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+**Tabelle 3 – Beschreibung sonstiger Symbole**
+
+zeichen am Rechteckrand symbolisiert. das Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. siert einen Datentyp.  Gruppenelement dar, welches verschiedene Elemente zusam- menfasst. Seite 11 von 25
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 # 4. Beschreibung der ehd-Schnittstelle
 
@@ -308,14 +371,22 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 
 Das Attribut ehd_version gibt die Version der EHD-Spezifikation  auf der diese Schnittstelle aufbaut.
 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
 . Damit entspricht
 
 *ehd*, welches sich aus
 
-[KBV_ITA_VGEX_eHD] an,
+[KBV_ITA_VGEX_eHD]
+
+an,
+
+Seite 12 von 25
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 ## 4.1 Element header
 
@@ -347,6 +418,11 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Besc
 
 **Abbildung 4 - Element document_relationship**
 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 13 von 25
+
+
 ---
 
 \| <ehd:document_relationship>  <ehd:document_relationship.type_cd V="RPLC"/>  <ehd:related_document> **<** </ehd:related_document>  </ehd:document_relationship> |
@@ -370,7 +446,13 @@ Betriebsstättennummer, (id-Element EX-Attribut enthält die Betriebsstätten-nu
 - o *interface.nm*-Element im V-Attribut ist der Wert: „QS Molekulargenetik“ fest  vorgeschrieben.
 - o *version* im V-Attribut wird die Version der Schemata eingetragen (z.B. „1.00“).
 
-id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/> **Abbildung 6 - Element interface**
+**Abbildung 6 - Element interface**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+id EX=" ag111105-2d51-4016-831e-cbd9e1a318h9 " RT="278012312"/> Seite 14 von 25
 
 
 ---
@@ -388,9 +470,16 @@ Die Information über die Software und deren Verantwortliche wird mittels der Sc
 
 **Abbildung 7 - Element sciphox:Software**
 
-<ehd:header> <ehd:id RT="123456789" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSMG"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSMG" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Molekulargenetik"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+<ehd:header> <ehd:id RT="123456789" EX="ag111105-2d51-4016-831e-cbd9e1a318h9"/> <ehd:document_type_cd V="QSMG"/> <ehd:origination_dttm V="2013-02-02"/> <ehd:provider> <ehd:person> <ehd:id EX="555333222" RT="1.2.276.0.76.4.16"/> <ehd:organization> <ehd:id EX="123456789" RT="1.2.276.0.76.4.17"/> </ehd:provider> <ehd:interface> <ehd:id EX="QSMG" RT="1.2.276.0.76.5.109"/> <ehd:interface.nm V="QS Molekulargenetik"/> <ehd:version V="1.00"/> <ehd:/interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/>  </sciphox:Software> </sciphox:sciphox-ssu> </ehd:local_heaer> Seite 15 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
@@ -422,8 +511,14 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 *EX* und *RT*. Das *EX*-Attribut erhält
 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 16 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 ## 4.2 Element body
 
@@ -445,7 +540,11 @@ enthält die QS Molekulargenetik Jahresstatistik.
 
 **Abbildung 9 - Element qsmg_dokumentation**
 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
 *qsmg_body_typ*. Das Kindelement in die-
+
+Seite 17 von 25
 
 
 ---
@@ -454,15 +553,25 @@ enthält die QS Molekulargenetik Jahresstatistik.
 \|---|
 \| Die Jahresstatistik enthält weitere Elemente die nachfolgend beschrieben werden.    XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qsmg:qsmg_dokumentation xmlns:qsmg="urn:ehd/qsmg/001"> |
 
-<behandlungsfall_anzahl V="1500 "/> <diagnostische_fragestellung> <behandlungsfall_anzahl V="700"/> <pathologischer_befund_anzahl V="300"/> <unauffaelliger_befund_anzahl V="300"/> <nichtbeurteilbarer_befund_anzahl V="100"/> </diagnostische_fragestellung> <praediktive_fragestellung> <behandlungsfall_anzahl V="500"/> <pathologischer_befund_anzahl V="200"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="200"/> </praediktive_fragestellung> <vorgeburtliche_fragestellung> <behandlungsfall_anzahl V="300"/> <pathologischer_befund_anzahl V="100"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="100"/> </vorgeburtliche_fragestellung> <leistung_liste> <leistung> <gop=" 11395"/> <gop_anzahl V="1200"/> <pathologischer_befund_anzahl V="600"/> <unauffaelliger_befund_anzahl V="400"/> <nichtbeurteilbarer_befund_anzahl V="200"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="02"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> </leistung> <leistung> <gop=" 11432"/> <gop_anzahl V="500"/> <pathologischer_befund_anzahl V="100"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="300"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="200"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="05"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> </leistung> </leistung_liste> <quotient_pathologisch> <gop_anzahl V="700"/> <befund_anzahl V="600"/>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+<behandlungsfall_anzahl V="1500 "/> <diagnostische_fragestellung> <behandlungsfall_anzahl V="700"/> <pathologischer_befund_anzahl V="300"/> <unauffaelliger_befund_anzahl V="300"/> <nichtbeurteilbarer_befund_anzahl V="100"/> </diagnostische_fragestellung> <praediktive_fragestellung> <behandlungsfall_anzahl V="500"/> <pathologischer_befund_anzahl V="200"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="200"/> </praediktive_fragestellung> <vorgeburtliche_fragestellung> <behandlungsfall_anzahl V="300"/> <pathologischer_befund_anzahl V="100"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="100"/> </vorgeburtliche_fragestellung> <leistung_liste> <leistung> <gop=" 11395"/> <gop_anzahl V="1200"/> <pathologischer_befund_anzahl V="600"/> <unauffaelliger_befund_anzahl V="400"/> <nichtbeurteilbarer_befund_anzahl V="200"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="02"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> </leistung> <leistung> <gop=" 11432"/> <gop_anzahl V="500"/> <pathologischer_befund_anzahl V="100"/> <unauffaelliger_befund_anzahl V="100"/> <nichtbeurteilbarer_befund_anzahl V="300"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="200"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="05"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> </leistung> </leistung_liste> <quotient_pathologisch> <gop_anzahl V="700"/> <befund_anzahl V="600"/> Seite 18 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 \| </qsmg:qsmg_dokumentation> XML-Code 6 - qsmg dokumentation    4.3.1  Die Anzahl (nonNegativeInteger   4.3.2  Behandlungsfälle mit diagnostischer Fragestellung werden hier dokumentiert. Das Element  1 [2] nur ganze Zahlen im positiven Bereich inklusive „0“.  1) aller Behandlungsfälle wird hier im V-Attribut angegeben. |
 \|---|
 \| </qsmg:qsmg_dokumentation> |
 
-<quotient V="1.16"/> </quotient_pathologisch> <quotient_unauffaellig> <gop_anzahl V="500 "/> <befund_anzahl V="500"/> <quotient V="1"/> </quotient_unauffaellig> <quotient_nichtbeurteilbar> <gop_anzahl V="500"/> <befund_anzahl V="400"/> <quotient V="1.25"/> </quotient_nichtbeurteilbar> <unterauftrag_anzahl V="300"/> <einsender_lanr_anzahl V="120"/> <einsender_bsnr_anzahl V="90"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="02"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="500"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="05"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> <produkt1_teilnahmehaufigkeit V="3"/> <produkt2_ringversuchszertifikat V="2"/> behandlungsfall_anzahl diagnostische_fragestellung enthält die folgenden Unterelemente: behandlungsfall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl  und nichtbeurteilbarer_befund_anzahl  Gemäß der W3C Spezifikation
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+<quotient V="1.16"/> </quotient_pathologisch> <quotient_unauffaellig> <gop_anzahl V="500 "/> <befund_anzahl V="500"/> <quotient V="1"/> </quotient_unauffaellig> <quotient_nichtbeurteilbar> <gop_anzahl V="500"/> <befund_anzahl V="400"/> <quotient V="1.25"/> </quotient_nichtbeurteilbar> <unterauftrag_anzahl V="300"/> <einsender_lanr_anzahl V="120"/> <einsender_bsnr_anzahl V="90"/> <fachgruppe_einsender_liste> <fachgruppe_einsender> <fachgruppe_nummer V="02"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="03"/> <einsendungen_anzahl V="500"/> </fachgruppe_einsender> <fachgruppe_einsender> <fachgruppe_nummer V="05"/> <einsendungen_anzahl V="300"/> </fachgruppe_einsender> </fachgruppe_einsender_liste> <produkt1_teilnahmehaufigkeit V="3"/> <produkt2_ringversuchszertifikat V="2"/> behandlungsfall_anzahl diagnostische_fragestellung enthält die folgenden Unterelemente: behandlungsfall_anzahl, pathologischer_befund_anzahl, unauffaelliger_befund_anzahl  und nichtbeurteilbarer_befund_anzahl  Gemäß der W3C Spezifikation Seite 19 von 25
+
 
 ---
 
@@ -496,8 +605,16 @@ Behandlungsfälle mit vorgeburtlicher Fragestellung werden hier dokumentiert. Da
 
 Alle Angaben in den Kindelementen sind ähnlich wie in <*diagnostische_fragestellung*>, bezie-hen sich jedoch auf die Behandlungsfälle mit vorgeburtlicher Fragestellung.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 20 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 ### 4.3.5 leistung_liste/leistung
 
@@ -529,7 +646,7 @@ Die Anzahl (nonNegativeInteger) der Leistungen (GOP) aus Kapitel  nicht beurteil
 
 Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei-sung), wird ermittelt. Aus der erfassten LANR des Überweisers (nach Muster 10 und 10a) je  Behandlungsfall wird die Fachgruppe (8.-9. Stelle der LANR) bestimmt.
 
-4.3.5.1, die zu einem pa-
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12 4.3.5.1, die zu einem pa-
 
 4.3.5.1, die zu einem un-
 
@@ -539,8 +656,12 @@ Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (�
 
 , die zu einem
 
+Seite 21 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 Das optionale Element fachgruppe_einsender_liste wird nur dann gefüllt, wenn  >= 150 ist. Wurden mehrere Fachgruppen ermittelt, wird für jede Fachgruppe das Element  *fachgruppe_einsender* und die Anzahl der Einsendungen angegeben.
 
@@ -572,14 +693,20 @@ Die Anzahl der Behandlungsfälle mit pathologischem Befund. Angabe erfolgt im V-
 
 Der Quotient (Float mit max. zwei Nachkommastellen) wird wie folgt berechnet:  *befund_anzahl.* Die Angabe erfolgt im V-Attribut.
 
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
 *gop_anzahl*
 
 *gop_anzahl, be-*
 
 *gop_anzahl /*
 
+Seite 22 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 ### 4.3.7 quotient_unauffaellig
 
@@ -621,13 +748,17 @@ Die Anzahl (nonNegativeInteger) der Behandlungsfälle, für die ein Unterauftrag
 
 Die Anzahl der Ärzte, die eine Probe zur genetischen Analyse geschickt haben (Überwei-sung), wird ermittelt. Diese Anzahl (nonNegativeInteger) aller LANRn, für die eine Überwei-
 
-*quotient_pathologisch* (Kapitel 4.3.6) iden-
-
-*gop_anzahl /*
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
 
 *quotient_pathologisch* (Kapitel 4.3.6) iden-
 
 *gop_anzahl /*
+
+*quotient_pathologisch* (Kapitel 4.3.6) iden-
+
+*gop_anzahl /*
+
+Seite 23 von 25
 
 
 ---
@@ -660,8 +791,16 @@ Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und de
 
 Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und erteilter Zer-tifikate im Jahr für diese Untersuchung wird hier im V-Attribut angegeben.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 24 von 25
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung QS Molekulargenetik
 
 # 5. Referenzierte Dokumente
 
@@ -670,3 +809,7 @@ Das Produkt (nonNegativeInteger) aus ringversuchspflichtiger Untersuchung und er
 | [KBV_ITA_VGEX_eHD] | Richtlinie ehd - eHealthData |
 | [1] | Qualitätssicherungsvereinbarung Molekulargenetik  http://www.kbv.de/html/themen_2846.php |
 | [2] | XML Schema Part 0: Primer Second Edition  http://www.w3.org/TR/xmlschema-0/ |
+
+KBV_ITA_VGEX_Schnittstelle_QSMG * Version 1.12
+
+Seite 25 von 25

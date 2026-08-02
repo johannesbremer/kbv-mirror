@@ -11,7 +11,7 @@
 
 ## KBV_ITA_VGEX_SCHNITTSTELLE_SDHDRG
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT 
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT Seite 1 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -83,7 +83,8 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT
 
 **15**
 
-Kardinalität
+Kardinalität Seite 2 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
 
 ---
 
@@ -99,6 +100,8 @@ Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements  Tabelle 2: Besch
 
 XML-Code 1: /ehd  XML-Code 2: sdhdrg_stammdaten  XML-Code 3: leistungsbereich_liste  XML-Code 4: leistungsbereich  XML-Code 5: hybrid_drg_liste  XML-Code 6: hybrid_drg  XML-Code 7: name  XML-Code 8: bewertung  XML-Code 9: ohne_postoperativ  XML-Code 10: mit_postoperativ  XML-Code 11: ops_liste  XML-Code 12: ops  XML-Code 13: hinweis
 
+Seite 3 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
 8  9  10  10  11  11  12  12  13  13  14  14  14  6  7  7  8  9  10  10  11  11  12  12  13  13  14  14  14
 
 
@@ -111,7 +114,7 @@ DOKUMENTENSTATUS
 | 2.0.0 | 14.11.2025 | KBV | Streichung des OPS-Zweiges    Aufnahme des OPS-Zweiges |  | 9,10,13 |
 | 1.0.0 | 08.01.2025 | KBV | neues Dokument |  | alle |
 
-unter dem XML-Zweig <leistungsbereich> unter dem XML-Element <sdhdrg_stammdaten> 
+unter dem XML-Zweig <leistungsbereich> unter dem XML-Element <sdhdrg_stammdaten> Seite 4 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -160,6 +163,8 @@ tf+..………… timeframe (YYYYqQ)
 
 YYYY ........ Jahr
 
+Seite 5 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
 
 ---
 
@@ -191,7 +196,9 @@ Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements
 
 ### 2.5.2 Strukturelemente
 
-Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. wird die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis reichen.  (unbounded) Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** ***<xs:sequence>***
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** ***<xs:sequence>***
+
+Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. wird die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis reichen.  (unbounded) Seite 6 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -216,7 +223,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 Tabelle 3: Beschreibung sonstiger Symbole
 
-<xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
+<xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. Seite 7 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -261,6 +268,9 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
+Seite 8 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
+
 ---
 
 # 4 HEADER (METADATEN)
@@ -303,6 +313,8 @@ XML-Code 2: sdhdrg_stammdaten
 
 Das Element ***<leistungsbereich_liste>*** beinhaltet die einzelnen Leistungsbereiche gemäß der Anlage 1 und 2 der  Hybrid-DRG-Vergütungsvereinbarung. Daher besitzt dieses Element mindestens ein Kindelement  ***<leistungsbereich>***
 
+Seite 9 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
 
 ---
 
@@ -328,11 +340,7 @@ XML-Code 3: leistungsbereich_liste
 
 Das Element ***<leistungsbereich>*** bildet jeweils einen Leistungsbereich gemäß der Anlage 1 und 2 der Hybrid-DRG-Vergütungsvereinbarung ab. Das V-Attribut enthält den Namen des Leistungsbereiches.
 
-Das Element ***<leistungsbereich>*** enthält die das Pflichtelemente
-
-| die | das Pflichtelemente |  |  | und *<ops_liste>.* |
-|---|---|---|---|---|
-|  |  |  | ***<hybrid_drg_liste>*** |  |
+Das Element ***<leistungsbereich>*** enthält die das Pflichtelemente ***<hybrid_drg_liste>*** und ***<ops_liste>***
 
 Abbildung 4: leistungsbereich
 
@@ -356,6 +364,8 @@ XML-Code 4: leistungsbereich
 ## 5.3 HYBRID_DRG_LISTE
 
 Das Element ***<hybrid_drg_liste>*** beinhaltet die einzelnen Hybrid-DRGs eines Leistungsbereichs gemäß der  Anlage 2 der Hybrid-DRG-Vergütungsvereinbarung. Die Hybrid-DRGs werden durch ein Kindelement  ***<hybrid_drg>*** abgebildet. Das Element ***<hybrid_drg_liste>*** besitzt mindestens ein Kindelement.
+
+Seite 10 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -403,6 +413,8 @@ XML-Code 6: hybrid_drg
 
 Das Element ***<name>*** enthält den Namen der Hybrid-DRG bzw. (in runden Klammern) die Kurzdefinition der  zugrunde liegenden Ursprungs-DRG des stationären DRG-Systems. Im V-Attribut ist der entsprechende Text  enthalten.
 
+Seite 11 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
 ***<hybrid_drg>*** Element hat folgenden Aufbau:
 
 
@@ -442,6 +454,8 @@ XML-Code 8: bewertung
 
 Das Element ***<ohne_postoperativ>*** enthält die Fallpauschale im Sinne der Leistungsabrechnung, wenn die  postoperative Nachbehandlung durch den Vertragsarzt erfolgt. Im V-Attribut ist der numerische Wert der  Fallpauschale enthalten. Im U-Attribut wird die Einheit gemäß der Schlüsseltabelle S_KBV_VALUTAEINHEIT
 
+Seite 12 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
 
 ---
 
@@ -470,6 +484,8 @@ XML-Code 10: mit_postoperativ
 ## 5.4 OPS_LISTE
 
 Das Element ***<ops_liste>*** beinhaltet die OPS-Kodes, welche eine Hybrid-DRG auslösen können, eines  Leistungsbereichs gemäß der Anlage 1 der Hybrid-DRG-Vergütungsvereinbarung und enthält mindestens  ein Kindelement ***<ops >***
+
+Seite 13 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -521,6 +537,9 @@ XML-Code 13: hinweis
 
 Element hat folgenden Aufbau:
 
+Seite 14 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+
+
 ---
 
 6 REFERENZIERTE DOKUMENTE
@@ -538,4 +557,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-eHealthData, Richtlinie  Dokumentationen/Leitfaeden/ehd-Richtlinie_V1.40.zip
+eHealthData, Richtlinie  Dokumentationen/Leitfaeden/ehd-Richtlinie_V1.40.zipSeite 15 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025

@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSKE]
 
+Seite 1 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
@@ -39,6 +41,8 @@ INHALT
 
 **15**
 
+Seite 2 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 
 
 
@@ -47,6 +51,8 @@ Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 
 # ABBILDUNGSVERZEICHNIS
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 7
+
+Seite 3 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 ---
 
@@ -58,8 +64,9 @@ DOKUMENTENHISTORIE
 | 1.07 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.06 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Layouts auf Zertifizierung des Prüfpaketes  Corporate Design Zertifizierungsportals Zertifizierungsrichtlinie 
+Seite 4 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+Layouts auf Zertifizierung des Prüfpaketes  Corporate Design Zertifizierungsportals Zertifizierungsrichtlinie
 
 ---
 
@@ -90,6 +97,8 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 5 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 ---
 
@@ -126,6 +135,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Wobei „P“ für den Prüffall und „K“ für die Konstellation steht. Beispielsweise lautet der Dateiname für  Konstellation 3 aus Prüffall 2 „Screenshot_2_3.pdf“. Sollte es keine Konstellation in diesem Prüffall
 
+Seite 6 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 ---
 
@@ -148,6 +158,8 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien verwendet  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
+Seite 7 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
 ---
 
 ### 1.6.2 Praxisdaten/ Arztstempel
@@ -166,8 +178,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Zu verwendende Prüfnummer:** | Y/60/1407/36/000 |
 
-Urologe 
+Seite 8 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+Urologe
 
 ---
 
@@ -210,7 +223,10 @@ Urologe
 | **Prüfunterlagen** | Jahresstatistik 2014 |
 | **Hinweis** |  |
 
-gemäß Tabelle 1 PRÜFFÄLLE PRÜFFALL 1 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
+Seite 9 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
+gemäß Tabelle 1 PRÜFFÄLLE PRÜFFALL 1 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) 
+
 
 ---
 
@@ -244,6 +260,8 @@ gemäß Tabelle 1 PRÜFFÄLLE PRÜFFALL 1 Befundklassifikation Beurteilbarkeit d
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 0 |
 | **7** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 10 |
+
+Seite 10 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 Empfehlungen zur Wiederholungsuntersuchung und 6 
 
@@ -289,7 +307,10 @@ Empfehlungen zur Wiederholungsuntersuchung und 6
 | **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
 | **Hinweis** |  |
 
-Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht)
+Seite 11 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
+Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) 
+
 
 ---
 
@@ -324,7 +345,11 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | **7** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 0 |
 
-Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend 11 Beurteilbarkeit des Bildmaterials | KONSTELLATION 2 | |
+Seite 12 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
+Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend 11 Beurteilbarkeit des Bildmaterials
+
+| KONSTELLATION 2 | |
 |---|---|
 | **2 Auslassungsmöglichkeit blutungsfördernder Medikation** | |
 | Nicht zutreffend | 7 |
@@ -390,6 +415,8 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 5 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 0 |
 
+Seite 13 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
 Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) und 6 Beurteilbarkeit des Bildmaterials Beurteilbarkeit des Bildmaterials 
 
 
@@ -417,8 +444,9 @@ Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zök
 | **Prüfunterlagen** | › › |
 | **Hinweis** |  |
 
-Beurteilbarkeit des Bildmaterials und 6 Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 
+Seite 14 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
+Beurteilbarkeit des Bildmaterials und 6 Jahresstatistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 8 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot)
 
 ---
 
@@ -444,5 +472,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 15 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
 Testschlüssel XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie

@@ -2,6 +2,9 @@
 
 **Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die**  **Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie**  **gem. § 37a SGB V im Umfang von maximal 5 Therapieeinheiten (Muster 28)**
 
+Stand: Oktober 2017 1
+
+
 ---
 
 ### Elektronische Ausfüllhilfe Muster 28 – Verordnung bei Überweisung Soziotherapie
@@ -31,3 +34,5 @@ Hier geben Sie bitte Name und Adresse des Soziotherapeuten an.
 Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php).
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Stand: Oktober 2017 2

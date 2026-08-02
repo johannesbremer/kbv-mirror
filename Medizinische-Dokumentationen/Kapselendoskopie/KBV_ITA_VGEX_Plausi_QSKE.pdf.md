@@ -16,6 +16,8 @@ selendoskopie Informationstechnik, Telematik und Telemedizin 1.01 Datum: 21.01.2
 
 ---
 
+**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
+
 ### DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
@@ -23,7 +25,10 @@ selendoskopie Informationstechnik, Telematik und Telemedizin 1.01 Datum: 21.01.2
 | 1.01 | 21.01.2015 | KBV | Plausibilitäten bei Para- Redaktionelle Korrektur | Möglichkeit der Doppel- | **6, 7**   **5** |
 | 1.00 | 31.07.2014 | KBV | Initiales Dokument |  |  |
 
-metergruppen 5 und 7 nennung bei Parameter 5 angepasst in Plausis berücksichtigt
+[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
+
+metergruppen 5 und 7 nennung bei Parameter 5 angepasst in Plausis berücksichtigt Seite 2 von 8
+
 
 ---
 
@@ -46,6 +51,13 @@ metergruppen 5 und 7 nennung bei Parameter 5 angepasst in Plausis berücksichtig
 **2** **BESCHREIBUNG DER FELDER UND PLAUSIBILITÄTEN ______________________ 5**
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 8**
+
+**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
+
+[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
+
+Seite 3 von 8
+
 
 ---
 
@@ -93,8 +105,16 @@ Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werde
 
 Eine Warnung beschreibt einen Zustand, in welche die Daten dennoch angenommen werden.
 
+**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
+
+[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
+
+Seite 4 von 8
+
 
 ---
+
+**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
 
 | Nr. | Feldbezeichnung | Ausprägung/  Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 |---|---|---|---|---|
@@ -140,9 +160,14 @@ Eine Warnung beschreibt einen Zustand, in welche die Daten dennoch angenommen we
 | 2.c | | | | |
 | + Feld |  |  | 2.b | Anzahl Kapselendoskopien mit  Ganzzahl 0-99999  M  2.c  Anzahl Kapselendoskopien ohne  Ganzzahl 0-99999  M **3. Auswertung der Kapselendoskopie ** 3.a  Anzahl der selbst applizierten  Ganzzahl 0-99999  M  Warnung, wenn  (Feld 3.a + Feld 3.b) ungleich (Feld 1.a + Feld 1.b) |
 
-Beschreibung der Felder und Plausibilitäten suchungen lungsuntersuchungen tungsfördernde Medikation Auslassung Auslassung und auch selbst ausgewerteten beauftragten Auswertungen
+[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
+
+Beschreibung der Felder und Plausibilitäten suchungen lungsuntersuchungen tungsfördernde Medikation Auslassung Auslassung und auch selbst ausgewerteten beauftragten Auswertungen Seite 5 von 8
+
 
 ---
+
+**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
 
 |  |  | Datenformat |  | 4. Befundklassifikation |
 |---|---|---|---|---|
@@ -188,9 +213,14 @@ Beschreibung der Felder und Plausibilitäten suchungen lungsuntersuchungen tungs
 | 5.b.II | | | | |
 | + Feld | 5.a | ) |  | 5.a  Anzahl Kapselendoskopien mit    Ganzzahl 0-99999  M **Anzahl Kapselendoskopien mit eingeschränkter Beurteilbarkeit (Dop-** 5.b.I  …wegen technischer Probleme    Ganzzahl 0-99999  M  5.b.II   …wegen eingeschränkter Sicht    Ganzzahl 0-99999  M **6. Status Vollständigkeit der Untersuchung (Zökum erreicht)     Anzahl vollständiger Untersuchungen ** |
 
-Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle nicht eingeschränkter Beurteil- pelnennung möglich) …… geben)
+[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
+
+Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle nicht eingeschränkter Beurteil- pelnennung möglich) …… geben) Seite 6 von 8
+
 
 ---
+
+**IT in der Arztpraxis**  Plausibilitätenkatalog Kapselendoskopie
 
 |  |  | Datenformat |  |  |
 |---|---|---|---|---|
@@ -236,7 +266,10 @@ Nachweis einer Blutungsquelle Nachweis einer Blutungsquelle nicht eingeschränkt
 | **7. Empfehlung zur Wiederholungsuntersuchung** | | | | |
 | 7 | Anzahl Wiederholungsuntersu- | Ganzzahl 0-99999 | M | Warnung, wenn  Feld 7 größer als  (Feld 3.a + Feld 3.b - Feld 5.a + Feld 6.b.I.01 + Feld 6.b.I.02 + Feld 6.b.I.03 + Feld  6.b.II + Feld 6.b.III + Feld 6.b.IV)      Fehler, wenn Feld 7 größer als (Feld 3.a + Feld 3.b) |
 
-chungen aufgrund von Stenosen chungen aufgrund von Divertikeln chungen aufgrund anderer Ursa- chung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 und 6
+[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
+
+chungen aufgrund von Stenosen chungen aufgrund von Divertikeln chungen aufgrund anderer Ursa- chung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 und 6 Seite 7 von 8
+
 
 ---
 
@@ -246,4 +279,8 @@ chungen aufgrund von Stenosen chungen aufgrund von Divertikeln chungen aufgrund 
 |---|---|
 | [1] | Qualitätssicherungsvereinbarung |
 
-Kapselendoskopie
+IT in der Arztpraxis  **Plausibilitätenkatalog Kapselendoskopie**
+
+[KBV_ITA_VGEX_Plausi_QSKE] * Version: 1.01
+
+Kapselendoskopie Seite 8 von 8

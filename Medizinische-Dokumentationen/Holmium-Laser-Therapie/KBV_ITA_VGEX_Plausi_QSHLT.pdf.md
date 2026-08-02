@@ -15,6 +15,8 @@ Laser-Therapie 1.01 Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kra
 
 ---
 
+**IT in der Arztpraxis**  Plausibilitätenkatalog Holmium-Laser-Therapie
+
 ### DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
@@ -22,7 +24,10 @@ Laser-Therapie 1.01 Datum: 11.02.2016 Kennzeichnung: Öffentlich  Status: In Kra
 | 1.01 | 11.02.2016 | KBV | Ergänzung von Bedin- |  | **5ff** |
 | 1.00 | 31.03.2014 | KBV |  | Einführung der Schnitt- |  |
 
-gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32  stelle QS Holmium-Laser- Therapie
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 und 32  stelle QS Holmium-Laser- Therapie Seite 2 von 9
+
 
 ---
 
@@ -46,7 +51,16 @@ gungen bei den Feldern: 6, 7, 16,17,18,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 2
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 9**
 
+**IT in der Arztpraxis**  Plausibilitätenkatalog Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+Seite 3 von 9
+
+
 ---
+
+**IT in der Arztpraxis**  Plausibilitätenkatalog Holmium-Laser-Therapie
 
 # 1 Präambel
 
@@ -92,8 +106,14 @@ Ein Fehler beschreibt einen Zustand, in welchem die Daten nicht angenommen werde
 
 Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen wer-den.
 
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+Seite 4 von 9
+
 
 ---
+
+IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
 
 | Nr. | Feldbezeichnung | Ausprägung/Datenformat | Art | Beschreibung (Bedingung/Plausibilität/Erläuterung) |
 |---|---|---|---|---|
@@ -144,9 +164,14 @@ Eine Warnung beschreibt einen Zustand, in welchem die Daten dennoch angenommen w
 | **2 ** | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** |
 |  |  |  | Jahr | 4-stellige Jahreszahl JJJJ  M  Jahr des Berichtszeitraums, berechnet als “<aktuelles Jahr> - 1“  2 |
 
-Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe mit relativer
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe mit relativer Seite **5** von **9**
+
 
 ---
+
+IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
 
 |  |  |  |  | Harnstrahlmessungen |
 |---|---|---|---|---|
@@ -197,9 +222,14 @@ Beschreibung der Felder und Plausibilitäten Eingriffe mit absoluter Eingriffe m
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
 |  |  | 0 ml/s (Harnverhalt) | Ganzzahl 0-99999 | M      Warnung, wenn  (Feld 12 + Feld |
 
-tien TURP -Verfahren tionelle OP
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+tien TURP -Verfahren tionelle OPSeite **6** von **9**
+
 
 ---
+
+IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -250,9 +280,14 @@ tien TURP -Verfahren tionelle OP
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläuterung)** |
 | 22 | Anzahl interventionspflichtige |  | Ganzzahl 0-99999 | M    Fehler, wenn  (Feld 22 + Feld 23 + Feld 24) > (Feld 4 + Feld 5 |
 
-Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-Seite **7** von **9**
+
 
 ---
+
+IT in der Arztpraxis  Plausibilitätenkatalog Holmium-Laser-Therapie
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -303,7 +338,10 @@ Nachblutungen ohne Transf sion Nachblutungen mit Transfus u- i-
 | **Nr.** | **Feldbezeichnung** | **Ausprägung/Datenformat** | **Art** | **Beschreibung (Bedingung/Plausibilität/Erläut** |
 |  | Spontanmiktion | Ganzzahl 0-99999 | M | Fehler, wenn Feld 33 > (Feld 4 + Feld 5) |
 
-Anzahl Entlassungen mit erung)
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+Anzahl Entlassungen mit erung) Seite **8** von **9**
+
 
 ---
 
@@ -313,4 +351,8 @@ Anzahl Entlassungen mit erung)
 |---|---|
 | [1] | Qualitätssicherungsvereinbarung |
 
-Holmium-Laser- Therapie
+**IT in der Arztpraxis**  Plausibilitätenkatalog Holmium-Laser-Therapie
+
+KBV_ITA_VGEX_Plausi_QSHLT* Version 1.01
+
+Holmium-Laser- Therapie 

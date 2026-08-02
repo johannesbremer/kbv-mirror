@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_AMV]
 
+Seite 1 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
@@ -34,6 +36,8 @@ INHALT
 
 **9**
 
+Seite 2 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
+
 ---
 
 DOKUMENTENH
@@ -54,9 +58,14 @@ DOKUMENTENH
 | 1.01 | 07.11.2016 | KBV | Allgemeines Review   Aktualisierung der Testdaten |  | **alle** |
 | 1.00 | 06.10.2016 | KBV | Neues Dokument | Initiale Erstellung | **alle** |
 
+Seite 3 von 9 / KBV /
+
 # ISTORIE
 
-Zusammenhang mit der Rezertifizierung Geburtsdatums von Patientin Leonie Gonzales Zertifizierung Prüfpaketes Prüfpaketes  Sichtprüfung Sichtprüfung Prüfprotokolls muss Leonie Gonzales 12 Jahre alt sein. (jährliche Anpassung) Bezeichnungen  Arzneimitteldaten auf 14täglich verkürzt LANR Patientenstammdaten Zertifizierungsportals
+Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
+
+Zusammenhang mit der Rezertifizierung Geburtsdatums von Patientin Leonie Gonzales Zertifizierung Prüfpaketes Prüfpaketes  Sichtprüfung Sichtprüfung Prüfprotokolls muss Leonie Gonzales 12 Jahre alt sein. (jährliche Anpassung) Bezeichnungen  Arzneimitteldaten auf 14täglich verkürzt LANR Patientenstammdaten Zertifizierungsportals 
+
 
 ---
 
@@ -97,6 +106,8 @@ Beiden Prüfvorgängen muss derselbe Antrag auf Zertifizierung AMV zugeordnet se
 
 Für die Vergabe einer Prüfnummer AMV müssen beide Prüfvorgänge erfolgreich abgeschlossen werden.
 
+Seite 4 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
+
 ---
 
 - 1. Der Antragsteller muss im Zertifizierungsportal die entsprechenden Prüfvorgänge „AMV Sichtprüfung“  und „AMV eRezept“ initiieren. Nach Einleitung eines Prüfvorganges wird im Zertifizierungsportal der  Antrag auf Zertifizierung AMV mit den der KBV bisher bekannten Daten vorausgefüllt bereitgestellt.  Dieser muss jeweils pro Prüfvorgang vollständig ausgefüllt und unterschrieben als pdf-Dokument  eingescannt über das Zertifizierungsportal bei der KBV eingereicht werden.
@@ -113,6 +124,8 @@ Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung AMV bei der KBV oder  des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 5 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
 
 ---
 
@@ -135,6 +148,8 @@ In diesem Zusammenhang berücksichtigen Sie bitte das Kapitel Referenzierte Doku
 Für den Prüfvorgang AMV-Sichtprüfung werden als Nachweis von Fehlerkorrekturen pdf-Dateien  erwartet. Diese können einen oder mehrere Screenshots und erläuternden Text sowie bundeseinheitliche  Medikationspläne beinhalten. Alle Dateien müssen anschließend als zip-Archiv über das  Zertifizierungsportal eingereicht werden.
 
 Für den Prüfvorgang AMV-eRezept beachten Sie bei einer Neuz Zertifizierung bitte das Prüfpaket eRezept  [KBV_ITA_AHEX_Pruefpaket_eRP].
+
+Seite 6 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
 
 ---
 
@@ -173,6 +188,7 @@ Bereiten Sie Ihr System mit folgenden Praxisdaten vor:
 
 Tabelle 1: Praxisangaben Praxis 1
 
+Seite 7 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
 
 ---
 
@@ -201,8 +217,9 @@ Tabelle 3: Liste der anzulegenden Patienten
 
 Alle in Tabelle 3 nicht vorgegebenen Werte sind beliebig.
 
-23.05.1984 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 18.09.2009 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 31.12.2010 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 
+Seite 8 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
 
+23.05.1984 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 18.09.2009 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693 31.12.2010 Herbert-Lewin-Platz 2 10623 Berlin      IKK Classic, IK 103500693
 
 ---
 
@@ -226,5 +243,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 9 von 9 / KBV / Prüfpaket Arzneimittelverordnung / Version: 1.12 / 12. Oktober 2023
 
 Arzneimitteln Software

@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_DM2]
 
+Seite 1 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
@@ -132,6 +134,8 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 **37**
 
+Seite 2 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 ---
 
 # ABBILDUNGSVERZEICHNIS
@@ -145,6 +149,8 @@ Abbildung 3: Testdatenvalidierung 31
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV6518 31
 
 Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV6518 32
+
+Seite 3 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 ---
 
@@ -165,6 +171,8 @@ Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Pr�
 | 23.02.2024 | Überarbeitung des Testfalls |  | Änderungen der | Nummerierung der | Prüffällen 6514 und  6515 |
 | 28 |  |  | 22 |  | 1.21 |
 | Anpassung der Prüffälle an | Überarbeitung des Testfalls | Schnittstellenversion 6.07 | Prüffallszenarien für die | 11ff |  |
+
+Seite 4 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 TDV6518 für die Testdatenvalidierung zur Schnittstellenversion 6.08. 6530 Schnittstellenversionen 6.07 6530 Prüffälle. PDF417 Umsetzung der übergreifenden Schnittstellenversionen 6.05 ist ab 01.10.2026 zu verwenden. ist ab 01.10.2026 zu verwenden Barcodeversion  neuen Anforderungen KP1- 210 und KP2-215 ist ab 01.10.2023 zu verwenden neuen Anforderungen KP1- 210 und KP2-215 Prüffälle. ist ab 01.04.2023 zu verwenden. im Anforderungskatalog. Corporate Design ist ab 01.07.2021 zu verwenden
 
@@ -187,6 +195,8 @@ TDV6518 für die Testdatenvalidierung zur Schnittstellenversion 6.08. 6530 Schni
 | 1.13 | 12.03.2018 | KBV | Einreichung des Antrags auf | Anpassung des | 6 |
 | 1.12 | 24.01.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls für die | Schnittstellenversion 6.01 | 11ff |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der  Neue Schnittstellenversion | Alle |
+
+Seite 5 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 Schnittstellenversionen 6.04 Testdatenvalidierung Schnittstellenversionen 6.03 Schnittstellenversionen 6.01 und Zertifizierung Schnittstellenversionen 6.00 und Testdatenvalidierung zur Prüfpaketes ist ab 01.04.2021 zu verwenden ist ab 01.04.2019 zu verwenden ist ab 01.07.2018 zu verwenden Zertifizierungsportales  ist ab 01.04.2018 zu verwenden ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie ab 01.07.2017
 
@@ -219,6 +229,8 @@ Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 6 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 ---
 
@@ -254,6 +266,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Je Schnittstellenversion und Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei  (*.zip.XKM), welche die einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese  müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein.  Entsprechende Vorgaben für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren  Angaben entnehmen Sie bitte dem Dokument KBV_ITA_VGEX_XML-Schnittstellen
 
+Seite 7 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 ---
 
@@ -286,7 +299,7 @@ Dateiordner
 
 Abbildung 2: Exemplarische Struktur der
 
-**1 Nummer des Prüffalls**
+________________  **1 Nummer des Prüffalls**
 
 **2 Laufende Nummer**
 
@@ -296,6 +309,7 @@ Abbildung 2: Exemplarische Struktur der
 
 **Gängiges Bild- bzw. Videoformat**
 
+Seite 8 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 ---
 
@@ -331,6 +345,8 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **PLZ/Ort** | 64283 Darmstadt |
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
+
+Seite 9 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 Prüfstammdateien verwendet
 
@@ -375,6 +391,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **6513** | Hammerschmidt Federmannssohn | Ersatzverfahren (s. Anhang 4.1) |
 | **6515** | Martin Gruber | Ersatzverfahren (s. Anhang 4.2) |
 | **TDV6518** | Diadora Beteszwei | Ersatzverfahren (s. Anhang 4.3) |
+
+Seite 10 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 Karl-Friederich Graf Freiherr von Ingrid Schimmelpfennig-
 
@@ -424,8 +442,11 @@ Die Versichertendaten von Martin Frühstück (XML_07)
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-Informationsangebote der Krankenkasse einlesen und speichern.
+Seite 11 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+einlesen und speichern.
+
+Informationsangebote der Krankenkasse
 
 ---
 
@@ -454,8 +475,9 @@ Informationsangebote der Krankenkasse einlesen und speichern.
 | GLP-1-Rezeptoragonist | Ja | Nein, Kontraindikation |
 | Thrombozytenaggregationshemmer | orale Antikoagulation | Nein |
 
-(bei Insulintherapie) Patientinnen  Lebensjahr) Dokumentation Diabetes mellitus seit der letzten Dokumentation häufiger 
+Seite 12 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+(bei Insulintherapie) Patientinnen  Lebensjahr) Dokumentation Diabetes mellitus seit der letzten Dokumentation häufiger
 
 ---
 
@@ -472,8 +494,9 @@ Informationsangebote der Krankenkasse einlesen und speichern.
 | Behandlung/Mitbehandlung in einer für das | Nein | Ja, Veranlasst |
 | Diabetesbezogene stationäre Einweisung | Ja, Veranlasst | Nein |
 
-Dokumentation) der letzten Dokumentation Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine 
+Seite 13 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+Dokumentation) der letzten Dokumentation Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine
 
 ---
 
@@ -515,8 +538,9 @@ Die Versichertendaten von Karl-Friederich Graf Freiherr von Schaumberg (XML_01) 
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.10.2023 | 06.12.2023 |
 
-Fallnummer Informationsangebote der Krankenkasse AVK Körperliches Training 
+Seite 14 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+Fallnummer Informationsangebote der Krankenkasse AVK Körperliches Training
 
 ---
 
@@ -545,8 +569,9 @@ Fallnummer Informationsangebote der Krankenkasse AVK Körperliches Training
 | GLP-1-Rezeptoragonist | Nein | Ja |
 | Thrombozytenaggregationshemmer | Ja, orale Antikoagulation | Nein |
 
-(bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation Diabetes mellitus seit der letzten Dokumentation häufiger Hyperkeratose mit Einblutung 
+Seite 15 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+(bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation Diabetes mellitus seit der letzten Dokumentation häufiger Hyperkeratose mit Einblutung
 
 ---
 
@@ -563,8 +588,9 @@ Fallnummer Informationsangebote der Krankenkasse AVK Körperliches Training
 | Behandlung/Mitbehandlung in einer für das | Nein | Ja, Veranlasst |
 | Diabetesbezogene stationäre Einweisung | Nein | Nein |
 
-Dokumentation) der letzten Dokumentation Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine 
+Seite 16 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+Dokumentation) der letzten Dokumentation Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine
 
 ---
 
@@ -603,8 +629,11 @@ Dokumentation) der letzten Dokumentation Diabetische Fußsyndrom qualifizierten 
 |  |  |  |
 |  |  |  |
 
-Einschreibung DM2-Dokumentationsunterlagen zusätzlich Asthma- und/oder KHK-Dokumentationsunterlagen bronchiale verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die DM2-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-( im Ersatzverfahren zu erfassen. Anlegen einer Erst- und einer Verlaufsdokumentation Hammerschmidt Federmannssohn Anhang 4.1) sind Asthma bronchiale, KHK Asthma bronchiale, KHK - 2.
+- 2.
 
+Seite 17 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
+Einschreibung DM2-Dokumentationsunterlagen zusätzlich Asthma- und/oder KHK-Dokumentationsunterlagen bronchiale verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine der beiden Zulassungen besitzen, dann sind nur die DM2-Daten zu übermitteln. Versichertendaten: Die Versichertendaten von Ingrid Schimmelpfennig-( im Ersatzverfahren zu erfassen. Anlegen einer Erst- und einer Verlaufsdokumentation Hammerschmidt Federmannssohn Anhang 4.1) sind Asthma bronchiale, KHK Asthma bronchiale, KHK
 
 ---
 
@@ -707,6 +736,8 @@ Einschreibung DM2-Dokumentationsunterlagen zusätzlich Asthma- und/oder KHK-Doku
 |  | | | |
 | In den letzten 4 Wochen: Häufigkeit des | < 1 mal wöchentlich |  |  |
 
+Seite 18 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber Asthma In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation Asthma In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale Asthma In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes Asthma Aktueller FEV -Wert (mindestens alle 12 Monate) HbA1c-Wert eGFR Sensibilitätsprüfung (Wund)Infektion Injektionsstellen (bei Insulintherapie) Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die DM2- Dokumentation sind dieses KHK und Asthma bronchiale Erstdokumentation Keine Häufiger als 2 mal wöchentlich Ja Nein 299,9 Prozent des Soll- Wertes 15,2 % Nicht bestimmt Auffällig Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die DM2- Dokumentation sind dieses KHK und Asthma bronchiale Häufiger als 2 mal wöchentlich < 1 mal wöchentlich Nein Nein 010,0 Prozent des Soll- Wertes 14,3 % 180 ml/min/1,73m²KOF Hyperkeratose mit Einblutung oberflächlich
 
 ---
@@ -788,6 +819,8 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma In den 
 |  |  |  |  |
 | Relevante Ereignisse | | | |
 |  |  | Schwere Hypoglykämien seit der letzten |  |
+
+Seite 19 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation wegen KHK seit der letzten Dokumentation Sympathomimetika Sympathomimetika Nephropathie Nephropathie Instabile Angina pectoris
 
@@ -871,6 +904,8 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma In den 
 | Thrombozytenaggregationshemmer | | | |
 |  |  | Betablocker | Ja |
 
+Seite 20 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 aktueller Dokumentation) Einschreibung in DMP bereits Dokumentation) DMP bereits wahrgenommen Dokumentation) DMP wahrgenommen Dokumentation keine
 
 ---
@@ -953,6 +988,8 @@ aktueller Dokumentation) Einschreibung in DMP bereits Dokumentation) DMP bereits
 |  | | | |
 | KHK | Regelmäßiges sportliches Training | Nein | Ja |
 
+Seite 21 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 Netzhautuntersuchung seit der letzten Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Medikation
 
 ---
@@ -997,6 +1034,8 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Dokumentationsintervall | Quartalsweise |  |
 |  | | |
 |  |  |  |
+
+Seite 22 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.  Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Krankenkasse
 
@@ -1059,7 +1098,12 @@ manche Fehleingaben nicht möglich sind. Hinweissteuerung und wie das Softwaresy
 |  |  |  |
 |  |  |  |
 
-INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten HbA1c-Wert eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulcus Ulkus (Wund)Infektion Injektionsstellen  (bei Insulintherapie) Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Spätfolgen Relevante Ereignisse Relevante Ereignisse Schwere Hypoglykämien seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Medikamente Insulin oder Insulin-Analoga Metformin Sonstige antidiabetische Medikation SGLT2-Inhibitor GLP-1-Rezeptoragonist Thrombozytenaggregationshemmer Schulung empfohlen (bei aktueller Dokumentation) Schulung schon vor Einschreibung ins DMP bereits Erstdokumentation 209 mmol/mol 180 ml/min/1,73m²KOF Auffällig Nicht untersucht nein, Z. n. Ulcus ja Nicht untersucht Diabetische Nephropathie Keine der genannten Ereignisse, Erblindung Aktion Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 wahrgenommen
+Seite 23 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 /
+
+1. Juli 2026
+
+INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten HbA1c-Wert eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulcus Ulkus (Wund)Infektion Injektionsstellen  (bei Insulintherapie) Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Spätfolgen Relevante Ereignisse Relevante Ereignisse Schwere Hypoglykämien seit der letzten Dokumentation Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation Medikamente Insulin oder Insulin-Analoga Metformin Sonstige antidiabetische Medikation SGLT2-Inhibitor GLP-1-Rezeptoragonist Thrombozytenaggregationshemmer Schulung empfohlen (bei aktueller Dokumentation) Schulung schon vor Einschreibung ins DMP bereits Erstdokumentation 209 mmol/mol 180 ml/min/1,73m²KOF Auffällig Nicht untersucht nein, Z. n. Ulcus ja Nicht untersucht Diabetische Nephropathie Keine der genannten Ereignisse, Erblindung Aktion Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 wahrgenommen 
+
 
 ---
 
@@ -1098,6 +1142,8 @@ INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten HbA1c-Wert eGFR Pulsstatus
 | Ophthalmologische Netzhautuntersuchung seit der |  |  |
 | Behandlung/Mitbehandlung in einer für das | Nein |  |
 | Diabetesbezogene stationäre Einweisung | Nein |  |
+
+Seite 24 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 letzten Dokumentation Diabetische Fußsyndrom qualifizierten Einrichtung Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann.
 
@@ -1140,6 +1186,8 @@ letzten Dokumentation Diabetische Fußsyndrom qualifizierten Einrichtung Korrekt
 |  |  |  |
 |  |  |  |
 
+Seite 25 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 (bei Insulintherapie) Patienten ab dem vollendeten 18. Lebensjahr) Nephropathie Dokumentation keine
 
 ---
@@ -1179,8 +1227,9 @@ letzten Dokumentation Diabetische Fußsyndrom qualifizierten Einrichtung Korrekt
 | Behandlung/Mitbehandlung in einer für das Diabetische | Nein |  |
 | Diabetesbezogene stationäre Einweisung | Ja, Veranlasst |  |
 
-Dokumentation Fußsyndrom qualifizierten Einrichtung 
+Seite 26 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+Dokumentation Fußsyndrom qualifizierten Einrichtung
 
 ---
 
@@ -1219,8 +1268,11 @@ Dokumentation Fußsyndrom qualifizierten Einrichtung
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung | 06.10.2023 |  |
 
-Eingabefehler verhindert Krankenkasse Diabetes mellitus Typ 2 - ) sind im Ersatzverfahren zu erfassen.
+Seite 27 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
+- ) sind im Ersatzverfahren zu erfassen.
+
+Eingabefehler verhindert Krankenkasse Diabetes mellitus Typ 2
 
 ---
 
@@ -1247,7 +1299,10 @@ Eingabefehler verhindert Krankenkasse Diabetes mellitus Typ 2 - ) sind im Ersatz
 \| ( Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach |
 \|  |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges einer möglichen Hinweissteuerung. Parametern die Möglichkeit, sich die erläuternden Texte gemäß Anforderung KP2-210  anzeigen zu lassen (siehe Erfassen Sie für das aktuelle Quartal für einen beliebigen Patienten eine Verlaufsdokumentation, in der:  der Parameter „Fußstatus: Ulkus“ auf die Angabe „tief“ gesetzt ist, und zeigen Sie das Systemverhalten.  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Unauffällig“ gesetzt ist, und zeigen Sie das Systemverhalten.  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Auffällig“ gesetzt ist, und zeigen Sie das Systemverhalten. Bitte legen Sie für einen beliebigen Patienten für die letzten drei Quartale  Verlaufsdokumentationen mit dem Parameter „Fußstatus: Pulsstatus“ = „Nicht untersucht“ an. Fußuntersuchung vor 10 Monaten  durchgeführt wurde. Möglichkeit, sich die erläuternden Texte gemäß Anforderung KP2-215  anzeigen zu lassen (siehe
+Seite 28 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges einer möglichen Hinweissteuerung. Parametern die Möglichkeit, sich die erläuternden Texte gemäß Anforderung KP2-210  anzeigen zu lassen (siehe Erfassen Sie für das aktuelle Quartal für einen beliebigen Patienten eine Verlaufsdokumentation, in der:  der Parameter „Fußstatus: Ulkus“ auf die Angabe „tief“ gesetzt ist, und zeigen Sie das Systemverhalten.  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Unauffällig“ gesetzt ist, und zeigen Sie das Systemverhalten.  der Parameter „Fußstatus: Ulkus“ auf die Angabe „oberflächlich“ und der Parameter „Fußstatus: Pulsstatus“ auf die Angabe „Auffällig“ gesetzt ist, und zeigen Sie das Systemverhalten. Bitte legen Sie für einen beliebigen Patienten für die letzten drei Quartale  Verlaufsdokumentationen mit dem Parameter „Fußstatus: Pulsstatus“ = „Nicht untersucht“ an. Fußuntersuchung vor 10 Monaten  durchgeführt wurde. Möglichkeit, sich die erläuternden Texte gemäß Anforderung KP2-215  anzeigen zu lassen (siehe 
+
 
 ---
 
@@ -1261,6 +1316,8 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges einer mö
 \| **SZENARIEN** |
 \| **1.** In der Dokumentation vor     **2.** |
 \|  |
+
+Seite 29 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 Bitte legen Sie für einen beliebigen Patienten für die letzten sechs Quartale  Verlaufsdokumentationen an, in denen der Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation“ die Angabe „Nicht Durchgeführt“ hat. 19 Monaten  hatte der Parameter „Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation“ letztmalig  die Angabe „ Durchgeführt Bitte legen Sie für einen beliebigen Patienten Verlaufsdokumentationen an, in denen das System keine Augenuntersuchung ermitteln konnte. Szenario 3 Das System bietet dem Anwender die Möglichkeit, sich die erläuternden Texte zu den Parametern „Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung“,  Anforderung KP2-210 anzeigen zu lassen (siehe
 
@@ -1298,6 +1355,8 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
+Seite 30 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
 
@@ -1322,6 +1381,8 @@ Dokumentation
 391234511_20250406101010_1_ DM2_607.idx.XKM
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV6518
+
+Seite 31 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 Dateiordner
 
@@ -1385,7 +1446,10 @@ Die Versichertendaten von Diadora Beteszwei (Anhang 4.3) sind im Ersatzverfahren
 |  |  |  |
 |  |  |  |
 
-6.08 (gültig ab dem  01.10.2026) nur  für die kommende Testdatenvalidierung, die Prüfunterlagen
+Seite 32 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
+6.08 (gültig ab dem  01.10.2026) nur  für die kommende Testdatenvalidierung, die Prüfunterlagen 
+
 
 ---
 
@@ -1409,6 +1473,8 @@ Die Versichertendaten von Diadora Beteszwei (Anhang 4.3) sind im Ersatzverfahren
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 15.10.2026 | 15.04.2027 |
+
+Seite 33 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
 
 Informationsangebote der Krankenkasse Anamnese- und Befunddaten HbA1c-Wert eGFR Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulcus Ulkus Ulkus (Wund)Infektion Injektionsstellen  (bei Insulintherapie) Intervall für künftige Fußinspektionen (bei Patientinnen  und Patienten ab dem vollendeten 18. Lebensjahr) Spätfolgen Diabetes mellitus seit der letzten Dokumentation Insulin oder Insulin-Analoga SGLT2-Inhibitor 6,0 % 120 ml/min/1,73m²KOF Unauffällig Unauffällig nein nein nein alle 3 drei Monate oder orale Antikoagulation 60 mmol/mol Nicht bestimmt Nicht untersucht Nicht untersucht Z. n. Amputation tief ja Unauffällig alle 6 sechs Monate Diabetische Retinopathie | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -1465,6 +1531,8 @@ Informationsangebote der Krankenkasse Anamnese- und Befunddaten HbA1c-Wert eGFR 
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
 
+Seite 34 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026
+
 Federmannssohn Plaetzchen  
 
 
@@ -1494,6 +1562,10 @@ Federmannssohn Plaetzchen
 | **4111** | **Kostentraegerkennung** | 104829759 |
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
+
+Seite 35 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 /
+
+1. Juli 2026
 
 und Georg-von-Groscurth-Plaetzchen  
 
@@ -1525,6 +1597,10 @@ und Georg-von-Groscurth-Plaetzchen
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 13 |
 
+Seite 36 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 /
+
+1. Juli 2026
+
 und Georg-von-Groscurth-Plaetzchen  
 
 
@@ -1554,7 +1630,10 @@ und Georg-von-Groscurth-Plaetzchen
 |  | KBV_ITA_VGEX_XML-Schnittstellen - Austausch von |
 |  |  |
 
-Testschlüssel Format) XML Daten in der Vertragsärztlichen Versorgung Datensatz für die strukturierten Behandlungsprogramme Diabetes mellitus Typ 1und 2 einem strukturierten Behandlungsprogramm für Dokumentationsdaten des strukturierten Behandlungsprogramms Asthma Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei)
+Seite 37 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.2 4 / 1. Juli 2026
+
+Testschlüssel Format) XML Daten in der Vertragsärztlichen Versorgung Datensatz für die strukturierten Behandlungsprogramme Diabetes mellitus Typ 1und 2 einem strukturierten Behandlungsprogramm für Dokumentationsdaten des strukturierten Behandlungsprogramms Asthma Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) 
+
 
 ---
 
@@ -1587,3 +1666,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)
+
+Seite 38 von 38 / KBV / Pruefpaket eDMP-DM2 / Version: 1.24 / 1. Juli 2026

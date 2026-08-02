@@ -21,6 +21,10 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 
 ## - ANFORDERUNGEN AN DAS PVS
 
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
+
+SEITE 2 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+
 
 ---
 
@@ -35,6 +39,10 @@ DR. PHILIPP STACHWITZ, STABSBEREICHSLEITER DIGITALISIERUNG
 # - BLICK IN DIE ARZTPRAXIS
 
 ## - ANFORDERUNGEN AN DAS PVS
+
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
+
+SEITE 3 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
 
 
 ---
@@ -51,12 +59,22 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 - **STAND PVS-ROLLOUT**
 
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
+
+SEITE 4 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+
 
 ---
 
 ## Daten der gematik – Aktuelle Nutzungszahlen
 
 - **DATEN GEMATIK**
+
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
+
+SEITE 5
+
+Quelle: gematik – Statusupdate am 16.09.2025 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
 
 
 ---
@@ -75,6 +93,12 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 # NICHT KOB-zertifiziert
 
+# › Entspricht: 4.375 Installationen in den Praxen ohne  KOB zertifiziertes System
+
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
+
+SEITE 6 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+
 
 ---
 
@@ -89,6 +113,10 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 # - BLICK IN DIE PRAXIS ARZTPRAXIS
 
 ## - ANFORDERUNGEN AN DAS PVS
+
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
+
+SEITE 7 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
 
 
 ---
@@ -108,6 +136,8 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 **6.**
 
 **12.**
+
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
 
 ## Arztbrief erstellen
 
@@ -141,8 +171,12 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 ## GOP 01647/01648 zusetzen
 
+SEITE 8
+
 
 ---
+
+**1.**
 
 **2.**
 
@@ -153,6 +187,8 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 **5.**
 
 **6.**
+
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
 
 ## Arztbrief erstellen
 
@@ -192,6 +228,8 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 **12. 12.**
 
+SEITE 9
+
 
 ---
 
@@ -205,13 +243,18 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 # Minuten
 
+# Max. 1  Minute
+
+**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
+
+SEITE 10 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+
 
 ---
 
 ## Anforderungen aus Ärztlicher &  Psychotherapeutischer Perspektive
 
 ## Aus ärztlicher und  psychotherapeutischer  Perspektive sind das  „Anforderungen“
-
 
 ---
 
@@ -223,10 +266,26 @@ Demnach sind noch über 20% der Praxen nicht mit einem Modul ausgestattet
 
 QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
+## Wichtige Punkte:
+
+- Unkomplizierte Übernahme der Metadaten
+- Möglichkeit das Dokument direkt nach
+
+## Fertigstellung in die ePA hochzuladen
+
+- Kein vollautomatisches Hochladen von
+
+## Dokumenten in die ePA  Bestätigung mit „mit  einem Klick“
+
+- Für Anwender so konfigurierbar, dass:
 - Bei bestimmten Dokumententypen oder
 - Bestimmten Patienten ein vollautomatisches
 
 ## Hochladen erfolgen kann
+
+**EPA für Alle - Stand der Einführung**
+
+SEITE 12 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
 
 
 ---
@@ -239,8 +298,25 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
 QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
+**EPA für Alle - Stand der Einführung** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+
+## Wichtige Punkte:
+
+- Mehrere Behandlungsdokumentationen  gleichzeitig in die ePA hochladen
+- Dokumente mit *„nicht für die ePA-einstellbar“*
+
+## kennzeichnen  Unmittelbar mit einem Klick  möglich
+
+- Gekennzeichnete Dokumente in der
+
+## Behandlungsdokumentation abspeichern
+
+- Versuch des Einstellens eines solchen Dokuments  ist durch das PVS zu unterbinden
+- Aufwandsarme Dokumentation der:
 - Einwilligung oder
 - Des Widerspruchs des(der) Patient(in)
+
+SEITE 13
 
 
 ---
@@ -262,6 +338,8 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
 ## - Dokumenten
 
+**EPA für Alle - Stand der Einführung** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+
 ## Allgemeine  Anforderungen zur  Nutzung der ePA
 
 ## Ladevorgänge dürfen  die Arbeitsprozesse  nicht stören
@@ -278,6 +356,8 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
 ## relevant
 
+SEITE 14
+
 
 ---
 
@@ -289,7 +369,13 @@ QUELLE: KBV-ANBIETERMEETING, 11.09.2024
 
 ## Plus FÜNF KERNFORDERUNGEN
 
-[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
+[Weitere Informationen unter](http://www.kbv.de/digitalisierung)[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
+
+**EPA für Alle - Stand der Einführung** KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+
+## SIEBEN THEMENFELDER
+
+SEITE 15
 
 
 ---

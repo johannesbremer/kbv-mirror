@@ -16,8 +16,14 @@ Datum: 30.05.2024
 
 Status: In Kraft ab 01.07.2025
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 1 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 **D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
@@ -25,10 +31,14 @@ Status: In Kraft ab 01.07.2025
 |---|---|---|---|---|---|
 | 3.2.19 | 30.05.2025 | KBV | Änderungen LDT 3.2.19 | Aktualisierung | Alle |
 
-eingearbeitet 
+LDT 3 Use Cases, Version 3.2.19
+
+eingearbeitet Seite 2 von 66
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 #### Inhaltsverzeichnis
 
@@ -62,6 +72,8 @@ eingearbeitet
 
 **15. USE CASE 17 – BEFUND KREBSFRÜHERKENNUNG ZERVIX-KARZINOM 65**
 
+LDT 3 Use Cases, Version 3.2.19
+
 **LABORAUFTRAG KAPITEL 32.2/32.3**
 
 **LABORAUFTRAG KAPITEL 32.2/32.3 UND IGEL**
@@ -89,6 +101,8 @@ eingearbeitet
 **BEFUND (KONVENTIONELLE UND SI-EINHEITEN)**
 
 **DARSTELLUNG DES INHALTES OBJ_0068**
+
+Seite 3 von 66
 
 **4** **7** **15** **23** **32** **34** **37** **42** **53** **55** **57** **59** **61**
 
@@ -161,6 +175,12 @@ Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
 
 Material wurde am JJJJMMTT um HHmm entnommen
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 4 von 66
+
 
 ---
 
@@ -184,6 +204,12 @@ Patient war in Afrika
 
 Z01_UseCase01_Auftrag_UseCase1_FA_LG.ldt
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 5 von 66
+
 
 ---
 
@@ -192,6 +218,7 @@ Z01_UseCase01_Auftrag_UseCase1_FA_LG.ldt
 | LDT 3 |  |
 | LDT 3 | Use Cases, Version 3.2.19 Seite 6 von 66 |
 
+IT in der Arztpraxis LDT 3 Use Cases, Version 3.2.19
 
 ---
 
@@ -267,8 +294,18 @@ Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
 
 Material wurde am JJJJMMTT um HHmm abgenommen
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 7 von 66
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 ### UNTERSUCHUNGSANFORDERUNG:
 
@@ -328,8 +365,14 @@ Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
 | 010 | 7321 | 01 | Status Einsender |
 | 013 | 8312 | 4711 | Kunden-(Arzt)Nummer |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 8 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 027 | 8114 | Arztidentifikation | Objektattribut |
 |---|---|---|---|
@@ -384,8 +427,14 @@ Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
 | 013 | 8001 | 8230 | Satzende |
 | 013 | 8000 | 8215 | Satzart |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 9 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 016 | 8145 | Patient | Objektattribut |
 |---|---|---|---|
@@ -442,8 +491,14 @@ Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
 | 011 | 7420 | 10 | Status Person |
 | 019 | 3101 | Zusatzarzt | Nachname |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 10 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 015 | 3102 | Thomas | Vorname |
 |---|---|---|---|
@@ -497,9 +552,14 @@ Befund zusätzlich an Prof. Dr. med. Thomas Zusatzarzt per Fax (Faxnummer)
 | 020 | 4134 | Musterkasse | Kassenname |
 | 014 | 4104 | 78945 | Abrechnungs-VKNR |
 
-onsdaten  suchungsanforderung  Abrechnungsbereich (KTAB)
+LDT 3 Use Cases, Version 3.2.19
+
+onsdaten  suchungsanforderung  Abrechnungsbereich (KTAB) Seite 11 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 011 | 4106 | 00 | Kostenträger-Abrechnungsbereich (KTAB) |
 |---|---|---|---|
@@ -554,9 +614,14 @@ onsdaten  suchungsanforderung  Abrechnungsbereich (KTAB)
 | 010 | 8504 | 1 | Medikamenteneinnahme zum Zeitpunkt der Materialent- |
 | 019 | 8170 | Medikament | Objektattribut |
 
-daten
+LDT 3 Use Cases, Version 3.2.19
+
+daten Seite 12 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 017 | 8002 | Obj_0070 | ObjektIdent |
 |---|---|---|---|
@@ -606,9 +671,14 @@ daten
 | 033 | 8159 | Untersuchungsanforderung | Objektattribut |
 | 017 | 8002 | Obj_0059 | ObjektIdent |
 
-_entnahme _entnahme
+LDT 3 Use Cases, Version 3.2.19
+
+_entnahme _entnahme Seite 13 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 011 | 8410 | Qu | Test-Ident |
 |---|---|---|---|
@@ -659,9 +729,16 @@ _entnahme _entnahme
 | 017 | 8002 | Obj_0010 | *ObjektIdent des Objektes, auf welches das Objektattribut* |
 | 017 | 8003 | Obj_0010 | *Objektende des bezeichneten Objektes.* |
 
-verweist!
+LDT 3 Use Cases, Version 3.2.19
+
+verweist! Seite 14 von 66
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 # 3. Use Case 3 – Laborauftrag für Privatpatient
 
@@ -725,10 +802,14 @@ Material wurde am JJJJMMTT um HHmm abgenommen
 
 Auf Grundlage des Kataloges „Katalog Labor Muster“, der unter www.musterla-bor\lvz01.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 5896 (Hepatitis-B-Antigen) aus Serum (Probengefäß 1234567802) beim Laborfacharzt angefordert.
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 15 von 66
+
 
 ---
 
-Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.musterla-bor\lvz02.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 25K28 (Quick) aus  Citrat-Blut (Probengefäß 1234567803) bei der Privatärztlichen La-borgemeinschaft an-
+**IT in der Arztpraxis**  LDT 3   Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.musterla-bor\lvz02.de veröffentlicht ist, wird die Untersuchung mit dem Kürzel 25K28 (Quick) aus  Citrat-Blut (Probengefäß 1234567803) bei der Privatärztlichen La-borgemeinschaft an-
 
 ### gefordert.
 
@@ -788,9 +869,13 @@ Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.must
 | 010 | 7321 | 01 | Status Einsender |
 | 013 | 8312 | 4711 | Kunden-(Arzt)Nummer |
 
+LDT 3 Use Cases, Version 3.2.19
+
 ```
 - [](mailto:zusatzarzt@mail.de)
 ```
+
+Seite 16 von 66
 
 ### Leistungen an Patienten)
 
@@ -798,6 +883,8 @@ Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.must
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 027 | 8114 | Arztidentifikation | Objektattribut |
 |---|---|---|---|
@@ -852,8 +939,14 @@ Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.must
 | 013 | 8001 | 8230 | Satzende |
 | 013 | 8000 | 8215 | Satzart |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 17 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 016 | 8145 | Patient | Objektattribut |
 |---|---|---|---|
@@ -910,8 +1003,14 @@ Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.must
 | 011 | 7420 | 10 | Status Person |
 | 019 | 3101 | Zusatzarzt | Nachname |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 18 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 015 | 3102 | Thomas | Vorname |
 |---|---|---|---|
@@ -966,9 +1065,14 @@ Auf Grundlage des Kataloges „Katalog Basis Labor Muster“, der unter www.must
 | 014 | 3121 | 23456 | PostfachPLZ |
 | 020 | 3122 | Musterstadt | Postfach Ort / Stadt |
 
-chungsanforderung
+LDT 3 Use Cases, Version 3.2.19
+
+chungsanforderung  Seite 19 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 013 | 3123 | 1234 | Postfach |
 |---|---|---|---|
@@ -1025,8 +1129,14 @@ chungsanforderung
 | 011 | 8429 | 02 | Probenmaterial Index |
 | 011 | 8428 | SE | Probenmaterial-Ident |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 20 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 014 | 8430 | Serum | Probenmaterial-Bezeichnung |
 |---|---|---|---|
@@ -1076,9 +1186,14 @@ chungsanforderung
 | 017 | 8002 | Obj_0054 | ObjektIdent |
 | 017 | 7278 | JJJJMMTT | Datum des Timestamp |
 
-_ent- _ent-
+LDT 3 Use Cases, Version 3.2.19
+
+_ent- _ent-Seite 21 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 018 | 7279 | HHmmss(ms) | Uhrzeit des Timestamp |
 |---|---|---|---|
@@ -1123,10 +1238,16 @@ _ent- _ent-
 | 017 | 8002 | Obj_0010 | *ObjektIdent des Objektes, auf welches das Objektattribut* |
 | 017 | 8003 | Obj_0010 | *Objektende des bezeichneten Objektes.* |
 
-verweist! 
+LDT 3 Use Cases, Version 3.2.19
+
+verweist! Seite 22 von 66
 
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 # 4. Use Case 4 – Laborauftrag im Rahmen der ASV
 
@@ -1198,8 +1319,14 @@ Probenmaterial unvollständig, Recall empfohlen, Probleme bei Abnahme
 
 Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 23 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 ### Material wurde am JJJJMMTT um HHmm entnommen
 
@@ -1262,8 +1389,14 @@ Alle Leistungen, die über den für das ASV-Team festgelegten Nummernkranz hinau
 | 018 | 0132 | 8.12.0.95 | Version/Releasestand der Software |
 | 017 | 8003 | Obj_0051 | Objektende |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 24 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 039 | 8218 | Timestamp_Erstellung _Daten | Objektattribut |
 |---|---|---|---|
@@ -1319,9 +1452,14 @@ Alle Leistungen, die über den für das ASV-Team festgelegten Nummernkranz hinau
 | 017 | 8002 | Obj_0007 | ObjektIdent |
 | 014 | 3112 | 12345 | PLZ |
 
-onsdaten
+LDT 3 Use Cases, Version 3.2.19
+
+onsdaten  Seite 25 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 021 | 3113 | Musterhausen | Ort |
 |---|---|---|---|
@@ -1377,8 +1515,14 @@ onsdaten
 | 011 | 3666 | 02 | Anzahl Kinder |
 | 017 | 8003 | Obj_0040 | Objektende |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 26 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 028 | 8113 | Auftragsinformation | Objektattribut |
 |---|---|---|---|
@@ -1433,9 +1577,14 @@ onsdaten
 | 023 | 8102 | Abrechnung_GKV | Objektattribut |
 | 017 | 8002 | Obj_0002 | ObjektIdent |
 
-onsdaten  suchungsanforderung
+LDT 3 Use Cases, Version 3.2.19
+
+onsdaten  suchungsanforderung  Seite 27 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 011 | 4239 | 28 | Scheinuntergruppe |
 |---|---|---|---|
@@ -1486,9 +1635,14 @@ onsdaten  suchungsanforderung
 | 011 | 8428 | CB | Probenmaterial-Ident |
 | 014 | 8430 | Citrat-Blut | Probenmaterial-Bezeichnung |
 
-_entnahme
+LDT 3 Use Cases, Version 3.2.19
+
+_entnahme Seite 28 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 010 | 8504 | 1 | Medikamenteneinnahme zum Zeitpunkt der Materialent- |
 |---|---|---|---|
@@ -1538,9 +1692,14 @@ _entnahme
 | 014 | 7273 | UTC+1 | Zeitzone |
 | 017 | 8003 | Obj_0054 | Objektende |
 
-_entnahme _entnahme
+LDT 3 Use Cases, Version 3.2.19
+
+_entnahme _entnahme Seite 29 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 017 | 8003 | Obj_0059 | Objektende |
 |---|---|---|---|
@@ -1591,8 +1750,14 @@ _entnahme _entnahme
 | 013 | 8001 | 8215 | Satzende |
 | 013 | 8000 | 8231 | Satzart |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 30 von 66
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3
 
 | 025 | 9300 | errechneter Wert | Prüfsumme/Elektronische Freigabe |
 |---|---|---|---|
@@ -1602,9 +1767,14 @@ _entnahme _entnahme
 | 017 | 8002 | Obj_0010 | *ObjektIdent des Objektes, auf welches das Objektattribut* |
 | 017 | 8003 | Obj_0010 | *Objektende des bezeichneten Objektes.* |
 
-verweist!
+LDT 3 Use Cases, Version 3.2.19
+
+verweist! Seite 31 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 # 5. Use Case 5 – Befund zu Use Case 1
 
@@ -1670,6 +1840,10 @@ Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
 
 Material wurde am JJJJMMTT um HHmm entnommen
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 32 von 66
+
 
 ---
 
@@ -1692,6 +1866,12 @@ Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
 **BEISPIELDATEI:**
 
 Z01_UseCase05_Befund_mitPDF.ldt
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 33 von 66
 
 
 ---
@@ -1768,8 +1948,16 @@ Probenmaterial unvollständig, Recall empfohlen, Probleme bei Abnahme
 
 Probengefäß mit Nummer 1234567803 enthält Citrat-Blut
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 34 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 ### Material wurde am JJJJMMTT um HHmm entnommen
 
@@ -1819,6 +2007,10 @@ Mittels der Resistenz-Methode „Agardilution“ wurde nachfolgendes Antibiogram
 | ***Ciprofloxacin *** Cibrobay | Sensitivität: | Sensitivität: |
 | ***Gentamicin 500 *** Refobacin |  | Sensitivität:          MHK Breakpoint:  MHK Einheit: |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 35 von 66
+
 „60%“ ergeben. Der Grenz-
 
 ### Die GOP und die Kosten werden
@@ -1847,8 +2039,18 @@ Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
 
 Z01_UseCase06_Befund_mitPDF.ldt
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 36 von 66
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 # 7. Use Case 7 – Übergabe “Stammdaten”
 
@@ -1908,10 +2110,16 @@ Auftrag für Laborfacharzt, kurativ
 
 Anforderung für Laborgemeinschaft, kurativ
 
+LDT 3 Use Cases, Version 3.2.19
+
 Muster 10A) C00.2 V
+
+Seite 37 von 66
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 - **7.2. Muster LDT mit Beschreibung der Feldkennungen**
 
@@ -1969,10 +2177,16 @@ Muster 10A) C00.2 V
 | 018 | 0212 | 991234567 | Lebenslange Arztnummer (LANR) |
 | 017 | 8003 | Obj_0014 | Objektende |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 38 von 66
+
 onsdaten  -
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 024 | 8119 | Betriebsstaette | Objektattribut |
 |---|---|---|---|
@@ -2028,8 +2242,14 @@ onsdaten  -
 | 010 | 3114 | D | Wohnsitzländercode |
 | 017 | 8003 | Obj_0007 | Objektende |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 39 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 017 | 8003 | Obj_0047 | Objektende |
 |---|---|---|---|
@@ -2084,9 +2304,14 @@ onsdaten  -
 | 010 | 3108 | 1 | Versichertenart |
 | 018 | 4111 | 123456789 | Kostenträgerkennung |
 
-Abrechnungsbereich (KTAB)
+LDT 3 Use Cases, Version 3.2.19
+
+Abrechnungsbereich (KTAB) Seite 40 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 011 | 4122 | 00 | Abrechnungsgebiet |
 |---|---|---|---|
@@ -2113,9 +2338,16 @@ Abrechnungsbereich (KTAB)
 | 017 | 8002 | Obj_0010 | *ObjektIdent des Objektes, auf welches das Objektattribut* |
 | 017 | 8003 | Obj_0010 | *Objektende des bezeichneten Objektes.* |
 
-verweist!
+LDT 3 Use Cases, Version 3.2.19
+
+verweist! Seite 41 von 66
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 # 8. Use Case 8 – Befund zu Laborauftrag Kapitel 32.2/32.3/IGeL
 
@@ -2181,8 +2413,14 @@ Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
 
 Material wurde am JJJJMMTT um HHmm entnommen
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 42 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 ### UNTERSUCHUNGSERGEBNISSE:
 
@@ -2241,8 +2479,14 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 | 038 | 1252 | Abteilungsleiter Klin. Chemie | Funktionsbezeichnung der Person |
 | 015 | 8147 | Person | Objektattribut |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 43 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 017 | 8002 | Obj_0047 | ObjektIdent |
 |---|---|---|---|
@@ -2296,9 +2540,12 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 | 019 | 3101 | Musterarzt | Nachname |
 | 014 | 3102 | Klaus | Vorname |
 
-(NBSNR)
+LDT 3 Use Cases, Version 3.2.19 (NBSNR) Seite 44 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 018 | 3104 | Dr. med. | Titel |
 |---|---|---|---|
@@ -2352,9 +2599,12 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 | 012 | 3120 | von | Vorsatzwort |
 | 022 | 3101 | Musterpatient | Nachname |
 
-(NBSNR)
+LDT 3 Use Cases, Version 3.2.19 (NBSNR) Seite 45 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 013 | 3102 | Karl | Vorname |
 |---|---|---|---|
@@ -2409,8 +2659,14 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 | 017 | 8002 | Obj_0054 | ObjektIdent |
 | 017 | 7278 | JJJJMMTT | Datum des Timestamp |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 46 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 019 | 7279 | HHmmss(ms) | Uhrzeit des Timestamp | |
 |---|---|---|---|---|
@@ -2461,9 +2717,14 @@ Material Serum unvollständig, Hinweis von Dr. Zusatzarzt auf „Materialmenge g
 | 020 | 8430 | Citrat-Blut | Probenmaterial-Bezeichnung |  |
 | 010 | 8504 | 1 | Medikamenteneinnahme zum Zeitpunkt der |  |
 
-rial „Serum“ war grenzwertig. gen Aufträgen Probenmaterial ent- sprechend der Vorgaben zu. Materialentnahme Materialentnahme
+LDT 3 Use Cases, Version 3.2.19
+
+rial „Serum“ war grenzwertig. gen Aufträgen Probenmaterial ent- sprechend der Vorgaben zu. Materialentnahme Materialentnahme Seite 47 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 019 | 8170 | Medikament | Objektattribut |  |
 |---|---|---|---|---|
@@ -2517,8 +2778,14 @@ rial „Serum“ war grenzwertig. gen Aufträgen Probenmaterial ent- sprechend d
 | 037 | 3564 | Achtung!! Wert stark erhöht. | Text | |
 | 017 | 8003 | Obj_0068 | Objektende | |
 
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 48 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 017 | 8003 | Obj_0026 | Objektende |
 |---|---|---|---|
@@ -2573,9 +2840,12 @@ rial „Serum“ war grenzwertig. gen Aufträgen Probenmaterial ent- sprechend d
 | 015 | 8147 | Person | Objektattribut |
 | 017 | 8002 | Obj_0047 | ObjektIdent |
 
--Cent
+LDT 3 Use Cases, Version 3.2.19 -Cent Seite 49 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 011 | 7420 | 07 | Status Person |
 |---|---|---|---|
@@ -2629,9 +2899,14 @@ rial „Serum“ war grenzwertig. gen Aufträgen Probenmaterial ent- sprechend d
 | 017 | 8420 | Ergebnis | Ergebnis-Wert |
 | 010 | 8419 | 2 | Einheitensystem des Messwertes / Wertes |
 
-gebnisbericht -Cent
+LDT 3 Use Cases, Version 3.2.19
+
+gebnisbericht -Cent Seite 50 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 016 | 8421 | Einheit | Maßeinheit des Messwertes / Wertes |
 |---|---|---|---|
@@ -2685,9 +2960,14 @@ gebnisbericht -Cent
 | 019 | 7279 | HHmmss(ms) | Uhrzeit des Timestamp |
 | 014 | 7273 | UTC+1 | Zeitzone |
 
-gebnisbericht
+LDT 3 Use Cases, Version 3.2.19
+
+gebnisbericht Seite 51 von 66
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | 017 | 8003 | Obj_0054 | Objektende |
 |---|---|---|---|
@@ -2710,7 +2990,9 @@ gebnisbericht
 | 017 | 8002 | Obj_0010 | *ObjektIdent des Objektes, auf welches* |
 | 017 | 8003 | Obj_0010 | *Objektende des bezeichneten Objektes.* |
 
-das Objektattribut verweist! 
+LDT 3 Use Cases, Version 3.2.19
+
+das Objektattribut verweist! Seite 52 von 66
 
 
 ---
@@ -2783,6 +3065,12 @@ Material wurde am JJJJMMTT um HHmm entnommen
 
 Verdacht auf……, C00.1 gesichert, rechts, Infektion?
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 53 von 66
+
 
 ---
 
@@ -2803,6 +3091,12 @@ Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
 **BEISPEILDATEI:**
 
 Z01_UseCase09_Befund_mitPDF_ohneUnterschrift.ldt
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 54 von 66
 
 
 ---
@@ -2873,6 +3167,12 @@ Hinweis:
 
 Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!  Das Verfahren zur Stornierung von Untersuchungsanforderungen ist zwischen dem La-bor und dem Auftraggeber abzustimmen.
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 55 von 66
+
 
 ---
 
@@ -2881,6 +3181,7 @@ Hier wird **nur** die technische Möglichkeit einer Stornierung beschrieben!  Da
 | LDT 3 |  |
 | LDT 3 | Use Cases, Version 3.2.19 Seite 56 von 66 |
 
+IT in der Arztpraxis LDT 3 Use Cases, Version 3.2.19
 
 ---
 
@@ -2952,6 +3253,12 @@ Patient hat während der Probenentnahme Arzneimittel XYZ verabreicht bekommen
 
 Material wurde am JJJJMMTT um HHmm entnommen
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 57 von 66
+
 
 ---
 
@@ -2978,6 +3285,12 @@ Patient war in Afrika
 **BEISPIELDATEI:**
 
 Z01_UseCase13_Auftrag323_323.ldt
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 58 von 66
 
 
 ---
@@ -3054,8 +3367,18 @@ Fehlermeldung/Aufmerksamkeit: Text Text Text
 
 Ergebnis: Ergebnistext ErgebnistextErgebnistext
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 59 von 66
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 Zusätzliche Informationen: Text Text Text
 
@@ -3068,6 +3391,10 @@ Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
 **BEISPIELDATEI:**
 
 Z01_UseCase14_Befund_Obj_0073_mit_PDF.ldt
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 60 von 66
 
 
 ---
@@ -3138,6 +3465,12 @@ Probengefäß mit Nummer 1234567801 enthält Fluoridblut
 
 Material wurde am JJJJMMTT um HHmm entnommen
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 61 von 66
+
 
 ---
 
@@ -3157,8 +3490,18 @@ Der Befund im Format PDF wird als base64-kodierte Anlage mit übermittelt
 
 Z01_UseCase15_Befund_mit_PDF.ldt
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 62 von 66
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 # 14. Use Case 16 – Darstellung des Inhaltes Obj_0068
 
@@ -3242,7 +3585,9 @@ esse cillum dolore eu fugiat nulla  pariatur. Excepteur sint obcaecat  non proid
 
 cupiditat culpa qui officia deserunt mollit  anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen)
+LDT 3 Use Cases, Version 3.2.19
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eius…(max.990 Zeichen)Seite 63 von 66
 
 
 ---
@@ -3265,7 +3610,12 @@ Darstellung im empfangenden System:
 
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor  incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.  Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur.   Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia:  deserunt mollit anim  id est laborum  orem ipsum dolor  sit amet  consectetur adipisici.   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  aliquid ex ea commodi consequat.   Quis aute iure reprehenderit   Excepteur sint
 
-0813564incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 0863564nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 0853564Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat 0243564nulla pariatur. 0093564 0833564Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia: 02903564deserunt mollit anim  0233564id est laborum 0253564orem ipsum dolor  0173564sit amet 0313564consectetur adipisici. 0093564 0833564Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  0413564aliquid ex ea commodi consequat. 0093564 0373564Quis aute iure reprehenderit 0093564 0233564Excepteur sint 0093564
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+0813564incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis 0863564nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 0853564Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat 0243564nulla pariatur. 0093564 0833564Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia: 02903564deserunt mollit anim  0233564id est laborum 0253564orem ipsum dolor  0173564sit amet 0313564consectetur adipisici. 0093564 0833564Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut  0413564aliquid ex ea commodi consequat. 0093564 0373564Quis aute iure reprehenderit 0093564 0233564Excepteur sint 0093564 Seite 64 von 66
+
 
 ---
 
@@ -3337,8 +3687,18 @@ Endozervikale Zellen vorhanden, Proliferationsgrad 3  4, Döderleinflora vorhand
 
 Bemerkungen: Döderlein-Zytolyse
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 65 von 66
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 Empfohlen wird eine Abklärungskolposkopie in 3 Monaten
 
@@ -3353,3 +3713,7 @@ Das Muster 39 wird als Digitales Muster 39 im Format PDF als base64-kodierte Anl
 **BEISPIELDATEI:**
 
 Z01_UseCase17_Muster39.ldt
+
+LDT 3 Use Cases, Version 3.2.19
+
+Seite 66 von 66

@@ -8,6 +8,8 @@
 
 # HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
+Seite 1 von 2 / KBV /Elektronische Ausfüllhilfe Muster 20 / November 2018
+
 
 ---
 
@@ -34,3 +36,5 @@ Der Arbeitgeber bestätigt sein Einverständnis und ergänzt die entsprechenden 
 [Themenseite Arbeitsunfähigkeit:](http://www.kbv.de/629405)[](http://www.kbv.de/629405)[http://www.kbv.de/629405](http://www.kbv.de/629405)[](http://www.kbv.de/629405)
 
 [Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):](http://www.kbv.de/629405) www.kbv.de/media/sp/02_Erlaeuterungen.pdf
+
+Seite 2 von 2 / KBV /Elektronische Ausfüllhilfe Muster 20 / November 2018

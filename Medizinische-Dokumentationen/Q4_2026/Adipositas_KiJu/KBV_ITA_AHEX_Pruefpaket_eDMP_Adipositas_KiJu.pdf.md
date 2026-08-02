@@ -13,6 +13,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_ADIPOSITAS_KIJU]
 
+Seite 1 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
@@ -63,6 +65,10 @@ INHALT
 
 **26**
 
+Seite 2 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche
+
+/ Version: 1.00 / 31. März 2026
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 2211 Prüffall 2212 Prüffall Systemreaktion Prüffall 2214 Weitere Prüffälle zum Anforderungskatalog Prüffall 2230 Prüffall 2240 Prüffall 2211 Prüffall 2212 Prüffall 2240 
 
 
@@ -84,7 +90,7 @@ DOKUMENTENHISTORIE
 |---|---|---|---|---|---|
 | 1.00 | 31.03.2026 | KBV | Dokumenterstellung | Initiale Erstellung | Alle |
 
-6
+Seite 3 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026 6
 
 6
 
@@ -123,6 +129,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 #### HINWEIS
 
+Seite 4 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 ---
 
@@ -158,6 +165,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben  für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP
 
+Seite 5 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 ---
 
@@ -205,11 +213,13 @@ Dokumentation
 
 Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
 
-**1 Nummer des Prüffalls**
+________________  **1 Nummer des Prüffalls**
 
 **2 Laufende Nr.**
 
 **3 Gängiges Bild- bzw. Videoformat**
+
+Seite 6 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 Typ
 
@@ -265,6 +275,7 @@ Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüf
 - EF.PD = persönliche Versichertendaten
 - EF.GVD = geschützte Versichertendaten
 
+Seite 7 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 ---
 
@@ -304,6 +315,8 @@ Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 
 - ADKJ = X/112/2610/36/000
 
+Seite 8 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 
 ---
 
@@ -320,6 +333,9 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **2211** | Gertrud Zimmerpflanze | Ersatzverfahren (s. Anhang 4.1) |
 | **2212** | John Bayer | Ersatzverfahren (s. Anhang 4.2) |
 | **2240** | Lija Malta | Ersatzverfahren (s. Anhang 4.3) |
+
+Seite 9 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 
 ---
 
@@ -354,6 +370,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **Einzureichende  Prüfunterlagen** | › |
 | **Hinweis** | › |
 
+Seite 10 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 2211 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Gertrud Zimmerpflanze ( Ersatzverfahren zu erfassen. Ersatzverfahren – Anhang Jugendliche 4.1  sind im Jugendliche
 
 ---
@@ -379,8 +397,9 @@ Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erst
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-Informationsangebote der Krankenkasse 
+Seite 11 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
+Informationsangebote der Krankenkasse
 
 ---
 
@@ -401,6 +420,10 @@ Informationsangebote der Krankenkasse
 | Adipositas-Schulung für Kinder und |  | Ja |
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Beendigung der DMP-Teilnahme |  | Nein |
+
+Seite 12 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 /
+
+31. März 2026
 
 Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Jugendliche empfohlen (bei aktueller Dokumentation) Jugendliche wahrgenommen oder überprüft oder überprüft 
 
@@ -444,8 +467,11 @@ Die Versichertendaten von **John Bayers**  zu erfassen.
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
-Anlage einer Erst- und einer Folgedokumentation Patient ist zum Datum der Erstdokumentation 15,5 Jahre alt (Geburtsdatum liegt 15 Jahre und 6 Monate vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen Informationsangebote der Krankenkasse Jugendliche Jugendliche (Ersatzverfahren - Anhang 4.2) sind im Ersatzverfahren
+Seite 13 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
+(Ersatzverfahren - Anhang 4.2) sind im Ersatzverfahren
+
+Anlage einer Erst- und einer Folgedokumentation Patient ist zum Datum der Erstdokumentation 15,5 Jahre alt (Geburtsdatum liegt 15 Jahre und 6 Monate vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen Informationsangebote der Krankenkasse Jugendliche Jugendliche
 
 ---
 
@@ -467,8 +493,9 @@ Anlage einer Erst- und einer Folgedokumentation Patient ist zum Datum der Erstdo
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Beendigung der DMP-Teilnahme |  | Nein |
 
-Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Jugendliche empfohlen (bei aktueller Dokumentation) Jugendliche wahrgenommen überprüft überprüft möglich 
+Seite 14 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
+Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Jugendliche empfohlen (bei aktueller Dokumentation) Jugendliche wahrgenommen überprüft überprüft möglich
 
 ---
 
@@ -513,6 +540,8 @@ Die Personalien zu dem Testfall sind frei wählbar.
 |  |  |  |
 |  |  |  |
 
+Seite 15 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Datum der Erstdokumentation genau 14 Jahre alt (Geburtsdatum liegt 14 Jahre vor Datum der Erstdokumentation) (z.B.: Datum der Erstellung 15.10.2026 -> Patient wurde am 15.10.2012 geboren) Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Jugendliche Erkrankungen
 
 ---
@@ -537,6 +566,8 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Datum 
 | Vom Patienten gewünschte Informationsangebote |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
+
+Seite 16 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen Bewegung im Alltag Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation Regelmäßige Bewegung im Alltag Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation) Adipositas-Schulung für Kinder und Jugendliche wahrgenommen Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP-Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, Erstdokumentation abgeschlossen werden kann. Erstdokumentation 4,13 Ziele vereinbart Keine Ziele vereinbart oder überprüft ketogene Ernährung damit die Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -600,6 +631,8 @@ der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen B
 |  | | |
 |  |  | Einschreibung wegen |
 
+Seite 17 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 der Krankenkasse Jugendliche Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  letzten Dokumentation
 
 ---
@@ -622,8 +655,9 @@ der Krankenkasse Jugendliche Herzinsuffizienz, Asthma bronchiale Ernährungsbera
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Beendigung der DMP-Teilnahme | Ja | Nr. 18 |
 
-Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen 
+Seite 18 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
+Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung seit der multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen
 
 ---
 
@@ -652,7 +686,10 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 \|  |
 \|  |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse Dieser Testfall ist unterteilt in 5 Szenarien einer vorherigen Dokumentation, gemäß Anforderung P1-50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht.  Anforderung KP1-26  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden.  gemäß Anforderung KP2-610  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). Bei dem Parameter „Körpergewicht“ wird die Angabe „115“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „300“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „240“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „480“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „65“ gemacht. Zeigen Sie die
+Seite 19 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse Dieser Testfall ist unterteilt in 5 Szenarien einer vorherigen Dokumentation, gemäß Anforderung P1-50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  dem Parameter „Beendigung der DMP-Teilnahme“ die Angabe „Ja“ gemacht.  Anforderung KP1-26  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP ) überprüft werden.  gemäß Anforderung KP2-610  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP). Bei dem Parameter „Körpergewicht“ wird die Angabe „115“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „300“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „240“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „480“ gemacht. Zeigen Sie die Bei dem Parameter „Körpergewicht“ wird die Angabe „65“ gemacht. Zeigen Sie die 
+
 
 ---
 
@@ -668,6 +705,8 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumenti
 \| 6. 7. |
 
 Mit diesem Szenario soll die korrekte Umsetzung der **Anforderung KP2-610 AK4 sowie der**  **übergreifenden Plausibilitäten** (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft  werden.
+
+Seite 20 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 Bei dem Parameter „Körpergewicht“ wird die Angabe „85“ gemacht. Zeigen Sie die Systemreaktion.  Bei dem Parameter „Körpergewicht“ wird die Angabe „105“ gemacht. Zeigen Sie die Systemreaktion.  1. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. 2. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 3 Jahre alt ist.  Zeigen Sie das Systemverhalten. Mit diesem Szenario soll die korrekte Umsetzung der übergreifenden Plausibilitäten überprüft werden.  Szenario 5 1. Bitte legen Sie für einen beliebigen Patienten eine Erstdokumentation an, in welcher der Patient 17,5 Jahre alt ist. Legen Sie anschließend für den gleichen Patienten Folgedokumentationen an, bis der Patient in der aktuellen Folgedokumentation 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. 2. Legen Sie anschließend für den gleichen Patienten eine weitere Folgedokumentationen an, in welcher der Patient 20 Jahre alt ist.  Jugendliche“ sowie „Adipositas - Erwachsene“ gemacht werden. Zeigen Sie das Systemverhalten. Legen Sie anschließend für den gleichen Patienten weitere Folgedokumentationen an, bis der Patient über 21 Jahre alt ist. Zeigen Sie das Systemverhalten.
 
@@ -705,6 +744,8 @@ Die Versichertendaten von **Lija Malta** (Ersatzverfahren – Anhang 4.3) sind i
 | DMP-Fallnummer | 2240 |
 | Datum | 15.10.2026 |
 
+Seite 21 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 eDMP ( und Einwilligungserklärung  auf der indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
 
@@ -731,6 +772,8 @@ Name
 391234511_20261015101010_1_ADKJ_100.idx.XKM
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 22 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 Typ
 
@@ -772,6 +815,10 @@ XKM-Datei
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 13 |
 
+Seite 23 von 27 / KBV / Prüfpaket eDMP- Adipositas -
+
+Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020) 
 
 
@@ -801,6 +848,10 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 | **4111** | **Kostentraegerkennung** | 101577500 |
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 00 |
+
+Seite 24 von 27 / KBV / Prüfpaket eDMP- Adipositas -
+
+Kinder und Jugendliche / Version: 1.00 / 31. März 2026
 
 (Bsp.: Erstdokumentation am 15.10.2026, Geburtsdatum 15.04.2011) 
 
@@ -833,6 +884,10 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 00 |
 
+Seite 25 von 27 / KBV / Prüfpaket eDMP- Adipositas -
+
+Kinder und Jugendliche / Version: 1.00 / 31. März 2026
+
 ---
 
 5 REFERENZIERTE DOKUMENTE
@@ -861,7 +916,15 @@ Erstdokumentation am 15.10.2026, Geburtsdatum 15.10.2020)
 
 **Ansprechpartner:**
 
-Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Kinder und Jugendliche Schnittstellenbeschreibung eDMP Adipositas - Kinder und Jugendliche Schnittstellenbeschreibung Jugendliche Vertragsärztlichen Versorgung - Kinder und Jugendliche KBV-Stammdateien zu verwenden. (Datenannahmestellen Stammdatei) Dezernat Digitalisierung und IT
+Dezernat Digitalisierung und IT
+
+________________
+
+Seite 26 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche
+
+/ Version: 1.00 / 31. März 2026
+
+Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Kinder und Jugendliche Schnittstellenbeschreibung eDMP Adipositas - Kinder und Jugendliche Schnittstellenbeschreibung Jugendliche Vertragsärztlichen Versorgung - Kinder und Jugendliche KBV-Stammdateien zu verwenden. (Datenannahmestellen Stammdatei) 
 
 
 ---
@@ -869,3 +932,7 @@ Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokum
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 27 von 27 / KBV / Prüfpaket eDMP- Adipositas -
+
+Kinder und Jugendliche / Version: 1.00 / 31. März 2026

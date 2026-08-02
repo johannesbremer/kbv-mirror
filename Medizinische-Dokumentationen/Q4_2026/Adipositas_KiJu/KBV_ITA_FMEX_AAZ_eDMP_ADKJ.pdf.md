@@ -13,6 +13,8 @@
 
 ## [KBV_ITA_FMEX_AAZ_EDMP_ADKJ]
 
+Seite 1 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / 13. Februar 2026
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
 
 
@@ -46,8 +48,12 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
+Seite 2 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar 2026
+
 
 ---
+
+Antragssteller:
 
 ## 1.2 OPTIONALE ANGABEN FÜR KOSTENBESCHEIDE
 
@@ -78,6 +84,8 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 | ☐ | Windows | ☐ | Mac OS | ☐ | Linux |
 | ☐ | iOS/Android | ☐ | Sonstige | | |
 
+Seite 3 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar  2026
+
 
 ---
 
@@ -105,8 +113,11 @@ Folgende optionale eDMP Adipositas-Kinder und Jugendliche Funktionen sind gem. A
 |  |  |
 |  |  |
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. 
+Seite 4 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar  2026
 
+Antragssteller:
+
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
 
 ---
 
@@ -129,10 +140,18 @@ Es ist zwingend notwendig den Ansprechpartner für das vorliegende „Zertifizie
 | **Telefonnummer** |  |
 | **E-Mail-Adresse** |  |
 
+________________
+
 Diese Information ist verpflichtend anzugeben
+
+Seite 5 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar  2026
+
+Antragssteller:
 
 
 ---
+
+Antragssteller:
 
 # 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -157,8 +176,11 @@ Diese Information ist verpflichtend anzugeben
 - (3) Der Antragsteller akzeptiert die aktuellen Bedingungen aus dem Dokument „Zertifizierungsrichtlinie  [der KBV“ [](https://update.kbv.de/ita-update/Allgemein/KBV_ITA_RLEX_Zert.pdf)[KBV_ITA_RLEX_Zert](https://update.kbv.de/ita-update/Allgemein/KBV_ITA_RLEX_Zert.pdf)[], sowie zukünftige Aktualisierungen dieser Richtlinie.](https://update.kbv.de/ita-update/Allgemein/KBV_ITA_RLEX_Zert.pdf)
 - (4) [Werden im Produktivbetrieb Fehler am Zertifizierungsgegenstand festgestellt, so muss der](https://update.kbv.de/ita-update/Allgemein/KBV_ITA_RLEX_Zert.pdf) Antragsteller dafür sorgen, dass diese Fehler umgehend beseitigt und die fehlerfreie Version den  Anwendern schnellstmöglich zur Verfügung gestellt werden. Die KBV kann in diesem  Zusammenhang den Antragsteller zu einer Stellungnahme auffordern.
 - (5) Der Antragsteller stellt sicher, dass dem Anwender, die über das Update der KBV aktualisierten  Anforderungen und Stammdateien, rechtzeitig zum entsprechenden Gültigkeitsbeginn zur  Verfügung gestellt werden. Alle gesetzlichen und vertraglichen Vorgaben, die die KBV  veröffentlicht, müssen zum vorgesehenen Zeitpunkt umgesetzt werden.
+- (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  [Software für Softwarehersteller – “ [](https://update.kbv.de/ita-update/Lizenzvereinbarung/KBV_ITA_%20VGEX_Lizenzvereinbarung.pdf)[KBV_ITA_VGEX_Lizenzvereinbarung](https://update.kbv.de/ita-update/Lizenzvereinbarung/KBV_ITA_%20VGEX_Lizenzvereinbarung.pdf)
 
-und Jugendliche Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  [Software für Softwarehersteller – “ [](https://update.kbv.de/ita-update/Lizenzvereinbarung/KBV_ITA_%20VGEX_Lizenzvereinbarung.pdf)[KBV_ITA_VGEX_Lizenzvereinbarung](https://update.kbv.de/ita-update/Lizenzvereinbarung/KBV_ITA_%20VGEX_Lizenzvereinbarung.pdf)
+Seite 6 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar
+
+und Jugendliche Rezertifizierung 2026
 
 
 ---
@@ -170,7 +192,14 @@ und Jugendliche Rezertifizierung - (6) Der Antragsteller akzeptiert die Lizenzve
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+Seite 7 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar  2026
+
+Antragssteller:
+
+
 ---
+
+Antragssteller:
 
 |  |  |  |
 |---|---|---|
@@ -185,3 +214,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 8 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar  2026

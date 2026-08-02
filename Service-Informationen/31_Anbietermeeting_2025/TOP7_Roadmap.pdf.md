@@ -18,6 +18,12 @@
 - eVDGA in der Version 1.2.0
 - **FHIR**
 
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 2
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -37,6 +43,12 @@
 - Schwangerschaft und Geburt (O60.- bis O62.- , O64.- bis O66.- , O70.-)
 - Komplikationen nach Infusionen, Transfusionen und Injektionen (T80.-)
 - **KODIERREGELN 2026**
+
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 3
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -62,6 +74,12 @@
 - Es findet keine strukturelle Änderung der Stammdatei statt.
 - **KODIERREGELN 2026**
 
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 4
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -78,7 +96,12 @@
 | eBTM und eT-Rezept | in der Finalisierung, Bereitstellung | Q4/2026 |
 | VoS-Schnittstelle | Im Oktober startet die | Q4/2026 |
 
-Kinder Ende September 2025 geplant Kommentierungsphase Q1/2026 eine Pilotierung    - **ROADMAP**
+**ROADMAP - IT IN DER VERSORGUNG**
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+- **ROADMAP**
+
+Kinder Ende September 2025 geplant Kommentierungsphase Q1/2026 eine PilotierungSEITE 5
 
 
 ---
@@ -107,6 +130,12 @@ Kinder Ende September 2025 geplant Kommentierungsphase Q1/2026 eine Pilotierung 
 
 - **EVDGA**
 
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 6
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -132,6 +161,12 @@ erhalten, welche zu Ende September 2025 beantwortet werden.
 
 - **EREZEPT V1.4.0**
 
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 7
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -146,6 +181,14 @@ erhalten, welche zu Ende September 2025 beantwortet werden.
 # - Akteuren nun die Erarbeitung des digitalen Verordnungsverfahrens gestartet.
 
 - **EVHEILM**
+
+Quelle: gematik GmbH [https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf (gekürzt)](https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf)
+
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 8
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -177,6 +220,12 @@ erhalten, welche zu Ende September 2025 beantwortet werden.
 
 - Derzeit planen wir die Pilotierung des Verfahrens für 2027.
 - **EANTPSYCH**
+
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 9
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -210,6 +259,12 @@ erhalten, welche zu Ende September 2025 beantwortet werden.
 - [Bei Fragen wenden Sie sich gerne an den unter](mailto:support-implantateregister@d-trust.net)[support-implantateregister@d-trust.net](mailto:support-implantateregister@d-trust.net)[oder](mailto:support-implantateregister@d-trust.net) telefonisch an +49 030 / 2598 -4316
 - **IMPLANTATEREGISTER**
 
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 10
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -229,6 +284,12 @@ erhalten, welche zu Ende September 2025 beantwortet werden.
 
 - **ABSCHALTUNG SNK**
 
+**ROADMAP - IT IN DER VERSORGUNG**
+
+SEITE 11
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -236,3 +297,5 @@ erhalten, welche zu Ende September 2025 beantwortet werden.
 |---|---|---|
 | **ROADMAP -** | **IT IN DER VERSORGUNG** | |
 | 31. | ANBIETERMEETING DER | KBV AM 18. SEPTEMBER 2025 |
+
+VIELEN DANK! ROADMAP - IT IN DER VERSORGUNG 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 4 VON 4

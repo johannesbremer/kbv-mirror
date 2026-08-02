@@ -11,10 +11,12 @@
 
 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
+Seite 1 von 3 / KBV / Muster 9  Bescheinigung einer Fehlgeburt, Frühgeburt oder Behinderung des Kindes / 8. August 2025
+
+
 ---
 
-> [OCR REQUIRED — page 2]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 2 von 3 / KBV / Muster 9  Bescheinigung einer Fehlgeburt, Frühgeburt oder Behinderung des Kindes / 8. August 2025
 
 
 ---
@@ -50,3 +52,5 @@ Die ärztliche Feststellung muss gemäß § 3 Abs. 2 Nr. 3 MuSchG innerhalb von 
 #### Mehr Informationen
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF):  [https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf) [vordruckvereinbarung/02_Vordruckvereinbarung.pdf](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)[](https://www.kbv.de/documents/infothek/rechtsquellen/bundesmantelvertrag/anlage-02-vordruckvereinbarung/02_Vordruckvereinbarung.pdf)
+
+Seite 3 von 3 / KBV / Muster 9  Bescheinigung einer Fehlgeburt, Frühgeburt oder Behinderung des Kindes / 8. August 2025

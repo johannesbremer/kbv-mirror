@@ -22,6 +22,8 @@ Stand der letzten Bearbeitung: 22.02.2023
 
 Version 9
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+
 
 ---
 
@@ -58,6 +60,8 @@ DMP gibt es für die Indikationen
 - Asthma bronchiale
 - COPD
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+
 
 ---
 
@@ -85,6 +89,8 @@ Die Dokumentationen sind aus Ihrer Praxis elektronisch an die für Sie zuständi
 
 Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden werden,  lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible Dokumentation  abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle innerhalb von  52 Kalendertagen nach Ablauf des Dokumentationszeitraumes vorliegen.
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+
 bei der Feststellung der
 
 **Datenstelle oder**
@@ -95,6 +101,8 @@ muss inklusive
 ---
 
 Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben,  wenden Sie sich bitte an die zuständige Stelle (z. B. Ihre KV oder die zuständige Datenstelle).
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
 
 
 ---
@@ -132,6 +140,8 @@ Bitte beachten Sie, dass eine gleichzeitige Teilnahme für folgende Indikationen
 -  KHK und Chronische Herzinsuffizienz
 
 Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst- oder Folgedokumentation) für die jeweils ausgewählte  Indikation angeben. Dabei ist es möglich, die diagnosebezogen unterschiedlichen  Dokumentationstypen zu kombinieren. So können Sie z. B. gleichzeitig eine
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
 
 
 ---
@@ -176,6 +186,8 @@ Eine Angabe ist verpflichtend; dabei sind Mehrfachnennungen möglich.
 
 Hier geben Sie bitte an, ob Ihre Patientin oder Ihr Patient eine oder mehrere der  aufgeführten Begleiterkrankungen hat. Sollte(n) bei Ihrer Patientin oder Ihrem Patienten  andere als die hier aufgeführten oder gar keine Begleiterkrankungen vorliegen, geben Sie  bitte „Keine der genannten Erkrankungen“ an.
 
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+
 **DMP zu Asthma bronchiale**
 
 **DMP zu Diabetes mellitus**
@@ -202,5 +214,7 @@ Das Dokumentationsintervall ist in Abhängigkeit vom Krankheitsstatus unter  Ber
 Eine Angabe ist verpflichtend.
 
 Hier ist das Datum der Erstellung der Dokumentation einzutragen. Es dient zur  Feststellung, ob die Dokumentation im dafür geplanten Intervall ausgestellt wurde. Es  kann durch Sie nach Abschluss der Dokumentation nicht mehr verändert werden.
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
 
 Tabakverzicht, zu einer

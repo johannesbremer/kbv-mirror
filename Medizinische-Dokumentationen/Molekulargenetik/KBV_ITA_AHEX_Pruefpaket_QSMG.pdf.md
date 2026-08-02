@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSMG]
 
+Seite 1 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
@@ -50,6 +52,10 @@ INHALT
 
 **27**
 
+Seite 2 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 /
+
+27. Januar 2022
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4 
 
 
@@ -63,6 +69,8 @@ Abbildung 2: Testdatenvalidierung 23
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 23
 
+Seite 3 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 ---
 
 DOKUMENTENHISTORIE
@@ -74,8 +82,9 @@ DOKUMENTENHISTORIE
 | 1.11 | 13.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.10 | 23.05.2017 | KBV | Überarbeitung von    Überarbeitung der | Vereinheitlichung der    Aufgrund der | 5ff      9ff |
 
-Inhalt (Seite 15) Anpassung des Prüffalls gelöscht Layouts Corporate Design auf Zertifizierung Zertifizierungsportals Kapitel 1 Strukturen Aktualisierung der Prüffälle Plausibilität 
+Seite 4 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
+Inhalt (Seite 15) Anpassung des Prüffalls gelöscht Layouts Corporate Design auf Zertifizierung Zertifizierungsportals Kapitel 1 Strukturen Aktualisierung der Prüffälle Plausibilität
 
 ---
 
@@ -106,6 +115,8 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 5 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -143,6 +154,7 @@ Es wird eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im entspr
 
 KBV_ITA_VGEX_XML-Schnittstellen
 
+Seite 6 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -174,12 +186,15 @@ Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum eingesetzt werd
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
+________________
+
 Prüfstammdateien verwendet 1 Nummer des Prüffalls
 
 2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
 
+Seite 7 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -204,8 +219,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 
 **Hinweis:** Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses  Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen.
 
-Glücklich/Müller 
+Seite 8 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
+Glücklich/Müller
 
 ---
 
@@ -238,8 +254,9 @@ Glücklich/Müller
 | **Unterauftrag** | Nein | | |
 | **Dokumentationsdatum** | 01.04.2017 | | |
 
-Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überprüfung der korrekten Systemfunktionalität 1. Jahresstatistik 2017 QS Molekulargenetik für die BSNR 381234511 2. Screenshots zum Nachweis, dass alle Behandlungsfälle angelegt werden können und die Jahresstatistik immer nur für eine (Neben-) Betriebsstätte erstellt werden kann (P1-10 und P1-30) 11 Behandlungsfälle  nach Anlage eines jeweils entsprechenden 
+Seite 9 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
+Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überprüfung der korrekten Systemfunktionalität 1. Jahresstatistik 2017 QS Molekulargenetik für die BSNR 381234511 2. Screenshots zum Nachweis, dass alle Behandlungsfälle angelegt werden können und die Jahresstatistik immer nur für eine (Neben-) Betriebsstätte erstellt werden kann (P1-10 und P1-30) 11 Behandlungsfälle  nach Anlage eines jeweils entsprechenden
 
 ---
 
@@ -267,6 +284,10 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **LANR des Einsenders** | 838382022 | | |
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.06.2017 | | |
+
+Seite 10 von 27 / KBV / Pruefpaket QS
+
+-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -298,6 +319,10 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.09.2017 | | |
 
+Seite 11 von 27 / KBV / Pruefpaket QS
+
+-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 ---
 
 - 2. **Anmelden als 2. Arzt mit BSNR 381234511 und LANR 112354648**
@@ -328,9 +353,13 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **Unterauftrag** | Ja | | |
 | **Dokumentationsdatum** | 30.06.2017 | | |
 
+Seite 12 von 27 / KBV / Pruefpaket QS -Molekulargenetik /
+
 ```
 -
 ```
+
+Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -361,6 +390,10 @@ Abrechnungsfalls (Satzart 0102 mit Scheinuntergruppe 27 oder 21) erfasst Überpr
 | **LANR des Einsenders** | 838382104 | | |
 | **Unterauftrag** | Nein | | |
 | **Dokumentationsdatum** | 31.12.2017 | | |
+
+Seite 13 von 27 / KBV / Pruefpaket QS
+
+-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -402,6 +435,8 @@ Anzahl der erteilten Ringversuchs-Zertifikate im ganzen Jahr, unterschieden nach
 
 - 4. **Erstellung der Jahresstatistik 2017 für die BSNR 381234511**
 
+Seite 14 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 
 ---
 
@@ -432,8 +467,10 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 |  |  | **davon unauffällige** | keine Angabe |
 |  |  | **davon nicht beurteilbare** | keine Angabe |
 
-1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde   - Anhang 4.1 (Videomitschnitt, in dem auch
+Seite 15 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
+- Anhang 4.1 (Videomitschnitt, in dem auch
+1. Überprüfung der korrekten Umsetzung von P1-300, P1-400 und P1-500 2. Überprüfung der korrekten Systemreaktion auf Fehlerfälle 1. Video von dem Änderungsvorgang der Jahresstatistik 2. Bei softwareseitiger Erkennung der Fehler: Screenshots der Warnhinweise 3. Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde
 
 ---
 
@@ -460,8 +497,9 @@ Aktionen, die durch den Antragsteller durchgeführt werden:
 |  |  | **davon unauffällige** | 500 |
 |  |  | **davon nicht beurteilbare** | 0 |
 
-Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde 
+Seite 16 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
+Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
 
 ---
 
@@ -486,8 +524,9 @@ Fragestellung vorgeburtlicher Fragestellung diagnostischer Fragestellung Endbefu
 | **10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2** | | | |
 | **Gesamtanzahl der Zertifikate** | 4 |  | |
 
-Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde 
+Seite 17 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
+Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
 
 ---
 
@@ -503,6 +542,9 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 |  | **22 (Humangenetik)** | 300 |  |
 
 - 3. **Erstellung der Korrekturlieferung der Jahresstatistik 2017 QS Molekulargenetik mit den Angaben der**  **Tabelle 1 und Änderungen entsprechend Konstellation 8**
+
+Seite 18 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 
 ---
 
@@ -536,6 +578,8 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 | **Prüfunterlagen** | › › |
 | **Hinweis** |  |
 
+Seite 19 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 1. Screenshot, dass die Erfassung der geforderten Jahresstatistik nicht möglich ist 2. Bitte übermitteln Sie alle durch diese Jahresstatistik erzeugten Warnungen (oder Fehler) PRÜFFALL 3 Aktionen, die durch den Antragsteller durchgeführt werden: Erfassung der Jahresstatistik nach EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung (pathologisch) Behandlungsfällen pathologischem Endbefund Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde mit pathologischem Endbefund
 
 ---
@@ -562,6 +606,10 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 | **Quotient** | **Anzahl GOPs bei** | **Anzahl Behandlungsfälle** | **Quotient** |
 |  | 1 | 1 | 1,00 |
 
+Seite 20 von 27 / KBV / Pruefpaket QS-
+
+Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 (unauffällig) Behandlungsfällen mit unauffälligem mit unauffälligem Endbefund Endbefund 
 
 
@@ -587,6 +635,8 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 | **Prüfunterlagen** | › |
 | **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
+Seite 21 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 1. Überprüfung von Funktionen P1-310, P1-60, P1-70, P1-90 und P1-220 2. Überprüfung, dass Änderungen nach Ende des Prüfquartals nicht mehr möglich sind 3. Überprüfung, dass Art der Fragestellung und Art des Befundes zu einem GOP nach EBM-Unterabschnitt 11.4.2 Pflichtangaben bei der Erstellung eines Behandlungsfalls sind Entsprechende Screenshots  PRÜFFALL 4 Aktionen, die durch den Antragsteller durchgeführt werden: Jahresstatistik am 01.07.2018 (nach Ende des Prüfquartals) nicht mehr möglich ist.  kann (P1-310). Die Art der Fragestellung zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Fragestellungen für den Behandlungsfall nicht möglich ist, auch wenn mehrere Behandlungen (Überweisungen) für den Behandlungsfall vorliegen (P1-60).  Die Art des Endbefundes zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten für den Befund im Sinne der Fragestellung des Behandlungsfalls nicht möglich ist. Für den Behandlungsfall müssen mehrere verschiedene Befunde existieren (P1-70).  Die Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Befunden für die Leistung nicht möglich ist (P1-90). Art der Fragestellung des Behandlungsfalls  Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 verpflichtend sind, der Endbefund zum Behandlungsfall aber nicht angegeben werden muss.
 
 ---
@@ -602,6 +652,8 @@ Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde End
 \| **SZENARIEN** |
 \| **Szenario 4** |
 \| Erstellen Sie einen Behandlungsfall, bei dem kein Endbefund dokumentiert wurde. Weisen Sie per |
+
+Seite 22 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 Screenshot nach, dass bei der Erstellung der Jahresstatistik der Benutzer darauf hingewiesen wird, dass noch ein Behandlungsfall ohne Endbefund vorliegt (P1-220). 
 
@@ -619,6 +671,8 @@ Abbildung 2: Testdatenvalidierung
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 23 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -674,6 +728,8 @@ Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | 1500 |  | **2** | |
 | dabei Behandlungsfälle mit | 700 | davon pathologische | 300 |
 |  |  | davon unauffällige | 300 |
+
+Seite 24 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorgeburtlicher Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunden Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
 
@@ -732,6 +788,8 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 | 700 |  | 600 | 1,17 |
 | **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 
+Seite 25 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
 (pathologisch) (unauffällig) (nicht beurteilbar) mindestens einem Unterauftrag Behandlungsfällen pathologischem Behandlungsfällen mit unauffälligem Behandlungsfällen mit nicht beurteilbarem pathologischem Endbefund unauffälligem Endbefund nicht beurteilbarem
 
 ---
@@ -789,6 +847,7 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 |  | **04 (Anästhesiologie)** | 200 |  |
 |  | **22 (Humangenetik)** | 300 |  |
 
+Seite 26 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
@@ -812,4 +871,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Molekulargenetik Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 27 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
+
+XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Molekulargenetik

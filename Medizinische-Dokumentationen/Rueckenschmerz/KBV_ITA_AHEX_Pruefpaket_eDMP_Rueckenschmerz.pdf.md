@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RUECKENSCHMERZ]
 
+Seite 1 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
@@ -130,6 +132,10 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 **31**
 
+Seite 2 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz /
+
+Version: 1.04 / 1. Juli 2026
+
 ---
 
 ABBILDUNGSVERZEICHNIS
@@ -144,6 +150,8 @@ ABBILDUNGSVERZEICHNIS
 |  |  | Abbildung 2: Exemplarische Struktur der |  |  |  |
 |  |  | DOKUMENTENHISTORIE **Version  Datum** | | | |
 |  | **Änderung** |  |  | **Begründung** |  |
+
+Seite 3 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV3518 Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV3518 Archivdatei  mit den Prüfunterlagen für die Testdatenvalidierung zur Schnittstellenversionen Bearbeitung von Prüffall 3530 übergreifenden Prüffälle an COPD- 4.06 Prüffälle. für die Teilnahmeerklärung Prüffälle. für die Testdatenvalidierung zur 1.01 ist ab 01.10.2026 zu verwenden 1.02 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 4.06 ist ab 01.04.2023 zu verwenden wegen der übergreifenden Prüffälle. 1.01 ist ab 01.04.2023 zu verwenden.
 
@@ -160,8 +168,11 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung
 | Umsetzung der    Redaktionelle | Änderungen im | 22 | | | |
 | 1.00 | 15.02.2021 | KBV | Dokumenterstellung | Initiale Erstellung | alle |
 
-übergreifenden Teilnahmeerklärung. Anforderungskatalog. Bearbeitung von Prüffall 3530 
+Seite 4 von 32 / KBV / Pruefpaket eDMP-
 
+Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
+übergreifenden Teilnahmeerklärung. Anforderungskatalog. Bearbeitung von Prüffall 3530
 
 ---
 
@@ -195,6 +206,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 **HINWEIS**
 
+Seite 5 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
 ---
 
@@ -230,6 +242,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die einzelnen  XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen das  jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben für  die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument Austausch_von_XML-Daten_V(n.nn).ZIP
 
+Seite 6 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
 ---
 
@@ -258,13 +271,15 @@ Dokumentation
 
 Abbildung 2: Exemplarische Struktur der
 
-**1 Nummer des Prüffalls**
+________________  **1 Nummer des Prüffalls**
 
 **Archivdatei**
 
 **2 Laufende Nummer**
 
 **3 Gängiges Bild- bzw. Videoformat**
+
+Seite 7 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
 Dateiordner
 
@@ -308,8 +323,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
-391234511 Prüfstammdateien verwendet
+Seite 8 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
+Prüfstammdateien verwendet 391234511
 
 ---
 
@@ -351,6 +367,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **3540** | Lija Malta | XML_36 |
 | **TDV3518** | Christoph Rückenschmerz | Ersatzverfahren (s. Anhang 4.2) |
 
+Seite 9 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
 
 ---
 
@@ -390,7 +408,10 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des C
 |  |  |  |
 |  |  |  |
 
-erfasst werden. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten?
+Seite 10 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
+erfasst werden. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten? 
+
 
 ---
 
@@ -428,6 +449,8 @@ erfasst werden. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf eine
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 06.04.2024 | 06.07.2024 |
 
+Seite 11 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
 den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Behandlungsplanung Informationsangebote der Krankenkasse  oder 0 = keine Erstdokumentation 3511 06.04.2024 chronischer Männlich 106 kg 145 / 90 mmHg Ja Arterielle Hypertonie Tabakverzicht, Ernährungsberatung, Verlaufsdokumentation 3511 06.07.2024 chronischer Männlich Keine der genannten Erkrankungen Körperliches Training 
 
 
@@ -451,6 +474,10 @@ den letzten 3 Monaten Ihre Freizeitaktivitäten Unternehmungen im Familien- und 
 | CPG Item 5: Kreuzschmerzbedingte | Automatische | Automatische |
 | Erreichung mindestens eines der individuell |  | Mindestens ein Ziel |
 | Beendigung der DMP-Teilnahme vereinbart |  | Nein |
+
+Seite 12 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz
+
+/ Version: 1.04 / 1. Juli 2026
 
 kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht-Opioidanalgetika multimodalen Schulung teilgenommen (bei aktueller Dokumentation) wahrgenommen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten vereinbarten Ziele seit der letzten Dokumentation Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen erreicht 
 
@@ -495,8 +522,11 @@ Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
 | Datum der Erstellung | 06.04.2024 | 06.07.2024 |
 
-Informationsangebote der Krankenkasse Rückenschmerz Keine der genannten Rückenschmerz speichern.
+Seite 13 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
+speichern.
+
+Informationsangebote der Krankenkasse Rückenschmerz Keine der genannten Rückenschmerz
 
 ---
 
@@ -519,8 +549,9 @@ Informationsangebote der Krankenkasse Rückenschmerz Keine der genannten Rücken
 | Erreichung mindestens eines der individuell |  | Kein Ziel vereinbart |
 | Beendigung der DMP-Teilnahme vereinbart |  | Nein |
 
-kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht-Opioidanalgetika multimodalen Schulung teilgenommen (bei aktueller Dokumentation) wahrgenommen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten vereinbarten Ziele seit der letzten Dokumentation  
+Seite 14 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
+kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedikation: Opioidanalgetika Schmerzmedikation: Nicht-Opioidanalgetika multimodalen Schulung teilgenommen (bei aktueller Dokumentation) wahrgenommen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten vereinbarten Ziele seit der letzten Dokumentation
 
 ---
 
@@ -553,6 +584,8 @@ kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Schmerzmedika
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+Seite 15 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
 Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System keine COPD-Zulassung besitzen, dann sind nur die CR-Daten zu übermitteln. Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Versichertendaten von Kai von und zu Oldenburg (Siehe erfassen. 2. Anlegen einer Erst- und einer Verlaufsdokumentation Anhang 4.1 ) sind im Ersatzverfahren Rückenschmerz, COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die CR- Dokumentation ist dies COPD Rückenschmerz, COPD Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die CR- Dokumentation ist dies COPD
 
@@ -613,6 +646,8 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 |  |  |  |  |
 | Kurz wirksame Beta-2-Sympathomimetika | Dauermedikation |  |  |
 
+Seite 16 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
 Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Aktueller FEV1-Wert (alle sechs bis zwölf Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Häufigkeit von Exazerbationen seit der letzten Dokumentation Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen COPD seit der letzten Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Kurz wirksame Beta-2-Sympathomimetika und/oder Anticholinergika Lang wirksame Anticholinergika Sonstige diagnosespezifische Medikation Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht- Opioidanalgetika Dokumentation) Schulung schon vor der Einschreibung in 060,0 Prozent des Soll- Wertes Dauermedikation Andere Ja, länger als 12 Wochen 092,0 Prozent des Soll- Wertes Dauermedikation Inhalative Glukokortikosteroide Wochen Bei Bedarf DMP bereits wahrgenommen
 
 ---
@@ -651,6 +686,10 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und 
 | CR | CPG Item 5: Kreuzschmerzbedingte | 5 | 3 |
 | CR | Erreichung mindestens eines der |  | Mindestens ein Ziel |
 | CR | Beendigung der DMP-Teilnahme |  | Nein |
+
+Seite 17 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 /
+
+1. Juli 2026
 
 einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation) ausgesprochen Tabakentwöhnungsprogramm ausgesprochen seit der letzten Empfehlung teilgenommen ausgesprochen Kreuzschmerzen in den letzten drei Monaten Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten individuell vereinbarten Ziele seit der letzten Dokumentation  vereinbart Dokumentation keine Schulung empfohlen Dokumentation keine Schulung empfohlen erreicht 
 
@@ -696,6 +735,8 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Vom Patienten gewünschte Informationsangebote der | Nicht möglich | Nr. 6 |
 | Dokumentationsintervall | Monatsweise | Nr. 7 |
 
+Seite 18 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
 Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Krankenkasse Rückenschmerz
 
 ---
@@ -720,8 +761,9 @@ Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktion
 
 - **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann .**
 
-kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalgetika Nicht-Opioidanalgetika multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei Monaten alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Ziele seit der letzten Dokumentation erreicht 
+Seite 19 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
+kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalgetika Nicht-Opioidanalgetika multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei Monaten alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Ziele seit der letzten Dokumentation erreicht
 
 ---
 
@@ -766,7 +808,12 @@ kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalget
 |  |  |  |
 |  |  |  |
 
-Krankenkasse Rückenschmerz Erkrankungen kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalgetika Nicht-Opioidanalgetika
+Seite 20 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz /
+
+Version: 1.04 / 1. Juli 2026
+
+Krankenkasse Rückenschmerz Erkrankungen kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Opioidanalgetika Nicht-Opioidanalgetika 
+
 
 ---
 
@@ -788,6 +835,10 @@ Krankenkasse Rückenschmerz Erkrankungen kreuzschmerzbedingte Akutbehandlung sei
 | CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der | 2 |  |
 | Erreichung mindestens eines der individuell vereinbarten |  | Nr. 21 |
 | Beendigung der DMP-Teilnahme vereinbart | Ja |  |
+
+Seite 21 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 /
+
+1. Juli 2026
 
 multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei Monaten alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Ziele seit der letzten Dokumentation 
 
@@ -821,7 +872,10 @@ multimodalen Schulung teilgenommen aktueller Dokumentation) in den letzten drei 
 \|  |
 \| )  Screenshots / Videodateien**Für Szenario vier ist ein Video einzureichen** |
 
-dies nicht der Fall ist, schreiben Sie dieses bitte. / PDFs zum Nachweis der korrekten Systemfunktionalität.  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 3511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe bereits vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe 3511  durchzuführen und besteht aus mehreren Schritten. Anlage einer Erstdokumentation Zeigen Sie, dass das System dem Anwender den Ausdruck des Chronic Pain Grade (CPG)-Fragebogens ermöglicht gemäß Anforderung KP1-75 (siehe Das System überprüft die Eingaben des CPG-Fragebogens auf Plausibilität im Rahmen der Erstdokumentation und ermittelt aus dem Schmerz-Score und den Disability-Punkten den Schweregrad nach von Korff.  Erfassen Sie die Antworten des CPG-Fragebogens. Zeigen Sie, dass das System dem Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-76, Punkt 4 anzeigt und den Anwender mit dem vorgegebenen Hinweistext auffordert, zu entscheiden, ob mit der Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll (siehe
+Seite 22 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
+dies nicht der Fall ist, schreiben Sie dieses bitte. / PDFs zum Nachweis der korrekten Systemfunktionalität.  Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 3511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe bereits vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe 3511  durchzuführen und besteht aus mehreren Schritten. Anlage einer Erstdokumentation Zeigen Sie, dass das System dem Anwender den Ausdruck des Chronic Pain Grade (CPG)-Fragebogens ermöglicht gemäß Anforderung KP1-75 (siehe Das System überprüft die Eingaben des CPG-Fragebogens auf Plausibilität im Rahmen der Erstdokumentation und ermittelt aus dem Schmerz-Score und den Disability-Punkten den Schweregrad nach von Korff.  Erfassen Sie die Antworten des CPG-Fragebogens. Zeigen Sie, dass das System dem Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-76, Punkt 4 anzeigt und den Anwender mit dem vorgegebenen Hinweistext auffordert, zu entscheiden, ob mit der Einschreibung in das eDMP chronischer Rückenschmerz fortgefahren werden soll (siehe 
+
 
 ---
 
@@ -838,8 +892,9 @@ dies nicht der Fall ist, schreiben Sie dieses bitte. / PDFs zum Nachweis der kor
 \| **SZENARIEN** |
 \| KBV_ITA_VGEX_Anforderungskatalog_eDMP).   **2.** › KBV_ITA_VGEX_Anforderungskatalog_eDMP).  › KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 
-Anlage einer Verlaufsdokumentation Zeigen Sie, dass das System bei der Auswahl der Parameter „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika“ und „Beendigung der DMP-Teilnahme vereinbart“ die nähere Erläuterung gemäß Anforderung KP1-46 jeweils anzeigt wird (siehe Zeigen Sie, dass das freiwillige Ausfüllen des CPG-Fragebogens möglich ist, nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1-77. Zeigen Sie, dass das System dem Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-77, Punkt 2 anzeigt (siehe 
+Seite 23 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
+Anlage einer Verlaufsdokumentation Zeigen Sie, dass das System bei der Auswahl der Parameter „Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika“ und „Beendigung der DMP-Teilnahme vereinbart“ die nähere Erläuterung gemäß Anforderung KP1-46 jeweils anzeigt wird (siehe Zeigen Sie, dass das freiwillige Ausfüllen des CPG-Fragebogens möglich ist, nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1-77. Zeigen Sie, dass das System dem Anwender den Schweregrad nach von Korff gemäß Anforderung KP1-77, Punkt 2 anzeigt (siehe
 
 ---
 
@@ -868,6 +923,8 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 05.04.2023 |
 
+Seite 24 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
 Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
 
@@ -894,6 +951,8 @@ Dokumentation
 ……..391234511_20251031101010_1_CR_101.zip.XKM XKM-Datei
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV3518
+
+Seite 25 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
 Dateiordner
 
@@ -940,7 +999,10 @@ Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Pr�
 - **1.**
 - **2.**
 
-gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher Test _107“ beginnen muss, sonst schlägt die Validierung fehl. Typ _107_SystemID.zip  ZIP-komprimierter Ordner Dokumentation  Dateiordner          391234511_20250406101010_1_ CR_102.idx     IDX-Datei 391234511_20250406101010_1_ CR_102.idx.XKM   XKM-Datei Versichertendaten Die Versichertendaten von Christoph Rückenschmerz Anhang 4.2 ) sind im Ersatzverfahren zu erfassen. Bestimmung des Schweregrads nach von Korff: Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens erfassen und den Schweregrad berechnen. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein
+Seite 26 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
+gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher Test _107“ beginnen muss, sonst schlägt die Validierung fehl. Typ _107_SystemID.zip  ZIP-komprimierter Ordner Dokumentation  Dateiordner          391234511_20250406101010_1_ CR_102.idx     IDX-Datei 391234511_20250406101010_1_ CR_102.idx.XKM   XKM-Datei Versichertendaten Die Versichertendaten von Christoph Rückenschmerz Anhang 4.2 ) sind im Ersatzverfahren zu erfassen. Bestimmung des Schweregrads nach von Korff: Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des CPG-Fragebogens erfassen und den Schweregrad berechnen. momentanen Rückenschmerzen, d.h. jetzt im Augenblick , auf einer Skala einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen in den letzten 3 Monaten einschätzen, wenn 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz bedeuten? in den letzten 3 Monaten im Durchschnitt , wenn 0 = kein 
+
 
 ---
 
@@ -979,7 +1041,10 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 |  | Frage 5: In welchem Maße haben Rückenschmerzen in |  |
 |  | Frage 6: In welchem Maße haben Rückenschmerzen in |  |
 
-bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten? den letzten 3 Monaten Ihre Freizeitaktivitäten  oder Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Erstdokumentation TDV3518 15.10.2026 chronischer Männlich 2,01 m 106 kg 145 / 90 mmHg TDV3518 15.04.2027 chronischer Männlich 2,01 m 96 kg 135 / 85 mmHg
+Seite 27 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
+
+bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? den letzten 3 Monaten Ihre alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten  mehr möglich bedeuten? den letzten 3 Monaten Ihre Freizeitaktivitäten  oder Unternehmungen im Familien- und Freundeskreis beeinträchtigt, wenn 0 = keine Beeinträchtigung und  10 = keine Aktivitäten mehr möglich  bedeuten? den letzten 3 Monaten Ihre Arbeitsfähigkeit (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich bedeuten? Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Erstdokumentation TDV3518 15.10.2026 chronischer Männlich 2,01 m 106 kg 145 / 90 mmHg TDV3518 15.04.2027 chronischer Männlich 2,01 m 96 kg 135 / 85 mmHg 
+
 
 ---
 
@@ -1003,7 +1068,13 @@ bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.10.2026 | 15.04.2027 |
 
-Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Relevante Ereignisse Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Medikamente Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation) Kreuzschmerz-spezifische Schulung wahrgenommen Sonstige Behandlung Regelmäßig körperlich aktiv CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation Ernährungsberatung,  Erstdokumentation Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Erkrankungen Verlaufsdokumentation Ja, weniger als 12 Bei Bedarf Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen erreicht | INDIKATIONSPEZIFISCHE DATEN | | |
+Seite 28 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz
+
+/ Version: 1.04 / 1. Juli 2026
+
+Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Relevante Ereignisse Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten Dokumentation Medikamente Aktuelle kreuzschmerzbedingte Schmerzmedikation: Opioidanalgetika Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen Kreuzschmerz-spezifische Schulung empfohlen (bei aktueller Dokumentation) Kreuzschmerz-spezifische Schulung wahrgenommen Sonstige Behandlung Regelmäßig körperlich aktiv CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei Monaten CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation Ernährungsberatung,  Erstdokumentation Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen Erkrankungen Verlaufsdokumentation Ja, weniger als 12 Bei Bedarf Übernahme aus dem CPG-Fragebogen Übernahme aus dem CPG-Fragebogen erreicht
+
+| INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Verlaufsdokumentation** |
 | **Relevante Ereignisse** | | |
@@ -1052,6 +1123,10 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Relevante Erei
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 04 |
 
+Seite 29 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz
+
+/ Version: 1.04 / 1. Juli 2026
+
 ---
 
 ## 4.2 PRÜFFALL TDV3518 – TESTDATENVALIDIERUNG
@@ -1078,6 +1153,8 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Relevante Erei
 | **4111** | **Kostentraegerkennung** | 109719018 |
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 12 |
+
+Seite 30 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026
 
 Groscurth-Plaetzchen 
 
@@ -1112,6 +1189,12 @@ Groscurth-Plaetzchen
 
 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 2.3
 
+________________
+
+Seite 31 von 32 / KBV / Pruefpaket eDMP-Chronischer Rueckenschmerz
+
+/ Version: 1.04 / 1. Juli 2026
+
 Schweregrades nach Korff Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Versorgung Dateinamenserweiterung „PRF”, welche ausschließlich  zur Zertifizierung eingesetzt werden Testschlüssel Versichtertenstammdaten (Datenannahmestellen Stammdatei) 
 
 
@@ -1124,3 +1207,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 32 von 32 / KBV / Pruefpaket eDMP-
+
+Chronischer Rueckenschmerz / Version: 1.04 / 1. Juli 2026

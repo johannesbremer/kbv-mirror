@@ -11,6 +11,8 @@
 
 ## KBV_ITA_AHEX_PRUEFPAKET EVDGA
 
+Seite 1 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS 
 
 
@@ -50,7 +52,10 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **15**
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle
+Seite 2 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle 
+
 
 ---
 
@@ -67,6 +72,8 @@ Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle
 | 1.2 | 02.01.2025 | KBV | Anpassung von Kapitel 2.6.4      Aufnahme von Kapitel 2.6.6 | Streichung der | 7      8 |
 | 1.1 | 19.12.2024 | KBV | Anpassung der referenzierten |  | 15 |
 | 1.0 | 26.11.2024 | KBV | Ersterstellung |  |  |
+
+Seite 3 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
 
 verordneten DiGA umzusetzenden FHIR-Version 09999999 war nicht valide im DiGA-Verzeichnis gestrichen Praxis 1.2.0 Prüffalls PF05 Wertevorgaben zu Arztnamen Dokumente 
 
@@ -102,6 +109,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung VDGA bei der KBV oder  des Fehlerbriefs beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen  vorliegen. Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
+Seite 4 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
 
 ---
 
@@ -144,6 +152,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Die Teile der Lieferung, welche eine eVDGA-Datei darstellen, sind im entsprechenden Dateiformat zu  exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu übertragen. Diese  Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall eine XML-Datei  sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss.
 
+Seite 5 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
 
 ---
 
@@ -170,7 +179,11 @@ Für die Zertifizierung können die für die Prüfung speziell entwickelten Prü
 
 Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  [VSD_5.2.0_Testfaelle_Vn.n.zip] enthält für jeden Prüffall (siehe Kapitel  Verzeichnis die folgenden XML-Dateien mit Versichertenstammdaten:
 
+________________
+
 - 1 Nr. des Prüffalls
+
+Seite 6 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
 
 sind in einem zip-Archiv zu übermitteln. Das  Wenn bereits eine Prüfnummer vergeben
 
@@ -222,7 +235,13 @@ Die Verwendung einer Import-Schnittstelle für die XML Produktivbetrieb unterbun
 | **Telefon** | <kann beliebig gewählt werden> |
 | **Telefax** | <kann beliebig gewählt werden> |
 
-Federmannssohn Marian Schölz  -Dateien ist nur für Prüfzwecke erlaubt und muss im
+Seite 7 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen
+
+-Dateien ist nur für Prüfzwecke erlaubt und muss im
+
+/ Version: 1.9 / 29. Januar 2026
+
+Federmannssohn Marian Schölz  
 
 
 ---
@@ -262,6 +281,9 @@ Im Rahmen des Prüffalls 01 ist eine qualifizierte elektronische Signatur (QES) 
 
 Nähere Information zum Bezug und der Nutzung von Test-eHBAs finden Sie bei der gematik  gemTest_Karten
 
+Seite 8 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
+
 ---
 
 # 3 PRÜFFÄLLE
@@ -289,7 +311,10 @@ Folgende Voraussetzungen müssen im System geschaffen werden, um die in den Prü
 
 **Tabelle 1: Prüffalltabelle  Verordnung für Patient „Karl-Friederich Schaumberg**
 
-Arzt 1 ist als ausstellender Arzt im System ausgewählt  XML-Datei der eVDGA Signierte eVDGA-Datei Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung Screenshot mit der Anzeige der mittels Stylesheet visualisierten eVDGA Patient „Karl Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 17554323 (Selfapy Angst 001) 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eVDGA vor der Signierung visualisieren lassen kann. 3. Der Anwender visualisiert die eVDGA mit dem Stylesheet. 4. Bitte erzeugen Sie einen Screenshot, auf dem die visualisierte eVDGA vollständig zu erkennen ist. 5. Der Anwender signiert die eVDGA. Karl- Friederich Schaumberg“ Prüfunterlagen FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.
+Seite 9 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
+Arzt 1 ist als ausstellender Arzt im System ausgewählt  XML-Datei der eVDGA Signierte eVDGA-Datei Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung Screenshot mit der Anzeige der mittels Stylesheet visualisierten eVDGA Patient „Karl Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 17554323 (Selfapy Angst 001) 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eVDGA vor der Signierung visualisieren lassen kann. 3. Der Anwender visualisiert die eVDGA mit dem Stylesheet. 4. Bitte erzeugen Sie einen Screenshot, auf dem die visualisierte eVDGA vollständig zu erkennen ist. 5. Der Anwender signiert die eVDGA. Karl- Friederich Schaumberg“ Prüfunterlagen FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.  
+
 
 ---
 
@@ -328,7 +353,10 @@ Arzt 1 ist als ausstellender Arzt im System ausgewählt  XML-Datei der eVDGA Sig
 
 **Tabelle 3: Prüffalltabelle  Verordnung für Patient „Viktor Müller**
 
+Seite 10 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
 Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „ Viktor Müller “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 09999991 (iuvenis 001) b) Nicht anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER)   XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- ) für den Patienten „ Viktor Müller Prüfunterlagen Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 2 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18603466 (Kaia Rückenschmerzen 001) b) Anspruchsberechtigt gemäß des sozialen Entschädigungsrechts (SER) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- für den Patienten „ Viktor Müller Prüfunterlagen Arzt 1 ist als ausstellender Arzt im System ausgewählt  für den Patienten „ Viktor Müller
+
 
 ---
 
@@ -358,6 +386,8 @@ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „ Viktor Mül
 | **Voraussetzung** |  |
 | **Aktion** |  |
 
+Seite 11 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
 - FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.
 - Die Signatur wird im Prüffall 05 gefordert/erbracht.
 
@@ -369,9 +399,9 @@ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „ Viktor Mül
 - a) PZN = 18016941 (HelloBetter Vaginismus 001)
 - b) Unfall = ja
 - c) Unfalltag entspricht dem Ausstellungsdatum der Verordnung
+- 2. Der Anwender signiert die eVDGA.
 
-Prüfunterlagen Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 3 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18053770 (Meine Tinnitus App 001) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- Prüfunterlagen Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Prüffälle 03 und 04 und ggf. 02 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eVDGA setzen kann. 2. Der Anwender signiert die eVDGA aus den Prüffällen 03 und 04 und ggf. 02 mittels Stapelsignatur. Screenshot mit Option zur Stapelsignatur für die Patientin „ Brigitte Althaus “ durch einen Arzt als Vertreter Arzt 1 ist als ausstellender und vertretender Arzt im System ausgewählt Arzt 2 ist als verantwortlicher Arzt im System ausgewählt Patientin Brigitte Althaus “ ist im System ausgewählt- 2. Der Anwender signiert die eVDGA.
-
+Prüfunterlagen Patient „Viktor Müller“ ist im System ausgewählt Das Ausstellungsdatum ist dasselbe wie in Prüffall 3 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 18053770 (Meine Tinnitus App 001) XML-Datei der eVDGA Für die Zertifizierung sind die einzureichenden XML-Dateien auf Basis der eVDGA- Prüfunterlagen Arzt 1 ist als ausstellender Arzt im System ausgewählt  Patient „Viktor Müller“ ist im System ausgewählt Prüffälle 03 und 04 und ggf. 02 wurden durchgeführt 1. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass der Anwender eine Stapelsignatur auf mehrere eVDGA setzen kann. 2. Der Anwender signiert die eVDGA aus den Prüffällen 03 und 04 und ggf. 02 mittels Stapelsignatur. Screenshot mit Option zur Stapelsignatur für die Patientin „ Brigitte Althaus “ durch einen Arzt als Vertreter Arzt 1 ist als ausstellender und vertretender Arzt im System ausgewählt Arzt 2 ist als verantwortlicher Arzt im System ausgewählt Patientin Brigitte Althaus “ ist im System ausgewählt
 
 ---
 
@@ -400,10 +430,13 @@ Prüfunterlagen Patient „Viktor Müller“ ist im System ausgewählt Das Ausst
 | **Aktion** |  |
 | **Einzureichende** |  |
 
+Seite 12 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
 **Brigitte Althaus**
 
-Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.  Prüfunterlagen für den Patienten „Viktor Werner“ Arzt 1 ist als ausstellender Arzt im System ausgewählt Patient „Viktor Werner“ ist im System ausgewählt 1. Der Anwender versucht eine Verordnung mit den folgenden Daten zu erstellen: a) PZN = 17850263 (companion patella)  b) Arbeitsunfall = ja c) Unfalltag entspricht dem Ausstellungsdatum der Verordnung d) Unfallbetrieb = Baubetrieb Neumann GmbH e) Kostenträgertyp = BG f) IK der Unfallversicherung = 121192344 g) Name des Kostenträgers = BG der Bauwirtschaft Screenshot zum Nachweis, dass die elektronische Verordnung von DiGA zu Lasten einer gesetzlichen Unfallversicherung nicht möglich ist. Prüfunterlagen Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn  im Rahmen der ASV Arzt 1 ist als ausstellender Arzt im System ausgewählt  Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 17946626 (HelloBetter Schmerzen 001)  PZN = 17622734 (Mawendo 001) b) Behandlung findet im Rahmen der ambulanten spezialfachärztlichen Versorgung (ASV) statt: ASV-Teamnummer = 001234566 2. Der Anwender signiert die eVDGA. 3. Der Anwender erzeugt einen Patienausdruck mit der eVDGA. XML-Datei der eVDGA **erordnung für Patient „Viktor Werner“**
+**erordnung für Patient „Viktor Werner“**
 
+Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.  Prüfunterlagen für den Patienten „Viktor Werner“ Arzt 1 ist als ausstellender Arzt im System ausgewählt Patient „Viktor Werner“ ist im System ausgewählt 1. Der Anwender versucht eine Verordnung mit den folgenden Daten zu erstellen: a) PZN = 17850263 (companion patella)  b) Arbeitsunfall = ja c) Unfalltag entspricht dem Ausstellungsdatum der Verordnung d) Unfallbetrieb = Baubetrieb Neumann GmbH e) Kostenträgertyp = BG f) IK der Unfallversicherung = 121192344 g) Name des Kostenträgers = BG der Bauwirtschaft Screenshot zum Nachweis, dass die elektronische Verordnung von DiGA zu Lasten einer gesetzlichen Unfallversicherung nicht möglich ist. Prüfunterlagen Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn  im Rahmen der ASV Arzt 1 ist als ausstellender Arzt im System ausgewählt  Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn “ ist im System ausgewählt 1. Der Anwender erstellt eine Verordnung mit den folgenden Daten: a) PZN = 17946626 (HelloBetter Schmerzen 001)  PZN = 17622734 (Mawendo 001) b) Behandlung findet im Rahmen der ambulanten spezialfachärztlichen Versorgung (ASV) statt: ASV-Teamnummer = 001234566 2. Der Anwender signiert die eVDGA. 3. Der Anwender erzeugt einen Patienausdruck mit der eVDGA. XML-Datei der eVDGA
 
 ---
 
@@ -427,6 +460,8 @@ Prüfunterlagen XML-Datei der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu e
 
 **Tabelle 9: Prüffalltabelle  Einreichung Bestätigungsschreiben der gematik zur Funktionsumfang eVDGA**
 
+Seite 13 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
 PDF-Datei mit Patientenausdruck der eVDGA FHIR-Profile in der Version 1.2.0 1.2.1 zu erstellen.  Bestehen des Bestätigungsverfahren der gematik [gemLeit_Best_Konf_eRP] Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zum Funktionsumfang eVDGA (E-Rezept- Typ ‚Muster 16 (Digitale Prüfunterlagen 
 
 
@@ -446,6 +481,7 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
 **Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung**
 
+Seite 14 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
 
 ---
 
@@ -464,7 +500,12 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 | VSD_5.2.0_Testfaelle_Vn.n.zip | Testdaten VSD in der aktuellen Version  https://update.kbv.de/ita- |
 | gemSysL_eRp | Systemspezifisches Konzept E-Rezept   https://gemspec.gematik.de/releases/ |
 
+Seite 15 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen
+
+/ Version: 1.9 / 29. Januar 2026
+
 update/Allgemein/KBV_ITA_RLEX_Zert.pdf SGB V für Verordnung von DiGA update/Verordnungen/VDGA/KBV_ITA_VG EX_Anforderungskatalog_VDGA.pdf Verordnung digitaler Gesundheitsanwendungen (e16D) update/DigitaleMuster/eVDGA/KBV_ITA_V GEX_Technische_Anlage_eVDGA.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf Verordnung von DiGA update/Verordnungen/VDGA/KBV_ITA_FM EX_AAZ_eVDGA.pdf digitaler Gesundheitsanwendungen update/Verordnungen/VDGA/KBV_ITA_AH EX_Pruefpaket_VDGA.pdf Primärsystems zur Telematikinfrastruktur  anbieter/primaersysteme/best-konf-ps-ti update/Abrechnung/Pruefverfahren/
+
 
 ---
 
@@ -481,4 +522,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Primärsysteme gemILF_PS_eRp/latest/ Gesundheitsanwendungen /gemSpec_DM_eRp/latest/Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 16 von 16 / KBV / Prüfpaket elektronische Verordnung digitaler Gesundheitsanwendungen / Version: 1.9 / 29. Januar 2026
+
+Primärsysteme gemILF_PS_eRp/latest/ Gesundheitsanwendungen /gemSpec_DM_eRp/latest/

@@ -11,7 +11,9 @@
 
 ## [KBV_ITA_VGEX_SST_TECHNISCHE_ANLAGE_EAU]
 
-BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  
+SEITE 1 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS  VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -85,7 +87,9 @@ BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS
 
 **90**
 
-EINSATZ DES KOMMUNIKATIONSDIENSTES KIM VOM ARZT / VON DER PRAXIS ZUR KRANKENKASSE Kommunikation vom Arzt/ von der Praxis zur Krankenkasse Kommunikation von der Krankenkasse zum Arzt/ zur Praxis Übergangsregelung ab 1. Oktober 2025 
+SEITE 2 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+EINSATZ DES KOMMUNIKATIONSDIENSTES KIM VOM ARZT / VON DER PRAXIS ZUR KRANKENKASSE Kommunikation vom Arzt/ von der Praxis zur Krankenkasse Kommunikation von der Krankenkasse zum Arzt/ zur Praxis Übergangsregelung ab 1. Oktober 2025 VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -138,6 +142,11 @@ Tabelle 1: KBV_PR_EAU_Bundle
 
 58  Tabelle 23: Auflistung der abzubildenden Felder für die eAU 63
 
+SEITE 3 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+
 ---
 
 # DOKUMENTENHISTORIE
@@ -172,9 +181,11 @@ Sobald eine Nutzung der eAU für PKV-Versicherte möglich ist, erfolgt eine ents
 - Tabelle 23
 - Tabelle 23
 - Tabelle 23
+- Tabelle 23
 
-Versionsnummer der FHIR- Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Feldes 61c 03 (grün markiert) Kostenträgern konkretisiert Streichung von Feld 52b „Hausnummer der Einrichtung“ angepasst Anpassung der Anforderung P31-03 - Tabelle 23
+SEITE 4 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
+Versionsnummer der FHIR- Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Feldes 61c 03 (grün markiert) Kostenträgern konkretisiert Streichung von Feld 52b „Hausnummer der Einrichtung“ angepasst Anpassung der Anforderung P31-03
 
 ---
 
@@ -188,6 +199,8 @@ Versionsnummer der FHIR- Profile BugFix-Release (aufgrund Anpassung in FOR-Profi
 | 1.20 | 08.12.2022 | KBV | Streichung des |  | 45 |
 | 1.20 | 14.11.2022 | KBV | Klarstellung P5-04    Ergänzung eines Hinweises zu |  | 42      15 |
 
+SEITE 5 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU VERSION: 1.26 / 24. NOVEMBER 2025
+
 Übergangsregelung Kostenträger Stornoversandes den FHIR-Profilen redaktionelle Änderungen der IDs 3, 9, 26, 29, 34, 36, 37, 38, 61a, 64 und 67 sowie Verbesserungen/Klarstellung bei den IDs 19a, 19b, 25, 27, 35, 42, 43, 50, 52, 61c und 81  Ergänzung des DMP- Kennzeichens  Datumsangaben (grün markiert) Rückmeldungen von Testärzten Datumsangaben (grün markiert) Fehlercode 100 (grün markiert) Informationsmodelles Position 61 (grün markiert) der Anforderung P310-09 Akzeptanzkriteriums 11 der Anforderung KP5-05 Akzeptanzkriterium 16 P310-02
 
 ---
@@ -197,6 +210,8 @@ Versionsnummer der FHIR- Profile BugFix-Release (aufgrund Anpassung in FOR-Profi
 | 1.20 | 28.09.2022 | KBV | Aufnahme einer    Aufnahme der optionalen    Anpassungen der Funktion P6-   Anpassungen der Funktionen |  | 46      42, 52                  49      32, 35,  44 |
 | 1.20 | 15.08.2022 | KBV | Aufnahme von optionalen  - teilweise Arbeitsfähig ab -   - Datum für den Beginn der   - stationäre Heilbehandlung und     Aufnahme der ASV-   Aufnahme der Standortnummer    Aktualisierung der Version der    Optimierung/Anpassung des    Redaktionelle Anpassung |  | 12, 13  17, 20,  84, 85,  86, 87                  72, 77       82    10 bis  14    62  16 bis      16 bis |
 
+SEITE 6 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU VERSION: 1.26 / 24. NOVEMBER 2025
+
 Übergangsregelung Funktionen O5-09 (Weiterleitung von Fehlermeldung an den Softwareanbieter) und O6-07 (Versand der eAU und Storno- Nachrichten an die Krankenkasse) P5-02, P5-04 und KP5-05 Feldern für PKV-Versicherte: - Berufsunfähig     Wiedereingliederung,    die Angabe des Entlassungs-    datums sowie Aufnahme-   datums für die Reha und  Fachgruppennummer eAU-FHIR-Profile Informationsmodelles sowie der entsprechenden Anforderungen für die Instanzen (betroffen ist Spalte FHIR®- Element) der Darstellung der zu befüllenden FHIR®-Elemente hieraus ergeben sich keine Änderungen der FHIR®- Strukturen.
 
 ---
@@ -205,7 +220,9 @@ Versionsnummer der FHIR- Profile BugFix-Release (aufgrund Anpassung in FOR-Profi
 |---|---|---|---|---|---|
 | 1.20 | 23.05.2022 | KBV | Streichen des ValueSets       Aktualisierung der    Anpassung der Anforderung P6-   Klarstellung der Anforderung P6- | Diese ValueSet wird | 14        16            49      52 |
 
-KBV_VS_EAU_AU_Error_Kasse zukünftig außerhalb des Projektes gepflegt. einzusetzenden Version des FHIR®-Profile der Projekte FOR, KBV-Basis und HL7 Deutschland Basis Version 04 
+SEITE 7 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU
+
+KBV_VS_EAU_AU_Error_Kasse zukünftig außerhalb des Projektes gepflegt. einzusetzenden Version des FHIR®-Profile der Projekte FOR, KBV-Basis und HL7 Deutschland Basis Version 04 VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -225,6 +242,9 @@ Bei den Festlegungen rund um die eAU gehen die Vertragspartner des Bundesmantelv
 Im Praxisverwaltungssystem (PVS) werden die Patienten-, Arzt-, und Betriebsstättendaten verwaltet und  gespeichert. Neben dem Einlesen von Versichertenkarten übernimmt das PVS die Speicherung aller  patientenbezogenen Daten und unterstützt durch seine Funktionen den Arzt bspw. bei der Erstellung und  Versendung der eAU an die Krankenkasse.
 
 Die auszutauschenden Daten (gemäß Kapitel 8) zwischen den beteiligten Systemen sind auf Basis des HL7  FHIR® Standards definiert. Die hierfür erforderlichen Datenstrukturen sind in Kapitel 3 festgelegt. Die  Übertragung der Daten ist in Kapitel 5 sowie deren Visualisierung und die Signatur sind in Kapitel 4  festgelegt. In Kapitel 6 sind weitere Vorgaben für Praxisverwaltungssysteme beschrieben.
+
+SEITE 8 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -253,6 +273,8 @@ Bedeutung:
 
 \| **Beispiel:  ** ›  ›  URL: https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient   ›  Abbildung der formularübergreifenden Patienteninformationen |
 \|---|
+
+SEITE 9 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 Dateiname: KBV_PR_FOR_Patient
 
@@ -306,8 +328,9 @@ Tabelle 3: KBV_PR_EAU_Condition_ICD
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Condition_Text |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/condition.html |
 
-KBV_ITA_VGEX_Technisches_Handbuch_DiMus] als  beschrieben.
+SEITE 10 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
+KBV_ITA_VGEX_Technisches_Handbuch_DiMus] als  beschrieben.
 
 ---
 
@@ -360,7 +383,10 @@ Tabelle 8: KBV_PR_EAU_Storno_Bundle
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Storno_Composition |
 
-Vertragsärztin für notwendig erachtet. Dies können Leistungen zur medizinischen Rehabilitation, zur stufenweisen Wiedereingliederung oder sonstiger Maßnahmen sein.
+SEITE 11 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+Vertragsärztin für notwendig erachtet. Dies können Leistungen zur medizinischen Rehabilitation, zur stufenweisen Wiedereingliederung oder sonstiger Maßnahmen sein. VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -409,7 +435,10 @@ Tabelle 12: KBV_EX_EAU_unemployability
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_admission_date |
 
-Arztpraxis vorliegt. Ressource Ressource
+SEITE 12 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+Arztpraxis vorliegt. Ressource Ressource VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -448,7 +477,9 @@ Tabelle 15: KBV_EX_EAU_partially_employable
 
 Tabelle 16: KBV_EX_EAU_reintegration_date
 
-Ressource Ressource Ressource seine berufliche Tätigkeit nach medizinischem Befund teilweise Ressource 
+SEITE 13 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+Ressource Ressource Ressource seine berufliche Tätigkeit nach medizinischem Befund teilweise Ressource VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -500,7 +531,10 @@ Die ValueSets definieren, welche Codes festgelegt sind und was diese bedeuten.
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_EAU_Identifier_types |
 
-_Identifier versendeten KIM-Nachricht, für welche eine Fehlernachricht versendet werden soll Ressource Arbeitsunfähigkeitsbescheinigung es sich handelt. Arbeitsunfähigkeit. Patienten.
+SEITE 14 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+_Identifier versendeten KIM-Nachricht, für welche eine Fehlernachricht versendet werden soll Ressource Arbeitsunfähigkeitsbescheinigung es sich handelt. Arbeitsunfähigkeit. Patienten. VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -548,6 +582,8 @@ FHIR®-Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert we
 **Begründung:**
 
 Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt es sich um Elemente, die  unabhängig von der Kardinalität (Ausnahme: 0…0) unterstützt werden müssen, sofern die entsprechenden  Informationen vorliegen.
+
+SEITE 15 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -598,6 +634,8 @@ Da der FHIR Standard die Übertragung der Instanzen im XML- sowie JSON-Format er
 - b) *<Dokumenten-ID>* = Wert des Elementes identifier.value der Instanz des Profils KBV_PR_EAU_Bundle
 - 3. Das Mapping der Informationen aus Kapitel 8 auf das Profil KBV_PR_EAU_Bundle muss wie folgt  erfolgen:
 
+SEITE 16 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -643,14 +681,18 @@ In diesem Profil werden die Begleitinformationen zur Arbeitsunfähigkeitsbeschei
 | **Daten** | **ID gemäß  Tabelle 23** | **FHIR®-Element** |  |
 | Angaben zur AU | 72 | code.coding |  |
 
+SEITE 17 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
 - -Element entry.resource die Instanz des Profils  P310-08 sowie aller in der Instanz der Composition referenzierten
 - Text.
 
 *<E,T>*EAU0_*<Dokumenten-ID>*
 
 - Kapitel 8 auf das Profil KBV_PR_EAU_Condition_AU muss wie folgt
-- 3 aufgeführte Datenfeld .xml) des
 
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+- 3 aufgeführte Datenfeld .xml) des
 
 ---
 
@@ -670,7 +712,13 @@ In diesem Profil werden die Begleitinformationen zur Arbeitsunfähigkeitsbeschei
 - a) Pflichtfelder sind zu befüllen.
 - b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.
 
-bis arbeitsfähig ab Arbeitsunfallfolgen,  Berufskrankheit                                                         Unfallfolgen value[x]:valueDateTime Berufsunfaehigkeit.value[x]:valueBool ean lueDateTime eableConcept.coding.code = "2" eableConcept.coding.code = "3" eableConcept.coding.code = "1" olean das Feld 79 gemäß gleich „ERST" oder „ERST_END“ ist DANN muss dieses Feld gesetzt werden.  das Feld 79 gemäß gleich „FOLGE" oder „FOLGE_END“ ist DANN darf dieses Feld nicht gesetzt werden. das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden. das Feld 7 gemäß gleich „PKV“ ist DANN  darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden   - 1 aufgeführten Datenfelder
+SEITE 18 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+- 1 aufgeführten Datenfelder
+
+bis arbeitsfähig ab Arbeitsunfallfolgen,  Berufskrankheit                                                         Unfallfolgen value[x]:valueDateTime Berufsunfaehigkeit.value[x]:valueBool ean lueDateTime eableConcept.coding.code = "2" eableConcept.coding.code = "3" eableConcept.coding.code = "1" olean das Feld 79 gemäß gleich „ERST" oder „ERST_END“ ist DANN muss dieses Feld gesetzt werden.  das Feld 79 gemäß gleich „FOLGE" oder „FOLGE_END“ ist DANN darf dieses Feld nicht gesetzt werden. das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden. das Feld 7 gemäß gleich „PKV“ ist DANN  darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden 
 
 
 ---
@@ -711,12 +759,19 @@ Mit diesem Profil werden die ICD-Kodes, welche für die Arbeitsunfähigkeit zutr
 -  Die Software stellt sicher, dass der ICD-10-GM-Kode ohne Sonderzeichen (Ausrufezeichen, Kreuz  oder Stern) übertragen wird und nur die Bezeichnung aus dem XML-Element  [../diagnose/icd_code/@V](mailto:../diagnose/icd_code/@V)[enthält.](mailto:../diagnose/icd_code/@V)
 - b) Die Diagnosesicherheit muss befüllt werden, sofern eine Diagnosesicherheit vom Anwender  angegeben ist.
 - c) Die Seitenlokalisation muss befüllt werden, sofern eine Seitenlokalisation vom Anwender angegeben  ist.
+
+SEITE 19 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
 - am“ ist.
 - Kapitel 8 auf das Profil KBV_PR_EAU_Condition_ICD muss wie folgt
 - [../diagnose/icd_code/@V](mailto:../diagnose/icd_code/@V)[der ICD-Stammdatei der KBV [SDICD]](mailto:../diagnose/icd_code/@V)
-- -AU-bis“ nicht mehr als 31 Tage
 
-GM.extension:Diagnosesicherheit.va lue[x] GM.extension:Seitenlokalisation.val ue[x]   - stgestellt-am“ bei
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+- -AU-bis“ nicht mehr als 31 Tage
+- stgestellt-am“ bei
+
+GM.extension:Diagnosesicherheit.va lue[x] GM.extension:Seitenlokalisation.val ue[x] 
 
 
 ---
@@ -767,6 +822,10 @@ Mit diesem Profil werden die weiteren Schritte in der Behandlung des Patienten a
 | D-Arzt-zugewiesen | 78 | code.coding.code = „d_arzt“ |  |
 | Leistungen Reha | 83 | code.coding.code = „reha“ |  |
 
+SEITE 20 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -779,6 +838,8 @@ Mit diesem Profil werden die weiteren Schritte in der Behandlung des Patienten a
 | Stationäre | 102 | code.coding.code = | WENN  Tabelle 23   ANSONSTEN |
 | Aufnahmedatum | 103 | extension:Aufnahmedatum.value[x] | WENN  Tabelle 23   ANSONSTEN |
 | Entlassungsdatum | 104 | extension:Entlassungsdatum.value[x | WENN  Tabelle 23 |
+
+SEITE 21 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden „wiedereingliederung“ das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden Heilbehandlung „stationaere_heilbehandlung“ das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.
 
@@ -818,14 +879,19 @@ Dieses Profil bildet den fachlichen Rahmen der Arbeitsunfähigkeitsbescheinigung
 | Ausstellungsdatum | 73 | date |  |
 | AU-Art | 79 | type.coding.code |  |
 
+SEITE 22 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
 ```
 -
 ```
 
 - Kapitel 8 auf das Profil KBV_PR_EAU_Composition muss wie folgt
 
-Text darf dieses Feld nicht gesetzt  werden Maßnahmen Text werden, wenn „Sonstige“ ausgewählt ist. muss übermittelt type.coding.code.system = https://fhir.kbv.de/CodeSystem/KB V_CS_FOR_Formular_Art valueCoding das Feld 7 gemäß "SKT" oder "UK" oder „PKV“ ist, DANN ist dieser Block Pflicht. ist dieser Block optional. - 1 aufgeführten Datenfelder
+VERSION: 1.26 / 24. NOVEMBER 2025
 
+- 1 aufgeführten Datenfelder
+
+Text darf dieses Feld nicht gesetzt  werden Maßnahmen Text werden, wenn „Sonstige“ ausgewählt ist. muss übermittelt type.coding.code.system = https://fhir.kbv.de/CodeSystem/KB V_CS_FOR_Formular_Art valueCoding das Feld 7 gemäß "SKT" oder "UK" oder „PKV“ ist, DANN ist dieser Block Pflicht. ist dieser Block optional.
 
 ---
 
@@ -848,7 +914,11 @@ Text darf dieses Feld nicht gesetzt  werden Maßnahmen Text werden, wenn „Sons
 | KBV_PR_FOR_PractitionerRole  KBV_ITA_VGEX_Technisches_Ha ] | section.code.coding.code =    section.entry.reference = |  |
 | KBV_PR_FOR_Practitioner  KBV_ITA_VGEX_Technisches_Ha ] | attester.party.reference = |  |
 
-eps gemäß gemäß P04-03 aus ndbuch_DiMus P04-04 aus ndbuch_DiMus 05 aus ndbuch_DiMus gemäß P04-01 aus ndbuch_DiMus gemäß P04-02 aus ndbuch_DiMus gemäß P04-01 aus ndbuch_DiMus <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> „FOR_PractitionerRole“ <UUID der Instanz> <UUID der Instanz>- 1 aufgeführten Datenfelder
+SEITE 23 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+- 1 aufgeführten Datenfelder
+
+eps gemäß gemäß P04-03 aus ndbuch_DiMus P04-04 aus ndbuch_DiMus 05 aus ndbuch_DiMus gemäß P04-01 aus ndbuch_DiMus gemäß P04-02 aus ndbuch_DiMus gemäß P04-01 aus ndbuch_DiMus <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> „FOR_PractitionerRole“ <UUID der Instanz> <UUID der Instanz>VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -890,6 +960,8 @@ Die Software erzeugt die Instanz der eStorno-Nachricht auf Basis der eAU-Profile
 
 Da der FHIR Standard die Übertragung der Instanzen im XML- sowie JSON-Format ermöglicht, ist eine  Festlegung des zu verwendenden Formates auf XML für alle zu verarbeitenden Systeme notwendig, da so  der Aufwand im Rahmen der Umsetzung für alle Beteiligten verringert wird.
 
+SEITE 24 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -930,11 +1002,19 @@ Mit dieser Instanz wird transportiert, welche übermittelte Arbeitsunfähigkeits
 | Dokumenten-ID der zu | 5 | entry.item.identifier.value |  |
 
 - 2. Die Software muss sicherstellen, dass alle unter Akzeptanzkriterium 1 aufgeführten Datenfelder zu  befüllen sind.
+
+SEITE 25 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
 - P310-12 sowie aller in der Instanz der Composition
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 - *<E,T>*EAU0_Storno_*<Dokumenten-ID*
 - *T* für Testdaten im Testsystem
 
-stornierenden Arbeitsunfähigkeitsbesc heinigung *Dokumenten-ID der*
+*Dokumenten-ID der*
+
+stornierenden Arbeitsunfähigkeitsbesc heinigung 
 
 
 ---
@@ -982,8 +1062,11 @@ Krankenkassen können die folgenden Fehlerzustände an den Absender zurückmelde
 - Übermittlung eines falschen Patienten an eine Krankenkasse
 - Technische Fehler bei der Validierung der Nutzdaten
 - Signaturfehler der Nutzdaten oder der KIM-Nachrichten
+- Verschlüsselungsfehler der Nutzdaten oder der KIM-Nachrichten
 
-Stornierung gemäß P04-01 aus ndbuch_DiMus gemäß P04-03 aus <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> ndbuch_DiMus  - Verschlüsselungsfehler der Nutzdaten oder der KIM-Nachrichten
+SEITE 26 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+Stornierung gemäß P04-01 aus ndbuch_DiMus gemäß P04-03 aus <UUID der Instanz> <UUID der Instanz> <UUID der Instanz> ndbuch_DiMusVERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1019,15 +1102,21 @@ Da der FHIR Standard die Übertragung der Instanzen im XML- sowie JSON-Format er
 Bei der Erstellung einer Fehlernachricht muss die Software einen „Fehlercode“ und einen „ übertragen.
 
 - 5. Die Software muss sicherstellen, dass wenn  oder „314“ übertragen wird, dass das Feld  issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I) dentifier).valueIdentifier.system“ den Wert  [https://fhir.kbv.de/NamingSystem/KBV_NS_EAU_Message_ID_KIM](https://fhir.kbv.de/NamingSystem/KBV_NS_EAU_Message_ID_KIM) issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner_I) dentifier).extension(Message-ID).valueIdentifier.value äußeren Headers  der fehlerhaften KIM-Nachricht enthalten ist.
+
+SEITE 27 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
 - 3.5) als eine Datei im XML-Format.
 - im Feld „Fehlercode“ der Wert „301“ oder „307“ oder „313“
 - “ und im Feld
 - die KIM-Message-ID
 
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 Fehlertext
 
-technisch fehlerhaften eAU oder Storno- Nachricht oder die Message-ID der KIM- Nachricht Identifier.extension:Bundle- Identifier.value[x]:valueIdentifier Identifier.extension:Message- ID.value[x]:valueIdentifier - sprich die Message-ID des
+- sprich die Message-ID des
 
+technisch fehlerhaften eAU oder Storno- Nachricht oder die Message-ID der KIM- Nachricht Identifier.extension:Bundle- Identifier.value[x]:valueIdentifier Identifier.extension:Message- ID.value[x]:valueIdentifier
 
 ---
 
@@ -1045,6 +1134,9 @@ Diese Funktion ist lediglich von den Softwaresystemen der Krankenkassen umzusetz
 **Hinweis:**
 
 Die Verarbeitung der erzeugten Instanzen in den Softwareprodukten der Empfänger wird in der  Anforderung P5-04 beschrieben.
+
+SEITE 28 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1088,6 +1180,11 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz der Signatur im Rahmen der Erstel
 
 *<Dokumenten-ID der Storno-Nachricht>* = Wert des Elementes identifier.value der Instanz des  Profils KBV_PR_EAU_Storno_Bundle
 
+SEITE 29 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+
 ---
 
 - 1. Der Anwender hat im Rahmen der Einzelsignatur die Möglichkeit, sich die zu signierende Instanz der  eAU auf Basis der Instanz von KBV_PR_EAU_Bundle mittels des definierten Stylesheets  [EAU_Stylesheet_KK] anzeigen zulassen.
@@ -1121,11 +1218,21 @@ Aufgrund bundesmantelvertraglicher Vorgaben, ist der Einsatz der Signatur im Rah
 
 Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewählten  Algorithmus einzelne Instanzen anzeigen.
 
+SEITE 30 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+
 ---
 
 # 5 EINSATZ DES KOMMUNIKATIONSDIENSTES KIM VOM ARZT / VON  DER PRAXIS ZUR KRANKENKASSE
 
 Die nachfolgende Grafik stellt schematisch dar, wie die Kommunikation zu einer eAU grundlegend erfolgt  und ab wann eine eAU als erfolgreich übermittelt gilt.
+
+SEITE 31 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1169,6 +1276,8 @@ Im Bundesmantelvertrag Anlage 2b §3 ist geregelt, dass digitale Muster auf eine
 
 - b) Die Software setzt in den Header der KIM-Nachricht das Element X-KIM-Dienstkennung mit dem  Wert „eAU;Lieferung;V1.2
 
+SEITE 32 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1202,6 +1311,8 @@ Content-Description: eAU
 **Hinweis:**
 
 Softwarehersteller sollten Funktionen in der Software implementieren, welche verhindern, dass Anwender  in schneller Abfolge (z.B. durch einen Doppelklick) die gleiche eAU mehrmals hintereinander an die  Krankenkassen versenden. Ein generelles Unterdrücken eines nochmaligen Versandes sollte nicht erfolgen.
+
+SEITE 33 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1250,6 +1361,8 @@ Content-Description: eAUStorno
 - 4. Ergänzend zu den Festlegungen der gematik zum Thema „zur Auswahl der E-Mail-Adresse des  gewünschten Empfängers (ehemals die Anforderungen KOM-LE-A_2204 und KOM-LE-A_2205 des  Implementierungsleitfaden):
 - a) Wenn im Rahmen der Behandlung die eGK des Versicherten eingelesen wurde, ermittelt die  Software die KIM-Mail-Adresse des Empfängers automatisch anhand des IKs im XML-Element
 
+SEITE 34 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1281,8 +1394,11 @@ Da die Krankenkasse die Möglichkeit hat, dem Arzt Rückmeldungen in Form einer 
 
 **Akzeptanzkriterium:**
 
-Nachrichten durch die empfangende Krankenkasse - 1. Die Software bietet dem Anwender bei SMC-B basierten KIM-Adressen - die KIM-Adresse ist im  Verzeichnisdienst der TI zu einem SMC-B-Eintrag (einer Praxis) hinterlegt - die Möglichkeit festzulegen,  in welchem Intervall - pro Minute - die Software KIM-Mails vom KIM-Mail-Server abruft.
+- 1. Die Software bietet dem Anwender bei SMC-B basierten KIM-Adressen - die KIM-Adresse ist im  Verzeichnisdienst der TI zu einem SMC-B-Eintrag (einer Praxis) hinterlegt - die Möglichkeit festzulegen,  in welchem Intervall - pro Minute - die Software KIM-Mails vom KIM-Mail-Server abruft.
 
+SEITE 35 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
+Nachrichten durch die empfangende Krankenkasse
 
 ---
 
@@ -1308,6 +1424,10 @@ a) und b) kann vom Softwarehersteller angepasst werden.
 
 <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Storno-Nachricht für Ihren  Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass immer noch  keine Zustellbestätigung eingegangen ist.  <Wenden Sie sich zur Behebung des Problems unter Angabe der ID <Dokumenten-ID der eStorno>  bitte an Ihren Softwarehersteller.>
 
+SEITE 36 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1325,6 +1445,8 @@ a) und b) kann vom Softwarehersteller angepasst werden.
 | e) | 104 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die übermittelte Datei nicht den korrekten Zeichensatz „UTF Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 | f) | 105 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die zu stornierende Nachricht im Vorfeld als fehlerhaft abgewiesen worden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller. |
 
+SEITE 37 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten aus technischen Gründen fehlgeschlagen ist.  danach erneut.  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.   Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist.  danach  erneut. Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten aus technischen Gründen fehlgeschlagen ist. 8 ohne BOM“ verwendet.  danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist. 8 ohne BOM“ verwendet.  danach erneut. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist.
 
 ---
@@ -1339,6 +1461,8 @@ Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mit
 | l) | 303 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 | m) | 304 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 
+SEITE 38 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten fehlgeschlagen ist.  danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten fehlgeschlagen ist.  danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung fehlgeschlagen ist.  danach erneut. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung fehlgeschlagen ist.  danach  erneut. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  wurde, aber auf Grund des falschen Formats nicht von der Krankenkasse entschlüsselt werden konnte.   danach erneut. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. danach erneut. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  Grund hierfür ist, dass die Signatur für die KIM-Nachricht aufgrund des falschen Formats nicht geprüft werden konnte.  danach erneut.
 
 ---
@@ -1350,6 +1474,8 @@ Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mit
 | p) | 309 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | q) | 310 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die Signatur für die KIM-Nachricht aufgrund des falschen Formats nicht geprüft  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | r) | 311 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
+
+SEITE 39 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. nicht zur Signatur passt.  danach erneut. Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  wurde, aber auf Grund des falschen Formats nicht von der Krankenkasse entschlüsselt werden konnte.   danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  werden konnte.  danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  nicht zur Signatur passt.  danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.
 
@@ -1368,7 +1494,10 @@ Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und
 | s) | 313 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | t) | 314 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 
-Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. werden konnte danach erneut.  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung  (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  werden konnte.  danach erneut.
+SEITE 40 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. werden konnte danach erneut.  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung  (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  werden konnte.  danach erneut. VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1389,6 +1518,10 @@ Eine Kennzeichnung der nicht verarbeiteten eAU- oder Storno-Nachricht erfolgt in
 Bei diesen Fehlernachrichten repräsentiert das Feld  „issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitione) r_Identifier).extension(Message-ID).valueIdentifier.value“ die KIM-Message-ID  sprich die Message-ID des äußeren Headers - der versendeten KIM-Nachricht.
 
 Der Text < Wenden Sie sich bitte dringend zur Behebung des Problems an Ihren Softwarehersteller  oder IT-Dienstleister.  Sollte eine Korrektur des Sachverhaltes nach Rücksprache mit ihrem Softwarehersteller nicht bis  Ende des nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck  der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. > in diesem  Meldungstext kann im Kontext des stationären oder zahnärztlichen Einsatzes durch einen anderen  Text angepasst bzw. ersetzt werden.
+
+SEITE 41 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1418,6 +1551,10 @@ Sofern eine DSN von einem Softwarehersteller nicht im KIM-Postfach des Anwenders
 |---|---|
 | **O5-09** | Weiterleitung von Fehlermeldungen an den Softwareanbieter |
 
+SEITE 42 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1444,6 +1581,11 @@ Die Software stellt sicher, dass zu jeder versendeten eAU- und Storno-Nachricht 
 Eine verpflichtende Zustellbestätigung muss angefordert werden, damit Kenntnis darüber erlangt werden  kann, ob die versendeten KIM-Nachrichten bei der Krankenkasse angekommen sind.
 
 **Akzeptanzkriterium:**
+
+SEITE 43 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1492,6 +1634,9 @@ Im Bundesmantelvertrag Anlage 2b §3 ist geregelt, dass die Übertragung von dig
 
 - b) Die Software setzt in den Header der KIM-Nachricht das Element X-KIM-Dienstkennung mit dem  Wert „eAU;Fehler-Kasse;V1.2
 - 3. Einschränkung zur Anforderung KOM-LE-A_2199 des
+
+SEITE 44 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 - >.xml
 - Implementierungsleitfadens:
 
@@ -1499,7 +1644,9 @@ Im Bundesmantelvertrag Anlage 2b §3 ist geregelt, dass die Übertragung von dig
 -
 ```
 
-Lesebestätigungsanforderung (MDN) - *<E,T>*EAU0_Fehler_<*ID der*
+- *<E,T>*EAU0_Fehler_<*ID der*
+
+Lesebestätigungsanforderung (MDN) 
 
 
 ---
@@ -1541,6 +1688,8 @@ Die Verarbeitung der Fehlernachricht in den Softwareprodukten der Arztpraxen wir
 - usw.,
 
 darf von den Krankenkassen nicht mit einer Fehlernachricht beantwortet werden, da diese Sachverhalte  keine Fehler darstellen.
+
+SEITE 45 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1587,6 +1736,8 @@ Zum 1. Oktober 2025 wird die Aktualisierung der FHIR-Profile für die eAU-, Stor
 
 Die Vorgaben zur Übergangsregelung haben eine begrenzte Gültigkeit. Nach Ablauf der Übergangsregelung  werden nicht mehr gültige Versionen als fehlerhaft angelehnt.
 
+SEITE 46 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1612,6 +1763,8 @@ Die Vorgaben zur Übergangsregelung haben eine begrenzte Gültigkeit. Nach Ablau
 - 3. Die technische Verarbeitung der Nutzdaten (eAU- oder Storno-Instanzen) bei der Krankenkasse ist  fehlerhaft, aber die Versionsnummer des FHIR-Datensatzes lässt sich nicht ermitteln.  In diesem Fall wird folgendes festgelegt.   Krankenkasse sendet die Fehlernachricht in der Version 1.1.0 und der KIM-Dienstkennung 1.1
 - d) Praxis sendet FHIR-Datensatz mit Version 1.1.0 und KIM-Dienstkennung 1.2
 
+SEITE 47 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1632,6 +1785,8 @@ Die Vorgaben zur Übergangsregelung haben eine begrenzte Gültigkeit. Nach Ablau
 - 1. Die technische Verarbeitung der Nutzdaten (eAU- oder Storno-Instanzen) der Nutzdaten  Krankenkasse ist fehlerhaft und die Versionsnummer des FHIR-Datensatzes lässt sich nicht ermitteln.  In diesem Fall wird folgendes festgelegt.   Krankenkasse sendet FHIR-Datensatz mit Version 1.2.1 und KIM-Dienstkennung 1.2
 - i) Praxis sendet FHIR-Datensatz mit unbekannter Version und KIM-Dienstkennung 1.1
 - 1. Die technische Verarbeitung der Nutzdaten (eAU- oder Storno-Instanzen) der Nutzdaten  Krankenkasse ist fehlerhaft und die Versionsnummer des FHIR-Datensatzes lässt sich nicht ermitteln.  In diesem Fall wird folgendes festgelegt.   Krankenkasse sendet FHIR-Datensatz mit Version 1.1.0 und KIM-Dienstkennung 1.1
+
+SEITE 48 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1679,6 +1834,10 @@ Zum 1. Oktober 2021 sind Ärzte verpflichtet, die Ausfertigung für die Krankenk
 
 **Akzeptanzkriterium:**
 
+SEITE 49 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1709,6 +1868,10 @@ Die Softwarehersteller können ihren Anwendern anbieten, die Bedruckung des Vert
 Die erzeugten Ausdrucke sollen nicht auf Sicherheitspapier ausgedruckt werden.
 
 Es wird ausdrücklich empfohlen, dass Softwarehersteller ihren Anwendern Möglichkeiten zur Verfügung  stellen, dass die eAU dem Versicherten über die ePA zur Verfügung gestellt werden kann. Im Fall der
+
+SEITE 50 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1747,6 +1910,8 @@ Beispiel: Bundespolizei Zentr. Abr. Heilfürsorge, VKNR: 74860, Seriennummern-Ko
 - 6. Die Software stellt sicher, dass der Versand einer eAU nicht erfolgt, wenn bei dem gesetzlich  Versicherten in dem Feld der Besondere Personengruppe (ID 15 gemäß Informationsmodell) der Wert  „07“ steht. In diesem Fall druckt die Software automatisch die Ausfertigung Krankenkasse nach P6-02  Akzeptanzkriterium 1a) aus.
 - a) Die Software zeigt eAUs in diesem Fall als versendet in der Übersicht nach Akzeptanzkriterium 1c) an.
 - b) Die Akzeptanzkriterien 2, 3 und 4 gelten für die eAUs in diesem Fall nicht.
+
+SEITE 51 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1794,6 +1959,8 @@ Aufgrund von bspw. Eingabefehlern muss ein Anwender die Möglichkeit haben, eine
 - 2. Wenn ein Anwender eine eAU, die noch nicht versendet wurde stornieren möchte, dann ist der Versand  einer Storno-Nachricht gemäß P5-03 an die Krankenkasse nicht gestattet.
 - 3. Die Software verhindert, dass für eine eAU, für die eine Fehlernachricht vorliegt, eine Storno-Nachricht  erstellt und versendet werden kann.
 
+SEITE 52 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1837,6 +2004,8 @@ Durch diese Funktion der Software muss der Anwender nicht regelmäßig prüfen, 
 - a) Wenn ein durchgeführter Test zu einer Fehlermeldung bspw. durch einen fehlgeschlagenen Versand  einer Test-KIM-Nachricht führt, dann zeigt die Software dem Anwender die Fehlermeldung nicht an.
 - b) Wenn ein durchgeführter Test zu dem Ergebnis kommt, dass die TI-Störung nicht mehr vorliegt, dann  zeigt die Software dem Anwender dies an und gibt dem Anwender die Möglichkeit, den Zustand nach  P6-05 zu ändern.
 
+SEITE 53 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1870,6 +2039,8 @@ Die Erzeugung des Barcodes auf der Ausfertigung für die Krankenkasse ist notwen
 
 - 1. Die Software erzeugt im Rahmen des Ausdruckes einen PDF417-Barcode für die Ausfertigung  Krankenkasse gemäß den Anforderungen P7-02, P7-03 und P7-04.
 - 2. Der erzeugte PDF417-Barcode entspricht den technischen Vorgaben zur Erzeugung des Barcodes des  Kapitels 5 des Technischen Handbuches Blankoformularbedruckung (siehe  KBV_ITA_VGEX_TECHNISCHES_HANDBUCH_BFB)
+
+SEITE 54 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -1915,6 +2086,8 @@ Für eine fehlerfreie Weiterverarbeitung in nachverarbeitenden Systemen müssen 
 - b) Beispiel: O26.83 G, O12.2 Z, S51.9 G L
 - c) Die Angabe der Diagnosesicherheit (G, V, Z, A) und / oder der Seitenlokalisation (R, L, B) erfolgt hinter  jedem ICD-10-GM-Kode in der hier angegebenen Reihenfolge. Trennzeichen zwischen ICD-10-GM-Kode, Diagnosesicherheit und Seitenlokalisation ist das "Leerzeichen".
 
+SEITE 55 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1953,6 +2126,8 @@ Um eine korrekte Integration des Barcodes auf der Ausfertigung Krankenkasse sich
 - An dieser Stelle ist eine dynamische Anpassung des Stylesheets zur Laufzeit möglich. Hierfür ist das  „src“-Attribut des <img>-Elementes zu nutzen.
 - Für die Nutzung des Templates AnzeigeBarcodePerBilddatei ist die Auskommentierung des  Template-Aufrufes nach dem folgenden Kommentar aufzuheben:  <!-- !!!Template zur Anzeige des Barcodes mittels Bilddatei  Variante 2!!! -->
 
+SEITE 56 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1979,6 +2154,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 - **FHIR-X-Path ausgehend von Bundle/entry/resource/**
 - Mapping-Information des Feldinhaltes basierend auf den FHIR-Profilen der eAU
 
+SEITE 57 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -1996,6 +2175,10 @@ Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode-Inhaltes
 | 08 | Besondere | 2 | n | 00, 04, 06, 07, 08, 09 |  | Coverage/extension[@url='http://fhir.de/StructureDefini |
 | 09 | DMP-Kennzeichnung | 2 | n | 00, 01, 02, 03, 04, 05, |  | Coverage/extension[@url='http://fhir.de/StructureDefini |
 | 10 | (N)BSNR | 9 | n |  |  | Bedingung:  Wenn vorhanden, dann: |
+
+SEITE 58 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 BUNDLE/ENTRY/RESOURCE/ Personengruppe 06, 07, 08, 09, 10, 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 Version des Formulars für die eAU Krankenkasse e/sid/arge-ik/iknr']/value/@value tion/gkv/versichertenart']/valueCoding[system/@value= 'https://fhir.kbv.de/CodeSystem /KBV_CS_SFHIR_KBV_VERSICHERTENSTATUS]/code/@va tion/gkv/besondere-personengruppe'] /valueCoding[system/@value='https://fhir.kbv.de/CodeS /KBV_CS_SFHIR_KBV_PERSONENGRUPPE']/code/@value tion/gkv/dmp-kennzeichen'] /valueCoding[system/@value='https://fhir.kbv.de/CodeS ystem/KBV_CS_SFHIR_KBV_DMP']/code/@value PractitionerRole/organization/identifier[system/@value
 
@@ -2015,6 +2198,10 @@ BUNDLE/ENTRY/RESOURCE/ Personengruppe 06, 07, 08, 09, 10, 11, 12, 30, 31, 32, 33
 | 19 | festgestellt am | 8 | n |  | Format: JJJJMMTT | Condition[meta/profile/@value='https://fhir.kbv.de |
 | 20 | sonstiger Unfall | 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de |
 
+SEITE 59 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 BUNDLE/ENTRY/RESOURCE/ Organization/identifier/value/@value Composition als Autor referenziert ist @value='ERST_END']  @value='FOLGE_END'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2]/e xtension[@url='http://hl7.org/fhir/StructureDefinition/c ondition-dueTo'] /valueCodeableConcept/coding/code[@value='2'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 '] /onsetPeriod/start/@value /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2 '] /onsetPeriod/end/@value /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2.'] /extension[@url='http://hl7.org/fhir/StructureDefinition /condition-assertedDate']/valueDateTime/@value /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2'] /extension[@url='http://hl7.org/fhir/StructureDefinition
 
 ---
@@ -2030,6 +2217,10 @@ BUNDLE/ENTRY/RESOURCE/ Organization/identifier/value/@value Composition als Auto
 | 26 | Endbescheinigung | 1 | n | 1 | 1 = angekreuzt | Composition/type/coding/code[@value='FOLGE_END' or |
 | 27 | Diagnosen | <=70 | a |  | max. 6 ICD-10-Diagnosen; | ICD-10:  Condition[meta/profile/@value='https://fhir.kbv.de  Diagnosesicherheit:  Condition[meta/profile/@value='https://fhir.kbv.de  Seitenlokalisation:   Condition[meta/profile/@value='https://fhir.kbv.de |
 
+SEITE 60 VON 91 / KBV /
+
+TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
 BUNDLE/ENTRY/RESOURCE/ mehrere Angaben sind durch ein Komma und ein Leerzeichen getrennt (siehe P7-03) /coding/code[@value='1'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='http://hl7.org/fhir/StructureDefinition/ /coding/code[@value='3'] /code[@value='wiedereingliederung'] /StructureDefinition/KBV_PR_EAU_Condition_AU|1.2']/ extension[@url='https://fhir.kbv.de/StructureDefinition/ KBV_EX_EAU_7_weeks']/valueBoolean/@value='true' @value='ERST_END'] /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/ code/coding/code/@value /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/code/coding/extension[@url='http://fhir.de/Structure Definition/icd-10-gm- diagnosesicherheit']/valueCoding/code/@value /StructureDefinition/KBV_PR_EAU_Condition_ICD|1.2 ‘]/code/coding/extension[@url='http://fhir.de/Structure Definition/seitenlokalisation']/valueCoding/code/@value
 
 ---
@@ -2038,7 +2229,10 @@ BUNDLE/ENTRY/RESOURCE/ mehrere Angaben sind durch ein Komma und ein Leerzeichen 
 |---|---|---|---|---|---|---|
 | 28 | Hinweise zur Diagnose | <=70 | a |  | Freitext | Condition[meta/profile/@value='https://fhir.kbv.de/Stru |
 
-BUNDLE/ENTRY/RESOURCE/ ctureDefinition/KBV_PR_EAU_Condition_Text|1.2' ]/code/text/@value
+SEITE 61 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+BUNDLE/ENTRY/RESOURCE/ ctureDefinition/KBV_PR_EAU_Condition_Text|1.2' ]/code/text/@value VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -2071,6 +2265,10 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 - **Bedingung**
 - Logische Bedingung, an welche die Befüllung eines Feldes oder einer gesamten Feldgruppe geknüpft  ist
 
+SEITE 62 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -2084,7 +2282,10 @@ Tabelle 23: Auflistung der abzubildenden Felder für die eAU
 | 4 |  | x |  |  |  |  | Prüfnummer | 6..17 | 0..1 | Dieses Feld enthält die  Im zahnärztlichen Bereich ist hier | WENN   ANSONSTEN |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine  Diese ID wird mit signiert und |  |
 
-(GRAU = FELDGRUPPE) DERH. Informationen zum Dokument. Formulars der vertragsärztlichen Versorgung. des Informationsmodells. Konkret bezieht sich diese Angabe auf die Version des Profils KBV_PR_EAU_Bundle bzw. KBV_PR_EAU_Storno_Bundle. Prüfnummer, welche jede zertifizierte Software im vertragsärztlichen Bereich im Rahmen der Zertifizierung der KBV erhält. das Programmstandskennzeichen anzugeben. eindeutige Identifikation des Dokuments.  sichert damit vor Fälschungen. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" ist,  DANN  ist dieses Feld Pflicht ist dieses Feld optional.
+SEITE 63 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) DERH. Informationen zum Dokument. Formulars der vertragsärztlichen Versorgung. des Informationsmodells. Konkret bezieht sich diese Angabe auf die Version des Profils KBV_PR_EAU_Bundle bzw. KBV_PR_EAU_Storno_Bundle. Prüfnummer, welche jede zertifizierte Software im vertragsärztlichen Bereich im Rahmen der Zertifizierung der KBV erhält. das Programmstandskennzeichen anzugeben. eindeutige Identifikation des Dokuments.  sichert damit vor Fälschungen. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" ist,  DANN  ist dieses Feld Pflicht ist dieses Feld optional. 
+
 
 ---
 
@@ -2097,7 +2298,12 @@ Tabelle 23: Auflistung der abzubildenden Felder für die eAU
 | 10 |  |  | x |  |  |  | IK des Kostenträgers | 9 | 0..1 | Dieses Feld enthält das | WENN  ANSONSTEN |
 | 11 |  |  | x |  |  |  | Name des Kostenträgers | 1..45 | 1..1 | Dieses Feld enthält den Namen |  |
 
-(GRAU = FELDGRUPPE) Krankenkasse  DERH. Kostenträger. Kostenträgers, z.B. gesetzliche Krankenversicherung (GKV). Informationen zum Kostenträger.  Institutionskennzeichen (IK) der zuständigen Krankenkasse z.B. laut elektronischer Gesundheitskarte (eGK).  Siehe hierzu die Übertragungsregel nach der "Technische Anlage zur Anlage 4a BMV-Ä" Kapitel 2.2 "USE-CASES" Institutionskennzeichen (IK) und wird verwendet, wenn der Kostenträger nicht die zuständige Krankenkasse ist, bspw. eine Berufsgenossenschaft (BG) oder eine Unfallkasse (UK). des Kostenträgers. Der korrekte Name ergibt sich aus den definierten Bedruckungsregeln laut "Technische Anlage zur das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Kostenträgertyp" gleich "BG" oder "UK" ist, DANN kann das Feld übertragen werden darf das Feld nicht übertragen werden.
+SEITE 64 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) Krankenkasse  DERH. Kostenträger. Kostenträgers, z.B. gesetzliche Krankenversicherung (GKV). Informationen zum Kostenträger.  Institutionskennzeichen (IK) der zuständigen Krankenkasse z.B. laut elektronischer Gesundheitskarte (eGK).  Siehe hierzu die Übertragungsregel nach der "Technische Anlage zur Anlage 4a BMV-Ä" Kapitel 2.2 "USE-CASES" Institutionskennzeichen (IK) und wird verwendet, wenn der Kostenträger nicht die zuständige Krankenkasse ist, bspw. eine Berufsgenossenschaft (BG) oder eine Unfallkasse (UK). des Kostenträgers. Der korrekte Name ergibt sich aus den definierten Bedruckungsregeln laut "Technische Anlage zur das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Kostenträgertyp" gleich "BG" oder "UK" ist, DANN kann das Feld übertragen werden darf das Feld nicht übertragen werden. 
+
 
 ---
 
@@ -2109,6 +2315,10 @@ Tabelle 23: Auflistung der abzubildenden Felder für die eAU
 | 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der |  |
 | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1 | Dieses Feld enthält die besondere |  |
 | 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |
+
+SEITE 65 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 (GRAU = FELDGRUPPE) DERH. Bedruckung des Personalienfeldes und des verkürzten Personalienfeldes". Wohnortkennzeichen ent- sprechend des Wohnortprinzips (WOP) für Honorarvereinbarungen (BMV-Ä Anlage 21). zum Versichertenstatus. gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist Versicherung, z.B. ob der Versicherte Familienversicherter, Mitglied oder Rentner ist. Personengruppe, zu der der Versicherte gehört (§ 264 SGB V). Management-Programm (DMP), in dem der Versicherte eine eGK mit VSD-Schema >= 5.2.0 eingelesen wurde, DANN ist dieses Feld verpflichtend zu übertragen. kann dieses Feld übertragen werden. DANN  ist dieser Block Pflicht. ist dieser Block optional.
 
@@ -2123,7 +2333,10 @@ Tabelle 23: Auflistung der abzubildenden Felder für die eAU
 | **19** |  | **x** |  |  |  |  | **Identifikator des Versicherten** | **6..12** | **0..1** | **Dieses Feld enthält den** | **hat und das Feld  ANSONSTEN** |
 | 19a |  |  | x |  |  |  | VersichertenID | 10 | 0..1 | Dieses Feld enthält die | WENN |
 
-(GRAU = FELDGRUPPE) DERH. Satz 1 Nr. 14 SGB V). Rechtsgrundlage, auf Basis derer die Leistung erbracht wurde, z. B. Entlass-Rezept, Terminservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). Endes des Versicherungsschutzes, wenn die Datumsangabe auf der Versicherten. Versichertenkarte gespeichert ist und ausgelesen wurde. Identifikator der Person, z.B. die Krankenversicherungsnummer der GKV oder PKV. "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ VersichertenID der gesetzlichen Krankenversicherung oder der privaten Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen der Versicherte sich elektronisch ausgewiesen DANN  ist dieses Feld Pflicht. ist dieses Feld optional. das Feld „Identifikator des Versicherten“ vorhanden ist "Kostenträgertyp" gleich "GKV" oder „PKV“ ist oder der Block „Identifikator des
+SEITE 66 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) DERH. Satz 1 Nr. 14 SGB V). Rechtsgrundlage, auf Basis derer die Leistung erbracht wurde, z. B. Entlass-Rezept, Terminservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). Endes des Versicherungsschutzes, wenn die Datumsangabe auf der Versicherten. Versichertenkarte gespeichert ist und ausgelesen wurde. Identifikator der Person, z.B. die Krankenversicherungsnummer der GKV oder PKV. "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ VersichertenID der gesetzlichen Krankenversicherung oder der privaten Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen der Versicherte sich elektronisch ausgewiesen DANN  ist dieses Feld Pflicht. ist dieses Feld optional. das Feld „Identifikator des Versicherten“ vorhanden ist "Kostenträgertyp" gleich "GKV" oder „PKV“ ist oder der Block „Identifikator des 
+
 
 ---
 
@@ -2133,7 +2346,12 @@ Tabelle 23: Auflistung der abzubildenden Felder für die eAU
 | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1 | Dieses Feld enthält die | WENN  WENN |
 | **140** |  | **x** |  |  |  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die** |  |
 
-(GRAU = FELDGRUPPE) DERH. der GKV gemäß § 290 und § 362 SGB V). Versichertennummer der Krankenversichertenkarte. Bestandteile des Namens des Versicherten. und das Feld „KVK  nicht angegeben ist, DANN  ist dieses Feld Pflicht. das Feld „KVK Versichertennummer“ angegeben ist, DANN darf dieses Feld nicht      angegeben werden. der Block „Identifikator des und das Feld "Kostenträgertyp" gleich "SKT" ist oder der Block „Identifikator des und das Feld „VersichertenID“ nicht angegeben ist, DANN  ist dieses Feld Pflicht. das Feld „VersichertenID“ angegeben ist, DANN darf dieses Feld nicht      angegeben werden.
+SEITE 67 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) DERH. der GKV gemäß § 290 und § 362 SGB V). Versichertennummer der Krankenversichertenkarte. Bestandteile des Namens des Versicherten. und das Feld „KVK  nicht angegeben ist, DANN  ist dieses Feld Pflicht. das Feld „KVK Versichertennummer“ angegeben ist, DANN darf dieses Feld nicht      angegeben werden. der Block „Identifikator des und das Feld "Kostenträgertyp" gleich "SKT" ist oder der Block „Identifikator des und das Feld „VersichertenID“ nicht angegeben ist, DANN  ist dieses Feld Pflicht. das Feld „VersichertenID“ angegeben ist, DANN darf dieses Feld nicht      angegeben werden. 
+
 
 ---
 
@@ -2147,6 +2365,10 @@ Tabelle 23: Auflistung der abzubildenden Felder für die eAU
 | 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |
 | **27** |  | **x** |  |  |  |  | **Straßenadresse des** |  | **0..1** | **Dieser Block enthält** | **des Versicherten" nicht** |
 
+SEITE 68 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Nachnamen des Versicherten. akademischen Grad des Versicherten, z.B. „Dr. med.“, „Dr.rer.nat.“. Namenszusatz als Bestandteil des Nachnamens, z.B. "Freiherr", „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Vorsatzwort als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“ ; mehrere Vorsatzwörter sind durch Blank getrennt. an.  Informationen zur Straßenadresse des Versicherten. angegeben ist, DANN in diesem Feld ein Datum angegeben wird, DANN darf das Datum nicht in der Zukunft liegen. der Block "Postfachanschrift
 
 ---
@@ -2158,7 +2380,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die | WENN   ANSONSTEN WENN    ANSONSTEN |
 | 30 |  |  | x |  |  |  | Ortsname der | 1..40 | 0..1 | Dieses Feld enthält den |  |
 
-(GRAU = FELDGRUPPE) Versichertenanschrift Versichertenanschrift Versichertenanschrift DERH. (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Postleitzahl. Ortsnamen. Mehrere muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht.  der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versichertenanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ist dieses Feld optional.
+SEITE 69 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) Versichertenanschrift Versichertenanschrift Versichertenanschrift DERH. (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Postleitzahl. Ortsnamen. Mehrere muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht.  der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versichertenanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ist dieses Feld optional. 
+
 
 ---
 
@@ -2172,7 +2399,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  |
 | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die | WENN |
 
-(GRAU = FELDGRUPPE) Versichertenanschrift Versichertenanschrift Versichertenanschrift Versicherten-Postfachanschrift DERH. Blank/Sonderzeichen getrennt. Straßennamen. Hausnummer. Anschriftenzusatz angegeben werden, z.B. Hinterhaus. Informationen zur der Block "Straßenadresse des Versicherten" nicht Versicherten. angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden. Wohnsitzländercode angegeben werden (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Postleitzahl. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht.
+SEITE 70 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) Versichertenanschrift Versichertenanschrift Versichertenanschrift Versicherten-Postfachanschrift DERH. Blank/Sonderzeichen getrennt. Straßennamen. Hausnummer. Anschriftenzusatz angegeben werden, z.B. Hinterhaus. Informationen zur der Block "Straßenadresse des Versicherten" nicht Versicherten. angegeben ist, DANN muss dieser Block angegeben werden. darf dieser Block nicht angegeben werden. Wohnsitzländercode angegeben werden (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Postleitzahl. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. 
+
 
 ---
 
@@ -2185,6 +2417,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | **40** |  | **x** |  |  |  |  | **Ausstellende/ verschreibende** |  | **1..1** | **der ausstellenden/** |  |
 | **146** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** | **Qualifikation der ausstellenden/** |  |
 
+SEITE 71 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 (GRAU = FELDGRUPPE) Postfachanschrift Postfachanschrift Person verschreibenden Person. verschreibenden Person verschreibenden Person DERH. Ortsnamen. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. entsprechen den Angaben des Vertragsarztstempels für Formulare. Dieser Block enthält die Daten Dieser Block enthält Informationen über die der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Postfachanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ist dieses Feld optional.
 
 ---
@@ -2196,7 +2432,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN  ANSONSTEN |
 | **42** |  |  | **x** |  |  |  | **Identifikator der** |  | **0..2** | **Dieser Block** | **verschreibenden Person“** |
 
-(GRAU = FELDGRUPPE) ausstellenden/ verschreibenden ausstellenden/ verschreibenden DERH. Kennzeichnung der verschreibenden Person z.B. Arzt, Arzt in Weiterbildung. Freitextangabe zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. enthält den Identifikator der Person, z.B. eine Arztnummer (Lebenslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zusätzlich eine Telematik-ID enthalten. gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV das Feld „Typ der ausstellenden / gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ der ausstellenden /
+SEITE 72 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) ausstellenden/ verschreibenden ausstellenden/ verschreibenden DERH. Kennzeichnung der verschreibenden Person z.B. Arzt, Arzt in Weiterbildung. Freitextangabe zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. enthält den Identifikator der Person, z.B. eine Arztnummer (Lebenslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zusätzlich eine Telematik-ID enthalten. gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV das Feld „Typ der ausstellenden / gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ der ausstellenden / 
+
 
 ---
 
@@ -2205,7 +2446,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 |  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der  ANSONSTEN WENN  ANSONSTEN WENN  ANSONSTEN** |
 | 42a |  |  |  | x |  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |
 
-(GRAU = FELDGRUPPE) DERH. verschreibenden Person“ nicht vorhanden ist, DANN     ist dieser Block Pflicht. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „03“ ist und der Block „Verantwortliche Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „02“ ist oder das Feld „ASV -Fachgruppennummer verschreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieser Block optional. verschreibenden Person Identifikator der Person eine Arztnummer (Lebenslange Arztnummer LANR). der Block „Identifikator der verschreibenden Person“
+SEITE 73 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+(GRAU = FELDGRUPPE) DERH. verschreibenden Person“ nicht vorhanden ist, DANN     ist dieser Block Pflicht. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „03“ ist und der Block „Verantwortliche Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „02“ ist oder das Feld „ASV -Fachgruppennummer verschreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieser Block optional. verschreibenden Person Identifikator der Person eine Arztnummer (Lebenslange Arztnummer LANR). der Block „Identifikator der verschreibenden Person“ VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -2215,7 +2459,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN  ANSONSTEN |
 | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als |  |
 
-(GRAU = FELDGRUPPE) ausstellenden/ verschreibenden Person verschreibenden Person Identifikator der Person eine Zahnarztnummer (ZANR). Identifikator der Person eine Telematik-ID. „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der verschreibenden Person“ „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden.
+SEITE 74 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) ausstellenden/ verschreibenden Person verschreibenden Person Identifikator der Person eine Zahnarztnummer (ZANR). Identifikator der Person eine Telematik-ID. „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der verschreibenden Person“ „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. 
+
 
 ---
 
@@ -2228,7 +2477,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 46 |  |  |  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  |
 | 47 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |
 
-(GRAU = FELDGRUPPE) verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person ausstellenden/ verschreibenden Person DERH. ambulanten spezialfachärztlichen Versorgung (ASV) genutzt. Jedes ASV-Team erhält von der ASV- Servicestelle eine ASV- Teamnummer. Mit ihr kennzeichnen ASV-Ärzte die Leistungen oder Verordnungen, die sie in der ASV durchführen. Die Teamnummer umfasst neun Ziffern und ist wie eine Betriebsstättennummer (BSNR) aufgebaut. Sie wird vergeben, sobald die Ärzte eine ASV- Berechtigung haben  zusätzlich zur BSNR und zur lebenslangen Arztnummer. der Person. der Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Familiennamen der Person akademischen Grad der Person, z.B. „Dr. med.“, „Dr.rer.nat.“. Namenszusatz als Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere das Feld „Kennzeichen Rechtsgrundlage“ den Wert "01" oder "11" besitzt, DANN muss dieses Feld      übertragen werden. darf dieses Feld nicht  angegeben werden.
+SEITE 75 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person ausstellenden/ verschreibenden Person DERH. ambulanten spezialfachärztlichen Versorgung (ASV) genutzt. Jedes ASV-Team erhält von der ASV- Servicestelle eine ASV- Teamnummer. Mit ihr kennzeichnen ASV-Ärzte die Leistungen oder Verordnungen, die sie in der ASV durchführen. Die Teamnummer umfasst neun Ziffern und ist wie eine Betriebsstättennummer (BSNR) aufgebaut. Sie wird vergeben, sobald die Ärzte eine ASV- Berechtigung haben  zusätzlich zur BSNR und zur lebenslangen Arztnummer. der Person. der Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Familiennamen der Person akademischen Grad der Person, z.B. „Dr. med.“, „Dr.rer.nat.“. Namenszusatz als Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere das Feld „Kennzeichen Rechtsgrundlage“ den Wert "01" oder "11" besitzt, DANN muss dieses Feld      übertragen werden. darf dieses Feld nicht  angegeben werden. 
+
 
 ---
 
@@ -2238,7 +2492,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |
 | **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN  ANSONSTEN WENN** |
 
+SEITE 76 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 (GRAU = FELDGRUPPE) verschreibenden Person DERH. getrennt. Vorsatzwort der Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. der verantwortlichen Person, z.B. des zur Weiterbildung ermächtigten Arztes (im vertrags(zahn)ärztlichen Bereich und im Krankenhaus).  Der Block dient dazu, die entsprechende Konstellation des Arztstempels abzubilden und eine Zuordnung zum verantwortlichen Vertrags(zahn)arzt / Facharzt zu ermöglichen. muss dieser Block das Feld Typ der verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der verschreibenden Person“ nicht vorhanden ist und wenn das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, vorhanden sein. das Feld „Typ der verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der verschreibenden Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder
+
 
 ---
 
@@ -2250,7 +2509,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 58 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |
 
-(GRAU = FELDGRUPPE) verantwortlichen Person verantwortlichen Person. Person verantwortlichen Person verantwortlichen Person DERH. Dieser Block enthält Kennzeichnung der verantwortlichen Person, z.B. Arzt. Freitextangabe zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. „04“ ist oder das ausstellenden/ verschreibenden Person"  gleich „04“ ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. verantwortlichen Person“ darf nicht gleich „02“ oder „03“ sein. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der
+SEITE 77 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) verantwortlichen Person verantwortlichen Person. Person verantwortlichen Person verantwortlichen Person DERH. Dieser Block enthält Kennzeichnung der verantwortlichen Person, z.B. Arzt. Freitextangabe zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. „04“ ist oder das ausstellenden/ verschreibenden Person"  gleich „04“ ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. verantwortlichen Person“ darf nicht gleich „02“ oder „03“ sein. das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der 
+
 
 ---
 
@@ -2260,7 +2524,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | **52** |  |  | **x** |  |  |  | **Identifikator der** |  | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“ **  **ANSONSTEN WENN **  **ANSONSTEN** |
 | 52a |  |  |  | x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |
 
-(GRAU = FELDGRUPPE) DERH. Identifikator der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zusätzlich eine Telematik-ID enthalten. gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Identifikator der Person eine nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ und das Feld „Typ der Fachgruppennummer der nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „ASV Fachgruppennummer der vorhanden ist, DANN darf dieser Block nicht angegeben werden.     ist dieser Block     optional. der Block „Identifikator der
+SEITE 78 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) DERH. Identifikator der Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zusätzlich eine Telematik-ID enthalten. gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Identifikator der Person eine nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ und das Feld „Typ der Fachgruppennummer der nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „ASV Fachgruppennummer der vorhanden ist, DANN darf dieser Block nicht angegeben werden.     ist dieser Block     optional. der Block „Identifikator der 
+
 
 ---
 
@@ -2272,6 +2541,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | **142** |  |  | **x** |  |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** |  |
 | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
 | 54 |  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |
+
+SEITE 79 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 (GRAU = FELDGRUPPE) verantwortlichen Person verantwortlichen Person Person Person verantwortlichen Person Arztnummer LANR). Identifikator der Person eine Zahnarztnummer (ZANR). Identifikator der Person eine Telematik-ID. der Person. der Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Familiennamen der Person „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der verantwortlichen Person“ „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  darf dieses Feld nicht  angegeben werden.
 
@@ -2285,7 +2558,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | **59** |  | **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der  Für den zahnärztlichen Bereich** |  |
 | **61** |  |  | **x** |  |  |  | **Identifikator der Einrichtung** | **9** | **0..2** | **Dieses Feld enthält einen** | WENN   ANSONSTEN |
 
-(GRAU = FELDGRUPPE) Person verantwortlichen Person verantwortlichen Person DERH. akademischen Grad der Person, z.B. „Dr. med.“, „Dr.rer.nat.“. Namenszusatz als Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Vorsatzwort der Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. Einrichtung / Institution, z.B. eine Betriebsstätte / Praxis. gilt der Begriff Betriebsstätte entsprechend als Praxis. Identifikator einer Einrichtung Form einer Betriebsstättennummer (BSNR), IK-Nummer, KZV- Abrechnungsnummer oder Standortnummer und kann zusätzlich eine Telematik-ID enthalten.  das Feld "Kostenträgertyp" gleich "GKV" oder „PKV“ oder "BG" oder "SKT" oder "UK" ist und das Feld "Typ der ausstellenden/ verschreibenden Person" gleich "00" oder "01" oder "03" oder „04“ ist, DANN  ist dieser Block Pflicht. ist dieser Block optional.
+SEITE 80 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) Person verantwortlichen Person verantwortlichen Person DERH. akademischen Grad der Person, z.B. „Dr. med.“, „Dr.rer.nat.“. Namenszusatz als Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Vorsatzwort der Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. Einrichtung / Institution, z.B. eine Betriebsstätte / Praxis. gilt der Begriff Betriebsstätte entsprechend als Praxis. Identifikator einer Einrichtung Form einer Betriebsstättennummer (BSNR), IK-Nummer, KZV- Abrechnungsnummer oder Standortnummer und kann zusätzlich eine Telematik-ID enthalten.  das Feld "Kostenträgertyp" gleich "GKV" oder „PKV“ oder "BG" oder "SKT" oder "UK" ist und das Feld "Typ der ausstellenden/ verschreibenden Person" gleich "00" oder "01" oder "03" oder „04“ ist, DANN  ist dieser Block Pflicht. ist dieser Block optional. 
+
 
 ---
 
@@ -2295,7 +2573,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN  ANSONSTEN |
 | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine  Abrechnungsnummern des | WENN |
 
-(GRAU = FELDGRUPPE) DERH. Betriebsstättennummer (BSNR) zur Identifikation einer Einrichtung. Im vertragsärztlichen Bereich ist das Feld eine Voraussetzung für die Abrechnung zwischen Leistungserbringern und Kostenträgern.  Institutionskennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeutiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. Abrechnungsnummer der Kassenzahnärztlichen Vereinigung (KZV). Zahnarztes/der Zahnärztin mit weniger als 9 Stellen sind mit vorangestellten Nullen entsprechend zu füllen. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "IK-Nummer" und "KZV- Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "KZV-Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist,  die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind
+SEITE 81 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) DERH. Betriebsstättennummer (BSNR) zur Identifikation einer Einrichtung. Im vertragsärztlichen Bereich ist das Feld eine Voraussetzung für die Abrechnung zwischen Leistungserbringern und Kostenträgern.  Institutionskennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeutiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. Abrechnungsnummer der Kassenzahnärztlichen Vereinigung (KZV). Zahnarztes/der Zahnärztin mit weniger als 9 Stellen sind mit vorangestellten Nullen entsprechend zu füllen. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "IK-Nummer" und "KZV- Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "KZV-Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist,  die Felder "BSNR" und "IK-Nummer" und "Standortnummer" nicht vorhanden sind 
+
 
 ---
 
@@ -2309,6 +2592,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 63 |  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  |
 | 64 |  |  |  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die |  |
 | 65 |  |  |  |  | x |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den |  |
+
+SEITE 82 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 (GRAU = FELDGRUPPE) DERH. Standortnummer eines Krankenhauses. Telematik-ID der Einrichtung. Bezeichnung der Einrichtung (Praxis / Krankenhaus) Straßenadresse der Einrichtung. (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Postleitzahl. Ortsnamen. Mehrere ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK-Nummer" und "KZV- Abrechnungsnummer" nicht vorhanden sind ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden.
 
@@ -2328,7 +2615,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 73 |  | x |  |  |  |  | Ausstellungsdatum | 10 | 1..1 | Dieses Feld enthält das |  |
 | 74 |  | x |  |  |  |  | AU-seit | 10 | 0..1 | Dieses Feld enthält das Datum, ab | WENN |
 
-(GRAU = FELDGRUPPE) DERH. Blank/Sonderzeichen getrennt. Straßennamen. Hausnummer. Anschriftenzusatz, z.B. Hinterhaus. Kontaktdaten der Einrichtung. Telefonnummer. Faxnummer. Adresse der Einrichtung Bei grenzüberschreitender Einlösung einer Arzneimittelverordnung ist diese zwingend anzugeben. Arbeitsunfähigkeitsbescheinigung (AU-Bescheinigung). Ausstellungsdatum der AU- Bescheinigung. dem die Arbeitsunfähigkeit bescheinigt wird (Beginn der AU). das Feld „AU Art“ gleich "ERST" oder „ERST_END“ ist
+SEITE 83 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+(GRAU = FELDGRUPPE) DERH. Blank/Sonderzeichen getrennt. Straßennamen. Hausnummer. Anschriftenzusatz, z.B. Hinterhaus. Kontaktdaten der Einrichtung. Telefonnummer. Faxnummer. Adresse der Einrichtung Bei grenzüberschreitender Einlösung einer Arzneimittelverordnung ist diese zwingend anzugeben. Arbeitsunfähigkeitsbescheinigung (AU-Bescheinigung). Ausstellungsdatum der AU- Bescheinigung. dem die Arbeitsunfähigkeit bescheinigt wird (Beginn der AU). das Feld „AU Art“ gleich "ERST" oder „ERST_END“ istVERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -2342,6 +2632,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  |
 | 81 |  |  | x |  |  |  | SER | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |
 
+SEITE 84 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 (GRAU = FELDGRUPPE) Arbeitsunfallfolgen, Berufskrankheit DERH. zu dem die Arbeitsunfähigkeit bescheinigt wird (Ende der AU). eine PKV-Versicherte ihre / ein PKV-Versicherter medizinischem Befund teilweise dem die Arbeitsunfähigkeit festgestellt wird. die Arbeitsunfähigkeit. aufgrund eines Arbeitsunfalles, einer Arbeitsunfallfolge oder Berufskrankheit erstellt wird.  Leiden nach dem Soziales muss dieses Feld gesetzt werden.  das Feld „AU Art“ gleich „FOLGE" oder „FOLGE_END“ ist darf dieses Feld nicht gesetzt werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden.
 
 ---
@@ -2354,7 +2648,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der,  Erstbescheinigung, |  |
 | 97 |  | x |  |  |  |  | Berufsunfähigkeit | Bool | 0..1 | Dieses Feld gibt an, ob eine PKV- medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN  ANSONSTEN |
 
-(GRAU = FELDGRUPPE) DERH. vorliegt. aufgrund eines Unfalls oder einer Unfallfolge erstellt wird. Versicherte einem Durchgangsarzt zugewiesen wurde, da die Arbeitsunfähigkeit aufgrund eines Arbeitsunfalles erfolgt ist. AU ( Folgebescheinigung, Erst- Endbescheinigung, Folge- Endbescheinigung). Im Krankengeldfall und wenn eingeschätzt werden kann, dass die AU tatsächlich am angegebenen Datum endet, ist es eine (Erst- oder Folge-) Endbescheinigung. Versicherte/ein PKV-Versicherter nach ausgeübten Beruf auf nicht absehbare Zeit und somit eine Berufsunfähigkeit vorliegt. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden.
+SEITE 85 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) DERH. vorliegt. aufgrund eines Unfalls oder einer Unfallfolge erstellt wird. Versicherte einem Durchgangsarzt zugewiesen wurde, da die Arbeitsunfähigkeit aufgrund eines Arbeitsunfalles erfolgt ist. AU ( Folgebescheinigung, Erst- Endbescheinigung, Folge- Endbescheinigung). Im Krankengeldfall und wenn eingeschätzt werden kann, dass die AU tatsächlich am angegebenen Datum endet, ist es eine (Erst- oder Folge-) Endbescheinigung. Versicherte/ein PKV-Versicherter nach ausgeübten Beruf auf nicht absehbare Zeit und somit eine Berufsunfähigkeit vorliegt. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden. 
+
 
 ---
 
@@ -2367,7 +2666,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  |
 | 101 |  |  |  | x |  |  | ab | 10 | 0..1 |  | WENN |
 
-(GRAU = FELDGRUPPE) DERH. Maßnahmen, die für erforderlich gehalten werden. Leistungen zur medizinischen Rehabilitation für erforderlich gehalten werden. Versicherte/einen PKV- Versicherten ein Aufnahmedatum bspw. in die Reha, stationäre Versicherte/einen PKV- Versicherten ein Entlassungsdatum bspw. in die Reha, stationäre Maßnahmen zur stufenweisen Wiedereingliederung für erforderlich gehalten werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist DANN darf dieses Feld gesetzt werden.  darf dieses Feld nicht gesetzt  werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist DANN
+SEITE 86 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+(GRAU = FELDGRUPPE) DERH. Maßnahmen, die für erforderlich gehalten werden. Leistungen zur medizinischen Rehabilitation für erforderlich gehalten werden. Versicherte/einen PKV- Versicherten ein Aufnahmedatum bspw. in die Reha, stationäre Versicherte/einen PKV- Versicherten ein Entlassungsdatum bspw. in die Reha, stationäre Maßnahmen zur stufenweisen Wiedereingliederung für erforderlich gehalten werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist DANN darf dieses Feld gesetzt werden.  darf dieses Feld nicht gesetzt  werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist DANN  
+
 
 ---
 
@@ -2377,6 +2681,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN  ANSONSTEN |
 | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches  Behandlung usw. an. | WENN  DANN  ANSONSTEN |
 | 104 |  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |
+
+SEITE 87 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 (GRAU = FELDGRUPPE) DERH. Versicherte/einen PKV- Versicherten ein Aufnahmedatum bspw. in die Reha, stationäre Versicherte/einen PKV- Versicherten ein Entlassungsdatum bspw. in die Reha, stationäre darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt werden.  darf dieses Feld nicht gesetzt  werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt werden.  darf dieses Feld nicht gesetzt  werden.
 
@@ -2395,6 +2703,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | **90** |  | **X** |  |  |  |  | **Krankengeldfall** |  | **0..1** | **Dieser Block enthält für den** |  |
 | 91 |  |  | x |  |  |  | 7. AU-Woche | Bool | 0..1 | Dieses Feld gibt an, ob es sich |  |
 
+SEITE 88 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
 (GRAU = FELDGRUPPE) DERH. Text zu den Maßnahmen angegeben wird. ob ein Antrag zur direkten Einleitung einer Maßnahme erfolgt ist bzw. ob eine Empfehlung für eine Maßnahme gegeben wird. begründende Diagnose(n). Code der Diagnose. eine gestellte Diagnose ist, z.B. gesichert oder ausgeschlossen usw. Lokalisation der Diagnose. von ICD-10-GM in Form einer Jahreszahl. Diagnose. Krankengeldfall relevante Angaben. voraussichtlich um einen Krankengeldfall (ab 7. Woche der
 
 ---
@@ -2403,7 +2715,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
 
-(GRAU = FELDGRUPPE) DERH. Krankengeldfall) handelt.
+SEITE 89 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+(GRAU = FELDGRUPPE) DERH. Krankengeldfall) handelt.  VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -2424,7 +2739,10 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 | EAU_Stylesheet_AG | Stylesheet zur Erzeugung der  https://update.kbv.de/ita- |
 | EAU_Stylesheet_V | Stylesheet zur Erzeugung der |
 
-update/DigitaleMuster/eAU/III_2023  Telematikinfrastruktur (TI) en/online-produktivbetrieb/ update/DigitaleMuster/III_2023/KBV_ITA_V GEX_Technisches_Handbuch_DiMus.pdf Ärzte ckvereinbarung_digitale_Vordrucke.pdf Krankenkassenausfertigung.  update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip Arbeitgeberausfertigung. update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip Versichertenausfertigung.
+SEITE 90 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+update/DigitaleMuster/eAU/III_2023  Telematikinfrastruktur (TI) en/online-produktivbetrieb/ update/DigitaleMuster/III_2023/KBV_ITA_V GEX_Technisches_Handbuch_DiMus.pdf Ärzte ckvereinbarung_digitale_Vordrucke.pdf Krankenkassenausfertigung.  update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip Arbeitgeberausfertigung. update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip Versichertenausfertigung. VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
@@ -2443,4 +2761,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip Nachricht. update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip update/Stammdateien/SDICD/ update/Stammdateien/SDKT/ Blankoformularbedruckung update/Blankoformulare/KBV_ITA_VGEX_T echnisches_Handbuch_BFB.pdf update/Abrechnung/EXT_ITA_AHEX_Erklae rung_EHIC_PEB.pdfKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+SEITE 91 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU
+
+update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip Nachricht. update/DigitaleMuster/eAU/III_2023/Styles heets_V1.1.0.zip update/Stammdateien/SDICD/ update/Stammdateien/SDKT/ Blankoformularbedruckung update/Blankoformulare/KBV_ITA_VGEX_T echnisches_Handbuch_BFB.pdf update/Abrechnung/EXT_ITA_AHEX_Erklae rung_EHIC_PEB.pdfVERSION: 1.26 / 24. NOVEMBER 2025

@@ -12,6 +12,8 @@
 
 ## [KBV_ITV_VGEX_SCHNITTSTELLE_SMCB]
 
+Seite 1 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
 ---
 
 \| VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | KAPITEL |
@@ -29,7 +31,10 @@
 |  | setAntraegeInBearbeitung eingefügt |  |  |  |  |
 | Neue Funktion |  |  |  | 2.6 |  |
 
-in Kraft. Attribut „Staatsangehörigkeit“ im verwendet. Rahmen einer Vorbefüllung nicht gefüllt wird. Fehlercodes/Rückmeldungen auf die Festlegungen der LEO-TSP-AG vom 11. Oktober 2018. verpflichtendes Attribut 2.4.1, 2.5.2, 3.2.3 Zuge der Erweiterung der Attributbestätigung Corporate Design (Hinweis: Hierdurch bedingte Formatierungsänderungen sind nicht und AntragsID Identifizierung von Anträgen Stellen, insb. 2.1 Konkretere Beschreibungen / KBV Schnittstelle umgesetzt.  wird im KV- System nicht genutzt
+Seite 2 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+in Kraft. Attribut „Staatsangehörigkeit“ im verwendet. Rahmen einer Vorbefüllung nicht gefüllt wird. Fehlercodes/Rückmeldungen auf die Festlegungen der LEO-TSP-AG vom 11. Oktober 2018. verpflichtendes Attribut 2.4.1, 2.5.2, 3.2.3 Zuge der Erweiterung der Attributbestätigung Corporate Design (Hinweis: Hierdurch bedingte Formatierungsänderungen sind nicht und AntragsID Identifizierung von Anträgen Stellen, insb. 2.1 Konkretere Beschreibungen / KBV Schnittstelle umgesetzt.  wird im KV- System nicht genutzt 
+
 
 ---
 
@@ -47,6 +52,8 @@ in Kraft. Attribut „Staatsangehörigkeit“ im verwendet. Rahmen einer Vorbef�
 | 1.1 | 15.08.2017 | KVWL | Rückgabewerte geändert           SubjectDN konkretisiert    TelematikID konkretisiert    Filterung mit Teilstrings gefordert    InstNameAnschrift konkretisiert    Doppelte Tabelle   „AntraegeExportRequestType“    Anhang „Fehlermeldungen“ | Allgemeine, notwendige    ........................................    ........................................    ........................................    ........................................    ........................................        ........................................ | alle          2.3.1    2.3.1    2.4.1    2.5.1    3.2        Anh. B |
 | 1.0 | 01.06.2017 | KBV | Aufnahme der Rückmeldungen aus |  | alle |
 | 0.5 | 02.05.2017 | KBV | Erste Version als Basis für |  | alle |
+
+Seite 3 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 folgenden Daten:  werden im KV-System nicht Stellen AntragstellerType genutzt Geburtsdaten  Geburtsort  SmcbSperrAuftrag  Sperrung SmcbSperrAuftrag  Sperrung  Mitarbeiter SmcbFreigabe  Freigabedaten  AntragstellerInfo SmcbFreigabe  Freigabedaten  AntragstellerInfo SmcbFreigabe  Freigabedaten  AntragstellerInfo strukturiert und damit einfacher zu verarbeiten / KBV Konkretisierungen/Klarstellungen auf Basis der Rückmeldungen der TSP und der KVen entfernt hinzugefügt Kommentierungsverfahren Abstimmung mit KVen und TSP 
 
@@ -130,7 +137,11 @@ INHALT
 
 26  3.2.22 PostfachAdressType
 
-Erläuterung der Tabellenspalten Namensräume der Datentypen 26
+26
+
+Seite 4 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+Erläuterung der Tabellenspalten Namensräume der Datentypen 
 
 
 ---
@@ -172,6 +183,8 @@ Anhang A.1 Tabellenverzeichnis
 Anhang B.1 Allgemeine Festlegungen
 
 29  Anhang B.2 Festgelegte Rückmeldungen 29
+
+Seite 5 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 ---
 
@@ -220,6 +233,9 @@ Für die nachfolgenden Beschreibungen in tabellarischer Form wird die folgende N
 
 Für die Definition der Datentypen werden die Datentypen aus Standardnamensräumen genutzt. Diese  werden in den tabellarischen Darstellungen entsprechend gekennzeichnet. Die gematik-Datentypen  werden in den Tabellen in diesem Dokument ohne Namenspräfix geschrieben, erscheinen in den  Abbildungen aber mit dem Präfix „gematik“.
 
+________________
+
+Seite 6 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 ---
 
@@ -232,8 +248,9 @@ Für die Definition der Datentypen werden die Datentypen aus Standardnamensräum
 | gematik | http://ws.gematik.de/cm/pers/HBA_SMC-B/v1.3, der durch die gematik definierte |
 | xs | http://www.w3.org/2001/XMLSchema, der Standardnamensraum für XML |
 
-Standards Bremen (KoSIT) definierte Namensraum für die Einschränkung von UTF-8 auf die west- und osteuropäischen Zeichen Namensraum für die Datenübergabeschnittstelle 
+Seite 7 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
+Standards Bremen (KoSIT) definierte Namensraum für die Einschränkung von UTF-8 auf die west- und osteuropäischen Zeichen Namensraum für die Datenübergabeschnittstelle
 
 ---
 
@@ -284,6 +301,7 @@ GeneralResponseType->ReturnCodeType->Number mit “1430“ gefüllt werden und i
 
 GeneralResponseType >ReturnCodeType >Description „ERROR;< Number>;“
 
+Seite 8 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 ---
 
@@ -318,7 +336,10 @@ GeneralResponseType >ReturnCodeType >Description „ERROR;< Number>;“
 |---|---|---|---|---|---|
 | SmcbVorbefuellungen |  | SmcbVorbefuellung [ ] | P |  | Vorbefüllungsdaten eines Antrags,   Kardinalität: unbounded |
 
-Mehrere Vorbefüllungen Einzelne Vorbefüllung KV-SYSTEMS Daten für die Vorbefüllung eine Vorgangsnummer für den Antrag zur späteren Rückmeldung an die AttrBS erzeugen.  der AttrBS erzeugt bzw. gesendet.  natürlichen Person, die den Antrag stellt MUSS von der AttrBS mit der 9 stelligen LANR gefüllt werden für die die SMC-B ausgestellt werden soll innerhalb der Institution Adresse(n) Key
+Seite 9 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+Mehrere Vorbefüllungen Einzelne Vorbefüllung KV-SYSTEMS Daten für die Vorbefüllung eine Vorgangsnummer für den Antrag zur späteren Rückmeldung an die AttrBS erzeugen.  der AttrBS erzeugt bzw. gesendet.  natürlichen Person, die den Antrag stellt MUSS von der AttrBS mit der 9 stelligen LANR gefüllt werden für die die SMC-B ausgestellt werden soll innerhalb der Institution Adresse(n) Key 
+
 
 ---
 
@@ -336,6 +357,8 @@ Attributbe-stätigende  Stelle
 
 ### Die Datenstrukturen SmcbNachbefuellung und SmcbNachbefuellungen werden im KV verwendet.
 
+Seite 10 von 33 / KBV / Schnittstelle LEO-
+
 **BESTANDTEIL**
 
 Verantwortliche/r der  Institution
@@ -349,6 +372,8 @@ Art der Institution,  Praxisform
 Gesellschafter [ ]  (optional, ggf.  mehrfach)
 
 KV-Bereich
+
+TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 **ELEMENT/**  **ATTRIBUT**
 
@@ -465,7 +490,10 @@ AttrBSType->AttrBS_Data wird NICHT  gefüllt und NICHT gesendet -System z. Zt. N
 |---|---|---|---|---|---|
 | SmcbFreigaben |  | SmcbFreigabe [ ] | P |  | Freigabedaten eines oder mehrere Anträge, siehe **Tabelle 6: SmcbFreigabe**  Kardinalität: unbounded |
 
-SYSTEMS FREIGABEN/ABLEHNUNG gesendet werden. addSmcbFreigabenRequest addSmcbFreigabenResponse RÜCKMELDUNGEN "FREIGABEN/ABLEHNUNG" eine von mehreren  Freigaben / Ablehnungen fehl, MUSS in  >Number mit „2450“ gefüllt werden und Ablehnungsdatensätze. Für die Übertragung der Datensätze MUSS der TSP die in SMCBFREIGABEN KV-SYSTEMS nummer die vom TSP vergeben wurde die AntragsID zur Antragsidentifizierung verwendet wird. Freigabe erteilt Werte in zulässig. gefüllt und NICHT gesendet
+Seite 11 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+SYSTEMS FREIGABEN/ABLEHNUNG gesendet werden. addSmcbFreigabenRequest addSmcbFreigabenResponse RÜCKMELDUNGEN "FREIGABEN/ABLEHNUNG" eine von mehreren  Freigaben / Ablehnungen fehl, MUSS in  >Number mit „2450“ gefüllt werden und Ablehnungsdatensätze. Für die Übertragung der Datensätze MUSS der TSP die in SMCBFREIGABEN KV-SYSTEMS nummer die vom TSP vergeben wurde die AntragsID zur Antragsidentifizierung verwendet wird. Freigabe erteilt Werte in zulässig. gefüllt und NICHT gesendet 
+
 
 ---
 
@@ -490,6 +518,8 @@ SYSTEMS FREIGABEN/ABLEHNUNG gesendet werden. addSmcbFreigabenRequest addSmcbFrei
 |  |  |  |  |  | Name des Mitarbeiters  Mitarbeiter   O  HNameType  Name des Mitarbeiters bei der AttrBS,  Die Angabe des Mitarbeiters ist im KV- Freigabedaten  Freigabedaten  AntragstellerName  P  HNameType  Name des Antragstellers  HNameType->Nachname MUSS gefüllt  HNameType->Vornamen MUSS gefüllt |
 | AntragstellerAnschrift | O | StrassenAdressType | Meldeanschrift des Antragstellers | Alle Felder von | ->Anschrift werden von der AttrBS  InstNameAnschrift  P |
 |  | InstAnschriftType | Name und Anschrift der Betriebsstätte | EmpfaengerInfo | O | VPersonType  Name und Anschrift des berechtigen  Wird NICHT gefüllt und NICHT gesendet; |
+
+Seite 12 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 KV-SYSTEMS oder (schließen einander aus) der die Freigabe autorisiert System optional, KANN also entfallen (->Maschinen-Account) sein sein Freigabedaten->AntragstellerInfo Empfängers gesendet oder über das Web-Portal des TSP abgefragt Freigabe vom TSP gemäß KV_AFO_0118 generiert werden. "Betriebsstätte Arzt" oder "Betriebsstätte Psychotherapeut" enthalten der Freigabe gemäß der Bildungsvorschrift aus der Anforderung KV_AFO_0119 erzeugt werden. (bei begrenztem Kontingent) zu Freigabedaten)  erfolgt, MUSS ein Text, der den Ablehnungsgrund angibt, hinzugefügt werden. "LANR existiert nicht" "Antragsteller nicht antragsberechtigt"
 
@@ -517,7 +547,11 @@ KV-SYSTEMS oder (schließen einander aus) der die Freigabe autorisiert System op
 | FreigabePDF | FreigabePDF |  | O | FileTransferType | Optional:  Freigabedaten oder Ablehnung als PDF  Wird NICHT gefüllt und NICHT gesendet |
 |  | Signatur | Signatur | O | ds:Signature | Optional:  Signatur der Freigabe oder Ablehnung  Wird NICHT gefüllt und NICHT gesendet |
 
-"BSNR existiert nicht" "BSNR gehört nicht zur angegebenen LANR" "Name gehört nicht zur angegebenen LANR" "Geburtsdatum gehört nicht zur angegebenen LANR" "Berufsgruppe der Betriebsstätte falsch" Adresse der Betriebsstätte ist KV nicht bekannt Eine Kombination aus den oben genannten Gründen mit Trennzeichen Semikolon ";" getrennt oder Signatur (optional 0..1) durch den autorisierten Mitarbeiter der attributbestätigenden Stelle ANTRAGEXPORT / MONITORING getSmcbAntraegeExportRequest GetSmcbAntraegeExportRequestType (type="tns:AntraegeExportRequestType“) getSmcbAntraegeExportResponse (enthält SmcbAntraegeExport und GeneralResponseType) Erfolgsfall die Anzahl (0..n) der zurückgelieferten SMC-B-Anträge enthalten, sonst eine Fehlermeldung. RÜCKMELDUNGEN "ANTRAGEXPORT / MONITORING" KVen.  | DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
+Seite 13 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+"BSNR existiert nicht" "BSNR gehört nicht zur angegebenen LANR" "Name gehört nicht zur angegebenen LANR" "Geburtsdatum gehört nicht zur angegebenen LANR" "Berufsgruppe der Betriebsstätte falsch" Adresse der Betriebsstätte ist KV nicht bekannt Eine Kombination aus den oben genannten Gründen mit Trennzeichen Semikolon ";" getrennt oder Signatur (optional 0..1) durch den autorisierten Mitarbeiter der attributbestätigenden Stelle ANTRAGEXPORT / MONITORING getSmcbAntraegeExportRequest GetSmcbAntraegeExportRequestType (type="tns:AntraegeExportRequestType“) getSmcbAntraegeExportResponse (enthält SmcbAntraegeExport und GeneralResponseType) Erfolgsfall die Anzahl (0..n) der zurückgelieferten SMC-B-Anträge enthalten, sonst eine Fehlermeldung. RÜCKMELDUNGEN "ANTRAGEXPORT / MONITORING" KVen.
+
+| DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
 |---|---|---|---|---|
 | Filterkriterien | AntraegeExportRequestType | P |  | Filterkriterien für den Export  Kardinalität: unbounded |
 
@@ -553,6 +587,8 @@ KV-SYSTEMS oder (schließen einander aus) der die Freigabe autorisiert System op
 | NachnameAntragsteller | O | lat:String.Latin | Nachname des Antragstellers | Vorname Antragsteller |
 | VornameAntragsteller | O | lat:String.Latin | Vorname des Antragsteller | Institutionsname  Institutionsname  O  xs:String64Type  Name der Betriebsstätte  Geburtsdatum  GeburtsdatumAntragsteller  O  xs:date  Geburtsdatum Antragsteller  Änderungsdatum Von |
 
+Seite 14 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
 EXPORT-FILTERKRITERIEN vom TSP zurückgelieferten Ergebnisse alle Filterkriterien erfüllen.  -Typen- Elementen“ MUSS das Filterergebnis unabhängig von Groß (case insensitive Suche).  -Typen- Elementen“ MUSS der übermittelte Wert auf „enthalten in“ gefiltert werden.  AntraegeExportRequestType ANTRAEGEEXPORTREQUESTTYPE  MUSS gefiltert - und Kleinschreibung sein SYSTEMS Karte gehörigen Antrags gesendet, da die KartenAntragsID lediglich internen Zwecken der TSP dient. MUSS einer der folgenden Werte enthalten sein siehe Antragsänderungen gesucht wird Antragsänderungen gesucht wird Datum der ersten Zwischenspeicherung gespeichert.  stattgefunden, so ist das Datum der (erstmaligen) Antragsannahme zu verwenden. Zeitpunkt, an dem der Antragsstatus auf „Zur Freigabe (Kartenherausgeber)“ gesetzt wurde. Betriebsstättennummer (BSNR) der Arztnummer (LANR)
 
 ---
@@ -585,6 +621,8 @@ EXPORT-FILTERKRITERIEN vom TSP zurückgelieferten Ergebnisse alle Filterkriterie
 | Karte Ablaufdatum Von | KarteAblaufdatumVon | O | xs:date | Beginn des Intervalls, in dem nach |
 | Karte Ablaufdatum Bis | KarteAblaufdatumBis | O | xs:date | Ende des Intervalls, in dem nach |
 | Überblicksanfrage | Ueberblicksanfrage | O | xs:boolean | WENN Ueberblicksanfrage:=true, dann  Alle Elemente mit 'base64Binary'-Inhalten  dazu zählen   AntragPDF,   Passfoto,   FreigabePDF,   Signaturen.   ProdResultType ohne Zertifikate.   'HbaSperrAuftrag' bzw.  können für einen Export ebenfalls nicht |
+
+Seite 15 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 Produktionszeitpunkt Von Produktionszeitpunkt Bis  GetSmcbAntraegeExportResponseType Kartendaten gesendet dann MUSS einer der folgenden Werte enthalten sein siehe produzierten Karten gesucht wird produzierten Karten gesucht wird ablaufenden/abgelaufenen Karten gesucht ablaufenden/abgelaufenen Karten gesucht DÜRFEN NICHT geliefert werden;  'SmcbSperrAuftragType'  übertragen werden verabredeten, zweistelligen TSP-ID | DATENFELD | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
 |---|---|---|---|---|
@@ -656,7 +694,10 @@ Produktionszeitpunkt Von Produktionszeitpunkt Bis  GetSmcbAntraegeExportResponse
 | zulässig. | AttrBSType->AttrBS_Data wird NICHT | Art des Antrags | Antragstyp | O | |
 | AntragsArt | Angabe, ob Erst- oder Folgeantrag oder | Änderungen | Aenderungen | O | |
 
-KV-SYSTEMS ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsdatum  Personen der Institution, für die die SMC- Bs produziert werden sollen InstAnschriftType,  InstProfessionItem,  InstID,  TelematikID und  KVBereich  Empfängers (falls vom Antragsteller abweichend) angegeben wurde, MÜSSEN die Angaben in VPersonType übertragen werden, dabei muss MUSS mindestens  Antragsteller nicht angegeben wurde bzw. keine Vorbefüllung erfolgt ist, MUSS als Anschrift die Adresse der Institution verwendet werden. verantwortliche Stelle Werte in gefüllt und NICHT gesendet. Antrag auf einen Austauschausweis für einen bereits erhaltenen Ausweis bestellt Vorbefüllung denn Vorbefüllte Datenfelder dürfen NICHT verändert werden. Verzweigung in einzelne Karten (darin aktueller Status redundant enthalten) [ ] z. Zt. NICHT vorgesehen. Falls später notwendig, MÜSSEN die Werte von der AttrBS vorgegeben und vom TSP im Antragsportal angezeigt werden.
+Seite 16 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+KV-SYSTEMS ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsdatum  Personen der Institution, für die die SMC- Bs produziert werden sollen InstAnschriftType,  InstProfessionItem,  InstID,  TelematikID und  KVBereich  Empfängers (falls vom Antragsteller abweichend) angegeben wurde, MÜSSEN die Angaben in VPersonType übertragen werden, dabei muss MUSS mindestens  Antragsteller nicht angegeben wurde bzw. keine Vorbefüllung erfolgt ist, MUSS als Anschrift die Adresse der Institution verwendet werden. verantwortliche Stelle Werte in gefüllt und NICHT gesendet. Antrag auf einen Austauschausweis für einen bereits erhaltenen Ausweis bestellt Vorbefüllung denn Vorbefüllte Datenfelder dürfen NICHT verändert werden. Verzweigung in einzelne Karten (darin aktueller Status redundant enthalten) [ ] z. Zt. NICHT vorgesehen. Falls später notwendig, MÜSSEN die Werte von der AttrBS vorgegeben und vom TSP im Antragsportal angezeigt werden. 
+
 
 ---
 
@@ -693,7 +734,11 @@ KV-SYSTEMS ProfessionalDataType->HeilberuflerID, GeburtsdatenType->Geburtsdatum 
 
 ### GeneralResponseType->ReturnCodeType->Description
 
-KV-SYSTEMS den Freigabedaten der AttrBS.  Arzt" oder "Betriebsstätte Psychotherapeut" enthalten. die Vorgangsnummer verwendet wird. dem Ablehnungsgrund;  ist, MUSS der Ablehnungsgrund übertragen werden.  vollständig benennen und mit der KBV abstimmen. Freigabebestätigung  entweder als PDF oder als Signatur des autorisierten, freigebenden Mitarbeiters der AttrBS. enthalten. Kartenproduktion)  von Karten produzierten und verwalteten Karten SPERRAUFTRAG addSmcbSperrAuftraegeRequest SmcbSperrAutraege addSmcbSperrAuftraegeResponse ist und damit die Bestätigungsgrundlage weggefallen ist. In diesem Fall sperrt die AttrBS immer einer  Betriebsstätte. alle  SMC-Bs möglich waren, sonst „ERROR“. MUSS „OK“ enthalten, wenn alle Sperrungen ### MÜSSEN gem. TABELLE 32: RÜCKMELDUNGEN "SPERRAUFTRAG" gesetzt werden.
+### MÜSSEN gem. TABELLE 32: RÜCKMELDUNGEN "SPERRAUFTRAG" gesetzt werden.
+
+Seite 17 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+KV-SYSTEMS den Freigabedaten der AttrBS.  Arzt" oder "Betriebsstätte Psychotherapeut" enthalten. die Vorgangsnummer verwendet wird. dem Ablehnungsgrund;  ist, MUSS der Ablehnungsgrund übertragen werden.  vollständig benennen und mit der KBV abstimmen. Freigabebestätigung  entweder als PDF oder als Signatur des autorisierten, freigebenden Mitarbeiters der AttrBS. enthalten. Kartenproduktion)  von Karten produzierten und verwalteten Karten SPERRAUFTRAG addSmcbSperrAuftraegeRequest SmcbSperrAutraege addSmcbSperrAuftraegeResponse ist und damit die Bestätigungsgrundlage weggefallen ist. In diesem Fall sperrt die AttrBS immer einer  Betriebsstätte. alle  SMC-Bs möglich waren, sonst „ERROR“. MUSS „OK“ enthalten, wenn alle Sperrungen 
 
 
 ---
@@ -718,7 +763,10 @@ KV-SYSTEMS den Freigabedaten der AttrBS.  Arzt" oder "Betriebsstätte Psychother
 |---|---|---|---|---|---|
 | SmcbSperrAuftraege |  | SmcbSperrAuftrag [] |  |  | Sperrauftrag, siehe **Tabelle 12: **** Kardinalität: unbounded |
 
-SmcbSperrAuftrag von der AttrBS an den TSP mehreren fehl, MUSS bei „Variante 1“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<ICCSN>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren fehl, MUSS bei „Variante 2“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<SerialNumber>;<Issuer>“ für jede fehlgeschlagene Sperrung enthalten. mehreren fehl, MUSS bei „Variante 3“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<InstID>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren fehl, MUSS bei „Variante 4“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<KartenAntragsID>;“ für jede fehlgeschlagene Sperrung enthalten. DES KV-SYSTEMS Sperrauftrag erteilt Werte aus zulässig. gefüllt und NICHT gesendet. der den Sperrauftrag autorisiert gesendet (-> Maschinen-Account) und -anschrift deren Karte/n zu sperren ist/sind gesendet (Betriebsstättennummer), deren Karte/n zu sperren ist/sind gesendet werden. TSP den Sperrauftrag ablehnen.
+Seite 18 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+SmcbSperrAuftrag von der AttrBS an den TSP mehreren fehl, MUSS bei „Variante 1“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<ICCSN>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren fehl, MUSS bei „Variante 2“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<SerialNumber>;<Issuer>“ für jede fehlgeschlagene Sperrung enthalten. mehreren fehl, MUSS bei „Variante 3“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<InstID>;“ für jede fehlgeschlagene Sperrung enthalten. mehreren fehl, MUSS bei „Variante 4“ >Number mit „4430“ gefüllt werden und >Description je ein Tupel „<Number>;<KartenAntragsID>;“ für jede fehlgeschlagene Sperrung enthalten. DES KV-SYSTEMS Sperrauftrag erteilt Werte aus zulässig. gefüllt und NICHT gesendet. der den Sperrauftrag autorisiert gesendet (-> Maschinen-Account) und -anschrift deren Karte/n zu sperren ist/sind gesendet (Betriebsstättennummer), deren Karte/n zu sperren ist/sind gesendet werden. TSP den Sperrauftrag ablehnen. 
+
 
 ---
 
@@ -738,7 +786,10 @@ SmcbSperrAuftrag von der AttrBS an den TSP mehreren fehl, MUSS bei „Variante 1
 |  | Bestäti- (Optional | Sperrauftrag | SperrPDF | O |  | Optional:  Sperrauftrag als PDF  Wird NICHT gefüllt und NICHT | |
 |  |  | Signatur des | Signature | O | ds:Signature | Optional:  Signatur durch den autorisierten  Die Signatur wird über alle  Wird NICHT gefüllt und NICHT | |
 
-DES KV-SYSTEMS Identifikation der zu sperrenden (Variante 3 MUSS gewählt werden) einzelnen SMC-B sperren verwendet einzelnen SMC-B durch Angabe von SerialNumber und Issuer dieses Zertifikat vorhanden ist, sind zu sperren verwendet Karten der mit InstID identifizierten Institution sind zu sperren gesendet werden verwendet Bestätigungsgrundlage weggefallen, BSNR ungültig gung der entweder oder als 0..1) gesendet Auftrags Mitarbeiter der attributbestätigenden Stelle. Bestandteile des Elements „Sperrung“ berechnet gesendet ANTRÄGE IN BEARBEITUNG SETZEN setAntraegeInBearbeitungRequest SetAntraegeInBearbeitungRequestType setAntraegeInBearbeitungResponse GeneralResponseType Status „Zur Freigabe (Kartenherausgeber)“ in den Status „In Bearbeitung“ (ggf. weitere Zwischenstatus möglich), sodass diese vom Antragsteller korrigiert werden können. Als Parameter werden eine oder
+Seite 19 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+DES KV-SYSTEMS Identifikation der zu sperrenden (Variante 3 MUSS gewählt werden) einzelnen SMC-B sperren verwendet einzelnen SMC-B durch Angabe von SerialNumber und Issuer dieses Zertifikat vorhanden ist, sind zu sperren verwendet Karten der mit InstID identifizierten Institution sind zu sperren gesendet werden verwendet Bestätigungsgrundlage weggefallen, BSNR ungültig gung der entweder oder als 0..1) gesendet Auftrags Mitarbeiter der attributbestätigenden Stelle. Bestandteile des Elements „Sperrung“ berechnet gesendet ANTRÄGE IN BEARBEITUNG SETZEN setAntraegeInBearbeitungRequest SetAntraegeInBearbeitungRequestType setAntraegeInBearbeitungResponse GeneralResponseType Status „Zur Freigabe (Kartenherausgeber)“ in den Status „In Bearbeitung“ (ggf. weitere Zwischenstatus möglich), sodass diese vom Antragsteller korrigiert werden können. Als Parameter werden eine oder 
+
 
 ---
 
@@ -752,6 +803,7 @@ GeneralResponseType->ReturnCodeType->Description
 
 MÜSSEN gem. **Tabelle 33: Rückmeldungen "Anträge in Bearbeitung setzen"** gesetzt werden.
 
+Seite 20 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 ---
 
@@ -796,7 +848,10 @@ MÜSSEN gem. **Tabelle 33: Rückmeldungen "Anträge in Bearbeitung setzen"** ges
 |---|---|---|---|
 | AntragStatusKey | O | String | Einer der folgenden Werte MUSS enthalten sein:  "Antrag vorbefüllt"  "Antrag in Bearbeitung / zwischengespeichert"  "Antrag verworfen (Antragsteller)"  "Antrag verworfen (TSP)"  "Bearbeitung beendet"  "Eingang Antragsunterlagen"  "Freigabe abgelehnt (TSP)"  "Freigabe abgelehnt (Kartenherausgeber)"  "Freigegeben (Kartenherausgeber)"  "Rückfrage beim Antragsteller (TSP)"  "Zur Freigabe (Kartenherausgeber)" |
 
-werden
+Seite 21 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+werden 
+
 
 ---
 
@@ -837,8 +892,11 @@ Die Übermittlung von „Erklärungen“ ist z. Zt. NICHT vorgesehen. Falls spä
 
 ### 3.2.13 HNameType
 
-"KV Bayerns" "KV Berlin"  "KV Brandenburg" "KV Bremen" "KV Hamburg" "KV Hessen" "KV Mecklenburg-Vorpommern" "KV Niedersachsen" "KV Nordrhein" "KV Rheinland-Pfalz" "KV Saarland" "KV Sachsen" "KV Sachsen-Anhalt" "KV Schleswig-Holstein" "KV Thüringen" "KV Westfalen-Lippe" ### Es gibt keine Konkretisierung zu [gemSpec_Pers].
+### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
+Seite 22 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+"KV Bayerns" "KV Berlin"  "KV Brandenburg" "KV Bremen" "KV Hamburg" "KV Hessen" "KV Mecklenburg-Vorpommern" "KV Niedersachsen" "KV Nordrhein" "KV Rheinland-Pfalz" "KV Saarland" "KV Sachsen" "KV Sachsen-Anhalt" "KV Schleswig-Holstein" "KV Thüringen" "KV Westfalen-Lippe"
 
 ---
 
@@ -887,12 +945,17 @@ Sonderfall: Bei Betriebsstättennummern (BSNR) beginnend mit den Ziffern 75 oder
 
 entnommen und vom TSP überprüft werden.
 
+________________
+
 2 Siehe KV_AFO_0131 in [KBV_ITV_VGEX_Anforderungskatalog_SMCB].
+
+Seite 23 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 ### TABELLE 18: AUFBAU DER
 
-StrassenAdressType, Mail gesetzlicher Vertreter der Institution Aufbau der Betriebstättennummer (BSNR) in „InstID“ Wert aus {EP, BAG, ÜBAG, MVZ, Praxisgemeinschaft} ### TABELLE 19: ZUORDNUNG KV-NUMMER ZU KV-BEREICH
+### TABELLE 19: ZUORDNUNG KV-NUMMER ZU KV-BEREICH
 
+StrassenAdressType, Mail gesetzlicher Vertreter der Institution Aufbau der Betriebstättennummer (BSNR) in „InstID“ Wert aus {EP, BAG, ÜBAG, MVZ, Praxisgemeinschaft}
 
 ---
 
@@ -936,10 +999,13 @@ Gem. **TABELLE 19:** **ZUORDNUNG KV-NUMMER ZU KV-BEREICH**
 |---|---|---|---|
 | InstProfessionItemKey | O | String | Der Wert MUSS einen der folgenden Werte enthalten:  "Betriebsstätte Arzt",  "Betriebsstätte Psychotherapeut" |
 
+Seite 24 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
 MUSS der TSP den „KVBereichKey“, siehe
 
-BEIDEN ZIFFERN DER BSNR) #### TABELLE 15: ATTRBSTYPE gesetzt werden.
+#### TABELLE 15: ATTRBSTYPE gesetzt werden.
 
+BEIDEN ZIFFERN DER BSNR)
 
 ---
 
@@ -972,6 +1038,8 @@ BEIDEN ZIFFERN DER BSNR) #### TABELLE 15: ATTRBSTYPE gesetzt werden.
 | ELEMENT/ATTRIBUT | P/O | FELDTYP | BEMERKUNG / KONKRETISIERUNG DES KV-SYSTEMS |
 |---|---|---|---|
 | KVBereichKey | O | String | KV-Bereich  Der Schlüssel MUSS einen der folgenden Werte enthalten:  "Baden-Württemberg"  "Bayerns"  "Niedersachsen"  "Nordrhein"  "Saarland"  "Thüringen" |
+
+Seite 25 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 Änderungen) SYSTEMS Änderung bewirkt hat. "Berlin" "Brandenburg" "Bremen" "Hamburg" "Hessen" "Mecklenburg-Vorpommern" "Rheinland-Pfalz" "Sachsen" "Sachsen-Anhalt" "Schleswig-Holstein" "Westfalen-Lippe"
 
@@ -1025,7 +1093,10 @@ BEIDEN ZIFFERN DER BSNR) #### TABELLE 15: ATTRBSTYPE gesetzt werden.
 
 ### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
-sein  zulässige Werte siehe Type[]
+Seite 26 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
+sein  zulässige Werte siehe Type[] 
+
 
 ---
 
@@ -1075,8 +1146,9 @@ Wird Teil der Zertifikate. MUSS vom TSP belegt werden, siehe
 
 ### Es gibt keine Konkretisierung zu [gemSpec_Pers].
 
-MUSS aus den folgenden Daten gebildet werden: Name der Betriebsstätte aus „InstName“ Straße und Hausnummer der Betriebsstätte (siehe StrassenAdressType)  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet stellige Betriebsstättennummer aus „InstID“  wird NICHT verwendet eine neue Telematik-ID erhalten möchte: 
+Seite 27 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
+MUSS aus den folgenden Daten gebildet werden: Name der Betriebsstätte aus „InstName“ Straße und Hausnummer der Betriebsstätte (siehe StrassenAdressType)  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet  wird NICHT verwendet stellige Betriebsstättennummer aus „InstID“  wird NICHT verwendet eine neue Telematik-ID erhalten möchte:
 
 ---
 
@@ -1157,6 +1229,8 @@ MUSS aus den folgenden Daten gebildet werden: Name der Betriebsstätte aus „In
 | [gemSpec_Pers_SMC-B] | Übergabeschnittstelle für die Produktion von SMC Quelle: LEO-TSP-AG |
 | [KBV_ITV_VGEX_Anforderungskatalog_SMCB] | Anforderungskatalog an TSP im KV-System, in  https://update.kbv.de/ita-update/SMCB/ |
 
+Seite 28 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
 Bs der Generation 2 welchem Ausgabe- und Sperrprozesse definiert sind. 
 
 
@@ -1172,6 +1246,8 @@ Bs der Generation 2 welchem Ausgabe- und Sperrprozesse definiert sind.
 | ERROR_LOGISCH | 1420 | Vorgangsnummer konnte | ** |
 | ERROR_LOGISCH | 1430 | Beispiel für zwei    „ERROR;<Number>; <VorgangsNr>;<URL>;“ | *Mindestens eine Vorbefüllung* |
 |  | „Code“, „Number“ und „Description“ | Der TSP KANN die Description ergänzen, um den Fehler genauer zu spezifizieren z. B. KÖNNEN bei | Als Pflichtfelder gekennzeichnete Felder MÜSSEN vorhanden und gefüllt sein. Falls ein Pflichtfeld leer ist |
+
+Seite 29 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 RÜCKMELDUNGEN ALLGEMEINE FESTLEGUNGEN : OK / ERROR_TECHNISCH / ERROR_LOGISCH : ganzzahlige Werte : Freitext MÜSSEN gem. den festgelegten Rückmeldungen gesendet werden. fehlenden Pflichtfeldern, die Felder benannt werden. oder nicht übertragen wurde, MUSS der TSP einen Fehler melden. ANHANG B.2 FESTGELEGTE RÜCKMELDUNGEN Tabelle 29: Rückmeldungen "Vorbefüllung" Pflichtfelder fehlen Validierung fehlgeschlagen nicht erzeugt werden Vorbefüllungen, von der eine fehlgeschlagen ist:  alle Vorbefüllungen waren möglich.  Pflichtfelder vorhanden sind. Aufruf der SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9- stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den Fehlertext des XML-Parsers ergänzt werden. von mehreren war nicht möglich. In diesem Fall ist für jede Vorbefüllung, die nicht durchgeführt werden konnte, der konkrete Fehler in <Number> anzugeben.
 
@@ -1203,6 +1279,8 @@ RÜCKMELDUNGEN ALLGEMEINE FESTLEGUNGEN : OK / ERROR_TECHNISCH / ERROR_LOGISCH : 
 | ERROR_LOGISCH | 2460 | Antrag steht nicht zur Freigabe | ** |
 | ERROR_TECHNISCH | 2500 | TSP-Allgemeiner technischer | ** |
 
+Seite 30 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
+
 "Freigaben/Ablehnung" fehlen Validierung fehlgeschlagen Pflichtfelder vorhanden sind. Aufruf der SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9- stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den Fehlertext des XML-Parsers ergänzt werden. Ablehnungen, von der eine nicht erfolgreich war:  bereit Mindestens eine Freigabe /
 
 ---
@@ -1225,6 +1303,8 @@ RÜCKMELDUNGEN ALLGEMEINE FESTLEGUNGEN : OK / ERROR_TECHNISCH / ERROR_LOGISCH : 
 | ERROR_LOGISCH | 3403 | Verbotener Aufruf | *Der TSP MUSS prüfen, ob der* |
 | ERROR_LOGISCH | 3410 | Datentyp passt nicht / | *Der TSP MUSS prüfen, ob die* |
 | ERROR_TECHNISCH | 3500 | TSP-Allgemeiner technischer | ** |
+
+Seite 31 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
 Pflichtfelder fehlen Validierung fehlgeschlagen Pflichtfelder vorhanden sind. Aufruf der SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9- stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den Fehlertext des XML-Parsers ergänzt werden. Tabelle 32: Rückmeldungen "Sperrauftrag" Pflichtfelder fehlen Validierung fehlgeschlagen sperrbaren Zustand vorhanden vorhanden sind. SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. benen Daten dem vorgegebenen Datentyp entsprechen, z. B. ob ein String zu lang ist oder ob bei Inst_ID etwas anderes als eine 9-stellige BSNR eingegeben wurde. Die vorgegebene „Description“ KANN um den  Fehlertext des XML-Parsers ergänzt werden. Karten mit der übergebenen Betriebsstättennummer vorhanden sind und  falls ja  ob Zertifikate auf den ausgegebenen SMC-Bs vorhanden sind, die gesperrt werden können.
 
@@ -1254,8 +1334,9 @@ Pflichtfelder fehlen Validierung fehlgeschlagen Pflichtfelder vorhanden sind. Au
 | ERROR_LOGISCH | 6460 | Antrag kann nicht | *Antrag hat einen Status, aus dem eine* |
 | ERROR_TECHNISCH | 6500 | TSP-Allgemeiner | ** |
 
-OK Sperraufträge (Variante 3), von der eine nicht erfolgreich „<Number>;<InstID>;“ technischer Fehler 6200 OK Pflichtfelder fehlen Validierung fehlgeschlagen eine nicht erfolgreich war: Sperraufträgen konnte nicht durchgeführt werden. In diesem Fall ist für jede Inst_ID (Betriebsstättennummer), für die keine Sperrung durchgeführt werden konnte, der konkrete Fehler in <Number> anzugeben.  Es ist kein Fehler aufgetreten. Pflichtfelder vorhanden sind. SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, ob z. B. ein String unzulässigen Wert enthält. Die vorgegebene „Description“ KANN um werden. zurückgesetzt werden technischer Fehler Rücksetzung nicht zulässig ist. 
+Seite 32 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026
 
+OK Sperraufträge (Variante 3), von der eine nicht erfolgreich „<Number>;<InstID>;“ technischer Fehler 6200 OK Pflichtfelder fehlen Validierung fehlgeschlagen eine nicht erfolgreich war: Sperraufträgen konnte nicht durchgeführt werden. In diesem Fall ist für jede Inst_ID (Betriebsstättennummer), für die keine Sperrung durchgeführt werden konnte, der konkrete Fehler in <Number> anzugeben.  Es ist kein Fehler aufgetreten. Pflichtfelder vorhanden sind. SOAP-Operation sowie alle übermittelten Feldwerte erlaubt sind. übergebenen Daten dem vorgegebenen Datentyp entsprechen, ob z. B. ein String unzulässigen Wert enthält. Die vorgegebene „Description“ KANN um werden. zurückgesetzt werden technischer Fehler Rücksetzung nicht zulässig ist.
 
 ---
 
@@ -1266,3 +1347,5 @@ Dezernat Digitalisierung und IT
 IT in der Versorgung  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 33 von 33 / KBV / Schnittstelle LEO-TSP im KV-System / Version: 1.8 / 10. Juni 2026

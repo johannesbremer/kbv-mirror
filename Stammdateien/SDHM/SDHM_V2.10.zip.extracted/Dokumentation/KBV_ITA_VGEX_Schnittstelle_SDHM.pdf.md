@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-SDHM (Heilmittelstammdatei) 2.10 Datum: 15.05.2024 Kennzeichnung: Öffentlich Status: In Kraft
+SDHM (Heilmittelstammdatei) 2.10 Datum: 15.05.2024 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 ### DOKUMENTENHISTORIE
 
@@ -30,10 +33,15 @@ Die Änderungen treten zum 01.10.2024 in Kraft
 | 1.01 | 25.07.2016 | KBV | Korrektur einiger XML-Beispiele  Fehlerkorrektur der XML-Elemente  Anpassung der Beschreibungstexte für |  | **16, 31** **28** **31** |
 | 1.0 | 30.03.2016 | KBV | neues Dokument |  |  |
 
-forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung von Heilmittel Beschlussfassung vom 18.04.2024 eines ICD-10-GM-Codes Code UUU sind nicht notwendig forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung von Heilmittel Beschlussfassung vom 17.02.2022 vom 09.01.2020 (Version 2.03) tretens der Heilmittel- Richtlinie des G-BA mit Beschlussfassung vom forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung von Heilmittel Beschlussfassung vom 19.09.2019 den Heilmitteln onsnummern dient der Integration von Preisinfor- mationen zur besseren Berechnung der maximalen Verord- nungen von Massagen Ernährungstherapie nungsmenge <frequenzempfehlung_liste> und    <frequenzempfehlung> die XML-Elemente  
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
 
+Seite 2 von 37
+
+forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung von Heilmittel Beschlussfassung vom 18.04.2024 eines ICD-10-GM-Codes Code UUU sind nicht notwendig forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung von Heilmittel Beschlussfassung vom 17.02.2022 vom 09.01.2020 (Version 2.03) tretens der Heilmittel- Richtlinie des G-BA mit Beschlussfassung vom forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung von Heilmittel Beschlussfassung vom 19.09.2019 den Heilmitteln onsnummern dient der Integration von Preisinfor- mationen zur besseren Berechnung der maximalen Verord- nungen von Massagen Ernährungstherapie nungsmenge <frequenzempfehlung_liste> und    <frequenzempfehlung> die XML-Elemente
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 ### INHALTSVERZEICHNIS DOKUMENTENHISTORIE INHALTSVERZEICHNIS TABELLENVERZEICHNIS XML-CODE-VERZEICHNIS
 **1 EINLEITUNG**
@@ -76,8 +84,14 @@ forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung 
 
 **5.7 leitsymptomatik_liste .................................................................................................................. 19**
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 3 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 **5.8** **leitsymptomatik ........................................................................................................................... 19**
 
@@ -91,8 +105,14 @@ forderungskatalogs nach § 73 SGB V Richtlinie des G-BA mit für die Verordnung 
 
 **37**
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 4 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 #### ABBILDUNGSVERZEICHNIS
 
@@ -164,8 +184,14 @@ Abbildung 33: maximale_anzahl ..................................................
 
 Abbildung 34: richtlinie ......................................................................................................... 30
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 5 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 Abbildung 35: verordnungsmenge ........................................................................................ 31
 
@@ -189,8 +215,14 @@ Abbildung 44: orientierende_behandlungsmenge_massage ...........................
 
 Abbildung 45: erforderliche_diagnosen ................................................................................ 36
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 6 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 #### TABELLENVERZEICHNIS
 
@@ -202,14 +234,20 @@ Tabelle 3: Beschreibung sonstiger Symbole ......................................
 
 Tabelle 4: Mögliche Werte bei frequenzempfehlungstyp
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 ......................................... 11
 
 ........................................................ 12  12
 
 ...................................................... 29
 
+Seite 7 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 #### XML CODE
 
@@ -285,8 +323,14 @@ XML-Code 34: richtlinie ........................................................
 
 XML-Code 35: verordnungsmenge ....................................................................................... 31
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 8 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 XML-Code 36: hoechstmenge_verordnung .......................................................................... 31
 
@@ -308,8 +352,14 @@ XML-Code 44: orientierende_behandlungsmenge_massage ............................
 
 XML-Code 45: erforderliche_diagnosen ............................................................................... 36
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 9 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 # 1 Einleitung
 
@@ -353,6 +403,8 @@ vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<
 
 sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da-ten identisch) bzw.  Entspricht dem Element *<person>* Elements *<provider>*
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 KBV_ITA_VGEX_eHD
 
 ist  *<document_type_cd>*
@@ -372,6 +424,8 @@ als Vorsatz erlaubt;
 *<interface>*
 
 Daten geliefert;  *<organization>* des Header-
+
+Seite 10 von 37
 
 
 ---
@@ -406,10 +460,16 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un-
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un-Seite 11 von 37
 
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 ### 2.5.2 Strukturelemente
 
@@ -435,14 +495,20 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3:**
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 Beschreibung der Strukturelement-Symbole
 
 Beschreibung sonstiger Symbole
 
-<xs:choice> delementen genau eins ausgewählt werden muss. <xs:sequence> gelegter Reihenfolge aufgeführt werden müssen. zeigt an, dass zwischen verschiedenen Kin-  beschreibt, dass die Kindelemente in fest- Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst. ***<xs:choice>***
+***<xs:choice>***
+
+<xs:choice> delementen genau eins ausgewählt werden muss. <xs:sequence> gelegter Reihenfolge aufgeführt werden müssen. zeigt an, dass zwischen verschiedenen Kin-  beschreibt, dass die Kindelemente in fest- Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst. Seite 12 von 37
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 # 3 ehd  Element (root Element)
 
@@ -482,14 +548,20 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 **/ehd (root-Element)** dargestellt ist. Im header-
 
 xmlns="urn:ehd/sdhm/001"  xsi:schemaLocation**="urn:ehd/001**
 
 ***urn:ehd/001***
 
+Seite 13 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 # 4 header (Metadaten)
 
@@ -521,7 +593,14 @@ Der XML-Code für ein <sdhm_stammdaten> Element hat folgenden Aufbau:
 
 **XML-Code 2:** sdhm_stammdaten
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 14 von 37
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 ## 5.2 kapitel
 
@@ -557,7 +636,11 @@ Das Element <diagnosegruppe> bildet die Diagnosegruppe des Heilmittelkataloges a
 
 Das Element <diagnosegruppe> enthält die optionalen Elemente <erlaeuterung>, <hin-weis_liste>, <erkrankung_liste> und <erforderliche_diagnosen> sowie die Pflichtelemente  <leitsymptomatik_liste> und <heilmittelverordnung>.
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 entsprechen der Schlüsseltabelle
+
+Seite 15 von 37
 
 
 ---
@@ -604,6 +687,12 @@ Der XML-Code für ein <diagnosegruppe> Element hat folgenden Aufbau:
 
 **XML-Code 4:** diagnosegruppe
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 16 von 37
+
 
 ---
 
@@ -647,6 +736,12 @@ Das Element <hinweis> enthält einen Hinweis zur Diagnosegruppe. Im V-Attribut i
 
 Der XML-Code für ein <hinweis> Element hat folgenden Aufbau:
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 17 von 37
+
 
 ---
 
@@ -683,6 +778,12 @@ Das Element <erkrankung> enthält die einer Diagnosegruppe zugeordneten Erkranku
 **Abbildung 9:** erkrankung
 
 Der XML-Code für ein <erkrankung> Element hat folgenden Aufbau:
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 18 von 37
 
 
 ---
@@ -730,8 +831,16 @@ Das Element <leitsymptomatik> kann das das optionale Element <erlaeuterung_liste
 
 Der XML-Code für ein <leitsymptomatik> Element hat folgenden Aufbau:
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 19 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 ```
 **<leitsymptomatik V="..." DN="..." >**
@@ -783,8 +892,14 @@ Der XML-Code für ein <patientenindividuelle_leitsymptomatik> Element hat folgen
 
 **XML-Code 13:** patientenindividuelle_leitsymptomatik
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 20 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 ## 5.11 heilmittelverordnung
 
@@ -844,7 +959,11 @@ Das Element <vorrangiges_heilmittel_liste> umschließt  ges_heilmittel> Elemente
 
 **Abbildung 15:** vorrangiges_heilmittel_liste
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 eine Liste von <vorrangi-
+
+Seite 21 von 37
 
 
 ---
@@ -890,6 +1009,12 @@ Der XML-Code für ein <vorrangiges_heilmittel> Element hat folgenden Aufbau:
 **<reihenfolge V="..."/>**
 
 **<erforderliche_leitsymptomatik V="..."/>**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 22 von 37
 
 
 ---
@@ -942,6 +1067,12 @@ Das Element <positionsnr> enthält die Positionsnummer der Heilmittel.
 
 **Abbildung 19:** positionsnr
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 23 von 37
+
 
 ---
 
@@ -983,8 +1114,16 @@ Das verordnete vorrangige Heilmittel muss zur ausgewählten buchstabenkodierten 
 
 **Abbildung 22:** erforderliche_leitsymptomatik
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 24 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 Der XML-Code für ein <erforderliche_leitsymptomatik> Element hat folgenden Aufbau:
 
@@ -1022,8 +1161,14 @@ Das Element <erforderliche_diagnosen> definiert für ein vorrangiges Heilmittel 
 
 Das Element besitzt immer mindestens ein Kindelement <icd_code>.
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 25 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 **Abbildung 25:** erforderliche_diagnosen
 
@@ -1073,7 +1218,11 @@ Das Element <ergaenzendes_heilmittel> stellt ein zu verordnendes Ergänzendes He
 
 Das Element besitzt immer das Kindelement <name>. Ebenso kann es die optionalen Kin-delemente <reihenfolge>,<positionsnr_liste> und/oder <massagetechnik> enthalten.
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 umschließt eine Liste von <ergaenzen-
+
+Seite 26 von 37
 
 
 ---
@@ -1129,6 +1278,12 @@ Siehe Abschnitt 5.11.1.4 massagetechnik
 Das Element <standardisierte_heilmittel_kombination> besitzt immer das Kindelement <na-me> sowie das optionale Kindelement <positionsnr_liste>.
 
 **Abbildung 28:** standardisierte_heilmittel_kombination
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 27 von 37
 
 
 ---
@@ -1189,8 +1344,16 @@ Der XML-Code für ein <frequenzempfehlung_liste> Element hat folgenden Aufbau:
 
 Das Element <frequenzempfehlung> stellt die Frequenzempfehlung für die Verordnung von  Heilmitteln laut Heilmittelkatalog dar. Die Frequenzempfehlung gilt für alle Heilmittel unter dem
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 28 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 Element <heilmittelverordnung>. In einer Instanz ist entweder die Frequenzempfehlung laut  Heilmittelkatalog oder eine alternative richtlinienkonforme Empfehlung enthalten.
 
@@ -1241,6 +1404,10 @@ Das V-Attribut kann folgende Werte annehmen:
 
 **Tabelle 4:** Mögliche Werte bei frequenzempfehlungstyp
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 29 von 37
+
 
 ---
 
@@ -1280,8 +1447,16 @@ Der XML-Code für ein <richtlinie> Element hat folgenden Aufbau:
 
 **XML-Code 34:** richtlinie
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 30 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 ### 5.11.5 verordnungsmenge
 
@@ -1326,6 +1501,11 @@ Der XML-Code für ein <hoechstmenge_verordnung> Element hat folgenden Aufbau:
 
 Das Element <orientierende_behandlungsmenge> stellt die orientierende Behandlungsmenge  der Behandlungseinheiten im Rahmen eines Verordnungsfalls dar. Die orientierende Behand-lungsmenge gilt für alle Heilmittel unter dem Element <heilmittelverordnung>. Im V-Attribute  ist die orientierende Behandlungsverordnungsmenge laut Heilmittelkatalog enthalten.
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 31 von 37
+
+
 ---
 
 Das Element kann entweder die optionalen Kindelemente <orientieren-de_behandlungsmenge_hoechstalter> und <hoechstalter_jahre> oder <orientieren-de_behandlungsmenge_icd_code> und <icd_code_liste> enthalten.
@@ -1356,8 +1536,16 @@ Das Element <orientierende_behandlungsmenge_hoechstalter> stellt die orientieren
 
 **Abbildung 38:** orientierende_behandlungsmenge_hoechstalter
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 32 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 Der XML-Code für ein <orientierende_behandlungs den Aufbau:
 
@@ -1393,9 +1581,13 @@ Der XML-Code für ein <orientierende_behandlungsmenge_icd_code> Element hat folg
 
 **XML-Code 40:** orientierende_behandlungsmenge_icd_code
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
 _icd_code
 
 **V="50"/>**
+
+Seite 33 von 37
 
 
 ---
@@ -1436,6 +1628,12 @@ Enthalten sind hier Zeichenketten nach dem Muster:
 
 Der XML-Code für ein <icd_code> Element hat folgenden Aufbau:
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 34 von 37
+
 
 ---
 
@@ -1473,8 +1671,16 @@ Der XML-Code für ein <orientierende_behandlungsmenge_massage> Element hat folge
 
 Das Element <erforderliche_diagnosen> definiert für eine Diagnosegruppe eine Liste von  ICD-10-GM-Codes behandlungsfähiger Diagnosen. Die Angabe mindestens einer dieser Di-
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 35 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
 
 agnosen beim Verordnungsvorgang ist Voraussetzung für die Verordnungsfähigkeit der Heil-mittel, welche der Diagnosegruppe zugeordnet sind.
 
@@ -1499,6 +1705,10 @@ Der XML-Code für ein <erforderliche_diagnosen> Element hat folgenden Aufbau:
 |  | **5.12.1.1.1** | **icd_code** |
 | Siehe | Abschnitt | 5.11.7.4.1 icd_code. |
 
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+Seite 36 von 37
+
 XML-Code 45: Siehe Abschnitt
 
 ---
@@ -1509,4 +1719,8 @@ XML-Code 45: Siehe Abschnitt
 |---|---|
 | KBV_ITA_VGEX_eHD | ehd |
 
-eHealthData, Richtlinie
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
+
+eHealthData, Richtlinie Seite 37 von 37

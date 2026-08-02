@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-XPM 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In Kraft 
+XPM 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2023
 
 
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-
 
 ### DOKUMENTENHISTORIE
 
@@ -36,7 +38,9 @@ XPM 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In Kraft
 
 1.27
 
-10.02.2022
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34
+
+Prüfmodul XPM 10.02.2022
 
 10.01.2022
 
@@ -49,6 +53,8 @@ XPM 1.34 Datum: 15.08.2023 Kennzeichnung: Öffentlich  Status: In Kraft
 19.01.2012
 
 27.10.2011
+
+* Version
 
 Kapitel Zeichensatzkon-verter überarbeitet Klassennamen haben **22**
 
@@ -93,6 +99,8 @@ tei.
 Java Version 1.5 wird  nicht mehr unterstützt. Programmerweiterung **12**
 
 Neue Protokolldatei.
+
+Seite 2 26 von
 
 
 ---
@@ -167,6 +175,12 @@ Neue Protokolldatei.
 
 3.2.2 Beispiele .............................................................................................................................. 19
 
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 3 26 von
+
 
 ---
 
@@ -207,7 +221,11 @@ Neue Protokolldatei.
 
 **6.3**
 
-Konfiguration der XPM-Meldungen Meldungsliste .............................................................................................................................. 25 ....................................................................................................................................... 26
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Konfiguration der XPM-Meldungen Meldungsliste .............................................................................................................................. 25 ....................................................................................................................................... 26Seite 4 26 von
 
 
 ---
@@ -217,6 +235,13 @@ Konfiguration der XPM-Meldungen Meldungsliste ..................................
 Abbildung 1: XPM Prüfmodul für KVDT Prüfung .................................................................... 20
 
 Abbildung 2: XPM Prüfmodul für Brustkrebs Prüfung ............................................................ 20
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 5 26 von
+
 
 ---
 
@@ -228,8 +253,16 @@ Tabelle 2: Übergabeparameter ..................................................
 
 Tabelle 3: Übergabeparameter .............................................................................................. 23
 
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 6 26 von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 # 1 Einleitung
 
@@ -260,6 +293,10 @@ Ein XPM-Paket ist ein schnittstellenspezifisches Prüfmodulpaket, das aus folgen
 - **XPM-Kernel**: Programm zum Interpretieren eines XPM-Prüfprojektes, der Kernel ist ohne  schnittstellenspezifisches Prüfprojekt, welches die schnittstellenspezifische Konfiguration  enthält, nicht verwendbar; XPM-allgemeiner Bestandteil des XPM-Pakets
 - **KVDT-XPM-Paket**: Das KVDT-XPM- Paket löste das alte DOS basierte Prüfmodul ab (auch ADT- Prüfmodul genannt, da ADT der wesentliche Bestandteil des KVDT ist). Die of-fiziell richtige Bezeichnung ist das "KBV-Prüfmodul".
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 7 26 von
+
 
 ---
 
@@ -276,8 +313,16 @@ Benötigt wird ein Computersystem, das leistungsmäßig mit einem IBM-kompatible
 
 Langsamere Prozessoren und wenig Hauptspeicher erhöhen stark die Laufzeit des Pro-gramms. XPM benötigt weniger als 10 MByte Festplattenplatz.
 
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 8 26 von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 # 2 Verzeichnisstruktur
 
@@ -327,8 +372,16 @@ Dieser Ordner enthält alle binären Steuerdateien und Stammdaten.
 
 In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfiguriert  worden sein.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 9 26 von
+
 
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
 
 ## 2.7 Ordner 'Konfig'
 
@@ -348,10 +401,16 @@ In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat defini
 
 In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfiguriert  worden sein.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
 **nicht** verändert werden. In einigen Prüfumgebungen kön-
+
+Seite 10 26von
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 # 3 Arbeiten mit XPM
 
@@ -387,12 +446,18 @@ Das Verzeichnis mit Prüfdateien wird im Element „
 
 Z.B.: <pruefdaten>Daten/</pruefdaten>
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
 **pruefpfad**“ festgelegt.
 
 **pruefdaten**“ festgelegt.
 
+Seite 11 26von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 #### 3.1.1.3 Geprüft-OK-Verzeichnis
 
@@ -434,6 +499,8 @@ Z.B.: <pruefschema>Konfig/koloskopie.xsd</pruefschema>
 
 Hinweis: Solle in der Pfadangabe des XML-Schemas das ‘%’-Zeichen verwendet werden, so  muss dieses durch die Zeichenkette ‘%25’ ersetzt werden.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
 **okdaten**
 
 **fehlerdaten**
@@ -444,8 +511,12 @@ Hinweis: Solle in der Pfadangabe des XML-Schemas das ‘%’-Zeichen verwendet w
 
 **pruefschema**“ festgehalten.
 
+Seite 12 26von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 #### 3.1.1.9 Info
 
@@ -487,8 +558,14 @@ Das XPM kann während der Laufzeit abgebrochen werden, wenn eine vorher festgele
 
 Z.B. <fehler_abbruch>10</fehler_abbruch>
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 13 26von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 #### 3.1.1.14 Spaltenangabe
 
@@ -536,8 +613,14 @@ Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokol
 
 Über das Attribut Format wird das Ausgabeformat festgelegt:
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 14 26von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 - CSV
 
@@ -591,6 +674,8 @@ Zusätzlich wurde eine zweite flexiblere Umbenennungsmethode integriert.
 
 Sobald im Namen einer Ausgabedatei die Variable  ersetzt XPM diese Variable durch den Namen der Prüfdatei. Fehlt die Variable  *TEI_NAME}*, dann wird der Name der Prüfdatei als erstes im Namen der Ausgabedatei einge-fügt.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34
+
 - Kommaseparierte Ausgabe, über das Attribut ’Trennzeichen’  lässt sich das Trennzeichen zwischen den Spalten festlegen.  Standardmäßig ist hier das Komma voreingestellt.
 - HTML- Format
 - Internes Ausgabeformat, kann vom Prüfmodul angezeigt und  gedruckt werden (Spätere Versionen)
@@ -608,11 +693,15 @@ Sobald im Namen einer Ausgabedatei die Variable  ersetzt XPM diese Variable durc
 
 *${DATEI_NAME}* verwendet wird, dann
 
+* Version
+
 ```
 [](http://www.adobe.de/products/acrobat/readstep2.html)
 ```
 
 *${DA-*
+
+Seite 15 26von
 
 
 ---
@@ -669,6 +758,14 @@ Jedes Element der Konfigurationsdatei darf Umgebungsvariablen enthalten.
 
 Diese Umgebungsvariablen müssen der JavaVM jedoch über den Übergabeparameter –D  übergeben werden. Nach dem Einlesen der Konfigurationsdatei werden die Umgebungsvari-ablen durch ihre Werte ersetzt. Findet das XPM eine Umgebungsvariable nicht wird der Prüf-lauf abgebrochen.
 
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 16 26von
+
 
 ---
 
@@ -697,8 +794,16 @@ Jetzt muss nur noch dafür gesorgt werden, dass die Umgebungsvariablen der JavaV
 
 ```
 java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ...
-
 ```
+
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 17 26von
+
 
 ---
 
@@ -724,9 +829,18 @@ Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden
 
 Um eine Prüfung durchzuführen muss einer der Schalter –f, -–z bzw. s angegeben werden.
 
-Konfigurationsdatei. eines Eingangsverzeichnisses und beendet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist optional. Prüfmodul bearbeitet wird. Dieser Übergabeparameter ist optional. chende Verzeichnisse, die in der Konfigurationsdatei eingestellt werden. Dieser Übergabeparameter ist optional. sen Übergabeparameter gesetzt werden. Die Zuweisung erfolgt in der Form ’Schalter[@Attribut]=Wert’. Schalter ist ein beliebiger Schalter der Konfigurati- onsdatei. Soll nur das Attribut eines Schalters gesetzt werden so muss der Na- me des Attributes hinter dem @-Zeichen angegeben werden. Die Wert selbst wird hinter dem Gleichheitszeichen angegeben. Dieser Parameter kann mehr- fach übergeben werden, um diverse Einstellungen vorzunehmen. Bitte beachten Sie, dass die hier übergebenen Parameter die Einstellungen der Konfigurations- datei überschreiben. Schauen Sie sich zum besseren Verständnis das Beispiel 4 an. Dieser Übergabeparameter ist optional. kunden-Takt Dateien eines Eingangsverzeichnisses. Der Abbruch des Pro- grammlaufs kann über CTRL-C erfolgen. Dieser Übergabeparameter ist optio- nal. sich anschließend. Wird außer diesem Übergabeparameter auch noch die Kon- figurationsdatei (Übergabeparameter -c) angegeben, so wird zusätzlich die Ver- sionsnummer des Prüfpaketes ausgegeben. Prüfmodul bearbeitet wird. Der Inhalt des Zip-Archivs darf nur Prüfdateien ent- halten. Dieser Übergabeparameter ist optional.
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Konfigurationsdatei. eines Eingangsverzeichnisses und beendet sich anschließend. Diese Option ist nur in Kombination mit Servermodus aufrufbar. Dieser Übergabeparameter ist optional. Prüfmodul bearbeitet wird. Dieser Übergabeparameter ist optional. chende Verzeichnisse, die in der Konfigurationsdatei eingestellt werden. Dieser Übergabeparameter ist optional. sen Übergabeparameter gesetzt werden. Die Zuweisung erfolgt in der Form ’Schalter[@Attribut]=Wert’. Schalter ist ein beliebiger Schalter der Konfigurati- onsdatei. Soll nur das Attribut eines Schalters gesetzt werden so muss der Na- me des Attributes hinter dem @-Zeichen angegeben werden. Die Wert selbst wird hinter dem Gleichheitszeichen angegeben. Dieser Parameter kann mehr- fach übergeben werden, um diverse Einstellungen vorzunehmen. Bitte beachten Sie, dass die hier übergebenen Parameter die Einstellungen der Konfigurations- datei überschreiben. Schauen Sie sich zum besseren Verständnis das Beispiel 4 an. Dieser Übergabeparameter ist optional. kunden-Takt Dateien eines Eingangsverzeichnisses. Der Abbruch des Pro- grammlaufs kann über CTRL-C erfolgen. Dieser Übergabeparameter ist optio- nal. sich anschließend. Wird außer diesem Übergabeparameter auch noch die Kon- figurationsdatei (Übergabeparameter -c) angegeben, so wird zusätzlich die Ver- sionsnummer des Prüfpaketes ausgegeben. Prüfmodul bearbeitet wird. Der Inhalt des Zip-Archivs darf nur Prüfdateien ent- halten. Dieser Übergabeparameter ist optional. Seite 18 26von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 ### 3.2.2 Beispiele
 
@@ -776,7 +890,11 @@ Die Ausgabeliste mit dem Namen ’FehlerListe’ bekommt den Pfad ’Listen/Prot
 
 Die grafische Oberfläche stellt eine Alternative zum Kommandozeilen-Programm. Für die  KVDT-Prüfung ist die grafische Oberfläche ausschließlich zur Prüfung einzelner Dateien aus-gelegt. Für die anderen Schnittstellen-Prüfungen (Brustkrebs, DM1, DM2, VDX und andere)  können sowohl Verzeichnisse als auch Zip-
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
 Archive geprüft werden.
+
+Seite 19 26von
 
 
 ---
@@ -788,6 +906,14 @@ Archive geprüft werden.
 ### 3.3.1 Prüfdatei selektieren
 
 Bitte drücken Sie den ‘...’-Knopf und wählen Sie die gewünschte Prüfdatei aus.
+
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 20 26von
 
 
 ---
@@ -804,6 +930,14 @@ Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf e
 
 ### zeitig abzubrechen.
 
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 21 26von
+
 
 ---
 
@@ -818,9 +952,18 @@ Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf e
 | de.kbv.xpm.core.converter.CharsetConverter |  |
 | -q Daten\Z05123456699_31.03.2010_12.00.CON | -z Daten\Umgewandelt\ |
 
-Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten Zeichensatz um. Für XML-- Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer- den kann. -Dfile.encoding=8859_1 -s IBM -l Der Aufruf von Java-Programmen wird im Kapitel 5.1  ausführlich erläutert. Der Parameter ‘ ’ ist der Name einer Klas- se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei ) nach der Verarbeitung gelöscht wird. Die konver- tierte Datei wird also unter den Namen X05123456699_31.03.2010_12.00.CON erzeugt. Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver- tierten Datei wird folgendermaßen gebildet: Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz. • S bei 7Bit • X bei IBM • A bei ISO--1 • Z bei ISO-8859-15 Der restliche Dateiname entspricht dem ursprünglichen Dateinamen. Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück- sichtigt.
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten Zeichensatz um. Für XML-- Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer- den kann. -Dfile.encoding=8859_1 -s IBM -l Der Aufruf von Java-Programmen wird im Kapitel 5.1  ausführlich erläutert. Der Parameter ‘ ’ ist der Name einer Klas- se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei ) nach der Verarbeitung gelöscht wird. Die konver- tierte Datei wird also unter den Namen X05123456699_31.03.2010_12.00.CON erzeugt. Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver- tierten Datei wird folgendermaßen gebildet: Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz. • S bei 7Bit • X bei IBM • A bei ISO--1 • Z bei ISO-8859-15 Der restliche Dateiname entspricht dem ursprünglichen Dateinamen. Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück- sichtigt. Seite 22 26von
+
 
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-
 
 |  |  |
 |---|---|
@@ -833,10 +976,20 @@ Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünsc
 | -l | Die Ursprungsdatei wird nach der Verarbeitung gelöscht. Dieser Übergabepa- |
 | -t | Eingangsdateien sind beliebige Textdateien, kein xDT-Format |
 
-Dieser Parameter wird nur dann berücksichtigt, wenn die Aktion nicht der Da- teinamenskonvention widerspricht. Dateien mit Dateinamen, die mit dem Zei- chen A, S oder X beginnen, können nicht unter Ihrem Ursprungsnamen abge- legt werden, da dies der Dateinamenskonvention widerspricht. Dieser Überga- beparameter ist optional. rameter ist optional. **Tabelle 3: Übergabeparameter**
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34
+
+Prüfmodul XPM
+
+**Tabelle 3: Übergabeparameter**
+
+* Version
+
+Dieser Parameter wird nur dann berücksichtigt, wenn die Aktion nicht der Da- teinamenskonvention widerspricht. Dateien mit Dateinamen, die mit dem Zei- chen A, S oder X beginnen, können nicht unter Ihrem Ursprungsnamen abge- legt werden, da dies der Dateinamenskonvention widerspricht. Dieser Überga- beparameter ist optional. rameter ist optional. Seite 23 26von
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 # 5 Anhang
 
@@ -870,14 +1023,20 @@ Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter
 
 Das KBV--Prüfmodul ist eine Java Applikation und kann von einem anderem Java-Programm  aufgerufen werden. Für eine leichtere Anbindung wurde die Klasse  *de.kbv.xpm.core.extern.XPMEinstieg* implementiert. Diese Klasse ist im Java-Archiv pruefmo-dul.jar im Quellcode enthalten. Bitte schauen Sie sich hierzu die Methode ‘main’ etwas ge-nauer an.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
 stellt den entsprechenden Zeichensatz ein
 
 stellt alle Ja-
 
 ist der Name einer Klasse,
 
+Seite 24 26von
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 # 6 Anhang: KBV-Prüfmodul XPM für DMP
 
@@ -929,6 +1088,10 @@ Nach der Änderung der XML-Meldungsliste muss in der Konfigurationsdatei 'konfig
 
 Die Anzahl der maximal auszugebenen Meldungen hat nur dann Auswirkungen auf die Proto-kollierung, wenn der Konfigurationsschalter 'fehler_begrenzen' auf den Wert 'ja' eingestellt  wird.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 25 26von
+
 
 ---
 
@@ -938,3 +1101,11 @@ Die Anzahl der maximal auszugebenen Meldungen hat nur dann Auswirkungen auf die 
 -  Von der Änderung der Errorlevels wird definitiv abgeraten, da dieses das Prüfergebnis  beeinflussen kann.
 -  Wird dem Konfigurationsschalter 'fehler_begrenzen' der Wert 'nein' zugewiesen, so wer-den alle aufgetretenen Meldungen protokolliert.
 -  Wird kein Wert (bzw. der Wert -1) im Element maxcount angegeben, so wird die Meldung  so oft ausgegeben wie die Regelverletzung auftritt.
+
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
+
+Seite 26 26von

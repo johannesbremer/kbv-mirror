@@ -6,6 +6,8 @@ Stand der letzten Bearbeitung:
 
 Version:
 
+Ausfüllanleitung DMP Osteoporose Version 01.0 Stand der Bearbeitung 07.06.2021
+
 ## Ausfüllanleitung
 
 ## Osteoporose 07.06.2021
@@ -41,6 +43,10 @@ Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihrem Patienten **sei
 
 Sollte seit der letzten Dokumentation keine osteoporosebedingte Fraktur eingetreten sein, ge-ben Sie dies bitte mit „Nein“ an. Bitte geben Sie ebenfalls „Nein“ an, wenn zwar eine Fraktur  vorlag, diese aber aller Wahrscheinlichkeit nach, nicht im Zusammenhang mit der Osteoporose  steht. In diesen Fällen ist eine Angabe zu „Lokalisation der osteoporosebedingten Fraktur“ nicht  erforderlich.
 
+2
+
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+
 
 ---
 
@@ -71,6 +77,10 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 Das DMP Osteoporose soll unter anderem dazu beitragen, durch die Vermeidung von Stürzen  osteoporosebedingte Frakturen zu reduzieren.
 
 Geben Sie in diesem Feld bitte die **Anzahl aller Stürze** rückblickend seit der letzten Dokumen-tation an. Dabei liegt es im Ermessen Ihrer Patientin bzw. Ihres Patienten und Ihnen, welche  Stürze als anamnestisch relevant zu bewerten sind. Trat seit der letzten Dokumentation kein  Sturz auf, geben Sie bitte eine „0“ an. Eine Angabe. kleiner als „0“ und größer als „99“ ist nicht  möglich.
+
+3
+
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
 
 
 ---
@@ -109,6 +119,10 @@ Wenn Sie Ihrer Patientin oder Ihrem Patienten aufgrund eines erhöhten Sturzrisi
 
 Besteht bei Ihrer Patientin oder Ihrem Patienten trotz bereits empfohlener Sturzprophylaxemaß-nahme weiterhin ein erhöhtes Sturzrisikos, sprechen Sie die Empfehlung zur Teilnahme an ei-ner Sturzprophylaxemaßnahme erneut aus und geben ebenfalls „Ja“ an.
 
+4
+
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+
 
 ---
 
@@ -144,7 +158,9 @@ Antiresorptive Therapie:
 
 - Bisphophonate: Alendronat, Risedronat, Zoledronat, Ibandronat
 - Denosumab
-- selektiver Östrogenrezeptor-Modulator (SERM): Raloxifen
+- selektiver Östrogenrezeptor-Modulator (SERM): Raloxifen 5
+
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
 
 
 ---
@@ -178,6 +194,10 @@ Wurde die **osteoporosespezifische Medikation** bei Ihrer Patientin bzw. Ihrem P
 Wurde die osteoporosespezifische medikamentöse Therapie regulär „Nach drei Jahren abge-schlossen“ geben Sie dies bitte auch in den Folgedokumentationen so an.
 
 **Besteht aktuell** eine osteoporosespezifsche medikamentöse Therapie, geben Sie bitte an, ob  sie „Aktuell andauernd, seit weniger als drei Jahren“ oder „Aktuell andauernd, Fortführung über  drei Jahre hinaus“ erfolgt.
+
+6
+
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
 
 
 ---
@@ -219,6 +239,10 @@ Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf ei
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
+7
+
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+
 
 ---
 
@@ -233,3 +257,7 @@ Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokument
 Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte „Bei  letzter Dokumentation keine Schulung empfohlen“ an.
 
 Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
+
+8
+
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021

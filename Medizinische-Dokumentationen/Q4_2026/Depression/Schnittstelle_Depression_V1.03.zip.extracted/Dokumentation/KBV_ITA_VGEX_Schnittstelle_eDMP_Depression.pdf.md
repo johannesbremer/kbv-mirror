@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_DEPRESSION]
 
+Seite 1 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -114,6 +116,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 29
 
+Seite 2 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 Kardinalität Sonstige Symbole 
 
 
@@ -175,6 +179,8 @@ Kardinalität Sonstige Symbole
 
 **35**
 
+Seite 3 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 ---
 
 ## ABBILDUNGSVERZEICHNIS
@@ -186,6 +192,8 @@ Kardinalität Sonstige Symbole
 **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 14
 
 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16
+
+Seite 4 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 ---
 
@@ -224,6 +232,8 @@ Kardinalität Sonstige Symbole
 **TABELLE 16:** WERTE BEI ERGEBNISTEXT (SCHWEREGRAD ZU BEGINN DER AKTUELLEN DEPRESSIVEN EPISODE) ........... 31
 
 **TABELLE 17:** WERTE BEI ERGEBNISTEXT (DEPRESSIONSSPEZIFISCHE SCHULUNG WAHRGENOMMEN) .......................... 33
+
+Seite 5 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 ---
 
@@ -295,6 +305,8 @@ Kardinalität Sonstige Symbole
 
 **XML-CODE 34:** DEPRESSIONSSPEZIFISCHE SCHULUNG WAHRGENOMMEN .................................................................... 32
 
+Seite 6 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 ---
 
 # DOKUMENTENHISTORIE
@@ -306,8 +318,9 @@ Kardinalität Sonstige Symbole
 | 1.01 | 06.01.2021 | KBV | Anpassung an neue Version | Korrektur der Komponenten- | - |
 | 1.00 | 22.10.2020 | KBV | neues Dokument |  |  |
 
-aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) 1.01 des Schnittstellenpakets nummer im XML-Schema 
+Seite 7 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
+aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) 1.01 des Schnittstellenpakets nummer im XML-Schema
 
 ---
 
@@ -326,6 +339,8 @@ Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlini
 [Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/KBV_ITA_VGEX_Anforderungskatalog_eDMP.pdf)
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 8 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 ---
 
@@ -358,6 +373,8 @@ Beispiele:
 - 123456789_123_20210301.EEDE
 - 123456789_123_20210601.EVDE
 
+Seite 9 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 ---
 
 # 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
@@ -389,8 +406,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. 
+Seite 10 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -407,6 +425,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
+
+Seite 11 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
@@ -437,6 +457,8 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
+Seite 12 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body> 
 
 
@@ -463,6 +485,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
 **XML-Code 2:** body
 
+Seite 13 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 [] durchzuführen.](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/)
 
 Abbildung 2 dargestellt.
@@ -481,6 +505,8 @@ Abbildung 3 dargestellt.
 
 Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Nicht-medikamentöse und medikamentöse Behandlung“, „Schulung“ und „Behandlungsplanung“, die jeweils in  einem <paragraph>-Element untergebracht sind.
 
+Seite 14 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 ---
 
 ### 6.1.1 caption
@@ -496,7 +522,11 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 ### 6.1.2 content
 
-<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Nicht-medikamentöse und medikamentöse Behandlung"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen  Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut  der feste Wert „sciphox“ vorgeschrieben.
+Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen  Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut  der feste Wert „sciphox“ vorgeschrieben.
+
+Seite 15 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Nicht-medikamentöse und medikamentöse Behandlung"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>
 
 
 ---
@@ -523,7 +553,10 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
 **XML-Code 5:** Beobachtungen
 
+Seite 16 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 <local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup> <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
+
 
 ---
 
@@ -555,7 +588,11 @@ Dieses Kapitel beschreibt den Abschnitt „Administrative Daten“.
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-<sciphox:Parameter DN="..."/> XML-Code 6:  Parameter Ergebnistext Das Element <Ergebnistext> enthält nur das hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im zum Element <Ergebnistext> <sciphox:Ergebnistext V="..."/> ...  Ergebnistext <sciphox:Ergebniswert V=". . ." U="..."/>6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+
+Seite 17 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<sciphox:Parameter DN="..."/> XML-Code 6:  Parameter Ergebnistext Das Element <Ergebnistext> enthält nur das hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im zum Element <Ergebnistext> <sciphox:Ergebnistext V="..."/> ...  Ergebnistext <sciphox:Ergebniswert V=". . ." U="..."/>
 
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
@@ -592,7 +629,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> content  (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere mit entsprechenden Werten angegeben werden. Einschreibung wegen **XML-Code 10:**
+**XML-Code 10:**
+
+Seite 18 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> content  (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere mit entsprechenden Werten angegeben werden. Einschreibung wegen 
 
 
 ---
@@ -624,6 +665,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
+Seite 19 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 ---
 
@@ -641,7 +683,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Symptomatik – PHQ-9 Summenwert"/> <sciphox:Ergebniswert V="8" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad zu Beginn der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mittelgradig"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dauer der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mehr als zwei Jahre persistierend"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Suizidalität eingeschätzt"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> **XML-Code 12:** Körpergröße
+**XML-Code 12:** Körpergröße
+
+Seite 20 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Symptomatik – PHQ-9 Summenwert"/> <sciphox:Ergebniswert V="8" U="{Punktzahl}"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schweregrad zu Beginn der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mittelgradig"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dauer der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mehr als zwei Jahre persistierend"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Suizidalität eingeschätzt"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> 
 
 
 ---
@@ -675,10 +721,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
+Seite 21 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 *V*-Attribut das „Körpergewicht“ und
 
-<sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>*V*-Attribut die Feldbezeichnung
+*V*-Attribut die Feldbezeichnung
 
+<sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>
 
 ---
 
@@ -717,12 +766,15 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 17:** Begleiterkrankungen
 
+Seite 22 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 *V*-Attribut den „systolischen Wert“
 
 *V*-Attribut den „diastolischen Wert“
 
-<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>*V*-Attribut die Feldbezeichnung gemäß
+*V*-Attribut die Feldbezeichnung gemäß
 
+<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>
 
 ---
 
@@ -762,7 +814,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Aktuelle Symptomatik – PHQ-9 Summenwert"/> <sciphox:Ergebniswert V="8" U="{Punktzahl}"/> <sciphox:Parameter DN="Schweregrad zu Beginn der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mittelgradig"/>**XML-Code 19:** Schweregrad zu Beginn der aktuellen depressiven Episode
+**XML-Code 19:** Schweregrad zu Beginn der aktuellen depressiven Episode
+
+Seite 23 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<sciphox:Parameter DN="Aktuelle Symptomatik – PHQ-9 Summenwert"/> <sciphox:Ergebniswert V="8" U="{Punktzahl}"/> <sciphox:Parameter DN="Schweregrad zu Beginn der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mittelgradig"/>
 
 
 ---
@@ -814,7 +870,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-<sciphox:Parameter DN="Dauer der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mehr als zwei Jahre persistierend"/> <sciphox:Parameter DN="Suizidalität eingeschätzt"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 9:** Werte bei Ergebnistext (Suizidalität eingeschätzt)
+**Tabelle 9:** Werte bei Ergebnistext (Suizidalität eingeschätzt)
+
+Seite 24 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<sciphox:Parameter DN="Dauer der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mehr als zwei Jahre persistierend"/> <sciphox:Parameter DN="Suizidalität eingeschätzt"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -854,7 +914,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Geplant |
 \| Nicht gewünscht |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle medikamentöse Therapie mit Antidepressiva"/> <sciphox:Ergebnistext V="Aktuell andauernd, seit weniger als 9 Monaten"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 10:** Werte bei Ergebnistext (Aktuelle Psychotherapie)
+**Tabelle 10:** Werte bei Ergebnistext (Aktuelle Psychotherapie)
+
+Seite 25 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle medikamentöse Therapie mit Antidepressiva"/> <sciphox:Ergebnistext V="Aktuell andauernd, seit weniger als 9 Monaten"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Aktuelle Psychotherapie"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -892,7 +956,11 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
-<sciphox:Parameter DN="Aktuelle medikamentöse Therapie mit Antidepressiva"/> <sciphox:Ergebnistext V="Aktuell andauernd, seit weniger als 9 Monaten"/>Der Coderahmen sieht wie folgt aus:
+Der Coderahmen sieht wie folgt aus:
+
+Seite 26 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+<sciphox:Parameter DN="Aktuelle medikamentöse Therapie mit Antidepressiva"/> <sciphox:Ergebnistext V="Aktuell andauernd, seit weniger als 9 Monaten"/>
 
 
 ---
@@ -919,6 +987,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 
 **Tabelle 12:** Werte bei Ergebnistext (Bereits vor Einschreibung in das DMP an einer  depressionsspezifischen Schulung teilgenommen)
+
+Seite 27 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer depressionsspezifischen Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>
 
@@ -960,7 +1030,10 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 **XML-Code 28:** content (Behandlungsplanung)
 
+Seite 28 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 <sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
+
 
 ---
 
@@ -1000,6 +1073,8 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Jedes zweite Quartal |
 
 **Tabelle 15:** Werte bei Ergebnistext (Dokumentationsintervall)
+
+Seite 29 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> 
 
@@ -1044,6 +1119,7 @@ Siehe Kapitel 6.1.5.3
 
 Siehe Kapitel 6.1.5.4
 
+Seite 30 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 ---
 
@@ -1090,7 +1166,10 @@ Siehe Kapitel 6.1.5.9
 
 Siehe Kapitel 6.1.5.10
 
+Seite 31 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 <sciphox:Parameter DN="Schweregrad zu Beginn der aktuellen depressiven Episode"/> <sciphox:Ergebnistext V="Mittelgradig"/>
+
 
 ---
 
@@ -1128,6 +1207,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 33:** Depressionsspezifische Schulung wahrgenommen
 
+Seite 32 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Depressionsspezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Depressionsspezifische Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Präsenzgruppenschulung"/>
 
 
@@ -1146,6 +1227,8 @@ Als Beispiel sei hier folgender Code angegeben:
 ### 7.1.5 Abschnitt „Behandlungsplanung“
 
 Der Abschnitt „Administrative Daten“ hat die gleiche Struktur wie in der „erstmaligen  Dokumentation“, siehe Kapitel 6.1.8
+
+Seite 33 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
 ---
 
@@ -1176,8 +1259,9 @@ Der Abschnitt „Administrative Daten“ hat die gleiche Struktur wie in der „
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Information Systems in Physician Offices and Hospitals using XML 
+Seite 34 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
+Information Systems in Physician Offices and Hospitals using XML
 
 ---
 
@@ -1198,4 +1282,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 35 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
+
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Volldatensatz / a-Datensatz Schnittstellenbeschreibung 

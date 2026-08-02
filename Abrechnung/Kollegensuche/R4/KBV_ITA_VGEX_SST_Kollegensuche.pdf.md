@@ -11,8 +11,9 @@
 
 ## [KBV_ITA_VGEX_SST_KOLLEGENSUCHE]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+SEITE 1 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
@@ -44,9 +45,13 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **7** **REFERENZIERTE DOKUMENTE**
 
+SEITE 2 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 /
+
 **5**  **6**  **11**  11  11  12 12
 
-FHIR®-DEFINITION FHIR®-Ressourcen 12  12  12  12  16  16  17  17  18  18  18  **19**  19  19  19  19  20  **21**  21  21  21  22  22  27  **31**
+12  12  12  12  16  16  17  17  18  18  18  **19**  19  19  19  19  20  **21**  21  21  21  22  22  27  **31**
+
+FHIR®-DEFINITION FHIR®-Ressourcen 16. JANUAR 2026
 
 
 ---
@@ -59,7 +64,11 @@ Abbildung 1: Systemarchitektur  Abbildung 2: genereller Ablauf
 
 Tabelle 1: KBV_PR_KS_PRACTITIONER  Tabelle 2: KBV_PR_KS_PractitionerRole  Tabelle 3: KBV_PR_KS_Organization  Tabelle 4: KBV_PR_KS_Bundle  Tabelle 5: KBV_PR_KS_Location  Tabelle 6: KBV_EX_KS_LocationDistance  Tabelle 7: KBV_EX_KS_LocationAccessibility  Tabelle 8: KBV_EX_KS_ResultLimit  Tabelle 9: KBV_EX_KS_PractitionerRoleRemark  Tabelle 10: KBV_EX_KS_SurgeryHoursType  Tabelle 11: KBV_EX_KS_CalendarDate  Tabelle 12: KBV_EX_KS_PsychotherapySetting  Tabelle 13: KBV_EX_KS_PsychotherapyAgeGroup  Tabelle 14: unveränderte FHIR®-Ressourcen  Tabelle 15: Suchparameter für PractitionerRole  Tabelle 16: Statuscode und Antworten in der search-Interaktion  Tabelle 17: Statuscode und Antworten in der capabilites-Interaktion  Tabelle 18: Interaktionen auf den FHIR®-Ressourcen
 
+SEITE 3 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 /
+
 6  19  7  8  8  8  8  8  8  8  9  9  9  9  9  10  15  16  17  18
+
+16. JANUAR 2026
 
 
 ---
@@ -73,8 +82,9 @@ Die Änderungen der Version 2.00 muss spätestens ab dem 01.07.2026 zum Einsatz 
 | 2.00 | 16.01.2026 | KBV | Aktualisierung der FHIR-Profile |  | alle |
 | 1.05 | 15.08.2023 | KBV | Aktualisierung der URLs des |  | 19,  21,  22 |
 
-auf den FHIR-Standard R4 sowie Erweiterung der Suchparameter Webservices 
+SEITE 4 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
+auf den FHIR-Standard R4 sowie Erweiterung der Suchparameter Webservices
 
 ---
 
@@ -94,16 +104,15 @@ Der Webservice-Kollegensuche ist der Webservice der KBV, mit welchem eine Suche 
 [](https://kollegensuche.kv-safenet.de/pages/index.xhtml)
 ```
 
-1 An einigen Stellen im Dokument wird zur besseren Lesbarkeit die Bezeichnung „Arzt“ genutzt. Selbstverständlich ist darunter a
+________________  1 An einigen Stellen im Dokument wird zur besseren Lesbarkeit die Bezeichnung „Arzt“ genutzt. Selbstverständlich ist darunter a
 
 weibliche Form der Berufsbezeichnung zu verstehen.
 
-1 - und
+SEITE 5 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026 1 - und
 
 [https://kollegensuche.kv-](https://kollegensuche.kv-safenet.de/pages/index.xhtml)
 
 uch die jeweilige
-
 
 ---
 
@@ -118,6 +127,9 @@ Im Praxisverwaltungssystem werden die Patienten-, Arzt-, und Betriebsstättendat
 Der Webservice-Kollegensuche enthält die Kontaktdaten der im ambulanten Bereich tätigen Ärzte. Diese  Informationen sollen die Ärzte auf einfache Weise im Rahmen der Vermittlung von Terminen bei anderen  Ärzten unterstützen.
 
 Der Datenaustausch zwischen den beteiligten Systemen erfolgt auf Basis des HL7 FHIR® Standards. Die  hierfür erforderlichen Datenstrukturen sind in Kapitel 3 „FHIR® Definitionen“ festgelegt. Aus dem vierten  Kapitel können die Regelungen für den Datenaustausch via REST-Service zwischen dem  Praxisverwaltungssystem und dem Webservice-Kollegensuche entnommen werden. Im Kapitel 5 sind  weitere Informationen zur Integration des Webservices in den Praxisverwaltungssystemen beschrieben.
+
+SEITE 6 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 
 ---
 
@@ -161,6 +173,8 @@ Tabelle 1: KBV_PR_KS_PRACTITIONER
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_PractitionerRole |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/practitionerrole.html |
+
+SEITE 7 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
 Dateiname: KBV_PR_KS_Practitioner
 
@@ -226,6 +240,8 @@ Tabelle 8: KBV_EX_KS_ResultLimit
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_KS_PractitionerRoleRemark |
 | Definition | Weitere Angaben über die Betriebsstätte des Arztes. |
 
+SEITE 8 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 
 ---
 
@@ -279,10 +295,12 @@ Im Rahmen der Kollegensuche kommen die folgenden Schlüsseltabellen zum Einsatz:
 
 ```
 [](https://simplifier.net/kbvschluesseltabellen)
+[](https://simplifier.net/kbvschluesseltabellen)
 ```
 
-Diese Extension beinhaltet die in der KBV genutzten Codes für Arten von Schlüsselverzeichnis Anlage 43. [](https://simplifier.net/kbvschluesseltabellen)
+SEITE 9 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
+Diese Extension beinhaltet die in der KBV genutzten Codes für Arten von Schlüsselverzeichnis Anlage 43.
 
 ---
 
@@ -296,6 +314,8 @@ Die nachfolgenden Ressourcen werden durch die vorliegende Schnittstelle genutzt.
 | OperationOutcome | https://fhir.kbv.de/StructureDefinition/KBV_PR_KS_Oper | |
 
 Tabelle 14: unveränderte FHIR®-Ressourcen
+
+SEITE 10 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
 ---
 
@@ -332,12 +352,13 @@ Der „_“ Unterstrich wird zur Kennzeichnung von Schlüsselwörtern in Abgrenz
 - um Such- und andere Interaktionen von einer Repräsentanz einer FHIR®-Ressource zu unterscheiden
 - um Suchparameter die für alle FHIR®-Ressourcen gelten, von Suchparametern einzelner FHIR®-Ressourcen zu unterscheiden.
 
+SEITE 11 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 Kapitel 3 „FHIR® Definitionen“ beschriebenen
 
 Kapitel 3 „FHIR® Definitionen“ entsprechen.
 
 *type]}*
-
 
 ---
 
@@ -380,6 +401,8 @@ Grundlage ist das Kapitel „2.21.0.5 Managing Return Content“ aus FHIR®_REST
 
 Die Interaktion search wird als HTTP-Methode GET von dem Webservice-Kollegensuche unterstützt:
 
+SEITE 12 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 
 ---
 
@@ -396,11 +419,15 @@ Die zur Verfügung stehenden Suchparameter können über das sog. Capability-Sta
 | distanz | Distanz wird als Radius für die Suche genutzt, angegeben in |
 | plz | Parameter für die Postleitzahl. Der Wert |
 
+SEITE 13 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 *GET [base]/[type]{?[parameters]}*
 
 Kollegensuche sind nach dem Kapitel „2.21.1 search“ von [FHIR®]  [) umgesetzt. Der Webservice Kollegensuche bietet eine Suche nach Ärzten](http://hl7.org/fhir/search.html)
 
-PractitionerRole . Angegeben als 16- stellige Dezimalzahl. BSNR und der 7-stelligen LANR ohne den Fachgruppen-Code (die letzten beiden Stellen der 9-stelligen LANR).  nicht in Kombination mit weiteren Suchparametern!  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegeben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen.  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegeben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen. Kilometern. Der Wert für  muss immer in Kombination mit  angegeben werden. Fehlt einer der Werte für  wird der Wert  für die Suche ignoriert.  kann als Alternative zu einer Positionsangabe mit  genutzt werden. Der Parameter plz sollte immer in Kombination mit dem Parameter  angegeben werden. Fehlt der Parameter , wird ein Standard-Wert von 5km angenommen. vergl. 4.1.6.2
+vergl. 4.1.6.2
+
+PractitionerRole . Angegeben als 16- stellige Dezimalzahl. BSNR und der 7-stelligen LANR ohne den Fachgruppen-Code (die letzten beiden Stellen der 9-stelligen LANR).  nicht in Kombination mit weiteren Suchparametern!  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegeben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen.  muss immer in Kombination mit  angegeben werden. Und sollte immer in Kombination mit  angegeben werden. Fehlt der Wert  wird automatisch ein Wert von 5km angenommen. Kilometern. Der Wert für  muss immer in Kombination mit  angegeben werden. Fehlt einer der Werte für  wird der Wert  für die Suche ignoriert.  kann als Alternative zu einer Positionsangabe mit  genutzt werden. Der Parameter plz sollte immer in Kombination mit dem Parameter  angegeben werden. Fehlt der Parameter , wird ein Standard-Wert von 5km angenommen. 
 
 
 ---
@@ -415,7 +442,10 @@ PractitionerRole . Angegeben als 16- stellige Dezimalzahl. BSNR und der 7-stelli
 | zusatzbezeichnung | Code für die Zusatzbezeichnung. Entspricht der Schlüsseltabelle  https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_ZUSATZBEZ . |
 | fremdsprache | Code für die Fremdsprache. Entspricht der Schlüsseltabelle  https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_BAS_FREMDSPR N. |
 
+SEITE 14 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 plz  wird nicht als Filter in der Suche verwendet. Mit der Postleitzahl wird die geographische Mitte der Postleitzahl ermittelt. Die ermittelte Geokoordiante latitude  und longitude  Werte) wird für eine Umkreissuche (mit Angabe einer Distanz) verwendet. Angabe einer Geo-Koordinate mit Längen- und Breitengraden. Nachdem der Server die PLZ in Geo-Koordinaten umgesetzt hat, erfolgt ebenfalls eine Umkreissuche. So als wären direkt Längen- und Breitengrade angegeben worden. durchgeführt. Eine Suche nach "Münch" findet z. B. "München". Zudem können mit * Zeichen weitere Wildcards eingegeben werden.  und/oder nach latitude/longitude, es findet somit keine Umkreissuche statt.  Nachnamen/Familiennamens. Es wird automatisch eine Wildcard-Suche mit "offenem" Ende durchgeführt. Suche nach "Meier" findet also z. B. auch "Meierheinrich". Zudem können mit * Zeichen weitere Wildcards eingegeben werden. T_GROB T_FEIN EICHNUNGEN ACHE
+
 
 ---
 
@@ -439,7 +469,11 @@ Der Webservice-Kollegensuche beantwortet die Anfrage mit folgenden Statuscodes u
 | Die Suche war erfolgreich. Eine Suche | 200 | Im http-Body wird eine FHIR®- |
 | Die Suche konnte nicht ausgeführt | 500 | Eine Ressource vom Typ  siehe 3.5 |
 
-gesetzt werden. HREN GRUPPE MIGUNGEN ANTWORT gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. werden oder die FHIR®- Ressource vom Typ Bundle erstellt mit Bundle.type = searchset. Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry. Die Übersendung einer Ressource vom Typ OperationOutcome ist nicht umzusetzen. OperationOutcome (FHIR®_RESTful-API] wird nicht durch den Webservice-
+FHIR®_RESTful-API] wird nicht durch den Webservice-
+
+SEITE 15 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
+gesetzt werden. HREN GRUPPE MIGUNGEN ANTWORT gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. werden oder die FHIR®- Ressource vom Typ Bundle erstellt mit Bundle.type = searchset. Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry. Die Übersendung einer Ressource vom Typ OperationOutcome ist nicht umzusetzen. OperationOutcome (
 
 
 ---
@@ -481,6 +515,8 @@ Um dem Anwender zu zeigen, dass die Suchergebnisse beschränkt  „total“ zu v
 Grundlage ist das Kapitel „2.21.0.16 capabilities“ aus FHIR®_RESTful-API
 
 Es gilt: Der Webservice-Kollegensuche stellt die Interaktion capabilities bereit. Wird diese von dem  Praxisverwaltungssystem aufgerufen, stellt der Webservice-Kollegensuche eine FHIR®-Ressource vom Typ  Capability Statement zur Verfügung, welche den Vorgaben aus 3.5 „FHIR®
+
+SEITE 16 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
 wurden, sind die Werte „resultlimit“ und
 
@@ -527,6 +563,8 @@ Die folgenden Interaktionen der [FHIR®_RESTful-API] -Spezifikation sind vom PVS
 
 Der Webservice-Kollegensuche bietet kein Paging an. Die Vorgaben aus [FHIR®] Kapitel 2.21.0.20 „paging“  aus [FHIR®_RESTful-API] sind nicht umgesetzt.
 
+SEITE 17 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 ANTWORT wird übergeben. CapabilityStatement. wird übergeben. CapabilityStatement.
 
 ---
@@ -560,10 +598,11 @@ Aus diesem Grund verwenden der Webservice-Kollegensuche und das PVS das nachsteh
 
 Nachrichten zwischen dem Webservice-Kollegensuche und dem Praxisverwaltungssystem sind nur über  eine verschlüsselte Verbindung auszutauschen. Für diese Transportverschlüsselung wird TLS verwendet.
 
+SEITE 18 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 in Kapitel 3 „FHIR®
 
 Kapitel 4.1.6
-
 
 ---
 
@@ -595,12 +634,17 @@ Der Webservice-Kollegensuche zum produktiven Einsatz in Arztpraxen ist nur im SN
 
 [Die Base-URL lautet:](https://fhir-kollegensuche.kv-safenet.de/FHIR4/)[https://fhir-kollegensuche.kv-safenet.de/FHIR4/](https://fhir-kollegensuche.kv-safenet.de/FHIR4/)[](https://fhir-kollegensuche.kv-safenet.de/FHIR4/)
 
+SEITE 19 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 
 ---
 
 ## 5.2 BESCHRÄNKUNG DER SERVER
 
 Der Webservice-Kollegensuche beschränkt die möglichen Suchanfragen pro IP-Adresse und Tag. Wenn das  Limit erreicht ist, wird eine Meldung gesendet.
+
+SEITE 20 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 
 ---
 
@@ -634,6 +678,8 @@ Das PVS muss eine Suchfunktion mit dem Parameter
 
 **HINWEIS**
 
+SEITE 21 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 Search genannten Parameter weitere
 
 latitude und longitude
@@ -644,8 +690,9 @@ plz_10623.xml“.
 
 plz unterstützen.
 
-Testsystem im Sicheren Netz der KVen: https://fhir-kollegensuche.kbvtest.kv- safenet.de/FHIR4/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 Testsystem im Internet: https://api kollegensuche.kbv.de/FHIR4/PractitionerRole?latitude=52.5134379&longitude=13.3339554&dist anz=30 Produktiver Webservice-Kollegensuche: https://fhir-kollegensuche.kv- safenet.de/FHIR4/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 Testsystem im Sicheren Netz der KVen: https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/PractitionerRole?distanz=50&plz=10623 Testsystem im Internet: Produktiver Webservice-Kollegensuche: https://fhir-kollegensuche.kv-safenet.de/FHIR4/PractitionerRole?distanz=50&plz=10623unterstützen.
+unterstützen.
 
+Testsystem im Sicheren Netz der KVen: https://fhir-kollegensuche.kbvtest.kv- safenet.de/FHIR4/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 Testsystem im Internet: https://api kollegensuche.kbv.de/FHIR4/PractitionerRole?latitude=52.5134379&longitude=13.3339554&dist anz=30 Produktiver Webservice-Kollegensuche: https://fhir-kollegensuche.kv- safenet.de/FHIR4/PractitionerRole?latitude=52.5134379&longitude=13.3339554&distanz=3 Testsystem im Sicheren Netz der KVen: https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/PractitionerRole?distanz=50&plz=10623 Testsystem im Internet: Produktiver Webservice-Kollegensuche: https://fhir-kollegensuche.kv-safenet.de/FHIR4/PractitionerRole?distanz=50&plz=10623
 
 ---
 
@@ -658,7 +705,10 @@ Testsystem im Sicheren Netz der KVen: https://fhir-kollegensuche.kbvtest.kv- saf
 \| **Beispiel für eine Suche des Fachgebietes:  ** 1.  •  https://fhir-kollegensuche.kbvtest.kv-     2.  •  https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?distanz=500&plz=10623&fachgebiet=4    3.  •  https://fhir-kollegensuche.kv- 470 |
 \|---|
 
+SEITE 22 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 Testsystem im Sicheren Netz der KVen: https://fhir-kollegensuche.kbvtest.kv-safenet.de/FHIR4/PractitionerRole?ort=Münch Testsystem im Internet: Produktiver Webservice-Kollegensuche: https://fhir-kollegensuche.kv-safenet.de/FHIR4/PractitionerRole?ort=Münch Testsystem im Sicheren Netz der KVen: Fachgebiet - 470 (Psychologische Psychotherapie): safenet.de/FHIR4/PractitionerRole?distanz=500&plz=10623&fachgebiet=470 Testsystem im Internet: Fachgebiet - 470 (Psychologische Psychotherapie:  Produktiver Webservice-Kollegensuche: Fachgebiet - 470 (Psychologische Psychotherapie: safenet.de/FHIR4/PractitionerRole?distanz=1&plz=12435&fachgebiet= distanz Webservice-Kollegensuche den Defaultwert 5 km. Ort Das PVS kann eine Suchfunktion mit dem Parameter  unterstützen. Die beispielhafte Antwort des Testsystem finden Sie in der Datei „ort_münchen.xml“. 6.1.4 Such-Interaktion nach der Fachrichtung Fachgebiet und Zusatzbezeichnung Das PVS muss eine Suchfunktion mit den Parametern fachgebiet unterstützen. Beide Parameter müssen unterstützt werden. Für die Suche mittels Parameter fachgebiet  können die Werte der Schlüsseltabelle BAS_FACHGEBIET_FEIN verwendet werden. Für die Suche mittels Parameter zusatzbezeichnung  können die Werte der Schlüsseltabelle S_BAS_ZUSATZBEZEICHNUNGEN verwendet werden. Testsystem im Sicheren Netz der KVen:  nicht angegeben wird, dann setzt der plz_10623 .xml“.  sowie zusatzbezeichnung fachgebiet_470 .xml“.
+
 
 ---
 
@@ -686,6 +736,8 @@ Für die Suche können die Werte der Schlüsseltabelle S_BAS_FREMDSPRACHEN verwe
 
 \| **Beispiel für eine Suche:  ** 1. • http://fhir-kollegensuche.kbvtest.kv-      2. • https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?distanz=10&plz=12435&fremdsprache |
 \|---|
+
+SEITE 23 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
 Zusatzbezeichnung  073 (Geriatrie) safenet.de/FHIR4/PractitionerRole?distanz=500&plz=10623&zusatzbezeichnung=073 2. Testsystem im Internet: Zusatzbezeichnung  073 (Geriatrie): hnung=073 3. Produktiver Webservice-Kollegensuche: Zusatzbezeichnung  073 (Geriatrie):  https://fhir-kollegensuche.kv- safenet.de/FHIR4/PractitionerRole?distanz=10&plz=12435&zusatzbezeichnung=073 zusatzbezeichung_076.xml Arztgruppe arztgruppe  unterstützen, um den Anwender die Testsystem im Sicheren Netz der KVen: Arztgruppe - 22 (Pathologie): http://fhir-kollegensuche.kbvtest.kv- safenet.de/FHIR4/PractitionerRole?distanz=50&plz=99087&arztgruppe=22 2. Testsystem im Internet: Arztgruppe - 22 (Pathologie): https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?distanz=50&plz=99087&arztgruppe=22 3. Produktiver Webservice-Kollegensuche: Arztgruppe - 22 (Pathologie): https://fhir-kollegensuche.kv- safenet.de/FHIR4/PractitionerRole?distanz=50&plz=99087&arztgruppe=22 arztgruppe_22 .xml“. Fremdsprache fremdsprache  unterstützen, um den Anwender die Testsystem im Sicheren Netz der KVen: Fremdsprache - 30 (Georgisch): safenet.de/FHIR4/PractitionerRole?distanz=10&plz=12435&fremdsprache=30 Testsystem im Internet: Fremdsprache - 30 (Georgisch): =30| 2. 3. https://fhir-kollegensuche.kv- |
 \|---|
@@ -720,8 +772,11 @@ Für die Suche können die Werte der Schlüsseltabelle S_BAS_PT_VERFAHREN verwen
 \| **Beispiel für eine Suche:  ** 1. • https://fhir-kollegensuche.kbvtest.kv-       2. • https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?distanz=5&plz=10623&ptv=A       3. Psychotherapie-Verfahren = A (Analytische Psychotherapie) :  https://fhir-kollegensuche.kv-safenet.de/FHIR4/PractitionerRole?distanz=5&plz=10623&ptv=A |
 \|---|
 
-Produktiver Webservice-Kollegensuche: Fremdsprache - 30 (Georgisch): safenet.de/FHIR4/PractitionerRole?distanz=10&plz=12435&fremdsprache=30 Testsystem im Sicheren Netz der KVen: Datum  15.01.2026 safenet.de/FHIR4/PractitionerRole?distanz=500&plz=10623&datum=15.01.2026 Testsystem im Internet: Datum  15.01.2026: .2026 Produktiver Webservice-Kollegensuche: Datum  15.01.2026: safenet.de/FHIR4/PractitionerRole?distanz=500&plz=10623&datum=15.01.2026 Testsystem im Sicheren Netz der KVen: Testsystem im Internet: Psychotherapie-Verfahren = A (Analytische Psychotherapie): Produktiver Webservice-Kollegensuche: Die beispielhafte Antwort des Testsystem finden Sie in der Datei „ptv_A.xml“.
+Die beispielhafte Antwort des Testsystem finden Sie in der Datei „ptv_A.xml“.
 
+SEITE 24 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
+Produktiver Webservice-Kollegensuche: Fremdsprache - 30 (Georgisch): safenet.de/FHIR4/PractitionerRole?distanz=10&plz=12435&fremdsprache=30 Testsystem im Sicheren Netz der KVen: Datum  15.01.2026 safenet.de/FHIR4/PractitionerRole?distanz=500&plz=10623&datum=15.01.2026 Testsystem im Internet: Datum  15.01.2026: .2026 Produktiver Webservice-Kollegensuche: Datum  15.01.2026: safenet.de/FHIR4/PractitionerRole?distanz=500&plz=10623&datum=15.01.2026 Testsystem im Sicheren Netz der KVen: Testsystem im Internet: Psychotherapie-Verfahren = A (Analytische Psychotherapie): Produktiver Webservice-Kollegensuche:
 
 ---
 
@@ -734,7 +789,10 @@ Produktiver Webservice-Kollegensuche: Fremdsprache - 30 (Georgisch): safenet.de/
 \| **Beispiel für eine Suche:  ** 1. • https://fhir-kollegensuche.kbvtest.kv-      2. • https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?distanz=5&plz=10623&pts=G       3. Psychotherapie-Verfahren = A (Analytische Psychotherapie) :  https://fhir-kollegensuche.kv-safenet.de/FHIR4/PractitionerRole?distanz=5&plz=10623&pts=G |
 \|---|
 
+SEITE 25 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 Testsystem im Sicheren Netz der KVen: Psychotherapie-Altersgruppe = E (Erwachsene)  Testsystem im Internet: Psychotherapie-Altersgruppe = E (Erwachsene) : Produktiver Webservice-Kollegensuche: Psychotherapie-Altersgruppe = E (Erwachsene): Testsystem im Sicheren Netz der KVen: Testsystem im Internet: Psychotherapie-Verfahren = A (Analytische Psychotherapie): Produktiver Webservice-Kollegensuche: Psychotherapie-Altersgruppe der unterstützten Psychotherapie-Altersgruppe anzubieten.  Für die Suche können die Werte der Schlüsseltabelle S_BAS_PT_ALTERSGRUPPE verwendet werden. Die beispielhafte Antwort des Testsystem finden Sie in der Datei „pta 6.1.10 Psychotherapie-Setting dem unterstützten Psychotherapie-Setting anzubieten.  Für die Suche können die Werte der Schlüsseltabelle S_BAS_PT_SETTING verwendet werden. Die beispielhafte Antwort des Testsystem finden Sie in der Datei „pts_G.xml“. 6.1.11 KV-Genehmigung einer KV-Genehmigung anzubieten.  Für die Suche können die Werte der Schlüsseltabelle S_BAS_KV_GENEHMIGUNGEN verwendet werden.  Testsystem im Sicheren Netz der KVen: pta  unterstützen, um den Anwender die Suche nach pts  unterstützen, um den Anwender die Suche nach kvg  unterstützen, um den Anwender die Suche nach _E .xml“.
+
 
 ---
 
@@ -755,6 +813,8 @@ Das PVS muss eine Suchfunktion mit dem Parameter  Suche nach der Kombination BSN
 
 \| **Beispiel für eine Suche:  ** 1. • https://fhir-kollegensuche.kbvtest.kv-       2. • https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?bsnrLanr=7222359009957128        3. • https://fhir-kollegensuche.kv-safenet.de/FHIR4/PractitionerRole?bsnrLanr=7222359009957128 |
 \|---|
+
+SEITE 26 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
 
 KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse)  safenet.de/FHIR4/PractitionerRole?distanz=50&plz=12435&kvg=035 2. Testsystem im Internet: KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse): Produktiver Webservice-Kollegensuche: KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse): safenet.de/FHIR4/PractitionerRole?distanz=50&plz=12435&kvg=035 family kvg_035.xml family  unterstützen, um den Anwender die Suche Beispiel für eine Suche:  1. Testsystem im Sicheren Netz der KVen: Nachname = Hildemann:  safenet.de/FHIR4/PractitionerRole?distanz=50&plz=12435&&family=Hildemann 2. Testsystem im Internet: Nachname = Hildemann: https://api-kollegensuche.kbv.de/FHIR4/PractitionerRole?distanz=50&plz=12435&family=Hildem ann Produktiver Webservice-Kollegensuche: Nachname = Hildemann: safenet.de/FHIR4/PractitionerRole?distanz=50&plz=12435&family=Hildemann family_Hildemann.xml  unterstützen, um den Anwender die Suchen  Search ) zu ermöglichen.  Beispiel für eine Suche:  1. Testsystem im Sicheren Netz der KVen: BSNR = 722235900 & LANR = 9957128 (9stellige LANR= 995712803):  safenet.de/FHIR4/PractitionerRole?bsnrLanr=7222359009957128 2. Testsystem im Internet: BSNR = 722235900 & LANR = 9957128 (9stellige LANR= 995712803): Produktiver Webservice-Kollegensuche: BSNR = 722235900 & LANR = 9957128 (9stellige LANR= 995712803): | 2. 3. |
 \|---|
@@ -831,6 +891,9 @@ KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse)  safenet.de/FHIR4/Pract
 <telecom>
 ```
 
+SEITE 27 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
+
 ---
 
 ```
@@ -902,6 +965,9 @@ KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse)  safenet.de/FHIR4/Pract
 <resource>
 ```
 
+SEITE 28 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
+
 ---
 
 ```
@@ -972,6 +1038,9 @@ KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse)  safenet.de/FHIR4/Pract
 </line>
 ```
 
+SEITE 29 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
+
 ---
 
 ```
@@ -997,8 +1066,10 @@ KV-Genehmigung = 035 (Blutreinigungsverfahren / Dialyse)  safenet.de/FHIR4/Pract
 </resource>
 </entry>
 </Bundle>
-
 ```
+
+SEITE 30 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV / VERSION: 2.00 / 16. JANUAR 2026
+
 
 ---
 
@@ -1017,3 +1088,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+SEITE 31 VON 31 / KBV / WEBSERVICE-KOLLEGENSUCHE DER KBV /
+
+VERSION: 2.00 / 16. JANUAR 2026

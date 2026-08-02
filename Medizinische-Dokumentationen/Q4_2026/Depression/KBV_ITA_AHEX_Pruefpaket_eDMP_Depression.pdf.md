@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_DEPRESSION]
 
+Seite 1 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
@@ -65,6 +67,10 @@ INHALT
 
 **33**
 
+Seite 2 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 /
+
+31. März 2026
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 6211 Prüffall 6212 Prüffall 6220 Prüffall Systemreaktion Prüffall 6214 Weitere Prüffälle zum Anforderungskatalog Prüffall 6230 Prüffall 6240 Prüffall Testdatenvalidierung Prüffall TDV6218 
 
 
@@ -86,7 +92,7 @@ Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenan
 
 28
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 34  /  KBV  /  Prüfpaket eDMP-Depression  /  Version: 1.04  /  31. März 2026 
 
 
 ---
@@ -101,7 +107,12 @@ DOKUMENTENHISTORIE
 | 1.01 | 14.05.2021 | KBV | Datumsanpassungen der | Datumsanpassungen | 11ff  25 |
 | 1.00 | 15.02.2021 | KBV | Dokumenterstellung | Initiale Erstellung | alle |
 
-Schnittstellenversionen Prüffälle. Medikamente im Prüffall 6220 für DM2. Prüffälle. für die Testdatenvalidierung zur zur Umsetzung der übergreifenden Teilnahmeerklärung. 6230 Prüffälle, Redaktionelle Präzision des Prüffalls 6230, Szenario 7 1.03 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 1.02 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. Überarbeitung wegen der übergreifenden Prüffälle, Präzision des Prüffalls 6230, Szenario
+Seite 4 von 34 / KBV / Prüfpaket eDMP-Depression
+
+/ Version: 1.04 / 31. März 2026
+
+Schnittstellenversionen Prüffälle. Medikamente im Prüffall 6220 für DM2. Prüffälle. für die Testdatenvalidierung zur zur Umsetzung der übergreifenden Teilnahmeerklärung. 6230 Prüffälle, Redaktionelle Präzision des Prüffalls 6230, Szenario 7 1.03 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 1.02 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. Überarbeitung wegen der übergreifenden Prüffälle, Präzision des Prüffalls 6230, Szenario 
+
 
 ---
 
@@ -135,6 +146,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 **HINWEIS**
 
+Seite 5 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
 ---
 
@@ -172,6 +184,7 @@ Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM
 
 [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  6220 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert
 
+Seite 6 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
 ---
 
@@ -217,6 +230,10 @@ Dokumentation         Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
+________________
+
+Seite 7 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 ---
 
 ## 1.6 PRÜFVORGABEN
@@ -250,6 +267,7 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **6.08** verwendet werden.
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
+Seite 8 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
 ---
 
@@ -283,8 +301,11 @@ Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüf
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
-EF.GVD =  geschützte Versichertendaten 1.6.5 Praxisdaten/ Arztstempel Folgende Angaben sind für die Zertifizierung zu verwenden: 1.6.6 Krankenhausdaten dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen- tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken- haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu- reichen. VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
+Seite 9 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
+VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
+
+EF.GVD =  geschützte Versichertendaten 1.6.5 Praxisdaten/ Arztstempel Folgende Angaben sind für die Zertifizierung zu verwenden: 1.6.6 Krankenhausdaten dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des dokumen- tierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind demzufolge zwei Absender (Kranken- haus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete und zwei Begleitdateien einzu- reichen.
 
 ---
 
@@ -322,6 +343,9 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **TDV6218** | Brigitte Althaus | XML_05 |
 | **6220** | Helga Aufgelöst | Ersatzverfahren (s. Anhang 4.1) |
 
+Seite 10 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
+
 ---
 
 # PRÜFFÄLLE
@@ -358,8 +382,11 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 |  | | |
 |  |  | 6211 |
 
-Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und speichern. Bestimmung der Symptomschwere Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und den Summenscore berechnen. Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch Tage (2) Tage (2) Tage (2) Tage (2) - **2.**
+- **2.**
 
+Seite 11 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
+Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und speichern. Bestimmung der Symptomschwere Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des PHQ-9 erfassen und den Summenscore berechnen. Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch Tage (2) Tage (2) Tage (2) Tage (2)
 
 ---
 
@@ -417,6 +444,8 @@ Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) einlesen und
 |  |  |  |
 |  |  | 6211 |
 
+Seite 12 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck (systolisch / diastolisch) Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Erstdokumentation 6211 06.10.2023  15.mm.jjjj Depression Weiblich Tage (2) Verlaufsdokumentation 6211 06.12.2023  15.mm.jjjj Depression Weiblich 56 kg 120 / 90 mmHg Ja Tabakverzicht Jedes zweite Quartal Episode
 
 ---
@@ -436,8 +465,9 @@ Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren
 | Depressionsspezifische Schulung empfohlen (bei | Ja | Ja |
 | Depressionsspezifische Schulung wahrgenommen |  | War aktuell nicht möglich |
 
-Antidepressiva  depressionsspezifischen Schulung teilgenommen aktueller Dokumentation) persistierend weniger als 9 Monaten persistierend Fortführung über neun Monate hinaus 
+Seite 13 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
+Antidepressiva  depressionsspezifischen Schulung teilgenommen aktueller Dokumentation) persistierend weniger als 9 Monaten persistierend Fortführung über neun Monate hinaus
 
 ---
 
@@ -477,6 +507,8 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des P
 |  |  | |
 |  | | |
 
+Seite 14 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf Verminderter Appetit oder übermäßiges Bedürfnis zu essen Versager zu sein oder die Familie enttäuscht zu Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst?
 
 ---
@@ -514,6 +546,8 @@ Wenig Interesse oder Freude an Ihren Tätigkeiten Hoffnungslosigkeit. Schwierigk
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+Seite 15 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
 Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Behandlungsplanung Informationsangebote der Krankenkasse Erstdokumentation 6212 06.10.2023  15.mm.jjjj Depression Männlich 1,96 m 06.10.2023  15.mm.jjjj Verlaufsdokumentation 6212 Ja 06.12.2023  15.mm.jjjj Depression Männlich 1,96 m 06.12.2023  15.mm.jjjj persistierend persistierend | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -556,8 +590,9 @@ Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DA
 | Depressionsspezifische Schulung empfohlen (bei | Ja | Nein |
 | Depressionsspezifische Schulung wahrgenommen |  | Präsenzgruppenschulung |
 
-Antidepressiva  depressionsspezifischen Schulung teilgenommen aktueller Dokumentation) weniger als 9 Monaten 
+Seite 16 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
+Antidepressiva  depressionsspezifischen Schulung teilgenommen aktueller Dokumentation) weniger als 9 Monaten
 
 ---
 
@@ -597,6 +632,8 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des P
 |  | | |
 |  |  |  |
 
+Seite 17 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System diese Zulassung nicht besitzen, dann sind nur die Depression-Daten zu übermitteln. Wenig Interesse oder Freude an Ihren Tätigkeiten Tage (2) Hoffnungslosigkeit. Tage (2) Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf Tage (2) haben Verminderter Appetit oder übermäßiges Bedürfnis zu essen Gefühl, ein Versager zu sein oder die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen Tage (2) oder Fernsehen Tage (2) Tage (2) Tage (2)
 
 ---
@@ -616,6 +653,8 @@ Einschreibung müssen die entsprechenden Daten ebenfalls dokumentiert werden. So
 | **PHQ-9-Fragebogen** |  | |
 | Sprache so verlangsamt, dass es auch | | |
 | i. Gedanken, dass Sie lieber tot wären | An einzelnen Tagen (1) | Überhaupt nicht (0) |
+
+Seite 18 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
 anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? oder sich Leid zufügen möchten 3. Anlegen einer Erst- und einer Verlaufsdokumentation DMP-Fallnummer Krankenhaus-IK Dokumentation in Vertretung erstellt Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Behandlungsplanung Informationsangebote der Krankenkasse 6220 856215715 Depression, Diabetes mellitus Typ 2 Weiblich 63 kg 120 / 70 mmHg Nach Funktion P1-47 des Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die Depression-Dokumentation ist dies Diabetes mellitus. Tabakverzicht Quartalsweise 6220 856215715 Depression, Diabetes mellitus Typ 2 Weiblich Tabakverzicht Quartalsweise | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -687,6 +726,8 @@ anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelo
 |  |  |  |  |
 |  |  | 5 |  |
 
+Seite 19 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 Summenwert  (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation Antidepressiva  persistierend Monaten abgebrochen persistierend Hyperkeratose mit Einblutung
 
 ---
@@ -737,8 +778,9 @@ Summenwert  (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 
 | DM2 | Behandlung/Mitbehandlung in einer für | Nein | Ja, Veranlasst |
 | DM2 | Diabetesbezogene stationäre Einweisung | Nein | Nein |
 
-orale Antikoagulation einer depressionsspezifischen Schulung teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen Dokumentation) DMP bereits wahrgenommen wahrgenommen wahrgenommen Netzhautuntersuchung seit letzter Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine 
+Seite 20 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
+orale Antikoagulation einer depressionsspezifischen Schulung teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen Dokumentation) DMP bereits wahrgenommen wahrgenommen wahrgenommen Netzhautuntersuchung seit letzter Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine
 
 ---
 
@@ -773,6 +815,8 @@ orale Antikoagulation einer depressionsspezifischen Schulung teilgenommen empfoh
 | **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
+Seite 21 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 Fehlermeldungen. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 6214 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation Krankenkasse
 
 ---
@@ -800,9 +844,9 @@ Fehlermeldungen. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprach
 
 - **3.** Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation  abgeschlossen werden kann.
 
-INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode Dauer der aktuellen depressiven Episode Suizidalität eingeschätzt Aktuelle Psychotherapie Aktuelle medikamentöse Therapie mit Antidepressiva  depressionsspezifischen Schulung teilgenommen Dokumentation) 14 Aktuell keine depressive Episode Nicht gewünscht Kontraindikation Geplant Aktion Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12
+Seite 22 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
-| INDIKATIONSSPEZIFISCHE DATEN | | |
+INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – PHQ-9 Summenwert  Schweregrad zu Beginn der aktuellen depressiven Episode Dauer der aktuellen depressiven Episode Suizidalität eingeschätzt Aktuelle Psychotherapie Aktuelle medikamentöse Therapie mit Antidepressiva  depressionsspezifischen Schulung teilgenommen Dokumentation) 14 Aktuell keine depressive Episode Nicht gewünscht Kontraindikation Geplant Aktion Nr. 8 Nr. 9 Nr. 10 Nr. 11 Nr. 12 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Aktion** |
 | **Anamnese- und Befunddaten** | | |
@@ -860,6 +904,8 @@ INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Aktuelle Symptomatik – 
 |  |  |  |
 |  |  | DMP-Fallnummer |
 
+Seite 23 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 Krankenkasse Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  persistierend
 
 ---
@@ -880,8 +926,9 @@ Krankenkasse Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  persistie
 | Depressionsspezifische Schulung empfohlen (bei aktueller | aktuell nicht möglich | Nr. 16 |
 | Depressionsspezifische Schulung wahrgenommen | Ja | Nr. 17 |
 
-depressionsspezifischen Schulung teilgenommen Dokumentation) weniger als 9 Monaten 
+Seite 24 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
+depressionsspezifischen Schulung teilgenommen Dokumentation) weniger als 9 Monaten
 
 ---
 
@@ -910,7 +957,10 @@ depressionsspezifischen Schulung teilgenommen Dokumentation) weniger als 9 Monat
 \|  |
 \|  |
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte. Nachweis der korrekten Systemfunktionalität Schritten. Anlage einer Erstdokumentation Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 6211) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe bereits vergebene DMP-Fallnummer nicht akzeptieren. der Erstdokumentation: Das System ermöglicht dem Anwender den Ausdruck des Patient Health Questionnaire 9 (PHQ-9) Fragebogens gemäß Anforderung KP1-79 (siehe Der Patient hat den PHQ-9-Fragebogen im Rahmen der Erstdokumentation ausgefüllt. Zeigen Sie, dass der Anwender die Antworten im System gemäß Anforderung KP1-80 erfassen kann und das System die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Symptomatik – PHQ-9 Summenwert“ in die aktuelle Dokumentation gemäß Anforderung KP1-81 ermöglicht (siehe Das System zeigt dem Anwender bei der Erfassung des Parameters „Aktuelle Symptomatik – PHQ-9 Summenwert“ die näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1-53 Punkt 1 an (siehe Anlage einer Verlaufsdokumentation Der Patient hat den PHQ-9-Fragebogen im Rahmen der Verlaufsdokumentation ausgefüllt. Der Anwender kann die Antworten im System gemäß Anforderung KP1-80 erfassen. Das System ermöglicht die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Das System zeigt bei der Erfassung des Parameters „Aktuelle Symptomatik – PHQ-9 Summenwert“ die
+Seite 25 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
+Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte. Nachweis der korrekten Systemfunktionalität Schritten. Anlage einer Erstdokumentation Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 6211) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe bereits vergebene DMP-Fallnummer nicht akzeptieren. der Erstdokumentation: Das System ermöglicht dem Anwender den Ausdruck des Patient Health Questionnaire 9 (PHQ-9) Fragebogens gemäß Anforderung KP1-79 (siehe Der Patient hat den PHQ-9-Fragebogen im Rahmen der Erstdokumentation ausgefüllt. Zeigen Sie, dass der Anwender die Antworten im System gemäß Anforderung KP1-80 erfassen kann und das System die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Symptomatik – PHQ-9 Summenwert“ in die aktuelle Dokumentation gemäß Anforderung KP1-81 ermöglicht (siehe Das System zeigt dem Anwender bei der Erfassung des Parameters „Aktuelle Symptomatik – PHQ-9 Summenwert“ die näheren Erläuterungen zu diesem Parameter gemäß Anforderung KP1-53 Punkt 1 an (siehe Anlage einer Verlaufsdokumentation Der Patient hat den PHQ-9-Fragebogen im Rahmen der Verlaufsdokumentation ausgefüllt. Der Anwender kann die Antworten im System gemäß Anforderung KP1-80 erfassen. Das System ermöglicht die Übernahme des ermittelten Summenscore in den Parameter „Aktuelle Das System zeigt bei der Erfassung des Parameters „Aktuelle Symptomatik – PHQ-9 Summenwert“ die 
+
 
 ---
 
@@ -925,8 +975,9 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies
 \| **Szenario 3** |
 \| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  KBV_ITA_VGEX_Anforderungskatalog_eDMP) nachgewiesen werden. |
 
-entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe 
+Seite 26 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
+entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe
 
 ---
 
@@ -955,6 +1006,8 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | DMP-Fallnummer | 1010 |
 | Datum | 15.08.2025  15.10.2026 |
 
+Seite 27 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
 Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
 
@@ -973,6 +1026,8 @@ Abbildung 3: Testdatenvalidierung
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_108“ beginnen muss, sonst schlägt die Validierung fehl.
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 28 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
 ---
 
@@ -1012,8 +1067,9 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des P
 | h. Waren Ihre Bewegungen oder Ihre Sprache so verlangsamt, dass es | Überhaupt nicht (0) |
 | i. Gedanken, dass Sie lieber tot wären oder sich Leid zufügen möchten | Beinahe jeden Tag (3) |
 
-1.02 Wenig Interesse oder Freude an Ihren Tätigkeiten Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf Verminderter Appetit oder übermäßiges Bedürfnis zu essen die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? der Tage (2) der Tage (2) 
+Seite 29 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
+1.02 Wenig Interesse oder Freude an Ihren Tätigkeiten Schwierigkeiten ein- oder durchzuschlafen oder vermehrter Schlaf Verminderter Appetit oder übermäßiges Bedürfnis zu essen die Familie enttäuscht zu haben Schwierigkeiten, sich auf etwas zu konzentrieren, z.B. beim Zeitunglesen oder Fernsehen auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? der Tage (2) der Tage (2)
 
 ---
 
@@ -1055,7 +1111,10 @@ Jeweils für die Erst- und Folgedokumentation die Antworten auf die Fragen des P
 |  |  |
 |  |  |
 
-Erkrankungen persistierend weniger als 9 Monaten
+Seite 30 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
+Erkrankungen persistierend weniger als 9 Monaten 
+
 
 ---
 
@@ -1074,6 +1133,8 @@ Erkrankungen persistierend weniger als 9 Monaten
 | Bereits vor Einschreibung in das DMP an einer depressionsspezifischen | Nein |
 | Depressionsspezifische Schulung empfohlen (bei aktueller | Ja |
 | Depressionsspezifische Schulung wahrgenommen |  |
+
+Seite 31 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
 
 Schulung teilgenommen Dokumentation) 
 
@@ -1107,6 +1168,10 @@ Schulung teilgenommen Dokumentation)
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 08 |
 
+Seite 32 von 34 / KBV / Prüfpaket eDMP-Depression /
+
+Version: 1.04 / 31. März 2026
+
 ---
 
 REFERENZIERTE DOKUMENTE
@@ -1137,7 +1202,13 @@ REFERENZIERTE DOKUMENTE
 
 5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
 
-der Depression daten des indikationsübergreifenden allgemeinen Daten- satzes Dokumentationsdaten des strukturierten Behandlungsprogramms Depression daten des strukturierten Behandlungsprogramms Versorgung schlüssel Stammdateien zu verwenden. Stammdatei) **Ansprechpartner:**
+**Ansprechpartner:**
+
+________________
+
+Seite 33 von 34 / KBV / Prüfpaket eDMP-Depression / Version: 1.04 / 31. März 2026
+
+der Depression daten des indikationsübergreifenden allgemeinen Daten- satzes Dokumentationsdaten des strukturierten Behandlungsprogramms Depression daten des strukturierten Behandlungsprogramms Versorgung schlüssel Stammdateien zu verwenden. Stammdatei) 
 
 
 ---
@@ -1147,3 +1218,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 34 von 34 / KBV / Prüfpaket eDMP-Depression /
+
+Version: 1.04 / 31. März 2026

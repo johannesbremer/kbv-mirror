@@ -11,7 +11,7 @@
 
 ### [KBV_ITA_VGEX_SST_FESTLEGUNG_VOS]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   VERSION: 2.1.0 DOKUMENTENSTATUS: IN KRAFT 01. FEBRUAR 2023 
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   VERSION: 2.1.0 DOKUMENTENSTATUS: IN KRAFT 01. FEBRUAR 2023 Seite 1 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -41,11 +41,15 @@ Inhalt
 
 **7** **UMSETZUNGSFRIST**
 
+Seite 2 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V
+
 **6**  **7**  **18**  18  18  18
 
 19  19  19  20  20  20  20  21  22  23  23  24  24  24  25  27  **28**  29  29  29
 
-FHIR®-DEFINITIONEN FHIR®-Ressourcen 30  30  30  30  31  31  31  **31**  **31**
+30  30  30  30  31  31  31  **31**  **31**
+
+FHIR®-DEFINITIONEN FHIR®-Ressourcen / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -53,6 +57,9 @@ FHIR®-DEFINITIONEN FHIR®-Ressourcen 30  30  30  30  31  31  31  **31**  **31**
 **8** **REFERENZIERTE DOKUMENTE**
 
 **32**
+
+Seite 3 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -67,6 +74,8 @@ DOKUMENTENHISTORIE
 | 1.10.010 | 05.06.2020 | KBV | Neue Version   Neue Kapitel 6 und 7 eingefügt  Kapitel 4.1.7.5 Transaction angepasst  Kapitel 4.1.8 Paging erweitert  Aufnahme: Valueset  74_VS_VoS_Identifiertyp | Stabilisierung KBV- organisatorische  Paging wird erlaubt | ALLE  28  31  23  24  16 |
 | 1.10 | 18.03.2019 | KBV | **1.** › › › › › › › › | Fortschreibung der | 7-11 |
 
+Seite 4 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 “AVWG” KBV_VS_VoS_AgentRoles Aufnahme: Profile 74_PR_VoS_Anwender 74_PR_VoS_Bundle_VoS_PVS 74_PR_VOS_Diagnose 74_PR_VoS_OBS_Stillend 74_PR_VoS_OBS_Schwanger 74_PR_VoS_OBS_Kreatinwert 74_PR_VoS_OBS_Gewicht 74_PR_VoS_OBS_Koerpergroesse Zertifizierungs- verfahrens Kommentierung Kommentierung Profile,  Festlegungen eingefügt, Schnittstelle um weitere Patienten- informationen sowie Datenübergabe von VoS an PVS zur Sicherstellung des Aufrufkontextes
 
 ---
@@ -76,7 +85,7 @@ DOKUMENTENHISTORIE
 |  |  |  |  | **2.** › › › › ›**3.** › › ›**4.** ›**5.** ›**6.** › ›**7. 8. 9.** | 11-12              12-14                        22  Alle    Alle |
 | 1.00 | 20.03.2018 | KBV | Neues Dokument | § 291d Absatz 1a | Alle |
 
-Aufnahme: Extensions 74_EX_VOS_Anwender_Sytem 74_EX_VoS_Diagnose_ istDauerdiagnose 74_EX_VoS_PruefNummer 74_EX_VoS_Rezept_ASV Aufnahme: Code-Systemen 74_CS_VoS_AuthorTyp 74_CS_VoS_DokumentTyp 74_CS_VoS_Koerperkenngroessen Aufnahme: Value-Set 74_VS_VoS_DokumentTyp Aufnahme: Naming-System 74_NS_VoS_KBV-Pruefnummer Entfernt: FHIR-Profile 74_EX_VM_Normgroesse 74_PR_VM_Adresse Kapitel 4.1.7.5 aufgenommen Anpassung der FHIR®-Ressourcen- Namen und -URIs Redaktionelle Änderungen Satz 1 Nr.1 SGB V
+Aufnahme: Extensions 74_EX_VOS_Anwender_Sytem 74_EX_VoS_Diagnose_ istDauerdiagnose 74_EX_VoS_PruefNummer 74_EX_VoS_Rezept_ASV Aufnahme: Code-Systemen 74_CS_VoS_AuthorTyp 74_CS_VoS_DokumentTyp 74_CS_VoS_Koerperkenngroessen Aufnahme: Value-Set 74_VS_VoS_DokumentTyp Aufnahme: Naming-System 74_NS_VoS_KBV-Pruefnummer Entfernt: FHIR-Profile 74_EX_VM_Normgroesse 74_PR_VM_Adresse Kapitel 4.1.7.5 aufgenommen Anpassung der FHIR®-Ressourcen- Namen und -URIs Redaktionelle Änderungen Satz 1 Nr.1 SGB VSeite 5 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -109,7 +118,9 @@ Der Anwender ist die Person, welche die beteiligten Systeme nutzt. Hierbei kann 
 
 Arzneimittel/ Medikamente sind Präparate, die dem Patienten mittels der Verordnungssoftware verordnet  werden können.
 
-1 An einigen Stellen im Dokument wird zur besseren Lesbarkeit die Bezeichnung „Arzt“ genutzt. Selbstverständlich ist darunter a die jeweilige weibliche Form der Berufsbezeichnung zu verstehen.
+________________   1 An einigen Stellen im Dokument wird zur besseren Lesbarkeit die Bezeichnung „Arzt“ genutzt. Selbstverständlich ist darunter a die jeweilige weibliche Form der Berufsbezeichnung zu verstehen.
+
+Seite 6 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 ohne dabei die bislang 1- und
 
@@ -135,6 +146,8 @@ Folglich muss das PVS alle notwendigen Stammdaten der Verordnungssoftware zur Ve
 Der Datenaustausch zwischen den beteiligten Systemen erfolgt auf Basis des HL7 FHIR® Standards. Die hierfür  erforderlichen Datenstrukturen sind in Kapitel 3 FHIR®-Definitionen können die Regelungen für den Datenaustausch via REST-Service zwischen dem Praxisverwaltungssystem  und Verordnungssoftware entnommen werden. Im Kapitel  Praxisverwaltungssystem und Verordnungssoftware festgelegt.
 
 Das folgende Informationsmodell stellt die entsprechenden Informationsklassen dar. Diese repräsentieren  die logischen Informationsobjekte für die Schnittstellen und werden in Kapitel  dargestellt.
+
+Seite 7 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 ergibt sich aus dem
 
@@ -164,6 +177,8 @@ Die Dateinamen setzen sich wie folgt zusammen.
 **Bedeutung**
 
 - Kürzel KBV (ist ein fester Wert)
+
+Seite 8 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -216,7 +231,8 @@ Tabelle 3: KBV_PR_VoS_Practitioner
 
 [Tabelle 4:](https://simplifier.net/verordnungtest/kbvprvospractitionerrole)[KBV_PR_VoS_PractitionerRole](https://simplifier.net/verordnungtest/kbvprvospractitionerrole)[](https://simplifier.net/verordnungtest/kbvprvospractitionerrole)
 
-übernimmt Verordnung im Rahmen einer ASV-Behandlung durchgeführt wird. In dem Fall ist auch das entsprechende Kennzeichen zu übermitteln. Beide Informationen werden dann im Personalienfeld aufgedruckt.
+übernimmt Verordnung im Rahmen einer ASV-Behandlung durchgeführt wird. In dem Fall ist auch das entsprechende Kennzeichen zu übermitteln. Beide Informationen werden dann im Personalienfeld aufgedruckt. Seite 9 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -263,7 +279,8 @@ Tabelle 5: KBV_PR_VoS_Organization
 
 Tabelle 9: KBV_PR_VoS_Condition
 
-Teamnummer des Arztes und das entsprechende Kennzeichen nicht vorliegen. KBV_PR_VoS_Composition  als erste Ressource. Bundle zum Aufruf der Verordnungssoftware .id] wird als kID  beim Aufruf der Verordnungssoftware übergeben. Details finden sich in den Kapiteln Medikationsplänen von der VoS ins PVS. Details dazu finden sich in den Kapiteln Aufrufkontext sowie die für die entsprechende Verordnungsfunktion notwendigen Ressourcen übergeben
+Teamnummer des Arztes und das entsprechende Kennzeichen nicht vorliegen. KBV_PR_VoS_Composition  als erste Ressource. Bundle zum Aufruf der Verordnungssoftware .id] wird als kID  beim Aufruf der Verordnungssoftware übergeben. Details finden sich in den Kapiteln Medikationsplänen von der VoS ins PVS. Details dazu finden sich in den Kapiteln Aufrufkontext sowie die für die entsprechende Verordnungsfunktion notwendigen Ressourcen übergeben Seite 10 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -315,7 +332,7 @@ Tabelle 14: KBV_PR_VoS_Medication_Ingredient
 
 Tabelle 15: KBV_PR_VoS_Medication_PZN
 
-strukturierten Repräsentationen des Medikationsplans (z.B. der Inhalt des BMP (bundeseinheitlichen Medikationsplans) als XML-Datei) und E-Rezept als PKCS#7- Datei. vom PVS an die VoS. 
+strukturierten Repräsentationen des Medikationsplans (z.B. der Inhalt des BMP (bundeseinheitlichen Medikationsplans) als XML-Datei) und E-Rezept als PKCS#7- Datei. vom PVS an die VoS. Seite 11 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -368,7 +385,7 @@ Tabelle 20: KBV_PR_VoS_Observation_Pregnancy_Status
 
 Tabelle 21: KBV_PR_VoS_Observation_Breastfeeding_Status
 
-Grund, Kennzeichnung als Dauermedikation) für ein Medikament auf einem Medikationsplan. atus
+Grund, Kennzeichnung als Dauermedikation) für ein Medikament auf einem Medikationsplan. atusSeite 12 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -414,7 +431,9 @@ Tabelle 25: KBV_PR_VoS_Provenance_AllergyIntolerance
 | FHIR®-Ressource | http://hl7.org/fhir/R4/provenance.html |
 | Definition | Eine Provenance-Ressource, die von der VoS an das PVS gesendet wird, um ein |
 
-sowie bei Hausbesuchen müssen vertragsärztliche Formulare wie z.B. Muster 16 mit den von der Versichertenkarte abweichenden aktuellen Namens- und Adressinformationen bedruckt werden können. Daher ist hier die Adresse zu übermitteln, die zur Bedruckung des Personalienfeldes verwendet werden soll. ausgedruckten Medikament. Rahmen des Zertifizierungsverfahrens nach § 371 Absatz 1 Nummer 2 SGB V vergeben wurde. storniertes eRezept im Storno-Fall im PVS als obsolet markieren zu können. Tabelle 26: KBV_PR_VoS_Provenance_ePrescription
+Tabelle 26: KBV_PR_VoS_Provenance_ePrescription
+
+sowie bei Hausbesuchen müssen vertragsärztliche Formulare wie z.B. Muster 16 mit den von der Versichertenkarte abweichenden aktuellen Namens- und Adressinformationen bedruckt werden können. Daher ist hier die Adresse zu übermitteln, die zur Bedruckung des Personalienfeldes verwendet werden soll. ausgedruckten Medikament. Rahmen des Zertifizierungsverfahrens nach § 371 Absatz 1 Nummer 2 SGB V vergeben wurde. storniertes eRezept im Storno-Fall im PVS als obsolet markieren zu können. Seite 13 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -472,7 +491,7 @@ Tabelle 32: KBV_EX_VoS_SKT
 
 Tabelle 33: KBV_EX_VoS_T_Prescription_Marks
 
-Aufrufkontext entspricht der vom Anwender gewünschten Funktionalität in der Verordnungssoftware. oder eine Medikation eine Dauermedikation ist. 
+Aufrufkontext entspricht der vom Anwender gewünschten Funktionalität in der Verordnungssoftware. oder eine Medikation eine Dauermedikation ist. Seite 14 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -528,7 +547,9 @@ Tabelle 39: KBV_VS_VoS_SectionType
 | Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_VoS_SectionType |
 | Definition | Alle Abschnitte, die in der Composition enthalten sein können. |
 
-Angabe, ob eine Medikament nicht der Verschreibungspflicht unterliegt Alle Rezepttypen, die gemäß [EXT_ITA_VGEX_Anforderungskatalog_AVWG] möglich Tabelle 40: KBV_CS_VoS_SectionType
+Tabelle 40: KBV_CS_VoS_SectionType
+
+Angabe, ob eine Medikament nicht der Verschreibungspflicht unterliegt Alle Rezepttypen, die gemäß [EXT_ITA_VGEX_Anforderungskatalog_AVWG] möglich Seite 15 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -587,7 +608,9 @@ Tabelle 47: KBV_CS_VoS_VitalSigns
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_VoS_ContentTypes |
 | Definition | DocumentReference-Instanzen verwendet werden dürfen |
 
-Kennzeichen für die Darstellung der Sonderregelungen bei der Verordnung von Betäubungsmitteln. KBV_CS_VoS_VitalSigns Dieses Valueset enthält die Codes, die für die base64-Codierung in Tabelle 48: KBV_VS_VoS_ContentTypes
+Tabelle 48: KBV_VS_VoS_ContentTypes
+
+Kennzeichen für die Darstellung der Sonderregelungen bei der Verordnung von Betäubungsmitteln. KBV_CS_VoS_VitalSigns Dieses Valueset enthält die Codes, die für die base64-Codierung in Seite 16 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -624,8 +647,13 @@ Die nachfolgenden Ressourcen werden durch die vorliegende Schnittstelle genutzt.
 
 Tabelle 52: unveränderte FHIR®-Ressourcen
 
-Produkt verwendet werden. 2 Das PVS muss ein CapabilityStatement gemäß Kapitel „4.1.7.6 Capabilities“ bereitstellen
+________________
 
+2 Das PVS muss ein CapabilityStatement gemäß Kapitel „4.1.7.6 Capabilities“ bereitstellen
+
+Seite 17 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
+Produkt verwendet werden.
 
 ---
 
@@ -670,6 +698,8 @@ Grundlage ist das Kapitel „3.1.0.1.2 Service Base URL“ der [FHIR®_RESTful-A
 
 Es gilt: Das Praxisverwaltungssystem legt die Service Base URL ([base]) für seinen REST-Service fest.
 
+Seite 18 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -678,6 +708,9 @@ Unter der Service Base URL sind alle in Kapitel 4.1.7 Interaktionen auf den Ress
 Jede in Kapitel 4.1.7 Interaktionen auf den Ressourcen benannte FHIR®-Ressource hat einen sog. Ressource  Manager, welcher über folgende URL ansprechbar ist: [base]/[type]. Wobei [type] dem Namen des  FHIR®-Ressourcentyps (siehe StructureDefiniton.type in der FHIR®-Ressourcen-Beschreibung)  entspricht.
 
 Alle logischen Interaktionen werden relativ zur Service Base URL ([base]) ausgeführt. Alle hier  spezifizierten URLs sind case-sensitive und UTF-8 codiert. Auf Basis von Kapitel 0
+
+Seite 19 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -701,6 +734,9 @@ Erzeugen die Interaktionen create, update, patch oder transaction einen Fehler i
 ### 4.1.5 Content Types und Encodings
 
 Grundlage ist das Kapitel „3.1.0.1.9 Content Types and encodings“ aus [FHIR®_RESTful-API]. Es gilt: Der  Mime-Type für die über den REST-Service verarbeiteten Ressourcen ist application/fhir+xml Praxisverwaltungssystem und Verordnungssoftware unterstützen nur diesen. Praxisverwaltungssystem und  Verordnungssoftware nutzen UTF-8 als Encoding im Body der http-Anfragen und Antworten. Das Encoding  ist über die Felder Content-Type Accept oder Accept-Charset im http-Header zu übertragen.
+
+Seite 20 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -746,7 +782,9 @@ Die Interaktion create ist dabei durch eine http-Methode POST wie folgt vom Prax
 POST [base]/[type]
 ```
 
-Im http-Body wird die durch die [id]  angegebene [type] zurückgegeben. gelöscht. Ressource ist nicht bekannt oder die angefragte [id]  ist nicht bekannt. Im Body der Methode POST wird die zu erstellende Repräsentanz der FHIR®-Ressource von der  Verordnungssoftware an das PVS übergeben. Das Element Ressource.id der FHIR®-Ressource ist dabei  leer.
+Im Body der Methode POST wird die zu erstellende Repräsentanz der FHIR®-Ressource von der  Verordnungssoftware an das PVS übergeben. Das Element Ressource.id der FHIR®-Ressource ist dabei  leer.
+
+Im http-Body wird die durch die [id]  angegebene [type] zurückgegeben. gelöscht. Ressource ist nicht bekannt oder die angefragte [id]  ist nicht bekannt. Seite 21 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -788,7 +826,9 @@ Das Kapitel „3.1.0.9.1 Variant Searches“ aus [FHIR®_RESTful-API entsprechen
 
 ] ist durch das Praxisverwaltungssystem
 
-erstellt. [id]  der erstellten Ressource an die Verordnungssoftware im Location Feld im http- Header wie folgt übergeben: [base]/[type]/[id]. fehlerhaft, da das Format der übergebenen Ressource nicht zu der vorgegebenen Definition/ Profilierung der Ressource passt. Kapitel -Body übergeben. fehlerhaft, da der Ressourcentyp nicht unterstützt wird -Body übergeben. fehlerhaft, weil die Business Logik im PVS nicht angewendet werden konnte. Kapitel  im http-Body übergeben. Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
+Das PVS beantwortet die Anfrage mit folgenden Statuscodes und Ergebnissen:
+
+erstellt. [id]  der erstellten Ressource an die Verordnungssoftware im Location Feld im http- Header wie folgt übergeben: [base]/[type]/[id]. fehlerhaft, da das Format der übergebenen Ressource nicht zu der vorgegebenen Definition/ Profilierung der Ressource passt. Kapitel -Body übergeben. fehlerhaft, da der Ressourcentyp nicht unterstützt wird -Body übergeben. fehlerhaft, weil die Business Logik im PVS nicht angewendet werden konnte. Kapitel  im http-Body übergeben. Seite 22 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -816,6 +856,8 @@ DELETE [base]/[type]/[id]
 
 Wurde eine Ressource gelöscht, so ist sie nicht mehr durch eine  Verordnungssoftware abrufbar.
 
+Seite 23 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 FHIR®_RESTful-API
 
 ```
@@ -824,8 +866,9 @@ delete
 
 DELETE wie folgt vom Praxisverwaltungssystem
 
-Suche gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. ausgeführt werden oder die FHIR®-Validierungsregeln ergaben einen Fehler. ausgeführt werden, da eine Autorisierung für die Suche notwendig ist. ausgeführt werden, weil der Ressourcentyp die Interaktion search  nicht unterstützt oder der Ressourcentyp nicht vorhanden ist. Bundle  erstellt mit Bundle.type = searchset . Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry.  Die Übersendung einer Ressource OperationOutcome  ist nicht umzusetzen. OperationOutcome (siehe übergeben. OperationOutcome (siehe übergeben. OperationOutcome (siehe übergeben. read- oder search-Interaktion von der
+read- oder search-Interaktion von der
 
+Suche gilt auch dann als erfolgreich, wenn für die übergebenen Suchparameter eine leere Ergebnismenge vorliegt. ausgeführt werden oder die FHIR®-Validierungsregeln ergaben einen Fehler. ausgeführt werden, da eine Autorisierung für die Suche notwendig ist. ausgeführt werden, weil der Ressourcentyp die Interaktion search  nicht unterstützt oder der Ressourcentyp nicht vorhanden ist. Bundle  erstellt mit Bundle.type = searchset . Die Suchergebnisse finden sich als entsprechende FHIR®-Ressourcen im Element Bundle.entry.  Die Übersendung einer Ressource OperationOutcome  ist nicht umzusetzen. OperationOutcome (siehe übergeben. OperationOutcome (siehe übergeben. OperationOutcome (siehe übergeben.
 
 ---
 
@@ -868,6 +911,8 @@ Für jedes Inhaltselement wird dann die Interaktion schreiben gemäß Ka ausgef�
 
 Grundlage ist das Kapitel „3.1.0.10 capabilities“ aus [
 
+Seite 24 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 FHIR®_RESTful-API]. Durch das PVS sind nur die  betreffen.
 
 im Praxisverwaltungssystem auf.
@@ -880,8 +925,9 @@ Bundle.entry) gilt:
 
 pitel 4.1.7.2 „Schreiben  create“
 
-gelöscht oder die zu löschende Ressource existierte nicht. gelöscht, da ein Löschen für den Ressourcentyp nicht erlaubt ist. gelöscht, da auf sie noch verwiesen wird. werden konnte, weil die Business Logik im PVS nicht angewendet werden konnte. FHIR®_RESTful-API
+FHIR®_RESTful-API
 
+gelöscht oder die zu löschende Ressource existierte nicht. gelöscht, da ein Löschen für den Ressourcentyp nicht erlaubt ist. gelöscht, da auf sie noch verwiesen wird. werden konnte, weil die Business Logik im PVS nicht angewendet werden konnte.
 
 ---
 
@@ -935,7 +981,9 @@ Hinweis: Die KBV empfiehlt die Implementierung von Paging, da dies die Schnittst
 
 ## 4.2 KONFORMITÄT VON RESSOURCEN
 
-CapabilityStatement liegt vor und wird übergeben. CapabilityStatementDer REST-Service des Praxisverwaltungssystems verarbeitet nur solche FHIR®-Ressourcen, die den in Kapitel  3 „FHIR®-Definitionen definierten FHIR®-Definitionen entsprechen. Somit werden nur solche FHIR®-Ressourcen bereitgestellt bzw. zur Verarbeitung angenommen, die den definierten Profilen entsprechen.
+Der REST-Service des Praxisverwaltungssystems verarbeitet nur solche FHIR®-Ressourcen, die den in Kapitel  3 „FHIR®-Definitionen definierten FHIR®-Definitionen entsprechen. Somit werden nur solche FHIR®-Ressourcen bereitgestellt bzw. zur Verarbeitung angenommen, die den definierten Profilen entsprechen.
+
+CapabilityStatement liegt vor und wird übergeben. CapabilityStatementSeite 25 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -956,7 +1004,8 @@ Das Praxisverwaltungssystem stellte die in der folgenden Tabelle beschriebenen I
 | Medication  KBV_PR_VoS_Medication_Compoun KBV_PR_VoS_Medication_FreeText  KBV_PR_VoS_Medication_PZN  KBV_PR_VoS_Medication_Ingredient | Ja | Nur als Teil von | Ja | Nein | Schreiben |
 | Medicationstatement  (KBV_PR_VoS_MedicationStatement | Ja | Nur als Teil von | Ja | Nein | Schreiben |
 
-ding „Transaktion“ _MP) „Transaktion“
+ding „Transaktion“ _MP) „Transaktion“Seite 26 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -974,8 +1023,9 @@ ding „Transaktion“ _MP) „Transaktion“
 
 Tabelle 58: Interaktionen auf den FHIR®-Ressourcen
 
-feeding_Status ancy_Status Weight Height nine_Level „Transaktion“ „Transaktion“ KBV_PR_Vo_ _VoS) ion olerance „Transaktion“
+Seite 27 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
+feeding_Status ancy_Status Weight Height nine_Level „Transaktion“ „Transaktion“ KBV_PR_Vo_ _VoS) ion olerance „Transaktion“
 
 ---
 
@@ -999,6 +1049,9 @@ Verwendung von http ohne Absicherung der Transportebene und keiner Authentifizie
 -
 ```
 
+Seite 28 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
+
 ---
 
 # 5 FESTLEGUNGEN FÜR PVS UND VERORDNUNGSSOFTWARE
@@ -1010,6 +1063,8 @@ Abbildung 3: genereller Ablauf
 Der Anwender ruft aus seinem Praxisverwaltungssystem die Verordnungssoftware auf. Dabei kann das  Praxisverwaltungssystem die Verordnungssoftware ohne Aufrufkontext aufrufen. Dann erfolgt in der  Verordnungssoftware die Auswahl der gewünschten Funktion. Alternativ kann das Praxisverwaltungssystem  einen Aufrufkontext übergeben. Dieser Aufrufkontext gibt die vom Anwender gewünschte  Verordnungsfunktionalität mit. Wird z.B. der Aufrufkontext „Erstverordnung“ übergeben, gelangt der  Anwender beim Aufruf der Verordnungssoftware direkt in die „Erstverordnungsfunktion“. Hinsichtlich des  Aufrufes der Verordnungssoftware gelten die Festlegungen aus den Kapiteln 5.1.1 sowie 5.2.1
 
 Ist die Verordnungssoftware gestartet, arbeitet der Anwender in der Verordnungssoftware und nicht mehr  im Praxisverwaltungssystem. Der Anwender kann nun die von der Verordnungssoftware bereitgestellten  Funktionen nutzen. Die für die jeweiligen Funktionen notwendigen Daten fragt die Verordnungssoftware  über den REST-Service beim Praxisverwaltungssystem ab. Hat die Verordnungssoftware Daten erstellt, die  im Praxisverwaltungssystem gespeichert werden sollen, so übergibt die Verordnungssoftware diese Daten  über den REST-Service an das PVS. Dies ist z.B. der Fall, wenn ein Rezept erstellt (gedruckt) oder ein  Medikationsplan erstellt bzw. aktualisiert wird. In diesem Fall werden die Rezeptdaten und der erstellte/  aktualisierte Medikationsplan zur Speicherung an das Praxisverwaltungssystem übergeben. Es gelten die  Festlegungen aus den Kapiteln 5.1.2 5.1.3 5.2.2 sowie 5.2.3
+
+Seite 29 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -1045,6 +1100,8 @@ Nach dem Start der Verordnungssoftware arbeitet der Anwender in der Verordnungss
 
 Führt der Anwender eine entsprechende Funktion in der Verordnungssoftware aus, so fragt die  Verordnungssoftware über die read- und search-Interaktion des REST-Services die benötigten FHIR®-
 
+Seite 30 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -1076,6 +1133,8 @@ Das PVS ermöglicht dem Anwender den Aufruf der Verordnungssoftware aus dem Syst
 
 Beim Starten der Verordnungssoftware erstellt das PVS eine FHIR®-Ressource entsprechend der Definition  von KBV_PR_VoS_Bundle_PVS_VoS in Kapitel 3 FHIR®-Definitionen und stellt diese der  Verordnungssoftware via REST-Service entsprechend Kapitel 4 REST-Service zur Verfügung. Beim Erstellen  dieser Ressource werden der Aufrufkontext sowie die notwendigen Informationen in der Ressource befüllt.  Unter einem Aufrufkontext ist der Funktionskontext, mit dem die Verordnungssoftware aufgerufen wird zu  verstehen und ist über das ValueSet KBV_VS_VoS_StartUp_Context bzw. CodeSystem  KBV_CS_VoS_StartUp_Context definiert. Die bei der Erstellung dieser Ressource erzeugte ID wird beim  Aufruf der Verordnungssoft-ware als kID-Parameter übergeben.
 
+Seite 31 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
 
 ---
 
@@ -1099,6 +1158,9 @@ Diese Schnittstellenfestlegung tritt am Tag nach ihrer Veröffentlichung in Kraf
 
 Die Integration der Schnittstelle muss spätestens zum 01.08.2023 erfolgt sein.
 
+Seite 32 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
+
 ---
 
 8 REFERENZIERTE DOKUMENTE
@@ -1116,4 +1178,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-WG Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 33 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
+WG

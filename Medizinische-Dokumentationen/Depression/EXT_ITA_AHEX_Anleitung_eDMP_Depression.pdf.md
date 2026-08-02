@@ -7,6 +7,8 @@ Stand der letzten Bearbeitung:  12.02.2021
 
 Version 1.0
 
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021 1
+
 
 ---
 
@@ -36,7 +38,11 @@ Tabelle 1: Interpretation des PHQ-9-Summenwerts
 | 15 | Schwere Ausprägung |
 | 20 | Schwerste Ausprägung |
 
-Summenwert  4  14  19  27Mit der kontinuierlichen und standardisierten Erhebung des PHQ-9 können Sie die Änderungen der  patientenseitig eingeschätzten Symptomatik verfolgen. So wird Ihnen bei jeder Verlaufsdokumentation  angezeigt, ob eine **relevante Veränderung zum PHQ-9-Summenwert der vorhergehenden Dokumentation**  vorliegt. Dafür wird die Differenz zwischen dem Summenwert der letzten Dokumentation und dem aktuellen  Summenwert automatisch berechnet und die Interpretation der Veränderung in kurzer Textform angezeigt  Hierdurch können Sie direkt sehen, ob und wie stark sich die Symptome bei Ihrer Patientin bzw. Ihrem Patienten  im Vergleich zur letzten Dokumentation verändert haben. Ein **Unterschied** zwischen der aktuellen und der  letzten Dokumentation** von 5 Punkten oder mehr** spricht für eine** relevante Verbesserung der Symptomatik**
+Mit der kontinuierlichen und standardisierten Erhebung des PHQ-9 können Sie die Änderungen der  patientenseitig eingeschätzten Symptomatik verfolgen. So wird Ihnen bei jeder Verlaufsdokumentation  angezeigt, ob eine **relevante Veränderung zum PHQ-9-Summenwert der vorhergehenden Dokumentation**  vorliegt. Dafür wird die Differenz zwischen dem Summenwert der letzten Dokumentation und dem aktuellen  Summenwert automatisch berechnet und die Interpretation der Veränderung in kurzer Textform angezeigt  Hierdurch können Sie direkt sehen, ob und wie stark sich die Symptome bei Ihrer Patientin bzw. Ihrem Patienten  im Vergleich zur letzten Dokumentation verändert haben. Ein **Unterschied** zwischen der aktuellen und der  letzten Dokumentation** von 5 Punkten oder mehr** spricht für eine** relevante Verbesserung der Symptomatik**
+
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021
+
+Summenwert  4  14  19  272
 
 
 ---
@@ -63,6 +69,8 @@ Die Einteilung des Schweregrads ist an der Anzahl der zutreffenden Haupt- und Zu
 
 Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome von den  Angaben im PHQ-9 ab, ist die klinische Schweregradeinschätzung vorzuziehen und anzugeben, da nur  anhand der klinischen Erfassung aller relevanten Haupt- und Zusatzsymptome sowie anhand der Dauer und  des Verlaufs der Symptome eine adäquate klinische Diagnosestellung möglich ist. (siehe hierzu Abbildung 1).
 
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021 3
+
 
 ---
 
@@ -79,6 +87,8 @@ Bei der Folgedokumentation ist hier keine Angabe möglich.
 Geben Sie in diesem Feld bitte den **Schweregrad zu Beginn der aktuellen depressiven Episode** an. Geben  Sie an, ob die aktuelle Krankheitsepisode **„Leicht“, „Mittelgradig“** oder **„Schwer“** ist. Ist bei Ihrer Patientin  oder Ihrem Patienten seit Beginn der Episode bereits eine Veränderung der Symptomatik eingetreten (z. B.  durch eine Behandlung), geben Sie bitte an, welcher Schweregrad zu Beginn dieser Episode vorlag. Liegt der  Beginn der aktuellen Episode etwa zeitgleich zur Einschreibung Ihrer Patientin oder Ihres Patienten in das DMP,  können Sie hier zur Beurteilung des Schweregrades den PHQ-9-Summenwert hinzuziehen. (siehe Tabelle 1).
 
 Weicht die Schweregradeinschätzung basierend auf Ihrer klinischen Beurteilung der Symptome von den  Angaben im PHQ-9 ab, ist die klinische Schweregradeinschätzung vorzuziehen und anzugeben, da nur  anhand der klinischen Erfassung aller relevanten Haupt- und Zusatzsymptome sowie anhand der Dauer und  des Verlaufs der Symptome eine adäquate klinische Diagnosestellung möglich ist. (siehe hierzu Abbildung 1).
+
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021 4
 
 
 ---
@@ -115,6 +125,8 @@ Aufgrund des **erhöhten Suizidrisikos** bei Menschen mit depressiven Erkrankung
 
 Die **Abschätzung des Suizidrisikos** sollte durch Erfragen von folgenden Risikomerkmalen vorgenommen  werden:
 
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021 5
+
 
 ---
 
@@ -140,7 +152,9 @@ Die **Abschätzung des Suizidrisikos** sollte durch Erfragen von folgenden Risik
 
 Geben Sie hier bitte an, **ob Sie die Suizidalität bei der aktuellen Dokumentation eingeschätzt** nicht.
 
-haben oder
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021
+
+haben oder 6
 
 
 ---
@@ -172,6 +186,8 @@ Bei der medikamentösen Therapie mittels Antidepressiva ist zu beachten, dass ih
 Unter Berücksichtigung der Kontraindikationen, der Komorbiditäten und der Patientenpräferenzen sollen  vorrangig Medikamente zur Behandlung der Depression verwendet werden, deren positiver Effekt und deren  Sicherheit im Hinblick auf die Erreichung der genannten Therapieziele in randomisierten und kontrollierten  Studien (RCT) nachgewiesen wurden.
 
 Bei Ansprechen auf die Antidepressiva-Therapie soll diese bis zur Remission fortgeführt werden (Akuttherapie)  und anschließend weiter über die Dauer einer Erhaltungsphase, d.h. vier bis neun Monate ab Erreichen der  Remission, andauern (Erhaltungstherapie). Zudem wird in der Regel eine langfristige Rezidivprophylaxe zur  Vermeidung einer erneuten depressiven Episode empfohlen. Den Patientinnen und Patienten soll empfohlen  werden, das Antidepressivum nach Abschluss der Erhaltungstherapie mindestens zwei Jahre lang zur  Langzeitprophylaxe einzunehmen.
+
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021 7
 
 
 ---
@@ -220,6 +236,8 @@ Sollten Sie **keine Schulung empfohlen** haben, geben Sie bitte
 
 **Bitte beachten Sie:** Es kann sich hierbei um ein digitales Selbstmanagementprogramm  Präsenzgruppenschulung handeln, in Abhängigkeit von der oder den im Vertrag vereinbarten Schulungsarten.
 
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021
+
 **„Aktuell andauernd, seit weniger**
 
 wurde oder aber
@@ -244,7 +262,7 @@ an
 
 die Teilnahme an einer
 
-***oder*** um eine
+***oder*** um eine 8
 
 
 ---
@@ -270,3 +288,5 @@ Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokument
 Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte **„Bei letzter**  **Dokumentation keine Schulung empfohlen“** an.
 
 Die Angaben **„War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung empfohlen“**  **sowie zu „Digitales Selbstmanagement Programm“** und **„Präsenzgruppenschulung“** führen nicht zum  Ausschluss der Patientin oder des Patienten aus dem Programm.
+
+Ausfüllanleitung DMP Depression Version 1.0 Stand der Bearbeitung 12.02.2021 9

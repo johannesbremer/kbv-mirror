@@ -2,6 +2,9 @@
 
 **Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für die**   **Verordnung Soziotherapie gem. § 37a SGB V (Muster 26)**
 
+Stand: Oktober 2017 1
+
+
 ---
 
 ### Elektronische Ausfüllhilfe Muster 26 – Verordnung Soziotherapie
@@ -71,3 +74,5 @@ Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
 
 [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Stand: Oktober 2017 2

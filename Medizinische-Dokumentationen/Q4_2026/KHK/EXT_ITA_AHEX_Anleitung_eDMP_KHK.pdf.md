@@ -31,6 +31,9 @@ Genau eine Angabe ist erforderlich und zulässig.
 
 Bitte geben Sie entweder den Wert in mmol/l mit genau einer Nachkommastelle **oder** den Wert in  mg/dl ohne Nachkommastelle ein. Wurde das LDL-Cholesterin nicht untersucht, geben Sie bitte  Nicht bestimmt“ an
 
+Ausfüllanleitung KHK, Version 7.0; Stand: 27.08.2025 2
+
+
 ---
 
 # Relevante Ereignisse
@@ -71,6 +74,8 @@ Bitte machen Sie zu jedem Medikament eine Angabe. Bitte geben  zusätzlich an, o
 
 Die Angaben können - je nach Praxissoftware - direkt aus der Vordokumentation übernommen  werden. Sie müssen dazu die Übernahme der vorherigen Angaben bestätigen.
 
+Ausfüllanleitung KHK, Version 7.0; Stand: 27.08.2025
+
 sind hier alle bereits stattgefundenen
 
 sind jeweils nur **seit der letzten**
@@ -84,6 +89,8 @@ Nein“ an.
 Morbidität (besonders das Vermeiden der
 
 Sie bei „Nein“ – wo möglich -
+
+3
 
 
 ---
@@ -101,13 +108,17 @@ Sie bei „Nein“ – wo möglich -
 | **Thrombozytenaggregationshemmer** | Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich. |
 |  |  |
 
+Ausfüllanleitung KHK, Version 7.0; Stand: 27.08.2025
+
 zum
 
 Nein“
 
 -Hemmer
 
-Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgeführt wird. Hierbei ist u. a. die Gabe von ASS oder Clopidogrel gemeint. Sofern eine orale Antikoagulations- Therapie erfolgt, geben Sie diese bitte auch an. an, ob eine Kontraindikation gegen die Gabe eines Thrombozytenaggregationshemmers besteht und/oder eine orale Antikoagulations-Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig. Betablocker Geben Sie bitte an, ob eine Therapie mit Betablockern durchgeführt wird. Bitte geben Sie bei „ gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Betablockers besteht. Diese Angabe ist für die Qualitätssicherung notwendig. ACE-Hemmer Geben Sie bitte an, ob eine Therapie mit ACE-Hemmern durchgeführt wird. Bitte geben Sie bei Nein“ gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines ACE besteht (z. B. ACE-Hemmer bedingter Husten) und/oder die Verordnung eines ARB erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig. Aktuelle Statin-Dosis Geben Sie bitte an, ob bei Ihrer Patientin oder Ihrem Patienten eine Therapie mit Statinen durchgeführt wird. Wird eine Statin-Therapie durchgeführt, geben Sie bitte die aktuelle Statin-Dosis in den Ausprägungen „Hoch“, „Moderat“ oder „Niedrig“ an. Erfolgt keine Statin- Therapie, geben Sie bitte „Kein Statin“ an. Bitte geben Sie bei „Kein Statin“ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe eines Statins zurückzuführen ist. Therapiestrategie Statin“ nicht zulässig. Nachstehende Tabelle zeigt die Einordnung der entsprechenden Statin-Dosis in diese Kategorien.  Tabelle: Übersicht Statindosierungen (aus: modifiziert aus aktueller NVL Chronische KHK, 1. Auflage. Version 7, 2024) Bitte geben Sie bei „ Nein“ gegebenenfalls zusätzlich diesem Fall Feld „Aktuelle
+Feld „Aktuelle
+
+Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchgeführt wird. Hierbei ist u. a. die Gabe von ASS oder Clopidogrel gemeint. Sofern eine orale Antikoagulations- Therapie erfolgt, geben Sie diese bitte auch an. an, ob eine Kontraindikation gegen die Gabe eines Thrombozytenaggregationshemmers besteht und/oder eine orale Antikoagulations-Therapie erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig. Betablocker Geben Sie bitte an, ob eine Therapie mit Betablockern durchgeführt wird. Bitte geben Sie bei „ gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines Betablockers besteht. Diese Angabe ist für die Qualitätssicherung notwendig. ACE-Hemmer Geben Sie bitte an, ob eine Therapie mit ACE-Hemmern durchgeführt wird. Bitte geben Sie bei Nein“ gegebenenfalls zusätzlich an, ob eine Kontraindikation gegen die Gabe eines ACE besteht (z. B. ACE-Hemmer bedingter Husten) und/oder die Verordnung eines ARB erfolgt. Diese Angabe ist für die Qualitätssicherung notwendig. Aktuelle Statin-Dosis Geben Sie bitte an, ob bei Ihrer Patientin oder Ihrem Patienten eine Therapie mit Statinen durchgeführt wird. Wird eine Statin-Therapie durchgeführt, geben Sie bitte die aktuelle Statin-Dosis in den Ausprägungen „Hoch“, „Moderat“ oder „Niedrig“ an. Erfolgt keine Statin- Therapie, geben Sie bitte „Kein Statin“ an. Bitte geben Sie bei „Kein Statin“ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe eines Statins zurückzuführen ist. Therapiestrategie Statin“ nicht zulässig. Nachstehende Tabelle zeigt die Einordnung der entsprechenden Statin-Dosis in diese Kategorien.  Tabelle: Übersicht Statindosierungen (aus: modifiziert aus aktueller NVL Chronische KHK, 1. Auflage. Version 7, 2024) Bitte geben Sie bei „ Nein“ gegebenenfalls zusätzlich diesem Fall 4
 
 
 ---
@@ -125,7 +136,10 @@ Geben Sie bitte an, ob eine Therapie mit Thrombozytenaggregationshemmern durchge
 | Hoch  (relative LDL- | Atorvastatin 40-80 mg |
 |  | Rosuvastatin 20-40 mg |
 
-Reduktion ≥ 50%) Aktuelle Therapiestrategie Statin Genau eine Angabe zu diesem Feld ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ die Angabe „Hoch“ oder „Moderat“ oder „Niedrig“ erfolgt ist. Bei der Verordnung von Statinen wird empfohlen, dass vorzugsweise eine Strategie der festen Dosis (hoch oder moderat) oder alternativ eine Zielwert-Strategie gemeinsam mit der Patientin oder dem Patienten unter Berücksichtigung des Nutzen-Schadens-Risikos vereinbart werden. Bei der Strategie der festen Dosis  sollte allen Patientinnen oder Patienten mit KHK eine Statintherapie in fester Dosis empfohlen werden, sofern keine Kontraindikationen bestehen. Über die Dosierung (hohe vs. mittlere Dosis) soll partizipativ entschieden werden. Mit der Zielwert-Strategie soll der LDL-Wert auf den Zielwert < 55 mg/dl (< 1,4 mmol/l) gesenkt werden oder eine mindestens 50%ige Reduktion erzielt werden. Bitte geben Sie an, welche Strategie Sie gemeinsam mit Ihrer Patientin oder Ihrem Patienten für die Therapie mit einem Statin vereinbart haben. Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Strategie vereinbart haben, geben Sie bitte “Keine Strategie vereinbart“ an. Grund für niedrige Statin-Dosis Genau eine Angabe ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ Angabe „Niedrig“ erfolgt ist. Bitte geben Sie den Grund für eine niedrige Statin-Dosis an. Befindet sich Ihre Patientin oder Ihr Patient aktuell in der Aufdosierungsphase, sodass noch keine hohe oder moderate Dosis möglich ist, geben Sie bitte „Aufdosierungsphase“ an. Ist der LDL -Zielwert aktuell bereits erreicht, geben Sie bitte „LDL Zielwert erreicht“ an. Besteht eine Kontraindikation gegen eine hohe oder moderate Dosis , geben Sie bitte „Kontraindikation gegen hohe oder moderate Dosis “ an. Dies gilt auch für Unverträglichkeiten. Wird eine feste hohe oder moderate Dosis durch Ihre Patientin Ihren Patienten abgelehnt, geben Sie bitte „Ablehnung durch Patienten“ an.  Trifft keine der genannten Antworten zu, geben Sie bitte „Keine Begründung“ an Schulung bereits vor Einschreibung in DMP wahrgenommen Erstdokumentation  möglich und ist hier verpflichtend. Genau eine Angabe ist erforderlich.  Folgedokumentation  ist hier keine Angabe zulässig KHK-relevanten Schulung teilgenommen hat. Die Angabe „Ja“ soll nur erfolgen, wenn zum Zeitpunkt der Einschreibung von einem hinreichenden Schulungsstand der Patientin oder des Patienten auszugehen ist. Bei einer KHK-relevante Schulung kann es sich um eine Diabetes- Schulung, eine Hypertonie-Schulung, eine Antikoagulations-Schulung oder eine KHK-spezifische Schulung handeln.  akkreditierte und für das DMP zugelassene Schulungen, sowie
+Ausfüllanleitung KHK, Version 7.0; Stand: 27.08.2025
+
+Reduktion ≥ 50%) Aktuelle Therapiestrategie Statin Genau eine Angabe zu diesem Feld ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ die Angabe „Hoch“ oder „Moderat“ oder „Niedrig“ erfolgt ist. Bei der Verordnung von Statinen wird empfohlen, dass vorzugsweise eine Strategie der festen Dosis (hoch oder moderat) oder alternativ eine Zielwert-Strategie gemeinsam mit der Patientin oder dem Patienten unter Berücksichtigung des Nutzen-Schadens-Risikos vereinbart werden. Bei der Strategie der festen Dosis  sollte allen Patientinnen oder Patienten mit KHK eine Statintherapie in fester Dosis empfohlen werden, sofern keine Kontraindikationen bestehen. Über die Dosierung (hohe vs. mittlere Dosis) soll partizipativ entschieden werden. Mit der Zielwert-Strategie soll der LDL-Wert auf den Zielwert < 55 mg/dl (< 1,4 mmol/l) gesenkt werden oder eine mindestens 50%ige Reduktion erzielt werden. Bitte geben Sie an, welche Strategie Sie gemeinsam mit Ihrer Patientin oder Ihrem Patienten für die Therapie mit einem Statin vereinbart haben. Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Strategie vereinbart haben, geben Sie bitte “Keine Strategie vereinbart“ an. Grund für niedrige Statin-Dosis Genau eine Angabe ist erforderlich und zulässig , wenn im Feld „Aktuelle Statin Dosis“ Angabe „Niedrig“ erfolgt ist. Bitte geben Sie den Grund für eine niedrige Statin-Dosis an. Befindet sich Ihre Patientin oder Ihr Patient aktuell in der Aufdosierungsphase, sodass noch keine hohe oder moderate Dosis möglich ist, geben Sie bitte „Aufdosierungsphase“ an. Ist der LDL -Zielwert aktuell bereits erreicht, geben Sie bitte „LDL Zielwert erreicht“ an. Besteht eine Kontraindikation gegen eine hohe oder moderate Dosis , geben Sie bitte „Kontraindikation gegen hohe oder moderate Dosis “ an. Dies gilt auch für Unverträglichkeiten. Wird eine feste hohe oder moderate Dosis durch Ihre Patientin Ihren Patienten abgelehnt, geben Sie bitte „Ablehnung durch Patienten“ an.  Trifft keine der genannten Antworten zu, geben Sie bitte „Keine Begründung“ an Schulung bereits vor Einschreibung in DMP wahrgenommen Erstdokumentation  möglich und ist hier verpflichtend. Genau eine Angabe ist erforderlich.  Folgedokumentation  ist hier keine Angabe zulässig KHK-relevanten Schulung teilgenommen hat. Die Angabe „Ja“ soll nur erfolgen, wenn zum Zeitpunkt der Einschreibung von einem hinreichenden Schulungsstand der Patientin oder des Patienten auszugehen ist. Bei einer KHK-relevante Schulung kann es sich um eine Diabetes- Schulung, eine Hypertonie-Schulung, eine Antikoagulations-Schulung oder eine KHK-spezifische Schulung handeln.  akkreditierte und für das DMP zugelassene Schulungen, sowie 5
+
 
 ---
 
@@ -167,6 +181,8 @@ Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 
 Alle Patientinnen und Patienten sollen zu regelmäßiger körperlicher Aktivität motiviert werden. Dies  beinhaltet Alltagsaktivitäten (z.B. Gartenarbeit, Treppensteigen, Spazierengehen) und sportliches
 
+Ausfüllanleitung KHK, Version 7.0; Stand: 27.08.2025 6
+
 
 ---
 
@@ -177,3 +193,5 @@ Insbesondere nach Erstdiagnosestellung und sofern eine selbständige Ausübung d
 Bei stabiler kardiovaskulärer Erkrankung (niedriges Risiko für Komplikationen bei größerer  körperlicher Belastung) soll moderates bis anstrengendes aerobes Training für mindestens zwei  Stunden in der Woche empfohlen werden. Dies kann auf tägliche Bewegungseinheiten von  mindestens 30 Minuten Dauer (z.B. zügiges Gehen) verteilt werden. Zusätzlich soll mindestens  zweimal wöchentlich Krafttraining durchgeführt werden.
 
 Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient regelmäßiges sportliches Training betreibt.  Sollte aus einem für Sie nachvollziehbaren Grund regelmäßiges sportliches Training nicht möglich  sein (z.B. aufgrund einer Komorbidität), geben Sie hier bitte „Nicht möglich“ an. Geben Sie bitte  „Nein“ an, wenn Ihre Patientin oder Ihr Patient sportlich nicht aktiv ist und dafür keine  nachvollziehbaren Gründe bestehen.
+
+Ausfüllanleitung KHK, Version 7.0; Stand: 27.08.2025 7

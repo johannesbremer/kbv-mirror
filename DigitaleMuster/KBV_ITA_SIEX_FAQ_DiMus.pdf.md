@@ -12,6 +12,8 @@
 
 ## [KBV_ITA_SIEX_FAQ_DIMUS]
 
+Seite 1 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
 ---
 
 \| Version | Datum | Autor | Änderung | Begründung | Seite |
@@ -24,7 +26,10 @@
 | 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu    Anpassung der Frage zur Länge    Streichung der Fragen zur |  | 5        13        f |
 |  |  |  |  | **Seite ** 2.6  22.07.2026 | KBV  Ergänzung einer Frage zu    Entfernung der Frage zur  Einführung der |
 
-überlangen Dosieranweisungen strukturierten beim E-Rezept Dosieranweisung Druckvorgabe über die Technische Anlage E-Rezept für die Patientenausdrucke für eVDGA und eRezepte Teilverordnungen einer Mehrfachverordnung auf dem Patientenausdruck Verordnungen mit nicht vorhandenen Wirkstoffen zur Länge von Wirkstoffnamen Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID
+Seite 2 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
+überlangen Dosieranweisungen strukturierten beim E-Rezept Dosieranweisung Druckvorgabe über die Technische Anlage E-Rezept für die Patientenausdrucke für eVDGA und eRezepte Teilverordnungen einer Mehrfachverordnung auf dem Patientenausdruck Verordnungen mit nicht vorhandenen Wirkstoffen zur Länge von Wirkstoffnamen Länge von Wirkstoffnamen  zur Länge des Handelsnamens und des Wirkstoffnamens zur Ermittlung der postalischen Adresse zum eAU Versand ignorierenden Meldungen beim eRezept des Handelsnamens Packungsgröße, zur VersichertenID, zur Herstellungsanweisung einer Rezeptur und zur Verschreiber- ID 
+
 
 ---
 
@@ -38,7 +43,10 @@
 |  |  |  |  |  |  |
 |  |  |  |  | Ergänzung der Fragestellung zu    Ergänzung der Fragestellung zu | 13    14 |
 
-Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen
+Seite 3 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
+Kombipackungen PZN-Verordnungen ohne Wirkstoffinformationen 
+
 
 ---
 
@@ -74,6 +82,7 @@ Für die Validierung der XML-Dateien können Sie den freien Validator der HL7 Co
 
 Der HL7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed-CT-Codes) online zu validieren. Dabei  werden einzelne Codes an einen Terminologieserver, der derzeit in den USA angesiedelt ist, gesendet. Es  werden jedoch auch personenbezogene Daten (IP-Adresse) übertragen und vorübergehend gespeichert. Im
 
+Seite 4 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
 ---
 
@@ -86,7 +95,10 @@ Der HL7-Validator beinhaltet die Möglichkeit Codes (z.B. Snomed-CT-Codes) onlin
 | 4) | Information @ Bundle.entry[6].resource.ofType(Condition).code.coding[0] : Code System URI |
 | **Frage: Wie kann ich die Validität meiner XML-Dateien auf der Simplifier Plattform überprüfen?** | Antwort der KBV:  Mit einem (kostenfreien) Account können Sie den Validator von Simplifier.net nutzen  https://simplifier.net/validate |
 
-damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.  Achten Sie hierbei darauf, „R4“ auszuwählen und den Scope des Zertifizierungsthemas auszuwählen (z.B. „KBV.ITA.EAU latest“) zu setzen. Frage: Bei der Validierung von XML-Instanzen der eAU oder dem eRezept mit dem Validator von HL7 erhalten wir immer wieder Warning- oder Info-Meldungen. Ist meine erzeugte XML-Instanz nun korrekt? Bei der Nutzung des HL7 Validators kommt es auch bei einer korrekten XML-Instanz zu Warning- oder Info- Meldungen im Validierungsergebnis. Es können insbesondere Warnings auftreten, die sich darauf zurückführen lassen, dass in den eAU- bzw. eRezept-FHIR-Profilen der KBV bewusst von den von HL7 vorgeschlagen ValueSets abgewichen wurde. Warnings, die in diesem Zusammenhang stehen, können durch die Verwendung des Parameters -no- extensible-binding-warnings “ beim Aufruf des Validators unterbunden werden. Info-Meldungen können derzeit nicht beim Aufruf unterdrückt werden. Hier stellen wir eine Liste von zu ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können abweichen:  angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) "http://fhir.de/CodeSystem/dimdi/icd-10-gm" ist unbekannt, so dass der Code nicht validiert werden kann
+Seite 5 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
+damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.  Achten Sie hierbei darauf, „R4“ auszuwählen und den Scope des Zertifizierungsthemas auszuwählen (z.B. „KBV.ITA.EAU latest“) zu setzen. Frage: Bei der Validierung von XML-Instanzen der eAU oder dem eRezept mit dem Validator von HL7 erhalten wir immer wieder Warning- oder Info-Meldungen. Ist meine erzeugte XML-Instanz nun korrekt? Bei der Nutzung des HL7 Validators kommt es auch bei einer korrekten XML-Instanz zu Warning- oder Info- Meldungen im Validierungsergebnis. Es können insbesondere Warnings auftreten, die sich darauf zurückführen lassen, dass in den eAU- bzw. eRezept-FHIR-Profilen der KBV bewusst von den von HL7 vorgeschlagen ValueSets abgewichen wurde. Warnings, die in diesem Zusammenhang stehen, können durch die Verwendung des Parameters -no- extensible-binding-warnings “ beim Aufruf des Validators unterbunden werden. Info-Meldungen können derzeit nicht beim Aufruf unterdrückt werden. Hier stellen wir eine Liste von zu ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können abweichen:  angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) "http://fhir.de/CodeSystem/dimdi/icd-10-gm" ist unbekannt, so dass der Code nicht validiert werden kann 
+
 
 ---
 
@@ -113,7 +125,10 @@ damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.  A
 |  | 5) |
 | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden |  |
 
-hintenangestellte Leerzeichen enthält. Zu ignorierende Meldungen bei dem eRezept Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART#e16A) 2) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann hintenangestellte Leerzeichen enthält. Information @ Bundle.entry[4].resource/*Practitioner/bc329f24-3d65-4286-bf06- b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird
+Seite 6 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
+hintenangestellte Leerzeichen enthält. Zu ignorierende Meldungen bei dem eRezept Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART#e16A) 2) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann hintenangestellte Leerzeichen enthält. Information @ Bundle.entry[4].resource/*Practitioner/bc329f24-3d65-4286-bf06- b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird 
+
 
 ---
 
@@ -131,7 +146,10 @@ hintenangestellte Leerzeichen enthält. Zu ignorierende Meldungen bei dem eRezep
 |  | empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = |
 | 9) | Warning @ Bundle.entry[5].resource/*Practitioner/cb7558e2-0fdf-4107-93f6- |
 
+Seite 7 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
 https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV#555555472) 07f13f39e067*/.qualification[2].code.coding[0].system (line 349, col12): !!!!!!!!Das CodeSystem https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV ist unbekannt Frage: Müssen besondere Vorgaben bei der Referenzierung innerhalb von FHIR-Dateien beachtet werden?   innerhalb der FHIR-Dateien gemacht. Allerdings sollten die Vorgaben der FHIR-Spezifikation beachtet und umgesetzt werden, da es sonst bei einigen Validatoren zu Warn- oder Fehlermeldungen kommen kann.  Kapitel „2.36.4.1 Resolving references in Bundles“ zu finden. Einige Beispiele finden Sie hierzu auch unter Dateien nutzen, wobei weitere FHIR-konforme Möglichkeiten möglich sind:  bzw. „<Pfad zum Server>/<Typ>/<id>“
+
 
 ---
 
@@ -160,6 +178,8 @@ Die aktualisierte Extension wurde auch in den Validierungs-ZIPs für die eAU Ver
 ### Antwort der KBV:
 
 [Die FHIR-Vorgaben (](https://www.hl7.org/fhir/datatypes.html#id)[https://www.hl7.org/fhir/datatypes.html#id](https://www.hl7.org/fhir/datatypes.html#id)[) bezüglich des Aufbaus der Ressourcen-ID](https://www.hl7.org/fhir/datatypes.html#id) [(resource.id) sind bei der Vergabe zu berücksichtigen. Dieser Aufbau wird von neueren Validatoren explizit](https://www.hl7.org/fhir/datatypes.html#id) geprüft.
+
+Seite 8 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
 [im JSON und XML-](http://fhir.de/StructureDefinition/seitenlokalisation) [. Diese](https://update.kbv.de/ita-update/DigitaleMuster/Korrektur_HL7_Basis_V0_9_13)
 
@@ -202,6 +222,7 @@ Ja, für die Informationen Versichertenart, DMP-Kennzeichen, Besondere Personeng
 
 Die Übertragung der Werte sollte für alle Softwaresystem umsetzbar sein, da die entsprechenden Werte im  Rahmen der Fallanlage vorliegen müssen (auch für die Bedruckung von Papierformularen). Grundsätzlich  sollte die Befüllung wie folgt erfolgen:
 
+Seite 9 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
 ---
 
@@ -233,6 +254,8 @@ Eine entsprechende Anpassung der betroffenen Anforderungen in den Technischen An
 
 Im Fall einer überlangen Dosieranweisung auf einer papiergebundenen Verordnung soll die  Dosieranweisung separat ausgedruckt und dem Versicherten mitgegeben werden. Auf dem Muster 16 bzw.  dem amtlichen T-Rezept-Formblatt muss dann ">>Dj<<" aufgedruckt werden. Auf dem amtlichen BtM-Formblatt muss dann ">> gemäß schriftlicher Anweisung<<" aufgedruckt werden.
 
+Seite 10 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
 ---
 
 # FRAGEN UND ANTWORTEN ZUR EAU
@@ -254,6 +277,8 @@ Nachdem der korrekte XML-Tag* /Einzugsstelle/Adressdaten* identifiziert wurde, m
 ### Antwort der KBV:
 
 Auch bei Arbeitsunfähigkeitsbescheinigungen, die im Zuständigkeitsbereich der gesetzlichen  Unfallversicherung liegen, erfolgt die Übermittlung der AU-Daten digital an die gesetzliche Krankenkasse.  Die Krankenkasse leitet bei Bedarf die Daten an die zuständige Berufsgenossenschaft weiter. Dies bedeutet  Hersteller wenden zur Ermittlung der KIM-Adresse die gleichen Funktionen wie bei einer gesetzlichen  Krankenkasse an.
+
+Seite 11 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
 ---
 
@@ -285,6 +310,7 @@ Bei einer Mehrfachverordnung aus drei Teilverordnungen muss der Patientenausdruc
 
 Bei einer Mehrfachverordnung aus vier Teilverordnungen sind zwei Patientenausdrucke zu erstellen. Dabei  sind die letzten (am spätesten einzulösenden) drei Teilverordnungen auf einem Ausdruck  zusammenzufassen. Der andere Ausdruck umfasst die erste (am zeitigsten einzulösende) Teilverordnung  (TV) und, sofern vorhanden, noch bis zu zwei weitere Verordnungen (V) des Verordnungsvorgangs. (P6-221  in Kombination mit P6-22 Akzeptanzkriterium 1). Schematische Darstellung der beiden Ausdrucke:
 
+Seite 12 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
 ---
 
@@ -314,6 +340,7 @@ Kombipackungen sind Produkte mit mehreren Teilpräparaten, wie beispielsweise di
 
 Als Darreichungsform ist die PZN-bezogene Darreichungsform, bspw. „KPG“ (Kombipackung), anzugeben.  Die Darreichungsformen der Teilpräparate werden nicht angegeben. Es werden alle Wirkstoffe aller  Teilpräparate in Medication.ingredient angegeben.
 
+Seite 13 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
 ---
 
@@ -335,6 +362,8 @@ Ersatzwerte:
 - o 0
 - Einheit der Bezugsmenge (ID 159d, FHIR-Element:  Medication.ingredient.strength.denominator.unit)
 - o k.A.
+
+Seite 14 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
 ---
 
@@ -361,6 +390,8 @@ Es ist entsprechend der Vorgaben der Technischen Anlage immer die für die Weite
 
 Sofern die für die Weiterbildung verantwortliche Person längere Zeit  insbesondere bei einer persönlichen  Vertretung  vertreten werden muss, kann die vertretende Person die Rolle der weiterbildenden Person  übernehmen und wird dann entsprechend im FHIR-Profil als verantwortliche hinterlegt.
 
+Seite 15 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
+
 ---
 
 # FRAGEN UND ANTWORTEN ZU SONSTIGEN THEMEN
@@ -386,3 +417,5 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 16 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026

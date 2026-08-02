@@ -70,6 +70,9 @@ Im folgenden Ausschnitt der Gebührenordnungsstammdatei ist die Änderung in der
 
 G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
 
+Seite 6 von 10
+
+
 ---
 
 **Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
@@ -110,6 +113,9 @@ Einige GNR des Abschnitts 2 der Anlage 1 zum Vertrag nach § 115b SGB V können 
 Für Leistungen des Abschnitts 2, die außerhalb des Vertrages nach § 115b SGB V auch ohne  OPS abgerechnet werden können, wird keine generelle Angabe des OPS-Codes sowie der  GNR-Zusatzangabe gefordert. Demzufolge kann für diese Leistungen keine Plausibilisierung  über das KBV-Prüfmodul erfolgen.
 
 G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
+
+Seite 7 von 10
+
 
 ---
 
@@ -157,6 +163,9 @@ G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Re
 <op_typ
 ```
 
+Seite 8 von 10
+
+
 ---
 
 **Dezernat 3 – Gebührenordnung und Vergütung**  **Dezernat 5 – Bereich Informationstechnik**
@@ -180,3 +189,5 @@ Der AK 1 hat in seiner Sitzung am 2. November 2006 den folgenden Regelungen zur 
 Liegt keine regionale GO-Stammdatei vor, erfolgt die Prüfung der Übereinstimmung zwischen  GNR und OPS-Code gemäß der bundeseinheitlichen GO-Stammdatei.
 
 G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
+
+Seite 9 von 10

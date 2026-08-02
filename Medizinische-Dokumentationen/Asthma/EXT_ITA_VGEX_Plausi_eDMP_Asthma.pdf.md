@@ -26,6 +26,8 @@
 
 **01. April 2019**
 
+* Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Asthma bronchiale Version 2 letzte Bearbeitung: 03.07.2018
+
 
 ---
 
@@ -60,7 +62,8 @@
 | In den letzten 4 Wochen: | Häufiger als 2 mal wöchentlich / 2 mal | Pflichtfeld; | Genau eine Angabe ist zulässig  1a  Pflichtfeld;    Ja / Nein  2b |
 | In den letzten 4 Wochen: | Ja / Nein | Pflichtfeld; | Genau eine Angabe ist zulässig |
 
-Nr. entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig.
+Nr. entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufigkeit von Asthma- Symptomen tagsüber Häufigkeit des Einsatzes der Bedarfsmedikation Einschränkung von Aktivitäten im Alltag wegen Asthma Asthmabedingte Störung des Nachtschlafes (mindestens alle 12 Monate) notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  wöchentlich / 1 mal wöchentlich / < 1 mal wöchentlich / Keine  Angabe numerisch mit drei Stellen vor und einer Stelle hinter dem Komma erfolgen Folgedokumentation auszufüllen ist zulässig. * Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Asthma bronchiale Version 2 letzte Bearbeitung: 03.07.2018
+
 
 ---
 
@@ -95,7 +98,10 @@ Nr. entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Häufig
 | Pflichtfeld; | Mindestens eine Angabe ist notwendig; | Mehrfachnennungen sind möglich | Bei Bedarf / Dauermedikation / Keine /  Mehrfachnennungen sind möglich |
 |  |  | - |  |
 
-Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist,
+* Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP Plausibilitätsprüfung Asthma bronchiale Version 2 letzte Bearbeitung: 0
+
+Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, kann nicht „Bei Bedarf“ und/oder „Dauermedikation“ angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Keine“ und/oder „Kontraindikation“ angekreuzt ist, -A-RL  3.07.2018
+
 
 ---
 
@@ -130,7 +136,8 @@ Nr. 2-Sympathomimetika  2-Sympathomimetika   wenn „Keine“ und/oder „Kontra
 | - |  |  | „Keine“ und „Kontraindikation“ können einzeln oder gemeinsam  7   Pflichtfeld; |
 | 8 | Inhalationstechnik überprüft | Ja / Nein | Pflichtfeld; |
 
-Nr. Medikation  Andere   (bei aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  letzter Dokumentation keine Schulung angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Nein“ angekreuzt ist, ist keine weitere Angabe möglich. „Leukotrien-Rezeptor-Antagonisten“ und „Andere“ können einzeln oder gemeinsam angekreuzt werden. Erstdokumentation auszufüllen ist.  zulässig. Folgedokumentation auszufüllen ist. zulässig.
+Nr. Medikation  Andere   (bei aktueller Dokumentation)  Einschreibung in DMP bereits wahrgenommen wahrgenommen  letzter Dokumentation keine Schulung angekreuzt werden, „Bei Bedarf“ und „Dauermedikation“ können einzeln oder gemeinsam angekreuzt werden. angekreuzt werden wenn „Nein“ angekreuzt ist, ist keine weitere Angabe möglich. „Leukotrien-Rezeptor-Antagonisten“ und „Andere“ können einzeln oder gemeinsam angekreuzt werden. Erstdokumentation auszufüllen ist.  zulässig. Folgedokumentation auszufüllen ist. zulässig. * Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Asthma bronchiale Version 2 letzte Bearbeitung: 03.07.2018
+
 
 ---
 
@@ -165,4 +172,4 @@ Nr. Medikation  Andere   (bei aktueller Dokumentation)  Einschreibung in DMP ber
 | 11a | Therapieanpassung | Keine / Steigerung der Medikation / | Pflichtfeld;  Mehrfachnennungen sind möglich  -  -  -  Wenn die Angabe „Steigerung der Medikation“ erfolgt ist, kann |
 |  |  |  |  |
 
-Nr. Selbstmanagementplan  Verbesserung der Anwendung der Medikation / Reduktion der Medikation Wenn die Angabe „Keine“ erfolgt ist, ist keine weitere Angabe zulässig. Die Angaben „Steigerung der Medikation“ und „Verbesserung der Anwendung der Medikation“ können einzeln oder gemeinsam erfolgen. Die Angaben „Reduktion der Medikation“ und „Verbesserung der Anwendung der Medikation“ können einzeln oder gemeinsam erfolgen. nicht gleichzeitig die Angabe „Reduktion der Medikation“ erfolgen.
+Nr. Selbstmanagementplan  Verbesserung der Anwendung der Medikation / Reduktion der Medikation Wenn die Angabe „Keine“ erfolgt ist, ist keine weitere Angabe zulässig. Die Angaben „Steigerung der Medikation“ und „Verbesserung der Anwendung der Medikation“ können einzeln oder gemeinsam erfolgen. Die Angaben „Reduktion der Medikation“ und „Verbesserung der Anwendung der Medikation“ können einzeln oder gemeinsam erfolgen. nicht gleichzeitig die Angabe „Reduktion der Medikation“ erfolgen. * Die Anlagenbezeichnung erfolgt analog zur Anlagennummerierung der DMP-A-RL  Plausibilitätsprüfung Asthma bronchiale Version 2 letzte Bearbeitung: 03.07.2018

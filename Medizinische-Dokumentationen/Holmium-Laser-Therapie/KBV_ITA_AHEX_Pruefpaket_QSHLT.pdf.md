@@ -13,6 +13,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHLT]
 
+Seite 1 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
+
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
@@ -45,6 +47,10 @@ INHALT
 
 **20**
 
+Seite 2 von 20 / KBV / Pruefpaket QS-Holmium-Laser-
+
+Therapie / Version: 1.07 / 12. August 2021
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 
 
 
@@ -58,6 +64,8 @@ Abbildung 2: Testdatenvalidierung 19
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 19
 
+Seite 3 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
+
 ---
 
 DOKUMENTENHISTORIE
@@ -68,8 +76,9 @@ DOKUMENTENHISTORIE
 | 1.06 | 12.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 5ff |
 | 1.05 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Layouts auf Zertifizierung des Prüfpaketes  Corporate Design Zertifizierungsportals Zertifizierungsrichtlinie 
+Seite 4 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
+Layouts auf Zertifizierung des Prüfpaketes  Corporate Design Zertifizierungsportals Zertifizierungsrichtlinie
 
 ---
 
@@ -100,6 +109,8 @@ Antragssteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen,
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 5 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
 ---
 
@@ -137,6 +148,7 @@ Es wird eine Archivdatei (*.zip.XKM), welche die einzelnen XML-Dateien im entspr
 
 - Videodateien und/oder Screenshots ausgewählter Anforderungen:
 
+Seite 6 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
 ---
 
@@ -162,12 +174,17 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
 
-Prüfstammdateien verwendet 1 Nummer des Prüffalls
+Prüfstammdateien verwendet
+
+________________
+
+1 Nummer des Prüffalls
 
 2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
 
+Seite 7 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
 ---
 
@@ -188,6 +205,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Zu verwendende Prüfnummer:** | Y/59/1407/36/000 |
 
 **Hinweis**: Zu den einzelnen Prüffällen ist ein Dokumentationsdatum angegeben. Bitte verstehen Sie dieses  Dokumentationsdatum auch als (Datei-) Erstellungs- und Einreichungsdatum und berücksichtigen Sie es  insbesondere entsprechend bei der Vergabe von Dateinamen. Dies ist wichtig, um bei der automatisierten  Verarbeitung der Prüfunterlagen die übermittelten Dateien den zugehörigen Prüffällen zuzuordnen.
+
+Seite 8 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
+
 
 ---
 
@@ -240,6 +260,8 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Prüfunterlagen** | Jahresstatistik |
 | **Hinweis** |  |
 
+Seite 9 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
+
 gemäß Tabelle 1 tlung an die Datenannahmestelle) PRÜFFÄLLE PRÜFFALL 1
 
 ---
@@ -285,6 +307,9 @@ gemäß Tabelle 1 tlung an die Datenannahmestelle) PRÜFFÄLLE PRÜFFALL 1
 | **Spontanmiktion** | |
 | Anzahl Entlassungen mit Spontanmiktion | 4 |
 
+Seite 10 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. Au
+
+gust 2021
 
 ---
 
@@ -337,7 +362,10 @@ gemäß Tabelle 1 tlung an die Datenannahmestelle) PRÜFFÄLLE PRÜFFALL 1
 | **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
 | **Hinweis** |  |
 
-Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Um die Plausibilitätsverstöße entsprechend darstellen zu können, sollten Sie die jeweils ausgewiesenen Wertkorrekturen an den Ursprungsdaten (Prüffall 1) zwischen den Konstellationen durchführen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2
+Seite 11 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
+
+Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Um die Plausibilitätsverstöße entsprechend darstellen zu können, sollten Sie die jeweils ausgewiesenen Wertkorrekturen an den Ursprungsdaten (Prüffall 1) zwischen den Konstellationen durchführen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 
+
 
 ---
 
@@ -387,6 +415,8 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | **OP-Indikationen** | |
 | Anzahl Eingriffe mit absoluter OP-Indikation | 1 |
 | Anzahl Eingriffe mit relativer OP-Indikation | 4 |
+
+Seite 12 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
 | WERTKORREKTUR | |
 |---|---|
@@ -441,6 +471,10 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | 10 – 15 ml/s | 1 |
 | Mehr als 15 ml/s | 9 |
 
+Seite 13 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie /
+
+Version: 1.07 / 12. August 2021
+
 ---
 
 | KONSTELLATION 7 | |
@@ -484,6 +518,9 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Einschwemmung | 9 |
 
+Seite 14 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. Au
+
+gust 2021
 
 ---
 
@@ -528,6 +565,8 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | Anzahl interventionspflichtige Nachblutungen mit Transfusion | 0 |
 | Andere | 2 |
 
+Seite 15 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
+
 ---
 
 | KONSTELLATION 14 | |
@@ -569,6 +608,9 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | 20 – 39,9 g | 1 |
 | 40 g und mehr | 0 |
 
+Seite 16 von 20 / KBV /
+
+Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
 ---
 
@@ -585,6 +627,10 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 |---|---|
 | **Spontanmiktion** | |
 | Anzahl Entlassungen mit Spontanmiktion | 22 |
+
+Seite 17 von 20 / KBV / Pruefpaket QS-Holmium-Laser-
+
+Therapie / Version: 1.07 / 12. August 2021
 
 ---
 
@@ -606,8 +652,9 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | 50 – 69 ml | 5 |
 | 70 und mehr ml | 5 |
 
-Jahres-statistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 19 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot) 
+Seite 18 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
+Jahres-statistik (zur Übermittlung an die Datenannahmestelle) mit den Änderungen der Konstellation 19 als Korrekturlieferung zur Jahresstatistik aus Prüffall 1. Jahresstatistik Es soll dabei auch erkennbar sein, dass dem Anwender der bereits exportierte Datensatz von der Software kenntlich gemacht wird (Screenshot)
 
 ---
 
@@ -622,6 +669,8 @@ Abbildung 2: Testdatenvalidierung
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+Seite 19 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
 ---
 
@@ -645,4 +694,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Testschlüssel XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 20 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
+
+Testschlüssel XML-Daten in der vertragsärztlichen Versorgung Qualitätssicherungsvereinbarung Kapselendoskopie

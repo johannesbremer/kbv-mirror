@@ -12,6 +12,8 @@
 
 ## [KBV_ITA_SIEX_ERLAUTERUNG_KV_FORMULARE]
 
+Seite 1 von 6 / KBV / Erläuterung der KV-Formulare / 3. Juni 2026
+
 ---
 
 **AUFFÜHRUNG DOKUMENTENSTATUS**
@@ -22,8 +24,9 @@
 | 1.01 | 13.02.2026 | KBV | Ergänzung eines neuen |  | 5 |
 | 1.00 | 14.11.2025 | KBV | Bereitstellung |  |  |
 
-regionalen Formularen der KV Thüringen regionalen Formulars der KV Bayerns 
+Seite 2 von 6 / KBV / Erläuterung der KV-Formulare / 3. Juni 2026
 
+regionalen Formularen der KV Thüringen regionalen Formulars der KV Bayerns
 
 ---
 
@@ -37,6 +40,8 @@ regionalen Formularen der KV Thüringen regionalen Formulars der KV Bayerns
 
 **5**
 
+Seite 3 von 6 / KBV / Erläuterung der KV-Formulare / 3. Juni 2026
+
 ---
 
 # 1 ALLGEMEIN
@@ -49,6 +54,8 @@ Bitte beachten sie, dass neben den in diesem Verzeichnis bereitgestellten region
 
 Bei Fragen zu den Formularen wenden sie sich bitte direkt an die jeweilige KV.
 
+Seite 4 von 6 / KBV / Erläuterung der KV-Formulare / 3. Juni 2026
+
 ---
 
 # 2 ÜBERSICHT DER
@@ -60,7 +67,13 @@ Bei Fragen zu den Formularen wenden sie sich bitte direkt an die jeweilige KV.
 | **KV Thüringen ** Rückfragen bitte an it- | Patientenfragebogen zum „Früherkennungsprogramm“ der HzV KV_Thueringen\EXT_ITA_Anlage_11b_Patientenfragebogen.pdf |
 | **KV Thüringen ** Rückfragen bitte an it- | Ergebnisbogen zum „Früherkennungsprogramm“ der HzV KV_Thueringen\EXT_ITA_Anlage_11c_Ergebnisbogen_für |
 
-arztpraxis@kvb.de arztpraxis@kvb.de arztpraxis@kvb.de arztpraxis@kvb.de Komplexleistungen gemäß Rahmenvertrag zur Früherkennung und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS) KV_Bayerns\EXT_ITA_FuB- Plan_Fruehfoerderung_(01.10.2025).pdf Behandlung von Kindern und Jugendlichen in interdisziplinär tätigen heilpädagogischen Fördereinrichtungen, um den Bedarf für medizinisch-therapeutische Leistungen festzulegen. THR (Anlage 11b) -THR (Anlage 11c) TN_Arzt.pdf # BEREITGESTELLTEN FORMULARE
+Seite 5 von 6 / KBV / Erläuterung der KV-
+
+# BEREITGESTELLTEN FORMULARE
+
+Formulare / 3. Juni 2026
+
+arztpraxis@kvb.de arztpraxis@kvb.de arztpraxis@kvb.de arztpraxis@kvb.de Komplexleistungen gemäß Rahmenvertrag zur Früherkennung und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS) KV_Bayerns\EXT_ITA_FuB- Plan_Fruehfoerderung_(01.10.2025).pdf Behandlung von Kindern und Jugendlichen in interdisziplinär tätigen heilpädagogischen Fördereinrichtungen, um den Bedarf für medizinisch-therapeutische Leistungen festzulegen. THR (Anlage 11b) -THR (Anlage 11c) TN_Arzt.pdf 
 
 
 ---
@@ -72,3 +85,7 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 [Tel.: 030 4005-2077,](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[](mailto:ita@kbv.de)
 
 [Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de) Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 6 von 6 / KBV / Erläuterung der KV-Formulare /
+
+3. Juni 2026

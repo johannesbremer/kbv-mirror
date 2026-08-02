@@ -21,6 +21,12 @@ AM 18. SEPTEMBER 2025
 
 # - ÜBERBLICK EUROPA EHDS
 
+**INTEROPERABILITÄT**
+
+SEITE 2
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -33,6 +39,12 @@ AM 18. SEPTEMBER 2025
 # - ARBEITSKREIS KERNPROFILE
 
 # - ÜBERBLICK EUROPA EHDS
+
+**INTEROPERABILITÄT**
+
+SEITE 3
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -60,6 +72,12 @@ AM 18. SEPTEMBER 2025
 
 - **SCHLÜSSELTABELLEN AUF SIMPILIFER**
 
+**INTEROPERABILITÄT**
+
+SEITE 4
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -72,6 +90,12 @@ AM 18. SEPTEMBER 2025
 # - ARBEITSKREIS KERNPROFILE
 
 # - ÜBERBLICK EUROPA EHDS
+
+**INTEROPERABILITÄT**
+
+SEITE 5
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -100,6 +124,12 @@ AM 18. SEPTEMBER 2025
 
 - **KBV.BASIS**
 
+**INTEROPERABILITÄT**
+
+SEITE 6
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -112,6 +142,12 @@ AM 18. SEPTEMBER 2025
 # - ARBEITSKREIS KERNPROFILE
 
 # - ÜBERBLICK EUROPA EHDS
+
+**INTEROPERABILITÄT**
+
+SEITE 7
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -141,6 +177,12 @@ AM 18. SEPTEMBER 2025
 - Alle Anforderungen bzgl. der KBV-Zertifizierung wurden aus den Dokumenten entfernt.
 - **VERORDNUNGSSOFTWARESCHNITTSTELLE**
 
+**INTEROPERABILITÄT**
+
+SEITE 8
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -158,6 +200,12 @@ Einvernehmen KIG,  Benehmensherstellung
 
 Umsetzung Mitte März 2026- Vorstandsbeschluss Januar - Dezember - Januar 01.10.2026  März
 
+**INTEROPERABILITÄT**
+
+SEITE 9
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -170,6 +218,12 @@ Umsetzung Mitte März 2026- Vorstandsbeschluss Januar - Dezember - Januar 01.10.
 # - ARBEITSKREIS KERNPROFILE
 
 # - ÜBERBLICK EUROPA EHDS
+
+**INTEROPERABILITÄT**
+
+SEITE 10
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -193,6 +247,12 @@ Umsetzung Mitte März 2026- Vorstandsbeschluss Januar - Dezember - Januar 01.10.
 ## - Datenelemente sicherstellen.
 
 - **ARBEITSKREIS KERNPROFILE**
+
+**INTEROPERABILITÄT**
+
+SEITE 11
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -223,6 +283,12 @@ Umsetzung Mitte März 2026- Vorstandsbeschluss Januar - Dezember - Januar 01.10.
 
 - **ARBEITSKREIS KERNPROFILE**
 
+**INTEROPERABILITÄT**
+
+SEITE 12
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -235,6 +301,12 @@ Umsetzung Mitte März 2026- Vorstandsbeschluss Januar - Dezember - Januar 01.10.
 # - ARBEITSKREIS KERNPROFILE
 
 # - ÜBERBLICK EUROPA EHDS
+
+**INTEROPERABILITÄT**
+
+SEITE 13
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -260,6 +332,12 @@ Technical Requirements for Electronic Health Record (EHR) systems and key system
 - Kommentierung abgeschlossen
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 14
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -279,6 +357,12 @@ functional and technical requirements and specifications for EHR systems
 
 - Kommentierung abgeschlossen
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 15
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -302,6 +386,12 @@ functional and technical requirements and specifications for EHR systems
 - Kommentierung beendet
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 16
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -320,6 +410,12 @@ functional and technical requirements and specifications for EHR systems
 
 - Kommentierung beendet
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 17
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -343,6 +439,12 @@ functional and technical requirements and specifications for EHR systems
 
 - Kommentierung abgeschlossen
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 18
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -381,6 +483,12 @@ Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -
 
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 19
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -405,6 +513,12 @@ Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -
 - Das System muss die Korrektur von Fehlern in aufgezeichneten oder gespeicherten  elektronischen personenbezogenen Gesundheitsdaten im EHR-System ermöglichen. Eine  solche Korrektur darf nur von einer ordnungsgemäß autorisierten Person vorgenommen  werden und muss protokolliert werden.
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 20
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -423,6 +537,12 @@ WP 5.1 - **Allgemeine Anforderungen** - Beispiele für verpflichtende Anforderun
 ## - noch ihre Leistungsfähigkeit einbüßen.
 
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 21
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -449,6 +569,12 @@ WP 5.1 - **Allgemeine Anforderungen** - Beispiele für verpflichtende Anforderun
 
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 22
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -460,6 +586,12 @@ WP 5.1 - **Interoperabilitätsanforderungen** - Beispiele für verpflichtende An
 - Das EHR-System muss HL7 FHIR und DICOM/DICOMweb sowie anerkannte Terminologien für  den strukturierten Datenaustausch der priorisierten Datenkategorien übernehmen, um sich  an den EEHRxF (…) anzupassen.
 - Ermöglicht natürlichen Personen, Informationen in ihre elektronische Gesundheitsakte  einzufügen. Die eingefügten Informationen müssen von den elektronischen  Gesundheitsdaten getrennt werden, die von Angehörigen der Gesundheitsberufe erstellt und  eingefügt wurden (EHDS, Artikel 5)
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 23
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -485,6 +617,12 @@ Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -
 ## - Gesundheitsberufe anerkannt sind (siehe EHDS Art. 12).
 
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 24
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -515,6 +653,12 @@ ii. Breaking the glass: Wenn ein „Breaking the glass”-Szenario eingetreten i
 
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 25
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -532,29 +676,11 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
 
----
+SEITE 26
 
-## Überblick Europa EHDS
-
-## WP 5.2
-
-## - Technische Anforderungen für EEHRxF-Metadaten
-
-## - Metadaten-Framework zur Unterstützung des European Electronic Health
-
-## - Format (EEHRxF)
-
-## - Record Exchange
-
-## - Ziele:
-
-- Auffindbarkeit
-- Interoperabilität
-- Zugangskontrolle
-- Wiederverwendbarkeit
-- Überwachung der Einhaltung von Vorschriften
-- **ÜBERBLICK EUROPA EHDS**
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -579,6 +705,42 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 - Wiederverwendbarkeit
 - Überwachung der Einhaltung von Vorschriften
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 27
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+
+---
+
+## Überblick Europa EHDS
+
+## WP 5.2
+
+## - Technische Anforderungen für EEHRxF-Metadaten
+
+## - Metadaten-Framework zur Unterstützung des European Electronic Health
+
+## - Format (EEHRxF)
+
+## - Record Exchange
+
+## - Ziele:
+
+- Auffindbarkeit
+- Interoperabilität
+- Zugangskontrolle
+- Wiederverwendbarkeit
+- Überwachung der Einhaltung von Vorschriften
+- **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 28
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -607,6 +769,12 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 29
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -633,6 +801,12 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 - Dokumentenklassifizierungsschemata (z. B. FHIR DocumentReference
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 30
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -650,6 +824,12 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 
 - Verknüpfung mit Terminologien und Codesystemen (z. B. SNOMED CT, LOINC)
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 31
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -673,6 +853,12 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 
 - **ÜBERBLICK EUROPA EHDS**
 
+**INTEROPERABILITÄT**
+
+SEITE 32
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -694,6 +880,12 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 
 - Kontextuelle Beziehungen (z. B. Eltern-Kind-Dokumentenbeziehungen)
 - **ÜBERBLICK EUROPA EHDS**
+
+**INTEROPERABILITÄT**
+
+SEITE 33
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---

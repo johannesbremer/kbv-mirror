@@ -12,6 +12,8 @@ Version 8.0
 
 Anzuwenden ab:   01.10.2026
 
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 1
+
 
 ---
 
@@ -48,6 +50,8 @@ Sofern Sie die eGFR bestimmt haben, geben Sie den ganzzahligen Wert bitte ohne  
 Bei Patientinnen und Patienten mit Diabetes mellitus Typ 1 soll spätestens nach fünf Jahren  Diabetesdauer, bei Patientinnen und Patienten mit Diabetes mellitus Typ 2 unabhängig von der  Diabetesdauer, regelmäßig mindestens einmal jährlich eine Inspektion und Palpation beider Füße  hinsichtlich Hautstatus, Muskelatrophie, Deformitäten, und Temperatur sowie die Untersuchung des  Schuhwerks erfolgen. Es soll auch nach Hyperkeratosen, Mykosen und Fußdeformitäten gesucht  werden.
 
 Die jeweiligen Angaben zu den Fragekomplexen „Pulsstatus“, „Sensibilitätsprüfung“, „Weiteres  Risiko für Ulkus“, „Ulkus“ und „(Wund)Infektion“ sind nur dann **verpflichtend**, wenn Ihre Patientin  oder Ihr Patient **das 18. Lebensjahr vollendet** hat. Bei **jüngeren Patienteninnen und Patienten**  sind die Angaben **optional**
+
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 2
 
 
 ---
@@ -103,6 +107,8 @@ haben,
 
 Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet haben** an, ob ein weiteres Risiko für die Entstehung eines Ulkus besteht. Hierzu zählen die Fußdeformität,
 
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 3
+
 
 ---
 
@@ -146,6 +152,8 @@ Geben Sie bitte an, ob die Insulin-Injektionsstellen „Auffällig oder „Unauf
 
 Sollten Sie die Injektionsstellen nicht untersucht haben, geben Sie bitte Nicht untersucht“ an.
 
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 4
+
 
 ---
 
@@ -185,6 +193,8 @@ Eine Angabe ist erforderlich. Mehrfachnennungen sind dabei möglich.
 
 Bitte geben Sie an, ob bei Ihrer Patientin oder Ihrem Patienten eines der aufgeführten Ereignisse  eingetreten ist.
 
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
+
 haben,
 
 pektion „Jährlich“, „alle sechs Monate“
@@ -193,8 +203,9 @@ Ihrem Patienten eine oder mehrere
 
 - Nierenschädigung mit pathologischer
 - Polyneuropathie und/oder autonome
+- nachgewiesene nicht proliferative oder
 
-Verschlusskrankheit und/oder Risiken wie Fußdeformitäten (ggf. infolge Osteoarthropathie), Hyperkeratose mit Einblutung, Z. n. Ulkus, Z. n. Amputation - nachgewiesene nicht proliferative oder
+Verschlusskrankheit und/oder Risiken wie Fußdeformitäten (ggf. infolge Osteoarthropathie), Hyperkeratose mit Einblutung, Z. n. Ulkus, Z. n. Amputation 5
 
 
 ---
@@ -226,6 +237,8 @@ Sollte seit der letzten Dokumentation kein solches Ereignis vorgekommen sein, ge
 Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** möglich und ist hier  verpflichtend.
 
 Geben Sie bitte die Anzahl aller notfallmäßigen vollstationären Aufenthalte an, die seit der letzten  Dokumentation aufgrund eines Diabetes mellitus (Typ 1 oder Typ 2) notwendig wurden. Sollte seit  der letzten Dokumentation keine solche Behandlung notwendig gewesen sein, geben Sie bitte die  Zahl „0“ an
+
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 6
 
 
 ---
@@ -264,6 +277,8 @@ Metformin als Monotherapie ist Mittel der ersten Wahl bei den zu verordnenden An
 
 Nicht dazu zählen SGLT2-Inhibitor und GLP-1-Rezeptoragonist. Diese werden gesondert erfragt.
 
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
+
 Sie bei einem „Nein“ - wo
 
 Sonstige antidiabetische
@@ -276,7 +291,7 @@ zusätzlich zur Standardtherapie, eine
 
 Nein“
 
-**Diabetes mellitus Typ 2** möglich und
+**Diabetes mellitus Typ 2** möglich und 7
 
 
 ---
@@ -313,6 +328,8 @@ Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
 - a) akkreditierte und für das DMP zugelassene Schulungen, sowie
 
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
+
 , geben Sie bitte „
 
 **Diabetes mellitus Typ 2**
@@ -337,7 +354,7 @@ die Nicht-Verordnung
 
 die Gabe eines
 
-möglich und ist hier
+möglich und ist hier 8
 
 
 ---
@@ -369,6 +386,8 @@ Hat Ihre Patientin oder Ihr Patient seit der letzten Dokumentation an einer Schu
 War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus  nachvollziehbaren Gründen nicht möglich, geben Sie hier bitte „War aktuell nicht möglich“ an.  Solche Gründe können z. B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin  oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind,  obliegt alleine Ihnen und Ihrer Patientin bzw. Ihrem Patienten.
 
 Sollte Sie Ihrer Patientin oder Ihrem Patienten bei der vorherigen Dokumentation mindestens eine  Schulung empfohlen haben, aber Ihre Patientin oder Ihr Patient die empfohlene Schulung ohne  einen für Sie nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „Nein“ an. Bitte  beachten Sie: Diese Angabe kann bei wiederholter Angabe zum Ausschluss des Versicherten aus  dem Programm führen!
+
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 9
 
 
 ---
@@ -405,6 +424,8 @@ Die Angabe „Ja“ soll erfolgen, wenn eine Behandlung in einer für das Diabet
 
 Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte mit „Veranlasst“
 
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
+
 „Bei
 
 nur im Rahmen einer
@@ -413,7 +434,11 @@ nur im Rahmen einer
 
 an.
 
+10
+
 
 ---
 
 Sollte keine Behandlung in einer für das Diabetische Fußsyndrom qualifizierte Einrichtung erfolgen,  geben Sie dies bitte mit „Nein“ an
+
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 11

@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EARZTBRIEF]
 
+Seite 1 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -27,6 +29,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 2.1 Voraussetzungen  2.2 Versand eines eArztbriefes  2.2.1 Versand eines eArztbriefes ohne automatische Abrechnung  2.2.2 Versand eines eArztbriefes mit automatischer Abrechnung  2.3 Empfang eines eArztbriefes  2.3.2 Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt Patientenkontakt im aktuellen Quartal  2.3.3 Empfang eines eArztbriefes bei einem unbekannten Patienten  2.3.4 Erweiterung Prüffall 5: Patient erscheint im laufenden Quartal  2.4 Nachweis KIM, Audit und Interoperabilitätsworkshop  2.5 Interoperabilitätsprüfung [optional]
 
 **3 REFERENZIERTE DOKUMENTE**
+
+Seite 2 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 **4** 4 4 5 5 5 7 **8** 8 8 8 9 10 11 12 12 13 13 **15**
 
@@ -49,8 +53,9 @@ DOKUMENTENHISTORIE
 | 1.20 | 14.12.2017 | KBV | Anpassung der einzureichenden | Anpassung der  redaktionelle | 9 |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
 
-ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen Prüfpakets Prüfpakets Zertifizierung Prüfunterlagen von PF02  Prüfpakets Audit, IOWS Workshop kv.digital 11, Anforderung P43-03 Kommunikationsdienstes der gematik (KIM) Anforderungen P44-03, P44-04 und P44-05 Zertifizierungsportales  Anforderung P50-01 Änderungen Zertifizierungsrichtlinie 
+Seite 3 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
+ZIP-Archiv Anpassung Prüffall 08 03, Fehlerkorrektur Prüffall 08 aufgenommen Prüfpakets Prüfpakets Zertifizierung Prüfunterlagen von PF02  Prüfpakets Audit, IOWS Workshop kv.digital 11, Anforderung P43-03 Kommunikationsdienstes der gematik (KIM) Anforderungen P44-03, P44-04 und P44-05 Zertifizierungsportales  Anforderung P50-01 Änderungen Zertifizierungsrichtlinie
 
 ---
 
@@ -81,6 +86,8 @@ Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 4 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 ---
 
@@ -121,8 +128,9 @@ Die Teile der eArztbrief-Lieferung sind im entsprechenden Dateiformat zu exporti
 - <PrüffallNr.>1 .pdf  z.B. **PF01.pdf**
 - <PrüffallNr.> .xml  z.B. **PF01.xml**
 
-1 Nr. des Prüffalls
+________________  1 Nr. des Prüffalls
 
+Seite 5 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 ---
 
@@ -136,9 +144,11 @@ Die Struktur des zip- Archives sollte die folgende Form aufweisen.  **und Nummer
 
 **Abbildung 1: Beispiel Struktur des zip-Archives.**
 
-2 Laufende Nr.
+________________  2 Laufende Nr.
 
-3 Gängiges Bild- bzw. Videoformat -Archiv zu
+3 Gängiges Bild- bzw. Videoformat
+
+Seite 6 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024 -Archiv zu
 
 **Dabei ist zu beachten, dass die Anzahl**
 
@@ -168,6 +178,10 @@ Die Archivdatei (VSD_5.2.0_Testfaelle_Vn.n4.zip) enthält für sämtliche Prüff
 Diese Dateien müssen von Ihrem PVS-System „eingelesen“ und unter Berücksichtigung der Vorgaben der  Mappingtabelle [KVK-eGK KBV_ITA_VGEX_Mapping_KVK.pdf] weiterverarbeitet werden.
 
 Für die nachfolgenden Prüffälle werden folgende Patienten benötigt:
+
+________________
+
+Seite 7 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 ---
 
@@ -201,7 +215,11 @@ Mit den folgenden Prüffällen wird der Versand im Rahmen der Zertifizierung beu
 - a) Auswahl Erstellung des eArztbriefes
 - b) Erfassung, Übernahme oder Einfügen der medizinischen Dokumentationen
 - c) Erstellung der qualifizierten, elektronischen Signatur
-1. Der Anwender erstellt einen eArztbrief. Dieser soll auch medizinische Dokumentationen (Anamnese, Befunde, Diagnosen) enthalten.  2. Der Anwender versendet den eArztbrief. 3. Der Anwender lehnt die automatische Abrechnung ab. 4. Der Anwender ändert seine vorherige Entscheidung zur automatischen Abrechnung. 1. Videodatei über den Ablauf. Es müssen enthalten sein: Prüfunterlagen - d)  Versand des eArztbriefes
+- d)  Versand des eArztbriefes
+
+Seite 8 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
+
+1. Der Anwender erstellt einen eArztbrief. Dieser soll auch medizinische Dokumentationen (Anamnese, Befunde, Diagnosen) enthalten.  2. Der Anwender versendet den eArztbrief. 3. Der Anwender lehnt die automatische Abrechnung ab. 4. Der Anwender ändert seine vorherige Entscheidung zur automatischen Abrechnung. 1. Videodatei über den Ablauf. Es müssen enthalten sein: Prüfunterlagen 
 
 
 ---
@@ -226,6 +244,8 @@ Mit den folgenden Prüffällen wird der Versand im Rahmen der Zertifizierung beu
 
 **Tabelle 2: Prüffalltabelle**
 
+Seite 9 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
+
 **Versand eines eArztbriefes ohne automatische Abrechnung**
 
 **Versand eines eArztbriefes mit automatischer Abrechnung**
@@ -247,7 +267,11 @@ e) Hinweisdialog bzgl. der automatischen Abrechnung 2. PDF/A  , XML  Dokument de
 
 Mit den folgenden Prüffällen wird der Empfang im Rahmen der Zertifizierung beurteilt. Die Prüffälle sind so  aufzubereiten, dass die notwendigen Informationen enthalten sind, um einen nach den Anforderungen  syntaktisch und semantisch korrekten eArztbrief zu empfangen.
 
-Adressänderung: Siegberger Str. statt Siegburger Str. Namensänderung: Schaumburg statt Schaumberg Änderung der Versicherten_ID S040464773 statt S040464113 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des Intervalls). 2. Nach dem Aufzeigen einer Abweichung bestätigt der Anwender die manuelle Zuordnung. 3. Der Anwender stimmt der automatischen Abrechnung zu. 1. Videodatei über den Ablauf. Es muss enthalten sein: Anzeige, ob ein eArztbrief vorhanden ist Das Abrufen des eArztbriefes Die Zuordnung des eArztbriefes zu einer Patientenakte 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung 3. Screenshot der Patientenstammdaten vor der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 4. Screenshot der Patientenstammdaten nach der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 5. Screenshot der Patientenakte vor der eArztbrief-Lieferung 6. Screenshot der Patientenakte nach der eArztbrief-Lieferung 7. Screenshot: Inhalt der qualifizierten, elektronischen Signatur 8. Screenshot: Bestätigung der automatisch abgerechneten Kostenpauschalen unmittelbar fallbezogen bei Empfang der eArztbrief-Lieferung (Optional falls die Bestätigung erst bei der Abrechnung bestätigt wird) Lieferung zum Patienten „Karl Friederich Schaumberg“ (XML Verzeichnisname: XML_01) im Original (wie in den XML-Dateien vorgegeben) Der Patient „Karl-Friederich Schaumberg“ war im laufenden Quartal, vor Empfang der eArztbrief Lieferung, in der Praxis (Arzt-Patienten-Kontakt). Friederich Schaumberg“ mit folgenden Änderungen im eArztbrief:  Prüfunterlagen Lieferung gemäß der unter „Voraussetzung“ genannten Vorgaben unterscheiden.Empfang eines eArztbriefes mit automatischer Abrechnung
+Empfang eines eArztbriefes mit automatischer Abrechnung
+
+Seite 10 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
+
+Adressänderung: Siegberger Str. statt Siegburger Str. Namensänderung: Schaumburg statt Schaumberg Änderung der Versicherten_ID S040464773 statt S040464113 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des Intervalls). 2. Nach dem Aufzeigen einer Abweichung bestätigt der Anwender die manuelle Zuordnung. 3. Der Anwender stimmt der automatischen Abrechnung zu. 1. Videodatei über den Ablauf. Es muss enthalten sein: Anzeige, ob ein eArztbrief vorhanden ist Das Abrufen des eArztbriefes Die Zuordnung des eArztbriefes zu einer Patientenakte 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung 3. Screenshot der Patientenstammdaten vor der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 4. Screenshot der Patientenstammdaten nach der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 5. Screenshot der Patientenakte vor der eArztbrief-Lieferung 6. Screenshot der Patientenakte nach der eArztbrief-Lieferung 7. Screenshot: Inhalt der qualifizierten, elektronischen Signatur 8. Screenshot: Bestätigung der automatisch abgerechneten Kostenpauschalen unmittelbar fallbezogen bei Empfang der eArztbrief-Lieferung (Optional falls die Bestätigung erst bei der Abrechnung bestätigt wird) Lieferung zum Patienten „Karl Friederich Schaumberg“ (XML Verzeichnisname: XML_01) im Original (wie in den XML-Dateien vorgegeben) Der Patient „Karl-Friederich Schaumberg“ war im laufenden Quartal, vor Empfang der eArztbrief Lieferung, in der Praxis (Arzt-Patienten-Kontakt). Friederich Schaumberg“ mit folgenden Änderungen im eArztbrief:  Prüfunterlagen Lieferung gemäß der unter „Voraussetzung“ genannten Vorgaben unterscheiden.
 
 
 ---
@@ -266,6 +290,8 @@ Adressänderung: Siegberger Str. statt Siegburger Str. Namensänderung: Schaumbu
 ### 2.3.2 Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt-Patientenkontakt im  aktuellen Quartal
 
 **Tabelle 4: Prüffalltabelle  Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt-Patientenkontakt im aktuellen Quartal**
+
+Seite 11 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des Intervalls). 2. Nach dem Aufzeigen einer Abweichung bestätigt der Anwender die manuelle Zuordnung. 3. Anlage eines Scheins mit beliebiger Satzart und Scheinuntergruppe.  1. Videodatei über den Ablauf. Es muss enthalten sein: Anzeige, ob ein eArztbrief vorhanden ist Das Abrufen des eArztbriefes Die Zuordnung des eArztbriefes zu einer Patientenakte Aktualisierung der Patientendaten 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung 3. Screenshot der Patientenstammdaten vor der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 4. Screenshot der Patientenstammdaten nach der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 5. Screenshot der Patientenakte vor der eArztbrief-Lieferung 6. Screenshot der Patientenakte nach der eArztbrief-Lieferung 7. Screenshot: Bestätigung der automatisch abgerechneten Kostenpauschalen unmittelbar fallbezogen bei Empfang der eArztbrief-Lieferung (Optional falls die Bestätigung erst bei der Abrechnung bestätigt wird) Patientenkontakt im aktuellen Quartal angelegt.  Lieferung zur Patientin „Brigitte Neuhaus“ (XML_06) im Original (wie in den XML-Dateien vorgegeben) Prüfunterlagen Lieferung gemäß der unter „Voraussetzung“ genannten Vorgaben unterscheiden.
 
@@ -295,6 +321,8 @@ Adressänderung: Siegberger Str. statt Siegburger Str. Namensänderung: Schaumbu
 | **Einzureichende** |  |
 
 **Tabelle 6: Prüffalltabelle**
+
+Seite 12 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 - Anzeige, ob ein eArztbrief vorhanden ist
 - Das Abrufen des eArztbriefes
@@ -331,13 +359,16 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 | **Voraussetzung** | Dieser Prüffall ist nur durchzuführen, wenn    Für die Interoperabilitätsprüfung wird von der kv.digital GmbH ein Test- und  Im Backend steht für die KIM-Anwendung eArztbrief V1.2 ein entsprechender    Das Backend ist nur über die Referenzumgebung (RU) der Telematikinfrastruktur (TI)    Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI lautet:  **kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik-test** |
 | **Aktion** |  |
 
+Seite 13 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
+
 - 2. Bitte fügen Sie den Nachweis zum Bestehen des Audits eArztbrief der kv.digital als  PDF-Datei Ihren Prüfunterlagen bei.
 - 3. Bitte fügen Sie die Teilnahmebestätigung des Interoperabilitätsworkshops der  kv.digital als PDF-Datei Ihren Prüfunterlagen bei.
 
 **Einreichung KIM Bestätigungsschreiben der gematik**
 
-Prüfunterlagen [optional] und des Interoperabilitätsworkshops der kv.digital [optional]. 1. Bitte fügen Sie das Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  als pdf Ihren Prüfunterlagen bei. nicht  in Prüffall 07 die Teilnahmebestätigung an einem Interoperabilitätsworkshops der kv.digital übermittelt wurde. Zertifizierung-Backend (Backend) zur Verfügung gestellt. Prüfclient bereit, der die empfangenen eArztbrief-Lieferungen insbesondere auf die Einhaltung der Anforderung P43-03  überprüft. Die Ergebnisse der Prüfung werden in Prüfprotokollen dokumentiert und den Absender (Software-Systemen) zur Verfügung gestellt. Wurden bei der Prüfung keine Fehler festgestellt, wird vom Backend ein Test-eArztbrief zurückgesendet. zu erreichen. - 1. Der Anwender erstellt und versendet einen eArztbrief an das Backend (z.B. für  „Brigitte Neuhaus“ (XML_06)
+- 1. Der Anwender erstellt und versendet einen eArztbrief an das Backend (z.B. für  „Brigitte Neuhaus“ (XML_06)
 
+Prüfunterlagen [optional] und des Interoperabilitätsworkshops der kv.digital [optional]. 1. Bitte fügen Sie das Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  als pdf Ihren Prüfunterlagen bei. nicht  in Prüffall 07 die Teilnahmebestätigung an einem Interoperabilitätsworkshops der kv.digital übermittelt wurde. Zertifizierung-Backend (Backend) zur Verfügung gestellt. Prüfclient bereit, der die empfangenen eArztbrief-Lieferungen insbesondere auf die Einhaltung der Anforderung P43-03  überprüft. Die Ergebnisse der Prüfung werden in Prüfprotokollen dokumentiert und den Absender (Software-Systemen) zur Verfügung gestellt. Wurden bei der Prüfung keine Fehler festgestellt, wird vom Backend ein Test-eArztbrief zurückgesendet. zu erreichen.
 
 ---
 
@@ -355,6 +386,8 @@ Unabhängig von der Zertifizierung steht das Backend der kv.digital für Validie
 Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI lautet:
 
 **[kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik](mailto:kv.digital-eArztbrief-V1.2@kv.digital.kim.telematik)-test**
+
+Seite 14 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 - Anzeige, ob ein eArztbrief vorhanden ist
 - Das Abrufen des eArztbriefes
@@ -383,4 +416,10 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Primärsystems zur Konnektorschnittstelle Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 15 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 /
+
+15. November 2024
+
+Primärsystems zur Konnektorschnittstelle 

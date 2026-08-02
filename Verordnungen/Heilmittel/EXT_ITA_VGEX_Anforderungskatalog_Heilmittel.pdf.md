@@ -14,6 +14,8 @@ schließen als Anlage 29 zum Bundesmantelvertrag-Ärzte (BMV-Ä) den nachstehend
 
 **vom 15. Januar 2020***
 
+*Inkrafttreten: 01.07.2020
+
 
 ---
 
@@ -39,10 +41,14 @@ Die Version 2.7 ist zum 01.10.2024 umzusetzen.
 | 2.6 | 23.03.2023 | KBV/GKV-SV | P3-07, P3-11 | Erweiterung der | 21, 33 |
 | 2.7 | 18.04.2024 | KBV/GKV-SV | P3-21 | Änderung der Heilmittel- | 27 |
 
-Anforderungskatalogs nach § 73 SGB V für die Verordnung von Richtlinie des G-BA mit Beschlussfassung vom 19.09.2019 und Konkretisierung der Anforderungen Anforderungen Unterschriftenverfahrens Anforderungen, neue Anforderung Richtlinie des G-BA mit Beschlussfassung vom 17.02.2022 Anforderungen Richtlinie des G-BA mit Beschlussfassung vom 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Anforderungskatalogs nach § 73 SGB V für die Verordnung von Richtlinie des G-BA mit Beschlussfassung vom 19.09.2019 und Konkretisierung der Anforderungen Anforderungen Unterschriftenverfahrens Anforderungen, neue Anforderung Richtlinie des G-BA mit Beschlussfassung vom 17.02.2022 Anforderungen Richtlinie des G-BA mit Beschlussfassung vom Seite 2
 
 
 ---
+
+### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 # Inhaltsverzeichnis
 
@@ -84,10 +90,12 @@ Anforderungskatalogs nach § 73 SGB V für die Verordnung von Richtlinie des G-B
 5. Glossar 51
 6. Referenzierte Dokumente 53
 
-Allgemeine Anforderungen an die Software 
+Allgemeine Anforderungen an die Software Seite 3
 
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 # 1. Allgemeines
 
@@ -121,10 +129,16 @@ Bei den **optionalen Funktionen** handelt es sich um Anforderungen, die umgesetz
 |---|---|
 | **O4-20** | **Funktionsbezeichnung** |
 
+#### (Anlage 29 BMV-Ä)
+
 differenziert zwischen Pflichtfunktionen, konditionalen
+
+Seite 4
 
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 **1.3** **Allgemeine Anforderungen an die Software**
 
@@ -169,6 +183,8 @@ Der zeitliche und bürokratische Aufwand für den Anwender im Zusammenhang mit d
 
 Es muss sichergestellt sein, dass der Anwender die Funktionalitäten der Software zur Verordnung von  Heilmitteln auch bei Werbeeinblendungen uneingeschränkt nutzen kann.
 
+Seite 5
+
 
 ---
 
@@ -181,8 +197,14 @@ Der Anwender darf durch das Einblenden von Werbeinhalten nicht beeinträchtigt w
 - (1) Werbeeinblendungen dürfen den Workflow der Verordnung nicht unterbrechen.
 - (2) Für Werbung, die sich auf Arzneimittel bezieht, gilt der Anforderungskatalog  [EXT_ITA_VGEX_Anforderungskatalog_AVWG] gemäß Anlage 23 BMV-Ä in seiner stets gültigen  Version.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 6
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 # 2. Einzubindende Stammdateien
 
@@ -216,6 +238,9 @@ Die Anzeige zum Stand der eingebundenen Stammdatei kann darüber realisiert werd
 
 Diese Anforderung definiert nicht, dass Softwaresysteme zwingend mit dem Format der bereitgestellten  Datei arbeiten müssen. Die Daten der Datei können in ein anderes Format überführt werden z. B. in Form  von Datenbanken.
 
+Seite 7
+
+
 ---
 
 | PFLICHTFUNKTION | |
@@ -233,7 +258,14 @@ Dem Anwender muss die Möglichkeit gegeben werden, jederzeit auf alle Informatio
 - (1) In der Software muss die stets aktuelle Heilmittel-Richtlinie des G-BA [HeilM-RL] (inklusive Anlagen)  in Form einer PDF-Datei hinterlegt sein.
 - (2) Ein Link auf die Internetseiten des G-BA ist nicht ausreichend.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 8
+
+
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 ## 2.2 ICD-10-GM-Stammdatei der KBV
 
@@ -261,7 +293,12 @@ Die Anzeige zum Stand der eingebundenen Stammdatei kann darüber realisiert werd
 
 Diese Anforderung definiert nicht, dass Softwaresysteme zwingend mit der Struktur der bereitgestellten  Datei arbeiten müssen. Die Daten der Datei können in ein anderes Format überführt werden z. B. in Form  von Datenbanken.
 
+Seite 9
+
+
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 ## 2.3 BVB-/LHM- Stammdatei
 
@@ -291,8 +328,12 @@ Gemäß § 73 Abs. 10 Satz 1 SGB V hat die Software neben den Informationen der 
 
 Die Anzeige zum Stand der eingebundenen Stammdatei kann darüber realisiert werden, dass dem  Anwender der Name der Datei oder die Gültigkeitsangaben der Datei (SDHMA XML Element  //ehd/header/service_tmr/@V) angezeigt werden, aus welcher die verwendeten Daten bezogen werden.
 
+Seite 10
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 Diese Anforderung definiert nicht, dass Softwaresysteme zwingend mit der Struktur der bereitgestellten  Datei arbeiten müssen. Die Daten der Datei können in ein anderes Format überführt werden z. B. in Form  von Datenbanken.
 
@@ -314,12 +355,18 @@ der Anlage 2  ärztlich
 
 - (1) Dem Anwender muss die Möglichkeit gegeben werden, sich in der Software die jeweils aktuelle  Version des Anhang 1 der Anlage 2 der Rahmenvorgaben nach § 106b Abs. 2 SGB V für die  Wirtschaftlichkeitsprüfung ärztlich  Verordnungsbedarfe) [Heilmittel_Anhang_1] anzeigen zu lassen.
 
+#### (Anlage 29 BMV-Ä)
+
 der Rahmenvorgaben nach 106b Abs. 2 SGB V für die  verordneter Leistungen (Diagnoseliste über besondere
 
 - verordneter Leistungen (Diagnoseliste über besondere
 
+Seite 11
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 ## 2.4 Blanko-Verordnungs-Stammdatei
 
@@ -351,6 +398,8 @@ Die Anzeige zum Stand der eingebundenen Stammdatei kann darüber realisiert werd
 -  Version gültig zum 2. Quartal des Jahres: Veröffentlichung bis 15. Februar des Jahres
 -  Version gültig zum 3. Quartal des Jahres: Veröffentlichung bis 15. Mai des Jahres
 -  Version gültig zum 4. Quartal des Jahres: Veröffentlichung bis 15. August des Jahres
+
+Seite 12
 
 
 ---
@@ -392,6 +441,10 @@ Der Anwender muss die Möglichkeit haben, individuelle Genehmigungen eines langf
 - (4) Die Software bewertet bei Zugriff auf die Genehmigungsdaten automatisch die Gültigkeit der  Genehmigung in Abhängigkeit des Gültigkeitsdatums der Genehmigung.
 - (5) Die Software bewertet bei Zugriff auf die Genehmigungsdaten automatisch die Gültigkeit der  Genehmigung, in Abhängigkeit von einem möglicherweise stattgefundenen Wechsel des  Kostenträgers (vgl. P2-220 [KBV_ITA_VGEX_Anforderungskatalog_KVDT]).
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 13
+
 
 ---
 
@@ -432,6 +485,10 @@ Der Anwender muss die Möglichkeit haben, auf die patientenindividuelle Verordnu
 -  Verordnete standardisierte Heilmittelkombination nach P3-24
 -  Anzahl der Behandlungseinheiten (je Heilmittel) nach P3-11
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 14
+
 
 ---
 
@@ -470,7 +527,14 @@ Der Arzt trägt für die Wirtschaftlichkeit der Verordnung Sorge. Daher muss die
 - b. Datum der Stornierung
 - (2) Stornierte Verordnungen sind nicht in der Verordnungsstatistik nach P3-34 abzubilden.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 15
+
+
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 ## 3.2 Anforderungen an die Heilmittelverordnung
 
@@ -488,13 +552,21 @@ Einerseits sollte der Anwender durch eine vorgegebene Reihenfolge der Eingaben o
 
 Die hier empfohlene Reihenfolge der Eingaben ist grundsätzlich für eine erstmalig angelegte Verordnung  pro Patient gültig. Für das Ausstellen weiterer Verordnungen ist die Pflichtfunktion P3-04 Zugriff auf  zurückliegende Verordnungen zu beachten.
 
+Seite 16
+
 
 ---
 
 #### Abbildung 1: Workflow
 
+### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 17
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -534,6 +606,8 @@ Zur Vereinfachung des Verordnungsvorgangs muss es möglich sein, auf zurücklieg
 - (1) Der Anwender muss die Möglichkeit haben, alle Informationen aus einer zurückliegenden  Verordnung des jeweiligen Patienten in die aktuelle Verordnung zu übernehmen.
 - a. Die Verordnungshistorie vor dem 1. Oktober 2020 muss im Softwaresystem abrufbar sein. Ein  Rückgriff auf die Daten vor dem 1. Oktober 2020 zum Zwecke der Erstellung einer neuen  Verordnung muss nicht realisiert werden.
 - (2) Bei Übernahme von Angaben aus Vorverordnungen ist sicherzustellen, dass diese auf Basis der  aktuellen Stammdaten basieren.
+
+Seite 18
 
 
 ---
@@ -580,8 +654,14 @@ bzw.  ../verordnungsbedarf/icd_code/@V) zur Übernahme an, welche in Kombination
 
 bzw.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 19
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V). Zwei eingetragene ICD-10-GM-Codes definieren in Kombination einen besonderen Verordnungsbedarf, wenn für die gleiche  Dateninstanz eines Versorgungsbedarfs (SDHMA XML-Element ../verordnungsbedarf) einer der  beiden Codes dem primären Code und der andere einem sekundären Code entspricht (SDHMA XML-Element
 
@@ -621,8 +701,12 @@ Dem Anwender sollen nach § 13 der HeilM-RL unterschiedliche Möglichkeiten zur 
 - (4) Nach Übernahme und/oder Eingabe der Texte in das Feld „Behandlungsrelevante Diagnose(n)“ muss  der Anwender die Möglichkeit haben diese zu bearbeiten.
 - (5) Bei der Angabe von mehreren Texten sind diese durch ein Trennzeichen „;“ zu trennen.
 
+Seite 20
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -654,8 +738,12 @@ Bei der Auswahl der Diagnosegruppe ist zusätzlich die Kennzeichnung als besonde
 
 Dem Anwender muss die Möglichkeit gegeben werden eine oder mehrere verordnungsbegründende  Leitsymptomatiken anzugeben.
 
+Seite 21
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 **Begründung:**
 
@@ -686,8 +774,12 @@ Die Software ermöglicht eine Steuerung zum Status der Verordnung, ob die Verord
 
 Mit der Definition eines Verordnungsfalls nach § 7 der HeilM-RL ist es möglich, den Status der Verordnung,  ob es sich um einen neuen oder bestehenden Verordnungsfall handelt, elektronisch zu definieren. In § 7  Absatz 1 der HeilM-RL sind eindeutige Kriterien zur Prüfung definiert. Der Verordnungsfall und die
 
+Seite 22
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 orientierende Behandlungsmenge beziehen sich (nach § 7 Abs. 3 der HeilM-RL) auf den jeweils  verordnenden Arzt.
 
@@ -704,6 +796,8 @@ Dabei gelten folgende Abhängigkeiten:
 - a. Mindestens ein ICD-10-GM-Code der Verordnung muss in den ersten drei Stellen mit einem der  ICD-10-GM-Codes der ersten Verordnung des Verordnungsfalls identisch sein.
 - (5) LANR des Arztes, der die Vorverordnung ausgestellt hat
 
+#### (Anlage 29 BMV-Ä)
+
 Abbildung 2
 
 **Abbildung 2:** Zuordnung der Verordnung zu einem Verordnungsfall
@@ -711,6 +805,8 @@ Abbildung 2
 **Hinweis**
 
 Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlungsrelevante Diagnose  angegeben werden, ist es möglich, dass diese Verordnung zwei unterschiedlichen Verordnungsfällen
+
+Seite 23
 
 
 ---
@@ -747,8 +843,14 @@ Bei Verordnungen aufgrund von Indikationen nach 125a SGB V entscheidet der  Heil
 - c. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten  die Erfüllung einer Altersbedingung nicht eindeutig bewertet werden kann, ist keine  Blankoverordnung auszustellen (z. B. wenn das Geburtsdatum keine Tagesangabe besitzt und die  Altersschwelle im aktuellen Monat liegt).
 - d. Ein eingegebener Code entspricht einem Code der SDHMBV, wenn der Wert des eingegebenen  Codes mit einem Codewert der SDHMBV identisch ist oder wenn der Code aus der SDHMBV
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 24
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 - linksbündig einen Teil des eingegebenen Codes darstellt. Das Zeichen „ „ ist beim Vergleich der  Werte zweier ICD-10 Codes nicht zu berücksichtigen.
 
@@ -780,6 +882,8 @@ Dem Anwender muss die Möglichkeit gegeben werden, für die Belegung des Feldes 
 **Begründung**
 
 Der Heilmittelkatalog umfasst abhängig von der Diagnosegruppe die verschiedenen,  verordnungsfähigen Heilmittel.
+
+Seite 25
 
 
 ---
@@ -815,6 +919,10 @@ Der Heilmittelkatalog umfasst abhängig von der Diagnosegruppe die verschiedenen
 - (SDHM
 - XML-Element  ../diagnosegruppe/heilmittelverordnung/vorrangiges_heilmittel_liste/vorrangiges_heilmittel/erfor derliche_leitsymptomatik/@V) der ausgewählten Leitsymptomatik (SDHM XML-Element  ../diagnosegruppe/leitsymptomatik_liste/leitsymptomatik/@V) entspricht.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 26
+
 
 ---
 
@@ -846,8 +954,14 @@ Dem Anwender muss die Möglichkeit gegeben werden, für Verordnungen im Rahmen d
 
 Gemäß § 12 Abs. 3 der HeilM-RL kann, soweit medizinisch erforderlich zu vorrangigen Heilmitteln maximal  ein im Heilmittelkatalog genanntes ergänzendes Heilmittel verordnet werden.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 27
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 **Akzeptanzkriterien:**
 
@@ -893,8 +1007,12 @@ Dem Anwender muss die Möglichkeit gegeben werden, für Verordnungen im Rahmen d
 
 Nur für den Heilmittelbereich Physiotherapie gibt es die Möglichkeit nach Heilmittelkatalog eine  Standardisierte Heilmittelkombination zu verordnen. Es ist möglich eine Heilmittelkombination ohne  nähere Angaben zu verordnen. Dann entscheidet der Heilmittelleistungserbringer, auch abhängig vom
 
+Seite 28
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 Behandlungsverlauf, über die einzusetzenden Heilmittelmaßnahmen. Die Benennung von drei oder mehr  einzelnen Heilmitteln kann durch den Arzt erfolgen, soweit dies aus medizinischen Gründen sinnvoll ist.
 
@@ -924,8 +1042,12 @@ Die untenstehende Tabelle (Tabelle 1) zeigt ein Beispiel für die Verordnung ein
 
 Die verordnungsfähigen Heilmittel werden in einer sortierten Auswahlliste angezeigt.
 
+Seite 29
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 **Begründung**
 
@@ -962,6 +1084,8 @@ Für Verordnungen aufgrund eines „langfristigen Heilmittelbedarfs“ nach § 8
 
 Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung im Feld  Behandlungseinheiten“ die Anzahl der Behandlungseinheiten je Heilmittel anzugeben. Dabei sind die  Höchstmenge je Verordnung und die orientierende Behandlungsmenge zu beachten.
 
+Seite 30
+
 
 ---
 
@@ -985,6 +1109,10 @@ Die Verordnungsmenge von einer „standardisierten Heilmittelkombination“ und 
 
 - (1) Im Rahmen einer Verordnung muss die Verordnungsmenge (siehe Glossar) je Verordnung mittels der  vom Anwender eingegebenen Behandlungseinheiten berechnet werden. Die Verordnungsmenge je  Verordnung darf die Höchstmenge je Verordnung (SDHM XML-Element:  ../diagnosegruppe/heilmittelverordnung/verordnungsmenge/hoechstmenge_verordnung/@V)  nicht überschreiten, jedoch darf der Wert geringer sein. Bei Auswahl eines vorrangigen Heilmittels  und ggf. eines zusätzlich verordneten ergänzenden Heilmittels (nach P3-21 bzw. P3-22), einer  standardisierten Heilmittelkombination (nach P3-24) bzw. eines isoliert ergänzenden Heilmittels  nach (P3-23) muss die Software den Anwender darauf hinweisen, dass der eingegebene Wert des  vorrangigen Heilmittels, der standardisierten Heilmittelkombination oder des isoliert ergänzenden  Heilmittels zu hoch ist und den zu hohen Wert durch den tatsächlich höchstmöglichen Wert ersetzen.  Eine Beendigung des Verordnungsvorganges mit zu hohem Wert ist nicht zuzulassen.
 - a. Wenn einer Diagnosegruppe (SDHM XML-Element: ../diagnosegruppe/) keine Höchstmenge je  Verordnung zugeordnet ist, dann erfolgt diese Prüfung nicht.
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 31
 
 
 ---
@@ -1011,8 +1139,14 @@ Die Verordnungsmenge von einer „standardisierten Heilmittelkombination“ und 
 - und/oder  ../verordnungsbedarf/heilmittel_liste/heilmittel/obere_altersgrenze/@V entsprechen dem  Alter des Patienten).
 - i. Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums  des Patienten die Erfüllung einer Altersbedingung nicht eindeutig bewertet
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 32
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 - werden kann (z.B. wenn das Geburtsdatum unbekannt ist), wird das  Alterskriterium als nicht erfüllt angenommen, das heißt die Prüfung erfolgt.
 - ii. Für besondere Verordnungsbedarfe, die nur regional gelten, (gemäß SDHMA  XML-Element ../verordnungsbedarf/geltungsbereich_kv/@V), erfolgt die  Prüfung.
@@ -1034,6 +1168,8 @@ V) überschreitet. Folgender Hinweis ist anzuzeigen, ohne den Workflow zu unterb
 
 Falls ein Heilmittel der Diagnosegruppen UI1 oder UI2 (Heilmittelbereich Podologische Therapie)  (SDHM XML-Element ../kapitel/@V gleich „II. Maßnahmen der Podologischen Therapie“) verordnet  wird, ist stattdessen folgender spezifischer Hinweistext anzuzeigen, ohne den Workflow zu  unterbrechen:
 
+Seite 33
+
 
 ---
 
@@ -1043,8 +1179,14 @@ Das untenstehende Flussdiagramm beschreibt (siehe Abbildung 3), unter welchen Be
 
 **Abbildung 3:** Berechnung der Verordnungsmenge der Verordnungsfälle
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 34
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 Folgende Besonderheiten sind zu beachten:
 
@@ -1074,8 +1216,12 @@ Folgende Besonderheiten sind zu beachten:
 - (4) Im Rahmen einer Verordnung von Massagetechniken (SDHM  ../diagnosegruppe/heilmittelverordnung/vorrangiges_heilmittel_liste/vorrangiges_heilmittel/mass agetechnik/@V
 - oder  ../diagnosegruppe/heilmittelverordnung/ergaenzendes_heilmittel_liste/ergaenzendes_heilmittel/ massagetechnik/@V gleich true) darf durch die eingegebenen Behandlungseinheiten einschließlich  der Vorverordnungen des gleichen Verordnungsfalls die maximale Verordnungsmenge für
 
+Seite 35
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 - Massagetechniken
 - (SDHM
@@ -1112,8 +1258,12 @@ Eine Beendigung des Verordnungsvorganges (drucken oder speichern) ist nach Hinwe
 
 *„Die Verordnungsmenge ist in Abhängigkeit von der Therapiefrequenz* *so zu bemessen, dass die*  *Behandlungsdauer höchstens 12 Wochen umfasst.“*
 
+Seite 36
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 Eine Beendigung des Verordnungsvorganges (drucken oder speichern) ist nach Hinweisanzeige  nicht zuzulassen.
 
@@ -1138,8 +1288,12 @@ Eine Beendigung des Verordnungsvorganges (drucken oder speichern) ist nach Hinwe
 
 Aufgrund des Ausschlusses der Berechnung der möglichen Verordnungsmenge im Punkt (10) c. sind für  die Berechnung nur empfohlene Therapiefrequenzen zu verwenden, die als Anzahl von  Behandlungseinheiten „pro Woche“ angegeben sind. Umrechnungen von anderen  Frequenzempfehlungstypen sind nicht notwendig.
 
+Seite 37
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 Im Rahmen einer standardisierten Heilmittelkombination verordnete Massagetechniken werden im  Zusammenhang mit Akzeptanzkriterium (4) nicht mitgezählt.
 
@@ -1170,14 +1324,20 @@ Der Ergebniswert der Therapiefrequenz ist entsprechend den Daten aus der  Freque
 
 **Tabelle 2:** Formatierungsanweisung Therapiefrequenz
 
+#### (Anlage 29 BMV-Ä)
+
 Feld Therapiefrequenz eine
 
 Wochen zwischen zwei
 
-%dx tägl.“, <minimale Anzahl>, %dx wöch.“, <minimale Anzahl>, %d Wochen“, <minimale Anzahl>,Tabelle
+Tabelle
+
+%dx tägl.“, <minimale Anzahl>, %dx wöch.“, <minimale Anzahl>, %d Wochen“, <minimale Anzahl>,Seite 38
 
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 - (2) Der Anwender muss in der Lage sein, entweder einen Einzelwert oder eine Wertspanne anzugeben.  Die Werte repräsentieren analog zu den Frequenzempfehlungen je nach Therapiefrequenztyp  entweder eine Anzahl von Behandlungseinheiten pro Tag Wochen zwischen zwei Behandlungseinheiten. Die Werte dürfen maximal eine dezimale Stelle  besitzen. Das Ergebnis ist gemäß der in Punkt (1) angegebenen Anweisungen zu formatieren.
 - a. Der Therapiefrequenztyp der Angabe muss dem in der Heilmittel-Stammdatei vorgegebenen  Frequenzempfehlungstyp (SDHM XML-Element  ../frequenzempfehlung_liste/frequenzempfehlungstyp/@V) entsprechen, wenn eine  Frequenzempfehlung für die entsprechende Diagnosegruppe definiert ist.
@@ -1213,6 +1373,9 @@ Der § 11 der HeilM-RL definiert die Bedingungen, bei denen ein Hausbesuch des H
 **Akzeptanzkriterien**
 
 - (1) Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung unter  Hausbesuch zwischen den Feldern „Ja“ oder „Nein“ zu wählen.
+
+#### (Anlage 29 BMV-Ä)
+
 - oder „pro Woche oder eine „Anzahl von
 - sowie die Diagnosegruppen UI1 und  Element ../kapitel/@V gleich „II.
 
@@ -1221,6 +1384,9 @@ Nein“ sinnvoll sein, da davon
 ```
 -
 ```
+
+Seite 39
+
 
 ---
 
@@ -1264,9 +1430,14 @@ Nach § 15 Absatz 1 der HeilM-RL hat die Behandlung innerhalb von 28 Kalendertag
 
 Dem Anwender muss die Möglichkeit  Behandlungsbedarf, innerhalb von 14 Tagen“ auszuwählen.  gegeben werden, im Rahmen der Verordnung das Feld „dringlicher
 
-innerhalb von 14 Tagen
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+innerhalb von 14 TagenSeite 40
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -1291,11 +1462,14 @@ Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlung
 
 - (2) Erfüllen zwei ausgewählte ICD-10-GM-Codes die Kriterien für einen besonderen Verordnungsbedarf  und/oder einen langfristigen Heilmittelbedarf gemäß BVB-/LHM-Stammdatei (SDHMA XML-Elemente
 - ../verordnungsbedarf/icd_code/@V
+- und  ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V), werden die Heilmittel-Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, bei denen  es sich um einen besonderen Versorgungsbedarf/langfristigen Heilmittelbedarf handelt.
 
-langfristigen Heilmittelbedarfs- und  ../verordnungsbedarf/heilmittel_liste/heilmittel/sekundaercode/@V), werden die Heilmittel-Diagnosegruppen bei der Auswahl gesondert im Erfassungsdialog sichtbar gekennzeichnet, bei denen  es sich um einen besonderen Versorgungsbedarf/langfristigen Heilmittelbedarf handelt.
+langfristigen HeilmittelbedarfsSeite 41
 
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 Hinweis: Die Auswahlreihenfolge der beiden ICD-10-GM-Codes ist ohne Belang.
 
@@ -1313,6 +1487,8 @@ Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlung
 - c. Für besondere Verordnungsbedarfe, die nur regional gelten (gemäß SDHMA XML-Element  ../verordnungsbedarf/geltungsbereich_kv/@V), muss diese Kennzeichnung unterbleiben.
 
 Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlungsrelevante  Diagnose angegeben werden, ist es möglich, dass sowohl die Voraussetzungen für einen besonderen  Verordnungsbedarf als auch einen langfristigen Heilmittelbedarf erfüllt sind, die jeweils mittels  einem der ICD-10-GM-Codes und der Diagnosegruppe definiert sind. In diesem Fall wird die  Verordnung entsprechend als besonderer Verordnungsbedarf und langfristiger Heilmittelbedarf  gekennzeichnet.
+
+Seite 42
 
 
 ---
@@ -1336,6 +1512,10 @@ Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlung
 - (9) Bei Verordnungen, die mindestens einen langfristigen Heilmittelbedarf und/oder mindestens einen  besonderen Verordnungsbedarf begründen würden und weiteren Spezifikationen unterliegen, sind  dem Anwender die entsprechenden Hinweise gemäß der BVB-/LHM-Stammdatei (SDHMA XML-Element ../verordnungsbedarf/heilmittel_liste/heilmittel/hinweistext/@V) anzuzeigen, ohne den  Workflow zu unterbrechen.
 
 Hinweis: Im Rahmen einer Verordnung, bei der zwei ICD-10-GM-Codes als behandlungsrelevante  Diagnose angegeben werden, ist es möglich, dass die Verordnung mehrere langfristige  Heilmittelbedarfe und/oder besondere Verordnungsbedarfe begründet, die weiteren
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 43
 
 
 ---
@@ -1367,6 +1547,10 @@ Die Spezifizierung der Therapieziele kann gemäß § 13 Abs. 2 lit. l. der HeilM
 
 - (1) Die Eingabe von Freitext und die Übernahme von Texten aus der Patientendokumentation sind zu  ermöglichen.
 - (2) Die Angabe der Therapieziele oder weiterer medizinischer Befunde und Hinweise ist keine Pflicht für  den Anwender.
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 44
 
 
 ---
@@ -1407,6 +1591,10 @@ Der
 
 Formularbedruckung“  [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] gilt verbindlich für Software zur  Verordnung von Heilmitteln für Vertragsarztpraxen, welche zur Erstellung von Verordnungen zugelassen  ist.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 45
+
 
 ---
 
@@ -1417,6 +1605,10 @@ Vertragsärzte/innen haben Heilmittelverordnungen ausschließlich auf dem gemä�
 **Akzeptanzkriterium:**
 
 Die Software setzt alle erforderlichen Anforderungen des Anforderungskataloges „Anforderungskatalog  Formularbedruckung vgl. [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] bzgl. der  Bedruckung des Musters 13 um.
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 46
 
 
 ---
@@ -1453,6 +1645,10 @@ Die Einbindung von Preisen für Heilmittel kann dem Arzt als orientierende Infor
 
 Die Software hält eine Funktion bereit, wonach der Anwender eine Verordnungsstatistik seiner gesamten  getätigten Verordnungen und pro Patient erhält.
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 47
+
 
 ---
 
@@ -1488,6 +1684,10 @@ Dem Anwender soll die Möglichkeit gegeben werden, eine Übersicht der von ihm v
 - v. Heilmittelbereich (Physiotherapie, Podologische Therapie, Stimm-, Sprech-, Sprach- und  Schlucktherapie, Ergotherapie oder Ernährungstherapie)
 - vi. Anforderung eines Hausbesuchs (Auswahlfeld „Ja“ oder „Nein
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 48
+
 
 ---
 
@@ -1519,6 +1719,10 @@ Die Software muss ein Transfer von allen oder ausgewählten  Tabellenkalkulation
 
 Verordnungsdaten in
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 49
+
 
 ---
 
@@ -1531,8 +1735,14 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 - (1) Die Software bietet die Möglichkeit, die dokumentierten Verordnungsdaten (siehe P3-02 Tabellenkalkulationsprogramme zu exportieren.
 - ) in
 
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+
+Seite 50
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 # 5. Glossar
 
@@ -1553,9 +1763,14 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 | ICD-10-GM | Die Internationale statistische Klassifikation der Krankheiten und verwandter |
 | KBV | Kassenärztliche Bundesvereinigung www.kbv.de/ |
 
-(BVB) 8 SGB V verorteten Praxisbesonderheiten für Heilmittel. Die bestehende Diagnoseliste wurde zum 01.01.2017 überarbeitet, ergänzt und als Anhang 1 der Anlage 2 in die Rahmenvorgaben nach § 106b Abs. 2 SGB V für die Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen integriert. Krankenkassen und die Ersatzkassen gemeinsam mit den Kassenärztlichen Vereinigungen weitere bei der Wirtschaftlichkeitsprüfung anzuerkennende besondere Verordnungsbedarfe vereinbaren. Geschäftsverkehr GKV-Spitzenverband erfolgt insbesondere eine Zuordnung der Heilmittel zu Indikationen. unterschieden: Physiotherapie Podologische Therapie Stimm-, Sprech-, Sprach- und Schlucktherapie Ergotherapie und Ernährungstherapie. Gesundheitsprobleme, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland.
+#### (Anlage 29 BMV-Ä)
+
+(BVB) 8 SGB V verorteten Praxisbesonderheiten für Heilmittel. Die bestehende Diagnoseliste wurde zum 01.01.2017 überarbeitet, ergänzt und als Anhang 1 der Anlage 2 in die Rahmenvorgaben nach § 106b Abs. 2 SGB V für die Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen integriert. Krankenkassen und die Ersatzkassen gemeinsam mit den Kassenärztlichen Vereinigungen weitere bei der Wirtschaftlichkeitsprüfung anzuerkennende besondere Verordnungsbedarfe vereinbaren. Geschäftsverkehr GKV-Spitzenverband erfolgt insbesondere eine Zuordnung der Heilmittel zu Indikationen. unterschieden: Physiotherapie Podologische Therapie Stimm-, Sprech-, Sprach- und Schlucktherapie Ergotherapie und Ernährungstherapie. Gesundheitsprobleme, German Modification (ICD-10-GM) ist die amtliche Klassifikation zur Verschlüsselung von Diagnosen in der ambulanten und stationären Versorgung in Deutschland. Seite 51
+
 
 ---
+
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 | Begriff | Bedeutung |
 |---|---|
@@ -1567,9 +1782,12 @@ Um eigene Auswertungen zu ermöglichen und im Falle von Wirtschaftlichkeitsprüf
 | Orientierende | Die |
 | Wirtschaftlichkeitsprüfung | Die Krankenkassen und die Kassenärztlichen Vereinigungen überwachen die |
 
-31.12.2016 bei den der Anlage der Vereinbarung Praxisbesonderheiten für Heilmittel gelisteten Diagnosen in Verbindung mit der jeweils aufgeführten Diagnosegruppe des Heilmittelkataloges vom 12.11.2012 vor. Diese Liste wurde überarbeitet und wird zum 01.01.2017 als (LHM) Anlage 2 zur Heilmittel-Richtlinie integriert. Die Diagnoselisten sind nicht abschließend. Patienten können im Falle einer anderen, vergleichbar schwerwiegenden Krankheit einen Antrag auf Genehmigung eines langfristigen Heilmittelbedarfs stellen. (Segmentmassage), PM (Periostmassage), CM (Colonmassage), UWM (Unterwasserdruckstrahlmassage) zu bearbeitendes oder bereits ausgestelltes Verordnungsblatt (Muster 13) verwendet. entspricht der Summe aller verordneten Behandlungseinheiten von vorrangigen Heilmitteln (dazu zählt auch die standardisierte Heilmittelkombination) oder eines isoliert verordneten ergänzenden Heilmittels je Verordnung. oder einen Patienten auf Grund derselben Diagnose (d. h. die ersten drei Stellen mindesten eines ICD-10-GM-Codes sind identisch) und derselben Diagnosegruppe nach Heilmittelkatalog. Dies gilt auch, wenn sich innerhalb des Verordnungsfalles die Leitsymptomatik ändert oder unterschiedliche Heilmittel zum Einsatz kommen. Im Rahmen eines Verordnungsfalles können mehrere Verordnungen getätigt werden. Treten im zeitlichen Zusammenhang mehrere voneinander unabhängige Diagnosen derselben oder unterschiedlicher Diagnosegruppe(n) auf, kann dies weitere Verordnungsfälle auslösen, für die jeweils separate Verordnungen auszustellen sind. Ein neuer Verordnungsfall tritt ein, wenn seit dem Datum der letzten Verordnung ein Zeitraum von 6 Monaten vergangen ist, in dem keine weitere Verordnung für diesen Verordnungsfall ausgestellt wurde. orientierende Behandlungsmenge entspricht der Anzahl der Behandlungseinheiten, mit der das angestrebte Therapieziel in der Regel Behandlungsmenge erreicht werden kann. Die Höhen der orientierenden Behandlungsmengen sind im Heilmittelkatalog je Diagnosegruppe definiert. Wirtschaftlichkeit der vertragsärztlichen Versorgung durch Beratungen und Prüfungen. Dabei werden z. B. Verordnungskosten eines Arztes mit den durchschnittlichen Verordnungskosten der Fachgruppe verglichen.
+31.12.2016 bei den der Anlage der Vereinbarung Praxisbesonderheiten für Heilmittel gelisteten Diagnosen in Verbindung mit der jeweils aufgeführten Diagnosegruppe des Heilmittelkataloges vom 12.11.2012 vor. Diese Liste wurde überarbeitet und wird zum 01.01.2017 als (LHM) Anlage 2 zur Heilmittel-Richtlinie integriert. Die Diagnoselisten sind nicht abschließend. Patienten können im Falle einer anderen, vergleichbar schwerwiegenden Krankheit einen Antrag auf Genehmigung eines langfristigen Heilmittelbedarfs stellen. (Segmentmassage), PM (Periostmassage), CM (Colonmassage), UWM (Unterwasserdruckstrahlmassage) zu bearbeitendes oder bereits ausgestelltes Verordnungsblatt (Muster 13) verwendet. entspricht der Summe aller verordneten Behandlungseinheiten von vorrangigen Heilmitteln (dazu zählt auch die standardisierte Heilmittelkombination) oder eines isoliert verordneten ergänzenden Heilmittels je Verordnung. oder einen Patienten auf Grund derselben Diagnose (d. h. die ersten drei Stellen mindesten eines ICD-10-GM-Codes sind identisch) und derselben Diagnosegruppe nach Heilmittelkatalog. Dies gilt auch, wenn sich innerhalb des Verordnungsfalles die Leitsymptomatik ändert oder unterschiedliche Heilmittel zum Einsatz kommen. Im Rahmen eines Verordnungsfalles können mehrere Verordnungen getätigt werden. Treten im zeitlichen Zusammenhang mehrere voneinander unabhängige Diagnosen derselben oder unterschiedlicher Diagnosegruppe(n) auf, kann dies weitere Verordnungsfälle auslösen, für die jeweils separate Verordnungen auszustellen sind. Ein neuer Verordnungsfall tritt ein, wenn seit dem Datum der letzten Verordnung ein Zeitraum von 6 Monaten vergangen ist, in dem keine weitere Verordnung für diesen Verordnungsfall ausgestellt wurde. orientierende Behandlungsmenge entspricht der Anzahl der Behandlungseinheiten, mit der das angestrebte Therapieziel in der Regel Behandlungsmenge erreicht werden kann. Die Höhen der orientierenden Behandlungsmengen sind im Heilmittelkatalog je Diagnosegruppe definiert. Wirtschaftlichkeit der vertragsärztlichen Versorgung durch Beratungen und Prüfungen. Dabei werden z. B. Verordnungskosten eines Arztes mit den durchschnittlichen Verordnungskosten der Fachgruppe verglichen. Seite 52
+
 
 ---
+
+### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 # 6. Referenzierte Dokumente
 
@@ -1588,9 +1806,14 @@ Es werden zum Teil übergeordnete Verweise verwendet. Damit soll vermieden werde
 | [KBV_ITA_RLEX_Zert] | Zertifizierungsrichtlinie der KBV  https://update.kbv.de/ita- |
 | [HeilM-RL] | Richtlinie des Gemeinsamen Bundesausschusses  https://www.g-ba.de/informationen/richtlinien/12/ |
 
-ng] Verordnungssoftware update/Verordnungen/Arzneimittel/ Vereinigung DatenTransfer) update/Abrechnung/KBV_ITA_VGEX_Anforderungsk atalog_KVDT.pdf (Heilmittelstammdatei) update/Stammdateien/SDHM/SDHM_V2.03.zip Verordnungs-Stammdatei) datenaustausch.de/leistungserbringer/aerzte/aerzte. jsp update/Abrechnung/KBV_ITA_VGEX_Mapping_KVK. pdf update/Abrechnung/KBV_ITA_VGEX_Anforderungsk atalog_Formularbedruckung.pdf update/Allgemein/KBV_ITA_RLEX_Zert.pdf über die Verordnung von Heilmitteln in der vertragsärztlichen Versorgung
+### (Anlage 29 BMV-Ä)
+
+ng] Verordnungssoftware update/Verordnungen/Arzneimittel/ Vereinigung DatenTransfer) update/Abrechnung/KBV_ITA_VGEX_Anforderungsk atalog_KVDT.pdf (Heilmittelstammdatei) update/Stammdateien/SDHM/SDHM_V2.03.zip Verordnungs-Stammdatei) datenaustausch.de/leistungserbringer/aerzte/aerzte. jsp update/Abrechnung/KBV_ITA_VGEX_Mapping_KVK. pdf update/Abrechnung/KBV_ITA_VGEX_Anforderungsk atalog_Formularbedruckung.pdf update/Allgemein/KBV_ITA_RLEX_Zert.pdf über die Verordnung von Heilmitteln in der vertragsärztlichen Versorgung Seite 53
+
 
 ---
+
+### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 | Referenz | Titel des Dokumentes/Hyperlink |
 |---|---|
@@ -1599,4 +1822,6 @@ ng] Verordnungssoftware update/Verordnungen/Arzneimittel/ Vereinigung DatenTrans
 | [Heilmittel_Anlage_2] | Anlage 2 zur Heilmittel-Richtlinie: Diagnoseliste zum  https://www.g-ba.de/informationen/richtlinien/12/ |
 | [Heilmittel_Preise] | Heilmittelpreise nach § 125 SGB V www.gkv- |
 
-Heilmittel zu Indikationen (Heilmittelkatalog) nach § 92 Absatz 6 Satz 1 Nummer 2 SGB V 106b Abs. 2 SGB V für die Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen vom 30.11.2015 langfristigen Heilmittelbedarf nach § 32 Abs. 1a SGB V heilmittel.de/fuer_heilmittelerbringer/heilmittelprei se/heilmittelpreise.jsp
+### (Anlage 29 BMV-Ä)
+
+Heilmittel zu Indikationen (Heilmittelkatalog) nach § 92 Absatz 6 Satz 1 Nummer 2 SGB V 106b Abs. 2 SGB V für die Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen vom 30.11.2015 langfristigen Heilmittelbedarf nach § 32 Abs. 1a SGB V heilmittel.de/fuer_heilmittelerbringer/heilmittelprei se/heilmittelpreise.jspSeite 54

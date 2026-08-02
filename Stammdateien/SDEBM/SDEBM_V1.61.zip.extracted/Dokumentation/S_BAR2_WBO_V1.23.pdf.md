@@ -167,7 +167,7 @@ TG Phoniatrie und Pädaudiologie
 
 145
 
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+Seite 2 von 7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
 
 **Bezeichnung**
 
@@ -314,7 +314,7 @@ FÄ/FA Psychiatrie
 |---|---|
 | 308 | FÄ/FA Physiologie |
 
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+Seite 3 von 7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
 
 **Bezeichnung**
 
@@ -461,7 +461,7 @@ Medizinische Informatik
 |---|---|
 | 372 | Fachwissenschaftlerin/Fachwissenschaftler Genetik |
 
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+Seite 4 von 7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
 
 **Bezeichnung**
 
@@ -594,7 +594,7 @@ Fachzahnärztin/Fachzahnarzt für Mikrobiologie 2 BMV-Ä)
 |---|---|
 | 531 | SP Neuropädiatrie |
 
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+Seite 5 von 7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
 
 **Bezeichnung**
 
@@ -731,7 +731,7 @@ TG Kardiologie und Angiologie; kammerindividuell
 |---|---|
 | 566 | FÄ/FA Mikrobiologie |
 
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+Seite 6 von 7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
 
 **Bezeichnung**
 
@@ -848,7 +848,7 @@ TG Kinderkardiologie
 
 992
 
-7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
+Seite 7 von 7 / KBV / SCHLÜSSELTABELLE - S_BAR2_WBO
 
 **Bezeichnung**
 

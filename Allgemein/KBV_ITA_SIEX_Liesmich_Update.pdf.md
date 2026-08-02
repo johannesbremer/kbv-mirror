@@ -18,6 +18,8 @@ Mit freundlichen Grüßen
 
 IT in der Arztpraxis
 
+Seite 1 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 /
+
 Dezernat Digitalisierung und IT  Abteilung IT in der Arztpraxis
 
 Tel.: 030 4005-2077
@@ -26,6 +28,7 @@ E-Mail: [ita@kbv.de](mailto:ita@kbv.de)
 
 ITA
 
+13. Mai 2026
 13. Mai 2026
 
 
@@ -75,6 +78,7 @@ Es erwarten Sie spannende Einblicke in aktuelle Projekte und Entwicklungen, stra
 
 Mit den kv.digital Innovation-Pitches geben wir erstmals zukunftsweisenden digitalen Projekten eine Bühne  auf unserem Partnermeeting. Von KI-gestützten Anwendungen über smarte Plattformlösungen bis hin zu  echten Effizienztreibern im Versorgungsalltag freuen wir uns auf frische Ideen aus der digitalen  Gesundheitsversorgung.
 
+Seite 2 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 / 13. Mai 2026
 
 ---
 
@@ -104,8 +108,9 @@ Wir möchten Sie darüber informieren, dass wir den Webservice Kollegensuche auf
 
 ```
 [](https://simplifier.net/Kollegensuche/~introduction)
-
 ```
+
+Seite 3 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 / 13. Mai 2026
 
 ---
 
@@ -141,6 +146,7 @@ Im Rahmen des Updates zum dritten Quartal 2026 stellen wir Ihnen die Schlüsselt
 
 Sie finden die HGNC-Schlüsseltabelle (74E26301.sdhgnc.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2026.3.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
 
+Seite 4 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 / 13. Mai 2026
 
 ---
 
@@ -178,6 +184,7 @@ Zum 1. Juli 2026 treten die Vorgaben des BMP 2.8 in Kraft. Sie finden die releva
 
 **[AMV: AKTUALISIERUNG DES FAQ-DOKUMENTES](https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/BMP/)**
 
+Seite 5 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 / 13. Mai 2026
 
 ---
 
@@ -213,6 +220,8 @@ Sie finden die SDKVCA-Stammdatei (74E26301.sdkvca.zip) als Bestandteil des JAR-A
 [Hinweis:](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
 
 Die SDKVCA-Stammdatei des dritten Quartals 2026 wurde gemäß der Schnittstellendefinition 2.0  bereitgestellt.
+
+Seite 6 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 / 13. Mai 2026
 
 ---
 
@@ -252,7 +261,10 @@ Im Fokus steht der direkte fachliche Austausch zu Themen wie dem elektronischen 
 
 Aktuell laufen unter anderem zwei Umfragen zum elektronischen Arztbrief zur Einschätzung einer  möglichen künftigen Entwicklung.
 
+Seite 7 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 / 13. Mai 2026
 
 ---
 
 Der kv.digital Hub ist ein Bereich des Partnerportals der kv.digital und über folgenden Link erreichbar:  [https://partnerportal.kv-telematik.de/spaces/KVDHUB/pages/274239315/kv.digital+Hub](https://partnerportal.kv-telematik.de/spaces/KVDHUB/pages/274239315/kv.digital+Hub)[](https://partnerportal.kv-telematik.de/spaces/KVDHUB/pages/274239315/kv.digital+Hub)
+
+Seite 8 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.3 / 13. Mai 2026

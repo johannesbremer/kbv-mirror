@@ -2,6 +2,9 @@
 
 **Hinweistexte für die Erstellung einer elektronischen Ausfüllhilfe für den**  **Soziotherapeutischen Betreuungsplan gem. § 37a SGB V (Muster 27)**
 
+Stand: Oktober 2017 1
+
+
 ---
 
 ### Elektronische Ausfüllhilfe Muster 27 – Soziotherapeutischer Betreuungsplan
@@ -29,3 +32,5 @@ Hier sind die Art der Maßnahmen mit Frequenz pro Woche / Monat und dem Zeitraum
 Themenseite Soziotherapie: [http://www.kbv.de/html/soziotherapie.php](http://www.kbv.de/html/soziotherapie.php).
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Stand: Oktober 2017 2

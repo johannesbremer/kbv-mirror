@@ -11,7 +11,7 @@
 
 ## [KBV_ITA_VGEX_FAQ_BFB]
 
-BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS   
+BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS   Seite 1 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
 
 
 ---
@@ -46,7 +46,8 @@ BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS
 
 **9**
 
-Antrag auf Zertifizierung KBV-Prüfnummer
+Antrag auf Zertifizierung KBV-Prüfnummer Seite 2 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
+
 
 ---
 
@@ -57,7 +58,8 @@ DOKUMENTENHISTORIE
 | 1.01 | 15.11.2022 | KBV | Aktualisierung der |  | **4** |
 | 1.00 | 15.08.2017 | KBV | Initiale Erstellung | Neuerstellung des | Alle |
 
-Fragen und Antworten Anforderungskatalogs
+Fragen und Antworten Anforderungskatalogs Seite 3 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
+
 
 ---
 
@@ -75,8 +77,9 @@ Diese FAQs dienen ausschließlich zur Orientierung im Themengebiet Blankoformula
 | Allgemein | Das Zertifizierungsverfahren  „Blankoformularbedruckung“ gibt verschiedene  Muster vor. Muss eine Software alle Muster  umsetzen und gibt es Abhängigkeiten zwischen  den Mustern? | Nein. Eine Software kann frei aus den Mustern wählen und diese beliebig miteinander  Eine Ausnahme bilden die Muster 62A, 62B und 62C. Hier können bestimmte  alternative Kombinationen dieser Muster ausgewählt werden, um die Aufwendungen  und Zertifizierungskosten zu minimieren. Nur eine dieser Kombinationen soll dabei  ausgewählt werden. |
 | Allgemein –  Zertifizierung | Wie viele Prüfnummern erhält ein PVS? | Jedes PVS erhält genau eine Prüfnummer für die Komponente BFB, im Falle der |
 
-von PVS gesprochen. Gilt für andere Systeme in Arztpraxen wie Laborinformationssysteme (LIS), Arztinformationssysteme (AIS), Order-Entry- Systeme etc. das technische Handbuch nicht? Blankoformularbedruckung arbeiten. Also auch für LIS, AIS, OE-Systeme etc. kombinieren. Eine Abhängigkeit zwischen den Mustern besteht nicht. Zu einem Muster gehören alle entsprechenden Seiten (wie z. B. Muster 12 mit den Seiten 12a_1, 12a_2, 12b, 12c und 1d). erfolgreich bestandenen Prüfung. In den Zulassungslisten der KBV wird pro zertifiziertem System dargestellt, welchen Muster Zertifizierungsbereich das jeweilige PVS umgesetzt hat. Im Rahmen einer Erweiterungszertifizierung können weitere Muster auch unkompliziert nachzertifiziert werden. 7] festgelegt sind,
+Seite 4 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022 7] festgelegt sind,
 
+von PVS gesprochen. Gilt für andere Systeme in Arztpraxen wie Laborinformationssysteme (LIS), Arztinformationssysteme (AIS), Order-Entry- Systeme etc. das technische Handbuch nicht? Blankoformularbedruckung arbeiten. Also auch für LIS, AIS, OE-Systeme etc. kombinieren. Eine Abhängigkeit zwischen den Mustern besteht nicht. Zu einem Muster gehören alle entsprechenden Seiten (wie z. B. Muster 12 mit den Seiten 12a_1, 12a_2, 12b, 12c und 1d). erfolgreich bestandenen Prüfung. In den Zulassungslisten der KBV wird pro zertifiziertem System dargestellt, welchen Muster Zertifizierungsbereich das jeweilige PVS umgesetzt hat. Im Rahmen einer Erweiterungszertifizierung können weitere Muster auch unkompliziert nachzertifiziert werden.
 
 ---
 
@@ -89,7 +92,10 @@ von PVS gesprochen. Gilt für andere Systeme in Arztpraxen wie Laborinformations
 | Allgemein –  Zertifizierung | Welche Ansprechpartner benötigt die KBV in  Kapitel 3 des Antrags auf Zertifizierung [5] | Im Antrag auf Zertifizierung muss mindestens ein Verantwortlicher für das |
 | Kapitel 2.8 | Dürfen für die Bedruckung der  formularspezifischen Inhalte der Muster  beliebige Schriftarten benutzt werden? | Grundsätzlich ja, denn es müssen Schriftarten mit guter Erkennbarkeit eingesetzt  werden. Es wird empfohlen, die Schriftart Courier, Courier New oder andere metrisch  kompatible Nachahmungsschriftarten mit regulärer Strichstärke, Stil und Zeichenbreite  einzusetzen. Im Rahmen der Prüfung wird die Erkennbarkeit der verwendeten  Schriftarten beurteilt. |
 
-gemeint? Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt werden, die rezertifiziert werden sollen. Bei einer Neu- /Erweiterungszertifizierung nur die neu zu zertifizierenden Muster. „Anlage zu den Kontaktdaten“? Zertifizierungsthema und die Geschäftsführung genannt werden.
+Seite 5 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
+
+gemeint? Ihr System auf dem Markt zu finden ist, gemeint. müssen alle Muster ausgewählt werden, die rezertifiziert werden sollen. Bei einer Neu- /Erweiterungszertifizierung nur die neu zu zertifizierenden Muster. „Anlage zu den Kontaktdaten“? Zertifizierungsthema und die Geschäftsführung genannt werden. 
+
 
 ---
 
@@ -125,6 +131,7 @@ Siehe: Vereinbarung über Vordrucke für die vertragsärztliche Versorgung [4] i
 
 Der Vordruck darf nicht **überdruckt/berührt** werden.
 
+Seite 6 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
 
 ---
 
@@ -177,7 +184,10 @@ Siehe: Technisches Handbuch Blankoformularbedruckung [1] im 5.5 Technische Vorga
 |---|---|---|
 | Schriftgröße | 5 pt. | Fehler (6 pt.) |
 
+Seite 7 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
+
 Nr.“ & „Arzt Nr.“ & „Datum“
+
 
 ---
 
@@ -220,6 +230,7 @@ Aufgrund häufiger Nachfragen bezüglich des Begriffes „Zertifizierungsgegenst
 
 Wir bitten Sie, diese Erläuterung bei der Erstellung eines neuen Antrags auf Zertifizierung zu  berücksichtigen.
 
+Seite 8 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
 
 ---
 
@@ -242,4 +253,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Verfahrens zur Herstellung und Bedruckung von Vordrucken für die vertragsärztliche Versorgung (Anlage 2a des Bundesmantelvertrags- Ärzte) Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 9 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
+
+Verfahrens zur Herstellung und Bedruckung von Vordrucken für die vertragsärztliche Versorgung (Anlage 2a des Bundesmantelvertrags- Ärzte) 

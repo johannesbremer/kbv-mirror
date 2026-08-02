@@ -12,10 +12,12 @@
 |  | Version |
 |  |  |
 
-XKM 1.42 Datum: 1.02.2026 Kennzeichnung Öffentlich Status: In Kraft 
+XKM 1.42 Datum: 1.02.2026 Kennzeichnung Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2026
 
 
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-Kryptomodul XKM
 
 **D** **O** **K**
 
@@ -35,11 +37,16 @@ XKM 1.42 Datum: 1.02.2026 Kennzeichnung Öffentlich Status: In Kraft
 | 1.31 | 09.08.2018 | KBV | Anpassung |  | **13** |
 | 1.30 | 15.05.2018 | KBV | Anpassung der Indexe |  | **13** |
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-QSHGVK und QSMG aktuali- siert QSHGV, QSKE und QSHLT aktualisiert aktualisiert  ADMP und ZervixZyto aktuali- siert und QSHGVK aktualisiert QSKE und QSHLT aktualisiert ADMP und ZervixZyto aktuali- siert Systemvoraus- setzungen der Kommandozeile im Beispiel Anpassungen bzgl. des geänderten Dateiformates bzgl. neuen QSKE und QSHLT steller entfallen erwartet Softwareher-
+QSHGVK und QSMG aktuali- siert QSHGV, QSKE und QSHLT aktualisiert aktualisiert  ADMP und ZervixZyto aktuali- siert und QSHGVK aktualisiert QSKE und QSHLT aktualisiert ADMP und ZervixZyto aktuali- siert Systemvoraus- setzungen der Kommandozeile im Beispiel Anpassungen bzgl. des geänderten Dateiformates bzgl. neuen QSKE und QSHLT steller entfallen erwartet Softwareher-Seite 2 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 | 1.29 | 29.01.2018 | KBV | Aktualisierung der Schlüssel für    Streichung          Streichung der Disketten Unter- | Vorgesehener | 13        8   13  27    10  15  16  18  22 |
 |---|---|---|---|---|---|
@@ -56,7 +63,9 @@ QSHGVK und QSMG aktuali- siert QSHGV, QSKE und QSHLT aktualisiert aktualisiert  
 | 1.18 | 23.01.2012 | KBV | Beschreibung Returnwerte und |  | **10** |
 | 1.17 | 19.01.2012 | KBV | Neue | Zusammenführung mit Do- | **25** **28** **30** |
 
-zweijähriger DA, ADMP, KVKol, KV, Dialyse, Schlüsseltausch ZervixZyto, EHKS LDT 2- Unterstützung stützung QSMG, QSHGV und QSHGVK aktualisiert Schlüssel erhöht  Arbeitsmodus nicht multi-user- tion) überarbeitet fähig von namen des Schlüssels namens QSHGVK namen re QSHGV und QSMG QS-Dokumentation Kapselendoskopie redaktionell bzgl. veralteter Links überarbeitet namen auf entfernt. Lösungsmöglichkeiten Kapitel Schlüssel, Schlüsselverwaltung, Konfigu- XKM- rations- und Handhabungsemp- Anwenderhinweise fehlungen 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+zweijähriger DA, ADMP, KVKol, KV, Dialyse, Schlüsseltausch ZervixZyto, EHKS LDT 2- Unterstützung stützung QSMG, QSHGV und QSHGVK aktualisiert Schlüssel erhöht  Arbeitsmodus nicht multi-user- tion) überarbeitet fähig von namen des Schlüssels namens QSHGVK namen re QSHGV und QSMG QS-Dokumentation Kapselendoskopie redaktionell bzgl. veralteter Links überarbeitet namen auf entfernt. Lösungsmöglichkeiten Kapitel Schlüssel, Schlüsselverwaltung, Konfigu- XKM- rations- und Handhabungsemp- Anwenderhinweise fehlungen Seite 3 von 33
 
 
 ---
@@ -117,7 +126,13 @@ zweijähriger DA, ADMP, KVKol, KV, Dialyse, Schlüsseltausch ZervixZyto, EHKS LD
 
 **4.1** **Starten des XKM von Konsole/Desktop .................................................................................... 24**
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
 **I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 4 von 33
 
 
 ---
@@ -158,6 +173,13 @@ zweijähriger DA, ADMP, KVKol, KV, Dialyse, Schlüsseltausch ZervixZyto, EHKS LD
 
 **33**
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 5 von 33
+
+
 ---
 
 Abbildung 1: Der Standarddialog .......................................................................................... 20
@@ -168,7 +190,13 @@ Abbildung 3: Protokoll Test-Ver-/Entschlüsselung ..............................
 
 Abbildung 4: Konsole Test-Ver-/Entschlüsselung ................................................................. 29
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
 **A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 6 von 33
 
 
 ---
@@ -191,10 +219,18 @@ Tabelle 8: Aufruf zum Erzeugen allgemeiner Schlüsselpaare .....................
 
 Tabelle 9: Strukturbeschreibung des XKM Headers ............................................................. 33
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
 **T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 7 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 # 1 Einleitung
 
@@ -217,6 +253,10 @@ Es wird die Java Laufzeitumgebung 17 oder höher benötigt.
 ## 1.3 Nutzungsbedingungen
 
 Die KBV übernimmt den Support bei der Verwendung des XKMs in den aufgelisteten Arbeits-modi im Kapitel 3.2.1. Die KBV übernimmt keinen Support bei selbstdefinierten Arbeitsmodi  und bei selbstdefinierten Schlüsseln.
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 8 von 33
 
 
 ---
@@ -243,9 +283,16 @@ Die Verzeichnisstruktur des KBV-Kryptomoduls hat den folgenden Aufbau:
 
 **Tabelle 1: Übersicht der XKM Ordner**
 
-konnten. abgelegt, die im Serverbetrieb ohne Löschmodus (-l) verarbeitet wurden. Kryptomoduls benötigt werden. ment. Ordner auch das Eingangsverzeichnis beim Entschlüsseln von Dateien.
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+konnten. abgelegt, die im Serverbetrieb ohne Löschmodus (-l) verarbeitet wurden. Kryptomoduls benötigt werden. ment. Ordner auch das Eingangsverzeichnis beim Entschlüsseln von Dateien. Seite 9 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 # 3 Arbeiten mit dem XKM
 
@@ -276,9 +323,13 @@ Weiterhin wird der Status des Verarbeitungsvorgangs über den Returnwert der Jav
 | 7: | Datei kann nicht verarbeitet (lesen, schreiben, löschen)  a) Prüfen Sie, ob die notwendigen Zugriffsrechte auf die |
 | 8: | (Wird nicht mehr verwendet) |
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
 *Listen*-Verzeichnis eine Protokolldatei
 
-moduls erfolgt mittels Konfigurationsdatei und Übergabeparame- ter. rung des Kryptomoduls erfolgt mittels Konfigurationsdatei und Übergabeparameter. ok Unerwartetes Folgepaket Keine Datei bearbeitet interner Fehler Verarbeitung abgebrochen Schlüsselfehler Hardwareproblem unbekannter Endestatus Folgepakete gefunden. Prüfen Sie den Dateneingang und setzen Sie sich ggfls. mit dem Absender in Verbindung. en vorhanden sind. vorliegt Beachten Sie den zusätzlichen XKM-Fehlertext. Setzen Sie sich mit unserem Support in Verbindung. fen Sie ob der aktuellste Schlüssel verwendet wird. Fragen Sie auf der Absenderseite nach, mit welchem Schlüssel die Daten verschlüsselt wurden. In seltenen Fällen kann auch eine auf dem Transportweg beschädigte Datei zu diesem Fehler führen. werden: das Verzeichnis b) Prüfen Sie, ob ein anderes Programm die Datei in Bear- beitung hat und somit blockiert.  bestehen. *Proto-*
+*Proto-*
+
+moduls erfolgt mittels Konfigurationsdatei und Übergabeparame- ter. rung des Kryptomoduls erfolgt mittels Konfigurationsdatei und Übergabeparameter. ok Unerwartetes Folgepaket Keine Datei bearbeitet interner Fehler Verarbeitung abgebrochen Schlüsselfehler Hardwareproblem unbekannter Endestatus Folgepakete gefunden. Prüfen Sie den Dateneingang und setzen Sie sich ggfls. mit dem Absender in Verbindung. en vorhanden sind. vorliegt Beachten Sie den zusätzlichen XKM-Fehlertext. Setzen Sie sich mit unserem Support in Verbindung. fen Sie ob der aktuellste Schlüssel verwendet wird. Fragen Sie auf der Absenderseite nach, mit welchem Schlüssel die Daten verschlüsselt wurden. In seltenen Fällen kann auch eine auf dem Transportweg beschädigte Datei zu diesem Fehler führen. werden: das Verzeichnis b) Prüfen Sie, ob ein anderes Programm die Datei in Bear- beitung hat und somit blockiert.  bestehen. Seite 10 von 33
 
 
 ---
@@ -303,10 +354,16 @@ Die Versionen der Schüssel in der folgenden Tabelle listen die zum Zeitpunkt de
 
 Achtung: Die in der Tabelle verwendete Versionsnummer des Schlüssels muss nicht der ak-tuell gültigen Version entsprechen. Bitte entnehmen Sie die aktuellen (öffentlichen) Schlüssel  immer direkt der ITA-Webseite.
 
-kein Folgepaket gefunden weil eine oder mehrere Dateien fehlen. Stellen Sie sicher, dass alle zusammengehörigen Split-Dateien übermittelt wurden Protokollierungsproblem mensgleiche Datei ist bereits durch einen PDF-Reader oder ein anderes Programm geöffnet.  Fehler bei Prüfsummenbildung ten Daten verändert wurden. Stellen Sie sicher, dass die Dateien auf dem Transportweg korrekt übertragen werden. 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+kein Folgepaket gefunden weil eine oder mehrere Dateien fehlen. Stellen Sie sicher, dass alle zusammengehörigen Split-Dateien übermittelt wurden Protokollierungsproblem mensgleiche Datei ist bereits durch einen PDF-Reader oder ein anderes Programm geöffnet.  Fehler bei Prüfsummenbildung ten Daten verändert wurden. Stellen Sie sicher, dass die Dateien auf dem Transportweg korrekt übertragen werden. Seite 11 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 \| Name des  Arbeitsmodus | Dateifilter | Schlüsseldatei | Index | Besonderheit | |
 |  |  |  |  | Eingang | Ausgang |
@@ -339,9 +396,14 @@ kein Folgepaket gefunden weil eine oder mehrere Dateien fehlen. Stellen Sie sich
 | QSHGVK_Entschluesselung | *.zip.XKM | *.zip | Privat_QSHGVK_V07.pfx  Privat_QSHGVK_V08.pfx | 30 | - |
 | QSKE_Verschluesselung | *.zip | * | Oeffentlich_QSKE_V06.pub  Oeffentlich_QSKE_V07.pub | 31 | - |
 
-lich_Testschluessel_V01.pub lich_Testschluessel_V02.pub wird unterstützt wird unterstützt wird unterstützt
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+lich_Testschluessel_V01.pub lich_Testschluessel_V02.pub wird unterstützt wird unterstützt wird unterstützt Seite 12 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 \| Name des  Arbeitsmodus | Dateifilter | Schlüsseldatei | Index | Besonderheit | |
 |  |  |  |  | Eingang | Ausgang |
@@ -352,10 +414,16 @@ lich_Testschluessel_V01.pub lich_Testschluessel_V02.pub wird unterstützt wird u
 | HDRG_Verschlüsselung | *.con | *.con.XKM | Oeffentlich_HDRG_V01.pub   Oeffentlich_HDRG_V02.pub | 35 | - |
 | HDRG_Entschlüsselung | *.con.XKM | *.con | Privat_HDRG_V01.pfx  Privat_HDRG_V02.pfx | 36 | - |
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
 **Tabelle 4: Verwendete Schlüssel des Kryptomoduls**
+
+Seite 13 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 ### Erläuterung zum Dateifilter:
 
@@ -425,6 +493,11 @@ spielhafter Inhalt für je einen Verschlüsselungs- und einen Entschlüsselungsm
 
 </arbeitsmodi>
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 14 von 33
+
+
 ---
 
 ## 3.3 Die Konfigurationsdatei
@@ -471,7 +544,16 @@ angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestel
 
 </Konfiguration>
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 15 von 33
+
+
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-
 
 **3.3.1** **Konfigurationsschalter**
 
@@ -489,9 +571,16 @@ angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestel
 | Schluesseldatei | Dateiangabe | Name der Datei für benutzerdefinierte |
 | Pruefinfo | Dateiangabe | Optionale Angabe eines Kommunika- |
 
-DMP_Entschluesselung Abrechnungs_Entschluesselung ADMP_Entschluesselung TEST_Entschluesselung EHKS_Entschluesselung ApothekenRZ_Entschluesselung TEXT, HTML, XLS, XML, JRPRINT, CSV, PRINTER,  PRINTER_DIALOG, Kein Verschlüsselung diesem verschlüsselten Dateien abgelegt. Ist gleichzeitig Dateneingangsverzeichnis bei der Entschlüsselung. diesem entschlüsselten Dateien abgelegt. schlüsselt werden konnten. können hier auch benutzerdefinierte Arbeitsmodi angegeben werden.  RTF, benutzerspezifischen Schlüssel Arbeitsmodi. Standardmäßg wird fig/schluessel.xml  verwendet. tionssatzes werden werden Kon-
+Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+DMP_Entschluesselung Abrechnungs_Entschluesselung ADMP_Entschluesselung TEST_Entschluesselung EHKS_Entschluesselung ApothekenRZ_Entschluesselung TEXT, HTML, XLS, XML, JRPRINT, CSV, PRINTER,  PRINTER_DIALOG, Kein Verschlüsselung diesem verschlüsselten Dateien abgelegt. Ist gleichzeitig Dateneingangsverzeichnis bei der Entschlüsselung. diesem entschlüsselten Dateien abgelegt. schlüsselt werden konnten. können hier auch benutzerdefinierte Arbeitsmodi angegeben werden.  RTF, benutzerspezifischen Schlüssel Arbeitsmodi. Standardmäßg wird fig/schluessel.xml  verwendet. tionssatzes werden werden Kon-Seite 16 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 | Schalter | Zulässige Werte | Funktion |
 |---|---|---|
@@ -508,10 +597,14 @@ DMP_Entschluesselung Abrechnungs_Entschluesselung ADMP_Entschluesselung TEST_Ent
 
 Das XKM kann mithilfe von Kommandozeileparametern gesteuert werden, welche die in der  Konfigurations-XML (‚config.xml’) definierten Schalter überschreiben. Bitte beachten Sie, dass  bei einem Aufruf in der Windows-Konsole systembedingt maximal 9 Übergabeparameter mög-lich sind.
 
-mierung nimum von 1000. vordefiniert: selt selt oder ‚TEMP’ lenden  Dateien fest. mit grafischer Oberfläche der Dialog zum Anpassen der Konfiguration auf- gerufen werden darf.  rechnungsverschluesselung’ au- tomatische Komprimierung aktiviert wird. Voreingestellt ist dus erfolgreich verschlüsselt wurden dus erfolgreich entschlüsselt wurden. rend der Verarbeitung durch das XKM erzeugt werden. Bei Angabe ‚TEMP’ das nutzerspezifische temporäre Verzeichnis verwendet, und um den Pfad ‚KBV/XKM/Work/’ erwei- tert.  
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+mierung nimum von 1000. vordefiniert: selt selt oder ‚TEMP’ lenden  Dateien fest. mit grafischer Oberfläche der Dialog zum Anpassen der Konfiguration auf- gerufen werden darf.  rechnungsverschluesselung’ au- tomatische Komprimierung aktiviert wird. Voreingestellt ist dus erfolgreich verschlüsselt wurden dus erfolgreich entschlüsselt wurden. rend der Verarbeitung durch das XKM erzeugt werden. Bei Angabe ‚TEMP’ das nutzerspezifische temporäre Verzeichnis verwendet, und um den Pfad ‚KBV/XKM/Work/’ erwei- tert.  Seite 17 von 33
 
 
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-Kryptomodul XKM
 
 **3.4.1** **Kommandozeilenparameter**
 
@@ -540,9 +633,12 @@ mierung nimum von 1000. vordefiniert: selt selt oder ‚TEMP’ lenden  Dateien 
 | ***-x*** | Name des Pfads für Bearbeitet-Verschluesselte Dateien im Servermodus. Über- |
 | ***-y*** | Name des Pfads für Bearbeitet-Entschluesselte Dateien im Servermodus. Über- |
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
 **Tabelle 6: Kommandozeilenparameter**
 
-rameter Konfigurationsdatei. Default: ‚ Konfig/config.xml Schalter ‚Quelle’. (siehe hierzu 3.2 „Die Arbeitsmodi“). Überschreibt Schalter ‚Arbeitsmodus’ schluesselt’. schluesselt’ den-Takt Dateien eines Eingangsverzeichnisses. Der Abbruch des Programmlaufs kann über CTRL-C STRG-C erfolgen. anschließend. (Einzellaufmodus).Schalter nur in Verbindung mit Servermodus setz- bar. werden. Überschreibt XML- Schalter ‚System’. ‚Schluesseldatei’. Default: ‚konfig/schluessel.xml’ Schalter ‚Schluesselpfad’. Schalter ‚KonfigDialog’ format’ Ausschalten autom. Komprimierung nungs_Verschluesselung’ Bei der Angabe ‚TEMP’ wird das nut- zerspezifische temporäre Verzeichnis verwendet.  Schalter ‚BearbeitetVerschluesselt’ Schalter ‚BearbeitetEntschluesselt’ Schalter ‚Ausschuss’ Schalter ‚Protokolldatei’. Schalter ‚Pruefinfo’ Schalter ‚Paketgroesse’ Schalter ‚Protokoll- Schalter ‚Ver- Schalter ‚Ent- Modus ‚Abrech-
+rameter Konfigurationsdatei. Default: ‚ Konfig/config.xml Schalter ‚Quelle’. (siehe hierzu 3.2 „Die Arbeitsmodi“). Überschreibt Schalter ‚Arbeitsmodus’ schluesselt’. schluesselt’ den-Takt Dateien eines Eingangsverzeichnisses. Der Abbruch des Programmlaufs kann über CTRL-C STRG-C erfolgen. anschließend. (Einzellaufmodus).Schalter nur in Verbindung mit Servermodus setz- bar. werden. Überschreibt XML- Schalter ‚System’. ‚Schluesseldatei’. Default: ‚konfig/schluessel.xml’ Schalter ‚Schluesselpfad’. Schalter ‚KonfigDialog’ format’ Ausschalten autom. Komprimierung nungs_Verschluesselung’ Bei der Angabe ‚TEMP’ wird das nut- zerspezifische temporäre Verzeichnis verwendet.  Schalter ‚BearbeitetVerschluesselt’ Schalter ‚BearbeitetEntschluesselt’ Schalter ‚Ausschuss’ Schalter ‚Protokolldatei’. Schalter ‚Pruefinfo’ Schalter ‚Paketgroesse’ Schalter ‚Protokoll- Schalter ‚Ver- Schalter ‚Ent- Modus ‚Abrech-Seite 18 von 33
+
 
 ---
 
@@ -576,8 +672,14 @@ Letztlich muss die Umgebungsvariable der JavaVM bekannt gemacht werden. Dies err
 
 ```
 java -DDATENEINGANG=%DATENEINGANG% ...
-
 ```
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 19 von 33
+
 
 ---
 
@@ -607,6 +709,13 @@ Bitte drücken Sie den
 
 Diese Option steht Ihnen nur zur Verfügung, wenn das XKM nicht aktiv ist, also keine Ver- oder Entschlüsselung durchführt.
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 20 von 33
+
+
 ---
 
 #### 3.6.1.4 Ver- oder Entschlüsselung abbrechen
@@ -620,6 +729,12 @@ Der Konfigurations-Dialog
 Den Konfigurations-Dialog erreichen Sie über die Menüabfolge *Bearbeitung Optionen*. Hier  können fast alle Einstellungen, die im Zusammenhang mit den Schaltern der Konfigurations-datei *Konfig/config.xml* beschrieben wurden, angepasst werden.
 
 Sollte die Möglichkeit zur Optionsverwaltung aus Sicherheitsgründen nicht erwünscht sein, so  können Sie in der Konfigurationsdatei über den Schalter *<KonfigDialog>Nein</KonfigDialog>*  den Aufruf dieses Dialogs unterbinden.
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 21 von 33
 
 
 ---
@@ -645,8 +760,16 @@ Bei gesplitteten Paketen wird zusätzlich zu der Endung *.XKM* noch ein dreistel
 
 Der Schalter Quelle/*Verschluesselt* gibt das Verzeichnis an, wo das XKM die verschlüsselten  Daten laden und sichern kann.
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 22 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 ## 3.8 Hilfsprogramme des XKMs
 
@@ -687,7 +810,11 @@ Zum Beispiel:
 
 Public Key: Schluessel/2012_06_26_17_31_12_public.pub
 
-mithilfe eines GUI-Dialogs. und einem privaten Schlüssel. Private Key: Schluessel/2012_06_26_17_31_12_private.pfx
+Private Key: Schluessel/2012_06_26_17_31_12_private.pfx
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+mithilfe eines GUI-Dialogs. und einem privaten Schlüssel. Seite 23 von 33
 
 
 ---
@@ -722,6 +849,12 @@ Der Parameter ‚de.kbv.xkm.Main’ ist der Name der Startklasse.
 
 Die Parameter ‚-mVerschluesselung’ und ‚-fquelle\beispieldatei.zip’ sind die eigentlichen  Übergabeparameter, die an das XKM übergeben werden.
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 24 von 33
+
 
 ---
 
@@ -749,6 +882,12 @@ Nach Erzeugung eines individuellen Benutzerschlüsselpaars stehen 2 neue Arbeits
 
 **Beispiel:** Erzeugung eines individuellen Schlüsselpaars für die Arztnummer bzw. Betriebs-stättenummer „123456789“
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 25 von 33
+
 
 ---
 
@@ -764,10 +903,16 @@ Nach Erzeugung eines individuellen Benutzerschlüsselpaars stehen 2 neue Arbeits
 
 Dieses Problem kann bei einer Netzwerkinstallation (siehe Kapitel 7.3) umgangen werden.
 
-der XKM- Konsolenvari- ante, Überga- be der Benut- zerkennung mit Parameter Durch Aufruf von „ErzeugeBenutzerschluessel.*“ mit Parameter „ b123456789“ wird die Schlüsselgenerie- rung gestartet der XKM- Konsolenvari- ante, Eingabe der Benutzer- kennung über GUI Der GUI-Dialog zur Eingabe der Benutzerkennung kann durch Aufruf von „ErzeugeGUIBenutzerschlues- sel.*“ gestartet werden. Dort ist dann wie in Variante 3 ab dem zweiten Punkt vorzugehen. des XKM mit GUI Wenn noch kein individuelles Schlüsselpaar vorliegt, wird automatisch der Eingabedialog für die Benutzer- kennung aufgerufen. Im Eingabefeld wird die Zahlenfolge „123456789“ ein- getippt. Mit dem Schalter „Übernehmen“ wird die Schlüsselge- nerierung gestartet. Arzt 123456789 Der private Schlüssel wird mit dem Dateinamen „123456789_privater_ Schluessel.NICHT_weitergeben. pfx “ in %XKMROOT%/System/keys/ angelegt. Der private Schlüssel steht nun unter dem Modusna- me „Entschluesselung“ zur Verfügung. Von dem privaten Schlüssel sollte unbedingt eine Si- cherungskopie erstellt werden, die an einem sicheren Ort aufbewahrt wird. Arzt 123456789 Der öffentliche Schlüssel wird mit dem Dateinamen „123456789_oeffentlicher_Schluessel. pub “ in %XKMROOT%/Schluessel/ angelegt. Der öffentliche Schlüssel steht nun unter dem Modus- name „Verschluesselung“ zur Verfügung. Kopien dieser öffentlichen Schlüsseldatei sind zur Weitergabe an Kommunikationspartner gedacht, die an den Arzt „123456789“ gerichtete Daten (Arztbrief, Befund…) verschlüsseln sollen.
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+der XKM- Konsolenvari- ante, Überga- be der Benut- zerkennung mit Parameter Durch Aufruf von „ErzeugeBenutzerschluessel.*“ mit Parameter „ b123456789“ wird die Schlüsselgenerie- rung gestartet der XKM- Konsolenvari- ante, Eingabe der Benutzer- kennung über GUI Der GUI-Dialog zur Eingabe der Benutzerkennung kann durch Aufruf von „ErzeugeGUIBenutzerschlues- sel.*“ gestartet werden. Dort ist dann wie in Variante 3 ab dem zweiten Punkt vorzugehen. des XKM mit GUI Wenn noch kein individuelles Schlüsselpaar vorliegt, wird automatisch der Eingabedialog für die Benutzer- kennung aufgerufen. Im Eingabefeld wird die Zahlenfolge „123456789“ ein- getippt. Mit dem Schalter „Übernehmen“ wird die Schlüsselge- nerierung gestartet. Arzt 123456789 Der private Schlüssel wird mit dem Dateinamen „123456789_privater_ Schluessel.NICHT_weitergeben. pfx “ in %XKMROOT%/System/keys/ angelegt. Der private Schlüssel steht nun unter dem Modusna- me „Entschluesselung“ zur Verfügung. Von dem privaten Schlüssel sollte unbedingt eine Si- cherungskopie erstellt werden, die an einem sicheren Ort aufbewahrt wird. Arzt 123456789 Der öffentliche Schlüssel wird mit dem Dateinamen „123456789_oeffentlicher_Schluessel. pub “ in %XKMROOT%/Schluessel/ angelegt. Der öffentliche Schlüssel steht nun unter dem Modus- name „Verschluesselung“ zur Verfügung. Kopien dieser öffentlichen Schlüsseldatei sind zur Weitergabe an Kommunikationspartner gedacht, die an den Arzt „123456789“ gerichtete Daten (Arztbrief, Befund…) verschlüsseln sollen.Seite 26 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 ## 5.2 Schlüssel für die Standardkommunikationsszenarien der Praxen
 
@@ -781,10 +926,16 @@ Für die Datenverschlüsselung im Rahmen der Abrechnung, bei DMP und Koloskopie,
 |---|---|
 | Einbinden | •  •  • |
 
-Laden Sie von unserem Updateserver Schlüssel in der aktuell gültigen Version herunter:  - Abrechnungsverschlüsselung: Oeffentlich_KV_V09.pub Oeffentlich_KV_V10.pub Kopieren Sie die Schlüssel in das Verzeichnis %XKMROOT%/System/keys/ Stellen Sie sicher, dass die Dateinamen der heruntergela- denen Schlüssel mit den entsprechenden Einträgen der Elemente „schluessel“ in der Datei „schluesselintern.xml (in %XKMROOT%/System/) übereinstimmen und passen Sie die Einträge ggf. an. Nun stehen die Modi unter den folgenden Modusnamen zur Verfügung: - Abrechnungs_Verschluesselung  entschlüsselung.
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+entschlüsselung.
+
+Laden Sie von unserem Updateserver Schlüssel in der aktuell gültigen Version herunter:  - Abrechnungsverschlüsselung: Oeffentlich_KV_V09.pub Oeffentlich_KV_V10.pub Kopieren Sie die Schlüssel in das Verzeichnis %XKMROOT%/System/keys/ Stellen Sie sicher, dass die Dateinamen der heruntergela- denen Schlüssel mit den entsprechenden Einträgen der Elemente „schluessel“ in der Datei „schluesselintern.xml (in %XKMROOT%/System/) übereinstimmen und passen Sie die Einträge ggf. an. Nun stehen die Modi unter den folgenden Modusnamen zur Verfügung: - Abrechnungs_Verschluesselung  Seite 27 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 # 6 Schlüsselverwaltung / Arbeitsmodi
 
@@ -821,7 +972,11 @@ Im Element „name“ wird ein frei wählbarer Modusname festgelegt. Unter diese
 
 Im Element „schluessel“ wird der Dateiname des einzubindenden Schlüssels angegeben. Der  einzubindende Schlüssel muss physikalisch unter dem angegebenen Dateinamen „Schlues-sel“ (Standardpfad %XKMROOT%/Schluessel/) abgelegt sein, erst dadurch steht der Modus  unter der im Element „name“ festgelegten Bezeichnung auch tatsächlich zur Verfügung.
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
 -Optionendialog) erfolgt programm-
+
+Seite 28 von 33
 
 
 ---
@@ -837,6 +992,12 @@ Im Rahmen der Anwendung erfolgt durch das XKM ein Hinweis auf Konsole bzw. im Pr
 **Abbildung 3: Protokoll Test-Ver-/Entschlüsselung**
 
 **Abbildung 4: Konsole Test-Ver-/Entschlüsselung**
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 29 von 33
 
 
 ---
@@ -869,8 +1030,16 @@ Da das XKM nicht multi-user fähig ist, würde sonst bei nur einem zentralen Sys
 
 Hierbei ist zu beachten, dass das „System“-Verzeichnis erst nach einem erstmaligem Aufruf  der GUI-Variante bzw. nach manuellem Aufruf von „ErzeugeBenutzerschluessel.*“ kopiert  werden sollte, damit alle Installationen denselben individuellen privaten Schlüssel verwenden.
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 30 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 ## 7.4 Starten des XKM aus einem Java-Programm heraus
 
@@ -899,6 +1068,11 @@ nRetCode = ex.getCode();
 System.err.println("Fehlercode: " + nRetCode + ". " + ex.getMessage());
 ```
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 31 von 33
+
+
 ---
 
 # 8 Das Verschlüsselungsverfahren des XKM
@@ -916,8 +1090,16 @@ a. Neu generierte Schlüssel über die Hilfsprogramme *ErzeugeBenutzerschluessel
 - c) Schlüssellogistik: Die Zahl der nötigen Schlüssel wächst linear mit der Zahl der Teil-nehmer. Bei rein symmetrischen Systemen ist der Zuwachs dagegen quadratisch.
 - d) Eine geheime Übermittlung des Schlüssels - wie bei symmetrischen Verfahren erfor-derlich  entfällt. Die Kombination aus Private- und Public-Key ermöglicht spontane  Kommunikation.
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
+Seite 32 von 33
+
 
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-Kryptomodul XKM
 
 # 9 Aufbau des XKM
 
@@ -956,9 +1138,13 @@ Hinweise:
 -
 ```
 
+KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
+
 **Tabelle 9: Strukturbeschreibung des XKM Headers**
 
 - Alle Inhalte werden linksbündig in die Felder geschrieben
 - Bei Bedarf wird mit Leerzeichen aufgefüllt
 
-triebstättenummer (BSNR) BSNR:’ + Arztnummer bzw. BSNR (Optional) im Format dd.mm.yyyy hh:mm:ss y = Pakete insgesamt XKM verschlüsselte Datei XKM 1.08) ‚TEST’ Verwendung (ab XKM 1.08) Testschlüsselung# Header
+# Header
+
+triebstättenummer (BSNR) BSNR:’ + Arztnummer bzw. BSNR (Optional) im Format dd.mm.yyyy hh:mm:ss y = Pakete insgesamt XKM verschlüsselte Datei XKM 1.08) ‚TEST’ Verwendung (ab XKM 1.08) TestschlüsselungSeite 33 von 33

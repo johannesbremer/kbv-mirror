@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_SIEX_ DOSB_FORMULARE_ERLAUTERUNG]
 
+Seite 1 von 5 / KBV / Erläuterung der DOSB-Formulare / 13. Februar 2026
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -22,6 +24,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 |---|---|---|---|---|---|
 | 1.00 | 13.02.2026 | KBV | Bereitstellung |  |  |
 
+Seite 2 von 5 / KBV / Erläuterung der DOSB-Formulare / 13. Februar 2026
+
+
 ---
 
 ## INHALT
@@ -29,6 +34,10 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 **1** **ALLGEMEIN**
 
 **4**
+
+Seite 3 von 5 / KBV /
+
+Erläuterung der DOSB-Formulare / 13. Februar 2026
 
 ---
 
@@ -53,6 +62,7 @@ Die beiden vorliegenden Formulare Rezept_für_Bewegung-SpG und Rezept_Kinder_Deu
 
 Kontakt:
 
+Seite 4 von 5 / KBV / Erläuterung der DOSB-Formulare / 13. Februar 2026
 
 ---
 
@@ -61,3 +71,7 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 [Tel.: 030 4005-2077,](mailto:ita@kbv.de)[ita@kbv.de](mailto:ita@kbv.de)[](mailto:ita@kbv.de)
 
 [Kassenärztliche Bundesvereinigung](mailto:ita@kbv.de) Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de](mailto:ita@kbv.de) [www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 5 von 5 / KBV / Erläuterung der DOSB-
+
+Formulare / 13. Februar 2026

@@ -31,6 +31,8 @@ In Kraft
 
 ---
 
+**IT in der Arztpraxis** Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
 ### D O K U M E N T E N H I S T O R I E
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
@@ -39,7 +41,10 @@ In Kraft
 | 2.11 | 10.11.2015 | KBV | Erweiterung des | Anpassung an das | **25** |
 | 2.10 | 01.08.2012 | KBV | Red. |  |  |
 
-Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Änderungen
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Änderungen Seite 2 von 37
+
 
 ---
 
@@ -116,6 +121,12 @@ Kommunikationsmöglichkeiten des Arztes/Krankenhauses (telecom) ................
 Patiententyp (patient.type_cd) .................................................................................... 23 6.9.2
 
 Die Person Patient (person) ........................................................................................ 23
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 3 von 37
 
 
 ---
@@ -202,8 +213,16 @@ Zusatzangabe zur XML-Schnittstelle (Software) ..................................
 
 **8** **Referenzierte Dokumente ................................................................................................... 37**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 4 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 ### A B B I L D U N G S V E R Z E I C H N I S
 
@@ -239,6 +258,10 @@ Abbildung 14 Grundstruktur sciphox:Software ....................................
 
 Abbildung 15 Grundstruktur sciphox:Software ......................................................................... 35
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 5 von 37
+
 
 ---
 
@@ -270,6 +293,12 @@ Tabelle 11 Erläuterungen nm (Patient) .........................................
 
 Tabelle 12 SoftwareTyp ........................................................................................................ 32
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 6 von 37
+
 
 ---
 
@@ -295,8 +324,16 @@ Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlini
 
 ***Lediglich die genannten Plausibilitätsprüfungen sind Prüfungen des KBV-Prüfmoduls***  ***XPM.***
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 7 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 # 2 Dateinamen
 
@@ -336,6 +373,10 @@ Beispiele:
 -  123456789_123_20070301_a.EED1
 -  123456789_123_20070601_a.EVD1
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 8 von 37
+
 
 ---
 
@@ -374,10 +415,18 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
 **Tabelle 1**
 
-Überblick-Unterschiede EDMP_ASTHMA_EE EDMP_ASTHMA_EV EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A chiale a-Datensatz**Unterschiede Volldatensatz und a-Datensatz**
+**Unterschiede Volldatensatz und a-Datensatz**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Überblick-Unterschiede EDMP_ASTHMA_EE EDMP_ASTHMA_EV EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A chiale a-DatensatzSeite 9 von 37
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 # 4 Semantik der verwendeten Diagramm-Symbole
 
@@ -419,7 +468,11 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 4**
 
-Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp. stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. **Beschreibung sonstiger Symbole**
+**Beschreibung sonstiger Symbole**
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp. stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. Seite 10 von 37
 
 
 ---
@@ -476,7 +529,13 @@ Der Wert für den im Codebeispiel angegebenen Platzhalter „Schema.xsd“ richt
 [](http://www.w3.org/xml)
 ```
 
-W3C-Spezifikation erlaubt Spezifikation nur innerhalb der At- tributwerte nicht erlaubt 1 [W3C-Spezifikation](http://www.w3.org/xml)[http://www.w3.org/xml](http://www.w3.org/xml)[](http://www.w3.org/xml)
+1 [W3C-Spezifikation](http://www.w3.org/xml)[http://www.w3.org/xml](http://www.w3.org/xml)[](http://www.w3.org/xml)
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+W3C-Spezifikation erlaubt Spezifikation nur innerhalb der At- tributwerte nicht erlaubt Seite 11 von 37
 
 
 ---
@@ -485,8 +544,16 @@ Die Platzhalter (entsprechen immer drei Punkten "...") müssen durch die in den 
 
 Zu beachten ist, dass die erstmalige Dokumentation und die Verlaufsdokumentation gleiche  *clinical_document_header* besitzen. Strukturelle Unterschiede ergeben sich erst im *body* der  beiden Dokumente. Das Kapitel 6 clinical_document_header (allgemein) ist somit sowohl für  die erstmalige als auch für die Verlaufsdokumentation gültig.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 12 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 # 6 clinical_document_header (allgemein)
 
@@ -542,9 +609,13 @@ Der Coderahmen für das Element  aus:
 
 </clinical_document_header>
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 *clinical_document_header* einer XML-Datei sieht wie folgt
 
 **XML-Code 2 clinical_document_header**
+
+Seite 13 von 37
 
 
 ---
@@ -585,8 +656,16 @@ Der Code für das Element *document_type_cd* ist fest vorgeschrieben und zwingen
 
 [2](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[http://www.kbv.de/keytabs/ita/schluesseltabellen.asp](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)[](http://www.kbv.de/keytabs/ita/schluesseltabellen.asp)
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 14 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 (1.2.276.0.76.5.100) stammt. Der Wert EDMP_DIABETES1_EE entspricht: „Erstmalige Do- kumentation Diabetes mellitus Typ 1“. Im *S* Attribut steht die eindeutige OID der Schlüsselta- belle. Die Bezeichnung des Systemnamens wird im  Attributs beschreibt den kodierten Wert des V-Attributs. Erlaubte Werte für das  nen aus der Schlüsseltabelle (1.2.276.0.76.5.100) entnommen werden. Das  *SN*-, und das *DN*-Attribut sind zwingend erforderlich. Das SN-Attribut hat den fixen Wert
 
@@ -630,11 +709,15 @@ Bei einer Korrekturlieferung steht im Element *document_relationship*  sprungsdo
 
 Die Grundstruktur für dieses Element ist in Abbildung 3 dargestellt.
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 ein Verweis auf das Ur-
 
 *document_relationship.type_cd*
 
 *V*-Attribut kön- *V-*, das *S*-, das
+
+Seite 15 von 37
 
 
 ---
@@ -685,6 +768,12 @@ Bei einer Korrekturlieferung steht im *id*-Element des Elements *related_documen
 
 Der Erbringer des Dokuments kann ein Arzt in der Arztpraxis oder ein Arzt im Krankenhaus  sein. Das Element *provider* enthält die Daten zum untersuchenden Arzt und muss einmal vor-
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 16 von 37
+
 
 ---
 
@@ -734,8 +823,16 @@ function_cd V="VERTRETER" S="1.2.276.0.76.5.105" SN="KBV" DN="Vertreter"/>
 
 **XML-Code 15 function_cd**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 17 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 ### 6.8.3 Die Person Arzt (person)
 
@@ -789,6 +886,8 @@ Der Arzt ist verpflichtet die BSNR und LANR ab 1.07 zu verwenden. Wenn die Dokum
 
 Falls in der Dokumentation eine Krankenhaus-IK eingetragen wurde, muss im  Krankenhaus-IK angegeben werden, das 9-stellig numerisch ist. Im  fest vorgegebene Wert „Krankenhaus-IK“.
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 *id person_name addr*  *addr* und *telecom* weg und nur  dargestellt.
 
 sieht in diesem Fall wie folgt aus:
@@ -797,8 +896,12 @@ sieht in diesem Fall wie folgt aus:
 
 *EX*-Attribut das  *RT*-Attribut steht dann der
 
+Seite 18 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 Das Element *id* darf max. dreimal auftreten, wenn die Angaben („LANR“, „BSNR“ und „Kran- kenhaus-IK“) gleichzeitig vorhanden sind. Es sind folgende Kombinationen möglich:
 
@@ -840,8 +943,14 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 **XML-Code 18 person_name (Arzt)**
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 19 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 6.8.3.2.1 Namensbestandteile des Arztes (nm)
 
@@ -899,11 +1008,16 @@ Abbildung 7 dargestellt.
 
 *HNR ZIP, CTY*
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 und *CNT* Die Struktur dieses Elements ist in *addr* enthält
 
-Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen, z.B. „Freiherr“ oder „von“ Zeichen Zeichen Zeichen Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) chenden XML-Elemente:
+Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen, z.B. „Freiherr“ oder „von“ Zeichen Zeichen Zeichen Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) chenden XML-Elemente: Seite 20 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 **Abbildung 7 Grundstruktur addr (Arzt)**
 
@@ -944,6 +1058,8 @@ Als Beispiel für eine Anschrift eines Krankenhauses sei hier folgender Code ang
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  besteht aus den Attributen  ressen und Homepages aufzunehmen. Es muss für den Arzt oder das Krankenhaus mindes- tens eine Telefonnummer angegeben sein. Es sind maximal fünf dieser Elemente erlaubt. Bei
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 **XML-Code 20 addr (Arzt)**
 
 *V* und *USE*. Es dient dazu, Telefon- und Faxnummern, Emailad-
@@ -956,10 +1072,14 @@ Wenn das Do-
 
 Tabelle
 
-9  sind die Kindelemente des Elements addr erläutert und ihre Kardinalitäten angegeben. lung stattgefunden hat *telecom*
+*telecom*
+
+9  sind die Kindelemente des Elements addr erläutert und ihre Kardinalitäten angegeben. lung stattgefunden hat Seite 21 von 37
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 dem *V* mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
 
@@ -1017,11 +1137,15 @@ Der Coderahmen für das Element
 
 </patient>
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 **Abbildung 8 Grundstruktur patient**
 
 *patient* sieht wie folgt aus:
 
-Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10  aufgeführt. **XML-Code 21 patient**
+**XML-Code 21 patient**
+
+Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10  aufgeführt. Seite 22 von 37
 
 
 ---
@@ -1074,8 +1198,16 @@ In dem Element *id* steht im *EX*-Attribut die lokal eindeutige bis zu 7-stellig
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *per-*  *son_name* enthält das Element *nm*, welches im nächsten Abschnitt konkretisiert wird. Die  Grundstruktur dieses Element ist in Abbildung 10 dargestellt.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 23 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 **Abbildung 10 Grundstruktur person_name (Patient)**
 
@@ -1111,12 +1243,16 @@ Unterschiede gegenüber den Angaben zum Arzt bestehen nur in Längenbegrenzungen
 
 ### 6.9.2.3 Adresse des Patienten (addr)
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: die Struktur des Ele- ments *addr* entspricht hierbei dem *addr*- Element des Arztes, welches bereits im Abschnitt
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: die Struktur des Ele- ments *addr* entspricht hierbei dem *addr*- Element des Arztes, welches bereits im Abschnitt 6.8.3.3 erläutert wurde.
 
-Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) und Adelsbezeichnungen, „Freiherr“ oder „von“ 6.8.3.3 erläutert wurde.
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) und Adelsbezeichnungen, „Freiherr“ oder „von“ Seite 24 von 37
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 ### 6.9.3 Geburtsdatum des Patienten (birth_dttm)
 
@@ -1143,6 +1279,10 @@ Die Kostenträgerinformationen werden mittels der Sciphox-SSU *insurance v2* dar
 Die Plausibilitäten zu diesen Elementen müssen der KVDT-Beschreibung  [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] entnommen werden.
 
 In a-Datensätzen fallen die Elemente *KostentraegerAbrechnungsbereich, KVBereich, Abrech-*  *nungsVKNR, SKTZusatzangabe, VersichertenstatusKVK, VersichertenartMFR, Statusergaen-*  *zung, BisDatumderGueltigkeit und KVKEinlesedatum* weg. Die konkrete Struktur für dieses  Element ist in Abbildung 11 dargestellt.
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 25 von 37
 
 
 ---
@@ -1201,8 +1341,16 @@ Datentyp String. Als Beispiel sei hier folgender Code für dieses Element angege
 
 3 Der Name ist dem Element *Bedruckungsname* aus der Kostenträger-Stammdatei zu entnehmen, sofern die KTS vor- handen ist.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 26 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 <sciphox:Kostentraegerbezeichnung V="AOK Rheinland"/>
 
@@ -1252,6 +1400,8 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  *satzangabe* kann nur auftreten, wenn es sich bei dem Kostenträger um einen sonstigen Kos-
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 *Kosten-*  *S* Attribut steht die ein- *V*
 
 *KVBereich*
@@ -1260,8 +1410,12 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element
 
 *SKTZu-*
 
+Seite 27 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 tenträger handelt. Im *V-*Attribut kann ein bis zu 60 Stellen umfassender alphanumerischer  Wert eingetragen sein. Als Beispielcode sei hier aufgeführt:
 
@@ -1308,16 +1462,22 @@ Folgender Beispielcode sei hier erwähnt:
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: wenn es sich bei dem  Patienten z.B. um einen Sozialhilfeempfänger handelt, liegt keine Krankenversichertenkarte  und somit auch kein *VersichertenstatusKVK* vor. Stattdessen wird die
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 aufgeführt. Pflichtfeld, wenn
 
 *VersichertenstatusKVK* besteht aus den  *S*-Attribut
 
 *VersichertenstatusKVK* geben das
 
-3.- 4. Stelle: Stichprobenbezug-Geburtsjahr teil. *VersichertenartMFR*
+*VersichertenartMFR*
+
+3.- 4. Stelle: Stichprobenbezug-Geburtsjahr teil. Seite 28 von 37
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 die z.B. einer Bescheinigung vom Sozialamt zu entnehmen ist, in der Dokumentation einge- tragen. Das Element besteht aus dem *V*- und *S* Attribut. Die Werte sind in der Tabelle mit der  OID:2.16.840.1.113883.3.7.1.1 aufgeführt.
 
@@ -1357,8 +1517,14 @@ erfolgreich eingelesen wurde.
 
 **XML-Code 40 KVKEinlesedatum**
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 29 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 ## 6.10 Software (local_header)
 
@@ -1398,7 +1564,14 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 </sciphox:Software>
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 30 von 37
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 </sciphox:sciphox-ssu>
 
@@ -1459,7 +1632,11 @@ Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Soft
 | PVS | Arztpraxissoftware | Arztpraxissoftware |
 | XSD | XML-Schnittstelle | XML-Daten wurden gemäß dieser (DMP) XML- |
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
 **XML-Code 45 SoftwareTyp**
+
+Seite 31 von 37
 
 
 ---
@@ -1514,8 +1691,16 @@ Die Coderahmen für dieses Element sieht wie folgt aus:
 
 Hier wird der Kontakttyp im *V*-Attribut als kodierter Wert angegeben. Die Werte können aus  der Schlüsseltabelle (1.2.276.0.76.3.1.1.5.2.3) entnommen werden. Im *S*-Attribut ist ein fester  Wert für die Schlüsseltabelle vorgeschrieben. Der Wert des DN-Attributs beschreibt den ko- dierten Wert des V-Attributs. Die Angabe zu dem Softwareverantwortlichen ist zwingend ein- mal erforderlich. Deshalb muss genau einmal im Element *Kontakttyp* der Wert „SOFTV“ an- gegeben werden. Als Beispiel sei hier der folgende Code angegeben:
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 32 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 <sciphox:Kontakttyp V="SOFTV" S="1.2.276.0.76.3.1.1.5.2.3" DN="Softwareverantwortlicher"/>
 
@@ -1553,8 +1738,14 @@ Das Kindelement *Software* dient dazu, zusätzliche Informationen zur Schnittste
 
 *SoftwareName SoftwareVersion SoftwareTyp* und dem optionalen Element *Software.*  Grundstruktur ist in Abbildung 14 dargestellt.
 
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Seite 33 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 **Abbildung 14 Grundstruktur sciphox:Software**
 
@@ -1606,7 +1797,7 @@ Das Element *SoftwareName* wurde bereits ausführlich im Abschnitt  lässige Wer
 
 Das Element *SoftwareVersion* wurde bereits ausführlich im Abschnitt  Version der Schnittstelle kann aus dem jeweiligen Schema zur software_ssu des DMP (z.B.  bei Diabetes mellitus Typ 1 -> DMP_DiabetesMellitus1_software_ssu.xsd) oder aus der Datei  ReleaseNotes.html im jeweilgen XPM-Prüfmodul entnommen werden.  angabe ist verpflichtend.
 
-6.10.2 beschrieben. Zu-
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12 6.10.2 beschrieben. Zu-
 
 *SoftwareName*
 
@@ -1616,8 +1807,12 @@ Eine gültige Versions-
 
 zur XML-
 
+Seite 34 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 ### 6.10.6.3 Softwaretyp der XML-Schnittstelle (SoftwareTyp)
 
@@ -1681,7 +1876,7 @@ Das Element *SoftwareTyp* wurde bereits ausführlich im Abschnitt 6.10.4
 
 der Wert „XPM“ fest vorgeschrieben.
 
-6.10.2 beschrieben. Zu-
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12 6.10.2 beschrieben. Zu-
 
 6.10.3 beschrieben. Die
 
@@ -1691,8 +1886,12 @@ zum XPM-
 
 Hier ist
 
+Seite 35 von 37
+
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 # 7 Glossar
 
@@ -1715,9 +1914,14 @@ Hier ist
 | U | U-Attribut (Unit) |
 | WOP | Wohnortprinzip |
 
-Offices and Hospitals using XML between Information Systems in Physician
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Offices and Hospitals using XML between Information Systems in Physician Seite 36 von 37
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
 **8 Referenzierte Dokumente**
 
@@ -1726,4 +1930,6 @@ Offices and Hospitals using XML between Information Systems in Physician
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
 | [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] | KVDT Datensatzbeschreibung, Einheitlicher Daten- |
 
-Versorgung austausch zwischen Arztpraxis und Kassenärztlicher Bundesvereinigung
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+
+Versorgung austausch zwischen Arztpraxis und Kassenärztlicher Bundesvereinigung Seite 37 von 37

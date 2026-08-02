@@ -11,10 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-kulargenetik 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft 
+kulargenetik 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
 
 
 ---
+
+**IT in der Arztpraxis** Anforderungskatalog QS Molekulargenetik
 
 ### DOKUMENTENHISTORIE
 
@@ -31,7 +33,10 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 | 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an das neue |  |
 | 1.00 | 25.04.2012 | KBV | Neues Dokument |  |  |
 
-ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- veralteter Links überarbeitet Pflichtfelder hinwegsetzen Übermittlung. berücksichtigen ( Connect Spezifikation Layout
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- veralteter Links überarbeitet Pflichtfelder hinwegsetzen Übermittlung. berücksichtigen ( Connect Spezifikation Layout Seite 2 von 19
+
 
 ---
 
@@ -91,12 +96,24 @@ ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu
 
 ### INHALTSVERZEICHNIS
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 3 von 19
+
 
 ---
 
 **ABBILDUNG 1:** **BERICHTSZEITRÄUME** ................................................................................................................................ 6
 
 ### ABBILDUNGSVERZEICHNIS
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 4 von 19
 
 
 ---
@@ -144,10 +161,16 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **K8-30** | **Funktionsbezeichnung                                                                            (2-80)** |
 
-(2-70) Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
+Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 (2-70) Seite 5 von 19
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 # 2 Ärztliches Dokumentieren
 
@@ -191,7 +214,7 @@ Quartal.
 
 **Abbildung 1: Berichtszeiträume**
 
-31.03
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 31.03
 
 Melde-
 
@@ -199,8 +222,12 @@ Melde-
 
 ### Prüfquartal
 
+Seite 6 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -231,6 +258,11 @@ Es werden nur abgeschlossene Behandlungsfälle berücksichtigt, für die mind. e
 | **P1-50** | **Gesamtanzahl der Behandlungsfälle nach EBM-Unterabschnitt** |
 
 Die Anzahl aller Behandlungsfälle (mit mind. einer Leistung aus dem EBM Unterabschnitt  11.4.2) ist für die Betriebsstätte zu berechnen und in der Jahresstatistik anzuzeigen.
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 7 von 19
+
 
 ---
 
@@ -271,6 +303,13 @@ Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der
 -  unauffälliger Befund
 -  nicht beurteilbarer Befund
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 8 von 19
+
+
 ---
 
 Die unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben
@@ -306,8 +345,16 @@ Die zu unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben
 
 [KBV_ITA_AHEX_Ausfuellhinweise_QSMG]
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 9 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -342,7 +389,9 @@ Beispiel
 
 Beispiel 3 Quotient differenziert nach Art des Befundes
 
-wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient3: 50 / 20 = 2,5 
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient3: 50 / 20 = 2,5 Seite 10 von 19
 
 
 ---
@@ -387,6 +436,12 @@ Aus der erfassten LANR des Einsenders (nach Muster 10 und 10a) je Behandlungsfal
 
 Für die visuelle Darstellung beim Arzt wird die 8.-9.-Stelle der LANR gemäß der Tabelle [2]  gemappt.
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 11 von 19
+
 
 ---
 
@@ -415,7 +470,16 @@ Beispiel
 
 Beispiel 4 Gesamtanzahl der Untersuchungen
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 12 von 19
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -454,7 +518,14 @@ somit nur nach entsprechender Kenntnisnahme durchgeführt werden.
 
 Eine Ausnahme bilden die Pflichtfelder, welche immer ausgefüllt werden müssen. Bedingte  Pflichtfelder hingegen sind optional, d.h. der Anwender kann sich über Warnungen zu diesen  Feldern hinwegsetzen.
 
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 13 von 19
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -492,7 +563,14 @@ Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehle
 
 Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 14 von 19
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 ## 2.2 Datenübermittlung
 
@@ -539,8 +617,14 @@ Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG-Doku
 
 Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSMG-Dokumentation auf Basis von KIM.
 
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 15 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 **Akzeptanzkriterium:**
 
@@ -585,11 +669,15 @@ Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in ge
 - (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
 ] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
 
 - Spezifikation_eDoku_KIM
 
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Spezifikation_eDoku_KIM] an
+Spezifikation_eDoku_KIM] an
+
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Seite 16 von 19
 
 
 ---
@@ -619,7 +707,16 @@ d) exportierte Datensätze innerhalb des Systems kennzeichnen und
 
 e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 17 von 19
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 ### 2.2.3 Verschlüsseln der Daten
 
@@ -633,8 +730,14 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 
 [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-
 
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Seite 18 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 # 3 Referenzierte Dokumente
 
@@ -650,4 +753,6 @@ Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM ni
 | [3] | Richtlinie der Bundesärztekammer zur Qualitätssiche- |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
 
-Versorgung statistik für Molekulargenetik nen Jahresstatistik in der Molekulargenetik rung laboratoriumsmedizinischer Untersuchungen Tabelle B2-2 Externe Qualitätssicherung (Ringversu- che)
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+
+Versorgung statistik für Molekulargenetik nen Jahresstatistik in der Molekulargenetik rung laboratoriumsmedizinischer Untersuchungen Tabelle B2-2 Externe Qualitätssicherung (Ringversu- che) Seite 19 von 19

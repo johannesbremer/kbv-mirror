@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version  1.18 |
 
-Datum: 06.08.2024 Kennzeichnung: Öffentlich  Status: In Kraft
+Datum: 06.08.2024 Kennzeichnung: Öffentlich  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
+
 
 ---
+
+**IT in der Arztpraxis** Handbuch KBV-Prüfmodul KVDT XPM
 
 Dokumentenhistorie
 
@@ -33,15 +36,28 @@ Dokumentenhistorie
 | 1.07 | 30.04.2007 | KBV | Meldungen aktualisiert | Neues Datenpaket SADT |  |
 | 1.06 | 31.01.2007 | KBV | Redaktionelle Änderungen  Meldungen aktualisiert | OPS-Einführung | 4  18 |
 
-gefügt fernt ePa-Anzeige und VSDM- Anzeige hinzugefügt len.* in SetVersion.* den Dateien Meldun- gen.xml und XDT- Meldungen.xml aufgelis- tet. FK 0211 durch FK 0203 ersetzt. und 0203 geändert. enthaltene Da- tenpakete der Date lichkeit bei Eingabedatei- Kommunikationsdatensatz Hybrid-DRG- oder ADT/SADT/KADT- Datenpakete beschränkt tionen zur ePA- und eRe- zept-Fähigkeit soll immer erfolgen ebenfalls definiert. keine Aktualisierung die- ses Dokumentes mehr nötig. entfallen tung
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT
+
+* Version 1.18
+
+gefügt fernt ePa-Anzeige und VSDM- Anzeige hinzugefügt len.* in SetVersion.* den Dateien Meldun- gen.xml und XDT- Meldungen.xml aufgelis- tet. FK 0211 durch FK 0203 ersetzt. und 0203 geändert. enthaltene Da- tenpakete der Date lichkeit bei Eingabedatei- Kommunikationsdatensatz Hybrid-DRG- oder ADT/SADT/KADT- Datenpakete beschränkt tionen zur ePA- und eRe- zept-Fähigkeit soll immer erfolgen ebenfalls definiert. keine Aktualisierung die- ses Dokumentes mehr nötig. entfallen tung Seite 2 von 19
+
 
 ---
 
 | 1.05 | 02.08.06 | KBV | Meldungen aktualisiert |  |  |
 |---|---|---|---|---|---|
 
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 3 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 inhaltsverzeichnis
 
@@ -95,10 +111,21 @@ inhaltsverzeichnis
 
 Abbildungsverzeichnis
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 4 von 19
+
 
 ---
 
 **Es konnten keine Einträge für ein Abbildungsverzeichnis gefunden werden.**
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 5 von 19
+
 
 ---
 
@@ -116,7 +143,16 @@ Tabelle 5: Felder PDT-Datei Abschluss-Satz .....................................
 
 Tabelle 6: Prüfstatus ............................................................................................................ 18
 
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 6 von 19
+
+
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 # 1 Einleitung
 
@@ -174,6 +210,8 @@ Enthält dieses Dokument und das Dokument „E014 XPM
 
 Dieser Ordner enthält alle prüfungsrelevanten Stammdateien im Binärformat so wie die Steuertabelle KBV_.bin.  Darin sind u.a. die KV-Spezifikadateien enthalten. Die Steuertabelle muss aus Kompatibilitätsgründen auf die  Komponente „xpm-kvdt-praxis_20aa.b.c.jar“ aus dem Ordner „Bin“ abgestimmt sein, daher müssen die beiden  Komponenten immer aus derselben Datenlieferung verwendet werden.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
 Telefon: 030 / 40 05 - 2045  Fax: 030 / 40 05  272045
 
 mailto:[ITA@kbv.de](mailto:ITA@kbv.de)
@@ -187,6 +225,8 @@ um alle mög-
 Anwenderhandbuch“.
 
 cker
+
+Seite 7 von 19
 
 
 ---
@@ -244,8 +284,16 @@ Die Java-Laufzeitumgebung wird mit dem Eintrag java gestartet. Zusätzlich werde
 |---|---|
 | -Xmx500m | gibt die Obergrenze des maximal für die JavaVM |
 
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 8 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 |  | zur Verfügung gestellten Arbeitsspeichers in MB |
 |---|---|
@@ -289,14 +337,20 @@ Das Verzeichnis mit Prüfdateien wird im Element „**pruefdaten**
 
 Z.B.: <pruefdaten>Daten/</pruefdaten>
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
 Diese Voreinstellung erlaubt die Nutzung gleicher
 
 “ festgelegt.
 
-XPM_PAKET_VERSION=%XPM_PAKET_VERSION% XPM_QUARTAL_VERSION=%XPM_QUARTAL_VERSION% classpath "%XPM_CLASS_PATH%“ an. In der Regel kommt das XPM inkl. JVM mit unter 100 MB aus. XPM_PAKET_VERSION mit deren Inhalt (der zu- vor in SetVariablen zugewiesen wurde) XPM_QUARTAL_VERSION mit deren Inhalt (der zuvor in SetVariablen zugewiesen wurde) gen standardmäßig alle im Ordner „Bin“). Die Vari- able XPM_CLASS_PATH wurde zuvor in SetVari- ablen definiert. “ festgelegt.
+“ festgelegt.
+
+XPM_PAKET_VERSION=%XPM_PAKET_VERSION% XPM_QUARTAL_VERSION=%XPM_QUARTAL_VERSION% classpath "%XPM_CLASS_PATH%“ an. In der Regel kommt das XPM inkl. JVM mit unter 100 MB aus. XPM_PAKET_VERSION mit deren Inhalt (der zu- vor in SetVariablen zugewiesen wurde) XPM_QUARTAL_VERSION mit deren Inhalt (der zuvor in SetVariablen zugewiesen wurde) gen standardmäßig alle im Ordner „Bin“). Die Vari- able XPM_CLASS_PATH wurde zuvor in SetVari- ablen definiert. Seite 9 von 19
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 #### 3.3.1.3 Temporäres Verzeichnis
 
@@ -363,6 +417,8 @@ Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokol
 
 Über das Attribut Format wird das Ausgabeformat festgelegt:
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
 **pruefschema**“ festgehalten.
 
 (ICD-Stammdatei für 2024)
@@ -374,6 +430,8 @@ Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokol
 gen KV-Bereich GOStamm_KV%KV%.bin einzulesen.
 
 Das Attribut
+
+Seite 10 von 19
 
 
 ---
@@ -394,6 +452,13 @@ Das Attribut
 ### Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter Fehlerliste festgelegt.
 
 Standardkonfiguration: Listen/Fehler.pdf. Die Datei ist so aufgebaut, dass je Teil-Datenpaket  im Fehlerfall ein entsprechender Header angelegt wird, dem dann die Fehlermeldungen für  dieses Datenpaket folgen. Wurden in einem Datenpaket keine Fehler festgestellt, so entfällt  auch die Ausgabe des Headers. Auf der letzten Seite wird eine Übersicht ausgegeben, wel-che Datenpakete mit welchem Resultat geprüft wurden, welches Gesamtprüfergebnis erzielt  wurde und welche Steuerdateien und welche Programmversion eingesetzt wurde. Je Teil-Datenpaket wird ein eigener Prüfstatus verwaltet. Der Prüfstatus der gesamten Datei ent-spricht dem höchsten Fehlergrad der Teil-Datenpakete. Traten in keinem Teil-Datenpaket  Fehler auf, so beschränkt sich das Protokoll auf die Übersichtsseite. Die Sätze con0 und prax  werden dabei als ein Datenpaket mit der Bezeichnung „KVDT Container“ angesehen. Zusätz-lich zu den einzelnen Datenpaketen wird eine Übersichtsseite ausgegeben.
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 11 von 19
+
 
 ---
 
@@ -443,8 +508,16 @@ Die Klammerliste wird nur für das ADT-Teildatenpaket des KVDT generiert. Der Au
 
 ### Es wird keine Klammerliste ausgegeben, wenn
 
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 12 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 -  der Schalter KlammerListe in der Konfigurationsdatei auskommentiert ist,
 -  die KV nicht klammert (vgl. kvx6, SDKV), oder
@@ -474,6 +547,8 @@ Der Kommunikationssatz hat die Kennung „KOMU“ und folgende Felder:
 | 9230 | 1 | Prüfmodul-Version | M |  | Format vgl. Schreiben |
 | 9231 | 1 | Steuerdatei-Version | M |  | Format vgl. Schreiben |
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
 *KommunikationsSatz*
 
 i“ - vom
@@ -482,10 +557,14 @@ i“ - vom
 
 festgelegt. Standard-
 
-Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- namen Prüfmodul **Kryptomodul (XKM)**  -er Satz angehängt.  -Satz).
+**Kryptomodul (XKM)**  -er Satz angehängt.  -Satz).
+
+Kommunikationssatz zu Konvention Datei- namen Prüfmodul zu Konvention Datei- namen Prüfmodul Seite 13 von 19
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 | FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
@@ -518,10 +597,18 @@ Jeder Fehlermeldung im Prüfbericht entspricht ein eigener Datensatz. Somit kann
 | 9420 | 1 | Nummer der Meldung | M |  |  |
 | 9421 | 1 | errorlevel der Meldung | M |  | 0 = O.k. |
 
-Versionsanteil der Steuer-Libs   1 = ADT 3 = KADT 5 = STDT 6 = SADT 9 = KVDT-Abschluß 1 = Warnung 2 = Fehlerhaft 3 = Abbruch 3 Feldinhalte prot 1 = Warnung 2 = Fehlerhaft 3 = Abbruch ### (FK 3000), erhält es auch nur die Standard-
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+### (FK 3000), erhält
+
+### es auch nur die Standard-
+
+Versionsanteil der Steuer-Libs   1 = ADT 3 = KADT 5 = STDT 6 = SADT 9 = KVDT-Abschluß 1 = Warnung 2 = Fehlerhaft 3 = Abbruch 3 Feldinhalte prot 1 = Warnung 2 = Fehlerhaft 3 = Abbruch Seite 14 von 19
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 | Feldkennung | Vorkommen | Bezeichnung der | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
@@ -566,9 +653,14 @@ Dies ist der Header-Satz der PDT-Datei.
 
 #### Tabelle 4: Felder PDT-Datei Header Satz
 
-Feldinhalte gelwerk 4 Feldinhalte benbetriebsstättennummer (NBSNR) pro0
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Feldinhalte gelwerk 4 Feldinhalte benbetriebsstättennummer (NBSNR) pro0Seite 15 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 ### Satzart pro9
 
@@ -616,6 +708,8 @@ Ist der Wert auf „ja“ gesetzt, wird in der Scheinabgabeliste und in der Doku
 
 Der Schalter kann auch beim Programmaufruf mit der Option d gesetzt werden:
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
 *ScheinAbgabeListe*
 
 *SortierListe*
@@ -634,10 +728,14 @@ festgelegt. Standard-
 
 festgelegt. Stan-
 
-Feldinhalte pro9 levels 1 = Warnung 2 = Fehlerhaft 3 = Abbruch erne Patien-
+erne Patien-
+
+Feldinhalte pro9 levels 1 = Warnung 2 = Fehlerhaft 3 = Abbruch Seite 16 von 19
 
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 -d adt_interne_patientennummer=ja
 
@@ -691,6 +789,8 @@ In der Konfigurationsdatei wird der Prüfpfad folgendermaßen festgelegt:
 
 Die zwei Umgebungsvariablen INSTALLATION und UMGEBUNG müssen entweder in einer Batchdatei bzw. ei-nem Shellskript:
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
 - oder altersspezifische ICD-Codes mit der Klassifikation
 
 d gesetzt werden:
@@ -706,6 +806,8 @@ d gesetzt werden:
 d gesetzt werden (mögliche Werte alle/adt/hdrg):
 
 D übergeben werden.
+
+Seite 17 von 19
 
 
 ---
@@ -764,8 +866,16 @@ Eine Fehlermeldung zu einem Fehler in Zeile 842 hätte in der PDF-Prüfliste fol
 
 KVDT-RQL1 (F*/842) Dieser Behandlungsfall kann erst im nächsten Quartal abgerechnet werden.  Bitte setzen Sie sich mit Ihrem Systemhaus in Verbindung.
 
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
+
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+Seite 18 von 19
+
 
 ---
+
+**IT in der Arztpraxis**  Handbuch KBV-Prüfmodul KVDT XPM
 
 Alle Meldungen wurden im Verzeichnis XPM_KVDT.Praxis\Doku in den Dateien  dungenKVDT.xml aufgelistet. Alle Kontextprüfungen des KVDT-Prüfpaketes wurden in der Datei MeldungenPra-xis.xml aufgeführt. Alle Meldungen, die den Aufbau der KVDT-Datensatzbeschreibung betreffen, wurden in der  Datei MeldungenKVDT.xml aufgeführt. Zur besseren Lesbarkeit empfiehlt es sich die zwei Dateien mit dem Inter-net Explorer zu betrachten. Alle variablen Anteile in den einzelnen Meldungen wurden mit der Zeichenkette ’%s’  gekennzeichnet, deren genauer Inhalt erst zur Laufzeit feststeht.
 
@@ -805,6 +915,8 @@ b) Der Ordner/Datei ist durch ein anderes Programm oder eine andere XPM-Instanz 
 
 c) Das XPM hat keine Zugriffsrechte für den Ordner/Datei. Lösung: überprüfen Sie die Zugriffsrechte für  den Ordner/Datei und geben Sie diese frei.
 
+KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
 „MeldungenPraxis.xml und Mel-
 
 jar; usw.“
@@ -814,3 +926,5 @@ jar; usw.“
 3.3.1.6 Feh-
 
 -
+
+Seite 19 von 19

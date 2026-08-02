@@ -302,6 +302,8 @@ V) ist die Kassenärztliche
 
 Bundesvereinigung verpflichtet, die Nutzung der in  ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis  international anerkannter Standards  veröffentlichen.
 
+4
+
 
 ---
 
@@ -489,7 +491,7 @@ Hersteller 9 (235 Nutzer)
 
 Hersteller 10 (233 Nutzer)
 
-0 100 200 300 400 500 600 700 800 900 1000
+0 100 200 300 400 500 600 700 800 900 1000 30
 
 
 ---
@@ -511,6 +513,8 @@ Hersteller 10 (233 Nutzer)
 # Bitte an Hersteller: Sofortige Umstellung der Übertragung der
 
 1Click Abrechnungen auf KIM bei Ihren Kunden!!
+
+31
 
 
 ---
@@ -557,7 +561,7 @@ Hersteller 10 (233 Nutzer)
 
 ## - Systemen
 
-## - Schnittstellen in Produktivumgebung
+## - Schnittstellen in Produktivumgebung 32
 
 
 ---
@@ -600,6 +604,8 @@ Hersteller 10 (233 Nutzer) 0
 
 800
 
+33
+
 
 ---
 
@@ -620,7 +626,7 @@ via KIM an
 
 # Bitte an Hersteller: Sofortige Umstellung der Übertragung der  Dokumentationen von KV Connect auf KIM bei Ihren Kunden!!
 
-## - auf KIM
+## - auf KIM 34
 
 
 ---
@@ -646,7 +652,7 @@ auf KIM durch die
 
 ## - eDMPs
 
-via KIM an
+via KIM an 35
 
 
 ---
@@ -684,6 +690,8 @@ Hersteller 10 (76 Nutzer) 0
 500
 
 600
+
+36
 
 
 ---

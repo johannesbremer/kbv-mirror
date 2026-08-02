@@ -8,6 +8,8 @@
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2023  VERSION 1.0** |
 |---|---|
 
+Seite 1 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
+
 \|  |
 \|---|
 
@@ -25,6 +27,8 @@ BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
 **6**
 
+Seite 2 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
+
 ---
 
 **DOKUMENTENSTATUS**
@@ -33,8 +37,9 @@ BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 |---|---|---|---|---|---|
 | 1.0 | 15.11.2023 | KBV | Initiales Dokument | Bereitstellung der | alle |
 
-Definition von Prüfnummern  
+Seite 3 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
+Definition von Prüfnummern
 
 ---
 
@@ -87,6 +92,8 @@ Wobei die Stellen im Einzelnen folgendes bedeuten:
 | 500 | KVDT SADT |
 | 806-808 | KV-SafeNet Versionen 3.1-3.3 |
 
+Seite 4 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
+
 Deutsche Krankenhausgesellschaft)
 
 ---
@@ -107,6 +114,8 @@ Dauer in Monaten
 
 Diese identifizieren das System des Herstellers bei der KBV.
 
+Seite 5 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
+
 -SafeNet (Netzkopplung) Versionen 1.0-1.1
 
 ---
@@ -125,5 +134,7 @@ Diese identifizieren das System des Herstellers bei der KBV.
 Dezernat Digitalisierung und IT  IT in der Versorgung, Tel.: 030 4005-0, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 6 von 6 / KBV / KBV Prüfnummern Definition / 15. November 2023
 
 date/Allgemein/KBV_ITA_RLEX_Zert.pdf

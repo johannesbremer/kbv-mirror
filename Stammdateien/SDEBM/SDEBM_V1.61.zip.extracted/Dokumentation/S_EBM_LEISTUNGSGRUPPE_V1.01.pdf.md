@@ -177,7 +177,7 @@ KV-spezifische Verwendung
 |---|---|
 | 82 | KV-spezifische Verwendung |
 
-3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+Seite 2 von 3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
 
 **Bezeichnung**
 
@@ -288,7 +288,7 @@ Sonderleistungen
 |---|---|
 | 99 | KV-spezifische Verwendung |
 
-3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
+Seite 3 von 3 / KBV / SCHLÜSSELTABELLE - S_EBM_LEISTUNGSGRUPPE
 
 **Bezeichnung**
 

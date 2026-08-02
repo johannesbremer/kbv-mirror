@@ -7,10 +7,12 @@
 |  | Version |
 |  |  |
 
-i- on (eHKS) 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft 
+i- on (eHKS) 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2019
 
 
 ---
+
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
 ### DOKUMENTENHISTORIE
 
@@ -19,7 +21,11 @@ i- on (eHKS) 1.04 Datum: 129 .08.201 Kennzeichnung: Öffentlich Status: In Kraft
 | 1.04 | 12.08.2019 | KBV | Erweiterung des Wertebereichs |  | **5** |
 | 1.03 | 02.08.2012 | KBV | Red. Änderungen | entfällt | **alle** |
 
-für den Parameter „Geschlecht der/des Versicherten“ 
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 4
+
+*Version 1.0
+
+für den Parameter „Geschlecht der/des Versicherten“ Seite 2 6 von
 
 
 ---
@@ -38,7 +44,20 @@ für den Parameter „Geschlecht der/des Versicherten“
 
 **5**
 
+**IT in der Arztpraxis**
+
+Plausibilitätenkatalog Prävention (eHKS)
+
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 4 *Version 1.0
+
+Seite 3 6 von
+
+
 ---
+
+**IT in der Arztpraxis**
+
+Plausibilitätenkatalog Prävention (eHKS)
 
 # 1 Einleitung
 
@@ -63,8 +82,14 @@ Weitere Sachverhalte sind in den entsprechenden Anforderungskatalogen der jeweil
 
 Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hingewiesen  werden, er muss aber die Möglichkeit haben, den Wert in die Dokumentation aufzunehmen.
 
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 4 *Version 1.0
+
+Seite 4 6 von
+
 
 ---
+
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
 | Feld- | Dokumentationsparameter | Ausprägung/Datenformat | Plausibilitätenregel |
 |---|---|---|---|
@@ -82,7 +107,10 @@ Wenn ein Wert zu einer Warnung führt, soll der Anwender auf diesen Umstand hing
 | 1.4.1 | Hautkrebs-Screening |  | Ergibt die Differenz aus der Datumsangabe in Feld |
 | **3 Plausibilitätsprüfungen** | | | |
 
-Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Versi- cherten angegeben werden Allgemeiner Datensatz tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 3 *Version 1.0
+
+Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Versi- cherten angegeben werden Allgemeiner Datensatz tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-Seite 5 6 von
+
 
 ---
 
@@ -102,4 +130,10 @@ Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Vers
 |  |  |  |  |
 | ventionsmaßnahme "Hautkrebs-Screening" nicht | | | |
 
-möglich. Ausnahme: Ergänzende Verträge z.B. nach § 73c SGB V
+**IT in der Arztpraxis**
+
+Plausibilitätenkatalog Prävention (eHKS)
+
+KBV_ITA_VGEX_Plausi_Praevention_eHKS] 3 *Version 1.0
+
+möglich. Ausnahme: Ergänzende Verträge z.B. nach § 73c SGB V  Seite 6 6 von

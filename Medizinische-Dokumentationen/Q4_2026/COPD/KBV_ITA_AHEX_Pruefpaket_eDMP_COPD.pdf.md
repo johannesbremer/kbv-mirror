@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_COPD]
 
+Seite 1 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
+
 KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
 
 
@@ -60,6 +62,8 @@ INHALT
 
 **32**
 
+Seite 2 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 8511 Prüffall 8512 Prüffall 6520 Prüffall Systemreaktion Prüffall 8514 Prüffall 8515 Weitere Prüffälle zum Anforderungskatalog Prüffall 8530 Prüffall 8540 Prüffall TDV8518 Versichertendaten 1 Versichertendaten 2 
 
 
@@ -81,7 +85,7 @@ Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenan
 
 27
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung 2: Exemplarische Struktur der  mit den Prüfunterlagen Abbildung 3: Testdatenvalidierung Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Seite 3 von 33  /  KBV  /  Pruefpaket eDMP-COPD  /  Version: 1.27  /  31. März 2026 
 
 
 ---
@@ -105,7 +109,12 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung
 | Datumsanpassungen |  | Anpassung an | 11ff |  |  |
 |  |  |  |  | 1.22 |  |
 
-4.07 ist ab 01.10.2026 Schnittstellenversionen zu verwenden 4.07 Barcodeversion (03) ab 01.10.2026 an die 4.06 ist ab 01.04.2024 zu verwenden. 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design
+Seite 4 von 33 / KBV / Pruefpaket eDMP-COPD
+
+/ Version: 1.27 / 31. März 2026
+
+4.07 ist ab 01.10.2026 Schnittstellenversionen zu verwenden 4.07 Barcodeversion (03) ab 01.10.2026 an die 4.06 ist ab 01.04.2024 zu verwenden. 4.06 Nummerierung der Aktionen in den Prüffällen 8514 und 8515 Prüffälle. Medikamente im Prüffall 6520 für DM1. Dokumentationen im Prüffall 5514 Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung Layouts wegen der übergreifenden Prüffälle (DM1- 5.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.05 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. Corporate Design 
+
 
 ---
 
@@ -128,7 +137,12 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung Abbildung
 | 1.13 | 15.11.2017 | KBV | Anpassung der Prüffälle    Streichung der Zusatz- | Schnittstellenversion    Übernahme der | 11ff |
 | 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Schnittstellenversionen 4.04 „Datum der Erstellung“ Schnittstellenversionen 4.03 Schnittstellenversionen 4.01 und 4.02 auf Zertifizierung  Nummerierung in Prüffall 8515 Schnittstellenversionen 4.00 und 4.01 für die Testdatenvalidierung zur 4.02  an neue Schnittstelle Prüffälle aus der Testdatenvalidierung des Prüfpaketes wegen der übergreifenden 4.04 ist ab 01.04.2021 zu verwenden 4.03 ist ab 01.04.2019 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  4.01 ist ab 01.04.2018 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden 4.00 ist ab 01.01.2018 zu verwenden Prüffälle bzgl. des Schnittstellenwechsels in Kapitel 2 Zertifizierungsrichtlinie
+Seite 5 von 33 / KBV / Pruefpaket eDMP-COPD
+
+/ Version: 1.27 / 31. März 2026
+
+Schnittstellenversionen 4.04 „Datum der Erstellung“ Schnittstellenversionen 4.03 Schnittstellenversionen 4.01 und 4.02 auf Zertifizierung  Nummerierung in Prüffall 8515 Schnittstellenversionen 4.00 und 4.01 für die Testdatenvalidierung zur 4.02  an neue Schnittstelle Prüffälle aus der Testdatenvalidierung des Prüfpaketes wegen der übergreifenden 4.04 ist ab 01.04.2021 zu verwenden 4.03 ist ab 01.04.2019 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden Zertifizierungsportales  4.01 ist ab 01.04.2018 zu verwenden 4.02 ist ab 01.07.2018 zu verwenden 4.00 ist ab 01.01.2018 zu verwenden Prüffälle bzgl. des Schnittstellenwechsels in Kapitel 2 Zertifizierungsrichtlinie 
+
 
 ---
 
@@ -164,6 +178,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 **HINWEIS**
 
+Seite 6 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 ---
 
@@ -199,6 +214,7 @@ Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM
 
 - **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**
 
+Seite 7 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 ---
 
@@ -255,12 +271,13 @@ Dateiordner
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
-**1 Nummer des Prüffalls**
+________________  **1 Nummer des Prüffalls**
 
 **2 Laufende Nummer**
 
 **3 Gängiges Bild- bzw. Videoformat**
 
+Seite 8 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 ---
 
@@ -297,6 +314,7 @@ Ab dem **01.10.2026** muss die Schnittstellenversion **4.17** verwendet werden.
 
 Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
+Seite 9 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 ---
 
@@ -335,6 +353,8 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 | **Hausnummer** | 20 |
 | **Postleitzahl und Ort** | 10437 Berlin |
 | **Telefon** | 06151 / 3333333 |
+
+Seite 10 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
 
@@ -388,6 +408,8 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 - 1. Versichertendaten:
 
 Die Versichertendaten von Viktor Müller (XML_09)
+
+Seite 11 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 COPD-Dokumentationsunterlagen
 
@@ -451,6 +473,8 @@ Ungeplante, auch notfallmäßige (ambulant und  stationär) ärztliche Behandlun
 **Medikamente**
 
 Kurz wirksame Beta-2-Sympathomimetika  und/oder Anticholinergika
+
+Seite 12 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 **Erstdokumentation**
 
@@ -542,6 +566,8 @@ Empfehlung zur Teilnahme an  Tabakentwöhnungsprogramm ausgesprochen
 An einem Tabakentwöhnungsprogram seit der  letzten Empfehlung teilgenommen
 
 Empfehlung zum körperlichen Training  ausgesprochen
+
+Seite 13 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 Dauermedikation
 
@@ -638,7 +664,9 @@ Vom Patienten gewünschte Informationsangebote  der Krankenkasse
 
 Dokumentationsintervall
 
-Datum der Erstellung 8512
+Datum der Erstellung
+
+Seite 14 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026 8512
 
 Anlage einer Erst- und einer Verlaufsdokumentation
 
@@ -732,6 +760,8 @@ Empfehlung zur Teilnahme an  Tabakentwöhnungsprogramm ausgesprochen
 An einem Tabakentwöhnungsprogram seit der  letzten Empfehlung teilgenommen
 
 Empfehlung zum körperlichen Training  ausgesprochen
+
+Seite 15 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 **Erstdokumentation**
 
@@ -830,7 +860,9 @@ Körpergewicht
 
 Blutdruck
 
-Raucher 6520
+Raucher
+
+Seite 16 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026 6520
 
 Anlage einer Erst- und einer Verlaufsdokumentation mit multimorbider  Einschreibung
 
@@ -925,6 +957,8 @@ DM1 Intervall für künftige Fußinspektionen (bei  Patientinnen und Patienten a
 
 DM1 Spätfolgen
 
+Seite 17 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
+
 Nach Funktion P1-47 des  Anforderungskatalogs  müssen die anderen  eingeschriebenen  Indikationen automatisch  übernommen werden.  Für die COPD-Dokumentation sind  dieses KHK und Diabetes  mellitus
 
 Tabakverzicht
@@ -979,8 +1013,9 @@ Nicht untersucht
 
 Jährlich
 
-Aktueller FEV1-Wert (alle sechs bis zwölf Osteoporoserisikos durchgeführt 092,0 Prozent des Soll-Diabetische  Nephropathie
+Diabetische  Nephropathie
 
+Aktueller FEV1-Wert (alle sechs bis zwölf Osteoporoserisikos durchgeführt 092,0 Prozent des Soll-
 
 ---
 
@@ -1025,6 +1060,8 @@ DM1
 KHK
 
 KHK
+
+Seite 18 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 Angina pectoris
 
@@ -1159,6 +1196,8 @@ COPD
 
 COPD
 
+Seite 19 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
+
 | ACE-Hemmer | Nein |  |
 |---|---|---|
 | Aktuelle Statin-Dosis | Kein Statin |  |
@@ -1225,8 +1264,9 @@ Bei letzter  Dokumentation keine  Schulung empfohlen
 
 Ja
 
-Kontraindikation gegen Ja
+Ja
 
+Kontraindikation gegen
 
 ---
 
@@ -1241,6 +1281,8 @@ DM1
 DM1
 
 KHK
+
+Seite 20 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 HbA1c-Zielwert
 
@@ -1262,8 +1304,9 @@ Zielwert erreicht
 
 Nicht durchgeführt
 
-Diabetesbezogene stationäre Einweisung Ja
+Ja
 
+Diabetesbezogene stationäre Einweisung
 
 ---
 
@@ -1333,6 +1376,8 @@ Krankenkasse
 
 Dokumentationsintervall
 
+Seite 21 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
+
 **Erstdokumentation**
 
 **Aktion**
@@ -1356,6 +1401,7 @@ Ja
 Nr. 1
 
 Quartalsweise
+
 
 ---
 
@@ -1409,7 +1455,9 @@ Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm  ausgesprochen
 
 An einem Tabakentwöhnungsprogram seit der letzten  Empfehlung teilgenommen
 
-Empfehlung zum körperlichen Training ausgesprochen 06.04.2024 15.mm.jjjj
+Empfehlung zum körperlichen Training ausgesprochen
+
+Seite 22 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026 06.04.2024 15.mm.jjjj
 
 **Erstdokumentation**
 
@@ -1503,6 +1551,8 @@ Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm  ausgesprochen
 An einem Tabakentwöhnungsprogram seit der letzten Empfehlung  teilgenommen
 
 Empfehlung zum körperlichen Training ausgesprochen
+
+Seite 23 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 **Verlaufsdokumentation**
 
@@ -1610,6 +1660,8 @@ Dokumentationsintervall
 
 Datum der Erstellung
 
+Seite 24 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
+
 **Erstdokumentation Screenshot**
 
 8515
@@ -1663,7 +1715,7 @@ Es wird eine Erstdokumentation für einen noch nicht im System existierenden Pat
 
 Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  entsprechenden Warnung gemäß Anforderung P1-12 (siehe  dass zu diesem Patienten keine Erstdokumentation vorliegt, wird eine Verlaufsdokumentation angelegt.
 
-8530
+Seite 25 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026 8530
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges  KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
@@ -1706,7 +1758,9 @@ DMP
 
 DMP-Fallnummer
 
-Datum 8540
+Datum
+
+Seite 26 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026 8540
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  KBV_ITA_VGEX_Anforderungskatalog_eDMP
 
@@ -1737,6 +1791,7 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten S
 
 Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
+Seite 27 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
 ---
 
@@ -1776,8 +1831,11 @@ Anlage einer Erstdokumentation mit der Schnittstellenversion
 |  | DMP-Fallnummer |
 |  | Krankenhaus-IK |
 
-Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung TDV8518 03.07.2025  COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025 **4.06**
+Seite 28 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
+**4.06**
+
+Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: 2. Anlegen einer Erstdokumentation INDIKATIONSÜBERGREIFENDE DATEN Administrative Daten Datum Einschreibung wegen Geschlecht Allgemeine Anamnese- und Befunddaten Körpergröße Körpergewicht Blutdruck Raucher Begleiterkrankungen Behandlungsplanung Vom Patienten gewünschte Informationsangebote der Krankenkasse Dokumentationsintervall Datum der Erstellung TDV8518 03.07.2025  COPD  Weiblich 1,60 m 060 kg 120 / 80 mmHg Keine der genannten Erkrankungen Quartalsweise 03.07.2025
 
 ---
 
@@ -1807,8 +1865,9 @@ Voraussetzung Prüfunterlagen COPD-Dokumentationsunterlagen Hinweis Aktionen, di
 | An einem Tabakentwöhnungsprogram seit der letzten |  |
 | Empfehlung zum körperlichen Training ausgesprochen | Nein |
 
-Empfehlung teilgenommen 
+Seite 29 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
+Empfehlung teilgenommen
 
 ---
 
@@ -1839,6 +1898,9 @@ Empfehlung teilgenommen
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 04 |
 
+Seite 30 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
+
+
 ---
 
 ## 4.2 VERSICHERTENDATEN 2 – ERSATZVERFAHREN
@@ -1866,8 +1928,9 @@ Empfehlung teilgenommen
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
 
-und Georg-von-Groscurth-Plaetzchen  
+Seite 31 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026
 
+und Georg-von-Groscurth-Plaetzchen
 
 ---
 
@@ -1894,7 +1957,11 @@ und Georg-von-Groscurth-Plaetzchen
 | VSD_Testfaelle_DMP_Vn.n.zip4 | eGK Daten |
 | XPM-Paket_COPD | Prüfmodul COPD |
 
-Testschlüssel XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) Stammdateien zu verwenden. 4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+________________  4 n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0
+
+Seite 32 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.2 7 / 31. März 2026
+
+Testschlüssel XML Daten in der Vertragsärztlichen Versorgung Datensatz für das strukturierte Behandlungsprogramm COPD  strukturierten Behandlungsprogramm für COPD Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Dokumentationsdaten der strukturierten Behandlungsprogramms DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes (Datenannahmestellen Stammdatei) Stammdateien zu verwenden. 
 
 
 ---
@@ -1906,3 +1973,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 33 von 33 / KBV / Pruefpaket eDMP-COPD / Version: 1.27 / 31. März 2026

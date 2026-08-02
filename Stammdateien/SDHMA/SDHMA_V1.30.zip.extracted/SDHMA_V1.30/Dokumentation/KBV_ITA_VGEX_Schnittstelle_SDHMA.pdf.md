@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-SDHMA – Stammdatei 1.31 Datum: 03.09.2020 Kennzeichnung: Öffentlich Status: In Kraft
+SDHMA – Stammdatei 1.31 Datum: 03.09.2020 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2020
+
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
 ### DOKUMENTENHISTORIE
 
@@ -27,9 +30,14 @@ Die Änderungen vom 10.01.2020 treten zum 01.01.2021 in Kraft.
 | 1.1 | 19.07.2016 | KBV | Kapitel 5.5 <heilmittel>Element | Max. Anzahl der erlaubten <heil- | **14** |
 | 1.0 | 31.03.2016 | KBV | neues Dokument |  |  |
 
-Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit Beschlussfassung vom Kennzeichnung des maximal zulässigen Zeitraums nach einem Akutereignis nung regionaler Besonderheiten erhöht für die Maßnahmen der Ernährungstherapie texte  mittel>Elemente unbeschränkt
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit Beschlussfassung vom Kennzeichnung des maximal zulässigen Zeitraums nach einem Akutereignis nung regionaler Besonderheiten erhöht für die Maßnahmen der Ernährungstherapie texte  mittel>Elemente unbeschränkt  Seite 2 23 von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
 ### INHALTSVERZEICHNIS
 
@@ -103,6 +111,10 @@ Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit B
 
 **5.7** **heilmittel ....................................................................................................................................... 14**
 
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 3 23 von
+
 
 ---
 
@@ -129,6 +141,12 @@ Version vom 10.01.2020 (Versi- on 1.31) der Heilmittel-Richtlinie des G-BA mit B
 **6** **REFERENZIERTE DOKUMENTE**
 
 **23**
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 4 23 von
 
 
 ---
@@ -169,6 +187,12 @@ Abbildung 16: diagnosegruppe_liste .............................................
 
 Abbildung 17: diagnosegruppe............................................................................................... 20
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 5 23 von
+
 
 ---
 
@@ -187,6 +211,13 @@ Tabelle 5: Ausprägungen der Attribute des Elements <untere_altersgrenze> ......
 Tabelle 6: Ausprägungen der Attribute des Elements <kapitel> ............................................ 19
 
 Tabelle 7: Übersicht der Attributausprägungen des Elements <diagnosegruppe> ................ 22
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 6 23 von
+
 
 ---
 
@@ -226,8 +257,16 @@ XML- Code 17: diagnosegruppe ...................................................
 
 #### XML- CODE- VERZEICHNIS
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 7 23 von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
 # 1 Einleitung
 
@@ -269,6 +308,8 @@ vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element
 
 sender ...... Absender der Lieferung, (nicht immer mit Erzeuger bzw. Erstlieferanten der  Daten identisch) bzw. wer hat die Daten geliefert;  Entspricht dem Element  Elements *<provider>*
 
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
 KBV_ITA_VGEX_eHD
 
 [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de)
@@ -290,6 +331,8 @@ Stammdatei Heil-
 , Telefon: 030 /
 
 des Header-
+
+Seite 8 23 von
 
 
 ---
@@ -328,9 +371,17 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 ***<xs:choice>***
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 9 23 von
+
 chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis  (un- bounded) reichen.
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
 | Symbol | Beschreibung |
 |---|---|
@@ -352,9 +403,14 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
-<xs:choice> delementen genau eins ausgewählt werden muss. <xs:sequence> gelegter Reihenfolge aufgeführt werden müssen. zeigt an, dass zwischen verschiedenen Kin-  beschreibt, dass die Kindelemente in fest- Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst.
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+<xs:choice> delementen genau eins ausgewählt werden muss. <xs:sequence> gelegter Reihenfolge aufgeführt werden müssen. zeigt an, dass zwischen verschiedenen Kin-  beschreibt, dass die Kindelemente in fest- Pluszeichen am Rechteckrand symbolisiert. rer Stelle im Schema definiert wurde. Datentyp.  dar, welches mehrere Elemente zusammenfasst. Seite 10 23von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
 # 3 ehd – Element (root-
 
@@ -405,12 +461,18 @@ Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„
 
 Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wird auf die  jeweils aktuelle Version der ehd-
 
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
 ***urn:ehd/001***
 
 Schnittstellenbeschreibung [1] verwiesen.
 
+Seite 11 23von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
 # 5 body (Inhaltsdaten)
 
@@ -464,8 +526,14 @@ Der XML-Code für ein <verordnungsbedarf_liste> Element hat folgenden Aufbau:
 
 **XML-Code 3:** verordnungsbedarf_liste
 
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 12 23von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
 ## 5.3 verordnungsbedarf
 
@@ -515,6 +583,10 @@ Der XML-Code für ein <icd- code> Element hat folgenden Aufbau:
 | Das | Element <geltungsbereich_kv> gibt an welchem KV-Bereich der Schlü s selta belle |
 | S_KBV_KV | (OID: 1.2.276.0.76.5.233) die entsprechenden Heilmittelbedarfe zugeordnet sind. |
 
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 13 23von
+
 XML-Code 5: Das Element <geltungsbereich_kv> gibt an welchem KV-Bereich der Schlüsseltabelle S_KBV_KV (OID: 1.2.276.0.76.5.233) die entsprechenden Heilmittelbedarfe zugeordnet sind.
 
 ---
@@ -558,6 +630,12 @@ Der XML-Code für ein <heilmittel_liste> Element hat folgenden Aufbau:
 
 Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen auf die Art  der Anlage der Heilmittelvereinbarung (besondere Verordnungsbedarfe oder langfristige  Heilmittelbedarfe), die optionale Elemente-nte-Liste, bestehend aus <sekundaercode>, <u re_altersgrenze>, <ob,ere_altersgrenze> und <h>inweistext und <zeitraum_akutereignis>  sowie das Element <kapitel_liste>.
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 14 23von
+
 
 ---
 
@@ -583,8 +661,16 @@ Die einer Diagnose untergeordneten <heilmittel> Elemente enthalten Referenzen au
 
 **<kapitel V="..." DN="...">**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 15 23von
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
 ```
 **<diagnosegruppe>_liste**
@@ -637,10 +723,17 @@ vgl.: Abschnitt 5.4
 
 ## 5.10 untere_altersgrenze
 
-V="..." DN="..."Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze, die für eine  Heilmittelverordnung gilt. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der  Inhalt des U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein-heit ‚Jahr’ (**U="Jahr"**) verwendet wird, enthält das V- Attribut eine Altersangabe in Jahren.  Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird die Zeiteinheit ‚Tag’ verwendet  **U="Tag"**) und das V- Attribut enthält eine Altersangabe im Bereich von 0 bis 365 Tagen.
+Das optionale Element <untere_altersgrenze> enthält die untere Altersgrenze, die für eine  Heilmittelverordnung gilt. Der Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der  Inhalt des U-Attributs (**U="..."**) bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeitein-heit ‚Jahr’ (**U="Jahr"**) verwendet wird, enthält das V- Attribut eine Altersangabe in Jahren.  Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird die Zeiteinheit ‚Tag’ verwendet  **U="Tag"**) und das V- Attribut enthält eine Altersangabe im Bereich von 0 bis 365 Tagen.
 
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 16 23von
+
+V="..." DN="..."
 
 ---
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
 
 **Abbildung 10:** untere_altersgrenze
 
@@ -673,7 +766,11 @@ Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
 
 Das Element <hinweistext> enthält im V- Attribut einen Hinweistext zu besonderen Verord-nungsbedarfe bzw. langfristigem Heilmittelbebarf.
 
-V="..." U="..."**V="..."**) und des U-
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+**V="..."**) und des U-
+
+V="..." U="..."Seite 17 23von
 
 
 ---
@@ -705,6 +802,12 @@ Das Element <kapitel_liste> enthält ein Element <kapitel> und das Listenelement
 **Abbildung 14:** kapitel_liste
 
 Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
+
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Seite 18 23von
 
 
 ---
@@ -745,9 +848,16 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
 Das Element <diagnosegruppe_liste> enthält die Elemente <diagnosegruppe>.
 
-V="..." DN="..."
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+V="..." DN="..."Seite 19 23von
+
 
 ---
+
+**IT in der Arztpraxis** Schnittstellenbeschreibung SDHMA – Stammdatei
 
 | Wert ( | Bezeichnung (optional |
 |---|---|
@@ -808,7 +918,10 @@ V="..." DN="..."
 | **DN="..."** | **S="1.2.276.0.76.3.1.1.5.2.38"/>** |
 | **<diagnosegruppe V="..." DN="..." S="1.2.276.0.76.3.1.1.5.2.38"/>** |  |
 
-piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID: 1.2.276.0.76.3.1.1.5.2.38). Säuglings-, Kleinkind- und Kindesalter
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID: 1.2.276.0.76.3.1.1.5.2.38). Säuglings-, Kleinkind- und Kindesalter Seite 20 23von
+
 
 ---
 
@@ -871,7 +984,12 @@ piegruppe. Die Werte entsprechen der Schlüsseltabelle S_HM_DIAGNOSEGRUPPE (OID:
 | LY3 | chronische Lymphabflussstörungen bei bösartigen Erkrankungen  PN  periphere Nervenläsionen / Muskelerkrankungen |
 | PS1 | Entwicklungs-,störungen; Verhaltens- und emotionale Störungen mit Beginn in |
 
-Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Persönlichkeits-und Verhaltensstörun- Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch-perzeptiven Schädigungen) Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Persönlichkeits-und Verhaltensstörun- Substanzen funktionellen Schädigungen) Wirbelsäulenerkrankungen funktionellen und sensomotorisch-perzeptiven Schädigungen) Störungen nach traumatischer Schädigung, Operationen, Verbrennungen, Verätzungen teiligung (mit motorisch-funktionellen/ sensomotorisch-perzeptiven Schädigungen) Amputationen nach Abschluß der Wundheilung, Angeborene Fehlbildungen kurzzeitigem Behandlungsbedarf dem Behandlungsbedarf nales Schmerzsyndrom); Stadium II und III systemische Erkrankungen Taubheit Seite 21 23von
+
 
 ---
 
@@ -934,7 +1052,12 @@ Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Persönlichkeits
 | ZN1 | ZNS-Erkrankungen einschließlich des Rückenmarks / Neuromuskuläre Erkran- |
 | ZN2 | ZNS-Erkrankungen einschließlich des Rückenmarks |
 
-Übersicht der Attributausprägungen des Elements <diagnosegruppe>
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+Übersicht der Attributausprägungen des Elements <diagnosegruppe> Seite 22 23von
+
 
 ---
 
@@ -944,4 +1067,8 @@ Kindheit und Jugend mit körperlichen Störungen oder Faktoren; Persönlichkeits
 |---|---|
 | [KBV_ITA_VGEX_eHD] | ehd – |
 
-eHealthData, Richtlinie
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHMA – Stammdatei
+
+KBV_ITA_VGEX_Schnittstelle_SDHMA * Version 1.31
+
+eHealthData, RichtlinieSeite 23 23von

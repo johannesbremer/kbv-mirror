@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Zervix-Zytologie Zytologie] 2.00 Datum: 13.10.2014 Kennzeichnung: Öffentlich  In Kraft Status:
+Zervix-Zytologie Zytologie] 2.00 Datum: 13.10.2014 Kennzeichnung: Öffentlich  In Kraft Status: © Kassenärztliche Bundesvereinigung, Berlin 2018
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 ### DOKUMENTENHISTORIE
 
@@ -24,7 +27,10 @@ Zervix-Zytologie Zytologie] 2.00 Datum: 13.10.2014 Kennzeichnung: Öffentlich  I
 | 2.00 | 13.10.2014 | KBV | Die Änderungen im    Überarbeitung der | Einführung der Münchner Nomen- | **16 ff **          **20 ff ** |
 | 1.06 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
-header hinsichtlich der Elemente person_name und addr, welche bereits in der Schnittstelle um- gesetzt waren, wurden der Dokumentation noch angepasst. klatur III und Überarbeitung der Schnittstelle GBA-Richtlinie Krebsfrüherkennung
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+header hinsichtlich der Elemente person_name und addr, welche bereits in der Schnittstelle um- gesetzt waren, wurden der Dokumentation noch angepasst. klatur III und Überarbeitung der Schnittstelle GBA-Richtlinie Krebsfrüherkennung Seite 2 von 29
+
 
 ---
 
@@ -100,8 +106,20 @@ header hinsichtlich der Elemente person_name und addr, welche bereits in der Sch
 
 **5** **REFERENZIERTE DOKUMENTE _________________________________________ 29**
 
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 3 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 #### ABBILDUNGSVERZEICHNIS
 
@@ -123,7 +141,16 @@ Abbildung 8 Grundstruktur addr (Arzt) ..........................................
 
 Abbildung 9 Element body ..................................................................................................... 20
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 4 von 29
+
+
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 #### TABELLENVERZEICHNIS
 
@@ -177,6 +204,11 @@ Tabelle 24 Element anzahl_endometriumca ........................................
 
 Tabelle 25 Element praxisbesonderheit ................................................................................. 28
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 5 von 29
+
+
 ---
 
 # 1 Einleitung
@@ -189,14 +221,31 @@ Die Berichterstellung erfolgt gemäß der QS Vereinbarung Zervix-Zytologie unter
 
 Die zu übermittelnden Datenfelder sind in Anlage 2 abgebildet.
 
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 6 von 29
+
 
 ---
 
-> [OCR REQUIRED — page 7]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 7 von 29
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 # 2 Dateinamen
 
@@ -213,6 +262,10 @@ Beispiel:
 -  qszervixzyto_2.00_123456789.xml
 
 des Header-Elements ***<interface>***
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 8 von 29
 
 
 ---
@@ -255,7 +308,13 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Tabelle 3 Beschreibung sonstiger Symbole**
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B. und Sequence. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. 
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B. und Sequence. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp.  stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. Seite 9 von 29
 
 
 ---
@@ -307,6 +366,14 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation. Die genaue Besc
 -  Im Interface-Element werden die Schnittstellendaten eingegeben:
 - o id-Element im EX-Attribut ist der Wert „QSZERVIXZYTO“ fest vorgeschrieben.  RT-Attribut enthält den Wert: „1.2.276.0.76.5.109“.
 
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 10 von 29
+
 
 ---
 
@@ -325,6 +392,14 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation. Die genaue Besc
 
 XML-Beispiel
 
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 11 von 29
+
 
 ---
 
@@ -335,7 +410,15 @@ XML-Beispiel
 
 ### 4.1.1 Software (local_header)
 
-<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449-0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> <sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header> Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software* *v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-* *phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-* *phox:Kontakt* zusammen. Die Struktur für dieses Element ist in Abbildung 5 dargestellt.
+Die Information über die Software und deren Verantwortliche wird mittels der Sciphox-SSU  *software* *v1* dargestellt. Das Element *sciphox:Software* setzt sich aus den Kindelementen *sci-* *phox:id sciphox:SoftwareName sciphox:SoftwareVersion sciphox:SoftwareTyp sci-* *phox:Kontakt* zusammen. Die Struktur für dieses Element ist in Abbildung 5 dargestellt.
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+<header> <id RT="123456789" EX="10"/> <document_type_cd V="QSZERVIXZYTO"/> <service_tmr V="1967-01-01"/> <origination_dttm V="1967-08-13"/> <provider> <person> <id EX="278012389" RT="BSNR"/> <person_name> <nm> <GIV V="Anette"/> <FAM V="Müller"/> <PFX V="Dr. med." QUAL="AC"/> </nm> </person_name> <addr> <STR V="Ottostr."/> <HNR V="1"/> <ZIP V="50859"/> <CTY V="Köln"/> </addr> <telecom V="tel:(0221)4449-0"/> </person> </provider> <interface> <id EX="QSZERVIXZYTO" RT="1.2.276.0.76.5.109"/> <interface.nm V="QSZervixZyto Bericht an KV"/> <version V="1.00"/> </interface> <sciphox:sciphox-ssu type="software" country="de" version="v1"> <sciphox:Software> <sciphox:id EX="..." RT="KBV-Prüfnummer"/> <sciphox:SoftwareName V="..."/> <sciphox:SoftwareVersion V="..."/> <sciphox:SoftwareTyp V="..."/> <sciphox:Kontakt> ... </sciphox:Kontakt > </sciphox:Software> </sciphox:sciphox-ssu> </local_heaer> </header> Seite 12 von 29
 
 
 ---
@@ -386,8 +469,20 @@ Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 Das Element *sciphox:SoftwareName* erhält als Wert den konkreten Namen der Software. Es  handelt sich dabei um einen String, der auf 60 Zeichen begrenzt wird.
 
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 13 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 Als Beispiel sei hier der folgende Code angegeben:
 
@@ -423,7 +518,11 @@ Das Element *sciphox:SoftwareTyp* erhält als Wert den Typ der eingesetzten Soft
 
 #### 4.1.1.5 Softwarekontakt (Kontakt)
 
-Schnittstelle erzeugt. Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be-steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm*, evtl.  *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt-gruppe*  bilden. Die Grundstruktur ist in Abbildung 6 dargestellt.
+Das Element *sciphox:Kontakt* enthält die zwingend erforderlichen Angaben zu dem Software-verantwortlichen und optional zu dem regionalen Systembetreuer der Software. Das Element  ist deshalb zwingend einmal erforderlich, kann jedoch zweimal angegeben werden. Es be-steht aus den Komponenten *sciphox:Kontakttyp cda:organization.nm*, evtl.  *cda:person_name cda:addr* und *cda:telecom*, die zusammen alle die Gruppe *kontakt-gruppe*  bilden. Die Grundstruktur ist in Abbildung 6 dargestellt.
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Schnittstelle erzeugt. Seite 14 von 29
 
 
 ---
@@ -455,9 +554,20 @@ Als Beispiel sei hier der folgende Code angegeben:
 
 **XML-Code 10 – organization.nm (Verantwortlicher)**
 
-<cda:organization.nm V="ABC Softwarehaus"/> <cda:addr> <cda:STR V="Ottostr."/> <cda:HNR V="1"/> <cda:ZIP V="50859"/> <cda:CTY V="Köln"/> </cda:addr> <cda:telecom V="tel:(0221)4449 -0" USE="WP"/> <cda:telecom V="tel:(0221)4449 -1" USE="WP"/>
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+<cda:organization.nm V="ABC Softwarehaus"/> <cda:addr> <cda:STR V="Ottostr."/> <cda:HNR V="1"/> <cda:ZIP V="50859"/> <cda:CTY V="Köln"/> </cda:addr> <cda:telecom V="tel:(0221)4449 -0" USE="WP"/> <cda:telecom V="tel:(0221)4449 -1" USE="WP"/> Seite 15 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 ##### 4.1.1.5.3 Name der Person (person_name)
 
@@ -509,12 +619,18 @@ Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das  Ausprägungen geb
 
 Die folgende Tabelle zeigt die Abbildung der typischen Namensangaben auf die entsprechen-den XML-Elemente:
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
 dargestellt.
 
-Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7 *QUAL*-Attribut mit den folgenden
+*QUAL*-Attribut mit den folgenden
+
+Das Element nm  kann folgende Elemente enthalten: Vornamen der Person (mehrere Vornamen sind und Adelsbezeichnungen, wie z.B. „Freiherr“ oder „von“ Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) vgl. Anlage 7 Seite 16 von 29
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 | Versichertenkarte | XML-Element |
 |---|---|
@@ -560,12 +676,20 @@ angenommen.
 
 In der Tabelle 8 sind die Kindelemente des Elements  angegeben.
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
 **Abbildung 8 Grundstruktur addr (Arzt)**
 
 *addr* erläutert und ihre Kardinalitäten
 
+Seite 17 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 | Element | Wert | Datentyp | Kard. |
 |---|---|---|---|
@@ -612,10 +736,16 @@ Als Beispiel für eine Anschrift sei hier folgender Code angegeben:
 
 Das Element *telecom* besteht aus den Attributen  Faxnummern, Emailadressen und Homepages aufzunehmen. Es muss für das Softwarehaus  mindestens eine Telefonnummer angegeben sein. Es sind maximal fünf dieser Elemente er-laubt. Bei dem *V*-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden  String, der mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
 
-lung stattgefunden hat Anschriftenzusatz. fach) *V* und *USE*. Es dient dazu, Telefon- und
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+*V* und *USE*. Es dient dazu, Telefon- und
+
+lung stattgefunden hat Anschriftenzusatz. fach) Seite 18 von 29
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 Die Erläuterung für die verschiedenen Werte sind in der
 
@@ -629,12 +759,20 @@ Die Erläuterung für die verschiedenen Werte sind in der
 
 Das *USE*-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
 Tabelle 10 aufgeführt.
 
 **Tabelle 10 Erläuterungen telecom**
 
+Seite 19 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 ## 4.2 Element body
 
@@ -648,6 +786,10 @@ Das body-Element hat den benutzerdefinierten Typ qszervixzyto_body_typ. Das Kind
 
 Das Element qszervixzyto_bericht enthält den Zervix-Zyto Bericht.
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 20 von 29
+
 
 ---
 
@@ -659,8 +801,20 @@ Das Element qszervixzyto_bericht enthält den Zervix-Zyto Bericht.
 
 ### XML-Beispiel
 
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 21 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 \|  |
 \|---|
@@ -676,10 +830,18 @@ Das Element anzahl_praeparate enthält die Gesamtanzahl der zytologisch untersuc
 | namespace | urn:ehd/qszervixzyto/001 |
 | attributes | Name    Type    Use    Default    Fixed    V   **xs:integer ** required |
 
-<body> <zz:qszervixzyto_bericht> <zz:anzahl_praeparate V="306"/> <zz:anzahl_nv_praeparate V="2"/> <zz:anzahl_frauen V="304"/> <zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> <zz:gr2a> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr2a> …….. <zz:gr5x> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr5x> </zz:qszervixzyto_bericht> </body>**Tabelle 12 Element anzahl_praeparate**
+**Tabelle 12 Element anzahl_praeparate**
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+<body> <zz:qszervixzyto_bericht> <zz:anzahl_praeparate V="306"/> <zz:anzahl_nv_praeparate V="2"/> <zz:anzahl_frauen V="304"/> <zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> <zz:gr2a> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr2a> …….. <zz:gr5x> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr5x> </zz:qszervixzyto_bericht> </body>Seite 22 von 29
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 ### 4.3.2 Element anzahl_nv_praeparate
 
@@ -716,8 +878,16 @@ Das Element gr1 enthält die Untersuchungsergebnisse der Gruppe I.
 
 XML-Beispiel:
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 23 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 \|  |
 \|---|
@@ -750,10 +920,18 @@ Alle Elemente vom Typ gruppe_typ haben den gleichen Aufbau und die gleichen Kind
 
 #### 4.3.4.1 Element anzahl_frauen
 
-<zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> Nomenklatur III Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Ausgangs-befund in dieser Befundgruppe für den Zeitraum vom 01.01-31.12 des Berichtsjahres.
+Das Element anzahl_frauen enthält die Anzahl der untersuchten Frauen mit dem Ausgangs-befund in dieser Befundgruppe für den Zeitraum vom 01.01-31.12 des Berichtsjahres.
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+<zz:gr1> <zz:anzahl_frauen V="16"/> <zz:anzahl_khca V="2"/> <zz:anzahl_cin1 V="2"/> <zz:anzahl_cin2 V="2"/> <zz:anzahl_cin3ca V="2"/> <zz:anzahl_adenocais V="2"/> <zz:anzahl_plattenepithelca V="2"/> <zz:anzahl_adenocaceut V="2"/> <zz:anzahl_endometriumca V="2"/> </zz:gr1> Nomenklatur III Seite 24 von 29
 
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 | diagram |  |
 |---|---|
@@ -786,8 +964,16 @@ klärungsuntersuchungen mit CIN I.
 
 **Tabelle 18 Element anzahl_cin1**
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 25 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 #### 4.3.4.4 Element anzahl_cin2
 
@@ -822,8 +1008,16 @@ Das Element anzahl_cxca enthält die Anzahl der untersuchten Frauen mit histolog
 
 **Tabelle 21 Element anzahl_adenocais**
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 26 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 #### 4.3.4.7 Element anzahl_plattenepithelca
 
@@ -858,8 +1052,16 @@ Das Element anzahl_ccamal enthält die Anzahl der untersuchten Frauen mit histol
 
 **Tabelle 24 Element anzahl_endometriumca**
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 27 von 29
+
 
 ---
+
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
 
 ### 4.3.5 praxisbesonderheit
 
@@ -876,6 +1078,10 @@ derheiten ist optional.
 
 **Tabelle 25 Element praxisbesonderheit**
 
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Seite 28 von 29
+
 
 ---
 
@@ -885,4 +1091,10 @@ derheiten ist optional.
 |---|---|
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | EHD- |
 
-Spezifikation
+**IT in der Arztpraxis**
+
+Schnittstelle Qualitätssicherung Zervix-Zytologie
+
+KBV_ITA_VGEX_Schnittstelle_QS_Zervix-Zytologie * Version 2.00
+
+Spezifikation Seite 29 von 29

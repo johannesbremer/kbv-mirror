@@ -2,6 +2,8 @@
 
 ## [KBV_ITA_AHEX_BMP_FAQS_PVS]
 
+Seite 1 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
@@ -35,6 +37,8 @@
 
 **16**
 
+Seite 2 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
 DOKUMENTENHISTORIE
@@ -46,8 +50,9 @@ DOKUMENTENHISTORIE
 | 1.42 | 26.03.2025 | KBV | Aufnahme der Frage „17. |  | 14 |
 | 1.41 | 05.03.2025 | KBV | Streichung der Frage „   Aufnahme der Frage „ |  | 14 |
 
-Bedruckung der Parametertexte ergänzt zum Thema „ wöchentliche Dosierung Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ 16. Aktualisierung der BMP- Spezifikation in der Version 2.7 16. Verwendung der Daten aus der Referenzdatenbank des BfArM
+Seite 3 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
 
+Bedruckung der Parametertexte ergänzt zum Thema „ wöchentliche Dosierung Thema „ wöchentliche Dosierung “ ergänzt Angabe der Darreichungsform im Barcode“ 16. Aktualisierung der BMP- Spezifikation in der Version 2.7 16. Verwendung der Daten aus der Referenzdatenbank des BfArM
 
 ---
 
@@ -62,6 +67,8 @@ Diese Liste an „Frequently Asked Questions“ (FAQs) ist für die Hersteller v
 Diese Software muss vor ihrem Einsatz durch die Kassenärztliche Bundesvereinigung (KBV) zugelassen  werden. Die Zulassung erfolgt auf Grundlage von § 73 SGB V i.V. m. Anlage 23 Bundesmantelvertrag - Ärzte  (BMV-Ä).
 
 Für das Zertifizierungsverfahren gilt die Richtlinie „Zertifizierungsrichtlinie der KBV“ [KBV_ITA_RLEX_Zert] in  der jeweils gültigen Fassung.
+
+Seite 4 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
 
 ---
 
@@ -89,6 +96,8 @@ Der Barcode soll fehlerfrei ausgedruckt werden. Jegliche Formen von Versetzungen
 Die Wirkstärkenangabe wird gemäß der Spezifikation bei sog. Mehrkomponenten-Präparaten sowie bei  Kombinationspräparaten mit mehr als drei Wirkstoffen weggelassen. Das entsprechende Feld bleibt dann  im Ausdruck leer.
 
 In allen anderen Fällen sind die entsprechenden Angaben der Referenzdatenbank unverändert zu  übernehmen, durch die neben den zu verwendenden Wirkstoffbezeichnungen und Wirkstärkenangaben  auch die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben vorgegeben ist. Im Regelfall ist  dann jedem Wirkstoff genau eine nicht leere Wirkstärkenangabe an derselben Position zugeordnet und  umgekehrt. In Ausnahmefällen (bei manchen Homöopathika und Medizinprodukten) kann es vorkommen,  dass nicht für alle Wirkstoffe eine Stärkenangabe vorliegt. In diesem Fall, wo durch die Referenzdatenbank  keine Angabe der Stärke an dieser Stelle erfolgt, wird die entsprechende Angabe auch im BMP-Ausdruck  weggelassen. Die Reihenfolge der Wirkstoffe und der dazugehörigen Stärkenangaben (sofern vorhanden)  ist auch in diesem Fall zu beachten, so dass die korrekte Zuordnung der vorhandenen Angaben  gewährleistet ist.
+
+Seite 5 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
 
 ---
 
@@ -122,9 +131,11 @@ Hier gilt die Regel, dass die Dateninhalte des Carriers unverändert auf dem Pap
 
 **ANTWORT:** Ein verkleinerter Ausdruck ist nicht spezifikationskonform. Bei den Einstellungen für den  Ausdruck des PDF ist darauf zu achten, dass die Option „Tatsächliche Größe“ gewählt wird. (z. B. unter MS  Windows: Menü Drucken  Größe  Schalter „Tatsächliche Größe“ setzen).
 
+Seite 6 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
-- **Anonymisieren von BMPs**
+- **7.** **Anonymisieren von BMPs**
 
 **FRAGE:** *Wie kann ich einen BMP unkenntlich machen/anonymisieren?*
 
@@ -161,9 +172,11 @@ In diesem Fall wird die PZN aus dem Carrier gelöscht. Sowohl die geänderten Fe
 
 In diesem Fall verbleibt im Carrier weiterhin nur die PZN. Im Ausdruck werden die zur PZN  zugehörigen Dateninhalte über die Arzneimitteldatenbank ermittelt und ausgegeben.
 
+Seite 7 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
-- **Dezimalzahlen im administrativen Block**
+- **10.** **Dezimalzahlen im administrativen Block**
 
 **FRAGE:*** Welche Eigenschaften müssen Dezimalzahlen des Parameterblockes im Carrier und Ausdruck*  *erfüllen?*
 
@@ -202,6 +215,8 @@ Die Regelungen übersteuern die folgenden fehlerhaften Festlegungen:
 -
 ```
 
+Seite 8 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
 - b) Korrektur der Definition (grün markiert) lautet:
@@ -239,11 +254,13 @@ Die Regelungen übersteuern die folgenden fehlerhaften Festlegungen:
 
 Die fehlerhaften Passagen werden in der nächsten Version der Anlage korrigiert.
 
+Seite 9 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
 ## 2.2 ANWENDUNGSFÄLLE (ERSTELLUNG, AKTUALISIERUNG)
 
-- **Arzneimitteldatenbank**
+- **1.** **Arzneimitteldatenbank**
 
 **FRAGE:*** Muss der Zugriff auf eine aktuelle Arzneimitteldatenbank gewährleistet sein?*
 
@@ -267,9 +284,11 @@ Die Software muss pro Medikationseintrag ein Kennzeichen verwalten, welches angi
 
 **ANTWORT:** Die Daten aller im PVS dokumentierten (Arzneimittel-)Verordnungen sowie dokumentierte  Fremd- und Selbstmedikation (Medikationseinträge) eines Patienten müssen in der Software  zusammengefasst zugreifbar sein (z. B. über das Krankenblatt) und für die Erstellung / Aktualisierung des  BMP nutzbar sein. Die Software muss die unmittelbare Erstellung eines BMPs aus den vorhandenen Daten  und weiterer Daten (Patient, Individualparameter) ggf. unter Einbeziehung von Aktualisierungen  ermöglichen.
 
+Seite 10 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
-- **Ersterstellung und Aktualisierung von Medikationsplänen**
+- **3.** **Ersterstellung und Aktualisierung von Medikationsplänen**
 
 **FRAGE:*** Welche Möglichkeiten hat der Anwender, Daten des PVS für den BMP zu nutzen?*
 
@@ -304,9 +323,11 @@ Des Weiteren soll die Software den Anwender durch geeignete Interaktionen oder H
 
 Zusätzlich soll die Software den Anwender geeignet informieren und unterstützen, wenn im Carrier  enthaltene Codes beim Einlesen eines Medikationsplans nicht aufgelöst werden können. Der Anwender soll  bei der Nacherfassung, Korrektur und dem Ersetzen bzw. Ergänzen von Daten unterstützt werden.
 
+Seite 11 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
-- **Übernahme von Medikamentendaten aus geeigneten Datenquellen**
+- **4.** **Übernahme von Medikamentendaten aus geeigneten Datenquellen**
 - **5.** **Speicherung der Arzneimittel und aller notwendiger Inhalte**
 - **6.** **Wirkstofforientierte Befüllung**
 - **7.** **Nutzung von Schlüsselworten**
@@ -334,9 +355,11 @@ Die Software muss zudem das PDF des erzeugten Medikationsplans im MP-Modul oder 
 
 **ANTWORT:** Nein, die Software muss den Aufruf des MP-Moduls zu jeder Zeit  auch unabhängig von der  Rezeptschreibung oder dem Anlegen einer Verordnung  ermöglichen.
 
+Seite 12 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
 ---
 
-- **Einlesen fremder MPs**
+- **9.** **Einlesen fremder MPs**
 
 **FRAGE:*** Müssen fremde Medikationspläne per Barcode eingelesen werden?*
 
@@ -372,10 +395,11 @@ In vergleichbarer Weise kann bei der Zusammenführung von Medikationsplandaten m
 
 **ANTWORT:** Ja, es sollte technisch möglich sein, Zusatzfunktionen anzubieten. Beispiele sind:  Reichweitenprüfung, Interaktionsprüfungen oder sonstige AMTS-Prüffunktionen.
 
+Seite 13 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
 
 ---
 
-- ** Angabe einer Dosiereinheit**
+- **14.** ** Angabe einer Dosiereinheit**
 - **15.**  **Umgang mit dem Zeichen Tilde „~“**
 - **16.** ** Verwendung der Daten aus der Referenzdatenbank des BfArM**
 - **17.** ** Angabe der Darreichungsform im Barcode**
@@ -406,10 +430,11 @@ Die KBV hat diesen Sachverhalt dem BfArM gemeldet, damit mögliche Lücken vom B
 
 Hintergrund dieser Festlegung ist, dass der Wert des Merkmals 302 sieben Zeichen lang ist, dass Element  MP.S.M.f des Barcodes jedoch nur max. drei Zeichen zulässt. Eine Korrektur des Sachverhaltes erfolgt in der  nächsten Anpassung des BMPs.
 
+Seite 14 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
 
 ---
 
-- **Umgang mit der wöchentlichen Dosierung ab dem BMP 2.8**
+- **18.** **Umgang mit der wöchentlichen Dosierung ab dem BMP 2.8**
 
 **FRAGE:** Darf die Zwischenüberschrift „Wöchentliche Anwendung“ mehrfach auf einem BMP vorkommen?
 
@@ -439,6 +464,7 @@ Es gilt zu beachten, dass unter einer freitextlichen Zwischenüberschrift keine 
 
 ANTWORT Aus Sicht der KBV kann das vorgeschlagene Vorgehen im Ausdruck umgesetzt werden, auch  wenn dies in der Form nicht in der Anlage selber beschrieben ist. Wichtig bei der Umsetzung ist, dass die  freitextliche Dosierung, welche in der gebunden Zusatzzeile enthalten ist, im Datenfeld MP.S.M.t hinterlegt  wird.
 
+Seite 15 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
 
 ---
 
@@ -472,4 +498,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Spezifikation des bundeseinheitlichen Verordnungssoftware Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 16 von 16 / KBV / Handlungsempfehlungen für Hersteller von BMP-Software / Version: 1.44 / 2. Juni 2026
+
+Spezifikation des bundeseinheitlichen Verordnungssoftware 

@@ -4,6 +4,8 @@ Stand der letzten Bearbeitung: 09.12.2025
 
 Version 1.0
 
+Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Bearbeitung 09.12.2025 1
+
 
 ---
 
@@ -28,6 +30,8 @@ Mit der automatischen Befüllung des BMI-SDS bei der aktuellen Dokumentation wer
 Ein guter Erfolg bedeutet, dass der BMI-SDS um mindesten 0,20 reduziert wurde, ein sehr guter Erfolg  (ausschließlich beim Vergleich zur Erstdokumentation relevant) bedeutet, dass der BMI-SDS um mind. 0,50  reduziert wurde (vgl. Tab. 2).
 
 *Beispiel für die Ergebnisanzeige* Liegt der BMI-SDS in der aktuellen Dokumentation bei 1,80, in der letzten  Dokumentation bei 1,90 und bei der Erstdokumentation bei 2,00, wird Ihnen automatisch folgendes angezeigt:
+
+Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Bearbeitung 09.12.2025 2
 
 
 ---
@@ -67,7 +71,11 @@ Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie unter Berücksicht
 
 Die Steigerung der körperlichen Aktivität sollte an den Grad der Adipositas angepasst werden. In einem  Gruppensetting ist die Durchführung mit einer Stärkung der gegenseitigen Motivation verbunden. Die
 
-1 Entspricht Tabelle 6 der Tragenden Gründe zum Beschluss vom 22.11.2024 1
+________________
+
+1 Entspricht Tabelle 6 der Tragenden Gründe zum Beschluss vom 22.11.2024
+
+Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Bearbeitung 09.12.2025 3 1
 
 in Ihrem Praxisverwaltungssystem
 
@@ -108,6 +116,8 @@ Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihr Patient regelmäßige 
 
 Sollte Ihre Patientin oder Ihr Patient keine regelmäßige Bewegung im Alltag durchgeführt haben, geben Sie  bitte die Antwort „Nein“ an.
 
+Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Bearbeitung 09.12.2025 4
+
 
 ---
 
@@ -140,6 +150,8 @@ Bei den Zielen kann es sich z. B. um eine Steigerung der Aufnahme von Gemüse, O
 Sollten Sie mit Ihrer Patientin oder Ihrem Patienten in einer der vorhergehenden Dokumentation Ziele zur  Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung vereinbart haben und diese im  Rahmen dieser Dokumentation überprüfen oder diese neu mit Ihrer Patientin oder Ihrem Patienten vereinbaren,  geben Sie bitte „Ziele vereinbart oder überprüft“ an.
 
 Sollten Sie mit Ihrer Patientin oder Ihrem Patienten keine Ziele zur Ernährungsumstellung oder zur  Aufrechterhaltung der Ernährungsänderung vereinbaren oder die bisher vereinbarten Ziele nicht überprüfen,  geben Sie bitte die Antwort „Keine Ziele vereinbart oder überprüft“ an.
+
+Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Bearbeitung 09.12.2025 5
 
 
 ---
@@ -182,6 +194,8 @@ Die Angaben zur Schulung beziehen sich hier **ausschließlich rückblickend** au
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
+Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Bearbeitung 09.12.2025 6
+
 
 ---
 
@@ -208,3 +222,5 @@ Bitte überprüfen Sie **regelmäßig**, ob **Ihre Patientin oder Ihr Patient we
 **Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme**  **(Ausschreibung!) durch die Krankenkasse mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**  **Sie, dass DMP-spezifische Leistungen, die nach dem Erstelldatum erbracht werden, daher nicht mehr**  **vergütet werden.**
 
 Eine erneute Teilnahme ist bei Vorliegen der Einschlusskriterien möglich.
+
+Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Bearbeitung 09.12.2025 7

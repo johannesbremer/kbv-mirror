@@ -1,3 +1,5 @@
+Anlage QSHGV: Ausfüllhinweise
+
 | Nr. | Eingabefeld | Ausfüllhinweis |
 |---|---|---|
 | **Allgemeine Angaben** | | |
@@ -34,6 +36,8 @@
 nung eines Hörgerätes / von Hörgeräten beim Jugendlichen oder Erwachse- nen bei Schwerhörigkeit (entsprechend der GOP 09372). geräteversorgung beim Jugendlichen oder Erwachsenen (entsprechend der GOP 09373). strument zur Bewertung der Qualität der Hörgeräteversorgung. Der Bogen wurde 1995 in den USA von Cox. Et al. entwickelt und wird dort bereits seit Jahren eingesetzt (Cox RM, Alexander GC (1995) The Abbreviated Profile of Hearing Aid Benefit. Ear Hear 16: 176–86). weise eingefügt. enten für Sie ggf. reidentifizierbar sein müssen. opt Patienten. gramm.
 
 ---
+
+Anlage QSHGV: Ausfüllhinweise
 
 | Freiburger Einsilber / Freiburger Zahlen | Bitte entnehmen Sie die Werte aus dem Audio- | 27. |
 |---|---|---|

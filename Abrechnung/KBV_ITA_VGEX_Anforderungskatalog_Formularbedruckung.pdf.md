@@ -12,9 +12,12 @@
 |  | Version |
 |  |  |
 
-bedruckung bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentlich Status: In Kraft
+bedruckung bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2025
+
 
 ---
+
+**IT in der Arztpraxis** Anforderungskatalog Formularbedruckung
 
 **D** **O** **K**
 
@@ -36,9 +39,12 @@ bedruckung bedruckung] 1.37 Datum: 15.08.2025 Kennzeichnung: Öffentlich Status:
 | 1.24 | 13.11.2019 | KBV | P7-90: aktualisiert | Der Ersatzwert „UUU“ | **9** |
 | 1.23 | 15.11.2018 | KBV | P7-10: red. Hinweis ergänzt |  | **5** |
 
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen forderungskatalogs VDGA entfällt zum 1. Januar
+die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-140 KP7-30, P7-130 und KP7-31 an die Aktualisierungen zum Statusfeld talen Gesundheitsanwendungen forderungskatalogs VDGA entfällt zum 1. Januar Seite 2 von 16
+
 
 ---
 
@@ -64,7 +70,13 @@ die KBV-Webseite 130 für die Anforderungen KP7-81 und für die Anforderung KP7-
 
 **15**  **3.1** **Abkürzungsverzeichnis .............................................................................................................. 15**  **3.2** **Referenzierte Dokumente ........................................................................................................... 16**
 
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+
 **I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+Seite 3 von 16
 
 
 ---
@@ -121,10 +133,16 @@ Ident-Nummer einer optionalen Funktion
 |---|---|
 | **KP8-30** | **Funktionsbezeichnung** |
 
-(2-70) Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist.
+Ident-Nummer einer konditionalen Pflichtfunktion, die an Bedingungen geknüpft ist.
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37 (2-70) Seite 4 von 16
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 # 2  Bedruckung von vertragsärztlichen Formularen
 
@@ -155,9 +173,13 @@ Auf der eGK sind unterschiedliche Strukturen für die Aufnahme einer Straßen- u
 - (1) Die zweite Namenszeile wird durch die Aneinanderreihung von Titel, Vorname, Namens-zusatz und Vorsatzwort gebildet (in dieser Reihenfolge). Die Trennung der jeweiligen Fel-dinhalte erfolgt durch je ein Blank.
 - (2) Ist diese Zeile länger als 21 Zeichen, so werden die restlichen Zeichen im Ausdruck unter-drückt.
 
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
 *Wegen welcher Diagnose(n) (ICD10) besteht die Arbeits-*
 
-Anlage zur Anlage 4a
+Anlage zur
+
+Anlage 4a
 
 -Ä) [KBV_ITA_VGEX_Map-[KBV_ITA_VGEX_Daten-
 
@@ -167,8 +189,12 @@ Anlage zur Anlage 4a
 
 „Bedruckung des  (BMV-Ä) erfolgen
 
+Seite 5 von 16
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
@@ -206,7 +232,14 @@ In § 6 Abs. 6 des Rahmenvertrags Entlassmanagement nach § 39 Abs. 1a S. 9 SGB 
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme die nicht im  Rahmen des Entlassmanagements eingesetzt werden.
 
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+Seite 6 von 16
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 ### 2.1.1 Sonstige Kostenträger
 
@@ -225,10 +258,18 @@ Vor dem Hintergrund des in vielen KVen erwarteten Ausdrucks von SKT-Zusatzangabe
 
 3 d.h. Versichertenkarte oder ein Behandlungsausweis, auf dem die Angaben der Versichertenkarte umgedruckt sind.
 
-“ beziehen sich lediglich auf die erste Druck-3 vorgelegt
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+“ beziehen sich lediglich auf die erste Druck-
+
+3 vorgelegt
+
+Seite 7 von 16
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 ### 2.1.2 Personalienfeldbedruckung
 
@@ -266,9 +307,13 @@ Zur Vermeidung der Fehlleitung von Rezepten und Verordnungen bei Versand sowie H
 - 4. Der Anwender wird von der Software beim Einlesen einer KVK darauf hingewiesen,  wenn in der Software bereits abweichende Namens- und Adressinformation hinterlegt  sind.
 - 5. Gibt der Patient eine von der KVK abweichende Namens- oder Adressinformationen  an, muss die Software das Personalienfeld der oben genannten vertragsärztlichen For-mulare standardmäßig mit diesen Angaben anstatt der Daten auf der Versichertenkarte  bedrucken.
 
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
 (KVK) abweichenden aktuellen Namens- und Adres-
 
 - abweichende Namens-
+
+Seite 8 von 16
 
 
 ---
@@ -311,10 +356,18 @@ Die Software muss die Formatvorgaben für den Ausdruck von ICD-10-Diagnosen einh
 
 Die Angabe und Übermittlung von ICD-10-Diagnosen ist in § 295 SGB V, ergänzt um die Vor-gaben des Deutschen Instituts für Medizinische Dokumentation und Information (DIMDI), ge-regelt.
 
-5, 6, 7, 10, 10A, 19, 39**Akzeptanzkriterium:**
+**Akzeptanzkriterium:**
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+5, 6, 7, 10, 10A, 19, 39Seite 9 von 16
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 Die Software druckt ICD-10-Diagnosen mit den folgenden Informationen in der angegebenen
 
@@ -366,10 +419,16 @@ Unterstützt die Abrechnungssoftware das Bedrucken von Muster 16 über das Perso
 
 - (2) Das Formularkennzeichen „666 “ darf wegen möglicher Leseprobleme in den Apotheken-rechenzentren nicht überdruckt werden.
 
-halten Gynäkologische OP, Strahlen- oder Chemotherapie des Geni- Letzte Periode     - 9 statt mit einem Kreuz („X“) mit den ent-
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+- 9 statt mit einem Kreuz („X“) mit den ent-
+
+halten Gynäkologische OP, Strahlen- oder Chemotherapie des Geni- Letzte Periode Seite 10 von 16
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 **2.5 Muster 10A (Anforderungsschein für Laboratoriumsleistungen**  **bei Laborgemeinschaften)**
 
@@ -406,8 +465,14 @@ Beispiel für einen optischen Warnhinweis:
 
 - 4 Der zweidimensionale Barcode PDF-417 beinhaltet alle relevanten Schein- und Auftragsdaten und ermöglicht somit eine voll-automatisierte Datenerfassung in der Laborgemeinschaft. Die Notwendigkeit des Barcodes wird durch die Laborgemeinschaft  bestimmt. Der Barcode ist technisch bedingt nur dann interpretierbar, wenn das Formular in der anfordernden Arztpraxis elektro-nisch erfasst, der Barcode generiert und mittels Laserdrucker bedruckt wird.
 
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+Seite 11 von 16
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 „Ampelfunktion“ in der Patientenakte
 
@@ -456,8 +521,14 @@ Die Software druckt:
 
 Die Software muss dem Anwender den Ausdruck eines Diagnosefreitextes ermöglichen.
 
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+Seite 12 von 16
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 **Begründung:**
 
@@ -499,19 +570,32 @@ Für Überweisungsscheine gilt: Wenn der ASV-Arzt innerhalb des ASV-Teams überw
 
 Der ASV-Arzt kann auch ein Laborfacharzt sein, der mittels Muster 10 in Anspruch genommen  wird. Auch in diesem Fall ist eine Weiterüberweisung zulässig. Der ASV-Arzt kann auch Mit-glied in einer Laborgemeinschaft sein und entsprechend Muster 10a ausstellen und mit seiner
 
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
 - Kennzeichen „1“ in Zeile 6, Druckposi-eine „0“ oder im Rahmen einer Ersatzverord-
 - Nr“ gedruckt werden.
 
 gedruckt.
 
-Pseudo-LANR für Krankenhäusergedruckt
+gedruckt
+
+Pseudo-LANR für KrankenhäuserSeite 13 von 16
 
 
 ---
 
 ASV-Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB V“  kommt im Rahmen der ASV nicht zur Anwendung.
 
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
+
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+Seite 14 von 16
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 # 3 Anhang
 
@@ -539,9 +623,14 @@ ASV-Teamnummer kennzeichnen. Das Ankreuzfeld „Behandlung gemäß § 116b SGB V
 | VKNR | 5-stellige Kassennummer |
 | VKNR-KTAB-Kom- | Kombination von Abrechnungs-VKNR und Kostenträger-Abrechnungs- |
 
-In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9-stelliges Institutionskennzeichen (IK);  halt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke für die ambulante spezialfachärztliche Versorgung sen hinausgehende Informationen. ses des DIMDI ( siehe auch Element „bezeichnung“ in cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde) der SDICD des DIMDI, Diagnosesi-
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostenträger zwei voneinander unabhängige Nummern- kreise: Eine fünfstellige VKNR sowie ein 9-stelliges Institutionskennzeichen (IK);  halt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke für die ambulante spezialfachärztliche Versorgung sen hinausgehende Informationen. ses des DIMDI ( siehe auch Element „bezeichnung“ in cherheit und Seitenlokalisation (soweit vom Anwender eine Seitenloka- lisation angegeben wurde) der SDICD des DIMDI, Diagnosesi-Seite 15 von 16
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Formularbedruckung
 
 **3.2 Referenzierte Dokumente**
 
@@ -555,4 +644,6 @@ In der vertragsärztlichen Versorgung existieren zur Identifikation der Kostentr
 | [KBV_ITA_VGEX_Schnittstelle_SDICD] | Schnittstellenbeschreibung der ICD-Stammdatei, |
 | [ASV-Vertrag] | ASV-Abrechnungsvereinbarung     Vertragliche Grundlagen zur ASV |
 
-pingtabelle KVK - eGK, in aktuellster Version liche Versorgung (Vordruckvereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version ( für die vertragsärztliche Versorgung, in aktuellster Version (
+KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
+
+pingtabelle KVK - eGK, in aktuellster Version liche Versorgung (Vordruckvereinbarung (Anlage 2 BMV-Ä)), in aktuellster Version ( für die vertragsärztliche Versorgung, in aktuellster Version (Seite 16 von 16

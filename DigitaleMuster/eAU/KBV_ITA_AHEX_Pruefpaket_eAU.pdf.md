@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EAU]
 
+Seite 1 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -51,6 +53,8 @@ INHALT
 
 **20**
 
+Seite 2 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
 Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle 
 
 
@@ -69,7 +73,12 @@ DOKUMENTENHISTORIE
 | 1.20 | 24.02.2021 | KBV | Änderung der    Angabe „AU | Anpassung der | 6      10, |
 | 1.10 | 02.02.2021 | KBV | Überarbeitung des Prüfpaketes |  | Alle |
 
-Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testziels, der Aktion sowie einzureichenden Unterlagen im PF12  Testdatenvalidierung bzgl. der Prüfung von Barcodes Voraussetzung in PF08 Testziels in PF10 den einzureichenden Screenshot in Prüffall PF01 Prüfunterlage „Screenshot der Betreffzeile“ in Prüffall PF05 Kleinschreibung des Header-Elements „Reply To“ der KIM Nachricht wurde korrigiert. eAU-Nachricht wird bereits in Prüffall PF01 geprüft. Mit der Streichung wird das Komponentennummer seit“ in Prüffällen mit Folgebescheinigungen gestrichen Zertifizierungsverfahren vereinfacht.   technischen Anlage eAU 11,
+Seite 3 von 20 / KBV /
+
+Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
+Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testziels, der Aktion sowie einzureichenden Unterlagen im PF12  Testdatenvalidierung bzgl. der Prüfung von Barcodes Voraussetzung in PF08 Testziels in PF10 den einzureichenden Screenshot in Prüffall PF01 Prüfunterlage „Screenshot der Betreffzeile“ in Prüffall PF05 Kleinschreibung des Header-Elements „Reply To“ der KIM Nachricht wurde korrigiert. eAU-Nachricht wird bereits in Prüffall PF01 geprüft. Mit der Streichung wird das Komponentennummer seit“ in Prüffällen mit Folgebescheinigungen gestrichen Zertifizierungsverfahren vereinfacht.   technischen Anlage eAU 11, 
+
 
 ---
 
@@ -77,6 +86,8 @@ Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testzi
 |---|---|---|---|---|---|
 |  |  |  |  | Aufnahme Testdatenvalidierung | 16 |
 | 1.00 | 01.07.2020 | KBV | Erstellung des Prüfpaketes |  | Alle |
+
+Seite 4 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
 
 ---
 
@@ -106,6 +117,8 @@ Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, 
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 5 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
 
 ---
 
@@ -145,6 +158,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Die Teile der Lieferung, welche eine eAU- oder Storno-Datei darstellen, sind im entsprechenden  Dateiformat zu exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu  übertragen. Diese Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall  eine XML-Datei sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss.
 
+Seite 6 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
 
 ---
 
@@ -163,6 +177,10 @@ Die gesammelten Dateien und der Ordner „Dokumentation“ sind in einem zip-Arc
 Die Struktur des zip-Archives sollte folgende Form aufweisen:
 
 **Abbildung 1: Beispiel Struktur des zip-Archives**
+
+________________
+
+Seite 7 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
 
 ---
 
@@ -208,10 +226,13 @@ Die Verwendung einer Import-Schnittstelle für die XML-Dateien ist nur für Prü
 | **Vorname** | <kann beliebig gewählt werden> |
 | **Titel** | Dr. |
 
+Seite 8 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
 Neben den speziellen Prüfstammdateien können auch die
 
-Federmannssohn 1.6.3) in einem jeweils separaten
+1.6.3) in einem jeweils separaten
 
+Federmannssohn
 
 ---
 
@@ -251,6 +272,8 @@ Federmannssohn 1.6.3) in einem jeweils separaten
 | **Telefax** | <kann beliebig gewählt werden> |
 | **E-Mail-Adresse** | AM@Testpraxis.de |
 
+Seite 9 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
 
 ---
 
@@ -275,7 +298,11 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 
 ## 2.2 ERSTELLUNG EINER EAU
 
-1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden>  b) AU-seit = <muss dem Ausstellungsdatum entsprechen> c) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> d) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> e) Erstbescheinigung = Ja f) ICD-10-GM-Kode = J06.9 G ICD-10-GM-Kode = U07.1 G 2. Der Anwender signiert die eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM- Nachricht für den Versand der eAU. 4. Bitte erzeugen Sie einen Screenshot des Header- Elements „Reply -T o“ der erzeugten KIM-Nachricht. 5. Der Anwender versendet die eAU. 1. XML-Datei der eAU 2. Signierte eAU-Datei 3. Screenshot der Betreffzeile 4. Screenshot des Header- Elements „Reply To“ Karl-Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   **Tabelle 1: Prüffalltabelle**  **Erstbescheinigung für Patient „Karl-Friederich Schaumberg**
+**Tabelle 1: Prüffalltabelle**  **Erstbescheinigung für Patient „Karl-Friederich Schaumberg**
+
+Seite 10 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
+1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden>  b) AU-seit = <muss dem Ausstellungsdatum entsprechen> c) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> d) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> e) Erstbescheinigung = Ja f) ICD-10-GM-Kode = J06.9 G ICD-10-GM-Kode = U07.1 G 2. Der Anwender signiert die eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM- Nachricht für den Versand der eAU. 4. Bitte erzeugen Sie einen Screenshot des Header- Elements „Reply -T o“ der erzeugten KIM-Nachricht. 5. Der Anwender versendet die eAU. 1. XML-Datei der eAU 2. Signierte eAU-Datei 3. Screenshot der Betreffzeile 4. Screenshot des Header- Elements „Reply To“ Karl-Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   
 
 
 ---
@@ -299,8 +326,11 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 | **Aktion** |  |
 | **Einzureichende** |  |
 
-Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg“ PF01 erfolgreich ausgeführt  Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <+ 4 Tage zum Ausstellungsdatum> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen Die eAU aus PF2 ist angelegt und als versendet markiert  Arzt 1 ist als ausstellender Arzt im System ausgewählt 1. Der Anwender erstellt eine Stornierung der eAU aus PF02: a) Bundle-Identifier der eAU aus PF02 b) Stornierungsdatum = <kann beliebig gewählt werden> 2. Der Anwender signiert die Stornierung der eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM- Nachricht. 4. Der Anwender versendet die Stornierung der eAU. 1. XML-Datei der Storno **Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
+Seite 11 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
 
+**Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
+
+Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg“ PF01 erfolgreich ausgeführt  Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <+ 4 Tage zum Ausstellungsdatum> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen Die eAU aus PF2 ist angelegt und als versendet markiert  Arzt 1 ist als ausstellender Arzt im System ausgewählt 1. Der Anwender erstellt eine Stornierung der eAU aus PF02: a) Bundle-Identifier der eAU aus PF02 b) Stornierungsdatum = <kann beliebig gewählt werden> 2. Der Anwender signiert die Stornierung der eAU. 3. Bitte erzeugen Sie einen Screenshot von der Betreffzeile der erzeugten KIM- Nachricht. 4. Der Anwender versendet die Stornierung der eAU. 1. XML-Datei der Storno
 
 ---
 
@@ -322,10 +352,13 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 
 **Tabelle 4: Prüffalltabelle**
 
+Seite 12 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
 **Stornonachricht für PF02**
 
-2. Signierte Storno-Datei 3. Screenshot der Betreffzeile Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen Karl-Friederich Schaumberg“  PF01 bis PF03 erfolgreich ausgeführt  Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G f) ICD-10-GM-Kode = U07.1 G Diagnosetext = Nun die korrekten Informationen 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 4. Die Papierausfertigung für den Versicherten sowie die Papierausfertigung für den Arbeitgeber sollen auf Grundlage der entsprechenden Stylesheets erzeugt werden. 5. Der Anwender druckt die Papierausfertigungen Versicherter und Arbeitgeber aus. 1. XML-Datei der eAU 2. PDF-Datei mit den beiden Papierausfertigungen für den Versicherten und den Arbeitgeber Profile in der Version 1.2.0 zu erstellen.   **Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
+**Folgebescheinigung für Patient „Karl-Friederich Schaumberg**
 
+2. Signierte Storno-Datei 3. Screenshot der Betreffzeile Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen Karl-Friederich Schaumberg“  PF01 bis PF03 erfolgreich ausgeführt  Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen d) Folgebescheinigung = Ja e) ICD-10-GM-Kode = J06.9 G f) ICD-10-GM-Kode = U07.1 G Diagnosetext = Nun die korrekten Informationen 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 4. Die Papierausfertigung für den Versicherten sowie die Papierausfertigung für den Arbeitgeber sollen auf Grundlage der entsprechenden Stylesheets erzeugt werden. 5. Der Anwender druckt die Papierausfertigungen Versicherter und Arbeitgeber aus. 1. XML-Datei der eAU 2. PDF-Datei mit den beiden Papierausfertigungen für den Versicherten und den Arbeitgeber Profile in der Version 1.2.0 zu erstellen.
 
 ---
 
@@ -340,7 +373,10 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 
 **Tabelle 5: Prüffalltabelle**  **Folgebescheinigung für die Patientin „Brigitte Althaus**
 
-a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Behandlung findet im Rahmen der ASV statt e) ASV-Teamnummer: 001234566 f) Folgebescheinigung = Ja ICD-10-GM-Kode = C50.0 G h) Diagnosetext = Schwerer Krankheitsverlauf i) Reha = Ja j) Wiedereingliederung = Ja k) Sonstiges = Ja Sonstiges-Text = Eine weitere Maßnahme  l) 7. AU-Woche = Ja 1. XML-Datei der eAU 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. Arzt 1 ist als ausstellender Arzt im System ausgewählt  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.
+Seite 13 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
+a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Behandlung findet im Rahmen der ASV statt e) ASV-Teamnummer: 001234566 f) Folgebescheinigung = Ja ICD-10-GM-Kode = C50.0 G h) Diagnosetext = Schwerer Krankheitsverlauf i) Reha = Ja j) Wiedereingliederung = Ja k) Sonstiges = Ja Sonstiges-Text = Eine weitere Maßnahme  l) 7. AU-Woche = Ja 1. XML-Datei der eAU 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. Arzt 1 ist als ausstellender Arzt im System ausgewählt  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   
+
 
 ---
 
@@ -355,7 +391,10 @@ a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis
 
 **Tabelle 6: Prüffalltabelle  Folgebescheinigung für Patient „Viktor Müller**
 
-a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) Sonstiger Unfall, Unfallfolgen = Ja f) ICD-10-GM-Kode = I83.9 G L g) ICD-10-GM-Kode = H16.4 V h) Diagnosetext = Nun die korrekten Informationen 1. XML-Datei der eAU 2. Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung 3. Screenshot mit der Anzeige der visualisierten eAU  1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eAU vor der Signierung visualisieren lassen kann. 3. Bitte erzeugen Sie einen Screenshot, auf dem die visualisierte eAU vollständig zu erkennen ist. 4. Der Anwender signiert die eAU. 5. Der Anwender versendet die eAU. ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im System ausgewählt  Ausfertigung Krankenkasse.  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.
+Seite 14 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
+a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis = <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am = <muss dem Ausstellungsdatum entsprechen> d) Folgebescheinigung = Ja e) Sonstiger Unfall, Unfallfolgen = Ja f) ICD-10-GM-Kode = I83.9 G L g) ICD-10-GM-Kode = H16.4 V h) Diagnosetext = Nun die korrekten Informationen 1. XML-Datei der eAU 2. Screenshot mit der Anzeige der Option zur Visualisierung vor der Signierung 3. Screenshot mit der Anzeige der visualisierten eAU  1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: 2. Bitte erzeugen Sie einen Screenshot, auf dem ersichtlich ist, dass sich der Anwender die eAU vor der Signierung visualisieren lassen kann. 3. Bitte erzeugen Sie einen Screenshot, auf dem die visualisierte eAU vollständig zu erkennen ist. 4. Der Anwender signiert die eAU. 5. Der Anwender versendet die eAU. ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im System ausgewählt  Ausfertigung Krankenkasse.  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   
+
 
 ---
 
@@ -379,7 +418,10 @@ a) Ausstellungsdatum = <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis
 
 **Tabelle 7: Prüffalltabelle  Einlesen einer Fehlernachricht**
 
-Bitte fügen Sie den Bundle-Identifier aus PF06 in das Feld extension(https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance _Practitioner_Bundle_Identifier).value der zur Verfügung gestellten Fehlernachricht ein.  2. Der Anwender liest die Fehlernachricht der Krankenkasse ein und bekommt die entsprechenden Informationen angezeigt.  afc2-4556-ab73-301e51a7bf30.xml Prüfunterlagen 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum: <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis: <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am: <muss dem Ausstellungsdatum entsprechen> d) Endbescheinigung: Ja e) ICD-10-GM-Kode = S02.4 G L f) 7. AU-Woche: Ja Folgebescheinigung: Ja 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU Ernesto Müller Arzt 2 ist als ausstellender Arzt im System ausgewählt  Arzt 1 ist als verantwortlicher Arzt für Arzt 2 im System ausgewählt im System ausgewählt Prüfunterlagen verantwortlich zeichnende Arzt in der eAU enthalten sein (siehe P310-09).
+Seite 15 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
+Bitte fügen Sie den Bundle-Identifier aus PF06 in das Feld extension(https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance _Practitioner_Bundle_Identifier).value der zur Verfügung gestellten Fehlernachricht ein.  2. Der Anwender liest die Fehlernachricht der Krankenkasse ein und bekommt die entsprechenden Informationen angezeigt.  afc2-4556-ab73-301e51a7bf30.xml Prüfunterlagen 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden Daten: a) Ausstellungsdatum: <kann beliebig gewählt werden> b) Voraussichtlich-AU-bis: <muss größer als das Ausstellungsdatum sein> c) Festgestellt-am: <muss dem Ausstellungsdatum entsprechen> d) Endbescheinigung: Ja e) ICD-10-GM-Kode = S02.4 G L f) 7. AU-Woche: Ja Folgebescheinigung: Ja 2. Der Anwender signiert die eAU. 3. Der Anwender versendet die eAU. 1. XML-Datei der eAU Ernesto Müller Arzt 2 ist als ausstellender Arzt im System ausgewählt  Arzt 1 ist als verantwortlicher Arzt für Arzt 2 im System ausgewählt im System ausgewählt Prüfunterlagen verantwortlich zeichnende Arzt in der eAU enthalten sein (siehe P310-09). 
+
 
 ---
 
@@ -426,7 +468,10 @@ Bitte fügen Sie den Bundle-Identifier aus PF06 in das Feld extension(https://fh
 | **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler-Kasse-Arzt_6413570d- [Testdaten_eAU] |
 | **Aktion** |  |
 
-Profile in der Version 1.2.0 zu erstellen.   1. PDF-Datei: Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM. Prüfunterlagen z.B. den eArztbrief eingereicht haben, dann muss dennoch eine erneute Übermittlung dieser Bestätigung im Verfahren eAU erfolgen.  1. Screenshot, welcher die Übersicht der erzeugten/versendeten eAUs und eStornos Prüfunterlagen der Krankenkasse. d8ce-4afa-9f6e-0950111a4cb8.xml
+Seite 16 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
+Profile in der Version 1.2.0 zu erstellen.   1. PDF-Datei: Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM. Prüfunterlagen z.B. den eArztbrief eingereicht haben, dann muss dennoch eine erneute Übermittlung dieser Bestätigung im Verfahren eAU erfolgen.  1. Screenshot, welcher die Übersicht der erzeugten/versendeten eAUs und eStornos Prüfunterlagen der Krankenkasse. d8ce-4afa-9f6e-0950111a4cb8.xml 
+
 
 ---
 
@@ -447,6 +492,8 @@ Profile in der Version 1.2.0 zu erstellen.   1. PDF-Datei: Bestätigungsschreibe
 | **Einzureichende** |  |
 
 **Tabelle 12: Prüffalltabelle**
+
+Seite 17 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
 
 **Verhalten beim Empfang von fehlerhaften Daten**
 
@@ -471,11 +518,15 @@ Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur
 
 **Abbildung 2: Testdatenvalidierung im Zertifizierungsportal**
 
+Seite 18 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
 ---
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
 **Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung**
+
+Seite 19 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
 
 ---
 
@@ -498,4 +549,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/eAU/KBV_ITA_VGE X_Technische_Anlage_eAU.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf update/DigitaleMuster/eAU/KBV_ITA_FME X_AAZ_eAU.pdf Primärsystems zur Konnektorschnittstelle anbieter/primaersysteme update/Abrechnung/Pruefverfahren/VSD_5 .2.0_Testfaelle_V2.3.zip update/DigitaleMuster/eAU/Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 20 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+
+update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/eAU/KBV_ITA_VGE X_Technische_Anlage_eAU.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf update/DigitaleMuster/eAU/KBV_ITA_FME X_AAZ_eAU.pdf Primärsystems zur Konnektorschnittstelle anbieter/primaersysteme update/Abrechnung/Pruefverfahren/VSD_5 .2.0_Testfaelle_V2.3.zip update/DigitaleMuster/eAU/

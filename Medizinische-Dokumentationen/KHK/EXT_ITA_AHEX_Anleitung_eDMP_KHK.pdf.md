@@ -31,6 +31,8 @@ Genau eine Angabe ist erforderlich und zulässig
 
 Bitte geben Sie entweder den Wert in mmol/l mit genau einer Nachkommastelle **oder** den Wert in  mg/dl ohne Nachkommastelle ein. Wurde das LDL-Cholesterin nicht untersucht, geben Sie bitte  Nicht bestimmt“ an
 
+Ausfüllanleitung KHK, Version 6; Stand: 19.11.2020 2
+
 
 ---
 
@@ -68,6 +70,8 @@ Die medikamentöse Therapie bei der KHK verfolgt zum einen das Ziel der Reduktio
 
 Vorrangig sollen unter Berücksichtigung der Kontraindikationen, der Komorbiditäten und der  Patientenpräferenzen Medikamente zur Behandlung der KHK verwendet werden, deren  positiver Effekt und deren Sicherheit in randomisierten,  nachgewiesen wurde.
 
+Ausfüllanleitung KHK, Version 6; Stand: 19.11.2020
+
 sind jeweils nur **seit der letzten**
 
 Nein“ an.
@@ -78,7 +82,7 @@ möglich und ist hier
 
 bitte eine „0“ an
 
-kontrollierten Studien (RCT)
+kontrollierten Studien (RCT) 3
 
 
 ---
@@ -114,6 +118,8 @@ Geben Sie bitte an, ob bei Ihrer Patientin oder Ihrem Patienten eine Therapie mi
 Erfolgt keine Statin-Therapie, geben Sie bitte Kein Statin an. Bitte geben Sie bei Kein Statin gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe  eines Statins zurückzuführen ist In diesem Fall ist eine Angabe zum Feld „Aktuelle  Therapiestrategie Statin“ nicht zulässig.
 
 Nachstehende Tabelle zeigt die Einordnung der entsprechenden Statin-Dosis in diese  Kategorien.
+
+Ausfüllanleitung KHK, Version 6; Stand: 19.11.2020 4
 
 
 ---
@@ -151,6 +157,8 @@ Genau eine Angabe ist erforderlich und zulässig Angabe „Moderat“ oder „Ni
 
 Bitte geben Sie den Grund für eine moderate oder niedrige Statin-Dosis an. Befindet sich Ihre  Patientin oder Ihr Patient aktuell in der Aufdosierungsphase, sodass noch keine Hochdosisgabe  möglich ist, geben Sie bitte „Aufdosierungsphase“ an. Ist der LDL erreicht, geben Sie bitte „LDL Zielwert erreicht“ an. Besteh
 
+Ausfüllanleitung KHK, Version 6; Stand: 19.11.2020
+
 „Niedrig“ erfolgt ist.
 
 “Keine Strategie vereinbart“
@@ -161,9 +169,9 @@ t eine Kontraindikation gegen eine
 
 an.
 
-Dosis“ die
+Dosis“ die -Zielwert aktuell bereits
 
-Reduktion ≥ 50%)-Zielwert aktuell bereits
+Reduktion ≥ 50%)5
 
 
 ---
@@ -202,6 +210,8 @@ Sollten Sie keine Schulung empfohlen haben, geben Sie bitte „Nein“ an
 
 Die Angaben zu den Schulungen beziehen sich hier ausschließlich rückblickend auf die  Schulung(en), die Sie Ihrer Patientin oder Ihrem Patienten bei dem letzten Dokumentationstermin  empfohlen haben, und sind daher nur im Rahmen einer **Folgedokumentation** verpflichtend. Genau eine Angabe ist erforderlich und zulässig.
 
+Ausfüllanleitung KHK, Version 6; Stand: 19.11.2020
+
 Trifft keine der genannten
 
 möglich und ist hier
@@ -210,7 +220,7 @@ nur erfolgen, wenn zum
 
 „Ja“ an, Es kann sich hier um
 
-möglich und
+möglich und 6
 
 
 ---
@@ -238,3 +248,5 @@ Allen Patientinnen und Patienten, insbesondere denjenigen mit erhöhtem Risiko f
 Bei stabiler kardiovaskulärer Erkrankung (niedriges Risiko für Komplikationen bei größerer  körperlicher Belastung) soll moderates bis anstrengendes aerobes Training für mindestens 2  Stunden in der Woche empfohlen werden. Dies kann auf tägliche Bewegungseinheiten von  mindestens 30 Minuten Dauer (z.B. zügiges Gehen) verteilt werden. Zusätzlich soll mindestens 2x  wöchentlich Krafttraining durchgeführt werden.
 
 Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient regelmäßiges sportliches Training betreibt.  Sollte aus einem für Sie nachvollziehbaren Grund regelmäßiges sportliches Training nicht möglich  sein (z.B. aufgrund einer Komorbidität), geben Sie hier bitte „Nicht möglich“ an. Geben Sie bitte  „Nein“ an, wenn Ihre Patientin oder Ihr Patient sportlich nicht aktiv ist und dafür keine  nachvollziehbaren Gründe bestehen.
+
+Ausfüllanleitung KHK, Version 6; Stand: 19.11.2020 7

@@ -95,6 +95,8 @@ Windows
 
 iOS/Android
 
+Seite 3 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
+
 Antragssteller:
 
 Mac OS
@@ -151,6 +153,8 @@ Muster 21
 Muster 22
 
 Muster 25
+
+Seite 4 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
 
 Antragssteller:
 
@@ -235,6 +239,8 @@ Muster 70
 
 Muster 70A
 
+Seite 5 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
+
 Antragssteller:
 
 Verordnung Soziotherapie gem. § 37a SGB V
@@ -285,6 +291,8 @@ Bitte kreuzen Sie die KV-spezifischen-Muster (jeweils ohne Barcode) an, die zu z
 Unter Beachtung der Vorgaben zur jeweils gültigen Version “Vordruck Blanko Blankoformularbedruckung“ bzw. „Technisches Handbuch BFB (PTV)“ wird bestätigt:
 
 **2.3**
+
+Seite 6 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
 
 PTV 1
 
@@ -351,6 +359,8 @@ Antragssteller:
 
 Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier   verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer  bei PTV und diversen KV-spezifischen Formularen).
 
+Seite 7 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
+
 ---
 
 3 ANLAGE ZU DEN KONTAKTDATEN
@@ -384,6 +394,8 @@ Ansprechpartner(in): Produktmanagement
 ________________
 
 Diese Information ist verpflichtend anzugeben
+
+Seite 8 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
 
 Antragssteller:
 
@@ -434,6 +446,8 @@ Ergebnisprüfung 68,81  Rezertifizierung
 
 (6) Der Antragsteller akzeptiert die Lizenzvereinbarung aus dem Dokument „Lizenzvereinbarung –  Software für Softwarehersteller –“ [KBV_ITA_ VGEX_Lizenzvereinbarung].
 
+Seite 9 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
+
 ---
 
 Antragssteller:
@@ -450,6 +464,8 @@ Antragssteller:
 
 (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
+Seite 10 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
+
 ---
 
 Antragssteller:
@@ -463,6 +479,8 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 11 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
 
 Unterschrift
 

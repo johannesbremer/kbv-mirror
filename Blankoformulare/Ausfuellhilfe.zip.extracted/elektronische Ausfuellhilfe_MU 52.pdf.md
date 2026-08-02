@@ -11,11 +11,13 @@
 
 ## HINWEISTEXTE FÜR DIE ERSTELLUNG EINER ELEKTRONISCHEN  AUSFÜLLHILFE
 
+Seite 1 von 3 / KBV / Muster 52  Bericht für die Krankenkasse bei Fortbestehen der Arbeitsunfähigkeit / 1. April 2025
+
 ---
 
-> [OCR REQUIRED — page 2]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
+Seite 2 von 3 / KBV / Muster 52
 
+Bericht für die Krankenkasse bei Fortbestehen der Arbeitsunfähigkeit / 1. April 2025
 
 ---
 
@@ -44,3 +46,5 @@ Hier ist anzugeben, ob Hinweise auf eine bestehende oder drohende Erwerbsminderu
 **Mehr Informationen**
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 15,5 MB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Seite 3 von 3 / KBV / Muster 52  Bericht für die Krankenkasse bei Fortbestehen der Arbeitsunfähigkeit / 1. April 2025

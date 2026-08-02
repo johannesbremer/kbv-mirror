@@ -1,10 +1,12 @@
 |  | ***IT in der Arztpraxis*****  *Anforderungskatalog *  [  **   Dezernat Digitalisierung und IT        10623 Berlin, Herbert-Lewin-Platz 2            Kassenärztliche Bundesvereinigung    Version  ** |
 |---|---|
 
-Labordatenkommunikation KBV_ITA_VGEX_Anfoderungskatalog _Labordatenkommunikation 1.07 Datum: 27.11.2023 Kennzeichnung: Öffentlich  Status: In Kraft 
+Labordatenkommunikation KBV_ITA_VGEX_Anfoderungskatalog _Labordatenkommunikation 1.07 Datum: 27.11.2023 Kennzeichnung: Öffentlich  Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2023
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 **D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
@@ -23,10 +25,14 @@ Die Änderungen der Version 1.07 müssen bis spätestens zum 01.07.2024 umgesetz
 | 1.01 | 15.11.2017 | KBV | Löschung der Hinweise auf KVDT- Umbenennung von P2-101 zu KP2- | Anpassungen des KVDT | **13** **24** |
 | 1.00 | 15.05.2017 | KBV | Initiale Erstellung |  | **alle** |
 
-und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM von den PDF/A-Mustern Befundes Zervix-Zytologie /Pathologie Coronavirus-Testverordnung und 3.3 an das neue Muster 39 Datensatzbeschreibung Anforderungen P5-130 und P5-150 P5-160 und P5-170 und P5-260 Anforderung P2-411 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM von den PDF/A-Mustern Befundes Zervix-Zytologie /Pathologie Coronavirus-Testverordnung und 3.3 an das neue Muster 39 Datensatzbeschreibung Anforderungen P5-130 und P5-150 P5-160 und P5-170 und P5-260 Anforderung P2-411 Seite 2 von 39
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 **I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
@@ -74,7 +80,14 @@ und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM vo
 
 **39**
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 3 von 39
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 # 1 Allgemeines
 
@@ -97,6 +110,8 @@ Dieser Anforderungskatalog richtet sich an Systeme, welche die Labordatenkommuni
 Die Grundlage für die Zertifizierung  Zertifizierungsrichtlinie der KBV [KBV_ITA_RLEX_RiLi_Zert eine Zulassung für die Labordatenkommunikation  Anforderungsdokument als „System“ bezeichnet.
 
 Welche der oben genannten Bereiche das System zur Unterstützung der Labordaten-kommunikation beinhalten muss, ist vom Einsatzgebiet des Systems abhängig und demzufolge  dem Antragsteller (Softwarehersteller) freigestellt. Allerdings sind die Anforderungen des  entsprechenden Bereiches, die mit dem Antrag auf Zertifizierung (Ergänzende Erklärung)  Labordatenkommunikation KBV_ITA_FMEX_EE_LDK widerspruchsfrei umzusetzen. Es gilt folgende Zuordnung zwischen den Bereichen und den im  vorliegenden Dokument definierten Anforderungen:
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
 
 zu versenden
 
@@ -122,8 +137,12 @@ in diesem
 
 und
 
+Seite 4 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 | Bereich der Labordatenkommunikation | Umzusetzende Anforderungen |
 |---|---|
@@ -143,13 +162,17 @@ und
 
 Die Vereinbarung über die Verwendung der digitalen Vordrucke in der vertragsärztlichen  Versorgung (Anlage 2b BMV-Ä) KBV_BMV-Ä_Anlage_2b Anforderungen zu den digitalen Mustern dar. Eine Konkretisierung der technischen Vorgaben  für die digitalen Muster 10 und 10A findet im  PDF/A-Format KBV_ITA_VGEX_Technisches_Handbuch_DiMus oder digitale Muster 10A sind entsprechend  entsprechenden Papiermuster einsetzbar und sind, wie die Papiermuster, die abrechnungs-begründende Unterlage.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 stellt die Grundlage
 
 Technisches Handbuch Digitale Vordrucke im  ] statt. Das digitale Muster 10  Anlage 2b BMV-Ä als
 
 für die
 
-Export des digitalen Musters 10  Export des digitalen Musters 10A Export des digitalen Musters 39 Import des digitalen Musters 10  Import des digitalen Musters 10A Import des digitalen Musters 39 Export des LDT-Auftrages Import des LDT-Auftrages Zytologie/Pathologie Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Ersatz für die
+Ersatz für die
+
+Export des digitalen Musters 10  Export des digitalen Musters 10A Export des digitalen Musters 39 Import des digitalen Musters 10  Import des digitalen Musters 10A Import des digitalen Musters 39 Export des LDT-Auftrages Import des LDT-Auftrages Zytologie/Pathologie Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen der Kapitel Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Anforderungen des Kapitels Seite 5 von 39
 
 
 ---
@@ -170,7 +193,16 @@ Der vorliegende Anforderungskatalog differenziert zwischen einer Pflichtfunktion
 
 Eine** Pflichtfunktion** muss in das System implementiert werden, sofern der entsprechende  Bereich realisiert ist. Eine** konditionale Pflichtfunktion** muss in das System implementiert  werden, sofern der entsprechende Bereich realisiert ist und die in der Funktion genannte  Bedingung für das System zutrifft.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 6 von 39
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 # 2 Labordatenkommunikation
 
@@ -211,6 +243,10 @@ Dem Anwender muss die Möglichkeit gegeben werden, selbstständig über den Eins
 -  Das Prüfmodul muss automatisiert ausgeführt werden, wenn dieses aktiviert wurde.
 -  Das Prüfmodul darf nicht ausgeführt werden, wenn dieses deaktiviert wurde.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 7 von 39
+
 
 ---
 
@@ -248,8 +284,16 @@ Diese Anforderung gilt nur für Systeme, welche mindestens einen der folgenden B
 - Import des digitalen Musters 10
 - Import des digitalen Musters 10A
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 8 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 - Import des digitalen Musters 39
 
@@ -288,11 +332,15 @@ müssen im
 
 Es wird empfohlen die Spezifikation der KIM-Anwendungen „LDT „LDT Befund“ [LDT-Befund] der kv.digital umzusetzen.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 DiMus] der kv.digital
 
 Rahmen der LDT-Dateien
 
 Auftrag“ [LDT-Auftrag] und
+
+Seite 9 von 39
 
 
 ---
@@ -319,7 +367,11 @@ Diese Anforderung gilt nur für Systeme, die mindestens eines der digitalen Must
 
 Für den inhaltlichen Abgleich eines Musters 10 bzw. Musters 10A mit der jeweiligen LDT-Auftrags-Datei, kann das System das KBV-Prüfmodul [XPM-LDK.praxis] mit dem Modus des  inhaltlichen Abgleichs zwischen LDT und PDF einsetzen. Das Prüfmodul verarbeitet dabei  entsprechend geeignete LDT-Dateien. Details dazu können dem Handbuch des [XPM-LDK.praxis] entnommen werden.
 
-Auftragsdatei 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Auftragsdatei Seite 10 von 39
 
 
 ---
@@ -356,7 +408,11 @@ Diese Anforderung gilt für Systeme, die mindestens eines der digitalen Muster u
 
 Für den inhaltlichen Abgleich eines Musters 10 bzw. Musters 10A mit der jeweiligen LDT-Auftrags-Datei, kann das System das Prüfmodul Labordatenkommunikation [XPM-LDK.praxis]  mit dem Modus des inhaltlichen Abgleichs zwischen LDT und PDF einsetzen. Das Prüfmodul  verarbeitet dabei entsprechend geeignete LDT-Dateien. Details dazu können dem Handbuch  des [XPM-LDK.praxis] entnommen werden.
 
-Auftragsdatei 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Auftragsdatei Seite 11 von 39
 
 
 ---
@@ -393,8 +449,16 @@ Für eine korrekte Verarbeitung der Personen- und Labordaten sind die Inhalte de
 -  Die Bedienoberfläche des Systems muss eine lückenlose und korrekte Verarbeitung aller  auf dem Muster 10 und/oder Muster 10A und/oder Muster 39 vorhandenen Daten  ermöglichen.
 -  Das System stellt sicher, dass die entsprechenden Felder gemäß den Vorgaben des  technischen Handbuchs digitale Muster [[KBV_ITA_VGEX_Technisches_Handbuch_DiMus] sowie der Vordruckerläuterung [KBV_Vordruckerläuterungen] dem Anwender zur Verfügung  gestellt werden.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 12 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 -  Das System muss die entsprechenden Funktionen sowie  Anforderungskataloges KVDT KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf beinhalten, die für eine anforderungskonforme Verarbeitung der entsprechenden Daten  notwendig sind. Der folgenden Tabelle können die Kapitel  entnommen werden, die in diesem Rahmen zu realisieren sind.
 
@@ -416,12 +480,17 @@ Für eine korrekte Verarbeitung der Personen- und Labordaten sind die Inhalte de
 
 In diesem Zusammenhang wird unter „Verarbeitung“ die Erfassung, Bearbeitung und/oder  Übernahme der entsprechenden Daten verstanden.
 
-- Stammdateien des
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
 
-Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Seriennummer 3.-5. Stelle >= 800) Handling Felder 9402, 9403 und 9404 Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) Kostenträger (VKNR- [Hinweis: diesem   - bzw. Pflichtfunktionen
+- Stammdateien des
+- bzw. Pflichtfunktionen
+
+Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Seriennummer 3.-5. Stelle >= 800) Handling Felder 9402, 9403 und 9404 Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) Kostenträger (VKNR- [Hinweis: diesem Seite 13 von 39
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 ## 3.2 Export des digitalen Musters
 
@@ -452,6 +521,9 @@ Dies umfasst insbesondere Folgendes:
 -  Bei der Erstellung des digitalen Musters werden alle benötigten PDF-Formularfelder  entsprechend den Vorgaben aus dem Kapitel „2. „3.2.2 Formularfelder digitales Muster 10 bzw. „3.3.2 Formularfelder digitales Muster 10A“ bzw. „3.4.2 Formularfelder digitales Muster 39“ befüllt. Dabei werden auch die Vorgaben zu  den Eigenschaften der PDF-Formularfelder, wie im technischen Handbuch beschrieben,  eingehalten.
 - o Auf Muster 39 werden entweder die PDF-Formularfelder des Laborauftrags und das  Stempelfeld des untersuchenden einsendenden Arztes oder die PDF-Formularfelder des  Zytologischen Befunds / Kombinationsbefunds und das Stempelfeld des zytologisch  tätigen Arztes befüllt. Das Personalienfeld, die Prüfnummer und die Auftragsnummer  des Labors können immer befüllt werden.
 -  Die Hinweise zur Dateibenennung sind entsprechend  berücksichtigen.
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 - ] und
 
 DiMus]] ein digitales
@@ -461,8 +533,12 @@ DiMus]
 - 10 Formularfelder“ sowie dem Kapitel
 - Kapitel „2. 5 Dateinamen“ zu
 
+Seite 14 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 -  Die auf dem Muster 10 und 39 notwendige digitale Signatur entspricht den Vorgaben aus  Kapitel „2. 7 Qualifizierte Elektronische Signatur“ sowie „2.10.8 Signaturfeld“
 - o Auf Muster 39 ist entweder die Signatur des untersuchenden einsendenden Arztes oder  des zytologisch tätigen Arztes aufzubringen.
@@ -488,10 +564,14 @@ Das System muss dem Anwender eine Funktion bieten, so dass dieser in der Lage is
 
 Um den Anwender in seiner Arbeit adäquat zu unterstützen, muss das System dem Anwender  die Übertragung des digitalen Musters über einen sicheren Übertragungsweg ermöglichen.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 15 von 39
+
 
 ---
 
-**Akzeptanzkriterium:**
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation     **Akzeptanzkriterium:**
 
 -  Das System muss vor dem Versand das digitale Muster 10 und/oder 10A automatisch mit  dem KBV-Prüfmodul gemäß [P3-50] prüfen, sofern der Anwender die Prüfung nicht  deaktiviert hat [P2-20
 -  Das System muss sicherstellen, dass für  ausschließlich die im System verwendeten sicheren Übertragungswege eingesetzt werden.
@@ -526,6 +606,9 @@ Die zu exportierenden digitalen Muster müssen für eine fehlerfreie Weiterverar
 Das System muss
 
 -  nach dem Erstellen [P3-20] bzw. vor dem Versenden [ Prüfmodul im Modus „Digitale Muster“ zur Prüfung einsetzen, sofern der Anwender die  Prüfung nicht deaktiviert hat [P2-20]
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 - das Versenden
 - KP2-40
 - des digitalen Musters
@@ -537,6 +620,8 @@ mit einer entsprechenden
 LDK.praxis], im Modus „Digitales
 
 - P3-30] des Musters 10 und 10A das
+
+Seite 16 von 39
 
 
 ---
@@ -552,6 +637,12 @@ LDK.praxis], im Modus „Digitales
 -  Ein Überblick zu den durchgeführten Prüfungen im XMP-LDK.praxis kann dem Handbuch  KBV_ITA_AHEX_Handbuch_Pruefmodul_DiMus_Praxis] entnommen werden
 -  Zusätzlich zum XPM-LDK.praxis stellt die KBV den KVen das Prüfmodul XPM-LDK.KV zur  Verfügung. Dieses Prüfmodul führt formelle Prüfungen des digitalen Musters durch. XPM-LDK.KV
 -  Das Prüfmodul (XPM-LDK.KV) unterstützt nicht die Prüfung zwischen dem digitalen Muster  39 und dem LDT.
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 17 von 39
 
 
 ---
@@ -582,7 +673,16 @@ Um den Anwender in seiner Arbeit adäquat zu unterstützen, muss das System dem 
 -  Das System muss sicherstellen, das mit dem Empfang des digitalen Musters automatisch  die Prüfung durch das Prüfmodul gemäß [P3-130] erfolgt, sofern die Funktionalität durch  den Anwender nicht deaktiviert wurde [P2-20]
 -  Wurde eine Laboratoriumsuntersuchung sowohl als digitales Muster als auch als LDT-Auftrag empfangen, gilt die Anforderung [KP2-50
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 18 von 39
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 | Pflichtfunktion Import des digitalen Musters | |
 |---|---|
@@ -603,6 +703,11 @@ Das System importiert aus dem empfangenen digitalen Muster die Inhalte, die den 
 -  Alle benötigten PDF-Formularfelder werden entsprechend den Vorgaben aus dem Kapitel  „2.10 Formularfelder“ sowie dem Kapitel „3.2.2 Formularfelder digitales Muster 10 bzw.  „3.3.2 Formularfelder digitales Muster 10A“ bzw. „3.4.2 Formularfelder digitales Muster 39“  des Dokumentes ausgelesen.
 -  Alle benötigten Metadaten werden entsprechend den Vorgaben aus Kapitel „2. 9 Metadaten“  sowie dem Kapitel „3. 2.1 Metadaten digitales Muster 10“ bzw. „3.3.1 Metadaten digitales  Muster 10A“ bzw. „3.4.1 Metadaten digitales Muster 39“ ausgelesen.
 -  Die Hinweise zur Dateibenennung sind entsprechend Kapitel „2.5 Dateinamen“ des  Dokumentes berücksichtigt.
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 19 von 39
+
 
 ---
 
@@ -638,8 +743,11 @@ Das System muss
 -  nach dem Empfang [P3-100] bzw. vor der Übernahme der Daten ins System [P3-120] des  Musters 10 und/oder 10A das Prüfmodul im Modus „Digitale Muster“ zur Prüfung einsetzen,  sofern der Anwender die Prüfung nicht deaktiviert hat [P2-20]
 -  sicherstellen, dass nach einer fehlerfreien Prüfung durch das Prüfmodul das Auslesen bzw.  die Übernahme der vorliegenden Daten erfolgt. Hinweis: Eine Prüfung wird als fehlerfrei  angesehen, wenn das Prüfmodul keine Fehlermeldungen ausgibt.
 -  nach einer fehlerhaften Prüfung durch das Prüfmodul den Anwender informieren, dass  fehlerhafte digitale Muster vorliegen und diese zur weiteren Verarbeitung ggf. nicht  verwendet werden können.
+-  dem Anwender das Auslesen bzw. die Übernahme der fehlerhaften Daten aus dem digitalen  Mustern ermöglichen. In diesem Fall muss der Anwender der Übernahme dieser Daten  explizit zustimmen.
 
-10A -  dem Anwender das Auslesen bzw. die Übernahme der fehlerhaften Daten aus dem digitalen  Mustern ermöglichen. In diesem Fall muss der Anwender der Übernahme dieser Daten  explizit zustimmen.
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07 10A Seite 20 von 39
 
 
 ---
@@ -653,7 +761,16 @@ Das System muss
 -  Zusätzlich zum XPM-LDK.praxis stellt die KBV den KVen das Prüfmodul XPM-LDK.KV zur  Verfügung. Dieses Prüfmodul führt formelle Prüfungen des digitalen Musters durch. Weitere  Informationen zu diesem Prüfmodul sind im KBV-Update-Verzeichnis zu finden.
 -  Das Prüfmodul (XPM-LDK.KV) unterstützt nicht die Prüfung zwischen dem digitalen Muster  39 und dem LDT.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 21 von 39
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 ## 3.4 Zusammenfassung
 
@@ -671,8 +788,14 @@ Im Rahmen des Imports des digitalen Musters muss die Prüfung durch das Prüfmod
 
 **Abbildung 2: Import des digitalen Musters**
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 22 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 # 4 Labordatentransfer
 
@@ -705,7 +828,7 @@ Für eine korrekte Verarbeitung der Personen- und Labordaten müssen sich die In
 - Anforderungskataloges  [KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] sind insbesondere die Anforderungen aus Kapitel 2.1.1 und 2.1.3.
 -  Das System muss die entsprechenden  Anforderungskataloges KVDT  [beinhalten, die für eine anforderungskonforme Verarbeitung der entsprechenden Daten](ftp://ftp.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf) notwendig sind. Der folgenden Tabelle  entnommen werden, die in diesem Rahmen zu realisieren sind.
 
-4.1.2 und  4.1.3 zu entnehmen.
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07 4.1.2 und  4.1.3 zu entnehmen.
 
 4.2.1 und die Import-4.2.2 beschrieben.
 
@@ -714,8 +837,12 @@ Für eine korrekte Verarbeitung der Personen- und Labordaten müssen sich die In
 - Funktionen sowie Stammdateien des  [KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf](ftp://ftp.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf)
 - können die Kapitel bzw. Pflichtfunktionen
 
+Seite 23 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 | Funktion bzw. Kapitel | Beschreibung |
 |---|---|
@@ -731,10 +858,14 @@ Für eine korrekte Verarbeitung der Personen- und Labordaten müssen sich die In
 | Kapitel 6.2 | KV-Spezifika-Stammdateien (SDKV) |
 | P6-150 | Stammdatei Handling der Felder 9402, 9403 und 9404 [Hinweis: In diesem |
 
-ärztlicher Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR-Seriennummer 3.-5. Stelle >= 800) Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+ärztlicher Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR-Seriennummer 3.-5. Stelle >= 800) Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) Seite 24 von 39
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 ### 4.1.2 Export des LDT-Auftrags
 
@@ -780,6 +911,8 @@ Um den Anwender in seiner Arbeit adäquat zu unterstützen, muss das System dem 
 
 Das System muss sicherstellen, dass die LDT-Auftragsdatei über die Auftragsnummer des  Labors eindeutig zum Probenmaterial zuzuordnen ist.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 P4-10
 
 durch die
@@ -787,6 +920,8 @@ durch die
 EXT_ITA_VGEX_LDT-
 
 - [P2-20]
+
+Seite 25 von 39
 
 
 ---
@@ -820,8 +955,16 @@ Das System muss
 -  dem Anwender jederzeit die freiwillige Anzeige der Protokolle des Prüfmoduls unabhängig  von dem Prüfstatus (fehlerhaft oder fehlerfrei) ermöglichen.
 -  die zum Quartalsbeginn gültige und aktuelle Version des Prüfmoduls beinhalten.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 26 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 ### 4.1.3 Import des LDT-Auftrags
 
@@ -860,6 +1003,8 @@ Um den Anwender in seiner Arbeit zu unterstützen, muss das System die Inhalte a
 -  Das System importiert die GKV-relevanten Objekte der LDT-Aufträge, die den Vorgaben der  Auftragsübermittlung der LDT-3-Satzbeschreibung [ 3_X_X_Gesamtdokument] entsprechen.
 -  Es können alle Daten für den LDT-Auftrag, aus den in der LDT-3-Satzbeschreibung  definierten Feldern, in das System importiert und verarbeitet werden.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 LDT-3-Satzbeschreibung
 
 LDT-Datei über einen
@@ -872,6 +1017,8 @@ EXT_ITA_VGEX_LDT-
 sicheren Übertragungsweg
 
 - P2-30
+
+Seite 27 von 39
 
 
 ---
@@ -910,11 +1057,23 @@ Das System muss
 -  nach einer fehlerhaften Prüfung durch das Prüfmodul den Anwender informieren, dass  fehlerhafte LDT-Dateien vorliegen und diese zur weiteren Verarbeitung ggf. nicht verwendet  werden können.
 -  dem Anwender das Auslesen bzw. die Übernahme von fehlerhaften LDT-Daten aus der  LDT-Datei ermöglichen. In diesem Fall muss der Anwender der Übernahme explizit  zustimmen.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 28 von 39
+
 
 ---
 
 -  dem Anwender jederzeit die freiwillige Anzeige der Protokolle des Prüfmoduls unabhängig  von dem Prüfstatus (fehlerhaft oder fehlerfrei) ermöglichen.
 -  die zum Quartalsbeginn gültige und aktuelle Version des Prüfmoduls beinhalten.
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 29 von 39
 
 
 ---
@@ -944,7 +1103,16 @@ Das System muss
 -  dem Anwender jederzeit die freiwillige Anzeige der Protokolle des Prüfmoduls unabhängig  von dem Prüfstatus (fehlerhaft oder fehlerfrei) ermöglichen.
 -  die zum Quartalsbeginn gültige und aktuelle Version des Prüfmoduls beinhalten.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 30 von 39
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 | Pflichtfunktion Export von LDT-Befund-Dateien | |
 |---|---|
@@ -982,6 +1150,8 @@ Das System exportiert Laborbefunde im Status Auftrag nicht abgeschlossen Vorgabe
 -  Status (Befund/Bericht) (FK 8401) gesetzt auf Auftrag nicht abgeschlossen
 -  Das System sendet mit einem Befund im Status Auftrag nicht abgeschlossen vorhandenen bzw. vom Anwender ausgewählten Untersuchungsergebnisse, unabhängig  davon, ob sie bereits versendet wurden.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 durch die
 
 - LDT-3-Satzbeschreibung
@@ -992,11 +1162,14 @@ exportieren können.
 nach den  [EXT_ITA_VGEX_LDT-
 
 - 1
+- alle
 
-Auftrag nicht abgeschlossen  - alle
+Auftrag nicht abgeschlossenSeite 31 von 39
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 | Pflichtfunktion Export von LDT-Befund-Dateien | |
 |---|---|
@@ -1042,7 +1215,11 @@ Für eine Historisierung müssen die einzelnen Befunde einer Untersuchungsanford
 
 **Akzeptanzkriterien:**
 
-Auftrag abgeschlossen Pflichtfunktion Export von LDT-Befund-Dateien Das System exportiert Befunde nach den Vorgaben der Befundübermittlung“ der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument] mit einer *Befund-ID* (FK
+Das System exportiert Befunde nach den Vorgaben der Befundübermittlung“ der LDT-3-Satzbeschreibung [EXT_ITA_VGEX_LDT-3_X_X_Gesamtdokument] mit einer *Befund-ID* (FK
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Auftrag abgeschlossen Pflichtfunktion Export von LDT-Befund-Dateien Seite 32 von 39
 
 
 ---
@@ -1071,6 +1248,13 @@ Das System muss
 -  dem Anwender das Auslesen bzw. die Übernahme von fehlerhaften LDT-Daten aus der  LDT-Datei ermöglichen. In diesem Fall muss der Anwender der Übernahme explizit  zustimmen.
 -  dem Anwender jederzeit die freiwillige Anzeige der Protokolle des Prüfmoduls unabhängig  von dem Prüfstatus (fehlerhaft oder fehlerfrei) ermöglichen.
 -  die zum Quartalsbeginn gültige und aktuelle Version des Prüfmoduls beinhalten.
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 33 von 39
+
 
 ---
 
@@ -1113,8 +1297,16 @@ Das System ordnet einen importierten Befund, der den Vorgaben der Befundübermit
 -  Versichertennummer (FK 3105) und Patientenstammdaten
 -  SKT-Zusatzangabe (FK 4124) und Patientenstammdaten
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 34 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 Die Patientenstammdaten fassen die Felder *Nachname* (FK 3101), *Vorname* (FK 3102),  *Geburtsdatum* (FK 3103) und *Geschlecht* (FK 3110) zusammen.
 
@@ -1152,9 +1344,14 @@ Das System stellt alle Informationen, die im *Objekt Laborergebnisbericht* (Obj_
 
 Das System darf importierte Daten dabei inhaltlich nicht verändern bzw. löschen.
 
-Patientendokumentation
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Patientendokumentation Seite 35 von 39
+
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 | Pflichtfunktion Import von LDT-Befund-Dateien | |
 |---|---|
@@ -1196,11 +1393,15 @@ Das Feld Ergebnisstatus eines Objektes „Untersuchungsergebnis…“  Ergebniss
 
 Die Untersuchungen und dessen Ergebnisse müssen in Hinsicht auf deren Status  charakterisiert werden.
 
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
 übermittelten Anhänge in
 
 Obj_0010 die im Befund
 
-Patientendokumentation charakterisiert die
+charakterisiert die
+
+Patientendokumentation Seite 36 von 39
 
 
 ---
@@ -1247,6 +1448,12 @@ Nachdem das System einen Befund, der den Vorgaben der Befundübermittlung der LD
 
 wenn diese das Feld
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 37 von 39
+
 
 ---
 
@@ -1264,7 +1471,16 @@ Durch die Historisierung der Befunde zu einem Patienten kann eine lückenlose Do
 
 Das System ermöglicht dem Anwender, alle zu einem Patienten importierten Befunde gruppiert  nach *Auftragsnummer des Absenders* (FK 8310) oder *ID Auftragsnummer des Einsenders* (FK  8311) und *Befund-ID* (FK 7305) anzeigen zu lassen.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+Seite 38 von 39
+
+
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
 
 **5** **Referenzierte Dokumente**
 
@@ -1283,4 +1499,6 @@ Das System ermöglicht dem Anwender, alle zu einem Patienten importierten Befund
 | [KBV_Vordruckerläuterungen] | Erläuterungen zur Vereinbarung über Vordrucke für |
 | [KBV_BMV-Ä_Anlage_2b] | Anlage 2b Bundesmantelvertrag Ärzte „ Vordruck-Vereinbarung digitale Vordrucke |
 
-ruckung] Format die vertragsärztliche Versorgung über die Verwendung digitaler Vordrucke in der vertragsärztlichen Versorgung
+[KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+ruckung] Format die vertragsärztliche Versorgung über die Verwendung digitaler Vordrucke in der vertragsärztlichen Versorgung Seite 39 von 39

@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_ASTHMA_KONTROLLE]
 
+Seite 1 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -32,6 +34,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **8**
 
+Seite 2 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
+
 ZUSTÄNDE DER ASTHMAKONTROLLE 
 
 
@@ -46,6 +50,8 @@ Die Änderungen vom 22.08.2024 treten zum 01.10.2024 in Kraft
 | 1.1 | 22.08.2024 | KBV | Anpassung an die | Beschluss des G-BA | alle |
 | 1.0 | 13.02.2018 | KBV | Ersterfassung |  |  |
 
+Seite 3 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
+
 aktualisierten G-BA Richtlinie 
 
 
@@ -54,6 +60,8 @@ aktualisierten G-BA Richtlinie
 # 1 EINLEITUNG
 
 Dieses Dokument beschreibt die Zustandsbedingungen für die Entscheidung über den Zustand der  Asthmakontrolle im Rahmen des eDMP Asthma bronchiale. Auf dieses Dokument bezieht sich die  Anforderung O1-74 des Anforderungskatalogs eDMP.
+
+Seite 4 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
 
 ---
 
@@ -98,6 +106,9 @@ Es muss mindestens ein und nicht mehr als zwei der folgenden 4 Kriterien zutreff
 - B. Feld 1a („In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation“) = „Häufiger als
 - 2 mal wöchentlich“
 - C. Feld 2a („In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma  bronchiale“) = „Ja“
+
+Seite 5 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
+
 - **18 6 Jahre mit:**
 - Symptomen tagsüber“) = „Häufiger als 2
 
@@ -178,6 +189,8 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen:
 
 Es müssen drei oder vier der folgenden 4 Kriterien zutreffen:
 
+Seite 6 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
+
 - **bis < 18 6 Jahre:**
 
 
@@ -198,6 +211,8 @@ Es müssen drei oder vier der folgenden 4 Kriterien zutreffen:
 
 (A UND B UND C UND D)
 
+Seite 7 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
+
 ---
 
 3 REFERENZIERTE DOKUMENTE
@@ -214,3 +229,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 8 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024

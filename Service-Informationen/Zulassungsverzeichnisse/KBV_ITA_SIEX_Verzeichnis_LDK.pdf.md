@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. JULI 2026**
+**01. AUGUST 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung** **und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2501/24/395
 
@@ -79,6 +79,8 @@ Windows
 **MOLIS**
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
+
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 X/43/2410/24/525
 
@@ -130,7 +132,7 @@ Y/43/2407/36/263
 
 Y/43/2501/24/549
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 LDT-Befund - Export LDT-Befund - Import Digitales Muster 10A - Import 30.06.2027 Digitales Muster 10 - Import LDT-Auftrag - Export Digitales Muster 10 - Export LDT-Auftrag - Import
 
@@ -160,6 +162,8 @@ PROMED-open / X-PROMED Clinisys Deutschland GmbH Am Klingenweg 6 65396 Walluf In
 |---|---|---|---|---|
 |  | Y/43/2501/24/023 | 31.12.2026 | LDT-Befund - Import |  |
 
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
+
 Y/43/2601/24/629
 
 Y/43/2501/24/112
@@ -188,6 +192,8 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 |---|---|---|---|---|
 |  | Y/43/2501/24/060 | 31.12.2026 | LDT-Befund - Import |  |
 
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
+
 Y/43/2501/24/252 31.12.2026 LDT-Befund - Import
 
 CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows WindowsWindows
@@ -214,17 +220,19 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 
 Hüngert 15 41564 Kaarst Internet: www.dgn.de
 
-**inSuite**
-
-**Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
-
 Y/43/2501/24/347
 
 Y/43/2410/24/374
 
 X/43/2607/18/429
 
-Y/43/2507/24/488 31.12.2026 LDT-Befund - Export
+**inSuite**
+
+**Doc Cirrus GmbH** Pohlstraße 20
+
+Y/43/2507/24/488 10785 Berlin Internet: www.doc-cirrus.com
+
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026 31.12.2026 LDT-Befund - Export
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export 30.09.2026 LDT-Befund - Import Digitales Muster 39 - Export
 
@@ -272,7 +280,7 @@ Y/43/2604/21/673
 
 Y/43/2410/24/606
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026 30.06.2028 LDT-Befund - Import
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026 30.06.2028 LDT-Befund - Import
 
 LDT-Auftrag - Export LDT-Auftrag - Import 31.12.2026 LDT-Befund - Export LDT-Befund - Import
 
@@ -312,7 +320,7 @@ Y/43/2501/24/086
 
 Y/43/2501/24/295
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export 31.12.2026 Digitales Muster 10 - Import LDT-Befund - Import
 
@@ -341,6 +349,8 @@ INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet
 |  | Y/43/2411/38/616 | 31.12.2027 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Y/43/2310/36/298 | 30.09.2026 | LDT-Befund - Import |  |
+
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2604/21/630
 
@@ -371,6 +381,8 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 |  | Y/43/2501/24/136 | 31.12.2026 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Z/43/2509/37/817 | 30.09.2028 | Digitales Muster 10 - Export |  |
+
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2601/24/473 31.12.2027
 
@@ -409,6 +421,8 @@ Y/43/2504/24/320
 **AB+M Auftragserfassungs-System**
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
+
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2504/24/703
 
@@ -449,6 +463,8 @@ Linux Mac OS Sonstige Windows
 |  |  |  | Digitales Muster 10A - Import |  |
 |  | Y/43/2501/24/730 | 31.12.2026 | Digitales Muster 10 - Import |  |
 |  |  |  | LDT-Befund - Export |  |
+
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2410/24/607
 
@@ -494,7 +510,7 @@ Y/43/2501/24/375
 
 Y/43/2607/18/721 80636 München Internet: www.medat.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 LDT-Befund-Zervix-Zytologie - Export 30.06.2027 LDT-Befund - Export
 
@@ -538,7 +554,7 @@ Y/43/2501/24/216
 |---|---|---|---|---|
 |  | Y/43/2501/24/266 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026 31.12.2026 LDT-Befund - Import
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026 31.12.2026 LDT-Befund - Import
 
 31.12.2026 LDT-Befund - Import
 
@@ -566,7 +582,7 @@ Softwarevariante(n): - psyx
 |  |  |  | Digitales Muster 39 - Export |  |
 |  | Y/43/2410/24/251 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2501/24/462 31.12.2026 LDT-Befund - Import
 
@@ -591,6 +607,8 @@ medicalvalues Order Intelligence medicalvalues GmbH Haid-und-Neu-Straße 18 7613
 |  | Y/43/2507/24/603 | 30.06.2027 | Digitales Muster 10 - Export |  |
 |---|---|---|---|---|
 |  | Y/43/2409/37/043 | 30.09.2027 | LDT-Befund - Import |  |
+
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2501/24/015
 
@@ -621,6 +639,8 @@ Calo (Computer-Aided-Laboratory-Order) MVZ Labor Dr. Quade und Kollegen GmbH Hug
 |  | Y/43/2604/21/441 | 31.12.2027 | LDT-Befund-Zervix-Zytologie - Export |  |
 |---|---|---|---|---|
 |  | Y/43/2501/24/692 | 31.12.2026 | Digitales Muster 39 - Export |  |
+
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2501/24/299 31.12.2026
 
@@ -657,6 +677,8 @@ dc-pathos/dc-ross NEXUS / DIGITAL PATHOLOGY GmbH Irmastraße 1 78166 Donaueschin
 **QS-LAB**
 
 **QS QualitySoft GmbH** Tempowerkring 21a 21079 Hamburg Internet: www.qualitysoft.de
+
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 Y/43/2501/24/083
 
@@ -704,6 +726,8 @@ Windows
 
 **Sonic Healthcare Germany GmbH & Co. KG** Mecklenburgische Straße 28 14197 Berlin Internet: www.sonichealthcare.de
 
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
+
 Y/43/2504/24/456
 
 Y/43/2510/24/261
@@ -746,6 +770,8 @@ Linux Mac OS Windows
 |---|---|---|---|---|
 |  | Y/43/2410/24/313 | 30.09.2026 | LDT-Befund - Import |  |
 
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
+
 Z/43/2410/24/804 30.09.2026
 
 X/43/2604/21/675 31.12.2027
@@ -776,7 +802,7 @@ X/43/2410/24/529
 |---|---|---|---|---|
 |  | Y/43/2509/37/768 | 30.09.2028 | LDT-Befund - Import |  |
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 25. Juli 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 01. August 2026
 
 LDT-Auftrag - Export LDT-Befund - Export 30.09.2026 LDT-Befund - Import Digitales Muster 10A - Export Digitales Muster 10 - Export
 

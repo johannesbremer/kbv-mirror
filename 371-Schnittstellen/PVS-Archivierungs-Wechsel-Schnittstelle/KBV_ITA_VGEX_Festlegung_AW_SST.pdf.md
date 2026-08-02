@@ -11,7 +11,7 @@
 
 ## [KBV_ITA_VGEX_FESTLEGUNG_AW_SST]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   Seite 1 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
@@ -160,6 +160,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 39
 
+Seite 2 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2. 0 / 8. Dezember 2020
+
 
 ---
 
@@ -191,6 +193,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **41**
 
+Seite 3 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 DOKUMENTENHISTORIE
@@ -199,7 +204,7 @@ DOKUMENTENHISTORIE
 |---|---|---|---|---|---|
 | 1.2.0 | 08.12.2020 |  | 1. 2. 3. 4. 5. 6. 7. | Harmonisierun | 5      8    40    40    12-28                19 &  28 |
 
-Änderung der gesetzlichen Grundlage in § 371 und § 372 Umsetzung einer Basisversion in Kapitel 3 aufgenommen Neues Kapitel 5 „Umsetzung der systemeigenen Schnittstelle“ eingefügt Neue Kapitel 6 „Umsetzungsfrist“ und 7 „Gültigkeit“ eingefügt Umstellung aller FHIR Ressourcen von STU3 auf R4. Dadurch Änderung aller Modelle und Ressourcen inkl. der Dateinamen von 74_* in KBV_*. Div. kleinere redaktionelle Änderungen in den gelb markierten Kapitelüberschriften Entfernen der Extension und Namingsystem für die VKNR 
+Änderung der gesetzlichen Grundlage in § 371 und § 372 Umsetzung einer Basisversion in Kapitel 3 aufgenommen Neues Kapitel 5 „Umsetzung der systemeigenen Schnittstelle“ eingefügt Neue Kapitel 6 „Umsetzungsfrist“ und 7 „Gültigkeit“ eingefügt Umstellung aller FHIR Ressourcen von STU3 auf R4. Dadurch Änderung aller Modelle und Ressourcen inkl. der Dateinamen von 74_* in KBV_*. Div. kleinere redaktionelle Änderungen in den gelb markierten Kapitelüberschriften Entfernen der Extension und Namingsystem für die VKNR Seite 4 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
@@ -222,6 +227,9 @@ Der Umfang der Umsetzung der Schnittstelle richtet sich nach dem Entwicklungs- u
 -
 ```
 
+Seite 5 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 # 2. UMSETZUNG DER ARCHIV- UND WECHSELSCHNITTSTELLE
@@ -235,6 +243,9 @@ Grundsätzlich muss das exportierende PVS 1 die in ihm vorliegenden Daten in die
 Bei einem Systemwechsel importiert das PVS 2 die Daten aus den FHIR®-Dateien und übernimmt diese, wenn  immer möglich in strukturierter Form. Die Dokumente wie z. B. Bilder, PDFs sind zu übernehmen und für eine  mögliche Nachbearbeitung bzw. Zuordnung im Zielsystem anzuzeigen.
 
 Bei der Archivierung werden die FHIR®-Dateien und Dokumente der Schnittstelle auf den entsprechenden  Datenträgern (Festplatte, CD, DVD etc.) abgelegt und können von dort eingesehen werden.
+
+Seite 6 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -268,6 +279,9 @@ Inhalt der Schnittstelle sind nur solche Informationen und Dokumente, die sich i
 
 Bei der Nutzung der Schnittstelle im Rahmen des Einsatzszenarios „Wechsel des Praxisverwaltungssystems“  wird davon ausgegangen, dass der Import in ein leeres PVS ohne weitere Rahmenbindungen erfolgt. Beim  Import in ein bereits genutztes PVS muss zusätzliche eine Migration (Zusammenführen der Daten von  Behandelnden- und/oder Behandlungsdokumentation etc.) durchgeführt werden. Dies ist nicht Bestandteil  der vorliegenden Schnittstellenfestlegung.
 
+Seite 7 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 # 3. UMSETZUNG DER VERSION
@@ -279,6 +293,9 @@ Hintergrund dieser Vorgehensweise ist der enorme Umfang der Schnittstelle mit ei
 Dadurch das ggf. bei der Umsetzung einer Basisversion nicht alle Informationen strukturiert abgebildet  werden können, sind diese zwingend als Anlage im ursprünglichen Format oder als PDF bereitzustellen.
 
 Die Elemente mit der FHIR-Eigenschaft "mustSupport" müssen bei der Umsetzung des geringeren  Funktionsumfangs nur für die Elemente die die verpflichtenden Profile betreffen implementiert werden.  Werden weitere optionale Profile umgesetzt sind die Elemente die mit "mustSupport" gekennzeichnet sind  immer umzusetzen.
+
+Seite 8 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -317,13 +334,11 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 | **Behandelnder** |  | **Begegnung/Hausbesuch** |  | **Abrechnung** |
 |  | -wird durchgefü h rt -fü hrt |  | 1..* 0..* |  |
 
-| -arbeiten | 1..* |
-|---|---|
-| in | 0..* |
+-arbeiten 1..*
 
 0..* -finden statt
 
--arbeitet in
+-arbeitet in 0..*
 
 0..1 **Betriebsstätte**
 
@@ -353,7 +368,9 @@ Die erste Ebene des Informationsmodells kann der Abbildung 1 entnommen werden. E
 
 **Ringversuchszertifikat**
 
-Abbildung 2 Ebene 1 des fachlichen Informationsmodells -wird durchgeführt -führt
+Abbildung 2 Ebene 1 des fachlichen Informationsmodells
+
+-wird durchgeführt -führtSeite 9 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
@@ -398,6 +415,9 @@ Die Dateinamen für die Elemente der FHIR®-Spezifikationsdateien setzen sich wi
 \| **Beispiel:  ** Dateiname: KBV_PR_AW_System |
 \|---|
 
+Seite 10 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 ## 3.4 FHIR®-INFORMATIONSMODELL DER SCHNITTSTELLE
@@ -408,11 +428,13 @@ Das FHIR®-Informationsmodell bildet das fachliche Informationsmodell in der kon
 
 Begegnung:: **Behandlung_im_Auf** **trag_Überweisung(ServiceRequest)**
 
--Patient -Behandelnder -Betriebsstaette
+-Patient -Behandelnder -Betriebsstaette -Medikament
 
-|  | -Medikament |  |
-|---|---|---|
-| **Begegnung::Koerpergewicht(KBV-Basis), Koerpergroesse (KBV-Basis),Hueftumfang,Bauchumfang,Raucherstatus,Puls,Blutdruck(Observation)**-Patient | **Koerpertemperatur,** | **Begegnung::Diagnose(Condition)**-Patient |
+Begegnung:: **Koerpergewicht(KBV-Basis), Koerpergroesse (KBV-Basis), Koerpertemperatur,** Begegnung:: **Dia** **gnose(Condition)**
+
+**Hueftumfang,Bauchumfang,Raucherstatus,Puls,** **Blutdruck(Obse** **rva** **tion)**
+
+-Patient -Patient
 
 Begegnung:: **Allergie(AllergyIntolerance)**
 
@@ -728,7 +750,7 @@ Die Attribute in den Klassen bezeichnen Referenzen. Der Name des Attributs ist d
 
 Die hier modellierten Profile werden beim Export in Form von einzelnen Dateien (Instanzen) im XML-Format  erzeugt. Die Beziehungen zu den anderen Instanzen werden in den Dateien durch URLs gehalten.
 
-Koerpergewicht(KBV-Basis), Koerpergroesse (KBV-Basis), Koerpertemperatur,
+Seite 11 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
@@ -856,7 +878,8 @@ Koerpergewicht(KBV-Basis), Koerpergroesse (KBV-Basis), Koerpertemperatur,
 |  | KBV_PR_AW_Abrechnung_vorl | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Abr |
 |  | KBV_PR_AW_Allergie | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Aller |
 
-Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_Selekti at ragsaerztlich aeufig ation ation_General echstundenbedarf ktion Auftrag_Ueberweisung tein_Definition tein_Diagnose tein_Leistungsziffern echnung_HzV_BesondereVersorgung_Selektiv echnung_privat echnung_vertragsaerztlich geplant zur nächsten Version echnung_vorlaeufig ulante_Operation ulante_Operation_General rderung_Sprechstundenbedarf andelnderFunktion andlung_im_Auftrag_Ueberweisung andlungsbaustein_Definition andlungsbaustein_Diagnose andlungsbaustein_Leistungsziffern
+Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erfolgt durch die Angabe einer kanonischen URI.  _BesondereVersorgung_Selekti at ragsaerztlich aeufig ation ation_General echstundenbedarf ktion Auftrag_Ueberweisung tein_Definition tein_Diagnose tein_Leistungsziffern echnung_HzV_BesondereVersorgung_Selektiv echnung_privat echnung_vertragsaerztlich geplant zur nächsten Version echnung_vorlaeufig ulante_Operation ulante_Operation_General rderung_Sprechstundenbedarf andelnderFunktion andlung_im_Auftrag_Ueberweisung andlungsbaustein_Definition andlungsbaustein_Diagnose andlungsbaustein_LeistungsziffernSeite 12 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -981,7 +1004,8 @@ Einschränkungen diese zu verwenden sind. Die Identifikation der KBV-Profile erf
 | KBV_PR_AW_Betriebsstaette | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | 06.06.2021 |
 | KBV_PR_AW_Betriebsstaette_ | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Betr | Optional |
 
-tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung rsuchung rung rung_42019 rung_Befoerderungsmittel andlungsbaustein_OMIMCode andlungsbaustein_Sonstige andlungsbaustein_Textvorlage andlungsbaustein_Verordnung iebsstaette_Ort geplant zur nächsten Version etische_Untersuchung teller_Software kenbefoerderung kenbefoerderung_42019 kenbefoerderung_Befoerderungsmittel
+tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung rsuchung rung rung_42019 rung_Befoerderungsmittel andlungsbaustein_OMIMCode andlungsbaustein_Sonstige andlungsbaustein_Textvorlage andlungsbaustein_Verordnung iebsstaette_Ort geplant zur nächsten Version etische_Untersuchung teller_Software kenbefoerderung kenbefoerderung_42019 kenbefoerderung_BefoerderungsmittelSeite 13 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1106,7 +1130,8 @@ tein_OMIMCode tein_Sonstige tein_Textvorlage tein_Verordnung rsuchung rung rung_
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 
-ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_Anamese_Diverse ung_Frauen_Anamnese_Hormo nanwendung ung_Frauen_Anamnese_Hormo nanwendung_2020 ung_Frauen_Auftrag ung_Frauen_Auftrag_2020 ung_Frauen_Befund_Diverse ung_Frauen_Befund_Diverse_A b30 ung_Frauen_Gynaekologische_ Diagnose ung_Frauen_Gynaekologische_ Operation ung_Frauen_Zytologischer_Bef und ung_Frauen_Zytologischer_Bef und_2020 ung_Frauen_Zytologischer_Em pfehlung kenversicherungsverhaeltnis sfrueherkennung_Befund_Rektum_Kolon sfrueherkennung_Frauen sfrueherkennung_Frauen_2020 sfrueherkennung_Frauen_Anamese_Diverse sfrueherkennung_Frauen_Anamnese_Hormonanwendun sfrueherkennung_Frauen_Anamnese_Hormonanwendun g_2020 sfrueherkennung_Frauen_Auftrag sfrueherkennung_Frauen_Auftrag_2020 sfrueherkennung_Frauen_Befund_Diverse sfrueherkennung_Frauen_Befund_Diverse_Ab30 sfrueherkennung_Frauen_Gynaekologische_Diagnose sfrueherkennung_Frauen_Gynaekologische_Operation sfrueherkennung_Frauen_Zytologischer_Befund sfrueherkennung_Frauen_Zytologischer_Befund_2020 sfrueherkennung_Frauen_Zytologischer_Befund_Empfehl geplant zur nächsten Version
+ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_Anamese_Diverse ung_Frauen_Anamnese_Hormo nanwendung ung_Frauen_Anamnese_Hormo nanwendung_2020 ung_Frauen_Auftrag ung_Frauen_Auftrag_2020 ung_Frauen_Befund_Diverse ung_Frauen_Befund_Diverse_A b30 ung_Frauen_Gynaekologische_ Diagnose ung_Frauen_Gynaekologische_ Operation ung_Frauen_Zytologischer_Bef und ung_Frauen_Zytologischer_Bef und_2020 ung_Frauen_Zytologischer_Em pfehlung kenversicherungsverhaeltnis sfrueherkennung_Befund_Rektum_Kolon sfrueherkennung_Frauen sfrueherkennung_Frauen_2020 sfrueherkennung_Frauen_Anamese_Diverse sfrueherkennung_Frauen_Anamnese_Hormonanwendun sfrueherkennung_Frauen_Anamnese_Hormonanwendun g_2020 sfrueherkennung_Frauen_Auftrag sfrueherkennung_Frauen_Auftrag_2020 sfrueherkennung_Frauen_Befund_Diverse sfrueherkennung_Frauen_Befund_Diverse_Ab30 sfrueherkennung_Frauen_Gynaekologische_Diagnose sfrueherkennung_Frauen_Gynaekologische_Operation sfrueherkennung_Frauen_Zytologischer_Befund sfrueherkennung_Frauen_Zytologischer_Befund_2020 sfrueherkennung_Frauen_Zytologischer_Befund_Empfehl geplant zur nächsten Version Seite 14 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1231,7 +1256,8 @@ ungsverhaeltnis ung_Befund_Rektum_Kolon ung_Frauen ung_Frauen_2020 ung_Frauen_An
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 | KBV_PR_AW_Krebsfrueherkenn | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kreb | Optional |
 
-ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse_ und_Diverse_2020 2020 ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Bemerk und_Bemerkungen ungen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse und_Diverse ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Endozervikale_Z und_Endozervikale_Zellen ellen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Gruppe und_Gruppe ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_histologi und_histologische_Klaerung sche_Klaerung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Entzuend e_nach_Entzuendungsbehandlung ungsbehandlung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Freitext e_nach_Freitext ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Oestrogen e_nach_Oestrogenbehandlung behandlung ung_Frauen_HPV_HR_Impfung sfrueherkennung_Frauen_HPV_HR_Impfung_2020 _2020 ung_Frauen_HPV_HR_Testerge sfrueherkennung_Frauen_HPV_HR_Testergebnis_2020 bnis_2020 ung_Maenner sfrueherkennung_Maenner ung_Maenner_Anamnese_Dive sfrueherkennung_Maenner_Anamnese_Diverse rse
+ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse_ und_Diverse_2020 2020 ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Bemerk und_Bemerkungen ungen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse und_Diverse ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Endozervikale_Z und_Endozervikale_Zellen ellen ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Gruppe und_Gruppe ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_histologi und_histologische_Klaerung sche_Klaerung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Entzuend e_nach_Entzuendungsbehandlung ungsbehandlung ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Freitext e_nach_Freitext ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Kontroll und_Kontrolle_nach_Oestrogen e_nach_Oestrogenbehandlung behandlung ung_Frauen_HPV_HR_Impfung sfrueherkennung_Frauen_HPV_HR_Impfung_2020 _2020 ung_Frauen_HPV_HR_Testerge sfrueherkennung_Frauen_HPV_HR_Testergebnis_2020 bnis_2020 ung_Maenner sfrueherkennung_Maenner ung_Maenner_Anamnese_Dive sfrueherkennung_Maenner_Anamnese_Diverse rse Seite 15 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1356,7 +1382,8 @@ ung_Frauen_Zytologischer_Bef sfrueherkennung_Frauen_Zytologischer_Befund_Diverse
 | KBV_PR_AW_Kur_Kurgenehmig | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 | KBV_PR_AW_Kur_Kurverlaenge | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Kur_ | Optional |
 
-ung_Maenner_Auftrag ung_Maenner_Befund_Diverse rung _Heilmittel _Psychotherapie gung_Heilmittel gung_Psychotherapie tigter mnese chumfang nd druck ftumfang sfrueherkennung_Maenner_Auftrag sfrueherkennung_Maenner_Befund_Diverse Kurgenehmigung Kurverlaengerung ungsanfrage_Heilmittel ungsanfrage_Psychotherapie ungsgenehmigung_Heilmittel ungsgenehmigung_Psychotherapie allbenachrichtigter ervation_Anamnese ervation_Bauchumfang ervation_Befund ervation_Blutdruck ervation_Hueftumfang
+ung_Maenner_Auftrag ung_Maenner_Befund_Diverse rung _Heilmittel _Psychotherapie gung_Heilmittel gung_Psychotherapie tigter mnese chumfang nd druck ftumfang sfrueherkennung_Maenner_Auftrag sfrueherkennung_Maenner_Befund_Diverse Kurgenehmigung Kurverlaengerung ungsanfrage_Heilmittel ungsanfrage_Psychotherapie ungsgenehmigung_Heilmittel ungsgenehmigung_Psychotherapie allbenachrichtigter ervation_Anamnese ervation_Bauchumfang ervation_Befund ervation_Blutdruck ervation_HueftumfangSeite 16 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1481,7 +1508,8 @@ ung_Maenner_Auftrag ung_Maenner_Befund_Diverse rung _Heilmittel _Psychotherapie 
 | KBV_PR_AW_Organisation | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Org | Optional |
 | KBV_PR_AW_Patient | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Pati | 06.06.2021 |
 
-pertemperatur cherstatus wangerschaft fikat ndlung H-Einweisung itsunfaehigkeit eimittel ervation_Koerpertemperatur ervation_Raucherstatus ervation_Schwangerschaft entenverfuegung versuchszertifikat onaere_Behandlung erweisung_KH-Einweisung rdnung_Arbeitsunfaehigkeit rdnung_Arzneimittel
+pertemperatur cherstatus wangerschaft fikat ndlung H-Einweisung itsunfaehigkeit eimittel ervation_Koerpertemperatur ervation_Raucherstatus ervation_Schwangerschaft entenverfuegung versuchszertifikat onaere_Behandlung erweisung_KH-Einweisung rdnung_Arbeitsunfaehigkeit rdnung_ArzneimittelSeite 17 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1606,7 +1634,8 @@ pertemperatur cherstatus wangerschaft fikat ndlung H-Einweisung itsunfaehigkeit 
 | KBV_PR_AW_Report_Export | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Rep | 06.06.2021 |
 | KBV_PR_AW_Report_Import | https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Rep | 06.06.2021 |
 
-mittel mittel g_durch rdnung_Heilmittel rdnung_Hilfsmittel orgevollmacht terbehandlung_durch geplant zur nächsten Version
+mittel mittel g_durch rdnung_Heilmittel rdnung_Hilfsmittel orgevollmacht terbehandlung_durch geplant zur nächsten Version Seite 18 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1669,7 +1698,8 @@ mittel mittel g_durch rdnung_Heilmittel rdnung_Hilfsmittel orgevollmacht terbeha
 | KBV_EX_AW_Behandlungsbaustein_Contributor | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Behan |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Behan | KBV_EX_AW_Diagnose_istDauerdiagnose |
 
-ngsbegruendung tzinformation chungsdienst formationen Typ nen hnungen_spezielle_Abrechnungsbegruendung hnung_vertragsaerztlich_Zusatzinformation hnung_Kundennummer_Abrechungsdienst nung_Spezielle_Begegnungsinformationen dlungsbaustein_Verordnung_Typ esuch_Entfernungsinformationen
+ngsbegruendung tzinformation chungsdienst formationen Typ nen hnungen_spezielle_Abrechnungsbegruendung hnung_vertragsaerztlich_Zusatzinformation hnung_Kundennummer_Abrechungsdienst nung_Spezielle_Begegnungsinformationen dlungsbaustein_Verordnung_Typ esuch_EntfernungsinformationenSeite 19 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1730,7 +1760,8 @@ ngsbegruendung tzinformation chungsdienst formationen Typ nen hnungen_spezielle_
 | KBV_EX_AW_Patient_Vsdm_Zusatzinformationen | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Patien |
 | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Patien | KBV_EX_AW_Privatabrechnung_Kontoverbindung |
 
-smittel_med_fachliche_Betreuung smittel_med_technische_Ausstattung smittel_Start_Zielort egruednung tzinformation_2020 enger enbefoederung_Befoerderungsmittel_med_fachliche_Betr euung enbefoederung_Befoerderungsmittel_med_technische_Au sstattung enbefoederung_Befoerderungsmittel_Start_Zielort enbefoederung_Ort_Zusatzinformation enbefoerderung_Performer_Begruednung enbefoerderung_ReasonCode_Zusatz rueherkennung_Auftrag_Zusatzinformation rueherkennung_Auftrag_Zusatzinformation_2020 abrechnung_Rechnungsempfaenger abrechnung_Zusatzinformationen
+smittel_med_fachliche_Betreuung smittel_med_technische_Ausstattung smittel_Start_Zielort egruednung tzinformation_2020 enger enbefoederung_Befoerderungsmittel_med_fachliche_Betr euung enbefoederung_Befoerderungsmittel_med_technische_Au sstattung enbefoederung_Befoerderungsmittel_Start_Zielort enbefoederung_Ort_Zusatzinformation enbefoerderung_Performer_Begruednung enbefoerderung_ReasonCode_Zusatz rueherkennung_Auftrag_Zusatzinformation rueherkennung_Auftrag_Zusatzinformation_2020 abrechnung_Rechnungsempfaenger abrechnung_ZusatzinformationenSeite 20 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1791,7 +1822,8 @@ smittel_med_fachliche_Betreuung smittel_med_technische_Ausstattung smittel_Start
 | KBV_EX_AW_SKT_Zusatzangabe | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_SKT_Z |
 | KBV_EX_AW_Termin_Terminserie | https://fhir.kbv.de/StructureDefinition/KBV_EX_AW_Termi |
 
-bis Einweisung_Operation smittel_Optionen_42019 Operation_Operationsdatum ststellungsdatum weisung_KH-Einweisung_AU-bis weisung_KH-Einweisung_Operation enbefoederung_Befoerderungsmittel_Optionen_42019 enbefoerderung_Ambulante_Operation_Operationsdatum dnung_Arbeitsunfaehigkeit_Feststellungsdatum
+bis Einweisung_Operation smittel_Optionen_42019 Operation_Operationsdatum ststellungsdatum weisung_KH-Einweisung_AU-bis weisung_KH-Einweisung_Operation enbefoederung_Befoerderungsmittel_Optionen_42019 enbefoerderung_Ambulante_Operation_Operationsdatum dnung_Arbeitsunfaehigkeit_FeststellungsdatumSeite 21 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1860,7 +1892,8 @@ bis Einweisung_Operation smittel_Optionen_42019 Operation_Operationsdatum ststel
 |  | https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Diagnoseart |
 |  | https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Diagnosekategorie |
 
-KBV-CODESYSTEMS Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeuten nung_Typ Abrechnungsbereich erungsmittel_Von_Nach derungsmitteltyp steine ordnung_Typ Abrechnungsbereich erderungsmittel_Von_Nach oerderungsmitteltyp
+KBV-CODESYSTEMS Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeuten nung_Typ Abrechnungsbereich erungsmittel_Von_Nach derungsmitteltyp steine ordnung_Typ Abrechnungsbereich erderungsmittel_Von_Nach oerderungsmitteltypSeite 22 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1929,7 +1962,8 @@ KBV-CODESYSTEMS Die CodeSystems definieren, welche Codes festgelegt wurden und w
 | Leistungsart |  |
 | https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Leistungsart | Psychotherapie_Behandlungs |
 
-uptleistung yp.xml _Rektum_Kolon und_Rektum_Kolon _Anamnese_Diverse uen_Anamnese_Diverse _Anamnese_Hormonanwend uen_Anamnese_Hormonanwendung eiche bereiche _Befund_Diverse uen_Befund_Diverse _Befund_Diverse_Ab30 uen_Befund_Diverse_Ab30 _Schwangerschaft_Componen uen_Schwangerschaft_Component _Zytologischer_Befund uen_Zytologischer_Befund _HPV_HR_Impfung uen_HPV_HR_Impfung _HPV_HR uen_HPV_HR Frauen_Befund_Diverse _Alterskategorie uen_Auftrag_Alterskategorie er_Anamnese_Diverse enner_Anamnese_Diverse er_Befund_Diverse enner_Befund_Diverse ug bezug
+uptleistung yp.xml _Rektum_Kolon und_Rektum_Kolon _Anamnese_Diverse uen_Anamnese_Diverse _Anamnese_Hormonanwend uen_Anamnese_Hormonanwendung eiche bereiche _Befund_Diverse uen_Befund_Diverse _Befund_Diverse_Ab30 uen_Befund_Diverse_Ab30 _Schwangerschaft_Componen uen_Schwangerschaft_Component _Zytologischer_Befund uen_Zytologischer_Befund _HPV_HR_Impfung uen_HPV_HR_Impfung _HPV_HR uen_HPV_HR Frauen_Befund_Diverse _Alterskategorie uen_Auftrag_Alterskategorie er_Anamnese_Diverse enner_Anamnese_Diverse er_Befund_Diverse enner_Befund_Diverse ug bezugSeite 23 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -1998,7 +2032,8 @@ uptleistung yp.xml _Rektum_Kolon und_Rektum_Kolon _Anamnese_Diverse uen_Anamnese
 |  |  |
 | TSVG-Vermittlungsart | https://fhir.kbv.de/CodeSystem/KBV_CS_AW_TSVG_Vermittlungsart |
 
-UU Zertifikat Einweisung_Kategorien Einweisung_Typ eit_AU-Art dnungsart rie_42019 eiche D_UU Zertifikat Einweisung_Kategorien Einweisung_Typ higkeit_AU-Art rordnungsart egorie_42019 bereiche
+UU Zertifikat Einweisung_Kategorien Einweisung_Typ eit_AU-Art dnungsart rie_42019 eiche D_UU Zertifikat Einweisung_Kategorien Einweisung_Typ higkeit_AU-Art rordnungsart egorie_42019 bereicheSeite 24 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2053,7 +2088,8 @@ UU Zertifikat Einweisung_Kategorien Einweisung_Typ eit_AU-Art dnungsart rie_4201
 |  | Krebsfrueherkennung_Befund_Rektum_ |
 |  | Krebsfrueherkennung_Frauen_Anamnes |
 
-KBV-VALUESETS ValueSets beinhalten einen Satz von Codes aus einem CodeSystem, um anzugeben, welche Codes in einem bestimmten Kontext verwendet werden können. Kolon e_Diverse Diverse Diverse_Ab30 cher_Befund cher_Befund_Diverse cher_Befund_Empfehlung_2020 Impfung Alterskategorie cher_Befund_Diverse_2020 ese_Diverse _Diverse g_Befoerderungsmittel_Von_Nach ng_Befoerderungsmitteltyp ng_Befund_Rektum_Kolon ng_Frauen_Anamnese_Diverse ng_Frauen_Befund_Diverse ng_Frauen_Befund_Diverse_Ab30 ng_Frauen_Zytologischer_Befund ng_Frauen_Zytologischer_Befund_Diverse ng_Frauen_Zytologischer_Befund_Empfehlung_2020 ng_Frauen_HPV_HR_Impfung ng_Frauen_Auftrag_Alterskategorie ng_Frauen_Zytologischer_Befund_Diverse_2020 ng_Maenner_Anamnese_Diverse ng_Maenner_Befund_Diverse
+KBV-VALUESETS ValueSets beinhalten einen Satz von Codes aus einem CodeSystem, um anzugeben, welche Codes in einem bestimmten Kontext verwendet werden können. Kolon e_Diverse Diverse Diverse_Ab30 cher_Befund cher_Befund_Diverse cher_Befund_Empfehlung_2020 Impfung Alterskategorie cher_Befund_Diverse_2020 ese_Diverse _Diverse g_Befoerderungsmittel_Von_Nach ng_Befoerderungsmitteltyp ng_Befund_Rektum_Kolon ng_Frauen_Anamnese_Diverse ng_Frauen_Befund_Diverse ng_Frauen_Befund_Diverse_Ab30 ng_Frauen_Zytologischer_Befund ng_Frauen_Zytologischer_Befund_Diverse ng_Frauen_Zytologischer_Befund_Empfehlung_2020 ng_Frauen_HPV_HR_Impfung ng_Frauen_Auftrag_Alterskategorie ng_Frauen_Zytologischer_Befund_Diverse_2020 ng_Maenner_Anamnese_Diverse ng_Maenner_Befund_DiverseSeite 25 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2108,7 +2144,10 @@ KBV-VALUESETS ValueSets beinhalten einen Satz von Codes aus einem CodeSystem, um
 | Ringversuchzertifikat_RV-Zertifikat | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Ringversuchzertifik |
 | Auftragsarten | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Ueberweisung_Auft |
 
-sunfaehigkeit_AU-Art in_Verordnung_Typ
+Seite 26 von 41 / KBV / Festlegung der Archiv-
+
+sunfaehigkeit_AU-Art in_Verordnung_Typund WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2163,6 +2202,8 @@ sunfaehigkeit_AU-Art in_Verordnung_Typ
 | Patient_VSDM_Gender | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Patient_VSDM_Gen |
 | Report_Export_Purpose | https://fhir.kbv.de/ValueSet/KBV_VS_AW_Report_Export_Pur |
 
+Seite 27 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2184,6 +2225,9 @@ Die NamingSystems definieren konkrete Namensräume für die Elemente.
 
 Tabelle 5 FHIR®-NamingSystems der PVS-Archivierungs- und Wechselschnittstelle
 
+Seite 28 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 ## 3.10  KBV-BUNDLE
@@ -2204,8 +2248,9 @@ Tabelle 6 FHIR®-Bundles Datenbereiche der PVS-Archivierungs- und Wechselschnitt
 
 Ein Überblick der Zuordnung zwischen den FHIR®-Bundles und den darin enthaltenen KBV-FHIR®-Profilen  kann [KBV_ITA_VGEX_FHIR-Uebersicht-Bundle-Datenbereiche_AW_SST] entnommen werden.
 
-ngsbaustein undenbedarf tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf zum Kapitel ustein Kapitel (siehe Kapitel Kapitel edarf (siehe Kapitel 
+Seite 29 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
+ngsbaustein undenbedarf tureDefinition/KBV_PR_ AW_Bundle_Adressbuch tureDefinition/KBV_PR_ AW_Bundle_Behandlung sbaustein tureDefinition/KBV_PR_ AW_Bundle_Patientena tureDefinition/KBV_PR_ tureDefinition/KBV_PR_ AW_Bundle_Sprechstun denbedarf zum Kapitel ustein Kapitel (siehe Kapitel Kapitel edarf (siehe Kapitel
 
 ---
 
@@ -2228,6 +2273,9 @@ Jede Instanz einer FHIR®-Ressource enthält ein Element <id> deren Attribut „
 
 Die KBV empfiehlt das Element <Ressourcentyp.id> mit einem Universally Unique Identifier (UUID) zu  belegen.
 
+Seite 30 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 ## 4.2 ORDNERSTRUKTUR
@@ -2247,6 +2295,9 @@ Die Bezeichnung des Root-Elements setzt sich zusammen aus „Datum_Uhrzeit_Daten
 
 \| **Beispiel **    Vollständiger Export der Archiv und Wechselschnittstelle am 01.08.2018 um 12:00:59 |
 \|---|
+
+Seite 31 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2268,6 +2319,9 @@ Die Anlagen bzw. Dokumente, die in der Hoheit des PVS liegen, müssen fachlich g
 Alle externen Anlagen, die außerhalb der Hoheit des Praxisverwaltungssystems liegen, werden über die  Referenz der Ressource „Anlage“ verknüpft.
 
 Die Anlagen werden in fachlich getrennten Unterordnern abgelegt. Die Struktur der Unterordner folgt den  FHIR®-Ressourcen.
+
+Seite 32 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2294,6 +2348,8 @@ Der Dateiname einer Bundle-Datei setzt sich zusammen aus „Name_Vorname_ID_Schn
 - Vorname - Vorname des Patienten (Default falls nicht vorhanden: Vorname)
 - ID - Eindeutiger Identifier der Ressource (aus dem Element id)
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
+
+Seite 33 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
 
 
 ---
@@ -2324,11 +2380,17 @@ Der Dateiname dieser Bundle-Datei setzt sich zusammen aus „Sprechstundenbedarf
 - Uhrzeit - Uhrzeit Beginn der Erstellung im Format HHMMSS
 - Schnittstelle - AW (steht für Archiv- und Wechselschnittstelle und ist ein fester Wert)
 
+Seite 34 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 ### 4.2.8 System
 
 Im Ordner _System sollen zusätzliche bzw. erweiterte FHIR-Codesysteme sowie die Report-Dateien in der  vorgegebenen Ordnerstruktur abgelegt werden.
+
+Seite 35 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2377,6 +2439,9 @@ Der Anwender kann beim Export entscheiden, ob er alle Behandlungsbausteine expor
 
 Als Ergebnis eines Behandlungsbausteinexports liegen die Dateien gemäß Kapitel 4.2.4 vor.
 
+Seite 36 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 ### 4.3.5 Patientenakten
@@ -2393,6 +2458,9 @@ Der Anwender kann beim Export entscheiden, ob er alle Patientenakten zu allen Pa
 Wahlweise können die Termine der Patienten gemäß Kapitel 4.3.2 mit übertragen werden.
 
 Der Sprechstundenbedarf ist, sofern vorhanden, zu exportieren.
+
+Seite 37 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
 
 ---
 
@@ -2422,6 +2490,9 @@ Nach dem erfolgreichen Export muss ein PDF-Dokument als Report direkt unter dem 
 
 Bei einem fehlerhaften Export sind alle erzeugten Dateien und Verzeichnisse zu löschen. Der Nutzer ist  entsprechend unter Angabe der Fehlerursache darüber zu informieren. Die Reportdatei darf in diesem Fall  nicht erzeugt werden.
 
+Seite 38 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 ## 4.5 IMPORT DER DATEN
@@ -2450,6 +2521,9 @@ Es werden keine gesonderten Anforderungen an die Aufbewahrung der Dateien gestel
 
 Die exportierten Dateien der Archivierungs- und Wechselschnittstelle müssen entsprechend den geltenden  Datenschutzmaßnahmen für die Praxis [Hinweise_DV_Arztpraxis] mittels organisatorischer Maßnahmen  außerhalb vom PVS aufbewahrt werden.
 
+Seite 39 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 # 5. UMSETZUNG DER SYSTEMEIGENEN SCHNITTSTELLE
@@ -2474,6 +2548,9 @@ Die Integration der Schnittstelle muss spätestens zum 06.06.2021 erfolgt sein.
 
 Die Schnittstellenfestlegung tritt am Tag nach der Veröffentlichung in Kraft. Sie ersetzt alle vorherigen  Versionen.
 
+Seite 40 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020
+
+
 ---
 
 8. REFERENZIERTE DOKUMENTE
@@ -2486,4 +2563,4 @@ Die Schnittstellenfestlegung tritt am Tag nach der Veröffentlichung in Kraft. S
 | Hinweise_DV_Arztpraxis | Hinweise und Empfehlungen zur ärztlichen Schweigepflicht, Datenschutz    http://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/p |
 | KBV_ITA_VGEX_FHIR- | Abbildung der Zuordnung zwischen FHIR®-Bundles und zugehörigen KBV- 4.3.    ftp://ftp.kbv.de/ita-update/371-Schnittstellen/PVS-Archivierungs-Wechsel- |
 
-tionsmodell_AW_SST Schnittstelle/ Informationsmodell_AW _SST mit FHIR®-Profilen Schnittstelle/ und Datenverarbeitung in der Arztpraxis: df- Ordner/Recht/Hinweise_und_Empfehlungen_aerztliche_Schweigepflicht_D atenschutz_Datenverarbeitung_09.03.2018.pdf Uebersicht-Bundle- Datenbereiche_AW_SST FHIR®-Profilen zur Abbildung der Datenbereiche gemäß Kapitel Schnittstelle/
+tionsmodell_AW_SST Schnittstelle/ Informationsmodell_AW _SST mit FHIR®-Profilen Schnittstelle/ und Datenverarbeitung in der Arztpraxis: df- Ordner/Recht/Hinweise_und_Empfehlungen_aerztliche_Schweigepflicht_D atenschutz_Datenverarbeitung_09.03.2018.pdf Uebersicht-Bundle- Datenbereiche_AW_SST FHIR®-Profilen zur Abbildung der Datenbereiche gemäß Kapitel Schnittstelle/Seite 41 von 41 / KBV / Festlegung der Archiv- und WechselSchnittstelle nach § 371 Abs. 1 SGB V / Version: 1.2.0 / 8. Dezember 2020

@@ -12,9 +12,12 @@
 |  | Version |
 |  |  |
 
-1.01 Datum:  21.01.2015 Kennzeichnung:  Öffentlich  Status:    In Kraft
+1.01 Datum:  21.01.2015 Kennzeichnung:  Öffentlich  Status:    In Kraft© KBV Kassenärztliche Bundesvereinigung, Berlin 2018
+
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
 
 ### DOKUMENTENHISTORIE
 
@@ -23,7 +26,10 @@
 | 1.01 | 21.01.2015 | KBV | Redaktionelle Korrekturen | Überarbeitung der |  |
 | 1.00 | 10.11.2014 | KBV | Initiales Dokument |  |  |
 
-Ausfüllhinweise
+KBV_ITA_AHEX_Ausfuellhinweise_QSKE * Version:  1.01
+
+Ausfüllhinweise Seite 2 von 7
+
 
 ---
 
@@ -39,6 +45,13 @@ Ausfüllhinweise
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 7**
 
+**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
+
+KBV_ITA_AHEX_Ausfuellhinweise_QSKE * Version:  1.01
+
+Seite 3 von 7
+
+
 ---
 
 # 1 Präambel
@@ -46,6 +59,12 @@ Ausfüllhinweise
 Im Rahmen der Qualitätssicherungsvereinbarung Kapselendoskopie (QSKE) [1] wird eine  arztbezogene Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
 Der § 8 Abs. 1 der Vereinbarung [1] gibt vor, welche Angaben für die Statistik erforderlich  sind. Nachfolgend erhalten Sie Erläuterungen zu den einzelnen Eingabedaten, welche für die  Dokumentation dem Anwender zur Verfügung gestellt werden dürfen.
+
+**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
+
+KBV_ITA_AHEX_Ausfuellhinweise_QSKE * Version:  1.01
+
+Seite 4 von 7
 
 
 ---
@@ -75,7 +94,12 @@ Der § 8 Abs. 1 der Vereinbarung [1] gibt vor, welche Angaben für die Statistik
 | In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appliziert haben, aber | |
 | Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierten und | 1.b |
 
-Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbarkeit oder Unvollständigkeit nochmals notwendig ist.  keine  Wiederholungs-, sondern eine Erstuntersuchung. diese von einem anderen Arzt ausgewertet wurden, müssen Sie als Applizierer die Befunddaten dieser Untersuchungen in ihre Statistik übernehmen. abgerechneten Kapselendoskopien. blutungsfördernden Medikation zu dokumentieren. Auswertungen sie beauftragt haben.  Arzt übermitteln und dürfen hier die Anzahl der an sie beauftragten Auswertungen nicht  eintragen. beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren. jeweiligen Auswerter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren.
+**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
+
+**KBV_ITA_AHEX_Ausfuellhinweise**_QSKE * Version:  1.01
+
+Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbarkeit oder Unvollständigkeit nochmals notwendig ist.  keine  Wiederholungs-, sondern eine Erstuntersuchung. diese von einem anderen Arzt ausgewertet wurden, müssen Sie als Applizierer die Befunddaten dieser Untersuchungen in ihre Statistik übernehmen. abgerechneten Kapselendoskopien. blutungsfördernden Medikation zu dokumentieren. Auswertungen sie beauftragt haben.  Arzt übermitteln und dürfen hier die Anzahl der an sie beauftragten Auswertungen nicht  eintragen. beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren. jeweiligen Auswerter anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des beauftragten Auswerters, in der Jahresstatistik dokumentieren.  Seite 5 von 7
+
 
 ---
 
@@ -102,9 +126,16 @@ Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbark
 | 6.b.IV | |
 | 7 | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom jeweiligen  Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen  Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw. |
 
-anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Auswerter anzugeben.  eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Vollständigkeit (6.b) der Untersuchungen ergeben. Eine empfohlene Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungsuntersuchung.
+**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
+
+**KBV_ITA_AHEX_Ausfuellhinweise**_QSKE * Version:  1.01
+
+anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Auswerter anzugeben.  eigenen Auswertungen, oder falls diese beauftragt worden waren, durch Übernahme der Angaben des Auswerters, in der Jahresstatistik zu dokumentieren. Vollständigkeit (6.b) der Untersuchungen ergeben. Eine empfohlene Untersuchung im Rahmen einer Verlaufskontrolle ist keine Wiederholungsuntersuchung. Seite 6 von 7
+
 
 ---
+
+**IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
 
 # 3 Referenzierte Dokumente
 
@@ -113,3 +144,7 @@ anzugeben.  beauftragt worden waren, durch Übernahme der Angaben des Auswerters
 | [1] | Qualitätssicherungsvereinbarung  Kapselendoskopie |
 | [KBV_ITA_VGEX_Anforderungskatalog_QSKE] | Anforderungskatalog |
 | [KBV_ITA_VGEX_Plausi_QSKE] | Berechnungsvorschriften zur Jahresstatistik für |
+
+KBV_ITA_AHEX_Ausfuellhinweise_QSKE * Version:  1.01
+
+Seite 7 von 7

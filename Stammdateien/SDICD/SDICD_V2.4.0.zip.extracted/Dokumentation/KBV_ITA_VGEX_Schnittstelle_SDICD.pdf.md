@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_]SDICD
 
+Seite 1 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -108,6 +110,9 @@ icd_stammdaten 13 kapitel_liste
 
 30 krankheit_in_mitteleuropa_sehr_selten 31
 
+Seite 2 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-
+
+Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -122,6 +127,8 @@ schlüsselnummer_mit_inhalt_belegt
 **7** **REFERENZIERTE DOKUMENTE**
 
 **34**
+
+Seite 3 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -190,6 +197,8 @@ ABBILDUNG 28: INFEKTIONSSCHUTZGESETZ_MELDEPFLICHT ..............................
 ABBILDUNG 29: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT ................................................................ 33
 
 ABBILDUNG 30: KEINE_DAUERDIAGNOSE ........................................................................................................................ 33
+
+Seite 4 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -289,6 +298,7 @@ FORMEL 24: XML-CODE: ALTERSBEZUG_FEHLERART .....................................
 
 FORMEL 25: XML-CODE: KRANKHEIT_IN_MITTELEUROPA_SEHR_SELTEN ...................................................................... 31
 
+Seite 5 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -300,6 +310,8 @@ FORMEL 28: XML-CODE: INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEIT ............
 
 FORMEL 29: XML-CODE: KEINE_DAUERDIAGNOSE .......................................................................................................... 33
 
+Seite 6 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 ---
 
 1 DOKUMENTENHISTORIE
@@ -310,7 +322,11 @@ FORMEL 29: XML-CODE: KEINE_DAUERDIAGNOSE .......................................
 | 2.4.0 | 14.04.2021 | KBV | Komplett Überarbeitung    Aufnahme der neuen Elemente:   <keine_dauerdiagnose>  <verschluesselungsanleitung_liste>  <verschluesselungsanleitung_ref>    Die nicht verwendeten Elemente | Neues CD und Anpassungen | **Alle **    **19, 20,  24, 25,  33, 33** |
 | 2.3.0 | 26.07.2016 | KBV | Korrektur der Abbildung 11 Korrektur Kapitel 5.1 und 5.15 | Entfernung der optionalen  Einführung einer angleichen- | **18  13, 20** |
 
-Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen #
+#
+
+Seite 7 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokumentation und dem Schema gestrichen. <diagnosethesaurus_liste> unterhalb des <icd- stammdaten> Elements  den Nummerierung der Paket- , Dokument- und Schemaversionen 
 
 
 ---
@@ -329,7 +345,10 @@ Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokum
 | 2 Die vorliegende Schnittstellenbeschreibung definiert das Format der ICD-10-GM Stammdatei der KBV im | |
 |  | |
 
-EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  3 KONVENTIONEN ZEICHENSATZ Standard-Zeichensatz ist ISO-8859-15. NAMENSPACE Standard-Namespace ist urn:ehd/icd/001 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt icd_root.xsd Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Lieferungen erfolgen
+Seite 8 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  3 KONVENTIONEN ZEICHENSATZ Standard-Zeichensatz ist ISO-8859-15. NAMENSPACE Standard-Namespace ist urn:ehd/icd/001 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt icd_root.xsd Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Lieferungen erfolgen 
+
 
 ---
 
@@ -347,7 +366,10 @@ EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtli
 | **BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS** | |
 | verwendet werden | |
 
-Tabelle 1: Beschreibung der Bestandteile des Dateinamens Beispiel: ICD_01.00_74_tf+2013_nr+1.xml
+Seite 9 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+Tabelle 1: Beschreibung der Bestandteile des Dateinamens Beispiel: ICD_01.00_74_tf+2013_nr+1.xml  
+
 
 ---
 
@@ -380,6 +402,8 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 Tabelle 3: Beschreibung der Strukturelement-Symbole
 
+Seite 10 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 dargestellt. Es kann kein oder einmal vorkommen. genau einmal vorkommen. durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. 
 
 
@@ -398,6 +422,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 Tabelle 4: Beschreibung sonstiger Symbole
+
+Seite 11 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
 
@@ -435,6 +461,8 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
+Seite 12 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 xmlns="urn:ehd/sdda/001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ehd_version="..."> 
 
 
@@ -471,6 +499,8 @@ Das Element <kapitel_liste> umschließt eine Liste von <kapitel> Elementen.
 
 Abbildung 3: kapitel_liste
 
+Seite 13 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 ---
 
 Der Coderahmen für das <icd_stammdaten>-Element sieht wie folgt aus.
@@ -493,6 +523,7 @@ Der XML-Code für ein <kapitel> Element hat folgenden Aufbau:
 
 Formel 4: XML-Code: kapitel
 
+Seite 14 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -521,6 +552,8 @@ Der XML-Code für ein <von_icd_code> Element hat folgenden Aufbau:
 \|---|
 
 Formel 6: XML-Code: von_icd_code
+
+Seite 15 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -554,6 +587,7 @@ Der XML-Code für ein <gruppen_liste> Element hat folgenden Aufbau:
 
 Formel 8: XML-Code: gruppen_liste
 
+Seite 16 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -582,6 +616,8 @@ vgl. Abschnitt 6.6
 
 vgl. Abschnitt 6.21
 
+Seite 17 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 ---
 
 ## DIAGNOSEN_LISTE
@@ -603,11 +639,15 @@ Das Element <diagnose> bildet die vorletzte Hierarchieebene der ICD Kodierungssy
 
 Abbildung 11 zeigt den prinzipiellen Aufbau des Elements <diagnose>. Weiterhin beinhaltet das Element  <diagnose> die in Abbildung 12 abgebildeten optionalen Elemente.
 
+Seite 18 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
 Abbildung 11: diagnose prinzipieller Aufbau
 
+Seite 19 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD
+
+-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -615,7 +655,10 @@ Abbildung 11: diagnose prinzipieller Aufbau
 \|---|
 \| Abbildung 12: diagnose optionale Elemente          Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,    **<diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/>** |
 
--’ mit Beispielen für zwei dort untergeordnete Kodierungen verwendet):
+Seite 20 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+-’ mit Beispielen für zwei dort untergeordnete Kodierungen verwendet): 
+
 
 ---
 
@@ -639,7 +682,10 @@ Abbildung 13: diagnosethesaurus_liste
 
 Der XML-Code für ein <diagnosethesaurus_liste> Element hat folgenden Aufbau:
 
-DIAGNOSETHESAURUS_LISTE
+Seite 21 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+DIAGNOSETHESAURUS_LISTE 
+
 
 ---
 
@@ -668,7 +714,10 @@ Das Element <arztgruppen_liste> umschließt eine Liste von <arztgruppe> Elemente
 
 Abbildung 15: arztgruppen_liste
 
+Seite 22 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 diagnosethesaurus_liste
+
 
 ---
 
@@ -691,6 +740,8 @@ Der XML-Code für ein <arztgruppe> Element hat folgenden Aufbau:
 \|---|
 
 Formel 15: XML-Code: arztgruppe
+
+Seite 23 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -727,7 +778,11 @@ Formel 16: XML-Code: verschluesselungsanleitung _liste
 
 ### verschluesselungsanleitung_ref
 
-V="..." DN="..." Das Element <verschluesselungsanleitung_ref> enthält eine Referenz auf einen Eintrag in der  Verschlüsselungsanleitung-Stammdatei.
+Das Element <verschluesselungsanleitung_ref> enthält eine Referenz auf einen Eintrag in der  Verschlüsselungsanleitung-Stammdatei.
+
+Seite 24 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+V="..." DN="..." 
 
 
 ---
@@ -763,6 +818,7 @@ Das Element <bezeichnung> befindet sich auf der untersten Hierarchieebene der IC
 
 Abbildung 20: bezeichnung
 
+Seite 25 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 ---
 
@@ -795,8 +851,11 @@ Tabelle 7: Ausprägungen der Attribute des Elements <abrechenbar>
 
 Das optionale Element <notationskennzeichen> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält das Notationskennzeichen * (Stern) oder + (Kreuz) oder !  (Ausrufezeichen).
 
-<abrechenbar V="..." DN="..."/> Formel 20: XML-Code: abrechenbar ABRECHENBAR V="..." Bedeutung (optional **DN="..."**
+Seite 26 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
+**DN="..."**
+
+<abrechenbar V="..." DN="..."/> Formel 20: XML-Code: abrechenbar ABRECHENBAR V="..." Bedeutung (optional
 
 ---
 
@@ -834,6 +893,8 @@ Der XML-Code für ein <geschlechtsbezug> Element hat folgenden Aufbau:
 | **Wert (** | Bedeutung (optional |
 | w | weiblich |
 | Formel 22: XML-Code geschlechtsbezug |  |
+
+Seite 27 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 weiblich.
 
@@ -874,10 +935,15 @@ Tabelle 10: Ausprägungen der Attribute des Elements <geschlechtsbezug_fehlerart
 
 Das optionale Element <untere_altersgrenze> befindet sich auf der untersten Hierarchieebene der ICD  Kodierungssystematik und enthält die untere Altersgrenze, wenn die Diagnose altersspezifisch ist. Der  Inhalt des V-Attributs (**V="..."**) gibt einen Zahlenwert an, der Inhalt des U-Attributs ( bestimmt die Zeiteinheit (‚Jahr’ oder ‚Tag’). Falls die Zeiteinheit. Jahr’ ( das V-Attribut eine Altersangabe in Jahren. Nur wenn die untere Altersgrenze kleiner als ein Jahr ist, wird  die Zeiteinheit ‚Tag’ verwendet (**U=""Tag** ) und das V-Attribut enthält eine Altersangabe im Bereich von 0  bis 365 Tagen.
 
+Seite 28 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 **U=""Jahr** ) verwendet wird, enthält
 
-V="..." DN="..." **U="..."**
+```
+**U="..."**
+```
 
+V="..." DN="..."
 
 ---
 
@@ -904,7 +970,11 @@ Das optionale Element <obere_altersgrenze> befindet sich auf der untersten Hiera
 
 Abbildung 26: obere_altersgrenze
 
-U="..."Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
+Der XML-Code für ein <obere_altersgrenze> Element hat folgenden Aufbau:
+
+Seite 29 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+U="..."
 
 
 ---
@@ -943,7 +1013,10 @@ Formel 26: XML-Code: altersbezug_fehlerart
 
 Tabelle 13: Ausprägungen der Attribute des Elements <altersbezug_fehlerart>
 
-U="..." V="..." DN="..."
+Seite 30 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+U="..." V="..." DN="..." 
+
 
 ---
 
@@ -981,7 +1054,10 @@ Der XML-Code für ein <schlüsselnummer_mit_inhalt_belegt> Element hat folgenden
 
 Formel 28: XML-Code: schlüsselnummer_mit_inhalt_belegt
 
-V="..." DN="..."
+Seite 31 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
+V="..." DN="..." 
+
 
 ---
 
@@ -1017,6 +1093,8 @@ Tabelle 16: Ausprägungen der Attribute des Elements <infektionsschutzgesetz_mel
 ## INFEKTIONSSCHUTZGESETZ_ABRECHNUNGSBESONDERHEITEN
 
 Das optionale Element <infektionsschutzgesetz_abrechnungsbesonderheit> befindet sich auf der untersten  Hierarchieebene der ICD Kodierungssystematik und kennzeichnet, ob die EBM-Kennnummer bei  Meldepflicht nach dem Infektionsschutzgesetz angegeben werden kann. Wenn ja, kann EBM-Kennnummer  32006 angegeben werden.
+
+Seite 32 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
 V="..." DN="..." V="..." DN="..."
 
@@ -1060,6 +1138,8 @@ Formel 31: XML-Code: keine_dauerdiagnose
 
 Tabelle 18: keine_dauerdiagnose
 
+Seite 33 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
+
 V="..." DN="..." "/> V="..." DN="..."
 
 ---
@@ -1078,3 +1158,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 34 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021

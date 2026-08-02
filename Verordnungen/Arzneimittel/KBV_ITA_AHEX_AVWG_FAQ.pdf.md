@@ -12,6 +12,11 @@
 
 ## KBV_ITA_AHEX_AVWG_FAQ
 
+Seite 1 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Version: 5.13 / 13. Mai 2026
+
+
 ---
 
 ## INHALT
@@ -28,6 +33,10 @@
 
 **39**
 
+Seite 2 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -41,6 +50,8 @@ DOKUMENTENHISTORIE
 | 5.10 | 05.03.2025 | KBV | Bereitstellungszeitpunkt    Fragestellung zu P3-320    Fragestellung zu P3-141 | Sachverhalt in der | **7**     **33** |
 | 5.9 | 27.02.2025 | KBV | Klarstellung des |  | **6** |
 | 5.8 | 15.05.2024 | KBV | Klarstellung zu P3-625 |  | **23, 31** |
+
+Seite 3 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 Zusammenhang mit Hilfsmitteln Preisen bei Verbandmittel aufgenommen Akzeptanzkriterium 1.3 aktualisiert der Referenzdatenbank des BfArMs gestrichen aktualisiert Sachverhaltes zur Verordnung von sonstigen Produkten zur Wundbehandlung und P3-730 aufgenommen Sachverhaltes im Zusammenhang mit BTM Verordnung Anforderung geregelt
 
@@ -157,7 +168,10 @@ Zusammenhang mit Hilfsmitteln Preisen bei Verbandmittel aufgenommen Akzeptanzkri
 |  |  |  |
 | **ANTWORT** | Allgemein | Müssen Vertragsärztinnen und  Ja, ab der Einführung des eRezepts ist die Verwendung einer durch die KBV zertifizierten |
 
-FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR VERORDNUNGSSOFTWARE Vertragsärzte für die Verordnung von Arzneimitteln zertifizierte Software verwenden? Verordnungssoftware für alle an der vertragsärztlichen Versorgung teilnehmende Ärztinnen und Ärzte sowie Einrichtungen, die Arzneimittel zu Lasten der GKV verordnen, obligatorisch. Eine „manuelle“ Befüllung einer Arzneimittelverordnung mit der „Schreibfunktion“ des Computers ist grundsätzlich nicht mehr möglich. Die Ziffer 4 -16A der Anlage 2b der Bundesmantelverträge-Ärzte (BMV-Ä), welche die elektronische Arzneimittelverordnung vorsieht, ist insoweit verbindlich. rechtliche Prüfung hat ergeben, dass der Gesetzgeber allerdings davon ausgegangen ist, dass alle an der vertragsärztlichen Versorgung teilnehmende Ärzte und Einrichtungen, die Arzneimittel zu Lasten der GKV verordnen, im Sinne der Wirtschaftlichkeit einen Preisvergleich durchführen müssen. Vor diesem Hintergrund spricht der Sinn und Zweck des § 73 Abs. 9 SGB V im Zusammenhang mit der Normenhistorie dafür, dass auch die von ermächtigten Ärztinnen und Ärzten sowie Einrichtungen eingesetzte Software, die im Ergebnis zur Abgabe eines Arzneimittels zu Lasten der GKV führen kann, zertifizierungspflichtig ist.  elektronische Verordnungen ausschließlich eine KBV-zertifizierte Verordnungssoftware zu nutzen. Ausnahmen sieht der § 73 Abs. 9 SGB V nicht vor. Zertifizierungspflicht besteht, da diese wiederum abhängig ist von der jeweiligen Versorgungsform der Einrichtung vor Ort (Handelt es sich um vertragsärztliche Versorgung ja oder nein?), welche die Software für Verordnungen nutzt.
+Seite 4 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR VERORDNUNGSSOFTWARE Vertragsärzte für die Verordnung von Arzneimitteln zertifizierte Software verwenden? Verordnungssoftware für alle an der vertragsärztlichen Versorgung teilnehmende Ärztinnen und Ärzte sowie Einrichtungen, die Arzneimittel zu Lasten der GKV verordnen, obligatorisch. Eine „manuelle“ Befüllung einer Arzneimittelverordnung mit der „Schreibfunktion“ des Computers ist grundsätzlich nicht mehr möglich. Die Ziffer 4 -16A der Anlage 2b der Bundesmantelverträge-Ärzte (BMV-Ä), welche die elektronische Arzneimittelverordnung vorsieht, ist insoweit verbindlich. rechtliche Prüfung hat ergeben, dass der Gesetzgeber allerdings davon ausgegangen ist, dass alle an der vertragsärztlichen Versorgung teilnehmende Ärzte und Einrichtungen, die Arzneimittel zu Lasten der GKV verordnen, im Sinne der Wirtschaftlichkeit einen Preisvergleich durchführen müssen. Vor diesem Hintergrund spricht der Sinn und Zweck des § 73 Abs. 9 SGB V im Zusammenhang mit der Normenhistorie dafür, dass auch die von ermächtigten Ärztinnen und Ärzten sowie Einrichtungen eingesetzte Software, die im Ergebnis zur Abgabe eines Arzneimittels zu Lasten der GKV führen kann, zertifizierungspflichtig ist.  elektronische Verordnungen ausschließlich eine KBV-zertifizierte Verordnungssoftware zu nutzen. Ausnahmen sieht der § 73 Abs. 9 SGB V nicht vor. Zertifizierungspflicht besteht, da diese wiederum abhängig ist von der jeweiligen Versorgungsform der Einrichtung vor Ort (Handelt es sich um vertragsärztliche Versorgung ja oder nein?), welche die Software für Verordnungen nutzt. Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -272,7 +286,10 @@ FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 SGB V FÜR VERORDNUNGSSO
 |  |  |  |
 | Allgemein | Müssen | Psychologischen Psychotherapeutinnen und Psychotherapeuten ist es nach den |
 
-psychologische gesetzlichen Grundlagen nicht gestattet, Arzneimittelverordnungen vorzunehmen. Sie sind  zertifizierte daher auch nicht verpflichtet , eine von der KBV zertifizierte Verordnungssoftware für Verordnungssoftware Arzneimittel einzusetzen. verwenden? Anforderungskatalog nur noch an die zur Verordnung genutzt werden  d. h. an die elektronischen Programme, die den Verordnungssoftware und nicht gesamten Verordnungsprozess sowie den Medikationsplan abbilden. Dabei ist es für den mehr explizit an Arzneimittel- Anforderungskatalog unerheblich, ob die Verordnungssoftware eine eigene interne Datenbanken? Arzneimitteldatenbank oder auf dem Markt verfügbare externe Arzneimitteldatenbank nutzt. Aus diesem Grund erfolgte die hier notwendige Klarstellung. KBV gemäß dem Anforderungskatalog nach § 73 SGB V zertifiziert und dieser die Anforderungen an Verordnungssoftware in Gänze beschreibt. alleinige Zertifizierung zu zertifizierende für das Zertifizierungsverfahren System eine bestehende Zertifizierung für die Verordnung von Arzneimittel (AMV) besitzt  unabhängig von der oder eine solche anstrebt. Grundsätzlich handelt es sich bei dem eRezept um eine Zertifizierung „Verordnung von Pflichtfunktionalität des AMV-Anforderungskatalogs, welche durch jede Arzneimittel“ möglich? Verordnungssoftware verbindlich umzusetzen ist. ausschließlich der eRezept-Funktionalitäten zu ermöglichen, ohne eine vollständige AMV- Zertifizierung einzufordern. eRezept-Funktionalität nur relevant, dass alle verpflichtenden Funktionalitäten des Anforderungskataloges und der Modul von Dritten  verwendet referenzierten Dokumente umgesetzt sind. Welche ggfs. separaten Systeme hierfür werden? eingesetzt werden, ist nicht maßgeblich. Das zertifizierte System trägt aber ggü. der KBV die Verantwortung, dass alle Funktionalität gemäß den Vorgaben umgesetzt werden.
+Seite 5 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+psychologische gesetzlichen Grundlagen nicht gestattet, Arzneimittelverordnungen vorzunehmen. Sie sind  zertifizierte daher auch nicht verpflichtet , eine von der KBV zertifizierte Verordnungssoftware für Verordnungssoftware Arzneimittel einzusetzen. verwenden? Anforderungskatalog nur noch an die zur Verordnung genutzt werden  d. h. an die elektronischen Programme, die den Verordnungssoftware und nicht gesamten Verordnungsprozess sowie den Medikationsplan abbilden. Dabei ist es für den mehr explizit an Arzneimittel- Anforderungskatalog unerheblich, ob die Verordnungssoftware eine eigene interne Datenbanken? Arzneimitteldatenbank oder auf dem Markt verfügbare externe Arzneimitteldatenbank nutzt. Aus diesem Grund erfolgte die hier notwendige Klarstellung. KBV gemäß dem Anforderungskatalog nach § 73 SGB V zertifiziert und dieser die Anforderungen an Verordnungssoftware in Gänze beschreibt. alleinige Zertifizierung zu zertifizierende für das Zertifizierungsverfahren System eine bestehende Zertifizierung für die Verordnung von Arzneimittel (AMV) besitzt  unabhängig von der oder eine solche anstrebt. Grundsätzlich handelt es sich bei dem eRezept um eine Zertifizierung „Verordnung von Pflichtfunktionalität des AMV-Anforderungskatalogs, welche durch jede Arzneimittel“ möglich? Verordnungssoftware verbindlich umzusetzen ist. ausschließlich der eRezept-Funktionalitäten zu ermöglichen, ohne eine vollständige AMV- Zertifizierung einzufordern. eRezept-Funktionalität nur relevant, dass alle verpflichtenden Funktionalitäten des Anforderungskataloges und der Modul von Dritten  verwendet referenzierten Dokumente umgesetzt sind. Welche ggfs. separaten Systeme hierfür werden? eingesetzt werden, ist nicht maßgeblich. Das zertifizierte System trägt aber ggü. der KBV die Verantwortung, dass alle Funktionalität gemäß den Vorgaben umgesetzt werden. Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -387,7 +404,10 @@ psychologische gesetzlichen Grundlagen nicht gestattet, Arzneimittelverordnungen
 |  |  |  |
 | › | gekennzeichnet und damit zulasten der gesetzlichen Krankenkassen auf Muster 16 | Sonstige Produkte zur Wundbehandlung, die nicht unter die Übergangsregelung des § 31  Absatz 1a Satz 5 SGB V fallen (Markteinführung nach dem 1. Dezember 2020): |
 
-P2-110 von sonstigen Produkten zur Wundbehandlung im Rahmen der Übergangsregelung nach § 31 Abs.1a Satz 5 SGB 1a Satz 5 SGB V fallen (Markteinführung vor dem 1. Dezember 2020), können mit dem Inkrafttreten des Gesundheitsversorgungsstärkungsgesetzes (GVSG) bis zum vorgesehenen Fristablauf am 1. Dezember 2025 weiterhin zu Lasten der gesetzlichen Krankenversicherung verordnet werden.  genannte Übergangsregelung fallen (Markteinführung nach dem 1. Dezember 2020) haben sich GKV-SV, BVMed, IFA und ABDATA darauf verständigt, folgende Kennzeichnung in den Arzneimittelstammdaten der IFA zu verwenden:  1a Satz 5 SGB V fallen (Markteinführung vor dem 1. Dezember 2020)  sind mit dem Merkmal 410 gemäß P2-110 (Wert in der IFA-Datenlieferung 1=ja) sowie mit dem IFA- Feld „sonstiges Produkt zur Wundbehandlung“ (Wert in der IFA Datenlieferung 1=ja),  verordnungsfähig. sind mit dem Merkmal 410 gemäß P2-110 nicht als verordnungsfähig (Wert in der IFA- Datenlieferung 0=nein) sowie dem IFA- Feld „sonstiges Produkt zur Wundbehandlung“ gekennzeichnet (Wert in der IFA-Datenlieferung 1=ja)  Muster 16 verordnungsfähig, sondern müssen auf einem Privatrezept verordnet werden.  Pflichtmerkmal. Das Merkmal „sonstiges Produkt zur Wundbehandlung“ wird mit Version 5.8 des AMV-Anforderungskataloges als Merkmal 213 eingeführt und verpflichtend. Maßgeblich erfolgt die Aussteuerung der Verordnungsfähigkeit somit auf Basis der Ausprägung des Merkmals 410. Die Bereitstellung der Version 5.8 des AMV- Anforderungskataloges erfolgt mit der Veröffentlichung der eRezept-Änderungen zum 01.10.2025.
+Seite 6 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+P2-110 von sonstigen Produkten zur Wundbehandlung im Rahmen der Übergangsregelung nach § 31 Abs.1a Satz 5 SGB 1a Satz 5 SGB V fallen (Markteinführung vor dem 1. Dezember 2020), können mit dem Inkrafttreten des Gesundheitsversorgungsstärkungsgesetzes (GVSG) bis zum vorgesehenen Fristablauf am 1. Dezember 2025 weiterhin zu Lasten der gesetzlichen Krankenversicherung verordnet werden.  genannte Übergangsregelung fallen (Markteinführung nach dem 1. Dezember 2020) haben sich GKV-SV, BVMed, IFA und ABDATA darauf verständigt, folgende Kennzeichnung in den Arzneimittelstammdaten der IFA zu verwenden:  1a Satz 5 SGB V fallen (Markteinführung vor dem 1. Dezember 2020)  sind mit dem Merkmal 410 gemäß P2-110 (Wert in der IFA-Datenlieferung 1=ja) sowie mit dem IFA- Feld „sonstiges Produkt zur Wundbehandlung“ (Wert in der IFA Datenlieferung 1=ja),  verordnungsfähig. sind mit dem Merkmal 410 gemäß P2-110 nicht als verordnungsfähig (Wert in der IFA- Datenlieferung 0=nein) sowie dem IFA- Feld „sonstiges Produkt zur Wundbehandlung“ gekennzeichnet (Wert in der IFA-Datenlieferung 1=ja)  Muster 16 verordnungsfähig, sondern müssen auf einem Privatrezept verordnet werden.  Pflichtmerkmal. Das Merkmal „sonstiges Produkt zur Wundbehandlung“ wird mit Version 5.8 des AMV-Anforderungskataloges als Merkmal 213 eingeführt und verpflichtend. Maßgeblich erfolgt die Aussteuerung der Verordnungsfähigkeit somit auf Basis der Ausprägung des Merkmals 410. Die Bereitstellung der Version 5.8 des AMV- Anforderungskataloges erfolgt mit der Veröffentlichung der eRezept-Änderungen zum 01.10.2025. Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -501,6 +521,8 @@ P2-110 von sonstigen Produkten zur Wundbehandlung im Rahmen der Übergangsregelu
 | **·** | **·** | Hinweis: Bei der Nutzung dieser Variante sollte darauf geachtet werden, dass Updates |
 | ohne größeren Aufwand und Ausfallzeiten von Praxen eingespielt werden können.   › | **·** **·** |  |
 | Einleitung | Wie ist die Aussage zu verstehen, | Die Ärztin bzw. der Arzt müssen schon in den Auswahllisten erkennen können, ob ein  Wird in einer Verordnungssoftware eine Auswahlliste auf Ebene der Produkte, also ohne |
+
+Seite 7 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 dass Rabattvertragsangaben produktbezogen im Workflow anzugeben sind? BfArM wird vom BfArM häufig erst am 01. oder 15. eines Monats zur Verfügung gestellt, die sonstigen Daten gemäß P2- 110 werden von Datenbankherstellern mit mehr Vorlauf zur Verfügung gestellt.  Bereitstellungszyklen erschweren die fristgerechte Bereitstellung der Daten gemäß der Anforderung P2-130.  dieser Situation umgehen?  Produkt rabattiert ist oder nicht. Angabe einer Packungsgröße angezeigt, ist das Produkt dann als Rabattarzneimittel zu kennzeichnen, wenn mindestens eine Packung einem Rabattvertrag der Kasse des Patienten unterliegt. konfrontiert wird, eine geeignete Updatestrategie zur Bereitstellung der kompletten Arzneimitteldaten gemäß P2-110 etablieren. Diese Strategie sollte sicherstellen, dass den Kunden in der Software, die stets aktuellen Arzneimitteldaten zur Verfügung stehen sowie dass unnötige Updates durch die Praxen vermieden werden.  Es werden pro Datenzyklus zwei Updates bereitgestellt. Im ersten Update werden die IFA basierten Daten fristgerecht bereitgestellt.  Im zweiten Update werden die Daten der Referenzdatenbank vom BfArM nachträglich bereitgestellt. Es wird pro Datenzyklus ein Update bereitgestellt. Die bereitgestellten Daten eines Datenzyklus setzen sich wie folgt zusammen:  die IFA basierten Daten des aktuellen Datenzyklus  sowie die Daten der Referenzdatenbank des BfArM aus dem vorherigen Datenzyklus.  kompletten Arzneimitteldaten gemäß P2-110 bereitgestellt bekommen, werden die Daten entsprechend dem Aktualisierungszyklus gemäß P2-130 bereitgestellt.  Bereitstellung der Daten der Referenzdatenbank.
 
@@ -617,6 +639,8 @@ dass Rabattvertragsangaben produktbezogen im Workflow anzugeben sind? BfArM wird
 | Ist es zulässig, wenn  AV- | Die Listung nicht verkehrsfähiger Produkte muss nicht erfolgen. Sollten nicht |  |
 | P1-040 | Wie ist das Wort " | Alle geforderten Inhalte (zum Beispiel Daten aus regionalen Arzneimittelvereinbarungen |
 
+Seite 8 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
+
 unverzüglich im Kontext umfassender Freischaltung zu interpretieren? Datenbestand Grundlage der Arzneimitteldaten? Anlagen der Arzneimittel-Richtlinie  müssen neben dem Text der Arzneimittel- Richtlinie selbst laut Anforderungskatalog als PDF- Datei bereitgestellt werden? sind gemeint? Präparate und nicht verkehrsfähige Produkte Datenbestand gelistet werden?  nach § 84 SGB V, ARV-Daten) müssen der Ärztin bzw. dem Arzt ohne gesonderte Benutzeraktion (Freischaltung) wie E-Mail- oder auch telefonische Anmeldung zur Verfügung stehen, vorausgesetzt alle dazu nötigen Parameter wie LANR/BSNR oder IK stehen zur Verfügung. die Arzneimittelversorgung der gesetzlichen Krankenversicherung einbezogenen Fertigarzneimittel, Verbandmittel, Teststreifen, bilanzierte Diäten zur enteralen Ernährung und sonstigen Medizinprodukte umfasst. Sie müssen mit den Angaben übereinstimmen, welche der pharmazeutische Unternehmer nach § 131 SGB V in Verbindung mit dem hierzu getroffenen Rahmenvertrag gemäß § 131 SGB V veröffentlicht hat.  Arzneimittel- Richtlinie (AM-RL) des G-BA sind abzubilden. Die Texte der AM-RL und der Anlagen I bis VIIa  sind als PDF-Datei bereitzustellen. Dies umfasst die Anlagen I, II, III, IV, V, Va , VI, VII sowie VIIa nach § 84 SGB V geregelt sind. Die Zuordnung wird in der Regel über die BSNR vorgenommen. Hieraus ergibt sich der KV-Bereich, in dem die regionale Arzneimittelvereinbarung gilt. Präparate sind „Außer Vertrieb“, also noch im Handel als Restbestand erhältlich. Diese Präparate müssen daher gemeinsam mit dem Kennzeichen AV noch angezeigt werden, bis sie endgültig nicht mehr in Verkehr sind.  verkehrsfähige Produkte noch gelistet werden, dann muss ein Hinweis erfolgen, dass diese Produkte nicht mehr verordnet werden können.
 
 ---
@@ -731,6 +755,8 @@ unverzüglich im Kontext umfassender Freischaltung zu interpretieren? Datenbesta
 |  |  |  |
 |  |  |  |
 | P2-110 | Müssen „reine Klinikwaren“ in | Die Arzneimittelstammdaten müssen die Merkmale der Pflichtfunktion P2-110 und der  Hingegen müssen in der Verordnungssoftware Arzneimittel mit dem Kennzeichen „keine |
+
+Seite 9 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 angezeigt werden? Registrierungsnummer ist mit Merkmal 022  gemeint? 022 „Zulassungs -/Registrierungs- Nummer“ sowie 021 „Zulassungs /Registrierungs-Nummer vorhanden: ja/nein“ neu aufgenommen? Für welchen Use- Case ist die Suche nach dem Merkmal 021 relevant? konditionalen Pflichtfunktion K2-120 für die ambulante Versorgung enthalten. Fertigarzneimittel mit dem IFA- Kennzeichen „Klinikpackung“ (d.h. „reine Klinikware“) müssen nicht gelistet werden, da diese im stationären Bereich angesiedelt sind. Unter „reiner Klinikware“ sind Klinikpackungen zu verstehen, welche direkt an die Klinikapotheken geliefert werden.  therapiegerechte Packungsgröße“ angezeigt werden, d.h. ohne Normpackungs kennzeichnung oder bspw. Jumbopackungen > N3 sind weiterhin einzubinden (siehe Anforderungskatalog unter P2-110 Merkmal 8 bzw. P3-120 Merkmal 1). Datenfeld „Zulassungs -/Registrierungs- Nr.“ beinhaltet die entsprechende Nummer eines Arzneimittels, die von der zuständigen Zulassungsbehörde vergeben wird.  Bundesvertragspartner, in den regionalen Arzneimittelvereinbarungen auch ein Wirtschaftlichkeitsziel zu Therapieallergenen  zu vereinbaren. Danach sollen zugelassene Therapieallergenen (im Gegensatz zu nicht-zugelassenen Therapieallergenen)  bei Neueinstellungen eingesetzt werden, sofern zugelassene Therapieallergene in gleicher Darreichungsform zur Verfügung stehen. Damit Ärztinnen und Ärzte in ihrer Verordnungssoftware erkennen können, ob es sich bei bestimmten Produkten um zugelassene Therapieallergene handelt, wurden sowohl die Merkmale 021 und 022 als auch die Suchmöglichkeit nach Merkmal 021 „Zulassungs -/Registrierungs-Nummer vorhanden: ja/nein“ eingeführt. Eine Suche nach der Zulassungs -/Registrierungs-Nummer (Merkmal 022) selbst ist für die Arztpraxis nicht relevant.
 
@@ -847,6 +873,8 @@ angezeigt werden? Registrierungsnummer ist mit Merkmal 022  gemeint? 022 „Zula
 |  |  |  |
 | P2-110 | Woher können die Informationen | Beide Merkmale lassen sich der maschinenlesbaren Fassung zu den Beschlüssen nach § 35a  Merkmal 062 Richtlinie für Anforderungen an die Qualität der Anwendung von |
 
+Seite 10 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
+
 Merkmal 062 und 063 SGB V vom G-BA entnehmen. entnommen werden? Arzneimitteln für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes für Arzneimittel mit Kennzeichen 061 (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a SGB V vom G-BA auf den Internetseiten des G-BA) entspricht dem 109 Richtlinie Qualitätssicherung „ATMP“ (XML -Element „Begleitende Datenerhebung mit Verordnungseinschränkung nach § 35a Absatz 3b SGB V/ Begleitende Datenerhebung ohne Verordnungseinschränkung nach § 35a Absatz 3b SGB V“ (Quelle: maschinenlesbare Fassung zu den Beschlüssen nach § 35a Absatz 3 SGB V vom G- BA auf den Internetseiten des G-BA) entspricht dem Merkmal 128 Begleitende Datenerhebung nach §35a Absatz 3b SGBV (XML-Element …/ID_PAT_GR/BEGL_DAT_ERH@value). Produktklasse entsprechend des zur Entscheidung der Verordnungsfähigkeit zu Lasten der gesetzlichen Krankenversicherung Preis- und Produktverzeichnisses für Vertragsärztinnen und -ärzte essentiell sind. Die Anzeige hat gemäß P3-120 Angaben bei in den Mindestangaben obligat: erster und wiederholter Verordnung  Erste Ebene  zu erfolgen. Die Klarstellung dieser Arzneimittel (gemäß § 2 AMG), bereits in der Regel gelebten Praxis wird in der nächsten Version des Medizinprodukt (gemäß § 3 Anforderungskataloges für Verordnungssoftware sowohl unter P2-110 als auch unter P3- MPG), Diätetikum gemäß § 31 120 Angaben bei erster und wiederholter Verordnung  Erste Ebene eingearbeitet. Abs. 5 SGB V, sonstiges Diätetikum ?
 
 ---
@@ -962,7 +990,10 @@ Merkmal 062 und 063 SGB V vom G-BA entnehmen. entnommen werden? Arzneimitteln f�
 |  |  |  |
 | P2-110 | P3-120 | Laut den Vorgaben aus P2-110 |
 
-und P3-120 sollen die Preise von Verbandmitteln sowie sonstigen Produkten zur Wundbehandlung in der Verordnungssoftware hinterlegt und während des Verordnungsprozesses angezeigt werden. In der Praxis zeigt sich jedoch ein erhebliches Problem: Für eine Vielzahl dieser Produkte liegen keine Preisangaben  vor, da zahlreiche Produkthersteller ihre Preise nicht zentral melden. Für Vertragsärztinnen und Vertragsärzte entsteht dadurch eine deutliche Informationslücke, die die wirtschaftliche Verordnung erschwert und zu Unsicherheiten im Praxisalltag führt. sich die Frage, wie Softwarehersteller ihre Nutzerinnen und Nutzer trotz fehlender Preisdaten bestmöglich unterstützen können. unterstützen, indem Sie für die verordnungsfähigen Verbandmittel (Merkmal 410) sowie die sonstigen Produkte zur Wundbehandlung (Merkmal 213) den jeweils verfügbaren Apothekeneinkaufspreis  hinterlegen und diesen gemäß P3-120 bereits auf der ersten Ebene des Verordnungsprozesses anzeigen. Wichtig ist dabei, dass der Apothekeneinkaufspreis eindeutig als solcher gekennzeichnet wird. Auf diese Weise erhalten Vertragsärztinnen und Vertragsärzte trotz fehlender zentral gemeldeter Preise eine verlässliche Orientierung für eine wirtschaftliche Verordnung. vorgesehen.
+Seite 11 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+und P3-120 sollen die Preise von Verbandmitteln sowie sonstigen Produkten zur Wundbehandlung in der Verordnungssoftware hinterlegt und während des Verordnungsprozesses angezeigt werden. In der Praxis zeigt sich jedoch ein erhebliches Problem: Für eine Vielzahl dieser Produkte liegen keine Preisangaben  vor, da zahlreiche Produkthersteller ihre Preise nicht zentral melden. Für Vertragsärztinnen und Vertragsärzte entsteht dadurch eine deutliche Informationslücke, die die wirtschaftliche Verordnung erschwert und zu Unsicherheiten im Praxisalltag führt. sich die Frage, wie Softwarehersteller ihre Nutzerinnen und Nutzer trotz fehlender Preisdaten bestmöglich unterstützen können. unterstützen, indem Sie für die verordnungsfähigen Verbandmittel (Merkmal 410) sowie die sonstigen Produkte zur Wundbehandlung (Merkmal 213) den jeweils verfügbaren Apothekeneinkaufspreis  hinterlegen und diesen gemäß P3-120 bereits auf der ersten Ebene des Verordnungsprozesses anzeigen. Wichtig ist dabei, dass der Apothekeneinkaufspreis eindeutig als solcher gekennzeichnet wird. Auf diese Weise erhalten Vertragsärztinnen und Vertragsärzte trotz fehlender zentral gemeldeter Preise eine verlässliche Orientierung für eine wirtschaftliche Verordnung. vorgesehen.  Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -1076,6 +1107,8 @@ und P3-120 sollen die Preise von Verbandmitteln sowie sonstigen Produkten zur Wu
 | Sind  Die Eingabe von Freitexten z. B. für Rezepturen oder Wirkstoffen zur Wirkstoffverordnung | O2-145 | Wie ist in dieser Funktion die |
 | Unter Hausapotheke sind praxisbezogene (Betriebsstättennummer/Nebenbetriebsstätten- Die Produktlisten werden in der Verordnungssoftware gespeichert. | K2-160  Werden durch eine | Wenn Daten (z. B. Arzneimittelpreise) für statistische Zwecke gebraucht werden, müssen |
 | P2-130 | Können von einzelnen | Die Verordnungssoftware muss stichtagsbezogen stets für sämtliche Arzneimittel die nach  Werden Änderungen an den Arzneimittelstammdaten vorgenommen, bestimmt der |
+
+Seite 12 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 Pharmaunternehmen gemeldete, zwischen den Updates auf den Markt kommende Produkte den Datenbestand aufgenommen werden? Sind Tagesfreischaltungen Produkten bei Erscheinung auf dem Markt erlaubt?  eines Fehlers ein vollständiges Update des betroffenen Datenstandes? manuelle Eingaben  erlaubt? definiert? Aktualisierung der patientenbezogenen Listen die Statistiken  nicht verfälscht? Layout“  zu interpretieren? § 131 SGB V in Verbindung mit dem hierzu getroffenen Rahmenvertrag gemäß § 131 SGB V veröffentlichten Preis- und Produktangaben abbilden. Der Datenbestand zum Zeitpunkt der Verordnungen von Arzneimitteln ist erkennbar anzuzeigen (vgl. P2-100).  Software-Anbieter einen neuen Datenstand und aktualisiert die Preis- und Produktangaben sämtlicher Produkte.  Zeitpunkt des Updates gültigen Gesamtdatenbestand umfassen. ist es zulässig die Änderungen ohne Festsetzung eines neuen Datenbestandes nur an der betroffenen Stelle vorzunehmen. Darüber hinaus sind weitere Änderungen der Arzneimittelstammdaten bei einer solchen Korrektur unzulässig (vgl. P2-130). ist zulässig. Eine Wirkstoffverordnung kann auch z. B. durch „Übersetzung“ eines Fertigarzneimittels aus einer Arzneimitteldatenbank geschehen. nummer) oder arztbezogene (Lebenslange Arztnummer) Produktlisten zu verstehen, aus denen Verordnungen vorgenommen werden können. Eine Verordnungssoftware kann eine oder mehrere dieser Produktlisten enthalten. Daher handelt es sich bei dieser Anforderung um eine optionale Funktion und bei den darauf aufbauenden Anforderungen um konditionale Pflichtfunktionen. Sobald eine Verordnungssoftware somit eine Hausapotheke hat, müssen die Funktionen K2-150 bis K2-160 umgesetzt werden. diese parallel zu den aktuellen Daten gespeichert werden. Es muss sichergestellt sein, dass die verordnende Ärztin bzw. der verordnende Arzt auf jedem Verordnungsweg immer die aktuellen Daten zur Verfügung hat. ohne Hervorhebungen besitzen.
 
@@ -1192,6 +1225,8 @@ Pharmaunternehmen gemeldete, zwischen den Updates auf den Markt kommende Produkt
 |  |  |  |
 | P3-120 | P3-121 |  |
 
+Seite 13 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
+
 in jeder Verordnungsliste in Form einer Tabelle angezeigt werden? Kasse des Patienten, zu denen es aber andere rabattierte, für eine Substitution geeignete Produkte für die Krankenkasse des jeweiligen Patienten gibt, sollen gekennzeichnet werden. Wie kann das ohne Performanceverlust realisiert werden? weiterhin erlaubt? Wiederholungsverordnung für einen Patienten ohne eigene Aktion ersichtlich sein müssen. Nur die Attribute, welche in der ersten Tabelle der Pflichtfunktion P3-120 gelistet sind, sind zwingend in Form einer tabellarischen Auswahlliste anzugeben. Die weiteren Attribute gemäß P3-121 können zum Beispiel in einem eigenen Anzeigebereich für den in der Liste aktuell angewählten Artikel angezeigt werden. für die aktive Zeile einer Liste (Tabelle), also für eine PZN geprüft wird, ob ein geeignetes Rabattvertragsarzneimittel der Kasse des Patienten vorhanden ist, das sich zur Substitution eignet. Arzneimittel, die den gleichen Wirkstoff, die gleiche Wirkstärke, die gleiche oder austauschbare Darreichungsformen sowie die gleiche Normgröße besitzen, sind für eine Substitution geeignet. Workflow nicht unterbrechen und kann so gestaltet werden, dass die Ärztin bzw. der Arzt diese für jedes Makro abschalten kann.
 
 ---
@@ -1306,6 +1341,8 @@ in jeder Verordnungsliste in Form einer Tabelle angezeigt werden? Kasse des Pati
 |  |  |  |
 |  |  |  |
 | P3-120 | Sollte das Rote-Hand-Logo und | Die Integration des Rote-Hand- und Blaue-Hand-Logo in der Software wird aus fachlicher  Das Rote-Hand-Logo kennzeichnet Rote-Hand-Briefe von pharmazeutischen |
+
+Seite 14 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 das Blaue-Hand-Logo in der Sicht begrüßt und empfohlen.  Software mit angezeigt werden? Unternehmern, mit denen Angehörige der Heilberufe über neu identifizierte, bedeutende Arzneimittelrisiken und Maßnahmen zur Risikominimierung informiert werden. Durch die Verwendung dieses in der Versorgung etablierten Logos wird der offizielle Charakter unterstrichen und der Rote-Hand-Brief somit von den Adressaten als solches schnell und eindeutig erkannt. Bundesoberbehörden genehmigtes Schulungsmaterial von pharmazeutischen Unternehmern. Mit solchem Schulungsmaterial werden Arzneimittel versehen, bei denen die Informationen in der Packungsbeilage allein nicht ausreichen, um das Risiko bei der Anwendung zu minimieren. Das Blaue-Hand- Logo wurde analog dem Logo der „Roten Hand“ gestaltet, mit den  sicherheitsrelevante Informationen zu Arzneimitteln gekennzeichnet werden. Das Log o ist außerdem mit der Aufschrift „behördlich genehmigtes Schulungsmaterial“ versehen.  Durch die Verwendung dieses in der Versorgung etablierten Logos wird der offizielle Charakter des Schulungsmaterials unterstrichen und das behördlich genehmigte Schulungsmaterial von den Adressaten als solches schnell und eindeutig erkannt. Workflow nicht unterbrechen“. Arzneimittelverordnung, die alle einzeln bestätigt/weggeklickt werden mussten, Wie ist das zu verstehen? beschwert. Daher sollte der Ablauf des Verordnungsvorgangs nur dort unterbrochen werden, wo eine Entscheidung der Ärztin bzw. des Arztes erforderlich ist (zum Beispiel muss bei OTX-Präparaten zwischen Privat- und Kassenrezept entschieden werden). Die reine Kenntnisnahme von Informationen sollte nicht bestätigt werden müssen. Diese Informationen könnten beispielsweise in einem separaten Anzeigenbereich dargestellt werden. Akzeptabel ist auch die Darstellung des Hinweistextes in einer Dialogbox, mit der der Arzt bei der Verordnung zusätzlich die Entscheidung treffen kann, dass ihm der Hinweis für das konkrete Produkt nicht mehr aktiv angezeigt wird. Es muss jedoch erkenntlich sein, dass ein Hinweis existiert, und dieser muss mit einer Benutzeraktion abrufbar sein.
 
@@ -1422,6 +1459,8 @@ das Blaue-Hand-Logo in der Sicht begrüßt und empfohlen.  Software mit angezeig
 | P3-320 | Können Ärztinnen und Ärzte  Eine aktiv getroffene Hervorhebung ist zulässig. |  |
 | P3-130 | Wie sollen vollständige Texte | Die Anforderung P3-130 wurde dahingehend konkretisiert, dass nur die ersten 250 Zeichen |
 
+Seite 15 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
+
 angezeigt werden, ohne den Workflow  zu unterbrechen? von Produktwerbung freie Versionen “ gemeint? Wirkstoffen bzw. Wirkstoffkombinationen nur auf Arzneimittel beschränkt? Hat sich hier inhaltlich etwas verändert? Suchmöglichkeit  nach dem Merkmal 171 „ Verkürztes “ für Arzneimittel mit Beschluss des G- BA nach § 35a SGB V (Merkmal 061)? eigene Hervorhebungen vornehmen. von Hinweistexten anzuzeigen sind. Sofern die Gesamtlänge aller vorliegenden Hinweistexte eine Länge von 250 Zeichen (einschließlich Leerzeichen) überschreitet, können diese anschließend eingekürzt werden. Die vollständigen Hinweistexte sind auf Anforderung durch eine einzige Anwenderinteraktion anzuzeigen. Arzneimittel sind wie bspw. Nahrungsergänzungsmitteln und Medizinprodukte können keine „Wirkstoffe“ enthalten; es handelt sich hier um Inhaltsstoffe. Bei einer Wirkstoffsuche  dürfen daher nur Arzneimittel  in der Trefferliste erscheinen. Arzneimittel per Inhaltsstoff sind weiterhin erlaubt und empfehlenswert. dem konkreten Beschluss zu einem Anwendungsgebiet zum Teil erschwert. Dies zeigten die Erfahrungen der Anwender im Umgang mit der maschinenlesbaren Fassung. Deswegen wurde das neue Element „Verkürztes Anwendungsgebiet“ (Merkmal 171) zur erleichterten optional zu implementierenden Recherche eingefügt, welches das Anwendungsgebiet des Beschlusses, zusätzlich zum Anwendungsgebiet der Fachinformation, vereinfacht abbildet.
 
 ---
@@ -1537,7 +1576,10 @@ angezeigt werden, ohne den Workflow  zu unterbrechen? von Produktwerbung freie V
 | Was bedeutet  Die Anzeige von Rabattvertragsinformationen muss ohne gesonderte Benutzeraktion |  |  |
 | P3-325 | Nach welchen Kriterien kann eine | Da es bislang noch keine validen Vergleichskriterien für sonstige nach § 31 SGB V in die |
 
-Preisvergleichssuche für sonstige Arzneimittelversorgung einbezogene Produkte angeboten werden? Arzneimittelversorgung einbezogene Produkte wie z. B. für Verbandmittel gibt, ist eine Preisvergleichssuche nach wie vor nur für Arzneimittel verpflichtend anzubieten. Papierrezept  mit einer Rezepturverordnung weitere Verordnungsszeilen enthalten wie bspw. zusätzliche Fertigarzneimittel oder eine zweite Rezeptur? einem Papierformular nur genau  Rezepturverordnung enthalten ist und keine weitere Verordnungszeile . Sobald ein Papierformular eine Rezepturverordnung enthält, darf auf diesem einen Papierformular kein weiteres Produkt  jeglicher Art und auch keine weitere Rezeptur  verordnet werden. Für BtM-Rezepte  gilt diesbezüglich nichts Abweichendes Substitutionslisten  müssen “mit nur einer Aktion“ aufrufbar sein. Ist eine Umsetzung, welche bspw. erst einen Preisvergleich aufruft und dann eine Filtermöglichkeit auf rabattierte Alternativen bietet nicht mehr zulässig? eine Aktion vorgesehen. Medikamente automatisch ein zu setzen? Wiederholungsverordnung für einen Patienten handelt und bei der Erstverordnung das aut-idem-Kreuz gesetzt wurde. "Workflow" Kontext der Anzeige von Rabattarzneimitteln? Ist das nicht durch P1-110 bereits geregelt? erfolgen. In P1-110 ist nur geregelt, dass die Information vorhanden sein muss.
+Seite 16 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Preisvergleichssuche für sonstige Arzneimittelversorgung einbezogene Produkte angeboten werden? Arzneimittelversorgung einbezogene Produkte wie z. B. für Verbandmittel gibt, ist eine Preisvergleichssuche nach wie vor nur für Arzneimittel verpflichtend anzubieten. Papierrezept  mit einer Rezepturverordnung weitere Verordnungsszeilen enthalten wie bspw. zusätzliche Fertigarzneimittel oder eine zweite Rezeptur? einem Papierformular nur genau  Rezepturverordnung enthalten ist und keine weitere Verordnungszeile . Sobald ein Papierformular eine Rezepturverordnung enthält, darf auf diesem einen Papierformular kein weiteres Produkt  jeglicher Art und auch keine weitere Rezeptur  verordnet werden. Für BtM-Rezepte  gilt diesbezüglich nichts Abweichendes Substitutionslisten  müssen “mit nur einer Aktion“ aufrufbar sein. Ist eine Umsetzung, welche bspw. erst einen Preisvergleich aufruft und dann eine Filtermöglichkeit auf rabattierte Alternativen bietet nicht mehr zulässig? eine Aktion vorgesehen. Medikamente automatisch ein zu setzen? Wiederholungsverordnung für einen Patienten handelt und bei der Erstverordnung das aut-idem-Kreuz gesetzt wurde. "Workflow" Kontext der Anzeige von Rabattarzneimitteln? Ist das nicht durch P1-110 bereits geregelt? erfolgen. In P1-110 ist nur geregelt, dass die Information vorhanden sein muss. Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -1652,7 +1694,10 @@ Preisvergleichssuche für sonstige Arzneimittelversorgung einbezogene Produkte a
 |  |  |  |
 | P3-621 | Welche Parameter werden in der | Bei der Verordnung von Arzneimitteln mit dem ATC-Code N07BC (Mittel zur Behandlung  Geändert wird bei der Verordnung von Mitteln zur Behandlung der Opiatabhängigkeit in |
 
-Regel in der Praxis bei  verändert? der Opiatabhängigkeit) muss die Verordnungssoftware bei einer Änderung der auf Basis der PZN aus den Arzneimittelstammdaten übernommenen Angaben sicherstellen, dass der PZN-Bezug automatisch entfällt.  der Regel die Stückzahl , sodass diese nicht mehr einer bestimmten PZN zugeordnet werden kann. Daher ist der Wegfall einer PZN, welche die Information einer bestimmten Stückzahl einer Fertigarzneimittelpackung enthält, in diesem Fall sinnvoll. zu implementieren? anbieten. Mengenangaben, Gefäß und Gebrauchsanweisung anstatt in Freitextform nun in separaten Feldern erfasst werden. Das Erstellen der Verordnungen wird für Vertragsärztinnen und - ärzte dadurch deutlich erleichtert, dass alle notwendigen Angaben einer eindeutigen Verordnung abgefragt werden. Rückfragen von Apotheken wegen unvollständiger Angaben können so vermieden werden. Die eindeutige Ausstellung von Rezepturverordnungen kann dadurch erleichtert werden. Daher handelt es sich bei der Funktion O3-623 um eine nutzerfreundliche Funktion. müssen gemäß AMVV mit einer Dosierungsangabe  versehen werden? Und warum? ÄrztInnen laut AMVV ab 1. November 2020 die Dosierung angeben oder kennzeichnen, dass sie dem Patienten einen Medikationsplan oder eine schriftliche Dosierungsanweisung mitgegeben haben. Dies betrifft ausschließlich verschreibungspflichtige Arzneimittel. um Patienten besser über die anzuwendende Dosierung zu informieren.
+Seite 17 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Regel in der Praxis bei  verändert? der Opiatabhängigkeit) muss die Verordnungssoftware bei einer Änderung der auf Basis der PZN aus den Arzneimittelstammdaten übernommenen Angaben sicherstellen, dass der PZN-Bezug automatisch entfällt.  der Regel die Stückzahl , sodass diese nicht mehr einer bestimmten PZN zugeordnet werden kann. Daher ist der Wegfall einer PZN, welche die Information einer bestimmten Stückzahl einer Fertigarzneimittelpackung enthält, in diesem Fall sinnvoll. zu implementieren? anbieten. Mengenangaben, Gefäß und Gebrauchsanweisung anstatt in Freitextform nun in separaten Feldern erfasst werden. Das Erstellen der Verordnungen wird für Vertragsärztinnen und - ärzte dadurch deutlich erleichtert, dass alle notwendigen Angaben einer eindeutigen Verordnung abgefragt werden. Rückfragen von Apotheken wegen unvollständiger Angaben können so vermieden werden. Die eindeutige Ausstellung von Rezepturverordnungen kann dadurch erleichtert werden. Daher handelt es sich bei der Funktion O3-623 um eine nutzerfreundliche Funktion. müssen gemäß AMVV mit einer Dosierungsangabe  versehen werden? Und warum? ÄrztInnen laut AMVV ab 1. November 2020 die Dosierung angeben oder kennzeichnen, dass sie dem Patienten einen Medikationsplan oder eine schriftliche Dosierungsanweisung mitgegeben haben. Dies betrifft ausschließlich verschreibungspflichtige Arzneimittel. um Patienten besser über die anzuwendende Dosierung zu informieren. Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -1767,7 +1812,10 @@ Regel in der Praxis bei  verändert? der Opiatabhängigkeit) muss die Verordnung
 |  |  |  |
 | P3-625 | Ist es auch bei Verordnungen von | Eine Dosierungsanweisung (Dosierung bzw. das Kennzeichen >>Dj<<) für nicht- |
 
-nicht-verschreibungspflichtigen  verschreibungspflichtige Arzneimittel sowie für bspw. stoffähnliche Medizinprodukte der Arzneimitteln und weiteren Anlage V AM-RL ist erlaubt. Die entsprechende Umsetzung durch die Verordnungssoftware Produkten  erlaubt, eine für nicht-verschreibungspflichtige Arzneimittel sowie Medizinprodukte ist optional. Die  anzugeben bzw. das Möglichkeit, eine Dosierungsanweisung setzen zu lassen, kann optional gemäß P3-625 AK 7 Kennzeichen über das Vorliegen umgesetzt werden. Aus Arzneimitteltherapiesicherheitsgründen ist diese Umsetzung aus einer schriftlichen Sicht der Patientinnen und Patienten sehr empfehlenswert. Dosierungsanweisung zu setzen? zu setzende  aus, vorliegt, erfolgt über das Kürzel  (= ja, es liegt eine schriftliche Dosierungsanweisung wenn ein Medikationsplan oder vor) hinter jeder Verordnungszeile jeweils . Eine Kennzeichnung für mehr als ein Produkt reicht nicht aus. Es muss dann z.B. drei Kennzeichnungen bei drei Produkten geben.   Dosierungsanweisung vorliegt?  auf dem Verordnungen, die unmittelbar an ÄrztInnen abgegeben werden . Dies betrifft zum Beispiel Rezept in bestimmten Fällen Sprechstundenbedarf , in Einzelfällen  auch Arzneimittelverordnungen, die entfallen beispielsweise auf einen Patientennamen ausgestellt wurden, jedoch unmittelbar an die verschreibende Person abgegeben werden (beispielsweise Esketamin zur intranasalen Anwendung gemäß § 2 Absatz 3a AMVV).
+Seite 18 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+nicht-verschreibungspflichtigen  verschreibungspflichtige Arzneimittel sowie für bspw. stoffähnliche Medizinprodukte der Arzneimitteln und weiteren Anlage V AM-RL ist erlaubt. Die entsprechende Umsetzung durch die Verordnungssoftware Produkten  erlaubt, eine für nicht-verschreibungspflichtige Arzneimittel sowie Medizinprodukte ist optional. Die  anzugeben bzw. das Möglichkeit, eine Dosierungsanweisung setzen zu lassen, kann optional gemäß P3-625 AK 7 Kennzeichen über das Vorliegen umgesetzt werden. Aus Arzneimitteltherapiesicherheitsgründen ist diese Umsetzung aus einer schriftlichen Sicht der Patientinnen und Patienten sehr empfehlenswert. Dosierungsanweisung zu setzen? zu setzende  aus, vorliegt, erfolgt über das Kürzel  (= ja, es liegt eine schriftliche Dosierungsanweisung wenn ein Medikationsplan oder vor) hinter jeder Verordnungszeile jeweils . Eine Kennzeichnung für mehr als ein Produkt reicht nicht aus. Es muss dann z.B. drei Kennzeichnungen bei drei Produkten geben.   Dosierungsanweisung vorliegt?  auf dem Verordnungen, die unmittelbar an ÄrztInnen abgegeben werden . Dies betrifft zum Beispiel Rezept in bestimmten Fällen Sprechstundenbedarf , in Einzelfällen  auch Arzneimittelverordnungen, die entfallen beispielsweise auf einen Patientennamen ausgestellt wurden, jedoch unmittelbar an die verschreibende Person abgegeben werden (beispielsweise Esketamin zur intranasalen Anwendung gemäß § 2 Absatz 3a AMVV).  Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -1882,7 +1930,10 @@ nicht-verschreibungspflichtigen  verschreibungspflichtige Arzneimittel sowie fü
 |  |  |  |
 | P3-625 | Was gilt für | Bei der Verordnung von Betäubungsmitteln ist laut Betäubungsmittel-*Auf dem Betäubungsmittelrezept sind anzugeben: „[…]* |
 
-Betäubungsmittelrezepte bezüglich der Dosierungsangabe? Verschreibungsverordnung (BtMVV) weiterhin die Angabe einer Gebrauchsanweisung mit Einzel- und Tagesgabe verpflichtend notwendig. schriftliche Gebrauchsanweisung übergeben wurde, ein Hinweis auf diese schriftliche Gebrauchsanweisung; im Fall des § 5 Absatz 8 und 9 zusätzlich die Reichdauer des Substitutionsmittels in Tagen und im Fall des § 5 Absatz 9 Satz 8 Vorgaben zur Abgabe des Substitutionsmittels oder, im Fall, dass dem Patienten schriftliche Vorgaben zur Abgabe oder zum Überlassen zum unmittelbaren Verbrauch des Substitutionsmittels übergeben wurden, ein Hinweis auf diese schriftlichen Vorgaben, […]“ BtMVV erfolgt softwaregestützt der Hinweis gemäß schriftlicher Anweisung  anstatt des Kürzels Dj . Ein Dj  darf softwaregestützt nicht auf BtM-Rezepten aufgebracht werden.
+Seite 19 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Betäubungsmittelrezepte bezüglich der Dosierungsangabe? Verschreibungsverordnung (BtMVV) weiterhin die Angabe einer Gebrauchsanweisung mit Einzel- und Tagesgabe verpflichtend notwendig. schriftliche Gebrauchsanweisung übergeben wurde, ein Hinweis auf diese schriftliche Gebrauchsanweisung; im Fall des § 5 Absatz 8 und 9 zusätzlich die Reichdauer des Substitutionsmittels in Tagen und im Fall des § 5 Absatz 9 Satz 8 Vorgaben zur Abgabe des Substitutionsmittels oder, im Fall, dass dem Patienten schriftliche Vorgaben zur Abgabe oder zum Überlassen zum unmittelbaren Verbrauch des Substitutionsmittels übergeben wurden, ein Hinweis auf diese schriftlichen Vorgaben, […]“ BtMVV erfolgt softwaregestützt der Hinweis gemäß schriftlicher Anweisung  anstatt des Kürzels Dj . Ein Dj  darf softwaregestützt nicht auf BtM-Rezepten aufgebracht werden.Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -1997,7 +2048,10 @@ Betäubungsmittelrezepte bezüglich der Dosierungsangabe? Verschreibungsverordnu
 |  |  |  |
 | P3-625 | Was gilt für | Gemäß den Vorgaben der Betäubungsmittel-Verschreibungsverordnung (BtMVV) zur  https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubungsmittel |
 
-Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung von Praxisbedarf? Ausstellung von BtM-Verordnung für Praxisbedarf bzw. Sprechstundenbedarf muss eine entsprechende BtM-Verordnung für Praxisbedarf keine Dosierungsangabe enthalten, siehe hierzu das FAQ der Bundesopiumstelle des BfArM /faq/FAQsBtMVV.pdf?__blob=publicationFile der Anforderung P3-625 Akzeptanzkriterium 1.3: Verordnung von Betäubungsmitteln (Merkmal 012).“ BtM-Verordnungen  für Patienten  bezieht, nicht aber auf BtM-Verordnungen für den Praxisbedarf bzw. Sprechstundenbedarf. für Patienten immer eine Dosierangabe gemäß P3-625 Akzeptanzkriterium 1.1 oder einen Hinweis auf die schriftliche Anweisung nach P3-625 Akzeptanzkriterium 1.2 enthält. Die Auswahl nach Akzeptanzkriterium 3 ist, wie zuvor klargestellt, für patientenbezogene BtM- Verordnungen nicht gestattet.
+Seite 20 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung von Praxisbedarf? Ausstellung von BtM-Verordnung für Praxisbedarf bzw. Sprechstundenbedarf muss eine entsprechende BtM-Verordnung für Praxisbedarf keine Dosierungsangabe enthalten, siehe hierzu das FAQ der Bundesopiumstelle des BfArM /faq/FAQsBtMVV.pdf?__blob=publicationFile der Anforderung P3-625 Akzeptanzkriterium 1.3: Verordnung von Betäubungsmitteln (Merkmal 012).“ BtM-Verordnungen  für Patienten  bezieht, nicht aber auf BtM-Verordnungen für den Praxisbedarf bzw. Sprechstundenbedarf. für Patienten immer eine Dosierangabe gemäß P3-625 Akzeptanzkriterium 1.1 oder einen Hinweis auf die schriftliche Anweisung nach P3-625 Akzeptanzkriterium 1.2 enthält. Die Auswahl nach Akzeptanzkriterium 3 ist, wie zuvor klargestellt, für patientenbezogene BtM- Verordnungen nicht gestattet.  Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -2112,7 +2166,10 @@ Betäubungsmittelverordnungen bezüglich der Dosierungsangabe bei der Verordnung
 | Ausgeschriebene Tageszeiten z.B. |  |  |
 | P3-625 | Welche Möglichkeiten muss die | Pflichtanforderung:  Auf dem Rezept erfolgt von der Software gestützt der Aufdruck der Dosierung hinter dem |
 
-Dosierungsangabe liegt vor (Medikationsplan oder schriftliche Dosierungsanweisung)  Freitext-Eingabefeld für eine Dosierungsangabe auf dem Rezept Keine Dosierungsangabe notwendig aufgrund von Abgabe an verschreibende Person (z. B. Sprechstundenbedarf)  Verordnungssoftware bezüglich der Dosierungsangabe verpflichtend  anbieten? Welche Möglichkeiten sind lediglich optional  umzusetzen? verordneten Produkt am Ende der Verordnungszeile. Ein  ist hier als Eingabefeld für ÄrztInnen als Mindestvoraussetzung verpflichtend. verschreibungspflichtige Arzneimittel schaffen: Dj  für verschreibungspflichtige Arzneimittel; gemäß schriftlicher Anweisung  bei Betäubungsmitteln (BtM)  morgens und abends 1 Tablette, Packungsinhalt komplett aufbrauchen Dosierungsangabe erfolgen:  Entsprechend des „Vierer Schemas“ des bundeseinheitlichen Medikationsplanes für morgens-mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht: 1-0-0-1 ½ Entsprechend des „Dreier Schemas“ für morgens -mittags-abends z.B. bei morgendlicher und abendlicher Gabe jeweils einer halben Tablette ½-0-½ morgens, mittags und abends jeweils 1 Sprühstoß
+Seite 21 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Dosierungsangabe liegt vor (Medikationsplan oder schriftliche Dosierungsanweisung)  Freitext-Eingabefeld für eine Dosierungsangabe auf dem Rezept Keine Dosierungsangabe notwendig aufgrund von Abgabe an verschreibende Person (z. B. Sprechstundenbedarf)  Verordnungssoftware bezüglich der Dosierungsangabe verpflichtend  anbieten? Welche Möglichkeiten sind lediglich optional  umzusetzen? verordneten Produkt am Ende der Verordnungszeile. Ein  ist hier als Eingabefeld für ÄrztInnen als Mindestvoraussetzung verpflichtend. verschreibungspflichtige Arzneimittel schaffen: Dj  für verschreibungspflichtige Arzneimittel; gemäß schriftlicher Anweisung  bei Betäubungsmitteln (BtM)  morgens und abends 1 Tablette, Packungsinhalt komplett aufbrauchen Dosierungsangabe erfolgen:  Entsprechend des „Vierer Schemas“ des bundeseinheitlichen Medikationsplanes für morgens-mittags-abends-zur Nacht z.B. bei morgendlicher Gabe einer Tablette sowie Gabe von 1 ½ Tabletten zur Nacht: 1-0-0-1 ½ Entsprechend des „Dreier Schemas“ für morgens -mittags-abends z.B. bei morgendlicher und abendlicher Gabe jeweils einer halben Tablette ½-0-½ morgens, mittags und abends jeweils 1 SprühstoßVersion: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -2226,6 +2283,8 @@ Dosierungsangabe liegt vor (Medikationsplan oder schriftliche Dosierungsanweisun
 | › | › | › |
 | › | P3-625  Dürfen in der Software weiterhin | Ja, die Software kann seinen Anwendern weiterhin die Möglichkeit von Kürzeln, |
 | P3-625 | Was sind Beispiele für | Missverständlich Dosierungsanweisungen sind bspw.:  › |
+
+Seite 22 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 missverständliche  zur Übernahme der Dosierungsanweisungen auf dem Rezept verwendet werden? Feldbegrenzung die Dosierungsangabe? Was geschieht, wenn zwei Zeilen für die Verordnung inklusive Dosierungsangabe nicht ausreichen? Ein ausschließlicher Verweis auf die Packungsbeilage („siehe Packungsbeilage „Einnahme gemäß Packungsbeilage“ o.ä.) ist keine hinreichende Dosierungsangabe  im Sinne der AMVV.  >>Dj ½<<  (Korrekt: >>Dj<<, eine sinnvolle Kombination einer Ziffer mit Dj nicht möglich) >>-1-0-1<<  (Unvollständiges Viererschema?  korrekt: z.B. >>0-1-0-1<<; >>1-0-1<<) >>1 --1-1<< (2. Dosierangabe (Dosierangabe für mittags) fehlt;  korrekt: z.B. >>1-0-1-1<<; >>1-1-1<<)) >>--1-0-1<< (1. Dosierangabe (Dosierangabe für morgens) fehlt) >>1-1-1 --<< (4. Dosierangabe (Dosierangabe zur Nacht) fehlt) 1-0-0 („>>“ und „<<“ fehlt) >>1-0-0 („<<“ fehlt) 1-0-1 nicht korrekt, „>>“ und „<<“ fehlt) >>0 ½-0-0<< (½ anstatt 0 ½ korrekt) Tastenkombinationen u. ä. zur Übernahme von bzw. Generierung der Dosierungsanweisungen auf ein Rezept ermöglichen.  oben beschriebenen eindeutigen Dosierungsschemata erzeugen (z.B. aus 111 wird >>1-1- 1<<).  keine Feldbegrenzung  für die Dosierungsangabe. Wenn zwei Zeilen für ein verordnetes Produkt nicht ausreichen, müssen mehr Zeilen verwendet werden, auch wenn das bedeutet, dass u.U. weniger als drei Produkte auf dem Rezept Platz finden. ÄrztInnen müssen  von der Software darauf hingewiesen werden, dass ggf. der Platz auf dem Rezept nicht ausreicht und ein zweites Rezept für den Druck erforderlich wird.
 
@@ -2342,7 +2401,10 @@ missverständliche  zur Übernahme der Dosierungsanweisungen auf dem Rezept verw
 |  |  |  |
 | P3-625 | Wie sollte idealerweise mit der | Grundsätzlich ist zu begrüßen, dass der Gesetzgeber die Ausstellung eines  Es wird empfohlen, dass eine Verordnung aus dem BMP heraus automatisch d.h. durch |
 
-Situation umgegangen werden, wenn dem Patienten bereits ein Medikationsplan bzw. eine schriftliche Dosierungsanweisung vorliegt Medikationsplanes bzw. einer schriftlichen Dosierungsanweisung ausdrücklich ersetzend für die Dosierungsangabe auf dem Rezept formuliert entsprechende Kennzeichnung (>>Dj<<) auf dem Rezept ist in diesem Fall ausreichend Voreinstellung das Kennzeichen Dj  auf dem Rezept auslöst. Die Wechselmöglichkeit zu einer manuell eingegebenen Dosierung durch ÄrztInnen muss weiterhin gegeben sein. Voreinstellung der Kennzeichnung Dj möglich? Voreinstellung  der Kennzeichnung Dj  durch die Verordnungssoftware ist grundsätzlich nicht erlaubt.  Ausnahmen stellen z.B. Impfstoff-Rezepte dar, welche auf Standardvorbelegung Auswahloptionen möglich? Standardvorbelegung durch die Verordnungssoftware ist grundsätzlich nicht erlaubt. vorgegebenen Optionen (Dosierungsangabe, Dosierungsanweisung und ohne Dosierungsangabe) getroffen werden. Auswahl ermöglicht werden.
+Seite 23 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Situation umgegangen werden, wenn dem Patienten bereits ein Medikationsplan bzw. eine schriftliche Dosierungsanweisung vorliegt Medikationsplanes bzw. einer schriftlichen Dosierungsanweisung ausdrücklich ersetzend für die Dosierungsangabe auf dem Rezept formuliert entsprechende Kennzeichnung (>>Dj<<) auf dem Rezept ist in diesem Fall ausreichend Voreinstellung das Kennzeichen Dj  auf dem Rezept auslöst. Die Wechselmöglichkeit zu einer manuell eingegebenen Dosierung durch ÄrztInnen muss weiterhin gegeben sein. Voreinstellung der Kennzeichnung Dj möglich? Voreinstellung  der Kennzeichnung Dj  durch die Verordnungssoftware ist grundsätzlich nicht erlaubt.  Ausnahmen stellen z.B. Impfstoff-Rezepte dar, welche auf Standardvorbelegung Auswahloptionen möglich? Standardvorbelegung durch die Verordnungssoftware ist grundsätzlich nicht erlaubt. vorgegebenen Optionen (Dosierungsangabe, Dosierungsanweisung und ohne Dosierungsangabe) getroffen werden. Auswahl ermöglicht werden. Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -2457,7 +2519,10 @@ Situation umgegangen werden, wenn dem Patienten bereits ein Medikationsplan bzw.
 |  |  |  |
 | PEI. | Beispiel: Rote Hand Brief zum Rückruf des Adrenalin-Autoinjektors Emerade®: Patienten | sollen Notfallmedikament wegen möglicher Aktivierungsfehler zeitnah austauschen. |
 
-“ zu verstehen? Wenn aufgrund eines Arzneimittelrückrufs oder aufgrund einer von der zuständigen Behörde bekannt gemachten Einschränkung der Verwendbarkeit erneut ein Arzneimittel in der Praxis verordnet werden muss, sieht die gesetzliche Vorgabe vor, dass die erneute Verordnung zu Lasten der gesetzlichen Krankenversicherung zuzahlungsfrei ist, wenn Patienten diese Verordnung in der Apotheke einlösen. Daher betrifft diese Kennzeichnung insbesondere Rezepte zu Lasten der gesetzlichen Krankenversicherung. Dies umfasst auch BtM sowie T-Rezept-Arzneimittel. Verwendbarkeit erfolgt in der Regel über Rote Hand-Briefe des einem separaten Arzneimittelrezept vorzunehmen und wird von der Verordnungssoftware mit dem Aufdruck „Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V“ versehen. Zusätzlich zu dem Aufdruck erfolgt eine automatische Kennzeichnung über das Statusfeld im Personalienfeld. Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V dem T-Rezept-Muster zwischen den beiden Ankreuzfeldern bzgl. der Einhaltung der Sicherheitsbestimmungen bzw. der Aushändigung des medizinischen Informationsmaterials an den/die Patient(in) und dem Vertragsarztstempel zu platzieren siehe die rot markierte Position:
+Seite 24 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+“ zu verstehen? Wenn aufgrund eines Arzneimittelrückrufs oder aufgrund einer von der zuständigen Behörde bekannt gemachten Einschränkung der Verwendbarkeit erneut ein Arzneimittel in der Praxis verordnet werden muss, sieht die gesetzliche Vorgabe vor, dass die erneute Verordnung zu Lasten der gesetzlichen Krankenversicherung zuzahlungsfrei ist, wenn Patienten diese Verordnung in der Apotheke einlösen. Daher betrifft diese Kennzeichnung insbesondere Rezepte zu Lasten der gesetzlichen Krankenversicherung. Dies umfasst auch BtM sowie T-Rezept-Arzneimittel. Verwendbarkeit erfolgt in der Regel über Rote Hand-Briefe des einem separaten Arzneimittelrezept vorzunehmen und wird von der Verordnungssoftware mit dem Aufdruck „Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V“ versehen. Zusätzlich zu dem Aufdruck erfolgt eine automatische Kennzeichnung über das Statusfeld im Personalienfeld. Ersatzverordnung nach § 31 Absatz 3 Satz 7 SGB V dem T-Rezept-Muster zwischen den beiden Ankreuzfeldern bzgl. der Einhaltung der Sicherheitsbestimmungen bzw. der Aushändigung des medizinischen Informationsmaterials an den/die Patient(in) und dem Vertragsarztstempel zu platzieren siehe die rot markierte Position: Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -2572,7 +2637,10 @@ Situation umgegangen werden, wenn dem Patienten bereits ein Medikationsplan bzw.
 |  |  |  |
 |  | P3-630 | Sollte das Feld „ |
 
-“ bei einer Ersatzverordnung automatische angekreuzt werden? wird, da eine Ersatzverordnung zu Lasten der gesetzlichen Krankenversicherung zuzahlungsfrei ist.
+Seite 25 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+“ bei einer Ersatzverordnung automatische angekreuzt werden? wird, da eine Ersatzverordnung zu Lasten der gesetzlichen Krankenversicherung zuzahlungsfrei ist. Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -2686,6 +2754,8 @@ Situation umgegangen werden, wenn dem Patienten bereits ein Medikationsplan bzw.
 | Fortsetzung des Medikamentennamens“. | P3-630 |  |
 | P3-721 | P3-722  Muss bei einer | Können auch |
 | P3-630 |  | P3-721 |
+
+Seite 26 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Freitextverordnungen mit dem Aufdruck versehen werden? Mehrfachverordnung statistisch verwaltet werden? nach § 31 Absatz 3 Satz 7 SGB V“ muss in der ersten Zeile der ersten Verordnungszeile aufgedruckt werden und darf nicht gekürzt werden. Sollte der Platz in dieser Zeile nicht ausreichen, darf ein Zeilenumbruch erfolgen und der Aufdruck zweizeilig in der ersten Verordnungszeile platziert werden. entsprechend der vorgegebenen Reihenfolge im Anforderungskatalog. beschränkt zur Verfügung stehenden Platzes erlaubt, direkt nach dem Text nach § 31 Absatz 3 Satz 7 SGB V“ die Arzneimittelverordnung in derselben Zeile folgen zu lassen.   nach § 31 Absatz 3 Satz 7 SGB V nach § 31 Absatz 3 Satz 7 SGB V Anfang des Medikamentennamens gleicher Wirkstoff oder anderer Wirkstoff derselben Wirkstoffklasse) verordnet werden - auch nicht zwangsläufig das Fertigarzneimittel mit PZN, was zurückgerufen wurde und damit der Ersatzverordnung zugrunde liegt. Ärztinnen und Ärzte können das Rezept mit nach § 31 Absatz 3 Satz 7 SGB V “ versehen und dann z.B. ein Fertigarzneimittel mit PZN aus der AM-Datenbank verordnen oder eine Wirkstoffverordnung tätigen.  Dies kann jedoch nur eine Annährung sein, denn der gesamte Einlösezeitraum (vom Ausstellungsdatum bis maximal ein Jahr nach Ausstellung) kann unter Umständen mehrere Quartale umfassen.
 
@@ -2802,6 +2872,8 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 |  |  |  |
 | P3-710 | Muss die | Ja, die Verordnungssoftware muss eine vollständige Unterstützung der eRezept- Grundlage hierfür ist der §73 Absatz 9 SGB V. Hieraus ergibt sich, dass Vertragsärztinnen |
 
+Seite 27 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
+
 Übermittlung des eRezepts Funktionalitäten sicherstellen. Hierzu zählt insbesondere auch die Übermittlung der in die TI  ermöglichen?  elektronischen Verordnung an den eRezept-Fachdienst der gematik in der TI. und Vertragsärzte für die elektronische Verordnung von Arzneimitteln KBV-zertifizierte Software einsetzen müssen. Die elektronische Verordnung muss dabei den vollständigen Verordnungsprozess umfassen. Bisher war der Abschluss des Verordnungsvorganges in der Regel der Ausdruck des Muster 16. Mit der Einführung des elektronischen Rezeptes ersetzt die Übermittlung des eRezepts an den Fachdienst der TI in der Regel den Ausdruck als Abschluss des Verordnungsvorganges. Umsetzung der Anbindung an die TI vornimmt, sodass den Herstellern der größtmögliche Freiraum gegeben wird, die Anbindung zu realisieren.  apothekenpflichtigen Arzneimitteln  zu Lasten der gesetzlichen Verordnungssituationen  ist die Krankenversicherungen muss eine elektronische Verordnung nach den Vorgaben der Verwendung einer Anlage 23 BMV-Ä in der Kombination mit der Technischen Anlage zur elektronischen elektronischen Arzneimittelverordnung [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] vorgenommen dem 1. Januar 2021 verpflichtend werden.  oder zulässig? Versicherte als Selbstzahler (Privatrezept) oder die elektronische Empfehlung von apothekenpflichtigen Arzneimitteln („Grünes Rezept“) können optional nach diesen Vorgaben vom Hersteller umgesetzt und von dem/der Vertragsärzt/in genutzt werden. perspektivisch explizit eine Verordnung über den Fachdienst der gematik ermöglicht werden. Hierzu wird eine Aktualisierung der technischen Vorgaben  insbesondere im Hinblick auf den Umfang der zu übermittelten Informationen  erfolgen.
 
 ---
@@ -2916,6 +2988,8 @@ K3-722 Aufdruck zur  vorzunehmen? zwingend ein PZN-Bezug Produkt vorliegen? Frei
 | › | P3-710 | Warum dürfen für |
 | Eine Verordnung von nichtapothekenpflichten Produkten aus dem Preis- und | P3-710  Ist eine elektronische Verordnung  Die Arzneimittelverordnung zu Lasten der privaten Krankenversicherer fällt nicht in die | Die technische Spezifikation insbesondere die FHIR-Profile gemäß |
 | P3-710 | Für welche | Unzulässig sind ab 1. Januar 2022 zunächst die folgenden elektronischen Verordnungen:  › |
+
+Seite 28 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 Verordnungssituationen  ist die Verwendung einer dem 1. Januar 2021 ausgeschlossen? Medizinprodukte wie Teststreifen und Verbandmittel zunächst keine elektronischen Verordnungen verwendet werden?  zu Lasten einer Krankenkasse  möglich? BTM-Rezepte T-Rezepte Verordnung von sonstigen nach § 31 SGB V einbezogene Produkte (bspw. Verbandmittel und Teststreifen) Verordnung von Hilfsmitteln Verordnung von Sprechstundenbedarf Verordnungen zu Lasten von Sonstige Kostenträger Verordnungen für GKV-Versicherte ohne Vorhandensein einer Versichertennummer (bei Erfassung der VSD im Ersatzverfahren) Produktverzeichnis, wie bspw. Teststreifen und Verbandstoffen ist durch die Software zu unterbinden. Da diese nichtapothekenpflichten Produkte auch über andere Vertriebswege erhältlich sind wie bspw. Sanitätshäuser, die noch nicht an die TI angeschlossen sind, müssen Patientinnen und Patienten weiterhin die freie Wahl haben, woher sie diese Produkte beziehen möchten. Regelungshoheit der Anlage 23 BMV-Ä. [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] ermöglichen grundsätzlich die Abbildung einer solchen elektronischen Verordnung.
 
@@ -3032,6 +3106,8 @@ Verordnungssituationen  ist die Verwendung einer dem 1. Januar 2021 ausgeschloss
 |  |  |  |
 | P3-710 | Ist eine elektronische Verordnung | Die Arzneimittelverordnung zu Lasten Berufsgenossenschaften / Unfallkassen fällt nicht in  Die technischen Spezifikationen insbesondere die FHIR-Profile gemäß |
 
+Seite 29 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
+
 zu Lasten der Unfallkassen bspw. im Rahmen eines Arbeitsunfalls möglich? möglich? darf derzeit ausschließlich umgesetzt werden für apothekenpflichtige Arzneimittel (Merkmal 010 bzw. 011; ausgenommen Betäubungsmittel und T-Rezept-Arzneimittel), Rezepturen, Wirkstoffverordnungen und Freitextverordnungen. Ist mit einer Ausweitung dieser Funktion zu rechnen? die Regelungshoheit der Anlage 23 BMV-Ä. [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] ermöglichen grundsätzlich die Abbildung einer solchen elektronischen Verordnung.  § 34 Absatz 3 SGB VII über die Durchführung der Heilbehandlung, die Vergütung der Ärzte sowie die Art und Weise der Abrechnungen ärztlicher Leistungen. Regelungshoheit der Anlage 23 BMV-Ä. [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP] ermöglichen grundsätzlich die Abbildung einer solchen elektronischen Verordnung.  Sonstigen Kostenträgern geregelt. Aktuell ist dies ausgeschlossen. z.B. Betäubungsmittel und T-Rezept-Arzneimittel ausgeweitet werden.
 
 ---
@@ -3146,6 +3222,8 @@ zu Lasten der Unfallkassen bspw. im Rahmen eines Arbeitsunfalls möglich? mögli
 | Darf eine Ärztin bzw. ein Arzt bei  Bei der Verordnung aus einer Verordnungssoftware ist eine Änderung der aus den | Sofern ein Anwender dennoch Änderungen an der aus der Verordnungssoftware | P3-720 |
 | Dürfen bei  Der Anforderungskatalog nach § 73 SGB V erstreckt sich nur auf die Verordnung von |  |  |
 | P3-720 | Darf auf dem Rezept der Zusatz | Nach der Vordruckvereinbarung muss diese Angabe sogar erfolgen.   Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die |
+
+Seite 30 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 Verordnung nach § 27a SGB V (zur Erläuterung „Verordnung im Rahmen künstlicher Befruchtung“) erfolgen? Pflichtfunktion des Anforderungskatalogs? Arzneimitteldatenbank von z. B. Fertigarzneimitteln hinsichtlich der Angaben auf dem Rezept vornehmen? Hilfsmitteln Diagnosen  auf das Rezept gedruckt werden? Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen Vorgaben. Gesetzliche und untergesetzliche Regelungen, wie der BMV-Ä, machen unter anderem formale Vorgaben dazu, wie papiergebundene Verordnungen auszustellen sind. Verordnungssoftware muss dem Anwender eine Funktion zur Rezeptbedruckung bereitstellen. Der Anforderungskatalog spezifiziert hierbei lediglich den Aufdruck im Verordnungsfeld. Bestimmungen zu entsprechen. So gilt beispielsweise für die Bedruckung des Personalienfeldes die „Technische Anlage zur Anlage 4a (BMV Ä)“ [ Arzneimittelstammdaten übernommenen Angaben unzulässig. Eine Ärztin oder ein Arzt darf in der Hausapotheke zwar Eigennamen vergeben, allerdings müssen auf dem Rezept die aus den Arzneimittelstammdaten übernommenen Angaben aufgedruckt werden. Es dürfen daher keine Verordnungen ausgestellt werden, bei denen das verordnete Produkt nicht mit der automatisch aufgedruckten PZN übereinstimmt. abgeleiteten Arzneimittelstammdaten auf dem Rezept vornehmen möchte, so sind solche Verordnungen nur in Form einer Freitextverordnung möglich. Die PZN ist in diesem Zusammenhang automatisch aus der Verordnung zu entfernen. Arzneimitteln. Dies bedeutet, dass die Verordnung von Hilfsmitteln durch diesen Anforderungskatalog nicht berührt wird. Nach der Richtlinie über die Verordnung von Hilfsmitteln muss die Diagnose auf das Rezept gedruckt werden.
 
@@ -3262,7 +3340,10 @@ Verordnung nach § 27a SGB V (zur Erläuterung „Verordnung im Rahmen künstlic
 |  |  |  |
 | K3-722 | Darf auf eine | Nein, Wirkstoffverordnungen sind vom PZN-Aufdruck nicht betroffen, da ein Wirkstoff |
 
-gedruckt werden? keine PZN trägt. Eine PZN ist stets einem konkreten Produkt zugeordnet (und beschreibt dieses damit eindeutig) wie z. B. ein Fertigarzneimittel (insbesondere inkl. Herstellerangabe) und widerspricht damit der Intention einer Wirkstoffverordnung. Auch wenn eine Wirkstoffverordnung durch „Übersetzung“ eines Fertigarzneimittels stattfindet, darf die Wirkstoffverordnung auf dem Rezept keine PZN enthalten. Formularauswahl Verordnungsworkflow definiert bzw. ab wann liegt hier eine Unterbrechung vor? ohne eine Unterbrechung bzw. zusätzliche Abfrage.  werden oder eine zusätzliche Abfrage zwischen Muster 16 oder Privat-Rezept ermöglicht werden. dass die Medikamente neu aus einer Auswahlliste selektiert werden müssen.  auch die Implementierung eines grünen Rezepts “ und die Voreinstellung auf ein solches erlaubt? Arzneimitteln, die Patienten selbst bezahlen müssen auch „grünes Rezept“ genannt – eine entsprechende Voreinstellung sind in gewissen Fällen erlaubt.  und Arzneimittel, ohne Merkmal 053) für Jugendliche über 12 Jahre ohne Entwicklungsstörungen und Erwachsene kann alternativ zum Privatrezept auch ein „ Rezept“ voreingestellt und verwendet werden. Die gilt ebenso bei OTX (Merkmal 053), bei denen auch eine Auswahlmöglichkeit zwischen Muster 16 oder gr ünem Rezept“ oder alternativ die Voreinstellung eines „ gr ünen Rezeptes“ möglich ist. grünes gr ünes Rezept“) perspektivisch explizit eine Verordnung über den Fachdienst der gematik ermöglicht werden. Hierzu wird eine Aktualisierung der technischen Vorgaben insbesondere im Hinblick auf den Umfang der zu übermittelten Informationen 731 „Abbildung der Formularauswahl bei einer elektronischen Verordnung“  unter P3-  erfolgen.
+Seite 31 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+gedruckt werden? keine PZN trägt. Eine PZN ist stets einem konkreten Produkt zugeordnet (und beschreibt dieses damit eindeutig) wie z. B. ein Fertigarzneimittel (insbesondere inkl. Herstellerangabe) und widerspricht damit der Intention einer Wirkstoffverordnung. Auch wenn eine Wirkstoffverordnung durch „Übersetzung“ eines Fertigarzneimittels stattfindet, darf die Wirkstoffverordnung auf dem Rezept keine PZN enthalten. Formularauswahl Verordnungsworkflow definiert bzw. ab wann liegt hier eine Unterbrechung vor? ohne eine Unterbrechung bzw. zusätzliche Abfrage.  werden oder eine zusätzliche Abfrage zwischen Muster 16 oder Privat-Rezept ermöglicht werden. dass die Medikamente neu aus einer Auswahlliste selektiert werden müssen.  auch die Implementierung eines grünen Rezepts “ und die Voreinstellung auf ein solches erlaubt? Arzneimitteln, die Patienten selbst bezahlen müssen auch „grünes Rezept“ genannt – eine entsprechende Voreinstellung sind in gewissen Fällen erlaubt.  und Arzneimittel, ohne Merkmal 053) für Jugendliche über 12 Jahre ohne Entwicklungsstörungen und Erwachsene kann alternativ zum Privatrezept auch ein „ Rezept“ voreingestellt und verwendet werden. Die gilt ebenso bei OTX (Merkmal 053), bei denen auch eine Auswahlmöglichkeit zwischen Muster 16 oder gr ünem Rezept“ oder alternativ die Voreinstellung eines „ gr ünen Rezeptes“ möglich ist. grünes gr ünes Rezept“) perspektivisch explizit eine Verordnung über den Fachdienst der gematik ermöglicht werden. Hierzu wird eine Aktualisierung der technischen Vorgaben insbesondere im Hinblick auf den Umfang der zu übermittelten Informationen 731 „Abbildung der Formularauswahl bei einer elektronischen Verordnung“  unter P3-  erfolgen.  Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -3376,6 +3457,8 @@ gedruckt werden? keine PZN trägt. Eine PZN ist stets einem konkreten Produkt zu
 | P3-270 | Muss das PDF-Dokument in der | Mit der Einführung des AIS (Arztinformationssystem) müssen die PDF-Dokumente der |
 | P3-721 | Welche | Folgende Abgabehinweise müssen für den Patienten auf dem Rezept enthalten sein. Sie  Abgabehinweise können aber auch an die Apotheke gerichtet sein |
 | P3-730 | Falls das AMV- | Sollte das AMV-Verordnungsmodul die Verordnung von Hilfsmitteln aus der AMV- |
+
+Seite 32 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
 
 unterstützt: Was muss bei der den AMV-Datenbanken beachtet werden?  Statistik-Funktionen umzusetzen? Software zusätzlich zu der maschinenlesbaren Fassung des G-BA zur Verfügung stellen? Rezept, die nicht eine Dosierung im eigentlichen Sinne darstellen, enthalten sein? Datenbank (Merkmal gemäß IFA-Daten) unterstützen, sollte folgendes beachtet werden.  Versicherten standardmäßig papiergebunden auf Muster 16.  gemäß P3-720 beachten und sollte automatisch das Hilfsmittel-Kennzeichen des Musters 16 ankreuzen/belegen.  mindestens eine der beiden Statistik-Funktionen umzusetzen ist. Sprich ist der Export von Verordnungsdaten nach K4-150 nicht umgesetzt, dann muss die Erstellung von Statistiken nach K4-200 implementiert sein, oder umgekehrt. Die Umsetzung beider Statistik- Funktionen ist möglich. frühen Nutzenbewertung nicht mehr in der Software hinterlegt werden.  stellen keine Dosierung im eigentlichen Sinne dar: Hinweise zur richtigen Aufbewahrung  Hinweise zur Zubereitung oder Vorbereitung des Arzneimittels für die Anwendung Hinweise, die die Anwendung oder Wirkung auf der Haut betreffen Hinweise zur optimalen Einnahme Hinweise auf systemische unerwünschte Wirkungen Hinweise, wie viel Zeit bis zum Wirkungseintritt vergeht  z.B. zur notwendigen Teilbarkeit.
 
@@ -3492,7 +3575,10 @@ unterstützt: Was muss bei der den AMV-Datenbanken beachtet werden?  Statistik-F
 |  |  |  |
 | P3-141 | Müssen ausnahmslos alle Rote- | Es ist ausreichend, alle Rote-Hand-Briefe, die nach dem 01.04.2023 veröffentlicht wurden,  Die Anforderung (1) in P3- |
 
-Hand-Briefe ohne zeitliche Eingrenzung im Archiv gemäß P3- 141 gelistet werden? im Archiv gemäß P3-141 zu listen. Alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, müssen nicht zwingend im Archiv gelistet werden. Eine zusätzliche Listung dieser älteren Rote-Hand-Briefe ist jedoch optional möglich.  141 (1) „Die Vertragsärztin bzw. der Vertragsarzt muss in der Verordnungssoftware die Möglichkeit haben, sich alle Rote-Hand-Briefe nach EAMIV (Archivierte sowie Aktuelle) anzeigen zu lassen“ ist daher ohne zeitliche Eingrenzung d es Veröffentlichungsdatums der Rote-Hand-Briefe nicht zu berücksichtigen und wird im Rahmen der nächsten Überarbeitung des Dokumentes durch Konkretisierung des Datums (alle Rote-Hand-Briefe, die ab dem 01.04.2023 veröffentlicht wurden) korrigiert.
+Seite 33 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Hand-Briefe ohne zeitliche Eingrenzung im Archiv gemäß P3- 141 gelistet werden? im Archiv gemäß P3-141 zu listen. Alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, müssen nicht zwingend im Archiv gelistet werden. Eine zusätzliche Listung dieser älteren Rote-Hand-Briefe ist jedoch optional möglich.  141 (1) „Die Vertragsärztin bzw. der Vertragsarzt muss in der Verordnungssoftware die Möglichkeit haben, sich alle Rote-Hand-Briefe nach EAMIV (Archivierte sowie Aktuelle) anzeigen zu lassen“ ist daher ohne zeitliche Eingrenzung d es Veröffentlichungsdatums der Rote-Hand-Briefe nicht zu berücksichtigen und wird im Rahmen der nächsten Überarbeitung des Dokumentes durch Konkretisierung des Datums (alle Rote-Hand-Briefe, die ab dem 01.04.2023 veröffentlicht wurden) korrigiert.  Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -3502,21 +3588,46 @@ Die im Folgenden dargestellten beispielhaften Abläufe der Anzeige der Beschlüs
 
 Die Abläufe sind **nicht** als feste Vorgabe zur Umsetzung zu verstehen.
 
+Seite 34 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Version: 5.13 / 13. Mai 2026
+
+
 ---
 
 ## GESAMTPROZESS: ANZEIGE VON BESCHLÜSSEN NACH § 35A SGB V
+
+Seite 35 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Version: 5.13 / 13. Mai 2026
+
 
 ---
 
 ## TEILPROZESS: MANUELLE ANZEIGE DER BESCHLUSSÜBERSICHT
 
+Seite 36 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Version: 5.13 / 13. Mai 2026
+
+
 ---
 
 ## TEILPROZESS: AUTOMATISCHE ANZEIGE VON NEUEN BESCHLÜSSEN
 
+Seite 37 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Version: 5.13 / 13. Mai 2026
+
+
 ---
 
 ## TEILPROZESS: ANZEIGE DER INHALTE EINES BESCHLUSSES
+
+Seite 38 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /
+
+Version: 5.13 / 13. Mai 2026
+
 
 ---
 
@@ -3534,4 +3645,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Verordnungssoftware Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 39 von 39 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 SGB V für Verordnungssoftware /  Version: 5.13 / 13. Mai 2026
+
+Verordnungssoftware

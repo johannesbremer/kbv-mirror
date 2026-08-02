@@ -16,6 +16,8 @@ Bitte geben Sie an, ob die Überweisung zur kurativen Versorgung, zur Präventio
 
 Wenn die Behandlung als Folge eines Unfalls erforderlich wird, kann die Krankenkasse ggf.  Schadensersatzansprüche geltend machen.
 
+Seite 1 von 3 / KBV /Elektronische Ausfüllhilfe Muster 6 / Mai 2019
+
 \|  |
 \|---|
 
@@ -66,6 +68,8 @@ Wenn Ihnen bekannt ist, dass der Patient wegen Rückständen bei den Mitgliedsbe
 
 ## 12. DIAGNOSE/VERDACHTSDIAGNOSE - BEFUND/MEDIKATION - AUFTRAG
 
+Seite 2 von 3 / KBV /Elektronische Ausfüllhilfe Muster 6 / Mai 2019
+
 
 ---
 
@@ -78,3 +82,5 @@ eben Sie bitte Informationen
 ## MEHR INFORMATIONEN
 
 Erläuterungen zur Vereinbarung über Vordrucke für die vertragsärztliche Versorgung (PDF, 550 KB):  [www.kbv.de/media/sp/02_Erlaeuterungen.pdf](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)[](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)
+
+Seite 3 von 3 / KBV /Elektronische Ausfüllhilfe Muster 6 / Mai 2019

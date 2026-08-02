@@ -16,6 +16,14 @@
 
 # SOLL
 
+# IST
+
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+SEITE 2
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -41,6 +49,12 @@
 
 ## - ZEITPLAN GEMATIK
 
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+SEITE 3
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -60,6 +74,12 @@
 
 - insbesondere von Aufgaben des Patienten
 - **LESSONS LEARNED FRÜHERE DIGITALISIERUNGSPROJEKTE**
+
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+SEITE 4
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -84,11 +104,23 @@
 
 - **DIGITALISIERUNGSPROJEKT EHKP**
 
-## › Geeinte Darstellung Ist-Prozess
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
+# Vorgehensweise
+
+## › KBV: Vorbereitende Prozessanalyse
+
+## › Abstimmung mit GKV-SV, Pflegeverbände,  DGUV, PKV
+
+## › Abstimmungsrunde gematik › Geeinte Darstellung Ist-Prozess
 
 ## › Einigung über digitalen Soll-Prozess
 
-## › Informationsmodell › Soll-Prozess › Datensätze
+## › Ergebnisse › Informationsmodell › Soll-Prozess › Datensätze
+
+SEITE 5
 
 
 ---
@@ -116,6 +148,12 @@
 ## - Quelle: HKP-Richtlinie
 
 - **DIGITALISIERUNGSPROJEKT EHKP**
+
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+SEITE 6
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -151,7 +189,9 @@
 
 ## - Einreichen bei Kostenträger
 
-Digitaler Soll- Prozess (vereinfacht)  - **DIGITALISIERUNGSPROJEKT EHKP**
+- **DIGITALISIERUNGSPROJEKT EHKP**
+
+Digitaler Soll- Prozess (vereinfacht) DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 7
 
 
 ---
@@ -161,7 +201,11 @@ Digitaler Soll- Prozess (vereinfacht)  - **DIGITALISIERUNGSPROJEKT EHKP**
 | **DIGITALISIERUNGSPROJEKTE** | **-** | **BEISPIEL EHKP** |
 | 31. ANBIETERMEETING | DER KBV | AM 18. SEPTEMBER 2025 |
 
-Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
+- **DIGITALISIERUNGSPROJEKT EHKP**
+
+Quelle: gematik GmbH
+
+Statusmodell (vorläufig) DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025SEITE 8
 
 
 ---
@@ -183,6 +227,12 @@ Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
 ## - Datensatz des Pflegedienstes zur Leistungserbringung
 
 - **DATENSÄTZE**
+
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+SEITE 9
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---
@@ -210,6 +260,12 @@ Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
 
 - **DATENSÄTZE**
 
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+SEITE 10
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -225,12 +281,26 @@ Statusmodell (vorläufig)  - **DIGITALISIERUNGSPROJEKT EHKP**
 
 - **WEITERES VORGEHEN**
 
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+SEITE 11
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+
 
 ---
 
 ## Zeitplan gematik
 
 - **WEITERES VORGEHEN**
+
+Quelle: gematik GmbH [https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf](https://fachportal.gematik.de/fileadmin/Fachportal/Hersteller___Anbieter/Roadmap/Q3/OneRoadmap_20250801.pdf)
+
+**DIGITALISIERUNGSPROJEKTE - BEISPIEL EHKP**
+
+31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025 (gekürzt)
+
+SEITE 12
 
 
 ---

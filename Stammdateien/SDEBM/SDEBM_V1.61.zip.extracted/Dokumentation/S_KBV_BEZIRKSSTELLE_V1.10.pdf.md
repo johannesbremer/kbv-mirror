@@ -177,7 +177,7 @@ Aachen
 |---|---|
 | 69 | Niederbayern |
 
-3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+Seite 2 von 3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
 
 **Bezeichnung**
 
@@ -298,7 +298,7 @@ Unterfranken
 |---|---|
 | 98 | Sachsen |
 
-3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
+Seite 3 von 3 / KBV / SCHLÜSSELTABELLE - S_KBV_BEZIRKSSTELLE
 
 **Bezeichnung**
 

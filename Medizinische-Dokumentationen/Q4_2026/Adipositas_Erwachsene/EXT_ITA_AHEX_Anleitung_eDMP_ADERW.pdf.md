@@ -4,6 +4,8 @@ Stand der letzten Bearbeitung: 30.05.2025
 
 Version 1.0
 
+Ausfüllanleitung DMP Adipositas Erwachsene Version 1.0 Stand der Bearbeitung 30.05.2025 1
+
 
 ---
 
@@ -34,6 +36,8 @@ Sollten Sie mit Ihrer Patientin oder Ihrem Patienten kein Ziel zur regelmäßige
 #### letzten Dokumentation
 
 Eine Angabe zu diesem Feld zur regelmäßigen körperlichen Alltagsaktivität und zum körperlichen Training  bezieht sich hier ausschließlich rückblickend auf den Zeitraum seit der letzten Dokumentation und ist daher nur  im Rahmen einer **Folgedokumentation** möglich und hier verpflichtend.
+
+Ausfüllanleitung DMP Adipositas Erwachsene Version 1.0 Stand der Bearbeitung 30.05.2025 2
 
 
 ---
@@ -76,6 +80,8 @@ Bei einer Folgedokumentation ist hier keine Angabe möglich.
 
 Gemeinsam mit Ihrer Patientin oder Ihrem Patienten sollen Sie individuelle Ziele zur Ernährungsumstellung  vereinbaren. Dabei soll über die Bedeutung einer adäquaten Ernährungsumstellung, sowohl im Hinblick auf  eine Gewichtsreduktion als auch auf positive metabolische und kardiovaskuläre Effekte, informiert werden.
 
+Ausfüllanleitung DMP Adipositas Erwachsene Version 1.0 Stand der Bearbeitung 30.05.2025 3
+
 
 ---
 
@@ -117,6 +123,8 @@ Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihren Patienten ein P
 
 Sollte bei Ihrer Patientin oder Ihrem Patienten kein Prädiabetes vorliegen, geben Sie bitte die Antwort „Nein“  an.
 
+Ausfüllanleitung DMP Adipositas Erwachsene Version 1.0 Stand der Bearbeitung 30.05.2025 4
+
 
 ---
 
@@ -154,6 +162,8 @@ Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokument
 
 **Bitte beachten Sie:** Diese Angabe kann bei wiederholter Angabe zum Ausschluss Ihrer Patientin oder Ihres  Patienten aus dem Programm führen!
 
+Ausfüllanleitung DMP Adipositas Erwachsene Version 1.0 Stand der Bearbeitung 30.05.2025 5
+
 
 ---
 
@@ -186,3 +196,5 @@ Bitte überprüfen Sie **regelmäßig**, ob **Ihre Patientin oder Ihr Patient we
 **Wenn Sie hier die Antwort „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme**  **(Ausschreibung!) durch die Krankenkasse mit dem Erstelldatum dieser Dokumentation.** **Bitte beachten**  **Sie, dass DMP-spezifische Leistungen, die nach dem Erstelldatum erbracht werden, daher nicht mehr**  **vergütet werden.**
 
 Eine erneute Teilnahme ist bei Vorliegen der Einschlusskriterien möglich.
+
+Ausfüllanleitung DMP Adipositas Erwachsene Version 1.0 Stand der Bearbeitung 30.05.2025 6

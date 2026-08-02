@@ -14,6 +14,8 @@
 
 ## [KBV_ITA_FMEX_AAZ_SST_370A_ABS2]
 
+Seite 1 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / 15. April 2026
+
 ---
 
 # ANTRAG AUF ZERTIFIZIERUNG
@@ -44,6 +46,8 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 | **Telefonnummer** |  | | |
 | **E-Mail-Adresse** |  | | |
 
+Seite 2 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026
+
 Rechtsform anzugeben] Systempfleger vom Antragssteller abweicht] [x] [x] [x]
 
 ---
@@ -67,6 +71,10 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 |---|---|
 | **Bezeichnung (Name der Software)** |  |
 | **Identnummer [die letzten drei** |  |
+
+Antragssteller:
+
+Seite 3 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026
 
 Antragsstellers Stellen der Prüfnummer, falls vorhanden] 
 
@@ -96,9 +104,16 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
 
+Antragssteller:
+
+Seite 4 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026
+
 gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [ Prüfnummer wird nur bei vollständiger Erfüllung vergeben. Telemedizinische Leistungen  wurden umgesetzt. Behandlungstermin wurden umgesetzt. REALISIERUNG VON ANFORDERUNGEN ANFORDERUNGSDOKUMENTE 2.2 REALISIERTE OPTIONALE FUNKTIONEN Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der Schnittstelle gemäß § 370A Abs.2 SGB V (unter https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD% 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c ) realisiert. 2.2.1 Telemedizinische Leistungen Folgende optionale Erweiterungen wurden zur Funktion Telemedizinische Leistungen umgesetzt:  start  ende postleitzahl leistungsmerkmal
 
+
 ---
+
+Antragssteller:
 
 \|  |  |
 |  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
@@ -122,8 +137,9 @@ Folgende optionale Erweiterungen wurden zur Funktion Behandlungstermin umgesetzt
 | ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search) - Suchparameter |
 | ☐ | Präsenztermine abrufen (Attendance Appointment Slot Search) - Suchparameter |
 
-suchradius leistungsmerkmal  suchradius
+Seite 5 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026
 
+suchradius leistungsmerkmal  suchradius
 
 ---
 
@@ -155,10 +171,18 @@ Ansprechpartner(in): Produktmanagement
 
 **E-Mail-Adresse**
 
+________________
+
 Diese Information ist verpflichtend anzugeben
+
+Seite 6 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026
+
+Antragssteller:
 
 
 ---
+
+Antragssteller:
 
 # 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
@@ -183,8 +207,11 @@ Diese Information ist verpflichtend anzugeben
 - (4) Von der Anzeigepflicht ausgenommen sind alle Anpassungen, die sich aufgrund der turnusmäßigen  und in der Regel quartalsweise vorgegebenen Änderungsanforderungen der KBV ergeben.
 - **III.** **Update und weitere Vereinbarungen**
 - (1) Ein Anwenderhandbuch wurde erstellt und kann der KBV auf Anforderung kurzfristig (innerhalb 2  Wochen) zur Verfügung gestellt werden.
+- (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
 
-zum Zertifizierungsportal falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung - (2) Der Zertifizierungsgegenstand darf keine Applikationen enthalten, die vertragsärztlichen  Abrechnungsbestimmungen zu umgehen.
+Seite 7 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026
+
+zum Zertifizierungsportal falls nicht vorhanden Erweiterungszertifizierung  Rezertifizierung Erweiterungszertifizierung pro Sichtprüfungstermin Rezertifizierung 
 
 
 ---
@@ -213,3 +240,7 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Antragssteller:
+
+Seite 8 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026

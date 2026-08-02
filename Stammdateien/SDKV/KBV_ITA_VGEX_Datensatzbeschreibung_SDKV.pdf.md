@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-(KV-- Spezifika Stammdatei) 3.56 Datum: 18.01.2021 Kennzeichnung: Öffentlich Status: In Kraft
+(KV-- Spezifika Stammdatei) 3.56 Datum: 18.01.2021 Kennzeichnung: Öffentlich Status: In Kraft© Kassenärztliche Bundesvereinigung, Berlin 2021
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
 
 Dokumentenhistorie
 
@@ -23,9 +26,16 @@ Die Änderungen vom 18.01.2021 treten zum 01.04.2021 in Kraft.
 |---|---|---|---|---|---|
 | 3.56 | 18.01.2021 | KBV | • • • | - | 15  22  32 |
 
-Anpassung der Feldinhalte des Feldes FK 2018 an die Werte der Schlüsseltabelle S_KTS_KTGRUPPE (OID: 1.2.276.0.76.5.240) Regel 186: angepasst Erläuterung zur Satzart „kvx7: Beispiel entfallen
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Anpassung der Feldinhalte des Feldes FK 2018 an die Werte der Schlüsseltabelle S_KTS_KTGRUPPE (OID: 1.2.276.0.76.5.240) Regel 186: angepasst Erläuterung zur Satzart „kvx7: Beispiel entfallen Seite 2 33 von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--Spezifika Stammdatei)
 
 INHALTSVERZEICHNIS
 
@@ -89,6 +99,10 @@ INHALTSVERZEICHNIS
 
 **5.2** **Erläuterung zur Satzart “kvx1” .................................................................................................. 26**
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Seite 3 33 von
+
 
 ---
 
@@ -107,6 +121,14 @@ INHALTSVERZEICHNIS
 **5.8** **Erläuterung zur Satzart “kvx7” .................................................................................................. 32**
 
 **5.9** **Erläuterung zur Satzart Kommentierung / Zusatzinformation “kvx8“ ................................... 33**
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 4 33 von
 
 
 ---
@@ -136,6 +158,15 @@ die entsprechenden KV-Spezifika eindeutig und korrekt umgesetzt werden.
 
 Die KV--Spezifika Stammdateien der einzelnen KV´en werden im Rahmen der quartalsweisen  Regelupdates der KBV veröffentlicht.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 5 33 von
+
+
 ---
 
 ## 1.2 Aufbau einer KV-Spezifika-Datei
@@ -161,6 +192,15 @@ Ein **Satz** ist unterteilt in **Felder**. Ein **Feld** ist die kleinste Einheit
 -  der Feldkennung (FK) (4 Bytes)
 -  dem eigentlichen Feldinhalt (variabel)
 -  der Feldendemarkierung (CR, LF) (2 Bytes)
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 6 33 von
+
 
 ---
 
@@ -189,6 +229,14 @@ Beispiel:
 ## 1.4 ADT-Referenzversion
 
 Diese KV--Spezifika Datei ist nur einsetzbar in Verbindung mit der aktuellen ADT-. Version
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 7 33 von
 
 
 ---
@@ -223,7 +271,18 @@ Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei Bedi
 
 Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Spalte  *Bedingungen*) oder an das Auftreten eines referenzierten Feldes auf einer übergeordneten  Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes Kannfeld darf in einem Satz  vorhanden sein, wenn entweder in der Spalte *Bedingung* ein Eintrag vorhanden und erfüllt ist  oder das auf der übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*) referenzierte Feld  existiert.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 8 33 von
+
+
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDKV (KV--
 
 **2.1 Definition der Satzart: SDKV-Headersatz “kvx0”**
 
@@ -250,10 +309,16 @@ Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s. Sp
 | 8000 | 1 | Satzart | M |  | SDKV-Endesatz |
 | 9219 | 1 | Version SDKV-Pflegeprogramm | M |  | nur für KBV-interne |
 
-Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese Datei erstellt wurde 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese Datei erstellt wurde Seite 9 33 von
 
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDKV (KV--
 
 **2.3 Definition der Satzart: Handhabungshinweise “kvx1”**
 
@@ -276,10 +341,16 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 | 4239 | n | Scheinuntergruppe | M |  |  |
 | 4122 |  | Abrechnungsgebiet | m |  |  |
 
-2 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen "Übertragung Pseudo-GNR" Handhabungshinweise Übertragung einer Pseudo-GNR zur FK 5012 jeweiligen Pseudo-GNR (KTAB) Feldinhalte” 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+2 3 Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen "Übertragung Pseudo-GNR" Handhabungshinweise Übertragung einer Pseudo-GNR zur FK 5012 jeweiligen Pseudo-GNR (KTAB) Feldinhalte” Seite 10 33von
 
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDKV (KV--
 
 **2.5 Definition der Satzart: SKT-Abrechnungs-Zusatzangaben**  **“kvx3”**
 
@@ -318,10 +389,18 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 2 Satz “kvx3” ist ein “Kann Satz”, vgl. Kapitel 5.4.
 
-(KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie) “4124” (SKT-Zusatzangaben) Abrechnungsinformation SKT Feld “3108” Abrechnungs- Zusatzangaben ## 2
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+## 2
+
+(KTAB) Werte in Feld “4123” (Personenkreis/ Untersuchungskategorie) “4124” (SKT-Zusatzangaben) Abrechnungsinformation SKT Feld “3108” Abrechnungs- Zusatzangaben Seite 11 33von
 
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDKV (KV--
 
 | 9460 | K | 9461 | m | 4239 | m |
 |---|---|---|---|---|---|
@@ -343,7 +422,13 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 | 4239 | n | Scheinuntergruppe | M |  |  |
 | 9451 |  | Text für Scheinuntergruppe | m |  |  |
 
-2.7 Definition der Satzart: Scheinabgabe “kvx5” 8000 9408 5001 Satzart Abgabe von Früherkennungsdokumenten GNR Betriebsstättennummernkontingent von ... Betriebsstättennummernkontingent bis ... Liste aller Überweisungsscheine  Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Satzart 3 Satz “kvx5” ist ein “Kann Satz”.
+3 Satz “kvx5” ist ein “Kann Satz”.
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+2.7 Definition der Satzart: Scheinabgabe “kvx5” 8000 9408 5001 Satzart Abgabe von Früherkennungsdokumenten GNR Betriebsstättennummernkontingent von ... Betriebsstättennummernkontingent bis ... Liste aller Überweisungsscheine  Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Satzart Seite 12 33von
 
 | FK | Vorkommen | Bezeichnung | Feldart | Bedingung | Erläuterung |
 |---|---|---|---|---|---|
@@ -369,6 +454,8 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
 
 **2.8 Definition der Satzart: Klammerung “kvx6”**
 
@@ -405,7 +492,15 @@ Datei Datei gültig 3 Zwecke: Versionsnummer des SDKV-- programms, mit der diese
 
 4 Satz “kvx8” ist ein Kann Satz, vgl. Kap. 5.9
 
-## Satzart: Kommentierung / Zusatzinformation 2 3 3 ## “kvx7”
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+## Satzart: Kommentierung / Zusatzinformation
+
+## “kvx7”
+
+2 3 3 Seite 13 33von
 
 
 ---
@@ -428,7 +523,18 @@ In der Spalte *Länge des Feldinhaltes* wird festgelegt, aus wie vielen Zeichen 
 
 Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglicher Feldinhalt  aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten  Zusammenhang.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 14 33von
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
 
 **3.1 Feldtabelle KV-Spezifika-Stammdatei**
 
@@ -496,9 +602,16 @@ Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglic
 | Abrechnungsart | 1 | n | 106 | 1 = PKA (Primärkassen) | 2 = EKK (Ersatzkassen)  3 = SKT (Sonstige Kostenträger) | 1 |
 | 4121 | Gebührenordnung | 1 | n | 106 | 1 = BMÄ  2 = E-GO | 3 = GOÄ |
 
-452 457 Ortskrankenkasse (AOK) Krankenkasse (LKK) (BKK) Primärkasse KBS Knappschaft Bahn See) (VdEK) Kostenträger (AUS) (SHT) / Asylstelle (AS) Bundesgrenzschutz (BGS) Feuerwehr (FW)/ Justizvollzugsanstalt (JVA) Gesundheitsämter(GSA) Dienst der Krankenkassen (MDK) Postbeamtenkrankenkasse, Mitglieder A (PBA Abrechnungsbereich (KTAB) 440 452 457 441 442 Postbeamtenkrankenkasse, Dienstunfall (PBD Jugendarbeitsschutzuntersuchung (JAS) gesetzlichen Unfallversicherer (UV)
+Spezifika Stammdatei)
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+452 457 Ortskrankenkasse (AOK) Krankenkasse (LKK) (BKK) Primärkasse KBS Knappschaft Bahn See) (VdEK) Kostenträger (AUS) (SHT) / Asylstelle (AS) Bundesgrenzschutz (BGS) Feuerwehr (FW)/ Justizvollzugsanstalt (JVA) Gesundheitsämter(GSA) Dienst der Krankenkassen (MDK) Postbeamtenkrankenkasse, Mitglieder A (PBA Abrechnungsbereich (KTAB) 440 452 457 441 442 Postbeamtenkrankenkasse, Dienstunfall (PBD Jugendarbeitsschutzuntersuchung (JAS) gesetzlichen Unfallversicherer (UV) Seite 15 33von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV
 
 |  |  |  |  |  |  | 4122 |
 |---|---|---|---|---|---|---|
@@ -564,9 +677,18 @@ Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglic
 |  | a | 042 |  |  | 8000  Satzart | 4 |
 | a | 103 |  | kvx0 | 9103 | Erstellungsdatum  8 | d |
 
-443 (Defaultwert)  ermächtigte Krankenhausärzte Krankenhausärzte 444 ambulanten Grundsätzen Laboratoriumsuntersuchungen als Laboratoriumsuntersuchungen bei Laborgemeinschaften Zeichensatz 452  belegärztlicher Behandlung
+Spezifika Stammdatei)
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV
+
+* Version 3.56
+
+443 (Defaultwert)  ermächtigte Krankenhausärzte Krankenhausärzte 444 ambulanten Grundsätzen Laboratoriumsuntersuchungen als Laboratoriumsuntersuchungen bei Laborgemeinschaften Zeichensatz 452  belegärztlicher Behandlung Seite 16 33von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
 
 |  |  |  |  |  |  | 9113 |
 |---|---|---|---|---|---|---|
@@ -632,9 +754,16 @@ Zum besseren Verständnis ist zu jedem Feld in der Spalte *Beispiel* ein möglic
 | separate Datenpakete | 1 | n | 456 | 525 | 1 = ADT-Datenpaket  3 = Kurärztliches Abrechnungs-Datenpaket | 6 = SADT-Datenpaket |
 | 1 | 9139 | abweichende | 2 | n | 166  20 = KV Westfalen-Lippe | 20 |
 
-Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfangende KV Satzbeschreibung  Pflegeprogramm “Tagtrennung” GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss vorgenommen werden GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss nicht vorgenommen werden : Darüber hinaus gilt grundsätzlich, dass für weitere Arzt-Patientenkontakte an demselben Behandlungstag die Angabe einer Uhrzeit (FK 5006) zur jeweils ersten GNR erfolgen muss
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfangende KV Satzbeschreibung  Pflegeprogramm “Tagtrennung” GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss vorgenommen werden GNR des ersten Arzt-Patientenkontaktes an demselben Behandlungstag muss nicht vorgenommen werden : Darüber hinaus gilt grundsätzlich, dass für weitere Arzt-Patientenkontakte an demselben Behandlungstag die Angabe einer Uhrzeit (FK 5006) zur jeweils ersten GNR erfolgen muss Seite 17 33von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
 
 |  |  |  |  |  |  | 9401 |
 |---|---|---|---|---|---|---|
@@ -700,9 +829,16 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 9 = Schule/Universität/Kindergarten | 10 = Personalnummer der Dienststelle | 1 | 9404 | zusätzlich | 1  n | 453 |
 | 526 | 1 = Gültigkeitszeitraum unter FK 4125 erforderlich | 4 = Bemerkung der Entschädigungsbehörde unter |  | 1 |  |  |
 
-“Übertragung Doppelkilometer bzw. Wegepauschale nach E-GO” bei Ersatzkassen erforderliche, zulässige Werte in Feld “4123” (Personenkreis/ Untersuchungskate- gorie) Zusatzangabe in Feld “4124” (SKT- Zusatzangaben)  Abrechnungsinformati on SKT “010x”, Ausnahme: falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  8000 = 0104), dann auch Wegepauschale zulässig Notfalldienst, dann tatsächlich gefahrene DKM ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!) FK 4126 erforderlich
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+“Übertragung Doppelkilometer bzw. Wegepauschale nach E-GO” bei Ersatzkassen erforderliche, zulässige Werte in Feld “4123” (Personenkreis/ Untersuchungskate- gorie) Zusatzangabe in Feld “4124” (SKT- Zusatzangaben)  Abrechnungsinformati on SKT “010x”, Ausnahme: falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  8000 = 0104), dann auch Wegepauschale zulässig Notfalldienst, dann tatsächlich gefahrene DKM ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!) FK 4126 erforderlich Seite 18 33von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
 
 |  |  |  |  |  |  | 9405 |
 |---|---|---|---|---|---|---|
@@ -768,9 +904,16 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 8 = DKM (lt. Wegegeldliste der KV), | 9 = Wegepauschale, | 10 = KV-interne GNR unter FK 5001; Angabe der | 2 | 9410 | Pseudo-GNR  5,6 |  |
 |  | a | 042 |  |  | 9411  Erläuterung | ≤ |
 
-"Übertragung Pseudo- GNR" Satzarten “010x” Versichertenarten in Feld “3108” Früherkennungsdoku menten “Übertragung Doppelkilometer bzw. Wegepauschale nach BMĔ bei Primärkassen  60 zur Pseudo-GNR Scheinuntergruppe GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) eine Pseudo- GNR für Kosten vorangehen. GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) keine Pseudo-GNR für Kosten vorangehen. : Darüber hinaus gilt: Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so muss  dem Feld “Sachkosten/Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen, wenn nicht eine abweichende Regelung zur Pseudo-GNR unter den Feldkennungen 9410/9411 definiert ist. (vgl. auch P2-610 (2) a, Anforderungskatalog KVDT) “010x”, Ausnahme : falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  Ausnahme : bei “Notfallpatienten” (SA 8000 = 0104), dann auch Wegepauschale Ausnahme : ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!)
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+"Übertragung Pseudo- GNR" Satzarten “010x” Versichertenarten in Feld “3108” Früherkennungsdoku menten “Übertragung Doppelkilometer bzw. Wegepauschale nach BMĔ bei Primärkassen  60 zur Pseudo-GNR Scheinuntergruppe GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) eine Pseudo- GNR für Kosten vorangehen. GNR (FK 5001), muss  dem Feld “Sachkosten/ Materialkosten in Cent” (FK 5012) keine Pseudo-GNR für Kosten vorangehen. : Darüber hinaus gilt: Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), so muss  dem Feld “Sachkosten/Materialkosten in Cent” (FK 5012) die Pseudo-GNR “88999” vorangehen, wenn nicht eine abweichende Regelung zur Pseudo-GNR unter den Feldkennungen 9410/9411 definiert ist. (vgl. auch P2-610 (2) a, Anforderungskatalog KVDT) “010x”, Ausnahme : falls bei einzelnen Besuchen der Besuchsort und somit die Entfernung von dieser Zonenangabe abweicht, so ist die zutreffende Wegepauschale hinter dem entsprechenden Besuch zu erfassen Keine  Angabe, sondern Vorlage einer “handschriftlichen” Wegegeldliste bei der KV  Ausnahme : bei “Notfallpatienten” (SA 8000 = 0104), dann auch Wegepauschale Ausnahme : ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme ärztlicher Notfalldienst, dann tatsächlich gefahrene DKM Ausnahme: im organisierten Notfalldienst  ab einer Entfernung von 0,5 Kilometern Angabe von  DKM. Anmerkung: der organisierte Notfalldienst kann bei den Satzarten 0101, 0102 und 0104 abgerechnet werden. Doppelkilometer (DKM) als Multiplikator unter FK 5005. (Die Feldkennung 5008 wird im Zusammenhang mit DKM hier nicht verwendet!) Seite 19 33von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--Spezifika Stammdatei)
 
 |  |  |  |  |  |  | 9452 |
 |---|---|---|---|---|---|---|
@@ -836,9 +979,14 @@ Datenpakete einer KVDT-Datei Abgabequartal Abgabequartal  einer KVDT-Datei empfa
 | 1 = Gehört zur nachgestellten Scheingruppe | 0 | 9458 | Festlegung der | 1 | n  106 | 445 |
 | 1 = LQ_VQAZ | 2 = VQAZ_LQ | 3 = LQ_VQZA= VQZA_LQ |  | wobei | LQ = Laufendes Quartal  VQ = Vorquartal | ZA = Abfallend |
 
-Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenordnung im Rahmen der Sortierung Abrechnungsgebietes im Rahmen der Sortierung Scheinuntergruppe im Rahmen der Sortierung  Quartalsreihenfolge ernkontingent von ... ernkontingent bis ... der Klammergruppe eingelesen wurde bei defekter Versichertenkarte (Ersatzverfahren) bei manueller Übernahme der Daten von einem Überweisungsschein, bei Kostenträger, die keine Versichertenkarte ausgeben. Alle anderen Werte bezeichnen die Reihenfolge in der Klammerung.
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenordnung im Rahmen der Sortierung Abrechnungsgebietes im Rahmen der Sortierung Scheinuntergruppe im Rahmen der Sortierung  Quartalsreihenfolge ernkontingent von ... ernkontingent bis ... der Klammergruppe eingelesen wurde bei defekter Versichertenkarte (Ersatzverfahren) bei manueller Übernahme der Daten von einem Überweisungsschein, bei Kostenträger, die keine Versichertenkarte ausgeben. Alle anderen Werte bezeichnen die Reihenfolge in der Klammerung. Seite 20 33von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
 
 |  |  |  |  |  |  | 9468 |
 |---|---|---|---|---|---|---|
@@ -904,9 +1052,16 @@ Sortierkriterien Sortierung Abrechnungsart im Rahmen der Sortierung Gebührenord
 | 9474 | Listensteuerung 2: | 1 | n | 147 | 0 = nein  1 = ja |  |
 | 9480 | Trenne | 1 | n | 147 | 0 = nein  1 = ja |  |
 
-Scheine Überweisungsärzte von ... bis ... Liste aller Überweisungsscheine Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Abrechnungsgebiet
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Scheine Überweisungsärzte von ... bis ... Liste aller Überweisungsscheine Liste aller abzugebenden Behandlungsscheine zzgl. aller Überweisungsscheine  Abrechnungsgebiet Seite 21 33von
+
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDKV (KV--
 
 **4 Regeltabelle**
 
@@ -951,9 +1106,16 @@ Scheine Überweisungsärzte von ... bis ... Liste aller Überweisungsscheine Lis
 |  | 107 | erlaubter Inhalt | 0, 1, 2 |
 |  | 112 | erlaubter Inhalt | 1, 2 |
 
-nummer kvx6, kvx7, kvx8 14, 15 77, 81, 82, 86, 84-88 42, 43, 44, 45, 46 73, 78, 83, 88, 93, 98, 99 alle im ADT zugelassenen KTAB-Werte unter der Feldkennung 4106 aufgeführt werden.  alle möglichen AbrA-Werte unter der Feldkennung 4107 aufgeführt werden. alle im ADT zugelassenen GebO-Werte unter der Feldkennung 4121 aufgeführt werden. alle im ADT zugelassenen AbrG-Werte unter der Feldkennung 4122 aufgeführt werden. Monat, JJ = Jahr, nn = Unterversionsnummer n ::= 0
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+nummer kvx6, kvx7, kvx8 14, 15 77, 81, 82, 86, 84-88 42, 43, 44, 45, 46 73, 78, 83, 88, 93, 98, 99 alle im ADT zugelassenen KTAB-Werte unter der Feldkennung 4106 aufgeführt werden.  alle möglichen AbrA-Werte unter der Feldkennung 4107 aufgeführt werden. alle im ADT zugelassenen GebO-Werte unter der Feldkennung 4121 aufgeführt werden. alle im ADT zugelassenen AbrG-Werte unter der Feldkennung 4122 aufgeführt werden. Monat, JJ = Jahr, nn = Unterversionsnummer n ::= 0Seite 22 33von
+
 
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDKV (KV--
 
 |  |  |  |  |
 |---|---|---|---|
@@ -996,7 +1158,12 @@ nummer kvx6, kvx7, kvx8 14, 15 77, 81, 82, 86, 84-88 42, 43, 44, 45, 46 73, 78, 
 | 525 | erlaubter Inhalt | 1, 3, 6 |  |
 | 526 | erlaubter Inhalt | 1, 4 |  |
 
-nummer Reihenfolge der Scheinuntergruppen festgelegt werden.  Quartalsordnung festgelegt werden.  die Felder 4122 und 9465 vorhanden sein Inhalt des Feldes 2018 = 01, 02, 03, 04, 05, 11 ist, darf das Feld 4106 nicht den Inhalt 00 haben 9404, 9406, 9407 muss vorhanden sein 9138 muss vorhanden sein  Kostenträgergruppe/Kostenträger- Abrechnungsbereichs-Kombination darf nur genau einmal  vorhanden sein muss das Feld 9468 vorhanden sein müssen die Felder 4239, 9467, 9469 und 9480 vorhanden sein
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+nummer Reihenfolge der Scheinuntergruppen festgelegt werden.  Quartalsordnung festgelegt werden.  die Felder 4122 und 9465 vorhanden sein Inhalt des Feldes 2018 = 01, 02, 03, 04, 05, 11 ist, darf das Feld 4106 nicht den Inhalt 00 haben 9404, 9406, 9407 muss vorhanden sein 9138 muss vorhanden sein  Kostenträgergruppe/Kostenträger- Abrechnungsbereichs-Kombination darf nur genau einmal  vorhanden sein muss das Feld 9468 vorhanden sein müssen die Felder 4239, 9467, 9469 und 9480 vorhanden sein Seite 23 33von
+
 
 ---
 
@@ -1029,7 +1196,18 @@ Gültigkeitsdatum (FK 9111)
 
 Die im aktuellen Quartal erstellte und ausgelieferte Version der KV--Spezifika Stammdatei gilt  für den Einsatz ab dem Folgequartal und muss direkt zu Beginn des Folgequartals eingesetzt  werden. Das Gültigkeitsdatum (FK 9111) sollte also größer sein als das Quartal des  Erstellungsdatums (FK 9103).
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 24 33von
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--Spezifika Stammdatei)
 
 ### 5.1.1 Beispiel zur Satzart “kvx0”
 
@@ -1060,7 +1238,11 @@ Ein Vertragsarzt der KV Niedersachsen müsste - vorausgesetzt dieser ist Kurarzt
 
 KVDT--Datei die KV Westfalen Lippe.
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
 ### zweiten
+
+Seite 25 33von
 
 
 ---
@@ -1083,7 +1265,18 @@ Weitere Formulierungsvorschläge
 -  Enthält der Behandlungstag (FK 5000) eine GNR (FK 5001), **muss** dem Feld  “Sachkosten / Materialkosten in Cent” (FK 5012) eine Pseudo-GNR (siehe *KV-Angabe*  *unter FK 9410)* für Kosten vorangehen.
 -  Enthält der Behandlungstag (FK 5000) eine GNR (FK 5001), **muss** dem Feld  “Sachkosten / Materialkosten in Cent” (FK 5012) **keine** Pseudo-GNR für Kosten  vorangehen.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 26 33von
+
+
 ---
+
+**IT in der Arztpraxis** Datensatzbeschreibung SDKV (KV--
 
 ### 5.2.1 Beispiel zur Satzart “kvx1”
 
@@ -1113,9 +1306,14 @@ Textzeile 2 zu 9411:
 
 Textzeile 3 zu 9411: Pseudo-GNR “88999” vorangehen.
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
 **muss** dem Feld “Sachkosten /Materialkosten in Cent” (FK 5012) die
 
-(s.u.) (s.u.) (s.u.) Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen GNR" GNR des ersten Arzt-- Patienten Kontaktes vorgenommen werden.  eine GNR (FK 5001), “Sachkosten /Material-kosten in Cent” (FK 5012) keine  Pseudo-GNR für Kosten vorangehen.  dem Feld
+Spezifika Stammdatei)
+
+(s.u.) (s.u.) (s.u.) Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach E-GO” bei Ersatzkassen Doppelkilometer (DKM, FK 5008) bzw. Wegepauschale nach BMÄ” bei Primärkassen GNR" GNR des ersten Arzt-- Patienten Kontaktes vorgenommen werden.  eine GNR (FK 5001), “Sachkosten /Material-kosten in Cent” (FK 5012) keine  Pseudo-GNR für Kosten vorangehen.  dem Feld Seite 27 33von
+
 
 ---
 
@@ -1142,6 +1340,15 @@ Die allgemeinen Abrechnungsvorgaben, die der entsprechende Kostenträger-Stammsa
 
 **Anmerkung**: Satz “kvx3” ist ein Kann-Satz.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 28 33von
+
+
 ---
 
 Wenn in einer KV für die ADT-Abrechnung von Sonstigen Kostenträgern keine  Zusatzangaben notwendig sind **und** keine Einschränkungen bzgl. der zulässigen Satzarten  bzw. Versichertenarten gelten, enthält die SDKV- Datei dieser KV keinen Satz “kvx3”!
@@ -1164,8 +1371,18 @@ Die Felder 4106 (KTAB), 4107 (Abrechnungsart), 4121 (Gebührenordnung), 4122  (A
 
 Als weiteres Muss-Feld in der Satzart für die Sortierung wird der Parameter Fallzählung im  Feld 9459 angegeben. Hier wird das Sortierkriterium festgelegt, ab dem wieder mit der  Fallzahl 1 begonnen werden soll.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 29 33von
+
 
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--Spezifika Stammdatei)
 
 In der Satzart Sortierung “kvx4” muss unter der Feldkennung 9451 für jede  Scheinuntergruppe ein 3-stelliger Text eingegeben werden, wobei alle die  Scheinuntergruppen denselben Text haben müssen, die dieselben Wertekombinationen aller  vorkommenden Feldkennungen 9457 (Wert der Scheinuntergruppe im Rahmen der  Sortierung) besitzen. Wurde keine Feldkennung 9457 übertragen, so muss für alle  Scheinuntergruppen derselbe Text vergeben werden. Die Übertragung von Leerzeichen oder  Feldern ohne Inhalt ist gemäß xDT-Konvention nicht zulässig.
 
@@ -1181,6 +1398,8 @@ Mit Inhalt "1" im Feld 9473 wird via KVDT-Prüfmodul eine Liste  **erzeugt**; li
 
 Mit Inhalt "1" im Feld 9474 wird via KVDT-Prüfmodul eine Liste  **Behandlungsscheinen zzgl. aller Überweisungsscheine** diese Liste nicht generiert.
 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
 **Es müssen nur die Kombinationen**  Ferner gilt: **der**
 
 Beispiel: Wenn bei einem
@@ -1188,6 +1407,8 @@ Beispiel: Wenn bei einem
 **aller Überweisungsscheine**
 
 **aller abzugebenden**  angelegt; liegt Inhalt "0" vor, wird
+
+Seite 30 33von
 
 
 ---
@@ -1221,7 +1442,18 @@ Die Reihenfolge der führenden Klammerscheine kann festgelegt werden. Der führe
 
 Werden unterschiedliche Abrechnungsgebiete geklammert, wird über FK 9465 das führende  Abrechnungsgebiet bestimmt, wobei sich dieses aus dem kleinsten Wert in Feld 9465  ableitet.
 
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 31 33von
+
+
 ---
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--Spezifika Stammdatei)
 
 ## 5.8 Erläuterung zur Satzart “kvx7”
 
@@ -1252,11 +1484,15 @@ Als Orientierung diene hierbei folgende beispielhafte Tabelle:
 
 Abrechnungsbereich (KTAB) (FK 4106) die ent
 
-Seriennummern Bereichen  **alle**
+Seriennummern Bereichen
+
+**alle**
 
 Diese Zuordnungen zwischen Kostenträgergruppe/Kassenart, Seriennummern-Kontingent  und Abrechnungsart sind Empfehlungen, von denen abgewichen werden darf.
 
-(FK 2018) (AUS) Asylstelle (AS) Kontingent (3.-5. Stelle VKNR) Ersatzkasse (EKK) Sonst. KT (SKT) 651 – 659 849, 950 – 999 Abrechnungsart für KTAB = 00: / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) 
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+(FK 2018) (AUS) Asylstelle (AS) Kontingent (3.-5. Stelle VKNR) Ersatzkasse (EKK) Sonst. KT (SKT) 651 – 659 849, 950 – 999 Abrechnungsart für KTAB = 00: / Justizvollzugsanstalt (JVA) Krankenkassen (MDK) Mitglieder A (PBA) Dienstunfall (PBD) Jugendarbeitsschutzuntersuchung (JAS) Unfallversicherer (UV) Seite 32 33von
 
 
 ---
@@ -1270,3 +1506,11 @@ Anmerkung: Satz “kvx8” ist ein Kann-Satz!
 Sollen keine weiteren Kommentierungen / Zusatzinformationen mit der KV--Stammdatei übermittelt werden, enthält die SDKV- Datei keinen Satz “kvx8”.
 
 Spezifika
+
+**IT in der Arztpraxis**  Datensatzbeschreibung SDKV (KV--
+
+KBV_ITA_VGEX_Datensatzbeschreibung_SDKV * Version 3.56
+
+Spezifika Stammdatei)
+
+Seite 33 33von

@@ -11,6 +11,9 @@
 
 ## KBV_ITA_VGEX_HINWEISE_BK_PNP
 
+Seite 1 / KBV / KBV_ITA_VGEX_Hinweise_BK_PNP / Version: 1.0
+
+
 ---
 
 **DOKUMENTENSTATUS**
@@ -18,6 +21,9 @@
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.0 | 01.10.2018 | KBV | Neues Dokument |  | Alle |
+
+Seite 2 / KBV / KBV_ITA_VGEX_Hinweise_BK_PNP / Version: 1.0
+
 
 ---
 
@@ -32,6 +38,9 @@
 4  1.1.2 Sperrung von Feldern bei ED pnp
 
 4  1.1.3 Markierung von Pflichtfeldern  Sperrung von optionalen Feldern bei ED und ED pnp 4  1.1.4 Vorbelegung von Feldern 5
+
+Seite 3 / KBV / KBV_ITA_VGEX_Hinweise_BK_PNP / Version: 1.0
+
 
 ---
 
@@ -68,9 +77,13 @@ Die Pflichtfelder ergeben sich zunächst aus der Dokumentationsart (ED oder ED p
 
 Weiterhin sollte die Pflichtfeldkennzeichnung auch auf Eingaben reagieren und wechseln können. Hier ist  gemeint, dass z.B. Feld 17 ein Pflichtfeld ist, wenn auch in Feld 14 mindestens eine Angabe getätigt wurde.  Die Abhängigkeiten sind den Plausibilitäten zu entnehmen.
 
+Seite 4 / KBV / KBV_ITA_VGEX_Hinweise_BK_PNP / Version: 1.0
+
 
 ---
 
 ### 1.1.4 Vorbelegung von Feldern
 
 Aus den Plausibilitäten ergeben sich auch Abhängigkeiten von zulässigen Antwortmöglichkeiten. So ist im  Rahmen einer pnp-Dokumentation für das Feld 15 vorgegeben, dass, wenn in Feld 14 „OP nicht geplant“  angegeben wurde, in Feld 15 lediglich der Wert „(c) Klinisch“ angegeben werden darf. Um fehlerhafte  Eingaben zu vermeiden, sollten in diesem Fall diese Felder automatisch mit diesem Wert vorbelegt werden.
+
+Seite 5 / KBV / KBV_ITA_VGEX_Hinweise_BK_PNP / Version: 1.0

@@ -54,12 +54,12 @@ Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nic
 
 **R L**
 
-14. Kniegelenk 
+14. Kniegelenk 1
 
 
 ---
 
-**Einschätzung der Krankheitsaktivität** in den letzten 7 Tagen  **selbst** auf einer **visuellen Analogskala** (VAS, 0 – 100 mm):
+(3) **Einschätzung der Krankheitsaktivität** in den letzten 7 Tagen  **selbst** auf einer **visuellen Analogskala** (VAS, 0 – 100 mm):
 
 Die Skala wird über eine 10 cm lange horizontale Linie mit den Begrenzungen 0 und 100 dargestellt. Die  0 bedeutet dabei „keine Krankheitsaktivität“ und die 100 „stärkst mögliche Krankheitsaktivität“.
 
@@ -98,4 +98,4 @@ ________
 
 ________
 
-________ mm/h
+________ mm/h 2

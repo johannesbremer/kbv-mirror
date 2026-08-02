@@ -1,3 +1,5 @@
+KBV_ITA_AHEX_Ausfuellhinweise_QSHGVK
+
 #### Dokumentationsbogen: Ausfüllhinweise
 
 Zur Information des Arztes werden in der Dokumentationsmaske Infoboxen und Ausfüllhin-weise eingefügt.

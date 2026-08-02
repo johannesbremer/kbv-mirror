@@ -10,6 +10,8 @@ Stand der letzten Bearbeitung: 01.07.2022
 
 Version 1.0
 
+Ausfüllanleitung DMP Rheumatoide Arthritis Version 1.0 Stand der Bearbeitung 01.07.2022 1
+
 
 ---
 
@@ -40,7 +42,9 @@ Beurteilen Sie bitte für jedes der folgenden 14 Gelenke **jeweils rechts- und l
 | 6. Fingergrundgelenk MCP 3 | 13. Fingermittelgelenk PIP 5 |
 | 7. Fingergrundgelenk MCP 4 | 14. Kniegelenk |
 
-1. Schultergelenk 2. Ellenbogengelenk 3. Handgelenk 
+Ausfüllanleitung DMP Rheumatoide Arthritis Version 1.0 Stand der Bearbeitung 01.07.2022
+
+1. Schultergelenk 2. Ellenbogengelenk 3. Handgelenk 2
 
 
 ---
@@ -76,7 +80,11 @@ Der Wert kann dort, wo die Patientin ihr oder der Patient sein Kreuz setzt, mill
 
 Bei der Eingabe der vier Parameter des DAS-28 in Ihre PVS wird der DAS-28-Wert (0,0 bis 9,9) automatisch  anhand der unten genannten Formel (Tabelle 2) berechnet und angezeigt sowie in die Dokumentation  übernommen. Zusätzlich wird Ihnen angezeigt, wie der aktuelle DAS-28-Wert hinsichtlich der Krankheitsaktivität  interpretiert werden kann.
 
-1. Schultergelenk 2. Ellenbogengelenk 3. Handgelenk In der folgenden Tabelle sehen Sie die Einordnung der Krankheitsaktivität anhand des DAS-28-Wertes.
+In der folgenden Tabelle sehen Sie die Einordnung der Krankheitsaktivität anhand des DAS-28-Wertes.
+
+Ausfüllanleitung DMP Rheumatoide Arthritis Version 1.0 Stand der Bearbeitung 01.07.2022
+
+1. Schultergelenk 2. Ellenbogengelenk 3. Handgelenk 3
 
 
 ---
@@ -112,7 +120,11 @@ Geben Sie hier an, seit wann die RA bei Ihrer Patientin oder Ihrem Patienten bes
 
 Die **klinische Einschätzung des Osteoporoserisiko** soll **mindestens einmal im Jahr** erfolgen. Geben Sie  „Ja“ an, wenn Sie das Osteoporoserisiko eingeschätzt haben. Geben Sie „Nein“ an, wenn Sie das  Osteoporoserisiko nicht eingeschätzt haben. Es wird damit **nicht** abgefragt, ob Ihre Patientin bzw. Ihr Patient  ein erhöhtes Risiko hat, lediglich, ob Sie das Risiko eingeschätzt haben.
 
-Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala. Das Zeichen * ist das mathematische Multiplikationszeichen. Eine RA ist bei Frauen und Männern ein unabhängiger Risikofaktor für Frakturen. Daneben erhöhen eine  Glukokortikoidtherapie und andere klinischen Risikofaktoren das Auftreten einer Osteoporose. Die individuelle  Risikokonstellation bezüglich des Auftretens einer Osteoporose sollte daher einmal jährlich bei allen  Patientinnen und Patienten klinisch abgeschätzt werden. Die Durchführung einer Osteodensitometrie mittels  zentraler DXA zum Zweck der Optimierung der Therapieentscheidung ist zu prüfen, wenn aufgrund konkreter  anamnestischer und klinischer Befunde eine medikamentöse Therapie der Osteoporose beabsichtigt ist.  Generelle Empfehlungen zur Vorbeugung einer Osteoporose sind insbesondere körperliche Aktivität,
+Eine RA ist bei Frauen und Männern ein unabhängiger Risikofaktor für Frakturen. Daneben erhöhen eine  Glukokortikoidtherapie und andere klinischen Risikofaktoren das Auftreten einer Osteoporose. Die individuelle  Risikokonstellation bezüglich des Auftretens einer Osteoporose sollte daher einmal jährlich bei allen  Patientinnen und Patienten klinisch abgeschätzt werden. Die Durchführung einer Osteodensitometrie mittels  zentraler DXA zum Zweck der Optimierung der Therapieentscheidung ist zu prüfen, wenn aufgrund konkreter  anamnestischer und klinischer Befunde eine medikamentöse Therapie der Osteoporose beabsichtigt ist.  Generelle Empfehlungen zur Vorbeugung einer Osteoporose sind insbesondere körperliche Aktivität,
+
+Ausfüllanleitung DMP Rheumatoide Arthritis Version 1.0 Stand der Bearbeitung 01.07.2022
+
+Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala. Das Zeichen * ist das mathematische Multiplikationszeichen. 4
 
 
 ---
@@ -147,6 +159,8 @@ Die krankheitsmodifizierende Therapie mittels DMARDs soll unmittelbar nach Diagn
 
 Als Mittel der ersten Wahl (Starttherapie) wird das csDMARD Methotrexat empfohlen, wenn keine  Kontraindikationen vorliegen (insbesondere Niereninsuffizienz, zeitnah geplante oder bestehende
 
+Ausfüllanleitung DMP Rheumatoide Arthritis Version 1.0 Stand der Bearbeitung 01.07.2022 5
+
 
 ---
 
@@ -176,6 +190,8 @@ Bitte geben Sie an, ob Ihre Patientin oder Ihr Patient bereits vor Einschreibung
 
 Eine erneute Teilnahme an einer Schulung im Rahmen des DMP ist dadurch **NICHT** ausgeschlossen!
 
+Ausfüllanleitung DMP Rheumatoide Arthritis Version 1.0 Stand der Bearbeitung 01.07.2022 6
+
 
 ---
 
@@ -200,3 +216,5 @@ Sollten Sie Ihrer Patientin oder Ihrem Patienten bei der vorhergehenden Dokument
 Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte **„Bei letzter**  **Dokumentation keine Schulung empfohlen“** an.
 
 Die Angaben **„Ja“ „War aktuell nicht möglich“** und **„Bei letzter Dokumentation keine Schulung**  **empfohlen“** führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
+
+Ausfüllanleitung DMP Rheumatoide Arthritis Version 1.0 Stand der Bearbeitung 01.07.2022 7

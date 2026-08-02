@@ -41,7 +41,9 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 
 1 Ohne den prophylaktischen Einsatz vor geplanter sportlicher Betätigung
 
-Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas 
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
+
+Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas 2
 
 
 ---
@@ -76,6 +78,8 @@ Bitte geben Sie hier die Häufigkeit des Einsatzes der Bedarfsmedikation an. Die
 
 Bitte beachten Sie bei den folgenden Angaben, dass der prophylaktische Einsatz einer  Bedarfsmedikation vor einer geplanten sportlichen Betätigung bei Erwachsenen für die Angabe  der Häufigkeit NICHT zu berücksichtigen ist. Bei Kindern und Jugendlichen hingegen ist auch der  prophylaktische Einsatz einer Bedarfsmedikation vor Sport für die Angabe der Häufigkeit zu  berücksichtigen.
 
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
+
 Ihrer Patientin
 
 - Ihre Patientin bzw. Ihr Patient
@@ -93,7 +97,11 @@ Ihrer Patientin
 
 bzw. Ihres Patienten zum
 
-Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas -
+```
+-
+```
+
+Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas 3
 
 
 ---
@@ -136,6 +144,8 @@ B. aufgrund des Alters bei Kindern nicht valide durchgeführt werden kann.
 
 Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
 
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
+
 - Ihre Patientin bzw. Ihr Patient
 
 -
@@ -154,7 +164,7 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend.
 
 Nicht -Messung z. 1
 
-möglich und ist hier
+möglich und ist hier 4
 
 
 ---
@@ -187,9 +197,12 @@ Tabelle: Medikamentöses Stufenschema Asthma-Therapie: Erwachsene
 
 (In der Tabelle verwendete Abkürzungen: ICS: Inhalative Glukokortikosteroide, LABA: Lang wirkende Beta-2-Sympathomimetika,  LAMA: Lang wirkende Anticholinergika, SABA: kurz wirkende Beta-2-Sympathomimetika, OCS: orale Glukokortikosteroide)
 
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
+
 Keine“ – wo
 
-Dauertherapie) Zulassungseinschränkungen individuell geprüft werden. Überweisung zur qualifizierten fachärztlichen Ebene: Zur Indikationsstellung und gegebenenfalls Therapie mit geeigneten Monoklonalen Antikörper
+Dauertherapie) Zulassungseinschränkungen individuell geprüft werden. Überweisung zur qualifizierten fachärztlichen Ebene: Zur Indikationsstellung und gegebenenfalls Therapie mit geeigneten Monoklonalen Antikörper 5
+
 
 ---
 
@@ -218,9 +231,13 @@ Bei bereits medikamentös behandelten Patientinnen und Patienten ist eine Redukt
 
 In der Therapie der Exazerbation soll vorrangig bei einer akuten Verschlechterung in allen Altersgruppen  die individuellen Bedarfsmedikamente gemäß Stufenschema eingesetzt werden.
 
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
+
 Grade der Asthmakontrolle
 
-ab dem vollendeten zwölften Lebensjahr (wenn auch Teil der Langzeittherapie) Zulassungseinschränkungen individuell geprüft werden. Überweisung zu einer pädiatrischen Pneumologin/ zu einem pädiatrischen Pneumologen oder in ein kinderpneumologisches Zentrum, um weitere therapeutische Optionen (wie eine hohe ICS-Dosis) zu erwägen. Geeignete Monoklonale Antikörper  mit den aufgeführten Kriterien zur
+mit den aufgeführten Kriterien zur
+
+ab dem vollendeten zwölften Lebensjahr (wenn auch Teil der Langzeittherapie) Zulassungseinschränkungen individuell geprüft werden. Überweisung zu einer pädiatrischen Pneumologin/ zu einem pädiatrischen Pneumologen oder in ein kinderpneumologisches Zentrum, um weitere therapeutische Optionen (wie eine hohe ICS-Dosis) zu erwägen. Geeignete Monoklonale Antikörper  6
 
 
 ---
@@ -272,6 +289,8 @@ Sie sollten die Inhalationstechnik Ihrer Patientin bzw. Ihres Patienten mindeste
 
 Geben Sie hier bitte an, ob Sie dies bei der heutigen Konsultation getan haben.
 
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024 7
+
 
 ---
 
@@ -312,6 +331,8 @@ Sollte Ihre Patientin bzw. Ihr Patient eine empfohlene  nachvollziehbaren Grund 
 
 Die Ausprägung „War aktuell nicht möglich“ ist anzukreuzen, wenn die Schulung innerhalb des  Dokumentationsintervalls (jedes Quartal oder jedes zweite Quartal) wegen nachvollziehbarer  Gründe nicht wahrgenommen werden konnte. Solche Gründe können z. B. sein: Fehlende  Schulungskapazität, Krankenhausaufenthalt der Patientin bzw. des Patienten, private Gründe. Die  Beurteilung, ob die Gründe nachvollziehbar sind, obliegt alleine Ihnen und der Patientin bzw. dem  Patienten.
 
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
+
 mit „Ja“ an. Wenn Sie
 
 mit „Nein“ an.
@@ -320,7 +341,7 @@ diesem Feld ist nur im Rahmen einer  **Folgedokumentation** ist hier keine
 
 möglich und verpflichtend. Bei der
 
-Schulung ohne einen für Sie  Sie bitte „Nein“ an. Diese Angabe
+Schulung ohne einen für Sie  Sie bitte „Nein“ an. Diese Angabe 8
 
 
 ---
@@ -356,3 +377,5 @@ Vor einer Reduktion der Therapie sollte das Asthma mindestens drei Monate kontro
 Geben Sie bitte „Reduktion der Medikation“ an, wenn Sie die Dosis oder die Anzahl der verordneten  Medikamente reduziert haben.
 
 Geben Sie bitte „Keine“ an, wenn keine Therapieanpassung erfolgt ist
+
+Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024 9

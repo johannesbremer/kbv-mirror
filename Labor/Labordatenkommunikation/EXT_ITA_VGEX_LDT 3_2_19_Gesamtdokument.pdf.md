@@ -19,6 +19,8 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 
 ---
 
+**IT in der Arztpraxis**  LDT 3
+
 | Version | 3.2.19 |
 |---|---|
 | **Autor(en)** | KBV |
@@ -36,7 +38,10 @@ Dezernat Digitalisierung und IT  10623 Berlin, Herbert-Lewin-Platz 2
 | Ankündigungen für Version 3.2.20 | | | | | |
 |  |  |  |  |  |  |
 
-der Regel K063 und Dokumentation Korrektur der Feldart von FK 8219 und FK 8220 im Objekt Obj_0037
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+der Regel K063 und Dokumentation Korrektur der Feldart von FK 8219 und FK 8220 im Objekt Obj_0037 Seite 2 von 187
+
 
 ---
 
@@ -58,8 +63,16 @@ der Regel K063 und Dokumentation Korrektur der Feldart von FK 8219 und FK 8220 i
 - Inhalte, die gestrichen werden, sind im Dokument wie folgt dargestellt: <Inhalt>
 - Inhalte, die neu aufgenommen werden, sind im Dokument wie folgt dargestellt: <Inhalt>
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 3 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 ## Inhaltsverzeichnis
 
@@ -122,6 +135,10 @@ der Regel K063 und Dokumentation Korrektur der Feldart von FK 8219 und FK 8220 i
 | 6.2 | Satzarten | .........................................................................................................................21 |
 | 6.2.1 |  | Anordnung .......................................................................................................................21 |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 4 von 187
+
 
 ---
 
@@ -180,6 +197,12 @@ der Regel K063 und Dokumentation Korrektur der Feldart von FK 8219 und FK 8220 i
 11.5 Obj_Abrechnung sonstige Kostenuebernahme „Obj_0005“..................................123
 
 11.6 Obj_Abrechnung Selektivvertrag „Obj_0006“ ........................................................124
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 5 von 187
 
 
 ---
@@ -248,6 +271,12 @@ der Regel K063 und Dokumentation Korrektur der Feldart von FK 8219 und FK 8220 i
 
 11.37 Obj_Tier/Sonstiges „Obj_0053“ .............................................................................160
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 6 von 187
+
 
 ---
 
@@ -283,6 +312,12 @@ der Regel K063 und Dokumentation Korrektur der Feldart von FK 8219 und FK 8220 i
 
 LDT 3 Use Cases
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 7 von 187
+
 
 ---
 
@@ -295,6 +330,13 @@ LDT 3 Use Cases
 Die Grundlage des Dokumentes waren die gemeinsamen Feld- und Objektkataloge,  [die durch den Qualitätsring Medizinische Software e.V. (](http://www.qms-standards.de/)[www.qms-standards.de](http://www.qms-standards.de/) [(im Weiteren als QMS bezeichnet) für die Schnittstellenbeschreibungen XDT des](http://www.qms-standards.de/) QMS entwickelt wurden.
 
 Herzlichen Dank an dieser Stelle an alle Mitglieder der ehemaligen AG LDT.
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 8 von 187
+
 
 ---
 
@@ -315,6 +357,13 @@ Der LDT 3 ist das Ergebnis dieser gemeinsamen Anstrengung von Fachleuten aus  ga
 Hiermit steht eine Schnittstelle  Laborkommunikation zur Verfügung, wobei die KBV seit dem Jahr 2021 die  Verantwortung für die kassenärztliche und sonstige Versorgung im LDT 3 trägt.
 
 als ganzheitlicher Datenstandard für die
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 9 von 187
+
 
 ---
 
@@ -343,6 +392,12 @@ Unter Einsender werden Einrichtungen definiert, welche Untersuchungsaufträge  u
 Für die eindeutige Identifizierung und Zuordnung notwendige Angaben werden in  der Satzart 8230 festgelegt. Darüber hinaus können entsprechende Angaben auch  in die sonstigen Satzarten übernommen werden, wenn diese für die Abwicklung von  Teilprozessen notwendig sind.
 
 Einsender können neben Arztpraxen und Kliniken auch Verwaltungseinrichtungen,  Polizei, sonstige Justizbehörden, Unternehmen oder auch natürliche Personen1F1F2  sein.
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 10 von 187
 
 
 ---
@@ -375,8 +430,16 @@ Die Diagnose ist entscheidend für die weitere Vorgehensweise bei der Behandlung
 
 Unter Material sind sowohl organische, wie auch anorganische Stoffe zu verstehen,  die im Rahmen einer Auftragserteilung zur Analyse an ein Labor eingesendet  werden.
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 11 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 ## 3.9 Untersuchungsanforderung
 
@@ -394,8 +457,14 @@ Unter Befund werden medizinisch relevante, körperliche oder psychische  Erschei
 
 Eine Nachforderung ist eine ergänzende Anforderung von Laboruntersuchungen zu  einem bereits bestehenden Überweisungsauftrag auf der Grundlage einer  medizinischen Bewertung der bis dahin vorliegenden Befundergebnisse und der  sich daraus ergebenden medizinischen Notwendigkeit zur Nachuntersuchung der  entnommenen Probe mit weiteren ergänzenden Untersuchungen. Die  Nachforderung wird aus der bereits entnommenen Patientenprobe durchgeführt.
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 12 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 # Neuerungen im LDT 3 und dessen Anwendung
 
@@ -417,10 +486,14 @@ Die einzelnen Prozessschritte wurden in Informationsobjekten, im Folgenden als  
 
 Die Referenzierung der Aufträge, Untersuchungsanforderungen und Befund-berichte auf die entsprechenden Kataloge erfolgt immer auf der untersten  Vorkommensebene. Dadurch ist es möglich, pro Untersuchungsanforderung,  Laborbefundbericht oder sogar Untersuchungsergebnis, sowie in der  Untersuchungsabrechnung jeweils verschiedene Kataloge oder Terminologien zu  verwenden.
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 13 von 187
+
 
 ---
 
-Jede benannte ID kann auch eine OID  Bezeichnungen verwendet.
+**IT in der Arztpraxis**  LDT 3   Jede benannte ID kann auch eine OID  Bezeichnungen verwendet.
 
 Um bei der automatisierten Datenkommunikation in den 1-n-Beziehungen eine  hohe Qualität der Daten zu sichern, wurden viele Feldinhalte weitestgehend  strukturiert und die Verwendung von Freitextfeldern stark reduziert.
 
@@ -445,6 +518,8 @@ Alle anderen Bereiche (Zytologie, Pathologie und Transfusionsmedizin) werden  eb
 ***Eine weitere wesentliche Neuerung im***  ***Abrechnungsart zur angeforderten Untersuchung.***
 
 Da in einem Auftrag (Satzart 8215) mehrere Untersuchungen angefordert werden  können, die auch unterschiedlichen Abrechnungsarten zugeordnet werden, können  auch mehrere Abrechnungsarten enthalten sein. Eine zentrale Bedeutung bei der  Definition der Abrechnungsart kommt dabei der  Untersuchung) zu. Hiermit kann der einzelnen Untersuchung die Kennung  mitgegeben werden, wie die Abrechnung erfolgen soll. Zu jeder Abrechnungsart  können auch einzelne Rechnungsempfänger hinterlegt werden. Weiterhin wird die  Kennzeichnung von abweichenden oder zusätzlichen Befundwegen ermöglicht,  welche abweichend von den im Labor hinterlegten Stammdaten des Einsenders  vorkommen können.
+
+LDT 3 Satzbeschreibung, Version 3.2.19
 
 sein.
 
@@ -476,6 +551,8 @@ geht von der
 
 ***einer***
 
+Seite 14 von 187
+
 
 ---
 
@@ -489,8 +566,18 @@ Der LDT beschränkt sich ausdrücklich auf die reine Datenübertragung und sieht
 
 Bitte beachten Sie dazu unbedingt die Hinweise unter **Implementierungshinweis**
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 15 von 187
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 ## 4.1 Weitere Einsatzgebiete/Teilprozesse
 
@@ -569,6 +656,8 @@ Wie bereits erwähnt, wird der LDT auch oft für Teilprozesse innerhalb der  Lab
 
 Über das Scansystem werden die Aufträge verschiedener Einsender, die in  Papierform an das Labor gestellt werden, erfasst und dann ein vollständiger LDT  generiert. Dabei ist das sendende System das eingesetzte System für die  maschinelle Schrift- (OCR) und Markierungserkennung (OMR).
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 Obj_Patient Obj_Veranlassung sgrund
 
 Obj_Auftragsinformation
@@ -613,6 +702,8 @@ oder im Versand von
 
 Gleichzeitig sind die
 
+Seite 16 von 187
+
 
 ---
 
@@ -646,6 +737,12 @@ Aus dem Primärsystem werden die Patientenstamm-, Abrechnungs- und  Diagnosedate
 
 Das Order Entry übermittelt nach der Fertigstellung des Auftrags die Übersicht der  angeforderten Untersuchungen einschließlich der vergebenen Auftragsnummern  des Labors zurück an das Primärsystem zur Aufnahme in die Labordaten des  Primärsystems.
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 17 von 187
+
 
 ---
 
@@ -657,6 +754,12 @@ Das Order Entry übermittelt nach der Fertigstellung des Auftrags die Übersicht
 Bei Unterüberweisungen oder Fremdversand müssen einzelne Aufträge an ein  weiteres Labor übersandt werden. Dabei ist der Befundempfänger nicht das  überweisende oder versendende Labor sondern der Einsender des eigentlichen  Auftrages (Erstveranlasser). Sendendes System und Auftraggeber für das gesamte  Datenpaket und damit eingetragener Absender im Satz 8230 ist aber das Labor 1.
 
 Diese genannten Teilprozesse werden über die Satzart 8215 Auftrag als separate  Use Cases über Regeln abgebildet.
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 18 von 187
 
 
 ---
@@ -695,6 +798,12 @@ Der Kommunikationsweg ist immer gleich.
 |---|---|---|---|---|
 | Einsender |  | **Befund Satzart 8205** |  | Labor |
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 19 von 187
+
 
 ---
 
@@ -731,8 +840,18 @@ Ein **Satz** ist unterteilt in Objektattribute bzw. Felder:
 \|---|
 \| Feld 1  .  .  Feld n  Objektattribut 1  .  .  .  Objektattribut n  Satzende |
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 20 von 187
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 Ein **Objekt** ist wiederum unterteilt in Felder und/oder Objektattribute:
 
@@ -759,9 +878,13 @@ Folgende Sätze sind definiert:
 
 Mit der Einführung des LDT wird generell davon ausgegangen, dass eine  Übertragung von Dateien mittels Datenträger (Disketten, CD oder USB-Stick) nicht
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 \| Feld |
 \|---|
 \| Länge  Kennung  Inhalt |
+
+Seite 21 von 187
 
 
 ---
@@ -811,10 +934,18 @@ Jeder Satz endet mit dem Feld 8001, welches mit dem Wert der entsprechenden
 
 Jedes Objekt wird mit einem Objektattribut eingeleitet. Das Objektattribut verweist  auf die Verwendung des nachfolgenden Objektes. Als Feldkennungen für die  Objektattribute ist der Wertebereich 8100 bis 8299 reserviert. Das **Objekt** beginnt  mit einem Feld 8002, welches die entsprechende Objekt-ID enthält und endet mit  einem Feld 8003 (Objektende). Dieses Feld enthält ebenfalls als Inhalt die
 
-ist pro Datei einmal vorhanden. Er ist als erster Satz zu übertragen. „8215“ folgt in beliebiger Anzahl (≥ 1) auf den Satz  ist pro Datei einmal vorhanden. Er ist als letzter Satz zu übertragen.  ist pro Datei einmal vorhanden. Er ist als erster Satz zu übertragen.  folgt in beliebiger Anzahl (≥ 1) und in beliebiger Reihenfolge auf den Satz  ist pro Datei einmal vorhanden. Er ist als letzter Satz zu übertragen. ### entsprechende Objekt-ID.
+### entsprechende Objekt-ID.
+
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+ist pro Datei einmal vorhanden. Er ist als erster Satz zu übertragen. „8215“ folgt in beliebiger Anzahl (≥ 1) auf den Satz  ist pro Datei einmal vorhanden. Er ist als letzter Satz zu übertragen.  ist pro Datei einmal vorhanden. Er ist als erster Satz zu übertragen.  folgt in beliebiger Anzahl (≥ 1) und in beliebiger Reihenfolge auf den Satz  ist pro Datei einmal vorhanden. Er ist als letzter Satz zu übertragen. Seite 22 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 ### 6.3.1 Satz- und Objekttabellen
 
@@ -873,11 +1004,14 @@ Beispiel:
 | 8239 |  | 1 |  |  |  | Feld 8239 kann nur einmal je Feld 8002 vorkommen |
 | 7352 |  |  | n |  |  | Feld 7352 kann beliebig oft je Feld 8239 vorkommen |
 
-/Objektbezeichnung dieser Feldkennung bzw. Objekt ausgeführt werden Arztnummer (LANR)
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+/Objektbezeichnung dieser Feldkennung bzw. Objekt ausgeführt werden Arztnummer (LANR) Seite 23 von 187
+
 
 ---
 
-** Feldart:
+**IT in der Arztpraxis**  LDT 3   ** Feldart:
 
 In der Spalte „Feldart“ der Satz- und Objekttabellen wird angegeben, ob ein Feld in  einem Satz vorhanden sein muss  oder kann  und ob dieses Vorhandensein an  eine bestimmte Bedingung geknüpft ist. Diese Bedingung ist dann in der Spalte  „Regel“ der Satz-, Feld- bzw. Objekttabelle aufgeführt. Die Regelwerke sind in den   Regeltabellen spezifiziert.
 
@@ -900,8 +1034,14 @@ Alle Daten sind als Zeichen im Code ISO 8859-15 dargestellt. Die Endekennung  du
 
 Gemäß der Feldkennung wird der zugehörige Eintrag in der Feldtabelle zur  Erzeugung oder Prüfung des Feldes herangezogen.
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 24 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 **Struktur eines Datenfeldes**
 
@@ -958,10 +1098,16 @@ Für den Eintrag in der Spalte **„Format“** sind folgende Formattypen defini
 |---|---|
 | alnum = | alphanumerisch |
 
-Wert 13 = CR (Wagenrücklauf), gefolgt von Wert 10 = LF 3F3 F 4 der Informationen oder der Quellen variablen Feldlängen dürfen keine führenden Nullen übertragen werden) 4 wird die Feldkennung im LDT nicht verwendet, so ist dieses Feld mit dem Hinweis „LDT“ gefüllt, alle weiteren Spalten bleiben  leer
+4 wird die Feldkennung im LDT nicht verwendet, so ist dieses Feld mit dem Hinweis „LDT“ gefüllt, alle weiteren Spalten bleiben  leer
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Wert 13 = CR (Wagenrücklauf), gefolgt von Wert 10 = LF 3F3 F 4 der Informationen oder der Quellen variablen Feldlängen dürfen keine führenden Nullen übertragen werden) Seite 25 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 |  | ( |
 |---|---|
@@ -1008,7 +1154,10 @@ In der Regeltabelle ist zu jeder definierten Regel ein Eintrag mit den folgenden
 
 Der LDT deckt in seiner Gesamtheit sowohl den Bereich der Kassenärztlichen  Versorgung und der sonstigen Versorgung ab. Für die Zertifizierung des LDT für
 
-Ein alphanumerisches Datenfeld der Länge” realisieren, dass das betreffende Feld die Anzahl kann.) n” (Zeichen) ist so zu ”n” (Zeichen) aufnehmen der Abrechnungs-VKNR
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Ein alphanumerisches Datenfeld der Länge” realisieren, dass das betreffende Feld die Anzahl kann.) n” (Zeichen) ist so zu ”n” (Zeichen) aufnehmen der Abrechnungs-VKNR Seite 26 von 187
+
 
 ---
 
@@ -1062,8 +1211,16 @@ Dieser Standard entspricht dem Standard der eGK (elektronischen  Gesundheitskart
 | **14** | **E** |  |  | . | > | N | ^ | n | ~ |  |  | ® | Ÿ | Î | Þ | î | þ |
 | **15** | **F** |  |  | / | ? | O | _ | o | DEL |  |  | ¯ | ¿ | Ï | ß | ï | ÿ |
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 27 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 ## 6.7 Dateiname
 
@@ -1090,10 +1247,14 @@ Z0147112345M27_01.ldt
 
 Ein Dateiname darf max. 256 Zeichen enthalten. Die Dateinamenskonvention ist  verbindlich.
 
-zur ”freien” Verfügung (d.h. die     beliebig belegt werden) weiteren Stellen des Dateinamens können 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+zur ”freien” Verfügung (d.h. die     beliebig belegt werden) weiteren Stellen des Dateinamens können Seite 28 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 # Implementierungshinweis
 
@@ -1121,11 +1282,14 @@ Im Folgenden wird auf die Bedeutung, Funktion und Verwendung der  Objektattribut
 |  | 1 | **Obj_0019** |
 | 8001 | 1 | Satzende |
 
-Vorkommen 4 (Obj_Kopfdaten) (Obj_Laborkennung) (Obj_Betriebsstaette)
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Vorkommen 4 (Obj_Kopfdaten) (Obj_Laborkennung) (Obj_Betriebsstaette)Seite 29 von 187
+
 
 ---
 
-Daraus ergibt sich folgende Struktur für den Aufbau des Datensatzes für die Satzart  8220 (Beispiel):
+**IT in der Arztpraxis** LDT 3   Daraus ergibt sich folgende Struktur für den Aufbau des Datensatzes für die Satzart  8220 (Beispiel):
 
 | FK | Inhalt | Erläuterung |
 |---|---|---|
@@ -1177,7 +1341,11 @@ Daraus ergibt sich folgende Struktur für den Aufbau des Datensatzes für die Sa
 
 Auf das Objektattribut folgt  verweist.
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 immer das Objekt, auf das das Objektattribut
+
+Seite 30 von 187
 
 
 ---
@@ -1186,7 +1354,16 @@ Aus dem oben dargestellten Beispiel ergibt sich dann folgender Aufbau der LDT-Da
 
 01380008220  0188132Kopfdaten  0178002Obj_0032  0170001LDT3.2.19  0258151Sendendes_System  0178002Obj_0051  01683164178526  0250105X/36/1503/04/dcv  0190103Muster-LIS  018013247.23.001  0178003Obj_0051  0398218Timestamp_Erstellung_Datensatz  0178002Obj_0054  017727820151008  0157279173510  0147273UTC+2  0178003Obj_0054  0178003Obj_0032  0218136Laborkennung  0178002Obj_0036  0258239Laborbezeichnung  0178002Obj_0043  0351250Laborarztpraxis Musterarzt  0178003Obj_0043  01072662  0178003Obj_0036  0248119Betriebsstaette  0178002Obj_0019  01002042  01002045  0330203Laborpraxis Musterhausen  0180201123456789  0218143Organisation  0178002Obj_0043  0331250Laborpraxis Musterhausen  0328229Anschrift_Arbeitsstelle  0178002Obj_0007  0213107Musterstraße  0123109123  014311212345  0213113Musterhausen  0178003Obj_0007  0178003Obj_0043  0178003Obj_0019  01380018220
 
+**IT in der Arztpraxis**  LDT 3
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 31 von 187
+
+
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 # Satztabellen
 
@@ -1213,10 +1390,18 @@ Aus dem oben dargestellten Beispiel ergibt sich dann folgender Aufbau der LDT-Da
 | 9300 | 1 | Prüfsumme | M | E157 |  |
 | 8001 | 1 | Satzende | M |  | 8221 |
 
-Vorkommen 4F4F 5 Vorkommen 4 5 An dieser Stelle wird das Labor benannt, welches den Auftrag ursprünglich entgegen genommen hat.
+5 An dieser Stelle wird das Labor benannt, welches den Auftrag ursprünglich entgegen genommen hat.
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Vorkommen 4F4F 5 Vorkommen 4 Seite 32 von 187
 
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3
 
 **8.3** **Satzart: P (Praxis)-Datenpaket-Header „8230“**
 
@@ -1238,9 +1423,14 @@ Vorkommen 4F4F 5 Vorkommen 4 5 An dieser Stelle wird das Labor benannt, welches 
 | 9300 | 1 | Prüfsumme | M | E157 |  |
 | 8001 | 1 | Satzende | M |  | 8231 |
 
-(Obj_Einsenderidentifikation) 4
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+(Obj_Einsenderidentifikation) 4 Seite 33 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3
 
 **8.5** **Satzart: Befund „8205“**
 
@@ -1278,20 +1468,29 @@ Vorkommen 4F4F 5 Vorkommen 4 5 An dieser Stelle wird das Labor benannt, welches 
 
 7 Die AG LDT empfiehlt, immer eine PDF-Datei des Befundes in den LDT-
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 Datensatz (Satzart 8205) einzubetten.
 
-1    2    3 5F5F (Obj_Einsenderidentifikation) kenngroessen) (Obj_Befundinformationen) (Obj_Veranlassungsgrund) (Obj_Laborergebnisbericht) 6F6F /Hinwei
+1    2    3 5F5F (Obj_Einsenderidentifikation) kenngroessen) (Obj_Befundinformationen) (Obj_Veranlassungsgrund) (Obj_Laborergebnisbericht) 6F6F /HinweiSeite 34 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung/Hinwei |
 |---|---|---|---|---|---|
 | 8001 | 1 | Satzende | M |  | 8205 |
 
-1    2    3    4 s
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+1    2    3    4 s Seite 35 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3
 
 **8.6** **Satzart: Auftrag „8215“**
 
@@ -1320,9 +1519,14 @@ Datensatz (Satzart 8205) einzubetten.
 |  | 1 | Obj_0037 (Obj_Material) | m |  |  |
 | 8159 | n | Untersuchungsanforderung | m | K069 |  |
 
-2   3    4 (Obj_Einsenderidentifikation) (Obj_Koerperkenngroessen) (Obj_Auftragsinformation) (Obj_Veranlassungsgrund) (Obj_Abrechnungsinformationen) K020
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+2   3    4 (Obj_Einsenderidentifikation) (Obj_Koerperkenngroessen) (Obj_Auftragsinformation) (Obj_Veranlassungsgrund) (Obj_Abrechnungsinformationen) K020     Seite 36 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3
 
 | FK | 1 | Feldbezeichnung | Feldart | Bedingung | s |
 |---|---|---|---|---|---|
@@ -1335,10 +1539,16 @@ Datensatz (Satzart 8205) einzubetten.
 
 Hinweis 7F7F8
 
-Vorkommen 2   3    4 (Obj_Untersuchungsanforderung) Erläuterung/Hinwei8 Da die Informationen FK 4202 (Unfall, Unfallfolgen) ergänzend zur FK 4221 (Kurativ/Präventiv/ESS/bei belegärztl.  Behandlung) übertragen wird, sind die Labor-Anforderungen, die im Zusammenhang mit Unfall/Unfallfolgen beauftragt  werden, in einer separaten Satzart 8215 zu übermitteln.
+8 Da die Informationen FK 4202 (Unfall, Unfallfolgen) ergänzend zur FK 4221 (Kurativ/Präventiv/ESS/bei belegärztl.  Behandlung) übertragen wird, sind die Labor-Anforderungen, die im Zusammenhang mit Unfall/Unfallfolgen beauftragt  werden, in einer separaten Satzart 8215 zu übermitteln.
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Vorkommen 2   3    4 (Obj_Untersuchungsanforderung) Erläuterung/HinweiSeite 37 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 # Feldtabelle
 
@@ -1357,7 +1567,10 @@ Die Feldtabelle beschreibt alle im LDT 3 vorkommenden Felder.
 | 0203 | (N)BSNR-Bezeichnung | ≤ 60 | alnum |  | Bezeichnung der Betriebsstätte (Name) oder (N)BSNR-Bezeichnung als Freitext |
 | 0204 | Status der Betriebsstätte | 1 | num | E046    K043 |  |
 
-Studie oder Studie Nebenbetriebsstättennum mer (NBSNR) oder der Studie ausgedrückt werden. vergeben wird ( eindeutige alphanumerische Kennung z.B. bei Privatpraxen) vertragsärztlichen Versorgung den Ort der Leistungserbringung (Betriebsstätte) eindeutig identifiziert. Weitere Orte der Leistungserbringung werden mit einer Nebenbetriebsstättennummer (NBSNR) belegt.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Studie oder Studie Nebenbetriebsstättennum mer (NBSNR) oder der Studie ausgedrückt werden. vergeben wird ( eindeutige alphanumerische Kennung z.B. bei Privatpraxen) vertragsärztlichen Versorgung den Ort der Leistungserbringung (Betriebsstätte) eindeutig identifiziert. Weitere Orte der Leistungserbringung werden mit einer Nebenbetriebsstättennummer (NBSNR) belegt. Seite 38 von 187
+
 
 ---
 
@@ -1373,9 +1586,16 @@ Studie oder Studie Nebenbetriebsstättennum mer (NBSNR) oder der Studie ausgedr�
 | 1202 | Adresstyp | 1 | num | E042 |  |
 | 1250 | Organisation/Firma | ≤ 60 | alnum |  | Organisation zu der die Person gehört oder Organisationsadresse ohne Personenzuordnung |
 
-(LANR) Kassenärztliche Vereinigung bundesweit an jeden Arzt vergibt, der an der vertragsärztlichen Versorgung (siehe auch GKV) teilnimmt. Sie ist durch das Vertragsarztrechtsänderungs- gesetz (VändG) zusammen mit der Betriebsstättennummer (BSNR) für jede kassenärztliche Praxis in Deutschland gesetzlich vorgeschrieben und durch die Flexibilisierung der vertragsärztlichen Tätigkeit notwendig geworden. (IK) (der Betriebsstätte) Krankenkassen und den Leistungserbringern ein IK als eindeutige Identifizierung verwendet. Behandlung komplexer, schwer therapierbarer Krankheiten, die je nach Krankheit eine spezielle Qualifikation, eine interdisziplinäre Zusammenarbeit und besondere Ausstattungen erfordern.  Fachärzte) eine Teamnummer.  Fachgruppencodierungen) behandelnden Arztes LANR verfügt Auftraggebers
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+(LANR) Kassenärztliche Vereinigung bundesweit an jeden Arzt vergibt, der an der vertragsärztlichen Versorgung (siehe auch GKV) teilnimmt. Sie ist durch das Vertragsarztrechtsänderungs- gesetz (VändG) zusammen mit der Betriebsstättennummer (BSNR) für jede kassenärztliche Praxis in Deutschland gesetzlich vorgeschrieben und durch die Flexibilisierung der vertragsärztlichen Tätigkeit notwendig geworden. (IK) (der Betriebsstätte) Krankenkassen und den Leistungserbringern ein IK als eindeutige Identifizierung verwendet. Behandlung komplexer, schwer therapierbarer Krankheiten, die je nach Krankheit eine spezielle Qualifikation, eine interdisziplinäre Zusammenarbeit und besondere Ausstattungen erfordern.  Fachärzte) eine Teamnummer.  Fachgruppencodierungen) behandelnden Arztes LANR verfügt Auftraggebers Seite 39 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 1251 | Rechtsform der | ≤ 60 | alnum |  | Beispiel: „e.V.“, „GmbH“ |
 |---|---|---|---|---|---|
@@ -1387,7 +1607,10 @@ Studie oder Studie Nebenbetriebsstättennum mer (NBSNR) oder der Studie ausgedr�
 | 3103 | Geburtsdatum | 8 | num | F003     K094 | Datum der Geburt |
 | 3104 | Titel | ≤ 20 | alnum |  | Hier im Sinne von akademischen Graden. |
 
-Organisation oder Titel der Person innerhalb der Organisation Bezeichnung oder einer Sache vermerkte Beifügungen. datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp Anlage 07 Deutschland amtsdeutsch einfach Name) dient als Ergänzung zum Vornamen der besseren Unterscheidbarkeit von Personen. Mit dem Familiennamen wird die Zugehörigkeit des Individuums zu einer Familie ausgedrückt. Der Geburtsname drückt die Zugehörigkeit zur Elternfamilie aus, der Ehename die Zugehörigkeit zur Familie des Ehepartners und der Doppelname, wenn er nicht vererbt wurde, die Zugehörigkeit zu beiden Familien der Ehepartner aus. einer Familie bezeichnet. individuelle Namen) vor dem Familiennamen (von regionalen Ausnahmen abgesehen).
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Organisation oder Titel der Person innerhalb der Organisation Bezeichnung oder einer Sache vermerkte Beifügungen. datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp Anlage 07 Deutschland amtsdeutsch einfach Name) dient als Ergänzung zum Vornamen der besseren Unterscheidbarkeit von Personen. Mit dem Familiennamen wird die Zugehörigkeit des Individuums zu einer Familie ausgedrückt. Der Geburtsname drückt die Zugehörigkeit zur Elternfamilie aus, der Ehename die Zugehörigkeit zur Familie des Ehepartners und der Doppelname, wenn er nicht vererbt wurde, die Zugehörigkeit zu beiden Familien der Ehepartner aus. einer Familie bezeichnet. individuelle Namen) vor dem Familiennamen (von regionalen Ausnahmen abgesehen). Seite 40 von 187
+
 
 ---
 
@@ -1404,7 +1627,12 @@ Organisation oder Titel der Person innerhalb der Organisation Bezeichnung oder e
 | 3115 | Anschriftenzusatz | ≤ 40 | alnum |  | Ergänzender Freitext zur Adresse (z.B. Hinterhaus) |
 | 3116 | WOP | 2 | num | E022  K088 | Abrechnungskennzeichen für den Arzt.(z.B. |
 
-abgeschlossenen Studiums oder aufgrund einer besonderen wissenschaftlichen Leistung vergeben werden. Ein akademischer Grad wird nach einem mit Hochschulprüfung abgeschlossenen Studium durch eine Urkunde verliehen (Graduierung). Krankenversicherungskarte (nicht eGK) enthalten sind und wird benötigt, damit Leistungserbringer mit der zuständigen Krankenkasse abrechnen können. Beschäftigungsstatus und dem Verhältnis zum Versicherten. einem Ort eindeutig identifiziert. Sie dient der Adressierung, Orientierung und der Auffindbarkeit eines Gebäudes. Codierung gemäß DEÜV (Staatsangehörigkeit und Länderkennzeichen für Auslandsanschriften):  datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp Anlage 08 Schleswig-Holstein
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+abgeschlossenen Studiums oder aufgrund einer besonderen wissenschaftlichen Leistung vergeben werden. Ein akademischer Grad wird nach einem mit Hochschulprüfung abgeschlossenen Studium durch eine Urkunde verliehen (Graduierung). Krankenversicherungskarte (nicht eGK) enthalten sind und wird benötigt, damit Leistungserbringer mit der zuständigen Krankenkasse abrechnen können. Beschäftigungsstatus und dem Verhältnis zum Versicherten. einem Ort eindeutig identifiziert. Sie dient der Adressierung, Orientierung und der Auffindbarkeit eines Gebäudes. Codierung gemäß DEÜV (Staatsangehörigkeit und Länderkennzeichen für Auslandsanschriften):  datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp Anlage 08 Schleswig-HolsteinSeite 41 von 187
+
 
 ---
 
@@ -1416,7 +1644,12 @@ abgeschlossenen Studiums oder aufgrund einer besonderen wissenschaftlichen Leist
 | 3123 | Postfach | ≤ 8 | alnum |  | Ein Postfach ist eine Einrichtung, bei der der Empfänger seine Post in einem abschließbaren |
 | 3124 | PostfachWohnsitzlaenderc | ≤ 3 | alnum | K017 | offizielle Kurzbezeichnung des Wohnsitzstaates für das Postfach (z.B. D = Deutschland, A = |
 
-der Richtlinie Organisatorische und technische Richtlinien zur Nutzung der Versicherungsnummer nach §147 SGB VI bei Einführung einer neuen Krankenversicherten- nummer nach § 290 SGB V, Version 1.5 eine zweistellige Zahl ersetzt, das A mit 01, das B mit 02, …, und das Z mit 26. Die Ziffern werden von links nach rechts abwechselnd mit 1 und 2 multipliziert. Es erfolgt eine Quersummenbildung der einzelnen Produkte, mit anschließender Summenbildung der Quersummen. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10 bzw. zum nächsten Vielfachen von 10.  Überweisungsschein im Labor) kann eine Überprüfung zur Vermeidung von Tipp- bzw. Lesefehlern (OCR) erfolgen. datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp Anlage 06  sind Vorsatzworte. Fach in einer Postfiliale abholen kann. Österreich)
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+der Richtlinie Organisatorische und technische Richtlinien zur Nutzung der Versicherungsnummer nach §147 SGB VI bei Einführung einer neuen Krankenversicherten- nummer nach § 290 SGB V, Version 1.5 eine zweistellige Zahl ersetzt, das A mit 01, das B mit 02, …, und das Z mit 26. Die Ziffern werden von links nach rechts abwechselnd mit 1 und 2 multipliziert. Es erfolgt eine Quersummenbildung der einzelnen Produkte, mit anschließender Summenbildung der Quersummen. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10 bzw. zum nächsten Vielfachen von 10.  Überweisungsschein im Labor) kann eine Überprüfung zur Vermeidung von Tipp- bzw. Lesefehlern (OCR) erfolgen. datenaustausch.de/arbeitgeber/deuev/gemeinsame_rundschreiben/gemeinsame_rundschrei ben.jsp Anlage 06  sind Vorsatzworte. Fach in einer Postfiliale abholen kann. Österreich) Seite 42 von 187
+
 
 ---
 
@@ -1434,7 +1667,12 @@ der Richtlinie Organisatorische und technische Richtlinien zur Nutzung der Versi
 | 3319 | Ko-Test | 1 | num | E040   K123   K124 | Muster 39 |
 | 3320 | Zeitraum sofort | 1 | num | E011   K123   K124 | Muster 39 |
 
-vertrages hausarztzentrierten Versorgung (§ 73 b SGB V), bei strukturierten Behandlungsprogrammen für chronische Erkrankungen (Disease-Management-Programme) (§ 137 f SGB V) und in der Integrierten Versorgung (§§ 140ff SGB V).
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+vertrages hausarztzentrierten Versorgung (§ 73 b SGB V), bei strukturierten Behandlungsprogrammen für chronische Erkrankungen (Disease-Management-Programme) (§ 137 f SGB V) und in der Integrierten Versorgung (§§ 140ff SGB V). Seite 43 von 187
+
 
 ---
 
@@ -1453,9 +1691,16 @@ vertrages hausarztzentrierten Versorgung (§ 73 b SGB V), bei strukturierten Beh
 | 3424 | Therapiebeginn | 8 | date | F002 |  |
 | 3425 | Therapieende | 8 | date | F002 |  |
 
-gen Erythrozytenantigene) throzytenantigene antikörper HNA-Antigene HNA-Antikörper (DCT)
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+gen Erythrozytenantigene) throzytenantigene antikörper HNA-Antigene HNA-Antikörper (DCT) Seite 44 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 3471 | Entbindungstermin | 8 | date | F002 |  |
 |---|---|---|---|---|---|
@@ -1470,9 +1715,14 @@ gen Erythrozytenantigene) throzytenantigene antikörper HNA-Antigene HNA-Antikö
 | 3689 | Status der Medikation | 1 | num | E156 | Akutmedikation / Bedarfsmedikation / Dauermedikation |
 | 4104 | Abrechnungs-VKNR | 5 | num | F001  K090  K091 | Den Kassen sind Vertragskassennummern (VKNR) zugeordnet.  Hier ist die 5-stellige VKNR der KKen zu verwenden, die aus der Kostenträgerstammdatei |
 
-(errechnet) durch Auftragslaboratorium erstellt schaften Bundesärztekammer zur Qualitätssicherung  laboratoriumsmedizinischer Untersuchungen (Rili-BÄK) Pkt. 7.4.1 und 7.4.2 zur Kennzeichnung von Untersuchungsergebnissen, die von Auftragslaboratorien erbracht wurden von der Fußsohle bis zum Scheitel. aufgrund des Institutionskennzeichens der Krankenkassen (IK) ermittelt wird.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+(errechnet) durch Auftragslaboratorium erstellt schaften Bundesärztekammer zur Qualitätssicherung  laboratoriumsmedizinischer Untersuchungen (Rili-BÄK) Pkt. 7.4.1 und 7.4.2 zur Kennzeichnung von Untersuchungsergebnissen, die von Auftragslaboratorien erbracht wurden von der Fußsohle bis zum Scheitel. aufgrund des Institutionskennzeichens der Krankenkassen (IK) ermittelt wird. Seite 45 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 4106 | Kostenträger- | 2 | num | E015   K022   K023   K024 | Kostenträgerabrechnungsbereich (KTAB): gibt die vertragliche Vereinbarung oder |
 |---|---|---|---|---|---|
@@ -1484,9 +1734,14 @@ gen Erythrozytenantigene) throzytenantigene antikörper HNA-Antigene HNA-Antikö
 | 4122 | Abrechnungsgebiet | 2 | num | E010 | Gibt an, zu welchem Abrechnungsgebiet eine erbrachte Leistung eines Arztes gehört. Die  00= kein besonderes Abrechnungsgebiet |
 | 4124 | SKT-Zusatzangaben | 5 | alnum |  | Bei |
 
-Abrechnungsbereich Versichertenkarte im gesetzliche Bestimmung an, nach der eine Abrechnung vollzogen wird. In Verbindung mit der VKNR bildet der KTAB ein eindeutiges Identifizierungsmerkmal eines Kostenträgers. jeweiligen Kostenträgers) Eingruppierung hat Auswirkungen auf den Abrechnungsprozess. Jede KV legt fest, welche Leistung zu welchem Abrechnungsgebiet gehört.  Sonstigen Kostenträgern  (SKT) Patienten (z. B. Sozialämter, Zivildienst, Polizei, Bundeswehr usw.) ist die Eingabe zusätzlicher Angaben vorgeschrieben, wenn die Patienten keine eGK vorlegen.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Abrechnungsbereich Versichertenkarte im gesetzliche Bestimmung an, nach der eine Abrechnung vollzogen wird. In Verbindung mit der VKNR bildet der KTAB ein eindeutiges Identifizierungsmerkmal eines Kostenträgers. jeweiligen Kostenträgers) Eingruppierung hat Auswirkungen auf den Abrechnungsprozess. Jede KV legt fest, welche Leistung zu welchem Abrechnungsgebiet gehört.  Sonstigen Kostenträgern  (SKT) Patienten (z. B. Sozialämter, Zivildienst, Polizei, Bundeswehr usw.) ist die Eingabe zusätzlicher Angaben vorgeschrieben, wenn die Patienten keine eGK vorlegen. Seite 46 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 4126 | SKT-Zusatzbemerkung | ≤ 60 | alnum |  | Bemerkungen zu SKT-Zusatzangaben |
 |---|---|---|---|---|---|
@@ -1501,7 +1756,10 @@ Abrechnungsbereich Versichertenkarte im gesetzliche Bestimmung an, nach der eine
 | 4209 | Zusätzliche Angaben zu | ≤ 60 | alnum | K133 |  |
 | 4210 | SER | 1 | num | E011 |  |
 
-Personengruppen Beginn Leistungsanspruch gemäß §16 Abs. 3a SGB V Verdachtsdiagnose Untersuchungen 45 standardisierter Vorgaben. Diagnose vorgegebene Behandlungsschritte. ng von Fällen mit „eingeschränk tem Leistungsanspruch gemäß § 16 Absatz 3a SGB V“.  Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten Leistungsanspruch zu informieren.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Personengruppen Beginn Leistungsanspruch gemäß §16 Abs. 3a SGB V Verdachtsdiagnose Untersuchungen 45 standardisierter Vorgaben. Diagnose vorgegebene Behandlungsschritte. ng von Fällen mit „eingeschränk tem Leistungsanspruch gemäß § 16 Absatz 3a SGB V“.  Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten Leistungsanspruch zu informieren. Seite 47 von 187
+
 
 ---
 
@@ -1514,9 +1772,16 @@ Personengruppen Beginn Leistungsanspruch gemäß §16 Abs. 3a SGB V Verdachtsdia
 | 4239 | Scheinuntergruppe | 2 | num | E009   K012   K014   K015   K016   K021   K031   K032   K041  K050   K116 | Die Angabe der Scheinuntergruppe zur Kennzeichnung um welche Art der Überweisung, |
 | 4241 | Lebenslange Arztnummer | 9 | num | F011   K014   K041 |  |
 
-Erstveranlassers weiterüberwiesen wird. bei belegärztl. Behand- Erstveranlassers einer bekannten Infektion Kontrolluntersuchung bei einer bereits bekannten Infektion beauftragt, ist das Feld „Kontrolluntersuchung einer bekannten Infektion“ zu nutzen. des Notfalls, der Belegärztlichen oder Originalen Behandlung es sich handelt, wird unter anderem für die Abbildung des EBM Regelwerks benötigt. (LANR) des Erstveranlas- sers
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Erstveranlassers weiterüberwiesen wird. bei belegärztl. Behand- Erstveranlassers einer bekannten Infektion Kontrolluntersuchung bei einer bereits bekannten Infektion beauftragt, ist das Feld „Kontrolluntersuchung einer bekannten Infektion“ zu nutzen. des Notfalls, der Belegärztlichen oder Originalen Behandlung es sich handelt, wird unter anderem für die Abbildung des EBM Regelwerks benötigt. (LANR) des Erstveranlas- sers Seite 48 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 4248 | Pseudo-LANR für Kran- | 9 | num | F022    K014 |  |
 |---|---|---|---|---|---|
@@ -1531,7 +1796,10 @@ Erstveranlassers weiterüberwiesen wird. bei belegärztl. Behand- Erstveranlasse
 | 6206 | Pharmazentralnummer | 8 | num | F020 | In Deutschland werden PZNs von der Informationsstelle für Arzneispezialitäten (IFA) |
 | 6207 | Rezeptur | ≤ 990 | alnum |  | Beschreibung der Rezeptur |
 
-kenhausärzte im Rahmen der ASV-Abrechnung des Erstveranlassers oder  (PZN) Feldlänge 5 und 6 anwendbar bei Gebührennummern aus dem EBM Gebührenziffer gekennzeichnet werden. kann ein freier Begründungstext angegeben werden.  German Modification (Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, deutschsprachige Ausgabe) aufgetretenem Regelwerksfehler dennoch übertragen werden soll. Beispiel: Es wird ein ICD 10 Code angegeben, welcher nur für weibliche Patienten gilt. Patient ist männlich. Sofern der Code verwendet werden soll, muss ein Diagnoseausnahmetatbestand angegeben werden. vergeben.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+kenhausärzte im Rahmen der ASV-Abrechnung des Erstveranlassers oder  (PZN) Feldlänge 5 und 6 anwendbar bei Gebührennummern aus dem EBM Gebührenziffer gekennzeichnet werden. kann ein freier Begründungstext angegeben werden.  German Modification (Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, deutschsprachige Ausgabe) aufgetretenem Regelwerksfehler dennoch übertragen werden soll. Beispiel: Es wird ein ICD 10 Code angegeben, welcher nur für weibliche Patienten gilt. Patient ist männlich. Sofern der Code verwendet werden soll, muss ein Diagnoseausnahmetatbestand angegeben werden. vergeben. Seite 49 von 187
+
 
 ---
 
@@ -1549,9 +1817,16 @@ kenhausärzte im Rahmen der ASV-Abrechnung des Erstveranlassers oder  (PZN) Feld
 | 7251 | Bezeichnung des | ≤ 60 | alnum |  | Beispiel: LVZ MVZ Musterstadt |
 | 7253 | Kostenübernahmeerklärun | 1 | num | E040 |  |
 
-Arzneimittels (Code-System) qualifiziert, indem der Code dem hier angegeben Code-System zugeordnet wird. Als mögliche Code- Systeme sind derzeit „WG14“, „atcgm2013“, „atcgm2014“, „atcgm2015“ und „ASK“ gestattet Fremdbefund \\FS1\TEST\BILD1.PDF. Dateiname, wie er an die Datenstelle kommuniziert wurde/wird base64-kodierte Anlage verwendeten Kataloges g des Auftraggebers liegt vor
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Arzneimittels (Code-System) qualifiziert, indem der Code dem hier angegeben Code-System zugeordnet wird. Als mögliche Code- Systeme sind derzeit „WG14“, „atcgm2013“, „atcgm2014“, „atcgm2015“ und „ASK“ gestattet Fremdbefund \\FS1\TEST\BILD1.PDF. Dateiname, wie er an die Datenstelle kommuniziert wurde/wird base64-kodierte Anlage verwendeten Kataloges g des Auftraggebers liegt vor Seite 50 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 7258 | ID Katalog durchgeführte | ≤ 60 | alnum |  | Wird vom Labor vergeben |
 |---|---|---|---|---|---|
@@ -1567,9 +1842,14 @@ Arzneimittels (Code-System) qualifiziert, indem der Code dem hier angegeben Code
 | 7272 | Freitext zum Timestamp | ≤ 990 | alnum |  | Erläuterungstext zum Timestamp |
 | 7273 | Zeitzone | 3, 5, 8, 9 | alnum | E163 | Um die Zeitangabe im Timestamp auf die jeweilige Zeitzone zu referenzieren, muss diese |
 
-Leistungen Leistungen Leistungen Datensatzes  Stationskennung unterschiedlichen Laboren muss jedes Test-Ident mit einer OID eindeutig zugeordnet werden können. Gerät und den Zeitpunkt (wird vom Gerät erzeugt). angegeben werden. Laut Empfehlung der ISO 8601wird nach einer zusammenhängenden Datums- und Zeitangabe die Differenz zur Koordinierten Weltzeit (UTC) angegeben. Das
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Leistungen Leistungen Leistungen Datensatzes  Stationskennung unterschiedlichen Laboren muss jedes Test-Ident mit einer OID eindeutig zugeordnet werden können. Gerät und den Zeitpunkt (wird vom Gerät erzeugt). angegeben werden. Laut Empfehlung der ISO 8601wird nach einer zusammenhängenden Datums- und Zeitangabe die Differenz zur Koordinierten Weltzeit (UTC) angegeben. Das Seite 51 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  |  | Format ist „±hh:mm“ oder „±hh“ und berücksichtigt damit sowohl die Zeitzone als auch die |
 |---|---|---|---|---|---|
@@ -1587,7 +1867,10 @@ Leistungen Leistungen Leistungen Datensatzes  Stationskennung unterschiedlichen 
 | 7290 | Resistenz-Interpretation | 1 | num | E030 |  |
 | 7292 | Lokalisation | ≤ 60 | alnum |  |  |
 
-Nummernpool Benachrichtigung Probenmaterial Sommerzeit. Um aus einer lokalen Zeitangabe die Zeit in UTC zu bestimmen, muss der Wert nach einem „+“ subtrahiert, der nach einem „−“ addiert werden.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Nummernpool Benachrichtigung Probenmaterial Sommerzeit. Um aus einer lokalen Zeitangabe die Zeit in UTC zu bestimmen, muss der Wert nach einem „+“ subtrahiert, der nach einem „−“ addiert werden.Seite 52 von 187
+
 
 ---
 
@@ -1599,9 +1882,16 @@ Nummernpool Benachrichtigung Probenmaterial Sommerzeit. Um aus einer lokalen Zei
 | 7302 | Testmethode | ≤ 60 | alnum |  | Angabe der Testmethode  Beispiel: ELISA/Hersteller, Standard-Kultur/Hersteller, Multiplex |
 | 7303 | Abrechnungsinfo zur | ≤ | num | E050   K003      K008   K011   K032   K034     K056   K057    K060    K097       K098    K102    K103     K105     K113 | Festlegung der Abrechnungsart |
 
-Untersuchung grenze, Gen-Sonde, Auramin-Färbung -PCR/Hersteller/Nachweis- Untersuchung K114
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Untersuchung grenze, Gen-Sonde, Auramin-Färbung -PCR/Hersteller/Nachweis- Untersuchung K114 Seite 53 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 7304 | Ergebnis-ID | ≤ 60 | alnum |  | Eindeutige ID des jeweiligen Untersuchungsergebnisses (wird durch Labor generiert). |
 |---|---|---|---|---|---|
@@ -1616,9 +1906,14 @@ Untersuchung grenze, Gen-Sonde, Auramin-Färbung -PCR/Hersteller/Nachweis- Unter
 | 7316 | Normalwert Listen- | ≤ 60 | alnum | K055 | Die Feldkennungen 7316 und 7317 sollen für eine semistrukturierte Darstellung von  Die Feldkennung 7316 dient als Überschrift einer Auflistung von Normalwerten. |
 | 7317 | Normalwert Listenzeile | ≤ 60 | alnum |  | Beispiel: *prämenopausal  *    *3.-5. ZT                     45     späte Follikelphase  30 -  90 ng/l* |
 
-bezeichnung über den gesamten Workflow der Abarbeitung des Auftrages gleich bleiben. Anhand der ID und des Timestamp der Erstellung des Datensatzes (FK 8218) bekommt das empfangende System die Möglichkeit, immer den aktuellen Befund seinem Nutzer zu präsentieren Normalwerten verwendet werden.  1.-2. ZT                    15 -  70 ng/l  120 ng/l
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+bezeichnung über den gesamten Workflow der Abarbeitung des Auftrages gleich bleiben. Anhand der ID und des Timestamp der Erstellung des Datensatzes (FK 8218) bekommt das empfangende System die Möglichkeit, immer den aktuellen Befund seinem Nutzer zu präsentieren Normalwerten verwendet werden.  1.-2. ZT                    15 -  70 ng/l  120 ng/l Seite 54 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  |  |  | *Ovulation                  80     Lutealphase              <  50 ng/l  postmenopausal* |
 |---|---|---|---|---|---|
@@ -1635,7 +1930,10 @@ bezeichnung über den gesamten Workflow der Abarbeitung des Auftrages gleich ble
 | 7333 | Faxnummer | ≤ 60 | alnum | K059 | +LK_Vorwahl_Rufnummer |
 | 7334 | Webadresse | ≤ 60 | alnum | K059 | Beispiel: www.musterarzt.de |
 
-Zeitpunkt der Materialent- Quelle relevantes Geschlecht Postadresse   200 ng/l          <  10 ng/l zu minimieren.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Zeitpunkt der Materialent- Quelle relevantes Geschlecht Postadresse   200 ng/l          <  10 ng/l zu minimieren. Seite 55 von 187
+
 
 ---
 
@@ -1655,9 +1953,16 @@ Zeitpunkt der Materialent- Quelle relevantes Geschlecht Postadresse   200 ng/l  
 | 7358 | Name im Klartext | ≤ 60 | alnum |  | Beispiel: Katrin Mustermann |
 | 7359 | Wirkstoff-OID | ≤ 60 | alnum |  | Beispiel: ATC-Code |
 
-Chemotherapie des Genitals Chemotherapie des Genitales  Welche? Chemotherapie des Genitales - Wann? alternativen elektronischen Postadresse “, ….(wird vom Labor vergeben)
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Chemotherapie des Genitals Chemotherapie des Genitales  Welche? Chemotherapie des Genitales - Wann? alternativen elektronischen Postadresse “, ….(wird vom Labor vergeben)Seite 56 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 7361 | Keim-ID im Katalog | ≤ 60 | alnum |  |  |
 |---|---|---|---|---|---|
@@ -1673,7 +1978,10 @@ Chemotherapie des Genitals Chemotherapie des Genitales  Welche? Chemotherapie de
 | 7371 | Alarmwert obere Grenze | ≤ 60 | f |  | Oberer Alarmwert des aktuellen Normalbereiches |
 | 7372 | Tumorklassifikation | ≤ 60 | alnum |  |  |
 
-angeforderten Leistung verwertbar Handelsname vom September 2014 Abschnitt: 6.1.5 (2 f)).  manuell aufgetragene Nummer verwendet werden. Beispiel: Na, Test12Z, B84123, etc. Beispiel: Natrium, Kalium, Calcium, etc.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+angeforderten Leistung verwertbar Handelsname vom September 2014 Abschnitt: 6.1.5 (2 f)).  manuell aufgetragene Nummer verwendet werden. Beispiel: Na, Test12Z, B84123, etc. Beispiel: Natrium, Kalium, Calcium, etc. Seite 57 von 187
+
 
 ---
 
@@ -1695,9 +2003,16 @@ angeforderten Leistung verwertbar Handelsname vom September 2014 Abschnitt: 6.1.
 | 7403 | Low-Risk | 1 | num | E169 |  |
 | 7404 | Low Risk Typ | ≤ 120 | alnum | F024 | Beispiel: Einzelwert = 42 |
 
-Blutung Ovulationshemmer / sonstige Hormon- Anwendung , Wertegruppe = G1:31/33/52/58
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Blutung Ovulationshemmer / sonstige Hormon- Anwendung , Wertegruppe = G1:31/33/52/58 Seite 58 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 7405 | Endozervikale Zellen | 1 | num | E060     K134 |  |
 |---|---|---|---|---|---|
@@ -1713,9 +2028,14 @@ Blutung Ovulationshemmer / sonstige Hormon- Anwendung , Wertegruppe = G1:31/33/5
 | 7415 | Zytologische Kontrolle | 1 | num | E040     K123   K124 |  |
 | 7416 | Grund der Nachkontrolle | 1 | num | E061 |  |
 
-Beispiel: 6,1 für das Ergebnis Iva-p in FK7414 -Gruppe bezeichnet).  Beispiel: IVa-p
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Beispiel: 6,1 für das Ergebnis Iva-p in FK7414 -Gruppe bezeichnet).  Beispiel: IVa-p Seite 59 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 7417 | Abklärungskolposkopie | 1 | num | E040   K123   K124 |  |
 |---|---|---|---|---|---|
@@ -1733,9 +2053,14 @@ Beispiel: 6,1 für das Ergebnis Iva-p in FK7414 -Gruppe bezeichnet).  Beispiel: 
 | 7429 | DRG_Hinweis | ≤ 990 | alnum |  | Hier können Hinweise zu DRG´s übermittelt werden. |
 | 7430 | Patienten-ID im | ≤ 60 | alnum |  | Hier wird die Patienten- |
 
-Rechnungsempfänger Zytologie Selektivvertrag ID übermittelt, die der Patient im Selektivvertrag hat, in den er eingeschrieben ist.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Rechnungsempfänger Zytologie Selektivvertrag ID übermittelt, die der Patient im Selektivvertrag hat, in den er eingeschrieben ist. Seite 60 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 7431 | Fachgebiet | 1 | num | E164 | Hier wird das Fachgebiet angegeben, für welches das |
 |---|---|---|---|---|---|
@@ -1747,9 +2072,14 @@ Rechnungsempfänger Zytologie Selektivvertrag ID übermittelt, die der Patient i
 | 8003 | Objektende | 8 | alnum | E066 |  |
 | **Mit den Feldkennungen 8101 bis 8299 folgen die Objektattribute, nach denen Objekte auftreten müssen. ** Diese Felder definieren die Verwendung bzw. den Verwendungszweck eines Objekts im Kontext seines Auftretens. Daher können verschiedene Felder ein Objekt einleiten | | | | | |
 
-Patienten (n:1-Beziehung). Als Inhalt dieser Felder wird jeweils die Feldbezeichnung als Freitext angegeben. Beispielsweise kann so vor einem Objekt, welches eine Diagnose beinhaltet, angegeben werden, ob es sich um die Akutdiagnose oder die Dauerdiagnose handelt. Die Objekte werden so in ihrer Darstellung unabhängiger vom Verwendungszweck und der Verwendungszweck ist bereits beim Parsen bekannt, ohne dass das Objekt analysiert werden muss. Obj_Sonstige_Untersuchungsergebnisse genutzt wird.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Patienten (n:1-Beziehung). Als Inhalt dieser Felder wird jeweils die Feldbezeichnung als Freitext angegeben. Beispielsweise kann so vor einem Objekt, welches eine Diagnose beinhaltet, angegeben werden, ob es sich um die Akutdiagnose oder die Dauerdiagnose handelt. Die Objekte werden so in ihrer Darstellung unabhängiger vom Verwendungszweck und der Verwendungszweck ist bereits beim Parsen bekannt, ohne dass das Objekt analysiert werden muss. Obj_Sonstige_Untersuchungsergebnisse genutzt wird. Seite 61 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | Siehe dazu auch Implementierungshinweis | | | | | |
 |---|---|---|---|---|---|
@@ -1763,9 +2093,14 @@ Patienten (n:1-Beziehung). Als Inhalt dieser Felder wird jeweils die Feldbezeich
 | 8108 | Adressat | 8 | alnum | E078 | Nach dem Vorkommen der Feldkennung folgt das Obj_0008 (Adressat). |
 | 8109 | Abrechnung_OEGD | 16 | alnum | E170    K027    K070     K097 | Nach dem Vorkommen der Feldkennung folgt das Obj_0009 (Abrechnung OEGD). |
 
-Kostenuebernahme _Selektivvertrag  (Abrechnung Sonstige
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Kostenuebernahme _Selektivvertrag  (Abrechnung Sonstige Seite 62 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8110 | Anhang | 6 | alnum | E079 | Nach dem Vorkommen der Feldkennung folgt das Obj_0010 (Anhang). |
 |---|---|---|---|---|---|
@@ -1784,9 +2119,14 @@ Kostenuebernahme _Selektivvertrag  (Abrechnung Sonstige
 | 8135 | Laborergebnisbericht | 20 | alnum | E091 | Nach dem Vorkommen der Feldkennung folgt das Obj_0035 (Laborergebnisbericht). |
 | 8136 | Laborkennung | 12 | alnum | E092 | Nach dem Vorkommen der Feldkennung folgt das Obj_0036 (Laborkennung). |
 
-_Befundweg _Aufmerksamkeit vix-Karzinom  (Fehlermeldung /  (Krebsfrüherkennung Zervix-
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+_Befundweg _Aufmerksamkeit vix-Karzinom  (Fehlermeldung /  (Krebsfrüherkennung Zervix-Seite 63 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 8137 | Material | 8 | alnum | E093    K069 | Nach dem Vorkommen der Feldkennung folgt das Obj_0037 (Material). |
 |---|---|---|---|---|---|
@@ -1802,8 +2142,14 @@ _Befundweg _Aufmerksamkeit vix-Karzinom  (Fehlermeldung /  (Krebsfrüherkennung 
 | 8153 | Tier_Sonstiges | 14 | alnum | E103    K083   K084 | Nach dem Vorkommen der Feldkennung folgt das Obj_0053 (Tier/Sonstiges). |
 | 8154 | Timestamp | 9 | alnum | E104 | Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp). |
 
+LDT 3 Satzbeschreibung, Version 3.2.1 9
+
+Seite 64 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8155 | Blutgruppenzugehoerigkei | 25 | alnum | E105 | Nach dem Vorkommen der Feldkennung folgt das Obj_0055 (Blutgruppenzugehoerigkeit). |
 |---|---|---|---|---|---|
@@ -1820,9 +2166,14 @@ _Befundweg _Aufmerksamkeit vix-Karzinom  (Fehlermeldung /  (Krebsfrüherkennung 
 | 8171 | Wirkstoff | 9 | alnum | E155 | Nach dem Vorkommen der Feldkennung folgt das Obj_0071 (Wirkstoff). |
 | 8200 | Akutdiagnose | 12 | alnum | E116 | Nach dem Vorkommen der Feldkennung folgt das Obj_0100 (Diagnose).  Die aus der Sicht des beauftragenden Arztes für die Fragestellung relevanten Diagnosen |
 
-_Zervix-Karzinom _Informationen Mikrobiologie). können im jeweils nachfolgenden Obj_0100 (Diagnose) übermittelt werden.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+_Zervix-Karzinom _Informationen Mikrobiologie). können im jeweils nachfolgenden Obj_0100 (Diagnose) übermittelt werden. Seite 65 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8212 | Softwareverantwortlicher | 24 | alnum | E118 | Nach dem Vorkommen der Feldkennung folgt das Obj_0043 (Organisation). |
 |---|---|---|---|---|---|
@@ -1838,9 +2189,14 @@ _Zervix-Karzinom _Informationen Mikrobiologie). können im jeweils nachfolgenden
 | 8222 | Timestamp_Beginn | 25 | alnum | E128 | Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp). |
 | 8223 | Timestamp_Ergebnis- | 28 | alnum | E129 | Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp). |
 
-_Untersuchungs- anforderung erteilung eingang erstellung ngsgrund _Datensatz nahme_entnahme erfassung_Material _Laborergebnisbericht _Analytik erstellung
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+_Untersuchungs- anforderung erteilung eingang erstellung ngsgrund _Datensatz nahme_entnahme erfassung_Material _Laborergebnisbericht _Analytik erstellung Seite 66 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8224 | Timestamp_QM_Er- | 22 | alnum | E130 | Nach dem Vorkommen der Feldkennung folgt das Obj_0054 (Timestamp). |
 |---|---|---|---|---|---|
@@ -1857,9 +2213,14 @@ _Untersuchungs- anforderung erteilung eingang erstellung ngsgrund _Datensatz nah
 | 8236 | Testbezogene_Hinweise | 21 | alnum | E142    K100 | Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext). |
 | 8237 | Ergebnistext | 12 | alnum | E143    K100 | Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext). |
 
-fassung _Kommunikationsdaten
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+fassung _Kommunikationsdaten Seite 67 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8238 | Auftragsbezogene | 25 | alnum | E144    K100 | Nach dem Vorkommen der Feldkennung folgt das Obj_0068 (Fließtext). |
 |---|---|---|---|---|---|
@@ -1877,9 +2238,14 @@ fassung _Kommunikationsdaten
 | 8310 | Auftragsnummer des | ≤ 60 | alnum |  | Eindeutige Kennzeichnung eines Auftrages, welche durch das Primärsystem des |
 | 8311 | Auftragsnummer des | ≤ 60 | alnum |  | Bezeichnet die eindeutige Nummer, unter der das Labor den Auftrag entgegen nimmt. Die |
 
-_Hinweise von_anderen_Aerzten _Medikamenteneinnahme _Hinweise _Empfehlung Einsenders Labors Ersteinsendenden vergeben wird (kann auch eine OID sein). Struktur und Form der Nummer wird vom Labor selbst frei festgelegt.  (Sonstige
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+_Hinweise von_anderen_Aerzten _Medikamenteneinnahme _Hinweise _Empfehlung Einsenders Labors Ersteinsendenden vergeben wird (kann auch eine OID sein). Struktur und Form der Nummer wird vom Labor selbst frei festgelegt.  (Sonstige Seite 68 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 8312 | Kunden- (Arzt) Nummer | ≤ 20 | alnum |  | Kennung des einsendenden Arztes, die durch das Labor vergeben wird. |
 |---|---|---|---|---|---|
@@ -1894,9 +2260,14 @@ _Hinweise von_anderen_Aerzten _Medikamenteneinnahme _Hinweise _Empfehlung Einsen
 | 8417 | Anlass der Untersuchung | 2 | num | E146 |  |
 | 8418 | Ergebnisstatus | 2 | alnum | E007      K076    K082     K096 | Status des übermittelten Untersuchungsergebnisses |
 
-bereits bestehenden Überweisungsauftrag auf der Grundlage einer medizinischen Bewertung der bis dahin vorliegenden Befundergebnisse und der sich daraus ergebenden medizinischen Notwendigkeit zur Nachuntersuchung der entnommenen Probe mit weiteren ergänzenden Untersuchungen. Die Nachforderung wird aus der bereits entnommenen Patientenprobe durchgeführt. abgeschlossen“ oder „Auftrag abgeschlossen“ definiert. dieses Analyts, wie z.B. Normbereich, Preis und Dimension zum aktuellen Zeitpunkt)
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+bereits bestehenden Überweisungsauftrag auf der Grundlage einer medizinischen Bewertung der bis dahin vorliegenden Befundergebnisse und der sich daraus ergebenden medizinischen Notwendigkeit zur Nachuntersuchung der entnommenen Probe mit weiteren ergänzenden Untersuchungen. Die Nachforderung wird aus der bereits entnommenen Patientenprobe durchgeführt. abgeschlossen“ oder „Auftrag abgeschlossen“ definiert. dieses Analyts, wie z.B. Normbereich, Preis und Dimension zum aktuellen Zeitpunkt) Seite 69 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8419 | Einheitensystem des | 1 | num | E070  K002 | SI-Einheit, abweichende Einheit, dimensionslos |
 |---|---|---|---|---|---|
@@ -1913,9 +2284,14 @@ bereits bestehenden Überweisungsauftrag auf der Grundlage einer medizinischen B
 | 8434 | Anforderungen | ≤ 60 | alnum | K010   K037 | Textanforderung, wenn im Leistungsverzeichnis kein Äquivalent gefunden wurde. |
 | 8460 | Normalwert-Text | ≤ 990 | alnum | K055 | Textfeld zur Erläuterung des Ergebnisses in Bezug auf den Normalwert |
 
-Laborwerts Veranlassungsgrundes Bezeichnung Spezifikation
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Laborwerts Veranlassungsgrundes Bezeichnung Spezifikation Seite 70 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  |  |  | Hinweis: |
 |---|---|---|---|---|---|
@@ -1933,9 +2309,14 @@ Laborwerts Veranlassungsgrundes Bezeichnung Spezifikation
 | 8610 | Privattarif | 1 | num | E017 |  |
 | 8611 | Zusätzlicher Befundweg | 1 | num | E013 | Merkmal für Befundübermittlung in eiligen und Notfällen |
 
-Patienten liegt vor zum Zeitpunkt der        Probenentnahme Bezugsmenge, Wirkstärke Kann für das Untersuchungsergebnis kein Normalbereich angegeben werden, so ist in FK8460 als Wert „k.A.“ zu übertragen. zustimmungspflichtigen Untersuchungen laut Gendiagnostikgesetz vor. sonstige Angaben zur Abrechnung (Faktor, Sammelrechnung etc.)
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Patienten liegt vor zum Zeitpunkt der        Probenentnahme Bezugsmenge, Wirkstärke Kann für das Untersuchungsergebnis kein Normalbereich angegeben werden, so ist in FK8460 als Wert „k.A.“ zu übertragen. zustimmungspflichtigen Untersuchungen laut Gendiagnostikgesetz vor. sonstige Angaben zur Abrechnung (Faktor, Sammelrechnung etc.) Seite 71 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | 8614 | bereits abgerechnet | 1 | num | E040 | 1 = Ja, wenn der GOP durch den Ersteller des Befundes abgerechnet wird  0 = Nein, wenn Abrechnung der GOP durch Befundempfänger erfolgt |
 |---|---|---|---|---|---|
@@ -1949,9 +2330,14 @@ Patienten liegt vor zum Zeitpunkt der        Probenentnahme Bezugsmenge, Wirkst�
 | 8623 | Identifikation/Aktenzeiche | ≤ 22 | alnum |  |  |
 | 8624 | Covid-Beauftragung | 1 | num | E174 |  |
 
-n ÖGD Aufbau ist GUID: <XXXXXX>-<UUID>. Komplette Form des Strings: XXXXXX-XXXXXXXX-XXXX-XXXX-XXXX- XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zugehörigen Separatoren erzeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl erzeugt, welche ggf. linksbündig mit “0” gefüllt we rden kann.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+n ÖGD Aufbau ist GUID: <XXXXXX>-<UUID>. Komplette Form des Strings: XXXXXX-XXXXXXXX-XXXX-XXXX-XXXX- XXXXXXXXXXXX. <UUID> wird gemäß RFC4122 Version 4 erzeugt mit den zugehörigen Separatoren erzeugt.  <XXXXXX> wird eine 6-stellige hexadezimale Zufallszahl erzeugt, welche ggf. linksbündig mit “0” gefüllt we rden kann.  Seite 72 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8625 | PLZ ÖGD | 5 | alnum |  |  |
 |---|---|---|---|---|---|
@@ -1969,9 +2355,14 @@ n ÖGD Aufbau ist GUID: <XXXXXX>-<UUID>. Komplette Form des Strings: XXXXXX-XXXX
 | 9980 | Externe Dokumenten-ID | var | alnum |  |  |
 | 9981 | Dokumentenquelle | 1 | num | E044 |  |
 
-Testung Namenszeichen Speicherort Pfad / Speicherort zur Archivierung Beispiel: KMu Berechnung des Prüfwertes nach SHA-1
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Testung Namenszeichen Speicherort Pfad / Speicherort zur Archivierung Beispiel: KMu Berechnung des Prüfwertes nach SHA-1 Seite 73 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 # Regeltabellen
 
@@ -1990,9 +2381,14 @@ Die Formatregeln definieren die zulässigen Formate der Werteinhalte der Feldken
 | F005 | Basis | F | WWT | Format Woche/Tag  WW =  Wochen, T = Tag (Wertebereich 0 |
 | F006 | Basis | F | hhmm | Format Zeitdauer  hh = Stunde, mm = Minute   hh = 00  mm = 00 |
 
-mmer Codes im Format “ann. “ dürfen nicht in Abrechnungsdateien verwendet werden.  99  59   6)
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+mmer Codes im Format “ann. “ dürfen nicht in Abrechnungsdateien verwendet werden.  99  59   6) Seite 74 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | F007 | Basis | F | LDTn.n.n, LDTn.n.nn, LDTn.n.nnn, | Format Versionsnummer der Datensatzbeschreibung |
 |---|---|---|---|---|
@@ -2001,9 +2397,14 @@ mmer Codes im Format “ann. “ dürfen nicht in Abrechnungsdateien verwendet w
 | F011 | KBV | F | nnnnnnmff | Format LANR  m = Prüfziffer *  ff = erlaubter Inhalt gemäß Anlage 35 des BAR-Schlüsselverzeichnisses,  999999900 = Ärzte ohne LANR  *  Diese Prüfziffer wird mittels des Modulo 10 |
 | F012 | KBV | F | a/nn/JJMM/MM/aaa | Format KBV-Prüfnummer  A = [V, X, Y, Z]  nn = [00-99]  JJMM = Jahr/Monat  MM = Dauer in Monaten  aaa = Systemident (alphanumerisch) |
 
-LDTn.n.nnnn, LDTn.nn.n, LDTn.nn.nn, LDTn.nn.nnn, LDTn.nn.nnnn G-alpha ::= A|B|...|Z n ::= 0|1|...|9 tolerierter Ersatzwert für die Ziffern 8 Die Prüfziffer wird dazu verwendet um zu prüfen, ob die eingetragene Ziffer formal korrekt ist.  Arztnummer ermittelt. Bei diesem Verfahren werden die Ziffern 1 bis 6 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte wird Modulo 10 berechnet. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10 (ist die Differenz 10, so ist die Prüfziffer 0).  9: 00  Verfahrens der Stellen 1 bis 6 der
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+LDTn.n.nnnn, LDTn.nn.n, LDTn.nn.nn, LDTn.nn.nnn, LDTn.nn.nnnn G-alpha ::= A|B|...|Z n ::= 0|1|...|9 tolerierter Ersatzwert für die Ziffern 8 Die Prüfziffer wird dazu verwendet um zu prüfen, ob die eingetragene Ziffer formal korrekt ist.  Arztnummer ermittelt. Bei diesem Verfahren werden die Ziffern 1 bis 6 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte wird Modulo 10 berechnet. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10 (ist die Differenz 10, so ist die Prüfziffer 0).  9: 00  Verfahrens der Stellen 1 bis 6 der Seite 75 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | F013 | KBV | F | annnnnnnnP | Format Versicherten-ID  a = A-Z (ohne Umlaute)  n = numerisch  P = Prüfziffer, numerisch (Verfahren zur Bestimmung der Prüfziffer vgl. |
 |---|---|---|---|---|
@@ -2014,9 +2415,16 @@ LDTn.n.nnnn, LDTn.nn.n, LDTn.nn.nn, LDTn.nn.nnn, LDTn.nn.nnnn G-alpha ::= A|B|..
 | F018 | Basis | F | JJJJMMTT | Format Datum  TT = Tag, MM = Monat, JJJJ = Jahr  zusätzlich erlaubter Wertebereich: JJJJMM00, JJJJ0000 |
 | F020 | Basis | F | nnnnnnnP | Format der Pharmazentralnummer (PZN) |
 
-Erläuterung der FK 3119 in Feldtabelle) Die Prüfziffer wird mittels des Modulo 10 ASV-Teamnummer ermittelt. Bei diesem Verfahren werden die Ziffern 3 bis 8 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte wird Modulo 10 berechnet. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10.  23)  59)  59)  999)  Verfahrens der Stellen 3 bis 8 der
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Erläuterung der FK 3119 in Feldtabelle) Die Prüfziffer wird mittels des Modulo 10 ASV-Teamnummer ermittelt. Bei diesem Verfahren werden die Ziffern 3 bis 8 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte wird Modulo 10 berechnet. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10.  23)  59)  59)  999)  Verfahrens der Stellen 3 bis 8 der Seite 76 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | nnnnnnn = Nummer  P = Prüfziffer |
 |---|---|---|---|---|
@@ -2025,10 +2433,16 @@ Erläuterung der FK 3119 in Feldtabelle) Die Prüfziffer wird mittels des Modulo
 | F023 | KBV | F | n, nn, n-n, n-nn, nn-nn | Format für Angabe des Zeitraums in Monaten   (Bsp.: 2 Monate, 3-6 Monate, 10-12 Monate) |
 | F024 | KBV | F | HPV-Typ-Nummer \| ( [ Gruppenname ':' ] | EBNF*-Format für entweder eine einzelne HPV-Typ-Nummer oder eine  * |
 
-HPV-Typ-Nummer | ( [ Gruppenname ':' ] HPV-Typ-Nummer ( ('/' | '_' ) HPV-Typ- Nummer )+ ) (ASV-AV Anlage 3 Fachgruppencodierungen) Gruppe von mehreren HPV-Typ-Nummern mit optional vorangestelltem gerätespezifischen Gruppennamen. besitzen alphanumerisches G1:31/33/52/58) Erweiterte Backus-Naur-Form und Format. 18, 
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+HPV-Typ-Nummer | ( [ Gruppenname ':' ] HPV-Typ-Nummer ( ('/' | '_' ) HPV-Typ- Nummer )+ ) (ASV-AV Anlage 3 Fachgruppencodierungen) Gruppe von mehreren HPV-Typ-Nummern mit optional vorangestelltem gerätespezifischen Gruppennamen. besitzen alphanumerisches G1:31/33/52/58) Erweiterte Backus-Naur-Form und Format. 18, Seite 77 von 187
 
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 ## 10.2 Erlaubte Inhalte
 
@@ -2044,14 +2458,22 @@ Die Regeln „Erlaubte Inhalte“ definieren den definierten Wertevorrat für di
 | E006 | Basis | F | 1, 2 | 1 = Auftrag nicht abgeschlossen |
 | E007 | Basis | F | 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12 | **01** |
 
-mmer 3 = Familienversicherter  5 = Rentner „N“ = im Normalbereich “H” oder „+“ = schwach erhöht,  “HH” oder „++“ = stark erhöht, “L” oder „ “ = schwach erniedrigt,  “LL” oder „–“ = stark erniedrigt, „!H“ oder „!+“ = Wert extrem erhöht, „!L“ oder „! „ = Wert extrem erniedrigt. “N” = normal (anzuwenden bei nicht numerischen Werten), “A” = a uffällig (anzuwenden bei nicht numerischen Werten),  “AA” = sehr auffällig (anzuwenden bei nicht numerischen Werten). 2 = Auftrag abgeschlossen = keine gesicherte Information  Es ist keine gesicherte Information zum Ergebnis verfügbar oder abzubilden und
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+mmer 3 = Familienversicherter  5 = Rentner „N“ = im Normalbereich “H” oder „+“ = schwach erhöht,  “HH” oder „++“ = stark erhöht, “L” oder „ “ = schwach erniedrigt,  “LL” oder „–“ = stark erniedrigt, „!H“ oder „!+“ = Wert extrem erhöht, „!L“ oder „! „ = Wert extrem erniedrigt. “N” = normal (anzuwenden bei nicht numerischen Werten), “A” = a uffällig (anzuwenden bei nicht numerischen Werten),  “AA” = sehr auffällig (anzuwenden bei nicht numerischen Werten). 2 = Auftrag abgeschlossen = keine gesicherte Information  Es ist keine gesicherte Information zum Ergebnis verfügbar oder abzubilden und Seite 78 von 187
+
 
 ---
 
 |  |  |  |  | *es wird auch keine Information dazu ausgegeben oder angegeben werden ***02 03 04 05 06 07 08 09 10** |
 |---|---|---|---|---|
 
-können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die es aktuell noch kein Ergebnis gibt.  = Ergebnis   Ein technisch validiertes Ergebnis ist ermittelt.  = Ergebnis korrigiert  Ein technisch validiertes Ergebnis wurde korrigiert. Die Korrektur ist zu dokumentieren. Es erfolgt keine weitere Abrechnung.   = Ergebnis ermittelt   Ein ärztlich validiertes Ergebnis liegt vor, allerdings läuft die Analytik zur Absicherung noch weiter. In Einzelfällen können sich noch Veränderungen ergeben. Es folgt dann ein korrigiertes Ergebnis.  = Befundergebnis  Die Analytik dieser Untersuchungsanforderung ist abgeschlossen und ein ärztlich validiertes Ergebnis liegt vor.  = Befundergebnis bereits berichtet Das Befundergebnis ist unverändert schon mindestens einmal übermittelt worden (keine Abrechnung!).  = Befundergebnis korrigiert  Das schon übermittelte Befundergebnis ist korrigiert worden. Damit hat nur noch dieses korrigierte Befundergebnis Gültigkeit und alle bisherigen Befundergebnisse zu dieser Untersuchungsanforderung verlieren Ihre Gültigkeit. Die Korrektur ist zu dokumentieren. Es erfolgt keine weitere Abrechnung.  = Ergebnis fehlt  Das Ergebnis ist nicht vorhanden oder kann nicht mehr ermittelt werden. Weil das Ergebnis fehlt, kann auch kein Befundergebnis erstellt werden.  = Erweiterte Analytik erforderlich  Eine erweiterte Untersuchungsanalytik zur besseren Beurteilung und Absicherung des bisher ermittelten ärztlich validierten Befundes ist erforderlich. Die weiteren Ergebnisse werden in folgenden Befundberichten ergänzt.  Kommentar: Diese Ergebnisse werden zu Befunden (einer Leistung). Der Befundbericht vor Einleitung der erweiterten Analytik kann nur den Status „Auftrag nicht abgeschlossen“ haben.  Sollte dies nicht zutreffen ist ein neuer Auftrag zu erstellen“!
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die es aktuell noch kein Ergebnis gibt.  = Ergebnis   Ein technisch validiertes Ergebnis ist ermittelt.  = Ergebnis korrigiert  Ein technisch validiertes Ergebnis wurde korrigiert. Die Korrektur ist zu dokumentieren. Es erfolgt keine weitere Abrechnung.   = Ergebnis ermittelt   Ein ärztlich validiertes Ergebnis liegt vor, allerdings läuft die Analytik zur Absicherung noch weiter. In Einzelfällen können sich noch Veränderungen ergeben. Es folgt dann ein korrigiertes Ergebnis.  = Befundergebnis  Die Analytik dieser Untersuchungsanforderung ist abgeschlossen und ein ärztlich validiertes Ergebnis liegt vor.  = Befundergebnis bereits berichtet Das Befundergebnis ist unverändert schon mindestens einmal übermittelt worden (keine Abrechnung!).  = Befundergebnis korrigiert  Das schon übermittelte Befundergebnis ist korrigiert worden. Damit hat nur noch dieses korrigierte Befundergebnis Gültigkeit und alle bisherigen Befundergebnisse zu dieser Untersuchungsanforderung verlieren Ihre Gültigkeit. Die Korrektur ist zu dokumentieren. Es erfolgt keine weitere Abrechnung.  = Ergebnis fehlt  Das Ergebnis ist nicht vorhanden oder kann nicht mehr ermittelt werden. Weil das Ergebnis fehlt, kann auch kein Befundergebnis erstellt werden.  = Erweiterte Analytik erforderlich  Eine erweiterte Untersuchungsanalytik zur besseren Beurteilung und Absicherung des bisher ermittelten ärztlich validierten Befundes ist erforderlich. Die weiteren Ergebnisse werden in folgenden Befundberichten ergänzt.  Kommentar: Diese Ergebnisse werden zu Befunden (einer Leistung). Der Befundbericht vor Einleitung der erweiterten Analytik kann nur den Status „Auftrag nicht abgeschlossen“ haben.  Sollte dies nicht zutreffen ist ein neuer Auftrag zu erstellen“!Seite 79 von 187
+
 
 ---
 
@@ -2066,7 +2488,12 @@ können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die
 | E014 | KBV | F | 01-03, 06-21, 24, 25, 27, 28, 31, 37- | Zulässige |
 | E015 | KBV | F | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 | 00 = Primärabrechnung |
 
-= Material fehlt  Für die Untersuchungsanforderung ist kein Material für die Analytik vorhanden.  = Storniert  Die Untersuchungsanforderung wurde storniert. 1 = BMÄ 2 = EGO 3 = GOÄ  4 = BG Tarif 23 = Konsiliaruntersuchung 24 = Mit-/Weiterbehandlung 27 = Überweisungsschein für Laboratoriumsuntersuchungen als  00 = Auftragsleistung (Muster 10) 28 = Anforderungsschein für Laboratoriumsuntersuchungen bei  00 = Laborgemeinschaften (Muster 10A) 1 = Telefon 2 = Fax 3 = E-Mail 4 = DFÜ 5 = Tourpost 6 = KV-Connect 81, 83, 85-88, 93-96, 98, 99 73,  78- UKV/OKV-Kennungen Knappschaftskennung in den Arztnummern und 01 = Sozialversicherungsabkommen (SVA)
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+= Material fehlt  Für die Untersuchungsanforderung ist kein Material für die Analytik vorhanden.  = Storniert  Die Untersuchungsanforderung wurde storniert. 1 = BMÄ 2 = EGO 3 = GOÄ  4 = BG Tarif 23 = Konsiliaruntersuchung 24 = Mit-/Weiterbehandlung 27 = Überweisungsschein für Laboratoriumsuntersuchungen als  00 = Auftragsleistung (Muster 10) 28 = Anforderungsschein für Laboratoriumsuntersuchungen bei  00 = Laborgemeinschaften (Muster 10A) 1 = Telefon 2 = Fax 3 = E-Mail 4 = DFÜ 5 = Tourpost 6 = KV-Connect 81, 83, 85-88, 93-96, 98, 99 73,  78- UKV/OKV-Kennungen Knappschaftskennung in den Arztnummern und 01 = Sozialversicherungsabkommen (SVA) Seite 80 von 187
+
 
 ---
 
@@ -2078,7 +2505,12 @@ können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die
 | E019 | Basis | F | M, W, D, X, U | M = männlich |
 | E020 | KBV | F | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, | 00 = keine Angabe |
 
-03 = Bundesentschädigungsgesetz (BEG) 04 = Grenzgänger (GG) 05 = Rheinschiffer (RHS) 06 = Sozialhilfeträger, ohne Asylstellen (SHT) 07 = Bundesvertriebenengesetz (BVFG)  08 = Asylstellen (AS) 09 = Schwangerschaftsabbrüche 2 = Pilz 2 = Post B 3 = KVB W = weiblich D = divers X = unbestimmt W = weiblich D = divers X = unbestimmt  U = unbekannt 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale  06 = COPD (chronic obstructive pulmo-nary disease) 07 = Chronische Herzinsuffizienz 08 = Depression 09 = Rückenschmerz 10 = Rheuma
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+03 = Bundesentschädigungsgesetz (BEG) 04 = Grenzgänger (GG) 05 = Rheinschiffer (RHS) 06 = Sozialhilfeträger, ohne Asylstellen (SHT) 07 = Bundesvertriebenengesetz (BVFG)  08 = Asylstellen (AS) 09 = Schwangerschaftsabbrüche 2 = Pilz 2 = Post B 3 = KVB W = weiblich D = divers X = unbestimmt W = weiblich D = divers X = unbestimmt  U = unbekannt 11, 12, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale  06 = COPD (chronic obstructive pulmo-nary disease) 07 = Chronische Herzinsuffizienz 08 = Depression 09 = Rückenschmerz 10 = Rheuma Seite 81 von 187
+
 
 ---
 
@@ -2086,7 +2518,12 @@ können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die
 |---|---|---|---|---|
 | E021 | KBV | F | 00, 04, 06, 07, 08, 09 | 00 = keine Angabe |
 
-35 = Asthma 36 = Asthma, Diabetes Typ 2 und KHK 37 = Brustkrebs und Diabetes Typ 2 38 = Diabetes Typ 1 und KHK 39 = Asthma und Diabetes Typ 1 40 = Asthma und Brustkrebs 41 = Brustkrebs und KHK 42 = Brustkrebs und COPD 43 = COPD und Diabetes Typ 1 44 = Brustkrebs, Diabetes Typ 2 und KHK 45 = Asthma, Brustkrebs und Diabetes Typ 2 46 = Brustkrebs und Diabetes Typ 1 47 = COPD, Diabetes Typ 1 und KHK 48 = Brustkrebs, COPD und Diabetes Typ 2 49 = Asthma, Diabetes Typ 1 und KHK 50 = Asthma, Brustkrebs und KHK 51 = Brustkrebs, COPD und KHK 52 = Brustkrebs, COPD, Diabetes Typ 2 und KHK 53 = Asthma, Brustkrebs, Diabetes Typ 2 und KHK 54 = Brustkrebs, Diabetes Typ 1 und KHK 55 = Asthma, Brustkrebs und Diabetes Typ 1 56 = Asthma, Brustkrebs, Diabetes Typ 1 und KHK 57 = Brustkrebs, COPD und Diabetes Typ 1 04 = BSHG (Bundessozialhilfegesetz) § 264 SGB V 06 = SER (Soziales Entschädigungsrecht) 07 = SVA-Kennzeichnung für zwischenstaatliches  00 = Krankenversicherungsrecht: Personen mit Wohnsitz im Inland, 00 = Abrechnung nach Aufwand
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+35 = Asthma 36 = Asthma, Diabetes Typ 2 und KHK 37 = Brustkrebs und Diabetes Typ 2 38 = Diabetes Typ 1 und KHK 39 = Asthma und Diabetes Typ 1 40 = Asthma und Brustkrebs 41 = Brustkrebs und KHK 42 = Brustkrebs und COPD 43 = COPD und Diabetes Typ 1 44 = Brustkrebs, Diabetes Typ 2 und KHK 45 = Asthma, Brustkrebs und Diabetes Typ 2 46 = Brustkrebs und Diabetes Typ 1 47 = COPD, Diabetes Typ 1 und KHK 48 = Brustkrebs, COPD und Diabetes Typ 2 49 = Asthma, Diabetes Typ 1 und KHK 50 = Asthma, Brustkrebs und KHK 51 = Brustkrebs, COPD und KHK 52 = Brustkrebs, COPD, Diabetes Typ 2 und KHK 53 = Asthma, Brustkrebs, Diabetes Typ 2 und KHK 54 = Brustkrebs, Diabetes Typ 1 und KHK 55 = Asthma, Brustkrebs und Diabetes Typ 1 56 = Asthma, Brustkrebs, Diabetes Typ 1 und KHK 57 = Brustkrebs, COPD und Diabetes Typ 1 04 = BSHG (Bundessozialhilfegesetz) § 264 SGB V 06 = SER (Soziales Entschädigungsrecht) 07 = SVA-Kennzeichnung für zwischenstaatliches  00 = Krankenversicherungsrecht: Personen mit Wohnsitz im Inland, 00 = Abrechnung nach Aufwand Seite 82 von 187
+
 
 ---
 
@@ -2095,9 +2532,16 @@ können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die
 | E022 | KBV | F | 00, 01, 02, 03, 17, 20, 38, 46, (47), (48), (49), | 00 = Dummy bei eGK  ( ) fusioniert, teilweise aber noch in Gebrauch |
 | E023 | Basis | F | 01, 02, 03, 04, 05, 06, 07, 08, 11, 12, 14, 15, | 01 = Erstveranlasser |
 
-09 = Empfänger von Gesundheitsleistungen nach den §§ 4, 6 AsylbLG (50), 51, 52, (55), (60), (61), (62), 71, 72, 73, 78, 83, 88, 93, 98 01 = Schleswig-Holstein 02 = Hamburg 03 = Bremen 17 = Niedersachsen 20 = Westfalen-Lippe 38 = Nordrhein 46 = Hessen (47 = Koblenz) (48 = Rheinhessen) 49 = Pfalz) (50 = Trier) 51 = Rheinland-Pfalz 52 = Baden-Württemberg (55 = Nordbaden) (60 = Südbaden) (61 = Nordwürttemberg) (62 = Südwürttemberg) 71 = Bayern 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 83 = Brandenburg 88 = Sachsen-Anhalt 93 = Thüringen 98 = Sachsen 16 oder 17 02 = Einsender Arzt 03 = Einsender sonstige 04 = Versicherter 05 = Rechnungsempfänger 06 = Bevollmächtigter
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+09 = Empfänger von Gesundheitsleistungen nach den §§ 4, 6 AsylbLG (50), 51, 52, (55), (60), (61), (62), 71, 72, 73, 78, 83, 88, 93, 98 01 = Schleswig-Holstein 02 = Hamburg 03 = Bremen 17 = Niedersachsen 20 = Westfalen-Lippe 38 = Nordrhein 46 = Hessen (47 = Koblenz) (48 = Rheinhessen) 49 = Pfalz) (50 = Trier) 51 = Rheinland-Pfalz 52 = Baden-Württemberg (55 = Nordbaden) (60 = Südbaden) (61 = Nordwürttemberg) (62 = Südwürttemberg) 71 = Bayern 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 83 = Brandenburg 88 = Sachsen-Anhalt 93 = Thüringen 98 = Sachsen 16 oder 17 02 = Einsender Arzt 03 = Einsender sonstige 04 = Versicherter 05 = Rechnungsempfänger 06 = Bevollmächtigter Seite 83 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | 07 = Laborarzt/Befundersteller |
 |---|---|---|---|---|
@@ -2106,9 +2550,16 @@ können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die
 | E026 | Basis | F | 0, 1, 2, 3, 4 | 0 = nicht nachweisbar / kein Wachstum |
 | E027 | Basis | F | 01, 02, 03, 04, 05, 06, 07, 08, 0 | 01 = Erstveranlasser |
 
-08 = Leistungserbringer 11 = Halter (eines Tieres) 12 = Patient 14 = Überweiser 15 = staatliche Einrichtung 16 = sonstige juristische Person 17 = sonstige medizinische Einrichtung 2 = Abrechnung Privat-LG I = Sensibel bei erhöhter Exposition R = Resistent N = IE (keine Interpretation) deutschland.org/ 1 = spärlich,  2 = mäßig/vereinzelt,  3 = reichlich,  4 = massenhaft 9, 10, 11, 12, 14,16, 17 oder 18 02 = Einsender Arzt 03 = Einsender sonstige 04 = Versicherter 05 = Rechnungsempfänger 06 = Bevollmächtigter 08 = Leistungserbringer 09 = Softwareverantwortlicher 10 = Zusätzlicher Befundempfänger 11 = Halter (eines Tieres) 12 = Patient 14 = Überweiser
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+08 = Leistungserbringer 11 = Halter (eines Tieres) 12 = Patient 14 = Überweiser 15 = staatliche Einrichtung 16 = sonstige juristische Person 17 = sonstige medizinische Einrichtung 2 = Abrechnung Privat-LG I = Sensibel bei erhöhter Exposition R = Resistent N = IE (keine Interpretation) deutschland.org/ 1 = spärlich,  2 = mäßig/vereinzelt,  3 = reichlich,  4 = massenhaft 9, 10, 11, 12, 14,16, 17 oder 18 02 = Einsender Arzt 03 = Einsender sonstige 04 = Versicherter 05 = Rechnungsempfänger 06 = Bevollmächtigter 08 = Leistungserbringer 09 = Softwareverantwortlicher 10 = Zusätzlicher Befundempfänger 11 = Halter (eines Tieres) 12 = Patient 14 = Überweiser Seite 84 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | 16 = sonstige juristische Person |
 |---|---|---|---|---|
@@ -2118,9 +2569,16 @@ können.  = Ergebnis folgt  Es liegt eine Untersuchungsanforderung vor, für die
 | E031 | Basis | F | 1, 2 | 1 = Verdacht auf infektiös |
 | E032 | Basis | F | 1, 2 | **1 2** |
 
-Erläuterungen zur 17 = Medizinisch-technische/r Assistent/in (MTA) 18 = Medizinische/r Fachangestellte/r (MFA) 03 = Einsender sonstige 04 = Versicherter 05 = Rechnungsempfänger 06 = Bevollmächtigter 11 = Halter (eines Tieres) 12 = Patient 15 = staatliche Einrichtung 90 = sonstige medizinische Einrichtung 1 = sensibel/wirksam 2 = mäßig sensibel/schwach wirksam 3 = resistent/unwirksam 4 = wirksam in hohen Konzentrationen 5 = natürliche Resistenz 2 = gesichert infektiös  = Notfall/intraoperativ Es besteht der Verdacht bzw. der Patient ist vital bedroht oder der Befund ist für das weitere operative Vorgehen maßgeblich. Für die Differentialdiagnostik ist die unverzügliche Erbringung und Übermittlung der Laborbefunde unabdingbar (z.B. Troponin zum Ausschluss akuter Myokardinfarkt, PTH bei Nebenschilddrüsen- OP, histologische Schnellschnitte bei Ablation mammae).  = Eilig Der Patient ist nicht vital bedroht, aber eine routinemäßige Abarbeitung der Proben beeinträchtigt das therapeutische Vorgehen (z.B. Quick bei Marcumar- Einstellung). Die Ergebnisse werden schnellstmöglich nach Probeneingang im
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Erläuterungen zur 17 = Medizinisch-technische/r Assistent/in (MTA) 18 = Medizinische/r Fachangestellte/r (MFA) 03 = Einsender sonstige 04 = Versicherter 05 = Rechnungsempfänger 06 = Bevollmächtigter 11 = Halter (eines Tieres) 12 = Patient 15 = staatliche Einrichtung 90 = sonstige medizinische Einrichtung 1 = sensibel/wirksam 2 = mäßig sensibel/schwach wirksam 3 = resistent/unwirksam 4 = wirksam in hohen Konzentrationen 5 = natürliche Resistenz 2 = gesichert infektiös  = Notfall/intraoperativ Es besteht der Verdacht bzw. der Patient ist vital bedroht oder der Befund ist für das weitere operative Vorgehen maßgeblich. Für die Differentialdiagnostik ist die unverzügliche Erbringung und Übermittlung der Laborbefunde unabdingbar (z.B. Troponin zum Ausschluss akuter Myokardinfarkt, PTH bei Nebenschilddrüsen- OP, histologische Schnellschnitte bei Ablation mammae).  = Eilig Der Patient ist nicht vital bedroht, aber eine routinemäßige Abarbeitung der Proben beeinträchtigt das therapeutische Vorgehen (z.B. Quick bei Marcumar- Einstellung). Die Ergebnisse werden schnellstmöglich nach Probeneingang im Seite 85 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | *Labor an den Einsender übermittelt. Einsender und Labor sollten sich über die* |
 |---|---|---|---|---|
@@ -2134,9 +2592,16 @@ Erläuterungen zur 17 = Medizinisch-technische/r Assistent/in (MTA) 18 = Medizin
 | E040 | Basis | F | 0, 1 | 0 = Nein |
 | E041 | SV | F | 0, 1, 2 | 0 = Nicht eingeschrieben |
 
-Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = nicht bestimmbar 4 = sonstiges ermöglicht. A = Ausschluss V = Verdacht auf Z = Zustand nach L = links B = beiderseits 2 = präventiv 3 = Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch 4 = belegärztliche Behandlung 1 = Ja 1 = Eingeschrieben 2 = Einschreibung beantragt
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = nicht bestimmbar 4 = sonstiges ermöglicht. A = Ausschluss V = Verdacht auf Z = Zustand nach L = links B = beiderseits 2 = präventiv 3 = Empfängnisregelung, Sterilisation, Schwangerschaftsabbruch 4 = belegärztliche Behandlung 1 = Ja 1 = Eingeschrieben 2 = Einschreibung beantragt Seite 86 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | E042 | Basis | F | 1, 2 | 1 = Physischer Ort |
 |---|---|---|---|---|
@@ -2146,7 +2611,12 @@ Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = 
 | E048 | Basis | F | 1 | 1 = Zellmaterial nicht verwertbar |
 | E049 | Basis | F | 1, 2, 3, 4, 5, 6, 7 | 1 = Pathologisch auffälliger Befund  *   Hinweis: |
 
-2 = Postanschrift 2 = fremd 2 = Laborarztpraxis 3 = Laborgemeinschaft 4 = sonstige medizinische Einrichtung 5 = Hauptbetriebsstätte 6 = Nebenbetriebsstätte 3 = Telematik-ID 4 = ID für GEVK-Verträge 5 = ID für HÄVG-Verträge 6 = ID für MEDI-Verträge 7 = Selektivvertrag 9 = Sonstige 2 = Lebensbedrohlicher Zustand 3 = Wiedervorstellung empfohlen 4 = Probenmaterial nicht verwendbar 5 = Probenmaterial unvollständig 6 = Meldung nach KFRG* erfolgt  7 = Meldung nach IfSG** erfolgt Krebsfrüherkennungs- und -registergesetz  ** Infektionsschutzgesetz  Die Information zur erfolgten Meldung nach KFRG bzw. IfSG erfolgt immer im Obj_0026, welches sich in dem Untersuchungsergebnis befindet, dass die Meldepflicht begründet.
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+2 = Postanschrift 2 = fremd 2 = Laborarztpraxis 3 = Laborgemeinschaft 4 = sonstige medizinische Einrichtung 5 = Hauptbetriebsstätte 6 = Nebenbetriebsstätte 3 = Telematik-ID 4 = ID für GEVK-Verträge 5 = ID für HÄVG-Verträge 6 = ID für MEDI-Verträge 7 = Selektivvertrag 9 = Sonstige 2 = Lebensbedrohlicher Zustand 3 = Wiedervorstellung empfohlen 4 = Probenmaterial nicht verwendbar 5 = Probenmaterial unvollständig 6 = Meldung nach KFRG* erfolgt  7 = Meldung nach IfSG** erfolgt Krebsfrüherkennungs- und -registergesetz  ** Infektionsschutzgesetz  Die Information zur erfolgten Meldung nach KFRG bzw. IfSG erfolgt immer im Obj_0026, welches sich in dem Untersuchungsergebnis befindet, dass die Meldepflicht begründet. Seite 87 von 187
+
 
 ---
 
@@ -2155,7 +2625,12 @@ Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = 
 | E051 | Basis | F | 1, 2, 3, 4 | 1 = Laborgemeinschaft |
 | E052 | Basis | F | 10, 11, 12, 13, 20, 21, 22, 23, 24, 25, 26, | 10 = Methodenspezifische Standards nach WHO  20 = Patientenspezifische Einflussgröße „Alter“ betreffend |
 
-, 9, 10, 11, 16, 17, 99 12, 13, 14, 15, 2 = GKV LG 3 = PKV Laborfacharzt 4 = PKV LG 5 = Selektivvertrag 6 = IgeL 7 = Sonstige Kostenübernahme 8 = ASV 9 = GKV Laborfacharzt präventiv 10 = GKV LG präventiv 11 = keine Zuordnung (nur zulässig im Obj_0027) 12 = PräOP (Präoperative Laborleistungen**)  13 = GKV Krankenhaus 14 = PKV Krankenhaus 15 = GKV Muster 6 / 39  16 = GKV Muster 10C 17 = ÖGD 99 = storniert (nur in Satzart 8215-Nachforderung zulässig)* der Workflow einer Stornierung muss zwischen Einsender und Labor definiert werden ** Laborleistungen, die dazu dienen, den Patienten auf eine ambulante oder belegärztliche Operation vorzubereiten, werden dem einsendenden Arzt in Rechnung gestellt und können nicht über die Kassenärztliche Vereinigung abgerechnet werden (vgl. Abschnitt 31.1 des EBM) 2 = Facharztlabor 3 = Leistungserbringergemeinschaft 4 = Eigenlabor  27, 28, 30 11 = Methodenspezifische Standards nach IFCC (u.a. serologische Verfahren) 12 = Methodenspezifische Standards nach DGKL 13 = Sonstige Standards 1) 21 = Patientenspezifische Einf lussgröße „Geschlecht“ betreffend 22 = Patientenspezifische Einflussgröße „Alter + Geschlecht“ betreffend 23 = Patientenspezifische Einflussgröße „SSW“ betreffend 24 = Patientenspezifische Einflussgröße „Alter + SSW“ betreffend
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+, 9, 10, 11, 16, 17, 99 12, 13, 14, 15, 2 = GKV LG 3 = PKV Laborfacharzt 4 = PKV LG 5 = Selektivvertrag 6 = IgeL 7 = Sonstige Kostenübernahme 8 = ASV 9 = GKV Laborfacharzt präventiv 10 = GKV LG präventiv 11 = keine Zuordnung (nur zulässig im Obj_0027) 12 = PräOP (Präoperative Laborleistungen**)  13 = GKV Krankenhaus 14 = PKV Krankenhaus 15 = GKV Muster 6 / 39  16 = GKV Muster 10C 17 = ÖGD 99 = storniert (nur in Satzart 8215-Nachforderung zulässig)* der Workflow einer Stornierung muss zwischen Einsender und Labor definiert werden ** Laborleistungen, die dazu dienen, den Patienten auf eine ambulante oder belegärztliche Operation vorzubereiten, werden dem einsendenden Arzt in Rechnung gestellt und können nicht über die Kassenärztliche Vereinigung abgerechnet werden (vgl. Abschnitt 31.1 des EBM) 2 = Facharztlabor 3 = Leistungserbringergemeinschaft 4 = Eigenlabor  27, 28, 30 11 = Methodenspezifische Standards nach IFCC (u.a. serologische Verfahren) 12 = Methodenspezifische Standards nach DGKL 13 = Sonstige Standards 1) 21 = Patientenspezifische Einf lussgröße „Geschlecht“ betreffend 22 = Patientenspezifische Einflussgröße „Alter + Geschlecht“ betreffend 23 = Patientenspezifische Einflussgröße „SSW“ betreffend 24 = Patientenspezifische Einflussgröße „Alter + SSW“ betreffendSeite 88 von 187
+
 
 ---
 
@@ -2163,9 +2638,16 @@ Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = 
 |---|---|---|---|---|
 | E053 | Basis | F | 006, 010, 10A, 039, 090, 091, 092, 093, 094, | 006 = Muster 6 |
 
-26 = Information zu Patientenspezifischer Einflussgröße „Alter“ fehlte 27 = Information zu Patientenspezifischer Einflussgröße „Geschlecht“ fehlte 28 = Information zu Patientenspezifischer Einflussgröße „Alter“ un 29 = „Geschlecht“ fehlte Zur weiteren Spezifikation 100, 101, 102, 103, 110, 120, 150, 160, 200, 250, 251, 252, 253, 254, 255, 256, 257, 258, 300, 301, 400, 500, 900, 999 010 = Muster 10 10A = Muster 10A 039 = Muster 39 090 = Auftragsdokument PKV-FA 091 = Auftragsdokument PKV-LG 092 = Auftragsdokument IGeL 093 = Auftragsdokument Sonstige Kostenübernahme 094 = Auftragsdokument Selektivvertrag 100 = Laborbefund 101 = Mutterpass 102 = Impfpass 103 = Notfallausweis 110 = Patientenbefund 120 = Medikationsplan 150 = Verlaufsbericht 160 = Behandlungsbericht 200 = Einverständniserklärung lt. GenDG (Gen-Diagnostik-Gesetz) 250 = weitere laborspezifische Dokumente 251 = Allergie/RAST 252 = Molekulardiagnostik 253 = Endokrinologie 254 = Virologie 255 = Mikrobiologie 256 = Funktionsdiagnostik 257 = Infektionsserologie 258 = Kinderwunsch 300 = Meldung gemäß IfSG (Infektionsschutz-Gesetz) 301 = Meldung Krebsregister 400 = Normbereichsgrafik
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+26 = Information zu Patientenspezifischer Einflussgröße „Alter“ fehlte 27 = Information zu Patientenspezifischer Einflussgröße „Geschlecht“ fehlte 28 = Information zu Patientenspezifischer Einflussgröße „Alter“ un 29 = „Geschlecht“ fehlte Zur weiteren Spezifikation 100, 101, 102, 103, 110, 120, 150, 160, 200, 250, 251, 252, 253, 254, 255, 256, 257, 258, 300, 301, 400, 500, 900, 999 010 = Muster 10 10A = Muster 10A 039 = Muster 39 090 = Auftragsdokument PKV-FA 091 = Auftragsdokument PKV-LG 092 = Auftragsdokument IGeL 093 = Auftragsdokument Sonstige Kostenübernahme 094 = Auftragsdokument Selektivvertrag 100 = Laborbefund 101 = Mutterpass 102 = Impfpass 103 = Notfallausweis 110 = Patientenbefund 120 = Medikationsplan 150 = Verlaufsbericht 160 = Behandlungsbericht 200 = Einverständniserklärung lt. GenDG (Gen-Diagnostik-Gesetz) 250 = weitere laborspezifische Dokumente 251 = Allergie/RAST 252 = Molekulardiagnostik 253 = Endokrinologie 254 = Virologie 255 = Mikrobiologie 256 = Funktionsdiagnostik 257 = Infektionsserologie 258 = Kinderwunsch 300 = Meldung gemäß IfSG (Infektionsschutz-Gesetz) 301 = Meldung Krebsregister 400 = Normbereichsgrafik Seite 89 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | 500 = Rechnung  Hinweis: Werte 001 bis 089 reserviert für Muster der vertragsärztlichen |
 |---|---|---|---|---|
@@ -2175,7 +2657,12 @@ Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = 
 | E057 | Basis | F | 1, 2, 3, 4 | 1 = LOINC |
 | E058 | Basis | F | 01, 02, 03, 04, 05, 06, 07, 08, 99 | 01 = numerisch (exponentielle Darstellung möglich)  Beispiele |
 
-900 = LDT-Datensatz 999 = sonstige Versorgung 2 = negativ 3 = unspezifisch 4 = in Abklärung 5 = Abklärung empfohlen 1 = 1-fach positiv 2 = 2-fach positiv 3 = 3-fach positiv 4 = 4-fach positiv 1 = Nothilfepass ausstellen 2 = LDT ELV 3 = LVZ sonstige 4 = sonstige mit URL 02 = numerisch mit Messwertuntergrenze 03 = numerisch mit Messwertobergrenze 04 = alpha-numerisch 05 = Titer 06 = Titer mit Untergrenze 07 = Titer mit Obergrenze 08 = trinäres Testergebnis: 1 | 2 | 3 ** 99 = Sonstige 01: 47.85, 5.00E+07, 1x10^6
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+900 = LDT-Datensatz 999 = sonstige Versorgung 2 = negativ 3 = unspezifisch 4 = in Abklärung 5 = Abklärung empfohlen 1 = 1-fach positiv 2 = 2-fach positiv 3 = 3-fach positiv 4 = 4-fach positiv 1 = Nothilfepass ausstellen 2 = LDT ELV 3 = LVZ sonstige 4 = sonstige mit URL 02 = numerisch mit Messwertuntergrenze 03 = numerisch mit Messwertobergrenze 04 = alpha-numerisch 05 = Titer 06 = Titer mit Untergrenze 07 = Titer mit Obergrenze 08 = trinäres Testergebnis: 1 | 2 | 3 ** 99 = Sonstige 01: 47.85, 5.00E+07, 1x10^6 Seite 90 von 187
+
 
 ---
 
@@ -2188,7 +2675,12 @@ Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = 
 | E063 | Basis | F | 1, 2, 3, 4 | 1 = positiv |
 | E064 | Basis | F | 0, 1, 2 | 0 = nicht nachweisbar |
 
-03: >2000, >5.00E+04 04: positiv, negativ, A positiv * 05: 1:2 06: <1:2 07: >1:2 08: 1, 2, 3 ** für die Übertragung von Blutgruppen ist vorzugsweise das Obj_0055 zu verwenden ** Abbildung der Regel E169 1 = Agardiffusion 2 = Agardilution 3 = PCR + Hybridisierung 4 = sonstige 5 = Breakpoint-Methode 2 = nicht vorhanden 2 = nach Oestrogenbehandlung 2 = negativ 3 = invalid 2 = negativ 3 = nicht auswertbar 4 = suspekt 1 = zweifelhaft/unspezifisch 2 = nachweisbar
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+03: >2000, >5.00E+04 04: positiv, negativ, A positiv * 05: 1:2 06: <1:2 07: >1:2 08: 1, 2, 3 ** für die Übertragung von Blutgruppen ist vorzugsweise das Obj_0055 zu verwenden ** Abbildung der Regel E169 1 = Agardiffusion 2 = Agardilution 3 = PCR + Hybridisierung 4 = sonstige 5 = Breakpoint-Methode 2 = nicht vorhanden 2 = nach Oestrogenbehandlung 2 = negativ 3 = invalid 2 = negativ 3 = nicht auswertbar 4 = suspekt 1 = zweifelhaft/unspezifisch 2 = nachweisbar Seite 91 von 187
+
 
 ---
 
@@ -2196,9 +2688,16 @@ Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = 
 |---|---|---|---|---|
 | E066 | Basis | F | Obj_0001, Obj_0002, Obj_0003, Obj_0004, | Obj_0001 = Obj_Abrechnungsinformationen |
 
-2 = EUCAST 3 = CA-FMS Obj_0005, Obj_0006, Obj_0007, Obj_0008, Obj_0009, Obj_0010, Obj_0011, Obj_0013, Obj_0014, Obj_0017, Obj_0019, Obj_0022, Obj_0026, Obj_0027, Obj_0031, Obj_0032, Obj_0034, Obj_0035, Obj_0036, Obj_0037, Obj_0040, Obj_0041, Obj_0042, Obj_0043, Obj_0045, Obj_0047, Obj_0048, Obj_0050, Obj_0051, Obj_0053, Obj_0054, Obj_0055, Obj_0056, Obj_0058, Obj_0059, Obj_0060, Obj_0061, Obj_0062, Obj_0063, Obj_0068, Obj_0069, Obj_0070, Obj_0071, Obj_0072, Obj_0073, Obj_0100 Obj_0002 = Obj_Abrechnung GKV Obj_0003 = Obj_Abrechnung PKV Obj_0004 = Obj_Abrechnung Ige-Leistungen Obj_0005 = Obj_Abrechnung sonstige Kostenübernahme Obj_0006 = Obj_Abrechnung Selektivvertrag Obj_0007 = Obj_Anschrift Obj_0008 = Obj_Adressat Obj_0009 = Obj_Abrechnung OEGD Obj_0010 = Obj_Anhang Obj_0011 = Obj_Antibiogramm  Obj_0013 = Obj_Auftragsinformation Obj_0014 = Obj_Arztidentifikation Obj_0017 = Obj_Befundinformationen Obj_0019 = Obj_Betriebsstaette Obj_0022 = Obj_Einsenderidentifikation Obj_0026 = Obj_Fehlermeldung/Aufmerksamkeit Obj_0027 = Obj_Veranlassungsgrund Obj_0031 = Obj_Kommunikationsdaten Obj_0032 = Obj_Kopfdaten Obj_0034 = Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39) Obj_0035 = Obj_Laborergebnisbericht Obj_0036 = Obj_Laborkennung Obj_0037 = Obj_Material Obj_0040 = Obj_Mutterschaft Obj_0041 = Obj_Namenskennung Obj_0042 = Obj_Normalwert Obj_0043 = Obj_Organisation Obj_0045 = Obj_Patient Obj_0047 = Obj_Person  Obj_0048 = Obj_RgEmpfaenger Obj_0050 = Obj_Schwangerschaft Obj_0051 = Obj_Sendendes System Obj_0053 = Obj_Tier/Sonstiges Obj_0054 = Obj_Timestamp Obj_0055 = Obj_Blutgruppenzugehoerigkeit Obj_0056 = Obj_Tumor Obj_0058 = Obj_Untersuchungsabrechnung
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+2 = EUCAST 3 = CA-FMS Obj_0005, Obj_0006, Obj_0007, Obj_0008, Obj_0009, Obj_0010, Obj_0011, Obj_0013, Obj_0014, Obj_0017, Obj_0019, Obj_0022, Obj_0026, Obj_0027, Obj_0031, Obj_0032, Obj_0034, Obj_0035, Obj_0036, Obj_0037, Obj_0040, Obj_0041, Obj_0042, Obj_0043, Obj_0045, Obj_0047, Obj_0048, Obj_0050, Obj_0051, Obj_0053, Obj_0054, Obj_0055, Obj_0056, Obj_0058, Obj_0059, Obj_0060, Obj_0061, Obj_0062, Obj_0063, Obj_0068, Obj_0069, Obj_0070, Obj_0071, Obj_0072, Obj_0073, Obj_0100 Obj_0002 = Obj_Abrechnung GKV Obj_0003 = Obj_Abrechnung PKV Obj_0004 = Obj_Abrechnung Ige-Leistungen Obj_0005 = Obj_Abrechnung sonstige Kostenübernahme Obj_0006 = Obj_Abrechnung Selektivvertrag Obj_0007 = Obj_Anschrift Obj_0008 = Obj_Adressat Obj_0009 = Obj_Abrechnung OEGD Obj_0010 = Obj_Anhang Obj_0011 = Obj_Antibiogramm  Obj_0013 = Obj_Auftragsinformation Obj_0014 = Obj_Arztidentifikation Obj_0017 = Obj_Befundinformationen Obj_0019 = Obj_Betriebsstaette Obj_0022 = Obj_Einsenderidentifikation Obj_0026 = Obj_Fehlermeldung/Aufmerksamkeit Obj_0027 = Obj_Veranlassungsgrund Obj_0031 = Obj_Kommunikationsdaten Obj_0032 = Obj_Kopfdaten Obj_0034 = Obj_Krebsfrueherkennung Zervix-Karzinom (Muster39) Obj_0035 = Obj_Laborergebnisbericht Obj_0036 = Obj_Laborkennung Obj_0037 = Obj_Material Obj_0040 = Obj_Mutterschaft Obj_0041 = Obj_Namenskennung Obj_0042 = Obj_Normalwert Obj_0043 = Obj_Organisation Obj_0045 = Obj_Patient Obj_0047 = Obj_Person  Obj_0048 = Obj_RgEmpfaenger Obj_0050 = Obj_Schwangerschaft Obj_0051 = Obj_Sendendes System Obj_0053 = Obj_Tier/Sonstiges Obj_0054 = Obj_Timestamp Obj_0055 = Obj_Blutgruppenzugehoerigkeit Obj_0056 = Obj_Tumor Obj_0058 = Obj_Untersuchungsabrechnung Seite 92 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | Obj_0059 = Obj_Untersuchungsanforderung |
 |---|---|---|---|---|
@@ -2209,9 +2708,16 @@ Frist einigen. 2 = anorganisch 2 = pflanzlich 3 = nicht bestimmbar 2 = Luft 3 = 
 | E071 | Basis | F | Abrechnungsinformation | Inhalt des Objektattributes |
 | E072 | Basis | F | Abrechnung_GKV | Inhalt des Objektattributes |
 
-Obj_0060 = Obj_Untersuchungsergebnis Klinische Chemie Obj_0061 = Obj_Untersuchungsergebnis Mikrobiologie Obj_0062 = Obj_Untersuchungsergebnis Krebsfrueherkennung Zervix-Karzinom  Obj_0063 = Obj_Untersuchungsergebnis Zytologie Obj_0068 = Obj_Fließtext Obj_0069 = Obj_Koerperkenngroessen Obj_0070 = Obj_Medikament  Obj_0071 = Obj_Wirkstoff Obj_0072 = Obj_BAK Obj_0073 = Obj_Sonstige_Untersuchungsergebnisse Obj_0100 = Obj_Diagnose 2 = Order Entry 3 = Scansystem 2 = Minuten 3 = Tage 4 = Jahre 1 = Antigen-Nachweis 2 = PCR 3 = Mikroskopie 4 = Aglutination 5 = Kultur 6 = Biochemische Identifikation (z.B. Vitek) 7 = Maldi-Tof 2 = abweichende Einheit 9 = dimensionslose Größe
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Obj_0060 = Obj_Untersuchungsergebnis Klinische Chemie Obj_0061 = Obj_Untersuchungsergebnis Mikrobiologie Obj_0062 = Obj_Untersuchungsergebnis Krebsfrueherkennung Zervix-Karzinom  Obj_0063 = Obj_Untersuchungsergebnis Zytologie Obj_0068 = Obj_Fließtext Obj_0069 = Obj_Koerperkenngroessen Obj_0070 = Obj_Medikament  Obj_0071 = Obj_Wirkstoff Obj_0072 = Obj_BAK Obj_0073 = Obj_Sonstige_Untersuchungsergebnisse Obj_0100 = Obj_Diagnose 2 = Order Entry 3 = Scansystem 2 = Minuten 3 = Tage 4 = Jahre 1 = Antigen-Nachweis 2 = PCR 3 = Mikroskopie 4 = Aglutination 5 = Kultur 6 = Biochemische Identifikation (z.B. Vitek) 7 = Maldi-Tof 2 = abweichende Einheit 9 = dimensionslose Größe Seite 93 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | E073 | Basis | F | Abrechnung_PKV | Inhalt des Objektattributes |
 |---|---|---|---|---|
@@ -2233,8 +2739,16 @@ Obj_0060 = Obj_Untersuchungsergebnis Klinische Chemie Obj_0061 = Obj_Untersuchun
 | E089 | Basis | F | Kopfdaten | Inhalt des Objektattributes |
 | E090 | Basis | F | Krebsfrueherkennung_Zervix-Karzinom | Inhalt des Objektattributes |
 
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Seite 94 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | E091 | Basis | F | Laborergebnisbericht | Inhalt des Objektattributes |
 |---|---|---|---|---|
@@ -2256,8 +2770,16 @@ Obj_0060 = Obj_Untersuchungsergebnis Klinische Chemie Obj_0061 = Obj_Untersuchun
 | E107 | Basis | F | Untersuchungsabrechnung | Inhalt des Objektattributes |
 | E108 | Basis | F | Untersuchungsanforderung | Inhalt des Objektattributes |
 
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Seite 95 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | E109 | Basis | F | UE_Klinische_Chemie | Inhalt des Objektattributes |
 |---|---|---|---|---|
@@ -2278,9 +2800,16 @@ Obj_0060 = Obj_Untersuchungsergebnis Klinische Chemie Obj_0061 = Obj_Untersuchun
 | E125 | Basis | F | Timestamp_Materialabnahme_entnahme | Inhalt des Objektattributes |
 | E126 | Basis | F | Timestamp_Eingangserfassung_Material | Inhalt des Objektattributes |
 
-anforderung
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+anforderung Seite 96 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | E127 | Basis | F | Timestamp_Erstellung_ | Inhalt des Objektattributes |
 |---|---|---|---|---|
@@ -2302,9 +2831,16 @@ anforderung
 | E144 | Basis | F | Auftragsbezogene_Hinweise | Inhalt des Objektattributes |
 | E145 | Basis | F | Laborbezeichnung | Inhalt des Objektattributes |
 
-Laborergebnisbericht
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Laborergebnisbericht Seite 97 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | E146 | Basis | F | 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11 | 01 = Vorsorge |
 |---|---|---|---|---|
@@ -2316,7 +2852,10 @@ Laborergebnisbericht
 | E153 | Basis | F | Koerperkenngroessen | Inhalt des Objektattributes |
 | E154 | Basis | F | Timestamp_Zeitpunkt | Inhalt des Objektattributes |
 
-_Medikamenteneinnahme 02 = Verlaufskontrolle 03 = Zustand vor 04 = Zustand nach 05 = Ausschluss 06 = Bestätigung 07 = gezielte Suche 08 = ungezielte Suche 09 = Erfolgskontrolle 10 = Abschlusskontrolle 11 = Immunität/Impferfolg 02 = Medikamentengabe 03 = unklares Fieber 04 = Infektion 05 = Rheuma 06 = Allergie 07 = Herz/Kreislauf 08 = Tumor 09 = Impfungen 10 = Reisen 11 = Immunität nach Infektion 12 = Sonstiges
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+_Medikamenteneinnahme 02 = Verlaufskontrolle 03 = Zustand vor 04 = Zustand nach 05 = Ausschluss 06 = Bestätigung 07 = gezielte Suche 08 = ungezielte Suche 09 = Erfolgskontrolle 10 = Abschlusskontrolle 11 = Immunität/Impferfolg 02 = Medikamentengabe 03 = unklares Fieber 04 = Infektion 05 = Rheuma 06 = Allergie 07 = Herz/Kreislauf 08 = Tumor 09 = Impfungen 10 = Reisen 11 = Immunität nach Infektion 12 = Sonstiges Seite 98 von 187
+
 
 ---
 
@@ -2332,9 +2871,16 @@ _Medikamenteneinnahme 02 = Verlaufskontrolle 03 = Zustand vor 04 = Zustand nach 
 | E163 | Basis | F | UTC−12, UTC−11, UTC−10, UTC−9:30, | Die koordinierte Weltzeit, kurz UTC, ist die heute gültige Weltzeit.  UTC+1 entspricht MEZ  UTC+2 |
 | E164 | Basis | F | 0, 1, 2, 3 | 0 = Sonstige* |
 
-2 = Bedarfsmedikation 3 = Dauermedikation 4 = Selbstmedikation  1 berechnet. Der SHA-1 Wert wird aus allen Zeichen vor der Zeile der Feldkennung 9300 generiert. UTC−9, UTC−8, UTC−7, UTC−6, UTC−5, UTC−4, UTC−3:30, UTC−3, UTC−2, UTC−1, UTC , UTC+1, UTC+2, UTC+3, UTC+3:30, UTC+4, UTC+4:30, UTC+5, UTC+5:30, UTC+5:45, UTC+6, UTC+6:30, UTC+7, UTC+8, UTC+8:30, UTC+9, UTC+9:30, UTC+10, UTC+10:30, UTC+11, UTC+12, UTC+12:45, UTC+13, UTC+13:45, UTC+14 Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die entsprechende, Deutschland, mitteleuropäischen Staaten geltende Mitteleuropäische Zeit (MEZ), indem man eine Stunde addiert. Die im Sommer geltende Mitteleuropäische Sommerzeit (MESZ) erhält man, indem man zwei Stunden addiert.  Österreich und anderen entspricht MESZ 1 = Pathologie 2 = Humangenetik 3 = Molekulargenetik
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+2 = Bedarfsmedikation 3 = Dauermedikation 4 = Selbstmedikation  1 berechnet. Der SHA-1 Wert wird aus allen Zeichen vor der Zeile der Feldkennung 9300 generiert. UTC−9, UTC−8, UTC−7, UTC−6, UTC−5, UTC−4, UTC−3:30, UTC−3, UTC−2, UTC−1, UTC , UTC+1, UTC+2, UTC+3, UTC+3:30, UTC+4, UTC+4:30, UTC+5, UTC+5:30, UTC+5:45, UTC+6, UTC+6:30, UTC+7, UTC+8, UTC+8:30, UTC+9, UTC+9:30, UTC+10, UTC+10:30, UTC+11, UTC+12, UTC+12:45, UTC+13, UTC+13:45, UTC+14 Eingeführt wurde sie 1972. Aus einer Zeitangabe in UTC ergibt sich die entsprechende, Deutschland, mitteleuropäischen Staaten geltende Mitteleuropäische Zeit (MEZ), indem man eine Stunde addiert. Die im Sommer geltende Mitteleuropäische Sommerzeit (MESZ) erhält man, indem man zwei Stunden addiert.  Österreich und anderen entspricht MESZ 1 = Pathologie 2 = Humangenetik 3 = Molekulargenetik Seite 99 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | * |
 |---|---|---|---|---|
@@ -2348,9 +2894,16 @@ _Medikamenteneinnahme 02 = Verlaufskontrolle 03 = Zustand vor 04 = Zustand nach 
 | E172 | Basis | F | 1, 3, 4 | 1 = Test nach § 2 TestV Kontaktpersonen, nachweislich Infizierte, |
 | E173 | Basis | F | 1, 2, 3, 4 | 1 = Medizinischen Einrichtungen |
 
-zur Bezeichnung des Fachgebietes die FK 8167 im Obj_0073 verwenden 1 = weiblich 2 = männlich 3 = unbestimmt 2 = sterilisiert 2 = 30-34 Jahre 3 = ab 35 Jahre 2 = unvollständig 3 = keine 4 = unklar 2 = negativ 3 = nicht verwertbar 2 = weitere Testung Voraufenthalt Virusvariantengebiet 3 = Test nach § 3 TestV Ausbruchsgeschehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung 2 = Pflege- und anderen Wohneinrichtungen 3 = Gemeinschaftseinrichtungen 4 = Sonstigen Einrichtungen
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+zur Bezeichnung des Fachgebietes die FK 8167 im Obj_0073 verwenden 1 = weiblich 2 = männlich 3 = unbestimmt 2 = sterilisiert 2 = 30-34 Jahre 3 = ab 35 Jahre 2 = unvollständig 3 = keine 4 = unklar 2 = negativ 3 = nicht verwertbar 2 = weitere Testung Voraufenthalt Virusvariantengebiet 3 = Test nach § 3 TestV Ausbruchsgeschehen 4 = Test nach § 4 Abs. 1 Nr. 1 und 2 TestV Verhütung der Verbreitung 2 = Pflege- und anderen Wohneinrichtungen 3 = Gemeinschaftseinrichtungen 4 = Sonstigen Einrichtungen  Seite 100 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | E174 | Basis | F | 2 | 2 = Diagnostische Abklärung |
 |---|---|---|---|---|
@@ -2373,7 +2926,11 @@ Für die Gruppe existieren inzwischen mehrere Nomenklaturen und Schreibweisen. F
 | II | II = 2 | 0 | 2,0 | II |
 | I/II, I-II | II = 2 | 1 | 2,1 | II |
 
-2 = Regionale Sondervereinbarung 3 = Selbstzahler 1 = auffällig A = Abklärungsdiagnostik HPV = HPV-Test KoTest = Ko-Testung (Zyt.+HPV) 1 = ja 9 = nicht differenzierbar Bestätigungs-PCR nach nach 4b 4b Satz nach positivem Antigentest Satz nach positivem PCR-Test ### Spalte „Codierung“ den dazu in FK7413 zu übermittelnden Wert.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Spalte „Codierung“ den dazu in FK7413 zu übermittelnden Wert.
+
+2 = Regionale Sondervereinbarung 3 = Selbstzahler 1 = auffällig A = Abklärungsdiagnostik HPV = HPV-Test KoTest = Ko-Testung (Zyt.+HPV) 1 = ja 9 = nicht differenzierbar Bestätigungs-PCR nach nach 4b 4b Satz nach positivem Antigentest Satz nach positivem PCR-Test Seite 101 von 187
 
 
 ---
@@ -2417,7 +2974,12 @@ Feldkennungen bzw. deren Inhalten fest.
 | **Regelnu** | **Kategorie** | **Fehlerstatus** | **Prüfung** | **Erläuterung** |
 |---|---|---|---|---|
 
-mmer
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+mmer Seite 102 von 187
+
 
 ---
 
@@ -2430,7 +2992,12 @@ mmer
 | K008 | KBV | F | Wenn der Inhalt von  FK 8002 = Obj_0058 (Obj_Untersuchungsabrechnung)  FK 7303 = 1, 2, 8, 9 oder 10 dann sind  FK | Für die Abrechnung von Leistungen, die im Bereich der kassenärztlichen |
 | K009 | Basis | F | Wenn der Inhalt von FK 8002 = Obj_0035  Obj_0060(Obj_Untersuchungsergebnis  Obj_0061(Obj_Untersuchungsergebnis |  |
 
-6305 8242 vorhanden. zu einem Ergebniswert Maßeinheit angegeben wird, angegeben werden, ob es sich bei der Maßeinheit um eine konventionelle oder SI-Einheit handelt. Wenn zu einem Ergebniswert keine Maßeinheit angegeben wird, muss angegeben werden, dass es sich bei dem Ergebniswert um eine sogenannte „dimensionslose Größe“ handelt. ist und 8411 Laborleistungen an einen Laborfacharzt verwendet, muss die FK 8411 (Testbezeichnung) im Datensatz vorkommen (mit Inhalt der FK 8411 muss das Auftragsfeld des digitalen Musters 10 befüllt werden) Abrechnungsinformationen übertragen werden. nden mit dem Status “Auftrag abgeschlossen” können Abrechnungsinformationen übertragen werden. als Inhalte nur 0, 3 erlaubt. Versorgung (Laborfacharzt, Laborgemeinschaft ASV) erbracht wurden, können nur EBM, BMÄ, EGO GOÄ als Gebührenordnung angegeben werden. (Obj_Laborergebnisbericht), dann muss mindestens eine FK 8002 mit den Werten Klinische Chemie), Mikrobiologie),
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+6305 8242 vorhanden. zu einem Ergebniswert Maßeinheit angegeben wird, angegeben werden, ob es sich bei der Maßeinheit um eine konventionelle oder SI-Einheit handelt. Wenn zu einem Ergebniswert keine Maßeinheit angegeben wird, muss angegeben werden, dass es sich bei dem Ergebniswert um eine sogenannte „dimensionslose Größe“ handelt. ist und 8411 Laborleistungen an einen Laborfacharzt verwendet, muss die FK 8411 (Testbezeichnung) im Datensatz vorkommen (mit Inhalt der FK 8411 muss das Auftragsfeld des digitalen Musters 10 befüllt werden) Abrechnungsinformationen übertragen werden. nden mit dem Status “Auftrag abgeschlossen” können Abrechnungsinformationen übertragen werden. als Inhalte nur 0, 3 erlaubt. Versorgung (Laborfacharzt, Laborgemeinschaft ASV) erbracht wurden, können nur EBM, BMÄ, EGO GOÄ als Gebührenordnung angegeben werden. (Obj_Laborergebnisbericht), dann muss mindestens eine FK 8002 mit den Werten Klinische Chemie), Mikrobiologie), Seite 103 von 187
+
 
 ---
 
@@ -2441,7 +3008,12 @@ mmer
 | K012 | KBV | F | Wenn Inhalt von FK 4239  FK 4221 vorhanden sein.  FK 4221 darf nicht vorhanden sein, wenn  FK 4239 |  |
 | K014 | KBV | F | Nur wenn FK 4239 = 27, können die  -   und FK 4241 oder   -   und FK 4241 oder   -   und FK 4248. | Weiterüberweisungen dürfen nur durch Laborfachärzte durchgeführt |
 
-Krebsfrueherkennung Zervix-Karzinom), Zytologie),  Untersuchungsergebnisse) oder (Obj_Untersuchungsanforderung) oder    Mikrobiologie), dann muss vorhanden sein). Ident referenziert. Sind keine dieser Angaben verfügbar, können die Anforderungen auch als Freitext mit der (Obj_Untersuchungsanforderung) und     vorhanden sein und = 27 oder 28, dann muss das Inhalt von FK 4239 ≠ 27 oder 28 ist. folgenden Kombinationen vorhanden sein:  FK 4217 FK 4225 FK 4225
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Krebsfrueherkennung Zervix-Karzinom), Zytologie),  Untersuchungsergebnisse) oder (Obj_Untersuchungsanforderung) oder    Mikrobiologie), dann muss vorhanden sein). Ident referenziert. Sind keine dieser Angaben verfügbar, können die Anforderungen auch als Freitext mit der (Obj_Untersuchungsanforderung) und     vorhanden sein und = 27 oder 28, dann muss das Inhalt von FK 4239 ≠ 27 oder 28 ist. folgenden Kombinationen vorhanden sein:  FK 4217 FK 4225 FK 4225Seite 104 von 187
+
 
 ---
 
@@ -2455,9 +3027,16 @@ Krebsfrueherkennung Zervix-Karzinom), Zytologie),  Untersuchungsergebnisse) oder
 | K022 | KBV | F | Wenn Inhalt von FK 4131 =  FK 4106 = |  |
 | K023 | KBV | F | Wenn Inhalt von FK 4131 =  FK 4106 = |  |
 
-4229 ≠ 27, 28, dann Feldinhalt „D“ ist, gilt: Ist die Feldinhalt „D“ ist, gilt: Ist die Obj_0007 (Anschrift). Grundlage für diese Regel bilden die Vorgaben des KVDT. gilt für den Inhalt (Obj_Abrechnung GKV) und Satzart muss auch Satzart Kontext der kassenärztlichen Versorgung beauftragt werden, obligat. 7” oder „ 08 dann muss Inhalt von 6”, dann muss Inhalt von
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+4229 ≠ 27, 28, dann Feldinhalt „D“ ist, gilt: Ist die Feldinhalt „D“ ist, gilt: Ist die Obj_0007 (Anschrift). Grundlage für diese Regel bilden die Vorgaben des KVDT. gilt für den Inhalt (Obj_Abrechnung GKV) und Satzart muss auch Satzart Kontext der kassenärztlichen Versorgung beauftragt werden, obligat. 7” oder „ 08 dann muss Inhalt von 6”, dann muss Inhalt von Seite 105 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | K024 | KBV | F | Wenn Inhalt von FK 4131 =  FK 4106 = |  |
 |---|---|---|---|---|
@@ -2468,9 +3047,16 @@ Krebsfrueherkennung Zervix-Karzinom), Zytologie),  Untersuchungsergebnisse) oder
 | K031 | KBV | F | Wenn in der Satzart 8215 mehrere Objekte  FK 8002 = Obj_0002 (Obj_Abrechnung  FK  /FK 4221 unterscheiden. | Beispiel:  FK 4239 = 27/FK 4221 = 1 |
 | K032 | KBV | F | Für Satzart 8215 gilt:  Wenn Inhalt von FK 7303 = 1 muss FK 4239  Wenn Inhalt von FK 7303 = 2 muss FK 4239 | Abhängigkeit der Abrechnungsinformation von den Abrechnungsobjekten |
 
-4”, dann muss Inhalt von mindestens muss im mindestens einmal eine Feldkennung aus nachfolgender Liste vorhanden sein:  dann muss 06, 11 oder 12 muss (Obj_RgEmpfaenger) vorhanden sein. mit GKV) vorhanden sind, dann müssen sich diese in der Kombination der Inhalte der = 27 vorhanden sein. = 28 vorhanden sein. FK 4239 = 27/FK 4221 = 3 FK 4239 = 28/FK 4221 = 1 FK 4239 = 28/FK 4221 = 2 und deren Inhalten
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+4”, dann muss Inhalt von mindestens muss im mindestens einmal eine Feldkennung aus nachfolgender Liste vorhanden sein:  dann muss 06, 11 oder 12 muss (Obj_RgEmpfaenger) vorhanden sein. mit GKV) vorhanden sind, dann müssen sich diese in der Kombination der Inhalte der = 27 vorhanden sein. = 28 vorhanden sein. FK 4239 = 27/FK 4221 = 3 FK 4239 = 28/FK 4221 = 1 FK 4239 = 28/FK 4221 = 2 und deren Inhalten  Seite 106 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  |  | Wenn Inhalt von FK 7303 = 9 muss FK 4239  FK 4221 = 2  Wenn Inhalt von  FK 7303 = 10 muss  FK   = 28 in Kombination mit FK 4221 = 2 |
 |---|---|---|---|---|
@@ -2481,7 +3067,10 @@ Krebsfrueherkennung Zervix-Karzinom), Zytologie),  Untersuchungsergebnisse) oder
 | K039 | SV | F | FK 7310 kann nur vorhanden sein, wenn  Obj_0053 (Obj_Tier/Sonstiges) vorhanden. |  |
 | K041 | KBV | F | Wenn Inhalt von FK 4239 = 27 und FK   vorhanden, dann muss eine der  -   und FK 4241 oder | Unterüberweisung |
 
-= 27 in Kombination mit vorhanden sein. vorhanden sein. PKV) vorhanden sind, muss Inhalt von = 1 vorhanden sein. = 2 vorhanden sein. (Obj_Untersuchungsanforderung) kann nur vorkommen, wenn nicht vorhanden sind. vorhanden sein.  vorhanden sein. 8240 folgenden Kombinationen vorhanden sein:  FK 4217
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+= 27 in Kombination mit vorhanden sein. vorhanden sein. PKV) vorhanden sind, muss Inhalt von = 1 vorhanden sein. = 2 vorhanden sein. (Obj_Untersuchungsanforderung) kann nur vorkommen, wenn nicht vorhanden sind. vorhanden sein.  vorhanden sein. 8240 folgenden Kombinationen vorhanden sein:  FK 4217Seite 107 von 187
+
 
 ---
 
@@ -2495,7 +3084,12 @@ Krebsfrueherkennung Zervix-Karzinom), Zytologie),  Untersuchungsergebnisse) oder
 | K047 | SV | F | Wenn Inhalt von FK 7321 darf FK 8119 nicht vorhanden sein. | In Obj_0022 (Obj_Einsenderidentifikation) ist Obj_0019 |
 | K048 | SV | F | Wenn Inhalt von FK 7321 = 03, 15 oder 16,  FK 8143 im  Obj_0022 |  |
 
-FK 4225 FK 4225 werden, wenn die Inhalte des muss der Inhalt der zweimal muss der Inhalt der einmal mit 1, 2, 3 oder 4 und einmal mit 5 oder 6 gefüllt sein. maximal zweimal vorkommen. Betriebsstätte) zwingend anzugeben, ob es sich bei der Betriebsstätte um eine Arztpraxis (1), eine Laborarztpraxis (2), eine Laborgemeinschaft (3) oder eine sonstige medizinische Einrichtung (4) handelt. angegeben werden, ob beschriebenen Betriebsstätte um eine Hauptbetriebsstätte (5) oder eine Nebenbetriebsstätte (6) handelt. es sich bei oben zweimal im Obj_Betriebsstätte vorkommen. 08, 11, 12, 14 oder 16 ist, dann muss 8147 14 oder 17, dann muss (Obj_Betriebsstaette) nur dann zu verwenden, wenn es sich um eine medizinische Einrichtung handelt.
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+FK 4225 FK 4225 werden, wenn die Inhalte des muss der Inhalt der zweimal muss der Inhalt der einmal mit 1, 2, 3 oder 4 und einmal mit 5 oder 6 gefüllt sein. maximal zweimal vorkommen. Betriebsstätte) zwingend anzugeben, ob es sich bei der Betriebsstätte um eine Arztpraxis (1), eine Laborarztpraxis (2), eine Laborgemeinschaft (3) oder eine sonstige medizinische Einrichtung (4) handelt. angegeben werden, ob beschriebenen Betriebsstätte um eine Hauptbetriebsstätte (5) oder eine Nebenbetriebsstätte (6) handelt. es sich bei oben zweimal im Obj_Betriebsstätte vorkommen. 08, 11, 12, 14 oder 16 ist, dann muss 8147 14 oder 17, dann muss (Obj_Betriebsstaette) nur dann zu verwenden, wenn es sich um eine medizinische Einrichtung handelt. Seite 108 von 187
+
 
 ---
 
@@ -2510,7 +3104,12 @@ FK 4225 FK 4225 werden, wenn die Inhalte des muss der Inhalt der zweimal muss de
 | K059 | Basis | F | Mindestens eine der FK 7330, FK 7331, FK  , FK 7333, FK 7334 oder FK 7335 muss |  |
 | K060 | Basis | F | Inhalt von FK 7303 = 11 darf nur im  Obj_0027 (Obj_Veranlassungsgrund) | Bezieht |
 
-LVZ mit URL verwiesen wird. fach im (Obj_Untersuchungsergebnis Klinische Chemie) bzw. (Obj_Untersuchungsergebnis Mikrobiologie) vorkommt, darf der Wert 13 in der anderen Werte dürfen nur jeweils einmal vorkommen. für Untersuchungsergebnis angegeben werden, müssen sich die Normalwerte innerhalb eines Untersuchungsergebnisses hinsichtlich unterscheiden. Ausgenommen davon sind die Normalwertspezifikationen, die auf „Sonstige Standards“ referenzieren. verschiedene Normalwerte Normalwertspezifikation muss nur vorhanden sein, wenn der mindestens einem  (Obj_Untersuchungsanforderung) die ASV (Ambulante Spezialfachärztliche Versorgung) entsprechend § 116b des SGB V beauftragt werden. 7332 sich die Veranlassungsgrundes aufgeführten Diagnose auf den kompletten Auftrag, kann der Wert 11 (keine Zuordnung) eingesetzt werden. bzw.
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+LVZ mit URL verwiesen wird. fach im (Obj_Untersuchungsergebnis Klinische Chemie) bzw. (Obj_Untersuchungsergebnis Mikrobiologie) vorkommt, darf der Wert 13 in der anderen Werte dürfen nur jeweils einmal vorkommen. für Untersuchungsergebnis angegeben werden, müssen sich die Normalwerte innerhalb eines Untersuchungsergebnisses hinsichtlich unterscheiden. Ausgenommen davon sind die Normalwertspezifikationen, die auf „Sonstige Standards“ referenzieren. verschiedene Normalwerte Normalwertspezifikation muss nur vorhanden sein, wenn der mindestens einem  (Obj_Untersuchungsanforderung) die ASV (Ambulante Spezialfachärztliche Versorgung) entsprechend § 116b des SGB V beauftragt werden. 7332 sich die Veranlassungsgrundes aufgeführten Diagnose auf den kompletten Auftrag, kann der Wert 11 (keine Zuordnung) eingesetzt werden. bzw. Seite 109 von 187
+
 
 ---
 
@@ -2524,9 +3123,16 @@ LVZ mit URL verwiesen wird. fach im (Obj_Untersuchungsergebnis Klinische Chemie)
 | K078 | Basis | F | Wenn FK 3412, FK 3413, FK 3414, FK 3415,  FK 3416, FK 3417, FK 3418 oder FK 3419  FK    Obj_0055 |  |
 | K080 | Basis | F | FK 8158 kann im Obj_0063 nur vorhanden  FK 7368 nicht vorhanden ist. | Use Case: Analytik konnte nicht durchgeführt werden. |
 
-(Obj_Material) nur vorkommen verwendet werden. 8137 vorhanden ist, müssen die 8159 und Anforderungen. Datensatzes ohne Angaben zu Material 8104 8106 vorkommen, muss auch sein, wenn mittels der FK 6327 näher beschrieben werden. 01 oder 02 oder 09 oder 11 oder 12 ist, dann muss mindestens einmal vorkommen.  fehlendem oder unvollständigem Material, fehlendem Wert oder einer Stornierung. sind, mindestens einmal sein, wenn
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+(Obj_Material) nur vorkommen verwendet werden. 8137 vorhanden ist, müssen die 8159 und Anforderungen. Datensatzes ohne Angaben zu Material 8104 8106 vorkommen, muss auch sein, wenn mittels der FK 6327 näher beschrieben werden. 01 oder 02 oder 09 oder 11 oder 12 ist, dann muss mindestens einmal vorkommen.  fehlendem oder unvollständigem Material, fehlendem Wert oder einer Stornierung. sind, mindestens einmal sein, wenn Seite 110 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | K081 | Basis | F | Wenn  FK    Obj_0063  FK 8225 mindestens  Obj_0063 vorkommen. | Wenn das eingesandte Untersuchungsmaterial zu verarbeiten war, muss |
 |---|---|---|---|---|
@@ -2539,9 +3145,16 @@ LVZ mit URL verwiesen wird. fach im (Obj_Untersuchungsergebnis Klinische Chemie)
 | K088 | KBV | I | Falls die Werte der Feldkennungen FK   und FK 3116 bekannt sind, dann |  |
 | K089 | SV | F | Eine der FK 7319 oder FK 7313 oder FK   muss vorhanden sein. |  |
 
-vorhanden ist, muss der Timestamp der Messung angegeben werden. einmal im vorhanden ist, muss Analytik nicht durchgeführt werden konnte, muss der Einsender im Befund darauf aufmerksam gemacht werden. 7266 8153 darf 7266 muss in 8153 mit Inhalt ≠ 0 vorkommt. wurde, dann muss die 4110 müssen die Felder übertragen werden. 7314
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+vorhanden ist, muss der Timestamp der Messung angegeben werden. einmal im vorhanden ist, muss Analytik nicht durchgeführt werden konnte, muss der Einsender im Befund darauf aufmerksam gemacht werden. 7266 8153 darf 7266 muss in 8153 mit Inhalt ≠ 0 vorkommt. wurde, dann muss die 4110 müssen die Felder übertragen werden. 7314Seite 111 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | K090 | KBV | F | Falls die FK 4109 vorhanden ist und der  FK 4104 >= 800, dann   FK 3105  FK 3119  FK 4110 vorhanden sein. | Da seit dem 01.01.2015 nur noch bei „originären“ SKT die KVKs  Zum 01.01.2025 gibt die Heilfürsorge der Bundespolizei als erster |
 |---|---|---|---|---|
@@ -2552,9 +3165,16 @@ vorhanden ist, muss der Timestamp der Messung angegeben werden. einmal im vorhan
 | K095 | Basis | F | Wenn  FK    Obj_0073  FK 8225 mindestens  Obj_0073 vorkommen. | Wenn das eingesandte Untersuchungsmaterial zu verarbeiten war, muss |
 | K096 | Basis | F | Wenn Inhalt von FK 8401 = 2, darf der  FK 8418 nicht 02, 05 oder 10 | In einem Befund mit dem Status „Auftrag abgeschlossen“ werden keine |
 
-Feldinhalt >= „01.01.2015“ sowie der Inhalt der Stellen 3  5 der muss entweder die und sowie die Feldinhalt >= „01.01.2015“ sowie der Inhalt der Stellen 3  5 der jeweiliger Satzart  = 2, dann darf  nur der Wert 7368 vorhanden ist, muss einmal im zulässig sind, können Behandlungen auf Basis der eingelesen KVKs nur bei „originären“ SKT durchgeführt werden. Sonstiger Kostenträger eGKs für seine Versicherten aus.  mehr zulässig sind, können Behandlungen auf Basis von eingelesen KVKs bei GKV-Kostenträgern nicht durchgeführt werden. Rechnung gestellt. jeweiligen Satzart „Auftrag“ oder „Befund“ die Werte für Abrechnungsinfo zur Untersuchung 1, 2, 3, 8, 9 oder 10 vor, müssen die Angaben zum Geburtsdatum, Geschlecht und Wohnort vorhanden sein.  denen die Angaben zum Geschlecht, Geburtsdatum bzw. Wohnort des Patienten nicht oder nicht komplett vorhanden sind. der Timestamp der Messung angegeben werden. fehlenden oder vorläufigen Werte übertragen.
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Feldinhalt >= „01.01.2015“ sowie der Inhalt der Stellen 3  5 der muss entweder die und sowie die Feldinhalt >= „01.01.2015“ sowie der Inhalt der Stellen 3  5 der jeweiliger Satzart  = 2, dann darf  nur der Wert 7368 vorhanden ist, muss einmal im zulässig sind, können Behandlungen auf Basis der eingelesen KVKs nur bei „originären“ SKT durchgeführt werden. Sonstiger Kostenträger eGKs für seine Versicherten aus.  mehr zulässig sind, können Behandlungen auf Basis von eingelesen KVKs bei GKV-Kostenträgern nicht durchgeführt werden. Rechnung gestellt. jeweiligen Satzart „Auftrag“ oder „Befund“ die Werte für Abrechnungsinfo zur Untersuchung 1, 2, 3, 8, 9 oder 10 vor, müssen die Angaben zum Geburtsdatum, Geschlecht und Wohnort vorhanden sein.  denen die Angaben zum Geschlecht, Geburtsdatum bzw. Wohnort des Patienten nicht oder nicht komplett vorhanden sind. der Timestamp der Messung angegeben werden. fehlenden oder vorläufigen Werte übertragen. Seite 112 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | K097 | KBV | F | Wenn in Satzart 8215 die FK 7303 mit den  FK 8102 mindestens | Wenn Untersuchungen im kassenärztlichen Kontext abgerechnet wer- |
 |---|---|---|---|---|
@@ -2565,9 +3185,16 @@ Feldinhalt >= „01.01.2015“ sowie der Inhalt der Stellen 3  5 der muss entwed
 | K102 | SV | F | Wenn in Satzart 8215 die FK 7303 mit dem  FK 8104 | Wenn Untersuchungen im Kontext der individuellen |
 | K103 | SV | F | Wenn in Satzart 8215 die FK 7303 mit dem  FK 8106 | Wenn Untersuchungen im Kontext eines Selektivvertrages abgerechnet |
 
-Inhalten 1, 2, 8, 9, 10, 13, 15 oder 16 vorkommt, muss die einmal vorhanden sein. Inhalten 3, 4 oder 14 vorkommt, muss die oder !H oder !+ ist, muss vorkommen und vorkommen. vorkommen und vorkommen. entweder vorkommen. Inhalt 6 vorkommt, muss die vorhanden sein. Inhalt 5 vorkommt, muss die vorhanden sein. den sollen, muss das Obj_0002 (Abrechnung_GKV) vorhanden sein. sollen, muss das Obj_0003 (Abrechnung_PKV) vorhanden sein. werden, um den Befundempfänger auf die Werte hinzuweisen. Gesundheitsleistungen (IgeL) abgerechnet werden sollen, muss das Obj_0004 (Abrechnung_IgeL) vorhanden sein. werden sollen, muss das Obj_0006 (Abrechnung_Selektivvertrag) vorhanden sein.
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+Inhalten 1, 2, 8, 9, 10, 13, 15 oder 16 vorkommt, muss die einmal vorhanden sein. Inhalten 3, 4 oder 14 vorkommt, muss die oder !H oder !+ ist, muss vorkommen und vorkommen. vorkommen und vorkommen. entweder vorkommen. Inhalt 6 vorkommt, muss die vorhanden sein. Inhalt 5 vorkommt, muss die vorhanden sein. den sollen, muss das Obj_0002 (Abrechnung_GKV) vorhanden sein. sollen, muss das Obj_0003 (Abrechnung_PKV) vorhanden sein. werden, um den Befundempfänger auf die Werte hinzuweisen. Gesundheitsleistungen (IgeL) abgerechnet werden sollen, muss das Obj_0004 (Abrechnung_IgeL) vorhanden sein. werden sollen, muss das Obj_0006 (Abrechnung_Selektivvertrag) vorhanden sein. Seite 113 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 | K104 | Basis | F | Wenn FK 8147 im Obj_0045 (Patient)  FK   der Wert 12 sein. | Bei Verwendung des Objektes Person im Objekt Patient muss der |
 |---|---|---|---|---|
@@ -2580,9 +3207,16 @@ Inhalten 1, 2, 8, 9, 10, 13, 15 oder 16 vorkommt, muss die einmal vorhanden sein
 | K115 | KBV | F | Entweder die FK 0212 oder die FK 0223 |  |
 | K116 | KBV | F | Wenn Feldinhalt von FK 4239  FK    FK 0212 oder FK 0223 vorhanden  Wenn Feldinhalt von  FK 4239 wenn FK 0222 vorhanden ist, dann muss ein | Es ist ausgeschlossen, dass ein Krankenhausarzt im Rahmen seiner |
 
-vorkommt, dann muss der Inhalt der 7420 Inhalt 7 vorkommt, muss die wenn der Inhalt der übermittelt wurde. jeweils  = 99, muss = 8215 und der einmal ≠ 28 und wenn  = 28 und Status „Patient“ verwendet w erden. Selektivverträge oder ASV abgerechnet werden sollen, muss das Obj_0005 (Abrechnung_sonstige_Kostenuebernahme) vorhanden sein. ungsergebnis „Klinische Chemie“ wird entweder auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angeforderten Leistung oder auf ein Test-Ident verwiesen. dann zurückübermittelt werden, wenn der Einsender diese bei der Beauftragung übermittelt hat. „Auftrag“ erlaubt.  ASV-Berechtigung Mitglied einer Laborgemeinschaft ist und in diesem Zusammenhang Laborleistungen auf Muster 10A anfordert, gemäß § 25 Abs. 3 S. 7 BMV-Ä.
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+vorkommt, dann muss der Inhalt der 7420 Inhalt 7 vorkommt, muss die wenn der Inhalt der übermittelt wurde. jeweils  = 99, muss = 8215 und der einmal ≠ 28 und wenn  = 28 und Status „Patient“ verwendet w erden. Selektivverträge oder ASV abgerechnet werden sollen, muss das Obj_0005 (Abrechnung_sonstige_Kostenuebernahme) vorhanden sein. ungsergebnis „Klinische Chemie“ wird entweder auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angeforderten Leistung oder auf ein Test-Ident verwiesen. dann zurückübermittelt werden, wenn der Einsender diese bei der Beauftragung übermittelt hat. „Auftrag“ erlaubt.  ASV-Berechtigung Mitglied einer Laborgemeinschaft ist und in diesem Zusammenhang Laborleistungen auf Muster 10A anfordert, gemäß § 25 Abs. 3 S. 7 BMV-Ä. Seite 114 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  |  | FK 0212  FK 0223 |
 |---|---|---|---|---|
@@ -2596,7 +3230,12 @@ vorkommt, dann muss der Inhalt der 7420 Inhalt 7 vorkommt, muss die wenn der Inh
 | K124 | Basis | F | FK 3321  FK   oder FK 7417 oder FK 3318 oder FK   vorhanden sind, und  FK 3320 |  |
 | K125 | Basis | F | FK 8158 kann im Obj_0062 nur vorhanden  FK 7414 vorkommt und der | Use Case: Analytik konnte nicht durchgeführt werden. |
 
-vorhanden sein. Die darf nicht vorhanden sein. 8147 vorkommt, muss im folgenden wenn der Inhalt der übermittelt wurde. oder die oder die 7415 3319 7415 3319 sein, wenn die einer gewissen Beziehung zu dem zu untersuchenden Material steht (z.B. Tierhalter, Eigentümer des eingesandten Materials). der 1. Tag des letzten Zyklus übermittelt wurde. Zytologie “ wird entwed er auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angeforderten Leistung oder auf ein Test-Ident verwiesen. Sonstige Untersuchungsergebnisse “ wird entweder auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angeforderten Leistung oder auf ein Test-Ident verwiesen. HPV-Typ 16/18  darf nur dann gesetzt werden, wenn das Ergebnis des HPV-HR-Tests  positiv ist.
+LDT 3 Satzbeschreibung,
+
+Version 3.2.19
+
+vorhanden sein. Die darf nicht vorhanden sein. 8147 vorkommt, muss im folgenden wenn der Inhalt der übermittelt wurde. oder die oder die 7415 3319 7415 3319 sein, wenn die einer gewissen Beziehung zu dem zu untersuchenden Material steht (z.B. Tierhalter, Eigentümer des eingesandten Materials). der 1. Tag des letzten Zyklus übermittelt wurde. Zytologie “ wird entwed er auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angeforderten Leistung oder auf ein Test-Ident verwiesen. Sonstige Untersuchungsergebnisse “ wird entweder auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angeforderten Leistung oder auf ein Test-Ident verwiesen. HPV-Typ 16/18  darf nur dann gesetzt werden, wenn das Ergebnis des HPV-HR-Tests  positiv ist. Seite 115 von 187
+
 
 ---
 
@@ -2608,7 +3247,12 @@ vorhanden sein. Die darf nicht vorhanden sein. 8147 vorkommt, muss im folgenden 
 | K131 | Basis | W | Wenn Inhalt von FK 8626 = 2, muss  8627 oder FK 4111  Wenn Inhalt von FK 8626 = 1 oder 3, darf  8627 und FK 4111 nicht vorhanden  Wenn Inhalt von FK 8626 = 3, darf FK 8617, 8618, 8619  und 8620 nicht |  |
 | K132 | Basis | W | Wenn Inhalt von FK 8626 = 1, muss   8617 oder die FK 8631 |  |
 
-≠ 0 ist vorkommt und der Inhalt von ≠ 3 ist einmal vorkommen, wenn Inhalt von ≠ 0 vorhanden ist. “HPV -HR- Testergebnis” darf nur gesetzt werden, wenn ein “HPV -HR- Test” vorliegt. gleichzeitig vorhanden sein.  entweder FK vorhanden sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. innerhalb des entsprechenden Objektes min. die FK vorhanden sein. Es kann eine beliebige Kombination der zwei Feldkennungen
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+≠ 0 ist vorkommt und der Inhalt von ≠ 3 ist einmal vorkommen, wenn Inhalt von ≠ 0 vorhanden ist. “HPV -HR- Testergebnis” darf nur gesetzt werden, wenn ein “HPV -HR- Test” vorliegt. gleichzeitig vorhanden sein.  entweder FK vorhanden sein. Beide Feldkennungen dürfen gleichzeitig vorhanden sein. innerhalb des entsprechenden Objektes min. die FK vorhanden sein. Es kann eine beliebige Kombination der zwei Feldkennungen Seite 116 von 187
+
 
 ---
 
@@ -2617,10 +3261,16 @@ vorhanden sein. Die darf nicht vorhanden sein. 8147 vorkommt, muss im folgenden 
 | K134 | Basis | F | Wenn im Obj_0062 die FK 7414 vorkommt  FK 7414 ungleich 0 ist,  FK 7405, FK 7406, FK  , FK 7408, FK 7409, FK 7410, FK   und FK 7412 vorkommen.  Wenn im Obj_0062 die FK 7414 nicht  FK 7405, FK  , FK 7407, FK 7408, FK 7409, FK  , FK 7411 und FK 7412 nicht |  |
 | K135 | Basis | W | Die FK 8632 darf im Obj_0009 und  Obj_0017 nicht vorhanden sein. | Um |
 
-(Obj_Veranlassungsgrund) = 2 oder 10 ist, dann kann die und der Inhalt von dann müssen die vorkommt, dann dürfen die Spezifikation ohne Stichtagsregelung zu verhindern, wird in einem ersten Schritt die FK 8632 noch nicht entfernt und soll mit dieser Regel bewarnt werden, falls sie noch in den Datensätzen vorhanden ist. Fehler aufgrund einer inkompatiblen Änderung der LDT 
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+(Obj_Veranlassungsgrund) = 2 oder 10 ist, dann kann die und der Inhalt von dann müssen die vorkommt, dann dürfen die Spezifikation ohne Stichtagsregelung zu verhindern, wird in einem ersten Schritt die FK 8632 noch nicht entfernt und soll mit dieser Regel bewarnt werden, falls sie noch in den Datensätzen vorhanden ist. Fehler aufgrund einer inkompatiblen Änderung der LDT Seite 117 von 187
 
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 # LDT
 
@@ -2647,14 +3297,20 @@ Dieses Objekt wird als Zusammenfassung aller im Auftrag vorhandenen Abrechnungsa
 |  |  |  | 1 |  |  | Obj_0009 (Obj_ Abrechnung_OEGD) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 # -Objektkatalog
 
 ## Obj_Abrechnungsinformationen „Obj_0001“
 
 Satzart „8215“ darf dieses Objekt nur einmal vorhanden sein.
 
+Seite 118 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.2  Obj_Abrechnung GKV „Obj_0002“
 
@@ -2677,8 +3333,14 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 | 4109 |  | 1 |  |  |  | Letzter Einlesetag der Versichertenkarte im Quartal | m | K017    K025   K087  K090  K091 |  |
 | 4133 |  | 1 |  |  |  | VersicherungsschutzBeginn | m | K091 |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 119 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 4110 |  | 1 |  |  |  | VersicherungsschutzEnde | m | K088  K090 |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -2706,9 +3368,14 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 | 4217 |  | 1 |  |  |  | (N)BSNR des Erstveranlassers | m | K014       K041 |  |
 | 4225 |  | 1 |  |  |  | ASV-Teamnummer des Erstveranlassers | m | K014  K041 |  |
 
-Abrechnung des Erstveranlassers
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Abrechnung des Erstveranlassers Seite 120 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -2730,8 +3397,14 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 |  |  |  |  | 1 |  | Obj_0048 (Obj_Rechnungsempfaenger) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 121 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.4  Obj_Abrechnung Ige-Leistungen „Obj_0004“
 
@@ -2748,10 +3421,16 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 |  |  |  |  | 1 |  | Obj_0048 (Obj_Rechnungsempfaenger) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 zusammengefasst, welche als Ige-Leistungen gegenüber gesetzlich
+
+Seite 122 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.5  Obj_Abrechnung sonstige Kostenuebernahme „Obj_0005“
 
@@ -2768,8 +3447,14 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 |  |  |  |  | 1 |  | Obj_0048 (Obj_Rechnungsempfaenger) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 123 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.6  Obj_Abrechnung Selektivvertrag „Obj_0006“
 
@@ -2792,8 +3477,14 @@ Mit diesem Objekt werden die Informationen für die Abrechnung von Untersuchungs
 |  |  |  | 1 |  |  | Obj_0048 (Obj_Rechnungsempfaenger) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 124 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.7  Obj_Anschrift „Obj_0007“
 
@@ -2817,10 +3508,18 @@ Das Objekt Anschrift definiert die Adresse. Dabei kann es sich entweder um ein P
 | 1202 |  | n |  |  |  | Adresstyp | K |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-nicht vergeben n.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+n.
+
+nicht vergeben Seite 125 von 187
 
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3.0
 
 **11.8** ** Obj_Adressat „Obj_0008“**
 
@@ -2835,8 +3534,14 @@ nicht vergeben n.
 |  |  |  | 1 |  |  | Obj_0043 (Obj_Organisation) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 126 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.9 Obj_Abrechnung OEGD „Obj_0009“
 
@@ -2863,8 +3568,14 @@ In diesem Objekt werden die Informationen des Musters OEGD abgebildet.
 | 8623 |  | 1 |  |  |  | Identifikation/Aktenzeichen ÖGD | K |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 127 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.10 Obj_Anhang „Obj_0010“
 
@@ -2889,7 +3600,11 @@ Im Objekt Anhang können Informationen wie B
 | 9981 |  | 1 |  |  |  | Dokumentenquelle | k |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 efunde, Fotos oder sonstige Dokumentationen, die in einem digitalen Standardformat vorliegen, transportiert werden.
+
+Seite 128 von 187
 
 
 ---
@@ -2912,10 +3627,18 @@ dimensionale Matrix. Um den redundanten Informationsgehalt so gering wie möglic
 
 K = Keim-Identifizierung (x = max. Anzahl der Keime) x
 
-yW = Wertepaar aus Wirkstoffident und Ableitungen (y = max. Anzahl der getesteten Wirkstoffe) y
+W = Wertepaar aus Wirkstoffident und Ableitungen (y = max. Anzahl der getesteten Wirkstoffe) y
+
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+ySeite 129 von 187
 
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Antibiogramm |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -2936,8 +3659,14 @@ yW = Wertepaar aus Wirkstoffident und Ableitungen (y = max. Anzahl der getestete
 |  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 130 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.12 Obj_Auftragsinformation „Obj_0013“
 
@@ -2967,10 +3696,16 @@ In diesem Objekt werden übergeordnete Informationen
 |  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 zum Auftrag zusammengefasst sowie zusätzliche Befundwege definiert.
+
+Seite 131 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.13 Obj_Arztidentifikation „Obj_0014“
 
@@ -2991,9 +3726,14 @@ Hier werden alle notwendigen Informationen zum Einsender zusammengefasst.
 | 0222 |  | 1 |  |  |  | ASV-Teamnummer | m | K057    K116 |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-Abrechnung
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Abrechnung Seite 132 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.14 Obj_Befundinformationen „Obj_0017“
 
@@ -3026,10 +3766,16 @@ Dieses Objekt bündelt alle Daten zum Befund inklusive aller Kennungen, welche e
 | 8311 |  | 1 |  |  |  | ID Auftragsnummer des Labors | M |  |  |
 | 7305 |  |  | 1 |  |  | Befund-ID | m |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 fund sicherstellen.
+
+Seite 133 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8401 |  |  | 1 |  |  | Status (Befund/Bericht) | m | K005       K096 |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3060,8 +3806,14 @@ fund sicherstellen.
 |  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 134 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.15 Obj_Betriebsstaette „Obj_0019“
 
@@ -3081,9 +3833,12 @@ Dieses Objekt fasst die notwendigen Informationen zur Betriebsstätte von medizi
 |  |  |  |  | 1 |  | Obj_0043 (Obj_Organisation) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-(NBSNR)
+LDT 3 Satzbeschreibung, Version 3.2.19 (NBSNR) Seite 135 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.16 Obj_Diagnose „Obj_0100“
 
@@ -3102,8 +3857,14 @@ Mit diesem Objekt können Angaben zu Diagnosen des Patienten übertragen werden.
 | 6008 |  |  | n |  |  | Diagnoseausnahmetatbestand | k |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 136 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.17 Obj_Einsenderidentifikation „Obj_0022“
 
@@ -3132,8 +3893,14 @@ Hier werden alle notwendigen Informationen zum Einsender zusammengefasst.
 |  |  |  | 1 |  |  | Obj_0043 (Obj_Organisation) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 137 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.18 Obj_Fehlermeldung/Aufmerksamkeit „Obj_0026“
 
@@ -3156,10 +3923,16 @@ Dieses Objekt soll genutzt werden, wenn es aus Sicht des Auftragsnehmers Vorkomm
 |  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 liche Benachrichtigung des
+
+Seite 138 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.19 Obj_Fließtext „Obj_0068“
 
@@ -3174,10 +3947,14 @@ In diesem Objekt können semantisch zusammenhängende Texte oder Dateien (Base64
 | 6329 |  | n |  |  |  | Base64-kodierte Anlage | m | K100 |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
--kodiert) übertragen werden.
+LDT 3 Satzbeschreibung, Version 3.2.19 -kodiert) übertragen werden.
+
+Seite 139 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.20 Obj_Koerperkenngroessen „Obj_0069“
 
@@ -3198,9 +3975,14 @@ In diesem Objekt können Körperkenngrößen zum Patienten (Größe, Gewicht) ü
 |  |  |  |  | 1 |  | Obj_0054 (Obj_Timestamp) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-vergeben
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+vergeben Seite 140 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.21 Obj_Kommunikationsdaten „Obj_0031“
 
@@ -3220,8 +4002,14 @@ Hier werden alle Informationen zusammengefasst, die eine Kommunikation bspw. Mit
 | 7334 |  | n |  |  |  | Webadresse | m | K059 |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 141 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.22 Obj_Kopfdaten „Obj_0032“
 
@@ -3241,10 +4029,16 @@ Hier werden alle Informationen zusammengefasst, die
 |  |  |  | 1 |  |  | Obj_0043 (Obj_Organisation) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 im Kontext mit der Erstellung des Datensatzes stehen.
+
+Seite 142 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.23 Obj_Krebsfrueherkennung Zervix-Karzinom (Muster 39) „Obj_0034“
 
@@ -3277,9 +4071,14 @@ In diesem Objekt wird das Muster 39, Grundlage für die Krebsfrüherkennungsunte
 | 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
 |  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
 
-Welche? Wann? Anwendung
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Welche? Wann? Anwendung Seite 143 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Krebsfrueherkennung |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3287,9 +4086,14 @@ Welche? Wann? Anwendung
 |  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-Zervix-Karzinom (Muster39)
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Zervix-Karzinom (Muster39) Seite 144 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.24 Obj_Laborergebnisbericht „Obj_0035“
 
@@ -3322,9 +4126,14 @@ Hinweis: Die Feldkennungen 8160, 8161, 8162, 8163, 8155, 8248 und 8156 können i
 |  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
 | 8110 |  | n |  |  |  | Anhang | K |  |  |
 
-(Obj_Untersuchungsergebnis_Klinische_Chemie) (Obj_Untersuchungsergebnis_Krebsfrueherkennung_ Zervix-Karzinom)
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+(Obj_Untersuchungsergebnis_Klinische_Chemie) (Obj_Untersuchungsergebnis_Krebsfrueherkennung_ Zervix-Karzinom) Seite 145 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Laborergebnisbericht |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3335,8 +4144,14 @@ Hinweis: Die Feldkennungen 8160, 8161, 8162, 8163, 8155, 8248 und 8156 können i
 |  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 146 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 ## 11.25 Obj_Laborkennung „Obj_0036“
 
@@ -3354,7 +4169,14 @@ Das Objekt enthält die Angaben zu dem Labor, welches den Auftrag ausgeführt ha
 | 7266 |  | 1 |  |  |  | Laborart | M | K083     K084 |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 147 von 187
+
+
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.26 Obj_Material „Obj_0037“
 
@@ -3388,10 +4210,16 @@ Im Objekt werden die Informationen zur Identifikation des zu untersuchenden Mate
 | 8220 |  | 1 |  |  |  | Timestamp_Eingangserfassung_Material | k m | K063 |  |
 |  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
 
-noch nicht vergebenselbst.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+selbst.
+
+noch nicht vergebenSeite 148 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8126 |  | 1 |  |  |  | Fehlermeldung_Aufmerksamkeit | m | K082 |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3402,8 +4230,14 @@ noch nicht vergebenselbst.
 |  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 149 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.27 Obj_Medikament „Obj_0070“
 
@@ -3432,8 +4266,14 @@ Hier werden Informationen zu Medikamenten zusammengefasst.
 |  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 150 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 ## 11.28 Obj_Mutterschaft „Obj_0040“
 
@@ -3449,8 +4289,14 @@ Das Objekt Mutterschaft fasst die Angaben zur Mutterschaft zusammen.
 | 3666 |  |  | 1 |  |  | Anzahl Kinder | k |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 151 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 ## 11.29 Obj_Namenskennung „Obj_0041“
 
@@ -3468,8 +4314,14 @@ Das Objekt dient der Darstellung und elektronischen Übermittlung von Namenskenn
 |  |  |  |  |  | 1 | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 152 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.30 Obj_Normalwert „Obj_0042“
 
@@ -3503,8 +4355,14 @@ Mit diesem Objekt werden Norm- und Referenzbereiche strukturiert dargestellt.
 |  |  |  |  | 1 |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 153 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.31 Obj_Organisation „Obj_0043“
 
@@ -3528,8 +4386,14 @@ Mit diesem Objekt werden Organisationsstrukturen abgebildet.
 |  |  |  |  | 1 |  | Obj_0031 (Obj_Kommunikationsdaten) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 154 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.32 Obj_Patient „Obj_0045“
 
@@ -3549,8 +4413,14 @@ In diesem Objekt werden die Informationen über einen Patienten aufgeführt.
 | 3000 |  | 1 |  |  |  | Patientennummer | K |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 155 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.33 Obj_Person „Obj_0047“
 
@@ -3583,10 +4453,16 @@ Mit dem Objekt Person werden alle die natürlichen Personen dargestellt, deren D
 |  |  |  | 1 |  |  | Obj_0031 (Obj_Kommunikationsdaten) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 entation von Aufträgen und Befunden
+
+Seite 156 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.34 Obj_RgEmpfaenger „Obj_0048“
 
@@ -3607,8 +4483,14 @@ Hier sind alle Angaben zum Rechnungsempfänger enthalten.
 | 8608 |  | 1 |  |  |  | Kommentar/Aktenzeichen | K |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 157 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.35 Obj_Schwangerschaft „Obj_0050“
 
@@ -3624,8 +4506,14 @@ Dieses Objekt enthält schwangerschaftsspezifische Informationen.
 | 3471 |  |  | 1 |  |  | errechneter Entbindungstermin | k |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 158 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.36 Obj_Sendendes System „Obj_0051“
 
@@ -3645,10 +4533,16 @@ Dieses Objekt enthält die Information zum sendenden Softwaresystem, welches
 | 0132 |  |  | 1 |  |  | Version/Releasestand der Software | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-nicht vergeben den LDT Datensatz erstellt hat.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+den LDT Datensatz erstellt hat.
+
+nicht vergeben Seite 159 von 187
 
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 ## 11.37 Obj_Tier/Sonstiges „Obj_0053“
 
@@ -3675,10 +4569,18 @@ Enthält ein Auftrag Materialien, die nicht h
 |  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 umanen Ursprungs sind, so werden die entsprechenden Informationen zur Materialquelle in diesem Objekt beschrieben.
+
+Seite 160 von 187
 
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3.0
 
 **11.38** **Obj_Timestamp „Obj_0054“**
 
@@ -3695,8 +4597,14 @@ umanen Ursprungs sind, so werden die entsprechenden Informationen zur Materialqu
 |  |  |  | 1 |  |  | Obj_0047 (Obj_Person) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 161 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.39 Obj_Blutgruppenzugehoerigkeit „Obj_0055“
 
@@ -3727,9 +4635,14 @@ Dieses Objekt transportiert die Informationen zur Blutgruppenzugehörigkeit.
 |  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
 | 8223 |  | 1 |  |  |  | Timestamp_Ergebniserstellung | K |  |  |
 
-vergeben
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+vergebenSeite 162 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3747,8 +4660,14 @@ vergeben
 |  |  |  | 1 |  |  | Obj_0058 (Obj_Untersuchungsabrechnung) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 163 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.40 Obj_Tumor „Obj_0056“
 
@@ -3783,10 +4702,16 @@ In diesem Objekt können Information zu einem Tumor sowohl für die Beauftragung
 | 8126 |  | 1 |  |  |  | Fehlermeldung_Aufmerksamkeit | K |  |  |
 |  |  |  | 1 |  |  | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
 
-vergeben Befund transportiert werden.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Befund transportiert werden.
+
+vergeben Seite 164 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 | 8167 |  | n |  |  |  | Zusaetzliche_Informationen | K |  |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3797,8 +4722,14 @@ vergeben Befund transportiert werden.
 |  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 165 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.41 Obj_Untersuchungsabrechnung „Obj_0058“
 
@@ -3820,10 +4751,14 @@ Jeder Untersuchung wird direkt eine  sind.
 | 7251 |  |  | 1 |  |  | Bezeichnung des verwendeten Kataloges | K |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
--Cent Abrechnung zugeordnet. Hier werden alle Werte transportiert, die für die ordnungsgemäße Abrechnung des Auftrages notwendig
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Abrechnung zugeordnet. Hier werden alle Werte transportiert, die für die ordnungsgemäße Abrechnung des Auftrages notwendig -Cent Seite 166 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.42 Obj_Untersuchungsanforderung „Obj_0059“
 
@@ -3846,9 +4781,14 @@ In diesem Objekt werden alle Informationen zur Untersuchungsanforderung zusammen
 | 8501 |  | 1 |  |  |  | Dringlichkeit | K |  |  |
 | 8423 |  | 1 |  |  |  | Pathologisch bekannt | K |  |  |
 
-vergeben
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+vergeben Seite 167 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  | Obj_Untersuchungsanforderung |  |  | OID noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3875,10 +4815,12 @@ vergeben
 |  |  |  | 1 |  |  | Obj_0041 (Obj_Namenskennung) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-(Muster39)) 
+LDT 3 Satzbeschreibung, Version 3.2.19 (Muster39)) Seite 168 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.43 Obj_Untersuchungsergebnis Klinische Chemie „Obj_0060“
 
@@ -3910,8 +4852,14 @@ In diesem Objekt werden die Ergebnisse aus dem Bereich Klinische Chemie übermit
 |  |  |  |  |  | 1 | Obj_0042 (Obj_Normalwert) | m |  |  |
 | 8225 |  |  |  | 1 |  | Timestamp_Messung | m | K076 |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 169 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Untersuchungsergebnis Klinische Chemie |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -3944,8 +4892,16 @@ In diesem Objekt werden die Ergebnisse aus dem Bereich Klinische Chemie übermit
 |  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 170 von 187
+
 
 ---
+
+**IT in der Arztpraxis**
+
+LDT 3.0
 
 ### Empfehlung zur Übermittlung von HPV-Befunden im Rahmen der oKFE-Richtlinie Zervixkarzinom im Objekt Obj_0060
 
@@ -3964,12 +4920,18 @@ Damit das Befundergebnis automatisiert in das Obj_Untersuchungsergebnis Krebsfr�
 
 * die Syntax ist in Erweiterter Backus-Naur-Form (EBNF) dargestellt.
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
 m „Obj_0062
 
-oder Gruppentypisierung Analysegerätes bzw. PCR- Testkits Ergebniswerte Messwertes / Wertes Normalwertes ('HPV' | 'hpv') und erlaubter Inhalt gemäß Regel '1' | '2' | '3' übernommen werden kann, sollte es im
+übernommen werden kann, sollte es im
+
+oder Gruppentypisierung Analysegerätes bzw. PCR- Testkits Ergebniswerte Messwertes / Wertes Normalwertes ('HPV' | 'hpv') und erlaubter Inhalt gemäß Regel '1' | '2' | '3' Seite 171 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.44 Obj_Untersuchungsergebnis Mikrobiologie „Obj_0061“
 
@@ -3999,8 +4961,14 @@ In diesem Objekt werden die Ergebnisse aus dem Bereich Mikrobiologie transportie
 | 7355 |  |  | 1 |  |  | Keim/Pilz-Name | m |  |  |
 | 7427 |  |  | 1 |  |  | Art | m |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 172 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Untersuchungsergebnis Mikrobiologie |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4033,8 +5001,14 @@ In diesem Objekt werden die Ergebnisse aus dem Bereich Mikrobiologie transportie
 | 8224 |  | 1 |  |  |  | Timestamp_QM_Erfassung | K |  |  |
 |  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 173 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Untersuchungsergebnis Mikrobiologie |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4056,8 +5030,14 @@ In diesem Objekt werden die Ergebnisse aus dem Bereich Mikrobiologie transportie
 |  |  |  | 1 |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 174 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.45 Obj_Untersuchungsergebnis Krebsfrüherkennung Zervix-Karzinom „Obj_0062“
 
@@ -4090,9 +5070,14 @@ In diesem Objekt werden die Ergebnisse der Krebsfrüherkennung Zervix-Karzinom �
 | 7413 |  |  | 1 |  |  | Codierung der Gruppe | m |  |  |
 | 3316 |  | 1 |  |  |  | HPV-HR-Testergebnis | K | K122 |  |
 
-Zervix-Karzinom
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Zervix-Karzinom Seite 175 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Untersuchungsergebnis Krebsfrüherkennung |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4122,7 +5107,8 @@ Zervix-Karzinom
 |  |  |  | 1 |  |  | Obj_0054 (Obj_Timestamp) | m |  |  |
 | 8225 |  | 1 |  |  |  | Timestamp_Messung | m | K076    K126 |  |
 
-(Muster 39))
+LDT 3 Satzbeschreibung, Version 3.2.19 (Muster 39)) Seite 176 von 187
+
 
 ---
 
@@ -4153,9 +5139,16 @@ Damit der Wert des Grenzwertindikators in Feldkennung 8422 „Obj_0062“ überm
 | A | Falls FK 7415 oder FK 7417 oder FK 3318 oder FK 3319 vorhanden sind, oder FK  3316 = 1, oder FK 7414 g oder III-e oder III-x oder IVa-p oder IVa-g oder IVb-p oder IVb-g oder V-p oder V-g  FK 3320 | Falls eine Empfehlung existiert oder ein positiver  Ein positiver Befund liegt bei einem positiven HPV- |
 | N | Falls FK 7415 und FK 7417 und FK 3318 und FK 3319 nicht vorhanden sind und FK  3316  7414 III-e und III-x und IVa-p und IVa-g und IVb-p und IVb-g und V und V-p und V-g und V-e | Falls Regel A nicht zutrifft |
 
-Zervix-Karzinom Empfehlung „sofort“ vorhanden ist (auffällig) oder V-e oder V-x und  = II-p oder II-g oder II-e oder IIID1 oder IIID2 oder III-p oder III- Befund vorliegt und Regel AA nicht zutrifft.  HR-Testergebnis oder ab einer Gruppe II-p vor. (normal)  1 und FK und V-x  ≠ II -p und II-g und II-e und IIID1 und IIID2 und III-p und III-g und
+**IT in der Arztpraxis**  LDT 3.0
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Zervix-Karzinom Empfehlung „sofort“ vorhanden ist (auffällig) oder V-e oder V-x und  = II-p oder II-g oder II-e oder IIID1 oder IIID2 oder III-p oder III- Befund vorliegt und Regel AA nicht zutrifft.  HR-Testergebnis oder ab einer Gruppe II-p vor. (normal)  1 und FK und V-x  ≠ II -p und II-g und II-e und IIID1 und IIID2 und III-p und III-g und Seite 177 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.46 Obj_Untersuchungsergebnis Zytologie „Obj_0063“
 
@@ -4187,9 +5180,14 @@ In diesem Objekt können weitere Ergebnisse aus dem Bereich Zytologie transporti
 | 7368 |  | 1 |  |  |  | Zellmaterial nicht verwertbar | K | K080       K081    K082 |  |
 | 7400 |  | 1 |  |  |  | HPV Befund | K |  |  |
 
-vergeben
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+vergeben Seite 178 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Untersuchungsergebnis Zytologie |  |  | OID: noch nicht | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4222,9 +5220,14 @@ vergeben
 |  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
 | 8110 |  | n |  |  |  | Anhang | K |  |  |
 
-vergeben
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+vergeben Seite 179 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Untersuchungsergebnis Zytologie |  |  | OID: noch nicht | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4239,10 +5242,14 @@ vergeben
 | 3473 |  | 1 |  |  |  | Untersuchungsergebnis durch Auftragslaboratorium erstellt | K |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
-vergeben 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+vergeben Seite 180 von 187
 
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.47 Obj_Veranlassungsgrund „Obj_0027"
 
@@ -4269,9 +5276,14 @@ Mit diesem Objekt können Angaben zum Grund der Veranlassung der laboratoriumsme
 |  |  |  | 1 |  |  |  | Obj_0010 (Obj_Anhang) | m |  |  |
 | 8003 | 1 |  |  |  |  |  | Objektende | M |  |  |
 
-werden um die Diagnosekodierung bezogen auf die jeweilige Abrechnungsart abzubilden.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+werden um die Diagnosekodierung bezogen auf die jeweilige Abrechnungsart abzubilden.  Seite 181 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.48 Obj_Wirkstoff „Obj_0071“
 
@@ -4289,8 +5301,14 @@ Hier werden Informationen zu Wirkstoffen zusammengefasst.
 | 8421 |  |  |  | 1 |  | Maßeinheit des Messwertes / Wertes | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 182 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.49 Obj_BAK „Obj_0072“
 
@@ -4315,8 +5333,14 @@ In diesem Objekt werden die Ergebnisse bakteriologischer Untersuchungen struktur
 |  |  |  | 1 |  |  | Obj_0068 (Obj_Fließtext) | m |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 183 von 187
+
 
 ---
+
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.50 Obj_Sonstige Untersuchungsergebnisse „Obj_0073“
 
@@ -4347,10 +5371,16 @@ Das jeweilige Fachgebiet wird über die FK 7431 definiert.
 | 8126 |  |  |  | 1 |  | Fehlermeldung_Aufmerksamkeit | m | K099 |  |
 |  |  |  |  |  | 1 | Obj_0026 (Obj_Fehlermeldung/Aufmerksamkeit) | m |  |  |
 
-Pathologie-Befundes, bei dem eine Meldung an ein Krebsregister erfolgt, den Wert “AA” (sehr auffällig) zu verwenden. (Obj_Untersuchungsergebnis_Mikrobiologie), 0062 (Obj_Untersuchungsergebnis_Krebsfrueherkennung_Zervix-Karzinom), 0063  (Obj_Blutgruppenzugehoerigkeit) und 0056 (Obj_Tumor) beschriebenen Fachgebiete liegen.
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+(Obj_Untersuchungsergebnis_Mikrobiologie), 0062 (Obj_Untersuchungsergebnis_Krebsfrueherkennung_Zervix-Karzinom), 0063  (Obj_Blutgruppenzugehoerigkeit) und 0056 (Obj_Tumor) beschriebenen Fachgebiete liegen.
+
+Pathologie-Befundes, bei dem eine Meldung an ein Krebsregister erfolgt, den Wert “AA” (sehr auffällig) zu verwenden. Seite 184 von 187
 
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Sonstige Untersuchungsergebnisse |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4382,14 +5412,24 @@ Pathologie-Befundes, bei dem eine Meldung an ein Krebsregister erfolgt, den Wert
 | 7429 |  | 1 |  |  |  | DRG_Hinweis | K |  |  |
 | 3473 |  | 1 |  |  |  | Untersuchungsergebnis durch Auftragslaboratorium erstellt | K |  |  |
 
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 185 von 187
+
 
 ---
+
+**IT in der Arztpraxis** LDT 3.0
 
 |  |  |  | Obj_Sonstige Untersuchungsergebnisse |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
 | **FK** |  | **Vorkommen** | **Feld-/Objektbezeichnung** | **Feldart** | **Regel** | **Erläuterung** | | | |
 |  | **1** | **2** | **3** | **4** | **5** |  |  |  |  |
 | 8003 | 1 |  |  |  |  | Objektende | M |  |  |
+
+LDT 3 Satzbeschreibung, Version 3.2.19
+
+Seite 186 von 187
 
 
 ---
@@ -4401,4 +5441,4 @@ Pathologie-Befundes, bei dem eine Meldung an ein Krebsregister erfolgt, den Wert
 |  | LDT 3 Use | Cases |  |  |  |
 | LDT 3 | Satzbeschreibung, | | Version 3.2.19 | Seite | 187 von 187 |
 
-LDT 3 Use Cases
+LDT 3 Use Cases IT in der Arztpraxis LDT 3 Satzbeschreibung, Version 3.2.19 Seite 187 von 187

@@ -49,6 +49,12 @@ Für die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als landw
 
 Dr. Marion Baierl
 
+_______________________
+
+________________________
+
+_______________________________
+
 
 ---
 
@@ -67,7 +73,6 @@ Die Ständige Gebührenkommission nach § 52 des Vertrages Ärzte/Unfallversiche
 -  Weitere Inhalte, auf die die Überarbeitung Einfluss hat, bzw. die mit der  Überarbeitung angepasst werden müssen
 
 Gebühren, die nicht Gegenstand der Überarbeitung waren und auf die Änderungen keinen  Einfluss haben, sind nachfolgend nicht aufgeführt (z.B. Todesfeststellung, Berichtsvordrucke,  etc.).
-
 
 ---
 
@@ -181,8 +186,9 @@ Gebühren, die nicht Gegenstand der Überarbeitung waren und auf die Änderungen
 
 *Daneben nicht abrechenbar: Nr. 1,45, 50, 448 – 449, 600, 601, 800, 826, 1203, 1204, 1228,*  *1240, 1400, 1401 und 1414.*
 
-Nummer    - *52 nicht*
+- *52 nicht*
 
+Nummer
 
 ---
 
@@ -224,8 +230,9 @@ Nummer    - *52 nicht*
 
 *7 Uhr sowie an*
 
-Nummer*soweit*
+*soweit*
 
+Nummer
 
 ---
 
@@ -298,8 +305,9 @@ Nummer*Zuschlag zu Nr. 11 für die Leistung zwischen 19 7 Uhr sowie an Samstagen
 
 *und Teilhabeplanes nach Nr. 17 UV-GOÄ. Die Mitwirkung bedarf*
 
-Nummer*durch die medizinische Fachkraft als*
+*durch die medizinische Fachkraft als*
 
+Nummer
 
 ---
 
@@ -337,8 +345,9 @@ Nummer*durch die medizinische Fachkraft als*
 |---|---|---|---|---|---|
 | *35* | *13,78* | *13,78* |  | *1,74* | *1,74* |
 
-Nummer*Beurteilung und Bewertung von Schnittbildern und /oder Röntgenbildern durch den D-Arzt*  *bei einem Arztwechsel*
+*Beurteilung und Bewertung von Schnittbildern und /oder Röntgenbildern durch den D-Arzt*  *bei einem Arztwechsel*
 
+Nummer
 
 ---
 
@@ -413,14 +422,17 @@ Nummer*Die Leistung nach Nummer 45 ist neben anderen Leistungen des Abschnitts B
 |---|---|---|---|---|---|
 | *51* | *17,89* | *22,28* |  |  |  |
 
-*Zuschlag zur Nr. 50, zwischen 19 7 Uhr, sowie an Samstagen, Sonn*
+*Zuschlag zur Nr. 50, zwischen 19*
+
+*7 Uhr, sowie an Samstagen, Sonn*
 
 *oder Pflegeheimen)*
 
 *und Feiertagen*
 
-Nummer Nummer*bei*
+*bei*
 
+Nummer Nummer
 
 ---
 
@@ -573,8 +585,9 @@ Nummer Nummer*bei*
 
 *1. Die Befundmitteilung oder der einfache Befundbericht ist mit der Gebühr für die zugrunde* *liegende Leistung abgegolten.*
 
-Nummer*2. Für Berichte, die auf Verlangen des Trägers der gesetzlichen Unfallversicherung oder*  *aufgrund von Regelungen des Vertrags Ärzte/Unfallversicherungsträger frei ohne*  *Verwendung eines Vordrucks erstattet werden, bemisst sich die Gebühr entsprechend dem*  *Aufwand, Zweck und Inhalt nach dem Gebührenrahmen der Nummern 110 bis 119.*
+*2. Für Berichte, die auf Verlangen des Trägers der gesetzlichen Unfallversicherung oder*  *aufgrund von Regelungen des Vertrags Ärzte/Unfallversicherungsträger frei ohne*  *Verwendung eines Vordrucks erstattet werden, bemisst sich die Gebühr entsprechend dem*  *Aufwand, Zweck und Inhalt nach dem Gebührenrahmen der Nummern 110 bis 119.*
 
+Nummer
 
 ---
 
@@ -588,9 +601,7 @@ Nummer*2. Für Berichte, die auf Verlangen des Trägers der gesetzlichen Unfallv
 |---|---|---|---|---|---|
 | *117* | *23,77* | *23,77* |  |  |  |
 
-*Vordruck F 1110*
-
-*Auskunft Klärung Arbeitsunfall, einschließlich Schreibgebühren*
+*Vordruck F 1110*  *Auskunft Klärung Arbeitsunfall, einschließlich Schreibgebühren*
 
 *Daneben nicht abrechenbar: Nr. 166*
 
@@ -618,8 +629,9 @@ Nummer*2. Für Berichte, die auf Verlangen des Trägers der gesetzlichen Unfallv
 
 *Daneben nicht abrechenbar: Nr. 166*
 
-Nummer Nummer**30.** In VI. Besondere Bedingungen wird Nummer 134 wie folgt gefasst:
+**30.** In VI. Besondere Bedingungen wird Nummer 134 wie folgt gefasst:
 
+Nummer Nummer
 
 ---
 
@@ -659,8 +671,9 @@ Nummer Nummer**30.** In VI. Besondere Bedingungen wird Nummer 134 wie folgt gefa
 
 *119, 134*
 
-Nummer Nummer      - *nicht besetzt*
+- *nicht besetzt*
 
+Nummer Nummer
 
 ---
 
@@ -690,18 +703,15 @@ Nummer Nummer      - *nicht besetzt*
 
 *443 Zuschlag bei ambulanter Durchführung von operativen Leistungen nach den Gebühren* *Nrn. 1043, 1052, 1099, 1104, 1111, 1120, 1122, 1129, 1135, 1141, 1283, 1299, 1305, 1330,*  *1331, 1333, 1359, 1446, 1455, 1519, 1528, 1535, 1588, 1622, 1628, 1635, 1738, 1761,*  *1765, 1802, 2040*, 2041, 2045, 2051*, 2052*, 2073*, 2092, 2101, 2105, 2110, 2118, 2120,*  *2130, 2156, 2210, 2253, 2254, 2279, 2339, 2347, 2348, 2382, 2384, 2386, 2393, 2397*,*  *2404*, 2410, 2421, 2580, 2650, 2651, 2656, 2657, 2670, 2730, 2751, 2801, 3400.*
 
-*Der Zuschlag nach Nr. 443 ist je Behandlungstag nur einmal berechnungsfähig. Der*  *Zuschlag nach Nr. 443 ist neben den Zuschlägen nach den Nummern 442, 442a, 444*  *und/oder 445 nicht berechnungsfähig.*
-
-*445 Zuschlag bei ambulanter Durchführung von operativen Leistungen nach den Gebühren* *Nrn. 1048, 1056, 1126, 1137, 1145, 1159, 1160, 1285, 1346, 1349, 1350, 1351, 1352, 1354,*  *1361, 1367, 1374, 1375, 1382, 1383, 1447, 1448, 1471, 1595, 1611, 1613, 1614, 1625,*  *1626, 1637, 1638, 1766, 1768, 1769, 1800, 1827, 1851, 2043, 2044, 2067, 2070, 2082,*  *2083, 2089, 2112, 2117, 2119, 2121, 2135, 2260, 2263, 2268, 2269, 2281, 2282, 2354,*  *2356, 2385, 2390, 2394, 2419, 2570, 2584, 2586, 2587, 2588, 2589, 2682, 2687, 2695,*  *2699, 2701, 2823, 2882, 2883, 2895, 2896, 2897, 3095, 3097, 3284, 3285, 3410, 3420,*  *3430, 3440.*
-
-*Der Zuschlag nach Nr. 445 ist je Behandlungstag nur einmal berechnungsfähig. Der*  *Zuschlag nach Nr. 445 ist neben den Zuschlägen nach den Nummern 442, 442a bis 444*  *nicht berechnungsfähig.*
+*Der Zuschlag nach Nr. 443 ist je Behandlungstag nur einmal berechnungsfähig. Der*  *Zuschlag nach Nr. 443 ist neben den Zuschlägen nach den Nummern 442, 442a, 444*  *und/oder 445 nicht berechnungsfähig.*   *445 Zuschlag bei ambulanter Durchführung von operativen Leistungen nach den Gebühren* *Nrn. 1048, 1056, 1126, 1137, 1145, 1159, 1160, 1285, 1346, 1349, 1350, 1351, 1352, 1354,*  *1361, 1367, 1374, 1375, 1382, 1383, 1447, 1448, 1471, 1595, 1611, 1613, 1614, 1625,*  *1626, 1637, 1638, 1766, 1768, 1769, 1800, 1827, 1851, 2043, 2044, 2067, 2070, 2082,*  *2083, 2089, 2112, 2117, 2119, 2121, 2135, 2260, 2263, 2268, 2269, 2281, 2282, 2354,*  *2356, 2385, 2390, 2394, 2419, 2570, 2584, 2586, 2587, 2588, 2589, 2682, 2687, 2695,*  *2699, 2701, 2823, 2882, 2883, 2895, 2896, 2897, 3095, 3097, 3284, 3285, 3410, 3420,*  *3430, 3440.*  *Der Zuschlag nach Nr. 445 ist je Behandlungstag nur einmal berechnungsfähig. Der*  *Zuschlag nach Nr. 445 ist neben den Zuschlägen nach den Nummern 442, 442a bis 444*  *nicht berechnungsfähig.*
 
 - und Anästhesieleistungen werden die
 
 *oder Stationsaufzeichnungen,*
 
-Nummer  - *nicht besetzt*
+- *nicht besetzt*
 
+Nummer
 
 ---
 
@@ -806,9 +816,7 @@ Nummer*auch beiderseits zuzüglich Porto*
 
 **In Abschnitt K. Urologie**
 
-*Nummer*
-
-*1774*
+*Nummer*  *1774*
 
 *Digitaluntersuchung des Mastdarms und/oder der Prostata*
 
@@ -818,7 +826,7 @@ Nummer*auch beiderseits zuzüglich Porto*
 |---|---|---|---|---|---|
 | *300* |  |  |  |  |  |
 
-*Allgemeine HB Besondere HB*
+*Allgemeine HB* *Besondere HB*
 
 *Punktion eines Gelenks*
 
@@ -850,10 +858,11 @@ Nummer*auch beiderseits zuzüglich Porto*
 
 *Beobachtung und Betreuung eines Kranken bis zu zwei Stunden, während der Aufwach* *und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach ambulanten operativen*  *Leistungen bei Durchführung unter ambulanten Anästhesien. Die Leistung nach Nummer*  *448 ist je Behandlungstag nur einmal berechnungsfähig.*
 
-*Besondere Kosten Allg. Kosten Sachkosten*
+*Besondere Kosten* *Allg. Kosten* *Sachkosten*
 
-Nummerund Anästhesieleistungen werden die
+und Anästhesieleistungen werden die
 
+Nummer
 
 ---
 
@@ -941,8 +950,9 @@ Nummer Nummer
 
 *gegebenenfalls*
 
-Nummer*einschließlich Ausstellung*
+*einschließlich Ausstellung*
 
+Nummer
 
 ---
 
@@ -1099,24 +1109,17 @@ Nummer*einschließlich Ausstellung*
 - *aller intra und postoperativen Untersuchungen am OP-Tag*
 - *Bewegungsübungen, Aufklärungen und Beratungen am OP-Tag*  *sowie des Operationsberichtes und der Bild-/Videodokumentation*
 
-
 ---
 
 *Die Nr. 3400 kann nur für eine ausschließlich diagnostische Maßnahme oder im*  *Zusammenhang mit einer offenen Operation abgerechnet werden. Eine Abrechnung neben*  *anderen Leistungen des Abschnitts L. XVII. – Arthroskopie ist nicht möglich.*
 
-*Neben der Leistung nach Nr. 3400 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*
-
-*Daneben kann der Zuschlag nach Nr. 443 sowie 3401 abgerechnet werden.*
-
-*Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
+*Neben der Leistung nach Nr. 3400 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*  *Daneben kann der Zuschlag nach Nr. 443 sowie 3401 abgerechnet werden.*   *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
 | *3401* |  | *35,00* |  |  |  |
 
-*Zuschlag zur Nr. 3400 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
-
-*Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
+*Zuschlag zur Nr. 3400 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*  *Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
 
 *Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden. OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie*  *können daneben nicht abgerechnet werden.*
 
@@ -1143,9 +1146,7 @@ Nummer*einschließlich Ausstellung*
 - *Bewegungsübungen, Aufklärungen und Beratungen am OP-Tag*
 - *sowie des Operationsberichtes und der Bild-/Videodokumentation*
 
-*Neben der Leistung nach Nr. 3410 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*
-
-*Daneben kann der Zuschlag nach Nr. 445 sowie 3411 abgerechnet werden.*
+*Neben der Leistung nach Nr. 3410 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*  *Daneben kann der Zuschlag nach Nr. 445 sowie 3411 abgerechnet werden.*
 
 - *Castverbänden,*
 
@@ -1158,21 +1159,13 @@ Nummer*einschließlich Ausstellung*
 |---|---|---|---|---|---|
 | *3411* |  | *50,00* |  |  |  |
 
-*Zuschlag zur Nr. 3410 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
-
-*Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
-
-*Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden.*
-
-*OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*
-
-*Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
+*Zuschlag zur Nr. 3410 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*   *Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*  *Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden.*   *OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*  *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
 | *3420* |  | *490,38* |  |  |  |
 
-*Arthroskopisch rekonstruktive, erhaltende Operation an einem Gelenk*  *einschließlich*
+*Arthroskopisch rekonstruktive, erhaltende Operation an einem Gelenk*   *einschließlich*
 
 - *aller konsiliarischen Erörterungen der an der OP-Beteiligten,*
 - *dem Team-Time-Out,*
@@ -1190,15 +1183,9 @@ Nummer*einschließlich Ausstellung*
 - *Bewegungsübungen, Aufklärungen und Beratungen am OP-Tag*
 - *sowie des Operationsberichtes und der Bild-/Videodokumentation*
 
-*Band, Sehnen, Labrum, Diskus, und Kapselrekonstruktionen (Nähte) sind mit dieser*  *Leistung nicht abzurechnen.*
+*Band, Sehnen, Labrum, Diskus, und Kapselrekonstruktionen (Nähte) sind mit dieser*  *Leistung nicht abzurechnen.*  *Neben der Leistung nach Nr. 3420 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*
 
-*Neben der Leistung nach Nr. 3420 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*
-
-*Leistungsbestandteil.*
-
-*Daneben kann der Zuschlag nach Nr. 445 sowie 3421 abgerechnet werden.*
-
-*Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
+*Leistungsbestandteil.*  *Daneben kann der Zuschlag nach Nr. 445 sowie 3421 abgerechnet werden.*  *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
 - *Castverbänden,*
 
@@ -1209,15 +1196,9 @@ Nummer*einschließlich Ausstellung*
 |---|---|---|---|---|---|
 | *3421* |  | *150,00* |  |  |  |
 
-*Zuschlag zur Nr. 3420 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
+*Zuschlag zur Nr. 3420 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*  *Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
 
-*Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
-
-*Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden.*
-
-*OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*
-
-*Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
+*Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden.*   *OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*  *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -1251,12 +1232,9 @@ Nummer*einschließlich Ausstellung*
 - *sowie des Operationsberichtes und der Bild-/Videodokumentation*
 - *Castverbänden,*
 
-
 ---
 
-*Neben der Leistung nach Nr. 3430 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*
-
-*Daneben kann der Zuschlag nach Nr. 445 sowie 3431 abgerechnet werden.*
+*Neben der Leistung nach Nr. 3430 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*  *Daneben kann der Zuschlag nach Nr. 445 sowie 3431 abgerechnet werden.*
 
 *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
@@ -1264,13 +1242,9 @@ Nummer*einschließlich Ausstellung*
 |---|---|---|---|---|---|
 | *3431* |  | *200,00* |  |  |  |
 
-*Zuschlag zur Nr. 3430 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*
+*Zuschlag zur Nr. 3430 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Gebrauch.*  *Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
 
-*Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
-
-*Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden.*
-
-*OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*
+*Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden.*   *OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*
 
 *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
@@ -1278,9 +1252,7 @@ Nummer*einschließlich Ausstellung*
 |---|---|---|---|---|---|
 | *3432* |  | *144,01* |  |  |  |
 
-*Zuschlag zu der Nr. 3430 für die Entnahme körpereigener(n) Sehne(n) für Bandoperationen*  *an einem Gelenk einschließlich aller Maßnahmen der Vorbereitung und Versorgung der*  *Entnahmestelle.*
-
-*Unabhängig der Anzahl und des Umfangs der Aufbereitung des entnommenen Materials*  *kann die Leistung bei der Entnahme an einem Bein nur einmal abgerechnet werden. Erfolgt*  *die Entnahme an beiden Beinen, weil an einem Bein nicht ausreichend Material vorhanden*  *ist, kann die Leistung ein zweites Mal abgerechnet werden.*
+*Zuschlag zu der Nr. 3430 für die Entnahme körpereigener(n) Sehne(n) für Bandoperationen*  *an einem Gelenk einschließlich aller Maßnahmen der Vorbereitung und Versorgung der*  *Entnahmestelle.*    *Unabhängig der Anzahl und des Umfangs der Aufbereitung des entnommenen Materials*  *kann die Leistung bei der Entnahme an einem Bein nur einmal abgerechnet werden. Erfolgt*  *die Entnahme an beiden Beinen, weil an einem Bein nicht ausreichend Material vorhanden*  *ist, kann die Leistung ein zweites Mal abgerechnet werden.*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -1309,9 +1281,7 @@ Nummer*einschließlich Ausstellung*
 |---|---|---|---|---|---|
 | *3440* |  | *522,71* |  |  |  |
 
-*Vorbereitende arthroskopische Operation für eine zukünftig geplante rekonstruktive*  *Arthroskopie an einem Gelenk*
-
-*einschließlich*
+*Vorbereitende arthroskopische Operation für eine zukünftig geplante rekonstruktive*  *Arthroskopie an einem Gelenk*  *einschließlich*
 
 - *aller konsiliarischen Erörterungen der an der OP-Beteiligten,*
 - *dem Team-Time-Out,*
@@ -1329,19 +1299,13 @@ Nummer*einschließlich Ausstellung*
 - *Bewegungsübungen, Aufklärungen und Beratungen am OP-Tag*
 - *sowie des Operationsberichtes und der Bild-/Videodokumentation*
 
-*Neben der Leistung nach Nr. 3440 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*
-
-*Daneben kann der Zuschlag nach Nr. 445 sowie 3441 abgerechnet werden.*
-
-*Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
+*Neben der Leistung nach Nr. 3440 sind die in der Leistungsbeschreibung aufgeführten*  *Leistungen (einschließlich) im Zusammenhang mit derselben Operation am Behandlungstag*  *nicht gesondert berechnungsfähig, auch nicht postoperativ am OP-Tag, sondern fakultativer*  *Leistungsbestandteil.*  *Daneben kann der Zuschlag nach Nr. 445 sowie 3441 abgerechnet werden.*  *Daneben nicht abrechenbar: Nrn. 1, 2, 60, 200, 203a, 204, 203B, 209, 255, 297, 298, 300* *302, 490, 491, 510, 530, 740, 2015, 2032, 2093, 5295*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
 | *3441* |  | *150,00* |  |  |  |
 
-*Zuschlag zur Nr. 3440 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Bedarf.*
-
-*Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
+*Zuschlag zur Nr. 3440 für im Rahmen der ambulanten arthroskopischen Leistung vom*  *Operateur verwendeten Verbrauchsmaterialen für den einmaligen Bedarf.*  *Der Zuschlag ist neben den Besonderen Kosten der jeweiligen Leistung abzurechnen.*  *Narkose und Anästhesiematerialien sind nicht Bestandteil des Zuschlags.*
 
 *Die unter Teil B. der Allgemeinen Bestimmungen aufgeführten Geräte und Materialien sind*  *nicht Bestandteil des Zuschlags und können wie dort angegeben gesondert berechnet*  *werden.*
 
@@ -1350,9 +1314,7 @@ Nummer*einschließlich Ausstellung*
 
 ---
 
-*OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*
-
-*Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
+*OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*  *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|

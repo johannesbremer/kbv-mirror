@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_SIEX_SPRECHSTUNDE_VDGA]
 
+Seite 1 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -36,7 +38,10 @@ DOKUMENTENHISTORIE
 | 1.10 | 01.03.2024 | KBV | Notizen zur Sprechstunde am 9. |  | 15 |
 | 1.09 | 21.02.2024 | KBV | Notizen zur Sprechstunde am |  | 20 |
 
-25. Februar 2025 1. Oktober 2024 3. September 2024 23. Juli 2024 25. Juni 2024 11. Juni 2024 28. Mai 2024 14. Mai 2024 30. April 2024 19. März 2024 April 2024 ergänzt 19. März 2024 ergänzt März 2024 ergänzt 20. Februar 2024 Januar 2024 ergänzt 20. Februar 2024 ergänzt
+Seite 2 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
+
+25. Februar 2025 1. Oktober 2024 3. September 2024 23. Juli 2024 25. Juni 2024 11. Juni 2024 28. Mai 2024 14. Mai 2024 30. April 2024 19. März 2024 April 2024 ergänzt 19. März 2024 ergänzt März 2024 ergänzt 20. Februar 2024 Januar 2024 ergänzt 20. Februar 2024 ergänzt 
+
 
 ---
 
@@ -51,6 +56,8 @@ DOKUMENTENHISTORIE
 | 1.02 | 16.10.2023 | KBV | Notizen zur Sprechstunde am |  | 9 |
 | 1.01 | 08.09.2023 | KBV | Notizen zur Sprechstunde am 5. |  | 8 |
 | 1.00 | 25.08.2023 | KBV | Erstellung des Dokuments |  | alle |
+
+Seite 3 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 13. Februar 2024 ergänzt 23. Januar 2024 ergänzt Januar 2024 ergänzt 19. Dezember 2023 ergänzt 7., 14. Und 28. November 2023 ergänzt 17. Oktober 2023 ergänzt Termin ergänzt 19. September 2023 ergänzt September 2023 ergänzt 
 
@@ -82,7 +89,7 @@ DOKUMENTENHISTORIE
 | **21** | **SPRECHSTUNDE** | **25. JUNI 2024** | **29** |
 | Seite | 4 von 32 / KBV | / Sprechstunde VDGA / 5. Mä rz 2 025 |  |
 
-NÄCHSTER TERMIN SPRECHSTUNDE 22. AUGUST 2023 SPRECHSTUNDE 5. SEPTEMBER 2023 SPRECHSTUNDE 19. SEPTEMBER 2023 SPRECHSTUNDE 17. OKTOBER 2023 SPRECHSTUNDE 7. NOVEMBER 2023 SPRECHSTUNDE 14. NOVEMBER 2023 SPRECHSTUNDE 28. NOVEMBER 2023 SPRECHSTUNDE 19. DEZEMBER 2023 SPRECHSTUNDE 9. JANUAR 2024 SPRECHSTUNDE 23. JANUAR 2024 SPRECHSTUNDE 13. FEBRUAR 2024 SPRECHSTUNDE 20. FEBRUAR 2024 SPRECHSTUNDE 5. MÄRZ 2024 SPRECHSTUNDE 19. MÄRZ 2024 SPRECHSTUNDE 2. APRIL 2024 SPRECHSTUNDE 30. APRIL 2024 SPRECHSTUNDE 14. MAI 2024 SPRECHSTUNDE 28. MAI 2024 SPRECHSTUNDE 11. JUNI 2024 SPRECHSTUNDE 25. JUNI 2024
+NÄCHSTER TERMIN SPRECHSTUNDE 22. AUGUST 2023 SPRECHSTUNDE 5. SEPTEMBER 2023 SPRECHSTUNDE 19. SEPTEMBER 2023 SPRECHSTUNDE 17. OKTOBER 2023 SPRECHSTUNDE 7. NOVEMBER 2023 SPRECHSTUNDE 14. NOVEMBER 2023 SPRECHSTUNDE 28. NOVEMBER 2023 SPRECHSTUNDE 19. DEZEMBER 2023 SPRECHSTUNDE 9. JANUAR 2024 SPRECHSTUNDE 23. JANUAR 2024 SPRECHSTUNDE 13. FEBRUAR 2024 SPRECHSTUNDE 20. FEBRUAR 2024 SPRECHSTUNDE 5. MÄRZ 2024 SPRECHSTUNDE 19. MÄRZ 2024 SPRECHSTUNDE 2. APRIL 2024 SPRECHSTUNDE 30. APRIL 2024 SPRECHSTUNDE 14. MAI 2024 SPRECHSTUNDE 28. MAI 2024 SPRECHSTUNDE 11. JUNI 2024 SPRECHSTUNDE 25. JUNI 2024 Seite 4 von 32  /  KBV  /  Sprechstunde VDGA  /  5. März 2025
 
 ---
 
@@ -93,7 +100,7 @@ NÄCHSTER TERMIN SPRECHSTUNDE 22. AUGUST 2023 SPRECHSTUNDE 5. SEPTEMBER 2023 SPR
 | **25** | **SPRECHSTUNDE** | **25.** | **FEBRUAR 2025** | **31** |
 | Seite | 5 von 32 / KBV | / Sprechstunde | VDGA / 5. Mä rz 2 025 |  |
 
-SPRECHSTUNDE 23. JULI 2024 SPRECHSTUNDE 3. SEPTEMBER 2024 SPRECHSTUNDE 1. OKTOBER 2024 SPRECHSTUNDE 25. FEBRUAR 2025 
+SPRECHSTUNDE 23. JULI 2024 SPRECHSTUNDE 3. SEPTEMBER 2024 SPRECHSTUNDE 1. OKTOBER 2024 SPRECHSTUNDE 25. FEBRUAR 2025 Seite 5 von 32  /  KBV  /  Sprechstunde VDGA  /  5. März 2025
 
 
 ---
@@ -150,6 +157,7 @@ Wir empfehlen, dass die PVS-Hersteller jeweils die Zertifizierung für ihre PVS 
 
 **Wie werden Sie es mit dem Systemdatum für die Zertifizierung handhaben? Es ist immer sehr mühselig**  **das Datum um Jahre zurückzusetzen.**
 
+Seite 6 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -205,6 +213,7 @@ Ja, es müssen die tatsächlichen Werte aus dem DiGA-Verzeichnis verwendet werde
 
 **Gibt es Regeln zur Abkürzung der DiGA-Namen?**
 
+Seite 7 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -258,6 +267,7 @@ Es wurde von mehreren Teilnehmern übereinstimmend der Wunsch geäußert, dass d
 
 Einheitliche zentrale Vorgaben für die Datenhaltung existieren nicht, da es keine übergreifenden  Anforderungen zu den in einem PVS, KIS oder LIS verwendeten Datenmodellen gibt. Die notwendige  Granularität der Datenmodelle muss aus der Summe aller zu unterstützenden Datenschnittstellen  abgeleitet werden. Daran wird sich absehbar nichts ändern, da diese Schnittstellen von unterschiedlichen  Institutionen verantwortet werden, die unabhängig voneinander Festlegungen spezifizieren können.
 
+Seite 8 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -303,6 +313,7 @@ Die Funktion ist für den Anwender gedacht, damit dieser die Statistik in Tabell
 
 Für numerische Informationen ist eine aufsteigende Sortierung anhand des numerischen Wertes gemeint.
 
+Seite 9 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -354,6 +365,7 @@ Ja, die Umsetzung einer Filtersuche bei den oben genannten Akzeptanzkriterien is
 
 Ja, dieses Akzeptanzkriterium, welches beinhaltet, dass die Sortierung der angezeigten Auswahllisten  anhand der Daten der Merkmale nach P4-310 Akzeptanzkriterium 1 nachträglich anzupassen ist, ist  optional („kann“)
 
+Seite 10 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -411,6 +423,8 @@ Ja, beim GKV-SV unter:
 [](https://www.gkvspitzenverband.de/media/dokumente/krankenversicherung_1/telematik/digitales/2022_DiGA_Bericht_BMG.pdf)
 ```
 
+Seite 11 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
+
 ---
 
 # 7 SPRECHSTUNDE 14. NOVEMBER 2023
@@ -465,6 +479,7 @@ Es werden nur die durch den Anwender in der Freitextverordnung eingetragenen Inf
 
 Dieser Vorschlag wird geprüft.
 
+Seite 12 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -500,6 +515,7 @@ Die Ids verändern sich nicht bei neuen Versionen des Fragenkatalogs. Es können
 
 Die Werte des Feldes „text“ sind nicht fix. Die Werte können sich ändern, wenn der Fragenkatalog  aktualisiert und BfArM-seitig Änderungen an den Texten vorgenommen werden (Name und  Erläuterungstext der Assessments, Fragenblöcke und Fragen). Das text-Feld sollte daher nicht zur Selektion  verwendet werden.
 
+Seite 13 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -551,6 +567,7 @@ Ob eine bestimmte Referenzdatenbank auch alle aktuellen Zusatzdaten zu DiGA enth
 
 Nein. Es handelt sich um zwei verschiedene Zertifizierungsverfahren, die sich auch nicht gegenseitig  bedingen.
 
+Seite 14 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -602,6 +619,7 @@ Nein, die Geschlechtskennzeichen müssen nicht bereits bei der Suche mit einbezo
 
 Bisher liegt der KBV noch keine Spezifikation der gematik vor. Das grundlegende Prinzip mit Dokumenten-ID und Access-Code bleibt voraussichtlich gleich, aus Sicht der gematik handelt es sich allerdings um einen  anderen Workflow.
 
+Seite 15 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -647,6 +665,7 @@ Die Online-Bereitstellung von Arzneimitteldatenbanken liegt außerhalb des Veran
 
 **Warum wurden Vorgaben an eine Statistikfunktion gegeben? (Die Spezifikationen sind so detailliert, dass**  **kaum zusätzliche Komfortfunktionen realisiert werden können, damit sich Produkte von denen eines**  **Wettbewerbers unterscheiden lassen.)**
 
+Seite 16 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -696,6 +715,7 @@ Welche vertraglichen Regelungen bei Verordnung von digitalen Gesundheitsanwendun
 
 Grundsätzlich ist es vorstellbar, dass für Privatversicherte auch Anwendung außerhalb des DiGA-Verzeichnisses des BfArMs Verordnung- bzw. erstattungsfähig sind. Die konkreten Regelungen hierzu  treffen die einzelnen Versicherungen oder der PKV-Verband.
 
+Seite 17 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -744,6 +764,8 @@ Ja, alle Fragen, die dort aufgelistet sind, sind dem Anwender anzuzeigen.
 ### Antwort der KBV:
 
 Ja, diese sind bereits als verbindlich zu betrachten, da keine Gegenstimmen von den Vorständen erwartet  werden.
+
+Seite 18 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -801,6 +823,7 @@ Sowohl der Status der App als auch die Gültigkeit der Verordnungseinheit sind f
 
 **Kann diese Runde auch für die elektronische Verordnung von DiGA genutzt werden?**
 
+Seite 19 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -850,6 +873,7 @@ Falls das eingesetzte Verordnungsmodul alle Anforderungen ohne Mithilfe des PVS 
 
 **Muss ein System mit AVM-Zertifizierug die VDGA umsetzen?**
 
+Seite 20 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -897,6 +921,7 @@ Da keine Vorgaben existieren, eine modulare Trennung zwischen PVS und Verordnung
 
 **Wie sieht es zeitlich aus, wenn die Einreichung der Prüfungsunterlagen nicht bis zum 1. April 2024**  **erfolgt?**
 
+Seite 21 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -942,6 +967,7 @@ Die im Glossar des Anforderungskatalogs in Verbindung mit dem FHIR-Mapping im FA
 
 Bei dieser Änderung handelt es sich um eine zukünftige Änderung, die dazu dienen soll, Missverständnisse  hinsichtlich angegebener Kontraindikationen vorzubeugen, indem diese sowie die Ausschlusskriterien  klarer differenziert werden. Für die Umsetzung dieser Änderung müssen noch Informationen von den DiGA-Herstellern eingeholt und bewertet werden. Dieser Prozess wird voraussichtlich noch mehrere Monate in  Anspruch nehmen. In der nächsten Woche wird eine Ankündigung zu dieser Änderung versendet, in der  weitere Informationen gegeben werden.
 
+Seite 22 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -989,6 +1015,7 @@ Die KBV wird bei der Weiterentwicklung des Anforderungskatalogs die sich aus dem
 
 Ja, da der Preis einer mittels Freitexten verordneten Verordnungseinheit nicht erfasst werden muss, kann  kein Preis in der Verordnungsstatistik angezeigt werden.
 
+Seite 23 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1042,6 +1069,7 @@ Die Daten der ersten Ebene sind zwingend anzuzeigen, sofern es sich nicht um ein
 
 **Dürfen DiGAs und Medikamente in einer gemeinsamen Verordnungshistorie als grobe Übersicht**  **angezeigt werden, ohne alle DiGA-Details einzublenden, wenn Zugriff auf die detaillierte**  **Verordnungshistorie jederzeit möglich ist.**
 
+Seite 24 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1087,6 +1115,7 @@ Falls die angefragte Möglichkeit momentan nicht angeboten wird oder keine Infor
 
 **Die Antwort auf die Frage zur Preissortierung bzgl. dem Sachverhalt, dass nur ein Suchfeld zur Verfügung**  **steht, steht noch aus.**
 
+Seite 25 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1132,6 +1161,7 @@ Im Rahmen der Zertifizierung sind die Prüfstammdateien gemäß Kapitel 1.6.1 zu
 
 **Werden zertifizierte Hersteller über Anpassungen der Anforderungen oder des FAQ-Dokumentes direkt**  **per Mail informiert? Oder ist ein aktives Verfolgen des Newsletters oder FAQ- und Sprechstunden-** **Dokuments notwendig?**
 
+Seite 26 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1187,6 +1217,7 @@ Laut dem momentanen Stand ist der 01.07.2024 der Stichtag.
 
 Falls keine Verschiebung bis zum 01.07.2024 erfolgt, dürfen DiGA von Praxen ab diesem Datum mit nicht  zertifizierter Software nicht verordnet werden.
 
+Seite 27 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1232,6 +1263,7 @@ Aus diesem Grund können Softwarehersteller entscheiden, ob Sie aus den Praxen h
 
 **Werden Verordnungszahlen von DiGA irgendwo zentral gespeichert bzw. gibt es eine zentrale statische**  **Auswertung?**
 
+Seite 28 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1277,6 +1309,7 @@ Die gematik hat eine erste Spezifikation in Form eines Feature-Dokuments und ein
 
 In Abstimmung mit dem GKV-SV wurde festgestellt, dass die Anzeige der „Informationen zu Datenschutz  und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt" gemäß Anforderung  KP4-312 auch durch eine Darstellung der entsprechenden BfArM-Webseite erfolgen kann, solange diese  Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden. Differenzen zwischen den  Daten auf der Webseite und des DiGA-Verzeichnisses werden in der Prüfung toleriert, selbst wenn sie die  laut Prüfpaket in der Anzeige nachzuweisenden Informationen betreffen sollten.
 
+Seite 29 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1328,6 +1361,7 @@ Nein, laut den Bestimmungen des Bundesmantelvertrags (Ärzte) darf ab dem 1. Okt
 
 **Ab welchem Zeitpunkt müssen DiGA elektronisch verordnet werden?**
 
+Seite 30 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1373,6 +1407,7 @@ Die gematik wird speziell für die Verordnung von DiGA ein Bestätigungsverfahre
 
 **Wie erfolgt in Zukunft die Identifikation eines Versicherten eines Sonstigen Kostenträgers, für den eine**  **elektronische Verordnung ausgestellt werden kann?**
 
+Seite 31 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
@@ -1395,3 +1430,5 @@ Nein, in diesem Fall wird ein Zertifikatsentzugsverfahren eingeleitet, in dessen
 ### Antwort der KBV:
 
 Hierzu können wir noch keine verbindliche Auskunft geben.
+
+Seite 32 von 32 / KBV / Sprechstunde VDGA / 5. März 2025

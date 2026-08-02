@@ -1,10 +1,12 @@
 |  | ***IT in der Arztpraxis*****  *FAQ für Softwarehersteller zur *  [  **   Dezernat Digitalisierung und IT        10623 Berlin, Herbert-Lewin-Platz 2            Kassenärztliche Bundesvereinigung    Version  ** |
 |---|---|
 
-Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnung: Öffentlich Status: In Kraft 
+Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2023
 
 
 ---
+
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
 
 ### DOKUMENTENHISTORIE
 
@@ -16,7 +18,9 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnun
 | 1.01 | 29.05.2017 | KBV | Fehlerkorrektur bei typischen |  | **6** |
 | 1.00 | 15.05.2017 | KBV | Initiale Erstellung |  | **alle** |
 
-Übertragungsweg, zur Signatur und der verschlüsselten Bereitstellung der Anforderungen Vorlagen Übertragungswege Zertifizierungsbereichen 
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
+Übertragungsweg, zur Signatur und der verschlüsselten Bereitstellung der Anforderungen Vorlagen Übertragungswege Zertifizierungsbereichen Seite 2 von 12
 
 
 ---
@@ -32,7 +36,7 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnun
 
 **2**  **4**  **5**  **12**
 
-REFERENZIERTE DOKUMENTE 
+REFERENZIERTE DOKUMENTE IT in der Arztpraxis FAQ für Softwarehersteller zur Labordatenkommunikation [KBV_ITA_VGEX_FAQ_LDK * Version 1.04Seite 3 von 12
 
 
 ---
@@ -43,8 +47,16 @@ Die vorliegenden FAQs richten sich an Hersteller von Software, die die  Labordat
 
 Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommunikation  und haben informativen Charakter.
 
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
+
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
+Seite 4 von 12
+
 
 ---
+
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
 
 # 2 FAQs
 
@@ -76,6 +88,8 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 *Systeme, die einen LDT-Auftrag bzw. einen LDT-Befund erstellen und versenden, müssen*  *die Zertifizierungskomponente „LDT-Auftrag*  *aufweisen.*
 
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
 **dem technischen**
 
 **„Labordatenkommunikation“ gibt acht**
@@ -86,8 +100,12 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 *Export“ bzw. „LDT-Befund*  *Export“*
 
+Seite 5 von 12
+
 
 ---
+
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
 
 *Systeme, die einen LDT-Auftrag bzw. einen LDT-Befund empfangen und einlesen, müssen*  *die Zertifizierungskomponente*  *aufweisen.*
 
@@ -116,6 +134,8 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 *Jedes PVS erhält genau*  *Zulassungslisten der KBV wird später dargestellt, welchen Zertifizierungsbereich ein PVS*  *umgesetzt hat. Im Rahmen einer Erweiterungszertifizierung können weitere Bereiche auch*  *unkompliziert nachzertifiziert werden.*
 
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
 *eine Prüfnummer*
 
 *bzw. „LDT-Befund*  *Import“*
@@ -124,7 +144,9 @@ Die FAQ dienen ausschließlich zur Orientierung im Themengebiet Labordatenkommun
 
 *die Vorgaben dazu werden vollständig*
 
-Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT-Befund - Import Digitales Muster 10  Export Digitales Muster 10  Import Digitales Muster 10A  Export Digitales Muster 10A  Import LDT-Auftrag  Export LDT-Auftrag  Import LDT-Befund  Export LDT-Befund - Export Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export Digitales Muster 10  Import Digitales Muster 10A  Import LDT-Auftrag  Export LDT-Befund  Import *für die Komponente LDK. In den*
+*für die Komponente LDK. In den*
+
+Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT-Befund - Import Digitales Muster 10  Export Digitales Muster 10  Import Digitales Muster 10A  Export Digitales Muster 10A  Import LDT-Auftrag  Export LDT-Auftrag  Import LDT-Befund  Export LDT-Befund - Export Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export Digitales Muster 10  Import Digitales Muster 10A  Import LDT-Auftrag  Export LDT-Befund  Import Seite 6 von 12
 
 
 ---
@@ -159,9 +181,16 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Die KBV prüft, ob Blankoformularbedruckung und digitale Muster zukünftig auf denselben*  *Formularen basieren können. Aktuell sind es noch zwei unterschiedliche Vorlagen. Ein*  *ausgedrucktes digitales Muster ist damit kein Ersatz für das entsprechende BFB-Formular*  *und stellt keine abrechnungsbegründende Unterlage dar.*
 
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
+
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
+Seite 7 von 12
+
+
 ---
 
-**Fragestellung: Welche Programmierbibliotheken können für die Verarbeitung digitaler**  **Muster eingesetzt werden?**
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation     **Fragestellung: Welche Programmierbibliotheken können für die Verarbeitung digitaler**  **Muster eingesetzt werden?**
 
 *Antwort der KBV:*
 
@@ -191,11 +220,15 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Ein „Übertragungsweg“ nach Anlage 2b des BMV* *Übertragung von Dateien, insbesondere mit personenbezogenen Daten, von System A zu*  *System B zu stattfindet. Nach deutschem Bundesdatenschutzgesetz (BDSG) hat diese*  *Übertragung hinreichend verschlüsselt zu erfolgen, um diese Daten adäquat zu schützen.*  *Beispielsweise ein von beiden Systemen gemeinsam genutzter Datenträger fällt bereits*  *unter die Definition eines Übertragungsweges.*
 
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
 *gültiges Muster im Sinne einer*  *Barcode zur Überwindung des*
 
 *[KBV_ITA_FMEX_Labor_UW]*  *bestätigt die Anforderungen*   *Es sind alle umgesetzten*
 
 *-Ä ist dann gegeben, wenn eine*
+
+Seite 8 von 12
 
 
 ---
@@ -230,6 +263,13 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Nein, die Abrechnungsdaten enthalten keinen Vermerk, in welcher Art und Weise*  *(konventionell, Blankovordruck oder digital) ein Muster vorlag.*
 
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
+
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
+Seite 9 von 12
+
+
 ---
 
 **Fragestellung: Sind digitale Muster als abrechnungsbegründende Unterlage (analog**  **Papier-Mustern) vorzuhalten?**
@@ -262,6 +302,13 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Der LDT-Befund kann bereits seit dem 04.01.2016 zertifiziert und nach der bestandenen*  *Zertifizierung auch genutzt werden.*
 
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
+
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
+Seite 10 von 12
+
+
 ---
 
 **Sachverhalt: „Für den LDT 3.0 Auftrag gibt es keinen verbindlichen Starttermin, eine**  **Zertifizierung ist jedoch bereits zum jetzigen Zeitpunkt möglich“?**
@@ -282,6 +329,12 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 
 *Die Abrechnung erfolgt mit einem System, welches KVDT zertifiziert ist.*  *Abrechnungsbegründend sind der konventionelle Ausdruck des Auftrages, der Ausdruck des*  *Auftrages mittels BFB-Verfahren oder der digitale Auftrag.*
 
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
+
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
+Seite 11 von 12
+
 
 ---
 
@@ -293,4 +346,8 @@ Digitales Muster 10  Export Digitales Muster 10A  Export LDT-Auftrag  Export LDT
 | [KBV_ITA_FMEX_Labor_UW] | Vorlage „Bestätigung eines Übertragungsweges“ |
 | [KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommu | Anforderungskatalog Labordatenkommunikation |
 
-PDF/A Format nikation]
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
+
+[KBV_ITA_VGEX_FAQ_LDK * Version 1.04
+
+PDF/A Format nikation]Seite 12 von 12

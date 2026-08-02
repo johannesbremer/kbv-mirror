@@ -18,6 +18,8 @@ Hier ist zu kennzeichnen, ob der Auftrag im Rahmen der kurativen Versorgung, der
 
 Hier wird der Laborgemeinschaft durch Ankreuzen des Unfallfeldes mitgeteilt, wenn die Behandlung  aufgrund oder als Folge eines Unfalles erforderlich wird, damit die Krankenkassen ggf. Kosten gegenüber  Dritten geltend machen können.
 
+Seite 1 von 2 / KBV /Elektronische Ausfüllhilfe Muster 10A / Oktober 2020
+
 
 ---
 
@@ -58,3 +60,5 @@ ind.
 lankoformularbedruckung ird
 
 Laserdrucker ein zweidimensionaler  Barcode PDF 417 aufgedruckt. Dieser enthält sämtliche Informationen des Formulars und kann in der  Laborgemeinschaft a ausgewertet werden. utomatisch
+
+Seite 2 von 2 / KBV /Elektronische Ausfüllhilfe Muster 10A / Oktober 2020

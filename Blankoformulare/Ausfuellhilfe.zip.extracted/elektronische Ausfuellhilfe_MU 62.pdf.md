@@ -1,7 +1,13 @@
 **Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungs-** **potenzials gemäß AKI-Richtlinie des G-BA**
 
+**Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials**
+
+1
+
 
 ---
+
+**Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials**
 
 - **(1)** **Maßnahmen zur Prüfung des Potenzials oder der Therapieoptimierung**
 
@@ -33,6 +39,8 @@ Die potenzialerhebende Ärztin oder der potenzialerhebende Arzt kann hier weiter
 
 - **(8)** **Ergebnis der Erhebung festgestellt am**
 
+2
+
 
 ---
 
@@ -42,13 +50,23 @@ Hier ist das Datum der Untersuchung anzugeben. Werden die Untersuchungen an mehr
 
 Hier ist anzugeben, wann die nächste Erhebung terminiert wurde. Dieses Datum berücksichtigt die  verordnende Ärztin oder den verordnenden Arzt bei Ausstellung der Verordnung auf Muster 62B.
 
+**Muster 62A: Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw. Dekanülierungspotenzials**
+
+3
+
 
 ---
 
 #### Muster 62B: Verordnung außerklinischer Intensivpflege
 
+**Muster 62B: Verordnung außerklinischer Intensivpflege**
+
+4
+
 
 ---
+
+**Muster 62B: Verordnung außerklinischer Intensivpflege**
 
 - **1.)** **Verordnungsrelevante Diagnose(n) (ICD-10-Code)**
 
@@ -79,6 +97,8 @@ Ergibt sich die Notwendigkeit der außerklinischen Intensivpflege infolge eines 
 - **7.)** **I. KLINISCHER STATUS**
 
 Hier sind konkrete klinische Parameter und die lebensbedrohlichen Einschränkungen der  Vitalfunktionen zu benennen, welche im Zusammenhang mit der außerklinischen Intensivpflege  stehen. Auch sollen Mitwirkungsmöglichkeiten der oder des Versicherten aufgezeigt werden.
+
+5
 
 
 ---
@@ -111,18 +131,32 @@ Vertragsärztinnen und Vertragsärzte, die nicht auf die die AKI auslösende Erk
 
 - **13.)** **Sonstige Hinweise**
 
+**Muster 62B: Verordnung außerklinischer Intensivpflege**
+
+6
+
 
 ---
 
 Hier ist die Angabe weiterer relevanter Hinweise insbesondere im Hinblick auf die eingeschränkte  Kommunikation, Mitwirkungsfähigkeit oder Nahrungsaufnahme möglich.
+
+**Muster 62B: Verordnung außerklinischer Intensivpflege**
+
+7
 
 
 ---
 
 **Muster 62C: Behandlungsplan**
 
+**Muster 62C: Behandlungsplan**
+
+8
+
 
 ---
+
+**Muster 62C: Behandlungsplan**
 
 - **1.)** **Bedarfsmedikamente für AKI**
 
@@ -143,3 +177,5 @@ Unter „Sonstige eingeleitete Maßnahmen (einschließlich weiterer Maßnahmen d
 - **5.)** **Medizinische Behandlungspflege**
 
 Alle weiteren im zeitlichen Zusammenhang mit der AKI anfallenden erforderlichen Maßnahmen  der medizinischen Behandlungspflege sind Teil der AKI und können nicht separat im Rahmen der  Häuslichen Krankenpflege auf Muster 12 verordnet werden. Die erforderlichen Leistungen sowie  deren Häufigkeit und Dauer sind hier, ggf. unter Nutzung eines Beiblattes, anzugeben.
+
+9

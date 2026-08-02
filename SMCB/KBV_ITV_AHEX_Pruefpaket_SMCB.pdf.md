@@ -48,6 +48,8 @@ INHALT
 
 **8**
 
+Seite 3 von 8 / KBV/ Prüfpaket Sektorzulassung SMC-B / Version: 2.1 / 10. Juni 2026
+
 Prüfunterlagen 
 
 
@@ -74,6 +76,8 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 **HINWEIS**
 
 Nach Eingang des Antrages auf Zertifizierung bei der KBV oder des Prüfprotokolls beim Antragsteller,  müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen. Nach Ablauf dieser Frist, kann die  KBV das Zertifizierungsverfahren einstellen.
+
+Seite 4 von 8 / KBV/ Prüfpaket Sektorzulassung SMC-B / Version: 2.1 / 10. Juni 2026
 
 ---
 
@@ -102,6 +106,8 @@ Alle erforderlichen Unterlagen stehen im Internet zum Download unter [https://up
 In diesem Kapitel werden alle notwendigen Vorgaben definiert, die bei der Erstellung der einzureichenden  Prüfunterlagen einzuhalten sind. Für die Zertifizierung werden als Nachweis die in diesem Abschnitt  beschriebenen Unterlagen über das Zertifizierungsportal erwartet:
 
 Benutzerhandbuch für KVen  Umsetzungsnachweis des Antragportals für Praxen und MVZ (Screenshots)  Kostenaufstellung/Angebot des Anbieters  Bestätigung aus abgeschlossenem gematik-Zulassungsverfahren
+
+Seite 5 von 8 / KBV/ Prüfpaket Sektorzulassung SMC-B / Version: 2.1 / 10. Juni 2026
 
 ---
 

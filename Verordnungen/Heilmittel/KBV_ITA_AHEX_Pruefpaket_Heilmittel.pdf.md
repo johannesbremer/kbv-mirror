@@ -46,7 +46,7 @@ KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 **25**
 
-Seite 2 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 2 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
@@ -86,9 +86,7 @@ Anweisung 8 und 9
 
 Konkretisierung des Prüfpakets
 
-Konkretisierung des Prüfpakets
-
-13. Januar 2023
+Konkretisierung des Prüfpakets 2.4  13. Januar 2023
 
 Solldaten
 
@@ -129,12 +127,12 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
-Seite 4 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 4 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
 
-**ZERTIFIZIERUNGSPORTAL**
+**1.3** **ZERTIFIZIERUNGSPORTAL**
 
 Das Zertifizierungsportal ist über [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/) zu erreichen.
 
@@ -172,7 +170,7 @@ Die dokumentierten Verordnungen und die geforderten Screenshots sind im PDF Form
 
 ________________  1 Nr. des Prüffalls
 
-Seite 5 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 5 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
@@ -205,7 +203,7 @@ ________________  2 Nr. der Anweisung
 
 3 Gängiges Bild bzw. Videoformat
 
-Seite 6 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 6 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
@@ -310,7 +308,7 @@ Althaus
 
 Brigitte
 
-Version:   13. Januar
+Version: 2.4  13. Januar
 
 Prüffälle kann entweder über das Einlesen (mit einer  werden oder die Daten können im
 
@@ -413,7 +411,7 @@ Die Software verwendet im Rahmen des Zertifizierungsverfahren
 
 **KG ZNS**
 
-Seite 8 von 25  KBV  Prüfpaket Heilmittel  Version: 391234511
+Seite 8 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4 391234511
 
 Dr. med. Hans Topp Glücklich 838382202
 
@@ -552,7 +550,7 @@ Verordnungen sollen nur gespeichert und gedruckt werden, wenn diese exakt könne
 
 erstellt werden
 
-Seite 9 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 9 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 01) ist für
 
@@ -611,14 +609,14 @@ Daten
 
 Die Pflichtfunktionen, die insbesondere von den zugeordneten Anweisungen des Prüffalls betroffen sind,  werden mit Nummer und Titel gelistet (z.B.: P3 08 Leitsymptomatik, […]).
 
-Seite 10 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 10 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
 
 2 PRÜFFÄLLE
 
-**MAßNAHMEN**
+**2.1** **MAßNAHMEN**
 
 #### PRÜFFALL 01
 
@@ -670,7 +668,7 @@ Erstellen Sie eine Verordnung mit folgenden Daten der Heilmittel Stammdatei muss
 
 P3 06 ICD 10 Code
 
-Seite 11 von 25  KBV  Prüfpaket Heilmittel  Version:
+Seite 11 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4
 
 (siehe Tabelle dieser Anweisung). Das Heilmittel gemäß  werden. Dokumentieren Sie den vollständigen  durch ein Video. Dokumentieren Sie die  Vorgaben möglich ist.
 
@@ -753,7 +751,7 @@ Erstellen Sie eine Verordnung durch Zugriff auf die zurückliegende folgende Ein
 
 P3 24 Standardisierte Heilmittelkombination
 
-Seite 12 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 12 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 Verordnung (Anweisung 1). Ändern Sie
 
@@ -818,7 +816,7 @@ Erstellen Sie eine weitere Verordnung durch Zugriff auf die zurückliegende Vero
 
 P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge  P3 24 Standardisierte Heilmittelkombination
 
-Seite 13 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023 3). Ändern Sie
+Seite 13 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023 3). Ändern Sie
 
 durch ein
 
@@ -899,7 +897,7 @@ a) b)
 
 **Therapiefrequenz**
 
-Seite 14 von 25  KBV  Prüfpaket Heilmittel  Version:   13.
+Seite 14 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13.
 
 Schädigung/Störung der Bewegungs Sinnesfunktion;  Schädigung/Störung der Muskelfunktion
 
@@ -990,7 +988,7 @@ P3 06 ICD 10 Code  P3 11 Höchstmenge je Verordnung, orientierende Behandlungsme
 
 Erstellen Sie eine Verordnung mit folgenden Daten und speichern und drucken sie die Verordnung, wenn  möglich. Dokumentieren Sie den Erfassungsdialog zur Auswahl des Heilmittels einschließlich möglicher
 
-Seite 15 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 15 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
@@ -1049,7 +1047,7 @@ Hinweissteuerung durch Screenshots. Dokumentieren den Vorgaben möglich ist.
 
 P3 08 Leitsymptomatik  P3 11 Höchstmenge je Verordnung, orientierende P3 13 Therapiefrequenz  P3 21 Verordnung von „vorrangigen Heilmitteln“
 
-Seite 16 von 25  KBV  Prüfpaket Heilmittel  Version:
+Seite 16 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4
 
 Sie die ausgedruckte Verordnung, sofern dies nach
 
@@ -1088,7 +1086,7 @@ Behandlungsmenge
 
 ---
 
-**MAßNAHMEN** **DER** **STIMM** **SPRECH** **SPRACH**
+**2.3** **MAßNAHMEN** **DER** **STIMM** **SPRECH** **SPRACH**
 
 #### PRÜFFALL 03
 
@@ -1138,7 +1136,7 @@ Erstellen Sie eine Verordnung mit folgenden Daten gemäß der ICD Stammdatei wir
 
 P3 05 Grundsatz der Vollständigkeit  P3 11 Höchstmenge je Verordnung, orientierende P3 12 Behandlungsrelevante Diagnose(n)  P3 13 Therapiefrequenz  P3 21 Verordnung von „vorrangigen Heilmitteln“
 
-Seite 17 von 25  KBV  Prüfpaket Heilmittel  Version:
+Seite 17 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4
 
 **UND** **SCHLUCKTHERAPIE**
 
@@ -1243,7 +1241,7 @@ Genehmigung des langfristigen Heilmittelbedarfs  aufgrund eines besonderen Veror
 
 Erstellen Sie eine Verordnung mit folgenden Daten. Vor Auswahl der Diagnosegruppe ist der  Heilmittelbereich und die Diagnose (ICD 10 Code) zu erfassen, sofern dies möglich ist Wenn der  Heilmittelbereich nicht separat ausgewählt werden kann, dann ist dies im Rahmen der Dokumentation des  Prüffalls mitzuteilen. Dokumentieren Sie anschließend den vollständigen Erfassungsdialog der  Diagnosegruppe einschließlich möglicher Hinweissteuerung per Screenshots. Dokumentieren Sie die  ausgedruckte Verordnung, sofern dies nach den Vorgaben möglich ist.
 
-Seite 18 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 18 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
@@ -1304,7 +1302,7 @@ P3 08 Leitsymptomatik  P3 18 Kriterien für Verordnungen aufgrund Heilmittelbeda
 
 Erstellen Sie eine Verordnung mit folgenden Daten Erfassen Sie ein Akutereignis zu dieser Erkrankung, Verordnungsdatum liegt.
 
-Seite 19 von 25  KBV  Prüfpaket Heilmittel  Version:
+Seite 19 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4
 
 **DATEN**
 
@@ -1413,7 +1411,7 @@ EX
 
 P3 18 Kriterien für Verordnungen aufgrund  Heilmittelbedarfs
 
-Seite 20 von 25  KBV  Prüfpaket Heilmittel  Version:   13.
+Seite 20 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13.
 
 nein
 
@@ -1502,7 +1500,7 @@ Dokumentieren Sie den vollständigen Erfassungsdialog Video. Dokumentieren Sie d
 
 P3 11 Höchstmenge je Verordnung, orientierende P3 16 Blankoverordnung
 
-Seite 21 von 25  KBV  Prüfpaket Heilmittel  Version:
+Seite 21 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4
 
 (siehe Tabelle dieser Anweisung). Die Verordnung soll
 
@@ -1609,7 +1607,7 @@ P3 11 Höchstmenge je Verordnung, orientierende Behandlungsmenge
 
 Erstellen Sie **eine** weitere Verordnung durch Zugriff auf die zurückliegende Verordnung  Ändern Sie folgende Einträge (siehe Tabelle dieser Anweisung). Diese Verordnung soll nicht Blankoverordnung ausgestellt werden. Dokumentieren Sie mögliche Hinweise im Rahmen Behandlungseinheiten durch Screenshots. Dokumentieren Sie die ausgedruckte Verordnung, nach den Vorgaben möglich ist.
 
-Seite 22 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023 (Anweisung 1).  werden.
+Seite 22 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023 (Anweisung 1).  werden.
 
 durch  möglich ist.
 
@@ -1694,7 +1692,7 @@ Dokumentieren Sie die ausgedruckte Verordnung,
 
 **Behandlungseinheiten**  **Heilmittel**
 
-Seite 23 von 25  KBV  Prüfpaket Heilmittel  Version:   13.
+Seite 23 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13.
 
 **DATEN**
 
@@ -1785,7 +1783,7 @@ Filtern Sie die Übersicht nach Anweisung 1, unter Anwendung der Filterkriterien
 
 P3 34 Verordnungsstatistik  P3 18 Kriterien für Verordnungen aufgrund eines besonderen Verordnungsbedarfs/eines langfristigen  Heilmittelbedarfs
 
-Seite 24 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 24 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023
 
 
 ---
@@ -1846,4 +1844,4 @@ IT in der Arztpraxis  Tel.: 030 4005 2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert Lewin Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
-Seite 25 von 25  KBV  Prüfpaket Heilmittel  Version:   13. Januar 2023
+Seite 25 von 25  KBV  Prüfpaket Heilmittel  Version: 2.4  13. Januar 2023

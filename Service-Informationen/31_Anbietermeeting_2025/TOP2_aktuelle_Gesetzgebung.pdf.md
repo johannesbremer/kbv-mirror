@@ -15,10 +15,22 @@
 
 # - AKTUELLE BUNDESGESETZGEBUNG UND AUSBLICK
 
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 2
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
 
 ---
 
 - **KOALITIONSVERTRAG 21. WP**
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 3
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
@@ -39,14 +51,28 @@
 
 **04.05.2025**
 
-## Unterzeichnung Koalitionsvertrag 06.05.2025
+## Unterzeichnung Koalitionsvertrag
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025 06.05.2025
 
 ## Kanzlerwahl, Vereidigung Bundeskabinett
+
+SEITE 4
 
 
 ---
 
 - **KOALITIONSVERTRAG**
+
+# Abschnitt „Gesundheit und Pflege“ auf 9 Seiten Ungeklärt: Finanzierungsfragen  (verschoben in eine Kommission) Ergebnispapier der Arbeitsgruppe aus März 2025  war mutiger und verbindlicher.
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 5
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
@@ -54,6 +80,20 @@
 ## Kapitel „Gesundheit und Pflege“ des Koalitionsvertrages
 
 - **KOALITIONSVERTRAG**
+
+## Was wollen CDU/CSU und SPD? (S. 105)
+
+„Wir wollen eine gute, bedarfsgerechte und bezahlbare medizinische und pflegerische Versorgung  für die Menschen im Land sichern. Dafür wagen wir tiefgreifende strukturelle Reformen,  stabilisieren die Beiträge, sorgen für einen **schnellen Zugang zu Terminen** und verbessern die
+
+## Arbeitsbedingungen für die Beschäftigten im Gesundheitswesen.“
+
+## Ergo: Die eierlegende Wollmilchsau für das Gesundheitswesen
+
+SEITE 6
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
@@ -65,6 +105,24 @@
 *„Zu einer möglichst zielgerichteten Versorgung der Patientinnen und Patienten und für eine*
 
 ## schnellere Terminvergabe setzen wir auf ein verbindliches Primärarztsystem bei freier  Arztwahl durch Haus- und Kinderärzte in der Hausarztzentrierten Versorgung und im  Kollektivvertrag.“
+
+## „Die Primärärztinnen und Primärärzte oder die von den Kassenärztlichen Vereinigungen (KV)
+
+*betriebene Rufnummer 11 6 11 7 stellen den medizinisch notwendigen Bedarf für einen*  *Facharzttermin fest und legen den dafür notwendigen Zeitkorridor (*
+
+## „Wir verpflichten die KV, diese Termine zu vermitteln. Gelingt dies nicht, wird der  Facharztzugang im Krankenhaus ambulant für diese Patientinnen und Patienten ermöglicht
+
+## „Zudem schaffen wir die flächendeckende Möglichkeit einer strukturierten Ersteinschätzung
+
+***über digitale Wege in Verbindung mit Telemedizin***
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
+## Termingarantie) fest.“
+
+SEITE 7
 
 
 ---
@@ -78,6 +136,22 @@
 *bundesweiten Testphase zu einer verpflichtenden sanktionsbewehrten Nutzung. Wir*  *vereinfachen den Austausch zwischen den Versicherungsträgern und den Ärztinnen und*  *Ärzten. Doppeldokumentationen vermeiden wir.“*
 
 ## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und  Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
+
+## „Wir verändern das Honorarsystem im ärztlichen Bereich mit dem Ziel, die Anzahl nicht
+
+*bedarfsgerechter Arztkontakte zu reduzieren (****Jahrespauschalen****).“*
+
+## „Durch Flexibilisierung des Quartalsbezugs ermöglichen wir neuen Patientinnen und  Patienten einen besseren Zugang und die Vergütung von Praxis-Patienten-Kontakten.“
+
+## „Wir schaffen einen Fairnessausgleich zwischen über- und unterversorgten Gebieten: Wir
+
+*prüfen eine Entbudgetierung von Fachärztinnen und Fachärzten in unterversorgten Gebieten*
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
+SEITE 8
 
 
 ---
@@ -106,10 +180,22 @@ vollständige Erstattung der vorgestreckten Corona-Kosten
 
 - **HAUSHALT**
 
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 9
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
 
 ---
 
 # - KBV-POSITIONEN
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 10
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
@@ -141,7 +227,10 @@ vollständige Erstattung der vorgestreckten Corona-Kosten
 |  | **Veröffentlicht** | **am** | **26.05.** |
 |  |  |  | SEITE 11 |
 
-Veröffentlicht am 26.05.
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+Veröffentlicht am 26.05.31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -159,6 +248,12 @@ als „digitale Multi-Channel-Versorgungsplattform“;  mehr Möglichkeiten für
 - Bürgerinnen und Bürger müssen noch stärker über das Angebot der 116117 informiert werden.
 - **NOTFALLVERSORGUNG**
 
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 12
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
 
 ---
 
@@ -168,7 +263,17 @@ als „digitale Multi-Channel-Versorgungsplattform“;  mehr Möglichkeiten für
 
 ## Plus FÜNF KERNFORDERUNGEN
 
-[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
+## SIEBEN THEMENFELDER
+
+### Erarbeitet in einem gemeinsamen  Prozess mit der VV 12/24-05/25
+
+[Weitere Informationen unter](http://www.kbv.de/digitalisierung)[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 13
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
@@ -178,6 +283,12 @@ als „digitale Multi-Channel-Versorgungsplattform“;  mehr Möglichkeiten für
 - **DIGITAL UND NAH**
 
 ## Hier online abrufbar
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 14
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
@@ -194,12 +305,28 @@ als „digitale Multi-Channel-Versorgungsplattform“;  mehr Möglichkeiten für
 
 #### Veröffentlicht am 26.05.
 
-[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
+[Weitere Informationen unter](http://www.kbv.de/digitalisierung)[www.kbv.de/digitalisierung](http://www.kbv.de/digitalisierung)
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
+## ALLGEMEINE ANFORDERUNGEN
+
+## TECHNISCHE & RECHTLICHE  ANFORDERUNGEN
+
+SEITE 15
 
 
 ---
 
 # - AUSBLICK
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 16
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---
@@ -256,6 +383,10 @@ Bundesparteitag CDU
 
 ### Aug
 
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
+
 **Q4 2025**
 
 ### Dez
@@ -284,7 +415,7 @@ Bundesparteitag CDU
 
 ### Nov Dez
 
-### Okt
+### Okt 17
 
 
 ---
@@ -292,6 +423,12 @@ Bundesparteitag CDU
 - **BEREICH POLITIK**
 
 Das Bild kann nicht angezeigt werden.
+
+**AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 18
+
+31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
 
 ---

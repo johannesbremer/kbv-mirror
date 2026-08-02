@@ -29,6 +29,10 @@ Die Stammdateien sind insbesondere durch das Urheberrechtsgesetz geschützt. Die
 
 Die Einrichtung einer funktionsfähigen Hardware- und Softwareumgebung für die Stammdateien liegt allein in  der Verantwortung des Softwareherstellers. Dieses gilt gleichermaßen für regelmäßige Datensicherungen in dem  verwendeten IT-System.
 
+Seite 1 von 2 / KBV / Lizenzvereinbarung
+
+Stammdateien für Softwarehersteller / 15. August 2023
+
 
 ---
 
@@ -52,3 +56,7 @@ Die Einrichtung einer funktionsfähigen Hardware- und Softwareumgebung für die 
 - (4) Die Rechte aus dieser Vereinbarung dürfen nicht ohne ausdrückliche schriftliche Genehmigung der KBV  abgetreten werden. Textform ist nicht ausreichend.
 - (5) Gerichtsstand ist Berlin.
 - (6) Auf die vorliegende Vereinbarung findet unter Ausschluss der Normen, die in eine andere Rechtsordnung  verweisen, ausschließlich deutsches Recht Anwendung.
+
+Seite 2 von 2 / KBV / Lizenzvereinbarung
+
+Stammdateien für Softwarehersteller / 15. August 2023

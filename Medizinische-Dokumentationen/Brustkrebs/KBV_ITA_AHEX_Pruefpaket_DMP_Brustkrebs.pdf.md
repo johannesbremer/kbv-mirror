@@ -107,6 +107,8 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
 
 38  Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 39
 
+Seite 3 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 ---
 
 ## DOKUMENTENHISTORIE
@@ -222,6 +224,8 @@ Aufnahme eines Testfalls Personalienfeldanpass  zur Überprüfung der ung zum 1.
 
 4.19
 
+Seite 5 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 **Seite**
 
 Alle
@@ -251,6 +255,8 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 **HINWEIS**
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragssteller müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
+
+Seite 6 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 ---
 
@@ -284,6 +290,8 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 **Brustkrebs-Unterlagen bestehend aus XML-Dokumenten:**  Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.XKM), welche die  einzelnen XML-Dateien im entsprechenden Verzeichnis enthält, erwartet. Diese müssen fehlerfrei gegen  das jeweils aktuelle, von der KBV vorgegebene, Prüfschema validierbar sein. Entsprechende Vorgaben  für die Bildung der Dateinamen, die Verzeichnisstruktur und die weiteren Angaben entnehmen Sie bitte  dem Dokument KBV_ITA_VGEX_XML-Schnittstellen.
 
+Seite 7 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 ---
 
 **Videodateien, Screenshots ausgewählter Anforderungen und Teilnahmeerklärung:**  Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 2640) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.  [PrüffallNr.]1_[lfdNr.]2 3  Teilnahmeerklärung (Prüffall 2640): TE_EWE_BK.pdf
@@ -301,6 +309,8 @@ Dateiordner      Dateiordner
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
 ________________  **1 Nummer des Prüffalls**  **2 Laufende Nummer**  **3 Gängiges Bild- bzw. Videoformat**
+
+Seite 8 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 ---
 
@@ -343,6 +353,8 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 **Telefax**
 
 **Einlesedatum der Versichertenkarten**
+
+Seite 9 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 (Feld 22, „service_tmr“) eingesetzt
 
@@ -430,6 +442,8 @@ Maria Eichendorf
 **Ersatzverfahren**
 
 **2617**
+
+Seite 10 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 Lija Malta
 
@@ -524,6 +538,8 @@ Operative Therapie
 
 **Aktueller Befundstatus des Primärtumors / kontralateralen Brustkrebses**
 
+Seite 11 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 **VERZEICHNISNAME**
 
 Ersatzverfahren (s. Versichertendaten 2  Ersatzverfahren)
@@ -578,6 +594,8 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
+
+Seite 12 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 (p) Pathologisch (postoperativ)
 
@@ -655,6 +673,8 @@ Z. n. besonders kardiotoxischer Tumortherapie
 Therapie bei Knochenmetastasen (Bisphosphonate)
 
 Therapie bei Knochenmetastasen (Denosumab)
+
+Seite 13 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **Folgedokumentation**
 
@@ -735,6 +755,8 @@ Kontralateraler Brustkrebs Datum der histologischen Sicherung
 
 Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
+Seite 14 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 **Erstdokumentation**
 
 PRF2613 15.04.2023 15.10.2024
@@ -793,6 +815,8 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
+
+Seite 15 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 OP geplant (c) Klinisch
 
@@ -864,6 +888,8 @@ Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren,  sofern die
 Lokalisation von Fernmetastasen
 
 Therapie bei Knochenmetastasen (Bisphosphonate)
+
+Seite 16 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **Erstdokumentation**
 
@@ -949,6 +975,8 @@ Z. n. besonders kardiotoxischer Tumortherapie
 **Behandlung bei fortgeschrittener Erkrankung (lokoregionäres Rezidiv / Fernmetastasen)**
 
 Therapie bei Knochenmetastasen (Bisphosphonate)
+
+Seite 17 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 Nein
 
@@ -1039,6 +1067,8 @@ N
 
 M
 
+Seite 18 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 **Erstdokumentation**
 
 PRF2614 856215715
@@ -1083,6 +1113,8 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
+
+Seite 19 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 Ja, keine  Kompressionsarmstrumpfthera pie erforderlich
 
@@ -1146,6 +1178,8 @@ Z. n. besonders kardiotoxischer Tumortherapie
 Therapie bei Knochenmetastasen (Bisphosphonate)
 
 Therapie bei Knochenmetastasen (Denosumab)
+
+Seite 20 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **Folgedokumentation**
 
@@ -1232,6 +1266,8 @@ M
 
 Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß  Immunreaktiver Score [IRS])
 
+Seite 21 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 **Erstdokumentation**
 
 PRF2615 15.04.2023 15.10.2024
@@ -1276,6 +1312,8 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
+
+Seite 22 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 Knochen, viszeral, ZNS, Andere
 
@@ -1343,6 +1381,8 @@ Z. n. besonders kardiotoxischer Tumortherapie
 Therapie bei Knochenmetastasen (Bisphosphonate)
 
 Therapie bei Knochenmetastasen (Denosumab)
+
+Seite 23 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **Folgedokumentation**
 
@@ -1429,6 +1469,8 @@ N
 
 M
 
+Seite 24 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 **Erstdokumentation**
 
 PRF2616 15.04.2023 15.10.2024
@@ -1479,6 +1521,8 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
+
+Seite 25 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 Unbekannt
 
@@ -1544,6 +1588,8 @@ Z. n. besonders kardiotoxischer Tumortherapie
 Therapie bei Knochenmetastasen (Bisphosphonate)
 
 Therapie bei Knochenmetastasen (Denosumab)
+
+Seite 26 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **Folgedokumentation**
 
@@ -1630,6 +1676,8 @@ M
 
 Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß  Immunreaktiver Score [IRS])
 
+Seite 27 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 Ersatzverfahren.
 
 **Erstdokumentation**
@@ -1678,6 +1726,8 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
+
+Seite 28 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 Aromataseinhibitoren
 
@@ -1747,6 +1797,8 @@ Z. n. besonders kardiotoxischer Tumortherapie
 Therapie bei Knochenmetastasen (Bisphosphonate)
 
 Therapie bei Knochenmetastasen (Denosumab)
+
+Seite 29 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **Folgedokumentation**
 
@@ -1831,6 +1883,8 @@ Fernmetastasen Datum der diagnostischen Sicherung von
 
 Fernmetastasen
 
+Seite 30 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 ---
 
 #### Szenario 3
@@ -1867,7 +1921,9 @@ Kontralateraler Brustkrebs Datum der histologischen Sicherung
 
 Lokoregionäres Rezidiv Datum der histologischen Sicherung
 
-Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen 10.04.2023 10.10.2024
+Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen
+
+Seite 31 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024 10.04.2023 10.10.2024
 
 10.03.2023 10.09.2024
 
@@ -1921,7 +1977,9 @@ Primärtumor Datum der histologischen Sicherung
 
 **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen**  **Brustkrebses**
 
-Operative Therapie 2619
+Operative Therapie
+
+Seite 32 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024 2619
 
 Dieser Prüffall dient zur Kontrolle des korrekten Einsatzes des XPM-Pakets DMP  Brustkrebs. Hier sind bewusst Fehleingaben vorgegeben, die durch das XPM-Paket erkannt werden. Eine elektronische Dokumentation ist für diesen Fall nicht  einzureichen. Zur korrekten Bearbeitung genügt das Erfüllen der in Allgemeines  beschriebenen Anforderung.  Werden die Fehleingaben bereits softwareseitig erkannt, so müssen  entsprechende Screenshots Videos für alle Fehleingaben eingereicht werden.  Werden die Fehleingaben ausschließlich durch das XPM erkannt und es existiert  zu keiner der Fehleingaben eine softwareseitige Fehlererkennung, genügt das  Bearbeiten einer Fehleingabe zur Erstdokumentation und einer Fehleingabe zur  Folgedokumentation. Sollte dies zutreffen, so erwähnen Sie dies bitte in Ihrer  Prüffalldokumentation.  Die notwendigen Patientendaten sind frei wählbar und sollten wie auch die  weiteren Dokumentationsdaten, bis auf die unten aufgeführten Fehleingaben,  den Plausibilitäten entsprechen.
 
@@ -1980,7 +2038,9 @@ Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie
 
 Fortführung der adjuvanten endokrinen Therapie
 
-Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren,  sofern die Absicht für eine spezifische medikamentöse Therapie einer  Osteoporose besteht: DXA-Befund 01.08.2024
+Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren,  sofern die Absicht für eine spezifische medikamentöse Therapie einer  Osteoporose besteht: DXA-Befund
+
+Seite 33 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024 01.08.2024
 
 OP geplant
 
@@ -2078,6 +2138,8 @@ Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)
 
 Bioptische Sicherung der viszeralen Metastasen
 
+Seite 35 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 Primärtumors, Fernmetastasen
 
 Primärtumors
@@ -2130,6 +2192,8 @@ Es wird eine Erstdokumentation für einen noch nicht im System existierenden Pat
 
 Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine  **Hinweismeldung bezüglich der Datenträgerbeschriftung** und druckt einen **Transportbegleitzettel** aus.  Hier soll die Umsetzung der Anforderungen P4-35 und P4-36 (siehe  KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs) nachgewiesen werden.
 
+Seite 36 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 ---
 
 **2.3.2** **Prüffall 2640**
@@ -2166,6 +2230,8 @@ DMP-Fallnummer 1010
 
 Datum 05.04.2023
 
+Seite 37 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
+
 ---
 
 ## TESTDATENVALIDIERUNG
@@ -2173,6 +2239,8 @@ Datum 05.04.2023
 Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.  Zusätzlich kann optional auch der Prüffall **TDV2630** in der Testdatenvalidierung genutzt werden.  Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV das Referat Zertifizierung  findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht  Gegenstand der Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das ZIP-Archiv mit  den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse  gesendet.
 
 Abbildung 3: Testdatenvalidierung
+
+Seite 38 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 ---
 
@@ -2227,6 +2295,8 @@ Fernmetastasen Datum der diagnostischen Sicherung von  Fernmetastasen
 **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen Brustkrebses**
 
 Operative Therapie
+
+Seite 39 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **4.23**
 
@@ -2284,6 +2354,8 @@ Symptomatisches Lymphödem
 Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
 Z. n. besonders kardiotoxischer Tumortherapie
+
+Seite 40 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 (p) Pathologisch (postoperativ)
 
@@ -2357,6 +2429,8 @@ Anthrazykline (Doxorubicin,  Epirubicin), linksthorakale  Bestrahlung, Trastuzum
 **4132**
 
 **4134**
+
+Seite 41 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **ERSATZVERFAHREN**
 
@@ -2470,6 +2544,8 @@ IKK Classic
 **4132**
 
 **4134**
+
+Seite 42 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.28 / 14. August 2024
 
 **Namenszusatz**
 

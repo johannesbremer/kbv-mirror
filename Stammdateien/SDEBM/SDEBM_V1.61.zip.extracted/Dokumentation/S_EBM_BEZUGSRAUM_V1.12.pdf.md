@@ -107,4 +107,4 @@ im Behandlungsfall
 |---|---|
 | 9 | im Reproduktionsfall |
 
-2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM
+Seite 2 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM

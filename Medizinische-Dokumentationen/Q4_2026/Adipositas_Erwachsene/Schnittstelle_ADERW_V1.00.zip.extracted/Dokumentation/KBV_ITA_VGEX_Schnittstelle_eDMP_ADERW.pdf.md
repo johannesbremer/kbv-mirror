@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_ADERW]
 
+Seite 1 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -94,6 +96,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 28
 
+Seite 2 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 Kardinalität Sonstige Symbole 
 
 
@@ -161,6 +165,8 @@ Kardinalität Sonstige Symbole
 
 **39**
 
+Seite 3 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -170,6 +176,8 @@ Kardinalität Sonstige Symbole
 ## ABBILDUNGSVERZEICHNIS
 
 **ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 12  **ABBILDUNG 2:** GRUNDSTRUKTUR BODY .......................................................................................................................... 13  **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 14  **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 16  **ABBILDUNG 5:** GRUNDSTRUKTUR SECTION (VERLAUFSDOKUMENTATION) ................................................................... 29
+
+Seite 4 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 |  |  |
 |---|---|
@@ -181,6 +189,8 @@ Kardinalität Sonstige Symbole
 
 **TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 10  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 10  **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 11  **TABELLE 4:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG WEGEN) .................................................................................. 19  **TABELLE 5:** WERTE BEI ERGEBNISTEXT (RAUCHER) .......................................................................................................... 20  **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 22  **TABELLE 7:** WERTE BEI ERGEBNISTEXT (ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND  KÖRPERLICHEM TRAINING) ...................................................................................................................................... 23  **TABELLE 8:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGE KÖRPERLICHE ALLTAGSAKTIVITÄT) ........................................... 24  **TABELLE 9:** WERTE BEI ERGEBNISTEXT (REGELMÄßIGES KÖRPERLICHES TRAINING) ....................................................... 24  **TABELLE 10:** WERTE BEI ERGEBNISTEXT (ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG) ...................................................................................................................................... 25  **TABELLE 11:** WERTE BEI ERGEBNISTEXT (ADÄQUAT GEÄNDERTES ERNÄHRUNGSVERHALTEN) ...................................... 25  **TABELLE 12:** WERTE BEI ERGEBNISTEXT (PRÄDIABETES BEI EINSCHREIBUNG) ................................................................ 25  **TABELLE 13:** WERTE BEI ERGEBNISTEXT (BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER MULTIMODALEN  ADIPOSITAS-SCHULUNG TEILGENOMMEN) ............................................................................................................. 26  **TABELLE 14:** WERTE BEI ERGEBNISTEXT (ADIPOSITAS-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION)) 27  **TABELLE 15:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ....................................................................................................................................................... 28  **TABELLE 16:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 28  **TABELLE 17:** WERTE BEI ERGEBNISTEXT (ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND  KÖRPERLICHEM TRAINING SEIT DER LETZTEN DOKUMENTATION) ......................................................................... 33  **TABELLE 18:** WERTE BEI ERGEBNISTEXT (ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG SEIT DER LETZTEN DOKUMENTATION) .......................................................................... 34  **TABELLE 19:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE ADIPOSITAS-SCHULUNG WAHRGENOMMEN) ......................... 35  **TABELLE 20**: WERTE BEI ERGEBNISTEXT (MANIFESTER DIABETES MELLITUS TYP 2) ........................................................ 36  **TABELLE 21:** WERTE BEI ERGEBNISTEXT (BEENDIGUNG DER DMP-TEILNAHME) ............................................................. 37
 
+Seite 5 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -190,6 +200,8 @@ Kardinalität Sonstige Symbole
 ## XML-CODE-VERZEICHNIS
 
 **XML-CODE 1:** LEVELONE ................................................................................................................................................... 12  **XML-CODE 2:** BODY .......................................................................................................................................................... 13  **XML-CODE 3:** SECTION ..................................................................................................................................................... 15  **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 16  **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 16  **XML-CODE 6:** PARAMETER ............................................................................................................................................... 17  **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 17  **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 17  **XML-CODE 9:** CONTENT (ADMINISTRATIVE DATEN) ........................................................................................................ 18  **XML-CODE 10:** EINSCHREIBUNG WEGEN ......................................................................................................................... 18  **XML-CODE 11:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 19  **XML-CODE 12:** KÖRPERGRÖßE ......................................................................................................................................... 20  **XML-CODE 13:** KÖRPERGEWICHT ..................................................................................................................................... 20  **XML-CODE 14:** RAUCHER .................................................................................................................................................. 20  **XML-CODE 15:** BLUTDRUCK SYSTOLISCH .......................................................................................................................... 21  **XML-CODE 16:** BLUTDRUCK DIASTOLISCH ........................................................................................................................ 21  **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 21  **XML-CODE 18:** CONTENT (THERAPEUTISCHE MAßNAHMEN) .......................................................................................... 23  **XML-CODE 19:** ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND KÖRPERLICHEM TRAINING ......... 23  **XML-CODE 20:** REGELMÄßIGE KÖRPERLICHE ALLTAGSAKTIVITÄT ................................................................................... 24  **XML-CODE 21:** REGELMÄßIGES KÖRPERLICHES TRAINING .............................................................................................. 24  **XML-CODE 22:** ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG ....................................................................................................................................... 24  **XML-CODE 23:** ADÄQUAT GEÄNDERTES ERNÄHRUNGSVERHALTEN ............................................................................... 25  **XML-CODE 24:** PRÄDIABETES BEI EINSCHREIBUNG .......................................................................................................... 25  **XML-CODE 25:** CONTENT (SCHULUNG) ............................................................................................................................ 26  **XML-CODE 26:** BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER MULTIMODALEN ADIPOSITAS-SCHULUNG  TEILGENOMMEN ...................................................................................................................................................... 26  **XML-CODE 27**: ADIPOSITAS-SCHULUNG EMPFOHLEN (BEI AKTUELLER DOKUMENTATION) ........................................... 27  **XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 27  **XML-CODE 29:** VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER KRANKENKASSE ............................... 28  **XML-CODE 30:** DOKUMENTATIONSINTERVALL ................................................................................................................ 28  **XML-CODE 31:** SECTION (VERLAUFSDOKUMENTATION) .................................................................................................. 30  **XML-CODE 32:** CONTENT (ANAMNESE- UND BEFUNDDATEN) ........................................................................................ 31  **XML-CODE 33:** CONTENT (THERAPEUTISCHE MAßNAHMEN) .......................................................................................... 33  **XML-CODE 34:** ZIELE ZUR REGELMÄßIGEN KÖRPERLICHEN ALLTAGSAKTIVITÄT UND KÖRPERLICHEM TRAINING SEIT  DER LETZTEN DOKUMENTATION ............................................................................................................................. 33  **XML-CODE 35:** ZIELE ZUR ERNÄHRUNGSUMSTELLUNG ODER ZUR AUFRECHTERHALTUNG DER  ERNÄHRUNGSÄNDERUNG SEIT DER LETZTEN DOKUMENTATION ........................................................................... 34  **XML-CODE 36:** CONTENT (SCHULUNG) ............................................................................................................................ 35  **XML-CODE 37:** EMPFOHLENE ADIPOSITAS-SCHULUNG WAHRGENOMMEN ................................................................... 35  **XML-CODE 38:** CONTENT (RELEVANTE EREIGNISSE SEIT DER LETZTEN DOKUMENTATION)............................................ 36  **XML-CODE 39:** MANIFESTER DIABETES MELLITUS TYP 2 ................................................................................................. 36  **XML-CODE 40:** BEENDIGUNG DER DMP-TEILNAHME ....................................................................................................... 37
+
+Seite 6 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 |  |  |
 |---|---|
@@ -203,6 +215,8 @@ Kardinalität Sonstige Symbole
 |---|---|---|---|---|---|
 | 1.00 | 19.02.2026 | KBV | Korrektur eines Parameters in |  | 35 |
 | 1.00 | 13.02.2026 | KBV | neues Dokument | Beschluss des G-BA | alle |
+
+Seite 7 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 der Doku
 
@@ -227,6 +241,8 @@ Die Regeln zur Plausibilisierung sind in der jeweiligen Plausibilitätsrichtlini
 Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 8 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 |  |  |
 |---|---|
@@ -263,6 +279,8 @@ Beispiele:
 - 123456789_123_20260930.EEADERW
 - 123456789_123_20261231.EVADERW
 
+Seite 9 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -298,9 +316,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
+Seite 10 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
-|  |  |
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. |  |  |
 |---|---|
 
 
@@ -319,6 +337,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
+
+Seite 11 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
@@ -349,6 +369,8 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
+Seite 12 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -376,6 +398,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 
 **XML-Code 2:** body
 
+Seite 13 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 ] durchzuführen.
 
 Abbildung 2 dargestellt.
@@ -400,6 +424,8 @@ Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
+Seite 14 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -415,7 +441,11 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 Das Element <content> enthält das Kindelement <local_markup>, mit welchem eine sciphox-ssu verwendet  werden kann. Die eigentlichen Daten werden mit Hilfe der sciphox-ssu angegeben. Das Element  <local_markup> hat die erforderlichen Attribute *ignore* und *descriptor*. Das Attribut *ignore* hat den festen  Wert “all”. Um zu kennzeichnen, dass SCIPHOX-Elemente verwendet werden, ist für das *descriptor*-Attribut  der feste Wert „sciphox“ vorgeschrieben.
 
-<caption_cd DN="Behandlungsplanung"/>Für die Darstellung von Daten von Adipositas - Erwachsene („erstmalige Dokumentation“ und  Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU *observation* verwendet. Das Element  <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,  *country*=“de“, *version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1  verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach  folgendermaßen aus:
+Für die Darstellung von Daten von Adipositas - Erwachsene („erstmalige Dokumentation“ und  Verlaufsdokumentation) in XML wird ausschließlich die Sciphox-SSU *observation* verwendet. Das Element  <sciphox-ssu> hat drei Attribute, die mit den festen Werten vorbelegt sind: *type* =“observation“,  *country*=“de“, *version*=“v1“. Damit wird gekennzeichnet, dass die Sciphox-SSU *observation* in Version v1  verwendet wird. Der Coderahmen für das Element <content> mit Sciphox-SSU *observation* sieht demnach  folgendermaßen aus:
+
+Seite 15 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<caption_cd DN="Behandlungsplanung"/>
 
 |  |  |
 |---|---|
@@ -442,6 +472,8 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 \|---|
 
 **XML-Code 5:** Beobachtungen
+
+Seite 16 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
 
@@ -486,7 +518,11 @@ Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausp
 
 Dieses Kapitel beschreibt den Abschnitt Administrative Daten
 
-<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelement <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+
+Seite 17 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
 |  |  |
 |---|---|
@@ -526,7 +562,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| rheumatoide Arthritis |
 \| Adipositas - Erwachsene |
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Erwachsene"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Erwachsene"/>|  |  |
+Seite 18 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Erwachsene"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Adipositas - Erwachsene"/>
+
+|  |  |
 |---|---|
 
 
@@ -549,6 +589,8 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 \|---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
+
+Seite 19 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Keine der genannten Erkrankungen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
@@ -602,15 +644,17 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
+Seite 20 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 *V* Attribut die „Körpergröße“ und im
 
 *V* Attribut das „Körpergewicht“ und
 
 *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>*V* Attribut den „systolischen Wert“
+*V* Attribut den „systolischen Wert“
 
-|  |  |
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg" /> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
 |---|---|
 
 
@@ -645,7 +689,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>**XML-Code 17:** Begleiterkrankungen
+**XML-Code 17:** Begleiterkrankungen
+
+Seite 21 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg" /> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg" /> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="AVK"/>
 
 |  |  |
 |---|---|
@@ -675,6 +723,8 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
+Seite 22 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -702,7 +752,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ziele vereinbart |
 \| Keine Ziele vereinbart |
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>**Tabelle 7:** Werte bei Ergebnistext (Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training)
+**Tabelle 7:** Werte bei Ergebnistext (Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training)
+
+Seite 23 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>
 
 |  |  |
 |---|---|
@@ -757,15 +811,17 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 22:** Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der  Ernährungsänderung
 
+Seite 24 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 *V*-Attribut die Feldbezeichnung
 
 *V*-Attribut die Feldbezeichnung
 
 ### Ernährungsänderung
 
-<sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>*V*-Attribut die Feldbezeichnung
+*V*-Attribut die Feldbezeichnung
 
-|  |  |
+<sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung"/> <sciphox:Ergebnistext V="Ziele vereinbart"/>|  |  |
 |---|---|
 
 
@@ -812,7 +868,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-<sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V="Ja"/>**Tabelle 12:** Werte bei Ergebnistext (Prädiabetes bei Einschreibung)
+**Tabelle 12:** Werte bei Ergebnistext (Prädiabetes bei Einschreibung)
+
+Seite 25 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V="Ja"/>
 
 |  |  |
 |---|---|
@@ -853,7 +913,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 13:** Werte bei Ergebnistext (Bereits vor Einschreibung in das DMP an einer multimodalen  Adipositas-Schulung teilgenommen)
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
+Seite 26 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen"/> <sciphox:Ergebnistext V="Ja"/>
+
+|  |  |
 |---|---|
 
 
@@ -892,7 +956,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-<sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+
+Seite 27 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Parameter DN="Adipositas-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 |  |  |
 |---|---|
@@ -933,6 +1001,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 16:** Werte bei Ergebnistext (Dokumentationsintervall)
 
+Seite 28 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V="Körperliches Training"/> <sciphox:Ergebnistext V="Ernährungsberatung"/> <sciphox:Ergebnistext V="Tabakverzicht"/> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/>
 
 |  |  |
@@ -959,6 +1029,8 @@ Das Element <caption> besteht nur aus dem erforderlichen Kindelement <caption_cd
 
 Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das Element <section> wie folgt  aus. Die Werte der einzelnen <caption_cd>-Elemente entsprechen dabei den Abschnittsüberschriften aus  dem Datensatz.
 
+Seite 29 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -978,7 +1050,11 @@ Der Abschnitt „content“ hat die gleiche Struktur wie in der „erstmaligen D
 
 Der Abschnitt „Sciphox SSU observation“ hat die gleiche Struktur wie in der „erstmaligen Dokumentation“,  siehe Kapitel 6.1.3
 
-<caption_cd DN="Behandlungsplanung"/>|  |  |
+Seite 30 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<caption_cd DN="Behandlungsplanung"/>
+
+|  |  |
 |---|---|
 
 
@@ -1007,7 +1083,11 @@ Siehe Kapitel 6.1.5.1
 
 ### Körpergewicht
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Keine der genannten Erkrankungen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Siehe Kapitel 6.1.5.2
+Siehe Kapitel 6.1.5.2
+
+Seite 31 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Keine der genannten Erkrankungen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 |  |  |
 |---|---|
@@ -1039,6 +1119,8 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Der Coderahmen sieht wie folgt aus:
 
+Seite 32 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -1066,7 +1148,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ziele vereinbart oder überprüft |
 \| Keine Ziele vereinbart oder überprüft |
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>**Tabelle 17:** Werte bei Ergebnistext (Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training seit der letzten Dokumentation)
+**Tabelle 17:** Werte bei Ergebnistext (Ziele zur regelmäßigen körperlichen Alltagsaktivität und  körperlichem Training seit der letzten Dokumentation)
+
+Seite 33 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßige körperliche Alltagsaktivität"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation "/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Adäquat geändertes Ernährungsverhalten"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Prädiabetes bei Einschreibung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>
 
 |  |  |
 |---|---|
@@ -1114,7 +1200,11 @@ Dieses Kapitel beschreibt den Abschnitt Schulung
 
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau zwei Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  genau ein Kindelement <sciphox:Ergebnistext>.
 
-<sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>Der Coderahmen sieht wie folgt aus:
+Der Coderahmen sieht wie folgt aus:
+
+Seite 34 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Parameter DN="Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Ziele vereinbart oder überprüft"/>
 
 |  |  |
 |---|---|
@@ -1153,7 +1243,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 7.1.8 Abschnitt „Relevante Ereignisse seit der letzten Dokumentation
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Parameter DN="Adipositas-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse seit der letzten Dokumentation
+Dieses Kapitel beschreibt den Abschnitt „Relevante Ereignisse seit der letzten Dokumentation
+
+Seite 35 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Schulung wahrgenommen"/> <sciphox:Parameter DN="Adipositas-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>
 
 |  |  |
 |---|---|
@@ -1192,7 +1286,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 21
 
-<sciphox:Beobachtung> <sciphox:Parameter DN="Manifester Diabetes mellitus Typ 2"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Beendigung der DMP-Teilnahme"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Manifester Diabetes mellitus Typ 2"/> <sciphox:Ergebnistext V="Ja"/>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 36 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+<sciphox:Beobachtung> <sciphox:Parameter DN="Manifester Diabetes mellitus Typ 2"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Beendigung der DMP-Teilnahme"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Manifester Diabetes mellitus Typ 2"/> <sciphox:Ergebnistext V="Ja"/>
 
 |  |  |
 |---|---|
@@ -1215,6 +1313,8 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 ### 7.1.9 Abschnitt „Behandlungsplanung“
 
 Der Abschnitt „Behandlungsplanung“ hat die gleiche Struktur wie in der „erstmaligen Dokumentation“,  siehe Kapitel 6.1.8
+
+Seite 37 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
 
 <sciphox:Parameter DN="Beendigung der DMP-Teilnahme"/> <sciphox:Ergebnistext V="Ja"/>
 
@@ -1249,6 +1349,8 @@ Der Abschnitt „Behandlungsplanung“ hat die gleiche Struktur wie in der „er
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
+Seite 38 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
 |  |  |
 |---|---|
 
@@ -1272,7 +1374,11 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes hsene Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Erwachsene Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 39 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
+
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes hsene Dokumentationsdaten des strukturierten Behandlungsprogramms Adipositas - Erwachsene Volldatensatz / a-Datensatz Schnittstellenbeschreibung
 
 |  |  |
 |---|---|

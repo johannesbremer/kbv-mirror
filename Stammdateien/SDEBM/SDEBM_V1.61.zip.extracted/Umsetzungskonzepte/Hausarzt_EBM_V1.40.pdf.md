@@ -12,9 +12,12 @@
 |  | Datum:      08.08.2013 |
 |  | Freigabe: |
 
-EBM- Schnittstelle (GOS)   extern
+EBM- Schnittstelle (GOS)   extern © KBV Kassenärztliche Bundesvereinigung, Berlin 2013
+
 
 ---
+
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
 
 **Ä** **N** **D**
 
@@ -27,11 +30,18 @@ EBM- Schnittstelle (GOS)   extern
 | 1.00 | 01.07.2013 | KBV |  |  |  |
 | 0.01 | 19.06.2013 | KBV | neues Dokument |  |  |
 
-**E** **R** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
 
-pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grundpau- schale und Zusatzpauschale der fachärztlichen Grundver- des Kennzeichen „arztpraxis“ mit Referenz auf Schlüsseltab- elle zur 309. Beschlussfassung senspezifischen Sub-GOP in der Arztpraxis noch in Klärung außerhalb der fachärztlichen Grundversorgung, Realisie- rung  auch über Ausschlüsse via „Grundleistungsregel“ bzgl. der Abrechnung der Versichertenpauschalen, konkrete Festlegung noch offen schlussfassung Textmarke nicht definiert.
+**E** **R** **U** **N** **G** **S** **V** **E**
+
+**R** **Z** **E** **I** **C** **H** **N** **I** **S**
+
+pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grundpau- schale und Zusatzpauschale der fachärztlichen Grundver- des Kennzeichen „arztpraxis“ mit Referenz auf Schlüsseltab- elle zur 309. Beschlussfassung senspezifischen Sub-GOP in der Arztpraxis noch in Klärung außerhalb der fachärztlichen Grundversorgung, Realisie- rung  auch über Ausschlüsse via „Grundleistungsregel“ bzgl. der Abrechnung der Versichertenpauschalen, konkrete Festlegung noch offen schlussfassung Textmarke nicht definiert.Seite 2 von 9
+
 
 ---
+
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
 
 **I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
@@ -47,7 +57,14 @@ pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grun
 
 **9**
 
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
+Seite 3 von 9
+
+
 ---
+
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
 
 # 1 Hausarzt EBM und Abbildung über die EBM
 
@@ -59,7 +76,11 @@ Kernelelement des Hausarzt-EBM ist dabei die Einführung von nur einer Versicher
 
 **Abbildung 1: Versichertenpauschale (Beispiel 03000)**
 
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
 # Schnittstelle
+
+Seite 4 von 9
 
 
 ---
@@ -88,6 +109,12 @@ Hinweis: aus juristischen Gründen sollte jede Leistungssubstitution für den An
 
 Bedingt durch die Umwandlung der Versichertenpauschalen durch die Sub-GOP und der je-weils vorhandenen Prüfzeiten und Bewertungen sind keine weiteren Besonderheiten im Rah-men individueller Statistiken sowie im Zuge von Honorarsimulationen zu berücksichtigen.
 
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
+
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
+Seite 5 von 9
+
 
 ---
 
@@ -100,6 +127,12 @@ Das vorliegende XML-Beispiel veranschaulicht die Verknüpfung und Systematik zwi
 **Abbildung 3: Verknüpfung zwischen Versichertenpauschale und Sub-GOP**
 
 Die jeweilige Altersbedingung ist direkt in der *sub_gop_liste* verknüpft. In Abhängigkeit vom  Patientenalter kann somit direkt auf die jeweilige Sub-GOP referenziert werden.
+
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
+
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
+Seite 6 von 9
 
 
 ---
@@ -126,6 +159,12 @@ Um die GOP-Art in Abhängigkeit der diesbezüglichen Entwicklung flexibel und un
 
 Die GOP-Art ist derzeit optional, wird aber durch die KBV initial für alle GOP ausgeliefert.  EBM-Leistungen ohne besondere Merkmale werden dabei standardmäßig mit der GOP-Art  „EBM“ belegt. Perspektivisch ist vorgesehen, dass die GOP-Art auch für kv-spezifische Leis-tungen angegeben wird.
 
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
+
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
+Seite 7 von 9
+
 
 ---
 
@@ -134,10 +173,12 @@ Die GOP-Art ist derzeit optional, wird aber durch die KBV initial für alle GOP 
 | **Abbildung** | **5:** | **Schlü s selw** | **erte fü r d ie** | **G O** | **P-Art, grau – derzeit nicht in Verwendung** |
 | Abbildung | des HA-EBM | auf die | EBM-Schnittstelle | (GOS) |  |
 
-Abbildung 5: Schlüsselwerte für die GOP-Art, grau 
+Abbildung 5: Schlüsselwerte für die GOP-Art, grau Dezernat 6  Informationstechnik, Telematik und Telemedizin Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS) Seite 8 von 9
 
 
 ---
+
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
 
 # 2 Zusammenfassung
 
@@ -156,3 +197,7 @@ Die EBM-Stammdatei wurde speziell erweitert, um diese Logik in einen Automatismu
 - ggf. Zusetzen der versorgungsbereichsspezifischen Zusatzpauschalen 03040 bzw.  040402
 
 2 Wird im Regelfall durch KV zugesetzt, da nicht alle Voraussetzungen zur Berechnungsfähigkeit dieser  Zusatzpauschalen maschinell geprüft werden können
+
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
+Seite 9 von 9

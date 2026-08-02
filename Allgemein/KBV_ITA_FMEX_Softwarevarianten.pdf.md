@@ -11,8 +11,7 @@
 
 ## [KBV_ITA_FMEX_SOFTWAREVARIANTEN]
 
-BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  
-
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS
 
 ---
 
@@ -44,6 +43,10 @@ Die Angaben in diesem Formular müssen mit den Daten des Antragstellers für die
 | **Systempfleger** **[nur anzugeben, wenn der  Systempfleger vom Antragssteller  abweicht]** |  | | |
 | **Straße und Hausnummer** |  | | |
 | **PLZ, Ort** |  | | |
+
+Softwareverantwortlicher:
+
+Seite 2 von 5 / KBV / Bekanntgabe Softwarevarianten / Version: 1.0 / 22. September 2022
 
 
 ---
@@ -84,6 +87,10 @@ Die Prüfnummer der Basissoftware gilt auch für die in diesem Formular bekanntg
 
 - **I.** **Änderungen an der Softwarevarianten und der Angaben im Formular**
 
+Softwareverantwortlicher:
+
+Seite 3 von 5 / KBV / Bekanntgabe Softwarevarianten / Version: 1.0 / 22. September 2022
+
 
 ---
 
@@ -107,8 +114,14 @@ Der Softwareverantwortlicher akzeptiert in Bezug auf den privaten Schlüssel (KB
 - (3) Der private KBV-SWH-Schlüssel ist sicher aufzubewahren und darf ausschließlich den berechtigten  Nutzern des Antragstellers für den Zertifizierungsgegenstand in Räumen des Antragstellers zur  Verfügung stehen.
 - (4) Bei Verlust des privaten KBV-SWH-Schlüssels muss die KBV unverzüglich informiert werden. Durch  die KBV wird ein neuer privater KBV-SWH-Schlüssel zur Verfügung gestellt. Der Antragsteller
 
+Softwareverantwortlicher:
+
+Seite 4 von 5 / KBV / Bekanntgabe Softwarevarianten / Version: 1.0 / 22. September 2022
+
 
 ---
+
+Softwareverantwortlicher:
 
 - verpflichtet sich gegenüber der KBV und Dritten zur Übernahme aller Kosten, die diesen durch den  Verlust des Schlüssels entstehen.
 - (5) Der private KBV-SWH-Schlüssel darf nicht in ein Softwareprodukt des Antragstellers und somit auch  nicht in das an die Anwender ausgelieferte XKM integriert werden.
@@ -133,3 +146,5 @@ Dezernat Digitalisierung und IT
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
+
+Seite 5 von 5 / KBV / Bekanntgabe Softwarevarianten / Version: 1.0 / 22. September 2022

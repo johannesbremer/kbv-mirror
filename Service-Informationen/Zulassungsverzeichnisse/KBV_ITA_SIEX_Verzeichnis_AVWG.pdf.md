@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**25. JULI 2026**
+**01. AUGUST 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -30,7 +30,7 @@
 |---|---|---|---|---|
 |  | Y/400/2409/37/754 | 30.09.2027 | Rohdaten MMI |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 25. Juli 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2504/36/062
 
@@ -66,6 +66,8 @@ Arztpraxis Wiegand APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH Dra
 |---|---|---|---|---|
 |  | Y/400/2501/36/332 | 31.12.2027 | ifap praxisCENTER |  |
 
+Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2601/36/078
 
 Y/400/2510/36/459
@@ -95,6 +97,8 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 |  | Y/400/2510/36/023 | 30.09.2028 | Rohdaten ifap |  |
 |---|---|---|---|---|
 |  | Y/400/2410/36/252 | 30.09.2027 | Rohdaten ifap |  |
+
+Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2504/36/112
 
@@ -133,6 +137,8 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 **Data-AL**
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
+
+Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2410/36/280
 
@@ -176,6 +182,8 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2311/36/488 | 31.10.2026 | Rohdaten MMI |  |
 
+Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2504/36/238
 
 Y/400/2410/36/254 31.03.2028
@@ -209,6 +217,8 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 |  | Y/400/2510/36/086 | 30.09.2028 | Rohdaten MMI |  |
 |---|---|---|---|---|
 |  | Y/400/2604/36/295 | 31.03.2029 | Rohdaten ABDAMED |  |
+
+Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2507/36/677
 
@@ -248,6 +258,8 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 
 **FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
 
+Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2510/36/253
 
 Y/400/2504/36/223
@@ -286,7 +298,9 @@ Windows
 
 |  | Y/400/2511/38/616 | 31.12.2028 | MMI PHARMINDEX |  |
 |---|---|---|---|---|
-|  | Y/400/2308/36/701 | 31.07.2026 | MMI PHARMINDEX |  |
+|  | Y/400/2608/38/701 | 30.09.2029 | MMI PHARMINDEX |  |
+
+Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2502/38/630
 
@@ -322,6 +336,8 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 |---|---|---|---|---|
 |  | Y/400/2504/36/400 | 31.03.2028 | ifap praxisCENTER |  |
 
+Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2601/36/195
 
 X/400/2410/36/617 31.12.2028 ifap praxisCENTER
@@ -351,6 +367,8 @@ ifap VoS ifap Service-Institut für Ärzte und Apotheker GmbH Bunsenstraße 7 82
 |  | Y/400/2604/36/642 | 31.03.2029 | medic Cloud-Service |  |
 |---|---|---|---|---|
 |  | Y/400/2504/36/210 | 31.03.2028 | Rohdaten ABDAMED |  |
+
+Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2401/36/451
 
@@ -386,6 +404,8 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 |---|---|---|---|---|
 |  | Y/400/2504/36/135 | 31.03.2028 |  |  |
 
+Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2504/36/136
 
 Y/400/2504/36/320 31.03.2028
@@ -418,6 +438,8 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/400/2410/36/030 | 30.09.2027 | Rohdaten MMI |  |
 
+Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2510/36/462
 
 Y/400/2602/38/641 30.09.2028 Rohdaten ABDAMED
@@ -443,6 +465,8 @@ Klinik-Assistent Medical-Software Frank Savini Kampenwandstr. 16 83229 Aschau i.
 |  | Y/400/2410/36/251 | 30.09.2027 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
 |  | Y/400/2410/36/015 | 30.09.2027 | Rohdaten MMI |  |
+
+Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2510/36/192 30.09.2028 Rohdaten ABDAMED
 
@@ -471,6 +495,8 @@ MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.
 **ClinicCentre Billing (OPD)**
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
+
+Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2410/36/290
 
@@ -514,6 +540,8 @@ Windows
 |---|---|---|---|---|
 |  | Y/400/2507/36/278 | 30.06.2028 | ifap praxisCENTER |  |
 
+Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2507/36/494
 
 Y/400/2504/36/043 30.06.2028 MMI PHARMINDEX
@@ -544,6 +572,8 @@ SMARTY New Media Company GmbH & Co. KG Königstraße 7 26180 Rastede Internet: w
 |---|---|---|---|---|
 |  | Y/400/2605/38/744 | 30.06.2029 | MMI PHARMINDEX |  |
 
+Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2507/36/487
 
 Y/400/2504/36/208 30.06.2028
@@ -573,6 +603,8 @@ Omniplaner Omnicare Pharma GmbH Feringastr. 7 85774 Unterföhring Internet: www.
 |  | Y/400/2510/36/348 | 30.09.2028 | ifap praxisCENTER |  |
 |---|---|---|---|---|
 |  | Y/400/2504/36/456 | 31.03.2028 | Rohdaten ABDAMED |  |
+
+Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2504/36/083
 
@@ -608,6 +640,8 @@ psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psypra
 |---|---|---|---|---|
 |  | Y/400/2510/36/343 | 30.09.2028 | Rohdaten ABDAMED |  |
 
+Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2401/36/608
 
 Y/400/2405/38/759 31.12.2026
@@ -641,6 +675,8 @@ S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Wein
 |  | Y/400/2510/36/458 | 30.09.2028 | Rohdaten MMI |  |
 |---|---|---|---|---|
 |  | Y/400/2604/36/498 | 31.03.2029 | Rohdaten MMI |  |
+
+Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 Y/400/2410/36/171
 
@@ -676,6 +712,8 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |---|---|---|---|---|
 |  | Y/400/2604/36/457 | 31.03.2029 | Rohdaten MMI |  |
 
+Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
+
 Y/400/2504/36/313
 
 X/400/2410/36/376 31.03.2028
@@ -709,7 +747,7 @@ data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de
 
 Y/400/2510/36/768 30.09.2028 Rohdaten MMI
 
-Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 25. Juli 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 01. August 2026
 
 **unterstützte** **Betriebssysteme**
 

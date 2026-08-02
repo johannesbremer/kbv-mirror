@@ -18,6 +18,10 @@ Richtlinie    Anweisung    Vereinbarung    Bericht  in Kraft  nur zum internen G
 
 1 Inhaltsangabe ......................................................................................................................................... 2  2 Versionshistorie ...................................................................................................................................... 3  3 Kontakt ................................................................................................................................................... 3  4 Vorbemerkungen .................................................................................................................................... 4  4.1 Rechtliche Verankerung der Sammelerklärung ............................................................................. 4  4.2 Definition der Erklärenden ............................................................................................................. 4  4.3 Mitgeltende Dokumente ................................................................................................................. 5  5 Technische Beschreibung ...................................................................................................................... 6  5.1 Aufbau der Sammelerklärung ........................................................................................................ 6  5.2 Ausfüllhinweise zum header-Bereich ............................................................................................. 7  5.2.1 header/id .............................................................................................................................. 7  5.2.2 header/service_tm ................................................................................................................ 7  5.2.3 header/origination_dttm ........................................................................................................ 7  5.2.4 header/provider .................................................................................................................... 7  5.2.4.1 header/provider/person ........................................................................................................ 8  5.2.4.2 header/provider/organisation ................................................................................................ 8  5.3 Ausfüllhinweise zum body-Bereich ................................................................................................ 9  6 Erzeugung einer Sammelerklärung im PDF/A-1b Format ..................................................................... 10  6.1 Vorgehensweise zur Erstellung einer Sammelerklärung im PDF/A-1b Format ............................ 11  6.2 Unterschiede zwischen PDF und PDF/A ..................................................................................... 11
 
+Spezifikation eSE - elektronische Sammelerklärung
+
+Seite 2 von 11
+
 
 ---
 
@@ -43,8 +47,11 @@ Allgemeiner Hinweis: Zur Vereinfachung der Lesbarkeit wird in diesem Dokument di
 Für technische oder inhaltliche Fragen wenden Sie sich bitte an
 
 -  [Udo Karlins, E-Mail:](mailto:portal@kvsh.de)[portal@kvsh.de](mailto:portal@kvsh.de) Telefon: 04551 883 281
+-  [Patrick Prieß, E-Mail:](mailto:portal@kvsh.de)[portal@kvsh.de](mailto:portal@kvsh.de) Telefon: 04551 883 640
 
-KV Nordrhein -  [Patrick Prieß, E-Mail:](mailto:portal@kvsh.de)[portal@kvsh.de](mailto:portal@kvsh.de) Telefon: 04551 883 640
+Spezifikation eSE - elektronische Sammelerklärung
+
+KV Nordrhein Seite 3 von 11
 
 
 ---
@@ -84,6 +91,10 @@ Wer hat eine Sammelerklärung einzureichen:
 
 Die Sammelerklärung ist für die jeweilige Hauptbetriebsstätten einzureichen und beinhalten die jeweilige(n)  Nebenbetriebsstätte(n).
 
+Spezifikation eSE - elektronische Sammelerklärung
+
+Seite 4 von 11
+
 
 ---
 
@@ -95,6 +106,10 @@ Basis für den Aufbau der Sammelerklärung ist die Schnittstellenbeschreibung �
 
 Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der KVSH gefordert werden und  sich in der genannten Schnittstelle wiederfinden.
 
+Spezifikation eSE - elektronische Sammelerklärung
+
+Seite 5 von 11
+
 
 ---
 
@@ -104,8 +119,14 @@ Das vorliegende Dokument führt lediglich die Strukturelemente auf, die von der 
 
 Folgende XML-Elemente werden für die Sammelerklärung benötigt
 
+Spezifikation eSE - elektronische Sammelerklärung
+
+Seite 6 von 11
+
 
 ---
+
+Spezifikation eSE - elektronische Sammelerklärung
 
 ## 5.2 Ausfüllhinweise zum header-Bereich
 
@@ -160,8 +181,12 @@ wird das Erstellungsdatum der Sammelerklärung angegeben.
 
 werden die benötigten Angaben zur erklärenden Person sowie
 
+Seite 7 von 11
+
 
 ---
+
+Spezifikation eSE - elektronische Sammelerklärung
 
 ### 5.2.4.1 header/provider/person
 
@@ -218,11 +243,18 @@ werden die benötigten Angaben zur erklärenden Person sowie
 </ehd:organization>
 ```
 
+Seite 8 von 11
+
+
 ---
 
 ## 5.3 Ausfüllhinweise zum body-Bereich
 
 Es werden keine Informationen aus dem body-Bereich verwendet.
+
+Spezifikation eSE - elektronische Sammelerklärung
+
+Seite 9 von 11
 
 
 ---
@@ -231,8 +263,14 @@ Es werden keine Informationen aus dem body-Bereich verwendet.
 
 Nachfolgende Skizze gibt einen beispielhaften Überblick zur Vorgehensweise:
 
+Spezifikation eSE - elektronische Sammelerklärung
+
+Seite 10 von 11
+
 
 ---
+
+Spezifikation eSE - elektronische Sammelerklärung
 
 ## 6.1 Vorgehensweise zur Erstellung einer Sammelerklärung im PDF/A-1b Format
 
@@ -254,3 +292,5 @@ Das zu erzeugende PDF/A-1b Dokument unterscheidet sich in zwei Ausprägungen bez
 - 2) Zum anderen sind die verwendeten Schriftarten in das zu erstellende PDF-Dokument  einzubetten. Im Stylesheet **kvshSammelFOfuerPDFA-1b.xsl** sind dies die Schriftart arial mit  den Eigenschaften „normal“ und „fett“ sowie die Schriftart code39 und code39u.
 
 Sind diese beiden Bedingungen erfüllt, wird das Dokument als PDF/A Dokument erkannt.
+
+Seite 11 von 11

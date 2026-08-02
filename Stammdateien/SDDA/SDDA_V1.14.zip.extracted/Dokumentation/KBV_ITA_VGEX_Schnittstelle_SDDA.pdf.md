@@ -11,9 +11,12 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-stellen-Stammdatei (SDDA) 1.14 Datum: 22.11.2024 Kennzeichnung: Öffentlich Status: In Kraft
+stellen-Stammdatei (SDDA) 1.14 Datum: 22.11.2024 Kennzeichnung: Öffentlich Status: In Kraft © Kassenärztliche Bundesvereinigung, Berlin 2024
+
 
 ---
+
+**IT in der Arztpraxis** Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 ### DOKUMENTENHISTORIE
 
@@ -25,9 +28,14 @@ stellen-Stammdatei (SDDA) 1.14 Datum: 22.11.2024 Kennzeichnung: Öffentlich Stat
 | 1.09 | 24.04.2015 | KBV | Element  Entfernung der Diagram- Entfernung des Ab- Anpassung der Version | Datenannahmestellen  Das Element  Verbesserung der Konsis- | **31** **32** **23** |
 | 1.08 | 09.08.2012 | KBV | Red. Änderungen |  |  |
 
-kim_email können auch über KIM hinzugefügt erreicht werden tes d2d_kennung nung der Kapitel Paket Version einheitlich USE  existiert nicht für Element telecom für Element telecom kv_connect können auch über KV- hinzugefügt Connect erreicht werden ser- Erläuterung für Element vice_tmr  wird als optio- service_tmr nales Element in ver- schiedenen Elementen verwendet schnitts Schlüsseltabellen tenz
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+kim_email können auch über KIM hinzugefügt erreicht werden tes d2d_kennung nung der Kapitel Paket Version einheitlich USE  existiert nicht für Element telecom für Element telecom kv_connect können auch über KV- hinzugefügt Connect erreicht werden ser- Erläuterung für Element vice_tmr  wird als optio- service_tmr nales Element in ver- schiedenen Elementen verwendet schnitts Schlüsseltabellen tenz Seite 2 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 ### INHALTSVERZEICHNIS
 
@@ -49,14 +57,25 @@ TABELLENVERZEICHNIS ___________________________________________________ 6
 
 **5 HEADER (METADATEN) _________________________________________________ 9** **5.1 id (Dokument-ID) ........................................................................................................................... 9** **5.2 document_type_cd (Bezeichnung des Datentyps) .................................................................. 10** **5.3 service_tmr (Gültigkeitszeitraum) ............................................................................................. 11** **5.4 origination_dttm (Erstellungsdatum) ........................................................................................ 11** **5.5 provider (Lieferant/Sender) ........................................................................................................ 11** 5.5.1 provider.type_cd (Sendertypen) .......................................................................................... 13 5.5.2 function_cd (Rolle/Funktion des Senders) .......................................................................... 13 5.5.3 participation_tmr (Zeitraum/Zeitpunkt der Teilnahme) ........................................................ 13 5.5.4 person (Personendaten) ...................................................................................................... 13 *5.5.4.1 id (Personidentifikation) ........................................................................................ 15* *5.5.4.2 person_name (Name der Person) ........................................................................ 15* *5.5.4.3 organization.nm (Name der Organisation) ........................................................... 17* *5.5.4.4 addr (Adresse) ...................................................................................................... 17* *5.5.4.5 telecom (Kommunikationsmöglichkeiten) ............................................................. 19* *5.5.4.6 local_header (Platz für lokale Elementdefinitionen) ............................................. 19* 5.5.5 organization (Organisationsdaten) ...................................................................................... 20 *5.5.5.1 id (Organisationsidentifikation) ............................................................................. 21* *5.5.5.2 organization.nm (Name der Organisation) ........................................................... 21* *5.5.5.3 addr (Adresse) ...................................................................................................... 21* *5.5.5.4 telecom (Kommunikationsmöglichkeiten) ............................................................. 22* *5.5.5.5 local_header (Platz für lokale Elementdefinitionen) ............................................. 22* 5.5.6 local_header (Platz für lokale Elementdefinitionen) ............................................................ 22
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 3 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 **5.6** **interface (Beschreibung der Schnittstelle) ............................................................................... 22** 5.6.1 id (Identifikation der Schnittstelle)........................................................................................ 22 5.6.2 interface.nm (Name der Schnittstelle) ................................................................................. 23 5.6.3 version (Versionsnummer der Schnittstelle) ........................................................................ 23
 
 **6 BODY (DATENBEREICH) _______________________________________________ 25** **6.1 datenannahmestellen_liste ........................................................................................................ 25** 6.1.1 person .................................................................................................................................. 25 *6.1.1.1 person_name ........................................................................................................ 26* *6.1.1.2 addr ....................................................................................................................... 26* *6.1.1.3 telecom ................................................................................................................. 26* 6.1.2 organization ......................................................................................................................... 26 *6.1.2.1 id ........................................................................................................................... 27* *6.1.2.2 organization.nm* *.................................................................................................... 27* *6.1.2.3 addr ....................................................................................................................... 28* *6.1.2.4 telecom ................................................................................................................. 28* 6.1.3 local_header ........................................................................................................................ 28 *6.1.3.1 kv_bereich_liste .................................................................................................... 28* *6.1.3.2 kv_bereich ............................................................................................................ 29* *6.1.3.3 service_tmr ........................................................................................................... 32*
 
 **7 REFERENZIERTE DOKUMENTE _________________________________________ 33**
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 4 von 33
+
 
 ---
 
@@ -76,6 +95,13 @@ Abbildung 6 <organization>......................................................
 
 Abbildung 7 <interface> ........................................................................................................... 22
 
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 5 von 33
+
+
 ---
 
 #### TABELLENVERZEICHNIS
@@ -84,7 +110,16 @@ Tabelle 1  Erläuterungen PFX ..................................................
 
 Tabelle 2  Erläuterung zu Kommunikationsmöglichkeiten ...................................................... 19
 
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 6 von 33
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 # 1 Einleitung
 
@@ -134,6 +169,8 @@ sdda_01.00_kbv.xml
 
 Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea-der“ und „body“, wie es in Abbildung 1
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
 # Element)
 
 erfolgt
@@ -154,8 +191,12 @@ als Vorsatz erlaubt;
 
 Daten geliefert;  *<organization>* des Header-
 
+Seite 7 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden die eigentli-chen Daten hinterlegt.
 
@@ -181,7 +222,14 @@ Hier liegen die eigentlichen Inhalte der Datenlieferung. In diesem Bereich kann 
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben:„***urn:ehd/001***
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 8 von 33
+
+
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 # 5 header (Metadaten)
 
@@ -202,10 +250,18 @@ Das Element hat folgenden Aufbau:
 | attributes | Name    Type    Use    Default    Fixed    Annotation  EX   **xs:string ** optional               RT   **xs:string ** required               RTV   **xs:string ** optional |
 | example | <ehd:id EX="1100" RT="1.2.276.0.76.3.1.1"/> |
 
-EX: („extension“=“Erweiterung“ zu dem RT EX-Attribut einen Identifikator, der die betreffende XML-Datei eindeutig identifiziert. Je--Attribut) Das Element ***<id>*** enthält in seinem
+EX: („extension“=“Erweiterung“ zu dem RT EX-Attribut einen Identifikator, der die betreffende XML-Datei eindeutig identifiziert. Je-
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14 -Attribut) Das Element
+
+***<id>*** enthält in seinem
+
+Seite 9 von 33
 
 
 ---
+
+**IT in der Arztpraxis** Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 RT:
 
@@ -254,12 +310,18 @@ SV: Version der Schlüsseltabelle, wenn die Schlüsseltabelle geändert bzw. erg
 
 Bei dem Element <document_type_cd> wird im V-Attribut das Kürzel (Kode) der Schnittstelle  bzw. Satzart eingetragen, im S-Attribut steht die Schlüsseltabelle, in der alle Kodes verwaltet  werden.
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
 . Gemäß der Namenskonvention haben Elemente,
 
 ab-
 
+Seite 10 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 ## 5.3 service_tmr (Gültigkeitszeitraum)
 
@@ -315,6 +377,8 @@ Bei dieser Datei SDDA handelt es sich hierbei um die KBV.
 
 Das Element hat folgenden Aufbau:
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
 YYYY-MM-DD..YYYY-MM-
 
 YYYY-MM-DD“ angegeben.
@@ -327,8 +391,12 @@ DD“ ange-
 
 (Urheber) fehlt.
 
+Seite 11 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 | diagram |  |
 |---|---|
@@ -348,6 +416,8 @@ DD“ ange-
 
 In der Stammdatei SDDA wird nur das Element organization benutzt.
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
 Der Sender kann einem Typ („Labore“, „Datenannahmestellen“)  zugeordnet werden. Der Typ wird in diesem Kode-Element fest-gelegt.
 
 Die genauere Rolle/Funktion des Senders („Datenausgang“) wird  in diesem Kode-Element beschrieben.
@@ -364,10 +434,14 @@ an der Entste-
 
 5.5.4
 
-" S=" " SV=" "/> " DN="..."/> "/> 5.5.5
+5.5.5
+
+" S=" " SV=" "/> " DN="..."/> "/> Seite 12 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 ### 5.5.1 provider.type_cd (Sendertypen)
 
@@ -403,8 +477,14 @@ Generell können Personendaten in diesem Element untergebracht werden. Dieses El
 
 Das Element hat folgenden Aufbau:
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 13 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 **Abbildung 2 <person>**
 
@@ -449,6 +529,10 @@ Das Element hat folgenden Aufbau:
 </nm>
 
 </person_name>
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 14 von 33
 
 
 ---
@@ -499,8 +583,16 @@ b) Um nach mehreren Schlüsseltabellenänderungen noch klären zu können, wann 
 
 ### Die Namensbestandteile der Person werden im Unterelement <nm> angegeben.
 
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 15 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 **Abbildung 3 <person_name>**
 
@@ -532,6 +624,10 @@ Das Element hat folgende Attribute:
 
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string    required               QUAL    xs:NMTOKENS    optional |
 |---|---|
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 16 von 33
 
 
 ---
@@ -583,10 +679,18 @@ V: hier wird der Wert eingetragen
 
 #### 5.5.4.4 addr (Adresse)
 
-Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) Die Adresse wird in diesem Element erfasst.
+Die Adresse wird in diesem Element erfasst.
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) Seite 17 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 **Abbildung 4 <addr>**
 
@@ -644,10 +748,16 @@ Element hat fol-
 
 </addr>
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
 **XML-Code 8** /ehd/header/intended_recipient/person/addr
+
+Seite 18 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 #### 5.5.4.5 telecom (Kommunikationsmöglichkeiten)
 
@@ -691,6 +801,10 @@ render: In diesem Attribut wird vorgegeben, wie die Inhalte durch Anwendungen (z
 
 Die Grundstruktur des ***<local_header>***-Elements:
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 19 von 33
+
 
 ---
 
@@ -724,8 +838,16 @@ Generell können Organisationsdaten in diesem Element untergebracht werden. Dies
 
 Angabe zu der Adresse, in der die Organisation den Sitz hat. (siehe  5.5.4.4
 
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 20 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 ***<telecom>***
 
@@ -797,12 +919,18 @@ V: hier wird der Wert eingetragen
 
 Siehe 5.5.4.4
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
 . Im EX- und RT-Attribut kann eine
 
 - Element anzugeben, entfällt.
 
+Seite 21 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 #### 5.5.5.4 telecom (Kommunikationsmöglichkeiten)
 
@@ -861,6 +989,10 @@ Das Element hat folgende Attribute:
 
 . Im EX- und RT-Attribut kann eine
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 22 von 33
+
 
 ---
 
@@ -907,6 +1039,12 @@ V: hier wird der Wert eingetragen
 
 **XML-Code 16** /ehd/header/interface/version
 
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 23 von 33
+
 
 ---
 
@@ -915,8 +1053,12 @@ V: hier wird der Wert eingetragen
 | Schnittstelle | | Datenannahmestellen-Stammdatei (SDDA) |
 |  | KBV_ITA_VGEX_Schnittstelle_SDDA | * Version 1.14 |
 
+IT in der Arztpraxis Schnittstelle Datenannahmestellen-Stammdatei (SDDA) KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14Seite 24 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 # 6 body (Datenbereich)
 
@@ -958,13 +1100,16 @@ einschränkende Informationen
 
 Das Element <person> stellt den Ansprechpartner der Datenannahmestelle dar. Der Inhalt  dieses Elements ist wie in der folgenden Abbildung dargestellt, aufgebaut.
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
 Strukturen definieren. Der Namensraum ist
 
 umschließt die einzelnen Datenannahmestellen-
 
 ***Datenannahmestellen-Stammsatz***
 
-Rahmen
+RahmenSeite 25 von 33
+
 
 ---
 
@@ -1006,7 +1151,13 @@ um die „reinen“ Kon-
 
 Das Element <organization> enthält die vollständige Adressierung der Datenannahmestelle.  Der Aufbau entspricht dem folgenden Beispiel.
 
-Rahmen **element** datenannahmestellen_liste/intended_recipient/organization
+**element** datenannahmestellen_liste/intended_recipient/organization
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Rahmen Seite 26 von 33
 
 
 ---
@@ -1040,10 +1191,18 @@ Im Attribut RT dieses Elementes steht das Institutionskennzeichen der Datenannah
 
 In diesem Element steht der Name der Datenannahmestelle.
 
-Rahmen **element** datenannahmestellen_liste/intended_recipient/organization/organization.nm
+**element** datenannahmestellen_liste/intended_recipient/organization/organization.nm
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Rahmen Seite 27 von 33
 
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 | diagram |  |
 |---|---|
@@ -1085,6 +1244,10 @@ In diesem Element wird eine Liste der KV-Bereiche angegeben, für welche diese D
 |---|---|
 | example | <kv_bereich_liste>      <kv_bereich V="55" S="1.2.276.0.76.5.233">          ...      </kv_bereich>      <kv_bereich V="60" S="1.2.276.0.76.5.233">          ...      </kv_bereich>  </kv_bereich_liste> |
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 28 von 33
+
 
 ---
 
@@ -1117,6 +1280,12 @@ Dieses Element gibt den DMP an, für welchen die Datenannahmestelle in dem angeg
 | example | <dmp_liste>      <dmp V="1" S="1.2.276.0.76.5.223">          ...      </dmp>      <dmp V="2" S="1.2.276.0.76.5.223">          ...      </dmp>  </dmp_liste> |
 
 Als Unterelement des DMP existiert ein Element <kostentraeger_gruppe_liste>.
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 29 von 33
 
 
 ---
@@ -1153,6 +1322,12 @@ In diesem Element wird im V-Attribut die zur Datenannahmestelle entsprechende D2
 |---|---|
 | example | <kv_bereich V="55" S="1.2.276.0.76.5.233">          ...  <d2d_kennung V="0180249"/>  </kv_bereich> |
 
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 30 von 33
+
 
 ---
 
@@ -1182,8 +1357,16 @@ Sofern eine Datenstelle die Annahme über KIM anbietet, wird erwartet, dass die 
 
 Das Element <kim_email> hat als optionales Kindelement <service_tmr> (gemäß Kapitel 5.3
 
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 31 von 33
+
 
 ---
+
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
 
 #### 6.1.3.3 service_tmr
 
@@ -1195,6 +1378,10 @@ Mit Hilfe dieses Elementes wird der Zeitraum der Existenz der Datenannahmestelle
 |---|---|
 | example | <kostentraeger_gruppe V="11" S="1.2.276.0.76.5.240">      <service_tmr V="..2005-08-21"/>  </kostentraeger_gruppe> |
 
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Seite 32 von 33
+
 
 ---
 
@@ -1205,4 +1392,8 @@ Mit Hilfe dieses Elementes wird der Zeitraum der Existenz der Datenannahmestelle
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Header für elektronische Dokumentation Volldatensatz / a- |
 | [eDMP 1.0] | Spezifikation eDMP über KIM der kv.digital    https://partnerportal.kv- |
 
-Datensatz Schnittstellenbeschreibung telematik.de/display/KDK/Dokumente+zum+Download
+**IT in der Arztpraxis**  Schnittstelle Datenannahmestellen-Stammdatei (SDDA)
+
+KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
+
+Datensatz Schnittstellenbeschreibung telematik.de/display/KDK/Dokumente+zum+DownloadSeite 33 von 33

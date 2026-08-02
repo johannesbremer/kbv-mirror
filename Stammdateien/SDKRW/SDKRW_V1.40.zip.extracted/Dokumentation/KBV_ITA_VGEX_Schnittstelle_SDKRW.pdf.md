@@ -15,7 +15,9 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_SDKRW]
 
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
+Seite 1 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   2021
 
 
 ---
@@ -167,7 +169,13 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 5.30 vorschlag
 
-Kardinalität 32
+32
+
+Seite 2 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk 2021
+
+-Stammdatei) / Version: 1.40 / 15. November
+
+Kardinalität 
 
 
 ---
@@ -187,6 +195,10 @@ Kardinalität 32
 **6** **REFERENZIERTE DOKUMENTE**
 
 **35**
+
+Seite 3 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk 2021
+
+-Stammdatei) / Version: 1.40 / 15. November
 
 ---
 
@@ -262,6 +274,9 @@ Kardinalität 32
 
 **ABBILDUNG 35:** KURZ_BESCHREIBUNG ........................................................................................................................... 34
 
+Seite 4 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
+
 ---
 
 ## TABELLENVERZEICHNIS
@@ -293,6 +308,9 @@ Kardinalität 32
 **TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRITERIUM .............................................................................. 30
 
 **TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL> ................................................................................................. 34
+
+Seite 5 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -366,6 +384,9 @@ Kardinalität 32
 
 **XML-CODE 34:** KURZ_BESCHREIBUNG ............................................................................................................................. 34
 
+Seite 6 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
+
 ---
 
 # DOKUMENTENHISTORIE
@@ -377,7 +398,9 @@ Kardinalität 32
 | 1.40 | 07.09.2021 | KBV | Aufnahme des Elementes | Element wurde in der | 14,  34 |
 | 1.40 | 19.04.2021 | KBV | Überarbeitung der KRW- |  | alle |
 
-Elemente <subbedingung> und <subpruefung> Hinweises bei dem Element <existenz> <echtzeitpruefung> aufgenommen <subbedingung> und <subpruefung> <kurz_beschreibung> Schnittstellenbeschreibung nicht aufgeführt Schnittstelle 
+Seite 7 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+Elemente <subbedingung> und <subpruefung> Hinweises bei dem Element <existenz> <echtzeitpruefung> aufgenommen <subbedingung> und <subpruefung> <kurz_beschreibung> Schnittstellenbeschreibung nicht aufgeführt Schnittstelle 2021
 
 
 ---
@@ -428,6 +451,8 @@ du+ ............ dummy – optionaler Platzhalter z.B. für Tests, kann auch meh
 
 krw_1.40_74_tf+2022q1_nr+1_du+KRWBeispieldatei.xml
 
+Seite 8 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -458,14 +483,17 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:**
 
+Seite 9 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
+
 Beschreibung der Kardinalitäten eines XML-Elements
 
 ### Strukturelemente
 
 ***<xs:choice>*** und ***<xs:sequence>***
 
-Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis  (unbounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen. Beschreibung der Strukturelement-Symbole
+Beschreibung der Strukturelement-Symbole
 
+Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis  (unbounded) reichen. <xs:choice> zeigt an, dass zwischen verschiedenen Kindelementen genau eins ausgewählt werden muss. <xs:sequence>  beschreibt, dass die Kindelemente in festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
@@ -484,7 +512,9 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 Beschreibung sonstiger Symbole
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 
+Seite 10 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. 2021
 
 
 ---
@@ -528,6 +558,8 @@ ehd_version:
 
 Der Namensraum für die ehd-Schnittstelle ist zwingend vorgeschrieben: „
 
+Seite 11 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
+
 Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des  verwendeten ehd-Schemas angeben. Der Wertebereich wird auf 0.00 bis 99.99 festgelegt,  anderenfalls wird der Parser Fehler melden.
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.
@@ -567,6 +599,8 @@ Zur eindeutigen Kennzeichnung der Stammdatei beinhaltet das id-Element eine eind
 
 ***<interface>*** Enthält Informationen zur Schnittstelle, insbesondere Name und Versionsangabe.
 
+Seite 12 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -601,10 +635,16 @@ Der XML-Code für das Element <kodierregel_liste> hat folgenden Aufbau:
 
 Das Element <kodierregel> repräsentiert stets eine fachliche Kodierregel, dabei enthält es Informationen  zur Identifikation der Regel, zur fachlichen Beschreibung, Einordnung des fachlichen Ursprungs sowie den  zu prüfenden Sachverhalt und die möglichen Korrekturschritte.
 
+Seite 13 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
 **Abbildung 4:** kodierregel
+
+Seite 14 von 35 / KBV /  2021
+
+Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
 
 ---
 
@@ -656,6 +696,8 @@ V: Enthält einen Identifikator, um die Kodierregel innerhalb der Stammdatei ein
 
 Das Element <service_tmr> gibt die Gültigkeit einer Kodierregel im Format „JJJJ-MM-TT..JJJJ-MM-TT“ an.
 
+Seite 15 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -703,6 +745,8 @@ V: Beinhaltet die fachliche Beschreibung der Kodierregel.
 
 Das Element <regelkategorie> beschreibt fachlich, um welche Art von Regel es sich handelt bzw. zu  welchem Zeitpunkt sie eingesetzt werden soll.
 
+Seite 16 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -741,8 +785,11 @@ Der XML-Code für das Strukturelement <regelquelle_liste> hat folgenden Aufbau:
 
 ## 5.8 REGELQUELLE
 
-Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.50 ) bezieht sich auf das aktuelle Quartal und Zeitraum, inklusive des aktuellen Quartals und wird durch einen ICD-Kode ausgelöst Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die Kodierregel ableiten  lässt.
+Das Element <regelquelle> beinhaltet die Information aus welcher Quelle sich die Kodierregel ableiten  lässt.
 
+Seite 17 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
+
+Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.50 ) bezieht sich auf das aktuelle Quartal und Zeitraum, inklusive des aktuellen Quartals und wird durch einen ICD-Kode ausgelöst
 
 ---
 
@@ -788,6 +835,8 @@ Der XML-Code für das Strukturelement <regelthema_liste> hat folgenden Aufbau:
 
 **XML-Code 10:** regelthema_liste
 
+Seite 18 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
+
 Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.51 ) Vertreterversammlung (§ 295 Abs. 4 SGB V) Grundlage für die Regel sind die
 
 ---
@@ -798,7 +847,10 @@ Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.51 ) Vertreterversammlung (§ 2
 |  | zu entnehmen sind. | DN: |
 | S: |  | **5.11** |
 
-REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welches den fachlichen Hintergrund der Kodierregel beschreibt.  Der XML-Code für das Element <regelthema> hat folgenden Aufbau: IX: Krankheiten des Kreislaufsystems S="" 1.2.276.0.76.3.1.1.5.2.55 /> XML-Code 11: V: Das V-Attribut beinhaltet die Zahlenwerte, die der Schlüsseltabelle (S="1.2.276.0.76.3.1.1.5.2.55“) Das DN-Attribut enthält den Bezeichner. Mit dem optionalen S-Attribut wird auf die OID der jeweiligen Schlüsseltabelle referenziert, auf die sich die Werte aus V beziehen.  REGELANWENDUNG Das Element <regelanwendung> legt fest, ob eine Kodierregel verpflichtend vom Softwaresystem bzw. vom Anwender anzuwenden ist oder ob sie bei Bedarf vom Anwender deaktiviert werden kann. Abbildung 13:  regelanwendung Der XML-Code für das Element <regelanwendung> hat folgenden Aufbau: <regelanwendung V="1" DN="Obligate Regel" S="" 1.2.276.0.76.3.1.1.5.2.52 /> XML-Code 12:  regelanwendung (S="" 1.2.276.0.76.3.1.1.5.2.52 )
+Seite 19 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welches den fachlichen Hintergrund der Kodierregel beschreibt.  Der XML-Code für das Element <regelthema> hat folgenden Aufbau: IX: Krankheiten des Kreislaufsystems S="" 1.2.276.0.76.3.1.1.5.2.55 /> XML-Code 11: V: Das V-Attribut beinhaltet die Zahlenwerte, die der Schlüsseltabelle (S="1.2.276.0.76.3.1.1.5.2.55“) Das DN-Attribut enthält den Bezeichner. Mit dem optionalen S-Attribut wird auf die OID der jeweiligen Schlüsseltabelle referenziert, auf die sich die Werte aus V beziehen.  REGELANWENDUNG Das Element <regelanwendung> legt fest, ob eine Kodierregel verpflichtend vom Softwaresystem bzw. vom Anwender anzuwenden ist oder ob sie bei Bedarf vom Anwender deaktiviert werden kann. Abbildung 13:  regelanwendung Der XML-Code für das Element <regelanwendung> hat folgenden Aufbau: <regelanwendung V="1" DN="Obligate Regel" S="" 1.2.276.0.76.3.1.1.5.2.52 /> XML-Code 12:  regelanwendung (S="" 1.2.276.0.76.3.1.1.5.2.52 )2021
+
 
 ---
 
@@ -815,6 +867,8 @@ REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welche
 | **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 | 1 | | |
 
+Seite 20 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
+
 Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.  Abbildung 14:  bezugsraum Hinweis: Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein) erfolgen. Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="7" DN="" Behandlungsfall  bezugsraum S=""/> 1.2.276.0.76.3.1.1.5.2.18 (S="" 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann Fachliche Bedeutung; OID ( S="" 1.2.276.0.76.3.1.1.5.2.18 )
 
 ---
@@ -827,6 +881,8 @@ Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das
 | der retrospektiv zu prüfenden Quartale wird mit | | |
 
 **XML-Code 15:** echtzeitpruefung_liste
+
+Seite 21 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
 
 Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" 1.2.276.0.76.3.1.1.5.2.18 > <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" 1.2.276.0.76.3.1.1.5.2.54 /> echtzeitpruefung_liste Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt
 
@@ -860,7 +916,10 @@ Das Element <pruefgrundlage_liste> gruppiert eine beliebige Liste von den Elemen
 
 **Abbildung 18:** pruefgrundlage_liste
 
-(S="" 1.2.276.0.76.3.1.1.5.2.54 ) Abrechnungsunterlagen Zeitpunkt  Bei Behandlungsfallbezogenen Kodierregeln wird dieser Wert nicht verwendet.
+Seite 22 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+(S="" 1.2.276.0.76.3.1.1.5.2.54 ) Abrechnungsunterlagen Zeitpunkt  Bei Behandlungsfallbezogenen Kodierregeln wird dieser Wert nicht verwendet.  2021
+
 
 ---
 
@@ -891,6 +950,8 @@ Der XML-Code für das Element <pruefgrundlage> hat folgenden Aufbau:
 | 3 | Behandelte Patienten im Quartal | Prüfung, aller Patienten derselben Arztpraxis,   |
 
 **Tabelle 9:** Zulässige Werte für das Element pruefgrundlage
+
+Seite 23 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
 
 (S="" 1.2.276.0.76.3.1.1.5.2.53 ) nur in Verbindung mit quartalsübergreifender Prüfung Dieser Parameter muss laut Anforderungskatalog derzeit nicht umgesetzt werden  die im zu prüfenden Quartal behandelt wurden nur in Verbindung mit quartalsübergreifender Prüfung
 
@@ -927,6 +988,8 @@ Das Element <parameter> beschreibt den Elementtyp der Value’s.
 
 Innerhalb einer Bedingung kann genau nur ein Parametertyp definiert werden. Werden in einer Kodierregel  unterschiedliche Parametertypen benötigt, dann werden diese jeweils durch separate Subbedingungen  dargestellt.
 
+Seite 24 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -958,7 +1021,10 @@ Der XML- Code für das optionale Element <operator> hat folgenden Aufbau:
 
 **XML-Code 21:** operator
 
-1.2.276.0.76.3.1.1.5.2.16 ) KVDT
+Seite 25 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+1.2.276.0.76.3.1.1.5.2.16 ) KVDT2021
+
 
 ---
 
@@ -996,6 +1062,8 @@ Der XML-Code für das Element <existenz> hat folgenden Aufbau:
 **Hinweis:**
 
 Im Rahmen von Bedingungen ist dieser Parameter in der Regel auf „TRUE“ gesetzt, da ein Kode,  der die Kodierregel auslösen soll, erst einmal vorhanden sein muss. In Kombination mit mehreren  (Sub-)Bedingungen kann der Parameter „existenz“ aber auch den Wert „FALSE“ annehmen.
+
+Seite 26 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
 
 V="" ... der Elemente in der Value-Liste voraus der Elemente in der Value-Liste voraus V="" ... Value-Elemente Value-Elemente
 
@@ -1049,6 +1117,8 @@ Der XML-Code für ein Element <value> könnte folgendermaßen aussehen:
 
 **XML-Code 24:** ICD-Code mit Diagnosensicherheit als Zusatzbedingung
 
+Seite 27 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -1084,6 +1154,8 @@ Das Element <pruefung> hält mit seinen Kindelementen <parameter>, <operator>, <
 Das Element <pruefung> ähnelt im Aufbau und der Struktur dem Element <bedingung>. Mit der Ausnahme,  dass es statt dem Element <subbedingung > das Element <subpruefung > und statt dem Element <existenz>  das Element <pruefung_existenz> enthält. Alle weiteren Kindelemente sind analog zu Kapitel 5.19 bis 5.23
 
 zu verwenden.
+
+Seite 28 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
 
 
 ---
@@ -1128,6 +1200,8 @@ Der XML-Code für das Element <pruefung_existenz> hat folgenden Aufbau:
 
 **XML-Code 27:** pruefung_existenz
 
+Seite 29 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -1164,7 +1238,11 @@ Der XML-Code für ein Element <subpruefung> hat folgenden Aufbau:
 
 Das Element <fehlerbehandlung> ist ein Strukturelement, welches die notwendigen Informationen,  Hinweise und Vorschläge zur Fehlerbehandlung beinhaltet.
 
-V="" ... prüft auf Existenz der Value- prüft auf Fehlen der Value-Die Abarbeitung dieser Struktur setzt zwei Verarbeitungsschritte voraus:
+Die Abarbeitung dieser Struktur setzt zwei Verarbeitungsschritte voraus:
+
+Seite 30 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+V="" ... prüft auf Existenz der Value- prüft auf Fehlen der Value-2021
 
 
 ---
@@ -1201,6 +1279,8 @@ Der XML-Code für das Element <hinweis> sieht wie folgt aus:
 
 **XML-Code 30:** hinweis
 
+Seite 31 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -1228,6 +1308,8 @@ Durch das Element <korrektur> wird eine Struktur bereitgestellt, welche die mög
 
 Der XML-Code für die Struktur <korrektur> hat folgenden Aufbau:
 
+Seite 32 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+
 
 ---
 
@@ -1238,8 +1320,11 @@ Der XML-Code für die Struktur <korrektur> hat folgenden Aufbau:
 | **<parameter V="ICD" S="1.2.276.0.76.3.1.1.5.2.16"/>** | **DELETE** |
 |  |  |
 
-<korrektur> <regel V=" <value_liste>  ... </value_liste> <subkorrektur>         ...    </subkorrektur> </korrektur> XML-Code 32:  korrektur <parameter>: <regel>: <value_liste>: <subkorrektur>: 5.32 REGEL Das Element <regel> beschreibt die Korrekturmaßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen. Definiert den Parametertyp der value Liste (siehe Kapitel 5.19 Das Element <regel> beschreibt die Korrektur-Maßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen (siehe Kapitel 5.32 Klammerelement für die zur Auswahl gestellten Korrektur- 5.22 Analog zur <subbedingung> und <subpruefung> bestehend aus den Elementen <parameter> und <value_liste> (siehe Kapitel 5.19  und 5.22 Abbildung 34:  regel Der XML-Code für das Element <regel>: <regel V="ADD"/> XML-Code 33:  regel Für das V-Attribut sind folgende zulässige Inhalte definiert: V="" ... Dokumentation zu ergänzen vom Anwender ergänzt werden. Wert aus der Ergebnisanzeige entfernt werden kann.  values (siehe Kapitel
+values (siehe Kapitel
 
+Seite 33 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
+
+<korrektur> <regel V=" <value_liste>  ... </value_liste> <subkorrektur>         ...    </subkorrektur> </korrektur> XML-Code 32:  korrektur <parameter>: <regel>: <value_liste>: <subkorrektur>: 5.32 REGEL Das Element <regel> beschreibt die Korrekturmaßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen. Definiert den Parametertyp der value Liste (siehe Kapitel 5.19 Das Element <regel> beschreibt die Korrektur-Maßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen (siehe Kapitel 5.32 Klammerelement für die zur Auswahl gestellten Korrektur- 5.22 Analog zur <subbedingung> und <subpruefung> bestehend aus den Elementen <parameter> und <value_liste> (siehe Kapitel 5.19  und 5.22 Abbildung 34:  regel Der XML-Code für das Element <regel>: <regel V="ADD"/> XML-Code 33:  regel Für das V-Attribut sind folgende zulässige Inhalte definiert: V="" ... Dokumentation zu ergänzen vom Anwender ergänzt werden. Wert aus der Ergebnisanzeige entfernt werden kann.
 
 ---
 
@@ -1266,7 +1351,9 @@ Der XML-Code für das Element <kurz_beschreibung>:
 
 **XML-Code 34:** kurz_beschreibung
 
-V="" ... Ersetzen einer identifizierten Diagnose verwendet werden.  
+Seite 34 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+V="" ... Ersetzen einer identifizierten Diagnose verwendet werden.  2021
 
 
 ---
@@ -1285,4 +1372,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 35 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
+
+ehd – eHealthData Richtlinie: Grundstrukturen, Regeln und 2021

@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_SIEX_FAQ_EDMP]
 
+Seite 1 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen / 15. August 2023
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -20,8 +22,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 |---|---|---|---|---|---|
 | 1.0 | 15.08.2023 | KBV | Erstellung des FAQ-Dokumentes | Konkretisierung der  Beantwortung | alle |
 
-neuen Anforderungen häufig gestellter Fragen 
+Seite 2 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen / 15. August 2023
 
+neuen Anforderungen häufig gestellter Fragen
 
 ---
 
@@ -69,6 +72,7 @@ Die Anzeige der Hinweismeldungen soll erst erfolgen, wenn der jeweils angegebene
 
 Wenn die Zeitbedingung noch nicht erfüllt ist, - beispielsweise im Falle einer Neueinschreibung (welche  noch nicht lange genug her ist) oder ein Arztwechsels vorliegt - sollte die Hinweismeldung nicht angezeigt  werden.
 
+Seite 3 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen / 15. August 2023
 
 ---
 
@@ -90,3 +94,5 @@ Dezernat Digitalisierung und IT  IT in der Arztpraxis
 Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 4 von 4 / KBV / FAQ für Softwarehersteller zu den eDMP Anforderungen / 15. August 2023

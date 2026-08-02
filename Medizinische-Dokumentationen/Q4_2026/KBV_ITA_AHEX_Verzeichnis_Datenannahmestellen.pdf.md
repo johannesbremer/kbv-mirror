@@ -26,7 +26,10 @@
 | **Ansprechpersonen** | Baden- AOK    Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  LKK:  Brustkrebs | IQVIA Health System  66 14 30 035  IQVIA Health System Services  1  Abteilung DMP-BW (AOK)  Postfach 50 07 51 | 04304 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik |
 | DMP-Hotline: | Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-bw@iqvia-hss.de  Baden- IKK, BKK, KBS, vdek |  |  | Diabetes mellitus Typ 1,  edmp.datenstelle.bawue@i- Diabetes mellitus Typ 2,  Brustkrebs, | KHK,  Asthma bronchiale,  COPD  SPS Germany GmbH | 59 09 12 218  DMP-Datenstelle -   Baden-Württemberg  Postfach 10 03 18  96055 Bamberg |
 
-Services GmbH (ab 01.07.2025) DMP-Datenstelle Bayern GbR  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. DMP-Datenstelle Bayern GbR Postfach 21 01 40 80671 München Adresse für Dokumentations- datensätze 089 327 33 2600
+Datenannahmestellen
+
+Services GmbH (ab 01.07.2025) DMP-Datenstelle Bayern GbR  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. DMP-Datenstelle Bayern GbR Postfach 21 01 40 80671 München Adresse für Dokumentations- datensätze 089 327 33 2600 Seite 1 von 6
+
 
 ---
 
@@ -58,7 +61,10 @@ Services GmbH (ab 01.07.2025) DMP-Datenstelle Bayern GbR  Die Firma IQVIA Health
 | Berlin | AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.07.2025) | data experts gmbh | 59 11 02 528 | DMP-Datenstelle Berlin  c/o data experts gmbh  Niederlassung Berlin | Allee der Kosmonauten 33g  12681 Berlin  DMP-Annahme-Berlin@data-experts.de    KIM-Adresse:  DMP-Datenstelle@data- | experts.kim.telematik  DMP-Hotline:  Tel.: 030-54708-126 |
 | Fax: 030-54708-29126 | dmpdatenstelle@data- experts.de  Brandenburg  AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs, | KHK, | Asthma bronchiale, | COPD  data experts gmbh  Bremen  59 11 02 528  DMP-Datenstelle Brandenburg  c/o data experts gmbh  Niederlassung Berlin | Postfach 400160  12631 Berlin  KIM-Adresse:  DMP-Datenstelle@data- experts.kim.telematik | DMP-Hotline:  Tel.: 030-54708-136  Fax: 030-54708-29126    dmpdatenstelle@data- experts.de |
 
-Services GmbH Services GmbH  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. GmbH GmbH Adresse für Dokumentations- datensätze
+Datenannahmestellen
+
+Services GmbH Services GmbH  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. GmbH GmbH Adresse für Dokumentations- datensätze Seite 2 von 6
+
 
 ---
 
@@ -90,7 +96,10 @@ Services GmbH Services GmbH  Die Firma IQVIA Health System Services GmbH vergibt
 | Hessen | AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.04.2025), | Herzinsuffizienz (ab 01.10.2026) | SPS Germany GmbH | 59 09 12 218  DMP-Datenstelle   Postfach 10 02 02 | 96054 Bamberg  dmp-hessen@dmpservices.de    KIM-Adresse:  edmp.datenstelle.hessen@i- motion.kim.telematik | Praxis-Hotline:  0951/30939-53  datenstelle@dmpservices.de |
 |  | Praxis-Hotline DMP  0951/30939-21  datenstelle@dmpservices.de  Mecklenburg- AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2, | Brustkrebs, | KHK, | Asthma bronchiale,  COPD,    Osteoporose (ab 01.10.2024)  IQVIA Health System  66 14 30 035  IQVIA Health System Services | 1  Abteilung DMP-MV  Postfach 50 06 54  04305 Leipzig  KIM-Adresse: | DMP-Datenstelle@davaso.kim.telematik  DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22 |
 
-Vorpommern Services GmbH Services GmbH  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze Brustkrebs:
+Datenannahmestellen
+
+Vorpommern Services GmbH Services GmbH  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze Brustkrebs: Seite 3 von 6
+
 
 ---
 
@@ -122,7 +131,10 @@ Vorpommern Services GmbH Services GmbH  Die Firma IQVIA Health System Services G
 | Rheinland-Pfalz | AOK  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  COPD,  Asthma bronchiale,  Osteoporose (ab 01.01.2024) | DMP-Datenstelle der | 10 73 10 373 | AOK Rheinland-Pfalz/Saarland    DMP-Datenstelle für die Region | Virchowstr. 30  67304 Eisenberg  edmp@rps.aok.de  Eric Maier  0681/6001-293 | Eric.Maier@rps.aok.de  dmp@rps.aok.de |
 |  | Herr Siegfried Lemmert  06351-403286  siegfried.lemmert@rps.aok.de  dmp@rps.aok.de  Rheinland-Pfalz  LKK, IKK, BKK, KBS, vdek | Diabetes mellitus Typ 1, | Diabetes mellitus Typ 2, | Brustkrebs,  KHK,    Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2025)  DMP-Datenstelle Trier | 98 50 00 011  Datenstelle für DMP Trier  Postfach 4240  54232 Trier    Schönbornstr. 10 | 54295 Trier  KIM-Adresse:  edmp@datenstelle-trier.kim.telematik  Herr Joachim Schu  0651/17039-0 |
 
-AOK RP Services GmbH  Die Firma IQVIA Health System Services GmbH sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma  vergibt für jeden KV- Die Gesundheitskasse GmbH Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze
+Datenannahmestellen
+
+AOK RP Services GmbH  Die Firma IQVIA Health System Services GmbH sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma  vergibt für jeden KV- Die Gesundheitskasse GmbH Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze Seite 4 von 6
+
 
 ---
 
@@ -154,7 +166,10 @@ AOK RP Services GmbH  Die Firma IQVIA Health System Services GmbH sollen. Für n
 | Sachsen | AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  KHK,  Brustkrebs,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.10.2025) | SPS Germany GmbH | 59 09 12 218 | DMP-Datenstelle Sachsen  Postfach 10 04 37  96056 Bamberg | dmp-sachsen@dmpservices.de    KIM-Adresse:  edmp.datenstelle.sachsen@i- motion.kim.telematik | Praxis-Hotline:  0951/30939-61  datenstelle@dmpservices.de |
 | Sachsen-Anhalt | AOK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  KHK,  Asthma bronchiale,  Brustkrebs,  COPD    AOK, IKK | Osteoporose (ab 01.10.2023) |  | KBS  Osteoporose (ab 01.01.2024)  Schleswig- IQVIA Health System  66 14 30 035  IQVIA Health System Services  1 | Abteilung DMP-SAN  Postfach 50 05 55  04305 Leipzig  KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-san@iqvia-hss.de |
 
-Services GmbH Holstein Services GmbH 01.07.2025)  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze
+Datenannahmestellen
+
+Services GmbH Holstein Services GmbH 01.07.2025)  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze Seite 5 von 6
+
 
 ---
 
@@ -186,4 +201,6 @@ Services GmbH Holstein Services GmbH 01.07.2025)  Die Firma IQVIA Health System 
 | Thüringen | AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.04.2026) | SPS Germany GmbH | 59 09 12 218 | DMP-Datenstelle   Postfach 10 04 38  96056 Bamberg | dmp-thueringen@dmpservices.de    KIM-Adresse:  edmp.datenstelle.thueringen@i- motion.kim.telematik | Praxis-Hotline:  0951/30939-62  datenstelle@dmpservices.de |
 | Westfalen-Lippe | AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.04.2024),  Rheumatoide Arthritis (ab | IQVIA Health System | 66 14 30 035 | IQVIA Health System Services  1 1   Abteilung DMP-WL  Postfach 50 06 55  04305 Leipzig | dmp-datenaustausch@iqvia-hss.de    KIM-Adresse:  DMP-Datenstelle@davaso.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-wl@iqvia-hss.de |
 
-Services GmbH 01.10.2025)  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze
+Datenannahmestellen
+
+Services GmbH 01.10.2025)  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. Adresse für Dokumentations- datensätze Seite 6 von 6

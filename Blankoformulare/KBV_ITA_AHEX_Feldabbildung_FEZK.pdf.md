@@ -15,7 +15,7 @@
 
 ## [KBV_ITA_AHEX_FELDABBILDUNG_FEZK]
 
-BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS   
+BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS   Seite 1 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 
 ---
@@ -27,6 +27,8 @@ BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS
 **2** **REFERENZIERTE DOKUMENTE**
 
 **14**
+
+Seite 2 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 
 ---
@@ -42,7 +44,10 @@ DOKUMENTENHISTORIE
 | 1.4 | 09.03.2021 | KBV | Aufnahme der |  | 10 |
 | 1.5 | 03.1w.2021 | KBV | Streichung der  Abbildung des Mapping des  Anpassung der Abbildung des | Korrektur | 10    4        12 |
 
-KBV BFB Feldes ‚HPV-HR- Testergebnis des zytologischen Befundes‘ Musters 39 auf den Dokumentationsbogen ZKP des IQTIG die Spezifikation für 2021 Untersuchungsnummer Untersuchungsnummer Musters 39 auf den Dokumentationsbogen ZKP des IQTIG die Spezifikation für 2022 KBV BFB Feldes ‚Liegt HPV-Typ 16 oder HPV-Typ 18 vor?‘
+Seite 3 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
+
+KBV BFB Feldes ‚HPV-HR- Testergebnis des zytologischen Befundes‘ Musters 39 auf den Dokumentationsbogen ZKP des IQTIG die Spezifikation für 2021 Untersuchungsnummer Untersuchungsnummer Musters 39 auf den Dokumentationsbogen ZKP des IQTIG die Spezifikation für 2022 KBV BFB Feldes ‚Liegt HPV-Typ 16 oder HPV-Typ 18 vor?‘ 3. Dezember 2021
+
 
 ---
 
@@ -86,6 +91,7 @@ Die Spalte Name stellt die Datenfeldbezeichnung des Dokumentationsbogens des Mod
 
 zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die übernommenen Informationen ändern zu können.  dar und enthält Anmerkungen
 
+Seite 4 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 ---
 
@@ -214,6 +220,8 @@ zum Mapping der Daten. Der Anwender muss immer die Möglichkeit haben, die über
 |  | 7 | Geburtsdatum | P5 | 3103_Geburtsdatum | 3103 | Geburtsdatum | 9 | Geburtsdatum    10.2 |
 | Es liegt kein vollständiges | Geburtsdatum vor | Falls im LDT3 oder im BFB-Barcode im | 10.2 | | | | | |
 | “ des IQTIG- | 8 | Versicherungsschutz Ende | P8 | | | | | |
+
+Seite 5 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 Versicherten_ID oder SKT-Zusatz z_Vorsatzwort 10.1 Krankenkasse der Versichertenkarte Feld „Geburtsdatum“ bzw. im Feld „3103_Geburtsdatum“ des DiMus kein vollständiges Geburtsdatum übertragen wird, dann ist im Feld „ Dokumentationsbogens der Wert „1“ zu setzen.
 
@@ -345,7 +353,12 @@ Versicherten_ID oder SKT-Zusatz z_Vorsatzwort 10.1 Krankenkasse der Versicherten
 | PLZ vor | Falls im LDT3 oder im BFB-Barcode im | 11.2 | “ | | | | | |
 | 23 | Ort | P7 | 0000_Wohnsitzlaendercode_PLZ_Or | | | | | |
 
-z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „ des IQTIG-Dokumentationsbogens der Wert „1“ zu setzen. Feld „PostfachPLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „ des IQTIG-Dokumentationsbogens der Wert „1“ zu setzen.
+Seite 6 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
+
+3. Dezember 2021
+
+z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „ des IQTIG-Dokumentationsbogens der Wert „1“ zu setzen. Feld „PostfachPLZ“ bzw. im Feld „0000_Wohnsitzlaendercode_PLZ_Ort“ des DiMus keine deutsche Postleitzahl übertragen wird, dann ist im Feld „ des IQTIG-Dokumentationsbogens der Wert „1“ zu setzen. 
+
 
 ---
 
@@ -475,7 +488,12 @@ z_Vorsatzwort z_Vorsatzwort z_Vorsatzwort 11.1 deutsche 11.1 deutsche Feld „PL
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
-tik chung Untersuchung der Wert „A“ in Auftragsart übertragen wird, dann ist im IQTIG-Datensatz der Wert „3“ zu setzen.  ANSONSTEN gilt: Wenn im LDT3 oder im BFB-Barcode der Wert „P“ in Auftrags- art übertragen wird und der Wert „Zyto“ im Auftrag übertragen wird, dann ist im Feld „ mentationsbogens der Wert „1“ zu setzen. Falls außerhalb des Auftrags auch ein HPV-Testergebnis vorliegt, kann im Feld „ tationsbogens der Wert „2“ gesetzt werden. ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „KoTest“ im Auftrag übertragen wird, dann ist im Feld „ bogens der Wert „2“ zu setzen.  ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „HPV“ im Auftrag übertragen wird, dann ist eine händische Auswahl notwendig. Falls außerhalb des Auftrags auch ein zytolo- gischer Befund vorliegt, kann im Feld der Wert „2“ gesetzt werden.
+Seite 7 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
+
+3. Dezember 2021
+
+tik chung Untersuchung der Wert „A“ in Auftragsart übertragen wird, dann ist im IQTIG-Datensatz der Wert „3“ zu setzen.  ANSONSTEN gilt: Wenn im LDT3 oder im BFB-Barcode der Wert „P“ in Auftrags- art übertragen wird und der Wert „Zyto“ im Auftrag übertragen wird, dann ist im Feld „ mentationsbogens der Wert „1“ zu setzen. Falls außerhalb des Auftrags auch ein HPV-Testergebnis vorliegt, kann im Feld „ tationsbogens der Wert „2“ gesetzt werden. ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „KoTest“ im Auftrag übertragen wird, dann ist im Feld „ bogens der Wert „2“ zu setzen.  ODER Wenn im LDT3 oder im BFB- Barcode der Wert „P“ in Auftragsart übertragen wird und der Wert „HPV“ im Auftrag übertragen wird, dann ist eine händische Auswahl notwendig. Falls außerhalb des Auftrags auch ein zytolo- gischer Befund vorliegt, kann im Feld der Wert „2“ gesetzt werden. 
+
 
 ---
 
@@ -604,6 +622,8 @@ tik chung Untersuchung der Wert „A“ in Auftragsart übertragen wird, dann is
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
+
+Seite 8 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? Liegt ein Vorbefund bzw. liegen Vorbefunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangenen Untersuchung vor? 22 vorangegangenen vorangegangenen Untersuchung ein zytologischer Befund nach Münchener Nomenklatur III vor? Zytologischer Vorbefund liegt vor muss automatisch auf einen vierstelligen Wert transformiert werden. Im Rahmen der IQTIG Spezifikation muss das Format MM.JJJJ übertragen werden. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird der Wert „1“ des Feldes „ IQTIG-Dokumentationsbogens gesetzt. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „ IQTIG-Dokumentationsbogens gesetzt.
 
@@ -735,6 +755,8 @@ nein ja Befunde (Zytologie, HPV- Test, Histologie) aus der letzten vorangegangen
 |  |  |  |  | | | | | |
 |  |  |  |  | | | | | |
 
+Seite 9 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
+
 vor? Vorbefundes Chemotherapie des Genitales Chemotherapie des Genitales – Welche? cht_vor r_aus befundes_positiv befundes_negativ befundes_nicht_verwertbar otherapie_nein otherapie_ja otherapie_welche Chemotherapie des Genitales Chemotherapie des Genitales – Welche? nach Münchner Nomenklatur III 20.2 vorangegangenen Untersuchung ein HPV-Test- Ergebnis vor? Vorbefund zum HPV-Status liegt vor 24 32 gynäkologischer OP/Radiatio gynäkologischer OP/Chemo- oder Strahlentherapie des Genitals oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus ein Wert der Münchner Nomenklatur III übertragen, dann wird dieser in das Feld „ Dokumentationsbogen übertragen. oder dem LDT3 bzw.  im Feld „7414_gruppe_des_letzten_befundes“ des DiMus kein Wert oder ein Wert der Münchner Nomenklatur II übertragen oder ist das Feld nicht vorhanden, dann wird der Wert „0“ des Feldes „ IQTIG-Dokumentationsbogens gesetzt. LDT3 oder den DiMus nur die Werte „positiv“ und „negativ“ auf den IQTIG- Dokumentationsbogen abgebildet werden.
 
 ---
@@ -864,6 +886,8 @@ vor? Vorbefundes Chemotherapie des Genitales Chemotherapie des Genitales – Wel
 | 48 | Klinischer Befund | M39_84 | 7384_klinischer_befund_unauffällig | 7384 | Klinischer Befund | 32 | Klinischer Befund | M39_85  7384_klinischer_befund_auffällig |
 | 49 | Erläuterungen | M39_47 | 7423_erlaeuterungen | | | | | |
 | 7423 | Erläuterungen |  |  | | | | | |
+
+Seite 10 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 Chemotherapie des Genitales - Wann? / sonstige Hormon-Anwendung gyn_op_strahlen_oder_chemothera pie_wann ng_nein  ng_ja ovulationshemmer_sonstige_hormo n_anwendung_nein ovulationshemmer_sonstige_hormo n_anwendung_ja Chemotherapie des Genitales - Wann? Ovulationshemmer / sonstige Hormon-Anwendung vor? Blutungen  Ovulationshemmer/sonstige Hormonanwendung 34
 
@@ -995,6 +1019,8 @@ Chemotherapie des Genitales - Wann? / sonstige Hormon-Anwendung gyn_op_strahlen_
 |  |  | Candida | M39_58 | | | | | |
 | 7411_candida | 7411 | Candida |  | | | | | |
 
+Seite 11 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
+
 chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann der Wert der FK 8311 bzw. sofern gesetzt des Feldes  automatisch in die IQTIG-Spezifikation übernommen werden. Es gilt zu beachten, dass die Untersuchungsnummer im IQTIG- Dokumentationsbogen max. 16 Zeichen lang sein darf. Der Softwarehersteller muss daher ggf. die zu übernehmende Untersuchungsnummer entsprechend auf max. 16 Zeichen einkürzen. LDT3 bzw. digitalen Muster 39 an den Gynäkologen übertragen wird, dann kann im Feld „ Dokumentationsbogen der Wert „1“ gesetzt werden.
 
 ---
@@ -1124,6 +1150,8 @@ chen_untersuchung orhanden efundes LDT3 bzw. digitalen Muster 39 an den Gynäkol
 |  | 39 | Empfohlene Maßnahme | Wenn keine der nachfolgenden | 38 | “ des IQTIG- |  | zytologische Kontrolle | M39_66  7415_zytologische_kontrolle  7415 |
 | Zytologische Kontrolle | 40 | Welche Kontrolle/Abklärung | Ist die zytologische Kontrolle gesetzt, | | | | | |
 | 38 | “ zu übertragen. |  | zytologische Kontrolle nach | | | | | |
+
+Seite 12 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
 
 zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efundes ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar ologischen_befundes_positiv ologischen_befundes_negativ ologischen_befundes_nicht_verwer tbar 3317_virustyp_16_18_ja nzierbar entzuendungsbehandlung Münchner Nomenklatur III durchgeführt? Typ 18 vor? wird empfohlen? Informationen im DiMus oder LDT3 übertragen wird, dann kann im Feld der Wert „1“ gesetzt werden. Informationen übermittelt wurden, dann kann im Feld „ Dokumentationsbogen der Wert „0“ gesetzt werden. dann ist im IQTIG- Dokumentationsbogen der Wert „1“ im Feld „
 
@@ -1255,7 +1283,12 @@ zytologischen Befundes zytologischen Befundes vor? Entzündungsbehandlung efunde
 | M39_73 | 3321_in_monaten | 3321 | Zeitraum in Monaten | | | | | |
 | M39_74 | 3320_sofort | 3320 | Zeitraum sofort | | | | | |
 
-Östrogenbehandlung oestrogenbehandlung wird empfohlen? Empfohlene Maßnahme wird empfohlen? Empfohlene Maßnahme wird empfohlen? Empfohlene Maßnahme IQTIG-Dokumentationsbogen der Wert „2“ im Feld „ IQTIG-Dokumentationsbogen der Wert „3“ im Feld „ dann ist im IQTIG- Dokumentationsbogen der Wert „4“ im angekreuzt oder im LDT3 die Kennung „3320“ übertragen, dann wird im IQTIG- Dokumentationsbogen der Wert „1“ im „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert „2“ im Feld „ „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert in Monaten aus der LDT3 Kennung „3321“ oder dem DiMus Feld „3321_in_monaten“ in das Feld „ des IQTIG-Dokumentationsbogen übernommen.
+Seite 13 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 /
+
+3. Dezember 2021
+
+Östrogenbehandlung oestrogenbehandlung wird empfohlen? Empfohlene Maßnahme wird empfohlen? Empfohlene Maßnahme wird empfohlen? Empfohlene Maßnahme IQTIG-Dokumentationsbogen der Wert „2“ im Feld „ IQTIG-Dokumentationsbogen der Wert „3“ im Feld „ dann ist im IQTIG- Dokumentationsbogen der Wert „4“ im angekreuzt oder im LDT3 die Kennung „3320“ übertragen, dann wird im IQTIG- Dokumentationsbogen der Wert „1“ im „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert „2“ im Feld „ „3321_in_monaten“ bzw. im LDT3 die Kennung „3321“ übertragen, dann wird im IQTIG-Dokumentationsbogen der Wert in Monaten aus der LDT3 Kennung „3321“ oder dem DiMus Feld „3321_in_monaten“ in das Feld „ des IQTIG-Dokumentationsbogen übernommen. 
+
 
 ---
 
@@ -1275,4 +1308,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Format Leistungserbringer der oKFE-RL 2021 2022 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 14 von 14 / KBV / Feldabbildung zur Dokumentation der Früherkennung von Zervix-karzinomen (ZKP) / Version: 1.5 / 3. Dezember 2021
+
+Format Leistungserbringer der oKFE-RL 2021 2022

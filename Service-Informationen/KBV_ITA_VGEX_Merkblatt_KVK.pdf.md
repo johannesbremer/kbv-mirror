@@ -100,6 +100,8 @@ Seite 2 von 25
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
+Seite 3 von 25
+
 
 ---
 
@@ -118,6 +120,8 @@ ABBILDUNG 4: KOMMUNIKATION MIT CHAINING ........................................
 ABBILDUNG 5: PCB-CODIERUNG DES R-BLOCKS ........................................................... 13
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
+
+Seite 4 von 25
 
 
 ---
@@ -143,6 +147,8 @@ TABELLE 7: RESET CT ............................................................
 TABELLE 8: SERIELLE SCHNITTSTELLE .......................................................................... 25
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
+
+Seite 5 von 25
 
 
 ---
@@ -215,7 +221,9 @@ O AN
 
 AN  N
 
-tag length Daten- typ '90' 1 StatusErgänzung '84' 2-15 Titel '8A' 1-3 WohnsitzLänderCode AN AN '8D' 4 GültigkeitsDatum (MMJJ)  N AN  AN
+AN  AN
+
+tag length Daten- typ '90' 1 StatusErgänzung '84' 2-15 Titel '8A' 1-3 WohnsitzLänderCode AN AN '8D' 4 GültigkeitsDatum (MMJJ)  N Seite 6 von 25
 
 
 ---
@@ -257,6 +265,8 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 **26 Byte**
 
+Seite 7 von 25
+
 
 ---
 
@@ -285,6 +295,8 @@ Die Daten im VersichertenDatenTemplate und in der Kennung des Kartenherstellers 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 **Format**
+
+Seite 8 von 25
 
 
 ---
@@ -403,6 +415,8 @@ Hex-Code  '26'  '28'  '2B'  '2E'  '5F'
 
 ü ß
 
+Seite 9 von 25
+
 
 ---
 
@@ -433,6 +447,8 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 **INF EDC**
 
 **NAD = Node Adress Byte**  **PCB = Protocol Control Byte**
+
+Seite 10 von 25
 
 
 ---
@@ -487,6 +503,8 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
 **CardTerminal Control Command**  **KVK-Applicaton Command**
 
+Seite 11 von 25
+
 
 ---
 
@@ -519,6 +537,8 @@ Der Sende-Sequenz-Zähler ist ein Sicherheitsmerkmal zur Erkennung des Verlustes
 Der Daten-Kettungs-Mechanismus (More data bit) ist ebenfalls zu unterstützen, so daß  Anwendungseinheiten (z.B. die Antwort auf ein READ BINARY-Kommando) über die Länge  eines einzelnen Blocks hinausgehen können. Die Information wird hierbei auf n Blöcke  aufgeteilt, wobei (n-1) Blöcke eine Länge entsprechend der Information Field Size haben und  der n-te Block die restlichen Bytes ( Information Field Size) enthält.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
+
+Seite 12 von 25
 
 
 ---
@@ -559,6 +579,8 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 **Error indication (01=EDC/**
 
 **Fehlerfreie**  **Übertragung**  **mit Chaining**
+
+Seite 13 von 25
 
 
 ---
@@ -612,6 +634,8 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 **1. Host sendet R-Block**
 **2. CT sendet I-Block**
 
+Seite 14 von 25
+
 
 ---
 
@@ -646,6 +670,9 @@ WTX request
 WTX response
 ```
 
+Seite 15 von 25
+
+
 ---
 
 **IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
@@ -676,6 +703,8 @@ KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 ```
 
 #### response
+
+Seite 16 von 25
 
 
 ---
@@ -723,6 +752,8 @@ Trailer  (mandatory)
 
 for transmission
 
+Seite 17 von 25
+
 
 ---
 
@@ -767,6 +798,9 @@ Functional Unit:  '00' = Card Terminal
 
 **Tabelle 7: Reset CT**  Status Bytes:  '9000' = Reset successful '6400' = Reset not successful
 
+Seite 18 von 25
+
+
 ---
 
 **IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
@@ -796,6 +830,9 @@ L   T
 Optional data field:  Time in seconds  (1 byte, default value 60  sec)  for presenting the ICC Command Qualifier:  '00' = No response data
 Status Bytes:  '9000' = synchronous ICC presented,  reset successful  '6200' = Warning: no card presented  within specified time  '6400' = Reset not successful
 ```
+
+Seite 19 von 25
+
 
 ---
 
@@ -827,6 +864,9 @@ Functional Unit:  '01' = CardTerminal port 1
 Status Bytes:  '9000' = Command successful  '9001' = Command successful, card  removed  '6200' = Warning: Card not removed
 within specified time
 ```
+
+Seite 20 von 25
+
 
 ---
 
@@ -869,6 +909,8 @@ ATR/DIR data incorrect
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
+Seite 21 von 25
+
 
 ---
 
@@ -905,7 +947,11 @@ Offset ('0000' = Logical start  address of the file)
 
 **SW2**
 
-CLA INS P1 '00' 'BO' 'xx' Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
+```
+Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
+```
+
+CLA INS P1 '00' 'BO' 'xx' Seite 22 von 25
 
 
 ---
@@ -919,6 +965,8 @@ Das READ BINARY-Kommando ist mit fortgeschaltetem Offset sooft aufzurufen, bis d
 Entspricht die Struktur der Daten nicht den Vorgaben, werden nur die Status-Bytes mit der  Codierung '6501' (= Memory failure or data corrupted) zurückgegeben.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
+
+Seite 23 von 25
 
 
 ---
@@ -967,6 +1015,8 @@ Der PC sendet bis zum Ablauf einer Default-Wartezeit von 60 Sekunden (diese Zeit
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
+Seite 24 von 25
+
 
 ---
 
@@ -1011,3 +1061,5 @@ Karten  Terminal 1 2 3 4 5
 9
 
 Bedeutung  Steckererkennung  Empfangsdaten  Sendedaten  Systemeinheit bereit  Betriebs-Erdung  Betriebsbereitschaft  Sendeteil ein  Sendebereitschaft  Ankommender Ruf
+
+Seite 25 von 25

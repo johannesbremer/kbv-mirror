@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_DM2]
 
+Seite 1 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -152,6 +154,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 33
 
+Seite 2 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 ---
 
@@ -235,6 +238,8 @@ Einrichtung
 
 **48**
 
+Seite 3 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 ---
 
 ## ABBILDUNGSVERZEICHNIS
@@ -246,6 +251,8 @@ Einrichtung
 **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION ..................................................................................................................... 16
 
 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 19
+
+Seite 4 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 ---
 
@@ -314,6 +321,8 @@ Einrichtung
 **TABELLE 31:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE SCHULUNG(EN) WAHRGENOMMEN) ....................................... 44
 
 **TABELLE 32:** WERTE BEI ERGEBNISTEXT (OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT DER LETZTEN  DOKUMENTATION) .................................................................................................................................................. 46
+
+Seite 5 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 ---
 
@@ -423,10 +432,13 @@ Einrichtung
 
 **XML-CODE 56:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 45
 
+Seite 6 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 ---
 
 **XML-CODE 57:** OPHTHALMOLOGISCHE NETZHAUTUNTERSUCHUNG SEIT DER LETZTEN DOKUMENTATION ................. 46
+
+Seite 7 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 ---
 
@@ -443,6 +455,8 @@ DOKUMENTENHISTORIE
 |  | 6.08  14.11.2025  KBV  Anpassung an die | | | | |
 | Beschluss des G-BA |  |  | 21 |  | ,41  15.02.2023  KBV |
 
+Seite 8 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 8 aktualisierten Plausibilitäten der Anlage 8 (Abschnitte: Anamnese- und Befunddaten und „Medikamente) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 8 aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bspw. body  wird Korrekturen zu <body>) 6.1.2.1 zu 6.1.3 Abbildung 2 für Kindelemente  r! Text mark nicht defini ert. Anpassungen und
 
 ---
@@ -458,7 +472,10 @@ aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierte
 | Löschung der nicht  Vereinheitlichung der Angabe | 15ff | | | | |
 | 6.03 | 12.02.2020 | KBV | Redaktionelle Korrektur  Erweiterung des  Wertebereich „Körpergewicht“ | Anpassung an das | 16  15        24 |
 
-verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Wertebereichs für den Personenstandsgesetz (PstG) Parameter „Geschlecht des Patienten“ dreistellig
+Seite 9 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+verwendeten Definition von <Zeitpunkt_dttm> möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Wertebereichs für den Personenstandsgesetz (PstG) Parameter „Geschlecht des Patienten“ dreistellig 
+
 
 ---
 
@@ -479,6 +496,8 @@ EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] und [EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2
 Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbände der Krankenkassen.
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
+
+Seite 10 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 ---
 
@@ -511,6 +530,8 @@ Beispiele:
 - 123456789_123_20070301.EED2
 - 123456789_123_20070301.EVD2
 
+Seite 11 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 ---
 
 # 3 SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE
@@ -542,9 +563,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich oft auftreten kann.  Beschreibung der Kardinalitäten STRUKTURELEMENTE Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
+Seite 12 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
-\|  |
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich oft auftreten kann.  Beschreibung der Kardinalitäten STRUKTURELEMENTE Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. |  |
 \|---|
 
 
@@ -568,7 +589,11 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
-im Schema definiert wurde. welches mehrere Elemente zusammenfasst. Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein Pluszeichen am Rechteckrand symbolisiert. |  |
+Seite 13 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+im Schema definiert wurde. welches mehrere Elemente zusammenfasst. Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein Pluszeichen am Rechteckrand symbolisiert.
+
+\|  |
 \|---|
 
 \| Ein Element mit einem oder mehreren Kindelementen wird durch ein |
@@ -598,6 +623,8 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
+Seite 14 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <clinical_document_header> . . . </clinical_document_header> <body> </body> 
 
 
@@ -624,6 +651,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
 **XML-Code 2**: body
 
+Seite 15 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 ] durchzuführen.
 
 Abbildung 2 dargestellt.
@@ -638,7 +667,10 @@ Abbildung 2 dargestellt.
 \|---|
 \| Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>-  dargestellt. |
 
-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in Abbildung 3 Abbildung 3:  Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind.
+Seite 16 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in Abbildung 3 Abbildung 3:  Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind. 
+
 
 ---
 
@@ -651,7 +683,11 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 \| <section>                                                                                 </paragraph>      <caption>     </caption>         </section> |
 \|---|
 
-<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>**XML-Code 3:** section
+**XML-Code 3:** section
+
+Seite 17 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>
 
 
 ---
@@ -666,6 +702,8 @@ Für die Darstellung von Daten von Diabetes mellitus Typ 2 („erstmalige Dokume
 \|---|
 
 **XML-Code 4:** content mit sciphox-SSU (observation)
+
+Seite 18 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 <local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> 
 
@@ -686,6 +724,8 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 \|---|
 
 **XML-Code 5:** Beobachtungen
+
+Seite 19 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 <sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen>
 
@@ -723,6 +763,8 @@ Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausp
 
 **XML-Code 8:** Ergebniswert
 
+Seite 20 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
 
@@ -756,7 +798,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 2"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 2"/>**XML-Code 10:** Einschreibung wegen
+**XML-Code 10:** Einschreibung wegen
+
+Seite 21 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 2"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Diabetes mellitus Typ 2"/>
 
 
 ---
@@ -778,6 +824,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 4:** Werte bei Ergebnistext (Einschreibung wegen)
 
+Seite 22 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 /
+
+Version: 6.08 / 14. November 2025
+
 ---
 
 **6.1.5** **Abschnitt „Anamnese- und Befunddaten“**
@@ -786,7 +836,10 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Dieses Kapitel beschreibt den Abschnitt „Anamnese- und Befunddaten“.   6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  < >     <sciphox:Beobachtungen> |
 
+Seite 23 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 Im Element <content> wird die Sciphox-SSU observation  verwendet. Der Aufbau dieser SSU ist in Kapitel <sciphox:Beobachtungen> enthält minimal 8 bis maximal 17 Kindelemente <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.  Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:  <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="12.3" U="% "/> </sciphox:Beobachtung> <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebniswert V="67" U="ml/min/1,73m2KOF"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Pulsstatus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Sensibilitätsprüfung"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Weiteres Risiko für Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="(Wund)Infektion"/>
+
 
 ---
 
@@ -795,6 +848,8 @@ Im Element <content> wird die Sciphox-SSU observation  verwendet. Der Aufbau die
 \| <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Unauffällig"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Jährlich"/>     <sciphox:Beobachtung>   Spätfolgen"/>   <sciphox:Ergebnistext V="Diabetische Nephropathie"/>         </content> |
 
 **XML-Code 13:** Körpergewicht
+
+Seite 24 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 </sciphox:Beobachtung> <sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patiente n ab dem vollendeten 18. Lebensjahr)"/> </sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> XML-Code 11: content (Anamnese- und Befunddaten) 6.1.5.1 Körpergröße  -Attribut die „Körpergröße“ und im -Attribut den fest vorgeschriebenen Wert „m“. <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" />  Körpergröße Körpergewicht -Attribut das „Körpergewicht“ und -Attribut den fest vorgeschriebenen Wert „kg“.  <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/>
 
@@ -849,7 +904,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 6.1.5.6 Begleiterkrankungen
 
-<sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/>Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 6. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+
+Seite 25 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="110" U="mmHg"/>
 
 
 ---
@@ -892,7 +951,13 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 7:** Werte bei Ergebniswert (HbA1c)
 
-<sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/> <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="10" U="mmol/mol"/>im *V* Attribut den „HbA1c“-Wert und im
+Seite 26 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 /
+
+im *V* Attribut den „HbA1c“-Wert und im
+
+Version: 6.08 / 14. November 2025
+
+<sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="Arterielle Hypertonie"/> <sciphox:Ergebnistext V="KHK"/> <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="10" U="mmol/mol"/>
 
 
 ---
@@ -940,7 +1005,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 10
 
-<sciphox:Parameter DN="eGFR“/> <sciphox:Ergebniswert V="45“ U=" <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebnistext V="Nicht bestimmt"/> <sciphox:Parameter DN="Pulsstatus"/> <sciphox:Ergebnistext V="Auffällig"/>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 27 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<sciphox:Parameter DN="eGFR“/> <sciphox:Ergebniswert V="45“ U=" <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebnistext V="Nicht bestimmt"/> <sciphox:Parameter DN="Pulsstatus"/> <sciphox:Ergebnistext V="Auffällig"/>
 
 
 ---
@@ -985,7 +1054,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 10:** Werte bei Ergebnistext (Weiteres Risiko für Ulkus)
 
+Seite 28 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 <sciphox:Parameter DN="Sensibilitätsprüfung"/> <sciphox:Ergebnistext V="Auffällig"/> <sciphox:Parameter DN="Weiteres Risiko für Ulkus"/> <sciphox:Ergebnistext V="Hyperkeratose mit Einblutung"/>
+
 
 ---
 
@@ -1029,7 +1101,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Injektionsstellen (bei Insulintherapie)
 
-<sciphox:Parameter DN="Ulkus"/> <sciphox:Ergebnistext V="tief"/> <sciphox:Parameter DN="(Wund)Infektion"/> <sciphox:Ergebnistext V="ja"/>Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 14 . Als Beispiel sei hier folgender Code angegeben:
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 14 . Als Beispiel sei hier folgender Code angegeben:
+
+Seite 29 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<sciphox:Parameter DN="Ulkus"/> <sciphox:Ergebnistext V="tief"/> <sciphox:Parameter DN="(Wund)Infektion"/> <sciphox:Ergebnistext V="ja"/>
 
 
 ---
@@ -1070,7 +1146,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 16. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
-<sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> <sciphox:Ergebnistext V="Auffällig"/> <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr)"/> <sciphox:Ergebnistext V="Jährlich"/>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 30 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> <sciphox:Ergebnistext V="Auffällig"/> <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr)"/> <sciphox:Ergebnistext V="Jährlich"/>
 
 
 ---
@@ -1087,6 +1167,10 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 \| Diabetische Retinopathie |
 
 **Tabelle 15:** Werte bei Ergebnistext (Spätfolgen)
+
+Seite 31 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2
+
+/ Version: 6.08 / 14. November 2025
 
 <sciphox:Parameter DN="Spätfolgen"/> <sciphox:Ergebnistext V="Diabetische Nephropathie"/>
 
@@ -1128,7 +1212,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Schlaganfall |
 \| Keine der genannten Ereignisse |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Erblindung"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Nierenersatztherapie"/>**Tabelle 16:** Werte bei Ergebnistext (Relevante Ereignisse)
+**Tabelle 16:** Werte bei Ergebnistext (Relevante Ereignisse)
+
+Seite 32 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Erblindung"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Nierenersatztherapie"/>
 
 
 ---
@@ -1157,7 +1245,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Insulin oder Insulin-Analoga"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Metformin"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige antidiabetische Medikation"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" GLP-1-Rezeptoragonist "/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Insulin oder Insulin-Analoga"/> <sciphox:Ergebnistext V="Ja"/>**XML-Code 32:** Insulin oder Insulin-Analoga
+**XML-Code 32:** Insulin oder Insulin-Analoga
+
+Seite 33 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Insulin oder Insulin-Analoga"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Metformin"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige antidiabetische Medikation"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" GLP-1-Rezeptoragonist "/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Insulin oder Insulin-Analoga"/> <sciphox:Ergebnistext V="Ja"/>
 
 
 ---
@@ -1204,7 +1296,10 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 \| Ja |
 
+Seite 34 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 <sciphox:Parameter DN="Metformin"/> <sciphox:Ergebnistext V="Ja "/> <sciphox:Parameter DN="Sonstige antidiabetische Medikation"/> <sciphox:Ergebnistext V="Ja "/>
+
 
 ---
 
@@ -1248,7 +1343,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 21:** Werte bei Ergebnistext (GLP-1-Rezeptoragonist)
 
-<sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="GLP-1-Rezeptoragonist"/> <sciphox:Ergebnistext V="Ja"/>
+Seite 35 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<sciphox:Parameter DN="SGLT2-Inhibitor"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="GLP-1-Rezeptoragonist"/> <sciphox:Ergebnistext V="Ja"/> 
+
 
 ---
 
@@ -1287,7 +1385,10 @@ Der Coderahmen sieht wie folgt aus:
 
 **XML-Code 38:** content (Schulung)
 
+Seite 36 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 <sciphox:Parameter DN="Thrombozytenaggregationshemmer"/> <sciphox:Ergebnistext V="Ja"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Diabetes-Schulung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V="Hypertonie-Schulung"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+
 
 ---
 
@@ -1329,8 +1430,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 24:** Werte bei Ergebnistext ( wahrgenommen)
 
-<sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Diabetes-Schulung"/> <sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V="Hypertonie-Schulung"/>Schulung schon vor Einschreibung ins DMP bereits
+Seite 37 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
+Schulung schon vor Einschreibung ins DMP bereits
+
+<sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Diabetes-Schulung"/> <sciphox:Parameter DN="Schulung schon vor Einschreibung ins DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V="Hypertonie-Schulung"/>
 
 ---
 
@@ -1341,6 +1445,8 @@ Dieses Kapitel beschreibt den Abschnitt „Behandlungsplanung“.
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
 6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal vier drei bis maximal fünf vier Kindelemente  <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein  Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> .
+
+Seite 38 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 ---
 
@@ -1370,7 +1476,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 25:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der  Krankenkasse)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/>
+Seite 39 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung>  <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/> 
+
 
 ---
 
@@ -1416,12 +1525,15 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tab
 
 Als Beispiel sei hier folgender Code angegeben:
 
+Seite 40 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+*V*-Attribut die Feldbezeichnung
+
 *V*-Attribut die Feldbezeichnung
 
 *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V="Zielwert noch nicht erreicht"/> *V*-Attribut die Feldbezeichnung
-
+<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V="Zielwert noch nicht erreicht"/>
 
 ---
 
@@ -1457,6 +1569,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 29:** Werte bei Ergebnistext (Diabetesbezogene stationäre Einweisung)
 
+Seite 41 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="Veranlasst"/> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Ergebnistext V="Veranlasst"/> 
 
 
@@ -1491,7 +1605,11 @@ Siehe Kapitel 6.1.6.1
 
 ### Schwere Hypoglykämien seit der letzten Dokumentation
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Erblindung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schwere Hypoglykämien seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="1" U=“Anzahl“/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten <sciphox:Ergebniswert V="1" U=“Anzahl“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die „Anzahl der schweren  Hypoglykämien seit der letzten Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert  „Anzahl“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die „Anzahl der schweren  Hypoglykämien seit der letzten Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert  „Anzahl“.
+
+Seite 42 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Relevante Ereignisse"/> <sciphox:Ergebnistext V="Erblindung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schwere Hypoglykämien seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="1" U=“Anzahl“/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten <sciphox:Ergebniswert V="1" U=“Anzahl“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 
 ---
@@ -1529,7 +1647,10 @@ Der Coderahmen sieht wie folgt aus:
 
 **XML-Code 50:** content (Schulung)
 
+Seite 43 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 <sciphox:Parameter DN="Schwere Hypoglykämien seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="1" U=“Anzahl“/> <sciphox:Parameter DN="Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation"/> <sciphox:Ergebniswert V="1" U=“Anzahl“/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN=“Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Schulung(en) wahrgenommen"/> . . . </sciphox:Beobachtungen> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
+
 
 ---
 
@@ -1564,7 +1685,10 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 31:** Werte bei Ergebnistext (Empfohlene Schulung(en) wahrgenommen)
 
+Seite 44 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
 <sciphox:Parameter DN="Empfohlene Schulung(en) wahrgenommen"/> <sciphox:Beobachtungen> <sciphox:Parameter DN="Diabetes-Schulung"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Hypertonie-Schulung"/> <sciphox:Ergebnistext V="War aktuell nicht möglich"/> </sciphox:Beobachtungen>
+
 
 ---
 
@@ -1597,7 +1721,11 @@ Siehe Kapitel 6.1.9.2
 
 ### 7.1.3.3 HbA1c-Zielwert
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Siehe Kapitel 6.1.9.3
+Siehe Kapitel 6.1.9.3
+
+Seite 45 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c-Zielwert"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten Einrichtung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Diabetesbezogene stationäre Einweisung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 
 ---
@@ -1628,6 +1756,8 @@ Siehe Kapitel 6.1.9.4
 ### Diabetesbezogene stationäre Einweisung
 
 Siehe Kapitel 6.1.9.5
+
+Seite 46 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
 <sciphox:Parameter DN="Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Durchgeführt"/> 
 
@@ -1661,8 +1791,9 @@ Siehe Kapitel 6.1.9.5
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Information Systems in Physician Offices and Hospitals using XML 
+Seite 47 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
+Information Systems in Physician Offices and Hospitals using XML
 
 ---
 
@@ -1683,4 +1814,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Diabetes mellitus Typ 1 und Typ 2 Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 48 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
+
+Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Diabetes mellitus Typ 1 und Typ 2 Volldatensatz / a-Datensatz Schnittstellenbeschreibung

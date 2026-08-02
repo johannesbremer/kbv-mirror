@@ -115,9 +115,20 @@
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | nicht bekannt | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein Verordnung) wobei T=Tag, M=Monat und J=Jahr ist) angekreuzt wurde angekreuzt wurde; mehrere Antworten möglich
+IT in der Arztpraxis
+
+Plausibilitäten QS Hörgeräteversorgung
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. KBV_ITA_VGEX_Plausis_QSHGV * Version 1.02
+
+Seite 1 von 6
+
+Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein Verordnung) wobei T=Tag, M=Monat und J=Jahr ist) angekreuzt wurde angekreuzt wurde; mehrere Antworten möglichÜber die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
 
 ---
+
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -236,9 +247,16 @@ Datum 12.08.2019 Version 1.03 (10 Zeichen) Verordnung und Verordnung) ODER (Nach
 |  | Freiburger Zahlen | **von _____ % (E/Z)** | höchstens eine Antwort möglich | GÖSA | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | Feld nur  ausfüllbar, wenn bei 9a. "ja" |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) aber nur wenn bei 9a. "ja" angekreuzt wurde; mindestens eine Antwort aber nur,wenn bei 9a. "ja". angekreuzt wurde angekreuzt wurde angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich (Nummern 9b. und 9c.) oder (Nummer 9d.) Man beachte, dass es sich um ein nicht- ausschließendes 'Oder' handelt, bspw. ist auch die Kombination (9b und 9d) ohne Warnung erlaubt.
+KBV_ITA_VGEX_Plausis_QSHGV * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
+dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) aber nur wenn bei 9a. "ja" angekreuzt wurde; mindestens eine Antwort aber nur,wenn bei 9a. "ja". angekreuzt wurde angekreuzt wurde angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich (Nummern 9b. und 9c.) oder (Nummer 9d.) Man beachte, dass es sich um ein nicht- ausschließendes 'Oder' handelt, bspw. ist auch die Kombination (9b und 9d) ohne Warnung erlaubt.Seite 2 von 6
+
 
 ---
+
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung
 
 |  | Hörreste | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -357,9 +375,16 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  | **Kombinierte Schwerhörigkeit** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-(WHO 2001): rechts Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein "anderes" angekreuzt wurde. mehrere Antworten sind möglich In den drei Nummern zusammen dürfen maximal einmal "rechts" und maximal einmal "links" angekreuzt werden.
+KBV_ITA_VGEX_Plausis_QSHGV * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
+(WHO 2001): rechts Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein "anderes" angekreuzt wurde. mehrere Antworten sind möglich In den drei Nummern zusammen dürfen maximal einmal "rechts" und maximal einmal "links" angekreuzt werden.Seite 3 von 6
+
 
 ---
+
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -478,9 +503,16 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-(WHO 2001): links tonaudiometrischer Mittelwert bei 0,5 / 1 / 2 / 4 kHz  80dB nach WHO 2001 Diagnosen Gerätetechnik: Luftleitung Gerätetechnik: Knochenleitung angekreuzt wurde.
+KBV_ITA_VGEX_Plausis_QSHGV * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
+(WHO 2001): links tonaudiometrischer Mittelwert bei 0,5 / 1 / 2 / 4 kHz  80dB nach WHO 2001 Diagnosen Gerätetechnik: Luftleitung Gerätetechnik: Knochenleitung angekreuzt wurde.Seite 4 von 6
+
 
 ---
+
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -599,9 +631,16 @@ dBopt keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ab
 |  |  |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-Gerätetechnik: HNO-ärztlichen Vorschlag zur Ge- Sonderversorgung rätetechnik wobei T=Tag, M=Monat und J=Jahr ist) Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein angekreuzt wurde. angekreuzt wurde,
+KBV_ITA_VGEX_Plausis_QSHGV * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
+Gerätetechnik: HNO-ärztlichen Vorschlag zur Ge- Sonderversorgung rätetechnik wobei T=Tag, M=Monat und J=Jahr ist) Verordnung und Verordnung) ODER (Nach Verordnung) müssen ausgefüllt sein angekreuzt wurde. angekreuzt wurde,Seite 5 von 6
+
 
 ---
+
+IT in der Arztpraxis Plausibilitäten QS Hörgeräteversorgung
 
 |  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -720,4 +759,8 @@ Gerätetechnik: HNO-ärztlichen Vorschlag zur Ge- Sonderversorgung rätetechnik 
 |  | ja | true / false | nein | höchstens eine Antwort möglich | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |  | nein | true / false | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
-mit Hörgerät(en): _____ % (E/Z) mit Hörgerät(en): _____ dB (SVS) Hörweite (m) ohne HG Hörweite (m) mit HG mittels APHAB-Fragebogen (vor / nach HG-Versorgung): _____ % keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ja; angekreuzt wurde; mindestens eine Antwort angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde. angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich
+KBV_ITA_VGEX_Plausis_QSHGV * Version 1.02
+
+Die Spalten: "Pflichtfeld", "Antwortmöglichkeiten" und "Wertebereich" sind verpflichtend. Über die Spalte "optional Plausibilitäten" kann sich der Arzt hinwegsetzen.
+
+mit Hörgerät(en): _____ % (E/Z) mit Hörgerät(en): _____ dB (SVS) Hörweite (m) ohne HG Hörweite (m) mit HG mittels APHAB-Fragebogen (vor / nach HG-Versorgung): _____ % keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) keine Nachkommastellen) ja; angekreuzt wurde; mindestens eine Antwort angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde. angekreuzt wurde, mehrere Antworten möglich angekreuzt wurde, mehrere Antworten möglichSeite 6 von 6

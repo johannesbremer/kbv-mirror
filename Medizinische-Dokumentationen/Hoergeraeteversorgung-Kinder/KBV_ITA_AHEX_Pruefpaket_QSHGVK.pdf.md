@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHGVK]
 
+Seite 1 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -68,6 +70,10 @@ INHALT
 
 **22**
 
+Seite 2 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung
+
+-Kinder / Version: 3.01 / 12. August 2021
+
 Prüfunterlagen Prüfvorgaben 
 
 
@@ -80,6 +86,8 @@ Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispi
 Abbildung 2: Testdatenvalidierung 21
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 21
+
+Seite 3 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 ---
 
@@ -102,6 +110,8 @@ Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von 
 15.08.2019 KBV
 
 12.03.2018 KBV
+
+Seite 4 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 **Änderung**
 
@@ -163,6 +173,8 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
+Seite 5 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
 ---
 
 ## 1.3 ZERTIFIZIERUNGSPORTAL
@@ -199,6 +211,9 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 1 Mit XKM verschlüsseltes Zip-Archiv. Das Sternchen ist als Wildcard zu verstehen und stellt eine „beliebige“ Zeichenfolge dar.  (Namensvergabekonventionen beachten!)
 
+________________
+
+Seite 6 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 ---
 
@@ -236,6 +251,8 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Zu verwendende Prüfnummer:** | Y/58/1307/36/000 |
 
 ##
+
+Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 
 ---
@@ -277,8 +294,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 |  |  |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-nd einer Nachsorge andere Ursache  andere 
+Seite 8 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+nd einer Nachsorge andere Ursache  andere
 
 ---
 
@@ -301,6 +319,10 @@ nd einer Nachsorge andere Ursache  andere
 | Hörgeräte-Versorgungserfolg ermittelt durch |  |
 | Versorgung erfolgte zuzahlungsfrei |  |
 | Kooperation erfolgt mit |  |
+
+Seite 9 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+
+12. August 2021
 
 Versorgungskonzept andere 
 
@@ -342,6 +364,8 @@ Versorgungskonzept andere
 |  |  |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
+Seite 10 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
 andere Ursache 
 
 
@@ -366,6 +390,10 @@ andere Ursache
 | Hörgeräte-Versorgungserfolg ermittelt durch |  |
 | Versorgung erfolgte zuzahlungsfrei | ja |
 | Kooperation erfolgt mit | Pädagoge |
+
+Seite 11 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+
+12. August 2021
 
 Versorgungskonzept andere 
 
@@ -407,8 +435,9 @@ Versorgungskonzept andere
 |  | *Andere Gerätetechnik Luftleitung* |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Kopfbügel / Stirnband; |
 
-teilimplantiertes Knochenleitungsgerät
+Seite 12 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+teilimplantiertes Knochenleitungsgerät
 
 ---
 
@@ -431,6 +460,10 @@ teilimplantiertes Knochenleitungsgerät
 | Hörgeräte-Versorgungserfolg ermittelt durch | Sprachaudiometrie; |
 | Versorgung erfolgte zuzahlungsfrei | nein |
 | Kooperation erfolgt mit | Logopäde; Pädagoge; |
+
+Seite 13 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+
+12. August 2021
 
 Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; andere altersgerechte Testverfahren Betreuungseinrichtung 
 
@@ -472,6 +505,8 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 |  | ** |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | teilimplantiertes Knochenleitungsgerät |
 
+Seite 14 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
 andere Ursache andere 
 
 
@@ -496,6 +531,10 @@ andere Ursache andere
 | Hörgeräte-Versorgungserfolg ermittelt durch | andere altersgerechte |
 | Versorgung erfolgte zuzahlungsfrei | ja |
 | Kooperation erfolgt mit | Betreuungseinrichtung |
+
+Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+
+12. August 2021
 
 Versorgungskonzept Testverfahren 
 
@@ -538,8 +577,9 @@ Versorgungskonzept Testverfahren
 | Sprachentwicklungsstörung | nein; nicht beurteilbar |
 |  | ** |
 
-verhindert andere Ursache andere Ursache 
+Seite 16 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
+verhindert andere Ursache andere Ursache
 
 ---
 
@@ -575,6 +615,10 @@ verhindert andere Ursache andere Ursache
 | Versorgung erfolgte zuzahlungsfrei | nein |
 | Kooperation erfolgt mit |  |
 
+Seite 17 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Version: 3.01 / 12. August 2021
+
 Taubheit aufgestellten Versorgungskonzept andere 
 
 
@@ -592,6 +636,10 @@ Taubheit aufgestellten Versorgungskonzept andere
 | Hörgeräte-Versorgungserfolg ermittelt durch | Sprachaudiometrie |
 | Versorgung erfolgte zuzahlungsfrei |  |
 | Kooperation erfolgt mit | Logopäde |
+
+Seite 18 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
+
+Version: 3.01 / 12. August 2021
 
 aufgestellten Versorgungskonzept andere 
 
@@ -618,6 +666,8 @@ aufgestellten Versorgungskonzept andere
 \| Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als PDF-Dokument |
 \| **Szenario 4** |
 \| Zeigen Sie mittels Screenshots, dass eine Korrektur/Änderung der im Prüffall 5802 erstellten |
+
+Seite 19 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 Hörgeräteversorgung Kinder (s. Angabe der Patienten-ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten-ID nicht akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01.2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). 
 
@@ -659,6 +709,8 @@ Hörgeräteversorgung Kinder (s. Angabe der Patienten-ID ist eine bereits existi
 |  | ** |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
+Seite 20 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
 Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgesetzt haben -Datei  
 
 
@@ -673,6 +725,8 @@ Abbildung 2: Testdatenvalidierung
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien
+
+Seite 21 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
 
 ---
 
@@ -696,4 +750,8 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Kinder Hörgeräteversorgung Kinder Hörgeräteversorgung Kinder Versorgung TestschlüsselKassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 22 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+
+Kinder Hörgeräteversorgung Kinder Hörgeräteversorgung Kinder Versorgung Testschlüssel

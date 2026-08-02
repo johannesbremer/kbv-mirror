@@ -7,6 +7,8 @@ Stand der letzten Bearbeitung: 11-10-2024
 
 Version 2.0
 
+Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024 1
+
 
 ---
 
@@ -52,11 +54,15 @@ tend.
 
 Geben Sie bitte die Anzahl (ohne Nachkommastelle) aller ungeplanten vollstationären Aufenthalte we-gen Herzinsuffizienz seit der letzten Dokumentation an. Erfolgte seit der letzten Dokumentation kein un-geplanter stationärer Aufenthalt, geben Sie bitte eine
 
+Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024
+
 **Folgedokumentation**
 
 „0“ an
 
-tisch) gen, Luftnot oder Angina pectoris. gina pectoris, z. B. Bergaufgehen oder Treppensteigen. wohnter Tätigkeit.  gina pectoris, z. B. Gehen in der Ebene.möglich und hier verpflich-
+möglich und hier verpflich-
+
+tisch) gen, Luftnot oder Angina pectoris. gina pectoris, z. B. Bergaufgehen oder Treppensteigen. wohnter Tätigkeit.  gina pectoris, z. B. Gehen in der Ebene.2
 
 
 ---
@@ -89,6 +95,9 @@ Evidenzbasierte Dosistabelle (Quelle: modifiziert übernommen aus “2021 ESC Gu
 | Trandolapril | 1x4 mg/d |
 | **ARNI** | |
 | Sacubitril/ Valsartan | 2x97/103 mg/d |
+
+Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024 3
+
 
 ---
 
@@ -127,6 +136,8 @@ Mindestens eine Angabe ist erforderlich, wenn unter ACE-Hemmer die  ist.
 
 „Max. tolerierte Dosis erreicht“ geben Sie bitte an, wenn bei  Berücksichtigung der Verträglichkeit die maximal tolerierte Dosis des ACE-Hemmers oder des ARB er-
 
+Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024
+
 ob die Nicht-Verordnung auf eine Kontraindikation
 
 sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der
@@ -142,6 +153,8 @@ Angabe „Ja“ oder „ARB“ erfolgt -Hemmers oder des ARB
 (siehe
 
 -Hemmers oder des ARB
+
+4
 
 
 ---
@@ -182,6 +195,8 @@ Mindestens eine Angabe ist erforderlich, wenn unter MRA die
 
 „Titrationsphase“ geben Sie bitte an, wenn sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  Aufdosierung des MRA befindet. Die Angabe „Titrationsphase“ kann nicht gleichzeitig mit der Angabe  Max. tolerierte Dosis erreicht“ erfolgen.
 
+Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024
+
 „Titrati-
 
 Nein“
@@ -204,6 +219,8 @@ Angabe „Ja“ erfolgt ist.
 MRA bei Ihrer Patientin bzw. Ihrem
 
 MRA bei Ihrer Patientin bzw.  Geben Sie gegebenenfalls  tolerierte Dosis erreicht“ an.
+
+5
 
 
 ---
@@ -244,6 +261,8 @@ Bei der Erstdokumentation ist hier keine Angabe möglich.
 
 Hat Ihre Patientin oder Ihr Patient im Dokumentationszeitraum an einer Schulung teilgenommen, geben  Sie bitte **„Ja“** an. War die Teilnahme an einer Herzinsuffizienz-spezifischen -Schulung innerhalb des Do-kumentationszeitraums aus **nachvollziehbaren Gründen nicht möglich**, geben Sie hier bitte **„War aktu-** **ell nicht möglich“** an. Diese Antwort ist anzugeben, wenn z. B. organisatorische oder andere patienten-seitige Voraussetzungen für die Teilnahme an einer Herzinsuffizienz-spezifischen -Schulung nicht gege-ben sind. Weitere Gründe können z.B. fehlende Schulungskapazität, Krankenhausaufenthalt der Patientin  oder des Patienten oder private Gründe sein. Die Beurteilung, ob die Gründe nachvollziehbar sind, obliegt
 
+Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024 6
+
 
 ---
 
@@ -274,3 +293,5 @@ Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
 Insbesondere bei symptomatischen Patientinnen bzw. Patienten mit einer Herzinsuffizienz sollte das Pro-tokollieren von täglichen Gewichtskontrollen vereinbart werden, um eine eventuelle Volumenbelastung  rechtzeitig zu erkennen.
 
 Bitte geben Sie hier an, ob Sie das Führen eines Gewichtsprotokolls empfohlen haben oder nicht. Sollte  nach Ihrer Einschätzung das Führen eines Gewichtsprotokolls nicht notwendig sein, geben Sie dies bitte  mit „Nicht erforderlich“ an.
+
+Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024 7

@@ -145,7 +145,7 @@ GO-Nummern-Zusatz
 |---|---|
 | 5099 | Lebenslange Arztnummer (LANR) des Leistungserbringers |
 
-2 / KBV / SCHLÜSSELTABELLE - S_EBM_ZUSATZANGABE
+Seite 2 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_ZUSATZANGABE
 
 **Bezeichnung**
 

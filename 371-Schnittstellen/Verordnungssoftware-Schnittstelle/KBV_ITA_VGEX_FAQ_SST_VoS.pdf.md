@@ -13,7 +13,9 @@
 
 ## [KBV_ITV_VGEX_FAQ_SST_VOS]
 
-BUNDESVEREINIGUNG   IT IN DER VERSORGUNG    
+Seite 1 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version:
+
+BUNDESVEREINIGUNG   IT IN DER VERSORGUNG    2.1.2 / 2. September 2025
 
 
 ---
@@ -54,6 +56,9 @@ BUNDESVEREINIGUNG   IT IN DER VERSORGUNG
 
 **13**
 
+Seite 2 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version: 2.1.2 / 2. September 2025
+
+
 ---
 
 DOKUMENTENHISTORIE
@@ -67,7 +72,9 @@ DOKUMENTENHISTORIE
 | 1.20.0 | 08.07.2021 | KBV | Neue Fragen | E-Rezept | 6 ff. |
 | 1.0 | 15.06.2020 | KBV | Dokumenterstellung |  | alle |
 
-Kompetenzzentrum für entfernt  Interoperabilität im Gesundheits- wesen (KIG) aufgenommen aufgenommen Überarbeitung 
+Seite 3 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version:
+
+Kompetenzzentrum für entfernt  Interoperabilität im Gesundheits- wesen (KIG) aufgenommen aufgenommen Überarbeitung 2.1.2 / 2. September 2025
 
 
 ---
@@ -75,6 +82,9 @@ Kompetenzzentrum für entfernt  Interoperabilität im Gesundheits- wesen (KIG) a
 # 1 ALLGEMEINES
 
 Die vorliegenden FAQs richten sich an Hersteller, welche die B1- und/oder B2-Schnittstelle für  Verordnungssoftware nach §371 Absatz 1 Nummer 2 SGB V realisieren.
+
+Seite 4 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version: 2.1.2 / 2. September 2025
+
 
 ---
 
@@ -111,6 +121,9 @@ Die im Zertifizierungsportal hinterlegten Profile, gegen die die eingereichten R
 | **BSP_Medication_Compounding_2** | | |
 | Warning @ Medication.extension[0].value.ofType(CodeableConcept).coding[0] (line 10, col12): The display  "Pharmaceutical / biologic product (product) : Has product characteristic (attribute) = Manual method  (qualifier value)" is not a valid display for the code  {http://snomed.info/sct}373873005:860781008=362943005 - should be one of ['Pharmaceutical / biologic  product where Has product characteristic = Manual method'] (from http://tx.fhir.org/r4) f³r  "http://snomed.info/sct#373873005:860781008=362943005" | | |
 
+Seite 5 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version: 2.1.2 / 2. September 2025
+
+
 ---
 
 \| BSP_MEDICATION_COMPOUNDING_3 |
@@ -130,6 +143,9 @@ Die Vorbedingung hierbei ist, dass der Arzt bestimmte Daten und/oder Verordnungs
 **PVS: VoS mit Aufrufkontext = 1 inkl. mit oder ohne DocumentReference aufrufen**
 
 Beim Aufruf der VoS übergibt das PVS eine eindeutige ID für die Daten, die sogenannte Kontext-ID, und  stellt gleichzeitig die funktionsrelevanten gesammelten Daten der VoS zur Verfügung. Für die Stornierung  eines Rezeptes wird der Aufrufkontext = 1 (ohne Aufrufkontext) verwendet. Das E-Rezept kann als Anhang  in der DocumentReference übermittelt werden.
+
+Seite 6 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version: 2.1.2 / 2. September 2025
+
 
 ---
 
@@ -158,6 +174,9 @@ Das PVS markiert den entsprechenden Eintrag als gelöscht.
 **PVS: Daten zusammenstellen**
 
 Die Vorbedingung hierbei ist, dass der Arzt bestimmte Daten und/oder Verordnungsfunktionen im PVS  ausgewählt hat. Auf dieser Grundlage stellt das PVS die für die VoS erforderlichen Daten zusammen.
+
+Seite 7 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version: 2.1.2 / 2. September 2025
+
 
 ---
 
@@ -198,6 +217,8 @@ Für die Übertragung einer Stornierung eines E-Rezepts wird von der VoS eine In
 
 Das PVS übernimmt die Speicherung des E-Rezeptes und markiert den entsprechenden Eintrag gegebenfalls  als gelöscht.
 
+Seite 8 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version: 2.1.2 / 2. September 2025
+
 
 ---
 
@@ -233,6 +254,9 @@ Für die Übertragung von signierten eRezepten (eRP) zwischen Praxisverwaltungss
 
 In diesen Instanzen wird das signierte eRP als PKCS#7-Datei übermittelt und im Anschluss im PVS bzw. in  der VoS weiterverarbeitet
 
+Seite 9 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller / Version: 2.1.2 / 2. September 2025
+
+
 ---
 
 Für die Instanz der DocumentReference werden folgende Inhalte und Werte vorgegeben, wenn es sich um  ein signiertes eRP handelt:
@@ -257,6 +281,11 @@ Die E-Rezepte werden entsprechend der Spezifikation des E-Rezepts mit den dort f
 Papiergebundene Rezepte:
 
 Die Verordnungsdaten der papiergebundenen Rezepte werden über die Profile  KBV_PR_VoS_Medication_Compounding, KBV_PR_VoS_Medication_FreeText,  KBV_PR_VoS_Medication_Ingredient, KBV_PR_VoS_Medication_PZN und KBV_PR_VoS_Prescription der  VoS-SST als Inhalte des Speicherbundles KBV_PR_VoS_Bundle_VoS_PVS an das PVS übertragen. Die PDF-Ausdrucke der Rezepte werden als DocumentReferences im Speicherbundle aufgenommen.
+
+Seite 10 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller /
+
+Version: 2.1.2 / 2. September 2025
+
 
 ---
 
@@ -286,6 +315,10 @@ Für alle englische Codes werden entsprechende deutsche Übersetzungen zur Verf�
 
 [Nähere Informationen finden Sie unter:](https://mio.kbv.de/display/BASE1X0/FAQ)[https://mio.kbv.de/display/BASE1X0/FAQ](https://mio.kbv.de/display/BASE1X0/FAQ)[](https://mio.kbv.de/display/BASE1X0/FAQ)
 
+Seite 11 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller /
+
+Version: 2.1.2 / 2. September 2025
+
 
 ---
 
@@ -296,6 +329,11 @@ Nach SGB V §372 Absatz 3, sowie SGB V §387 Absatz 1 „führt das Kompetenzzen
 [Für die Zertifizierung ist somit nun das KIG der gematik (](https://www.ina.gematik.de/kig)[https://www.ina.gematik.de/kig](https://www.ina.gematik.de/kig)[) zuständig. Bitte](https://www.ina.gematik.de/kig) erfragen Sie dort das weitere Vorgehen.
 
 Die derzeitig gültigen KBV-Zertifikate werden planmäßig auslaufen.
+
+Seite 12 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0 - FAQ für Softwarehersteller /
+
+Version: 2.1.2 / 2. September 2025
+
 
 ---
 
@@ -316,4 +354,10 @@ Dezernat Digitalisierung und IT
 
 IT in der Versorgung  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)
 
-Verordnungssoftware-Schnittstelle nach §371 Absatz 1 Nummer 2 SGB V  Absatz 1 Nummer 2 SGB V Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 13 von 13 / KBV / VERORDNUNGSSOFTWARE-SCHNITTSTELLE Version 2.1.0  Version: 2.1.2 / 2. September 2025
+
+- FAQ für Softwarehersteller /
+
+Verordnungssoftware-Schnittstelle nach §371 Absatz 1 Nummer 2 SGB V  Absatz 1 Nummer 2 SGB V 

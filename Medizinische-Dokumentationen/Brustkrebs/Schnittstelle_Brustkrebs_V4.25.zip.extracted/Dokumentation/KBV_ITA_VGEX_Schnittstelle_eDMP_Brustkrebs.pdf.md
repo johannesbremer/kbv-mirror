@@ -11,6 +11,8 @@
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_DMP_BRUSTKREBS]
 
+Seite 1 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
@@ -42,6 +44,8 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 5.1.8
 
+Seite 2 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 **DOKUMENTATION“**
 
 caption  content  Sciphox-SSU observation  Parameter  Ergebnistext  Ergebniswert
@@ -56,8 +60,9 @@ N  M  Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktive
 
 **9** **10** **13** **15** 16 16 18 18 19 19  19 20 20 20 21 21 21 22 22 22 23 23 24 25 26 26 27 27 27 28 29 29 30
 
-Kardinalität Sonstige Symbole 30 31
+30 31
 
+Kardinalität Sonstige Symbole
 
 ---
 
@@ -80,6 +85,8 @@ Kardinalität Sonstige Symbole 30 31
 **7 GLOSSAR**
 
 **8 REFERENZIERTE DOKUMENTE**
+
+Seite 3 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 Therapie bei Knochenmetastasen (Bisphosphonate)  Therapie bei Knochenmetastasen (Denosumab)  Abschnitt „Sonstige Befunde“  Symptomatisches Lymphödem  Empfehlung zu regelmäßigem körperlichen Training abgegeben
 
@@ -109,6 +116,8 @@ Körpergewicht  Abschnitt „Behandlung bei fortgeschrittener Erkrankung (lokore
 
 **ABBILDUNG 1:** GRUNDSTRUKTUR LEVELONE .................................................................................................................. 13  **ABBILDUNG 2:** GRUNDSTRUKTUR BODY (ED) .................................................................................................................. 15 **ABBILDUNG 3:** GRUNDSTRUKTUR SECTION (ED) ............................................................................................................. 16 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 18 **ABBILDUNG 5:** GRUNDSTRUKTUR SECTION (FD) ............................................................................................................. 37
 
+Seite 4 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 |  |  |
 |---|---|
 
@@ -118,6 +127,8 @@ Körpergewicht  Abschnitt „Behandlung bei fortgeschrittener Erkrankung (lokore
 ## TABELLENVERZEICHNIS
 
 **TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN ......................................................................................................... 11  **TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE .................................................................................... 11 **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 12 **TABELLE 4:** SONDERZEICHEN IN XML ............................................................................................................................... 13 **TABELLE 5:** WERTE BEI ERGEBNISTEXT (OPERATIVE THERAPIE) (ED) ............................................................................... 24 **TABELLE 6:** WERTE BEI ERGEBNISTEXT (TNM-KLASSIFIZIERUNG) (ED) ............................................................................. 25 **TABELLE 7:** WERTE BEI ERGEBNISTEXT (T) (ED) ................................................................................................................ 26 **TABELLE 8:** WERTE BEI ERGEBNISTEXT (N) (ED) ............................................................................................................... 27 **TABELLE 9:** WERTE BEI ERGEBNISTEXT (M) (ED) ............................................................................................................... 27 **TABELLE 10:** WERTE BEI ERGEBNISTEXT (HORMONREZEPTORSTATUS ÖSTROGEN UND/ODER PROGESTERON (GEMÄß  IMMUNREAKTIVER SCORE [IRS]")) (ED) ................................................................................................................... 27 **TABELLE 11:** WERTE BEI ERGEBNISTEXT (AKTUELLE ADJUVANTE ENDOKRINE THERAPIE) (ED) ....................................... 29 **TABELLE 12:** WERTE BEI ERGEBNISTEXT (NEBENWIRKUNGEN DER AKTUELLEN ADJUVANTEN ENDOKRINEN THERAPIE)  (ED)........................................................................................................................................................................... 29 **TABELLE 13:** WERTE BEI ERGEBNISTEXT (FORTFÜHRUNG DER ADJUVANTEN ENDOKRINEN THERAPIE) (ED) ................. 30 **TABELLE 14:** WERTE BEI ERGEBNISTEXT (BEI PATIENTINNEN UNTER ADJUVANTER THERAPIE MIT  AROMATASEINHIBITOREN, SOFERN DIE ABSICHT FÜR EINE SPEZIFISCHE MEDIKAMENTÖSE THERAPIE EINER  OSTEOPOROSE BESTEHT: DXA-BEFUND) (ED) .......................................................................................................... 30 **TABELLE 15:** WERTE BEI ERGEBNISTEXT (LOKALISATION VON FERNMETASTASEN) (ED) ................................................. 31 **TABELLE 16:** WERTE BEI ERGEBNISTEXT (THERAPIE BEI KNOCHENMETASTASEN (BISPHOSPHONATE)) (ED) .................. 32 **TABELLE 17:** WERTE BEI ERGEBNISTEXT (THERAPIE BEI KNOCHENMETASTASEN (DENOSUMAB)) (ED) .......................... 32 **TABELLE 18:** WERTE BEI ERGEBNISTEXT (SYMPTOMATISCHES LYMPHÖDEM) (ED) ......................................................... 34 **TABELLE 19:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZU REGELMÄßIGEM KÖRPERLICHEN TRAINING ABGEGEBEN)  (ED)........................................................................................................................................................................... 34 **TABELLE 20:** WERTE BEI ERGEBNISTEXT (Z. N. BESONDERS KARDIOTOXISCHER TUMORTHERAPIE) (ED) ....................... 35 **TABELLE 21:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) (ED) ............................................................... 36 **TABELLE 22:** WERTE BEI ERGEBNISTEXT (EINSCHREIBUNG ERFOLGTE WEGEN) (FD) ...................................................... 39 **TABELLE 23:** WERTE BEI ERGEBNISTEXT (AKTUELLE ADJUVANTE ENDOKRINE THERAPIE) (FD) ....................................... 41 **TABELLE 24:** WERTE BEI ERGEBNISTEXT (NEBENWIRKUNGEN DER AKTUELLEN ADJUVANTEN ENDOKRINEN THERAPIE)  (FD) ........................................................................................................................................................................... 41 **TABELLE 25:** WERTE BEI ERGEBNISTEXT (FORTFÜHRUNG DER ADJUVANTEN ENDOKRINEN THERAPIE SEIT DER LETZTEN  DOKUMENTATION) (FD) ........................................................................................................................................... 42 **TABELLE 26:** WERTE BEI ERGEBNISTEXT (BEI PATIENTINNEN UNTER ADJUVANTER THERAPIE MIT  AROMATASEINHIBITOREN, SOFERN DIE ABSICHT FÜR EINE SPEZIFISCHE MEDIKAMENTÖSE THERAPIE EINER  OSTEOPOROSE BESTEHT: DXA-BEFUND) (FD) .......................................................................................................... 43 **TABELLE 27:** WERTE BEI ERGEBNISTEXT (LOKOREGIONÄRES REZIDIV (DATUM DER HISTOLOGISCHEN SICHERUNG)) (FD) ................................................................................................................................................................................. 44 **TABELLE 28:** WERTE BEI ERGEBNISTEXT (KONTRALATERALER BRUSTKREBS (DATUM DES HISTOLOGISCHEN  SICHERUNG)) (FD) .................................................................................................................................................... 44 **TABELLE 29:** WERTE BEI ERGEBNISTEXT (LOKALISATION VON FERNMETASTASEN (DATUM DER DIAGNOSTISCHEN  SICHERUNG)) (FD) .................................................................................................................................................... 45 **TABELLE 30:** WERTE BEI ERGEBNISTEXT (BIOPTISCHE SICHERUNG DER VISZERALEN METASTASEN) (FD) ...................... 45 **TABELLE 31:** WERTE BEI ERGEBNISTEXT (SYMPTOMATISCHES LYMPHÖDEM) (FD) ......................................................... 46 **TABELLE 32:** WERTE BEI ERGEBNISTEXT (EMPFEHLUNG ZU REGELMÄßIGEM KÖRPERLICHEN TRAINING ABGEGEBEN)  (FD) ........................................................................................................................................................................... 47 **TABELLE 33:** WERTE BEI ERGEBNISTEXT (Z. N. BESONDERS KARDIOTOXISCHER TUMORTHERAPIE) (FD)........................ 47 **TABELLE 34:** WERTE BEI ERGEBNISTEXT (THERAPIE BEI KNOCHENMETASTASEN (BISPHOSPHONATE)) (FD) .................. 49 **TABELLE 35:** WERTE BEI ERGEBNISTEXT (THERAPIE BEI KNOCHENMETASTASEN (DENOSUMAB)) (FD) .......................... 50 **TABELLE 36:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) (FD) ............................................................... 50
+
+Seite 5 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 |  |  |
 |---|---|
@@ -129,6 +140,8 @@ Körpergewicht  Abschnitt „Behandlung bei fortgeschrittener Erkrankung (lokore
 
 **XML-CODE 1:** LEVELONE ................................................................................................................................................... 13  **XML-CODE 2:** BODY (ED)................................................................................................................................................... 15 **XML-CODE 3:** SECTION (ED) .............................................................................................................................................. 17 **XML-CODE 4:** CONTENT MIT SCIPHOX-SSU (OBSERVATION) ........................................................................................... 18 **XML-CODE 5:** BEOBACHTUNGEN ...................................................................................................................................... 19 **XML-CODE 6:** PARAMETER ............................................................................................................................................... 19 **XML-CODE 7:** ERGEBNISTEXT ........................................................................................................................................... 19 **XML-CODE 8:** ERGEBNISWERT .......................................................................................................................................... 20 **XML-CODE 9:** LOKALISATION ............................................................................................................................................ 20 **XML-CODE 10:** NORMBEREICH ......................................................................................................................................... 20 **XML-CODE 11:** ZEITPUNKT_DTTM .................................................................................................................................... 21 **XML-CODE 12:** CONTENT (EINSCHREIBUNG) (ED) ............................................................................................................ 21 **XML-CODE 13:** PRIMÄRTUMOR DATUM DER HISTOLOGISCHEN SICHERUNG (ED) .......................................................... 22 **XML-CODE 14:** KONTRALATERALER BRUSTKREBS DATUM DER HISTOLOGISCHEN SICHERUNG (ED) .............................. 22 **XML-CODE 15:** LOKOREGIONÄRES REZIDIV DATUM DER HISTOLOGISCHEN SICHERUNG (ED) ........................................ 22 **XML-CODE 16:** FERNMETASTASEN DATUM DER DIAGNOSTISCHEN SICHERUNG VON FERNMETASTASEN (ED) ............. 22 **XML-CODE 17:** ANAMNESE UND BEHANDLUNGSSTATUS DES PRIMÄRTUMORS/KONTRALATERALEN BRUSTKREBSES  (ED)........................................................................................................................................................................... 23 **XML-CODE 18:** OPERATIVE THERAPIE (ED) ....................................................................................................................... 23 **XML-CODE 19:** CONTENT (AKTUELLER BEFUNDSTATUS DES PRIMÄRTUMORS/KONTRALATERALEN BRUSTKREBSES) (ED) ................................................................................................................................................................................. 25 **XML-CODE 20:** TNM-KLASSIFIZIERUNG (ED)..................................................................................................................... 25 **XML-CODE 21:** T (ED) ........................................................................................................................................................ 26 **XML-CODE 22:** N (ED) ....................................................................................................................................................... 26 **XML-CODE 23:** M (ED) ...................................................................................................................................................... 27 **XML-CODE 24:** HORMONREZEPTORSTATUS ÖSTROGEN UND/ODER PROGESTERON (GEMÄß IMMUNREAKTIVER SCORE  [IRS]) (ED) ................................................................................................................................................................. 27 **XML-CODE 25:** CONTENT (BEHANDLUNG DES PRIMÄRTUMORS/KONTRALATERALEN BRUSTKREBSES) (ED) ................. 28 **XML-CODE 26:** AKTUELLE ADJUVANTE ENDOKRINE THERAPIE (ED) ................................................................................ 28 **XML-CODE 27**: NEBENWIRKUNGEN DER AKTUELLEN ADJUVANTEN ENDOKRINEN THERAPIE (ED) ................................ 29 **XML-CODE 28**: FORTFÜHRUNG DER ADJUVANTEN ENDOKRINEN THERAPIE (ED) ........................................................... 29 **XML-CODE 29**: BEI PATIENTINNEN UNTER ADJUVANTER THERAPIE MIT AROMATASEINHIBITOREN, SOFERN DIE  ABSICHT FÜR EINE SPEZIFISCHE MEDIKAMENTÖSE THERAPIE EINER OSTEOPOROSE BESTEHT: DXA-BEFUND (ED) ................................................................................................................................................................................. 30 **XML-CODE 30:** CONTENT (BEFUNDE UND THERAPIE VON FERNMETASTASEN) (ED)....................................................... 31 **XML-CODE 31:** LOKALISATION VON FERNMETASTASEN (ED) .......................................................................................... 31 **XML-CODE 32:** THERAPIE BEI KNOCHENMETASTASEN (BISPHOSPHONATE) (ED) ............................................................ 32 **XML-CODE 33:** THERAPIE BEI KNOCHENMETASTASEN (DENOSUMAB) (ED) .................................................................... 32 **XML-CODE 34:** CONTENT (SONSTIGE BEFUNDE) (ED) ...................................................................................................... 33 **XML-CODE 35**: SYMPTOMATISCHES LYMPHÖDEM (ED) .................................................................................................. 33 **XML-CODE 36**: EMPFEHLUNG ZU REGELMÄßIGEM KÖRPERLICHEN TRAINING ABGEGEBEN (ED) .................................. 34 **XML-CODE 37:** Z. N. BESONDERS KARDIOTOXISCHER TUMORTHERAPIE (ED) ................................................................. 34 **XML-CODE 38:** KÖRPERGRÖßE (ED) ................................................................................................................................. 35 **XML-CODE 39:** KÖRPERGEWICHT (ED) ............................................................................................................................. 35 **XML-CODE 40:** CONTENT (BEHANDLUNGSPLANUNG) (ED).............................................................................................. 36 **XML-CODE 41**: DOKUMENTATIONSINTERVALL (ED) ........................................................................................................ 36 **XML-CODE 42:** SECTION (FD) ............................................................................................................................................ 38 **XML-CODE 43:** CONTENT (EINSCHREIBUNG ERFOLGTE WEGEN) (FD) ............................................................................. 39 **XML-CODE 44**: EINSCHREIBUNG ERFOLGTE WEGEN (FD) ................................................................................................ 39 **XML-CODE 45:** BEHANDLUNGSSTATUS NACH OPERATIVER THERAPIE DES PRIMÄRTUMORS/KONTRALATERALEN  BRUSTKREBSES (ADJUVANTE THERAPIE) (FD) .......................................................................................................... 40 **XML-CODE 46:** AKTUELLE ADJUVANTE ENDOKRINE THERAPIE (FD) ................................................................................ 41 **XML-CODE 47**: NEBENWIRKUNGEN DER AKTUELLEN ADJUVANTEN ENDOKRINEN THERAPIE (FD) ................................ 41 **XML-CODE 48**: FORTFÜHRUNG DER ADJUVANTEN ENDOKRINEN THERAPIE SEIT DER LETZTEN DOKUMENTATION (FD) ................................................................................................................................................................................. 42
 
+Seite 6 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 |  |  |
 |---|---|
 
@@ -136,6 +149,8 @@ Körpergewicht  Abschnitt „Behandlung bei fortgeschrittener Erkrankung (lokore
 ---
 
 **XML-CODE 49**: BEI PATIENTINNEN UNTER ADJUVANTER THERAPIE MIT AROMATASEINHIBITOREN, SOFERN DIE  ABSICHT FÜR EINE SPEZIFISCHE MEDIKAMENTÖSE THERAPIE EINER OSTEOPOROSE BESTEHT: DXA-BEFUND (FD) ................................................................................................................................................................................. 42  **XML-CODE 50:** CONTENT (SEIT DER LETZTEN DOKUMENTATION NEU AUFGETRETENE EREIGNISSE) (FD) ..................... 43 **XML-CODE 51:** LOKOREGIONÄRES REZIDIV (DATUM DER HISTOLOGISCHEN SICHERUNG) (FD) ..................................... 44 **XML-CODE 52:** KONTRALATERALER BRUSTKREBS (DATUM DES HISTOLOGISCHEN SICHERUNG) (FD) ............................ 44 **XML-CODE 53:** LOKALISATION VON FERNMETASTASEN (DATUM DER DIAGNOSTISCHEN SICHERUNG) (FD) ................. 45 **XML-CODE 54**: BIOPTISCHE SICHERUNG DER VISZERALEN METASTASEN (FD) ................................................................ 45 **XML-CODE 55**: SYMPTOMATISCHES LYMPHÖDEM (FD) .................................................................................................. 46 **XML-CODE 56:** CONTENT (SONSTIGE BEFUNDE) (FD) ...................................................................................................... 46 **XML-CODE 57**: EMPFEHLUNG ZU REGELMÄßIGEM KÖRPERLICHEN TRAINING ABGEGEBEN (FD) .................................. 47 **XML-CODE 58:** Z. N. BESONDERS KARDIOTOXISCHER TUMORTHERAPIE (FD) ................................................................. 47 **XML-CODE 59:** KÖRPERGRÖßE (FD) ................................................................................................................................. 48 **XML-CODE 60:** KÖRPERGEWICHT (FD) ............................................................................................................................. 48 **XML-CODE 61:** CONTENT (BEFUNDE UND THERAPIE VON FERNMETASTASEN) (FD) ....................................................... 48 **XML-CODE 62:** THERAPIE BEI KNOCHENMETASTASEN (BISPHOSPHONATE) (FD) ............................................................ 49 **XML-CODE 63:** THERAPIE BEI KNOCHENMETASTASEN (DENOSUMAB) (FD) .................................................................... 49 **XML-CODE 64:** CONTENT (BEHANDLUNGSPLANUNG) (FD) .............................................................................................. 50 **XML-CODE 65**: DOKUMENTATIONSINTERVALL (FD) ......................................................................................................... 50
+
+Seite 7 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 |  |  |
 |---|---|
@@ -154,6 +169,8 @@ Körpergewicht  Abschnitt „Behandlung bei fortgeschrittener Erkrankung (lokore
 | 4.20 | 11.12.2017 | KBV | Angleichung der |  |  |
 | 4.00 | 16.10.2013 | KBV | Verwendung des neuen  Änderung der Schemaversion | Anpassung des eDoku- |  |
 | 3.00 | 07.05.2012 | KBV | Überarbeitung der Abschnitte, | Die GBA-Richtlinie ersetzt |  |
+
+Seite 8 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 markiert) Abschnittsüberschrift (grün markiert) Plausibilitäten zum 01.10.2024 Format 42, 43 zum 01.10.2018 Plausibilitäten Reihenfolge getauscht Versionsnummern von der Schnittstellenbeschreibung und dem Schnittstellenpaket Headers an eGK 5.2.0 eDoku-Headers: KBV_ITA_VGEX_Schnittstelle_e Header Kapiteln und Parameter. die RSAV
 
@@ -178,6 +195,8 @@ Diese Schnittstellenbeschreibung ist so angelegt, dass prinzipiell alle Ausfüll
 Die Regeln zur Plausibilisierung sind in den jeweiligen Plausibilitätskatalogen zum DMP  Brustkrebs zu  entnehmen. Herausgeber und Verantwortlicher für diese Plausibilitätskataloge sind die Spitzenverbände  der Krankenkassen [52
 
 Die XML-Dateien werden gegen die durch die KBV erweiterten HL7-Schemata und die KBV-Prüfschemata  *DMP_Brustkrebs_ED.xsd* und *DMP_Brustkrebs_FD.xsd* geprüft. Erst danach kann gesagt werden, ob eine  Datei und somit die Erst- bzw. Folge-Dokumentation fehlerfrei ist.
+
+Seite 9 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 |  |  |
 |---|---|
@@ -214,6 +233,8 @@ Beispiele:
 - 123456789_123_20210701.EBK
 - 123456789_123_20211001.FBK
 
+Seite 10 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 |  |  |
 |---|---|
 
@@ -249,9 +270,9 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
+Seite 11 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
-|  |  |
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. |  |  |
 |---|---|
 
 
@@ -270,6 +291,8 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | *Gruppenelement* Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
+
+Seite 12 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. welches mehrere Elemente zusammenfasst.
 
@@ -309,7 +332,11 @@ Folgender Code ist für diese Elemente zwingend vorgeschrieben:
 \| <?xml version="1.0" encoding="ISO-8859-15" standalone="yes"?>  <levelone xmlns="urn::hl7-org/cda"        **  **   </levelone> |
 \|---|
 
-beide Schreibweisen sind laut W3C- dieses Zeichen “ ist laut W3C -Spezifikation erlaubt. xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body> **XML-Code 1:** levelone
+**XML-Code 1:** levelone
+
+Seite 13 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+beide Schreibweisen sind laut W3C- dieses Zeichen “ ist laut W3C -Spezifikation erlaubt. xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance> <clinical_document_header> . . . </clinical_document_header> <body> </body>
 
 |  |  |
 |---|---|
@@ -320,6 +347,8 @@ beide Schreibweisen sind laut W3C- dieses Zeichen “ ist laut W3C -Spezifikatio
 Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentationen in dem  Dokument „Schnittstellenbeschreibung DMP Header“ [KBV_ITA_VGEX_Schnittstelle_eHeader] beschrieben.
 
 Die Struktur des Elements <body> wird in Kapitel 5 erläutert.
+
+Seite 14 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 |  |  |
 |---|---|
@@ -341,6 +370,8 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus.
 \|---|
 
 **XML-Code 2:** body (ED)
+
+Seite 15 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 <section> </section>
 
@@ -364,6 +395,8 @@ Zu jedem <paragraph>-Element muss ein Kindelement <caption> mit der Abschnittsü
 
 Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Element section wie folgt aus.
 
+Seite 16 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 |  |  |
 |---|---|
 
@@ -375,7 +408,11 @@ Wenn sämtliche Abschnitte Daten enthalten, sieht der Coderahmen für das Elemen
 
 **XML-Code 3:** section (ED)
 
-<paragraph> <caption_cd DN="Einschreibung"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese und Behandlungsstatus des Primärtumors/kontralateralen Brustkrebses"/> <content> ... </content> <paragraph> <caption_cd DN="Aktueller Befundstatus des Primärtumors/kontralateralen Brustkrebses"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlung des Primärtumors/kontralateralen Brustkrebses"/> <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content>|  |  |
+Seite 17 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<paragraph> <caption_cd DN="Einschreibung"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese und Behandlungsstatus des Primärtumors/kontralateralen Brustkrebses"/> <content> ... </content> <paragraph> <caption_cd DN="Aktueller Befundstatus des Primärtumors/kontralateralen Brustkrebses"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlung des Primärtumors/kontralateralen Brustkrebses"/> <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content>
+
+|  |  |
 |---|---|
 
 
@@ -400,7 +437,11 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 **Abbildung 4:** Aufbau Sciphox-SSU observation
 
-<local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup> Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
+Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
+
+Seite 18 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descriptor="sciphox"> ... </sciphox:sciphox-ssu> </local_markup>
 
 |  |  |
 |---|---|
@@ -437,7 +478,11 @@ Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen
 
 ### Ergebniswert
 
-<sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen> <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ...Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
+
+Seite 19 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Beobachtung> </sciphox:Beobachtung> <sciphox:Beobachtung>  <!-- eventuell mehrere Beobachtung-Elemente--> </sciphox:Beobachtung> </sciphox:Beobachtungen> <sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ...
 
 |  |  |
 |---|---|
@@ -479,7 +524,11 @@ Das Element <Zeitpunkt_dttm> enthält das V-Attribut, in das ein Datum eingetrag
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Ergebniswert V="..." U="..."/> <sciphox:Lokalisation V="..."/> <sciphox:Normbereich> <sciphox:Obergrenze V =" " U %" DN sciphox:Normbereich oberer Normwert des Labors"/> <sciphox:Zeitpunkt_dttm V="..."/>|  |  |
+Seite 20 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Ergebniswert V="..." U="..."/> <sciphox:Lokalisation V="..."/> <sciphox:Normbereich> <sciphox:Obergrenze V =" " U %" DN sciphox:Normbereich oberer Normwert des Labors"/> <sciphox:Zeitpunkt_dttm V="..."/>
+
+|  |  |
 |---|---|
 
 
@@ -506,7 +555,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### Primärtumor Datum der histologischen Sicherung
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Primärtumor Datum der histologischen Sicherung“ und ein Element  <sciphox:Zeitpunkt_dttm>. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
+Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Primärtumor Datum der histologischen Sicherung“ und ein Element  <sciphox:Zeitpunkt_dttm>. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
+
+Seite 21 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 |  |  |
 |---|---|
@@ -556,7 +609,11 @@ Es gilt folgender Coderahmen.
 
 **XML-Code 16:** Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen (ED)
 
-<sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN=" Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen"/> <sciphox:Zeitpunkt_dttm V=" "/>|  |  |
+Seite 22 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Primärtumor Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Kontralateraler Brustkrebs Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Lokoregionäres Rezidiv Datum der histologischen Sicherung"/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN=" Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen"/> <sciphox:Zeitpunkt_dttm V=" "/>
+
+|  |  |
 |---|---|
 
 
@@ -584,7 +641,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Operative Therapie"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Operative Therapie"/> <sciphox:Ergebnistext V="OP geplant"/>**XML-Code 18:** Operative Therapie (ED)
+**XML-Code 18:** Operative Therapie (ED)
+
+Seite 23 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Operative Therapie"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Operative Therapie"/> <sciphox:Ergebnistext V="OP geplant"/>
 
 |  |  |
 |---|---|
@@ -611,6 +672,8 @@ Dieses Kapitel beschreibt den Abschnitt „Aktueller Befundstatus des Primärtum
 Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält maximal fünf Kindelemente <sciphox:Beobachtung> mit den jeweils fest  vorgegebenen <sciphox:Parameter>-Elementen: TNM-Klassifizierung“, „T“, „N“, „M“,  „Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Score [IRS])“
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+
+Seite 24 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
 |  |  |
 |---|---|
@@ -642,7 +705,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 6:** Werte bei Ergebnistext (TNM-Klassifizierung) (ED)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="TNM-Klassifizierung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="T"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="N"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="M"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Score [IRS])"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="TNM-Klassifizierung"/> <sciphox:Ergebnistext V="(c) Klinisch"/> neoadjuvanter Therapie |  |  |
+Seite 25 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="TNM-Klassifizierung"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="T"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="N"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="M"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktiver Score [IRS])"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="TNM-Klassifizierung"/> <sciphox:Ergebnistext V="(c) Klinisch"/> neoadjuvanter Therapie
+
+|  |  |
 |---|---|
 
 
@@ -691,9 +758,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| 2 |
 \| 3 |
 
-<sciphox:Parameter DN="T"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN="N"/> <sciphox:Ergebnistext V="2"/>*V*-Attribut die Feldbezeichnung
+Seite 26 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
-|  |  |
+*V*-Attribut die Feldbezeichnung
+
+<sciphox:Parameter DN="T"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN="N"/> <sciphox:Ergebnistext V="2"/>|  |  |
 |---|---|
 
 
@@ -743,7 +812,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### 5.1.7 Abschnitt „Behandlung des Primärtumors/kontralateralen Brustkrebses
 
-<sciphox:Parameter DN="M"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN=" <sciphox:Ergebnistext V="Dieses Kapitel beschreibt den Abschnitt Behandlung des Primärtumors/kontralateralen Brustkrebses
+Dieses Kapitel beschreibt den Abschnitt Behandlung des Primärtumors/kontralateralen Brustkrebses
+
+Seite 27 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="M"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN=" <sciphox:Ergebnistext V="
 
 |  |  |
 |---|---|
@@ -777,7 +850,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Tamoxifen |
 \| Andere |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie"/> <sciphox:Ergebnistext V="Andere"/>|  |  |
+Seite 28 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN=" Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie"/> <sciphox:Ergebnistext V="Andere"/>
+
+|  |  |
 |---|---|
 
 
@@ -819,7 +896,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-<sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Regulär nach 5 Jahren abgeschlossen"/>**XML-Code 28**: Fortführung der adjuvanten endokrinen Therapie (ED)
+**XML-Code 28**: Fortführung der adjuvanten endokrinen Therapie (ED)
+
+Seite 29 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Regulär nach 5 Jahren abgeschlossen"/>
 
 |  |  |
 |---|---|
@@ -862,7 +943,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Dieses Kapitel beschreibt den Abschnitt Befunde und Therapie von Fernmetastasen
 
-abgebrochen Jahre hinaus <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/>Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel  5.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element
+
+Seite 30 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+abgebrochen Jahre hinaus <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/>
 
 |  |  |
 |---|---|
@@ -899,7 +984,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 15:** Werte bei Ergebnistext (Lokalisation von Fernmetastasen) (ED)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Lokalisation von Fernmetastasen “/> <sciphox:Ergebnistext V="Knochen"/> |  |  |
+Seite 31 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Lokalisation von Fernmetastasen “/> <sciphox:Ergebnistext V="Knochen"/>
+
+|  |  |
 |---|---|
 
 
@@ -945,7 +1034,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 17:** Werte bei Ergebnistext (Therapie bei Knochenmetastasen (Denosumab)) (ED)
 
-<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
+Seite 32 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/>
+
+|  |  |
 |---|---|
 
 
@@ -981,9 +1074,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Ja, Kompressionsarmstrumpftherapie |
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> <sciphox:Ergebnistext V="Nein"/> erforderlich *V*-Attribut die Feldbezeichnung
+Seite 33 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
-|  |  |
+*V*-Attribut die Feldbezeichnung
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> <sciphox:Ergebnistext V="Nein"/> erforderlich |  |  |
 |---|---|
 
 
@@ -1030,7 +1125,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Trastuzumab Anti-HER2-Substanzen |
 \| linksthorakale Bestrahlung |
 
-erforderlich <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/> |  |  |
+Seite 34 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+erforderlich <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/>
+
+|  |  |
 |---|---|
 
 
@@ -1075,7 +1174,11 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>       <sciphox:Beobachtungen>               </content> |
 \|---|
 
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="cm"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
+Seite 35 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="cm"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
+
+|  |  |
 |---|---|
 
 
@@ -1103,6 +1206,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 21:** Werte bei Ergebnistext (Dokumentationsintervall) (ED)
 
+Seite 36 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Jährlich"/>
 
 |  |  |
@@ -1129,6 +1234,8 @@ Zu jedem <paragraph>-Element muss ein Kindelement <caption> mit der Abschnittsü
 
 Wenn sämtliche Abschnitte Daten enthalten sind, sieht der Coderahmen für das Element <section> wie  folgt aus.
 
+Seite 37 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 |  |  |
 |---|---|
 
@@ -1142,7 +1249,11 @@ Wenn sämtliche Abschnitte Daten enthalten sind, sieht der Coderahmen für das E
 
 ### 6.1.2 content
 
-<paragraph> <caption_cd DN="Einschreibung erfolgte wegen"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsstatus nach operativer Therapie des Primärtumors/kontralateralen Brustkrebses (adjuvante Therapie)"/> <content> ... </content> <paragraph> <caption_cd DN="Seit der letzten Dokumentation neu aufgetretene Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Sonstige Befunde"/> <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content>Die Schemastruktur des Elements content bei der Folgedokumentation entspricht der im Abschnitt 5.1.2  beschriebenen Struktur.
+Die Schemastruktur des Elements content bei der Folgedokumentation entspricht der im Abschnitt 5.1.2  beschriebenen Struktur.
+
+Seite 38 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<paragraph> <caption_cd DN="Einschreibung erfolgte wegen"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsstatus nach operativer Therapie des Primärtumors/kontralateralen Brustkrebses (adjuvante Therapie)"/> <content> ... </content> <paragraph> <caption_cd DN="Seit der letzten Dokumentation neu aufgetretene Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Sonstige Befunde"/> <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content> <paragraph> <caption_cd DN=" <content> ... </content>
 
 |  |  |
 |---|---|
@@ -1185,7 +1296,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 22:** Werte bei Ergebnistext (Einschreibung erfolgte wegen) (FD)
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung erfolgte wegen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung erfolgte wegen"/> <sciphox:Ergebnistext V="Primärtumors"/>|  |  |
+Seite 39 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung erfolgte wegen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung erfolgte wegen"/> <sciphox:Ergebnistext V="Primärtumors"/>
+
+|  |  |
 |---|---|
 
 
@@ -1210,9 +1325,11 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  Tabelle 23.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>*V*-Attribut die Feldbezeichnung gemäß
+Seite 40 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
-|  |  |
+*V*-Attribut die Feldbezeichnung gemäß
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>|  |  |
 |---|---|
 
 
@@ -1256,7 +1373,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 24:** Werte bei Ergebnistext (Nebenwirkungen der aktuellen adjuvanten endokrinen  Therapie) (FD)
 
-<sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie"/> <sciphox:Ergebnistext V="Aromataseinhibitoren"/> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Nein"/>|  |  |
+Seite 41 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Aktuelle adjuvante endokrine Therapie"/> <sciphox:Ergebnistext V="Aromataseinhibitoren"/> <sciphox:Parameter DN="Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie"/> <sciphox:Ergebnistext V="Nein"/>
+
+|  |  |
 |---|---|
 
 
@@ -1298,11 +1419,13 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Auffällig |
 
+Seite 42 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 *V*-Attribut die Feldbezeichnung
 
-<sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Keine endokrine Therapie durchgeführt"/> abgebrochen Jahre hinaus <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/>*V*-Attribut die Feldbezeichnung
+*V*-Attribut die Feldbezeichnung
 
-|  |  |
+<sciphox:Parameter DN="Fortführung der adjuvanten endokrinen Therapie seit der letzten Dokumentation"/> <sciphox:Ergebnistext V="Keine endokrine Therapie durchgeführt"/> abgebrochen Jahre hinaus <sciphox:Parameter DN="Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund"/> <sciphox:Ergebnistext V="Auffällig"/>|  |  |
 |---|---|
 
 
@@ -1329,7 +1452,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### Lokoregionäres Rezidiv (Datum der histologischen Sicherung)
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Lokoregionäres Rezidiv (Datum der histologischen Sicherung)“, ein Element  <sciphox:Zeitpunkt_dttm> oder ein Element <sciphox:Ergebnistext> mit der Feldbezeichnung im *V*-Attribut
+Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Lokoregionäres Rezidiv (Datum der histologischen Sicherung)“, ein Element  <sciphox:Zeitpunkt_dttm> oder ein Element <sciphox:Ergebnistext> mit der Feldbezeichnung im *V*-Attribut
+
+Seite 43 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Symptomatisches Lymphödem"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu>
 
 |  |  |
 |---|---|
@@ -1375,11 +1502,13 @@ Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Para
 
 Es gilt folgender Coderahmen.
 
+Seite 44 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 “, ein Element  *V*-Attribut
 
-<sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> <sciphox:Zeitpunkt_dttm V=" "/> "/> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung)"/> "/> <sciphox:Zeitpunkt_dttm V=" "/> “ ein oder  *V*-Attribut gemäß Tabelle 29 und
+“ ein oder  *V*-Attribut gemäß Tabelle 29 und
 
-|  |  |
+<sciphox:Parameter DN="Lokoregionäres Rezidiv (Datum der histologischen Sicherung)"/> <sciphox:Zeitpunkt_dttm V=" "/> "/> <sciphox:Parameter DN="Kontralateraler Brustkrebs (Datum des histologischen Sicherung)"/> "/> <sciphox:Zeitpunkt_dttm V=" "/> |  |  |
 |---|---|
 
 
@@ -1423,7 +1552,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 31
 
-<sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> "/> "/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> <sciphox:Ergebnistext V="Ja"/>Als Beispiel sei hier folgender Code angegeben:
+Als Beispiel sei hier folgender Code angegeben:
+
+Seite 45 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Lokalisation von Fernmetastasen (Datum der diagnostischen Sicherung)"/> "/> "/> <sciphox:Zeitpunkt_dttm V=" "/> <sciphox:Parameter DN="Bioptische Sicherung der viszeralen Metastasen"/> <sciphox:Ergebnistext V="Ja"/>
 
 |  |  |
 |---|---|
@@ -1455,7 +1588,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 \| <content>       <sciphox:Beobachtungen>                                       </content> |
 \|---|
 
-<sciphox:Parameter DN="Symptomatisches Lymphödem"/> <sciphox:Ergebnistext V="Nein"/> erforderlich erforderlich <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 56:** content (Sonstige Befunde) (FD)
+**XML-Code 56:** content (Sonstige Befunde) (FD)
+
+Seite 46 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Symptomatisches Lymphödem"/> <sciphox:Ergebnistext V="Nein"/> erforderlich erforderlich <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 |  |  |
 |---|---|
@@ -1502,7 +1639,11 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 33:** Werte bei Ergebnistext (Z. n. besonders kardiotoxischer Tumortherapie) (FD)
 
-<sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/> |  |  |
+Seite 47 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Empfehlung zu regelmäßigem körperlichen Training abgegeben"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Z. n. besonders kardiotoxischer Tumortherapie"/> <sciphox:Ergebnistext V="Nein"/>
+
+|  |  |
 |---|---|
 
 
@@ -1547,7 +1688,11 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="cm"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>**XML-Code 61:** content (Befunde und Therapie von Fernmetastasen) (FD)
+**XML-Code 61:** content (Befunde und Therapie von Fernmetastasen) (FD)
+
+Seite 48 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="cm"/> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 |  |  |
 |---|---|
@@ -1591,7 +1736,11 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Nein |
 \| Kontraindikation |
 
-<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
+Seite 49 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+<sciphox:Parameter DN="Therapie bei Knochenmetastasen (Bisphosphonate)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Therapie bei Knochenmetastasen (Denosumab)"/> <sciphox:Ergebnistext V="Ja"/>
+
+|  |  |
 |---|---|
 
 
@@ -1630,6 +1779,8 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 36:** Werte bei Ergebnistext (Dokumentationsintervall) (FD)
 
+Seite 50 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Jährlich"/>
 
 |  |  |
@@ -1661,9 +1812,9 @@ Als Beispiel sei hier folgender Code angegeben:
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Ausführender Information Systems in Physician Offices and Hospitals using XML
+Seite 51 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
-|  |  |
+Ausführender Information Systems in Physician Offices and Hospitals using XML |  |  |
 |---|---|
 
 
@@ -1684,7 +1835,11 @@ Dezernat Digitalisierung und IT
 
 IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
-Versorgung Dokumentationen/Brustkrebs/ BK ED pnp A-Datensatz, Plausibilitäten BK FD A- Datensatz, in aktuellster Version, Herausgeber: Spitzenverbände der Krankenkassen Volldatensatz / a-Datensatz Schnittstellenbeschreibung Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
+Seite 52 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
+
+Versorgung Dokumentationen/Brustkrebs/ BK ED pnp A-Datensatz, Plausibilitäten BK FD A- Datensatz, in aktuellster Version, Herausgeber: Spitzenverbände der Krankenkassen Volldatensatz / a-Datensatz Schnittstellenbeschreibung
 
 |  |  |
 |---|---|
