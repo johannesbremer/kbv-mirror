@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**01. AUGUST 2026**
+**15. AUGUST 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -53,7 +53,7 @@ x Vertrieb GmbH
 
 asthenis GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -154,7 +154,7 @@ x
 
 **CGM VT** CGM LAB International GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -261,7 +261,7 @@ x
 
 **TURBOMED** CompuGroup Medical Deutschland AG
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -377,9 +377,11 @@ x
 | **ORBIS®** |  |
 | Dedalus | HealthCare GmbH |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
+
+x
 
 x
 
@@ -556,7 +558,7 @@ Doctolib GmbH
 
 **Limport** Dr. Eissing und Partner GmbH
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -685,7 +687,7 @@ x
 
 **theHub** Fresenius Medical Care Deutschland GmbH
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -868,7 +870,7 @@ HASOMED GmbH
 
 **Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-**
 
@@ -997,7 +999,7 @@ x
 
 **Medical Office** INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -1102,7 +1104,7 @@ x
 
 **smartLIS Laborinformationssystem** **Abrechnungsmodul** labdock GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -1211,7 +1213,7 @@ x
 
 **lab@ccess** LIMETEC Biotechnologies GmbH
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -1304,7 +1306,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
 
@@ -1464,9 +1466,11 @@ x
 | **RadCentre** | **Billing** | **(OPD)** |  |
 | Mesalvo | Mannheim | GmbH |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
+
+x
 
 x
 
@@ -1627,7 +1631,7 @@ Name der Software und Anbieter Medical-Software Frank Savini medicalvalues Order
 
 **dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
 
@@ -1766,7 +1770,7 @@ PRO MEDISOFT AG
 
 **psyprax** psyprax GmbH
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
 
@@ -1896,7 +1900,7 @@ x
 | **star.net®** | **Labor** |  |  |
 | Sonic | Healthcare Germany | GmbH & | Co. KG |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
 
@@ -2066,7 +2070,7 @@ Name der Software und Anbieter QS QualitySoft GmbH RED medical classic RED Medic
 | **AiDKlinik** |  |  |  |
 |  | Universitätsklinikum | Heidelberg |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-**
 
@@ -2155,7 +2159,7 @@ Name der Software und Anbieter Sonic Healthcare Germany GmbH & Co. KG Sonic Heal
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 01. August 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 15. August 2026
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
 

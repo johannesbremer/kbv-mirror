@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<keytabs xmlns="urn:ehd/001">
+	<keytab SV="1.22" SN="S_VDX_KONTO" S="1.2.276.0.76.3.1.1.5.1.17">
+    <key V="3950" DN="Erstattungen für Arznei- und Verbandmittel" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="4" DN="sonstige" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="3960" DN="Erstattungen für Heilmittel" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="4" DN="sonstige" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="3990" DN="Übrige Einnahmen" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="4" DN="sonstige" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4000" DN="Ärztliche Leistungen - morbiditätsbedingte Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4001" DN="Ärztliche Leistungen - extrabudgetäre Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4002" DN="Psychotherapeutische Leistungen - morbiditätsorientierte Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4003" DN="Psychotherapeutische Leistungen - extrabudgetäre Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4005" DN="Sachleistungen Dialyse" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4006" DN="Ambulante Komplexbehandlung nach § 92 Abs. 6b SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4008" DN="Ärztliche Leistungen bei Empfängnisverhütung, Sterilisation und Schwangerschaftsabbruch - morbiditätsbedingte Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4009" DN="Ärztliche Leistungen bei Empfängnisverhütung, Sterilisation und Schwangerschaftsabbruch  - extrabudgetäre Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4012" DN="Ambulantes Operieren - morbiditätsbedingte Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4013" DN="Ambulantes Operieren - extrabudgetäre Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4014" DN="Belegärztliche Leistungen - morbiditätsbedingte Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="2" DN="stationär" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4015" DN="Belegärztliche Leistungen - extrabudgetäre Gesamtvergütung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="2" DN="stationär" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4021" DN="Früherkennung von Krankheiten bei Kindern" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4022" DN="Früherkennung von Krebserkrankungen bei Frauen" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4023" DN="Früherkennung von Krebserkrankungen bei Männern" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4024" DN="Früherkennung von anderen Krankheiten" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4025" DN="Ärztliche Leistungen bei Schwangerschaft und Mutterschaft" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4026" DN="Ärztliche Leistungen Schutzimpfungen § 20i SGB V - Regelleistung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4027" DN="Ärztliche Leistungen Schutzimpfungen § 20i SGB V - Satzungsleistung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4040" DN="Vertragsärztliche Leistungen strukturierte Behandlungsprogramme" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4050" DN="Soziotherapie § 37a SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4060" DN="Spezialisierte ambulante Palliativversorgung § 37b SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4080" DN="Hausarztverträge § 73b SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="5" DN="ergänzende Verträge" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4081" DN="Ambulante ärztliche Leistungen - besondere Versorgung § 140a SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="5" DN="ergänzende Verträge" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4082" DN="Sachleistungen Dialyse - besondere Versorgung § 140a SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="5" DN="ergänzende Verträge" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4083" DN="Leistungen § 73c SGB V in der bis 22.07.2015 geltenden Fassung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="5" DN="ergänzende Verträge" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4092" DN="Leistungen für nicht vertragskonforme Inanspruchnahme (NVI)" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4099" DN="Sonstige ärztliche Leistungen" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="4" DN="sonstige" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4220" DN="Ambulante Behandlung im Krankenhaus § 116 SGB V und § 116a SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4230" DN="Leistungen in Hochschulambulanzen § 117 Abs. 1 und 2 SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4232" DN="Behandlung in psychiatrischen und psychosomatischen Institutsambulanzen § 118 SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4233" DN="Behandlung in geriatrischen Institutsambulanzen § 118a SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4234" DN="Behandlung in pädiatrischen Institutsambulanzen nach § 118b SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="1" DN="ambulant" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4360" DN="Arzneimittel von Sonstigen" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="4" DN="sonstige" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="4615" DN="Empfängnisverhütung, Sterilisation und Schwangerschaftsabbruch Krankenhausbehandlung" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="2" DN="stationär" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="5803" DN="Modellvorhaben nach § 63 Abs. 2 SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="5" DN="ergänzende Verträge" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="5840" DN="Ausgaben für Projekte nach § 92a SGB V" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="6" DN="Innovationsfonds" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+    <key V="9959" DN="Unspezifische Vorgänge und Beträge" S="1.2.276.0.76.3.1.1.5.1.17" SV="1.22">
+			<fkey V="4" DN="sonstige" S="1.2.276.0.76.5.234" SV="1.04" R="Art der Leistungserbringung"/>
+	</key>
+</keytab>
+</keytabs>

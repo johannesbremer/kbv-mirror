@@ -6,7 +6,9 @@ Weitere Informationen zur Einlösung finden Sie unter: www.das-e-rezept-fuer-deu
 
 Patientenausdruck DIN A5 (7.2026)
 
-**ausgestellt von** **ausgestellt am**
+**ausgestellt von**
+
+**ausgestellt am**
 
 **Ausdruck zur Einlösung Ihrer Verordnung:**
 
@@ -34,9 +36,7 @@ Praxis für Innere Medizin
 030/40052121
 [zukunftspraxis@kbv.de](mailto:zukunftspraxis@kbv.de)
 02.02.2026
-Digitale Gesundheitsanwendung
-**HelloBetter Vaginismus 001**
-PZN: 17348623
+Digitale Gesundheitsanwendung  **HelloBetter Vaginismus 001** PZN:17348623
 13.12.1965
 A123456789
 Prof. Dr. Erika Anna Maria Elisa  Johanna zu Windischgarshausen,  Freifrau von Mustermann

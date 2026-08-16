@@ -4,135 +4,62 @@
 \|  |
 \|---|
 
-|  | **BUNDESVEREINIGUNG  DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.05   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. AUGUST 2026   VERSION: 1.06   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRÜFPAKET EDMP-RHEUMATOIDE  ARTHRITIS
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_RHEUMATOIDE ARTHRITIS]
 
-Seite 1 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 1 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
-KASSENÄRZTLICHE IT IN DER ARZTPRAXIS 
+BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
 ---
 
-## INHALT
+INHALT
 
-**ALLGEMEINES**
+| ALLGEMEINES | 4 |
+|---|---|
+| 1.1 Rechtsgrundlage | 4 |
+| 1.2 Zertifizierungsablauf | 4 |
+| 1.3 Zertifizierungsportal | 5 |
+| 1.4 Zertifizierungsdokumente | 5 |
+| 1.5 Prü funterlagen | 5 |
+| 1.6 Prü fvorgaben | 7 |
+| 1.6.1 Schnittstellenversionen | 7 |
+| 1.6.2 Datumseingaben | 7 |
+| 1.6.3 Prü fstammdaten | 7 |
+| 1.6.4 Versichertendaten | 7 |
+| 1.6.5 Praxisdaten/ Arztstempel | 8 |
+| 1.6.6 Krankenhausdaten | 8 |
+| 1.6.7 Prü fnummer | 8 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
+| 1.6.9 Auflistung der Prü ffä lle | 9 |
 
-**4**
-
-1.1 Rechtsgrundlage
-
-4
-
-1.2 Zertifizierungsablauf
-
-4
-
-1.3 Zertifizierungsportal
-
-5
-
-1.4 Zertifizierungsdokumente
-
-5
-
-1.5 Prüfunterlagen
-
-5
-
-1.6 Prüfvorgaben
-
-7
-
-1.6.1 Schnittstellenversionen
-
-7
-
-1.6.2 Datumseingaben
-
-7
-
-1.6.3 Prüfstammdaten
-
-7
-
-1.6.4 Versichertendaten
-
-7
-
-1.6.5 Praxisdaten/ Arztstempel
-
-8
-
-1.6.6 Krankenhausdaten
-
-8
-
-1.6.7 Prüfnummer
-
-8
-
-1.6.8 Stammdatei der Datenannahmestellen (SDDA) 9
-
-1.6.9 Auflistung der Prüffälle 9
-
-**PRÜFFÄLLE**
-
-**10**
-
-2.1 Prüffälle Dokumentation
-
-10
-
-2.1.1 Prüffall 7211
-
-10
-
-2.1.2 Prüffall 7212
-
-13
-
-2.1.3 Prüffall 7220
-
-16
-
-2.2 Prüffall Systemreaktion
-
-20
-
-2.2.1 Prüffall 7214
-
-20
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 24
-
-2.3.1 Prüffall 7230
-
-24
-
-2.3.2 Prüffall 7240
-
-26
+| PRÜ FFÄ LLE |  |  |  | 10 |
+|---|---|---|---|---|
+| 2.1 Prü | ffä lle |  | Dokumentation | 10 |
+| 2.1.1 |  | Prü ffall | 7211 | 10 |
+| 2.1.2 |  | Prü ffall | 7212 | 13 |
+| 2.1.3 |  | Prü ffall | 7220 | 16 |
+| 2.2 Prü | ffall |  | Systemreaktion | 20 |
+| 2.2.1 |  | Prü ffall | 7214 | 20 |
+| 2.3 Weitere | | Prü ffä | lle zum Anforderungskatalog | 24 |
+| 2.3.1 |  | Prü ffall | 7230 | 24 |
+| 2.3.2 |  | Prü ffall | 7240 | 26 |
 
 **TESTDATENVALIDIERUNG**
 
 **27**
 
-3.1 Prüffall TDV7218
+3.1 Beispieldaten zur Testdatenvalidierung 28
 
-28
-
-**ANHANG**
-
-**31**
-
-4.1 Prüffall 7220 - Ersatzverfahren 31
-
-4.2 Prüffall TDV7218 - Testdatenvalidierung 32
+|  | ANHANG |  | 31 |
+|---|---|---|---|
+| 4.1 | Prü ffall | 7220 - Ersatzverfahren | 31 |
+| 4.2 | TDV7218 | - Testdatenvalidierung | 32 |
 
 **REFERENZIERTE DOKUMENTE**
 
@@ -140,7 +67,10 @@ KASSENÄRZTLICHE IT IN DER ARZTPRAXIS
 
 Seite 2 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis /
 
-Version: 1.05 / 1. Juli 2026
+Version: 1.06 / 14. August 2026
+
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 7211 Prüffall 7212 Prüffall 7220 Prüffall Systemreaktion Prüffall 7214 Weitere Prüffälle zum Anforderungskatalog Prüffall 7230 Prüffall 7240 Prüffall 7220 - Ersatzverfahren TDV7218 - Testdatenvalidierung 
+
 
 ---
 
@@ -152,22 +82,23 @@ Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
 
 Abbildung 3: Testdatenvalidierung
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7218
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne TDV7218
 
-Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV7218
+Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.05 | 01.07.2026 | KBV | Aufnahme eines Testfalls | Schnittstellenversion | 9,  27,  32 |
-| 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle    Anpassung Prüffall 7240 | Schnittstellenversion    Änderung der | 7, 10ff        26 |
-| 1.03 | 15.08.2025 | KBV | Datumsanpassung im | Änderung der | 26 |
-| 1.02 | 12.05.2025 | KBV | Datumsanpassungen der  Überarbeitung des  Überarbeitung des |  | 7  9ff    20    24 |
-| 1.01 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 9ff |
+| 1.06 | 14.08.2026 | KBV | Anpassung der Prüffälle an      Anpassung Prüffall 7240 | Schnittstellenversion    Änderung der | 10ff        26 |
+| 1.05 | 01.07.2026 | KBV | Aufnahme eines Testfalls für | Schnittstellenversion | 9,  27,  32 |
+| 1.04 | 31.03.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7240 | Schnittstellenversion    Änderung der | 7, 10ff        26 |
+| 1.03 | 15.08.2025 | KBV | Datumsanpassung im Prüffall | Änderung der | 26 |
+| 1.02 | 12.05.2025 | KBV | Datumsanpassungen der  Überarbeitung des Testfalls  Überarbeitung des Testfalls |  | 7  9ff    20    24 |
+| 1.01 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der Medikamente | Datumsanpassungen | 9ff |
 | 1.00 | 08.11.2022 | KBV | Dokumenterstellung | Initiale Erstellung | Alle |
 
-Seite 3 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026 6
+Seite 3 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026 6
 
 6
 
@@ -177,7 +108,7 @@ Seite 3 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1
 
 28
 
-für die 1.01 ist ab 01.10.2026 Testdatenvalidierung zur zu verwenden 1.01 ist ab 01.10.2026 Schnittstellenversionen zu verwenden Barcodeversion (03) ab Prüffälle. Testfalls 7214 Testfalls 7230 Prüffälle. Medikamente im Prüffall 6513 für DM2. 1.10.2026 Barcodeversion ab 1.1.2025 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden).
+Schnittstellenversionen 1.01 die Testdatenvalidierung zur Schnittstellenversion 1.01 Schnittstellenversionen 1.01 Prüffälle. 7214 7230 Prüffälle. im Prüffall 6513 für DM2. 1.01 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 1.01 ist ab 01.10.2026 zu verwenden 1.01 ist ab 01.10.2026 zu verwenden Barcodeversion (03) ab 1.10.2026 Barcodeversion ab 1.1.2025 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden).
 
 ---
 
@@ -209,7 +140,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 **HINWEIS**
 
-Seite 4 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 4 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 ---
 
@@ -247,15 +178,17 @@ Je Betriebsstättennummer werden eine Begleitdatei und eine Archivdatei (*.zip.X
 
 [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere der in dem  Prüffall 7220 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls
 
-Seite 5 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 5 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 ---
 
 dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei  verschlüsselt (*.zip.XKM) direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
 
-- **Videodateien Videomitschnitte oder Screenshots ausgewählter Anforderungen und**  **Teilnahmeerklärung:**
+- **Videodateien Videomitschnitte oder Screenshots ausgewählter Anforderungen und**
 
-Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 7240) müssen in  einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
+#### - Teilnahmeerklärung:
+
+Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 7240) müssen in  einem gesonderten Ordner „**Dokumentation** entsprechen. Diese werden durch den Prüfer begutachtet.
 
 - _[lfdNr.]2 3
 -  PrüffallNr. 1
@@ -267,19 +200,74 @@ Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 Das ZIP-Archiv kann je nach Komponentenzulassung (DM2) unterschiedliche Strukturen aufweisen. Im  Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung  von rheumatoide Arthritis) dargestellt.
 
+Name
+
+Zert_110_SystemID.zip
+
+Dokumentation
+
+391234511_20261031101010_1_RA_101.idx
+
+391234511_20261031101010_1_RA_101.zip.XKM
+
+856215715_20261031101010_1_RA_101.idx
+
+856215715_20261031101010_1_RA_101.zip.XKM
+
 Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+
+Name
+
+391234511_20261031101010_1_RA_101.zip.XKM  Rheumatoide_Arthritis
+
+Dokumentation 391234511_7211_20261015.EERA
+
+391234511_7211_20261015.EVRA
+
+391234511_7212_20261015.EERA
+
+391234511_7212_20261015.EVRA
 
 Abbildung 2: Exemplarische Struktur der Archivdatei mit den Prüfunterlagen
 
-________________
-
-**1 Nummer des Prüffalls**
+________________  **1 Nummer des Prüffalls**
 
 **2 Laufende Nr.**
 
 **3 Gängiges Bild- bzw. Videoformat**
 
-Seite 6 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 6 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
+
+“ übermittelt werden und folgender Namenskonvention
+
+Typ
+
+ZIP-komprimierter Ordner
+
+Dateiordner
+
+IDX-Datei
+
+XKM-Datei
+
+IDX-Datei
+
+XKM-Datei
+
+Typ
+
+XKM-Datei   Dateiordner
+
+Dateiordner
+
+EERA-Datei
+
+EVRA-Datei
+
+EERA-Datei
+
+EVRA-Datei
+
 
 ---
 
@@ -289,12 +277,14 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 ### 1.6.1 Schnittstellenversionen
 
-- Indikation **Rheumatoide Arthritis:**  Ab dem **1. April 2022** muss die Schnittstellenversion **1.00** verwendet werden.
-- Indikation **Diabetes mellitus Typ 2:**  Ab dem **1. Oktober 2023** muss die Schnittstellenversion **6.07** verwendet werden
+- Indikation **Rheumatoide Arthritis:**  Ab dem 01. April 2022 bis zum 30.09.2026 muss die Schnittstellenversion 1.00 verwendet werden.  Ab dem **01.10.2026** muss die Schnittstellenversion **1.01** verwendet werden.
+- Indikation **Diabetes mellitus Typ 2:**  Ab dem 1. Oktober 2023 bis zum 30.09.2026 muss die Schnittstellenversion 6.07 verwendet werden
+
+Ab dem **01.10.2026** muss die Schnittstellenversion **6.08** verwendet werden.
 
 ### 1.6.2 Datumseingaben
 
-- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2023**
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.10.2023 01.10.2026**
 - **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024** **Ausnahme**
 - Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
 - **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum.
@@ -307,13 +297,13 @@ Im Rahmen der Prüfung sind die regulären Stammdateien zu verwenden.
 
 ### 1.6.4 Versichertendaten
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_DMP_V1.0.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_Testfaelle_DMP_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
 - EF.GVD = geschützte Versichertendaten
 
-Seite 7 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 7 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 ---
 
@@ -354,7 +344,7 @@ Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 - RA = X/110/2304/36/000
 - DM2 = X/100/2202/36/000
 
-Seite 8 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 8 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 
 ---
@@ -375,7 +365,7 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **7240** | Lija Malta | XML_36 |
 | **TDV7218** | Robert Arthritis | Ersatzverfahren (s. Anhang 4.2) |
 
-Seite 9 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 9 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 
 ---
@@ -392,7 +382,7 @@ Seite 9 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1
 | **Testziel** | Anlage einer Erst- und einer Folgedokumentation |
 | **Voraussetzung** |  |
 | **Einzureichende  Prüfunterlagen** | 1. eDMP rheumatoide Arthritis Dokumentationsunterlagen |
-| **Hinweis** | Bei der Erfassung der Daten für den Prüffall kann Prüffall 7230 Szenario 3 |
+| **Hinweis** | Bei der Erfassung der Daten für den Prüffall kann Prüffall 7230 Szenario 2 |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -414,7 +404,7 @@ Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübe
 | **3. Subjektive Krankheitsaktivität (VAS)** | 80 | 5 |
 | **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) ** | 70 | 9 |
 
-Seite 10 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 10 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 einlesen und speichern.
 
@@ -445,7 +435,7 @@ aufgezeichnet werden. (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Werteberei
 
 Seite 11 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis
 
-/ Version: 1.05 / 1. Juli 2026
+/ Version: 1.06 / 14. August 2026
 
 Informationsangebote der Krankenkasse 
 
@@ -468,7 +458,7 @@ Informationsangebote der Krankenkasse
 | Rheuma-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Rheuma-Schulung wahrgenommen |  | War aktuell nicht möglich |
 
-Seite 12 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 12 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem Übernahme aus dem
 
@@ -504,7 +494,7 @@ Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübe
 | **3. Subjektive Krankheitsaktivität (VAS)** | 90 | 5 |
 | **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) ** | 900 | 3 |
 
-Seite 13 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 13 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 einlesen und speichern.
 
@@ -536,7 +526,7 @@ einlesen und speichern.
 
 Seite 14 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis
 
-/ Version: 1.05 / 1. Juli 2026
+/ Version: 1.06 / 14. August 2026
 
 Informationsangebote der Krankenkasse 
 
@@ -561,7 +551,7 @@ Informationsangebote der Krankenkasse
 
 Seite 15 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis
 
-/ Version: 1.05 / 1. Juli 2026
+/ Version: 1.06 / 14. August 2026
 
 (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Dokumentation keine 
 
@@ -598,7 +588,7 @@ Erfassen Sie jeweils eine Erst- und Folgedokumentation (s.u., “Indikationsübe
 | **3. Subjektive Krankheitsaktivität (VAS)** | 11 | 10 |
 | **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h)** | 13 | 12 |
 
-Seite 16 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 16 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte das System diese Zulassung nicht besitzen, dann sind nur die rheumatoide Arthritis -Daten zu übermitteln. (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Wertebereich 0 – 100) 
 
@@ -628,7 +618,7 @@ verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert werden. Sollte
 
 Seite 17 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis
 
-/ Version: 1.05 / 1. Juli 2026
+/ Version: 1.06 / 14. August 2026
 
 Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die rheumatoide Arthritis-Dokumentation ist dies Diabetes mellitus. Diabetes mellitus Typ 2 
 
@@ -646,11 +636,11 @@ Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die andere
 | DM2 | eGFR | 160 ml/min/1,73m²KOF | Nicht bestimmt |
 | DM2 | Pulsstatus | Auffällig | Nicht untersucht |
 | DM2 | Sensibilitätsprüfung | Nicht untersucht | Nicht untersucht |
-| DM2 | Weiteres Risiko für Ulcus | Fußdeformität | Fußdeformität, |
+| DM2 | Weiteres Risiko für Ulcus Ulkus | Fußdeformität | Fußdeformität, |
 | DM2 | Ulkus | nein | tief |
 | DM2 | (Wund)Infektion | nein | ja |
 | DM2 | Injektionsstellen |  | Unauffällig |
-| DM2 | Intervall für künftige Fußinspektionen (bei | alle 3 Monate oder | Jährlich |
+| DM2 | Intervall für künftige Fußinspektionen (bei | alle 3 drei Monate oder  häufiger | Jährlich |
 | DM2 | Spätfolgen | Diabetische Neuropathie | Diabetische Retinopathie, |
 | **Relevante Ereignisse** | | | |
 | DM2 | Relevante Ereignisse | Nierenersatztherapie | Keine der genannten |
@@ -679,11 +669,11 @@ Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die andere
 | DM2 | Spätfolgen | Diabetische Neuropathie | Diabetische Retinopathie, |
 |  |  |  |  |
 |  | Nierenersatztherapie | Keine der genannten |  |
-|  |  | 5 |  |
+|  |  |  |  |
 
-Seite 18 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 18 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
-Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchgeführt (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation rheumatoider Arthritis Übernahme aus dem häufiger Übernahme aus dem Hyperkeratose mit Einblutung
+Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchgeführt (bei Insulintherapie) Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation rheumatoider Arthritis Übernahme aus dem Übernahme aus dem Hyperkeratose mit Einblutung
 
 ---
 
@@ -706,7 +696,7 @@ Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchge
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert noch nicht |
 |  | | | |
 |  |  | Behandlung/Mitbehandlung in einer für | Nein |
-|  |  | Diabetesbezogene stationäre Einweisung | Nein |
+|  |  |  |  |
 |  | **Medikamente** | **Schulung** | **Behandlungsplanung** |
 |  | | | |
 |  |  |  |  |
@@ -729,13 +719,13 @@ Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchge
 | DM2 | Empfohlene Hypertonie-Schulung |  | Bei der letzten |
 | **Behandlungsplanung** | | | |
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert noch nicht |
-| DM2 | Ophthalmologische |  | Durchgeführt |
+| DM2 | Ophthalmologische  Netzhautuntersuchung seit der letzten |  | Durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer für | Nein | Ja, Veranlasst |
 | DM2 | Diabetesbezogene stationäre Einweisung | Nein | Nein |
 
-Seite 19 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 19 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
-orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation) Dokumentation) DMP bereits wahrgenommen Netzhautuntersuchung seit letzter Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine
+orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation) Dokumentation) DMP bereits wahrgenommen Dokumentation das Diabetische Fußsyndrom qualifizierten Einrichtung Dokumentation keine
 
 ---
 
@@ -770,7 +760,7 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 | **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Seite 20 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 20 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation Patienten Erkrankungen
 
@@ -799,7 +789,7 @@ Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachl
 
 - **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
 
-Seite 21 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 21 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -854,7 +844,7 @@ Krankenkasse Anamnese- und Befunddaten Aktuelle Krankheitsaktivität - DAS-28-We
 
 Seite 22 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis /
 
-Version: 1.05 / 1. Juli 2026
+Version: 1.06 / 14. August 2026
 
 Krankenkasse Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  Zeitpunkt der aktuellen Dokumentation) durchgeführt 
 
@@ -872,7 +862,7 @@ Krankenkasse Herzinsuffizienz, Asthma bronchiale Ernährungsberatung,  Zeitpunkt
 | Rheuma-Schulung empfohlen (bei aktueller |  | Nr. 9 |
 | Rheuma-Schulung wahrgenommen | Bei letzter Dokumentation |  |
 
-Seite 23 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 23 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 
@@ -901,7 +891,7 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 \|  |
 \| **Aktionen, die durch den Antragsteller durchgeführt werden:** |
 
-Seite 24 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 24 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP einer möglichen Hinweissteuerung. „Aktuelle DMARD-Therapie“ mit weiteren Anamnese- und Befunddaten aus einer vorherigen Dokumentation, gemäß Anforderung P1-50  (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP), vornimmt.  Es wird eine Erstdokumentation angelegt.  Zeigen Sie, dass der Anwender vor der Erstellung einer Erstdokumentation für das eDMP rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS-28) mittels aller vier in Anforderung KP2-20  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS-28-Score automatisch berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Anforderung KP2-30 Zeigen Sie, dass das System dem Anwender einen Hinweistext nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe KP2-01, Akzeptanzkriterium 1 Zeigen Sie, dass der Anwender vor der Erstellung einer Folgedokumentation für das eDMP rheumatoide Arthritis die Bestimmung des Disease Activity Scores 28 (DAS-28) mittels aller vier in Anforderung KP2-20  genannten Parameter durchgeführt haben muss. Dokumentieren Sie auch die Fehler- und Hinweismeldungen des Systems. Zeigen Sie auch, dass das System aus diesen Parameterwerten den DAS-28-Score automatisch berechnet, anzeigt sowie in die Dokumentation übernimmt (siehe auch Anforderung KP2-30 Zeigen Sie, dass das System dem Anwender nach der Erfassung des Parameters „Aktuelle Krankheitsaktivität – DAS-28-Wert“ 
 
@@ -919,7 +909,7 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP eine
 \| **Szenario 3** |
 \| Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS-28)   gemäß  KBV_ITA_VGEX_Anforderungskatalog_eDMP).  Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
 
-Seite 25 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 25 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 die Differenz zum Wert dieses Parameters aus der vorhergehenden verfügbaren anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe einen Hinweistext anzeigt. Dies muss erfolgen, ohne dass der Workflow unterbrochen wird (siehe KP2-10  ermöglicht (siehe Berechnung des DAS-28-Scores eintragen kann. KP2-01, Akzeptanzkriterium 2 KP2-01, Akzeptanzkriterium 3 7212  zur
 
@@ -948,9 +938,9 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | **Administrative Daten** |  |
 | DMP | Rheumatoide Arthritis |
 | DMP-Fallnummer | 1010 |
-| Datum | 15.08.2025 |
+| Datum | 15.08.2025  15.10.2026 |
 
-Seite 26 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 26 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
@@ -961,7 +951,7 @@ Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungs
 
 Alle beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der  Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der multimorbide  Fall „Prüffall 7220“.
 
-Zusätzlich kann optional auch der Prüffall TDV7218 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die neue Schnittstellenversion 1.01 (gültig ab 01.10.2026).
+Zusätzlich kann optional auch das Beispiel TDV7218 in der Testdatenvalidierung genutzt werden. Dieses  validiert gegen die Schnittstellenversion 1.01 (gültig ab 01.10.2026).
 
 Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
 
@@ -969,47 +959,62 @@ Abbildung 3: Testdatenvalidierung
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_110“ beginnen muss, sonst schlägt die Validierung fehl.
 
-Dokumentation              Dateiordner
+Name
 
-391234511_20250406101010_1_ RA_100.idx   IDX-Datei
+**Test**_110_SystemID.zip
 
-391234511_20250406101010_1_ RA_100.idx.XKM  XKM-Datei
+Dokumentation
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7218
+391234511_20261015101010_1_ RA_101.idx
 
-Seite 27 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+391234511_20261015101010_1_ RA_101.zip.XKM
+
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne TDV7218
+
+Seite 27 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
+
+Typ
+
+ZIP-komprimierter Ordner
+
+Dateiordner
+
+IDX-Datei
+
+XKM-Datei
+
 
 ---
 
-**3.1** **PRÜFFALL TDV7218**
+**3.1** **BEISPIELDATEN ZUR TESTDATENVALIDIERUNG**
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | TDV7218 |
-| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit der neuen  Schnittstellenversion |
+| **Testziel** | Anlage einer Erst- und einer Verlaufsdokumentation mit der neuen |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | › |
 | **Hinweis** | Dieser Prüffall ist  daher nicht im Zertifizierungsportal hochgeladen werden. |
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_110“ beginnen muss, sonst schlägt die Validierung fehl.
 
-Name                 Typ
+Name
 
-**Test**_110_SystemID.zip            ZIP-komprimierter Ordner
+**Test**_110_SystemID.zip
 
-Dokumentation            Dateiordner
+Dokumentation
 
-391234511_20250406101010_1_ RA_101.idx   IDX-Datei
+391234511_20261015101010_1_ RA_101.idx
 
-391234511_20250406101010_1_ RA_101.idx.XKM  XKM-Datei
+391234511_20261015101010_1_ RA_101.zip.XKM
 
-Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV7218
+Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.** **Versichertendaten**
 
-Die Versichertendaten von **Robert Arthritis** Anhang 4.2) sind im Ersatzverfahren zu erfassen.
+Die Versichertendaten von **Robert Arthritis** Anhang 4.2
 
 - **2.** **Bestimmung des DAS-28-Scores und Übernahme in die Dokumentation sowie Anlage einer**  **Erstdokumentation**
 
@@ -1023,10 +1028,21 @@ Erfassen Sie jeweils vor der Erst- und Verlaufsdokumentation die Antworten auf d
 | **3. Subjektive Krankheitsaktivität (VAS)** | 80 | 5 |
 | **4. Blutsenkungsgeschwindigkeit (BSG) (mm/h) ** | 70 | 9 |
 
-Seite 28 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 28 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
-1.01 (gültig ab dem  01.10.2026) Rheumatoide Arthritis -Dokumentationsunterlagen nur  für die Testdatenvalidierung, die Prüfunterlagen können (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Wertebereich 0 – 100) 
+Typ
 
+ZIP-komprimierter Ordner
+
+Dateiordner
+
+IDX-Datei
+
+XKM-Datei
+
+) sind im Ersatzverfahren zu erfassen.
+
+Schnittstellenversion  1.01 (gültig Rheumatoide Arthritis -Dokumentationsunterlagen nur  für die Testdatenvalidierung, die Prüfunterlagen können ab dem  01.10.2026) (Wertebereich: 0 – 28) (Wertebereich 0 - 28) (Wertebereich 0 – 100)
 
 ---
 
@@ -1043,9 +1059,9 @@ Seite 28 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 
 | Einschreibung wegen | rheumatoide Arthritis | rheumatoide Arthritis |
 | Geschlecht | Männlich | Männlich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
-| Körpergröße | 2,13 m | 2,13 m |
-| Körpergewicht | 110 kg | 105 kg |
-| Blutdruck (systolisch / diastolisch) | 180 / 101 mmHg | 180 / 101 mmHg |
+| Körpergröße | 1,53 m | 1,53 m |
+| Körpergewicht | 46 kg | 56 kg |
+| Blutdruck (systolisch / diastolisch) | 50 / 30 mmHg | 120 / 90 mmHg |
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
 | **Behandlungsplanung** | | |
@@ -1053,7 +1069,7 @@ Seite 28 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.10.2026 | 15.04.2027 |
 
-Seite 29 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 29 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 - (s.u., “Indikationsübergreifende Daten“ und
 
@@ -1077,7 +1093,7 @@ Informationsangebote der Krankenkasse
 | Rheuma-Schulung empfohlen (bei aktueller | Ja | Nein |
 | Rheuma-Schulung wahrgenommen |  | War aktuell nicht möglich |
 
-Seite 30 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 30 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem Übernahme aus dem
 
@@ -1112,11 +1128,11 @@ Seite 30 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 
 
 Seite 31 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis /
 
-Version: 1.05 / 1. Juli 2026
+Version: 1.06 / 14. August 2026
 
 ---
 
-**4.2** **PRÜFFALL TDV7218 - TESTDATENVALIDIERUNG**
+**4.2** **TDV7218 - TESTDATENVALIDIERUNG**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -1127,7 +1143,7 @@ Version: 1.05 / 1. Juli 2026
 | **3103** | **Geburtsdatum** | 29.09.1969 |
 | **3104** | **Titel** |  |
 | **3119** | **Versicherten_ID** | A290919690 |
-| **3107** | **Straße** | Anneliese- |
+| **3107** | **Straße** | Anneliese- und Georg-von- |
 | **3109** | **Hausnummer** | 110 R |
 | **3112** | **PLZ** | 10117 |
 | **3114** | **Wohnsitzländercode** | D |
@@ -1141,9 +1157,12 @@ Version: 1.05 / 1. Juli 2026
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 12 |
 
-Seite 32 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 32 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis /
 
-und Georg-von-Groscurth-Plaetzchen
+Version: 1.06 / 14. August 2026
+
+Groscurth-Plaetzchen 
+
 
 ---
 
@@ -1167,7 +1186,7 @@ REFERENZIERTE DOKUMENTE
 | KBV_ITA_FMEX_AAZ_eDMP_RA | Antrag auf Zertifizierung eDMP rheumatoide Arthritis |
 | Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
 | KBV-Kryptomodul (XKM) und öffentlicher Test- | KBV-Kryptomodul |
-| VSD_Testfaelle_DMP_Vn.n.zip5 |  |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA (Datenannahmestellen |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 
@@ -1177,7 +1196,7 @@ REFERENZIERTE DOKUMENTE
 
 ________________
 
-Seite 33 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.05 / 1. Juli 2026
+Seite 33 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes daten des strukturierten Behandlungsprogramms daten des strukturierten Behandlungsprogramms Versorgung Stammdateien zu verwenden. schlüssel Stammdatei) 
 
@@ -1194,4 +1213,4 @@ Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefs
 
 Seite 34 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis
 
-/ Version: 1.05 / 1. Juli 2026
+/ Version: 1.06 / 14. August 2026

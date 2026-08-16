@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**01. AUGUST 2026**
+**15. AUGUST 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -39,7 +39,7 @@
 
 Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 01. August 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 15. August 2026
 
 **Prüfnummer**
 
@@ -82,7 +82,7 @@ Y/172/2507/36/253 30.06.2028
 
 Softwarevariante(n): - x.vianova
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 01. August 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 15. August 2026
 
 **Prüfnummer**
 
@@ -129,7 +129,7 @@ Softwarevariante(n): - psyx
 
 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 01. August 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 15. August 2026
 
 **Prüfnummer**
 
@@ -183,7 +183,7 @@ Y/172/2509/36/256
 | 69221 | Dossenheim |  |  |
 | Internet: |  | https://www.nexus-chili.com | |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 01. August 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 15. August 2026
 
 **Prüfnummer**
 
@@ -226,7 +226,7 @@ medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de medisoftw
 
 **Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 01. August 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 15. August 2026
 
 **Prüfnummer**
 
@@ -279,4 +279,4 @@ Y/172/2507/36/457 30.06.2028
 
 Y/172/2510/36/768 30.09.2028
 
-Universitätsklinikum Freiburg AdöR Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.deSeite 7 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 01. August 2026
+Universitätsklinikum Freiburg AdöR Agnesenstraße 6-8 79106 Freiburg Internet: www.uniklink-freiburg.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.deSeite 7 / KBV / Verzeichnis zertifizierter Software für 116117 - Terminservice Abrechnungsinformationen / 15. August 2026

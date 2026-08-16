@@ -6,13 +6,13 @@
 
 # Diabetes mellitus Typ 1 und 2
 
-Stand der letzten Bearbeitung: 22.02.2023
+Stand der letzten Bearbeitung: 22.01.2026
 
-Version 7
+Version 8.0
 
-Anzuwenden ab:   01.10.2023
+Anzuwenden ab:   01.10.2026
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 1
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 1
 
 
 ---
@@ -31,7 +31,7 @@ Wenn Sie eine Werteangabe in mmol/mol vorliegen haben, geben Sie bitte den ganzz
 
 Diese Angabe ist nur im Rahmen einer Dokumentation zu **Diabetes mellitus Typ 1** möglich und  hier verpflichtend. Genau eine Angabe ist zulässig.
 
-Die Bestimmung der Albumin-Kreatinin-Ratio (AKR) muss jährlich erfolgen. Bei Kindern und  Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren Diabetesdauer,  frühestens ab dem 11. Lebensjahr erfolgen.
+Die Bestimmung der Albumin-Kreatinin-Ratio (AKR) muss jährlich erfolgen. Bei Kindern und  Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren Diabetesdauer,  frühestens ab dem elften Lebensjahr erfolgen.
 
 Als pathologische Albumin-Kreatinin-Ratio ist ein Wert größer 30 mg/g Albumin/Kreatinin zu  bewerten. Geben Sie in diesem Fall bitte „Ja“ an
 
@@ -47,28 +47,30 @@ Sofern Sie die eGFR bestimmt haben, geben Sie den ganzzahligen Wert bitte ohne  
 
 #### Fußstatus
 
-Bei Patientinnen und Patienten mit Diabetes mellitus Typ 1 soll spätestens nach 5 Jahren  Diabetesdauer, bei Patientinnen und Patienten mit Diabetes mellitus Typ 2 unabhängig von der  Diabetesdauer, regelmäßig mindestens einmal jährlich eine Inspektion und Palpation beider Füße  hinsichtlich Hautstatus, Muskelatrophie, Deformitäten, und Temperatur sowie die Untersuchung des  Schuhwerks erfolgen. Es soll auch nach Hyperkeratosen, Mykosen und Fußdeformitäten gesucht  werden.
+Bei Patientinnen und Patienten mit Diabetes mellitus Typ 1 soll spätestens nach fünf Jahren  Diabetesdauer, bei Patientinnen und Patienten mit Diabetes mellitus Typ 2 unabhängig von der  Diabetesdauer, regelmäßig mindestens einmal jährlich eine Inspektion und Palpation beider Füße  hinsichtlich Hautstatus, Muskelatrophie, Deformitäten, und Temperatur sowie die Untersuchung des  Schuhwerks erfolgen. Es soll auch nach Hyperkeratosen, Mykosen und Fußdeformitäten gesucht  werden.
 
-Die jeweiligen Angaben zu den Fragekomplexen „Pulsstatus“, „Sensibilitätsprüfung“, „Weiteres  Risiko für Ulcus“, „Ulkus“ und „(Wund)Infektion“ sind nur dann **verpflichtend**, wenn Ihre Patientin  oder Ihr Patient **das 18. Lebensjahr vollendet** hat. Bei **jüngeren Patienteninnen und Patienten**  sind die Angaben **optional**
+Die jeweiligen Angaben zu den Fragekomplexen „Pulsstatus“, „Sensibilitätsprüfung“, „Weiteres  Risiko für Ulkus“, „Ulkus“ und „(Wund)Infektion“ sind nur dann **verpflichtend**, wenn Ihre Patientin  oder Ihr Patient **das 18. Lebensjahr vollendet** hat. Bei **jüngeren Patienteninnen und Patienten**  sind die Angaben **optional**
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 2
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 2
 
 
 ---
 
 Hat Ihre Patientin oder Ihr Patient das 18. Lebensjahr vollendet, muss jedoch zu jedem  Fragekomplex eine Angabe erfolgen.
 
-Sollte an **beiden Füßen** eine Schädigung vorliegen, muss **nur der schwerer betroffene Fuß**  dokumentiert werden. Es muss zu jedem Parameter, d. h. „Pulsstatus“, „Sensibilitätsprüfung“,  „Weiteres Risiko für Ulcus“, „Ulkus“ und „(Wund)Infektion“ jeweils eine Angabe gemacht werden.
+Sollte an **beiden Füßen** eine Schädigung vorliegen, muss  dokumentiert werden. Es muss zu jedem Parameter, d.  „Weiteres Risiko für Ulkus“, „Ulkus“ und „(Wund)Infektion“
 
 **Pulsstatus**
 
-Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet** haben,  an, ob der Pulsstatus auffällig oder unauffällig ist. Genau eine Angabe ist zulässig.
+Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet** an, ob der Pulsstatus auffällig oder unauffällig ist. Genau eine Angabe ist zulässig.
 
-Bitte geben Sie „**unauffällig**“ nur dann an, wenn **an beiden Füßen keine Auffälligkeit** besteht.
+Bitte geben Sie „**unauffällig**“ nur dann an, wenn
 
 Sollten an beiden Füßen Schädigungen vorliegen, müssen im Weiteren nur Befunde des schwerer  betroffenen Fußes dokumentiert werden.
 
-Bitte geben Sie **auffällig** an, wenn an mindestens einem Fuß Auffälligkeiten des Pulsstatus  bestehen.
+Bitte geben Sie  bestehen.
+
+**auffällig** an, wenn an mindestens einem Fuß Auffälligkeiten des Pulsstatus
 
 Sofern unveränderliche auffällige Befunde bekannt sind, ist keine erneute Untersuchung an dem  betroffenen Fuß notwendig. Diese Befunde sind bis zu einer Befundänderung z. B. nach  rekonstruktiven Maßnahmen zur Wiederherstellung einer ungestörten Durchblutung in den  folgenden Dokumentationen weiterhin als auffällig zu dokumentieren.
 
@@ -76,9 +78,9 @@ Bitte geben Sie „nicht untersucht“ nur dann an, wenn der Pulsstatus an beide
 
 **Sensibilitätsprüfung**
 
-Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet** haben,  an, ob die Sensibilitätsprüfung auffällig oder unauffällig ist. Genau eine Angabe ist zulässig.
+Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet** an, ob die Sensibilitätsprüfung auffällig oder unauffällig ist. Genau eine Angabe ist zulässig.
 
-Bitte geben Sie „**unauffällig**“ nur dann an, wenn an **beiden Füßen keine Auffälligkeit** besteht.
+Bitte geben Sie „**unauffällig**“ nur dann an, wenn an
 
 Sollten an beiden Füßen Schädigungen vorliegen, müssen im Weiteren nur Befunde des schwerer  betroffenen Fußes dokumentiert werden.
 
@@ -90,22 +92,35 @@ Sofern unveränderliche auffällige Befunde bekannt sind, ist keine erneute Unte
 
 Bitte geben Sie „nicht untersucht“ nur dann an, wenn eine Sensibilitätsprüfung an beiden Füßen  nicht durchgeführt wurde.
 
-**Weiteres Risiko für Ulcus**
+**nur der schwerer betroffene Fuß**
+h. „Pulsstatus“, „Sensibilitätsprüfung“,  jeweils eine Angabe gemacht werden.
+
+haben,
+
+**an beiden Füßen keine Auffälligkeit** besteht.
+
+haben,
+
+**beiden Füßen keine Auffälligkeit** besteht.
+
+**Weiteres Risiko für Ulkus**
 
 Geben Sie bitte **bei allen Patientinnen und Patienten, die das 18. Lebensjahr vollendet haben** an, ob ein weiteres Risiko für die Entstehung eines Ulkus besteht. Hierzu zählen die Fußdeformität,
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 3
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 3
 
 
 ---
 
-die Hyperkeratose mit Einblutung, der Zustand nach einem vorherigen Ulcus und auch der Zustand  nach einer Amputation (z. B. des Vorfußes). Mehrfachnennungen sind möglich. Bitte beachten Sie  bei Mehrfachnennungen, dass neben der Angabe „nicht untersucht“ oder „nein“ keine weitere  Angabe gemacht werden kann.
+die Hyperkeratose mit Einblutung, der Zustand nach einem vorherigen Ulkus, und auch der Zustand  nach einer Amputation (z. B. des Vorfußes). Mehrfachnennungen sind möglich.
 
-Sollten an beiden Füßen Auffälligkeiten oder Schädigungen vorliegen, müssen im Weiteren nur  Befunde des schwerer betroffenen Fußes dokumentiert werden.
+Sollten an beiden Füßen Auffälligkeiten oder Schädigungen vorliegen, müssen im Weiteren nur  Befunde **des schwerer betroffenen Fußes** dokumentiert werden.
 
-Bitte geben Sie „nein“ an, wenn an beiden Füßen kein Risiko für ein Ulkus besteht.
+Bitte geben Sie „nein“ an, wenn **an beiden Füßen kein Risiko** für ein Ulkus besteht.
 
-Bitte geben Sie „nicht untersucht“ nur dann an, wenn die Untersuchung auf Ulkus-Risiken an beiden  Füßen nicht durchgeführt wurde.
+Bitte geben Sie „nicht untersucht“ nur dann an, wenn **die Untersuchung** auf Ulkus-Risiken **an**  **beiden Füßen nicht durchgeführt wurde**
+
+Wenn die Angabe „nicht untersucht“ oder „nein“ erfolgt ist, kann keine weitere Angabe gemacht  werden.
 
 **Ulkus**
 
@@ -137,7 +152,7 @@ Geben Sie bitte an, ob die Insulin-Injektionsstellen „Auffällig oder „Unauf
 
 Sollten Sie die Injektionsstellen nicht untersucht haben, geben Sie bitte Nicht untersucht“ an.
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 4
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 4
 
 
 ---
@@ -153,10 +168,10 @@ Anhand der folgenden Kriterien ist die künftige Frequenz der Fußinspektion, ei
 | Befund(e) | Untersuchungs-Intervall |
 |---|---|
 | Keine sensible Neuropathie | Mindestens jährlich |
-| sensible Neuropathie | Mindestens alle 6 Monate |
-| sensible Neuropathie und Zeichen einer peripheren arteriellen | alle 3 Monate oder häufiger |
+| sensible Neuropathie | Mindestens alle sechs Monate |
+| sensible Neuropathie und Zeichen einer peripheren arteriellen | alle drei Monate oder häufiger |
 
-Bitte geben Sie an, ob Sie beabsichtigen, die nächste Fußins „alle 3 Monate oder häufiger“ durchzuführen. Das Untersuchungsintervall kann von dem  Dokumentationsintervall abweichen.
+Bitte geben Sie an, ob Sie beabsichtigen, die nächste Fußins oder „alle drei Monate oder häufiger“ durchzuführen. Das Untersuchungsintervall kann von dem  Dokumentationsintervall abweichen.
 
 #### Spätfolgen
 
@@ -178,11 +193,11 @@ Eine Angabe ist erforderlich. Mehrfachnennungen sind dabei möglich.
 
 Bitte geben Sie an, ob bei Ihrer Patientin oder Ihrem Patienten eines der aufgeführten Ereignisse  eingetreten ist.
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
 
 haben,
 
-pektion „Jährlich“, „alle 6 Monate“ oder
+pektion „Jährlich“, „alle sechs Monate“
 
 Ihrem Patienten eine oder mehrere
 
@@ -223,7 +238,7 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer **Folgedokumentation** mögli
 
 Geben Sie bitte die Anzahl aller notfallmäßigen vollstationären Aufenthalte an, die seit der letzten  Dokumentation aufgrund eines Diabetes mellitus (Typ 1 oder Typ 2) notwendig wurden. Sollte seit  der letzten Dokumentation keine solche Behandlung notwendig gewesen sein, geben Sie bitte die  Zahl „0“ an
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 6
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 6
 
 
 ---
@@ -238,7 +253,7 @@ Eine Metformin-Monotherapie ist bei Diabetes mellitus Typ 2 Mittel der ersten Wa
 
 Patientinnen und Patienten mit unzureichender Kontrolle eines Diabetes mellitus Typ 2 und  Vorliegen einer manifesten kardiovaskulären Erkrankung, die bereits mit Medikamenten zur  Behandlung kardiovaskulärer Risikofaktoren behandelt werden, sollen darüber hinaus eine  Kombinationstherapie aus Metformin plus Liraglutid (GLP-1-Rezeptoragonist) oder Empagliflozin  (SGLT2-Inhibitor) erhalten, wenn Patientinnen und Patienten nach Abwägung der Wirkungen und  Nebenwirkungen dazu bereit sind.
 
-Patientinnen und Patienten mit Herzinsuffizienz (Linksventrikuläre Ejektionsfraktion < 40 %) sollten  primär, d. h. unabhängig vom HbA1c-Wert  Kombinationstherapie aus Metformin plus Dapagliflozin, nachrangig Metformin plus Empagliflozin,  erhalten.
+Patientinnen und Patienten mit Herzinsuffizienz (Linksventrikuläre Ejektionsfraktion < 40 %) sollten  primär, d. h. unabhängig vom HbA1c-Wert und  Kombinationstherapie aus Metformin plus Dapagliflozin, nachrangig Metformin plus Empagliflozin,  erhalten.
 
 #### Insulin oder Insulin-Analoga
 
@@ -252,7 +267,7 @@ Eine Metformin-Monotherapie ist Mittel der ersten Wahl bei den zu verordnenden A
 
 Diese Angabe ist nur im Rahmen einer Dokumentation zu  hier verpflichtend. Mindestens eine Angabe ist erforderlich, Mehrfachnennungen sind möglich.
 
-Geben Sie bitte an, ob eine Therapie mit Metformin  gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe  von Metformin zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig.
+Geben Sie bitte an, ob eine Therapie mit Metformin durchgeführt wird. Bitte geben Sie bei „ gegebenenfalls zusätzlich an, ob die Nicht-Verordnung auf eine Kontraindikation gegen die Gabe  von Metformin zurückzuführen ist. Diese Angabe ist für die Qualitätssicherung notwendig.
 
 #### Sonstige antidiabetische Medikation
 
@@ -262,31 +277,21 @@ Metformin als Monotherapie ist Mittel der ersten Wahl bei den zu verordnenden An
 
 Nicht dazu zählen SGLT2-Inhibitor und GLP-1-Rezeptoragonist. Diese werden gesondert erfragt.
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
 
 Sie bei einem „Nein“ - wo
 
 Sonstige antidiabetische
 
-und zusätzlich zur Standardtherapie,
+zusätzlich zur Standardtherapie, eine
 
-**Diabetes mellitus Typ 2**
+**Diabetes mellitus Typ 2** möglich und
 
-**Diabetes mellitus Typ 2**
-
-durchgeführt wird. Bitte geben Sie bei „
-
-**Diabetes mellitus Typ 2**
-
-eine
-
-möglich und
-
-möglich und
+**Diabetes mellitus Typ 2** möglich und
 
 Nein“
 
-möglich und 7
+**Diabetes mellitus Typ 2** möglich und 7
 
 
 ---
@@ -321,9 +326,9 @@ Eine Angabe zu diesem Feld ist nur im Rahmen einer  verpflichtend. Mehrfachnennu
 
 Gemeint sind hierbei folgende Schulungsmaßnahmen:
 
-a) akkreditierte und für das DMP zugelassene Schulungen, sowie
+- a) akkreditierte und für das DMP zugelassene Schulungen, sowie
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
 
 , geben Sie bitte „
 
@@ -354,7 +359,7 @@ möglich und ist hier 8
 
 ---
 
-b) Schulungsmaßnahmen, die Ihre Patientin oder Ihren Patienten durch den Erwerb von  Kenntnissen und Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt  haben, auf der Basis eigener Entscheidungen den Diabetes und/oder die arterielle Hypertonie  bestmöglich in das eigene Leben zu integrieren, akute oder langfristige negative  Konsequenzen des Diabetes und/oder der arteriellen Hypertonie zu vermeiden und die  Lebensqualität zu erhalten.
+- b) Schulungsmaßnahmen, die Ihre Patientin oder Ihren Patienten durch den Erwerb von  Kenntnissen und Fertigkeiten über die Erkrankung und deren Behandlung in die Lage versetzt  haben, auf der Basis eigener Entscheidungen den Diabetes und/oder die arterielle Hypertonie  bestmöglich in das eigene Leben zu integrieren, akute oder langfristige negative  Konsequenzen des Diabetes und/oder der arteriellen Hypertonie zu vermeiden und die  Lebensqualität zu erhalten.
 
 Sofern eine Teilnahme stattgefunden hat, geben Sie bitte an, für welche der beiden hier in Frage  kommenden Indikation(en) die Schulung(en) durchgeführt wurde(n), wobei auch für beide  Schulungen gleichzeitig Angaben gemacht werden können. Eine erneute Teilnahme an einer  Schulung ist dadurch **NICHT** ausgeschlossen!
 
@@ -382,12 +387,12 @@ War die Teilnahme an einer Schulung innerhalb des Dokumentationszeitraums aus  n
 
 Sollte Sie Ihrer Patientin oder Ihrem Patienten bei der vorherigen Dokumentation mindestens eine  Schulung empfohlen haben, aber Ihre Patientin oder Ihr Patient die empfohlene Schulung ohne  einen für Sie nachvollziehbaren Grund nicht wahrgenommen haben, geben Sie bitte „Nein“ an. Bitte  beachten Sie: Diese Angabe kann bei wiederholter Angabe zum Ausschluss des Versicherten aus  dem Programm führen!
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 9
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 9
 
 
 ---
 
-Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte „Bei  letzter Dokumentation keine Schulung empfohlen“ an.
+Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte  letzter Dokumentation keine Schulung empfohlen“ an.
 
 Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss Ihrer Patientin oder Ihres Patienten aus dem Programm.
 
@@ -403,11 +408,11 @@ Unter Berücksichtigung der Gesamtsituation Ihrer Patientin oder Ihres Patienten
 
 Mindestens eine Angabe ist verpflichtend. Mehrfachnennungen sind möglich.
 
-Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich rückblickend auf den  Zeitraum seit der letzten Dokumentation, und sind daher nur im Rahmen einer  **Folgedokumentation** möglich und verpflichtend. Eine Netzhautuntersuchung ist in Mydriasis in  Abhängigkeit vom Risikoprofil ein- oder zweijährlich durchzuführen.
+Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich rückblickend auf den  Zeitraum seit der letzten Dokumentation, und sind daher  **Folgedokumentation** möglich und verpflichtend. Eine Netzhautuntersuchung ist in Mydriasis in  Abhängigkeit vom Risikoprofil ein- oder zweijährlich durchzuführen.
 
 Bei Kindern und Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren  Diabetesdauer, frühestens ab dem 11. Lebensjahr erfolgen.
 
-Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation “Durchgeführt“, „Nicht  durchgeführt“ oder von Ihnen „Veranlasst wurde.
+Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation  durchgeführt“ oder von Ihnen „Veranlasst wurde.
 
 #### Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung
 
@@ -417,19 +422,23 @@ Eine Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifiz
 
 Die Angabe „Ja“ soll erfolgen, wenn eine Behandlung in einer für das Diabetische Fußsyndrom  qualifizierte Einrichtung erfolgt oder, wenn Sie selbst zur Gruppe der für das Diabetische  Fußsyndrom qualifizierten Ärztinnen oder Ärzte gehören und Ihre Patientin oder Ihren Patienten  daher nicht überweisen, sondern selber behandeln.
 
-Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte mit „Veranlasst“ an.
+Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte mit „Veranlasst“
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 10
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
+
+„Bei
+
+nur im Rahmen einer
+
+“Durchgeführt“, „Nicht
+
+an.
+
+10
 
 
 ---
 
 Sollte keine Behandlung in einer für das Diabetische Fußsyndrom qualifizierte Einrichtung erfolgen,  geben Sie dies bitte mit „Nein“ an
 
-#### Diabetesbezogene stationäre Einweisung
-
-Mindestens eine Angabe ist erforderlich. Mehrfachnennungen sind möglich.
-
-Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder ihrem Patienten eine stationäre Einweisung  aufgrund des Diabetes erfolgt ist. Erfolgte keine stationäre Einweisung, geben Sie bitte „Nein“ an.  Sollten Sie eine stationäre Behandlung wegen des Diabetes veranlasst haben, geben Sie bitte  „Veranlasst“ an.
-
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 7; Stand 22.02.2023 11
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 11

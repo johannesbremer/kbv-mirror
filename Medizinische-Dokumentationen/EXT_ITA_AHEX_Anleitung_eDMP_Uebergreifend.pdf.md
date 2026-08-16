@@ -12,17 +12,25 @@
 
 ## chronischer Rückenschmerz,
 
-## Depression, Osteoporose
+## Depression, Osteoporose,
 
-## und rheumatoide Arthritis
+## rheumatoide Arthritis,
 
-Gültig ab:    01.10.2023
+## Adipositas - Erwachsene
 
-Stand der letzten Bearbeitung: 22.02.2023
+**und Adipositas - Kinder und**
 
-Version 9
+## Jugendliche
 
-Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+Gültig ab:
+
+Stand der letzten Bearbeitung: 01.10.2026
+
+04.11.2025
+
+Version 10
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 
 ---
@@ -59,23 +67,27 @@ DMP gibt es für die Indikationen
 - Diabetes mellitus Typ 2
 - Asthma bronchiale
 - COPD
+- Chronische Herzinsuffizienz
+- Chronischer Rückenschmerz
 
-Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 
 ---
 
-- Chronische Herzinsuffizienz
-- Chronischer Rückenschmerz
 - Depression
 - Osteoporose
 - Rheumatoide Arthritis
+- Adipositas - Erwachsene
+- Adipositas - Kinder und Jugendliche
 
-Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit der jeweiligen KV abgeschlossen haben, und die  Patientin oder der Patient muss die Einschreibekriterien des Programms entsprechend der  Vorgaben der Risikostruktur-Ausgleichsverordnung (RSAV) und der DMP-Anforderungen-Richtlinie (DMP-A-RL) des gemeinsamen Bundesausschusses erfüllen.
+Zielgruppe sind alle gesetzlich krankenversicherten Patientinnen und Patienten, bei denen  eine oder mehrere der vorstehenden Erkrankungen vorliegt. Die zuständige Krankenkasse  muss einen entsprechenden Vertrag mit den ärztlichen Teilnehmerinnen oder Teilnehmern (z.
+
+B. mit der jeweiligen KV) abgeschlossen haben, und die Patientin oder der Patient muss die  Einschreibekriterien des Programms entsprechend der Vorgaben der Risikostruktur-Ausgleichsverordnung (RSAV) und der DMP-Anforderungen-Richtlinie (DMP-A-RL) des  gemeinsamen Bundesausschusses erfüllen.
 
 *Wann ist die Dokumentation vollständig?*
 
-Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  gemacht worden sind. Ihre Praxissoftware unterstützt Sie  Vollständigkeit der Angaben.
+Die Dokumentation ist vollständig, wenn zu jedem Fragenkomplex die erforderlichen Angaben  gemacht worden sind. Ihre Praxissoftware unterstützt Sie bei der Feststellung der  Vollständigkeit der Angaben.
 
 Die Dokumentation ist ausschließlich elektronisch zu erstellen. Denken Sie bitte daran, eine  Sicherheitskopie des Datensatzes anzufertigen und Ihrer Patientin oder Ihrem Patienten  jeweils einen Ausdruck der ausgefüllten Dokumentation auszuhändigen.
 
@@ -85,24 +97,20 @@ Bedenken Sie, dass aufgrund vertraglicher Regelungen nur bei vollständig ausgef
 
 Die Dokumentationen sind aus Ihrer Praxis elektronisch an die für Sie zuständige Datenstelle  zu übermitteln. Dies kann auf direktem Wege über eine gesicherte Datenleitung erfolgen.  Alternativ können die Daten in einigen Regionen auch online (z.B. auf einem Server der  Datenstelle) erfasst oder aber über den Postversand eines Datenspeichers, wie etwa einer  CD-ROM, übermittelt werden.
 
-**Bitte beachten Sie, dass für die Weiterleitung der Daten und die gültige Teilnahme Ihrer**  **Patientin oder Ihres Patienten es zwingend erforderlich ist, dass zusätzlich zur**  **vollständigen Erstdokumentation die Teilnahme- und Einwilligungserklärung von Ihnen**  **beiden unterschrieben und unmittelbar an die zuständige**  **Krankenkasse übermittelt wurde.** Dabei ist sicherzustellen, dass alle drei Ausfertigungen  die jeweils notwendigen Unterschriften von Ihnen und der Patientin bzw. dem Patienten tragen  (Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunterschriften, zweite und dritte Seite als  Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder der Patient und ein Exemplar verbleibt bei Ihnen in der  Patientenakte.
+**Bitte beachten Sie, dass für die Weiterleitung der Daten und die gültige Teilnahme Ihrer**  **Patientin oder Ihres Patienten es zwingend erforderlich ist, dass zusätzlich zur**  **vollständigen Erstdokumentation die Teilnahme- und Einwilligungserklärung von Ihnen**  **beiden unterschrieben und unmittelbar an die zuständige Datenstelle oder**  **Krankenkasse übermittelt wurde.** Dabei ist sicherzustellen, dass alle drei Ausfertigungen  die jeweils notwendigen Unterschriften von Ihnen und der Patientin bzw. dem Patienten tragen  (Bei Ausdruck aus der PVS: drei Seiten mit Originalunterschriften, bei Verwendung der  Formularvordrucke: Erste Seite mit Originalunterschriften, zweite und dritte Seite als  Durchschlag). Neben dem Exemplar, das an die Datenstelle zu versenden ist, erhält ein  Exemplar die Patientin oder der Patient und ein Exemplar verbleibt bei Ihnen in der  Patientenakte.
 
-Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden werden,  lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible Dokumentation  abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle innerhalb von  52 Kalendertagen nach Ablauf des Dokumentationszeitraumes vorliegen.
+Sollten die von Ihnen vorgenommenen Angaben in der Dokumentation unvollständig oder  unplausibel sein, wird die Dokumentation in Kopie an Sie zur Korrektur zurückgeschickt.  Wenngleich durch die Programmierung Ihrer PVS solche Fälle in der Regel vermieden werden,  lassen sich gelegentliche Fehler im übermittelten Datensatz erfahrungsgemäß doch nicht  sicher ausschließen. Die vollständige und plausible Dokumentation muss inklusive
 
-Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
-
-bei der Feststellung der
-
-**Datenstelle oder**
-
-muss inklusive
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 
 ---
 
+abgeschlossener Korrektur bzw. Vervollständigung der zuständigen Datenstelle innerhalb von  52 Kalendertagen nach Ablauf des Dokumentationszeitraumes vorliegen.
+
 Wenn Sie noch Fragen zum Ausfüllen oder zur Handhabung der Dokumentation haben,  wenden Sie sich bitte an die zuständige Stelle (z. B. Ihre KV oder die zuständige Datenstelle).
 
-Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 
 ---
@@ -138,15 +146,18 @@ Bitte beachten Sie, dass eine gleichzeitige Teilnahme für folgende Indikationen
 -  Diabetes mellitus Typ 1 und Diabetes mellitus Typ 2
 -  Asthma bronchiale und COPD
 -  KHK und Chronische Herzinsuffizienz
+-  Adipositas für Erwachsene und Adipositas für Kinder und Jugendliche
 
-Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst- oder Folgedokumentation) für die jeweils ausgewählte  Indikation angeben. Dabei ist es möglich, die diagnosebezogen unterschiedlichen  Dokumentationstypen zu kombinieren. So können Sie z. B. gleichzeitig eine
+Um die notwendigen Dokumentationsparameter aufzurufen, müssen Sie den jeweiligen  Dokumentationstyp (z. B. Erst- oder Folgedokumentation) für die jeweils ausgewählte  Indikation angeben. Dabei ist es möglich, die diagnosebezogen unterschiedlichen
 
-Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
 
 ---
 
-Erstdokumentation für das DMP KHK und eine Folgedokumentation zu Diabetes mellitus  Typ 2 erstellen.
+Dokumentationstypen  Erstdokumentation für das DMP KHK und eine Folgedokumentation zu Diabetes mellitus  Typ 2 erstellen.
+
+zu kombinieren.
 
 **Geschlecht**
 
@@ -160,15 +171,44 @@ Geben Sie bitte die Körpergröße in Metern (m) mit zwei Stellen hinter dem Kom
 
 Ist die Körpergröße, z.B. auf Grund einer Amputation, nicht zu erheben, ist eine „0“  einzutragen.
 
+Erfolgt die Angabe im Rahmen einer Dokumentation zu  **Jugendlichen** werden. Aus den Angaben zur aktuellen Körpergröße und zum aktuellen Körpergewicht  wird automatisch der aktuelle BMI-SDS berechnet und das entsprechende Feld in der  Dokumentation automatisch befüllt (vgl. indikationsspezifische Dokumentation).
+
 **Körpergewicht**
 
 Die Angabe ist verpflichtend und erfolgt in Kilogramm als nummerische Angabe ohne  Kommastelle (kg).
 
 Ist das Körpergewicht, z.B. auf Grund einer Amputation, nicht zu erheben, ist eine „0“  einzutragen.
 
+Erfolgt die Angabe im Rahmen einer Dokumentation zu  muss das aktuelle Körpergewicht bei jeder Dokumentation eingegeben werden. Aus den  beiden Angaben zum aktuellen Körpergewicht und zur Körpergröße wird der aktuelle BMI  berechnet und Ihnen angezeigt. Zusätzlich wird die Differenz zwischen dem aktuellen  Körpergewicht und dem Körpergewicht der letzten sowie der Erstdokumentation bzw. der  ersten vorliegenden Folgedokumentation automatisch berechnet und bei der Eingabe des  Feldes „Körpergewicht“ angezeigt. Dies soll Ihnen einen schnellen Überblick über den  aktuellen BMI und die Veränderung des Körpergewichts im Laufe der DMP-Teilnahme  geben.
+
+Erfolgt die Angabe im Rahmen einer Dokumentation zu  **Jugendlichen** werden. Aus den Angaben zur aktuellen Körpergröße und zum aktuellen Körpergewicht  wird automatisch der aktuelle BMI-SDS berechnet und das entsprechende Feld in der  Dokumentation  des BMI-SDS im Laufe der DMP-Teilnahme (vgl. indikationsspezifische Dokumentation).
+
 **Blutdruck**
 
-Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen, ist die Angabe optional. Bei allen Patientinnen und Patienten ab dem  vollendeten 18. Lebensjahren, die an einem DMP Asthma teilnehmen, ist die Angabe  verpflichtend.
+Bei Kindern und Jugendlichen unter 18 Jahren, die an einem  teilnehmen sowie bei Teilnehmenden an einem DMP  **Jugendlichen**
+
+Bei allen Patientinnen und Patienten ab dem vollendeten 18. Lebensjahren, die an einem  DMP Asthma teilnehmen, ist die Angabe verpflichtend.
+
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
+
+, muss die aktuelle Körpergröße bei jeder Dokumentation angegeben
+
+muss das aktuelle Körpergewicht bei jeder Dokumentation angegeben  automatisch befüllt und Sie erhalten zusätzliche Angaben zur Veränderung
+
+, ist die Angabe optional.
+
+So können Sie z. B. gleichzeitig eine
+
+**Adipositas bei Kindern und**
+
+**Adipositas bei Erwachsenen**
+
+**Adipositas bei Kindern und**
+
+**DMP zu Asthma bronchiale**  **Adipositas bei Kindern und**
+
+
+---
 
 Bei Kindern und Jugendlichen unter 11 Jahren, die an einem  **Typ 1** teilnehmen, ist die Angabe optional. Bei allen Patientinnen und Patienten ab dem  vollendeten 11. Lebensjahr, die an einem DMP Diabetes mellitus Typ 1 teilnehmen, ist die  Angabe verpflichtend.
 
@@ -186,22 +226,11 @@ Eine Angabe ist verpflichtend; dabei sind Mehrfachnennungen möglich.
 
 Hier geben Sie bitte an, ob Ihre Patientin oder Ihr Patient eine oder mehrere der  aufgeführten Begleiterkrankungen hat. Sollte(n) bei Ihrer Patientin oder Ihrem Patienten  andere als die hier aufgeführten oder gar keine Begleiterkrankungen vorliegen, geben Sie  bitte „Keine der genannten Erkrankungen“ an.
 
-Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
-
-**DMP zu Asthma bronchiale**
-
-**DMP zu Diabetes mellitus**
-
-**übrigen DMP**
-
-
----
-
 **Vom Patienten gewünschte Informationsangebote der Krankenkasse**
 
 Die Angabe ist optional; dabei sind Mehrfachnennungen möglich.
 
-Sollte Ihre Patientin oder Patient Informationen zum  Ernährungsberatung oder auch zu körperlichem Training von seiner Krankenkasse  wünschen, können Sie dies hier vermerken.
+Sollte Ihre Patientin oder Patient Informationen  Ernährungsberatung oder auch zu körperlichem Training von seiner Krankenkasse  wünschen, können Sie dies hier vermerken.
 
 **Dokumentationsintervall**
 
@@ -215,6 +244,10 @@ Eine Angabe ist verpflichtend.
 
 Hier ist das Datum der Erstellung der Dokumentation einzutragen. Es dient zur  Feststellung, ob die Dokumentation im dafür geplanten Intervall ausgestellt wurde. Es  kann durch Sie nach Abschluss der Dokumentation nicht mehr verändert werden.
 
-Ausfüllanleitung indikationsübergreifender Datensatz, Version 9; Stand 22.02.2023
+Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.2025
 
-Tabakverzicht, zu einer
+**DMP zu Diabetes mellitus**
+
+**übrigen DMP**
+
+zum Tabakverzicht, zu einer

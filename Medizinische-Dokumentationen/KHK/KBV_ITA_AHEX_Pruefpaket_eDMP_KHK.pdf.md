@@ -4,135 +4,99 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.22   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. AUGUST 2026   VERSION: 1.23   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET EDMP-KHK
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_KHK]
 
-Seite 1 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 1 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS 
 
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
-
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-7
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-9
-
-1.6.3 Praxisdaten / Arztstempel 9
-
-1.6.4 Krankenhausdaten
-
-10
-
-1.6.5 Prüfnummer
-
-10
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.7 Auflistung der Prüffälle 11
+| 1 | ALLGEMEINES | 6 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 6 |
+| 1.2 | Zertifizierungsablauf | 6 |
+| 1.3 | Zertifizierungsportal | 7 |
+| 1.4 | Zertifizierungsdokumente | 7 |
+| 1.5 Prü fu | nte rla gen | 7 |
+| 1.6 Prü | fvorgaben | 9 |
+| 1.6.1 | Schnittstellenversionen | 9 |
+| 1.6.2 | Datumseingaben | 9 |
+| 1.6.3 | Prü fstam mdate n | 9 |
+| 1.6.4 | Versichertendaten | 9 |
+| 1.6.5 | Praxisdaten / Arztstempel | 10 |
+| 1.6.6 | Krankenhausdaten | 11 |
+| 1.6.7 | Prü fn um mer | 11 |
+| 1.6.8 | Stammdatei der Datenannahmestellen (SDDA) | 11 |
+| 1.6.9 | Auflistung der Prü ffä lle | 12 |
 
 **2** **PRÜFFÄLLE**
 
-**12**
+**13**
 
 2.1 Prüffälle Dokumentation
 
-12
+13
 
 2.1.1 Prüffall 7511
 
-12
+13
 
 2.1.2 Prüffall 7512
 
-14
+15
 
 2.1.3 Prüffall 6513
 
-16
+17
 
 2.2 Prüffall Systemreaktion
 
-21
+22
 
 2.2.1 Prüffall 7514
 
-21
+22
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 24
+2.3 Weitere Prüffälle zum Anforderungskatalog 25
 
 2.3.1 Prüffall 7530
 
-24
+25
 
 2.3.2 Prüffall 7540
 
-25
+26
 
 **3** **TESTDATENVALIDIERUNG**
 
-**26**
+**27**
 
-3.1 Prüffall Testdatenvalidierung 27
+3.1 Beispieldaten zur Testdatenvalidierung 28
 
-3.1.1 Prüffall TDV7518
-
-27
-
-**4** **ANHANG**
-
-**29**
-
-4.1 Prüffall 6513 – Ersatzverfahren 29
-
-4.2 Prüffall TDV7518 – Terstdatenvalidierung 30
+| 4 |  | ANHANG |  | 30 |
+|---|---|---|---|---|
+| 4.1 | Prü | ffa ll 6 | 513 – Ersatzverfahren | 30 |
+| 4.2 |  | TDV7518 – | Testdatenvalidierung | 31 |
 
 **5** **REFERENZIERTE DOKUMENTE**
 
-**31**
+**32**
 
-Seite 2 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 /
+Seite 2 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 /
 
-1. Juli 2026
+14. August 2026
+
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Auflistung der Prüffälle Prüffall 6513 – Ersatzverfahren TDV7518 – Testdatenvalidierung 
+
 
 ---
 
@@ -142,67 +106,63 @@ Abbildung 1: Exemplarische Struktur des zip-Archives für die Zertifizierung 8
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
 
-Abbildung 3: Testdatenvalidierung 26
+Abbildung 3: Testdatenvalidierung 27
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7518 26
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne TDV7518 27
 
-Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV7518 27
+Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 28
 
-Seite 3 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 3 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 ---
 
 DOKUMENTENHISTORIE
 
-| Version | Datum | Autor | Änderung | Begründung | Seite |
-|---|---|---|---|---|---|
-| 1.22 | 01.07.2026 | KBV | Aufnahme eines Testfalls | Schnittstellenversion | 11  26  30 |
-| 1.21 | 31.03.2026 | KBV | Anpassung der Prüffälle | Schnittstellenversion |  |
-| 1.20 | 15.08.2023 | KBV | Datumsanpassungen der  Anpassung der | Datumsanpassungen | 12 |
-| 1.19 | 08.11.2022 | KBV | Datumsanpassungen der                Neuer Prüffall 2630 zur | Datumsanpassungen    Schnittstellenversion    Anpassung an | 16                  25 |
-| 1.18 | 12.08.2021 | KBV | redaktionelle Korrektur |  | 16 |
-| 1.17 | 18.03.2021 | KBV | Datumsanpassungen der | Datumsanpassungen | 12ff |
-| 1.16 | 15.02.2021 | KBV | Anpassung der Prüffälle | Schnittstellenversion | 12ff |
-| 1.15 | 11.02.2019 | KBV | Anpassung der Prüffälle | Schnittstellenversion | 12ff |
 |  |  |  |  |  |  |
-|  | | | | | |
-| 01.07.2026 | Aufnahme eines Testfalls | Schnittstellenversion |  |  |  |
-|  |  |  |  | 1.21 | 31.03.2026  KBV |
-|  |  | 1.20 | 15.08.2023 | KBV  Datumsanpassungen der | Datumsanpassungen  12  1.19 |
-| KBV |  |  |  |  |  |
+|---|---|---|---|---|---|
+|  | 1.23 | | | | |
+| KBV |  | Anpassung Prüffall 7530 |  | Anpassung Prüffall 7540 |  |
+| 13 |  |  |  | 25 |  |
+|  | 1.22 |  | 01.07.2026 | KBV | Schnittstellenversion |
+|  | 27 |  | 31 |  | 1.21  31.03.2026  KBV  Schnittstellenversion |
+| 1.20 | 15.08.2023 | KBV | Datumsanpassungen der Prüffälle. | Anpassung der Medikamente im | Datumsanpassungen |
+| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| 1.23 | 14.08.2026 | KBV | Anpassung der Prüffälle an    Anpassung Prüffall 7530    Anpassung Prüffall 7540 | Schnittstellenversion      Änderung der | 13      25    26 |
+| 1.22 | 01.07.2026 | KBV | Aufnahme eines Testfalls für die | Schnittstellenversion | 12  27  31 |
+| 1.21 | 31.03.2026 | KBV | Anpassung der Prüffälle an | Schnittstellenversion |  |
+| 1.20 | 15.08.2023 | KBV | Datumsanpassungen der Prüffälle.  Anpassung der Medikamente im | Datumsanpassungen | 13 |
+| 1.19 | 08.11.2022 | KBV | Datumsanpassungen der Prüffälle.                Neuer Prüffall 2630 zur | Datumsanpassungen    Schnittstellenversion    Anpassung an | 17                  26 |
+| 1.18 | 12.08.2021 | KBV | redaktionelle Korrektur von |  | 17 |
+| 1.17 | 18.03.2021 | KBV | Datumsanpassungen der Prüffälle | Datumsanpassungen | 13ff |
+| 1.16 | 15.02.2021 | KBV | Anpassung der Prüffälle an | Schnittstellenversion | 13ff |
 
-Seite 4 von 32 / KBV / Pruefpaket eDMP-KHK /
+Seite 4 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Version: 1.22 / 1. Juli 2026
-
-für die Testdatenvalidierung zur 4.17 an Schnittstellenversion 4.17  Anpassung Prüffall 7540 Prüffälle. Medikamente im Prüffall 6513 für DM2. Prüffälle. Umsetzung der übergreifenden Teilnahmeerklärung. von Prüffall 5613 Schnittstellenversionen 4.15 Schnittstellenversionen 4.17 ist ab 01.10.2026 zu verwenden 4.17 ist ab 01.10.2026 zu verwenden  Änderung der Barcodeversion (03) ab 1.10.2026 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden Prüffälle. 4.16 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. wegen der übergreifenden 4.15 ist ab 01.04.2021 zu verwenden 4.14 ist ab 01.04.2019 zu verwenden 
-
+Schnittstellenversion 4.17   Testdatenvalidierung zur Schnittstellenversion 4.17 Schnittstellenversion 4.17  Prüffall 6513 für DM2. Umsetzung der übergreifenden Teilnahmeerklärung. Prüffall 5613 4.17 ist ab 01.10.2026 zu verwenden   Barcodeversion (03) ab 1.10.2026 4.17 ist ab 01.10.2026 zu verwenden 4.17 ist ab 01.10.2026 zu verwenden  Barcodeversion (03) ab 1.10.2026 wegen der übergreifenden Prüffälle (DM2- 6.07 ist ab 01.10.2023 zu verwenden). wegen der übergreifenden 4.16 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. wegen der übergreifenden
 
 ---
 
-|  |  |  |  |  |  |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  | 1.14 |  | 07.05.2018 | KBV  Anpassung der Prüffälle | 12 13.03.2018 |
-| Anpassung des | 7 |  |  |  | 1.12 |
-| KBV | Aufnahme eines Testfalls | Schnittstellenversion | Schnittstellenversion | 12 |  |
-| ff |  | 1.11 | 23.05.2017  KBV  Komplettüberarbeitung  Aktualisierung der  Alle |  |  |
+| Schnittstellenversionen 4.15 | 4.15 ist ab 01.04.2021 | | | | |
+| 1.15 | 11.02.2019 | KBV | Anpassung der Prüffälle an | Schnittstellenversion | 13ff |
+| 1.14 | 07.05.2018 | KBV | Anpassung der Prüffälle an | Schnittstellenversion | 13ff |
+| 1.13 | 13.03.2018 | KBV | Einreichung des Antrags auf | Anpassung des | 7 |
+| 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle an  Aufnahme eines Testfalls für die | Schnittstellenversion  Schnittstellenversion | 13ff      27ff |
+| 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des | Aktualisierung der | Alle |
+|  |  |  |  |  |  |
+| 4.15 ist ab 01.04.2021 |  | 1.15 | 11.02.2019  KBV  Anpassung der Prüffälle an  Schnittstellenversion | 13ff | 1.14  07.05.2018  KBV  Schnittstellenversion  13 |
+| 13.03.2018 | Einreichung des Antrags auf | Anpassung des |  | 7 | 1.12  13.02.2018  KBV  Aufnahme eines Testfalls für die  Schnittstellenversion |
+| 13 |  |  |  | 27 | ff |
+| 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung des  Aktualisierung der | Alle |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
-| 4.14 | | | | | |
-| 1.14 | 07.05.2018 | KBV | Anpassung der Prüffälle | Schnittstellenversion | 12ff |
-| 1.13 | 13.03.2018 | KBV | Einreichung des Antrags | Anpassung des | 7 |
-| 1.12 | 13.02.2018 | KBV | Anpassung der Prüffälle  Aufnahme eines Testfalls | Schnittstellenversion  Schnittstellenversion | 12ff      26ff |
-| 1.11 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
 
-Seite 5 von 32 / KBV / Pruefpaket eDMP-KHK /
+Seite 5 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Version: 1.22 / 1. Juli 2026
-
-an Schnittstellenversionen 4.12 und 4.13 auf Zertifizierung an Schnittstellenversionen 4.11 und 4.12 für die Testdatenvalidierung zur 4.13 des Prüfpaketes 4.13 ist ab 01.07.2018 zu verwenden Zertifizierungsportals 4.12 ist ab 01.04.2018 zu verwenden 4.13 ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie 
-
+Schnittstellenversionen 4.14 Schnittstellenversionen 4.12 und 4.13 Zertifizierung Schnittstellenversionen 4.11 und 4.12 Testdatenvalidierung zur Schnittstellenversion 4.13 Prüfpaketes zu verwenden 4.14 ist ab 01.04.2019 zu verwenden 4.13 ist ab 01.07.2018 zu verwenden Zertifizierungsportals 4.12 ist ab 01.04.2018 zu verwenden 4.13 ist ab 01.07.2018 zu verwenden Zertifizierungsrichtlinie
 
 ---
 
@@ -236,7 +196,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 **HINWEIS**
 
-Seite 6 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 6 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 ---
 
@@ -274,7 +234,7 @@ Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM
 
 [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  4520 genannten Indikationen verfügt, müssen die entsprechenden Daten ebenfalls dokumentiert
 
-Seite 7 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 7 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 ---
 
@@ -293,17 +253,33 @@ Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 Das zip-Archiv kann je nach Komponentenzulassung (Asthma bronchiale und/oder DM2) unterschiedliche  Strukturen aufweisen. Im Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen  (die alleinige Umsetzung von KHK) dargestellt.
 
-Abbildung 1: Exemplarische Struktur des zip-Archives für die Zertifizierung
+Name
 
-391234511_20231030101010_1_KHK_416.zip.XKM XKM-Datei
-
-Koronare_Herzkrankheit
+Zert_102_SystemID.zip
 
 Dokumentation
 
-Dateiordner
+391234511_20261031101010_1_ KHK_417.idx
 
-Dateiordner
+391234511_20261031101010_1_ KHK_417.zip.XKM
+
+856215715_20261031101010_1_ KHK_417.idx  856215715_20261031101010_1_ KHK_417.zip.XKM
+
+Abbildung 1: Exemplarische Struktur des zip-Archives für die Zertifizierung
+
+Name
+
+391234511_20261031101010_1_KHK_417.zip.XKM
+
+Koronare_Herzkrankheit
+
+Dokumentation 391234511_4511_20261015.EEKHK
+
+391234511_4511_20261015.EVKHK
+
+391234511_4512_20261015.EEKHK
+
+391234511_4512_20261015.EVKHK
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
@@ -313,7 +289,36 @@ ________________  **1 Nummer des Prüffalls**
 
 **3 Gängiges Bild- bzw. Videoformat**
 
-Seite 8 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 8 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
+
+Typ
+
+ZIP-komprimierter Ordner
+
+Dateiordner
+
+IDX-Datei
+
+XKM-Datei
+
+IDX-Datei          XKM-Datei
+
+Typ
+
+XKM-Datei
+
+Dateiordner
+
+Dateiordner
+
+EEKHK-Datei
+
+EVKHK-Datei
+
+EEKHK-Datei
+
+EVKHK-Datei
+
 
 ---
 
@@ -321,49 +326,73 @@ Seite 8 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
 
 Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unterlagen unter Verwendung des  jeweils gültigen XPM-Pakets einzureichen. Die Daten sind anschließend mit dem KBV-Kryptomodul (XKM)  unter Nutzung des öffentlichen Testschlüssels zu verschlüsseln.
 
-Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
+### 1.6.1 Schnittstellenversionen
 
-### 1.6.1 Prüfstammdaten
+- Indikation **KHK:**  Ab dem **01.04.2023** muss die Schnittstellenversion **4.16** verwendet werden.
+- Ab dem **01.10.2026** muss die Schnittstellenversion **4.17** verwendet werden.
+- Indikation **Diabetes mellitus Typ 2:**  Ab dem **01.10.2023** muss die Schnittstellenversion** 6.07** verwendet werden.
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten Prüfstammdateien
+Ab dem **01.10.2026** muss die Schnittstellenversion **6.08** verwendet werden.
 
-werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+- Indikation **Asthma:**
 
-verwendet
+Ab dem **01.06.2023** muss die Schnittstellenversion **4.46** verwendet werden.
 
-### 1.6.2 Versichertendaten
+Ab dem **01.10.2026** muss die Schnittstellenversion **4.47** verwendet werden.
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+### 1.6.2 Datumseingaben
+
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der **01.04.2024 01.10.2026**
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** ist der **15.10.2024** **Ausnahme**
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**) der 15. des jeweiligen Gültigkeitsmonats.
+- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum.
+- **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
+- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung).**
+
+### 1.6.3 Prüfstammdaten
+
+Im Rahmen der Prüfung sind die regulären Stammdateien
+
+### 1.6.4 Versichertendaten
+
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben  und werden als XML-Dateien in der Archivdatei „ Dateien sind folgendermaßen aufgebaut:
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
-- EF.GVD = geschützte Versichertendaten
 
-### 1.6.3 Praxisdaten / Arztstempel
+Seite 9 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Folgende Angaben sind für die Zertifizierung zu verwenden:
+zu verwenden.
 
-| BEZEICHNUNG | INHALT |
-|---|---|
-| **Betriebsstättennummer (BSNR)** | 391234511 |
-| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp-Glücklich |
-| **Lebenslange Arztnummer (LANR)** | 838382202 |
-| **Arztname** | Dr. med. Hans Topp-Glücklich |
-| **Straße** | Musterstr. |
-| **Hausnummer** | 1 |
-| **PLZ/Ort** | 64283 Darmstadt  06151 / 1111111 |
-| **Telefax** | 06151 / 2222222 |
-
-**Tabelle 1: Praxisangaben**
-
-Seite 9 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
-
-Telefon 
+VSD_Testfaelle_DMP_Vn.n.zip“ bereitgestellt. Die XML-
 
 
 ---
 
-### 1.6.4 Krankenhausdaten
+- EF.GVD = geschützte Versichertendaten
+
+### 1.6.5 Praxisdaten / Arztstempel
+
+Folgende Angaben sind für die Zertifizierung zu verwenden:
+
+| BEZEICHNUNG   Betriebsstättennummer (BSNR) | INHALT |
+|---|---|
+| **BSNR-Bezeichnung** | Praxis Dr. med. Heribert Topp- |
+| **Lebenslange Arztnummer (LANR)** | 838382202 |
+| **Arztname** | Dr. med. Hans Topp-Glücklich |
+| **Straße** | Musterstr. |
+| **Hausnummer** | 1 |
+| **PLZ/Ort** | 64283 Darmstadt |
+| **Telefon** | 06151 / 1111111 |
+| **Telefax** | 06151 / 2222222 |
+
+**Tabelle 1: Praxisangaben**
+
+Seite 10 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026 391234511
+
+---
+
+### 1.6.6 Krankenhausdaten
 
 Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
@@ -378,7 +407,7 @@ Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der B
 
 **Tabelle 2: Krankenhausangaben**
 
-### 1.6.5 Prüfnummer
+### 1.6.7 Prüfnummer
 
 Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 
@@ -386,16 +415,16 @@ Folgende Default-Prüfnummern sind bei der Zertifizierung zu verwenden:
 - Asthma = X/103/2202/36/000
 - DM2 = X/100/2202/36/000
 
-### 1.6.6 Stammdatei der Datenannahmestellen (SDDA)
+### 1.6.8 Stammdatei der Datenannahmestellen (SDDA)
 
 Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen, da kein  Vertrag für den KV-Bereich Hessen existiert), kann ein beliebiger Empfänger gewählt werden. Für die  Bearbeitung des Krankenhausfalls kann ein beliebiger Empfänger gewählt werden.
 
-Seite 10 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 11 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 
 ---
 
-### 1.6.7 Auflistung der Prüffälle
+### 1.6.9 Auflistung der Prüffälle
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
@@ -410,7 +439,7 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 **Tabelle 3: Auflistung der Prüffälle**
 
-Seite 11 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 12 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 Hammerschmidt Federmannssohn
 
@@ -420,7 +449,7 @@ Hammerschmidt Federmannssohn
 
 ## 2.1 PRÜFFÄLLE DOKUMENTATION
 
-**2.1.1** **Prüffall 7511**
+**2.1.1**
 
 |  |  |
 |---|---|
@@ -430,11 +459,13 @@ Hammerschmidt Federmannssohn
 | **Prüfunterlagen** | KHK-Dokumentationsunterlagen |
 | **Hinweis** |  |
 
+### Prüffall 7511
+
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.** **Versichertendaten:**
 
-Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und
+Die Versichertendaten von **Maria Eichendorf**
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
@@ -444,7 +475,7 @@ Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und
 | DMP-Fallnummer | 7511 | 7511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.10.2023 | 06.12.2023 |
+| Datum | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | KHK | KHK |
 | Geschlecht | Weiblich | Weiblich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -452,17 +483,17 @@ Die Versichertendaten von Maria Eichendorf (XML_16) einlesen und
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck (systolisch / diastolisch) | 300 / 180 mmHg | 250 / 90 mmHg |
 | Raucher | Ja | Nein |
-| Begleiterkrankungen | Arterielle Hypertonie, | Fettstoffwechselstörung |
+| Begleiterkrankungen | Fettstoffwechselstörung, | Fettstoffwechselstörung |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht, |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 06.10.2023 | 06.12.2023 |
+| Datum der Erstellung | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 
-Seite 12 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 13 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-speichern.
+(XML_16) einlesen und speichern.
 
-Informationsangebote der Krankenkasse Fettstoffwechselstörung, AVK, Chronische Herzinsuffizienz Körperliches Training
+Informationsangebote der Krankenkasse Arterielle Hypertonie, AVK, Chronische Herzinsuffizienz Körperliches Training
 
 ---
 
@@ -480,7 +511,7 @@ Informationsangebote der Krankenkasse Fettstoffwechselstörung, AVK, Chronische 
 | Betablocker | Ja | Nein, Kontraindikation |
 | ACE-Hemmer | ARB | Kontraindikation |
 | Aktuelle Statin-Dosis | Hoch | Moderat |
-| Aktuelle Therapiestrategie Statin | Feste Hochdosis- | Zielwert-Strategie |
+| Aktuelle Therapiestrategie Statin | Feste Hochdosis- Strategie      Strategie der festen Dosis  (hoch oder moderat) | Zielwert-Strategie |
 | Grund für moderate oder niedrige Statin-Dosis |  | Aufdosierungsphase |
 | **Schulung** | | |
 | Schulung bereits vor Einschreibung in DMP | Ja |  |
@@ -489,9 +520,9 @@ Informationsangebote der Krankenkasse Fettstoffwechselstörung, AVK, Chronische 
 | **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nein | Ja |
 
-Seite 13 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22
+Seite 14 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23
 
-/ 1. Juli 2026
+/ 14. August 2026
 
 seit der letzten Dokumentation Dokumentation) 
 
@@ -512,7 +543,7 @@ seit der letzten Dokumentation Dokumentation)
 
 - **1.** **Versichertendaten:**
 
-Die Versichertendaten von Regina Unbehandelt (XML_17) einlesen und speichern
+Die Versichertendaten von **Regina Unbehandelt**
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
@@ -522,7 +553,7 @@ Die Versichertendaten von Regina Unbehandelt (XML_17) einlesen und speichern
 | DMP-Fallnummer | 7512 | 7512 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
-| Datum | 06.10.2023 | 06.12.2023 |
+| Datum | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | KHK | KHK |
 | Geschlecht | Weiblich | Weiblich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -534,9 +565,11 @@ Die Versichertendaten von Regina Unbehandelt (XML_17) einlesen und speichern
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
-| Datum der Erstellung | 06.10.2023 | 06.12.2023 |
+| Datum der Erstellung | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 
-Seite 14 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 15 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
+
+(XML_17) einlesen und speichern
 
 Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 
@@ -549,7 +582,7 @@ Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 | LDL-Cholesterin | Nicht bestimmt | 18,3 mmol/l |
 | **Relevante Ereignisse** | | |
 | Relevante Ereignisse | Instabile Angina pectoris | Nein |
-| Herzinfarkt innerhalb der letzten 12 Monate | Nein  PCI, Bypass | Nein |
+| Herzinfarkt innerhalb der letzten 12 Monate | Nein | Nein |
 | Ungeplante stationäre Behandlung wegen KHK |  | 99 |
 | **Medikamente** | | |
 | Thrombozytenaggregationshemmer | Orale Antikoagulation | Nein |
@@ -557,7 +590,7 @@ Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 | ACE-Hemmer | Nein, ARB | Nein |
 | Aktuelle Statin-Dosis | Niedrig | Kein Statin |
 | Aktuelle Therapiestrategie Statin | Keine Strategie |  |
-| Grund für moderate oder niedrige Statin-Dosis | Kontraindikation gegen |  |
+| Grund für moderate oder niedrige Statin-Dosis | Kontraindikation gegen  Hochdosis  hohe oder  moderate Dosis |  |
 | **Schulung** | | |
 | Schulung bereits vor Einschreibung in DMP | Nein |  |
 | Schulung empfohlen (bei aktueller | Nein | Nein |
@@ -565,11 +598,11 @@ Informationsangebote der Krankenkasse Erkrankungen Erkrankungen
 | **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nicht möglich | Nein |
 
-Seite 15 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22
+Seite 16 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23
 
-/ 1. Juli 2026
+/ 14. August 2026
 
-seit der letzten Dokumentation Dokumentation) vereinbart Hochdosis Operation 
+seit der letzten Dokumentation Dokumentation) vereinbart 
 
 
 ---
@@ -588,7 +621,7 @@ seit der letzten Dokumentation Dokumentation) vereinbart Hochdosis Operation
 
 - **1.** **Versichertendaten:**
 
-Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn sind im Ersatzverfahren zu erfassen.
+Die Versichertendaten von **Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn** sind im Ersatzverfahren zu erfassen.
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
@@ -598,7 +631,7 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn si
 | DMP-Fallnummer | 6513 | 6513 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  | Ja |
-| Datum | 06.10.2023 | 06.12.2023 |
+| Datum | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 | Einschreibung wegen | Diabetes mellitus Typ 2, | Diabetes mellitus Typ 2, |
 | Geschlecht | Weiblich | Weiblich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -610,9 +643,9 @@ Die Versichertendaten von Ingrid Schimmelpfennig-Hammerschmidt Federmannssohn si
 | Raucher | | |
 |  |  |  |
 |  |  |  |
-|  |  |  |
+|  |  | Ja |
 
-Seite 16 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 17 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 Anhang 4.1
 
@@ -626,19 +659,19 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 | Aktueller FEV -Wert (mindestens alle | 010,0 Prozent des Soll- |  |
 |  | 15,2 % | 14,3 % |
 | DM2 | eGFR | Nicht bestimmt |
-|  |  | Pulsstatus |
+|  |  |  |
 |  | DM2 |  |
 | Nicht untersucht |  | DM2 |
 |  | | |
 | Ulkus | oberflächlich |  |
 |  | nein | nicht untersucht |
 | DM2 | Injektionsstellen | Unauffällig |
-| **Behandlungsplanung** | **Anamnese- und Befunddaten** | **Erstdokumentation** |
+| **Behandlungsplanung** | 06.12.2023  15.mm.jjjj | **INDIKATIONSPEZIFISCHE DATEN** |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht |  |
 | Dokumentationsintervall | Quartalsweise | Quartalsweise |
-| Datum der Erstellung | 06.10.2023 | 06.12.2023 |
+| Datum der Erstellung | 06.10.2023  15.mm.jjjj | 06.12.2023  15.mm.jjjj |
 
 | INDIKATIONSPEZIFISCHE DATEN | | | |
 |---|---|---|---|
@@ -652,11 +685,11 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 | DM2 | eGFR | Nicht bestimmt | 180 ml/min/1,73m²KOF |
 | DM2 | Pulsstatus | Auffällig | Unauffällig |
 | DM2 | Sensibilitätsprüfung | Unauffällig | Nicht untersucht |
-| DM2 | Weiteres Risiko für Ulcus | nein | Hyperkeratose mit |
+| DM2 | Weiteres Risiko für Ulcus  Ulkus | nein | Hyperkeratose mit |
 | DM2 | Ulkus | nein | oberflächlich |
 | DM2 | (Wund)Infektion | nein | nicht untersucht |
 | DM2 | Injektionsstellen | Unauffällig |  |
-| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
+| Begleiterkrankungen | Nach Funktion P1-47 des |  |  |
 |  |  |  |  |
 | Tabakverzicht |  |  | Dokumentationsintervall |
 | Quartalsweise |  | Datum der Erstellung |  |
@@ -672,12 +705,12 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 |  |  | eGFR | Nicht bestimmt |
 |  |  | Pulsstatus | Auffällig |
 |  |  | Sensibilitätsprüfung | Unauffällig |
-|  |  | Weiteres Risiko für Ulcus | nein |
+|  |  |  | nein |
 |  |  | Ulkus | nein |
 |  |  | (Wund)Infektion | nein |
 |  |  | Injektionsstellen | Unauffällig |
-| **Behandlungsplanung** | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
-|  |  |  |  |
+| **Behandlungsplanung** | 06.12.2023  15.mm.jjjj | **INDIKATIONSPEZIFISCHE DATEN** | **Anamnese- und Befunddaten** |
+| Weiteres Risiko für Ulcus  Ulkus |  |  |  |
 |  |  |  |  |
 | Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
 |  |  |  |  |
@@ -686,7 +719,7 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  | Keine | Häufiger als 2 mal |  |
+|  |  | Häufiger als 2 mal |  |
 |  | | | |
 | Asthma | In den letzten 4 Wochen: | Ja | Nein |
 | Asthma | In den letzten 4 Wochen: | Nein | Nein |
@@ -695,27 +728,27 @@ Einschreibung bronchiale verfügt, müssen die entsprechenden Daten ebenfalls do
 | DM2 | eGFR | Nicht bestimmt | 180 ml/min/1,73m²KOF |
 | DM2 | Pulsstatus | Auffällig | Unauffällig |
 | DM2 | Sensibilitätsprüfung | Unauffällig | Nicht untersucht |
-| DM2 | Weiteres Risiko für Ulcus | nein | Hyperkeratose mit |
+| DM2 |  | nein | Hyperkeratose mit |
 | DM2 | Ulkus | nein | oberflächlich |
 | DM2 | (Wund)Infektion | nein | nicht untersucht |
 |  | | | |
-| **Behandlungsplanung** | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
+| **Behandlungsplanung** | 06.12.2023  15.mm.jjjj | **INDIKATIONSPEZIFISCHE DATEN** | **Anamnese- und Befunddaten** |
+| Weiteres Risiko für Ulcus  Ulkus |  |  |  |
+|  |  |  |  |
+| Begleiterkrankungen |  | Nach Funktion P1-47 des |  |
 |  |  |  |  |
 |  |  |  |  |
-| Begleiterkrankungen | Nach Funktion P1-47 des | Nach Funktion P1-47 des |  |
-|  |  |  |  |
-| Tabakverzicht |  |  | Dokumentationsintervall |
 | Quartalsweise |  | Datum der Erstellung |  |
 
-Seite 17 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 18 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma Asthma Asthma Asthma Asthma In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes 12 Monate) HbA1c-Wert Sensibilitätsprüfung Weiteres Risiko für Ulcus (Wund)Infektion (bei Insulintherapie) Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Keine Häufiger als 2 mal wöchentlich Ja Nein 299,9 Prozent des Soll- Wertes Auffällig Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Verlaufsdokumentation Häufiger als 2 mal wöchentlich < 1 mal wöchentlich Nein Nein Wertes 180 ml/min/1,73m²KOF Hyperkeratose mit Einblutung
+Informationsangebote der Krankenkasse Anamnese- und Befunddaten Asthma In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber Asthma In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation Asthma In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale Asthma In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes Asthma 12 Monate) HbA1c-Wert Pulsstatus Sensibilitätsprüfung Weiteres Risiko für Ulcus  Ulkus (Wund)Infektion (bei Insulintherapie) Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Erstdokumentation Keine Häufiger als 2 mal wöchentlich Ja Nein 299,9 Prozent des Soll- Wertes Auffällig Anforderungskatalogs müssen die anderen eingeschriebenen Indikationen automatisch übernommen werden. Für die KHK- Dokumentation sind dieses Asthma bronchiale und Diabetes mellitus Verlaufsdokumentation Häufiger als 2 mal wöchentlich < 1 mal wöchentlich Nein Nein Wertes 180 ml/min/1,73m²KOF Hyperkeratose mit Einblutung
 
 ---
 
-|  | | | |
+| Ja | | | |
 |---|---|---|---|
-| Metformin | Ja | Kontraindikation | |
+| Kontraindikation |  |  | |
 | DM2 | Schwere Hypoglykämien seit der |  | 2 |
 | DM2 | Stationäre notfallmäßige Behandlung |  | 2 |
 | KHK | Relevante Ereignisse | Nein | Herzinfarkt, |
@@ -725,11 +758,11 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma Asthma 
 |  | Keine | Bei Bedarf |  |
 |  | Keine | Kontraindikation |  |
 |  | Dauermedikation | Bei Bedarf |  |
-|  | Kontraindikation | Keine |  |
+|  | DM2 | Keine |  |
 |  | Nein | Nein |  |
 |  | Ja | Nein |  |
 |  | Ja | Nein |  |
-| DM2 | Intervall für künftige Fußinspektionen | alle 6 Monate | Jährlich |
+| DM2 | Intervall für künftige Fußinspektionen | alle 6  sechs Monate | Jährlich |
 | DM2 | Spätfolgen | Diabetische | Diabetische |
 | KHK | Angina pectoris | CCS IV | CCS III |
 | KHK | LDL-Cholesterin | Nicht bestimmt | 20,2 mmol/l |
@@ -752,15 +785,15 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma Asthma 
 | DM2 | Metformin | Ja | Kontraindikation |
 | DM2 | Sonstige antidiabetische Medikation | Ja | Nein |
 | DM2 | SGLT2-Inhibitor | Nein | Kontraindikation |
-| DM2 | Intervall für künftige Fußinspektionen | alle 6 Monate | Jährlich |
+| DM2 | Intervall für künftige Fußinspektionen |  | Jährlich |
 | DM2 | Spätfolgen | Diabetische | Diabetische |
 | KHK | Angina pectoris | CCS IV | CCS III |
 | KHK | LDL-Cholesterin | Nicht bestimmt | 20,2 mmol/l |
 |  |  |  |  |
 |  |  | 1 |  |
 |  | Keine der genannten | Herzinfarkt |  |
-|  |  | 2 |  |
-| **Relevante Ereignisse** | | | |
+|  | alle 6  sechs Monate**Relevante Ereignisse** | 2 |  |
+| **Medikamente** | | | |
 | KHK | Relevante Ereignisse | Nein | Herzinfarkt, |
 | KHK | Herzinfarkt innerhalb der letzten 12 | Ja | Ja |
 | KHK | Ungeplante stationäre Behandlung |  | 3 |
@@ -771,25 +804,25 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Asthma Asthma 
 |  | Kontraindikation | Keine |  |
 |  | Nein | Nein |  |
 |  | Ja | Nein |  |
-| **Medikamente** | | | |
+|  | | | |
 | DM2 | Metformin | Ja | Kontraindikation |
 | DM2 | Sonstige antidiabetische Medikation | Ja | Nein |
 | DM2 | SGLT2-Inhibitor | Nein | Kontraindikation |
-| DM2 | Intervall für künftige Fußinspektionen | alle 6 Monate | Jährlich |
+| DM2 |  |  | Jährlich |
 | DM2 | Spätfolgen | Diabetische | Diabetische |
-| KHK | Angina pectoris | CCS IV | CCS III |
+|  |  | Asthma |  |
 | KHK | LDL-Cholesterin | Nicht bestimmt | 20,2 mmol/l |
 
-Seite 18 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 19 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 (bei Patientinnen und Patienten ab dem vollendeten 18. Lebensjahr) (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation letzten Dokumentation wegen Diabetes mellitus seit der letzten Dokumentation  wegen KHK seit der letzten Dokumentation Sympathomimetika Sympathomimetika Nephropathie Nephropathie Instabile Angina pectoris
 
 ---
 
-|  | | | |
+| Nein | | | |
 |---|---|---|---|
-| Schriftlicher Selbstmanagementplan | Nein | Ja | |
-|  |  | Grund für moderate oder niedrige | Ablehnung durch |
+| Ja |  |  | |
+|  |  |  | Ablehnung durch |
 |  |  |  |  |
 | Asthma | Asthma-Schulung empfohlen (bei | Ja | Nein |
 | Asthma | Asthma-Schulung schon vor | Ja |  |
@@ -798,23 +831,23 @@ Seite 18 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
 | DM2 | Schulung schon vor Einschreibung ins | Diabetes-Schulung |  |
 | DM2 | Empfohlene Diabetes-Schulung |  | Bei letzter |
 | DM2 | Empfohlene Hypertonie-Schulung |  | Ja |
-| KHK | Schulung bereits vor Einschreibung in | Ja |  |
+| KHK | Asthma | Ja |  |
 | KHK | Schulung empfohlen (bei aktueller | Ja | Nein |
 | KHK | Empfohlene Schulung(en) |  | Bei letzter |
 |  |  |  |  |
-| DM2 | GLP-1-Rezeptoragonist | Ja | Kontraindikation, Nein |
+| DM2 | GLP-1-Rezeptoragonist | Grund für moderate oder niedrige | Kontraindikation, Nein |
 | DM2 | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
 | KHK | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
 | KHK | Betablocker | Ja | Kontraindikation |
-| **Schulung** | | | |
+| Statin-Dosis | | | |
 |  |  | Aktuelle Statin-Dosis | Niedrig |
 |  |  | Aktuelle Therapiestrategie Statin | Keine Strategie |
-|  |  | Grund für moderate oder niedrige | Ablehnung durch |
+|  |  |  | Ablehnung durch |
 |  |  |  |  |
 | Asthma | Asthma-Schulung empfohlen (bei | Ja | Nein |
 | Asthma | Asthma-Schulung schon vor | Ja |  |
 | Asthma | Empfohlene Schulung wahrgenommen |  | Ja |
-| **Behandlungsplanung** | | | |
+| **Schulung** | | | |
 |  |  | Schulung schon vor Einschreibung ins | Diabetes-Schulung |
 |  |  | Empfohlene Diabetes-Schulung |  |
 |  |  | Empfohlene Hypertonie-Schulung |  |
@@ -832,7 +865,7 @@ Seite 18 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
 | KHK | ACE-Hemmer | Nein | Nein, ARB |
 | KHK | Aktuelle Statin-Dosis | Niedrig | Kein Statin |
 | KHK | Aktuelle Therapiestrategie Statin | Keine Strategie |  |
-| KHK | Grund für moderate oder niedrige | Ablehnung durch |  |
+| KHK | Grund für moderate oder niedrige  Statin-Dosis | Ablehnung durch |  |
 | **Schulung** | | | |
 | Asthma | Asthma-Schulung empfohlen (bei | Ja | Nein |
 | Asthma | Asthma-Schulung schon vor | Ja |  |
@@ -848,12 +881,12 @@ Seite 18 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
 | Asthma | Schriftlicher Selbstmanagementplan | Nein | Ja |
 | Asthma | Therapieanpassung | Keine | Steigerung der |
 | DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert erreicht |
-| DM2 | GLP-1-Rezeptoragonist | Ja | Kontraindikation, Nein |
+| DM2 | ACE-Hemmer | Ja | Kontraindikation, Nein |
 | DM2 | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
-| KHK | Thrombozytenaggregationshemmer | Nein | Kontraindikation, Nein |
+| Nein | Nein, ARB |  | KHK |
 | KHK | Betablocker | Ja | Kontraindikation |
 
-Seite 19 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 20 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 vereinbart Patienten aktueller Dokumentation) Einschreibung in DMP bereits Dokumentation) DMP bereits wahrgenommen DMP wahrgenommen Dokumentation) Dokumentation keine Dokumentation keine Medikation
 
@@ -875,12 +908,12 @@ vereinbart Patienten aktueller Dokumentation) Einschreibung in DMP bereits Dokum
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| DM2 | Ophthalmologische |  | Nicht durchgeführt |
+| DM2 |  |  | Nicht durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer | Ja, Veranlasst | Nein |
-| DM2 | Diabetesbezogene stationäre | Nein | Nein |
+|  |  |  |  |
 | KHK | Regelmäßiges sportliches Training | Ja | Nein, Nicht möglich |
 |  | | | |
-|  |  |  |  |
+| Nein |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -898,10 +931,21 @@ vereinbart Patienten aktueller Dokumentation) Einschreibung in DMP bereits Dokum
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| DM2 | Ophthalmologische |  | Nicht durchgeführt |
+| DM2 |  |  | Nicht durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer | Ja, Veranlasst | Nein |
-| DM2 | Diabetesbezogene stationäre | Nein | Nein |
+|  |  |  |  |
 | KHK | Regelmäßiges sportliches Training | Ja | Nein, Nicht möglich |
+|  | Netzhautuntersuchung seit der letzten | DM2 | Diabetesbezogene stationäre |
+| Nein |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | | | |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -910,25 +954,14 @@ vereinbart Patienten aktueller Dokumentation) Einschreibung in DMP bereits Dokum
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| DM2 | Ophthalmologische |  | Nicht durchgeführt |
+| DM2 | Ophthalmologische  Netzhautuntersuchung seit der letzten |  | Nicht durchgeführt |
 | DM2 | Behandlung/Mitbehandlung in einer | Ja, Veranlasst | Nein |
-| DM2 | Diabetesbezogene stationäre | Nein | Nein |
+| DM2 | Diabetesbezogene stationäre  Einweisung | Nein | Nein |
 | KHK | Regelmäßiges sportliches Training | Ja | Nein, Nicht möglich |
 
-Seite 20 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 21 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyndrom qualifizierten Einrichtung Einweisung
+Dokumentation für das Diabetische Fußsyndrom qualifizierten Einrichtung
 
 ---
 
@@ -940,7 +973,7 @@ Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyn
 | DMP-Fallnummer | 7514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 06.10.2023 |  |
+| Datum | 06.10.2023  15.mm.jjjj |  |
 | Einschreibung wegen | KHK |  |
 | Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -962,7 +995,7 @@ Netzhautuntersuchung seit der letzten Dokumentation für das Diabetische Fußsyn
 | **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
 | **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
-Seite 21 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 22 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7514 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation: Patienten
 
@@ -970,23 +1003,23 @@ manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufze
 
 | Medikamente | | |
 |---|---|---|
-| **Schulung** | **Behandlungsplanung** |  |
+| Grund für moderate oder niedrige Statin-Dosis | **Schulung** | **Behandlungsplanung** |
 |  |  |  |
-| Thrombozytenaggregationshemmer | Ja |  |
-| Betablocker | Nein |  |
-| ACE-Hemmer | Nein |  |
-| Aktuelle Statin-Dosis | Hoch | Nr. 11 |
-| Aktuelle Therapiestrategie Statin |  | Nr. 12 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | Nr. 11 |  |
 |  | | |
 |  |  |  |
-| Schulung bereits vor Einschreibung in DMP |  | Nr. 14 |
-| Schulung empfohlen (bei aktueller Dokumentation) | Ja |  |
-| Empfohlene Schulung(en) wahrgenommen |  |  |
+|  | Nr. 13 |  |
+|  |  |  |
+|  |  |  |
 |  |  |  |
 |  | | |
 | Vom Patienten gewünschte Informationsangebote der |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung | 06.10.2023 |  |
+| Datum der Erstellung | 06.10.2023  15.mm.jjjj |  |
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -1002,54 +1035,55 @@ manche Fehleingaben nicht möglich sind. Fehlermeldungen.  Aktionen in der Aufze
 | Thrombozytenaggregationshemmer | Ja |  |
 | Betablocker | Nein |  |
 | ACE-Hemmer | Nein |  |
-| Aktuelle Statin-Dosis | Hoch | Nr. 11 |
-| Aktuelle Therapiestrategie Statin |  | Nr. 12 |
-| Grund für moderate oder niedrige Statin-Dosis | Keine Begründung | Nr. 13 |
+| Aktuelle Statin-Dosis | Kontraindikation gegen |  |
+| Aktuelle Therapiestrategie Statin |  | Nr. 11 |
+| Grund für moderate oder niedrige Statin-Dosis | Keine Begründung | Nr. 12 |
 | **Schulung** | | |
-| Schulung bereits vor Einschreibung in DMP |  | Nr. 14 |
+| Schulung bereits vor Einschreibung in DMP |  | Nr. 13 |
 | Schulung empfohlen (bei aktueller Dokumentation) | Ja |  |
 | Empfohlene Schulung(en) wahrgenommen |  |  |
 | **Behandlungsplanung** | | |
-| Regelmäßiges sportliches Training | Ja, Nicht möglich | Nr. 15 |
+| Regelmäßiges sportliches Training | Ja, Nicht möglich | Nr. 14 |
 
-Seite 22 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 23 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Krankenkasse INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris Serum-Elektrolyte LDL-Cholesterin Relevante Ereignisse Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre notfallmäßige Behandlung wegen KHK seit der letzten Dokumentation Grund für moderate oder niedrige Statin-Dosis Erstdokumentation Nein, CCS II Bestimmt 27,0 mmol/l Andere Form des akuten Koronarsyndroms Keine Keine Begründung Aktion Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 13
+Krankenkasse INDIKATIONSSPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris Serum-Elektrolyte LDL-Cholesterin Relevante Ereignisse Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre notfallmäßige Behandlung wegen KHK seit der letzten Dokumentation Thrombozytenaggregationshemmer Betablocker ACE-Hemmer Aktuelle Statin-Dosis Aktuelle Therapiestrategie Statin Schulung bereits vor Einschreibung in DMP wahrgenommen Schulung empfohlen (bei aktueller Dokumentation) Empfohlene Schulung(en) wahrgenommen Erstdokumentation Nein, CCS II Bestimmt 27,0 mmol/l Andere Form des akuten Koronarsyndroms Keine Ja Nein Nein Kontraindikation gegen Keine Begründung Ja Aktion Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 Nr. 12 
+
 
 ---
 
 - **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
-- **4.** **Anlegen einer Verlaufsdokumentation am** 06.12.2023
+- **4.** **Anlegen einer Verlaufsdokumentation am** 06.12.2023 15.mm.jjjj
 
-| INDIKATIONSSPEZIFISCHE DATEN | | | |
-|---|---|---|---|
-| **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion** | |
-| Angina pectoris | CCS I |  | |
-| LDL-Cholesterin | 220 mg/dl |  | |
-| **Relevante Ereignisse** | | | |
-| Relevante Ereignisse | instabile Angina pectoris, | Nr. 16 | |
-| Herzinfarkt innerhalb der letzten 12 Monate | Ja |  | |
-|  | Ungeplante stationäre Behandlung wegen KHK | 1 |  |
-| **Medikamente** | | | |
-| Thrombozytenaggregationshemmer | Ja, Nein | Nr. 17 | |
-| Betablocker | Ja, Kontraindikation | Nr. 18 | |
-| ACE-Hemmer | Ja |  | |
-| Aktuelle Statin-Dosis | Moderat | Nr. 19 | |
-| Aktuelle Therapiestrategie Statin |  | Nr. 20 | |
-| Grund für moderate oder niedrige Statin-Dosis |  | Nr. 21 | |
-| **Schulung** | | | |
-| Schulung empfohlen (bei aktueller Dokumentation) | Ja, Nein | Nr. 22 | |
-| Empfohlene Schulung(en) wahrgenommen | Nein |  | |
-| **Behandlungsplanung** | | | |
-| Regelmäßiges sportliches Training | Ja, Nein | Nr. 23 | |
+| INDIKATIONSSPEZIFISCHE DATEN | | |
+|---|---|---|
+| **Anamnese- und Befunddaten** | **Verlaufsdokumentation** | **Aktion** |
+| Angina pectoris | CCS I |  |
+| LDL-Cholesterin | 220 mg/dl |  |
+| **Relevante Ereignisse** | | |
+| Relevante Ereignisse | instabile Angina pectoris, |  |
+| Herzinfarkt innerhalb der letzten 12 Monate | Ja |  |
+| Ungeplante stationäre Behandlung wegen KHK seit der | 1 |  |
+| **Medikamente** | | |
+| Thrombozytenaggregationshemmer | Ja, Nein | Nr. 15 |
+| Betablocker | Ja, Kontraindikation | Nr. 16 |
+| ACE-Hemmer | Ja |  |
+| Aktuelle Statin-Dosis | Kein Statin |  |
+| Aktuelle Therapiestrategie Statin | Strategie der festen Dosis  (hoch oder moderat) | Nr. 17 |
+| Grund für moderate oder niedrige Statin-Dosis | Ablehnung durch | Nr. 18 |
+| **Schulung** | | |
+| Schulung empfohlen (bei aktueller Dokumentation) | Ja |  |
+| Empfohlene Schulung(en) wahrgenommen | Nein |  |
+| **Behandlungsplanung** | | |
+| Regelmäßiges sportliches Training | Nicht möglich, Nein |  |
 
-Seite 23 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 24 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 ```
 -
 ```
 
-seit der letzten Dokumentation
+letzten Dokumentation Patienten
 
 ---
 
@@ -1060,10 +1094,10 @@ seit der letzten Dokumentation
 |  |  |
 |---|---|
 | **Prüffall-ID** | 7530 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-| **Voraussetzung** | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn |
-| **Prüfunterlagen** | Screenshots / PDFs und ggf. Erläuterungen zum Nachweis der korrekten |
-| **Hinweis** | Dieser Testfall ist unterteilt in fünf Szenarien |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP  KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
+| **Voraussetzung** | Szenario 3: Ihr System unterstützt die Datenübermittlung mit Datenträgern. Wenn  dies nicht der Fall ist, schreiben Sie dieses bitte. |
+| **Prüfunterlagen** | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach  einer möglichen Hinweissteuerung.    Screenshots / PDFs und ggf. Erläuterungen zum Nachweis der korrekten  Systemfunktionalität |
+| **Hinweis** | Dieser Testfall ist unterteilt in vier fünf Szenarien |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1074,15 +1108,13 @@ seit der letzten Dokumentation
 \| **Szenario 2** |
 \| Der Patient wechselt den Arzt, z.B. aufgrund einer Vertretungsregelung. Nach Kenntnisnahme einer  KBV_ITA_VGEX_Anforderungskatalog_eDMP), dass zu diesem Patienten keine Erstdokumentation |
 \| **Szenario 3** |
-\| Die Daten werden vom Anwender für den Versand vorbereitet. Das System erzeugt eine Hinweismeldung  (Bildschirmkopie beilegen) bezüglich der Datenträgerbeschriftung und druckt einen  Transportbegleitzettel aus. Hier soll die Umsetzung der Anforderungen KP4-40 und KP4-41 (siehe   KBV_ITA_VGEX_Anforderungskatalog_eDMP**)** |
-\| **Szenario 4** |
 \| Das System ermöglicht dem Anwender, sich als erläuternde Übersicht bei der Indikation KHK die Tabelle  KBV_ITA_VGEX_Anforderungskatalog_eDMP) |
-\| **Szenario 5** |
+\| **Szenario 4** |
 \| Zeigen Sie, dass das System bei der Auswahl die näheren Erläuterungen zum Parameter „Aktuelle Statin- KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 
-Seite 24 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 25 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP dies nicht der Fall ist, schreiben Sie dieses bitte. Systemfunktionalität Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. nachgewiesen werden. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in anzeigen zu lassen. Dosis“ die Dosierung gemäß Anforderung P1-42 (2.) anzeigt (siehe 
+Angabe der DMP-Fallnummer ist eine bereits existierende Nummer (z.B. 4511) einzugeben. Das System darf entsprechend der Anforderung P1-10 (siehe vergebene DMP-Fallnummer nicht akzeptieren entsprechenden Warnung gemäß Anforderung P1-12 (siehe vorliegt, wird eine Verlaufsdokumentation angelegt. der CCS-Schweregradeinteilungen (siehe Tabelle 2 in anzeigen zu lassen. Dosis“ die Dosierung gemäß Anforderung P1-42 (2.) anzeigt (siehe 
 
 
 ---
@@ -1110,9 +1142,9 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | **Administrative Daten** |  |
 | DMP | KHK |
 | DMP-Fallnummer | 1010 |
-| Datum | 05.04.2023 |
+| Datum | 05.04.2023  15.10.2026 |
 
-Seite 25 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 26 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
@@ -1121,9 +1153,9 @@ Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungs
 
 # 3 TESTDATENVALIDIERUNG
 
-Alle beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der  Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der multimorbide  Fall „Prüffall 6513“.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 6513“.
 
-Zusätzlich kann optional auch der Prüffall TDV7518 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die neue Schnittstellenversion 4.17 (gültig ab 01.10.2026).
+Zusätzlich kann optional auch das Beispiel TDV7518 in der Testdatenvalidierung genutzt werden. Dieses  validiert gegen die Schnittstellenversion 4.17 (gültig ab 01.10.2026).
 
 Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
 
@@ -1131,45 +1163,33 @@ Abbildung 3: Testdatenvalidierung
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_102“ beginnen muss, sonst schlägt die Validierung fehl.
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV7518
+Name                 Typ
 
-Seite 26 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+**Test**_102_SystemID.zip            ZIP-komprimierter Ordner
+
+Dokumentation            Dateiordner
+
+391234511_20261015101010_1_ KHK_417.idx    IDX-Datei
+
+391234511_20261015101010_1_ KHK_417.zip.XKM  XKM-Datei
+
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne TDV7518
+
+Seite 27 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
 ---
 
-## 3.1 PRÜFFALL TESTDATENVALIDIERUNG
-
-**3.1.1** ** Prüffall TDV7518**
+**3.1** **BEISPIELDATEN ZUR TESTDATENVALIDIERUNG**
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | TDV7518 |
-| **Testziel** | Anlage einer Erst- und Verlaufsdokumentation mit der neuen Schnittstellenversion**4.17 (** |
+| **Testziel** | Anlage einer Erst- und Verlaufsdokumentation mit der Schnittstellenversion |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | KHK-Dokumentationsunterlagen |
-| **Hinweis** | Dieser Prüffall ist  nicht im Zertifizierungsportal hochgeladen werden. |
+| **Hinweis** | Dieses Beispiel ist **nicht** |
 
-Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „**Test**_102“ beginnen muss, sonst schlägt die Validierung fehl.
-
-Name                 Typ
-
-**Test**_110_SystemID.zip            ZIP-komprimierter Ordner
-
-Dokumentation            Dateiordner
-
-391234511_20250406101010_1_ KHK_417.idx   IDX-Datei
-
-391234511_20250406101010_1_ KHK_417 .idx.XKM  XKM-Datei
-
-Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV7518
-
-**Aktionen, die durch den Antragsteller durchgeführt werden:**
-
-- **1.** **Versichertendaten:**
-
-Die Versichertendaten von **Cora Herzkrankheit** Anhang 4.2) sind im Ersatzverfahren zu erfassen.
-
-- **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
+Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives. Beachten Sie, dass der Dateinamen  des Archivs mit „
 
 | 3. | | |
 |---|---|---|
@@ -1184,39 +1204,53 @@ Die Versichertendaten von **Cora Herzkrankheit** Anhang 4.2) sind im Ersatzverfa
 | Körpergröße | 2,01 m | 2,01 m |
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck (systolisch / diastolisch) | 300 / 180 mmHg | 250 / 90 mmHg |
+| Raucher | Ja | Nein |
 |  |  |  |
-|  |  |  |
-| **3.** | | |
+| **Testziel** | | |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
-Seite 27 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Name
 
-gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher INDIKATIONSÜBERGREIFENDE DATEN 
+**Test**
 
+Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+- **1.**
+- **2.**
+
+Seite 28 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
+
+gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Unterlagen  im Zertifizierungsportal hochgeladen werden.  4.17 können daher _102“ beginnen muss, sonst schlägt die Validierung fehl. _102_SystemID.zip  391234511_20250406101010_1_ KHK_417.idx    391234511_20250406101010_1_ KHK_417.idx.XKM     Versichertendaten: Die Versichertendaten von Cora Herzkrankheit Anlegen einer Erst- und einer Verlaufsdokumentation INDIKATIONSÜBERGREIFENDE DATEN Typ ZIP-komprimierter Ordner Dateiordner          IDX-Datei XKM-Datei Anhang 4.2 ) sind im Ersatzverfahren zu erfassen.
 
 ---
 
-| Behandlungsplanung | | |
+| Verlaufsdokumentation | | |
 |---|---|---|
-| **INDIKATIONSPEZIFISCHE DATEN** | **Anamnese- und Befunddaten** | **Erstdokumentation** |
-|  | Ja | Orale Antikoagulation |
-| Betablocker | Ja | Nein, Kontraindikation |
-| ACE-Hemmer | ARB | Kontraindikation |
-| Aktuelle Statin-Dosis | Hoch | Moderat |
-| Aktuelle Therapiestrategie Statin |  |  |
-|  |  |  |
-| **Verlaufsdokumentation** | | |
+| **Relevante Ereignisse** | **Medikamente** | Feste Hochdosis- |
 |  |  | Ja |
-|  |  | Ja |
+|  |  | ARB |
+|  |  | Hoch |
 |  |  |  |
-| Raucher | Ja | Nein |
+|  |  |  |
+|  |  |  |
+| Strategie | | |
+|  | Schulung empfohlen (bei aktueller |  |
+|  | Empfohlene Schulung(en) wahrgenommen |  |
+|  |  |  |
+|  | Regelmäßiges sportliches Training |  |
 | Begleiterkrankungen | Arterielle Hypertonie, | Fettstoffwechselstörung |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht, |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.10.2026 | 15.04.2027 |
+
+Seite 29 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.2 3 / 14. August 2026
+
+Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Angina pectoris LDL-Cholesterin Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation Thrombozytenaggregationshemmer Betablocker ACE-Hemmer Aktuelle Statin-Dosis Aktuelle Therapiestrategie Statin Grund für niedrige Statin-Dosis Schulung bereits vor Einschreibung in DMP Dokumentation) Fettstoffwechselstörung, AVK, Chronische Herzinsuffizienz Körperliches Training Erstdokumentation CCS I Nicht bestimmt Instabile Angina pectoris Strategie der festen Dosis (hoch oder moderat) Nein CCS III 180 mg/dl Nein 99 Orale Antikoagulation Nein, Kontraindikation Kontraindikation Moderat Zielwert-Strategie Aufdosierungsphase Nein Nein
 
 | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -1240,10 +1274,6 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 | Empfohlene Schulung(en) wahrgenommen |  | Nein |
 | **Behandlungsplanung** | | |
 | Regelmäßiges sportliches Training | Nein | Ja |
-
-Seite 28 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.2 2 / 1. Juli 2026
-
-Informationsangebote der Krankenkasse Angina pectoris LDL-Cholesterin Relevante Ereignisse  Relevante Ereignisse Herzinfarkt innerhalb der letzten 12 Monate Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation Medikamente Thrombozytenaggregationshemmer Grund für niedrige Statin-Dosis Schulung Schulung bereits vor Einschreibung in DMP wahrgenommen Schulung empfohlen (bei aktueller Dokumentation) Empfohlene Schulung(en) wahrgenommen Fettstoffwechselstörung, AVK, Chronische Herzinsuffizienz Körperliches Training CCS I Nicht bestimmt Instabile Angina pectoris Feste Hochdosis- Strategie   Strategie der festen Dosis (hoch oder moderat) CCS III 180 mg/dl 99 Zielwert-Strategie Aufdosierungsphase 
 
 
 ---
@@ -1275,16 +1305,16 @@ Informationsangebote der Krankenkasse Angina pectoris LDL-Cholesterin Relevante 
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 06 |
 
-Seite 29 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 /
+Seite 30 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 /
 
-1. Juli 2026
+14. August 2026
 
 Federmannssohn Plaetzchen  
 
 
 ---
 
-**4.2** **PRÜFFALL TDV7518 – TERSTDATENVALIDIERUNG**
+**4.2** **TDV7518 – TESTDATENVALIDIERUNG**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -1309,9 +1339,12 @@ Federmannssohn Plaetzchen
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 12 |
 
-Seite 30 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 31 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 /
 
-und Georg-von-Groscurth-Plaetzchen
+14. August 2026
+
+und Georg-von-Groscurth-Plaetzchen 
+
 
 ---
 
@@ -1321,7 +1354,7 @@ und Georg-von-Groscurth-Plaetzchen
 |---|---|
 | **Referenz** | **Dokument** |
 | Austausch_von_XML-Daten_Vn.nn.ZIP4 | KBV_ITA_VGEX_XML-Schnittstellen - |
-| EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspezifischen |
+| EXT_ITA_AHEX_Anleitung_eDMP_KHK | Ausfüllanleitung zum indikationsspezifischen Datensatz |
 | EXT_ITA_AHEX_Teilnahme_eDMP_KHK | Erklärung Koronare Herzkrankheit zur Teilnahme an |
 | EXT_ITA_VGEX_Plausi_eDMP_Asthma | Plausibilitätsrichtlinie zur Prüfung der |
 | EXT_ITA_VGEX_Plausi_eDMP_DM1_DM2 | Plausibilitätsrichtlinie zur Prüfung der |
@@ -1333,19 +1366,19 @@ und Georg-von-Groscurth-Plaetzchen
 | KBV_ITA_VGEX_Schnittstelle_eDMP_KHK | Schnittstellenbeschreibung Koronare Herzkrankheit |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 | KBV-Kryptomodul (XKM) und öffentlicher Test- | KBV-Kryptomodul |
-| Prüfstammdateien | Alle für das Verfahren ggf. relevanten |
-| Stammdatei Datenannahmestellen (SDDA) und | Stammdatei der Datenannahmestellen und |
-|  | Ausfüllanleitung zum indikationsspezifischen |
+| Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
+| KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA (Datenannahmestellen |
+| EXT_ITA_AHEX_Teilnahme_eDMP_KHK |  |
 |  |  |
 |  |  |
 
-________________  4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
+4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
 
-Seite 31 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 /
+________________
 
-1. Juli 2026
+Seite 32 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-schlüssel KBV_ITA_VGEX_Schnittstelle_SDDA von XML Daten in der Vertragsärztlichen Versorgung Datensatz für die strukturierten Behandlungsprogramme KHK einem strukturierten Behandlungsprogramm für Dokumentationsdaten des strukturierten Behandlungsprogramms Asthma Dokumentationsdaten der strukturierten Behandlungsprogramme DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Schnittstellenbeschreibung der SDDA 
+Austausch von XML Daten in der Vertragsärztlichen Versorgung für die strukturierten Behandlungsprogramme KHK einem strukturierten Behandlungsprogramm für Dokumentationsdaten des strukturierten Behandlungsprogramms Asthma Dokumentationsdaten der strukturierten Behandlungsprogramme DM1 und DM2 Dokumentationsdaten des strukturierten Behandlungsprogramms KHK Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes schlüssel Stammdateien zu verwenden. Stammdatei) 
 
 
 ---
@@ -1354,7 +1387,7 @@ schlüssel KBV_ITA_VGEX_Schnittstelle_SDDA von XML Daten in der Vertragsärztlic
 |---|---|
 |  |  |
 |  | **Ansprechpartner:** |
-| www.kbv.de |  |
+| www.kbv.de | 5 |
 |  |  |
 |  |  |
 |  |  |
@@ -1369,9 +1402,9 @@ schlüssel KBV_ITA_VGEX_Schnittstelle_SDDA von XML Daten in der Vertragsärztlic
 |  |  |
 |  |  |
 |  |  |
-| VSD_5.2.0_Testfaelle_Vn.n.zip (eGK Daten im XML- | eGK Daten |
+| VSD_Testfaelle_DMP_Vn.n.zip5 | eGK Daten (im XML- |
 | XPM-Paket_KHK | Prüfmodul KHK |
 
-Seite 32 von 32 / KBV / Pruefpaket eDMP-KHK / Version: 1.22 / 1. Juli 2026
+Seite 33 von 33 / KBV / Pruefpaket eDMP-KHK / Version: 1.23 / 14. August 2026
 
-Format) Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de,
+Format)  n.n steht für die aktuelle Versionsnummer, zum Beispiel 1.0 Dezernat Digitalisierung und IT IT in der Arztpraxis Tel.: 030 4005-2077, pruefstelle@kbv.de  Kassenärztliche Bundesvereinigung Herbert-Lewin-Platz 2, 10623 Berlin pruefstelle@kbv.de, ________________ 

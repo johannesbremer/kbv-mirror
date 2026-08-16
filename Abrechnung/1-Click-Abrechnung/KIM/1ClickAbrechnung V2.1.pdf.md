@@ -95,11 +95,15 @@ Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket ode
 
 **Status**
 
-2.1.11 08.05.2026 kv.digital 3
+2.1.12 14.08.2026 kv.digital 3
+
+Präzisierung von Anforderung [1Click0813] in Kraft
+
+redaktionelle Änderungen 2.1.11 08.05.2026 kv.digital 3
 
 Änderung [1Click0142] und [1Click0332]:
 
-in Kraft Metainformationen der Anhänge (filename  statt name wird Pflichtangabe) aufgrund  RFC2045 und RFC2183 2.1.10 15.05.2025 kv.digital 3
+außer Kraft Metainformationen der Anhänge (filename  statt name wird Pflichtangabe) aufgrund  RFC2045 und RFC2183 2.1.10 15.05.2025 kv.digital 3
 
 Aufnahme Anforderung [1Click0820]: Aktion außer Kraft des Anwenders, wenn Rückmeldungen  ausbleiben 2.1.9 13.09.2024 kv.digital 3
 
@@ -137,10 +141,6 @@ außer Kraft GmbH 3
 
 Änderung und Ergänzung Hinweis bei  [1Click0141] und [1Click0332]
 
-3
-
-Korrektur und Ergänzung Hinweis und  Anmerkungen bei [1Click0811]
-
 Seite 4 von 27
 
 
@@ -151,6 +151,10 @@ Seite 4 von 27
 **Version Datum Autor Kapitel Änderung**
 
 **Status**
+
+3
+
+Korrektur und Ergänzung Hinweis und  Anmerkungen bei [1Click0811]
 
 3
 
@@ -361,26 +365,6 @@ Begleitdatei
 
 **MÜSSEN** die in Tabelle 1 aufgelisteten Metainformationen (
 
-KVDT-Abrechnungsdatei
-
-Sammelerklärung im PDF/A-Format
-
-Sammelerklärung im XML-Format
-
-**1 Tabelle: Metainformationen**
-
-Hinweise
-
-Die Angabe des Parameters "filename" in Content-Disposition angegeben, muss dieser mit dem Wert in "
-
-*Die Angabe von Anführungszeichen bei name oder filename ist nur dann erforderlich, wenn der Dateiname Leerzeichen*  *oder Sonderzeichen enthält.*
-
-**[1Click0143]**
-
-Das Software-System **MUSS** für die Signaturerstellung der PDF/A-Sammelerklärung-Datei die  Komponenten der Telematikinfrastruktur nutzen und dabei alle zur Verfügung stehenden Signaturmodi  gemäß [gemSpec_Kon] unterstützen.
-
-Seite 11 von 27
-
 **MUSS**
 
 ```
@@ -390,31 +374,33 @@ Content-Disposition
 **Content-Type**
 
 ```
-application/xml;
-name="begleitdatei.
-xml"
-application/octet```
-
-stream; name="<date
-
-```
-iname>"
-application/
+application/xml
 ```
 
-pdf; name="<dateina
+KVDT-Abrechnungsdatei
+
+Sammelerklärung im PDF/A-Format
+
+Sammelerklärung im XML-Format
 
 ```
-me>"
+application/octet-
+stream
+application/pdf
+application/xml
 ```
 
-application/ xml; name="<dateina
+**1 Tabelle: Metainformationen** Hinweise
 
-```
-me>"
-```
+Die Angabe des Parameters "name" in Content-Type ist optional. Wird "name" jedoch angegeben, muss dieser  mit dem Wert in "filename" im Parameter Content-Disposition übereinstimmen.
 
-*-Type* *file*name" im Parameter Content-Type
+Die Angabe von Anführungszeichen bei name oder filename ist nur dann erforderlich, wenn der Dateiname  Leerzeichen oder Sonderzeichen enthält.
+
+**[1Click0143]**
+
+Das Software-System **MUSS** für die Signaturerstellung der PDF/A-Sammelerklärung-Datei die  Komponenten der Telematikinfrastruktur nutzen und dabei alle zur Verfügung stehenden Signaturmodi  gemäß [gemSpec_Kon] unterstützen.
+
+Seite 11 von 27
 
 – ausschließlich der
 
@@ -430,8 +416,6 @@ base64
 base64
 base64
 ```
-
-ist optional. Wird "filename" jedoch  *Disposition*
 
 1ClickAbrechnung V2.1
 
@@ -455,9 +439,6 @@ attachment;fil
 ename=<dateinam
 e>
 ```
-
-übereinstimmen.
-
 
 ---
 
@@ -617,7 +598,9 @@ Begleitdatei
 
 PDF-Datei(en)
 
-**2 Tabelle: Metainformationen** Hinweis: Die Angabe des Parameters "filename" in Content-Disposition jedoch angegeben, muss dieser mit dem Wert in " übereinstimmen.
+**2 Tabelle: Metainformationen** Hinweis: Die Angabe des Parameters "
+
+angegeben, muss dieser mit dem Wert in " übereinstimmen.
 
 Seite 16 von 27
 
@@ -631,13 +614,12 @@ Content-Disposition
 
 ```
 application/xml
-name="begleitdatei
-.xml"
-application/pdf;
-name="<dateiname>"
+application/pdf
 ```
 
-*file*name" im Parameter Content-Type
+name " in Content-Type
+
+filename " im Parameter
 
 ) enthalten.
 
@@ -648,7 +630,11 @@ base64
 base64
 ```
 
-*-Type* ist optional. Wird "filename"
+ist optional. Wird "
+
+```
+Content-Disposition
+```
 
 1ClickAbrechnung V2.1
 
@@ -667,7 +653,7 @@ ename=<dateinam
 e>
 ```
 
-*-Disposition*
+name " jedoch
 
 
 ---
@@ -729,7 +715,7 @@ Seite 18 von 27
 
 **[1Click0813]**
 
-Das Software-System **MUSS** alle ausgehenden1ClickAbrechnung-Lieferungen in einem Postordner  speichern und dem Anwender die Möglichkeit bieten, sich die Nachrichten erneut anzeigen zu lassen. Die  Nachrichten **MÜSSEN** so gekennzeichnet sein, dass der Anwender auch ohne Öffnen einer Nachricht  erkennen kann, ob sie erfolgreich gesendet worden ist, an wen und wann sie gesendet wurde, welche Datenpakete mit der 1ClickAbrechnung-Lieferung versendet wurden, ob für eine versendete 1ClickAbrechnung-Lieferung eine technische Rückmeldung  (Eingangsbestätigung) vorliegt, ob für eine versendete 1ClickAbrechnung-Lieferung eine fachliche Rückmeldung vorliegt.
+Das Software-System **MUSS** alle ausgehenden1ClickAbrechnung-Lieferungen in einem Postordner  speichern und dem Anwender die Möglichkeit bieten, sich die Nachrichten erneut anzeigen zu lassen. Die  Nachrichten **MÜSSEN** so gekennzeichnet sein, dass der Anwender auch ohne Öffnen*, Anklicken oder*  *Auswählen* einer Nachricht erkennen kann, ob sie erfolgreich gesendet worden ist, an wen und wann sie gesendet wurde, welche Datenpakete mit der 1ClickAbrechnung-Lieferung versendet wurden, ob für eine versendete 1ClickAbrechnung-Lieferung eine technische Rückmeldung  (Eingangsbestätigung) vorliegt, ob für eine versendete 1ClickAbrechnung-Lieferung eine fachliche Rückmeldung vorliegt.
 
 Die Anzeige der Nachrichten **MUSS** übersichtlich und praktikabel sein.
 
@@ -766,11 +752,11 @@ Die Information muss in geeigneter Form erfolgen.
 
 **[1Click0817]**
 
-Hat das Software-System nach Versand der 1ClickAbrechnung-Lieferung nicht innerhalb eines  angemessenen Zeitraums eine 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung-Rückmeldung – in Abhängigkeit der in der SDKVCA angegebenen, unterstützen Funktionen – erhalten,  **MUSS** das Software-System den Anwender über die fehlenden 1ClickAbrechnung-Nachrichten  informieren.
+Hat das Software-System nach Versand der 1ClickAbrechnung-Lieferung nicht innerhalb eines  angemessenen Zeitraums eine 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung-Rückmeldung – in Abhängigkeit der in der SDKVCA angegebenen, unterstützten Funktionen – erhalten,  **MUSS** das Software-System den Anwender über die fehlenden 1ClickAbrechnung-Nachrichten  informieren.
 
 Anmerkung:
 
-Die Information muss in geeigneter Form erfolgen. Die Information kann sollte Empfehlungen für eine geeignete Reaktion des Anwenders enthalten, bspw.  die Rückfrage bei der KV per Telefon oder E-Mail.
+Die Information muss in geeigneter Form erfolgen. Die Information sollte Empfehlungen für eine geeignete Reaktion des Anwenders enthalten, bspw. die  Rückfrage bei der KV per Telefon oder E-Mail.
 
 **[1Click0818]**
 
@@ -797,11 +783,11 @@ Seite 20 von 27
 
 **[1Click0820]**
 
-*Das Software-System* ***MUSS*** *dem Anwender die Möglichkeit bieten, bei 1ClickAbrechnung-Lieferungen, für die*  *innerhalb eines angemessenen Zeitraums keine 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung-* *Rückmeldung - in Abhängigkeit der in der SDKVCA angegebenen, unterstützten Funktionen - eingegangen ist, die*  *Kennzeichnung für die fehlende 1ClickAbrechnung-Eingangsbestätigung bzw. 1ClickAbrechnung-Rückmeldung zu*  *ändern. Das Software-System* ***MUSS**** den Anwender darauf hinweisen, dass die Kennzeichnung nur nach Rückfrage*  *bei der KV erfolgen darf.*
+Das Software-System **MUSS** dem Anwender die Möglichkeit bieten, bei 1ClickAbrechnung-Lieferungen,  für die innerhalb eines angemessenen Zeitraums keine 1ClickAbrechnung-Eingangsbestätigung bzw.  1ClickAbrechnung-Rückmeldung - in Abhängigkeit der in der SDKVCA angegebenen, unterstützten  Funktionen - eingegangen ist, die Kennzeichnung für die fehlende 1ClickAbrechnung-Eingangsbestätigung  bzw. 1ClickAbrechnung-Rückmeldung zu ändern. Das Software-System **MUSS** den Anwender darauf  hinweisen, dass die Kennzeichnung nur nach Rückfrage bei der KV erfolgen darf.
 
-*Anmerkung:*
+Anmerkung:
 
-*Der Hinweis muss in geeigneter Form erfolgen.*
+Der Hinweis muss in geeigneter Form erfolgen.
 
 Seite 21 von 27
 

@@ -4,135 +4,95 @@
 \|  |
 \|---|
 
-|  | **BUNDESVEREINIGUNG    DEZERNAT DIGITALISIERUNG UND IT  1. JULI 2026   VERSION: 1.06   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. AUGUST 2026   VERSION: 1.07   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 **PRUEFPAKET EDMP-HERZINSUFFIZIENZ**
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EDMP_HI]
 
-Seite 1 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 1 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-KASSENÄRZTLICHE IT IN DER ARZTPRAXIS   
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
-
-**6**
-
-1.1 Rechtsgrundlage
-
-6
-
-1.2 Zertifizierungsablauf
-
-6
-
-1.3 Zertifizierungsportal
-
-6
-
-1.4 Zertifizierungsdokumente
-
-7
-
-1.5 Prüfunterlagen
-
-7
-
-1.6 Prüfvorgaben
-
-9
-
-1.6.1 Prüfstammdaten
-
-9
-
-1.6.2 Versichertendaten
-
-9
-
-1.6.3 Praxisdaten/ Arztstempel
-
-9
-
-1.6.4 Krankenhausdaten
-
-9
-
-1.6.5 Prüfnummer
-
-10
-
-1.6.6 Stammdatei der Datenannahmestellen (SDDA) 10
-
-1.6.7 Auflistung der Prüffälle 10
+| 1 ALLGEMEINES | 6 |
+|---|---|
+| 1.1 Rechtsgrundlage | 6 |
+| 1.2 Zertifizierungsablauf | 6 |
+| 1.3 Zertifizierungsportal | 6 |
+| 1.4 Zertifizierungsdokumente | 7 |
+| 1.5 Prü funterlagen | 7 |
+| 1.6 Prü fvorgaben | 9 |
+| 1.6.1 Schnittstellenversionen | 9 |
+| 1.6.2 Datumseingaben | 9 |
+| 1.6.3 Prü fstammdaten | 9 |
+| 1.6.4 Versichertendaten | 9 |
+| 1.6.5 Praxisdaten/ Arztstempel | 10 |
+| 1.6.6 Krankenhausdaten | 10 |
+| 1.6.7 Prü fnummer | 10 |
+| 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 10 |
+| 1.6.9 Auflistung der Prü ffä lle | 11 |
 
 **2** **PRÜFFÄLLE**
 
-**11**
+**12**
 
-2.1 Prüffälle Dokumentationen 11
+2.1 Prüffälle Dokumentationen 12
 
 2.1.1 Prüffall 4511
 
-11
+12
 
 2.1.2 Prüffall 4512
 
-13
+14
 
 2.1.3 Prüffall 4520
 
-15
+16
 
 2.2 Prüffall Systemreaktion
 
-18
+19
 
 2.2.1 Prüffall 4514
 
-18
+19
 
-2.2.2 Konditionaler Prüffall 4515 21
+2.2.2 Konditionaler Prüffall 4515 22
 
-2.3 Weitere Prüffälle zum Anforderungskatalog 22
+2.3 Weitere Prüffälle zum Anforderungskatalog 23
 
 2.3.1 Prüffall 4530
 
-22
+23
 
 2.3.2 Prüffall 4540
 
-23
+24
 
-**3** **TESTDATENVALIDIERUNG**
-
-**24**
-
-3.1.1 Prüffall TDV4518
-
-25
-
-**4** **ANHANG**
-
-**28**
-
-4.1 Prüffall 4520 – Ersatzverfahren 28
-
-4.2 Prüffall TDV4518 Testdatenvalidierung 29
+| 3 |  | TESTDATENVALIDIERUNG | 25 |
+|---|---|---|---|
+| 3.1 | Beispieldaten | zur Testdatenvalidierung | 26 |
+| **4** | **ANHANG** |  | **29** |
+| 4.1 | Prü ffall | 4520 – Ersatzverfahren | 29 |
+| 4.2 | TDV4518 | - Testdatenvalidierung | 30 |
 
 **5** **REFERENZIERTE DOKUMENTE**
 
-**30**
+**31**
 
-Seite 2 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 /
+Seite 2 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 /
 
-1. Juli 2026
+14. August 2026
+
+Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle Beispieldaten zur Testdatenvalidierung Prüffall 4520 TDV4518 - Testdatenvalidierung 
+
 
 ---
 
@@ -142,13 +102,13 @@ Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung 8
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen 8
 
-Abbildung 3: Testdatenvalidierung 24
+Abbildung 3: Testdatenvalidierung 25
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV4518 24
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne TDV4518 25
 
-Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV4518 25
+Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung 26
 
-Seite 3 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 3 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 ---
 
@@ -156,33 +116,40 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.06 | 01.07.2026 | KBV | Aufnahme eines | Schnittstellenversion | 10,  24,  29 |
-| 1.05 | 31.03.2026 | KBV | Anpassung der    Anpassung Prüffall | Schnittstellenversion    Änderung der |  |
-| 1.04 | 09.12.2024 | KBV | Anpassung der    Überarbeitung des | Schnittstellenversion | 11          22 |
-| 1.03 | 12.02.2024 | KBV | Anpassung der  übergreifenden  Prüffälle an COPD-  Schnittstellenversion  4.06 | COPD-  Schnittstellenversion  4.06 ist ab 01.04.2023 zu  verwenden | 11 |
-| 1.02 | 08.11.2022 | KBV | Datumsanpassungen        Aufnahme eines    Neuer Prüffall 4540 zur | Datumsanpassungen    Schnittstellenversion          Anpassung an | 11          25              23 |
-| 1.01 | 15.02.2021 | KBV | Anpassung der | Schnittstellenversion | 11 |
+| 1.07 | 14.08.2026 | KBV | Anpassung der Prüffälle    Anpassung Prüffall 4540 | Schnittstellenversion    Änderung der | 12        24 |
+| 1.06 | 01.07.2026 | KBV | Aufnahme eines Testfalls | Schnittstellenversion | 11,  25,  30 |
+| 1.05 | 31.03.2026 | KBV | Anpassung der Prüffälle    Anpassung Prüffall 4540 | Schnittstellenversion    Änderung der |  |
+| 1.04 | 09.12.2024 | KBV | Anpassung der Prüffälle    Überarbeitung des | Schnittstellenversion | 12          23 |
+| 1.03 | 12.02.2024 | KBV | Anpassung der  übergreifenden  Prüffälle an COPD-  Schnittstellenversion  4.06 | COPD-  Schnittstellenversion  4.06 ist ab 01.04.2023 zu  verwenden | 12 |
+| 1.02 | 08.11.2022 | KBV | Datumsanpassungen der        Aufnahme eines Testfalls    Neuer Prüffall 4540 zur | Datumsanpassungen    Schnittstellenversion          Anpassung an | 12          24              24 |
 |  |  |  |  |  |  |
-|  |  | 01.07.2026 | KBV | Aufnahme eines | Schnittstellenversion |
+|  |  | 14.08.2026 | KBV | Anpassung der Prüffälle | Anpassung Prüffall 4540  Schnittstellenversion |
+|  |  |  |  |  |  |
 
-Seite 4 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 4 von 32 / KBV / Pruefpaket eDMP-
 
-Testfalls für die Testdatenvalidierung Testfalls 4530 der Prüffälle. Testfalls für die Testdatenvalidierung Umsetzung der Teilnahmeerklärung. Schnittstellenversionen 1.04 ist ab 01.10.2026 zu 1.04 ist ab 01.10.2026 zu Barcodeversion (03) ab 1.10.2026 1.03 ist ab 01.01.2025 zu verwenden. wegen der Prüffälle. 1.02 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. 1.01 ist ab 01.04.2021 zu
+Herzinsuffizienz / Version: 1.07 / 14. August 2026
+
+an Schnittstellenversion 1.04 ist ab 01.10.2026 zu Barcodeversion (03) ab 1.10.2026 für die 1.04 ist ab 01.10.2026 zu Testdatenvalidierung zur Schnittstellenversion 1.04 an Schnittstellenversion 1.04 ist ab 01.10.2026 zu Barcodeversion (03) ab 1.10.2026 an Schnittstellenversion 1.03 ist ab 01.01.2025 zu verwenden. Testfalls 4530 Prüffälle. für die Testdatenvalidierung zur Schnittstellenversion 1.01 Umsetzung der Teilnahmeerklärung. wegen der Prüffälle. 1.02 ist ab 01.04.2023 zu verwenden. Änderungen im Anforderungskatalog. 
+
 
 ---
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
-|  | KBV | Dokumenterstellung | initiale Erstellung | alle |  |
+|  | KBV | Anpassung der Prüffälle | Schnittstellenversion  12 |  | 19.06.2019  KBV  Dokumenterstellung  initiale Erstellung |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
+| 1.01 | 15.02.2021 | KBV | Anpassung der Prüffälle | Schnittstellenversion | 12 |
 | 1.0 | 19.06.2019 | KBV | Dokumenterstellung | initiale Erstellung | alle |
 
-Seite 5 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 5 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
+
+an Schnittstellenversionen 1.01 ist ab 01.04.2021 zu verwenden
 
 ---
 
@@ -220,7 +187,7 @@ Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizieru
 
 **HINWEIS**
 
-Seite 6 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 6 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 ---
 
@@ -252,7 +219,7 @@ Je Betriebsstättennummer wird eine Begleitdatei und eine Archivdatei (*.zip.XKM
 
 [Konditional] Multimorbider Fall: Sofern Ihr System eine Zulassung für eine oder mehrere in dem Prüffall  4520 genannten Indikation bzw. Indikationen verfügt, müssen die entsprechenden Daten ebenfalls  dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als eine Archivdatei  verschlüsselt (*.zip.XKM) mit der entsprechenden Begleitdatei direkt in dem Hauptverzeichnis des zip-Archives abgelegt werden.
 
-Seite 7 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 7 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 ---
 
@@ -270,31 +237,70 @@ Die SystemID ergibt sich aus den letzten drei Stellen der Prüfnummer.
 
 Das zip-Archiv kann je nach Komponentenzulassung (COPD) unterschiedliche Strukturen aufweisen. Im  Folgenden wird beispielhaft die Verzeichnisstruktur ohne zusätzliche Zulassungen (die alleinige Umsetzung  von HI) dargestellt.
 
-Dokumentation       Dateiordner
+Name
 
-Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
-
-391234511_20250631101010_1_HI_103.zip.XKM XKM-Datei
-
-Herzinsuffizienz
+Zert_106_SystemID.zip
 
 Dokumentation
 
-Dateiordner
+391234511_20261031101010_1_ HI_104.idx
 
-Dateiordner
+391234511_20261031101010_1_ HI_104.zip.XKM
+
+856215715_20261031101010_1_ HI_104.idx  856215715_20261031101010_1_ HI_104.zip.XKM
+
+Abbildung 1: Exemplarische Verzeichnisstruktur für die Zertifizierung
+
+Name
+
+391234511_20261031101010_1_HI_104.zip.XKM
+
+Herzinsuffizienz
+
+Dokumentation 391234511_4511_20261015.EEHI
+
+391234511_4511_20261015.EVHI
+
+391234511_4512_20261015.EEHI
+
+391234511_4512_20261015.EVHI
 
 Abbildung 2: Exemplarische Struktur der **Archivdatei** mit den Prüfunterlagen
 
-________________
-
-1 Nummer des Prüffalls
-
-2 Laufende Nr.
+________________  1 Nummer des Prüffalls 2 Laufende Nr.
 
 3 Gängiges Bild- bzw. Videoformat
 
-Seite 8 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 8 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
+
+Typ
+
+ZIP-komprimierter Ordner
+
+Dateiordner
+
+IDX-Datei
+
+XKM-Datei
+
+IDX-Datei          XKM-Datei
+
+Typ
+
+XKM-Datei
+
+Dateiordner
+
+Dateiordner
+
+EEHI-Datei
+
+EVHI-Datei
+
+EEHI-Datei
+
+EVHI-Datei
+
 
 ---
 
@@ -304,19 +310,61 @@ Es sind alle geforderten Prüffälle zu bearbeiten und alle dazugehörigen Unter
 
 Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22, „service_tmr“) eingesetzt  werden, welches bei der Dokumentation angegeben ist. Das gleiche Datum sollte auch als Kopfdatum (Feld  9, „origination_dttm“) benutzt werden.
 
-### 1.6.1 Prüfstammdaten
+### 1.6.1 Schnittstellenversionen
 
-Für die Zertifizierung müssen die für die Prüfung speziell entwickelten  werden. Zur eindeutigen Unterscheidung der Daten für den Echtbetrieb wird die Dateinamenserweiterung  bzw. der Dateiname mit „PRF” gekennzeichnet.
+- Indikation **Herzinsuffizienz:**
 
-### 1.6.2 Versichertendaten
+Ab dem **01.106.202** muss die Schnittstellenversion
 
-Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall nötigen Angaben zu den  Daten des Versicherten und werden als XML-Dateien zur Verfügung gestellt. Die Archivdatei  (VSD_5.2.0_Testfaelle_Vn.n.zip) enthält für jeden Prüffall in einem jeweils separaten Verzeichnis die  folgenden XML-Dateien mit Versichertenstammdaten
+- Indikation **COPD:**
+
+Ab dem **01.10.2026** muss die Schnittstellenversion
+
+### 1.6.2 Datumseingaben
+
+- **Gültigkeitsdatum:** Das „letzte Datum“, **ab** dem alle in diesem Prüfpaket verwendeten Schnittstellen  (siehe oben Kapitel 1.6.1) gelten bzw. zu verwenden sind (hier wäre es der
+- **Erstdokumentationsdatum**: Das Datum der Erstellung der Erstdokumentation ist jeweils der 15. des  Monats, der sechs Monate vor dem aktuellen Monat liegt.  Zum Beispiel: **Aktuelle Monat** ist **April 2025** **==>** **Erstdokumentationsdatum** **Ausnahme**
+- Wenn das Gültigkeitsdatum nach dem Erstdokumentationsdatum liegen würde, dann ist das  Erstdokumentationsdatum (**auch in der Zukunft**
+- **Folgedokumentationsdatum:** Das Datum der Erstellung der Folgedokumentation ist der 15. des Monats  sechs Monate nach dem Erstdokumentationsdatum.
+- **Einlesedatum:** Als Einlesedatum der Versichertenkarte soll das Behandlungsdatum (Feld 22,  „service_tmr“) eingesetzt werden, welches bei der Dokumentation der Prüffälle angegeben ist. Das  gleiche Datum sollte auch als Kopfdatum (Feld 9, „origination_dttm“) benutzt werden.
+- **Bei Nachlieferungen bzw. Korrekturlieferungen bleiben die Datumseingaben unverändert (so wie bei**  **Erstlieferung).**
+
+### 1.6.3 Prüfstammdaten
+
+Im Rahmen der Prüfung sind die regulären Stammdateien
+
+### 1.6.4 Versichertendaten
+
+Die Versichertendaten der Testpatienten enthalten alle für den jeweiligen Prüffall erforderlichen Angaben  und werden als XML-Dateien in der Archivdatei „VSD_Testfaelle_DMP_Vn.n.zip
+
+Dateien sind folgendermaßen aufgebaut:
 
 - EF.VD = allgemeine Versicherungsdaten
 - EF.PD = persönliche Versichertendaten
 - EF.GVD = geschützte Versichertendaten
 
-### 1.6.3 Praxisdaten/ Arztstempel
+Seite 9 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
+
+**1.04** verwendet werden.
+
+**4.07** verwendet werden.
+
+- **01.10.2026**
+- ist der **15.10.2024**
+- ) der 15. des jeweiligen Gültigkeitsmonats.
+
+```
+-
+```
+
+zu verwenden.
+
+“ bereitgestellt. Die XML-
+
+
+---
+
+### 1.6.5 Praxisdaten/ Arztstempel
 
 Folgende Angaben sind für die Zertifizierung zu verwenden:
 
@@ -332,18 +380,9 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Telefon** | 06151 / 1111111 |
 | **Telefax** | 06151 / 2222222 |
 
-### 1.6.4 Krankenhausdaten
+### 1.6.6 Krankenhausdaten
 
-Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind
-
-Seite 9 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
-
-Prüfstammdateien verwendet
-
-
----
-
-demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
+Für den Fall, dass ein Krankenhaus-IK im Prüffall angegeben ist, wird in der Begleitdatei als Absender bzw.  dokumentierende Einrichtung die Adresse des Krankenhauses angegeben. Für die Angabe des  dokumentierenden Arztes, der auch hier genannt werden muss, ist der oben genannte Arztname zu  verwenden. Herr Topp-Glücklich ist also für die „Krankenhausfälle“ Angestellter des Krankenhauses und  betreut den Patienten im DMP. Es soll hier seine Telefonnummer angegeben werden. Die  Vertragsarztnummer spielt hierfür keine Rolle. Im Rahmen der Bearbeitung des Prüfpaketes sind  demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sind auch zwei Datenpakete  und zwei Begleitdateien einzureichen.
 
 | BEZEICHNUNG | INHALT |
 |---|---|
@@ -354,18 +393,25 @@ demzufolge zwei Absender (Krankenhaus und Arztpraxis) zu simulieren, d.h. es sin
 | **Postleitzahl und Ort** | 10437 Berlin |
 | **Telefonnummer** | 06151/3333333 |
 
-### 1.6.5 Prüfnummer
+### 1.6.7 Prüfnummer
 
 Folgende Default Prüfnummern sind bei der Zertifizierung zu verwenden:
 
 - HI = X/106/2202/36/000
 - COPD = X/105/2202/36/000
 
-### 1.6.6 Stammdatei der Datenannahmestellen (SDDA)
+### 1.6.8 Stammdatei der Datenannahmestellen (SDDA)
 
-Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen, da kein  Vertrag für den KV-Bereich Hessen existiert), kann ein beliebiger Empfänger gewählt werden. Für die  Bearbeitung des Krankenhausfalls kann ein beliebiger Empfänger gewählt werden.
+Der Empfänger der elektronischen Dokumentationen muss, soweit möglich, automatisiert mit Hilfe der  Daten der SDDA ermittelt werden. Ist dies nicht möglich (nötige Angaben in der SDDA fehlen, da kein
 
-### 1.6.7 Auflistung der Prüffälle
+Seite 10 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
+
+
+---
+
+Vertrag für den KV-Bereich Hessen existiert), kann ein beliebiger Empfänger gewählt werden. Für die  Bearbeitung des Krankenhausfalls kann ein beliebiger Empfänger gewählt werden.
+
+### 1.6.9 Auflistung der Prüffälle
 
 Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
@@ -373,12 +419,12 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 |---|---|---|
 | **4511** | Viktor Müller | XML_09 |
 | **4512** | Monika Kleinjung | XML_08 |
-| **4518** | Brigitte Althaus | XML_05 |
 | **4540** | Lija Malta | XML_36 |
+| **Ersatzverfahren** | | |
 | **4520** | Kai von und zu Oldenburg | Ersatzverfahren (s. Anhang 4.1) |
 | **TDV4518** | Hera Insuffizienz | Ersatzverfahren (s. Anhang 4.2) |
 
-Seite 10 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 11 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 
 ---
@@ -387,7 +433,7 @@ Seite 10 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Ju
 
 ## 2.1 PRÜFFÄLLE DOKUMENTATIONEN
 
-**2.1.1** **Prüffall 4511**
+**2.1.1**
 
 |  |  |
 |---|---|
@@ -397,11 +443,13 @@ Seite 10 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Ju
 | **Prüfunterlagen** | 1. HI-Dokumentationsunterlagen |
 | **Hinweis** |  |
 
+### Prüffall 4511
+
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.** **Versichertendaten:**
 
-Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern
+Die Versichertendaten von **Viktor Müller**
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
@@ -411,7 +459,7 @@ Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern
 | DMP-Fallnummer | 4511 | 4511 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 07.01.2025 | 10.06.2025 |
+| Datum | 07.01.2025 15.mm.jjjj | 10.06.2025  15.mm.jjjj |
 | Einschreibung wegen | Herzinsuffizienz | Herzinsuffizienz |
 | Geschlecht | Männlich | Männlich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -423,9 +471,11 @@ Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Tabakverzicht,  Körperliches Training |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 07.01.2025 | 10.06.2025 |
+| Datum der Erstellung | 07.01.2025 15.mm.jjjj | 10.06.2025  15.mm.jjjj |
 
-Seite 11 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 12 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
+
+(XML_09) einlesen und speichern
 
 Informationsangebote der Krankenkasse Chronische Arterielle Hypertonie, Ernährungsberatung,  Chronische Arterielle Hypertonie,
 
@@ -454,7 +504,7 @@ Informationsangebote der Krankenkasse Chronische Arterielle Hypertonie, Ernähru
 | Regelmäßiges körperliches Training | Nicht möglich | Ja |
 | Führen eines Gewichtsprotokolls | Ja | Nicht erforderlich |
 
-Seite 12 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 13 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen Titrationsphase
 
@@ -500,7 +550,7 @@ Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei aktueller Dokument
 | DMP-Fallnummer | 4512 | 4512 |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  | Ja |
-| Datum | 07.01.2025 | 10.06.2025 |
+| Datum | 07.01.2025 15.mm.jjjj | 10.06.2025  15.mm.jjjj |
 | Einschreibung wegen | Chronische | Chronische |
 | Geschlecht | Weiblich | Weiblich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -508,15 +558,15 @@ Monaten Herzinsuffizienz, seit der letzten Dokumentation (bei aktueller Dokument
 | Körpergewicht | 050 kg | 050 kg |
 | Blutdruck | 100 / 50 mmHg | 100 / 50 mmHg |
 | Raucher | Ja | Nein |
-| Begleiterkrankungen | Erkrankungen | COPD |
+| Begleiterkrankungen | Keine der genannten | COPD |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 07.01.2025 | 10.06.2025 |
+| Datum der Erstellung | 07.01.2025 15.mm.jjjj | 10.06.2025  15.mm.jjjj |
 
-Seite 13 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 14 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-Informationsangebote der Krankenkasse Herzinsuffizienz Keine der genannten Herzinsuffizienz Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und Anlegen einer Erst- und einer Verlaufsdokumentation Monaten speichern.
+Informationsangebote der Krankenkasse Herzinsuffizienz Erkrankungen Herzinsuffizienz Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten: Die Versichertendaten von Monika Kleinjung Anlegen einer Erst- und einer Verlaufsdokumentation Monaten  (XML_08) einlesen und speichern
 
 ---
 
@@ -544,9 +594,9 @@ Informationsangebote der Krankenkasse Herzinsuffizienz Keine der genannten Herzi
 | Regelmäßiges körperliches Training | Ja |  |
 | Führen eines Gewichtsprotokolls | Ja | Nicht erforderlich |
 
-Seite 14 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 15 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-Herzinsuffizienz, seit der letzten Dokumentation (bei aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung wahrgenommen tolerierte Dosis erreicht
+Herzinsuffizienz, seit der letzten Dokumentation (bei aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen tolerierte Dosis erreicht
 
 ---
 
@@ -564,7 +614,7 @@ Herzinsuffizienz, seit der letzten Dokumentation (bei aktueller Dokumentation) H
 
 - **1.** **Versichertendaten:**
 
-Die Versichertendaten von Kai von und zu Oldenburg (
+Die Versichertendaten von **Kai von und zu Oldenburg**
 
 - **2.** **Anlegen einer Erst- und einer Verlaufsdokumentation**
 
@@ -574,7 +624,7 @@ Die Versichertendaten von Kai von und zu Oldenburg (
 | DMP-Fallnummer | 4520 | 4520 |
 | Krankenhaus-IK | 856215715 | 856215715 |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 07.01.2025 | 10.06.2025 |
+| Datum | 07.01.2025 15.mm.jjjj | 10.06.2025  15.mm.jjjj |
 | Einschreibung wegen | Chronische | Chronische |
 | Geschlecht | Männlich | Männlich |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -589,7 +639,7 @@ Die Versichertendaten von Kai von und zu Oldenburg (
 |  |  |  |
 |  |  |  |
 
-Seite 15 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 16 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 Anhang 4.1) sind im Ersatzverfahren zu erfassen.
 
@@ -605,10 +655,10 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 |  |  | Häufigkeit von Exazerbationen seit der |
 |  | COPD |  |
 | 1 |  | HI |
-|  |  |  |
+|  | HI |  |
 |  |  |  |
 | Kurz wirksame Beta-2-Sympathomimetika | Dauermedikation |  |
-| HI | | |
+| Evidenzbasierte Zieldosis Betablocker | | |
 | COPD | Lang wirksame Anticholinergika | Keine, Kontraindikation |
 |  |  | Inhalationstechnik überprüft |
 |  | COPD |  |
@@ -618,12 +668,12 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung |  |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| Datum der Erstellung | 07.01.2025 | 10.06.2025 |
+| Datum der Erstellung | 07.01.2025 15.mm.jjjj | 10.06.2025  15.mm.jjjj |
 
 | INDIKATIONSPEZIFISCHE DATEN | | | |
 |---|---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** | |
-| COPD | Aktueller FEV1-Wert (alle 6 bis 12 | 060,0 Prozent des Soll | 092,0 Prozent des Soll- |
+| COPD | Aktueller FEV1-Wert (alle 6 bis 12 | 060,0 Prozent des Soll- | 092,0 Prozent des Soll- |
 | COPD | Klinische Einschätzung des | Nein | Nein |
 | HI | Serum-Elektrolyte und eGFR in den | Ja | Nein |
 | HI | Symptomatik | NYHA IV | NYHA III |
@@ -644,7 +694,7 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | Theophyllin, Andere | | | |
 |  |  |  | Vom Patienten gewünschte |
 |  |  | Dokumentationsintervall |  |
-|  | Datum der Erstellung |  | 07.01.2025 |
+|  | Datum der Erstellung |  |  |
 |  |  |  |  |
 | Inhalative | | | |
 |  |  |  |  |
@@ -662,9 +712,9 @@ Einschreibung entsprechenden Daten ebenfalls dokumentiert werden. Sollte das Sys
 | Keine, Kontraindikation |  |  | COPD |
 | Nein |  |  | COPD |
 
-Seite 16 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 17 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Relevante Ereignisse Medikamente Aktueller FEV1-Wert (alle 6 bis 12 Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Sonstige diagnosespezifische Medikation ACE-Hemmer Evidenzbasierte Zieldosis ACE-Hemmer oder ARB Betablocker Evidenzbasierte Zieldosis Betablocker Erstdokumentation 060,0 Prozent des Soll Wertes NYHA IV Theophyllin, Andere Nicht erreicht,  Max. tolerierte Dosis erreicht Verlaufsdokumentation 092,0 Prozent des Soll- Wertes NYHA III 8 Glukokortikosteroide ARB Erreicht
+Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Relevante Ereignisse Medikamente Aktueller FEV1-Wert (alle 6 bis 12 Monate) Klinische Einschätzung des Osteoporoserisikos durchgeführt Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik letzten Dokumentation Stationäre notfallmäßige Behandlung wegen COPD seit der letzten Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten und/oder Anticholinergika Lang wirksame Beta-2-Sympathomimetika Sonstige diagnosespezifische Medikation ACE-Hemmer Evidenzbasierte Zieldosis ACE-Hemmer oder ARB Erstdokumentation 060,0 Prozent des Soll- Wertes NYHA IV Theophyllin, Andere Nicht erreicht,  Max. tolerierte Dosis erreicht Verlaufsdokumentation 092,0 Prozent des Soll- Wertes NYHA III 8 Glukokortikosteroide ARB Erreicht
 
 ---
 
@@ -710,11 +760,11 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und 
 | HI | Regelmäßiges körperliches Training |  | Nein |
 | HI | Führen eines Gewichtsprotokolls | Ja | Nicht erforderlich |
 
-Seite 17 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 /
+Seite 18 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 /
 
-1. Juli 2026
+14. August 2026
 
-(MRA) Dokumentation) ein DMP bereits wahrgenommen  empfohlen (bei aktueller Dokumentation) einer Herzinsuffizienz-spezifischen veranlasst ausgesprochen Tabakentwöhnungsprogramm ausgesprochen seit der letzten Empfehlung teilgenommen ausgesprochen erreicht Dokumentation keine 
+(MRA) Dokumentation) ein DMP bereits wahrgenommen  empfohlen (bei aktueller Dokumentation) einer Herzinsuffizienz-spezifischen Schulung teilgenommen veranlasst ausgesprochen Tabakentwöhnungsprogramm ausgesprochen seit der letzten Empfehlung teilgenommen ausgesprochen erreicht Dokumentation keine 
 
 
 ---
@@ -745,7 +795,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | DMP-Fallnummer | 4514 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 07.01.2025 |  |
+| Datum | 07.01.2025 15.mm.jjjj |  |
 | Einschreibung wegen | Chronische |  |
 | Geschlecht | Je nach Auswahl des |  |
 | **Allgemeine Anamnese- und Befunddaten** | | |
@@ -755,7 +805,7 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Raucher |  | Nr. 1 |
 | Begleiterkrankungen |  | Nr. 2 |
 
-Seite 18 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 19 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktionen in der Aufzeichnung. Dieses kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Herzinsuffizienz Patienten
 
@@ -765,7 +815,7 @@ Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktion
 |---|---|---|
 | Vom Patienten gewünschte Informationsangebote der |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung | 07.01.2025 |  |
+| Datum der Erstellung | 07.01.2025 15.mm.jjjj |  |
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -790,14 +840,12 @@ Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert. Aktion
 | Regelmäßiges körperliches Training |  | Nr. 9 |
 | Führen eines Gewichtsprotokolls | Ja, Nicht erforderlich | Nr. 10 |
 
-- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation** **abgeschlossen werden kann.**
-- **4.** **Anlegen einer Verlaufsdokumentation am 10.06.2025**
+- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die**  **abgeschlossen werden kann.**
+- **4.** **Anlegen einer Verlaufsdokumentation am 10.06.2025 15.mm.jjjj**
 
-Seite 19 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 20 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-```
--
-```
+- **Erstdokumentation**
 
 Krankenkasse Herzinsuffizienz, seit der letzten Dokumentation aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen
 
@@ -826,7 +874,7 @@ Krankenkasse Herzinsuffizienz, seit der letzten Dokumentation aktueller Dokument
 | Regelmäßiges körperliches Training | Nicht möglich |  |
 | Führen eines Gewichtsprotokolls | Nein |  |
 
-Seite 20 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 21 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 Herzinsuffizienz, seit der letzten Dokumentation aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen
 
@@ -839,7 +887,7 @@ Herzinsuffizienz, seit der letzten Dokumentation aktueller Dokumentation) Herzin
 | **Prüffall-ID** | 4515 |
 | **Testziel** | Kontrolle einer Erstdokumentation mit fehlerhafter Einschreibung |
 | **Voraussetzung** | Software ist in der Lage, sowohl HI als auch KHK zu dokumentieren |
-| **Prüfunterlagen** | Screenshots / Videodateien und ggf. Erläuterung, wie das Softwaresystem den |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben nach einer möglichen  Hinweissteuerung und wie das Softwaresystem die Eingabefehler verhindert.     Screenshots / Videodateien und ggf. Erläuterung, wie das Softwaresystem den  Eingabefehler verhindert. |
 | **Hinweis** | Nur umzusetzen, wenn Dokumentation von HI und KHK möglich ist |
 
 - **1.** **Versichertendaten:**
@@ -854,17 +902,17 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | DMP-Fallnummer | 4515 |  |
 | Krankenhaus-IK |  |  |
 | Dokumentation in Vertretung erstellt |  |  |
-| Datum | 07.01.2025 |  |
+| Datum | 07.01.2025 15.mm.jjjj |  |
 | Einschreibung wegen | Chronische | Nr. 17 |
 | Geschlecht | Je nach Auswahl des |  |
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote der |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
-| Datum der Erstellung | 07.01.2025 |  |
+| Datum der Erstellung | 07.01.2025 15.mm.jjjj |  |
 
-Seite 21 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 22 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-Eingabefehler verhindert Krankenkasse Herzinsuffizienz, KHK
+Krankenkasse Herzinsuffizienz, KHK
 
 ---
 
@@ -893,7 +941,7 @@ Eingabefehler verhindert Krankenkasse Herzinsuffizienz, KHK
 \| **Szenario 4** |
 \| Zeigen Sie, dass das System dem Anwender bei der Auswahl des Parameters „ KBV_ITA_VGEX_Anforderungskatalog_eDMP). |
 
-Seite 22 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 23 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP einer möglichen Hinweissteuerung.  sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1-48, Akzeptanzkriterium 1 anzeigen zu lassen (siehe ACE-Hemmer oder ARB “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1-48, Akzeptanzkriterium 2 anzeigen zu lassen (siehe Betablocker “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1-48, Akzeptanzkriterium 3 anzeigen zu lassen (siehe MRA “ ermöglicht, sich die entsprechende Ausfüllanleitung gemäß Anforderung KP1-48, Akzeptanzkriterium 4 anzeigen zu lassen (siehe Symptomatik “ ermöglicht, Evidenzbasierte Zieldosis Evidenzbasierte Zieldosis Evidenzbasierte Zieldosis
 
@@ -922,9 +970,9 @@ Die Versichertendaten von **Lija Malta (XML_36)** einlesen und speichern.
 | **Administrative Daten** |  |
 | DMP | Herzinsuffizienz |
 | DMP-Fallnummer | 1010 |
-| Datum | 05.04.2023 |
+| Datum | 05.04.2023  15.10.2026 |
 
-Seite 23 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 24 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungserklärung) umsetzt, ist ein Barcode aufzudrucken. 
 
@@ -933,9 +981,9 @@ Einwilligungserklärung  indikationsübergreifenden Teilnahme- und Einwilligungs
 
 # 3 TESTDATENVALIDIERUNG
 
-Alle beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können auch in der  Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der multimorbide  Fall „Prüffall 4520“.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Eine Ausnahme bildet der  multimorbide Fall „Prüffall 4520“.
 
-Zusätzlich kann optional auch der Prüffall TDV4518 in der Testdatenvalidierung genutzt werden. Dieser  validiert gegen die neue Schnittstellenversion 1.04 (gültig ab 01.10.2026).
+Zusätzlich kann optional auch das Beispiel TDV4518 in der Testdatenvalidierung genutzt werden. Dieses  validiert gegen die Schnittstellenversion 1.04 (gültig ab 01.10.2026).
 
 Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der hochgeladenen Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Dokumentation“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann das zip-Archiv mit den Prüfunterlagen  hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse gesendet.
 
@@ -943,15 +991,23 @@ Abbildung 3: Testdatenvalidierung
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs. Beachten Sie, dass der Dateinamen des  Archivs mit „**Test**_106“ beginnen muss, sonst schlägt die Validierung fehl.
 
+Name
+
+**Test**_106_SystemID.zip
+
 Dokumentation
 
-391234511_20250406101010_1_ HI_103.idx
+391234511_20261015101010_1_ HI_104.idx
 
-391234511_20250406101010_1_ HI_103.idx.XKM
+391234511_20261015101010_1_ HI_104.zip.XKM
 
-Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne Prüffall TDV4518
+Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung ohne TDV4518
 
-Seite 24 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 25 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
+
+Typ
+
+ZIP-komprimierter Ordner
 
 Dateiordner
 
@@ -962,15 +1018,15 @@ XKM-Datei
 
 ---
 
-**3.1.1** **Prüffall TDV4518**
+**3.1** **BEISPIELDATEN ZUR TESTDATENVALIDIERUNG**
 
 |  |  |
 |---|---|
 | **Prüffall-ID** | TDV4518 |
-| **Testziel** | Anlage einer Erst- und Verlaufsdokumentation mit der neuen Schnittstellenversion**1.04 (** |
+| **Testziel** | Anlage einer Erst- und Verlaufsdokumentation mit der Schnittstellenversion |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | HI Dokumentationsunterlagen |
-| **Hinweis** | Dieser Prüffall ist  nicht im Zertifizierungsportal hochgeladen werden. |
+| **Hinweis** | Dieses Beispiel ist **nicht** |
 
 Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs. Beachten Sie, dass der Dateinamen des  Archivs mit „
 
@@ -988,9 +1044,9 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs. Beachten Si
 | Körpergewicht | 126 kg | 120 kg |
 | Blutdruck | 300 / 180 mmHg | 250 / 90 mmHg |
 | Raucher | Ja | Nein |
-|  | | |
-|  |  |  |
 | **Prüffall-ID** | | |
+|  |  |  |
+| **Testziel** | | |
 |  |  |  |
 |  |  |  |
 |  |  | HI Dokumentationsunterlagen |
@@ -999,30 +1055,30 @@ Name
 
 **Test**
 
-Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung Prüffall TDV4518
+Abbildung 5: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 - **1.**
 - **3.**
 
-Seite 25 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 26 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterlagen können daher Test _106“ beginnen muss, sonst schlägt die Validierung fehl. Typ _106_SystemID.zip  ZIP-komprimierter Ordner Dateiordner          391234511_20250406101010_1_ HI_104.idx     IDX-Datei 391234511_20250406101010_1_ HI_104.idx.XKM     XKM-Datei Versichertendaten Die Versichertendaten von Hera Insuffizienz Anhang 4.2 ) sind im Ersatzverfahren zu erfassen. Anlegen einer Erst- und einer Verlaufsdokumentation Herzinsuffizienz Herzinsuffizienz 
+1.04 gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Unterlagen können daher  im Zertifizierungsportal hochgeladen werden. _106“ beginnen muss, sonst schlägt die Validierung fehl. Typ _106_SystemID.zip  ZIP-komprimierter Ordner Dateiordner          391234511_20261015101010_1_ HI_104.idx     IDX-Datei 391234511_20261015101010_1_ HI_104.zip.XKM   XKM-Datei Versichertendaten Die Versichertendaten von Hera Insuffizienz Anhang 4.2 ) sind im Ersatzverfahren zu erfassen. Anlegen einer Erst- und einer Verlaufsdokumentation Herzinsuffizienz Herzinsuffizienz 
 
 
 ---
 
-|  | | |
+| Verlaufsdokumentation | | |
 |---|---|---|
-|  |  |  |
+| **Relevante Ereignisse** | **Medikamente** | **Schulung** |
 | Evidenzbasierte Zieldosis ACE-Hemmer oder ARB | Nicht erreicht, |  |
 | Betablocker | Ja | Nein, Kontraindikation |
 | Evidenzbasierte Zieldosis Betablocker | Nicht erreicht |  |
 | Mineralokortikoid-Rezeptor-Antagonist (MRA) | Kontraindikation  Ja | Evidenzbasierte Zieldosis MRA |
 |  | SGLT2 – Inhibitor |  |
 |  |  |  |
-|  | | |
+| **Behandlungsplanung** | | |
 |  | Bereits vor Einschreibung in das DMP an einer |  |
 |  | Empfohlene Herzinsuffizienz-spezifische Schulung |  |
 |  |  |  |
@@ -1034,9 +1090,9 @@ gültig ab dem  01.10.2026) nur  für die Testdatenvalidierung, die Prüfunterla
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung | 15.10.2026 | 15.04.2027 |
 
-Seite 26 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 27 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
-Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik Relevante Ereignisse Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation Medikamente Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen COPD Ernährungsberatung, Erstdokumentation NYHA III Titrationsphase Nicht möglich COPD Verlaufsdokumentation NYHA II Max. tolerierte Dosis War aktuell nicht möglich | INDIKATIONSPEZIFISCHE DATEN | | |
+Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und Befunddaten Serum-Elektrolyte und eGFR in den letzten sechs Monaten Symptomatik Ungeplante stationäre Behandlung, wegen Herzinsuffizienz, seit der letzten Dokumentation COPD Ernährungsberatung, Erstdokumentation NYHA III Titrationsphase Herzinsuffizienz-spezifische Schulung empfohlen (bei aktueller Dokumentation) Herzinsuffizienz-spezifischen Schulung teilgenommen wahrgenommen Nicht möglich COPD NYHA II Max. tolerierte Dosis War aktuell nicht möglich | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
 | **Anamnese- und Befunddaten** | **Erstdokumentation** | **Verlaufsdokumentation** |
 | Serum-Elektrolyte und eGFR in den letzten sechs | Ja | Nein |
@@ -1087,9 +1143,9 @@ Informationsangebote der Krankenkasse INDIKATIONSPEZIFISCHE DATEN Anamnese- und 
 | **INDIKATIONSPEZIFISCHE DATEN** | | |
 | Führen eines Gewichtsprotokolls | Ja | Nicht erforderlich |
 
-Seite 27 von 31 / KBV / Pruefpaket eDMP-
+Seite 28 von 32 / KBV / Pruefpaket eDMP-
 
-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Herzinsuffizienz / Version: 1.07 / 14. August 2026
 
 ---
 
@@ -1120,13 +1176,13 @@ Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
 | 4131 | BesonderePersonengruppe | 00 |
 | 4132 | DMP_Kennzeichnung | 04 |
 
-Seite 28 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 /
+Seite 29 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.07 /
 
-1. Juli 2026
+14. August 2026
 
 ---
 
-**4.2** **PRÜFFALL TDV4518 TESTDATENVALIDIERUNG**
+**4.2** **TDV4518 - TESTDATENVALIDIERUNG**
 
 | PERSONALIEN | | |
 |---|---|---|
@@ -1151,9 +1207,12 @@ Seite 28 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 /
 | **4131** | **BesonderePersonengruppe** | 00 |
 | **4132** | **DMP_Kennzeichnung** | 12 |
 
-Seite 29 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 30 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz /
 
-und Georg-von-Groscurth-Plaetzchen
+Version: 1.07 / 14. August 2026
+
+und Georg-von-Groscurth-Plaetzchen 
+
 
 ---
 
@@ -1175,23 +1234,21 @@ und Georg-von-Groscurth-Plaetzchen
 | Austausch_von_XML-Daten_Vn.nn.ZIP4 | Austausch von XML Daten in der Vertragsärztlichen |
 | KBV_ITA_RLEX_Zert | Zertifizierungsrichtlinie der KBV |
 | KBV_ITA_FMEX_AAZ_eDMP_HI | Antrag auf Zertifizierung HI |
-| Prüfstammdateien | KBV-Stammdateien mit der |
+| Stammdateien | Im Rahmen der Prüfung sind die regulären KBV- |
 | KBV-Kryptomodul (XKM) und öffentlicher | KBV-Kryptomodul |
-| VSD_5.2.0_Testfaelle_Vn.n.zip5 | eGK Daten (im XML-Format), |
+| VSD_Testfaelle_DMP_Vn.n | eGK Daten (im XML-Format) |
 | KBV_ITA_VGEX_Schnittstelle_SDDA | Datensatzbeschreibung SDDA |
 | KBV_ITA_VGEX_Schnittstelle_SDKT | Datensatzbeschreibung SDKT |
 
 4 n.nn steht für die aktuelle Versionsnummer, zum Beispiel 1.50
 
-5 n.n steht für die aktuelle Versionsnummer, zum Beispiel 2.3
-
 ________________
 
-Seite 30 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz /
+Seite 31 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz /
 
-Version: 1.06 / 1. Juli 2026
+Version: 1.07 / 14. August 2026
 
-Datensatz für das strukturierte Behandlungsprogramm HI Dokumentationsdaten des strukturierten Behandlungsprogramms HI Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Versorgung Dateinamenserweiterung „PRF”, welche ausschließlich zur Zertifizierung eingesetzt werden Testschlüssel Versichtertenstammdaten (Datenannahmestellen Stammdatei) 
+Datensatz für das strukturierte Behandlungsprogramm HI Dokumentationsdaten des strukturierten Behandlungsprogramms HI Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms COPD Versorgung Stammdateien zu verwenden. Testschlüssel 1 .zip (Datenannahmestellen Stammdatei) 
 
 
 ---
@@ -1204,4 +1261,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 31 von 31 / KBV / Pruefpaket eDMP-Herzinsuffizienz / Version: 1.06 / 1. Juli 2026
+Seite 32 von 32 / KBV / Pruefpaket eDMP-Herzinsuffizienz /
+
+Version: 1.07 / 14. August 2026

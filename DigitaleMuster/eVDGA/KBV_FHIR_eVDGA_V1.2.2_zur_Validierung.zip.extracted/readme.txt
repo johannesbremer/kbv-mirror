@@ -6,6 +6,9 @@ Mit dem Entpacken der Datei nimmt das Softwarehaus die folgende Information zur 
 1. Die bereitgestellten Dateien dienen der beispielhaften Darstellung bzw. als Unterstützung zur Validierung einer eVDGA-FHIR-Instanzen.
 2. Softwarehersteller müssen unbeachtet dieser Dateien sicherstellen, dass zur Validierung der FHIR-Instanzen im Feld immer die aktuellen FHIR-Ressourcen verwendet werden.
 
+Änderungen der Version 1.2.2 vom 14.08.2026 zum Stand Version 1.2.2 vom 18.12.2025
+- Aktualisierung KBV_CS_SFHIR_KBV_DMP auf Version 1.07
+
 Änderungen der Version 1.2.0 vom 18.12.2025 zum Stand Version 1.2.2
 
 - Anpassung der Versionsnummer für die FOR-Profile auf 1.2.1
