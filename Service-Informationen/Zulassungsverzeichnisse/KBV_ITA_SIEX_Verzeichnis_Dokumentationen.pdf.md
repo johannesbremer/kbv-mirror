@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**15. AUGUST 2026**
+**22. AUGUST 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -28,7 +28,7 @@
 |  | Y/53/2601/36/031 | 31.12.2028 | Hautkrebs-Screening |  |
 |  | Y/53/2601/36/081 | 31.12.2028 | Hautkrebs-Screening |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/53/2601/36/062 31.12.2028 Hautkrebs-Screening
 
@@ -57,7 +57,7 @@ ACETOmed ACETO Softwareentwicklung GmbH Landsberger Straße 155 80687 München I
 |  | Y/56/2401/36/112 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/112 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 X/53/2501/36/921 31.12.2027 Hautkrebs-Screening
 
@@ -81,7 +81,7 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 |  | Y/56/2401/36/252 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/252 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
 
-ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Windows Linux WindowsSeite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Windows Linux WindowsSeite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 
 ---
@@ -105,7 +105,7 @@ ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: w
 |  | Y/56/2507/36/488 | 30.06.2028 | QS Hörgeräteversorgung |  |
 |  | Y/58/2507/36/488 | 30.06.2028 | QS Hörgeräteversorgung Kinder |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/53/2507/36/060 30.06.2028 Hautkrebs-Screening
 
@@ -133,7 +133,7 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 |  | Y/56/2401/36/086 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2501/36/295 | 31.12.2027 | Hautkrebs-Screening |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/52/2403/36/673 28.02.2027 QS Zervix-Zytologie
 
@@ -162,7 +162,7 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Epik
 |  | Y/53/2507/36/616 | 30.06.2028 | Hautkrebs-Screening |  |
 |  | Y/53/2507/36/701 | 30.06.2028 | Hautkrebs-Screening |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/53/2501/36/034 31.12.2027 Hautkrebs-Screening
 
@@ -187,7 +187,7 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 |  | Y/53/2501/36/136 | 31.12.2027 | Hautkrebs-Screening |  |
 |  | X/53/2501/36/377 | 31.12.2027 | Hautkrebs-Screening |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 X/53/2601/36/940 31.12.2028 Hautkrebs-Screening
 
@@ -213,7 +213,7 @@ Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Sch
 |  | Y/56/2405/38/462 | 30.06.2027 | QS Hörgeräteversorgung |  |
 |  | Y/58/2405/38/462 | 30.06.2027 | QS Hörgeräteversorgung Kinder |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/52/2407/36/065 30.06.2027 QS Zervix-Zytologie
 
@@ -239,7 +239,7 @@ David Medat Computersysteme GmbH Albrechtstraße 14 80636 München Internet: www
 |  | Y/56/2310/36/030 | 30.09.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2504/36/192 | 31.03.2028 | Hautkrebs-Screening |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 V/53/2601/36/538 31.12.2028 Hautkrebs-Screening
 
@@ -261,7 +261,7 @@ Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: w
 |  | Y/56/2401/36/015 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/53/2601/36/043 | 31.12.2028 | Hautkrebs-Screening |  |
 
-MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Mac OS Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de Pro_Medico Neutz GmbH Systemhaus Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net Windows Mac OS Windows WindowsSeite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 
 ---
@@ -285,7 +285,7 @@ MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.
 |  | Y/58/2401/36/083 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
 |  | Y/52/2407/36/475 | 30.06.2027 | QS Zervix-Zytologie |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/52/2407/36/345 30.06.2027 QS Zervix-Zytologie
 
@@ -315,7 +315,7 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 |  | Y/56/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung |  |
 |  | Y/58/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/55/2311/36/609 31.10.2026 QS Molekulargenetik
 
@@ -341,7 +341,7 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 |---|---|---|---|---|
 |  | Y/53/2504/36/498 | 31.03.2028 | Hautkrebs-Screening |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/53/2601/36/171
 
@@ -376,7 +376,7 @@ principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien T2med T2med GmbH & C
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 15. August 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 22. August 2026
 
 Y/53/2501/36/313 31.12.2027 Hautkrebs-Screening
 
