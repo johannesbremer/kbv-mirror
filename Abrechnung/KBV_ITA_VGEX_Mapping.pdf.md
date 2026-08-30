@@ -408,7 +408,7 @@ sse.country.extension:anlage 8.value[x].code sse.postalCode sse.city sse.line.ex
 | 1  code | 1, 3, 5 | → | 3108 | Versichertenart | 1..1 | 1 | n | 1, 3, 5 | Coverage.extension:WOP.value | 1..1 | 2 |
 | code  00, 01, 02, 03, 17, | → | 3116 | WOP | 0..1 | 2  a  00, 01, 02, 03, 17, 20, 38, 46, | Coverage.period | 0..1 |  |  |  |  |
 |  |  |  |  |  | Coverage.period.start | 1..1 | 0..10 | dateTime | YYYY-MM-DD | → | 4133 |
-| Versicherungsschutz Beginn 0..1 | 8 | n | YYYYMMDD | Coverage.period.end | 0..1 | 0..10 | dateTime | YYYY-MM-DD | → | 4110 | Versicherungsschutz Ende |
+| Versicherungsschutz Beginn  0..1 | 8 | n | YYYYMMDD | Coverage.period.end | 0..1 | 0..10 | dateTime | YYYY-MM-DD | → | 4110 | Versicherungsschutz Ende |
 | 0..1  8 | n | YYYYMMDD | **Kostenträger** |  |  |  |  |  |  |  | VSDMPayorOrganization |
 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1378,41 +1378,15 @@ Vorgegeben sind die Monotype-Schriftarten Courier bzw. Courier New. Bei Einsatz 
 
 Schriftart:
 
+| 101234567 | bzw. Kostenträger     Testort-Musterkasse/SVA     72 |
+|---|---|
+|  | Name,  Vorname des Versicherten   Mustermann-Müller              geb. am   Prof. Dr. Johann von  20.10.25   Musterweg 6   Musterweg 6 |
+|  | Kostenträgerkennung |
+|  | Arzt-Nr |
+
 Courier (New), NLQ
 
 Zeichendichte: 10 Zeichen/Zoll
-
-Krankenkasse bzw. Kostenträger
-
-```
-Testort-Musterkasse/SVA 72
-```
-
-geb. am
-
-```
-Mustermann-Müller
-Prof. Dr. Johann von 20.10.25
-Musterweg 6  D 12345 Musterhausen 12/20
-```
-
-Kostenträgerkennung Versicherten-Nr.
-
-Status
-
-```
-101234567 A123456789  5080201
-```
-
-Betriebsstätten-Nr. Arzt-Nr
-
-Datum
-
-```
-123456789 123456499 01.10.16
-```
-
-Abbildung 2: eGK-konforme Bedruckung des Personalienfelds
 
 ## ERLÄUTERUNGEN:
 
@@ -1426,57 +1400,62 @@ Zeile 4: Straßenname, Hausnummer
 
 Zeile 5: Ländercode, Postleitzahl, Ort, Versicherungsschutz-Ende
 
+Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rechtsgrundlage
+
+Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum
+
 Seite 26 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
+
+Krankenkasse  D 12345 Musterhausen     12/20 Versicherten-Nr. Status A123456789   5080601 I                              I Datum Betriebsstätten-Nr. 123456789 123456499  01.10.16 I I Abbildung 2: eGK-konforme Bedruckung des Personalienfelds 
+
 
 ---
 
 \| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
-\| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rechtsgrundlage  Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum | 2.3.3 |  |  |
-| Zeile 6: Kostentraegerkennung, Versicherten_ID, Versichertenart, BesonderePersonengruppe, DMP_Kennzeichnung, Kennzeichen Rechtsgrundlage  Zeile 7: Betriebsstättennummer/ASV-Teamnummer, Arztnummer, Tagesdatum | 2.3.3 |  |  |
+\| 2.3.3 |  |  |  |
+| 2.3.3 |  |  |  |
 |---|---|---|---|
 | 1 | KostentraegerName | 1-24 | ab 24 kürzen4 4 |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
 | 2 | Nachname | 1-30 | ab 30 kürzen |
-| 3 | Titel Vorname Namenszusatz Vorsatzwort | 1-21 | ab 21 kürzen |
-|  |  |  |  |
-| Name, |  | Kostenträgerkennung |  |
-| Versicherten-Nr. | Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID | **2.3.4** | 2.3.4.1 Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von dem eingelesenen  2.3.4.2**DRUCKZEILE** |
-|  | **FELD  POSITION  DRUCKVORSCHRIFT** | 1 | KostentraegerName  1-24  ab 24 kürzen4 |
+| 3 | Titel Vorname Namenszusatz Vorsatzwort  (durch Leerzeichen getrennt) | 1-21 | ab 21 kürzen |
+|  | Geburtsdatum | 23-30 | Format TT.MM.JJ |
+| Vorname des Versicherten | Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds | **ERLÄUTERUNGEN:** | Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID **2.3.4** 2.3.4.1 |
+| Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von dem eingelesenen | 2.3.4.2**DRUCKZEILE  FELD** |  | **POSITION  DRUCKVORSCHRIFT ** 1  KostentraegerName |
+| 1-24 | ab 24 kürzen | 4 |  |
 |  | WOP | 29-30 | rechtsbündig, 2-stellig |
 | 2 | Nachname | 1-30 | ab 30 kürzen |
-| 3 | Titel Vorname Namenszusatz Vorsatzwort | 1-21 | ab 21 kürzen |
-| 4 | Schriftart: | Courier (New), NLQ | Zeichendichte: |
-| 10 Zeichen/Zoll |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  | Name,    Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung  Spalte 3: Versicherten_ID **2.3.4** 2.3.4.1 |
-| Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von dem eingelesenen | 2.3.4.2 |  | **DRUCKZEILE** |
-|  | **FELD** |  | **POSITION** |
-|  | **DRUCKVORSCHRIFT** | 1 | KostentraegerName |
+| 3 | Titel Vorname Namenszusatz Vorsatzwort | (durch Leerzeichen getrennt) | 1-21 |
+| ab 21 kürzen |  | Geburtsdatum | 23-30 |
+| Format TT.MM.JJ | 4 | Schriftart: | Courier (New), NLQ |
+| Zeichendichte: | 10 Zeichen/Zoll |  |  |
+|  |  |  | Vorname des Versicherten    Kostenträgerkennung    Versicherten-Nr.    Abbildung 3: eGK-konforme Bedruckung des verkürzten Personalienfelds **ERLÄUTERUNGEN: ** Spalte 1: Nachname, Vorname  Spalte 2: Kostentraegerkennung |
+| Spalte 3: Versicherten_ID | **2.3.4** | 2.3.4.1 | Die im Folgenden dargestellten Druckvorschriften gelten unter der Annahme, dass die zu druckenden Datenobjekte unabhängig von dem eingelesenen |
+| 2.3.4.2 |  | **DRUCKZEILE** |  |
+| **FELD** |  | **POSITION** |  |
 
 |  |  |  |  |
 |---|---|---|---|
 
-|  | Name, | Kostenträgerkennung | Versicherten-Nr. |
+|  | Vorname des Versicherten | Kostenträgerkennung | Versicherten-Nr. |
 |---|---|---|---|
 
 Seite 27 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
-123456789012345678901234 123456789              123456789012  Vorname des Versicherten Mustermann-Müller, Johan 101234567 A123456789 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld ________________  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforderungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei 
+123456789012345678901234 123456789              123456789012 Name, Mustermann-Müller, Johan 101234567 A123456789 Musterbeispiel für die Bedruckung des verkürzten Personalienfeldes Ausgangsformat für Druckvorschrift Kartentyp bzw. VSD-Version bereits im Zielformat des KVDT vorliegen. Ggf. ist vor Anwendung der hier dargestellten Druckvorschriften daher zunächst ein Mapping, wie in den vorangegangenen Kapiteln erläutert, vorzunehmen. Druckpositionen im Personalienfeld  Anm.: nur für integrierte Druckfunktion bei Kartenterminals relevant, für Praxisverwaltungssoftware gelten besondere Anforderungen bzgl. der Bedruckungsnamen i. V. m. dem Kostenträgerabrechnungsbereich und der Kostenträgerstammdatei ________________ 
 
 
 ---
 
-\| Falls Hausnummer nicht vorhanden:  Länge | 5  Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt),  alternativ: | 6 |
+\| (durch Leerzeichen getrennt),  alternativ: | 6 | 1-24  Mit Wohnsitzlaendercode: | Länge |
 \| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 | DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 |---|---|---|---|
-| 1-24 | Mit Wohnsitzlaendercode: | Länge | Ohne Wohnsitzlaendercode:    Länge |
-|  | Versicherungsschutz Ende | 26-30 | Format MM/JJ |
+| Ohne Wohnsitzlaendercode: | Länge |  | Versicherungsschutz Ende  26-30  DMP_Kennzeichnung  Format MM/JJ |
 | 6 | Kostentraegerkennung | 1-9 | Wenn Länge(Kostentraegerkennung) < 9 |
 |  | Versicherten_ID | 11-22 | linksbündig, alphanumerisch |
-|  |  |  | (durch Leerzeichen getrennt) |
-|  | Geburtsdatum | 23-30 | Format TT.MM.JJ |
+|  | Versichertenart  24 |  |  |
+| BesonderePersonengruppe | 25-26 | Alphanumerisch | 6 |
 | 4 | Straßenname Hausnummer  (durch Leerzeichen getrennt), **alternativ** 5 5   (durch Leerzeichen getrennt) | 1-30 | Falls Hausnummer vorhanden:  Länge    Falls Hausnummer nicht vorhanden:  Länge |
 | 5 | Wohnsitzlaendercode Postleitzahl Ort  (durch Leerzeichen getrennt), **alternativ:** 6 6 | 1-24 | Mit Wohnsitzlaendercode:  Länge    Ohne Wohnsitzlaendercode:  Länge |
 |  | Versicherungsschutz Ende | 26-30 | Format MM/JJ |
@@ -1485,52 +1464,47 @@ Seite 27 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 
 |  | Versichertenart | 24 |  |
 |  | BesonderePersonengruppe | 25-26 | Alphanumerisch |
 | 6 | DMP_Kennzeichnung | 27-28 | Alphanumerisch |
-|  | Kennzeichen Rechtsgrundlage | 29-30 | Folgende Ausprägungen sind möglich:   ›  ›  7 7 |
-|  |  |  | (durch Leerzeichen getrennt)    Geburtsdatum  23-30  Format TT.MM.JJ  4  Straßenname Hausnummer  (durch Leerzeichen getrennt), **alternativ** 5  (durch Leerzeichen getrennt)  1-30  Falls Hausnummer vorhanden: |
-| Länge |  | Falls Hausnummer nicht vorhanden: | Länge |
-| 5 | Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), | **alternativ:** |
-| 6 |  | 1-24 | Mit Wohnsitzlaendercode: |
+|  | Kennzeichen Rechtsgrundlage | 29-30 | Folgende Ausprägungen sind möglich:   ›  ›  7 7   ›  › |
+|  |  |  | 4  Straßenname Hausnummer  (durch Leerzeichen getrennt), **alternativ** 5  (durch Leerzeichen getrennt)  1-30  Falls Hausnummer vorhanden:  Länge |
+|  | Falls Hausnummer nicht vorhanden: | Länge | 5 |
+| Wohnsitzlaendercode Postleitzahl Ort | (durch Leerzeichen getrennt), | **alternativ:** | 6 |
+|  | 1-24 | Mit Wohnsitzlaendercode: | Länge |
 
 Seite 28 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19
 
 / 13. Mai 2026
 
-: „Postfach“ Postfachnummer  Items der Postfachadresse ________________  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV-Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen „11“
+: „Postfach“ Postfachnummer  Items der Postfachadresse ________________  nur zulässig, wenn keine Straßenadresse vorhanden  nur zulässig, wenn keine Straßenadresse vorhanden  Kennzeichen für Ersatzverordnungen gemäß § 29 Abs. 9 BMV-Ä  (Straßenname) = 30 - Länge(Hausnummer) Max  (Straßenname) = 30 Max  (Ort) = 24  Länge(Wohnsitzlaendercode) Max Länge(Postleitzahl)  (Ort) = 24  Länge(Postleitzahl) Max Stringverkettung(‚10‘, Kostentraegerkennung) ASV- Kennzeichen „01“ ASV-Kennzeichen mit Ersatzverordnungskennzeichen „11“ TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“
 
 
 ---
 
-\| 1-9  linksbündig, numerisch | Lebenslange Arztnummer | 11-19  linksbündig, numerisch | Tagesdatum |
+\| Lebenslange Arztnummer  11-19 | linksbündig, numerisch | Tagesdatum  22-29 | Format TT.MM.JJ  Tabelle 13: Druckpositionen im Personalienfeld |
 \| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 | DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 |---|---|---|---|
-| 22-29 | Format TT.MM.JJ | Tabelle 13: Druckpositionen im Personalienfeld | 2.3.4.3 Kostentraegerkennung |
-| **DRUCKZEILE** |  | **FELD** |  |
-| **POSITION** |  | **DRUCKVORSCHRIFT** | 1 |
-| Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) | 2 |
-|  |  |  | › |
-|  | › |  | › |
-|  | ›  ›  › | › | 7  Betriebsstättennummer  1-9  linksbündig, numerisch |
-|  | Lebenslange Arztnummer  11-19  linksbündig, numerisch    Tagesdatum | 22-29 | Format TT.MM.JJ  Tabelle 13: Druckpositionen im Personalienfeld    2.3.4.3 |
-| **DRUCKZEILE** |  | **FELD** |  |
-| **POSITION** |  | **DRUCKVORSCHRIFT** | 1 |
-| Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) | 2 |
-| Kostentraegerkennung | 1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 | 3 |
+|  | 2.3.4.3 |  | **DRUCKZEILE **  **FELD** |
+|  | **POSITION** |  | **DRUCKVORSCHRIFT** |
+| 1 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) |
+| 2 | Kostentraegerkennung  1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 | 3 |
 | Versicherten_ID | 1-12 | linksbündig, alphanumerisch | Tabelle 14: Druckpositionen im verkürzten Personalienfeld |
+| › | ›  ›  › |  | ›  7  Betriebsstättennummer  1-9 |
+| linksbündig, numerisch | Lebenslange Arztnummer  11-19  linksbündig, numerisch | Tagesdatum | 22-29  Format TT.MM.JJ  Tabelle 13: Druckpositionen im Personalienfeld    2.3.4.3 |
+|  | **DRUCKZEILE** |  | **FELD** |
+|  | **POSITION** |  | **DRUCKVORSCHRIFT** |
+| 1 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) |
+| 2 | Kostentraegerkennung | 1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 |
+| 3 | Versicherten_ID | 1-12 | linksbündig, alphanumerisch |
+| Tabelle 14: Druckpositionen im verkürzten Personalienfeld |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-|  |  |  | ›  ›  ›  ›  ›  ›  › |
+|  |  |  | ›  ›  ›  ›  › |
 | 7 | Betriebsstättennummer | 1-9 | linksbündig, numerisch |
 |  | Lebenslange Arztnummer | 11-19 | linksbündig, numerisch |
 |  | Tagesdatum | 22-29 | Format TT.MM.JJ |
 
-Seite 29 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 /
+Seite 29 von 33 / KBV / KBV_ITA_VGEX_Mapping_KVK _KVDT / Version 1.19 / 13. Mai 2026
 
-13. Mai 2026
-
-Leerzeichen getrennt) TSS- Kennzeichen „07“ TSS-Kennzeichen mit Ersatzverordnungskennzeichen „17“ Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)
-
-| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
+Leerzeichen getrennt) Entlassmanagement- Kennzeichen „04“ Entlassmanagement-Kennzeichen mit Ersatzverordnungskennzeichen „14“ Kennzeichen tagesstationäre Behandlung „06“ nur Ersatzverordnungskennzeichen „10“ ohne Ersatzverordnungskennzeichen „00“ Stringverkettung(‚10‘, Kostentraegerkennung)| DRUCKZEILE | FELD | POSITION | DRUCKVORSCHRIFT |
 |---|---|---|---|
 | 1 | Nachname Vorname (durch Komma und | 1-n | linksbündig, ab Position n kürzen (n ist musterspezifisch) |
 | 2 | Kostentraegerkennung | 1-9 | linksbündig, wenn Länge(Kostentraegerkennung) < 9 |

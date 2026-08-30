@@ -8,7 +8,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**22. AUGUST 2026**
+**29. AUGUST 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -36,7 +36,7 @@
 |---|---|---|---|---|
 |  | Y/70/2411/36/332 | 31.10.2027 | B1-Schnittstelle |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2312/36/031 30.11.2026
 
@@ -70,7 +70,7 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 |---|---|---|---|---|
 |  | Y/70/2311/36/252 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2311/36/112 31.10.2026 B1-Schnittstelle
 
@@ -102,7 +102,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 |---|---|---|---|---|
 |  | Y/70/2311/36/488 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2311/36/280 31.10.2026
 
@@ -136,7 +136,7 @@ InterMediNet DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: ww
 |---|---|---|---|---|
 |  | Y/70/2311/36/253 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2410/36/602 30.09.2027
 
@@ -170,7 +170,7 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 |---|---|---|---|---|
 |  | Y/70/2311/36/244 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2312/36/223 30.11.2026 B1-Schnittstelle
 
@@ -204,7 +204,7 @@ medibit Examion GmbH Erich-Herion-Straße 37 70736 Fellbach Internet: www.examio
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2311/36/298 31.10.2026
 
@@ -250,7 +250,7 @@ Windows
 |---|---|---|---|---|
 |  | Y/70/2311/36/266 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2312/36/320 30.11.2026 B1-Schnittstelle
 
@@ -278,7 +278,7 @@ Softwarevariante(n): - psyx
 |---|---|---|---|---|
 |  | Y/70/2403/36/439 | 28.02.2027 | B1-Schnittstelle |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2310/36/462 30.09.2026 B1-Schnittstelle
 
@@ -302,7 +302,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 |---|---|---|---|---|
 |  | Y/70/2311/36/043 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2312/36/251 30.11.2026 B1-Schnittstelle
 
@@ -328,7 +328,7 @@ RadCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim
 |---|---|---|---|---|
 |  | Y/70/2402/36/247 | 31.01.2027 | B1-Schnittstelle |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2312/36/299 30.11.2026 B1-Schnittstelle
 
@@ -358,7 +358,7 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 |---|---|---|---|---|
 |  | Y/70/2310/36/261 | 30.09.2026 | B1-Schnittstelle |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2402/36/348 31.01.2027
 
@@ -392,7 +392,7 @@ RED Medical RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.
 |---|---|---|---|---|
 |  | Y/70/2312/36/313 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
 
 Y/70/2310/36/230 30.09.2026
 
@@ -416,4 +416,4 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Med
 |  | Y/70/2406/36/672 | 31.05.2027 | B2-Schnittstelle |  |
 |  | Y/70/2312/36/457 | 30.11.2026 | B1-Schnittstelle |  |
 
-data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OSSeite 14 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 22. August 2026
+data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OSSeite 14 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 29. August 2026
