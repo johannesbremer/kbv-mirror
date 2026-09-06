@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**29. AUGUST 2026**
+**05. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -25,7 +25,7 @@
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 2 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -34,7 +34,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -53,7 +53,7 @@ Seite 3 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedru
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 20: Wiedereingliederung in das Erwerbsleben Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 61: Verordnung von medizinischer Rehabilitation
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -68,7 +68,7 @@ Internet: www.apris.de
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Seite 5 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Seite 5 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -89,7 +89,7 @@ iOS/Android Linux 31.12.2028 Mac OS Windows
 
 Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -106,7 +106,7 @@ Seite 6 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedru
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 7 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 7 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -115,7 +115,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -134,7 +134,7 @@ Seite 8 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedru
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 12: Verordnung häuslicher Krankenpflege
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -153,7 +153,7 @@ Seite 9 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedru
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -170,7 +170,7 @@ Internet: www.bs-sd.de
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -199,7 +199,7 @@ Mac OS Y/9/2504/36/525 31.03.2028 Windows
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -218,7 +218,7 @@ Seite 12 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -227,7 +227,7 @@ Seite 13 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -246,7 +246,7 @@ Seite 14 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -263,7 +263,7 @@ Seite 15 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Seite 16 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Seite 16 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -272,7 +272,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -289,7 +289,7 @@ Internet: www.elis-a.de
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -318,7 +318,7 @@ Y/9/2410/36/629
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 19 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 19 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -327,7 +327,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -344,7 +344,7 @@ Seite 20 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 21 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 21 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -353,7 +353,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -370,7 +370,7 @@ Seite 22 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie Seite 23 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie Seite 23 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -379,7 +379,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -394,7 +394,7 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 25 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 25 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 | Prüfnummer | unterstützte |
 |---|---|
@@ -409,7 +409,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 26 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 26 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -426,7 +426,7 @@ Softwarevariante(n): - CGM MEDISTAR
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 27 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 27 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -444,7 +444,7 @@ Y/9/2607/24/280
 
 Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -461,7 +461,7 @@ Seite 28 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 29 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 29 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -470,7 +470,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V
 
-Seite 30 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 30 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -489,7 +489,7 @@ Seite 30 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 21: Krankengeld bei Erkrankung eines Kindes
 
-Seite 31 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 31 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -506,7 +506,7 @@ Seite 31 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 32 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 32 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -515,7 +515,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 33 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 33 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -534,7 +534,7 @@ Seite 33 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 34 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 34 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -551,7 +551,7 @@ Seite 34 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 35 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 35 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -560,7 +560,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 36 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 36 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -577,7 +577,7 @@ Seite 36 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 37 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 37 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -606,7 +606,7 @@ Dedalus Labor GmbH Eupenerstraße 70 50933 Köln Internet: www.osm-gruppe.de31.1
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 1: Antrag des Versicherten auf Psychotherapie Seite 38 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 1: Antrag des Versicherten auf Psychotherapie Seite 38 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -615,7 +615,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 39 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 39 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -630,7 +630,7 @@ Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 40 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 40 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -651,7 +651,7 @@ Linux Mac OS 31.12.2026 Sonstige Windows
 
 Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 41 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 41 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -671,7 +671,7 @@ Seite 41 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 61: Verordnung von medizinischer Rehabilitation Muster 65: Ärztliches Attest Kind
 
-Seite 42 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 42 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -688,7 +688,7 @@ Seite 42 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 1: Antrag des Versicherten auf Psychotherapie Seite 43 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 1: Antrag des Versicherten auf Psychotherapie Seite 43 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -697,7 +697,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 44 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 44 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -714,7 +714,7 @@ Seite 44 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 45 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 45 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -723,7 +723,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten KVNo 05: Ärztlicher Kurzbericht
 
-Seite 46 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 46 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -742,7 +742,7 @@ Seite 46 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 06: Überweisungsschein PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
-Seite 47 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 47 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -759,7 +759,7 @@ Seite 47 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 48 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 48 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -768,7 +768,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 49 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 49 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -785,7 +785,7 @@ Seite 49 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie Seite 50 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie Seite 50 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -794,7 +794,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Kran
 
 PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 51 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 51 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -813,7 +813,7 @@ Seite 51 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 52 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 52 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -832,7 +832,7 @@ Seite 52 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 19: Notfall-/ Vertretungsschein Muster 21: Krankengeld bei Erkrankung eines Kindes
 
-Seite 53 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 53 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -851,7 +851,7 @@ Seite 53 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 61: Verordnung von medizinischer Rehabilitation PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 54 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 54 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -870,7 +870,7 @@ Seite 54 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V
 
-Seite 55 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 55 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -890,7 +890,7 @@ Seite 55 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 05: Abrechnungsschein ambulante Behandlung Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
-Seite 56 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 56 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -907,7 +907,7 @@ Seite 56 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan KVNo 09: Ersatzkassen, Erstdokumentation (Anlage 2) KVNo 10: Ersatzkassen, Abschlussdokumentation (Anlage 3) Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 57 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan KVNo 09: Ersatzkassen, Erstdokumentation (Anlage 2) KVNo 10: Ersatzkassen, Abschlussdokumentation (Anlage 3) Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 57 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -916,7 +916,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten KVNo 05: Ärztlicher Kurzbericht KVNo 06: Allgemeine ambulante Palliativversorgung (Anlage 3a) KVNo 07: Allgemeine ambulante Palliativversorgung (Anlage 3b)
 
-Seite 58 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 58 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -933,7 +933,7 @@ Seite 58 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
-Seite 59 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 59 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -964,7 +964,7 @@ iOS/Android Linux 31.03.2028 Mac OS Windows
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze
 
-Seite 60 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 60 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -983,7 +983,7 @@ Seite 60 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 61 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 61 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1000,7 +1000,7 @@ Seite 61 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 62 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 62 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1009,7 +1009,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 63 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 63 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1026,7 +1026,7 @@ Seite 63 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan KVNo 09: Ersatzkassen, Erstdokumentation (Anlage 2) Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Seite 64 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan KVNo 09: Ersatzkassen, Erstdokumentation (Anlage 2) Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Seite 64 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1035,7 +1035,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 65 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 65 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1054,7 +1054,7 @@ Seite 65 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 12: Verordnung häuslicher Krankenpflege Muster 19: Notfall-/ Vertretungsschein Muster 21: Krankengeld bei Erkrankung eines Kindes
 
-Seite 66 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 66 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1071,7 +1071,7 @@ Seite 66 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-ifa|NX-NEXT Generation AISMuster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 67 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+ifa|NX-NEXT Generation AISMuster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 67 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1080,7 +1080,7 @@ ifa|NX-NEXT Generation AISMuster 62: Erhebung des Beatmungsentwöhnungs, Verordn
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V
 
-Seite 68 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 68 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1099,7 +1099,7 @@ Seite 68 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 13: Heilmittelverordnung Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 69 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 69 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1118,7 +1118,7 @@ Seite 69 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 70 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 70 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1135,7 +1135,7 @@ Seite 70 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 71 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 71 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1144,7 +1144,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 72 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 72 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1163,7 +1163,7 @@ Seite 72 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 73 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 73 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1178,7 +1178,7 @@ Seite 73 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 74 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 74 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1199,7 +1199,7 @@ InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: w
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 75 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 75 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1218,7 +1218,7 @@ Seite 75 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 19: Notfall-/ Vertretungsschein Muster 21: Krankengeld bei Erkrankung eines Kindes
 
-Seite 76 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 76 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1237,7 +1237,7 @@ Seite 76 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 77 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 77 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1256,7 +1256,7 @@ Seite 77 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze
 
-Seite 78 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 78 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1275,7 +1275,7 @@ Seite 78 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit
 
-Seite 79 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 79 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1294,7 +1294,7 @@ Seite 79 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 80 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 80 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1313,7 +1313,7 @@ Seite 80 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 81 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 81 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1332,7 +1332,7 @@ Seite 81 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 82 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 82 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1351,7 +1351,7 @@ Seite 82 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 83 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 83 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1368,7 +1368,7 @@ Seite 83 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 84 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 84 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1400,7 +1400,7 @@ AB+M Auftragserfassungs-System LABLIONS software & solutions GmbH Franz-Beer-Str
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 85 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 85 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1417,7 +1417,7 @@ Internet: www.mdn.de
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 86 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 86 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1444,7 +1444,7 @@ Linux Y/9/2607/24/716 30.06.2028 Windows
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 87 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 87 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1469,7 +1469,7 @@ Mac OS Y/9/2507/36/604 30.06.2028 Windows
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 88 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 88 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1500,7 +1500,7 @@ iOS/Android Linux 30.06.2028 Mac OS Windows
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 89 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 89 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1520,7 +1520,7 @@ Seite 89 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 90 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 90 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1539,7 +1539,7 @@ Karlstr. 21
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften
 
-Seite 91 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 91 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1570,7 +1570,7 @@ iOS/Android Linux 30.06.2029 Mac OS Windows
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein
 
-Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 92 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 92 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1579,7 +1579,7 @@ Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehh
 
 Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 93 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 93 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1598,7 +1598,7 @@ Softwarevariante(n):
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 94 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 94 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 | Prüfnummer | unterstützte |
 |---|---|
@@ -1613,7 +1613,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten KVNo 05: Ärztlicher Kurzbericht
 
-Seite 95 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 95 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1628,7 +1628,7 @@ Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 96 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 96 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 | Prüfnummer | unterstützte |
 |---|---|
@@ -1643,7 +1643,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 97 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 97 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1658,7 +1658,7 @@ Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 98 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 98 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 | Prüfnummer | unterstützte |
 |---|---|
@@ -1673,7 +1673,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 99 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 99 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1690,7 +1690,7 @@ Seite 99 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedr
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 100 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Seite 100 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 | Prüfnummer | unterstützte |
 |---|---|
@@ -1706,7 +1706,7 @@ medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 101 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 101 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1725,7 +1725,7 @@ Bannwaldallee 60
 
 Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 19: Notfall-/ Vertretungsschein
 
-Seite 102 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 102 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1756,7 +1756,7 @@ Haid-und-Neu-Straße 18
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 103 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 103 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1789,7 +1789,7 @@ Linux 30.09.2026 Mac OS Sonstige Windows
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
-Seite 104 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 104 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1806,7 +1806,7 @@ Seite 104 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 105 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 105 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1815,7 +1815,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 106 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 106 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1832,7 +1832,7 @@ Seite 106 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 107 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 107 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1841,7 +1841,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 108 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 108 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1858,7 +1858,7 @@ Seite 108 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 109 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 109 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1867,7 +1867,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V
 
-Seite 110 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 110 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1884,7 +1884,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 111 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 111 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1902,7 +1902,7 @@ Y/9/2401/36/251
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 112 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 112 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1917,7 +1917,7 @@ Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 113 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 113 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -1936,7 +1936,7 @@ Mac OS Y/9/2401/36/015 31.12.2026 Windows
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 114 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 114 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1957,7 +1957,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
-Seite 115 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 115 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1974,7 +1974,7 @@ Seite 115 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 116 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 116 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -1983,7 +1983,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 117 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 117 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2002,7 +2002,7 @@ Seite 117 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit
 
-Seite 118 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 118 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2021,7 +2021,7 @@ Seite 118 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport
 
-Seite 119 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 119 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2040,7 +2040,7 @@ Seite 119 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 120 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 120 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2060,7 +2060,7 @@ Seite 120 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 121 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 121 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2077,7 +2077,7 @@ Seite 121 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 122 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 122 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2086,7 +2086,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 123 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 123 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2103,7 +2103,7 @@ Seite 123 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 124 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 124 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2112,7 +2112,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 125 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 125 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2131,7 +2131,7 @@ Seite 125 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 126 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 126 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2150,7 +2150,7 @@ Seite 126 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 04: Verordnung einer Krankenbeförderung Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung
 
-Seite 127 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 127 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2169,7 +2169,7 @@ Seite 127 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein
 
-Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Seite 128 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Seite 128 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2178,7 +2178,7 @@ Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehh
 
 Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
-Seite 129 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 129 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2197,7 +2197,7 @@ Seite 129 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen
 
-Seite 130 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 130 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2216,7 +2216,7 @@ Seite 130 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 06: Überweisungsschein
 
-Seite 131 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 131 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2233,7 +2233,7 @@ Seite 131 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 132 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 132 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2242,7 +2242,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten KVNo 06: Allgemeine ambulante Palliativversorgung (Anlage 3a) KVNo 07: Allgemeine ambulante Palliativversorgung (Anlage 3b)
 
-Seite 133 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 133 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2259,7 +2259,7 @@ Seite 133 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 134 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 134 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2268,7 +2268,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mut
 
 Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 135 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 135 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2281,7 +2281,7 @@ Seite 135 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie Seite 136 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie Seite 136 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -2302,7 +2302,7 @@ Y/9/2401/36/348
 
 PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 137 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 137 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2321,7 +2321,7 @@ Seite 137 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 138 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 138 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2341,7 +2341,7 @@ Seite 138 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie
 
-Seite 139 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 139 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2350,7 +2350,7 @@ Seite 139 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 140 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 140 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2370,7 +2370,7 @@ Seite 140 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 02: Verordnung von Krankenhausbehandlung Muster 06: Überweisungsschein Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 141 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 141 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2383,7 +2383,7 @@ Seite 141 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 142 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 142 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -2402,7 +2402,7 @@ Sonstige Y/9/2401/36/261 31.12.2026 Windows
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 143 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 143 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2421,7 +2421,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 21: Krankengeld bei Erkrankung eines Kindes PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde
 
-Seite 144 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 144 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -2450,7 +2450,7 @@ SAP Ambulatory Care Management Dietmar-Hopp-Allee 16 69190 Walldorf Internet: ww
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Seite 145 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 04: Verordnung einer Krankenbeförderung Muster 06: Überweisungsschein Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 12: Verordnung häuslicher Krankenpflege Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 13: Heilmittelverordnung Muster 19: Notfall-/ Vertretungsschein Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Seite 145 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2459,7 +2459,7 @@ Muster 02: Verordnung von Krankenhausbehandlung Muster 02: Verordnung von Kranke
 
 Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 146 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 146 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2476,7 +2476,7 @@ Seite 146 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 147 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 147 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2485,7 +2485,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 148 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 148 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2502,7 +2502,7 @@ Seite 148 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 149 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Seite 149 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2511,7 +2511,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 150 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 150 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2530,7 +2530,7 @@ Seite 150 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 151 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 151 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2551,7 +2551,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 06: Überweisungsschein Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV)
 
-Seite 152 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 152 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2568,7 +2568,7 @@ Seite 152 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 153 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 153 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -2593,7 +2593,7 @@ Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 154 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 154 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -2614,7 +2614,7 @@ iOS/Android Linux 30.06.2027 Mac OS Windows
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 155 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 155 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2631,7 +2631,7 @@ Seite 155 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 156 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 39: Krebsfrüherkennung Frauen Seite 156 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2640,7 +2640,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 157 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 157 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2655,7 +2655,7 @@ Seite 157 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 Muster 06: Überweisungsschein Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 39: Krebsfrüherkennung Frauen
 
-Seite 158 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 158 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -2682,7 +2682,7 @@ Mac OS X/9/2507/36/529 30.06.2028 Windows
 
 **zugelassen für folgende Muster**
 
-Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 159 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Intensivpflege , Behandlungsplan Muster 02: Verordnung von Krankenhausbehandlung Muster 03: Zeugnis über den mutmaßlichen Tag der Entbindung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 07: Überweisungsschein Psychotherapie Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 09: Ärztl. Besch.f.d.Gewäh. v. Mutterschaftsgeld b. Frühgeburten Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 25: Kurvorschlag des Arztes Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 27: Soziotherapeutischer Betreuungsplan gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Seite 159 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2691,7 +2691,7 @@ Muster 62: Erhebung des Beatmungsentwöhnungs, Verordnung außerklinischer Inten
 
 Muster 39: Krebsfrüherkennung Frauen Muster 50: Anfrage auf Zuständigkeit einer anderen Kasse Muster 51: Anfrage auf Zuständigkeit eines sonstigen Kostenträgers Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind Muster 70: Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V Muster 70A: Folge-Behandlungsplan zur künstlichen Befruchtung gemäß §27a SGB V PTV 1: Antrag des Versicherten auf Psychotherapie PTV 11: Individuelle Patienteninformation zur ambulanten psychotherapeutischen Sprechstunde PTV 12: Anzeige der Akutbehandlung oder der Beendigung einer Psychotherapie PTV 2: Angaben des Therapeuten zum Antrag des Versicherten
 
-Seite 160 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 160 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 
 ---
@@ -2706,7 +2706,7 @@ Seite 160 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbed
 
 **zugelassen für folgende Muster**
 
-Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Seite 161 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Muster 02: Verordnung von Krankenhausbehandlung Muster 04: Verordnung einer Krankenbeförderung Muster 05: Abrechnungsschein ambulante Behandlung Muster 06: Überweisungsschein Muster 08: Sehhilfenverordnung Muster 08A: Verordnung einer vergrößernden Sehhilfe Muster 10: Überweisungsschein für in-vitro-diagnostische Auftragsleistungen Muster 10A: Anforderungsschein für Laboratoriumsuntersuchungen bei Laborgemeinschaften Muster 11: Bericht für den medizinischen Dienst Muster 12: Verordnung häuslicher Krankenpflege Muster 13: Heilmittelverordnung Muster 15: Ohrenärztliche Verordnung einer Hörhilfe Muster 19: Notfall-/ Vertretungsschein Muster 20: Wiedereingliederung in das Erwerbsleben Muster 21: Krankengeld bei Erkrankung eines Kindes Muster 22: Konsiliarbericht vor Aufnahme einer Psychotherapie Muster 26: Verordnung Soziotherapie gem. § 37a SGB V Muster 28: Verordnung bei Überweisung zur Indikationsstellung für Soziotherapie Muster 36: Empfehlung zur verhaltensbezogenen Primärprävention gem. § 20 Abs. 5 SGB V Muster 52: Anfrage auf Fortbestehen der Arbeitsunfähigkeit Muster 53: Anfrage zum Zusammenhang von Arbeitsunfähigkeit Muster 55: Ärztliche Bescheinigung zur Festlegung der Belastungsgrenze Muster 56: Antrag auf Kostenübernahme für Rehabilitationssport Muster 61: Verordnung von medizinischer Rehabilitation Muster 63: Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) Seite 161 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026
 
 **Prüfnummer**
 
@@ -2727,4 +2727,4 @@ Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de30.09.
 
 Muster 64: Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V Muster 65: Ärztliches Attest Kind
 
-Seite 162 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 29. August 2026
+Seite 162 / KBV / Verzeichnis zertifizierter Software für die Blankoformularbedruckung / 05. September 2026

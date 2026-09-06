@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**29. AUGUST 2026**
+**05. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -32,7 +32,7 @@
 |---|---|---|---|
 |  | Y/495/2401/36/081 | 31.12.2026 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/062
 
@@ -60,7 +60,7 @@ APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apri
 |---|---|---|---|
 |  | Y/495/2401/36/324 | 31.12.2026 |  |
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/078
 
@@ -88,7 +88,7 @@ CGM MEDICO CGM Clinical Europe GmbH Hadersberg 1 84427 Sankt Wolfgang Internet: 
 |---|---|---|---|
 |  | Y/495/2401/36/203 | 31.12.2026 |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/346
 
@@ -118,7 +118,7 @@ Softwarevariante(n): - CGM M1 PRO NEXT
 |---|---|---|---|
 |  | Y/495/2401/36/060 | 31.12.2026 |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/023
 
@@ -146,7 +146,7 @@ CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 
 |---|---|---|---|
 |  | Y/495/2509/37/677 | 30.09.2028 |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/254
 
@@ -176,7 +176,7 @@ inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 |---|---|---|---|
 |  | Y/495/2401/36/253 | 31.12.2026 |  |
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2404/36/602
 
@@ -204,7 +204,7 @@ Epikur Epikur Software GmbH & Co. KG Franklinstraße 26 a 10587 Berlin Internet:
 |---|---|---|---|
 |  | Y/495/2401/36/244 | 31.12.2026 |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/223
 
@@ -232,7 +232,7 @@ FIDUS FIDUS Software Entwicklungs-GmbH Frankfurter Landstr. 117 64291 Darmstadt 
 |---|---|---|---|
 |  | Y/495/2401/36/451 | 31.12.2026 |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2504/21/616
 
@@ -262,7 +262,7 @@ Skymed henova GmbH Lilienthal Strasse 1 86830 Schwabmünchen Internet: www.henov
 |---|---|---|---|
 |  | Y/495/2401/36/320 | 31.12.2026 |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/210
 
@@ -292,7 +292,7 @@ Softwarevariante(n): - x.vianova
 |---|---|---|---|
 |  | Y/495/2401/36/266 | 31.12.2026 |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/135
 
@@ -322,7 +322,7 @@ Softwarevariante(n): - psyx
 |---|---|---|---|
 |  | Y/495/2401/36/030 | 31.12.2026 |  |
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/462
 
@@ -346,7 +346,7 @@ eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Prax
 |---|---|---|---|
 |  | Y/495/2401/36/251 | 31.12.2026 |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2604/09/701
 
@@ -374,7 +374,7 @@ Internet: www.medys.de
 |---|---|---|---|
 |  | Y/495/2401/36/422 | 31.12.2026 |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/015
 
@@ -404,7 +404,7 @@ RadCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim
 |---|---|---|---|
 |  | Y/495/2501/24/620 | 31.12.2026 |  |
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/043
 
@@ -432,7 +432,7 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 |---|---|---|---|
 |  | Y/495/2401/36/348 | 31.12.2026 |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/208
 
@@ -460,7 +460,7 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 |---|---|---|---|
 |  | Y/495/2401/36/171 | 31.12.2026 |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/456
 
@@ -492,7 +492,7 @@ SAP Ambulatory Care Management SAP SE Dietmar-Hopp-Allee 16 69190 Walldorf Inter
 |---|---|---|---|
 |  | Y/495/2401/36/313 | 31.12.2026 |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 Y/495/2401/36/230
 
@@ -516,6 +516,6 @@ T2med T2med GmbH & Co. KG Bismarckallee 15 24105 Kiel Internet: www.t2med.de Med
 |---|---|---|---|
 |  | Y/495/2603/37/768 | 31.03.2029 |  |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 29. August 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 05. September 2026
 
 tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de tomedo.air Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Mac OS Mac OS WindowsY/495/2401/36/205 31.12.2026 Windows

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**29. AUGUST 2026**
+**05. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -26,9 +26,9 @@
 
 |  | Y/168/2505/36/688 | 30.04.2028 |  |
 |---|---|---|---|
-|  | Y/168/2309/36/756 | 31.08.2026 |  |
+|  | Y/168/2609/36/756 | 31.08.2029 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 29. August 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 05. September 2026
 
 X/168/2504/36/690
 
