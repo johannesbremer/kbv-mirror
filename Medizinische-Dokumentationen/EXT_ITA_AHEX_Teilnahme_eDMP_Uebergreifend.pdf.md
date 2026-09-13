@@ -2,31 +2,20 @@ Krankenkasse bzw. Kostenträger
 
 # Erklärung
 
-zur Teilnahme an einem strukturierten
-
 Name, Vorname des Versicherten
 
-### Behandlungsprogramm für
+zur Teilnahme an einem strukturierten
 
 geb. am
 
-### tenstelle
-
+### Behandlungsprogramm für tenstelle
 Kostenträgerkennung Versicherten-Nr
 
 Status
 
 Betriebsstätten-Nr Arzt-Nr
 
-Datum
-
-**Krankenhaus-IK**
-
-070F
-
-### emplar für die Da
-
-**xE**
+Datum 070F **Krankenhaus-IK**
 
 Diabetes Typ 1
 
@@ -40,15 +29,15 @@ Depression
 
 oder
 
+oder
+
+oder
+
+oder
+
 Osteoporose
 
 Rückenschmerz
-
-oder
-
-oder
-
-oder
 
 Diabetes Typ 2
 
@@ -84,19 +73,19 @@ bzw. des gesetzlichen Vertreters zu 1. und 2.  **T T M M J J J J**
 
 **– von der behandelnden Ärztin/vom behandelnden Arzt oder Krankenhausärztin/Krankenhausarzt auszufüllen –**
 
-Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  eifend
+Ich bestätige, dass für die vorgenannte Versicherte/den vorgenannten Versicherten die oben genannte(n) Diagnose(n) ent-sprechend den rechtlichen Anforderungen gesichert ist/sind und die indikationsspezifischen Einschreibekriterien überprüft  wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit-wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
 
-wurden und erfüllt sind. Insbesondere habe ich geprüft, dass meine Patientin/mein Patient grundsätzlich zur aktiven Mit-gr wirkung und Teilnahme an Schulungen bereit ist und im Hinblick auf die vereinbarten Therapieziele von der Einschreibung  profitieren kann.
-
-Indikationsüber
-
-Bitte das heutige Datum eintragen. **T T M M J J J J**
-
-24.04.2025 TEEWE
-
-Unterschrift
+Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 Stempel Ärztin/Arzt
+
+### emplar für die Da
+
+**xE**
+
+eifend gr
+
+Indikationsüber 24.04.2025 TEEWE
 
 
 ---
@@ -159,29 +148,27 @@ Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 **zur Teilnahme an einem strukturierten**
 
-#### Behandlungsprogramm für
-
-**Krankenhaus-IK**
-
-070F
+#### Behandlungsprogramm für 070F **Krankenhaus-IK**
 
 Adipositas Erw.
 
-oder
-
-Adipositas Kinder
-
-u. Jugendliche
-
 Brustkrebs
 
-Depression
+oder
 
 Osteoporose
 
-Rückenschmerz
+Adipositas Kinder
 
-Rheumatoide Arthritis
+Rheumatoide
+
+u. Jugendliche
+
+Arthritis
+
+Depression
+
+Rückenschmerz
 
 **oben genannten Diagnose(n)** teil-
 
@@ -257,29 +244,27 @@ Bitte das heutige Datum eintragen. **T T M M J J J J** Unterschrift
 
 ## Erklärung
 
-zur Teilnahme an einem strukturierten Behandlungsprogramm für
-
-**Krankenhaus-IK**
-
-070F
+zur Teilnahme an einem strukturierten Behandlungsprogramm für 070F **Krankenhaus-IK**
 
 Adipositas Erw.
 
-oder
-
-Adipositas Kinder
-
-u. Jugendliche
-
 Brustkrebs
 
-Depression
+oder
 
 Osteoporose
 
-Rückenschmerz
+Adipositas Kinder
 
-Rheumatoide Arthritis
+Rheumatoide
+
+u. Jugendliche
+
+Arthritis
+
+Depression
+
+Rückenschmerz
 
 **oben genannten Diagnose(n)**
 
@@ -343,13 +328,15 @@ Die Datenstelle ist für die weitere Bearbeitung der Daten zuständig und wird d
 
 Alternativ dazu besteht die Möglichkeit, dass Ihre Krankenkasse die Aufgaben der Gemeinsamen Einrichtung wahrnimmt. Für diesen  Fall entfällt die Notwendigkeit der Errichtung der Arbeitsgemeinschaft und der Gemeinsamen Einrichtung und damit der Weiterlei-tung der Daten an diese. Das kann auch beinhalten, dass Ihre Krankenkasse die Aufgaben der Datenstelle in eigener Verantwortung  wahrnimmt.
 
-Der dargestellte Ablauf der Programme und die nachfolgend beschriebenen Aufgaben der Beteiligten sind gesetzlich vorgeschrieben.  Bei jedem Bearbeitungsschritt werden strengste gesetzliche Sicherheitsvorschriften beachtet. Die Verarbeitung Ihrer im Programm  eifend
+Der dargestellte Ablauf der Programme und die nachfolgend beschriebenen Aufgaben der Beteiligten sind gesetzlich vorgeschrieben.  Bei jedem Bearbeitungsschritt werden strengste gesetzliche Sicherheitsvorschriften beachtet. Die Verarbeitung Ihrer im Programm  erhobenen Daten erfolgt unter Beachtung der Datenschutzgrundverordnung (DS-GVO). Dadurch ist der Schutz Ihrer Daten immer  gewährleistet! Bei allen Beteiligten haben nur speziell für das Programm ausgewählte und besonders geschulte Mitarbeiterinnen/ Mitarbeiter Zugang zu den Daten. Des Weiteren werden Ihre Daten entsprechend den gültigen Rechtsvorschriften aufewahrt.
 
-erhobenen Daten erfolgt unter Beachtung der Datenschutzgrundverordnung (DS-GVO). Dadurch ist der Schutz Ihrer Daten immer  gr gewährleistet! Bei allen Beteiligten haben nur speziell für das Programm ausgewählte und besonders geschulte Mitarbeiterinnen/ Mitarbeiter Zugang zu den Daten. Des Weiteren werden Ihre Daten entsprechend den gültigen Rechtsvorschriften aufewahrt.
+**3.1 Was geschieht bei der Ärztin/dem Arzt mit den Daten?**
 
-Indikationsüber **3.1 Was geschieht bei der Ärztin/dem Arzt mit den Daten?**
+Ihre Ärztin/Ihr Arzt benötigt diese Daten für Ihre Behandlung und das Gespräch mit Ihnen. Ihre Ärztin/Ihr Arzt leitet die das Programm betrefenden Daten in standardisierter Form an die Krankenkasse oder die Datenstelle weiter. Dazu benötigt Ihre Ärztin/Ihr Arzt im Rahmen der Einschreibung Ihre einmalige schriftliche oder elektronische Einwilligung auf der Teilnahme- und Einwilligungserklärung.
 
-Ihre Ärztin/Ihr Arzt benötigt diese Daten für Ihre Behandlung und das Gespräch mit Ihnen. Ihre Ärztin/Ihr Arzt leitet die das Programm betrefenden Daten in standardisierter Form an die Krankenkasse oder die Datenstelle weiter. Dazu benötigt Ihre Ärztin/Ihr Arzt im Rahmen der Einschreibung Ihre einmalige schriftliche oder elektronische Einwilligung auf der Teilnahme- und Einwilligungserklärung. 24.04.2025 DSGVO
+eifend gr
+
+Indikationsüber 24.04.2025 DSGVO
 
 
 ---
@@ -403,17 +390,15 @@ Das Wissen in der Medizin wächst täglich. Im Rahmen der Behandlungsprogramme s
 
 Ihre individuelle Betreuung bildet den Schwerpunkt dieser Behandlungsprogramme. Das Programm sieht vor, dass Ihre Ärztin oder  Ihr Arzt Sie über Nutzen und Risiken der jeweiligen Therapie auflärt, damit Sie gemeinsam mit ihr oder ihm den weiteren Behand-lungsverlauf und die Ziele der Behandlung festlegen können. Ihre betreuende Ärztin oder Ihr betreuender Arzt wird Sie intensiv  beraten, ausführlich informieren und Ihnen gegebenenfalls qualifizierte Schulungen empfehlen. So lernen Sie Ihre Krankheit besser  verstehen sowie Ihren Lebensalltag und Ihre Erkrankung besser aufeinander abzustimmen.
 
-Ihr Arzt oder Ihre Ärztin wird Sie über den Umgang mit weiteren gesundheitsgefährdenden Einflüssen auflären und mit Ihnen  zusammen eine Handlungsstrategie zu deren Vermeidung abstimmen. Sie legen gemeinsam mit Ihrer Ärztin bzw. Ihrem Arzt Ihre  individuellen Therapieziele fest und wirken aktiv an der Behandlung Ihrer Erkrankung mit.  Das Programm sieht insbesondere regelmäßige Wiedervorstellungstermine vor. Nehmen Sie diese wahr und tragen Sie damit aktiv  dazu bei, dass Sie Ihre vereinbarten Behandlungsziele erreichen. Zur Unterstützung Ihrer Selbstmanagementkompetenz dient die  eifend regelmäßige Dokumentation.
-
-gr
+Ihr Arzt oder Ihre Ärztin wird Sie über den Umgang mit weiteren gesundheitsgefährdenden Einflüssen auflären und mit Ihnen  zusammen eine Handlungsstrategie zu deren Vermeidung abstimmen. Sie legen gemeinsam mit Ihrer Ärztin bzw. Ihrem Arzt Ihre  individuellen Therapieziele fest und wirken aktiv an der Behandlung Ihrer Erkrankung mit.  Das Programm sieht insbesondere regelmäßige Wiedervorstellungstermine vor. Nehmen Sie diese wahr und tragen Sie damit aktiv  dazu bei, dass Sie Ihre vereinbarten Behandlungsziele erreichen. Zur Unterstützung Ihrer Selbstmanagementkompetenz dient die  regelmäßige Dokumentation.
 
 **Koordination Ihrer Behandlung**
 
-Indikationsüber
+Die von Ihnen gewählte Ärztin oder der von Ihnen gewählte Arzt koordiniert die Programmdurchführung und berät und unterstützt  Sie in allen Fragen. Voraussetzung für Ihre Teilnahme ist, dass diese Ärztin bzw. dieser Arzt selbst am Programm teilnimmt.  Ihre Ärztin oder Ihr Arzt wird mit Ihnen regelmäßige Untersuchungstermine vereinbaren, deren Inhalte und Abstände fest geregelt  sind. Sie bzw. er überprüft auch anhand festgelegter Kriterien, ob und welche Spezialisten oder Einrichtungen, die ebenfalls am Pro-
 
-Die von Ihnen gewählte Ärztin oder der von Ihnen gewählte Arzt koordiniert die Programmdurchführung und berät und unterstützt   Sie in allen Fragen. Voraussetzung für Ihre Teilnahme ist, dass diese Ärztin bzw. dieser Arzt selbst am Programm teilnimmt.  Ihre Ärztin oder Ihr Arzt wird mit Ihnen regelmäßige Untersuchungstermine vereinbaren, deren Inhalte und Abstände fest geregelt  24.04.2025
+eifend gr
 
-sind. Sie bzw. er überprüft auch anhand festgelegter Kriterien, ob und welche Spezialisten oder Einrichtungen, die ebenfalls am Pro-
+Indikationsüber 24.04.2025
 
 
 ---

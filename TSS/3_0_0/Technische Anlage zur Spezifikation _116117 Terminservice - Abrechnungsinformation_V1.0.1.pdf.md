@@ -50,8 +50,6 @@ Herbert-Lewin-Platz 2 10623 Berlin
 
 1.0
 
-Seite 3 von 12
-
 **DATUM**
 
 **AUTOR**
@@ -59,8 +57,6 @@ Seite 3 von 12
 31.07.2025 kv.digital
 
 06.12.2024 kv.digital
-
-/ KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 **KAPITEL ÄNDERUNG**
 
@@ -101,6 +97,8 @@ Korrektur Abrufintervall
 Ergänzung Dateiformat
 
 Ergänzung Element-Definition  "mustSupport"
+
+Seite 3 von 12 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Abrechnungsinformation"
 
 
 ---

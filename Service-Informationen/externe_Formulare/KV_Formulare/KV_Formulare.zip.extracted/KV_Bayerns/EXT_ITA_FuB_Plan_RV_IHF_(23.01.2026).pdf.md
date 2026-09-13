@@ -1,6 +1,4 @@
-Krankenkasse bzw. Kostenträger
-
-Zuzah-lungs-
+Zuzah- Krankenkasse bzw. Kostenträger lungs-
 
 frei
 
@@ -11,8 +9,6 @@ Unfall-folgen
 Kostenträgerkennung  BVG
 
 Betriebsstätten-Nr.
-
-Behandlungsplan_162.indd 1
 
 geb. am
 
@@ -28,7 +24,7 @@ Geschlecht weiblich
 
 männlich
 
-#### Förder- und Behandlungsplan
+#### Förder- und Behandlungsplan gemäß Rahmenvertrag für medizinisch therapeutische Leistungen
 
 zur Behandlung von behinderten oder von Behinderung bedrohten Kindern und Jugendlichen in
 
@@ -74,25 +70,17 @@ Rechnungsnummer
 
 Belegnummer
 
-gemäß Rahmenvertrag für medizinisch therapeutische Leistungen
-
 Einzelbehandlung
 
-Woche
-
-BE
+BE Woche
 
 Monat
 
-Woche
-
-BE
+BE Woche
 
 Monat
 
-Woche
-
-BE
+BE Woche
 
 Monat
 
@@ -120,4 +108,4 @@ Monat
 
 Woche
 
-Monat 04.09.15 07:46
+Monat

@@ -19,9 +19,11 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
-\| VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
-\| DOKUMENTENHISTORIE  Die Änderungen treten zum 10.06.2026 in Kraft. | VERSION | DATUM | AUTOR | ÄNDERUNG |
-| DOKUMENTENHISTORIE  Die Änderungen treten zum 10.06.2026 in Kraft. | VERSION | DATUM | AUTOR | ÄNDERUNG |
+# DOKUMENTENHISTORIE
+
+Die Änderungen treten zum 10.06.2026 in Kraft.
+
+| VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 |---|---|---|---|---|
 | 2.1 | 10.06.2026 | KBV | -  -  - | **Alle** |
 | 2.0 | 15.09.2025 | KBV | - | **Alle** |
@@ -31,15 +33,6 @@ das KV-System / Version: 2.1 / 10.06 2026
 | 1.8 | 13.09.2022 | KBV | -  -  -  - | **3.2.2/3.2.3**       **4.2.3**     **4.2.3** |
 | 1.7 | 04.05.2022 | KBV | -  -  -  - | **3.9/4.2/  4.3/4.6.3/5**     **4.2.3** |
 | 1.6 | 22.12.2020 | KBV | Änderungen  -  Redaktionell | **4.2.3** |
-|  |  |  |  | **KAPITEL** |
-| 2.1 | 10.06.2026 | KBV | -  -  - **Alle ** 2.0  15.09.2025  KBV  - **Alle ** 1.92  18.07.2023  KBV | -  -  -  -  - **3.9** |
-| **4.3.1** |  | **4.3.2** | **4.3.3**  1.91  30.03.2023  KBV  -  -  -  -  -  -  - | -  - **3.2.3**   **3.5**   **3.9**   **3.9**   **4.2.3**   **4.2.3**   **4.2.3**   **4.6.3** |
-|  | 1.9 | 29.09.2022 | KBV  - **4.2.3**    1.8  13.09.2022 | KBV  -  -  -  - **3.2.2/** |
-| **3.2.3** |  |  | **4.2.3**     **4.2.3**    1.7  04.05.2022  KBV  -  -  - | - |
-|  |  |  |  | **KAPITEL ** 2.1  10.06.2026  KBV  - |
-|  | - |  | - **Alle ** 2.0  15.09.2025  KBV  - **Alle ** 1.92  18.07.2023  KBV  -  -  - |  |
-| - |  | - |  | **3.9** |
-|  | **4.3.1** |  | **4.3.2** |  |
 
 Seite 2 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
@@ -48,27 +41,13 @@ Redaktionelle Änderungen KV_AFO_0049: flexiblere Gestaltung der Anforderung KV_
 
 ---
 
-\| DATUM | AUTOR | ÄNDERUNG | KAPITEL | - |
-\| VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 | VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 |---|---|---|---|---|
-| 1.5 | 14.02.2020 | KBV | Änderungen  -  -  - |  |
-| - |  | Anpassung an aktuelles KBV Corporate Design | - | gelb markiert. |
-| Redaktionell | - |  | **3.3**   **4.2.3**   **5** **4.2.3** | 1.4  15.05.2019  KBV  Änderungen  - |
-| - |  | - | -  -  -  -  -  Redaktionell  -   **3.4** | **4.2.3**   **4.2.3**     **4.2.3**   **4.4.3**   **4.4.3**     **4.6.3**   **5**  1.3 |
-| 07.03.2018 | KBV | Änderungen | - | Redaktionell  - |
-| - |  |  | **3**     **3.2.2** **4.2.3/** | **4.3.3**   1.2  20.12.2017  KBV  Aufnahme von Rückmeldungen vom BMG:  -  Klarstellungen/Anpassungen auf Basis von Rückmeldungen der Industrie oder  -  -  - |
-|  | - |  | -  -  - **alle** |  |
-|  |  |  |  |  |
 |  |  |  |  | - |
 | 1.5 | 14.02.2020 | KBV | Änderungen  -  -  -  -  Anpassung an aktuelles KBV Corporate Design  -  gelb markiert.  Redaktionell  - | **3.3**   **4.2.3**   **5** **4.2.3** |
 | 1.4 | 15.05.2019 | KBV | Änderungen  -  -  -  -  -  -  -  -  Redaktionell  - | **3.4**   **4.2.3**   **4.2.3**     **4.2.3**   **4.4.3**   **4.4.3**     **4.6.3**   **5** |
 | 1.3 | 07.03.2018 | KBV | Änderungen  -  Redaktionell  -  - | **3**     **3.2.2** **4.2.3/  4.3.3** |
 | 1.2 | 20.12.2017 | KBV | Aufnahme von Rückmeldungen vom BMG:  -  Klarstellungen/Anpassungen auf Basis von Rückmeldungen der Industrie oder  -  -  -  -  -  -  - | **alle** |
-|  |  |  |  | -  1.5  14.02.2020  KBV  Änderungen |
-| - |  | - | -  -  Anpassung an aktuelles KBV Corporate Design  -  gelb markiert.  Redaktionell  -   **3.3**   **4.2.3** |  |
-|  | **5** |  | **4.2.3** |  |
-|  | 1.4 | 15.05.2019 | KBV | Änderungen |
 
 Seite 3 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
@@ -77,23 +56,8 @@ Diverse sprachliche Verbesserungen KV_AFO_0023: TSP darf das Antragportal nicht 
 
 ---
 
-\| DATUM | AUTOR | ÄNDERUNG | KAPITEL | - |
-\| VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 | VERSION | DATUM | AUTOR | ÄNDERUNG | KAPITEL |
 |---|---|---|---|---|
-| - |  | - | 1.1  15.08.2017  KBV  Aufnahme von Rückmeldungen aus der Industrie:  - |  |
-| - |  | - | - |  |
-| - |  | - | -  - **alle ** 1.0  01.06.2017  KBV  Aufnahme der Rückmeldungen aus Kommentierungsverfahren | **alle ** 0.5  02.05.2017  KBV  Erste Version als Basis für Abstimmung mit KVen und TSP **alle ** |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  | - |
-| - |  | - | 1.1  15.08.2017  KBV  Aufnahme von Rückmeldungen aus der Industrie:  -  -  -  -  -  - | -  - **alle ** 1.0  01.06.2017  KBV  Aufnahme der Rückmeldungen aus Kommentierungsverfahren **alle ** 0.5 |
-| 02.05.2017 | KBV | Erste Version als Basis für Abstimmung mit KVen und TSP | **alle ** |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 |  |  |  |  | -  -  - |
 | 1.1 | 15.08.2017 | KBV | Aufnahme von Rückmeldungen aus der Industrie:  -  -  -  -  -  -  -  - | **alle** |
 | 1.0 | 01.06.2017 | KBV | Aufnahme der Rückmeldungen aus Kommentierungsverfahren | **alle** |
@@ -119,27 +83,20 @@ INHALT
 
 **8**
 
-**3** **ÜBERGREIFENDE FESTLEGUNGEN**
-
-**9**  3.1 Kommunikation 9  3.2 Authentisierung
-
-10  3.2.1 Authentisierung durch Antragsteller
-
-10  3.2.2 Authentisierung durch Mitarbeiter der KVen 10  3.2.3 Registrierung
-
-11  3.3 Portal
-
-13  3.4 Verwendung der SOAP-Schnittstelle 13  3.5 Löschfristen
-
-14  3.6 Änderungshistorie
-
-15  3.7 Mandantenfähigkeit
-
-15  3.8 Ansprechpartner
-
-15  3.9 SM-B-Status
-
-15
+| 3 | ÜBERGREIFENDE FESTLEGUNGEN | 9 |
+|---|---|---|
+| 3.1 | Kommunikation | 9 |
+| 3.2 | Authentisierung | 10 |
+|  | 3.2.1 Authentisierung durch Antragsteller | 10 |
+|  | 3.2.2 Authentisierung durch Mitarbeiter der | KVen 10 |
+|  | 3.2.3 Registrierung | 11 |
+| 3.3 | Portal | 13 |
+| 3.4 | Verwendung der SOAP-Schnittstelle | 13 |
+| 3.5 | Löschfristen | 14 |
+| 3.6 | Änderungshistorie | 15 |
+| 3.7 | Mandantenfähigkeit | 15 |
+| 3.8 | Ansprechpartner | 15 |
+| 3.9 | SM-B-Status | 15 |
 
 **4** **FUNKTIONSMERKMALE**
 
@@ -192,6 +149,9 @@ INHALT
 Seite 5 von 57 / KBV / Anforderungskatalog SM-B Anbieter - das KV-System / Version: 2.1 / 10.06 2026
 
 Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
+
+Authentisierung durch Mitarbeiter der KVen
+
 
 ---
 
@@ -517,8 +477,28 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
-\| STATUS | LÖSCHEN ODER ANONYMISIEREN |
-| • | • |
+-  die zusammengehörigen Requests und Responses der SOAP-Schnittstelle dargestellt werden,
+-  die Parametrisierung der Requests und Responses im Überblick erläutert und auf verwendete  Datenstrukturen der Übergabeschnittstellen referenziert wird,
+-  zu verwendende Fehlercodes beschrieben sind,
+-  alle Angaben zur Absicherung der SOAP-Schnittstelle (Angaben zur Authentisierung im Rahmen von  TLS, Angaben zu Webservice Security sowie verwendete Algorithmen)
+
+beschrieben sind.
+
+**KV_AFO_0124 Verfügbarkeit der SOAP-Schnittstelle über SNK**
+
+Der TSP MUSS die SOAP-Schnittstelle im Sicheren Netz der KVen (SNK) bereitstellen; hierzu ist der  Leitfaden zur Zertifizierung von KV-Apps der KBV [KBV_SNK_LFEX_Zert_KV-Apps] in der jeweils aktuellen  Fassung zu beachten. Die SOAP-Schnittstelle DARF NICHT im Internet genutzt werden.
+
+**Anmerkung**: Anforderung bezieht sich nicht auf Testumgebung (KV_AFO_0004).
+
+## 3.5 LÖSCHFRISTEN
+
+**KV_AFO_0027 Löschen oder Anonymisieren von Antragsdaten**
+
+Der TSP MUSS die Antragsdaten wie in **TABELLE 2:** **LÖSCHFRISTEN** angegeben löschen oder anonymisieren.
+
+**Tabelle 2: Löschfristen**
+
+| STATUS | LÖSCHEN ODER ANONYMISIEREN |
 |---|---|
 | Die KV hat einen Antrag mit Werten vorbefüllt. Der | Der TSP MUSS die Vorbefüllungsdaten nach 30 |
 | Ein Antragsteller hat einen Antrag  Für das Wiederaufrufen des Antrags hat er | Der TSP MUSS die Antragsdaten eines Antrags mit |
@@ -527,34 +507,57 @@ das KV-System / Version: 2.1 / 10.06 2026
 | Die KV hat einen SM-B-Antrag freigegeben. | Alle zum Antrag zugehörigen Daten werden 5 Jahre |
 | Die Zertifikate einer SM-B wurden gesperrt oder | Alle zum Antrag zugehörigen Daten werden 5 Jahre |
 | Der Account eines Mitarbeiters einer KV wurde | Die vollständige Löschung eines Accounts aus der |
-|  | • |
-
-## 3.5
-
-**Tabelle 2: Löschfristen**
 
 Seite 14 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-die zusammengehörigen Requests und Responses der SOAP-Schnittstelle dargestellt werden,  die Parametrisierung der Requests und Responses im Überblick erläutert und auf verwendete Datenstrukturen der Übergabeschnittstellen referenziert wird,  zu verwendende Fehlercodes beschrieben sind,  alle Angaben zur Absicherung der SOAP-Schnittstelle (Angaben zur Authentisierung im Rahmen von TLS, Angaben zu Webservice Security sowie verwendete Algorithmen)  beschrieben sind. KV_AFO_0124 Verfügbarkeit der SOAP-Schnittstelle über SNK  Der TSP MUSS die SOAP-Schnittstelle im Sicheren Netz der KVen (SNK) bereitstellen; hierzu ist der Leitfaden zur Zertifizierung von KV-Apps der KBV [KBV_SNK_LFEX_Zert_KV-Apps] in der jeweils aktuellen Fassung zu beachten. Die SOAP-Schnittstelle DARF NICHT im Internet genutzt werden. Anmerkung : Anforderung bezieht sich nicht auf Testumgebung (KV_AFO_0004). LÖSCHFRISTEN KV_AFO_0027 Löschen oder Anonymisieren von Antragsdaten Der TSP MUSS die Antragsdaten wie in TABELLE 2: LÖSCHFRISTEN  angegeben löschen oder anonymisieren. Antragsteller stellt keinen Antrag beim TSP.  Tagen löschen.  zwischengespeichert, aber noch nicht abgesendet.  Zugriffdaten erhalten/festgelegt. dem Status „Antrag zwischengespeichert“ nach Tagen löschen.  ausgefüllt und abgesendet.  gefunden, so dass der Antrag nicht zur Freigabe bereitgestellt werden kann.  löschen.  bereitgestellt. Die KV lehnt den Antrag ab.  „Freigabeauftrag“ der Ablehnung) nach 180 Tagen löschen oder anonymisieren.  nach Ablauf der Gültigkeit der Zertifikate gelöscht. Dazu gehören auch die Freigabeaufträge und die Einträge in die Änderungshistorie.  sind abgelaufen. nach Laufzeitende der Zertifikate gelöscht. Dazu gehören auch die Freigabeaufträge und die Einträge in die Änderungshistorie. gelöscht.  Benutzerverwaltung ist nur möglich, wenn durch den zugehörigen Mitarbeiter keine Tätigkeiten (wie die Freigabe von Anträgen oder die Sperrung von das KV-System / Version: 2.1 / 10.06 2026
+Antragsteller stellt keinen Antrag beim TSP.  Tagen löschen.  zwischengespeichert, aber noch nicht abgesendet.  Zugriffdaten erhalten/festgelegt. dem Status „Antrag zwischengespeichert“ nach Tagen löschen.  ausgefüllt und abgesendet.  gefunden, so dass der Antrag nicht zur Freigabe bereitgestellt werden kann.  löschen.  bereitgestellt. Die KV lehnt den Antrag ab.  „Freigabeauftrag“ der Ablehnung) nach 180 Tagen löschen oder anonymisieren.  nach Ablauf der Gültigkeit der Zertifikate gelöscht. Dazu gehören auch die Freigabeaufträge und die Einträge in die Änderungshistorie.  sind abgelaufen. nach Laufzeitende der Zertifikate gelöscht. Dazu gehören auch die Freigabeaufträge und die Einträge in die Änderungshistorie. gelöscht.  Benutzerverwaltung ist nur möglich, wenn durch den zugehörigen Mitarbeiter keine Tätigkeiten (wie die Freigabe von Anträgen oder die Sperrung von das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
 
-\| Der TSP MUSS im Portal eine Hotline-Nummer zu einem Service Desk (SPOC) mit Servicezeiten und   | Der TSP MUSS den zu der Hotline-Nummer zugehörigen Service Desk mindestens Werktags jeweils von 8  3.9 |
 | STATUS | LÖSCHEN ODER ANONYMISIEREN |
 |---|---|
-|  | Der TSP MUSS die Antrags- und SM-B-Status aus der |
-| **TABELLE 3:** möglichen Statusübergänge aus der | **ABBILDUNG 1:** unterstützen. |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 |  | SM-B) dokumentiert ist. Ansonsten werden dem  Der TSP MUSS nach der Löschung des Accounts |
+
+## 3.6 ÄNDERUNGSHISTORIE
+
+**KV_AFO_0028 Speichern von Statusänderungen der Anträge in einer Historie**
+
+Der TSP MUSS die Statusänderungen der Anträge in einer Historie speichern. Ein Eintrag in der  Historisierung MUSS mindestens aus dem neuen Status, Zeitstempel, Vorgangsnummer und Bearbeiter  bestehen. Damit kann nachverfolgt werden, wann Änderungen an dem Antrag durchgeführt wurden.  Das Löschen der Einträge wird in **TABELLE 2:** **LÖSCHFRISTEN** [KV_AFO_0105] genannten Status in die Zertifikatshistorie aufnehmen.
+
+## 3.7 MANDANTENFÄHIGKEIT
+
+**KV_AFO_0030 Mandantenfähigkeit des TSP**
+
+Der TSP MUSS sicherstellen, dass jede KV nur Zugriff auf Daten erhält, die dieser KV zugeordnet sind.
+
+## 3.8 ANSPRECHPARTNER
+
+**KV_AFO_0031 Ansprechpartnern des TSP**
+
+Der TSP MUSS Ansprechpartner für die KVen und die Antragsteller benennen. Diese Ansprechpartner  können Personen oder Personengruppen sein.
+
+**KV_AFO_0032 Anzeige einer Hotline Nummer zum Service Desk**
+
+Der TSP MUSS im Portal eine Hotline-Nummer zu einem Service Desk (SPOC) mit Servicezeiten und  sofern vorhanden  Anrufkosten anzeigen.
+
+**KV_AFO_0033 Verfügbarkeit des Service Desk**
+
+Der TSP MUSS den zu der Hotline-Nummer zugehörigen Service Desk mindestens Werktags jeweils von 8  bis 18 Uhr für die Antragsteller und die Mitarbeiter der KVen zur Verfügung stellen.
+
+## 3.9 SM-B-STATUS
+
+**KV_AFO_0034 Umsetzung der SM-B-Status**
+
+Der TSP MUSS die Antrags- und SM-B-Status aus der  möglichen Statusübergänge aus der **ABBILDUNG 1:** unterstützen.
 
 Seite 15 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für  das KV-System / Version: 2.1 / 10.06 2026
 
-3.6 ÄNDERUNGSHISTORIE KV_AFO_0028 Speichern von Statusänderungen der Anträge in einer Historie Der TSP MUSS die Statusänderungen der Anträge in einer Historie speichern. Ein Eintrag in der Historisierung MUSS mindestens aus dem neuen Status, Zeitstempel, Vorgangsnummer und Bearbeiter bestehen. Damit kann nachverfolgt werden, wann Änderungen an dem Antrag durchgeführt wurden. Das Löschen der Einträge wird in TABELLE 2: LÖSCHFRISTEN [KV_AFO_0105] genannten Status in die Zertifikatshistorie aufnehmen. 3.7 MANDANTENFÄHIGKEIT  KV_AFO_0030 Mandantenfähigkeit des TSP Der TSP MUSS sicherstellen, dass jede KV nur Zugriff auf Daten erhält, die dieser KV zugeordnet sind. 3.8 ANSPRECHPARTNER  KV_AFO_0031 Ansprechpartnern des TSP Der TSP MUSS Ansprechpartner für die KVen und die Antragsteller benennen. Diese Ansprechpartner können Personen oder Personengruppen sein.  KV_AFO_0032 Anzeige einer Hotline Nummer zum Service Desk sofern vorhanden  Anrufkosten anzeigen.  KV_AFO_0033 Verfügbarkeit des Service Desk bis 18 Uhr für die Antragsteller und die Mitarbeiter der KVen zur Verfügung stellen. SM-B-STATUS  KV_AFO_0034 Umsetzung der SM-B-Status Account durch den Leiter der Attributsbestätigenden Stelle sämtliche Berechtigungen entzogen und der Account gesperrt.  eines KV-Mitarbeiters so lange die Accountinformationen vorhalten, wie dies zum Zwecke der Dokumentation von aktiven Anträgen und SM-Bs erforderlich ist.   beschrieben. Der TSP MUSS mindestens die in ANTRAGS-  UND SM-B-STATUS  sowie die GESAMTÜBERSICHT ZU ANTRAGS-  UND SM-B-STATUS
+beschrieben. Der TSP MUSS mindestens die in
+
+**TABELLE 3:** **ANTRAGS- UND SM-B-STATUS** sowie die  **GESAMTÜBERSICHT ZU ANTRAGS- UND SM-B-STATUS**
+
+Account durch den Leiter der Attributsbestätigenden Stelle sämtliche Berechtigungen entzogen und der Account gesperrt.  eines KV-Mitarbeiters so lange die Accountinformationen vorhalten, wie dies zum Zwecke der Dokumentation von aktiven Anträgen und SM-Bs erforderlich ist.
 
 ---
 
@@ -598,8 +601,21 @@ Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
 ---
 
-\| ELEMENT | BESCHREIBUNG |
-| 4 In diesem Kapitel werden die technischen Use Cases (TUC) im Detail beschrieben und TUC-spezifische | 4.1 Bei der Vorbefüllung werden Daten von der KV an den TSP übermittelt, die im Antragsprozess genutzt |
+# 4 FUNKTIONSMERKMALE
+
+In diesem Kapitel werden die technischen Use Cases (TUC) im Detail beschrieben und TUC-spezifische  Anforderungen definiert.
+
+## 4.1 VORBEFÜLLUNG
+
+Bei der Vorbefüllung werden Daten von der KV an den TSP übermittelt, die im Antragsprozess genutzt  werden. Die Übermittlung der Daten dient u. a. der Vermeidung von Eingabefehlern sowie der Erhöhung  der Effizienz bei der Antragstellung und Bearbeitung.
+
+Die Vorbefüllung geschieht über die SOAP-Schnittstelle.
+
+### 4.1.1 TUC-Beschreibung
+
+**Tabelle 4: TUC_Vorbefüllung**
+
+| ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Vorbefüllung |
 | Beschreibung | Bei der Vorbefüllung werden Daten von der KV an den TSP übermittelt, die im  Die Vorbefüllung kann von der KV optional genutzt werden. |
@@ -611,30 +627,23 @@ Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 | Standardablauf | Siehe **ABBILDUNG 2:**** |
 | Varianten/ | Auch wenn keine „Vorbefüllung“ erfolgt, kann der Antragssteller einen Antrag |
 | Fehlerfälle | • |
-|  | Die Vorbefüllung geschieht über die SOAP-Schnittstelle. **4.1.1 Tabelle 4: TUC_Vorbefüllung  ELEMENT** |
-| **BESCHREIBUNG** | Name |
 
 Seite 18 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für  das KV-System / Version: 2.1 / 10.06 2026
 
-FUNKTIONSMERKMALE Anforderungen definiert.  VORBEFÜLLUNG werden. Die Übermittlung der Daten dient u. a. der Vermeidung von Eingabefehlern sowie der Erhöhung der Effizienz bei der Antragstellung und Bearbeitung. TUC-Beschreibung Alternativen Antragsprozess genutzt werden. Die Übermittlung der Daten dient u. a. zur Vermeidung von Eingabefehlern sowie Reduzierung des Aufwandes für den Antragsteller. Daten für die Vorbefüllung an den TSP.  mittels SOAP übermittelt wird. Der TSP erzeugt für jede Vorbefüllung eine eindeutige Vorgangsnummer und teilt sie der KV mit (Übergabe im Attribut „VorgangsNr“ der Rückmeldung des TSP an die KV).  diese Daten im Portal des TSP aufrufen. Dazu teilt die KV diese Vorgangsnummer dem Antragsteller mit (dies ist außerhalb der Betrachtungsgrenzen dieser Spezifikation). Weiterhin kann der Antragsteller mit der Vorgangsnummer auf Anträge zugreifen, die auf Basis dieser Vorbefüllung erstellt wurden. Vorgangsnummern vor und können zur Antragstellung durch den Antragsteller im Portal genutzt werden.  VORBEFÜLLUNG stellen. In diesem Fall muss er alle Angaben selbst tätigen. Wenn die Authentisierung der KV fehlschlägt, lässt der TSP keine Übertragung der Vorbefüllungsdaten zu.
+Alternativen Antragsprozess genutzt werden. Die Übermittlung der Daten dient u. a. zur Vermeidung von Eingabefehlern sowie Reduzierung des Aufwandes für den Antragsteller. Daten für die Vorbefüllung an den TSP.  mittels SOAP übermittelt wird. Der TSP erzeugt für jede Vorbefüllung eine eindeutige Vorgangsnummer und teilt sie der KV mit (Übergabe im Attribut „VorgangsNr“ der Rückmeldung des TSP an die KV).  diese Daten im Portal des TSP aufrufen. Dazu teilt die KV diese Vorgangsnummer dem Antragsteller mit (dies ist außerhalb der Betrachtungsgrenzen dieser Spezifikation). Weiterhin kann der Antragsteller mit der Vorgangsnummer auf Anträge zugreifen, die auf Basis dieser Vorbefüllung erstellt wurden. Vorgangsnummern vor und können zur Antragstellung durch den Antragsteller im Portal genutzt werden.  VORBEFÜLLUNG stellen. In diesem Fall muss er alle Angaben selbst tätigen. Wenn die Authentisierung der KV fehlschlägt, lässt der TSP keine Übertragung der Vorbefüllungsdaten zu.
 
 ---
 
-\| • | Nichtfunktionale |
 | ELEMENT | BESCHREIBUNG |
 |---|---|
-| Keine | **4.1.2** |
-| Der Ablauf für die Vorbefüllung ergibt sich aus der folgenden Abbildung: | **Abbildung 2: Vorbefüllung** |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 |  | •  •  • |
 | Nichtfunktionale | Keine |
+
+### 4.1.2 Ablauf
+
+Der Ablauf für die Vorbefüllung ergibt sich aus der folgenden Abbildung:
+
+**Abbildung 2: Vorbefüllung**
 
 Seite 19 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
@@ -698,8 +707,19 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
-\| ELEMENT | BESCHREIBUNG |
-| erfolgreicher Identitätsprüfung durch den TSP) müssen die Anträge von der KV freigegeben werden, bevor  4.3 | beschrieben.  Anträge können mit und ohne Vorbefüllung gestellt werden. Im Falle einer Vorbefüllung erhält der |
+erfolgreicher Identitätsprüfung durch den TSP) müssen die Anträge von der KV freigegeben werden, bevor  die zugehörigen SM-B produziert werden dürfen. Dies wird in Abschnitt 4.3 beschrieben.
+
+Anträge können mit und ohne Vorbefüllung gestellt werden. Im Falle einer Vorbefüllung erhält der  Antragsteller die Vorgangsnummer vorher von der KV (die Vorgangsnummer wurde vorab vom TSP  generiert und an die KV übermittelt). Dies ist außerhalb der Betrachtungsgrenzen dieser Spezifikation.  Gespeicherte Anträge können erneut bearbeitet werden, solange die Anträge noch nicht mit dem Status  „zur Freigabe“ versehen sind.
+
+Der Zugriff auf Antragsdaten erfordert Zugriffsdaten (z.B. Referenznummer/Vorgangsnummer und  Passwort), welche der Antragsteller zur Authentisierung nutzt. Die Authentisierung wird in Abschnitt 3.2.1  beschrieben.
+
+Alternativ zur Antragsstellung im Antragsportal ist auch ein Vertragsabschluss auf einem anderen Weg  möglich. In diesem Fall sind die Antragsdaten in das Portal zu überführen, so dass diese im weiteren  Prozessverlauf (Freigabe, Lieferung/Freischaltung und Sperrung) verwendet werden können. Bei  Abonnements oder Folgeidentitäten ist pro separater SM-B-Produktion erneut die Freigabe der KV  einzuholen.
+
+### 4.2.1 TUC-Beschreibung
+
+**Tabelle 5: TUC_Antragsstellung**
+
+| ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Antragstellung |
 | Beschreibung | Der Antragsteller bestellt eine HSM-B bzw. eine oder mehrere SMC-Bs beim TSP für |
@@ -709,31 +729,23 @@ das KV-System / Version: 2.1 / 10.06 2026
 | Ausgangsdaten | Antrag als PDF oder E-Mail mit Antragsdaten, Vorgangsnummer sowie Zugriffsdaten |
 | Nachbedingungen | Der Antrag ist im Status „zur Freigabe“ oder „Antrag in |
 | Standardablauf | Siehe **ABBILDUNG 3:** . |
-| Der Zugriff auf Antragsdaten erfordert Zugriffsdaten (z.B. Referenznummer/Vorgangsnummer und | 3.2.1  Alternativ zur Antragsstellung im Antragsportal ist auch ein Vertragsabschluss auf einem anderen Weg **4.2.1** |
-| **Tabelle 5: TUC_Antragsstellung** | **ELEMENT  BESCHREIBUNG ** Name  Antragstellung  Beschreibung  Der Antragsteller bestellt eine HSM-B bzw. eine oder mehrere SMC-Bs beim TSP für  Auslöser  Der Antragsteller benötigt eine HSM-B bzw. eine oder mehrere SMC-Bs. |
-| Vorbedingungen | Vorbedingungen für Varianten: |
 
 Seite 21 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-die zugehörigen SM-B produziert werden dürfen. Dies wird in Abschnitt Antragsteller die Vorgangsnummer vorher von der KV (die Vorgangsnummer wurde vorab vom TSP generiert und an die KV übermittelt). Dies ist außerhalb der Betrachtungsgrenzen dieser Spezifikation. Gespeicherte Anträge können erneut bearbeitet werden, solange die Anträge noch nicht mit dem Status „zur Freigabe“ versehen sind. Passwort), welche der Antragsteller zur Authentisierung nutzt. Die Authentisierung wird in Abschnitt möglich. In diesem Fall sind die Antragsdaten in das Portal zu überführen, so dass diese im weiteren Prozessverlauf (Freigabe, Lieferung/Freischaltung und Sperrung) verwendet werden können. Bei Abonnements oder Folgeidentitäten ist pro separater SM-B-Produktion erneut die Freigabe der KV einzuholen. TUC-Beschreibung seine Praxis bzw. Praxen (z.B. Nebenbetriebsstätten).  Neuer Antrag: Es sind für den Antragsteller keine Daten im Portal vorhanden. Zwischengespeicherten Antrag bearbeiten: Der Antragsteller muss sich im Portal authentisieren. Vorbefüllten Antrag ergänzen: Der Antragsteller gelangt über die Vorgangsnummer oder durch einen Link zum vorbefüllten Antrag. Für einen Bestellauftrag für Folgeidentitäten liegen als Ausgangsdaten die Antragsdaten mindestens einer bisherigen SM-B im Portal vor. [KBV_ITV_VGEX_Schnittstelle_SMCB].  Neuer Antrag im Antragsportal: mit leerem Antragsformular beginnen Neue Bestellung (Bestellweg außerhalb des Antragsportals): Antragsdaten aus der Bestellung Zwischengespeicherten Antrag bearbeiten: Zugriffsdaten des Antragstellers Vorbefüllten Antrag bearbeiten: Vorgangsnummer für die weitere Bearbeitung des Antrags/der Zertifikate.  Bearbeitung/zwischengespeichert“. ANTRAGSTELLUNGdas KV-System / Version: 2.1 / 10.06 2026
+seine Praxis bzw. Praxen (z.B. Nebenbetriebsstätten).  Neuer Antrag: Es sind für den Antragsteller keine Daten im Portal vorhanden. Zwischengespeicherten Antrag bearbeiten: Der Antragsteller muss sich im Portal authentisieren. Vorbefüllten Antrag ergänzen: Der Antragsteller gelangt über die Vorgangsnummer oder durch einen Link zum vorbefüllten Antrag. Für einen Bestellauftrag für Folgeidentitäten liegen als Ausgangsdaten die Antragsdaten mindestens einer bisherigen SM-B im Portal vor. [KBV_ITV_VGEX_Schnittstelle_SMCB].  Neuer Antrag im Antragsportal: mit leerem Antragsformular beginnen Neue Bestellung (Bestellweg außerhalb des Antragsportals): Antragsdaten aus der Bestellung Zwischengespeicherten Antrag bearbeiten: Zugriffsdaten des Antragstellers Vorbefüllten Antrag bearbeiten: Vorgangsnummer für die weitere Bearbeitung des Antrags/der Zertifikate.  Bearbeitung/zwischengespeichert“. ANTRAGSTELLUNGdas KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
 
-\| • | • |
 | ELEMENT | BESCHREIBUNG |
 |---|---|
-| • |  |
-| • |  |
-| • |  |
-| Nichtfunktionale | Keine **4.2.2** Der Ablauf für die Antragstellung ergibt sich aus der folgenden Abbildung: |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 | Varianten/ | •  • |
 | Fehlerfälle | •  •  •  •  • |
 | Nichtfunktionale | Keine |
+
+### 4.2.2 Ablauf
+
+Der Ablauf für die Antragstellung ergibt sich aus der folgenden Abbildung:
 
 Seite 22 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
@@ -757,8 +769,21 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
+**KV_AFO_0047 Anzeige von Hilfetexten im Antragsportal**
+
+Der TSP MUSS dem Antragsteller im Antragsportal Hilfetexte zum Ausfüllen der Eingabefelder anzeigen.
+
+**KV_AFO_0048 Anzeige von Informationen im Antragsportal**
+
+Der TSP MUSS dem Antragsteller im Antragsportal eine Auswahl an Informationen (z.B. Anleitungen,  Antragsbedingungen, Zuständiger Kontakt der KV) anzeigen oder zum Download bereitstellen.
+
+**KV_AFO_0049 Inhalt des Antragsformulars**
+
+Der TSP MUSS dem Antragsteller im Antragsformular die Eingabe von mindestens den Feldern gemäß  **TABELLE 6:** **NOTWENDIGE DATEN EINES ANTRAGS** ermöglichen. Bei allen Eingabefeldern MUSS der TSP  jeweils kennzeichnen, ob die Eingabe durch den Antragsteller optional oder verpflichtend ist.
+
+**Tabelle 6: Notwendige Daten eines Antrags**
+
 \| FELD | BESCHREIBUNG/FORMAT | MAPPING ZUR XML-STRUKTUR |
-\|  Der TSP MUSS dem Antragsteller im Antragsportal Hilfetexte zum Ausfüllen der Eingabefelder anzeigen. |  Der TSP MUSS dem Antragsteller im Antragsportal eine Auswahl an Informationen (z.B. Anleitungen, |  Der TSP MUSS dem Antragsteller im Antragsformular die Eingabe von mindestens den Feldern gemäß |
 | Antragsteller | | |
 |---|---|---|
 | Nachname | Der Nachname des Antragstellers wird für die | HNameType:Nachname |
@@ -770,33 +795,60 @@ das KV-System / Version: 2.1 / 10.06 2026
 | Adresse der | Die Anschrift der Betriebsstättennummer wird | Institution:Anschrift: |
 | BSNR | Die Betriebsstättennummer identifiziert die  Die BSNR wird für die Freigabe des Antrags  Die BSNR wird als Zertifikatsinhalt der SM-B | InstID |
 | Profession | Der Wert MUSS entweder „Betriebsstätte Arzt“  Die Profession wird als Zertifikatsinhalt der SM- | InstProfessionItemType |
-|  |  | **TABELLE 6:** |
 
 Seite 24 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-KV_AFO_0047 Anzeige von Hilfetexten im Antragsportal  KV_AFO_0048 Anzeige von Informationen im Antragsportal Antragsbedingungen, Zuständiger Kontakt der KV) anzeigen oder zum Download bereitstellen.  KV_AFO_0049 Inhalt des Antragsformulars NOTWENDIGE DATEN EINES ANTRAGS  ermöglichen. Bei allen Eingabefeldern MUSS der TSP jeweils kennzeichnen, ob die Eingabe durch den Antragsteller optional oder verpflichtend ist. Tabelle 6: Notwendige Daten eines Antrags [GEMSPEC_PERS_SM-B] Freigabe des Antrags durch die KV geprüft.  werden für die Freigabe des Antrags durch die KV geprüft. Arzt oder Psychotherapeut im KV-System. Sie besteht aus 9 Ziffern. durch die KV geprüft.  Antrags durch die KV geprüft. Zertifikatsinhalt der SM-B benötigt.  im Rahmen der Freigabe durch die KV geprüft. StrassenAdressType Praxis oder das MVZ im KV-System. Sie besteht aus 9 Ziffern. durch die KV geprüft. benötigt. oder „Betriebsstätte Psychotherapeut“  lauten. B benötigt. das KV-System / Version: 2.1 / 10.06 2026
+[GEMSPEC_PERS_SM-B] Freigabe des Antrags durch die KV geprüft.  werden für die Freigabe des Antrags durch die KV geprüft. Arzt oder Psychotherapeut im KV-System. Sie besteht aus 9 Ziffern. durch die KV geprüft.  Antrags durch die KV geprüft. Zertifikatsinhalt der SM-B benötigt.  im Rahmen der Freigabe durch die KV geprüft. StrassenAdressType Praxis oder das MVZ im KV-System. Sie besteht aus 9 Ziffern. durch die KV geprüft. benötigt. oder „Betriebsstätte Psychotherapeut“  lauten. B benötigt. das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
 
-\| • |  | Bei Eingabefeldern mit einem begrenzten Wertebereich MUSS der TSP ein Drop-Down-Menü, Listenfeld   |
-\| FELD | BESCHREIBUNG/FORMAT | MAPPING ZUR XML-STRUKTUR |
-| Sofern der TSP sowohl SMC-B als auch HSM-B anbietet, MUSS der Antragsteller während des   | | |
+| FELD | BESCHREIBUNG/FORMAT | MAPPING ZUR XML-STRUKTUR |
 |---|---|---|
-| Sofern der TSP sowohl SMC-B als auch HSM-B anbietet, DARF eine Vorauswahl der Art der beantragten |  | Sofern der Antragsteller ein HSM-B bestellt, MUSS eine Auswahl der Anbieter von HSK/TI-Gateways |
-| eine Auswahl dessen HSK-/TI-Gateway- | können. Falls der Antragsteller kein HSM-B bestellt, DARF das eine Auswahl |  |
-| Der TSP MUSS den Antragstellern die Möglichkeit bieten, das Portal ohne vorherige Authentisierung zur |  Der TSP MUSS die Eingabe einer Vorgangsnummer oder die Nutzung eines Links mit Vorgangsnummer |  |
-| Der TSP MUSS dem Antragsteller im Antragsportal die Auswahl bieten, welche Art der Antragsstellung er | Zur Auswahl stehen: | • |
-| • | | |
-|  | • |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 |  |  | Dieser Wert wird für die Freigabe des Antrags |
+
+**Anmerkungen**
+
+-  Es wurden lediglich Format-Angaben aufgeführt, sofern diese konkreter sind als die zugehörigen  Definitionen aus der XML-Struktur [gemSpec_Pers_SMC-B].
+-  Das Erheben weiterer Daten wie z.B. Bankverbindungen und Daten zur Durchführung der sicheren  Identifizierung des Antragstellers obliegt dem TSP.
+
+**KV_AFO_0050 Anzeige von Auswahlfeldern im Antragsportal**
+
+Bei Eingabefeldern mit einem begrenzten Wertebereich MUSS der TSP ein Drop-Down-Menü, Listenfeld  oder Optionsboxen mit den möglichen Werten statt eines Freitextfelds anbieten.
+
+**KV_AFO_0137 Auswahl der Art der SM-B im Antragsprozess sofern SMC-B und HSM-B angeboten**  **werden**
+
+Sofern der TSP sowohl SMC-B als auch HSM-B anbietet, MUSS der Antragsteller während des  Antragsprozess auswählen müssen, welche Art der SM-B er beantragen möchte.
+
+**KV_AFO_0138 Keine Vorauswahl der Art der SM-B sofern SMC-B und HSM-B angeboten werden**
+
+Sofern der TSP sowohl SMC-B als auch HSM-B anbietet, DARF eine Vorauswahl der Art der beantragten  SM-B NICHT getroffen werden. Der Antragssteller MUSS selbst auswählen müssen, was er bestellen  möchte.
+
+**KV_AFO_0139 Auswahl des HSK/TI-Gateway bei der Bestellung von HSM-B**
+
+Sofern der Antragsteller ein HSM-B bestellt, MUSS eine Auswahl der Anbieter von HSK/TI-Gateways  angezeigt werden. Das Auswahlfeld MUSS entsprechend den gematik-Vorgaben vorbefüllt sein  ([gemF_Personalisierung_HSM]) und es MUSS vom Antragsteller eine Auswahl dessen HSK-/TI-Gateway-Anbieters getroffen werden können. Falls der Antragsteller kein HSM-B bestellt, DARF das eine Auswahl  der Anbieter von HSK/TI-Gateways NICHT vom Antragsteller getroffen werden.
+
+**KV_AFO_0051 Antragstellung ohne vorherige Authentisierung des Antragstellers**
+
+Der TSP MUSS den Antragstellern die Möglichkeit bieten, das Portal ohne vorherige Authentisierung zur  Antragstellung zu nutzen. In diesem Fall ist ein leeres Antragsformular anzuzeigen.
+
+**KV_AFO_0052 Antragstellung bei einem vorbefüllten Antrag nur mit Nutzung der Vorgangsnummer**
+
+Der TSP MUSS die Eingabe einer Vorgangsnummer oder die Nutzung eines Links mit Vorgangsnummer  verlangen, bevor dem Antragsteller die Anzeige und Bearbeitung eines Antragsformulars mit  vorbefüllten Werten ermöglicht wird. Der TSP MUSS hierbei sicherstellen, dass der Antrag den Status  „Antrag vorbefüllt“ hat.
+
+**KV_AFO_0053 Auswahlmöglichkeit für Antragsart im Antragsportal**
+
+Der TSP MUSS dem Antragsteller im Antragsportal die Auswahl bieten, welche Art der Antragsstellung er  verwenden will.
+
+Zur Auswahl stehen:
+
+-  Mit leerem Antrag beginnen,
+-  Gespeicherten Antrag weiterbearbeiten,
+-  Vorbefüllten Antrag weiterbearbeiten (Beachten: nach dem Speichern eines vorbefüllten Antrags  erhält der Antrag den Status „Antrag zwischengespeichert“; der Status „Antrag vorbefüllt“ wird  beibehalten, wenn das Antragsformular ohne speichern verlassen wird).
 
 Seite 25 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-[GEMSPEC_PERS_SM-B] durch die KV geprüft. Anmerkungen Es wurden lediglich Format-Angaben aufgeführt, sofern diese konkreter sind als die zugehörigen Definitionen aus der XML-Struktur [gemSpec_Pers_SMC-B]. Das Erheben weiterer Daten wie z.B. Bankverbindungen und Daten zur Durchführung der sicheren Identifizierung des Antragstellers obliegt dem TSP.  KV_AFO_0050 Anzeige von Auswahlfeldern im Antragsportal oder Optionsboxen mit den möglichen Werten statt eines Freitextfelds anbieten. KV_AFO_0137 Auswahl der Art der SM-B im Antragsprozess sofern SMC-B und HSM-B angeboten werden Antragsprozess auswählen müssen, welche Art der SM-B er beantragen möchte. KV_AFO_0138 Keine Vorauswahl der Art der SM-B sofern SMC-B und HSM-B angeboten werden SM-B NICHT getroffen werden. Der Antragssteller MUSS selbst auswählen müssen, was er bestellen möchte. KV_AFO_0139 Auswahl des HSK/TI-Gateway bei der Bestellung von HSM-B angezeigt werden. Das Auswahlfeld MUSS entsprechend den gematik-Vorgaben vorbefüllt sein ([gemF_Personalisierung_HSM]) und es MUSS vom Antragsteller Anbieters getroffen werden der Anbieter von HSK/TI-Gateways NICHT vom Antragsteller getroffen werden.  KV_AFO_0051 Antragstellung ohne vorherige Authentisierung des Antragstellers Antragstellung zu nutzen. In diesem Fall ist ein leeres Antragsformular anzuzeigen.  KV_AFO_0052 Antragstellung bei einem vorbefüllten Antrag nur mit Nutzung der Vorgangsnummer verlangen, bevor dem Antragsteller die Anzeige und Bearbeitung eines Antragsformulars mit vorbefüllten Werten ermöglicht wird. Der TSP MUSS hierbei sicherstellen, dass der Antrag den Status „Antrag vorbefüllt“ hat.  KV_AFO_0053 Auswahlmöglichkeit für Antragsart im Antragsportal verwenden will.  Mit leerem Antrag beginnen,  Gespeicherten Antrag weiterbearbeiten,  Vorbefüllten Antrag weiterbearbeiten (Beachten: nach dem Speichern eines vorbefüllten Antrags erhält der Antrag den Status „Antrag zwischengespeichert“; der Status „Antrag vorbefüllt“ wird beibehalten, wenn das Antragsformular ohne speichern verlassen wird).  das KV-System / Version: 2.1 / 10.06 2026
+[GEMSPEC_PERS_SM-B] durch die KV geprüft. das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
@@ -1030,8 +1082,11 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
-\| ELEMENT | BESCHREIBUNG |
-| 4.3.1 Tabelle 8: TUC_Freigabe | ELEMENT |
+### 4.3.1 TUC-Beschreibung
+
+**Tabelle 8: TUC_Freigabe**
+
+| ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Freigabe |
 | Beschreibung | [FG-1]: Die KV kann im  [FG-2]: Als andere Möglichkeit kann die KV über einen SOAP-Request  Nach einer Freigabe produziert der TSP die zugehörigen Zertifikate, Schlüssel,  [FG-3]: Die KV kann i |
@@ -1043,44 +1098,35 @@ das KV-System / Version: 2.1 / 10.06 2026
 | Standardablauf | Siehe **ABBILDUNG 4:**  **ABBILDUNG 5:** . |
 | Varianten/ | •  • |
 | Fehlerfälle | •  •  •  o  o |
-|  | **BESCHREIBUNG ** Name  Freigabe |
-| Beschreibung | [FG-1]: Die KV kann im |
 
 Seite 31 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für  das KV-System / Version: 2.1 / 10.06 2026
 
-TUC-Beschreibung Alternativen Freigabeportal Anträge im Status „zur Freigabe“ ablehnen oder freigeben.  Freigabeaufträge an den TSP senden.  PIN/PUK bzw. Aktivierungscode und personalisiert die SM-B.  m Freigabeportal Anträge im Status „zur Freigabe“ für eine Korrektur an den Antragsteller zurückgeben. Mail, dass neue Anträge im Status „zur Freigabe“ bereitstehen. Dies wird in [KV_AFO_0115] beschrieben.  Es liegt ein Antrag mit dem Status „zur Freigabe“ vor. Antrag hat den Status „zur Freigabe“. Personalisierte SM-B mit Schlüsseln, Zertifikaten und PIN/PUK bzw. Aktivierungscode  Benachrichtigungen an die KV  Benachrichtigung an den Antragsteller „Freigegeben“ oder „Antrag abgelehnt“. bzw. Aktivierungscode erzeugt sowie die SM-B personalisiert.  FREIGABE ÜBER DAS FREIGABEPORTAL sowie FREIGABE ÜBER Die KV kann einen Antrag ablehnen oder freigeben bzw. den Antrag zur Korrektur an den Antragsteller zurückgeben. [FG-1]: Die KV kann das Freigabeportal im Browser aufrufen und den freizugebenden Antrag aufrufen oder sie klickt auf einen Link in der Benachrichtigungs-E-Mail. Wenn die Authentisierung der KV (im Portal oder per SOAP) fehlschlägt, lässt der TSP keine Freigabe zu.  Wenn die KV die geforderten TLS-Versionen oder Ciphersuites nicht unterstützt, lässt der TSP keinen Aufbau der TLS/SSL-Verbindung zu.  Freigabeauftrag ist nicht vollständig oder korrekt befüllt. Reaktion: [FG-1]: Der TSP zeigt im Portal eine Fehlermeldung an und lässt die „Freigabe“ oder „Ablehnung“ nicht zu. [FG-2]: Der TSP sendet eine entsprechende Fehlermeldung per SOAP an die KV.
+Alternativen Freigabeportal Anträge im Status „zur Freigabe“ ablehnen oder freigeben.  Freigabeaufträge an den TSP senden.  PIN/PUK bzw. Aktivierungscode und personalisiert die SM-B.  m Freigabeportal Anträge im Status „zur Freigabe“ für eine Korrektur an den Antragsteller zurückgeben. Mail, dass neue Anträge im Status „zur Freigabe“ bereitstehen. Dies wird in [KV_AFO_0115] beschrieben.  Es liegt ein Antrag mit dem Status „zur Freigabe“ vor. Antrag hat den Status „zur Freigabe“. Personalisierte SM-B mit Schlüsseln, Zertifikaten und PIN/PUK bzw. Aktivierungscode  Benachrichtigungen an die KV  Benachrichtigung an den Antragsteller „Freigegeben“ oder „Antrag abgelehnt“. bzw. Aktivierungscode erzeugt sowie die SM-B personalisiert.  FREIGABE ÜBER DAS FREIGABEPORTAL sowie FREIGABE ÜBER Die KV kann einen Antrag ablehnen oder freigeben bzw. den Antrag zur Korrektur an den Antragsteller zurückgeben. [FG-1]: Die KV kann das Freigabeportal im Browser aufrufen und den freizugebenden Antrag aufrufen oder sie klickt auf einen Link in der Benachrichtigungs-E-Mail. Wenn die Authentisierung der KV (im Portal oder per SOAP) fehlschlägt, lässt der TSP keine Freigabe zu.  Wenn die KV die geforderten TLS-Versionen oder Ciphersuites nicht unterstützt, lässt der TSP keinen Aufbau der TLS/SSL-Verbindung zu.  Freigabeauftrag ist nicht vollständig oder korrekt befüllt. Reaktion: [FG-1]: Der TSP zeigt im Portal eine Fehlermeldung an und lässt die „Freigabe“ oder „Ablehnung“ nicht zu. [FG-2]: Der TSP sendet eine entsprechende Fehlermeldung per SOAP an die KV.
 
 ---
 
-\| BESCHREIBUNG | • |
 | ELEMENT | BESCHREIBUNG |
 |---|---|
-| • |  |
-| Nichtfunktionale | Keine **4.3.2** Der Ablauf für die Freigabe über das Freigabeportal und die SOAP ergibt sich aus den folgenden |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 |  | •  • |
 | Nichtfunktionale | Keine |
 
+### 4.3.2 Ablauf
+
+Der Ablauf für die Freigabe über das Freigabeportal und die SOAP ergibt sich aus den folgenden  Abbildungen:
+
 Seite 32 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-Prüfung des TSPs ergibt Fehler oder Abweichungen. Reaktion: Der TSP informiert die KV und setzt den Status des Antrags auf „Freigabe abgelehnt (TSP)“. Es gibt keinen passenden, freizugebenden Antrag ([FG-2]). Reaktion: Der TSP sendet eine entsprechende Fehlermeldung an die KV.  Anforderungen Abbildungen: das KV-System / Version: 2.1 / 10.06 2026
+Prüfung des TSPs ergibt Fehler oder Abweichungen. Reaktion: Der TSP informiert die KV und setzt den Status des Antrags auf „Freigabe abgelehnt (TSP)“. Es gibt keinen passenden, freizugebenden Antrag ([FG-2]). Reaktion: Der TSP sendet eine entsprechende Fehlermeldung an die KV.  Anforderungen das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
 
-| Abbildung | 4: | Freigabe | ü b erd | as Freigabeportal |
-|---|---|---|---|---|
-| Seite 33 | von 57 / KBV | / | Anforderungskatalog | SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
-| das | KV-System / | Version: 2.1 | / 10.06 2026 |  |
+| Abbildung | 4: | Freigabe über | das Freigabeportal |
+|---|---|---|---|
+| Seite 33 | von 57 / KBV | / | Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für |
+| das | KV-System / Version: | 2.1 / 10.06 | 2026 |
 
-Abbildung 4: Freigabe über das Freigabeportal Seite 33 von 57 / KBV / Anforderungskatalog SM-B Anbieter - das KV-System / Version: 2.1 / 10.06 2026 Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
+Abbildung 4: Freigabe über das Freigabeportal Seite 33 von 57 / KBV / Anforderungskatalog SM-B Anbieter - das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
@@ -1090,7 +1136,7 @@ Abbildung 4: Freigabe über das Freigabeportal Seite 33 von 57 / KBV / Anforderu
 
 **KV_AFO_0069 Ablauf der Freigabe wie in der Beschreibung**
 
-Der TSP MUSS es der KV ermöglichen, die Freigabe wie in  **FREIGABEPORTAL** sowie **ABBILDUNG 5:** **FREIGABE ÜBER SOAP** durchzuführen.
+Der TSP MUSS es der KV ermöglichen, die Freigabe wie in **ABBILDUNG 4:** **FREIGABE ÜBER DAS**  **FREIGABEPORTAL** sowie **ABBILDUNG 5:** **FREIGABE ÜBER SOAP** und **TABELLE 8:** **TUC_FREIGABE** dargestellt  durchzuführen.
 
 **KV_AFO_0070 Anzeige der Detailansicht eines freizugebenden Antrags**
 
@@ -1099,9 +1145,9 @@ Der TSP MUSS es den KVen ermöglichen, die Detailansicht eines freizugebenen Ant
 -  Die KV nutzt die Such-/Filterfunktionen des Freigabeportals.
 -  Die KV klickt auf einen Link in der E-Mail mit der Benachrichtigung, dass ein freizugebender Antrag  vorliegt.
 
-Seite 34 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für  das KV-System / Version: 2.1 / 10.06 2026
+Seite 34 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-**ABBILDUNG 4:** **FREIGABE ÜBER DAS**  und **TABELLE 8:** **TUC_FREIGABE** dargestellt
+das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
@@ -1192,42 +1238,51 @@ Seite 36 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP
 
 ---
 
-\| ELEMENT | BESCHREIBUNG |
-|  Der TSP MUSS den KVen im Freigabeportal eine Möglichkeit bieten, einen Antrag zur Korrektur an den | Anmerkung 4.4 |
+**KV_AFO_0136 Korrektur von Antragsdaten nach Übergang in den Status „zur Freigabe“**
+
+Der TSP MUSS den KVen im Freigabeportal eine Möglichkeit bieten, einen Antrag zur Korrektur an den  Antragsteller zurückzugeben und hierfür einen Grund anzugeben. Der TSP MUSS hierbei gewährleisten,  dass die identifizierenden Daten des Antragstellers gemäß [KV_AFO_0134] nach der Korrektur weiterhin  verifiziert sind und dass keine erneute sichere Identifizierung des Antragstellers durchgeführt werden  muss. Der TSP MUSS den Antragsteller über die Veranlassung einer Korrektur durch die KV inkl. Grund  per E-Mail informieren und der KV, welche die Korrektur initiiert hat, eine Kopie dieser Mail senden.
+
+**Anmerkung**: Die hier definierte Funktionalität dient zur Korrektur von Anträgen, bei denen die KV im  Rahmen der Freigabe beispielsweise offensichtliche Tippfehler (z. B. bei der LANR) festgestellt hat. Bei  Anträgen, die in den Status „zur Freigabe“ übergehen, wurde gemäß [KV_AFO_0034] bereits eine  sichere Identifizierung erfolgreich durchgeführt. Die Korrektheit der identifizierenden Daten kann der  TSP beispielsweise sicherstellen, indem er die Bearbeitung dieser bei einem durch die KV  zurückgegebenen Antrag sperrt.
+
+## 4.4 LIEFERUNG
+
+Nach Fertigstellung der SM-B liefert der TSP sie an den Antragsteller aus. Die Auslieferung von SMC-B  erfolgt über das Verfahren „Einschreiben Einwurf , die Auslieferung von HSM-B gemäß Vorgaben der  gematik [gemF_Personalisierung_HSM].
+
+Zeitversetzt zur Auslieferung einer SM-B versendet der TSP den Brief mit PIN/PUK bzw. Aktivierungscode an  den Antragsteller per „Einschreiben Einwurf“
+
+Der Antragsteller bestätigt den Erhalt der SM-B im Antragsportal über die Funktion „Freischaltung“. Nach  der Freischaltung ermöglicht der TSP die Überprüfung der Gültigkeit der X.509-Zertifikate am OCSP-Server.
+
+### 4.4.1 TUC-Beschreibung
+
+**Tabelle 10: TUC_Lieferung**
+
+| ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Lieferung |
 | Beschreibung | Bei der Lieferung werden fertiggestellte SMC-B vom TSP an die angegebene  Der TSP versendet den Brief mit PIN/PUK bzw. Aktivierungscode an den |
 | Auslöser | Der TSP will dem Antragsteller die beantragte(n) SM-B ausliefern. |
 | Vorbedingungen | •  •  • |
 | Eingangsdaten | •  •  •  •  •  • |
-| Nach Fertigstellung der SM-B liefert der TSP sie an den Antragsteller aus. Die Auslieferung von SMC-B | Zeitversetzt zur Auslieferung einer SM-B versendet der TSP den Brief mit PIN/PUK bzw. Aktivierungscode an  Der Antragsteller bestätigt den Erhalt der SM-B **4.4.1 Tabelle 10: TUC_Lieferung** |
-|  | **ELEMENT** |
-|  | **BESCHREIBUNG ** Name  Lieferung |
-| Beschreibung | Bei der Lieferung werden fertiggestellte SMC-B vom TSP an die angegebene |
-| Der TSP versendet den Brief mit PIN/PUK bzw. Aktivierungscode an den | Auslöser  Der TSP will dem Antragsteller die beantragte(n) SM-B ausliefern.   Vorbedingungen  •  •  •  Eingangsdaten |
-| • |  |
 
 Seite 37 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-KV_AFO_0136 Korrektur von Antragsdaten nach Übergang in den Status „zur Freigabe“ Antragsteller zurückzugeben und hierfür einen Grund anzugeben. Der TSP MUSS hierbei gewährleisten, dass die identifizierenden Daten des Antragstellers gemäß [KV_AFO_0134] nach der Korrektur weiterhin verifiziert sind und dass keine erneute sichere Identifizierung des Antragstellers durchgeführt werden muss. Der TSP MUSS den Antragsteller über die Veranlassung einer Korrektur durch die KV inkl. Grund per E-Mail informieren und der KV, welche die Korrektur initiiert hat, eine Kopie dieser Mail senden. : Die hier definierte Funktionalität dient zur Korrektur von Anträgen, bei denen die KV im Rahmen der Freigabe beispielsweise offensichtliche Tippfehler (z. B. bei der LANR) festgestellt hat. Bei Anträgen, die in den Status „zur Freigabe“ übergehen, wurde gemäß [KV_AFO_0034] bereits eine sichere Identifizierung erfolgreich durchgeführt. Die Korrektheit der identifizierenden Daten kann der TSP beispielsweise sicherstellen, indem er die Bearbeitung dieser bei einem durch die KV zurückgegebenen Antrag sperrt. LIEFERUNG erfolgt über das Verfahren „ Einschreiben Einwurf , die Auslieferung von HSM-B gemäß Vorgaben der gematik [gemF_Personalisierung_HSM]. per „Einschreiben Einwurf“ im Antragsportal über die Funktion „Freischaltung“. Nach der Freischaltung ermöglicht der TSP die Überprüfung der Gültigkeit der X.509-Zertifikate am OCSP-Server. TUC-Beschreibung Lieferanschrift des Antragstellers versendet bzw. fertiggestellte, kartenungebundene SM-B an den HSK des Antragstellers übermittelt.  Antragsteller. Zur Freischaltung der Zertifikate der SM-B ruft der Antragsteller das Antragsportal auf und gibt die zugehörigen Zugriffsdaten ein. Der TSP ermöglicht im Anschluss die Überprüfung der X.509-Zertifikate am OCSP-Server und informiert den Antragsteller über die erfolgreiche Freischaltung.  Der TSP hat die SM-B produziert.  Der TSP hat einen Brief mit PIN/PUK bzw. Aktivierungscode erstellt.  Der Antragsteller kennt die Zugriffsdaten für das Antragsportal.  Name und Lieferanschrift des Antragstellers / Empfängers, SM-B,  Für SMC-B: Kartennummer Für HSM-B: HSK- oder TI-Gateway-Anbieter des Antragstellers Brief mit PIN/PUK bzw. Aktivierungscode,  Zugriffsdaten zum Antragsportal. das KV-System / Version: 2.1 / 10.06 2026
+Lieferanschrift des Antragstellers versendet bzw. fertiggestellte, kartenungebundene SM-B an den HSK des Antragstellers übermittelt.  Antragsteller. Zur Freischaltung der Zertifikate der SM-B ruft der Antragsteller das Antragsportal auf und gibt die zugehörigen Zugriffsdaten ein. Der TSP ermöglicht im Anschluss die Überprüfung der X.509-Zertifikate am OCSP-Server und informiert den Antragsteller über die erfolgreiche Freischaltung.  Der TSP hat die SM-B produziert.  Der TSP hat einen Brief mit PIN/PUK bzw. Aktivierungscode erstellt.  Der Antragsteller kennt die Zugriffsdaten für das Antragsportal.  Name und Lieferanschrift des Antragstellers / Empfängers, SM-B,  Für SMC-B: Kartennummer Für HSM-B: HSK- oder TI-Gateway-Anbieter des Antragstellers Brief mit PIN/PUK bzw. Aktivierungscode,  Zugriffsdaten zum Antragsportal. das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
 
-\| Nachbedingungen  Der TSP informiert den Antragsteller über die Auslieferung sowie Freischaltung | Standardablauf  Siehe |
 | ELEMENT | BESCHREIBUNG |
 |---|---|
-| **ABBILDUNG 6:** |  |
-| Varianten/ | -  Fehlerfälle |
-| • |  |
-| o | o  o  • |
-|  | Nichtfunktionale  Keine **4.4.2** Der Ablauf einer Lieferung (pro SM-B) ergibt sich aus der folgenden Abbildung: |
 | Ausgangsdaten | •  • |
 | Nachbedingungen | Der TSP informiert den Antragsteller über die Auslieferung sowie Freischaltung |
 | Standardablauf | Siehe **ABBILDUNG 6:** |
 | Varianten/ | - |
 | Fehlerfälle | •  o  o  o  • |
 | Nichtfunktionale | Keine |
+
+### 4.4.2 Ablauf
+
+Der Ablauf einer Lieferung (pro SM-B) ergibt sich aus der folgenden Abbildung:
 
 Seite 38 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für  das KV-System / Version: 2.1 / 10.06 2026
 
@@ -1237,10 +1292,10 @@ Alternativen Anforderungen E-Mail an den Antragsteller mit dem Status der Auslie
 
 | Abbildung | 6: | Lieferung |
 |---|---|---|
-| Seite 39 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
+| Seite 39 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für |
 | das | KV-System / Version: | 2.1 / 10.06 2026 |
 
-Abbildung 6: Lieferung Seite 39 von 57 / KBV / Anforderungskatalog SM- das KV-System / Version: 2.1 / 10.06 2026 Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
+Abbildung 6: Lieferung Seite 39 von 57 / KBV / Anforderungskatalog SM- das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
@@ -1293,36 +1348,46 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
-\| ELEMENT | BESCHREIBUNG |
-|  Wenn der Zustand des Antrags auf „Fristüberschreitung Empfangsbestätigung“ gesetzt ist, MUSS der | Falls eine bestellte SM-B  4.5 |
+**KV_AFO_0087 Lieferung fehlgeschlagen - Ersatzprozess**
+
+Wenn der Zustand des Antrags auf „Fristüberschreitung Empfangsbestätigung“ gesetzt ist, MUSS der  TSP dem Antragsteller im Portal die Möglichkeit geben, die SM-B freizuschalten oder anzugeben, dass  die SM-B und/oder der Brief mit PIN/PUK bzw. Aktivierungscode nicht angekommen ist.
+
+Falls eine bestellte SM-B nicht angekommen ist, MUSS der TSP den Status auf „Zertifikate endgültig  nicht freigeschaltet“ setzen. In diesem Fall SOLL der TSP eine Möglichkeit zur Bestellung einer  Ersatzidentität mit den identischen Informationen des Antragstellers und der Praxis anbieten.
+
+## 4.5 SPERRUNG
+
+Zertifikate können beim TSP gesperrt werden. Dafür gibt es die folgenden Varianten:
+
+-  [SP-1]: Antragsteller sperrt Zertifikate im Antragsportal,
+-  [SP-2]: KV sperrt Zertifikate im Freigabeportal,
+-  [SP-3]: KV sperrt Zertifikate über die SOAP-Schnittstelle,
+-  [SP-4]: Antragsteller sperrt Zertifikate schriftlich.
+
+Ein telefonischer Sperrweg durch den Antragsteller KANN  vergleichbar mit [SP-4]  durch den TSP  angeboten werden.
+
+Es ist hervorzuheben, dass eine KV nur sperrberechtigt ist für diejenigen SM-B , deren Anträge sie auch  bestätigt hat. Der Umzug einer Praxis in ein anderes KV-Gebiet ändert die Zuständigkeit sowie die  Betriebsstättennummer der Praxis, so dass eine neue SM-B beantragt werden muss.
+
+### 4.5.1 TUC-Beschreibung
+
+**Tabelle 11: TUC_Sperrung**
+
+| ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Sperrung |
 | Beschreibung | •  •  •  Nach einer Prüfung sperrt der TSP alle Zertifikate der SM-B. Im Falle von [SP-2] |
 | Auslöser | Die Zertifikate einer SM-B sollen gesperrt werden, z.B., weil der Antragsteller bzw. |
-| Vorbedingungen | Eine TLS-Verbindung wurde aufgebaut.   Die zu sperrenden Zertifikate befinden sich in einem sperrbaren Status.   •  o  •  o  Zertifikate können beim TSP gesperrt werden. Dafür gibt es die folgenden Varianten:  •   •  • |
-|  | • |
-|  | Ein telefonischer Sperrweg durch den Antragsteller KANN  Es ist hervorzuheben, dass eine KV nur sperrberechtigt ist für diejenigen SM-B , deren Anträge sie auch **4.5.1 Tabelle 11: TUC_Sperrung  ELEMENT** |
-|  | **BESCHREIBUNG** |
-| Name | Sperrung |
-| Beschreibung | •  •  • |
-|  | Nach einer Prüfung sperrt der TSP alle Zertifikate der SM-B. Im Falle von [SP-2] |
-| Auslöser | Die Zertifikate einer SM-B sollen gesperrt werden, z.B., weil der Antragsteller bzw.  Vorbedingungen  Eine TLS-Verbindung wurde aufgebaut.   Die zu sperrenden Zertifikate befinden sich in einem sperrbaren Status.   •  o  •  o |
-|  |  |
+| Vorbedingungen | Eine TLS-Verbindung wurde aufgebaut.   Die zu sperrenden Zertifikate befinden sich in einem sperrbaren Status.   •  o  •  o |
 
 Seite 41 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-KV_AFO_0087 Lieferung fehlgeschlagen - Ersatzprozess TSP dem Antragsteller im Portal die Möglichkeit geben, die SM-B freizuschalten oder anzugeben, dass die SM-B und/oder der Brief mit PIN/PUK bzw. Aktivierungscode nicht angekommen ist.  nicht angekommen ist, MUSS der TSP den Status auf „Zertifikate endgültig nicht freigeschaltet“ setzen. In diesem Fall SOLL der TSP eine Möglichkeit zur Bestellung einer Ersatzidentität mit den identischen Informationen des Antragstellers und der Praxis anbieten. SPERRUNG [SP-1]: Antragsteller sperrt Zertifikate im Antragsportal,  [SP-2]: KV sperrt Zertifikate im Freigabeportal,  [SP-3]: KV sperrt Zertifikate über die SOAP-Schnittstelle,  [SP-4]: Antragsteller sperrt Zertifikate schriftlich.  vergleichbar mit [SP-4]  durch den TSP angeboten werden. bestätigt hat. Der Umzug einer Praxis in ein anderes KV-Gebiet ändert die Zuständigkeit sowie die Betriebsstättennummer der Praxis, so dass eine neue SM-B beantragt werden muss. TUC-Beschreibung [SP-1]: Ein Antragsteller gibt im Antragsportal Zugriffsdaten der SM-B ein, der die zu sperrenden Zertifikate zugehören.  [SP-2]: Eine KV sucht im Freigabeportal die SM-B, zu der die zu sperrenden Zertifikate gehören, und löst einen Sperrauftrag aus.  [SP-3]: Eine KV sendet einen Sperrauftrag über die SOAP-Schnittstelle an den TSP. und [SP-3] sperrt der TSP auch alle Zertifikate weiterer SM-B der gleichen Institution (SM-B, die derselben BSNR zugeordnet sind).  die Praxis die SMC-B verloren hat oder sich Angaben im Zertifikat (BSNR) geändert haben.  [SP-1]: Der Antragsteller kennt die Zugriffsdaten der SM-B, der die zu sperrenden Zertifikate zugehören (falls diese Daten nicht bekannt sind, kann der Antragsteller auch auf schriftlichem Wege sperren, siehe [SP-4]). [SP-2]: Die KV ist im Portal authentisiert. das KV-System / Version: 2.1 / 10.06 2026
+[SP-1]: Ein Antragsteller gibt im Antragsportal Zugriffsdaten der SM-B ein, der die zu sperrenden Zertifikate zugehören.  [SP-2]: Eine KV sucht im Freigabeportal die SM-B, zu der die zu sperrenden Zertifikate gehören, und löst einen Sperrauftrag aus.  [SP-3]: Eine KV sendet einen Sperrauftrag über die SOAP-Schnittstelle an den TSP. und [SP-3] sperrt der TSP auch alle Zertifikate weiterer SM-B der gleichen Institution (SM-B, die derselben BSNR zugeordnet sind).  die Praxis die SMC-B verloren hat oder sich Angaben im Zertifikat (BSNR) geändert haben.  [SP-1]: Der Antragsteller kennt die Zugriffsdaten der SM-B, der die zu sperrenden Zertifikate zugehören (falls diese Daten nicht bekannt sind, kann der Antragsteller auch auf schriftlichem Wege sperren, siehe [SP-4]). [SP-2]: Die KV ist im Portal authentisiert. das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
 
-\| • | Ausgangsdaten  Sperrbestätigung |
 | ELEMENT | BESCHREIBUNG |
 |---|---|
-| Nachbedingungen | Zu sperrende Zertifikate sind gesperrt. |
-| Standardablauf | Siehe **ABBILDUNG 7:**  sowie **ABBILDUNG 8:**   Varianten/  Bei [SP-2] kann die KV im Freigabeportal die SM-B auswählen, deren Zertifikate |
-| Fehlerfälle | • |
-|  | o  •  o  o  •  o  o  o |
+|  | o  o  o |
 |  | • |
 | Eingangsdaten | •  •  • |
 | Ausgangsdaten | Sperrbestätigung |
@@ -1345,10 +1410,10 @@ Die KV kennt die Vorgangsnummer oder andere Daten, mit denen er den Antrag bzw. 
 
 | Abbildung | 7: | Sperrung | durch Antragsteller |
 |---|---|---|---|
-| Seite 43 | von 57 / KBV | / | Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
+| Seite 43 | von 57 / KBV | / | Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für |
 | das | KV-System / Version: | 2.1 / 10.06 | 2026 |
 
-Abbildung 7: Sperrung durch Antragsteller Seite 43 von 57 / KBV / Anforderungskatalog SM-B Anbieter - das KV-System / Version: 2.1 / 10.06 2026 Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
+Abbildung 7: Sperrung durch Antragsteller Seite 43 von 57 / KBV / Anforderungskatalog SM-B Anbieter - das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
@@ -1358,15 +1423,15 @@ Abbildung 7: Sperrung durch Antragsteller Seite 43 von 57 / KBV / Anforderungska
 
 **KV_AFO_0090 Ablauf der Sperrung wie in der Beschreibung**
 
-Der TSP MUSS es den KVen und Antragstellern ermöglichen, die Sperrung wie in  **TUC_SPERRUNG ABBILDUNG 7:** **SPERRUNG DURCH ANTRAGSTELLER** dargestellt durchzuführen.
+Der TSP MUSS es den KVen und Antragstellern ermöglichen, die Sperrung wie in **TABELLE 11:**  **TUC_SPERRUNG ABBILDUNG 7:** **SPERRUNG DURCH ANTRAGSTELLER** sowie **ABBILDUNG 8:** **SPERRUNG DURCH KV**  dargestellt durchzuführen.
 
 **KV_AFO_0091 Prüfung und Sperrung im Antragsportal durch Antragsteller**
 
 Der TSP MUSS prüfen, ob die Zugriffsdaten gültig sind, welche ein Antragsteller im Portal eingibt. Wenn  sie gültig sind und zu einer SM-B mit einem sperrbaren Status gehören, dann MUSS der TSP alle  Zertifikate sperren, die zu dieser SM-B gehören. Wenn die Zugriffsdaten nicht gültig sind oder wenn  keine zugehörige sperrbare SM-B vorhanden ist, dann MUSS der TSP die Sperrung ablehnen.
 
-Seite 44 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für  das KV-System / Version: 2.1 / 10.06 2026
+Seite 44 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-**TABELLE 11:**  sowie **ABBILDUNG 8:** **SPERRUNG DURCH KV**
+das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
@@ -1450,10 +1515,10 @@ Alternativen Anforderungen Sie können sich eine Überblicksansicht über alle A
 
 | Abbildung | 9: | Monitoring |
 |---|---|---|
-| Seite 47 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B fü r |
+| Seite 47 | von 57 / KBV | / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für |
 | das | KV-System / Version: | 2.1 / 10.06 2026 |
 
-Abbildung 9: Monitoring Seite 47 von 57 / KBV / Anforderungskatalog SM- das KV-System / Version: 2.1 / 10.06 2026 Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
+Abbildung 9: Monitoring Seite 47 von 57 / KBV / Anforderungskatalog SM- das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
@@ -1508,11 +1573,13 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 | SPALTEN IN DER | AKTIONEN IN DER | DATEN IN DETAILANSICHT | AKTIONEN IN DETAILANSICHT |
 |---|---|---|---|
-| •  •  •  •  •  •  •  •  • | •  •  •  •  •  • | •  2 2 vorhandenen Daten zum  •  • | •  •  •  •  • |
+| •  •  •  •  •  •  •  •  • | •  •  •  •  •  • | •  2 2   •  • | •  •  •  •  • |
+
+________________
 
 Seite 49 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für  das KV-System / Version: 2.1 / 10.06 2026
 
-ÜBERBLICKSANSICHT Vorgangsnummer Betriebsstättennummer Lebenslange Arztnummer des Antragstellers Name des Antragstellers Geburtsdatum des Antragstellers Betriebsstättenart (gemäß KV_AFO_0054) Art der SM-B (SMC-B oder HSM-B)) Status Datum der letzten Bearbeitung ________________  Daten, die nicht durch den Anforderungskatalog vorgegeben werden, aber zusätzlich vom TSP erhoben werden, wie z. B. für die Rechnungsabwicklung, müssen den KVen nicht angezeigt werden. ÜBERBLICKSANSICHT Anzeige Detailansicht Filtermöglichkeiten nach allen Spalten Suchmöglichkeiten nach allen Spalten Auswahlmöglichkeit zum Sperren Anzeige „Anträge zur Freigabe“ in Überblicksliste, von dort Aufruf von Detailansicht  Antrag löschen [bei aktuellem Status „Antrag vorbefüllt“] Alle KV-relevanten Antrag Antragstyp (Erstantrag, Austausch) SM-B-Daten (falls vorhanden, u.a. Telematik- ID, ICCSN und ggf. Laufzeit der Karte, Art der SM-B (SMC-B oder HSM-B)) Aufruf einer Übersicht über bisherige Statuswechsel (mit Datumsangaben) Aufruf von anderen Anträgen des gleichen Antragstellers bzw. zur gleichen Betriebsstätte Aufruf „Sperren“ bei aktuellem Status „Zertifikate freigeschaltet“ mit Möglichkeit zur Angabe eines Sperrgrundes  Aufruf von „Freigeben“ oder „Freigabe ablehnen“ mit Möglichkeit zur Angabe eines Grundes [bei aktuellem Status „zur Freigabe“] Antrag löschen [bei aktuellem Status „Antrag vorbefüllt“]
+ÜBERBLICKSANSICHT ÜBERBLICKSANSICHT Vorgangsnummer Anzeige Detailansicht Alle KV-relevanten Betriebsstättennummer Filtermöglichkeiten nach vorhandenen Daten zum Lebenslange Arztnummer allen Spalten Antrag des Antragstellers Suchmöglichkeiten nach Antragstyp (Erstantrag, Name des Antragstellers allen Spalten Austausch) Geburtsdatum des Auswahlmöglichkeit zum SM-B-Daten (falls Antragstellers Sperren vorhanden, u.a. Telematik- Betriebsstättenart (gemäß Anzeige „Anträge zur ID, ICCSN und ggf. Laufzeit KV_AFO_0054) Freigabe“ in der Karte, Art der SM-B Art der SM-B (SMC-B oder Überblicksliste, von dort (SMC-B oder HSM-B)) HSM-B)) Aufruf von Detailansicht  Status Antrag löschen [bei Datum der letzten aktuellem Status „Antrag Bearbeitung vorbefüllt“]  Daten, die nicht durch den Anforderungskatalog vorgegeben werden, aber zusätzlich vom TSP erhoben werden, wie z. B. für die Rechnungsabwicklung, müssen den KVen nicht angezeigt werden. Aufruf einer Übersicht über bisherige Statuswechsel (mit Datumsangaben) Aufruf von anderen Anträgen des gleichen Antragstellers bzw. zur gleichen Betriebsstätte Aufruf „Sperren“ bei aktuellem Status „Zertifikate freigeschaltet“ mit Möglichkeit zur Angabe eines Sperrgrundes  Aufruf von „Freigeben“ oder „Freigabe ablehnen“ mit Möglichkeit zur Angabe eines Grundes [bei aktuellem Status „zur Freigabe“] Antrag löschen [bei aktuellem Status „Antrag vorbefüllt“]
 
 ---
 
@@ -1563,8 +1630,23 @@ das KV-System / Version: 2.1 / 10.06 2026
 
 ---
 
-\| ELEMENT | BESCHREIBUNG |
-| Anmerkung  | Der TSP KANN im Freigabeportal eine Funktion „Export Übersicht“ anbieten. Wenn die Funktion „Export   |
+**Anmerkung**: Die KVen prüfen die genannten Daten im Rahmen der Attributsbestätigung für die  Entscheidung, ob ein Antrag freigegeben oder abgelehnt wird.
+
+**KV_AFO_0128 Funktion „Export Übersicht“ im Freigabeportal**
+
+Der TSP KANN im Freigabeportal eine Funktion „Export Übersicht“ anbieten. Wenn die Funktion „Export  Übersicht“ in der Überblicksansicht im Freigabeportal aufgerufen wird, KANN der TSP die aktuell  angezeigte Überblicksansicht als CSV-Datei zum Download anbieten, sofern höchstens eine  konfigurierbare Anzahl von Einträgen in der Überblicksansicht vorhanden sind. Bei einer größeren  Anzahl von Einträgen KANN der TSP den Benutzer auffordern, die Anzahl über Suchkriterien zu  beschränken.
+
+**KV_AFO_0129 Beschränkung der Anzahl angezeigter Datensätze in der Überblicksansicht**
+
+Der TSP KANN in der Überblicksansicht die Anzahl der angezeigten Datensätze beschränken; sofern dies  passiert, MUSS eine Angabe zur vollständigen Anzahl der Datensätze erfolgen. Der TSP KANN den Nutzer  auffordern, die Anzahl der Suchkriterien einzuschränken.
+
+**Anmerkung**: Dies kann z.B. wie folgt dargestellt werden: „x von y Datensätzen“.
+
+### 4.6.4 TUC Benachrichtigungen
+
+**Tabelle 14: TUC Benachrichtigungen**
+
+| ELEMENT | BESCHREIBUNG |
 |---|---|
 | Name | Benachrichtigungen |
 | Beschreibung | Der TSP informiert die KVen und/oder die Antragsteller bei bestimmten |
@@ -1576,35 +1658,42 @@ das KV-System / Version: 2.1 / 10.06 2026
 | Standardablauf | Siehe **ABBILDUNG 10:** |
 | Varianten/ | Je nach Ereignis werden die KVen und/oder Antragsteller benachrichtigt, d.h. es |
 | Fehlerfälle | • |
-|  | Der TSP KANN in der Überblicksansicht die Anzahl der angezeigten Datensätze beschränken; sofern dies **Anmerkung** |
-| **4.6.4** | **Tabelle 14: TUC Benachrichtigungen** |
 
 Seite 51 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-: Die KVen prüfen die genannten Daten im Rahmen der Attributsbestätigung für die Entscheidung, ob ein Antrag freigegeben oder abgelehnt wird. KV_AFO_0128 Funktion „Export Übersicht“ im Freigabeportal Übersicht“ in der Überblicksansicht im Freigabeportal aufgerufen wird, KANN der TSP die aktuell angezeigte Überblicksansicht als CSV-Datei zum Download anbieten, sofern höchstens eine konfigurierbare Anzahl von Einträgen in der Überblicksansicht vorhanden sind. Bei einer größeren Anzahl von Einträgen KANN der TSP den Benutzer auffordern, die Anzahl über Suchkriterien zu beschränken.  KV_AFO_0129 Beschränkung der Anzahl angezeigter Datensätze in der Überblicksansicht  passiert, MUSS eine Angabe zur vollständigen Anzahl der Datensätze erfolgen. Der TSP KANN den Nutzer auffordern, die Anzahl der Suchkriterien einzuschränken. : Dies kann z.B. wie folgt dargestellt werden: „x von y Datensätzen“. Ereignissen und Statusänderungen von Anträgen oder Zertifikaten.  Ein Antrag ist beim TSP eingegangen und steht zur Freigabe bereit.  Ein Antrag wurde abgelehnt.  Die Freigabe eines Antrags wurde abgelehnt.  Eine SM-B wurde produziert.  Eine SM-B wurde zugestellt.  Eine SM-B konnte nicht zugestellt werden.  Die Zertifikate einer SM-B wurden freigeschaltet.  Die Zertifikate einer SM-B wurden endgültig nicht freigeschaltet.  Die Zertifikate einer SM-B laufen in Kürze ab.  Die Zertifikate einer SM-B wurden gesperrt.  für den Empfang der E-Mails benannt. BENACHRICHTIGUNGEN Alternativen geht nicht in jedem Fall eine Benachrichtigungs-Mail parallel an beide Empfänger. Die E-Mail kann nicht übermittelt werden aufgrund einer falschen E-Mail- Adresse. das KV-System / Version: 2.1 / 10.06 2026
+Ereignissen und Statusänderungen von Anträgen oder Zertifikaten.  Ein Antrag ist beim TSP eingegangen und steht zur Freigabe bereit.  Ein Antrag wurde abgelehnt.  Die Freigabe eines Antrags wurde abgelehnt.  Eine SM-B wurde produziert.  Eine SM-B wurde zugestellt.  Eine SM-B konnte nicht zugestellt werden.  Die Zertifikate einer SM-B wurden freigeschaltet.  Die Zertifikate einer SM-B wurden endgültig nicht freigeschaltet.  Die Zertifikate einer SM-B laufen in Kürze ab.  Die Zertifikate einer SM-B wurden gesperrt.  für den Empfang der E-Mails benannt. BENACHRICHTIGUNGEN Alternativen geht nicht in jedem Fall eine Benachrichtigungs-Mail parallel an beide Empfänger. Die E-Mail kann nicht übermittelt werden aufgrund einer falschen E-Mail- Adresse. das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---
 
-\| 4.6.5 Der Ablauf für Benachrichtigungen ergibt sich aus der folgenden Abbildung: | Abbildung 10: Benachrichtigungen |
 | ELEMENT | BESCHREIBUNG |
 |---|---|
-| **4.6.6** |  |
-| Der TSP MUSS die betroffenen KVen bei den folgenden Ereignissen per E-Mail über die Statusänderung | • |
-|  | •  •  •  •  Diese Statusmeldungen können auch in einer E-Mail für mehrere Anträge bzw. SM-B erfolgen, unter der |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 |  | • |
 | Nichtfunktionale | Keine |
 
+### 4.6.5 Ablauf Benachrichtigungen
+
+Der Ablauf für Benachrichtigungen ergibt sich aus der folgenden Abbildung:
+
+**Abbildung 10: Benachrichtigungen**
+
+### 4.6.6 Anforderungen
+
+**KV_AFO_0114 Benachrichtigung der KVen**
+
+Der TSP MUSS die betroffenen KVen bei den folgenden Ereignissen per E-Mail über die Statusänderung  eines Antrags bzw. der Zertifikate informieren:
+
+-  Ein Antrag steht zur Freigabe bereit.
+-  Die Freigabe eines Antrags wurde durch den TSP abgelehnt.
+-  Eine SM-B konnte nicht zugestellt werden.
+-  Die Zertifikate einer SM-B wurden endgültig nicht freigeschaltet.
+-  Die Zertifikate einer SM-B wurden gesperrt.
+
+Diese Statusmeldungen können auch in einer E-Mail für mehrere Anträge bzw. SM-B erfolgen, unter der  Rahmenbedingung, dass bei vorliegenden Statusmeldungen täglich informiert wird.
+
 Seite 52 von 57 / KBV / Anforderungskatalog SM-B Anbieter - Anforderungen an TSP im Rahmen der Ausgabe von SM-B für
 
-Die E-Mail kann durch den Ausfall des E-Mail-Systems des Empfängers nicht übermittelt werden. Anforderungen Ablauf Benachrichtigungen Anforderungen  KV_AFO_0114 Benachrichtigung der KVen eines Antrags bzw. der Zertifikate informieren: Ein Antrag steht zur Freigabe bereit. Die Freigabe eines Antrags wurde durch den TSP abgelehnt. Eine SM-B konnte nicht zugestellt werden. Die Zertifikate einer SM-B wurden endgültig nicht freigeschaltet. Die Zertifikate einer SM-B wurden gesperrt. Rahmenbedingung, dass bei vorliegenden Statusmeldungen täglich informiert wird.  das KV-System / Version: 2.1 / 10.06 2026
+Die E-Mail kann durch den Ausfall des E-Mail-Systems des Empfängers nicht übermittelt werden. Anforderungen das KV-System / Version: 2.1 / 10.06 2026
 
 
 ---

@@ -212,6 +212,11 @@ Mit den folgenden Prüffällen wird der Versand im Rahmen der Zertifizierung beu
 | **Aktion** |  |
 | **Einzureichende** |  |
 
+- 1. Der Anwender erstellt einen eArztbrief. Dieser soll auch medizinische  Dokumentationen (Anamnese, Befunde, Diagnosen) enthalten.
+- 2. Der Anwender versendet den eArztbrief.
+- 3. Der Anwender lehnt die automatische Abrechnung ab.
+- 4. Der Anwender ändert seine vorherige Entscheidung zur automatischen  Abrechnung.
+- 1. Videodatei über den Ablauf. Es müssen enthalten sein:
 - a) Auswahl Erstellung des eArztbriefes
 - b) Erfassung, Übernahme oder Einfügen der medizinischen Dokumentationen
 - c) Erstellung der qualifizierten, elektronischen Signatur
@@ -219,7 +224,7 @@ Mit den folgenden Prüffällen wird der Versand im Rahmen der Zertifizierung beu
 
 Seite 8 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
-1. Der Anwender erstellt einen eArztbrief. Dieser soll auch medizinische Dokumentationen (Anamnese, Befunde, Diagnosen) enthalten.  2. Der Anwender versendet den eArztbrief. 3. Der Anwender lehnt die automatische Abrechnung ab. 4. Der Anwender ändert seine vorherige Entscheidung zur automatischen Abrechnung. 1. Videodatei über den Ablauf. Es müssen enthalten sein: Prüfunterlagen 
+Prüfunterlagen 
 
 
 ---
@@ -246,13 +251,55 @@ Seite 8 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 Seite 9 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
+- e)  Hinweisdialog bzgl. der automatischen Abrechnung
+- 2. PDF/A  , XML  Dokument der eArztbrief-Lieferung
+- 3. Screenshots von:
+- a) Hinweis für die Verwendung des HBA
+- a) Zuordnung der eArztbrief-Lieferung zu einer Patientenakte
+- b) Ansicht der nicht vorhandenen GOP in der Patientenakte
+- c) Änderung zur automatischen Abrechnung
+
 **Versand eines eArztbriefes ohne automatische Abrechnung**
+
+- 1. Der Anwender erstellt und versendet einen eArztbrief.
+- 1. Videodatei über den Ablauf. Es muss enthalten sein:
+- a) Auswahl eines eArztbriefes
+- b) Versand des eArztbriefes
+- 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung
+- 3. Screenshots von:
+- a) Zuordnung der eArztbrief-Lieferung zu einer Patientenakte
+- b) Ansicht der GOP in der Patientenakte
+- c) Bestätigung der automatisch abgerechneten Kostenpauschalen unmittelbar  fallbezogen bei Versand der eArztbrief-Lieferung (Optional falls die  Bestätigung erst bei der Abrechnung bestätigt wird)
 
 **Versand eines eArztbriefes mit automatischer Abrechnung**
 
-e) Hinweisdialog bzgl. der automatischen Abrechnung 2. PDF/A  , XML  Dokument der eArztbrief-Lieferung  3. Screenshots von: a) Hinweis für die Verwendung des HBA a) Zuordnung der eArztbrief-Lieferung zu einer Patientenakte b) Ansicht der nicht vorhandenen GOP in der Patientenakte c) Änderung zur automatischen Abrechnung frei wählbar. Datei des erzeugten eArztbriefes enthalten sein. Prüfunterlagen eArztbriefes Prüffall PF01 durchgeführt 1. Der Anwender erstellt und versendet einen eArztbrief. 1. Videodatei über den Ablauf. Es muss enthalten sein: a) Auswahl eines eArztbriefes b) Versand des eArztbriefes 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung 3. Screenshots von: a) Zuordnung der eArztbrief-Lieferung zu einer Patientenakte b) Ansicht der GOP in der Patientenakte c) Bestätigung der automatisch abgerechneten Kostenpauschalen unmittelbar fallbezogen bei Versand der eArztbrief-Lieferung (Optional falls die Bestätigung erst bei der Abrechnung bestätigt wird) frei wählbar.
+frei wählbar. Datei des erzeugten eArztbriefes enthalten sein. Prüfunterlagen eArztbriefes Prüffall PF01 durchgeführt frei wählbar.
 
 ---
+
+- Adressänderung: Siegberger Str. statt Siegburger Str.
+- Namensänderung: Schaumburg statt Schaumberg
+- Änderung der Versicherten_ID S040464773 statt S040464113
+- 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des  Intervalls).
+- 2. Nach dem Aufzeigen einer Abweichung bestätigt der Anwender die manuelle  Zuordnung.
+- 3. Der Anwender stimmt der automatischen Abrechnung zu.
+- 1. Videodatei über den Ablauf. Es muss enthalten sein:
+- Anzeige, ob ein eArztbrief vorhanden ist
+- Das Abrufen des eArztbriefes
+- Die Zuordnung des eArztbriefes zu einer Patientenakte
+- 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung
+- 3. Screenshot der Patientenstammdaten vor der eArztbrief-Lieferung, mindestens  Name, Anschrift und Versicherten-ID müssen erkenntlich sein
+- 4. Screenshot der Patientenstammdaten nach der eArztbrief-Lieferung, mindestens  Name, Anschrift und Versicherten-ID müssen erkenntlich sein
+- 5. Screenshot der Patientenakte vor der eArztbrief-Lieferung
+- 6. Screenshot der Patientenakte nach der eArztbrief-Lieferung
+- 7. Screenshot: Inhalt der qualifizierten, elektronischen Signatur
+- 8. Screenshot: Bestätigung der automatisch abgerechneten Kostenpauschalen  unmittelbar fallbezogen bei Empfang der eArztbrief-Lieferung (Optional falls die  Bestätigung erst bei der Abrechnung bestätigt wird)
+
+## 2.3 EMPFANG EINES EARZTBRIEFES
+
+Mit den folgenden Prüffällen wird der Empfang im Rahmen der Zertifizierung beurteilt. Die Prüffälle sind so  aufzubereiten, dass die notwendigen Informationen enthalten sind, um einen nach den Anforderungen  syntaktisch und semantisch korrekten eArztbrief zu empfangen.
+
+Empfang eines eArztbriefes mit automatischer Abrechnung
 
 |  |  |
 |---|---|
@@ -263,18 +310,31 @@ e) Hinweisdialog bzgl. der automatischen Abrechnung 2. PDF/A  , XML  Dokument de
 | **Einzureichende** |  |
 | **Hinweis** | Die Patientendaten im PVS müssen sich von den Patientendaten der eArztbrief- |
 
-## 2.3 EMPFANG EINES EARZTBRIEFES
-
-Mit den folgenden Prüffällen wird der Empfang im Rahmen der Zertifizierung beurteilt. Die Prüffälle sind so  aufzubereiten, dass die notwendigen Informationen enthalten sind, um einen nach den Anforderungen  syntaktisch und semantisch korrekten eArztbrief zu empfangen.
-
-Empfang eines eArztbriefes mit automatischer Abrechnung
-
 Seite 10 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
-Adressänderung: Siegberger Str. statt Siegburger Str. Namensänderung: Schaumburg statt Schaumberg Änderung der Versicherten_ID S040464773 statt S040464113 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des Intervalls). 2. Nach dem Aufzeigen einer Abweichung bestätigt der Anwender die manuelle Zuordnung. 3. Der Anwender stimmt der automatischen Abrechnung zu. 1. Videodatei über den Ablauf. Es muss enthalten sein: Anzeige, ob ein eArztbrief vorhanden ist Das Abrufen des eArztbriefes Die Zuordnung des eArztbriefes zu einer Patientenakte 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung 3. Screenshot der Patientenstammdaten vor der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 4. Screenshot der Patientenstammdaten nach der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 5. Screenshot der Patientenakte vor der eArztbrief-Lieferung 6. Screenshot der Patientenakte nach der eArztbrief-Lieferung 7. Screenshot: Inhalt der qualifizierten, elektronischen Signatur 8. Screenshot: Bestätigung der automatisch abgerechneten Kostenpauschalen unmittelbar fallbezogen bei Empfang der eArztbrief-Lieferung (Optional falls die Bestätigung erst bei der Abrechnung bestätigt wird) Lieferung zum Patienten „Karl Friederich Schaumberg“ (XML Verzeichnisname: XML_01) im Original (wie in den XML-Dateien vorgegeben) Der Patient „Karl-Friederich Schaumberg“ war im laufenden Quartal, vor Empfang der eArztbrief Lieferung, in der Praxis (Arzt-Patienten-Kontakt). Friederich Schaumberg“ mit folgenden Änderungen im eArztbrief:  Prüfunterlagen Lieferung gemäß der unter „Voraussetzung“ genannten Vorgaben unterscheiden.
+Lieferung zum Patienten „Karl Friederich Schaumberg“ (XML Verzeichnisname: XML_01) im Original (wie in den XML-Dateien vorgegeben) Der Patient „Karl-Friederich Schaumberg“ war im laufenden Quartal, vor Empfang der eArztbrief Lieferung, in der Praxis (Arzt-Patienten-Kontakt). Friederich Schaumberg“ mit folgenden Änderungen im eArztbrief:  Prüfunterlagen Lieferung gemäß der unter „Voraussetzung“ genannten Vorgaben unterscheiden.
 
 
 ---
+
+- 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des  Intervalls).
+- 2. Nach dem Aufzeigen einer Abweichung bestätigt der Anwender die manuelle  Zuordnung.
+- 3. Anlage eines Scheins mit beliebiger Satzart und Scheinuntergruppe.
+- 1. Videodatei über den Ablauf. Es muss enthalten sein:
+- Anzeige, ob ein eArztbrief vorhanden ist
+- Das Abrufen des eArztbriefes
+- Die Zuordnung des eArztbriefes zu einer Patientenakte
+- Aktualisierung der Patientendaten
+- 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung
+- 3. Screenshot der Patientenstammdaten vor der eArztbrief-Lieferung, mindestens  Name, Anschrift und Versicherten-ID müssen erkenntlich sein
+- 4. Screenshot der Patientenstammdaten nach der eArztbrief-Lieferung, mindestens  Name, Anschrift und Versicherten-ID müssen erkenntlich sein
+- 5. Screenshot der Patientenakte vor der eArztbrief-Lieferung
+- 6. Screenshot der Patientenakte nach der eArztbrief-Lieferung
+- 7. Screenshot: Bestätigung der automatisch abgerechneten Kostenpauschalen  unmittelbar fallbezogen bei Empfang der eArztbrief-Lieferung (Optional falls die  Bestätigung erst bei der Abrechnung bestätigt wird)
+
+**Tabelle 3: Prüffalltabelle  Empfang eines eArztbriefes mit automatischer Abrechnung**
+
+**2.3.2** **Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt-Patientenkontakt im**  **aktuellen Quartal**
 
 |  |  |
 |---|---|
@@ -285,15 +345,11 @@ Adressänderung: Siegberger Str. statt Siegburger Str. Namensänderung: Schaumbu
 | **Einzureichende** |  |
 | **Hinweis** | Die Patientendaten im PVS müssen sich von den Patientendaten der eArztbrief- |
 
-**Tabelle 3: Prüffalltabelle  Empfang eines eArztbriefes mit automatischer Abrechnung**
-
-### 2.3.2 Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt-Patientenkontakt im  aktuellen Quartal
-
 **Tabelle 4: Prüffalltabelle  Empfang eines eArztbriefes bei einem bekannten Patienten ohne Arzt-Patientenkontakt im aktuellen Quartal**
 
 Seite 11 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
-1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des Intervalls). 2. Nach dem Aufzeigen einer Abweichung bestätigt der Anwender die manuelle Zuordnung. 3. Anlage eines Scheins mit beliebiger Satzart und Scheinuntergruppe.  1. Videodatei über den Ablauf. Es muss enthalten sein: Anzeige, ob ein eArztbrief vorhanden ist Das Abrufen des eArztbriefes Die Zuordnung des eArztbriefes zu einer Patientenakte Aktualisierung der Patientendaten 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung 3. Screenshot der Patientenstammdaten vor der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 4. Screenshot der Patientenstammdaten nach der eArztbrief-Lieferung, mindestens Name, Anschrift und Versicherten-ID müssen erkenntlich sein 5. Screenshot der Patientenakte vor der eArztbrief-Lieferung 6. Screenshot der Patientenakte nach der eArztbrief-Lieferung 7. Screenshot: Bestätigung der automatisch abgerechneten Kostenpauschalen unmittelbar fallbezogen bei Empfang der eArztbrief-Lieferung (Optional falls die Bestätigung erst bei der Abrechnung bestätigt wird) Patientenkontakt im aktuellen Quartal angelegt.  Lieferung zur Patientin „Brigitte Neuhaus“ (XML_06) im Original (wie in den XML-Dateien vorgegeben) Prüfunterlagen Lieferung gemäß der unter „Voraussetzung“ genannten Vorgaben unterscheiden.
+Patientenkontakt im aktuellen Quartal angelegt.  Lieferung zur Patientin „Brigitte Neuhaus“ (XML_06) im Original (wie in den XML-Dateien vorgegeben) Prüfunterlagen Lieferung gemäß der unter „Voraussetzung“ genannten Vorgaben unterscheiden.
 
 
 ---
@@ -324,18 +380,24 @@ Seite 11 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 Seite 12 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
+- 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des  Intervalls).
+- 1. Videodatei über den Ablauf. Es muss enthalten sein:
 - Anzeige, ob ein eArztbrief vorhanden ist
 - Das Abrufen des eArztbriefes
 - 2. PDF/A  und XML  Dokument der eArztbrief-Lieferung
 
 **Empfang eines eArztbriefes bei unbekannten Patienten**
 
+- 1. Der Patient „Martin Frühstück“ (XML_07) wird im PVS angelegt
+- 2. Es muss eine Zuordnung des eArztbrief stattfinden (manuell oder durch die  Software.
+- 3. Der Anwender erstellt eine Abrechnung.
+- 4. Videodatei über den Ablauf. Es muss enthalten sein:
 - Zuordnung des bereits im System vorhandenen eArztbriefes
 - 5. Abrechnungsdatei als CON-Datei
 
 **Erweiterung Prüffall 5 der Patient erscheint im laufenden Quartal**
 
-Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Original (wie in den XML-Dateien vorgegeben) ein Arzt-Patienten- Kontakt) 1. Der Anwender ruft einen eArztbrief ab (manuell oder durch Eintreffen des Intervalls). 1. Videodatei über den Ablauf. Es muss enthalten sein: Prüfunterlagen ten „Martin Frühstück“ (XML_07)  ist bereits im PVS vorhanden. 1. Der Patient „Martin Frühstück“ (XML_07) wird im PVS angelegt 2. Es muss eine Zuordnung des eArztbrief stattfinden (manuell oder durch die Software. 3. Der Anwender erstellt eine Abrechnung. 4. Videodatei über den Ablauf. Es muss enthalten sein:
+Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Original (wie in den XML-Dateien vorgegeben) ein Arzt-Patienten- Kontakt) Prüfunterlagen ten „Martin Frühstück“ (XML_07)  ist bereits im PVS vorhanden.
 
 ---
 
@@ -361,6 +423,7 @@ Prüfunterlagen Lieferung zum Patienten „Martin Frühstück“ (XML_07) im Ori
 
 Seite 13 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
+- 1. Bitte fügen Sie das Bestätigungsschreiben der gematik - Bestätigung der  Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  als pdf Ihren Prüfunterlagen bei.
 - 2. Bitte fügen Sie den Nachweis zum Bestehen des Audits eArztbrief der kv.digital als  PDF-Datei Ihren Prüfunterlagen bei.
 - 3. Bitte fügen Sie die Teilnahmebestätigung des Interoperabilitätsworkshops der  kv.digital als PDF-Datei Ihren Prüfunterlagen bei.
 
@@ -368,7 +431,7 @@ Seite 13 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 - 1. Der Anwender erstellt und versendet einen eArztbrief an das Backend (z.B. für  „Brigitte Neuhaus“ (XML_06)
 
-Prüfunterlagen [optional] und des Interoperabilitätsworkshops der kv.digital [optional]. 1. Bitte fügen Sie das Bestätigungsschreiben der gematik - Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle: Funktionsumfang KIM  als pdf Ihren Prüfunterlagen bei. nicht  in Prüffall 07 die Teilnahmebestätigung an einem Interoperabilitätsworkshops der kv.digital übermittelt wurde. Zertifizierung-Backend (Backend) zur Verfügung gestellt. Prüfclient bereit, der die empfangenen eArztbrief-Lieferungen insbesondere auf die Einhaltung der Anforderung P43-03  überprüft. Die Ergebnisse der Prüfung werden in Prüfprotokollen dokumentiert und den Absender (Software-Systemen) zur Verfügung gestellt. Wurden bei der Prüfung keine Fehler festgestellt, wird vom Backend ein Test-eArztbrief zurückgesendet. zu erreichen.
+Prüfunterlagen [optional] und des Interoperabilitätsworkshops der kv.digital [optional]. nicht  in Prüffall 07 die Teilnahmebestätigung an einem Interoperabilitätsworkshops der kv.digital übermittelt wurde. Zertifizierung-Backend (Backend) zur Verfügung gestellt. Prüfclient bereit, der die empfangenen eArztbrief-Lieferungen insbesondere auf die Einhaltung der Anforderung P43-03  überprüft. Die Ergebnisse der Prüfung werden in Prüfprotokollen dokumentiert und den Absender (Software-Systemen) zur Verfügung gestellt. Wurden bei der Prüfung keine Fehler festgestellt, wird vom Backend ein Test-eArztbrief zurückgesendet. zu erreichen.
 
 ---
 
@@ -389,6 +452,13 @@ Die Adresse des Backends für eArztbrief V1.2 der kv.digital in der RU der TI la
 
 Seite 14 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
+- 2. Der Anwender ruft den Test-eArztbrief ab (manuell oder durch Eintreffen des  Intervalls).
+- 1. Reichen Sie das vom Backend bereitgestellte Prüfprotokoll ein.
+- 2. Videodatei über den Ablauf bei Erstellung, Versand und ggf. Abruf des  eArztbriefes. Es muss enthalten sein:
+- Erstellung des eArztbriefes
+- Erstellung der qualifizierten, elektronischen Signatur
+- Versand des eArztbriefes
+- Hinweisdialog bzgl. der automatischen Abrechnung
 - Anzeige, ob ein eArztbrief vorhanden ist
 - Das Abrufen des eArztbriefes
 - Die Zuordnung des eArztbriefes zu einer Patientenakte
@@ -396,7 +466,7 @@ Seite 14 von 15 / KBV / Prüfpaket eArztbrief / Version: 3.6 / 15. November 2024
 
 **Interoperabilitätsprüffall**
 
-Prüfunterlagen 2. Der Anwender ruft den Test-eArztbrief ab (manuell oder durch Eintreffen des Intervalls).   Ein eArztbrief wird vom Prüfclient nur dann gesendet, wenn der ursprüngliche eArztbrief korrekt war. 1. Reichen Sie das vom Backend bereitgestellte Prüfprotokoll ein. 2. Videodatei über den Ablauf bei Erstellung, Versand und ggf. Abruf des eArztbriefes. Es muss enthalten sein: Erstellung des eArztbriefes Erstellung der qualifizierten, elektronischen Signatur Versand des eArztbriefes Hinweisdialog bzgl. der automatischen Abrechnung
+Prüfunterlagen  Ein eArztbrief wird vom Prüfclient nur dann gesendet, wenn der ursprüngliche eArztbrief korrekt war.
 
 ---
 

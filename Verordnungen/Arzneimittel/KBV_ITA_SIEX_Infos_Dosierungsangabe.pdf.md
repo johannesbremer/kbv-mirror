@@ -44,9 +44,7 @@ Die entsprechende Umsetzung (Dosierung bzw. das Kennzeichen >>Dj<<) durch die Ve
 
 ## Wie sieht das von der Software zu setzende Kennzeichen aus, wenn ein Medikationsplan oder eine  schriftliche Dosierungsanweisung vorliegt?
 
-Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung vorliegt, erfolgt  **Dj** (= ja, es liegt eine schriftliche Dosierungsanweisung vor) **hinter jeder**
-
-über das Kürzel  **Verordnungszeile jeweils**
+Die Kennzeichnung, dass ein Medikationsplan oder eine schriftliche Dosierungsanweisung vorliegt, erfolgt  über das Kürzel **Dj** (= ja, es liegt eine schriftliche Dosierungsanweisung vor) **hinter jeder**  **Verordnungszeile jeweils**
 
 Seite 2 von 6 / KBV / PT-Berater – Dosierungsangabe auf Rezept – FAQs / 1. Dezember 2020
 

@@ -24,11 +24,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **2** **DATEINAMEN**
 
-| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
-|---|---|---|---|
-| 3.1 | Kardinalitä | t | 10 |
-| 3.2 |  | Strukturelemente | 10 |
-| 3.3 | Sonstige | Symbole | 11 |
+| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
+|---|---|---|
+| 3.1 | Kardinalität | 10 |
+| 3.2 | Strukturelemente | 10 |
+| 3.3 | Sonstige Symbole | 11 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -42,16 +42,15 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 Seite 2 von 38 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz / Version: 1.04 /
 
-**8**  **9**  **12**  **13**
+**8**  **9**
+
+**12**  **13**
 
 13  **14**  14  14  15  16  17  17  17  17  18  18  19  20  20  21  21  21  22  22  23  23  24  24  25  25  26  26  27 27  29
 
 29
 
 14. November 2025
-
-Kardinalität Sonstige Symbole 
-
 
 ---
 
@@ -1032,14 +1031,12 @@ Seite 31 von 38 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz /
 
 ### Regelmäßiges körperliches Training
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 20. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-*V*-Attribut die Feldbezeichnung
 
 **XML-Code 34:** Regelmäßiges körperliches Training
 
@@ -1053,7 +1050,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Führen eines Gewichtsprotokolls
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß
+
+*V*-Attribut die Feldbezeichnung  Tabelle 21. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1064,9 +1063,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Seite 32 von 38 / KBV / Schnittstellenbeschreibung Chronische Herzinsuffizienz / Version: 1.04 / 14. November 2025
 
-*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/>
 
-<sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V="Quartalsweise"/> <sciphox:Parameter DN="Regelmäßiges körperliches Training"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Führen eines Gewichtsprotokolls"/> <sciphox:Ergebnistext V="Ja"/> |  |  |
+|  |  |
 |---|---|
 
 

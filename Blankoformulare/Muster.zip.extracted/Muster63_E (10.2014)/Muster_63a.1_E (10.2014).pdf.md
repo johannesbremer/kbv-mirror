@@ -40,7 +40,9 @@
 
 **ausgeprägte urogenitale**
 
-**ausgeprägte respiratorische /** **kardiale Symptomatik**
+**ausgeprägte respiratorische /**
+
+**ausgeprägte gastrointestinale** **kardiale Symptomatik**
 
 **Symptomatik**
 
@@ -48,7 +50,9 @@
 
 **ausgeprägte ulzerierende /**
 
-**ausgeprägte neurologische /** **psychiatrische / psychische Symptomatik**
+**ausgeprägte neurologische /**
+
+**sonstiges komplexes** **psychiatrische / psychische Symptomatik**
 
 **Symptomgeschehen**
 
@@ -58,17 +62,13 @@
 
 **Aktuelle Medikation (ggf. einschließlich BtM)**
 
-**ausgeprägte gastrointestinale**
-
-**sonstiges komplexes**
-
 **Folgende Maßnahmen sind notwendig**
 
 **Beratung**
 
-**Koordination der Palliativversorgung**
-
 **a. des behandelnden Arztes**
+
+**Koordination der Palliativversorgung**
 
 **b. der behandelnden Pflegefachkraft**
 

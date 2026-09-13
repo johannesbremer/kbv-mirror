@@ -35,7 +35,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   2021
 | 2.3 | Root-Schema | 7 |
 | 2.4 | Dateinamen | 7 |
 | 2.5 | Semantik der verwendeten Diagramm-Symbole | 9 |
-|  | 2.5.1 Kardinalitä t | 9 |
+|  | 2.5.1 Kardinalität | 9 |
 |  | 2.5.2 Strukturelemente | 9 |
 |  | 2.5.3 Sonstige Symbole | 10 |
 
@@ -171,11 +171,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   2021
 
 23
 
-Seite 2 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung 2021
-
-Stammdatei) / Version: 1.0 / 21. April
-
-Kardinalität 
+Seite 2 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung Stammdatei) / Version: 1.0 / 21. April 2021
 
 
 ---
@@ -204,9 +200,8 @@ Kardinalität
 
 **26**
 
-Seite 3 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 /  2021
+Seite 3 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April 2021
 
-21. April
 
 ---
 
@@ -333,6 +328,8 @@ DOKUMENTENHISTORIE
 | 1.0 | 20.04.2021 | KBV | Erweiterung der Datenstruktur zur |  | **alle** |
 | 1.0 | 01.02.2021 | KBV | Initiale Erstellung |  | **alle** |
 
+#
+
 Seite 6 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 /  2021
 
 21. April
@@ -341,6 +338,34 @@ Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jäh
 
 
 ---
+
+# 1 EINLEITUNG
+
+Die vorliegende Schnittstellenbeschreibung definiert das Format der Verschlüsselungsanleitung-Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der  Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD].
+
+Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen  Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV)  ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.
+
+# 2 KONVENTIONEN
+
+## 2.1 ZEICHENSATZ
+
+Standard-Zeichensatz ist ISO-8859-15.
+
+## 2.2 NAMENSPACE
+
+Standard-Namespace ist **urn:ehd/va/001**
+
+## 2.3 ROOT-SCHEMA
+
+Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata  inkludiert sind, heißt **va_root.xsd**
+
+## 2.4 DATEINAMEN
+
+Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
+
+Dateinamenskonvention nach ehd-Richtlinie:
+
+**[ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml**
 
 | BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
 |---|---|
@@ -352,36 +377,29 @@ Abbildung von Kapitelstruktur, Absätzen, Tabellen, Listenelementen und der jäh
 | tf+ | timeframe (YYYYqQ) |
 | YYYY | Jahr |
 | q | fix |
-| 1 Die vorliegende Schnittstellenbeschreibung definiert das Format der Verschlüsselungsanleitung- | |
-|  | 2 |
-| **2.1** | Standard-Zeichensatz ist ISO-8859-15. |
-| **2.2** | Standard-Namespace ist |
 
 Seite 7 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
 
-EINLEITUNG Stammdatei der KBV im XML-Format. Die Stammdatei enthält die Informationen der Verschlüsselungsanleitung des BfArMs sowie die wesentlichen jährlichen Änderungen der ICD-10-GM.  Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  KONVENTIONEN ZEICHENSATZ NAMENSPACE urn:ehd/va/001 2.3 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt va_root.xsd 2.4 Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. 2021
+Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. 2021
 
 
 ---
 
-|  | |
+| BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| **BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS** | |
 | Q | Quartal |
 | nr+ | Lieferungen erfolgen |
 | du+ | verwendet werden |
 
+Tabelle 1: Beschreibung der Bestandteile des Dateinamens
+
+Beispiel:
+
+- VA_01.00_74_tf+2022q1_nr+1.xml
+
 Seite 8 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
 
-Tabelle 1: Beschreibung der Bestandteile des Dateinamens number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals Beispiel: VA_01.00_74_tf+2022q1_nr+1.xml  2021
+number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals 2021
 
 
 ---
@@ -462,9 +480,7 @@ ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richt
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.
 
-Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body
-
-***<header>***  liegenden eigentlichen Inhaltsdaten.
+***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body  liegenden eigentlichen Inhaltsdaten.
 
 ***<body>***  Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
@@ -554,7 +570,7 @@ Seite 13 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleit
 |---|---|
 | **Wert (** | Bedeutung ( |
 | 1 | Anleitung zur Verschlüsselung |
-| 2 | wesentliche jährliche Änderungen Daten |
+| 2 | wesentliche jährliche Änderungen der ICD-10-GM- |
 
 ### 5.2.2 titel
 
@@ -591,7 +607,7 @@ Das Element <hauptkapitel> enthält immer die Kinderelemente <titel> und <nr>. E
 
 Seite 14 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
 
-DN  der ICD-10-GM-2021
+DN Daten 2021
 
 
 ---
@@ -627,11 +643,9 @@ Abbildung 7: kapitel_liste
 
 Der XML-Code für ein <kapitel_liste> Element hat folgenden Aufbau:
 
-Seite 15 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) /  2021
+Seite 15 von 26 / KBV / Schnittstellenbeschreibung SDVA (Verschlüsselungsanleitung-Stammdatei) / Version: 1.0 / 21. April
 
-Version: 1.0 / 21. April
-
-Was ist zu verschlüsseln?“ /> hauptkapitel>
+Was ist zu verschlüsseln?“ /> hauptkapitel>2021
 
 
 ---

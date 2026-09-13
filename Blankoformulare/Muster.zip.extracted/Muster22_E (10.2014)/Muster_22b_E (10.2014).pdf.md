@@ -1,12 +1,8 @@
-**Aus Datenschutzgründen freibleibend**
-
-**Es sollen ggf. Angaben zu folgenden Inhalten gemacht werden:** **Aktuelle** **Beschwerden,** **Angaben** **zum** **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische** **Parallelbehandlungen** **stat./amb.** **(z.B.**  **gleitbehandlung und/oder psychiatrische bzw. kinder- und jugendpsychiatrische Untersuchung erforderlich machen:**
-
-**22**
-
 ## Konsiliarbericht
 
-**vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
+**22** **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
+
+**Aus Datenschutzgründen freibleibend**
 
 **Auf Veranlassung von:**
 
@@ -16,25 +12,19 @@
 
 **Betriebsstättennummer**
 
-**des Patienten**
-
 ## Chiffre
 
-**Anfangsbuchstabe Geburtsdatum** **des Familiennamens**
+**des Patienten**
 
-**psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-**
+**Anfangsbuchstabe Geburtsdatum** **des Familiennamens** **Es sollen ggf. Angaben zu folgenden Inhalten gemacht werden:** **Aktuelle** **Beschwerden,** **Angaben** **zum** **psychischen** **und** **somatischen** **Befund** **(bei** **Kindern** **und** **Jugendlichen** **insbe-** **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **medizinische** **Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und** **Parallelbehandlungen** **stat./amb.** **(z.B.** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-** **gleitbehandlung und/oder psychiatrische bzw. kinder- und jugendpsychiatrische Untersuchung erforderlich machen:**
 
-**Diagnosen,** **Differenzial-** **und** **Verdachtsdiagnosen,** **relevante** **Vor-** **und** **laufende** **Medikation),** **ggf.** **Befunde,** **die** **eine** **ärztliche/ärztlich** **veranlasste** **Be-**
-
-**Psychiatrische bzw. kinder- und**
-
-**erfolgt**
-
-**jugendpsychiatrische Abklärung ist**
+**Psychiatrische bzw. kinder- und** **jugendpsychiatrische Abklärung ist**
 
 **erforderlich**
 
 **nicht erforderlich**
+
+**erfolgt**
 
 **veranlasst**
 

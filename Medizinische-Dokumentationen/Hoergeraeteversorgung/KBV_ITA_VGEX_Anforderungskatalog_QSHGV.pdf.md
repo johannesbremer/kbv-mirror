@@ -16,9 +16,9 @@ geräteversorgung 1.13 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In 
 
 ---
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung
+**IT in der Arztpraxis** Anforderungskatalog QS Hörgeräteversorgung
 
-**D** **O** **K** **U** **M** **E** **N** **T** **E** **N** **H**
+**D** **O** **K**
 
 ### Die Änderungen vom 13.02.2026 treten zum 01.04.2026 in Kraft
 
@@ -34,6 +34,8 @@ geräteversorgung 1.13 Datum: 13.02.2026 Kennzeichnung: Öffentlich  Status: In 
 | 1.06 | 03.05.2019 | KBV | Aufnahme der Funktion P1-300 | Erweiterung des Wer- | **13** |
 
 KBV_ITA_VGEX_Anforderungskatalog_QSHGV * Version 1.13
+
+**U** **M** **E** **N** **T** **E** **N** **H**
 
 **I** **S** **T** **O** **R** **I** **E**
 
@@ -144,9 +146,7 @@ Hörgeräteversorgung (2-70) Seite 5 von 16
 
 Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe aller relevan-ten Bewegungsdaten bzgl. der Dokumentation der Hörgeräteversorgung ermöglichen.
 
-Die in der Schnittstellenbeschreibung QS Hörgeräteversorgung [ stelle_QSHGV
-
-KBV_ITA_VGEX_Schnitt-] festgelegten Datenelemente müssen vollständig erfassbar sein.
+Die in der Schnittstellenbeschreibung QS Hörgeräteversorgung [KBV_ITA_VGEX_Schnitt-stelle_QSHGV] festgelegten Datenelemente müssen vollständig erfassbar sein.
 
 | Optionale Funktion QS Hörgeräteversorgung | |
 |---|---|
@@ -312,17 +312,27 @@ unterschiedlich kennzeichnen.
 |---|---|
 | **K1-136** | **Datenübernahme aus dem PVS1** 1 |
 
-Plausibilität
+Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch  eine Quittierung des Anwenders in die QS Hörgeräteversorgung übernommen werden. Dies gilt  für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).
+
+Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran-gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle  Werte handelt
+
+**2.1.5 Plausibilitäten**
+
+| PFLICHTFUNKTION QS Hörgeräteversorgung | |
+|---|---|
+| **P1-130** | **Überprüfung der Eingaben auf Plausibilität** |
+
+Die Eingaben des Nutzers müssen systemseitig auf Plausibilität  KBV_ITA_VGEX_PLAUSI_QSHGV] geprüft werden. Diese Überprüfung sollte direkt nach der  Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt werden  und mit Hinweis auf das fehlerhafte Datenfeld erfolgen.
+
+Das Dokument Plausibilitäten [KBV_ITA_VGEX_PLAUSI_QSHGV] enthält die Spalten: "Pflicht-feld", "Antwortmöglichkeiten" und "Wertebereich", diese Vorgaben sind verpflichtend.
+
+Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung
 
 KBV_ITA_VGEX_Anforderungskatalog_QSHGV * Version 1.13
 
-Praxisverwaltungssystem Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung des Anwenders in die QS Hörgeräteversorgung übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung P1 -130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf KBV_ITA_VGEX_PLAUSI_QSHGV ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt werden und mit Hinweis auf das fehlerhafte Datenfeld erfolgen.  Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_QSHGV ] enthält die Spalten: "Pflicht- feld", "Antwortmöglichkeiten" und "Wertebereich", diese Vorgaben sind verpflichtend.   Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.   Seite 9 von 16
-
-| PFLICHTFUNKTION QS Hörgeräteversorgung | |
-|---|---|
-| **P1-130** | **Überprüfung der Eingaben auf Plausibilität** |
+Praxisverwaltungssystem Seite 9 von 16
 
 
 ---

@@ -9,8 +9,8 @@
 | Nächste Revision am: | 01.12.2026 |
 | Sicherheitsklassifizierung: | öffentlich |
 
-# Spezifikation elektronische Sammelerklärung in der Kassenärztlichen Vereinigung Schleswig-Holstein
-Richtlinie    Anweisung    Vereinbarung    Bericht  in Kraft  nur zum internen Gebrauch                   KV-Pedia
+elektronische Sammelerklärung Kassenärztlichen Vereinigung Spezifikation in der Schleswig-Holstein
+Richtlinie    nur zum internen Gebrauch                   Anweisung    Vereinbarung    Bericht  in Kraft  KV-Pedia
 
 ---
 
@@ -192,9 +192,11 @@ Spezifikation eSE - elektronische Sammelerklärung
 
 ### Mit dem Element person/id wird die 9-stellige LANR der erklärenden Person übergeben.
 
-### Mit den Elementen in person/person_name wird der Name der erklärenden Person übergeben.
+Mit den Elementen in** person/person_name** wird der Name der erklärenden Person übergeben.
 
-### Mit dem Element person/local_header/fachgruppenbeschreibung wird das Fachgebiet  der erklärenden Person übergeben.
+### Mit dem Element person/local_header/fachgruppenbeschreibung wird das Fachgebiet
+
+der erklärenden Person übergeben.
 
 ### Das Element ist wie folgt zu verwenden:
 
@@ -222,7 +224,7 @@ Spezifikation eSE - elektronische Sammelerklärung
 
 ### Mit dem Element organisation/organization.nm wird der Name der Betriebsstätte übergeben.
 
-### Mit den Elementen in organisation/addr wird die Adresse der Betriebsstätte übergeben.
+Mit den Elementen in** organisation/addr** wird die Adresse der Betriebsstätte übergeben.
 
 ### Mit dem Element organisation/telecom wird die Telefonnummer der Betriebsstätte übergeben.
 

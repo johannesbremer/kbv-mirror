@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**05. SEPTEMBER 2026**
+**12. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -26,15 +26,23 @@
 
 **ACETO Softwareentwicklung GmbH** Landsberger Straße 155 80687 München Internet: www.aceto-online.com
 
-|  | Y/80/2607/36/612 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
+**Clinixx(R) Krankenhausinformationssystem**
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**AMC Holding GmbH** Ballindamm 5 20095 Hamburg Internet: www.amc-gmbh.com
+
+**APRIS**
+
+**APRIS Praxiscomputer GmbH** Wetterkreuz 19 91058 Erlangen Internet: www.apris.de
+
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2607/36/062 30.06.2029
 
 Y/80/2507/24/344 30.06.2027
+
+|  | Y/80/2607/36/612 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2502/24/031 | 31.01.2027 | eAU |  |
 
 eAU
 
@@ -42,7 +50,11 @@ eAU
 
 Windows
 
-Clinixx(R) Krankenhausinformationssystem AMC Holding GmbH Ballindamm 5 20095 Hamburg Internet: www.amc-gmbh.com APRIS APRIS Praxiscomputer GmbH Wetterkreuz 19 91058 Erlangen Internet: www.apris.de Windows iOS/Android Linux Mac OS WindowsLinux Mac OS Sonstige Windows
+Linux Mac OS Sonstige Windows
+
+Windows
+
+iOS/Android Linux Mac OS Windows
 
 
 ---
@@ -60,15 +72,23 @@ Clinixx(R) Krankenhausinformationssystem AMC Holding GmbH Ballindamm 5 20095 Ham
 
 **Avelios Medical GmbH** Ridlerstraße 39 80339 München Internet: avelios.com
 
-|  | Y/80/2412/24/078 | 30.11.2026 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2501/24/636 | 31.12.2026 | eAU |  |
+**Med7**
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**Bitron GmbH Technologiesysteme** Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de
+
+**RAD+ RIS System**
+
+**boos-uttenthaler-garcia RAD+** **Entwicklungsgesellschaft bR** Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm
+
+Seite 3 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2607/36/081 30.06.2029
 
 Y/80/2410/36/754 30.09.2027
+
+|  | Y/80/2412/24/078 | 30.11.2026 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2501/24/636 | 31.12.2026 | eAU |  |
 
 eAU
 
@@ -76,7 +96,11 @@ eAU
 
 Windows
 
-Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de RAD+ RIS System boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm Windows Linux Mac OS WindowsLinux Mac OS Windows
+Linux Mac OS Windows
+
+Windows
+
+Linux Mac OS Windows
 
 
 ---
@@ -94,21 +118,35 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 
 **CGM Clinical Europe GmbH** Hadersberg 1 84427 Sankt Wolfgang Internet: www.cgm.com/medico
 
+**Praxis4More**
+
+**CoKom One GmbH** John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de
+
+**Z1**
+
+**CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
+
+Seite 4 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2609/37/459
+
+Y/80/2609/37/226
+
 |  | Y/80/2609/37/346 | 30.09.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2607/36/332 | 30.06.2029 | eAU |  |
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2609/37/459
-
-Y/80/2609/37/226 30.09.2029 eAU
+30.09.2029 eAU
 
 30.09.2029 eAU
 
 Windows
 
-Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: www.cokom-one.de Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -126,21 +164,37 @@ Praxis4More CoKom One GmbH John-F.-Kennedy-Straße 10 97877 Wertheim Internet: w
 
 **CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
+**DATA VITAL**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
+
+**CGM M1 PRO**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
+
+Softwarevariante(n): - CGM M1 PRO NEXT
+
+Seite 5 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2608/35/112
+
+Y/80/2607/36/203
+
 |  | Y/80/2608/38/023 | 30.09.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2608/35/252 | 30.06.2029 | eAU |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2608/35/112
-
-Y/80/2607/36/203 30.06.2029 eAU
+30.06.2029 eAU
 
 30.06.2029 eAU
 
 Windows
 
-DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Linux WindowsWindows
+Windows
+
+Linux
+
+Windows
 
 
 ---
@@ -162,21 +216,35 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 24105 Kiel Internet: www.crosssoft.de
 
+**DS-WIN-PLUS (DS-WIN-MED)**
+
+**DAMPSOFT GmbH** Vogelsang 1 24351 Damp Internet: www.dampsoft.de
+
+**Data-AL**
+
+**Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
+
+Seite 6 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2609/37/280
+
+Y/80/2609/37/752
+
 |  | Y/80/2607/36/262 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2607/36/060 | 30.06.2029 | eAU |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2609/37/280
-
-Y/80/2609/37/752 30.09.2029 eAU
+30.09.2029 eAU
 
 30.09.2029 eAU
 
 Windows
 
-DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.dampsoft.de Data-AL Data-AL GmbH Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -194,15 +262,23 @@ DS-WIN-PLUS (DS-WIN-MED) DAMPSOFT GmbH Vogelsang 1 24351 Damp Internet: www.damp
 
 **Dedalus HealthCare GmbH** Konrad-Zuse-Platz 1 -3 53227 Bonn Internet: www.dedalusgroup.com
 
-|  | Y/80/2607/36/314 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2609/37/488 | 30.09.2029 | eAU |  |
+**IMedOne**
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**Deutsche Telekom Clinical Solutions GmbH** Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com
+
+**inSuite**
+
+**Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
+
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2609/37/238 30.09.2029
 
 Y/80/2607/36/254 30.06.2029
+
+|  | Y/80/2607/36/314 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2609/37/488 | 30.09.2029 | eAU |  |
 
 eAU
 
@@ -210,7 +286,11 @@ eAU
 
 Windows
 
-IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows Linux Mac OS Sonstige WindowsWindows
+Windows
+
+Windows
+
+Linux Mac OS Sonstige Windows
 
 
 ---
@@ -228,15 +308,23 @@ IMedOne Deutsche Telekom Clinical Solutions GmbH Sternengasse 14-16 50676 Köln 
 
 **Dr. Claudia Neumann** Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
 
-|  | Y/80/2607/36/086 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2609/37/637 | 30.09.2029 | eAU |  |
+**DURIA**
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
+
+**Xplore RIS**
+
+**EDL Software Deutschland GmbH** Sprockhövelerstraße 4 45527 Hattingen Internet: [https://www.edl.gmbh/](https://www.edl.gmbh/)
+
+Seite 8 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2506/37/677 30.06.2028
 
 Y/80/2410/24/602 30.09.2026
+
+|  | Y/80/2607/36/086 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2609/37/637 | 30.09.2029 | eAU |  |
 
 eAU
 
@@ -244,7 +332,11 @@ eAU
 
 iOS/Android Linux Mac OS Sonstige Windows
 
-DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Xplore RIS EDL Software Deutschland GmbH Sprockhövelerstraße 4 45527 Hattingen Internet: https://www.edl.gmbh/ Windows WindowsLinux
+Linux
+
+Windows
+
+Windows
 
 
 ---
@@ -262,15 +354,23 @@ DURIA Duria eG Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de Xplo
 
 **ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
-|  | Y/80/2607/36/223 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2607/36/421 | 30.06.2029 | eAU |  |
+**INDICATION**
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
+
+**EVIDENT**
+
+**EVIDENT GmbH** Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: www.evident.de
+
+Seite 9 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2607/36/295 30.06.2029
 
 Y/80/2607/36/253 30.06.2029
+
+|  | Y/80/2607/36/223 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2607/36/421 | 30.06.2029 | eAU |  |
 
 eAU
 
@@ -278,7 +378,11 @@ eAU
 
 Linux Mac OS Windows
 
-INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com EVIDENT EVIDENT GmbH Eberhard-Anheuser-Straße 3 55543 Bad Kreuznach Internet: www.evident.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -296,15 +400,23 @@ INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet
 
 **FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
 
-|  | Y/80/2502/36/630 | 31.01.2028 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2607/36/244 | 30.06.2029 | eAU |  |
+**theHub**
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**Fresenius Medical Care Deutschland GmbH** Else-Kröner-Str. 3 61352 Bad Homburg Internet: www.freseniusmedicalcare.com
+
+**QUINCY WIN**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
+
+Seite 10 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2411/24/034 31.10.2026
 
 Y/80/2607/36/403 30.06.2029
+
+|  | Y/80/2502/36/630 | 31.01.2028 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2607/36/244 | 30.06.2029 | eAU |  |
 
 eAU
 
@@ -312,7 +424,11 @@ eAU
 
 Windows
 
-theHub Fresenius Medical Care Deutschland GmbH Else-Kröner-Str. 3 61352 Bad Homburg Internet: www.freseniusmedicalcare.com QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de iOS/Android Linux Mac OS Sonstige Windows WindowsWindows
+Windows
+
+iOS/Android Linux Mac OS Sonstige Windows
+
+Windows
 
 
 ---
@@ -330,15 +446,23 @@ theHub Fresenius Medical Care Deutschland GmbH Else-Kröner-Str. 3 61352 Bad Hom
 
 **GE Healthcare Information Technologies** **GmbH & Co. KG** Peter-Müller-Straße 24-26 40468 Düsseldorf Internet: www.gehealthcare.com
 
-|  | Y/80/2503/37/765 | 31.03.2028 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2505/38/767 | 30.06.2028 | eAU |  |
+**Torin**
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**Getinge IT Solutions GmbH** Südportal 5 22848 Norderstedt
+
+**eReha**
+
+**GITG AG** Kurze Mühren 2 20095 Hamburg Internet: [https://gitg.de/](https://gitg.de/)
+
+Seite 11 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2507/18/616 31.12.2026
 
 Y/80/2507/24/417 30.06.2027
+
+|  | Y/80/2503/37/765 | 31.03.2028 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2505/38/767 | 30.06.2028 | eAU |  |
 
 eAU
 
@@ -346,7 +470,11 @@ eAU
 
 iOS/Android Linux Mac OS Windows
 
-Torin Getinge IT Solutions GmbH Südportal 5 22848 Norderstedt eReha GITG AG Kurze Mühren 2 20095 Hamburg Internet: https://gitg.de/ Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -364,21 +492,33 @@ Torin Getinge IT Solutions GmbH Südportal 5 22848 Norderstedt eReha GITG AG Kur
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-|  | Y/80/2608/35/298 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2609/37/400 | 30.09.2029 | eAU |  |
+**Elefant**
+
+**HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
+
+**IFA-AUGENARZT**
+
+**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
 Y/80/2603/24/749
 
 Y/80/2410/24/195
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026 29.02.2028 eAU
+|  | Y/80/2608/35/298 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2609/37/400 | 30.09.2029 | eAU |  |
+
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026 29.02.2028 eAU
 
 30.09.2026 eAU
 
 Windows
 
-Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de IFA-AUGENARZT ifa systems AG Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -396,15 +536,23 @@ Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de I
 
 **IFU OR GmbH Nürnberg** Dorfäckerstr. 21 90427 Nürnberg Internet: ifu-kis.de
 
-|  | Y/80/2505/24/642 | 30.04.2027 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2608/35/210 | 30.06.2029 | eAU |  |
+**DynaMed**
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**IMA-Systems Information-Technology GmbH** Römerstraße 2 A-6900 Bregenz Internet: www.ima-systems.com
+
+**Medical Office**
+
+**INDAMED EDV-Entwicklung und Vertrieb** **GmbH** Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de
+
+Seite 13 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2608/35/451 30.06.2029
 
 Y/80/2505/24/596 30.04.2027
+
+|  | Y/80/2505/24/642 | 30.04.2027 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2608/35/210 | 30.06.2029 | eAU |  |
 
 eAU
 
@@ -412,7 +560,11 @@ eAU
 
 Linux Mac OS Windows
 
-DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz Internet: www.ima-systems.com Medical Office INDAMED EDV-Entwicklung und Vertrieb GmbH Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -430,21 +582,35 @@ DynaMed IMA-Systems Information-Technology GmbH Römerstraße 2 A-6900 Bregenz I
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
+**DISweb**
+
+**KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
+
+**CLASSY RT**
+
+**KHP Kelm & Homberg** **Produktionsgesellschaft GmbH & Co.KG** Friedrich-Ebert-Str. 85 58454 Witten Internet: www.khp-informatik.de
+
+Seite 14 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2608/38/136
+
+Y/80/2412/25/406
+
 |  | Y/80/2607/36/320 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2607/36/385 | 30.06.2029 | eAU |  |
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2608/38/136
-
-Y/80/2412/25/406 30.09.2029 eAU
+30.09.2029 eAU
 
 31.12.2026 eAU
 
 Mac OS Windows
 
-DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de CLASSY RT KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG Friedrich-Ebert-Str. 85 58454 Witten Internet: www.khp-informatik.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -462,21 +628,35 @@ DISweb KfH - Kuratorium für Dialyse und Nierentransplantation e.V. Martin-Behai
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
-|  | Y/80/2608/35/216 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2608/35/243 | 30.06.2029 | eAU |  |
+**x.isynet**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+Softwarevariante(n): - x.vianova
+
+**x.concept**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Y/80/2609/37/684
 
 Y/80/2609/37/135
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026 30.09.2029 eAU
+|  | Y/80/2608/35/216 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2608/35/243 | 30.06.2029 | eAU |  |
+
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026 30.09.2029 eAU
 
 30.09.2029 eAU
 
 Windows
 
-x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - x.vianova x.concept medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -496,21 +676,35 @@ x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 Softwarevariante(n): - psyx
 
+**medavis RIS**
+
+**medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
+
+**eRIS**
+
+**medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
+
+Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2608/35/266
+
+Y/80/2607/36/462
+
 |  | Y/80/2609/37/256 | 30.09.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2410/24/439 | 30.09.2026 | eAU |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2608/35/266
-
-Y/80/2607/36/462 30.06.2029 eAU
+30.06.2029 eAU
 
 30.06.2029 eAU
 
 Windows
 
-medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -528,21 +722,35 @@ medavis RIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.
 
 **Medical-Software Frank Savini** Kampenwandstr. 16 83229 Aschau i. Chiemgau Internet: www.medical-software.de
 
+**WIN-RADIOLOG**
+
+**medigration GmbH** Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de
+
+**Praxis-Programm**
+
+**medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
+
+Seite 17 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2411/24/433
+
+Y/80/2606/25/746
+
 |  | Y/80/2412/24/446 | 30.11.2026 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2608/38/030 | 30.09.2029 | eAU |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2411/24/433
-
-Y/80/2606/25/746 31.10.2026 eAU
+31.10.2026 eAU
 
 30.06.2028 eAU
 
 Windows
 
-WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden Internet: www.medigration.de Praxis-Programm medisoftware GmbH & Co. KG Steinstraße 1 24118 Kiel Internet: www.medisoftware.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -556,15 +764,29 @@ WIN-RADIOLOG medigration GmbH Dr.-Rudolf-Eberle-Straße 8 - 10 76534 Baden-Baden
 
 **MEDITEC Medizinische Datentechnologie** **GmbH** Griesbergstraße 1B-C 31162 Bad Salzdetfurth Internet: www.meditec-gmbh.com
 
+**garrioPRO**
+
+**MEDIVERBUND AG** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
+
+**MEDICUSplus**
+
+**MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
+
+Seite 18 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2501/24/087 31.12.2026
+
 |  | Y/80/2407/36/701 | 30.06.2027 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2609/37/192 | 30.09.2029 | eAU |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+eAU
 
-Y/80/2501/24/087 31.12.2026 eAU
+Linux Windows
 
-garrioPRO MEDIVERBUND AG Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de MEDICUSplus MEDNET Service für Ärzte AG Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de Linux Mac OS Windows WindowsLinux Windows
+Linux Mac OS Windows
+
+Windows
 
 
 ---
@@ -580,15 +802,29 @@ garrioPRO MEDIVERBUND AG Liebknechtstraße 29 70565 Stuttgart Internet: www.garr
 
 Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
+**MEDYS**
+
+**MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
+
+**M-KIS**
+
+**Meierhofer AG** Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com
+
+Seite 19 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2607/36/251
+
 |  | Y/80/2607/36/015 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2607/36/290 | 30.06.2029 | eAU |  |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+30.06.2029 eAU
 
-Y/80/2607/36/251 30.06.2029 eAU
+Windows
 
-MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS Meierhofer AG Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com Mac OS Windows WindowsWindows
+Mac OS Windows
+
+Windows
 
 
 ---
@@ -606,21 +842,35 @@ MEDYS MEDYS GmbH Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de M-KIS 
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
+**ClinicCentre Billing (OPD)**
+
+**Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
+
+**Med4WinPlus**
+
+**Müritz COMP Greifswald** **Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
+
+Seite 20 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2609/37/387
+
+Y/80/2608/35/276
+
 |  | Y/80/2607/36/422 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2507/24/494 | 30.06.2027 | eAU |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2609/37/387
-
-Y/80/2608/35/276 30.09.2029 eAU
+30.09.2029 eAU
 
 30.06.2029 eAU
 
 Windows
 
-ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannheim Internet: https://mesalvo.com Med4WinPlus Müritz COMP Greifswald Computersystemhaus GmbH An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -638,21 +888,35 @@ ClinicCentre Billing (OPD) Mesalvo Mannheim GmbH Am Exerzierplatz 14 68167 Mannh
 
 **New Media Company GmbH & Co. KG** Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
+**MEDOS**
+
+**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
+
+**NEXUS RIS**
+
+**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
+
+Seite 21 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2607/36/043
+
+Y/80/2607/36/299
+
 |  | Y/80/2607/36/278 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2410/24/487 | 30.09.2026 | eAU |  |
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2607/36/043
-
-Y/80/2607/36/299 30.06.2029 eAU
+30.06.2029 eAU
 
 30.06.2029 eAU
 
 Windows
 
-MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https://www.nexus-chili.com NEXUS RIS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https://www.nexus-chili.com Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -670,21 +934,33 @@ MEDOS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https
 
 **PEGA Elektronik GmbH** Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de
 
-|  | Y/80/2607/36/247 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2609/37/348 | 30.09.2029 | eAU |  |
+**PROFIMED**
+
+**PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
+
+**psyprax**
+
+**psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
 
 Y/80/2609/37/208
 
 Y/80/2609/37/083
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026 30.09.2029 eAU
+|  | Y/80/2607/36/247 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2609/37/348 | 30.09.2029 | eAU |  |
+
+Seite 22 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026 30.09.2029 eAU
 
 30.09.2029 eAU
 
 Windows
 
-PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -702,15 +978,23 @@ PROFIMED PRO MEDISOFT AG Besselstraße 25 68219 Mannheim Internet: www.pro-medis
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
-|  | Y/80/2507/24/308 | 30.06.2027 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2609/37/261 | 30.09.2029 | eAU |  |
+**RescuePro**
 
-Seite 23 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**RescuePro Production GmbH & Co. KG** Steinstraße 9 34385 Bad Karlshafen Internet: www.rescuepro.de
+
+**S3-Win**
+
+**S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
+
+Seite 23 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2609/37/456 30.09.2029
 
 Y/80/2608/35/626 30.06.2029
+
+|  | Y/80/2507/24/308 | 30.06.2027 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2609/37/261 | 30.09.2029 | eAU |  |
 
 eAU
 
@@ -718,7 +1002,11 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 iOS/Android Linux eAU
 
-RescuePro RescuePro Production GmbH & Co. KG Steinstraße 9 34385 Bad Karlshafen Internet: www.rescuepro.de S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de Windows Sonstige WindowsMac OS Sonstige Windows
+Mac OS Sonstige Windows
+
+Windows
+
+Sonstige Windows
 
 
 ---
@@ -736,15 +1024,25 @@ RescuePro RescuePro Production GmbH & Co. KG Steinstraße 9 34385 Bad Karlshafen
 
 **Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
 
+**QMED.PRAXIS**
+
+**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
+
+**principa**
+
+**SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
+
+Seite 24 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
+
+Y/80/2607/36/343
+
+Y/80/2609/37/171
+
 |  | Y/80/2607/36/230 | 30.06.2029 | eAU |  |
 |---|---|---|---|---|
 |  | Y/80/2608/35/458 | 30.06.2029 | eAU |  |
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
-
-Y/80/2607/36/343
-
-Y/80/2609/37/171 30.06.2029
+30.06.2029
 
 30.09.2029
 
@@ -754,7 +1052,11 @@ eAU
 
 Sonstige Windows
 
-QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de principa SIEGELE Software GmbH Wehrgasse 28/3+4 A-1050 Wien Windows Linux WindowsWindows
+Windows
+
+Windows
+
+Linux Windows
 
 
 ---
@@ -772,15 +1074,23 @@ QMED.PRAXIS Schwerdtner Medizin-Software GmbH Loebensteinstraße 26 30175 Hannov
 
 **TeleClinic GmbH** Brienner Str. 45 80333 München Internet: www.teleclinic.com
 
-|  | Y/80/2607/36/313 | 30.06.2029 | eAU |  |
-|---|---|---|---|---|
-|  | Y/80/2410/24/205 | 30.09.2026 | eAU |  |
+**Medi10**
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
+
+**UNISOLO®-POESY**
+
+**UNISOLO® GmbH** Gaußstr. 7 38106 Braunschweig Internet: www.unisolo.de
+
+Seite 25 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 Y/80/2608/35/498 30.06.2029
 
 Y/80/2602/11/747 31.12.2026
+
+|  | Y/80/2607/36/313 | 30.06.2029 | eAU |  |
+|---|---|---|---|---|
+|  | Y/80/2410/24/205 | 30.09.2026 | eAU |  |
 
 eAU
 
@@ -788,7 +1098,11 @@ eAU
 
 iOS/Android Linux Mac OS Windows
 
-Medi10 UfP Systemhaus GmbH Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de UNISOLO®-POESY UNISOLO® GmbH Gaußstr. 7 38106 Braunschweig Internet: www.unisolo.de Windows WindowsiOS/Android Linux Mac OS Windows
+iOS/Android Linux Mac OS Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -818,7 +1132,7 @@ Y/80/2509/37/768
 
 30.09.2028 eAU
 
-Seite 26 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 05. September 2026
+Seite 26 / KBV / Verzeichnis zertifizierter Software für Digitale Muster / 12. September 2026
 
 **unterstützte** **Betriebssysteme**
 

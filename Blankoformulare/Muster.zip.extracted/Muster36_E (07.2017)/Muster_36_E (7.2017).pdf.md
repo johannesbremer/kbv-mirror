@@ -2,17 +2,21 @@
 
 **Name, Vorname des Versicherten**
 
+**geb. am**
+
 **Kostenträgerkennung Versicherten-Nr.**
+
+**Status**
 
 **Betriebsstätten-Nr.**
 
 **Arzt-Nr.**
 
-***Bitte informieren Sie sich bei Ihrer Krankenkasse über die*** ***geprüften*** ***und*** ***anerkannten*** ***Präventionsangebote*** ***Fördervoraussetzungen.***
+**Datum**
+
+***Bitte informieren Sie sich bei Ihrer Krankenkasse über die*** ***geprüften*** ***und*** ***anerkannten*** ***Präventionsangebote*** ***und*** ***die*** ***Fördervoraussetzungen.***
 
 **Hinweise des behandelnden Arztes (z.B. Kontraindikationen,** **Konkretisierung zur Präventionsempfehlung)**
-
-**PRF.NR.** **Muster 36/E (7.2017)**
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
@@ -20,14 +24,8 @@
 
 **36** **zur verhaltensbezogenen Primär-** **prävention gem. § 20 Abs. 5 SGB V**
 
-**Bewegungsgewohnheiten** **geb. am**
-
-**Ernährung** **Stressmanagement** **Suchtmittelkonsum** **Status**
-
-**Sonstiges**
-
-**Datum**
-
-***und*** ***die***
+**Bewegungsgewohnheiten** **Ernährung** **Stressmanagement** **Suchtmittelkonsum** **Sonstiges**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
+
+**PRF.NR.** **Muster 36/E (7.2017)**

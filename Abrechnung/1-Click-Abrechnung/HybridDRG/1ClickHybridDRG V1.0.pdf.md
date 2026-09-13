@@ -97,31 +97,25 @@ kv.digital GmbH
 
 **Die Spezifikation untersteht den Lizenzbestimmungen für die unentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)** [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
 
-Seite
+Seite 1ClickHybridDRG V1.0
 
 **Änderung**
 
-Präzisierung Anforderung [1HDRG0813]
-
-Änderung Anforderung [1HDRG0142]: Angabe  name/filename in Content-Type/Content-Disposition
-
-Aufnahme Anforderung [1HDRG0820]: Aktion  des Anwenders, wenn Rückmeldungen  ausbleiben
-
-initiale Erstellung
-
-[https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) 1ClickHybridDRG V1.0
-
 **Status**
+
+Präzisierung Anforderung [1HDRG0813]
 
 in Kraft
 
-außer Kraft
+Änderung Anforderung [1HDRG0142]: Angabe außer Kraft name/filename in Content-Type/Content-Disposition
+
+Aufnahme Anforderung [1HDRG0820]: Aktion außer Kraft des Anwenders, wenn Rückmeldungen  ausbleiben
+
+initiale Erstellung
 
 außer Kraft
 
-außer Kraft
-
-[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) 4 von 24
+[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) 4 von 24
 
 
 ---
@@ -354,6 +348,8 @@ Seite 11 von 24
 
 ---
 
+1ClickHybridDRG V1.0
+
 **3.3 Anforderungen an die 1ClickHybridDRG-Eingangsbestätigung**
 
 3.3.1 Anforderungen an den Nachrichten-Header
@@ -362,13 +358,13 @@ Die Anforderungen an den Nachrichten-Header sind in der Spezifikation MDN [MDN] 
 
 **[1HDRG0210]**
 
-Das Header-Element X-KIM-Dienstkennung
+Das Header-Element X-KIM-Dienstkennung **MUSS** genau den
 
-Inhalt " 1ClickHybridDRG;Eingangsbestaetigung;V1.0
+Inhalt " 1ClickHybridDRG;Eingangsbestaetigung;V1.0 " aufweisen.
 
 **[1HDRG0211]**
 
-Das Header-Element Subject **MUSS** genau den Inhalt "
+Das Header-Element Subject **MUSS** genau den Inhalt " 1ClickHybridDRG-
 
 Eingangsbestaetigung " aufweisen.
 
@@ -380,14 +376,8 @@ Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.
 
 Die 1ClickHybridDRG-Eingangsbestätigung enthält keine Anhänge.
 
-Seite 12 von 24 1ClickHybridDRG V1.0
+Seite 12 von 24
 
-**MUSS** genau den
-
-" aufweisen.
-
-```
-1ClickHybridDRG```
 
 ---
 
@@ -491,7 +481,7 @@ application/pdf
 
 **2 Tabelle: Metainformationen**
 
-Seite
+Seite 1ClickHybridDRG V1.0
 
 ein oder mehrere MIME-Segmente mit je einer PDF-Datei
 
@@ -500,11 +490,6 @@ ein oder mehrere MIME-Segmente mit je einer PDF-Datei
 ```
 base64
 base64
-```
-
-1ClickHybridDRG V1.0
-
-```
 Content-Type
 ```
 

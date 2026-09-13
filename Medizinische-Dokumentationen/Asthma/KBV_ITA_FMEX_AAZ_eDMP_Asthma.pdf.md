@@ -115,9 +115,9 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei   der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
+Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei  der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden   Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
+Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden  Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
 
 **2.1** **REALISIERTE OPTIONALE FUNKTIONEN EDMP ASTHMA**
 

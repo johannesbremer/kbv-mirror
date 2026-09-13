@@ -43,7 +43,7 @@ In Kraft
 
 KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
-Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Personenstandsgesetz Wertebereichs für den (PstG) Parameter Geschlecht des Patienten Änderungen Seite 2 von 37
+Wertebereichs für den Personenstandsgesetz Parameter Geschlecht des (PstG) Patienten Wertebereichs für den Personenstandsgesetz Parameter Geschlecht des (PstG) Patienten Änderungen Seite 2 von 37
 
 
 ---
@@ -226,39 +226,59 @@ Seite 4 von 37
 
 ### A B B I L D U N G S V E R Z E I C H N I S
 
-###
+Abbildung 1 Grundstruktur levelone .........................................................................................
 
-Abbildung 1 Grundstruktur levelone ......................................................................................... 11
+Abbildung 2 Grundstruktur clinical_document_header
 
-Abbildung 2 Grundstruktur clinical_document_header ........................................................... 13
+Abbildung 3 Grundstruktur document_relationship
 
-Abbildung 3 Grundstruktur document_relationship ................................................................ 16
+Abbildung 4 Grundstruktur provider .........................................................................................
 
-Abbildung 4 Grundstruktur provider ......................................................................................... 17
+Abbildung 5 Grundstruktur person (Arzt) ................................................................................
 
-Abbildung 5 Grundstruktur person (Arzt) ................................................................................ 18
+Abbildung 6 Grundstruktur person_name (Arzt)
 
-Abbildung 6 Grundstruktur person_name (Arzt) ..................................................................... 19
+Abbildung 7 Grundstruktur addr (Arzt) ....................................................................................
 
-Abbildung 7 Grundstruktur addr (Arzt) .................................................................................... 21
+Abbildung 8 Grundstruktur patient ...........................................................................................
 
-Abbildung 8 Grundstruktur patient ........................................................................................... 22
+Abbildung 9 Grundstruktur person (Patient)
 
-Abbildung 9 Grundstruktur person (Patient) ........................................................................... 23
+Abbildung 10 Grundstruktur person_name (Patient)
 
-Abbildung 10 Grundstruktur person_name (Patient) ................................................................ 24
+Abbildung 11 Grundstruktur sciphox:GesetzlicheKrankenversicherung
 
-Abbildung 11 Grundstruktur sciphox:GesetzlicheKrankenversicherung ................................ 26
+Abbildung 12 Grundstruktur sciphox:Software
 
-Abbildung 12 Grundstruktur sciphox:Software ......................................................................... 30
+Abbildung 13 Grundstruktur Kontakt .........................................................................................
 
-Abbildung 13 Grundstruktur Kontakt ......................................................................................... 32
+Abbildung 14 Grundstruktur sciphox:Software
 
-Abbildung 14 Grundstruktur sciphox:Software ......................................................................... 34
+Abbildung 15 Grundstruktur sciphox:Software
 
-Abbildung 15 Grundstruktur sciphox:Software ......................................................................... 35
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12 11
 
-KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
+........................................................... 13
+
+................................................................ 16 17
+
+18
+
+..................................................................... 19 21
+
+22
+
+........................................................................... 23
+
+................................................................ 24
+
+................................ 26
+
+......................................................................... 30 32
+
+......................................................................... 34
+
+......................................................................... 35
 
 Seite 5 von 37
 
@@ -393,6 +413,8 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 -  Das Element *Versichertennummer* darf im V-Attribut nur eine pseudonymisierte Versi- chertennummer enthalten.
 -  Die Elemente *KostentraegerAbrechnungsbereich, KVBereich, AbrechnungsVKNR,*  *SKTZusatzangabe, VersichertenstatusKVK, VersichertenartMFR, Statusergaenzung,*  *BisDatumderGueltigkeit und KVKEinlesedatum* entfallen vollständig.
 
+**Überblick-Unterschiede**
+
 | Volldatensatz | a-Datensatz |
 |---|---|
 | *document_type_cd V-Attribut :* | *document_type_cd V-Attribut:* |
@@ -421,7 +443,7 @@ Unterschiede im Header des a-Datensatzes zum Volldatensatz
 
 KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
-Überblick-Unterschiede EDMP_ASTHMA_EE EDMP_ASTHMA_EV EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A chiale a-DatensatzSeite 9 von 37
+EDMP_ASTHMA_EE EDMP_ASTHMA_EV EDMP_ASTHMA_EE_A EDMP_ASTHMA_EV_A chiale a-DatensatzSeite 9 von 37
 
 
 ---
@@ -432,7 +454,9 @@ KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
 Zur Visualisierung der verwendeten XML- Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden.
 
-**4.1 Kardinalität**
+## 4.1 Kardinalität
+
+Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
@@ -457,7 +481,9 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 **Beschreibung der Strukturelement-Symbole**
 
-**4.3 Sonstige Symbole**
+## 4.3 Sonstige Symbole
+
+Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 | Symbol | Beschreibung |
 |---|---|
@@ -472,7 +498,7 @@ Die Elemente eines Schema-Diagramms werden über sog. Strukturelemente miteinand
 
 KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
-Es existieren verschiedene Kardinalitäten: gestrichelter Linie dargestellt. mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Es werden außerdem folgende Diagramm-Symbole verwendet: Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp. stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. Seite 10 von 37
+gestrichelter Linie dargestellt. mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. delementen genau eins ausgewählt werden kann. in festgelegter Reihenfolge aufgeführt werden müssen. Pluszeichen am Rechteckrand symbolisiert. an, dass das Element an anderer Stelle im Schema defi- niert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. links symbolisiert einen Datentyp. stellt ein Gruppenelement dar, welches verschiedene Elemente zusammenfasst. Seite 10 von 37
 
 
 ---
@@ -667,15 +693,13 @@ Seite 14 von 37
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
-(1.2.276.0.76.5.100) stammt. Der Wert EDMP_DIABETES1_EE entspricht: „Erstmalige Do- kumentation Diabetes mellitus Typ 1“. Im *S* Attribut steht die eindeutige OID der Schlüsselta- belle. Die Bezeichnung des Systemnamens wird im  Attributs beschreibt den kodierten Wert des V-Attributs. Erlaubte Werte für das  nen aus der Schlüsseltabelle (1.2.276.0.76.5.100) entnommen werden. Das  *SN*-, und das *DN*-Attribut sind zwingend erforderlich. Das SN-Attribut hat den fixen Wert
+(1.2.276.0.76.5.100) stammt. Der Wert EDMP_DIABETES1_EE entspricht: „Erstmalige Do- kumentation Diabetes mellitus Typ 1“. Im *S* Attribut steht die eindeutige OID der Schlüsselta- belle. Die Bezeichnung des Systemnamens wird im *SN*-Attribut angegeben. Der Wert des DN- Attributs beschreibt den kodierten Wert des V-Attributs. Erlaubte Werte für das  nen aus der Schlüsseltabelle (1.2.276.0.76.5.100) entnommen werden. Das  *SN*-, und das *DN*-Attribut sind zwingend erforderlich. Das SN-Attribut hat den fixen Wert
 
 „KBV“.
 
 Als Beispiel sei hier folgender Code für erstmalige Dokumentation und Verlaufsdokumentation  Diabetes mellitus Typ 1 angegeben:
 
 <document_type_cd V="EDMP_DIABETES1_EE" S="1.2.276.0.76.5.100" SN="KBV"
-
-*SN*-Attribut angegeben. Der Wert des DN-
 
 DN="Erstmalige Dokumentation Diabetes mellitus Typ 1"/>
 
@@ -705,15 +729,11 @@ Das Element *origination_dttm* enthält als Wert das Kopfdatum der Dokumentation
 
 ## 6.7 Dokumentverweis (document_relationship)
 
-Bei einer Korrekturlieferung steht im Element *document_relationship*  sprungsdokument. Diese Angabe ist optional und muss nur bei Korrekturlieferungen angege- ben werden. Es ist ein komplexer Typ, der aus den Elementen  und *related_document* besteht.
+Bei einer Korrekturlieferung steht im Element *document_relationship* ein Verweis auf das Ur- sprungsdokument. Diese Angabe ist optional und muss nur bei Korrekturlieferungen angege- ben werden. Es ist ein komplexer Typ, der aus den Elementen *document_relationship.type_cd*  und *related_document* besteht.
 
 Die Grundstruktur für dieses Element ist in Abbildung 3 dargestellt.
 
 KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
-
-ein Verweis auf das Ur-
-
-*document_relationship.type_cd*
 
 *V*-Attribut kön- *V-*, das *S*-, das
 
@@ -838,7 +858,9 @@ Seite 17 von 37
 
 Das Element *person* enthält die zwingend erforderlichen Kindelemente  und *telecom*. Für a-Datensätze fallen Elemente  das Element *id* ist zu übermitteln. Die Struktur ist i
 
-Die Elemente *id person_name* schrieben. Die Daten dafür können dem Arztstempel oder anderen Metainformationen ent- nommen werden. Der Coderahmen für das Element
+**Abbildung 5 Grundstruktur person (Arzt)**
+
+Die Elemente *id person_name addr* und *telecom*  schrieben. Die Daten dafür können dem Arztstempel oder anderen Metainformationen ent- nommen werden. Der Coderahmen für das Element
 
 <person>
 
@@ -855,10 +877,6 @@ Die Elemente *id person_name* schrieben. Die Daten dafür können dem Arztstempe
 <addr>
 
 ...
-
-**Abbildung 5 Grundstruktur person (Arzt)**
-
-*addr* und *telecom*
 
 *person_name*
 
@@ -952,7 +970,9 @@ Seite 19 von 37
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
-6.8.3.2.1 Namensbestandteile des Arztes (nm)
+#### 6.8.3.2.1 Namensbestandteile des Arztes (nm)
+
+Das Element *nm* kann folgende Elemente enthalten:
 
 | Element | Werte | Datentyp | Kard. |
 |---|---|---|---|
@@ -971,7 +991,7 @@ Zu dem Element *PFX* kann es zusätzlich zum *V*-Attribut das  Ausprägungen geb
 
 **Tabelle 7 Erläuterungen PFX (Arzt)**
 
-Die Speicherung der Namen entspricht der Spezifikation der Krankenversichertenkarte (KVK).  Die folgende Tabelle zeigt die Abbildung der Angaben der Versichertenkarte auf die entspre-
+Die Speicherung der Namen entspricht der Spezifikation der Krankenversichertenkarte (KVK).  Die folgende Tabelle zeigt die Abbildung der Angaben der Versichertenkarte auf die entspre- chenden XML-Elemente:
 
 | Versichertenkarte | XML-Element |
 |---|---|
@@ -1008,11 +1028,13 @@ Abbildung 7 dargestellt.
 
 *HNR ZIP, CTY*
 
+und *CNT* Die Struktur dieses Elements ist in
+
 KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
-und *CNT* Die Struktur dieses Elements ist in *addr* enthält
+*addr* enthält
 
-Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen, z.B. „Freiherr“ oder „von“ Zeichen Zeichen Zeichen Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) chenden XML-Elemente: Seite 20 von 37
+durch Bindestriche oder Leerzeichen getrennt) führender Namenszusatz, wie z.B. „Dr. med“, und Adelsbezeichnungen, z.B. „Freiherr“ oder „von“ Zeichen Zeichen Zeichen Akademischer Grad, Zusatz beim Element PFX (mehrere Titel Namenszusätze sind durch Leerzeichen getrennt) Seite 20 von 37
 
 
 ---
@@ -1022,6 +1044,8 @@ Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzei
 **Abbildung 7 Grundstruktur addr (Arzt)**
 
 Wenn das Dokument nicht in einer Arztpraxis, sondern in einem Krankenhaus erstellt wird, so  steht im *ADL-*Element die Bezeichnung des Krankenhauses (z.B.  Krankenhaus"/>). Zusätzlich wird im zweiten *ADL-* das Dokument erstellt wurde, mit angegeben (z.B. <ADL V=""/>).  kument in einer Arztpraxis erstellt wird, dann kann das
+
+9 sind die Kindelemente des Elements *addr* erläutert und ihre Kardinalitäten angegeben.
 
 | Element | Wert | Datentyp | Kard. |
 |---|---|---|---|
@@ -1058,11 +1082,11 @@ Als Beispiel für eine Anschrift eines Krankenhauses sei hier folgender Code ang
 
 In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element  besteht aus den Attributen  ressen und Homepages aufzunehmen. Es muss für den Arzt oder das Krankenhaus mindes- tens eine Telefonnummer angegeben sein. Es sind maximal fünf dieser Elemente erlaubt. Bei
 
-KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
-
 **XML-Code 20 addr (Arzt)**
 
 *V* und *USE*. Es dient dazu, Telefon- und Faxnummern, Emailad-
+
+KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
 <ADL  Element die Krankenhausabteilung, in dem  Endoskopie *ADL-*Element wegfallen. In der
 
@@ -1074,14 +1098,16 @@ Tabelle
 
 *telecom*
 
-9  sind die Kindelemente des Elements addr erläutert und ihre Kardinalitäten angegeben. lung stattgefunden hat Seite 21 von 37
+lung stattgefunden hat Seite 21 von 37
 
 
 ---
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung Header für eDMP / a-Datensatz
 
-dem *V* mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
+dem *V*-Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden String, der  mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp“ beginnen muss.
+
+Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10 aufgeführt.
 
 | Code | Definition | Beispiel |
 |---|---|---|
@@ -1091,8 +1117,6 @@ dem *V* mit dem Wert „tel“, „fax“ „mailto“, „http“ oder „ftp�
 | http | Homepage | <telecom V="http://www.kbv.de" USE="WP"/> |
 | ftp | FTP-Server | <telecom V="ftp://ftp.kbv.de" USE="WP"/> |
 
--Attribut handelt es sich dabei um einen bis zu 150 Zeichen umfassenden String, der
-
 **Tabelle 10**
 
 **Erläuterungen telecom**
@@ -1101,13 +1125,9 @@ Das *USE*-Attribut darf hier nur den Wert „WP“ für working place aufweisen.
 
 ## 6.9 Patienteninformationen (patient)
 
-Das Element *patient* enthält die Daten des untersuchten Patienten und muss einmal vorhan- den sein. Es enthält die Kindelemente *patient.type_cd person birth_dttm* *ve_gender_cd* und *local_header*. Die grundsätzliche Struktur dieses Elements ist in der
+Das Element *patient* enthält die Daten des untersuchten Patienten und muss einmal vorhan- den sein. Es enthält die Kindelemente *patient.type_cd person birth_dttm administrati-*  *ve_gender_cd* und *local_header*. Die grundsätzliche Struktur dieses Elements ist in der Abbil-
 
 dung 8 dargestellt.
-
-*administrati-*
-
-Abbil-
 
 Der Coderahmen für das Element
 
@@ -1145,7 +1165,7 @@ KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
 **XML-Code 21 patient**
 
-Die Erläuterung für die verschiedenen Werte sind in der Tabelle 10  aufgeführt. Seite 22 von 37
+Seite 22 von 37
 
 
 ---
@@ -1229,12 +1249,14 @@ Der Coderahmen für dieses Element sieht wie folgt aus:
 
 **XML-Code 25 person_name (Patient)**
 
-6.9.2.2.1 Namensbestandteile des Patienten (nm)
+#### 6.9.2.2.1 Namensbestandteile des Patienten (nm)
+
+Das Element *nm* kann folgende Elemente enthalten:
 
 | Element | Werte | Datentyp | Kard. |
 |---|---|---|---|
 | GIV | Vornamen der Person (mehrere Vornamen sind | String  mit  max.  28 | 1..1 |
-| FAM | Familiennamen der Person | Zeichen | 1..1 |
+| FAM | Familiennamen der Person | String  mit  max.  28 | 1..1 |
 | PFX | führender Namenszusatz, wie z.B. „Dr. med“, | String  mit  max.  15 | 0..10 |
 
 **Tabelle 11Erläuterungen nm (Patient)**
@@ -1247,7 +1269,7 @@ In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: die Struktu
 
 KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 
-Das Element nm kann folgende Elemente enthalten: durch Bindestriche oder Leerzeichen getrennt) und Adelsbezeichnungen, „Freiherr“ oder „von“ Seite 24 von 37
+durch Bindestriche oder Leerzeichen getrennt) Zeichen Zeichen und Adelsbezeichnungen, „Freiherr“ Zeichen oder „von“ Seite 24 von 37
 
 
 ---
@@ -1291,9 +1313,7 @@ Seite 25 von 37
 
 ### Der Coderahmen für diese Sciphox-SSU würde dann wie folgt aussehen: Die Informationen
 
-müssen zum Teil aus der Kostenträgerstammdatei ermittelt werden. Die Angabe der OIDs ist
-
-### verpflichtend.
+müssen zum Teil aus der Kostenträgerstammdatei ermittelt werden. Die Angabe der OIDs ist  verpflichtend.
 
 <local_header ignore="all" descriptor="sciphox">
 
@@ -1435,7 +1455,7 @@ Für a- Datensätze ist die Versichertennummer pseudonymisiert zu übertragen. F
 
 ### 6.9.5.8 VersichertenstatusKVK
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: falls der Patient Mitglied  einer gesetzlichen Krankenversicherung und somit im Besitz einer Krankenversichertenkarte  ist, wird der Feldinhalt VersichertenstatusKVK in der Dokumentation eingetragen. Pflichtfeld,  wenn die KVK-Karte eingelesen wurde. Das Element  Attributen *V* und *S*. Im Attribut *V* muss eine 4-stellige Zahl erfasst werden. Das  muss den Wert “2.16.840.1.113883.3.7.1.2“ aufweisen.
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: falls der Patient Mitglied  einer gesetzlichen Krankenversicherung und somit im Besitz einer Krankenversichertenkarte  ist, wird der Feldinhalt VersichertenstatusKVK in der Dokumentation eingetragen. Pflichtfeld,  wenn die KVK-Karte eingelesen wurde. Das Element  Attributen *V* und *S*. Im Attribut *V*  muss den Wert “2.16.840.1.113883.3.7.1.2“ aufweisen.
 
 Als erste Ziffer des *V*-Attributwerts wird die „VersichertenartMFR“ gesetzt, siehe Schlüsseltab- elle mit OID: „2.16.840.1.113883.3.7.1.1“.
 
@@ -1445,12 +1465,16 @@ OID: „1.2.276.0.76.5.113“.
 
 Die letzten beiden Ziffern (3.-4. Stelle) der vierstelligen  Geburtsjahr des Versicherten an.
 
+**3.- 4. Stelle: Stichprobenbezug-Geburtsjahr**
+
 | Wert | Beschreibung |
 |---|---|
 | 00 in Verbindung mit Stelle 2 = 0 | Versicherter nimmt nicht an der Stichprobe |
 | 00-99 in Verbindung mit Stelle 2 > 0 | Geburtsjahr JJ |
 
 **Tabelle Stichprobenbezug-Geburtsjahr**
+
+muss eine 4-stellige Zahl erfasst werden. Das
 
 Folgender Beispielcode sei hier erwähnt:
 
@@ -1472,7 +1496,7 @@ aufgeführt. Pflichtfeld, wenn
 
 *VersichertenartMFR*
 
-3.- 4. Stelle: Stichprobenbezug-Geburtsjahr teil. Seite 28 von 37
+teil. Seite 28 von 37
 
 
 ---
@@ -1509,9 +1533,7 @@ Der Code könnte folgende Gestalt annehmen:
 
 ### 6.9.5.12 KVKEinlesedatum
 
-In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *KVKEinle-*  *sedatum* enthält ein *V* Attribut, in dem das Einlesedatum der KVK im Format „JJJJ-MM-TT“  einzutragen ist. Das *KVKEinlesedatum* muss vorhanden sein, wenn eine Versichertenkarte  Der Beispielcode könnte folgendermaßen aussehen:
-
-erfolgreich eingelesen wurde.
+In a-Datensätzen ist dieses Element nicht vorhanden. Volldatensatz: das Element *KVKEinle-*  *sedatum* enthält ein *V* Attribut, in dem das Einlesedatum der KVK im Format „JJJJ-MM-TT“  einzutragen ist. Das *KVKEinlesedatum* muss vorhanden sein, wenn eine Versichertenkarte  erfolgreich eingelesen wurde. Der Beispielcode könnte folgendermaßen aussehen:
 
 <sciphox:KVKEinlesedatum V="2007-07-12"/>
 
@@ -1581,23 +1603,11 @@ Seite 30 von 37
 
 ### 6.10.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten für DMPs neue Prüfnummern im neuen
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX* Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur- de. Ab 01.01.2008 gelten für DMPs neue Prüfnummern im neuen  Format:
 
-„a/n[n][n]/JJMM/nn/ccc“. Wobei  c=alphanummerische Zeichen. Das  Prüfnummer“. Es ist folgendes Code-Beispiel mit fiktiver KBV-Prüfnummer möglich:
-
-a=Softwareklasse,  *RT*-Attribut erhält als Wert den festen Wert „KBV-
+„a/n[n][n]/JJMM/nn/ccc“. Wobei a=Softwareklasse, n=Nummer, J=Jahr, M=Monat,  c=alphanummerische Zeichen. Das *RT*-Attribut erhält als Wert den festen Wert „KBV- Prüfnummer“. Es ist folgendes Code-Beispiel mit fiktiver KBV-Prüfnummer möglich:
 
 <sciphox:id EX="X/100/0801/36/103" RT="KBV-Prüfnummer"/>
-
-*EX* und *RT*. Das
-
-n=Nummer,
-
-*EX* Attribut erhält
-
-Format:
-
-J=Jahr, M=Monat,
 
 **XML-Code 42 id (Software)**
 
@@ -1734,9 +1744,7 @@ Das Element *telecom* ist zwingend erforderlich und besteht aus den Attributen *
 
 ### 6.10.6 Zusatzangabe zur XML-Schnittstelle (Software)
 
-Das Kindelement *Software* dient dazu, zusätzliche Informationen zur Schnittstelle und dem  Prüfmodul zu sammeln. Die Angabe zur verwendeten (DMP)-Schnittstelle und Version ist ver- pflichtend. Weitere Angaben zu dem XML-Prüfmodul können im zusätzlichen optionalen Kin- delement *Software* vorgenommen werden. Das Element besteht aus den Pflichtelementen  Die
-
-*SoftwareName SoftwareVersion SoftwareTyp* und dem optionalen Element *Software.*  Grundstruktur ist in Abbildung 14 dargestellt.
+Das Kindelement *Software* dient dazu, zusätzliche Informationen zur Schnittstelle und dem  Prüfmodul zu sammeln. Die Angabe zur verwendeten (DMP)-Schnittstelle und Version ist ver- pflichtend. Weitere Angaben zu dem XML-Prüfmodul können im zusätzlichen optionalen Kin- delement *Software* vorgenommen werden. Das Element besteht aus den Pflichtelementen  *SoftwareName SoftwareVersion SoftwareTyp* und dem optionalen Element *Software.* Die  Grundstruktur ist in Abbildung 14 dargestellt.
 
 KBV_ITA_VGEX_Schnittstelle_eHeader * Version 2.12
 

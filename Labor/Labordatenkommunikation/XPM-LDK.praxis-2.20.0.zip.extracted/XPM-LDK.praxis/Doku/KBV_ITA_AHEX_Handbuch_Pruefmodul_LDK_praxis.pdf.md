@@ -24,11 +24,9 @@ KBV_ITA_AHEX_Handbuch_Pruefmodul 1.0.4 28.01.2024 Status: In Kraft © Kassenärz
 | 1.0.1 | 15.06.2017 | KBV | Anpassung der Beschrei-  Einfügung eines Hinweises |  | **23** **24** |
 | 1.0.0 | 15.05.2017 | KBV | Initiale Erstellung |  | **all** |
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
-Seite 2 von 34
-
-Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung bei der Beschreibung der Prüfungen [KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
+Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung bei der Beschreibung der Prüfungen Seite 2 von 34
 
 
 ---
@@ -40,12 +38,19 @@ Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung 
 **1. EINLEITUNG**
 
 - **5**
-- 1.1 Begriffsklärung ....................................................................................................................... 5
-- 1.2 Systemvoraussetzungen ....................................................................................................... 6
 
-**2. VERZEICHNISSTRUKTUR**
+| 1.1 | Begriffsklärung....................................................................................................................... | 5 |
+|---|---|---|
+| 1.2 | Systemvoraussetzungen | ....................................................................................................... 6 |
+|  | **VERZEICHNISSTRUKTUR** | **7** |
 
-- **7**
+- .......................................................................................................................
+- ................................................................................................
+
+**2.**
+
+-
+
 - 2.1 Ordner 'Bin' ............................................................................................................................ 7
 - 2.2 Ordner 'Daten' ........................................................................................................................ 7
 - 2.3 Ordner 'Doku' ......................................................................................................................... 7
@@ -74,11 +79,10 @@ Java-Version aktualisiert im Abschnitt 4.2 aktualisiert bung der Datumsprüfung 
 - 3.5.2 Prüfung starten .................................................................................................................... 19
 - 3.5.3 Optionen .............................................................................................................................. 20
 - 3.5.4 Ansicht ................................................................................................................................. 20
-* Version 1.0.4
+
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 3 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -87,28 +91,48 @@ Seite 3 von 34
 
 **4. HINWEISE ZU JAVA**
 
-- **21**
-- 4.1 Starten eines Java-Programms ........................................................................................... 21
+- 4.1 Starten eines Java-Programms
 
 **5. PRÜFUNGEN DES XPM-LDK**
 
-- **23**
-- 5.1 Prüfungen bei Verwendung des Modus „Digitales Muster“ oder „Digitales Muster mit  Verzeichnisprüfung“....................................................................................................................... 23
-- 5.1.1 Einhaltung Anzahl erlaubter Zeichen ................................................................................... 24
-- 5.1.2 Einhaltung der vorgegebenen Schriftgrößen je Textfeld ..................................................... 24
-- 5.1.3 Einhaltung des Formats bei Datumsfeldern......................................................................... 24
-- 5.1.4 Für alle Textfelder ist die Option „Textlauf“ deaktiviert ........................................................ 24
-- 5.1.5 Für alle Felder ist die Option „nur lesend“ gesetzt ............................................................... 24
-- 5.1.6 Für alle Felder ist die Option „sichtbar“ gesetzt ................................................................... 24
-- 5.1.7 Das Formular wird gegen die PDF/A-3a – Spezifikationen validiert .................................... 25
-- 5.1.8 Es wird geprüft, ob alle Felder vorhanden und korrekt benannt sind ................................ 25
-- 5.2 Prüfungen im Prüfmodus „Abgleich zwischen digitalem Muster und LDT“.......................... 26
-- 5.2.1 Übergreifend ........................................................................................................................ 26
-- 5.2.2 Prüffälle für Muster 10 ......................................................................................................... 31
-- 5.2.3 Prüffälle für Muster 10A ....................................................................................................... 33
-- 5.3 Prüfungen im Prüfmodus „LDT“ bzw. „LDT Verzeichnisprüfung“ ........................................ 34
+- 5.1 Prüfungen bei Verwendung des Modus „Digitales Muster“ oder „Digitales Muster mit
+- Verzeichnisprüfung“.......................................................................................................................
+- 5.1.1 Einhaltung Anzahl erlaubter Zeichen
+- 5.1.2 Einhaltung der vorgegebenen Schriftgrößen
+- 5.1.3 Einhaltung des Formats bei Datumsfeldern
+- 5.1.4 Für alle Textfelder ist die Option
+- 5.1.5 Für alle Felder ist die Option „nur
+- 5.1.6 Für alle Felder ist die Option „sichtbar“ gesetzt
+- 5.1.7 Das Formular wird gegen die PDF/A-3a –
+- 5.1.8 Es wird geprüft, ob alle Felder vorhanden und korrekt
+- 5.2 Prüfungen im Prüfmodus „Abgleich zwischen digitalem Muster
+- 5.2.1 Übergreifend ........................................................................................................................
+- 5.2.2 Prüffälle für Muster 10 .........................................................................................................
+- 5.2.3 Prüffälle für Muster 10A .......................................................................................................
+- 5.3 Prüfungen im Prüfmodus „LDT“ bzw.
 
 [KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
+
+- **21**
+- ........................................................................................... 21
+- **23**
+
+-
+
+- 23
+- ................................................................................... 24
+- je Textfeld ..................................................... 24
+- ......................................................................... 24
+- „Textlauf“ deaktiviert ........................................................ 24
+- lesend“ gesetzt ............................................................... 24
+- ................................................................... 24
+- Spezifikationen validiert .................................... 25
+- benannt sind ................................ 25
+- und LDT“.......................... 26
+- 26
+- 31
+- 33
+- „LDT Verzeichnisprüfung“ ........................................ 34
 
 Seite 4 von 34
 
@@ -140,11 +164,10 @@ Das LDK-Prüfmodul ist auf allen Computersystemen lauffähig, für die die Java 
 - **XPM_LDK-Prüfprojekt**: Tabellen und Codeelemente, die die schnittstellenspezifi- sche Konfiguration enthalten; schnittstellenspezifischer Bestandteil des XPM_LDK - Pakets.
 - **XPM-Kernel**: Programm zum Interpretieren des XPM_LDK-Prüfprojektes, der Kernel  ist ohne verfahrensspezifisches Prüfprojekt nicht verwendbar; XPM-allgemeiner Be- standteil des XPM_LDK-Pakets.
 - **"Prüfmodul-Version"**: Bezeichnet die Version des XPM_LDK-Paketes.
-* Version 1.0.4
+
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 5 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -162,11 +185,9 @@ Langsamere Prozessoren und weniger Hauptspeicher erhöhen stark die Laufzeit des
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 6 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -209,11 +230,9 @@ In diesem Ordner befinden sich die XML-Schemadateien, die das Prüfformat defini
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 7 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -243,11 +262,9 @@ Das Prüfmodul LDK wird, wie eingangs erwähnt, mit verschiedenen Übergabeparam
 | LDT | -c, -f  Optional: -h, -m, -p,  -s, -v, -z, -e, | StartPruefung.bat und |
 | LDT Verzeichnisprü- | -c, -e, -s, -m,  Optional: -f, -h, -p,  -v, -z | VerzeichnisPruefung.bat und |
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
-Seite 8 von 34
-
-StartPruefung .sh VerzeichnisPruefung.sh [KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
+StartPruefung .sh VerzeichnisPruefung.sh Seite 8 von 34
 
 
 ---
@@ -281,19 +298,13 @@ z.B.: <pruefpfad>./</pruefpfad>
 
 Das Verzeichnis mit Prüfdateien wird im Element „
 
-```
-<pruefdaten>Daten/</pruefdaten>
-```
-
-z.B.:
+z.B.: <pruefdaten>Daten/</pruefdaten>
 
 # 3.3.1.3 Geprüft-OK-Verzeichnis
 
 Bei eingeschalteter Option –m wird die geprüfte Datei mit Status ‘ok’ in dieses Ver- zeichnis kopiert. Pfadangabe erfolgt im Element „
 
-* Version 1.0.4
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 **pruefpfad**“ festgelegt.
 
@@ -350,19 +361,13 @@ Diese Einstellung ermöglicht es, das Protokollieren der Warnungen ein- bzw. aus
 
 Wertebereich: „ja“, „nein“.
 
-```
-<warnungen>ja</warnungen>
-```
-
-z.B.:
+z.B.: <warnungen>ja</warnungen>
 
 # 3.3.1.10 Begrenzung der Fehlermeldungen
 
 Standardmäßig begrenzt das XPM_ LDK die gemeldeten Fehler einer bestimmten Mel- dungsnummer auf eine festgelegte maximale Anzahl. Die maximale Anzahl kann je  nach Prüfprojekt variieren und beträgt in der Regel zwischen 30 und 50. Diese Einstel- lung dient der Übersichtlichkeit eines Fehlerprotokolls, um die Liste nicht mit systemati- schen Fehlern zu überladen. Die standardmäßige Begrenzung kann ein- und ausge- schaltet werden.
 
-* Version 1.0.4
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 **fehlerdaten**
 
@@ -419,7 +424,7 @@ Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokol
 
 [KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
-CSV JRPRINT PDF PRINTER PRINTER_DIALOG RTF TEXT XLS chen’ lässt sich das Trennzeichen zwischen den Spal- ten festlegen. Standardmäßig ist hier das Komma vor- eingestellt. zeigt und gedruckt werden Seitenbreite in Zeichen festlegen. Standardmäßig ist hier die Breite von 80 Zeichen voreingestellt. Ein an- sprechendes Layout erreicht man, in dem die Breite auf den Wert 120 gesetzt wird. Seite 11 von 34
+CSV chen’ lässt sich das Trennzeichen zwischen den Spal- ten festlegen. Standardmäßig ist hier das Komma vor- eingestellt. JRPRINT zeigt und gedruckt werden PDF PRINTER PRINTER_DIALOG RTF TEXT Seitenbreite in Zeichen festlegen. Standardmäßig ist hier die Breite von 80 Zeichen voreingestellt. Ein an- sprechendes Layout erreicht man, in dem die Breite auf den Wert 120 gesetzt wird. XLS Seite 11 von 34
 
 
 ---
@@ -467,7 +472,7 @@ den Fehlerstatus an einer beliebigen Stelle im Dateinamen platzieren. Fehlt die
 
 # 3.3.3.1 Statistikdatei
 
-Im Abschnitt Ausgabedateien Element **‘Fehlerstatistik’**  liste festgelegt.
+Im Abschnitt Ausgabedateien Element  liste festgelegt.
 
 z.B.:
 
@@ -479,19 +484,19 @@ In der Statistikliste wird für jede Prüfdatei, für die eine Meldung des Prüf
 
 Die auftretenden Meldungstexte können das Zeichen ’%s’ enthalten. Dies ist kein Pro- grammfehler sondern nur ein Hinweis darauf, dass diese Meldung variable Inhalte ent-
 
-* Version 1.0.4
-
 [KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
-*${DATEI_NAME}*
+**‘Fehlerstatistik’**
 
-wird der Pfad für eine Statistik-
+* Version 1.0.4
 
-verwendet wird,
+*${DATEI_NAME}* verwendet wird,
 
 *${STATUS}*
 
 Variable
+
+wird der Pfad für eine Statistik-
 
 Seite 12 von 34
 
@@ -552,11 +557,9 @@ Wertebereich: „ja“, „nein“
 
 z.B.: <gui_selektion>nein</gui_selektion>
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 13 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -601,11 +604,9 @@ java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ...
 
 Das Prüfmodul kann als ein kommandozeilenorientiertes Programm gestartet werden.  Der Lauf des Prüfmoduls wird mithilfe von Übergabeparametern gesteuert. Es folgt eine  Auflistung aller Übergabeparameter.
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 14 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -663,11 +664,9 @@ XPM_LDK liest die Konfigurationsdatei ‘Konfig/konfig.xml’ ein und prüft die
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
-Seite 16 von 34
-
-und beendet sich anschließend. Wird außer diesem Übergabe- parameter auch noch die Konfigurationsdatei (Übergabepara- meter -c) angegeben, so wird zusätzlich die Versionsnummer des Prüfpaketes ausgegeben. hen, die vom Prüfmodul bearbeitet wird. Der Inhalt des Zip- Archivs darf nur Prüfdateien enthalten. Dieser Übergabepara- meter ist optional. Pfad zum PDF wird mit –f %PFAD% übergeben, außer bei der Verzeichnisprüfung. Bsp: -x –f ./DigitaleMuster PDF-Datei, deren Pfad hinter diesem Parameter angegeben wird und der LDT-Datei, deren Pfad hinter dem Parameter –f angegeben wird. [KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
+und beendet sich anschließend. Wird außer diesem Übergabe- parameter auch noch die Konfigurationsdatei (Übergabepara- meter -c) angegeben, so wird zusätzlich die Versionsnummer des Prüfpaketes ausgegeben. hen, die vom Prüfmodul bearbeitet wird. Der Inhalt des Zip- Archivs darf nur Prüfdateien enthalten. Dieser Übergabepara- meter ist optional. Pfad zum PDF wird mit –f %PFAD% übergeben, außer bei der Verzeichnisprüfung. Bsp: -x –f ./DigitaleMuster PDF-Datei, deren Pfad hinter diesem Parameter angegeben wird und der LDT-Datei, deren Pfad hinter dem Parameter –f angegeben wird. Seite 16 von 34
 
 
 ---
@@ -714,11 +713,9 @@ XPM_LDK liest die Konfigurationsdatei „konfig.xml“ ein und prüft das PDF, w
 
 Das XPM_LDK liest die Konfigurationsdatei „konfig.xml“ ein und vergleicht den Inhalt des PDF´s  mit dem Inhalt der LDT- Datei.
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 17 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -741,11 +738,9 @@ Ist lediglich eine PDF-Datei ausgewählt, kann nur der Modus „PDF Formal“ ve
 
 Ist lediglich eine LDT-Datei ausgewählt, kann nur der Modus „Nur LDT“ ausgewählt  werden.
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 18 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -762,11 +757,9 @@ Seite 18 von 34
 
 ### oder
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 19 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -781,11 +774,9 @@ Unter „Ansicht“ kann die Fehlerstatistik und das Prüfprotokoll aufgerufen w
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 20 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -808,9 +799,7 @@ de.kbv.pruefmodul.GUI. LDK
 
 Der Befehl ‘java’ startet die virtuelle Maschine von Java.
 
-‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher
-
-Der Parameter  von bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf  bei Abrechnungsdateien in der Größenordnung bis ca. 300 MB.
+Der Parameter ‘–Xmx300m’ erlaubt der Java Laufzeitumgebung einen Hauptspeicher  von bis zu 300 MB zu reservieren. Diese Option garantiert einen stabilen Programmlauf  bei Abrechnungsdateien in der Größenordnung bis ca. 300 MB.
 
 Der Parameter ‘-Dfile.encoding=8859_15’ stellt den entsprechenden Zeichensatz  ein und ermöglicht hier die Verwendung von deutschen Umlauten.
 
@@ -822,11 +811,9 @@ Die Parameter ‘–c’ und ‘–f’ sind die eigentlichen Übergabeparameter
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 21 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -858,11 +845,9 @@ System.***out*** **println**("user.dir: " + System.getProperty("user.dir"));  XP
 System.***out*** **println**("Einzel-Prüfung mit Status " + **nStatus** + " beendet.");  System.***out*** **println**();
 ```
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 22 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -949,11 +934,9 @@ Das Prüfmodul prüft, ob bei allen Feldern die Option „sichtbar“ aktiviert 
 
 „Ausgeblendet“, „Sichtbar, aber drucken nicht möglich“ oder „Unsichtbar, aber Drucken  möglich“ dürfen nicht gesetzt sein. Bei einem Verstoß, gibt das Prüfmodul einen Fehler  zurück.
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 24 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -968,11 +951,9 @@ Das Prüfmodul prüft, ob alle Felder entsprechend den Vorgaben des techn. Handb
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 25 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1008,11 +989,9 @@ Das Prüfmodul prüft, ob der Inhalt des PDF-Formularfelds „3116_WOP“ mit de
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 26 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1064,11 +1043,9 @@ c) Ort(PDF) = LDT FK 3122
 
 a) Wohnsitzlaendercode(PDF) = LDT FK 3114 und
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 27 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1119,11 +1096,9 @@ Das Prüfmodul prüft, ob der Inhalt des PDF-Formularfelds
 
 Ist der Inhalt des PDF-Feldes „0000_weitere_Kennzeichen“ = 1, dann muss das LDT  Feld mit Feldkennung 7303 = 8 sein. Die Prüfung wird für alle vorhandenen Untersu-
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 28 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1170,11 +1145,9 @@ Das Prüfmodul prüft, ob der Inhalt des PDF-Formularfelds
 
 „8311_Labor_Auftragsnummer“ mit dem Inhalt des LDT-Felds mit Feldkennung „8311“  identisch ist. Ist dies nicht der Fall wird ein entsprechender Hinweis ausgegeben.
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 29 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1211,11 +1184,9 @@ Ist das nicht der Fall, wird ein entsprechender Hinweis ausgegeben.
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 30 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1262,11 +1233,9 @@ Das Prüfmodul prüft, ob der Inhalt des PDF-Formularfelds
 
 „4225“ vorhanden ist. Ist dies nicht der Fall wird ein entsprechender Hinweis ausgege- ben.
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 31 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1309,11 +1278,9 @@ Es wird davon ausgegangen, dass
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 32 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1362,11 +1329,9 @@ Wurde das Feld „4205_Auftrag61“ angekreuzt, so prüft das Prüfmodul, ob der
 
 „8410=2“, „8410=6“ sowie „8410=35“.
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 33 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]
 
 
 ---
@@ -1389,8 +1354,6 @@ Es werden die Vorgaben in der LDT 3.0 – Datensatzbeschreibung geprüft. Hierbe
 
 **XPM-LDK.praxis**  Handbuch Prüfmodul
 
-* Version 1.0.4
+[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis] * Version 1.0.4
 
 Seite 34 von 34
-
-[KBV_ITA_AHEX_Handbuch_Pruefmodul_LDK_praxis]

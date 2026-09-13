@@ -179,15 +179,13 @@ KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
 
 Anlage zur
 
-Anlage 4a
-
--Ä) [KBV_ITA_VGEX_Map-[KBV_ITA_VGEX_Daten-
-
 [2] bzw. der  (kurz
 
 *VE 52* oder *VE*
 
-„Bedruckung des  (BMV-Ä) erfolgen
+„Bedruckung des  Anlage 4a (BMV-Ä) erfolgen
+
+-Ä) [KBV_ITA_VGEX_Map-[KBV_ITA_VGEX_Daten-
 
 Seite 5 von 16
 
@@ -330,7 +328,7 @@ Dies stellt den Standardfall dar. Arztbriefe oder nicht vertragsärztliche Formu
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
-| **KP7-82** | Ausdruck von Namens- und Adressinformationen bei den Mustern |
+| **KP7-82** | Ausdruck von Namens- und Adressinformationen bei den Mustern  5, 6, 7, 10, 10A, 19, 39 |
 
 Bei Überweisungs- /Abrechnungsscheinen sind, sofern eine Versichertenkarte (eGK sowie  KVK) eingelesen wurde, immer die amtlichen Namens- und Adressinformation von der Versi-chertenkarte für den Ausdruck des Personalienfeldes zu verwenden. Das gilt auch dann, wenn  Name oder Adresse von der Versichertenkarte als veraltet bekannt ist.
 
@@ -362,7 +360,7 @@ Die Angabe und Übermittlung von ICD-10-Diagnosen ist in § 295 SGB V, ergänzt 
 
 KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
 
-5, 6, 7, 10, 10A, 19, 39Seite 9 von 16
+Seite 9 von 16
 
 
 ---
@@ -536,15 +534,13 @@ Der Anwender muss die Möglichkeit haben, notwendige zusätzliche Angaben außer
 
 **Akzeptanzkriterium:**
 
-Die Software erlaubt dem Anwender die Angabe eines Diagnosefreitextes. Der Freitext wird in  das Freitextfeld des Abschnitts
+Die Software erlaubt dem Anwender die Angabe eines Diagnosefreitextes. Der Freitext wird in  das Freitextfeld des Abschnitts *9. Sonstiges/Bemerkungen zum Gesundheitszustand*
 
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | **KP52-4** | Überprüfung des Platzbedarfes bei Diagnosefreitext |
 
 Die Software muss den Anwender über zu wenig Platz für den Ausdruck des Diagnosefreitex-tes informieren.
-
-*9. Sonstiges/Bemerkungen zum Gesundheitszustand*
 
 **Begründung:**
 
@@ -572,12 +568,12 @@ Der ASV-Arzt kann auch ein Laborfacharzt sein, der mittels Muster 10 in Anspruch
 
 KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung * Version 1.37
 
-- Kennzeichen „1“ in Zeile 6, Druckposi-eine „0“ oder im Rahmen einer Ersatzverord-
-- Nr“ gedruckt werden.
-
 gedruckt.
 
 gedruckt
+
+- Kennzeichen „1“ in Zeile 6, Druckposi-eine „0“ oder im Rahmen einer Ersatzverord-
+- Nr“ gedruckt werden.
 
 Pseudo-LANR für KrankenhäuserSeite 13 von 16
 

@@ -172,10 +172,7 @@ SEITE 7
 
 ## Elektronische Verordnung Heilmittel
 
-- Gemäß §360 Absatz 7 SGB V ist die elektronische Verordnung von Heilmitteln zum 1. Januar 2027
-
-# - zu ermöglich.
-
+- Gemäß §360 Absatz 7 SGB V ist die elektronische Verordnung von Heilmitteln zum 1. Januar 2027  zu ermöglich.
 - Aufgrund dieser gesetzlichen Vorgabe hat die gematik gemeinsam mit den betroffenen
 
 # - Akteuren nun die Erarbeitung des digitalen Verordnungsverfahrens gestartet.
@@ -244,9 +241,7 @@ SEITE 9
 
 ## - Brustimplantaten, Endoprothesen an Hüfte und Knie sowie Aortenklappenprothesen.
 
-- Die Spezifikation richtet sich unabhängig vom Versorgungssektor an alle meldepflichtigen  Gesundheitseinrichtungen und deren Softwarehersteller. Sie ist für das Meldejahr 2026
-
-## - verbindlich.
+- Die Spezifikation richtet sich unabhängig vom Versorgungssektor an alle meldepflichtigen  Gesundheitseinrichtungen und deren Softwarehersteller. Sie ist für das Meldejahr 2026  verbindlich.
 
 ## - Weitere Informationen und Downloads finden Sie auf den Webseiten zum Implantateregister
 
@@ -270,10 +265,7 @@ SEITE 10
 
 ## Abschaltung SNK zum Jahresende 2028
 
-- Das derzeit bestehende sichere Netz der KVen (SNK) soll bis Ende des Jahres 2028 abgeschaltet
-
-## - werden.
-
+- Das derzeit bestehende sichere Netz der KVen (SNK) soll bis Ende des Jahres 2028 abgeschaltet  werden.
 - Die KVen stellen bis Mitte 2027 alle derzeitigen Online-Anwendungen der KVen auf eine „Zwei-
 
 ## - Bein-Strategie“ um (Erreichbarkeit über Internet und über SNK).

@@ -43,7 +43,7 @@ Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausfüh
 
 # Datensatz für die indikationsspezifische Dokumentation
 
-sind die nachstehenden Felder der Anlage 18* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Symptomatik PHQ-9 Summenwert  Beginn aktuellen depressiven Episode Anlage 2* in Feld 10 mindestens die Angabe „Depression“  27, ganzzahlig) Beginn aktuellen depressiven Episode   erfolgt, und kleiner oder gleich 27 Anlage 18* im Erstdokumentation auszufüllen ist. im Folgedokumentation ist nicht zulässig.  sein. Rahmen einer Rahmen einer
+sind die nachstehenden Felder der Anlage 18* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Symptomatik PHQ-9 Summenwert  Beginn aktuellen depressiven Episode Anlage 2* in Feld 10 mindestens die Angabe „Depression“  27, ganzzahlig) Beginn aktuellen depressiven Episode   erfolgt, und kleiner oder gleich 27  sein. Anlage 18* im Rahmen einer Erstdokumentation auszufüllen ist. im Rahmen einer Folgedokumentation ist nicht zulässig.
 
 ---
 
@@ -78,4 +78,4 @@ Nummer mit Antidepressiva  DMP depressionsspezifischen teilgenommen Therapie Mon
 |  |  |  |  |
 | 10 | Depressionsspezifische | Digitales | Bedingtes Pflichtfeld  Eine Angabe ist erforderlich, wenn die  Eine Angabe im Rahmen einer |
 
-Nummer wahrgenommen Schulung Selbstmanagement-Programm/ Präsenzgruppenschulung / aktuell nicht möglich Dokumentation keine Schulung empfohlen  Nein / War Bei letzter Nur eine Angabe ist möglich Anlage 18* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig  Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Depression Version 1.0 letzte Bearbeitung: 30.04.2020
+Nummer wahrgenommen Schulung Selbstmanagement-Programm/ Präsenzgruppenschulung / Nein / War aktuell nicht möglich Bei letzter Dokumentation keine Schulung empfohlen  Nur eine Angabe ist möglich Anlage 18* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig  Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Depression Version 1.0 letzte Bearbeitung: 30.04.2020

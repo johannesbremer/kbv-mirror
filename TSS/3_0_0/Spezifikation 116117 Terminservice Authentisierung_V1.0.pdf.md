@@ -9,30 +9,21 @@ Herbert-Lewin-Platz 2 10623 Berlin
 
 ---
 
-**Inhalt**
+| Inhalt |  |  |  |  |
+|---|---|---|---|---|
+| **1** | **EINLEITUNG** | | **...............................................................................................................** | **4** |
+| **2** |  |  | **GRUNDSÄTZLICHES...................................................................................................** | **5** |
+| **3** |  |  | **VORAUSSETZUNG......................................................................................................** | **6** |
+| **4** | **USE** |  | **CASES.................................................................................................................** | **7** |
+| **4.1** |  | **Praxisverwaltungssystem** | | **(Primärsystem).............................................................................................7** |
+| **4.2** | **Online-Dienst** |  | **........................................................................................................................................7** | |
+| **5** |  | **ANFORDERUNGEN** | **.....................................................................................................** | **8** |
+| **5.1** |  |  | **Grundlage..............................................................................................................................................8** | |
+| **5.2** | **Übergreifende** |  | **Festlegung** | **.....................................................................................................................8** |
+| **5.3** |  |  | **Änderungen...........................................................................................................................................8** | |
+| **6** |  |  | **REFERENZEN............................................................................................................** | **14** |
 
-**1 EINLEITUNG ............................................................................................................... 4**
-
-**2 GRUNDSÄTZLICHES................................................................................................... 5**
-
-**3 VORAUSSETZUNG...................................................................................................... 6**
-
-**4 USE CASES................................................................................................................. 7**
-
-**4.1 Praxisverwaltungssystem (Primärsystem).............................................................................................7**
-
-**4.2 Online-Dienst ........................................................................................................................................7**
-
-**5 ANFORDERUNGEN ..................................................................................................... 8**
-
-**5.1 Grundlage..............................................................................................................................................8**
-
-**5.2 Übergreifende Festlegung .....................................................................................................................8**
-
-**5.3 Änderungen...........................................................................................................................................8**
-
-**6 REFERENZEN............................................................................................................ 14**
-
+EINLEITUNG ............................................................................................................... 4 GRUNDSÄTZLICHES................................................................................................... 5 VORAUSSETZUNG...................................................................................................... 6 USE CASES................................................................................................................. 7 4.1 Praxisverwaltungssystem (Primärsystem).............................................................................................7 4.2 Online-Dienst ........................................................................................................................................7 ANFORDERUNGEN ..................................................................................................... 8 5.1 Grundlage..............................................................................................................................................8 5.2 Übergreifende Festlegung .....................................................................................................................8 5.3 Änderungen...........................................................................................................................................8 REFERENZEN............................................................................................................ 14
 
 ---
 
@@ -143,17 +134,11 @@ In allen Anforderungen wird "E-Rezept" durch "116117 Terminservice" ersetzt.
 
 A_19451-01 - PS:  Lokalisierung E-Rezept-Fachdienst
 
-A_19744 - PS:  Endpunkt
-
-Schnittstelle E-Rezept
+A_19744 - PS:  Endpunkt  Schnittstelle E-Rezept
 
 A_19234 - PS:  Kommunikation  über TLS-Verbindung
 
-A_19235 - PS:
-
-Unzulässige  TLS-Verbindungen  ablehnen
-
-Seite 8 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+A_19235 - PS:  Unzulässige  TLS-Verbindungen  ablehnen
 
 **ÄNDERUNGEN**
 
@@ -175,14 +160,14 @@ Text ausgetauscht mit:
 
 "Das Primärsystem MUSS bei jedem Verbindungsaufbau den Dienst der  kv.digital GmbH anhand seines TLS-Zertifikats authentifizieren und MUSS die  Verbindungen ablehnen, falls die Authentifizierung fehlschlägt."
 
+Seite 8 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
+
 
 ---
 
 **SPEZIFIKATION** **SKAPITEL**
 
 5.1.2  Verschlüsselte  Kommunikation  zur VAU des E-Rezept  Fachdienstes
-
-Seite 9 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 **ANFORDERUNG**
 
@@ -197,6 +182,8 @@ erp-user
 A_21569 - PS: Anforderung entfällt und muss nicht umgesetzt werden. HTTP-Header X-erp-resource
 
 A_19741 - PS: Anforderung entfällt und muss nicht umgesetzt werden. Umsetzung  sicherer Kanal  zur VAU des E-Rezept-Fachdienstes
+
+Seite 9 von 14 / KBV / Spezifikation 116117 Terminservice Authentisierung
 
 
 ---
@@ -310,21 +297,7 @@ nein Verbindungsauf bau zum IDP der  kv.digital
 
 Aufbau sicherer ja Kanal zur VAU des E-Rezept-Fachdienstes
 
-Nur für PS der ja abgebenden LEI: Signaturzertifika
-
-t Fachdienst
-
-Anforderung entfällt und muss nicht umgesetzt werden.
-
-Text geändert
-
-von:
-
-"Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
-
-zu:
-
-"Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
+Nur für PS der ja abgebenden LEI: Signaturzertifika t Fachdienst
 
 **ZERTIFIKAT ROLLEN- NUTZU** **STYP**
 
@@ -343,6 +316,18 @@ aktiv Zertifikat
 C.FD.ENC oid_erp- aktiv vau
 
 C.FD.SIG oid_ereze aktiv pt
+
+Anforderung entfällt und muss nicht umgesetzt werden.
+
+Text geändert
+
+von:
+
+"Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
+
+zu:
+
+"Hierfür wird am Authorization-Endpunkt des IDP-Dienstes ein  "AUTHORIZATION_CODE" beantragt, der nach erfolgreicher Verifikation am  Token-Endpunkt des IDP-Dienstes gegen ein "ID_TOKEN" und ein  "ACCESS_TOKEN" getauscht wird."
 
 
 ---

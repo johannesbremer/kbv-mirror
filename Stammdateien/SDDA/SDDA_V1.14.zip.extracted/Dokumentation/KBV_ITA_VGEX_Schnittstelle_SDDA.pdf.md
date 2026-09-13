@@ -30,7 +30,7 @@ stellen-Stammdatei (SDDA) 1.14 Datum: 22.11.2024 Kennzeichnung: Öffentlich Stat
 
 KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
 
-kim_email können auch über KIM hinzugefügt erreicht werden tes d2d_kennung nung der Kapitel Paket Version einheitlich USE  existiert nicht für Element telecom für Element telecom kv_connect können auch über KV- hinzugefügt Connect erreicht werden ser- Erläuterung für Element vice_tmr  wird als optio- service_tmr nales Element in ver- schiedenen Elementen verwendet schnitts Schlüsseltabellen tenz Seite 2 von 33
+kim_email hinzugefügt können auch über KIM erreicht werden tes d2d_kennung nung der Kapitel Paket Version einheitlich USE  existiert nicht für Element telecom für Element telecom kv_connect hinzugefügt können auch über KV- Connect erreicht werden ser- Erläuterung für Element vice_tmr  wird als optio- service_tmr nales Element in ver- schiedenen Elementen verwendet schnitts Schlüsseltabellen tenz Seite 2 von 33
 
 
 ---
@@ -165,13 +165,11 @@ Beispiel:
 
 sdda_01.00_kbv.xml
 
-# 4 ehd  Element (root
+# 4 ehd  Element (root Element)
 
 Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea-der“ und „body“, wie es in Abbildung 1
 
 KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
-
-# Element)
 
 erfolgt
 
@@ -348,7 +346,7 @@ Y.. Jahreswert, M.. Monatswert, D.. Tageswert
 
 ## 5.4 origination_dttm (Erstellungsdatum)
 
-Das Element ***<origination_dttm>***
+Das Element
 
 Das Element hat folgenden Aufbau:
 
@@ -356,6 +354,8 @@ Das Element hat folgenden Aufbau:
 |---|---|
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V   **xs:date ** required |
 | example | <ehd:origination_dttm V="2005-04-21"/> |
+
+***<origination_dttm>***
 
 gilt von YYYY-MM-DD bis YYYY-MM-DD
 
@@ -498,9 +498,7 @@ Seite 13 von 33
 
 ***<organization>*** - Element anzugeben entfällt.
 
-***<addr>***     Angabe zu der Adresse, in der die Person erreichbar ist, wird hier hinter-
-
-### legt.
+***<addr>***     Angabe zu der Adresse, in der die Person erreichbar ist, wird hier hinter-legt.
 
 ***<telecom>***    Angabe zu den Telekommunikationskontakten (mail, fax, tel. usw...),  unter den die Person erreichbar ist, wird hier hinterlegt.
 
@@ -555,9 +553,7 @@ Seite 14 von 33
 
 #### 5.5.4.1 id (Personidentifikation)
 
-Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann eine
-
-### beliebige Zeichenfolge verwendet werden.
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss. Siehe: id (Dokument-ID). Im EX- und RT-Attribut kann eine  beliebige Zeichenfolge verwendet werden.
 
 Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetragen.
 
@@ -567,13 +563,9 @@ Es ist empfehlenswert die Version der Schlüsseltabelle aus folgenden Gründen i
 
 ### geben:
 
-a) Wenn neue Werte in die Schlüsseltabelle hinzugefügt werden, so kann anhand der  Tabellen-Version erkannt werden, dass es sich nicht um Fehlerwerte handelt, wenn  diese durch das Programm nicht erkannt werden. Die Fehlerursache kann damit ge-
+a) Wenn neue Werte in die Schlüsseltabelle hinzugefügt werden, so kann anhand der  Tabellen-Version erkannt werden, dass es sich nicht um Fehlerwerte handelt, wenn  diese durch das Programm nicht erkannt werden. Die Fehlerursache kann damit ge-klärt werden.
 
-### - klärt werden.
-
-b) Um nach mehreren Schlüsseltabellenänderungen noch klären zu können, wann ein  Wert gültig war. Die Tabellen-Version ist für die Überprüfung von älteren Dateien mit
-
-### - alten Schlüsseltabellenwerten wichtig.
+b) Um nach mehreren Schlüsseltabellenänderungen noch klären zu können, wann ein  Wert gültig war. Die Tabellen-Version ist für die Überprüfung von älteren Dateien mit  alten Schlüsseltabellenwerten wichtig.
 
 ***<id EX="3223" RT="2.3.5.3.T.e.s.t" RTV="1.10"/>***
 
@@ -714,17 +706,11 @@ Postfach
 
 ***<STA>*** Bundesland
 
-***<CNT>***
+***<CNT>*** Staat
 
-***<ADL>***
+***<ADL>*** zusätzliche Adressangabe (additional address locator)
 
-Werte für diese Elemente werden im V-Attribut angegeben. Jedes Adressteil-
-
-Staat
-
-zusätzliche Adressangabe (additional address locator)
-
-gende Attribute:
+Werte für diese Elemente werden im V-Attribut angegeben. Jedes Adressteil-Element hat fol-gende Attribute:
 
 Das Element hat folgende Attribute:
 
@@ -739,8 +725,6 @@ V: hier wird der Wert eingetragen
 <STR V="Herbert-Lewin-Platz"/>
 
 <HNR V="2"/>
-
-Element hat fol-
 
 <ZIP V="10682"/>
 
@@ -974,11 +958,11 @@ Versionsnummer der Schnittstelle
 
 ***</ehd:interface>***
 
-**XML-Code 13**  /ehd/header/interface
+**XML-Code 13**
 
 ### 5.6.1 id (Identifikation der Schnittstelle)
 
-Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss. Siehe: id (Dokument-ID) beliebige Zeichenfolge verwendet werden.
+Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, dass keine  GUID angegeben werden muss. Siehe:  beliebige Zeichenfolge verwendet werden.
 
 Wenn als Identifikation ein Kodewert aus einer Schlüsseltabelle verwendet werden soll, so  wird im EX-Attribut der Kodewert und im RT-Attribut die OID der Schlüsseltabelle eingetragen.  Zusätzlich im RTV-Attribut kann die Version der Schlüsseltabelle angegeben werden.
 
@@ -987,7 +971,9 @@ Das Element hat folgende Attribute:
 | attributes | Name    Type    Use    Default    Fixed    Annotation  EX   **xs:string ** required               RTV   **xs:string ** optional |
 |---|---|
 
-. Im EX- und RT-Attribut kann eine
+/ehd/header/interface
+
+id (Dokument-ID). Im EX- und RT-Attribut kann eine
 
 KBV_ITA_VGEX_Schnittstelle_SDDA * Version 1.14
 

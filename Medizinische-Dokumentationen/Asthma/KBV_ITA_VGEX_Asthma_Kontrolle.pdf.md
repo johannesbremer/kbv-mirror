@@ -24,7 +24,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4**
 
-| 2 | ZUSTÄ N DED ER A STHM AKONTROLLE | 5 |
+| 2 | ZUSTÄNDE DER ASTHMAKONTROLLE | 5 |
 |---|---|---|
 | 2.1 | Kontrolliert | 5 |
 | 2.2 | Teilweise kontrolliert | 5 |
@@ -35,9 +35,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 **8**
 
 Seite 2 von 8 / KBV / ZUSTANDSBEDINGUNGEN ASTHMAKONTROLLE / Version: 1.1 / 22. August 2024
-
-ZUSTÄNDE DER ASTHMAKONTROLLE 
-
 
 ---
 

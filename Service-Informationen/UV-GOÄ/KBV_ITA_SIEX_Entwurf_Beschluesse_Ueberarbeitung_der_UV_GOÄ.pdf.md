@@ -204,9 +204,11 @@ Nummer
 |---|---|---|---|---|---|
 | *4* | *10,00* | *10,00* |  |  |  |
 
-*Zuschlag zu Nr. 1 oder 2 für die Entscheidung des Durchgangsarztes, keine Behandlung zu*  *Lasten des Unfallversicherungsträgers einzuleiten bzw. diese abzubrechen. Voraussetzung*  *ist, dass die Gründe dokumentiert, Versicherte über die Entscheidung aufgeklärt und*  *bekannt weiterbehandelnde Ärzte informiert werden.*
+*Zuschlag zu Nr. 1 oder 2 für die Entscheidung des Durchgangsarztes, keine Behandlung zu*  *Lasten des Unfallversicherungsträgers einzuleiten bzw. diese abzubrechen. Voraussetzung*  *ist, dass die Gründe dokumentiert, Versicherte über die Entscheidung aufgeklärt und*  *bekannt*
 
 *Die Leistung kann nur von D-Ärzten abgerechnet werden.*
+
+*weiterbehandelnde Ärzte informiert werden.*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -216,11 +218,9 @@ Nummer
 
 *Die Leistung kann nur zweimal im Behandlungsfall abgerechnet werden und nicht für Kinder*  *bis zum 6. Geburtstag.*
 
-**5.** In I. Allgemeine Beratungen und Untersuchungen erhalten die Nummern 6, 6a, 6b, 7, 8  und 9 den Status „
+**5.** In I. Allgemeine Beratungen und Untersuchungen erhalten die Nummern 6, 6a, 6b, 7, 8  und 9 den Status „*nicht besetzt*
 
 **6.** In I. Allgemeine Beratungen und Untersuchungen werden die Nummern 10 und 10a wie  folgt gefasst:
-
-- *nicht besetzt*
 
 | „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@ Nummer
 *soweit*
 
 Nummer
+
 
 ---
 
@@ -309,6 +310,7 @@ Nummer*Zuschlag zu Nr. 11 für die Leistung zwischen 19 7 Uhr sowie an Samstagen
 
 Nummer
 
+
 ---
 
 *Daneben nicht abrechenbar: Nrn. 17, 34, 35, 6000, 6002*
@@ -348,6 +350,7 @@ Nummer
 *Beurteilung und Bewertung von Schnittbildern und /oder Röntgenbildern durch den D-Arzt*  *bei einem Arztwechsel*
 
 Nummer
+
 
 ---
 
@@ -448,11 +451,13 @@ Nummer Nummer
 |---|---|---|---|---|---|
 | *53* | *23,27* | *28,96* |  |  |  |
 
-*Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in unmittelbaren*  *zeitlichen Zusammenhang mit der Leistung nach Nr. 50, einschließlich Beratung und*  *Untersuchung.*
+*Besuch eines weiteren Kranken in derselben häuslichen Gemeinschaft in unmittelbaren*  *zeitlichen Zusammenhang mit der Leistung nach Nr. 50, einschließlich Beratung und*
+
+*Untersuchung.*
 
 *Die Leistung nach Nr. 53 darf nicht anstelle der Nr. 45 abgerechnet werden.*
 
-*Daneben nicht abrechenbar: Nrn. 1, 2, 45, 448 449*
+*Daneben nicht abrechenbar: Nrn. 1, 2, 45, 448*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -476,6 +481,7 @@ Nummer Nummer
 
 *Verweilen, ohne Unterbrechung und ohne Erbringung anderer ärztlicher Leistungen, je*  *angefangene halbe Stunde – am Tag*
 
+*449*
 
 ---
 
@@ -663,13 +669,11 @@ Nummer Nummer
 
 *Schreibgebühren für Gutachten nach den Nummern 146 bis 154, 155 (ausgenommen*  *audiologischer Befundbogen), 160, 161, 165, je Seite*
 
-*Daneben nicht abrechenbar: Nrn.110*
+*Daneben nicht abrechenbar: Nrn.110 119, 134*
 
 **34.** In Freie Gutachten erhält die Nummer 190 den Status „
 
 **35.** In Freie Gutachten werden die Nummern 191, 192 und 193 wie folgt gefasst:
-
-*119, 134*
 
 - *nicht besetzt*
 
@@ -751,7 +755,6 @@ Nummer
 |---|---|---|---|---|---|
 | *737* |  |  |  |  |  |
 
-
 ---
 
 *Kopie und Versand von Hauttestprotokollen, zuzüglich Porto*
@@ -792,7 +795,6 @@ Nummer
 
 **In Abschnitt J. Hals-, Nasen-, Ohrenheilkunde**
 
-
 ---
 
 | „ | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
@@ -826,7 +828,7 @@ Nummer*auch beiderseits zuzüglich Porto*
 |---|---|---|---|---|---|
 | *300* |  |  |  |  |  |
 
-*Allgemeine HB* *Besondere HB*
+*Allgemeine HB*
 
 *Punktion eines Gelenks*
 
@@ -839,8 +841,6 @@ Nummer*auch beiderseits zuzüglich Porto*
 *Punktion eines Ellenbogen-, Knie*
 
 *Daneben nicht abrechenbar: Nrn. 3400, 3410, 3420, 3430, 3440*
-
-*oder Wirbelgelenks*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|
@@ -857,6 +857,10 @@ Nummer*auch beiderseits zuzüglich Porto*
 | *448* |  |  |  |  |  |
 
 *Beobachtung und Betreuung eines Kranken bis zu zwei Stunden, während der Aufwach* *und/oder Erholungszeit bis zum Eintritt der Transportfähigkeit nach ambulanten operativen*  *Leistungen bei Durchführung unter ambulanten Anästhesien. Die Leistung nach Nummer*  *448 ist je Behandlungstag nur einmal berechnungsfähig.*
+
+*Besondere HB*
+
+*oder Wirbelgelenks*
 
 *Besondere Kosten* *Allg. Kosten* *Sachkosten*
 
@@ -901,6 +905,7 @@ Nummer
 | *753* |  |  |  |  |  |
 
 Nummer Nummer
+
 
 ---
 
@@ -954,6 +959,7 @@ Nummer Nummer
 
 Nummer
 
+
 ---
 
 *Verweilgebühren sind nach Ablauf einer halben Stunde zusätzlich berechnungsfähig.*
@@ -996,7 +1002,6 @@ Nummer
 
 *einschließlich*
 
-
 ---
 
 *Bei den Kosten handelt es sich um eine Tagespauschale. Mit der Pauschale sind alle Kosten*  *einschließlich der Miete des Gerätes, aller Behandlungen und Materialkosten abgegolten.*  *Sie kann für jeden Kalendertag der Behandlung mit Ausnahme des letzten*  *Behandlungstages abgerechnet werden.*
@@ -1036,7 +1041,6 @@ Nummer
 *2065*
 
 *2065*
-
 
 ---
 
@@ -1266,7 +1270,6 @@ Nummer
 |---|---|---|---|---|---|
 | *3434* |  | *34,75* |  |  |  |
 
-
 ---
 
 *Zuschlag für eine arthroskopische Operation nach Nr. 3430 unter Verwendung von*  *allogenem oder alloplastischem Gewebe oder Material*
@@ -1311,10 +1314,11 @@ Nummer
 
 - *Castverbänden,*
 
-
 ---
 
-*OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*  *Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
+*OP-Sets beinhalten Verbrauchsmaterialien, die Bestandteil des Zuschlags sind. Sie können*  *daneben nicht abgerechnet werden.*
+
+*Die an der Operation beteiligten Ärzte, (ggf. auch der Betreiber des Ambulatoriums) haben*  *sich darüber zu verständigen, wer den Zuschlag abrechnet.*
 
 | *Nummer* | *Allgemeine HB* | *Besondere HB* | *Besondere Kosten* | *Allg. Kosten* | *Sachkosten* |
 |---|---|---|---|---|---|

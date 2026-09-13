@@ -26,22 +26,23 @@ INHALT
 | 1.2 Zertifizierungsablauf | 4 |
 | 1.3 Zertifizierungsportal | 5 |
 | 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prü fu nte rla gen | 5 |
+| 1.5 Prüfunterlagen | 5 |
 | 1.5.1 Verzeichnisstruktur | 6 |
-| 1.5.2 Einreichen von Prü fu nte rla gen als | PDF-Dokumente 6 |
-| 1.6 Prü fvorgaben | 6 |
-| 1.6.1 Prü fstam mdate n | 6 |
+| 1.5.2 Einreichen von Prüfunterlagen als | PDF-Dokumente 6 |
+| 1.6 Prüfvorgaben | 6 |
+| 1.6.1 Prüfstammdaten | 6 |
 | 1.6.2 Vorbereitung | 6 |
 | 1.6.3 Versichertendaten | 6 |
-| 1.6.4 Auflistung der Prü ffä lle | 6 |
+| 1.6.4 Auflistung der Prüffälle | 6 |
 | 1.6.5 Praxisdaten/ Arztstempel | 8 |
 
-| 2 | PRÜ | FFÄLLE |  |  | 9 |
-|---|---|---|---|---|---|
-| 2.1 | Prü | ffa ll A udit | k v.d ig | italG m bH | 9 |
-| 2.2 |  | Prüffall Muster | 6 – Ü | b erw eisungsschein | 10 |
-| 2.3 |  | Prüffall Muster | PTV11 | – Individuelle Patienteninformation zur | ambulanten |
-|  |  | Psychotherapeutischen | | Sprechstunde | 11 |
+**2 PRÜFFÄLLE**
+
+**9** 2.1 Prüffall Audit kv.digital GmbH
+
+9 2.2 Prüffall Muster 6  Überweisungsschein
+
+10 2.3 Prüffall Muster PTV11  Individuelle Patienteninformation zur ambulanten  Psychotherapeutischen Sprechstunde 11
 
 **3 REFERENZIERTE DOKUMENTE**
 
@@ -49,7 +50,7 @@ INHALT
 
 Seite 2 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
-Prüfunterlagen Einreichen von Prüfunterlagen als PDF-Dokumente Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall Audit kv.digital GmbH Prüffall Muster 6  Überweisungsschein Prüffall Muster PTV11  Individuelle Patienteninformation zur ambulanten Psychotherapeutischen Sprechstunde 
+Einreichen von Prüfunterlagen als PDF-Dokumente 
 
 
 ---
@@ -272,7 +273,7 @@ Seite 8 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Versio
 |  |  |
 |---|---|
 | **Prüffall-ID** | 01 |
-| **Testziel** | „ |
+| **Testziel** | Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit |
 | **Einzureichende** | Eine Audit-Bescheinigung der kv.digital GmbH |
 
 Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in  Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice-Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
@@ -281,7 +282,7 @@ Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.dig
 
 Seite 9 von 12 / KBV / Pruefpaket 116117 Terminservice Vermittlungscode / Version: 1.01 / 9. Mai 2025
 
-Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 116117 Terminservice -Vermittlungscode als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung.
+116117 Terminservice -Vermittlungscode als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung.
 
 |  |  |
 |---|---|

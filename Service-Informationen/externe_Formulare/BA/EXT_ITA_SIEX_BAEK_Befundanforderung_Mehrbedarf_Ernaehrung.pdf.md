@@ -1,4 +1,4 @@
-# Mehrbedarf für kostenaufwändige Ernährung aus medizinischen Gründen (i. S. d. § 21 Abs. 5  SGB II) – BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR
+# Mehrbedarf für kostenaufwändige Ernährung aus medizinischen Gründen (i. S. d. § 21 Abs. 5  SGB II) – BEFUNDBERICHT FÜR DEN ÄRZTLICHEN DIENST DER BUNDESAGENTUR FÜR  ARBEIT
 
 Name, Vorname, Geburtsdatum der Patientin / des Patienten
 
@@ -10,7 +10,13 @@ Patient/in befindet sich seit
 
 # Letzte Behandlung am
 
+regelmäßig
+
 # Relevante Diagnose(n) in Bezug auf ernährungsbedingten Mehrbedarf:
+
+BGL-Nummer:
+
+gelegentlich  nicht in meiner Behandlung
 
 # Krankheitsverlauf (insbesondere bei Mangelernährung):
 
@@ -29,12 +35,6 @@ AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21.
 cm
 
 kg vom (Datum): 12
-
-# ARBEIT
-
-BGL-Nummer:
-
-regelmäßig  gelegentlich  nicht in meiner Behandlung
 
 
 ---
@@ -103,9 +103,9 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | = | __________  €  ________  € |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | =  = | __________  €     __ |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
+| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: | **32,50 €** | = | **€** |
 | Portokosten: |  | = | **€** |
 | **Gesamtsumme:** |  | = | **€** |
 |  |  |  |  |
@@ -120,4 +120,4 @@ AM 6 ÄD – 1900.8_Befundbericht_BÄK_MEB_21. 12
 \| BIC: |
 \| Bank/Sparkasse: |
 
-für die ersten 50 Seiten für jede weitere Seite     32,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

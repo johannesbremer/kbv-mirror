@@ -20,11 +20,7 @@ Eine Angabe ist erforderlich.
 
 In halbjährlichen Abständen sollen die Serum-Elektrolyte (Natrium, Kalium) und die eGFR (auf Basis der  Serum-Kreatinin-Bestimmung) bestimmt werden. Bitte geben Sie an, ob die Bestimmung erfolgt ist oder  nicht.
 
-Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl  eGFR bestimmt haben. Sofern Sie nur einen von beiden Labortwerten innerhalb der letzten 6 Monate be-stimmt haben, geben Sie bitte „Nein“
-
-die Serum-Elektrolyte (Natrium, Kalium) als auch die
-
-an.
+Bitte geben Sie „Ja“ nur dann an, wenn Sie sowohl die Serum-Elektrolyte (Natrium, Kalium) als auch die  eGFR bestimmt haben. Sofern Sie nur einen von beiden Labortwerten innerhalb der letzten 6 Monate be-stimmt haben, geben Sie bitte „Nein“ an.
 
 #### Symptomatik
 
@@ -140,17 +136,11 @@ Ausfüllanleitung Herzinsuffizienz Version 2.0 Stand der Bearbeitung 11-10-2024
 
 ob die Nicht-Verordnung auf eine Kontraindikation
 
-sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der
+sich Ihre Patientin bzw. Ihr Patient gerade in der Phase der  Die Angabe „Titrationsphase“ kann nicht gleich-
 
-Die Angabe „Titrationsphase“ kann nicht gleich-
+Ihrer Patientin bzw. Ihrem Patienten unter (gilt auch für ACE-
 
-Ihrer Patientin bzw. Ihrem Patienten unter
-
-Angabe „Ja“ oder „ARB“ erfolgt -Hemmers oder des ARB
-
-(gilt auch für ACE-
-
-(siehe
+Angabe „Ja“ oder „ARB“ erfolgt -Hemmers oder des ARB (siehe
 
 -Hemmers oder des ARB
 

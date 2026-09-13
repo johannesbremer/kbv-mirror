@@ -244,8 +244,6 @@ bsnr
 
 **1 Tabelle Eingabe-Parameter (Request)**
 
-Seite 9 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
-
 **FHIR RESSOURCE**
 
 FHIR ValueSet
@@ -267,6 +265,8 @@ String
 [KBV_VS_116117_TERMINSERVICE_VCA_Urgency](https://simplifier.net/vermittlungscode-abrufen-pvs/kbv-vs-116117-terminservice-vca-urgency)
 
 [KBV_PR_116117_TERMINSERVICE_VCA_Patient](https://simplifier.net/vermittlungscode-abrufen-pvs/kbv_pr_116117_terminservice_vca_patient)
+
+Seite 9 von 11 / KBV / Technische Anlage zur Spezifikation "116117 Terminservice - Vermittlungscode"
 
 
 ---

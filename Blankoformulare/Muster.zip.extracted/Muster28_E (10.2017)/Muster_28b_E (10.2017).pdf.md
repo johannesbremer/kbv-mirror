@@ -4,9 +4,9 @@
 
 **Kostenträgerkennung Versicherten-Nr.**
 
-**Arzt-Nr.**
-
 **Betriebsstätten-Nr.**
+
+**Arzt-Nr.**
 
 **Krankenhausbehandlung**
 
@@ -40,19 +40,19 @@
 
 **Ort**
 
-**Für das Ausstellen dieses Vordrucks ist die Nr. 30800 EBM** **berechnungsfähig.**
-
-**Soziotherapeutischer Leistungserbringer** **Ich erkläre, dass ich einen Vertrag gem. § 132b SGB V geschlossen habe oder eine vergleichbare Abrechnungsgenehmigung** **der zuständigen Krankenkasse vorliegt.**
-
-**Datum**
+**Datum** **Für das Ausstellen dieses Vordrucks ist die Nr. 30800 EBM** **berechnungsfähig.**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
+**Soziotherapeutischer Leistungserbringer** **Ich erkläre, dass ich einen Vertrag gem. § 132b SGB V geschlossen habe oder eine vergleichbare Abrechnungsgenehmigung** **der zuständigen Krankenkasse vorliegt.**
+
 **IK des Leistungserbringers**
 
-**Abrechnung des soziotherapeutischen Leistungserbringers** **Folgende Leistungen wurden erbracht** **Leistung**
+**Abrechnung des soziotherapeutischen Leistungserbringers** **Folgende Leistungen wurden erbracht**
 
 **Datum**
+
+**Leistung**
 
 **Bemerkungen zur Abrechnung** **Ich versichere, dass ich die aufgeführten Leistungen persönlich erbracht habe und bitte** **um Überweisung des vertraglich vereinbarten Betrages auf folgendes Konto**
 
@@ -66,11 +66,9 @@
 
 **Datum**
 
-**Stempel und Unterschrift**
-
 **Ausfertigung für den soziotherapeutischen Leistungserbringer**
 
-**des soziotherapeutischen Leistungserbringers**
+**Stempel und Unterschrift** **des soziotherapeutischen Leistungserbringers**
 
 **PRF.NR.** **Muster 28b/E(10.2017)**
 

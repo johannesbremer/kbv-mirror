@@ -116,6 +116,8 @@ Dauer
 
 h/tgl.
 
+Mobilität
+
 Flow l/min
 
 ärztliche Unterschrift
@@ -124,4 +126,4 @@ PRF.NR.
 
 Muster 62Cb/E (1.2023)
 
-Mobilität**Ausfertigung für den Leistungserbringer nach § 132I**
+**Ausfertigung für den Leistungserbringer nach § 132I**

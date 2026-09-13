@@ -4,16 +4,11 @@ A 1 2 3
 
 6
 
-| | | | | | | | | |
+7
+
+|  | APHAB Berechnungsvorschrift Detail | | | | | | | |
 |---|---|---|---|---|---|---|---|---|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-|  | **APHAB Berechnungsvorschrift Detail** | | | | | | | |
 |  | **Fragebogen zur Bestimmung der individuellen Hörbehinderung mit Beispielantworten und errechneten Werten** | | | | | | | |
-| | | | | | | | | |
 |  | **Frage** | **VOR Hörgeräteversorgung** | **NACH Hörgeräteversorgung** | **Nutzen** | | | | |
 |  | **Ausfülldatum:** |  | **Ausfülldatum:** | | | | | |
 |  | **(A-G)** | **Beschreibung** | **Prozent** | **(A-G)** | **Beschreibung** | **Prozent** | | |
@@ -41,8 +36,6 @@ A 1 2 3
 |  | 22 | b | fast immer | 87% | a | immer | 99% | 12% |
 |  | 23 | c | häufig | 75% | b | fast immer | 87% | 12% |
 |  | 24 | g | nie | 1% | f | selten | 12% | 11% |
-| | | | | | | | | |
-| | | | | | | | | |
 |  | **Gesamtbewertung und Nutzen/Verbesserung durch das Hörgerät** | | | | | | | |
 |  | **Dimension** | **VOR** | **NACH** | **Nutzen der** | | | | |
 |  | **Hörgeräteversorgung** | | | | | | | |
@@ -51,11 +44,7 @@ A 1 2 3
 |  |  | Hören in hallender Umgebung (RV) |  |  | 73% | 42% | 31% | |
 |  |  | Hören von lauten Geräuschen (AV) |  |  | 87% | 91% | -4% | |
 |  |  | **Gesamtbewertung (EC, BN, RV)** |  |  | **66%** | **48%** | **18%** | |
-| | | | | | | | | |
-| | | | | | | | | |
 |  |  | **Verbesserung der Hörfähigkeit** |  |  |  | 27% | | |
-
-7
 
 8 9
 
@@ -81,25 +70,17 @@ A 1 2 3
 
 50 51
 
-52 53 Es gelten die folgenden Voraussetzungen für die Berechnung: 54 55
-
-56 57  58 59  60 61 62  63  64
+52 53 54 Es gelten die folgenden Voraussetzungen für die Berechnung:  55 56 57  58 59  60 61 62  63  64
 
 65  66 67 68 69
 
 70 71
 
-72 73 74 75 und die Verbesserung der Hörfähigkeit (Feld G49) nicht berechnet werden.
+72 73 74 75 76 und die Verbesserung der Hörfähigkeit (Feld G49) nicht berechnet werden.  77 78 79 80 81  82  83  84  85  86  87  88 89  90 91 92  93
 
-76 77 78 79 80
+94  95  96 97 98 99 100
 
-81 82  83  84  85  86  87  88
-
-89  90 91 92  93
-
-94  95  96 97 98 99
-
-100 101 102 103 104
+101 102 103 104
 
 105 106 107 108 109
 

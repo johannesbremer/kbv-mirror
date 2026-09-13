@@ -48,49 +48,57 @@ Anforderungskatalogs nach § 73 SGB V für die Verordnung von Richtlinie des G-B
 
 ---
 
-### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
+### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
 
 # Inhaltsverzeichnis
 
-### Dokumentenhistorie 2
+### Dokumentenhistorie
 
-### Inhaltsverzeichnis 3
+### Inhaltsverzeichnis
 
-1. Allgemeines 4
+1. Allgemeines
 
-1.1
+1.1 Zielbestimmung ................................................................................................
 
-|  | Zielbestimmung | ............................................................................................................................... 4 |
-|---|---|---|
-|  | Funktionsarten................................................................................................................................. | 4 |
-| Allgemeine | Anforderungen an die | Software.................................................................................... 5 |
-|  | Einzubindende Stammdateien | 7 |
+1.2 Funktionsarten ................................................................................................................................
 
-1.2
+1.3 Allgemeine Anforderungen an die Software ................................................................
 
-1.3
+2. Einzubindende Stammdateien
 
-2.
+2.1 Heilmittel-Stammdatei ................................................................................................
 
-2.1 Heilmittel-Stammdatei ..................................................................................................................... 7
-
-2.2 ICD-10-GM-Stammdatei der KBV ................................................................................................... 9
+2.2 ICD-10-GM-Stammdatei der KBV ................................................................................................
 
 2.3 BVB-/LHM- Stammdatei ................................................................................................................ 10
 
 2.4 Blanko-Verordnungs-Stammdatei ................................................................................................. 12
 
-3. Anforderungen an die Verordnung von Heilmitteln 13
+3. Anforderungen an die Verordnung von Heilmitteln
 
 3.1 Dokumentation im Rahmen der Heilmittelverordnung .................................................................. 13
 
 3.2 Anforderungen an die Heilmittelverordnung .................................................................................. 16
 
-4. Statistik- und Controlling-Funktionen 47
-5. Glossar 51
-6. Referenzierte Dokumente 53
+4. Statistik- und Controlling-Funktionen
+5. Glossar
+6. Referenzierte Dokumente
 
-Allgemeine Anforderungen an die Software Seite 3
+### (Anlage 29 BMV-Ä) 2  3  4
+
+............................... 4
+
+. 4 .................... 5  7
+
+..................... 7
+
+... 9
+
+13
+
+47  51  53
+
+Seite 3
 
 
 ---
@@ -333,7 +341,7 @@ Seite 10
 
 ---
 
-#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 Diese Anforderung definiert nicht, dass Softwaresysteme zwingend mit der Struktur der bereitgestellten  Datei arbeiten müssen. Die Daten der Datei können in ein anderes Format überführt werden z. B. in Form  von Datenbanken.
 
@@ -341,25 +349,15 @@ Diese Anforderung definiert nicht, dass Softwaresysteme zwingend mit der Struktu
 |---|---|
 | **P2-08** | **Einbinden der besonderen Verordnungsbedarfe als Anlage** |
 
-Dem Anwender muss die Möglichkeit gegeben werden, sich in der Software die jeweils aktuelle Version  des Anhang 1
-
-Wirtschaftlichkeitsprüfung  Verordnungsbedarfe) [Heilmittel_Anhang_1] anzeigen zu lassen.
+Dem Anwender muss die Möglichkeit gegeben werden, sich in der Software die jeweils aktuelle Version  des Anhang 1 der Anlage 2 der Rahmenvorgaben nach 106b Abs. 2 SGB V für die  Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen (Diagnoseliste über besondere  Verordnungsbedarfe) [Heilmittel_Anhang_1] anzeigen zu lassen.
 
 **Begründung:**
 
 Der Anwender muss jederzeit auf alle Informationen zu den besonderen Verordnungsbedarfen zugreifen  können.
 
-der Anlage 2  ärztlich
-
 **Akzeptanzkriterium:**
 
-- (1) Dem Anwender muss die Möglichkeit gegeben werden, sich in der Software die jeweils aktuelle  Version des Anhang 1 der Anlage 2 der Rahmenvorgaben nach § 106b Abs. 2 SGB V für die  Wirtschaftlichkeitsprüfung ärztlich  Verordnungsbedarfe) [Heilmittel_Anhang_1] anzeigen zu lassen.
-
-#### (Anlage 29 BMV-Ä)
-
-der Rahmenvorgaben nach 106b Abs. 2 SGB V für die  verordneter Leistungen (Diagnoseliste über besondere
-
-- verordneter Leistungen (Diagnoseliste über besondere
+- (1) Dem Anwender muss die Möglichkeit gegeben werden, sich in der Software die jeweils aktuelle  Version des Anhang 1 der Anlage 2 der Rahmenvorgaben nach § 106b Abs. 2 SGB V für die  Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen (Diagnoseliste über besondere  Verordnungsbedarfe) [Heilmittel_Anhang_1] anzeigen zu lassen.
 
 Seite 11
 
@@ -779,13 +777,13 @@ Seite 22
 
 ---
 
-#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel
+#### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 
 orientierende Behandlungsmenge beziehen sich (nach § 7 Abs. 3 der HeilM-RL) auf den jeweils  verordnenden Arzt.
 
 **Akzeptanzkriterium**
 
-Die Software erkennt bei Vorliegen der nachfolgend definierten Kriterien, ob die Verordnung einem  neuen oder einem bestehenden Verordnungsfall zuzuordnen ist (siehe
+Die Software erkennt bei Vorliegen der nachfolgend definierten Kriterien, ob die Verordnung einem  neuen oder einem bestehenden Verordnungsfall zuzuordnen ist (siehe Abbildung 2
 
 Dabei gelten folgende Abhängigkeiten:
 
@@ -795,10 +793,6 @@ Dabei gelten folgende Abhängigkeiten:
 - (4) dreistelliger ICD-10-GM-Code (d. h. die ersten drei Stellen des ICD-10-GM-Codes sind identisch) im  Vergleich zur ersten Verordnung des Verordnungsfalls (Erstverordnung)
 - a. Mindestens ein ICD-10-GM-Code der Verordnung muss in den ersten drei Stellen mit einem der  ICD-10-GM-Codes der ersten Verordnung des Verordnungsfalls identisch sein.
 - (5) LANR des Arztes, der die Vorverordnung ausgestellt hat
-
-#### (Anlage 29 BMV-Ä)
-
-Abbildung 2
 
 **Abbildung 2:** Zuordnung der Verordnung zu einem Verordnungsfall
 
@@ -1428,7 +1422,7 @@ Nach § 15 Absatz 1 der HeilM-RL hat die Behandlung innerhalb von 28 Kalendertag
 
 **Akzeptanzkriterium:**
 
-Dem Anwender muss die Möglichkeit  Behandlungsbedarf, innerhalb von 14 Tagen“ auszuwählen.  gegeben werden, im Rahmen der Verordnung das Feld „dringlicher
+Dem Anwender muss die Möglichkeit gegeben werden, im Rahmen der Verordnung das Feld „dringlicher  Behandlungsbedarf, innerhalb von 14 Tagen“ auszuwählen.
 
 #### Anforderungskatalog nach § 73 SGB V für die Verordnung von Heilmittel  (Anlage 29 BMV-Ä)
 

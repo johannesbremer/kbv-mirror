@@ -1012,13 +1012,13 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 Seite 29 von 38 / KBV / Schnittstellenbeschreibung Osteoporose / Version: 1.02 / 14. November 2025
 
-*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
-
 ###
 
 *V*-Attribut die Feldbezeichnung
 
 *V*-Attribut die Feldbezeichnung
+
+*observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
 <sciphox:Parameter DN="Schulung bereits vor Einschreibung in das DMP wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/>|  |  |
 |---|---|

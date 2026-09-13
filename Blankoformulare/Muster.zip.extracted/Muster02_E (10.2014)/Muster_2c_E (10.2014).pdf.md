@@ -2,7 +2,11 @@
 
 **Name, Vorname des Versicherten**
 
+**geb. am**
+
 **Kostenträgerkennung Versicherten-Nr.**
+
+**Status**
 
 **Betriebsstätten-Nr.**
 
@@ -22,26 +26,18 @@
 
 **Mitgegebene Befunde**
 
-**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.** **Ausfertigung für den überweisenden Arzt**
+**Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
 **2**
 
 **Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
 
-**geb. am**
-
-**Belegarzt-**
-
-**Notfall**
-
-**behandlung**
+**Belegarzt-** **behandlung Notfall**
 
 **Unfall,**
 
-**Versorgungs-** **Unfallfolgen leiden (BVG)** **Status**
-
-**Nächsterreichbare, geeignete Krankenhäuser**
+**Versorgungs-** **Unfallfolgen leiden (BVG)** **Nächsterreichbare, geeignete Krankenhäuser**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**Muster 2c/E (10.2014)** **PRF.NR.**
+**Muster 2c/E (10.2014)** **PRF.NR.**  **Ausfertigung für den überweisenden Arzt**

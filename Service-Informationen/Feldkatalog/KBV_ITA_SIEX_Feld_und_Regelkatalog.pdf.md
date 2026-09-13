@@ -81,7 +81,7 @@ Zu jeder Feldkennung ist ein Eintrag mit den folgenden Angaben vorhanden:
 
 0001 Version XDT
 
-A 12
+12 A
 
 0080 ID der Fallakte oder Studie ≤ 60 A
 
@@ -91,13 +91,9 @@ Studie 0101 KBV-Prüfnummer
 
 16 A
 
-0102 Softwareverantwortlicher (SV)
+0102 Softwareverantwortlicher (SV)  60 A 0103 Software
 
-A 60
-
-0103 Software
-
-A 60
+60 A
 
 0104 Grouper-Software
 
@@ -107,31 +103,31 @@ A 60
 
 0111 Email-Adresse des SV
 
-A 60
+60 A
 
 0121 Straße des SV
 
-A 60
+60 A
 
 0122 PLZ des SV
 
-A 7
+7 A
 
 0123 Ort des SV
 
-A 60
+60 A
 
 0124 Telefonnummer des SV
 
-A 60
+60 A
 
 0125 Telefaxnummer des SV
 
-A 60
+60 A
 
 0126 Regionaler Systembetreuer
 
-A 60
+60 A
 
 (SB)
 
@@ -529,7 +525,7 @@ spruch gemäß §16 Abs. 3a SGB V   45 2 und KHK Typ 2 und KHK Typ 1 und KHK 1 u
 
 KBV_ITA_SIEX_Feld_Regelkatalog * Version 1.35
 
-60  60  60  60 suchungen tungen  60 Muster 85 (Nachweis der Anspruchs- berechtigung bei Ruhen des An- spruchs gemäß § 16 Absatz 3a SGB V) wird von den Krankenkassen aus- gestellt und dient dem Vertragsarzt als Information über den Behand- lungsanspruch. Versichertenkarte und der „Versi- cherte“ muss manu ell im Ersatzver- fahren aufgenommen werden. Muster 6 (Überweisungsschein) um ein entsprechendes Ankreuzfeld (ein- geschränkter Leistungsanspruch ge- mäß § 16 Absatz 3a SGB V) erwei- tert. Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten Leistungs- anspruch zu informieren.  formation im Rahmen seiner Abrech- nung unter Angabe des Feldes 4204 entsprechend übertragen.  haus) haus) sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, Zuläs- Zuläs-Seite 20 von 109
+60  60  60  60 suchungen tungen  60 Muster 85 (Nachweis der Anspruchs- berechtigung bei Ruhen des An- spruchs gemäß § 16 Absatz 3a SGB V) wird von den Krankenkassen aus- gestellt und dient dem Vertragsarzt als Information über den Behand- lungsanspruch. Versichertenkarte und der „Versi- cherte“ muss manu ell im Ersatzver- fahren aufgenommen werden. Muster 6 (Überweisungsschein) um ein entsprechendes Ankreuzfeld (ein- geschränkter Leistungsanspruch ge- mäß § 16 Absatz 3a SGB V) erwei- tert. Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Überweisung tätig wird, über den eingeschränkten Leistungs- anspruch zu informieren.  formation im Rahmen seiner Abrech- nung unter Angabe des Feldes 4204 entsprechend übertragen.  haus) haus) Zuläs- sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, Zuläs- sige UKV/OKV-Kennungen in den Arztnummern und Knapp-schaftsken- 37-73, 78-81, 83, 85-88, 93-96, 98, Seite 20 von 109
 
 
 ---
@@ -738,7 +734,7 @@ bzw.
 
 5, 6
 
-a 60
+60 a
 
 9 n
 
@@ -746,15 +742,15 @@ a 60
 
 4 n
 
-n 3
+3 n
 
-a 60
+60 a
 
-a 60
+60 a
 
-a 60
+60 a
 
-n 10
+10 n
 
 3 n
 
@@ -957,7 +953,7 @@ chung  60 chung  60  60 ELISA/Hersteller, Standard-Kul- tur/Hersteller, Multiple
 
 KBV_ITA_SIEX_Feld_Regelkatalog * Version 1.35
 
-60  60  60  60 immer den aktuellen Befund seinem Nutzer zu präsentieren 01, 02, 03, 04, 05, 06, 07, 99] stellung möglich) pen ist vorzugsweise das Obj_0055 zu verwenden sollen für eine semistrukturierte Dar- stellung von Nor-malwerten verwen- det werden. schrift einer Auflistung von Normal- werten. Seite 31 von 109
+immer den aktuellen Befund seinem Nutzer zu präsentieren 01, 02, 03, 04, 05, 06, 07, 99] stellung möglich) pen ist vorzugsweise das Obj_0055 zu verwenden sollen für eine semistrukturierte Dar- stellung von Nor-malwerten verwen- det werden. schrift einer Auflistung von Normal- werten. Seite 31 von 109
 
 
 ---
@@ -1694,9 +1690,7 @@ scheine Behandlungsscheine zzgl. aller Überweisungsscheine cherort Pfad/Speiche
 
 # 3 Regeltabelle
 
-Das Regelverzeichnis beschreibt die aktuell definierten Regeln der zugehörigen Feldkennun-
-
-### gen.
+Das Regelverzeichnis beschreibt die aktuell definierten Regeln der zugehörigen Feldkennun-gen.
 
 Zu jeder Regel ist ein Eintrag mit den folgenden Angaben vorhanden:
 
@@ -1775,9 +1769,8 @@ KBV_ITA_SIEX_Feld_Regelkatalog
 
 * Version 1.35
 
-Seite 61 von 109
+status TTMMJJ numerisch alphanumerisch „555555“ sein muss BAR-Schlüsselverzeichnisses, tolerierter Er- satzwert für die Ziffern 8 - 9: 00 Monat, JJ = Jahr, nn = Unterversi- onsnummer Menge ”G alpha” oder mindestens der Menge ”n” muss in einer GNR vorhanden sein. ... ... ... ... klasse kann optional verwendet wer- den, d.h. es kommt genau einmal oder keinmal vor. ... ...  numerisch  alphanumerisch  optional 39] risch) Seite 61 von 109
 
-status TTMMJJ numerisch alphanumerisch „555555“ sein muss BAR-Schlüsselverzeichnisses, tolerierter Er- satzwert für die Ziffern 8 - 9: 00 Monat, JJ = Jahr, nn = Unterversi- onsnummer Menge ”G alpha” oder mindestens muss in einer GNR vorhanden sein. ... ... klasse kann optional verwendet wer- den, d.h. es kommt genau einmal oder keinmal vor. ...  numerisch  alphanumerisch  optional 39] risch) der Menge ”n” ... ... ...
 
 ---
 
@@ -1916,7 +1909,7 @@ KBV_ITA_SIEX_Feld_Regelkatalog
 
 * Version 1.35
 
-status  Maschinendatum und Inhalt von FK 4239  21, 27, 28, muss FK 3006 vorhanden sein. schutz Ende (FK 4110) Inhalt Feld 4217 gilt: FK 4220 muss nur dann vorhanden sein, wenn Feldinhalt von FK 4239  Versicherungsschutz Ende (FK 4110) schutz Beginn (FK 4133) schriebenen Zeitraum liegen, welcher durch die Angabe des Quartals (4101) definiert ist muss entweder Feld 4218 oder Feld 4219 oder Feld 4226 vorhanden sein. (XOR) 4226 in einem Satz 0102 vorhanden sein. als Inhalt von FK 4239 00 erlaubt. das Feld 4233 vorhanden sein  Inhalte von 4239 20, 21, 23, 24, 26, 27, 28 erlaubt  27, 28 Anbieterstammdatei, dann gilt:  (/JJMM/)+ Gültigkeitsdauer in Mona- ten (/MM/) + 12 Monate) > = An- gabe in Feld „Abrechnungsquartal“ (FK 9204) Spalte „OMIM G“ bzw. OMIM -P- Kode (Inhalt FK 5071) in Spalte „O- P“ der Stammdatei vorhanden und jeweils 6-stellig Seite 65 von 109
+status  Maschinendatum und Inhalt von FK 4239  21, 27, 28, muss FK 3006 vorhanden sein. schutz Ende (FK 4110) Inhalt Feld 4217 gilt: FK 4220 muss nur dann vorhanden sein, wenn Feldinhalt von FK 4239  27, 28  Versicherungsschutz Ende (FK 4110) schutz Beginn (FK 4133) schriebenen Zeitraum liegen, welcher durch die Angabe des Quartals (4101) definiert ist muss entweder Feld 4218 oder Feld 4219 oder Feld 4226 vorhanden sein. (XOR) 4226 in einem Satz 0102 vorhanden sein. als Inhalt von FK 4239 00 erlaubt. das Feld 4233 vorhanden sein  Inhalte von 4239 20, 21, 23, 24, 26, 27, 28 erlaubt Anbieterstammdatei, dann gilt:  (/JJMM/)+ Gültigkeitsdauer in Mona- ten (/MM/) + 12 Monate) > = An- gabe in Feld „Abrechnungsquartal“ (FK 9204) Spalte „OMIM G“ bzw. OMIM -P- Kode (Inhalt FK 5071) in Spalte „O- P“ der Stammdatei vorhanden und jeweils 6-stellig Seite 65 von 109
 
 
 ---
@@ -1976,7 +1969,7 @@ KBV_ITA_SIEX_Feld_Regelkatalog
 
 * Version 1.35
 
-status Feld 8611 vorhanden sein des 8403 nur 1, 2 und 3 erlaubt ist, dann müssen die Felder 8610, 8601, 8602, 8606, 8607 vorhanden sein müssen die Felder 8601, 8602, 8606, 8607 FK 4239 = 28, dann muss das Feld 4102 vor- darf das Feld 8608 vorhanden sein  muss der Inhalt des Feldes 8609 = X sein muss das Feld 4221 vorhanden sein. FK 4239 = 28, dann muss das Feld 4102 vor- datum (FK 9103, SA „con0“) Inhalte von 4239 30, 31, 32 erlaubt Inhalte von 4239 41, 42, 43, 44, 45, 46 er- laubt FK 4225 vorhanden sein. 4229 vorhanden sein muss der Inhalt des Feldes 8609 ≠ „K“ sein. halt des Feldes 8609 = K ist, dann gilt: die Felder 3101, 3102, (3105 und/oder 3119) oder 4124, 3108, 2002, 4104, 27, 28.  Erstellungs- gleich dem Erstellungsdatum 20190202 (02.02.2019) Auftrag zulässig Seite 67 von 109
+status Feld 8611 vorhanden sein des 8403 nur 1, 2 und 3 erlaubt ist, dann müssen die Felder 8610, 8601, 8602, 8606, 8607 vorhanden sein müssen die Felder 8601, 8602, 8606, 8607 FK 4239 = 28, dann muss das Feld 4102 vor- darf das Feld 8608 vorhanden sein  muss der Inhalt des Feldes 8609 = X sein muss das Feld 4221 vorhanden sein. 27, 28. FK 4239 = 28, dann muss das Feld 4102 vor-  Erstellungs- datum (FK 9103, SA „con0“) Inhalte von 4239 30, 31, 32 erlaubt Inhalte von 4239 41, 42, 43, 44, 45, 46 er- laubt FK 4225 vorhanden sein. 4229 vorhanden sein muss der Inhalt des Feldes 8609 ≠ „K“ sein. halt des Feldes 8609 = K ist, dann gilt: die Felder 3101, 3102, (3105 und/oder 3119) oder 4124, 3108, 2002, 4104, gleich dem Erstellungsdatum 20190202 (02.02.2019) Auftrag zulässig Seite 67 von 109
 
 
 ---
@@ -2261,7 +2254,7 @@ status 2 des Feldes 4218 ≠ 35, dann gilt für den Inhalt des Feldes 4218 die F
 
 | R-Nr | Kategorie | Prüfung | Prüf- | Erläuterung |
 |---|---|---|---|---|
-|  |  |  | des Feldes 0132 dem regulären Ausdruck  entsprechen | 24:  fixes 6 25-60:  sonstige Informationen |
+|  |  |  | des Feldes 0132 dem regulären Ausdruck  entsprechen | 24:  fixes  25-60:  sonstige Informationen |
 | 843 | Kontext | Wenn Feldinhalt des Feldes 5001 = 32901[G- | F | G-alpha ::= A [ ] - optional  Dokumentationspflicht besteht auch |
 | 844 | Kontext | Wenn ein Feld 4225 vorhanden ist, dann | W |  |
 | 845 | Kontext | Wenn Feldinhalt von 4239  Wenn Feldinhalt von 4239 = 28 und wenn ein | W | vgl. Erläuterung Kapitel |
@@ -2849,7 +2842,7 @@ status den. muss FK 8421 vorkommen.   8421 nicht vorkommen. handen sein. sein vo
 
 KBV_ITA_SIEX_Feld_Regelkatalog * Version 1.35
 
-status (Obj_Laborergebnisbericht), dann muss min- destens eine FK 8002 mit den Werten Obj_0060 (Obj_Untersuchungsergebnis Klini- sche Chemie), Obj_0061 (Obj_Untersu- chungsergebnis Mikrobiologie), Obj_0062(Obj_Untersuchungsergebnis Krebsfrueherkennung Zervix-Karzinom), Obj_0063 (Obj_Untersuchungsergebnis Zyto- logie), Obj_0073(Sonstige Untersuchungser- geb-nisse) oder Obj_0055 (Obj_Transfusions- medizin/Mutterschaftsvorsorge) vorhanden sein. chungsanforderung) oder    FK 8002 = derbarer Leistungen oder auf Test-I- Obj_0061 (Obj_Untersuchungsergebnis Mik- dent referenziert. Sind keine dieser robiologie), dann muss FK 8410 oder FK Angaben verfügbar, können die An- 7260 oder FK 8434 vorhanden sein (FK 8410 forderungen auch als Freitext mit und FK 7260 dürfen nicht gemeinsam vor- der FK 8434 übertragen werden.  handen sein). 8002 = Obj_0059 (Obj_Untersuchungsanfor- derung) und     FK 7303 = 2 oder 10 dann muss FK 8410 vorhanden sein und FK 7260 darf nicht vorhanden sein. muss das FK 4221 vorhanden sein. ≠ 27 oder 28. den Kombinationen vorhanden sein:  durch Laborfachärzte durchgeführt werden. FK 4217 und FK 4241 oder  FK 4225 und FK 4241 oder  FK 4225 und FK 4248. 4229 vorhanden sein. ≠ 27, 28, dann muss FK 8241 vorhanden sein. muss vorhanden sein. tens erforderlichen Angaben im Obj_0007 (Anschrift). Grundlage für diese Regel bilden die Vorgaben des KVDT. inhalt ungleich „D“ ist, dann gilt: FK 3112 nicht vorhanden sein. inhalt ungleich „D“  ist, dann gilt:  nicht vorhanden sein. gilt für den Inhalt FK 5001 die Regel F009. rechnung GKV) und FK 0201 in Satzart 8230 LANR ist bei Anforderungen, die im oder 8215 vorhanden, dann muss auch FK Seite 102 von 109
+status (Obj_Laborergebnisbericht), dann muss min- destens eine FK 8002 mit den Werten Obj_0060 (Obj_Untersuchungsergebnis Klini- sche Chemie), Obj_0061 (Obj_Untersu- chungsergebnis Mikrobiologie), Obj_0062(Obj_Untersuchungsergebnis Krebsfrueherkennung Zervix-Karzinom), Obj_0063 (Obj_Untersuchungsergebnis Zyto- logie), Obj_0073(Sonstige Untersuchungser- geb-nisse) oder Obj_0055 (Obj_Transfusions- medizin/Mutterschaftsvorsorge) vorhanden sein. chungsanforderung) oder    FK 8002 = derbarer Leistungen oder auf Test-I- Obj_0061 (Obj_Untersuchungsergebnis Mik- dent referenziert. Sind keine dieser robiologie), dann muss FK 8410 oder FK Angaben verfügbar, können die An- 7260 oder FK 8434 vorhanden sein (FK 8410 forderungen auch als Freitext mit und FK 7260 dürfen nicht gemeinsam vor- der FK 8434 übertragen werden.  handen sein). 8002 = Obj_0059 (Obj_Untersuchungsanfor- derung) und     FK 7303 = 2 oder 10 dann muss FK 8410 vorhanden sein und FK 7260 darf nicht vorhanden sein. muss das FK 4221 vorhanden sein. ≠ 27 oder 28. den Kombinationen vorhanden sein:  durch Laborfachärzte durchgeführt FK 4217 und FK 4241 oder  werden. FK 4225 und FK 4241 oder  FK 4225 und FK 4248. 4229 vorhanden sein. ≠ 27, 28, dann muss FK 8241 vorhanden sein. muss vorhanden sein. tens erforderlichen Angaben im Obj_0007 (Anschrift). Grundlage für diese Regel bilden die Vorgaben des KVDT. inhalt ungleich „D“ ist, dann gilt: FK 3112 nicht vorhanden sein. inhalt ungleich „D“  ist, dann gilt:  nicht vorhanden sein. gilt für den Inhalt FK 5001 die Regel F009. rechnung GKV) und FK 0201 in Satzart 8230 LANR ist bei Anforderungen, die im oder 8215 vorhanden, dann muss auch FK Seite 102 von 109
 
 
 ---
@@ -2874,7 +2867,7 @@ status (Obj_Laborergebnisbericht), dann muss min- destens eine FK 8002 mit den W
 
 KBV_ITA_SIEX_Feld_Regelkatalog * Version 1.35
 
-status FK 0223 in Satzart 8230 oder sorgung beauftragt werden, obligat. 8215 vorhanden sein. Inhalt von FK 4221 ungleich 3 sein. dann muss Inhalt von FK 4106 = "01" sein. Inhalt von FK 4106 = "02" sein. Inhalt von FK 4106 = "00" sein. tens FK 3105 oder FK 3119 vorhanden sein. im Obj_0001(Obj_Abrechnungsinformatio- nen) mindestens einmal eine Feldkennung aus nachfolgender Liste vorhanden sein:  mit FK 8002 = Obj_0002 (Obj_Abrechnung GKV) vorhanden sind, dann müssen sich diese in der Kombination der Inhalte der FK 4239/FK 4221 unterscheiden. mation von den Abrechnungsobjek- ten und deren Inhalten  = 27 vorhanden sein. = 28 vorhanden sein. = 27 in Kombination mit FK 4221 = 2 vorhan- den sein. = 28 in Kombination mit FK 4221 = 2 vorhan- den sein. anforderung) kann nur vorkommen, wenn FK 8410 und FK 7260 nicht vorhanden sind. vorhanden, dann muss eine der folgenden Kombinationen vorhanden sein:  FK 4217 und FK 4241 oder  FK 4225 und FK 4241 oder  FK 4225 und FK 4248. Satzart 8215 muss nur dann verwendet wer- den, wenn die Inhalte des Obj_0022 (Obj_Einsenderidentifikation) von denen in Satzart 8230 abweichen. sein. Seite 103 von 109
+status FK 0223 in Satzart 8230 oder sorgung beauftragt werden, obligat. 8215 vorhanden sein. Inhalt von FK 4221 ungleich 3 sein. dann muss Inhalt von FK 4106 = "01" sein. Inhalt von FK 4106 = "02" sein. Inhalt von FK 4106 = "00" sein. tens FK 3105 oder FK 3119 vorhanden sein. im Obj_0001(Obj_Abrechnungsinformatio- nen) mindestens einmal eine Feldkennung aus nachfolgender Liste vorhanden sein:  mit FK 8002 = Obj_0002 (Obj_Abrechnung GKV) vorhanden sind, dann müssen sich diese in der Kombination der Inhalte der FK 4239/FK 4221 unterscheiden. mation von den Abrechnungsobjek- = 27 vorhanden sein. ten und deren Inhalten  = 28 vorhanden sein. = 27 in Kombination mit FK 4221 = 2 vorhan- den sein. = 28 in Kombination mit FK 4221 = 2 vorhan- den sein. anforderung) kann nur vorkommen, wenn FK 8410 und FK 7260 nicht vorhanden sind. vorhanden, dann muss eine der folgenden Kombinationen vorhanden sein:  FK 4217 und FK 4241 oder  FK 4225 und FK 4241 oder  FK 4225 und FK 4248. Satzart 8215 muss nur dann verwendet wer- den, wenn die Inhalte des Obj_0022 (Obj_Einsenderidentifikation) von denen in Satzart 8230 abweichen. sein. Seite 103 von 109
 
 
 ---
@@ -2982,7 +2975,7 @@ status mit den Werten 1, 2, 3, 8, 9 oder 10 in jeweili- ger Satzart dann müssen
 
 KBV_ITA_SIEX_Feld_Regelkatalog * Version 1.35
 
-status muss jeweils mindestens einmal vorkommen. FK 0222 vorhanden ist, dann muss entweder FK 0212 oder FK 0223 vorhanden sein. ≠ 28 und wenn FK 0222 vorhanden ist, dann muss ein FK 0212 vorhanden sein. Die FK 0223 darf nicht Krankenhausarzt im Rahmen seiner ASV-Berechtigung Mitglied einer La- borgemeinschaft ist und in diesem Zusammenhang Laborleistungen auf Muster 10A anfordert, gemäß § 25 Abs. 3 S. 7 BMV-Ä. oder die FK 8410 vorkommen gie“ wird entweder auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angefor- der-ten Leistung oder auf ein Test-I- dent verwiesen. oder die FK 8410 vorkommen tige Untersuchungsergebnisse“ wird entweder auf den Katalog anforder- bare Leistungen und das darin defi- nierte Kürzel der angeforderten Leistung oder auf ein Test-Ident ver- wie-sen. sein, wenn FK 7368 nicht vorhanden ist. durchgeführt werden. halt FK 3316 im Obj_0062 = 1 ist. dann gesetzt werden, wenn das Er- gebnis des HPV-HR-Tests positiv ist. 7415 oder FK 7417 oder FK 3318 oder FK 3319 vorhanden sind, und FK 3321 nicht vor- handen ist. 7415 oder FK 7417 oder FK 3318 oder FK 3319 vorhanden sind, und FK 3320 nicht vor- handen ist den sein, wenn die FK 7414 vorkommt und der Inhalt von FK 7414 die FK 3316 vorkommt und der Inhalt von FK 3316 ≠ 3 ist. ≠ 0 ist oder durchgeführt werden. mal vorkommen, wenn Inhalt von FK 7414 ≠ 0. halt von FK 3314 = 1 im Obj_0034 vorhanden ist. -HR- Testergebnis” darf nur gesetzt werden, wenn ein -HR- Test” vorliegt. tig vorhanden sein. Seite 107 von 109
+status muss jeweils mindestens einmal vorkommen. ≠ 28 und wenn FK 0222 vorhanden ist, dann muss entweder FK 0212 oder FK 0223 vorhanden sein. FK 0222 vorhanden ist, dann muss ein FK 0212 vorhanden sein. Die FK 0223 darf nicht Krankenhausarzt im Rahmen seiner ASV-Berechtigung Mitglied einer La- borgemeinschaft ist und in diesem Zusammenhang Laborleistungen auf Muster 10A anfordert, gemäß § 25 Abs. 3 S. 7 BMV-Ä. oder die FK 8410 vorkommen gie“ wird entweder auf den Katalog anforderbare Leistungen und das darin definierte Kürzel der angefor- der-ten Leistung oder auf ein Test-I- dent verwiesen. oder die FK 8410 vorkommen tige Untersuchungsergebnisse“ wird entweder auf den Katalog anforder- bare Leistungen und das darin defi- nierte Kürzel der angeforderten Leistung oder auf ein Test-Ident ver- wie-sen. sein, wenn FK 7368 nicht vorhanden ist. durchgeführt werden. halt FK 3316 im Obj_0062 = 1 ist. dann gesetzt werden, wenn das Er- gebnis des HPV-HR-Tests positiv ist. 7415 oder FK 7417 oder FK 3318 oder FK 3319 vorhanden sind, und FK 3321 nicht vor- handen ist. 7415 oder FK 7417 oder FK 3318 oder FK 3319 vorhanden sind, und FK 3320 nicht vor- handen ist den sein, wenn die FK 7414 vorkommt und der Inhalt von FK 7414 ≠ 0 ist oder die FK 3316 vorkommt und der Inhalt von FK 3316 ≠ 3 ist. durchgeführt werden. mal vorkommen, wenn Inhalt von FK 7414 ≠ 0. halt von FK 3314 = 1 im Obj_0034 vorhanden ist. -HR- Testergebnis” darf nur gesetzt werden, wenn ein -HR- Test” vorliegt. tig vorhanden sein. Seite 107 von 109
 
 
 ---
@@ -3041,15 +3034,15 @@ Für die Gruppe existieren inzwischen mehrere Nomenklaturen und Schreibweisen. F
 | V-e | V = 8 | e = 3 | 8,3 | **III** |
 | V-x | V = 8 | x = 4 | 8,4 | **III** |
 
-der Spalte „Gruppe “ den dazu in FK7413 zu übermittelnden Wert.
-
-“ den Wert, der im LDT mit der F
-
 ### Hinweis:
 
 # Alle PAP-Gruppen die in der Spalte „Nomenklatur“ den Wert „II“ haben dürfen nur bei  den bis zum 31.12.2014 verwendet werden.
 
 KBV_ITA_SIEX_Feld_Regelkatalog * Version 1.35
+
+der Spalte „Gruppe “ den dazu in FK7413 zu übermittelnden Wert.
+
+“ den Wert, der im LDT mit der F
 
 K7414 zu übermitteln ist und in der
 

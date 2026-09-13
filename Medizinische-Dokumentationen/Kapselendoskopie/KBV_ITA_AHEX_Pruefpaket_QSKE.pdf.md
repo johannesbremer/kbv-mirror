@@ -26,16 +26,16 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prü fu nte rla gen | 6 |
-| 1.6 | Prü fvorgaben | 7 |
-|  | 1.6.1 Prü fstam mdate n | 7 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 7 |
+|  | 1.6.1 Prüfstammdaten | 7 |
 |  | 1.6.2 Praxisdaten/ Arztstempel | 8 |
 
-| 2 | PRÜ | FFÄ LLE | 9 |
+| 2 |  | PRÜFFÄLLE | 9 |
 |---|---|---|---|
-| 2.1 | Prü | ffa ll 1 | 9 |
-| 2.2 | Prü | ffa ll 2 | 11 |
-| 2.3 | Prü | ffa ll 3 | 14 |
+| 2.1 | Prüffall | 1 | 9 |
+| 2.2 | Prüffall | 2 | 11 |
+| 2.3 | Prüffall | 3 | 14 |
 
 **3** **REFERENZIERTE DOKUMENTE**
 
@@ -43,7 +43,7 @@ INHALT
 
 Seite 2 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 
+Prüffall 1 Prüffall 2 Prüffall 3 
 
 
 ---
@@ -184,6 +184,18 @@ Urologe
 
 ---
 
+# 2 PRÜFFÄLLE
+
+**2.1** **PRÜFFALL 1**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 1 |
+| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermittlung an die Datenannahmestelle |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2015 |
+| **Prüfunterlagen** | Jahresstatistik 2014 |
+| **Hinweis** |  |
+
 | TABELLE 1 - JAHRESSTATISTIK 2014 | |
 |---|---|
 | **1 Anzahl Kapselendoskopien** | |
@@ -208,53 +220,16 @@ Urologe
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen mehr als 2 Stunden | 2 |
-| 2**2.1** | |
-|  |  |
-|  |  |
-|  | **Prüffall-ID** |
-| 1 | |
-| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermittlung an die Datenannahmestelle |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 1 |
-| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermittlung an die Datenannahmestelle |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2015 |
-| **Prüfunterlagen** | Jahresstatistik 2014 |
-| **Hinweis** |  |
 
 Seite 9 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
-gemäß Tabelle 1 PRÜFFÄLLE PRÜFFALL 1 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) 
+gemäß Tabelle 1 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) 
 
 
 ---
 
-|  | |
+| TABELLE 1 - JAHRESSTATISTIK 2014 | |
 |---|---|
-|  | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| **TABELLE 1 - JAHRESSTATISTIK 2014** | |
 | Anzahl unvollständiger Untersuchungen aufgrund von Stenosen | 2 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Divertikeln | 1 |
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 0 |
@@ -267,6 +242,16 @@ Empfehlungen zur Wiederholungsuntersuchung und 6
 
 
 ---
+
+**2.2** **PRÜFFALL 2**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 2 |
+| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSKE) erkannt werden müssen. |
+| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
+| **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
+| **Hinweis** |  |
 
 | KONSTELLATION 1 | |
 |---|---|
@@ -290,53 +275,16 @@ Empfehlungen zur Wiederholungsuntersuchung und 6
 | **6** | |
 | Anzahl vollständiger Untersuchungen | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen bis zu 1 Stunde | 0 |
-| **2.2** | |
-|  |  |
-|  |  |
-|  | **Prüffall-ID** |
-| 2 | **Testziel** |
-| Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die | KBV_ITA_VGEX_Plausi_QSKE |
-| ) erkannt werden müssen. | |
-| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 2 |
-| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSKE) erkannt werden müssen. |
-| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
-| **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
-| **Hinweis** |  |
 
 Seite 11 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
 
-Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) 
+Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. Befundklassifikation Beurteilbarkeit des Bildmaterials Status Vollständigkeit der Untersuchung (Zökum erreicht) 
 
 
 ---
 
-| 7  Kapselendoskopien mit Auslassung | |
+| KONSTELLATION 1 | |
 |---|---|
-| Kapselendoskopien ohne Auslassung | |
-| 4 |  |
-|  | **KONSTELLATION 3** |
-|  | |
-| **3 Auswertung der Kapselendoskopie** | Selbst ausgewertete Kapselendoskopie |
-| 18 | Auswertung durch anderen Arzt |
-| 2 |  |
-|  | |
-| **KONSTELLATION 4** |  |
-| **4 Befundklassifikation** | Untersuchungen mit Nachweis einer Blutungsquelle |
-| 7 | |
-| Untersuchungen ohne Nachweis einer Blutungsquelle | 15 |
-|  |  |
-| **KONSTELLATION 5** | |
-|  | **5** |
-| Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
-| Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 2 |
-| Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | |
-| 3 |  |
-|  |  |
-| **KONSTELLATION 1** | |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen 1 bis 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Retention im Magen mehr als 2 Stunden | 0 |
 | Anzahl unvollständiger Untersuchungen aufgrund von Stenosen | 0 |
@@ -344,10 +292,6 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | Anzahl unvollständiger Untersuchungen aufgrund anderer Ursachen | 0 |
 | **7** | |
 | Wiederholungsuntersuchung empfohlen aufgrund von Einschränkungen gemäß den Nummern 5 | 0 |
-
-Seite 12 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
-
-Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsmöglichkeit blutungsfördernder Medikation Nicht zutreffend 11 Beurteilbarkeit des Bildmaterials
 
 | KONSTELLATION 2 | |
 |---|---|
@@ -374,6 +318,10 @@ Empfehlungen zur Wiederholungsuntersuchung und 6 KONSTELLATION 2 2 Auslassungsm�
 | Kapselendoskopien mit nicht eingeschränkter Beurteilbarkeit | 17 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen technischer Probleme | 2 |
 | Kapselendoskopien mit eingeschränkter Beurteilbarkeit wegen eingeschränkter Sicht | 3 |
+
+Seite 12 von 15 / KBV / Pruefpaket QS- Kapselendoskopie / Version: 1.08 / 12. August 2021
+
+Empfehlungen zur Wiederholungsuntersuchung und 6 Beurteilbarkeit des Bildmaterials 
 
 
 ---

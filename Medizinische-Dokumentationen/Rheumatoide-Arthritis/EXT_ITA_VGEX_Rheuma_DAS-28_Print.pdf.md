@@ -32,19 +32,35 @@ Die 14 definierten Gelenke werden **sowohl auf der rechten als auch auf der link
 3. Handgelenk
 4. Fingergrundgelenk MCP 1
 5. Fingergrundgelenk MCP 2
-6. Fingergrundgelenk MCP 3
-7. Fingergrundgelenk MCP 4
-8. Fingergrundgelenk MCP 5
-9. Fingermittelgelenk PIP 1
-10. Fingermittelgelenk PIP 2
-11. Fingermittelgelenk PIP 3
-12. Fingermittelgelenk PIP 4
+6. Fingergrundgelenk MCP 3 7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
 
 | 13. | Fingermittelgelenk PIP 5 |  |  |
 |---|---|---|---|
 | 14. | Kniegelenk |  |  |
 
 Ein von der RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig geschwollen und druckschmerzhaft  sein. ***Daher sind die Gelenke separat hinsichtlich der Schwellung und der Schmerzen zu beurteilen.***
+
+Fingergrundgelenk MCP 4
+
+Fingergrundgelenk MCP 5
+
+Fingermittelgelenk PIP 1
+
+Fingermittelgelenk PIP 2
+
+Fingermittelgelenk PIP 3
+
+Fingermittelgelenk PIP 4
 
 , ob es **druckschmerzhaft** ist oder nicht:
 
@@ -66,6 +82,8 @@ Die Skala wird über eine 10 cm lange horizontale Linie mit den Begrenzungen 0 u
 Die VAS wird der Patientin oder dem Patienten mit folgender Instruktion vorgelegt:
 
 *„Bitte geben Sie auf dieser Skala an, wie aktiv Ihre rheumatoide Arthritis in den letzten 7 Tagen gewesen*  *ist. Null bedeutet dabei ‚keine Krankheitsaktivität‘ und 100 ‚stärkst mögliche Krankheitsaktivität‘.“*
+
+0
 
 | 0 |  | 100 |
 |---|---|---|

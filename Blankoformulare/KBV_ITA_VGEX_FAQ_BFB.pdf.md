@@ -26,17 +26,17 @@ BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS   Seite 1 von 9 / KBV / Fragen und An
 
 **4**
 
-| 3 |  | AUFBAU DES FEHLERBRIEFS | 6 |
+| 3 | AUFBAU | DES FEHLERBRIEFS | 6 |
 |---|---|---|---|
 | 3.1 | Antrag | auf Zertifizierung | 6 |
 | 3.2 |  | Personalienfeld | 6 |
 |  | 3.2.1 | Abmessungen | 6 |
 |  | 3.2.2 | Positionierung des Inhaltes | 6 |
-| 3.3 |  | Barcode | 7 |
+| 3.3 | Barcode |  | 7 |
 |  | 3.3.1 | Codierung | 7 |
 |  | 3.3.2 | Eigenschaften | 7 |
-| 3.4 | KBV-Prü | fn um mer | 7 |
-| 3.5 |  | Stempel | 8 |
+| 3.4 |  | KBV-Prüfnummer | 7 |
+| 3.5 | Stempel |  | 8 |
 
 **4** **ERLÄUTERUNG ZU BEGRIFFLICHKEITEN IM „ANTRAG AUF ZERTIFIZIERUNG“**
 
@@ -46,7 +46,7 @@ BUNDESVEREINIGUNG     IT IN DER ARZTPRAXIS   Seite 1 von 9 / KBV / Fragen und An
 
 **9**
 
-Antrag auf Zertifizierung KBV-Prüfnummer Seite 2 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
+AUFBAU DES FEHLERBRIEFS Antrag auf Zertifizierung Seite 2 von 9 / KBV / Fragen und Antworten zur Blankoformularbedruckung / Zu Version: 1.01 / 15. November 2022
 
 
 ---

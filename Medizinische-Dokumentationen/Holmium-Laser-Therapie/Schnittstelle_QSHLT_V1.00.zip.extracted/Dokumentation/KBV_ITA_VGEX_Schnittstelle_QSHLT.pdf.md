@@ -397,11 +397,7 @@ KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
 
 **XML-Code 1 - ehd Beispiel**
 
-[KBV_ITA_VGEX_eHD]
-
-4.2 beschrieben werden.
-
-. Damit
+[KBV_ITA_VGEX_eHD]. Damit 4.2 beschrieben werden.
 
 *ehd*, welches sich aus
 
@@ -416,16 +412,15 @@ Seite 12 von 23
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD]
+
+Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
 [KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-mente eingeschränkt:
 
 -  *Id*-Element: Die ID muss eindeutig sein. Dazu werden in die Attribute folgende Daten  eingetragen:
 - o Im EX-Attribut steht eine eindeutige id (GUID)
 - o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
-
-[KBV_ITA_VGEX_eHD]
-
 -  Im *document_type_cd*
 -  Das  eine Korrekturlieferung erfolgt.
 
@@ -437,10 +432,8 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Besc
 **Abbildung 3 - Element document_type_cd**
 
 - *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
-- o Das Element *document_relationship/document_relationship.type_cd* V-Attribut den Wert „RPLC“
-- o Das Element *document_relationship/related_document/id*  auf das *id*-Element des Ursprungsdokuments.
-- enthält im
-- enthält den Verweis
+- o Das Element *document_relationship/document_relationship.type_cd* enthält im  V-Attribut den Wert „RPLC“
+- o Das Element *document_relationship/related_document/id* enthält den Verweis  auf das *id*-Element des Ursprungsdokuments.
 
 **Abbildung 4 - Element document_relationship**
 
@@ -527,15 +520,13 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 <sciphox:id EX="X/55/0801/36/103" RT="KBV-Prüfnummer"/>
 
 **XML-Code 5 - id (Software)**
-
-*EX* und *RT*. Das *EX*-Attribut erhält
 
 KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
 
@@ -550,19 +541,13 @@ Seite 16 von 23
 
 Das *body*-Element enthält benutzerdefinierte Elemente und Typen für diese Schnittstelle.
 
-Das body-Element hat den benutzerdefinierten Typ  sem Typ wird im Kapitel  det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qshlt/001“.
-
-## 4.3 Element qshlt_
-
-Das Element *qshlt_dokumentation*
-
 **Abbildung 8 - Element body**
 
-4.3 beschrieben. Der Namensraum für die Kindelemente unterschei-
+Das body-Element hat den benutzerdefinierten Typ  sem Typ wird im Kapitel 4.3 beschrieben. Der Namensraum für die Kindelemente unterschei-det sich vom ehd-Namensraum und lautet wie folgt: „urn:ehd/qshlt/001“.
 
-## dokumentation
+## 4.3 Element qshlt_ dokumentation
 
-enthält die QS Holmium-Laser-Therapie Jahresstatistik.
+Das Element *qshlt_dokumentation* enthält die QS Holmium-Laser-Therapie Jahresstatistik.
 
 **Abbildung 9 - Element qshlt_dokumentation Teil 1**
 
@@ -575,9 +560,12 @@ Seite 17 von 23
 
 ---
 
+**Abbildung 10 - Element qshlt_dokumentation Teil 2**
+
+XML-Beispiel (ohne Anspruch auf Vollständigkeit)
+
 \| <qshlt:qshlt_dokumentation> |
 \|---|
-\| **Abbildung 10 - Element qshlt_dokumentation Teil 2 ** XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qshlt:qshlt_dokumentation> |
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung QS Holmium-Laser-Therapie
 
@@ -588,11 +576,20 @@ KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
 
 ---
 
-\| </qshlt:qshlt_dokumentation>     XML-Code 6 - qshlt dokumentation    4.3.1  Die Anzahl (nonNegativeInteger   4.3.2  Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der |
-\|---|
 \| </qshlt:qshlt_dokumentation> |
+\|---|
+
+**XML-Code 6 - qshlt dokumentation**
+
+### 4.3.1 anzahl_ersteingriffe
+
+Die Anzahl (nonNegativeInteger1) der Ersteingriffe wird hier im V-Attribut angegeben. Der  Wert muss zwischen 0 und 99999 liegen.
 
 1 Gemäß der W3C Spezifikation [2] nur ganze Zahlen im positiven Bereich inklusive „0“.
+
+### 4.3.2 anzahl_folgeeingriffe
+
+Die Anzahl (nonNegativeInteger) der Folgeeingriffe wird hier im V-Attribut angegeben. Der  Wert muss zwischen 0 und 99999 liegen.
 
 ### 4.3.3 anzahl_ eingriffe_mit_absoluter_op_indikation
 
@@ -614,7 +611,7 @@ Die Anzahl (nonNegativeInteger) der präoperativ sonografisch gemessenen Prostat
 
 KBV_ITA_VGEX_Schnittstelle_QSHLT * Version 1.00
 
-<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> anzahl_ersteingriffe ) der Ersteingriffe wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen. anzahl_folgeeingriffe Wert muss zwischen 0 und 99999 liegen. Seite 19 von 23
+<anzahl_umstiege_konventionelle_op V="5"/> <anzahl_interventionspflichtige_nachblutungen_ohne_transfusion V="1"/> <anzahl_interventionspflichtige_nachblutungen_mit_transfusion V="2"/> <anzahl_andere_interventionspflichtige_fruehkomplikationen V="0"/> <anzahl_operationszeit_0_59 V="4"/> <anzahl_operationszeit_60_89 V="15"/> <anzahl_operationszeit_90 V="1"/> <anzahl_resektionsgewicht_0 V="0"/> <anzahl_resektionsgewicht_0_9 V="4"/> <anzahl_resektionsgewicht_10_19 V="6"/> <anzahl_resektionsgewicht_20_39 V="10"/> <anzahl_resektionsgewicht_40 V="0"/> Seite 19 von 23
 
 
 ---

@@ -10,23 +10,21 @@
 
 **Datum**
 
-**22**
-
 ## Konsiliarbericht
 
-**vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
+**22** **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
 
 **geb. am**
 
 **Auf Veranlassung von:**
 
-**Arztnummer**
-
-**Status**
-
 **Name des Therapeuten**
 
 **Betriebsstättennummer**
+
+**Status**
+
+**Arztnummer**
 
 **Aus Datenschutzgründen freibleibend**
 
@@ -40,8 +38,6 @@
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
-**PRF.NR.**
-
 **Ausfertigung für die Krankenkasse**
 
-**Muster 22d/E (10.2014)**
+**PRF.NR.** **Muster 22d/E (10.2014)**

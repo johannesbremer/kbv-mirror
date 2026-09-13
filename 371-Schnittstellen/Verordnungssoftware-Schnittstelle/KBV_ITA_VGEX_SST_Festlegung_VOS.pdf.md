@@ -22,12 +22,12 @@ Inhalt
 
 **2** **ÜBERBLICK**
 
-| 3 | FHIR® -DEFINITIONEN | 8 |
+| 3 | FHIR®-DEFINITIONEN | 8 |
 |---|---|---|
 | 3.1 | KBV-Profile | 9 |
 | 3.2 | KBV-Extensions | 14 |
 | 3.3 | KBV-ValueSets, KBV-CodeSystems und KBV-NamingSystems | 15 |
-| 3.4 | FHIR® -Ressourcen | 17 |
+| 3.4 | FHIR®-Ressourcen | 17 |
 
 **4** **REST-SERVICE**
 
@@ -43,13 +43,15 @@ Inhalt
 
 Seite 2 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V
 
-**6**  **7**  **18**  18  18  18
+**6**  **7**
+
+**18**  18  18  18
 
 19  19  19  20  20  20  20  21  22  23  23  24  24  24  25  27  **28**  29  29  29
 
 30  30  30  30  31  31  31  **31**  **31**
 
-FHIR®-DEFINITIONEN FHIR®-Ressourcen / Version 2.1.0 / 1. Februar 2023
+/ Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -385,8 +387,9 @@ Tabelle 20: KBV_PR_VoS_Observation_Pregnancy_Status
 
 Tabelle 21: KBV_PR_VoS_Observation_Breastfeeding_Status
 
-Grund, Kennzeichnung als Dauermedikation) für ein Medikament auf einem Medikationsplan. atusSeite 12 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+Seite 12 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
+Grund, Kennzeichnung als Dauermedikation) für ein Medikament auf einem Medikationsplan. atus
 
 ---
 
@@ -506,14 +509,14 @@ Tabelle 34: KBV_EX_VoS_Medication_Category
 | KBV_EX_VOS_MEDICATION_ISOVERTHECOUNTER |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_Medication_isOverTheCounter |
-| Definition | (overTheCounter-Abgabe möglich). |
+| Definition | Angabe, ob eine Medikament nicht der Verschreibungspflicht unterliegt |
 
 Tabelle 35: KBV_EX_VoS_Medication_isOverTheCounter
 
 | KBV_EX_VOS_PRESCRIPTIONTYPE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_VoS_PrescriptionType |
-| Definition | sind |
+| Definition | Alle Rezepttypen, die gemäß [EXT_ITA_VGEX_Anforderungskatalog_AVWG] möglich |
 
 Tabelle 36: KBV_EX_VoS_PrescriptionType
 
@@ -549,7 +552,7 @@ Tabelle 39: KBV_VS_VoS_SectionType
 
 Tabelle 40: KBV_CS_VoS_SectionType
 
-Angabe, ob eine Medikament nicht der Verschreibungspflicht unterliegt Alle Rezepttypen, die gemäß [EXT_ITA_VGEX_Anforderungskatalog_AVWG] möglich Seite 15 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+(overTheCounter-Abgabe möglich). sind Seite 15 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
 
 
 ---
@@ -885,13 +888,13 @@ Tabelle 56: Statuscode und Antworten in der delete-Interaktion
 
 ### 4.1.7.5 Transaktion
 
-Grundlage ist das Kapitel 3.1.0.11 „batch/transaction“ aus [ Teile umzusetzen, die die Interaktion transaction
+Grundlage ist das Kapitel 3.1.0.11 „batch/transaction“ aus [ Teile umzusetzen, die die Interaktion
 
 Es gilt: Soll durch die Verordnungssoftware eine Menge von FHIR®-Ressource an das Praxisverwaltungs-
 
-system übergeben werden, deren Integrität und Abhängigkeiten sichergestellt sein müssen, dann ruft die  Verordnungssoftware die Interaktion transaction
+system übergeben werden, deren Integrität und Abhängigkeiten sichergestellt sein müssen, dann ruft die  Verordnungssoftware die Interaktion
 
-Die Interaktion transaction ist dabei durch  Praxisverwaltungssystem anzubieten:
+Die Interaktion transaction  Praxisverwaltungssystem anzubieten:
 
 ```
 POST [base]
@@ -901,9 +904,8 @@ Im Body der Methode POST wird dabei ein FHIR®-Ressource vom Typ Bundle übergeb
 
 ```
 - Bundle.entry.request.method=POST
+- Bundle.entry.Ressource
 ```
-
-- Bundle.entry.Ressource enthält die zu erstellende FHIR®-Ressource.
 
 Für jedes Inhaltselement wird dann die Interaktion schreiben gemäß Ka ausgeführt. Die Interaktion batch ist vom PVS nicht zu unterstützen.
 
@@ -912,6 +914,15 @@ Für jedes Inhaltselement wird dann die Interaktion schreiben gemäß Ka ausgef�
 Grundlage ist das Kapitel „3.1.0.10 capabilities“ aus [
 
 Seite 24 von 33 / KBV / Festlegung der Schnittstellen nach § 371 Absatz 1 Nummer 2 SGB V / Version 2.1.0 / 1. Februar 2023
+
+```
+transaction
+transaction
+```
+
+ist dabei durch
+
+- enthält die zu erstellende FHIR®-Ressource.
 
 FHIR®_RESTful-API]. Durch das PVS sind nur die  betreffen.
 

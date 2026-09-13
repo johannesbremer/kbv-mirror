@@ -30,7 +30,7 @@ SEITE 2
 
 ## Daten stammen aus der aktuellen Behandlung
 
-## Daten stehen in elektronischer Form bereit
+Daten stehen in elektronischer Form bereit
 
 Es liegt kein Widerspruch des Patienten vor – weder gegen die ePA  insgesamt, noch gegen das Einstellen des betreffenden Dokuments. Weitere
 

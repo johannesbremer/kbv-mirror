@@ -211,7 +211,7 @@ In einer Satztabelle wird der Aufbau einzelner Sätze definiert, indem das Vorko
 
 ### Anordnung der Felder innerhalb eines Satzes festgelegt wird.
 
-### Die Häufigkeit des Feldes wird in der Spalte Vorkommen angegeben, wobei die Angabe n
+### Die Häufigkeit des Feldes wird in der Spalte
 
 diejenigen Felder kennzeichnet, die beliebig oft vorhanden sein können. Darüber hinaus wird
 
@@ -257,34 +257,32 @@ Bei einem bedingten Mussfeld ist die Existenz an eine bestimmte Bedingung (s.
 
 ### Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
 
-übergeordneten Hierarchiestufe (s. Spalte *Vorkommen*) gebunden. Ein bedingtes  Mussfeld muss in einem Satz vorhanden sein, wenn entweder in der Spalte
+übergeordneten Hierarchiestufe (s. Spalte  Mussfeld muss in einem Satz vorhanden sein, wenn entweder in der Spalte
 
 ### Bedingung ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordnete
 
-Hierarchiestufe (s. Spalte *Vorkommen*) referenzierte Feld existiert.
+Hierarchiestufe (s. Spalte *Vorkommen*
 
 ### K = Kannfeld
 
-Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei  Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,  muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern -
+Ein Kannfeld kann in einem Satz auftreten, wobei das Vorkommen an keinerlei  Bedingungen geknüpft ist. Sollte jedoch die entsprechende Information vorliegen,  muss sie in dem dazugehörenden Feld dargestellt werden, wobei der Nachweis über  das Vorhandensein der Informationen - im Gegensatz zu bedingten Mussfeldern - nicht programmtechnisch erfolgen kann.
 
-### nicht programmtechnisch erfolgen kann.
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+### Vorkommen angegeben, wobei die Angabe n
+
+### Vorkommen) gebunden. Ein bedingtes
+
+) referenzierte Feld existiert.
+
+1.08
 
 Seite 6 13 von
 
 
 ---
 
-**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
-
-### k = bedingtes Kannfeld
-
-Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.
-
-### Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
-
-übergeordneten Hierarchiestufe (s. Spalte *Vorkommen* Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte  ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe  (s. Spalte *Vorkommen*) referenzierte Feld existiert.
+**IT in der Arztpraxis** Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldart zu realisieren.
 
@@ -316,7 +314,19 @@ Grundsätzlich ist die Berücksichtigung aller Felder unabhängig von der Feldar
 | 8000 | 1 | Satzart | M |  | AVS9 = AV- |
 | 9208 | 1 | Gesamtzahl | M |  | Zahl für KV |
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version
+
+### k = bedingtes Kannfeld
+
+Bei einem bedingten Kannfeld ist die Existenz an eine bestimmte Bedingung (s.
+
+### Spalte Bedingungen) oder an das Auftreten eines referenzierten Feldes auf einer
+
+übergeordneten Hierarchiestufe (s. Spalte  Kannfeld darf in einem Satz vorhanden sein, wenn entweder in der Spalte  ein Eintrag vorhanden und erfüllt ist oder das auf der übergeordneten Hierarchiestufe  (s. Spalte *Vorkommen*) referenzierte Feld existiert.
+
+1.08
+
+### Vorkommen
 
 ) gebunden. Ein bedingtes
 
@@ -333,21 +343,19 @@ Headersatz Datei erstellt wurde Gültigkeit der AV- Stammdatei Datensatzbeschrei
 
 In der Feldtabelle sind die Länge und der Datentyp einzelner Felder definiert. Darüber hinaus  wird bei bestimmten Feldern auf Regeln verwiesen, in denen weitere Vorgaben über diese  Felder festgelegt sind. Jeder Eintrag in der Feldtabelle ist eindeutig einem Feld zugeordnet.  Anhand der Eintragungen in der Feldtabelle können Feldinhalte geprüft werden. Bei  weitergehenden Prüfungen wird auf andere Tabellen (z. B. Regeltabelle) zugegriffen.
 
-### Zu jedem Feld wird in der Spalte Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt
+### Zu jedem Feld wird in der Spalte
 
 verwendet werden kann. Folgende Typen werden unterschieden:
 
 -  num numerischer Zahlenwert
 -  alnum alphanumerische Zeichen
--  datum numerische Datumsangaben im Format *TTMMJJJJ* 01 - 12, *JJJJ* = 0001 - 9999
+-  datum numerische Datumsangaben im Format  01 - 12, *JJJJ* = 0001 - 9999
 
-### In der Spalte Länge des Feldinhaltes wird festgelegt, aus wie vielen Zeichen (Bytes) ein
+### In der Spalte Länge des Feldinhaltes
 
-Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Durch das -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine
+Feldinhalt bestehen darf. Dabei gibt ein Zahlenwert eine feste Länge an, wobei auch  alternative Längen durch die Angabe unterschiedlicher Zahlenwerte vereinbart werden  können. Durch das -Zeichen mit nachfolgendem Zahlenwert wird der Feldinhalt auf eine  maximale Länge beschränkt.
 
-### maximale Länge beschränkt.
-
-### Zum besseren Verständnis ist zu jedem Feld in der Spalte Beispiel
+### Zum besseren Verständnis ist zu jedem Feld in der Spalte
 
 aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direkten
 
@@ -369,7 +377,15 @@ aufgeführt. Die einzelnen Beispiel-Inhalte stehen untereinander in keinem direk
 | 9222 | ADT-Referenzversion | ≤ | alnum | 031 |  | ADT0199.01 |
 | 9901 | Systeminternes Feld | ≤ | alnum | 999 |  | abc<de-FG |
 
-KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version 1.08
+KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version
+
+### Typ vereinbart , welcher Zeichenvorrat für den Feldinhalt
+
+wird festgelegt, aus wie vielen Zeichen (Bytes) ein
+
+### - TTMMJJJJ
+
+### Beispiel 1.08
 
 ### - , wobei
 
@@ -427,7 +443,7 @@ Seite 9 13 von
 
 ---
 
-**IT in der Arztpraxis**  Datensatzbeschreibung Arztverzeichnis-Stammdatei
+**IT in der Arztpraxis** Datensatzbeschreibung Arztverzeichnis-Stammdatei
 
 **4.1 Regeltabelle: AV-Stammdatei**
 
@@ -482,9 +498,7 @@ nnnnn
 
 ### 5.4.1 Historische Betriebsstätten- und Arztnummern
 
-Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale
-
-### abgelaufen sind.
+Die Datei enthält historische (N)BSNR und LANR, die innerhalb der letzten acht Quartale  abgelaufen sind.
 
 KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version
 
@@ -506,9 +520,7 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDAV * Version
 
 **Betriebsstättennummer ((N)BSNR)**  **Terminservicestelle**
 
-**Krankenhäuser, die Leistungen im Rahmen**
-
-**von § 75 Absatz 1a SGB V erbringen**
+**Krankenhäuser, die Leistungen im Rahmen**  **von § 75 Absatz 1a SGB V erbringen**
 
 **UKV bzw. OKV bei nicht untergliederten KVen**
 

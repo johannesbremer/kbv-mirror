@@ -149,43 +149,48 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
-\| DOKUMENTENHISTORIE | Die Änderungen der Version 1.26 treten zum 27.01.2026 in Kraft. | Hinweis zur Umsetzung der eAU für PKV-Versicherte: | Der Einsatz der eAU für PKV-Versicherte ist noch nicht möglich. Aus diesem Grund müssen die FHIR- | - |  |
-\| DOKUMENTENHISTORIE | Die Änderungen der Version 1.26 treten zum 27.01.2026 in Kraft. | Hinweis zur Umsetzung der eAU für PKV-Versicherte: | Der Einsatz der eAU für PKV-Versicherte ist noch nicht möglich. Aus diesem Grund müssen die FHIR- | - |  |
-| DOKUMENTENHISTORIE | Die Änderungen der Version 1.26 treten zum 27.01.2026 in Kraft. | Hinweis zur Umsetzung der eAU für PKV-Versicherte: | Der Einsatz der eAU für PKV-Versicherte ist noch nicht möglich. Aus diesem Grund müssen die FHIR- | - |  |
+# DOKUMENTENHISTORIE
+
+Die Änderungen der Version 1.26 treten zum 27.01.2026 in Kraft.
+
+**Hinweis zur Umsetzung der eAU für PKV-Versicherte:**
+
+Der Einsatz der eAU für PKV-Versicherte ist noch nicht möglich. Aus diesem Grund müssen die FHIR-Elemente:
+
+- extension:teilweise_arbeitsfaehig_ab.value[x]:valueDateTime (Feld 96 gemäß
+- extension: Berufsunfaehigkeit.value[x]:valueBoolean (Feld 97 gemäß
+- extension:Aufnahmedatum.value[x] (Feld 99 und 103 gemäß
+- extension:Entlassungsdatum.value[x] (Feld 100 und 104 gemäß
+- extension:Wiedereingliederung_ab.value[x] (Feld 101 gemäß
+- code.coding.code = „stationaere_heilbehandlung“ (Feld 102 gemäß
+
+nicht unterstützt werden.
+
+Sobald eine Nutzung der eAU für PKV-Versicherte möglich ist, erfolgt eine entsprechende Aktualisierung  der Technischen Anlage eAU mit einem Vorlauf von mindestens sechs Monaten.
+
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.26 | 18.12.2025 | KBV | Aktualisierung der      Anpassung der Bedingung des | Bereitstellung eines | 10, 11,  12, 14,  46      81 |
 | 1.25 | 14.11.2025 | KBV | Klarstellung der Anforderung P6- | Umgang mit Sonstigen | 51 |
 | 1.24 | 25.03.2025 | KBV | Rückgängigmachen der |  | 24  62 |
 | 1.23 | 24.02.2025 | KBV | Kardinalität des Felds 67 |  | 62 |
 | 1.22 | 27.01.2025 | KBV | Anpassung der Profilversionen        Anpassung BVG zu SER     Anpassung KIM-Dienstkennung    Umgang mit Fehlermeldung |  | 10, 11,  12, 12,  14  16      17, 62    32, 34,  44  35 |
-|  |  |  |  | Tabelle 23)  -  Tabelle 23)  -  Tabelle 23)  - | Tabelle 23)  -  Tabelle 23)  -  Tabelle 23)   nicht unterstützt werden.   Sobald eine Nutzung der eAU für PKV-Versicherte möglich ist, erfolgt eine entsprechende Aktualisierung **Version  Datum  Autor  Änderung  Begründung  Seite ** 1.26  18.12.2025  KBV |
-| Aktualisierung der |  |  | Anpassung der Bedingung des | Bereitstellung eines | 10, |
-| 11 | , | 12 | , | 14 | ,  46 |
-|  |  | 81 | 1.25  14.11.2025  KBV  Klarstellung der Anforderung P6- | Umgang mit Sonstigen | 51    1.24  25.03.2025  KBV  Rückgängigmachen der    24 |
-| 62 |  | 1.23 | 24.02.2025 | KBV | Kardinalität des Felds 67 |
-| 62 |  | 1.22 | 27.01.2025 | KBV | Anpassung der Profilversionen |
-|  |  | Anpassung BVG zu SER | Anpassung KIM-Dienstkennung | Umgang mit Fehlermeldung | 10, 11, |
-| Tabelle 23 | ) | - | Tabelle 23)  -  Tabelle 23) | - | Tabelle 23)  -  Tabelle 23)  -  Tabelle 23)   nicht unterstützt werden.   Sobald eine Nutzung der eAU für PKV-Versicherte möglich ist, erfolgt eine entsprechende Aktualisierung **Version  Datum  Autor  Änderung  Begründung  Seite ** 1.26  18.12.2025  KBV  Aktualisierung der      Anpassung der Bedingung des |
-| Bereitstellung eines | 10 | , | 11,  12, 14,  46      81  1.25  14.11.2025 | KBV | Klarstellung der Anforderung P6- Umgang mit Sonstigen  51    1.24  25.03.2025  KBV  Rückgängigmachen der    24  62  1.23  24.02.2025  KBV  Kardinalität des Felds 67    62  1.22  27.01.2025  KBV  Anpassung der Profilversionen        Anpassung BVG zu SER     Anpassung KIM-Dienstkennung    Umgang mit Fehlermeldung      10, 11,  12, 12,  14  16 |
-| Tabelle 23 | ) | - | Tabelle 23)  -  Tabelle 23)  - | Tabelle 23) | -  Tabelle 23)  -  Tabelle 23)   nicht unterstützt werden.   Sobald eine Nutzung der eAU für PKV-Versicherte möglich ist, erfolgt eine entsprechende Aktualisierung **Version  Datum  Autor  Änderung  Begründung  Seite ** 1.26  18.12.2025 |
+
+- Tabelle 23
+- Tabelle 23
+- Tabelle 23
+- Tabelle 23
+- Tabelle 23
+- Tabelle 23
 
 SEITE 4 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
-Elemente:  extension:teilweise_arbeitsfaehig_ab.value[x]:valueDateTime (Feld 96 gemäß extension: Berufsunfaehigkeit.value[x]:valueBoolean (Feld 97 gemäß extension:Aufnahmedatum.value[x] (Feld 99 und 103 gemäß extension:Entlassungsdatum.value[x] (Feld 100 und 104 gemäß extension:Wiedereingliederung_ab.value[x] (Feld 101 gemäß code.coding.code = „stationaere_heilbehandlung“ ( Feld 102 gemäß der Technischen Anlage eAU mit einem Vorlauf von mindestens sechs Monaten.  Versionsnummer der FHIR- Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Feldes 61c 03 (grün markiert) Kostenträgern konkretisiert Streichung von Feld 52b „Hausnummer der Einrichtung“ angepasst Anpassung der Anforderung P31-03
+Versionsnummer der FHIR- Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Feldes 61c 03 (grün markiert) Kostenträgern konkretisiert Streichung von Feld 52b „Hausnummer der Einrichtung“ angepasst Anpassung der Anforderung P31-03
 
 ---
 
-\|  |  |  | 9 |  |  |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  | 62 |  | 1.21  03.09.2024  KBV  Erweiterung des Barcodes an die |  | 57  1.20  16.06.2023  KBV  Korrektur der eingeführten der  Aufgrund von  19    1.20  12.05.2023  KBV  Definition von Plausibilitäten der |
-|  | Klarstellung im Umgang mit dem |  | Redaktionelle Korrektur des |  | 17 |
-|  | 35 |  |  |  | 80  1.20  14.02.2023 |
-| KBV | Ergänzung eines Hinweises bei |  | 24 |  | 1.20  08.12.2022 |
-| KBV | Streichung des |  | 45  1.20  14.11.2022  KBV  Klarstellung P5-04    Ergänzung eines Hinweises zu    42 |  | 15 |
 |  |  |  |  | Anpassung der    eAU Ermöglichung Sonstige    Zeitliche Einschränkung des    Anpassung des Mappings des    Erläuterung der Versionierung in    Anpassung Informationsmodell | 46      51      52      57      9      62 |
 | 1.21 | 03.09.2024 | KBV | Erweiterung des Barcodes an die |  | 57 |
 | 1.20 | 16.06.2023 | KBV | Korrektur der eingeführten der | Aufgrund von | 19 |
@@ -193,9 +198,6 @@ Elemente:  extension:teilweise_arbeitsfaehig_ab.value[x]:valueDateTime (Feld 96 
 | 1.20 | 14.02.2023 | KBV | Ergänzung eines Hinweises bei |  | 24 |
 | 1.20 | 08.12.2022 | KBV | Streichung des |  | 45 |
 | 1.20 | 14.11.2022 | KBV | Klarstellung P5-04    Ergänzung eines Hinweises zu |  | 42      15 |
-| Anpassung der |  | eAU Ermöglichung Sonstige | Zeitliche Einschränkung des    Anpassung des Mappings des    Erläuterung der Versionierung in | Anpassung Informationsmodell | 46      51      52      57      9      62  1.21  03.09.2024  KBV  Erweiterung des Barcodes an die |
-|  | 57 |  | 1.20  16.06.2023  KBV  Korrektur der eingeführten der  Aufgrund von  19    1.20  12.05.2023  KBV  Definition von Plausibilitäten der    Klarstellung im Umgang mit dem |  | Redaktionelle Korrektur des    17      35      80  1.20  14.02.2023  KBV  Ergänzung eines Hinweises bei    24  1.20  08.12.2022  KBV  Streichung des    45  1.20  14.11.2022  KBV  Klarstellung P5-04    Ergänzung eines Hinweises zu    42      15 |
-| Anpassung der |  | eAU Ermöglichung Sonstige | Zeitliche Einschränkung des    Anpassung des Mappings des    Erläuterung der Versionierung in    Anpassung Informationsmodell | 46 | 51      52      57      9      62 |
 
 SEITE 5 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU VERSION: 1.26 / 24. NOVEMBER 2025
 
@@ -203,26 +205,10 @@ SEITE 5 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU VERSION: 1.26 / 24. NOVEMBER 20
 
 ---
 
-\|  |  |  | 49 |  |  |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  | 32 | , | 35,  44 | 1.20 | 15.08.2022  KBV  Aufnahme von optionalen  - teilweise Arbeitsfähig ab -   - Datum für den Beginn der   - stationäre Heilbehandlung und     Aufnahme der ASV-   Aufnahme der Standortnummer    Aktualisierung der Version der    Optimierung/Anpassung des |
-|  | Redaktionelle Anpassung |  | 12 | , | 13  17 |
-| , | 20 | , | 84 | , | 85,  86, |
-| 87 |  |  |  |  |  |
-|  |  |  | 72, 77       82    10 | bis | 14    62  16 bis      16 bis |
-|  |  |  |  | 1.20  28.09.2022  KBV  Aufnahme einer    Aufnahme der optionalen    Anpassungen der Funktion P6-   Anpassungen der Funktionen | 46      42, 52                  49      32, |
-| 35 | , | 44 |  | 1.20 | 15.08.2022  KBV |
-| Aufnahme von optionalen | - teilweise Arbeitsfähig ab - | - Datum für den Beginn der | - stationäre Heilbehandlung und |  | Aufnahme der ASV-   Aufnahme der Standortnummer |
-|  | Aktualisierung der Version der |  | Optimierung/Anpassung des    Redaktionelle Anpassung    12 | , | 13  17, 20,  84, 85, |
-| 86 | , | 87 |  |  |  |
-|  |  |  |  |  | 72, |
-| 77 |  |  | 82 |  | 10 bis  14    62 |
 | 1.20 | 28.09.2022 | KBV | Aufnahme einer    Aufnahme der optionalen    Anpassungen der Funktion P6-   Anpassungen der Funktionen |  | 46      42, 52                  49      32, 35,  44 |
 | 1.20 | 15.08.2022 | KBV | Aufnahme von optionalen  - teilweise Arbeitsfähig ab -   - Datum für den Beginn der   - stationäre Heilbehandlung und     Aufnahme der ASV-   Aufnahme der Standortnummer    Aktualisierung der Version der    Optimierung/Anpassung des    Redaktionelle Anpassung |  | 12, 13  17, 20,  84, 85,  86, 87                  72, 77       82    10 bis  14    62  16 bis      16 bis |
-| 1.20 | 28.09.2022 | KBV | Aufnahme einer    Aufnahme der optionalen    Anpassungen der Funktion P6-   Anpassungen der Funktionen | 46 | 42, 52                  49      32 |
 
 SEITE 6 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU VERSION: 1.26 / 24. NOVEMBER 2025
 
@@ -230,25 +216,8 @@ SEITE 6 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU VERSION: 1.26 / 24. NOVEMBER 20
 
 ---
 
-\|  |  | 49 |  |  |  |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 52 |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  | 1.20  23.05.2022  KBV  Streichen des ValueSets       Aktualisierung der    Anpassung der Anforderung P6-   Klarstellung der Anforderung P6- | Diese ValueSet wird      14        16            49      52 |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 1.20 | 23.05.2022 | KBV | Streichen des ValueSets       Aktualisierung der    Anpassung der Anforderung P6- | Klarstellung der Anforderung P6- | Diese ValueSet wird      14        16            49      52 |
-|  |  |  |  |  |  |
 | 1.20 | 23.05.2022 | KBV | Streichen des ValueSets       Aktualisierung der    Anpassung der Anforderung P6-   Klarstellung der Anforderung P6- | Diese ValueSet wird | 14        16            49      52 |
 
 SEITE 7 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU
@@ -313,13 +282,21 @@ SEITE 9 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 
 
 ---
 
-\| KBV_PR_EAU_CONDITION_TEXT |  |
-| 3.2 Die übergreifenden Profile, welche für alle elektronischen Muster als FHIR®-Ressourcen Gültigkeit haben, | KBV_ITA_VGEX_Technisches_Handbuch_DiMus] als |
-|---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Condition_Text |
-| FHIR®-Ressource | http://hl7.org/fhir/R4/condition.html |
-| Für die elektronische Arbeitsunfähigkeitsbescheinigung sind die folgenden formularübergreifenden Profile  › |  |
-| › | › |
+## 3.2 FORMULARÜBERGREIFENDE PROFILE
+
+Die übergreifenden Profile, welche für alle elektronischen Muster als FHIR®-Ressourcen Gültigkeit haben,  sind im Technischen Handbuch Digitale Vordrucke [ FHIR®-Profile im Kapitel 4.3 Übergreifende Regelungen für die Muster
+
+Für die elektronische Arbeitsunfähigkeitsbescheinigung sind die folgenden formularübergreifenden Profile  (inkl. der enthaltenen Extensions, CodeSystems, ValueSets und NamingSystems) der Version 1.2.0 1.2.1 zu  verwenden:
+
+- KBV_PR_FOR_Patient gemäß P4-05
+- KBV_PR_FOR_Coverage gemäß P4-04
+- [KBV_PR_FOR_Practitioner](https://simplifier.net/for/kbvprforpractitioner)[gemäß P4-01](https://simplifier.net/for/kbvprforpractitioner)
+- [KBV_PR_FOR_PractitionerRole](https://simplifier.net/for/kbvprforpractitioner)[gemäß P4-02](https://simplifier.net/for/kbvprforpractitionerrole)
+- [KBV_PR_FOR_Organization gemäß P4-03](https://simplifier.net/for/kbvprforpractitionerrole)
+
+## 3.3 SPEZIFISCHE EAU-PROFILE FÜR DIE EAU
+
+Die Profile geben Auskunft darüber, wie die Elemente mit welchen Erweiterungen sowie Einschränkungen  zu verwenden sind. Die Identifikation der Profile erfolgt durch die Angabe einer kanonischen URL.
 
 | KBV_PR_EAU_BUNDLE |  |
 |---|---|
@@ -328,12 +305,16 @@ SEITE 9 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 
 | Definition | Bundle zur Definition des eAU-Dokuments |
 | Version | 1.2.0 1.2.1 |
 
+Tabelle 1: KBV_PR_EAU_Bundle
+
 | KBV_PR_EAU_COMPOSITION |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Composition |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
 | Definition | Klammerung der Arbeitsunfähigkeitsdaten |
 | Version | 1.2.0 1.2.1 |
+
+Tabelle 2: KBV_PR_EAU_Composition
 
 | KBV_PR_EAU_CONDITION_ICD |  |
 |---|---|
@@ -342,39 +323,25 @@ SEITE 9 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 
 | Definition | Darstellung der ICD-Kodes für die Arbeitsunfähigkeit |
 | Version | 1.2.0 1.2.1 |
 
+Tabelle 3: KBV_PR_EAU_Condition_ICD
+
+| KBV_PR_EAU_CONDITION_TEXT |  |
+|---|---|
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Condition_Text |
+| FHIR®-Ressource | http://hl7.org/fhir/R4/condition.html |
+
 SEITE 10 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
-FORMULARÜBERGREIFENDE PROFILE sind im Technischen Handbuch Digitale Vordrucke [ FHIR®-Profile im Kapitel 4.3 Übergreifende Regelungen für die Muster (inkl. der enthaltenen Extensions, CodeSystems, ValueSets und NamingSystems) der Version 1.2.0 1.2.1 zu verwenden: KBV_PR_FOR_Patient gemäß P4-05 KBV_PR_FOR_Coverage gemäß P4-04 KBV_PR_FOR_Practitioner  gemäß P4-01  KBV_PR_FOR_PractitionerRole  gemäß P4-02 KBV_PR_FOR_Organization gemäß P4-03 3.3 SPEZIFISCHE EAU-PROFILE FÜR DIE EAU Die Profile geben Auskunft darüber, wie die Elemente mit welchen Erweiterungen sowie Einschränkungen zu verwenden sind. Die Identifikation der Profile erfolgt durch die Angabe einer kanonischen URL. Tabelle 1: KBV_PR_EAU_Bundle Tabelle 2: KBV_PR_EAU_Composition Tabelle 3: KBV_PR_EAU_Condition_ICD  beschrieben. 
-
+KBV_ITA_VGEX_Technisches_Handbuch_DiMus] als  beschrieben.
 
 ---
 
-\| https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Storno_Bundle | FHIR®-Ressource |
 | KBV_PR_EAU_CONDITION_TEXT |  |
 |---|---|
-| http://hl7.org/fhir/R4/bundle.html | Definition |
-| Bundle zur Definition der Storno-Nachricht | Version |
 | Definition | Ergänzender Text zur ICD-Kodierung für die Arbeitsunfähigkeit |
 | Version | 1.2.0 1.2.1 |
 
-\| KBV_PR_EAU_STORNO_COMPOSITION |  |
-| KBV_PR_EAU_CONDITION_TEXT |  |
-|---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Storno_Composition |
-| Definition | Ergänzender Text zur ICD-Kodierung für die Arbeitsunfähigkeit |
-| Version | 1.2.0 1.2.1 |
-| Tabelle 4: KBV_PR_EAU_Condition_Text | **KBV_PR_EAU_CONDITION_AU** |
-
-| KBV_PR_EAU_SERVICEREQUEST_STEPS |  |
-|---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_ServiceRequest_steps |
-| FHIR®-Ressource | http://hl7.org/fhir/R4/servicerequest.html |
-| Definition | Abbildung der Einleitung von besonderen Maßnahmen, die der Vertragsarzt/ die |
-| Version | 1.2.0 1.2.1 |
-
-SEITE 11 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
-
-KBV_PR_EAU_CONDITION_AU Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Condition_AU http://hl7.org/fhir/R4/condition.html Begleitinformationen zur Arbeitsunfähigkeitsbescheinigung KBV_PR_EAU_SERVICEREQUEST_STEPS Kanonische URL https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_ServiceRequest_steps http://hl7.org/fhir/R4/servicerequest.html Abbildung der Einleitung von besonderen Maßnahmen, die der Vertragsarzt/ die Vertragsärztin für notwendig erachtet. Dies können Leistungen zur medizinischen Rehabilitation, zur stufenweisen Wiedereingliederung oder sonstiger Maßnahmen sein. SPEZIFISCHE EAU-PROFILE FÜR DIE STORNO-NACHRICHT KBV_PR_EAU_STORNO Kanonische URL http://hl7.org/fhir/R4/list.html Abbildung zur Übertragung der Stornierung einer übermittelten eAU KBV_PR_EAU_STORNO_BUNDLE Kanonische URL Tabelle 5: KBV_PR_EAU_Condition_AU Tabelle 6: KBV_PR_EAU_ServiceRequest_steps 3.4 Tabelle 7: KBV_PR_EAU_Storno Tabelle 8: KBV_PR_EAU_Storno_Bundle VERSION: 1.26 / 24. NOVEMBER 2025
+Tabelle 4: KBV_PR_EAU_Condition_Text
 
 | KBV_PR_EAU_CONDITION_AU |  |
 |---|---|
@@ -383,12 +350,27 @@ KBV_PR_EAU_CONDITION_AU Kanonische URL https://fhir.kbv.de/StructureDefinition/K
 | Definition | Begleitinformationen zur Arbeitsunfähigkeitsbescheinigung |
 | Version | 1.2.0 1.2.1 |
 
+Tabelle 5: KBV_PR_EAU_Condition_AU
+
+| KBV_PR_EAU_SERVICEREQUEST_STEPS |  |
+|---|---|
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_ServiceRequest_steps |
+| FHIR®-Ressource | http://hl7.org/fhir/R4/servicerequest.html |
+| Definition | Abbildung der Einleitung von besonderen Maßnahmen, die der Vertragsarzt/ die |
+| Version | 1.2.0 1.2.1 |
+
+Tabelle 6: KBV_PR_EAU_ServiceRequest_steps
+
+**3.4** **SPEZIFISCHE EAU-PROFILE FÜR DIE STORNO-NACHRICHT**
+
 | KBV_PR_EAU_STORNO |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Storno |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/list.html |
 | Definition | Abbildung zur Übertragung der Stornierung einer übermittelten eAU |
 | Version | 1.2.0 1.2.1 |
+
+Tabelle 7: KBV_PR_EAU_Storno
 
 | KBV_PR_EAU_STORNO_BUNDLE |  |
 |---|---|
@@ -397,24 +379,28 @@ KBV_PR_EAU_CONDITION_AU Kanonische URL https://fhir.kbv.de/StructureDefinition/K
 | Definition | Bundle zur Definition der Storno-Nachricht |
 | Version | 1.2.0 1.2.1 |
 
+Tabelle 8: KBV_PR_EAU_Storno_Bundle
+
+| KBV_PR_EAU_STORNO_COMPOSITION |  |
+|---|---|
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_EAU_Storno_Composition |
+
+SEITE 11 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+Vertragsärztin für notwendig erachtet. Dies können Leistungen zur medizinischen Rehabilitation, zur stufenweisen Wiedereingliederung oder sonstiger Maßnahmen sein. VERSION: 1.26 / 24. NOVEMBER 2025
+
 
 ---
 
-\|  |  |
 | KBV_PR_EAU_STORNO_COMPOSITION |  |
 |---|---|
-|  |  |
 | FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
 | Definition | Klammerung der Storno-Daten |
 | Version | 1.2.0 1.2.1 |
 
-\| KBV_EX_EAU_ADMISSION_DATE |  |
-| KBV_PR_EAU_STORNO_COMPOSITION |  |
-|---|---|
-| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_admission_date |
-| FHIR®-Ressource | http://hl7.org/fhir/R4/composition.html |
-| Definition  Klammerung der Storno-Daten | Version |
-| 1.2.0 1.2.1 | Tabelle 9: KBV_PR_EAU_Storno_Composition |
+Tabelle 9: KBV_PR_EAU_Storno_Composition
+
+**3.5** **SPEZIFISCHE EAU-PROFILE FÜR DIE KASSE-ARZT-NACHRICHT**
 
 | KBV_PR_EAU_HEALTH_INSURANCE_PRACTITIONER |  |
 |---|---|
@@ -423,12 +409,20 @@ KBV_PR_EAU_CONDITION_AU Kanonische URL https://fhir.kbv.de/StructureDefinition/K
 | Definition | Dient der Übermittlung möglicher Fehlermeldung von der Krankenkasse an die |
 | Version | 1.2.0 1.2.1 |
 
+Tabelle 10: KBV_PR_EAU_health_insurance_Practitioner
+
+## 3.6 SPEZIFISCHE EAU-EXTENSIONS FÜR DIE EAU
+
+Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Ressourcen vorgenommen
+
 | KBV_EX_EAU_7_WEEKS |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_7_weeks |
 | Definition | Darstellung der Information, dass die Arbeitsunfähigkeit seit mind. 7 Wochen |
 | Version | 1.2.0 1.2.1 |
 | erweitert FHIR®- | Condition |
+
+Tabelle 11: KBV_EX_EAU_7_weeks
 
 | KBV_EX_EAU_UNEMPLOYABILITY |  |
 |---|---|
@@ -437,17 +431,21 @@ KBV_PR_EAU_CONDITION_AU Kanonische URL https://fhir.kbv.de/StructureDefinition/K
 | Version | 1.2.0 1.2.1 |
 | erweitert FHIR®- | Condition |
 
+Tabelle 12: KBV_EX_EAU_unemployability
+
+| KBV_EX_EAU_ADMISSION_DATE |  |
+|---|---|
+| Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_admission_date |
+
 SEITE 12 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
-Arztpraxis vorliegt. Ressource Ressource 3.5 SPEZIFISCHE EAU-PROFILE FÜR DIE KASSE-ARZT-NACHRICHT Tabelle 10: KBV_PR_EAU_health_insurance_Practitioner 3.6 SPEZIFISCHE EAU-EXTENSIONS FÜR DIE EAU Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Ressourcen vorgenommen Tabelle 11: KBV_EX_EAU_7_weeks Tabelle 12: KBV_EX_EAU_unemployability VERSION: 1.26 / 24. NOVEMBER 2025
+Arztpraxis vorliegt. Ressource Ressource VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
 
-\|  |  |
 | KBV_EX_EAU_ADMISSION_DATE |  |
 |---|---|
-|  |  |
 | Definition | Dieses Feld gibt für eine PKV-Versicherte/einen PKV-Versicherten ein  zukünftiges/tatsächliches Aufnahmedatum bspw. einer Reha, stationären  Behandlung usw. an. |
 | Version | 1.2.0 1.2.1 |
 | erweitert FHIR®- | ServiceRequest |
@@ -488,12 +486,7 @@ Ressource Ressource Ressource seine berufliche Tätigkeit nach medizinischem Bef
 
 ---
 
-\| KBV_CS_EAU_IDENTIFIER_TYPES |  |
-| 3.7 | KBV_EX_EAU_HEALTH_INSURANCE_PRACTITIONER_IDENTIFIER |
-|---|---|
-| Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_EAU_Identifier_types |
-|  | Kanonische URL |
-| https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practitioner | Definition |
+**3.7** **SPEZIFISCHE EAU-EXTENSIONS FÜR KASSE-ARZT-NACHRICHT**
 
 | KBV_EX_EAU_HEALTH_INSURANCE_PRACTITIONER_IDENTIFIER |  |
 |---|---|
@@ -502,11 +495,19 @@ Ressource Ressource Ressource seine berufliche Tätigkeit nach medizinischem Bef
 | Version | 1.2.0 1.2.1 |
 | erweitert FHIR®- |  |
 
+Tabelle 17: KBV_EX_EAU_health_insurance_Practitioner_Identifier
+
+## 3.8 SPEZIFISCHE EAU-CODESYSTEME UND VALUESETS FÜR DIE EAU
+
+Die ValueSets definieren, welche Codes festgelegt sind und was diese bedeuten.
+
 | KBV_VS_EAU_AU_TYPE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_EAU_AU_Type |
 | Definition | Dieses ValueSet dient der Angabe, um welche Art von |
 | Version | 1.2.0 1.2.1 |
+
+Tabelle 18: KBV_VS_EAU_AU_Type
 
 | KBV_VS_EAU_URSACHE_TYPE |  |
 |---|---|
@@ -514,35 +515,77 @@ Ressource Ressource Ressource seine berufliche Tätigkeit nach medizinischem Bef
 | Definition | Dieses ValueSet beschreibt die Ausprägung der möglichen Ursachen der |
 | Version | 1.2.0 1.2.1 |
 
+Tabelle 19: KBV_VS_EAU_Ursache_Type
+
 | KBV_VS_EAU_WEITERESCHRITTE_TYPE |  |
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/ValueSet/KBV_VS_EAU_WeitereSchritte_Type |
 | Definition | Dieses ValueSet dient der Definition von weiteren Schritten in der Behandlung des |
 | Version | 1.2.0 1.2.1 |
 
+Tabelle 20: KBV_VS_EAU_WeitereSchritte_Type
+
+## 3.9 SPEZIFISCHE EAU-CODESYSTEME UND VALUESETS FÜR DIE KASSE-ARZT-NACHRICHT
+
+Die ValueSets definieren, welche Codes festgelegt sind und was diese bedeuten.
+
+| KBV_CS_EAU_IDENTIFIER_TYPES |  |
+|---|---|
+| Kanonische URL | https://fhir.kbv.de/CodeSystem/KBV_CS_EAU_Identifier_types |
+
 SEITE 14 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
-_Identifier versendeten KIM-Nachricht, für welche eine Fehlernachricht versendet werden soll Ressource Arbeitsunfähigkeitsbescheinigung es sich handelt. Arbeitsunfähigkeit. Patienten. SPEZIFISCHE EAU-EXTENSIONS FÜR KASSE-ARZT-NACHRICHT Tabelle 17: KBV_EX_EAU_health_insurance_Practitioner_Identifier 3.8 SPEZIFISCHE EAU-CODESYSTEME UND VALUESETS FÜR DIE EAU Die ValueSets definieren, welche Codes festgelegt sind und was diese bedeuten. Tabelle 18: KBV_VS_EAU_AU_Type Tabelle 19: KBV_VS_EAU_Ursache_Type Tabelle 20: KBV_VS_EAU_WeitereSchritte_Type 3.9 SPEZIFISCHE EAU-CODESYSTEME UND VALUESETS FÜR DIE KASSE-ARZT-NACHRICHT Die ValueSets definieren, welche Codes festgelegt sind und was diese bedeuten. VERSION: 1.26 / 24. NOVEMBER 2025
+_Identifier versendeten KIM-Nachricht, für welche eine Fehlernachricht versendet werden soll Ressource Arbeitsunfähigkeitsbescheinigung es sich handelt. Arbeitsunfähigkeit. Patienten. VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
 
-\| Begründung:  Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt es sich um Elemente, die |  |
 | KBV_CS_EAU_IDENTIFIER_TYPES |  |
 |---|---|
-|  |  |
 | Definition | Dieses CodeSystem definiert den Typ des Identifiers. |
 | Version | 1.2.0 1.2.1 |
 
-SEITE 15 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
+Tabelle 21: KBV_CS_EAU_Identifier_types
 
-Tabelle 21: KBV_CS_EAU_Identifier_types 3.10 VORGABEN ZUR VERWENDUNG DER FORMULARÜBERGREIFENDEN UND EAU-PROFILE PFLICHTFUNKTION EAU P310-01 Verwendung der eAU- und FOR-Profile  Die eAU-spezifischen sowie die formularübergreifenden KBV-Profile müssen ohne jegliche Modifikation eingesetzt werden. Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des Gesundheitswesens eingesetzt werden können. Diese mussten für den vorliegenden Anwendungsbereich entsprechend angepasst werden.  Für die Umsetzung der eAU wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis-Profilen der FHIR®-Spezifikation abgeleitet sind. Die KBV-Profile geben Auskunft darüber, mit welchen Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen zu verwenden sind. Akzeptanzkriterium:  Für die Umsetzung einer eAU müssen die in diesem Dokument genannten: KBV-Profile gemäß Kapitel 3.3 3.4  und 3.5 KBV-Extensions gemäß Kapitel 3.6  und 3.7 KBV-ValueSets gemäß Kapitel 3.8  und 3.9 KBV-CodeSystems gemäß Kapitel 3.8  und 3.9 eingesetzt werden.  Zusätzlich müssen die formularübergreifenden KBV-Profile gemäß Kapitel 3.2  inklusive den enthaltenen KBV-Extensions, KBV-ValueSets, KBV-NamingSystems und KBV-CodeSystems eingesetzt werden.  3. Einschränkungen, Erweiterungen und jegliche Modifikationen der in Akzeptanzkriterien (1) und (2) genannten Profile, Extensions, ValueSets, NamingSystems und CodeSystems sind nicht erlaubt. 4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke KBV_ITA_VGEX_Technisches_Handbuch_DiMus ] im Kapitel 4.2 hinsichtlich des zu verwendenden Zeichensatzes sind einzuhalten. PFLICHTFUNKTION EAU P310-02 Umgang mit der Eigenschaft „mustSupport“ FHIR®-Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden.  unabhängig von der Kardinalität (Ausnahme: 0…0) unterstützt werden  müssen, sofern die entsprechenden Informationen vorliegen.  | PFLICHTFUNKTION EAU |  |
+**3.10** **VORGABEN ZUR VERWENDUNG DER FORMULARÜBERGREIFENDEN UND EAU-PROFILE**
+
+| PFLICHTFUNKTION EAU |  |
 |---|---|
 | **P310-01** | Verwendung der eAU- und FOR-Profile |
+
+Die eAU-spezifischen sowie die formularübergreifenden KBV-Profile müssen ohne jegliche Modifikation  eingesetzt werden.
+
+**Begründung:**
+
+Die FHIR®-Spezifikation definiert eine Reihe von Basis-Ressourcen, welche in verschiedenen Bereichen des  Gesundheitswesens eingesetzt werden können. Diese mussten für den vorliegenden Anwendungsbereich  entsprechend angepasst werden.
+
+Für die Umsetzung der eAU wurden KBV-Profile erstellt, welche zum Teil von den Deutschen Basis-Profilen  der FHIR®-Spezifikation abgeleitet sind. Die KBV-Profile geben Auskunft darüber, mit welchen  Erweiterungen sowie Einschränkungen die FHIR®-Ressourcen zu verwenden sind.
+
+**Akzeptanzkriterium:**
+
+- 1. Für die Umsetzung einer eAU müssen die in diesem Dokument genannten:
+- KBV-Profile gemäß Kapitel 3.3 3.4 und 3.5
+- KBV-Extensions gemäß Kapitel 3.6 und 3.7
+- KBV-ValueSets gemäß Kapitel 3.8 und 3.9
+- KBV-CodeSystems gemäß Kapitel 3.8 und 3.9
+
+eingesetzt werden.
+
+- 2. Zusätzlich müssen die formularübergreifenden KBV-Profile gemäß Kapitel 3.2 inklusive den enthaltenen  KBV-Extensions, KBV-ValueSets, KBV-NamingSystems und KBV-CodeSystems eingesetzt werden.
+- 3. Einschränkungen, Erweiterungen und jegliche Modifikationen der in Akzeptanzkriterien (1) und (2)  genannten Profile, Extensions, ValueSets, NamingSystems und CodeSystems sind nicht erlaubt.
+- 4. Die Vorgaben aus dem Technischen Handbuch Digitale Vordrucke  KBV_ITA_VGEX_Technisches_Handbuch_DiMus] im Kapitel 4.2 hinsichtlich des zu verwendenden  Zeichensatzes sind einzuhalten.
 
 | PFLICHTFUNKTION EAU |  |
 |---|---|
 | **P310-02** | Umgang mit der Eigenschaft „mustSupport“ |
+
+FHIR®-Elemente mit der Eigenschaft "mustSupport" müssen immer implementiert werden.
+
+**Begründung:**
+
+Eine wichtige Eigenschaft der KBV-Profile bildet "mustSupport". Hierbei handelt es sich um Elemente, die  unabhängig von der Kardinalität (Ausnahme: 0…0) unterstützt werden müssen, sofern die entsprechenden  Informationen vorliegen.
+
+SEITE 15 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -603,39 +646,60 @@ SEITE 16 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER
 | **Daten** | **ID gemäß  Tabelle 23** | **FHIR®-Element** | **Bedingung** |
 | Dokumenten-ID | 5 | identifier |  |
 
-\| KBV_PR_EAU_CONDITION_AU | | | |
-| KBV_PR_EAU_BUNDLE | | | |
-|---|---|---|---|
-| **Daten** | **ID gemäß  Tabelle 23** | **FHIR®-Element** |  |
-| Angaben zur AU | 72 | code.coding |  |
-|  | **Daten** |  | **ID gemäß  Tabelle 23** **FHIR®-Element** |
-| **Bedingung** | Dokumenten-ID | 5 | identifier |
-|  | 4. |  | P310-08 sowie aller in der Instanz der Composition referenzierten  5. |
-| a) |  | b) | c)  d) |
-|  | 6. |  | 3 |
-| aufgeführte Datenfeld | 7. |  | a) |
-|  | b) |  | 8. |
-|  | a) |  | b) |
-|  | P5-04 | Akzeptanzkriterium 13 b) nochmals erstellt und versendet werden muss, | **Hinweis** |
+- 4. Dieses Profil muss unter dem FHIR KBV_PR_EAU_Composition gemäß  Instanzen enthalten.
+- 5. Die Software stellt sicher, dass bei mehreren Instanzen des Profils KBV_PR_EAU_ServiceRequest_steps  jede der folgenden Informationen maximal einmal enthalten ist:
+- a) D-Arzt-zugewiesen
+- b) Leistungen Reha
+- c) Wiedereingliederung
+- d) Sonstige und Sonstige Maßnahmen
+- 6. Die Software muss sicherstellen, dass das unter Akzeptanzkriterium  automatisch von der Software befüllt wird.
+- 7. Die Software stellt sicher, dass in dem Element identifier.value eine UUID in Form einer URN übermittelt  wird.
+- a) Die UUID wird gemäß RFC4122 Version 5 mit den zugehörigen Separatoren erzeugt.
+- b) Der Inhalt des Elementes identifier.value entspricht dem folgenden Schema  urn:uuid:<XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX>, welches die UUID nach a) darstellt.
+- 8. Die Software erzeugt für jede eAU-Datei gemäß Akzeptanzkriterium 1) eine eigene UUID.
+- a) Wenn eine übermittelte Arbeitsunfähigkeitsbescheinigung aufgrund einer Stornierung vom Arzt  nochmals erstellt und versendet wird, dann muss diese eAU-Datei eine eigene UUID besitzen.
+- b) Wenn eine übermittelte Arbeitsunfähigkeitsbescheinigung aufgrund einer Fehlermeldung von der  Krankenkasse gemäß P5-04 Akzeptanzkriterium 13 b) nochmals erstellt und versendet werden muss,  dann muss diese eAU-Datei eine eigene UUID besitzen.
+
+**Hinweis**
+
+Das **T** im Dateinamen einer eAU nach den Vorgaben ( Akzeptanzkriteriums 2 darf nur bei dem Versand von eAUs an ein Testsystem der Krankenkassen bspw. in  der Referenzumgebung der gematik verwendet werden.
 
 | PFLICHTFUNKTION EAU |  |
 |---|---|
 | **P310-04** | Instanziierung KBV_PR_EAU_Condition_AU |
 
+Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EAU_Condition_AU.
+
+**Begründung:**
+
+In diesem Profil werden die Begleitinformationen zur Arbeitsunfähigkeitsbescheinigung abgebildet.
+
+**Akzeptanzkriterium:**
+
+- 1. Das Mapping der Informationen aus  erfolgen:
+
+| KBV_PR_EAU_CONDITION_AU | | | |
+|---|---|---|---|
+| **Daten** | **ID gemäß  Tabelle 23** | **FHIR®-Element** |  |
+| Angaben zur AU | 72 | code.coding |  |
+
 SEITE 17 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+- -Element entry.resource die Instanz des Profils  P310-08 sowie aller in der Instanz der Composition referenzierten
+- Text.
+
+*<E,T>*EAU0_*<Dokumenten-ID>*
+
+- Kapitel 8 auf das Profil KBV_PR_EAU_Condition_AU muss wie folgt
 
 VERSION: 1.26 / 24. NOVEMBER 2025
 
-Dieses Profil muss unter dem FHIR KBV_PR_EAU_Composition gemäß Instanzen enthalten.  Die Software stellt sicher, dass bei mehreren Instanzen des Profils KBV_PR_EAU_ServiceRequest_steps jede der folgenden Informationen maximal einmal enthalten ist:  D-Arzt-zugewiesen Leistungen Reha Wiedereingliederung Sonstige und Sonstige Maßnahmen Die Software muss sicherstellen, dass das unter Akzeptanzkriterium automatisch von der Software befüllt wird. Die Software stellt sicher, dass in dem Element identifier.value eine UUID in Form einer URN übermittelt wird.  Die UUID wird gemäß RFC4122 Version 5 mit den zugehörigen Separatoren erzeugt.  Der Inhalt des Elementes identifier.value entspricht dem folgenden Schema  urn:uuid:<XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX>, welches die UUID nach a) darstellt. Die Software erzeugt für jede eAU-Datei gemäß Akzeptanzkriterium 1) eine eigene UUID. Wenn eine übermittelte Arbeitsunfähigkeitsbescheinigung aufgrund einer Stornierung vom Arzt nochmals erstellt und versendet wird, dann muss diese eAU-Datei eine eigene UUID besitzen.  Wenn eine übermittelte Arbeitsunfähigkeitsbescheinigung aufgrund einer Fehlermeldung von der Krankenkasse gemäß dann muss diese eAU-Datei eine eigene UUID besitzen.  Das  im Dateinamen einer eAU nach den Vorgaben ( Akzeptanzkriteriums 2 darf nur bei dem Versand von eAUs an ein Testsystem der Krankenkassen bspw. in der Referenzumgebung der gematik verwendet werden.  Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EAU_Condition_AU.  Begründung: In diesem Profil werden die Begleitinformationen zur Arbeitsunfähigkeitsbescheinigung abgebildet. Akzeptanzkriterium:  1. Das Mapping der Informationen aus erfolgen: -Element entry.resource die Instanz des Profils  Text. <E,T> EAU0_ <Dokumenten-ID> Kapitel 8  auf das Profil KBV_PR_EAU_Condition_AU muss wie folgt .xml) des 
-
+- 3 aufgeführte Datenfeld .xml) des
 
 ---
 
-\|  | | | |
 | KBV_PR_EAU_CONDITION_AU | | | |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
 | AU-seit | 74 | onSetPeriod.start | WENN   Tabelle 23  WENN  Tabelle 23 |
 | Voraussichtlich-AU- | 75 | onSetPeriod.end |  |
 | Teilweise | 96 | extension:teilweise_arbeitsfaehig_ab. | WENN  Tabelle 23   ANSONSTEN |
@@ -706,35 +770,36 @@ SEITE 19 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
 VERSION: 1.26 / 24. NOVEMBER 2025
 
-- -AU-bis“ nicht mehr als 31 Tage
 - stgestellt-am“ bei
+- -AU-bis“ nicht mehr als 31 Tage
 
 GM.extension:Diagnosesicherheit.va lue[x] GM.extension:Seitenlokalisation.val ue[x] 
 
 
 ---
 
-\| KBV_PR_EAU_SERVICEREQUEST_STEPS | | | |
-\| d) | | | |
-| d) | | | |
-|---|---|---|---|
-| **Daten** | **ID gemäß  Tabelle 23** | **FHIR®-Element** | **Bedingung** |
-| D-Arzt-zugewiesen | 78 | code.coding.code = „d_arzt“ |  |
-| Leistungen Reha | 83 | code.coding.code = „reha“ |  |
-| e) |  | **Hinweis:** | Die ICD-10-GM-Kodes sind dem gültigen Jahreskatalog der ICD-Stammdatei der KBV [SDICD] zu entnehmen.   **PFLICHTFUNKTION EAU** |
-|  |  |  | **P310-06 ** Instanziierung KBV_PR_EAU_Condition_Text  Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EAU_Condition_Text.  **Begründung:** |
-| Mit diesem Profil kann der Diagnosetext ergänzend zu mindestens einem ICD-10-GM-Kode abgebildet | **Akzeptanzkriterium:** | 1. |  |
-| Kapitel 8 | auf das Profil KBV_PR_EAU_Condition_Text muss wie folgt |  | **KBV_PR_EAU_CONDITION_TEXT  Daten** |
-| **ID gemäß** | **Tabelle 23** |  | **FHIR®-Element Bedingung** |
-| Diagnosetext | 89 | code.text | 2. |
-| 1 | aufgeführten | 3. |  |
-|  |  |  | e) |
-|  | **Hinweis:** | Die ICD-10-GM-Kodes sind dem gültigen Jahreskatalog der ICD-Stammdatei der KBV [SDICD] zu entnehmen. |  |
-|  | **PFLICHTFUNKTION EAU** |  |  |
+- d) Die Version des ICD-Kataloges wird von der Software automatisch befüllt.
+- e) Die Software überträgt nicht automatisch alle ICD-10-GM-Kodes, welche in der Patientenakte (im  PVS) hinterlegt sind, sondern nur jene die der Anwender für die aktuelle eAU ausgewählt hat.
+- 1. Das Mapping der Informationen aus Kapitel 8 auf das Profil KBV_PR_EAU_Condition_Text muss wie folgt  erfolgen:
+- 2. Der Anwender muss bei Bedarf die Möglichkeit haben alle unter Akzeptanzkriterium 1 aufgeführten  Datenfelder zu befüllen.
+- 3. Die Software stellt sicher, dass für das Feld „Diagnosetext“ nicht mehr als 70 Zeichen übertragen  werden.
+- 1. Das Mapping der Informationen aus Kapitel 8 auf das Profil KBV_PR_EAU_ServiceRequest_steps muss  wie folgt erfolgen:
+
+**Hinweis:**
+
+Die ICD-10-GM-Kodes sind dem gültigen Jahreskatalog der ICD-Stammdatei der KBV [SDICD] zu entnehmen.
 
 | PFLICHTFUNKTION EAU |  |
 |---|---|
 | **P310-06** | Instanziierung KBV_PR_EAU_Condition_Text |
+
+Die Software erzeugt eine Instanz auf Basis des Profils KBV_PR_EAU_Condition_Text.
+
+**Begründung:**
+
+Mit diesem Profil kann der Diagnosetext ergänzend zu mindestens einem ICD-10-GM-Kode abgebildet  werden.
+
+**Akzeptanzkriterium:**
 
 | KBV_PR_EAU_CONDITION_TEXT | | | |
 |---|---|---|---|
@@ -745,20 +810,29 @@ GM.extension:Diagnosesicherheit.va lue[x] GM.extension:Seitenlokalisation.val ue
 |---|---|
 | **P310-07** | Instanziierung KBV_PR_EAU_ServiceRequest_steps |
 
+Die Software erzeugt diese Instanz auf Basis des Profils KBV_PR_EAU_ServiceRequest_steps.
+
+**Begründung:**
+
+Mit diesem Profil werden die weiteren Schritte in der Behandlung des Patienten abgebildet, die als ärztlich  notwendig erachtet werden.
+
+**Akzeptanzkriterium:**
+
+| KBV_PR_EAU_SERVICEREQUEST_STEPS | | | |
+|---|---|---|---|
+| **Daten** | **ID gemäß  Tabelle 23** | **FHIR®-Element** | **Bedingung** |
+| D-Arzt-zugewiesen | 78 | code.coding.code = „d_arzt“ |  |
+| Leistungen Reha | 83 | code.coding.code = „reha“ |  |
+
 SEITE 20 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
-Die Version des ICD-Kataloges wird von der Software automatisch befüllt.  Die Software überträgt nicht automatisch alle ICD-10-GM-Kodes, welche in der Patientenakte (im PVS) hinterlegt sind, sondern nur jene die der Anwender für die aktuelle eAU ausgewählt hat.  Das Mapping der Informationen aus erfolgen: Der Anwender muss bei Bedarf die Möglichkeit haben alle unter Akzeptanzkriterium Datenfelder zu befüllen.  Die Software stellt sicher, dass für das Feld „Diagnosetext“  nicht mehr als 70 Zeichen übertragen werden.  Das Mapping der Informationen aus  auf das Profil KBV_PR_EAU_ServiceRequest_steps muss wie folgt erfolgen: werden. Die Software erzeugt diese Instanz auf Basis des Profils KBV_PR_EAU_ServiceRequest_steps.  Mit diesem Profil werden die weiteren Schritte in der Behandlung des Patienten abgebildet, die als ärztlich notwendig erachtet werden. VERSION: 1.26 / 24. NOVEMBER 2025
+VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
 
-\|  | | | |
-\| KBV_PR_EAU_SERVICEREQUEST_STEPS | | | |
 | KBV_PR_EAU_SERVICEREQUEST_STEPS | | | |
 |---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 | Aufnahmedatum | 99 | extension:Aufnahmedatum.value[x] | WENN  Tabelle 23   ANSONSTEN |
 | Entlassungsdatum | 100 | extension:Entlassungsdatum.value[x | WENN  Tabelle 23   ANSONSTEN |
 | Wiedereingliederung | 84 | code.coding.code = |  |
@@ -766,9 +840,6 @@ Die Version des ICD-Kataloges wird von der Software automatisch befüllt.  Die S
 | Stationäre | 102 | code.coding.code = | WENN  Tabelle 23   ANSONSTEN |
 | Aufnahmedatum | 103 | extension:Aufnahmedatum.value[x] | WENN  Tabelle 23   ANSONSTEN |
 | Entlassungsdatum | 104 | extension:Entlassungsdatum.value[x | WENN  Tabelle 23 |
-|  |  |  | Aufnahmedatum |
-| 99 | extension:Aufnahmedatum.value[x] | WENN | Tabelle 23 |
-|  | ANSONSTEN | Entlassungsdatum | 100 |
 
 SEITE 21 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
@@ -776,31 +847,30 @@ das Feld 7 gemäß gleich „PKV“ ist DANN darf dieses Feld gesetzt  werden.  
 
 ---
 
-\| extension:Rechtsgrundlage.value[x]: WENN | | | |
-\| KBV_PR_EAU_SERVICEREQUEST_STEPS | | | |
 | KBV_PR_EAU_SERVICEREQUEST_STEPS | | | |
 |---|---|---|---|
-| Tabelle 23 gleich "GKV" oder "BG" oder | ANSONSTEN  Ausstellungsdatum  73  date | AU-Art | 79  type.coding.code |
-|  |  |  |  |
-|  |  |  |  |
-| ANSONSTEN | Sonstige | 85 | code.coding.code = „sonstige“   Sonstige Maßnahmen  86 |
-| code.text | Die Information „ |  | 2.  1 anhand der Vorgaben (des FHIR-Profils und des Informationsmodells) zu befüllen sind. |
-| a) |  | b) |  |
-| 3. |  |  | **PFLICHTFUNKTION EAU ** |
-|  | **P310-08** | Instanziierung KBV_PR_EAU_Composition | Die Software erzeugt eine Instanz des Profils KBV_PR_EAU_Composition als fachlichen Rahmen der **Begründung:** Dieses Profil bildet den fachlichen Rahmen der Arbeitsunfähigkeitsbescheinigung.  **Akzeptanzkriterium:** |
-| 1. |  | Kapitel 8 | erfolgen: **KBV_PR_EAU_COMPOSITION** |
-| **Daten** |  | **ID gemäß** | **Tabelle 23** |
 |  |  |  | ANSONSTEN |
 | Sonstige | 85 | code.coding.code = „sonstige“ |  |
 | Sonstige Maßnahmen | 86 | code.text | Die Information „ |
 
-SEITE 22 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+- 2. Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium  anhand der Vorgaben (des FHIR-Profils und des Informationsmodells) zu befüllen sind.
+- a) Pflichtfelder sind zu befüllen.
+- b) Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.
+- 3. Die Software muss sicherstellen, dass wenn der Anwender „Sonstige“ auswählt, auch eine Eingabe im  Feld „Sonstige Maßnahmen Text“ erfolgt.
 
-VERSION: 1.26 / 24. NOVEMBER 2025
-
-Text Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium Pflichtfelder sind zu befüllen. Optionale Felder müssen befüllt werden, wenn die Information bekannt ist.  Die Software muss sicherstellen, dass wenn der Anwender „Sonstige“ auswählt, auch eine Eingabe im Feld „Sonstige Maßnahmen Text“ erfolgt. Das Mapping der Informationen aus Dokumententyp Prüfnummer 4 Kennzeichen 17  auf das Profil KBV_PR_EAU_Composition muss wie folgt FHIR®-Element type.coding.code.value = e010 type.coding.code.system = https://fhir.kbv.de/CodeSystem/KB V_CS_FOR_Formular_Art Composition.author:Pruefnummer.i dentifier valueCoding darf dieses Feld nicht gesetzt  werden Maßnahmen Text werden, wenn „Sonstige“ ausgewählt ist.  aufgeführten Datenfelder Bedingung das Feld 7 gemäß "SKT" oder "UK" oder „PKV“ ist, DANN ist dieser Block Pflicht. ist dieser Block optional. muss übermittelt | PFLICHTFUNKTION EAU |  |
+| PFLICHTFUNKTION EAU |  |
 |---|---|
 | **P310-08** | Instanziierung KBV_PR_EAU_Composition |
+
+Die Software erzeugt eine Instanz des Profils KBV_PR_EAU_Composition als fachlichen Rahmen der  Arbeitsunfähigkeitsbescheinigung.
+
+#### Begründung:
+
+Dieses Profil bildet den fachlichen Rahmen der Arbeitsunfähigkeitsbescheinigung.
+
+#### Akzeptanzkriterium:
+
+- 1. Das Mapping der Informationen aus  erfolgen:
 
 | KBV_PR_EAU_COMPOSITION | | | |
 |---|---|---|---|
@@ -811,6 +881,19 @@ Text Die Software muss es ermöglichen, dass alle unter Akzeptanzkriterium Pflic
 | Ausstellungsdatum | 73 | date |  |
 | AU-Art | 79 | type.coding.code |  |
 
+SEITE 22 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
+
+```
+-
+```
+
+- Kapitel 8 auf das Profil KBV_PR_EAU_Composition muss wie folgt
+
+VERSION: 1.26 / 24. NOVEMBER 2025
+
+- 1 aufgeführten Datenfelder
+
+Text darf dieses Feld nicht gesetzt  werden Maßnahmen Text werden, wenn „Sonstige“ ausgewählt ist. muss übermittelt type.coding.code.system = https://fhir.kbv.de/CodeSystem/KB V_CS_FOR_Formular_Art valueCoding das Feld 7 gemäß "SKT" oder "UK" oder „PKV“ ist, DANN ist dieser Block Pflicht. ist dieser Block optional.
 
 ---
 
@@ -940,7 +1023,7 @@ stornierenden Arbeitsunfähigkeitsbesc heinigung
 
 **Hinweis:**
 
-Mit der Beschreibung „Dokumenten ID der zu stornierenden Arbeitsunfähigkeitsbescheinigung“ soll  angegeben werden, dass an dieser Stelle der Wert des Elementes Bundle.identifier.value (siehe auch P310-
+Mit der Beschreibung „Dokumenten angegeben werden, dass an dieser Stelle der Wert des Elementes Bundle.identifier.value (siehe auch P310-
 14) der FHIR-Instanz der zu stornierenden eAU übertragen werden muss.
 
 | PFLICHTFUNKTION EAU |  |
@@ -971,6 +1054,8 @@ Dieses Profil bildet den fachlichen Rahmen zur Stornierung einer Arbeitsunfähig
 | KBV_PR_EAU_Storno gemäß  P310-11 | section.entry.reference = |  |
 | KBV_PR_FOR_Practitioner  KBV_ITA_VGEX_Technisches_Ha ] | author.type = „Practitioner“   author.reference = |  |
 | KBV_PR_FOR_Organization  KBV_ITA_VGEX_Technisches_Ha ] | custodian.reference = |  |
+
+ID der zu stornierenden Arbeitsunfähigkeitsbescheinigung“ soll
 
 ### 3.10.3 Erstellung der Fehlernachricht-Kasse-an-Arzt
 
@@ -1350,47 +1435,24 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
-\| kennzeichnet die versendete eAU- oder Storno-Nachricht als fehlerhaft und zeigt dies in geeigneter | NR. | FEHLERCODE |
-\| kennzeichnet die versendete eAU- oder Storno-Nachricht als fehlerhaft und zeigt dies in geeigneter | NR. | FEHLERCODE |
-| kennzeichnet die versendete eAU- oder Storno-Nachricht als fehlerhaft und zeigt dies in geeigneter | NR. | FEHLERCODE |
+- kennzeichnet die versendete eAU- oder Storno-Nachricht als fehlerhaft und zeigt dies in geeigneter  Form in der Patientenakte (im PVS) und in der Nachrichtenübersicht an:
+
+| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
 |---|---|---|
 | b) | 101 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die übermittelte Datei nicht den technischen Vorgaben entspricht.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | c) | 102 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die übermittelte Datei nicht den technischen Vorgaben entspricht.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 | d) | 103 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die übermittelte Datei nicht den korrekten Zeichensatz „UTF Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | e) | 104 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die übermittelte Datei nicht den korrekten Zeichensatz „UTF Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 | f) | 105 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die zu stornierende Nachricht im Vorfeld als fehlerhaft abgewiesen worden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller. |
-|  | **DURCH PVS ANZUZEIGENDE MELDUNG** | b)  101  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die übermittelte Datei nicht den technischen Vorgaben entspricht. |
-| Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | c)  102  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die übermittelte Datei nicht den technischen Vorgaben entspricht. |
-| Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | d) | 103  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die übermittelte Datei nicht den korrekten Zeichensatz „UTF |
-| Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | e)  104  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der |
-| Grund hierfür ist, dass die übermittelte Datei nicht den korrekten Zeichensatz „UTF | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | f)  105  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der |
-| Grund hierfür ist, dass die zu stornierende Nachricht im Vorfeld als fehlerhaft abgewiesen worden ist. | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller. |  |
-|  |  |  |
-|  | **DURCH PVS ANZUZEIGENDE MELDUNG** | b)  101  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für |
-| Grund hierfür ist, dass die übermittelte Datei nicht den technischen Vorgaben entspricht. | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  c)  102  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der |
-| Grund hierfür ist, dass die übermittelte Datei nicht den technischen Vorgaben entspricht. | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | d)  103  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die übermittelte Datei nicht den korrekten Zeichensatz „UTF |
-| Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | e)  104  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die übermittelte Datei nicht den korrekten Zeichensatz „UTF |
-| Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | f) | 105  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die zu stornierende Nachricht im Vorfeld als fehlerhaft abgewiesen worden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller. |
-|  | **DURCH PVS ANZUZEIGENDE MELDUNG** | b)  101  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die übermittelte Datei nicht den technischen Vorgaben entspricht. |
-| Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | c)  102  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der |
 
 SEITE 37 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
-Form in der Patientenakte (im PVS) und in der Nachrichtenübersicht an:  Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten aus technischen Gründen fehlgeschlagen ist.  danach erneut.  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.   Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist.  danach  erneut. Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten aus technischen Gründen fehlgeschlagen ist. 8 ohne BOM“ verwendet.  danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist. 8 ohne BOM“ verwendet.  danach erneut. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist.
+Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten aus technischen Gründen fehlgeschlagen ist.  danach erneut.  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse.   Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist.  danach  erneut. Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Arbeitsunfähigkeitsdaten aus technischen Gründen fehlgeschlagen ist. 8 ohne BOM“ verwendet.  danach erneut. nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist. 8 ohne BOM“ verwendet.  danach erneut. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung der Stornomeldung aus technischen Gründen fehlgeschlagen ist.
 
 ---
 
-\| FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG | g)  201 |
-\| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
-\| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
 | NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
 |---|---|---|
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für | Grund hierfür ist, dass die aufgebrachte Signatur nicht gültig ist. | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  h)  202 |
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für | Grund hierfür ist, dass die aufgebrachte Signatur nicht mit den übermittelten Daten übereinstimmt. | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  i) |
-| 203 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der | Grund hierfür ist, dass die aufgebrachte Signatur nicht gültig ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  j)  204 |
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der | Grund hierfür ist, dass die aufgebrachte Signatur nicht mit den übermittelten Daten übereinstimmt. | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  k)  301 |
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der | Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  l)  303 |
 | g) | 201 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die aufgebrachte Signatur nicht gültig ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | h) | 202 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die aufgebrachte Signatur nicht mit den übermittelten Daten übereinstimmt.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | i) | 203 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die aufgebrachte Signatur nicht gültig ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
@@ -1398,13 +1460,6 @@ Form in der Patientenakte (im PVS) und in der Nachrichtenübersicht an:  Ihren P
 | k) | 301 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 | l) | 303 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 | m) | 304 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-| g) | 201 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die aufgebrachte Signatur nicht gültig ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-| Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | h) | 202  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die aufgebrachte Signatur nicht mit den übermittelten Daten übereinstimmt.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-| Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | i) | 203  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die aufgebrachte Signatur nicht gültig ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-| j) | 204 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die aufgebrachte Signatur nicht mit den übermittelten Daten übereinstimmt.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  k) |
-| 301 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der | Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  l)  303 |
-| g) | 201 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die aufgebrachte Signatur nicht gültig ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
-| h) | 202 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für  Grund hierfür ist, dass die aufgebrachte Signatur nicht mit den übermittelten Daten übereinstimmt.  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 
 SEITE 38 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
@@ -1412,30 +1467,13 @@ Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mit
 
 ---
 
-\| FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG | n)  305 |
-\| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
-\| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
 | NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
 |---|---|---|
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der | Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  o)  307  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres |
-| Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  p)  309 |
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres | Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist. | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  q)  310 |
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres | Grund hierfür ist, dass die Signatur für die KIM-Nachricht aufgrund des falschen Formats nicht geprüft | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  r) |
-| 311 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres | Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
-| n) | 305 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  o) |
-| 307 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres | Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  p) |
-| 309 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres | Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
-| q) | 310 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die Signatur für die KIM-Nachricht aufgrund des falschen Formats nicht geprüft  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-| Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | r) | 311  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt |
-| Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten | Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |  |
-|  |  |  |
 | n) | 305 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 | o) | 307 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | p) | 309 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass für die KIM-Nachricht keine Signatur vorhanden ist.   Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | q) | 310 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die Signatur für die KIM-Nachricht aufgrund des falschen Formats nicht geprüft  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | r) | 311 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
-| n) | 305 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die Signaturprüfung der KIM-Nachricht ergeben hat, dass der Nachrichteninhalt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  o) |
-| 307 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres | Grund hierfür ist, dass die KIM-Nachricht zwar als eine verschlüsselte KIM-Nachricht gekennzeichnet  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 
 SEITE 39 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
@@ -1443,34 +1481,22 @@ Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und
 
 ---
 
-\| FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG | s)  313 |
-\| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
-\| NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
+- a) Die Software ordnet die Fehlernachricht anhand des übermittelten Identifier (FHIR-Element  issue.extension:Identifier) einer fehlerhaft versendeten eAU- oder Storno-FHIR-Instanz zu. Die  Identifizierung erfolgt nach der folgenden Regelung:
+- Wenn das FHIR-Element  „issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Pract](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Pract) itioner_Identifier).extension(Message-ID).valueIdentifier.value“ gesetzt ist, dann wird in der  Fehlernachricht die ursprüngliche KIM-Message-ID  sprich die Message-ID des äußeren  Headers - der versendeten KIM-Nachricht übermittelt.
+- Wenn das FHIR-Element  issue.extension([https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practi](https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practi) tioner_Identifier).extension(Bundle-Identifier).valueIdentifier.value“ gesetzt ist, dann wird in  der Fehlernachricht der Bundle-Identifier  entspricht dem Wert aus dem Element  Bundle.identifier.value - der fehlerhaften versendeten eAU- oder Storno-FHIR-Instanz  übermittelt.
+- b) Sofern der Fehlercode der Fehlernachricht gleich „100“ ist, kennzeichnet die Software die versendete  eAU mit einem Infostatus und ermöglicht dem Anwender die Anzeige des Infotextes:   „<Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung  für Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die  Arbeitsunfähigkeitsdaten nicht an die korrekte Krankenkasse übermittelt werden konnten. Grund  hierfür ist, dass die genannte Person nicht bei der <Name der Krankenkasse> versichert ist. Eventuell  wurde eine veraltete elektronische Gesundheitskarte genutzt. Wenn Ihr Patient / Ihre Patientin  Ihnen die aktuelle elektronische Gesundheitskarte vorlegt, muss eine erneute Übermittlung der  Arbeitsunfähigkeitsdaten an die zuständige Krankenkasse erfolgen. Die Übermittlung der Daten von  der <Name der Krankenkasse> an die aktuell zuständige Krankenkasse ist leider aus  Datenschutzgründen nicht möglich.“
+- 7. Der Text <XX.XX.XXXX> im Meldungstext nach Akzeptanzkriterium 5 und 6 ist durch das Versanddatum  zu ersetzen.
+- 8. Der Text <Vorname und Name> im Meldungstext nach Akzeptanzkriterium 5 und 6 ist durch den  Vornamen sowie Nachnamen des Versicherten zu ersetzen.
+- 9. Der Text <Name der Krankenkasse> im Meldungstext nach Akzeptanzkriterium 5 und 6 ist mit dem  Namen der Krankenkasse zu ersetzen.
+
 | NR. | FEHLERCODE | DURCH PVS ANZUZEIGENDE MELDUNG |
 |---|---|---|
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres | Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des  t)  314 |
-| <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der | Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt | Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten    a) |
-|  | **·** | **·**  b) |
-|  | 7. | 8. |
-| 9. |  |  |
-| s) | 313 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
-| t) | 314 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-| a) |  | **·** **·** |
-|  | b) | 7. |
-| 8. |  | 9. |
-|  |  |  |
-|  |  |  |
-| s) | 313 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-| Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des | t) | 314  <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
-|  | a) | **·** **·** |
-|  | b) | 7.  8. |
-|  | 9. |  |
 | s) | 313 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung Ihres  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten  Sollte eine Korrektur des Fehlers nach Rücksprache mit ihrem Softwarehersteller nicht bis Ende des |
 | t) | 314 | <Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Stornomeldung der  Grund hierfür ist, dass die KIM-Nachricht aufgrund eines nicht verfügbaren Schlüssels nicht entschlüsselt  Wenden Sie sich bitte zur Behebung des Problems an Ihren Softwarehersteller und senden Sie die Daten |
 
 SEITE 40 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
-Die Software ordnet die Fehlernachricht anhand des übermittelten Identifier (FHIR-Element issue.extension:Identifier) einer fehlerhaft versendeten eAU- oder Storno-FHIR-Instanz zu. Die Identifizierung erfolgt nach der folgenden Regelung:  Wenn das FHIR-Element „issue.extension(https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Pract itioner_Identifier).extension(Message-ID). valueIdentifier.value“ gesetzt ist, dann wird in der Fehlernachricht die ursprüngliche KIM-Message-ID  sprich die Message-ID des äußeren Headers - der versendeten KIM-Nachricht übermittelt. Wenn das FHIR-Element issue.extension(https://fhir.kbv.de/StructureDefinition/KBV_EX_EAU_health_insurance_Practi tioner_Identifier).extension(Bundle-Identifier). valueIdentifier.value“ gesetzt ist, dann wird in der Fehlernachricht der Bundle-Identifier  entspricht dem Wert aus dem Element Bundle.identifier.value - der fehlerhaften versendeten eAU- oder Storno-FHIR-Instanz übermittelt. Sofern der Fehlercode der Fehlernachricht gleich „100“ ist , kennzeichnet die Software die versendete eAU mit einem Infostatus und ermöglicht dem Anwender die Anzeige des Infotextes:  „<Sehr geehrte Arztpraxis>, für die am <XX.XX.XXXX> übermittelte Arbeitsunfähigkeitsbescheinigung für Ihren Patienten / Ihre Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Arbeitsunfähigkeitsdaten nicht an die korrekte Krankenkasse übermittelt werden konnten. Grund hierfür ist, dass die genannte Person nicht bei der <Name der Krankenkasse> versichert ist. Eventuell wurde eine veraltete elektronische Gesundheitskarte genutzt. Wenn Ihr Patient / Ihre Patientin Ihnen die aktuelle elektronische Gesundheitskarte vorlegt, muss eine erneute Übermittlung der Arbeitsunfähigkeitsdaten an die zuständige Krankenkasse erfolgen. Die Übermittlung der Daten von der <Name der Krankenkasse> an die aktuell zuständige Krankenkasse ist leider aus Datenschutzgründen nicht möglich.“ Der Text <XX.XX.XXXX> im Meldungstext nach Akzeptanzkriterium 5 und 6 ist durch das Versanddatum zu ersetzen. Der Text <Vorname und Name> im Meldungstext nach Akzeptanzkriterium 5 und 6 ist durch den Vornamen sowie Nachnamen des Versicherten zu ersetzen. Der Text <Name der Krankenkasse> im Meldungstext nach Akzeptanzkriterium 5 und 6 ist mit dem Namen der Krankenkasse zu ersetzen. Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. werden konnte danach erneut.  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung  (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  werden konnte.  danach erneut. VERSION: 1.26 / 24. NOVEMBER 2025
+Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist. werden konnte danach erneut.  nachfolgenden Werktages möglich sein, senden Sie bitte die AU-Bescheinigung  (Ausdruck der Ausfertigung Krankenkasse) postalisch an die zuständige Krankenkasse. Arbeitsunfähigkeitsbescheinigung Ihres Patienten / Ihrer Patientin <Vorname und Name> müssen wir Ihnen leider mitteilen, dass die Übermittlung fehlgeschlagen ist.  werden konnte.  danach erneut. VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
@@ -2125,10 +2151,9 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
-\| Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode-Inhaltes | NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
-\| Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode-Inhaltes | NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
-| Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode-Inhaltes | NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
+Tabelle 22: Satztabelle für die Zusammensetzung des PDF417-Barcode-Inhaltes
+
+| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 |---|---|---|---|---|---|---|
 | 01 | Formularcode | 2 | n | 01 | Nr. des Musters | konstanter Wert |
 | 02 | Formularcodeergänzung | 1 | a | a | Ausfertigung der | konstanter Wert |
@@ -2140,26 +2165,6 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 | 08 | Besondere | 2 | n | 00, 04, 06, 07, 08, 09 |  | Coverage/extension[@url='http://fhir.de/StructureDefini |
 | 09 | DMP-Kennzeichnung | 2 | n | 00, 01, 02, 03, 04, 05, |  | Coverage/extension[@url='http://fhir.de/StructureDefini |
 | 10 | (N)BSNR | 9 | n |  |  | Bedingung:  Wenn vorhanden, dann: |
-|  |  |  |  |  |  | **X-PATH AUSDRUCK AUSGEHEND VON  ** 01 |
-| Formularcode | 2 | n | 01 | Nr. des Musters | konstanter Wert | 02  Formularcodeergänzung |
-| 1 | a | a | Ausfertigung der | konstanter Wert | 03 | Versionsnummer |
-| 2 | n | 12 | Barcode- | konstanter Wert | 04 | Versicherungsschutz Ende |
-| 8 | n |  | Format: JJJJMMTT | Coverage/period/end/@value | 05 | Kostenträgerkennung |
-| 9 | n |  |  | Coverage/payor/identifier[system/@value='http://fhir.d | 06 | Versicherten-ID |
-| <=12 | a |  |  | Patient/identifier/value/@value | 07 | Versichertenart |
-| 1 | n | 1, 3, 5 |  | Coverage/extension[@url='http://fhir.de/StructureDefini | 08 | Besondere |
-| 2 | n | 00, 04, 06, 07, 08, 09 |  | Coverage/extension[@url='http://fhir.de/StructureDefini | 09 | DMP-Kennzeichnung |
-| 2 | n | 00, 01, 02, 03, 04, 05, |  | Coverage/extension[@url='http://fhir.de/StructureDefini | 10 | (N)BSNR |
-| 9 | n |  |  | Bedingung: | Wenn vorhanden, dann: |  |
-|  |  |  |  |  |  | **X-PATH AUSDRUCK AUSGEHEND VON** |
-| 01 | Formularcode | 2 | n | 01 | Nr. des Musters | konstanter Wert |
-| 02 | Formularcodeergänzung | 1 | a | a | Ausfertigung der | konstanter Wert |
-| 03 | Versionsnummer | 2 | n | 12 | Barcode- | konstanter Wert |
-| 04 | Versicherungsschutz Ende | 8 | n |  | Format: JJJJMMTT | Coverage/period/end/@value |
-| 05 | Kostenträgerkennung | 9 | n |  |  | Coverage/payor/identifier[system/@value='http://fhir.d |
-| 06 | Versicherten-ID | <=12 | a |  |  | Patient/identifier/value/@value |
-| 07 | Versichertenart | 1 | n | 1, 3, 5 |  | Coverage/extension[@url='http://fhir.de/StructureDefini 08  Besondere  2  n  00, 04, 06, 07, 08, 09 |
-| **X-PATH AUSDRUCK AUSGEHEND VON** | 01 | Formularcode | 2 | n | 01 | Nr. des Musters |
 
 SEITE 58 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -2169,21 +2174,8 @@ BUNDLE/ENTRY/RESOURCE/ Personengruppe 06, 07, 08, 09, 10, 11, 12, 30, 31, 32, 33
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON   ='http://fhir.de/NamingSystem/asv/teamnummer'] |
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 | NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 |---|---|---|---|---|---|---|
-| sonst: | 11 | LANR | 9 | n |  |  |
-| Practitioner/identifier/value/@value | Hinweis: bei mehreren LANR jene, welche in der | 12 | Ausstellungsdatum | 8 | n |  |
-| Format: JJJJMMTT | Composition/date/@value | 13 | Erstbescheinigung | 1 | n | 1 |
-| 1 = angekreuzt | Composition/type/coding/code[@value='ERST' or | 14 | Folgebescheinigung | 1 | n | 1 |
-| 1 = angekreuzt | Composition/type/coding/code[@value='FOLGE' or | 15 | Arbeitsunfall | 1 | n | 1 |
-| 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de | 16 | Durchgangsarzt | 1 | n | 1 |
-| 1 = angekreuzt | ServiceRequest/code/coding/code[@value='d_arzt'] | 17 | arbeitsunfähig seit | 8 | n |  |
-| Format: JJJJMMTT | Condition[meta/profile/@value='https://fhir.kbv.de | 18 | voraussichtliche AU bis | 8 | n |  |
-| Format: JJJJMMTT | Condition[meta/profile/@value='https://fhir.kbv.de | 19 | festgestellt am | 8 | n |  |
-| Format: JJJJMMTT | Condition[meta/profile/@value='https://fhir.kbv.de | 20 | sonstiger Unfall | 1 | n | 1  1 = angekreuzt |
 |  |  |  |  |  |  | ='http://fhir.de/NamingSystem/asv/teamnummer']  sonst: |
 | 11 | LANR | 9 | n |  |  | Practitioner/identifier/value/@value  Hinweis: bei mehreren LANR jene, welche in der |
 | 12 | Ausstellungsdatum | 8 | n |  | Format: JJJJMMTT | Composition/date/@value |
@@ -2195,15 +2187,6 @@ BUNDLE/ENTRY/RESOURCE/ Personengruppe 06, 07, 08, 09, 10, 11, 12, 30, 31, 32, 33
 | 18 | voraussichtliche AU bis | 8 | n |  | Format: JJJJMMTT | Condition[meta/profile/@value='https://fhir.kbv.de |
 | 19 | festgestellt am | 8 | n |  | Format: JJJJMMTT | Condition[meta/profile/@value='https://fhir.kbv.de |
 | 20 | sonstiger Unfall | 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de |
-|  |  |  |  |  |  | ='http://fhir.de/NamingSystem/asv/teamnummer'] |
-| sonst: | 11 | LANR | 9 | n |  |  |
-| Practitioner/identifier/value/@value | Hinweis: bei mehreren LANR jene, welche in der | 12 | Ausstellungsdatum | 8 | n |  |
-| Format: JJJJMMTT | Composition/date/@value | 13 | Erstbescheinigung | 1 | n | 1 |
-| 1 = angekreuzt | Composition/type/coding/code[@value='ERST' or | 14 | Folgebescheinigung | 1 | n | 1 |
-| 1 = angekreuzt | Composition/type/coding/code[@value='FOLGE' or | 15 | Arbeitsunfall | 1 | n | 1 |
-| 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de | 16 | Durchgangsarzt | 1 | n | 1 |
-| 1 = angekreuzt | ServiceRequest/code/coding/code[@value='d_arzt'] | 17 | arbeitsunfähig seit | 8 | n | Format: JJJJMMTT  Condition[meta/profile/@value='https://fhir.kbv.de  18  voraussichtliche AU bis  8 |
-| ='http://fhir.de/NamingSystem/asv/teamnummer'] | sonst: | 11 | LANR | 9 | n |  |
 
 SEITE 59 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -2213,32 +2196,8 @@ BUNDLE/ENTRY/RESOURCE/ Organization/identifier/value/@value Composition als Auto
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON   /condition-dueTo']/valueCodeableConcept |
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 | NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 |---|---|---|---|---|---|---|
-| 21 | SER | 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de |
-| 22 | Rehabilitation | 1 | n | 1 | 1 = angekreuzt | ServiceRequest/code/coding/code[@value='reha'] |
-| 23 | Wiedereingliederung | 1 | n | 1 | 1 = angekreuzt | ServiceRequest/code/coding |
-| 24 | sonstige Maßnahmen | <=70 | a |  | Freitext | ServiceRequest/code/text/@value |
-| 25 | Krankengeldfall | 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de |
-| 26 | Endbescheinigung | 1 | n | 1 | 1 = angekreuzt | Composition/type/coding/code[@value='FOLGE_END' or |
-| 27 | Diagnosen | <=70 | a |  | max. 6 ICD-10-Diagnosen; | ICD-10: |
-| Condition[meta/profile/@value='https://fhir.kbv.de | Diagnosesicherheit: | Condition[meta/profile/@value='https://fhir.kbv.de | Seitenlokalisation: | Condition[meta/profile/@value='https://fhir.kbv.de |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  | /condition-dueTo']/valueCodeableConcept  21 |
-| SER | 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de | 22  Rehabilitation |
-| 1 | n | 1 | 1 = angekreuzt | ServiceRequest/code/coding/code[@value='reha'] | 23 | Wiedereingliederung |
-| 1 | n | 1 | 1 = angekreuzt | ServiceRequest/code/coding | 24 | sonstige Maßnahmen |
-| <=70 | a |  | Freitext | ServiceRequest/code/text/@value | 25 | Krankengeldfall |
-| 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de | 26 | Endbescheinigung |
-| 1 | n | 1 | 1 = angekreuzt | Composition/type/coding/code[@value='FOLGE_END' or | 27 | Diagnosen |
-| <=70 | a |  | max. 6 ICD-10-Diagnosen; | ICD-10: | Condition[meta/profile/@value='https://fhir.kbv.de | Diagnosesicherheit: |
-| Condition[meta/profile/@value='https://fhir.kbv.de | Seitenlokalisation: | Condition[meta/profile/@value='https://fhir.kbv.de |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
 |  |  |  |  |  |  | /condition-dueTo']/valueCodeableConcept |
 | 21 | SER | 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de |
 | 22 | Rehabilitation | 1 | n | 1 | 1 = angekreuzt | ServiceRequest/code/coding/code[@value='reha'] |
@@ -2247,7 +2206,6 @@ BUNDLE/ENTRY/RESOURCE/ Organization/identifier/value/@value Composition als Auto
 | 25 | Krankengeldfall | 1 | n | 1 | 1 = angekreuzt | Condition[meta/profile/@value='https://fhir.kbv.de |
 | 26 | Endbescheinigung | 1 | n | 1 | 1 = angekreuzt | Composition/type/coding/code[@value='FOLGE_END' or |
 | 27 | Diagnosen | <=70 | a |  | max. 6 ICD-10-Diagnosen; | ICD-10:  Condition[meta/profile/@value='https://fhir.kbv.de  Diagnosesicherheit:  Condition[meta/profile/@value='https://fhir.kbv.de  Seitenlokalisation:   Condition[meta/profile/@value='https://fhir.kbv.de |
-| /condition-dueTo']/valueCodeableConcept | 21 | SER | 1 | n | 1 | 1 = angekreuzt |
 
 SEITE 60 VON 91 / KBV /
 
@@ -2257,40 +2215,8 @@ BUNDLE/ENTRY/RESOURCE/ mehrere Angaben sind durch ein Komma und ein Leerzeichen 
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON   28 |
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
-\| NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 | NR. | FELDBEZEICHNUNG | LÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | X-PATH AUSDRUCK AUSGEHEND VON |
 |---|---|---|---|---|---|---|
-| Hinweise zur Diagnose | <=70 | a |  | Freitext | Condition[meta/profile/@value='https://fhir.kbv.de/Stru |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 28  Hinweise zur Diagnose |
-| <=70 | a |  | Freitext | Condition[meta/profile/@value='https://fhir.kbv.de/Stru |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 28 |
-| Hinweise zur Diagnose | <=70 | a |  | Freitext | Condition[meta/profile/@value='https://fhir.kbv.de/Stru |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
 | 28 | Hinweise zur Diagnose | <=70 | a |  | Freitext | Condition[meta/profile/@value='https://fhir.kbv.de/Stru |
 
 SEITE 61 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
@@ -2336,176 +2262,15 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-\| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
-| Tabelle 23: Auflistung der abzubildenden Felder für die eAU | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG |
+Tabelle 23: Auflistung der abzubildenden Felder für die eAU
+
+| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | **1** | **x** |  |  |  |  |  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** |  |
 | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |  |
 | 3 |  | x |  |  |  |  | Dokumentenversion | 5-8 | 1..1 | Dieses Feld enthält die Version |  |
 | 4 |  | x |  |  |  |  | Prüfnummer | 6..17 | 0..1 | Dieses Feld enthält die  Im zahnärztlichen Bereich ist hier | WENN   ANSONSTEN |
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine  Diese ID wird mit signiert und |  |
-| **BEDINGUNGEN** | **1** | **x** |  |  |  |  |  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** |
-|  |  | **2** |  | x |  |  | Dokumententyp  Kodiert  1..1  Dieses Feld enthält den Typ des |  | 3 |  | x |
-|  |  | Dokumentenversion  5-8 | 1..1  Dieses Feld enthält die Version | 4 | x |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier  WENN | ANSONSTEN  5 |
-|  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |  |
-|  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** |  | **2 ** | x |  | Dokumententyp | Kodiert  1..1 | Dieses Feld enthält den Typ des    3 |
-| x |  |  |  |  | Dokumentenversion | 5-8 | 1..1 | Dieses Feld enthält die Version |  | 4 |  |
-| x |  |  |  |  | Prüfnummer | 6..17 | 0..1 | Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier | WENN | ANSONSTEN |
-| 5 |  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |
-| **2** | x |  |  | Dokumententyp  Kodiert | 1..1  Dieses Feld enthält den Typ des | 3 | x |  |  | Dokumentenversion  5-8 | 1..1 |
-| Dieses Feld enthält die Version | 4 | x |  |  |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier  WENN | ANSONSTEN  5 | x |
-|  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN  1** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-| **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** | **2** | x |  |  | Dokumententyp  Kodiert | 1..1  Dieses Feld enthält den Typ des | 3 | x |
-|  | **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |
-|  |  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |
-|  |  | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 |
-| Dieses Feld enthält den Typ des |  | 3 |  | x |  |  |  |  | Dokumentenversion | 5-8 | 1..1 |
-| Dieses Feld enthält die Version |  | 4 |  | x |  |  |  |  | Prüfnummer | 6..17 | 0..1 |
-| Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier | WENN | ANSONSTEN | 5 |  | x |  |  |  |  | Dokumenten-ID |
-| 36  1..1 | Dieses Feld enthält eine  Diese ID wird mit signiert und |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN  1** |
-| **x** |  |  |  |  |  |  |  |  |  |  |  |
-| **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |  | **2** |  | x |
-|  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |  | 3 |  | x |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |
-|  | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |
-| 3 | x |  |  | Dokumentenversion  5-8 | 1..1  Dieses Feld enthält die Version | 4 | x |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die  Im zahnärztlichen Bereich ist hier  WENN |
-| ANSONSTEN | 5 |  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine |
-| Diese ID wird mit signiert und |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN** |
-|  | **1** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |  |
-| **2 ** | x |  | Dokumententyp | Kodiert  1..1 | Dieses Feld enthält den Typ des | 3 | x |  | Dokumentenversion | 5-8  1..1 | Dieses Feld enthält die Version |
-| 4 | x |  | Prüfnummer | 6..17  0..1 | Dieses Feld enthält die  Im zahnärztlichen Bereich ist hier | WENN   ANSONSTEN | 5 | x |  | Dokumenten-ID | 36  1..1 |
-| Dieses Feld enthält eine  Diese ID wird mit signiert und |  |  |  |  |  |  |  |  |  |  |  |
-|  | **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |
-|  |  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |
-|  |  | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1  Dieses Feld enthält den Typ des |
-| 3 |  | x |  |  |  | Dokumentenversion | 5-8  1..1 | Dieses Feld enthält die Version | 4 | x |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN  1  x ** |
-|  |  |  |  |  |  |  |  |  | **Dokumenteninformationen** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN** |
-|  | **1** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |  | **2** |
-|  | **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |
-|  |  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** | **2** | x |  |  | Dokumententyp  Kodiert | 1..1  Dieses Feld enthält den Typ des |
-|  | 3 |  | x |  |  |  |  | Dokumentenversion | 5-8 | 1..1 | Dieses Feld enthält die Version |
-|  | 4 |  | x |  |  |  |  | Prüfnummer | 6..17 | 0..1 | Dieses Feld enthält die |
-| Im zahnärztlichen Bereich ist hier | WENN | ANSONSTEN | 5 |  | x |  |  |  |  | Dokumenten-ID | 36 |
-| 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** | **2** | x |  |  | Dokumententyp  Kodiert | 1..1  Dieses Feld enthält den Typ des    3 |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN  1** |
-| **x** |  |  |  |  |  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** |  | **2 ** |
-| x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |  | 3 |  |
-| x |  |  |  |  | Dokumentenversion | 5-8 | 1..1 | Dieses Feld enthält die Version |  | 4 |  |
-| x |  |  |  |  | Prüfnummer | 6..17 | 0..1 | Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier | WENN | ANSONSTEN |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN** |
-| **1** |  | **x** |  |  |  |  |  |  |  | **Dokumenteninformationen** | **1..1  Dieser Block enthält **   **2 ** |
-| x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |  | 3 |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN** |
-| **1** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |  | **2** |  |
-| x |  | Dokumententyp | Kodiert  1..1 | Dieses Feld enthält den Typ des | 3 | x |  | Dokumentenversion | 5-8  1..1 | Dieses Feld enthält die Version | 4 |
-| x |  |  |  |  | Prüfnummer | 6..17 | 0..1 | Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier | WENN | ANSONSTEN |
-| 5 |  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |
-|  | **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |
-|  |  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |
-|  |  | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 |
-| Dieses Feld enthält den Typ des | 3 | x |  | Dokumentenversion | 5-8  1..1 | Dieses Feld enthält die Version | 4 | x |  | Prüfnummer  6..17  0..1 | Dieses Feld enthält die  Im zahnärztlichen Bereich ist hier |
-| WENN   ANSONSTEN | 5 |  | x |  |  |  | Dokumenten-ID   36 | 1..1  Dieses Feld enthält eine | Diese ID wird mit signiert und |  |  |
-|  | **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |
-|  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |
-| **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des | 3 |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN** |
-|  | **1** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |  | **2** |
-|  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |  | 3 |
-| x |  |  | Dokumentenversion  5-8 | 1..1  Dieses Feld enthält die Version | 4 | x |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier  WENN |
-| ANSONSTEN | 5 |  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine |
-| Diese ID wird mit signiert und |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |
-|  | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |
-| 3 | x |  |  | Dokumentenversion  5-8 | 1..1  Dieses Feld enthält die Version | 4 | x |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die |
-| Im zahnärztlichen Bereich ist hier | WENN | ANSONSTEN | 5 |  | x |  |  |  |  | Dokumenten-ID | 36 |
-| 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN** |
-|  | **1** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** | **2** | x |
-|  |  |  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |  | 3 |  | x |
-|  |  | Dokumentenversion  5-8 | 1..1  Dieses Feld enthält die Version | 4 | x |  |  | Prüfnummer  6..17 | 0..1  Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier  WENN | ANSONSTEN  5 |
-|  | x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  |
-|  | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1  Dieses Feld enthält den Typ des |  |
-| 3 |  | x |  |  |  |  | Dokumentenversion | 5-8 | 1..1 | Dieses Feld enthält die Version    4 | x |
-| **BEDINGUNGEN** | **1** | **x** |  |  |  |  |  | **Dokumenteninformationen** |  | **1..1** | **Dieser Block enthält** |
-|  |  | **2** |  | x |  |  |  |  | Dokumententyp | Kodiert | 1..1 |
-| Dieses Feld enthält den Typ des |  | 3 |  | x |  |  |  |  | Dokumentenversion | 5-8  1..1  Dieses Feld enthält die Version | 4 |
-|  | x |  |  |  |  | Prüfnummer | 6..17 | 0..1 | Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier  WENN   ANSONSTEN | 5 |
-| x |  |  |  |  | Dokumenten-ID | 36 | 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **BEDINGUNGEN** |
-|  | **1** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |  | **2 ** | x |
-|  |  | Dokumententyp | Kodiert | 1..1 | Dieses Feld enthält den Typ des |  | 3 |  | x |  | Dokumentenversion |
-|  | **BEDINGUNGEN** |  | **1** |  | **x** |  |  |  |  |  |  |
-|  |  |  |  |  | **Dokumenteninformationen** |  |  |  | **1..1** |  | **Dieser Block enthält** |
-|  | **2 ** | x |  | Dokumententyp | Kodiert  1..1 | Dieses Feld enthält den Typ des | 3 | x |  | Dokumentenversion | 5-8  1..1 |
-| Dieses Feld enthält die Version |  | 4 |  | x |  |  |  |  | Prüfnummer | 6..17 | 0..1 |
-| Dieses Feld enthält die | Im zahnärztlichen Bereich ist hier | WENN | ANSONSTEN | 5 |  | x |  |  |  |  | Dokumenten-ID |
-| 36 | 1..1 | Dieses Feld enthält eine | Diese ID wird mit signiert und |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
 SEITE 63 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
@@ -2514,176 +2279,14 @@ SEITE 63 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 6 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **x** |  |  |  |  |  | **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum** |  | **7 ** |
-| x |  |  |  |  | Kostenträgertyp |  |  |  |  |  | Kodiert |
-| 1..1 | Dieses Feld enthält die Art des |  |  | **8** |  |  |  | **x** |  |  |  |
-|  |  |  |  |  |  | **Allgemeine Information** |  |  |  | **1..1** | **Dieser Block enthält allgemeine** |
-|  | 9 |  |  | x |  |  |  | IK der zuständigen | 9 | 0..1  Dieses Feld enthält das | WENN |
 | **6** | **x** |  |  |  |  |  | **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum** |  |
 | **7** |  | x |  |  |  |  | Kostenträgertyp | Kodiert | 1..1 | Dieses Feld enthält die Art des |  |
 | **8** |  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine** |  |
 | 9 |  |  | x |  |  |  | IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das | WENN   ANSONSTEN |
 | 10 |  |  | x |  |  |  | IK des Kostenträgers | 9 | 0..1 | Dieses Feld enthält das | WENN  ANSONSTEN |
 | 11 |  |  | x |  |  |  | Name des Kostenträgers | 1..45 | 1..1 | Dieses Feld enthält den Namen |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **6** |  | **x** |  |  |  |  |  |  |  |  |  |
-| **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum** |  | **7 ** | x |  | Kostenträgertyp |  |  | Kodiert  1..1  Dieses Feld enthält die Art des |
-|  |  | **8** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Allgemeine Information** |  |  |  | **1..1** |  | **Dieser Block enthält allgemeine** |  |
-|  | 9 |  |  | x |  |  |  | IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **6** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |
-| x |  |  | Kostenträgertyp |  |  | Kodiert  1..1 | Dieses Feld enthält die Art des | **8** |  | **x** |  |
-|  |  |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine** |  | 9      x |
-|  |  |  | IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | 10 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **6  x** |
-|  |  |  |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** |
-|  | **1..1** | **Dieser Block enthält Daten zum** | **7** | x |  |  | Kostenträgertyp |  |  | Kodiert  1..1 | Dieses Feld enthält die Art des |
-|  | **6** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  |
-| **7** |  | x |  |  |  |  | Kostenträgertyp |  |  |  |  |
-|  | Kodiert | 1..1 | Dieses Feld enthält die Art des |  |  | **8** |  |  |  | **x** |  |
-|  |  |  |  |  |  |  |  | **Allgemeine Information** |  |  |  |
-| **1..1** |  | **Dieser Block enthält allgemeine** |  |  | 9 |  |  | x |  |  |  |
-| IK der zuständigen  9 | 0..1  Dieses Feld enthält das | WENN   ANSONSTEN | 10 | x |  | IK des Kostenträgers | 9  0..1 | Dieses Feld enthält das  WENN | ANSONSTEN  11 |  | x |
-|  |  |  |  |  |  |  |  |  |  |  | **6  x** |
-|  |  |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** |  |
-|  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |  | x |  | Kostenträgertyp |
-|  |  |  |  |  | Kodiert | 1..1 | Dieses Feld enthält die Art des |  |  | **8** |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **6** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |
-|  | x |  |  |  |  | Kostenträgertyp |  |  |  |  |  |
-| Kodiert  1..1 | Dieses Feld enthält die Art des | **8** |  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1  Dieser Block enthält allgemeine** |
-|  |  | 9 |  |  | x |  |  |  | IK der zuständigen | 9 | 0..1 |
-| Dieses Feld enthält das | WENN | ANSONSTEN | 10 |  |  | x |  |  |  | IK des Kostenträgers | 9 |
-|  |  |  |  |  |  |  |  |  |  |  | **6** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-|  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |  |
-| x |  | Kostenträgertyp |  |  | Kodiert | 1..1  Dieses Feld enthält die Art des |  | **8** |  | **x** |  |
-|  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine** | 9 |  | x |  | IK der zuständigen  9 |
-| 0..1  Dieses Feld enthält das | WENN   ANSONSTEN | 10 | x |  | IK des Kostenträgers | 9  0..1 | Dieses Feld enthält das  WENN | ANSONSTEN  11 |  | x |  |
-|  | **6** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  |
-| **7** |  | x |  |  |  |  | Kostenträgertyp |  |  |  |  |
-| Kodiert  1..1 | Dieses Feld enthält die Art des |  | **8** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **6  x ** |
-|  |  |  |  |  |  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |
-|  |  |  |  |  |  |  |  |  |  |  | **6** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-| **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |  | x |
-|  | **6** |  | **x** |  |  |  |  |  |  |  |  |
-|  | **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum** | **7** | x |  |  | Kostenträgertyp |  |  |
-| Kodiert | 1..1 | Dieses Feld enthält die Art des |  |  | **8** |  |  |  | **x** |  |  |
-|  |  |  |  |  |  |  | **Allgemeine Information** |  |  |  | **1..1** |
-|  | **Dieser Block enthält allgemeine** |  |  | 9 |  |  | x |  |  |  | IK der zuständigen |
-| 9 | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | 10 |  |  | x |  |  | IK des Kostenträgers |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **6** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  | **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum** | **7** | x |  |  | Kostenträgertyp |  | Kodiert  1..1 |
-|  |  |  |  |  |  |  |  |  |  |  | **6  x** |
-|  |  |  |  |  | **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum** |  | **7 ** | x |
-|  |  |  | Kostenträgertyp |  |  |  |  |  | Kodiert | 1..1 | Dieses Feld enthält die Art des |
-|  |  | **8** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Allgemeine Information** |  |  |  | **1..1** |  | **Dieser Block enthält allgemeine** |  |
-|  |  |  |  |  |  |  |  |  |  |  | **6** |
-| **x** |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** |  | **1..1  Dieser Block enthält Daten zum **   **7 **   x |
-|  |  |  | Kostenträgertyp |  |  |  |  |  | Kodiert | 1..1 | Dieses Feld enthält die Art des |
-|  |  |  |  |  |  |  |  |  |  |  | **6** |
-| **x** |  |  |  |  |  |  |  |  |  |  | **Empfänger / Kostenträger** |
-|  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |  | x |  |
-|  | Kostenträgertyp |  |  | Kodiert | 1..1  Dieses Feld enthält die Art des |  | **8** |  | **x** |  |  |
-|  |  |  |  | **Allgemeine Information** |  |  |  | **1..1** |  | **Dieser Block enthält allgemeine** |  |
-|  | 9 |  |  | x |  |  |  | IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das |
-|  | **6** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  |
-| **7** |  | x |  |  |  |  | Kostenträgertyp |  |  |  |  |
-| Kodiert | 1..1  Dieses Feld enthält die Art des |  | **8** |  | **x** |  |  |  |  | **Allgemeine Information ** | **1..1** |
-| **Dieser Block enthält allgemeine** |  | 9 |  | x |  |  | IK der zuständigen | 9  0..1 | Dieses Feld enthält das  WENN | ANSONSTEN  10 | x |
-|  | **6** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7 ** |
-| x |  |  |  |  | Kostenträgertyp |  |  |  |  | Kodiert | 1..1 |
-|  |  |  |  |  |  |  |  |  |  |  | **6** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-| **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |  | x |
-|  |  |  |  | Kostenträgertyp |  |  |  |  |  | Kodiert | 1..1 |
-| Dieses Feld enthält die Art des | **8** |  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine** |
-|  |  | 9 |  |  | x |  |  |  | IK der zuständigen | 9 | 0..1 |
-| Dieses Feld enthält das | WENN | ANSONSTEN | 10 |  |  | x |  |  |  | IK des Kostenträgers | 9 |
-| 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | 11 |  |  | x |  |  |  | Name des Kostenträgers |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **6** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |
-|  | x |  |  |  |  | Kostenträgertyp |  |  |  |  |  |
-| Kodiert  1..1 | Dieses Feld enthält die Art des | **8** |  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** |
-|  | **Dieser Block enthält allgemeine** |  |  | 9 |  |  | x |  |  |  | IK der zuständigen |
-| 9 | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | 10 |  |  | x |  |  |  |
-| IK des Kostenträgers | 9 | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | 11 |  |  | x |  |  |
-| Name des Kostenträgers | 1..45  1..1 | Dieses Feld enthält den Namen |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **6** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-|  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7 **   x |  |
-|  |  | Kostenträgertyp |  |  |  |  |  | Kodiert | 1..1 | Dieses Feld enthält die Art des |  |
-| **8** |  | **x** |  |  |  |  | **Allgemeine Information** |  | **1..1** | **Dieser Block enthält allgemeine** |  |
-| 9 |  |  | x |  |  |  | IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das | WENN |
-| ANSONSTEN | 10 |  |  | x |  |  |  | IK des Kostenträgers | 9 | 0..1 | Dieses Feld enthält das |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **6** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** |
-|  | x |  |  |  |  | Kostenträgertyp |  |  |  |  | Kodiert |
-| 1..1 | Dieses Feld enthält die Art des |  |  | **8** |  |  |  | **x** |  |  |  |
-| **6** | **x** |  |  |  |  |  | **Empfänger / Kostenträger** |  | **1..1** | **Dieser Block enthält Daten zum** |  |
-| **7** |  | x |  |  |  |  | Kostenträgertyp |  |  |  |  |
-|  | Kodiert | 1..1 | Dieses Feld enthält die Art des |  |  | **8** |  |  |  | **x ** |  |
-|  |  |  |  |  | **Allgemeine Information** |  |  |  | **1..1** | **Dieser Block enthält allgemeine** | 9 |
-|  |  | x |  |  |  | IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |
-| 10 |  |  | x |  |  |  | IK des Kostenträgers | 9 | 0..1 | Dieses Feld enthält das | WENN |
-|  |  |  |  |  |  |  |  |  |  |  | **6** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-| **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  | **7** | x |  |
-| Kostenträgertyp |  |  |  |  |  | Kodiert | 1..1 | Dieses Feld enthält die Art des |  | **8** |  |
-|  | **6** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  | **Empfänger / Kostenträger** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zum** |  |  |
-| **7 ** | x |  | Kostenträgertyp |  |  | Kodiert | 1..1  Dieses Feld enthält die Art des |  | **8** |  | **x** |
-|  |  |  |  |  |  |  |  | **Allgemeine Information** |  |  |  |
-| **1..1** |  | **Dieser Block enthält allgemeine** |  |  | 9 |  |  | x |  |  |  |
-| IK der zuständigen | 9 | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | 10 |  |  | x |  |  |
-|  | IK des Kostenträgers | 9 | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | 11 |  |  | x |  |
-|  |  | Name des Kostenträgers | 1..45 | 1..1 | Dieses Feld enthält den Namen |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
 SEITE 64 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -2694,176 +2297,14 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | WOP  Kodiert | 0..1  Dieses Feld enthält das | WENN  ANSONSTEN | **13** |  | **x** |  |  |  |
-|  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  | **das Feld "Kostenträgertyp"** |
-|  | **ANSONSTEN** | 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 |
-| Dieses Feld enthält die Art der |  | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert  1..1 | Dieses Feld enthält die besondere |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |
-| Anlage 4a BMV-Ä" Kapitel "2.3  12 |  | x |  | WOP  Kodiert | 0..1  Dieses Feld enthält das | WENN  ANSONSTEN | **13** |  | **x** |  |  |
-|  |  |  |  |  | **Versichertenstatus** |  | **Kodiert  0..1  Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** | 14 |
-|  | x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere | 16 |
-|  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 |
 | 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN  ANSONSTEN |
 | **13** |  | **x** |  |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"  ANSONSTEN** |
 | 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der |  |
 | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1 | Dieses Feld enthält die besondere |  |
 | 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 |
-| 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN |
-| ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |  |
-|  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** | **ANSONSTEN ** 14 |  | x |  | Versichertenart |
-| Kodiert  1..1 | Dieses Feld enthält die Art der | 15 |  |  | x |  |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere | 16 | x |
-|  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |
-| x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |  | **13** |
-|  | **x** |  |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** | **ANSONSTEN ** 14 |
-| Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das |
-| WENN | ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |
-|  | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** | 14 |  |  | x |  |  |  | Versichertenart |
-| Kodiert | 1..1 | Dieses Feld enthält die Art der |  | 15 |  |  | x |  |  |  | Besondere Personengruppe |
-| Kodiert | 1..1 | Dieses Feld enthält die besondere |  | 16 |  |  | x |  |  |  | DMP-Kennzeichen |
-| Kodiert  1..1 | Dieses Feld enthält das Disease- |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-| x |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |  | **13** |  |
-|  |  | **x** |  |  |  |  |  |  |  |  | **Versichertenstatus  Kodiert** |
-|  | **0..1** |  | **Dieser Block enthält Angaben** |  | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** | 14 |  |  | x |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 |
-| 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN |
-| ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  |
-| **das Feld "Kostenträgertyp"** | **ANSONSTEN ** 14 |  | x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der | 15 |  | x |  | Besondere Personengruppe  Kodiert  1..1  Dieses Feld enthält die besondere |
-|  | 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-|  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |
-|  | **13** |  |  |  | **x** |  |  |  |  |  |  |
-|  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** | **ANSONSTEN** | 14 | x |  | Versichertenart | Kodiert  1..1 |
-| Dieses Feld enthält die Art der | 15 | x |  | Besondere Personengruppe | Kodiert  1..1 | Dieses Feld enthält die besondere | 16 | x |  | DMP-Kennzeichen | Kodiert  1..1 |
-| Dieses Feld enthält das Disease- |  |  |  |  |  |  |  |  |  |  |  |
-| Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das |
-| WENN | ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |
-| **das Feld "Kostenträgertyp"** | **ANSONSTEN** | 14 |  | x |  |  | Versichertenart | Kodiert | 1..1  Dieses Feld enthält die Art der | 15 |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12      x |
-| WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |  | **13** |  |  |  | **x** |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-|  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |
-| **13** |  |  |  | **x** |  |  |  |  |  |  |  |
-| Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das  WENN |
-| ANSONSTEN | **13** |  | **x** |  |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben** |
-| **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** | 14 |  |  | x |  |  |  | Versichertenart | Kodiert |
-| 1..1 | Dieses Feld enthält die Art der |  | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert |
-| 1..1 | Dieses Feld enthält die besondere |  | 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert |
-| 1..1 | Dieses Feld enthält das Disease- |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 |
-| 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN |
-| ANSONSTEN | **13** |  | **x** |  |  |  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben    das Feld "Kostenträgertyp"** |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-| x |  | WOP  Kodiert | 0..1  Dieses Feld enthält das | WENN  ANSONSTEN | **13** |  | **x** |  |  |  |  |
-|  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** |
-| 14 |  |  | x |  |  |  | Versichertenart | Kodiert | 1..1 | Dieses Feld enthält die Art der |  |
-| 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1 | Dieses Feld enthält die besondere |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-|  | x |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das  WENN | ANSONSTEN | **13** |  | **x ** |
-|  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** |
-|  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |
-|  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN | **13** |
-|  |  |  | **x** |  |  |  |  |  |  |  |  |
-| **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** | **ANSONSTEN** | 14 | x |  | Versichertenart | Kodiert  1..1 | Dieses Feld enthält die Art der |
-| 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1 | Dieses Feld enthält die besondere |  |
-| 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |
-| Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das |
-| WENN | ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |
-| **das Feld "Kostenträgertyp"** | **ANSONSTEN** | 14 | x |  | Versichertenart | Kodiert  1..1 | Dieses Feld enthält die Art der | 15 | x | Besondere Personengruppe | Kodiert  1..1 |
-| Dieses Feld enthält die besondere | 16 |  | x |  |  |  | DMP-Kennzeichen  Kodiert | 1..1  Dieses Feld enthält das Disease- |  |  |  |
-| Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das  WENN |
-| ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-|  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |
-| **13** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  | **das Feld "Kostenträgertyp"** |  |
-| **ANSONSTEN ** 14 |  | x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere |
-|  | 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 |
-| 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN |
-| ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  |
-| **das Feld "Kostenträgertyp"** | **ANSONSTEN ** 14 |  | x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der | 15 |  | x |  | Besondere Personengruppe  Kodiert |
-| 1..1 | Dieses Feld enthält die besondere |  | 16 |  |  | x |  |  |  | DMP-Kennzeichen | Kodiert |
-| 1..1 | Dieses Feld enthält das Disease- |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-|  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |
-|  | **13** |  |  |  | **x** |  |  |  |  |  |  |
-| **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** | 14 |
-|  | x |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der | 15 |  | x |  | Besondere Personengruppe  Kodiert | 1..1  Dieses Feld enthält die besondere | 16 |
-|  |  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 |
-| 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN |
-| ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** |
-|  | **ANSONSTEN** | 14 |  |  | x |  |  |  | Versichertenart | Kodiert  1..1  Dieses Feld enthält die Art der | 15 |
-| Anlage 4a BMV-Ä" Kapitel "2.3  12 |  | x |  | WOP  Kodiert | 0..1  Dieses Feld enthält das | WENN  ANSONSTEN | **13** |  | **x** |  |  |
-|  |  |  |  |  | **Versichertenstatus** |  | **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |
-|  | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** | 14 |  |  | x |  |  | Versichertenart  Kodiert | 1..1  Dieses Feld enthält die Art der |
-|  | 15 |  |  | x |  |  |  | Besondere Personengruppe | Kodiert | 1..1  Dieses Feld enthält die besondere | 16 |
-|  | x |  |  |  | DMP-Kennzeichen | Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3  12 |
-|  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das | WENN | ANSONSTEN |
-| **13** |  |  |  | **x** |  |  |  |  |  |  | **Versichertenstatus** |
-| **Kodiert** |  | **0..1** |  | **Dieser Block enthält Angaben** |  | **das Feld "Kostenträgertyp"** |  | **ANSONSTEN** | 14 | x |  |
-| Anlage 4a BMV-Ä" Kapitel "2.3 | 12 |  |  | x |  |  |  | WOP | Kodiert | 0..1 | Dieses Feld enthält das |
-| WENN | ANSONSTEN |  | **13** |  |  |  | **x** |  |  |  |  |
-|  |  | **Versichertenstatus** | **Kodiert** | **0..1** | **Dieser Block enthält Angaben** | **das Feld "Kostenträgertyp"** | **ANSONSTEN** | 14 | x |  | Versichertenart |
-| Kodiert | 1..1 | Dieses Feld enthält die Art der |  | 15 |  |  | x |  |  |  | Besondere Personengruppe |
-| Kodiert | 1..1 | Dieses Feld enthält die besondere |  | 16 |  |  | x |  |  |  | DMP-Kennzeichen |
-| Kodiert | 1..1 | Dieses Feld enthält das Disease- |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Anlage 4a BMV-Ä" Kapitel "2.3 |
 
 SEITE 65 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -2873,176 +2314,14 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | eingeschrieben ist (§ 284 Abs. 1  17 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  Dieses Feld enthält die | 26 | x |  |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des |  |
-| **18** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  |  | **Versicherter** |  |  |  | **0..1** |  | **Dieser Block enthält Daten zum** |  |  | **19** |
-|  |  | **x** |  |  |  |  |  | **Identifikator des Versicherten** |  | **6..12** | **0..1** |
-| **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  | VersichertenID |
-| eingeschrieben ist (§ 284 Abs. 1  17 |  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  Dieses Feld enthält die | 26 | x |  |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des |
-|  |  | **18** |  | **x** |  |  |  |  |  |  | **Versicherter** |
-|  | **0..1** | **Dieser Block enthält Daten zum** |  | **19 ** | **x** |  |  | **Identifikator des Versicherten** | **6..12** | **0..1** | **Dieses Feld enthält den** |
-|  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  |  | VersichertenID  10 |
-| 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die | 26 |
-| x |  |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des |  | **18** | **x** |  |  |  |  |
-| **Versicherter** |  |  |  | **0..1** |  | **Dieser Block enthält Daten zum** |  |  | **19** |  |  |
-| **x** |  |  |  |  |  | **Identifikator des Versicherten** |  | **6..12** |  | **0..1** |  |
-| **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 |
 | 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  |
 | 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |
 | **18** | **x** |  |  |  |  |  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum** |  |
 | **19** |  | **x** |  |  |  |  | **Identifikator des Versicherten** | **6..12** | **0..1** | **Dieses Feld enthält den** | **hat und das Feld  ANSONSTEN** |
 | 19a |  |  | x |  |  |  | VersichertenID | 10 | 0..1 | Dieses Feld enthält die | WENN |
-|  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 | 17 |
-| x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |  | x |
-|  | Versicherungsschutz Ende | 10  0..1 | Dieses Feld enthält das Datum des | **18** | **x** |  |  |  |  |  | **Versicherter** |
-| eingeschrieben ist (§ 284 Abs. 1 | 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |
-|  | 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |
-|  |  | **18** |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  | **Versicherter** |  |  |  | **0..1** |  | **Dieser Block enthält Daten zum** |  |
-|  | **19** |  |  | **x** |  |  |  |  |  | **Identifikator des Versicherten** |  |
-| **6..12** |  | **0..1** |  | **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  |
-| x |  | VersichertenID  10 | 0..1  Dieses Feld enthält die | WENN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-| x |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |  | x |  |
-|  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |  | **18** |  | **x ** |
-|  |  |  |  |  |  |  |  | **Versicherter** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  |
-| 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |
-|  | **18** |  | **x** |  |  |  |  |  |  |  |  |
-|  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum** |  | **19 ** | **x** |  |  | **Identifikator des Versicherten** | **6..12  0..1** |
-|  | **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  |
-|  | VersichertenID | 10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |
-|  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |  |
-| **18** | **x** |  |  |  |  |  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum ** | **19** |
-|  | **x ** |  |  | **Identifikator des Versicherten** | **6..12** | **0..1** | **Dieses Feld enthält den** | **hat und das Feld** | **ANSONSTEN  ** 19a |  | x |
-|  | VersichertenID  10 | 0..1  Dieses Feld enthält die | WENN |  |  |  |  |  |  |  |  |
-| eingeschrieben ist (§ 284 Abs. 1 | 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |
-|  | 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |
-|  |  | **18** |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Versicherter** |  |  | **0..1** |  | **Dieser Block enthält Daten zum ** |  | **19 ** | **x** |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17      x |
-| Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |  | x |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |
-| x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |  | **18** |
-| eingeschrieben ist (§ 284 Abs. 1 | 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |
-| 26 | x |  | Versicherungsschutz Ende | 10  0..1 | Dieses Feld enthält das Datum des | **18** | **x** |  |  |  |  |
-|  |  |  | **Versicherter** |  |  |  | **0..1** |  | **Dieser Block enthält Daten zum** |  |  |
-| **19** |  |  | **x** |  |  |  |  |  | **Identifikator des Versicherten** |  | **6..12** |
-|  | **0..1** |  | **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |
-|  |  |  | VersichertenID | 10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  |
-| 26 | x |  | Versicherungsschutz Ende | 10  0..1 | Dieses Feld enthält das Datum des | **18** | **x** |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-| x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  Dieses Feld enthält die | 26 | x |  |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des |  | **18** |
-| **x** |  |  |  |  |  |  |  |  |  |  |  |
-| **Versicherter** |  |  |  | **0..1** |  | **Dieser Block enthält Daten zum** |  |  | **19** |  |  |
-| **x** |  |  |  |  |  | **Identifikator des Versicherten** |  | **6..12** |  | **0..1** |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-|  | x |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die | 26 | x |  | Versicherungsschutz Ende  10  0..1  Dieses Feld enthält das Datum des   **18** |
-| **x** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 | 17 |
-|  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 | x |
-|  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |  | **18** |  |
-| **x** |  |  |  |  |  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum ** | **19** |  |
-| **x** |  |  |  |  |  | **Identifikator des Versicherten** |  | **6..12** |  | **0..1** |  |
-| **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  |  |
-| eingeschrieben ist (§ 284 Abs. 1 | 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |
-|  | 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |
-|  |  | **18** |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum ** | **19** |  | **x ** |  | **Identifikator des Versicherten** | **6..12** |
-| **0..1** | **Dieses Feld enthält den** |  | **hat und das Feld** | **ANSONSTEN** | 19a |  | x |  | VersichertenID | 10  0..1 | Dieses Feld enthält die  WENN |
-| eingeschrieben ist (§ 284 Abs. 1 | 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |
-| 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |
-| **18** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |
-| x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |  | **18** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-| **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum** |  | **19 ** | **x** |  |  | **Identifikator des Versicherten** | **6..12** | **0..1** |
-|  | **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  |
-|  | VersichertenID | 10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  |
-| 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |
-|  | **18** |  | **x** |  |  |  |  |  |  |  |  |
-|  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum** |  | **19 ** | **x** |  |  | **Identifikator des Versicherten** | **6..12** |
-|  | **0..1** |  | **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |
-|  |  |  | VersichertenID | 10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |
-|  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des | **18** | **x** |
-|  |  |  |  |  |  |  |  |  |  |  | **Versicherter** |
-|  | **0..1** | **Dieser Block enthält Daten zum** |  | **19 ** | **x** |  |  | **Identifikator des Versicherten** | **6..12** | **0..1** | **Dieses Feld enthält den** |
-|  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  |  | VersichertenID |
-| 10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 |
-| 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  |
-| 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  |
-|  | **18** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  | **Versicherter** |  |  |  | **0..1** |  | **Dieser Block enthält Daten zum** |  | **19 ** | **x ** |
-| eingeschrieben ist (§ 284 Abs. 1  17 |  | x |  | Kennzeichen Rechtsgrundlage  Kodiert | 1..1  Dieses Feld enthält die | 26 | x |  |  | Versicherungsschutz Ende  10 | 0..1  Dieses Feld enthält das Datum des |
-|  |  | **18** |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  | **Versicherter** |  |  |  | **0..1** |  | **Dieser Block enthält Daten zum ** | **19 ** |
-|  | **x** |  |  |  |  |  | **Identifikator des Versicherten** |  | **6..12** | **0..1** | **Dieses Feld enthält den** |
-| **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  | x |  |  |  | VersichertenID | 10 |
-| 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1  17 |
-|  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |  | 26 |
-| x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |  | **18** | **x ** |
-|  |  |  |  |  |  |  |  |  | **Versicherter** |  | **0..1** |
-| eingeschrieben ist (§ 284 Abs. 1 | 17 |  |  | x |  |  |  | Kennzeichen Rechtsgrundlage | Kodiert | 1..1 | Dieses Feld enthält die |
-|  | 26 |  | x |  |  |  |  | Versicherungsschutz Ende | 10 | 0..1 | Dieses Feld enthält das Datum des |
-|  | **18** | **x** |  |  |  |  |  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum ** |
-|  | **19** |  |  | **x** |  |  |  |  |  | **Identifikator des Versicherten** |  |
-| **6..12** |  | **0..1** |  | **Dieses Feld enthält den** |  | **hat und das Feld** |  | **ANSONSTEN** | 19a |  |  |
-| x |  |  |  | VersichertenID | 10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | eingeschrieben ist (§ 284 Abs. 1 |
 
 SEITE 66 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
@@ -3051,176 +2330,11 @@ SEITE 66 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Krankenversicherungsnummer  Versicherten“ vorhanden ist |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| WENN | 19c | x |  | KVK-Versichertennummer | 6..12  0..1 | Dieses Feld enthält die  WENN | WENN | **140** |  | **x** |  |
-|  |  |  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** |  |
-| **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Krankenversicherungsnummer  Versicherten“ vorhanden ist | WENN | 19c | x |  | KVK-Versichertennummer | 6..12  0..1 | Dieses Feld enthält die  WENN | WENN | **140** |  | **x** |
-|  |  |  |  |  |  |  | **Name des Versicherten **  **1..1** |  | **Dieser Block enthält die** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer |
-| Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12  0..1 |
-| Dieses Feld enthält die  WENN | WENN | **140** |  | **x** |  |  |  |  | **Name des Versicherten** |  | **1..1  Dieser Block enthält die** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer |
-| Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 |
-| 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |  |
-|  |  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer | Versicherten“ vorhanden ist    WENN |
 | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1 | Dieses Feld enthält die | WENN  WENN |
 | **140** |  | **x** |  |  |  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die** |  |
-| Krankenversicherungsnummer | Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer |
-| 6..12 | 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |
-|  |  |  |  |  |  |  |  | **Name des Versicherten** |  |  |  |
-| **1..1** |  | **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist    WENN |
-| 19c |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1 | Dieses Feld enthält die | WENN | WENN |
-|  | **140** |  |  |  | **x** |  |  |  |  |  |  |
-| **Name des Versicherten** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer |
-| Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 |
-| 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |  |
-|  |  |  |  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** |
-| **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist |
-|  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1 |
-| Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |  |  |
-|  |  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Krankenversicherungsnummer | Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer |
-| 6..12 | 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |
-|  |  |  |  |  |  |  |  | **Name des Versicherten** |  |  | **1..1** |
-| **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist    WENN  19c      x |
-|  |  |  | KVK-Versichertennummer | 6..12 | 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist |
-|  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1  Dieses Feld enthält die |
-| WENN | WENN |  | **140** |  |  |  | **x** |  |  |  |  |
-| Krankenversicherungsnummer | Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer  6..12 |
-| 0..1  Dieses Feld enthält die | WENN  WENN | **140** |  | **x** |  |  |  |  | **Name des Versicherten** |  | **1..1** |
-|  | **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer |
-| Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 |
-| 0..1  Dieses Feld enthält die | WENN  WENN | **140** |  | **x** |  |  |  |  | **Name des Versicherten** |  | **1..1  Dieser Block enthält die** |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist    WENN |
-| 19c | x |  | KVK-Versichertennummer | 6..12  0..1 | Dieses Feld enthält die  WENN | WENN | **140** |  | **x** |  |  |
-|  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist |
-| WENN | 19c |  | x |  |  |  | KVK-Versichertennummer  6..12 | 0..1 | Dieses Feld enthält die  WENN | WENN | **140 **  **x ** |
-|  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |
-|  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer | Versicherten“ vorhanden ist |
-| WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1 | Dieses Feld enthält die  WENN |
-| WENN |  | **140** |  |  |  | **x** |  |  |  |  |  |
-|  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die** |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Krankenversicherungsnummer | Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer |
-| 6..12 | 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |
-|  |  |  |  |  |  |  |  | **Name des Versicherten** |  |  |  |
-| **1..1** | **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Krankenversicherungsnummer | Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer  6..12 |
-| 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |  |
-|  |  |  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** | **Dieser Block enthält die** |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist |
-|  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1  Dieses Feld enthält die |
-| WENN | WENN |  | **140** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** |  | **Dieser Block enthält die** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer |
-| Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 |
-| 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |  |
-|  |  |  |  |  |  |  | **Name des Versicherten** |  |  |  | **1..1** |
-| **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist |
-|  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1 |
-| Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |  |  |
-|  |  |  | **Name des Versicherten** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer |
-| Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 |
-| 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |  |
-|  |  |  |  |  |  |  | **Name des Versicherten** |  |  | **1..1** |  |
-| **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |  |  |
-| Krankenversicherungsnummer  Versicherten“ vorhanden ist | WENN | 19c | x |  | KVK-Versichertennummer | 6..12  0..1 | Dieses Feld enthält die  WENN | WENN | **140** |  | **x** |
-|  |  |  |  |  |  |  |  | **Name des Versicherten** |  |  |  |
-| **1..1** |  | **Dieser Block enthält die** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer  Versicherten“ vorhanden ist |
-|  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer | 6..12 | 0..1  Dieses Feld enthält die |
-| WENN | WENN |  | **140** |  |  |  | **x** |  |  |  |  |
-|  | **Name des Versicherten** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  |  |  |
-| Krankenversicherungsnummer | Versicherten“ vorhanden ist |  | WENN | 19c |  |  | x |  |  |  | KVK-Versichertennummer |
-| 6..12 | 0..1 | Dieses Feld enthält die | WENN | WENN |  | **140** |  |  |  | **x** |  |
-|  |  |  |  | **Name des Versicherten** |  | **1..1** | **Dieser Block enthält die** |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Krankenversicherungsnummer |
 
 SEITE 67 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -3231,60 +2345,8 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 20 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| x |  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen | 21 | x |  | Nachname des Versicherten | 1..45  1..1 | Dieses Feld enthält den | 22 |
-|  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |
-|  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 24 |  |
-|  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  | 25 | x |
-|  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |  |
-| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen | 21 | x |  | Nachname des Versicherten | 1..45  1..1 | Dieses Feld enthält den |
-| 22 |  |  | x |  |  |  | Titel des Versicherten  1..20  0..1  Dieses Feld enthält den    23 |  |  | x |  |
-|  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das | 25 | x |  |
-|  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |  | **x** |
-|  |  |  |  |  |  |  |  |  | **Straßenadresse des** |  |  |
-| **0..1** |  | **Dieser Block enthält** |  | **des Versicherten" nicht** |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |
-| x |  | Nachname des Versicherten | 1..45  1..1 | Dieses Feld enthält den | 22 | x |  | Titel des Versicherten | 1..20  0..1 | Dieses Feld enthält den | 23      x |
-|  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 24 |  |  | x |
-|  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  | 25 |  | x |  |
-|  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |
-|  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 23 |  | x |  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den |  |
-| 24 |  | x |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1  Dieses Feld enthält das | 25 | x |  | Geburtsdatum des Versicherten  4..10 |
-| 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |  |  | **x** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 20 | x |
-|  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |  | x |
-|  | Nachname des Versicherten  1..45 | 1..1  Dieses Feld enthält den | 22 |  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 23 |  | x |
 | 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
 | 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  |
 | 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  |
@@ -3292,115 +2354,6 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 | 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  |
 | 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |
 | **27** |  | **x** |  |  |  |  | **Straßenadresse des** |  | **0..1** | **Dieser Block enthält** | **des Versicherten" nicht** |
-|  |  |  |  |  |  |  |  |  |  |  | 20      x |
-|  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |  | x |  |
-|  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |  |  | x | Titel des Versicherten |
-| 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |  | x |  |  |  | Namenszusatz des Versicherten |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |
-|  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |
-|  | x |  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das | 25    x |
-|  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |
-|  |  | **x** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |
-|  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |  |
-| x |  | Titel des Versicherten | 1..20  0..1 | Dieses Feld enthält den | 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | Dieses Feld enthält den | 24 |
-| x |  | Vorsatzwort des Versicherten | 1..20  0..1 | Dieses Feld enthält das | 25 | x |  | Geburtsdatum des Versicherten | 4..10  1..1 | Dieses Feld enthält das  WENN | **27** |
-|  | **x** |  |  |  |  | **Straßenadresse des** |  | **0..1** | **Dieser Block enthält** | **des Versicherten" nicht** |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  |
-| 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den | 23 |
-|  | x |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den | 24 |  | x |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20      x        Vorname des Versicherten |
-| 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |  | x |  |  |  | Nachname des Versicherten |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |
-| x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |  |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen | 21 |
-|  | x |  | Nachname des Versicherten  1..45 | 1..1  Dieses Feld enthält den | 22 |  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 23 |
-|  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 24 |
-|  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  | 25 |
-|  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  |
-| **27** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |
-|  | x |  | Nachname des Versicherten  1..45 | 1..1  Dieses Feld enthält den | 22 |  | x |  | Titel des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 23 |
-|  |  |  |  |  |  |  |  |  |  |  | 20      x |
-|  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen | 21 | x |  | Nachname des Versicherten | 1..45  1..1 | Dieses Feld enthält den | 22 | x |
-|  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |  | x |
-|  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 24 |  |  | x |
-|  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  | 25 |  | x |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-| x |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen | 21 |  | x |  | Nachname des Versicherten  1..45  1..1  Dieses Feld enthält den     22      x |
-|  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |  | x |
-|  |  |  |  |  |  |  |  |  |  | 20 |  |
-| x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  | x |
-|  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |  |  | x |
-|  | Titel des Versicherten | 1..20  0..1 | Dieses Feld enthält den | 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | Dieses Feld enthält den | 24 | x |
-|  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  | 25 |  | x |  |
-|  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  |
-| 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  |
-| 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | Dieses Feld enthält den | 24 | x |  | Vorsatzwort des Versicherten | 1..20  0..1  Dieses Feld enthält das | 25 |
-| x |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN | **27** |  | **x** |  |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |
-|  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |
-| x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |  |  |
-| x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |  |
-| x |  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das | 25 | x |
-|  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |
-|  |  | **x** |  |  |  |  |  |  |  |  |  |
-| **Straßenadresse des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **des Versicherten" nicht** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |
-|  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |
-|  | x |  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das | 25 |
-|  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  |
-| **27** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Straßenadresse des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **des Versicherten" nicht** |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |
-|  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 | x |
-|  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |  | x |  |
-|  | Namenszusatz des Versicherten  1..20 | 0..1  Dieses Feld enthält den | 24 |  | x |  | Vorsatzwort des Versicherten  1..20 | 0..1  Dieses Feld enthält das | 25 | x |  |
-|  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |  |  |
-| **x** |  |  |  |  |  |  |  |  |  | **Straßenadresse des** |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |
-|  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 |
-|  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den | 23 |  |
-|  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 24 | x |
-| 20 | x |  | Vorname des Versicherten | 1..45  1..1 | Dieses Feld enthält den Vornamen | 21 | x |  | Nachname des Versicherten | 1..45  1..1 | Dieses Feld enthält den |
-| 22 |  |  | x |  |  |  | Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  |
-| 23 |  |  | x |  |  |  | Namenszusatz des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den    24 |  |
-| x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  | 25 | x |  |
-|  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |  | **27** |  |  |  | **x** |
-|  |  |  |  |  |  |  |  |  | **Straßenadresse des** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
-|  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 21 |  |
-| x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  | 22 | x |  |
-| Titel des Versicherten | 1..20 | 0..1 | Dieses Feld enthält den |  | 23 |  |  | x |  | Namenszusatz des Versicherten | 1..20  0..1 |
-| 20 |  |  | x |  |  |  | Vorname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
-| 21 |  |  | x |  |  |  | Nachname des Versicherten | 1..45 | 1..1 | Dieses Feld enthält den |  |
-| 22 | x |  | Titel des Versicherten | 1..20  0..1 | Dieses Feld enthält den | 23 | x |  | Namenszusatz des Versicherten | 1..20  0..1 | Dieses Feld enthält den |
-| 24 |  |  | x |  |  |  | Vorsatzwort des Versicherten | 1..20 | 0..1 | Dieses Feld enthält das |  |
-| 25 |  | x |  |  |  |  | Geburtsdatum des Versicherten | 4..10 | 1..1 | Dieses Feld enthält das | WENN |
-|  | **27** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  |  | **Straßenadresse des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **des Versicherten" nicht** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 20 |
 
 SEITE 68 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -3410,176 +2363,12 @@ DERH. (GRAU = FELDGRUPPE) oder NULL des Versicherten; mehrere Vornamen sind durc
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |  |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **ANSONSTEN** | 28 |  | x |  | Wohnsitzländercode der  Kodiert 1..3 | 0..1  Dieses Feld enthält den | 29 |  | x |  | Postleitzahl der  1..10 |
-| 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |  |
-|  | Ortsname der | 1..40 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **ANSONSTEN** | 28 |  | x |  | Wohnsitzländercode der  Kodiert 1..3 | 0..1  Dieses Feld enthält den | 29 |  | x |  |
-| Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN  30      x |  |  | Ortsname der | 1..40 |
-| 0..1  Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der  Kodiert 1..3 |
-| 0..1  Dieses Feld enthält den | 29 |  | x |  | Postleitzahl der  1..10 | 0..1  Dieses Feld enthält die | WENN   ANSONSTEN WENN | ANSONSTEN | 30 | x | Ortsname der |
-| 1..40 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der |
-| Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der |
-| 1..10  0..1 | Dieses Feld enthält die  WENN | ANSONSTEN WENN | ANSONSTEN  30 |  | x |  | Ortsname der  1..40 | 0..1  Dieses Feld enthält den |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **ANSONSTEN** |
-| 28 |  |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |
-| 29 | x |  | Postleitzahl der | 1..10  0..1 | Dieses Feld enthält die  WENN | ANSONSTEN WENN | ANSONSTEN  30 |  | x |  | Ortsname der  1..40 |
-|  |  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  |
-| Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  |
-| Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |
-|  |  |  | Ortsname der | 1..40 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | **ANSONSTEN** |
 | 28 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  |
 | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die | WENN   ANSONSTEN WENN    ANSONSTEN |
 | 30 |  |  | x |  |  |  | Ortsname der | 1..40 | 0..1 | Dieses Feld enthält den |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der |
-| Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der |
-| 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |
-|  | Ortsname der  1..40 | 0..1  Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 |
-| 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10 |
-| 0..1  Dieses Feld enthält die | WENN   ANSONSTEN WENN | ANSONSTEN | 30 | x |  | Ortsname der | 1..40  0..1 | Dieses Feld enthält den |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  |
-| Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  |
-| Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |
-|  | Ortsname der | 1..40 | 0..1  Dieses Feld enthält den |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **ANSONSTEN ** 28 |
-| x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3  0..1 |
-| Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10 | 0..1 |
-|  |  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  | Wohnsitzländercode der |
-| Kodiert 1..3  0..1 | Dieses Feld enthält den | 29 | x |  | Postleitzahl der | 1..10  0..1 | Dieses Feld enthält die  WENN | ANSONSTEN WENN | ANSONSTEN  30 |  | x |
-|  |  | Ortsname der | 1..40 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der |
-| Kodiert 1..3  0..1 | Dieses Feld enthält den | 29 | x |  | Postleitzahl der | 1..10  0..1 | Dieses Feld enthält die  WENN | ANSONSTEN WENN | ANSONSTEN  30 |  | x |
-|  |  |  |  |  |  |  |  |  |  |  | **ANSONSTEN** |
-| 28 |  | x |  | Wohnsitzländercode der  Kodiert 1..3 | 0..1  Dieses Feld enthält den | 29 |  | x |  | Postleitzahl der  1..10 | 0..1  Dieses Feld enthält die |
-| WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |  |  | Ortsname der |
-| 1..40 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **ANSONSTEN** | 28 |  |  | x |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1  Dieses Feld enthält den | 29 | x        Postleitzahl der  1..10  0..1  Dieses Feld enthält die |
-| WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |  |  | Ortsname der |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1  Dieses Feld enthält den |
-|  | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die |
-| WENN   ANSONSTEN WENN | ANSONSTEN | 30 | x |  | Ortsname der | 1..40  0..1 | Dieses Feld enthält den |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  |
-| Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  |
-| Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |
-|  | Ortsname der | 1..40  0..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  | Wohnsitzländercode der |
-| Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der  1..10 |
-| 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3  0..1 |
-| Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10 | 0..1 |
-| Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |  |  |
-| Ortsname der  1..40 | 0..1  Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der |
-| Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der |
-| 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |
-|  | Ortsname der  1..40 | 0..1  Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 |
-| 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der  1..10  0..1 | Dieses Feld enthält die  WENN |
-| ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |  |  | Ortsname der | 1..40 |
-| 0..1  Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der |
-| Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der |
-| 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |  |
-|  | Ortsname der | 1..40 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |
-|  | **ANSONSTEN** | 28 |  | x |  | Wohnsitzländercode der  Kodiert 1..3 | 0..1  Dieses Feld enthält den | 29 |  | x |  |
-| Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die | WENN | ANSONSTEN WENN |  | ANSONSTEN | 30 |  |  | x |
-|  |  |  | Ortsname der | 1..40 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3  0..1 |
-| Dieses Feld enthält den |  | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10  0..1  Dieses Feld enthält die | WENN   ANSONSTEN WENN |
-| ANSONSTEN | 30 |  |  | x |  |  |  | Ortsname der | 1..40 | 0..1  Dieses Feld enthält den |  |
-|  |  |  | **ANSONSTEN** | 28 |  |  |  | x |  |  |  |
-| Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 29 |  |  | x |  |  |  |
-| Postleitzahl der  1..10 | 0..1  Dieses Feld enthält die | WENN   ANSONSTEN WENN | ANSONSTEN | 30 | x |  | Ortsname der | 1..40  0..1 | Dieses Feld enthält den |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
 SEITE 69 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -3590,71 +2379,8 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Namensbestandteile sind durch  31 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Straßenname der  1..46 | 0..1  Dieses Feld enthält den | 32 |  | x |  | Hausnummer der  1..9 | 0..1  Dieses Feld enthält die | 33 |
-|  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  |
-| **34** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **WENN** | **ANSONSTEN ** 35 |
-|  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den | 36 |  |
-| Namensbestandteile sind durch  31 |  | x |  | Straßenname der  1..46 | 0..1  Dieses Feld enthält den | 32 |  | x |  | Hausnummer der  1..9 | 0..1  Dieses Feld enthält die |
-|  | 33 |  |  | x |  |  | Anschriftenzusatz der  1..40  0..1  Dieses Feld enthält den |  | **34** |  |  |
-| **x** |  |  |  |  | **Postfachanschrift des** |  | **0..1** | **Dieser Block enthält** | **WENN** | **ANSONSTEN** | 35 |
-|  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 36 |  |
-| x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den | 32 |
-|  | x |  | Hausnummer der  1..9 | 0..1  Dieses Feld enthält die | 33 |  | x |  | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den | **34** |
-|  |  | **x** |  |  |  |  |  |  |  |  |  |
-| **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **WENN** |  | **ANSONSTEN** | 35 |
-|  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 36 |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  |
-| 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  |
-| 33 | x |  | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den | **34** |  | **x** |  |  |  |
-|  |  | **Postfachanschrift des** |  |  |  | **0..1** | **Dieser Block enthält** | **WENN** | **ANSONSTEN** | 35 | x |
-|  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 36 |  |  | x |  |  |
-|  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch | 31 |
-| x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |  | x |
-|  | Hausnummer der | 1..9  0..1 | Dieses Feld enthält die | 33 | x |  | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den | **34** |  |
-| Namensbestandteile sind durch | 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |
-|  | 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |
-|  | 33 |  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-|  |  | **34** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |
-| **WENN** |  | **ANSONSTEN** | 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 |
-| 0..1  Dieses Feld enthält den | 36 |  | x |  | Postleitzahl der Versicherten- 1..10 | 0..1  Dieses Feld enthält die | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-| x |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |  |  | x |
-|  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  | 33 |  |  | x |
-| Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **34** |  |  |  | **x** |  |
 |  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
 | 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  |
 | 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  |
@@ -3662,104 +2388,6 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 | **34** |  | **x** |  |  |  |  | **Postfachanschrift des** |  | **0..1** | **Dieser Block enthält** | **WENN  ANSONSTEN** |
 | 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  |
 | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die | WENN |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-|  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |
-|  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  | 33 |
-|  | x |  | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den |  | **34** |  | **x** |  |  |  |
-|  | **Postfachanschrift des** |  | **0..1** | **Dieser Block enthält** | **WENN** | **ANSONSTEN ** 35 |  | x |  | Wohnsitzländercode der  Kodiert 1..3 | 0..1  Dieses Feld enthält den |
-| 36 |  | x |  | Postleitzahl der Versicherten- 1..10 | 0..1  Dieses Feld enthält die | WENN |  |  |  |  |  |
-| Namensbestandteile sind durch | 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |
-|  | 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |
-|  | 33 |  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-| **34** |  |  | **x** |  |  |  |  |  |  | **Postfachanschrift des** |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31      x |
-| Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |  |  | x |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-|  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |
-|  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  | 33 |  |
-| Namensbestandteile sind durch | 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |
-| 32 | x |  | Hausnummer der | 1..9  0..1 | Dieses Feld enthält die | 33 | x |  | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den |
-|  | **34** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  |  | **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **WENN** |
-|  | **ANSONSTEN** | 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 |
-| Dieses Feld enthält den |  | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1  Dieses Feld enthält die |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  |
-| 32 | x |  | Hausnummer der | 1..9  0..1 | Dieses Feld enthält die | 33 | x |  | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den   **34** |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-| x |  | Straßenname der  1..46 | 0..1  Dieses Feld enthält den | 32 |  | x |  | Hausnummer der  1..9 | 0..1  Dieses Feld enthält die | 33 |  |
-| x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **34** |  |
-|  |  | **x** |  |  |  |  |  |  |  |  |  |
-| **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **WENN** |  | **ANSONSTEN** | 35 |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-|  | x |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den | 32 |  | x | Hausnummer der  1..9  0..1  Dieses Feld enthält die    33 |
-| x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **34** |  |
-|  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch | 31 |
-|  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |  |
-| x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  | 33 |  |  |
-| x |  | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den |  | **34** |  | **x** |  |  |  |  |
-| **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **WENN** |  | **ANSONSTEN** | 35 |
-|  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 36 |
-| Namensbestandteile sind durch | 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |
-|  | 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |
-|  | 33 |  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-|  | **34** |  | **x** |  |  |  |  | **Postfachanschrift des** |  | **0..1   Dieser Block enthält** | **WENN** |
-| **ANSONSTEN ** 35 |  |  | x |  |  | Wohnsitzländercode der | Kodiert 1..3  0..1 | Dieses Feld enthält den | 36 | x | Postleitzahl der Versicherten- |
-| Namensbestandteile sind durch | 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |
-| 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die | 33 |
-|  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  | **34** |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-|  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |
-|  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  | 33 |  |
-|  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **34** |
-|  | **x** |  |  |  |  | **Postfachanschrift des** |  | **0..1** | **Dieser Block enthält** | **WENN** | **ANSONSTEN** |
-| 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  |
-| 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  |
-| 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  |
-| 33 |  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |
-| **34** |  | **x** |  |  |  |  | **Postfachanschrift des** |  | **0..1** | **Dieser Block enthält** | **WENN** |
-|  | **ANSONSTEN** | 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 |
-| Dieses Feld enthält den |  | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 |
-| Dieses Feld enthält die | WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-|  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |
-|  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die | 33 | x |
-|  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **34** |  |  |
-| **x** |  |  |  |  | **Postfachanschrift des** |  | **0..1** | **Dieser Block enthält** | **WENN** | **ANSONSTEN** | 35 |
-|  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 36 |  |
-|  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die | WENN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  |
-| 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  |
-| 33 |  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |
-| **34** |  |  |  | **x** |  |  |  |  |  |  | **Postfachanschrift des** |
-| Namensbestandteile sind durch  31 |  | x |  | Straßenname der  1..46 | 0..1  Dieses Feld enthält den | 32 |  | x |  | Hausnummer der  1..9 | 0..1  Dieses Feld enthält die |
-|  | 33 |  |  | x |  |  |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-|  |  | **34** |  |  |  | **x** |  |  |  |  |  |
-|  | **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  | **WENN** | **ANSONSTEN ** 35 |  |
-| x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 | 0..1 | Dieses Feld enthält den |  | 36 |  |  |
-| x |  |  |  | Postleitzahl der Versicherten- | 1..10 | 0..1 | Dieses Feld enthält die | WENN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  31 |
-|  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |  | 32 |
-|  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |  | 33 | x |
-|  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **34** |  |  | **x** |  |
-| Namensbestandteile sind durch | 31 |  |  | x |  |  |  | Straßenname der | 1..46 | 0..1 | Dieses Feld enthält den |
-|  | 32 |  |  | x |  |  |  | Hausnummer der | 1..9 | 0..1 | Dieses Feld enthält die |
-| 33 |  | x |  | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den |  | **34** |  | **x** |  |  |
-|  |  |  |  | **Postfachanschrift des** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |
-| **WENN** |  | **ANSONSTEN** | 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert 1..3 |
-| 0..1 | Dieses Feld enthält den |  | 36 |  |  | x |  |  |  | Postleitzahl der Versicherten- | 1..10 |
-| 0..1 | Dieses Feld enthält die | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
 
 SEITE 70 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -3770,176 +2398,14 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | ANSONSTEN WENN  ANSONSTEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 37 | x |  | Ortsname der Versicherten- | 1..40  0..1 | Dieses Feld enthält den | 38 | x |  | Postfach der Versicherten- | 1..8  0..1 | Dieses Feld enthält das Postfach. |
-|  | **39** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block** |  |  |
-|  | **40** |  |  |  | **x** |  |  |  |  |  |  |
-|  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |  | **146** |  |
-| ANSONSTEN WENN  ANSONSTEN | 37 | x |  | Ortsname der Versicherten- | 1..40  0..1 | Dieses Feld enthält den | 38 | x |  | Postfach der Versicherten- | 1..8  0..1 |
-| Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |  |  |  |  |  |  |
-| **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  | **40** |  | **x** |  |  |  |  |
-| **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |  |  | **146** |  |
-|  |  |  | **x** |  |  |  |  |  |  |  | **Qualifikation der** |
-|  |  | **1..1** |  | **Qualifikation der ausstellenden/** |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN |
-| ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |
-| 38 | x |  | Postfach der Versicherten- | 1..8  0..1 | Dieses Feld enthält das Postfach. | **39** | **x** |  |  |  |  |
-|  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block** |  |  |  | **40** |
-|  |  |  | **x** |  |  |  |  |  |  |  |  |
-|  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |  |  | **146** |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN |
-| ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |
-|  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |
-|  | **39** | **x** |  |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |
-|  |  | **40** |  |  | **x** |  |  |  |  |  | **Ausstellende/ verschreibende ** |
-| **1..1** |  | **der ausstellenden/** |  |  |  | **146** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN | ANSONSTEN  37 |
-|  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |  | 38 |  |
-| x |  | Postfach der Versicherten- 1..8 | 0..1  Dieses Feld enthält das Postfach. |  | **39** | **x** |  |  |  |  |  |
-| ANSONSTEN WENN | ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 |
-| Dieses Feld enthält den |  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 |
-| Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |  |  |  |  |  |  |
-|  |  |  |  |  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block** |
-|  |  |  | **40** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |
-|  | **146** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** | **Qualifikation der ausstellenden/** |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN  37 |
-| x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |  | 38 |  |  |
-| x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** | **x ** |
-|  |  |  |  |  |  |  |  |  | **Stempelinformationen** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN |
-| ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |
-|  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |
-|  |  | **39** |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  | **40** |  | **x** |  |  |
-|  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |  |  |
-| **146** |  |  |  |  |  | **x** |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN |
 | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |  |
 | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |
 | **39** | **x** |  |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  |
 | **40** |  | **x** |  |  |  |  | **Ausstellende/ verschreibende** |  | **1..1** | **der ausstellenden/** |  |
 | **146** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** | **Qualifikation der ausstellenden/** |  |
-| ANSONSTEN WENN | ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 |
-| Dieses Feld enthält den |  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 |
-| Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |  |  |  |  |  |  |
-|  |  |  | **Stempelinformationen** |  |  | **1..1** | **Die Angaben in diesem Block** |  |  | **40** |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN  37      x |
-|  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |  | 38 |  |  | x |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN |
-| 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den | 38 |
-|  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  |
-| ANSONSTEN WENN | ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1  Dieses Feld enthält den |
-| 38 |  | x |  | Postfach der Versicherten- 1..8 | 0..1  Dieses Feld enthält das Postfach. |  | **39** | **x** |  |  |  |
-|  |  |  |  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block** |  |
-|  |  | **40** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |
-|  |  | **146** |  |  |  |  |  | **x** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN |
-| ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |
-| 38 |  | x |  | Postfach der Versicherten- 1..8 | 0..1  Dieses Feld enthält das Postfach. |  | **39** | **x** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN  37 |
-| x |  | Ortsname der Versicherten- | 1..40  0..1 | Dieses Feld enthält den | 38 | x |  | Postfach der Versicherten- | 1..8  0..1 | Dieses Feld enthält das Postfach. | **39** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-|  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block** |  |  |  | **40** |
-|  |  |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN |
-| 37 |  | x |  |  | Ortsname der Versicherten- | 1..40 | 0..1  Dieses Feld enthält den |  | 38 | x | Postfach der Versicherten- 1..8  0..1  Dieses Feld enthält das Postfach.   **39** |
-|  | **x** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN | ANSONSTEN  37 |
-|  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |  | 38 |
-|  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  | **39** |
-| **x** |  |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  | **40** |
-|  |  |  | **x** |  |  |  |  |  |  |  |  |
-|  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |  |  | **146** |
-| ANSONSTEN WENN | ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 |
-| Dieses Feld enthält den |  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 |
-| Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |  |  |  |  |  |  |
-|  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  | **40** |  | **x** |  |  |
-|  |  | **Ausstellende/ verschreibende** |  |  | **1..1** |  | **der ausstellenden/** |  | **146** |  | **x** |
-| ANSONSTEN WENN | ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1  Dieses Feld enthält den |
-|  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |
-|  | **39** |  | **x** |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN |
-| 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den | 38 |
-|  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |  |  |
-| **39** |  | **x** |  |  |  |  |  |  |  |  |  |
-|  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  | **40** |  | **x** |  |  |  |
-|  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |  |  |
-| **146** |  |  |  |  |  | **x** |  |  |  |  |  |
-|  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Qualifikation der ausstellenden/** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN |
-| ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |
-|  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |
-|  |  | **39** |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  | **40** |  | **x** |  |  |
-|  |  |  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |
-|  |  | **146** |  |  |  |  |  | **x** |  |  |  |
-|  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Qualifikation der ausstellenden/** |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN |
-| 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |  |
-| 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. | **39** |
-| **x** |  |  |  |  |  |  |  |  |  |  |  |
-| **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |  | **40** |  | **x** |  |  |  |  |
-| **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |  |  |  | **146** |  |
-|  |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN |
-| ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den |
-|  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. |
-|  |  | **39** |  | **x** |  |  |  |  |  |  |  |
-|  |  |  | **Stempelinformationen** |  |  |  | **1..1** |  | **Die Angaben in diesem Block** |  | **40 ** |
-| ANSONSTEN WENN  ANSONSTEN | 37 | x |  | Ortsname der Versicherten- | 1..40  0..1 | Dieses Feld enthält den | 38 | x |  | Postfach der Versicherten- | 1..8  0..1 |
-| Dieses Feld enthält das Postfach. |  |  | **39** |  | **x** |  |  |  |  |  |  |
-|  |  |  |  |  | **Stempelinformationen** |  |  |  | **1..1** | **Die Angaben in diesem Block** |  |
-| **40** |  |  |  | **x** |  |  |  |  |  |  | **Ausstellende/ verschreibende** |
-|  |  |  | **1..1** |  | **der ausstellenden/** |  |  |  | **146** |  |  |
-|  |  |  | **x** |  |  |  |  |  |  |  | **Qualifikation der** |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN  ANSONSTEN |
-| 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 | Dieses Feld enthält den | 38 |
-|  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 | Dieses Feld enthält das Postfach. | **39** | **x** |
-|  |  |  |  |  |  |  |  |  |  | **Stempelinformationen  ** | **1..1** |
-| ANSONSTEN WENN | ANSONSTEN | 37 |  |  | x |  |  |  | Ortsname der Versicherten- | 1..40 | 0..1 |
-| Dieses Feld enthält den |  | 38 |  |  | x |  |  |  | Postfach der Versicherten- | 1..8 | 0..1 |
-| Dieses Feld enthält das Postfach. | **39** | **x** |  |  |  |  |  | **Stempelinformationen** |  | **1..1** | **Die Angaben in diesem Block** |
-|  |  |  | **40** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  | **Ausstellende/ verschreibende** |  |  |  | **1..1** |  | **der ausstellenden/** |
-|  |  |  | **146** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Qualifikation der ausstellenden/** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN WENN |
 
 SEITE 71 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -3950,714 +2416,55 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 41 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x | Typ der ausstellenden/ | Kodiert  1..1 | Dieses Feld enthält einen Typ zur | 49 |  | x | Berufsbezeichnung der | 1..100  1..1 | Dieses Feld enthält eine | 147 |
-|  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  |
-| **42** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  |  |
-| **0..2** |  | **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| 41 |  | x | Typ der ausstellenden/ | Kodiert  1..1 | Dieses Feld enthält einen Typ zur | 49 |  | x | Berufsbezeichnung der | 1..100  1..1 | Dieses Feld enthält eine |
-| 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV- WENN  ANSONSTEN |  | **42** |  |  |
-| **x** |  |  | **Identifikator der ** | **0..2** | **Dieser Block** | **verschreibenden Person“** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |
-|  | x | Berufsbezeichnung der | 1..100  1..1 | Dieses Feld enthält eine | 147 |  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV- WENN | ANSONSTEN **42 ** |
-|  |  | **x** |  |  |  |  | **Identifikator der** |  |  | **0..2** |  |
-| **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |
-|  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- | WENN  ANSONSTEN | **42** |  | **x** |  |  | **Identifikator der** |
-|  | **0..2** | **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 41 |  |
-| x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |  | x |
-|  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 147 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- | WENN  ANSONSTEN | **42** |  |
-| 41 |  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  |
-| 49 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  |
-| 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |
-| ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  |  | **Identifikator der** |
-|  |  | **0..2** |  | **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-| x |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |  |  | x |
-|  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |  |  |  | x      ASV-Fachgruppennummer der |
-| 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  | **42** |  |  |  | **x** |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |
-|  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |
-| **42** |  | **x** |  |  | **Identifikator der ** | **0..2** | **Dieser Block** | **verschreibenden Person“** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |
-|  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |  |
-|  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV- WENN | ANSONSTEN | **42 ** |  | **x ** |  | **Identifikator der** |  |
-| **0..2** | **Dieser Block** | **verschreibenden Person“** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  |
 | 49 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  |
 | 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN  ANSONSTEN |
 | **42** |  |  | **x** |  |  |  | **Identifikator der** |  | **0..2** | **Dieser Block** | **verschreibenden Person“** |
-|  |  |  |  |  |  |  |  |  |  |  | 41        x     Typ der ausstellenden/ |
-| Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |  |  | x |  |  | Berufsbezeichnung der |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |
-|  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |  |  |
-| 41 |  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | 49 |
-|  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 147 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- | WENN  ANSONSTEN |
-|  | **42** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  |
-|  | **0..2** |  | **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |
-|  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 147 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- | WENN  ANSONSTEN **42** |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-| x | Typ der ausstellenden/ | Kodiert  1..1 | Dieses Feld enthält einen Typ zur | 49 |  | x | Berufsbezeichnung der | 1..100  1..1 | Dieses Feld enthält eine | 147 |  |
-| x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  | **42** |  |
-|  |  | **x** |  |  |  |  | **Identifikator der** |  |  | **0..2** |  |
-| **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  | x |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | 49 |  |  | x | Berufsbezeichnung der  1..100  1..1  Dieses Feld enthält eine    147 |
-| x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  | **42** |  |
-|  |  |  |  |  |  |  |  |  |  | 41 |  |
-|  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |  |
-| x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |  |  |  |
-| x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV- WENN | ANSONSTEN | **42 ** |  | **x ** |  | **Identifikator der** |  | **0..2** |
-| **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| 41 |  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  |
-| 49 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  |
-| 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |
-| ANSONSTEN | **42 ** |  | **x ** |  | **Identifikator der** |  | **0..2** | **Dieser Block** | **verschreibenden Person“** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| 41 |  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |
-|  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN | **42** |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |
-|  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |  |  |
-|  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  | **42** |
-|  | **x** |  |  | **Identifikator der ** | **0..2** | **Dieser Block** | **verschreibenden Person“** |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |
-|  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |
-| **42** |  | **x** |  |  | **Identifikator der ** | **0..2** | **Dieser Block** | **verschreibenden Person“** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |
-|  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 | x |
-|  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  | **42** |  |  |
-| **x** |  |  | **Identifikator der ** | **0..2** | **Dieser Block** | **verschreibenden Person“** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |
-|  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |
-|  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN  ANSONSTEN |  |
-| **42** |  |  |  | **x** |  |  |  |  | **Identifikator der** | **0..2** | **Dieser Block** |
-| 41 |  | x | Typ der ausstellenden/ | Kodiert  1..1 | Dieses Feld enthält einen Typ zur | 49 |  | x | Berufsbezeichnung der | 1..100  1..1 | Dieses Feld enthält eine |
-| 147 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |
-| ANSONSTEN |  | **42** |  |  |  | **x** |  |  |  | **Identifikator der ** | **0..2** |
-|  | **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
-|  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  | 49 |  |
-|  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  | 147 |  | x |
-| ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN | ANSONSTEN |  | **42** |  |  | **x ** |  |
-| 41 |  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |  |
-| 49 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  |
-| 147 |  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV- WENN | ANSONSTEN | **42 ** |  | **x ** |  | **Identifikator der** |
-|  |  | **0..2** |  | **Dieser Block** |  | **verschreibenden Person“** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 41 |
 
 SEITE 72 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
 VERSION: 1.26 / 24. NOVEMBER 2025
 
-(GRAU = FELDGRUPPE) ausstellenden/ verschreibenden ausstellenden/ verschreibenden DERH. Kennzeichnung der verschreibenden Person z.B. Arzt, Arzt in Weiterbildung. Freitextangabe zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. enthält den Identifikator der Person, z.B. eine Arztnummer (Lebenslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zusätzlich eine Telematik-ID enthalten. gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV das Feld „Typ der ausstellenden / gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ der ausstellenden / 
+(GRAU = FELDGRUPPE) ausstellenden/ verschreibenden ausstellenden/ verschreibenden DERH. Kennzeichnung der verschreibenden Person z.B. Arzt, Arzt in Weiterbildung. Freitextangabe zur Berufsbezeichnung, z. B. Facharzt für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. enthält den Identifikator der Person, z.B. eine Arztnummer (Lebenslange Arztnummer LANR) oder Zahnarztnummer (ZANR) und kann zusätzlich eine Telematik-ID enthalten. gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV das Feld „Typ der gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ 
 
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Fachgruppennummer der |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **ANSONSTEN WENN** | **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  | x | Arztnummer der ausstellenden/ | 9  0..1 | Dieses Feld enthält als  WENN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** | **ANSONSTEN WENN** | **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  | x | Arztnummer der ausstellenden/ | 9  0..1 | Dieses Feld enthält als  WENN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |
-| Arztnummer der ausstellenden/ | 9  0..1 | Dieses Feld enthält als  WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |
-|  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der  ANSONSTEN WENN** |
-|  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  |  | Arztnummer der ausstellenden/  9 |
-| 0..1  Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |  |
-|  | **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  |
-| x |  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der  ANSONSTEN WENN** |
-| **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  |  | Arztnummer der ausstellenden/ | 9 |
-| 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |
-|  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der** |
-|  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  |
-|  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  |
-| x |  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der  ANSONSTEN WENN  ANSONSTEN WENN  ANSONSTEN** |
 | 42a |  |  |  | x |  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der** |
-|  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  |
-| Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |
-|  | **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  | x |
-|  | Arztnummer der ausstellenden/  9 | 0..1  Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |
-|  | Arztnummer der ausstellenden/  9 | 0..1  Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der  ANSONSTEN WENN** |
-| **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  | x | Arztnummer der ausstellenden/ | 9  0..1 | Dieses Feld enthält als  WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der** |
-| **ANSONSTEN WENN** |  | **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  |  | x |  | Arztnummer der ausstellenden/ | 9  0..1 | Dieses Feld enthält als  WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der** |
-| **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  | Arztnummer der ausstellenden/ |
-| 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  |
-| x |  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  | x |
-|  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der** |
-|  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  |
-| Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |
-|  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der** |
-|  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  |
-|  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |
-|  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Fachgruppennummer der** | **ANSONSTEN WENN** | **ANSONSTEN WENN** | **ANSONSTEN** | 42a |  | x | Arztnummer der ausstellenden/ | 9  0..1 | Dieses Feld enthält als  WENN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **Fachgruppennummer der** |
-|  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  | x |  |
-| Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **Fachgruppennummer der** |  | **ANSONSTEN WENN** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 42a |  |  |  |
-| x |  |  | Arztnummer der ausstellenden/ | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
 SEITE 73 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
-(GRAU = FELDGRUPPE) DERH. verschreibenden Person“ nicht vorhanden ist, DANN     ist dieser Block Pflicht. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „03“ ist und der Block „Verantwortliche Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „02“ ist oder das Feld „ASV -Fachgruppennummer verschreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieser Block optional. verschreibenden Person Identifikator der Person eine Arztnummer (Lebenslange Arztnummer LANR). der Block „Identifikator der verschreibenden Person“ VERSION: 1.26 / 24. NOVEMBER 2025
+(GRAU = FELDGRUPPE) DERH. verschreibenden Person“ nicht vorhanden ist, DANN     ist dieser Block Pflicht. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder “PKV“ ist und das Feld „Typ verschreibenden Person“ gleich „03“ ist und der Block „Verantwortliche Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „Typ der verschreibenden Person“ gleich „02“ ist oder das Feld „ASV -Fachgruppennummer verschreibenden Person“ vorhanden ist, DANN darf dieser Block nicht angegeben werden. ist dieser Block optional. verschreibenden Person Identifikator der Person eine Arztnummer (Lebenslange Arztnummer LANR). der Block „Identifikator der verschreibenden Person“ VERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN | vorhanden ist und das Feld  ANSONSTEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 42b |  | x | Zahnarztnummer der | 9  0..1 | Dieses Feld enthält als  WENN | ANSONSTEN  42c |  | x |  | Telematik-ID der ausstellenden/  1..128 | 0..1  Dieses Feld enthält als |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| vorhanden ist und das Feld  ANSONSTEN | 42b |  | x | Zahnarztnummer der | 9  0..1 | Dieses Feld enthält als  WENN | ANSONSTEN  42c |  | x |  | Telematik-ID der ausstellenden/  1..128 |
-| 0..1 | Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld |
-| ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als  WENN |
-| ANSONSTEN  42c |  | x |  | Telematik-ID der ausstellenden/  1..128 | 0..1  Dieses Feld enthält als |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld |
-| ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 |
-| Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld | ANSONSTEN   42b |
-|  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 42c |
-|  | x | Telematik-ID der ausstellenden/ | 1..128  0..1 | Dieses Feld enthält als |  |  |  |  |  |  |  |
-| vorhanden ist und das Feld | ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 |
-| 0..1 | Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN   42b |
-|  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 42c |  |
-|  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld |
-| ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 |
-| Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN |
-| 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |
-| ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| vorhanden ist und das Feld | ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 |
-| 0..1 | Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN   42b        x |
-|  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 42c |  |  |  | x |
 |  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN |
 | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN  ANSONSTEN |
 | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als |  |
-| vorhanden ist und das Feld | ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als |
-| WENN  ANSONSTEN | 42c |  | x | Telematik-ID der ausstellenden/ | 1..128  0..1 | Dieses Feld enthält als |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld |
-| ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN  ANSONSTEN | 42c |  | x | Telematik-ID der ausstellenden/ | 1..128  0..1 | Dieses Feld enthält als |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN   42b |
-|  | x | Zahnarztnummer der | 9  0..1 | Dieses Feld enthält als  WENN | ANSONSTEN  42c |  | x |  | Telematik-ID der ausstellenden/  1..128 | 0..1  Dieses Feld enthält als |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN |
-| 42b |  |  | x |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als | WENN | ANSONSTEN  42c |  | x      Telematik-ID der ausstellenden/  1..128  0..1  Dieses Feld enthält als |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld | ANSONSTEN   42b |
-|  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN  42c |
-|  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| vorhanden ist und das Feld | ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 |
-| 0..1 | Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| vorhanden ist und das Feld | ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als |
-| WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1  Dieses Feld enthält als |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN |
-| 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN  ANSONSTEN |
-| 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld |
-| ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 |
-| Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN |
-| 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |
-| ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1  Dieses Feld enthält als |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld |
-| ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 |
-| Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| vorhanden ist und das Feld  ANSONSTEN | 42b |  | x | Zahnarztnummer der | 9  0..1 | Dieses Feld enthält als  WENN | ANSONSTEN  42c |  | x |  | Telematik-ID der ausstellenden/  1..128 |
-| 0..1 | Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld  ANSONSTEN |
-| 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN  ANSONSTEN |
-| 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 | 0..1 | Dieses Feld enthält als |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| vorhanden ist und das Feld | ANSONSTEN | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 42c |  |  |  | x |  |  | Telematik-ID der ausstellenden/ | 1..128 |
-| 0..1  Dieses Feld enthält als |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | vorhanden ist und das Feld |
 
-SEITE 74 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
-
-VERSION: 1.26 / 24. NOVEMBER 2025
+SEITE 74 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU / VERSION: 1.26 / 24. NOVEMBER 2025
 
 (GRAU = FELDGRUPPE) ausstellenden/ verschreibenden Person verschreibenden Person Identifikator der Person eine Zahnarztnummer (ZANR). Identifikator der Person eine Telematik-ID. „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. der Block „Identifikator der verschreibenden Person“ „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. 
 
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 43 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| x |  | ASV-Teamnummer | 9  0..1 | Dieses Feld wird im Rahmen einer  WENN | ANSONSTEN | **141** |  |  | **x** |  |  |
-|  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  | 44 |
-|  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 45 |
-|  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den | 46 |  |
-|  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |  |
-| 43 | x |  | ASV-Teamnummer | 9  0..1 | Dieses Feld wird im Rahmen einer  WENN | ANSONSTEN | **141** |  |  | **x** |  |
-|  |  |  |  | **Name der ausstellenden/** |  |  | **1..1  Dieser Block enthält den Namen ** | 44 |  |  |  |
-| x | Vorname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Vornamen | 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den | 46 |  |
-| x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |  | x |
-|  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |
-| **141** |  |  | **x** |  |  |  | **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** | 44 |
-|  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 45 |  |  |
-|  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den |  | 46 |  |  |
-|  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |
-|  | **141** |  |  |  |  |  | **x** |  |  |  |  |
-|  | **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** |  | 44 |  | x | Vorname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Vornamen |
-| 45 |  |  | x |  |  | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den | 46 |  | x      Titel der ausstellenden/ |
-| 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |  |  | x |  |  | Namenszusatz der |
-|  |  |  |  |  |  |  |  |  |  | 43 | x |
-|  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |  | **141** |  |
-|  | **x** |  |  |  | **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** |  | 44 |  |
-| 43 |  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN |
-| ANSONSTEN |  | **141** |  |  |  |  |  | **x** |  |  |  |
-|  |  |  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |
-|  | 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |
-|  | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den |
-|  | 46 |  |  |  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |
-| 47 |  | x |  | Namenszusatz der  1..20 | 0..1  Dieses Feld enthält den |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43      x |
-|  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |  | **141** |  |  |
-|  |  |  | **x** |  |  |  |  |  |  |  | **Name der ausstellenden/ ** |
-| **1..1** |  | **Dieser Block enthält den Namen** |  |  | 44 |  |  |  | x |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |
-|  | **141** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  |
-| 44 |  | x | Vorname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Vornamen | 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den    46 |
-|  |  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |
-|  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |  |
-| **141** |  |  |  |  |  | **x** |  |  |  |  |  |
-|  | **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** | 44 |  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Vornamen | 45 |
-|  | x |  | Nachname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den | 46 |  | x |  | Titel der ausstellenden/  1..100 | 0..1  Dieses Feld enthält den | 47 |
-|  | x |  | Namenszusatz der  1..20 | 0..1  Dieses Feld enthält den |  |  |  |  |  |  |  |
-| 43 |  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN |
-| ANSONSTEN |  | **141** |  |  |  |  |  | **x** |  |  |  |
-|  |  |  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |
-| 44 |  |  | x |  | Vorname der ausstellenden/ | 1..45 | 1..1  Dieses Feld enthält den Vornamen |  | 45 |  | x |
-|  |  |  |  |  |  |  |  |  |  |  | 43      x        ASV-Teamnummer |
-| 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |  | **141** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN | **141** |
-|  |  |  |  |  | **x** |  |  |  |  |  |  |
 | 43 |  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN  ANSONSTEN |
 | **141** |  |  | **x** |  |  |  | **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** |  |
 | 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
 | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den |  |
 | 46 |  |  |  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  |
 | 47 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |
-| **141** |  |  | **x** |  |  |  | **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** | 44 |
-|  |  |  |  |  |  |  |  |  |  |  | 43      x |
-|  | ASV-Teamnummer | 9  0..1 | Dieses Feld wird im Rahmen einer  WENN | ANSONSTEN | **141** |  |  | **x** |  |  |  |
-| **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  | 44 |  |  |
-|  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 45 |  |  |
-|  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den |  | 46 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-| x |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN  ANSONSTEN |  | **141** |  | **x ** |
-| **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  | 44 |  |  |
-|  |  |  |  |  |  |  |  |  |  | 43 |  |
-| x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |  | **141** |
-|  |  |  |  | **x** |  |  |  |  |  |  |  |
-| **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** | 44 |  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Vornamen | 45 |  |
-|  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den |  | 46 |  |  |
-|  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |  |
-| 43 |  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN |
-| ANSONSTEN |  | **141** |  |  |  |  |  | **x** |  |  |  |
-|  |  |  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |
-| 44 |  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Vornamen | 45 |  | x |  | Nachname der ausstellenden/  1..45  1..1  Dieses Feld enthält den | 46 |
-|  |  | x |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den | 47 |  | x | Namenszusatz der  1..20  0..1 |
-| 43 |  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN  ANSONSTEN |
-|  | **141** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  | 44 |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN | **141** |
-|  |  |  |  |  | **x** |  |  |  |  |  |  |
-|  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  | 44 |  |
-|  | x | Vorname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Vornamen | 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den | 46 |
-|  |  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |
-|  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |
-|  | **141** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  |
-| 44 |  | x | Vorname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Vornamen | 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den |
-| 46 |  |  |  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  |
-| 47 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |  |
-| **141** |  |  |  |  |  | **x** |  |  |  |  | **Name der ausstellenden/** |
-|  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  | 44 |  |  |  |
-| x | Vorname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den Vornamen | 45 |  | x | Nachname der ausstellenden/ | 1..45  1..1 | Dieses Feld enthält den | 46 |  |
-| x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |  |  |
-| x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN |
-|  | **141** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  | 44 |
-|  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den Vornamen | 45 | x |
-| 43 | x |  | ASV-Teamnummer | 9  0..1 | Dieses Feld wird im Rahmen einer  WENN | ANSONSTEN | **141** |  |  | **x** |  |
-|  |  |  |  | **Name der ausstellenden/** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |
-|  | 44 |  |  |  | x |  |  | Vorname der ausstellenden/ | 1..45 | 1..1  Dieses Feld enthält den Vornamen | 45 |
-|  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den |  | 46 | x |
-|  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |  | 47 |  |  |  | x |
-|  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
-|  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN | ANSONSTEN | **141** |
-|  |  |  |  |  | **x** |  |  |  |  |  | **Name der ausstellenden/ ** |
-|  | **1..1** |  | **Dieser Block enthält den Namen** |  |  | 44 |  |  |  | x | Vorname der ausstellenden/  1..45 |
-| 43 |  |  | x |  |  |  | ASV-Teamnummer | 9 | 0..1 | Dieses Feld wird im Rahmen einer | WENN |
-| ANSONSTEN |  | **141** |  |  |  |  |  | **x** |  |  |  |
-|  |  | **Name der ausstellenden/** |  | **1..1** | **Dieser Block enthält den Namen** | 44 |  | x |  | Vorname der ausstellenden/  1..45 | 1..1  Dieses Feld enthält den Vornamen |
-|  | 45 |  |  |  | x |  |  | Nachname der ausstellenden/ | 1..45 | 1..1 | Dieses Feld enthält den |
-|  | 46 |  |  |  | x |  |  | Titel der ausstellenden/ | 1..100 | 0..1 | Dieses Feld enthält den |
-|  | 47 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 43 |
 
 SEITE 75 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -4668,176 +2475,11 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Namenszusätze sind durch Blank  48 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Vorsatzwort der ausstellenden/  1..20 | 0..1  Dieses Feld enthält das |  | **50** |  | **x** |  |  |  |
-|  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |  |
-| **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Namenszusätze sind durch Blank  48 |  | x |  | Vorsatzwort der ausstellenden/  1..20 | 0..1  Dieses Feld enthält das |  | **50** |  | **x** |  |  |
-|  |  |  |  | **Verantwortliche Person** |  |  | **0..1  Dieser Block enthält die Daten  DANN** |  | **ANSONSTEN WENN** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank |
 | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |
 | **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN  ANSONSTEN WENN** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank |
-| 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |
-|  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN** | **ANSONSTEN WENN** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank | 48 |
-|  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **50** |  |
-| **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN** | **ANSONSTEN WENN** |  |
-| Namenszusätze sind durch Blank | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |
-|  |  | **50** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  |
-| **DANN** |  | **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-| x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **50** |  |  |
-|  | **x** |  |  |  |  |  |  |  |  |  | **Verantwortliche Person ** |
-| **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |  | **ANSONSTEN WENN** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank |
-| 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |
-|  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |
-| **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-|  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |  |
-| **50** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN** | **ANSONSTEN WENN** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Namenszusätze sind durch Blank | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |
-|  |  | **50** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** | **DANN** |
-| **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48        x |
-| Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **50** |  |  |  | **x** |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-|  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  | **50** |
-|  |  |  | **x** |  |  |  |  |  |  |  |  |
-| Namenszusätze sind durch Blank | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |
-| **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN** |
-|  | **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank |
-| 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |
-| **50** |  | **x** |  |  |  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN  ANSONSTEN WENN** |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-| x |  | Vorsatzwort der ausstellenden/  1..20 | 0..1  Dieses Feld enthält das |  | **50** |  | **x** |  |  |  |  |
-| **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |  | **ANSONSTEN WENN** |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-|  |  | x |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  | **50** |  | **x ** |
-| **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |  | **ANSONSTEN WENN** |  |
-|  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank | 48 |
-|  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **50** |
-|  |  | **x** |  |  |  |  |  |  |  |  |  |
-| **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN** | **ANSONSTEN WENN** |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Namenszusätze sind durch Blank | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |
-|  |  | **50** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  |
-| **DANN** | **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Namenszusätze sind durch Blank | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |
-|  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** | **ANSONSTEN WENN** |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-|  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  | **50** |
-|  |  |  | **x** |  |  |  |  |  |  |  |  |
-|  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |  | **ANSONSTEN WENN** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank |
-| 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |
-|  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |
-| **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-|  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |  |
-| **50** |  |  |  | **x** |  |  |  |  |  |  | **Verantwortliche Person** |
-|  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |  | **ANSONSTEN WENN** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank |
-| 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  |
-|  | **50** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** | **DANN** |  |
-| **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |  |  |
-| Namenszusätze sind durch Blank  48 |  | x |  | Vorsatzwort der ausstellenden/  1..20 | 0..1  Dieses Feld enthält das |  | **50** |  | **x** |  |  |
-|  |  |  |  | **Verantwortliche Person** |  |  |  | **0..1** |  | **Dieser Block enthält die Daten** |  |
-| **DANN** |  | **ANSONSTEN WENN** |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank  48 |
-|  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |  | **50** |
-|  |  |  | **x** |  |  |  |  |  |  |  | **Verantwortliche Person ** |
-|  | **0..1** |  | **Dieser Block enthält die Daten** |  | **DANN** |  | **ANSONSTEN WENN** |  |  |  |  |
-| Namenszusätze sind durch Blank | 48 |  |  |  | x |  |  | Vorsatzwort der ausstellenden/ | 1..20 | 0..1 | Dieses Feld enthält das |
-|  |  | **50** |  |  |  | **x** |  |  |  |  |  |
-|  |  | **Verantwortliche Person** |  | **0..1** | **Dieser Block enthält die Daten** | **DANN** | **ANSONSTEN WENN** |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namenszusätze sind durch Blank |
 
 SEITE 76 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -4848,176 +2490,13 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | „01“ oder |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **ANSONSTEN** | **148** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** | **Informationen über die** |
-|  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert | 1..1 |
-| Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 |
-| Dieses Feld enthält eine |  | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV- WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **„01“ oder** | **ANSONSTEN** | **148** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** |
-|  | **Informationen über die** |  |  | 51 |  |  | x      Typ der verantwortlichen  Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |
-|  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 149 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |
-|  |  | **Qualifikation der** |  | **1..1** | **Informationen über die** |  | 51 |  | x | Typ der verantwortlichen | Kodiert  1..1  Dieses Feld enthält einen Typ zur  Das Feld „Typ der |
-| 58 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  |
-| 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |
-|  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  |
-| **Informationen über die** | 51 |  | x |  | Typ der verantwortlichen  Kodiert | 1..1  Dieses Feld enthält einen Typ zur | Das Feld „Typ der  58 |  | x |  | Berufsbezeichnung der |
-| 1..100  1..1 | Dieses Feld enthält eine | 149 |  |  |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- | WENN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder ANSONSTEN** |
-|  | **148** |  |  |  |  |  | **x** |  |  |  |  |
-|  | **Qualifikation der** |  | **1..1** | **Informationen über die** | 51 |  | x |  | Typ der verantwortlichen  Kodiert | 1..1  Dieses Feld enthält einen Typ zur | Das Feld „Typ der  58 |
-|  | **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |
-|  |  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |
-|  | **Informationen über die** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen |
-| Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  |  |  | x |  |  | Berufsbezeichnung der |
-| 1..100 | 1..1 | Dieses Feld enthält eine |  | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der |
-| 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder ANSONSTEN** |
-| **148** |  |  |  |  |  | **x** |  |  |  |  |  |
-|  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Informationen über die** |  |  | 51 |
-| x |  |  | Typ der verantwortlichen | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |
-|  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  |
-| **Informationen über die** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert |
-| 1..1  Dieses Feld enthält einen Typ zur | Das Feld „Typ der  58 |  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 149 |  | x |  | ASV-Fachgruppennummer der  9  0..1  Dieses Feld enthält die ASV- |
-| WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder** |
-|  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Informationen über die** |
-|  | 51 |  | x | Typ der verantwortlichen | Kodiert  1..1 | Dieses Feld enthält einen Typ zur  Das Feld „Typ der | 58 |  | x | Berufsbezeichnung der | 1..100  1..1 |
-| Dieses Feld enthält eine | 149 |  | x | ASV-Fachgruppennummer der | 9  0..1 | Dieses Feld enthält die ASV- WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |
-|  |  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |
-|  | **Informationen über die** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen  Kodiert |
-| 1..1  Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  |  | x |  | Berufsbezeichnung der | 1..100 | 1..1  Dieses Feld enthält eine | 149 |  |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder ANSONSTEN  148 ** |
-|  |  |  | **x** |  |  |  |  |  |  |  | **Qualifikation der** |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder** |
-|  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Informationen über die** |  |
-|  | **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |
-|  |  |  | **Qualifikation der** |  | **1..1** | **Informationen über die** | 51 |  | x |  | Typ der verantwortlichen  Kodiert |
-| 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 |
-| 1..1 | Dieses Feld enthält eine |  | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 |
-| 0..1 | Dieses Feld enthält die ASV- | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |
-|  |  |  | **Qualifikation der** |  | **1..1** | **Informationen über die** | 51 |  | x |  | Typ der verantwortlichen  Kodiert  1..1  Dieses Feld enthält einen Typ zur |
 |  |  |  |  |  |  |  |  |  |  |  | **„01“ oder ANSONSTEN** |
 | **148** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** | **Informationen über die** |  |
 | 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der |
 | 58 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine |  |
 | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder** |
-| **ANSONSTEN** |  | **148** |  |  |  |  | **x** |  |  |  | **Qualifikation der **  **1..1 Informationen über die ** |
-| 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder** |
-| **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |  |  |
-|  |  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Informationen über die** |  |  |
-| 51 |  | x | Typ der verantwortlichen | Kodiert  1..1 | Dieses Feld enthält einen Typ zur  Das Feld „Typ der | 58 |  | x | Berufsbezeichnung der | 1..100  1..1 | Dieses Feld enthält eine |
-| 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |
-|  |  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |
-|  | **Informationen über die** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen |
-| Kodiert  1..1 | Dieses Feld enthält einen Typ zur  Das Feld „Typ der | 58 |  | x | Berufsbezeichnung der | 1..100  1..1 | Dieses Feld enthält eine | 149 |  | x      ASV-Fachgruppennummer der | 9  0..1 |
-| Dieses Feld enthält die ASV- WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  | **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |
-|  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** | **Informationen über die** |
-|  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert  1..1 | Dieses Feld enthält einen Typ zur |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder** |
-|  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Informationen über die** |  |
-|  | 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur |
-| Das Feld „Typ der  58 |  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 149 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- |
-| WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |
-|  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  |
-| **Informationen über die** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert |
-| 1..1  Dieses Feld enthält einen Typ zur | Das Feld „Typ der  58 |  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 149 |  | x |  | ASV-Fachgruppennummer der  9 |
-| 0..1 | Dieses Feld enthält die ASV- | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder** |
-|  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** | **Informationen über die** | 51 |
-|  |  |  | x |  |  | Typ der verantwortlichen | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |
-|  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine | 149 |  | x |  | ASV-Fachgruppennummer der  9 | 0..1  Dieses Feld enthält die ASV- | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |
-|  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  |
-| **Informationen über die** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen  Kodiert | 1..1 |
-| Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100  1..1  Dieses Feld enthält eine | 149 |
-| **„01“ oder** | **ANSONSTEN** | **148** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** |
-|  | **Informationen über die** |  |  | 51 |  |  |  | x |  |  | Typ der verantwortlichen |
-| Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  |  |  | x |  | Berufsbezeichnung der  1..100 | 1..1  Dieses Feld enthält eine |
-|  | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der | 9 | 0..1  Dieses Feld enthält die ASV- WENN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **„01“ oder** |
-|  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |  | **Informationen über die ** | 51 |
-|  | x |  |  | Typ der verantwortlichen | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Das Feld „Typ der | 58 |  | x |
-|  | **„01“ oder** |  | **ANSONSTEN** |  | **148** |  |  |  |  |  | **x** |
-|  |  |  |  |  |  |  | **Qualifikation der** |  |  |  | **1..1** |
-| **Informationen über die** |  | 51 |  | x | Typ der verantwortlichen | Kodiert  1..1 | Dieses Feld enthält einen Typ zur  Das Feld „Typ der | 58 |  | x | Berufsbezeichnung der |
-| 1..100 | 1..1 | Dieses Feld enthält eine |  | 149 |  |  |  | x |  |  | ASV-Fachgruppennummer der |
-| 9 | 0..1 | Dieses Feld enthält die ASV- | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
 SEITE 77 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -5028,176 +2507,11 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Block „Identifikator der  ANSONSTEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **52** |  | **x** |  |  | **Identifikator der ** | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |  |
-|  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Block „Identifikator der  ANSONSTEN | **52** |  | **x** |  |  | **Identifikator der ** | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |
-|  |  |  | **ANSONSTEN** | 52a |  |  | x      Arztnummer der  9 | 0..1 | Dieses Feld enthält als | WENN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der |
-| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der ** |
-| **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 52a |  | x | Arztnummer der | 9  0..1  Dieses Feld enthält als  WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der |
-| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |
-|  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |
-|  | **ANSONSTEN ** 52a |  | x |  | Arztnummer der  9 | 0..1  Dieses Feld enthält als | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Block „Identifikator der | ANSONSTEN **52** |
-|  |  |  | **x** |  |  |  |  | **Identifikator der** |  |  | **0..1** |
-| **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |  | **ANSONSTEN ** 52a |  | x |  | Arztnummer der  9 | 0..1  Dieses Feld enthält als | WENN |
-| Block „Identifikator der | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der** |  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |
-|  |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der |
-| 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN **52** |
-|  |  | **x** |  |  |  |  | **Identifikator der** |  |  | **0..1** |  |
-| **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** | 52a |
-| x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der |
-| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |
-|  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |
-|  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der | 9 |
-| 0..1  Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN |
-|  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  |
-|  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |  |
-| **ANSONSTEN** | 52a |  | x | Arztnummer der | 9  0..1 | Dieses Feld enthält als  WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Block „Identifikator der | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der** |  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |
-|  |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der  9 |
-| 0..1  Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN **52 **    **x** |
-|  |  |  |  | **Identifikator der** |  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN |
-|  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  |
-| **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |  |  |
-| Block „Identifikator der | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  | **Identifikator der** |
-|  | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |  | **ANSONSTEN ** 52a |  | x |  | Arztnummer der  9 |
-| 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der |
-| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |
-|  | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |  | **ANSONSTEN ** 52a |  | x |  | Arztnummer der  9  0..1  Dieses Feld enthält als |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN **52** |
-|  | **x** |  |  | **Identifikator der ** | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |  | **ANSONSTEN** |
-| 52a |  |  |  | x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN |
 | **52** |  |  | **x** |  |  |  | **Identifikator der** |  | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“ **  **ANSONSTEN WENN **  **ANSONSTEN** |
 | 52a |  |  |  | x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |
-|  |  |  |  |  |  |  |  |  |  | Block „Identifikator der | ANSONSTEN |
-| **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  | **0..1** |
-|  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |  |  | **ANSONSTEN** |
-| 52a |  | x | Arztnummer der | 9  0..1 | Dieses Feld enthält als  WENN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Block „Identifikator der | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der** |  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |
-|  |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der |
-| 9  0..1 | Dieses Feld enthält als  WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Block „Identifikator der | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  | **Identifikator der** |
-|  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |
-|  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der | 9  0..1 | Dieses Feld enthält als |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN |
-|  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  |
-| **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |  |  |
-| **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der |
-| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |
-|  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |
-|  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der | 9 |
-| 0..1  Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN |
-|  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  |
-|  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  | **ANSONSTEN ** 52a |
-|  |  |  | x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der |
-| ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |
-|  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  |
-|  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der  9 | 0..1 |
-| Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |  |  |
-| Block „Identifikator der  ANSONSTEN | **52** |  | **x** |  |  | **Identifikator der ** | **0..1** | **Dieser Block enthält den** | **verantwortlichen Person“** |  | **ANSONSTEN WENN** |
-|  |  |  | **ANSONSTEN** | 52a |  |  |  | x |  |  | Arztnummer der |
-| 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der  ANSONSTEN |
-|  | **52** |  |  |  | **x** |  |  |  |  | **Identifikator der** |  |
-| **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |  | **ANSONSTEN** | 52a |
-|  | x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN |  |  |  |
-| Block „Identifikator der | ANSONSTEN |  | **52** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der** |  |  | **0..1** |  | **Dieser Block enthält den** |  | **verantwortlichen Person“** |  |  |  | **ANSONSTEN WENN** |
-|  | **ANSONSTEN** | 52a |  | x | Arztnummer der | 9  0..1 | Dieses Feld enthält als  WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Block „Identifikator der |
 
 SEITE 78 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -5208,176 +2522,14 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN | Arztnummer (Lebenslange  vorhanden ist und das Feld |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ANSONSTEN  52b |  | x |  | Zahnarztnummer der  9 | 0..1  Dieses Feld enthält als | WENN  ANSONSTEN | 52c |  | x | Telematik-ID der | 1..128  0..1 |
-| Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |
-|  |  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Vornamen |
-| 54 |  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |
-| Arztnummer (Lebenslange  vorhanden ist und das Feld | ANSONSTEN  52b |  | x |  | Zahnarztnummer der  9 | 0..1  Dieses Feld enthält als | WENN  ANSONSTEN | 52c |  | x | Telematik-ID der |
-| 1..128 | 0..1 | Dieses Feld enthält als |  |  | **142** |  | **x** |  |  |  |  |
-|  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** | 53 |  | x |  | Vorname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Vornamen | 54 |
-|  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange |
-| vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1  Dieses Feld enthält als |
-| WENN  ANSONSTEN | 52c |  | x | Telematik-ID der | 1..128  0..1 | Dieses Feld enthält als | **142** |  |  | **x** |  |
-|  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  |
-| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
-| 54 |  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange |
-| vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 |
-| 0..1  Dieses Feld enthält als |  | **142** |  |  | **x** |  |  |  | **Name der verantwortlichen** |  | **1..1** |
-| **Dieser Block enthält den Namen** |  | 53 |  |  |  | x |  | Vorname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Vornamen | 54 | x |
-|  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange | vorhanden ist und das Feld  ANSONSTEN  52b |
-|  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN  52c |
-|  | x |  | Telematik-ID der  1..128 | 0..1  Dieses Feld enthält als |  | **142** |  |  | **x** |  |  |
-| Arztnummer (Lebenslange | vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 |
-| 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der |
-| 1..128 | 0..1 | Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |
-|  |  |  |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |
-|  | **Dieser Block enthält den Namen** |  |  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen |
-| 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 54 |  |  |  | x |  |  | Nachname der |
-| 1..45  1..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld  ANSONSTEN  52b |
-|  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 52c |
-|  |  |  | x |  |  | Telematik-ID der | 1..128 | 0..1 | Dieses Feld enthält als |  | **142 ** |
-|  |  |  | **x** |  |  |  |  |  |  |  | **Name der verantwortlichen** |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange |
-| vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 |
-| 0..1 | Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |  |
-|  |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** | 53 |  | x |  | Vorname der verantwortlichen  1..45  1..1  Dieses Feld enthält den Vornamen |
-|  | 54 |  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld |
-| ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 | 0..1 |
-| Dieses Feld enthält als | **142** |  |  | **x** |  |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** |
-|  | 53 |  | x | Vorname der verantwortlichen | 1..45  1..1 | Dieses Feld enthält den Vornamen | 54 |  | x | Nachname der | 1..45  1..1 |
-| Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |  |
-| Arztnummer (Lebenslange | vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 |
-| 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der |
-| 1..128 | 0..1 | Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |
-|  |  |  |  | **Name der verantwortlichen** |  |  | **1..1** |  | **Dieser Block enthält den Namen** | 53 |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld  ANSONSTEN  52b        x |
-|  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld |
-| ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als  WENN |
-| ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 | 0..1 | Dieses Feld enthält als |
-| Arztnummer (Lebenslange | vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9  0..1 |
-| Dieses Feld enthält als  WENN | ANSONSTEN  52c |  | x |  | Telematik-ID der  1..128 | 0..1  Dieses Feld enthält als |  | **142** |  |  | **x** |
-|  |  |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  |
-| **Dieser Block enthält den Namen** |  |  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 |
-| 1..1 | Dieses Feld enthält den Vornamen |  | 54 |  |  |  | x |  |  | Nachname der | 1..45 |
-| 1..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange |
-| vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als  WENN | ANSONSTEN  52c |  | x |  | Telematik-ID der  1..128 | 0..1  Dieses Feld enthält als |  | **142** |  |  | **x ** |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld  ANSONSTEN  52b |
-|  | x |  | Zahnarztnummer der  9 | 0..1  Dieses Feld enthält als | WENN  ANSONSTEN | 52c |  | x | Telematik-ID der | 1..128  0..1 | Dieses Feld enthält als |
-|  | **142** |  |  |  |  |  | **x** |  |  |  |  |
-|  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** |  | **Dieser Block enthält den Namen** |  |  |
-| 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld |
-| ANSONSTEN  52b |  |  | x |  |  | Zahnarztnummer der | 9  0..1 | Dieses Feld enthält als | WENN  ANSONSTEN | 52c | x      Telematik-ID der  1..128  0..1  Dieses Feld enthält als |
-|  | **142** |  |  |  |  |  | **x** |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange | vorhanden ist und das Feld  ANSONSTEN |
 | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als | WENN  ANSONSTEN |
 | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 | 0..1 | Dieses Feld enthält als |  |
 | **142** |  |  | **x** |  |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** |  |
 | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  |
 | 54 |  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |
-| Arztnummer (Lebenslange | vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 |
-| 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der |
-| 1..128 | 0..1 | Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |
-|  |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** |  | 53 |  | x      Vorname der verantwortlichen | 1..45  1..1 |
-| Dieses Feld enthält den Vornamen | 54 |  |  | x |  |  | Nachname der  1..45 | 1..1  Dieses Feld enthält den |  |  |  |
-| Arztnummer (Lebenslange | vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9  0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128  0..1 |
-| Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld |
-| ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als  WENN |
-| ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 | 0..1 | Dieses Feld enthält als |
-|  |  | **142** |  |  |  |  |  | **x** |  |  |  |
-|  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** | 53 |  | x |  | Vorname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Vornamen |
-|  | 54 |  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange |
-| vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 |
-| 0..1 | Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |  |
-|  |  |  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** | 53 |  | x |  | Vorname der verantwortlichen  1..45 |
-| 1..1 | Dieses Feld enthält den Vornamen |  | 54 |  |  |  | x |  |  | Nachname der | 1..45 |
-| 1..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld |
-| ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als |
-| WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128  0..1  Dieses Feld enthält als |  |
-| **142** |  |  |  |  |  | **x** |  |  |  |  |  |
-|  | **Name der verantwortlichen** |  | **1..1** | **Dieser Block enthält den Namen** | 53 |  | x |  | Vorname der verantwortlichen  1..45 | 1..1  Dieses Feld enthält den Vornamen | 54 |
-|  |  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange |
-| vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 |
-| Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 |
-| 0..1 | Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |  |
-|  |  |  |  |  | **Name der verantwortlichen** |  |  |  | **1..1** | **Dieser Block enthält den Namen** | 53 |
-| Arztnummer (Lebenslange  vorhanden ist und das Feld | ANSONSTEN  52b |  | x |  | Zahnarztnummer der  9 | 0..1  Dieses Feld enthält als | WENN  ANSONSTEN | 52c |  | x | Telematik-ID der |
-| 1..128 | 0..1 | Dieses Feld enthält als |  |  | **142** |  |  |  |  |  | **x** |
-|  |  |  |  |  |  |  | **Name der verantwortlichen** |  |  | **1..1** | **Dieser Block enthält den Namen** |
-|  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen | 1..45 | 1..1  Dieses Feld enthält den Vornamen | 54 |
-|  |  | x |  |  | Nachname der | 1..45 | 1..1 | Dieses Feld enthält den |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange  vorhanden ist und das Feld |
-| ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als  WENN |
-| ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der | 1..128 | 0..1  Dieses Feld enthält als | **142** |
-|  |  |  |  | **x** |  |  |  |  |  | **Name der verantwortlichen** |  |
-| Arztnummer (Lebenslange | vorhanden ist und das Feld | ANSONSTEN | 52b |  |  |  | x |  |  | Zahnarztnummer der | 9 |
-| 0..1 | Dieses Feld enthält als | WENN | ANSONSTEN | 52c |  |  |  | x |  |  | Telematik-ID der |
-| 1..128  0..1 | Dieses Feld enthält als | **142** |  |  | **x** |  |  |  | **Name der verantwortlichen** |  | **1..1** |
-|  | **Dieser Block enthält den Namen** |  |  | 53 |  |  |  | x |  |  | Vorname der verantwortlichen |
-| 1..45 | 1..1 | Dieses Feld enthält den Vornamen |  | 54 |  |  |  | x |  |  | Nachname der |
-| 1..45 | 1..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arztnummer (Lebenslange |
 
 SEITE 79 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -5387,176 +2539,13 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 55 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x | Titel der verantwortlichen | 1..100  0..1 | Dieses Feld enthält den | 56 |  | x | Namenszusatz der | 1..20  0..1 | Dieses Feld enthält den | 57 |
-|  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **59** |
-|  |  |  | **x** |  |  |  |  |  |  |  |  |
-|  | **Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |  | **61** |
-|  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** | **0..2** |
-| 55 |  | x | Titel der verantwortlichen | 1..100  0..1 | Dieses Feld enthält den | 56 |  | x | Namenszusatz der | 1..20  0..1 | Dieses Feld enthält den |
-| 57 |  |  |  | x |  |  | Vorsatzwort der  1..20  0..1  Dieses Feld enthält das | **59** |  |  |  |
-| **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich** |  | **61 ** |
-|  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** |  | **0..2** |
-| **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |
-|  | x | Namenszusatz der | 1..20  0..1 | Dieses Feld enthält den | 57 |  | x | Vorsatzwort der | 1..20  0..1 | Dieses Feld enthält das | **59 ** |
-|  | **x** |  |  |  |  |  |  |  |  |  | **Einrichtung** |
-|  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |  |  |  | **61** |
-|  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |
-|  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |
-|  | x |  | Vorsatzwort der  1..20 | 0..1  Dieses Feld enthält das |  | **59** |  | **x** |  |  |  |
-|  |  | **Einrichtung** |  |  | **1..1** |  | **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich** |  | **61 ** | **x ** |
-|  |  |  | **Identifikator der Einrichtung** |  | **9** |  | **0..2** |  | **Dieses Feld enthält einen** |  | WENN |
-|  |  |  |  |  |  |  |  |  |  | 55 |  |
-| x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |  | x |
-|  | Namenszusatz der  1..20 | 0..1  Dieses Feld enthält den | 57 |  | x |  | Vorsatzwort der  1..20 | 0..1  Dieses Feld enthält das |  | **59** |  |
-| 55 |  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  |
-| 56 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |
-| 57 |  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |
-|  | **59** |  |  |  | **x** |  |  |  |  |  |  |
-|  |  |  | **Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |
-|  |  |  | **61** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der Einrichtung** | **9** | **0..2** | **Dieses Feld enthält einen** | WENN | ANSONSTEN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-| x |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |  |  | x |
-|  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |  |  |  | x      Vorsatzwort der |
-| 1..20 | 0..1 | Dieses Feld enthält das |  |  | **59** |  |  |  | **x** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |
-|  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |
-|  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  |
-| **59** |  | **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich ** |
-| **61** |  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** |
-|  | **0..2** |  | **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |
-|  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |  |
-|  | x | Vorsatzwort der | 1..20  0..1 | Dieses Feld enthält das | **59** |  | **x** |  |  |  |  |
-| **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich** |  | **61** |  | **x** |  |  | **Identifikator der Einrichtung** |
-| **9** | **0..2** | **Dieses Feld enthält einen** | WENN | ANSONSTEN |  |  |  |  |  |  |  |
-| 55 |  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  |
-| 56 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |
-| 57 |  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |
-| **59** |  |  | **x** |  |  |  |  |  |  | **Einrichtung** |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55        x      Titel der verantwortlichen |
-| 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |  |  | x |  |  | Namenszusatz der |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |
-|  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |  |  |
-| 55 |  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den | 56 |
-|  | x |  | Namenszusatz der  1..20 | 0..1  Dieses Feld enthält den | 57 |  | x |  | Vorsatzwort der  1..20 | 0..1  Dieses Feld enthält das |  |
-| **59** |  |  |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |  |
-|  |  | **61** |  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |
-|  | **9** |  | **0..2** |  | **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |
-|  | x |  | Namenszusatz der  1..20 | 0..1  Dieses Feld enthält den | 57 |  | x |  | Vorsatzwort der  1..20 | 0..1  Dieses Feld enthält das | **59** |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-| x | Titel der verantwortlichen | 1..100  0..1 | Dieses Feld enthält den | 56 |  | x | Namenszusatz der | 1..20  0..1 | Dieses Feld enthält den | 57 |  |
-| x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **59** |  |  |
-|  | **x** |  |  |  |  |  |  |  |  |  | **Einrichtung** |
-|  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |  |  |  | **61** |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  | x |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den | 56 |  |  | x | Namenszusatz der  1..20  0..1  Dieses Feld enthält den    57 |
-| x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **59** |  |  |
-|  |  |  |  |  |  |  |  |  |  | 55 |  |
-|  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |  |
-| x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |  |  |  |
-| x | Vorsatzwort der | 1..20  0..1 | Dieses Feld enthält das | **59** |  | **x** |  |  |  |  | **Einrichtung** |
-|  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |  |  |  | **61** |
-|  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** |  |
 | 55 |  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  |
 | 56 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |
 | 57 |  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |
 | **59** |  | **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der  Für den zahnärztlichen Bereich** |  |
 | **61** |  |  | **x** |  |  |  | **Identifikator der Einrichtung** | **9** | **0..2** | **Dieses Feld enthält einen** | WENN   ANSONSTEN |
-| 55 |  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den | 56 |
-|  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |
-|  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  | **59** |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |
-|  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |  |  |
-|  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **59** |  |
-|  | **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich** |  |
-| **61** |  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** |
-|  | **0..2** |  | **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |
-|  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |
-|  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  |
-| **59** |  | **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich** |
-|  |  | **61** |  |  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |
-|  | **9** |  | **0..2** |  | **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |
-|  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 | x |
-|  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **59** |  |  |  |
-| **x** |  |  |  |  | **Einrichtung** |  | **1..1** | **Dieser Block enthält Daten der** | **Für den zahnärztlichen Bereich** |  | **61 ** |
-|  |  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** |  | **0..2** |
-|  | **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |
-|  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |
-|  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  | **59** |
-|  |  |  | **x** |  |  |  |  |  |  |  | **Einrichtung  ** |
-| 55 |  | x | Titel der verantwortlichen | 1..100  0..1 | Dieses Feld enthält den | 56 |  | x | Namenszusatz der | 1..20  0..1 | Dieses Feld enthält den |
-| 57 |  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |
-|  | **59** |  |  |  | **x** |  |  |  |  |  |  |
-| **Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |  | **61** |  |
-|  | **x** |  |  |  |  | **Identifikator der Einrichtung** |  | **9** |  | **0..2** |  |
-| **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
-|  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  | 56 |  |
-|  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  | 57 |  | x |
-| Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das |  |  | **59** |  |  |  | **x ** |  |
-| 55 |  |  |  | x |  |  | Titel der verantwortlichen | 1..100 | 0..1 | Dieses Feld enthält den |  |
-| 56 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den |  |
-| 57 |  | x | Vorsatzwort der | 1..20  0..1 | Dieses Feld enthält das | **59** |  | **x** |  |  |  |
-|  |  |  | **Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten der** |  | **Für den zahnärztlichen Bereich** |
-|  |  |  | **61** |  |  |  | **x** |  |  |  |  |
-| **Identifikator der Einrichtung** |  | **9** |  | **0..2** |  | **Dieses Feld enthält einen** |  | WENN |  | ANSONSTEN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 55 |
 
 SEITE 80 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -5567,176 +2556,11 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 61a |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x | BSNR | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61b |  | x |  | IK-Nummer  9 | 0..1  Dieses Feld enthält ein | WENN  ANSONSTEN |
-| 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine | Abrechnungsnummern des |
-| WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| 61a |  | x | BSNR | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61b |  | x |  | IK-Nummer  9 | 0..1  Dieses Feld enthält ein |
-| WENN | ANSONSTEN | 61c |  |  |  | x | KZV-Abrechnungsnummer  9  0..1  Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN  61b |
-|  | x |  | IK-Nummer  9 | 0..1  Dieses Feld enthält ein | WENN  ANSONSTEN | 61c |  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine  Abrechnungsnummern des  WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN |
-| ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9 | 0..1  Dieses Feld enthält eine | Abrechnungsnummern des  WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | 61a |  |
-| x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |  |  |
-| x | IK-Nummer | 9  0..1 | Dieses Feld enthält ein  WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9 | 0..1  Dieses Feld enthält eine | Abrechnungsnummern des  WENN |  |
-| 61a |  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN |
-| ANSONSTEN | 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein |
-| WENN | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 |
-| Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-| x |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |  |  |  |
-| x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN | ANSONSTEN | 61c |  | x |
-|  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN |
-| ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine |
-| Abrechnungsnummern des  WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |
-|  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN | ANSONSTEN |
-| 61c |  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine  Abrechnungsnummern des | WENN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| 61a |  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN |
-| ANSONSTEN | 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein |
-| WENN | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1  Dieses Feld enthält eine |
-| Abrechnungsnummern des  WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a        x      BSNR |
-| 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |  |  |  | x |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |
-|  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN | ANSONSTEN | 61c |
-| 61a |  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN  ANSONSTEN |
-| 61b |  | x | IK-Nummer | 9  0..1 | Dieses Feld enthält ein  WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9 | 0..1  Dieses Feld enthält eine |
-| Abrechnungsnummern des | WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN |
-| 61b |  | x | IK-Nummer | 9  0..1 | Dieses Feld enthält ein  WENN | ANSONSTEN  61c |  | x |  | KZV-Abrechnungsnummer  9 | 0..1  Dieses Feld enthält eine  Abrechnungsnummern des  WENN |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-| x | BSNR | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61b |  | x |  | IK-Nummer  9 | 0..1  Dieses Feld enthält ein | WENN  ANSONSTEN | 61c |
-|  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  | x |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN  ANSONSTEN | 61b |  | x | IK-Nummer  9  0..1  Dieses Feld enthält ein  WENN  ANSONSTEN  61c |
-|  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |
-|  |  |  |  |  |  |  |  |  |  | 61a |  |
-|  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |  |
-|  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN | ANSONSTEN | 61c |  |
-|  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine  Abrechnungsnummern des | WENN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| 61a |  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN |
-| ANSONSTEN | 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein |
-| WENN | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 |
-| Dieses Feld enthält eine  Abrechnungsnummern des | WENN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 | 61a |  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN  ANSONSTEN |
 | 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN  ANSONSTEN |
 | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine  Abrechnungsnummern des | WENN |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |
-|  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN | ANSONSTEN | 61c |
-|  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine | Abrechnungsnummern des | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN |
-| ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine |
-| Abrechnungsnummern des  WENN |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |
-|  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN  ANSONSTEN  61c |  |
-|  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN |
-| 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN |
-| ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1  Dieses Feld enthält eine | Abrechnungsnummern des |
-| WENN |  |  |  |  |  |  |  |  |  |  |  |
-| 61a |  | x | BSNR | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61b |  | x |  | IK-Nummer  9 | 0..1  Dieses Feld enthält ein |
-| WENN | ANSONSTEN | 61c |  |  |  | x |  |  | KZV-Abrechnungsnummer | 9 | 0..1 |
-| Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
-|  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61b |
-|  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN | ANSONSTEN  61c | x |
-|  |  | KZV-Abrechnungsnummer | 9 | 0..1 | Dieses Feld enthält eine | Abrechnungsnummern des | WENN |  |  |  |  |
-| 61a |  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN |
-| ANSONSTEN | 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein |
-| WENN  ANSONSTEN | 61c |  | x | KZV-Abrechnungsnummer | 9  0..1 | Dieses Feld enthält eine  Abrechnungsnummern des | WENN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 61a |
 
 SEITE 81 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -5747,124 +2571,8 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | DANN  ANSONSTEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 61d |  | x | Standortnummer | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61e |  | x |  | Telematik-ID der Einrichtung  1..128 | 0..1  Dieses Feld enthält eine |
-|  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45 | 0..1 | Dieses Feld enthält die |
-|  |  | **143** |  |  |  |  |  |  |  | **x** |  |
-|  |  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zur** | 63 |
-|  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den | 64 |  |
-| DANN  ANSONSTEN | 61d |  | x | Standortnummer | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61e |  | x |  | Telematik-ID der Einrichtung  1..128 |
-| 0..1 | Dieses Feld enthält eine |  | 62 |  |  | x | Name der Einrichtung   1..60 45  0..1 | Dieses Feld enthält die |  |  | **143** |
-|  |  |  | **x** |  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur** |  | 63 |
-|  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  | 64 |  |
-|  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die |  | 65 |  |  |
-|  | x |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine  WENN |
-| ANSONSTEN  61e |  | x |  | Telematik-ID der Einrichtung  1..128 | 0..1  Dieses Feld enthält eine | 62 |  | x |  | Name der Einrichtung   1..60 45 | 0..1  Dieses Feld enthält die |
-| **143** |  |  |  |  |  |  |  | **x** |  |  |  |
-|  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zur** |  |  | 63 |
-|  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  | 64 |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine |
-| WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 |
-| Dieses Feld enthält eine | 62 | x |  | Name der Einrichtung | 1..60 45  0..1 | Dieses Feld enthält die | **143** |  |  |  |  |
-| **x** |  |  |  | **Straßenadresse der Einrichtung** |  |  | **1..1** | **Dieser Block enthält Daten zur** |  | 63 | x |
-|  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  | 64 |  |  |  |  | x |
-|  |  |  |  |  |  |  |  |  |  | DANN | ANSONSTEN  61d |
-|  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61e |
-|  | x | Telematik-ID der Einrichtung | 1..128  0..1 | Dieses Feld enthält eine | 62 | x |  | Name der Einrichtung | 1..60 45  0..1 | Dieses Feld enthält die | **143** |
-| DANN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
-| Dieses Feld enthält eine | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 |
-| 0..1 | Dieses Feld enthält eine |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45 |
-| 0..1 | Dieses Feld enthält die |  |  | **143** |  |  |  |  |  |  |  |
-| **x** |  |  |  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  |
-| **Dieser Block enthält Daten zur** |  |  | 63 |  |  |  |  | x |  | Wohnsitzländercode der | Kodiert |
-| 0..1  Dieses Feld enthält den | 64 |  |  | x | Postleitzahl der Einrichtung   1..10 | 0..1  Dieses Feld enthält die | 65 |  |  | x | Ortsname der Einrichtung   1..40 |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN  61d |
-|  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61e |  |
-|  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine |  | 62 | x |
-|  |  | Name der Einrichtung | 1..60 45 | 0..1 | Dieses Feld enthält die |  |  | **143** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine |
-| WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 |
-| Dieses Feld enthält eine |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45 | 0..1 |
-| Dieses Feld enthält die | **143** |  |  |  | **x** |  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur ** |
-| 63 |  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  |
-| 64 |  |  |  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN |
-| 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN |
-| ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine |
-| 62 |  | x |  | Name der Einrichtung   1..60 45 | 0..1  Dieses Feld enthält die |  | **143** |  |  |  | **x** |
-|  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur** | 63 |  |  | x | Wohnsitzländercode der  Kodiert | 0..1  Dieses Feld enthält den |
-| 64 |  |  | x | Postleitzahl der Einrichtung   1..10 | 0..1  Dieses Feld enthält die | 65 |  |  | x | Ortsname der Einrichtung   1..40 | 1..1  Dieses Feld enthält den |
-| DANN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
-| Dieses Feld enthält eine | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 |
-| 0..1 | Dieses Feld enthält eine |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45  0..1 |
-| Dieses Feld enthält die |  | **143** |  |  |  |  |  | **x** |  |  | **Straßenadresse der Einrichtung** |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN  61d        x |
-|  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN | 61e |  |  |  | x |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN |
-| 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN  ANSONSTEN |
-| 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine |  |
-| DANN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1  Dieses Feld enthält eine |
-| WENN  ANSONSTEN | 61e |  | x | Telematik-ID der Einrichtung | 1..128  0..1 | Dieses Feld enthält eine | 62 | x |  | Name der Einrichtung | 1..60 45  0..1 |
-| Dieses Feld enthält die |  |  | **143** |  |  |  |  |  |  |  | **x** |
-|  |  |  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zur** |
-|  |  | 63 |  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 |
-| Dieses Feld enthält den |  | 64 |  |  |  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1  Dieses Feld enthält die |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine |
-| WENN  ANSONSTEN | 61e |  | x | Telematik-ID der Einrichtung | 1..128  0..1 | Dieses Feld enthält eine | 62 | x |  | Name der Einrichtung | 1..60 45  0..1  Dieses Feld enthält die |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN  61d |
-|  | x | Standortnummer | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61e |  | x |  | Telematik-ID der Einrichtung  1..128 | 0..1  Dieses Feld enthält eine | 62 |
-|  |  | x |  |  |  | Name der Einrichtung | 1..60 45 | 0..1 | Dieses Feld enthält die |  |  |
-| **143** |  |  |  |  |  |  |  | **x** |  |  |  |
-|  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zur** |  |  | 63 |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN |
-| 61d |  |  | x |  | Standortnummer | 9 | 0..1  Dieses Feld enthält eine | WENN | ANSONSTEN  61e |  | x      Telematik-ID der Einrichtung  1..128  0..1  Dieses Feld enthält eine    62 |
-|  |  | x |  |  |  | Name der Einrichtung | 1..60 45 | 0..1 | Dieses Feld enthält die |  |  |
-|  |  |  |  |  |  |  |  |  |  | DANN | ANSONSTEN  61d |
-|  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN | ANSONSTEN  61e |
-|  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine |  | 62 |
-|  | x |  | Name der Einrichtung   1..60 45 | 0..1  Dieses Feld enthält die |  | **143** |  |  |  | **x** |  |
-|  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zur** |  |  | 63 |
-|  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  | 64 |
-| DANN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
-| Dieses Feld enthält eine | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 |
-| 0..1 | Dieses Feld enthält eine |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45 |
-| 0..1  Dieses Feld enthält die |  | **143** |  |  |  | **x** |  |  | **Straßenadresse der Einrichtung** | **1..1** | **Dieser Block enthält Daten zur** |
-| 63 |  |  |  | x |  | Wohnsitzländercode der | Kodiert  0..1 | Dieses Feld enthält den | 64 |  | x    Postleitzahl der Einrichtung |
-| DANN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1  Dieses Feld enthält eine |
-| WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1  Dieses Feld enthält eine |
-|  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45 | 0..1  Dieses Feld enthält die |  |
 |  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN |
 | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN  ANSONSTEN |
 | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine |  |
@@ -5873,185 +2581,17 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 | 63 |  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  |
 | 64 |  |  |  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die |  |
 | 65 |  |  |  |  | x |  | Ortsname der Einrichtung | 1..40 | 1..1 | Dieses Feld enthält den |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine |
-| WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 |
-| Dieses Feld enthält eine |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45 | 0..1 |
-| Dieses Feld enthält die | **143** |  |  |  | **x** |  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur** |
-|  |  | 63 |  |  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 |
-| Dieses Feld enthält den |  | 64 |  |  |  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 |
-| Dieses Feld enthält die |  | 65 |  |  |  |  | x |  | Ortsname der Einrichtung | 1..40 | 1..1 |
-| Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN |
-| 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN |
-| ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1  Dieses Feld enthält eine | 62 |
-|  | x |  |  |  | Name der Einrichtung | 1..60 45 | 0..1 | Dieses Feld enthält die |  |  | **143** |
-|  |  |  | **x** |  |  | **Straßenadresse der Einrichtung** |  | **1..1** | **Dieser Block enthält Daten zur** |  | 63 |
-|  |  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  | 64 |  |
-|  |  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die |  | 65 |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine |
-| WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 |
-| Dieses Feld enthält eine |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45  0..1 | Dieses Feld enthält die |
-|  |  | **143** |  |  |  |  |  |  |  | **x ** |  |
-| DANN  ANSONSTEN | 61d |  | x | Standortnummer | 9  0..1 | Dieses Feld enthält eine  WENN | ANSONSTEN  61e |  | x |  | Telematik-ID der Einrichtung  1..128 |
-| 0..1 | Dieses Feld enthält eine |  | 62 |  |  | x |  |  |  | Name der Einrichtung | 1..60 45 |
-| 0..1 | Dieses Feld enthält die |  |  | **143** |  |  |  |  |  | **x** |  |
-|  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält Daten zur** | 63 |  |
-|  |  | x |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  | 64 |  |  |
-|  |  | x |  | Postleitzahl der Einrichtung | 1..10 | 0..1 | Dieses Feld enthält die |  | 65 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  ANSONSTEN |
-| 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 | Dieses Feld enthält eine | WENN  ANSONSTEN |
-| 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 | 0..1 | Dieses Feld enthält eine    62 | x |
-|  |  |  | Name der Einrichtung | 1..60 45 | 0..1 | Dieses Feld enthält die |  |  | **143** |  |  |
-| DANN | ANSONSTEN | 61d |  |  |  | x |  |  | Standortnummer | 9 | 0..1 |
-| Dieses Feld enthält eine | WENN | ANSONSTEN | 61e |  |  |  | x |  |  | Telematik-ID der Einrichtung | 1..128 |
-| 0..1  Dieses Feld enthält eine | 62 |  | x |  | Name der Einrichtung   1..60 45 | 0..1  Dieses Feld enthält die |  | **143** |  |  |  |
-| **x** |  |  |  |  |  | **Straßenadresse der Einrichtung** |  |  |  | **1..1** |  |
-| **Dieser Block enthält Daten zur** |  |  | 63 |  |  |  |  | x |  | Wohnsitzländercode der | Kodiert |
-| 0..1 | Dieses Feld enthält den |  | 64 |  |  |  |  | x |  | Postleitzahl der Einrichtung | 1..10 |
-| 0..1 | Dieses Feld enthält die |  | 65 |  |  |  |  | x |  | Ortsname der Einrichtung | 1..40 |
-| 1..1 | Dieses Feld enthält den |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
 
 SEITE 82 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
 VERSION: 1.26 / 24. NOVEMBER 2025
 
-(GRAU = FELDGRUPPE) DERH. Standortnummer eines Krankenhauses. Telematik-ID der Einrichtung. Bezeichnung der Einrichtung (Praxis / Krankenhaus) Straßenadresse der Einrichtung. (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Postleitzahl. Ortsnamen. Mehrere ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK-Nummer" und "KZV- Abrechnungsnummer" nicht vorhanden sind ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden.
+DERH. (GRAU = FELDGRUPPE) ist dieses Feld Pflicht Standortnummer eines Krankenhauses. darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK-Nummer" und "KZV- Abrechnungsnummer" nicht vorhanden sind ist dieses Feld Pflicht Telematik-ID der Einrichtung. Bezeichnung der Einrichtung (Praxis / Krankenhaus) Straßenadresse der Einrichtung. (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). Postleitzahl. Ortsnamen. Mehrere darf dieses Feld nicht angegeben werden.
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Namensbestandteile sind durch  66 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  | x | Straßenname der Einrichtung   1..46 | 1..1  Dieses Feld enthält den | 67 |  |  | x | Hausnummer der Einrichtung   1..9 | 1..1  Dieses Feld enthält die | 68 |
-|  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  |
-| **144** |  |  |  |  |  |  |  | **x** |  |  |  |
-|  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  | 69 |  |
-|  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |  |
-| Namensbestandteile sind durch  66 |  |  | x | Straßenname der Einrichtung   1..46 | 1..1  Dieses Feld enthält den | 67 |  |  | x | Hausnummer der Einrichtung   1..9 | 1..1  Dieses Feld enthält die |
-|  | 68 |  |  |  |  | x | Anschriftenzusatz der  1..40  0..1  Dieses Feld enthält den |  | **144** |  |  |
-|  |  | **x** |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die** |  | 69 |  |
-|  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |  |  |
-| x |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die |  | 71 |  |  |  | x |
-|  | E-Mail der Einrichtung | 1..256 | 0..1 | Dieses Feld enthält die E-Mail - |  |  | **72** |  | **x** |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den | 67 |
-|  |  | x | Hausnummer der Einrichtung   1..9 | 1..1  Dieses Feld enthält die | 68 |  |  | x | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den | **144** |
-|  |  |  |  |  |  | **x** |  |  |  |  |  |
-| **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  | 69 |  |  |
-|  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  |
-| 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  |
-| 68 |  | x | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den | **144** |  |  |  | **x** |  |
-|  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** | **Dieser Block enthält die** |  | 69 |  | x    Telefonnummer der Einrichtung |
-| 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |  |  |  | x |  | Faxnummer der Einrichtung |
-|  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch | 66 |
-|  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |  |  |
-| x | Hausnummer der Einrichtung | 1..9  1..1 | Dieses Feld enthält die | 68 |  | x | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den | **144** |  |
-| Namensbestandteile sind durch | 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |
-|  | 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |
-|  | 68 |  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-|  |  | **144** |  |  |  |  |  |  |  | **x** |  |
-|  |  |  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |
-|  | 69 |  |  |  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |
-| 70 |  |  | x | Faxnummer der Einrichtung  1..30 | 0..1  Dieses Feld enthält die | 71 |  |  | x | E-Mail der Einrichtung  1..256 | 0..1  Dieses Feld enthält die E-Mail - |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |  |  |  |
-|  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  | 68 |  |  | x |
-| Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **144** |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  |
-| 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  |
-| 68 |  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |
-| **144** |  |  |  | **x** |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die** | 69 |
-|  |  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |
-|  |  |  | x |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die |  | 71 |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |
-|  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  | 68 |
-|  |  | x | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den |  | **144** |  |  |  | **x** |  |
-|  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die** | 69 |  |  | x | Telefonnummer der Einrichtung   1..30 | 1..1  Dieses Feld enthält die | 70 |
-|  |  | x | Faxnummer der Einrichtung  1..30 | 0..1  Dieses Feld enthält die | 71 |  |  | x | E-Mail der Einrichtung  1..256 | 0..1  Dieses Feld enthält die E-Mail - |  |
-| Namensbestandteile sind durch | 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |
-|  | 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |
-|  | 68 |  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-| **144** |  |  |  |  |  |  | **x** |  |  | **Kontaktdaten der Einrichtung** |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66          x |
-| Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |  |  |  |  | x |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |
-|  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  | 68 |  |
-| Namensbestandteile sind durch | 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |
-| 67 |  | x | Hausnummer der Einrichtung | 1..9  1..1 | Dieses Feld enthält die | 68 |  | x | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den |
-|  | **144** |  |  |  |  |  |  |  | **x** |  |  |
-|  |  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  |
-| 69 |  |  |  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  |
-| 70 |  |  |  |  | x |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die | 71 |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  |
-| 67 |  | x | Hausnummer der Einrichtung | 1..9  1..1 | Dieses Feld enthält die | 68 |  | x | Anschriftenzusatz der | 1..40  0..1 | Dieses Feld enthält den   **144** |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  | x | Straßenname der Einrichtung   1..46 | 1..1  Dieses Feld enthält den | 67 |  |  | x | Hausnummer der Einrichtung   1..9 | 1..1  Dieses Feld enthält die | 68 |  |
-|  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **144** |  |
-|  |  |  |  |  |  | **x** |  |  |  |  |  |
-| **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  | 69 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  |  |  | x | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den | 67 |  |  | x    Hausnummer der Einrichtung   1..9  1..1  Dieses Feld enthält die    68 |
-|  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **144** |  |
-|  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch | 66 |
-|  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |  |
-|  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  | 68 |  |  |
-|  | x | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den |  | **144** |  |  |  | **x** |  |  |
-| **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  | 69 |  |  |
-|  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |  |
-| Namensbestandteile sind durch | 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |
-|  | 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |
-|  | 68 |  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-|  | **144** |  |  |  | **x** |  |  | **Kontaktdaten der Einrichtung** |  | **1..1  Dieser Block enthält die** | 69 |
-|  |  |  | x | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die | 70 |  | x | Faxnummer der Einrichtung  1..30  0..1 |
-| Namensbestandteile sind durch | 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |
-| 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die | 68 |
-|  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  | **144** |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |
-|  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  | 68 |  |
-|  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **144** |
-|  |  |  | **x** |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die** |  | 69 |
-|  |  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |
-|  |  |  | x |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die |  | 71 |  |
-|  |  |  | x |  | E-Mail der Einrichtung | 1..256 | 0..1 | Dieses Feld enthält die E-Mail - |  |  | **72** |
 |  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
 | 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  |
 | 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  |
@@ -6063,39 +2603,6 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 | **72** | **x** |  |  |  |  |  | **Angaben zur AU** |  | **1..1** | **Dieser Block enthält Daten der** |  |
 | 73 |  | x |  |  |  |  | Ausstellungsdatum | 10 | 1..1 | Dieses Feld enthält das |  |
 | 74 |  | x |  |  |  |  | AU-seit | 10 | 0..1 | Dieses Feld enthält das Datum, ab | WENN |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |
-|  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die | 68 |  |
-|  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **144** |  |  |
-|  |  | **x** |  |  | **Kontaktdaten der Einrichtung** |  | **1..1** | **Dieser Block enthält die** |  | 69 |  |
-|  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |  |  |
-|  | x |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die |  | 71 |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
-| 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  |
-| 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  |
-| 68 |  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |
-| **144** |  |  |  |  |  |  |  | **x** |  |  | **Kontaktdaten der Einrichtung** |
-| Namensbestandteile sind durch  66 |  |  | x | Straßenname der Einrichtung   1..46 | 1..1  Dieses Feld enthält den | 67 |  |  | x | Hausnummer der Einrichtung   1..9 | 1..1  Dieses Feld enthält die |
-|  | 68 |  |  |  |  | x |  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |
-|  |  | **144** |  |  |  |  |  |  |  | **x ** |  |
-|  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |  | 69 |  |
-| x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |  | 70 |  |  |  |  |
-| x |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die |  | 71 |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch  66 |
-|  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |  | 67 |
-|  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |  | 68 | x |
-|  | Anschriftenzusatz der | 1..40 | 0..1 | Dieses Feld enthält den |  |  | **144** |  |  |  |  |
-| Namensbestandteile sind durch | 66 |  |  |  |  | x |  | Straßenname der Einrichtung | 1..46 | 1..1 | Dieses Feld enthält den |
-|  | 67 |  |  |  |  | x |  | Hausnummer der Einrichtung | 1..9 | 1..1 | Dieses Feld enthält die |
-| 68 |  |  | x | Anschriftenzusatz der  1..40 | 0..1  Dieses Feld enthält den |  | **144** |  |  |  | **x** |
-|  |  |  |  | **Kontaktdaten der Einrichtung** |  |  |  | **1..1** |  | **Dieser Block enthält die** |  |
-|  | 69 |  |  |  |  | x |  | Telefonnummer der Einrichtung | 1..30 | 1..1 | Dieses Feld enthält die |
-|  | 70 |  |  |  |  | x |  | Faxnummer der Einrichtung | 1..30 | 0..1 | Dieses Feld enthält die |
-|  | 71 |  |  |  |  | x |  | E-Mail der Einrichtung | 1..256 | 0..1 | Dieses Feld enthält die E-Mail - |
-|  |  | **72** |  | **x** |  |  |  |  |  |  |  |
-|  |  | **Angaben zur AU** |  | **1..1** | **Dieser Block enthält Daten der** | 73 | x |  |  | Ausstellungsdatum  10 | 1..1  Dieses Feld enthält das |
-|  | 74 |  | x |  |  |  |  | AU-seit | 10 | 0..1 | Dieses Feld enthält das Datum, ab |
-|  |  |  |  |  |  |  |  |  |  |  | Namensbestandteile sind durch |
 
 SEITE 83 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -6104,143 +2611,8 @@ SEITE 83 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN | DANN  WENN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 75 | x |  | Voraussichtlich-AU-bis | 10  1..1 | Dieses Feld enthält das Datum, bis | 96 | x |  | Teilweise arbeitsfähig ab | 10  0..1 | Dieses Datum gibt an, ab wann  seine berufliche Tätigkeit nach |
-| ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  |  | Festgestellt-am | 10 |
-| 1..1 | Dieses Feld enthält das Datum, an |  |  | **146** |  |  |  | **x** |  |  |  |
-|  |  |  |  |  |  | **Ursache** |  |  |  | **0..1** | **Dieser Block enthält Ursachen für** |
-|  | 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1  Dieses Feld beschreibt, ob die AU |  |
-| DANN  WENN | 75 | x |  | Voraussichtlich-AU-bis | 10  1..1 | Dieses Feld enthält das Datum, bis | 96 | x |  | Teilweise arbeitsfähig ab | 10  0..1 |
-| Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x          Festgestellt-am | 10 | 1..1 | Dieses Feld enthält das Datum, an |  |
-| **146** |  | **x** |  |  |  |  | **Ursache** |  | **0..1** | **Dieser Block enthält Ursachen für** |  |
-| 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU | 81 |
-|  |  | x |  |  |  | SER | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |
-| 96 | x |  | Teilweise arbeitsfähig ab | 10  0..1 | Dieses Datum gibt an, ab wann  seine berufliche Tätigkeit nach | ausüben kann.  WENN | ANSONSTEN   76 | x |  |  | Festgestellt-am  10  1..1  Dieses Feld enthält das Datum, an |
-|  |  | **146** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Ursache** |  |  |  | **0..1** |  | **Dieser Block enthält Ursachen für** |  |
-|  | 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |
-|  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann |
-| seine berufliche Tätigkeit nach  ausüben kann. | WENN  ANSONSTEN | 76 | x |  | Festgestellt-am | 10  1..1 | Dieses Feld enthält das Datum, an | **146** |  | **x** |  |
-|  |  |  |  |  |  | **Ursache** |  | **0..1** | **Dieser Block enthält Ursachen für** |  | 77      x |
-|  |  |  | Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 81 |  |  | x |
-|  |  |  |  |  |  |  |  |  |  | DANN | WENN  75 |
-| x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |  | 96 | x |
-|  |  | Teilweise arbeitsfähig ab  10 | 0..1  Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach  ausüben kann. | WENN  ANSONSTEN | 76 | x |  | Festgestellt-am | 10  1..1 | Dieses Feld enthält das Datum, an |
-| DANN | WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 |
-| Dieses Feld enthält das Datum, bis |  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 |
-| Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  |  |
-| Festgestellt-am | 10 | 1..1 | Dieses Feld enthält das Datum, an |  |  | **146** |  |  |  | **x** |  |
-|  |  |  |  |  |  |  |  | **Ursache** |  |  |  |
-| **0..1** |  | **Dieser Block enthält Ursachen für** |  |  | 77 |  |  | x |  |  |  |
-| Arbeitsunfall,  Kodiert | 0..1  Dieses Feld beschreibt, ob die AU | 81 |  | x |  | SER   Kodiert | 0..1  Dieses Feld beschreibt, ob ein |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN  75 |
-| x |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |  | 96 |  | x |
-|  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN   76    x |
-|  |  |  |  | Festgestellt-am | 10 | 1..1 | Dieses Feld enthält das Datum, an |  |  | **146** |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |
-|  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann |
-| seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  |  | Festgestellt-am |
-| 10  1..1 | Dieses Feld enthält das Datum, an | **146** |  | **x** |  |  |  |  | **Ursache** |  | **0..1  Dieser Block enthält Ursachen für** |
-|  |  | 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 |
-| Dieses Feld beschreibt, ob die AU |  | 81 |  |  | x |  |  |  | SER | Kodiert | 0..1 |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN |
-| 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |  |
-| 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach |
-| ausüben kann.  WENN | ANSONSTEN   76 | x |  |  | Festgestellt-am  10 | 1..1  Dieses Feld enthält das Datum, an |  | **146** |  | **x** |  |
-|  |  |  | **Ursache** |  | **0..1** | **Dieser Block enthält Ursachen für** | 77 |  | x |  | Arbeitsunfall,  Kodiert |
-| 0..1  Dieses Feld beschreibt, ob die AU | 81 |  | x |  | SER   Kodiert | 0..1  Dieses Feld beschreibt, ob ein |  |  |  |  |  |
-| DANN | WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 |
-| Dieses Feld enthält das Datum, bis |  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 |
-| Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  | Festgestellt-am |
-| 10  1..1 | Dieses Feld enthält das Datum, an |  | **146** |  |  |  | **x** |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN  75    x |
-|  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |  | 96 |  | x |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN |
-| 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis | 96 |
-|  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. |
-| DANN | WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1  Dieses Feld enthält das Datum, bis |
-| 96 | x |  |  | Teilweise arbeitsfähig ab  10 | 0..1  Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach  ausüben kann. | WENN  ANSONSTEN | 76 | x |  | Festgestellt-am |
-| 10 | 1..1 | Dieses Feld enthält das Datum, an |  |  | **146** |  |  |  | **x** |  |  |
-|  |  |  |  |  |  |  | **Ursache** |  |  |  | **0..1** |
-|  | **Dieser Block enthält Ursachen für** |  |  | 77 |  |  | x |  |  |  | Arbeitsunfall, |
-| Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 81 |  |  | x |  |  |  | SER   Kodiert |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |
-| 96 | x |  |  | Teilweise arbeitsfähig ab  10 | 0..1  Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach  ausüben kann. | WENN  ANSONSTEN | 76 | x |  | Festgestellt-am  10  1..1 |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN  75 |
-| x |  | Voraussichtlich-AU-bis | 10  1..1 | Dieses Feld enthält das Datum, bis | 96 | x |  | Teilweise arbeitsfähig ab | 10  0..1 | Dieses Datum gibt an, ab wann  seine berufliche Tätigkeit nach | ausüben kann.  WENN |
-| ANSONSTEN | 76 |  | x |  |  |  |  | Festgestellt-am | 10 | 1..1 | Dieses Feld enthält das Datum, an |
-|  |  | **146** |  |  |  | **x** |  |  |  |  |  |
-|  |  |  |  | **Ursache** |  |  |  | **0..1** |  | **Dieser Block enthält Ursachen für** |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN |
-| 75 | x |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1  Dieses Feld enthält das Datum, bis |  | 96 | x | Teilweise arbeitsfähig ab  10  0..1  Dieses Datum gibt an, ab wann  seine berufliche Tätigkeit nach  ausüben kann.  WENN |
-| ANSONSTEN | 76 |  | x |  |  |  |  | Festgestellt-am | 10 | 1..1 | Dieses Feld enthält das Datum, an |
-|  |  |  |  |  |  |  |  |  |  | DANN | WENN  75 |
-|  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |  | 96 |
-| x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. | WENN |
-| ANSONSTEN   76 | x |  |  | Festgestellt-am  10 | 1..1  Dieses Feld enthält das Datum, an |  | **146** |  | **x** |  |  |
-|  |  |  |  | **Ursache** |  |  |  | **0..1** |  | **Dieser Block enthält Ursachen für** |  |
-|  | 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-| DANN | WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 |
-| Dieses Feld enthält das Datum, bis |  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 |
-| Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  |  |
-| Festgestellt-am  10 | 1..1  Dieses Feld enthält das Datum, an |  | **146** |  | **x** |  |  |  |  | **Ursache ** | **0..1** |
-| **Dieser Block enthält Ursachen für** |  | 77 |  | x |  |  | Arbeitsunfall, | Kodiert   0..1 | Dieses Feld beschreibt, ob die AU | 81 | x |
-| DANN | WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1  Dieses Feld enthält das Datum, bis |
-|  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann  seine berufliche Tätigkeit nach |
-| ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  |  | Festgestellt-am  10 | 1..1 |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN |
-| 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis | 96 |
-|  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. |
-| WENN | ANSONSTEN | 76 |  | x |  |  |  |  | Festgestellt-am | 10 | 1..1 |
-| Dieses Feld enthält das Datum, an | **146** |  | **x** |  |  |  |  | **Ursache** |  | **0..1** | **Dieser Block enthält Ursachen für** |
-|  |  | 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 |
-| Dieses Feld beschreibt, ob die AU |  | 81 |  |  | x |  |  |  | SER | Kodiert | 0..1 |
-| Dieses Feld beschreibt, ob ein |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |
-|  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann |
-| seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  |  | Festgestellt-am |
-| 10  1..1 | Dieses Feld enthält das Datum, an | **146** |  | **x** |  |  |  |  | **Ursache** |  | **0..1** |
-|  | **Dieser Block enthält Ursachen für** |  |  | 77 |  |  | x |  |  |  | Arbeitsunfall, |
-| Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 81 |  |  | x |  |  |  | SER |
-| Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | DANN  WENN |
 | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |  |
 | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann  seine berufliche Tätigkeit nach  ausüben kann. | WENN  ANSONSTEN |
@@ -6248,211 +2620,22 @@ SEITE 83 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 | **146** |  | **x** |  |  |  |  | **Ursache** |  | **0..1** | **Dieser Block enthält Ursachen für** |  |
 | 77 |  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  |
 | 81 |  |  | x |  |  |  | SER | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
-| WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis |
-|  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann |
-| seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  | Festgestellt-am | 10 |
-| 1..1 | Dieses Feld enthält das Datum, an |  |  | **146** |  |  |  | **x** |  |  |  |
-| DANN  WENN | 75 | x |  | Voraussichtlich-AU-bis | 10  1..1 | Dieses Feld enthält das Datum, bis | 96 | x |  | Teilweise arbeitsfähig ab | 10  0..1 |
-| Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach | ausüben kann. | WENN | ANSONSTEN | 76 |  | x |  |  |  |  |
-| Festgestellt-am | 10 | 1..1 | Dieses Feld enthält das Datum, an |  |  | **146** |  |  |  | **x ** |  |
-|  |  |  |  |  | **Ursache** |  |  |  | **0..1** | **Dieser Block enthält Ursachen für** | 77 |
-|  |  | x |  |  |  | Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 81 |
-|  |  | x |  |  |  | SER | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN  WENN |
-| 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 | Dieses Feld enthält das Datum, bis | 96 |
-|  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 | Dieses Datum gibt an, ab wann | seine berufliche Tätigkeit nach  ausüben kann.  WENN | ANSONSTEN   76 |
-| x |  |  |  |  | Festgestellt-am | 10 | 1..1 | Dieses Feld enthält das Datum, an |  | **146** |  |
-| DANN | WENN | 75 |  | x |  |  |  |  | Voraussichtlich-AU-bis | 10 | 1..1 |
-| Dieses Feld enthält das Datum, bis |  | 96 |  | x |  |  |  |  | Teilweise arbeitsfähig ab | 10 | 0..1 |
-| Dieses Datum gibt an, ab wann  seine berufliche Tätigkeit nach | ausüben kann.  WENN | ANSONSTEN   76 | x |  |  | Festgestellt-am  10 | 1..1  Dieses Feld enthält das Datum, an |  | **146** |  | **x** |
-|  |  |  |  |  |  |  |  | **Ursache** |  |  |  |
-| **0..1** |  | **Dieser Block enthält Ursachen für** |  |  | 77 |  |  | x |  |  |  |
-| Arbeitsunfall, | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 81 |  |  | x |  |  |  |
-| SER | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | DANN |
 
 SEITE 84 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
 VERSION: 1.26 / 24. NOVEMBER 2025
 
-(GRAU = FELDGRUPPE) Arbeitsunfallfolgen, Berufskrankheit zu dem die Arbeitsunfähigkeit bescheinigt wird (Ende der AU). eine PKV-Versicherte ihre / ein PKV-Versicherter medizinischem Befund teilweise dem die Arbeitsunfähigkeit festgestellt wird. die Arbeitsunfähigkeit. aufgrund eines Arbeitsunfalles, einer Arbeitsunfallfolge oder Berufskrankheit erstellt wird.  Leiden nach dem Soziales muss dieses Feld gesetzt werden.  das Feld „AU Art“ gleich „FOLGE" oder „FOLGE_END“ ist darf dieses Feld nicht gesetzt werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden.
+(GRAU = FELDGRUPPE) muss dieses Feld gesetzt werden.  das Feld „AU Art“ gleich „FOLGE" oder „FOLGE_END“ ist Arbeitsunfallfolgen, Berufskrankheit zu dem die Arbeitsunfähigkeit bescheinigt wird (Ende der AU). eine PKV-Versicherte ihre / ein PKV-Versicherter medizinischem Befund teilweise dem die Arbeitsunfähigkeit festgestellt wird. die Arbeitsunfähigkeit. aufgrund eines Arbeitsunfalles, einer Arbeitsunfallfolge oder Berufskrankheit erstellt wird.  Leiden nach dem Soziales darf dieses Feld nicht gesetzt werden. das Feld "Kostenträgertyp"  gleich „PKV“ ist darf dieses Feld gesetzt  werden.  darf dieses Feld nicht gesetzt  werden.
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN | Entschädigungsrecht - SER  82 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  | x |  | Sonstiger Unfall, Unfallfolgen  Kodiert | 0..1  Dieses Feld beschreibt, ob die AU | 78 | x |  |  | D-Arzt-zugewiesen  Kodiert | 0..1  Dieses Feld beschreibt, ob der | 79 |
-|  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |  |
-| 97 |  | x |  |  |  |  | Berufsunfähigkeit | Bool | 0..1 | Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher |
-| mehr als 50 % erwerbsunfähig ist | WENN | DANN | ANSONSTEN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Entschädigungsrecht - SER  82 |  | x |  | Sonstiger Unfall, Unfallfolgen  Kodiert | 0..1  Dieses Feld beschreibt, ob die AU | 78 | x |  |  | D-Arzt-zugewiesen  Kodiert | 0..1  Dieses Feld beschreibt, ob der |
-|  | 79 |  | x |  |  |  | AU-Art  Kodiert  1..1  Dieses Feld beschreibt die Art der,  Erstbescheinigung, |  | 97 |  | x |
-|  |  | Berufsunfähigkeit  Bool | 0..1  Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN | ANSONSTEN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER |
-| 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU | 78 |
-| x |  |  | D-Arzt-zugewiesen  Kodiert | 0..1  Dieses Feld beschreibt, ob der | 79 | x |  |  | AU-Art  Kodiert | 1..1  Dieses Feld beschreibt die Art der, | Erstbescheinigung,    97 |
-| x |  |  |  |  | Berufsunfähigkeit | Bool | 0..1 | Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist | WENN |
-| DANN | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER |
-| 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  |
-| 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  |
-| 79 | x |  | AU-Art | Kodiert  1..1 | Dieses Feld beschreibt die Art der,  Erstbescheinigung, | 97 | x |  |  | Berufsunfähigkeit  Bool | 0..1 |
-| Dieses Feld gibt an, ob eine PKV- medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist | WENN  DANN | ANSONSTEN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER | 82 |
-| x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |  | x |
-|  | D-Arzt-zugewiesen | Kodiert  0..1 | Dieses Feld beschreibt, ob der | 79 | x |  | AU-Art | Kodiert  1..1 | Dieses Feld beschreibt die Art der,  Erstbescheinigung, | 97 | x |
-| Entschädigungsrecht - SER | 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-|  | 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |
-|  | 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, |
-| Erstbescheinigung, |  | 97 |  | x |  |  |  |  | Berufsunfähigkeit | Bool | 0..1 |
-| Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist | WENN | DANN | ANSONSTEN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-| x |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |  | x |  |
-|  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  | 79 |  | x |  |
-| AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |  | 97 |  | x |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER |
-| 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  |
-| 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  |
-| 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |
-| 97 | x |  |  | Berufsunfähigkeit  Bool | 0..1  Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN | ANSONSTEN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-|  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |
-|  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  | 79 |
-| x |  |  | AU-Art  Kodiert | 1..1  Dieses Feld beschreibt die Art der, | Erstbescheinigung, | 97 | x |  | Berufsunfähigkeit | Bool  0..1 | Dieses Feld gibt an, ob eine PKV- medizinischem Befund im bisher |
-| mehr als 50 % erwerbsunfähig ist  WENN | DANN  ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Entschädigungsrecht - SER | 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-|  | 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |
-|  | 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der,  Erstbescheinigung, |
-| 97 |  | x |  |  |  | Berufsunfähigkeit | Bool  0..1 | Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN | ANSONSTEN |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82      x |
-| Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |  | x |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-|  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |
-| x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  | 79 |  |
-| Entschädigungsrecht - SER | 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-| 78 | x |  | D-Arzt-zugewiesen | Kodiert  0..1 | Dieses Feld beschreibt, ob der | 79 | x |  | AU-Art | Kodiert  1..1 | Dieses Feld beschreibt die Art der,  Erstbescheinigung, |
-|  | 97 |  | x |  |  |  |  | Berufsunfähigkeit | Bool | 0..1 | Dieses Feld gibt an, ob eine PKV- |
-| medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist | WENN | DANN | ANSONSTEN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER |
-| 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  |
-| 78 | x |  | D-Arzt-zugewiesen | Kodiert  0..1 | Dieses Feld beschreibt, ob der | 79 | x |  | AU-Art | Kodiert  1..1 | Dieses Feld beschreibt die Art der,  Erstbescheinigung,    97 |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-| x |  | Sonstiger Unfall, Unfallfolgen  Kodiert | 0..1  Dieses Feld beschreibt, ob die AU | 78 | x |  |  | D-Arzt-zugewiesen  Kodiert | 0..1  Dieses Feld beschreibt, ob der | 79 | x |
-|  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |  | 97 |  |
-| x |  |  |  |  | Berufsunfähigkeit | Bool | 0..1 | Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist | WENN |
-| DANN | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-|  | x |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU | 78 | x |  | D-Arzt-zugewiesen  Kodiert  0..1  Dieses Feld beschreibt, ob der    79    x |
-|  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |  | 97 |  |
-|  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER | 82 |
-|  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 | x |
-|  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  | 79 |  | x |
-|  |  | AU-Art  Kodiert | 1..1  Dieses Feld beschreibt die Art der, | Erstbescheinigung, | 97 | x |  | Berufsunfähigkeit | Bool  0..1 | Dieses Feld gibt an, ob eine PKV- medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist  WENN |
-| DANN | ANSONSTEN |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Entschädigungsrecht - SER | 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-|  | 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |
-|  | 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, |
-| Erstbescheinigung, | 97 | x |  | Berufsunfähigkeit | Bool  0..1 | Dieses Feld gibt an, ob eine PKV- medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist  WENN | DANN  ANSONSTEN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Entschädigungsrecht - SER | 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-| 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der | 79 |
-|  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, | 97 |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-|  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |
-| x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  | 79 |  |
-| x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |  | 97 |
-| x |  |  | Berufsunfähigkeit  Bool | 0..1  Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN | ANSONSTEN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER |
-| 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  |
-| 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  |
-| 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |
-| 97 | x |  |  | Berufsunfähigkeit  Bool | 0..1  Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN | ANSONSTEN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-|  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |
-|  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der | 79 | x |
-|  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |  | 97 |  | x |
-|  |  | Berufsunfähigkeit  Bool | 0..1  Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN | ANSONSTEN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER |
 | 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  |
 | 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  |
 | 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der,  Erstbescheinigung, |  |
 | 97 |  | x |  |  |  |  | Berufsunfähigkeit | Bool | 0..1 | Dieses Feld gibt an, ob eine PKV- medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist | WENN  DANN  ANSONSTEN |
-| Entschädigungsrecht - SER  82 |  | x |  | Sonstiger Unfall, Unfallfolgen  Kodiert | 0..1  Dieses Feld beschreibt, ob die AU | 78 | x |  |  | D-Arzt-zugewiesen  Kodiert | 0..1  Dieses Feld beschreibt, ob der |
-|  | 79 |  | x |  |  |  |  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, |
-| Erstbescheinigung, |  | 97 |  | x |  |  |  |  | Berufsunfähigkeit | Bool  0..1  Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher  mehr als 50 % erwerbsunfähig ist |
-| WENN | DANN | ANSONSTEN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER  82 |
-|  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |  | 78 |
-| x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |  | 79    x |  |
-|  | AU-Art | Kodiert | 1..1 | Dieses Feld beschreibt die Art der, | Erstbescheinigung, |  | 97 |  | x |  | Berufsunfähigkeit |
-| Entschädigungsrecht - SER | 82 |  |  | x |  |  |  | Sonstiger Unfall, Unfallfolgen | Kodiert | 0..1 | Dieses Feld beschreibt, ob die AU |
-|  | 78 |  | x |  |  |  |  | D-Arzt-zugewiesen | Kodiert | 0..1 | Dieses Feld beschreibt, ob der |
-| 79 | x |  |  | AU-Art  Kodiert | 1..1  Dieses Feld beschreibt die Art der, | Erstbescheinigung, | 97 | x |  | Berufsunfähigkeit | Bool  0..1 |
-| Dieses Feld gibt an, ob eine PKV- | medizinischem Befund im bisher | mehr als 50 % erwerbsunfähig ist | WENN | DANN | ANSONSTEN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Entschädigungsrecht - SER |
 
 SEITE 85 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -6463,176 +2646,14 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 98 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  | **Maßnahmen** |  | **0..1** | **Dieser Block enthält** |  | 83 |
-|  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |
-|  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN |
-| ANSONSTEN | 100 |  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. |
-| WENN | ANSONSTEN | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert  0..1 | Dieses Feld beschreibt, ob |
-| **98** |  |  |  |  |  |  | **Maßnahmen** |  | **0..1** | **Dieser Block enthält** |  |
-| 83 |  |  | x |  |  |  | Leistungen Reha  Kodiert  0..1  Dieses Feld beschreibt, ob    99 |  |  |  | x |
-|  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN | 100 |  | x | Entlassungsdatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN |
-| ANSONSTEN | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |
-| 101 |  |  |  | x |  |  | ab | 10 | 0..1 |  | WENN |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **98** |  |  |  |  |  |  |  |  |  |  |  |
-| **Maßnahmen** |  | **0..1** | **Dieser Block enthält** |  | 83 | x |  | Leistungen Reha | Kodiert  0..1 | Dieses Feld beschreibt, ob | 99 |
-| x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN | 100 |
-|  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. |
-| WENN | ANSONSTEN | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert | 0..1 |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **98** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |
-|  | x |  | Leistungen Reha  Kodiert | 0..1  Dieses Feld beschreibt, ob | 99 |  | x |  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches |
-| Behandlung usw. an.  WENN | ANSONSTEN | 100 |  |  | x |  | Entlassungsdatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN  84 |
-| x |  |  |  | Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 101 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **98 ** |
-|  |  |  |  |  |  |  |  |  |  |  | **Maßnahmen** |
-|  | **0..1** | **Dieser Block enthält** | 83 |  | x |  | Leistungen Reha  Kodiert | 0..1  Dieses Feld beschreibt, ob | 99 |  | x |
-|  | **98** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  |
-| 83 |  |  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  |
-| 99 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches |
-| Behandlung usw. an. | WENN | ANSONSTEN | 100 |  |  |  | x |  |  | Entlassungsdatum | 10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN | 84 |  |  | x |  |  |
-| Wiedereingliederung | Kodiert  0..1 | Dieses Feld beschreibt, ob | 101 |  | x | ab | 10  0..1 | WENN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **98 ** |
-|  |  |  |  |  |  |  |  |  |  | **Maßnahmen** |  |
-|  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |  |  | x | Leistungen Reha |
-| Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |  |  | x |  |  | Aufnahmedatum |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **98** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |
-|  |  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |
-|  | x |  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN | 100 |  | x | Entlassungsdatum | 10  0..1  Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches |
-| Behandlung usw. an. | WENN | ANSONSTEN | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert |
-| 0..1 | Dieses Feld beschreibt, ob |  | 101 |  |  |  | x |  |  | ab | 10 |
-|  |  |  |  |  |  |  |  |  |  |  | **98** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |  |
-| x |  | Leistungen Reha | Kodiert  0..1 | Dieses Feld beschreibt, ob | 99 |  | x | Aufnahmedatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN |
-| ANSONSTEN   100 |  | x |  | Entlassungsdatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN | 84 | x |  | Wiedereingliederung |
-| Kodiert  0..1 | Dieses Feld beschreibt, ob | 101 |  | x | ab | 10  0..1 | WENN |  |  |  |  |
-|  | **98** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  |
-| 83 |  |  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob | 99 |
-|  |  | x |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an. | WENN  ANSONSTEN | 100 |  |
-|  |  |  |  |  |  |  |  |  |  |  | **98 ** |
-|  |  |  |  |  |  |  | **Maßnahmen** |  |  |  | **0..1** |
-|  |  |  |  |  |  |  |  |  |  |  | **98** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |  |  |
-|  | **98** |  |  |  |  |  |  |  |  |  |  |
-|  | **Maßnahmen** |  | **0..1** | **Dieser Block enthält** | 83 |  | x |  | Leistungen Reha  Kodiert | 0..1  Dieses Feld beschreibt, ob | 99 |
-|  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. |
-| WENN | ANSONSTEN | 100 |  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 |
-| Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN | 84 |  |  | x |  |  |  |
-| Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 101 |  |  |  | x |  | ab |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **98** |  |  |  |  |  |  |  |  |  |  |  |
-|  | **Maßnahmen** |  | **0..1** | **Dieser Block enthält** | 83 |  | x |  | Leistungen Reha  Kodiert | 0..1  Dieses Feld beschreibt, ob | 99 |
-|  |  |  |  |  |  |  |  |  |  |  | **98 ** |
-|  |  |  |  |  | **Maßnahmen** |  | **0..1** | **Dieser Block enthält** |  | 83 | x |
-|  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |  |  |
-| x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN | 100 |
-|  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. |
-|  |  |  |  |  |  |  |  |  |  |  | **98** |
-|  |  |  |  |  |  |  |  |  | **Maßnahmen** |  | **0..1  Dieser Block enthält **   83      x |
-|  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **98** |
-|  |  |  |  |  |  |  |  |  |  |  | **Maßnahmen** |
-|  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |  |  | x |
-|  | Leistungen Reha | Kodiert  0..1 | Dieses Feld beschreibt, ob | 99 |  | x | Aufnahmedatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN   100 |
-|  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. |
-| WENN | ANSONSTEN | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert | 0..1 |
-|  | **98** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  |
-| 83 |  |  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  |
-| 99 |  | x | Aufnahmedatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN   100 |  | x | Entlassungsdatum  10 | 0..1  Dieses Feld gibt für eine PKV- |
-| zukünftiges/tatsächliches  Behandlung usw. an. | WENN | ANSONSTEN | 84 |  | x |  |  | Wiedereingliederung  Kodiert | 0..1  Dieses Feld beschreibt, ob | 101 | x |
-|  | **98** |  |  |  |  |  |  |  |  |  |  |
-|  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |
-|  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |
-|  |  |  |  |  |  |  |  |  |  |  | **98** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |  |  |
-| x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |  |
-| x |  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN | 100 |  | x | Entlassungsdatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches |
-| Behandlung usw. an. | WENN | ANSONSTEN | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert |
-| 0..1 | Dieses Feld beschreibt, ob |  | 101 |  |  |  | x |  |  | ab | 10 |
-| 0..1 |  | WENN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **98** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |
-|  |  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |
-|  | x |  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN | 100 |  | x | Entlassungsdatum | 10  0..1 |
-| Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN | 84 |  |  | x |  |  |  |
-| Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 101 |  |  |  | x |  |  |
-| ab | 10 | 0..1 |  | WENN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | **98** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 | x |
-|  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |  |  | x |
-|  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN | 100 |  | x | Entlassungsdatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN |
-| ANSONSTEN | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |
-|  | 101 |  |  |  | x |  |  | ab | 10 | 0..1 |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **98** |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 |
-|  |  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob | 99 |  |
-|  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an.  WENN  ANSONSTEN | 100 |
 | **98** |  |  |  |  |  |  | **Maßnahmen** |  | **0..1** | **Dieser Block enthält** |  |
 | 83 |  |  | x |  |  |  | Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  |
 | 99 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |
 | 100 |  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |
 | 84 |  |  | x |  |  |  | Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  |
 | 101 |  |  |  | x |  |  | ab | 10 | 0..1 |  | WENN |
-|  |  |  |  |  |  |  |  |  |  |  | **98** |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  | 83 | x |  |
-| Leistungen Reha | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 99 |  |  |  | x | Aufnahmedatum | 10  0..1 |
-|  | **98** |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | **Maßnahmen** |  |  |  | **0..1** |  | **Dieser Block enthält** |  |  |
-| 83 | x |  | Leistungen Reha | Kodiert  0..1 | Dieses Feld beschreibt, ob | 99 |  | x | Aufnahmedatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches |
-| Behandlung usw. an. | WENN | ANSONSTEN | 100 |  |  |  | x |  |  | Entlassungsdatum | 10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN | 84 |  |  | x |  |  |
-|  | Wiedereingliederung | Kodiert | 0..1 | Dieses Feld beschreibt, ob |  | 101 |  |  |  | x |  |
-|  | ab | 10 | 0..1 |  | WENN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
 SEITE 86 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -6643,176 +2664,12 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN | ANSONSTEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE-DERH. | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 102 | x |  | Stationäre Heilbehandlung | Bool  0..1 | WENN | ANSONSTEN  103 |  | x |  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- |
-| zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  |  |
-| Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| ANSONSTEN | 102 | x |  | Stationäre Heilbehandlung | Bool  0..1 | WENN | ANSONSTEN  103 |  | x |  | Aufnahmedatum  10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104        x |  | Entlassungsdatum | 10 | 0..1 |
-| Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 | WENN |
-| ANSONSTEN  103 |  | x |  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  DANN | ANSONSTEN  104 |  | x | Entlassungsdatum  10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  |
-| WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 |
-| Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | DANN  ANSONSTEN | 104 |  | x | Entlassungsdatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN  102 |
-|  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN | ANSONSTEN | 103 |
-|  | x | Aufnahmedatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | DANN  ANSONSTEN | 104 |  | x | Entlassungsdatum | 10  0..1 |
-|  | ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |
-|  | WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |
-|  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN  102 |
-| x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN | ANSONSTEN | 103 |  |
-|  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN  DANN  ANSONSTEN  104 |
-|  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  |
-| WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 |
-| Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  |
-| Entlassungsdatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN |
-| 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN |
-| ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- |
-| zukünftiges/tatsächliches  Behandlung usw. an. | WENN  DANN | ANSONSTEN  104 |  | x |  | Entlassungsdatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |
-|  | WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |
-| Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN  102      x |
-|  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN | ANSONSTEN | 103 |  |  |  | x |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN |
-| 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN  ANSONSTEN |
-| 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches |
-|  | ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |
-| WENN  ANSONSTEN | 103 |  | x | Aufnahmedatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | DANN  ANSONSTEN | 104 |  | x |
-|  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  |
-| WENN  ANSONSTEN | 103 |  | x | Aufnahmedatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | DANN  ANSONSTEN | 104 |  | x      Entlassungsdatum |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN  102 |
-| x |  | Stationäre Heilbehandlung | Bool  0..1 | WENN | ANSONSTEN  103 |  | x |  | Aufnahmedatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. |
-| WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  |  | Entlassungsdatum | 10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN |
-| 102 |  | x |  |  | Stationäre Heilbehandlung | Bool | 0..1 | WENN | ANSONSTEN  103 |  | x      Aufnahmedatum  10  0..1  Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches  Behandlung usw. an. |
-| WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  |  | Entlassungsdatum | 10 |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN  102 |
-|  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN | ANSONSTEN  103 |
-|  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. |
-| WENN  DANN | ANSONSTEN  104 |  | x |  | Entlassungsdatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |
-|  | WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |
-|  | Entlassungsdatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  | ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |
-| WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1  Dieses Feld gibt für eine PKV- |
-| zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  | Entlassungsdatum |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN |
-| 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN  ANSONSTEN |
-| 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches |
-| Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  |  | Entlassungsdatum |
-| 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  |
-| WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 |
-| Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  |
-| Entlassungsdatum | 10  0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN |
-| 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN |
-| ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1  Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN |
-| DANN | ANSONSTEN | 104 |  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 |
-| Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches | Behandlung usw. an.  WENN | ANSONSTEN |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  |
-| WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 |
-| Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |  |
-| Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |  |  |
-| ANSONSTEN | 102 | x |  | Stationäre Heilbehandlung | Bool  0..1 | WENN | ANSONSTEN  103 |  | x |  | Aufnahmedatum  10 |
-| 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | DANN | ANSONSTEN | 104 |  |  |  | x |
-|  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches | Behandlung usw. an. | WENN | ANSONSTEN |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | ANSONSTEN |
 | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |  | WENN  ANSONSTEN |
 | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches  Behandlung usw. an. | WENN  DANN  ANSONSTEN |
 | 104 |  |  |  | x |  |  | Entlassungsdatum | 10 | 0..1 | Dieses Feld gibt für eine PKV- zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |
-|  | ANSONSTEN | 102 |  |  | x |  |  |  | Stationäre Heilbehandlung | Bool | 0..1 |
-|  | WENN | ANSONSTEN | 103 |  |  |  | x |  |  | Aufnahmedatum | 10 |
-| 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  DANN | ANSONSTEN  104 |  | x |  | Entlassungsdatum  10 | 0..1  Dieses Feld gibt für eine PKV- | zukünftiges/tatsächliches  Behandlung usw. an. | WENN  ANSONSTEN |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 
 SEITE 87 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -6822,165 +2679,8 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | 85 |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| x |  | Sonstige | Kodiert  0..1 | Dieses Feld beschreibt, ob ein | 86 |  | x | Sonstige Maßnahmen Text | 1..70  1..1 | Dieses Feld enthält eine Angabe, | **87** |
-|  |  |  | **X** |  |  |  |  |  |  |  |  |
-|  | **Diagnose** |  |  |  | **1..1** |  | **Dieser Block enthält AU-** |  |  | 88 |  |
-|  | x |  |  |  | ICD-10-Code | 3..6 | 1..6 | Dieses Feld enthält den ICD-10- |  | 93 |  |
-| x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  | x |
-| 85 | x |  | Sonstige | Kodiert  0..1 | Dieses Feld beschreibt, ob ein | 86 |  | x | Sonstige Maßnahmen Text | 1..70  1..1 | Dieses Feld enthält eine Angabe, |
-|  | **87** |  |  |  | **X** |  |  |  |  | **Diagnose** |  |
-|  | **1..1** | **Dieser Block enthält AU-** | 88 |  | x |  | ICD-10-Code   3..6 | 1..6  Dieses Feld enthält den ICD-10- | 93 |  | x |
-|  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |  | x |
-|  | Seitenlokalisation | Kodiert | 0..1 | Dieses Feld enthält die |  | 95 |  |  |  | x |  |
-| Version | 4 | 1..1 | Dieses Feld enthält die Version |  | 89 |  |  | x |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |
-|  | x | Sonstige Maßnahmen Text | 1..70  1..1 | Dieses Feld enthält eine Angabe, | **87** |  | **X** |  |  |  | **Diagnose** |
-|  |  |  | **1..1** |  | **Dieser Block enthält AU-** |  |  | 88 |  |  | x |
-|  |  |  | ICD-10-Code | 3..6 | 1..6 | Dieses Feld enthält den ICD-10- |  | 93 |  |  |  |
-| x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |
-|  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  |
-| **87** |  | **X** |  |  |  |  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** |  |
-| 88 |  | x |  |  | ICD-10-Code | 3..6 | 1..6  Dieses Feld enthält den ICD-10- | 93 |  | x | Diagnosesicherheit  Kodiert |
-| 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |  | x |  |  | Seitenlokalisation | Kodiert |
-|  |  |  |  |  |  |  |  |  |  | 85 | x |
-|  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |  | x |
-|  | Sonstige Maßnahmen Text  1..70 | 1..1  Dieses Feld enthält eine Angabe, |  | **87** |  | **X** |  |  |  |  | **Diagnose** |
-| 85 |  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |
-| 86 |  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |
-|  | **87** |  |  |  | **X** |  |  |  |  |  |  |
-|  |  |  | **Diagnose** |  |  |  | **1..1** |  | **Dieser Block enthält AU-** |  |  |
-| 88 |  |  | x |  |  |  | ICD-10-Code | 3..6 | 1..6 | Dieses Feld enthält den ICD-10- |  |
-| 93 |  |  |  | x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  |
-| 94 |  | x | Seitenlokalisation | Kodiert  0..1 | Dieses Feld enthält die | 95 |  | x | Version | 4  1..1 | Dieses Feld enthält die Version |
-|  |  |  |  |  |  |  |  |  |  |  | 85      x |
-|  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |  |  | x |
-|  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  | **87** |  |  | **X ** |
-|  |  |  |  |  |  |  | **Diagnose** |  |  |  | **1..1** |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |
-|  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  |
-| **87** |  |  |  | **X** |  |  |  |  |  |  |  |
-|  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** | 88 |  | x |  | ICD-10-Code   3..6 | 1..6  Dieses Feld enthält den ICD-10- | 93 |
-|  | x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |
-|  | x |  |  | Seitenlokalisation | Kodiert | 0..1 | Dieses Feld enthält die |  | 95 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |
-|  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  | **87** |
-|  | **X** |  |  |  |  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** |  | 88 |
-| x |  | ICD-10-Code | 3..6  1..6 | Dieses Feld enthält den ICD-10- | 93 |  | x | Diagnosesicherheit | Kodiert  0..1 | Dieses Feld gibt an, wie sicher | 94 |
-|  | x | Seitenlokalisation | Kodiert  0..1 | Dieses Feld enthält die | 95 |  | x | Version | 4  1..1 | Dieses Feld enthält die Version | 89 |
-| 85 |  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |
-| 86 |  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |
-|  | **87** |  |  |  | **X** |  |  |  |  |  |  |
-|  | **Diagnose** |  |  | **1..1** |  | **Dieser Block enthält AU-** |  | 88 |  | x |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85      x        Sonstige |
-| Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |  |  | x |  |  | Sonstige Maßnahmen Text |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |
-|  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  | **87** |  |
-| 85 |  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein | 86 |
-|  | x |  | Sonstige Maßnahmen Text  1..70 | 1..1  Dieses Feld enthält eine Angabe, |  | **87** |  | **X** |  |  |  |
-|  |  | **Diagnose** |  |  |  | **1..1** |  | **Dieser Block enthält AU-** |  |  | 88 |
-|  |  | x |  |  |  | ICD-10-Code | 3..6 | 1..6 | Dieses Feld enthält den ICD-10- |  | 93 |
-|  |  |  | x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |
-|  |  |  | x |  |  | Seitenlokalisation | Kodiert | 0..1 | Dieses Feld enthält die |  | 95 |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |
-|  | x |  | Sonstige Maßnahmen Text  1..70 | 1..1  Dieses Feld enthält eine Angabe, |  | **87** |  | **X** |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85      x |
-|  | Sonstige | Kodiert  0..1 | Dieses Feld beschreibt, ob ein | 86 |  | x | Sonstige Maßnahmen Text | 1..70  1..1 | Dieses Feld enthält eine Angabe, | **87** |  |
-|  | **X** |  |  |  |  |  |  |  |  |  | **Diagnose** |
-|  |  |  | **1..1** |  | **Dieser Block enthält AU-** |  |  | 88 |  |  | x |
-|  |  |  | ICD-10-Code | 3..6 | 1..6 | Dieses Feld enthält den ICD-10- |  | 93 |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-| x |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein | 86 |  |  | x | Sonstige Maßnahmen Text  1..70  1..1  Dieses Feld enthält eine Angabe,   **87 ** |
-|  | **X** |  |  |  |  |  |  |  |  |  | **Diagnose** |
-|  |  |  |  |  |  |  |  |  |  | 85 |  |
-| x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |  |
-| x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  | **87** |  |  |
-| **X** |  |  |  |  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** |  | 88 | x |
-|  |  |  | ICD-10-Code | 3..6 | 1..6 | Dieses Feld enthält den ICD-10- |  | 93 |  |  |  |
-| x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |  |
-| 85 |  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |
-| 86 |  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |
-|  | **87** |  |  |  | **X** |  |  |  |  |  |  |
-|  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** |  | 88 | x |  | ICD-10-Code | 3..6  1..6  Dieses Feld enthält den ICD-10- | 93 |
-|  | x |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher | 94 |  | x |  | Seitenlokalisation  Kodiert  0..1  Dieses Feld enthält die |
-| 85 |  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein | 86 |
-|  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  | **87** |
-|  |  |  | **X** |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |
-|  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  | **87** |  |
-|  |  | **X** |  |  |  |  |  |  |  |  |  |
-| **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** | 88 |  | x |  | ICD-10-Code   3..6 | 1..6  Dieses Feld enthält den ICD-10- | 93 |  |
-|  | x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |
-|  | x |  |  | Seitenlokalisation | Kodiert | 0..1 | Dieses Feld enthält die |  | 95 |  |  |
-|  | x |  |  | Version | 4 | 1..1 | Dieses Feld enthält die Version |  | 89 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |
-|  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  |
-| **87** |  |  |  | **X** |  |  |  |  |  |  |  |
-|  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** | 88 |  | x |  | ICD-10-Code   3..6 | 1..6  Dieses Feld enthält den ICD-10- | 93 |
-|  |  |  | x |  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |
-|  |  |  | x |  |  | Seitenlokalisation | Kodiert | 0..1 | Dieses Feld enthält die |  | 95 |
-|  |  |  | x |  |  | Version | 4 | 1..1 | Dieses Feld enthält die Version |  | 89 |
-|  | x |  | Diagnosetext  1..70 | 0..1  Dieses Feld enthält einen Text zur |  | **90** |  | **X** |  |  |  |
-|  |  | **Krankengeldfall** |  |  |  | **0..1** |  | **Dieser Block enthält für den** |  |  | 91 |
-|  |  | x |  |  |  | 7. AU-Woche | Bool | 0..1 | Dieses Feld gibt an, ob es sich |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |
-|  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  | **87** |  |
-| **X** |  |  |  |  |  |  |  |  |  | **Diagnose** |  |
-|  | **1..1** | **Dieser Block enthält AU-** | 88 |  | x |  | ICD-10-Code   3..6 | 1..6  Dieses Feld enthält den ICD-10- | 93 |  | x |
-|  |  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |  | x |
-|  |  | Seitenlokalisation | Kodiert | 0..1 | Dieses Feld enthält die |  | 95 |  |  |  | x |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |
-|  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  |
-| **87** |  |  |  | **X** |  |  |  |  |  |  |  |
-|  | **Diagnose** |  |  |  | **1..1** |  | **Dieser Block enthält AU-** |  |  | 88 | x |
-| 85 | x |  | Sonstige | Kodiert  0..1 | Dieses Feld beschreibt, ob ein | 86 |  | x | Sonstige Maßnahmen Text | 1..70  1..1 | Dieses Feld enthält eine Angabe, |
-|  | **87** |  |  |  | **X** |  |  |  |  |  |  |
-|  |  |  | **Diagnose** |  |  |  | **1..1** |  | **Dieser Block enthält AU-** | 88 |  |
-| x |  |  |  | ICD-10-Code | 3..6 | 1..6 | Dieses Feld enthält den ICD-10- |  | 93 |  | x |
-|  | Diagnosesicherheit | Kodiert | 0..1 | Dieses Feld gibt an, wie sicher |  | 94 |  |  |  | x |  |
-|  | Seitenlokalisation | Kodiert | 0..1 | Dieses Feld enthält die |  | 95 |  |  |  | x |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
-|  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  | 86 |  |
-|  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |  | **87 ** | **X** |
-|  |  |  |  |  |  |  |  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** |
 | 85 |  |  | x |  |  |  | Sonstige | Kodiert | 0..1 | Dieses Feld beschreibt, ob ein |  |
 | 86 |  |  |  | x |  |  | Sonstige Maßnahmen Text | 1..70 | 1..1 | Dieses Feld enthält eine Angabe, |  |
 | **87** |  | **X** |  |  |  |  | **Diagnose** |  | **1..1** | **Dieser Block enthält AU-** |  |
@@ -6991,7 +2691,6 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 | 89 |  |  | x |  |  |  | Diagnosetext | 1..70 | 0..1 | Dieses Feld enthält einen Text zur |  |
 | **90** |  | **X** |  |  |  |  | **Krankengeldfall** |  | **0..1** | **Dieser Block enthält für den** |  |
 | 91 |  |  | x |  |  |  | 7. AU-Woche | Bool | 0..1 | Dieses Feld gibt an, ob es sich |  |
-|  |  |  |  |  |  |  |  |  |  |  | 85 |
 
 SEITE 88 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
@@ -7001,175 +2700,8 @@ VERSION: 1.26 / 24. NOVEMBER 2025
 
 ---
 
-\| 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN | Arbeitsunfähigkeit oder sonstiger |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
-\| ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 | ID | 1 | 2 | 3 | 4 | 5 | 6 | FELDNAME | LÄNGE | WIE- | BESCHREIBUNG | BEDINGUNGEN |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-| Arbeitsunfähigkeit oder sonstiger |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Arbeitsunfähigkeit oder sonstiger |
 
 SEITE 89 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
@@ -7179,8 +2711,9 @@ SEITE 89 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
 ---
 
-\|  |  |
-| 9 |  |
+9 REFERENZIERTE DOKUMENTE
+
+|  |  |
 |---|---|
 | **Referenz** | **Dokument** |
 | FHIR® | FHIR-Spezifikation Release 4   http://hl7.org/fhir/R4/ |
@@ -7194,40 +2727,30 @@ SEITE 89 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 | EAU_Stylesheet_KK | Stylesheet zur Erzeugung der  https://update.kbv.de/ita- |
 | EAU_Stylesheet_AG | Stylesheet zur Erzeugung der  https://update.kbv.de/ita- |
 | EAU_Stylesheet_V | Stylesheet zur Erzeugung der  https://update.kbv.de/ita- |
-|  | **Referenz** |
-| **Dokument** | FHIR®  FHIR-Spezifikation Release 4   http://hl7.org/fhir/R4/ |
-|  | FHIR Releases and Versioning  FHIR |
-| Releases and Versioning | https://hl7.org/fhir/versions.html#versions |
-| eAU-FHIR-Profilen | https://simplifier.net/eau oder |
 
 SEITE 90 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
-REFERENZIERTE DOKUMENTE update/DigitaleMuster/eAU/  Telematikinfrastruktur (TI) gemILF_PS/ update/DigitaleMuster/FOR/Version_1.2/ Ärzte ckvereinbarung_digitale_Vordrucke.pdf Krankenkassenausfertigung.  update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zip Arbeitgeberausfertigung. update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zip Versichertenausfertigung. update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zipVERSION: 1.26 / 24. NOVEMBER 2025
+update/DigitaleMuster/eAU/  Telematikinfrastruktur (TI) gemILF_PS/ update/DigitaleMuster/FOR/Version_1.2/ Ärzte ckvereinbarung_digitale_Vordrucke.pdf Krankenkassenausfertigung.  update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zip Arbeitgeberausfertigung. update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zip Versichertenausfertigung. update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zipVERSION: 1.26 / 24. NOVEMBER 2025
 
 
 ---
 
-\|  | EAU_Stylesheet_Storno |
 |  |  |
 |---|---|
-| Stylesheet zur Visualisierung der Storno- https://update.kbv.de/ita- | SDICD |
-| ICD-Stammdatei der KBV | https://update.kbv.de/ita-    SDKT |
-| Kostenträgerstammdatei der KBV | https://update.kbv.de/ita-    KBV_ITA_VGEX_TECHNISCHES_HANDBUCH_BFB  Technisches Handbuch  https://update.kbv.de/ita- |
-| EHIC | https://update.kbv.de/ita- |
-|  | **Ansprechpartner: ** Dezernat Digitalisierung und IT |
-| IT in der Arztpraxis | Kassenärztliche Bundesvereinigung  www.kbv.de |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 | EAU_Stylesheet_Storno | Stylesheet zur Visualisierung der Storno- https://update.kbv.de/ita- |
 | SDICD | ICD-Stammdatei der KBV  https://update.kbv.de/ita- |
 | SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_TECHNISCHES_HANDBUCH_BFB | Technisches Handbuch  https://update.kbv.de/ita- |
 | EHIC | https://update.kbv.de/ita- |
 
+**Ansprechpartner:**
+
+Dezernat Digitalisierung und IT
+
+IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
+
+Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
+
 SEITE 91 VON 91 / KBV / TECHNISCHE ANLAGE ZUR EAU /
 
-Tel.: 030 4005-2077, ita@kbv.de  Herbert-Lewin-Platz 2, 10623 Berlin ita@kbv.de, Nachricht. update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zip update/Stammdateien/SDICD/ update/Stammdateien/SDKT/ Blankoformularbedruckung update/Blankoformulare/KBV_ITA_VGEX_T echnisches_Handbuch_BFB.pdf update/Abrechnung/EXT_ITA_AHEX_Erklae rung_EHIC_PEB.pdfVERSION: 1.26 / 24. NOVEMBER 2025
+Nachricht. update/DigitaleMuster/eAU/eAU_Styleshee t_V1.2.zip update/Stammdateien/SDICD/ update/Stammdateien/SDKT/ Blankoformularbedruckung update/Blankoformulare/KBV_ITA_VGEX_T echnisches_Handbuch_BFB.pdf update/Abrechnung/EXT_ITA_AHEX_Erklae rung_EHIC_PEB.pdfVERSION: 1.26 / 24. NOVEMBER 2025

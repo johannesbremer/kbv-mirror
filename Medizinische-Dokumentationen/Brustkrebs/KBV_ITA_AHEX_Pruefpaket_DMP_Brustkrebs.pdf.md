@@ -26,69 +26,31 @@ INHALT
 | 1.2 Zertifizierungsablauf | 6 |
 | 1.3 Zertifizierungsportal | 7 |
 | 1.4 Zertifizierungsdokumente | 7 |
-| 1.5 Prü fu nte rla gen | 7 |
-| 1.6 Prü fvorgaben | 9 |
-| 1.6.1 Prü fstam mdate n | 9 |
+| 1.5 Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 9 |
+| 1.6.1 Prüfstammdaten | 9 |
 | 1.6.2 Versichertendaten | 9 |
 | 1.6.3 Praxisdaten/ Arztstempel | 9 |
 | 1.6.4 Krankenhausdaten | 10 |
-| 1.6.5 Prü fn um mer | 10 |
+| 1.6.5 Prüfnummer | 10 |
 | 1.6.6 Stammdatei der Datenannahmestellen | (SDDA) 10 |
-| 1.6.7 Auflistung der Prü ffä lle | 10 |
+| 1.6.7 Auflistung der Prüffälle | 10 |
 
-**PRÜFFÄLLE**
-
-**11**
-
-2.1 Prüffälle Dokumentation
-
-11
-
-2.1.1 Prüffall 2612
-
-11
-
-2.1.2 Prüffall 2613
-
-14
-
-2.1.3 Prüffall 2614
-
-18
-
-2.1.4 Prüffall 2615
-
-21
-
-2.1.5 Prüffall 2616
-
-24
-
-2.1.6 Prüffall 2617
-
-27
-
-2.2 Prüffälle Systemreaktion
-
-30
-
-2.2.1 Prüffall 2618
-
-30
-
-2.2.2 Prüffall 2619
-
-32
-
-2.3 Weitere Prüffälle zum Anforderungskatalog 36
-
-2.3.1 Prüffall 2621
-
-36
-
-2.3.2 Prüffall 2640
-
-37
+| PRÜFFÄLLE |  |  | 11 |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 11 |
+| 2.1.1 | Prüffall | 2612 | 11 |
+| 2.1.2 | Prüffall | 2613 | 14 |
+| 2.1.3 | Prüffall | 2614 | 18 |
+| 2.1.4 | Prüffall | 2615 | 21 |
+| 2.1.5 | Prüffall | 2616 | 24 |
+| 2.1.6 | Prüffall | 2617 | 27 |
+| 2.2 Prüffälle |  | Systemreaktion | 30 |
+| 2.2.1 | Prüffall | 2618 | 30 |
+| 2.2.2 | Prüffall | 2619 | 32 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 36 |
+| 2.3.1 | Prüffall | 2621 | 36 |
+| 2.3.2 | Prüffall | 2640 | 37 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -111,7 +73,7 @@ Seite 2 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 /
 
 14. August 2026
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle Versichertendaten 1– Ersatzverfahren Versichertendaten 2– Ersatzverfahren 
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 2612 Prüffall 2613 Prüffall 2614 Prüffall 2615 Prüffall 2616 Prüffall 2617 Prüffälle Systemreaktion Prüffall 2618 Prüffall 2619 Weitere Prüffälle zum Anforderungskatalog Prüffall 2621 Prüffall 2640 Versichertendaten 1– Ersatzverfahren Versichertendaten 2– Ersatzverfahren 
 
 
 ---
@@ -130,6 +92,8 @@ Seite 3 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 20
 
 ---
 
+DOKUMENTENHISTORIE
+
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 4.29 | 14.08.2026 | KBV | Datumsanpassungen der    Überarbeitung Prüffall | Änderung der | Alle |
@@ -140,31 +104,18 @@ Seite 3 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 20
 | 4.24 | 28.02.2019 | KBV | redaktionelle Korrektur |  | Prüffall |
 | 4.23 | 26.07.2018 | KBV | Komplettüberarbeitung | Anpassung an  Beschluss GBA mit | Alle |
 | 4.21 | 12.03.2018 | KBV | Einreichung des Antrag | Anpassung des | Zertifizier |
-| DOKUMENTENHISTORIE |  |  |  |  |  |
-|  |  | 14.08.2026 | | | |
-|  |  |  |  | Änderung der | Alle |
-| 4.28 | 14.08.2024 | KBV | Anpassung an | Schnittstelle 4.25 |  |
 
 Seite 4 von 44 / KBV / Pruefpaket DMP-Brustkrebs
 
 / Version: 4.29 / 14. August 2026
 
-Prüffälle. Barcodeversion (03) ab 2640 01.10.2026 den Prüffällen. Überprüfung der alten den Prüffällen. Teilnahmeerklärung Testfalls zur Überprüfung der alten 4.21 wird nicht mehr unterstützt der Erstellung der Erstdokumentation im Prüffall 2617 Layouts Corporate Design von Prüffall 2612 2612 des Prüfpakets überarbeitete Plausibilitäten. Wirkung zum 01.10.2018 
+Prüffälle. 2640 Barcodeversion (03) ab 01.10.2026 den Prüffällen. Überprüfung der alten den Prüffällen. Teilnahmeerklärung Testfalls zur Überprüfung der alten 4.21 wird nicht mehr unterstützt der Erstellung der Erstdokumentation im Prüffall 2617 Layouts Corporate Design von Prüffall 2612 2612 des Prüfpakets überarbeitete Plausibilitäten. Wirkung zum 01.10.2018 
 
 
 ---
 
-|  |  |  |  |  |  |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  | 4.20 | 06.02.2018  KBV  Aufnahme eines Testfalls  Personalienfeldanpass |  |
-| 4.19 | 23.05.2017 | KBV | Komplettüberarbeitung  Aktualisierung der  Alle |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | auf Zertifizierung | Zertifizierungsportales | ungsablau | | | |
 | 4.20 | 06.02.2018 | KBV | Aufnahme eines Testfalls | Personalienfeldanpass |  |
 | 4.19 | 23.05.2017 | KBV | Komplettüberarbeitung | Aktualisierung der | Alle |
@@ -247,8 +198,7 @@ Seite 7 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 20
 
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 2640) müssen in  einem gesonderten Ordner „Dokumentation“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- _[lfdNr.]2 3
--  [PrüffallNr.]1
+- [PrüffallNr.]1_[lfdNr.]2 3
 - Teilnahmeerklärung (Prüffall 2640): TE_EWE_BK.pdf
 
 Alle Prüfunterlagen (BK-Unterlagen und der Ordner „Dokumentation“ übermitteln. Die BK-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert in  einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner „Dokumentation“  enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und wird ebenfalls direkt in  dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt werden:
@@ -405,9 +355,30 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 
 Seite 10 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2026 856215715
 
+
 ---
 
-PRÜFFÄLLE
+# PRÜFFÄLLE
+
+## 2.1 PRÜFFÄLLE DOKUMENTATION
+
+**2.1.1** **Prüffall 2612**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | › |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
+
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+- **1.** Versichertendaten:
+
+Die Versichertendaten von Eva Kluge (XML_03) einlesen und speichern.
+
+- **2.** Anlegen einer Erstdokumentation
 
 | DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS | |
 |---|---|
@@ -428,57 +399,16 @@ PRÜFFÄLLE
 | TNM-Klassifizierung | (p) Pathologisch (postoperativ) |
 | T | Tis |
 | N | 3 |
-| **2.1 2.1.1** |  |
-|  |  |
-|  | |
-| › |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  | › |
-|  |  |
-|  | |
-|  |  |
-|  | Die Versichertendaten von Eva Kluge (XML_03) einlesen und speichern. |
-|  |  |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | › |
-| **Testziel** | › |
-| **Voraussetzung** | › |
-| **Prüfunterlagen** | › |
-| **Hinweis** | › |
 
 Seite 11 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2026
 
-2612 Anlage einer Erst- und einer Verlaufsdokumentation Brustkrebs -Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION Prüffall 2612 Aktionen, die durch den Antragssteller durchgeführt werden: Versichertendaten: Anlegen einer Erstdokumentation Lymphknoten-Biopsie, Axilläre Lymphonodektomie, Anderes Vorgehen 
+2612 Anlage einer Erst- und einer Verlaufsdokumentation Brustkrebs -Dokumentationsunterlagen Lymphknoten-Biopsie, Axilläre Lymphonodektomie, Anderes Vorgehen 
 
 
 ---
 
-|  | |
-|---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
 | M | 0 |
+|---|---|
 | Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß | Positiv |
 | **Behandlung des Primärtumors / kontralateralen Brustkrebses** | |
 | Aktuelle adjuvante endokrine Therapie | Aromataseinhibitoren, Andere |
@@ -647,7 +577,7 @@ Immunreaktiver Score [IRS]) sofern die Absicht für eine spezifische medikament�
 | Empfehlung zu regelmäßigem körperlichen Training abgegeben | Nein |
 | Z. n. besonders kardiotoxischer Tumortherapie |  |
 
-- **4.**
+- **4.** **Anlegen einer Folgedokumentation**
 
 | DATEN ZUR FOLGEDOKUMENTATION BRUSTKREBS | |
 |---|---|
@@ -674,40 +604,33 @@ Immunreaktiver Score [IRS]) sofern die Absicht für eine spezifische medikament�
 | Z. n. besonders kardiotoxischer Tumortherapie | Nein |
 | **Behandlung bei fortgeschrittener Erkrankung (lokoregionäres Rezidiv / Fernmetastasen)** | |
 | Therapie bei Knochenmetastasen (Bisphosphonate) |  |
-| Therapie bei Knochenmetastasen (Denosumab) |  |
 
 Seite 17 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2026
 
-Anlegen einer Folgedokumentation sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund durchgeführt
+sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund durchgeführt
 
 ---
 
-|  | |
-|---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | **Aktionen, die durch den Antragssteller durchgeführt werden:** |
-|  | |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-| Halbjährlich oder häufiger |  |
-| 1,80 |  |
-| 065 |  |
-|  |  |
-| TNM-Klassifizierung | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
 | Therapie bei Knochenmetastasen (Denosumab) |  |
+|---|---|
+
+**2.1.3** **Prüffall 2614**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | › |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | › |
+| **Hinweis** | › |
+
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+- **1.** Versichertendaten:
+
+Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern.
+
+- **2.** Anlegen einer Erstdokumentation
 
 | DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS | |
 |---|---|
@@ -733,14 +656,7 @@ Anlegen einer Folgedokumentation sofern die Absicht für eine spezifische medika
 
 Seite 18 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2026
 
-2.1.3 Prüffall 2614 Prüffall-ID Testziel Voraussetzung Prüfunterlagen Hinweis 1. Versichertendaten: Die Versichertendaten von Monika Kleinjung (XML_08) einlesen und speichern. 2. Anlegen einer Erstdokumentation DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS Administrative Daten 2614 Anlage einer Erst- und einer Verlaufsdokumentation Brustkrebs -Dokumentationsunterlagen DMP-Fallnummer Krankenhaus-Institutionskennzeichen: Datum der Erstellung Dokumentationsintervall Körpergröße  Körpergewicht  Einschreibung Primärtumor Datum der histologischen Sicherung Kontralateraler Brustkrebs Datum der histologischen Sicherung Lokoregionäres Rezidiv Datum der histologischen Sicherung Fernmetastasen Datum der diagnostischen Sicherung von Fernmetastasen Anamnese und Behandlungsstatus des Primärtumors / kontralateralen Brustkrebses Operative Therapie Aktueller Befundstatus des Primärtumors / kontralateralen Brustkrebses Erstdokumentation PRF2614 856215715 15.10.2026  15.10.2024 28.08.2025  28.08.2023 02.01.2026   02.01.2024   |  |  |
-|---|---|
-| **Prüffall-ID** | › |
-| **Testziel** | › |
-| **Voraussetzung** | › |
-| **Prüfunterlagen** | › |
-| **Hinweis** | › |
-
+2614 Anlage einer Erst- und einer Verlaufsdokumentation Brustkrebs -Dokumentationsunterlagen
 
 ---
 
@@ -1127,6 +1043,14 @@ sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporo
 | **Prüfunterlagen** | **›** |
 | **Hinweis** | › |
 
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+- **1.** Versichertendaten:
+
+Die Versichertendaten von Eva Kluge (XML_03) einlesen und speichern.
+
+- **2.** Daten zur Erstdokumentation:
+
 |  | |
 |---|---|
 | **Szenario 1** | |
@@ -1142,30 +1066,10 @@ sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporo
 | Lokoregionäres Rezidiv Datum der histologischen Sicherung |  |
 | Fernmetastasen Datum der diagnostischen Sicherung von |  |
 |  |  |
-|  | |
-|  | |
-|  |  |
-| › |  |
-|  |  |
-|  |  |
-|  | Fernmetastasen Datum der diagnostischen Sicherung von |
-|  | |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 Seite 30 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2026
 
-2618 Nachfolgend sind verschiedene Einschreibekonstellationen aufgeführt, die alle unzulässig sind. Der Export solcher Erstdokumentationen ist nicht zulässig, die Einschreibung darf mit diesen Angaben nicht erfolgen. Datum der Erstellung: 15.10.2026  15.10.2024 Videodateien und ggf. Erläuterungen, wie das Softwaresystem die Eingabefehler verhindert Dieser Testfall ist unterteilt in fünf Szenarien Aktionen, die durch den Antragssteller durchgeführt werden: 1. Versichertendaten: Die Versichertendaten von Eva Kluge (XML_03) einlesen und speichern. 2. Daten zur Erstdokumentation:
+2618 Nachfolgend sind verschiedene Einschreibekonstellationen aufgeführt, die alle unzulässig sind. Der Export solcher Erstdokumentationen ist nicht zulässig, die Einschreibung darf mit diesen Angaben nicht erfolgen. Datum der Erstellung: 15.10.2026  15.10.2024 Videodateien und ggf. Erläuterungen, wie das Softwaresystem die Eingabefehler verhindert Dieser Testfall ist unterteilt in fünf Szenarien
 
 ---
 
@@ -1229,6 +1133,10 @@ Seite 31 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2
 | **Prüfunterlagen** | › |
 | **Hinweis** | › |
 
+**Aktionen, die durch den Antragssteller durchgeführt werden:**
+
+- **1.** Daten zur Erstdokumentation:
+
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Szenario 1** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1241,32 +1149,16 @@ Seite 31 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2
 | **Einschreibung** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Primärtumor Datum der  histologischen Sicherung | 01.08.2026  01.08.2024 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen  Brustkrebses** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Operative Therapie | OP geplant, Anderes Vorgehen |  | › |  |  |  |  |  |  | **Aktionen, die durch den Antragssteller durchgeführt werden:** |  | › |  |  | **1.** |  |  |  |  |  |  |  |  |  |  |  |  |  |  | › |  |  |  |  |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | › | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Operative Therapie | OP geplant, Anderes Vorgehen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Seite 32 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2026
 
-2619 Dieser Prüffall dient zur Kontrolle des korrekten Einsatzes des XPM-Pakets DMP Brustkrebs. Hier sind bewusst Fehleingaben vorgegeben, die durch das XPM- Paket erkannt werden. Eine elektronische Dokumentation ist für diesen Fall nicht einzureichen. Zur korrekten Bearbeitung genügt das Erfüllen der in Werden die Fehleingaben bereits softwareseitig erkannt, so müssen entsprechende Videos für alle Fehleingaben eingereicht werden. Werden die Fehleingaben ausschließlich durch das XPM erkannt und es existiert zu keiner der Fehleingaben eine softwareseitige Fehlererkennung, genügt das Bearbeiten einer Fehleingabe zur Erstdokumentation und einer Fehleingabe zur Folgedokumentation. Sollte dies zutreffen, so erwähnen Sie dies bitte in Ihrer Prüffalldokumentation. Die notwendigen Patientendaten sind frei wählbar und sollten wie auch die weiteren Dokumentationsdaten, bis auf die unten aufgeführten Fehleingaben, den Plausibilitäten entsprechen. Datum der Erstellung: 15.10.2026  15.10.2024 Videodateien und ggf. Erläuterungen, wie das Softwaresystem die Eingabefehler verhindert. Dieser Testfall ist unterteilt in zehn Szenarien Daten zur Erstdokumentation:
+2619 Dieser Prüffall dient zur Kontrolle des korrekten Einsatzes des XPM-Pakets DMP Brustkrebs. Hier sind bewusst Fehleingaben vorgegeben, die durch das XPM- Paket erkannt werden. Eine elektronische Dokumentation ist für diesen Fall nicht einzureichen. Zur korrekten Bearbeitung genügt das Erfüllen der in Werden die Fehleingaben bereits softwareseitig erkannt, so müssen entsprechende Videos für alle Fehleingaben eingereicht werden. Werden die Fehleingaben ausschließlich durch das XPM erkannt und es existiert zu keiner der Fehleingaben eine softwareseitige Fehlererkennung, genügt das Bearbeiten einer Fehleingabe zur Erstdokumentation und einer Fehleingabe zur Folgedokumentation. Sollte dies zutreffen, so erwähnen Sie dies bitte in Ihrer Prüffalldokumentation. Die notwendigen Patientendaten sind frei wählbar und sollten wie auch die weiteren Dokumentationsdaten, bis auf die unten aufgeführten Fehleingaben, den Plausibilitäten entsprechen. Datum der Erstellung: 15.10.2026  15.10.2024 Videodateien und ggf. Erläuterungen, wie das Softwaresystem die Eingabefehler verhindert. Dieser Testfall ist unterteilt in zehn Szenarien
 
 ---
 
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  |  | Operative Therapie | OP geplant | Aktueller Befundstatus des Primärtumors / kontralateralen  Brustkrebses |  | TNM-Klassifizierung | (p) Pathologisch (postoperativ) | M | 0, 1 | Szenario 4 | Einschreibung |  | Primärtumor Datum der histologischen Sicherung | 01.08.2026  01.08.2024 | Anamnese und Behandlungsstatus des Primärtumors / kontralateralen  Brustkrebses |  | Operative Therapie | OP geplant | Aktueller Befundstatus des Primärtumors / kontralateralen  Brustkrebses |  | M | 1 | Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß | Positiv | Behandlung des Primärtumors / kontralateralen Brustkrebses |  | Aktuelle adjuvante endokrine Therapie | Aromataseinhibitoren | Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie | stark belastend | Fortführung der adjuvanten endokrinen Therapie | Aktuell andauernd, seit weniger | Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, | Unauffällig |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-|  |  | Operative Therapie | OP geplant | **Aktueller Befundstatus des Primärtumors / kontralateralen  Brustkrebses** |  | TNM-Klassifizierung | (p) Pathologisch (postoperativ) | M | 0, 1 | **Szenario 4** | **Einschreibung** |  | Primärtumor Datum der histologischen Sicherung | 01.08.2026  01.08.2024 | **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen  Brustkrebses** |  | Operative Therapie | OP geplant | **Aktueller Befundstatus des Primärtumors / kontralateralen  Brustkrebses** |  | M | 1 | Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß | Positiv | **Behandlung des Primärtumors / kontralateralen Brustkrebses** |  | Aktuelle adjuvante endokrine Therapie | Aromataseinhibitoren | Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie | stark belastend | Fortführung der adjuvanten endokrinen Therapie | Aktuell andauernd, seit weniger | Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, | Unauffällig |
 |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **Szenario 3** | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | **Einschreibung** |  | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1419,7 +1311,13 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | **Prüfunterlagen** | › |
 | **Hinweis** |  |
 
-- 1.
+- 1. Versichertendaten:
+
+Viktoria Werner im Ersatzverfahren erfassen (Versichertendaten 2– Ersatzverfahren
+
+4.2)Versichertendaten 1– Ersatzverfahren
+
+- 2. Anlegen einer Erstdokumentation
 
 | DATEN ZUR ERSTDOKUMENTATION BRUSTKREBS | |
 |---|---|
@@ -1435,52 +1333,15 @@ Abbildung 4: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung
 | Fernmetastasen Datum der diagnostischen Sicherung von |  |
 | **Anamnese und Behandlungsstatus des Primärtumors / kontralateralen Brustkrebses** | |
 | Operative Therapie | BET, Mastektomie, Sentinel- |
-|  | |
-|  |  |
-|  | TDV2630 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-| Viktoria Werner im Ersatzverfahren erfassen ( | 4.2) |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  | Primärtumor Datum der histologischen Sicherung |
-
-- 2.
 
 Seite 39 von 44 / KBV / Pruefpaket DMP-Brustkrebs / Version: 4.29 / 14. August 2026
 
-Brustkrebs-Dokumentationsunterlagen 4.24  4.23 Versichertendaten: Versichertendaten 2– Ersatzverfahren Versichertendaten 1– Ersatzverfahren Anlegen einer Erstdokumentation Lymphknoten-Biopsie, Axilläre Lymphonodektomie
+Brustkrebs-Dokumentationsunterlagen 4.24  4.23 Lymphknoten-Biopsie, Axilläre Lymphonodektomie
 
 ---
 
-|  | |
+| Aktueller Befundstatus des Primärtumors / kontralateralen Brustkrebses | |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-| Anthrazykline (Doxorubicin, |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-| **Aktueller Befundstatus des Primärtumors / kontralateralen Brustkrebses** | |
 | TNM-Klassifizierung | (p) Pathologisch (postoperativ) |
 | T: | Tis |
 | N: | 3 |

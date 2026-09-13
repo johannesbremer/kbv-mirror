@@ -28,4 +28,4 @@ Bei ausgewählten Eingabefeldern sollen Ausfüllhinweise integriert werden.
 | 10. | Kombinierte Schwerhörigkeit | H90.6, H90.7, H90.8 |
 | 11a. / 11b. | Schweregrad der Hörstörung | Nach WHO 2001 (Grades of hearing impairment) |
 
-nung eines Hörgerätes / von Hörgeräten beim Säugling, Kleinkind oder Kind bei Schwerhörigkeit (entsprechend der GOP 20338). geräteversorgung beim Säugling, Kleinkind oder Kind (entsprechend der GOP 20339). (WHO 2001) (rechts / links) enten für Sie ggf. reidentifizierbar sein müssen. oder nach Ihrer Einschätzung
+nung eines Hörgerätes / von Hörgeräten beim Säugling, Kleinkind oder Kind bei Schwerhörigkeit (entsprechend der GOP 20338). geräteversorgung beim Säugling, Kleinkind oder Kind (entsprechend der GOP 20339). enten für Sie ggf. reidentifizierbar sein müssen. (WHO 2001) (rechts / links) oder nach Ihrer Einschätzung

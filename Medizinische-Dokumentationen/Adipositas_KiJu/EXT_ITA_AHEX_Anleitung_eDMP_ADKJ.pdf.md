@@ -160,11 +160,9 @@ Ausfüllanleitung DMP Adipositas Kinder und Jugendliche Version 1.0 Stand der Be
 
 **Genau eine Angabe** ist erforderlich und zulässig.
 
-Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihr Patient das Ernährungsverhalten individuellen Zielsetzung und Möglichkeiten geändert hat. Erfolgt  Erstdokumentation bezieht sie sich auf den Zeitraum vor der Einschreibung in das DMP, erfolgt die Angabe im  Rahmen einer Folgedokumentation bezieht sich Angabe rückblickend auf den Zeitraum bis zur letzten  Dokumentation.
+Bitte geben Sie „Ja“ an, wenn Ihre Patientin oder Ihr Patient das Ernährungsverhalten adäquat im Sinne der  individuellen Zielsetzung und Möglichkeiten geändert hat. Erfolgt die Angabe im Rahmen einer  Erstdokumentation bezieht sie sich auf den Zeitraum vor der Einschreibung in das DMP, erfolgt die Angabe im  Rahmen einer Folgedokumentation bezieht sich Angabe rückblickend auf den Zeitraum bis zur letzten  Dokumentation.
 
 Sollte Ihre Patientin oder Ihr Patient das Ernährungsverhalten nicht adäquat geändert haben, geben Sie bitte  die Antwort „Nein“ an.
-
-adäquat im Sinne der  die Angabe im Rahmen einer
 
 ## Schulung
 

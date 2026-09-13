@@ -111,7 +111,7 @@ Seite 5 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 | 3 | VORAUSSETZUNGEN | |
 |---|---|---|
-| Fü r die | Nutzung die | Schnittstelle wird die Authentisierung gemä ß [T S S_Auth] v o rau sgesetzt. |
+| Für die | Nutzung die | Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt. |
 | Seite 6 von | 11 / KBV / Spezifikation | 116117 Terminservice - Vermittlungscode |
 
 3 VORAUSSETZUNGEN Für die Nutzung die Schnittstelle wird die Authentisierung gemäß [TSS_Auth] vorausgesetzt.  / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
@@ -169,8 +169,6 @@ Anmerkung:
 
 - Weitere Anforderungen zum Aufbringen von Informationen sind in den folgenden Abschnitten speziell für  Muster 6 bzw. PTV11 definiert.
 
-Seite 8 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
-
 **ABBILDUNG IM SOFTWARE-SYSTEM**
 
 Das Software-System **MUSS** bei fehlgeschlagener Anforderung dem Anwender  eine entsprechende Fehlermeldung anzeigen. Folgende Informationen **MÜSSEN**  enthalten sein:
@@ -179,6 +177,8 @@ Das Software-System **MUSS** bei fehlgeschlagener Anforderung dem Anwender  eine
 - Fehlercode und Fehlertext
 
 Bei Auftreten der Fehler "VCA000" und "VCA001" **MUSS** in der Fehlermeldung  zusätzlich enthalten sein, dass der Anwender sein Software-Haus bzw. seinen  Vertriebs- und Servicepartner informieren sollte. Bei allen anderen Fehlern **DARF**  der Zusatz **NICHT** enthalten sein.
+
+Seite 8 von 11 / KBV / Spezifikation 116117 Terminservice - Vermittlungscode
 
 
 ---

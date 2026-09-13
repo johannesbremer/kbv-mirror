@@ -72,7 +72,7 @@
 
 **70** **für Maßnahmen zur künstlichen Befruchtung gemäß § 27a SGB V** **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
-### Indikation(en)I
+### Indikation(en) I
 
 **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung**
 
@@ -108,9 +108,9 @@
 
 **Der Behandlungs-/Kostenplan wird**
 
-**Zyklen/Zyklus genehmigt**
-
 **für maximal**
+
+**Zyklen/Zyklus genehmigt**
 
 **nicht genehmigt** **(separate Begründung** **anbei)**
 
@@ -120,9 +120,9 @@
 
 **Stempel und Unterschrift der Krankenkasse,**
 
-**Zyklen/Zyklus**
-
 **für maximal**
+
+**Zyklen/Zyklus**
 
 **nicht genehmigt** **(separate Begründung** **anbei)** **Ort**
 

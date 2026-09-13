@@ -224,11 +224,7 @@ vv.vv ......... VersionsNr. der Datentypbeschreibung;  Entspricht dem Element *<
 
 sender ...... Absender der Lieferung (nicht immer mit Erzeuger bzw. Erstlieferanten der Da-ten identisch) bzw. Antwort auf die Frage „Wer hat die Daten geliefert?“;  Entspricht dem Element  Elements *<provider>*
 
-oder dem Element *<organization>*
-
-*<person>*
-
-des Header-
+*<person>* oder dem Element *<organization>* des Header-
 
 MU+..…………Nummer des Musters
 
@@ -435,26 +431,24 @@ Der XML-Code für ein <feld> Element hat folgenden Aufbau:
 | <feld> |  |  |
 |---|---|---|
 |  | **<nummer** | **V="..."/>** |
-| **<name** | **V="..."/>** |  |
-|  | **<hinweistext** | **V=“ . . .“/>** |
+| **<name** |  | **V="..."/>** |
+|  | **<hinweistext** | **V=“...“/>** |
 | **</feld>** |  |  |
-
-**<nummer V="..."/>**
-
-**<name V="..."/>**
 
 **XML-Code 4:** feld
 
 KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
 
-<hinweistext V=“...“/> Seite 12 14von
+<nummer V="..."/>   <name V="..."/>   <hinweistext V=“...“/> Seite 12 14von
 
 
 ---
 
+**IT in der Arztpraxis**  Ausfüllhilfen
+
 ## 5.4 nummer
 
-Das Element <nummer> enthält im V- Attribut die Nummer des jeweils beschriebenen Feldes.  Diese Nummer bezeichnet die aus dem PDF-Dokument ersichtliche Feldnummer.
+Das Element <nummer> enthält im V- Diese Nummer bezeichnet die aus dem PDF-Dokument ersichtliche Feldnummer.
 
 **Abbildung 5:** nummer
 
@@ -465,9 +459,9 @@ Der XML-Code für ein <nummer> Element hat folgenden Aufbau:
 | XML-Code | 5: nummer |
 |---|---|
 | **5.5** | **name** |
-| Das | Element <name> enthä lt im V -Attribut den Namen des jeweiligen Feldes. |
+| Das | Element <name> enthält im V-Attribut den Namen des jeweiligen Feldes. |
 | **Abbildung** | **6:** name |
-| Der | XML-Code fü r e in < name> Element hat folgenden Aufbau: |
+| Der | XML-Code für ein <name> Element hat folgenden Aufbau: |
 
 ```
 **<name V="** **Zeitraum der Dauerbehandlung">**
@@ -477,19 +471,23 @@ Der XML-Code für ein <nummer> Element hat folgenden Aufbau:
 
 ## 5.6 hinweistext
 
-Das Element <hinweistext> enthält im V-eAttribut den Hinweistext für das beschrieben Feld.
+Das Element <hinweistext> enthält im V-e
 
 **Abbildung 7:** hinweistext
 
 Der XML-Code für ein <hinweistext> Element hat folgenden Aufbau:
 
-**<hinweistext V="** **Geben Sie hier bitte an, seit wann (TTMMJJ) der Versicherte sich in Dauerbe-** **handlung befindet. Eine**Dauerbehandlung** liegt vor, wenn der Versicherte mindestens ein Jahr**  **lang vor Ausstellen dieser Bescheinigung jeweils wenigstens einmal im Quartal wegen derselben**  **Erkrankung in Ärztlicher Behandlung war.">**
+**<hinweistext V="** **Geben Sie hier bitte an, seit wann (TTMMJJ) der Versicherte sich in Dauerbe-** **handlung befindet. Eine**Dauerbehandlung **lang vor Ausstellen dieser Bescheinigung jeweils wenigstens einmal im Quartal wegen derselben**  **Erkrankung in Ärztlicher Behandlung war.">**
 
 **XML-Code 7:** hinweistext
 
-**IT in der Arztpraxis**  Ausfüllhilfen
-
 KBV_ITA_VGEX_Ausfuellhilfen * Version 1.00
+
+Attribut die Nummer des jeweils beschriebenen Feldes.
+
+Attribut den Hinweistext für das beschrieben Feld.
+
+**liegt vor, wenn der Versicherte mindestens ein Jahr**
 
 XML-Code 5: 5.5 name Das Element <name> enthält im V-Attribut den Namen des jeweiligen Feldes. Abbildung 6: Der XML-Code für ein <name> Element hat folgenden Aufbau: Seite 13 14von
 

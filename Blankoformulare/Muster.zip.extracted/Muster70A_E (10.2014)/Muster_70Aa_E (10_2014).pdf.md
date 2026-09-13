@@ -66,7 +66,7 @@
 
 **sowie der ,,Richtlinien über künstliche Befruchtung" des** **Gemeinsamen Bundesausschusses für die hier genannten Ehegatten**
 
-### Indikation(en)I
+### Indikation(en) I
 
 **gemäß Nummern 11.1-11.5 der Richtlinien über künstliche Befruchtung**
 
@@ -100,17 +100,15 @@
 
 **Der Behandlungs-/Kostenplan wird**
 
-**Zyklen/Zyklus**
-
 **für maximal**
+
+**Zyklen/Zyklus**
 
 **verringern**
 
 **Genehmi-** **(ein-**
 
-**klinisch** **Ort**
-
-**haben,** **die**
+**klinisch** **haben,** **die Ort**
 
 **Kosten**
 
@@ -132,9 +130,9 @@
 
 **Der Barcode enthält keine auf dem Formular nicht lesbaren Daten.**
 
-**Zyklen/Zyklus**
-
 **für maximal**
+
+**Zyklen/Zyklus**
 
 **nicht genehmigt** **(separate Begründung** **anbei)** **Ort**
 

@@ -11,7 +11,7 @@
 
 ### L I Z E N Z B E S T I M M U N G E N
 
-| Version | Datum | Autor | Änderung | Begründung  kv.digital  Umfirmung KV Telematik GmbH | Seite |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.21L | 10.02.2020 | kv.digital | Umfirmung KV Telematik GmbH  Anpassung URL |  | Alle    68 |
 | 1.21L | 30.01.2019 | KV | Lizenzbestimmungen |  | 3 |
@@ -168,25 +168,48 @@ Seite 5 von 68
 
 ---
 
-| I N H A | L T S V E R | Z E I C H | N I S |
-|---|---|---|---|
-| **6** | **QUELLENVERWEISE** |  |  |
-| Schnittstellenbeschreibung | | Elektronische Sammelerklä | ru ng (e SE) |
+| I N H A | L T S V E R | Z E I C H N I S |
+|---|---|---|
+| **6** | **QUELLENVERWEISE** |  |
+| Schnittstellenbeschreibung | | Elektronische Sammelerklärung (eSE) |
 
-- **65**
+```
+-
+```
 
-Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE) Seite 6 von 68
+65 Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE) Seite 6 von 68
 
 
 ---
 
-\| Abbildung 1: |
+\| **A B B I L D U N G S V E R Z E I C H N I S** |
 \|---|
-\| Abbildung 2: |
-\| Abbildung 3:  Abbildung 4:  Abbildung 5:  Abbildung 6: |
-\| Abbildung 7: |
-\| Abbildung 8:  Abbildung 9:  Abbildung 10:  Abbildung 11:  Abbildung 12: |
-\| Abbildung 13: **A B B I L D U N G S V E R Z E I C H N I S** |
+
+Abbildung 1: /ehd (root-Element) ................................................................................... 13
+
+Abbildung 2: Aus ehd-header abgeleitetes ega-header ................................................. 14
+
+Abbildung 3: id ............................................................................................................... 15
+
+Abbildung 4: version_nbr ............................................................................................... 15
+
+Abbildung 5: document_type_cd .................................................................................... 16
+
+Abbildung 6: service_tmr ............................................................................................... 16
+
+Abbildung 7: origination_dttm ........................................................................................ 17
+
+Abbildung 8: intended_recipient ..................................................................................... 17
+
+Abbildung 9: organization .............................................................................................. 18
+
+Abbildung 10: organization.nm ........................................................................................ 18
+
+Abbildung 11: originator ................................................................................................... 19
+
+Abbildung 12: organization .............................................................................................. 19
+
+Abbildung 13: id ............................................................................................................... 20
 
 Abbildung 14: organization.nm ........................................................................................ 20
 
@@ -236,7 +259,7 @@ Abbildung 36: function_cd ......................................................
 
 Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
 
-/ehd (root-Element) ................................................................................... Aus ehd-header abgeleitetes ega-header ................................................. 14 id ............................................................................................................... 15 version_nbr ............................................................................................... 15 document_type_cd .................................................................................... 16 service_tmr ............................................................................................... 16 origination_dttm ........................................................................................ 17 intended_recipient ..................................................................................... 17 organization .............................................................................................. 18 organization.nm ........................................................................................ 18 originator ................................................................................................... 19 organization .............................................................................................. 19 id ............................................................................................................... 20 Seite 7 von 68
+Seite 7 von 68
 
 
 ---
@@ -286,64 +309,264 @@ Seite 8 von 68
 
 ---
 
-| Tabelle 1:  .............................. | Tabelle 2:  ............................................. | Tabelle 3:  .............................................................. | Tabelle 4  ..................................................................... | Tabelle 5:  ......................................................................  T A B E L L E N V E R Z E I C H N I S | Tabelle 6:  ............................................................. |
+|  |  |  |  | **T A B E L L E N V E R Z E I C H N I S** |  |
 |---|---|---|---|---|---|
-|  |  | **T A B E L L E N V E R Z E I C H N I S** |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+
+Tabelle 1:
+
+Tabelle 2:
+
+Tabelle 3:
+
+Tabelle 4
+
+Tabelle 5:
+
+Tabelle 6:
 
 Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
 
-Beschreibung der Kardinalitäten eines XML-Elements 12 Beschreibung der Strukturelement-Symbole 12 Beschreibung sonstiger Symbole 13 Erläuterungen zu <telecom> 22 Ausprägungen von <grund> 39 Ausprägungen von <function_cd> 41Seite 9 von 68
+Beschreibung der Kardinalitäten eines XML-Elements .............................. 12
+
+Beschreibung der Strukturelement-Symbole ............................................. 12
+
+Beschreibung sonstiger Symbole .............................................................. 13
+
+Erläuterungen zu <telecom> ..................................................................... 22
+
+Ausprägungen von <grund> ...................................................................... 39
+
+Ausprägungen von <function_cd> ............................................................. 41
+
+Seite 9 von 68
 
 
 ---
 
-| ...........................................................................................................    XML-Code 2: | ...............................................................................................................    XML-Code 3: | ...............................................................................................    XML-Code 4: | ...............................................................................................    XML-Code 5: | ...............................................................................................    XML-Code 6: | ........................................................................................    XML-Code 7: |
+|  |  |  | **X M L -** **C O D E -** **V E R Z E I C H N I S** |  |  |
 |---|---|---|---|---|---|
-| .....................    XML-Code 8: | .............................................................................................. |  | **X M L -** **C O D E -** **V E R Z E I C H N I S**  XML-Code 9: | ........................................................................................ | XML-Code 10: |
-| ...    XML-Code 11: | .............................................................................................. |  |  | XML-Code 12: | ............................................................................................................... |
-| XML-Code 13:  ........................................................................................ |  |  | XML-Code 14: | ................................................................................................ | .......... |
-| XML-Code 15:  ..................................................................................................... |  | XML-Code 16: | ................................................................................................ | ..... |  |
-| .......................................................................................................    XML-Code 18: | ................................................................................................ | ....... | XML-Code 19: | ............................................................................................ |  |
-| ............................................................................................................. | XML-Code 21: | ................................ | ....... |  | XML-Code 22: |
 
-XML-Code 23: organization .............................................................................................. 28
+XML-Code 1:
 
-XML-Code 24: body .......................................................................................................... 30
+XML-Code 2:
 
-XML-Code 25: fall_statistik ............................................................................................... 31
+XML-Code 3:
 
-XML-Code 26: titel ............................................................................................................ 33
+XML-Code 4:
 
-XML-Code 27: text_liste.................................................................................................... 33
+XML-Code 5:
 
-XML-Code 28: text ............................................................................................................ 33
+XML-Code 6:
 
-XML-Code 29: vertretungszeit_liste .................................................................................. 36
+XML-Code 7:
 
-XML-Code 30: bool_komplex ............................................................................................ 36
+XML-Code 8:
 
-XML-Code 31: Verzweigung „true“ im Entscheidungsbaum - komplex .............................. 37
+XML-Code 9:
 
-XML-Code 32: komplex .................................................................................................... 38
+XML-Code 10:
 
-XML-Code 33: grund ........................................................................................................ 38
+XML-Code 11:
 
-XML-Code 34: zeitraum_tmr ............................................................................................. 39
+XML-Code 12:
 
-XML-Code 35: provider (lokal) .......................................................................................... 40
+XML-Code 13:
 
-XML-Code 36: function_cd ............................................................................................... 41
+XML-Code 14:
 
-XML-Code 37: person (lokaler Typ) .................................................................................. 42
+XML-Code 15:
+
+XML-Code 16:
+
+XML-Code 17:
+
+XML-Code 18:
+
+XML-Code 19:
+
+XML-Code 20:
+
+XML-Code 21:
+
+XML-Code 22:
+
+XML-Code 23:
+
+XML-Code 24:
+
+XML-Code 25:
+
+XML-Code 26:
+
+XML-Code 27:
+
+XML-Code 28:
+
+XML-Code 29:
+
+XML-Code 30:
+
+XML-Code 31:
+
+XML-Code 32:
+
+XML-Code 33:
+
+XML-Code 34:
+
+XML-Code 35:
+
+XML-Code 36:
+
+XML-Code 37:
 
 Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
 
-XML-Code 1: /ehd id version_nbr version_nbr service_tmr origination_dttm 17 intended_recipient 17 organization organization.nm originator organization id 20 organization.nm 20 addr telecom provider 23 XML-Code 17: person 24 person 24 person_name 25 XML-Code 20: nm 26 local_header mit einem beliebigen Kindelement 26 organization (Betriebsstätte) 27Seite 10 von 68
+/ehd ...........................................................................................................
+
+id ...............................................................................................................
+
+version_nbr ...............................................................................................
+
+version_nbr ...............................................................................................
+
+service_tmr ...............................................................................................
+
+origination_dttm ........................................................................................
+
+intended_recipient ................................................................
+
+organization ..............................................................................................
+
+organization.nm ........................................................................................
+
+originator ................................................................................................
+
+organization ..............................................................................................
+
+id ...............................................................................................................
+
+organization.nm ........................................................................................
+
+addr ................................................................................................
+
+telecom ................................................................................................
+
+provider ................................................................................................
+
+person ................................................................................................
+
+person ................................................................................................
+
+person_name ............................................................................................
+
+nm .............................................................................................................
+
+local_header mit einem beliebigen Kindelement
+
+organization (Betriebsstätte) ................................................................
+
+organization ..............................................................................................
+
+body ................................................................................................
+
+fall_statistik ...............................................................................................
+
+titel ................................................................................................
+
+text_liste................................................................................................
+
+text ............................................................................................................
+
+vertretungszeit_liste ................................................................
+
+bool_komplex ............................................................................................
+
+Verzweigung „true“ im Entscheidungsbaum
+
+komplex ................................................................................................
+
+grund ................................................................................................
+
+zeitraum_tmr .............................................................................................
+
+provider (lokal) ..........................................................................................
+
+function_cd ...............................................................................................
+
+person (lokaler Typ) ..................................................................................
+
+13
+
+15
+
+15
+
+16
+
+16
+
+17
+
+..................... 17
+
+18
+
+18
+
+... 19
+
+19
+
+20
+
+20
+
+.......... 21
+
+..... 22
+
+..... 23
+
+....... 24
+
+....... 24
+
+25
+
+26
+
+....................................... 26 ..... 27
+
+28
+
+.......... 30
+
+31
+
+............ 33
+
+.... 33
+
+33
+
+.................. 36
+
+36
+
+- komplex .............................. 37 .... 38
+
+........ 38
+
+39
+
+40
+
+41
+
+42
+
+Seite 10 von 68
 
 
 ---
@@ -529,17 +752,13 @@ Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte
 
 **Tabelle 3:**
 
-# 3 ehd
-
-Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea der“ und „body“,  stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden die  eigentlichen Daten hinterlegt.
-
-Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
-
 Beschreibung sonstiger Symbole
 
-# Element (root-Element)
+# 3 ehd  Element (root-Element)
 
-wie es in Abbildung 1: /ehd (root-Element) dargestellt ist. Im header- Element
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Kindelemente „hea der“ und „body“, wie es in Abbildung 1: /ehd (root-Element) dargestellt ist. Im header- Element  stehen die spezifischen Informationen zur Schnittstelle. Im body-Element werden die  eigentlichen Daten hinterlegt.
+
+Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen Elementen,  die in diesem Dokument beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu  beachten.
 
 **Abbildung 1:** /ehd (root-Element)
 
@@ -592,7 +811,7 @@ Für die Beschreibung der Inhalte und deren Ausprägungen der header-Elemente wi
 
 Im Rahmen der ega-Schnittstelle werden im ega-Header folgende Elemente des ehd- Standards verwendet:
 
-**Abbildung 2:** Aus ehd-header abgeleitetes ega-header
+**Abbildung 2:**
 
 ***<id>***
 
@@ -600,7 +819,11 @@ ID zur eindeutigen Kennzeichnung des Dokuments. Bspw. durch Kombination  einer f
 
 ***<version_nbr>*** Beinhaltet die jeweilige Lieferungsnummer; relevant bei Korrekturlieferung o.ä.
 
-***<document_type_cd>*** Definiert die jeweilige Dokumentart (fix: eSE).
+***<document_type_cd>***
+
+Aus ehd-header abgeleitetes ega-header
+
+Definiert die jeweilige Dokumentart (fix: eSE).
 
 Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
 
@@ -635,21 +858,15 @@ Der XML-Code für das Element <id> hat folgenden Aufbau:
 
 **XML-Code 2:** id
 
-EX
+EX Laufende Nummer
 
-RT
+RT LANR
 
-RTV
+RTV optional: Versionsangabe
 
 ## 4.2 version_nbr (Lieferungsnummer)
 
 Das Element <version_nbr > enthält die Lieferungsnummer der Datenlieferung.
-
-Laufende Nummer
-
-LANR
-
-optional: Versionsangabe
 
 **Abbildung 4:** version_nbr
 
@@ -1243,9 +1460,7 @@ Seite 28 von 68
 
 ### 4.8.4.1 fachgruppenbezeichnung (Fachgruppenbezeichnung)
 
-Das Element <fachgruppenbezeichnung> wurde als lokale Erweiterung unter dem <lo- cal_header> definiert. Somit ist es möglich, die Person  penbezeichnung zu ergänzen, um insbesondere den Arztstempel vollständig nachbilden zu  können.
-
-„Arzt“ um eine individuelle Fachgrup
+Das Element <fachgruppenbezeichnung> wurde als lokale Erweiterung unter dem <lo- cal_header> definiert. Somit ist es möglich, die Person „Arzt“ um eine individuelle Fachgrup penbezeichnung zu ergänzen, um insbesondere den Arztstempel vollständig nachbilden zu  können.
 
 Die <fachgruppenbezeichnung> muss nicht zwingend mit dem Fachgruppennamen gemäß  Codierung Bundesarztregister übereinstimmen.
 
@@ -1265,6 +1480,18 @@ Der XML-Code für das Element <organization> hat folgenden Aufbau:
 
 **<ehd:addr>**
 
+</ehd:organization>
+
+**XML-Code 22:**
+
+***<id>***
+
+**</ehd:addr>**
+
+**<ehd:telecom V="Tel:022159708007"/>**
+
+EX
+
 **<ehd:STR V="Hahnenweg"/>**
 
 **<ehd:HNR V="4"/>**
@@ -1273,17 +1500,7 @@ Der XML-Code für das Element <organization> hat folgenden Aufbau:
 
 **<ehd:CTY V="Leverkusen"/>**
 
-**</ehd:addr>**
-
-**<ehd:telecom V="Tel:022159708007"/>**
-
-</ehd:organization>
-
-**XML-Code 22:** organization (Betriebsstätte)
-
-***<id>***
-
-EX
+organization (Betriebsstätte)
 
 Identifikator der Betriebsstätte, mit (N)BSNR
 
@@ -1679,6 +1896,12 @@ Im nachfolgenden Code-Beispiel wird die gesamte Struktur beispielhaft dargestell
 
 **<FAM V="Tester2"/>**
 
+**</nm>**
+
+**</person_name>**
+
+**</person>**
+
 **</provider>**
 
 **</zeitraum>**
@@ -1688,12 +1911,6 @@ Im nachfolgenden Code-Beispiel wird die gesamte Struktur beispielhaft dargestell
 **<zeitraum_tmr V="2004-01-31..2004-02-15"/>**
 
 **<provider>**
-
-**</nm>**
-
-**</person_name>**
-
-**</person>**
 
 **<person>**
 
@@ -1992,7 +2209,7 @@ Das Element <person> ist vom ehd-Typ soweit für die lokale Verwendung eingeschr
 
 Schnittstellenbeschreibung Elektronische Sammelerklärung (eSE)
 
-delnden Arzt; spiegelt im aktuellen Kontext den Arzt wieder, der vertre- ten wurde (Default) Vertreter-Arzt Seite 43 von 68
+delnden Arzt; spiegelt im aktuellen Kontext den Arzt wieder, der vertre- ten wurde Vertreter-Arzt (Default) Seite 43 von 68
 
 
 ---
@@ -2060,13 +2277,11 @@ Seite 44 von 68
 
 ---
 
-**Abbildung 38:**
+**Abbildung 38: schliesszeit_liste**
 
 Der XML-Code für das Element <schliesszeit_liste> hat folgenden beispielhaften Aufbau:
 
 **<schliesszeit_liste>**
-
-**schliesszeit_liste**
 
 **<titel V="Schließzeiten"/>**
 
@@ -3080,19 +3295,17 @@ Seite 63 von 68
 
 ***<titel>***
 
-***<text_liste>***
-
-***<bool_komplex>***
-
-Zur näheren Beschreibung der Kindelemente sei auf die Kapitel  wiesen.
-
-Formularbeispiel:
-
 Thematische Einordnung des Sachverhaltes
+
+***<text_liste>***
 
 Erläuterung/Beschreibung des Sachverhaltes mittels Kombinationsmög- lichkeit mehrerer Textbausteine (Meta-Information)
 
-Entscheidungsbaum zur Bestätigung / Ablehnung, optional mit Angabe  eines Providers 5.1.1 5.1.2 und 5.8.1.1 ver-
+***<bool_komplex>*** Entscheidungsbaum zur Bestätigung / Ablehnung, optional mit Angabe  eines Providers
+
+Zur näheren Beschreibung der Kindelemente sei auf die Kapitel 5.1.1 5.1.2 und 5.8.1.1 ver- wiesen.
+
+Formularbeispiel:
 
 Quelle: Sammelerklärung KVNO, Stand 2009
 

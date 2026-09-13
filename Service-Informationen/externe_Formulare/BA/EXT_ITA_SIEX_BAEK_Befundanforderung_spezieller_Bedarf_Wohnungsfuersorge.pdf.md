@@ -10,17 +10,9 @@ Patient/in befindet sich seit
 
 # Letzte Behandlung am
 
-# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im  Rahmen der Wohnungsfürsorge nach § 22 SGB II):
-
 regelmäßig
 
-# Aktuelle Beschwerden:
-
-# Sofern zutreffend – je nach Fragestellung im Anschreiben:
-
-# Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der  Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?)?
-
-AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21. 12
+# Relevante Diagnose(n) in Bezug auf die im Anschreiben genannte Fragestellung (Spezieller Bedarf im  Rahmen der Wohnungsfürsorge nach § 22 SGB II):
 
 BGL-Nummer:
 
@@ -29,6 +21,14 @@ gelegentlich
 # 17 12.2021
 
 nicht in meiner Behandlung
+
+# Aktuelle Beschwerden:
+
+# Sofern zutreffend – je nach Fragestellung im Anschreiben:
+
+# Liegen aus ärztlicher Sicht Gründe vor, weshalb der Verbleib in der bisherigen Wohnung zwingend  erforderlich ist (z.B. Könnte durch einen Umzug die Erkrankung deutlich verschlechtert werden? Ist der  Wechsel in eine andere Wohnumgebung gesundheitlich nicht zumutbar?)?
+
+AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21. 12
 
 
 ---
@@ -82,9 +82,9 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | = | __________  €  ________  € |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | =  = | __________  €     __ |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
+| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: | **32,50 €** | = | **€** |
 | Portokosten: |  | = | **€** |
 | **Gesamtsumme:** |  | = | **€** |
 |  |  |  |  |
@@ -99,4 +99,4 @@ AM 6-ÄD – 1900.8_Befundbericht_BÄK_spezieller_Bedarf_Wohnungsfürsorge_21.07
 \| BIC: |
 \| Bank/Sparkasse: |
 
-für die ersten 50 Seiten für jede weitere Seite     32,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

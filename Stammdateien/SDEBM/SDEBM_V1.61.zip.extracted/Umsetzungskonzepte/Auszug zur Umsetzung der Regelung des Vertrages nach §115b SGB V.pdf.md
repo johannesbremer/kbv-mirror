@@ -127,18 +127,13 @@ Die anderen Leistungen des Abschnitts 2, die immer in Kombination mit dem OPS st
 
 Die GNR des Abschnitts 3 der Anlage 1 zum Vertrag nach § 115b SGB V sind im Rahmen  des Vertrages nach § 115b SGB V berechnungsfähig und ausschließlich als Leistung im  Rahmen des Vertrages nach § 115b SGB V einzustufen. Zu diesen GNR sind keine OPS-Codes existent.
 
-Zur Kennzeichnung dieser Gebührennummern in der Gebührenordnungsstammdatei ist an  der Stelle //gnr/bedingung das Element <aop_115b V="true"/> eingefügt worden. Alle Gebührennummern, die in diesem V-Attribut den Wert  sind generell nach § 115b SGB V abzurechnen. Gebührennummern die dieses Element nicht  haben und auch mit keinem 115b-fähigen OPS verknüpft sind, lösen keinen Fall nach § 115b  SGB V aus.
+Zur Kennzeichnung dieser Gebührennummern in der Gebührenordnungsstammdatei ist an  der Stelle //gnr/bedingung das Element <aop_115b V="true"/> (mit einem V-Attribut)  eingefügt worden. Alle Gebührennummern, die in diesem V-Attribut den Wert true enthalten,  sind generell nach § 115b SGB V abzurechnen. Gebührennummern die dieses Element nicht  haben und auch mit keinem 115b-fähigen OPS verknüpft sind, lösen keinen Fall nach § 115b  SGB V aus.
 
 Diese Änderung in der Schnittstelle ist im folgenden Ausschnitt der Gebührenordnungs-stammdatei zu erkennen (fett dargestellt).
 
 ```
 <gnr V="XXXXX" USE="74" USE-DOMAIN="1.2.276.0.76.5.233" VT="2006-09-18">
 <allgemein>  ...
-```
-
-(mit einem V-Attribut)  true enthalten,
-
-```
 </allgemein>
 <bedingung>  **aop_115b V="true"/>**
 <genehmigungspflicht V="true"/>  <gnr_zusatzangaben>  <gnr_zusatzangaben_liste V="AUSWAHL">  <gnr_zusatzangabe V="5035" S="1.2.276.0.76.5.229" SV="1.03"/>
@@ -153,15 +148,9 @@ Da außerhalb des Kapitels 31 des EBM keine Systematik der prä-, intra- und pos
 
 Hierzu kann die KBV nur die notwendigen Strukturen innerhalb der GO-Stammdatei bereit-stellen. Die Auswahl der zulässigen Begleitleistungen muss durch die KV erfolgen.
 
-In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/kv/kennzeichen das Element <begleit_115b V ist in diesem Fall von den KVen mit dem zulässigen Wert zu füllen. Sollte das V-Attribut den  Wert true enthalten, so besteht im Weiteren auch die Möglichkeit im Element
+In der Gebührenordnungsstammdatei kann für diese Leistungen im Bereich  //gnr/kv/kennzeichen das Element <begleit_115b V="…"> verwendet werden. Es  ist in diesem Fall von den KVen mit dem zulässigen Wert zu füllen. Sollte das V-Attribut den  Wert true enthalten, so besteht im Weiteren auch die Möglichkeit im Element <op_typ
 
 G:\Dezernat3\0S\§§\115b\2007\2007-06-15 RS_D3_70_VIII_04_2007_Umsetzung der Regelung des Vertrages nach § 115b  SGB V_Anlage.doc
-
-="…"> verwendet werden. Es
-
-```
-<op_typ
-```
 
 Seite 8 von 10
 

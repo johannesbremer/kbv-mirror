@@ -161,43 +161,31 @@ Begleitdatei V1.0 5 von 10
 
 <bsnr V=" "/> <testdaten V=" "/> <lieferungs_zeitpunkt V=" "/>
 
-<dokumenten_typ V=" "/> <quartal V=" "/> <vollstaendig V=" "/>
-
-<anhang V=" "/> </einlieferung>
+<dokumenten_typ V=" "/> <quartal V=" "/> <vollstaendig V=" "/> <anhang V=" "/> </einlieferung>
 
 Abbildung: Grundgerüst Begleitdatei 2.1.1 Das Element version
 
 Dieses Element beinhaltet eine fortlaufende Nummer, um die vom Absender gewollte Reihenfolge der  Datenpakete beim Empfänger nachvollziehen zu können, d.h. neue Daten von ersetzenden Daten  (Korrekturlieferung) zu unterscheiden.
 
-Das Element hat den Datentyp "
+Das Element hat den Datentyp " positiv integer " und muss genau einmal vorhanden sein. Die
 
-Versionsnummern beginnen mit "
+Versionsnummern beginnen mit " 1 ". Im V-Attribut wird der Elementinhalt übertragen.
 
-Die Versionsnummer wird ergänzend zum Element  können. Für jede Korrekturlieferung ist die Versionsnummer hochzuzählen.
+Die Versionsnummer wird ergänzend zum Element guid genutzt, um Korrekturlieferungen unterscheiden zu  können. Für jede Korrekturlieferung ist die Versionsnummer hochzuzählen.
 
 2.1.2 Das Element guid
 
 Dieses Element beinhaltet einen Globally Unique Identifier. Es muss gemäß der [GUID gefüllt werden.
 
-Das Element hat den Datentyp " Elementinhalt übertragen.
+Das Element hat den Datentyp " string " und muss genau einmal vorhanden sein. Im V-Attribut wird der  Elementinhalt übertragen.
 
-Der GUID wird gemeinsam mit dem Element  Datenpaketen unterscheiden zu können.
+Der GUID wird gemeinsam mit dem Element version verwendet, um neue Datenpakete von ersetzenden  Datenpaketen unterscheiden zu können.
 
 #### GUID-Generierung
 
 Für die Datenlieferungen ist es notwendig, neue Daten von ersetzenden (korrigierenden) Daten zu  unterscheiden. [Das Software-System muss für jede Datenlieferung eine GUID gemäß Definition [http://de.wikipedia.org/wiki/](http://de.wikipedia.org/wiki/Globally_Unique_Identifier) [Globally_Unique_Identifier] generieren. Es wird eine 32-Zeichen-kodierte hexadezimale Zeichenkette mit](http://de.wikipedia.org/wiki/Globally_Unique_Identifier)
 
 Seite
-
-positiv integer " und muss genau einmal vorhanden sein. Die
-
-1 ". Im V-Attribut wird der Elementinhalt übertragen.
-
-guid genutzt, um Korrekturlieferungen unterscheiden zu
-
-string " und muss genau einmal vorhanden sein. Im V-Attribut wird der
-
-version verwendet, um neue Datenpakete von ersetzenden
 
 Begleitdatei V1.0 (UUID) Definition
 
@@ -206,9 +194,11 @@ Begleitdatei V1.0 (UUID) Definition
 
 ---
 
+Begleitdatei V1.0
+
 Gruppentrennern in der Form *XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX* erwartet.
 
-Erstmalige Datenlieferungen im Quartal – inkl. Ergänzungen – sind mit einer  Korrekturlieferungen sind mit der GUID zu versehen, die schon für die ursprüngliche Lieferung  verwendet wurde.
+Erstmalige Datenlieferungen im Quartal – inkl. Ergänzungen – sind mit einer *neuen* GUID zu versehen. Korrekturlieferungen sind mit der GUID zu versehen, die schon für die ursprüngliche Lieferung  verwendet wurde.
 
 Die GUID wird gemeinsam mit der Versionsnummer verwendet, um Korrekturlieferungen unterscheiden zu  können.
 
@@ -244,18 +234,12 @@ Dieses Element beinhaltet das Quartal, auf das sich das übermittelte Datenpaket
 
 Das Element hat den Datentyp " string " als Basis und ist durch ein Pattern eingeschränkt: 6-stellig, Format  JJJJ-Q. Es muss genau einmal vorhanden sein. Im V-Attribut wird der Elementinhalt übertragen.
 
-Seite
-
-Begleitdatei V1.0
-
-*neuen* GUID zu versehen.
-
-7 von 10
+Seite 7 von 10
 
 
 ---
 
-2.1.8 Das Element vollstaendig
+Begleitdatei V1.0 2.1.8 Das Element vollstaendig
 
 Das Element gibt an, ob das Datenpaket vollständig ist oder weitere Datenpakete vom Absender versendet  werden.
 
@@ -282,11 +266,11 @@ Die im Folgenden genannten Anforderungen sind dementsprechend von denjenigen Sof
 
 **[BGD0810]**
 
-Das Software-System **MUSS** für jedes geliefertes Datenpaket einen GUID gemäß [GUID]
+Das Software-System **MUSS** für jedes geliefertes Datenpaket einen GUID gemäß [GUID] generieren.
 
 Anmerkungen:
 
-Die erste Lieferung eines Datenpakets im Quartal ist mit einem neuen GUID zu versehen. Lieferungen eines ersetzenden Datenpakets sind mit der *dem* GUID zu versehen, die  erste (ursprüngliche) Lieferung verwendet wurde.
+Die erste Lieferung eines Datenpakets im Quartal ist mit einem neuen GUID zu versehen. Lieferungen eines ersetzenden Datenpakets sind mit der *dem* GUID zu versehen, die *der* schon für die  erste (ursprüngliche) Lieferung verwendet wurde.
 
 **[BGD0811]**
 
@@ -294,13 +278,7 @@ Das Software-System **MUSS** die Betriebs- (BSNR) oder Nebenbetriebsstättennumm
 
 **[BGD0812]**
 
-Seite
-
-Begleitdatei V1.0
-
-generieren.
-
-*der* schon für die 8 von 10
+Seite 8 von 10
 
 
 ---

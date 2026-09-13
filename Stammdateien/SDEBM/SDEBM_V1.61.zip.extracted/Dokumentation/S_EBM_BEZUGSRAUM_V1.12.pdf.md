@@ -2,11 +2,11 @@
 
 ## S_EBM_BEZUGSRAUM
 
-OID:
+OID: 1.2.276.0.76.5.226
 
-Version:
+Version: 1.12
 
-gültig ab:
+gültig ab: 01.07.2026
 
 **Code**
 
@@ -46,11 +46,7 @@ gültig ab:
 
 25
 
-Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM 1.2.276.0.76.5.226
-
-1.12
-
-01.07.2026
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_EBM_BEZUGSRAUM
 
 **Bezeichnung**
 

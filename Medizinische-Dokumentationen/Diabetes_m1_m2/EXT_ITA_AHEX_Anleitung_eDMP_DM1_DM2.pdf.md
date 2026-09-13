@@ -392,7 +392,7 @@ Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 9
 
 ---
 
-Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte  letzter Dokumentation keine Schulung empfohlen“ an.
+Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben Sie bitte „Bei  letzter Dokumentation keine Schulung empfohlen“ an.
 
 Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss Ihrer Patientin oder Ihres Patienten aus dem Programm.
 
@@ -408,11 +408,11 @@ Unter Berücksichtigung der Gesamtsituation Ihrer Patientin oder Ihres Patienten
 
 Mindestens eine Angabe ist verpflichtend. Mehrfachnennungen sind möglich.
 
-Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich rückblickend auf den  Zeitraum seit der letzten Dokumentation, und sind daher  **Folgedokumentation** möglich und verpflichtend. Eine Netzhautuntersuchung ist in Mydriasis in  Abhängigkeit vom Risikoprofil ein- oder zweijährlich durchzuführen.
+Die Angaben zur Netzhautuntersuchung beziehen sich ausschließlich rückblickend auf den  Zeitraum seit der letzten Dokumentation, und sind daher nur im Rahmen einer  **Folgedokumentation** möglich und verpflichtend. Eine Netzhautuntersuchung ist in Mydriasis in  Abhängigkeit vom Risikoprofil ein- oder zweijährlich durchzuführen.
 
 Bei Kindern und Jugendlichen mit Diabetes mellitus Typ 1 soll die Untersuchung nach fünf Jahren  Diabetesdauer, frühestens ab dem 11. Lebensjahr erfolgen.
 
-Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation  durchgeführt“ oder von Ihnen „Veranlasst wurde.
+Geben Sie bitte an, ob die Untersuchung seit der letzten Dokumentation “Durchgeführt“, „Nicht  durchgeführt“ oder von Ihnen „Veranlasst wurde.
 
 #### Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung
 
@@ -422,19 +422,9 @@ Eine Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifiz
 
 Die Angabe „Ja“ soll erfolgen, wenn eine Behandlung in einer für das Diabetische Fußsyndrom  qualifizierte Einrichtung erfolgt oder, wenn Sie selbst zur Gruppe der für das Diabetische  Fußsyndrom qualifizierten Ärztinnen oder Ärzte gehören und Ihre Patientin oder Ihren Patienten  daher nicht überweisen, sondern selber behandeln.
 
-Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte mit „Veranlasst“
+Sollten Sie aufgrund des Vorliegens eines Diabetischen Fußsyndroms für Ihre Patientin oder Ihren  Patienten eine Behandlung bzw. Mitbehandlung in einer für das Diabetische Fußsyndrom  qualifizierten Einrichtung veranlasst haben, geben Sie dies bitte mit „Veranlasst“ an.
 
-Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026
-
-„Bei
-
-nur im Rahmen einer
-
-“Durchgeführt“, „Nicht
-
-an.
-
-10
+Ausfüllanleitung Diabetes mellitus Typ 1 und 2, Version 8.0; Stand 22.01.2026 10
 
 
 ---

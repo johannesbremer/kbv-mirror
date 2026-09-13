@@ -112,7 +112,7 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der Technischen Anlage   [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen  Arbeitsbescheinigungen erfüllt sind.
+Der Antragsteller versichert, dass alle Pflichtfunktionen der Technischen Anlage  [KBV_ITA_VGEX_Technische_Anlage_eAU] für die Übermittlung von elektronischen  Arbeitsbescheinigungen erfüllt sind.
 
 **2.1** **REALISIERTE OPTIONALE FUNKTIONEN EAU**
 
@@ -234,6 +234,8 @@ Seite 7 von 8 / KBV / Antrag auf Zertifizierung eAU / Version: 1.2 / 15. Mai 202
 
 ---
 
+Antragssteller:
+
 Ort, Datum
 
 **Ansprechpartner:**
@@ -245,8 +247,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de), www.kbv.de
 
 Seite 8 von 8 / KBV / Antrag auf Zertifizierung eAU / Version: 1.2 / 15. Mai 2024
-
-Antragssteller:
 
 Unterschrift
 

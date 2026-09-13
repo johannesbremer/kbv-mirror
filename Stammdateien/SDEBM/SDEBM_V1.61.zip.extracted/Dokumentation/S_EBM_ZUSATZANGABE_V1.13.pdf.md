@@ -2,11 +2,11 @@
 
 ## S_EBM_ZUSATZANGABE
 
-OID:
+OID: 1.2.276.0.76.5.229
 
-Version:
+Version: 1.13
 
-gültig ab:
+gültig ab: 01.07.2026
 
 **Code**
 
@@ -29,12 +29,6 @@ gültig ab:
 5011
 
 5012
-
-1.2.276.0.76.5.229
-
-1.13
-
-01.07.2026
 
 5013
 

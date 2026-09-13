@@ -2,11 +2,11 @@
 
 ## S_VDX_VERTRAGSART
 
-OID:
+OID: 1.2.276.0.76.5.257
 
-Version:
+Version: 1.23
 
-gültig ab:
+gültig ab: 01.10.2025
 
 **Code**
 
@@ -29,12 +29,6 @@ gültig ab:
 23
 
 24
-
-1.2.276.0.76.5.257
-
-1.23
-
-01.10.2025
 
 25
 

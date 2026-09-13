@@ -43,9 +43,7 @@ Bitte geben Sie „Ja“ an, wenn bei Ihrer Patientin oder Ihrem Patienten **sei
 
 Sollte seit der letzten Dokumentation keine osteoporosebedingte Fraktur eingetreten sein, ge-ben Sie dies bitte mit „Nein“ an. Bitte geben Sie ebenfalls „Nein“ an, wenn zwar eine Fraktur  vorlag, diese aber aller Wahrscheinlichkeit nach, nicht im Zusammenhang mit der Osteoporose  steht. In diesen Fällen ist eine Angabe zu „Lokalisation der osteoporosebedingten Fraktur“ nicht  erforderlich.
 
-2
-
-Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021 2
 
 
 ---
@@ -78,9 +76,7 @@ Das DMP Osteoporose soll unter anderem dazu beitragen, durch die Vermeidung von 
 
 Geben Sie in diesem Feld bitte die **Anzahl aller Stürze** rückblickend seit der letzten Dokumen-tation an. Dabei liegt es im Ermessen Ihrer Patientin bzw. Ihres Patienten und Ihnen, welche  Stürze als anamnestisch relevant zu bewerten sind. Trat seit der letzten Dokumentation kein  Sturz auf, geben Sie bitte eine „0“ an. Eine Angabe. kleiner als „0“ und größer als „99“ ist nicht  möglich.
 
-3
-
-Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021 3
 
 
 ---
@@ -119,9 +115,7 @@ Wenn Sie Ihrer Patientin oder Ihrem Patienten aufgrund eines erhöhten Sturzrisi
 
 Besteht bei Ihrer Patientin oder Ihrem Patienten trotz bereits empfohlener Sturzprophylaxemaß-nahme weiterhin ein erhöhtes Sturzrisikos, sprechen Sie die Empfehlung zur Teilnahme an ei-ner Sturzprophylaxemaßnahme erneut aus und geben ebenfalls „Ja“ an.
 
-4
-
-Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021 4
 
 
 ---
@@ -158,9 +152,9 @@ Antiresorptive Therapie:
 
 - Bisphophonate: Alendronat, Risedronat, Zoledronat, Ibandronat
 - Denosumab
-- selektiver Östrogenrezeptor-Modulator (SERM): Raloxifen 5
+- selektiver Östrogenrezeptor-Modulator (SERM): Raloxifen
 
-Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021 5
 
 
 ---
@@ -195,9 +189,7 @@ Wurde die osteoporosespezifische medikamentöse Therapie regulär „Nach drei J
 
 **Besteht aktuell** eine osteoporosespezifsche medikamentöse Therapie, geben Sie bitte an, ob  sie „Aktuell andauernd, seit weniger als drei Jahren“ oder „Aktuell andauernd, Fortführung über  drei Jahre hinaus“ erfolgt.
 
-6
-
-Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021 6
 
 
 ---
@@ -239,9 +231,7 @@ Die Angaben zur Schulung beziehen sich hier ausschließlich rückblickend auf ei
 
 Bei der Erstdokumentation ist hier keine Angabe möglich.
 
-7
-
-Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021 7
 
 
 ---
@@ -258,6 +248,4 @@ Sollten Sie bei der letzten Dokumentation keine Schulung empfohlen haben, geben 
 
 Die Angaben „Ja“, „War aktuell nicht möglich“ und „Bei letzter Dokumentation keine Schulung  empfohlen“ führen nicht zum Ausschluss der Patientin oder des Patienten aus dem Programm.
 
-8
-
-Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021
+Ausfüllanleitung Osteoporose, Version 1.0; Stand: 07.06.05.2021 8

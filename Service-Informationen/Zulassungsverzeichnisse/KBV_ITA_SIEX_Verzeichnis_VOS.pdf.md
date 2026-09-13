@@ -1,14 +1,14 @@
 # VERZEICHNIS ZERTIFIZIERTER SOFTWARE
 
-**FÜR DIE VERORDNUNGSSOFTWARE-**
+**FÜR DIE VERORDNUNGSSOFTWARE-** **SCHNITTSTELLE GEMÄß § 291D ABSATZ 1A**
 
-# SCHNITTSTELLE GEMÄß § 291D ABSATZ 1A SATZ 1 NR. 1 SGB V
+# SATZ 1 NR. 1 SGB V
 
 ## IT IN DER ARZTPRAXIS
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**05. SEPTEMBER 2026**
+**12. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -32,15 +32,23 @@
 
 55128 Mainz Internet: www.apw-wiegand.de
 
-|  | Y/70/2407/36/078 | 30.06.2027 | B1-Schnittstelle |  |
-|---|---|---|---|---|
-|  | Y/70/2411/36/332 | 31.10.2027 | B1-Schnittstelle |  |
+**Med7**
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
+**Bitron GmbH Technologiesysteme** Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de
+
+**Z1**
+
+**CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
+
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
 
 Y/70/2312/36/031 30.11.2026
 
 Y/70/2401/36/081 31.12.2026
+
+|  | Y/70/2407/36/078 | 30.06.2027 | B1-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2411/36/332 | 31.10.2027 | B1-Schnittstelle |  |
 
 B1-Schnittstelle
 
@@ -48,7 +56,11 @@ B1-Schnittstelle
 
 iOS/Android Linux Mac OS Windows
 
-Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de Z1 CompuGroup Medical Dentalsysteme GmbH Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -66,19 +78,33 @@ Med7 Bitron GmbH Technologiesysteme Bürgeler Str. 18 A 63075 Offenbach am Main 
 
 **CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-|  | Y/70/2311/36/023 | 31.10.2026 | B1-Schnittstelle |  |
-|---|---|---|---|---|
-|  | Y/70/2311/36/252 | 31.10.2026 | B1-Schnittstelle |  |
+**DATA VITAL**
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
+**CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
+
+**CGM M1 PRO**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
+
+Softwarevariante(n): - CGM M1 PRO NEXT
+
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
 
 Y/70/2311/36/112 31.10.2026 B1-Schnittstelle
 
 Y/70/2311/36/203 31.10.2026 B1-Schnittstelle
 
+|  | Y/70/2311/36/023 | 31.10.2026 | B1-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2311/36/252 | 31.10.2026 | B1-Schnittstelle |  |
+
 Windows
 
-DATA VITAL CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT Linux WindowsWindows
+Windows
+
+Linux
+
+Windows
 
 
 ---
@@ -98,15 +124,25 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-|  | Y/70/2409/36/238 | 31.08.2027 | B1-Schnittstelle |  |
-|---|---|---|---|---|
-|  | Y/70/2311/36/488 | 31.10.2026 | B1-Schnittstelle |  |
+**InterMediNet**
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
+**DBI Informatik, Dirk Blume**
+
+Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
+
+**inSuite**
+
+**Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
+
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
 
 Y/70/2311/36/280 31.10.2026
 
 Y/70/2312/36/060 30.11.2026
+
+|  | Y/70/2409/36/238 | 31.08.2027 | B1-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2311/36/488 | 31.10.2026 | B1-Schnittstelle |  |
 
 B1-Schnittstelle
 
@@ -114,7 +150,11 @@ B1-Schnittstelle
 
 Windows
 
-InterMediNet DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de inSuite Doc Cirrus GmbH Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com Windows Linux Mac OS Sonstige WindowsWindows
+Windows
+
+Windows
+
+Linux Mac OS Sonstige Windows
 
 
 ---
@@ -132,21 +172,33 @@ InterMediNet DBI Informatik, Dirk Blume Tieberg 7 31191 Algermissen Internet: ww
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-|  | Y/70/2311/36/253 | 31.10.2026 | B1-Schnittstelle |  |
-|---|---|---|---|---|
-|  | Y/70/2312/36/223 | 30.11.2026 | B1-Schnittstelle |  |
+**PsychoDat**
+
+**ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
+
+**INDICATION**
+
+**ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
 
 Y/70/2410/36/602
 
 Y/70/2311/36/295
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026 30.09.2027 B1-Schnittstelle
+|  | Y/70/2311/36/253 | 31.10.2026 | B1-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2312/36/223 | 30.11.2026 | B1-Schnittstelle |  |
+
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026 30.09.2027 B1-Schnittstelle
 
 31.10.2026 B1-Schnittstelle
 
 Linux
 
-PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com Windows WindowsLinux Mac OS Windows
+Linux Mac OS Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -164,21 +216,35 @@ PsychoDat ergosoft GmbH Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.erg
 
 **Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
+**QUINCY WIN**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
+
+**Elefant**
+
+**HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
+
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+
+Y/70/2312/36/421
+
+Y/70/2408/36/034
+
 |  | Y/70/2311/36/244 | 31.10.2026 | B1-Schnittstelle |  |
 |---|---|---|---|---|
 |  | Y/70/2311/36/298 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
-
-Y/70/2312/36/421
-
-Y/70/2408/36/034 30.11.2026 B1-Schnittstelle
+30.11.2026 B1-Schnittstelle
 
 31.07.2027 B1-Schnittstelle
 
 Windows
 
-QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -204,7 +270,7 @@ QUINCY WIN Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet
 
 **KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
 
 Y/70/2311/36/660 31.10.2026 B2-Schnittstelle
 
@@ -240,19 +306,35 @@ Windows
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
+**x.comfort**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+**medatixx**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+Softwarevariante(n): - psyx
+
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+
+Y/70/2310/36/385 30.09.2026 B1-Schnittstelle
+
+Y/70/2311/36/243
+
 |  | Y/70/2311/36/266 | 31.10.2026 | B1-Schnittstelle |  |
 |---|---|---|---|---|
 |  | Y/70/2310/36/462 | 30.09.2026 | B1-Schnittstelle |  |
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
-
-Y/70/2310/36/385 30.09.2026 B1-Schnittstelle
-
-Y/70/2311/36/243 31.10.2026 B1-Schnittstelle
+31.10.2026 B1-Schnittstelle
 
 Windows
 
-x.comfort medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -266,15 +348,29 @@ x.comfort medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.med
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
+**eRIS**
+
+**medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
+
+**MEDVISION**
+
+**MedVision AG** Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de
+
+Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
+
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+
+Y/70/2311/36/641 31.10.2026 B2-Schnittstelle
+
 |  | Y/70/2403/36/439 | 28.02.2027 | B1-Schnittstelle |  |
 |---|---|---|---|---|
 |  | Y/70/2312/36/251 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
+Windows
 
-Y/70/2311/36/641 31.10.2026 B2-Schnittstelle
+Windows
 
-eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de MEDVISION MedVision AG Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ Windows WindowsWindows
+Windows
 
 
 ---
@@ -292,21 +388,35 @@ eRIS medavis GmbH Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de MEDV
 
 **Neutz GmbH Systemhaus** Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net
 
+**SMARTY**
+
+**New Media Company GmbH & Co. KG** Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
+
+**NEXUS RIS**
+
+**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
+
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+
+Y/70/2312/36/276
+
+Y/70/2311/36/043
+
 |  | Y/70/2312/36/299 | 30.11.2026 | B1-Schnittstelle |  |
 |---|---|---|---|---|
 |  | Y/70/2410/36/487 | 30.09.2027 | B1-Schnittstelle |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
-
-Y/70/2312/36/276
-
-Y/70/2311/36/043 30.11.2026 B1-Schnittstelle
+30.11.2026 B1-Schnittstelle
 
 31.10.2026 B1-Schnittstelle
 
 Windows
 
-SMARTY New Media Company GmbH & Co. KG Königstraße 7 26180 Rastede Internet: www.newmediacompany.de NEXUS RIS NEXUS / CHILI GmbH Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: https://www.nexus-chili.com Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -324,21 +434,33 @@ SMARTY New Media Company GmbH & Co. KG Königstraße 7 26180 Rastede Internet: w
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-|  | Y/70/2402/36/348 | 31.01.2027 | B1-Schnittstelle |  |
-|---|---|---|---|---|
-|  | Y/70/2311/36/456 | 31.10.2026 | B1-Schnittstelle |  |
+**psyprax**
+
+**psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
+
+**RED medical classic**
+
+**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
 Y/70/2401/36/083
 
 Y/70/2402/36/247
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026 31.12.2026 B1-Schnittstelle
+|  | Y/70/2402/36/348 | 31.01.2027 | B1-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2311/36/456 | 31.10.2026 | B1-Schnittstelle |  |
+
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026 31.12.2026 B1-Schnittstelle
 
 31.01.2027 B1-Schnittstelle
 
 Windows
 
-psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psyprax.de RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+Windows
+
+Windows
+
+iOS/Android Linux Mac OS Sonstige Windows
 
 
 ---
@@ -350,45 +472,45 @@ psyprax psyprax GmbH Landsberger Straße 308 80687 München Internet: www.psypra
 
 **RED Medical**
 
-**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
+**RED Medical Systems GmbH** Lutzstraße 2
+
+Y/70/2312/36/626 80687 München Internet: www.REDMEDICAL.DE
 
 **S3-Win**
 
-**S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
+**S3 Praxiscomputer GmbH / Maximilian** **Flender**
+
+Y/70/2310/36/261 Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
 **QMED.PRAXIS**
 
-**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
+**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26
+
+Y/70/2310/36/230 30175 Hannover Internet: www.q-med.de
 
 **principa**
 
 **SIEGELE Software GmbH**
 
-Wehrgasse 28/3+4 A-1050 Wien
+Y/70/2312/36/458 Wehrgasse 28/3+4
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026
+iOS/Android Linux 30.11.2026 B1-Schnittstelle
 
-Y/70/2312/36/626
+Mac OS Sonstige Windows
 
-Y/70/2310/36/261
+Sonstige 30.09.2026 B1-Schnittstelle
 
-Y/70/2310/36/230
-
-Y/70/2312/36/458 30.11.2026 B1-Schnittstelle
-
-30.09.2026 B1-Schnittstelle
-
-30.09.2026 B1-Schnittstelle
-
-B1-Schnittstelle 30.11.2026 B2-Schnittstelle
-
-iOS/Android Linux Mac OS Sonstige Windows
-
-Sonstige Windows
+Windows 30.09.2026 B1-Schnittstelle
 
 Windows
 
-Linux Windows
+B1-Schnittstelle
+
+Linux 30.11.2026 B2-Schnittstelle
+
+Windows A-1050 Wien
+
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
 
 
 ---
@@ -406,18 +528,30 @@ Linux Windows
 
 **UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
 
-|  | Y/70/2406/36/672 | 31.05.2027 | B2-Schnittstelle |  |
-|---|---|---|---|---|
-|  | Y/70/2312/36/457 | 30.11.2026 | B1-Schnittstelle |  |
+**data4doc**
+
+**Vidal MMI Germany GmbH** Monzastraße 4 63225 Langen Internet: www.mmi.de
+
+**tomedo**
+
+**Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
 Y/70/2312/36/498
 
 Y/70/2312/36/313
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 05. September 2026 30.11.2026 B1-Schnittstelle
+|  | Y/70/2406/36/672 | 31.05.2027 | B2-Schnittstelle |  |
+|---|---|---|---|---|
+|  | Y/70/2312/36/457 | 30.11.2026 | B1-Schnittstelle |  |
+
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026 30.11.2026 B1-Schnittstelle
 
 30.11.2026 B1-Schnittstelle
 
 iOS/Android Linux Mac OS Windows
 
-data4doc Vidal MMI Germany GmbH Monzastraße 4 63225 Langen Internet: www.mmi.de tomedo Zollsoft GmbH Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de Windows Mac OSWindows
+Windows
+
+Windows
+
+Mac OS

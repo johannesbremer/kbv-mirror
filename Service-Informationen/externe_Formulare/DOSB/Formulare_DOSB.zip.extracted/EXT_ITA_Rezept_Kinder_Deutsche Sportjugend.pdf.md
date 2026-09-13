@@ -45,11 +45,9 @@ Soviel  wie möglich
 
 **Kleinkinder**
 
-***≥ 180***
+**Kindergarten-** ***≥ 180*** **kinder**
 
-**Kindergarten-** Minuten
-
-**kinder**
+Minuten
 
 pro Tag
 

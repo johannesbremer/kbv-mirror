@@ -113,11 +113,12 @@ Folgende optionale eDMP Adipositas-Kinder und Jugendliche Funktionen sind gem. A
 |  |  |
 |  |  |
 
-Seite 4 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar  2026
-
 Antragssteller:
 
-der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
+Seite 4 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar
+
+der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht. Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind. 2026
+
 
 ---
 
@@ -192,9 +193,9 @@ und Jugendliche Rezertifizierung 2026
 - (4) Der Antragsteller versichert mit seiner Unterschrift die Richtigkeit und Vollständigkeit der in diesem  Antrag aufgeführten Aussagen.
 - (5) Der Antragsteller wird unter Nennung des Zertifizierungsgegenstandes und weiterer hersteller- und  zertifizierungsbezogener Informationen in den Zulassungslisten der KBV veröffentlicht.
 
-Seite 7 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar  2026
-
 Antragssteller:
+
+Seite 7 von 8 / KBV / Antrag auf Zertifizierung eDMP-Adipositas-Kinder und Jugendliche / Version: 1.0 / 13. Februar 2026
 
 
 ---

@@ -25,17 +25,14 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4**
 
-**3 PRÜFVORGABEN**
-
-**4** 3.1 Prüfstammdateien 4 3.2 Versichertendaten
-
-4 3.2.1.1 [XML_49]
-
-5 3.2.1.2 [XML_48]
-
-5 3.3 Praxisdaten
-
-6 3.4 XPM-Prüfmodul und Verschlüsselung 6
+| 3 | PRÜFVORGABEN | 4 |
+|---|---|---|
+| 3.1 | Prüfstammdateien | 4 |
+| 3.2 | Versichertendaten | 4 |
+|  | 3.2.1.1 [XML_49] | 5 |
+|  | 3.2.1.2 [XML_48] | 5 |
+| 3.3 | Praxisdaten | 6 |
+| 3.4 | XPM-Prüfmodul und Verschlüsselung | 6 |
 
 **4 PRÜFFÄLLE**
 
@@ -56,9 +53,12 @@ DOKUMENTENHISTORIE
 | 1.1 | 16.10.2024 | KBV | Aktualisierungen | - | Alle |
 | 1.0 | 17.09.2024 | KBV | Neues Dokument | Initiale Erstellung | Alle |
 
+- Änderung der Vorgaben in  Pruffall 1 und 2
+- Löschung von Prüffall 3
+
 Seite 3 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
-Änderung der Vorgaben in Pruffall 1 und 2  Löschung von Prüffall 3 korrigiert
+korrigiert
 
 ---
 
@@ -253,4 +253,4 @@ Prüfunterlagen Leistungserbringung Vertragsarztes/
 
 Seite 10 von 10 / KBV / Prüfpaket KVDT Hybrid-DRG / Version: 1.5 / 13. Januar 2025
 
-Prüfunterlagen Leistungserbringung Vertragsarztes/Vertragspsychotherapeut
+Leistungserbringung Vertragsarztes/Vertragspsychotherapeut Prüfunterlagen

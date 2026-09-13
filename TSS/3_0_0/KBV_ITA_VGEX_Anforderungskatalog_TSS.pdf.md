@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **BUNDESVEREINIGUNG    DEZERNAT DIGITALISIERUNG UND IT  19. DEZEMBER 2024   VERSION: 3.0.0   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  19. DEZEMBER 2024   VERSION: 3.0.0   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANFORDERUNGSKATALOG  TERMINSERVICE
@@ -13,7 +13,7 @@
 
 Seite 1 von 16 / KBV / Anforderungskatalog Terminservice / Version: 3.0.0 / 19. Dezember 2024
 
-KASSENÄRZTLICHE IT IN DER ARZTPRAXIS   
+BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
 ---
@@ -123,7 +123,7 @@ Seite 5 von 16 / KBV / Anforderungskatalog Terminservice / Version: 3.0.0 / 19. 
 
 | PFLICHTFUNKTION |  |
 |---|---|
-| **P2-01** | Basis von KV-Connect |
+| **P2-01** | Umsetzung der Terminservicestellen-Schnittstelle zur Anforderung von Vermittlungscodes auf |
 
 Die Software muss dem Anwender die Funktionen des eTerminservices auf Basis von KV-Connect  bereitstellen, um Vermittlungscodes vom 116117 Terminservice anfordern zu können.
 
@@ -170,7 +170,7 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 Seite 6 von 16 / KBV / Anforderungskatalog Terminservice / Version: 3.0.0 / 19. Dezember 2024
 
-Umsetzung der Terminservicestellen-Schnittstelle zur Anforderung von Vermittlungscodes auf AUDITS DER KV.DIGITAL GMBH. PFLICHTFUNKTION 
+Basis von KV-Connect  AUDITS DER KV.DIGITAL GMBH. PFLICHTFUNKTION 
 
 
 ---
@@ -189,15 +189,12 @@ Um dem Patienten sowie dem empfangenden Arzt den Vermittlungscode mitzuteilen, m
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die zurückgegebenen Werte für den Vermittlungscode und URL des  [Terminservices mit Angabe der Internetadresse des eTerminservice (](http://www.116117.de/) [bundesweit einheitlichen Rufnummer 116117 des Ärztlichen Notdiensts Bereitschaftsdienstes in die](http://www.116117.de/) erste Zeile des Feldes „Auftrag“ auf Muster 6 drucken.
-- a.  Sollte die erste Zeile des Feldes „Auftrag“ für die Bedr nachfolgenden Zeilen verwendet werden.
+- 1. Die Software muss die zurückgegebenen Werte für den Vermittlungscode und URL des  [Terminservices mit Angabe der Internetadresse des eTerminservice (](http://www.116117.de/)[www.116117.de](http://www.116117.de/)[) sowie die](http://www.116117.de/) [bundesweit einheitlichen Rufnummer 116117 des Ärztlichen Notdiensts Bereitschaftsdienstes in die](http://www.116117.de/) erste Zeile des Feldes „Auftrag“ auf Muster 6 drucken.
+- a.  Sollte die erste Zeile des Feldes „Auftrag“ für die Bedruckung nicht ausreichen, können die  nachfolgenden Zeilen verwendet werden.
 
 **Beispiel:**
 
 Zu 1.
-
-- [www.116117.de](http://www.116117.de/)[) sowie die](http://www.116117.de/)
-- uckung nicht ausreichen, können die
 
 **HINWEIS**
 

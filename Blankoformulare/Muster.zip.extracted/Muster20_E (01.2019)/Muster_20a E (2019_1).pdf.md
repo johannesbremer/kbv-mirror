@@ -58,16 +58,6 @@ Datum
 
 Datum
 
-Vertragsarztstempel / Unterschrift des Arztes
-
-Unterschrift des Versicherten
-
-Stempel und Unterschrift des Arbeitgebers
-
-PRF.NR.
-
-Muster 20a/E (1.2019)
-
 **20**
 
 Stunden
@@ -77,3 +67,13 @@ täglich
 Stunden
 
 täglich
+
+Vertragsarztstempel / Unterschrift des Arztes
+
+Unterschrift des Versicherten
+
+Stempel und Unterschrift des Arbeitgebers
+
+PRF.NR.
+
+Muster 20a/E (1.2019)

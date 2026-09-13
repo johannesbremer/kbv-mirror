@@ -41,7 +41,7 @@ KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
 
 **U** **M** **E** **N** **T** **E** **N** **H** **I** **S** **T** **O** **R** **I** **E**
 
-QSHGVK und QSMG aktuali- siert QSHGV, QSKE und QSHLT aktualisiert aktualisiert  ADMP und ZervixZyto aktuali- siert und QSHGVK aktualisiert QSKE und QSHLT aktualisiert ADMP und ZervixZyto aktuali- siert Systemvoraus- setzungen der Kommandozeile im Beispiel Anpassungen bzgl. des geänderten Dateiformates bzgl. neuen QSKE und QSHLT steller entfallen erwartet Softwareher-Seite 2 von 33
+QSHGV, QSHGVK und QSMG aktuali- siert QSKE und QSHLT aktualisiert aktualisiert  ADMP und ZervixZyto aktuali- siert und QSHGVK aktualisiert QSKE und QSHLT aktualisiert ADMP und ZervixZyto aktuali- siert Systemvoraus- setzungen der Kommandozeile im Beispiel Anpassungen bzgl. des geänderten Dateiformates bzgl. neuen QSKE und QSHLT steller entfallen erwartet Softwareher-Seite 2 von 33
 
 
 ---
@@ -427,11 +427,9 @@ Seite 13 von 33
 
 ### Erläuterung zum Dateifilter:
 
-### Der Dateifilter des Modus ‚Verschluesselung’ übernimmt als Input eine Datei beliebigen Na-
+### Der Dateifilter des Modus ‚Verschluesselung’ übernimmt als
 
-mens (Platzhalter ’*’) und hängt nach erfolgter Verschlüsselung das Suffix ‚.XKM’ an. Bei der  Entschlüsselung wird das angehängte Suffix wieder entfernt, so dass der ursprüngliche Datei-
-
-### name wiederhergestellt wird.
+mens (Platzhalter ’*’) und hängt nach erfolgter Verschlüsselung das Suffix ‚.XKM’ an. Bei der  Entschlüsselung wird das angehängte Suffix wieder entfernt, so dass der ursprüngliche Datei-name wiederhergestellt wird.
 
 Bei der ‚DMP_Verschluesselung’ werden dagegen nur Dateien mit der Endung ‚.zip’ akzep-tiert, die dann in Dateien mit der Endung ‚.zip.XKM’ umgewandelt werden. Bei der
 
@@ -465,7 +463,7 @@ Ab XKM Version 1.14 gibt es die Möglichkeit, bei Entschlüsselungen in vordefin
 
 ### 3.2.2 Benutzerdefinierte Arbeitsmodi
 
-### Benutzerdefinierte Arbeitsmodi werden in der XML-Datei schluessel.xml beschrieben. Ein bei-
+### Benutzerdefinierte Arbeitsmodi werden in der XML-Datei
 
 spielhafter Inhalt für je einen Verschlüsselungs- und einen Entschlüsselungsmodus:
 
@@ -495,6 +493,10 @@ spielhafter Inhalt für je einen Verschlüsselungs- und einen Entschlüsselungsm
 
 KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
 
+Input eine Datei beliebigen Na-
+
+### schluessel.xml beschrieben. Ein bei-
+
 Seite 14 von 33
 
 
@@ -510,9 +512,7 @@ der Installation im Unterverzeichnis ’Konfig’.
 
 ### Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem
 
-angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass  keinerlei Anpassungen nötig sind. Als Trennzeichen für Verzeichnisse wird das Zeichen ‚/’  verwendet. Diese Voreinstellung erlaubt die Nutzung gleicher Konfigurationsdateien auf ver-schiedenen Betriebssystemen (Windows, Unix, Linux, ...). Relative Pfadangaben werden als
-
-### relativ zum Installationsverzeichnis betrachtet.
+angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass  keinerlei Anpassungen nötig sind. Als Trennzeichen für Verzeichnisse wird das Zeichen ‚/’  verwendet. Diese Voreinstellung erlaubt die Nutzung gleicher Konfigurationsdateien auf ver-schiedenen Betriebssystemen (Windows, Unix, Linux, ...). Relative Pfadangaben werden als  relativ zum Installationsverzeichnis betrachtet.
 
 ### Der Inhalt einer kompletten config.xml-Datei könnte zum Beispiel wie folgt aussehen:
 
@@ -553,7 +553,7 @@ Seite 15 von 33
 
 ---
 
-**IT in der Arztpraxis** Handbuch KBV-
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 **3.3.1** **Konfigurationsschalter**
 
@@ -570,8 +570,6 @@ Seite 15 von 33
 | Schluesselpfad | Pfadangabe | Verzeichnisname für die Ablage von |
 | Schluesseldatei | Dateiangabe | Name der Datei für benutzerdefinierte |
 | Pruefinfo | Dateiangabe | Optionale Angabe eines Kommunika- |
-
-Kryptomodul XKM
 
 KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
 
@@ -591,15 +589,15 @@ DMP_Entschluesselung Abrechnungs_Entschluesselung ADMP_Entschluesselung TEST_Ent
 | BearbeitetEntschlues- | Pfadangabe | Ablage für Dateien, die im Servermo- |
 | Temp | Pfadangabe | Ablage für temporäre Daten, die wäh- |
 
-**Tabelle 5: Konfigurationsschalter**
-
 ## 3.4 Arbeiten im Kommandozeilenmodus
 
 Das XKM kann mithilfe von Kommandozeileparametern gesteuert werden, welche die in der  Konfigurations-XML (‚config.xml’) definierten Schalter überschreiben. Bitte beachten Sie, dass  bei einem Aufruf in der Windows-Konsole systembedingt maximal 9 Übergabeparameter mög-lich sind.
 
 KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
 
-mierung nimum von 1000. vordefiniert: selt selt oder ‚TEMP’ lenden  Dateien fest. mit grafischer Oberfläche der Dialog zum Anpassen der Konfiguration auf- gerufen werden darf.  rechnungsverschluesselung’ au- tomatische Komprimierung aktiviert wird. Voreingestellt ist dus erfolgreich verschlüsselt wurden dus erfolgreich entschlüsselt wurden. rend der Verarbeitung durch das XKM erzeugt werden. Bei Angabe ‚TEMP’ das nutzerspezifische temporäre Verzeichnis verwendet, und um den Pfad ‚KBV/XKM/Work/’ erwei- tert.  Seite 17 von 33
+**Tabelle 5: Konfigurationsschalter**
+
+mierung selt selt nimum von 1000. vordefiniert: oder ‚TEMP’ lenden  Dateien fest. mit grafischer Oberfläche der Dialog zum Anpassen der Konfiguration auf- gerufen werden darf.  rechnungsverschluesselung’ au- tomatische Komprimierung aktiviert wird. Voreingestellt ist dus erfolgreich verschlüsselt wurden dus erfolgreich entschlüsselt wurden. rend der Verarbeitung durch das XKM erzeugt werden. Bei Angabe ‚TEMP’ das nutzerspezifische temporäre Verzeichnis verwendet, und um den Pfad ‚KBV/XKM/Work/’ erwei- tert.  Seite 17 von 33
 
 
 ---
@@ -739,6 +737,8 @@ Seite 21 von 33
 
 ---
 
+**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
+
 ## 3.7 Arbeiten mit Wechselmedien (CD, ...)
 
 Das XKM unterstützt den Einsatz von Wechselmedien beispielsweise CD´s. Zudem kann aber  auch jedes andere Wechselmedium in den Arbeitsablauf integriert werden. Hierzu müssen die  Konfigurationsschalter *Paketgroesse* sowie *Quelle* bzw. *Verschluesselt* geeignet belegt wer-den. (Siehe hierzu auch das Kapitel *Konfigurationsschalter*
@@ -754,13 +754,9 @@ Der Schalter *Paketgroesse* orientiert sich an der Kapazität des jeweiligen Med
 
 Bei gesplitteten Paketen wird zusätzlich zu der Endung *.XKM* noch ein dreistelliges numeri-sches Suffix angefügt. (*Daten.XKM.001 Daten.XKM.002* usw.)
 
-#### lung)
-
-#### 3.7.1.2 Schalter Quelle (Verschlüsselung) bzw. Verschluesselt (Entschlüsse-
+#### 3.7.1.2 Schalter Quelle (Verschlüsselung) bzw. Verschluesselt (Entschlüsse- lung)
 
 Der Schalter Quelle/*Verschluesselt* gibt das Verzeichnis an, wo das XKM die verschlüsselten  Daten laden und sichern kann.
-
-**IT in der Arztpraxis**  Handbuch KBV-Kryptomodul XKM
 
 KBV_ITA_AHEX_Handbuch_Kryptomodul * Version 1.42
 

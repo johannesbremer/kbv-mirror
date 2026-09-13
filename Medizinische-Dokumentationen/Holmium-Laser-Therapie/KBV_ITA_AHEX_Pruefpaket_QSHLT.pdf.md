@@ -28,16 +28,16 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prü fu nte rla gen | 6 |
-| 1.6 | Prü fvorgaben | 7 |
-|  | 1.6.1 Prü fstam mdaten | 7 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 7 |
+|  | 1.6.1 Prüfstammdaten | 7 |
 |  | 1.6.2 Praxisdaten/ Arztstempel | 8 |
 
-| 2 | PRÜ | FFÄ LLE | 9 |
+| 2 |  | PRÜFFÄLLE | 9 |
 |---|---|---|---|
-| 2.1 | Prü | ffa ll 1 | 9 |
-| 2.2 | Prü | ffa ll 2 | 11 |
-| 2.3 | Prü | ffa ll 3 | 18 |
+| 2.1 | Prüffall | 1 | 9 |
+| 2.2 | Prüffall | 2 | 11 |
+| 2.3 | Prüffall | 3 | 18 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -51,7 +51,7 @@ Seite 2 von 20 / KBV / Pruefpaket QS-Holmium-Laser-
 
 Therapie / Version: 1.07 / 12. August 2021
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 
+Prüffall 1 Prüffall 2 Prüffall 3 
 
 
 ---
@@ -154,9 +154,7 @@ Seite 6 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12
 
 Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden  durch den Prüfer begutachtet.
 
-_[lfdNr.]2 3
-
-[PrüffallNr.]1
+[PrüffallNr.]1_[lfdNr.]2 3
 
 - Alle Prüfunterlagen (Jahresstatistiken und der Ordner „Dokumentation“) sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip- Archiv muss wie folgt benannt werden:
 
@@ -211,6 +209,18 @@ Seite 8 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12
 
 ---
 
+# 2 PRÜFFÄLLE
+
+**2.1** **PRÜFFALL 1**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 1 |
+| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermit |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2017 |
+| **Prüfunterlagen** | Jahresstatistik |
+| **Hinweis** |  |
+
 | TABELLE 1 - JAHRESSTATISTIK 2014 | |
 |---|---|
 | **Anzahl Eingriffe** | |
@@ -235,62 +245,15 @@ Seite 8 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12
 | Einschwemmung | 0 |
 | andere | 1 |
 | **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** | |
-| 2**2.1** | |
-|  |  |
-|  |  |
-|  | **Prüffall-ID** |
-| 1 | |
-| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermit |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2017 |
-| **Prüfunterlagen** | Jahresstatistik |
-| **Hinweis** | |
-|  |  |
-|  |  |
-| **TABELLE 1 - JAHRESSTATISTIK 2014** |  |
-| **Anzahl Eingriffe** | Anzahl Ersteingriffe |
-| 15 | Anzahl Folgeeingriffe |
-| 6 | |
-| **OP-Indikationen** | Anzahl Eingriffe mit absoluter OP-Indikation |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 1 |
-| **Testziel** | Erstellen Sie eine Jahresstatistik (zur Übermit |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 30.03.2017 |
-| **Prüfunterlagen** | Jahresstatistik |
-| **Hinweis** |  |
 
 Seite 9 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
-gemäß Tabelle 1 tlung an die Datenannahmestelle) PRÜFFÄLLE PRÜFFALL 1
+gemäß Tabelle 1 tlung an die Datenannahmestelle)
 
 ---
 
-| 4  10 – 19,9 g | |
+| TABELLE 1 - JAHRESSTATISTIK 2014 | |
 |---|---|
-| 20 – 39,9 g | |
-| 8 | 40 g und mehr |
-| 2 | **Spontanmiktion** |
-| Anzahl Entlassungen mit Spontanmiktion | |
-| 4 |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-| **TABELLE 1 - JAHRESSTATISTIK 2014** | |
 | Anzahl interventionspflichtige Nachblutungen ohne Transfusion | 3 |
 | Anzahl interventionspflichtige Nachblutungen mit Transfusion | 1 |
 | andere | 5 |
@@ -313,6 +276,16 @@ gust 2021
 
 ---
 
+**2.2** **PRÜFFALL 2**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 2 |
+| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSHLT) erkannt werden müssen. |
+| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
+| **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
+| **Hinweis** |  |
+
 | KONSTELLATION 1 | |
 |---|---|
 | **Anzahl Eingriffe** | |
@@ -334,63 +307,16 @@ gust 2021
 | **intraoperativ aufgetretene Komplikationen gemäß § 6 Abs. 1 Nr. 2** | |
 | Blasenverletzung | 0 |
 | Verletzung der Harnleiterostien | 0 |
-| **2.2** | |
-|  |  |
-|  |  |
-|  | |
-| **Prüffall-ID** | 2 |
-| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die |
-| KBV_ITA_VGEX_Plausi_QSHLT | ) erkannt werden müssen. |
-| **Voraussetzung** | |
-| Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind | **Prüfunterlagen** |
-| Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende | **Hinweis** |
-|  |  |
-|  | |
-| **KONSTELLATION 1** |  |
-| **Anzahl Eingriffe** | Anzahl Ersteingriffe |
-| 0 | Anzahl Folgeeingriffe |
-| 0 | **OP-Indikationen** |
-| Anzahl Eingriffe mit absoluter OP-Indikation | 0 |
-| Anzahl Eingriffe mit relativer OP-Indikation | |
-| 0 | **Prostatavolumen** |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 2 |
-| **Testziel** | Die folgenden Konstellationen stellen Plausibilitätsverstöße dar, die durch die  KBV_ITA_VGEX_Plausi_QSHLT) erkannt werden müssen. |
-| **Voraussetzung** | Die weiteren, nicht vorgegebenen Angaben der einzelnen Konstellationen sind |
-| **Prüfunterlagen** | Werden Plausibilitätsverstöße softwareseitig erkannt, so sind entsprechende |
-| **Hinweis** |  |
 
 Seite 11 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
-Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Um die Plausibilitätsverstöße entsprechend darstellen zu können, sollten Sie die jeweils ausgewiesenen Wertkorrekturen an den Ursprungsdaten (Prüffall 1) zwischen den Konstellationen durchführen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. PRÜFFALL 2 
+Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzunehmen. Um die Plausibilitätsverstöße entsprechend darstellen zu können, sollten Sie die jeweils ausgewiesenen Wertkorrekturen an den Ursprungsdaten (Prüffall 1) zwischen den Konstellationen durchführen. Screenshots von allen Fehler- oder Warnhinweisen der Konstellationen einzureichen. 
 
 
 ---
 
-| Resektionsgewicht  0 g (Abbruch) | |
+| KONSTELLATION 1 | |
 |---|---|
-| >0 – 9,9 g | |
-| 0 | 10 – 19,9 g |
-| 0 | 20 – 39,9 g |
-| 0 | |
-| 40 g und mehr | 0 |
-| **Spontanmiktion** | Anzahl Entlassungen mit Spontanmiktion |
-| 0 | |
-|  |  |
-| **WERTKORREKTUR** |  |
-| **Anzahl Eingriffe** | Anzahl Ersteingriffe |
-| 3 | Anzahl Folgeeingriffe |
-| 5 | |
-|  |  |
-| **KONSTELLATION 2** |  |
-| **OP-Indikationen** | Anzahl Eingriffe mit absoluter OP-Indikation |
-| 6 | Anzahl Eingriffe mit relativer OP-Indikation |
-| 5 | |
-|  |  |
-| **KONSTELLATION 3** |  |
-| **KONSTELLATION 1** | |
 | Einschwemmung | 0 |
 | andere | 0 |
 | **Interventionspflichtige Frühkomplikationen gemäß § 6 Abs. 1 Nr. 3b** | |
@@ -410,14 +336,6 @@ Software anhand der vorgegebenen Plausibilitäten (siehe gemäß Tabelle 1 vorzu
 | **Spontanmiktion** | |
 | Anzahl Entlassungen mit Spontanmiktion | 0 |
 
-| KONSTELLATION 3 | |
-|---|---|
-| **OP-Indikationen** | |
-| Anzahl Eingriffe mit absoluter OP-Indikation | 1 |
-| Anzahl Eingriffe mit relativer OP-Indikation | 4 |
-
-Seite 12 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
-
 | WERTKORREKTUR | |
 |---|---|
 | **Anzahl Eingriffe** | |
@@ -430,6 +348,13 @@ Seite 12 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 1
 | Anzahl Eingriffe mit absoluter OP-Indikation | 6 |
 | Anzahl Eingriffe mit relativer OP-Indikation | 5 |
 
+| KONSTELLATION 3 | |
+|---|---|
+| **OP-Indikationen** | |
+| Anzahl Eingriffe mit absoluter OP-Indikation | 1 |
+| Anzahl Eingriffe mit relativer OP-Indikation | 4 |
+
+Seite 12 von 20 / KBV / Pruefpaket QS-Holmium-Laser-Therapie / Version: 1.07 / 12. August 2021
 
 ---
 

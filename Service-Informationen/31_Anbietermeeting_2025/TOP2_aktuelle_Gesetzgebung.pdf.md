@@ -66,7 +66,9 @@ SEITE 4
 
 - **KOALITIONSVERTRAG**
 
-# Abschnitt „Gesundheit und Pflege“ auf 9 Seiten Ungeklärt: Finanzierungsfragen  (verschoben in eine Kommission) Ergebnispapier der Arbeitsgruppe aus März 2025  war mutiger und verbindlicher.
+# Abschnitt „Gesundheit und Pflege“ auf 9 Seiten Ungeklärt: Finanzierungsfragen  (verschoben in eine Kommission) Ergebnispapier der Arbeitsgruppe aus März 2025
+
+war mutiger und verbindlicher.
 
 **AKTUELLE BUNDESGESETZGEBUNG**
 
@@ -89,9 +91,9 @@ SEITE 5
 
 ## Ergo: Die eierlegende Wollmilchsau für das Gesundheitswesen
 
-SEITE 6
-
 **AKTUELLE BUNDESGESETZGEBUNG**
+
+SEITE 6
 
 31. ANBIETERMEETING AM 18. SEPTEMBER 2025
 
@@ -137,7 +139,7 @@ SEITE 7
 
 ## „Rahmenbedingungen und Honorierung für Videosprechstunden, Telemonitoring und  Telepharmazie verbessern wir, um die Versorgung flächendeckend sicherzustellen.“
 
-## „Wir verändern das Honorarsystem im ärztlichen Bereich mit dem Ziel, die Anzahl nicht
+*„Wir verändern das* ***Honorarsystem**** im ärztlichen Bereich mit dem Ziel, die Anzahl nicht*
 
 *bedarfsgerechter Arztkontakte zu reduzieren (****Jahrespauschalen****).“*
 
@@ -375,13 +377,7 @@ Bundesparteitag CDU
 
 **Q3 2025**
 
-### Okt
-
-### Jul
-
-### Sep
-
-### Aug
+### Jul Aug Sep Okt
 
 **AKTUELLE BUNDESGESETZGEBUNG**
 
@@ -389,9 +385,7 @@ Bundesparteitag CDU
 
 **Q4 2025**
 
-### Dez
-
-### Nov
+### Nov Dez
 
 **Q1 2026**
 
@@ -399,23 +393,15 @@ Bundesparteitag CDU
 
 **Q2 2026**
 
-### Apr
-
-### Jun
-
-### Mai
+### Apr Mai Jun
 
 **Q3 2026**
 
-### Aug Sept
-
-### Jul
+### Jul Aug Sept
 
 **Q4 2026**
 
-### Nov Dez
-
-### Okt 17
+### Okt Nov Dez 17
 
 
 ---

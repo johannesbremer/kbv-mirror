@@ -25,10 +25,9 @@ Stand: Mai 2017
 ```
 -
 -
-[](http://www.kbv.de/html/1150_23864.php)
 ```
 
-[http://www.kbv.de/html/1150_23864.php](http://www.kbv.de/html/1150_23864.php)
+[http://www.kbv.de/html/1150_23864.php](http://www.kbv.de/html/1150_23864.php)[](http://www.kbv.de/html/1150_23864.php)
 
 ```
 [](http://www.kbv.de/media/sp/02_Erlaeuterungen.pdf)

@@ -66,11 +66,9 @@ Deutsche Version: © Prof. Dr. Bernd Löwe, 2015, Universitätsklinikum Hamburg-
 
 der Spaltensummen
 
-**An mehr**
+**An mehr**  **als der**
 
-**als der**  **Beinahe**
-
-**Hälfte der**  **Tage** **jeden Tag**
+**Hälfte der Beinahe**  **Tage** **jeden Tag**
 
 2
 

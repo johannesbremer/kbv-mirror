@@ -33,7 +33,7 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 
 | Grad der | kontrolliert | teilweise kontrolliert | unkontrolliert |
 |---|---|---|---|
-| Kriterium | Alle Kriterien erfüllt | 1 bis 2 Kriterien erfüllt | Kriterien des teilweise |
+| Kriterium | Alle Kriterien erfüllt | 1 bis 2 Kriterien erfüllt | Mindestens 3 der 4 |
 | Symptome am Tage | ≤ | > 2 x / Woche | > als 2 x / Woche |
 | Nächtliche Symptome | Keine | Vorhanden | Vorhanden |
 | Einschränkung der | Keine | Vorhanden | Vorhanden |
@@ -43,7 +43,7 @@ Bei „kontrolliertem“ Asthma ist die Therapie adäquat und kann eventuell sog
 
 Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
 
-Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Mindestens 3 der 4 kontrollierten Asthmas 2
+Asthmakontrolle (Angaben aus den letzten 4 Wochen) Alltagsaktivitäten Kriterien des teilweise kontrollierten Asthmas 2
 
 
 ---
@@ -156,13 +156,13 @@ Ausfüllanleitung Asthma bronchiale Version 6.0, Stand 06.05.2024
 
 -
 
--Wert Ihrer Patientin bzw. Ihres Patienten als 1 einer Stelle hinter dem Komma oder „
+1-Wert Ihrer Patientin bzw. Ihres Patienten als  einer Stelle hinter dem Komma oder „
 
 **Folgedokumentation**
 
 -
 
-Nicht -Messung z. 1
+Nicht 1-Messung z.
 
 möglich und ist hier 4
 

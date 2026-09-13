@@ -37,19 +37,8 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung Seite 2 11 von
 
 **IT in der Arztpraxis**  Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
-#### INHALTSVERZEICHNIS
-
-#### DOKUMENTENHISTORIE
-
-**2**
-
-#### INHALTSVERZEICHNIS
-
-**3**
-
+#### INHALTSVERZEICHNIS DOKUMENTENHISTORIE INHALTSVERZEICHNIS
 **1** **GRUNDSÄTZLICHE FESTLEGUNGEN**
-
-**4**
 
 **1.1** **Zielsetzung ..................................................................................................................................... 4**
 
@@ -59,23 +48,33 @@ erlaubten Wertes FK 9212 des Feldes Bezirksstelle Überarbeitung Seite 2 11 von
 
 **2** **SATZTABELLE**
 
-**6**
+**2.1** **Definition der Satzart: PLZ-Headersatz “plz0”**
 
-**2.1** **Definition der Satzart: PLZ-Headersatz “plz0” ........................................................................... 7**
-
-**2.2** **Definition der Satzart: PLZ-Stammsatz “2150” .......................................................................... 7**
+**2.2** **Definition der Satzart: PLZ-Stammsatz “2150”**
 
 **2.3** **Definition der Satzart: PLZ-Endesatz “plz9” .............................................................................. 7**
 
 **3** **FELDTABELLE**
 
-**8**
-
 **4** **REGELTABELLE**
 
-**11**
-
 KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06* Version
+
+**2**
+
+**3**
+
+**4**
+
+**6**
+
+**........................................................................... 7**
+
+**.......................................................................... 7**
+
+**8**
+
+**11**
 
 Seite 3 11 von
 
@@ -275,13 +274,6 @@ Seite 8 11 von
 | 0150 | Postleitzahl | 5 | n |  |  | 50171 |
 | 3116 | KV-Bereich | 2 | n | 207 | 01 = Schleswig-Holstein | 17 |
 | 3117 | Bezirksstelle | 2 | n | 507 | 01 = Schleswig-Holstein | 06 |
-|  |  |  |  |  |  |  |
-|  | | | | | | |
-| 0150 | Postleitzahl | 5 | n |  |  | 50171 |
-| 3116 | KV-Bereich | 2 | n | 207 | 01 = Schleswig-Holstein | 17 |
-| 3117 | Bezirksstelle | 2 | n | 507 | 01 = Schleswig-Holstein | 06 |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
 
 KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06
 
@@ -294,12 +286,8 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06
 
 **IT in der Arztpraxis** Datensatzbeschreibung SDPLZ (PLZ-Stammdatei)
 
-|  |  |  |  |  |  |  |
+| FK | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren | Beispiele |
 |---|---|---|---|---|---|---|
-| 8000 | Satzart | 4 | a | 505 | plz0 = | 2150 |
-| 9103 | Erstellungsdatum | 8 | d |  |  | 15022002 |
-| 9106 | Verwendeter Zeichensatz | 1 | n | 117 | 3 = ISO 8859-1 | 3 |
-| **FK** | **Feldbezeichnung** | **Länge** | **Typ** | **Regel** | **erlaubte Inhalte und deren** | **Beispiele** |
 | 68 = Oberpfalz | | | | | | |
 | 8000 | Satzart | 4 | a | 505 | plz0 = | 2150 |
 | 9103 | Erstellungsdatum | 8 | d |  |  | 15022002 |
@@ -311,7 +299,7 @@ KBV_ITA_VGEX_Datensatzbeschreibung_SDPLZ 1.06
 
 * Version
 
-Satzbeschreibung 69 = Niederbayern 70 = Schwaben 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 85 = Magdeburg 6 = Halle 87 = Dessau 89 = Erfurt 90 = Gera 91 = Suhl 94 = Chemnitz 95 = Dresden 96 = Leipzig plz9 = 2150 = PLZ-Headersatz PLZ-Endesatz PLZ-Stammsatz Bedeutung Seite 10 11von
+Satzbeschreibung 69 = Niederbayern 70 = Schwaben 72 = Berlin 73 = Saarland 74 = KBV 78 = Mecklenburg-Vorpommern 79 = Potsdam 80 = Cottbus 81 = Frankfurt/Oder 85 = Magdeburg 6 = Halle 87 = Dessau 89 = Erfurt 90 = Gera 91 = Suhl 94 = Chemnitz 95 = Dresden 96 = Leipzig PLZ-Headersatz plz9 = PLZ-Endesatz 2150 = PLZ-Stammsatz Bedeutung Seite 10 11von
 
 
 ---

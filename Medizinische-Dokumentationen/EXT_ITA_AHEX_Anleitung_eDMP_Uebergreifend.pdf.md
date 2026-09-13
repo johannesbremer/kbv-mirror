@@ -155,9 +155,7 @@ Ausfüllanleitung indikationsübergreifender Datensatz, Version 10; Stand 04.11.
 
 ---
 
-Dokumentationstypen  Erstdokumentation für das DMP KHK und eine Folgedokumentation zu Diabetes mellitus  Typ 2 erstellen.
-
-zu kombinieren.
+Dokumentationstypen zu kombinieren.  Erstdokumentation für das DMP KHK und eine Folgedokumentation zu Diabetes mellitus  Typ 2 erstellen.
 
 **Geschlecht**
 

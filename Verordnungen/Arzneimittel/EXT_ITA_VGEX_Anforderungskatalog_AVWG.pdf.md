@@ -1,4 +1,4 @@
-## Anforderungskatalog  SGB V für Verordnungssoftware
+## Anforderungskatalog nach § 73  SGB V für Verordnungssoftware
 
 ## Anforderungen an die Software zur  Verordnung von Arzneimitteln und
 
@@ -13,18 +13,21 @@
 |  |  |
 |  |  |
 
-5.8 Datum:  03.02.2025 Klassifizierung: Extern Status:  In Kraft  Ärzte ## nach § 73
-
+Ärzte 5.8 Datum:  03.02.2025 Klassifizierung: Extern Status:  In Kraft
 
 ---
 
-| Anforderungskatalog | nach § 73 SGB V fü r V ero rd nungssoftw are – Version 5.8 |
-|---|---|
-| **Inkrafttreten** |  |
-| Der Anforderungskatalog | in der Version 5.8 tritt am 01.10.2025 in Kraft. |
-| EXT_ITA_VGEX_Anforderungskatalog_AVWG | * Version 5.8 |
+# Inkrafttreten
 
-Der Anforderungskatalog in der Version 5.8 tritt am 01.10.2025 in Kraft.  Anforderungskatalog nach § 73 SGB V für Verordnungssoftware EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8 Seite 2 von 72
+Der Anforderungskatalog in der Version 5.8 tritt am 01.10.2025 in Kraft.
+
+**Anforderungskatalog nach § 73 SGB V für Verordnungssoftware**
+
+EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
+
+**Version 5.8**
+
+Seite 2 von 72
 
 
 ---
@@ -475,6 +478,11 @@ EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
 (Quelle: Internetseiten des GKV-SV, Aufbereitung durch AM-DB-Hersteller)
 
 - URL auf Regelung zur Praxisbesonderheit (Anlage I zur Vereinbarung nach § 130b  SGB V) (Quelle: Internetseiten des GKV-SV, Aufbereitung durch AM-DB-Hersteller)
+
+**Version 5.8**
+
+- Absatz 8 SGB V für die jeweilige
+- aufgrund einer bestehenden
 - Überschrift Beschluss
 
 (XML-Element .../BE/UES_BE@value)
@@ -519,7 +527,7 @@ EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
 
 (XML-Element .../BE/ZUL/URL_QS_ATMP@value)
 
-- Text für Verweis auf Hyperlink Internet-Seite des G-
+- Text für Verweis auf Hyperlink Internet-Seite des G-BA „Frühe Nutzenbewertung“
 
 (XML-Element .../BE/URL_TEXT@value)
 
@@ -533,19 +541,6 @@ EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
 (XML-Element BE/PAT_GR_INFO_Collection/ID_PAT_GR@value)
 
 - Wirkstoffname der (des) bewerteten Wirkstoffe(s)
-
-**Version 5.8**
-
-- Absatz 8 SGB V
-- aufgrund
-- BA „Frühe Nutzenbewertung“
-- für die jeweilige
-- einer bestehenden
-
-```
--
--
-```
 
 Seite 13 von 72
 
@@ -1321,11 +1316,9 @@ Seite 24 von 72
 
 Auswahllisten zur Verordnung von Fertigarzneimitteln und sonstigen nach § 31 SGB V in die  Arzneimittelversorgung einbezogenen Produkten besitzen ein einheitliches Layout ohne  Hervorhebungen.
 
-Sofern durch regionale  Vereinigungen Abweichendes vereinbart ist, kann eine Hervorhebung erfolgen, wenn die  Vertragsärztin bzw. der Vertragsarzt im Verordnungskontext über die Gründe für die  Hervorhebung und die rechtliche Grundlage durch die Verordnungssoftware entsprechend  informiert wird.
+Sofern durch regionale Verträge zwischen Krankenkassen und Kassenärztlichen  Vereinigungen Abweichendes vereinbart ist, kann eine Hervorhebung erfolgen, wenn die  Vertragsärztin bzw. der Vertragsarzt im Verordnungskontext über die Gründe für die  Hervorhebung und die rechtliche Grundlage durch die Verordnungssoftware entsprechend  informiert wird.
 
 Eine Kennzeichnung von Produkten in Auswahllisten/Suchergebnissen, die Bestandteil einer  Hausapotheke sind, ist auch durch Hervorhebung zulässig.
-
-Verträge zwischen Krankenkassen und Kassenärztlichen
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -1357,19 +1350,19 @@ Seite 25 von 72
 
 ---
 
-**Anforderungskatalog nach § 73 SGB V für Verordnungssoftware  Version 5.8**
+**Anforderungskatalog nach § 73 SGB V für Verordnungssoftware**
 
 | PFLICHTFUNKTION | |
 |---|---|
 | **P3-115** | **Nachträgliche Bearbeitung von Stammdaten** |
 
-Die nachträgliche Bearbeitung von Stammdaten gemäß **P2-100** den Vertragsarzt ist unzulässig. Ihr bzw. ihm kann die Möglichkeit gegeben werden, für  Einträge der Hausapotheke zusätzliche Kurznamen, Bezeichnungen, Kommentare und  Tastenkürzel zu vergeben, die ihm die Suche in der Hausapotheke bzw. die Verordnung aus  der Hausapotheke erleichtern. Beim Bedrucken des Rezeptformulars sind jedoch die  Originaldaten der Arzneimitteldatenbank zu verwenden.
+Die nachträgliche Bearbeitung von Stammdaten gemäß  den Vertragsarzt ist unzulässig. Ihr bzw. ihm kann die Möglichkeit gegeben werden, für  Einträge der Hausapotheke zusätzliche Kurznamen, Bezeichnungen, Kommentare und  Tastenkürzel zu vergeben, die ihm die Suche in der Hausapotheke bzw. die Verordnung aus  der Hausapotheke erleichtern. Beim Bedrucken des Rezeptformulars sind jedoch die  Originaldaten der Arzneimitteldatenbank zu verwenden.
 
 | PFLICHTFUNKTION | |
 |---|---|
 | **P3-120** | **Angaben bei erster und wiederholter Verordnung** |
 
-Sowohl in den tabellarischen Auswahllisten nach **P3-315 P3-320** jeder Verordnung (inbegriffen sind hierbei insbesondere wiederholte Verordnungen aus einer  Patientenhistorie, Verordnungen aus einer Hausapotheke und aus einem Medikationsplan  nach § 31a SGB V sowie eMedikationsliste der ePA) sind durch die Software auf  (d.h. vor Auswahl einer konkreten Packung) mindestens die unten gelisteten Merkmale aus  den Arzneimittelstammdaten nach **P2-110** in der Voreinstellung anzuzeigen.
+Sowohl in den tabellarischen Auswahllisten nach **P3-315** jeder Verordnung (inbegriffen sind hierbei insbesondere wiederholte Verordnungen aus einer  Patientenhistorie, Verordnungen aus einer Hausapotheke und aus einem Medikationsplan  nach § 31a SGB V sowie eMedikationsliste der ePA) sind durch die Software auf  (d.h. vor Auswahl einer konkreten Packung) mindestens die unten gelisteten Merkmale aus  den Arzneimittelstammdaten nach **P2-110** in der Voreinstellung anzuzeigen.
 
 **Begründung:**
 
@@ -1390,6 +1383,12 @@ Bei einem Verordnungsvorgang bzw. der Auswahl einer Packung sollen die grundlege
 4 Bei Ausprägung „Keine Angabe“ und „Nicht betroffen“ ist die Kennzeichnung der Ausprägung nicht erforderlich.
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
+
+**Version 5.8**
+
+**P2-100**
+
+**P3-320**
 
 durch die Vertragsärztin bzw.
 
@@ -1449,7 +1448,7 @@ EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
 [](https://update.kbv.de/ita-update/Verordnungen/Arzneimittel/Logos/blaue_hand.zip)
 ```
 
-Pflichtfunktion Bei Erwachsenen und Jugendlichen ab Vollendung des 12. Lebensjahres bis zur Vollendung des 18. Lebensjahres und nicht 053 ohne Entwicklungsstörungen: Arzneimittel ist apothekenpflichtig, aber nicht verschreibungspflichtig und nicht auf OTC-Ausnahmeliste (AM-RL Anlage I) Arzneimittel ist nach AM-RL Anlage III von der Verordnung ausgeschlossen (Rechtsgrundlagen [1], [2] und [3]) Eine Anzeige erfolgt nur, wenn der Beginn der Gültigkeit mindestens eines Rote-Hand-Briefs [Merkmal 351] nicht länger als sechs Monate zurückliegt und, sofern ein Gültigkeitsende [Merkmal 352] vorhanden ist, das Tagesdatum nicht dem Gültigkeitsende entsprechenden Rote-Hand-Briefs liegt. 353 Die Vertragsärztin bzw. der Vertragsarzt muss die Möglichkeit haben, sich die Informationen relevanten Roten-Hand-Briefe nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu 1. kann das Logo  des Rote-Hand-Briefs nach EAMIV (Rote-Hand-Logo ) und/ oder die Titel der relevanten Roten-Hand-Briefe (müssen der Bedingung entsprechen) und/ oder Textausschnitte der relevanten Rote-Hand-Briefe (müssen der entsprechen) mitangezeigt werden.  356 Die Vertragsärztin bzw. der Vertragsarzt muss die Möglichkeit haben, sich die Informationen vorliegenden Schulungsmaterials nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu kann das Logo Schulungsmaterials nach EAMIV (Blaues-Hand-Logo und/ oder die Titel der relevanten Schulungsmaterialen und/ oder ein Ausschnitt der relevanten Informationen mitangezeigt werden. Seite 28 von 72
+Pflichtfunktion Bei Erwachsenen und Jugendlichen ab Vollendung des 12. Lebensjahres bis zur Vollendung des 18. Lebensjahres und nicht 053 ohne Entwicklungsstörungen: Arzneimittel ist apothekenpflichtig, aber nicht verschreibungspflichtig und nicht auf OTC-Ausnahmeliste (AM-RL Anlage I) Arzneimittel ist nach AM-RL Anlage III von der Verordnung ausgeschlossen (Rechtsgrundlagen [1], [2] und [3]) Eine Anzeige erfolgt nur, wenn der Beginn der Gültigkeit mindestens eines Rote-Hand-Briefs [Merkmal 351] nicht länger als sechs Monate zurückliegt und, sofern ein Gültigkeitsende [Merkmal 352] vorhanden ist, das Tagesdatum nicht dem Gültigkeitsende entsprechenden Rote-Hand-Briefs liegt. Die Vertragsärztin bzw. der Vertragsarzt muss die 353 Möglichkeit haben, sich die Informationen relevanten Roten-Hand-Briefe nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu 1. kann das Logo  des Rote-Hand-Briefs nach EAMIV (Rote-Hand-Logo ) und/ oder die Titel der relevanten Roten-Hand-Briefe (müssen der Bedingung entsprechen) und/ oder Textausschnitte der relevanten Rote-Hand-Briefe (müssen der entsprechen) mitangezeigt werden.  Die Vertragsärztin bzw. der Vertragsarzt muss die 356 Möglichkeit haben, sich die Informationen vorliegenden Schulungsmaterials nach § 3 Abs. 3 EAMIV anzeigen zu lassen. Ergänzend zu kann das Logo Schulungsmaterials nach EAMIV (Blaues-Hand-Logo und/ oder die Titel der relevanten Schulungsmaterialen und/ oder ein Ausschnitt der relevanten Informationen mitangezeigt werden. Seite 28 von 72
 
 
 ---
@@ -1457,8 +1456,7 @@ Pflichtfunktion Bei Erwachsenen und Jugendlichen ab Vollendung des 12. Lebensjah
 **Anforderungskatalog nach § 73 SGB V für Verordnungssoftware**
 
 - (1) Die Software kann eine Abänderung der Reihenfolge der in der Funktion  genannten Informationen bzw. Tabellenspalten ermöglichen. Es muss eine Möglichkeit  geben, die Voreinstellung der Reihenfolge der Tabellenspalten wiederherzustellen.
-- (2) Die Software muss durch  nach **P3-121** anzeigen.
-- **maximal** eine Interaktion die weiteren geforderten Merkmale
+- (2) Die Software muss durch **maximal** eine Interaktion die weiteren geforderten Merkmale  nach **P3-121** anzeigen.
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -1517,9 +1515,11 @@ Zweite Ebene Pflichtfunktion BtM oder T-Rezept-Arzneimittel von Arzneimitteln zu
 - (3) Die Anzeige darf den Workflow der Verordnung nicht unterbrechen.
 - (4) Alle übrigen Merkmale gemäß **P2-110** und **K2-120** Aktionen zur Verfügung stehen.
 
-7 Die Bedeutung der einzelnen Werte des Artikelstatus ist von der IFA im Dokument IFA-Informationsdienste  Produktbeschreibung definiert.  Vereinfacht bedeutet der Artikelstatus „Außer Vertrieb“, dass das Produkt noch im Handel als Restbestand  erhältlich ist. Diese Produkte müssen daher gemeinsam mit dem Kennzeichen AV noch angezeigt werden, bis sie  endgültig nicht mehr in Verkehr sind. Der Status „Zurückgezogen“ bedeutet dauerhaft nicht auf dem deutschen Markt verfügbar sein wird. Lagerware ist nicht zur Abgabe und Verkauf  bestimmt.
+7 Die Bedeutung der einzelnen Werte des Artikelstatus ist von der IFA im Dokument IFA-Informationsdienste  Produktbeschreibung definiert.  Vereinfacht bedeutet der Artikelstatus „Außer Vertrieb“, dass das Produkt noch im Handel als Restbestand  erhältlich ist. Diese Produkte müssen daher gemeinsam mit dem Kennzeichen AV noch angezeigt werden, bis sie  endgültig nicht mehr in Verkehr sind.  dauerhaft nicht auf dem deutschen Markt verfügbar sein wird. Lagerware ist nicht zur Abgabe und Verkauf  bestimmt.
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
+
+Der Status „Zurückgezogen“ bedeutet
 
 **Version 5.8**
 
@@ -1590,20 +1590,20 @@ Gemäß  Verordnungssoftware archiviert bzw. aufrufbar sein.
 **Akzeptanzkriterium:**
 
 - (1) Die Vertragsärztin bzw. der Vertragsarzt muss in der Verordnungssoftware die  Möglichkeit haben, sich alle Rote-Hand-Briefe, die ab dem 01.04.2023 veröffentlicht  wurden, nach EAMIV (Archivierte sowie Aktuelle) anzeigen zu lassen.
-- (2) Der Vertragsärztin bzw. dem Vertragsarzt werden in geeigneter Weise (bspw.  tabellarisch) pro Rote-Hand-Brief
+- (2) Der Vertragsärztin bzw. dem Vertragsarzt werden in geeigneter Weise (bspw.  tabellarisch) pro Rote-Hand-Brief nach EAMIV mindestens
 - Informationen angezeigt:
 
 a. Titel des Rote-Hand-Briefs nach EAMIV [Merkmal 354]
 
 b. Gültigkeitsbeginn des Rote-Hand-Briefs nach EAMIV [Merkmal 351]
 
-c. Sofern vorhanden Gültigkeitsende
+c. Sofern vorhanden Gültigkeitsende des Rote-Hand-Briefs
 
 - [Merkmal 352]
 
 Die Informationen des Rote-Hand-Briefes nach § 3 Abs. 3 EAMIV [Merkmal 353]  müssen pro Eintrag aufrufbar sein.
 
-- (3) Die Verordnungssoftware muss der Vertragsärztin bzw. dem Vertragsarzt für die  gemäß Akzeptanzkriterium 2 geforderten  Verfügung stellen.
+- (3) Die Verordnungssoftware muss der Vertragsärztin bzw. dem Vertragsarzt für die  gemäß Akzeptanzkriterium 2 geforderten Informationen Filtermöglichkeiten  Verfügung stellen.
 
 a. Die Verordnungssoftware kann der Vertragsärztin bzw. dem Vertragsarzt  weitere Filtermöglichkeiten zur Verfügung stellen.
 
@@ -1612,10 +1612,6 @@ a. Die Verordnungssoftware kann der Vertragsärztin bzw. dem Vertragsarzt  weite
 Alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, müssen nicht zwingend  im Archiv gelistet werden. Eine zusätzliche Listung dieser älteren Rote-Hand-Briefe ist jedoch  optional möglich. Für alle Rote-Hand-Briefe, die vor dem 01.04.2023 veröffentlicht wurden, ist  keine Zuordnung zu Fertigarzneimitteln notwendig, jedoch optional möglich.
 
 Für alle Rote-Hand-Briefe, die zum Zeitpunkt des 01.10.2023 älter als sechs Monate sind, ist  keine Zuordnung zu Fertigarzneimitteln notwendig. Die Rote-Hand-Briefe, die zum Zeitpunkt  des 01.10.2023 älter als sechs Monate sind, müssen lediglich im Archiv, als PDF-Dokument  oder per Hyperlink aufrufbar, gelistet werden.
-
-- nach EAMIV mindestens
-- des Rote-Hand-Briefs
-- Informationen Filtermöglichkeiten
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
 
@@ -1888,9 +1884,9 @@ Die Anbieter von Verordnungssoftware müssen von Produktwerbung freie Versionen 
 |---|---|
 | **P3-210** | **Anzeige von Werbung** |
 
-Werbung ist nur in Form von Werbefenstern zulässig. Diese müssen deutlich erkennbar durch  die Beschriftung „Werbung“ gekennzeichnet sein und  Informationsfenster dargestellt werden. Sie müssen direkt als Werbung erkennbar sein.  Fachliche Inhalte und Werbung müssen eindeutig voneinander abgegrenzt sein und dürfen  nicht miteinander vermischt werden. Hinter einer Werbung darf keine Funktion hinterlegt sein,  die unmittelbar oder mittelbar beispielsweise zum Ausstellen einer Verordnung, einer  Veränderung auf dem Rezept (z. B. Änderung des „aut idem“ in die Hausapotheke führt. Hinter einer Werbung darf keine Funktion hinterlegt sein, die einen  unmittelbaren oder mittelbaren Einfluss auf Grundeinstellungen bzw. die Konfiguration der  Verordnungssoftware (z. B. Filtereinstellungen bei Suchfunktionen) hat.
+Werbung ist nur in Form von Werbefenstern zulässig. Diese müssen deutlich erkennbar durch  die Beschriftung „Werbung“ gekennzeichnet sein und dürfen nicht irreführend als  Informationsfenster dargestellt werden. Sie müssen direkt als Werbung erkennbar sein.  Fachliche Inhalte und Werbung müssen eindeutig voneinander abgegrenzt sein und dürfen  nicht miteinander vermischt werden. Hinter einer Werbung darf keine Funktion hinterlegt sein,  die unmittelbar oder mittelbar beispielsweise zum Ausstellen einer Verordnung, einer  Veränderung auf dem Rezept (z. B. Änderung des „aut idem“-Status) oder einer Übernahme  in die Hausapotheke führt. Hinter einer Werbung darf keine Funktion hinterlegt sein, die einen  unmittelbaren oder mittelbaren Einfluss auf Grundeinstellungen bzw. die Konfiguration der  Verordnungssoftware (z. B. Filtereinstellungen bei Suchfunktionen) hat.
 
-Werbung darf nach ihrer Erscheinung, ihrem Ausmaß und ihrer Darstellung nicht vom  Verordnungsvorgang ablenken. Es muss sichergestellt sein, dass die Funktionalitäten der  Verordnungssoftware auch bei Werbeeinblendungen  Werbeeinblendungen dürfen den Workflow nicht unterbrechen.
+Werbung darf nach ihrer Erscheinung, ihrem Ausmaß und ihrer Darstellung nicht vom  Verordnungsvorgang ablenken. Es muss sichergestellt sein, dass die Funktionalitäten der  Verordnungssoftware auch bei Werbeeinblendungen uneingeschränkt nutzen kann.  Werbeeinblendungen dürfen den Workflow nicht unterbrechen.
 
 Sofern auf Werbung geklickt wird und dadurch Inhalte, z.B. Webseiten, geöffnet werden, auf  die der Anforderungskatalog für Verordnungssoftware nach § 73 SGB V keine Anwendung  findet, muss folgender Hinweis angezeigt werden:
 
@@ -1904,15 +1900,9 @@ Die Einbindung von Aufrufen herstellerspezifischer Produktkataloge, aus denen di
 |---|---|
 | **P3-220** | **Ausschalten von Werbung** |
 
-Bei der Verordnung muss dem Arzt ermöglicht werden,  Werbefenster durch eine einzige Aktion auszublenden.
+Bei der Verordnung muss dem Arzt ermöglicht werden, Werbeeinblendungen oder  Werbefenster durch eine einzige Aktion auszublenden.
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
-
-dürfen nicht irreführend als -Status) oder einer Übernahme
-
-uneingeschränkt nutzen kann.
-
-Werbeeinblendungen oder
 
 Seite 39 von 72
 
@@ -1970,11 +1960,9 @@ SGB V in die Arzneimittelversorgung einbezogenen Produkten Seite 40 von 72
 -  N-Kennzeichnung nach Packungsgrößenverordnung
 -  Für Arzneimittel mit Beschluss des G-BA nach § 35a SGB V (Merkmal 061):
 
-Verkürztes Anwendungsgebiet
+Verkürztes Anwendungsgebiet (Merkmal 171)
 
 Eine kombinierte Abfrage ist möglich.
-
-(Merkmal 171)
 
 **3.4.2 Darstellung von Suchergebnissen**
 
@@ -2123,7 +2111,7 @@ Seite 43 von 72
 |---|---|
 | **P3-440** | **Diskriminierungsfreier Aufruf und Anzeige von Substitutionsvorschlägen** |
 
-Der Aufruf von Preisvergleichssuchen nach **P3-325** und Substitutionsvorschläge nach  muss in vergleichbarer und leicht auffindbarer Weise erfolgen. Die Anzeige der verschiedenen  Ergebnislisten erfolgt in einheitlicher Form und an gleicher Stelle in der Programmoberfläche.  Die Art der Vergleichssuche/des Substitutionsvorschlages ist erkennbar anzugeben. Ggf.  gesetzte Filter und Sortierungen sind erkennbar anzuzeigen.
+Der Aufruf von Preisvergleichssuchen nach **P3-325** und Substitutionsvorschläge nach **P3-400**  muss in vergleichbarer und leicht auffindbarer Weise erfolgen. Die Anzeige der verschiedenen  Ergebnislisten erfolgt in einheitlicher Form und an gleicher Stelle in der Programmoberfläche.  Die Art der Vergleichssuche/des Substitutionsvorschlages ist erkennbar anzugeben. Ggf.  gesetzte Filter und Sortierungen sind erkennbar anzuzeigen.
 
 **3.6 Sicherstellung von Verordnungsinformationen**
 
@@ -2139,21 +2127,23 @@ In allen Auswahllisten sind in Abhängigkeit von der Krankenkasse des Patienten 
 
 Bei der Anzeige von Suchergebnissen oder Substitutionsvorschlägen auf der Ebene von  Fertigarzneimittelpackungen (PZN-Ebene) ist der Vertragsärztin bzw. dem Vertragsarzt durch  eine einfache Aktion die Möglichkeit zu geben, die angezeigten Ergebnisse auf die für den  jeweiligen Patienten rabattierten Arzneimittel zu begrenzen. Liegen keine rabattierten  Arzneimittel im Suchergebnis vor, ist ein entsprechender Hinweis zu geben, das Suchergebnis  bleibt in diesem Fall unverändert.
 
-In den Benutzereinstellungen der Verordnungssoftware ist zudem  vorzusehen, die es der Vertragsärztin bzw. dem Vertragsarzt erlaubt, die Begrenzung der  angezeigten Suchergebnisse auf rabattierte Arzneimittel zu setzen. Liegt zu den jeweiligen  Suchparametern kein rabattiertes Arzneimittel vor, so ist der Vertragsärztin bzw. dem  Vertragsarzt ein entsprechender Hinweis zu geben und das Suchergebnis ohne die  Eingrenzung auf rabattierte Arzneimittel anzuzeigen.
+In den Benutzereinstellungen der Verordnungssoftware  vorzusehen, die es der Vertragsärztin bzw. dem Vertragsarzt erlaubt, die Begrenzung der  angezeigten Suchergebnisse auf rabattierte Arzneimittel zu setzen. Liegt zu den jeweiligen  Suchparametern kein rabattiertes Arzneimittel vor, so ist der Vertragsärztin bzw. dem  Vertragsarzt ein entsprechender Hinweis zu geben und das Suchergebnis ohne die  Eingrenzung auf rabattierte Arzneimittel anzuzeigen.
+
+ist zudem eine Möglichkeit
 
 | PFLICHTFUNKTION | |
 |---|---|
 | **P3-520** | **Anzeige von preisgünstigeren Arzneimitteln** |
 
-Bei Arzneimittelverordnungen sind Hinweise auf das Vorliegen  wirkstoffgleicher zur Substitution geeigneter Arzneimittel zu geben. Diese Hinweise können  durch Kennzeichnung erfolgen, müssen aber ohne gesonderte Anwenderaktion im Verlauf des  Verordnungsdialogs sichtbar sein. Hinweise dürfen den Workflow nicht unterbrechen.
+Bei Arzneimittelverordnungen  wirkstoffgleicher zur Substitution geeigneter Arzneimittel zu geben. Diese Hinweise können  durch Kennzeichnung erfolgen, müssen aber ohne gesonderte Anwenderaktion im Verlauf des  Verordnungsdialogs sichtbar sein. Hinweise dürfen den Workflow nicht unterbrechen.
 
-Die detaillierte Anzeige alternativer Arzneimittel erfolgt auf Anforderung der Ärztin bzw. des  Arztes gemäß **P3-400 P3-325** ist zu beachten.
+Die detaillierte Anzeige alternativer Arzneimittel erfolgt auf Anforderung der Ärztin bzw. des  Arztes gemäß
+
+sind Hinweise auf das Vorliegen
+
+**P3-400 P3-325** ist zu beachten.
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
-
-**P3-400**
-
-eine Möglichkeit
 
 preisgünstigerer,
 
@@ -2710,19 +2700,15 @@ Seite 58 von 72
 
 ---
 
-**Anforderungskatalog nach § 73 SGB V für Verordnungssoftware**
-
 | KONDITIONALE PFLICHTFUNKTION | |
 |---|---|
 | **K3-722** | **Rezeptbedruckung von Wirkstoffverordnungen** |
 
 Das System muss sicherstellen, dass Wirkstoffverordnungen auf eine papiergebundene  Verordnung ausgedruckt werden können, wenn die Funktion angeboten wird.
 
-**Version 5.8**
-
 **Begründung**
 
-Die Verordnung von Arzneimitteln und sonstigen  Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen Vorgaben.  Bei der Bedruckung eines Arzneiverordnungsblatts müssen alle verordnungsrelevanten  Informationen aufgedruckt werden.
+Die Verordnung von Arzneimitteln und sonstigen nach § 31 SGB V in die  Arzneimittelversorgung einbezogenen Produkten erfolgt gemäß den gesetzlichen Vorgaben.  Bei der Bedruckung eines Arzneiverordnungsblatts müssen alle verordnungsrelevanten  Informationen aufgedruckt werden.
 
 **Akzeptanzkriterien**
 
@@ -2732,23 +2718,20 @@ Die Verordnung von Arzneimitteln und sonstigen  Arzneimittelversorgung einbezoge
 - o Darreichungsform
 - o Packungsgröße Menge und Einheit oder Normgröße (Wenn sowohl die  Packungsgröße als auch die Normgröße eingetragen wurden, so ist die  Packungsgröße (Menge und Einheit) aufzudrucken)
 - (2) Die Verordnungssoftware muss die folgenden Informationen aufdrucken, wenn die  entsprechenden Felder von der Vertragsärztin bzw. dem Vertragsarzt ausgefüllt  wurden bzw. die Kennzeichen gesetzt wurden:
-- o Ersatzverordnung (gemäß
-- o Verordnung nach § 27a SGB V Befruchtung)
+- o Ersatzverordnung (gemäß **P3-630**) in der ersten Zeile
+- o Verordnung nach § 27a SGB V“ (Verordnung im Rahmen künstlicher  Befruchtung)
 - o Dosierung (**P3-625**
-- **P3-630**) in der ersten Zeile
-- “ (Verordnung im Rahmen künstlicher
-
-nach § 31 SGB V in die
-
 - o Abgabehinweise
 
 **Kondition**
 
-Umsetzung der Funktion
+Umsetzung der Funktion **O3-622** Wirkstoffverordnung
 
-**O3-622** Wirkstoffverordnung
+**Anforderungskatalog nach § 73 SGB V für Verordnungssoftware**
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
+
+**Version 5.8**
 
 Seite 59 von 72
 
@@ -2816,17 +2799,13 @@ Seite 60 von 72
 
 - (2) Die Verordnungssoftware muss die folgenden Informationen aufdrucken, wenn die  entsprechenden Felder von der Vertragsärztin bzw. dem Vertragsarzt ausgefüllt  wurden bzw. die Kennzeichen gesetzt wurden:
 
-o Ersatzverordnung (gemäß
+o Ersatzverordnung (gemäß **P3-630**) in der ersten Zeile
 
-o Verordnung nach § 27a SGB V Befruchtung)
+o Verordnung nach § 27a SGB V“ (Verordnung im Rahmen künstlicher  Befruchtung)
 
 o Dosierung (**P3-625**
 
 o Abgabehinweise
-
-**P3-630**) in der ersten Zeile
-
-“ (Verordnung im Rahmen künstlicher
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -2944,7 +2923,7 @@ Die Verordnungssoftware muss bei einer elektronischen Verordnung abhängig von d
 | Element | Coverage.type.coding.code | Medication.extension(https://fhir. |  |
 | **Mapping der Formularauswahl auf die Codes der FHIR-** |  | | |
 
-FORMULARAUSWAHL edient Elemente KBV_PR_ERP_Medication_Co mpounding eText kbv.de/StructureDefinition/KBV_ EX_ERP_Medication_Category) .valueCoding.code
+FORMULARAUSWAHL Elemente edient KBV_PR_ERP_Medication_Co mpounding eText kbv.de/StructureDefinition/KBV_ EX_ERP_Medication_Category) .valueCoding.code
 
 ---
 
@@ -2964,7 +2943,7 @@ EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
 
 *Rezept noch nicht unterstützt.*
 
-(Muster 16) Versicherungsverhältnis / Verordnungssituation entweder  GKV BG SKT UK       Versicherungsverhältnis entweder: SEL PKV oder  oder  oder oder Kostenerstattung gemäß § 25a Abs. 5 BMV-Ä verlangt, ist im Element payor.display im Profil KBV_PR_FOR_Coverage der Wert “Kostenerstattung” anzugeben. § 25a Abs. 4 BMV-Ä eine Arzneimittelverordnung erhält, ist im Element payor.display im Profil KBV_PR_FOR_Coverage Versicherungsnachweis” an der Wert “ohne zugeben.  Seite 65 von 72
+(Muster 16) Versicherungsverhältnis / Verordnungssituation entweder  GKV BG SKT UK       oder  oder  oder Versicherungsverhältnis entweder: SEL oder PKV Kostenerstattung gemäß § 25a Abs. 5 BMV-Ä verlangt, ist im Element payor.display im Profil KBV_PR_FOR_Coverage der Wert “Kostenerstattung” anzugeben. § 25a Abs. 4 BMV-Ä eine Arzneimittelverordnung erhält, ist im Element payor.display im Profil KBV_PR_FOR_Coverage der Wert “ohne Versicherungsnachweis” an zugeben.  Seite 65 von 72
 
 
 ---
@@ -2982,7 +2961,7 @@ Hierfür gelten die Vorgaben und technischen Spezifikationen der zwischen KBV,  
 
 ---
 
-**Anforderungskatalog nach § 73 SGB V für Verordnungssoftware  Version 5.8**
+**Anforderungskatalog nach § 73 SGB V für Verordnungssoftware**
 
 # 4. Statistische Dienstmöglichkeiten
 
@@ -2992,7 +2971,7 @@ Hierfür gelten die Vorgaben und technischen Spezifikationen der zwischen KBV,  
 |---|---|
 | **O4-100** | **Richtgrößen** |
 
-Die Richtgrößen sind in der Verordnungssoftware hinterlegt.  Richtgrößenunterschiede von KV zu KV zu beachten und bei der neuen Softwareaktivierung  je nach Vertrag  vom Hersteller/Anbieter oder von der Ärztin bzw. dem Arzt zu aktualisieren.
+Die Richtgrößen sind in der Verordnungssoftware  Richtgrößenunterschiede von KV zu KV zu beachten und bei der neuen Softwareaktivierung  je nach Vertrag  vom Hersteller/Anbieter oder von der Ärztin bzw. dem Arzt zu aktualisieren.
 
 Die entsprechenden Informationen werden von den Vertragspartnern auf Landesebene  bereitgestellt. Der PVS-Anbieter hält eine Schnittstelle hierfür vor.
 
@@ -3000,17 +2979,17 @@ Die entsprechenden Informationen werden von den Vertragspartnern auf Landesebene
 |---|---|
 | **O4-110** | **Controlling: Richtgrößenausschöpfung** |
 
-Die Verordnungssoftware kann eine Warnfunktion zur Ausschöpfung  einblenden. Die Funktion richtet sich nach den rechtlichen Vorgaben in § 106 Absatz 5a  SGB V und wird entsprechend der KV-Richtgrößen aktualisiert.
+Die Verordnungssoftware kann eine Warnfunktion  einblenden. Die Funktion richtet sich nach den rechtlichen Vorgaben in § 106 Absatz 5a  SGB V und wird entsprechend der KV-Richtgrößen aktualisiert.
 
 Die entsprechenden Informationen werden von den Vertragspartnern auf Landesebene  bereitgestellt. Der PVS-Anbieter hält eine Schnittstelle hierfür vor.
 
-Hintergrund: Gesetzliche Grundlage des § 84 Absatz 7a SGB V  (Durchschnittskostenregelung).
+Hintergrund: Gesetzliche Grundlage des § 84  (Durchschnittskostenregelung).
 
 | OPTIONALE FUNKTION | |
 |---|---|
 | **O4-130** | **Weitere Controllingprogramme** |
 
-Weitere Controllingprogramme (hinsichtlich der Zielfelder von Zielvereinbarungen, seiner  verursachten Kosten etc.) werden angeboten. Hierbei sind   Länderspezifika zu berücksichtigen.
+Weitere Controllingprogramme (hinsichtlich der Zielfelder von Zielvereinbarungen, seiner  verursachten Kosten etc.) werden angeboten. Hierbei  Länderspezifika zu berücksichtigen.
 
 Die entsprechenden Informationen werden von den Vertragspartnern auf Landesebene über  die in **P1-050** benannte Schnittstelle bereitgestellt.
 
@@ -3023,6 +3002,16 @@ Die Schnittstelle und deren Inhalte sind ohne Freischaltung bzw. Maßnahmen zur 
 Um eine Verknüpfung mit der Verordnungskostenstatistik zu gewährleisten, wird bei einer  Wirkstoffverordnung der Preis des günstigsten austauschbaren Arzneimittels übernommen.
 
 EXT_ITA_VGEX_Anforderungskatalog_AVWG * Version 5.8
+
+**Version 5.8**
+
+hinterlegt.
+
+zur Ausschöpfung
+
+Absatz 7a SGB V
+
+sind
 
 Dabei sind
 

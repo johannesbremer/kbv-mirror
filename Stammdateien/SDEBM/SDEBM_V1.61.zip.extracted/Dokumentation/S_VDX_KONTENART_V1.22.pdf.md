@@ -2,11 +2,11 @@
 
 ## S_VDX_KONTENART
 
-OID:
+OID: 1.2.276.0.76.5.258
 
-Version:
+Version: 1.22
 
-gültig ab:
+gültig ab: 01.04.2025
 
 **Code**
 
@@ -50,11 +50,7 @@ gültig ab:
 
 530
 
-Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_VDX_KONTENART 1.2.276.0.76.5.258
-
-1.22
-
-01.04.2025
+Seite 1 von 2 / KBV / SCHLÜSSELTABELLE - S_VDX_KONTENART
 
 **Bezeichnung**
 

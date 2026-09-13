@@ -200,13 +200,13 @@
 | **Lösung:** | Angenommen |  |  |
 | **Organisation:** | Gematik GmbH | | |
 | **Veroeffentlichung:** | zugestimmt | | |
-| **Kommentierungsergebnis:** | a das ist korrekt und kann integriert werden. | | |
+| **Kommentierungsergebnis:** | J | | |
 
 |  |  |
 |---|---|
 | Patient.generalPractitioner.identifier könnte/sollte das DE_Basisprofil für LANR  Keine Inkompatibilität, nur ein Modellierungshinweis... |  |
 
-Schnittstelle gemäß §291d Absatz 1 J verwenden Beschreibung
+Schnittstelle gemäß §291d Absatz 1 a das ist korrekt und kann integriert werden. verwenden Beschreibung
 
 
 ---
@@ -244,7 +244,7 @@ Schnittstelle gemäß §291d Absatz 1 J verwenden Beschreibung
 |---|---|
 | Die Verwendung der gender-amtlich-Extension an Patient.contact.gender ist nicht |  |
 
-§291d Absatz 1 Geschlecht abzubilden. Personen, die sich offiziell ummelden, könnte diese Information auch überall wichtig sein. erforderlich, da es hier lediglich um die korrekte Anrede der Person (männlich/weiblich/neutral) geht. Beschreibung
+§291d Absatz 1 Geschlecht abzubilden. Personen, die sich offiziell ummelden, könnte diese Information auch überall wichtig sein. Beschreibung erforderlich, da es hier lediglich um die korrekte Anrede der Person (männlich/weiblich/neutral) geht. 
 
 
 ---
@@ -282,7 +282,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 |---|---|
 | Die Sub-Extensions haben das falsche Format für R4 (value[x] enthällt alle Datentypen |  |
 
-§291d Absatz 1 anstelle nur des relevanten) Beschreibung
+§291d Absatz 1 Beschreibung anstelle nur des relevanten) 
 
 
 ---
@@ -320,7 +320,7 @@ Schnittstelle gemäß §291d Absatz 1 Beschreibung
 |---|---|
 | Die Sub-Extensions haben das falsche Format für R4 (value[x] enthällt alle Datentypen |  |
 
-§291d Absatz 1 anstelle nur des relevanten) Beschreibung
+§291d Absatz 1 Beschreibung anstelle nur des relevanten) 
 
 
 ---

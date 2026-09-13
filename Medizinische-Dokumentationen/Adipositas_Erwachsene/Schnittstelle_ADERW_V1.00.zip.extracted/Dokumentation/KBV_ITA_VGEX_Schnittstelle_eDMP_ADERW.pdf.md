@@ -28,11 +28,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **9**
 
-| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
-|---|---|---|---|
-| 3.1 | Kardinalitä | t | 10 |
-| 3.2 |  | Strukturelemente | 10 |
-| 3.3 | Sonstige | Symbole | 11 |
+| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
+|---|---|---|
+| 3.1 | Kardinalität | 10 |
+| 3.2 | Strukturelemente | 10 |
+| 3.3 | Sonstige Symbole | 11 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -97,9 +97,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 28
 
 Seite 2 von 39 / KBV / Schnittstellenbeschreibung Adipositas - Erwachsene / Version: 1.00 / 19. Februar 2026
-
-Kardinalität Sonstige Symbole 
-
 
 ---
 

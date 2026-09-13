@@ -134,10 +134,10 @@ Seite 3 von 187
 
 **20**
 
-| 6.1 |  | Grobstruktur.....................................................................................................................20 |
-|---|---|---|
-| 6.2 | Satzarten | .........................................................................................................................21 |
-| 6.2.1 |  | Anordnung .......................................................................................................................21 |
+| 6.1 | Grobstruktur.....................................................................................................................20 |
+|---|---|
+| 6.2 | Satzarten .........................................................................................................................21 |
+| 6.2.1 | Anordnung.......................................................................................................................21 |
 
 LDT 3 Satzbeschreibung, Version 3.2.20
 
@@ -211,73 +211,131 @@ Seite 5 von 187
 
 ---
 
-11.7 Obj_Anschrift „Obj_0007“ ......................................................................................125
+**IT in der Arztpraxis** LDT 3   11.7 11.8
 
-11.8 Obj_Adressat „Obj_0008“ ......................................................................................126
+11.9
 
-11.9 Obj_Abrechnung OEGD „Obj_0009“ .....................................................................127
+11.10
 
-11.10 Obj_Anhang „Obj_0010“ ........................................................................................128
+11.11
 
-11.11 Obj_Antibiogramm „Obj_0011“ ..............................................................................129
+11.12
 
-11.12 Obj_Auftragsinformation „Obj_0013“ .....................................................................131
+11.13
 
-11.13 Obj_Arztidentifikation „Obj_0014“ ..........................................................................132
+11.14
 
-11.14 Obj_Befundinformationen „Obj_0017“ ...................................................................133
+11.15
 
-11.15 Obj_Betriebsstaette „Obj_0019“ ............................................................................135
+11.16
 
-11.16 Obj_Diagnose „Obj_0100“ .....................................................................................136
+11.17
 
-11.17 Obj_Einsenderidentifikation „Obj_0022“ ................................................................137
+11.18
 
-.................................................138
+11.19
 
-11.18 Obj_Fehlermeldung/Aufmerksamkeit „Obj_0026“
+11.20
 
-11.19 Obj_Fließtext „Obj_0068“ ......................................................................................139
+11.21
 
-11.20 Obj_Koerperkenngroessen „Obj_0069“ .................................................................140
+11.22
 
-11.21 Obj_Kommunikationsdaten „Obj_0031“ ................................................................141
+11.23
 
-11.22 Obj_Kopfdaten „Obj_0032“ ....................................................................................142
+11.24
 
-11.23 Obj_Krebsfrueherkennung Zervix-Karzinom (Muster 39) „Obj_0034“ ..................143
+11.25
 
-11.24 Obj_Laborergebnisbericht „Obj_0035“ ..................................................................145
+11.26
 
-11.25 Obj_Laborkennung „Obj_0036“ .............................................................................147
+11.27
 
-11.26 Obj_Material „Obj_0037“ .......................................................................................148
+11.28
 
-11.27 Obj_Medikament „Obj_0070“ ................................................................................150
+11.29
 
-11.28 Obj_Mutterschaft „Obj_0040“ ................................................................................151
+11.30
 
-11.29 Obj_Namenskennung „Obj_0041“ .........................................................................152
+11.31
 
-11.30 Obj_Normalwert „Obj_0042“ ..................................................................................153
+11.32
 
-11.31 Obj_Organisation „Obj_0043“ ................................................................................154
+11.33
 
-11.32 Obj_Patient „Obj_0045“ .........................................................................................155
+11.34
 
-11.33 Obj_Person „Obj_0047“ .........................................................................................156
+11.35
 
-11.34 Obj_RgEmpfaenger „Obj_0048“ ............................................................................157
+11.36
 
-11.35 Obj_Schwangerschaft „Obj_0050“ ........................................................................158
+11.37
 
-11.36 Obj_Sendendes System „Obj_0051“ .....................................................................159
+LDT 3 Satzbeschreibung,
 
-11.37 Obj_Tier/Sonstiges „Obj_0053“ .............................................................................160
+Obj_Anschrift „Obj_0007“ ......................................................................................125
 
-**IT in der Arztpraxis**  LDT 3
+Obj_Adressat „Obj_0008“ ......................................................................................126
 
-LDT 3 Satzbeschreibung, Version 3.2.20
+Obj_Abrechnung OEGD „Obj_0009“ .....................................................................127
+
+Obj_Anhang „Obj_0010“ ........................................................................................128
+
+Obj_Antibiogramm „Obj_0011“ ..............................................................................129
+
+Obj_Auftragsinformation „Obj_0013“ .....................................................................131
+
+Obj_Arztidentifikation „Obj_0014“ ..........................................................................132
+
+Obj_Befundinformationen „Obj_0017“ ...................................................................133
+
+Obj_Betriebsstaette „Obj_0019“ ............................................................................135
+
+Obj_Diagnose „Obj_0100“ .....................................................................................136
+
+Obj_Einsenderidentifikation „Obj_0022“ ................................................................137
+
+Obj_Fehlermeldung/Aufmerksamkeit „Obj_0026“ .................................................138
+
+Obj_Fließtext „Obj_0068“ ......................................................................................139
+
+Obj_Koerperkenngroessen „Obj_0069“ .................................................................140
+
+Obj_Kommunikationsdaten „Obj_0031“ ................................................................141
+
+Obj_Kopfdaten „Obj_0032“ ....................................................................................142
+
+Obj_Krebsfrueherkennung Zervix-Karzinom (Muster 39) „Obj_0034“ ..................143
+
+Obj_Laborergebnisbericht „Obj_0035“ ..................................................................145
+
+Obj_Laborkennung „Obj_0036“ .............................................................................147
+
+Obj_Material „Obj_0037“ .......................................................................................148
+
+Obj_Medikament „Obj_0070“ ................................................................................150
+
+Obj_Mutterschaft „Obj_0040“ ................................................................................151
+
+Obj_Namenskennung „Obj_0041“ .........................................................................152
+
+Obj_Normalwert „Obj_0042“ ..................................................................................153
+
+Obj_Organisation „Obj_0043“ ................................................................................154
+
+Obj_Patient „Obj_0045“ .........................................................................................155
+
+Obj_Person „Obj_0047“ .........................................................................................156
+
+Obj_RgEmpfaenger „Obj_0048“ ............................................................................157
+
+Obj_Schwangerschaft „Obj_0050“ ........................................................................158
+
+Obj_Sendendes System „Obj_0051“ .....................................................................159
+
+Obj_Tier/Sonstiges „Obj_0053“ .............................................................................160
+
+Version 3.2.20
 
 Seite 6 von 187
 
@@ -639,30 +697,38 @@ Obj_
 
 Obj_
 
-Laborergeb
-
-Laborergeb
-
-nis-bericht
-
-nis-bericht
-
-Satzart 8205
-
-Obj_Einsenderidentifikation
-
 Definition „Order/Entry System“ siehe unter 3.2
 
-Wie bereits erwähnt, wird der LDT auch oft für Teilprozesse innerhalb der  Laborinfrastruktur eingesetzt. Damit ergeben  Kommunikationswege. Mit den erweiterten Inhalten des LDT wurde sichergestellt,  dass auch bei der Abbildung von Teilprozessen  Laborleistungen an weitere Leistungserbringer alle notwendigen Informationen in  elektronischer Form übermittelt werden können.  Voraussetzungen für die Implementierung von papierlosen Verfahren durch die  Definition des Objektes „Obj_Anhang“ geschaffen.
+Wie bereits erwähnt, wird der LDT auch oft für Teilprozesse innerhalb der  Laborinfrastruktur eingesetzt.  Kommunikationswege. Mit den erweiterten Inhalten des LDT wurde sichergestellt,  dass auch bei der Abbildung  Laborleistungen an weitere Leistungserbringer alle notwendigen Informationen in  elektronischer Form übermittelt  Voraussetzungen für die Implementierung von papierlosen Verfahren durch die  Definition des Objektes „Obj_Anhang“
 
 **4.1.1** **Teilprozess – Übergabe Daten aus Scansystem**
 
 | Scansystem | ➔ | **LIS** |  |
 |---|---|---|---|
 
+Satzart 8205
+
 Über das Scansystem werden die Aufträge verschiedener Einsender, die in  Papierform an das Labor gestellt werden, erfasst und dann ein vollständiger LDT  generiert. Dabei ist das sendende System das eingesetzte System für die  maschinelle Schrift- (OCR) und Markierungserkennung (OMR).
 
 LDT 3 Satzbeschreibung, Version 3.2.20
+
+Laborergeb
+
+Laborergeb
+
+nis-bericht
+
+nis-bericht
+
+Obj_Einsenderidentifikation
+
+Damit ergeben
+
+von Teilprozessen
+
+werden können.
+
+geschaffen.
 
 Obj_Patient Obj_Veranlassung sgrund
 
@@ -879,15 +945,17 @@ Seite 20 von 187
 
 **IT in der Arztpraxis**
 
-LDT 3
-
-Ein **Objekt** ist wiederum unterteilt in Felder und/oder Objektattribute:
+LDT 3   Ein **Objekt** ist wiederum unterteilt in Felder und/oder Objektattribute:
 
 \| Objekt   Objektident |
 \|---|
 \| Feld 1  .  .  Feldn   Objektattribut 1  .  Objektattribut n  Feld m  .  .  Feld x  Objektende |
 
 Jedes **Feld** hat den folgenden Aufbau:
+
+\| Feld |
+\|---|
+\| Länge  Kennung  Inhalt |
 
 ## 6.2 Satzarten
 
@@ -908,18 +976,12 @@ Mit der Einführung des LDT wird generell davon ausgegangen, dass eine  Übertra
 
 LDT 3 Satzbeschreibung, Version 3.2.20
 
-\| Feld |
-\|---|
-\| Länge  Kennung  Inhalt |
-
 Seite 21 von 187
 
 
 ---
 
-mehr erfolgt. Es wird vielmehr auf eine komplette elektronische Übermittlung mittels
-
-### installierter Infrastruktur gesetzt.
+mehr erfolgt. Es wird vielmehr auf eine komplette elektronische Übermittlung mittels  installierter Infrastruktur gesetzt.
 
 ### Darüber hinaus gelten für jede LDT-Datei folgende Vorgaben:
 
@@ -958,9 +1020,7 @@ Jeder Satz endet mit dem Feld 8001, welches mit dem Wert der entsprechenden
 
 ### Satzart gefüllt ist.
 
-Jedes Objekt wird mit einem Objektattribut eingeleitet. Das Objektattribut verweist  auf die Verwendung des nachfolgenden Objektes. Als Feldkennungen für die  Objektattribute ist der Wertebereich 8100 bis 8299 reserviert. Das **Objekt** beginnt  mit einem Feld 8002, welches die entsprechende Objekt-ID enthält und endet mit  einem Feld 8003 (Objektende). Dieses Feld enthält ebenfalls als Inhalt die
-
-### entsprechende Objekt-ID.
+Jedes Objekt wird mit einem Objektattribut eingeleitet. Das Objektattribut verweist  auf die Verwendung des nachfolgenden Objektes. Als Feldkennungen für die  Objektattribute ist der Wertebereich 8100 bis 8299 reserviert. Das **Objekt** beginnt  mit einem Feld 8002, welches die entsprechende Objekt-ID enthält und endet mit  einem Feld 8003 (Objektende). Dieses Feld enthält ebenfalls als Inhalt die  entsprechende Objekt-ID.
 
 **IT in der Arztpraxis**  LDT 3
 
@@ -971,7 +1031,9 @@ ist pro Datei einmal vorhanden. Er ist als erster Satz zu übertragen. „8215�
 
 ---
 
-**IT in der Arztpraxis**  LDT 3
+**IT in der Arztpraxis**
+
+LDT 3
 
 ### 6.3.1 Satz- und Objekttabellen
 
@@ -983,9 +1045,7 @@ Die Felder sind durch die Feldkennung (FK) bezeichnet. Die Definition der Felder
 
 ### erfolgt in der Feldtabelle
 
-In den Satz- bzw. Objekttabellen werden nur die Objektattribute mit dem Verweis  auf das verwendete Objekt einzeln aufgeführt. Die Hierarchie ist dem Objektkatalog
-
-### zu entnehmen.
+In den Satz- bzw. Objekttabellen werden nur die Objektattribute mit dem Verweis  auf das verwendete Objekt einzeln aufgeführt. Die Hierarchie ist dem Objektkatalog  zu entnehmen.
 
 Objekte werden immer durch Objektattribute (siehe oben) eingeleitet und in
 
@@ -1254,9 +1314,9 @@ Der Dateiname setzt sich folgendermaßen zusammen:
 |---|---|---|---|---|
 |  |  |  |  |  |
 |  |  |  |  |  |
-|  |  |  | Kennzeichnung LDT-Datei | |
 |  |  |  |  | |
-|  |  |  | | |
+|  |  |  |  | |
+|  |  | beliebig belegt werden) | | |
 |  |  |  | | |
 |  | Fester Wert 01 | | | |
 |  |  | | | |
@@ -1273,7 +1333,7 @@ Ein Dateiname darf max. 256 Zeichen enthalten. Die Dateinamenskonvention ist  ve
 
 LDT 3 Satzbeschreibung, Version 3.2.20
 
-zur ”freien” Verfügung (d.h. die     beliebig belegt werden) weiteren Stellen des Dateinamens können Seite 28 von 187
+zur ”freien” Verfügung (d.h. die Kennzeichnung LDT-Datei weiteren Stellen des Dateinamens können Seite 28 von 187
 
 
 ---
@@ -1293,7 +1353,7 @@ Im Folgenden wird auf die Bedeutung, Funktion und Verwendung der  Objektattribut
 
 *Satzart: L (Labor) Datenpaket Header „8220“*
 
-| FK | 2 | Feldbezeichnung |
+| FK | Vorkommen | Feldbezeichnung |
 |---|---|---|
 | 8000 | 1 | Satzart |
 | 8132 | 1 | Kopfdaten |
@@ -1308,7 +1368,7 @@ Im Folgenden wird auf die Bedeutung, Funktion und Verwendung der  Objektattribut
 
 LDT 3 Satzbeschreibung, Version 3.2.20
 
-4 Vorkommen (Obj_Kopfdaten) (Obj_Laborkennung) (Obj_Betriebsstaette)Seite 29 von 187
+4 (Obj_Kopfdaten) (Obj_Laborkennung) (Obj_Betriebsstaette)Seite 29 von 187
 
 
 ---
@@ -1395,7 +1455,7 @@ Seite 31 von 187
 
 **8.1**  **Satzart: L (Labor)**
 
-| FK | 1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung/Hinwei |
+| FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung/Hinwei |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M | K083        K084        K092 | 8220 |
 | 8132 | 1 | Kopfdaten | M |  |  |
@@ -1408,7 +1468,7 @@ Seite 31 von 187
 
 **8.2** **Satzart: L (Labor)-Datenpaket-Abschluss „8221“**
 
-| FK | 1 | Feldbezeichnung | Feldart | Bedingung | Erläuterung/Hinweis |
+| FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung/Hinweis |
 |---|---|---|---|---|---|
 | 8000 | 1 | Satzart | M |  | 8221 |
 | 9300 | 1 | Prüfsumme | M | E157 |  |
@@ -1422,7 +1482,7 @@ LDT 3 Satzbeschreibung, Version 3.2.20
 
 ## Header „8220“
 
-Vorkommen 4F4F Vorkommen 4 Seite 32 von 187
+4F4F 4 Seite 32 von 187
 
 
 ---
@@ -1556,7 +1616,7 @@ LDT 3 Satzbeschreibung, Version 3.2.20
 
 **IT in der Arztpraxis**  LDT 3
 
-| FK | 1 | Feldbezeichnung | Feldart | Bedingung | s |
+| FK | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung/Hinwei |
 |---|---|---|---|---|---|
 |  | 1 | Obj_0059 | m |  |  |
 | 8167 | n | Zusaetzliche_Informationen | K |  |  |
@@ -1571,7 +1631,7 @@ Hinweis 7F7F8
 
 LDT 3 Satzbeschreibung, Version 3.2.20
 
-Vorkommen 2   3    4 (Obj_Untersuchungsanforderung) Erläuterung/HinweiSeite 37 von 187
+2   3    4 (Obj_Untersuchungsanforderung) Seite 37 von 187
 
 
 ---
@@ -2416,7 +2476,7 @@ Seite 74 von 187
 
 ---
 
-**IT in der Arztpraxis** LDT 3.0
+**IT in der Arztpraxis**  LDT 3.0
 
 | F007 | Basis | F | LDTn.n.n, LDTn.n.nn, LDTn.n.nnn,  LDTn.n.nnnn, LDTn.nn.n, LDTn.nn.nn,  LDTn.nn.nnn, LDTn.nn.nnnn | Format Versionsnummer der Datensatzbeschreibung |
 |---|---|---|---|---|
@@ -2425,9 +2485,7 @@ Seite 74 von 187
 | F011 | KBV | F | nnnnnnmff | Format LANR  m = Prüfziffer *  ff = erlaubter Inhalt gemäß Anlage 35 des BAR-Schlüsselverzeichnisses,  tolerierter Ersatzwert für die Ziffern 8 – 9: 00  999999900 = Ärzte ohne LANR  * Die Prüfziffer wird dazu verwendet um zu prüfen, ob die eingetragene Ziffer  formal korrekt ist.   Diese Prüfziffer wird mittels des Modulo 10 – Verfahrens der Stellen 1 bis 6 der  Arztnummer ermittelt. Bei diesem Verfahren werden die Ziffern 1 bis 6 von links  nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte  wird Modulo 10 berechnet. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl  zu 10 (ist die Differenz 10, so ist die Prüfziffer 0). |
 | F012 | KBV | F | a/nn/JJMM/MM/aaa | Format KBV-Prüfnummer  A = [V, X, Y, Z]  nn = [00-99]  JJMM = Jahr/Monat  MM = Dauer in Monaten  aaa = Systemident (alphanumerisch) |
 
-LDT 3 Satzbeschreibung,
-
-Version 3.2.20
+LDT 3 Satzbeschreibung, Version 3.2.20
 
 alpha ::= A|B|...|Z n ::= 0|1|...|9Seite 75 von 187
 
@@ -3465,7 +3523,9 @@ Seite 122 von 187
 
 ---
 
-**IT in der Arztpraxis**  LDT 3.0
+**IT in der Arztpraxis**
+
+LDT 3.0
 
 ## 11.5  Obj_Abrechnung sonstige Kostenuebernahme „Obj_0005“
 
@@ -3848,7 +3908,9 @@ Seite 134 von 187
 
 ---
 
-**IT in der Arztpraxis**  LDT 3.0
+**IT in der Arztpraxis**
+
+LDT 3.0
 
 ## 11.15 Obj_Betriebsstaette „Obj_0019“
 
@@ -4017,7 +4079,9 @@ vergeben Seite 140 von 187
 
 ---
 
-**IT in der Arztpraxis**  LDT 3.0
+**IT in der Arztpraxis**
+
+LDT 3.0
 
 ## 11.21 Obj_Kommunikationsdaten „Obj_0031“
 
@@ -4113,7 +4177,7 @@ Welche? Wann? Anwendung Seite 143 von 187
 
 ---
 
-**IT in der Arztpraxis** LDT 3.0
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  | Obj_Krebsfrueherkennung |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4168,7 +4232,7 @@ LDT 3 Satzbeschreibung, Version 3.2.20
 
 ---
 
-**IT in der Arztpraxis** LDT 3.0
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  | Obj_Laborergebnisbericht |  |  | OID: noch nicht vergeben | | | |
 |---|---|---|---|---|---|---|---|---|---|
@@ -4186,7 +4250,7 @@ Seite 146 von 187
 
 ---
 
-**IT in der Arztpraxis** LDT 3.0
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.25 Obj_Laborkennung „Obj_0036“
 
@@ -4308,7 +4372,7 @@ Seite 150 von 187
 
 ---
 
-**IT in der Arztpraxis** LDT 3.0
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.28 Obj_Mutterschaft „Obj_0040“
 
@@ -4331,7 +4395,7 @@ Seite 151 von 187
 
 ---
 
-**IT in der Arztpraxis** LDT 3.0
+**IT in der Arztpraxis**  LDT 3.0
 
 ## 11.29 Obj_Namenskennung „Obj_0041“
 
@@ -4940,7 +5004,9 @@ LDT 3.0
 
 ### Empfehlung zur Übermittlung von HPV-Befunden im Rahmen der oKFE-Richtlinie Zervixkarzinom im Objekt Obj_0060
 
-Im Programm zur Früherkennung von Zervixkarzinomen gemäß der Richtlinie für organisierte Krebsfrüherkennungsprogramme ist vorgesehen, dass die HPV-Untersuchung von der zytologisch tätigen Ärztin / dem zytologisch tätigen Arzt als Unterauftrag an ein Labor zur Analyse weitergereicht werden kann. Dazu wird unter  Verwendung von Muster 10 der Auftrag „P HPV“ oder „A HPV“ als präventive Untersuchung erteilt.
+Im Programm zur Früherkennung von Zervixkarzinomen gemäß der Richtlinie für organisierte Krebsfrüherkennungsprogramme ist vorgesehen, dass die HPV-Untersuchung von der zytologisch tätigen Ärztin / dem zytologisch tätigen Arzt als Unterauftrag an ein Labor zur Analyse weitergereicht werden kann. Dazu wird unter
+
+Verwendung von Muster 10 der Auftrag „P
 
 Damit das Befundergebnis automatisiert in das Obj_Untersuchungsergebnis Krebsfrüherkennung Zervix-Obj_Untersuchungsergebnis Klinische Chemie „Obj_0060“ wie folgt übermittelt werden:
 
@@ -4953,13 +5019,17 @@ Damit das Befundergebnis automatisiert in das Obj_Untersuchungsergebnis Krebsfr�
 | Einheitensystem des | 8419 | Dimensionslose Größe | '9' |  |
 | Normalwert | 8142 | Keine Angabe des |  |  |
 
+HPV“ oder „A HPV“ als präventive Untersuchung erteilt.
+
+Karzinom „Obj_0062
+
 * die Syntax ist in Erweiterter Backus-Naur-Form (EBNF) dargestellt.
 
 LDT 3 Satzbeschreibung, Version 3.2.20
 
-Karzinom „Obj_0062 übernommen werden kann, sollte es im
+übernommen werden kann, sollte es im
 
-oder Gruppentypisierung Analysegerätes bzw. PCR- Testkits Ergebniswerte Messwertes / Wertes Normalwertes ('HPV' | 'hpv') und erlaubter Inhalt gemäß Regel '1' | '2' | '3' Seite 171 von 187
+Ergebniswerte Messwertes / Wertes oder Gruppentypisierung Analysegerätes bzw. PCR- Testkits ('HPV' | 'hpv') und erlaubter Inhalt gemäß Regel '1' | '2' | '3' Normalwertes Seite 171 von 187
 
 
 ---
@@ -5260,7 +5330,7 @@ vergeben Seite 179 von 187
 
 ---
 
-**IT in der Arztpraxis** LDT 3.0
+**IT in der Arztpraxis**  LDT 3.0
 
 |  |  |  | Obj_Untersuchungsergebnis Zytologie |  |  | OID: noch nicht | | | |
 |---|---|---|---|---|---|---|---|---|---|

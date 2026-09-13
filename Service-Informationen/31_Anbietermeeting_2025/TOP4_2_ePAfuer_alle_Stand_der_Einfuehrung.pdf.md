@@ -66,15 +66,14 @@ SEITE 4 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
 
 ---
 
-## Daten der gematik – Aktuelle Nutzungszahlen
+| Daten |  | der gematik – Aktuelle Nutzungszahlen |
+|---|---|---|
+| **EPA FÜR** | **ALLE - STAND** | **DER EINFÜHRUNG** |
+|  | KBV-ANBIETERMEETING, | 18. SEPTEMBER 2025 |
 
 - **DATEN GEMATIK**
 
-**EPA FÜR ALLE - STAND DER EINFÜHRUNG**
-
-SEITE 5
-
-Quelle: gematik – Statusupdate am 16.09.2025 KBV-ANBIETERMEETING, 18. SEPTEMBER 2025
+Daten der gematik – EPA FÜR ALLE - STAND DER EINFÜHRUNG KBV-ANBIETERMEETING, 18. SEPTEMBER 2025Quelle: gematik – Statusupdate am 16.09.2025 SEITE 5
 
 
 ---
@@ -204,29 +203,17 @@ SEITE 8
 
 - **BLICK IN DIE ARZTPRAXIS**
 
-## Metadaten des Arztbriefes ausfüllen
+**7.** Metadaten des Arztbriefes ausfüllen**7.**
 
-**7. 7.**
+**8. 8.** Arztbrief in die ePA einstellen
 
-## Arztbrief in die ePA einstellen
+**9. 9.** BMP suchen
 
-**8. 8.**
+**10. 10.** Metadaten BMP ausfüllen
 
-## BMP suchen
+**11. 11.** BMP in ePA einstellen
 
-**9. 9.**
-
-## Metadaten BMP ausfüllen
-
-**10. 10.**
-
-## BMP in ePA einstellen
-
-**11. 11.**
-
-## GOP 01647/01648 zusetzen
-
-**12. 12.**
+**12. 12.** GOP 01647/01648 zusetzen
 
 SEITE 9
 

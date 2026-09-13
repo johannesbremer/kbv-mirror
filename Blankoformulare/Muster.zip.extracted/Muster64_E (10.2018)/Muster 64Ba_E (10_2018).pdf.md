@@ -16,7 +16,11 @@
 
 **Mütter-Leistung**
 
+**Väter-Leistung**
+
 **B. Angaben zu Kindern, die mit aufgenommen werden sollen** **Name des Kindes**
+
+**Geburtsdatum**
 
 **1.**
 
@@ -26,9 +30,7 @@
 
 **VI. Sonstige Angaben**
 
-**Anforderungen an die EinrichtungA.**
-
-***spezialisierte Therapieangebote, konfessionelle Ausrichtung, Einrichtung nur für Frauen, Hinweise für mitaufzunehmende Kinder)***
+**A. Anforderungen an die Einrichtung***** (z.B. Klima, Barrierefreiheit, Allergenarmut, besondere Kostformen, fremdsprachliche Angebote,*** ***spezialisierte Therapieangebote, konfessionelle Ausrichtung, Einrichtung nur für Frauen, Hinweise für mitaufzunehmende Kinder)***
 
 **ja, folgende**
 
@@ -37,12 +39,6 @@
 **ja, Erläuterung**
 
 **C. Sonstiges***** (z. B. besondere Hinweise zur Reisefähigkeit, ggf. vorliegende Schwangerschaft)***
-
-**Väter-Leistung**
-
-**Geburtsdatum**
-
-***(z.B. Klima, Barrierefreiheit, Allergenarmut, besondere Kostformen, fremdsprachliche Angebote,***
 
 **D. Rückruf erbeten unter Telefon-Nummer**
 
@@ -60,15 +56,15 @@
 
 **Vater-Kind-Leistung**
 
-**s. Attest Kind** **Belastete** **Psychosoziale** **Gründe/**
+**s. Attest Kind** **Belastete** **Psychosoziale** **insbes. bei Mutter-/**
 
-**insbes. bei Mutter-/** **Behandlungs-**
+**Gründe/**
+
+**notwendigkeit*** **Behandlungs-**
 
 **Betreuung**
 
 **Vater-Kind-** **Beziehung** **notwendig**
-
-**notwendigkeit***
 
 **Ausstellungsdatum**
 

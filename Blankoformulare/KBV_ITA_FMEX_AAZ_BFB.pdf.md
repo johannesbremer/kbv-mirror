@@ -349,15 +349,15 @@ DIN A4 hoch kein -Vereinbarung
 
 ---
 
+Antragssteller:
+
 **2.4** **BARCODE**
 
-Der Barcode PDF 417 wird bei den vertragsärztlichen Formularen gemäß Vorgabe zu den jeweiligen   Mustern erzeugt (außer Formulare der Psychotherapie) und wird an definierter Stelle ausgedruckt.
-
-Antragssteller:
+Der Barcode PDF 417 wird bei den vertragsärztlichen Formularen gemäß Vorgabe zu den jeweiligen  Mustern erzeugt (außer Formulare der Psychotherapie) und wird an definierter Stelle ausgedruckt.
 
 **2.5**  **SICHERHEITSPAPIER**
 
-Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier   verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer  bei PTV und diversen KV-spezifischen Formularen).
+Die Anwender werden darüber informiert, dass im Rahmen der BFB nur Sicherheitspapier  verwendet werden darf, sofern in der Vordruckvereinbarung nichts anderes festgelegt wird (außer  bei PTV und diversen KV-spezifischen Formularen).
 
 Seite 7 von 11 / KBV / Antrag auf Zertifizierung Blankoformularbedruckung / Version: 4.8 / 15. Mai 2024
 

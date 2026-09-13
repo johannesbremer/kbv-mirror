@@ -123,11 +123,15 @@ Folgende optionale ADT Funktionen sind gem. Anforderungskatalog KVDT realisiert.
 |  |  |
 |  |  |
 
+- allen Feldern
+- allen Ausprägungen (erlaubte Inhalte) zu den Feldern
+- allen Regeln
+
 Antragssteller:
 
 Seite 4 von 8 / KBV / Antrag auf Zertifizierung Kurärztliche Abrechnung / Version: 4.2 / 15. Mai 2024
 
-mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln 
+mit  
 
 
 ---

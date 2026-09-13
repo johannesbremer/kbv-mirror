@@ -81,47 +81,52 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 
 ---
 
-\|  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
-| 2 2.1 |  |
-|---|---|
-| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
-| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
-| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
-| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
-|  | ☐ |
+# 2 REALISIERUNG VON ANFORDERUNGEN
+
+**2.1** **ANFORDERUNGSDOKUMENTE**
 
 |  |  |
 |---|---|
 | ☐ | Der Antragsteller versichert, dass die technischen und organisatorischen Maßnahmen (TOMs)  KBV_ITV_FMEX_TOM_370a] werden im Rahmen der Zertifizierung überprüft. Eine |
 | ☐ | Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden  Anforderungsdokumente und Schnittstellenbeschreibungen erfüllt sind. Diese Dokumente sind  dem Anforderungskatalog „Anforderungskatalog Schnittstelle gemäß §370a Abs. 2 SGB V“  VERFAHRENSORDNUNG NACH § 370A ABS. 3 SGB V] zu entnehmen. |
 
+## 2.2 REALISIERTE OPTIONALE FUNKTIONEN
+
+Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der  Schnittstelle gemäß § 370A Abs.2 SGB V (unter  [https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD%](https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD%) 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c) realisiert.
+
 |  |  |
 |---|---|
 | ☐ | Alle Anforderungen zur optionalen Funktion |
 | ☐ | Alle Anforderungen zur optionalen Funktion |
 
+### 2.2.1 Telemedizinische Leistungen
+
+Folgende optionale Erweiterungen wurden zur Funktion Telemedizinische Leistungen umgesetzt:
+
 |  |  | | | | |
 |---|---|---|---|---|---|
 | ☐ | KEINE | ☐ | ALLE | ☐ | Laut nachfolgender Liste |
+
+|  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
+|---|---|
+| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
+| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
+| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
+| ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
 
 Antragssteller:
 
 Seite 4 von 8 / KBV / Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V / Version: 1.3 / 15. April 2026
 
-gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [ Prüfnummer wird nur bei vollständiger Erfüllung vergeben. Telemedizinische Leistungen  wurden umgesetzt. Behandlungstermin wurden umgesetzt. REALISIERUNG VON ANFORDERUNGEN ANFORDERUNGSDOKUMENTE 2.2 REALISIERTE OPTIONALE FUNKTIONEN Folgende optionale Funktionen sind gemäß der aktuell gültigen Technischen Anlage zur Spezifikation der Schnittstelle gemäß § 370A Abs.2 SGB V (unter https://www.ina.gematik.de/detailansicht?rsmbasechild_knowledgebasesingle%5Bdocid%5D=STANDARD% 3A10443&cHash=1c7bdad095b176382087fee0dbe5a96c ) realisiert. 2.2.1 Telemedizinische Leistungen Folgende optionale Erweiterungen wurden zur Funktion Telemedizinische Leistungen umgesetzt:  start  ende postleitzahl leistungsmerkmal
+gemäß der Datenschutz-Grundverordnung (DSGVO) umgesetzt und dokumentiert wurden. Die TOMs laut [ Prüfnummer wird nur bei vollständiger Erfüllung vergeben. Telemedizinische Leistungen  wurden umgesetzt. Behandlungstermin wurden umgesetzt.  start  ende postleitzahl leistungsmerkmal
 
 
 ---
 
 Antragssteller:
 
-\|  |  |
 |  | BEZEICHNUNG DER OPTIONALEN ERWEITERUNG |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 | ☐ | Videosprechstundenterminslots abrufen (Video Consultation Slot Search) - Suchparameter |
 
 ### 2.2.2 Behandlungstermin

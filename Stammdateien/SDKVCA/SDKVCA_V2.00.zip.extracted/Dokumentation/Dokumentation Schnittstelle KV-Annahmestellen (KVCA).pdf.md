@@ -68,14 +68,15 @@ anwendung (Anwendung)...........................................................
 
 ---
 
-6 keytabs (Schlüsseltabellen) ............................................................................................ 25 6.1 keytabs (Schlüsseltabellen)...................................................................................................................... 25
+| 6 | keytabs (Schlüsseltabellen)............................................................................................25 |
+|---|---|
+| 6.1 keytabs | (Schlüsseltabellen)......................................................................................................................25 |
+| 6.1.1 keytab | (Schlüsseltabelle) ..............................................................................................................................................................25 |
+| key | (Schlüssel) ...................................................................................................................................................................................25 |
+| 7 | Anhang....................................................................................................................................27 |
+| 7.1 | Zuordnung OID - Schlüsseltabelle ........................................................................................................27 |
 
-6.1.1 keytab (Schlüsseltabelle) .............................................................................................................................................................. 25
-
-key (Schlüssel) ................................................................................................................................................................................... 25
-
-7 Anhang.................................................................................................................................... 27 7.1 Zuordnung OID - Schlüsseltabelle ........................................................................................................ 27
-
+keytabs (Schlüsseltabellen)...................................................................................................................... 25 6.1.1 keytab (Schlüsseltabelle) .............................................................................................................................................................. 25 key (Schlüssel) ................................................................................................................................................................................... 25
 
 ---
 
@@ -170,47 +171,43 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **Kap Änderung**
 
-**Status**
-
 0.4 16.07.20 KV Telematik 5
 
-Aufnahme Attribut-Gruppe gueltigkeit
-
-außer  18
+Aufnahme Attribut-Gruppe gueltigkeit 18
 
 GmbH
 
-Anpassung Abbildung 11
+Anpassung Abbildung 11 Anpassung Tabelle 16 <version> Angabe von max. 2 Elementen möglich gueltigkeit kann gesetzt werden Anpassung Tabelle 15
 
-Kraft Anpassung Tabelle 16 <version> Angabe von max. 2 Elementen möglich gueltigkeit kann gesetzt werden Anpassung Tabelle 15
-
-0.3 07.11.20 KV Telematik alle Überarbeitung nach interner Kommentierung
-
-außer  16
+0.3 07.11.20 KV Telematik alle Überarbeitung nach interner Kommentierung 16
 
 GmbH
 
-Kraft
-
-0.2 25.10.20 KV Telematik alle redaktionelle Änderungen
-
-außer  16
+0.2 25.10.20 KV Telematik alle redaktionelle Änderungen 16
 
 GmbH
 
-Kraft 0.1 24.10.20 KV Telematik alle
-
-initiale  16
+0.1 24.10.20 KV Telematik alle 16
 
 GmbH
-
-Erstellun g
 
 **Herausgeber:** kv.digital GmbH
 
-**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)**[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
+**Die Spezifikation untersteht den Lizenzbestimmungen für die untentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)** [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
 
-Seite 5 von 27
+Seite
+
+**Status**
+
+außer  Kraft
+
+außer  Kraft
+
+außer  Kraft
+
+initiale  Erstellun g
+
+[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) 5 von 27
 
 
 ---
@@ -311,9 +308,11 @@ Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 ---
 
+**3 ehd-Element (root-Element)**
+
 Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
-**3 ehd-Element (root-Element)** Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“ und „body“  *und "keytabs"*, wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen  zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt.* Im "keytabs"-Element werden die*  *Schlüsseltabellen definiert, welche für die Referenzierung innerhalb der XML-Datei verwendet werden.*  Für die XML-Dateien ist der Zeichensatz UTF-8 vorgeschrieben. Bei allen Elementen, die in diesem Dokument  beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
+Dieses Element ist das Wurzelelement der Schnittstelle. Es beinhaltet die Unterelemente „header“ und „body“  *und "keytabs"*, wie es in Abbildung 1 dargestellt ist. Im „header“-Element stehen die spezifischen Informationen  zur Schnittstelle. Im „body“-Element werden die eigentlichen Daten hinterlegt.* Im "keytabs"-Element werden die*  *Schlüsseltabellen definiert, welche für die Referenzierung innerhalb der XML-Datei verwendet werden.*  Für die XML-Dateien ist der Zeichensatz UTF-8 vorgeschrieben. Bei allen Elementen, die in diesem Dokument  beschrieben werden, ist es wichtig, die Groß-/Kleinschreibung zu beachten.
 
 Das Element hat folgenden Aufbau:
 
@@ -353,6 +352,8 @@ Seite 10 von 27
 
 4.1.1 id (Dokument-ID)
 
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
+
 Das Element <id> ist ein eindeutiger Instanz-Identifikator, mit welchem jedes XML-Dokument bzw. jede XML-Datei weltweit identifiziert werden kann. Jede XML-Datei hat eine andere id. D.h., dass auch bei Korrekturen  eine neue id vergeben werden muss.
 
 Das Element hat folgenden Aufbau:
@@ -370,6 +371,12 @@ xs:string optional
 RT
 
 xs:string required
+
+**Erläuterung**
+
+(„extension“=“Erweiterung“ zu dem RT-Attribut)  dieses Attribut enthält eine OID bzw. Nummer des  Objektes, welches das Objekt innerhalb der  Organisation bzw. eines Bereichs eindeutig  identifiziert. Zusammen mit dem RT-Attribut ergibt  sich ein weltweit einmaliger Identifikator.
+
+(„root“=“Wurzel“) dieses Attribut enthält eine OID/ Nummer der Organisation oder der Person, der das  Dokument erzeugt/versendet. In dieser Schnittstelle  hat das Attribut den Wert "1.2.276.0.76.3.1.64".
 
 example <ehd:id EX="8adbfaf2-cc71-4cc9-ba3b-d7fc7c077456" RT="1.2.276.0.76.3.1.64"/>
 
@@ -391,45 +398,35 @@ attributes V
 
 xs:nonNegati required veInteger
 
+**Erläuterung**
+
+Im V-Attribut steht die Versionsnummer, bei der  Erstlieferung erhält das V-Attribut die Ziffer „1“. Für  jede nachfolgende Austausch-, Korrektur-Lieferung  wird die Versionsnummer um eins hochgezählt.
+
 example <ehd:version_nbr V="1"/>
 
 **3 Tabelle: version_nbr**
 
 4.1.3 document_type_cd (Bezeichnung des Datentyps)
 
-Das Element <document_type_cd> beschreibt den Dokumenttype, d.h. um welche Schnittstelle bzw. Satzart es
-
-sich handelt.
+Das Element <document_type_cd> beschreibt den Dokumenttype, d.h. um welche Schnittstelle bzw. Satzart es  sich handelt.
 
 Das Element hat folgenden Aufbau:
 
 **Name**
 
-attributes V
-
 **Type**
 
 **Use**
 
+attributes V
+
 xs:string required
-
-Seite 11 von 27
-
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
-
-**Erläuterung**
-
-(„extension“=“Erweiterung“ zu dem RT-Attribut)  dieses Attribut enthält eine OID bzw. Nummer des  Objektes, welches das Objekt innerhalb der  Organisation bzw. eines Bereichs eindeutig  identifiziert. Zusammen mit dem RT-Attribut ergibt  sich ein weltweit einmaliger Identifikator.
-
-(„root“=“Wurzel“) dieses Attribut enthält eine OID/ Nummer der Organisation oder der Person, der das  Dokument erzeugt/versendet. In dieser Schnittstelle  hat das Attribut den Wert "1.2.276.0.76.3.1.64".
-
-**Erläuterung**
-
-Im V-Attribut steht die Versionsnummer, bei der  Erstlieferung erhält das V-Attribut die Ziffer „1“. Für  jede nachfolgende Austausch-, Korrektur-Lieferung  wird die Versionsnummer um eins hochgezählt.
 
 **Erläuterung**
 
 Kürzel, kodierter Wert
+
+Seite 11 von 27
 
 
 ---
@@ -524,6 +521,8 @@ Seite 13 von 27
 
 ---
 
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
+
 **4 Abbildung: organization** In der Stammdatei KVCA werden nur die Kindelemente organization.nm, addr sowie telecom verwendet.
 
 organization.nm (Organisationsname)
@@ -536,11 +535,13 @@ Das Element <organization.nm> enthält den Namen der Organisation und hat folgen
 
 **Use**
 
+**Erläuterung**
+
 attributes V
 
-example <ehd:organization.nm V="kv.digital GmbH"/>
+xs:string required Angabe zum Organisationsnamen
 
-xs:string required
+example <ehd:organization.nm V="kv.digital GmbH"/>
 
 **7 Tabelle: organization.nm**
 
@@ -548,24 +549,18 @@ addr (Adresse der Organisation)
 
 In diesem Element wird die Adresse der Organisation angegeben. Das Element hat folgende Struktur:
 
-Seite
-
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
-
-**Erläuterung**
-
-Angabe zum Organisationsnamen 14 von 27
+Seite 14 von 27
 
 
 ---
+
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **5 Abbildung: addr**
 
 In der Stammdatei werden nur die folgenden Kindelemente verwendet:
 
-STR (Straße) HNR (Hausnummer)
-
-ZIP (Postleitzahl) CTY (Stadt)
+STR (Straße) HNR (Hausnummer) ZIP (Postleitzahl) CTY (Stadt)
 
 Werte für diese Elemente werden im V-Attribut angegeben.
 
@@ -575,30 +570,24 @@ Jedes Adressteil-Element hat folgenden Aufbau:
 
 **Type**
 
-attributes
+**Use**
 
-example
+**Erläuterung**
+
+attributes V
+
+xs:string required Entsprechende Werte für STR, HNR, ZIP sowie CTY.
+
+example <ehd:STR V="Herbert-Lewin-Platz"/> <ehd:HNR V="2"/> <ehd:ZIP V="10623"/> <ehd:CTY V="Berlin"/>
 
 **8 Tabelle: STR, HNR, ZIP und CTY**
 
 Seite 15 von 27
 
-V
-
-xs:string
-
-<ehd:STR V="Herbert-Lewin-Platz"/> <ehd:HNR V="2"/> <ehd:ZIP V="10623"/> <ehd:CTY V="Berlin"/>
-
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
-
-**Use**
-
-**Erläuterung**
-
-required Entsprechende Werte für STR, HNR, ZIP sowie CTY.
-
 
 ---
+
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 telecom (Kommunikationsmöglichkeiten)
 
@@ -612,9 +601,13 @@ Jedes Kommunikations-Element hat folgenden Aufbau:
 
 **Use**
 
+**Erläuterung**
+
 attributes V
 
-xs:string required
+xs:string required Angaben für
+
+tel (Telefon) fax (Fax) mailto (E-Mail-Adresse) http (Homepage) ftp (FTP-Server)
 
 example <ehd:telecom V="tel:030 - 45002700"/> <ehd:telecom V="[support@kv.digital](mailto:support@kv.digital)"/>
 
@@ -626,16 +619,10 @@ Das Element <provider> enthält Informationen zum Lieferanten/Sender der Daten u
 
 Seite 16 von 27
 
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
-
-**Erläuterung**
-
-Angaben für
-
-tel (Telefon) fax (Fax) mailto (E-Mail-Adresse) http (Homepage) ftp (FTP-Server)
-
 
 ---
+
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
 
 **6 Abbildung: provider** Bei der Stammdatei KVCA wird nur das Kindelement organization genutzt (siehe organization  (Organisationsdaten)).
 
@@ -645,41 +632,31 @@ Das Element <state> enthält Informationen zum Bearbeitungszustand und hat folge
 
 **Name**
 
-attributes V
-
-S
-
-SN
-
-*DN*
-
-Seite
-
 **Type**
 
 **Use**
 
-xs:string required
+**Erläuterung**
 
-xs:string optional
+attributes V
 
-xs:string optional
+xs:string required Angaben zum Bearbeitungszustand
+
+S
+
+xs:string optional OID der entsprechenden Schlüsseltabelle. In dieser  Schnittstelle wird das S-Attribut mit dem Wert  "1.2.276.0.76.3.1.135.108"  (S_KBV_BEARBEITUNGSZUSTAND) belegt.
+
+SN
+
+xs:string optional Menschenlesbarer Klartextname der Schlüsseltabelle.
+
+*DN*
 
 *xs:string optional*
 
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
-
-**Erläuterung**
-
-Angaben zum Bearbeitungszustand
-
-OID der entsprechenden Schlüsseltabelle. In dieser  Schnittstelle wird das S-Attribut mit dem Wert  "1.2.276.0.76.3.1.135.108"  (S_KBV_BEARBEITUNGSZUSTAND) belegt.
-
-Menschenlesbarer Klartextname der Schlüsseltabelle.
-
 *menschenlesbarer Klartextname des Wertes "V"*
 
-17 von 27
+Seite 17 von 27
 
 
 ---
@@ -849,6 +826,14 @@ RT
 
 xs:string required
 
+Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
+
+**Erläuterung**
+
+Dieses Attribut enthält die ID der KV.
+
+Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT-Attribut mit dem Wert "1.2.276.0.76.5.233"  (S_KBV_KV) belegt.
+
 example <kvca:id EX="38" RT="1.2.276.0.76.5.233"/>
 
 **14 Tabelle: id**
@@ -863,17 +848,7 @@ anwendung (Anwendung)
 
 Das Element <anwendung> gibt die konkrete Anwendung und dessen aktuelle Spezifika an. Das Element hat  folgende Struktur:
 
-Seite
-
-Dokumentation Schnittstelle KV-Annahmestellen (KVCA)
-
-**Erläuterung**
-
-Dieses Attribut enthält die ID der KV.
-
-Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle. In dieser Schnittstelle wird das RT-Attribut mit dem Wert "1.2.276.0.76.5.233"  (S_KBV_KV) belegt.
-
-21 von 27
+Seite 21 von 27
 
 
 ---
@@ -888,11 +863,11 @@ Das Element hat folgenden Aufbau:
 
 **Name**
 
-attributes EX
-
 **Type**
 
 **Use**
+
+attributes EX
 
 xs:string required
 
@@ -975,17 +950,15 @@ Das Element <kim_email> enthält eine KIM Emailadresse unter der eine KV die Anw
 
 *attributes V*
 
-*example*
-
-**18 Tabelle: kim_email** Das Element hat denselben Aufbau wie das Element <email> (siehe email (KV-Connect Adresse)).
-
-Seite 23 von 27
-
 *gueltig_ab*
 
 *gueltig_bis*
 
-*<kvca:kim_email V="abrechnung@*
+*example <kvca:kim_email V="abrechnung@*
+
+**18 Tabelle: kim_email** Das Element hat denselben Aufbau wie das Element <email> (siehe email (KV-Connect Adresse)).
+
+Seite 23 von 27
 
 **Type**
 
@@ -1129,19 +1102,9 @@ Das Element hat folgenden Aufbau:
 
 attributes S
 
-**Type**
-
-**Use**
-
-xs:string required
-
 SN
 
-xs:string required
-
 SV
-
-xs:string required
 
 example <keytab SV="1.05" SN="S_KBV_DIENST" S="1.2.276.0.76.3.1.64.5.1">
 
@@ -1158,6 +1121,16 @@ Das Element <key> hat folgenden Aufbau:
 **Name**
 
 attributes *V*
+
+**Type**
+
+**Use**
+
+xs:string required
+
+xs:string required
+
+xs:string required
 
 **Type**
 
@@ -1187,6 +1160,8 @@ Versionsnummer der Schlüsseltabelle
 
 zu finden.
 
+*V,* S, DN und SV
+
 **Erläuterung**
 
 *Dieses Element enthält den Wert (z.B. Name, Kürzel)*  *des Schlüssels*
@@ -1194,8 +1169,6 @@ zu finden.
 Dieses Attribut enthält die OID der entsprechenden  Schlüsseltabelle.
 
 Menschenlesbarer Wert
-
-*V,* S, DN und SV
 
 
 ---

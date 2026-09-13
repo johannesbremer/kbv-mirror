@@ -989,16 +989,6 @@ Seite 23 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 | Hessen | › ›**· ·** |
 | Rheinland-Pfalz | › |
 | Bayerns | › ›**·** |
-|  |  |
-|  | |
-|  | Noch in Klärung |
-|  | **· ·** |
-|  |  |
-|  |  |
-|  | › |
-|  |  |
-|  |  |
-|  | **· KV** |
 
 Seite 24 von 26 / KBV / Sprechstunde Hybrid-DRG / 18. August 2025
 
@@ -1006,18 +996,8 @@ Bereitstellung einer Webanwendung zur Abrechnung von Hybrid-DRG Abrechnungen Ann
 
 ---
 
-| · |  |
+| KV | FORM DER DATENANNAHME |
 |---|---|
-|  |  |
-|  | **·** |
-|  | › › |
-|  |  |
-|  |  |
-|  | **·** |
-|  |  |
-|  |  |
-|  | › |
-| **KV** | **FORM DER DATENANNAHME** |
 | **·** | |
 | Baden-Württemberg | › ›**· ·** |
 | Berlin | › ›**· ·** |

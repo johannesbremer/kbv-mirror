@@ -28,28 +28,28 @@ INHALT
 | 1.2 Zertifizierungsablauf | 4 |
 | 1.3 Zertifizierungsportal | 5 |
 | 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prü funterlagen | 5 |
-| 1.6 Prü fvorgaben | 7 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
 | 1.6.1 Schnittstellenversionen | 7 |
 | 1.6.2 Datumseingaben | 7 |
-| 1.6.3 Prü fstammdaten | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
 | 1.6.4 Versichertendaten | 7 |
 | 1.6.5 Praxisdaten/ Arztstempel | 8 |
 | 1.6.6 Krankenhausdaten | 8 |
-| 1.6.7 Prü fnummer | 8 |
+| 1.6.7 Prüfnummer | 8 |
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
-| 1.6.9 Auflistung der Prü ffä lle | 9 |
+| 1.6.9 Auflistung der Prüffälle | 9 |
 
-| PRÜ FFÄ LLE |  |  |  | 10 |
-|---|---|---|---|---|
-| 2.1 Prü | ffä lle |  | Dokumentation | 10 |
-| 2.1.1 |  | Prü ffall | 1111 | 10 |
-| 2.1.2 |  | Prü ffall | 1112 | 12 |
-| 2.2 Prü | ffall |  | Systemreaktion | 14 |
-| 2.2.1 |  | Prü ffall | 1114 | 14 |
-| 2.3 Weitere | | Prü ffä | lle zum Anforderungskatalog | 18 |
-| 2.3.1 |  | Prü ffall | 1130 | 18 |
-| 2.3.2 |  | Prü ffall | 1140 | 19 |
+| PRÜFFÄLLE |  |  | 10 |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 10 |
+| 2.1.1 | Prüffall | 1111 | 10 |
+| 2.1.2 | Prüffall | 1112 | 12 |
+| 2.2 Prüffall |  | Systemreaktion | 14 |
+| 2.2.1 | Prüffall | 1114 | 14 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 18 |
+| 2.3.1 | Prüffall | 1130 | 18 |
+| 2.3.2 | Prüffall | 1140 | 19 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -69,7 +69,7 @@ Seite 2 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene /
 
 Version: 1.00 / 31. März 2026
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 1111 Prüffall 1112 Prüffall Systemreaktion Prüffall 1114 Weitere Prüffälle zum Anforderungskatalog Prüffall 1130 Prüffall 1140 
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 1111 Prüffall 1112 Prüffall Systemreaktion Prüffall 1114 Weitere Prüffälle zum Anforderungskatalog Prüffall 1130 Prüffall 1140 
 
 
 ---
@@ -175,8 +175,7 @@ Seite 5 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 
 
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 1140) müssen in  einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- _[lfdNr.]2 3
--  PrüffallNr. 1
+- PrüffallNr. 1_[lfdNr.]2 3
 - Teilnahmeerklärung (Prüffall 1140): TE_EWE_ADERW.pdf
 - Alle Prüfunterlagen (ADERW-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die ADERW-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:
 - Zert_111_SystemID.zip
@@ -318,7 +317,25 @@ Seite 9 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 
 
 ---
 
-PRÜFFÄLLE
+# PRÜFFÄLLE
+
+## 2.1 PRÜFFÄLLE DOKUMENTATION
+
+**2.1.1** **Prüffall 1111**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 1111 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Einzureichende  Prüfunterlagen** | › |
+| **Hinweis** | › |
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+**1. Versichertendaten**
+
+Die Versichertendaten von **Katarina Maier (XML_12)**
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -339,46 +356,17 @@ PRÜFFÄLLE
 | **Behandlungsplanung** | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
-| **2.1** |  |  |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 1111 |
-| **Testziel** | › |
-| **Voraussetzung** | › |
-| **Einzureichende  Prüfunterlagen** | › |
-| **Hinweis** | › |
 
 Seite 10 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
 
-Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 1111 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Katarina Maier (XML_12) Informationsangebote der Krankenkasse  einlesen und speichern. Erwachsene Erwachsene
+einlesen und speichern.
+
+Anlage einer Erst- und einer Folgedokumentation eDMP Adipositas - Erwachsene Dokumentationsunterlagen Informationsangebote der Krankenkasse Erwachsene Erwachsene
 
 ---
 
-|  | | |
-|---|---|---|
-|  |  |  |
-|  | | |
-|  | Adipositas-Schulung empfohlen (bei aktueller |  |
-|  | Adipositas-Schulung wahrgenommen |  |
-|  |  |  |
-|  | Manifester Diabetes mellitus Typ 2 |  |
-|  | Beendigung der DMP-Teilnahme |  |
-|  |  | **INDIKATIONSPEZIFISCHE DATEN** |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
-
-Seite 11 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
-
-Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training seit der letzten Dokumentation Regelmäßige körperliche Alltagsaktivität Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung seit der letzten Dokumentation Adäquat geändertes Ernährungsverhalten Prädiabetes bei Einschreibung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Erstdokumentation Ziele vereinbart Ja Nein Ziele vereinbart  Ja Nein Ja Ja Folgedokumentation Keine Ziele vereinbart  oder überprüft Nein Ja Keine Ziele vereinbart oder überprüft Nein Nein Nein Ja Nein
+|---|---|---|
 
 | INDIKATIONSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -399,6 +387,10 @@ Therapeutische Maßnahmen Ziele zur regelmäßigen körperlichen Alltagsaktivit�
 | **Relevante Ereignisse seit der letzten Dokumentation** | | |
 | Manifester Diabetes mellitus Typ 2 |  |  |
 | Beendigung der DMP-Teilnahme |  | Nein |
+
+Seite 11 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
+
+Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem Training seit Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung teilgenommen Dokumentation) 
 
 
 ---
@@ -476,7 +468,25 @@ Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem
 
 ---
 
-**2.2** **PRÜFFALL SYSTEMREAKTION**
+## 2.2 PRÜFFALL SYSTEMREAKTION
+
+**2.2.1** **Prüffall 1114**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 1114 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Prüfunterlagen** | ›   › |
+| **Hinweis** | › |
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+- **1.** **Versichertendaten**
+
+Die Personalien zu dem Testfall sind frei wählbar.
+
+- **2.** **Anlegen einer Erstdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -495,47 +505,16 @@ Alltagsaktivität und körperlichem Training Alltagsaktivität und körperlichem
 | Raucher | Ja |  |
 | Begleiterkrankungen | Keine der genannten |  |
 | **Behandlungsplanung** | | |
-| **2.2.1** |  |  |
-|  |  |  |
-|  |  |  |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 1114 |
-| **Testziel** | › |
-| **Voraussetzung** | › |
-| **Prüfunterlagen** | ›   › |
-| **Hinweis** | › |
-
-**Aktionen, die durch den Antragsteller durchgeführt werden:**
-
-- **1.**
-- **2.**
 
 Seite 14 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
 
-Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Prüffall 1114 Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation Patienten Erkrankungen
+Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw. Fehlermeldungen.  Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben sind. Patienten Erkrankungen 
+
 
 ---
 
-|  | | |
-|---|---|---|
-|  |  |  |
-|  | | |
-| Nein |  |  |
-| Ja |  |  |
-| **3.** |  |  |
-| **Erstdokumentation** | **Therapeutische Maßnahmen** | **Schulung** |
-|  |  |  |
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
 | Vom Patienten gewünschte Informationsangebote |  |  |
+|---|---|---|
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 
@@ -556,9 +535,11 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Dokumentieren Sie durc
 | Manifester Diabetes mellitus Typ 2 | Nein | Nr. 6 |
 | Beendigung der DMP-Teilnahme | Ja | Nr. 7 |
 
+- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die**  **Erstdokumentation abgeschlossen werden kann.**
+
 Seite 15 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
 
-der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele zur regelmäßigen körperlichen Alltagsaktivität und körperlichem Training Nr. 2 Regelmäßige körperliche Alltagsaktivität Ziele vereinbart  Regelmäßiges körperliches Training Ziele zur Ernährungsumstellung oder zur Nr. 3 Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Keto Nr. 4 Prädiabetes bei Einschreibung Unbekannt Nr. 5 Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung teilgenommen Adipositas-Schulung empfohlen (bei aktueller Dokumentation) Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Nr. 6 Nr. 7 Beendigung der DMP-Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann.
+der Krankenkasse und körperlichem Training Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung teilgenommen Dokumentation) 
 
 
 ---
@@ -594,16 +575,6 @@ der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN Aktion Ziele vereinbart Ziele zur 
 | Ziele zur regelmäßigen körperlichen Alltagsaktivität |  | Nr. 10 |
 | Regelmäßige körperliche Alltagsaktivität | Ja |  |
 | Regelmäßiges körperliches Training | Ja |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
-|  | DMP-Fallnummer |  |
-|  | Krankenhaus-IK |  |
-|  | | |
-|  | Datum der Erstellung (siehe Kap. 1.6.2) |  |
-|  | Einschreibung wegen |  |
-|  | Geschlecht |  |
 
 Seite 16 von 23 / KBV / Prüfpaket eDMP- Adipositas - Erwachsene / Version: 1.00 / 31. März 2026
 
@@ -611,15 +582,8 @@ der Krankenkasse Asthma bronchiale Ernährungsberatung,  und körperlichem Train
 
 ---
 
-|  | | |
-|---|---|---|
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart oder |  |
+|---|---|---|
 | Adäquat geändertes Ernährungsverhalten | Ja |  |
 | Prädiabetes bei Einschreibung | Nein | Nr. 11 |
 | **Schulung** | | |
@@ -726,7 +690,7 @@ Typ
 
 ZIP-komprimierter Ordner
 
-XKM-Datei    Dateiordner
+XKM-Datei   Dateiordner
 
 IDX-Datei
 

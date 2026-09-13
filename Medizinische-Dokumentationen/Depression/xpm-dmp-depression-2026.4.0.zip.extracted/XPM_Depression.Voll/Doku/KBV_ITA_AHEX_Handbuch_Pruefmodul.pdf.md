@@ -210,22 +210,16 @@ Seite 3 26 von
 
 **25**
 
-**6.1**
-
-| Konfiguration | der | XPM-Meldungen........................................................................................... 25 |
+| Konfiguration | der XPM-Meldungen | ........................................................................................... 25 |
 |---|---|---|
 | **Meldungsliste** | **..............................................................................................................................** | **25** |
 |  | **Hinweise.......................................................................................................................................** | **26** |
-
-**6.2**
-
-**6.3**
 
 **IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
 
-Konfiguration der XPM-Meldungen Meldungsliste .............................................................................................................................. 25 ....................................................................................................................................... 26Seite 4 26 von
+6.1 Konfiguration der XPM-Meldungen 6.2 Meldungsliste .............................................................................................................................. 25 6.3 ....................................................................................................................................... 26Seite 4 26 von
 
 
 ---
@@ -352,11 +346,9 @@ In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfigu
 
 ## 2.4 Ordner 'Geprueft/Abgelehnt'
 
-Dieser Ordner dient als Ablage für  einigen Prüfprojekten entfallen.
+Dieser Ordner dient als Ablage für **nicht** korrekt geprüfte Dateien. Dieser Ordner kann bei  einigen Prüfprojekten entfallen.
 
 In einigen XPM-Prüfpaketen kann dieser Ordner unter einem anderen Namen konfiguriert  worden sein.
-
-**nicht** korrekt geprüfte Dateien. Dieser Ordner kann bei
 
 ## 2.5 Ordner 'Geprueft/NichtAbgelehnt'
 
@@ -565,8 +557,6 @@ Seite 13 26von
 
 ---
 
-**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
-
 #### 3.1.1.14 Spaltenangabe
 
 Eine Einstellung, ob zusätzlich zu den Zeilenangeben auch die Spaltenangaben bei den je-weiligen Meldungen in der Protokolldatei erscheinen sollen, werden im Element „spalten“ fest-gelegt.
@@ -579,11 +569,7 @@ Z.B. <spalten>nein</spalten>
 
 Mit dieser Einstellung kann auf eine alternative Dokumentationsdatei verwiesen werden, wel-che in der GUI unter „Hilfe / Hilfe“ verlinkt ist.
 
-```
-<dokumentation>Doku/E014_XPM_Anwenderhandbuch.pdf</dokumentation>
-```
-
-Z.B.
+Z.B. <dokumentation>Doku/E014_XPM_Anwenderhandbuch.pdf</dokumentation>
 
 ### 3.1.2 Abschnitt: Eingabedateien
 
@@ -612,6 +598,10 @@ Z.B.:
 Im Abschnitt Ausgabedateien werden die Pfade für die Ausgabelisten und Protokolle festge-legt.
 
 Über das Attribut Format wird das Ausgabeformat festgelegt:
+
+**IT in der Arztpraxis** Handbuch KBV-
+
+Prüfmodul XPM
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
 
@@ -920,15 +910,11 @@ Seite 20 26von
 
 ### 3.3.2 Prüfung starten
 
-Bitte drücken Sie den ‘Starten’-Knopf. Während der Prüfung zeigt der Fortschrittsbalken den  aktuellen Fortschritt. Nach erfolgter Prüfung erscheint eine Meldung mit einem entsprechen-
-
-### den Prüfstatus.
+Bitte drücken Sie den ‘Starten’-Knopf. Während der Prüfung zeigt der Fortschrittsbalken den  aktuellen Fortschritt. Nach erfolgter Prüfung erscheint eine Meldung mit einem entsprechen-den Prüfstatus.
 
 ### 3.3.3 Prüfung abbrechen
 
-Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf eine Prüfung vor-
-
-### zeitig abzubrechen.
+Während der Prüfung besteht die Möglichkeit über den ‘Abbrechen’-Knopf eine Prüfung vor-zeitig abzubrechen.
 
 **IT in der Arztpraxis** Handbuch KBV-
 
@@ -941,16 +927,47 @@ Seite 21 26von
 
 ---
 
+# 4 Zusatzprogramme
+
+## 4.1 Zeichensatzkonverter
+
+Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten  Zeichensatz um. Für XML--Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer-den kann.
+
+Hier ein Beispiel für einen Aufruf:
+
+```
+java -Xmx300m
+-Dfile.encoding=8859_1
+-classpath "Bin/xpm-core-4.2.15.jar"
+de.kbv.xpm.core.converter.CharsetConverter
+-q Daten\Z05123456699_31.03.2010_12.00.CON
+-z Daten\Umgewandelt\
+-s IBM
+-l
+```
+
+Der Aufruf von Java-Programmen wird im Kapitel 5.1 ausführlich erläutert.
+
+Der Parameter ‘de.kbv.xpm.core.converter.CharsetConverter’ ist der Name einer Klas-se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei  Z05123456699_31.03.2010_12.00.CON) nach der Verarbeitung gelöscht wird. Die konver-tierte Datei wird also unter den Namen X05123456699_31.03.2010_12.00.CON erzeugt.
+
+Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver-tierten Datei wird folgendermaßen gebildet:
+
+Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz.
+
+-  S bei 7Bit
+-  X bei IBM
+-  A bei ISO--18859
+-  Z bei ISO-8859-15
+
+Der restliche Dateiname entspricht dem ursprünglichen Dateinamen.
+
+Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück-sichtigt.
+
 | Übergabeparameter | Beschreibung |
 |---|---|
 | -q <Dateiname> | Der Dateiname der zu konvertierenden Datei bzw. Verzeichnisname. |
 | -z <Dateiname> | Der Dateiname der umgewandelten Datei bzw. Verzeichnisname. |
 | -s <Zeichensatz> | Der Zeichensatz in den konvertiert werden soll.  Mögliche Werte:  7Bit  IBM  ISO-8859-1  ISO-8859-15 |
-| **4 Zusatzprogramme  4.1 Zeichensatzkonverter** | Hier ein Beispiel für einen Aufruf: java -Xmx300m |
-|  | -classpath "Bin/xpm-core-4.2.15.jar" |
-|  |  |
-| de.kbv.xpm.core.converter.CharsetConverter |  |
-| -q Daten\Z05123456699_31.03.2010_12.00.CON | -z Daten\Umgewandelt\ |
 
 **IT in der Arztpraxis** Handbuch KBV-
 
@@ -958,27 +975,21 @@ Prüfmodul XPM
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34* Version
 
-Der Zeichensatz-Konverter wandelt komplette Abrechnungsdateien in einen gewünschten Zeichensatz um. Für XML-- Dateien kann er nicht verwendet werden, da bei diesen im Ge gensatz zu KVDT-Dateien nicht die Zeichenkodierung anhand des Dateinamens ermittelt wer- den kann. -Dfile.encoding=8859_1 -s IBM -l Der Aufruf von Java-Programmen wird im Kapitel 5.1  ausführlich erläutert. Der Parameter ‘ ’ ist der Name einer Klas- se, die den Konverter startet. Der optionale Parameter ‘–l’ bewirkt, dass die Ursprungsdatei ) nach der Verarbeitung gelöscht wird. Die konver- tierte Datei wird also unter den Namen X05123456699_31.03.2010_12.00.CON erzeugt. Wird kein Dateiname für die Ausgabedatei vergeben (Parameter -z) so wird der Name konver- tierten Datei wird folgendermaßen gebildet: Der erste Buchstabe im Dateinamen symbolisiert den Zeichensatz. • S bei 7Bit • X bei IBM • A bei ISO--1 • Z bei ISO-8859-15 Der restliche Dateiname entspricht dem ursprünglichen Dateinamen. Bei der Abarbeitung kompletter Verzeichnisse werden nur *.CON bzw. *.WTK Dateien berück- sichtigt. Seite 22 26von
+Seite 22 26von
 
 
 ---
 
-**IT in der Arztpraxis** Handbuch KBV-
+**IT in der Arztpraxis**  Handbuch KBV- Prüfmodul XPM
 
-|  |  |
+| Übergabeparameter | Beschreibung |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
-| **Übergabeparameter** | **Beschreibung** |
 | -b | Die konvertierte Datei wird unter dem Namen der Ursprungsdatei abgelegt. |
 | -h | Ausgabe eines Hilfetextes. |
 | -l | Die Ursprungsdatei wird nach der Verarbeitung gelöscht. Dieser Übergabepa- |
 | -t | Eingangsdateien sind beliebige Textdateien, kein xDT-Format |
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul 1.34
-
-Prüfmodul XPM
 
 **Tabelle 3: Übergabeparameter**
 
@@ -1056,15 +1067,11 @@ Beispiel: Die Meldung DM1-FEHL wie sie standardmäßig definiert ist.
 
 **<meldung>**     <!-- Element Meldung -->
 
-<!-- Meldungsnummer, darf NICHT verändert werden -->
-
-**<nummer>**DMP-FEHL**</nummer>**
+**<nummer>**DMP-FEHL**</nummer>** <!-- Meldungsnummer, darf NICHT verändert werden -->
 
 **<typ>**Fehler**</typ>**    <!-- Errorlevel -->
 
-<!-- Meldungstext mit Platzhaltern %s -->
-
-**<text>**Die Angabe zum Feld '%s' fehlt.**</text>**
+**<text>**Die Angabe zum Feld '%s' fehlt.**</text>** <!-- Meldungstext mit Platzhaltern %s -->
 
 **<maxcount>**5**</maxcount>**  <!-- Anzahl der maximal auszugebenen Meldungen -->
 

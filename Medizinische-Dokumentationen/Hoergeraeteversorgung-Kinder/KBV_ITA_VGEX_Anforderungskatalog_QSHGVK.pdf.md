@@ -63,16 +63,14 @@ Seite 3 von 15
 
 ---
 
-Abbildung 1 Berichtszeiträume ................................................................................................ 6
+| IT in der Arztpraxis |  |
+|---|---|
+| Anforderungskatalog QS | Hörgeräteversorgung Kinder |
+| **A B B I L D U N** | **G S V E R Z E I C H N I S** |
+| Abbildung 1 | Berichtszeiträume................................................................................................ 6 |
+| KBV_ITA_VGEX_Anforderungskatalog_QSHGVK | * Version 1.11 Seite 4 von 15 |
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
-
-**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
-
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
-
-Seite 4 von 15
-
+Abbildung 1 Berichtszeiträume Anforderungskatalog QS Hörgeräteversorgung Kinder KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
 
 ---
 
@@ -293,23 +291,47 @@ Dokumentationen Seite 8 von 15
 |---|---|
 | **K1-136** | **Datenübernahme aus dem PVS1** 1 |
 
-Plausibilität
+Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch  eine Quittierung des Anwenders in die QS Hörgeräteversorgung Kinder übernommen werden.  Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur,
 
-KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
+Scanner).
 
-Eine automatisierte Übernahme von Parametern aus dem PVS ist zulässig, wenn diese durch eine Quittierung Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).  Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran- gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt  des Anwenders in die QS Hörgeräteversorgung Kinder übernommen werden. 2.1.5 Plausibilitäten PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1 -130 Überprüfung der Eingaben auf Plausibilität Die Eingaben des Nutzers müssen systemseitig auf KBV_ITA_VGEX_PLAUSI_QSHGVK ] geprüft werden. Diese Überprüfung sollte direkt nach der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt wer- den und mit Hinweis auf das fehlerhafte Datenfeld erfolgen.  Das Dokument Plausibilitäten [ KBV_ITA_VGEX_PLAUSI_QSHGVK ] enthält die Spalten: Ausprägung / Datenformat "Pflichtfeld" und "Antwortmöglichkeiten" diese Vorgaben sind verpflichtend.   Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.   K1-131 Verweis auf fehlerhaftes Datenfeld Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der Nutzer zu diesem direkt gelangen kann. PFLICHTFUNKTION QS Hörgeräteversorgung Kinder P1 -140 Gesamtprüfung auf Plausibilität Das System muss auf Anforderung des Nutzers eine Plausibilitätenprüfung KBV_ITA_VGEX_PLAUSI_QSHGVK ] der gesamten Dokumentation(en) durchführen können.  a)  Der Datensatz wird als nicht plausibel erkannt. Dies muss dem Nutzer durch eine aus- sagekräftige Fehlermeldung angezeigt werden und die entsprechende Stelle (Feld) muss dem Nutzer zur Korrektur zur Verfügung gestellt werden.  Liegt eine Verletzung gegen die Vorschriften in den Plausibilitäts-Spalten: "Ausprä- gung / Datenformat",  "Pflichtfeld" oder "Antwortmöglichkeiten" vor, so ist das Einrei- chen an die Datenstelle nicht möglich.  Liegt eine Verletzung gegen die Vorschriften in der Plausibilitäts- Spalte „optional Plau- sibilitäten“  vor, kann der Arzt sich über diese hinwegsetzen. b)  Wurden die Prüfungen plausibel abgeschlossen, so wird dies dem Nutzer angezeigt.  Praxisverwaltungssystem Seite 9 von 15
+Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme heran-gezogen wird. Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle  Werte handelt
+
+**2.1.5 Plausibilitäten**
 
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | **P1-130** | **Überprüfung der Eingaben auf Plausibilität** |
 
+Die Eingaben des Nutzers müssen systemseitig auf Plausibilität  KBV_ITA_VGEX_PLAUSI_QSHGVK] geprüft werden. Diese Überprüfung sollte direkt nach  der Eingabe erfolgen. Eine nicht plausible Eingabe muss dem Nutzer deutlich aufgezeigt wer-den und mit Hinweis auf das fehlerhafte Datenfeld erfolgen.
+
+Das Dokument Plausibilitäten [KBV_ITA_VGEX_PLAUSI_QSHGVK] enthält die Spalten:  Ausprägung / Datenformat "Pflichtfeld" und "Antwortmöglichkeiten" diese Vorgaben sind  verpflichtend.
+
+Über die Spalte "optional Plausibilitäten" kann sich der Arzt jedoch hinwegsetzen.
+
 | Optionale FUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | **K1-131** | **Verweis auf fehlerhaftes Datenfeld** |
 
+Zu dem fehlerhaften Datenfeld wird ein Verweis gelegt, sodass der Nutzer zu diesem direkt  gelangen kann.
+
 | PFLICHTFUNKTION QS Hörgeräteversorgung Kinder | |
 |---|---|
 | **P1-140** | **Gesamtprüfung auf Plausibilität** |
+
+Das System muss auf Anforderung des Nutzers eine Plausibilitätenprüfung  KBV_ITA_VGEX_PLAUSI_QSHGVK] der gesamten Dokumentation(en) durchführen können.
+
+- a) Der Datensatz wird als nicht plausibel erkannt. Dies muss dem Nutzer durch eine aus-sagekräftige Fehlermeldung angezeigt werden und die entsprechende Stelle (Feld)  muss dem Nutzer zur Korrektur zur Verfügung gestellt werden.
+
+Liegt eine Verletzung gegen die Vorschriften in den Plausibilitäts-Spalten: "Ausprä-gung / Datenformat", "Pflichtfeld" oder "Antwortmöglichkeiten" vor, so ist das Einrei-chen an die Datenstelle nicht möglich.
+
+Liegt eine Verletzung gegen die Vorschriften in der Plausibilitäts-Spalte „optional Plau-sibilitäten“ vor, kann der Arzt sich über diese hinwegsetzen.
+
+- b) Wurden die Prüfungen plausibel abgeschlossen, so wird dies dem Nutzer angezeigt.
+
+KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
+
+Praxisverwaltungssystem Seite 9 von 15
 
 
 ---
@@ -444,7 +466,7 @@ Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermit
 
 **Akzeptanzkriterium:**
 
-- 1. Das System muss das administrative Geschlechts des Patienten im Element  nistrative_gender_cd>
+- 1. Das System muss das administrative Geschlechts des Patienten im Element  nistrative_gender_cd> als Teil der administrativen Daten übermitteln.
 
 Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Schnittstelle (siehe Kapitel 6.10.6.2) abhängig.
 
@@ -455,8 +477,6 @@ Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Sch
 |  | SoftwareVersion < 1.12 | SoftwareVersion > 1.11 |
 | divers | - | UN |
 | unbestimmt | UN | X |
-
-- als Teil der administrativen Daten übermitteln.
 
 **Tabelle 1** Abbildung der Geschlechtsausprägung auf Schlüsseltabellenwert (2.16.840.1.113883.5.1)
 
@@ -586,6 +606,8 @@ Seite 14 von 15
 
 ---
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
+
 # 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
@@ -597,8 +619,6 @@ Seite 14 von 15
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der ver- |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | XKM Anwenderhandbuch |
 | [Spezifikation_eDoku_KIM | Spezifikation |
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Hörgeräteversorgung Kinder
 
 KBV_ITA_VGEX_Anforderungskatalog_QSHGVK * Version 1.11
 

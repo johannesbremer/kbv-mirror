@@ -10,9 +10,7 @@
 
 ### Kassenärztliche Bundesvereinigung
 
-Version 2.05
-
-Datum: 20.07.2012  Klassifizierung: Extern  Status: In Kraft
+Version 2.05  Datum: 20.07.2012  Klassifizierung: Extern  Status: In Kraft
 
 © Kassenärztliche Bundesvereinigung, Berlin 2012
 
@@ -195,11 +193,7 @@ VorName2) (mehrere Vornamen sind durch Bindestrich oder Blank  '85' 1-28  getren
 
 '8B' 4-7 Postleitzahl3) N
 
-'8C' 2-22
-
-(mehrere Namensbestandteile durch Blank oder
-
-OrtsName3) Sonderzeichen getrennt)
+'8C' 2-22 OrtsName3) (mehrere Namensbestandteile durch Blank oder  Sonderzeichen getrennt)
 
 | '8D' | 4 | GültigkeitsDatum (MMJJ) |  |  |  |  |
 |---|---|---|---|---|---|---|
@@ -209,21 +203,27 @@ OrtsName3) Sonderzeichen getrennt)
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
+Daten-typ
+
 AN
 
 N
 
 N
 
-O AN
+AN
 
 O AN
 
-AN  N
+O AN
+
+AN  N  AN  AN
 
 AN  AN
 
-tag length Daten- typ '90' 1 StatusErgänzung '84' 2-15 Titel '8A' 1-3 WohnsitzLänderCode AN AN '8D' 4 GültigkeitsDatum (MMJJ)  N Seite 6 von 25
+N  XOR
+
+tag length '90' 1 StatusErgänzung '84' 2-15 Titel '8A' 1-3 WohnsitzLänderCode '8D' 4 GültigkeitsDatum (MMJJ) Seite 6 von 25
 
 
 ---
@@ -301,101 +301,58 @@ Seite 8 von 25
 
 ---
 
-**IT in der Arztpraxis** Merkblatt Krankenversichertenkarte
+**IT in der Arztpraxis**  Merkblatt Krankenversichertenkarte
 
 **1.3 Liste der im Rahmen von DIN 66003 zulässigen Sonderzeichen**
 
 Zeichen Bezeichnung
 
+Hex- Zeichen Bezeichnung  Code
+
+|  | Leerzeichen (Space) | '20' | & | kommerzielles Und | '26' |
+|---|---|---|---|---|---|
+| ' | Apostroph | '27' | ( | Klammer auf | '28' |
+| ) | Klammer zu | '29' | + | plus | '2B' |
+| - | Bindestrich | '2D' | . | Punkt | '2E' |
+| / | Schrägstrich | '2F' | _ | Unterstreichung | '5F' |
+
 ' Apostroph
 
-) Klammer zu  - Bindestrich
+'27' ( Klammer auf  ) Klammer zu
 
-/ Schrägstrich
+'29' + plus  - Bindestrich
 
-**1.4 Gesamtliste der im Rahmen von DIN 66003 zulässigen Zeichen**
-
-HEX  NUM  ALPHA
-
-HEX  NUM  ALPHA
-
-HEX 40  NUM 64  ALPHA
-
-HEX  NUM
-
-ALPHA
-
-HEX 60  NUM 96
-
-ALPHA
-
-HEX
-
-NUM
-
-ALPHA
-
-KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
-
-Hex- Zeichen Bezeichnung  Code  Leerzeichen (Space)
-
-'20'  '27'  '29'  '2D'  '2F'
+'2D' . Punkt  '2F'
 
 **Tabelle 3: DIN 66003 Sonderzeichen**
 
-20 21 22 23 24 25 26 27.28 32 33 34 35 36 37 38 39.40 SP
+**1.4 Gesamtliste der im Rahmen von DIN 66003 zulässigen Zeichen**
 
-30 31 32 33 34 35 36.37 48 49 50 51 52 53 54.55 0 1 2 3 4 5 6 7
+HEX 20 21 22 23 24 25 26 27.28 29 2A 2B 2C NUM 32 33 34 35 36 37 38 39.40 41 42.43 44 ALPHA SP
 
-41 42 43 44 45 46.47 65 66 67 68 69 70.71 A B C D E F G
++ - . /
 
-50 51 52 53 54 55 56.57 80 81 82 83 84 85 86.87 P Q R S T U V W
+HEX 30 31 32 33 34 35 36.37 38.39 3A 3B 3C  NUM 48 49 50 51 52 53 54.55 56.57 58 59 60  ALPHA 0 1 2 3 4 5 6 7 8 9
 
-61 62 63 64 65 66.67 97 98 99 10.10 10.10 0 1 2 3  a b c d e f g 70 71 72 73 74 75 76.77
+HEX 40 41 42 43 44 45 46.47 48.49 4A 4B 4C NUM 64 65 66 67 68 69 70.71 72.73 74.75 76 ALPHA A B C D E F G H I J K L
 
-11.11 11.11 11.11 11.11
+HEX 50 51 52 53 54 55 56.57 58.59 5A 5B 5C NUM 80 81 82 83 84 85 86.87 88.89 90.91 92 ALPHA P Q R S T U V W X Y Z Ä Ö
 
-2 3 4 5 6 7 8 9
+HEX 60 61 62 63 64 65 66.67 68.69 6A 6B 6C NUM 96 97 98 99 10.10 10.10 10.10 10.10 10.10 0 1 2 3 4 5 6 7 8  ALPHA a b c d e f g h i j k l
 
-p q r s t u v w
+HEX 70 71 72 73 74 75 76.77 78.79 7A 7B 7C
+
+NUM 11.11 11.11 11.11 11.11 12.12 12.12 12.12 2 3 4 5 6 7 8 9 0 1 2 3 4
+
+ALPHA p q r s t u v w x y z ä ö
 
 **Tabelle 4: DIN 66003 zulässige Zeichen**
 
-kommerzielles Und  ( Klammer auf  + plus  . Punkt  _ Unterstreichung 29  41
+KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
-38.39  56.57  8 9
+Hex-Code
 
-48.49 72.73 H I
-
-58.59 88.89 X Y
-
-68.69 10.10 4 5  h i
-
-78.79
-
-12.12
-
-0 1
-
-x y 2A 2B 2C 42.43 44 + - . /
-
-3A 3B 3C  58 59 60
-
-4A 4B 4C 74.75 76 J K L
-
-5A 5B 5C 90.91 92
-
-Z Ä Ö 6A 6B 6C 10.10 10.10 6 7 8
-
-j k l 7A 7B 7C
-
-12.12 12.12
-
-2 3 4
-
-z ä ö
-
-Hex-Code  '26'  '28'  '2B'  '2E'  '5F'
+'28'  '2B'  '2E'  '5F'
 
 2D 2E 2F  45 46 47
 
@@ -415,7 +372,7 @@ Hex-Code  '26'  '28'  '2B'  '2E'  '5F'
 
 ü ß
 
-Seite 9 von 25
+/ Schrägstrich _ Unterstreichung Seite 9 von 25
 
 
 ---
@@ -553,12 +510,13 @@ Da beim Senden aufeinander folgender Informationsblöcke Flußkontrolle benötig
 
 I-Block  **Workstation)**
 
+**Card-Terminal**
+
 ```
 I-Block   R-Block
-I-Block
 ```
 
-**Abbildung 4: Kommunikation mit Chaining**
+I-Block  **Abbildung 4: Kommunikation mit Chaining**
 
 Die PCB-Codierung des R-Blocks zeigt Abb. 5. Das Informationsfeld ist bei einem R-Block  leer.
 
@@ -566,17 +524,13 @@ Die PCB-Codierung des R-Blocks zeigt Abb. 5. Das Informationsfeld ist bei einem 
 
 **1 0 0 X 0 0 X X**
 
-**parity error, 10 = other**
+**Error indication (01=EDC/**  **parity error, 10 = other**
 
 **RFU**
 
 **RFU**   **Send sequence number of next expected I-block**   **R-Block indication**  **Abbildung 5: PCB-Codierung des R-Blocks**
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
-
-**Card-Terminal**
-
-**Error indication (01=EDC/**
 
 **Fehlerfreie**  **Übertragung**  **mit Chaining**
 
@@ -661,7 +615,9 @@ S-Block indication
 
 Ein WTX request kann auch vom Host abgelehnt werden. In diesem Fall wird als Antwort auf  ein WTX request ein RESYNCH request gesendet, das vom Karten-Terminal mit RESYNCH  response zu beantworten ist. Einzelheiten hierzu sind im Abschnitt 4 beschrieben.
 
-**2.1.1.4. Resynchronisation** Zur Resynchronisation kann vom PC bzw. der Workstation ein RESYNCH request gesendet  werden, der vom Karten-Terminal mit dem RESYNCH response zu beantworten ist. Der  RESYNCH request ist immer nach dem Start der KVK-Anwendung vom Host zum Karten-Terminal zu senden. Auch in bestimmten Fehlersituationen (siehe Abschnitt 2) sowie zum  Abbruch eines Kommandos, falls dies notwendig ist (siehe Abschnitt 3), ist der RESYNCH-Mechanismus einzusetzen. Mit dem RESYNCH request/response-Paar werden die  Übertragungsprotokollautomaten in Host und Karten-Terminal synchronisiert bzw. nach  fehlerhafter oder unterbrochener Kommunikation resynchronisiert. Die Sende-Sequenz-Zähler werden durch diesen Befehl ebenfalls auf Null zurückgesetzt. Ein ggf. in Bearbeitung  befindliches Anwendungs-Kommando wird abgebrochen. Die Codierung von RESYNCH  request/response ist in Abb. 8 dargestellt.
+**2.1.1.4. Resynchronisation**
+
+Zur Resynchronisation kann vom PC bzw. der Workstation ein RESYNCH request gesendet  werden, der vom Karten-Terminal mit dem RESYNCH response zu beantworten ist. Der  RESYNCH request ist immer nach dem Start der KVK-Anwendung vom Host zum Karten-Terminal zu senden. Auch in bestimmten Fehlersituationen (siehe Abschnitt 2) sowie zum  Abbruch eines Kommandos, falls dies notwendig ist (siehe Abschnitt 3), ist der RESYNCH-Mechanismus einzusetzen. Mit dem RESYNCH request/response-Paar werden die  Übertragungsprotokollautomaten in Host und Karten-Terminal synchronisiert bzw. nach  fehlerhafter oder unterbrochener Kommunikation resynchronisiert. Die Sende-Sequenz-Zähler werden durch diesen Befehl ebenfalls auf Null zurückgesetzt. Ein ggf. in Bearbeitung  befindliches Anwendungs-Kommando wird abgebrochen. Die Codierung von RESYNCH  request/response ist in Abb. 8 dargestellt.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
@@ -735,7 +691,10 @@ SW1  SW2 2.
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
-Body (optional)
+| (rsp): |  |
+|---|---|
+| Body | Trailer |
+| (optional) | (mandatory) |
 
 Data SW1 SW2
 
@@ -747,8 +706,6 @@ b) L = Lc: Le not send, because known  = Status byte 1 (cmd processing status)  
 **Tabelle 6: Kommandos KVK**
 
 Die Struktur der 'CardTerminal Control Commands' ist identisch mit der Struktur der  'Interindustry Commands'. Das CLA-Byte (Class-Byte) ist daher entsprechend  ISO 7816-4 codiert:  '20' = Command message structure according to ISO 7816-4
-
-Trailer  (mandatory)
 
 for transmission
 
@@ -922,17 +879,27 @@ Das Kommando dient zum Lesen des VersichertenDatenTemplates. Das Offset wird  fo
 
 **Command:**
 
-| CLA | INS | P1 | P2 | L |
-|---|---|---|---|---|
-| '00' | | 'xx' | 'xx' | Le |
+CLA INS P1 P2  '00' 'BO' 'xx' 'xx'
 
 ```
 READ BINARY
 ```
 
-**Response:**   **Data to be read**
+**Response:**
 
-**SW1**
+L  Le
+
+```
+Length of data to be read  ('00' = read available data  until End-of-File (EOF)  out max. up to 256 bytes)
+```
+
+Offset ('0000' = Logical start  address of the file)   **Data to be read**
+
+**SW1 SW2**
+
+```
+Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
+```
 
 a) Lesen des VD-Templates mit einem einzigen READ BINARY-Kommando
 
@@ -940,18 +907,11 @@ Als Offset ist im READ BINARY-Kommando '0000' anzugeben, d.h. es soll ab logisch
 
 KBV_ITA_VGEX_Merkblatt_KVK * Version 2.05
 
-```
-Length of data to be read  ('00' = read available data  until End-of-File (EOF)  out max. up to 256 bytes)
-Offset ('0000' = Logical start  address of the file)
-```
+Seite 22 von 25
 
-**SW2**
-
-```
-Status Bytes:  '9000' = Command successful  '6282' = Warning, end of file  reached before reading  Le bytes  '6501' = Memory failure or data  corrupted  '6B00' = Wrong offset
-```
-
-CLA INS P1 '00' 'BO' 'xx' Seite 22 von 25
+| CLA | INS | P1 | P2 | L |
+|---|---|---|---|---|
+| '00' | | 'xx' | 'xx' | Le |
 
 
 ---

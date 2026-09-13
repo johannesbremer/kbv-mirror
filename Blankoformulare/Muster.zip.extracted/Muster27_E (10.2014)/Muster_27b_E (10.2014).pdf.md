@@ -8,7 +8,23 @@
 
 **Arzt-Nr.**
 
+**Datum**
+
 **Therapieziele (Nah- und Fernziele definieren)**
+
+**27**
+
+## Soziotherapeutischer Betreuungsplan
+
+**gem. § 37a SGB V** **geb. am**
+
+***(als Anlage zur Verordnung und zur***
+
+#### Weiterleitung an die Krankenkasse)
+
+**Status**
+
+**IK des Leistungserbringers**
 
 **Verordnete und empfohlene Maßnahmen, deren Inanspruchnahme zu koordinieren ist**
 
@@ -37,22 +53,6 @@
 **Art der Maßnahmen**
 
 **Zeitraum**
-
-**27**
-
-## Soziotherapeutischer Betreuungsplan
-
-**gem. § 37a SGB V** **geb. am**
-
-***(als Anlage zur Verordnung und zur***
-
-#### Weiterleitung an die Krankenkasse)
-
-**Status**
-
-**Datum**
-
-**IK des Leistungserbringers**
 
 **Ausstellungsdatum**
 

@@ -163,11 +163,11 @@ Radiologie Teilgebiet Strahlentherapie Teilgebiet Neuroradiologie Radiologische 
 
 Urologie Arbeitsmedizin Nuklearmedizin Öffentliches Gesundheitswesen Rechtsmedizin Hygiene und Umweltmedizin Neuropathologie Klinische Pharmakologie Strahlentherapie Anatomie
 
-Biochemie Transfusionsmedizin Kinderchirurgie Medizinische Genetik Medizinische Informatik Pathologische Physiologie Physiologie Physiotherapie Psychotherapie Sozialhygiene
+Biochemie Transfusionsmedizin Kinderchirurgie Medizinische Genetik Medizinische Informatik Pathologische Physiologie Physiologie Physiotherapie Psychotherapie Sozialhygiene Sportmedizin
 
-Sportmedizin
+Herzchirurgie
 
-Herzchirurgie Humangenetik
+Humangenetik
 
 Immunologie Physiologische Chemie Schwerpunkt Thoraxchirurgie Schwerpunkt Echokardiologie herznaher Gefäße 4
 

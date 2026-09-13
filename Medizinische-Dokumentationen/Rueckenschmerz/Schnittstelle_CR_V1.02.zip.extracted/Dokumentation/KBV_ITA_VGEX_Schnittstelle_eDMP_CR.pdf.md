@@ -70,9 +70,7 @@ Bereits vor Einschreibung in das DMP an einer multimodalen Schulung teilgenommen
 
 Regelmäßig körperlich aktiv  CPG Item 3: Durchschnittliche Stärke der Kreuzschmerzen in den letzten drei  Monaten (0 = “Keine“ bis 10 = “Stärkster Schmerz“)  CPG Item 5: Kreuzschmerzbedingte Beeinträchtigung der alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten (0 = “Keine“  bis 10 = “Maximale Beeinträchtigung“)
 
-Abschnitt „Behandlungsplanung“
-
-6.1.10
+6.1.10 Abschnitt „Behandlungsplanung“
 
 Seite 2 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
@@ -110,9 +108,7 @@ Seite 2 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / V
 
 26
 
-26
-
-26
+26  26
 
 
 ---
@@ -191,33 +187,23 @@ Seite 4 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / V
 
 **TABELLE 6:** WERTE BEI ERGEBNISTEXT (BEGLEITERKRANKUNGEN) ................................................................................. 21
 
-**TABELLE 7:** WERTE BEI ERGEBNISTEXT (AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION:
+**TABELLE 7:** WERTE BEI ERGEBNISTEXT (AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION:  OPIOIDANALGETIKA) ................................................................................................................................................ 22
 
-OPIOIDANALGETIKA) ................................................................................................................................................ 22
+**TABELLE 8:** WERTE BEI ERGEBNISTEXT (AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION: NICHT-OPIOIDANALGETIKA) ................................................................................................................................................ 23
 
-**TABELLE 8:** WERTE BEI ERGEBNISTEXT (AKTUELLE KREUZSCHMERZBEDINGTE SCHMERZMEDIKATION: NICHT-
-
-OPIOIDANALGETIKA) ................................................................................................................................................ 23
-
-**TABELLE 9:** WERTE BEI ERGEBNISTEXT (BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER MULTIMODALEN
-
-SCHULUNG TEILGENOMMEN).................................................................................................................................. 24
+**TABELLE 9:** WERTE BEI ERGEBNISTEXT (BEREITS VOR EINSCHREIBUNG IN DAS DMP AN EINER MULTIMODALEN  SCHULUNG TEILGENOMMEN).................................................................................................................................. 24
 
 **TABELLE 10:** WERTE BEI ERGEBNISTEXT (KREUZSCHMERZ-SPEZIFISCHE SCHULUNG EMPFOHLEN (BEI AKTUELLER  DOKUMENTATION)) ................................................................................................................................................. 24
 
 **TABELLE 11:** WERTE BEI ERGEBNISTEXT (REGELMÄßIG KÖRPERLICH AKTIV) ................................................................... 25
 
-**TABELLE 12:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER
-
-KRANKENKASSE) ....................................................................................................................................................... 27
+**TABELLE 12:** WERTE BEI ERGEBNISTEXT (VOM PATIENTEN GEWÜNSCHTE INFORMATIONSANGEBOTE DER  KRANKENKASSE) ....................................................................................................................................................... 27
 
 **TABELLE 13:** WERTE BEI ERGEBNISTEXT (DOKUMENTATIONSINTERVALL) ...................................................................... 28
 
 **TABELLE 14:** WERTE BEI ERGEBNISTEXT (KREUZSCHMERZ-SPEZIFISCHE SCHULUNG WAHRGENOMMEN) ..................... 31
 
-**TABELLE 15:** WERTE BEI ERGEBNISTEXT (ERREICHUNG MINDESTENS EINES DER INDIVIDUELL VEREINBARTEN ZIELE SEIT
-
-DER LETZTEN DOKUMENTATION) ............................................................................................................................ 32
+**TABELLE 15:** WERTE BEI ERGEBNISTEXT (ERREICHUNG MINDESTENS EINES DER INDIVIDUELL VEREINBARTEN ZIELE SEIT  DER LETZTEN DOKUMENTATION) ............................................................................................................................ 32
 
 **TABELLE 16:** WERTE BEI ERGEBNISTEXT (BEENDIGUNG DER DMP-TEILNAHME VEREINBART) ........................................ 33
 
@@ -277,13 +263,9 @@ Seite 5 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / V
 
 **XML-CODE 25:** REGELMÄßIG KÖRPERLICH AKTIV ............................................................................................................ 25
 
-**XML-CODE 26**: CPG ITEM 3: DURCHSCHNITTLICHE STÄRKE DER KREUZSCHMERZEN IN DEN LETZTEN DREI MONATEN
+**XML-CODE 26**: CPG ITEM 3: DURCHSCHNITTLICHE STÄRKE DER KREUZSCHMERZEN IN DEN LETZTEN DREI MONATEN  MONATEN (0 = “KEINE“ BIS 10 = “STÄRKSTER SCHMERZ“) ..................................................................................... 26
 
-MONATEN (0 = “KEINE“ BIS 10 = “STÄRKSTER SCHMERZ“) ..................................................................................... 26
-
-**XML-CODE 27**: CPG ITEM 5: KREUZSCHMERZBEDINGTE BEEINTRÄCHTIGUNG DER ALLTÄGLICHEN AKTIVITÄTEN  (ANKLEIDEN, WASCHEN, ESSEN, EINKAUFEN ETC.) IN DEN LETZTEN DREI MONATEN (0 = “KEINE“ BIS 10 =
-
-“MAXIMALE BEEINTRÄCHTIGUNG“) ........................................................................................................................ 26
+**XML-CODE 27**: CPG ITEM 5: KREUZSCHMERZBEDINGTE BEEINTRÄCHTIGUNG DER ALLTÄGLICHEN AKTIVITÄTEN  (ANKLEIDEN, WASCHEN, ESSEN, EINKAUFEN ETC.) IN DEN LETZTEN DREI MONATEN (0 = “KEINE“ BIS 10 =  “MAXIMALE BEEINTRÄCHTIGUNG“) ........................................................................................................................ 26
 
 **XML-CODE 28:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 27
 
@@ -293,9 +275,7 @@ MONATEN (0 = “KEINE“ BIS 10 = “STÄRKSTER SCHMERZ“) ....................
 
 **XML-CODE 31:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 29
 
-**XML-CODE 32**: UNGEPLANTE AMBULANTE ODER STATIONÄRE KREUZSCHMERZBEDINGTE AKUTBEHANDLUNG SEIT
-
-DER LETZTEN DOKUMENTATION ............................................................................................................................. 29
+**XML-CODE 32**: UNGEPLANTE AMBULANTE ODER STATIONÄRE KREUZSCHMERZBEDINGTE AKUTBEHANDLUNG SEIT  DER LETZTEN DOKUMENTATION ............................................................................................................................. 29
 
 **XML-CODE 33:** CONTENT (SCHULUNG) ............................................................................................................................ 30
 
@@ -303,9 +283,7 @@ DER LETZTEN DOKUMENTATION ......................................................
 
 **XML-CODE 35:** CONTENT (SONSTIGE BEHANDLUNG) ...................................................................................................... 31
 
-**XML-CODE 36:** ERREICHUNG MINDESTENS EINES DER INDIVIDUELL VEREINBARTEN ZIELE SEIT DER LETZTEN
-
-DOKUMENTATION ................................................................................................................................................... 32
+**XML-CODE 36:** ERREICHUNG MINDESTENS EINES DER INDIVIDUELL VEREINBARTEN ZIELE SEIT DER LETZTEN  DOKUMENTATION ................................................................................................................................................... 32
 
 **XML-CODE 37:** BEENDIGUNG DER DMP-TEILNAHME VEREINBART ................................................................................. 33
 
@@ -540,6 +518,10 @@ Für die Darstellung von Daten des Chronischen Rückenschmerzes („erstmalige D
 \| <content>     <sciphox:sciphox-ssu type="observation" country="de" version="v1">        </content> |
 \|---|
 
+. Das Attribut *ignore* hat den festen  *descriptor*-Attribut
+
+*observation* verwendet. Das Element  *type* =“observation“,  *observation* in Version v1  *observation* sieht demnach
+
 **XML-Code 4:** content mit sciphox-SSU (observation)
 
 ### 6.1.3 Sciphox-SSU observation
@@ -547,10 +529,6 @@ Für die Darstellung von Daten des Chronischen Rückenschmerzes („erstmalige D
 Das Element <sciphox-ssu> (observation) enthält das Kindelement <sciphox:Beobachtungen>, das mehrere  Kindelemente <sciphox:Beobachtung> enthalten kann. Es muss mindestens ein Element  <sciphox:Beobachtung> vorkommen. Das Element <sciphox: Beobachtung> setzt sich aus jeweils genau  einem Kindelement <sciphox:Parameter> und den optionalen Kindelementen <sciphox:Ergebniswert>,  <sciphox:Ergebnistext> zusammen. Neben dem <sciphox:Parameter> Element muss mindestens eins dieser  optionalen Kindelemente angegeben werden. Um zu kennzeichnen, dass keine Angaben zu einem  bestimmten Parameter gemacht wurden, wird der komplette <sciphox:Beobachtung>-Block mit dem  jeweiligen Parameter weggelassen. Die Angabe einer <sciphox:Beobachtung> mit nur einem Element  <sciphox:Parameter> ist nicht zulässig.
 
 Der Aufbau dieser SSU ist nachfolgend beschrieben:
-
-. Das Attribut *ignore* hat den festen  *descriptor*-Attribut
-
-*observation* verwendet. Das Element  *type* =“observation“,  *observation* in Version v1  *observation* sieht demnach
 
 **Abbildung 4:** Aufbau Sciphox-SSU observation
 
@@ -619,7 +597,18 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>   iptor="sciphox">     <sciphox:Beobachtungen>               </content> |
 \|---|
 
-**XML-Code 9:**
+**XML-Code 9:** content (Administrative Daten)
+
+### Einschreibung wegen
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+
+Als Beispiel sei hier folgender Code angegeben:
+
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
+
+**XML-Code 10:** Einschreibung wegen
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -633,47 +622,26 @@ Der Coderahmen sieht wie folgt aus:
 \| chronischer Rückenschmerz |
 \| Osteoporose |
 \| rheumatoide Arthritis |
-\|  |
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß  Elemente <sciphox:Ergebnistext>
-
-Als Beispiel sei hier folgender Code angegeben:
-
-\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-\|---|
-
-**XML-Code 10:**
 
 Seite 18 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/> content (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere mit entsprechenden Werten angegeben werden. Einschreibung wegen 
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="chronischer Rückenschmerz"/>
 
 
 ---
 
-\|  |
-\|---|
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
 \| Adipositas - Erwachsene  Adipositas - Kinder und Jugendliche |
+\|---|
 
-**Tabelle 4:**
+**Tabelle 4:** Werte bei Ergebnistext (Einschreibung wegen)
 
-### 6.1.5
+### 6.1.5 Abschnitt „Anamnese- und Befunddaten“
 
 Dieses Kapitel beschreibt den Abschnitt „Anamnese- und Befunddaten“.
 
-Im Element <content> wird die Sciphox-SSU 6.1.3
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-<sciphox:Beobachtungen> enthält minimal fünf bis maximal sechs Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw.  <sciphox:Ergebniswert>.
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal fünf bis maximal sechs Kindelemente <sciphox:Beobachtung>.  Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement  <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw.  <sciphox:Ergebniswert>.
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
@@ -690,7 +658,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Seite 19 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
-Werte bei Ergebnistext (Einschreibung wegen) Abschnitt „Anamnese- und Befunddaten“ observation  verwendet. Der Aufbau dieser SSU ist in Kapitel  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element content <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="AVK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
 
 ---
@@ -839,7 +807,7 @@ Seite 22 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / 
 
 ### Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung gemäß
 
 Tabelle 8
 
@@ -853,8 +821,6 @@ Tabelle 8
 \| Dauerhaft |
 \| Bei Bedarf |
 \| Nein |
-
-*V*-Attribut die Feldbezeichnung gemäß
 
 **Tabelle 8:** Werte bei Ergebnistext (Aktuelle kreuzschmerzbedingte Schmerzmedikation: Nicht-Opioidanalgetika
 
@@ -1017,7 +983,7 @@ Seite 26 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / 
 
 ### Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 12. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 12. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1031,8 +997,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Tabakverzicht |
 \| Ernährungsberatung |
 \| Körperliches Training |
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 **Tabelle 12:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der  Krankenkasse)
 
@@ -1177,7 +1141,7 @@ Seite 31 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / 
 
 ### Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 15
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 15
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1192,8 +1156,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Noch kein Ziel erreicht |
 \| Kein Ziel überprüft |
 \| Kein Ziel vereinbart |
-
-*V*-Attribut die Feldbezeichnung
 
 **Tabelle 15:** Werte bei Ergebnistext (Erreichung mindestens eines der individuell vereinbarten Ziele  seit der letzten Dokumentation)
 
@@ -1211,15 +1173,14 @@ Siehe Kapitel 6.1.9.3
 
 ### Beendigung der DMP-Teilnahme vereinbart
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 16
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 16
 
 Als Beispiel sei hier folgender Code angegeben:
 
 Seite 32 von 35 / KBV / Schnittstellenbeschreibung Chronischer Rückenschmerz / Version: 1.02 / 14. November 2025
 
-*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN=" Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation "/> <sciphox:Ergebnistext V="Mindestens ein Ziel erreicht"/> 
 
-<sciphox:Parameter DN=" Erreichung mindestens eines der individuell vereinbarten Ziele seit der letzten Dokumentation "/> <sciphox:Ergebnistext V="Mindestens ein Ziel erreicht"/>
 
 ---
 

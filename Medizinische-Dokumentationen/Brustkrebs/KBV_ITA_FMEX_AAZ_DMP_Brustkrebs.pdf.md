@@ -10,11 +10,11 @@ Seite 1 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / 15. Mai 2024
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**DOKUMENTENSTATUS: IN KRAFT**
-
 **15.** **MAI 2024**
 
 **VERSION: 4.4**
+
+**DOKUMENTENSTATUS: IN KRAFT**
 
 
 ---
@@ -47,6 +47,12 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 
 **Der Antragsteller ist**
 
+Arzt/Ärztin
+
+Softwarehaus
+
+Sonstiges
+
 **Systempfleger**
 
 **[nur anzugeben, wenn der**  **Systempfleger vom Antragsteller**  **abweicht]**
@@ -60,12 +66,6 @@ Antragssteller ist die juristische oder natürliche Person, die für die Einhalt
 **E-Mail-Adresse**
 
 Seite 2 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
-
-Arzt/Ärztin
-
-Softwarehaus
-
-Sonstiges
 
 
 ---
@@ -98,15 +98,15 @@ Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werd
 
 Windows
 
-iOS/Android
-
-Seite 3 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
-
 Mac OS
 
 Linux
 
+iOS/Android
+
 Sonstige
+
+Seite 3 von 8 / KBV / Antrag auf Zertifizierung DMP-Brustkrebs / Version: 4.4 / 15. Mai 2024
 
 
 ---
@@ -115,9 +115,9 @@ Antragssteller:
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei   der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
+Der Antragsteller versichert, dass die aktuelle Version der verbindlichen Kostenträger-Stammdatei  der KBV den Anwendern rechtzeitig vor Quartalsbeginn zur Verfügung steht.
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden   Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
+Der Antragsteller versichert, dass alle Pflichtfunktionen der zugrundeliegenden  Anforderungsdokumente, Schnittstellenbeschreibungen sowie Plausibilitätsrichtlinien erfüllt sind.
 
 **2.1 REALISIERTE OPTIONALE FUNKTIONEN DMP BRUSTKREBS**
 

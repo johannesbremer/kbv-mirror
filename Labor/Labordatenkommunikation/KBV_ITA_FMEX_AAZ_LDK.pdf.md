@@ -141,8 +141,6 @@ Antragssteller:
 
 ---
 
-Antragssteller:
-
 # 4 KENNTNISNAHME DURCH DEN ANTRAGSSTELLER
 
 - **I.** **Zertifizierungsrahmen**
@@ -168,11 +166,15 @@ Antragssteller:
 | LDT-Befund  Zervix-Zytologie/ | Neu-, Re- oder | Ergebnisprüfung | 137,62 |
 | LDT-Befund - Import | Neu-, Re- oder | Ergebnisprüfung | 275,24 |
 
-________________  1 LDT-Befund-Export Vollständig beinhaltet LDT-Befund  Export Zervix-Zytologie/Pathologie
+________________  1 LDT-Befund-Export Vollständig beinhaltet LDT-Befund
 
 Seite 6 von 9 / KBV / Antrag auf Zertifizierung Labordatenkommunikation / Version: 2.6 / 15. Mai 2024
 
-Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Pathologie Erweiterungszertifizierung
+Antragssteller:
+
+Export Zervix-Zytologie/Pathologie
+
+Pathologie Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung Erweiterungszertifizierung
 
 ---
 

@@ -182,11 +182,9 @@ Insulin oder Insulin-Analoga 33  Metformin
 
 6.1.9.3 HbA1c-Zielwert
 
-40  Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten
+40  Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung
 
-Einrichtung
-
-40 Diabetesbezogene stationäre Einweisung 41
+40  Diabetesbezogene stationäre Einweisung 41
 
 **7** **BODY DER VERLAUFSDOKUMENTATION**
 
@@ -202,11 +200,9 @@ Einrichtung
 
 42  Schwere Hypoglykämien seit der letzten Dokumentation
 
-42  Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten
+42  Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten  Dokumentation
 
-Dokumentation 43
-
-7.1.2 Abschnitt „Schulung“
+43  7.1.2 Abschnitt „Schulung“
 
 43  Schulung empfohlen (bei aktueller Dokumentation)
 
@@ -224,11 +220,9 @@ Dokumentation 43
 
 45  Ophthalmologische Netzhautuntersuchung seit der letzten Dokumentation
 
-46  Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten
+46  Behandlung/Mitbehandlung in einer für das Diabetische Fußsyndrom qualifizierten  Einrichtung
 
-Einrichtung
-
-46 Diabetesbezogene stationäre Einweisung 46
+46  Diabetesbezogene stationäre Einweisung 46
 
 **8** **GLOSSAR**
 
@@ -442,7 +436,7 @@ Seite 7 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Vers
 
 ---
 
-DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -451,9 +445,6 @@ DOKUMENTENHISTORIE
 | 6.06 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 21 |
 | 6.05 | 02.12.2020 | KBV | Anpassung an die | Beschluss des G-BA | **Fehle** |
 | 6.04 | 22.05.2020 | KBV | Anpassung an die  Überführung in neues Design  Vereinheitlichung des  Verschieben des Kapitels von  Korrektur der Kardinalität in  Korrektur von Kardinalitäten | Beschluss des G-BA        Redaktionelle | 21        Alle              15    Alle |
-|  |  |  |  |  |  |
-|  | 6.08  14.11.2025  KBV  Anpassung an die | | | | |
-| Beschluss des G-BA |  |  | 21 |  | ,41  15.02.2023  KBV |
 
 Seite 8 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
@@ -461,14 +452,8 @@ aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierte
 
 ---
 
-|  |  |  |  |  |  |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  | 15 | ff |  | 6.03  12.02.2020 | Redaktionelle Korrektur  Erweiterung des  Wertebereich „Körpergewicht“    Anpassung an das  16 15 |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | Löschung der nicht  Vereinheitlichung der Angabe | 15ff | | | | |
 | 6.03 | 12.02.2020 | KBV | Redaktionelle Korrektur  Erweiterung des  Wertebereich „Körpergewicht“ | Anpassung an das | 16  15        24 |
 
@@ -549,23 +534,23 @@ Es existieren verschiedene Kardinalitäten:
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
 | n...m |  | Multielement enthält mindestens n aber maximal m |
 
-**Tabelle 1:**
+**Tabelle 1:** Beschreibung der Kardinalitäten
+
+## 3.2 STRUKTURELEMENTE
+
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
 
 |  |  |
 |---|---|
 | **Symbol** | **Beschreibung** |
 |  | Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
-| Multielement enthält mindestens n aber maximal m | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
-
-## 3.2
-
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
+|  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 Seite 12 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich oft auftreten kann.  Beschreibung der Kardinalitäten STRUKTURELEMENTE Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. |  |
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich oft auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. |  |
 \|---|
 
 
@@ -573,9 +558,6 @@ gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element mus
 
 |  |  |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
 
 ## 3.3 SONSTIGE SYMBOLE
 
@@ -589,14 +571,18 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
+*Element mit Kindelementen*
+
+Ein Element mit einem oder mehreren Kindelementen wird durch ein  Pluszeichen am Rechteckrand symbolisiert.
+
 Seite 13 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
-im Schema definiert wurde. welches mehrere Elemente zusammenfasst. Element mit Kindelementen Ein Element mit einem oder mehreren Kindelementen wird durch ein Pluszeichen am Rechteckrand symbolisiert.
+im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
 \|  |
 \|---|
 
-\| Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+\|  |
 \|---|
 
 
@@ -661,15 +647,18 @@ Abbildung 2 dargestellt.
 
 ---
 
-**6.1** **SEKTION (SECTION)**
+## 6.1 SEKTION (SECTION)
 
-\|  |
-\|---|
-\| Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>-  dargestellt. |
+Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
+
+**Abbildung 3:** Grundstruktur section
+
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante  Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind.
 
 Seite 16 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in Abbildung 3 Abbildung 3:  Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind. 
+\|  |
+\|---|
 
 
 ---
@@ -830,34 +819,56 @@ Version: 6.08 / 14. November 2025
 
 ---
 
-**6.1.5** **Abschnitt „Anamnese- und Befunddaten“**
+### 6.1.5 Abschnitt „Anamnese- und Befunddaten“
 
-\| <content>       <sciphox:Beobachtungen>                                                                 content   <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Unauffällig"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Unauffällig"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Hyperkeratose mit Einblutung"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="nein"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="ja"/> |
+Dieses Kapitel beschreibt den Abschnitt „Anamnese- und Befunddaten“.
+
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
+
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält minimal 8 bis maximal 17 Kindelemente <sciphox:Beobachtung>. Ein  Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter>  und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.
+
+Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
+
+\| <content>       <sciphox:Beobachtungen>                                                                   <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Unauffällig"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Unauffällig"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Hyperkeratose mit Einblutung"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="nein"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="ja"/> |
 \|---|
-\| Dieses Kapitel beschreibt den Abschnitt „Anamnese- und Befunddaten“.   6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  < >     <sciphox:Beobachtungen> |
 
 Seite 23 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
-Im Element <content> wird die Sciphox-SSU observation  verwendet. Der Aufbau dieser SSU ist in Kapitel <sciphox:Beobachtungen> enthält minimal 8 bis maximal 17 Kindelemente <sciphox:Beobachtung>. Ein Element <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und mindestens ein Kindelement <sciphox:Ergebnistext> bzw. <sciphox:Ergebniswert>.  Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:  <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="12.3" U="% "/> </sciphox:Beobachtung> <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebniswert V="67" U="ml/min/1,73m2KOF"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Pulsstatus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Sensibilitätsprüfung"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Weiteres Risiko für Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="(Wund)Infektion"/>
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Parameter DN="HbA1c"/> <sciphox:Ergebniswert V="12.3" U="% "/> </sciphox:Beobachtung> <sciphox:Parameter DN="eGFR"/> <sciphox:Ergebniswert V="67" U="ml/min/1,73m2KOF"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Pulsstatus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Sensibilitätsprüfung"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Weiteres Risiko für Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Ulkus"/> </sciphox:Beobachtung> <sciphox:Parameter DN="(Wund)Infektion"/>
 
 
 ---
 
-\| <sciphox:Beobachtung>           "/>           </ >    Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  sciphox Beobachtung XML-Code 12: 6.1.5.2 Als Beispiel sei hier folgender Code angegeben:    </ : > |
-\|---|
 \| <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Unauffällig"/>     <sciphox:Beobachtung>     <sciphox:Ergebnistext V="Jährlich"/>     <sciphox:Beobachtung>   Spätfolgen"/>   <sciphox:Ergebnistext V="Diabetische Nephropathie"/>         </content> |
+\|---|
+
+**XML-Code 11:** content (Anamnese- und Befunddaten)
+
+### 6.1.5.1 Körpergröße
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die „Körpergröße“ und im  *U*-Attribut den fest vorgeschriebenen Wert „m“.
+
+Als Beispiel sei hier folgender Code angegeben:
+
+\| <     </sciphox:Beobachtung> |
+\|---|
+
+**XML-Code 12:** Körpergröße
+
+### 6.1.5.2 Körpergewicht
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut das „Körpergewicht“ und  im *U*-Attribut den fest vorgeschriebenen Wert „kg“.
+
+Als Beispiel sei hier folgender Code angegeben:
+
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
 
 **XML-Code 13:** Körpergewicht
 
 Seite 24 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Version: 6.08 / 14. November 2025
 
-</sciphox:Beobachtung> <sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patiente n ab dem vollendeten 18. Lebensjahr)"/> </sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> XML-Code 11: content (Anamnese- und Befunddaten) 6.1.5.1 Körpergröße  -Attribut die „Körpergröße“ und im -Attribut den fest vorgeschriebenen Wert „m“. <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" />  Körpergröße Körpergewicht -Attribut das „Körpergewicht“ und -Attribut den fest vorgeschriebenen Wert „kg“.  <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/>
-
-\| <     </sciphox:Beobachtung> |
-\|---|
-
-\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-\|---|
+</sciphox:Beobachtung> <sciphox:Parameter DN="Injektionsstellen (bei Insulintherapie)"/> </sciphox:Beobachtung> <sciphox:Parameter DN="Intervall für künftige Fußinspektionen (bei Patientinnen und Patiente n ab dem vollendeten 18. Lebensjahr)"/> </sciphox:Beobachtung> <sciphox:Parameter DN=" </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/>
 
 
 ---
@@ -1029,11 +1040,7 @@ Seite 27 von 48 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 2 / Ver
 
 ### Weiteres Risiko für Ulkus
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß
-
-*V*-Attribut die Feldbezeichnung
-
-Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 

@@ -181,23 +181,17 @@ Seite 3 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version:
 
 104  3.34.2 Barcode Inhalt Muster 70Ab/E 105
 
-**4** **ANFORDERUNGSKATALOG BFB**
-
-**106**  4.1 Zielbestimmung
-
-106  4.2 Erläuterung der Funktionsdarstellung
-
-106  4.3 Erläuterung der Zulässige BFB-Formulare
-
-106  4.4 Formulare als Druck-Dateien 107  4.5 Barcode PDF 417
-
-107  4.6 Barcode-Lesegeräte
-
-107  4.7 Sicherheitspapier
-
-107  4.8 Änderungsdienst / Logistik 107  4.9 Bedruckungsvorgaben
-
-107
+| 4 | ANFORDERUNGSKATALOG BFB | 106 |
+|---|---|---|
+| 4.1 | Zielbestimmung | 106 |
+| 4.2 | Erläuterung der Funktionsdarstellung | 106 |
+| 4.3 | Erläuterung der Zulässige BFB-Formulare | 106 |
+| 4.4 | Formulare als Druck-Dateien | 107 |
+| 4.5 | Barcode PDF 417 | 107 |
+| 4.6 | Barcode-Lesegeräte | 107 |
+| 4.7 | Sicherheitspapier | 107 |
+| 4.8 | Änderungsdienst / Logistik | 107 |
+| 4.9 | Bedruckungsvorgaben | 107 |
 
 **5** **TECHNISCHE GRUNDLAGEN DES PDF417**
 
@@ -273,9 +267,11 @@ Seite 5 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version:
 
 ---
 
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
-\| DOKUMENTENHISTORIE | Die Änderungen vom 13.05.2026 (Version 4.80) tritt zum 01.10.2026 in Kraft. | Version | Datum | Autor | Änderung |
-| DOKUMENTENHISTORIE | Die Änderungen vom 13.05.2026 (Version 4.80) tritt zum 01.10.2026 in Kraft. | Version | Datum | Autor | Änderung |
+# DOKUMENTENHISTORIE
+
+Die Änderungen vom 13.05.2026 (Version 4.80) tritt zum 01.10.2026 in Kraft.
+
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 4.80 | 13.05.2026 | KBV | Anpassung der zulässigen |  | 13, 14 |
 | 4.73 | 14.11.2025 | KBV | Aktualisierung der Anforde-   Klarstellung Muster 2a und |  | 109      15, 16 |
@@ -291,16 +287,6 @@ Seite 5 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version:
 | 4.63 | 05.07.2022 | KBV | Einführung Muster 62 |  | 94 |
 | 4.62 | 01.04.2022 | KBV | Aktualisierung des Musters |  | 92, 93 |
 | 4.61 | 11.08.2021 | KBV | Streichung des Musters 1 | Einführung der eAU | 10, 38, 45,  52 |
-| **Begründung** | **Seite** | 4.80 | 13.05.2026 | KBV | Anpassung der zulässigen    13, 14  4.73  14.11.2025  KBV  Aktualisierung der Anforde-   Klarstellung Muster 2a und    109      15, 16  4.72  15.08.2025  KBV  Aktualisierung des Musters 9    26  4.71  16.08.2024  KBV  Redaktionelle Korrektur der    38, 45, 52,  66  4.70  15.05.2024  KBV  Anpassung der möglichen    13ff  4.69  11.04.2024  KBV  Redaktionelle Korrektur der    38, 45, 52  4.68  15.02.2024  KBV  Aktualisierung der Muster 12    38, 45, 52,  66  4.67  15.02.2024  KBV  Aktualisierung der Muster 10    28, 31  4.66  15.05.2023  KBV  Streichung des Barcodes in  Muster 20c/E ist gemäß    4.65  14.11.2022  KBV  Redaktionelle Korrektur von  4.2  Anpassung von P4.8-50    106    109, 38  4.64  22.09.2022  KBV  Aktualisierung des Musters  Anpassung von P4.8-50 |
-| 91 |  | 109 |  | 4.63 | 05.07.2022  KBV |
-| Einführung Muster 62 |  | 94 |  | 4.62 | 01.04.2022  KBV  Aktualisierung des Musters |
-| 92 | , | 93 |  | 4.61 | 11.08.2021  KBV  Streichung des Musters 1  Einführung der eAU |
-| 10 | , | 38 | , | 45 | ,  52 |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  | **Begründung  Seite** | 4.80  13.05.2026 |
-| KBV | Anpassung der zulässigen |  | 13, | 14  4.73  14.11.2025 | KBV  Aktualisierung der Anforde-   Klarstellung Muster 2a und |
-|  | 109 |  |  |  | 15, 16 |
 
 Seite 6 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
@@ -309,24 +295,8 @@ DMP-Kennzeichen in den Standardbarcode Typen rung P4.8-50 2b  zu 9a Formularvers
 
 ---
 
-\| Autor | Änderung | Begründung | Seite | 4.60 | 16.02.2021 |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| KBV | Erweiterung der DMP-Kenn- | Einführung der Disease- | 13 | , | 14, 15, |
-| 16 | , | 18 | , 19, | 21 | , 24, 25,  26, 28 |
-| , | 31 | , | 34 | , | 37, |
-| 38 | , | 45 | , | 52 | , 59,  61, 62, 63 |
-| , | 65 | , | 66 | , | 67, |
-| 68 | , | 69 | , | 70 | ,  71, 72, 73 |
-| , | 74 | , | 75 | , | 76,  77, 78, 82, |
-| 86 | , | 87 | , | 88 | ,  89, 90 |
-| , | 91 | , | 92 | , | 93 |
-| , | 96 | , | 97, 98, 99, | 100 | , 101,  102, 103, |
-| 104 | , | 105 | 12, 108 |  | 4.59  09.12.2020  KBV  Anpassung von Kapitel 1 |
-| Anpassung des BMV-Ä | 9 |  | 4.58 | 13.11.2020 | KBV  Aktualisierung des Musters |
-|  | 78 | , | 82 |  | 4.57  03.09.2020  KBV  Wiedereinsetzung der Ände- |
-| Verschiebung des In- | 12 | , | 59 |  | 4.56  03.09.2020  KBV  Rücknahme der Änderungen  Verschiebung des In- 12, 59 |
 | 4.60 | 16.02.2021 | KBV | Erweiterung der DMP-Kenn- | Einführung der Disease- | 13, 14, 15,  16, 18, 19,  21, 24, 25,  26, 28, 31,  34, 37, 38,  45, 52, 59,  61, 62, 63,  65, 66, 67,  68, 69, 70,  71, 72, 73,  74, 75, 76,  77, 78, 82,  86, 87, 88,  89, 90, 91,  92, 93, 96,  97, 98, 99,  100, 101,  102, 103,  104, 105  12, 108 |
 | 4.59 | 09.12.2020 | KBV | Anpassung von Kapitel 1 | Anpassung des BMV-Ä | 9 |
 | 4.58 | 13.11.2020 | KBV | Aktualisierung des Musters |  | 78, 82 |
@@ -334,9 +304,6 @@ DMP-Kennzeichen in den Standardbarcode Typen rung P4.8-50 2b  zu 9a Formularvers
 | 4.56 | 03.09.2020 | KBV | Rücknahme der Änderungen | Verschiebung des In- | 12, 59 |
 | 4.55 | 12.08.2020 | KBV | Anpassung der Abbildung |  | 34 |
 | 4.54 | 12.05.2020 | KBV | Anpassung von Muster 10  Anpassung von Muster 10L |  | 28  31  34 |
-|  |  |  |  | 4.60  16.02.2021 | KBV  Erweiterung der DMP-Kenn- |
-| Einführung der Disease- | 13 | , | 14, | 15,  16, | 18, 19, |
-| 21 | , | 24 | , | 25 | ,  26, 28 |
 
 Seite 7 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
@@ -345,31 +312,8 @@ zeichnung und Anpassung der Version von Muster 1, 2, 3, 4, 6, 8, 8A, 9, 10, 10L,
 
 ---
 
-\| Autor | Änderung | Begründung | Seite | Anpassung von Muster 10A | Anpassung von Muster 12 |
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 38 |  | 4.53 | 21.01.2020 | KBV | Anpassung von Muster 13  Entfernung von Muster 14  Änderung der Heilmittel-  Richtlinie des G-BA mit |
-| Beschlussfassung vom | 19.09.2019 | 12 | , 59 | 4.50 | 04.03.2020  KBV  Anpassung von Muster 4    12, 19 |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| Anpassung von Muster 10A | Anpassung von Muster 12 | 38 |  | 4.53 | 21.01.2020  KBV  Anpassung von Muster 13  Entfernung von Muster 14  Änderung der Heilmittel-  Richtlinie des G-BA mit  Beschlussfassung vom  19.09.2019  12, 59  4.50  04.03.2020  KBV  Anpassung von Muster 4    12, 19 |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 |  |  |  |  | Anpassung von Muster 10A  Anpassung von Muster 12 | 38 |
 | 4.53 | 21.01.2020 | KBV | Anpassung von Muster 13  Entfernung von Muster 14 | Änderung der Heilmittel-  Richtlinie des G-BA mit  Beschlussfassung vom  19.09.2019 | 12, 59 |
 | 4.50 | 04.03.2020 | KBV | Anpassung von Muster 4 |  | 12, 19 |
@@ -556,7 +500,7 @@ Seite 12 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 
 In allen Mustern des Entlassmanagements gilt für das Feld „LANR“, dass bei der Bedruckung übergangs-[weise die Pseudo-LANR eingetragen wird (siehe](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf) [zeit wird die Krankenhausarztnummer eingetragen.](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
 
-**2.11.1** **Standardbarcode Typ 1**
+**2.11.1**
 
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
@@ -579,6 +523,8 @@ In allen Mustern des Entlassmanagements gilt für das Feld „LANR“, dass bei 
 **MAXIMALE GESAMTLÄNGE**
 
 Seite 13 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+
+### Standardbarcode Typ 1
 
 [Rahmenvertrag Entlassmanagement](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
 
@@ -609,7 +555,7 @@ LÄNGE zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 05, 06, 07, 08
 | **11** | **LANR** | 9 | n |  |  |
 | **12** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**  **65 + TABS**
+**MAXIMALE GESAMTLÄNGE**
 
 ### 2.11.3 Standardbarcode Typ 3
 
@@ -625,7 +571,7 @@ Der Barcode vom Typ 5 enthält nur formularspezifische Einträge und wird dann v
 
 Seite 14 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-**TYP 2**
+**65 + TABS**        **TYP 2**
 
 LÄNGE 05, 06, 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58
 
@@ -707,9 +653,9 @@ Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr als 49 Zeichen einhalte
 | **20** | **Diagnoseart** | 1 | n | 1; 2 | 1 = ICD10, 2 = Klartext |
 | **21** | **Diagnose** | <=49 | a |  | Trennzeichen ist Komma |
 
-### Barcode Inhalt Muster 2b/E
-
 Seite 16 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+
+### Barcode Inhalt Muster 2b/E
 
 LÄNGE code-Typ 1 hausarzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 +Leerzeichen
 
@@ -764,8 +710,11 @@ dungstermin LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | HALTE | FORMAT/ BEMERKUNG |
-| 3.3 3.3.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | HALTE |
+## 3.3
+
+**3.3.1**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | HALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 04 | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a |  |  |
@@ -790,63 +739,22 @@ dungstermin LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | **21** | **Voll-/Teilstationäre Kranken-** | 1 | n | 1 | 1 = angekreuzt |
 | **22** | **Vor-/Nachstationäre Behand-** | 1 | n | 1 | 1 = angekreuzt |
 | **23** | **Ambulante Behandlung bei** | 1 | n | 1 | 1 = angekreuzt |
-|  |  |  |  |  | **FORMAT/ BEMERKUNG** |
-| **01** | **Formularcode** | 2 | n | 04 | Nr. des Musters |
-| **02** | **Formularcodeergänzung** | 1 | a |  |  |
-| **03** | **Versionsnummer** | 2 | n | 11 |  |
-| **04** | **Nachname** | <=45 | a |  |  |
-| **05** | **Vorname** | <=45 | a |  |  |
-| **06** | **Geburtsdatum** | 8 | n |  | zusätzlicher Wertebe- |
-| **07** | **Versicherungsschutz Ende** | 8 | n |  | Format : JJJJMMTT |
-| **08** | **Kostenträgerkennung** | 9 | n |  |  |
-| **09** | **Versicherten-ID** | <=12 | a |  |  |
-| **10  Versichertenart** | 1  n | 1,3,5 |  |  | **11** |
-| **Besondere Personengruppe ** 2  n | 09 |  | **12** |  | **DMP-Kennzeichnung** |
-| 2  n | code-Typ 1 |  |  | **13** |  |
-| **(Neben-)Betriebsstättennum-** 9 | n |  |  | **14** |  |
-| **LANR ** 9 | n |  |  | **15** |  |
-| **Ausstellungsdatum ** 8 | n | Format : JJJJMMTT |  | **16** |  |
-| **Unfall, Unfallfolge ** 1 | n  1 | 1 = angekreuzt |  | **17** |  |
-| **Arbeitsunfall, Berufskrankheit ** 1 | n  1 | 1 = angekreuzt |  | **18** |  |
-| **Versorgungsleiden ** 1 | n  1 | 1 = angekreuzt |  | **19** |  |
-| **Hinfahrt ** 1 | n  1 | 1 = angekreuzt |  | **20** |  |
-| **Rückfahrt ** 1 | n  1 | 1 = angekreuzt |  | **21** |  |
 
 Seite 19 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
+## MUSTER 4
+
+### Barcode Inhalt Muster 4/E
+
 / Version: 4.80 / 13. Mai 2026
 
-MUSTER 4 Barcode Inhalt Muster 4/E hausbehandlung Merkzeichen „aG“, „BI“, ,,H“, Pflegegrad 3 mit dauerhafter Mobilitätsbeeinträchtigung, LÄNGE ERLAUBTE IN- 00, 04, 06, 07, 08, Siehe Standardbar- reich :  JJJJMM00, JJJJ0000, 00000000 
+hausbehandlung Merkzeichen „aG“, „BI“, ,,H“, Pflegegrad 3 mit dauerhafter Mobilitätsbeeinträchtigung, LÄNGE ERLAUBTE IN- 00, 04, 06, 07, 08, Siehe Standardbar- reich :  JJJJMM00, JJJJ0000, 00000000 
 
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE IN- | FORMAT/ BEMERKUNG | Pflegegrad 4 oder 5 nur |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE IN- | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **24** | **Anderer Grund** | 1 | n | 1 | 1 = angekreuzt |
-| **25** | **Anderer Grund Freitext** | <= 43 | a |  |  |
-| **26** | **Hochfrequente Behandlung** | 1 | n | 1 | 1 = angekreuzt |
-| **27** | **Hochfrequente Behandlung -** | 1 | n | 1 | 1 = angekreuzt |
-| **28** | **Dauerhafte Mobilitätsbeein-** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Anderer Grund für Fahrt mit** | 1 | n | 1 | 1 = angekreuzt |
-| **30** | **Vom/am** | 8 | n |  | Format JJJJMMTT |
-| **31** | **X pro Woche** | 1 | n | 1, 2, 3, 4, 5, 6, 7 |  |
-| **32** | **Bis voraussichtlich** | 8 | n |  | Format: JJJJMMTT |
-| **33** |  |  | **Behandlungsstätte** | <= 62 | a |
-|  | **34** |  |  |  | **Taxi/Mietwagen** |
-| 1  n | 1  1 = angekreuzt |  | **35** | **KTW, da medizinisch-fachliche** | 1 |
-| n  1 | 1 = angekreuzt | **36** |  | **KTW wegen (Begründung)** | <= 56 |
-| a |  | **37** |  | **Rollstuhl** | 1 |
-| n  1 | 1 = angekreuzt | **38** |  | **Tragestuhl** | 1 |
-| n  1 | 1 = angekreuzt | **39** |  | **liegend** | 1 |
-| n  1 | 1 = angekreuzt | **40** |  | **RTW** | 1 |
-| n  1 | 1 = angekreuzt | **41** |  | **NAW/NEF** | 1 |
-| n  1 | 1 = angekreuzt | **42** |  | **Andere** | 1 |
-| n  1 | 1 = angekreuzt | **43** |  | **Andere Freitext** | <= 16 |
-| a |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 |  |  |  |  |  | **Pflegegrad 4 oder 5 nur** |
 | **24** | **Anderer Grund** | 1 | n | 1 | 1 = angekreuzt |
 | **25** | **Anderer Grund Freitext** | <= 43 | a |  |  |
@@ -869,17 +777,28 @@ MUSTER 4 Barcode Inhalt Muster 4/E hausbehandlung Merkzeichen „aG“, „BI“
 | **42** | **Andere** | 1 | n | 1 | 1 = angekreuzt |
 | **43** | **Andere Freitext** | <= 16 | a |  |  |
 
+**MAXIMALE GESAMTLÄNGE**
+
 Seite 20 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+**378 + TABS**
 
-MAXIMALE GESAMTLÄNGE  Dialyse, onkol. Chemo oder Strahlentherapie vergleichbarer Ausnahmefall trächtigung vergleichbar mit b) und Behandlungsdauer min- destens 6 Monate Betreuung und/oder Einrich- tung notwendig ist wegen 378 + TABS LÄNGE HALTE 
+/ Version: 4.80 /
+
+**TYP** **3**
+
+13. Mai 2026
+
+Dialyse, onkol. Chemo oder Strahlentherapie vergleichbarer Ausnahmefall trächtigung vergleichbar mit b) und Behandlungsdauer min- destens 6 Monate Betreuung und/oder Einrich- tung notwendig ist wegen LÄNGE HALTE 
 
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
-| 3.4 3.4.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
+## 3.4 MUSTER 6
+
+**3.4.1** **Barcode Inhalt Muster 6/E**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
 |---|---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 06 | Nr. des Musters |  |
 | **02** | **Formularcodeergänzung** | 1 | a |  |  |  |
@@ -902,60 +821,18 @@ MAXIMALE GESAMTLÄNGE  Dialyse, onkol. Chemo oder Strahlentherapie vergleichbare
 | **19** | **Geschlecht** | 1 | a | M, W, X, D | M=männlich  W=weiblich  X=unbestimmt  D=divers | 3110 |
 | **20** | **Titel** | <=20 | a |  |  | 3104 |
 | **21** | **Namenszusatz** | <=20 | a |  |  | 3100 |
-| **KVDT-** | **01** |  | **Formularcode** | 2 | n | 06 |
-| Nr. des Musters | **02** |  | **Formularcodeergänzung** | 1 | a |  |
-|  | **03** |  | **Versionsnummer** | 2 | n | 12 |
-|  | **04** |  | **Anforderungs-Ident** | <=13 | a |  |
-| optionale Ident-Nr. | **05** |  | **Nachname** | <=45 | a |  |
-| 3101 | **06** |  | **Vorname** | <=45 | a |  |
-| 3102 | **07** |  | **Geburtsdatum** | 8 | n |  |
-| JJJJMMTT  3103 | **08** |  | **Versicherungsschutz Ende** | 8 | n |  |
-| JJJJMMTT  4110 | **09** |  | **Kostenträgerkennung** | 9 | n |  |
-| 4111 | **10** |  | **Kostenträgername** | <=24 | a |  |
-| Entsprechend der Be- | **11** |  | **WOP-Kennzeichen (KV-Be-** | 2 | n | 3116 |
-| **12** | **Versichertennummer oder** | <=12 | a |  |  | 3105 |
-| 3119  4124 | **13** |  | **Versichertenart** | 1 | n | 1,3,5 |
-| 3108 | **14** |  | **Besondere Personengruppe** | 2 | n | 00, 04, 06, |
-| 4131 | **15** |  | **DMP-Kennzeichnung** | 2 | n | Siehe Stan- |
-|  | 4132 | **16** |  | **(N)BSNR Überweiser** | 9  n |  |
-| 4218 | **17** | **Überweiser LANR** | 9 | n |  |  |
-| 4242 | **18** | **Ausstellungsdatum** | 8 | n |  | JJJJMMTT |
-| 4102 | **19** | **Geschlecht** | 1 | a | M, W, X, D | M=männlich |
-| W=weiblich  X=unbestimmt | D=divers  3110 |  | **20** |  | **Titel** | <=20 |
 
 Seite 21 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 / Version: 4.80 / 13. Mai 2026
 
-MUSTER 6 Barcode Inhalt Muster 6/E LÄNGE reich) Versicherten_ID oder SKT-Zusatz INHALTE druckung im Personali- enfeld 07, 08, 09 dardbarcode- Typ 1
+LÄNGE reich) Versicherten_ID oder SKT-Zusatz INHALTE druckung im Personali- enfeld 07, 08, 09 dardbarcode- Typ 1
 
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | 22 |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
 |---|---|---|---|---|---|---|
-| **Vorsatzwort** | <=20  a |  |  | 3120 |  | **23** |
-| **PLZ** | <=10  a |  |  | 3112 |  | **24** |
-| **Ort** | <=40  a |  |  | 3113 |  | **25** |
-| **Straße** | <=46  a |  |  | 3107 |  | **26** |
-| **Hausnummer** | <=9  a |  |  | 3109 |  | **27** |
-| **Wohnsitzländercode** | <=3  a |  |  | 3114 |  | **28** |
-| **PostfachPLZ** | <=10  a |  | Falls das Feld 23 leer ist | 3121 |  | **29** |
-| **PostfachOrt** | <=40  a |  | Falls das Feld 24 leer ist | 3122 |  | **30** |
-| **Postfach** | <=8  a |  | Falls die Felder 25 und | 3123 |  | **31** |
-| **PostfachWohnsitzländercode** | <=3  a |  | Falls das Feld 27 leer ist | 3124 |  | **32** |
-| **Kurativ/Präventiv/bei beleg-** | 1  n |  | 1=kurativ | 2=präventiv | 4=bei belegärztl. Beh. | 4221 |
-| **33** | **Unfall /Unfallfolgen** | 1 | n |  | 1=ja | 4202 **34** |
-| **OP-Datum** | 8  n |  | JJJJMMTT |  |  | **35** |
-| **Überweisung an** | <=60  a |  |  | 4220 |  | **36** |
-| **AU bis** | 8  n |  | JJJJMMTT |  | **37** |  |
-| **Untersuchungsart ** 1 | n | 1=Auftragsleistung | 2=Konsiliaruntersuchung | 3=Mit-/Weiterbehand- |  |  |
-| **38** | **spruch gemäß § 16 Abs. 3a ** 1 | n |  | 1=ja | 4204 |  |
-| **39** | **Diagnose/Verdachtsdiag-** <=140 | a |  |  | 4207 |  |
-| **40** | **Befund/Medikation ** <=140 | a |  |  | 4208 **41** | **Auftrag** |
-| <=280  a |  | 4205 |  |  |  |  |
-|  |  |  |  |  |  |  |
 | **22** | **Vorsatzwort** | <=20 | a |  |  | 3120 |
 | **23** | **PLZ** | <=10 | a |  |  | 3112 |
 | **24** | **Ort** | <=40 | a |  |  | 3113 |
@@ -977,12 +854,17 @@ MUSTER 6 Barcode Inhalt Muster 6/E LÄNGE reich) Versicherten_ID oder SKT-Zusatz
 | **40** | **Befund/Medikation** | <=140 | a |  |  | 4208 |
 | **41** | **Auftrag** | <=280 | a |  |  | 4205 |
 
+**MAXIMALE GESAMTLÄNGE**
+
 Seite 22 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
+
+**1072 + TABS**
 
 / Version: 4.80 / 13. Mai 2026
 
-SGB V MAXIMALE GESAMTLÄNGE  ärztl. Behandlung Eingeschränkter Leistungsan- LÄNGE 1072 + TABS  INHALTE 26  leer sind lung 
+**TYP 3**
 
+SGB V ärztl. Behandlung Eingeschränkter Leistungsan- LÄNGE INHALTE 26  leer sind lung
 
 ---
 
@@ -1072,8 +954,11 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
-| 3.7 3.7.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE |
+## 3.7
+
+**3.7.1**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 09 | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a | a |  |
@@ -1097,53 +982,42 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **20** | **Frühgeburt am** | 8 | n |  | Format : JJJJMMTT |
 | **21** | **Geburtsgewicht unter 2500** | 1 | n | 1 | 1 = angekreuzt |
 | **22** | **Geburtsgewicht ab 2500 Gramm** | 1 | n | 1 | 1 = angekreuzt |
-| **FORMAT/ BEMERKUNG** | **01** |  | **Formularcode** | 2 | n |
 
 Seite 26 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
+## MUSTER 9
+
+### Barcode Inhalt Muster 9a/E
+
 / Version: 4.80 / 13. Mai 2026
 
-MUSTER 9 Barcode Inhalt Muster 9a/E es besteht jedoch ein wesentlich erweiterter Pflegebedarf wegen nicht voll ausgebildete Reifezei- chen oder verfrühter Beendi- gung der Schwangerschaft LÄNGE 00, 04, 06, 07, 08, Siehe Standardbar- :  JJJJMM00, JJJJ0000, 00000000 
+es besteht jedoch ein wesentlich erweiterter Pflegebedarf wegen nicht voll ausgebildete Reifezei- chen oder verfrühter Beendi- gung der Schwangerschaft LÄNGE 00, 04, 06, 07, 08, Siehe Standardbar- :  JJJJMM00, JJJJ0000, 00000000 
 
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ | 23 |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ |
 |---|---|---|---|---|---|
-| **Bei dem Kind liegt eine Behinde-** | 1  n | 1 | 1 = angekreuzt |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 | **23** | **Bei dem Kind liegt eine Behinde-** | 1 | n | 1 | 1 = angekreuzt |
+
+**MAXIMALE GESAMTLÄNGE**
+
+**185 + TABS**
+
+**TYP 3**
 
 Seite 27 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-MAXIMALE GESAMTLÄNGE  rung vor LÄNGE 185 + TABS   BEMERKUNG
+rung vor LÄNGE BEMERKUNG 
+
 
 ---
 
-\| NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
-\| 3.8 3.8.1 | NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE  FORMAT/ | BEMERKUNG | KVDT |
-| 3.8 3.8.1 | NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE  FORMAT/ | BEMERKUNG | KVDT |
+## 3.8
+
+**3.8.1**
+
+| NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 10 | Nr. des Musters |  | |
 | **02** | **Formularcodeergänzung** | 1 | a |  |  |  | |
@@ -1166,68 +1040,19 @@ MAXIMALE GESAMTLÄNGE  rung vor LÄNGE 185 + TABS   BEMERKUNG
 | **19** | **Überweiser LANR** | 9 | n |  |  | 4242 |  |
 | **20** | **Ausstellungsdatum** | 8 | n |  | JJJJMMTT | 4102 |  |
 | **21** | **Geschlecht** | 1 | a | M, W, X, D | M=männlich | 3110 | |
-|  |  |  |  |  |  | **LDT-** | |
-| **01** | **Formularcode ** 2 | n | 10 | Nr. des Musters |  |  | |
-| **02** | **Formularcodeergänzung ** 1 | a |  |  |  |  | |
-| **03** | **Versionsnummer ** 2 | n | 15 |  |  |  | |
-| **04** | **Anforderungs-Ident ** <=13 | a |  | optionale Ident-Nr. |  | 8310 | |
-| **05** | **Nachname** | <=45 | a |  |  | 3101 | |
-| **06** | **Vorname** | <=45 | a |  |  | 3102 | |
-| **07** | **Geburtsdatum** | 8 | n |  | JJJJMMTT | 3103 | |
-| **08** | **Versicherungsschutz** | 8 | n |  | JJJJMMTT | 4110 | |
-| **09** | **Kostenträgerkennung** | 9 | n |  |  | 4111 | |
-| **10** | **Kostenträgername** | <=24 | a |  | Entsprechend der Be- |  | |
-| 4134 | **11** | **WOP-Kennzeichen (KV-** | 2 | n |  |  | |
-| 3116 | **12** | **Versichertennummer** | <=12 | a |  |  | |
-| 3105 oder  3119 oder | 4124 | **13** |  | **Versichertenart** | 1  n  1,3,5 | 3108 | |
-| **14** | **Besondere Personen-** | 2 | n | 00, 04, 06, |  | 4131 | |
-| **15** | **DMP-Kennzeichnung** | 2 | n | Siehe Stan- |  |  | |
-| 4132 | **16** | **Vertragsarzt-(N)BSNR/** |  | **/ASV-Teamnummer** |  | **des Erstveranlassers** | |
-| 9  n |  | 4217 |  | **17** |  | **Erstveranlasser LANR** | 9 |
-| n | 4241 |  | **18** |  | **(N)BSNR Überweiser** | 9 | n |
-|  | 4218 |  | **19** |  | **Überweiser LANR** | 9 | |
-| n | 4242 | **20** |  | **Ausstellungsdatum** | 8 | n |  |
-| **LDT-** | **01** |  | **Formularcode** | 2 | n | 10 | Nr. des Musters |
-|  | **02** | **Formularcodeergänzung** | 1 | a |  |  |  |
-| **03** | **Versionsnummer** | 2 | n | 15 |  |  |  |
-| **04** | **Anforderungs-Ident ** <=13 | a |  | optionale Ident-Nr. |  | 8310 | |
-| **05** | **Nachname** | <=45 | a |  |  | 3101 | |
-| **06** | **Vorname** | <=45 | a |  |  | 3102 | |
-| **07** | **Geburtsdatum** | 8 | n |  | JJJJMMTT | 3103 |  |
-| **08** | **Versicherungsschutz ** 8 | n |  | JJJJMMTT | 4110 |  | |
-| **09** | **Kostenträgerkennung ** 9 | n |  |  | 4111 |  | |
 
 Seite 28 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-MUSTER 10 Barcode Inhalt Muster 10/E LÄNGE Ende Bereich) Versicherten_ID oder SKT-Zusatz gruppe INHALTE 07, 08, 09 dardbar- code-Typ 1 druckung im Personalien- feld -FELD
+## MUSTER 10
+
+### Barcode Inhalt Muster 10/E
+
+LÄNGE Ende Bereich) Versicherten_ID oder SKT-Zusatz gruppe INHALTE 07, 08, 09 dardbar- code-Typ 1 druckung im Personalien- feld -FELD
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ | BEMERKUNG KVDT | LDT- | W=weiblich  X=unbestimmt |
-\| NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 | NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|
-| D=divers | **22** | **Titel** | <=20 | a |  |  | |
-| 3104 | **23** | **Namenszusatz** | <=20 | a |  |  | |
-| 3100 | **24** | **Vorsatzwort** | <=20 | a |  |  | |
-| 3120 | **25** | **PLZ** | <=10 | a |  |  | 3112 |
-| **26** | **Ort** | <=40 | a |  |  | 3113 | |
-| **27** | **Straße** | <=46 | a |  |  | 3107 | |
-| **28** | **Hausnummer** | <=9 | a |  |  | 3109 | |
-| **29** | **Wohnsitzländercode** | <=3 | a |  |  | 3114 | |
-| **30** | **PostfachPLZ** | <=10 | a |  | Falls das Feld 25 leer ist | 3121 | |
-| **31** | **PostfachOrt** | <=40 | a |  | Falls das Feld 26 leer ist | 3122 |  |
-| **32** | **Postfach ** <=8 | a |  | Falls die Felder 27 und 28 | 3123 |  | |
-| **33** | **PostfachWohnsitzländer-** <=3 | a |  | Falls das Feld 29 leer ist | 3124 | **34** | |
-| **Kurativ/Präventiv/ESS/ ** 1 | n | 1 = kurativ | 2 = präventiv | 3 = Empfängnisregelung, | 4 = belegärztl. Behand- | 4221 | |
-| **35** | **Unfall /Unfallfolgen** | 1 | n |  | 1=ja | 4202 | |
-| **36** | **Kontrolluntersuchung ei-** | 1 | n | 1=ja |  |  | |
-| **37** | **Knappschaftskennziffer ** 5  n      4229 |  | **38** |  | **Abnahmedatum** | 8 | |
-| n | JJJJMMTT | 8432 |  | **39** |  | **Abnahmezeit** | |
-| 4  n | hhmm |  | 8433 |  | **40** |  | **Eingeschränkter Leis-** |
-| 1  n | 1=ja | 4204 |  | **41** |  | **Befundübermittlung eilt** |  |
-| **(Dringlichkeitsstatus) ** 1 | n | 2=eilig |  | 8501 |  |  |  |
-|  |  |  |  |  |  |  | |
 |  |  |  |  |  |  | W=weiblich  X=unbestimmt  D=divers | |
 | **22** | **Titel** | <=20 | a |  |  | 3104 | |
 | **23** | **Namenszusatz** | <=20 | a |  |  | 3100 | |
@@ -1249,15 +1074,6 @@ MUSTER 10 Barcode Inhalt Muster 10/E LÄNGE Ende Bereich) Versicherten_ID oder S
 | **39** | **Abnahmezeit** | 4 | n |  | hhmm |  | 8433 |
 | **40** | **Eingeschränkter Leis-** | 1 | n |  | 1=ja | 4204 | |
 | **41** | **Befundübermittlung eilt  (Dringlichkeitsstatus)** | 1 | n |  | 2=eilig |  | 8501 |
-| W=weiblich  X=unbestimmt | D=divers | **22** |  | **Titel** | <=20 | a |  |
-| 3104 | **23** |  | **Namenszusatz** | <=20 | a |  |  |
-| 3100 | **24** | **Vorsatzwort** | <=20 | a |  |  | 3120 |
-| **25** | **PLZ** | <=10 | a |  |  | 3112 | |
-| **26** | **Ort** | <=40 | a |  |  | 3113 | |
-| **27** | **Straße** | <=46 | a |  |  | 3107 | |
-| **28** | **Hausnummer** | <=9 | a |  |  | 3109 |  |
-| **29** | **Wohnsitzländercode ** <=3 | a |  |  | 3114 |  | |
-| **30** | **PostfachPLZ ** <=10 | a |  | Falls das Feld 25 leer ist | 3121 |  | |
 
 Seite 29 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung /
 
@@ -1268,52 +1084,8 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ | BEMERKUNG KVDT | LDT- | 42 |
-\| NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 | NR | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|
-| **Telefon** | 1  n |  | 1=ja |  | 8611 |  | |
-| **43** | **Fax ** 1 | n |  | 1=ja |  | 8611 | |
-| **44** | **Nr.** | <=20 | a |  |  |  | |
-| 7330 | **45** | **SSW** | 2 | n |  | NN |  |
-| **46** | **Diagnose/Verdachtsdiag-** | <=70 | a |  |  | 4207 | |
-| **47** | **Befund/Medikation** | <=140 | a |  |  | 4208 | |
-| **48** | **Auftrag** | <=280 | a |  |  | 4205 | |
-|  | **49** | **Prüfnummer** | 15 | a |  | Das Feld ist mit der BFB- | |
-|  | **50** | **SER** | 1 | n |  | 1=ja | |
-|  |  |  | Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co- |  |  |  |  |
-| **HINWEIS** |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  | **42** | |
-| **Telefon ** 1 | n | 1=ja |  | 8611 |  | **43** | |
-| **Fax** | 1  n |  | 1=ja |  | 8611 |  | |
-| **44** | **Nr. ** <=20 | a |  |  |  | 7330 | |
-| **45** | **SSW** | 2 | n |  | NN |  | |
-| **46** | **Diagnose/Verdachtsdiag-** | <=70 | a |  |  | 4207 | |
-| **47** | **Befund/Medikation** | <=140 | a |  |  | 4208 | |
-| **48** | **Auftrag** | <=280 | a |  |  | 4205 | |
-|  | **49** | **Prüfnummer** | 15 | a |  | Das Feld ist mit der BFB- | |
-|  | **50** | **SER** | 1 | n |  | 1=ja | |
-|  |  |  | Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co- |  |  |  | |
-| **HINWEIS** |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
 | **42** | **Telefon** | 1 | n |  | 1=ja |  | 8611 |
 | **43** | **Fax** | 1 | n |  | 1=ja |  | 8611 |
 | **44** | **Nr.** | <=20 | a |  |  |  | 7330 |
@@ -1324,15 +1096,25 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 | **49** | **Prüfnummer** | 15 | a |  | Das Feld ist mit der BFB- |  | |
 | **50** | **SER** | 1 | n |  | 1=ja |  | |
 
+**MAXIMALE GESAMTLÄNGE**
+
+**HINWEIS**
+
+Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben.
+
 Seite 30 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-LÄNGE INHALTE MAXIMALE GESAMTLÄNGE  1002 + TABS  dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben. Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
+**1002 + TABS**
+
+**TYP 3**
+
+LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- |
-\| 3.8.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT |
-| 3.8.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT |
+**3.8.2**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 10 |  |  | |
 | **02** | **Formularcodeergänzung** | 1 | a | L |  |  | |
@@ -1355,68 +1137,17 @@ LÄNGE INHALTE MAXIMALE GESAMTLÄNGE  1002 + TABS  dierenden Datenvolumens entsp
 | **19** | **Überweiser LANR** | 9 | n |  |  |  | 4242 |
 | **20** | **Ausstellungsdatum** | 8 | n |  | JJJJMMTT |  | 4102 |
 | **21** | **Geschlecht** | 1 | a | M, W, X, D | M=männlich  W=weiblich  X=unbestimmt | 3110 | |
-|  |  |  |  |  |  | **LDT-** | |
-| **01** | **Formularcode** | 2 | n | 10 |  |  | |
-| **02** | **Formularcodeergänzung** | 1 | a | L |  |  | |
-| **03** | **Versionsnummer** | 2 | n | 11 |  |  | |
-| **04** | **Anforderungs-Ident** | <=13 | a |  | optionale Ident-Nr. |  | |
-| 8310 | **05** | **Nachname** | <=45 | a |  |  | |
-| 3101 | **06** | **Vorname** | <=45 | a |  |  | |
-| 3102 | **07** | **Geburtsdatum** | 8 | n |  | JJJJMMTT | |
-| 3103 | **08** | **Versicherungsschutz** | 8 | n |  | JJJJMMTT | |
-| 4110 | **09** | **Kostenträgerkennung** | 9 | n |  |  | |
-| 4111 | **10** | **Kostenträgername** | <=24 | a |  | Entsprechend der Be- | |
-| 4134 | **11** |  | **WOP-Kennzeichen (KV-** | 2 | n |  | |
-| 3116 | **12** |  | **Versichertennummer** | <=12 | a |  | |
-| 3105 oder | 3119 oder  4124 |  | **13** |  | **Versichertenart ** 1  n  1,3,5 |  | |
-| 3108 | **14** | **Besondere Personen-** | 2 | n | 00, 04, 06, |  | |
-| 4131 | **15** | **DMP-Kennzeichnung** | 2 | n | Siehe Stan- |  | |
-| 4132 | **16** |  | **Vertragsarzt-(N)BSNR/** |  | **/ASV-Teamnummer** |  | |
-| **des Erstveranlassers ** 9 | n |  | 4217 |  | **17** |  | **Erstveranlasser LANR** |
-| 9  n |  | 4241 |  | **18** |  | **(N)BSNR Überweiser** | 9 |
-| n |  | 4218 |  | **19** |  | **Überweiser LANR** | |
-| 9  n | 4242 |  | **20** |  | **Ausstellungsdatum** | 8 | n |
-| JJJJMMTT | 4102 |  | **21** |  | **Geschlecht** | 1 | a |
-| **LDT-** | **01** | **Formularcode** | 2 | n | 10 |  |  |
-| **02** | **Formularcodeergänzung** | 1 | a | L |  |  |  |
-| **03** | **Versionsnummer ** 2 | n | 11 |  |  |  | |
-| **04** | **Anforderungs-Ident ** <=13 | a |  | optionale Ident-Nr. |  | 8310 | |
-| **05** | **Nachname** | <=45 | a |  |  | 3101 | |
-| **06** | **Vorname** | <=45 | a |  |  | 3102 |  |
-| **07** | **Geburtsdatum ** 8 | n |  | JJJJMMTT | 3103 |  | |
-| **08** | **Versicherungsschutz ** 8 | n |  | JJJJMMTT | 4110 |  | |
 
 Seite 31 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-Barcode Inhalt Muster 10L/E LÄNGE Ende Bereich) Versicherten_ID oder SKT-Zusatz gruppe INHALTE 07, 08, 09 dardbar- code-Typ 1 druckung im Personalien- feld -FELD
+### Barcode Inhalt Muster 10L/E
+
+LÄNGE Ende Bereich) Versicherten_ID oder SKT-Zusatz gruppe INHALTE 07, 08, 09 dardbar- code-Typ 1 druckung im Personalien- feld -FELD
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- D=divers |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|
-| **22** | **Titel** | <=20 | a |  |  | 3104 | |
-| **23** | **Namenszusatz** | <=20 | a |  |  | 3100 | |
-| **24** | **Vorsatzwort** | <=20 | a |  |  | 3120 | |
-| **25** | **PLZ** | <=10 | a |  |  | 3112 |  |
-| **26** | **Ort ** <=40 | a |  |  | 3113 |  | |
-| **27** | **Straße ** <=46 | a |  |  | 3107 |  | |
-| **28** | **Hausnummer ** <=9 | a |  |  | 3109 |  | |
-| **29** | **Wohnsitzländercode ** <=3 | a |  |  | 3114 |  | |
-| **30** | **PostfachPLZ ** <=10 | a |  | Falls das Feld 25 leer ist | 3121 |  | |
-| **31** | **PostfachOrt ** <=40 | a |  | Falls das Feld 26 leer ist | 3122 |  | **32** |
-| **Postfach** | <=8  a |  | Falls die Felder 27 und 28 | 3123 |  | **33** | |
-| **PostfachWohnsitzländer-** | <=3  a |  | Falls das Feld 29 leer ist | 3124 |  | **34  Kurativ/Präventiv/ESS/** | |
-| 1  n | 1 = kurativ | 2 = präventiv | 3 = Empfängnisregelung, | 4 = belegärztl. Behand- | 4221 |  | |
-| **35** | **Unfall /Unfallfolgen ** 1 | n |  | 1=ja | 4202 |  | |
-| **36** | **Kontrolluntersuchung ei-** 1 | n |  | 1=ja |  | **37** | |
-| **Knappschaftskennziffer** | 5  n      4229 | **38** |  | **Abnahmedatum** | 8 | n | |
-| JJJJMMTT | 8432 |  | **39** |  | **Abnahmezeit** | 4 | |
-| n | hhmm | 8433 |  | **40** |  | **Eingeschränkter Leis-** | 1 |
-| n | 1=ja  4204 |  | **41** |  | **Befundübermittlung eilt** |  | **(Dringlichkeitsstatus)** |
-| 1  n | 2=eilig |  | 8501 |  | **42** |  | **Telefon** |
-| 1   n | 1=ja |  | 8611 |  |  |  | |
 |  |  |  |  |  |  | D=divers | |
 | **22** | **Titel** | <=20 | a |  |  | 3104 | |
 | **23** | **Namenszusatz** | <=20 | a |  |  | 3100 | |
@@ -1439,14 +1170,6 @@ Barcode Inhalt Muster 10L/E LÄNGE Ende Bereich) Versicherten_ID oder SKT-Zusatz
 | **40** | **Eingeschränkter Leis-** | 1 | n |  | 1=ja | 4204 | |
 | **41** | **Befundübermittlung eilt  (Dringlichkeitsstatus)** | 1 | n |  | 2=eilig |  | 8501 |
 | **42** | **Telefon** | 1 | n |  | 1=ja |  | 8611 |
-| D=divers | **22** | **Titel** | <=20 | a |  |  | 3104 |
-| **23** | **Namenszusatz** | <=20 | a |  |  | 3100 |  |
-| **24** | **Vorsatzwort ** <=20 | a |  |  | 3120 |  | |
-| **25** | **PLZ ** <=10 | a |  |  | 3112 |  | |
-| **26** | **Ort ** <=40 | a |  |  | 3113 |  | |
-| **27** | **Straße ** <=46 | a |  |  | 3107 |  | **28** |
-| **Hausnummer** | <=9  a |  |  | 3109 |  | **29** | |
-| **Wohnsitzländercode** | <=3  a |  |  | 3114 |  | **30** | |
 
 Seite 32 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
@@ -1454,53 +1177,8 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|
-| **43** | **Fax ** 1 | n |  | 1=ja |  | 8611 | |
-| **44** | **Nr.** | <=20 | a |  |  |  | |
-| 7330 | **45** | **SSW** | 2 | n |  | NN | |
-|  | **46** | **Diagnose/Verdachtsdiag-** | <=70 | a |  |  | 4207 |
-| **47** | **Befund/Medikation** | <=140 | a |  |  | 4208 | |
-| **48** | **Auftrag** | <=280 | a |  |  | 4205 | |
-|  | **49** | **Prüfnummer** | 15 | a |  | Das Feld ist mit der BFB- | |
-|  | **50** | **SER** | 1 | n |  | 1=ja | |
-|  |  |  | Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co- |  |  | **HINWEIS** | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-| **43** | **Fax ** 1 | n |  | 1=ja |  | 8611 | |
-| **44** | **Nr.** | <=20 | a |  |  |  | |
-| 7330 | **45** | **SSW** | 2 | n |  | NN | |
-|  | **46** | **Diagnose/Verdachtsdiag-** | <=70 | a |  |  | |
-| 4207 | **47** | **Befund/Medikation** | <=140 | a |  |  | |
-| 4208 | **48** | **Auftrag** | <=280 | a |  |  | |
-| 4205 | **49** |  | **Prüfnummer** | 15 | a |  | |
-| Das Feld ist mit der BFB- | **50** |  | **SER** | 1 | n |  | |
-| 1=ja |  |  |  | Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co- |  |  | |
-| **HINWEIS** |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 | **43** | **Fax** | 1 | n |  | 1=ja |  | 8611 |
 | **44** | **Nr.** | <=20 | a |  |  |  | 7330 |
 | **45** | **SSW** | 2 | n |  | NN |  | |
@@ -1510,14 +1188,25 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 | **49** | **Prüfnummer** | 15 | a |  | Das Feld ist mit der BFB- |  | |
 | **50** | **SER** | 1 | n |  | 1=ja |  | |
 
+**MAXIMALE GESAMTLÄNGE**
+
+**HINWEIS**
+
+Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben.
+
 Seite 33 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-LÄNGE INHALTE MAXIMALE GESAMTLÄNGE  1002 + TABS  dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben. Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
+**1002 + TABS**
+
+**TYP 3**
+
+LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | KARD. | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
-| 3.8.3 | NR. | FELDBEZEICHNUNG | KARD. | FELD- | TYP | ERLAUBTE  FORMAT/ | BEMERKUNG | KVDT |
+**3.8.3** **Barcode Inhalt Muster 10A/E**
+
+| NR. | FELDBEZEICHNUNG | KARD. | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|---|
 | **01** | **Formularcode** | 1 | 2 | n | 10 | Nr. des Musters |  | |
 | **02** | **Formularcodeergänzung** | 1 | 1 | a | A |  |  | |
@@ -1541,58 +1230,16 @@ LÄNGE INHALTE MAXIMALE GESAMTLÄNGE  1002 + TABS  dierenden Datenvolumens entsp
 | **20** | **SSW** | 0..1 | 2 | n |  | NN |  | |
 | **21** | **Titel** | 0..1 | <=20 | a |  |  | 3104 | |
 | **22** | **Namenszusatz** | 0..1 | <=20 | a |  |  | 3100 | |
-| **LDT-** | **01** | **Formularcode** | 1 | 2 | n | 10 | Nr. des Musters | |
-|  | **02** | **Formularcodeergänzung** | 1 | 1 | a | A |  | |
-|  | **03** | **Versionsnummer** | 1 | 2 | n | 10 |  | |
-|  | **04** | **Anforderungs-Ident** | 1 | <=13 | a |  | optionale Ident- | |
-| 8310 | **05** |  | **Nachname** | 1 | <=45 | a |  | |
-| 3101 | **06** |  | **Vorname** | 1 | <=45 | a |  | |
-| 3102 | **07** |  | **Geburtsdatum** | 1 | 8 | n |  | |
-| JJJJMMTT  3103 | **08** |  | **Versicherungsschutz** | 0 .. 1 | 8 | n |  | |
-| JJJJMMTT  4110 | **09** |  | **Kostenträgerkennung** | 1 | 9 | n |  | |
-| 4111 | **10** |  | **Kostenträgername** | 1 | <=24 | a |  | |
-| Entsprechend der | 4134 | **11** |  | **WOP-Kennzeichen (KV-** | 0 ..1 | 2  n |  | |
-| 3116 | **12** | **Versichertennummer** | 1 | <=12 | a |  |  | |
-| 3105 oder  3119 oder | 4124 | **13** |  | **Versichertenart** | 1 | 1 | n | |
-| 1,3,5 | 3108 | **14** |  | **Besondere Personen-** | 1 | 2 | n | 00, 04, 06, |
-| 4131 | **15** |  | **DMP-Kennzeichnung** | 1 | 2 | n | Siehe |  |
-| 4132 | **16** |  | **(N)BSNR Überweiser** | 1 | 9 | n |  | |
-| 4218 |  | **17** |  | **Überweiser LANR** | 1 | 9 | n |  |
-| 4242 |  | **18** |  | **Ausstellungsdatum** | 1 | 8 | n | |
-| JJJJMMTT  4102 | **19** |  | **Geschlecht** | 1 | 1  a  M, W, X, D  M=männlich  W=weiblich  X=unbestimmt  D=divers  3110 |  | **20** |  |
 
 Seite 34 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-Barcode Inhalt Muster 10A/E LÄNGE INHALTE -FELD Ende Bedruckung im Per- sonalienfeld Bereich) Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 Standard- barcode- Typ 1
+LÄNGE INHALTE -FELD Ende Bedruckung im Per- sonalienfeld Bereich) Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 Standard- barcode- Typ 1
 
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | KARD. | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 | NR. | FELDBEZEICHNUNG | KARD. | FELD- | TYP | ERLAUBTE | FORMAT/   BEMERKUNG | KVDT | LDT- |
 |---|---|---|---|---|---|---|---|---|
-| **23** | **Vorsatzwort ** 0..1 | <=20 | a |  |  | 3120 |  | |
-| **24** | **PLZ ** 0..1 | <=10 | a |  |  | 3112 |  | |
-| **25** | **Ort ** 0..1 | <=40 | a |  |  | 3113 |  | |
-| **26** | **Straße ** 0..1 | <=46 | a |  |  | 3107 |  | **27** |
-| **Hausnummer** | 0..1  <=9 | a |  |  | 3109 |  | **28** | |
-| **Wohnsitzländercode** | 0..1  <=3 | a |  |  | 3114 |  | **29** | |
-| **PostfachPLZ** | 0..1  <=10 | a |  | Falls das Feld 24 | 3121 |  | **30** | |
-| **PostfachOrt** | 0..1  <=40 | a |  | Falls das Feld 25 | 3122 |  | **31** | |
-| **Postfach** | 0..1  <=8 | a |  | Falls die Felder 26 | 3123 |  | **32** | |
-| **PostfachWohnsitzländer-** | 0..1  <=3 | a |  | Falls das Feld 28 | 3124 |  | **33** |  |
-| **Kurativ/Präventiv/bei be-** 1 | 1  n |  | 1=kurativ | 2=präventiv | 4=bei belegärztl. | 4221 |  | |
-| **34** | **Unfall /Unfallfolgen ** 1 | 1 | n |  | 1=ja | 4202 | **35** | |
-| **Knappschaftskennziffer ** 1 | 5  n |  |  | 4229 |  | **36** |  | |
-| **Abnahmedatum ** 1 | 8  n |  | JJJJMMTT |  | 8432 |  | **37** | |
-| **Abnahmezeit** | 1  4 | n |  | hhmm | 8433 |  | **38** | |
-| **Zusätzliche Angaben zu** | 1  <=60 | a |  |  | 4209 |  | **39** |  |
-| **Freitext ** 1 | <=60  a |  | nur bei Auftrag „61“ | 4205 |  |  | **40** |  |
-| **Prüfnummer ** 1 | 15  a |  | Das Feld ist mit der |  |  | **41** |  | **ff** |
-| **Auftrag** | 1..n  2 | n | 01-06, | 08-11, | 13-21, | 23-32,  34-49,  51-56,  58, | 60-64 | |
-| NN | 8434/ |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  | |
 | **23** | **Vorsatzwort** | 0..1 | <=20 | a |  |  | 3120 | |
 | **24** | **PLZ** | 0..1 | <=10 | a |  |  | 3112 | |
 | **25** | **Ort** | 0..1 | <=40 | a |  |  | 3113 | |
@@ -1613,9 +1260,13 @@ Barcode Inhalt Muster 10A/E LÄNGE INHALTE -FELD Ende Bedruckung im Per- sonalie
 | **40** | **Prüfnummer** | 1 | 15 | a |  | Das Feld ist mit der |  | |
 | **41  ff** | **Auftrag** | 1..n | 2 | n | 01-06,  08-11,  13-21,  23-32,  34-49,  51-56,  58,  60-64 | NN |  | 8434/ |
 
+**MAXIMALE GESAMTLÄNGE**
+
 Seite 35 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-MAXIMALE GESAMTLÄNGE  legärztl. Beh. Untersuchungen 702 + TABS   LÄNGE INHALTE leer ist leer ist und 27 leer sind leer ist  Beh. BFB-Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD 8410
+**702 + TABS**       **TYP 3**
+
+legärztl. Beh. Untersuchungen LÄNGE INHALTE leer ist leer ist und 27 leer sind leer ist  Beh. BFB-Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD 8410
 
 ---
 
@@ -1681,12 +1332,11 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| 3.10 3.10.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10 3.10.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10 3.10.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10 3.10.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-| 3.10 3.10.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
+## 3.10
+
+**3.10.1**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 12 | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a | a | Verbleibt bei Krankenkasse |
@@ -1710,126 +1360,22 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **20** | **Zeitraum von** | 6 | n |  | Format: JJMMTT |
 | **21** | **Zeitraum bis** | 6 | n |  | Format: JJMMTT |
 | **22** | **Herrichten der Medikamenten-** | 1 | n | 1 | 1 = angekreuzt |
-| **FORMAT/ BEMERKUNG** | **01** |  | **Formularcode** | 2 | n |
-| 12  Nr. des Musters | **02** |  | **Formularcodeergänzung** | 1 | a |
-| a  Verbleibt bei Krankenkasse | **03** |  | **Versionsnummer** | 2 | n |
-| 12 | **04** |  | **Nachname** | <=45 | a |
-|  | **05** | **Vorname** | <=45 | a |  |
-| **06** | **Geburtsdatum** | 8 | n |  | Format : JJJJMMTT |
-| **07** | **Versicherungsschutz Ende** | 8 | n |  | Format : JJJJMMTT |
-| **08** | **Kostenträgerkennung** | 9 | n |  |  |
-| **09** | **Versicherten-ID** | <=12 | a |  |  |
-| **10** | **Versichertenart** | 1 | n | 1,3,5 |  |
-| **11** | **Besondere Personengruppe ** 2 | n | 00, 04, 06, |  | **12** |
-| **DMP-Kennzeichnung** | 2  n | Siehe Stan- |  |  |  |
-| **13** | **(Neben-)Betriebsstättennum-** 9 | n |  |  | **14** |
-| **LANR** | 9  n |  |  |  | **15  Ausstellungsdatum ** 8 |
-| n | Format : JJJJMMTT | **16** |  | **Diagnose** | <=46 |
-| a | Unter Berücksichtigung von Ka- | werden die Diagnosen |  | **17** |  |
-| **Erst-/Folgeverordnung ** 1 | a  e, f | e = Erstverordnung | f = Folgeverordnung |  | **18** |
-| **Unfall** | 1  n | 1 | 1 = angekreuzt |  | **19** |
-|  |  |  |  |  |  |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12  Nr. des Musters |
-| **02** | **Formularcodeergänzung** | 1 | a | a | Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer** | 2 | n | 12 |  |
-| **04** | **Nachname** | <=45 | a |  |  |
-| **05** | **Vorname** | <=45 | a |  |  |
-| **06** | **Geburtsdatum** | 8 | n |  | Format : JJJJMMTT |
-| **07** | **Versicherungsschutz Ende** | 8 | n |  | Format : JJJJMMTT |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  | **09** |
-| **Versicherten-ID** | <=12  a |  |  |  | **10  Versichertenart** |
-| 1  n | 1,3,5 |  | **11** |  | **Besondere Personengruppe** |
-| 2  n | 00, 04, 06, |  | **12** |  | **DMP-Kennzeichnung** |
-| 2  n | Siehe Stan- |  |  | **13** |  |
-| **(Neben-)Betriebsstättennum-** 9 | n |  |  | **14** |  |
-| **LANR ** 9 | n |  |  | **15** |  |
-| **Ausstellungsdatum ** 8 | n | Format : JJJJMMTT |  | **16** |  |
-| **FORMAT/ BEMERKUNG** | **01** |  | **Formularcode** | 2 | n  12 |
-| Nr. des Musters | **02** | **Formularcodeergänzung** | 1 | a | a  Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer** | 2 | n | 12 |  |
-| **04** | **Nachname** | <=45 | a |  |  |
-| **05** | **Vorname** | <=45 | a |  |  |
-| **06** | **Geburtsdatum** | 8 | n |  | Format : JJJJMMTT |
-| **07** | **Versicherungsschutz Ende** | 8 | n |  | Format : JJJJMMTT |
-| **08** | **Kostenträgerkennung** | 9 | n |  |  |
-| **09** | **Versicherten-ID** | <=12 | a |  |  |
-| **10** | **Versichertenart ** 1 | n | 1,3,5 |  | **11** |
-| **Besondere Personengruppe** | 2  n | 00, 04, 06, |  |  | **12** |
-| **DMP-Kennzeichnung** | 2  n | Siehe Stan- |  |  |  |
-| **13** | **(Neben-)Betriebsstättennum-** 9 | n |  |  |  |
-| **14** | **LANR ** 9 | n |  |  |  |
-| **15** | **Ausstellungsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **FORMAT/ BEMERKUNG** | **01** |  | **Formularcode** | 2 | n  12 |
-| Nr. des Musters | **02** | **Formularcodeergänzung** | 1 | a | a  Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer** | 2 | n | 12 |  |
-| **04** | **Nachname** | <=45 | a |  |  |
-| **05** | **Vorname** | <=45 | a |  |  |
-| **06** | **Geburtsdatum** | 8 | n |  | Format : JJJJMMTT |
-| **07** | **Versicherungsschutz Ende** | 8 | n |  | Format : JJJJMMTT |
-| **08** | **Kostenträgerkennung** | 9 | n |  |  |
-| **09** | **Versicherten-ID ** <=12 | a |  |  | **10** |
-| **Versichertenart** | 1  n | 1,3,5 |  |  | **11** |
-| **Besondere Personengruppe** | 2  n | 00, 04, 06, |  |  | **12** |
-| **DMP-Kennzeichnung** | 2  n | Siehe Stan- |  |  |  |
-| **13** | **(Neben-)Betriebsstättennum-** 9 | n |  |  |  |
-| **14** | **LANR ** 9 | n |  |  | **15** |
-| **Ausstellungsdatum** | 8  n |  | Format : JJJJMMTT |  | **16** |
-| **Diagnose ** <=46 | a | Unter Berücksichtigung von | Ka- | werden die Diagnosen |  |
-| **FORMAT/ BEMERKUNG** | **01** |  | **Formularcode** | 2 | n |
-| 12  Nr. des Musters | **02  Formularcodeergänzung** | 1 | a | a | Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer ** 2 | n | 12 |  |  |
-| **04** | **Nachname ** <=45 | a |  |  |  |
-| **05** | **Vorname ** <=45 | a |  |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT |  |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  | **09** |
-| **Versicherten-ID** | <=12  a |  |  |  | **10** |
-| **Versichertenart ** 1 | n  1,3,5 |  |  | **11** |  |
-| **Besondere Personengruppe ** 2 | n  00, 04, 06, |  |  | **12** |  |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Stan- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** | 9  n |  |  |  | **14** |
-| **LANR** | 9  n |  |  |  | **15** |
-| **Ausstellungsdatum** | 8  n |  | Format : JJJJMMTT |  | **16** |
-| **Diagnose ** <=46 | a | Unter Berücksichtigung von | Ka- | werden die Diagnosen | **17** |
 
 Seite 38 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
+## MUSTER 12
+
+### Barcode Inhalt Muster 12a/E
+
 / Version: 4.80 / 13. Mai 2026
 
-MUSTER 12 Barcode Inhalt Muster 12a/E LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
+LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
 
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | 23 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **Häufigkeit täglich (Medikamen-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **24** |
-| **Häufigkeit wöchentlich (Medi-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **31** | **Häufigkeit monatlich (Medika-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **32** | **Zeitraum von (Medikamenten-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 28 | **33** | **Zeitraum bis (Medikamenten-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 28 | **34** |  | **Injektionen** | 1  n | 1 |
-| 1= angekreuzt | **35** | **Injektionen herrichten** | 1 | n | 1 |
-| 1= angekreuzt  Nur zu befüllen wenn Feld 34 | **36** |  | **Injektionen intramuskulär /** | 1 | a |
-| i, s, a  i = intramuskulär | s = subkutan  a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 |  | **37** |  |
-| **Häufigkeit täglich (Injektionen) ** 2 | n | Nur zu befüllen wenn Feld 34 |  | **38** | **Häufigkeit wöchentlich (Injekti-** 2 |
-| n | Nur zu befüllen wenn Feld 34 | **39** |  | **Häufigkeit monatlich (Injektio-** | 2  n |
-| Nur zu befüllen wenn Feld 34 | **40** |  | **Zeitraum von (Injektionen)** | 4 | n |
-| Format: MMTT |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 | **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
 | **24** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
 | **25** | **Häufigkeit monatlich (Medika-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
@@ -1848,69 +1394,6 @@ MUSTER 12 Barcode Inhalt Muster 12a/E LÄNGE box INHALTE 07, 08, 09 dardbar- cod
 | **38** | **Häufigkeit wöchentlich (Injekti-** | 2 | n |  | Nur zu befüllen wenn Feld 34 |
 | **39** | **Häufigkeit monatlich (Injektio-** | 2 | n |  | Nur zu befüllen wenn Feld 34 |
 | **40** | **Zeitraum von (Injektionen)** | 4 | n |  | Format: MMTT |
-|  |  |  |  |  |  |
-| **23** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **24** |
-| **Häufigkeit wöchentlich (Medi-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **31** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 28 |  | **32  Zeitraum von (Medikamenten-** |
-| 4  n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **33** |  |
-| **Zeitraum bis (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **34** |
-| **Injektionen** | 1  n | 1 | 1= angekreuzt |  | **35** |
-| **Injektionen herrichten** | 1  n | 1 | 1= angekreuzt | Nur zu befüllen wenn Feld 34 |  |
-| **36** | **Injektionen intramuskulär / ** 1 | a | i, s, a | i = intramuskulär | s = subkutan |
-| a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2 | n |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **31** | **Häufigkeit monatlich (Medika-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **32** | **Zeitraum von (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **33** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **34** | **Injektionen** | 1 | n | 1 | 1= angekreuzt |
-| **35** | **Injektionen herrichten** | 1 | n | 1 | 1= angekreuzt |
-| Nur zu befüllen wenn Feld 34 | **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a |
-| i = intramuskulär  s = subkutan | a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34 |  | **37** |  | **Häufigkeit täglich (Injektionen)** |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **31** | **Häufigkeit monatlich (Medika-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **32** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |  |
-| **33** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **34** | **Injektionen** | 1 | n | 1 | 1= angekreuzt |
-| **35** | **Injektionen herrichten** | 1 | n | 1 | 1= angekreuzt |
-| Nur zu befüllen wenn Feld 34 | **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a  i = intramuskulär |
-| s = subkutan  a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2  n |
-| Nur zu befüllen wenn Feld 34 | **38** |  | **Häufigkeit wöchentlich (Injekti-** | 2 | n |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2  n |  | Nur zu befüllen wenn Feld 22 |  | **25** |
-| **Häufigkeit monatlich (Medika-** 2 | n | Nur zu befüllen wenn Feld 22 |  | **26** |  |
-| **Zeitraum von (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 22 |  | **27** |
-| **Zeitraum bis (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **28** | **Medikamentengabe ** 1 | n | 1 | 1 = angekreuzt |  |
-| **29** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 28 |  |
-| **30** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **31** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 28 |  | **32** |
-| **Zeitraum von (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **33** |
-| **Zeitraum bis (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |  |
-| **34** | **Injektionen ** 1 | n | 1 | 1= angekreuzt |  |
-| **35** | **Injektionen herrichten ** 1 | n | 1 | 1= angekreuzt | Nur zu befüllen wenn Feld 34 |
-| **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a | i = intramuskulär |
-| s = subkutan  a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2  n |
-| Nur zu befüllen wenn Feld 34 | **38** |  | **Häufigkeit wöchentlich (Injekti-** | 2 | n |
 
 Seite 39 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -1921,53 +1404,8 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | Nur zu befüllen wenn Feld 34 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **41** | **Zeitraum bis (Injektionen) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 34 |
-| **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1 | 1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 | 1 = angekreuzt |
-| **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 | a |
-| r, l, b  r = rechts | l = links  b = beidseits |  | **50** |  | **Kompressionsstrümpfe anzie-** |
-| 1  n | 1  1 = angekreuzt |  | **51** |  | **Kompressionsstrümpfe auszie-** |
-| 1  n | 1  1 = angekreuzt |  | **52** | **Häufigkeit/Dauer von Pflege-** | 1 |
-| n  1 | 1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 |
-| n | Nur zu befüllen wenn Feld 50 | **54** |  | **Häufigkeit wöchentlich (Kom-** | 2 |
-| n | Nur zu befüllen wenn Feld 50 | **55** |  | **Häufigkeit monatlich (Kompres-** | 2 |
-| n | Nur zu befüllen wenn Feld 50 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 34 | **42** |  | **Blutzuckermessung Erst-/Neu-** | 1 | n |
-| 1  1 = angekreuzt | **43** |  | **Blutzuckermessung bei intensi-** | 1 | n |
-| 1  1 = angekreuzt | **44** |  | **Häufigkeit täglich (Blutzucker-** | 2 | n |
-| Nur zu befüllen wenn Feld 42 | **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 | a |
-| r, l, b  r = rechts | l = links  b = beidseits |  | **50** |  | **Kompressionsstrümpfe anzie-** 1 |
-| n  1 | 1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1  n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n | Nur zu befüllen wenn Feld 50 **55** |
-| **Häufigkeit monatlich (Kompres-** | 2  n |  | Nur zu befüllen wenn Feld 50 |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 |  |  |  |  |  | Nur zu befüllen wenn Feld 34 |
 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 34 |
 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1 | 1 = angekreuzt |
@@ -1984,53 +1422,6 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 | **53** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1  1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 | 1 = angekreuzt |
-| **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 | a  r, l, b |
-| r = rechts  l = links | b = beidseits | **50** |  | **Kompressionsstrümpfe anzie-** | 1  n |
-| 1  1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1 | n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** |  | **Häufigkeit wöchentlich (Kom-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **55** |  | **Häufigkeit monatlich (Kompres-** | 2 | n |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1  1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 | 1 = angekreuzt |
-| **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **49** | **Kompressionsbehandlung** | 1 | a | r, l, b  r = rechts |
-| l = links  b = beidseits | **50** |  | **Kompressionsstrümpfe anzie-** | 1 | n |
-| 1  1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1 | n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** |  | **Häufigkeit wöchentlich (Kom-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n | Nur zu befüllen wenn Feld 50 |
-|  |  |  |  |  |  |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 34 | **42  Blutzuckermessung Erst-/Neu-** | 1 | n | 1 | 1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** 1 | n | 1 | 1 = angekreuzt |  |
-| **44** | **Häufigkeit täglich (Blutzucker-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **46** | **Häufigkeit monatlich (Blutzu-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **47** | **Zeitraum von (Blutzuckermes-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 42 |
-| **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 42 |
-| **49** | **Kompressionsbehandlung** | 1 | a | r, l, b | r = rechts  l = links |
-| b = beidseits | **50** | **Kompressionsstrümpfe anzie-** | 1 | n | 1 |
-| 1 = angekreuzt | **51** | **Kompressionsstrümpfe auszie-** | 1 | n | 1 |
-| 1 = angekreuzt | **52** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **53** | **Häufigkeit täglich (Kompressi-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 50 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 50 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n | Nur zu befüllen wenn Feld 50 |
-|  |  |  |  |  |  |
 
 Seite 40 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -2041,69 +1432,8 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | 56 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **Zeitraum von (Kompressions-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |  |
-| **57** | **Zeitraum bis (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
-| **59** | **Kompressionsverbände abneh-** | 1 | n | 1 | 1 = angekreuzt |
-| **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **64** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 58 | **65** | **Zeitraum bis (Kompressionsver-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 58 | **66** |  | **Stützende und stabilisierende** | 1 | n |
-| 1  1 = angekreuzt | **67** |  | **Häufigkeit/Dauer von Pflege-** | 1  n | 1 |
-| 1 = angekreuzt | **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 66 | **69** | **Häufigkeit wöchentlich (Stütz-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 66 | **70** | **Häufigkeit monatlich (Stützver-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 66 |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **57** | **Zeitraum bis (Kompressions-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 50 | **58** |  | **Kompressionsverbände anlegen** | 1 | n |
-| 1  1 = angekreuzt | **59** |  | **Kompressionsverbände abneh-** | 1 | n  1 |
-| 1 = angekreuzt | **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1  1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **64** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 58 | **65** | **Zeitraum bis (Kompressionsver-** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 58 | **66** | **Stützende und stabilisierende** | 1 | n | 1  1 = angekreuzt |
-| **67** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **69** | **Häufigkeit wöchentlich (Stütz-** 2 | n |  | Nur zu befüllen wenn Feld 66 | **70  Häufigkeit monatlich (Stützver-** |
-| 2  n | Nur zu befüllen wenn Feld 66 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
-| **59** | **Kompressionsverbände abneh-** | 1 | n | 1 | 1 = angekreuzt |
-| **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** 2 | n |  | Nur zu befüllen wenn Feld 58 | **64** |
-| **Zeitraum von (Kompressions-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 | **65** |
-| **Zeitraum bis (Kompressionsver-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 58 |  | **66** |
-| **Stützende und stabilisierende** | 1  n | 1 | 1 = angekreuzt |  | **67** |
-| **Häufigkeit/Dauer von Pflege-** | 1  n | 1 | 1 = angekreuzt |  | **68** |
-| **Häufigkeit täglich (Stützver-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  | **69** |
-| **Häufigkeit wöchentlich (Stütz-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  | **70** |
-| **Häufigkeit monatlich (Stützver-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  |  |
 | **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
 | **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
 | **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
@@ -2119,38 +1449,6 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 | **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
 | **69** | **Häufigkeit wöchentlich (Stütz-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
 | **70** | **Häufigkeit monatlich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
-| **59** | **Kompressionsverbände abneh-** | 1 | n | 1 | 1 = angekreuzt |
-| **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **64** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |
-| **65** | **Zeitraum bis (Kompressionsver-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |
-| **66** | **Stützende und stabilisierende** | 1 | n | 1 | 1 = angekreuzt |
-| **67** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **69** | **Häufigkeit wöchentlich (Stütz-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **70** | **Häufigkeit monatlich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **57  Zeitraum bis (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen ** 1 | n | 1 | 1 = angekreuzt |  |
-| **59** | **Kompressionsverbände abneh-** 1 | n | 1 | 1 = angekreuzt |  |
-| **60** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **61** | **Häufigkeit täglich (Kompressi-** 2 | n |  | Nur zu befüllen wenn Feld 58 |  |
-| **62** | **Häufigkeit wöchentlich (Kom-** 2 | n |  | Nur zu befüllen wenn Feld 58 |  |
-| **63** | **Häufigkeit monatlich (Kompres-** 2 | n |  | Nur zu befüllen wenn Feld 58 | **64** |
-| **Zeitraum von (Kompressions-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 | **65** |
-| **Zeitraum bis (Kompressionsver-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |  |
-| **66** | **Stützende und stabilisierende ** 1 | n | 1 | 1 = angekreuzt |  |
-| **67** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **68** | **Häufigkeit täglich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-| **69** | **Häufigkeit wöchentlich (Stütz-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-| **70** | **Häufigkeit monatlich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-|  |  |  |  |  |  |
 
 Seite 41 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -2161,84 +1459,8 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | 71 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **Zeitraum von (Stützverbände)** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |  |
-| **72** | **Zeitraum bis (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
-| **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **79** | **Zeitraum bis (Wundversorgung** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 73 | **80** |  | **Wundversorgung chronisch** | 1 | n |
-| 1  1 = angekreuzt | **81** |  | **Häufigkeit täglich (Wundversor-** | 2 | n |
-| Nur zu befüllen wenn Feld 80 | **82** |  | **Häufigkeit wöchentlich (Wund-** | 2  n |  |
-| Nur zu befüllen wenn Feld 80 | **83** | **Häufigkeit monatlich (Wund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 80 | **84** | **Zeitraum von (Wundversorgung** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 80 | **85** |  | **Zeitraum bis (Wundversorgung** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 80 | **86** |  | **Sonstige Maßnahmen der Be-** | 5  a  xxxxx |
-| Die Zeichenfolge "xxxxx" steht |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 66 | **73** |  | **Wundversorgung akut** | 1 | n |
-| 1  1 = angekreuzt | **74** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n  1 |
-| 1 = angekreuzt | **75** | **Häufigkeit täglich (Wundversor-** | 2 | n | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **79** | **Zeitraum bis (Wundversorgung** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 73 | **80** |  | **Wundversorgung chronisch** | 1 | n  1 |
-| 1 = angekreuzt | **81** | **Häufigkeit täglich (Wundversor-** | 2 | n | Nur zu befüllen wenn Feld 80 |
-| **82** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **83** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **84** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 **85** |
-| **Zeitraum bis (Wundversorgung ** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 80 |  | **86** |
-| **Sonstige Maßnahmen der Be-** | 5  a | xxxxx | Die Zeichenfolge "xxxxx" steht |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **71** | **Zeitraum von (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
-| **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **79** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 **80** |
-| **Wundversorgung chronisch** | 1  n | 1 | 1 = angekreuzt |  | **81** |
-| **Häufigkeit täglich (Wundversor-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **82** |
-| **Häufigkeit wöchentlich (Wund-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **83** |
-| **Häufigkeit monatlich (Wund-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **84** |
-| **Zeitraum von (Wundversorgung** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |  |
-| **85** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
-| **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **79** | **Zeitraum bis (Wundversorgung** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **80** | **Wundversorgung chronisch** | 1 | n | 1  1 = angekreuzt |
-| **81** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **82** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **83** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **84** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 80 | **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  |
 | **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
 | **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
 | **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
@@ -2255,22 +1477,6 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 | **84** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
 | **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
 | **86** | **Sonstige Maßnahmen der Be-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **72  Zeitraum bis (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut ** 1 | n | 1 | 1 = angekreuzt |  |
-| **74** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **75** | **Häufigkeit täglich (Wundversor-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **76** | **Häufigkeit wöchentlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **77** | **Häufigkeit monatlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **78** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **79** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **80** | **Wundversorgung chronisch ** 1 | n | 1 | 1 = angekreuzt |  |
-| **81** | **Häufigkeit täglich (Wundversor-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **82** | **Häufigkeit wöchentlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **83** | **Häufigkeit monatlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **84** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |
-| **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
-| **86** | **Sonstige Maßnahmen der Be-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
 
 Seite 42 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -2281,100 +1487,8 @@ fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) aku
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | 87 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **Anleitung zur Behandlungs-** | 5  a | xxxxx | Die Zeichenfolge "xxxxx" steht |  | **88** |
-| **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k | u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 89 | **96** |  | **Hauswirtschaftliche Versorgung** | 1 |
-| n  1 | 1 =angekreuzt | **97** |  | **Häufigkeit/Dauer von Pflege-** | 1 |
-| n  1 | 1 = angekreuzt | **98** |  | **Häufigkeit täglich (Hauswirt-** 2 | n |
-| Nur zu befüllen wenn Feld 96 | **99** |  | **Häufigkeit wöchentlich (Haus-** | 2 | n |
-| Nur zu befüllen wenn Feld 96 | **100** |  | **Häufigkeit monatlich (Hauswirt-** | 2 | n |
-| Nur zu befüllen wenn Feld 96 | **101** |  | **Zeitraum von (Hauswirtschaftli-** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 96 | **102** |  | **Zeitraum bis (Hauswirtschaftli-** | 4  n |
-| Format: MMTT   Nur zu befüllen wenn Feld 96 |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** |  | **Krankenhausvermeidungs-** | 1 | a |
-| u, k  u = Unterstützungspflege | k = Krankenhausvermeidungs- | **89** |  | **Grundpflege** | 1 |
-| n  1 | 1 = angekreuzt | **90** |  | **Häufigkeit/Dauer von Pflege-** | 1  n |
-| 1  1 = angekreuzt | **91** |  | **Häufigkeit täglich (Grundpflege)** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 89 | **96** |  | **Hauswirtschaftliche Versorgung** | 1  n |
-| 1  1 =angekreuzt | **97** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n  1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n | Nur zu befüllen wenn Feld 96 |
-| **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n |  | Nur zu befüllen wenn Feld 96 **101** |
-| **Zeitraum von (Hauswirtschaftli-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 96 |  | **102** |
-| **Zeitraum bis (Hauswirtschaftli-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 96 |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **87** | **Anleitung zur Behandlungs-** 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht | **88** |
-| **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k | u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n | Nur zu befüllen wenn Feld 89 |
-| **94** | **Zeitraum von (Grundpflege)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 89 |
-| **95** | **Zeitraum bis (Grundpflege)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 89 |
-| **96** | **Hauswirtschaftliche Versorgung ** 1 | n | 1 | 1 =angekreuzt |  |
-| **97** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **98** | **Häufigkeit täglich (Hauswirt-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **99** | **Häufigkeit wöchentlich (Haus-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **100** | **Häufigkeit monatlich (Hauswirt-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **101** | **Zeitraum von (Hauswirtschaftli-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 96 |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k  u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 | n |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **96** |  | **Hauswirtschaftliche Versorgung** | 1 | n  1 |
-| 1 =angekreuzt | **97** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **101** | **Zeitraum von (Hauswirtschaftli-** | 4 | n |  |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k  u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 89 | **95** | **Zeitraum bis (Grundpflege)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 89 | **96** | **Hauswirtschaftliche Versorgung** | 1 | n | 1 |
-| 1 =angekreuzt | **97** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n | Nur zu befüllen wenn Feld 96 |
-| **101** | **Zeitraum von (Hauswirtschaftli-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 96 |
-| **102** | **Zeitraum bis (Hauswirtschaftli-** | 4 | n |  | Format: MMTT |
 | **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
 | **88** | **Unterstützungspflege/  Krankenhausvermeidungs-** | 1 | a | u, k | u = Unterstützungspflege  k = Krankenhausvermeidungs- |
 | **89** | **Grundpflege** | 1 | n | 1 | 1 = angekreuzt |
@@ -2415,12 +1529,9 @@ Seite 44 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| 3.10.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-| 3.10.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
+**3.10.2**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 12 | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a | b | Verbleibt bei Krankenkasse |
@@ -2444,126 +1555,20 @@ Seite 44 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **20** | **Zeitraum von** | 6 | n |  | Format: JJMMTT |
 | **21** | **Zeitraum bis** | 6 | n |  | Format: JJMMTT |
 | **22** | **Herrichten der Medikamenten-** | 1 | n | 1 | 1 = angekreuzt |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12 |
-| Nr. des Musters | **02** | **Formularcodeergänzung** | 1 | a | b |
-| Verbleibt bei Krankenkasse | **03** | **Versionsnummer** | 2 | n | 12 |
-|  | **04** | **Nachname** | <=45 | a |  |
-| **05** | **Vorname** | <=45 | a |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT |  |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  |  |
-| **09** | **Versicherten-ID ** <=12 | a |  |  |  |
-| **10** | **Versichertenart ** 1 | n | 1,3,5 |  | **11** |
-| **Besondere Personengruppe** | 2  n | 00, 04, 06, |  |  | **12** |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Stan- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** | 9  n |  |  |  | **14** |
-| **LANR ** 9 | n |  |  | **15** | **Ausstellungsdatum ** 8  n |
-| Format : JJJJMMTT | **16** |  | **Diagnose** | <=46 | a |
-| Unter Berücksichtigung von | Ka-  werden die Diagnosen |  | **17** |  | **Erst-/Folgeverordnung** |
-| 1  a | e, f  e = Erstverordnung | f = Folgeverordnung |  | **18** |  |
-| **Unfall ** 1 | n  1 | 1 = angekreuzt |  | **19** |  |
-|  |  |  |  |  | **FORMAT/ BEMERKUNG** |
-| **01** | **Formularcode** | 2 | n | 12 | Nr. des Musters |
-| **02** | **Formularcodeergänzung ** 1 | a | b | Verbleibt bei Krankenkasse |  |
-| **03** | **Versionsnummer ** 2 | n | 12 |  |  |
-| **04** | **Nachname ** <=45 | a |  |  |  |
-| **05** | **Vorname ** <=45 | a |  |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT | **08** |
-| **Kostenträgerkennung** | 9  n |  |  |  | **09** |
-| **Versicherten-ID ** <=12 | a |  |  | **10** | **Versichertenart ** 1 |
-| n  1,3,5 |  | **11** |  | **Besondere Personengruppe** | 2 |
-| n  00, 04, 06, |  | **12** |  | **DMP-Kennzeichnung** | 2 |
-| n  Siehe Stan- |  |  | **13** |  | **(Neben-)Betriebsstättennum-** |
-| 9  n |  |  | **14** |  | **LANR** |
-| 9  n |  |  | **15** |  | **Ausstellungsdatum** |
-| 8  n | Format : JJJJMMTT |  | **16** |  | **Diagnose** |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12  Nr. des Musters |
-| **02** | **Formularcodeergänzung** | 1 | a | b | Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer ** 2 | n | 12 |  |  |
-| **04** | **Nachname ** <=45 | a |  |  |  |
-| **05** | **Vorname ** <=45 | a |  |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT |  |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  |  |
-| **09** | **Versicherten-ID ** <=12 | a |  |  | **10** |
-| **Versichertenart** | 1  n | 1,3,5 |  |  | **11** |
-| **Besondere Personengruppe ** 2 | n  00, 04, 06, |  |  | **12** |  |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Stan- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** | 9  n |  |  |  | **14** |
-| **LANR** | 9  n |  |  |  | **15** |
-| **Ausstellungsdatum** | 8  n |  | Format : JJJJMMTT |  | **16** |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12  Nr. des Musters |
-| **02** | **Formularcodeergänzung** | 1 | a | b | Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer ** 2 | n | 12 |  |  |
-| **04** | **Nachname ** <=45 | a |  |  |  |
-| **05** | **Vorname ** <=45 | a |  |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT |  |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  | **09** |
-| **Versicherten-ID** | <=12  a |  |  |  | **10** |
-| **Versichertenart ** 1 | n  1,3,5 |  |  | **11** |  |
-| **Besondere Personengruppe ** 2 | n  00, 04, 06, |  |  | **12** |  |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Stan- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** | 9  n |  |  |  | **14** |
-| **LANR** | 9  n |  |  |  | **15** |
-| **Ausstellungsdatum ** 8 | n | Format : JJJJMMTT |  | **16** | **Diagnose** |
-| <=46  a | Unter Berücksichtigung von | Ka- | werden die Diagnosen |  | **17** |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12 |
-| Nr. des Musters | **02  Formularcodeergänzung ** 1 | a | b | Verbleibt bei Krankenkasse | **03** |
-| **Versionsnummer** | 2  n | 12 |  |  | **04** |
-| **Nachname** | <=45  a |  |  |  | **05** |
-| **Vorname** | <=45  a |  |  |  | **06** |
-| **Geburtsdatum** | 8  n |  | Format : JJJJMMTT |  | **07** |
-| **Versicherungsschutz Ende** | 8  n |  | Format : JJJJMMTT |  | **08** |
-| **Kostenträgerkennung** | 9  n |  |  |  | **09** |
-| **Versicherten-ID ** <=12 | a |  |  | **10** | **Versichertenart** |
-| 1  n | 1,3,5 |  | **11** |  | **Besondere Personengruppe** |
-| 2  n | 00, 04, 06, |  | **12** |  | **DMP-Kennzeichnung** |
-| 2  n | Siehe Stan- |  |  | **13** |  |
-| **(Neben-)Betriebsstättennum-** 9 | n |  |  | **14** |  |
-| **LANR ** 9 | n |  |  | **15** |  |
-| **Ausstellungsdatum ** 8 | n | Format : JJJJMMTT |  | **16** | **Diagnose** |
-| <=46  a | Unter Berücksichtigung von | Ka- | werden die Diagnosen |  | **17** |
 
 Seite 45 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
+### Barcode Inhalt Muster 12b/E
+
 / Version: 4.80 / 13. Mai 2026
 
-Barcode Inhalt Muster 12b/E LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
+LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
 
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **23** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 22 |  |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 |  |
-| **25** | **Häufigkeit monatlich (Medika-** 2 | n |  | Nur zu befüllen wenn Feld 22 |  |
-| **26** | **Zeitraum von (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **27** | **Zeitraum bis (Medikamenten-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 22 | **28** | **Medikamentengabe** | 1 | n | 1 |
-| 1 = angekreuzt | **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 28 | **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 28 | **31** | **Häufigkeit monatlich (Medika-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 28 | **32** | **Zeitraum von (Medikamenten-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 28 | **33** |  | **Zeitraum bis (Medikamenten-** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 28 | **34** |  | **Injektionen ** 1 | n |
-| 1  1= angekreuzt | **35** |  | **Injektionen herrichten** | 1 | n |
-| 1  1= angekreuzt | Nur zu befüllen wenn Feld 34 | **36** |  | **Injektionen intramuskulär /** | 1 |
-| a  i, s, a | i = intramuskulär  s = subkutan | a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 |  | **37** |
-| **Häufigkeit täglich (Injektionen)** | 2  n |  | Nur zu befüllen wenn Feld 34 |  | **38  Häufigkeit wöchentlich (Injekti-** |
-| 2  n | Nur zu befüllen wenn Feld 34 |  | **39** |  | **Häufigkeit monatlich (Injektio-** 2 |
-| n | Nur zu befüllen wenn Feld 34 | **40** |  | **Zeitraum von (Injektionen)** | 4 |
-| n | Format: MMTT |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 | **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
 | **24** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
 | **25** | **Häufigkeit monatlich (Medika-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
@@ -2582,69 +1587,6 @@ Barcode Inhalt Muster 12b/E LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zu
 | **38** | **Häufigkeit wöchentlich (Injekti-** | 2 | n |  | Nur zu befüllen wenn Feld 34 |
 | **39** | **Häufigkeit monatlich (Injektio-** | 2 | n |  | Nur zu befüllen wenn Feld 34 |
 | **40** | **Zeitraum von (Injektionen)** | 4 | n |  | Format: MMTT |
-|  |  |  |  |  |  |
-| **23** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **24** |
-| **Häufigkeit wöchentlich (Medi-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **31** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 28 |  | **32  Zeitraum von (Medikamenten-** |
-| 4  n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **33** |  |
-| **Zeitraum bis (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **34** |
-| **Injektionen** | 1  n | 1 | 1= angekreuzt |  | **35** |
-| **Injektionen herrichten** | 1  n | 1 | 1= angekreuzt | Nur zu befüllen wenn Feld 34 |  |
-| **36** | **Injektionen intramuskulär / ** 1 | a | i, s, a | i = intramuskulär | s = subkutan |
-| a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2 | n |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **31** | **Häufigkeit monatlich (Medika-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **32** | **Zeitraum von (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **33** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **34** | **Injektionen** | 1 | n | 1 | 1= angekreuzt |
-| **35** | **Injektionen herrichten** | 1 | n | 1 | 1= angekreuzt |
-| Nur zu befüllen wenn Feld 34 | **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a |
-| i = intramuskulär  s = subkutan | a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34 |  | **37** |  | **Häufigkeit täglich (Injektionen)** |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **31** | **Häufigkeit monatlich (Medika-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **32** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |  |
-| **33** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **34** | **Injektionen** | 1 | n | 1 | 1= angekreuzt |
-| **35** | **Injektionen herrichten** | 1 | n | 1 | 1= angekreuzt |
-| Nur zu befüllen wenn Feld 34 | **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a  i = intramuskulär |
-| s = subkutan  a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2  n |
-| Nur zu befüllen wenn Feld 34 | **38** |  | **Häufigkeit wöchentlich (Injekti-** | 2 | n |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2  n |  | Nur zu befüllen wenn Feld 22 |  | **25** |
-| **Häufigkeit monatlich (Medika-** 2 | n | Nur zu befüllen wenn Feld 22 |  | **26** |  |
-| **Zeitraum von (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 22 |  | **27** |
-| **Zeitraum bis (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **28** | **Medikamentengabe ** 1 | n | 1 | 1 = angekreuzt |  |
-| **29** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 28 |  |
-| **30** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **31** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 28 |  | **32** |
-| **Zeitraum von (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **33** |
-| **Zeitraum bis (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |  |
-| **34** | **Injektionen ** 1 | n | 1 | 1= angekreuzt |  |
-| **35** | **Injektionen herrichten ** 1 | n | 1 | 1= angekreuzt | Nur zu befüllen wenn Feld 34 |
-| **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a | i = intramuskulär |
-| s = subkutan  a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2  n |
-| Nur zu befüllen wenn Feld 34 | **38** |  | **Häufigkeit wöchentlich (Injekti-** | 2 | n |
 
 Seite 46 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -2655,53 +1597,8 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG  Nur zu befüllen wenn Feld 34 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **41** | **Zeitraum bis (Injektionen)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1 |
-| 1 = angekreuzt | **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 |
-| 1 = angekreuzt | **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 42 | **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 42 | **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 42 | **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **48** |  | **Zeitraum bis (Blutzuckermes-** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 |
-| a  r, l, b | r = rechts  l = links | b = beidseits |  | **50** |  |
-| **Kompressionsstrümpfe anzie-** 1 | n  1 | 1 = angekreuzt |  | **51** |  |
-| **Kompressionsstrümpfe auszie-** 1 | n  1 | 1 = angekreuzt |  | **52** | **Häufigkeit/Dauer von Pflege-** |
-| 1  n | 1  1 = angekreuzt |  | **53** |  | **Häufigkeit täglich (Kompressi-** |
-| 2  n | Nur zu befüllen wenn Feld 50 |  | **54** |  | **Häufigkeit wöchentlich (Kom-** |
-| 2  n | Nur zu befüllen wenn Feld 50 |  | **55** |  | **Häufigkeit monatlich (Kompres-** |
-| 2  n | Nur zu befüllen wenn Feld 50 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 34 | **42** |  | **Blutzuckermessung Erst-/Neu-** | 1 | n |
-| 1  1 = angekreuzt | **43** |  | **Blutzuckermessung bei intensi-** | 1 | n |
-| 1  1 = angekreuzt | **44** |  | **Häufigkeit täglich (Blutzucker-** | 2 | n |
-| Nur zu befüllen wenn Feld 42 | **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 | a |
-| r, l, b  r = rechts | l = links  b = beidseits |  | **50** |  | **Kompressionsstrümpfe anzie-** 1 |
-| n  1 | 1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1  n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n | Nur zu befüllen wenn Feld 50 **55** |
-| **Häufigkeit monatlich (Kompres-** | 2  n |  | Nur zu befüllen wenn Feld 50 |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 |  |  |  |  |  | Nur zu befüllen wenn Feld 34 |
 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 34 |
 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1 | 1 = angekreuzt |
@@ -2718,53 +1615,6 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 | **53** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1  1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 | 1 = angekreuzt |
-| **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 | a  r, l, b |
-| r = rechts  l = links | b = beidseits | **50** |  | **Kompressionsstrümpfe anzie-** | 1  n |
-| 1  1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1 | n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** |  | **Häufigkeit wöchentlich (Kom-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **55** |  | **Häufigkeit monatlich (Kompres-** | 2 | n |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1  1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 | 1 = angekreuzt |
-| **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **49** | **Kompressionsbehandlung** | 1 | a | r, l, b  r = rechts |
-| l = links  b = beidseits | **50** |  | **Kompressionsstrümpfe anzie-** | 1 | n |
-| 1  1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1 | n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** |  | **Häufigkeit wöchentlich (Kom-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n | Nur zu befüllen wenn Feld 50 |
-|  |  |  |  |  |  |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 34 | **42  Blutzuckermessung Erst-/Neu-** | 1 | n | 1 | 1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** 1 | n | 1 | 1 = angekreuzt |  |
-| **44** | **Häufigkeit täglich (Blutzucker-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **46** | **Häufigkeit monatlich (Blutzu-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **47** | **Zeitraum von (Blutzuckermes-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 42 |
-| **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 42 |
-| **49** | **Kompressionsbehandlung** | 1 | a | r, l, b | r = rechts  l = links |
-| b = beidseits | **50** | **Kompressionsstrümpfe anzie-** | 1 | n | 1 |
-| 1 = angekreuzt | **51** | **Kompressionsstrümpfe auszie-** | 1 | n | 1 |
-| 1 = angekreuzt | **52** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **53** | **Häufigkeit täglich (Kompressi-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 50 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 50 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n | Nur zu befüllen wenn Feld 50 |
-|  |  |  |  |  |  |
 
 Seite 47 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -2775,69 +1625,8 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **56** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **58** | **Kompressionsverbände anlegen** | 1 | n | 1 |
-| 1 = angekreuzt | **59** | **Kompressionsverbände abneh-** | 1 | n | 1 |
-| 1 = angekreuzt | **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 58 | **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 58 | **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 58 | **64** | **Zeitraum von (Kompressions-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 58 | **65** |  | **Zeitraum bis (Kompressionsver-** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 58 | **66** |  | **Stützende und stabilisierende** | 1 |
-| n  1 | 1 = angekreuzt | **67** |  | **Häufigkeit/Dauer von Pflege-** 1 | n |
-| 1  1 = angekreuzt | **68** |  | **Häufigkeit täglich (Stützver-** | 2 | n |
-| Nur zu befüllen wenn Feld 66 | **69** |  | **Häufigkeit wöchentlich (Stütz-** | 2 | n |
-| Nur zu befüllen wenn Feld 66 | **70** |  | **Häufigkeit monatlich (Stützver-** | 2 | n |
-| Nur zu befüllen wenn Feld 66 |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **57** | **Zeitraum bis (Kompressions-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 50 | **58** |  | **Kompressionsverbände anlegen** | 1 | n |
-| 1  1 = angekreuzt | **59** |  | **Kompressionsverbände abneh-** | 1 | n  1 |
-| 1 = angekreuzt | **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1  1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **64** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 58 | **65** | **Zeitraum bis (Kompressionsver-** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 58 | **66** | **Stützende und stabilisierende** | 1 | n | 1  1 = angekreuzt |
-| **67** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **69** | **Häufigkeit wöchentlich (Stütz-** 2 | n |  | Nur zu befüllen wenn Feld 66 | **70  Häufigkeit monatlich (Stützver-** |
-| 2  n | Nur zu befüllen wenn Feld 66 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
-| **59** | **Kompressionsverbände abneh-** | 1 | n | 1 | 1 = angekreuzt |
-| **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** 2 | n |  | Nur zu befüllen wenn Feld 58 | **64** |
-| **Zeitraum von (Kompressions-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 | **65** |
-| **Zeitraum bis (Kompressionsver-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 58 |  | **66** |
-| **Stützende und stabilisierende** | 1  n | 1 | 1 = angekreuzt |  | **67** |
-| **Häufigkeit/Dauer von Pflege-** | 1  n | 1 | 1 = angekreuzt |  | **68** |
-| **Häufigkeit täglich (Stützver-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  | **69** |
-| **Häufigkeit wöchentlich (Stütz-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  | **70** |
-| **Häufigkeit monatlich (Stützver-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  |  |
 | **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
 | **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
 | **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
@@ -2853,38 +1642,6 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 | **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
 | **69** | **Häufigkeit wöchentlich (Stütz-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
 | **70** | **Häufigkeit monatlich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
-| **59** | **Kompressionsverbände abneh-** | 1 | n | 1 | 1 = angekreuzt |
-| **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **64** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |
-| **65** | **Zeitraum bis (Kompressionsver-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |
-| **66** | **Stützende und stabilisierende** | 1 | n | 1 | 1 = angekreuzt |
-| **67** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **69** | **Häufigkeit wöchentlich (Stütz-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **70** | **Häufigkeit monatlich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **57  Zeitraum bis (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen ** 1 | n | 1 | 1 = angekreuzt |  |
-| **59** | **Kompressionsverbände abneh-** 1 | n | 1 | 1 = angekreuzt |  |
-| **60** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **61** | **Häufigkeit täglich (Kompressi-** 2 | n |  | Nur zu befüllen wenn Feld 58 |  |
-| **62** | **Häufigkeit wöchentlich (Kom-** 2 | n |  | Nur zu befüllen wenn Feld 58 |  |
-| **63** | **Häufigkeit monatlich (Kompres-** 2 | n |  | Nur zu befüllen wenn Feld 58 | **64** |
-| **Zeitraum von (Kompressions-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 | **65** |
-| **Zeitraum bis (Kompressionsver-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |  |
-| **66** | **Stützende und stabilisierende ** 1 | n | 1 | 1 = angekreuzt |  |
-| **67** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **68** | **Häufigkeit täglich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-| **69** | **Häufigkeit wöchentlich (Stütz-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-| **70** | **Häufigkeit monatlich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-|  |  |  |  |  |  |
 
 Seite 48 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -2895,84 +1652,8 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **71** | **Zeitraum von (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **73** | **Wundversorgung akut** | 1 | n | 1 |
-| 1 = angekreuzt | **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 73 | **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 73 | **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 73 | **78** | **Zeitraum von (Wundversorgung** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 73 | **79** |  | **Zeitraum bis (Wundversorgung** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 73 | **80** |  | **Wundversorgung chronisch** | 1 |
-| n  1 | 1 = angekreuzt | **81** |  | **Häufigkeit täglich (Wundversor-** | 2 |
-| n | Nur zu befüllen wenn Feld 80 | **82** |  | **Häufigkeit wöchentlich (Wund-** 2 | n |
-| Nur zu befüllen wenn Feld 80 | **83** |  | **Häufigkeit monatlich (Wund-** | 2 | n |
-| Nur zu befüllen wenn Feld 80 | **84** |  | **Zeitraum von (Wundversorgung** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 80 | **85** |  | **Zeitraum bis (Wundversorgung** | 4 |
-| n | Format: MMTT  Nur zu befüllen wenn Feld 80 |  | **86** |  | **Sonstige Maßnahmen der Be-** 5  a |
-| xxxxx  Die Zeichenfolge "xxxxx" steht |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 66 | **73** |  | **Wundversorgung akut** | 1 | n |
-| 1  1 = angekreuzt | **74** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n  1 |
-| 1 = angekreuzt | **75** | **Häufigkeit täglich (Wundversor-** | 2 | n | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **79** | **Zeitraum bis (Wundversorgung** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 73 | **80** |  | **Wundversorgung chronisch** | 1 | n  1 |
-| 1 = angekreuzt | **81** | **Häufigkeit täglich (Wundversor-** | 2 | n | Nur zu befüllen wenn Feld 80 |
-| **82** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **83** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **84** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 **85** |
-| **Zeitraum bis (Wundversorgung ** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 80 |  | **86** |
-| **Sonstige Maßnahmen der Be-** | 5  a | xxxxx | Die Zeichenfolge "xxxxx" steht |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **71** | **Zeitraum von (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
-| **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **79** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 **80** |
-| **Wundversorgung chronisch** | 1  n | 1 | 1 = angekreuzt |  | **81** |
-| **Häufigkeit täglich (Wundversor-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **82** |
-| **Häufigkeit wöchentlich (Wund-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **83** |
-| **Häufigkeit monatlich (Wund-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **84** |
-| **Zeitraum von (Wundversorgung** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |  |
-| **85** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
-| **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **79** | **Zeitraum bis (Wundversorgung** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **80** | **Wundversorgung chronisch** | 1 | n | 1  1 = angekreuzt |
-| **81** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **82** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **83** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **84** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 80 | **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  |
 | **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
 | **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
 | **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
@@ -2989,22 +1670,6 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 | **84** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
 | **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
 | **86** | **Sonstige Maßnahmen der Be-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **72  Zeitraum bis (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut ** 1 | n | 1 | 1 = angekreuzt |  |
-| **74** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **75** | **Häufigkeit täglich (Wundversor-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **76** | **Häufigkeit wöchentlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **77** | **Häufigkeit monatlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **78** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **79** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **80** | **Wundversorgung chronisch ** 1 | n | 1 | 1 = angekreuzt |  |
-| **81** | **Häufigkeit täglich (Wundversor-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **82** | **Häufigkeit wöchentlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **83** | **Häufigkeit monatlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **84** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |
-| **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
-| **86** | **Sonstige Maßnahmen der Be-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
 
 Seite 49 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -3015,100 +1680,8 @@ fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) aku
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **87** | **Anleitung zur Behandlungs-** 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |  |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k |
-| u = Unterstützungspflege  k = Krankenhausvermeidungs- | **89** |  | **Grundpflege** | 1 | n |
-| 1  1 = angekreuzt | **90** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **91** |  | **Häufigkeit täglich (Grundpflege)** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **92** |  | **Häufigkeit wöchentlich (Grund-** | 2 | n |
-| Nur zu befüllen wenn Feld  89 | **93** |  | **Häufigkeit monatlich (Grund-** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **94** |  | **Zeitraum von (Grundpflege)** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 |
-| n | Format: MMTT  Nur zu befüllen wenn Feld 89 |  | **96** |  | **Hauswirtschaftliche Versorgung** |
-| 1  n | 1  1 =angekreuzt |  | **97** |  | **Häufigkeit/Dauer von Pflege-** |
-| 1  n | 1  1 = angekreuzt |  | **98** | **Häufigkeit täglich (Hauswirt-** | 2 |
-| n | Nur zu befüllen wenn Feld 96 | **99** |  | **Häufigkeit wöchentlich (Haus-** | 2 |
-| n | Nur zu befüllen wenn Feld 96 | **100** |  | **Häufigkeit monatlich (Hauswirt-** | 2 |
-| n | Nur zu befüllen wenn Feld 96 | **101** |  | **Zeitraum von (Hauswirtschaftli-** | 4 |
-| n | Format: MMTT  Nur zu befüllen wenn Feld 96 |  | **102** |  | **Zeitraum bis (Hauswirtschaftli-** 4  n |
-| Format: MMTT | Nur zu befüllen wenn Feld 96 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** |  | **Krankenhausvermeidungs-** | 1 | a |
-| u, k  u = Unterstützungspflege | k = Krankenhausvermeidungs- | **89** |  | **Grundpflege** | 1 |
-| n  1 | 1 = angekreuzt | **90** |  | **Häufigkeit/Dauer von Pflege-** | 1  n |
-| 1  1 = angekreuzt | **91** |  | **Häufigkeit täglich (Grundpflege)** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld  89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 89 | **96** |  | **Hauswirtschaftliche Versorgung** | 1  n |
-| 1  1 =angekreuzt | **97** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n  1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n | Nur zu befüllen wenn Feld 96 |
-| **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n |  | Nur zu befüllen wenn Feld 96 **101** |
-| **Zeitraum von (Hauswirtschaftli-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 96 |  | **102** |
-| **Zeitraum bis (Hauswirtschaftli-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 96 |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **87** | **Anleitung zur Behandlungs-** 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht | **88** |
-| **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k | u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld  89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n | Nur zu befüllen wenn Feld 89 |
-| **94** | **Zeitraum von (Grundpflege)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 89 |
-| **95** | **Zeitraum bis (Grundpflege)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 89 |
-| **96** | **Hauswirtschaftliche Versorgung ** 1 | n | 1 | 1 =angekreuzt |  |
-| **97** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **98** | **Häufigkeit täglich (Hauswirt-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **99** | **Häufigkeit wöchentlich (Haus-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **100** | **Häufigkeit monatlich (Hauswirt-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **101** | **Zeitraum von (Hauswirtschaftli-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 96 |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k  u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld  89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 | n |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **96** |  | **Hauswirtschaftliche Versorgung** | 1 | n  1 |
-| 1 =angekreuzt | **97** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **101** | **Zeitraum von (Hauswirtschaftli-** | 4 | n |  |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k  u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld  89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 89 | **95** | **Zeitraum bis (Grundpflege)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 89 | **96** | **Hauswirtschaftliche Versorgung** | 1 | n | 1 |
-| 1 =angekreuzt | **97** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n | Nur zu befüllen wenn Feld 96 |
-| **101** | **Zeitraum von (Hauswirtschaftli-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 96 |
-| **102** | **Zeitraum bis (Hauswirtschaftli-** | 4 | n |  | Format: MMTT |
 | **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
 | **88** | **Unterstützungspflege/  Krankenhausvermeidungs-** | 1 | a | u, k | u = Unterstützungspflege  k = Krankenhausvermeidungs- |
 | **89** | **Grundpflege** | 1 | n | 1 | 1 = angekreuzt |
@@ -3151,12 +1724,9 @@ Seite 51 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| 3.10.3 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10.3 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10.3 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-\| 3.10.3 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
-| 3.10.3 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE |
+**3.10.3**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 12 | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a | c | Verbleibt bei Krankenkasse |
@@ -3180,126 +1750,20 @@ Seite 51 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **20** | **Zeitraum von** | 6 | n |  | Format: JJMMTT |
 | **21** | **Zeitraum bis** | 6 | n |  | Format: JJMMTT |
 | **22** | **Herrichten der Medikamenten-** | 1 | n | 1 | 1 = angekreuzt |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12 |
-| Nr. des Musters | **02** | **Formularcodeergänzung** | 1 | a | c |
-| Verbleibt bei Krankenkasse | **03** | **Versionsnummer** | 2 | n | 12 |
-|  | **04** | **Nachname** | <=45 | a |  |
-| **05** | **Vorname** | <=45 | a |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT |  |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  |  |
-| **09** | **Versicherten-ID ** <=12 | a |  |  |  |
-| **10** | **Versichertenart ** 1 | n | 1,3,5 |  | **11** |
-| **Besondere Personengruppe** | 2  n | 00, 04, 06, |  |  | **12** |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Stan- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** | 9  n |  |  |  | **14** |
-| **LANR ** 9 | n |  |  | **15** | **Ausstellungsdatum ** 8  n |
-| Format : JJJJMMTT | **16** |  | **Diagnose** | <=46 | a |
-| Unter Berücksichtigung von | Ka-  werden die Diagnosen |  | **17** |  | **Erst-/Folgeverordnung** |
-| 1  a | e, f  e = Erstverordnung | f = Folgeverordnung |  | **18** |  |
-| **Unfall ** 1 | n  1 | 1 = angekreuzt |  | **19** |  |
-|  |  |  |  |  | **FORMAT/ BEMERKUNG** |
-| **01** | **Formularcode** | 2 | n | 12 | Nr. des Musters |
-| **02** | **Formularcodeergänzung ** 1 | a | c | Verbleibt bei Krankenkasse |  |
-| **03** | **Versionsnummer ** 2 | n | 12 |  |  |
-| **04** | **Nachname ** <=45 | a |  |  |  |
-| **05** | **Vorname ** <=45 | a |  |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT | **08** |
-| **Kostenträgerkennung** | 9  n |  |  |  | **09** |
-| **Versicherten-ID ** <=12 | a |  |  | **10** | **Versichertenart ** 1 |
-| n  1,3,5 |  | **11** |  | **Besondere Personengruppe** | 2 |
-| n  00, 04, 06, |  | **12** |  | **DMP-Kennzeichnung** | 2 |
-| n  Siehe Stan- |  |  | **13** |  | **(Neben-)Betriebsstättennum-** |
-| 9  n |  |  | **14** |  | **LANR** |
-| 9  n |  |  | **15** |  | **Ausstellungsdatum** |
-| 8  n | Format : JJJJMMTT |  | **16** |  | **Diagnose** |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12  Nr. des Musters |
-| **02** | **Formularcodeergänzung** | 1 | a | c | Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer ** 2 | n | 12 |  |  |
-| **04** | **Nachname ** <=45 | a |  |  |  |
-| **05** | **Vorname ** <=45 | a |  |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT |  |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  |  |
-| **09** | **Versicherten-ID ** <=12 | a |  |  | **10** |
-| **Versichertenart** | 1  n | 1,3,5 |  |  | **11** |
-| **Besondere Personengruppe ** 2 | n  00, 04, 06, |  |  | **12** |  |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Stan- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** | 9  n |  |  |  | **14** |
-| **LANR** | 9  n |  |  |  | **15** |
-| **Ausstellungsdatum** | 8  n |  | Format : JJJJMMTT |  | **16** |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12  Nr. des Musters |
-| **02** | **Formularcodeergänzung** | 1 | a | c | Verbleibt bei Krankenkasse |
-| **03** | **Versionsnummer ** 2 | n | 12 |  |  |
-| **04** | **Nachname ** <=45 | a |  |  |  |
-| **05** | **Vorname ** <=45 | a |  |  |  |
-| **06** | **Geburtsdatum ** 8 | n |  | Format : JJJJMMTT |  |
-| **07** | **Versicherungsschutz Ende ** 8 | n |  | Format : JJJJMMTT |  |
-| **08** | **Kostenträgerkennung ** 9 | n |  |  | **09** |
-| **Versicherten-ID** | <=12  a |  |  |  | **10** |
-| **Versichertenart ** 1 | n  1,3,5 |  |  | **11** |  |
-| **Besondere Personengruppe ** 2 | n  00, 04, 06, |  |  | **12** |  |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Stan- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** | 9  n |  |  |  | **14** |
-| **LANR** | 9  n |  |  |  | **15** |
-| **Ausstellungsdatum ** 8 | n | Format : JJJJMMTT |  | **16** | **Diagnose** |
-| <=46  a | Unter Berücksichtigung von | Ka- | werden die Diagnosen |  | **17** |
-| **FORMAT/ BEMERKUNG** | **01** | **Formularcode** | 2 | n | 12 |
-| Nr. des Musters | **02  Formularcodeergänzung ** 1 | a | c | Verbleibt bei Krankenkasse | **03** |
-| **Versionsnummer** | 2  n | 12 |  |  | **04** |
-| **Nachname** | <=45  a |  |  |  | **05** |
-| **Vorname** | <=45  a |  |  |  | **06** |
-| **Geburtsdatum** | 8  n |  | Format : JJJJMMTT |  | **07** |
-| **Versicherungsschutz Ende** | 8  n |  | Format : JJJJMMTT |  | **08** |
-| **Kostenträgerkennung** | 9  n |  |  |  | **09** |
-| **Versicherten-ID ** <=12 | a |  |  | **10** | **Versichertenart** |
-| 1  n | 1,3,5 |  | **11** |  | **Besondere Personengruppe** |
-| 2  n | 00, 04, 06, |  | **12** |  | **DMP-Kennzeichnung** |
-| 2  n | Siehe Stan- |  |  | **13** |  |
-| **(Neben-)Betriebsstättennum-** 9 | n |  |  | **14** |  |
-| **LANR ** 9 | n |  |  | **15** |  |
-| **Ausstellungsdatum ** 8 | n | Format : JJJJMMTT |  | **16** | **Diagnose** |
-| <=46  a | Unter Berücksichtigung von | Ka- | werden die Diagnosen |  | **17** |
 
 Seite 52 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
+### Barcode Inhalt Muster 12c/E
+
 / Version: 4.80 / 13. Mai 2026
 
-Barcode Inhalt Muster 12c/E LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
+LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
 
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **23** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 22 |  |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 |  |
-| **25** | **Häufigkeit monatlich (Medika-** 2 | n |  | Nur zu befüllen wenn Feld 22 |  |
-| **26** | **Zeitraum von (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **27** | **Zeitraum bis (Medikamenten-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 22 | **28** | **Medikamentengabe** | 1 | n | 1 |
-| 1 = angekreuzt | **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 28 | **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 28 | **31** | **Häufigkeit monatlich (Medika-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 28 | **32** | **Zeitraum von (Medikamenten-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 28 | **33** |  | **Zeitraum bis (Medikamenten-** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 28 | **34** |  | **Injektionen ** 1 | n |
-| 1  1= angekreuzt | **35** |  | **Injektionen herrichten** | 1 | n |
-| 1  1= angekreuzt | Nur zu befüllen wenn Feld 34 | **36** |  | **Injektionen intramuskulär /** | 1 |
-| a  i, s, a | i = intramuskulär  s = subkutan | a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 |  | **37** |
-| **Häufigkeit täglich (Injektionen)** | 2  n |  | Nur zu befüllen wenn Feld 34 |  | **38  Häufigkeit wöchentlich (Injekti-** |
-| 2  n | Nur zu befüllen wenn Feld 34 |  | **39** |  | **Häufigkeit monatlich (Injektio-** 2 |
-| n | Nur zu befüllen wenn Feld 34 | **40** |  | **Zeitraum von (Injektionen)** | 4 |
-| n | Format: MMTT |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 | **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
 | **24** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
 | **25** | **Häufigkeit monatlich (Medika-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
@@ -3318,69 +1782,6 @@ Barcode Inhalt Muster 12c/E LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zu
 | **38** | **Häufigkeit wöchentlich (Injekti-** | 2 | n |  | Nur zu befüllen wenn Feld 34 |
 | **39** | **Häufigkeit monatlich (Injektio-** | 2 | n |  | Nur zu befüllen wenn Feld 34 |
 | **40** | **Zeitraum von (Injektionen)** | 4 | n |  | Format: MMTT |
-|  |  |  |  |  |  |
-| **23** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **24** |
-| **Häufigkeit wöchentlich (Medi-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **31** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 28 |  | **32  Zeitraum von (Medikamenten-** |
-| 4  n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **33** |  |
-| **Zeitraum bis (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **34** |
-| **Injektionen** | 1  n | 1 | 1= angekreuzt |  | **35** |
-| **Injektionen herrichten** | 1  n | 1 | 1= angekreuzt | Nur zu befüllen wenn Feld 34 |  |
-| **36** | **Injektionen intramuskulär / ** 1 | a | i, s, a | i = intramuskulär | s = subkutan |
-| a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2 | n |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **31** | **Häufigkeit monatlich (Medika-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **32** | **Zeitraum von (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **33** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **34** | **Injektionen** | 1 | n | 1 | 1= angekreuzt |
-| **35** | **Injektionen herrichten** | 1 | n | 1 | 1= angekreuzt |
-| Nur zu befüllen wenn Feld 34 | **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a |
-| i = intramuskulär  s = subkutan | a = intramuskulär + subkutan  Nur zu befüllen wenn Feld 34 |  | **37** |  | **Häufigkeit täglich (Injektionen)** |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 22 | **25** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 22 |  | **26** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **27** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |
-| **28** | **Medikamentengabe** | 1 | n | 1 | 1 = angekreuzt |
-| **29** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **30** | **Häufigkeit wöchentlich (Medi-** | 2 | n |  | Nur zu befüllen wenn Feld 28 |
-| **31** | **Häufigkeit monatlich (Medika-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **32** |
-| **Zeitraum von (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |  |
-| **33** | **Zeitraum bis (Medikamenten-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |
-| **34** | **Injektionen** | 1 | n | 1 | 1= angekreuzt |
-| **35** | **Injektionen herrichten** | 1 | n | 1 | 1= angekreuzt |
-| Nur zu befüllen wenn Feld 34 | **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a  i = intramuskulär |
-| s = subkutan  a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2  n |
-| Nur zu befüllen wenn Feld 34 | **38** |  | **Häufigkeit wöchentlich (Injekti-** | 2 | n |
-| **23** | **Häufigkeit täglich (Medikamen-** | 2 | n |  | Nur zu befüllen wenn Feld 22 |
-| **24** | **Häufigkeit wöchentlich (Medi-** 2  n |  | Nur zu befüllen wenn Feld 22 |  | **25** |
-| **Häufigkeit monatlich (Medika-** 2 | n | Nur zu befüllen wenn Feld 22 |  | **26** |  |
-| **Zeitraum von (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 22 |  | **27** |
-| **Zeitraum bis (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 22 |  |
-| **28** | **Medikamentengabe ** 1 | n | 1 | 1 = angekreuzt |  |
-| **29** | **Häufigkeit täglich (Medikamen-** 2 | n |  | Nur zu befüllen wenn Feld 28 |  |
-| **30** | **Häufigkeit wöchentlich (Medi-** 2 | n |  | Nur zu befüllen wenn Feld 28 | **31** |
-| **Häufigkeit monatlich (Medika-** | 2  n |  | Nur zu befüllen wenn Feld 28 |  | **32** |
-| **Zeitraum von (Medikamenten-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 28 |  | **33** |
-| **Zeitraum bis (Medikamenten-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 28 |  |
-| **34** | **Injektionen ** 1 | n | 1 | 1= angekreuzt |  |
-| **35** | **Injektionen herrichten ** 1 | n | 1 | 1= angekreuzt | Nur zu befüllen wenn Feld 34 |
-| **36** | **Injektionen intramuskulär /** | 1 | a | i, s, a | i = intramuskulär |
-| s = subkutan  a = intramuskulär + subkutan | Nur zu befüllen wenn Feld 34 | **37** |  | **Häufigkeit täglich (Injektionen)** | 2  n |
-| Nur zu befüllen wenn Feld 34 | **38** |  | **Häufigkeit wöchentlich (Injekti-** | 2 | n |
 
 Seite 53 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -3391,53 +1792,8 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG  Nur zu befüllen wenn Feld 34 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **41** | **Zeitraum bis (Injektionen)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1 |
-| 1 = angekreuzt | **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 |
-| 1 = angekreuzt | **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 42 | **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 42 | **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 42 | **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **48** |  | **Zeitraum bis (Blutzuckermes-** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 |
-| a  r, l, b | r = rechts  l = links | b = beidseits |  | **50** |  |
-| **Kompressionsstrümpfe anzie-** 1 | n  1 | 1 = angekreuzt |  | **51** |  |
-| **Kompressionsstrümpfe auszie-** 1 | n  1 | 1 = angekreuzt |  | **52** | **Häufigkeit/Dauer von Pflege-** |
-| 1  n | 1  1 = angekreuzt |  | **53** |  | **Häufigkeit täglich (Kompressi-** |
-| 2  n | Nur zu befüllen wenn Feld 50 |  | **54** |  | **Häufigkeit wöchentlich (Kom-** |
-| 2  n | Nur zu befüllen wenn Feld 50 |  | **55** |  | **Häufigkeit monatlich (Kompres-** |
-| 2  n | Nur zu befüllen wenn Feld 50 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 34 | **42** |  | **Blutzuckermessung Erst-/Neu-** | 1 | n |
-| 1  1 = angekreuzt | **43** |  | **Blutzuckermessung bei intensi-** | 1 | n |
-| 1  1 = angekreuzt | **44** |  | **Häufigkeit täglich (Blutzucker-** | 2 | n |
-| Nur zu befüllen wenn Feld 42 | **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 | a |
-| r, l, b  r = rechts | l = links  b = beidseits |  | **50** |  | **Kompressionsstrümpfe anzie-** 1 |
-| n  1 | 1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1  n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n | Nur zu befüllen wenn Feld 50 **55** |
-| **Häufigkeit monatlich (Kompres-** | 2  n |  | Nur zu befüllen wenn Feld 50 |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 |  |  |  |  |  | Nur zu befüllen wenn Feld 34 |
 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 34 |
 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1 | 1 = angekreuzt |
@@ -3454,53 +1810,6 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 | **53** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 50 |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1  1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 | 1 = angekreuzt |
-| **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 42 | **49** |  | **Kompressionsbehandlung** | 1 | a  r, l, b |
-| r = rechts  l = links | b = beidseits | **50** |  | **Kompressionsstrümpfe anzie-** | 1  n |
-| 1  1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1 | n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** |  | **Häufigkeit wöchentlich (Kom-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **55** |  | **Häufigkeit monatlich (Kompres-** | 2 | n |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 34 | **42** | **Blutzuckermessung Erst-/Neu-** | 1 | n | 1  1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** | 1 | n | 1 | 1 = angekreuzt |
-| **44** | **Häufigkeit täglich (Blutzucker-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **46** | **Häufigkeit monatlich (Blutzu-** | 2 | n |  | Nur zu befüllen wenn Feld 42 |
-| **47** | **Zeitraum von (Blutzuckermes-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 42 | **49** | **Kompressionsbehandlung** | 1 | a | r, l, b  r = rechts |
-| l = links  b = beidseits | **50** |  | **Kompressionsstrümpfe anzie-** | 1 | n |
-| 1  1 = angekreuzt | **51** |  | **Kompressionsstrümpfe auszie-** | 1 | n |
-| 1  1 = angekreuzt | **52** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **53** |  | **Häufigkeit täglich (Kompressi-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **54** |  | **Häufigkeit wöchentlich (Kom-** | 2 | n |
-| Nur zu befüllen wenn Feld 50 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n | Nur zu befüllen wenn Feld 50 |
-|  |  |  |  |  |  |
-| Nur zu befüllen wenn Feld 34 | **41** | **Zeitraum bis (Injektionen)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 34 | **42  Blutzuckermessung Erst-/Neu-** | 1 | n | 1 | 1 = angekreuzt |
-| **43** | **Blutzuckermessung bei intensi-** 1 | n | 1 | 1 = angekreuzt |  |
-| **44** | **Häufigkeit täglich (Blutzucker-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **45** | **Häufigkeit wöchentlich (Blutzu-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **46** | **Häufigkeit monatlich (Blutzu-** 2 | n |  | Nur zu befüllen wenn Feld 42 |  |
-| **47** | **Zeitraum von (Blutzuckermes-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 42 |
-| **48** | **Zeitraum bis (Blutzuckermes-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 42 |
-| **49** | **Kompressionsbehandlung** | 1 | a | r, l, b | r = rechts  l = links |
-| b = beidseits | **50** | **Kompressionsstrümpfe anzie-** | 1 | n | 1 |
-| 1 = angekreuzt | **51** | **Kompressionsstrümpfe auszie-** | 1 | n | 1 |
-| 1 = angekreuzt | **52** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **53** | **Häufigkeit täglich (Kompressi-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 50 | **54** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 50 | **55** | **Häufigkeit monatlich (Kompres-** | 2 | n | Nur zu befüllen wenn Feld 50 |
-|  |  |  |  |  |  |
 
 Seite 54 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -3511,69 +1820,8 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **56** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **58** | **Kompressionsverbände anlegen** | 1 | n | 1 |
-| 1 = angekreuzt | **59** | **Kompressionsverbände abneh-** | 1 | n | 1 |
-| 1 = angekreuzt | **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 58 | **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 58 | **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 58 | **64** | **Zeitraum von (Kompressions-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 58 | **65** |  | **Zeitraum bis (Kompressionsver-** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 58 | **66** |  | **Stützende und stabilisierende** | 1 |
-| n  1 | 1 = angekreuzt | **67** |  | **Häufigkeit/Dauer von Pflege-** 1 | n |
-| 1  1 = angekreuzt | **68** |  | **Häufigkeit täglich (Stützver-** | 2 | n |
-| Nur zu befüllen wenn Feld 66 | **69** |  | **Häufigkeit wöchentlich (Stütz-** | 2 | n |
-| Nur zu befüllen wenn Feld 66 | **70** |  | **Häufigkeit monatlich (Stützver-** | 2 | n |
-| Nur zu befüllen wenn Feld 66 |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **57** | **Zeitraum bis (Kompressions-** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 50 | **58** |  | **Kompressionsverbände anlegen** | 1 | n |
-| 1  1 = angekreuzt | **59** |  | **Kompressionsverbände abneh-** | 1 | n  1 |
-| 1 = angekreuzt | **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1  1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **64** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 58 | **65** | **Zeitraum bis (Kompressionsver-** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 58 | **66** | **Stützende und stabilisierende** | 1 | n | 1  1 = angekreuzt |
-| **67** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **69** | **Häufigkeit wöchentlich (Stütz-** 2 | n |  | Nur zu befüllen wenn Feld 66 | **70  Häufigkeit monatlich (Stützver-** |
-| 2  n | Nur zu befüllen wenn Feld 66 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
-| **59** | **Kompressionsverbände abneh-** | 1 | n | 1 | 1 = angekreuzt |
-| **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** 2 | n |  | Nur zu befüllen wenn Feld 58 | **64** |
-| **Zeitraum von (Kompressions-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 | **65** |
-| **Zeitraum bis (Kompressionsver-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 58 |  | **66** |
-| **Stützende und stabilisierende** | 1  n | 1 | 1 = angekreuzt |  | **67** |
-| **Häufigkeit/Dauer von Pflege-** | 1  n | 1 | 1 = angekreuzt |  | **68** |
-| **Häufigkeit täglich (Stützver-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  | **69** |
-| **Häufigkeit wöchentlich (Stütz-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  | **70** |
-| **Häufigkeit monatlich (Stützver-** | 2  n |  | Nur zu befüllen wenn Feld 66 |  |  |
 | **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
 | **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
 | **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
@@ -3589,38 +1837,6 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 | **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
 | **69** | **Häufigkeit wöchentlich (Stütz-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
 | **70** | **Häufigkeit monatlich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
-| **57** | **Zeitraum bis (Kompressions-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen** | 1 | n | 1 | 1 = angekreuzt |
-| **59** | **Kompressionsverbände abneh-** | 1 | n | 1 | 1 = angekreuzt |
-| **60** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **61** | **Häufigkeit täglich (Kompressi-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **62** | **Häufigkeit wöchentlich (Kom-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **63** | **Häufigkeit monatlich (Kompres-** | 2 | n |  | Nur zu befüllen wenn Feld 58 |
-| **64** | **Zeitraum von (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |
-| **65** | **Zeitraum bis (Kompressionsver-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |
-| **66** | **Stützende und stabilisierende** | 1 | n | 1 | 1 = angekreuzt |
-| **67** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **68** | **Häufigkeit täglich (Stützver-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **69** | **Häufigkeit wöchentlich (Stütz-** | 2 | n |  | Nur zu befüllen wenn Feld 66 |
-| **70** | **Häufigkeit monatlich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-|  |  |  |  |  |  |
-| **56** | **Zeitraum von (Kompressions-** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 50 | **57  Zeitraum bis (Kompressions-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 50 |
-| **58** | **Kompressionsverbände anlegen ** 1 | n | 1 | 1 = angekreuzt |  |
-| **59** | **Kompressionsverbände abneh-** 1 | n | 1 | 1 = angekreuzt |  |
-| **60** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **61** | **Häufigkeit täglich (Kompressi-** 2 | n |  | Nur zu befüllen wenn Feld 58 |  |
-| **62** | **Häufigkeit wöchentlich (Kom-** 2 | n |  | Nur zu befüllen wenn Feld 58 |  |
-| **63** | **Häufigkeit monatlich (Kompres-** 2 | n |  | Nur zu befüllen wenn Feld 58 | **64** |
-| **Zeitraum von (Kompressions-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 | **65** |
-| **Zeitraum bis (Kompressionsver-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 58 |  |
-| **66** | **Stützende und stabilisierende ** 1 | n | 1 | 1 = angekreuzt |  |
-| **67** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **68** | **Häufigkeit täglich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-| **69** | **Häufigkeit wöchentlich (Stütz-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-| **70** | **Häufigkeit monatlich (Stützver-** 2 | n |  | Nur zu befüllen wenn Feld 66 |  |
-|  |  |  |  |  |  |
 
 Seite 55 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -3631,84 +1847,8 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **71** | **Zeitraum von (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **73** | **Wundversorgung akut** | 1 | n | 1 |
-| 1 = angekreuzt | **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 73 | **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 73 | **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 73 | **78** | **Zeitraum von (Wundversorgung** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 73 | **79** |  | **Zeitraum bis (Wundversorgung** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 73 | **80** |  | **Wundversorgung chronisch** | 1 |
-| n  1 | 1 = angekreuzt | **81** |  | **Häufigkeit täglich (Wundversor-** | 2 |
-| n | Nur zu befüllen wenn Feld 80 | **82** |  | **Häufigkeit wöchentlich (Wund-** 2 | n |
-| Nur zu befüllen wenn Feld 80 | **83** |  | **Häufigkeit monatlich (Wund-** | 2 | n |
-| Nur zu befüllen wenn Feld 80 | **84** |  | **Zeitraum von (Wundversorgung** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 80 | **85** |  | **Zeitraum bis (Wundversorgung** | 4 |
-| n | Format: MMTT  Nur zu befüllen wenn Feld 80 |  | **86** |  | **Sonstige Maßnahmen der Be-** 5  a |
-| xxxxx  Die Zeichenfolge "xxxxx" steht |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 66 | **73** |  | **Wundversorgung akut** | 1 | n |
-| 1  1 = angekreuzt | **74** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n  1 |
-| 1 = angekreuzt | **75** | **Häufigkeit täglich (Wundversor-** | 2 | n | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **79** | **Zeitraum bis (Wundversorgung** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 73 | **80** |  | **Wundversorgung chronisch** | 1 | n  1 |
-| 1 = angekreuzt | **81** | **Häufigkeit täglich (Wundversor-** | 2 | n | Nur zu befüllen wenn Feld 80 |
-| **82** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **83** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **84** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 **85** |
-| **Zeitraum bis (Wundversorgung ** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 80 |  | **86** |
-| **Sonstige Maßnahmen der Be-** | 5  a | xxxxx | Die Zeichenfolge "xxxxx" steht |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **71** | **Zeitraum von (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
-| **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **79** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 **80** |
-| **Wundversorgung chronisch** | 1  n | 1 | 1 = angekreuzt |  | **81** |
-| **Häufigkeit täglich (Wundversor-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **82** |
-| **Häufigkeit wöchentlich (Wund-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **83** |
-| **Häufigkeit monatlich (Wund-** | 2  n |  | Nur zu befüllen wenn Feld 80 |  | **84** |
-| **Zeitraum von (Wundversorgung** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |  |
-| **85** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
-| **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
-| **74** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 | 1 = angekreuzt |
-| **75** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **76** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **77** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 73 |
-| **78** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **79** | **Zeitraum bis (Wundversorgung** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 73 | **80** | **Wundversorgung chronisch** | 1 | n | 1  1 = angekreuzt |
-| **81** | **Häufigkeit täglich (Wundversor-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **82** | **Häufigkeit wöchentlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **83** | **Häufigkeit monatlich (Wund-** | 2 | n |  | Nur zu befüllen wenn Feld 80 |
-| **84** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 80 | **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  |
 | **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
 | **72** | **Zeitraum bis (Stützverbände)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 66 |
 | **73** | **Wundversorgung akut** | 1 | n | 1 | 1 = angekreuzt |
@@ -3725,22 +1865,6 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 | **84** | **Zeitraum von (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
 | **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
 | **86** | **Sonstige Maßnahmen der Be-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **71** | **Zeitraum von (Stützverbände)** | 4 | n |  | Format: MMTT |
-| Nur zu befüllen wenn Feld 66 | **72  Zeitraum bis (Stützverbände) ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 66 |
-| **73** | **Wundversorgung akut ** 1 | n | 1 | 1 = angekreuzt |  |
-| **74** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **75** | **Häufigkeit täglich (Wundversor-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **76** | **Häufigkeit wöchentlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **77** | **Häufigkeit monatlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 73 |  |
-| **78** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **79** | **Zeitraum bis (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 73 |
-| **80** | **Wundversorgung chronisch ** 1 | n | 1 | 1 = angekreuzt |  |
-| **81** | **Häufigkeit täglich (Wundversor-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **82** | **Häufigkeit wöchentlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **83** | **Häufigkeit monatlich (Wund-** 2 | n |  | Nur zu befüllen wenn Feld 80 |  |
-| **84** | **Zeitraum von (Wundversorgung ** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 80 |
-| **85** | **Zeitraum bis (Wundversorgung** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 80 |
-| **86** | **Sonstige Maßnahmen der Be-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
 
 Seite 56 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
@@ -3751,100 +1875,8 @@ fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) aku
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **87** | **Anleitung zur Behandlungs-** 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |  |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k |
-| u = Unterstützungspflege  k = Krankenhausvermeidungs- | **89** |  | **Grundpflege** | 1 | n |
-| 1  1 = angekreuzt | **90** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n |
-| 1  1 = angekreuzt | **91** |  | **Häufigkeit täglich (Grundpflege)** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **92** |  | **Häufigkeit wöchentlich (Grund-** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **93** |  | **Häufigkeit monatlich (Grund-** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **94** |  | **Zeitraum von (Grundpflege)** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 |
-| n | Format: MMTT  Nur zu befüllen wenn Feld 89 |  | **96** |  | **Hauswirtschaftliche Versorgung** |
-| 1  n | 1  1 =angekreuzt |  | **97** |  | **Häufigkeit/Dauer von Pflege-** |
-| 1  n | 1  1 = angekreuzt |  | **98** | **Häufigkeit täglich (Hauswirt-** | 2 |
-| n | Nur zu befüllen wenn Feld 96 | **99** |  | **Häufigkeit wöchentlich (Haus-** | 2 |
-| n | Nur zu befüllen wenn Feld 96 | **100** |  | **Häufigkeit monatlich (Hauswirt-** | 2 |
-| n | Nur zu befüllen wenn Feld 96 | **101** |  | **Zeitraum von (Hauswirtschaftli-** | 4 |
-| n | Format: MMTT  Nur zu befüllen wenn Feld 96 |  | **102** |  | **Zeitraum bis (Hauswirtschaftli-** 4  n |
-| Format: MMTT | Nur zu befüllen wenn Feld 96 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** |  | **Krankenhausvermeidungs-** | 1 | a |
-| u, k  u = Unterstützungspflege | k = Krankenhausvermeidungs- | **89** |  | **Grundpflege** | 1 |
-| n  1 | 1 = angekreuzt | **90** |  | **Häufigkeit/Dauer von Pflege-** | 1  n |
-| 1  1 = angekreuzt | **91** |  | **Häufigkeit täglich (Grundpflege)** | 2 | n |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 | n |
-| Format: MMTT | Nur zu befüllen wenn Feld 89 | **96** |  | **Hauswirtschaftliche Versorgung** | 1  n |
-| 1  1 =angekreuzt | **97** |  | **Häufigkeit/Dauer von Pflege-** | 1 | n  1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n | Nur zu befüllen wenn Feld 96 |
-| **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n |  | Nur zu befüllen wenn Feld 96 **101** |
-| **Zeitraum von (Hauswirtschaftli-** 4 | n | Format: MMTT | Nur zu befüllen wenn Feld 96 |  | **102** |
-| **Zeitraum bis (Hauswirtschaftli-** | 4  n |  | Format: MMTT | Nur zu befüllen wenn Feld 96 |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **87** | **Anleitung zur Behandlungs-** 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht | **88** |
-| **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k | u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n | Nur zu befüllen wenn Feld 89 |
-| **94** | **Zeitraum von (Grundpflege)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 89 |
-| **95** | **Zeitraum bis (Grundpflege)** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 89 |
-| **96** | **Hauswirtschaftliche Versorgung ** 1 | n | 1 | 1 =angekreuzt |  |
-| **97** | **Häufigkeit/Dauer von Pflege-** 1 | n | 1 | 1 = angekreuzt |  |
-| **98** | **Häufigkeit täglich (Hauswirt-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **99** | **Häufigkeit wöchentlich (Haus-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **100** | **Häufigkeit monatlich (Hauswirt-** 2 | n |  | Nur zu befüllen wenn Feld 96 |  |
-| **101** | **Zeitraum von (Hauswirtschaftli-** 4 | n |  | Format: MMTT | Nur zu befüllen wenn Feld 96 |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k  u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n |  |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **95** |  | **Zeitraum bis (Grundpflege)** | 4 | n |
-| Format: MMTT  Nur zu befüllen wenn Feld 89 | **96** |  | **Hauswirtschaftliche Versorgung** | 1 | n  1 |
-| 1 =angekreuzt | **97** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **101** | **Zeitraum von (Hauswirtschaftli-** | 4 | n |  |
-| **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
-| **88** | **Unterstützungspflege/** | **Krankenhausvermeidungs-** | 1 | a | u, k  u = Unterstützungspflege |
-| k = Krankenhausvermeidungs- | **89** | **Grundpflege** | 1 | n | 1 |
-| 1 = angekreuzt | **90** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **91** | **Häufigkeit täglich (Grundpflege)** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **92** | **Häufigkeit wöchentlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **93** | **Häufigkeit monatlich (Grund-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 89 | **94** | **Zeitraum von (Grundpflege)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 89 | **95** | **Zeitraum bis (Grundpflege)** | 4 | n | Format: MMTT |
-| Nur zu befüllen wenn Feld 89 | **96** | **Hauswirtschaftliche Versorgung** | 1 | n | 1 |
-| 1 =angekreuzt | **97** | **Häufigkeit/Dauer von Pflege-** | 1 | n | 1 |
-| 1 = angekreuzt | **98** | **Häufigkeit täglich (Hauswirt-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **99** | **Häufigkeit wöchentlich (Haus-** | 2 | n |  |
-| Nur zu befüllen wenn Feld 96 | **100** | **Häufigkeit monatlich (Hauswirt-** | 2 | n | Nur zu befüllen wenn Feld 96 |
-| **101** | **Zeitraum von (Hauswirtschaftli-** | 4 | n |  | Format: MMTT  Nur zu befüllen wenn Feld 96 |
-| **102** | **Zeitraum bis (Hauswirtschaftli-** | 4 | n |  | Format: MMTT |
 | **87** | **Anleitung zur Behandlungs-** | 5 | a | xxxxx | Die Zeichenfolge "xxxxx" steht |
 | **88** | **Unterstützungspflege/  Krankenhausvermeidungs-** | 1 | a | u, k | u = Unterstützungspflege  k = Krankenhausvermeidungs- |
 | **89** | **Grundpflege** | 1 | n | 1 | 1 = angekreuzt |
@@ -3887,8 +1919,11 @@ Seite 58 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
-| 3.11 3.11.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE |
+## 3.11 MUSTER 13
+
+**3.11.1** **Barcode Inhalt Muster 13/E**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 13 | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a |  |  |
@@ -3910,53 +1945,18 @@ Seite 58 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **18** | **Zweiter ICD-10-GM-Code** | <=10 | a |  |  |
 | **19** | **Diagnosegruppe** | <=3 | a |  |  |
 | **20** | **Leitsymptomatik gemäß Heil-** | <=3 | a | a, b, c, ab, bc, ac, | a = a angekreuzt  b = b angekreuzt  c = c angekreuzt  ab = a und b angekreuzt |
-|  |  |  |  |  | **FORMAT/ BEMERKUNG** |
-| **01** | **Formularcode ** 2  n  13 | Nr. des Musters |  | **02** |  |
-| **Formularcodeergänzung ** 1 | a |  |  | **03** |  |
-| **Versionsnummer ** 2 | n  10 |  |  | **04** |  |
-| **Nachname ** <=45 | a |  |  | **05** |  |
-| **Vorname ** <=45 | a |  |  | **06** |  |
-| **Geburtsdatum ** 8 | n | Format : JJJJMMTT |  | **07** |  |
-| **Versicherungsschutz Ende ** 8 | n | Format : JJJJMMTT |  | **08** |  |
-| **Kostenträgerkennung ** 9 | n |  |  | **09** |  |
-| **Versicherten-ID ** <=12 | a |  |  | **10** |  |
-| **Versichertenart ** 1 | n  1,3,5 |  |  | **11** |  |
-| **Besondere Personengruppe ** 2 | n  00, 04, 06, 07, 08, |  |  | **12** |  |
-| **DMP-Kennzeichnung ** 2 | n  Siehe Standardbar- |  |  |  | **13** |
-| **(Neben-)Betriebsstättennum-** 9 | n |  |  | **14** |  |
 
 Seite 59 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 / Version: 4.80 / 13. Mai 2026
 
-MUSTER 13 Barcode Inhalt Muster 13/E LÄNGE mittelkatalog code-Typ 1 abc zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Sprach- und Schlucktherapie 
+LÄNGE mittelkatalog code-Typ 1 abc zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Sprach- und Schlucktherapie 
 
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG | bc = b und c angekreuzt  ac = a und c angekreuzt |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| abc = a, b und c ange- | **21** | **patientenindividuelle** |  | **Leitsymptomatik** | 1 |
-| n  1 | 1 = angekreuzt | **22** |  | **Heilmittel** | <=51 |
-| a | Der gesamte bedruckte | **23** |  | **Behandlungseinheiten Heil-** | <=3 |
-| n |  | **24** |  | **Zweites Heilmittel** | <=51 |
-| a | Der gesamte bedruckte | **25** |  | **Behandlungseinheiten Zwei-** | <=3 |
-| n |  | **26** |  | **Drittes Heilmittel** | <=51 |
-| a | Der gesamte bedruckte | **27** |  | **Behandlungseinheiten Drittes** | <=3 |
-| n |  | **28** |  | **Ergänzendes Heilmittel** | <=51 |
-| a |  | **29** |  | **Behandlungseinheiten Ergän-** | <=3 |
-| n |  | **30** |  | **Therapiefrequenz** | <=15 |
-| a |  | **31** |  | **Therapiebericht** | 1 |
-| n  1 | 1 = angekreuzt | **32** |  | **Hausbesuch ** 1 | n |
-| 0, 1  0 = nein angekreuzt | 1 = ja angekreuzt | **33** |  | **Dringlicher Behandlungsbe-** | 1 |
-| n  1 | 1 = angekreuzt |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 |  |  |  |  |  | bc = b und c angekreuzt  ac = a und c angekreuzt  abc = a, b und c ange- |
 | **21** | **patientenindividuelle  Leitsymptomatik** | 1 | n | 1 | 1 = angekreuzt |
 | **22** | **Heilmittel** | <=51 | a |  | Der gesamte bedruckte |
@@ -3972,9 +1972,13 @@ MUSTER 13 Barcode Inhalt Muster 13/E LÄNGE mittelkatalog code-Typ 1 abc zusätz
 | **32** | **Hausbesuch** | 1 | n | 0, 1 | 0 = nein angekreuzt  1 = ja angekreuzt |
 | **33** | **Dringlicher Behandlungsbe-** | 1 | n | 1 | 1 = angekreuzt |
 
+**MAXIMALE GESAMTLÄNGE**
+
 Seite 60 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-MAXIMALE GESAMTLÄNGE  darf innerhalb von 14 Tagen LÄNGE 425 + TABS   Feldinhalt der ersten Zeile Feldinhalt der zweiten Zeile Feldinhalt der dritten Zeile
+**425 + TABS**       **TYP 3**
+
+darf innerhalb von 14 Tagen LÄNGE Feldinhalt der ersten Zeile Feldinhalt der zweiten Zeile Feldinhalt der dritten Zeile
 
 ---
 
@@ -4581,10 +2585,11 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| 3.21 3.21.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
-\| 3.21 3.21.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
-| 3.21 3.21.1 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
+## 3.21 MUSTER 39
+
+**3.21.1** **Barcode Inhalt Muster 39a/E**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 39 | Nr. des Musters |  | |
 | **02** | **Formularcodeergänzung** | 1 | a | a | für den untersuchenden |  | |
@@ -4609,67 +2614,15 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
 | **21** | **Vorsatzwort** | <=20 | a |  |  | 3120 | |
 | **22** | **PLZ** | <=10 | a |  |  | 3112 | |
 | **23** | **Ort** | <=40 | a |  |  | 3113 | |
-| **LDT-** | **01** |  | **Formularcode** | 2 | n | 39 | |
-| Nr. des Musters | **02** |  | **Formularcodeergänzung** | 1 | a | a | |
-| für den untersuchenden | **03** |  | **Versionsnummer** | 2 | n | 11 | |
-|  | **04** |  | **Anforderungs-Ident** | <=13 | a |  | |
-| optionale Ident-Nr. | 8310 | **05** |  | **Nachname** | <=45 | a | |
-|  | 3101 | **06** |  | **Vorname** | <=45 | a | |
-|  | 3102 | **07** |  | **Geburtsdatum** | 8 | n | |
-| JJJJMMTT | 3103 | **08** |  | **Versicherungsschutz** | 8  n | JJJJMMTT | |
-| 4110 | **09** | **Kostenträgerkennung** | 9 | n |  | 4111 | |
-| **10** | **Kostenträgername** | <=24 | a | Entsprechend der Be-   4134 | **11  WOP-Kennzeichen ** 2  n      3116 |  | |
-| **12** | **Versichertennummer ** <=12 | a |  |  | 3105 oder | 3119 oder | 4124 |
-| **13** | **Versichertenart** | 1 | n | 1,3,5 | 3108 | **14** |  |
-| **LDT-** | **01** |  | **Formularcode** | 2  n | 39  Nr. des Musters   **02  Formularcodeergänzung ** 1  a  a  für den untersuchenden   **03  Versionsnummer ** 2  n  11     **04  Anforderungs-Ident ** <=13  a    optionale Ident-Nr.    8310 **05  Nachname ** <=45  a      3101 **06  Vorname ** <=45  a      3102 **07  Geburtsdatum ** 8  n    JJJJMMTT  3103 **08  Versicherungsschutz ** 8  n    JJJJMMTT  4110 | **09** |  |
-| **Kostenträgerkennung ** 9 | n |  | 4111 |  | **10  Kostenträgername ** <=24 | a |  |
-| Entsprechend der Be- | 4134 | **11** |  | **WOP-Kennzeichen** | 2 | n |  |
-| 3116 | **12** |  | **Versichertennummer** | <=12 | a | 3105 oder | 3119 oder |
-| 4124 | **13** | **Versichertenart** | 1 | n | 1,3,5 |  | 3108 |
-| **LDT-** | **01** |  | **Formularcode** | 2 | n | 39 | Nr. des Musters |
-|  | **02** | **Formularcodeergänzung** | 1 | a | a  für den untersuchenden |  | **03** |
-| **Versionsnummer** | 2  n | 11 |  |  | **04** | **Anforderungs-Ident** | <=13 |
-| a | optionale Ident-Nr. | 8310 |  | **05** |  | **Nachname** | <=45 |
-| a | 3101 |  | **06** |  | **Vorname** | <=45 | a |
-|  | 3102 | **07** |  | **Geburtsdatum** | 8 | n |  |
-| JJJJMMTT  3103 | **08** |  | **Versicherungsschutz** | 8 | n |  | JJJJMMTT |
-| 4110 | **09** | **Kostenträgerkennung** | 9 | n |  |  | 4111 |
-| **10** | **Kostenträgername** | <=24 | a |  | Entsprechend der Be- |  | 4134 |
 
 Seite 78 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-MUSTER 39 Barcode Inhalt Muster 39a/E LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
+LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- | 24 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
-| **Straße** | <=46  a |  |  | 3107 |  | **25** | |
-| **Hausnummer** | <=9  a |  |  | 3109 |  | **26** | |
-| **Wohnsitzländercode** | <=3  a |  |  | 3114 |  | **27** | |
-| **PostfachPLZ** | <=10  a |  | Falls das Feld 23 leer ist | 3121 |  | **28** |  |
-| **PostfachOrt ** <=40 | a | Falls das Feld 24 leer ist | 3122 |  | **29** |  | |
-| **Postfach ** <=8 | a | Falls die Felder 25 und 26 | 3123 |  | **30** |  | |
-| **PostfachWohnsitzländer-** <=3 | a | Falls das Feld 27 leer ist | 3124 |  | **31** |  | |
-| **Alterskategorie ** 1 | n  1, 2, 3 | 1=20-29 Jahre | 2=30-34 Jahre | 3=ab 35 Jahre |  |  | |
-| **32** | **Auftragsart ** 1 | a | P, A | P = Primärscreening | A = Abklärungsdiagnostik | 8630 | |
-| **33** | **Auftrag** | <=6 | a | Zyto, | HPV, | KoTest |  |
-| Zyto = zytologische Unter- HPV = HPV | -Test |  | KoTest = Ko | - | Test |  | |
-| 8629 | **34** | **Wiederholungsuntersu-** | 1 | n | 0, 1 | 0=nein    7296 | |
-| **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM | JJ (die letzten beiden Stel- | |
-| MM (die Angabe des Mo- | 7297 |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
 | **24** | **Straße** | <=46 | a |  |  | 3107 | |
 | **25** | **Hausnummer** | <=9 | a |  |  | 3109 | |
 | **26** | **Wohnsitzländercode** | <=3 | a |  |  | 3114 | |
@@ -4682,20 +2635,6 @@ MUSTER 39 Barcode Inhalt Muster 39a/E LÄNGE INHALTE Ende Versicherten_ID oder S
 | **33** | **Auftrag** | <=6 | a | Zyto, HPV,  KoTest | Zyto = zytologische Unter- HPV = HPV-Test  KoTest = Ko-Test | 8629 | |
 | **34** | **Wiederholungsuntersu-** | 1 | n | 0, 1 | 0=nein |  | 7296 |
 | **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM  JJ (die letzten beiden Stel- MM (die Angabe des Mo- |  | 7297 |
-| **24** | **Straße** | <=46 | a |  | 3107 **25  Hausnummer ** <=9  a      3109 **26  Wohnsitzländercode ** <=3  a      3114 **27  PostfachPLZ ** <=10  a    Falls das Feld 23 leer ist  3121 **28  PostfachOrt ** <=40  a    Falls das Feld 24 leer ist  3122 **29  Postfach ** <=8  a    Falls die Felder 25 und 26   3123 **30  PostfachWohnsitzländer-** <=3  a    Falls das Feld 27 leer ist   3124 **31  Alterskategorie ** 1  n  1, 2, 3  1=20-29 Jahre  2=30-34 Jahre  3=ab 35 Jahre   **32** |  | **Auftragsart** |
-| 1  a | P, A  P = Primärscreening | A = Abklärungsdiagnostik | 8630 |  | **33  Auftrag ** <=6 | a | Zyto, |
-| HPV,  KoTest | Zyto = zytologische Unter- | HPV = HPV | - | Test |  | KoTest = Ko | - |
-| Test | 8629 | **34** |  | **Wiederholungsuntersu-** | 1  n  0, 1 | 0=nein |  |
-| 7296 | **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM | JJ (die letzten beiden Stel- |
-| **24** | **Straße** | <=46 | a |  |  | 3107 |  |
-| **25** | **Hausnummer ** <=9 | a |  |  | 3109 **26** |  | **Wohnsitzländercode** |
-| <=3  a |  | 3114 |  | **27** | **PostfachPLZ ** <=10 | a |  |
-| Falls das Feld 23 leer ist  3121 | **28** |  | **PostfachOrt** | <=40 | a |  | Falls das Feld 24 leer ist |
-| 3122 | **29** | **Postfach** | <=8 | a |  | Falls die Felder 25 und 26 | 3123 |
-| **30** | **PostfachWohnsitzländer-** | <=3 | a |  | Falls das Feld 27 leer ist | 3124 |  |
-| **31** | **Alterskategorie ** 1 | n | 1, 2, 3 | 1=20-29 Jahre | 2=30-34 Jahre | 3=ab 35 Jahre |  |
-| **32** | **Auftragsart** | 1 | a | P, A | P = Primärscreening | A = Abklärungsdiagnostik | 8630 |
-| **33** | **Auftrag** | <=6 | a | Zyto, | HPV, | KoTest |  |
 
 Seite 79 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
@@ -4703,60 +2642,13 @@ chung suchung LÄNGE INHALTE leer sind suchung  1=ja len der Jahresangabe) nates
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- | 36 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
-| **Gruppe** | <=5  a | 0, I, II, I/II, I- |  | Erläuterung zur Münchner |  | 0 = unzureichendes Mate- | |
-| rial, | I = unauffällige und un- verdächtige Befunde |  | II | - | a = Unauffällige Befunde | bei auffälliger Anamnese | |
-| II | -p, II | - | g, II | - | e = Befunde | mit eingeschränkt protek- | |
-| tivem Wert | III- | p, III | - | g, III | - | e, III | - |
-| x = Un- klare bzw. zweifelhafte | Befunde | IIID1, IIID2 = Dysplasiebe- | funde mit größerer Re- | gressionsneigung |  | IVa | |
-| -p, IVa | -g, IVb | - | p, IVb | - | g = | Unmittelbare Vorstufen | |
-| des Zervixkarzinoms | V- | p, V | - | g, V | - | e, V | |
-| -x = Malig- | nome | Die folgenden Werte der | I/II, II, I | - | II, IIw, IIk, IIID, III, | IVa, IVb, V | |
-|  | 7414 | **37** |  | **HPV-Impfung** | 1 | n | |
-| 1, 2, 3, 9  1=vollständig | 2=unvollständig  3=keine | 9=unklar |  | 3313 |  | **38** |  |
-| **Liegt ein HPV-HR-Tester-** 1 | n  0, 1 | 0=liegt nicht vor |  | 3314 |  | **39** | |
-| **HPV-HR-Testergebnis** | 1  n | 1, 2, 3 | 1=positiv | 2=negativ | 3=nicht verwertbar | 3316 | |
-| **40** | **Gyn. OP, Strahlen oder ** 1 | n | 0, 1 | 0=nein |  | 7336 | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-| **36** | **Gruppe** | <=5 | a | 0, I, II, I/II, I- |  | Erläuterung zur Münchner | |
-| 0 = unzureichendes Mate- | rial, | I = unauffällige und un- | verdächtige Befunde |  | II | - | |
-| a = Unauffällige Befunde  bei auffälliger Anamnese | II | - | p, II | - | g, II | - | |
-| e = Befunde  mit eingeschränkt protek- | tivem Wert | III | - | p, III | - | g, III | |
-| -e, III | -x = Un- | klare bzw. zweifelhafte | Befunde |  | IIID1, IIID2 = Dysplasiebe- | funde mit größerer Re- | |
-| gressionsneigung | IVa- | p, IVa | - | g, IVb | - | p, IVb | |
-| -g = | Unmittelbare Vorstufen  des Zervixkarzinoms |  | V | - | p, V | - | |
-| g, V- | e, V- | x = Malig- | nome |  | Die folgenden Werte der  I/II, II, I- | II, IIw, IIk, IIID, III, | |
-| IVa, IVb, V | 7414 |  | **37** |  | **HPV-Impfung ** 1 | n | |
-| 1, 2, 3, 9  1=vollständig | 2=unvollständig  3=keine | 9=unklar |  | 3313 **38** | **Liegt ein HPV-HR-Tester-** 1  n  0, 1  0=liegt nicht vor    3314 **39** |  | |
-| **HPV-HR-Testergebnis ** 1 | n  1, 2, 3 | 1=positiv | 2=negativ | 3=nicht verwertbar |  | 3316 |  |
-| **40** | **Gyn. OP, Strahlen oder ** 1 | n | 0, 1 | 0=nein | 7336 |  |  |
 | **36** | **Gruppe** | <=5 | a | 0, I, II, I/II, I- | Erläuterung zur Münchner    0 = unzureichendes Mate- rial,   I = unauffällige und un- verdächtige Befunde   II-a = Unauffällige Befunde  bei auffälliger Anamnese   II-p, II-g, II-e = Befunde  mit eingeschränkt protek- tivem Wert   III-p, III-g, III-e, III-x = Un- klare bzw. zweifelhafte  Befunde   IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung   IVa-p, IVa-g, IVb-p, IVb-g =  Unmittelbare Vorstufen  des Zervixkarzinoms   V-p, V-g, V-e, V-x = Malig- nome   Die folgenden Werte der  I/II, II, I-II, IIw, IIk, IIID, III,  IVa, IVb, V |  | 7414 |
 | **37** | **HPV-Impfung** | 1 | n | 1, 2, 3, 9 | 1=vollständig  2=unvollständig  3=keine  9=unklar |  | 3313 |
 | **38** | **Liegt ein HPV-HR-Tester-** | 1 | n | 0, 1 | 0=liegt nicht vor |  | 3314 |
 | **39** | **HPV-HR-Testergebnis** | 1 | n | 1, 2, 3 | 1=positiv  2=negativ  3=nicht verwertbar |  | 3316 |
 | **40** | **Gyn. OP, Strahlen oder** | 1 | n | 0, 1 | 0=nein |  | 7336 |
-| **36** | **Gruppe** | <=5 | a | 0, I, II, I/II, I- |  | Erläuterung zur Münchner |  |
-| 0 = unzureichendes Mate- rial, | I = unauffällige und un- | verdächtige Befunde |  | II | -a = Unauffällige Befunde  bei auffälliger Anamnese |  | II |
-| -p, II | -g, II | - | e = Befunde | mit eingeschränkt protek- | tivem Wert   III | - | p, III |
-| -g, III | -e, III | - | x = Un- | klare bzw. zweifelhafte | Befunde |  | IIID1, IIID2 = Dysplasiebe- |
-| funde mit größerer Re- gressionsneigung | IVa | - | p, IVa | - | g, IVb | - | p, IVb |
-| -g = | Unmittelbare Vorstufen  des Zervixkarzinoms |  | V | - | p, V | - | g, V |
-| -e, V | -x = Malig- | nome |  | Die folgenden Werte der | I/II, II, I | - | II, IIw, IIk, IIID, III, |
-| IVa, IVb, V | 7414 |  | **37** |  | **HPV-Impfung** | 1 | n |
-| 1, 2, 3, 9  1=vollständig | 2=unvollständig  3=keine | 9=unklar |  | 3313 |  | **38** |  |
 
 Seite 80 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
@@ -4764,51 +2656,8 @@ gebnis vor? Chemotherapie des Geni- tales LÄNGE INHALTE II, II-a, IIw, IIk, II-
 
 ---
 
-\| FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- | 41 |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
-| **Gyn. OP, Strahlen oder** | <=16  a |  | Freitext |  | 7337 |  | |
-| **42** | **Gyn. OP, Strahlen oder ** 8 | n |  | JJJJMMTT | zusätzlicher Wertebe- | JJJJMM00, JJJJ0000 | |
-| 7338 | **43** |  | **Letzte Periode** | 8 | n |  | |
-| JJJJMMTT  zusätzlicher Wertebe- | JJJJMM00, JJJJ0000 | 8512 |  | **44** |  | **Gravidität** | 1 |
-| n  0, 1 | 0=nein | 7339 |  | **45** |  | **Ausfluss / pathologische** | |
-| 1  n | 0, 1  0=nein |  | 7380 |  | **46** |  | |
-| **IUP ** 1 | n  0, 1 | 0=nein |  | 7382 |  | **47** | |
-| **Einnahme von Ovulati-** | 1  n | 0, 1 | 0=nein |  | 7383 |  | |
-| **48** | **Klinischer Befund ** 1 | n | 0, 1 | 0=unauffällig |  | 7384 | |
-| **49** | **Erläuterungen** | <=240 | a |  | Freitext | 4205 | 7423 |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-| **41** | **Gyn. OP, Strahlen oder** | <=16 | a |  | Freitext |  | |
-| 7337 | **42** | **Gyn. OP, Strahlen oder** | 8 | n |  | JJJJMMTT | |
-| zusätzlicher Wertebe- JJJJMM00, JJJJ0000 | 7338 |  | **43** |  | **Letzte Periode** | 8 | |
-| n | JJJJMMTT  zusätzlicher Wertebe- | JJJJMM00, JJJJ0000 |  | 8512 |  | **44** | |
-| **Gravidität** | 1  n | 0, 1 | 0=nein |  | 7339 |  | |
-| **45** | **Ausfluss / pathologische ** 1 | n | 0, 1 | 0=nein |  | 7380 | |
-| **46** | **IUP** | 1 | n | 0, 1 | 0=nein |  | |
-| 7382 | **47** | **Einnahme von Ovulati-** | 1 | n | 0, 1  0=nein | 7383 | |
-| **48** | **Klinischer Befund** | 1 | n | 0, 1 | 0=unauffällig | 7384 | |
-| **49** | **Erläuterungen** | <=240 | a | Freitext  4205  7423 |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| **41** | **Gyn. OP, Strahlen oder** | <=16 | a | Freitext | 7337 **42  Gyn. OP, Strahlen oder ** 8  n    JJJJMMTT   zusätzlicher Wertebe- JJJJMM00, JJJJ0000    7338 **43  Letzte Periode ** 8  n    JJJJMMTT  zusätzlicher Wertebe- JJJJMM00, JJJJ0000    8512 **44  Gravidität ** 1  n  0, 1  0=nein    7339 **45  Ausfluss / pathologische ** 1  n  0, 1  0=nein    7380 **46  IUP ** 1  n  0, 1  0=nein    7382 **47  Einnahme von Ovulati-** 1  n  0, 1  0=nein    7383 **48** |  | **Klinischer Befund** |
-| 1  n | 0, 1  0=unauffällig |  | 7384 |  | **49  Erläuterungen  ** <=240 | a |  |
-| Freitext  4205 | 7423 |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 | **41** | **Gyn. OP, Strahlen oder** | <=16 | a |  | Freitext |  | 7337 |
 | **42** | **Gyn. OP, Strahlen oder** | 8 | n |  | JJJJMMTT   zusätzlicher Wertebe- JJJJMM00, JJJJ0000 |  | 7338 |
 | **43** | **Letzte Periode** | 8 | n |  | JJJJMMTT  zusätzlicher Wertebe- JJJJMM00, JJJJ0000 |  | 8512 |
@@ -4819,16 +2668,19 @@ gebnis vor? Chemotherapie des Geni- tales LÄNGE INHALTE II, II-a, IIw, IIk, II-
 | **48** | **Klinischer Befund** | 1 | n | 0, 1 | 0=unauffällig |  | 7384 |
 | **49** | **Erläuterungen** | <=240 | a |  | Freitext | 4205 | 7423 |
 
+**MAXIMALE GESAMTLÄNGE**
+
 Seite 81 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-MAXIMALE GESAMTLÄNGE  LÄNGE Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - Wann? Blutung onshemmer / sonstige Hormonanwendung INHALTE 650 + TABS   reich: reich: 1=ja 1=ja 1=ja 1=ja 1=auffällig
+**650 + TABS**       **TYP 3**
+
+LÄNGE Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - Wann? Blutung onshemmer / sonstige Hormonanwendung INHALTE reich: reich: 1=ja 1=ja 1=ja 1=ja 1=auffällig
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| 3.21.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
-\| 3.21.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
-| 3.21.2 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- |
+**3.21.2** **Barcode Inhalt Muster 39b/E**
+
+| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 39 | Nr. des Musters |  | |
 | **02** | **Formularcodeergänzung** | 1 | a | b | für den zytologisch tätigen |  | |
@@ -4855,68 +2707,15 @@ MAXIMALE GESAMTLÄNGE  LÄNGE Chemotherapie des Geni- tales - Welche? Chemothera
 | **23** | **Ort** | <=40 | a |  |  | 3113 | |
 | **24** | **Straße** | <=46 | a |  |  | 3107 | |
 | **25** | **Hausnummer** | <=9 | a |  |  | 3109 | |
-| **LDT-** | **01** | **Formularcode** | 2 | n | 39 | Nr. des Musters | |
-|  | **02** | **Formularcodeergänzung** | 1 | a | b | für den zytologisch tätigen | |
-|  | **03** | **Versionsnummer** | 2 | n | 11 |  | |
-|  | **04** | **Anforderungs-Ident** | <=13 | a |  | optionale Ident-Nr. | |
-| 8310 | **05** |  | **Nachname** | <=45 | a |  | |
-| 3101 | **06** |  | **Vorname** | <=45 | a | 3102 | |
-| **07** | **Geburtsdatum** | 8 | n |  | JJJJMMTT  3103 |  | |
-| **08** | **Versicherungsschutz ** 8 | n |  | JJJJMMTT  4110 **09** | **Kostenträgerkennung ** 9  n      4111 **10** |  | |
-| **Kostenträgername ** <=24 | a | Entsprechend der Be- |  | 4134 |  | **11** |  |
-| **WOP-Kennzeichen ** 2 | n |  | 3116 |  | **12  Versichertennummer** | <=12 | a |
-|  | 3105 oder  3119 oder | 4124 |  | **13** | **Versichertenart ** 1  n  1,3,5    3108 **14  Besondere Personen-** 2  n  00, 04, 06,    4131 **15  DMP-Kennzeichnung ** 2  n  Siehe Stan-     4132 **16  (N)BSNR Überweiser ** 9  n        4218 **17  Überweiser LANR** | 9 | n |
-|  |  |  |  |  |  |  | **LDT- 01  Formularcode ** 2  n  39  Nr. des Musters   **02  Formularcodeergänzung ** 1  a  b  für den zytologisch tätigen   **03  Versionsnummer ** 2  n  11 |
-| **04** | **Anforderungs-Ident ** <=13 | a |  | optionale Ident-Nr. | 8310 **05** |  | **Nachname** |
-| <=45  a |  | 3101 |  | **06** |  | **Vorname** | <=45 |
-| a | 3102 |  | **07** |  | **Geburtsdatum ** 8  n |  | JJJJMMTT |
-| 3103 | **08** | **Versicherungsschutz** | 8 | n |  | JJJJMMTT | 4110 |
-| **09** | **Kostenträgerkennung** | 9 | n |  |  | 4111 |  |
-| **10** | **Kostenträgername ** <=24 | a |  | Entsprechend der Be- | 4134 | **11** |  |
-| **WOP-Kennzeichen ** 2 | n |  | 3116 |  | **12  Versichertennummer** | <=12 | a |
-|  | 3105 oder  3119 oder | 4124 |  | **13** |  | **Versichertenart** | 1 |
-| n  1,3,5 | 3108 |  | **14** |  | **Besondere Personen-** | 2 | n |
-| **LDT-** | **01** | **Formularcode** | 2 | n | 39 | Nr. des Musters |  |
-| **02** | **Formularcodeergänzung** | 1 | a | b | für den zytologisch tätigen |  |  |
-| **03** | **Versionsnummer ** 2 | n | 11 |  |  |  | **04** |
-| **Anforderungs-Ident** | <=13  a |  | optionale Ident-Nr. |  | 8310 |  | **05** |
 
 Seite 82 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-Barcode Inhalt Muster 39b/E LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
+LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
-| **26** | **Wohnsitzländercode ** <=3 | a |  |  | 3114 |  | |
-| **27** | **PostfachPLZ ** <=10 | a |  | Falls das Feld 23 leer ist | 3121 |  | |
-| **28** | **PostfachOrt ** <=40 | a |  | Falls das Feld 24 leer ist | 3122 |  | |
-| **29** | **Postfach ** <=8 | a |  | Falls die Felder 25 und 26 | 3123 |  | **30** |
-| **PostfachWohnsitzländer-** | <=3  a |  | Falls das Feld 27 leer ist | 3124 |  | **31** | |
-| **Alterskategorie** | 1  n | 1, 2, 3 | 1=20-29 Jahre | 2=30-34 Jahre | 3=ab 35 Jahre |  | |
-| **32** | **Auftragsart** | 1 | a | P, A | P = Primärscreening | A = Abklärungsdiagnostik | |
-| 8630 | **33** | **Auftrag** | <=6 | a | Zyto, | HPV, | |
-| KoTest | Zyto = zytologische Unter- HPV = HPV | - | Test |  | KoTest = Ko | - | |
-| Test | 8629 | **34** |  | **Wiederholungsuntersu-** | 1 | n | 0, 1 |
-| 0=nein | 7296 | **35** |  | **Datum der letzten Unter-** | 4 | n | |
-| JJMM | JJ (die letzten beiden Stel- MM (die Angabe des Mo- |  | 7297 |  | **36** | **Gruppe ** <=5 | |
-| a  0, I, II, I/II, I- | Erläuterung zur Münchner |  | 0 = unzureichendes Mate- | rial, |  | I = unauffällige und un- | |
-| verdächtige Befunde | II- | a = Unauffällige Befunde | bei auffälliger Anamnese |  | II | - | |
-| p, II- | g, II- | e = Befunde | mit eingeschränkt protek- | tivem Wert | III | - | |
-| p, III- | g, III- | e, III | - | x = Un- | klare bzw. zweifelhafte | Befunde |  |
-| IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- | gressionsneigung |  | 7414 |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
 | **26** | **Wohnsitzländercode** | <=3 | a |  |  | 3114 | |
 | **27** | **PostfachPLZ** | <=10 | a |  | Falls das Feld 23 leer ist | 3121 | |
 | **28** | **PostfachOrt** | <=40 | a |  | Falls das Feld 24 leer ist | 3122 | |
@@ -4928,20 +2727,6 @@ Barcode Inhalt Muster 39b/E LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz 
 | **34** | **Wiederholungsuntersu-** | 1 | n | 0, 1 | 0=nein |  | 7296 |
 | **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM  JJ (die letzten beiden Stel- MM (die Angabe des Mo- |  | 7297 |
 | **36** | **Gruppe** | <=5 | a | 0, I, II, I/II, I- | Erläuterung zur Münchner    0 = unzureichendes Mate- rial,   I = unauffällige und un- verdächtige Befunde   II-a = Unauffällige Befunde  bei auffälliger Anamnese   II-p, II-g, II-e = Befunde  mit eingeschränkt protek- tivem Wert   III-p, III-g, III-e, III-x = Un- klare bzw. zweifelhafte  Befunde   IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung |  | 7414 |
-|  |  |  |  |  |  |  | **26  Wohnsitzländercode ** <=3  a      3114 **27  PostfachPLZ ** <=10  a    Falls das Feld 23 leer ist  3121 **28  PostfachOrt ** <=40  a    Falls das Feld 24 leer ist  3122 **29** |
-| **Postfach** | <=8  a |  | Falls die Felder 25 und 26 | 3123 | **30  PostfachWohnsitzländer-** | <=3 | a |
-| Falls das Feld 27 leer ist | 3124 | **31** |  | **Alterskategorie** | 1 | n | 1, 2, 3 |
-| 1=20-29 Jahre  2=30-34 Jahre | 3=ab 35 Jahre |  | **32** |  | **Auftragsart ** 1  a | P, A | P = Primärscreening |
-| A = Abklärungsdiagnostik  8630 | **33** |  | **Auftrag** | <=6 | a | Zyto, | HPV, |
-| KoTest | Zyto = zytologische Unter- HPV = HPV | - | Test |  | KoTest = Ko | - | Test |
-| 8629 | **34** |  | **Wiederholungsuntersu-** | 1 | n  0, 1  0=nein |  | 7296 |
-| **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM  JJ (die letzten beiden Stel- MM (die Angabe des Mo- |  | 7297 |
-| **36** | **Gruppe** | <=5 | a | 0, I, II, I/II, I- |  | Erläuterung zur Münchner |  |
-| 0 = unzureichendes Mate- rial, | I = unauffällige und un- | verdächtige Befunde |  | II | - | a = Unauffällige Befunde | bei auffälliger Anamnese |
-| **26** | **Wohnsitzländercode** | <=3 | a |  |  | 3114 |  |
-| **27** | **PostfachPLZ ** <=10 | a |  | Falls das Feld 23 leer ist | 3121 |  | **28** |
-| **PostfachOrt** | <=40  a |  | Falls das Feld 24 leer ist | 3122 |  | **29** |  |
-| **Postfach ** <=8 | a | Falls die Felder 25 und 26 | 3123 |  | **30** |  | **PostfachWohnsitzländer-** |
 
 Seite 83 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
@@ -4949,47 +2734,8 @@ chung suchung LÄNGE INHALTE leer sind suchung  II, II-a, IIw, IIk, II-p, II-g, 
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- IVa |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
-| -p, IVa | -g, IVb | - | p, IVb | - | g = | Unmittelbare Vorstufen | |
-| des Zervixkarzinoms | V- | p, V | - | g, V | - | e, V | |
-| -x = Malig- | nome | Die folgenden Werte der | I/II, II, I | - | II, IIw, IIk, IIID, III, | IVa, IVb, V | |
-|  | **37** | **HPV-Impfung** | 1 | n | 1, 2, 3, 9 | 1=vollständig | 2=unvollständig |
-| 3=keine  9=unklar | 3313 |  | **38** |  | **Liegt ein HPV-HR-Tester-** | 1 | |
-| n  0, 1 | 0=liegt nicht vor | 3314 |  | **39** |  | **HPV-HR-Testergebnis** | |
-| 1  n | 1, 2, 3  1=positiv | 2=negativ | 3=nicht verwertbar |  | 3316 |  | |
-| **40** | **Gyn. OP, Strahlen oder ** 1 | n | 0, 1 | 0=nein |  | 7336 | |
-| **41** | **Gyn. OP, Strahlen oder** | <=16 | a |  | Freitext |  | |
-| 7337 | **42** | **Gyn. OP, Strahlen oder** | 8 | n |  | JJJJMMTT | zusätzlicher Wertebe- |
-| JJJJMM00, JJJJ0000 | 7338 | **43** |  | **Letzte Periode** | 8 | n | |
-| JJJJMMTT | zusätzlicher Wertebe- JJJJMM00, JJJJ0000 |  | 8512 |  | **44** | **Gravidität ** 1 | |
-| n  0, 1 | 0=nein | 7339 |  | **45** |  | **Ausfluss / pathologische** | |
-| 1  n | 0, 1  0=nein |  | 7380 |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-| IVa- | p, IVa- | g, IVb | - | p, IVb | - | g = | |
-| Unmittelbare Vorstufen  des Zervixkarzinoms | V | - | p, V | - | g, V | - | |
-| e, V- | x = Malig- nome |  | Die folgenden Werte der | I/II, II, I | - | II, IIw, IIk, IIID, III, | |
-| IVa, IVb, V | **37** |  | **HPV-Impfung** | 1 | n | 1, 2, 3, 9 | |
-| 1=vollständig  2=unvollständig | 3=keine  9=unklar |  | 3313 |  | **38** |  | |
-| **Liegt ein HPV-HR-Tester-** 1 | n  0, 1 | 0=liegt nicht vor |  | 3314 | **39** | **HPV-HR-Testergebnis** | |
-| 1  n | 1, 2, 3  1=positiv | 2=negativ | 3=nicht verwertbar |  | 3316 | **40** | |
-| **Gyn. OP, Strahlen oder** | 1  n | 0, 1 | 0=nein | 7336 **41** | **Gyn. OP, Strahlen oder ** <=16  a    Freitext    7337 | **42** | |
-| **Gyn. OP, Strahlen oder** | 8  n |  | JJJJMMTT | zusätzlicher Wertebe- | JJJJMM00, JJJJ0000 |  | 7338 |
-| **43** | **Letzte Periode** | 8 | n |  | JJJJMMTT  zusätzlicher Wertebe- JJJJMM00, JJJJ0000 |  | 8512 |
-| **44** | **Gravidität** | 1 | n | 0, 1  0=nein | 7339 **45  Ausfluss / pathologische ** 1  n  0, 1  0=nein    7380 |  |  |
 |  |  |  |  |  |  |  | IVa-p, IVa-g, IVb-p, IVb-g =  Unmittelbare Vorstufen  des Zervixkarzinoms   V-p, V-g, V-e, V-x = Malig- nome   Die folgenden Werte der  I/II, II, I-II, IIw, IIk, IIID, III,  IVa, IVb, V |
 | **37** | **HPV-Impfung** | 1 | n | 1, 2, 3, 9 | 1=vollständig  2=unvollständig  3=keine  9=unklar |  | 3313 |
 | **38** | **Liegt ein HPV-HR-Tester-** | 1 | n | 0, 1 | 0=liegt nicht vor |  | 3314 |
@@ -5000,10 +2746,6 @@ chung suchung LÄNGE INHALTE leer sind suchung  II, II-a, IIw, IIk, II-p, II-g, 
 | **43** | **Letzte Periode** | 8 | n |  | JJJJMMTT  zusätzlicher Wertebe- JJJJMM00, JJJJ0000 |  | 8512 |
 | **44** | **Gravidität** | 1 | n | 0, 1 | 0=nein |  | 7339 |
 | **45** | **Ausfluss / pathologische** | 1 | n | 0, 1 | 0=nein |  | 7380 |
-| IVa- | p, IVa- | g, IVb | - | p, IVb | - | g = | Unmittelbare Vorstufen |
-| des Zervixkarzinoms | V- | p, V | - | g, V | - | e, V | - |
-| x = Malig- nome | Die folgenden Werte der | I/II, II, I | - | II, IIw, IIk, IIID, III, | IVa, IVb, V |  |  |
-| **37** | **HPV-Impfung ** 1 | n | 1, 2, 3, 9 | 1=vollständig | 2=unvollständig | 3=keine | 9=unklar |
 
 Seite 84 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung /
 
@@ -5014,65 +2756,18 @@ LÄNGE gebnis vor? Chemotherapie des Geni- tales Chemotherapie des Geni- tales -
 
 ---
 
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
-\| NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE | FORMAT/ BEMERKUNG | KVDT- | LDT- |
 |---|---|---|---|---|---|---|---|
-| **46** | **IUP ** 1 | n | 0, 1 | 0=nein |  | 7382 | |
-| **47** | **Einnahme von Ovulati-** | 1 | n | 0, 1 | 0=nein |  | |
-| 7383 | **48** | **Klinischer Befund** | 1 | n | 0, 1 | 0=unauffällig | |
-| 7384 | **49** |  | **Erläuterungen** | <=240 | a |  | Freitext |
-| 4205  7423 |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-| **46** | **IUP** | 1 | n | 0, 1 | 0=nein |  | |
-| 7382 | **47** | **Einnahme von Ovulati-** | 1 | n | 0, 1 | 0=nein | |
-| 7383 | **48** |  | **Klinischer Befund** | 1 | n | 0, 1 | |
-| 0=unauffällig | 7384 | **49** |  | **Erläuterungen** | <=240 | a | |
-| Freitext | 4205  7423 |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  | |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | **46  IUP ** 1  n  0, 1  0=nein    7382 **47  Einnahme von Ovulati-** 1  n  0, 1  0=nein    7383 **48  Klinischer Befund ** 1  n  0, 1  0=unauffällig |
-| 7384 | **49** | **Erläuterungen** | <=240 | a | Freitext  4205  7423 |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 | **46** | **IUP** | 1 | n | 0, 1 | 0=nein |  | 7382 |
 | **47** | **Einnahme von Ovulati-** | 1 | n | 0, 1 | 0=nein |  | 7383 |
 | **48** | **Klinischer Befund** | 1 | n | 0, 1 | 0=unauffällig |  | 7384 |
 | **49** | **Erläuterungen** | <=240 | a |  | Freitext | 4205 | 7423 |
 
+**MAXIMALE GESAMTLÄNGE**  **560 + TABS**       **TYP 3**
+
 Seite 85 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
-LÄNGE INHALTE onshemmer / sonstige Hormonanwendung MAXIMALE GESAMTLÄNGE  560 + TABS   1=ja 1=ja 1=auffällig
+LÄNGE INHALTE 1=ja onshemmer / sonstige 1=ja Hormonanwendung 1=auffällig
 
 ---
 
@@ -6083,9 +3778,7 @@ Seite 112 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Versio
 
 Abbildung 2: Aufbau des PDF417
 
-und  werden zur Fehlererkennung verwendet, während  für Fehlerkorrektur genutzt werden, wobei 0 1
-
-2 k-1 die Anzahl der Fehlerkorrekturwörter k von dem gewählten Fehlerkorrektur-Level abhängig ist (s. Kapitel  5.2.4).
+0 und 1 werden zur Fehlererkennung verwendet, während 2 k-1 für Fehlerkorrektur genutzt werden, wobei  die Anzahl der Fehlerkorrekturwörter k von dem gewählten Fehlerkorrektur-Level abhängig ist (s. Kapitel  5.2.4).
 
 Abbildung 3: Codeword-Symbol
 
@@ -6131,16 +3824,8 @@ Nach Shift auf BC ist anschließend wieder der vorangegangene TC-Sub-Mode gülti
 Der Byte Compaction (BC) Mode erlaubt die Verschlüsselung von 256 internationalen Zeichen, inkl. der  ASCII-Werte 0-127 (s. Anhang 5.6.3). Im BC-Mode werden 6 Zeichen in 5 PDF417-Codewörter unter Ver-wendung des „Basis 256 zu Basis 900 Konvertierungs siert:
 
 ```
-b *2565+b *2564+b *2563+b *256
-5
-4
-3
-2
-= d *9005+d *9004+d *9003+d *900
-5
-4
-3
-2
+b *2565 5+b *2564 4+b *2563 3+b *2562
+= d *9005 5+d *9004 4+d *9003 3+d *9002
 ```
 
 Wobei bi = dezimaler Wert eines BC-Zeichen; di = Codewort
@@ -6160,13 +3845,10 @@ Seite 114 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Versio
 Algorithmus“ codiert, der auf folgender Gleichung ba-
 
 ```
-2+b *2561
-1
+2+b *2561 1
 2+d *9001
-+b *2560
-0
-1+d *9000
-0
++b *2560 0
+1+d *9000 0
 ```
 
 ---
@@ -6198,24 +3880,21 @@ Berechnung der Summe t aus den dezimalen Werten der 6 Zeichen:
 t = 231*2565+101*2564+11*2563+97*2562+205*2561+2*2560
 = 254421168672002
 Berechnung des Codeworts 0
-d = 254421168672002 mod 900 = 302
-0
+d 0 = 254421168672002 mod 900 = 302
 t = 254421168672002 div 900 = 282690187413
 Berechnung des Codeworts 1
 d = 282690187413 mod 900 = 213
 1
 t = 282690187413 div 900 = 314100208
 Berechnung des Codeworts 2
-d = 314100208 mod 900   = 208
-2
+d 2 = 314100208 mod 900   = 208
 t = 314100208 div 900   = 349000
 Berechnung des Codeworts 3
 d = 349000 mod 900  = 700
 3
 t = 349000 div 900  = 387
 Berechnung des Codeworts 4
-d = 387 mod 900   = 387
-4
+d 4 = 387 mod 900   = 387
 t = 387 div 900   = 0
 Die Codewort Sequenz d ... d ist 387,700,208,213,302 4
 0
@@ -6236,13 +3915,11 @@ Algorithmus:
 
 ```
 - mit einer führenden 1
-- 3. Berechne für jedes Codewort d = d ... d
-- i 0
+- 3. Berechne für jedes Codewort d = d ... di 0
 - n-1
 BEGIN
-d
+d i
 = t mod 900
-i
 t
 = t div 900
 Wenn t = 0 then beende Codierung
@@ -6274,26 +3951,20 @@ d = 1000213298174000 mod 900 0
 = 200
 t = 1000213298174000 div 900 = 1111348109082
 Berechnung des Codeworts 1
-d = 1111348109082 mod 900 1
-= 282
+d 1 = 1111348109082 mod 900  = 282
 t = 1111348109082 div 900  = 1234831232
 Berechnung des Codeworts 2
 d = 1234831232 mod 900 2
 = 632
 t = 1234831232 div 900 = 1372034
 Berechnung des Codeworts 3
-d = 1372034 mod 900
-3
-= 434
+d 3 = 1372034 mod 900  = 434
 t = 1372034 div 900  = 1524
 Berechnung des Codeworts 4
-d = 1524 mod 900
-4
-= 624
+d4 = 1524 mod 900   = 624
 t = 1524 div 900   = 1
 Berechnung des Codeworts 5
-d = 1 mod 900    = 1
-4
+d 4 = 1 mod 900    = 1
 t = 1 div 900    = 0
 Die Codewort Sequenz d ...d ist 1,624,434,632,282,200 5 0
 ```
@@ -6410,11 +4081,9 @@ Tabelle 3: Sicherheits-Level des PDF417
 Das folgende Generator-Polynom wird verwendet, um die Koeffizienten für jeden Fehlerkorrektur-Level zu  bestimmen.
 
 ```
-g (x) =(x-3)(x-32)(x-33) ... (x-3
-k
-x+ x2+ ... xk 1+xk
-k0 k1 k2
-kk 1
+g (x) =(x-3)(x-3k
+2)(x-33) ... (x-3
+k0 k1x+ k2x2+ ... kk 1xk 1+xk
 ```
 
 wobei k = 2s+1
@@ -6424,10 +4093,7 @@ Algorithmus:
 ```
 - 1. Berechne k = 2s+1
 - 2. Berechne g (x)=(x-3)(x-3k
-- 3.
-- x+ x2+...+ xk-1
-- k0 k1 k2
-- kk-1
+- 3. k0 k1x+ k2x2+...+ kk-1xk-1
 ```
 
 Seite 118 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026 2
@@ -6442,12 +4108,9 @@ K
 ---
 
 ```
-- 4. Für
-- ...
-- j 0
--  k-1
+- 4. Für j 0 ... k-1
 BEGIN
-mod 929 j j
+j j mod 929
 END
 ```
 
@@ -6459,9 +4122,9 @@ k= 2s+1 = 4 (Anzahl der Fehlerkorrekturcodewörter)
 g4(x) =(x 3)(x 32)(x 33)(x 34
 = 59049 29160x+3510x2 120x3+x4
 0= 59049 mod 929  = 522
-= -29160 mod 929 = 568 1
-= 3510 mod 929 = 723 2
-= -120 mod 929 = 809 3
+1= -29160 mod 929 = 568
+2= 3510 mod 929 = 723
+3= -120 mod 929 = 809
 ```
 
 Die Koeffizienten für den im Rahmen der Blankoformularbedruckung verwendeten Sicherheitslevel s=4 er-geben sich somit wie folgt:
@@ -6481,39 +4144,27 @@ Tabelle 4: Koeffzienten der Fehlerkorrektur-Codewörter für den Sicherheitsleve
 Die Fehlerkorrektur-Codewörter werden auf der Basis aller Codewörter (inkl. Symbollängendeskriptor und  aller Füll-Codewörter berechnet). Eine Codewort-Sequenz wird über ein Polynom definiert als:
 
 ```
-d(x)=d xn-1+d xn-2+ ... +dx+d
-n-1
-n-2
-1 0
+d(x)=dn-1xn-1+dn-2xn-2+ ... +dx+d 1 0
 ```
 
 Algorithmus:
 
 ```
-- 1. Setze die Datencodewortsequenz d ... d n-1
-- o
+- 1. Setze die Datencodewortsequenz dn-1 ... d o
 - 2. Seien t , t ,t temporäre Variablen; Initialisiere t , t ,t 1 2 3
 - 1 2 3 mit dem Wert 0.
-- 3. Initialisiere ,..., mit dem Wert 0.
-- o
-- k-1
-- 4. Für alle d = d ...d
-- i n-1 0
+- 3. Initialisiere o,..., k-1 mit dem Wert 0.
+- 4. Für alle d = di n-1...d 0
 BEGIN
-t = (d + ) mod 929
-1
-i k-1
-Für alle Fehlerkorrektur-Codewörter ...
-j k-1 1
+t = (d +1
+i k-1) mod 929
+Für alle Fehlerkorrektur-Codewörter j k-1... 1
 BEGIN
-t = (t * ) mod 929
-2
-1 j
+t = (t *2
+1 j) mod 929
 t = 929-t 3
 2
-= ( +t )mod 929
-j
-j-1 3
+j = ( j-1+t )mod 929 3
 ```
 
 Seite 119 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
@@ -6528,12 +4179,13 @@ END
 t = (t *2
 1
 t = 929-t 3
-= t mod 929 0 3
+0 = t mod 929 3
 END
 - 5. Berechene das Komplement für alle
 BEGIN
-if  not 0 j
-= 929j
+if j not 0
+j = 929
+END
 ```
 
 Beispiel5
@@ -6541,29 +4193,26 @@ Beispiel5
 Die im PDF dargestellten Daten werden durch die Codewörter 5,453,178,121,239 repräsentiert, mit einem  vorangehenden Symbollängendeskriptor. Es gibt kein Füllcodewort.
 
 ```
-END
 - 1. n = 5
-d = 5 4
-d  = 453 3
+d 4 = 5
+d 3 = 453
 d  = 178 2
 d  = 121 1
-d  = 239 0
+d 0 = 239
 Sei der Fehlerkorrekturlevel s = 1, dann ist
 k = 2s+1
-,..., 0
+0,...,
 - 2. Initialisiere t
 - 3. Initialisiere
 - 4. t =(d +1 4 3
-t =(t2 1
-t =9293
-+t
-3 2
-t =(t2 1
-t =9293
-+t
-2 1
-t =(t2 1
-t =9293
+t2=(t1
+t3=929
+3 2+t
+t2=(t1
+t3=929
+2 1+t
+t2=(t1
+t3=929
 ```
 
 ________________
@@ -6573,116 +4222,63 @@ ________________
 Seite 120 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
 
 ```
-) mod 929 0
+0) mod 929
 2
 j
 = 4
-= 522,568,723,809 3
-- t mit dem Wert 0
-- 1,..., 3
-- mit dem Wert 0
-- 0,..., 3
+3 = 522,568,723,809
+- 1,...,t mit dem Wert 0 3
+- 0,..., 3 mit dem Wert 0
 - ) mod 929=(5+0) mod 929=5
-) mod 929=(5*809) mod 929=3293
-t =929 329=600
-2
-) mod 929=(0+600) mod 929=6003
-) mod 929=(5*723) mod 929=8282
-t =929 828=101
-2
-) mod 929=(0+101) mod 929=1013
-) mod 929=(5*568) mod 929=531
-t =929 53=876
-2
-- ...
-- j 0
-- k 1
+3) mod 929=(5*809) mod 929=329
+t2=929 329=600
+3) mod 929=(0+600) mod 929=600
+2) mod 929=(5*723) mod 929=828
+t2=929 828=101
+3) mod 929=(0+101) mod 929=101
+1) mod 929=(5*568) mod 929=53
+t2=929 53=876
+- j 0 ... k 1
 ```
 
 ---
 
 ```
-+t ) mod 929=(0+876) mod 929=876
-1 0 3
-t =(t ) mod 929=(5*522) mod 929=752
-2 1 0
-t =929 t =929 752=177
-3
-2
-=t mod 929=177 mod 929=177
-0 3
-t =(d mod 929=(453+600) mod 929=124
-1 3 3
-t =(t ) mod 929=(124*809) mod 929=913
-2 1 3
-t =929 t =929 913=16
-3
-2
-+t ) mod 929=(101+16) mod 929=117
-3 2 3
-t =(t ) mod 929=(124*723) mod 929=468
-2 1 2
-t =929 t =929 468=461
-3
-2
-+t ) mod 929=(876+461) mod 929=408
-2 1 3
-t =(t
-mod 929=(124*568) mod 929=757
-2 1 1
-t =929 t =929 757=172
-3
-2
-+t ) mod 929=(177+172) mod 929=349
-1 0 3
-t =(t ) mod 929=(124*522) mod 929=627
-2 1 0
-t =929 t =929 627=302
-3
-2
-=t mod 929=302 mod 929=302
-0 3
-t =(d ) mod 929=(178+117) mod 929=295
-1 2 3
-t =(t ) mod 929=(295*809) mod 929=831
-2 1 3
-t =929 t =929 831=98
-3
-2
-+t ) mod 929=(408+98) mod 929=506
-3 2 3
-t =(t ) mod 929=(295*723) mod 929=544
-2 1 2
-t =929 t =929 544=385
-3
-2
-+t ) mod 929=(349+385) mod 929=734
-2 1 3
-t =(t ) mod 929=(295*568) mod 929=340
-2 1 1
-t =929 t =929 340=589
-3
-2
-+t ) mod 929=(302+589) mod 929=891
-1 0 3
-t =(t ) mod 929=(295*522) mod 929=705
-2 1 0
-t =929 t =929 752=224
-3
-2
-=t mod 929=224 mod 929=224
-0 3
-t =(d ) mod 929=(121+506) mod 929=627
-1 1 3
-t =(t ) mod 929=(627*809) mod 929=9
-2 1 3
-t =929 t =929 9=920
-3
-2
-+t ) mod 929=(734+920) mod 929=725
-3 2 3
-t =(t ) mod 929=(627*723) mod 929=898
-2 1 2
+1 0+t3) mod 929=(0+876) mod 929=876
+t2=(t1 0) mod 929=(5*522) mod 929=752
+t3=929 t2=929 752=177
+0=t3 mod 929=177 mod 929=177
+t1=(d3 3 mod 929=(453+600) mod 929=124
+t2=(t1 3) mod 929=(124*809) mod 929=913
+t3=929 t2=929 913=16
+3 2+t3) mod 929=(101+16) mod 929=117
+t2=(t1 2) mod 929=(124*723) mod 929=468
+t3=929 t2=929 468=461
+2 1+t3) mod 929=(876+461) mod 929=408
+t2=(t1 1 mod 929=(124*568) mod 929=757
+t3=929 t2=929 757=172
+1 0+t3) mod 929=(177+172) mod 929=349
+t2=(t1 0) mod 929=(124*522) mod 929=627
+t3=929 t2=929 627=302
+0=t3 mod 929=302 mod 929=302
+t1=(d2 3) mod 929=(178+117) mod 929=295
+t2=(t1 3) mod 929=(295*809) mod 929=831
+t3=929 t2=929 831=98
+3 2+t3) mod 929=(408+98) mod 929=506
+t2=(t1 2) mod 929=(295*723) mod 929=544
+t3=929 t2=929 544=385
+2 1+t3) mod 929=(349+385) mod 929=734
+t2=(t1 1) mod 929=(295*568) mod 929=340
+t3=929 t2=929 340=589
+1 0+t3) mod 929=(302+589) mod 929=891
+t2=(t1 0) mod 929=(295*522) mod 929=705
+t3=929 t2=929 752=224
+0=t3 mod 929=224 mod 929=224
+t1=(d1 3) mod 929=(121+506) mod 929=627
+t2=(t1 3) mod 929=(627*809) mod 929=9
+t3=929 t2=929 9=920
+3 2+t3) mod 929=(734+920) mod 929=725
+t2=(t1 2) mod 929=(627*723) mod 929=898
 ```
 
 Seite 121 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
@@ -6711,22 +4307,12 @@ t3=929 t2=929 371=558
 t2=(t1 0) mod 929=(35*522) mod 929=619
 t =929-t =929-619=310 3
 2
-=t mod 929=310 mod 929=310
-0 3
-- 5. Berechnung des Komplements
-- 0,..., 3
-= 929 - = 929 - 477 = 452
-3
-3
-= 929 - = 929 - 602 = 327
-2
-2
-= 929 - = 929 - 272 = 657
-1
-1
-= 929 - = 929 - 310 = 619
-0
-0
+0=t3 mod 929=310 mod 929=310
+- 5. Berechnung des Komplements 0,..., 3
+3 = 929 - 3= 929 - 477 = 452
+2 = 929 - 2= 929 - 602 = 327
+1 = 929 - 1= 929 - 272 = 657
+0 = 929 - 0= 929 - 310 = 619
 ```
 
 ## 5.3 PDF417 IN DER BLANKOFORMULARBEDRUCKUNG

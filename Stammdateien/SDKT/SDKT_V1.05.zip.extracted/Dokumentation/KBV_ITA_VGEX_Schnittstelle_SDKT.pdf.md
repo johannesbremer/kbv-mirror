@@ -342,9 +342,7 @@ Seite 10 von 60
 
 ### Das Element header dient der Aufnahme von Metainformationen zum Datenaustausch, wie
 
-beispielsweise Erzeuger und Empfänger der Datei, Gültigkeitszeitraum der enthaltenen Daten,
-
-zugrundeliegende Schnittstellenversion.
+beispielsweise Erzeuger und Empfänger der Datei, Gültigkeitszeitraum der enthaltenen Daten,  zugrundeliegende Schnittstellenversion.
 
 | *diagram* | ** |
 |---|---|
@@ -492,7 +490,9 @@ Das id-Element wird genauso gebildet wie das Dokument-ID, mit dem Unterschied, d
 
 ### GUID angegeben werden muss.
 
-**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+**KBV_ITA_VGEX_Schnittstelle_SDKT**
+
+* Version 1.05
 
 ***<interface>*** wird auf
 
@@ -512,7 +512,9 @@ Seite 15 von 60
 
 #### 2.1.6.2 Element interface.nm
 
-Das Element ***<interface.nm>*** entsprechenden Schnittstellenbezeichnung steht.
+### Das Element <interface.nm>
+
+entsprechenden Schnittstellenbezeichnung steht.
 
 | *diagram* | ** |
 |---|---|
@@ -612,7 +614,9 @@ Seite 18 von 60
 
 ### 2.3.2 Element key
 
-Eine Schlüsseltabelle enthält mehrere Schlüsseln ( buten eingetragen.
+### Eine Schlüsseltabelle enthält mehrere Schlüsseln (
+
+buten eingetragen.
 
 | *diagram* | ** |
 |---|---|
@@ -731,14 +735,12 @@ Beschreibung: Das Element gueltigkeit enthält das Gültigkeitsdatum der Kassenn
 1. z.B.: 2006-10-01.. für nicht beendete oder fusionierte Kassen
 2. z.B.: 1990-10-01..2006-09-30 für eine beendete oder fusionierte Kasse
 
-Alte Feldbezeichnung: Feldkennung KK-OFF-DATUM-Z8 (DA 100, 105, 900, 905), entspricht Feldkennung 146)
+Alte Feldbezeichnung: Feldkennung KK-OFF-DATUM-Z8 und eventuell KK-REWI-DATUM-X8  (DA 100, 105, 900, 905), entspricht Feldkennung 2025 und 2026 (DA 145), service_tmr (DA 146)
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****zeitraum_typ ****required   ***** |
-
-und eventuell KK-REWI-DATUM-X8  2025 und 2026 (DA 145), service_tmr (DA
 
 **Tabelle 21: Element gueltigkeit**
 
@@ -1087,9 +1089,9 @@ Alte Feldbezeichnung: Feldkennung
 
 **KBV_ITA_VGEX_Schnittstelle_SDKT**
 
-ik enthält ein gültiges Institutionskennzeichen 2003 (DA 145), ik
+ik enthält ein gültiges Institutionskennzeichen 2003 (DA 145), ik (DA 146)
 
-* Version 1.05 (DA 146)
+* Version 1.05
 
 der Kassennum-
 
@@ -1169,11 +1171,13 @@ xs:string = Auflösung Seite 32 von 60
 
 ---
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
+
 #### 3.1.9.1 Element letztes_quartal
 
 Frühere Datenart: 100, 105, 900, 905
 
-Beschreibung: Das Element letztes_quartal Kassennummer an. Es muss das Format YYYYQ haben.  gibt das letzte Abrechnungsquartal dieser
+Beschreibung: Das Element letztes_quartal gibt das letzte Abrechnungsquartal dieser  Kassennummer an. Es muss das Format YYYYQ haben.
 
 Alte Feldbezeichnung: Feldkennung ABR-QRT
 
@@ -1191,9 +1195,7 @@ Frühere Datenart: 100, 105, 900, 905, 145, 146
 
 Beschreibung: Das Element aufnehmender_kostentraeger sich um eine Fusion handelt. In diesem Fall enthält das Element die Kassennummer in welche  die Kasse fusioniert ist.
 
-ist nur vorhanden, wenn es
-
-Alte Feldbezeichnung: Feldkennung AUFN-KK-VKNR 2028 (DA 145), aufnehmender_kostentraeger (DA 100, 105, 900, 905), Feldkennung  (DA 146)
+Alte Feldbezeichnung: Feldkennung AUFN-KK-VKNR 2028 (DA 145), aufnehmender_kostentraeger
 
 Prüfung: Die angegebene Kassennummer muss in der Kostenträgerliste vorhanden sein.
 
@@ -1205,9 +1207,11 @@ Prüfung: Die angegebene Kassennummer muss in der Kostenträgerliste vorhanden s
 
 **Tabelle 39: Element aufnehmender_kostentraeger**
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKT (Kostenträger-Stammdatei)
-
 **KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
+
+(DA 100, 105, 900, 905), Feldkennung  (DA 146)
+
+ist nur vorhanden, wenn es
 
 xs:string mat: YYYYQ) Seite 33 von 60
 
@@ -1242,7 +1246,7 @@ Seite 34 von 60
 
 Frühere Datenart: 100, 105, 900, 905, 145, 146
 
-Beschreibung: Im R-Attribut des Elements  resse um eine Postanschrift (Wert vom R-R-Attribut „postfach“) handelt. In den Kindelementen sind die
+Beschreibung: Im R-Attribut des Elements adresse wird angegeben ob es sich bei der Ad-resse um eine Postanschrift (Wert vom R-Attribut „anschrift R-Attribut „postfach“) handelt. In den Kindelementen sind die
 
 enthalten.
 
@@ -1255,8 +1259,6 @@ Prüfung: Das Element adresse muss mindestens einmal und kann maximal zweimal au
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  R   ****derived by: ****required   ********documentati- Art der Adres-***** |
 | ***annotation*** | ***documentation  CTY = ORT-X30; STR = STR-X30; PLZ = PLZ_ORT (Hausanschrift)  documentation  CTY = Ort-Postfach; PBO = POSTFACH; PLZ = PLZ_Postfach (Postfachan-***** |
-
-adresse wird angegeben ob es sich bei der Ad-Attribut „anschrift
 
 **Tabelle 41: Element adresse**
 
@@ -1791,11 +1793,9 @@ Alte Feldbezeichnung: Feldkennung
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:string ****required   ********documentati- KZ_WOP  documentati- WOP-********S   ****derived by: ****optional   ***** |
 | ***annotation*** | ***documentation  WOP - Wohnortprin-***** |
 
-**Tabelle 63: Element**
+**Tabelle 63: Element wop**
 
 **KBV_ITA_VGEX_Schnittstelle_SDKT**
-
-**wop**
 
 wop enthält im V-Attribut ein
 
@@ -2068,11 +2068,9 @@ Seite 54 von 60
 
 Frühere Datenart: 145, 146
 
-Beschreibung: Das Element
+Beschreibung: Das Element gebuehrenordnung enthält kodiert die für die Kasse anzuwen-dende Gebührenordnung.
 
-dende Gebührenordnung.
-
-Alte Feldbezeichnung: Feldkennung
+Alte Feldbezeichnung: Feldkennung 2006 (DA 145), gebuehrenordnung (DA 146)
 
 Prüfung: Der Wert muss laut Schlüsseltabelle S_KBV_GEBUEHRENORDNUNG korrekt sein.
 
@@ -2080,16 +2078,6 @@ Prüfung: Der Wert muss laut Schlüsseltabelle S_KBV_GEBUEHRENORDNUNG korrekt se
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****derived by: ****required   ********S   ****derived by: ****optional   ***** |
-
-```
-gebuehrenordnung
-```
-
-2006 (DA 145),
-
-enthält kodiert die für die Kasse anzuwen-
-
-gebuehrenordnung (DA 146)
 
 **Tabelle 72: Element gebuehrenordnung**
 
@@ -2124,19 +2112,14 @@ xs:string xs:string Seite 55 von 60
 
 Frühere Datenart: 145, 146
 
-Beschreibung: Das Element kt_abrechnungsbereich oder gesetzliche Bestimmung an, aufgrund dessen die Abrechnung vollzogen werden soll.
+Beschreibung: Das Element kt_abrechnungsbereich gibt die vertragliche Vereinbarung  oder gesetzliche Bestimmung an, aufgrund dessen die Abrechnung vollzogen werden soll.
 
-Alte Feldbezeichnung: Feldkennung 2008 (DA 145),  reich_liste (DA 146)
+Alte Feldbezeichnung: Feldkennung 2008 (DA 145), KostentraegerAbrechnungsbe-reich_liste (DA 146)
 
 | *diagram* | ** |
 |---|---|
 | ***namespace*** | ***urn:ehd/kts/001*** |
 | ***attributes*** | ***Name    Type    Use    Default    Fixed    Annotation  V   ****xs:string ****required   ********S   ****derived by: ****optional   ***** |
-
-gibt die vertragliche Vereinbarung
-
-```
-KostentraegerAbrechnungsbe```
 
 **Tabelle 74: Element kt_abrechnungsbereich**
 
@@ -2234,9 +2217,9 @@ Seite 57 von 60
 
 Frühere Datenart: 145, 146
 
-Beschreibung: Darf ein Kostenträger nicht bundesweit, sondern lediglich in einem (oder meh-reren) KV-Gebieten abgerechnet werden, dann wird bei einem solchen Kostenträger der  “nicht zulässige KV Geltungsbereich” im Element  geben. Dies kann vor allem im Bereich der Sonstigen Kostenträger (SKT) vorkommen.
+Beschreibung: Darf ein Kostenträger nicht bundesweit, sondern lediglich in einem (oder meh-reren) KV-Gebieten abgerechnet werden, dann wird bei einem solchen Kostenträger der  “nicht zulässige KV Geltungsbereich” im Element unz_kv_geltungsbereich geben. Dies kann vor allem im Bereich der Sonstigen Kostenträger (SKT) vorkommen.
 
-Alte Feldbezeichnung: Feldkennung 2029 (DA 145),
+Alte Feldbezeichnung: Feldkennung 2029 (DA 145), unz_kv_geltungsbereich
 
 | *diagram* | ** |
 |---|---|
@@ -2245,16 +2228,11 @@ Alte Feldbezeichnung: Feldkennung 2029 (DA 145),
 
 **Tabelle 78: Element unz_kv_geltungsbereich**
 
-**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
-
-```
-unz_kv_geltungsbereich
-unz_kv_geltungsbereich
-```
-
 explizit ange-
 
 (DA 146)
+
+**KBV_ITA_VGEX_Schnittstelle_SDKT** * Version 1.05
 
 xs:string Seite 58 von 60
 

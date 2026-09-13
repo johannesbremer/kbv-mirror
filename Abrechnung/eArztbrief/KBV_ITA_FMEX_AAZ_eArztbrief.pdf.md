@@ -95,15 +95,17 @@ Bitte geben Sie die Bezeichnung und Identnummer (falls vorhanden) des Zertifizie
 
 Bitte geben Sie im Folgenden an, welche Client-Betriebssysteme unterstützt werden.
 
-| Windows☐ | ☐ | Mac OS | Linux☐ |
+| Windows | ☐ | Mac OS | ☐ |
 |---|---|---|---|
-| iOS/Android☐ |  | Sonstige☐ | |
+| iOS/Android | ☐ | Sonstige | |
 
 2 REALISIERUNG VON ANFORDERUNGEN
 
-Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges   [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief] für die Übermittlung von elektronischen Briefen  erfüllt sind.
+Der Antragsteller versichert, dass alle Pflichtfunktionen des Anforderungskataloges  [KBV_ITA_VGEX_Anforderungskatalog_eArztbrief] für die Übermittlung von elektronischen Briefen  erfüllt sind.
 
 Seite 3 von 7 / KBV / Antrag auf Zertifizierung eArztbrief / Version: 3.2 / 15. Mai 2024
+
+Linux
 
 
 ---

@@ -41,7 +41,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT Seite 1 von 1
 | 2.3 | Root-Schema | 5 |
 | 2.4 | Dateinamen | 5 |
 | 2.5 | Semantik der verwendeten Diagrammsymbole | 6 |
-|  | 2.5.1 Kardinalitä t | 6 |
+|  | 2.5.1 Kardinalität | 6 |
 |  | 2.5.2 Strukturelemente | 6 |
 |  | 2.5.3 Sonstige Symbole | 7 |
 
@@ -83,7 +83,7 @@ BUNDESVEREINIGUNG IT IN DER ARZTPRAXIS  DOKUMENTENSTATUS: IN KRAFT Seite 1 von 1
 
 **15**
 
-Kardinalität Seite 2 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+Seite 2 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -198,7 +198,7 @@ Tabelle 1: Beschreibung der Kardinalitäten eines XML-Elements
 
 Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: ***<xs:choice>*** ***<xs:sequence>***
 
-Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. wird die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis reichen.  (unbounded) Seite 6 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
+Linie dargestellt. Es kann keinmal oder einmal vorkommen. dargestellt sind, müssen genau einmal vorkommen. wird die erlaubte Anzahl rechts unter dem Symbol dargestellt. Die Werte können von 0 bis  (unbounded) reichen. Seite 6 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
 
 
 ---
@@ -407,6 +407,8 @@ Der XML-Code für ein
 **</hybrid_drg>**
 ```
 
+***<hybrid_drg>*** Element hat folgenden Aufbau:
+
 XML-Code 6: hybrid_drg
 
 #### 5.3.1.1 name
@@ -414,8 +416,6 @@ XML-Code 6: hybrid_drg
 Das Element ***<name>*** enthält den Namen der Hybrid-DRG bzw. (in runden Klammern) die Kurzdefinition der  zugrunde liegenden Ursprungs-DRG des stationären DRG-Systems. Im V-Attribut ist der entsprechende Text  enthalten.
 
 Seite 11 von 15 / KBV / Schnittstellenbeschreibung SDHDRG (Hybrid-DRG) / 14. November 2025
-
-***<hybrid_drg>*** Element hat folgenden Aufbau:
 
 
 ---

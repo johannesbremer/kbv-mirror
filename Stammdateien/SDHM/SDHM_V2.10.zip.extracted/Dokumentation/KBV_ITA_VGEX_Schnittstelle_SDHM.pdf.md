@@ -91,24 +91,57 @@ Seite 3 von 37
 
 ---
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+| IT in der Arztpraxis |  |
+|---|---|
+| Schnittstellenbeschreibung SDHM (Heilmittelstammdatei) |  |
+| **5.8 leitsymptomatik** | **........................................................................................................................... 19** |
+| **5.9 erlaeuterung_liste** | **....................................................................................................................... 20** |
+| 5.9.1 erlaeuterung......................................................................................................................... | 20 |
+| **5.10 patientenindividuelle_leitsymptomatik.....................................................................................** | **20** |
+| **5.11 heilmittelverordnung...................................................................................................................** | **21** |
+| 5.11.1 vorrangiges_heilmittel_liste | ............................................................................................. 21 |
+| *5.11.1.1* | *vorrangiges_heilmittel........................................................................................... 22* |
+| *5.11.1.2* | *name..................................................................................................................... 23* |
+| *5.11.1.3* | *positionsnr_liste.................................................................................................... 23* |
+| *5.11.1.4* | *massagetechnik.................................................................................................... 24* |
+| *5.11.1.5 reihenfolge* | *............................................................................................................ 24* |
+| *5.11.1.6* | *erforderliche_leitsymptomatik............................................................................... 24* |
+| *5.11.1.7 mindestalter_jahre* | *................................................................................................ 25* |
+| *5.11.1.8 hoechstalter_jahre* | *................................................................................................ 25* |
+| *5.11.1.9 erforderliche_diagnosen* | *....................................................................................... 25* |
+| 5.11.2 ergaenzendes_heilmittel_liste | ......................................................................................... 26 |
+| *5.11.2.1* | *ergaenzendes_heilmittel....................................................................................... 26* |
+| *5.11.2.2* | *name..................................................................................................................... 27* |
+| *5.11.2.3 reihenfolge* | *............................................................................................................ 27* |
+| *5.11.2.4* | *positionsnr_liste.................................................................................................... 27* |
+| *5.11.2.5* | *massagetechnik.................................................................................................... 27* |
+| 5.11.3 standardisierte_heilmittel_kombination | ........................................................................... 27 |
+| *5.11.3.1* | *name..................................................................................................................... 28* |
+| *5.11.3.2* | *positionsnr_liste.................................................................................................... 28* |
+| 5.11.4 | frequenzempfehlung_liste................................................................................................ 28 |
+| *5.11.4.1* | *frequenzempfehlung............................................................................................. 28* |
+| *5.11.4.2 frequenzempfehlungstyp* | *...................................................................................... 29* |
+| *5.11.4.3* | *minimale_anzahl................................................................................................... 30* |
+| *5.11.4.4* | *maximale_anzahl.................................................................................................. 30* |
+| *5.11.4.5* | *richtlinie................................................................................................................. 30* |
+| 5.11.5 | verordnungsmenge.......................................................................................................... 31 |
+| 5.11.6 | hoechstmenge_verordnung............................................................................................. 31 |
+| 5.11.7 orientierende_behandlungsmenge | .................................................................................. 31 |
+| *5.11.7.1 orientierende_behandlungsmenge_hoechstalter* | *................................................. 32* |
+| *5.11.7.2 hoechstalter_jahre* | *................................................................................................ 33* |
+| *5.11.7.3 orientierende_behandlungsmenge_icd_code* | *...................................................... 33* |
+| *5.11.7.4* | *icd_code_liste....................................................................................................... 34* |
+| 5.11.8 orientierende_behandlungsmenge_standardisiert | .......................................................... 35 |
+| 5.11.9 orientierende_behandlungsmenge_massage | ................................................................. 35 |
+| **5.12 erforderliche_diagnosen** | **............................................................................................................ 35** |
+| **6 REFERENZIERTE DOKUMENTE** | **37** |
+| KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10 | Seite 4 von 37 |
 
-**5.8** **leitsymptomatik ........................................................................................................................... 19**
+*erforderliche_leitsymptomatik*
 
-**5.9 erlaeuterung_liste ....................................................................................................................... 20** 5.9.1 erlaeuterung ......................................................................................................................... 20
+*minimale_anzahl* *maximale_anzahl* *richtlinie*
 
-**5.10 patientenindividuelle_leitsymptomatik ..................................................................................... 20**
-
-**5.11 heilmittelverordnung ................................................................................................................... 21** 5.11.1 vorrangiges_heilmittel_liste ............................................................................................. 21 *5.11.1.1 vorrangiges_heilmittel ........................................................................................... 22* *5.11.1.2 name ..................................................................................................................... 23* *5.11.1.3 positionsnr_liste .................................................................................................... 23* *5.11.1.4 massagetechnik .................................................................................................... 24* *5.11.1.5 reihenfolge ............................................................................................................ 24* *5.11.1.6 erforderliche_leitsymptomatik* *............................................................................... 24* *5.11.1.7 mindestalter_jahre* *................................................................................................ 25* *5.11.1.8 hoechstalter_jahre* *................................................................................................ 25* *5.11.1.9 erforderliche_diagnosen ....................................................................................... 25* 5.11.2 ergaenzendes_heilmittel_liste ......................................................................................... 26 *5.11.2.1 ergaenzendes_heilmittel ....................................................................................... 26* *5.11.2.2 name ..................................................................................................................... 27* *5.11.2.3 reihenfolge ............................................................................................................ 27* *5.11.2.4 positionsnr_liste .................................................................................................... 27* *5.11.2.5 massagetechnik .................................................................................................... 27* 5.11.3 standardisierte_heilmittel_kombination ........................................................................... 27 *5.11.3.1 name ..................................................................................................................... 28* *5.11.3.2 positionsnr_liste .................................................................................................... 28* 5.11.4 frequenzempfehlung_liste ................................................................................................ 28 *5.11.4.1 frequenzempfehlung ............................................................................................. 28* *5.11.4.2 frequenzempfehlungstyp* *...................................................................................... 29* *5.11.4.3 minimale_anzahl* *................................................................................................... 30* *5.11.4.4 maximale_anzahl* *.................................................................................................. 30* *5.11.4.5 richtlinie* *................................................................................................................. 30* 5.11.5 verordnungsmenge .......................................................................................................... 31 5.11.6 hoechstmenge_verordnung ............................................................................................. 31 5.11.7 orientierende_behandlungsmenge .................................................................................. 31 *5.11.7.1 orientierende_behandlungsmenge_hoechstalter ................................................. 32* *5.11.7.2 hoechstalter_jahre* *................................................................................................ 33* *5.11.7.3 orientierende_behandlungsmenge_icd_code ...................................................... 33* *5.11.7.4 icd_code_liste ....................................................................................................... 34* 5.11.8 orientierende_behandlungsmenge_standardisiert .......................................................... 35 5.11.9 orientierende_behandlungsmenge_massage ................................................................. 35
-
-**5.12 erforderliche_diagnosen ............................................................................................................ 35** **6 REFERENZIERTE DOKUMENTE**
-
-**37**
-
-KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
-
-Seite 4 von 37
-
+erlaeuterung_liste ....................................................................................................................... 20 ......................................................................................................................... 20 ................................................................................................................... 21 vorrangiges_heilmittel_liste ............................................................................................. 21 ergaenzendes_heilmittel_liste ......................................................................................... 26 standardisierte_heilmittel_kombination ........................................................................... 27 orientierende_behandlungsmenge_icd_code ...................................................... 33 orientierende_behandlungsmenge_standardisiert .......................................................... 35 orientierende_behandlungsmenge_massage ................................................................. 35 erforderliche_diagnosen ............................................................................................................ 35
 
 ---
 
@@ -430,13 +463,17 @@ Seite 10 von 37
 
 ---
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
+
 tf+..………… timeframe (YYYYqQ)
 
 YYYY ........ Jahr
 
 Q ………… Quartal
 
-nr+ ............ number  optional Nummer der Lieferung, falls zu einem Zeitraum mehrere  Lieferungen erfolgen
+nr+ ............ number  optional Nummer der Lieferung, falls zu einem Zeitraum mehrere
+
+Lieferungen erfolgen
 
 du+ ............ dummy  optionaler Platzhalter z.B. für Tests, kann auch mehrmals verwendet  werden
 
@@ -460,11 +497,9 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1:** Beschreibung der Kardinalitäten eines XML-Elements
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDHM (Heilmittelstammdatei)
-
 KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
 
-chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis bounded) reichen.  (un-Seite 11 von 37
+chelter Linie dargestellt. Es kann keinmal oder einmal vorkommen. Linie dargestellt sind, müssen genau einmal vorkom- men. nen, wird die erlaubte Anzahl rechts unter dem Sym- bol dargestellt. Die Werte können von 0 bis  (un- bounded) reichen. Seite 11 von 37
 
 
 ---
@@ -856,11 +891,9 @@ Seite 19 von 37
 
 Das Element <erlaeuterung_liste> enthält mindestens ein Element oder mehrere Elemente  <erlaeuterung>.
 
-**Abbildung 12:**
+**Abbildung 12:** erlaeuterung_liste
 
 Der XML-Code für ein <erlaeuterung_liste> Element hat folgenden Aufbau:
-
-erlaeuterung_liste
 
 **<erlaeuterung_liste>**
 
@@ -1241,15 +1274,13 @@ Der XML-Code für ein <ergaenzendes_heilmittel> Element hat folgenden Aufbau
 |  | **<massagetechnik** | **V="..."/>** |
 |  |  | **</ergaenzendes_heilmittel>** |
 
-**<name**
+**V="Elektrotherapie"/>**
 
-**<reihenfolge**
+**V="1"/>**
 
-**<positionsnr_liste>**
+**V="..."/>**
 
-**<positionsnr**
-
-**</positionsnr_liste>**
+**V="..."/>**
 
 **XML-Code 27:** ergaenzendes_heilmittel
 
@@ -1524,9 +1555,15 @@ Der XML-Code für ein <orientierende_behandlungsmenge> Element hat folgenden Auf
 | **<icd_code_liste/>** |  |  |  |
 |  | **</orientierende_behandlungsmenge>** | |  |
 
-**<orientierende_behandlungsmenge_hoechstalter**
+**V="40"/>**
 
-**<orientierende_behandlungsmenge_icd_code**
+**V="60"/>**
+
+**V="17"/>**
+
+**V="18">**
+
+**V="50"/>**
 
 **XML-Code 37:** orientierende_behandlungsmenge
 
@@ -1549,17 +1586,15 @@ Seite 32 von 37
 
 Der XML-Code für ein <orientierende_behandlungs den Aufbau:
 
-**<orientierende_behandlungsmenge_hoechstalter**
+menge_hoechstalter> Element hat folgen-
+
+**<orientierende_behandlungsmenge_hoechstalter V="60"/>**
 
 **XML-Code 38:** orientierende_behandlungsmenge_hoechstalter
 
 #### 5.11.7.2 hoechstalter_jahre
 
 Das Element <hoechstalter_jahre> definiert ein Höchstalter für die Verordnungsfähigkeit der  im Element <orientierende_behandlungsmenge_hoechstalter> definierten orientierende Ver-ordnungsmenge innerhalb des Verordnungsfalls. Im V-Attribute ist das Höchstalter in Jahren  laut Heilmittelkatalog enthalten.
-
-menge_hoechstalter> Element hat folgen-
-
-**V="60"/>**
 
 **Abbildung 39:** hoechstalter_jahre
 
@@ -1581,11 +1616,11 @@ Der XML-Code für ein <orientierende_behandlungsmenge_icd_code> Element hat folg
 
 **XML-Code 40:** orientierende_behandlungsmenge_icd_code
 
-KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
-
 _icd_code
 
 **V="50"/>**
+
+KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
 
 Seite 33 von 37
 
@@ -1704,6 +1739,8 @@ Der XML-Code für ein <erforderliche_diagnosen> Element hat folgenden Aufbau:
 |---|---|---|
 |  | **5.12.1.1.1** | **icd_code** |
 | Siehe | Abschnitt | 5.11.7.4.1 icd_code. |
+
+icd_code
 
 KBV_ITA_VGEX_Schnittstelle_SDHM * Version 2.10
 

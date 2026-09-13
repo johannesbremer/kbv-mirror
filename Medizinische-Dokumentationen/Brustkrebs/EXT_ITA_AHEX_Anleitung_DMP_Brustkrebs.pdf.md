@@ -171,9 +171,7 @@ Abhängig davon, welche Diagnose zur Einschreibung der Patientin in das Programm
 
 Der Abschnitt 6 Sonstige Befunde sowie 8 (Datum) sind davon unabhängig immer auszufüllen.
 
-## krebses
-
-## 1.1 Einschreibung auf Grund eines Primärtumors oder eines kontralateralen Brust-
+## 1.1 Einschreibung auf Grund eines Primärtumors oder eines kontralateralen Brust- krebses
 
 # (Dokumentationsfeld 10 und 11)
 
@@ -421,7 +419,7 @@ Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 10
 
 ---
 
-Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 11
 
 # 5 Befunde und Therapie von Fernmetastasen
 
@@ -439,20 +437,16 @@ Geben Sie bitte den Lokalisationsort der Fernmetastase an. Hierbei können alle 
 
 # (Dokumentationsfeld 25)
 
-Eine Angabe ist nur dann erforderlich und zulässig, sofern in Ziffer 5 dies nicht der Fall, können die Angaben zu dieser Ziffer frei bleiben.
+Eine Angabe ist nur dann erforderlich und zulässig, sofern in Ziffer 5.1 die Angabe „Knochen“ dokumentiert ist. Ist  dies nicht der Fall, können die Angaben zu dieser Ziffer frei bleiben.
 
 Bitte machen Sie jeweils eine Angabe zu
 
 - a) Bisphosphonaten und
 - b) Denosumab
 
-Die Angabe „Nein kann jeweils gleichzeitig mit Kontraindikation
+Die Angabe „Nein kann jeweils gleichzeitig mit Kontraindikation angegeben werden.
 
-*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 11
-
-## .1 die Angabe „Knochen“ dokumentiert ist. Ist
-
-angegeben werden.
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---
@@ -503,15 +497,11 @@ Ist Ihnen nicht bekannt, ob eine solche Therapie bisher bei ihrer Patientin durc
 
 Eine Angabe ist erforderlich.
 
-Bitte geben Sie die Körpergröße in Meter (m) mit zwei Stellen hinter dem Komma
+Bitte geben Sie die Körpergröße in Meter (m) mit zwei Stellen hinter dem Komma an.
 
-Ist die Körpergröße, z.B. auf Grund
+Ist die Körpergröße, z.B. auf Grund einer Beinamputation, nicht zu erheben, ist „0“ einzutragen.
 
 ## 6.5 Körpergewicht
-
-an.
-
-einer Beinamputation, nicht zu erheben, ist „0“ einzutragen.
 
 # (Dokumentationsfeld 30
 
@@ -560,11 +550,9 @@ Bitte beachten Sie, dass die Dokumentationen regelmäßig erstellt werden müsse
 
 ## 8.1 Datum der Erstellung
 
-Für die Einschreibung der Patientin in ein strukturiertes Behandlungsprogramm ist das  an dem die Dokumentation** vollständig ausgefüllt** wurde. Daher müssen Sie das Datum eintragen. Die  Dokumentation muss **innerhalb von 10 Tagen nach Ablauf des Dokumentationszeitraumes**  vertraglich vereinbarte Datenstelle übermittelt werden.
+Für die Einschreibung der Patientin in ein strukturiertes Behandlungsprogramm ist das **Datum relevant** an dem die Dokumentation** vollständig ausgefüllt** wurde. Daher müssen Sie das Datum eintragen. Die  Dokumentation muss **innerhalb von 10 Tagen nach Ablauf des Dokumentationszeitraumes** an die  vertraglich vereinbarte Datenstelle übermittelt werden.
 
 *Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
-
-**Datum relevant** an die
 
 
 ---
@@ -773,19 +761,19 @@ Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 19
 
 ---
 
-Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 20
 
-Sollten seit der letzten Dokumentation keine Fernmetastasen aufgetreten sein, geben Sie bitte „ an.
+Sollten seit der letzten Dokumentation keine Fernmetastasen aufgetreten sein, geben Sie bitte „**Nein** an.
 
 ## 3.4 Bioptische Sicherung der viszeralen Metastasen
 
 # (Dokumentationsfeld 18)
 
-Eine Angabe ist nur dann erforderlich, sofern in Ziffer 3.3 mindestens  dies nicht der Fall, müssen die Angaben zu dieser Ziffer frei bleiben. Nur eine Angabe ist möglich.
+Eine Angabe ist nur dann erforderlich, sofern in Ziffer 3.3 mindestens die Angabe „Viszeral“ dokumentiert ist. Ist  dies nicht der Fall, müssen die Angaben zu dieser Ziffer frei bleiben. Nur eine Angabe ist möglich.
 
 Erstmals aufgetretene Fernmetastasen, insbesondere viszerale Fernmetastasen sollen, wann immer  möglich und therapierelevant, zur (erneuten) Bestimmung des Hormonrezeptorstatus und HER-2-Sta-tus histologisch gesichert werden. Im weiteren Verlauf der Erkrankung kann eine nochmalige histologi-sche Sicherung sinnvoll sein.
 
-Geben Sie bitte an, ob eine bioptische Sicherung der viszeralen Metastasen erfolgt ist. Sollte eine Bi-opsie geplant aber zum Zeitpunkt der Dokumentation noch nicht erfolgt sein, g an.
+Geben Sie bitte an, ob eine bioptische Sicherung der viszeralen Metastasen erfolgt ist. Sollte eine Bi-opsie geplant aber zum Zeitpunkt der Dokumentation noch nicht erfolgt sein, geben Sie bitte „Geplant“  an.
 
 ***3.5 Symptomatisches Lymphödem (entspricht Ziffer 7.1 der Erstdokumentation)***
 
@@ -797,13 +785,7 @@ Geben Sie bitte an, ob bei Ihrer Patientin aktuell ein symptomatisches Lymphöde
 
 Liegt kein symptomatisches Lymphödem vor, geben Sie bitte „Nein“ an.
 
-*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 20
-
-**Nein**
-
-die Angabe „Viszeral“ dokumentiert ist. Ist
-
-eben Sie bitte „Geplant“
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---
@@ -865,36 +847,30 @@ Ist das Körpergewicht, z.B. auf Grund einer Beinamputation, nicht zu erheben, i
 
 ---
 
-Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024
+Bearbeitungshinweis zur Dokumentation Brustkrebs Version 4, Stand .06.05.2024 22
 
 # 5 Behandlung bei fortgeschrittener Erkrankung (lokoregionäres Rezidiv /  Fernmetastasen)
 
 # (Dokumentationsfelde 24)
 
-**Eine Angabe zu diesem Abschnitt ist nur dann erforderlich und zulässig, wenn die Einschrei-** **bung der Patientin auf Grund des Vorliegens von Knochenmetastasen erfolgt ist oder eine sol-** **che Diagnose bei einer der letzten Dokumentationen festgestellt wurde und Sie dies in Abschnitt**  **1 („Einschreibung erfolgte** **wegen“) bzw. 3 („Seit der letzten Dokumentation neu aufgetretene**  **Ereignisse“) entsprechend dokumentiert haben**
+**Eine Angabe zu diesem Abschnitt ist nur dann erforderlich und zulässig, wenn die Einschrei-** **bung der Patientin auf Grund des Vorliegens von Knochenmetastasen erfolgt ist oder eine sol-** **che Diagnose bei einer der letzten Dokumentationen festgestellt wurde und Sie dies in Abschnitt**  **1 („Einschreibung erfolgte** **wegen“) bzw. 3 („Seit der letzten Dokumentation neu aufgetretene**  **Ereignisse“) entsprechend dokumentiert haben (bei aktueller oder früherer Dokumentation).**
 
 ## 5.1 Therapie bei Knochenmetastasen
 
 # (Dokumentationsfeld 24)
 
-Eine Angabe ist nur dann erforderlich, sofern bei der aktuellen oder einer vorangegangenen Dokumen-tation in Ziffer 3.3 die Angabe „Knochen“ dokumentiert  Knochenmetasten erfolgt ist. Ist dies nicht der Fall, müssen die Angaben zu dieser Ziffer frei bleiben.
+Eine Angabe ist nur dann erforderlich, sofern bei der aktuellen oder einer vorangegangenen Dokumen-tation in Ziffer 3.3 die Angabe „Knochen“ dokumentiert wurde oder aber die Einschreibung aufgrund von  Knochenmetasten erfolgt ist. Ist dies nicht der Fall, müssen die Angaben zu dieser Ziffer frei bleiben.
 
 Bitte machen Sie jeweils eine Angabe zu
 
 - c) Bisphosphonaten und
 - d) Denosumab
 
-Die Angabe „Nein kann jeweils gleichzeitig mit Kontraindikation
+Die Angabe „Nein kann jeweils gleichzeitig mit Kontraindikation angegeben werden.
 
 ##
 
-*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL 22
-
-**(bei aktueller oder früherer Dokumentation).**
-
-wurde oder aber die Einschreibung aufgrund von
-
-angegeben werden.
+*Die Angaben zu den Dokumentationsfeldern bezieht sich auf die Feldnummerierung in der Anlage 4 der DMP-A-RL
 
 
 ---

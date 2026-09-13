@@ -135,9 +135,9 @@ Geprüft wird vertragskonformes Funktionieren des Dokumentationsprogramms im Sin
 
 Erläuterung der Funktionsdarstellung
 
-|  | |
-|---|---|
-| Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt die |  |
+Die in diesem Dokument beschriebenen Funktionen werden durchnummeriert. Dabei folgt die  Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation  über die Funktionen erleichtert.
+
+Pflichtfunktionen sind wie folgt gekennzeichnet:
 
 | PFLICHTFUNKTION | |
 |---|---|
@@ -155,9 +155,10 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 (2-70) Seite 5 von 12
 
-(2-70) Nummerierung der hier dargestellten Syntax, welche eine evtl. erforderliche Kommunikation über die Funktionen erleichtert.  Pflichtfunktionen sind wie folgt gekennzeichnet: Seite 5 von 12
+\|  |
+\|---|
 
 
 ---

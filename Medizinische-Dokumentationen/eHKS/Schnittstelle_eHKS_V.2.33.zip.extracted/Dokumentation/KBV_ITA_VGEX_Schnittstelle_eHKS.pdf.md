@@ -251,75 +251,127 @@ Seite 6 44 von
 
 #### XML- CODE- VERZEICHNIS
 
-XML-Code 1 - levelone........................................................................................................... 14
+XML-Code 1 - levelone................................................................................................
 
-XML-Code 2 – body (HKS-ND) .............................................................................................. 17
+XML-Code 2 – body (HKS-ND) ................................................................
 
-XML-Code 3 – section (HKS-ND / HKS-ND-EV) .................................................................... 18
+XML-Code 3 – section (HKS-ND / HKS-ND-EV)
 
-XML-Code 4 – content mit sciphox-SSU (observation) .......................................................... 19
+XML-Code 4 – content mit sciphox-SSU (observation)
 
-XML-Code 5 – Beobachtungen .............................................................................................. 20
+XML-Code 5 – Beobachtungen ................................................................
 
-XML-Code 6 – Parameter ...................................................................................................... 20
+XML-Code 6 – Parameter ................................................................................................
 
-XML-Code 7 – Ergebnistext ................................................................................................... 20
+XML-Code 7 – Ergebnistext ................................................................................................
 
-XML-Code 8 – Ergebniswert ................................................................................................ 20
+XML-Code 8 – Ergebniswert ................................................................................................
 
-XML-Code 9 – ohne Name..................................................................................................... 21
+XML-Code 9 – ohne Name................................................................................................
 
-XML-Code 10 – Alter .............................................................................................................. 22
+XML-Code 10 – Alter ................................................................................................
 
-XML-Code 11 – Verdachtsdiagnose ...................................................................................... 23
+XML-Code 11 – Verdachtsdiagnose ................................................................
 
-XML-Code 12 – VerdachtsdiagnoseND ................................................................................. 23
+XML-Code 12 – VerdachtsdiagnoseND ................................................................
 
-XML-Code 13 – Malignes Melanom ....................................................................................... 23
+XML-Code 13 – Malignes Melanom ................................................................
 
-XML-Code 14 – Basalzellkarzinom ........................................................................................ 23
+XML-Code 14 – Basalzellkarzinom ................................................................
 
-XML-Code 15 – Spinozelluläres Karzinom ............................................................................. 24
+XML-Code 15 – Spinozelluläres Karzinom ................................................................
 
-XML-Code 16 – anderer Hautkrebs ....................................................................................... 24
+XML-Code 16 – anderer Hautkrebs ................................................................
 
-XML-Code 17 – sonstiger dermatologisch abklärungsbedürftiger Befund ............................. 24
+XML-Code 17 – sonstiger dermatologisch abklärungsbedürftiger Befund
 
-XML- Code 18 – Screening- Teilnehmer wird an einen Dermatologen überwiesen ................ 25 ............ 26
+XML- Code 18 – Screening- Teilnehmer wird an einen Dermatologen überwiesen ................
 
 XML-Code 19 - Gesundheitsuntersuchung ................................................................
 
-XML-Code 20 – Gleichzeitig Gesundheitsuntersuchung durchgeführt ................................ 26
+XML-Code 20 – Gleichzeitig Gesundheitsuntersuchung durchgeführt
 
-XML-Code 21 – body (HKS-D / HKS-D-EV) ........................................................................... 27
+XML-Code 21 – body (HKS-D / HKS-D-EV) ................................................................
 
-XML-Code 22 – section (HKS-D / HKS-D-EV) ....................................................................... 28
+XML-Code 22 – section (HKS-D / HKS-D-EV)
 
-XML-Code 23 – Überweisung im Rahmen des Hautkrebs-Screenings ................................ 29
+XML-Code 23 – Überweisung im Rahmen des Hautkrebs-Screenings
 
-XML-Code 24 – Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings ... 29
+XML-Code 24 – Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings ...
 
-XML-Code 25 – Überweisender Arzt hat HKS durchgeführt .................................................. 30
+XML-Code 25 – Überweisender Arzt hat HKS durchgeführt
 
-XML-Code 26 – Angabe der Verdachtsdiagnose des überweisenden Arztes ....................... 31
+XML-Code 26 – Angabe der Verdachtsdiagnose des überweisenden Arztes .......................
 
-XML-Code 27 – Angabe über die Verdachtsdiagnose liegt vor ............................................. 31
+XML-Code 27 – Angabe über die Verdachtsdiagnose liegt vor
 
-XML-Code 28 – Verdachtsdiagnose des Dermatologen ........................................................ 33
+XML-Code 28 – Verdachtsdiagnose des Dermatologen
 
-XML-Code 29 – sonstiger mit Biopsie abklärungsbedürftiger Befund .................................... 34
+XML-Code 29 – sonstiger mit Biopsie abklärungsbedürftiger Befund
 
-XML-Code 30 – Biopsie/Exzision ........................................................................................... 35
+XML-Code 30 – Biopsie/Exzision ................................................................
 
-XML-Code 31 – Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt ..... 35
+XML-Code 31 – Biopsie zu Verdachtsdiagnose entnommen oder Exzision durchgeführt
 
-XML-Code 32 – Anzahl der entnommenen Biopsien/Exzisionen ........................................... 35
+XML-Code 32 – Anzahl der entnommenen Biopsien/Exzisionen
 
-XML-Code 33 – anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet ...... 35
+XML-Code 33 – anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet
 
-XML-Code 34 – derzeit keine weitere Therapie/Diagnositk ................................................... 36
+XML-Code 34 – derzeit keine weitere Therapie/Diagnositk
 
-[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+[KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33 ........... 14
+
+.............................. 17
+
+.................................................................... 18
+
+.......................................................... 19
+
+.............................. 20 ...... 20
+
+... 20
+
+20
+
+..... 21
+
+.............. 22
+
+...................... 23
+
+................. 23
+
+....................... 23
+
+........................ 23
+
+............. 24
+
+....................... 24
+
+............................. 24 25
+
+............ 26
+
+................................ 26 ........... 27
+
+....................................................................... 28
+
+................................ 29 29
+
+.................................................. 30 31
+
+............................................. 31
+
+........................................................ 33
+
+.................................... 34 ........................... 35
+
+..... 35
+
+........................................... 35 ...... 35
+
+................................................... 36
 
 Seite 7 44 von
 
@@ -328,35 +380,57 @@ Seite 7 44 von
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
-XML-Code 35 – Histopathologie ............................................................................................ 37
+XML-Code 35 – Histopathologie ................................................................
 
-XML-Code 36 – Malignes Melanom ....................................................................................... 37
+XML-Code 36 – Malignes Melanom ................................................................
 
-XML-Code 37 – Klassifikation ................................................................................................ 38
+XML-Code 37 – Klassifikation ................................................................................................
 
-XML-Code 38 – Tumordicke (Breslow) .................................................................................. 38
+XML-Code 38 – Tumordicke (Breslow) ................................................................
 
-XML-Code 39 – Basalzellkarzinom ........................................................................................ 39
+XML-Code 39 – Basalzellkarzinom ................................................................
 
-XML-Code 40 – horizontaler Tumordurchmesser (klinisch) ................................................... 39
+XML-Code 40 – horizontaler Tumordurchmesser (klinisch)
 
-XML-Code 41 – vertikaler Tumordurchmesser (histologisch) ................................................ 40
+XML-Code 41 – vertikaler Tumordurchmesser (histologisch)
 
-XML-Code 42 – Spinozelluläres Karzinom ............................................................................. 40
+XML-Code 42 – Spinozelluläres Karzinom ................................................................
 
-XML-Code 43 – Klassifikation ................................................................................................ 41
+XML-Code 43 – Klassifikation ................................................................................................
 
-XML-4 Code 4 – Grading ........................................................................................................ 41
+XML-4 Code 4 – Grading ................................................................................................
 
-XML-Code 45 – atypischer Nävuszellnävus ........................................................................... 41
+XML-Code 45 – atypischer Nävuszellnävus
 
-XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus .................... 42
+XML-Code 46 – junktionaler, compound, dermaler atypischer Nävuszellnävus
 
-XML-Code 47 – Aktinische Keratose ..................................................................................... 42
+XML-Code 47 – Aktinische Keratose ................................................................
 
-XML-Code 48 – Andere hier nicht relevante Hautveränderung ............................................. 42
+XML-Code 48 – Andere hier nicht relevante Hautveränderung
 
 [KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+............................ 37 ....................... 37
+
+38
+
+.................. 38
+
+........................ 39
+
+................................................... 39
+
+................................................ 40 ............. 40
+
+41
+
+........ 41
+
+........................................................................... 41 .................... 42
+
+..................... 42
+
+............................................. 42
 
 Seite 8 44 von
 
@@ -750,7 +824,7 @@ Seite 18 44von
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung Hautkrebs-Screening (eHKS)
 
-\| ** <content>      <sciphox:sciphox-ssu type="observation" country="de" version="v1">              . . . |
+\| ** <content>      <sciphox:sciphox-ssu type="observation" country="de" version="v1">              . . .      </content> |
 \|---|
 
 **XML-Code 4 – content mit sciphox-SSU (observation)**
@@ -776,7 +850,7 @@ das
 
 setzt sich aus  *sci-* zusammen. Neben  *sci-*
 
-local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> </content>Seite 19 44von
+local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> Seite 19 44von
 
 
 ---
@@ -1067,8 +1141,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <>     </sciphox:Beobachtung> |
 \|---|
 
-*sciphox:Ergebnistext* im
-
 **XML-Code 15 – Spinozelluläres Karzinom**
 
 #### 6.1.4.5 anderer Hautkrebs
@@ -1106,6 +1178,8 @@ Bei diesem Parameter enthält das Element  oder „Nein“.
 Als Beispiel sei hier folgender Code angegeben:
 
 [KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
+
+*sciphox:Ergebnistext* im
 
 *sciphox:Ergebnistext* im
 
@@ -1190,7 +1264,7 @@ Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <> |
+\| <>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 20 – Gleichzeitig Gesundheitsuntersuchung durchgeführt**
@@ -1199,7 +1273,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 [KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
 
-sciphox:Beobachtung <sciphox:Parameter DN ="Gleichzeitig Gesundheitsuntersuchung durchgeführt“/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>Seite 26 44von
+<sciphox:Parameter DN ="Gleichzeitig Gesundheitsuntersuchung durchgeführt“/> <sciphox:Ergebnistext V="Nein"/> Seite 26 44von
 
 
 ---
@@ -1428,7 +1502,7 @@ Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-\| <> |
+\| <>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 24 – Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings**
@@ -1437,7 +1511,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 [KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
 
-sciphox:Beobachtung <sciphox:Parameter DN="Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings"/> <sciphox:Ergebnistext V="Nein"/> </sciphox:Beobachtung>Seite 29 44von
+<sciphox:Parameter DN="Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings"/> <sciphox:Ergebnistext V="Nein"/> Seite 29 44von
 
 
 ---
@@ -1952,36 +2026,24 @@ sciphox:Beobachtung
 
 #### 7.1.8.1 Malignes Melanom
 
-Bei diesem Parameter enthält das Element
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“.
 
-oder „Nein“.
-
-Sofern der Wert „Ja“ angegeben wird, muss ein Element  werden. Das Element *sciphox:Beobachtungen*  ximal zwei Kindelemente *sciphox:Beobachtung.*  genau ein Kindelement *sciphox:Parameter* und ein Kindelement  Kindelemente *sciphox:Parameter* sind die Werte “Klassifikation“ und „Tumordicke (Breslow)“  fest vorgegeben.
+Sofern der Wert „Ja“ angegeben wird, muss ein Element *sciphox:Beobachtungen* angegeben  werden. Das Element *sciphox:Beobachtungen* innerhalb des Blocks enthält minimal ein, ma-ximal zwei Kindelemente *sciphox:Beobachtung.* Ein Element *sciphox:Beobachtung* enthält  genau ein Kindelement *sciphox:Parameter* und ein Kindelement *sciphox:Ergebnistext*. Für die  Kindelemente *sciphox:Parameter* sind die Werte “Klassifikation“ und „Tumordicke (Breslow)“  fest vorgegeben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-*sciphox:Ergebnistext*
-
-innerhalb des Blocks enthält minimal ein, ma-
-
 \| <>                         </sciphox:Beobachtung> |
 \|---|
-
-im *V*-Attribut entweder „Ja“
-
-*sciphox:Beobachtungen* angegeben
-
-Ein Element *sciphox:Beobachtung* enthält  *sciphox:Ergebnistext*. Für die
 
 **XML-Code 36 – Malignes Melanom**
 
 ##### 7.1.8.1.1 Klassifikation
 
-Bei diesem Parameter enthält das Element  lanoma in situ“ oder „Invasives Melanom“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im  lanoma in situ“ oder „Invasives Melanom“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
-*sciphox:Ergebnistext* im *V*-Attribut entweder „Me-
+*V*-Attribut entweder „Me-
 
 [KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
 
@@ -2030,18 +2092,14 @@ Als Beispiel sei hier folgender Code angegeben:
 
 #### 7.1.8.2 Basalzellkarzinom
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* oder „Nein“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“.
 
-Sofern der Wert „Ja“ angegeben wird, muss ein Element  werden. Das Element *sciphox:Beobachtungen*  ximal zwei Kindelemente *sciphox:Beobachtung.*  genau ein Kindelement *sciphox:Parameter* und ein Kindelement  Kindelemente *sciphox:Parameter* sind die Werte “horizontaler Tumordurchmesser (klinisch)“  und „vertikaler Tumordurchmesser (histologisch)“ fest vorgegeben.
+Sofern der Wert „Ja“ angegeben wird, muss ein Element *sciphox:Beobachtungen* angegeben  werden. Das Element *sciphox:Beobachtungen* innerhalb des Blocks enthält minimal ein, ma-ximal zwei Kindelemente *sciphox:Beobachtung.* Ein Element *sciphox:Beobachtung* enthält  genau ein Kindelement *sciphox:Parameter* und ein Kindelement *sciphox:Ergebniswert*. Für die  Kindelemente *sciphox:Parameter* sind die Werte “horizontaler Tumordurchmesser (klinisch)“  und „vertikaler Tumordurchmesser (histologisch)“ fest vorgegeben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <>                         </sciphox:Beobachtung> |
 \|---|
-
-im *V*-Attribut entweder „Ja“
-
-*sciphox:Beobachtungen* angegeben  innerhalb des Blocks enthält minimal ein, ma-Ein Element *sciphox:Beobachtung* enthält  *sciphox:Ergebniswert*. Für die
 
 **XML-Code 39 – Basalzellkarzinom**
 
@@ -2069,7 +2127,7 @@ im *V*-Attribut den „horizonta-*U*-Attribut
 
 ##### 7.1.8.2.2 vertikaler Tumordurchmesser (histologisch)
 
-Bei diesem Parameter enthält das Element  Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und im  fest vorgeschriebenen Wert „mm“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebniswert* im *V*-Attribut den „vertikalen  Tumordurchmesser“ (Wertebereich: 0,1 – 999,9, Format: [n][n]n[,][n]) und im *U*-Attribut den  fest vorgeschriebenen Wert „mm“.
 
 Wird zu diesem Parameter keine Angabe gemacht, entfällt dieser Beobachtungsblock kom-plett.
 
@@ -2078,44 +2136,30 @@ Als Beispiel sei hier folgender Code angegeben:
 \| <>     </sciphox:Beobachtung> |
 \|---|
 
-*sciphox:Ergebniswert*
-
 **XML-Code 41 – vertikaler Tumordurchmesser (histologisch)**
 
 #### 7.1.8.3 Spinozelluläres Karzinom
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebnistext*
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im *V*-Attribut entweder „Ja“  oder „Nein“.
 
-oder „Nein“.
-
-Sofern der Wert „Ja“ angegeben wird, muss ein Element  werden. Das Element *sciphox:Beobachtungen*  ximal zwei Kindelemente *sciphox:Beobachtung.*  genau ein Kindelement *sciphox:Parameter* und ein Kindelement  Kindelemente *sciphox:Parameter* sind die Werte “Klassifikation“ und „Grading“ fest vorgege-ben.
+Sofern der Wert „Ja“ angegeben wird, muss ein Element *sciphox:Beobachtungen* angegeben  werden. Das Element *sciphox:Beobachtungen* innerhalb des Blocks enthält minimal ein, ma-ximal zwei Kindelemente *sciphox:Beobachtung.* Ein Element *sciphox:Beobachtung* enthält  genau ein Kindelement *sciphox:Parameter* und ein Kindelement *sciphox:Ergebniswert*. Für die  Kindelemente *sciphox:Parameter* sind die Werte “Klassifikation“ und „Grading“ fest vorgege-ben.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <>                         </sciphox:Beobachtung> |
 \|---|
 
-*sciphox:Beobachtungen* innerhalb des Blocks enthält minimal ein, ma-Ein Element
-
 **XML-Code 42 – Spinozelluläres Karzinom**
 
 ##### 7.1.8.3.1 Klassifikation
 
-Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* zinoma in situ“ oder „Invasives Karzinom“.
+Bei diesem Parameter enthält das Element *sciphox:Ergebnistext* im  zinoma in situ“ oder „Invasives Karzinom“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 [KBV_ITA_VGEX_Schnittstelle_eHKS]*Version 2.33
 
-im *V*-Attribut den „vertikalen  *U*-Attribut den
-
-im *V*-Attribut entweder „Ja“
-
-angegeben
-
-*sciphox:Beobachtung* enthält  *sciphox:Ergebniswert*. Für die
-
-im *V*-Attribut entweder „Kar-
+*V*-Attribut entweder „Kar-
 
 <sciphox:Parameter DN="vertikaler Tumordurchmesser (histologisch)"/> <sciphox:Ergebniswert V="999,9" U="mm"/> <sciphox:Parameter DN="Spinozelluläres Karzinom"/> <sciphox:Ergebnistext V="Ja"/> sciphox:Beobachtungen <sciphox:Parameter DN="Klassifikation"/> <sciphox:Parameter DN="Grading“/> </sciphox:Beobachtungen> Seite 40 44von
 

@@ -26,14 +26,14 @@ INHALT
 | 1.2 Zertifizierungsablauf | 5 |
 | 1.3 Zertifizierungsportal | 6 |
 | 1.4 Zertifizierungsdokumente | 6 |
-| 1.5 Prü fu nte rla gen | 6 |
+| 1.5 Prüfunterlagen | 6 |
 | 1.5.1 Verzeichnisstruktur | 7 |
-| 1.5.2 Einreichen von Prü fu nte rla gen | 7 |
-| 1.6 Prü fvorgaben | 7 |
-| 1.6.1 Prü fstam mdate n | 7 |
+| 1.5.2 Einreichen von Prüfunterlagen | 7 |
+| 1.6 Prüfvorgaben | 7 |
+| 1.6.1 Prüfstammdaten | 7 |
 | 1.6.2 Vorbereitung | 7 |
 | 1.6.3 Versichertendaten | 8 |
-| 1.6.4 Auflistung der Prü ffä lle | 8 |
+| 1.6.4 Auflistung der Prüffälle | 8 |
 | 1.6.5 Praxisdaten/ Arztstempel | 9 |
 
 **2** **PRÜFFÄLLE**
@@ -63,9 +63,6 @@ INHALT
 **18**
 
 Seite 2 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1. 04 / 27. August 2025
-
-Prüfunterlagen Einreichen von Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle 
-
 
 ---
 
@@ -258,7 +255,7 @@ Seite 9 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / 
 |  |  |
 |---|---|
 | **Prüffall-ID** | 01 |
-| **Testziel** | „ |
+| **Testziel** | Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit |
 | **Einzureichende** | Eine Audit-Bescheinigung der kv.digital GmbH |
 
 Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.digital](mailto:audit@kv.digital) mit der kv.digital GmbH in  Verbindung. Im Betreff der Nachricht ist "Anmeldung Audit" sowie die betreffende 116117 Terminservice-Schnittstelle anzugeben. Die kv.digital GmbH antwortet auf diese Nachricht mit einer Bestätigung.
@@ -267,7 +264,7 @@ Zur Initiierung des Audits setzt sich der Hersteller per E-Mail an [audit@kv.dig
 
 Seite 10 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1.04 / 27. August 2025
 
-Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte Audit 116117 Terminservice Abrechnungsinformation als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung. 
+116117 Terminservice Abrechnungsinformation als „ PDF -Dokument, als Nachweis Prüfunterlagen der erfolgreichen Absolvierung. 
 
 
 ---
@@ -292,6 +289,12 @@ Prüfunterlagen P4-02 und P4-03 Praxis für den Behandlungstag informiert ist, w
 
 ---
 
+- a) die automatische Zuordnung eines Termins zu dem Patienten,
+- b) der abgerechnete Grundpauschale,
+- c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der  Behandlung.
+
+**2.3** **PRÜFFALL 03: AUFNAHME UND BEHANDLUNG VON PATIENT 1**
+
 |  |  |
 |---|---|
 | **Prüffall-ID** | 03 |
@@ -303,14 +306,18 @@ Prüfunterlagen P4-02 und P4-03 Praxis für den Behandlungstag informiert ist, w
 | **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten-, |
 
-## 2.3 PRÜFFALL 03: AUFNAHME UND BEHANDLUNG VON PATIENT 1
-
 Seite 12 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1.04 / 27. August 2025
 
-a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 13228) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
+Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 13228) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
 
 
 ---
+
+- a) die automatische Zuordnung eines Termins zu dem Patienten,
+- b) der abgerechnete Grundpauschale,
+- c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der  Behandlung.
+
+**2.4** **PRÜFFALL 04: AUFNAHME UND BEHANDLUNG VON PATIENT 2**
 
 |  |  |
 |---|---|
@@ -323,14 +330,18 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten-, |
 
-## 2.4 PRÜFFALL 04: AUFNAHME UND BEHANDLUNG VON PATIENT 2
-
 Seite 13 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1.04 / 27. August 2025
 
-a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 03010) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
+Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 03010) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
 
 
 ---
+
+- a) die automatische Zuordnung eines Termins zu dem Patienten,
+- b) der abgerechnete Grundpauschale,
+- c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der  Behandlung.
+
+**2.5** **PRÜFFALL 05: AUFNAHME UND BEHANDLUNG VON PATIENT 3**
 
 |  |  |
 |---|---|
@@ -343,14 +354,18 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten-, |
 
-## 2.5 PRÜFFALL 05: AUFNAHME UND BEHANDLUNG VON PATIENT 3
-
 Seite 14 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1.04 / 27. August 2025
 
-a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 03010) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
+Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 03010) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
 
 
 ---
+
+- a) die automatische Zuordnung eines Termins zu dem Patienten,
+- b) der abgerechnete Grundpauschale,
+- c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der  Behandlung.
+
+**2.6** **PRÜFFALL 06: AUFNAHME UND BEHANDLUNG VON PATIENT 4**
 
 |  |  |
 |---|---|
@@ -363,14 +378,19 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | **Einzureichende** | Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | **Hinweis** | Alle nicht im Prüffall beschriebenen Information (z.B. die passende Versicherten-, |
 
-## 2.6 PRÜFFALL 06: AUFNAHME UND BEHANDLUNG VON PATIENT 4
-
 Seite 15 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1.04 / 27. August 2025
 
-a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Behandlung. Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 13228) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
+Vorschlag des zeitgestaffelten Zuschlages und Übernahme in die Abrechnung Aufnahme wird dem Patienten ein Termin zugeordnet und im Laufe der Behandlung während der Eintragung der abzurechnenden Leistungen (GOP 13228) wird eine passende zeitgestaffelte Zuschlagsziffer vorgeschlagen. Prüfunterlagen Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  
 
 
 ---
+
+- a) die automatische Zuordnung eines Termins zu dem Patienten,
+- b) die abzurechnende Grundpauschale,
+- c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für die Abrechnung der  Behandlung,
+- d) mögliche Warnmeldungen.
+
+**2.7** **PRÜFFALL 07: AUFNAHME UND BEHANDLUNG VON PATIENT 5**
 
 |  |  |
 |---|---|
@@ -382,8 +402,6 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 | **Arzt** | Arzt 2 (LANR 728382503) |
 | **Einzureichende** | Es wird ein Video eingereicht, in welchem die automatische Zuordnung eines    Es wird ein Video/Videos eingereicht, aus dem/denen Folgendes ersichtlich wird: |
 | **Hinweis** | Alle nicht im Prüffall beschriebenen Informationen (z.B. die passende Versicherten- |
-
-## 2.7 PRÜFFALL 07: AUFNAHME UND BEHANDLUNG VON PATIENT 5
 
 **2.8** **PRÜFFALL 08: MANUELLE ABFRAGE BEI DER TERMINSERVICESTELLE**
 
@@ -397,7 +415,7 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) der abgerechnet
 
 Seite 16 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1.04 / 27. August 2025
 
-a) die automatische Zuordnung eines Termins zu dem Patienten, b) die abzurechnende Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für die Abrechnung der Behandlung, d) mögliche Warnmeldungen. sofern der Anwender eine Warnmeldung erhält, wird eine Übernahme der 116117 Terminservice Informationen in die Abrechnung abgelehnt (GOP 13228) Prüfunterlagen Termins zu dem Patienten sowie möglich Warnmeldungen ersichtlich ist.  , Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  P4-02 und P4-03 importiert. zugeordneten Termine anzeigen. Prüfunterlagen Termine nach Anforderung P4-03 angezeigt werden.  
+sofern der Anwender eine Warnmeldung erhält, wird eine Übernahme der 116117 Terminservice Informationen in die Abrechnung abgelehnt (GOP 13228) Prüfunterlagen Termins zu dem Patienten sowie möglich Warnmeldungen ersichtlich ist.  , Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  P4-02 und P4-03 importiert. zugeordneten Termine anzeigen. Prüfunterlagen Termine nach Anforderung P4-03 angezeigt werden.  
 
 
 ---
@@ -426,7 +444,11 @@ a) die automatische Zuordnung eines Termins zu dem Patienten, b) die abzurechnen
 
 Seite 17 von 18 / KBV / Pruefpaket 116117 Terminservice Abrechnungsinformation / Version: 1.04 / 27. August 2025
 
-der TSS- Informationen Prüfunterlagen   14.08.2025 den relevanten Informationen zu.  aufgenommen und behandelt wurde, den passenden Termin zu und übernimmt die zeitgestaffelten Zuschläge (GOP 03010) a) die nachträgliche Zuordnung eines Termins zu dem Patienten. b) der abgerechnete Grundpauschale, c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  KP2-513 Prüfunterlagen Prüffälle enthalten sind.
+- a) die nachträgliche Zuordnung eines Termins zu dem Patienten.
+- b) der abgerechnete Grundpauschale,
+- c) der Vorschlag für die zeitgestaffelte Zuschlagsziffer für Abrechnung der  Behandlung
+
+der TSS- Informationen Prüfunterlagen   14.08.2025 den relevanten Informationen zu.  aufgenommen und behandelt wurde, den passenden Termin zu und übernimmt die zeitgestaffelten Zuschläge (GOP 03010) Grund - und Konsiliarpauschale), welche für eine korrekte Abrechnung benötigt werden, können vom Prüfling eigenständig ausgewählt werden.  KP2-513 Prüfunterlagen Prüffälle enthalten sind.
 
 ---
 

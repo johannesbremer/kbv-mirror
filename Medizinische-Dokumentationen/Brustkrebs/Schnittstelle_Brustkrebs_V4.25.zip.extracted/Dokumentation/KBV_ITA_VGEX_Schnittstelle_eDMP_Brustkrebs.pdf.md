@@ -24,11 +24,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **2 DATEINAMEN**
 
-| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 11 |
-|---|---|---|---|
-| 3.1 | Kardinalitä | t | 11 |
-| 3.2 |  | Strukturelemente | 11 |
-| 3.3 | Sonstige | Symbole | 12 |
+| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 11 |
+|---|---|---|
+| 3.1 | Kardinalität | 11 |
+| 3.2 | Strukturelemente | 11 |
+| 3.3 | Sonstige Symbole | 12 |
 
 **4 DOKUMENTENSTRUKTUR**
 
@@ -62,7 +62,6 @@ N  M  Hormonrezeptorstatus Östrogen und/oder Progesteron (gemäß Immunreaktive
 
 30 31
 
-Kardinalität Sonstige Symbole
 
 ---
 
@@ -508,12 +507,10 @@ Das Element <Lokalisation> enthält nur das V-Attribut. In diesem Element wird d
 
 In diesem Element wird der Normbereich (z.B. obere und/oder untere Wertgrenze) zu einem Wert  angegeben. Um die Obergrenze anzugeben, wird das Kindelement <Obergrenze> verwendet. Weitere  Kindelemente wie <Untergrenze> werden nicht benutzt, daher enthält das Element <Normbereich> nur das  Pflicht-Kindelement <Obergrenze>.
 
-Das Element <Obergrenze> enthält das  *DN*- und das *U* Attribut sind mit festen Werten vorbelegt: DN=“ XML-Code zum Element <Normbereich> sieht folgendermaßen aus:
+Das Element <Obergrenze> enthält das *V*-, das *DN*- und das *U*-Attribut, die zwingend erforderlich sind. Das  *DN*- und das *U* Attribut sind mit festen Werten vorbelegt: DN=“oberer Normwert des Labors“, U=“ “. Der  XML-Code zum Element <Normbereich> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>  **  ***</***   </sciphox:Beobachtung> |
 \|---|
-
-*V*-, das *DN*- und das *U*-Attribut, die zwingend erforderlich sind. Das  oberer Normwert des Labors“, U=“ “. Der
 
 **XML-Code 10:** Normbereich
 
@@ -526,7 +523,7 @@ Das Element <Zeitpunkt_dttm> enthält das V-Attribut, in das ein Datum eingetrag
 
 Seite 20 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
-<sciphox:Ergebniswert V="..." U="..."/> <sciphox:Lokalisation V="..."/> <sciphox:Normbereich> <sciphox:Obergrenze V =" " U %" DN sciphox:Normbereich oberer Normwert des Labors"/> <sciphox:Zeitpunkt_dttm V="..."/>
+<sciphox:Ergebniswert V="..." U="..."/> <sciphox:Lokalisation V="..."/> <sciphox:Normbereich> <sciphox:Obergrenze V =" " U %" DN oberer Normwert des Labors"/> sciphox:Normbereich <sciphox:Zeitpunkt_dttm V="..."/>
 
 |  |  |
 |---|---|
@@ -576,11 +573,9 @@ Es gilt folgender Coderahmen.
 
 ### Kontralateraler Brustkrebs Datum der histologischen Sicherung
 
-Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Kontralateraler Brustkrebs Datum der histologischen  <sciphox:Zeitpunkt_dttm>. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
+Das Element <sciphox:Beobachtung> hat als Kindelemente das Element <sciphox:Parameter> mit dem  konstanten Wert „Kontralateraler Brustkrebs Datum der histologischen Sicherung“ und ein Element  <sciphox:Zeitpunkt_dttm>. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Es gilt folgender Coderahmen.
-
-Sicherung“ und ein Element
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
@@ -717,7 +712,7 @@ Seite 25 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.2
 
 ### T
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 7
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 7
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -736,13 +731,13 @@ Als Beispiel sei hier folgender Code angegeben:
 \| 4 |
 \| X |
 
-*V*-Attribut die Feldbezeichnung
-
 **Tabelle 7:** Werte bei Ergebnistext (T) (ED)
 
 ### N
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 8
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß
+
+*V*-Attribut die Feldbezeichnung  Tabelle 8
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -760,9 +755,9 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Seite 26 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.25 / 18. Juni 2024
 
-*V*-Attribut die Feldbezeichnung
+<sciphox:Parameter DN="T"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN="N"/> <sciphox:Ergebnistext V="2"/>
 
-<sciphox:Parameter DN="T"/> <sciphox:Ergebnistext V="1"/> <sciphox:Parameter DN="N"/> <sciphox:Ergebnistext V="2"/>|  |  |
+|  |  |
 |---|---|
 
 
@@ -920,14 +915,12 @@ Seite 29 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.2
 
 ### Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine  spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 14. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 14. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-*V*-Attribut die Feldbezeichnung
 
 **XML-Code 29**: Bei Patientinnen unter adjuvanter Therapie mit Aromataseinhibitoren, sofern die  Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund (ED)
 
@@ -1015,14 +1008,12 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Therapie bei Knochenmetastasen (Denosumab)
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 17. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu  diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 17. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden. Wird keine Angabe zu  diesem Parameter gemacht, entfällt das Element <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-*V*-Attribut die Feldbezeichnung
 
 **XML-Code 33:** Therapie bei Knochenmetastasen (Denosumab) (ED)
 
@@ -1188,7 +1179,7 @@ Seite 35 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.2
 
 ### Dokumentationsintervall
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 21
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 21
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1201,8 +1192,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Halbjährlich oder häufiger |
 \| Jährlich |
-
-*V*-Attribut die Feldbezeichnung
 
 **Tabelle 21:** Werte bei Ergebnistext (Dokumentationsintervall) (ED)
 
@@ -1352,7 +1341,7 @@ Seite 40 von 52 / KBV / Schnittstellenbeschreibung DMP Brustkrebs / Version: 4.2
 
 ### Nebenwirkungen der aktuellen adjuvanten endokrinen Therapie
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 24. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 24. Wird keine Angabe zu diesem Parameter gemacht, entfällt das Element  <sciphox:Beobachtung>.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1368,8 +1357,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \| mäßig belastend |
 \| stark belastend |
 \| nicht erfragt |
-
-*V*-Attribut die Feldbezeichnung
 
 **Tabelle 24:** Werte bei Ergebnistext (Nebenwirkungen der aktuellen adjuvanten endokrinen  Therapie) (FD)
 

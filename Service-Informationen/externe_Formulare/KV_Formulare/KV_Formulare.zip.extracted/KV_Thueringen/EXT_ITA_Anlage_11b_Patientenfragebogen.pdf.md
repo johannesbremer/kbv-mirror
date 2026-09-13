@@ -40,9 +40,15 @@
 | 17. |  |  |
 | 18. |  |  |
 
+V1A
+
 **Raucher - □**
 
-(HzV-THR)      geb. am „Früherkennungsprogramm“                                                            der HzV-THR (Anlage 11b) V1A Teilnehmer den HzV letzte gynäkologische Krebs-Früherkennungsuntersuchung letzte Prostatakrebs-Früherkennungsuntersuchung spazieren gehen) festgestellt? Leiden Sie unter chronischem Husten (länger als 8 Wochen), Atemnot, Schmerzen und/oder Auswurf? Hat sich Ihre Körpergröße um mehr als 5 cm verringert? Sind Sie in den vergangenen 12 Monaten gestürzt oder haben Sie Probleme mit dem Gleichgewicht?  Haben Sie Probleme, Ihre Blase zu entleeren oder das Wasser zu halten? Sind Sie auffällig oft schwunglos oder ständig müde? Haben Sie oder Ihre Angehörigen den Eindruck, dass Sie im Alltag zunehmend Dinge vergessen oder Ihnen alltägliche Dinge nicht mehr leicht von der Hand gehen? Verspüren Sie seit Wochen wenig Interesse oder Freude an Tätigkeiten und/oder Niedergeschlagen-           heit, Schwermut oder Hoffnungslosigkeit? Fühlen Sie sich in den letzten Wochen stark psychisch belastet oder gestresst, z. B. durch Pflege von Angehörigen oder die Betreuung erkrankter Familienmitglieder?  Haben Sie weitere Anliegen, die Sie mit uns besprechen möchten? **Exemplar für**
+**Teilnehmer**
+
+**den HzV**
+
+(HzV-THR)      geb. am „Früherkennungsprogramm“                                                            der HzV-THR (Anlage 11b) letzte gynäkologische Krebs-Früherkennungsuntersuchung letzte Prostatakrebs-Früherkennungsuntersuchung spazieren gehen) festgestellt? Leiden Sie unter chronischem Husten (länger als 8 Wochen), Atemnot, Schmerzen und/oder Auswurf? Hat sich Ihre Körpergröße um mehr als 5 cm verringert? Sind Sie in den vergangenen 12 Monaten gestürzt oder haben Sie Probleme mit dem Gleichgewicht?  Haben Sie Probleme, Ihre Blase zu entleeren oder das Wasser zu halten? Sind Sie auffällig oft schwunglos oder ständig müde? Haben Sie oder Ihre Angehörigen den Eindruck, dass Sie im Alltag zunehmend Dinge vergessen oder Ihnen alltägliche Dinge nicht mehr leicht von der Hand gehen? Verspüren Sie seit Wochen wenig Interesse oder Freude an Tätigkeiten und/oder Niedergeschlagen-           heit, Schwermut oder Hoffnungslosigkeit? Fühlen Sie sich in den letzten Wochen stark psychisch belastet oder gestresst, z. B. durch Pflege von Angehörigen oder die Betreuung erkrankter Familienmitglieder?  Haben Sie weitere Anliegen, die Sie mit uns besprechen möchten? **Exemplar für**
 
 
 ---

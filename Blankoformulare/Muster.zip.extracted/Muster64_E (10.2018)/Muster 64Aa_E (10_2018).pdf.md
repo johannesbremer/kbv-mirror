@@ -2,9 +2,17 @@
 
 **Name, Vorname des Versicherten**
 
-**geb. am**
-
 **Kostenträgerkennung** **Versicherten-Nr.**
+
+#### Verordnung medizinischer
+
+**64 Teil A**
+
+#### Vorsorge für Mütter oder Väter
+
+**gemäß § 24 SGB V** **geb. am**
+
+**Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
 
 **Status**
 
@@ -18,15 +26,7 @@
 
 **B. Vorsorgerelevante Erkrankungen in der Reihenfolge ihrer Bedeutung**
 
-#### Verordnung medizinischer
-
-**64 Teil A**
-
-#### Vorsorge für Mütter oder Väter
-
-**gemäß § 24 SGB V** **Ausreichende physische und psychische Belastbarkeit** **für eine Vorsorgeleistung ist gegeben**
-
-**VorsorgebedürftigkeitII.** **A. Kurze Angaben zur Anamnese**
+**II. Vorsorgebedürftigkeit** **A. Kurze Angaben zur Anamnese**
 
 **B. Vorübergehende Beeinträchtigungen der Aktivitäten/Teilhabe in Folge der unter I. B. genannten Erkrankungen** ***(beispielsweise Entscheidungen treffen, mit Stress umgehen, auf die eigene Gesundheit und Ernährung achten, Hausarbeiten erledigen,*** ***häusliches Leben organisieren, Familien-/soziale Beziehungen pflegen, einer Beschäftigung sowie eigenen Interessen und Hobbies nachgehen)***
 
@@ -46,17 +46,17 @@
 
 **schwangerschaft**
 
-**fehlende Anerkennung**
+**der Mutter-/Vaterrolle** **fehlende Anerkennung**
 
 **Tod des Partners/** **naher Angehöriger**
 
-**der Mutter-/Vaterrolle**
-
 **Partner-/ Eheprobleme/**
 
-**Pflege von**
+**Teenager-**
 
 **Erziehungs-**
+
+**Pflege von**
 
 **soziale Isolation**
 
@@ -89,8 +89,6 @@
 **chronisch erkrankte, verhaltensauffällige oder behinderte**
 
 **der Frau / des Mannes in der**
-
-**Teenager-**
 
 **Kinder, frühgeborene Kinder, Mehrlingsgeburten**
 

@@ -18,37 +18,28 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ---
 
-## INHALT
+INHALT
 
-**1** **ALLGEMEINES**
-
-**6** 1.1 Rechtsgrundlage 6 1.2 Zertifizierungsablauf
-
-6 1.3 Zertifizierungsportal
-
-7 1.4 Zertifizierungsdokumente
-
-7 1.5 Prüfunterlagen
-
-8 1.5.1 Verzeichnisstruktur
-
-8 1.5.2 Einreichen von Prüfunterlagen als PDF-Dokumente 9 1.6 Prüfvorgaben
-
-10 1.6.1 Prüfstammdateien
-
-10 1.6.2 Vorbereitungen
-
-10 1.6.3 Versichertendaten
-
-10 1.6.4 Auflistung der Prüffälle
-
-11 1.6.5 Praxisdaten/Arztstempel
-
-11 1.6.6 Malta (Siehe XML Verzeichnisname: XML_36)
-
-12 1.6.7 Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname:  XML_37)
-
-13 1.6.8 Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname:  XML_40) 14
+| 1 | ALLGEMEINES | 6 |
+|---|---|---|
+| 1.1 | Rechtsgrundlage | 6 |
+| 1.2 | Zertifizierungsablauf | 6 |
+| 1.3 | Zertifizierungsportal | 7 |
+| 1.4 | Zertifizierungsdokumente | 7 |
+| 1.5 | Prüfunterlagen | 8 |
+| 1.5.1 | Verzeichnisstruktur | 8 |
+| 1.5.2 | Einreichen von Prüfunterlagen als PDF-Dokumente | 9 |
+| 1.6 | Prüfvorgaben | 10 |
+| 1.6.1 | Prüfstammdateien | 10 |
+| 1.6.2 | Vorbereitungen | 10 |
+| 1.6.3 | Versichertendaten | 10 |
+| 1.6.4 | Auflistung der Prüffälle | 11 |
+| 1.6.5 | Praxisdaten/Arztstempel | 11 |
+| 1.6.6 | Malta (Siehe XML Verzeichnisname: XML_36) | 12 |
+| 1.6.7 | Schimmelpfennig-Hammerschmidt Federmannssohn | (Siehe XML Verzeichnisname: |
+|  | XML_37) | 13 |
+| 1.6.8 | Schaumbërg-von-und-zu-Schaumburg-und-Radëberg | (Siehe XML Verzeichnisname: |
+|  | XML_40) | 14 |
 
 **2 PRÜFFÄLLE**
 
@@ -100,6 +91,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 Seite 2 von 56 / KBV / Prüfpaket Blankoformularbedruckung / Version: 3.41 / 4. Oktober 2024
 
+Schimmelpfennig-Hammerschmidt Federmannssohn (Siehe XML Verzeichnisname: Schaumbërg-von-und-zu-Schaumburg-und-Radëberg (Siehe XML Verzeichnisname: 
+
+
 ---
 
 2.26 Muster 50  Anfrage Zuständigkeit einer anderen Kasse  2.27 Muster 51  Anfrage Zuständigkeit eines Sonstigen Kostenträgers  2.28 Muster 52  Anfrage bei Fortbestehen der Arbeitsunfähigkeit  2.29 Muster 53  Anfrage zum Zusammenhang von Arbeitsunfähigkeiten  2.30 Muster 55  Bescheinigung einer schwerwiegenden chronischen Erkrankung gem. § 62 SGB V 2.31 Muster 56  Antrag auf Kostenübernahme  2.32 Muster 61  Verordnung von medizinischer Rehabilitation / Prüfung des zuständigen Rehabi litationsträgers  2.33 Muster 62A  Ergebnis der Erhebung des Beatmungsentwöhnungs- bzw.  Dekanülierungspotenzials gemäß AKI-Richtlinie des G-BA  2.34 Muster 62B  Verordnung außerklinischer Intensivpflege  2.35 Muster 62C  Behandlungsplan für außerklinische Intensivpflege  2.36 Muster 63  Verordnung spezialisierter ambulanter Palliativversorgung (SAPV) 2.37 Muster 64  Verordnung medizinischer Vorsorge für Mütter oder Väter gemäß § 24 SGB V 2.38 Muster 65  Ärztliches Attest Kind  2.39 Muster 70  Behandlungsplan  2.40 Muster 70 A  Folge-Behandlungsplan
@@ -112,17 +106,17 @@ Seite 2 von 56 / KBV / Prüfpaket Blankoformularbedruckung / Version: 3.41 / 4. 
 
 4.1 Muster KV5  Aerztlicher_Kurzbericht  4.2 Muster KV6  AAPV_Anlage_3a  4.3 Muster KV7  AAPV_Anlage_3b  4.4 Muster KV9  AAPV_Anlage_2  4.5 Muster KV10  AAPV_Anlage_3
 
-| 5 | Ü B ERGREIF | EN DEP | RÜFFÄ LLE |  |  | 44 |
+| 5 |  | ÜBERGREIFENDE | PRÜFFÄLLE |  |  | 44 |
 |---|---|---|---|---|---|---|
-| 5.1 | Übergreifender | Prüffall | – Nr. | 10 – | Helga Aufgelö st | 45 |
+| 5.1 | Übergreifender | Prüffall | – Nr. | 10 – | Helga Aufgelöst | 45 |
 | 5.2 | Übergreifender | Prüffall | – Nr. | 11 – | Peter Pan | 46 |
 | 5.3 | Übergreifender | Prüffall | – Nr. | 12 – Sam | Schulte | 47 |
-| 5.4 | Ü b | ergreifender Prü ffa | ll – Nr. | 13 – | Angelika Schnell | 48 |
-| 5.5 | Übergreifender | Prüffall | – Nr. | 14 – Erna | Mueller | 49 |
-| 5.6 | Übergreifender | Prüffall | – Nr. | 15 – Eike | flü c htlin g | 50 |
+| 5.4 | Übergreifender | Prüffall | – Nr. | 13 – | Angelika Schnell | 48 |
+| 5.5 | Übergreifender | Prüffall | – Nr. | 14 – | Erna Mueller | 49 |
+| 5.6 | Übergreifender | Prüffall | – Nr. | 15 – Eike | flüchtling | 50 |
 | 5.7 | Übergreifender | Prüffall | – Nr. | 16 – | Andrea lanz | 51 |
 | 5.8 | Übergreifender | Prüffall | – Nr. | 17 – | Viktor Werner | 52 |
-| 5.9 | Ü b | ergreifender Prü ffa | ll – Nr. | 18 – | Jonathan Ramirez-Sanché z-Leon | 53 |
+| 5.9 | Übergreifender | Prüffall | – Nr. | 18 – | Jonathan Ramirez-Sanchéz-Leon | 53 |
 
 **6 TESTDATENVALIDIERUNG**
 
@@ -136,7 +130,7 @@ Seite 3 von 56 / KBV / Prüfpaket Blankoformularbedruckung / Version: 3.41 / 4. 
 
 40 41 **42** 42 42 42 43 43 **54** **55**
 
-ÜBERGREIFENDE PRÜFFÄLLE Übergreifender Prüffall  Nr. 10  Helga Aufgelöst Übergreifender Prüffall  Nr. 11 Übergreifender Prüffall  Nr. 12  Sam Schulte Übergreifender Prüffall  Nr. 13 Übergreifender Prüffall  Nr. 14  Erna Mueller Übergreifender Prüffall  Nr. 15  Eike flüchtling Übergreifender Prüffall  Nr. 16 Übergreifender Prüffall  Nr. 17 Übergreifender Prüffall  Nr. 18  Jonathan Ramirez-Sanchéz-Leon
+ÜBERGREIFENDE PRÜFFÄLLE Übergreifender Prüffall  Nr. 10 Übergreifender Prüffall  Nr. 11 Übergreifender Prüffall  Nr. 12  Sam Schulte Übergreifender Prüffall  Nr. 13 Übergreifender Prüffall  Nr. 14 Übergreifender Prüffall  Nr. 15  Eike flüchtling Übergreifender Prüffall  Nr. 16 Übergreifender Prüffall  Nr. 17 Übergreifender Prüffall  Nr. 18
 
 ---
 

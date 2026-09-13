@@ -454,9 +454,9 @@ gematik | KBV Anbietermeeting 18.09.2025 | öffentlich 24
 
 # Unsere digitalen Anwendungen und technischen Produkte Das haben wir geschafft. Digitalisierung gewinnt an Schwung
 
-**Deutsches**
-
 **E Rezept**
+
+**Deutsches**
 
 **Elektronisches Melde** **und Informationssystem**  **für den Infektionsschutz**  **(DEMIS)**
 
@@ -645,6 +645,8 @@ der Betriebsverantwortung vor allem eine
 
 ### Beteiligte bei Anwendungen
 
+### Steigende Abhängigkeiten stellen hohe Anforderungen
+
 ### und Diensten der TI
 
 ### an Betriebsleistung und Betriebsverantwortung
@@ -657,21 +659,17 @@ der Betriebsverantwortung vor allem eine
 
 ### ~ 500 Anbieter/ Hersteller
 
-### Entwicklung der…
+### Entwicklung der… TI Teilnehmer1
 
-Anzahl August 2025
+Anzahl August 2025 127
 
 Veränderung
+
++95%
 
 seit Jan 2022
 
 gematik | KBV Anbietermeeting 18.09.2025 | öffentlich
-
-### Steigende Abhängigkeiten stellen hohe Anforderungen
-
-### TI Teilnehmer1 127
-
-+95%
 
 ### Produktinstanzen (PU) 224
 

@@ -18,13 +18,13 @@
 
 **ja, im Fachbereich**
 
-**Behinderung**
-
 **Es droht**
 
 **eine Verschlimmerung des Leidens**
 
 **oder**
+
+**Behinderung**
 
 **Besondere Hinweise**
 

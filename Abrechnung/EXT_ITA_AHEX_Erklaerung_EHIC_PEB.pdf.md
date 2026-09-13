@@ -14,11 +14,7 @@ PRF.NR.
 
 Unterschrift der Patientin / des Patienten
 
-пациента
-
-пациентката на
-
-подпис
+подпис на пациентката пациента
 
 **T** **T** **M M** **J** **J**
 

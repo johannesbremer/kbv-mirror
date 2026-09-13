@@ -56,7 +56,7 @@ Rückenschmerz  erfolgt, sind die nachstehenden Felder der Anlage 16* entspreche
 
 Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung chronischer Rückenschmerz Version 1.1 letzte Bearbeitung: 23.10.2020
 
-Nummer Schmerzmedikation:  2 an einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen 1 letzter Dokumentation keine Schulung empfohlen aktuell nicht möglich 16* Erstdokumentation auszufüllen ist. Folgedokumentation ist nicht zulässig Genau eine Angabe ist zulässig. 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
+Nummer Schmerzmedikation:  2 an einer multimodalen Schulung teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen 1 aktuell nicht möglich letzter Dokumentation keine Schulung empfohlen 16* Erstdokumentation auszufüllen ist. Folgedokumentation ist nicht zulässig Genau eine Angabe ist zulässig. 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig.
 
 ---
 
@@ -80,7 +80,7 @@ individuell vereinbarten Ziele seit der letzten Dokumentation 1 der Kreuzschmerz
 
 Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP Plausibilitätsprüfung chronischer Rückenschmerz Version 1.1 letzte Bearbeitung: 23.10.2020
 
-Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten  ximale Beeinträchtigung“) vereinbart. 4; 1  10, ganzzahlig) kleiner oder gleich  sein. Genau eine Angabe ist zulässig. 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. -A-RL
+10, ganzzahlig) Beeinträchtigung der alltäglichen Aktivitäten (Ankleiden, Waschen, Essen, Einkaufen etc.) in den letzten drei Monaten  ximale Beeinträchtigung“) vereinbart. 4; 1 kleiner oder gleich  sein. Genau eine Angabe ist zulässig. 16* im Rahmen einer Folgedokumentation auszufüllen ist. Erstdokumentation ist nicht zulässig. -A-RL
 
 
 ---

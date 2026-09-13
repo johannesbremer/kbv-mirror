@@ -2,11 +2,11 @@
 
 ## S_BAR2_WBO
 
-OID:
+OID: 1.2.276.0.76.5.114
 
-Version:
+Version: 1.23
 
-gültig ab:
+gültig ab: 01.12.2025
 
 | Code | Bezeichnung |
 |---|---|
@@ -27,12 +27,6 @@ gültig ab:
 041
 
 042
-
-1.2.276.0.76.5.114
-
-1.23
-
-01.12.2025
 
 043
 

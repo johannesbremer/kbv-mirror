@@ -44,7 +44,7 @@ DOKUMENTENHISTORIE
 | 3.7 | 05.03.2025 |  | • | Prüfung von | 9ff. |
 | 3.6 | 14.01.2025 | KBV | • | Auslauf und Neuanlauf | 8 |
 | 3.5 | 15.09.2023 | KBV | • | Nachweis von | 4 |
-| 3.4 | 23.06.2023 | KBV | • • Prüfung von  ff.  3.6  14.01.2025  KBV  • Auslauf und Neuanlauf  8  3.5 | Kodierunterstützung  Umstellung auf KoPS |  |
+| 3.4 | 23.06.2023 | KBV | • • | Kodierunterstützung  Umstellung auf KoPS |  |
 | 3.3 | 22.12.2022 | KBV | Ergänzungen für das | Kodierunterstützung | 7 |
 | 3.2 | 11.08.2022 | KBV | Ergänzungen zu | Auflistung der | 4 |
 |  |  |  | Ergänzungen für das | Kodierunterstützung | 7, 8 |
@@ -60,23 +60,33 @@ Ergänzungen der Vorgaben unter 2.2 Anpassungen der von Vorgaben zu Kodierregeln
 
 ---
 
-| Dieses | Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den | Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung |  | 1.1 | Die Rechtliche Grundlage bildet § 295 SGB V. |
-|---|---|---|---|---|---|
-|  | **1.2** | Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer Sichtprüfung. | Dabei ist folgendes Vorgehen einzuhalten: | 1. | Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  2. |
-| 3. | 4. | 5. | 6. | 7. | a) |
-| b) | **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt (APK) müssen** |  |  |  |  |
-|  |  |  | 1. 2. 3. 4. 5. 6. 7. a) b) |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+\|  |  |  | 1. 2. 3. 4. 5. 6. 7. a) b) |  |  |
 
 # 1 ALLGEMEINES
 
+Dieses Dokument beschreibt das allgemeine Vorgehen für die Zertifizierung eines  Zertifizierungsgegenstandes im Bereich der Abrechnung [KVDT].
+
+Die Zertifizierungsrichtlinie der KBV, welche die Rechte und Pflichten des Antragstellers definiert, bildet den  Rahmen der Zertifizierung und ist zu beachten.
+
+Des Weiteren können dem Antrag auf Zertifizierung neben Zertifizierungskosten und Laufzeit der Zulassung  weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind.
+
+## 1.1 RECHTSGRUNDLAGE
+
+Die Rechtliche Grundlage bildet § 295 SGB V.
+
+## 1.2 ZERTIFIZIERUNGSABLAUF
+
+Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer Sichtprüfung.  Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung und keine  Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur Verfügung  gestellt.
+
+Dabei ist folgendes Vorgehen einzuhalten:
+
+Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den Antrag  auf Zertifizierung „KVDT ADT“ eingescannt per Mail ([pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)) einreichen und erst nach Erhalt  der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail  eingereichten Antrag auf Zertifizierung hochladen.
+
+**Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt (APK) müssen**  **diese zwei Nachweise nicht erbringen.**
+
 Seite 4 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
 
-Der Antragsteller muss im Zertifizierungsportal die entsprechende n Prüfvorgänge „KVDT ADT“  initiieren (je nach Umsetzung auch „KVDT KADT“ und „KVDT SADT“). Nach Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit dem der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht werden.  Sobald der Eingang des Antrags auf Zertifizierung durch Mitarbeitenden der KBV bestätigt ist, ist im Zertifizierungsportal ein Termin für die Sichtprüfung durch den Softwareverantwortlichen zu vereinbaren. Für die Sichtprüfung ist das System entsprechend den Vorgaben des Kapitels 2 vorzubereiten. Im Rahmen der Sichtprüfung („KVDT ADT“)  erfolgt die Kontrolle der Einhaltung der Anforderungen. Werden bei der Prüfung Fehler festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen (siehe Kapitel 1.4). Bei Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur erneuten Sichtprüfung auffordern. Erst nach einem fehlerfreien Prüflauf „KVDT ADT“ (dieser schließt di e manuelle Prüfung der eingereichten Unterlagen durch die Abteilung IT in der Arztpraxis mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden.  Bei Neuzertifizierungen muss der Antragsteller zusätzlich folgende Nachweise erbringen:  Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle für den Funktionsumfang: VSDM Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte „eTerminservice Audit“ Dokument beschreibt allgemeine eines Zertifizierungsgegenstandes im Bereich der Abrechnung [KVDT]. Rahmen der Zertifizierung und ist zu beachten.   weitere wichtige Informationen entnommen werden, die nicht Bestandteil dieses Prüfpaketes sind. RECHTSGRUNDLAGE ZERTIFIZIERUNGSABLAUF Folglich beinhaltet dieses Prüfpaket wichtige Informationen für die anstehende Sichtprüfung und keine Prüffälle. Die erforderlichen Prüffälle werden dem Antragsteller im Rahmen der Sichtprüfung zur Verfügung gestellt. auf Zertifizierung „KVDT ADT“ eingescannt per Mail (pruefstelle@kbv.de) einreichen und erst nach Erhalt der Zugangsdaten den Prüfvorgang im Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung hochladen. diese zwei Nachweise nicht erbringen. 
+Der Antragsteller muss im Zertifizierungsportal die entsprechende n Prüfvorgänge „KVDT ADT“  initiieren (je nach Umsetzung auch „KVDT KADT“ und „KVDT SADT“). Nach Einleitung des Prüfvorganges wird im Zertifizierungsportal der Antrag auf Zertifizierung mit dem der KBV bisher bekannten Daten vorausgefüllt bereitgestellt. Dieser muss vollständig ausgefüllt und unterschrieben als PDF-Dokument eingescannt über das Zertifizierungsportal bei der KBV eingereicht werden.  Sobald der Eingang des Antrags auf Zertifizierung durch Mitarbeitenden der KBV bestätigt ist, ist im Zertifizierungsportal ein Termin für die Sichtprüfung durch den Softwareverantwortlichen zu vereinbaren. Für die Sichtprüfung ist das System entsprechend den Vorgaben des Kapitels 2 vorzubereiten. Im Rahmen der Sichtprüfung („KVDT ADT“)  erfolgt die Kontrolle der Einhaltung der Anforderungen. Werden bei der Prüfung Fehler festgestellt, wird der Antragsteller mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen (siehe Kapitel 1.4). Bei Vorliegen von schwerwiegenden Fehlern kann die KBV den Antragsteller zur erneuten Sichtprüfung auffordern. Erst nach einem fehlerfreien Prüflauf „KVDT ADT“ (dieser schließt di e manuelle Prüfung der eingereichten Unterlagen durch die Abteilung IT in der Arztpraxis mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung ausgesprochen werden.  Bei Neuzertifizierungen muss der Antragsteller zusätzlich folgende Nachweise erbringen:  Bestätigung der Konformität des Primärsystems zur Konnektorschnittstelle für den Funktionsumfang: VSDM Der Nachweis über das von der kv.digital GmbH erfolgreich durchgeführte „eTerminservice Audit“
 
 
 ---
@@ -156,11 +166,9 @@ Prüfung dem Zertifizierer mitteilen, damit ein Zugriff auf die KoPS-Instanz her
 | **Telefax** | 0251 / 2222222 |
 | **E-Mail-Adresse** | Dr.Heribert.Topp-Gluecklich@KBV-Testpraxis.de |
 | **Fachgebiet** | beliebiger Eintrag |
-| **KV-Voreinstellung** | › › 1. a) b) c) d) Heribert **Strasse ** Musterstr. 1 **PLZ/Ort** |
+| **KV-Voreinstellung** | › › 1. a) b) c) d) |
 
-Seite 7 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
-
-STANDARDEINSENDER (ÜBERWEISENDER ARZT) Betriebsstättennummer (BSNR) Lebenslange Arztnummer (LANR) Name DATENSATZ RVSA (RINGVERSUCHSZERTIFIKATE) pnSD/uu-Analysen Gerätetyp Hersteller Analyt-ID RV-Zertifikat 2.2.1 Vorbereitungen für die Prüffälle zur Kodierunterstützung In Systemen mit APK  muss folgendes für die Sichtprüfung vorbereitet werden: Bitte nehmen Sie folgende Vorkonfiguration der Kodierregeln vor: Für den Einsatz der behandlungsfallbezogenen Kodierregeln ID „bei Kodierung“ und „zur Abrechnung“ Die behandlungsfallbezogene Kodierregel ID Für den Einsatz der quartalsübergreifenden Kodierregel ID „wählbar“ und „zur Abrechnung“ Die Kodierregeln 03-02-173  und werden. KV: 20 (KV Westfalen-Lippe)                Bezirksstelle: 19 (Münster) 198209700 004110101 House Gregory Herbert-Lewin-Platz 2 48155 Münster 2 = ja - teilweise Gerät A 5673 Firma 004 (Werte gemäß Schlüsseltabelle) 1 = ja  gesetzt werden. 01-02-010  soll auf inaktiv gesetzt werden. gesetzt werden 03-02-044 sollen auf den Prüfzeitpunkt „zur Abrechnung“ gesetzt 01-01-017  soll der Prüfzeitpunkt auf 03-02-038  soll der Prüfzeitpunkt auf | STANDARDEINSENDER (ÜBERWEISENDER ARZT) | |
+| STANDARDEINSENDER (ÜBERWEISENDER ARZT) | |
 |---|---|
 | **Betriebsstättennummer (BSNR)** | 198209700 |
 | **Lebenslange Arztnummer (LANR)** | 004110101 |
@@ -177,20 +185,33 @@ STANDARDEINSENDER (ÜBERWEISENDER ARZT) Betriebsstättennummer (BSNR) Lebenslang
 | **Analyt-ID** | 004 (Werte gemäß Schlüsseltabelle) |
 | **RV-Zertifikat** | 1 = ja |
 
+### 2.2.1 Vorbereitungen für die Prüffälle zur Kodierunterstützung
+
+In **Systemen mit APK** muss folgendes für die Sichtprüfung vorbereitet werden:
+
+Seite 7 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
+
+Bitte nehmen Sie folgende Vorkonfiguration der Kodierregeln vor: Für den Einsatz der behandlungsfallbezogenen Kodierregeln ID „bei Kodierung“ und „zur Abrechnung“ Die behandlungsfallbezogene Kodierregel ID Für den Einsatz der quartalsübergreifenden Kodierregel ID „wählbar“ und „zur Abrechnung“ Die Kodierregeln 03-02-173  und werden. KV: 20 (KV Westfalen-Lippe)                Bezirksstelle: 19 (Münster) 01-01-017  soll der Prüfzeitpunkt auf  gesetzt werden. 01-02-010  soll auf inaktiv gesetzt werden. 03-02-038  soll der Prüfzeitpunkt auf gesetzt werden 03-02-044 sollen auf den Prüfzeitpunkt „zur Abrechnung“ gesetzt
 
 ---
 
-| 2. a. | b. Machen Sie bitte nach jeder Sortierung Screenshots von der Gesamtübersicht und bringen Sie diese zur |
-|---|---|
-| 3. a. | b. |
-| Machen Sie bitte nach jeder Filterung Screenshots von der Gesamtübersicht und bringen Sie diese zur  Achten Sie bitte darauf, dass in allen Screenshots | 4. |
-| a) b) | Die Screenshots werden dem Prüfer am Ende der Sichtprüfung ebenfalls übergeben. |
-| 5. |  |
-| **FELDER** | **INHALT** |
-| **Name** | Groß |
-| **Vorname** | Lena Tina |
-| **Geburtsdatum** | 13.05.1976 |
-| **Versicherten_ID** | X110319454  2. 3. 4. a) b) 5. Die Screenshots werden dem Prüfer am Ende der Sichtprüfung ebenfalls übergeben.   5. |
+\|  | 2. 3. 4. a) b) 5. |
+
+- a. der Kurzform der Regelbeschreibung
+- b. dem Prüfzeitpunkt
+
+Machen Sie bitte nach jeder Sortierung Screenshots von der Gesamtübersicht und bringen Sie diese zur  Sichtprüfung mit.
+
+- a. "Vollständige Kodierung des Diabetes" im Feld "Kurzform der Regelbeschreibung"  (behandlungsfallbezogene Regeln)
+- b. "wählbar" im Feld "Prüfzeitpunkt" (quartalsübergreifende Regeln)
+
+Machen Sie bitte nach jeder Filterung Screenshots von der Gesamtübersicht und bringen Sie diese zur
+
+Sichtprüfung mit.
+
+Achten Sie bitte darauf, dass in allen Screenshots  „Kurzform der Regelbeschreibung“) sichtbar sind. Die Screenshots werden den Prüfer am Ende der  Sichtprüfung zur Verfügung gestellt.
+
+Die Screenshots werden dem Prüfer am Ende der Sichtprüfung ebenfalls übergeben.
 
 | FELDER | INHALT |
 |---|---|
@@ -210,34 +231,13 @@ STANDARDEINSENDER (ÜBERWEISENDER ARZT) Betriebsstättennummer (BSNR) Lebenslang
 
 Seite 8 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
 
-Falls Ihr System die Sortierung der Kodierregeln unterstützt: Sortieren Sie die Kodierregeln nach der Kurzform der Regelbeschreibung  dem Prüfzeitpunkt Sichtprüfung mit.  Falls Ihr System die Filterung der Kodierregeln unterstützt: Filtern Sie die Kodierregeln nach "Vollständige Kodierung des Diabetes" im Feld "Kurzform der Regelbeschreibung" (behandlungsfallbezogene Regeln) "wählbar" im Feld "Prüfzeitpunkt" (quartalsübergreifende Regeln) Sichtprüfung mit.  „Kurzform der Regelbeschreibung“) sichtbar sind. Die Screenshots werden den Prüfer am Ende der Sichtprüfung zur Verfügung gestellt. Erstellen Sie bitte Screenshots von den Detailinformationen behandlungsfallbezogenen Kodierregel quartalsübergreifenden Kodierregel Erfassen Sie bitte im Ersatzverfahren die Daten des folgenden Patienten und in den letzten 4 (vier) Quartalen die in der folgenden Tabelle aufgeführten ICD-10-GM-Kodes als Behandlungsdiagnosen und kennzeichnen Sie diese bitte als Dauerdiagnosen. Zusätzlich erfassen Sie bitte die unten aufgeführten Anamnestischen Diagnosen. die komplette Liste  bzw. alle Inhalte (z.B. der Text unter ID 01-01-017 ID 03-02-038
+**die komplette Liste** bzw. **alle Inhalte** (z.B. der Text unter
+
+Falls Ihr System die Sortierung der Kodierregeln unterstützt: Sortieren Sie die Kodierregeln nach Falls Ihr System die Filterung der Kodierregeln unterstützt: Filtern Sie die Kodierregeln nach Erstellen Sie bitte Screenshots von den Detailinformationen behandlungsfallbezogenen Kodierregel quartalsübergreifenden Kodierregel Erfassen Sie bitte im Ersatzverfahren die Daten des folgenden Patienten und in den letzten 4 (vier) Quartalen die in der folgenden Tabelle aufgeführten ICD-10-GM-Kodes als Behandlungsdiagnosen und kennzeichnen Sie diese bitte als Dauerdiagnosen. Zusätzlich erfassen Sie bitte die unten aufgeführten Anamnestischen Diagnosen.  der  ID 01-01-017 ID 03-02-038
 
 ---
 
-|  |  |
-|---|---|
-| **DAUERDIAGNOSEN** |  |
-|  |  |
-|  | **Quartal -4** |
-| **Quartal -3  Quartal -2** | **Quartal -1** |
-| **ICD-10- DS** | **ICD-10-** |
-| **DS  ICD-10-** | **DS** |
-| **ICD-10- DS** | I63.9 |
-| G  I63.9 | G |
-| I63.9 | G  I63.9 **DS ** L23.9  G  T78.4  G       **Quartal -3 ** 1.**Quartal -4  Quartal -3  Quartal -2** |
-
-| FELDER | INHALT |
-|---|---|
-| **Nachname** | Gonzales |
-| **Vorname** | Rodrigo |
-| **Geburtsdatum** | 03.11.1963 |
-| **Versicherten_ID** | G123456744 |
-| **Postfach** | 80639 |
-| **Postfach-PLZ** | 81828 |
-
-Seite 9 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
-
-Patientenanlage: GM-Kode GM-Kode GM-Kode GM-Kode I21.2 I21.2 I21.2 I60.5 I60.5 I60.5 I60.5 E13.21 E13.21 L23.5 L23.5 ANAMNESTISCHE DIAGNOSEN ICD-10-GM-Kode K58.8 2.2.2 Vorbereitungen für den Prüffall zur Psychotherapie In Systemen mit APK  muss folgendes für die Sichtprüfung vorbereitet werden:
+\|  | 1. |
 
 | DAUERDIAGNOSEN |  |  |  | | | | |
 |---|---|---|---|---|---|---|---|
@@ -256,6 +256,23 @@ Patientenanlage: GM-Kode GM-Kode GM-Kode GM-Kode I21.2 I21.2 I21.2 I60.5 I60.5 I
 | L23.9 | G |
 | T78.4 | G |
 | K58.8 | G |
+
+### 2.2.2 Vorbereitungen für den Prüffall zur Psychotherapie
+
+In **Systemen mit APK** muss folgendes für die Sichtprüfung vorbereitet werden:
+
+| FELDER | INHALT |
+|---|---|
+| **Nachname** | Gonzales |
+| **Vorname** | Rodrigo |
+| **Geburtsdatum** | 03.11.1963 |
+| **Versicherten_ID** | G123456744 |
+| **Postfach** | 80639 |
+| **Postfach-PLZ** | 81828 |
+
+Seite 9 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
+
+Patientenanlage: GM-Kode GM-Kode GM-Kode GM-Kode
 
 
 ---
@@ -305,21 +322,51 @@ Seite 10 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
 
 ---
 
-| 2.2.3 Das PVS muss bis auf die o.g. Daten leer sein und weder Patienten- noch Abrechnungsdaten enthalten. | Bei  Verschlüsselungsanleitung- |
-|---|---|
-| ) muss ebenfalls angezeigt werden können. **2.3** | Im Rahmen der Sichtprüfung sind die |
-| https://update.kbv.de/ita-update/Stammdateien/. | **2.4** |
-| Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS 3.1) durchgeführt: | › |
-| › › | Die Dateinamen der Dateistruktur der Versichertenkarten für die Zertifizierung bei der KBV (XML- |
-| **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt (APK) 2.5** | Der Antragsteller muss während der Sichtprüfung auch ein mobiles Kartenlesegerät bereitstellen und |
-| Die KVKs werden vor der Prüfung von der KBV an den PVS-Hersteller postalisch versendet. **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt.** | **2.6** |
-| Der Antragsteller muss die Erstellung von Screenshots sowie von PDF-Dokumenten für den Ausdruck des **2.7** | Das Abrechnungsquartal ist das aktuelle Quartal, in dem die Sichtprüfung stattfindet. |
-| **Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt.** Der Antragsteller hat das entsprechende XPM-Prüfmodul vor der Sichtprüfung einzubinden und im Rahmen | **XKM-Testschlüssel** |
-| zu verschlüsseln. | **2.2.3** ) muss ebenfalls angezeigt werden können. **2.4** Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS 3.1) durchgeführt:  › › › › |
+### 2.2.3 Sonstige Vorbereitungen
+
+Das PVS muss bis auf die o.g. Daten leer sein und weder Patienten- noch Abrechnungsdaten enthalten.
+
+Bei **Systemen ohne APK** muss die Möglichkeit der Erfassung von prüfungsfallspezifischen EBM-Ziffern und  [ICD-10-GM-Kodes in der Sichtprüfung bestehen. Die Verschlüsselungsanleitung (](https://update.kbv.de/ita-update/Stammdateien/SDVA/)[Verschlüsselungsanleitung-](https://update.kbv.de/ita-update/Stammdateien/SDVA/) [Stammdatei](https://update.kbv.de/ita-update/Stammdateien/SDVA/)[) muss ebenfalls angezeigt werden können.](https://update.kbv.de/ita-update/Stammdateien/SDVA/)
+
+## 2.3 STAMMDATEIEN
+
+Im Rahmen der Sichtprüfung sind die **regulären** KBV-Stammdateien zu verwenden. Die sind zu finden unter  [https://update.kbv.de/ita-update/Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/)
+
+## 2.4 VERSICHERTENDATEN
+
+Im Rahmen der Sichtprüfung werden am Zertifizierungsgegenstand Versichertenkarten (KVK und eGK)  eingelesen.
+
+Bei Systemen mit APK wird die Sichtprüfung mit dem Konnektorsimulator (KoPS 3.1) durchgeführt:
+
+\|  | › › › |
+
+Die Dateinamen der Dateistruktur der Versichertenkarten für die Zertifizierung bei der KBV (XML-Versichertendaten) können u.U. von den Vorgaben der gematik Spezifikation abweichen.
+
+**Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt (APK)**
+
+## 2.5 MOBILE KARTENTERMINALS
+
+Der Antragsteller muss während der Sichtprüfung auch ein mobiles Kartenlesegerät bereitstellen und  anschließen können für Prüffälle, die physischen Krankenversichertenkarten (KVK) benötigen.
+
+Die KVKs werden vor der Prüfung von der KBV an den PVS-Hersteller postalisch versendet.
+
+**Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt.**
+
+## 2.6 SCREENSHOTS
+
+Der Antragsteller muss die Erstellung von Screenshots sowie von PDF-Dokumenten für den Ausdruck des  Personalienfeldes von vertragsärztlichen Formularen im Rahmen der Sichtprüfung ermöglichen.
+
+## 2.7 ABRECHNUNGSDATEI
+
+Das Abrechnungsquartal ist das aktuelle Quartal, in dem die Sichtprüfung stattfindet. **Es muss möglich sein,**  **das Systemdatum zu ändern.** Zudem werden auch Vorquartalsfälle abgerechnet.
+
+**Ausnahme: Antragsteller für Zertifizierungsgegenstände ohne Arzt-Patienten-Kontakt.**
+
+Der Antragsteller hat das entsprechende XPM-Prüfmodul vor der Sichtprüfung einzubinden und im Rahmen  der Prüfung die XDT-Datei **[mit dem](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)[XKM-Testschlüssel](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)**[zu verschlüsseln.](https://update.kbv.de/ita-update/KBV-Software/Kryptomodul/Testschluessel.zip)
 
 Seite 11 von 13 / KBV / Pruefpaket KVDT / Version: 3.7 / 5. März 2025
 
-Sonstige Vorbereitungen Systemen ohne APK  muss die Möglichkeit der Erfassung von prüfungsfallspezifischen EBM-Ziffern und ICD-10-GM-Kodes in der Sichtprüfung bestehen. Die Verschlüsselungsanleitung ( STAMMDATEIEN regulären  KBV-Stammdateien zu verwenden. Die sind zu finden unter VERSICHERTENDATEN eingelesen.  KoPS 3.1 wird über eine WEB-Schnittstelle bereitgestellt. Die erforderliche URL, welche im PVS eingebunden wird, wird dem Antragsteller im Einladungsschreiben mitgeteilt. Der verwendete KoPS 3.1-Aufrufkontext ist Standard Arbeitsplatz 1 mit Mandant1 ClientID1 Workplace1 Versichertendaten) können u.U. von den Vorgaben der gematik Spezifikation abweichen. MOBILE KARTENTERMINALS anschließen können für Prüffälle, die physischen Krankenversichertenkarten (KVK) benötigen.  SCREENSHOTS Personalienfeldes von vertragsärztlichen Formularen im Rahmen der Sichtprüfung ermöglichen. ABRECHNUNGSDATEI Es muss möglich sein, das Systemdatum zu ändern.  Zudem werden auch Vorquartalsfälle abgerechnet.  der Prüfung die XDT-Datei 
+KoPS 3.1 wird über eine WEB-Schnittstelle bereitgestellt. Die erforderliche URL, welche im PVS eingebunden wird, wird dem Antragsteller im Einladungsschreiben mitgeteilt. Der verwendete KoPS 3.1-Aufrufkontext ist Standard Arbeitsplatz 1 mit Mandant1 ClientID1  und Workplace1
 
 
 ---

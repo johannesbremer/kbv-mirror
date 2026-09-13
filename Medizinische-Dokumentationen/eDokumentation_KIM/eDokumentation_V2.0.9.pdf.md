@@ -82,19 +82,29 @@ Anforderungen an den Versand von eDokumentation-Importstatus ...................
 
 3
 
+alle
+
+eDokumentation V2.0
+
 **Änderung**
 
-Ergänzung in [eDoku0813] Anapassung von [eDoku0135] bezogen auf  name und filename im MIME-Segment der  Archiv-Datei
+**Status**
 
-Anpassung von [eDoku0112] und Aufnahme  einer Anmerkung bezüglich der Verwendung  des Header-Feldes Return-Path
+Ergänzung in [eDoku0813]
+
+in Kraft Anapassung von [eDoku0135] bezogen auf  name und filename im MIME-Segment der  Archiv-Datei
+
+Anpassung von [eDoku0112] und Aufnahme außer Kraft einer Anmerkung bezüglich der Verwendung  des Header-Feldes Return-Path
 
 Aufnahme Anforderung zum Umgang, wenn  bezüglich ausbleibender eDokumentation-Importstatus-Nachrichten Rücksprache mit der  DAS gehalten wurde
 
-Korrektur des Links der Referenzen [SPKA] und  [MDN]
+Korrektur des Links der Referenzen [SPKA] und außer Kraft [MDN]
 
-Ergänzung der Abbildung 4 für  eDokumentation- Importstatus RFC822-Standard
+Ergänzung der Abbildung 4 für
 
-Aufnahme Anforderung zum Umgang, wenn  versendete eDokumentation-Lieferungen ohne  Antwort bleiben
+außer Kraft eDokumentation- Importstatus RFC822-Standard
+
+Aufnahme Anforderung zum Umgang, wenn außer Kraft versendete eDokumentation-Lieferungen ohne  Antwort bleiben
 
 Aufnahme Anforderung zum Umgang, wenn  empfangene eDokumentation-Nachrichten  nicht zugeordnet werden können
 
@@ -102,37 +112,17 @@ Aufnahme Anforderung zur Anzeige von  eDokumentation-Lieferung und zugehörigem 
 
 Anpassung der Dienstkennung der  Eingangsbestätigung
 
-eDokumentation V2.0
+Herauslösen der Anforderungen zur  Begleitdatei in eigene Spezifikation  Begleitdatei [BGD]
 
-**Status**
-
-in Kraft
-
-außer Kraft
-
-außer Kraft
-
-außer Kraft
-
-außer Kraft
+Migration eDokumentation V2.0.4 via KV-Connect nach KIM
 
 **Herausgeber:**
 
 kv.digital GmbH
 
-**Die Spezifikation untersteht den Lizenzbestimmungen für die unentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)** [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
+**Die Spezifikation untersteht den Lizenzbestimmungen für die unentgeltliche Nutzung von Spezifikationen**  **[der kv.digital GmbH. Den vollständigen Text finden Sie unter dem nachfolgenden Link:](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)**[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [für die unentgeltliche Nutzung von Spezifikationen der kv.digital GmbH](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) [pages/viewpage.action?pageId=71075847](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
 
-Seite
-
-alle
-
-Herauslösen der Anforderungen zur  Begleitdatei in eigene Spezifikation  Begleitdatei [BGD]
-
-Migration eDokumentation V2.0.4 via KV-Connect nach KIM
-
-[https://partnerportal.kv-telematik.de/](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847)
-
-[Lizenzbestimmungen](https://partnerportal.kv-telematik.de/pages/viewpage.action?pageId=71075847) 3 von 20
+Seite 3 von 20
 
 
 ---
@@ -253,11 +243,11 @@ Anmerkung: Die Dokumentationsarchiv-Datei wird auch im KIM-Kontext vor der Über
 
 **[eDoku0134]**
 
-Die Begleitdatei und der dazugehörige Dateiname  [eDokumentation-KBV-XML] entsprechen.
+Die Begleitdatei und der dazugehörige Dateiname **MUSS** den geltenden Vorgaben in [Med_Dok] sowie  [eDokumentation-KBV-XML] entsprechen.
 
 **[eDoku0135]**
 
-Die MIME-Segmente  **MÜSSEN**  die in Tabelle 1
+Die MIME-Segmente  **MÜSSEN**  die in Tabelle 1 aufgelisteten Metainformationen (
 
 Content-Transfer-Encoding  Content-Disposition, Content-Description  enthalten.
 
@@ -265,38 +255,37 @@ Content-Transfer-Encoding  Content-Disposition, Content-Description  enthalten.
 
 **Content-Type**
 
+**Content- Content-** **Transfer- Disposition** **Encoding**
+
 Begleitdatei
 
-application/xml;  name="begleitdatei.xml"
+application/xml;
 
-Dokumentationsarchiv application/octet- stream;  name="<archivname>.zi p.xkm"
+base64 attachment;  name="begleitdatei.xml"
+
+```
+filename="begl
+eitdatei.xml"
+```
+
+Dokumentationsarchiv application/octet-
+
+base64 attachment;  stream;
+
+```
+filename="<arc
+```
+
+name="<archivname>.zi p.xkm"
+
+```
+hivname>.zip.x
+km"
+```
 
 **1 Tabelle 1: Metainformationen eDokumentation-Lieferung** Hinweis: Die Angabe des Parameters "filename" in Content-Disposition ist optional. Wird "filename" jedoch  angegeben, muss dieser mit dem Wert in "name" im Parameter Content-Type übereinstimmen.
 
 Seite
-
-**MUSS** den geltenden Vorgaben in [Med_Dok] sowie
-
-aufgelisteten Metainformationen (
-
-**Content-** **Transfer-** **Encoding**
-
-```
-base64
-base64
-```
-
-**Content-** **Disposition**
-
-```
-attachment;
-filename="begl
-eitdatei.xml"
-attachment;
-filename="<arc
-hivname>.zip.x
-km"
-```
 
 eDokumentation V2.0
 

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**05. SEPTEMBER 2026**
+**12. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 
 **amedes Medizinische Dienstleistungen** **GmbH** Anna-Vandenhoeck-Ring 4-8 37081 Göttingen Internet: www.amedes-group.com
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Y/43/2501/24/395
 
@@ -82,7 +82,7 @@ iOS/Android Mac OS Windows
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Y/43/2604/21/081
 
@@ -138,7 +138,7 @@ Y/43/2501/24/549
 
 Y/43/2410/24/704
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 LDT-Befund - Export LDT-Befund - Import 31.12.2027 LDT-Auftrag - Export LDT-Auftrag - Import
 
@@ -172,21 +172,35 @@ Linux Sonstige
 
 **compt gut hard & software gmbh** Winterstraße 49 33649 Bielefeld Internet: www.elis-a.de
 
+**TURBOMED**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 23 56070 Koblenz Internet: www.turbomed.de
+
+**ALBIS**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
+
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
+
+Y/43/2410/24/729
+
+Y/43/2601/24/629
+
 |  | Y/43/2501/24/112 | 31.12.2026 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Y/43/2504/24/203 | 31.03.2027 | LDT-Befund - Import |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
-
-Y/43/2410/24/729
-
-Y/43/2601/24/629 30.09.2026 LDT-Befund - Export
+30.09.2026 LDT-Befund - Export
 
 LDT-Befund - Export 31.12.2027 LDT-Befund - Import
 
 Windows
 
-TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet: www.turbomed.de ALBIS CompuGroup Medical Deutschland AG Maria Trost 21 56070 Koblenz Internet: www.albis.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -200,15 +214,33 @@ TURBOMED CompuGroup Medical Deutschland AG Maria Trost 23 56070 Koblenz Internet
 
 **CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
 
+**CGM M1 PRO**
+
+**CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
+
+Softwarevariante(n): - CGM M1 PRO NEXT
+
+**CGM MEDISTAR BLACK PRO**
+
+**CompuGroup Medical Deutschland AG** Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de
+
+Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
+
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
+
+Y/43/2501/24/023
+
 |  | Y/43/2501/24/252 | 31.12.2026 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Y/43/2501/24/280 | 31.12.2026 | LDT-Befund - Import |  |
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+31.12.2026 LDT-Befund - Import
 
-Y/43/2501/24/023 31.12.2026 LDT-Befund - Import
+Linux
 
-CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de Softwarevariante(n): - CGM M1 PRO NEXT CGM MEDISTAR BLACK PRO CompuGroup Medical Deutschland AG Karl-Wiechert-Allee 64 30625 Hannover Internet: www.medistar.de und www.cgm.com/de Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK Windows WindowsLinux
+Windows
+
+Windows
 
 
 ---
@@ -234,7 +266,7 @@ CGM M1 PRO CompuGroup Medical Deutschland AG Maria Trost 25 56070 Koblenz Intern
 
 **DGN Deutsches Gesundheitsnetz Service** **GmbH** Hüngert 15 41564 Kaarst Internet: www.dgn.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Y/43/2501/24/060
 
@@ -290,7 +322,7 @@ Y/43/2604/21/673
 
 Y/43/2410/24/606
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 LDT-Auftrag - Import 30.06.2027 LDT-Befund - Import 30.06.2028 LDT-Befund - Import
 
@@ -322,15 +354,23 @@ Windows
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-|  | Y/43/2410/24/223 | 30.09.2026 | LDT-Befund - Import |  |
-|---|---|---|---|---|
-|  | Y/43/2401/36/034 | 31.12.2026 | LDT-Befund - Import |  |
+**INDICATION**
+
+**ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
+
+**medibit**
+
+**Examion GmbH** Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com
 
 Y/43/2501/24/086
 
 Y/43/2501/24/295
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+|  | Y/43/2410/24/223 | 30.09.2026 | LDT-Befund - Import |  |
+|---|---|---|---|---|
+|  | Y/43/2401/36/034 | 31.12.2026 | LDT-Befund - Import |  |
+
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Digitales Muster 10A - Export Digitales Muster 10 - Export 31.12.2026 Digitales Muster 10 - Import LDT-Befund - Import
 
@@ -338,7 +378,11 @@ Digitales Muster 10A - Export Digitales Muster 10 - Export 31.12.2026 LDT-Auftra
 
 Windows
 
-INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet: www.indication.com medibit Examion GmbH Erich-Herion-Straße 37 70736 Fellbach Internet: www.examion.com Windows WindowsLinux Mac OS Windows
+Linux Mac OS Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -356,21 +400,35 @@ INDICATION ET Software Developments GmbH Hebelstraße 7 69214 Eppelheim Internet
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
+**Doctorly**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
+
+**Elefant**
+
+**HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
+
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
+
+Y/43/2604/21/630
+
+Y/43/2501/24/244
+
 |  | Y/43/2411/38/616 | 31.12.2027 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Y/43/2310/36/298 | 30.09.2026 | LDT-Befund - Import |  |
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
-
-Y/43/2604/21/630
-
-Y/43/2501/24/244 31.12.2027 LDT-Befund - Import
+31.12.2027 LDT-Befund - Import
 
 Digitales Muster 10A - Export 31.12.2026 Digitales Muster 10 - Export LDT-Befund - Import
 
 iOS/Android Linux Mac OS Sonstige Windows
 
-Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de Elefant HASOMED GmbH Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de iOS/Android Linux Mac OS Windows WindowsWindows
+Windows
+
+iOS/Android Linux Mac OS Windows
+
+Windows
 
 
 ---
@@ -382,31 +440,41 @@ Doctorly Frey ADV GmbH Chausseestraße 189 15712 Königs Wusterhausen Internet: 
 
 **KVDT (ADT)**
 
-**IFMS - Institut für medizinische Software** **GmbH** Sulzbachstraße 39 - 41 66111 Saarbrücken Internet: www.ifms.de
+**IFMS - Institut für medizinische Software** **GmbH**
+
+Y/43/2601/24/473 Sulzbachstraße 39 - 41 66111 Saarbrücken Internet: www.ifms.de
 
 **Medical Office**
 
-**INDAMED EDV-Entwicklung und Vertrieb**
+**INDAMED EDV-Entwicklung und Vertrieb** **GmbH**
 
-**GmbH** Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de
+Y/43/2504/24/210 Ziegeleiweg 1 19057 Schwerin Internet: www.indamed.de
+
+**InterARZT**
+
+**InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52
 
 |  | Y/43/2501/24/136 | 31.12.2026 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Z/43/2509/37/817 | 30.09.2028 | Digitales Muster 10 - Export |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+48268 Greven Internet: www.InterData.de
 
-Y/43/2601/24/473 31.12.2027
+**ILAB**
 
-Y/43/2504/24/210 31.03.2027
-
-LDT-Befund - Export
-
-Digitales Muster 10A - Export Digitales Muster 10 - Export LDT-Befund - Import
+**itech Laborlösungen GmbH** Masenheimer Weg 5 33165 Lichtenau 31.12.2027 LDT-Befund - Export
 
 Windows
 
-InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de ILAB itech Laborlösungen GmbH Masenheimer Weg 5 33165 Lichtenau Internet: https://itech-gmbh.de Mac OS Windows Linux Mac OS WindowsWindows
+Digitales Muster 10A - Export 31.03.2027 Digitales Muster 10 - Export
+
+Windows LDT-Befund - Import
+
+Mac OS Windows
+
+Linux Mac OS Windows Internet: [https://itech-gmbh.de](https://itech-gmbh.de)
+
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 
 ---
@@ -432,7 +500,7 @@ InterARZT InterData Praxiscomputer GmbH Alte Bahnhofstraße 50-52 48268 Greven I
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Y/43/2504/24/320
 
@@ -478,7 +546,7 @@ Windows
 
 **Labor Dr. Heidrich & Kollegen MVZ GmbH** Klinikweg 23 22081 Hamburg Internet: www.labor-heidrich.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 X/43/2607/18/537
 
@@ -536,7 +604,7 @@ X/43/2501/24/492
 
 Y/43/2501/24/375
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Digitales Muster 10A - Import 31.12.2026 Digitales Muster 10 - Import LDT-Befund - Export
 
@@ -570,21 +638,35 @@ Linux Sonstige Windows
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
-|  | Y/43/2501/24/216 | 31.12.2026 | LDT-Befund - Import |  |
-|---|---|---|---|---|
-|  | Y/43/2501/24/243 | 31.12.2026 | LDT-Befund - Import |  |
+**x.isynet**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+Softwarevariante(n): - x.vianova
 
 Y/43/2607/18/721
 
 Y/43/2501/24/135
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+|  | Y/43/2501/24/216 | 31.12.2026 | LDT-Befund - Import |  |
+|---|---|---|---|---|
+|  | Y/43/2501/24/243 | 31.12.2026 | LDT-Befund - Import |  |
+
+**x.concept**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Digitales Muster 10A - Export Digitales Muster 10A - Import 31.12.2027 Digitales Muster 10 - Export Digitales Muster 10 - Import LDT-Befund - Export 31.12.2026 LDT-Befund - Import
 
 Linux Sonstige Windows
 
-x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - x.vianova x.concept medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Windows WindowsWindows
+Windows
+
+Windows
+
+Windows
 
 
 ---
@@ -596,9 +678,13 @@ x.isynet medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.meda
 
 **x.comfort**
 
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+**medatixx GmbH & Co. KG** Im Kappelhof 1
 
-Y/43/2501/24/266
+Y/43/2501/24/266 65343 Eltville Internet: www.medatixx.de
+
+**medatixx**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville
 
 |  | Y/43/2501/24/462 | 31.12.2026 | LDT-Befund - Import |  |
 |---|---|---|---|---|
@@ -606,9 +692,21 @@ Y/43/2501/24/266
 |  | Y/43/2508/38/751 | 30.09.2028 | Digitales Muster 10 - Export |  |
 |  |  |  | Digitales Muster 39 - Export |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026 31.12.2026 LDT-Befund - Import
+Internet: www.medatixx.de
 
-medatixx medatixx GmbH & Co. KG Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de Softwarevariante(n): - psyx medicalvalues Order Intelligence medicalvalues GmbH Haid-und-Neu-Straße 18 76131 Karlsruhe Internet: https://medicalvalues.de Windows iOS/Android Linux Mac OS Sonstige WindowsWindows
+Softwarevariante(n): - psyx
+
+**medicalvalues Order Intelligence**
+
+**medicalvalues GmbH** Haid-und-Neu-Straße 18 76131 Karlsruhe Internet: [https://medicalvalues.de](https://medicalvalues.de) 31.12.2026 LDT-Befund - Import
+
+Windows
+
+Windows
+
+iOS/Android Linux Mac OS Sonstige Windows
+
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 
 ---
@@ -634,7 +732,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Y/43/2410/24/251
 
@@ -662,29 +760,43 @@ Linux Sonstige Windows
 
 **Calo (Computer-Aided-Laboratory-Order)**
 
-**MVZ Labor Dr. Quade und Kollegen GmbH** Hugo-Eckener-Straße 45 50829 Köln Internet: lab-quade.de
+**MVZ Labor Dr. Quade und Kollegen GmbH** Hugo-Eckener-Straße 45
+
+Y/43/2507/24/603 50829 Köln Internet: lab-quade.de
 
 **Pro_Medico**
 
-**Neutz GmbH Systemhaus** Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net
+**Neutz GmbH Systemhaus** Schwabstraße 22
+
+Y/43/2409/37/043 74189 Weinsberg Internet: www.neutz.net
+
+**SMARTY**
+
+**New Media Company GmbH & Co. KG** Königstraße 7
 
 |  | Y/43/2501/24/299 | 31.12.2026 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Y/43/2607/18/345 | 31.12.2027 | LDT-Befund-Zervix-Zytologie - Export |  |
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+26180 Rastede Internet: www.newmediacompany.de
 
-Y/43/2507/24/603 30.06.2027
+**NEXUS / PATHOLOGIE und NEXUS /** **ZYTOLOGIE**
 
-Y/43/2409/37/043 30.09.2027
+**NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1
 
-Digitales Muster 10 - Export
+iOS/Android Linux 30.06.2027 Digitales Muster 10 - Export
 
-LDT-Befund - Import
+Mac OS Sonstige Windows 30.09.2027 LDT-Befund - Import
 
-iOS/Android Linux Mac OS Sonstige Windows
+Windows
 
-SMARTY New Media Company GmbH & Co. KG Königstraße 7 26180 Rastede Internet: www.newmediacompany.de NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE NEXUS / DIGITAL PATHOLOGY GmbH Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de Windows WindowsWindows
+Windows
+
+Windows
+
+78166 Donaueschingen Internet: nexus-pathozyto.de
+
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 
 ---
@@ -696,29 +808,41 @@ SMARTY New Media Company GmbH & Co. KG Königstraße 7 26180 Rastede Internet: w
 
 **dc-pathos/dc-ross**
 
-**NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
+**NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1
+
+Y/43/2604/21/441 78166 Donaueschingen Internet: nexus-pathozyto.de
 
 **order-entry**
 
-**NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1 78166 Donaueschingen Internet: nexus-pathozyto.de
+**NEXUS / DIGITAL PATHOLOGY GmbH** Irmastraße 1
+
+Y/43/2501/24/692 78166 Donaueschingen Internet: nexus-pathozyto.de
+
+**PegaMed**
+
+**PEGA Elektronik GmbH** Felix-Dahn-Straße 15
 
 |  | Y/43/2501/24/083 | 31.12.2026 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Y/43/2501/24/475 | 31.12.2026 | LDT-Befund - Export |  |
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+70597 Stuttgart Internet: www.pegamed.de
 
-Y/43/2604/21/441 31.12.2027
+**Pegasus Software für Pathologie und Zytologie**
 
-Y/43/2501/24/692 31.12.2026
+**Pegasus Datensysteme** Josephsburgstr. 75
 
-LDT-Befund-Zervix-Zytologie - Export
+Sonstige 31.12.2027 LDT-Befund-Zervix-Zytologie - Export Windows
 
-Digitales Muster 39 - Export
+Linux 31.12.2026 Digitales Muster 39 - Export
 
-Sonstige Windows
+Mac OS Windows
 
-PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www.pegamed.de Pegasus Software für Pathologie und Zytologie Pegasus Datensysteme Josephsburgstr. 75 81673 München Internet: www.pegasus-zytologie.de Windows WindowsLinux Mac OS Windows
+Windows
+
+Windows 81673 München Internet: www.pegasus-zytologie.de
+
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 
 ---
@@ -736,21 +860,35 @@ PegaMed PEGA Elektronik GmbH Felix-Dahn-Straße 15 70597 Stuttgart Internet: www
 
 **QS QualitySoft GmbH** Tempowerkring 21a 21079 Hamburg Internet: www.qualitysoft.de
 
+**RED medical classic**
+
+**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
+
+**S3-Win**
+
+**S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
+
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
+
+Y/43/2507/24/247
+
+Z/43/2410/24/801
+
 |  | Y/43/2504/24/456 | 31.03.2027 | LDT-Befund - Import |  |
 |---|---|---|---|---|
 |  | Y/43/2510/24/261 | 30.09.2027 | LDT-Befund - Import |  |
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
-
-Y/43/2507/24/247
-
-Z/43/2410/24/801 30.06.2027 LDT-Befund - Import
+30.06.2027 LDT-Befund - Import
 
 Digitales Muster 10A - Export Digitales Muster 10A - Import Digitales Muster 10 - Export 30.09.2026 Digitales Muster 10 - Import LDT-Auftrag - Export LDT-Auftrag - Import LDT-Befund - Import
 
 Windows
 
-RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE S3-Win S3 Praxiscomputer GmbH / Maximilian Flender Lorscher Straße 2 69469 Weinheim Internet: http://www.praxiscomputer.de iOS/Android Linux Mac OS Sonstige Windows Sonstige WindowsWindows
+Windows
+
+iOS/Android Linux Mac OS Sonstige Windows
+
+Sonstige Windows
 
 
 ---
@@ -776,7 +914,7 @@ RED medical classic RED Medical Systems GmbH Lutzstraße 2 80687 München Intern
 
 **STIWA AMS GmbH** Salzburger Straße 52 A 4800 Attnang-Puchheim Internet: www.stiwa.com
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 Y/43/2501/36/458
 
@@ -832,7 +970,7 @@ X/43/2410/24/529
 
 Y/43/2501/24/457
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026 30.09.2026 LDT-Befund - Import
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026 30.09.2026 LDT-Befund - Import
 
 30.09.2026 LDT-Befund - Import
 
@@ -867,7 +1005,7 @@ Y/43/2509/37/768
 
 30.09.2028 LDT-Befund - Import
 
-Seite 23 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 05. September 2026
+Seite 23 / KBV / Verzeichnis zertifizierter Software für die Labordatenkommunikation / 12. September 2026
 
 **unterstützte** **Betriebssysteme**
 

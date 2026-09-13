@@ -22,14 +22,14 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **6**
 
-| 2 | PRÜ FVORGABEN | 7 |
+| 2 | PRÜFVORGABEN | 7 |
 |---|---|---|
 | 2.1 | Test- und Zertifizierung-Backend | 7 |
-| 2.2 | Prü fstammdatei | 7 |
+| 2.2 | Prüfstammdatei | 7 |
 | 2.3 | Praxisdaten | 7 |
-| 2.4 | Abrechnungsdatei und Sammelerklä rung | 7 |
-| 2.5 | Testverschlü sselung | 8 |
-| 2.6 | Prü funterlagen | 8 |
+| 2.4 | Abrechnungsdatei und Sammelerklärung | 7 |
+| 2.5 | Testverschlüsselung | 8 |
+| 2.6 | Prüfunterlagen | 8 |
 | 2.7 | Zertifizierungsablauf | 8 |
 |  | 2.7.2 Zertifizierungsportal | 9 |
 
@@ -84,9 +84,6 @@ Versand 1ClickAbrechnung-Lieferung  11
 3.11 PF-11 Anforderungen [1Click0130]  Versand 1ClickAbrechnung inkl. Sammelerklärung als  Echtpaket 16
 
 Seite 2 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
-
-PRÜFVORGABEN Prüfstammdatei Abrechnungsdatei und Sammelerklärung Testverschlüsselung Prüfunterlagen 
-
 
 ---
 
@@ -143,28 +140,18 @@ DOKUMENTENHISTORIE
 | 2.1 | 16.10.2023 | KBV | Redaktionelle |  | 11 |
 | 2.0 | 26 | KBV | Komplettüberarbeitung  Überarbeitung des | Kommunikationsweg | Alle |
 | 1.14 | 10.02.2023 | KBV | Redaktionelle |  | Alle |
-| Anpassungen beim | Bessere | 11 |  |  | 2.3 |
-|  |  | 24.06.2026 | KBV  Überarbeitung des | Überarbeitung und | Alle  2.4 |
 
 Seite 4 von 26 / KBV / Prüfpaket 1ClickAbrechnung
 
 / Version: 2.5 / 24. Juni 2026
 
-.07.2023 verbesserte Prüfpakets Prüfungen des Test- Zertifizierungsbackend PF04 Verständlichkeit und Vermeidung von Missverständnissen 4.4.1 Prüfergebnisse im 1Click0136/d Prüfprotokoll Prüffalls (PF-11) die Referenzumgebung (RU) der Telematikinfrastruktur PF06 Verständlichkeit und Vermeidung von Missverständnissen Änderung (Anpassung des Textes für den menschenlesbaren Body, Einfügen eines Hinweises) des Prüfpaketes KIM statt KV-Connect Layouts Änderung und Korrektur der Links 
+.07.2023 Prüfpakets verbesserte Prüfungen des Test- Zertifizierungsbackend PF04 Verständlichkeit und Vermeidung von Missverständnissen 4.4.1 Prüfergebnisse im 1Click0136/d Prüfprotokoll Prüffalls (PF-11) die Referenzumgebung (RU) der Telematikinfrastruktur PF06 Verständlichkeit und Vermeidung von Missverständnissen Änderung (Anpassung des Textes für den menschenlesbaren Body, Einfügen eines Hinweises) des Prüfpaketes KIM statt KV-Connect Layouts Änderung und Korrektur der Links 
 
 
 ---
 
-|  |  |  |  |  |  |
+| VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | SEITE |
 |---|---|---|---|---|---|
-|  | KBV | Klarstellung zur | Klarstellung zum Audit |  | 12 |
-| 13 |  |  | **VERSION** | **DATUM** | **AUTOR** |
-| **SEITE** |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **VERSION** | **DATUM** | **AUTOR** | **ÄNDERUNG** | **BEGRÜNDUNG** | **SEITE** |
 | 1.13 | 15.05.2020 | KBV | Klarstellung zur  Klarstellung zum Audit |  | 12      13 |
 
 Seite 5 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
@@ -479,8 +466,7 @@ Seite 13 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 20
 
 Zur Prüfung dieser Anforderung sendet der Antragsteller über sein Software-System:
 
-- eine 1ClickAbrechnung-Lieferung Echtabrechnung an die Adresse:
-- [kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)[](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)
+- eine 1ClickAbrechnung-Lieferung Echtabrechnung an die Adresse:  [kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)[](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)
 
 ### 3.7.1 Einzureichende Prüfunterlagen
 
@@ -503,8 +489,7 @@ Zusätzlich muss Folgendes erläutert werden:
 
 Zur Prüfung dieser Anforderung sendet der Antragsteller über sein Software-System:
 
-- eine 1ClickAbrechnung-Lieferung Echtabrechnung an die Adresse:
-- [kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)[](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)
+- eine 1ClickAbrechnung-Lieferung Echtabrechnung an die Adresse:  [kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)[](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)
 
 ### 3.8.1 Einzureichende Prüfunterlagen
 
@@ -528,8 +513,7 @@ Für den Screencast ist es nicht erforderlich, das Versenden der 1ClickAbrechnun
 
 Zur Prüfung dieser Anforderung sendet der Antragsteller über sein Software-System:
 
-- eine 1ClickAbrechnung-Lieferung Echtabrechnung an die Adresse:
-- [kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)[](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)
+- eine 1ClickAbrechnung-Lieferung Echtabrechnung an die Adresse:  [kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)[](mailto:kv.digital-Adressat-antwortetnicht@kv.digital.kim.telematik-test)
 
 ### 3.9.1 Einzureichende Prüfunterlagen
 
@@ -698,6 +682,16 @@ Seite 19 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 20
 |---|---|---|---|
 | "1ClickAbrechnung-  Lieferung" | Nachricht  "1ClickAbrechnung- Fehler | Datenpakete sind fehlerfrei | Prüfprotokoll  Technische Rückmeldung (MDN), wenn von der KV unterstützt  Fachliche Rückmeldung, wenn von der KV unterstützt |
 
+**Tabelle 1: Verhalten des Prüfclients**
+
+Die Nachrichten werden vom Prüfclient in regelmäßigen Zeitabständen abgerufen und verarbeitet.
+
+## 4.4 PRÜFUNGEN DER 1CLICKABRECHNUNG-LIEFERUNGEN
+
+### 4.4.1 Prüfergebnisse im Prüfprotokoll
+
+In der nachfolgenden Tabelle werden die Prüfungen erläutert, die das Backend durchführt und deren Ergebnisse im Prüfprotokoll vermerkt werden.
+
 | PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
 |---|---|---|---|
 | AAA0010 | Ist das Element „ | Ja / Nein |  |
@@ -705,62 +699,13 @@ Seite 19 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 20
 | AAA0020 | Ist das Element „ | Ja / Nein |  |
 | AAA0021 | Ist das Element „ | Ja / Nein | entfällt, wenn Ergebnis AAA0020 = Nein |
 | AAA0030 | Ist das Element „ | Ja / Nein |  |
-|  |  |  |  |
-|  | "1ClickAbrechnung- |  | Lieferung" |
-|  | "1ClickAbrechnung- | Fehler | Datenpakete sind fehlerfrei |
-| Fachliche Rückmeldung, wenn von der KV unterstützt | **Tabelle 1: Verhalten des Prüfclients** | Die Nachrichten werden vom Prüfclient in regelmäßigen Zeitabständen abgerufen und verarbeitet. |  |
-| In der nachfolgenden Tabelle werden die Prüfungen erläutert, die das Backend durchführt und deren Ergebnisse im Prüfprotokoll vermerkt werden. |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | AAA0010 |  | Ist das Element „ |
-|  | 1Click0110 |  | Ist das Element |
-|  | AAA0020 |  | Ist das Element „ |
-|  | AAA0021 |  | Ist das Element „ AAA0030    Ergebnis der Prüfung |
-| **ERGEBNIS** |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| Lieferung"  Nachricht | | | |
-|  | Die Nachrichten werden vom Prüfclient in regelmäßigen Zeitabständen abgerufen und verarbeitet. |  | **4.4** |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  | Ist das Element |
-| Ist das Element „ |  |  |  |
-| Ist das Element „ | entfällt, wenn Ergebnis AAA0020 = Nein |  |  |
-| Ist das Element „ |  |  | Was wird an das Backend  Datenpakete **ERGEBNIS** |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | "1ClickAbrechnung- |  | Lieferung" |
-|  | "1ClickAbrechnung- | Fehler | Datenpakete sind fehlerfrei **Tabelle 1: Verhalten des Prüfclients  4.4.1** |
-|  |  |  |  |
-|  | AAA0010 |  | Ist das Element „ 1Click0110  entfällt, wenn Ergebnis AAA0010 = Nein  Ist das Element „ |
-| Ist das Element „ |  |  | Was wird an das Backend  Datenpakete **ERGEBNIS** |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | "1ClickAbrechnung- |  | Lieferung" |
-|  | "1ClickAbrechnung- | Fehler | Datenpakete sind fehlerfrei |
-| Fachliche Rückmeldung, wenn von der KV unterstützt | **Tabelle 1: Verhalten des Prüfclients** | Die Nachrichten werden vom Prüfclient in regelmäßigen Zeitabständen abgerufen und verarbeitet. |  |
-|  | AAA0010 |  | Ist das Element „ |
-|  | 1Click0110 |  | Ist das Element  AAA0020    Ist das Element „ Was wird an das Backend  Datenpakete |
-| **PRÜFUMFANG** | **HINWEIS** |  |  |
-|  |  |  |  |
-| Lieferung" | | | |
-| Datenpakete sind fehlerfrei | Technische Rückmeldung (MDN), wenn von der KV unterstützt | Fachliche Rückmeldung, wenn von der KV unterstützt |  |
-|  | **4.4.1** | In der nachfolgenden Tabelle werden die Prüfungen erläutert, die das Backend durchführt und deren Ergebnisse im Prüfprotokoll vermerkt werden. |  |
 
-Lieferung" enthielt Fehler oder keine oder nicht fehlerfrei PRÜFUNGEN DER 1CLICKABRECHNUNG-LIEFERUNGEN Prüfergebnisse im Prüfprotokoll X-KIM-Dienstkennung eingerichtet? X-KIM-Dienstkennung mit dem vorgegebenen Wert befüllt? X-KIM-Sendersystem eingerichtet? X-KIM-Sendersystem vorgegebenen Syntax befüllt? Subject “ im Nachrichten-Header eingerichtet? “ im Nachrichten-Header “ im Nachrichten-Header “ entsprechend der
+Lieferung" enthielt Fehler oder keine oder nicht fehlerfrei X-KIM-Dienstkennung eingerichtet? X-KIM-Dienstkennung mit dem vorgegebenen Wert befüllt? X-KIM-Sendersystem eingerichtet? X-KIM-Sendersystem vorgegebenen Syntax befüllt? Subject “ im Nachrichten-Header eingerichtet? “ im Nachrichten-Header “ im Nachrichten-Header “ entsprechend der
 
 ---
 
-|  |  | BGD0102 |  |
+| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
 |---|---|---|---|
-| Enthält die Nachricht " |  |  |  |
-| Die Metainformationen im MIME-Segment der Begleitdatei sind | entfällt, wenn 1Click0131 = Nein |  |  |
-| Die Metainformationen im MIME-Segment der Begleitdatei sind | entfällt, wenn 1Click0142/a = Nein |  |  |
-| Ist die Begleitdatei valide zur XSD-Schemadatei | entfällt, wenn: |  |  |
-| › |  |  | › |
-| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 | 1Click0111 | Ist das Element | Ja / Nein | entfällt, wenn Ergebnis AAA0030 = Nein |
 | AAA0050 | Ist das Element | Ja / Nein | Korrekter Aufbau wird im Rahmen der Zertifizierung |
 | 1Click0002 | Enthält der Nachrichten-Header kein Element | Ja / Nein |  |
@@ -773,64 +718,15 @@ Lieferung" enthielt Fehler oder keine oder nicht fehlerfrei PRÜFUNGEN DER 1CLIC
 | BGD0101 | Ist die Begleitdatei valide zur XSD-Schemadatei | Ja / Nein | entfällt, wenn:  › › › |
 | BGD0102 | Ist die Begleitdatei mit dem Zeichensatz UTF-8 erstellt worden? | Ja / Nein | entfällt, wenn BGD0101 = Nein |
 | 1Click0134/a0 | Wird in der Begleitdatei eine Abrechnungsdatei angekündigt? | Ja / Nein | entfällt, wenn:  › › |
-| **ERGEBNIS** | **HINWEIS** |  |  |
-| entfällt, wenn Ergebnis AAA0030 = Nein | | | |
-|  | Ja / Nein |  |  |
-|  | Ja / Nein |  |  |
-|  | Ja / Nein | Inforegel |  |
-|  | Ja / Nein | entfällt, wenn Ergebnis AAA0060 = Nein | Ja / Nein  1Click0142/a  entfällt, wenn 1Click0131 = Nein |
-| entfällt, wenn 1Click0142/a = Nein |  | BGD0101 |  |
-| entfällt, wenn: |  |  |  |
-|  | › |  | BGD0102  entfällt, wenn BGD0101 = Nein |
-|  |  |  |  |
-|  |  |  | **PRÜFNUMMER** |
-|  |  |  |  |
-| 1Click0111 | Ist das Element | Ja / Nein | entfällt, wenn Ergebnis AAA0030 = Nein |
-| AAA0050 | Ist das Element | Ja / Nein | Korrekter Aufbau wird im Rahmen der Zertifizierung  Enthält der Nachrichten-Header kein Element  Ja / Nein  AAA0060 |
-| AAA0060/a | Sind die Metainformationen für den Mail-Body korrekt | Ja / Nein | entfällt, wenn Ergebnis AAA0060 = Nein |
-| 1Click0131 | Enthält die Nachricht " | Ja / Nein | Die Metainformationen im MIME-Segment der Begleitdatei sind  Ja / Nein  BGD0101  entfällt, wenn: |
-|  | › |  | BGD0102  entfällt, wenn BGD0101 = Nein |
-|  |  |  |  |
-| **PRÜFNUMMER** | **ERGEBNIS** | **HINWEIS** |  |
-|  |  |  |  |
-| 1Click0111 | Ist das Element | Ja / Nein | entfällt, wenn Ergebnis AAA0030 = Nein |
-| AAA0050 | Ist das Element | Ja / Nein | Korrekter Aufbau wird im Rahmen der Zertifizierung |
-| 1Click0002 | Enthält der Nachrichten-Header kein Element | Ja / Nein | Enthält der Nachrichten-Header kein Element  Ja / Nein  AAA0060/a |
-| 1Click0131 | Enthält die Nachricht " | Ja / Nein |  |
-| 1Click0142/a | Die Metainformationen im MIME-Segment der Begleitdatei sind | Ja / Nein | entfällt, wenn 1Click0131 = Nein  Die Metainformationen im MIME-Segment der Begleitdatei sind  Ja / Nein |
-|  |  | Ist die Begleitdatei mit dem Zeichensatz UTF-8 erstellt worden? | Ja / Nein  › ›**ERGEBNIS** |
-|  | › |  |  |
-| entfällt, wenn Ergebnis AAA0030 = Nein | | | |
-| Korrekter Aufbau wird im Rahmen der Zertifizierung |  | 1Click0002 |  |
-|  |  | 1Click0003 | Ja / Nein  AAA0060/a |
 
 Seite 21 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
-Subject  mit dem vorgegebenen Wert befüllt? Message-ID  im Nachrichten-Header vorhanden und befüllt? Notification-To Cc angegeben? 1ClickAbrechnung-Lieferung MIME-Segment mit einer Begleitdatei im XML-Format? angelegt? entsprechend der Vorgaben befüllt? KVTA_Einlieferung-Abrechnung_2_0_0.xsd Disposition- genau geprüft. 1Click0131= Nein 1Click0142/b = Nein 1Click0131=Nein 1Click0142/a=Nein
+Subject  mit dem vorgegebenen Wert befüllt? Message-ID  im Nachrichten-Header vorhanden und befüllt? Disposition- Notification-To Cc angegeben? 1ClickAbrechnung-Lieferung genau MIME-Segment mit einer Begleitdatei im XML-Format? angelegt? entsprechend der Vorgaben befüllt? KVTA_Einlieferung-Abrechnung_2_0_0.xsd geprüft. 1Click0142/b = Nein
 
 ---
 
-|  |  | › |  |
+| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
 |---|---|---|---|
-|  |  |  |  |
-|  | › |  |  |
-|  | 1Click0142/d |  | Die Metainformationen im MIME-Segment Abrechnungsdatei sind |
-|  | 1Click0134/d |  | Die Angabe des Dateinamens der Abrechnungsdatei im MIME- |
-|  | 1Click0134/b0 |  | Wird in der Begleitdatei eine Sammelerklärung angekündigt? |
-| wird nur ausgeführt, wenn 1Click0134/b0 = Nein |  | **PRÜFNUMMER** | **PRÜFUMFANG** |
-|  |  |  | › |
-|  |  |  |  |
-|  |  | Ist die in der Begleitdatei angekündigte Abrechnungsdatei genau | Ja / Nein |
-|  |  | Ist keine Abrechnungsdatei enthalten (da aufgrund der Angaben in | Ja / Nein |
-|  |  | Ist maximal eine Abrechnungsdatei enthalten (da die Begleitdatei | Ja / Nein |
-|  |  | Die Metainformationen im MIME-Segment der Abrechnungsdatei | Ja / Nein |
-|  |  | › |  |
-| › |  |  | › |
-|  |  |  | 1Click0142/d |
-| Ja / Nein |  |  | 1Click0134/d  Wird in der Begleitdatei eine Sammelerklärung angekündigt? |
-| › |  |  | › |
-|  |  |  |  |
-| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 | › › | | | |
 | 1Click0134/a1 | Ist die in der Begleitdatei angekündigte Abrechnungsdatei genau | Ja / Nein | entfällt, wenn 1Click0134/a0 = Nein |
 | 1Click0134/a2 | Ist keine Abrechnungsdatei enthalten (da aufgrund der Angaben in | Ja / Nein | entfällt, wenn 1Click0134/a0 = Nein |
@@ -841,64 +737,15 @@ Subject  mit dem vorgegebenen Wert befüllt? Message-ID  im Nachrichten-Header v
 | 1Click0134/b0 | Wird in der Begleitdatei eine Sammelerklärung angekündigt? | Ja / Nein | entfällt, wenn:  › › › › |
 | 1Click0134/b1 | Ist die in der Begleitdatei angekündigte XML-Sammelerklärung | Ja / Nein | wird nur ausgeführt, wenn 1Click0134/b0 = Ja |
 | 1Click0134/b2 | Ist keine XML-Sammelerklärung enthalten (da aufgrund der | Ja / Nein | wird nur ausgeführt, wenn 1Click0134/b0 = Nein |
-|  |  |  |  |
-|  |  |  | › |
-|  |  |  | Ist keine Abrechnungsdatei enthalten (da aufgrund der Angaben in |
-|  |  | Die Metainformationen im MIME-Segment der Abrechnungsdatei | Ja / Nein |
-|  |  | › | Ja / Nein  1Click0134/d |
-| 1Click0134/b0 | Wird in der Begleitdatei eine Sammelerklärung angekündigt? | Ja / Nein | entfällt, wenn:  › › › › |
-| wird nur ausgeführt, wenn 1Click0134/b0 = Ja |  | 1Click0134/b2 |  |
-| wird nur ausgeführt, wenn 1Click0134/b0 = Nein | **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** |
-|  |  |  |  |
-|  |  |  | › |
-|  |  |  |  |
-|  |  | Ist die in der Begleitdatei angekündigte Abrechnungsdatei genau | Ja / Nein  Ist maximal eine Abrechnungsdatei enthalten (da die Begleitdatei |
-|  |  | › |  |
-| › |  |  | › Die Metainformationen im MIME-Segment Abrechnungsdatei sind  Ja / Nein  1Click0134/b0  entfällt, wenn:  › |
-|  |  |  | › Ist keine XML-Sammelerklärung enthalten (da aufgrund der **PRÜFNUMMER** |
-| wird nur ausgeführt, wenn 1Click0134/b0 = Ja |  |  | 1Click0134/b2 |
-| › | | | |
-|  |  |  | 1Click0134/a1 |
-| Ja / Nein |  |  | 1Click0134/a2  Ist maximal eine Abrechnungsdatei enthalten (da die Begleitdatei |
 
 Seite 22 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
-einmal enthalten? der Begleitdatei keine zu erwarten ist)? fehlt oder ungültig ist)? sind angelegt? entsprechend der Vorgaben befüllt? Segment stimmt mit der Angabe des Dateinamens in der Begleitdatei überein? genau einmal enthalten? Angaben in der Begleitdatei keine zu erwarten ist)? 1Click0142/b=Nein BGD0101=Nein 1Click0134/a1 = Nein 1Click0134/a2 = Ja 1Click0134/a3 = Nein 1Click0131 = Nein 1Click0142/a = Nein 1Click0142/b = Nein
+einmal enthalten? der Begleitdatei keine zu erwarten ist)? fehlt oder ungültig ist)? sind angelegt? entsprechend der Vorgaben befüllt? Segment stimmt mit der Angabe des Dateinamens in der Begleitdatei überein? genau einmal enthalten? Angaben in der Begleitdatei keine zu erwarten ist)? 1Click0142/b=Nein 1Click0134/a1 = Nein 1Click0134/a2 = Ja 1Click0134/a3 = Nein 1Click0131 = Nein 1Click0142/a = Nein 1Click0142/b = Nein
 
 ---
 
-|  |  | › |  |
+| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
 |---|---|---|---|
-| Wurde die Namenskonvention für die Sammelerklärung im XML- | 1Click0136/b entfällt, wenn: |  |  |
-| › |  |  | › |
-|  |  |  |  |
-|  | › |  |  |
-|  | 1Click0136/c |  | Ist die Sammelerklärung im XML-Format valide zur XSD- |
-| 1Click0134/c1 |  | Ist die in der Begleitdatei angekündigte PDF-Sammelerklärung | Ja / Nein |
-| 1Click0134/b3 | Ist maximal eine XML-Sammelerklärung enthalten (da die | Ja / Nein | wird nur ausgeführt, wenn BGD0101 = Nein |
-| 1Click0142/e | Die Metainformationen im MIME-Segment der Sammelerklärung | Ja / Nein | entfällt, wenn |
-|  | › |  |  |
-|  |  | › |  |
-| › |  |  |  |
-| 1Click0142/f | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | entfällt, wenn 1Click0142/e = Nein |
-| 1Click0136/b | Wurde die Namenskonvention für die Sammelerklärung im XML- | Ja / Nein | 1Click0136/b entfällt, wenn: |
-|  | › |  |  |
-|  |  | › |  |
-| › |  |  | › Ist die Sammelerklärung im XML-Format valide zur XSD- |
-| › |  |  | › |
-|  |  |  |  |
-| Ist die in der Begleitdatei angekündigte PDF-Sammelerklärung | Ja / Nein | wird nur ausgeführt, wenn 1Click0134/b0 = Ja |  |
-| wird nur ausgeführt, wenn BGD0101 = Nein | | | |
-|  |  |  |  |
-|  | › |  |  |
-|  |  |  |  |
-|  | Ja / Nein | entfällt, wenn 1Click0142/e = Nein | Ja / Nein |
-|  |  | › |  |
-| › |  |  |  |
-| 1Click0136/c | Ist die Sammelerklärung im XML-Format valide zur XSD- | Ja / Nein | entfällt, wenn:  › › › › |
-|  |  |  | 1Click0136/d |
-| Ja / Nein |  |  | 1Click0134/c1 |
-| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 | 1Click0134/b3 | Ist maximal eine XML-Sammelerklärung enthalten (da die | Ja / Nein | wird nur ausgeführt, wenn BGD0101 = Nein |
 | 1Click0142/e | Die Metainformationen im MIME-Segment der Sammelerklärung | Ja / Nein | entfällt, wenn  › › › › |
 | 1Click0142/f | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | entfällt, wenn 1Click0142/e = Nein |
@@ -906,17 +753,6 @@ einmal enthalten? der Begleitdatei keine zu erwarten ist)? fehlt oder ungültig 
 | 1Click0136/c | Ist die Sammelerklärung im XML-Format valide zur XSD- | Ja / Nein | entfällt, wenn:  › › › › › |
 | 1Click0136/d | Ist die Sammelerklärung im XML-Format in der aktuellen | Ja / Nein | entfällt, wenn 1Click0136/c = Nein |
 | 1Click0134/c1 | Ist die in der Begleitdatei angekündigte PDF-Sammelerklärung | Ja / Nein | wird nur ausgeführt, wenn 1Click0134/b0 = Ja |
-| **ERGEBNIS** | **HINWEIS** |  |  |
-| 1Click0134/b3 | Ist maximal eine XML-Sammelerklärung enthalten (da die | Ja / Nein | wird nur ausgeführt, wenn BGD0101 = Nein |
-| 1Click0142/e | Die Metainformationen im MIME-Segment der Sammelerklärung | Ja / Nein | entfällt, wenn |
-|  | › |  | 1Click0142/f |
-| 1Click0136/b | Wurde die Namenskonvention für die Sammelerklärung im XML- | Ja / Nein | 1Click0136/b entfällt, wenn: |
-|  | › |  | 1Click0136/c  entfällt, wenn:  › |
-|  |  |  | › › Ist die in der Begleitdatei angekündigte PDF-Sammelerklärung |
-| 1Click0136/d |  | Ist die Sammelerklärung im XML-Format in der aktuellen | Ja / Nein |
-| wird nur ausgeführt, wenn BGD0101 = Nein | | | |
-| entfällt, wenn |  |  |  |
-|  | › |  | 1Click0142/f |
 
 Seite 23 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
@@ -924,56 +760,14 @@ Begleitdatei fehlt oder ungültig ist)? im XML-Format sind angelegt? XML-Format 
 
 ---
 
-|  | 1Click0141/a |  | Wurde die Namenskonvention für die Sammelerklärung im PDF- |
+| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
 |---|---|---|---|
-| Die Metainformationen im MIME-Segment Sammelerklärung im | 1Click0142/h entfällt, wenn 1Click0142/g = Nein |  |  |
-| Ist die Sammelerklärung im PDF/A-Format erstellt worden? | entfällt, wenn: |  |  |
-| › |  |  | › |
-|  |  |  |  |
-|  | › |  |  |
-|  |  | › |  |
-| 1Click0134/c2 | Ist keine PDF-Sammelerklärung enthalten (da aufgrund der | Ja / Nein | wird nur ausgeführt, wenn 1Click0134/b0 = Nein |
-| 1Click0134/c3 | Ist maximal eine PDF-Sammelerklärung enthalten (da die | Ja / Nein | wird nur ausgeführt, wenn BGD0101 = Nein |
-| 1Click0142/g | Die Metainformationen im MIME-Segment der Sammelerklärung | Ja / Nein | entfällt, wenn: |
-|  | › |  |  |
-|  |  | › |  |
-| › |  |  |  |
-| 1Click0142/h | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | 1Click0142/h entfällt, wenn 1Click0142/g = Nein |
-| 1Click0137 | Ist die Sammelerklärung im PDF/A-Format erstellt worden? | Ja / Nein | entfällt, wenn: |
-|  | › |  |  |
-|  |  | › |  |
-|  | Ja / Nein | entfällt, wenn: |  |
-|  |  |  | › › |
-| › |  |  |  |
-| wird nur ausgeführt, wenn 1Click0134/b0 = Nein | | | |
-|  | Ja / Nein | entfällt, wenn: |  |
-|  |  |  |  |
-|  | › |  |  |
-|  |  |  | Ja / Nein  1Click0137  entfällt, wenn: |
-|  | › |  |  |
-|  |  | › |  |
-| › |  |  | › geprüft wird gegen den Standard PDF/A-1b  › |
-|  |  |  |  |
-|  | › |  |  |
-|  |  | **PRÜFNUMMER** | **PRÜFUMFANG** |
-| 1Click0134/c2 | Ist keine PDF-Sammelerklärung enthalten (da aufgrund der | Ja / Nein | wird nur ausgeführt, wenn 1Click0134/b0 = Nein |
-| 1Click0134/c3 | Ist maximal eine PDF-Sammelerklärung enthalten (da die | Ja / Nein | wird nur ausgeführt, wenn BGD0101 = Nein  Die Metainformationen im MIME-Segment der Sammelerklärung |
-| › |  |  |  |
-| 1Click0142/h | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | 1Click0142/h entfällt, wenn 1Click0142/g = Nein  Ist die Sammelerklärung im PDF/A-Format erstellt worden? |
-| › |  |  | › geprüft wird gegen den Standard PDF/A-1b  › › |
-|  |  |  |  |
-|  | › |  |  |
-| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 | 1Click0134/c2 | Ist keine PDF-Sammelerklärung enthalten (da aufgrund der | Ja / Nein | wird nur ausgeführt, wenn 1Click0134/b0 = Nein |
 | 1Click0134/c3 | Ist maximal eine PDF-Sammelerklärung enthalten (da die | Ja / Nein | wird nur ausgeführt, wenn BGD0101 = Nein |
 | 1Click0142/g | Die Metainformationen im MIME-Segment der Sammelerklärung | Ja / Nein | entfällt, wenn:  › › › › |
 | 1Click0142/h | Die Metainformationen im MIME-Segment Sammelerklärung im | Ja / Nein | 1Click0142/h entfällt, wenn 1Click0142/g = Nein |
 | 1Click0137 | Ist die Sammelerklärung im PDF/A-Format erstellt worden? | Ja / Nein | entfällt, wenn:  › › › › › › geprüft wird gegen den Standard PDF/A-1b |
 | 1Click0141/a | Wurde die Namenskonvention für die Sammelerklärung im PDF- | Ja / Nein | entfällt, wenn:  › › › › › › |
-|  | › |  |  |
-| wird nur ausgeführt, wenn 1Click0134/b0 = Nein | | | |
-| wird nur ausgeführt, wenn BGD0101 = Nein |  | 1Click0142/g |  |
-| entfällt, wenn: |  |  | › › › |
 
 Seite 24 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
 
@@ -981,75 +775,35 @@ Angaben in der Begleitdatei keine zu erwarten ist)? Begleitdatei fehlt oder ung�
 
 ---
 
-|  |  |  |  |
+| PRÜFNUMMER | PRÜFUMFANG | ERGEBNIS | HINWEIS |
 |---|---|---|---|
-|  |  | Die Fachliche Rückmeldung, die durch das Backend erstellt wird, hat beispielhaften Charakter. Je nach KV können auch andere (PDF)-Dokumente versendet |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  | Abrechnungsdatei |
-|  |  |  | › |
-|  |  |  |  |
-|  |  |  | › |
-|  |  |  | 1Click0141/b |
-| Ja / Nein |  |  | 1Click0134/e |
-| Ja / Nein |  |  |  |
-|  |  | › |  |
-| › |  |  |  |
-| **4.4.2** |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  | › › |
-|  |  |  |  |
-|  |  |  | ›**PRÜFUMFANG** |
-|  |  |  |  |
-| › | | | |
-| entfällt, wenn 1Click0141/a = Nein |  | 1Click0134/e |  |
-| entfällt, wenn: |  |  |  |
-|  | › |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | Abrechnungsdatei |  | Prüfung der Verschlüsselung (XKM) |
-|  | › |  |  |
-|  |  | **HINWEIS** | **PRÜFNUMMER** |
-| **HINWEIS** | **PRÜFUMFANG** | **HINWEIS** |  |
-|  |  |  |  |
-|  |  |  | › |
-|  |  |  | 1Click0141/b  Stimmen die Dateinamen der Sammelerklärung alle überein (PDF |
-| › |  |  |  |
-| **4.4.2** |  |  |  |
-|  | › |  |  |
-| **PRÜFNUMMER** | **ERGEBNIS** | **HINWEIS** | **DATENPAKET** |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  | › |
-|  |  |  | 1Click0141/b |
-| Ja / Nein |  |  | 1Click0134/e  › › › |
-| **4.4.2** |  |  |  |
-|  |  |  |  |
-|  |  |  | **PRÜFUMFANG  PRÜFUMFANG** |
-| **PRÜFNUMMER** | **PRÜFUMFANG** | **ERGEBNIS** | **HINWEIS** |
 | › | | | |
 | 1Click0141/b | Ist die Dateinamenserweiterung der Sammelerklärung im PDF- | Ja / Nein | entfällt, wenn 1Click0141/a = Nein |
 | 1Click0134/e | Stimmen die Dateinamen der Sammelerklärung alle überein (PDF | Ja / Nein | entfällt, wenn:  › › › |
 
-Seite 25 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+**Tabelle 2: Prüfungen der 1ClickAbrechnung-Lieferung | Prüfprotokoll**
 
-Tabelle 2: Prüfungen der 1ClickAbrechnung-Lieferung | Prüfprotokoll Prüfungen der Fachlichen Rückmeldung In der nachfolgenden Tabelle sind die Prüfungen aufgelistet, die das Backend durchführt und deren Ergebnisse in der Fachlichen Rückmeldung mitgeteilt werden. werden. Format " .sig.pdf und XML jeweils in der Begleitdatei und im entsprechenden MIME- Anhang)? Plausibilitätsprüfung (XPM) 1Click0137 = Nein 1Click0142/f=Nein 1Click0142/h=Nein  1Click0134/b0=Nein Test-Entschlüsselung Ergebnis wird als Anhang (protokoll.pdf) zurückgesendet entfällt, wenn keine Abrechnungsdatei enthalten ist aktuelles XPM | DATENPAKET | PRÜFUMFANG | HINWEIS |
+### 4.4.2 Prüfungen der Fachlichen Rückmeldung
+
+In der nachfolgenden Tabelle sind die Prüfungen aufgelistet, die das Backend durchführt und deren Ergebnisse in der Fachlichen Rückmeldung mitgeteilt  werden.
+
+**HINWEIS**
+
+Die Fachliche Rückmeldung, die durch das Backend erstellt wird, hat beispielhaften Charakter. Je nach KV können auch andere (PDF)-Dokumente versendet  werden.
+
+| DATENPAKET | PRÜFUMFANG | HINWEIS |
 |---|---|---|
 | Abrechnungsdatei | Prüfung der Verschlüsselung (XKM) | › › › |
 |  | Plausibilitätsprüfung (XPM) | › |
-|  |  |  |
-|  | | |
-|  | Ist die Dateinamenserweiterung der Sammelerklärung im PDF- 1Click0134/e  entfällt, wenn: | Die Fachliche Rückmeldung, die durch das Backend erstellt wird, hat beispielhaften Charakter. Je nach KV können auch andere (PDF)-Dokumente versendet |
 
+Seite 25 von 26 / KBV / Prüfpaket 1ClickAbrechnung / Version: 2.5 / 24. Juni 2026
+
+Format " .sig.pdf und XML jeweils in der Begleitdatei und im entsprechenden MIME- Anhang)? 1Click0137 = Nein 1Click0142/f=Nein 1Click0142/h=Nein  1Click0134/b0=Nein Test-Entschlüsselung Ergebnis wird als Anhang (protokoll.pdf) zurückgesendet entfällt, wenn keine Abrechnungsdatei enthalten ist aktuelles XPM
 
 ---
 
-|  |  |  |
+| DATENPAKET | PRÜFUMFANG | HINWEIS |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-| **DATENPAKET** | **PRÜFUMFANG** | **HINWEIS** |
 | › › | | |
 | Sammelerklärung (PDF) | Prüfung der Signatur, ob:    › › › › › › | › › |
 

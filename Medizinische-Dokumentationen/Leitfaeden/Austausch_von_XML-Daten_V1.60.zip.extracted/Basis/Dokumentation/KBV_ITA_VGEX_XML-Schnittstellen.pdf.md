@@ -18,6 +18,10 @@ vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.60 Datum: 13.02
 
 **IT in der Arztpraxis** Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
+### DOKUMENTENHISTORIE
+
+Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 2026 in Kraft
+
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 1.60 | 13.02.2026 | KBV | Neue Schnittstelle: Adipositas - Er- Neue Schnittstelle: Adipositas - Kin-   Anpassung der Archivendungen |  | **12, 16, 27** **16** |
@@ -33,41 +37,72 @@ vertragsärztlichen Versorgung KBV_ITA_VGEX_XML-Schnittstellen 1.60 Datum: 13.02
 | 1.50 | 30.04.2019 | KBV | Neue Schnittstelle: Herzinsuffizienz  Erweiterung des Formats der Version |  | **11, 14, 27** **25** |
 | 1.49 | 21.01.2019 | KBV | Anpassung der Archivdateinamen im  Aktualisierung des Transportbegleit- |  | **14** **31** |
 | 1.48 | 28.06.2018 | KBV | Aufnahme des Archivdateinamens mit | Aufgrund einer Fehlerkorrek- | **14** |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  | 1.60  13.02.2026  KBV |
 
 KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
 
-DOKUMENTENHISTORIE Die Änderungen vom 13. Februar 2026 treten zum 1. Oktober 2026 in Kraft wachsene der und Jugendliche esselungssoftware der Begleitdatei krebs  eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs tur Komponentennummer im XML- Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer aktualisiert Seite 2 von 32
+wachsene der und Jugendliche esselungssoftware der Begleitdatei krebs  eDMPs DM1 und DM2  ritis pression ckenschmerz, Depression  der Verschlüsselungssoftware Zusammenhang mit der Aktualisie- rung des eDMPs Asthma zettel Beispiels der Endung *423 für die Übergangs- regelung des DMPs Brustkrebs tur Komponentennummer im XML- Schema wurde die Versionsnummer aktualisiert tur des Brustkrebsschemas wurde die Versionsnummer aktualisiert Seite 2 von 32
 
 
 ---
 
 **IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
-|  |  |  |  |  |  |
+| 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit  Streichung der Diskette als Datenträ- | Aktualisierung des DMP | 14   30, 30, 31 |
 |---|---|---|---|---|---|
-| **14** |  |  |  |  | **INHALTSVERZEICHNIS_____________________________________________________ **  **ABBILDUNGSVERZEICHNIS ________________________________________________ ** |
-|  | **TABELLENVERZEICHNIS** |  |  | **XML-CODE VERZEICHNIS __________________________________________________** | **1** |
-|  | **2** |  |  |  |  |
-| **2.2** |  |  |  | **2.3** |  |
-|  |  |  | **3.1** |  | **3.2** |
-|  |  | **3.3** |  |  | **3.4** |
-|  | 3.4.1 |  |  | 3.4.2 | 3.4.3 |
-| **4** |  |  | **4.1** |  | **4.2**   4.2.1 |
-| **INHALTSVERZEICHNIS** |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 1.47 | 25.05.2018 | KBV | Aufnahme des Archivdateinamens mit  Streichung der Diskette als Datenträ- | Aktualisierung des DMP | **14**   **30, 30, 31** |
 | 1.46 | 08.01.2018 | KBV | Anpassung der Archivdateinamen für |  | **14** |
 | 1.45 | 04.12.2017 | KBV | Anpassung der Archivdateinamens | Streichung des Modules | **14** |
 
+#### INHALTSVERZEICHNIS
+
+**DOKUMENTENHISTORIE ___________________________________________________ 2**
+
+**INHALTSVERZEICHNIS_____________________________________________________ 3**
+
+**ABBILDUNGSVERZEICHNIS ________________________________________________ 5**
+
+**TABELLENVERZEICHNIS ___________________________________________________ 6**
+
+**XML-CODE VERZEICHNIS __________________________________________________ 7**
+
+**1** **EINLEITUNG __________________________________________________________ 8**
+
+**2** **SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE _____________________ 9**
+
+**2.1** **Kardinalität ......................................................................................................................................9**
+
+**2.2** **Strukturelemente ............................................................................................................................9**
+
+**2.3** **Sonstige Symbole ..........................................................................................................................9**
+
+**3** **DATEIEN DER DATENLIEFERUNG _______________________________________ 11**
+
+**3.1** **Aufbau der Archivdatei ............................................................................................................... 11**
+
+**3.2** **Komprimierungsalgorithmus ..................................................................................................... 12**
+
+**3.3** **eVersandliste ............................................................................................................................... 14**
+
+**3.4** **Dateinamen .................................................................................................................................. 14**
+
+3.4.1 Die einzelne XML-Datei ....................................................................................................... 14
+
+3.4.2 Die Archivdatei ..................................................................................................................... 14
+
+3.4.3 Die Begleitdatei.................................................................................................................... 17
+
+**3.5** **Zeichensatz .................................................................................................................................. 18**
+
+**4** **AUFBAU DER BEGLEITDATEI ___________________________________________ 19**
+
+**4.1** **Datum der Erstellung (erstellungsdatum-datei) ....................................................................... 20**
+
+**4.2** **Datei-Empfänger (empfaenger) .................................................................................................. 20**
+
+4.2.1 Bezirksstelle (ukv)................................................................................................................ 21
+
 KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
 
-der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- Herzinsuffizienz suffizienz DOKUMENTENHISTORIE ___________________________________________________ EINLEITUNG __________________________________________________________ SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE _____________________ 9 Kardinalität ......................................................................................................................................9 Strukturelemente ............................................................................................................................9 Sonstige Symbole ..........................................................................................................................9 DATEIEN DER DATENLIEFERUNG 11 Aufbau der Archivdatei ............................................................................................................... 11 Komprimierungsalgorithmus ..................................................................................................... 12 eVersandliste ............................................................................................................................... 14 Dateinamen .................................................................................................................................. 14 Die einzelne XML-Datei ....................................................................................................... 14 Die Archivdatei ..................................................................................................................... 14 Die Begleitdatei.................................................................................................................... 17 3.5 Zeichensatz .................................................................................................................................. 18 AUFBAU DER BEGLEITDATEI 19 Datum der Erstellung (erstellungsdatum-datei) ....................................................................... 20 Datei-Empfänger (empfaenger) .................................................................................................. 20 Bezirksstelle (ukv)................................................................................................................ 21Seite 3 von 32
+der Endung *422 für die Übergangs- Brustkrebs regelung des DMPs Brustkrebs ger die Anpassung des Personalienfeldes für Streichung des Modules Herzin- Herzinsuffizienz suffizienz Seite 3 von 32
 
 
 ---
@@ -233,53 +268,91 @@ Seite 6 von 32
 
 #### XML- CODE VERZEICHNIS
 
-XML-Code 1 – begleitdatei .................................................................................................... 20
+XML-Code 1 – begleitdatei ................................................................................................
 
-XML-Code 2 – erstellungsdatum-datei .................................................................................. 20
+XML-Code 2 – erstellungsdatum-datei ................................................................
 
-XML-Code 3 – empfaenger (ukv) .......................................................................................... 21
+XML-Code 3 – empfaenger (ukv) ................................................................
 
-XML-Code 4 – empfaenger (datenstelle) ............................................................................... 21
+XML-Code 4 – empfaenger (datenstelle) ................................................................
 
-XML-Code 5 – absender (arzt) .............................................................................................. 22
+XML-Code 5 – absender (arzt) ................................................................
 
-XML-Code 6 – absender (krankenhaus) ................................................................................ 22
+XML-Code 6 – absender (krankenhaus) ................................................................
 
-XML-Code 7 – absender (kv) ................................................................................................ 22
+XML-Code 7 – absender (kv) ................................................................................................
 
-XML-Code 8 – komprimierungssoftware ................................................................................ 23
+XML-Code 8 – komprimierungssoftware ................................................................
 
-XML-Code 9 – software-name ............................................................................................... 23
+XML-Code 9 – software-name ................................................................
 
-XML-Code 10 – software-version .......................................................................................... 23
+XML-Code 10 – software-version ................................................................
 
-XML-Code 11 – software-hersteller ....................................................................................... 24
+XML-Code 11 – software-hersteller ................................................................
 
-XML-Code 12 – software-link ................................................................................................ 24
+XML-Code 12 – software-link ................................................................................................
 
-XML-Code 13 – verschluesselungssoftware .......................................................................... 24
+XML-Code 13 – verschluesselungssoftware ................................................................
 
-XML-Code 14 – software-name ............................................................................................. 25
+XML-Code 14 – software-name ................................................................
 
-XML-Code 15 – software-version .......................................................................................... 25
+XML-Code 15 – software-version ................................................................
 
-XML-Code 16 – software-hersteller ....................................................................................... 25
+XML-Code 16 – software-hersteller ................................................................
 
-XML-Code 17 – archive ......................................................................................................... 26
+XML-Code 17 – archive ................................................................................................
 
-XML-Code 18 – name ........................................................................................................... 26
+XML-Code 18 – name ................................................................................................
 
-XML-Code 19 – verzeichnis ................................................................................................ 26
+XML-Code 19 – verzeichnis ................................................................................................
 
-XML-Code 20 – pfad ............................................................................................................. 27
+XML-Code 20 – pfad ................................................................................................
 
-XML-Code 21 – zeitraum....................................................................................................... 27
+XML-Code 21 – zeitraum................................................................................................
 
-XML-Code 22 – von .............................................................................................................. 28
+XML-Code 22 – von ................................................................................................
 
-XML-Code 23 – bis................................................................................................................ 28
+XML-Code 23 – bis................................................................................................
 
-KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
+KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60 .... 20
+
+.................. 20
+
+.......................... 21
+
+............... 21
+
+.............................. 22 ................ 22
+
+22
+
+................ 23
+
+............................... 23 .......................... 23
+
+....................... 24
+
+24
+
+.......... 24
+
+............................. 25 .......................... 25
+
+....................... 25
+
+......... 26
+
+........... 26
+
+26
+
+............. 27
+
+....... 27
+
+.............. 28
+
+................ 28
 
 Seite 7 von 32
 
@@ -311,12 +384,9 @@ Seite 8 von 32
 
 Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, deren  Symbole in den folgenden Kapiteln kurz erläutert werden sollen.
 
-| Symbol | Beschreibung |
-|---|---|
-|  | Ein Element mit mehreren Kindelementen wird durch ein Pluszeichen |
-|  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass das |
-|  | **2.1 Kardinalität** |
-| **Beschreibung** |  |
+## 2.1 Kardinalität
+
+Es existieren verschiedene Kardinalitäten:
 
 | Kardinalität | Symbol | Beschreibung |
 |---|---|---|
@@ -324,25 +394,39 @@ Zur Visualisierung der verwendeten XML-Schemata werden Diagramme verwendet, dere
 | 1 |  | Musselement:  Rechteck mit durchgezogner Linie. Das Element |
 | n...m |  | Multielement: enthält mindestens n aber maximal m Elemente, |
 
+**Tabelle 1 – Beschreibung der Kardinalitäten**
+
+## 2.2 Strukturelemente
+
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei-nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet:  Choice und Sequence.
+
 | Symbol | Beschreibung |
 |---|---|
 |  | Das Strukturelement Choice zeigt an, dass zwischen verschiedenen Kindelementen |
 |  | Das Strukturelement Sequence beschreibt, dass verschiedene Kindelemente in fest- |
 
+**Tabelle 2 – Beschreibung der Strukturelement-Symbole**
+
+## 2.3 Sonstige Symbole
+
+Es werden außerdem folgende Diagramm-Symbole verwendet:
+
+| Symbol | Beschreibung |
+|---|---|
+|  | Ein Element mit mehreren Kindelementen wird durch ein Pluszeichen |
+|  | Referenzelement: Der Pfeil links unten im Element zeigt an, dass das |
+
 **IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
 KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
 
-Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. Es existieren verschiedene Kardinalitäten: Tabelle 1 – Beschreibung der Kardinalitäten  2.2 Strukturelemente Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mitei- nander logisch verknüpft. In diesem Dokument werden zwei Strukturelement-Arten verwendet: Choice und Sequence. Tabelle 2 – Beschreibung der Strukturelement-Symbole 2.3 Sonstige Symbole Es werden außerdem folgende Diagramm-Symbole verwendet: am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. Seite 9 von 32
+Linie dargestellt. Es kann kein oder einmal vorkommen muss genau einmal vorkommen was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindes- tens einmal vorkommen muss aber auch beliebig oft auftreten kann. genau eines ausgewählt werden kann.  gelegter Reihenfolge aufgeführt werden müssen. am Rechteckrand symbolisiert. Element an anderer Stelle im Schema definiert wurde. Das kann sowohl bei einfachen, als auch bei komplexen Elementen der Fall sein. Seite 9 von 32
 
 
 ---
 
-|  |  |
-|---|---|
-|  |  |
-|  |  |
 |  | Datentyp: Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert |
+|---|---|
 |  | Gruppenelement: Rechteck mit vier abgeflachten Ecken stellt ein Grup- |
 
 **Tabelle 3 – Beschreibung sonstiger Symbole**
@@ -381,25 +465,13 @@ Archivdatei
 | Diabetes Typ 1 |  | Koloskopie |
 | Dokumentationen |  | Dokumentationen |
 
-### Archivdatei
-
-Dialyse
-
-Dokumentation
-
-Dialyse  Dokumentationen
-
 **Abbildung 1 – Beispiele von Verzeichnisstrukturen der Archivdateien**
 
 KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
 
-Tabelle 4
+Tabelle 4 4.6.2  aufgeführt.
 
-Keys
-
-Dialyse  Öffentliche Schlüssel 4.6.2  aufgeführt.
-
-Seite 11 von 32
+Dialyse Dialyse       Keys Dialyse       Öffentliche Schlüssel Seite 11 von 32
 
 | Diabetes_mellitus_Typ_1 |  | Koloskopie |
 |---|---|---|
@@ -563,41 +635,6 @@ Beispiel:
 | BK_423 | Brustkrebs (wegen der Aktualisierung des DMPs) |
 | BK_425 | Brustkrebs (wegen der Aktualisierung des DMPs) |
 | AB | Asthma bronchiale |
-|  |  |
-|  |  |
-| **Kürzel** |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| Diabetes mellitus Typ 1 | Diabetes mellitus Typ 1 (Anpassung der übergreifenden Plausibilitäten) |
-| DM1_508 | indikationsbezogenen Plausibilitäten) |
-| indikationsbezogenen Plausibilitäten) | Koronare Herzkrankheit |
-| KHK_415 | indikationsbezogenen Plausibilitäten) |
-| indikationsbezogenen Plausibilitäten) | Brustkrebs |
-| BK_423 | AB |
-|  |  |
 
 KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
 
@@ -614,33 +651,8 @@ Seite 15 von 32
 
 **IT in der Arztpraxis**  Austausch von XML-Daten in der vertragsärztlichen Versorgung
 
-| AB_446 |  |
-|---|---|
-|  | ZZ |
-|  | QS Zervix-Zyto |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| eHKS | Hautkrebs-Screening |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | QSMG |
-|  | QS Vereinbarung Molekulargenetik |
-|  |  |
-| QSHGV | QS Vereinbarung Hörgeräteversorgung |
-|  |  |
-|  | QSHGVK |
-|  | QS Vereinbarung Hörgeräteversorgung Kinder |
-|  |  |
-| QSHLT |  |
-|  |  |
-| QS Holmiumlaser-Therapie |  |
 | AB_444 | Asthma bronchiale (Anpassung der übergreifenden und indikationsbezogenen  Plausibilitäten) |
+|---|---|
 | AB_445 | Asthma bronchiale (Anpassung der übergreifenden und indikationsbezogenen  Plausibilitäten) |
 | AB_446 | Asthma bronchiale (Anpassung der übergreifenden Plausibilitäten) |
 | AB_447 | Asthma bronchiale (Anpassung der übergreifenden Plausibilitäten) |
@@ -864,15 +876,11 @@ KBV_ITA_VGEX_XML-Schnittstellen * Version 1.60
 
 und *RT*. Im *EX*-Attribut steht das konkrete 9-*RT*-Attribut steht der feste Wert „Instituts-
 
-*arzt, krankenhaus*
+*arzt, krankenhaus* oder *kv*
 
 dargestellt.
 
-*RT*. Im *EX*-Attribut wird auf die BSNR bzw.
-
-oder *kv*
-
-*RT*-Attribut
+*RT*. Im *EX*-Attribut wird auf die BSNR bzw.  *RT*-Attribut
 
 Seite 21 von 32
 

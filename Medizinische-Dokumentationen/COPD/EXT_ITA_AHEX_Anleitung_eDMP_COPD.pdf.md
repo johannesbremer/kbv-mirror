@@ -25,25 +25,29 @@ Genau eine Angabe ist erforderlich.
 
 Geben Sie hier bitte den aktuell vor einer Spasmolyse gemessenen FEV Ihres Patienten als Prozent-Wert zum Sollwert mit drei Stellen vor und einer Stelle hinter dem  Komma (Wertebereich 005,0  299,9)
 
-oder „Nicht durchgeführt“ an.
-
 #### Klinische Einschätzung des Osteoporoserisikos durchgeführt
 
 Genau eine Angabe ist erforderlich.
 
 Die individuelle Risikokonstellation bezüglich des Auftretens einer Osteoporose soll einmal jährlich  bei allen Patienten klinisch abgeschätzt werden.
 
-Bitte kreuzen Sie „Ja“ an, wenn Sie im Rahmen der DMP Auftreten einer Osteoporose abgeschätzt haben. Bei Patientinnen und Patienten mit COPD sind die  Risikofaktoren neben Alter, Geschlecht, Untergewicht,  Entzündung bei schwerer COPD (FEV unter 50% des Sollwertes) und die medikamentöse 1 Therapie (z. B. systemische Glukokortikosteroide, auch in geringen Tagesdosen).
+Bitte kreuzen Sie „Ja“ an, wenn Sie im Rahmen der DMP Auftreten einer Osteoporose abgeschätzt haben. Bei Patientinnen und Patienten mit COPD sind die  Risikofaktoren neben Alter, Geschlecht,  Entzündung bei schwerer COPD (FEV unter 50% des Sollwertes) und die medikamentöse  Therapie (z. B. systemische Glukokortikosteroide, auch in geringen Tagesdosen).
 
 # Relevante Ereignisse
 
 #### Häufigkeit von Exazerbationen seit der letzten Dokumentation
 
-Eine Angabe ist nur im Rahmen einer **Folgedokumentation**
+Eine Angabe ist nur im Rahmen einer
 
 Als Exazerbation zählt jede Verschlechterung der Symptomatik, die eine Veränderung der  Medikation im Sinne einer Intensivierung der Therapie erforderlich macht.
 
 Geben Sie bitte die Anzahl (ohne Nachkommastelle) von Exazerbationen seit der letzten  Dokumentation an. Sollte keine Exazerbation seit der letzten Dokumentation vorgelegen haben,  geben Sie bitte eine „0“ an.
+
+oder „Nicht durchgeführt“ an.
+
+Untergewicht,  1
+
+**Folgedokumentation**
 
 **Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen**
 
@@ -63,7 +67,7 @@ Die Angaben „Bei Bedarf“ und „Dauermedikation“ sind gemeinsam
 
 Vorrangig sollen unter Berücksichtigung der Kontraindikationen und der Patientenpräferenzen  Medikamente verwendet werden, deren positiver Effekt und Sicherheit im Hinblick auf die Therapieziele  des DMP in prospektiven, randomisierten kontrollierten Studien nachgewiesen wurde. Dabei sollen
 
-Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 -Wert Ihrer Patientin bzw. 1
+Ausfüllanleitung COPD, Version 5; Stand 06.09.2023 1-Wert Ihrer Patientin bzw.
 
 -Konsultation die Risikofaktoren für das
 
@@ -97,12 +101,7 @@ Falls erforderlich zur **Dauertherapie**
 
 - Langwirksames Anticholinergikum* (z. B.Tiotropiumbromid)* oder
 - Langwirksame Beta-2-Sympatomimetika (z. B. *Formoterol, Salmeterol*
-- und Anticholinergikum.
-- Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2-Sympathomimetikum
-
-```
--
-```
+- Bei unzureichender Wirkung einer Monotherapie, Kombination von lang wirksamen Beta-2-Sympathomimetikum und Anticholinergikum.
 
 Zusätzlich in begründeten Fällen:
 

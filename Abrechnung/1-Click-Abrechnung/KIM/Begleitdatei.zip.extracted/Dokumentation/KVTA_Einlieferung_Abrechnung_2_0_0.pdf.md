@@ -4,7 +4,7 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 
 | schema location: | KVTA_Einliefung_Abrechnung_2_0_0.xsd |
 |---|---|
-| attributeFormDefault: |  |
+| attributeFormDefault: | **unqualified** |
 | elementFormDefault: |  |
 | targetNamespace: | **http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0** |
 |  |  |
@@ -15,7 +15,7 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 
 | schema location: | ..\..\Allgemein_Abrechnung\Schema\KVTA_Datentypen_1_0_4.xsd |
 |---|---|
-| attributeFormDefault: |  |
+| attributeFormDefault: | **unqualified** |
 | elementFormDefault: |  |
 | targetNamespace: | **http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0** |
 |  |  |
@@ -29,7 +29,6 @@ Definition der KV Telematik GmbH Schnittstelle zur Einlieferung von Abrechnungen
 | **status_typ** |  |
 | **Version_typ** |  |
 
-unqualified qualified unqualified qualified
 
 ---
 
@@ -54,7 +53,7 @@ element **einlieferung/bsnr**
 | properties | content  complex |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **derived by: ** required |
 
-attribute
+attribute **einlieferung/bsnr/@V**
 
 | type | restriction of |
 |---|---|
@@ -69,9 +68,9 @@ element **einlieferung/testdaten**
 | properties | content  complex |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **xs:boolean** required |
 
-attribute
+attribute **einlieferung/testdaten/@V**
 
-| type |  |
+| type | xs:boolean |
 |---|---|
 | properties | use  required |
 
@@ -83,13 +82,13 @@ element **einlieferung/lieferungs_zeitpunkt**
 | properties | content  complex |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **xs:dateTime** required |
 
-xs:string einlieferung/bsnr/@V xs:string einlieferung/testdaten/@V xs:boolean
+xs:string xs:string
 
 ---
 
-attribute
+attribute **einlieferung/lieferungs_zeitpunkt/@V**
 
-| type |  |
+| type | xs:dateTime |
 |---|---|
 | properties | use  required |
 
@@ -102,7 +101,7 @@ element **einlieferung/dokumenten_typ**
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **Abstrakt_dokumententyp_typ**   required |
 | annotation | documentation ABRECHNUNG, SAMMELERKLÄRUNG oder ABRECHN |
 
-attribute
+attribute **einlieferung/dokumenten_typ/@V**
 
 | type | Abstrakt_dokumententyp_typ |
 |---|---|
@@ -115,7 +114,7 @@ element **einlieferung/quartal**
 |---|---|
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 
-einlieferung/lieferungs_zeitpunkt/@V xs:dateTime UNG+SAMMELERKLÄRUNG  (Wird als Schlüssel benutzt um das Dokument einer Gruppe von Dokumenten zuzuordnen). einlieferung/dokumenten_typ/@V
+UNG+SAMMELERKLÄRUNG  (Wird als Schlüssel benutzt um das Dokument einer Gruppe von Dokumenten zuzuordnen).
 
 ---
 
@@ -124,9 +123,9 @@ einlieferung/lieferungs_zeitpunkt/@V xs:dateTime UNG+SAMMELERKLÄRUNG  (Wird als
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **derived by: ** required         appinfo <altova:exampleValues> |
 | annotation | documentation Abrechnungszeitraum mit Jahresangabe, z.B.: für 1 Quartal 2011 ist 2011-1 zu übermitteln |
 
-attribute
+attribute **einlieferung/quartal/@V**
 
-| type | xs:string |
+| type | restriction of |
 |---|---|
 | properties | use  required |
 | facets | Kind  Value  Annotation length  6   pattern  [\d]{4}[\-]+[1-4]+ |
@@ -141,13 +140,13 @@ element **einlieferung/vollstaendig**
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **xs:boolean** required |
 | annotation | documentation True: Abrechnung ist vollständig, Sonst: False ( Z.B. Bei mehreren Teillieferung aus Nebenbetriebsstätten. |
 
-attribute
+attribute **einlieferung/vollstaendig/@V**
 
-| type |  |
+| type | xs:boolean |
 |---|---|
 | properties | use  required |
 
-xs:string value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> einlieferung/quartal/@V restriction of <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues> einlieferung/vollstaendig/@V xs:boolean
+xs:string value="2011-1"/> value="2011-2"/> value="2011-3"/> value="2011-4"/> </altova:exampleValues> xs:string <altova:example value="2011-1"/> <altova:example value="2011-2"/> <altova:example value="2011-3"/> <altova:example value="2011-4"/> </altova:exampleValues>
 
 ---
 
@@ -160,9 +159,9 @@ element **einlieferung/anhang**
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **xs:string** required |
 | annotation | documentation CON Dokument, XKM und ggf. Sammelerklärung, erkennbar an den Dokumentenendungen. |
 
-attribute
+attribute **einlieferung/anhang/@V**
 
-| type |  |
+| type | xs:string |
 |---|---|
 | properties | use  required |
 
@@ -177,7 +176,6 @@ complexType
 
 **Com_typ**
 
-einlieferung/anhang/@V xs:string
 
 ---
 
@@ -213,23 +211,23 @@ complexType **Einlieferung_typ**
 | type | extension of **Com_typ** |
 | properties | base  Com_typ abstract  true |
 | children | **version** **guid** |
-| used by | element **einlieferung** |
+| used by | **einlieferung** |
 
 complexType **Guid_typ**
 
 | diagram |  |
 |---|---|
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
-| used by | element **Com_typ/guid** |
+| used by | **Com_typ/guid** |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **xs:string** required |
 
-attribute
+attribute **Guid_typ/@V**
 
 | type | xs:string |
 |---|---|
 | properties | use  required |
 
-Guid_typ/@V
+element element
 
 ---
 
@@ -257,29 +255,29 @@ xs:string vereinbarter Status bezogen auf den Dokumententyp. xs:string sich um e
 |---|---|
 | annotation | documentation Ein Status innerhalb eines dokumentenbezogenen Workflows. |
 
-attribute
+attribute **status_typ/@ID**
 
-| type | xs:string |
+| type | restriction of |
 |---|---|
 | properties | use  required |
 | facets | Kind  Value  Annotation enumeration  SENDEN   enumeration  SENDE_FEHLER   enumeration  SENDE_FEHLER_P   enumeration  SENDE_FEHLER_A   enumeration  NEU   enumeration  ABRECHNUNGS_BEREIT   enumeration  PRUEFUNG_FEHLER   enumeration  HONORAR_BEREIT   enumeration  ABRECHNUNGS_FEHLER |
 | annotation | documentation Gemeinsam vereinbarter Status bezogen auf den Dokumententyp. |
 
-attribute
+attribute **status_typ/@TYP**
 
-| type | xs:string |
+| type | restriction of |
 |---|---|
 | properties | default  STANDARD |
 | facets | Kind  Value  Annotation enumeration  START   enumeration  ENDE   enumeration  STANDARD |
 | annotation | documentation Gibt an ob es sich um einen Status handelt der den Beginn, das Ende oder einen Standardzustand innerhalb des |
 
-attribute
+attribute **status_typ/@KV_DETAIL**
 
-| type |  |
+| type | xs:string |
 |---|---|
 | annotation | documentation Hier können KV spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. |
 
-handelt. spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. status_typ/@ID restriction of status_typ/@TYP restriction of Workflows handelt. status_typ/@KV_DETAIL xs:string
+handelt. spezifische Ergänzungen zu einem allgemeinen Status abgelegt werden. xs:string xs:string Workflows handelt.
 
 ---
 
@@ -291,9 +289,9 @@ complexType **Version_typ**
 | used by | element **Com_typ/version** |
 | attributes | Name   Type   Use   Default   Fixed   Annotation V  **xs:integer** required |
 
-attribute
+attribute **Version_typ/@V**
 
-| type |  |
+| type | xs:integer |
 |---|---|
 | properties | use  required |
 
@@ -301,9 +299,9 @@ simpleType **Abstrakt_dokumententyp_typ**
 
 | namespace | http://www.kv-telematik.de/1-Click/Meldung_Einlieferung/2.0.0 |
 |---|---|
-| type | **xs:string** |
+| type | restriction of |
 | properties | base  xs:string |
 | used by | attribute **einlieferung/dokumenten_typ/@V** |
 | facets | Kind  Value  Annotation enumeration  ABRECHNUNG   enumeration  ABRECHNUNG HZV   enumeration  SAMMELERKLÄRUNG   enumeration  ABRECHNUNG+SAMMELERKLÄRUNG   enumeration  DMP   enumeration  EHKS   enumeration  QSMG   enumeration  QSHGV   enumeration  QSHGVK   enumeration  QSHLT   enumeration  QSKE |
 
-Version_typ/@V xs:integer restriction of [XML Schema documentation generated by](http://www.altova.com/xmlspy)**[XMLSpy](http://www.altova.com/xmlspy)**[Schema Editor](http://www.altova.com/xmlspy)**[http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)**[](http://www.altova.com/xmlspy)
+[XML Schema documentation generated by](http://www.altova.com/xmlspy)**[XMLSpy](http://www.altova.com/xmlspy)**[Schema Editor](http://www.altova.com/xmlspy)**[http://www.altova.com/xmlspy](http://www.altova.com/xmlspy)**[](http://www.altova.com/xmlspy)

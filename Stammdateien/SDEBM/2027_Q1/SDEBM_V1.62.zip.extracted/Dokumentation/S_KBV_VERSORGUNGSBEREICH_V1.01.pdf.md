@@ -12,7 +12,7 @@
 
 | 3 | HausFacharzt |
 |---|---|
-| 9 | Ermä c htig te rArzt |
+| 9 | Ermächtigter Arzt |
 
 Schlüsseltabelle: S_KBV_VERSORGUNGSBEREICH
 
@@ -22,6 +22,4 @@ Schlüsseltabelle: S_KBV_VERSORGUNGSBEREICH
 
 **23.11.2004**
 
-**Bezeichnung** Unbekannt Hausarzt Facharzt
-
-Ermächtigter Arzt1
+**Bezeichnung** Unbekannt Hausarzt Facharzt 1

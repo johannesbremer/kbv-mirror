@@ -630,45 +630,43 @@ Information @ ?? : All OK
 
 ---
 
-| Success: | 0 | errors, 0 | warnings, | 1 notes |  |  |
-|---|---|---|---|---|---|---|
-|  | Information | @ ?? : | All OK |  |  |  |
-|  |  |  |  | -------------------------------------------------------------------------------------------------------------------------------------- | | |
-| ------------ |  |  |  |  |  |  |
-| -- |  |  |  | Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Befund_Diverse.xml |  | ------------------------ |
-|  |  | ----------------------------------------------------- | | |  |  |
-| Success: | 0 | errors, 0 | warnings, | 1 notes |  |  |
-|  | Information | @ ?? : | All OK |  |  |  |
-|  |  |  |  | -------------------------------------------------------------------------------------------------------------------------------------- | | |
-|  | ---------------- |  |  |  |  |  |
-| -- |  |  |  | Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Befund_Diverse_Ab30.xml | | ---------------- |
-|  |  |  | ------------------------------------------------------------------ | |  |  |
-| Success: | 0 | errors, 0 | warnings, | 1 notes |  |  |
-|  | Information | @ ?? : | All OK |  |  |  |
-|  |  |  |  | -------------------------------------------------------------------------------------------------------------------------------------- | | |
-|  | -------------------------- | |  |  |  |  |
-| -- |  |  |  | Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Diagnose.xml | | --------- |
-|  |  |  |  | ------------------------------------------------------------------------------ |  |  |
-| Success: | 0 | errors, 0 | warnings, | 1 notes |  |  |
-|  | Information | @ ?? : | All OK |  |  |  |
-|  |  |  |  | -------------------------------------------------------------------------------------------------------------------------------------- | | |
-|  | ------------------------------------ | | |  |  |  |
-| -- |  |  |  | Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Operation.xml | | -------- |
-|  |  |  |  | -------------------------------------------------------------------------------- |  |  |
-| Success: | 0 | errors, 0 | warnings, | 1 notes |  |  |
-|  | Information | @ ?? : | All OK |  |  |  |
-|  |  |  |  | -------------------------------------------------------------------------------------------------------------------------------------- | | |
-|  |  | -------------------------------------- | |  |  |  |
+Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
-Information @ ?? : All OK
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Befund_Diverse.xml -----------------------------------------------------------------------------
+
+Success: 0 errors, 0 warnings, 1 notes
 
 Information @ ?? : All OK
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Befund_Diverse_Ab30.xml ----------------------------------------------------------------------------------
+
+Success: 0 errors, 0 warnings, 1 notes
+
 Information @ ?? : All OK
 
-Success: 0 errors, 0 warnings, 1 notes -- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Befund_Diverse.xml ------------------------ Success: 0 errors, 0 warnings, 1 notes -- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Befund_Diverse_Ab30.xml ---------------- Success: 0 errors, 0 warnings, 1 notes -- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Diagnose.xml --------- Success: 0 errors, 0 warnings, 1 notes -- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Operation.xml -------- Success: 0 errors, 0 warnings, 1 notes Information @ ?? : All OK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Diagnose.xml ---------------------------------------------------------------------------------------
+
+Success: 0 errors, 0 warnings, 1 notes
+
+Information @ ?? : All OK
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-- Beispiele\BSP_KBV_PR_AW_Krebsfrueherkennung_Frauen_Gynaekologische_Operation.xml ----------------------------------------------------------------------------------------
+
+Success: 0 errors, 0 warnings, 1 notes
+
+Information @ ?? : All OK
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ---
@@ -987,7 +985,7 @@ ll OK
 
 Success: 0 0 werrors, arnings, 1 notes
 
-@ : KInformation Observation.category[0] (line 15, col12) einer der angegebenen Codes ist im  Valueset [http://hl7.org/fhir/ValueSet/observation-category](http://hl7.org/fhir/ValueSet/observation-category)  ([http://hl7.org/fhir/ValueSet/observation-category](http://hl7.org/fhir/ValueSet/observation-category), und es wird Cempfohlen, einen ode aus dieserm  Valueset vzu erwenden) = (Codes [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Befundart#Eigenbefund)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Befundart#Eigenbefund))
+Information @ : KObservation.category[0] (line 15, col12) einer der angegebenen Codes ist im  Valueset [http://hl7.org/fhir/ValueSet/observation-category](http://hl7.org/fhir/ValueSet/observation-category)  ([http://hl7.org/fhir/ValueSet/observation-category](http://hl7.org/fhir/ValueSet/observation-category), und es wird Cempfohlen, einen ode aus dieserm  Valueset vzu erwenden) = (Codes [https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Befundart#Eigenbefund)](https://fhir.kbv.de/CodeSystem/KBV_CS_AW_Befundart#Eigenbefund))
 
 --------------------------------------------------------------------------------------------------------
 
@@ -1268,4 +1266,4 @@ Warning @ Consent.category[0] (line 21, col12) : Keiner der angegebenen Codes is
 |  | Information | @ ?? : | All OK |  |  |
 |  |  |  |  | ---------------------------------------------------------------------------------------------------------------- | |
 
--- Beispiele\BSP_KBV_PR_AW_Weiterbehandlung_durch.xml ----------------------------------------------------- Success: 0 errors, 0 warnings, 1 notes Information @ ?? : All OK
+-- Beispiele\BSP_KBV_PR_AW_Weiterbehandlung_durch.xml ----------------------------------------------------- Success: 0 errors, 0 warnings, 1 notes   Information @ ?? : All OK

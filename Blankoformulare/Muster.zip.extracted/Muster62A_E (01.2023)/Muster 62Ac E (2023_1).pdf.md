@@ -66,8 +66,8 @@ Erneute Erhebung  geplant am
 
 Vertragsarztstempel / ärztliche Unterschrift
 
-PRF.NR.
-
 **Ausfertigung für den potenzialerhebenden Arzt**
+
+PRF.NR.
 
 Muster 62Ac/E (1.2023)

@@ -28,28 +28,28 @@ INHALT
 | 1.2 Zertifizierungsablauf | 4 |
 | 1.3 Zertifizierungsportal | 5 |
 | 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prü funterlagen | 5 |
-| 1.6 Prü fvorgaben | 7 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
 | 1.6.1 Schnittstellenversionen | 7 |
 | 1.6.2 Datumseingaben | 7 |
-| 1.6.3 Prü fstammdaten | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
 | 1.6.4 Versichertendaten | 7 |
 | 1.6.5 Praxisdaten/ Arztstempel | 8 |
 | 1.6.6 Krankenhausdaten | 8 |
-| 1.6.7 Prü fnummer | 8 |
+| 1.6.7 Prüfnummer | 8 |
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
-| 1.6.9 Auflistung der Prü ffä lle | 9 |
+| 1.6.9 Auflistung der Prüffälle | 9 |
 
-| 2 PRÜ | FFÄ LLE |  |  | 10 |
-|---|---|---|---|---|
-| 2.1 Prü | ffä lle |  | Dokumentation | 10 |
-| 2.1.1 |  | Prü ffall | 2211 | 10 |
-| 2.1.2 |  | Prü ffall | 2212 | 13 |
-| 2.2 Prü | ffall |  | Systemreaktion | 15 |
-| 2.2.1 |  | Prü ffall | 2214 | 15 |
-| 2.3 Weitere | Prü | ffä | lle zum Anforderungskatalog | 19 |
-| 2.3.1 |  | Prü ffall | 2230 | 19 |
-| 2.3.2 |  | Prü ffall | 2240 | 21 |
+| 2 | PRÜFFÄLLE |  | 10 |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 10 |
+| 2.1.1 | Prüffall | 2211 | 10 |
+| 2.1.2 | Prüffall | 2212 | 13 |
+| 2.2 Prüffall |  | Systemreaktion | 15 |
+| 2.2.1 | Prüffall | 2214 | 15 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 19 |
+| 2.3.1 | Prüffall | 2230 | 19 |
+| 2.3.2 | Prüffall | 2240 | 21 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -57,9 +57,9 @@ INHALT
 
 | 4 |  | ANHANG |  | 23 |
 |---|---|---|---|---|
-| 4.1 | Prü | ffall 2211 | – Ersatzverfahren | 23 |
-| 4.2 | Prü | ffall 2212 | – Ersatzverfahren | 24 |
-| 4.3 | Prü | ffall 2240 | – Ersatzverfahren | 25 |
+| 4.1 | Prüffall | 2211 | – Ersatzverfahren | 23 |
+| 4.2 | Prüffall | 2212 | – Ersatzverfahren | 24 |
+| 4.3 | Prüffall | 2240 | – Ersatzverfahren | 25 |
 
 **5** **REFERENZIERTE DOKUMENTE**
 
@@ -69,7 +69,7 @@ Seite 2 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche
 
 / Version: 1.01 / 28. August 2026
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 2211 Prüffall 2212 Prüffall Systemreaktion Prüffall 2214 Weitere Prüffälle zum Anforderungskatalog Prüffall 2230 Prüffall 2240 Prüffall 2211 Prüffall 2212 Prüffall 2240 
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 2211 Prüffall 2212 Prüffall Systemreaktion Prüffall 2214 Weitere Prüffälle zum Anforderungskatalog Prüffall 2230 Prüffall 2240 Prüffall 2211 Prüffall 2212 Prüffall 2240 
 
 
 ---
@@ -177,8 +177,7 @@ Seite 5 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Ve
 
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 2240) müssen in  einem gesonderten Ordner „**Dokumentation**“ übermittelt werden und folgender Namenskonvention  entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- _[lfdNr.]2 3
--  PrüffallNr. 1
+- PrüffallNr. 1_[lfdNr.]2 3
 - Teilnahmeerklärung (Prüffall 2240): TE_EWE_ADKJ.pdf
 - Alle Prüfunterlagen (ADKJ-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die ADKJ-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht  gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:
 - Zert_112_SystemID.zip
@@ -341,7 +340,25 @@ Seite 9 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Ve
 
 ---
 
-2 PRÜFFÄLLE
+# 2 PRÜFFÄLLE
+
+## 2.1 PRÜFFÄLLE DOKUMENTATION
+
+**2.1.1** **Prüffall 2211**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 2211 |
+| **Testziel** | › |
+| **Voraussetzung** | › |
+| **Einzureichende  Prüfunterlagen** | › |
+| **Hinweis** | › |
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+**1. Versichertendaten**
+
+Die Versichertendaten von **Gertrud Zimmerpflanze (** Ersatzverfahren zu erfassen.
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -360,42 +377,17 @@ Seite 9 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Ve
 | Raucher | Nein | Ja |
 | Begleiterkrankungen | Diabetes mellitus | Diabetes mellitus |
 | **Behandlungsplanung** | | |
-| **2.1** |  |  |
-|  |  |  |
-|  |  |  |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 2211 |
-| **Testziel** | › |
-| **Voraussetzung** | › |
-| **Einzureichende  Prüfunterlagen** | › |
-| **Hinweis** | › |
 
 Seite 10 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.01 / 28. August 2026
 
-Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen PRÜFFÄLLE DOKUMENTATION 2.1.1 Prüffall 2211 Aktionen, die durch den Antragsteller durchgeführt werden: 1. Versichertendaten Die Versichertendaten von Gertrud Zimmerpflanze ( Ersatzverfahren zu erfassen. Ersatzverfahren – Anhang Jugendliche 4.1  sind im Jugendliche
+Ersatzverfahren – Anhang 4.1 sind im
+
+Anlage einer Erst- und einer Folgedokumentation Patientin ist zum Datum der Erstdokumentation 6 Jahre alt (Geburtsdatum liegt 6 Jahre vor Datum der Erstdokumentation) eDMP Adipositas - Kinder und Jugendliche Dokumentationsunterlagen Jugendliche Jugendliche
 
 ---
 
-|  | | |
-|---|---|---|
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
 | Vom Patienten gewünschte | Ernährungsberatung | Tabakverzicht |
+|---|---|---|
 | Dokumentationsintervall | Quartalsweise | Jedes zweite Quartal |
 | Datum der Erstellung (Behandlungsdatum) | 15.mm.jjjj | 15.mm.jjjj |
 
@@ -537,10 +529,6 @@ Die Personalien zu dem Testfall sind frei wählbar.
 | Blutdruck | 120 / 90 mmHg |  |
 | Raucher | Ja |  |
 | Begleiterkrankungen | Keine der genannten |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 Seite 15 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.01 / 28. August 2026
 
@@ -548,30 +536,13 @@ Kontrolle der softwareseitigen Erkennung von Fehleingaben Patient ist zum Datum 
 
 ---
 
-|  | | |
+| Behandlungsplanung | | |
 |---|---|---|
-|  |  |  |
-|  | | |
-| Unbekannt |  |  |
-|  |  |  |
-| Nein |  |  |
-| Ja |  |  |
-| **3.** |  |  |
-|  | **Aktion** | **Therapeutische Maßnahmen** |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| **Behandlungsplanung** | | |
 | Vom Patienten gewünschte Informationsangebote |  |  |
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
 
-Seite 16 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.01 / 28. August 2026
-
-der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen Bewegung im Alltag Ziele zur regelmäßigen Bewegung im Alltag seit der letzten Dokumentation Regelmäßige Bewegung im Alltag Ziele zur Ernährungsumstellung oder zur Aufrechterhaltung der Ernährungsänderung Adäquat geändertes Ernährungsverhalten Schulung Bereits vor Einschreibung in das DMP an einer multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen Adipositas-Schulung für Kinder und Jugendliche empfohlen (bei aktueller Dokumentation) Adipositas-Schulung für Kinder und Jugendliche wahrgenommen Relevante Ereignisse seit der letzten Dokumentation Manifester Diabetes mellitus Typ 2 Beendigung der DMP-Teilnahme Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation abgeschlossen werden kann. Erstdokumentation 4,13 Ziele vereinbart Keine Ziele vereinbart oder überprüft ketogene Ernährung Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7 Nr. 8 Nr. 9 Nr. 10 | INDIKATIONSSPEZIFISCHE DATEN | | |
+| INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
 |  | **Erstdokumentation** | **Aktion** |
 | **Therapeutische Maßnahmen** | | |
@@ -589,6 +560,15 @@ der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen B
 | Manifester Diabetes mellitus Typ 2 | Nein | Nr. 9 |
 | Beendigung der DMP-Teilnahme | Ja | Nr. 10 |
 
+- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die**  **Erstdokumentation abgeschlossen werden kann.**
+
+Seite 16 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.01 / 28. August 2026
+
+```
+-
+```
+
+der Krankenkasse Aufrechterhaltung der Ernährungsänderung multimodalen Adipositas-Schulung für Kinder und Jugendliche teilgenommen empfohlen (bei aktueller Dokumentation) wahrgenommen oder überprüft
 
 ---
 
@@ -623,15 +603,6 @@ der Krankenkasse INDIKATIONSSPEZIFISCHE DATEN BMI-SDS Ziele zur regelmäßigen B
 | Ziele zur regelmäßigen Bewegung im Alltag | Ziele vereinbart | Nr. 13 |
 | Ziele zur regelmäßigen Bewegung im Alltag seit der |  | Nr. 14 |
 | Regelmäßige Bewegung im Alltag | Nein |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
-|  |  | DMP-Fallnummer |
-|  |  | Krankenhaus-IK |
-|  |  | Dokumentation in Vertretung erstellt |
-|  | | |
-|  |  | Einschreibung wegen |
 
 Seite 17 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.01 / 28. August 2026
 
@@ -639,15 +610,8 @@ der Krankenkasse Jugendliche Herzinsuffizienz, Asthma bronchiale Ernährungsbera
 
 ---
 
-|  | | |
-|---|---|---|
-|  |  |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 | Ziele zur Ernährungsumstellung oder zur | Ziele vereinbart | Nr. 15 |
+|---|---|---|
 | Ziele zur Ernährungsumstellung oder zur | Keine Ziele vereinbart |  |
 | Adäquat geändertes Ernährungsverhalten | Nein |  |
 | **Schulung** | | |
@@ -685,8 +649,6 @@ Aufrechterhaltung der Ernährungsänderung Aufrechterhaltung der Ernährungsänd
 \| Es wird eine Folgedokumentation angelegt. In der vorherigen Folgedokumentation wurde bei  Zeigen Sie die Systemreaktion.   Mit diesem Szenario soll die korrekte Umsetzung der |
 \| **Szenario 3** |
 \| Bitte öffnen Sie die bestehende Verlaufsdokumentation des Prüffalles 2214.   Ändern Sie das Körpergewicht nacheinander zu den folgenden Werten.  Zeigen Sie jeweils den berechneten BMI-SDS Wert und die zugehörigen Hinweismeldungen    1. 2. 3. 4. 5. |
-\|  |
-\|  |
 
 Seite 19 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.01 / 28. August 2026
 
@@ -695,28 +657,35 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges Dokumenti
 
 ---
 
-\|  |
+\| SZENARIEN |
 \|---|
-\|  |
-\| Bei dem Parameter „Einschreibung wegen“ muss die Angabe „Adipositas - Kinder und |
-\|  |
-\| 3. |
-\|  |
-\| **Szenario 4** |
-\| **SZENARIEN** |
 \| 6. 7. |
+
+\| **Szenario 4** |
+\|---|
+
+- **1.** Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen  Patienten an, welcher 19 Jahre alt ist.  Zeigen Sie das Systemverhalten.
+- **2.** Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen  Patienten an, welcher 3 Jahre alt ist.  Zeigen Sie das Systemverhalten.
+
+Mit diesem Szenario soll die korrekte Umsetzung der **übergreifenden Plausibilitäten** überprüft  werden.
+
+\| **Szenario 5** |
+\|---|
+
+- 1. Bitte legen Sie für einen beliebigen Patienten eine Erstdokumentation an, in welcher der  Patient 17,5 Jahre alt ist.  Legen Sie anschließend für den gleichen Patienten Folgedokumentationen an, bis der Patient in  der aktuellen Folgedokumentation 19 Jahre alt ist.  Zeigen Sie das Systemverhalten.
+- 2. Legen Sie anschließend für den gleichen Patienten eine weitere Folgedokumentationen an, in  welcher der Patient 20 Jahre alt ist.
+
+Bei dem Parameter „Einschreibung wegen“ muss die Angabe „Adipositas - Kinder und  Jugendliche“ sowie „Adipositas - Erwachsene“ gemacht werden.
+
+Zeigen Sie das Systemverhalten.
+
+- 3. Legen Sie anschließend für den gleichen Patienten weitere Folgedokumentationen an, bis der  Patient über 21 Jahre alt ist.  Zeigen Sie das Systemverhalten.
 
 Mit diesem Szenario soll die korrekte Umsetzung der **Anforderung KP2-610 AK4 sowie der**  **übergreifenden Plausibilitäten** (siehe KBV_ITA_VGEX_Anforderungskatalog_eDMP) überprüft  werden.
 
 Seite 20 von 27 / KBV / Prüfpaket eDMP- Adipositas - Kinder und Jugendliche / Version: 1.01 / 28. August 2026
 
-Bei dem Parameter „Körpergewicht“ wird die Angabe „85“ gemacht. Zeigen Sie die Systemreaktion.  Bei dem Parameter „Körpergewicht“ wird die Angabe „105“ gemacht. Zeigen Sie die Systemreaktion.  1. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. 2. Bitte legen Sie eine neue Erstdokumentation „Adipositas - Kinder und Jugendliche“ für einen Patienten an, welcher 3 Jahre alt ist.  Zeigen Sie das Systemverhalten. Mit diesem Szenario soll die korrekte Umsetzung der übergreifenden Plausibilitäten überprüft werden.  Szenario 5 1. Bitte legen Sie für einen beliebigen Patienten eine Erstdokumentation an, in welcher der Patient 17,5 Jahre alt ist. Legen Sie anschließend für den gleichen Patienten Folgedokumentationen an, bis der Patient in der aktuellen Folgedokumentation 19 Jahre alt ist.  Zeigen Sie das Systemverhalten. 2. Legen Sie anschließend für den gleichen Patienten eine weitere Folgedokumentationen an, in welcher der Patient 20 Jahre alt ist.  Jugendliche“ sowie „Adipositas - Erwachsene“ gemacht werden. Zeigen Sie das Systemverhalten. Legen Sie anschließend für den gleichen Patienten weitere Folgedokumentationen an, bis der Patient über 21 Jahre alt ist. Zeigen Sie das Systemverhalten.
-
-\| **Szenario 4** |
-\|---|
-
-\| **Szenario 5** |
-\|---|
+Bei dem Parameter „Körpergewicht“ wird die Angabe „85“ gemacht. Zeigen Sie die Systemreaktion.  Bei dem Parameter „Körpergewicht“ wird die Angabe „105“ gemacht. Zeigen Sie die Systemreaktion.  
 
 
 ---

@@ -8,11 +8,9 @@ Kostenträgerkennung Versicherten-Nr.
 
 Status
 
-Arzt-Nr.
+Betriebsstätten-Nr. Arzt-Nr.
 
 Datum
-
-Betriebsstätten-Nr.
 
 Name und Anschrift Krankenkasse
 
@@ -46,13 +44,13 @@ nein, die Versicherte bzw. der Versicherte war in den letzten 12 Monaten aufgrun
 
 ## Anzeige einer Akutbehandlung
 
+## PTV 12
+
 ICD-10 - GM endständig
 
 in anderer Praxis
 
 Ausstellungsdatum
-
-## PTV 12
 
 Stempel / Unterschrift Therapeut*in
 

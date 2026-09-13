@@ -22,15 +22,14 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   15. SEPTEMBER 2023 VERSION: 2.1.2 DOK
 
 ---
 
-## INHALT
+INHALT
 
-**1** **EINLEITUNG**
-
-**7**  1.1 Ziel 7  1.2 Abgrenzung
-
-7  1.3 Funktionsarten
-
-7  1.4 Gültigkeit der Version des Anforderungskatalogs 8
+| 1 | EINLEITUNG | 7 |
+|---|---|---|
+| 1.1 | Ziel | 7 |
+| 1.2 | Abgrenzung | 7 |
+| 1.3 | Funktionsarten | 7 |
+| 1.4 | Gültigkeit der Version des Anforderungskatalogs | 8 |
 
 | 2 | GRUNDLAGEN DER UMSETZUNG | 9 |
 |---|---|---|
@@ -42,10 +41,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   15. SEPTEMBER 2023 VERSION: 2.1.2 DOK
 | 2.3 | Datentransfer | 13 |
 | 2.4 | Zertifizierung | 13 |
 
-| 3 |  | ANFORDERUNGEN | AN DAS PVS UND DIE VOS | 14 |
-|---|---|---|---|---|
-| 3.1 | Verbindliche |  | Dokumente | 14 |
-| 3.2 | Ü b ergre | ife nde A | nfo rd eru ngen | 16 |
+**3** **ANFORDERUNGEN AN DAS PVS UND DIE VOS**
+
+**14**  3.1 Verbindliche Dokumente
+
+14  3.2 Übergreifende Anforderungen 16
 
 **4** **ANFORDERUNGEN AN DAS PVS**
 
@@ -79,7 +79,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   15. SEPTEMBER 2023 VERSION: 2.1.2 DOK
 
 Seite 2 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /
 
-ANFORDERUNGEN AN DAS PVS UND DIE VOS Verbindliche Dokumente Übergreifende Anforderungen Version 2.1.2 / 15. September 2023
+Version 2.1.2 / 15. September 2023
 
 
 ---
@@ -157,12 +157,7 @@ Kürzels “AVWG” Referenz Grundlage für Medikationspläne entfernt Zertifizi
 | 1.10.001 | 27.05.2019 | KBV | Aktualisierung |  | Alle |
 | 1.00 | 29.06.2018 | KBV | Initiale Erstellung | § 291d Absatz 1a Satz 1 Nr. | Alle |
 
-Seite 6 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Version 2.1.2 / 15. September 2023
-
-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /
-
-1 SGB V 
-
+Seite 6 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /  Version 2.1.2 / 15. September 2023 1 SGB V
 
 ---
 
@@ -619,10 +614,10 @@ Es gilt:
 
 Seite 18 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /  Version 2.1.2 / 15. September 2023
 
-FHIR®]-Spezifikation in folgender Form:
-
 - FHIR®-Elemente  sprich befüllen und übermitteln können.
 - sprich auslesen und
+
+FHIR®]-Spezifikation in folgender Form:
 
 
 ---
@@ -917,8 +912,8 @@ Mit diesem Aufrufkontext wird der Arzt in die Lage versetzt, die VoS ohne Überg
 
 - 1. Der Arzt muss die VoS mit dem Aufrufkontext = 1 jederzeit aus dem PVS aufrufen können.
 - 2. Das PVS stellt sicher, dass das entsprechende Aufruf-Bundle unter Berücksichtigung der Pflichtfunktion  P4-10 der VoS übergeben wird.
-- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „1 Ohne  Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls  Aufruf-Bundle übergeben werden.
-- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „1 Ohne  Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls  Aufruf-Bundle übergeben werden.
+- 3. Bei jedem Aufruf müssen die als „Pflicht“ gekennzeichneten Informationen gemäß Spalte „1 Ohne  Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
+- 4. Bei jedem Aufruf können die als „erwartbar“ gekennzeichneten Informationen gemäß Spalte „1 Ohne  Aufrufkontext“ aus Tabelle 3 mit den zugehörigen FHIR-Profilen (siehe ebenfalls Tabelle 3) vom PVS im  Aufruf-Bundle übergeben werden.
 
 | KONDITIONALE PFLICHTFUNKTION VOS |  |
 |---|---|
@@ -926,10 +921,9 @@ Mit diesem Aufrufkontext wird der Arzt in die Lage versetzt, die VoS ohne Überg
 
 Der Arzt kann die VoS mit dem Aufrufkontext = 2 aus dem PVS aufrufen.
 
-Seite 28 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /  Version 2.1.2 / 15. September 2023
+Seite 28 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /
 
-- Tabelle 3) vom PVS im
-- Tabelle 3) vom PVS im
+Version 2.1.2 / 15. September 2023
 
 
 ---
@@ -1273,11 +1267,6 @@ Seite 35 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle na
 \| **Beispiel:  ** Für einen Patienten mit der Versichertenart = 1 (Mitglied) und keinen weiteren Statusfeld-Angaben |
 \|---|
 
-- 1. Versichertenart: 1
-- 2. BesonderePersonengruppe: 00
-- 3. DMP-Kennzeichnung: 00
-- 4. Status-Kennzeichen: 00
-
 | PFLICHTFUNKTION VOS |  |
 |---|---|
 | **P4-150** | Datenabfrage durch die VoS |
@@ -1302,6 +1291,15 @@ Das PVS muss jederzeit über die read- und search-Interaktion des REST-Services 
 | Freitextmedikation  Rezeptur  Wirkstoffverordnung  PZN-Produkt | KBV_PR_VoS_Medication_Compou KBV_PR_VoS_Medication_FreeText  KBV_PR_VoS_Medication_Ingredie   KBV_PR_VoS_Medication_PZN | Die gesamte Verordnungshistorie außer |
 
 Seite 36 von 48 / KBV / Anforderungskatalog Verordnungssoftware-Schnittstelle nach § 371 Absatz 1 Nummer 2 SGB V /  Version 2.1.2 / 15. September 2023
+
+- 1.
+- 2.
+- 3.
+- 4.
+- Versichertenart: 1
+- BesonderePersonengruppe: 00
+- DMP-Kennzeichnung: 00
+- Status-Kennzeichen: 00
 
 muss folgendes übermittelt werden:  Daten nding nt vorhanden sind, inklusive deren Rollen. vorhanden sind. Prüfnummer für das PVS. war/ ist je mind. eine Instanz. der Inhalte des eRezeptes (diese werden in der ursprünglichen Form als DokuRef übertragen werden), die im PVS vorhanden ist und in einer VoS verwendet werden könnte. Dies gilt, für die Patienten, die über die B1- Schnittstelle abgerufen werden können.
 

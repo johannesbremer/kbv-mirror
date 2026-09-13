@@ -16,7 +16,7 @@ Seite 1 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. 
 |  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. NOVEMBER 2023  VERSION: 1.23  DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
-KASSENÄRZTLICHE BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS 
+BUNDESVEREINIGUNG  IT IN DER ARZTPRAXIS 
 
 
 ---
@@ -442,6 +442,9 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 | **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
 | **Einzureichende  Prüfunterlagen ** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
+- 1. Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Zertifizierungsgegenstand.
+- 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01]
+
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 Seite 13 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
@@ -450,7 +453,7 @@ Seite 13 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15.
 
 **Digitales Muster**
 
-Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 06 als PDF-Dokument für Eike Flüchtling [EV01] Abschnitt 1.6.3 
+Abschnitt 1.6.3 
 
 
 ---
@@ -518,12 +521,8 @@ Seite 15 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15.
 
 ---
 
-|  |  |
-|---|---|
-| **Testziel** | Export des signierten digitalen Musters 10 mit Dokumentation. |
-| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
-| **Einzureichende  Prüfunterlagen ** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
-
+- 1. Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im  Zertifizierungsgegenstand.
+- 2. Digitales Muster 10 als PDF-Dokument für Eike Flüchtling [EV01]
 - 2. Manuelle Erfassung der Versichertendaten:
 - 3. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
 
@@ -534,6 +533,12 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 **Digitales Muster**
 
 **Prüffallnummer: PF01**
+
+|  |  |
+|---|---|
+| **Testziel** | Export des signierten digitalen Musters 10 mit Dokumentation. |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen ** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -560,7 +565,7 @@ Eike Flüchtling [EV01]
 
 Seite 16 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Screenshots über den Exportvorgang sowie die Anzeige der erfassten Daten im Zertifizierungsgegenstand. 2. Digitales Muster 10 als PDF-Dokument für Eike Flüchtling [EV01] Abschnitt 1.6.3 Behandlung 
+Abschnitt 1.6.3 Behandlung 
 
 
 ---
@@ -750,6 +755,10 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Einzureichende  Prüfunterlagen ** |  |
 | **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
 
+- Screenshots über den gesamten Ablauf. Es müssen der komplette  Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in  dem Zertifizierungsgegenstand ersichtlich sein.
+- Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
+- Optional: Die importierten Daten müssen als Muster 10 - Befund exportiert  werden, wenn der Antragsteller Muster 10 - Befund mit Export beantragt  oder hierfür bereits eine Zulassung hat.
+
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 Das von der KBV bereitgestellte PDF-Dokument „Muster_10A_Schimmelpfennig“ wird in den  Zertifizierungsgegenstand importiert.
@@ -772,7 +781,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 Seite 21 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Optional: Die importierten Daten müssen als Muster 10 - Befund exportiert werden, wenn der Antragsteller Muster 10 - Befund mit Export  beantragt oder hierfür bereits eine Zulassung hat. Verfügung. Zertifizierungsgegenstand.  
+Verfügung. Zertifizierungsgegenstand.  
 
 
 ---
@@ -864,13 +873,8 @@ Zertifizierungsgegenstand.  verwendbar) -Testuntersuchung 1234567890123456
 
 - 3. digitales Muster signieren
 - 4. digitales Muster exportieren
-
-|  |  |
-|---|---|
-| **Testziel** | Import des signierten digitalen Musters 39 mit Dokumentation. |
-| **Voraussetzung** | Download des Muster_39_Malta_2 vom Zertifizierungsportal |
-| **Einzureichende  Prüfunterlagen ** |  |
-| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
+- Screenshots über den gesamten Ablauf. Es müssen der komplette  Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in  dem Zertifizierungsgegenstand ersichtlich sein.
+- Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 
 | FELDER | INHALT |
 |---|---|
@@ -894,22 +898,24 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 **Prüffallnummer: PF08_1**
 
+|  |  |
+|---|---|
+| **Testziel** | Import des signierten digitalen Musters 39 mit Dokumentation. |
+| **Voraussetzung** | Download des Muster_39_Malta_2 vom Zertifizierungsportal |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
+
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
 Seite 24 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-zytologisch tätigen Arztes Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Verfügung. 
+zytologisch tätigen Arztes Verfügung. 
 
 
 ---
 
-|  |  |
-|---|---|
-| **Testziel** | Import des signierten digitalen Musters 39 mit Dokumentation. |
-| **Voraussetzung** | Download des Muster_39_Malta_3 vom Zertifizierungsportal Update-Server |
-| **Einzureichende  Prüfunterlagen ** |  |
-| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
-
+- Screenshots über den gesamten Ablauf. Es müssen der komplette  Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in  dem Zertifizierungsgegenstand ersichtlich sein.
+- Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 - 1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]
 - 2. Befundspezifische Daten erfassen
 
@@ -918,6 +924,13 @@ Das von der KBV bereitgestellte PDF-Dokument „Muster_39_Malta_2 wird in den  Z
 **- und - / - oder -**
 
 **Prüffallnummer: PF08_2**
+
+|  |  |
+|---|---|
+| **Testziel** | Import des signierten digitalen Musters 39 mit Dokumentation. |
+| **Voraussetzung** | Download des Muster_39_Malta_3 vom Zertifizierungsportal Update-Server |
+| **Einzureichende  Prüfunterlagen ** |  |
+| **Hinweis** | Das zu importierende Muster steht im Zertifizierungsportal zum Download zur |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -947,7 +960,7 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 Seite 25 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Screenshots über den gesamten Ablauf. Es müssen der komplette Importvorgang sowie die Aufnahme bzw. Anzeige der importierten Daten in dem Zertifizierungsgegenstand ersichtlich sein.  Dateinamenskonvention beachten [ Abschnitt 1.5 Prüfunterlagen Verfügung. 
+Verfügung. 
 
 
 ---
@@ -1036,14 +1049,13 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Zytologische Kontrolle** | ja |
 | **Grund der Nachkontrolle** | nach Östrogenbehandlung |
 
+- Die exportierte LDT-Datei.
+
 Seite 27 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
 ## EXPORT
 
 **LDT-Befund-**
-
-Die exportierte LDT-Datei. 
-
 
 ---
 
@@ -1077,6 +1089,9 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 - 2. Der enthaltene Anhang wird im angegeben Dateiformat exportiert.
 - 3. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller
 - „LDT Befund mit Export“ bean weiteres Untersuchungsergebnis Klinische Chemie hinzuzufügen.
+- Screenshots über den Ablauf.
+- Export des enthaltenden Anhangs.
+- Optional: Die importierten Daten müssen als LDT-Befund exportiert werden,  wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits  eine Zulassung hat.
 - Datei „z01PF09.ldt“ wird importiert.
 - tragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein
 
@@ -1093,29 +1108,24 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 Seite 28 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
--Cent Datei aufgenommen worden sein. Screenshots über den Ablauf.  Export des enthaltenden Anhangs. Optional: Die importierten Daten müssen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. 
+-Cent Datei aufgenommen worden sein. 
 
 
 ---
+
+- Screenshots über den Ablauf.
+- Optional: Die importierten Daten müssen als LDT-Befund exportiert werden,  wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits  eine Zulassung hat.
+- 1. Die, von der KBV bereitgestellte, LDT-Datei „z01PF09a.ldt“ wird importiert.
+- 2. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller  „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein  weiteres Untersuchungsergebnis der Zytologie Krebsvorsorge hinzuzufügen.
+- Die exportierte LDT-Datei
+- 1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]
+- 2. Erfassung der auftragsspezifischen Daten.
 
 |  |  |
 |---|---|
 |  | Der Patient Eike Flüchtling [EV01] muss im System vor dem Import der LDT Befund |
 | **Einzureichende  Prüfunterlagen ** |  |
 | **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
-
-- 1. Die, von der KBV bereitgestellte, LDT-Datei „z01PF09a.ldt“ wird importiert.
-- 2. Optional: Die importierten Daten müssen als LDT-Dateien exportiert werden, wenn der Antragsteller  „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Dazu ist dem Befund ein  weiteres Untersuchungsergebnis der Zytologie Krebsvorsorge hinzuzufügen.
-
-|  |  |
-|---|---|
-| **Testziel** | Export von LDT-Auftrag |
-| **Voraussetzung** | Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders  Abschnitt 1.6.3 Stammdaten]  Versichertendatendaten: Eike Flüchtling [EV01] |
-| **Einzureichende  Prüfunterlagen** |  |
-| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
-
-- 1. Manuelle Erfassung der Versichertendaten von Eike Flüchtling [EV01]
-- 2. Erfassung der auftragsspezifischen Daten.
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1126,6 +1136,13 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 **LDT-Auftrag**
 
 **Prüffallnummer: PF10**
+
+|  |  |
+|---|---|
+| **Testziel** | Export von LDT-Auftrag |
+| **Voraussetzung** | Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders  Abschnitt 1.6.3 Stammdaten]  Versichertendatendaten: Eike Flüchtling [EV01] |
+| **Einzureichende  Prüfunterlagen** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1141,7 +1158,7 @@ Diese Prüffälle sind nur dann zu realisieren, wenn im Antrag auf Zertifizierun
 
 Seite 29 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-Befund exportiert werden, wenn der Antragsteller „LDT Befund mit Export“ beantragt oder hierfür bereits eine Zulassung hat. Datei aufgenommen worden sein. Die exportierte LDT-Datei Behandlung Abs. 3a SGB V 
+Datei aufgenommen worden sein. Behandlung Abs. 3a SGB V 
 
 
 ---
@@ -1168,6 +1185,8 @@ Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-
 | **Einzureichende  Prüfunterlagen ** |  |
 | **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
+- Die exportierte LDT-Datei
+
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
 - 1. Erfassung der Versichertendaten Friedrich Schaumbërg durch das Einlesen der XML-Kartendaten  [XML_21].
@@ -1185,9 +1204,6 @@ Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-
 | **Dringlichkeit** | Eilig |
 
 Seite 30 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
-
-Die exportierte LDT-Datei 
-
 
 ---
 
@@ -1211,6 +1227,9 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 | **Einzureichende  Prüfunterlagen ** |  |
 | **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
+- Screenshots über den Ablauf.
+- Optional: Die importierten Daten müssen als LDT-Auftrag exportiert werden,  wenn der Antragsteller „LDT Auftrag mit Export“ beantragt oder hierfür bereits  eine Zulassung hat.
+
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
 - 1. Die, von der KBV bereitgestellte, LDT-Datei „z01PF12.ldt“ wird importiert.
@@ -1218,7 +1237,7 @@ Dieser Prüffall ist nur dann zu realisieren, wenn im Antrag auf Zertifizierung 
 
 Seite 31 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Großes Blutbild, Blutsenkung, Quick, Bilirubin Zeichen) 234568 Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders Screenshots über den Ablauf.  Optional: Die importierten Daten müssen als LDT-Auftrag exportiert werden, wenn der Antragsteller „LDT Auftrag mit Export“ beantragt oder hierfür bereits eine Zulassung hat. 
+Großes Blutbild, Blutsenkung, Quick, Bilirubin Zeichen) 234568 Einsender bzw. Sender des Auftrags entspricht den Daten des Einsenders 
 
 
 ---
@@ -1239,12 +1258,7 @@ Seite 32 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15.
 
 ---
 
-|  |  |
-|---|---|
-| **Testziel** | Export des signierten digitalen Musters 6 |
-| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| **Einzureichende** |  |
-
+- Digitales Muster 6 als PDF-Dokument für Malta
 - Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 - 1. Versichertendaten aus der XML-Datei einlesen:
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
@@ -1254,6 +1268,12 @@ Seite 32 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15.
 ## 3.1 DIGITALES MUSTER 6  EXPORT
 
 **Prüffallnummer: TE05**
+
+|  |  |
+|---|---|
+| **Testziel** | Export des signierten digitalen Musters 6 |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1275,17 +1295,12 @@ Malta [XML_20]
 
 Seite 33 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen ESS / bei belegärztl.icher Behandlung nach Abschnitt 31.2 
+Abschnitt 1.6.3 Prüfunterlagen ESS / bei belegärztl.icher Behandlung nach Abschnitt 31.2 
 
 
 ---
 
-|  |  |
-|---|---|
-| **Testziel** | Export des signierten digitalen Musters 10 |
-| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| **Einzureichende** |  |
-
+- Digitales Muster 10 als PDF-Dokument für Malta
 - Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 - 5. Versichertendaten aus der XML-Datei einlesen:
 - 6. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
@@ -1293,6 +1308,12 @@ Digitales Muster 6 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen E
 ## 3.2 DIGITALES MUSTER 10  EXPORT
 
 **Prüffallnummer: TE01**
+
+|  |  |
+|---|---|
+| **Testziel** | Export des signierten digitalen Musters 10 |
+| **Voraussetzung** | Einsender und Erstveranlasser wurden bereits erfasst [ Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1319,20 +1340,14 @@ Malta [XML_20]
 
 Seite 34 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen Behandlung 
+Abschnitt 1.6.3 Prüfunterlagen Behandlung 
 
 
 ---
 
 - 7. digitales Muster exportieren signieren
 - 8. digitales Muster exportieren signieren
-
-|  |  |
-|---|---|
-| **Testziel** | Export des signierten digitalen Musters 10A |
-| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| **Einzureichende** |  |
-
+- Digitales Muster 10A als PDF-Dokument für Malta.
 - Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 - 1. Versichertendaten aus der XML-Datei einlesen:
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster exportieren:
@@ -1345,6 +1360,12 @@ Digitales Muster 10 als PDF-Dokument für Malta Abschnitt 1.6.3 Prüfunterlagen 
 ## 3.3 DIGITALES MUSTER 10A  EXPORT
 
 **Prüffallnummer: TE02**
+
+|  |  |
+|---|---|
+| **Testziel** | Export des signierten digitalen Musters 10A |
+| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1366,17 +1387,12 @@ Malta [XML_20]
 
 Seite 35 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Digitales Muster 10A als PDF-Dokument für Malta. Prüfunterlagen IgM, Kalium, Kreatinin, LDL-Cholesterin, Sonstiges 
+Prüfunterlagen IgM, Kalium, Kreatinin, LDL-Cholesterin, Sonstiges 
 
 
 ---
 
-|  |  |
-|---|---|
-| **Testziel** | Export des signierten digitalen Musters 39 |
-| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
-| **Einzureichende** |  |
-
+- Digitales Muster 39 als PDF-Dokument für Malta.
 - Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen
 - 1. Versichertendaten aus der XML-Datei einlesen:
 - 2. Musterspezifische Daten erfassen und im Anschluss das digitale Muster signieren und exportieren:
@@ -1384,6 +1400,12 @@ Digitales Muster 10A als PDF-Dokument für Malta. Prüfunterlagen IgM, Kalium, K
 ## 3.4 DIGITALES MUSTER 39  EXPORT
 
 **Prüffallnummer: TE06**
+
+|  |  |
+|---|---|
+| **Testziel** | Export des signierten digitalen Musters 39 |
+| **Voraussetzung** | Einsender wurde bereits erfasst [Abschnitt 1.6.3 Stammdaten]  Versichertendaten: Malta als XML-Datei [XML_20] |
+| **Einzureichende** |  |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden:**
 
@@ -1415,21 +1437,15 @@ Malta [XML_20]
 
 Seite 36 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/unvollständig/keine/unklar) oder Chemotherap… -Testuntersuchung Hormonanwendung 
+Prüfunterlagen (vollständig/unvollständig/keine/unklar) oder Chemotherap… -Testuntersuchung Hormonanwendung 
 
 
 ---
 
 - 3. digitales Muster signieren
 - 4. digitales Muster exportieren
-
-|  |  |
-|---|---|
-| **Testziel** | Export des LDT-Befundes. |
-| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschn ]  Versichertendatendaten: Malta [XML_20] |
-| **Einzureichende** |  |
-| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
-
+- Die exportierte LDT-Datei.
+- Dateinamenskonvention beachten, siehe Kapitel 1.5.3 Prüfunterlagen.
 - 1. Erfassung der Versichertendaten Malta durch das Einlesen der XML-Kartendaten [XML_20].
 - 2. Befundspezifische Daten erfassen:
 
@@ -1441,6 +1457,13 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 ## 3.5 LDT-BEFUND  EXPORT
 
 **Prüffallnummer: TE03**
+
+|  |  |
+|---|---|
+| **Testziel** | Export des LDT-Befundes. |
+| **Voraussetzung** | Sendendes Labor entspricht den Daten des Labors [Abschnitt 1.6.3 Stammdaten]  Einsender bzw. Empfänger entspricht den Daten des Einsenders [Abschn ]  Versichertendatendaten: Malta [XML_20] |
+| **Einzureichende** |  |
+| **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
@@ -1458,9 +1481,6 @@ Digitales Muster 39 als PDF-Dokument für Malta. Prüfunterlagen (vollständig/u
 | **Ergebnis-Wert** | 4.7 |
 
 Seite 37 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
-
-Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3  Prüfunterlagen. 
-
 
 ---
 
@@ -1485,6 +1505,8 @@ Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3  
 | **Einzureichende** |  |
 | **Hinweis** | Dateinamenskonvention beachten [Abschnitt 1.5 Prüfunterlagen] |
 
+- Die exportierte LDT-Datei.
+
 **Aktionen, die durch den Antragsteller durchgeführt werden.**
 
 - 1. Erfassung der Versichertendaten Malta durch das Einlesen der XML-Kartendaten [XML_20].
@@ -1506,7 +1528,7 @@ Die exportierte LDT-Datei. Dateinamenskonvention beachten, siehe Kapitel 1.5.3  
 
 Seite 38 von 41 / KBV / Prüfpaket Labordatenkommunikation / Version: 1.23 / 15. November 2023
 
-Wertes nach Norm Wertes  Die exportierte LDT-Datei. Behandlung Abs. 3a SGB V 
+Wertes nach Norm Wertes  Behandlung Abs. 3a SGB V 
 
 
 ---

@@ -69,9 +69,7 @@ Seite 2 von 8
 
 **3** **REFERENZIERTE DOKUMENTE __________________________________________ 8**
 
-**IT in der Arztpraxis**
-
-Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+**IT in der Arztpraxis**  Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
 
@@ -125,18 +123,14 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Versi-on
 
-**IT in der Arztpraxis**
-
-Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+**IT in der Arztpraxis**  Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03 (2-70) Seite 4 von 8
 
 
 ---
 
-**IT in der Arztpraxis**
-
-Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+**IT in der Arztpraxis**  Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 # 2 Ärztliches Dokumentieren
 
@@ -240,9 +234,7 @@ Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokume
 
 nachzulesen.
 
-**IT in der Arztpraxis**
-
-Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+**IT in der Arztpraxis**  Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
 
@@ -270,9 +262,7 @@ KBV_ITA_VGEX_XML-Schnittstellen] beschriftet werden müssen. Eine Funktion zur B
 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben  von Disketten oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel  „Transportbegleitzettel“ in [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken.  Dieses Datum ist vom Anwender bei Unterzeichnung des Transportbegleitzettels hand-schriftlich anzugeben.
 
-**IT in der Arztpraxis**
-
-Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
+**IT in der Arztpraxis**  Anforderungskatalog zur Qualitätssicherung Zervix-Zytologie
 
 KBV_ITA_VGEX_Anforderung_QS_Zervix-Zytologie * Version 1.03
 

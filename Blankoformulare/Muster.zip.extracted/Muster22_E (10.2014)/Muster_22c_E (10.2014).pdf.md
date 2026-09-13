@@ -14,11 +14,9 @@
 
 **Aktuelle** **Beschwerden,**  **sondere unter Berücksichtigung des Entwicklungsstandes), relevante anamnestische Daten im Zusammenhang mit** **den** **aktuellen** **Beschwerden,** **Parallelbehandlungen** **stat./amb.** **gleitbehandlung** **und/oder**
 
-**22**
-
 ## Konsiliarbericht
 
-**vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
+**22** **vor Aufnahme einer Psychotherapie durch Psychologische** **Psychotherapeuten und Kinder- und** **Jugendlichenpsychotherapeuten**
 
 **geb. am**
 
@@ -46,9 +44,9 @@
 
 **Ärztliche** **Mitbehandlung** **ist** **erforderlich** **Art der Maßnahme:**
 
-**erfolgt**
-
 **nicht erforderlich**
+
+**erfolgt**
 
 **notwendig** **bzw.** **veranlasst**
 

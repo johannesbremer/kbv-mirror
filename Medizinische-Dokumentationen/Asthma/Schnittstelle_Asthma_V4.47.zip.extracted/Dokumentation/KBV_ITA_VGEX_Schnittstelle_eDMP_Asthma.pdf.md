@@ -28,11 +28,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **10**
 
-| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 11 |
-|---|---|---|---|
-| 3.1 | Kardinalitä | t | 11 |
-| 3.2 |  | Strukturelemente | 11 |
-| 3.3 | Sonstige | Symbole | 12 |
+| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 11 |
+|---|---|---|
+| 3.1 | Kardinalität | 11 |
+| 3.2 | Strukturelemente | 11 |
+| 3.3 | Sonstige Symbole | 12 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -149,9 +149,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 30
 
 Seite 2 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
-
-Kardinalität Sonstige Symbole 
-
 
 ---
 
@@ -313,15 +310,13 @@ Seite 5 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 **XML-CODE 20:** IN DEN LETZTEN 4 WOCHEN: HÄUFIGKEIT DES EINSATZES DER BEDARFSMEDIKATION ......................... 25
 
-**XML-CODE 21:** IN DEN LETZTEN 4 WOCHEN: EINSCHRÄNKUNG VON AKTIVITÄTEN IM ALLTAG WEGEN ASTHMA
-
-BRONCHIALE ............................................................................................................................................................ 25
+**XML-CODE 21:** IN DEN LETZTEN 4 WOCHEN: EINSCHRÄNKUNG VON AKTIVITÄTEN IM ALLTAG WEGEN ASTHMA  BRONCHIALE ............................................................................................................................................................ 25
 
 **XML-CODE 22:** IN DEN LETZTEN 4 WOCHEN: ASTHMABEDINGTE STÖRUNG DES NACHTSCHLAFES ............................... 26
 
-**XML-CODE 23:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ...................................................................... 26 1
+**XML-CODE 23:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ...................................................................... 1 26
 
-**XML-CODE 24:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ...................................................................... 26 1
+**XML-CODE 24:** AKTUELLER FEV -WERT (MINDESTENS ALLE 12 MONATE) ...................................................................... 1 26
 
 **XML-CODE 25:** CONTENT (MEDIKAMENTE)...................................................................................................................... 27
 
@@ -355,9 +350,7 @@ BRONCHIALE .....................................................................
 
 **XML-CODE 41:** CONTENT (RELEVANTE EREIGNISSE) ........................................................................................................ 35
 
-**XML-CODE 42**: UNGEPLANTE, AUCH NOTFALLMÄßIGE (AMBULANT UND STATIONÄR) ÄRZTLICHE BEHANDLUNG
-
-WEGEN ASTHMA BRONCHIALE SEIT DER LETZTEN DOKUMENTATION ................................................................... 35
+**XML-CODE 42**: UNGEPLANTE, AUCH NOTFALLMÄßIGE (AMBULANT UND STATIONÄR) ÄRZTLICHE BEHANDLUNG  WEGEN ASTHMA BRONCHIALE SEIT DER LETZTEN DOKUMENTATION ................................................................... 35
 
 **XML-CODE 43:** CONTENT (SCHULUNG) ............................................................................................................................ 36
 
@@ -367,7 +360,7 @@ Seite 6 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 ---
 
-DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -376,8 +369,6 @@ DOKUMENTENHISTORIE
 | 4.45 | 12.08.2022 | KBV | Redaktionelle Korrektur des |  | 34 |
 | 4.45 | 22.10.2020 | KBV | Anpassung an die  Überführung in neues Design  Vereinheitlichung des  Hochziehen des Kapitels  Textuelle Anpassungen an  Löschung der Definition von  Aufteilung von Kapitel 6.1.7.1  Austausch der Abbildung 2  Vereinheitlichung der Angabe | Beschluss des G-BA      Bedingt durch neues Layout    Wird in dieser Schnittstelle  Überarbeitung aufgrund von  Kardinalität in Abbildung | 19  Alle  Alle  17ff  Alle      14  14ff |
 | 4.44 | 30.01.2019 | KBV | Erweiterung des | Anpassung an das | 14 |
-|  |  |  |  |  |  |
-|  | 4.47  14.11.2025  KBV | | | | |
 
 Seite 7 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
 
@@ -386,14 +377,8 @@ aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierte
 
 ---
 
-|  |  |  |  |  |  |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  | 22 |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | Parameter „Geschlecht des  Wertebereich „Körpergewicht“ | 22 | | | | |
 
 Seite 8 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
@@ -485,15 +470,18 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
+n...m
+
 Seite 11 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. n...m Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. 
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. 
 
 
 ---
 
-\| **3.3** Es werden außerdem folgende Diagramm-Symbole verwendet: |
-\|---|
+## 3.3 SONSTIGE SYMBOLE
+
+Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 |  |  |
 |---|---|
@@ -507,7 +495,10 @@ gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element mus
 
 Seite 12 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
 
-Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst. SONSTIGE SYMBOLE 
+Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
+
+\|  |
+\|---|
 
 
 ---
@@ -546,17 +537,27 @@ xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi="http://www.w3.org/2001/XMLS
 
 Das Element <administrative_gender_cd> (patient) kann zusätzlich den Wert X=Unbestimmt enthalten.  Dieser Wert stellt eine lokale Erweiterung des HL7® Version 3 Standard Kodesystems AdministrativeGender  (OID 2.16.840.1.113883.5.1) dar, die in einer zukünftigen Version des Kodesystems definiert wird. Die  Abbildung der Geschlechtsausprägungen auf die Werte des V-Attributs ist gemäß Pflichtfunktion P2-52 des  Anforderungskatalogs eDMP [KBV_ITA_VGEX_Anforderungskatalog_eDMP] durchzuführen.
 
-6 BODY DER „ERSTMALIGEN DOKUMENTATION“
+# 6 BODY DER „ERSTMALIGEN DOKUMENTATION“
 
-\| In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  Abbildung 2   Der Coderahmen für das <body>-Element sieht wie folgt aus:  <body>     Abbildung 2 |
-\|---|
+In diesem Kapitel wird der Aufbau des bodys der „erstmaligen Dokumentation“ erläutert. Im Element  <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst  enthält ein Element <section>.
+
+Der Aufbau des Elements <body> ist in Abbildung 2 dargestellt.
+
+**Abbildung 2:** Grundstruktur body
+
+Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
 \| <body>  **   </body> |
 \|---|
 
+**XML-Code 2**: body
+
 Seite 14 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
 
-<section> </section> <body> der XML-Datei werden die eigentlichen Untersuchungsdaten aufgeführt. Das Element <body> selbst enthält ein Element <section>.  Der Aufbau des Elements <body> ist in  dargestellt. Abbildung 2:  Grundstruktur body XML-Code 2 : body 
+<section> </section>
+
+\|  |
+\|---|
 
 
 ---
@@ -567,12 +568,12 @@ Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusa
 
 **Abbildung 3:** Grundstruktur section
 
-\| Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, |
-\|---|
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“,  „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“  enthalten, die jeweils in einem <paragraph>-Element untergebracht sind.
 
 Seite 15 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
 
-„Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“ enthalten, die jeweils in einem <paragraph>-Element untergebracht sind. 
+\|  |
+\|---|
 
 
 ---
@@ -630,7 +631,7 @@ Der XML-Code zum Element <sciphox-ssu> sieht folgendermaßen aus:
 
 ### 6.1.3.1 Parameter
 
-Das Element <Parameter> enthält nur das  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
+Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz  (z.B. „Körpergröße“), zu welchen eine Angabe gemacht werden muss, angegeben. Die einzelnen Angaben  werden im jeweiligen Element <Ergebnistext> und <Ergebniswert> untergebracht.
 
 *Grundsätzlich wird der Text im Datensatz zu einem Parameter bzw. Wert in die XML-Schnittstelle 1:1 aus*  *den Plausibilitäten übernommen, das heißt, dass gegebenenfalls alle Abkürzungen und Bindestriche in der*  *XML-Schnittstelle genauso angegeben werden.*
 
@@ -639,20 +640,14 @@ Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-*DN*-Attribut. Als Wert werden die Parameter aus dem Datensatz
-
 **XML-Code 6:** Parameter
 
 ### 6.1.3.2 Ergebnistext
 
-Das Element <Ergebnistext> enthält nur das  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im  zum Element <Ergebnistext> sieht folgendermaßen aus:
+Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
-
-*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz
-
-*V-*Attribut, angegeben. Der XML-Code
 
 **XML-Code 7:** Ergebnistext
 
@@ -668,18 +663,18 @@ Seite 18 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 
 
 ---
 
-\| <sciphox:Beobachtung>         </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 8:**
+**XML-Code 8:** Ergebniswert
 
-### 6.1.4
+### 6.1.4 Abschnitt „Administrative Daten“
 
 Dieses Kapitel beschreibt den Abschnitt „Administrative Daten“.
 
-Im Element <content> wird die Sciphox-SSU 6.1.3
+Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau dieser SSU ist in Kapitel
 
-<sciphox:Beobachtungen> enthält genau ein Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
+6.1.3 dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element  <sciphox:Beobachtungen> enthält genau ein Kindelemente <sciphox:Beobachtung>. Ein Element  <sciphox:Beobachtung> enthält in diesem Abschnitt genau ein Kindelement <sciphox:Parameter> und  mindestens ein Kindelement <sciphox:Ergebnistext
 
 Der Coderahmen sieht wie folgt aus:
 
@@ -701,7 +696,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 Seite 19 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
 
-<sciphox:Ergebniswert V=". . ." U="..."/>  Ergebniswert Abschnitt „Administrative Daten“ observation  verwendet. Der Aufbau dieser SSU ist in Kapitel  dargestellt. Diese SSU enthält genau ein Kindelement <sciphox:Beobachtungen>. Das Element <content> <local_markup ignore="all" descr iptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtungen> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/>
+<sciphox:Ergebniswert V=". . ." U="..."/> <local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/>
 
 
 ---
@@ -735,7 +730,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus:
 
-\| <content>       <sciphox:Beobachtungen>                                                                                                 </content> |
+\| <content>       <sciphox:Beobachtungen>                                                                                               </content> |
 \|---|
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)

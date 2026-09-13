@@ -24,11 +24,11 @@ BUNDESVEREINIGUNG      IT IN DER ARZTPRAXIS   2025
 
 **2** **DATEINAMEN**
 
-| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 11 |
-|---|---|---|---|
-| 3.1 | Kardinalitä | t | 11 |
-| 3.2 |  | Strukturelemente | 11 |
-| 3.3 | Sonstige | Symbole | 12 |
+| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 11 |
+|---|---|---|
+| 3.1 | Kardinalität | 11 |
+| 3.2 | Strukturelemente | 11 |
+| 3.3 | Sonstige Symbole | 12 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -147,9 +147,6 @@ Seite 2 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary D
 30
 
 / 14. November
-
-Kardinalität Sonstige Symbole 
-
 
 ---
 
@@ -304,9 +301,9 @@ Seite 5 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary D
 
 **XML-CODE 17:** BEGLEITERKRANKUNGEN ......................................................................................................................... 23
 
-**XML-CODE 18:** AKTUELLER FEV -WERT (ALLE SECHS BIS ZWÖLF MONATE) .................................................................... 23 1
+**XML-CODE 18:** AKTUELLER FEV -WERT (ALLE SECHS BIS ZWÖLF MONATE) .................................................................... 1 23
 
-**XML-CODE 19:** AKTUELLER FEV -WERT (ALLE SECHS BIS ZWÖLF MONATE) .................................................................... 24 1
+**XML-CODE 19:** AKTUELLER FEV -WERT (ALLE SECHS BIS ZWÖLF MONATE) .................................................................... 1 24
 
 **XML-CODE 20**: KLINISCHE EINSCHÄTZUNG DES OSTEOPOROSERISIKOS DURCHGEFÜHRT .............................................. 24
 
@@ -344,9 +341,7 @@ Seite 5 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary D
 
 **XML-CODE 38**: HÄUFIGKEIT VON EXAZERBATIONEN SEIT DER LETZTEN DOKUMENTATION ........................................... 33
 
-**XML-CODE 39**: UNGEPLANTE, AUCH NOTFALLMÄßIGE (AMBULANT UND STATIONÄR) ÄRZTLICHE BEHANDLUNG
-
-WEGEN COPD SEIT DER LETZTEN DOKUMENTATION .............................................................................................. 34
+**XML-CODE 39**: UNGEPLANTE, AUCH NOTFALLMÄßIGE (AMBULANT UND STATIONÄR) ÄRZTLICHE BEHANDLUNG  WEGEN COPD SEIT DER LETZTEN DOKUMENTATION .............................................................................................. 34
 
 **XML-CODE 40:** CONTENT (BEHANDLUNGSPLANUNG) ..................................................................................................... 35
 
@@ -361,7 +356,7 @@ Seite 6 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary D
 
 ---
 
-DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -371,8 +366,6 @@ DOKUMENTENHISTORIE
 | 4.05 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 19 |
 | 4.04 | 14.05.2021 | KBV | Redaktionelle Anpassungen |  | 23 |
 | 4.04 | 20.05.2020 | KBV | Anpassung an die  Überführung in neues Design  Vereinheitlichung des  Fehlerkorrektur in Kapiteln 6.1,  Hochziehen des Kapitels | Beschluss des G-BA        Bedingt durch neues Layout | 19  Alle  Alle  15f  17ff |
-| **Version** | **Datum** | **Autor  Änderung  Begründung** | | | |
-| **Seite** |  |  | 4.07  14.11.2025 | KBV  Anpassung an die | 19 4.06  KBV  Redaktionelle Korrektur in |
 
 Seite 7 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) / Version: 4.07 /  2025
 
@@ -383,15 +376,8 @@ aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Kapitel 7.1.3
 
 ---
 
-| Löschung der Definition von | Wird in dieser Schnittstelle | 20 |  | ff | 4.03 |
-|---|---|---|---|---|---|
-| Erweiterung des | Wertebereich „Körpergewicht“ | Anpassung an das | Element kommt nur in |  |  |
-| 36 |  | 21 |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 | Fehlerkorrektur in Kapitel 6.1.5  Textuelle Anpassungen an  Löschung der Definition von  Vereinheitlichung der Angabe | Wird in dieser Schnittstelle | 20  Alle    14ff | | | |
+|---|---|---|---|---|---|
 | 4.03 | 30.01.2019 | KBV | Erweiterung des  Kapitel „An einem  Wertebereich „Körpergewicht“ | Anpassung an das  Element kommt nur in | 14  31  36  21 |
 
 Seite 8 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) / Version: 4.07 / 14. November
@@ -473,29 +459,27 @@ Es existieren verschiedene Kardinalitäten:
 | 1 |  | Musselement: Rechteck mit durchgezogener Linie. Das |
 | n...m |  | Multielement enthält mindestens n aber maximal m |
 
-**Tabelle 1:**
+**Tabelle 1:** Beschreibung der Kardinalitäten
+
+## 3.2 STRUKTURELEMENTE
+
+Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
 
 |  |  |
 |---|---|
 | **Symbol** | **Beschreibung ** Das Strukturelement <xs:choice> zeigt an, dass zwischen verschiedenen |
-| Multielement enthält mindestens n aber maximal m | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
-
-## 3.2
-
-Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente miteinander verknüpft.  In diesem Dokument werden zwei Strukturelemente verwendet: <xs:choice> und <xs:sequence>.
+|  | Das Strukturelement <xs:sequence> beschreibt, dass die Kindelemente in |
 
 **Tabelle 2:** Beschreibung der Strukturelement-Symbole
 
 Seite 11 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) / Version: 4.07 / 14. November  2025
 
-gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann.  Beschreibung der Kardinalitäten STRUKTURELEMENTE Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
+gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen.
 
 ---
 
 |  |  |
 |---|---|
-|  |  |
-|  |  |
 
 ## 3.3 SONSTIGE SYMBOLE
 
@@ -648,7 +632,7 @@ Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Para
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-\| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
 **XML-Code 6:** Parameter
@@ -764,11 +748,9 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-Seite 21 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) /  2025
+Seite 21 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) / Version: 4.07 / 14. November
 
-Version: 4.07 / 14. November
-
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktueller FEV1-Wert (alle sechs bis zwölf Monate)"/> <sciphox:Ergebniswert V="110.0" U="Prozent des Soll-Wertes"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Klinische Einschätzung des Osteoporoserisikos durchgeführt“/> <sciphox:Ergebnistext V="Nein“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> 
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktueller FEV1-Wert (alle sechs bis zwölf Monate)"/> <sciphox:Ergebniswert V="110.0" U="Prozent des Soll-Wertes"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Klinische Einschätzung des Osteoporoserisikos durchgeführt“/> <sciphox:Ergebnistext V="Nein“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> 2025
 
 
 ---
@@ -1050,14 +1032,12 @@ Der Coderahmen sieht wie folgt aus:
 
 ### COPD-Schulung empfohlen (bei aktueller Dokumentation)
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 12
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 12
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
-
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
 **XML-Code 28:** COPD-Schulung empfohlen (bei aktueller Dokumentation)
 
@@ -1169,56 +1149,57 @@ Seite 30 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary 
 \| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 33:**
-
-\| Wert bei Ergebnistext (V="...") |
-\|---|
-\| Ja |
-\|  |
+**XML-Code 33:** Empfehlung zum Tabakverzicht ausgesprochen
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
 \| Ja |
 \| Nein |
 
-**Tabelle 16:**
+**Tabelle 16:** Werte bei Ergebnistext (Empfehlung zum Tabakverzicht ausgesprochen)
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß
+### Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 18
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 34:**
+**XML-Code 34:** Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
 \| Ja |
 \| Nein |
 
-**Tabelle 17:** ausgesprochen)
+**Tabelle 17:** Werte bei Ergebnistext (Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm  ausgesprochen)
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß
+### Empfehlung zum körperlichen Training ausgesprochen
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 19
 
 Als Beispiel sei hier folgender Code angegeben:
 
 \| <sciphox:Beobachtung>      </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 35:**
+**XML-Code 35:** Empfehlung zum körperlichen Training ausgesprochen
+
+\| Wert bei Ergebnistext (V="...") |
+\|---|
+\| Ja |
 
 Seite 31 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) / Version: 4.07 / 14. November
 
-<sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> Empfehlung zum Tabakverzicht ausgesprochen  Werte bei Ergebnistext (Empfehlung zum Tabakverzicht ausgesprochen) Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen Tabelle 18 Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen  Werte bei Ergebnistext (Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm Empfehlung zum körperlichen Training ausgesprochen Tabelle 19 Empfehlung zum körperlichen Training ausgesprochen 2025
+<sciphox:Parameter DN="Empfehlung zum Tabakverzicht ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zur Teilnahme an Tabakentwöhnungsprogramm ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> <sciphox:Parameter DN="Empfehlung zum körperlichen Training ausgesprochen"/> <sciphox:Ergebnistext V="Nein"/> 2025
 
 
 ---
 
-\|  |
-\|---|
-\|  |
 \| Nein |
+\|---|
 
 **Tabelle 18:** Werte bei Ergebnistext (Empfehlung zum körperlichen Training ausgesprochen)
 
@@ -1324,9 +1305,7 @@ Seite 35 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary 
 
 ### An einem Tabakentwöhnungsprogramm seit der letzten Empfehlung teilgenommen
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im
-
-gemäß Tabelle 20
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 20
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1340,8 +1319,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 \| War aktuell nicht möglich |
-
-*V*-Attribut die Feldbezeichnung
 
 **Tabelle 19:** Werte bei Ergebnistext (An einem Tabakentwöhnungsprogramm seit der letzten  Empfehlung teilgenommen)
 
@@ -1402,11 +1379,9 @@ Seite 37 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary 
 
 **Tabelle 20:** Werte bei Ergebnistext (Empfohlene Schulung wahrgenommen)
 
-Seite 38 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) /  2025
+Seite 38 von 40 / KBV / Schnittstellenbeschreibung Chronic Obstrusive Pulmonary Disease (COPD) / Version: 4.07 / 14. November
 
-Version: 4.07 / 14. November
-
-empfohlen 
+empfohlen 2025
 
 
 ---

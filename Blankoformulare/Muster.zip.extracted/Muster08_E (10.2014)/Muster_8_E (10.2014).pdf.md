@@ -6,15 +6,19 @@
 
 **Name, Vorname des Versicherten**
 
-**Datum** **Versicherten-Nr. Arzt-Nr.**
+**Datum**
 
 **Kostenträgerkennung**
+
+**Versicherten-Nr. Arzt-Nr.**
+
+**Befund:**
 
 **ja**
 
 **Erst-**
 
-**nein** **Betriebsstätten-Nr. Befund:**
+**nein** **Betriebsstätten-Nr.**
 
 **ja**
 
@@ -30,7 +34,9 @@
 
 **Menge und Art der Verordnung:**
 
-**Basis** **Achse**
+**Achse**
+
+**Basis**
 
 **Scheitel-**
 
@@ -40,17 +46,15 @@
 
 **10-stellige**
 
-**Zylinder**
+**Zylinder** **R**
 
-**abstand**
-
-**R** **FL**
+**abstand** **FL**
 
 **R** **NL**
 
-**L**
-
 **R**
+
+**L**
 
 **Vertragsarztstempel / Unterschrift des Arztes**
 
@@ -58,11 +62,9 @@
 
 **Belegnummer**
 
-**versorgung**
+**versorgung Unfall,**
 
 **versorgung**
-
-**Unfall,**
 
 **Versorgungs-**
 
@@ -90,9 +92,9 @@
 
 **dass ich bisher noch keine Sehhilfe gehabt habe**
 
-**in Höhe von**
-
 **Ersatz**
+
+**in Höhe von**
 
 **dass meine bisherige Sehhilfe verlorengegangen ist**
 
@@ -100,7 +102,7 @@
 
 **Entscheidung der Krankenkasse in Höhe des geltenden Festbetrages**
 
-**Sonstiges: Datum**
+**DatumSonstiges:**
 
 **Betrag Euro**
 
@@ -108,11 +110,11 @@
 
 **Glas / Gläser bzw. Kontaktlinsen**
 
-**e** **ang**
-
-**igung ab**
+**ang e**
 
 **passt.**
+
+**igung ab**
 
 **Empfangsbestät** **Datum**
 
@@ -142,9 +144,9 @@
 
 **Stempel und Unterschrift des Leistungserbringers**
 
-**PRF.NR.**
-
 **mmten Betrag.**
+
+**PRF.NR.**
 
 **nicht gestattet.** **sbaren Daten.**
 

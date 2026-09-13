@@ -44,17 +44,17 @@ Seite 2 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozeduren
 
 ---
 
-1. EINLEITUNG ZU SDOPS Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und  Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen-und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
+1. EINLEITUNG ZU SDOPS Die Operations- und Prozedurenschlüssel-Stammdatei (SDOPS), basiert auf der jeweils gültigen Version der  Operationen- und Prozedurenschlüssel (OPS) des Deutschen Institutes für Medizinische Dokumentation und  Information (DIMDI) in der vertragsärztlichen Versorgung. Die Datei beinhaltet die Zuordnung der Operationen- und Prozedurenschlüssel zur fachlichen Bezeichnung und weiteren Informationen.
 
-Die Aktualisierung der Stammdatei erfolgt in Abhängigkeit der Änderungen des DIMDIs bzw. durch Beschlüsse des Bewertungsausschusses.
+Die Aktualisierung der Stammdatei erfolgt in Abhängigkeit der Änderungen des DIMDIs bzw. durch Beschlüsse des
 
-Die vorliegende Schnittstellenbeschreibung definiert das Format der SDOPS der KBV im XML-Format konform zur ehd-Richtlinie KBV_ITA_VGEX_eHD.
+Bewertungsausschusses.
 
-Die Datei wird den Softwarehäusern vom Dezernat Digitalisierung und IT der KBV zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt. Für Fragen zu den Nutzungszwecken steht das Dezernat Vergütung und Gebührenordnung über den Servicedesk der KBV (EMail:  4005-2077) zur Verfügung.
+Die vorliegende Schnittstellenbeschreibung definiert das Format der SDOPS der KBV im XML-Format konform zur  ehd-Richtlinie KBV_ITA_VGEX_eHD.
+
+Die Datei wird den Softwarehäusern vom Dezernat Digitalisierung und IT der KBV zur Nutzung in der  vertragsärztlichen Versorgung zur Verfügung gestellt. Für Fragen zu den Nutzungszwecken steht das Dezernat  Vergütung und Gebührenordnung über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de, Telefon: 030 /](mailto:KBVServiceDesk@KBV.de) 4005-2077) zur Verfügung.
 
 Seite 3 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
-
-[KBVServiceDesk@KBV.de, Telefon: 030 /](mailto:KBVServiceDesk@KBV.de)
 
 
 ---
@@ -177,11 +177,11 @@ Datentyp Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Daten
 
 Symbol
 
-Seite 6 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
-
 Beschreibung
 
 Gruppenelement Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, welches  mehrere Elemente zusammenfasst.
+
+Seite 6 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedurenschlüsselstammdatei) / Version 1.00
 
 
 ---
@@ -203,13 +203,7 @@ ehd:ehd>
 
 ### ehd_version:
 
-Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich  wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler
-
-### melden.
-
-Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für
-
-### die Version vorgegeben.
+Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richtlinie bzw. des verwendeten ehd-Schemas angeben. Der Wertebereich  wird auf 0.00 bis 99.99 festgelegt, anderenfalls wird der Parser Fehler  melden. Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für  die Version vorgegeben.
 
 ### <header>
 
@@ -329,9 +323,7 @@ Seite 10 von 12 / KBV / Stammdateien der KBV - SDOPS (Operationen- und Prozedure
 
 5.1.5 kz115b
 
-Das optionale Element <kz115b> enthält die Kategorie zum OPS-Code gem. Anlage 1 zum Vertrag nach § 115 b  Abs. 1 SGB V. Zulässige Werte sind "1", "2" und "s". Im Falle von "s" sind weitere Erläuterungen im Element
-
-### <kz115b_info> hinterlegt.
+Das optionale Element <kz115b> enthält die Kategorie zum OPS-Code gem. Anlage 1 zum Vertrag nach § 115 b  Abs. 1 SGB V. Zulässige Werte sind "1", "2" und "s". Im Falle von "s" sind weitere Erläuterungen im Element  <kz115b_info> hinterlegt.
 
 ### Der XML-Code für ein Element <kz115b> hat folgenden Aufbau:
 

@@ -28,11 +28,11 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **9**
 
-| 3 |  | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
-|---|---|---|---|
-| 3.1 | Kardinalitä | t | 10 |
-| 3.2 |  | Strukturelemente | 10 |
-| 3.3 | Sonstige | Symbole | 11 |
+| 3 | SEMANTIK DER VERWENDETEN DIAGRAMM-SYMBOLE | 10 |
+|---|---|---|
+| 3.1 | Kardinalität | 10 |
+| 3.2 | Strukturelemente | 10 |
+| 3.3 | Sonstige Symbole | 11 |
 
 **4** **DOKUMENTENSTRUKTUR**
 
@@ -117,9 +117,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 29
 
 Seite 2 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
-
-Kardinalität Sonstige Symbole 
-
 
 ---
 
@@ -568,10 +565,19 @@ Das Element <Parameter> enthält nur das *DN*-Attribut. Als Wert werden die Para
 
 Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
-\| <sciphox:Beobachtung>    **XML-Code 7:** </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
 \|---|
 
-*V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz  *V-*Attribut, angegeben. Der XML-Code  sieht folgendermaßen aus:
+**XML-Code 6:** Parameter
+
+### Ergebnistext
+
+Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code  zum Element <Ergebnistext> sieht folgendermaßen aus:
+
+\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
+\|---|
+
+**XML-Code 7:** Ergebnistext
 
 ### Ergebniswert
 
@@ -592,10 +598,7 @@ Im Element <content> wird die Sciphox-SSU *observation* verwendet. Der Aufbau di
 
 Seite 17 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
-<sciphox:Parameter DN="..."/> XML-Code 6:  Parameter Ergebnistext Das Element <Ergebnistext> enthält nur das hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im zum Element <Ergebnistext> <sciphox:Ergebnistext V="..."/> ...  Ergebnistext <sciphox:Ergebniswert V=". . ." U="..."/>
-
-\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
-\|---|
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
 
 ---
@@ -605,7 +608,18 @@ Der Coderahmen sieht wie folgt aus:
 \| <content>   iptor="sciphox">     <sciphox:Beobachtungen>               </content> |
 \|---|
 
-**XML-Code 9:**
+**XML-Code 9:** content (Administrative Daten)
+
+### Einschreibung wegen
+
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 4. Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+
+Als Beispiel sei hier folgender Code angegeben:
+
+\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
+\|---|
+
+**XML-Code 10:** Einschreibung wegen
 
 \| Wert bei Ergebnistext (V="...") |
 \|---|
@@ -620,38 +634,16 @@ Der Coderahmen sieht wie folgt aus:
 \| Osteoporose |
 \| rheumatoide Arthritis |
 \| Adipositas - Erwachsene |
-\|  |
-
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß  Elemente <sciphox:Ergebnistext>
-
-Als Beispiel sei hier folgender Code angegeben:
-
-\| <sciphox:Beobachtung>     </sciphox:Beobachtung> |
-\|---|
-
-**XML-Code 10:**
 
 Seite 18 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 14. November 2025
 
-<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> content  (Administrative Daten) Einschreibung wegen Tabelle 4 . Wenn bei diesem Parameter mehrere Felder ausgewählt wurden, können mehrere mit entsprechenden Werten angegeben werden. Einschreibung wegen 
+<local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Depression"/>
 
 
 ---
 
-\|  |
-\|---|
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
 \| Adipositas - Kinder und Jugendliche |
+\|---|
 
 **Tabelle 4:** Werte bei Ergebnistext (Einschreibung wegen)
 
@@ -997,7 +989,7 @@ Seite 27 von 35 / KBV / Schnittstellenbeschreibung Depression / Version: 1.03 / 
 
 ### Depressionsspezifische Schulung empfohlen (bei aktueller Dokumentation)
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 13. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben  werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 13. Ein Element <sciphox:Ergebnistext> mit entsprechenden Werten kann angegeben  werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1010,8 +1002,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 \| Ja |
 \| Nein |
-
-*V*-Attribut die Feldbezeichnung
 
 **Tabelle 13:** Werte bei Ergebnistext (Depressionsspezifische Schulung empfohlen (bei aktueller  Dokumentation))
 

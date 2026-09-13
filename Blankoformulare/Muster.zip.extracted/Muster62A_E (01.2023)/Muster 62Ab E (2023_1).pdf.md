@@ -66,8 +66,8 @@ Erneute Erhebung  geplant am
 
 Vertragsarztstempel / ärztliche Unterschrift
 
-PRF.NR.
-
 **Ausfertigung für den verordnenden Arzt**
+
+PRF.NR.
 
 Muster 62Ab/E (1.2023)

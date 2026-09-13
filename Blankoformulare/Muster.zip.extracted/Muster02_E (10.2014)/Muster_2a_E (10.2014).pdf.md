@@ -36,11 +36,7 @@
 
 **Verordnung von**  **Krankenhausbehandlung** ***(Nur bei medizinischer Notwendigkeit zulässig)***
 
-**Belegarzt-**
-
-**Notfall**
-
-**behandlung**
+**Belegarzt-** **behandlung Notfall**
 
 **Unfall,**
 

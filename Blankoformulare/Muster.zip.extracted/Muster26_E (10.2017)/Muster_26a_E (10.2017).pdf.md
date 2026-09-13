@@ -88,9 +88,9 @@
 
 **Straße**
 
-**Ort**
-
 **PLZ**
+
+**Ort**
 
 **Telefonnummer**
 
@@ -104,7 +104,9 @@
 
 **Telefonnummer**
 
-**ist nicht** **ausführbar**
+**ist nicht**
+
+**ausführbar**
 
 **Datum**
 

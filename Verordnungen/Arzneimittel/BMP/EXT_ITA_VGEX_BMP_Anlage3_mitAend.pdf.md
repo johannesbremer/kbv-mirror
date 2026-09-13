@@ -135,9 +135,11 @@ Elemente und Empfehlungen sind als solche gekennzeichnet. Dem Wunsch des
 
 Gesetzgebers folgend, baut dieses Dokument auf der von der Koordinierungsgruppe des
 
-Aktionsplans AMTS erstellten Spezifikation für einen patientenbezogenen Medikationsplan in  der korrigierten Version 2.0 vom 16.12.2014 auf. Da sich durch die gesetzliche Verankerung  eines bundeseinheitlich standardisierten Medikationsplans zwar einerseits
+Aktionsplans AMTS erstellten Spezifikation für einen patientenbezogenen Medikationsplan in  der korrigierten Version 2.0 vom 16.12.2014 auf. Da sich durch die gesetzliche Verankerung  eines bundeseinheitlich standardisierten
 
-Verantwortlichkeiten und Zuständigkeiten für die Erstellung von Vorgaben zum
+Verantwortlichkeiten und Zuständigkeiten für
+
+Medikationsplans zwar einerseits  die Erstellung von Vorgaben zum
 
 Medikationsplan verlagert haben, andererseits aber die Kontinuität zur bisherigen Arbeit der
 
@@ -580,6 +582,8 @@ Die Erstellung eines Medikationsplans im Krankenhaus
 
 Entlassmanagements erfolgen.
 
+kann z. B. im Rahmen des
+
 Bestandteil des Entlassmanagements kann auch eine Arzneimitteltherapie sein. Der/die
 
 Arzt/Ärztin prüft, ob die Kriterien für die Erstellung eines Medikationsplans erfüllt sind.
@@ -588,7 +592,7 @@ Die für die Erstellung des Medikationsplans notwendigen Daten sind im Krankenha
 
 Daten vom Arzt erfasst und dauerhaft gespeichert werden können:
 
-- 1. Medikamente, die vom/von der erstellenden
+- 1. Medikamente, die vom/von der erstellenden Arzt/Ärztin im Rahmen des
 - Entlassmanagements auf einem Rezept verordnet werden oder als Medikation nach
 - der Entlassung aus dem Krankenhaus empfohlen werden.
 - 2. Medikamente, die von anderen Ärzt*innen verordnet wurden. Diese müssen durch
@@ -610,21 +614,13 @@ Das betrifft insbesondere die Zusammenführung der von/von der Hausarzt/-ärztin
 
 -ärztin und Krankenhaus veranlassten Arzneimitteltherapie sowie der Selbstmedikation. Zur
 
-Zusammenfassung mehrerer Medikationspläne wird zunächst die letzte Fassung mit dem MP-Modul über den 2D-Barcode eingelesen. Anschließend können weitere Medikationspläne über  deren 2D-Barcodes eingelesen werden. Dabei wird schrittweise vorgegangen, so dass jeweils  ein zugefügter Medikationsplan mit dem bereits
-
-zusammengeführt werden kann. Das MP-Modul unterstützt die Anwendenden in geeigneter
+Zusammenfassung mehrerer Medikationspläne wird zunächst die letzte Fassung mit dem MP-Modul über den 2D-Barcode eingelesen. Anschließend können weitere Medikationspläne über  deren 2D-Barcodes eingelesen werden. Dabei wird schrittweise vorgegangen, so dass jeweils  ein zugefügter Medikationsplan mit dem bereits vorhandenen Plan verglichen und  zusammengeführt werden kann. Das MP-Modul unterstützt die Anwendenden in geeigneter
 
 Weise beim Zusammenführen der Medikationspläne, indem die wesentlichen Inhalte der
 
 Medikationspläne nebeneinander dargestellt werden und indem z. B. doppelte Einträge
 
-Anlage 3  Spezifikation BMP Version 2.8 vom 01.10.2025
-
-kann z. B. im Rahmen des
-
-- Arzt/Ärztin im Rahmen des
-
-vorhandenen Plan verglichen und 13
+Anlage 3  Spezifikation BMP Version 2.8 vom 01.10.2025 13
 
 
 ---
@@ -949,7 +945,7 @@ Software sicherstellen, dass diese Zuordnung inhaltlich korrekt erfolgt.
 
 Die Reihenfolge der einzelnen Wirkstoffe für ein Kombinationspräparat ergibt sich im
 
-Allgemeinen analog des zugehörigen ATC-Codes, der
+Allgemeinen
 
 Arzneimitteldatenbank umgesetzt wird. Sofern die Angaben der Referenzdatenbank nach
 
@@ -957,18 +953,22 @@ Arzneimitteldatenbank umgesetzt wird. Sofern die Angaben der Referenzdatenbank n
 
 Da die Reihenfolge im Ausdruck der Reihenfolge im Carriersegment entsprechen MUSS, trifft  dies sowohl für den Ausdruck als auch für das Carriersegment zu.
 
-Anlage 3  Spezifikation BMP Version 2.8 vom 01.10.2025
+Anlage 3
 
-durch den Hersteller der
+analog
 
-code und zulässige Werte 200 Zeichen nummer des Medikations- plans zeichen zeichen bereich oder „x.y“ Buchstabenkürzel Buchstabenkürzel bedruckende Fläche 4 Zeichen ISO 3166-1 ISO 639-1 1,0 cm x11,0 cm  Schlüsselworttabelle Datenquelle Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden. hinterlegt automatisch gesetzt, Anhang 1 automatisch gesetzt, Anhang 1. wie dieses Feld zu füllen ist. 531  24
+Spezifikation BMP Version 2.8 vom 01.10.2025
+
+des zugehörigen ATC-Codes, der durch den Hersteller der
+
+code nummer des Medikations- plans zeichen zeichen bereich oder „x.y“ Buchstabenkürzel Buchstabenkürzel bedruckende Fläche und zulässige Werte 200 Zeichen 4 Zeichen ISO 3166-1 ISO 639-1 1,0 cm x11,0 cm  Schlüsselworttabelle Datenquelle Text über die Software ein. gedruckt werden. Ggf. dürfen manuelle Zeilenumbrüche durch Leerzeichen ersetzt werden. hinterlegt automatisch gesetzt, Anhang 1 automatisch gesetzt, Anhang 1. wie dieses Feld zu füllen ist. 531  24
 
 
 ---
 
-Die Wirkstoffe und somit die Wirkstärkeangaben werden im Ausdruck mit Zeilenumbruch  getrennt. Enthält ein Kombinationspräparat genau drei Wirkstoffe, so werden diese in einer  doppelt hohen Zeile mit zwei Umbrüchen dargestellt (siehe auch
+Die Wirkstoffe und somit die Wirkstärkeangaben werden im Ausdruck mit Zeilenumbruch  getrennt. Enthält ein Kombinationspräparat genau drei Wirkstoffe, so werden diese in einer  doppelt hohen Zeile mit zwei Umbrüchen dargestellt (siehe auch 6.2.8). Enthält ein
 
-Kombinationspräparat mehr als drei Wirkstoffe, so wird dies durch
+Kombinationspräparat mehr als drei Wirkstoffe, so wird dies durch „Kombipräparat
 
 (Schlüsselwort 310) in der Spalte des Wirkstoffes dargestellt, die Spalte der Wirkstoffstärke  bleibt in diesem Fall leer.
 
@@ -978,25 +978,17 @@ Stelle des Umbruchs auch eine einzeilige Darstellung mit „/“ benutzt werden.
 
 ### 5.1.6 Feldinhalt länger als Feldlänge
 
-Untersuchungen haben gezeigt, dass in mehr als 90 % der
+Untersuchungen haben gezeigt, dass in mehr als 90 % der Fälle die aus den
 
 Arzneimitteldatenbanken kommenden Handelsnamen und Wirkstoffbezeichnungen von der
 
-Länge her in das jeweils entsprechende Feld passen. Sollte es aber vorkommen, dass der  auszudruckende Feldinhalt länger als die vorgegebene Feldlänge ist oder der zur Verfügung  stehende, bedruckbare Platz nicht ausreicht, kann das MP-Modul
-
-entsprechend kürzen. Empfohlen wird, dass der Name um 3 Zeichen kürzer als die zulässige
+Länge her in das jeweils entsprechende Feld passen. Sollte es aber vorkommen, dass der  auszudruckende Feldinhalt länger als die vorgegebene Feldlänge ist oder der zur Verfügung  stehende, bedruckbare Platz nicht ausreicht, kann das MP-Modul diesen Namen  entsprechend kürzen. Empfohlen wird, dass der Name um 3 Zeichen kürzer als die zulässige
 
 Feldlänge zu kürzen ist. Die letzten drei Zeichen werden dann durch drei Punkte „…“ aufgefüllt (siehe Kap. 6.2.7
 
 Die Felder Dosierschema und Dosiereinheit DÜRFEN NICHT gekürzt werden.
 
-Anlage 3  Spezifikation BMP Version 2.8 vom 01.10.2025 6.2.8). Enthält ein
-
-„Kombipräparat
-
-Fälle die aus den
-
-diesen Namen 25
+Anlage 3  Spezifikation BMP Version 2.8 vom 01.10.2025 25
 
 
 ---
@@ -1798,9 +1790,11 @@ Aus Gründen der Optimierung enthält die im 2D-Barcode abgelegte XML-Zeichenket
 
 Leerzeichen, Tabulatoren und Umbrüche zwischen den einzelnen XML-Elementen und die
 
-Zeichenkette beginnt direkt mit dem Wurzelelement (z. B. <MP
+Zeichenkette beginnt direkt mit dem
 
-U= B544B6976AB84E3498AA96D8E6FA29C1 v= 026 v=“028“> …) und enthält keinen
+U= B544B6976AB84E3498AA96D8E6FA29C1 v= 026
+
+Wurzelelement (z. B. <MP  v=“028“> …) und enthält keinen
 
 XML-Prolog (die sonst übliche Definition der Codierung, des XML-Schemas und verwendeter
 
@@ -1950,7 +1944,7 @@ code Attribut Fertigarzneimittelpackung. (Bereich 1.. 99999999) ohne führende N
 
 Anlage 3  Spezifikation BMP Version 2.8 vom 01.10.2025
 
-code Darreichungsform gemäß der Referenzdatenbank nach § 31b SGB V in Form des IFA-Codes. definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). MP.S.M.fd (= Freitext- darreichungsform) angegeben werden. Darreichungsform in Freitext patientenverständlicher Kurzschreibweise. definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). MP.S.M.f (= IFA-Code) angegeben werden. wöchentlich sowie an Format angepasst. welchem Wochentag die Dosierung erfolgen soll besteht keine wöchentliche nur vorhanden sein, wenn mindestens eines der Attribute MP.S.M.m oder MP.S.M.d oder MP.S.M.v oder MP.S.M.h vorhanden ist. 54
+code Darreichungsform gemäß der Referenzdatenbank nach § 31b SGB V in Form des IFA-Codes. definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). MP.S.M.fd (= Freitext- darreichungsform) angegeben werden. Freitext Darreichungsform in patientenverständlicher Kurzschreibweise. definiert oder fehlend sein (wenn fehlend, ggf. bei Ausdruck aus der PZN ableiten). MP.S.M.f (= IFA-Code) angegeben werden. wöchentlich sowie an Format angepasst. welchem Wochentag die Dosierung erfolgen soll besteht keine wöchentliche nur vorhanden sein, wenn mindestens eines der Attribute MP.S.M.m oder MP.S.M.d oder MP.S.M.v oder MP.S.M.h vorhanden ist. 54
 
 
 ---
@@ -1993,7 +1987,7 @@ code grund Attribut des/der Patient*in dar. MP.S.M.m (= morgens), MP.S.M.d (= mi
 
 Anlage 3  Spezifikation BMP Version 2.8 vom 01.10.2025
 
-code Zusatzzeile sich auf den vorhergehenden (Medikations- Medikationseintrag beziehen. Der Medikationseintrag und eintrag) die gebundene Zusatzzeile sind untrennbar aneinandergeknüpft. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den Endanwender nicht erlaubt. nur angegeben werden, wenn das Attribut MP.S.M.wo nicht angegeben ist. zur Kategorisierung der Format angepasst. (Text-Code-Tabelle Medikationen auf dem Plan. aus Anhang 2, Zwischenüberschriften MP.S.t (= Freitextzwischen- überschrift) angegeben werden. frei definierte Zwischenüberschrift. MP.S.c angegeben werden. nicht einzelnen Medikationseinträgen zugewiesen sind. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den/die Endanwender*in nicht erlaubt. (Kap. 57
+code Zusatzzeile sich auf den vorhergehenden (Medikations- Medikationseintrag beziehen. eintrag) Der Medikationseintrag und die gebundene Zusatzzeile sind untrennbar aneinandergeknüpft. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den Endanwender nicht erlaubt. nur angegeben werden, wenn das Attribut MP.S.M.wo nicht angegeben ist. zur Kategorisierung der Format angepasst. Medikationen auf dem Plan. (Text-Code-Tabelle aus Anhang 2, Zwischenüberschriften MP.S.t (= Freitextzwischen- überschrift) angegeben werden. frei definierte Zwischenüberschrift. MP.S.c angegeben werden. nicht einzelnen Medikationseinträgen zugewiesen sind. enthalten „~“. Das Verwenden des Tildezeichens „~“ ist bei der Eingabe des Freitextes durch den/die Endanwender*in nicht erlaubt. (Kap. 57
 
 
 ---
@@ -2237,11 +2231,7 @@ deutsch, Sprachcode DE
 
 zurzeit nicht vergeben
 
-der in der neuesten Version geforderten
-
-Dies
-
-Codes und 62
+Dies  der in der neuesten Version geforderten Codes und 62
 
 
 ---

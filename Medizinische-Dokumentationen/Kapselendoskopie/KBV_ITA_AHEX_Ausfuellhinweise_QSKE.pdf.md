@@ -85,14 +85,6 @@ Seite 4 von 7
 | 5.a | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zu Einschränkungen der Beurteilbarkeit des Bildmaterials vom  Der Applizierer hat für alle Kapselendoskopien Angaben in Bezug auf die Beurteilbarkeit aus seinen eigenen Auswertungen, oder falls diese |
 | 5.b.I | |
 | 5.b.II | |
-|  | **gem. Plausi-** |
-|  | |
-|  | |
-|  | |
-|  | |
-| Eine Untersuchung im Rahmen einer Verlaufskontrolle ist | |
-| In der Jahresstatistik sind die Untersuchungen zu erfassen, bei denen Sie die Kapsel appliziert haben. Falls Sie Kapseln appliziert haben, aber | |
-| Die Summe der Erst- und Wiederholungsuntersuchungen entspricht der Summe der insgesamt in dieser Betriebsstätte applizierten und | 1.b |
 
 **IT in der Arztpraxis**  Ausfüllhinweise Kapselendoskopie
 
@@ -103,21 +95,8 @@ Katalog Plausi_QSKE] vor, wenn die Untersuchung aufgrund mangelnder Beurteilbark
 
 ---
 
-| 6.a  Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Vollständigkeit der Untersuchung vom jeweiligen Auswerter  Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Vollständigkeit aus seinen eigenen Auswertungen, oder falls diese |  |
-|---|---|
-|  | 6.b.III  6.b.IV  7 |
-| Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Notwendigkeit einer Wiederholungsuntersuchung vom jeweiligen  Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Notwendigkeit einer Wiederholungsuntersuchung aus seinen  Die Notwendigkeit von Wiederholungsuntersuchungen kann sich ausschließlich aufgrund eingeschränkter Beurteilbarkeit (5.b) bzw. | |
-|  |  |
-|  | |
-|  | |
-|  |  |
-|  | |
-|  |  |
-|  | |
-|  |  |
-|  | |
-|  | |
 | 6.a | Zu den im Berichtsjahr durchgeführten Kapselendoskopien sind Angaben zur Vollständigkeit der Untersuchung vom jeweiligen Auswerter  Der Applizierer soll für alle Kapselendoskopien Angaben in Bezug auf die Vollständigkeit aus seinen eigenen Auswertungen, oder falls diese |
+|---|---|
 | 6.b.I.01 | |
 | 6.b.I.02 | |
 | 6.b.I.03 | |

@@ -18,6 +18,8 @@ Plausibilitätsprüfungen Brustkrebs pnp ED Version 8.0, letzte Bearbeitung 19.0
 
 ## Brustkrebs
 
+##### p)
+
 Anlage 4 DMP-A-RL 01.10.2023
 
 #
@@ -27,8 +29,6 @@ Anlage 4 DMP-A-RL 01.10.2023
 8.0
 
 01.10.24
-
-##### p)
 
 
 ---
@@ -65,7 +65,7 @@ Erstdokumentation Nr. parameter Krankenkasse  alphanumerisch)   Gemeint ist die 
 | **Aktueller Befundstatus des Primärtumors / kontralateralen Brustkrebses ** | | | |
 | 15 | TNM-Klassifizierung | (p) Pathologisch | Pflichtfeld;   Nur eine Angabe ist zulässig |
 
-histologischen Nachweises histologischen Nachweises diagnostischen Sicherung von Fernmetastasen  Sentinel-Lymphknoten- Biopsie / Axilläre Lymphonodektomie / Anderes Vorgehen / OP geplant / OP nicht geplant (postoperativ) / (c) Klinisch / (yp) Keine Angabe zulässig Keine Angabe zulässig Keine Angabe zulässig Die Angabe „OP geplant“ ist nicht zulässig Wenn „OP nicht geplant“ angegeben wird, dann muss in Feld 15 „ werden  Wenn „OP nicht geplant“ ange geben wird, darf keine weitere Ausprägung angegeben werden Die Angaben „BET“ oder „Mastektomie“ oder „Sentinel Lymphonodektomie“ oder „Anderes Vorgehen“ können sowohl gemeinsam als auch alleine angegeben werden. Wenn „BET“ und/oder „Mastektomie“ und/oder „Sentinel „Axilläre Lymphonodektomie“ und/oder „Anderes Vorgehen“ angegeben ist, dann muss in Feld 15 „(p) Pathologisch (postoperativ)“ oder „(yp) Pathologisch (postoperativ) nach neoadjuvanter Therapie“ angegeben sein (c) Klinisch“ angegeben -Lymphknoten- Biopsie“ oder „Axilläre -Lymphknoten- Biopsie“ und/oder Plausibilitätsprüfungen Brustkrebs pnp ED Version 8.0, letzte Bearbeitung 19.04.2024
+histologischen Nachweises histologischen Nachweises diagnostischen Sicherung von Fernmetastasen  Sentinel-Lymphknoten- Biopsie / Axilläre Lymphonodektomie / Anderes Vorgehen / OP geplant / OP nicht geplant (postoperativ) / (c) Klinisch / (yp) Keine Angabe zulässig Keine Angabe zulässig Keine Angabe zulässig Die Angabe „OP geplant“ ist nicht zulässig Wenn „OP nicht geplant“ angegeben wird, dann muss in Feld 15 „ (c) Klinisch“ angegeben werden  Wenn „OP nicht geplant“ ange geben wird, darf keine weitere Ausprägung angegeben werden Die Angaben „BET“ oder „Mastektomie“ oder „Sentinel -Lymphknoten- Biopsie“ oder „Axilläre Lymphonodektomie“ oder „Anderes Vorgehen“ können sowohl gemeinsam als auch alleine angegeben werden. Wenn „BET“ und/oder „Mastektomie“ und/oder „Sentinel -Lymphknoten- Biopsie“ und/oder „Axilläre Lymphonodektomie“ und/oder „Anderes Vorgehen“ angegeben ist, dann muss in Feld 15 „(p) Pathologisch (postoperativ)“ oder „(yp) Pathologisch (postoperativ) nach neoadjuvanter Therapie“ angegeben seinPlausibilitätsprüfungen Brustkrebs pnp ED Version 8.0, letzte Bearbeitung 19.04.2024
 
 
 ---

@@ -44,9 +44,7 @@ für den Parameter „Geschlecht der/des Versicherten“ Seite 2 6 von
 
 **5**
 
-**IT in der Arztpraxis**
-
-Plausibilitätenkatalog Prävention (eHKS)
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
 KBV_ITA_VGEX_Plausi_Praevention_eHKS] 4 *Version 1.0
 
@@ -55,9 +53,7 @@ Seite 3 6 von
 
 ---
 
-**IT in der Arztpraxis**
-
-Plausibilitätenkatalog Prävention (eHKS)
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
 # 1 Einleitung
 
@@ -91,6 +87,8 @@ Seite 4 6 von
 
 **IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
+**3 Plausibilitätsprüfungen**
+
 | Feld- | Dokumentationsparameter | Ausprägung/Datenformat | Plausibilitätenregel |
 |---|---|---|---|
 | **1.1** | **Administrative Daten** | | |
@@ -105,34 +103,20 @@ Seite 4 6 von
 |  | Untersuchungsdatum | TT.MM.JJJJ | Pflichtfeld   Das Untersuchungsdatum (1.3) muss kleiner gleich |
 | **1.4** | **Art der Präventionsmaßnahme, für die dieser allgemeine Datensatz konzipiert wurde** | | |
 | 1.4.1 | Hautkrebs-Screening |  | Ergibt die Differenz aus der Datumsangabe in Feld |
-| **3 Plausibilitätsprüfungen** | | | |
 
 KBV_ITA_VGEX_Plausi_Praevention_eHKS] 3 *Version 1.0
 
-Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Versi- cherten angegeben werden Allgemeiner Datensatz tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-Seite 5 6 von
+# Allgemeiner Datensatz
+
+Nr. (LANR) (BSNR) cherten  der/des Versicherten kann auch das Alter der/des Versi- cherten angegeben werden tersuchungsdatum (1.2.4) sein. gerstammdatei entnommen werden.  dem Systemdatum sein. 1.2.1 minus der Datumsangabe in Feld 1.3 ein Le- bensalter von < 35 Jahren, ist die Angabe der Prä-Seite 5 6 von
 
 
 ---
 
-|  |  |  |  |
-|---|---|---|---|
-|  |  | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  | | |
-|  |  |  |  |
-|  |  | | |
-|  |  |  |  |
-| ventionsmaßnahme "Hautkrebs-Screening" nicht | | | |
+\| ventionsmaßnahme "Hautkrebs-Screening" nicht |
+\|---|
 
-**IT in der Arztpraxis**
-
-Plausibilitätenkatalog Prävention (eHKS)
+**IT in der Arztpraxis**  Plausibilitätenkatalog Prävention (eHKS)
 
 KBV_ITA_VGEX_Plausi_Praevention_eHKS] 3 *Version 1.0
 

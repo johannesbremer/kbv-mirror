@@ -61,29 +61,12 @@ Seite 3 von 19
 
 inhaltsverzeichnis
 
-### DOKUMENTENHISTORIE
-
-**2**
-
-### INHALTSVERZEICHNIS
-
-**4**
-
-### ABBILDUNGSVERZEICHNIS
-
-**5**
-
-### TABELLENVERZEICHNIS
-
-**6**
-
+### DOKUMENTENHISTORIE INHALTSVERZEICHNIS ABBILDUNGSVERZEICHNIS TABELLENVERZEICHNIS
 **1 EINLEITUNG**
-
-**7**
 
 **2 VERZEICHNISSTRUKTUR**
 
-**7** **2.1 Ordner 'Bin' ....................................................................................................................................................7**
+**2.1 Ordner 'Bin' ....................................................................................................................................................7**
 
 **2.2 Ordner 'Daten' ................................................................................................................................................7**
 
@@ -99,19 +82,23 @@ inhaltsverzeichnis
 
 **3 ARBEITEN MIT XPM**
 
-**8** **3.1 Technische Hinweise ....................................................................................................................................8**
+**3.1 Technische Hinweise ....................................................................................................................................8**
 
 **3.2 Allgemeine Hinweise .....................................................................................................................................9**
 
 **3.3 Konfiguration .................................................................................................................................................9** 3.3.1 Abschnitt: Allgemeiner Teil .....................................................................................................9 3.3.2 Abschnitt: Eingabedateien ................................................................................................... 10 3.3.3 Abschnitt: Ausgabedateien .................................................................................................. 10 3.3.4 Abschnitt: Schalter ............................................................................................................... 16 3.3.5 Umgebungsvariablen ........................................................................................................... 17
 
-**3.4 Return-Code, Errorlevel des XPM .............................................................................................................. 18**
+**3.4 Return-Code, Errorlevel des XPM ..............................................................................................................**
 
-**3.5 Meldungen .................................................................................................................................................... 18** 3.5.1 Abbruch-Meldungen ............................................................................................................ 19
+**3.5 Meldungen ....................................................................................................................................................**
+
+3.5.1 Abbruch-Meldungen ............................................................................................................ 19
 
 Abbildungsverzeichnis
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
+
+**2** **4** **5** **6** **7** **7** **8** **18** **18**
 
 Seite 4 von 19
 
@@ -525,7 +512,7 @@ Seite 12 von 19
 
 Wird die Klammerliste ausgegeben, so entspricht die Reihenfolge der Eintragungen der
 
-### entsprechenden KV-spezifischen Sortierung.
+entsprechenden KV-spezifischen Sortierung.
 
 #### 3.3.3.7 Kommunikationssatz
 
@@ -678,9 +665,11 @@ Dies ist der Abschluß-Satz der Fehlerprotokolldatei
 
 #### 3.3.3.9 Scheinabgabeliste
 
-Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter figuration: *Listen/ScheinAbgabeListe.pdf.*
+Der Name der Datei wird in der Konfigurationsdatei mit dem Schalter  figuration: *Listen/ScheinAbgabeListe.pdf.*
 
 Die Informationen, welche Behandlungsscheine abzugeben sind, befinden sich in den SDKV-Dateien (KV-Spezifikadateien).
+
+*ScheinAbgabeListe* festgelegt. Standardkon-
 
 #### 3.3.3.10 Sortierliste
 
@@ -706,29 +695,21 @@ Damit diese Datei angelegt wird, muss in der entsprechenden KV-ein „ja“ zuge
 
 Ist der Wert auf „ja“ gesetzt, wird in der Scheinabgabeliste und in der Dokuabgabeliste die systemint tennummer (FK 3000) anstatt des Patientennamens und –vornamens verwendet. Standardwert: “nein“
 
-Der Schalter kann auch beim Programmaufruf mit der Option d gesetzt werden:
+Der Schalter kann auch beim Programmaufruf mit der Option
 
 KBV_ITA_AHEX_Handbuch_Pruefmodul_KVDT * Version 1.18
 
-*ScheinAbgabeListe*
+*SortierListe* festgelegt. Standardkonfiguration:
 
-*SortierListe*
+*UeScheinAbgabeListe* festgelegt. Standard-
 
-*UeScheinAbgabeListe*
-
-*UeScheinPlusAbgabeListe*
+*UeScheinPlusAbgabeListe* festgelegt. Stan-
 
 Spezifikadatei dem Feld 9474 aus Satzart „kvx5“
 
-festgelegt. Standardkon-
-
-festgelegt. Standardkonfiguration:
-
-festgelegt. Standard-
-
-festgelegt. Stan-
-
 erne Patien-
+
+d gesetzt werden:
 
 Feldinhalte pro9 levels 1 = Warnung 2 = Fehlerhaft 3 = Abbruch Seite 16 von 19
 
@@ -837,9 +818,7 @@ java -DINSTALLATION=%INSTALLATION% -DUMGEBUNG=%UMGEBUNG% ...
 
 ### Der Errorlevel wird in der Kommunikationsdatei unter der Feldkennung 9232 (Prüfergebnis)
 
-und in der PDT-Datei unter den Feldkennungen 9421 (errorlevel der Meldung) und 9232 ab-
-
-### gelegt.
+und in der PDT-Datei unter den Feldkennungen 9421 (errorlevel der Meldung) und 9232 ab-gelegt.
 
 Der Return-Code steht in direktem Zusammenhang mit dem Ergebnis-Status des Prüfvor-gangs. Die Zusammenhänge sind in der folgenden Tabelle wiedergegeben:
 

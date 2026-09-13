@@ -196,7 +196,7 @@ Antragssteller:
 
 | THEMA | ZERTIFIZIERUNGSART | PRÜFUNGSART | KOSTEN IN € |
 |---|---|---|---|
-| Verordnung von Arznei- | Neu-, Re- oder Er- | (Prüfvorgang AMV | 1.651,44  [pro Sichtprüfung] |
+| Verordnung von Arznei- | Neu-, Re- oder Er- | Sichtprüfung und | 1.651,44 |
 
 - **II.** **Änderungen am Zertifizierungsgegenstand und der Angaben im Antrag auf Zertifizierung**
 - (1) Bei Änderungen der Anschrift, der Verantwortlichkeit und der Bezeichnung des  Zertifizierungsgegenstandes wird die KBV unverzüglich unterrichtet.
@@ -212,7 +212,7 @@ Antragssteller:
 
 Seite 7 von 9 / KBV / Antrag auf Zertifizierung Verordnung von Arzneimitteln / Version: 5.6 / 17. Mai 2024
 
-Sichtprüfung und mitteln  weiterungszertifizierung Ergebnisprüfung eRezept) 
+mitteln  weiterungszertifizierung Ergebnisprüfung (Prüfvorgang AMV [pro Sichtprüfung]  eRezept) 
 
 
 ---

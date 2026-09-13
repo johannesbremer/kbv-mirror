@@ -29,7 +29,7 @@ Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausfüh
 
 ---
 
-**Anlage 22 Rheumatoide Arthritis  Dokumentation**
+**Anlage 22 Rheumatoide Arthritis**
 
 | Rheumatoide Arthritis - Dokumentation | | | |
 |---|---|---|---|
@@ -42,8 +42,11 @@ Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausfüh
 | **Medikamentöse und sonstige Maßnahmen** | | | |
 | 4 | Aktuelle Glukokortikoidtherapie | Ja, bis zu 6 Monate lang / Ja, länger | Pflichtfeld |
 
-Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „rheumatoide Arthritis“ erfolgt, sind die nachstehenden Felder der Anlage 22* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen Nr. 28-Wert (0,0-9,9; Nachkommastelle) Vorkommastelle. 9,9 “ sein. ,0 “ und kleiner rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation) oder mehr  Osteoporoserisikos durchgeführt   wegen rheumatoider Arthritis als 6 Monate / Nein  Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Rheumatoide Arthritis Version 1.0 letzte Bearbeitung: 15.09.2021
+Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Rheumatoide Arthritis Version 1.0 letzte Bearbeitung: 15.09.2021
 
+**Dokumentation**
+
+Nr. Ist in den indikationsübergreifenden Dokumentationsparametern gemäß Anlage 2* in Feld 10 mindestens die Angabe „rheumatoide Arthritis“ erfolgt, sind die nachstehenden Felder der Anlage 22* entsprechend den Festlegungen der Plausibilitätsregeln auszufüllen 28-Wert rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchgeführt   wegen rheumatoider Arthritis (0,0-9,9; Nachkommastelle) oder mehr  als 6 Monate / Nein  Vorkommastelle. ,0 “ und kleiner 9,9 “ sein.
 
 ---
 

@@ -172,17 +172,15 @@ Seite 6 14 von
 
 ---
 
-**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
-
 # 1 Einleitung
 
 Diese Schnittstellenbeschreibung beschreibt die Datenstruktur der Stammdatei Kodierhilfe.
 
 Die Schnittstelle für den Datenaustausch liegt im XML-Format vor. Sie ist zur ehd-Richtlinie  1.40 konform.
 
-Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen-ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver-tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail:  4005- 2121).
+Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassen-ärztlichen Vereinigungen vom Dezernat 6 der KBV ausschließlich zur Nutzung in der ver-tragsärztlichen Versorgung zur Verfügung gestellt. Für alle sonstigen Nutzungszwecke wende  man sich über den Servicedesk der KBV (EMail: [KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de) 4005- 2121).
 
-[KBVServiceDesk@KBV.de](mailto:KBVServiceDesk@KBV.de), Telefon: 030 /
+, Telefon: 030 /
 
 # 2 Dateinamen
 
@@ -190,9 +188,7 @@ Der Dateiname basiert auf dem Dateinamenskonzept der EHD-Spezifikation 1.40
 
 **sdkh** ... Datentyp der ehd-Schnittstelle
 
-**vv.vv** ......... Version der Schnittstelle; Entspricht dem Element  Elements ***<interface>***
-
-***<version>*** des Header-
+**vv.vv** ......... Version der Schnittstelle; Entspricht dem Element ***<version>*** des Header-Elements ***<interface>***
 
 **sender** ...... Absender der Lieferung, entspricht der KV 74.
 
@@ -216,9 +212,11 @@ Es existieren verschiedene Kardinalitäten:
 
 **Tabelle 1 Beschreibung der Kardinalitäten**
 
+**IT in der Arztpraxis**  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
+
 **KBV_ITA_VGEX_Schnittstelle_SDKH** * Version 1.01
 
-gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1.. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann.  drückt z.B. Seite 7 14 von
+gestrichelter Linie dargestellt. Es kann kein oder ein- mal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss aber auch beliebig oft auftreten kann. Seite 7 14 von
 
 
 ---
@@ -268,9 +266,7 @@ Für die XML- Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen 
 
 achten.
 
-Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kindelementen  stellt ist.
-
-*header* und *body* zusammensetzt, wie es in
+Grundsätzlich besteht ein Dokument immer aus dem Wurzelelement  den beiden Kindelementen *header* und *body* zusammensetzt, wie es in  stellt ist.
 
 **Abbildung 1 Grundstruktur ehd**
 
@@ -396,22 +392,54 @@ Eine Diagnose enthält einen ICD-e-rien.
 |---|---|
 | namespace | urn:ehd/evl/001 |
 
+### 4.3.2 icd_code
+
+Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD-10 Kode sind Hinweise und Kriterien zugeordnet.
+
+Im V-Attribut steht formatiert der ICD--Z](10 Kode Das Format: ([A \d{1,2})?(\.)?(\d)?(\d|[\*\+\-])?)|UUU - (z.B. A00.0, A00. usw.)
+
+Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei.
+
+Z.B. ICD-10 Jahr 2010 OID=1.2.276.0.76.5.384
+
+ICD-10 Jahr 2011 OID=1.2.276.0.76.5.388
+
+### 4.3.3 hinweis_liste/hinweis
+
+Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut  steht. Eine Diagnose kann mehrere Hinweise haben.
+
+### 4.3.4 kriterien_liste/kriterium
+
+Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert  weitere nähere Angaben zu jedem Kriterium. Eine Diagnose kann mehrere Kriterien haben.
+
+#### 4.3.4.1 id
+
+Das Element <id> enthält die Kriteriennummer. Im EX-n-Attribut steht die eigentliche Kriterie nummer aus der Datenbank. Im RT-Attribut steht die OID „1.2.276.0.76.3.1.1.5.4.4“.
+
+#### 4.3.4.2 notwendig
+
+Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom  Datentyp boolean.
+
+#### 4.3.4.3 text
+
+Im Element <text>, im V- Attribut steht der Kriterientext.
+
+XML-Beispiel
+
 \|  |
 \|---|
-\| diagram    namespace  urn:ehd/evl/001   **4.3.2** Das Element <icd_code> enthält einen ICD-10 Kode aus der ICD-Stammdatei. Diesem ICD- Im V-Attribut steht formatiert der ICD--Z]( Im S-Attribut steht die offizielle OID der verwendeten Ausgabe der ICD-10-Stammdatei.  Z.B.    **4.3.3** Das Element <hinweis> enthält das Kindelement <text>, in dem der Hinweistext im V-Attribut **4.3.4** Das Element <kriterium> enthält die Kindelemente <id>, <notwendig> und <text> und definiert **4.3.4.1 id ** Das Element <id> enthält die Kriteriennummer. Im EX-n-**4.3.4.2 notwendig ** Im Element <notwendig> steht, ob das Kriterium notwendig ist. Der Wert im V-Attribut ist vom **4.3.4.3 text ** Im Element <text>, im V- |
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung SDKH (Kodierhilfe-Stammdatei)
 
 **KBV_ITA_VGEX_Schnittstelle_SDKH** * Version 1.01
 
-10 Kode sind Hinweise und Kriterien zugeordnet.  10 Kode Das Format: ([A \d{1,2})?(\.)?(\d)?(\d|[\*\+\- ])?)|UUU  - (z.B. A00.0, A00. usw.) ICD-10 Jahr 2010 OID=1.2.276.0.76.5.384 ICD-10 Jahr 2011 OID=1.2.276.0.76.5.388 hinweis_liste/hinweis steht. Eine Diagnose kann mehrere Hinweise haben.  kriterien_liste/kriterium weitere nähere Angaben zu jedem Kriterium. Eine Diagnose kann mehrere Kriterien haben. Attribut steht die eigentliche Kriterie nummer aus der Datenbank. Im RT-Attribut steht die OID „1.2.276.0.76.3.1.1.5.4.4“.  Datentyp boolean.  Attribut steht der Kriterientext. XML-Beispiel <ehd:body> diagnosen_liste <diagnose> icd_code V="I21.0"/> <hinweis_liste> <text V="Akute Notfallsituation"/> Seite 12 14von
+<ehd:body> diagnosen_liste <diagnose> icd_code V="I21.0"/> <hinweis_liste> hinweis <text V="Akute Notfallsituation"/> Seite 12 14von
 
 
 ---
 
 \|  |
 \|---|
-\|  |
 
 #### XML-Code 3 ehd-body
 

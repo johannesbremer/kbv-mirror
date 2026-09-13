@@ -30,4 +30,4 @@
 
 - 1. [http://www.memphis.edu/ausp/harl/aphab.htm](http://www.memphis.edu/ausp/harl/aphab.htm)
 
-Hörfähigkeit der Berechnung invertiert werden, weil die Fragen invers formuliert sind.  einer Hörgeräteverordnung nach  einer Hörgeräte-Versorgung Hörgerät gesetzt. - 2. www.quihz.de
+Hörfähigkeit der Berechnung invertiert werden, weil die Fragen invers formuliert sind. Hörgerät gesetzt.  einer Hörgeräteverordnung nach  einer Hörgeräte-Versorgung- 2. www.quihz.de

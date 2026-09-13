@@ -2,11 +2,11 @@
 
 ## S_GOS_KV_MS_VBEREICH
 
-OID:
+OID: 1.2.276.0.76.3.1.1.5.2.31
 
-Version:
+Version: 1.03
 
-gültig ab:
+gültig ab: 01.10.2025
 
 **Code**
 
@@ -48,11 +48,7 @@ gültig ab:
 |---|---|
 | 9303 | Haus-/ Facharzt |
 
-Seite 1 von 1 / KBV / SCHLÜSSELTABELLE - S_GOS_KV_MS_VBEREICH 1.2.276.0.76.3.1.1.5.2.31
-
-1.03
-
-01.10.2025
+Seite 1 von 1 / KBV / SCHLÜSSELTABELLE - S_GOS_KV_MS_VBEREICH
 
 **Bezeichnung**
 

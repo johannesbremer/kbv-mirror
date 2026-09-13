@@ -45,16 +45,16 @@ Seite 1
 | 7b | Betriebsstätten- | 9-stellige Nummer | Bedingtes Pflichtfeld, 9-stellige numerische Angabe  Wenn in Feld 8 eine Angabe erfolgt ist, ist hier keine Angabe notwendig. |
 | 8 | Krankenhaus- | IK-Nummer | Bedingtes Pflichtfeld; 9-stellige numerische Angabe  Wenn eine Angabe in Feld 7a und in Feld 7b erfolgt ist, ist hier keine Angabe erforderlich |
 
-### Plausibilitätsprüfungen Brustkrebs FD Version 8.0, letzte Bearbeitung 19.04.2024
-
-Folgedokumentation Nr. parameter Krankenkasse  alphanumerisch)   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem Kopfdatum ( „origination_dttm“ Institutionskennzeichen  [Geschlecht] W / M Optionales Feld; Nur die alleinige Angabe „w“ ist zulässig Das Datum muss gleich oder kleiner zum Erfassungsdatum bei der entgegennehmenden Stelle (z.B. Datenstelle) sein. 10 Einschreibung erfolgte wegen Primärtumors / Kontralateralen Brustkrebses / Lokoregionären Rezidivs / Fernmetastasen Es ist nur eine Angabe zulässig Seite 2
-
 |  | [Geschlecht] | W / M | Optionales Feld; Nur die alleinige Angabe „w“ ist zulässig |
 |---|---|---|---|
 
 | 9 | Datum | TT.MM.JJJJ | Pflichtfeld;  Das Datum muss gleich oder kleiner zum Erfassungsdatum bei der entgegennehmenden Stelle (z.B. |
 |---|---|---|---|
 | 10 | Einschreibung erfolgte ** | Primärtumors / | Pflichtfeld  Es ist nur eine Angabe zulässig |
+
+### Plausibilitätsprüfungen Brustkrebs FD Version 8.0, letzte Bearbeitung 19.04.2024
+
+Folgedokumentation Nr. parameter Krankenkasse  alphanumerisch)   Gemeint ist die Lebenslange Arztnummer Dies entspricht dem Kopfdatum ( „origination_dttm“ Institutionskennzeichen  2 Datenstelle) sein. wegen Kontralateralen Brustkrebses / Lokoregionären Rezidivs / Fernmetastasen Seite 2
 
 
 ---
@@ -85,7 +85,7 @@ endokrine Therapie  Tamoxifen / Andere / Keine / Endokrine Therapie geplant Eine
 
 ### Plausibilitätsprüfungen Brustkrebs FD Version 8.0, letzte Bearbeitung 19.04.2024
 
-adjuvanten endokrinen Therapie seit der letzten 5. Jahr abgebrochen / Regulär nach 5 Jahren abgeschlossen / Aktuell andauernd, seit weniger als 5 Jahren / Aktuell andauernd, Fortführung über 5 Jahre hinaus / Keine endokrine Therapie durchgeführt Brustkrebses“ erfolgt ist Kontralateralen , wenn in Feld 10 die Angabe „Lokoregionären Rezidivs“ oder „Fernmetastase“ erfolgt ist. adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund Unbekannt Eine Angabe ist nur dann erforderlich und zulässig, wenn in Feld 11 mindestens die Angabe „Aromataseinhibitoren“ erfolgt ist Rezidiv histologischen Sicherung) Das Datum  (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 26 (Datum der Erstellung) Brustkrebs histologischen Sicherung) Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 26 (Datum der Erstellung). Fernmetastasen diagnostischen Sicherung) viszeral / ZNS / Andere / Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 26 (Datum der Erstellung). Wenn eine Angabe zu „viszeral“ und/oder „ZNS“ und/oder „Andere“ ange „TT.MM.JJJJ“ erfolgt ist , muss auch mindestens „Knochen“ und/oder geben werden Seite 4
+adjuvanten endokrinen Therapie seit der letzten 5. Jahr abgebrochen / Regulär nach 5 Jahren abgeschlossen / Aktuell andauernd, seit weniger als 5 Jahren / Aktuell andauernd, Fortführung über 5 Jahre hinaus / Keine endokrine Therapie durchgeführt Brustkrebses“ erfolgt ist Kontralateralen , wenn in Feld 10 die Angabe „Lokoregionären Rezidivs“ oder „Fernmetastase“ erfolgt ist. adjuvanter Therapie mit Aromataseinhibitoren, sofern die Absicht für eine spezifische medikamentöse Therapie einer Osteoporose besteht: DXA-Befund Unbekannt Eine Angabe ist nur dann erforderlich und zulässig, wenn in Feld 11 mindestens die Angabe „Aromataseinhibitoren“ erfolgt ist Rezidiv histologischen Sicherung) Das Datum  (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 26 (Datum der Erstellung) Brustkrebs histologischen Sicherung) Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 26 (Datum der Erstellung). Fernmetastasen diagnostischen Sicherung) viszeral / ZNS / Andere / Das Datum (TT.MM.JJJJ) muss kleiner oder gleich sein dem Datum in Feld 26 (Datum der Erstellung). Wenn eine Angabe zu „TT.MM.JJJJ“ erfolgt ist „viszeral“ und/oder „ZNS“ und/oder „Andere“ ange , muss auch mindestens „Knochen“ und/oder geben werden Seite 4
 
 
 ---
@@ -104,7 +104,7 @@ adjuvanten endokrinen Therapie seit der letzten 5. Jahr abgebrochen / Regulär n
 
 ### Plausibilitätsprüfungen Brustkrebs FD Version 8.0, letzte Bearbeitung 19.04.2024
 
-Die Angaben zu „TT.MM.JJJJ“ und „Knochen“ und/oder „ „A ndere  können gleichzeitig angegeben werden viszeral “ und/oder „ZNS“ und/oder Wenn „Nein“ ange geben wird, darf keine weitere Ausprägung angegeben werden der viszeralen Metastasen Eine Angabe ist nur dann erforderlich und zulässig, wenn in Feld17 mindestens die Angabe „viszeral“ erfolgt ist Eine Angabe ist nicht zulässig, wenn in Feld 17 nicht mindestens die Angabe „viszeral“ erfolgt ist Wenn in Feld 17 „Nein“ angegeben ist, ist keine Angabe zulässig Lymphödem Kompressionsarmstrumpft herapie erforderlich / Ja, keine Kompressionsarmstrumpft herapie erforderlich / Nein regelmäßigem körperlichen Training abgegeben kardiotoxischer Tumortherapie  (Doxorubicin, Epirubicin) / Anti-HER2-Substanzen linksthorakale Bestrahlung / Unbekannt / Nein „Anthrazykline  (Doxorubicin, Epirubicin) „linksthorakale Bestrahlung“ können jeweils auch gemeinsam oder alleine angegeben werden und/oder Anti-HER2-Substanzen “ und/oder Wenn „ Unbekannt“ ange geben wird, darf keine weitere Ausprägung angegeben werden wenn „Nein“ ange geben wird, darf keine weitere Ausprägung angegeben werden Komma; Wertebereich 0,00  2,50 Knochenmetastasen Bisphosphonate: Ja / Nein / Kontraindikation Denosumab:     Ja / Nein / Kontraindikation Mindestens jeweils eine Angabe zu a) UND b) ist erforderlich, wenn in Feld 17 mindestens die Angabe „Knochen“ ange geben ist  Seite 5
+Die Angaben zu „TT.MM.JJJJ“ und „Knochen“ und/oder „ viszeral “ und/oder „ZNS“ und/oder „A ndere  können gleichzeitig angegeben werden Wenn „Nein“ ange geben wird, darf keine weitere Ausprägung angegeben werden der viszeralen Metastasen Eine Angabe ist nur dann erforderlich und zulässig, wenn in Feld17 mindestens die Angabe „viszeral“ erfolgt ist Eine Angabe ist nicht zulässig, wenn in Feld 17 nicht mindestens die Angabe „viszeral“ erfolgt ist Wenn in Feld 17 „Nein“ angegeben ist, ist keine Angabe zulässig Lymphödem Kompressionsarmstrumpft herapie erforderlich / Ja, keine Kompressionsarmstrumpft herapie erforderlich / Nein regelmäßigem körperlichen Training abgegeben kardiotoxischer Tumortherapie  (Doxorubicin, Epirubicin) / Anti-HER2-Substanzen linksthorakale Bestrahlung / Unbekannt / Nein „Anthrazykline  (Doxorubicin, Epirubicin) und/oder Anti-HER2-Substanzen “ und/oder „linksthorakale Bestrahlung“ können jeweils auch gemeinsam oder alleine angegeben werden Wenn „ Unbekannt“ ange geben wird, darf keine weitere Ausprägung angegeben werden wenn „Nein“ ange geben wird, darf keine weitere Ausprägung angegeben werden Komma; Wertebereich 0,00  2,50 Knochenmetastasen Bisphosphonate: Ja / Nein / Kontraindikation Denosumab:     Ja / Nein / Kontraindikation Mindestens jeweils eine Angabe zu a) UND b) ist erforderlich, wenn in Feld 17 mindestens die Angabe „Knochen“ ange geben ist  Seite 5
 
 
 ---

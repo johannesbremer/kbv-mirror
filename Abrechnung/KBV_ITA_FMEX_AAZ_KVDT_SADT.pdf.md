@@ -100,7 +100,9 @@ Antragsstellers Stellen der Prüfnummer, falls vorhanden]
 | ☐ | Auf Grundlage der aktuell gültigen Datensatzbeschreibung KVDT ist das SADT-Datenpaket realisiert |
 | ☐ | Alle für SADT relevanten Pflichtfunktionen des Anforderungskataloges KVDT sind realisiert. |
 
-Antragssteller:
+- allen Feldern
+- allen Ausprägungen (erlaubte Inhalte) zu den Feldern
+- allen Regeln
 
 **2.2** **SATZARTEN**
 
@@ -127,7 +129,9 @@ Folgende optionale SADT Funktionen sind gem. Anforderungskatalog KVDT realisiert
 
 Seite 4 von 8 / KBV / Antrag auf Zertifizierung Abrechnung von Schwangerschaftsabbrüchen / Version: 4.3 / 15. Mai 2024
 
-mit allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln
+Antragssteller:
+
+mit
 
 ---
 

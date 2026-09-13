@@ -2,11 +2,11 @@
 
 ## S_EBM_LEISTUNGSGRUPPE
 
-OID:
+OID: 1.2.276.0.76.5.227
 
-Version:
+Version: 1.01
 
-gültig ab:
+gültig ab: 01.10.2025
 
 **Code**
 
@@ -29,12 +29,6 @@ gültig ab:
 19
 
 2
-
-1.2.276.0.76.5.227
-
-1.01
-
-01.10.2025
 
 20
 

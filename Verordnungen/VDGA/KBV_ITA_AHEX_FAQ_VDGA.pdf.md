@@ -21,9 +21,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 ## INHALT
 
-**5**
-
 **1** **FRAGEN UND ANTWORTEN ZUM ANFORDERUNGSKATALOG NACH § 73 ABS. 9 SGB V FÜR**  **VERORDNUNG VON DIGA**
+
+**5**
 
 **2** **REFERENZIERTE DOKUMENTE**
 
@@ -145,11 +145,11 @@ verwendet: value[x].valueString value[x].valueCoding.code value[x].valueCoding.d
 | BEZUG [1] | FRAGE | ANTWORT |
 |---|---|---|
 |  |  | Informationen zum positiven  Fragen:  HealthAppQuestionnaire.item.item.item.text  Selektion der Fragen zu den „ HealthAppQuestionnaire.item.linkId == "19"   HealthAppQuestionnaire.item.item.linkId == "59"   Antworten:  Siehe Informationen zu Datenschutz und Datensicherheit  Gültigkeitsdauer  ChargeItemDefinition.effectivePeriod  Hinweis: Gemäß der in den FHIR-Profilen definierten Kardinalitäten können die entsprechenden |
-| P2-020 | Wie erhält man Zugriff auf das | Die Informationen hierzu stellt das BfArM unter diesem Link bereit:  api.bfarm.de/de/nutzerkonto-anlegen |
+| P2-020 | Wie erhält man Zugriff auf das | Die Informationen hierzu stellt das BfArM unter diesem Link bereit: https://antrag- |
 | P4-130 | Können die historisierten | Die historisierten Einträge des DiGA-Verzeichnisses können generell nicht zur Dokumentation der |
 | KP4-312 | Kann die Anzeige der | In Abstimmung mit dem GKV- Differenzen zwischen den Daten auf der Webseite und des DiGA-Verzeichnisses werden in der Prüfung |
 
-DiGA-Verzeichnis des BfArM? Verordnung benutzt werden? „Informationen zu Datenschutz und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt" über eine Darstellung der entsprechenden Informationswebseite des BfArM- erfolgen? Versorgungseffekt Informationsmerkmale nicht oder mehrfach vorhanden sein. Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich rückwirkend ändern können. SV wurde festgestellt, dass die Anzeige der „Informationen zu Datenschutz und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt" gemäß Anforderung KP4 312 auch durch eine Darstellung der entsprechenden BfArM-Webseite erfolgen kann, solange diese Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden.  toleriert, selbst wenn sie die laut Prüfpaket in der Anzeige nachzuweisenden Informationen betreffen sollten.  Angaben zum positiven Versorgungseffekt https://antrag-Seite 13 von 15 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von DiGA / Version: 1.11 / 4. August 2025
+Versorgungseffekt Angaben zum positiven Versorgungseffekt Informationsmerkmale nicht oder mehrfach vorhanden sein. DiGA-Verzeichnis des BfArM? api.bfarm.de/de/nutzerkonto-anlegen Verordnung benutzt werden. Das BfArM hat darüber informiert, dass die Daten im Verzeichnis sich rückwirkend ändern können. Verordnung benutzt werden? SV wurde festgestellt, dass die Anzeige der „Informationen zu „Informationen zu Datenschutz Datenschutz und Datensicherheit" und der "Informationen zum positiven Versorgungseffekt" gemäß und Datensicherheit" und der Anforderung KP4 312 auch durch eine Darstellung der entsprechenden BfArM-Webseite erfolgen "Informationen zum positiven kann, solange diese Informationen auf der Webseite zusammen auf eine Ebene dargestellt werden.  Versorgungseffekt" über eine Darstellung der entsprechenden toleriert, selbst wenn sie die laut Prüfpaket in der Anzeige nachzuweisenden Informationen betreffen Informationswebseite des BfArM- sollten.  erfolgen? Seite 13 von 15 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von DiGA / Version: 1.11 / 4. August 2025
 
 
 ---
@@ -160,7 +160,7 @@ DiGA-Verzeichnis des BfArM? Verordnung benutzt werden? „Informationen zu Daten
 | P4-342 | Auf Muster 16 müssen in drei | Die Trennstriche sollen aus Sicherheitsgründen verhindern, dass nach dem Ausdruck weitere |
 | P4-310, P4- | In welchem Rahmen kann die | Sofern zu einer Information keine spezifischen Vorgaben zur Darstellung gemacht werden, sollten bei |
 
-311, KP4-312 die dritte Zeile gedruckt werden. Im Unterschied zur Arzneimittel- verordnung muss dem Wert der PZN das Präfix „PZN“ nicht vorangestellt werden. Darf dies dennoch erfolgen? Zeilen Trennstriche in passender Anzahl gedruckt werden. Welche Anzahl ist passend? Form der Darstellung der Information gewählt werden? PZN01234567 auf Muster 16 gedruckt werden kann.  zusätzliche Kennzeichnung mit dem Präfix „PZN“ für die Verordnung von digitalen Gesundheitsanwendung nicht zwingend erforderlich. Informationen in die freien Bereiche aufgebracht werden. Die Trennstriche sollen daher den gesamten Bereich bis zum Stempelfeld überdecken. Die Trennstriche dürfen den Stempelaufdruck nicht berühren. numerischen und alphanumerischen Informationen die Werte aus dem Produktverzeichnis angezeigt werden. Bei booleschen und enumerativen Informationen können neben den vorgegebenen Bezeichnungen auch symbolische Darstellungen gewählt werden. Seite 14 von 15 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von DiGA / Version: 1.11 / 4. August 2025
+die dritte Zeile gedruckt werden. PZN01234567 auf Muster 16 gedruckt werden kann.  Im Unterschied zur Arzneimittel- verordnung muss dem Wert der zusätzliche Kennzeichnung mit dem Präfix „PZN“ für die Verordnung von digitalen PZN das Präfix „PZN“ nicht Gesundheitsanwendung nicht zwingend erforderlich. vorangestellt werden. Darf dies dennoch erfolgen? Zeilen Trennstriche in passender Informationen in die freien Bereiche aufgebracht werden. Die Trennstriche sollen daher den gesamten Anzahl gedruckt werden. Welche Bereich bis zum Stempelfeld überdecken. Die Trennstriche dürfen den Stempelaufdruck nicht Anzahl ist passend? berühren. 311, KP4-312 Form der Darstellung der numerischen und alphanumerischen Informationen die Werte aus dem Produktverzeichnis angezeigt Information gewählt werden? werden. Bei booleschen und enumerativen Informationen können neben den vorgegebenen Bezeichnungen auch symbolische Darstellungen gewählt werden. Seite 14 von 15 / KBV / Fragen und Antworten zum Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von DiGA / Version: 1.11 / 4. August 2025
 
 
 ---

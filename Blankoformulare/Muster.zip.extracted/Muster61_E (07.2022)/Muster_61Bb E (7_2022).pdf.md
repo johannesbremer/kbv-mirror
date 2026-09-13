@@ -115,7 +115,7 @@ Krankenkasse bzw. Kostenträger
 | Mobilität | Kognition | Schmerz | Herz-/Lungenfunktion |
 |---|---|---|---|
 | Chair |  | Schmerz- |  |
-| TUG sek **+** sek | MMST / 30 |  | WattErgometrie/10 |
+| TUG sek **+** sek | MMST / 30 |  | Watt Ergometrie/10 |
 | Rise |  | skala |  |
 | Hand- |  |  |  |
 | kg **oder** kpa | GDS 15 / 15 |  | FEV1 % **+** VK % |
@@ -123,3 +123,7 @@ Krankenkasse bzw. Kostenträger
 |  | Uhren- |  | NYHA- |
 | DEMMI / 100 Tinetti / 28 | / 7 |  |  |
 |  | test |  | Stadium |
+
+Ergometrie
+
+/ 10

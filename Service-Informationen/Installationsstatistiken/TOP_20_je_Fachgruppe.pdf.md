@@ -3011,12 +3011,6 @@ Deutsche Telekom Clinical Solutions GmbH
 
 Meierhofer AG
 
-Duria eG
-
-S3 Praxiscomputer GmbH / Maximilian Flender
-
-Schwerdtner Medizin-Software GmbH 2
-
 **Installationen 3.Q.2025**
 
 8
@@ -3027,11 +3021,13 @@ Schwerdtner Medizin-Software GmbH 2
 
 6
 
-6
+Duria eG 6
 
-5
+S3 Praxiscomputer GmbH / Maximilian Flender 5
 
-5
+Schwerdtner Medizin-Software GmbH 5
+
+2
 
 **Installationen 2.Q.2025 Differenz**
 

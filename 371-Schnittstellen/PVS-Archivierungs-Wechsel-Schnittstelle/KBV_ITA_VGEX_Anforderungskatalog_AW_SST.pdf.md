@@ -20,25 +20,14 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   IN KRAFT
 
 ---
 
-## INHALT
+INHALT
 
-**1** **EINLEITUNG**
-
-**6**
-
-1.1 Ziel
-
-6
-
-1.2 Abgrenzung
-
-6
-
-1.3 Funktionsarten
-
-6
-
-1.4 Gültigkeit der Version des Anforderungskatalogs 7
+| 1 | EINLEITUNG | 6 |
+|---|---|---|
+| 1.1 | Ziel | 6 |
+| 1.2 | Abgrenzung | 6 |
+| 1.3 | Funktionsarten | 6 |
+| 1.4 | Gültigkeit der Version des Anforderungskatalogs | 7 |
 
 **2** **ANFORDERUNGEN AN DIE SYSTEM-HERSTELLER**
 
@@ -106,9 +95,6 @@ DOKUMENTENHISTORIE
 | 1.10.001 | 27.05.2019 | KBV | 1. P5-02 aufgenommen.  2. P6-17, KP6-18  P6-19 aufgenommen.  3. P7-02, O7-05  P7-06 aufgenommen.  4. P6-12  P7-04  5. 6. 7. |  | 20    43      49-     51/3 |
 | 1.10.002 | 05.09.2019 | KBV | 1. 2. 3. 4. 5. 6. |  | 26  35  46  47  50  47 |
 | 1.2.0 | 10.12.2020 | KBV | 7. 8. 9. 10. 11. 12. 13. 14. 15. |  | 6      7  11  12  49 |
-|  |  |  |  |  |  |
-| 27.05.2019 | | | | | |
-|  | 1. | P5-02 | ,   aufgenommen.  4.   5. 6. 7. 20 43       05.09.2019  1. |  | 2. 4. 5. 6.   35  46  50  47  1.2.0  10.12.2020  7. 8. |
 
 Seite 4 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
@@ -117,13 +103,8 @@ Neue Anforderung Neue Export-Anforderungen und Neue Import-Anforderungen und Anp
 
 ---
 
-|  |  |  |  |  |  |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  |  |  |  |
-|  | 16. |  | 15.11.2021  KBV  1. 3. 4. 5. 6. 7. 8. 9. |  | 12. 13. 15. 16. 17. |
-|  | 18. |  | Versch. Punkte Anpassung ä => ae    15   24 |  | 32  33 |
-| 36 |  |  |  |  |  |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | 16. | | | | | |
 | 1.2.1 | 15.11.2021 | KBV | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.   Versch. Punkte Anpassung ä => ae | P3-20 ist ein | 7  8  12  15  19  20  24  27  28  29  32  33  36  42  48  51  52  53 |
 
@@ -473,24 +454,64 @@ PFLICHTFUNKTION AW-SST
 |---|---|
 | **KP3-09** | Definition der Versionsnummer (meta.versionId) |
 
-\| Beispiel  Definition des Patienten in KBV_AW_Patient:  <StructureDefinition xmlns="http://hl7.org/fhir">  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Patient" />   <version value="1.2.0" />  ...  </StructureDefinition> |
-\|---|
-\| **KONDITIONALE **  **KP3-09 ** Definition der Versionsnummer (meta.versionId)  Ist das System mit einer Möglichkeit zur historisierten Speicherung von Informationen ausgestattet, so sind |
+Ist das System mit einer Möglichkeit zur historisierten Speicherung von Informationen ausgestattet, so sind  diese Strukturen mit einer Historie-Version auch in dieser SST abzubilden. Zum einheitlichen Verständnis  muss der Aufbau der Versionsnummer definiert werden.
+
+**Begründung:**
+
+Hiermit werden Änderungen an fachlichen gleichen Objekten mit einer Versionierung abgebildet.
+
+**Akzeptanzkriterium:**
+
+Die zeitlich gesehen älteste Informationseinheit hat die kleinste numerische Versionsnummer  (meta.versionId=1). Darauffolgende chronologische Änderungen haben fortlaufende ansteigende  Versionsnummern (1, 2, 3 usw.) zur Folge. Es sind nur natürliche Zahlen **OHNE DIE NULL** erlaubt
 
 | PFLICHTFUNKTION AW-SST |  |
 |---|---|
 | **P3-10** | Schnittstellenversion im Element meta.profile |
 
+Das Element meta.profile in Instanzen der FHIR®-Ressourcen ist mit der Canonical-URL des verwendeten  FHIR®-Profils unter Angabe der Versionsnummer der Schnittstelle zu versehen.
+
+**Begründung:**
+
+Zur Kennzeichnung mit welchem KBV-Profil die FHIR®-Instanz konform ist, ist die entsprechende URL des  FHIR®-Profils anzugeben. Zur Gewährleistung einer Eindeutigkeit ist die URL um die Versionsnummer der  Schnittstelle des entsprechenden Profils zu erweitern.
+
+**Akzeptanzkriterium:**
+
+Alle FHIR®-Instanzen müssen im Element meta.profile einen Eintrag gemäß Kapitel 2.3.0.5 von  [http://www.hl7.org/fhir/r4/references.html](http://www.hl7.org/fhir/r4/references.html)[](http://www.hl7.org/fhir/r4/references.html)der [FHIR®]-Spezifikation in folgender Form enthalten:   [<URL des FHIR-Profils>|<Version des Profils>](http://www.hl7.org/fhir/r4/references.html)
+
+Es gilt:
+
+<URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils
+
+<Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils im Format „X.X.X“
+
+\| **Beispiel ** Definition des Patienten in KBV_AW_Patient:  <StructureDefinition xmlns="http://hl7.org/fhir">  <url value="https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Patient" />   <version value="1.2.0" />  ...  </StructureDefinition> |
+\|---|
+
 Seite 14 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
-PFLICHTFUNKTION AW-SST diese Strukturen mit einer Historie-Version auch in dieser SST abzubilden. Zum einheitlichen Verständnis muss der Aufbau der Versionsnummer definiert werden. Begründung: Hiermit werden Änderungen an fachlichen gleichen Objekten mit einer Versionierung abgebildet. Akzeptanzkriterium: Die zeitlich gesehen älteste Informationseinheit hat die kleinste numerische Versionsnummer (meta.versionId=1). Darauffolgende chronologische Änderungen haben fortlaufende ansteigende Versionsnummern (1, 2, 3 usw.) zur Folge. Es sind nur natürliche Zahlen OHNE DIE NULL  erlaubt Das Element meta.profile in Instanzen der FHIR®-Ressourcen ist mit der Canonical-URL des verwendeten FHIR®-Profils unter Angabe der Versionsnummer der Schnittstelle zu versehen.  Begründung: Zur Kennzeichnung mit welchem KBV-Profil die FHIR®-Instanz konform ist, ist die entsprechende URL des FHIR®-Profils anzugeben. Zur Gewährleistung einer Eindeutigkeit ist die URL um die Versionsnummer der Schnittstelle des entsprechenden Profils zu erweitern. Akzeptanzkriterium: Alle FHIR®-Instanzen müssen im Element meta.profile einen Eintrag gemäß Kapitel 2.3.0.5 http://www.hl7.org/fhir/r4/references.html der [ FHIR® ]-Spezifikation in folgender Form enthalten:  <URL des FHIR-Profils>|<Version des Profils> Es gilt: <URL des FHIR-Profils> = Inhalt aus StructureDefinition.URL des entsprechenden Profils <Version des Profils> = Inhalt aus StructureDefinition.version des entsprechenden Profils im Format „X.X.X“ 
+PFLICHTFUNKTION AW-SST 
 
 
 ---
 
-\| PFLICHTFUNKTION AW-SST |
-\|---|
 \| Instanzen des Patienten  <Patient xmlns="http://hl7.org/fhir">   <meta>  <profile value="https://fhir.kbv.de/StructureDefinition/KBV_PR_AW_Patient\|1.2.0  </meta>  …  </Patient> |
+\|---|
+
+| PFLICHTFUNKTION AW-SST |  |
+|---|---|
+| **P3-11** | Belegung der Elemente text.status |
+
+Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen.
+
+**Begründung:**
+
+Klarstellung zur derzeit noch uneinheitlichen Definition in den KBV-Profilen.
+
+**Akzeptanzkriterium:**
+
+- 1. Das Element text.status muss in allen Instanzen der KBV-Profile mit dem Wert „extensions“ gefüllt  werden.
+
+**2.4** **DEFAULTWERTE**
 
 | PFLICHTFUNKTION AW-SST |  |
 |---|---|
@@ -512,11 +533,7 @@ Erstellung valider Ressourcen mit KBV-Profilen.
 
 Seite 15 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
-P3-11 Belegung der Elemente text.status in den KBV-Profilen Die Belegung der Elemente text.status soll mit dem Wert „extensions“ erfolgen. Begründung: Klarstellung zur derzeit noch uneinheitlichen Definition in den KBV-Profilen. Akzeptanzkriterium: Das Element text.status muss in allen Instanzen der KBV-Profile mit dem Wert „extensions“ gefüllt werden. 2.4 DEFAULTWERTE
-
-| PFLICHTFUNKTION AW-SST |  |
-|---|---|
-| **P3-11** | Belegung der Elemente text.status |
+in den KBV-Profilen 
 
 
 ---
@@ -619,9 +636,9 @@ Festlegung für die Schnittstelle.
 
 Seite 17 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
 
-- für den Export vorhanden und der gewählte Datenbereich  ein.
 - KBV_PR_AW_Bundle_Adressbuch
 - eingeschränkt werden.
+- für den Export vorhanden und der gewählte Datenbereich  ein.
 
 PFLICHTFUNKTION AW-SST PFLICHTFUNKTION AW-SST 
 
@@ -1469,8 +1486,7 @@ Sofern die notwendigen Informationen zum Erstellen der Instanz von KBV_PR_AW_Per
 - **AUTHORITY** (Referenz zu Organisation oder Display)
 - 2. Bei den folgenden KBV-Profilen hat die Verwendung einer Referenz auf die Instanzen von  KBV_PR_AW_Medikament, KBV_PR_AW_Befund und/oder KBV_PR_AW_Diagnose die höchste Priorität:
 - KBV_PR_AW_Behandlung_im_Auftrag_Ueberweisung:
-- (Es kann ein Text als Diagnose/Verdachtsdiagnose in reasonCode oder eine
--  **REASONREFERENCE** komplette Diagnoseklasse angegeben werden)
+- **REASONREFERENCE** (Es kann ein Text als Diagnose/Verdachtsdiagnose in reasonCode oder eine  komplette Diagnoseklasse angegeben werden)
 - **SUPPORTINGI NFO** (Befund/Medikation, es kann entweder ein String oder eine Referenz zu einer  Diagnose erstellt werden.)
 
 Seite 39 von 54 / KBV / Anforderungskatalog der Archiv- und Wechselschnittstelle (AW-SST) / Version: 1.2.1
@@ -1493,15 +1509,12 @@ Da die Einschränkung in den KBV-Profilen nicht vollständig möglich ist, sind 
 
 **Akzeptanzkriterium:**
 
-- **INSTANZEN**: Es werden die referenzierten Anlagen in jeweils einer Instanz vom KBV-Profil
-- 1. **ANZAHL DER**  KBV_PR_AW_Anlage definiert.
-- **REFERENZ**: Es werden die referenzierten Ressourcen in der jeweiligen Instanz vom KBV-
-- 2. **RICHTUNG DER**  Profil KBV_PR_AW_Anlage definiert.
+- 1. **ANZAHL DER INSTANZEN**: Es werden die referenzierten Anlagen in jeweils einer Instanz vom KBV-Profil  KBV_PR_AW_Anlage definiert.
+- 2. **RICHTUNG DER REFERENZ**: Es werden die referenzierten Ressourcen in der jeweiligen Instanz vom KBV-Profil KBV_PR_AW_Anlage definiert.
 
 Ausnahme hiervon sind die Beziehungen zu den KBV-Profile KBV_PR_AW_Notfallberechtigter,  KBV_PR_AW_Patientenverfuegung sowie KBV_PR_AW_Vorsorgevollmacht, die die Referenz auf die  Instanz von KBV_PR_AW_Anlage beinhalten.
 
-- **BEZIEHUNG** **EN**: Jede Instanz des KBV-Profils KBV_PR_AW_Anlage muss genau eine Beziehung
-- 3. **ANZAHL DER**  zu einer Instanz der KBV-Profile KBV_PR_AW_Begegnung, KBV_PR_AW_Patient oder  KBV_PR_AW_Betriebsstaette haben. Zusätzlich können diese Beziehungen durch eine weitere Referenz
+- 3. **ANZAHL DER BEZIEHUNG** **EN**: Jede Instanz des KBV-Profils KBV_PR_AW_Anlage muss genau eine Beziehung  zu einer Instanz der KBV-Profile KBV_PR_AW_Begegnung, KBV_PR_AW_Patient oder  KBV_PR_AW_Betriebsstaette haben. Zusätzlich können diese Beziehungen durch eine weitere Referenz
 
 z. B. auf einen Befund typisiert werden.
 

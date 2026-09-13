@@ -35,7 +35,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   2021
 | 2.3 | Root-Schema | 8 |
 | 2.4 | Dateinamen | 8 |
 | 2.5 | Semantik der verwendeten Diagrammsymbole | 9 |
-|  | 2.5.1 Kardinalitä t | 9 |
+|  | 2.5.1 Kardinalität | 9 |
 |  | 2.5.2 Strukturelemente | 9 |
 |  | 2.5.3 Sonstige Symbole | 10 |
 
@@ -175,9 +175,6 @@ Seite 2 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk 2021
 
 -Stammdatei) / Version: 1.40 / 15. November
 
-Kardinalität 
-
-
 ---
 
 5.31 korrektur
@@ -281,35 +278,49 @@ Seite 4 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammda
 
 ## TABELLENVERZEICHNIS
 
-**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS ....................................................................... 9
+**TABELLE 1:** BESCHREIBUNG DER KARDINALITÄTEN EINES XML-ELEMENTS
 
-**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE ...................................................................................... 9
+**TABELLE 2:** BESCHREIBUNG DER STRUKTURELEMENT-SYMBOLE
 
 **TABELLE 3:** BESCHREIBUNG SONSTIGER SYMBOLE .......................................................................................................... 10
 
-**TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKATEGORIE ............................................................................. 17
+**TABELLE 4:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELKATEGORIE
 
-**TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQUELLE ................................................................................... 18
+**TABELLE 5:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELQUELLE
 
-**TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................ 20
+**TABELLE 6:** ZULÄSSIGE WERTE FÜR DAS ELEMENT REGELANWENDUNG ........................................................................
 
-**TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME ............................................................................................. 21
+**TABELLE 7:** SCHLÜSSELTABELLE DER KRW-BEZUGSRÄUME .............................................................................................
 
-**TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEITPRUEFUNG ........................................................................ 22
+**TABELLE 8:** ZULÄSSIGE WERTE FÜR DAS ELEMENT ECHTZEITPRUEFUNG
 
-**TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE .......................................................................... 23
+**TABELLE 9:** ZULÄSSIGE WERTE FÜR DAS ELEMENT PRUEFGRUNDLAGE ..........................................................................
 
-**TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2] ........................................................................................ 25
+**TABELLE 10:** SCHLÜSSELTABELLE FÜR DEN PARAMTERTYP [2]
 
 **TABELLE 11:** ZULÄSSIGE WERTE FÜR DEN OPERATOR...................................................................................................... 26
 
-**TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIUM ...................................................................................... 26
+**TABELLE 12:** ZULÄSSIGE WERTE FÜR DAS EXISTENZKRITERIUM ......................................................................................
 
-**TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRITERIUM .............................................................................. 30
+**TABELLE 13:** ZULÄSSIGE WERTE FÜR DAS PRÜFEXISTENZKRITERIUM
 
-**TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL> ................................................................................................. 34
+**TABELLE 14:** ERLAUBTE INHALTE BEI ELEMENT <REGEL> .................................................................................................
 
-Seite 5 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November 2021
+Seite 5 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
+
+....................................................................... 9  ...................................................................................... 9
+
+............................................................................. 17
+
+................................................................................... 18 20
+
+21
+
+........................................................................ 22 23
+
+........................................................................................ 25 26
+
+.............................................................................. 30 34
 
 
 ---
@@ -508,9 +519,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 |  | **Datentyp ** Ein Rechteck mit zwei abgeflachten Ecken links symbolisiert einen Datentyp. |
 |  | **Gruppenelement ** Ein Rechteck mit vier abgeflachten Ecken stellt ein Gruppenelement dar, |
 
-**Tabelle 3:**
-
-Beschreibung sonstiger Symbole
+**Tabelle 3:** Beschreibung sonstiger Symbole
 
 Seite 10 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
 
@@ -841,50 +850,128 @@ Fachliche Bedeutung; OID  1.2.276.0.76.3.1.1.5.2.51 ) Vertreterversammlung (§ 2
 
 ---
 
-| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
+## 5.10 REGELTHEMA
+
+Das Element <regelthema> enthält das Kapitel aus Regelquelle, welches den fachlichen Hintergrund der  Kodierregel beschreibt.
+
+**Abbildung 12:** regelthema
+
+Der XML-Code für das Element <regelthema> hat folgenden Aufbau:
+
+**<regelthema V="28" DN=""IX: Krankheiten des Kreislaufsystems S=""1.2.276.0.76.3.1.1.5.2.55 />**
+
+**XML-Code 11:** regelthema
+
+zu entnehmen sind.
+
+V: Das V-Attribut beinhaltet die Zahlenwerte, die der Schlüsseltabelle (S="1.2.276.0.76.3.1.1.5.2.55“)
+
+DN: Das DN-Attribut enthält den Bezeichner.
+
+S: Mit dem optionalen S-Attribut wird auf die OID der jeweiligen Schlüsseltabelle referenziert, auf die  sich die Werte aus V beziehen.
+
+## 5.11 REGELANWENDUNG
+
+Das Element <regelanwendung> legt fest, ob eine Kodierregel verpflichtend vom Softwaresystem bzw. vom  Anwender anzuwenden ist oder ob sie bei Bedarf vom Anwender deaktiviert werden kann.
+
+**Abbildung 13:** regelanwendung
+
+Der XML-Code für das Element <regelanwendung> hat folgenden Aufbau:
+
+**<regelanwendung V="1" DN="Obligate Regel"** **S=""1.2.276.0.76.3.1.1.5.2.52 />**
+
+**XML-Code 12:** regelanwendung
+
+| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 |---|---|---|
-| **5.10** | **Abbildung 12:** | **<regelthema V="28" DN=""** |
-|  | zu entnehmen sind. | DN: |
-| S: |  | **5.11** |
 
 Seite 19 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November
 
-REGELTHEMA Das Element <regelthema> enthält das Kapitel aus Regelquelle, welches den fachlichen Hintergrund der Kodierregel beschreibt.  Der XML-Code für das Element <regelthema> hat folgenden Aufbau: IX: Krankheiten des Kreislaufsystems S="" 1.2.276.0.76.3.1.1.5.2.55 /> XML-Code 11: V: Das V-Attribut beinhaltet die Zahlenwerte, die der Schlüsseltabelle (S="1.2.276.0.76.3.1.1.5.2.55“) Das DN-Attribut enthält den Bezeichner. Mit dem optionalen S-Attribut wird auf die OID der jeweiligen Schlüsseltabelle referenziert, auf die sich die Werte aus V beziehen.  REGELANWENDUNG Das Element <regelanwendung> legt fest, ob eine Kodierregel verpflichtend vom Softwaresystem bzw. vom Anwender anzuwenden ist oder ob sie bei Bedarf vom Anwender deaktiviert werden kann. Abbildung 13:  regelanwendung Der XML-Code für das Element <regelanwendung> hat folgenden Aufbau: <regelanwendung V="1" DN="Obligate Regel" S="" 1.2.276.0.76.3.1.1.5.2.52 /> XML-Code 12:  regelanwendung (S="" 1.2.276.0.76.3.1.1.5.2.52 )2021
+(S="" 1.2.276.0.76.3.1.1.5.2.52 )2021
 
 
 ---
 
-|  | XML-Code 13: | Wert (V"...") |
+| Wert (V="...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID |
 |---|---|---|
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
 | 1 | Obligate Regel | Bedingung, dass die Kodierregel |
 | 2 | Fakultative Regel | Bedingung, dass die Kodierregel freiwillig |
+
+**Tabelle 6:** Zulässige Werte für das Element regelanwendung
+
+## 5.12 BEZUGSRAUM
+
+Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.
+
+**Abbildung 14:** bezugsraum
+
+**Hinweis:**
+
+Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung  steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein)  erfolgen.
+
+Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau:
+
+**<bezugsraum V="7" DN="" Behandlungsfall S=""/> 1.2.276.0.76.3.1.1.5.2.18**
+
+**XML-Code 13:** bezugsraum
 
 | Wert (V"...") | Bezeichner ( DN="...") | Fachliche Bedeutung; OID ( |
 |---|---|---|
 | 7 | Behandlungsfall | (Kode analog EBM, Definition laut §21 BMV-Ä) |
 | 21 | Quartal | nur für quartalsübergreifende Prüfung, die Anzahl |
-| **Wert (V="...")** | **Bezeichner ( DN="...")** | **Fachliche Bedeutung; OID** |
-| 1 | | |
 
 Seite 20 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
 
-Tabelle 6:  Zulässige Werte für das Element regelanwendung 5.12 BEZUGSRAUM Das Element <bezugsraum> definiert den zeitlichen Bezug der Kodierregel.  Abbildung 14:  bezugsraum Hinweis: Sofern der gesamte Behandlungsfall aus technischen Gründen nicht für Prüfzwecke zur Verfügung steht, kann die Prüfung synonym auf Basis des jeweiligen Abrechnungsdatensatzes (Schein) erfolgen. Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="7" DN="" Behandlungsfall  bezugsraum S=""/> 1.2.276.0.76.3.1.1.5.2.18 (S="" 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann Fachliche Bedeutung; OID ( S="" 1.2.276.0.76.3.1.1.5.2.18 )
+(S="" 1.2.276.0.76.3.1.1.5.2.52 ) verpflichtend einzusetzen ist eingesetzt werden kann S="" 1.2.276.0.76.3.1.1.5.2.18 )
 
 ---
 
-|  | </> |  |
+| Wert (V"...") | Bezeichner ( DN="...") | S="" |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-| **Wert (V"...")** | **Bezeichner ( DN="...")** | **S=""** |
 | der retrospektiv zu prüfenden Quartale wird mit | | |
+
+**Tabelle 7:** Schlüsseltabelle der KRW-Bezugsräume
+
+## 5.13 ANZAHL_QUARTALE
+
+Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des  Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.
+
+**Abbildung 15:** anzahl_quartale
+
+Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau:
+
+**<bezugsraum V="21" DN="Quartal" S=""**
+
+```
+**<anzahl_quartale V="4" />**
+**</bezugsraum>**
+```
+
+**XML-Code 14:** anzahl_quartale
+
+V: ganzzahliger Wert >= 1 besitzen.
+
+## 5.14 ECHTZEITPRUEFUNG_LISTE
+
+Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen  <echtzeitpruefung>.
+
+```
+**1.2.276.0.76.3.1.1.5.2.18 >**
+```
+
+**Abbildung 16:** echtzeitpruefung_liste
+
+```
+**<echtzeitpruefung_liste>**
+**<echtzeitpruefung V="1" DN="bei Kodierung" S=""1.2.276.0.76.3.1.1.5.2.54 />**
+**</>echtzeitpruefung_liste**
+```
 
 **XML-Code 15:** echtzeitpruefung_liste
 
 Seite 21 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
 
-Tabelle 7:  Schlüsseltabelle der KRW-Bezugsräume  5.13 ANZAHL_QUARTALE Das Element <anzahl_quartale> ist ein optionales Element welches die Anzahl der Quartale des Bezugsraums definiert. Dieses Element ist nur vorhanden wenn der Wert des Bezugsraumes “21“ ist.  Abbildung 15:  anzahl_quartale Der XML-Code für das Element <bezugsraum> hat folgenden Aufbau: <bezugsraum V="21" DN="Quartal" S="" 1.2.276.0.76.3.1.1.5.2.18 > <anzahl_quartale V="4" /> </bezugsraum> XML-Code 14:  anzahl_quartale V:  ganzzahliger Wert >= 1 besitzen. 5.14 ECHTZEITPRUEFUNG_LISTE Das Element <echtzeitpruefung_liste> gruppiert eine beliebige Liste von den Elementen <echtzeitpruefung>. Abbildung 16:  echtzeitpruefung_liste <echtzeitpruefung_liste>      <echtzeitpruefung V="1" DN="bei Kodierung" S="" 1.2.276.0.76.3.1.1.5.2.54 /> echtzeitpruefung_liste Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt
+Fachliche Bedeutung; OID ( 1.2.276.0.76.3.1.1.5.2.18 ) dem Element [Anzahl_Quartale] bestimmt
 
 ---
 
@@ -1313,26 +1400,60 @@ Seite 32 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammd
 
 ---
 
+```
+**<korrektur>**
+**<parameter V="ICD" S="1.2.276.0.76.3.1.1.5.2.16"/>**
+**<regel V="DELETE"/>**
+**<value_liste>**
+**...**
+**</value_liste>**
+**<subkorrektur>**
+**...**
+**</subkorrektur>**
+**</korrektur>**
+```
+
+**XML-Code 32:** korrektur
+
+<parameter>:   Definiert den Parametertyp der value Liste (siehe Kapitel 5.19
+
+<regel>:
+
+Das Element <regel> beschreibt die Korrektur-Maßnahme insofern, dass der/die  entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen (siehe  Kapitel 5.32
+
+<value_liste>:
+
+Klammerelement für die zur Auswahl gestellten Korrektur- values (siehe Kapitel 5.22
+
+<subkorrektur>: Analog zur <subbedingung> und <subpruefung> bestehend aus den Elementen  <parameter> und <value_liste> (siehe Kapitel 5.19 und 5.22
+
+## 5.32 REGEL
+
+Das Element <regel> beschreibt die Korrekturmaßnahme insofern, dass der/die entsprechenden Parameter  gelöscht, ersetzt oder ergänzt werden müssen.
+
+**Abbildung 34:** regel
+
+Der XML-Code für das Element <regel>:
+
+**<regel V="ADD"/>**
+
+**XML-Code 33:** regel
+
+Für das V-Attribut sind folgende zulässige Inhalte definiert:
+
 | Wert ( | Bedeutung |
 |---|---|
 | ADD | Unter der value-Liste aufgeführte Parameter sollten in der |
 | DELETE | Der Anwender muss entscheiden, ob ein entsprechender |
-| **<parameter V="ICD" S="1.2.276.0.76.3.1.1.5.2.16"/>** | **DELETE** |
-|  |  |
-
-values (siehe Kapitel
 
 Seite 33 von 35 / KBV / Schnittstellenbeschreibung SDKRW (Kodierregelwerk-Stammdatei) / Version: 1.40 / 15. November  2021
 
-<korrektur> <regel V=" <value_liste>  ... </value_liste> <subkorrektur>         ...    </subkorrektur> </korrektur> XML-Code 32:  korrektur <parameter>: <regel>: <value_liste>: <subkorrektur>: 5.32 REGEL Das Element <regel> beschreibt die Korrekturmaßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen. Definiert den Parametertyp der value Liste (siehe Kapitel 5.19 Das Element <regel> beschreibt die Korrektur-Maßnahme insofern, dass der/die entsprechenden Parameter gelöscht, ersetzt oder ergänzt werden müssen (siehe Kapitel 5.32 Klammerelement für die zur Auswahl gestellten Korrektur- 5.22 Analog zur <subbedingung> und <subpruefung> bestehend aus den Elementen <parameter> und <value_liste> (siehe Kapitel 5.19  und 5.22 Abbildung 34:  regel Der XML-Code für das Element <regel>: <regel V="ADD"/> XML-Code 33:  regel Für das V-Attribut sind folgende zulässige Inhalte definiert: V="" ... Dokumentation zu ergänzen vom Anwender ergänzt werden. Wert aus der Ergebnisanzeige entfernt werden kann.
+V="" ... Dokumentation zu ergänzen vom Anwender ergänzt werden. Wert aus der Ergebnisanzeige entfernt werden kann.
 
 ---
 
-|  |  |
+| Wert ( | Bedeutung |
 |---|---|
-|  |  |
-|  |  |
-| **Wert (** | **Bedeutung** |
 | REPLACE | Die unter value-Liste aufgeführten Werte können zum |
 
 **Tabelle 14:** Erlaubte Inhalte bei Element <regel>

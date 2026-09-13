@@ -105,7 +105,7 @@ Datumsangabe in Feld 3 der Plausibilitätsregeln zur Anlage 2 ein Lebensalter vo
 | Schulungen |  | | |
 | 11 | Schulung bereits vor Einschreibung in | Ja / Nein | Bedingtes Pflichtfeld    Eine Angabe ist erforderlich, wenn die Anlage 20* im |
 
-Medikation Medikation das DMP wahrgenommen Teriparatid / Keine osteoporosespezifische Medikation / Patientin mit Hormonersatztherapie / Nach drei Jahren abgeschlossen / Aktuell andauernd, seit weniger als drei Jahren / Aktuell andauernd, Fortführung über drei Jahre hinaus / Keine osteoporosespezifische Medikation durchgeführt Folgedokumentation auszufüllen ist UND in Feld 5 die Angabe „0“ erfolgt ist Folgedokumentation auszufüllen ist UND in Feld 6 die Angabe „Nein“ erfolgt ist einzeln oder gemeinsam erfolgen. erfolgt ist. Rahmen einer Rahmen einer Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Osteoporose Version 1.1 / letzte Bearbeitung: 17.09.2021
+Medikation Medikation das DMP wahrgenommen Teriparatid / Keine osteoporosespezifische Medikation / Patientin mit Hormonersatztherapie / Nach drei Jahren abgeschlossen / Aktuell andauernd, seit weniger als drei Jahren / Aktuell andauernd, Fortführung über drei Jahre hinaus / Keine osteoporosespezifische Medikation durchgeführt erfolgt ist. Rahmen einer Folgedokumentation auszufüllen ist UND in Feld 5 die Angabe „0“ erfolgt ist Rahmen einer Folgedokumentation auszufüllen ist UND in Feld 6 die Angabe „Nein“ erfolgt ist einzeln oder gemeinsam erfolgen. Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung Osteoporose Version 1.1 / letzte Bearbeitung: 17.09.2021
 
 
 ---

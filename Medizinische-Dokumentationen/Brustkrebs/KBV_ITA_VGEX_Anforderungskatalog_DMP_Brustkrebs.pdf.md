@@ -12,9 +12,7 @@
 
 ### Kassenärztliche Bundesvereinigung
 
-Version 2.25
-
-Datum:
+Version 2.25  Datum:
 
 13.05.2026  Kennzeichnung: Öffentlich  Status:
 
@@ -63,11 +61,11 @@ Seite 3 von 30
 
 ---
 
-**IT in der Arztpraxis**  Anforderungskatalog DMP Brustkrebs
-
 **4** **STAMMDATEIEN DER KBV _____________________________________________ 26**  **4.1** **Kostenträger-Stammdateien der KBV (EHD-Format) .............................................................. 26**  4.1.1 Verbindlichkeit und Gültigkeit der SDKT ............................................................................. 26  4.1.2 Temporäre Erweiterung ....................................................................................................... 27  *4.1.2.1* *Temporäre Erweiterung durch den Anwender ..................................................... 27*  *4.1.2.2* *Temporäre Erweiterung durch den Softwareverantwortlichen ............................. 28*  **4.2** **Stammdatei Datenannahmestellen (SDDA) .............................................................................. 28**  4.2.1 Verbindlichkeit und Gültigkeit .............................................................................................. 28  4.2.2 Temporäre Erweiterung ....................................................................................................... 29  *4.2.2.1* *Temporäre Erweiterung und Änderung durch den Anwender .............................. 29*  *4.2.2.2* *Temporäre Erweiterung und Änderung durch den Softwareverantwortlichen ..... 29*
 
 **5** **REFERENZIERTE DOKUMENTE _________________________________________ 30**
+
+**IT in der Arztpraxis**  Anforderungskatalog DMP Brustkrebs
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.25
 
@@ -78,31 +76,21 @@ Seite 4 von 30
 
 **IT in der Arztpraxis**  Anforderungskatalog DMP Brustkrebs
 
-**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I**
+**T** **A** **B** **E** **L** **L** **E** **N** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 Tabelle 1
 
-Übersicht der zu realisierenden  [KBV_ITA_VGEX_Anforderungskatalog_KVDT]
+Übersicht der zu realisierenden Pflichtfunktionen analog zu  [KBV_ITA_VGEX_Anforderungskatalog_KVDT] .................................................................... 13
 
-Tabelle 2 Übersicht der zu erfassenden Daten im Ersatzverfahren
+Tabelle 2 Übersicht der zu erfassenden Daten im Ersatzverfahren ................................ 15
 
-Tabelle 3: Inhalt des Barcodes des Formulars der Teilnahmeerklärung
+Tabelle 3: Inhalt des Barcodes des Formulars der Teilnahmeerklärung ................................ 25
 
-**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H**
+**A** **B** **B** **I** **L** **D** **U** **N** **G** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
 Abbildung 1: Positionierung des PDF 417 Barcodes auf dem Formular Teilnahmeerklärung 23
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.25
-
-**S**
-
-Pflichtfunktionen analog zu  .................................................................... 13
-
-................................ 15
-
-................................ 25
-
-**N** **I** **S**
 
 Seite 5 von 30
 
@@ -506,9 +494,33 @@ Tabelle 1
 
 **IT in der Arztpraxis**  Anforderungskatalog DMP Brustkrebs
 
+### 2.2.1 Patientenstammdaten "manuell" erfassen
+
+Neben dem Einlesen einer Versichertenkarte existieren weitere Möglichkeiten, Patienten-stammdaten zu erfassen, z.B.:
+
+-  Patientenstammdaten manuell über Tastatur eingeben,
+-  gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in-terpretieren.
+
+#### 2.2.1.1 Ersatzverfahren
+
+Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von Patientenstamm-daten und wird wie folgt definiert1
+
+**Ersatzverfahren** liegt vor, wenn
+
+-  dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die  Krankenversichertenkarte zur Verfügung steht,
+-  der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher-tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt,
+-  die Versichertenkarte defekt ist,
+-  das Lesegerät/der Drucker defekt ist,
+-  die Versichertenkarte nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes  Gerät zur Verfügung steht.
+
+| PFLICHTFUNKTION DMP | |
+|---|---|
+| **P2-40** | **„Ersatzverfahren“ anwenden** |
+
+Beim **Ersatzverfahren** und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B.  Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen, Einsendepraxen, be-fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas-sung sämtlicher Versichertendaten **ermöglichen** Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind:
+
 | Bezeichnung | gleiche [ |
 |---|---|
-| **2.2.1** | Neben dem Einlesen einer Versichertenkarte existieren weitere Möglichkeiten, Patienten- |
 | Vorsatzwort | <person><person_name><nm><pfx> |
 | Namenszusatz | <person><person_name><nm><pfx> |
 | Name | <person><person_name><nm><fam> |
@@ -524,47 +536,20 @@ Tabelle 1
 | Hausnummer | <person><addr><HNR> |
 | Wohnsitzländercode | <person><addr><CNT> |
 | **alternativ Postfachadresse** |  |
-| • |  |
-| • |  |
-| **2.2.1.1 Ersatzverfahren** | Das Ersatzverfahren ist eine besondere Form der "manuellen" Erfassung von Patientenstamm- |
-| 1 | : |
-| **Ersatzverfahren** | • |
-| • | • |
-|  | • |
-| • |  |
-| **PFLICHTFUNKTION DMP** | **P2-40  „Ersatzverfahren“ anwenden** |
-
-| PFLICHTFUNKTION DMP | |
-|---|---|
-| **P2-40** | **„Ersatzverfahren“ anwenden** |
 
 1 sinngemäß laut Anlage 6 der „Vereinbarung zur Gestaltung und bundesweiten Einführung der Krankenversichertenkarte“
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.25
 
-Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen  stammdaten zu erfassen, z.B.: Patientenstammdaten manuell über Tastatur eingeben, gedruckte Patientenstammdaten (z.B. Überweisungsschein im Labor) scannen und in- terpretieren. daten und wird wie folgt definiert  liegt vor, wenn dem Arzt lediglich ein gültiger Überweisungsschein (z.B. Einsendepraxen), nicht aber die Krankenversichertenkarte zur Verfügung steht, der Versicherte darauf hinweist, dass sich die zuständige Krankenkasse oder der Versicher- tenstatus geändert hat, die Versichertenkarte dies aber noch nicht berücksichtigt, die Versichertenkarte defekt ist, das Lesegerät/der Drucker defekt ist, die nicht benutzt werden kann, weil für Hausbesuche kein entsprechendes Gerät zur Verfügung steht. Beim und in allen Fällen, in denen keine Versichertenkarte vorgelegt wird (z.B. Überweisungsschein) oder vorgelegt werden kann (z.B. Einsendepraxen, Einsendepraxen, be- fristete provisorische Ersatzbescheinigung nach § 19(2) BMV-Ä), muss das System die Erfas- sung sämtlicher Versichertendaten ermöglichen Behandlungsausweises von der Versichertenkarte umgedruckt wurden. Diese sind: Elemente gem. DMP-Header (Kindelemente von , wie sie in das Personalienfeld des jeweiligen cda:patient  ver- Fehler! Verweisquelle konnte nicht gefunden werden. rung><Versichertennummer> Seite 14 von 30
+, wie sie in das Personalienfeld des jeweiligen
+
+Versichertendaten manuell erfassen  Elemente gem. DMP-Header (Kindelemente von cda:patient  ver- Fehler! Verweisquelle konnte nicht gefunden werden. rung><Versichertennummer> Seite 14 von 30
 
 
 ---
 
-| 2.2.2 | Ein Geburtsdatum kann außerhalb des üblichen Datumsformats liegen; daher gilt: |
+| Bezeichnung | Elemente gem. DMP-Header (Kindelemente von |
 |---|---|
-| **Bezeichnung** | **Elemente gem. DMP-Header (Kindelemente von** |
-|  | **PFLICHTFUNKTION DMP  P2-50** |
-| **Geburtsdatum mit besonderem Wertebereich** |  |
-| Ein Geburtsdatum muss mit seinem definierten Wertebereich vollständig erfasst und verarbeitet **Wertebereich** | Das Geburtsdatum ist für die Ermittlung der Einschreibekriterien unabdingbar. Deswegen wurde |
-| 1. |  |
-|  | 2. |
-|  | **a.** |
-|  | **b.** |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 | Postfach PLZ | <person><addr><ZIP> |
 | Postfach Ort | <person><addr><CTY> |
 | Postfach | <person><addr><POB> |
@@ -575,15 +560,38 @@ Versichertendaten manuell erfassen  Patientenstammdaten "manuell" erfassen  stam
 | BesonderePersonengruppe | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung>  <BesonderePersonengruppe> |
 | Versichertenart | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertenart> |
 
-**IT in der Arztpraxis**  Anforderungskatalog DMP Brustkrebs
+Tabelle 2
 
-[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.25
+Übersicht der zu erfassenden Daten im Ersatzverfahren
 
-gleiche [ Fehler! Verweisquelle konnte nicht gefunden werden. cda:patient  ver- Tabelle 2 Übersicht der zu erfassenden Daten im Ersatzverfahren Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte noch eine Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über das Ersatzverfahren erfasst werden. Da die Versichertennummer für die DMP-Dokumentation ein Pflichtfeld ist, muss in diesem Fall der Ersatzwert „X999999999“ für das Feld Versicherten- nummer eingetragen werden. Für die Weiterverarbeitung der o.a. Daten gelten - mit Ausnahme der Restriktionen zur "Amt- lichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein Lesegerät beachtet werden müssen.  werden können.  birth_dttm (Geburtsdatum Patienten) im DMP-Header:  JJJJ-TT-MM, JJJJ-MM-00, JJJJ-00-00 mit den Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart: Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der der Versichertenkarte, so ist die Aufnahme in ein DMP abzulehnen und der Patient aufzufordern seitens seiner Krankenkasse eine Sonderbescheinigung einzureichen, auf der das Geburtsdatum ver- merkt ist. Dieses, seitens der zuständigen Krankenkasse bekannt gegebene Geburts- datum, ist für Dokumentation und Bedruckung zu verwenden. Sind auf der der Versichertenkarte keine Angaben zum Geburtstag und monat enthal- ten, so sind grundsätzlich folgende Angaben für Dokumentation und Bedruckung zu ver- wenden: Geburtstag: 01 Geburtsmonat: 01 Seite 15 von 30
+Versicherte der Sonstigen Kostenträger haben in einigen Fällen weder eine Versichertenkarte  noch eine Versichertennummer. Die Daten des Berechtigungsnachweises müssen daher über  das Ersatzverfahren erfasst werden. Da die Versichertennummer für die DMP-Dokumentation  ein Pflichtfeld ist, muss in diesem Fall der Ersatzwert „X999999999“ für das Feld Versicherten-nummer eingetragen werden.
+
+Für die Weiterverarbeitung der o.a. Daten gelten - mit Ausnahme der Restriktionen zur "Amt-lichkeit" - grundsätzlich die gleichen Vorgaben, wie sie auch bei einem Einlesevorgang über ein  Lesegerät beachtet werden müssen.
+
+### 2.2.2 Geburtsdatum mit besonderem Wertebereich
+
+Ein Geburtsdatum kann außerhalb des üblichen Datumsformats liegen; daher gilt:
 
 | PFLICHTFUNKTION DMP | |
 |---|---|
 | **P2-50** | **Geburtsdatum mit besonderem Wertebereich** |
+
+Ein Geburtsdatum muss mit seinem definierten Wertebereich vollständig erfasst und verarbeitet  werden können.
+
+**Wertebereich** birth_dttm (Geburtsdatum des Patienten) im DMP-Header:  JJJJ-TT-MM, JJJJ-MM-00, JJJJ-00-00
+
+Das Geburtsdatum ist für die Ermittlung der Einschreibekriterien unabdingbar. Deswegen wurde  mit den Spitzenverbänden der Krankenkassen folgendes Vorgehen vereinbart:
+
+- 1. Erscheint ein Patient ohne Angabe eines Geburtsjahres auf der der Versichertenkarte,  so ist die Aufnahme in ein DMP abzulehnen und der Patient aufzufordern seitens seiner  Krankenkasse eine Sonderbescheinigung einzureichen, auf der das Geburtsdatum ver-merkt ist. Dieses, seitens der zuständigen Krankenkasse bekannt gegebene Geburts-datum, ist für Dokumentation und Bedruckung zu verwenden.
+- 2. Sind auf der der Versichertenkarte keine Angaben zum Geburtstag und monat enthal-ten, so sind grundsätzlich folgende Angaben für Dokumentation und Bedruckung zu ver-wenden:
+- **a.** Geburtstag: **01**
+- **b.** Geburtsmonat: **01**
+
+**IT in der Arztpraxis**  Anforderungskatalog DMP Brustkrebs
+
+[KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.25
+
+gleiche [ Fehler! Verweisquelle konnte nicht gefunden werden. cda:patient  ver-Seite 15 von 30
 
 
 ---
@@ -890,6 +898,8 @@ Seite 23 von 30
 
 **IT in der Arztpraxis** Anforderungskatalog DMP Brustkrebs
 
+**3.3 Barcode Inhalt**
+
 | Nr. | Feldbezeich- | Feld- | Typ | Erlaubte Inhalte | Format/ |
 |---|---|---|---|---|---|
 | 01 | Formularcode | 4 | a | 070F | Name des Formu- |
@@ -910,16 +920,6 @@ Seite 23 von 30
 | 16 | DMP-Fallnum- | <=7 |  |  | 16 |
 | 17 | Krankenhaus-IK | 9 | n |  |  |
 | 18 | Diabetes mellitus | 1 | n |  | 1 = Diabetes Typ  2 = Diabetes Typ 2 |
-| **3.3 Barcode Inhalt** | **Nr.** | **Feldbezeich-** | **Feld-** | **Typ** | **Erlaubte Inhalte  Format/** |
-| 01 | Formularcode | 4 | a |  | 070F  Name des Formu- |
-| 02 | Formularcodeer- | 1 | a | a | Exemplar |
-| 03 | Versionsnummer | 2 | n |  | 03 |
-|  | 04 | Nachname | <=45 | a |  |
-|  | 05 | Vorname | <=45 | a |  |
-|  | 06 | Geburtsdatum | 8 | n |  |
-| Format:  07 | Versicherungs- 8 | n | Format  08 | Kostenträgerken- | 9  n |
-| 09 | Versicherten-ID | <=12 | a |  |  |
-| 10 | Versichertenart | 1  n | 1,3,5 |  | |
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.25
 
@@ -930,27 +930,8 @@ nung länge gänzung schutz Ende nung Per- sonengruppe nung Be- triebsstättennu
 
 **IT in der Arztpraxis** Anforderungskatalog DMP Brustkrebs
 
-| Koronare | 1 | n |  | 1 = Koronare | 2= Herzinsuffizienz |
-|---|---|---|---|---|---|
-| 20 | Asthma | 1 | n | 1 = Asthma, | 2= COPD |
-| 21 | Brustkrebs | 1 | n |  | 1 = angekreuzt |
-| 22 | Depression | 1 | n | 1 = angekreuzt | 23 |
-| Rheumatoide | 1 | n |  | 1 = angekreuzt | 24 |
-| Rückenschmerz | 1 | n |  | 1 = angekreuzt | 25 |
-| Osteoporose | 1 | n |  | 1 = angekreuzt |  |
-| 26 |  | Adipositas - Er- |  | 1 |  |
-| n |  |  | 1 = Adipositas |  | 2 = Adipositas |
-|  |  |  |  |  |  |
-|  | **Maximale** |  | **189 + TABS** |  |  |
-| **Tabelle 3: Inhalt des Barcodes des Formulars der Teilnahmeerklärung** |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 | 19 | Koronare | 1 | n |  | 1 = Koronare  2= Herzinsuffizienz |
+|---|---|---|---|---|---|
 | 20 | Asthma | 1 | n |  | 1 = Asthma,  2= COPD |
 | 21 | Brustkrebs | 1 | n |  | 1 = angekreuzt |
 | 22 | Depression | 1 | n |  | 1 = angekreuzt |
@@ -962,6 +943,8 @@ nung länge gänzung schutz Ende nung Per- sonengruppe nung Be- triebsstättennu
 |  | **Maximale** | **189 + TABS** |  |  | |
 
 [KBV_ITA_VGEX_Anforderungskatalog_DMP_Brustkrebs] * Version 2.25
+
+**Tabelle 3: Inhalt des Barcodes des Formulars der Teilnahmeerklärung**
 
 Herz- krankheit oder oder Arthritis wachsene oder Adipositas - Kin- der und Jugendli- che samtlänge Ge- Herzkrankheit, Erwachsene  Kinder und Ju- gendliche Seite 25 von 30
 

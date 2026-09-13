@@ -2,11 +2,11 @@
 
 ## S_KBV_BEZIRKSSTELLE
 
-OID:
+OID: 1.2.276.0.76.5.230
 
-Version:
+Version: 1.10
 
-gültig ab:
+gültig ab: 01.01.2024
 
 **Code**
 
@@ -29,12 +29,6 @@ gültig ab:
 11
 
 12
-
-1.2.276.0.76.5.230
-
-1.10
-
-01.01.2024
 
 13
 

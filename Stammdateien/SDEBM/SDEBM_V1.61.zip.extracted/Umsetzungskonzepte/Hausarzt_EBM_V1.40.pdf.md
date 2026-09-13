@@ -45,9 +45,9 @@ pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grun
 
 **I** **N** **H** **A** **L** **T** **S** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
-**1** **HAUSARZT-EBM UND ABBILDUNG ÜBER DIE EBM-SCHNITTSTELLE 4**
+**1** **HAUSARZT-EBM UND ABBILDUNG ÜBER DIE EBM-SCHNITTSTELLE**
 
-**1.1** **Versichertenpauschale ..................................................................................................................4**  1.1.1 Technische Abbildung ............................................................................................................5  *1.1.1.1* *Sub-GOP .................................................................................................................5*  *1.1.1.2* *Abrechnung der neuen Versichertenpauschalen ....................................................5*  *1.1.1.3* *Verwendung im Rahmen von Honorarsimulationen ................................................5*  *1.1.1.4* *XML-Beispiel ............................................................................................................6*
+**1.1** **Versichertenpauschale ..................................................................................................................4** 1.1.1 Technische Abbildung ............................................................................................................5 *1.1.1.1* *Sub-GOP .................................................................................................................5* *1.1.1.2* *Abrechnung der neuen Versichertenpauschalen*  *1.1.1.3* *Verwendung im Rahmen von Honorarsimulationen*  *1.1.1.4* *XML-Beispiel ............................................................................................................6*
 
 **1.2** **Fachärztliche Zusatzpauschale und PFG-Ausschluss ...............................................................7**
 
@@ -55,9 +55,13 @@ pauschalen in der Arztpraxis durch die Sub-GOP pauschalen reichsspezifische Grun
 
 **2** **ZUSAMMENFASSUNG**
 
-**9**
-
 Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
+**4**
+
+*....................................................5*  *................................................5*
+
+**9**
 
 Seite 3 von 9
 
@@ -168,12 +172,13 @@ Seite 7 von 9
 
 ---
 
-| Dezernat | 6 – | Informationstechnik, |  | Telematik | und Telemedizin |
-|---|---|---|---|---|---|
-| **Abbildung** | **5:** | **Schlü s selw** | **erte fü r d ie** | **G O** | **P-Art, grau – derzeit nicht in Verwendung** |
-| Abbildung | des HA-EBM | auf die | EBM-Schnittstelle | (GOS) |  |
+#### Abbildung 5: Schlüsselwerte für die GOP-Art, grau  derzeit nicht in Verwendung
 
-Abbildung 5: Schlüsselwerte für die GOP-Art, grau Dezernat 6  Informationstechnik, Telematik und Telemedizin Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS) Seite 8 von 9
+**Dezernat 6  Informationstechnik, Telematik und Telemedizin**
+
+Abbildung des HA-EBM auf die EBM-Schnittstelle (GOS)
+
+Seite 8 von 9
 
 
 ---

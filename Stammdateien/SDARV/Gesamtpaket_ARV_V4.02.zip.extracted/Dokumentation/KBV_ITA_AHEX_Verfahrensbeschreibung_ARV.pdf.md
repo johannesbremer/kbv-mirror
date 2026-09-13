@@ -16,7 +16,7 @@ Erstellung und Verarbeitung von XML-Stammdateien für die ARV-Schnittstelle  2.0
 
 ---
 
-**IT in der Arztpraxis** Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV Schnittstelle
+**IT in der Arztpraxis**  Verfahrensbeschreibung zur Erstellung und Verarbeitung von XML-Stammdateien für die ARV Schnittstelle
 
 ### DOKUMENTENHISTORIE
 

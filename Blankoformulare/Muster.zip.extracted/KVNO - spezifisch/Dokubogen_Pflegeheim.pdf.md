@@ -112,7 +112,7 @@ Impfstatus überprüft Grippeschutz vorhanden?
 
 in %
 
-**NJ**
+**JN**
 
 **gesetzlicher Betreuer**
 

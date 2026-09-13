@@ -62,13 +62,11 @@ Stand: 23.04.2026
 
 ---
 
-|  | Elektronische | Sammelerklä | ru ng |
-|---|---|---|---|
-| **7** |  | **QUELLENNACHWEISE** | |
-| **8** | **ANLAGE** | **A** |  |
-| Seite 3 | von 20 |  |  |
-
-**20**  **20**
+|  | Elektronische | Sammelerklärung |
+|---|---|---|
+| **7** |  | **QUELLENNACHWEISE** |
+| **8** | **ANLAGE** | **A** |
+| Seite 3 | von 20 |  |
 
 ANLAGE A Elektronische Sammelerklärung Seite 3 von 20 Stand: 23.04.2026
 
@@ -324,13 +322,14 @@ Stand: 23.04.2026
 
 ---
 
-|  | Elektronische | Sammelerklä ru ng |
-|---|---|---|
-|  | Demnach treten | folgende XML-Elemente in der Sammelerklä ru ng - Ausprägung ermächti- |
-| gete | Ä rz te - der KV | Nordrhein auf: |
-| Seite | 14 von 20 | Stand: 23.04.2026 |
+Demnach treten folgende XML-Elemente in der Sammelerklärung - Ausprägung ermächti-gete Ärzte - der KV Nordrhein auf:
 
-Demnach treten folgende XML- Elemente in der Sammelerklärung - gete Ärzte - der KV Nordrhein auf: Elektronische Sammelerklärung Seite 14 von 20
+Elektronische Sammelerklärung
+
+Seite 14 von 20
+
+Stand: 23.04.2026
+
 
 ---
 

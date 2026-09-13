@@ -35,7 +35,7 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 
 KBV_ITA_VGEX_Anforderungskatalog_QSHLT * Version 1.04
 
-nale Pflichtfunktion P2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1-263 gestrichen P1-265: Neu aufgenommen Connect als Übertra- gungsweg KV-Connect Spezi- fikation Schnittstelle Holmium-Laser- Therapie KV- QS Seite 2 von 13
+nale Pflichtfunktion P2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1-263 gestrichen P1-265: Neu aufgenommen KV- Connect als Übertra- gungsweg KV-Connect Spezi- fikation Schnittstelle QS Holmium-Laser- Therapie Seite 2 von 13
 
 
 ---
@@ -92,11 +92,11 @@ Seite 4 von 13
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Holmium-Laser-Therapie
 
-# 1 Qualitätssicherungsvereinbarung Holmium
+# 1 Qualitätssicherungsvereinbarung Holmium Laser Therapie
 
 ## 1.1 Zielbestimmung
 
-Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Holmium-Laser-Therapie (QSHLT)  Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
+Dieser Anforderungskatalog gilt für Software, welche im Rahmen der Qualitätssicherungsver-einbarung Holmium-Laser-Therapie (QSHLT) [1] eingesetzt wird. Es wird eine arztbezogene  Jahresstatistik an die zuständige Datenannahmestelle übermittelt.
 
 Die Anwender sollen durch das Softwareprodukt in die Lage versetzt werden:
 
@@ -112,10 +112,6 @@ Um die Anforderungen an eine Anwendungssoftware zu beschreiben, werden zwei Kate
 **Optionale Funktionen** können implementiert werden, wenn alle genannten Bedingungen zu  dieser Funktion erfüllt sind.
 
 Die Realisierung aller Pflichtfunktionen sowie der implementierten optionalen Funktionen ist  im Rahmen des Gutachterverfahrens nachzuweisen.
-
-# Laser Therapie
-
-[1] eingesetzt wird. Es wird eine arztbezogene
 
 **Vorschriftsmäßigkeit**
 
@@ -162,8 +158,6 @@ Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe 
 
 Die in der Schnittstellenbeschreibung  [KBV_ITA_VGEX_Schnittstelle_QSHLT] erfassbar sein.
 
-QS  festgelegten Datenelemente
-
 | PFLICHTFUNKTION QS Holmium-Laser-Therapie | |
 |---|---|
 | **P1-20** | **Berichtszeiträume** |
@@ -178,7 +172,7 @@ Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal 
 
 01.01
 
-31.12
+QS  festgelegten Datenelemente 31.12
 
 Melde-
 
@@ -423,11 +417,9 @@ Seite 11 von 13
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati-onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-HLT-Datenverschlüsselung (Oeffentlich_QSHLT_Vxy.key) zu verschlüs-seln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in  sen.
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] sen.
 
 KBV_ITA_VGEX_Anforderungskatalog_QSHLT * Version 1.04
-
-[KBV_ITA_AHEX_Handbuch_Kryptomodul]
 
 nachzule-
 
@@ -435,8 +427,6 @@ Seite 12 von 13
 
 
 ---
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Holmium-Laser-Therapie
 
 # 3 Referenzierte Dokumente
 
@@ -450,6 +440,8 @@ Seite 12 von 13
 | [1] | Qualitätssicherungsvereinbarung |
 | [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst "eDoku- |
 
+**IT in der Arztpraxis**  Anforderungskatalog QS Holmium-Laser-Therapie
+
 KBV_ITA_VGEX_Anforderungskatalog_QSHLT * Version 1.04
 
-lichen Versorgung Laser-Therapie um-Laser-Therapie Holmium-Laser-Therapie Laser-Therapie mentation V2.0 “ in der stets aktuellen Version Holmium- Holmium-Seite 13 von 13
+lichen Versorgung Holmium- Laser-Therapie um-Laser-Therapie Holmium-Laser-Therapie Holmium- Laser-Therapie mentation V2.0 “ in der stets aktuellen Version Seite 13 von 13

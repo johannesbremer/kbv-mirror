@@ -14,6 +14,4 @@ Wichtig ist aus Sicht der KBV, dass die Ausfüllhilfen die Ärzte nicht beim Aus
 
 Die elektronischen Ausfüllhilfen werden für alle Formulare erstellt, die ab dem 1. Januar  2016 überarbeitet oder neu eingeführt werden.
 
-[Für Rückfragen steht Ihnen Frau Holthusen (](mailto:IHolthusen@kbv.de)[IHolthusen@kbv.de](mailto:IHolthusen@kbv.de) ne zur Verfügung.
-
-[, Tel.: 030/4005-1416) ger-](mailto:IHolthusen@kbv.de)
+[Für Rückfragen steht Ihnen Frau Holthusen (](mailto:IHolthusen@kbv.de)[IHolthusen@kbv.de](mailto:IHolthusen@kbv.de)[, Tel.: 030/4005-1416) ger-](mailto:IHolthusen@kbv.de) ne zur Verfügung.

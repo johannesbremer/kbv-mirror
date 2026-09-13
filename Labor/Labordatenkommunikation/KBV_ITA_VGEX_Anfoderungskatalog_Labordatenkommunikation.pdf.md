@@ -27,7 +27,7 @@ Die Änderungen der Version 1.07 müssen bis spätestens zum 01.07.2024 umgesetz
 
 [KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
 
-und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM von den PDF/A-Mustern Befundes Zervix-Zytologie /Pathologie Coronavirus-Testverordnung und 3.3 an das neue Muster 39 Datensatzbeschreibung Anforderungen P5-130 und P5-150 P5-160 und P5-170 und P5-260 Anforderung P2-411 Seite 2 von 39
+und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM von den PDF/A-Mustern Befundes Zervix-Zytologie /Pathologie Coronavirus-Testverordnung und 3.3 an das neue Muster 39 Anforderungen P5-130 und P5-150 Datensatzbeschreibung P5-160 und P5-170 und P5-260 Anforderung P2-411 Seite 2 von 39
 
 
 ---
@@ -38,27 +38,19 @@ und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM vo
 
 **INHALTSVERZEICHNIS**
 
-**3**
-
 **1** **ALLGEMEINES**
 
-**4**
+**1.1** **Zertifizierung ................................................................................................................................**
 
-**1.1** **Zertifizierung .................................................................................................................................. 4**
+**1.2** **Vereinbarungen ................................................................................................**
 
-**1.2** **Vereinbarungen ............................................................................................................................. 5**
+**1.3** **Abgrenzung ................................................................................................................................**
 
-**1.3** **Abgrenzung .................................................................................................................................... 6**
-
-**1.4** **Funktion ......................................................................................................................................... 6**
+**1.4** **Funktion ................................................................................................................................**
 
 **2** **LABORDATENKOMMUNIKATION**
 
-**7**
-
 **3** **DIGITALE VORDRUCKE**
-
-**12**
 
 **3.1** **Musterübergreifende Anforderungen ........................................................................................ 12**
 
@@ -70,17 +62,27 @@ und Aufnahme der Anforderung KP2- empfohlene Nutzung des TI- Fachdienstes KIM vo
 
 **4** **LABORDATENTRANSFER**
 
-**23**
+**4.1** **LDT-Auftrag .................................................................................................................................. 23** 4.1.1 Übergreifende Anforderungen beim LDT-Auftrag ............................................................... 23 4.1.2 Export des LDT-Auftrags ..................................................................................................... 25 4.1.3 Import des LDT-Auftrags ..................................................................................................... 27
 
-**4.1** **LDT-Auftrag .................................................................................................................................. 23**  4.1.1 Übergreifende Anforderungen beim LDT-Auftrag ............................................................... 23  4.1.2 Export des LDT-Auftrags ..................................................................................................... 25  4.1.3 Import des LDT-Auftrags ..................................................................................................... 27
-
-**4.2** **LDT Befund .................................................................................................................................. 30**  4.2.1 Export des LDT Befunds ...................................................................................................... 30  4.2.2 Import des LDT Befunds ...................................................................................................... 33
+**4.2** **LDT Befund .................................................................................................................................. 30** 4.2.1 Export des LDT Befunds ...................................................................................................... 30 4.2.2 Import des LDT Befunds ...................................................................................................... 33
 
 **5** **REFERENZIERTE DOKUMENTE**
 
-**39**
-
 [KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
+
+**3**  **4**
+
+**.. 4**
+
+**............................. 5**
+
+**.... 6**
+
+**......... 6**  **7**  **12**
+
+**23**
+
+**39**
 
 Seite 3 von 39
 
@@ -123,13 +125,11 @@ und/oder zu
 
 beantragt wurden,
 
-empfangen.
+empfangen. Die
 
 wird
 
 vollständig
-
-Die
 
 bildet die
 
@@ -309,7 +309,7 @@ Das System muss für den Versand und Empfang von LDT-Dateien mindestens einen si
 
 **Begründung:**
 
-Die personenbezogenen Gesundheitsdaten  datenschutzkonform übertragen werden.
+Die personenbezogenen Gesundheitsdaten müssen im  datenschutzkonform übertragen werden.
 
 **Akzeptanzkriterium:**
 
@@ -320,9 +320,6 @@ Das Softwaresystem muss für den Versand und Empfang von LDT-Dateien einen siche
 Diese Anforderung gilt nur für Systeme, welche mindestens einen der folgenden Bereiche  umsetzen:
 
 - Export des LDT-Auftrages
-
-müssen im
-
 - Import des LDT-Auftrages
 - Export des LDT-Befundes
 - Export des LDT-Befundes Zervix-Zytologie/Pathologie
@@ -458,9 +455,7 @@ Seite 12 von 39
 
 ---
 
-**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
-
--  Das System muss die entsprechenden Funktionen sowie  Anforderungskataloges KVDT KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf beinhalten, die für eine anforderungskonforme Verarbeitung der entsprechenden Daten  notwendig sind. Der folgenden Tabelle können die Kapitel  entnommen werden, die in diesem Rahmen zu realisieren sind.
+-  Das System muss die entsprechenden Funktionen sowie Stammdateien des  Anforderungskataloges KVDT KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf beinhalten, die für eine anforderungskonforme Verarbeitung der entsprechenden Daten  notwendig sind. Der folgenden Tabelle können die Kapitel bzw. Pflichtfunktionen  entnommen werden, die in diesem Rahmen zu realisieren sind.
 
 | Funktion | Beschreibung |
 |---|---|
@@ -480,12 +475,11 @@ Seite 12 von 39
 
 In diesem Zusammenhang wird unter „Verarbeitung“ die Erfassung, Bearbeitung und/oder  Übernahme der entsprechenden Daten verstanden.
 
+**IT in der Arztpraxis**  Anforderungskatalog Labordatenkommunikation
+
 [KBV_ITA_VGEX_Anfoderungskatalog_Labordatenkommunikation]* Version 1.07
 
-- Stammdateien des
-- bzw. Pflichtfunktionen
-
-Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Seriennummer 3.-5. Stelle >= 800) Handling Felder 9402, 9403 und 9404 Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) Kostenträger (VKNR- [Hinweis: diesem Seite 13 von 39
+Leistungen ungültig Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR- Seriennummer 3.-5. Stelle >= 800) Handling Felder 9402, 9403 und 9404 [Hinweis: diesem Zusammenhang ist nur das Feld 9403 (SKT-Zusatzangabe zu berücksichtigen) Seite 13 von 39
 
 
 ---
@@ -978,9 +972,7 @@ Das System muss dem Anwender eine Funktion bieten, so dass dieser in der Lage is
 
 **Begründung:**
 
-Um den Anwender in seiner Arbeit adäquat zu unterstützen, muss das System dem Anwender  den Empfang  ermöglichen.
-
-der entsprechenden
+Um den Anwender in seiner Arbeit adäquat zu unterstützen, muss das System dem Anwender  den Empfang der entsprechenden  ermöglichen.
 
 **Akzeptanzkriterium:**
 

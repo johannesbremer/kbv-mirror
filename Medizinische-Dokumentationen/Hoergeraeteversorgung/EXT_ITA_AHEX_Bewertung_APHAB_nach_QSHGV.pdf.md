@@ -2,11 +2,9 @@ Krankenkasse bzw. Kostenträger
 
 Name, Vorname des Versicherten
 
-## Fragebogen
-
 geb. am
 
-## der Hörbehinderung
+## Fragebogen der Hörbehinderung
 
 Kassen-Nr.
 
@@ -28,9 +26,7 @@ Bitte wählen Sie die Anwort, die Ihrer alltäglichen Erfahrung am nächsten kom
 
 ## Nach der Hörgeräte-Versorgung
 
-**Wenn** **ich** **in** **einem** **belebten** **Lebensmittelgeschäft** **der** **Kassiererin** **spreche,** **kann** **ich** **dem**
-
-1 **mit** **Gespräch** **folgen.**
+**Wenn** **ich** **in** **einem** **belebten** **Lebensmittelgeschäft** 1 **mit** **der** **Kassiererin** **spreche,** **kann** **ich** **dem** **Gespräch** **folgen.**
 
 **Es** **entgeht** **mir** **viel** **Information,** **wenn** **ich** **einen** 2
 
@@ -42,17 +38,13 @@ A
 
 **Vortrag** **anhöre.**
 
-**Unerwartete** **Geräusche,** **wie** **einen** **Rauchmelder** **eine** **Alarmanlage,** **empfinde** **ich** **als**
+**Unerwartete** **Geräusche,** **wie** **einen** **Rauchmelder** 3 **oder** **eine** **Alarmanlage,** **empfinde** **ich** **als** **unangenehm** **laut.**
 
-3 **oder** **unangenehm** **laut.**
-
-**Ich** **habe** **Schwierigkeiten,** **zu** **Hause** **einem** **mit** **einem** **Familienangehörigen** **zu**
-
-4 **Gespräch** **folgen.**
+**Ich** **habe** **Schwierigkeiten,** **zu** **Hause** **einem** 4 **Gespräch** **mit** **einem** **Familienangehörigen** **zu** **folgen.**
 
 **Ich** **habe** **Mühe,** **den** **Dialog** **in** **einem** **Film** **oder** **im**
 
-### B CDA
+B CD A
 
 ### EFG
 
@@ -62,25 +54,23 @@ A
 
 6 **und** **habe** **ich** **Mühe,** **die** **Nachrichten** **zu** **verstehen.**
 
-**Wenn** **ich** **mit** **mehreren** **Personen** **beim** **Essen** **sitze,** **ich** **mich** **mit** **einer** **Person** **unterhalten** **möchte,**
-
-7 **und** **ist** **es** **für** **mich** **schwierig,** **zu** **verstehen.**
+**Wenn** **ich** **mit** **mehreren** **Personen** **beim** **Essen** **sitze,** 7 **und** **ich** **mich** **mit** **einer** **Person** **unterhalten** **möchte,** **ist** **es** **für** **mich** **schwierig,** **zu** **verstehen.**
 
 **ist** **mir** **zu** **laut.**
 
-### B CDA
+B CD A
 
 ### EFG 8 **Verkehrslärm**
 
-**Wenn** **ich** **mit** **jemanden** **spreche,** **der** **sich** **am** **Ende** **eines** **großen** **leeren** **Raumes**
+**Wenn** **ich** **mit** **jemanden** **spreche,** **der** **sich** **am** **anderen** **befindet,** **Ende** **eines** **großen** **leeren** **Raumes**
 
 ### B CD G
 
 A
 
-### EF
+### EF 9
 
-9 **anderen** **befindet,** **verstehe** **ich** **seine** **Worte.**
+**verstehe** **ich** **seine** **Worte.**
 
 **- Bitte wenden -**
 
@@ -94,11 +84,24 @@ A
 
 **F** **G**
 
-immer
+immer 99% 87% 75% 50% 25% 12% 1%
 
-HäufigFastImmer 99% 87% 75% 50% 25% 12% 1%
+A
 
-### B CDA EF B CDA B CDA B CDA B CDA
+### EF
+
+### B CD
+
+ImmerFastHäufig
+
+A B CD
+
+A B CD
+
+A B CD
+
+A B CD
+
 **Bestimmung** **(APHAB)**
 
 Immer (99%) Fast immer (87%) Häufig (75%) In der Hälfte der Fälle (50%)
@@ -113,13 +116,9 @@ der  te
 
 Hälf
 
-der
-
-NieSelten
-
-In Gelegentlich
-
 G
+
+der  In GelegentlichSeltenNie
 
 ### EFG EFG EFG EFG
 
@@ -127,25 +126,21 @@ G
 
 #### Wenn ich in einem kleinen Büroraum Fragen stelle
 
-**beantworte,** **habe** **ich** **Schwierigkeiten,**
+10 **oder** **beantworte,** **habe** **ich** **Schwierigkeiten,**
 
-10 **oder**
+dem Gespräch zu folgen.
 
-#### dem Gespräch zu folgen.
+**Wenn** **ich** **im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute** 11 **mich** **herum** **flüstern** **und** **mit** **Papier** **rascheln,**
 
-**Wenn** **ich** **im** **Kino** **oder** **Theater** **bin** **und** **die** **Leute** **mich** **herum** **flüstern** **und** **mit** **Papier** **rascheln,**
+**um** **kann** **ich** **dem** **Dialog** **immer** **noch** **folgen.**
 
-11 **um** **kann** **ich** **dem** **Dialog** **immer** **noch** **folgen.**
-
-**Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen** **unterhalte,** **habe** **ich** **Schwierigkeiten,**
-
-12 **Umgebung** **zu** **verstehen.**
+**Wenn** **ich** **mich** **mit** **einem** **Freund** **in** **einer** **ruhigen** 12 **Umgebung** **unterhalte,** **habe** **ich** **Schwierigkeiten,** **zu** **verstehen.**
 
 **Die** **Geräusche** **von** **fließendem** **Wasser,** **wie** **eine** 13 **Toilettenspülung** **oder** **Dusche,** **sind** **mir** **unangenehm** **laut.**
 
-**Wenn** **ein** **Sprecher** **zu** **einer** **kleinen** **Gruppe** **spricht** **alle** **ruhig** **zuhören,** **muss** **ich** **mich** **anstrengen,**
+**Wenn** **ein** **Sprecher** **zu** **einer** **kleinen** **Gruppe** **spricht** 14 **alle** **ruhig** **zuhören,** **muss** **ich** **mich** **anstrengen,**
 
-14 **und** **um** **zu** **verstehen.**
+**und** **um** **zu** **verstehen.**
 
 **Wenn** **ich** **mit** **meinem** **Arzt** **im**
 
@@ -155,21 +150,17 @@ G
 
 **Ich** **kann** **einer** **Unterhaltung** **folgen,** **auch** **wenn** 16
 
-## B CDA
+B CD A
 
 ## EFG
 
 **mehrere** **Personen** **gleichzeitig** **sprechen.**
 
-**ist** **mir** **unangenehm** **laut.**
+17 **Baulärm** **ist** **mir** **unangenehm** **laut.**
 
-17 **Baulärm**
+18 **ist** **für** **mich** **schwierig,** **zu** **verstehen,** **was** **bei** **EsVorträgen** **oder** **in** **der** **Kirche** **gesprochen** **wird.**
 
-**ist** **für** **mich** **schwierig,** **zu** **verstehen,** **was** **bei**
-
-18 **EsVorträgen** **oder** **in** **der** **Kirche** **gesprochen** **wird.**
-
-**Ich** **kann** **mich** **mit** **anderen** **unterhalten,** 19 **wenn** **wir** **in** **einer** **Menschenmenge** **sind.**
+19 **Ich** **kann** **mich** **mit** **anderen** **unterhalten,** **wenn** **wir** **in** **einer** **Menschenmenge** **sind.**
 
 **Die** **Sirene** **eines** **nahen** **Feuerwehrfahrzeugs** 20 **ist** **so** **laut,** **dass** **ich** **meine** **Ohren** **zuhalten** **muss.**
 
@@ -183,37 +174,31 @@ G
 
 **Ich** **muss** **den** **Gesprächspartner** **bitten,** **zu** **wiederholen,** **wenn** **wir** **uns** **zu** **zweit**
 
-## B CDA
+B CD A
 
 ## EFG
 
 23 **sich** **in** **einem** **ruhigen** **Raum** **unterhalten.**
 
-**Ich** **habe** **Mühe,** **andere** **zu** **verstehen,** **gleichzeitig** **eine** **Klimaanlage** **oder**
-
-24 **wenn** **ein** **Ventilator** **läuft.**
+**Ich** **habe** **Mühe,** **andere** **zu** **verstehen,** 24 **wenn** **gleichzeitig** **eine** **Klimaanlage** **oder** **ein** **Ventilator** **läuft.**
 
 **Stempel**
 
-Unterschrift des Patienten
-
 Datum
 
-## B CDA
+Unterschrift des Patienten
 
-## EFG
+A B CDEFG
 
-## B CDA
+A B CDEFG
 
-## EFG
+A B CDEFG
 
-## B CDA
+A B CDEFG
 
-## EFG
+A B CDEFG
 
-## B CDA
-
-## EFG
+A B CDEFG
 
 ## B CD G
 
@@ -221,9 +206,7 @@ A
 
 ## EF
 
-## B CDA
-
-## EFG
+A B CDEFG
 
 ## B CD G
 
@@ -231,31 +214,13 @@ A
 
 ## EF
 
-## B CDA
+A B CDEFG
 
-## EFG
+A B CDEFG
 
-## B CD G
+A B CDEFG
 
-A
-
-## EF
-
-## B CDA
-
-## EFG
-
-## B CDA
-
-## EFG
-
-## B CDA
-
-## EFG
-
-## B CDA
-
-EFG 99% 87% 75% 50% 25% 12% 1%
+A B CDEFG 99% 87% 75% 50% 25% 12% 1%
 
 Fälle  der  te
 
@@ -265,10 +230,6 @@ immer
 
 der  Häufig
 
-NieSelten
+Nie
 
-In
-
-FastImmer
-
-Gelegentlich
+ImmerFast In GelegentlichSelten

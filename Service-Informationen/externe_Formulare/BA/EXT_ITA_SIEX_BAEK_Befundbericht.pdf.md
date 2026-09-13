@@ -14,6 +14,14 @@ Patient/in befindet sich seit
 
 regelmäßig
 
+BGL-Nummer:
+
+gelegentlich
+
+# 17 12 2021
+
+nicht in meiner Behandlung
+
 # Aktuelle Beschwerden und Funktionseinschränkungen:
 
 # Aktuelle Therapie:
@@ -29,14 +37,6 @@ Sonstige (z. B. Logopädie, Substitutionsbehandlung u. a.):
 AM 6 ÄD – 1900.8_Befundbericht_BÄK_21.
 
 Psychotherapie 12
-
-BGL-Nummer:
-
-gelegentlich
-
-# 17 12 2021
-
-nicht in meiner Behandlung
 
 
 ---
@@ -104,9 +104,9 @@ Agentur für Arbeit
 
 Für meine Bemühungen erlaube ich mir zu berechnen:
 
-| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | = | __________  €  ________  € |
+| Fotokopierkosten:   0,50 € 0,15 € | ____  Seiten á  ____  Seiten á | =  = | __________  €     __ |
 |---|---|---|---|
-| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: |  | = | **€** |
+| Ausstellung des vollständigen Befundberichts und  Übermittlung an den Ärztlichen Dienst: | **32,50 €** | = | **€** |
 | Portokosten: |  | = | **€** |
 | **Gesamtsumme:** |  | = | **€** |
 |  |  |  |  |
@@ -121,4 +121,4 @@ AM 6 ÄD – 1900.8_Befundbericht_BÄK_21. 12
 \| BIC: |
 \| Bank/Sparkasse: |
 
-für die ersten 50 Seiten für jede weitere Seite     32,50 €¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.
+für die ersten 50 Seiten für jede weitere Seite¹ Bitte geben Sie für die Bezahlung der Rechnung Ihre Rechnungs-Nummer und die vom Ärztlichen Dienst vergebene Liquidations-ID an.

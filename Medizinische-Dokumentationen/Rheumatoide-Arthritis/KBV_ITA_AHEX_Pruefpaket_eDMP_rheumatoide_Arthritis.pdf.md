@@ -26,29 +26,29 @@ INHALT
 | 1.2 Zertifizierungsablauf | 4 |
 | 1.3 Zertifizierungsportal | 5 |
 | 1.4 Zertifizierungsdokumente | 5 |
-| 1.5 Prü funterlagen | 5 |
-| 1.6 Prü fvorgaben | 7 |
+| 1.5 Prüfunterlagen | 5 |
+| 1.6 Prüfvorgaben | 7 |
 | 1.6.1 Schnittstellenversionen | 7 |
 | 1.6.2 Datumseingaben | 7 |
-| 1.6.3 Prü fstammdaten | 7 |
+| 1.6.3 Prüfstammdaten | 7 |
 | 1.6.4 Versichertendaten | 7 |
 | 1.6.5 Praxisdaten/ Arztstempel | 8 |
 | 1.6.6 Krankenhausdaten | 8 |
-| 1.6.7 Prü fnummer | 8 |
+| 1.6.7 Prüfnummer | 8 |
 | 1.6.8 Stammdatei der Datenannahmestellen | (SDDA) 9 |
-| 1.6.9 Auflistung der Prü ffä lle | 9 |
+| 1.6.9 Auflistung der Prüffälle | 9 |
 
-| PRÜ FFÄ LLE |  |  |  | 10 |
-|---|---|---|---|---|
-| 2.1 Prü | ffä lle |  | Dokumentation | 10 |
-| 2.1.1 |  | Prü ffall | 7211 | 10 |
-| 2.1.2 |  | Prü ffall | 7212 | 13 |
-| 2.1.3 |  | Prü ffall | 7220 | 16 |
-| 2.2 Prü | ffall |  | Systemreaktion | 20 |
-| 2.2.1 |  | Prü ffall | 7214 | 20 |
-| 2.3 Weitere | | Prü ffä | lle zum Anforderungskatalog | 24 |
-| 2.3.1 |  | Prü ffall | 7230 | 24 |
-| 2.3.2 |  | Prü ffall | 7240 | 26 |
+| PRÜFFÄLLE |  |  | 10 |
+|---|---|---|---|
+| 2.1 Prüffälle |  | Dokumentation | 10 |
+| 2.1.1 | Prüffall | 7211 | 10 |
+| 2.1.2 | Prüffall | 7212 | 13 |
+| 2.1.3 | Prüffall | 7220 | 16 |
+| 2.2 Prüffall |  | Systemreaktion | 20 |
+| 2.2.1 | Prüffall | 7214 | 20 |
+| 2.3 Weitere | Prüffälle | zum Anforderungskatalog | 24 |
+| 2.3.1 | Prüffall | 7230 | 24 |
+| 2.3.2 | Prüffall | 7240 | 26 |
 
 **TESTDATENVALIDIERUNG**
 
@@ -58,7 +58,7 @@ INHALT
 
 |  | ANHANG |  | 31 |
 |---|---|---|---|
-| 4.1 | Prü ffall | 7220 - Ersatzverfahren | 31 |
+| 4.1 | Prüffall | 7220 - Ersatzverfahren | 31 |
 | 4.2 | TDV7218 | - Testdatenvalidierung | 32 |
 
 **REFERENZIERTE DOKUMENTE**
@@ -69,7 +69,7 @@ Seite 2 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis /
 
 Version: 1.06 / 14. August 2026
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Prüfnummer Stammdatei der Datenannahmestellen (SDDA) Auflistung der Prüffälle PRÜFFÄLLE Prüffälle Dokumentation Prüffall 7211 Prüffall 7212 Prüffall 7220 Prüffall Systemreaktion Prüffall 7214 Weitere Prüffälle zum Anforderungskatalog Prüffall 7230 Prüffall 7240 Prüffall 7220 - Ersatzverfahren TDV7218 - Testdatenvalidierung 
+Stammdatei der Datenannahmestellen (SDDA) Prüffälle Dokumentation Prüffall 7211 Prüffall 7212 Prüffall 7220 Prüffall Systemreaktion Prüffall 7214 Weitere Prüffälle zum Anforderungskatalog Prüffall 7230 Prüffall 7240 Prüffall 7220 - Ersatzverfahren TDV7218 - Testdatenvalidierung 
 
 
 ---
@@ -190,8 +190,7 @@ dokumentiert werden. Dabei müssen die Dateien entsprechend den Vorgaben als ein
 
 Die geforderten Videomitschnitte, Screenshots sowie die Teilnahmeerklärung (Prüffall 7240) müssen in  einem gesonderten Ordner „**Dokumentation** entsprechen. Diese werden durch den Prüfer begutachtet.
 
-- _[lfdNr.]2 3
--  PrüffallNr. 1
+- PrüffallNr. 1_[lfdNr.]2 3
 - Teilnahmeerklärung (Prüffall 7240): TE_EWE_RA.pdf
 - Alle Prüfunterlagen (RA-Unterlagen und der Ordner „Dokumentation“) sind in einem ZIP-Archiv zu  übermitteln. Die RA-Unterlagen werden direkt in dem Hauptverzeichnis übertragen und nicht gesondert  in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Der Ordner  „Dokumentation“ enthält Videoaufzeichnungen, ggf. Screenshots sowie die Teilnahmeerklärung und  wird ebenfalls direkt in dem Hauptverzeichnis übertragen. Das ZIP- Archiv muss wie folgt benannt  werden:
 - Zert_110_SystemID.zip
@@ -460,7 +459,7 @@ Informationsangebote der Krankenkasse
 
 Seite 12 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
-28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem Übernahme aus dem
+Übernahme aus dem 28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem
 
 ---
 
@@ -650,26 +649,6 @@ Informationsangebote der Krankenkasse Diabetes mellitus Typ 2 müssen die andere
 | RA | Aktuelle Glukokortikoidtherapie wegen | Ja, länger als 6 Monate | Ja, länger als 6 Monate |
 | RA | Aktuelle DMARD-Therapie | Nein | Ja |
 | RA | Regelmäßige körperliche Aktivität | Ja | Ja |
-| Stationäre notfallmäßige Behandlung | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  | RA |  |
-| DAS-28-Fragebogen | DAS-28-Fragebogen |  |  |
-| Erkrankungsdauer der rheumatoiden |  |  |  |
-| Klinische Einschätzung des | Nein |  |  |
-|  | | | |
-|  | 160 ml/min/1,73m²KOF | Nicht bestimmt |  |
-|  | Auffällig | Nicht untersucht |  |
-|  | Nicht untersucht | Nicht untersucht |  |
-|  | Fußdeformität | Fußdeformität, |  |
-|  | nein | tief |  |
-|  | nein | ja |  |
-|  |  | Unauffällig |  |
-| 2 | | | |
-| DM2 | Spätfolgen | Diabetische Neuropathie | Diabetische Retinopathie, |
-|  |  |  |  |
-|  | Nierenersatztherapie | Keine der genannten |  |
-|  |  |  |  |
 
 Seite 18 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
@@ -677,32 +656,8 @@ Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Osteoporoserisikos durchge
 
 ---
 
-|  | | | |
+| Medikamente | | | |
 |---|---|---|---|
-|  |  |  | |
-|  | | | |
-| Nein |  | DM2 | SGLT2-Inhibitor |
-|  | DM2 |  |  |
-|  | DM2 |  | Thrombozytenaggregationshemmer |
-|  |  |  |  |
-|  |  | Bereits vor Einschreibung in das DMP an | Ja |
-|  |  | Rheuma-Schulung empfohlen (bei | Ja |
-|  |  | Rheuma-Schulung wahrgenommen |  |
-|  |  | Schulung empfohlen (bei aktueller | Diabetes-Schulung |
-|  |  | Schulung schon vor Einschreibung ins | Hypertonie-Schulung |
-|  |  | Empfohlene Diabetes-Schulung |  |
-|  |  | Empfohlene Hypertonie-Schulung |  |
-|  |  |  |  |
-| DM2 | HbA1c-Zielwert | Zielwert erreicht | Zielwert noch nicht |
-|  | | | |
-|  |  | Behandlung/Mitbehandlung in einer für | Nein |
-|  |  |  |  |
-|  | **Medikamente** | **Schulung** | **Behandlungsplanung** |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| **Medikamente** | | | |
 | DM2 | Insulin oder Insulin-Analoga | Nein | Ja |
 | DM2 | Metformin | Ja | Ja |
 | DM2 | Sonstige antidiabetische Medikation | Nein | Nein |
@@ -729,7 +684,25 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 
 ---
 
-**2.2** **PRÜFFALL SYSTEMREAKTION**
+## 2.2 PRÜFFALL SYSTEMREAKTION
+
+**2.2.1** **Prüffall 7214**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 7214 |
+| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
+| **Voraussetzung** |  |
+| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+- **1.** **Versichertendaten**
+
+Die Personalien zu dem Testfall sind frei wählbar.
+
+- **2.** **Anlegen einer Erstdokumentation**
 
 | INDIKATIONSÜBERGREIFENDE DATEN | | |
 |---|---|---|
@@ -748,48 +721,17 @@ orale Antikoagulation einer Rheuma-Schulung teilgenommen aktueller Dokumentation
 | Raucher |  | Nr. 1 |
 | Begleiterkrankungen | Keine der genannten |  |
 | **Behandlungsplanung** | | |
-| **2.2.1** |  |  |
-|  |  |  |
-|  |  |  |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 7214 |
-| **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
-| **Voraussetzung** |  |
-| **Prüfunterlagen** | Dokumentieren Sie durch Video(s) die Eingaben und die möglichen Hinweis- bzw.    Wenn technisch möglich, markieren Sie bitte die in Spalte „Aktion“ markierten |
-| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 Seite 20 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
-Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Prüffall 7214 Aktionen, die durch den Antragsteller durchgeführt werden: Versichertendaten Die Personalien zu dem Testfall sind frei wählbar. Anlegen einer Erstdokumentation Patienten Erkrankungen
+Fehlermeldungen.  Aktionen in der Aufzeichnung. Dies kann beispielsweise sprachlich oder durch Einblenden der entsprechenden Ziffer erfolgen. sind. Patienten Erkrankungen
 
 ---
 
-|  | | |
-|---|---|---|
-|  |  |  |
-|  | | |
-|  |  |  |
-|  | Bereits vor Einschreibung in das DMP an einer Rheuma- |  |
-|  | Rheuma-Schulung empfohlen (bei aktueller |  |
-|  | Rheuma-Schulung wahrgenommen |  |
-|  |  |  |
-|  | **INDIKATIONSSPEZIFISCHE DATEN** |  |
-|  | | |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | | |
 | Vom Patienten gewünschte Informationsangebote der |  |  |
+|---|---|---|
 | Dokumentationsintervall | Quartalsweise |  |
 | Datum der Erstellung (siehe Kap. 1.6.2) | 15.mm.jjjj |  |
-
-- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
-
-Seite 21 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
 | INDIKATIONSSPEZIFISCHE DATEN | | |
 |---|---|---|
@@ -807,7 +749,11 @@ Seite 21 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 
 | Rheuma-Schulung empfohlen (bei aktueller | Ja |  |
 | Rheuma-Schulung wahrgenommen | Ja | Nr. 7 |
 
-Krankenkasse Anamnese- und Befunddaten Aktuelle Krankheitsaktivität - DAS-28-Wert Pflichtfeld Erkrankungsdauer der rheumatoiden Arthritis (zum Zeitpunkt der aktuellen Dokumentation) Klinische Einschätzung des Osteoporoserisikos durchgeführt Medikamentöse und sonstige Maßnahmen Aktuelle Glukokortikoidtherapie wegen rheumatoider Arthritis Aktuelle DMARD-Therapie Regelmäßige körperliche Aktivität Schulung teilgenommen Dokumentation) Erstdokumentation 10,1 Zwei Jahre Therapiepause vereinbart Nicht möglich Ja Ja Aktion Nr. 2 Nr. 3 Nr. 4 Nr. 5 Nr. 6 Nr. 7
+- **3.** **Korrektur der Daten der Erstdokumentation mit beliebigen Werten, damit die Erstdokumentation**  **abgeschlossen werden kann.**
+
+Seite 21 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
+
+Krankenkasse Zeitpunkt der aktuellen Dokumentation) durchgeführt Schulung teilgenommen Dokumentation) vereinbart
 
 ---
 
@@ -880,16 +826,14 @@ Arthritis Schulung teilgenommen Dokumentation) keine Schulung empfohlen
 | **Prüfunterlagen** | Dokumentieren Sie durch Videos die Eingaben einschließlich der Ergebnisse nach |
 | **Hinweis** | Dieser Testfall ist unterteilt in drei Szenarien |
 
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
 \| SZENARIEN |
 \|---|
 \| **Szenario 1** |
 \| Es wird eine Folgedokumentation angelegt. Zeigen Sie, wie das System die Datenübernahme der |
 \| **Szenario 2** |
 \| Bitte verwenden Sie für dieses Szenario die Daten aus Prüffall 7211.     1. a) b) c) KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung  2. a) b) c) |
-\|  |
-\| 7230  ( |
-\|  |
-\| **Aktionen, die durch den Antragsteller durchgeführt werden:** |
 
 Seite 24 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
@@ -898,13 +842,8 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eDMP eine
 
 ---
 
-\|  |
+\| SZENARIEN |
 \|---|
-\|  |
-\|  |
-\|  |
-\|  |
-\| **SZENARIEN** |
 \| KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung    KBV_ITA_VGEX_Anforderungskatalog_eDMP, Anforderung |
 \| **Szenario 3** |
 \| Zeigen Sie, dass das System dem Anwender den Ausdruck des Disease Activity Score (DAS-28)   gemäß  KBV_ITA_VGEX_Anforderungskatalog_eDMP).  Zeigen Sie auch, dass der Anwender die vier Parameter mit den Daten aus dem Prüffall |
@@ -1095,7 +1034,7 @@ Informationsangebote der Krankenkasse
 
 Seite 30 von 34 / KBV / Prüfpaket eDMP-rheumatoide Arthritis / Version: 1.06 / 14. August 2026
 
-28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem Übernahme aus dem
+Übernahme aus dem 28-Scores übernehmen (zum Zeitpunkt der aktuellen Dokumentation) durchgeführt rheumatoider Arthritis Rheuma-Schulung teilgenommen Dokumentation) Übernahme aus dem
 
 ---
 

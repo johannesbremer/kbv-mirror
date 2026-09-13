@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**05. SEPTEMBER 2026**
+**12. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -24,12 +24,24 @@
 
 **BFS health finance GmbH** Hülshof 24 44369 Dortmund Internet: [https://meinebfs.de](https://meinebfs.de)
 
+**DMRZ**
+
+**Deutsches Medizinrechenzentrum GmbH** Werftstraße 16 40549 Düsseldorf
+
+**Helmsauer Care Manager**
+
+**Helmsauer IT-Solutions GmbH** Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de
+
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 12. September 2026
+
+X/168/2504/36/690
+
 |  | Y/168/2505/36/688 | 30.04.2028 |  |
 |---|---|---|---|
 |  | Y/168/2609/36/756 | 31.08.2029 |  |
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 05. September 2026
+iOS/Android Linux 31.03.2028 Mac OS Windows
 
-X/168/2504/36/690
+Mac OS Windows
 
-DMRZ Deutsches Medizinrechenzentrum GmbH Werftstraße 16 40549 Düsseldorf Helmsauer Care Manager Helmsauer IT-Solutions GmbH Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de Mac OS Windows Linux Mac OS WindowsiOS/Android Linux 31.03.2028 Mac OS Windows
+Linux Mac OS Windows

@@ -16,15 +16,15 @@ Seite 1 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Forma
 
 ---
 
-\| Version | Datum | Autor | Änderung | Begründung | Seite |
-| AUFFÜHRUNG DOKUMENTENSTATUS | Version | Datum | Autor | Änderung | Begründung |
+**AUFFÜHRUNG DOKUMENTENSTATUS**
+
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 2.6 | 22.07.2026 | KBV | Ergänzung einer Frage zu    Entfernung der Frage zur | Einführung der    Regelung der | 10    10 |
 | 2.5 | 02.06.2026 | KBV | Druckvorgabe der Überschrift |  | 10 |
 | 2.4 | 13.05.2026 | KBV | Ergänzung der Antwort zu    Ergänzung der Antwort zu PZN-   Klarstellung der Fragestellung |  | 12          14        13 |
 | 2.3 | 16.04.2026 | KBV | Ergänzung der Fragestellung zur    Vereinheitlichung der Antwort    Aktualisierung der Information |  | 13    13    11 |
 | 2.2 | 02.09.2025 | KBV | Ergänzung der Liste mit den zu    Anpassung der Frage zur Länge    Streichung der Fragen zur |  | 5        13        f |
-|  |  |  |  | **Seite ** 2.6  22.07.2026 | KBV  Ergänzung einer Frage zu    Entfernung der Frage zur  Einführung der |
 
 Seite 2 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
@@ -33,14 +33,8 @@ Seite 2 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Forma
 
 ---
 
-\| Datum | Autor | Änderung | Begründung | Seite | Ergänzung der Fragestellung zu |
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  | Ergänzung der Fragestellung zu | 13 | 14 |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 |  |  |  |  | Ergänzung der Fragestellung zu    Ergänzung der Fragestellung zu | 13    14 |
 
 Seite 3 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
@@ -86,33 +80,43 @@ Seite 4 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Forma
 
 ---
 
-\| Nr. | Zu ignorierende Meldungen bei der eAU |
-| Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden, |  |
+Produktivbetrieb sollte daher ausschließlich eine lokale Terminologievalidierung durchgeführt werden,  damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.
+
+## Frage: Wie kann ich die Validität meiner XML-Dateien auf der Simplifier Plattform überprüfen?
+
+### Antwort der KBV:
+
+Mit einem (kostenfreien) Account können Sie den Validator von Simplifier.net nutzen  [https://simplifier.net/validate](https://simplifier.net/validate) Achten Sie hierbei darauf, „R4“ auszuwählen und den Scope des  [Zertifizierungsthemas auszuwählen (z.B. „KBV.ITA.EAU latest“) zu setzen.](https://simplifier.net/validate)
+
+## Frage: Bei der Validierung von XML-Instanzen der eAU oder dem eRezept mit dem Validator von HL7  erhalten wir immer wieder Warning- oder Info-Meldungen. Ist meine erzeugte XML-Instanz nun korrekt?
+
+### Antwort der KBV:
+
+Bei der Nutzung des HL7 Validators kommt es auch bei einer korrekten XML-Instanz zu Warning- oder Info-Meldungen im Validierungsergebnis.
+
+Es können insbesondere Warnings auftreten, die sich darauf zurückführen lassen, dass in den eAU- bzw.  eRezept-FHIR-Profilen der KBV bewusst von den von HL7 vorgeschlagen ValueSets abgewichen wurde.  Warnings, die in diesem Zusammenhang stehen, können durch die Verwendung des Parameters -no-extensible-binding-warnings“ beim Aufruf des Validators unterbunden werden.
+
+Info-Meldungen können derzeit nicht beim Aufruf unterdrückt werden. Hier stellen wir eine Liste von zu  ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können abweichen:
+
+| Nr. | Zu ignorierende Meldungen bei der eAU |
 |---|---|
 | 1) | Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der  https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART#e010) |
 | 2) | Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, |
 | 3) | Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der |
 | 4) | Information @ Bundle.entry[6].resource.ofType(Condition).code.coding[0] : Code System URI |
-| **Frage: Wie kann ich die Validität meiner XML-Dateien auf der Simplifier Plattform überprüfen?** | Antwort der KBV:  Mit einem (kostenfreien) Account können Sie den Validator von Simplifier.net nutzen  https://simplifier.net/validate |
 
 Seite 5 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
-damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.  Achten Sie hierbei darauf, „R4“ auszuwählen und den Scope des Zertifizierungsthemas auszuwählen (z.B. „KBV.ITA.EAU latest“) zu setzen. Frage: Bei der Validierung von XML-Instanzen der eAU oder dem eRezept mit dem Validator von HL7 erhalten wir immer wieder Warning- oder Info-Meldungen. Ist meine erzeugte XML-Instanz nun korrekt? Bei der Nutzung des HL7 Validators kommt es auch bei einer korrekten XML-Instanz zu Warning- oder Info- Meldungen im Validierungsergebnis. Es können insbesondere Warnings auftreten, die sich darauf zurückführen lassen, dass in den eAU- bzw. eRezept-FHIR-Profilen der KBV bewusst von den von HL7 vorgeschlagen ValueSets abgewichen wurde. Warnings, die in diesem Zusammenhang stehen, können durch die Verwendung des Parameters -no- extensible-binding-warnings “ beim Aufruf des Validators unterbunden werden. Info-Meldungen können derzeit nicht beim Aufruf unterdrückt werden. Hier stellen wir eine Liste von zu ignorierenden Meldungen bereit. Zahlen von Array-Angaben bspw. entry[0] können abweichen:  angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) "http://fhir.de/CodeSystem/dimdi/icd-10-gm" ist unbekannt, so dass der Code nicht validiert werden kann 
+angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) "http://fhir.de/CodeSystem/dimdi/icd-10-gm" ist unbekannt, so dass der Code nicht validiert werden kann 
 
 
 ---
 
-\| Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, | 3) |
 | Nr. | Zu ignorierende Meldungen bei der eAU |
 |---|---|
-| Information @ Bundle.entry[6].resource.ofType(Coverage).type (line 366, col11): Keiner der | 4)  Information @ Bundle.entry[2].resource.ofType(Medication).code.coding[0] (line 170, col14):  5) |
-| Information @ | 6) |
-| Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden |  |
-| Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder | 7) |
 | 5) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden    Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder |
 
-\| Nr. | Zu ignorierende Meldungen bei dem eRezept |
-| Nr. | Zu ignorierende Meldungen bei der eAU |
+| Nr. | Zu ignorierende Meldungen bei dem eRezept |
 |---|---|
 | 1) | Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der |
 | 2) | Information @ Bundle.entry[4].resource.ofType(Practitioner).qualification[0].code (line 266, |
@@ -122,33 +126,42 @@ damit keine personenbezogenen Daten des Arztes/der Praxis übertragen werden.  A
 | 6) | Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden    Diese Meldung tritt auf, wenn ein Wert (z.B. Zeichenkette/String) vorangestellte oder |
 | 7) | Information @ Bundle.entry[4].resource/*Practitioner/bc329f24-3d65-4286-bf06- |
 | 8) | Information @ Bundle.entry[5].resource/*Practitioner/cb7558e2-0fdf-4107-93f6- |
-|  | 5) |
-| Warning @ value: Wert sollte nicht mit Leerzeichen beginnen oder enden |  |
 
 Seite 6 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
-hintenangestellte Leerzeichen enthält. Zu ignorierende Meldungen bei dem eRezept Information @ Bundle.entry[0].resource.ofType(Composition).type (line 28, col11): Keiner der angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART#e16A) 2) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann hintenangestellte Leerzeichen enthält. Information @ Bundle.entry[4].resource/*Practitioner/bc329f24-3d65-4286-bf06- b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird 
+hintenangestellte Leerzeichen enthält. angegebenen Codes ist im Valueset 'FHIR Document Type Codes' (http://hl7.org/fhir/ValueSet/doc-typecodes|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_SFHIR_KBV_FORMULAR_ART#e16A) col12): Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.3.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Qualification_Type#00) angegebenen Codes ist im Valueset 'Coverage Type and Self-Pay Codes' (http://hl7.org/fhir/ValueSet/coverage-type|4.0.1), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = http://fhir.de/CodeSystem/versicherungsart-de- basis#GKV) Code System URI "http://fhir.de/CodeSystem/ifa/pzn" ist unbekannt, so dass der Code nicht validiert werden kann Bundle.entry[2].resource.ofType(Medication).ingredient[0].item.ofType(CodeableConcept).codi ng[0] (line 180, col15): Code System URI "http://fhir.de/CodeSystem/ask" ist unbekannt, so dass der Code nicht validiert werden kann hintenangestellte Leerzeichen enthält. b54dd6cad655*/.qualification[1].code (line 290, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = https://fhir.kbv.de/CodeSystem/KBV_CS_FOR_Berufsbezeichnung#Berufsbezeichnung) 07f13f39e067*/.qualification[2].code (line 349, col12): !!Keiner der angegebenen Codes ist im Valueset 'Practitioner Speciality' (https://fhir.kbv.de/ValueSet/KBV_VS_Base_Practitioner_Speciality|1.7.0), und es wird 
 
 
 ---
 
-\| Antwort der KBV: | Die KBV hat in den Technischen Anlagen eAU und eRezept keine gesonderten Vorgaben zur Referenzierung |
 | Nr. | Zu ignorierende Meldungen bei dem eRezept |
 |---|---|
-| In der FHIR-Spezifikation ist die korrekte Referenzierung unter | https://www.hl7.org/fhir/bundle.html |
-| im | https://www.hl7.org/fhir/bundle-references.xml.html |
-| . | Aus Sicht der KBV könnten Sie bspw. eine der folgenden beiden Varianten zur Referenzierung in Ihren FHIR- |
-| Variante 1: | reference.value: „<Typ>/<id>“ |
-| fullUrl.value: „<Typ>/<id>“ |  |
-| ……….. | Variante 2: |
-|  |  |
-|  |  |
 |  | empfohlen, einen Code aus dieserm Valueset zu verwenden) (Codes = |
 | 9) | Warning @ Bundle.entry[5].resource/*Practitioner/cb7558e2-0fdf-4107-93f6- |
 
+## Frage: Müssen besondere Vorgaben bei der Referenzierung innerhalb von FHIR-Dateien beachtet  werden?
+
+### Antwort der KBV:
+
+Die KBV hat in den Technischen Anlagen eAU und eRezept keine gesonderten Vorgaben zur Referenzierung  innerhalb der FHIR-Dateien gemacht. Allerdings sollten die Vorgaben der FHIR-Spezifikation beachtet und  umgesetzt werden, da es sonst bei einigen Validatoren zu Warn- oder Fehlermeldungen kommen kann.
+
+[In der FHIR-Spezifikation ist die korrekte Referenzierung unter](https://www.hl7.org/fhir/bundle.html)[https://www.hl7.org/fhir/bundle.html](https://www.hl7.org/fhir/bundle.html)[im](https://www.hl7.org/fhir/bundle.html) [Kapitel „2.36.4.1 Resolving references in Bundles“ zu finden. Einige Beispiele finden Sie hierzu auch unter](https://www.hl7.org/fhir/bundle.html) [https://www.hl7.org/fhir/bundle-references.xml.html](https://www.hl7.org/fhir/bundle-references.xml.html)
+
+[Aus Sicht der KBV könnten Sie bspw. eine der folgenden beiden Varianten zur Referenzierung in Ihren FHIR-](https://www.hl7.org/fhir/bundle-references.xml.html) Dateien nutzen, wobei weitere FHIR-konforme Möglichkeiten möglich sind:
+
+Variante 1:
+
+reference.value: „<Typ>/<id>“
+
+fullUrl.value: „<Typ>/<id>“  bzw. „<Pfad zum Server>/<Typ>/<id>“
+
+………..
+
+Variante 2:
+
 Seite 7 von 16 / KBV / FAQ für Softwarehersteller zu digitalen Mustern im Format FHIR / 22. Juli 2026
 
-https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV#555555472) 07f13f39e067*/.qualification[2].code.coding[0].system (line 349, col12): !!!!!!!!Das CodeSystem https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV ist unbekannt Frage: Müssen besondere Vorgaben bei der Referenzierung innerhalb von FHIR-Dateien beachtet werden?   innerhalb der FHIR-Dateien gemacht. Allerdings sollten die Vorgaben der FHIR-Spezifikation beachtet und umgesetzt werden, da es sonst bei einigen Validatoren zu Warn- oder Fehlermeldungen kommen kann.  Kapitel „2.36.4.1 Resolving references in Bundles“ zu finden. Einige Beispiele finden Sie hierzu auch unter Dateien nutzen, wobei weitere FHIR-konforme Möglichkeiten möglich sind:  bzw. „<Pfad zum Server>/<Typ>/<id>“
+https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV#555555472) 07f13f39e067*/.qualification[2].code.coding[0].system (line 349, col12): !!!!!!!!Das CodeSystem https://fhir.kbv.de/NamingSystem/KBV_NS_FOR_Fachgruppennummer_ASV ist unbekannt 
 
 
 ---

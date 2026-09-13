@@ -44,7 +44,8 @@ Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausfüh
 
 Die Anlagenbezifferung bezieht sich auf die Anlagenbenennung gemäß den Ausführungen der DMP-A-RL  Plausibilitätsprüfung HI Version 2.0 / letzte Bearbeitung: 25.10.2024
 
-Nr. Herzinsuffizienz “ erfolgt, sind die nachstehenden Felder der Anlage auszufüllen. den letzten sechs Monaten  Behandlung, wegen Herzinsuffizienz, seit der letzten in Feld 10 mindestens die Angabe „ chronische 14* entsprechend den Festlegungen der Plausibilitätsregeln Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ und kleiner oder gleich 99  sein. einer Folgedokumentation auszufüllen ist. / ARB  #### Herzinsuffizienz
+Nr. Herzinsuffizienz “ erfolgt, sind die nachstehenden Felder der Anlage auszufüllen. den letzten sechs Monaten  Behandlung, wegen Herzinsuffizienz, seit der letzten in Feld 10 mindestens die Angabe „ chronische 14* entsprechend den Festlegungen der Plausibilitätsregeln Die Angabe erfolgt ohne Nachkommastelle. Die Angabe muss gleich oder größer „0“ und kleiner oder gleich 99  sein. einer Folgedokumentation auszufüllen ist. / ARB  
+#### Herzinsuffizienz
 
 
 ---

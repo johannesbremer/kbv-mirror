@@ -26,22 +26,22 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prü fu nte rla gen | 6 |
-| 1.6 | Prü fvorgaben | 7 |
-|  | 1.6.1 Prü fstam mdate n | 7 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 7 |
+|  | 1.6.1 Prüfstammdaten | 7 |
 |  | 1.6.2 Versichertendaten | 8 |
 |  | 1.6.3 Praxisdaten/ Arztstempel | 8 |
-|  | 1.6.4 Auflistung der Prü ffä lle | 9 |
+|  | 1.6.4 Auflistung der Prüffälle | 9 |
 
-| 2 | PRÜ | FFÄ LLE | 10 |
+| 2 |  | PRÜFFÄLLE | 10 |
 |---|---|---|---|
-| 2.1 | Prü | ffa ll 8 001 | 10 |
-| 2.2 | Prü | ffa ll 8 002 | 11 |
-| 2.3 | Prü | ffa ll 8 003 | 12 |
-| 2.4 | Prü | ffa ll 8 004 | 14 |
-| 2.5 | Prü | ffa ll 8 005 | 16 |
-| 2.6 | Prü | ffa ll 8 006 | 20 |
-| 2.7 |  | Konditionaler Prü ffa ll 8 007 | 21 |
+| 2.1 | Prüffall | 8001 | 10 |
+| 2.2 | Prüffall | 8002 | 11 |
+| 2.3 | Prüffall | 8003 | 12 |
+| 2.4 | Prüffall | 8004 | 14 |
+| 2.5 | Prüffall | 8005 | 16 |
+| 2.6 | Prüffall | 8006 | 20 |
+| 2.7 |  | Konditionaler Prüffall 8007 | 21 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -61,7 +61,7 @@ Seite 2 von 27 / KBV / Pruefpaket Hautkrebs-Screening /
 
 Version: 3.03 / 30. Mai 2025
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten Auflistung der Prüffälle PRÜFFÄLLE Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Konditionaler Prüffall 8007 Versichertendaten 1– Ersatzverfahren Versichertendaten 2– Ersatzverfahren Versichertendaten 3– Ersatzverfahren 
+Prüffall 8001 Prüffall 8002 Prüffall 8003 Prüffall 8004 Prüffall 8005 Prüffall 8006 Versichertendaten 1– Ersatzverfahren Versichertendaten 2– Ersatzverfahren Versichertendaten 3– Ersatzverfahren 
 
 
 ---
@@ -251,9 +251,9 @@ Auflistung der in diesem Prüfpaket verwendeten Prüffälle
 | **8005** | Guido Tils | Ersatzverfahren (s. Anhang 4.2) |
 | **8007** | Alexander Laas | Ersatzverfahren (s. Anhang 4.3) |
 
-Seite 9 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
-
 ### Auflistung der Prüffälle
+
+Seite 9 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
 Freiherr von Schaumberg
 
@@ -358,6 +358,20 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 | **Prüfunterlagen** | eHKS-Dokumentationsunterlagen |
 | **Hinweis** |  |
 
+- 1. Versichertendaten:
+
+Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern.
+
+- 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
+
+|  | |
+|---|---|
+| **Allgemeine Daten** | |
+| Patientennummer | 8003 |
+| Geschlecht der/des Versicherten | Generiert aus XML-Datei |
+| **Untersuchungsdatum** | |
+| Untersuchungsdatum | 06.01.2020  06.01.2024 |
+
 | DERMATOLOGEN-DATEN | |
 |---|---|
 | **Überweisung im Rahmen des Hautkrebs-Screenings** | |
@@ -376,61 +390,13 @@ Kontrolle der Erkennung von Fehleingaben eHKS-Dokumentationsunterlagen XPM-Proto
 | Spinozelluläres Karzinom |  |
 | anderer Hautkrebs |  |
 | sonstiger mit Biopsie abklärungsbedürftiger Befund |  |
-|  | |
-|  |  |
-|  |  |
-| 8003 |  |
-|  | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
-|  | |
-|  |  |
-| eHKS-Dokumentationsunterlagen |  |
-|  |  |
-|  |  |
-|  | 1. |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| 8003 |  |
-
-|  | |
-|---|---|
-| **Allgemeine Daten** | |
-| Patientennummer | 8003 |
-| Geschlecht der/des Versicherten | Generiert aus XML-Datei |
-| **Untersuchungsdatum** | |
-| Untersuchungsdatum | 06.01.2020  06.01.2024 |
 
 Seite 12 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
-Versichertendaten: Die Versichertendaten von Viktor Müller (XML_09) einlesen und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen 
-
-
 ---
 
-|  | |
+| Biopsie/Exzision | |
 |---|---|
-|  | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Nein |
 | Anzahl der entnommenen Biopsien |  |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Nein |
@@ -467,6 +433,20 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | **Prüfunterlagen** | eHKS-Dokumentationsunterlagen |
 | **Hinweis** |  |
 
+- 1. Versichertendaten:
+
+Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern.
+
+- 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
+
+|  | |
+|---|---|
+| **Allgemeine Daten** | |
+| Patientennummer | 8004 |
+| Geschlecht der/des Versicherten | Generiert aus XML-Datei |
+| **Untersuchungsdatum** | |
+| Untersuchungsdatum | 02.01.2020  02.01.2024 |
+
 | DERMATOLOGEN-DATEN | |
 |---|---|
 | **Überweisung im Rahmen des Hautkrebs-Screenings** | |
@@ -485,60 +465,14 @@ durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordick
 | Spinozelluläres Karzinom | Nein |
 | anderer Hautkrebs | Ja |
 | sonstiger mit Biopsie abklärungsbedürftiger Befund | Nein |
-|  | |
-|  |  |
-|  |  |
-| 8004 |  |
-|  | Anlage einer Hautkrebs-Dokumentation durch einen Dermatologen |
-|  | |
-|  |  |
-| eHKS-Dokumentationsunterlagen |  |
-|  |  |
-|  |  |
-|  | 1. |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| 8004 |  |
-
-|  | |
-|---|---|
-| **Allgemeine Daten** | |
-| Patientennummer | 8004 |
-| Geschlecht der/des Versicherten | Generiert aus XML-Datei |
-| **Untersuchungsdatum** | |
-| Untersuchungsdatum | 02.01.2020  02.01.2024 |
 
 Seite 14 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
-Versichertendaten: Die Versichertendaten von Ludger Königsstein (XML_15) einlesen bzw. und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
 
 ---
 
-|  | |
+| Biopsie/Exzision | |
 |---|---|
-|  | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| **Biopsie/Exzision** | |
 | Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen oder Exzision | Ja |
 | Anzahl der entnommenen Biopsien | 3 |
 | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet | Ja |
@@ -680,6 +614,8 @@ durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom
 | Aktinische Keratose | Ja |
 | Andere hier nicht relevante Hautveränderung | Ja |
 
+**Konstellation 7:**
+
 | DERMATOLOGEN-DATEN | |
 |---|---|
 | **Überweisung im Rahmen des Hautkrebs-Screenings** | |
@@ -690,52 +626,15 @@ durchgeführt durchgeführt Malignes Melanom – Klassifikation Malignes Melanom
 | Malignes Melanom | Nein |
 | Basalzellkarzinom | Nein |
 | Spinozelluläres Karzinom | Ja |
-|  |  |
-| Malignes Melanom | |
-|  | Biopsie zu Verdachtsdiagnose gemäß 2.3 |
-|  | Anzahl der entnommenen Biopsien |
-|  | anderweitige Therapie oder Diagnostik vorgenommen bzw. eingeleitet |
-|  | derzeit keine weitere Therapie/Diagnostik |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  | Basalzellkarzinom |
-|  |  |
-|  |  |
-| Nein | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| Patient kommt auf Überweisung im Rahmen des Hautkrebs-Screenings | Ja |
-| Überweisender Arzt hat HKS durchgeführt | Nein |
-|  |  |
-|  |  |
 
 Seite 18 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
-entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading Konstellation 7:
+entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malignes Melanom – Tumordicke (Breslow) Basalzellkarzinom horizontaler Tumordurchmesser (klinisch) Basalzellkarzinom vertikaler Tumordurchmesser (histologisch) Spinozelluläres Karzinom – Klassifikation Spinozelluläres Karzinom – Grading
 
 ---
 
-|  | |
-|---|---|
-|  | |
-| atypischer Nävuszellnävus | Ja |
-| junktionaler, compound, dermaler atypischer Nävuszellnävus | Ja |
-|  | |
-|  |  |
-| **Verdachtsdiagnose des Dermatologen** | **Histopathologie** |
-|  |  |
-|  |  |
 | anderer Hautkrebs | Ja |
+|---|---|
 | **Verdachtsdiagnose des Dermatologen** | |
 | Verdachtsdiagnose | Ja |
 | Malignes Melanom | Ja |
@@ -775,7 +674,7 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 |  |  |
 |---|---|
 | **Prüffall-ID** | 8006 |
-| **Testziel** | (KBV_ITA_VGEX_Anforderungskatalog_eHKS) |
+| **Testziel** | Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS  KBV_ITA_VGEX_Anforderungskatalog_eHKS) |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | Screenshots / PDFs zum Nachweis der korrekten Systemfunktionalität |
 | **Hinweis** | Dieser Testfall ist unterteilt in zwei Szenarien |
@@ -789,7 +688,7 @@ entnommen oder Exzision durchgeführt Malignes Melanom – Klassifikation Malign
 
 Seite 20 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
-Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS Systemreaktion im Sinne der Pflichtfunktion P1-50 erwartet. Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
+Systemreaktion im Sinne der Pflichtfunktion P1-50 erwartet. Screenshots vom Speichern und Archivieren der Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, so dass diese erhalten bleibt und erweiterbar ist. Ein erneuter Aufruf dieser Dokumentation zur nachträglichen Bearbeitung ist nachzuweisen.
 
 ---
 
@@ -802,6 +701,20 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS Syst
 | **Voraussetzung** | Es wurde die optionale Funktion K1-25 (Unterstützung von ergänzenden Verträgen |
 | **Prüfunterlagen** | › › |
 | **Hinweis** | Dieser Prüffall ist nur zu bearbeiten, wenn in der Software die elektronische |
+
+- 1. Versichertendaten:
+
+Die Versichertendaten von Alexander Laas (Anhang 4.3) im Ersatzverfahren erfassen und speichern.
+
+- 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
+
+|  | |
+|---|---|
+| **Allgemeine Daten** | |
+| Patientennummer | 8007 |
+| Geschlecht der/des Versicherten | Männlich |
+| **Untersuchungsdatum** | |
+| Untersuchungsdatum | 01.01.2020  01.01.2024 |
 
 | DERMATOLOGEN-DATEN ERGÄNZENDE VERTRÄGE | |
 |---|---|
@@ -817,60 +730,15 @@ Kontrolle der korrekten Umsetzung von Teilen des Anforderungskataloges eHKS Syst
 | **Verdachtsdiagnose des Dermatologen** | |
 | Verdachtsdiagnose | Ja |
 | Malignes Melanom | Ja |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  | › |
-|  | |
-| Dieser Prüffall ist nur zu bearbeiten, wenn in der Software die elektronische |  |
-|  |  |
-| 1. |  |
-|  |  |
-| Anhang 4.3 |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| 8007 |  |
-| Männlich |  |
-|  |  |
-
-|  | |
-|---|---|
-| **Allgemeine Daten** | |
-| Patientennummer | 8007 |
-| Geschlecht der/des Versicherten | Männlich |
-| **Untersuchungsdatum** | |
-| Untersuchungsdatum | 01.01.2020  01.01.2024 |
 
 Seite 21 von 27 / KBV / Pruefpaket Hautkrebs-Screening / Version: 3.03 / 30. Mai 2025
 
-Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs-Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist. Versichertendaten: Die Versichertendaten von Alexander Laas ( ) im Ersatzverfahren erfassen und speichern. 2. Anlegen einer Hautkrebs-Dokumentation durch einen Dermatologen
+Dermatogen. der KVen) umgesetzt. eHKS-Dokumentationsunterlagen Nachweis über die Auswahl des Dokumententyps durch Screenshots Dokumentation Hautkrebs-Screening im Rahmen von ergänzenden Verträgen (z.B. §73c SGBV) implementiert ist.
 
 ---
 
-|  | |
-|---|---|
-|  | |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  | |
-|  |  |
-|  |  |
 | Basalzellkarzinom | Ja |
+|---|---|
 | Spinozelluläres Karzinom | Nein |
 | anderer Hautkrebs | Ja |
 | sonstiger mit Biopsie abklärungsbedürftiger Befund | Nein |

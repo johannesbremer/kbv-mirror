@@ -38,19 +38,17 @@ Labor
 
 Sono
 
+**Mitgegebene Unterlagen:**
+
 Sonstige:
 
-Vorberichte
-
-Labor
-
-**Mitgegebene Unterlagen:**
+Labor Vorberichte
 
 Der Überleitungsbogen wurde der Patientin / dem Patienten mitgegeben. Patientin / Patient übergibt die Unterlagen persönlich.
 
-Pflegestufe beantragt
-
 **Beantragte Leistungen:**
+
+Pflegestufe beantragt
 
 Es wird bescheinigt, dass keine Anhaltspunkte für das Vorliegen einer ansteckungsfähigen Krankheit im Sinne des Infektionsschutz gesetzes (einschließlich ansteckungsfähiger Lungentuberkulose und MRE) vorliegen.
 
@@ -138,6 +136,8 @@ Hausarzt
 
 **503 Anlage 7a**
 
-**abends nachts** t g u ezr e  si x ar ptzr A r e d  ni r e k c ur dr e s a L  sl etti m  e dr u w r al u mr o F  s e s ei D
+**abends nachts**
 
 OP
+
+t g u ezr e  si x ar ptzr A r e d  ni r e k c ur dr e s a L  sl etti m  e dr u w r al u mr o F  s e s ei D

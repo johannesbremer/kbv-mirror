@@ -93,7 +93,7 @@ zu Lasten der GKV
 | Mobilität | Kognition | Schmerz | Herz-/Lungenfunktion |
 |---|---|---|---|
 | Chair |  | Schmerz- |  |
-| TUG sek **+** sek | MMST / 30 |  | WattErgometrie/10 |
+| TUG sek **+** sek | MMST / 30 |  | Watt Ergometrie/10 |
 | Rise |  | skala |  |
 | Hand- |  |  |  |
 | kg **oder** kpa | GDS 15 / 15 |  | FEV1 % **+** VK % |
@@ -101,6 +101,10 @@ zu Lasten der GKV
 |  | Uhren- |  | NYHA- |
 | DEMMI / 100 Tinetti / 28 | / 7 |  |  |
 |  | test |  | Stadium |
+
+Ergometrie
+
+/ 10
 
 **D. Bisherige ärztliche/psychotherapeutische Interventionen sowie andere Maßnahmen***** (z. B. Patientenschulungen, Reha-***
 

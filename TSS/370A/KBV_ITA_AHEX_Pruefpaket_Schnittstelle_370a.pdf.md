@@ -22,9 +22,9 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **4**
 
-| 2 | PRÜ FVORGABEN | 5 |
+| 2 | PRÜFVORGABEN | 5 |
 |---|---|---|
-| 2.1 | Prü funterlagen | 5 |
+| 2.1 | Prüfunterlagen | 5 |
 | 2.2 | Zertifizierungsablauf | 5 |
 |  | 2.2.1 Zertifizierungsportal | 5 |
 
@@ -45,9 +45,6 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 7
 
 Seite 2 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
-
-PRÜFVORGABEN Prüfunterlagen 
-
 
 ---
 

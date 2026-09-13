@@ -331,6 +331,34 @@ Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokum
 
 ---
 
+# 2 EINLEITUNG
+
+Die vorliegende Schnittstellenbeschreibung definiert das Format der ICD-10-GM Stammdatei der KBV im  XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD].
+
+Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen  Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV)  ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.
+
+# 3 KONVENTIONEN
+
+## ZEICHENSATZ
+
+Standard-Zeichensatz ist ISO-8859-15.
+
+## NAMENSPACE
+
+Standard-Namespace ist **urn:ehd/icd/001**
+
+## ROOT-SCHEMA
+
+Das Root--Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata  inkludiert sind, heißt **icd_root.xsd**
+
+## DATEINAMEN
+
+Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.
+
+Dateinamenskonvention nach ehd-Richtlinie:
+
+**[ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml**
+
 | BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS | |
 |---|---|
 | **Bestandteile des** | **Beschreibung** |
@@ -342,34 +370,25 @@ Bereitschaftsdienst <kodierrichtlinien_liste> und <akr_ref> wurden aus der Dokum
 | YYYY | Jahr |
 | nr+ | number – optional Nummer der Lieferung, falls zu einem Zeitraum mehrere |
 | du+ | dummy – optionaler Platzhalter z.B. für Tests, kann auch mehrmals |
-| 2 Die vorliegende Schnittstellenbeschreibung definiert das Format der ICD-10-GM Stammdatei der KBV im | |
-|  | |
 
 Seite 8 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
-EINLEITUNG XML-Format. Das XML-- Format orientiert sich dabei an die ehd Richtlinie [KBV_ITA_VGEX_EHD]. Diese Datei wird den Softwarehäusern, die Arztpraxissoftware herstellen, sowie den Kassenärztlichen Vereinigungen vom Dezernat Digitalisierung und IT der Kassenärztlichen Bundesvereinigung (KBV) ausschließlich zur Nutzung in der vertragsärztlichen Versorgung zur Verfügung gestellt.  3 KONVENTIONEN ZEICHENSATZ Standard-Zeichensatz ist ISO-8859-15. NAMENSPACE Standard-Namespace ist urn:ehd/icd/001 ROOT-SCHEMA Das Root-- Schema, worin die abgeleiteten ehd Schemata sowie die projektbezogenen body-Schemata inkludiert sind, heißt icd_root.xsd Die Vergabe der Dateinamen erfolgt nach ehd-Richtlinie.  Dateinamenskonvention nach ehd-Richtlinie:  [ehd.]datatyp_vv.vv_sender_tf+val_nr+val_du+val.xml  Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Lieferungen erfolgen 
+Dateinamens Header-Element <document_type_cd>. des Header-Elements <interface>. Daten identisch) bzw. wer hat die Daten geliefert; Entspricht dem Element <person> oder dem Element <organization> des Header-Elements <provider>. Lieferungen erfolgen 
 
 
 ---
 
-|  | |
-|---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| **BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS** | |
-| verwendet werden | |
+\| BESCHREIBUNG DER BESTANDTEILE DES DATEINAMENS |
+\|---|
+\| verwendet werden |
+
+Tabelle 1: Beschreibung der Bestandteile des Dateinamens
+
+Beispiel:
+
+- ICD_01.00_74_tf+2013_nr+1.xml
 
 Seite 9 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
-Tabelle 1: Beschreibung der Bestandteile des Dateinamens Beispiel: ICD_01.00_74_tf+2013_nr+1.xml  
-
 
 ---
 
@@ -438,9 +457,7 @@ Für die XML-Dateien ist der Zeichensatz ISO-8859-15 vorgeschrieben. Bei allen E
 
 Abbildung 1: /ehd (root-Element)
 
-- Element hat folgenden Aufbau:
-
-Das ***<ehd>***
+Das ***<ehd>*** - Element hat folgenden Aufbau:
 
 \| **<?xml version="1.0" encoding="ISO-8859-15"?>  <ehd:ehd xmlns="urn:ehd/001"  <ehd:header>  ...  </ehd:header>  <ehd:body>  ...  </ehd:body>  </ehd:ehd>** |
 \|---|
@@ -451,13 +468,9 @@ ehd_version: Im XML-File wird die Versionsnummer zur zugrundeliegenden ehd-Richt
 
 Um die Aufwärtskompatibilität zu gewährleisten, wird kein fester Wert für die Version  vorgegeben.
 
-Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body
+***<header>*** Der Header ist ein Pflichtelement, hier befinden sich die Metadaten zu den im body  liegenden eigentlichen Inhaltsdaten.
 
-***<header>***  liegenden eigentlichen Inhaltsdaten.
-
-Hier liegen die eigentlichen Inhalte der Datenlieferung.
-
-***<body>***
+***<body>***  Hier liegen die eigentlichen Inhalte der Datenlieferung.
 
 Der Namensraum für die ehd-„Schnittstelle ist zwingend vorgeschrieben: ***urn:ehd/001***
 
@@ -651,26 +664,23 @@ Seite 19 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD
 
 ---
 
-\| <diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/> |
+Abbildung 12: diagnose optionale Elemente
+
+Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,-’ mit  Beispielen für zwei dort untergeordnete Kodierungen verwendet):
+
+\| **<diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/>** |
 \|---|
-\| Abbildung 12: diagnose optionale Elemente          Der XML-Code für ein <diagnose> Element hat folgenden Aufbau (im Beispiel wird die Kodierung ‚Z00,    **<diagnose>  <icd_code V="Z00.-"/>  <bezeichnung V="..."/>  <abrechenbar V="..."/>** |
 
 Seite 20 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
--’ mit Beispielen für zwei dort untergeordnete Kodierungen verwendet): 
-
-
 ---
 
-\| <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose> |
-\|---|
 \| **<notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>  <diagnose>  <icd_code V="Z00.0"/>  ...  </diagnose>  <diagnose>  <icd_code V="Z00.1"/>  ...  <diagnose>  ...  </diagnosen_liste>  <diagnosethesaurus_liste>  ...  </>  <verschluesselungsanleitung_liste>  ...  </>  </diagnose>**** |
+\|---|
 
 Formel 11: XML-Code: diagnose
 
-\| ** <diagnosethesaurus_liste>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/> |
-\|---|
-\| **<notationskennzeichen V="..."/>  <geschlechtsbezug V="..." DN="..."/>  <geschlechtsbezug_fehlerart V="..." DN="..."/>  <untere_altersgrenze V="..."/>  <obere_altersgrenze V="..."/>  <altersbezug_fehlerart V="..."/>  <krankheit_in_mitteleuropa_sehr_selten V="..."/>  <schlüsselnummer_mit_inhalt_belegt V="..."/>  <infektionsschutzgesetz_meldepflicht V="..."/>  <infektionsschutzgesetz_abrechnungsbesonderheit V="..."/>   <keine_dauerdiagnose V="..."" DN="..."/>  <diagnosen_liste>** |
+## DIAGNOSETHESAURUS_LISTE
 
 Das Element <diagnosethesaurus_liste> umschließt eine Liste von <diagnosethesaurus> Elementen. Alle  einer Diagnose untergeordneten <diagnosethesaurus> Elemente enthalten alternative Diagnosetexte zu  der übergeordneten Diagnose.
 
@@ -682,16 +692,15 @@ Abbildung 13: diagnosethesaurus_liste
 
 Der XML-Code für ein <diagnosethesaurus_liste> Element hat folgenden Aufbau:
 
+\| ****<diagnosethesaurus_liste>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/>** |
+\|---|
+
 Seite 21 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
-
-DIAGNOSETHESAURUS_LISTE 
-
 
 ---
 
-\|  |
-\|---|
 \| **<arztgruppe V="..." DN="..."/>  </>  </diagnosethesaurus>  <diagnosethesaurus V="...">  <arztgruppen_liste>  <arztgruppe V="..." DN="..."/>  <arztgruppe V="..." DN="..."/>  </>  </diagnosethesaurus>  ...  </>**** |
+\|---|
 
 Formel 12: XML-Code: diagnosethesaurus_liste
 
@@ -840,10 +849,14 @@ Der XML-Code für ein <abrechenbar> Element hat folgenden Aufbau:
 \| ****Wert (** |
 \|---|
 
+Formel 20: XML-Code: abrechenbar
+
 | ABRECHENBAR |  |
 |---|---|
 | j | ja |
 | n | nein |
+
+Bedeutung (optional **DN="..."**
 
 Tabelle 7: Ausprägungen der Attribute des Elements <abrechenbar>
 
@@ -853,9 +866,8 @@ Das optionale Element <notationskennzeichen> befindet sich auf der untersten Hie
 
 Seite 26 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
-**DN="..."**
+<abrechenbar V="..." DN="..."/> V="..."
 
-<abrechenbar V="..." DN="..."/> Formel 20: XML-Code: abrechenbar ABRECHENBAR V="..." Bedeutung (optional
 
 ---
 
@@ -888,11 +900,12 @@ Der XML-Code für ein <geschlechtsbezug> Element hat folgenden Aufbau:
 \| **<geschlechtsbezug V="..." DN="..."/>**** |
 \|---|
 
+Formel 22: XML-Code geschlechtsbezug
+
 | GESCHLECHTSBEZUG |  |
 |---|---|
 | **Wert (** | Bedeutung (optional |
 | w | weiblich |
-| Formel 22: XML-Code geschlechtsbezug |  |
 
 Seite 27 von 34 / KBV / Schnittstellenbeschreibung SDICD (ICD-10-GM-Stammdatei) / Version: 2.4.0 / 15. November 2021
 
@@ -902,11 +915,8 @@ V="..." DN="..." V="..." DN="..."
 
 ---
 
-|  |  |
-|---|---|
-|  |  |
-|  |  |
 | m | männlich |
+|---|---|
 
 Tabelle 9: Ausprägungen der Attribute des Elements <geschlechtsbezug>
 

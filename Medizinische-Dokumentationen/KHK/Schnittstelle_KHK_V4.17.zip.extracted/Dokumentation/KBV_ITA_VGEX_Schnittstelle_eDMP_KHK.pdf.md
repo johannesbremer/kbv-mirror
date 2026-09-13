@@ -349,7 +349,7 @@ Seite 6 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Versi
 
 ---
 
-DOKUMENTENHISTORIE
+# DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
@@ -358,8 +358,6 @@ DOKUMENTENHISTORIE
 | 4.15 | 12.03.2021 | KBV | Redaktionelle Anpassung |  | 28 |
 | 4.15 | 15.02.2021 | KBV | Redaktionelle Anpassungen |  | 10, 20,  36 |
 | 4.15 | 22.10.2020 | KBV | Anpassung an die aktualisierten  Überführung in neues Design  Vereinheitlichung des Wordings  Verschieben des Kapitels von  Textuelle Anpassungen an  Löschung der nicht  Vereinheitlichung der Angabe  Anpassung an die aktualisierten | Beschluss des G-BA      Redaktionelle Anpassungen und                          Streichung der Kapitel 6.1.6.2,    Hinzufügung der Kapitel 6.1.6.2,    Anpassung der Kapitel 6.1.6, | 20      Alle                      14ff            27, 30,  30, 31,  32, 34,  35  25, 27,  28, 29,  29, 31,  32, 32,  36, 36 |
-|  |  |  |  |  |  |
-|  | 4.17 |  | 14.11.2025 | KBV | Anpassung an die aktualisierten |
 
 Seite 7 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
@@ -368,14 +366,8 @@ Plausibilitäten der Anlage 2 (Einschreibung wegen) Plausibilitäten der Anlage 
 
 ---
 
-|  |  |  |  |  |  |
+| Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 01.08.2019 | Redaktionelle Anpassung der | Der Wert „Chronische | 21 |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| **Version** | **Datum** | **Autor** | **Änderung** | **Begründung** | **Seite** |
 | 4.14 | 01.08.2019 | KBV | Redaktionelle Anpassung der | Der Wert „Chronische | 21 |
 
 Seite 8 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
@@ -497,7 +489,7 @@ Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches meh
 \|  |
 \|---|
 
-\| Ein Element mit einem oder mehreren Kindelementen wird durch ein |
+\|  |
 \|---|
 
 
@@ -562,14 +554,18 @@ Abbildung 2 dargestellt.
 
 ---
 
-**6.1** **SEKTION (SECTION)**
+## 6.1 SEKTION (SECTION)
 
-\| Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>- Abbildung 3 dargestellt. **Abbildung 3:** |
-\|---|
+Das <section>-Element setzt sich aus genau sechs <paragraph>-Elementen zusammen. Ein <paragraph>-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements  ist in Abbildung 3 dargestellt.
+
+**Abbildung 3:** Grundstruktur section
+
+Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante  Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>-Element untergebracht sind.
 
 Seite 15 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
-Element beinhaltet die Kindelemente <caption> und <content>. Die Grundstruktur des <section>-Elements ist in  Grundstruktur section Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“, „Relevante Ereignisse“, „Medikamente“, „Schulung“ und „Behandlungsplanung“, die jeweils in einem <paragraph>- Element untergebracht sind. 
+\|  |
+\|---|
 
 
 ---
@@ -649,27 +645,27 @@ Der XML-Code zum Element <Parameter> sieht folgendermaßen aus:
 
 Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen, die als Text im Datensatz  hinterlegt sind (z.B. „Ja“ und „Nein“), werden in diesem Element, im *V-*Attribut, angegeben. Der XML-Code  zum Element <Ergebnistext> sieht folgendermaßen aus:
 
-\| <sciphox:Beobachtung>       6.1.3 </sciphox:Beobachtung> |
+\| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 7:**
+**XML-Code 7:** Ergebnistext
 
-### 6.1.3.3
+### 6.1.3.3 Ergebniswert
 
 Das Element <Ergebniswert> enthält nur das *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im *V-*Attribut, angegeben. Als  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
 \| <sciphox:Beobachtung>       </sciphox:Beobachtung> |
 \|---|
 
-**XML-Code 8:**
+**XML-Code 8:** Ergebniswert
 
-### 6.1.3.4
+### 6.1.3.4 Beobachtungen
 
-In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parameter in einem  Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel
+In einigen Fällen ist es notwendig weitere Beobachtungen zu einem Parameter in einem  Beobachtungsblock anzugeben. Das Element <Beobachtungen> enthält in diesen Fällen weitere  Kindelemente <Beobachtung>. Beide Elemente haben den gleichen Aufbau und Kindelemente, wie im  Kapitel 6.1.3 schon beschrieben wurde.
 
 Seite 19 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
-<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ...  Ergebnistext Ergebniswert <sciphox:Ergebniswert V=". . ." U="..."/>  Ergebniswert Beobachtungen  schon beschrieben wurde.  
+<sciphox:Parameter DN="..."/> <sciphox:Ergebnistext V="..."/> ... <sciphox:Ergebniswert V=". . ." U="..."/>
 
 
 ---
@@ -1231,7 +1227,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 ### 6.1.9.1 Vom Patienten gewünschte Informationsangebote der Krankenkasse
 
-Bei diesem Parameter enthält das Element gemäß Tabelle 19. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 19. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1246,19 +1242,16 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ernährungsberatung |
 \| Körperliches Training |
 
-<sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
-
 **Tabelle 19:** Werte bei Ergebnistext (Vom Patienten gewünschte Informationsangebote der  Krankenkasse)
 
 ### 6.1.9.2 Dokumentationsintervall
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß Tabelle 20
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 20
 
 Seite 33 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Version: 4.17 / 14. November 2025
 
-*V*-Attribut die Feldbezeichnung
+<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges sportliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/> 
 
-<local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Regelmäßiges sportliches Training"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse "/> <sciphox:Ergebnistext V="Körperliches Training“/>
 
 ---
 
@@ -1342,7 +1335,7 @@ Seite 35 von 39 / KBV / Schnittstellenbeschreibung Koronare Herzkrankheit / Vers
 
 ### Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  stationärer Behandlungen wegen KHK seit der letzten Dokumentation“ und im  vorgeschriebenen Wert „Anzahl“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die „Anzahl ungeplanter  stationärer Behandlungen wegen KHK seit der letzten Dokumentation“ und im *U*-Attribut den fest  vorgeschriebenen Wert „Anzahl“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1350,8 +1343,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 
 **XML-Code 39:** Ungeplante stationäre Behandlung wegen KHK seit der letzten Dokumentation
-
-*V*-Attribut die „Anzahl ungeplanter  *U*-Attribut den fest
 
 ### 7.1.2 Abschnitt „Schulung“
 

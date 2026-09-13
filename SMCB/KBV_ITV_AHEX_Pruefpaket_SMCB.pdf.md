@@ -17,8 +17,6 @@
 
 ---
 
-> [OCR REQUIRED — page 2]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
@@ -30,7 +28,7 @@ INHALT
 | 1.1 | Grundlage | 4 |
 | 1.2 | Zertifizierungsablauf | 4 |
 | 1.3 | Zertifizierungsdokumente | 5 |
-| 1.4 | Prü fu nte rla gen | 5 |
+| 1.4 | Prüfunterlagen | 5 |
 
 **2** **PRÜFFFÄLLE**
 
@@ -49,9 +47,6 @@ INHALT
 **8**
 
 Seite 3 von 8 / KBV/ Prüfpaket Sektorzulassung SMC-B / Version: 2.1 / 10. Juni 2026
-
-Prüfunterlagen 
-
 
 ---
 
@@ -111,17 +106,11 @@ Seite 5 von 8 / KBV/ Prüfpaket Sektorzulassung SMC-B / Version: 2.1 / 10. Juni 
 
 ---
 
-> [OCR REQUIRED — page 6]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
-> [OCR REQUIRED — page 7]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.
 
 
 ---
 
-> [OCR REQUIRED — page 8]
-> This page is a scanned/rasterised image with no extractable text layer; run OCR to recover its content.

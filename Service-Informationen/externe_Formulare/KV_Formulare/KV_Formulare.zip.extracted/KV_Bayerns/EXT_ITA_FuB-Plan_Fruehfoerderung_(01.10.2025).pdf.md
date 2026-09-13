@@ -1,6 +1,4 @@
-Krankenkasse bzw. Kostenträger
-
-Zuzah-lungs-
+Zuzah- Krankenkasse bzw. Kostenträger lungs-
 
 frei
 
@@ -8,21 +6,13 @@ Zuzah- Name, Vorname des Versicherten lungs-
 
 pflicht
 
-Unfall-folgen
-
-Kostenträgerkennung Versicherten-Nr. BVG
-
-Für die Abrechnung IK-Kennzeichen Leistungserbringer
-
-Gesamt-Brutto
-
 geb. am
 
-Positionsnummer Status
+Unfall-folgen
 
-Rechnungsnummer Beleg Nr.
+Kostenträgerkennung Versicherten-Nr.
 
-Faktor/Anzahl
+Status BVG
 
 Betriebsstätten-Nr. Arzt-Nr.
 
@@ -36,13 +26,11 @@ Name, Vorname
 
 Telefonnummer
 
-Abweichende Adresse von Versichertendaten
-
-## Förder- und Behandlungsplan für Komplexleistungen gemäß Rahmenvertrag zur Früherkennung
+## Förder- und Behandlungsplan für Komplexleistungen
 
 und Frühförderung behinderter und von Behinderung bedrohter Kinder in interdisziplinären Frühförderstellen in Bayern (RV IFS)  - für **Ärztin / Arzt** / Frühförderstelle / Personensorgeberechtigte / Kostenträger
 
-o Erstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher **Beginn**: ________________________ (Datum)
+o Erstausstellung  o Folgeplanung o Änderungsplanung voraussichtliche Behandlungsdauer in Monaten: _______________ voraussichtlicher
 
 **Zusammenfassendes Ergebnis der (Eingangs-) Diagnostik und Bedarfsermittlung**
 
@@ -52,7 +40,7 @@ ________________________________________________________________________________
 
 **ICD 10** (Bitte stets angeben): _______________________________________________________________________________________________________
 
-**IFS** Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen):  ________________________________________________________________________________________________________________________________
+**IFS** Diagnose/Befund (unter Angabe Fähigkeitsstörungen/Auswirkungen): ________________________________________________________________________________________________________________________________
 
 Eine Behinderung der Selbstbestimmung und/oder gleichberechtigten Teilhabe an der Gesellschaft im Sinne von §§ 1, 2 SGB IX als Wechselwirkung zwischen  einstellungs- und umweltbedingten Barrieren und einer
 
@@ -66,81 +54,81 @@ o geistigen Beeinträchtigung
 
 o
 
-o o
+o seelischen Beeinträchtigung
 
 o
 
-seelischen Beeinträchtigung  Sinnesbeeinträchtigung
+o Sinnesbeeinträchtigung
 
 o
 
 o
 
-o Behandlung SIFS* erforderlich
-
-Offenes Beratungsangebot wurde durchgeführt o ja
-
-o nein Komplexleistung ist notwendig
+Offenes Beratungsangebot wurde durchgeführt o ja Komplexleistung ist notwendig
 
 o ja
 
-o nein
-
 Form und Umfang der Behandlung:
 
-ambulante
+ambulante  **Einzel**behandlung
 
-ambulante
-
-**mobile**
-
-kann als  **Einzel**behandlung
-
-**Gruppen**behandlung
-
-**Einzel**behandlung
-
-**Doppel-BE** er-
-
-gemäß § 6a FrühV
-
-bracht werden
-
-Physiotherapie
+o Physiotherapie
 
 __ BE o je Monat
 
-__ BE o je Monat
-
-__ BE o je Monat
-
-o
-
-o o Stimm-, Sprech-,
-
-__ BE o je Monat
-
-__ BE o je Monat
-
-__ BE o je Monat
-
-o Sprach- und Schlucktherapie o Ergotherapie
-
-__ BE o je Monat
-
-__ BE o je Monat
-
-__ BE o je Monat
-
-o
-
-__ BE (im Bewilligungszeitraum) __ BE (im Bewilligungszeitraum)
-
-__ BE (im Bewilligungszeitraum)
+o Stimm-, Sprech-, Sprach- und Schlucktherapie o Ergotherapie
 
 o psychologische/  heilpädagogische Leistungen  (incl. evtl. psychosozialer Leistungen)
 
 * SIFS = sinnesbehinderungsspezifische, überregionale interdisziplinäre Frühförderstellen
+
+__ BE o je Monat
+
+__ BE o je Monat
+
+__ BE (im Bewilligungszeitraum)
+
+Für die Abrechnung IK-Kennzeichen Leistungserbringer
+
+Gesamt-Brutto
+
+Positionsnummer
+
+**Beginn**: ________________________ (Datum)
+
+o nein o nein
+
+ambulante  **Gruppen**behandlung
+
+__ BE o je Monat  __ BE o je Monat
+
+__ BE o je Monat
+
+__ BE (im Bewilligungszeitraum)
+
+Rechnungsnummer Beleg Nr.
+
+Faktor/Anzahl
+
+Abweichende Adresse von Versichertendaten
+
+gemäß Rahmenvertrag zur Früherkennung
+
+o Behandlung SIFS* erforderlich
+
+**mobile**  **Einzel**behandlung  gemäß § 6a FrühV
+
+__ BE o je Monat  __ BE o je Monat
+
+__ BE o je Monat
+
+__ BE (im Bewilligungszeitraum)
+
+kann als  **Doppel-BE** er-bracht werden
+
+o o
+
+o
 
 
 ---

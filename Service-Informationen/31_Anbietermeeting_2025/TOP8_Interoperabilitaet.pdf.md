@@ -234,9 +234,7 @@ SEITE 10
 
 ## - Was ist ein Kerndatensatz?
 
-- Der Begriff "Kerndatensätze" beschreibt ein national einheitliches, harmonisiertes Set von  klinischen und/oder gesundheitsbezogenen Datenelementen, die über mehrere  Anwendungsfälle hinweg genutzt werden, um die Interoperabilität innerhalb eines Landes zu
-
-## - erleichtern.
+- Der Begriff "Kerndatensätze" beschreibt ein national einheitliches, harmonisiertes Set von  klinischen und/oder gesundheitsbezogenen Datenelementen, die über mehrere  Anwendungsfälle hinweg genutzt werden, um die Interoperabilität innerhalb eines Landes zu  erleichtern.
 
 ## - Ein Kerndatensatz besteht meist aus einem technologieneutralen nationalen
 
@@ -477,9 +475,7 @@ SEITE 18
 
 ## - Identifizierung und Authentifizierung von Angehörigen der Gesundheitsberufe, umfassende
 
-Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse
-
-## - erforderlichen Instrumente.
+Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse  erforderlichen Instrumente.
 
 - **ÜBERBLICK EUROPA EHDS**
 
@@ -532,10 +528,7 @@ WP 5.1 - **Allgemeine Anforderungen** - Beispiele für verpflichtende Anforderun
 
 ## - Interoperabilitätsmatrizen einreichen.
 
-- Die gelieferte Software darf während der Installation weder ihre wesentlichen Eigenschaften
-
-## - noch ihre Leistungsfähigkeit einbüßen.
-
+- Die gelieferte Software darf während der Installation weder ihre wesentlichen Eigenschaften  noch ihre Leistungsfähigkeit einbüßen.
 - **ÜBERBLICK EUROPA EHDS**
 
 **INTEROPERABILITÄT**
@@ -553,9 +546,7 @@ SEITE 21
 
 ## - Interoperabilitätsanforderungen
 
-- spezifizieren das Design und die technischen Fähigkeiten, die  für den sicheren Austausch und Empfang personenbezogener elektronischer Gesundheitsdaten  erforderlich sind, einschließlich der strukturierten Dateneingabe und der Verhinderung
-
-## - unzulässiger Zugangs- oder Exportbeschränkungen.
+- spezifizieren das Design und die technischen Fähigkeiten, die  für den sicheren Austausch und Empfang personenbezogener elektronischer Gesundheitsdaten  erforderlich sind, einschließlich der strukturierten Dateneingabe und der Verhinderung  unzulässiger Zugangs- oder Exportbeschränkungen.
 
 ## - Beispiele für verpflichtende Anforderungen(Übersetzt)
 
@@ -563,10 +554,7 @@ SEITE 21
 
 ## - Patientensicherheit nicht beeinträchtigen.
 
-- Das System muss eine Schnittstelle (API) bieten, die die Datenausgabe im EEHRxF-Format
-
-## - unterstützt.
-
+- Das System muss eine Schnittstelle (API) bieten, die die Datenausgabe im EEHRxF-Format  unterstützt.
 - **ÜBERBLICK EUROPA EHDS**
 
 **INTEROPERABILITÄT**
@@ -606,9 +594,7 @@ SEITE 23
 
 ## - Identifizierung und Authentifizierung von Angehörigen der Gesundheitsberufe, umfassende
 
-Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse
-
-## - erforderlichen Instrumente.
+Protokollierung von Zugriffsereignissen und die für die Protokollprüfung und -analyse  erforderlichen Instrumente.
 
 ## - Beispiele für verpflichtende Anforderungen(Übersetzt)
 
@@ -635,21 +621,13 @@ WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für ver
 
 ## - Das Protokoll muss mindestens folgende Angaben enthalten:
 
-- Die Kennung des Gesundheitsdienstleisters und der Person, die auf die Daten zugegriffen
-
-## - hat.
-
+- Die Kennung des Gesundheitsdienstleisters und der Person, die auf die Daten zugegriffen  hat.
 - Die Identifizierung der konkreten natürlichen Person(en), auf deren Daten zugegriffen wurde  (d. h. Patienten-ID).
-- Die Kategorien (und gegebenenfalls Typen) der Daten, auf die zugegriffen wurde, um eine
-
-## - detaillierte Protokollierung zu ermöglichen.
-
+- Die Kategorien (und gegebenenfalls Typen) der Daten, auf die zugegriffen wurde, um eine  detaillierte Protokollierung zu ermöglichen.
 - Uhrzeit und Datum des Zugriffs.
 - Die Herkunft oder Quelle der Daten.
 
-ii. Breaking the glass: Wenn ein „Breaking the glass”-Szenario eingetreten ist, muss das Ereignis
-
-## - als solches gekennzeichnet werden.
+ii. Breaking the glass: Wenn ein „Breaking the glass”-Szenario eingetreten ist, muss das Ereignis  als solches gekennzeichnet werden.
 
 - **ÜBERBLICK EUROPA EHDS**
 
@@ -662,25 +640,18 @@ SEITE 25
 
 ---
 
-## Überblick Europa EHDS
+|  |  |  |  |  | ↗ ÜBERBLICK EUROPA EHDS |
+|---|---|---|---|---|---|
+|  | **Überblick** | | **Europa** | **EHDS** |  |
+| WP | 5.1 - | **Sicherheits-** | | **und** | **Protokollierungsanforderungen -** Beispiele für verpflichtende |
+|  |  | Anforderungen(Übersetzt) | | |  |
+| › | Das | EHR-System | | muss | potenziell unterschiedliche Gesetze oder Vorschriften in mehreren |
+|  |  | Mitgliedstaaten | | berücksichtigen | – insbesondere für primäre Kategorien personenbezogener |
+|  |  | elektronischer |  | Gesundheitsdaten. | |
+|  | **INTEROPERABILITÄT** |  |  |  | SEITE 26 |
+| 31. | ANBIETERMEETING | DER KBV | AM 18. | SEPTEMBER 2025 |  |
 
-WP 5.1 - **Sicherheits- und Protokollierungsanforderungen -** Beispiele für verpflichtende
-
-## Anforderungen(Übersetzt)
-
-## - Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren
-
-## - Mitgliedstaaten berücksichtigen – insbesondere für primäre Kategorien personenbezogener
-
-## - elektronischer Gesundheitsdaten.
-
-- **ÜBERBLICK EUROPA EHDS**
-
-**INTEROPERABILITÄT**
-
-SEITE 26
-
-31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
+Überblick Europa EHDS WP 5.1 - Sicherheits- und Protokollierungsanforderungen - Das EHR-System muss potenziell unterschiedliche Gesetze oder Vorschriften in mehreren Mitgliedstaaten berücksichtigen – insbesondere für primäre Kategorien personenbezogener elektronischer Gesundheitsdaten. 31. ANBIETERMEETING DER KBV AM 18. SEPTEMBER 2025
 
 
 ---

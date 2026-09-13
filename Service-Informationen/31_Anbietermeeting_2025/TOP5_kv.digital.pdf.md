@@ -83,9 +83,7 @@ z.B. „Terminbuchung  aus dem PVS“
 
 - Abfrage von Abrechnungsinformationen durch das PVS zu einem  über den 116117 Terminservice vermittelten Termin
 - Spezifikation veröffentlicht
-- Hersteller, die ihren Kunden die Schnittstelle anbieten wollen, müssen  bis 30.09.2025 die Zertifizierung bei der KBV erfolgreich durchlaufen
-
-# - haben.
+- Hersteller, die ihren Kunden die Schnittstelle anbieten wollen, müssen  bis 30.09.2025 die Zertifizierung bei der KBV erfolgreich durchlaufen  haben.
 
 
 ---
@@ -300,7 +298,9 @@ Funktion)
 
 V) ist die Kassenärztliche
 
-Bundesvereinigung verpflichtet, die Nutzung der in  ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis  international anerkannter Standards  veröffentlichen.
+Bundesvereinigung verpflichtet, die Nutzung der in  ihrem elektronischen System bereitgestellten  Informationen durch Dritte zu ermöglichen Hierzu muss sie eine Schnittstelle auf Basis  international anerkannter Standards
+
+veröffentlichen.
 
 4
 
@@ -644,15 +644,15 @@ via KIM an
 
 - Alle Datenannahmestellen nehmen
 
-# Connect auf KIM bei Ihren Kunden!!
-
 ## - eDMP
 
 auf KIM durch die
 
 ## - eDMPs
 
-via KIM an 35
+# Connect auf KIM bei Ihren Kunden!!
+
+- via KIM an 35
 
 
 ---

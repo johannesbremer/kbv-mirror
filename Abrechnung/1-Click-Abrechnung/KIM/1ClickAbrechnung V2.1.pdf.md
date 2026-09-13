@@ -87,9 +87,9 @@ Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket ode
 
 ---
 
-1ClickAbrechnung V2.1
-
 **Änderungshistorie:**
+
+1ClickAbrechnung V2.1
 
 **Version Datum Autor Kapitel Änderung**
 
@@ -97,15 +97,39 @@ Funktion 10: Fachliche Rückmeldung zu einer Echtabrechnung, einem Echtpaket ode
 
 2.1.12 14.08.2026 kv.digital 3
 
+2.1.11 08.05.2026 kv.digital 3
+
+2.1.10 15.05.2025 kv.digital 3
+
+2.1.9 13.09.2024 kv.digital 3
+
+2.1.8 07.09.2023 kv.digital 3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+4
+
+2.1.7 11.11.2021 kv.digital 3 GmbH 3
+
 Präzisierung von Anforderung [1Click0813] in Kraft
 
-redaktionelle Änderungen 2.1.11 08.05.2026 kv.digital 3
+redaktionelle Änderungen
 
 Änderung [1Click0142] und [1Click0332]:
 
-außer Kraft Metainformationen der Anhänge (filename  statt name wird Pflichtangabe) aufgrund  RFC2045 und RFC2183 2.1.10 15.05.2025 kv.digital 3
+außer Kraft Metainformationen der Anhänge (filename  statt name wird Pflichtangabe) aufgrund  RFC2045 und RFC2183
 
-Aufnahme Anforderung [1Click0820]: Aktion außer Kraft des Anwenders, wenn Rückmeldungen  ausbleiben 2.1.9 13.09.2024 kv.digital 3
+Aufnahme Anforderung [1Click0820]: Aktion außer Kraft des Anwenders, wenn Rückmeldungen  ausbleiben
 
 Änderung Hinweis bei [1Click0817]
 
@@ -113,31 +137,27 @@ außer Kraft
 
 Präzisierung bei [1Click0818]
 
-2.1.8 07.09.2023 kv.digital 3
-
 Aufnahme Anforderung [1Click0137]:
 
-außer Kraft Konkretisierung PDF-Format für die  elektronische Sammelerklärung im PDF-Format 3
+außer Kraft Konkretisierung PDF-Format für die  elektronische Sammelerklärung im PDF-Format
 
-Ergänzung Anforderung [1Click0813] zur  Anzeige von Nachrichten 3
+Ergänzung Anforderung [1Click0813] zur  Anzeige von Nachrichten
 
-Aufnahme Anforderung [1Click0818]:  Konkretisierung Anzeige von Nachrichten und  Anhängen 3
+Aufnahme Anforderung [1Click0818]:  Konkretisierung Anzeige von Nachrichten und  Anhängen
 
-Aufnahme Anforderung [1Click0819]: Anzeige  einer Information für den Anwender bei  Auswahl einer KV-seitig nicht unterstützten  Funktion 3
+Aufnahme Anforderung [1Click0819]: Anzeige  einer Information für den Anwender bei  Auswahl einer KV-seitig nicht unterstützten  Funktion
 
-Aufnahme Anforderung [1Click0143]:  Konkretisierung Signaturerstellung für die  elektronsiche Sammelerklärung 3
+Aufnahme Anforderung [1Click0143]:  Konkretisierung Signaturerstellung für die  elektronsiche Sammelerklärung
 
 Entfall Anforderung Anforderung [1Click0140]  aufgrund der Aufnahme von Anforderung  [1Click0143]
 
-3
+Korrektur Beispiel 1ClickAbrechnung-Rückmeldung
 
-Korrektur Beispiel 1ClickAbrechnung-Rückmeldung 4
-
-Aufnahme Referenz Spezifikation Konnektor  der gematik GmbH 2.1.7 11.11.2021 kv.digital 3
+Aufnahme Referenz Spezifikation Konnektor  der gematik GmbH
 
 Korrektur [1Click0130]
 
-außer Kraft GmbH 3
+außer Kraft
 
 Änderung und Ergänzung Hinweis bei  [1Click0141] und [1Click0332]
 
@@ -471,6 +491,8 @@ Seite 12 von 27
 
 ---
 
+1ClickAbrechnung V2.1
+
 **3.3 Anforderungen an die 1ClickAbrechnung-Eingangsbestätigung**
 
 3.3.1 Anforderungen an den Nachrichten-Header
@@ -479,13 +501,13 @@ Die Anforderungen an den Nachrichten-Header sind in der Spezifikation MDN [MDN] 
 
 **[1Click0210]**
 
-Das Header-Element X-KIM-Dienstkennung
+Das Header-Element X-KIM-Dienstkennung **MUSS** genau den
 
-Inhalt " 1ClickAbrechnung;Eingangsbestaetigung;V2.0
+Inhalt " 1ClickAbrechnung;Eingangsbestaetigung;V2.0 " aufweisen.
 
 **[1Click0211]**
 
-Das Header-Element Subject **MUSS** genau den Inhalt "
+Das Header-Element Subject **MUSS** genau den Inhalt " 1ClickAbrechnung-
 
 Eingangsbestaetigung " aufweisen.
 
@@ -497,14 +519,8 @@ Die Anforderungen an den Nachrichten-Body sind in [SPKA] beschrieben.
 
 Die 1ClickAbrechnung-Eingangsbestätigung enthält keine Anhänge.
 
-Seite 13 von 27 1ClickAbrechnung V2.1
+Seite 13 von 27
 
-**MUSS** genau den
-
-" aufweisen.
-
-```
-1ClickAbrechnung```
 
 ---
 

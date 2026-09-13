@@ -242,11 +242,7 @@ Das Installationspaket zum download befindet sich auf der ITA-Update Webseite. E
 
 [http://update.kbv.de/ita-update/KBV-Software/Pruefassistent/](http://update.kbv.de/ita-update/KBV-Software/Pruefassistent/)[](http://update.kbv.de/ita-update/KBV-Software/Pruefassistent/)
 
-[heruntergeladen werden, alternativ kann man auch von der Update-Webseite](http://update.kbv.de/ita-update/KBV-Software/Pruefassistent/)[https://www.kbv.de/html/updates.php](https://www.kbv.de/html/updates.php) dahin navigieren:
-
-```
-[](https://www.kbv.de/html/updates.php)
-```
+[heruntergeladen werden, alternativ kann man auch von der Update-Webseite](http://update.kbv.de/ita-update/KBV-Software/Pruefassistent/)[https://www.kbv.de/html/updates.php](https://www.kbv.de/html/updates.php)[](https://www.kbv.de/html/updates.php) dahin navigieren:
 
 **IT in der Arztpraxis**  KBV-Prüfassistent Handbuch
 
@@ -257,22 +253,32 @@ quartale geprüft werden. Seite 6 von 31
 
 ---
 
+#### Abbildung 1: Link zum download des Prüfassistenten auf der KBV-Homepage
+
+Auf der Download Seite stehen zwei Installationspakete zur Verfügung, eine für die Windows Plattform (.exe-Datei)  und eine weitere plattformunabhängige (.jar-Datei).
+
+Die ausgewählte Datei wird zunächst gespeichert und der Prüfassistent wird anschließend wie im Folgenden be-schrieben installiert.
+
+Starten Sie die Installation mit einem Doppelklick auf die entsprechende Datei
+
+**„KBV-Prüfassistent_V20aa.b.c.exe“**
+
 |  |  |
 |---|---|
-| **Abbildung 1: Link zum download des Prüfassistenten auf der KBV-Homepage** | Auf der Download Seite stehen zwei Installationspakete zur Verfügung, eine für die Windows Plattform (.exe-Datei) |
 
 **IT in der Arztpraxis**  KBV-Prüfassistent Handbuch
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-und eine weitere plattformunabhängige (.jar-Datei).  Die ausgewählte Datei wird zunächst gespeichert und der Prüfassistent wird anschließend wie im Folgenden be- schrieben installiert. Starten Sie die Installation mit einem Doppelklick auf die entsprechende Datei  „KBV-Prüfassistent_V20aa.b.c.exe“Seite 7 von 31
+Seite 7 von 31
 
 
 ---
 
-| Lesen Sie sich die Lizenzverein- | Drücken Sie auf |
-|---|---|
 | Nach kurzer Zeit sehen Sie den Installations- Drücken Sie auf |  |
+|---|---|
+
+**2.2 Installation des KBV-Prüfassistenten**
 
 | Lesen Sie sich die Lizenzverein- Drücken Sie auf |  |
 |---|---|
@@ -281,7 +287,7 @@ und eine weitere plattformunabhängige (.jar-Datei).  Die ausgewählte Datei wir
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-assistenten, der Sie durch den Installations- vorgang begleitet. um den Vor- gang fortzusetzen. 2.2 Installation des KBV- Prüfassistenten barungen genau durch und    bestätigen Sie Ihre Zustimmung indem Sie das entsprechende Feld auswählen. um die Installation des KBV- Prüfassistenten fortzusetzen. Seite 8 von 31
+assistenten, der Sie durch den Installations- vorgang begleitet. um den Vor- gang fortzusetzen. barungen genau durch und    bestätigen Sie Ihre Zustimmung indem Sie das entsprechende Feld auswählen. um die Installation des KBV- Prüfassistenten fortzusetzen. Seite 8 von 31
 
 
 ---
@@ -290,14 +296,14 @@ assistenten, der Sie durch den Installations- vorgang begleitet. um den Vor- gan
 
 | Wählen Sie nun Ihren Installati-   Wenn Sie  Wählen Sie  Drücken Sie auf |  |
 |---|---|
-|  | UHinweisU  sinnvoll ist. |
+|  | UHinweisU In den meisten Fällen ist eine Anpassung des Installationsverzeichnisses nicht notwendig, so dass eine |
 |  |  |
 | Nach kurzer Zeit ist der Vorgang  Drücken Sie auf |  |
 | Der Installationsassistent beseitigt nun zum Abschluss noch die zur Installation benötigten Dateien. Dies geschieht automatisch und kann einen Augenblick in Anspruch nehmen.  Das obenstehende Fenster schließt danach automatisch.  Bitte betätigen Sie während dieser Zeit weder die Maus noch die Tastatur. | |
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-onstyp aus, „Vollständig“  oder „Benutzerdefiniert“ „Vollständig“  wählen, wird der Assistent automatisch in das Standardverzeichnis, unter C:\Programme\KBV\KBV Prüfassistent“  installiert. „Benutzerdefiniert“ um selbst zu entscheiden, in welchem Verzeichnis der KBV – Prüfassistent installiert wird. Im nachfolgenden Dialog können Sie dann mit einem Klick auf „Ändern...“  das Installationsver- zeichnis nach Ihren Wünschen anpassen. um die Installation des KBV- Prüfassistenten zu starten. In den meisten Fällen ist eine Anpassung des Installationsverzeichnisses nicht notwendig, so dass eine vollständige Installation abgeschlossen.  um den Installationsassistenten zu beenden. Seite 9 von 31
+onstyp aus, „Vollständig“  oder „Benutzerdefiniert“ „Vollständig“  wählen, wird der Assistent automatisch in das Standardverzeichnis, unter C:\Programme\KBV\KBV Prüfassistent“  installiert. „Benutzerdefiniert“ um selbst zu entscheiden, in welchem Verzeichnis der KBV – Prüfassistent installiert wird. Im nachfolgenden Dialog können Sie dann mit einem Klick auf „Ändern...“  das Installationsver- zeichnis nach Ihren Wünschen anpassen. um die Installation des KBV- Prüfassistenten zu starten. vollständige Installation  sinnvoll ist. abgeschlossen.  um den Installationsassistenten zu beenden. Seite 9 von 31
 
 
 ---
@@ -326,20 +332,30 @@ nem Doppelklick auf „KBV Prüfassistent“  „Alle Programme“  „KBV Prüf
 |---|---|
 | Nach kurzer Zeit ist der Vorgang  Drücken Sie auf |  |
 
+# 3 Installation auf Nicht-Windows-
+
+## 3.1 Vorbereitung der Installation
+
+Starten Sie die Installation durch folgenden Aufruf im Befehlsfenster:
+
+java --jar KBV Pruefassistent_V202a.b.c.jar
+
 |  |  |
 |---|---|
-| Nach kurzer Zeit sehen Sie den  Drücken Sie auf    Nach kurzer Zeit ist der Vorgang | Drücken Sie auf |
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-Installationsassistent der Sie durch den Updatevorgang begleitet. um den Vorgang fortzusetzen. abgeschlossen.  um den Installationsassistenten beenden. 3 Installation auf Nicht-Windows- 3.1 Vorbereitung der Installation Starten Sie die Installation durch folgenden Aufruf im Befehlsfenster: java -- jar KBV Pruefassistent_V202a.b.c.jar Systemen Seite 11 von 31
+# Systemen
+
+Installationsassistent der Sie durch den Updatevorgang begleitet. um den Vorgang fortzusetzen. abgeschlossen.  um den Installationsassistenten beenden. Seite 11 von 31
 
 
 ---
 
-| KBV-Prüfassistenten | fortzusetzen. |
-|---|---|
 | Nach kurzer Zeit sehen Sie den  Drücken Sie auf    um den Vorgang fortzusetzen. |  |
+|---|---|
+
+**3.2 Installation des KBV-Prüfassistenten**
 
 | Lesen Sie sich die Lizenzverein- Drücken Sie auf    um die Installation des  KBV-Prüfassistenten  fortzusetzen. |  |
 |---|---|
@@ -348,21 +364,21 @@ Installationsassistent der Sie durch den Updatevorgang begleitet. um den Vorgang
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-Installationsassistenten der Sie durch den Installationsvorgang begleitet. 3.2 Installation des KBV- Lesen Sie sich die Lizenzverein- barungen genau durch und bestä- tigen Sie Ihre Zustimmung indem Sie das entsprechende Feld aus- wählen. um die Installation des Seite 12 von 31
+Installationsassistenten der Sie durch den Installationsvorgang begleitet. barungen genau durch und bestä- tigen Sie Ihre Zustimmung indem Sie das entsprechende Feld aus- wählen. Seite 12 von 31
 
 
 ---
 
 **IT in der Arztpraxis**  KBV-Prüfassistent Handbuch
 
-| Geben Sie in dem Eingabefeld  Alternativ können sie auf drücken, um den Installationspfad |  |
+| Geben Sie in dem Eingabefeld  Alternativ können sie auf drücken, um den Installationspfad  Drücken Sie danach auf |  |
 |---|---|
 | Wenn der ausgewählte  Installationspfad noch  nicht existiert, bestätigen Sie Ihre  Drücken von |  |
-| gelangen Sie zum |  |
+| Mit der Betätigung von |  |
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-den Installationspfad an, z.B. /home/User/KBV/KBV Pruefas- sistent ". (1) mittels Navigation durch das Da- teisystem auszuwählen. (2) Drücken Sie danach auf  Erstellung bitte durch  Mit der Betätigung von nächsten Schritt. Seite 13 von 31
+den Installationspfad an, z.B. /home/User/KBV/KBV Pruefas- sistent ". (1) mittels Navigation durch das Da- teisystem auszuwählen. (2) Erstellung bitte durch   gelangen Sie zum nächsten Schritt. Seite 13 von 31
 
 
 ---
@@ -398,14 +414,14 @@ gelangen Sie zum nächsten Schritt und die Installati- on wird gestartet. angeze
 
 **4.2 Abrechnungsdatei bestimmen**
 
-|  | Sollten Sie keine genaue Kenntnis über den Speicherort Ihrer Abrechnungsdateien haben, schlagen |
+|  | UHinweisU Sollten Sie keine genaue Kenntnis über den Speicherort Ihrer Abrechnungsdateien haben, schlagen |
 |---|---|
 
 **IT in der Arztpraxis**  KBV-Prüfassistent Handbuch
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit folgendem Aufbau  Pfad zur Ab- UHinweisU Sie bitte im Anwenderhandbuch Ihres Praxisverwaltungssystems nach oder wenden Sie sich an Ihr Softwarehaus. Seite 15 von 31
+oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit folgendem Aufbau  Pfad zur Ab- Sie bitte im Anwenderhandbuch Ihres Praxisverwaltungssystems nach oder wenden Sie sich an Ihr Softwarehaus. Seite 15 von 31
 
 
 ---
@@ -414,7 +430,7 @@ oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit fol
 
 | Durch das Öffnen wird die zu  Bitte drücken Sie |  |
 |---|---|
-|  | UHinweisU eigt. Bitte wählen Sie eine Datei mit der Endung „.con“ – |
+|  | UHinweisU Im |
 
 **4.2.2 Datei selektieren**
 
@@ -425,7 +441,7 @@ oben beschrieben. Nach kurzer Zeit  erscheint die graphische Oberfläche mit fol
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-prüfende Datei selektiert. , um in den „Öffnen-Dialog“  zu ge- langen Im Dies sind Abrechnungsdateien. „Öffnen-Dialog“  werden alle Dateien angez „Su- chen in“  Funktion, in den Ordner in dem Ihre Abrechnungsdateien erstellt bzw. gespeichert sind. nungsdateien ist vom PVS abhän- gig. Bitte schauen Sie im Anwen- derhandbuch ihres PVS nach oder kontaktieren Sie Ihr Softwarehaus. Seite 16 von 31
+prüfende Datei selektiert. , um in den „Öffnen-Dialog“  zu ge- langen „Öffnen-Dialog“  werden alle Dateien angez eigt. Bitte wählen Sie eine Datei mit der Endung „.con“ – Dies sind Abrechnungsdateien. „Su- chen in“  Funktion, in den Ordner in dem Ihre Abrechnungsdateien erstellt bzw. gespeichert sind. nungsdateien ist vom PVS abhän- gig. Bitte schauen Sie im Anwen- derhandbuch ihres PVS nach oder kontaktieren Sie Ihr Softwarehaus. Seite 16 von 31
 
 
 ---
@@ -536,11 +552,11 @@ kolle gesichtet und gegebenenfalls ausgedruckt haben, können Sie die Verschlüs
 | Natürlich können Sie auch jedes  Hierzu drücken Sie bitte  , |  |  |
 |---|---|---|
 | Hier können Sie dann den Spei- Mit einem Druck auf   übernehmen |  |  |
-|  | UHinweis**(näheres hierzu in Kapitel 5)** | ** |
+|  | UHinweis Zusätzlich werden Sicherheitskopien Ihrer verschlüsselten Abrechnungsdateien im Ordner | ** |
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-andere beliebige Zielverzeichnis auf Ihrer Festplatte auswählen, um die verschlüsselten Abrechnungsdateien evtl. später gesammelt der KV zu übergeben.  um in den „Öffnen-Dialog“  zu ge- langen. cherort Ihrer Verschlüsselten Datei angeben bzw. auswählen. Sie den Speicherort für Ihre ver- schlüsselte Abrechnungsdatei. Zusätzlich werden Sicherheitskopien Ihrer verschlüsselten Abrechnungsdateien im Ordner erzeugt; diese bleiben auch nach einer Deinstallation erhalten. „Codiert“Seite 22 von 31
+andere beliebige Zielverzeichnis auf Ihrer Festplatte auswählen, um die evtl. später gesammelt der KV zu übergeben.  um in den „Öffnen-Dialog“  zu ge- langen. cherort Ihrer Verschlüsselten Datei angeben bzw. auswählen. Sie den Speicherort für Ihre ver- schlüsselte Abrechnungsdatei. erzeugt; diese bleiben auch nach einer Deinstallation erhalten. „Codiert“  (näheres hierzu in Kapitel 5)Seite 22 von 31
 
 
 ---
@@ -712,6 +728,28 @@ Daraufhin ist die Endan- zeige wieder sichtbar. Bestätigen Sie diese mit einem 
 
 **IT in der Arztpraxis**  KBV-Prüfassistent Handbuch
 
+# 7 Anhang
+
+## 7.1 Konfigurationsdateien
+
+Die Steuerung des KBV-Prüfassistenten erfolgt mit Hilfe zweier Konfigurationsdateien. Eine  Konfigurationsdatei zur Steuerung des Prüfmoduls und eine Konfigurationsdatei zur Steue-rung des Kryptomoduls.
+
+### Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem
+
+angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass  keinerlei Anpassungen nötig sind.
+
+Die Konfigurationsdateien unter dem Betriebssystem Windows befinden sich im Benutzer-Verzeichnis. Beispielsweise: c:\Benutzer\%BENUTZER_NAME%\KBV\.
+
+### Bei dem Betriebssystem Windows gilt folgendes:
+
+### Die Konfigurationsdateien im Installationsverzeichnis (c:\Programme\KBV\Assistent) werden
+
+nur beim ersten Start des KBV-Prüfassistenten eingelesen und unter dem Benutzerverzeich-nis abgelegt. Nur die Änderungen an diesen Konfigurationsdateien im Benutzerverzeichnis  haben Auswirkungen auf den Programmablauf.
+
+## 7.2 XPM Konfigurationsdatei
+
+Die Konfigurationsdatei für das Prüfmodul mit dem Namen ’konfigPruefmodul.xml’ bzw. ’konfigXPM.xml’ enthält  folgende Konfigurationsschalter:
+
 | Schalter | Beschreibung |
 |---|---|
 | pruefpfad | Installationsverzeichnis |
@@ -725,37 +763,23 @@ Daraufhin ist die Endan- zeige wieder sichtbar. Bestätigen Sie diese mit einem 
 | eingabedateien | Dieser Schalter enthält die Pfade zu Steuertabellen und Stammdaten |
 | ausgabedateien | Alle Ausgabelisten des Prüfmoduls. Nähere Angaben finden Sie in der |
 | adt_interne_patientennummer | Wird diesem Konfigurationsschalter der Wert ’ja zugewiesen, so werden in |
-| **7 Anhang ** | |
-| **7.1 Konfigurationsdateien** | Die Steuerung des KBV-Prüfassistenten erfolgt mit Hilfe zweier Konfigurationsdateien. Eine  Die Pfadangaben in der Konfigurationsdatei müssen eventuell dem jeweiligen Betriebssystem |
 
 KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 
-Konfigurationsdatei zur Steuerung des Prüfmoduls und eine Konfigurationsdatei zur Steue- rung des Kryptomoduls. angepasst werden. Die Konfigurationsdateien im Lieferumfang sind so voreingestellt, dass keinerlei Anpassungen nötig sind. Die Konfigurationsdateien unter dem Betriebssystem Windows befinden sich im Benutzer- Verzeichnis. Beispielsweise: c:\Benutzer\%BENUTZER_NAME%\KBV\.  Bei dem Betriebssystem Windows gilt folgendes: Die Konfigurationsdateien im Installationsverzeichnis (c:\Programme\KBV\Assistent) werden nur beim ersten Start des KBV-Prüfassistenten eingelesen und unter dem Benutzerverzeich- nis abgelegt. Nur die Änderungen an diesen Konfigurationsdateien im Benutzerverzeichnis haben Auswirkungen auf den Programmablauf. 7.2 XPM Konfigurationsdatei Die Konfigurationsdatei für das Prüfmodul mit dem Namen ’konfigPruefmodul.xml’ bzw. ’konfigXPM.xml’ enthält folgende Konfigurationsschalter: gegebenen maximalen Wert begrenzen. Dokumentation ‚E015_XPM-KVDT_Ergaenzungshandbuch.pdf’, die im KVDT-Prüfpaket enthalten ist. den Dokumenten Schein-- Abgabeliste und Doku Abgabeliste statt des Patientennamens und Vornamens die systeminterne Patientennummer Seite 30 von 31
+gegebenen maximalen Wert begrenzen. Dokumentation ‚E015_XPM-KVDT_Ergaenzungshandbuch.pdf’, die im KVDT-Prüfpaket enthalten ist. den Dokumenten Schein-- Abgabeliste und Doku Abgabeliste statt des Patientennamens und Vornamens die systeminterne Patientennummer Seite 30 von 31
 
 
 ---
 
 **IT in der Arztpraxis**  KBV-Prüfassistent Handbuch
 
-| quellpfad | Verzeichnis mit Prüfdateien |
-|---|---|
-| zielpfad | Verzeichnis mit verschlüsselten Prüfdateien, vor dem Aufsplitten |
-| floppy | Diskettenlaufwerk bzw. Verzeichnis mit verschlüsselten Prüfdateien, nach dem Auf- |
-| dateilaenge | Maximale Dateilänge bei Disketten/CD-ROMs |
-| protokoll | Protokolldatei |
-| pruefinfo | Kommunikationssatz |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 | (Feldkennung 3000) ausgegeben.  Mögliche Werte: ja, nein | |
+|---|---|
 | icd_zusatz_pruefung | ICD Codes werden zusätzlich gegen die Stammdatei geprüft. Die Kann- Mögliche Werte: ja, nein |
 
-KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
+## 7.3 XKM Konfigurationsdatei
 
-7.3 XKM Konfigurationsdatei Die Konfigurationsdatei für das Kryptomodul mit dem Namen ’konfigKryptomodul.xml’ bzw. ’konfigXKM.xml’ enthält folgende Konfigurationsschalter: Schalter prüfungen beziehen sich auf Altersbegrenzung, Geschlecht und exotische Krankheiten. Beschreibung Seite 31 von 31
+Die Konfigurationsdatei für das Kryptomodul mit dem Namen ’konfigKryptomodul.xml’ bzw. ’konfigXKM.xml’ enthält  folgende Konfigurationsschalter:
 
 | Schalter | Beschreibung |
 |---|---|
@@ -765,3 +789,7 @@ KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
 | dateilaenge | Maximale Dateilänge bei Disketten/CD-ROMs |
 | protokoll | Protokolldatei |
 | pruefinfo | Kommunikationssatz |
+
+KBV_ITA_AHEX_Handbuch_Prüfassistent * Version 2.11
+
+prüfungen beziehen sich auf Altersbegrenzung, Geschlecht und exotische Krankheiten. Seite 31 von 31

@@ -669,21 +669,15 @@ Als Beispiel sei hier folgender Code angegeben:
 \| Ja |
 \| Nein |
 
-**Tabelle 5:**
+**Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
-### 6.1.5.4
+### 6.1.5.4 Blutdruck systolisch
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U*
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im  und im *U* Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
 Seite 23 von 44 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 1 / Version: 5.08 / 14. November 2025
-
-Werte bei Ergebnistext (Raucher)
-
-### Blutdruck systolisch
-
-Attribut den fest vorgeschriebenen Wert „mmHg“.
 
 *V* Attribut die „Körpergröße“ und im
 
@@ -866,9 +860,7 @@ Seite 26 von 44 / KBV / Schnittstellenbeschreibung Diabetes mellitus Typ 1 / Ver
 
 ### Weiteres Risiko für Ulkus
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im  gemäß
-
-*V*-Attribut die Feldbezeichnung  Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
+Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung  gemäß Tabelle 11. Wenn bei diesem Parameter mehrere Werte ausgewählt wurden, können mehrere  Elemente <sciphox:Ergebnistext> mit entsprechenden Werten angegeben werden.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1374,7 +1366,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 ### Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten Dokumentation
 
-Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V* Aufenthalte stationärer notfallmäßiger Behandlungen wegen Diabetes mellitus seit der letzten  Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl“.
+Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die Anzahl stationärer  Aufenthalte stationärer notfallmäßiger Behandlungen wegen Diabetes mellitus seit der letzten  Dokumentation“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl“.
 
 Als Beispiel sei hier folgender Code angegeben:
 
@@ -1382,8 +1374,6 @@ Als Beispiel sei hier folgender Code angegeben:
 \|---|
 
 **XML-Code 45:** Stationäre notfallmäßige Behandlung wegen Diabetes mellitus seit der letzten  Dokumentation
-
--Attribut die Anzahl stationärer
 
 ### 7.1.2 Abschnitt „Schulung“
 

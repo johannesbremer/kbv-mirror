@@ -6,9 +6,7 @@ Kein
 
 Schmerz
 
-Wie würden Sie Ihre
-
-**2.**  wenn *0 = kein Schmerz*
+**2.** Wie würden Sie Ihre  wenn *0 = kein Schmerz*
 
 [0] [1] [2]
 
@@ -20,9 +18,7 @@ und *10 = stärkster vorstellbarer Schmerz*
 
 Kein  Schmerz
 
-Wie stark waren Ihre Rückenschmerzen
-
-**3.**  *0 = kein Schmerz*
+**3.** Wie stark waren Ihre Rückenschmerzen  *0 = kein Schmerz*
 
 [0] [1]
 
@@ -38,13 +34,9 @@ Kein
 
 Schmerz
 
-An wie vielen Tagen konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen
+**4. An wie vielen Tagen** konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen  nicht Ihren üblichen Aktivitäten nachgehen (z.B. Arbeit, Schule, Haushalt)?
 
-**4.**  nicht Ihren üblichen Aktivitäten nachgehen (z.B. Arbeit, Schule, Haushalt)?
-
-In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre alltäglichen Aktivitäten
-
-**5.**  (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn  und *10 = keine Aktivitäten mehr möglich*
+**5.** In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre alltäglichen Aktivitäten  (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn  und *10 = keine Aktivitäten mehr möglich*
 
 [0] [1] [2] [3] [4]
 
@@ -58,9 +50,7 @@ Keine
 
 Beeinträchtigung
 
-In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre
-
-**6.**  oder Unternehmungen im** Familien- und Freundeskreis**  *Beeinträchtigung* und *10 = keine Aktivitäten mehr möglich*
+**6.** In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre  oder Unternehmungen im** Familien- und Freundeskreis**  *Beeinträchtigung* und *10 = keine Aktivitäten mehr möglich*
 
 [0] [1] [2] [3] [4] [5]
 
@@ -68,9 +58,7 @@ Keine
 
 Beeinträchtigung
 
-In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre
-
-**7.**  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Aktivitäten mehr möglich* bedeuten?
+**7.** In welchem Maße haben Rückenschmerzen in den letzten 3 Monaten Ihre  (einschließlich Hausarbeit) beeinträchtigt, wenn  *Aktivitäten mehr möglich* bedeuten?
 
 [0] [1] [2] [3] [4]
 

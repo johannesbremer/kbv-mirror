@@ -99,7 +99,7 @@ Seite 4 von 11
 
 ## 3.1 Nicht-Dermatologen
 
-**Durch den Nicht-Dermatologen auszufüllen** Internisten und Fachärzte für Allgemeinmedizin):
+**Durch den Nicht-Dermatologen auszufüllen** (zur hausärztlichen Versorgung  Internisten und Fachärzte für Allgemeinmedizin):
 
 | Feld-Nr. | *Dokumentationsparameter* | *Ausprägung* | *Plausibilitätenregel* |
 |---|---|---|---|
@@ -110,8 +110,6 @@ Seite 4 von 11
 | 1.1.4 | Spinozelluläres Karzinom | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.5 | anderer Hautkrebs | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 nur eine Angabe ist möglich. |
 | 1.1.6 | sonstiger | Ja/Nein | Bedingtes Pflichtfeld,   Bei Angabe „Ja“ in 1.1 |
-
-(zur hausärztlichen Versorgung
 
 [KBV_ITA_VGEX_Plausi_eHKS] *Version 1.02
 
@@ -210,6 +208,8 @@ messer (klinisch)  Klassifikation   Tumordicke (Breslow) Melanoma in situ  Invas
 
 ---
 
+**IT in der Arztpraxis**  Plausibilitätenkatalog Hautkrebs-Screening (eHKS)
+
 |  |  |  |  |
 |---|---|---|---|
 | 2.5.2.2 | Basalzellkarzinom vertikaler Tumordurchme | Angabe in mm  Wertebereich: 0,1-999,9  Format: [n][n]n[,][n]  (n | Optionales Feld    Bei Angabe „ |
@@ -221,11 +221,9 @@ messer (klinisch)  Klassifikation   Tumordicke (Breslow) Melanoma in situ  Invas
 
 1 Der klinisch schwerwiegendste Befund ist zu dokumentieren
 
-**IT in der Arztpraxis**  Plausibilitätenkatalog Hautkrebs-Screening (eHKS)
-
 [KBV_ITA_VGEX_Plausi_eHKS] *Version 1.02
 
-ser (histologisch) s-  numerisch, [ ] - optional Ja“ unter 2.5.2 kann eine Angabe im Feld 2.5.2.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.3. erfolgen.  Klassifikation Karzinoma in situ Invasives Karzinom Ja“ in 2.5.3, muss eine Angabe in 2.5.3.1 erfolgen. Gx G1 G2 G3 Ja“ in 2.5.3 , kann eine Angabe in 2.5.3.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.4 erfolgen. Ja“ in 2.4.1, muss eine Seite 10 von 11Plausibilitätsprüfungen - Dermatologen
+ser (histologisch)  Klassifikation s-  numerisch, [ ] - optional Karzinoma in situ Invasives Karzinom Gx G1 G2 G3 Ja“ unter 2.5.2 kann eine Angabe im Feld 2.5.2.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.3. erfolgen. Ja“ in 2.5.3, muss eine Angabe in 2.5.3.1 erfolgen. Ja“ in 2.5.3 , kann eine Angabe in 2.5.3.2 erfolgen.  Ja“ in 2.4.1, muss eine Angabe in 2.5.4 erfolgen. Ja“ in 2.4.1, muss eine Seite 10 von 11Plausibilitätsprüfungen - Dermatologen
 
 
 ---

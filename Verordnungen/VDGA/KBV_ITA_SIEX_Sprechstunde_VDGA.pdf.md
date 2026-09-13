@@ -64,30 +64,30 @@ Seite 3 von 32 / KBV / Sprechstunde VDGA / 5. März 2025
 
 ---
 
-|  | INHALT |  |  |
-|---|---|---|---|
-| **1** | **NÄ C HSTER** | **T ERM IN** | **6** |
-| **2** | **SPRECHSTUNDE** | **22. AUGUST 2023** | **6** |
-| **3** | **SPRECHSTUNDE** | **5. SEPTEMBER 2023** | **8** |
-| **4** | **SPRECHSTUNDE** | **19. SEPTEMBER 2023** | **9** |
-| **5** | **SPRECHSTUNDE** | **17. OKTOBER 2023** | **10** |
-| **6** | **SPRECHSTUNDE** | **7. NOVEMBER 2023** | **10** |
-| **7** | **SPRECHSTUNDE** | **14. NOVEMBER 2023** | **12** |
-| **8** | **SPRECHSTUNDE** | **28. NOVEMBER 2023** | **12** |
-| **9** | **SPRECHSTUNDE** | **19. DEZEMBER 2023** | **13** |
-| **10** | **SPRECHSTUNDE** | **9. JANUAR 2024** | **15** |
-| **11** | **SPRECHSTUNDE** | **23. JANUAR 2024** | **17** |
-| **12** | **SPRECHSTUNDE** | **13. FEBRUAR 2024** | **19** |
-| **13** | **SPRECHSTUNDE** | **20. FEBRUAR 2024** | **20** |
-| **14** | **SPRECHSTUNDE** | **5. MÄ R Z2 024** | **21** |
-| **15** | **SPRECHSTUNDE** | **19. MÄ R Z2 024** | **22** |
-| **16** | **SPRECHSTUNDE** | **2. APRIL 2024** | **25** |
-| **17** | **SPRECHSTUNDE** | **30. APRIL 2024** | **26** |
-| **18** | **SPRECHSTUNDE** | **14. MAI 2024** | **27** |
-| **19** | **SPRECHSTUNDE** | **28. MAI 2024** | **28** |
-| **20** | **SPRECHSTUNDE** | **11. JUNI 2024** | **29** |
-| **21** | **SPRECHSTUNDE** | **25. JUNI 2024** | **29** |
-| Seite | 4 von 32 / KBV | / Sprechstunde VDGA / 5. Mä rz 2 025 |  |
+|  | INHALT |  |  |  |
+|---|---|---|---|---|
+| **1** | **NÄCHSTER** | **TERMIN** |  | **6** |
+| **2** | **SPRECHSTUNDE** | **22.** | **AUGUST 2023** | **6** |
+| **3** | **SPRECHSTUNDE** | **5.** | **SEPTEMBER 2023** | **8** |
+| **4** | **SPRECHSTUNDE** | **19.** | **SEPTEMBER 2023** | **9** |
+| **5** | **SPRECHSTUNDE** | **17.** | **OKTOBER 2023** | **10** |
+| **6** | **SPRECHSTUNDE** | **7.** | **NOVEMBER 2023** | **10** |
+| **7** | **SPRECHSTUNDE** | **14.** | **NOVEMBER 2023** | **12** |
+| **8** | **SPRECHSTUNDE** | **28.** | **NOVEMBER 2023** | **12** |
+| **9** | **SPRECHSTUNDE** | **19.** | **DEZEMBER 2023** | **13** |
+| **10** | **SPRECHSTUNDE** | **9. JANUAR** | **2024** | **15** |
+| **11** | **SPRECHSTUNDE** | **23.** | **JANUAR 2024** | **17** |
+| **12** | **SPRECHSTUNDE** | **13.** | **FEBRUAR 2024** | **19** |
+| **13** | **SPRECHSTUNDE** | **20.** | **FEBRUAR 2024** | **20** |
+| **14** | **SPRECHSTUNDE** | **5. MÄRZ** | **2024** | **21** |
+| **15** | **SPRECHSTUNDE** | **19. MÄRZ** | **2024** | **22** |
+| **16** | **SPRECHSTUNDE** | **2. APRIL** | **2024** | **25** |
+| **17** | **SPRECHSTUNDE** | **30. APRIL** | **2024** | **26** |
+| **18** | **SPRECHSTUNDE** | **14. MAI** | **2024** | **27** |
+| **19** | **SPRECHSTUNDE** | **28. MAI** | **2024** | **28** |
+| **20** | **SPRECHSTUNDE** | **11. JUNI** | **2024** | **29** |
+| **21** | **SPRECHSTUNDE** | **25. JUNI** | **2024** | **29** |
+| Seite | 4 von 32 / KBV | / Sprechstunde | VDGA / 5. März 2025 |  |
 
 NÄCHSTER TERMIN SPRECHSTUNDE 22. AUGUST 2023 SPRECHSTUNDE 5. SEPTEMBER 2023 SPRECHSTUNDE 19. SEPTEMBER 2023 SPRECHSTUNDE 17. OKTOBER 2023 SPRECHSTUNDE 7. NOVEMBER 2023 SPRECHSTUNDE 14. NOVEMBER 2023 SPRECHSTUNDE 28. NOVEMBER 2023 SPRECHSTUNDE 19. DEZEMBER 2023 SPRECHSTUNDE 9. JANUAR 2024 SPRECHSTUNDE 23. JANUAR 2024 SPRECHSTUNDE 13. FEBRUAR 2024 SPRECHSTUNDE 20. FEBRUAR 2024 SPRECHSTUNDE 5. MÄRZ 2024 SPRECHSTUNDE 19. MÄRZ 2024 SPRECHSTUNDE 2. APRIL 2024 SPRECHSTUNDE 30. APRIL 2024 SPRECHSTUNDE 14. MAI 2024 SPRECHSTUNDE 28. MAI 2024 SPRECHSTUNDE 11. JUNI 2024 SPRECHSTUNDE 25. JUNI 2024 Seite 4 von 32  /  KBV  /  Sprechstunde VDGA  /  5. März 2025
 
@@ -98,7 +98,7 @@ NÄCHSTER TERMIN SPRECHSTUNDE 22. AUGUST 2023 SPRECHSTUNDE 5. SEPTEMBER 2023 SPR
 | **23** | **SPRECHSTUNDE** | **3.** | **SEPTEMBER 2024** | **30** |
 | **24** | **SPRECHSTUNDE** | **1. OKTOBER** | **2024** | **30** |
 | **25** | **SPRECHSTUNDE** | **25.** | **FEBRUAR 2025** | **31** |
-| Seite | 5 von 32 / KBV | / Sprechstunde | VDGA / 5. Mä rz 2 025 |  |
+| Seite | 5 von 32 / KBV | / Sprechstunde | VDGA / 5. März 2025 |  |
 
 SPRECHSTUNDE 23. JULI 2024 SPRECHSTUNDE 3. SEPTEMBER 2024 SPRECHSTUNDE 1. OKTOBER 2024 SPRECHSTUNDE 25. FEBRUAR 2025 Seite 5 von 32  /  KBV  /  Sprechstunde VDGA  /  5. März 2025
 

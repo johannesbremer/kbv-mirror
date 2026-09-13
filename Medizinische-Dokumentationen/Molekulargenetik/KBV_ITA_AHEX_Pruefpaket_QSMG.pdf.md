@@ -26,17 +26,17 @@ INHALT
 | 1.2 | Zertifizierungsablauf | 5 |
 | 1.3 | Zertifizierungsportal | 6 |
 | 1.4 | Zertifizierungsdokumente | 6 |
-| 1.5 | Prü fu nte rla gen | 6 |
-| 1.6 | Prü fvorgaben | 7 |
-|  | 1.6.1 Prü fstam mdaten | 7 |
+| 1.5 | Prüfunterlagen | 6 |
+| 1.6 | Prüfvorgaben | 7 |
+|  | 1.6.1 Prüfstammdaten | 7 |
 |  | 1.6.2 Praxisdaten/ Arztstempel | 8 |
 
-| 2 | PRÜ | FFÄ LLE | 9 |
+| 2 |  | PRÜFFÄLLE | 9 |
 |---|---|---|---|
-| 2.1 | Prü | ffa ll 1 | 9 |
-| 2.2 | Prü | ffa ll 2 | 15 |
-| 2.3 | Prü | ffa ll 3 | 19 |
-| 2.4 | Prü | ffa ll 4 | 21 |
+| 2.1 | Prüffall | 1 | 9 |
+| 2.2 | Prüffall | 2 | 15 |
+| 2.3 | Prüffall | 3 | 19 |
+| 2.4 | Prüffall | 4 | 21 |
 
 **3** **TESTDATENVALIDIERUNG**
 
@@ -56,7 +56,7 @@ Seite 2 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 /
 
 27. Januar 2022
 
-Prüfunterlagen Prüfvorgaben Prüfstammdaten PRÜFFÄLLE Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4 
+Prüffall 1 Prüffall 2 Prüffall 3 Prüffall 4 
 
 
 ---
@@ -84,7 +84,7 @@ DOKUMENTENHISTORIE
 
 Seite 4 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
-Inhalt (Seite 15) Anpassung des Prüffalls gelöscht Layouts Corporate Design auf Zertifizierung Zertifizierungsportals Kapitel 1 Strukturen Aktualisierung der Prüffälle Plausibilität
+Anpassung des Prüffalls Inhalt (Seite 15) gelöscht Layouts Corporate Design auf Zertifizierung Zertifizierungsportals Kapitel 1 Strukturen Prüffälle Aktualisierung der Plausibilität
 
 ---
 
@@ -164,9 +164,7 @@ Diese müssen fehlerfrei gegen das jeweils aktuelle, von der KBV vorgegebene, Pr
 
 Die geforderten Videomitschnitte und Screenshots müssen in einem gesonderten Ordner  „Dokumentation“ übermittelt werden und folgender Namenskonvention entsprechen. Diese werden  durch den Prüfer begutachtet.
 
-_[lfdNr.]2 3
-
-*PrüffallNr* 1
+*PrüffallNr* 1_[lfdNr.]2 3
 
 - Alle Prüfunterlagen [Jahresstatistiken und der Ordner „Dokumentation“] sind in einem zip-Archiv zu  übermitteln. Die Dokumentationsunterlagen werden direkt in dem Hauptverzeichnis übertragen und  nicht gesondert in einem Unterordner abgelegt. Diese Dateien werden automatisiert geprüft. Das zip- Archiv muss wie folgt benannt werden:
 
@@ -548,6 +546,20 @@ Seite 18 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Jan
 
 ---
 
+**2.3** **PRÜFFALL 3**
+
+|  |  |
+|---|---|
+| **Prüffall-ID** | 3 |
+| **Testziel** | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann |
+| **Voraussetzung** | Das Dokumentationsdatum ist der 31.03.2018 |
+| **Prüfunterlagen** | › › |
+| **Hinweis** |  |
+
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+- 1. **Erfassung der Jahresstatistik**
+
 | JAHRESSTATISTIK | | | |
 |---|---|---|---|
 | **1** | | | |
@@ -565,43 +577,15 @@ Seite 18 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Jan
 |  | | | |
 | **6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund)** | | | |
 | **Quotient** | **Anzahl GOPs bei** | **Anzahl Behandlungsfälle** | **Quotient** |
-| **2.3** | | | |
-|  |  |  | **Prüffall-ID** |
-| 3 | **Testziel** | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann | **Voraussetzung** |
-| Das Dokumentationsdatum ist der 31.03.2018 | **Prüfunterlagen** |  |  |
-
-|  |  |
-|---|---|
-| **Prüffall-ID** | 3 |
-| **Testziel** | Prüfung, dass diese fehlerhafte Jahresstatistik nicht erfasst werden kann |
-| **Voraussetzung** | Das Dokumentationsdatum ist der 31.03.2018 |
-| **Prüfunterlagen** | › › |
-| **Hinweis** |  |
 
 Seite 19 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
-1. Screenshot, dass die Erfassung der geforderten Jahresstatistik nicht möglich ist 2. Bitte übermitteln Sie alle durch diese Jahresstatistik erzeugten Warnungen (oder Fehler) PRÜFFALL 3 Aktionen, die durch den Antragsteller durchgeführt werden: Erfassung der Jahresstatistik nach EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung (pathologisch) Behandlungsfällen pathologischem Endbefund Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde mit pathologischem Endbefund
+1. Screenshot, dass die Erfassung der geforderten Jahresstatistik nicht möglich ist 2. Bitte übermitteln Sie alle durch diese Jahresstatistik erzeugten Warnungen (oder Fehler) nach EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung (pathologisch) Behandlungsfällen pathologischem Endbefund Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde mit pathologischem Endbefund
 
 ---
 
-|  | | | |
+| JAHRESSTATISTIK | | | |
 |---|---|---|---|
-|  | | | |
-|  |  |  | |
-|  | | | |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | | | |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | | | |
-|  | | | |
-|  |  |  |  |
-| **JAHRESSTATISTIK** | | | |
 |  | 1 | 1 | 1,00 |
 | **Quotient** | **Anzahl GOPs bei** | **Anzahl Behandlungsfälle** | **Quotient** |
 |  | 1 | 1 | 1,00 |
@@ -615,17 +599,7 @@ Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
 ---
 
-\| SZENARIEN |
-\|---|
-\| **Szenario 1** |
-\| Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten  Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
-\| **Szenario 2** |
-\| 1.   2.  **3.** |
-\| **Szenario 3** |
-\| Weisen Sie per Screenshots nach, dass bei der Erstellung eines Behandlungsfalls die Angaben zu:   • • |
-\| **2.4** |
-\|  |
-\|  |
+**2.4** **PRÜFFALL 4**
 
 |  |  |
 |---|---|
@@ -635,21 +609,25 @@ Molekulargenetik / Version: 1.13 / 27. Januar 2022
 | **Prüfunterlagen** | › |
 | **Hinweis** | Dieser Testfall ist unterteilt in vier Szenarien |
 
+**Aktionen, die durch den Antragsteller durchgeführt werden:**
+
+\| SZENARIEN |
+\|---|
+\| **Szenario 1** |
+\| Zeigen Sie mittels eines Screenshots, dass eine Korrektur/Änderung der in den Prüffällen 1 und 2 erstellten  Weisen Sie auch per Screenshot oder als PDF-Dokument nach, dass die Jahresstatistik ausgedruckt werden |
+\| **Szenario 2** |
+\| 1.   2.  **3.** |
+\| **Szenario 3** |
+\| Weisen Sie per Screenshots nach, dass bei der Erstellung eines Behandlungsfalls die Angaben zu:   • • |
+
 Seite 21 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
-1. Überprüfung von Funktionen P1-310, P1-60, P1-70, P1-90 und P1-220 2. Überprüfung, dass Änderungen nach Ende des Prüfquartals nicht mehr möglich sind 3. Überprüfung, dass Art der Fragestellung und Art des Befundes zu einem GOP nach EBM-Unterabschnitt 11.4.2 Pflichtangaben bei der Erstellung eines Behandlungsfalls sind Entsprechende Screenshots  PRÜFFALL 4 Aktionen, die durch den Antragsteller durchgeführt werden: Jahresstatistik am 01.07.2018 (nach Ende des Prüfquartals) nicht mehr möglich ist.  kann (P1-310). Die Art der Fragestellung zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Fragestellungen für den Behandlungsfall nicht möglich ist, auch wenn mehrere Behandlungen (Überweisungen) für den Behandlungsfall vorliegen (P1-60).  Die Art des Endbefundes zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten für den Befund im Sinne der Fragestellung des Behandlungsfalls nicht möglich ist. Für den Behandlungsfall müssen mehrere verschiedene Befunde existieren (P1-70).  Die Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Befunden für die Leistung nicht möglich ist (P1-90). Art der Fragestellung des Behandlungsfalls  Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 verpflichtend sind, der Endbefund zum Behandlungsfall aber nicht angegeben werden muss.
+1. Überprüfung von Funktionen P1-310, P1-60, P1-70, P1-90 und P1-220 2. Überprüfung, dass Änderungen nach Ende des Prüfquartals nicht mehr möglich sind 3. Überprüfung, dass Art der Fragestellung und Art des Befundes zu einem GOP nach EBM-Unterabschnitt 11.4.2 Pflichtangaben bei der Erstellung eines Behandlungsfalls sind Entsprechende Screenshots  Jahresstatistik am 01.07.2018 (nach Ende des Prüfquartals) nicht mehr möglich ist.  kann (P1-310). Die Art der Fragestellung zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Fragestellungen für den Behandlungsfall nicht möglich ist, auch wenn mehrere Behandlungen (Überweisungen) für den Behandlungsfall vorliegen (P1-60).  Die Art des Endbefundes zum Behandlungsfall ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten für den Befund im Sinne der Fragestellung des Behandlungsfalls nicht möglich ist. Für den Behandlungsfall müssen mehrere verschiedene Befunde existieren (P1-70).  Die Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 ist durch den Anwender zu wählen. Zeigen Sie mittels Screenshots auf, dass eine gleichzeitige Auswahl mehrerer Arten von Befunden für die Leistung nicht möglich ist (P1-90). Art der Fragestellung des Behandlungsfalls  Art des Befundes zu einer Leistung (GOP) nach EBM-Unterabschnitt 11.4.2 verpflichtend sind, der Endbefund zum Behandlungsfall aber nicht angegeben werden muss.
 
 ---
 
-\|  |
+\| SZENARIEN |
 \|---|
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\|  |
-\| **SZENARIEN** |
 \| **Szenario 4** |
 \| Erstellen Sie einen Behandlungsfall, bei dem kein Endbefund dokumentiert wurde. Weisen Sie per |
 
@@ -676,6 +654,10 @@ Seite 23 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Jan
 
 ---
 
+# 4 ANHANG
+
+**4.1** **ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2**
+
 | ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2 | | | |
 |---|---|---|---|
 | **1** | | | |
@@ -699,66 +681,15 @@ Seite 23 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Jan
 | **11432** | 500 | davon pathologische | 100 |
 |  |  | davon unauffällige | 100 |
 |  |  | davon nicht beurteilbare | 300 |
-| 4**4.1** | | | |
-| **ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2** | | | |
-|  | | | |
-| **1** | Gesamtzahl der Behandlungsfälle nach | 1500 |  |
-| **2** | dabei Behandlungsfälle mit  700 | davon pathologische | 300 |
-|  |  | davon unauffällige | 300 |
-|  | davon nicht beurteilbare | 100 | **3** |
-| dabei Behandlungsfälle mit prädiktiver | 500 | davon pathologische | 200 |
-|  |  | davon unauffällige | 100 |
-|  | | | |
-|  | davon nicht beurteilbare | 200 | |
-| **4** | | | |
-| **dabei Behandlungsfälle mit** | 300 | davon pathologische | |
-| 100 |  |  | |
-| davon unauffällige | | | |
-| 100 |  |  | |
-| davon nicht beurteilbare | 100 | **5 Anzahl der Untersuchungen je GOP** | |
-| **11395** | 1200 | davon pathologische | |
-| 600 | | | |
-|  |  | davon unauffällige | |
-| 400 |  |  | |
-| davon nicht beurteilbare  200 | | | |
-| **11432** | 500 | davon pathologische | |
-| 100 |  |  | davon unauffällige |
-| 4**4.1** | | | |
-| **ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2** |  | **1** | Gesamtzahl der Behandlungsfälle nach |
-| 1500 |  | **2** | |
-| dabei Behandlungsfälle mit | 700 | davon pathologische | 300 |
-|  |  | davon unauffällige | 300 |
 
 Seite 24 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
-ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorgeburtlicher Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunden Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
+EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorgeburtlicher Fragestellung Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunden Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde Endbefunde
 
 ---
 
-| Endbefunde | | | |
+| ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2 | | | |
 |---|---|---|---|
-| **Quotient** | | | |
-| Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient | |
-|  | | | |
-| 700 |  | 600 | 1,17 |
-| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
-|  | 500 |  | 500 |
-| 1,00 | | | |
-| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
-|  | 500 | 400 | 1,25 |
-| **7** | **Anzahl der Behandlungsfälle mit** | 300 |  |
-| **8 Anzahl der Einsender** | | | |
-| **Anzahl LANR** | 120 |  | **Anzahl BSNR** |
-| 90 |  | **9 Anzahl der Einsendungen je Facharztgruppe** | **04 (Anästhesiologie)** |
-| 500 |  | **22 (Humangenetik)** | 300 |
-|  | | | |
-| **62 (Radiologie)** | 300 |  | **10 Ergebnisse der externen Qualitätssicherung gemäß § 5 Nr. 2** |
-| **Gesamtanzahl der Untersuchungen** | 3 |  | **Gesamtanzahl der Zertifikate** |
-| 2 |  | Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden | **11 Anzahl der Einsendungen je Facharztgruppe für diese GOP** |
-| **11395** |  |  |  |
-| **04 (Anästhesiologie)** | 300 |  |  |
-|  |  |  |  |
-| **ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2** | | | |
 | Endbefunde | | | |
 | **6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund)** | | | |
 | **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
@@ -782,11 +713,6 @@ ANHANG EBM-Unterabschnitt 11.4.2 diagnostischer Fragestellung Fragestellung vorg
 | Sofern mehr als 150 Untersuchungen für eine GOP durchgeführt wurden **11 Anzahl der Einsendungen je Facharztgruppe für diese GOP** | | | |
 | **11395** |  |  | |
 |  | **04 (Anästhesiologie)** | 300 |  |
-| **ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2** | | | |
-| Endbefunde | **6 Mittlere Anzahl der GOPs je Behandlungsfall (Quotient je Befund)** | **Quotient** | Anzahl GOPs bei |
-| Anzahl Behandlungsfälle mit | Quotient |  | |
-| 700 |  | 600 | 1,17 |
-| **Quotient** | Anzahl GOPs bei | Anzahl Behandlungsfälle mit | Quotient |
 
 Seite 25 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 
@@ -794,58 +720,14 @@ Seite 25 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Jan
 
 ---
 
-|  | | | |
+| ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2 | | | |
 |---|---|---|---|
-| 300 | | | |
-|  | **11432** |  | |
-|  | | | |
-|  | **04 (Anästhesiologie)** | 200 |  |
-|  | **22 (Humangenetik)** | 300 |  |
-|  | **Tabelle 1: Angaben für die Jahresstatistik für Prüffall 2** |  |  |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | | | |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| **ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2** | | | |
-|  | | | |
-| **22 (Humangenetik)** | | | |
-| 300 |  | **11432** |  |
-|  | **04 (Anästhesiologie)** | 200 |  |
-|  | **22 (Humangenetik)** | 300 |  |
-|  | **Tabelle 1: Angaben für die Jahresstatistik für Prüffall 2 ** |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | | | |
-|  |  |  | |
-|  | | | |
-|  |  |  | |
-|  |  |  | |
-|  | | | |
-|  |  |  | |
-|  |  |  | |
-|  |  |  | |
-|  | | | |
-|  |  |  | |
-|  |  |  | |
-|  | | | |
-|  |  |  | |
-|  |  |  |  |
-| **ANGABEN FÜR DIE JAHRESSTATISTIK FÜR PRÜFFALL 2** | | | |
 |  | **22 (Humangenetik)** | 300 |  |
 | **11432** |  |  | |
 |  | **04 (Anästhesiologie)** | 200 |  |
 |  | **22 (Humangenetik)** | 300 |  |
+
+**Tabelle 1: Angaben für die Jahresstatistik für Prüffall 2**
 
 Seite 26 von 27 / KBV / Pruefpaket QS-Molekulargenetik / Version: 1.13 / 27. Januar 2022
 

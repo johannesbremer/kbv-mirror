@@ -35,7 +35,7 @@
 | 9. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-\| **1** 2.**\|** Die in Rechnung gestellten Leistungen haben ausschließlich zur Leistungserbringung berechtigte Personen **2** erbracht. |
+\| **1\|2** |
 \|---|
 
 Sammelerklärung 2. Quartal 2026 | Krankenhäuser

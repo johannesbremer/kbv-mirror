@@ -4,17 +4,13 @@ einerseits
 
 und
 
-**der GKV-Spitzenverband (Spitzenverband Bund der Krankenkassen),**  Berlin,
-
-K. d. ö. R.,
+**der GKV-Spitzenverband (Spitzenverband Bund der Krankenkassen),** K. d. ö. R.,  Berlin,
 
 andererseits
 
 vereinbaren Folgendes:
 
-Die Partner des Bundesmantelvertrages schließen als **Anlage 26** mantelvertrag-Ärzte (BMV-Ä) den nachstehenden
-
-zum Bundes-
+Die Partner des Bundesmantelvertrages schließen als **Anlage 26** zum Bundes-mantelvertrag-Ärzte (BMV-Ä) den nachstehenden
 
 Anforderungskatalog nach § 73 Abs. 9 SGB V für Verordnung von  DiGA  Anforderungen an die Software zur Verordnung von Digita-
 
@@ -35,7 +31,7 @@ DOKUMENTENHISTORIE
 | 1.1 | 11.01.2024 | KBV/GKV-SV | Anpassung der Anforde- Erweiterung der   Anpassung der Anforde- Erweiterung der | Klarstellungen und Anre- | 13  14  21  22 |
 | 1.0 | 25.05.2023 | KBV/GKV-SV | neues Dokument | Einführung des Anforde- | alle |
 
-tels 1.2 pflichtenden Umsetzung der elektronischen Verord- nung rung P2-020 und P4-311 Nutzungshinweise und des Glossars  rung P2-020 und P4-310 Vorhandenseins von Kont- und des Glossars  raindikationen rung P4-230 rung P4-311 und des kriterium 3 und 4 Glossars  rung P4-342 kriterium 5 rung P4-340 schen Verordnung rung P4-343 der verpflichtenden Um- setzung gungen aus der Sprech- rungen KP4-312  stunde und den Zertifizie- rungen zum Verfahren Ver- rung P4-342 ordnung von DiGA (VDGA) gungen aus der Sprech- rung P4-130 stunde zum Verfahren Ver- ordnung von DiGA (VDGA) Anforderung P4-210 rung P4-322 Anforderung P4-342 rungskatalogs nach § 73 Abs. 9 SGB V für Verord- nung von DiGA 2
+tels 1.2 pflichtenden Umsetzung der elektronischen Verord- nung rung P2-020 und P4-311 Nutzungshinweise und des Glossars  rung P2-020 und P4-310 Vorhandenseins von Kont- und des Glossars  raindikationen rung P4-230 rung P4-311 und des kriterium 3 und 4 Glossars  rung P4-342 kriterium 5 rung P4-340 schen Verordnung rung P4-343 der verpflichtenden Um- setzung rungen KP4-312  gungen aus der Sprech- stunde und den Zertifizie- rungen zum Verfahren Ver- rung P4-342 ordnung von DiGA (VDGA) rung P4-130 gungen aus der Sprech- stunde zum Verfahren Ver- ordnung von DiGA (VDGA) Anforderung P4-210 rung P4-322 Anforderung P4-342 rungskatalogs nach § 73 Abs. 9 SGB V für Verord- nung von DiGA 2
 
 
 ---
@@ -1038,6 +1034,15 @@ DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzu
 
 ---
 
+- Nachweis zum positiven Versorgungseffekt
+- Angabe Erprobungszeitraum (höchstens 12 Monate)
+- Kurzfassung zum vorliegenden oder geplanten Nachweis des po-sitiven Versorgungseffektes nach PICO-Schema
+- Angaben zum positiven Versorgungseffekt
+- draft: vorläufig aufgenommen
+- active: dauerhaft aufgenommen
+- retired: zurückgezogen/entfernt/gestrichen
+- keine Zusatzgeräte
+
 | BEGRIFF | BEDEUTUNG |
 |---|---|
 | **Informationen zum positiven Ver-** | Die Informationen zum positiven Versorgungseffekt beinhalten die  Diese Information ist der DiGA zugeordnet. |
@@ -1048,11 +1053,9 @@ DiGA relevante Kennnummer dar. Einzelne Verordnungseinheiten können unter Nutzu
 | **Status im DiGA-Verzeichnis** | Die Angabe zum Status im DiGA-Verzeichnis repräsentiert den Status  Diese Information ist dem Verzeichniseintrag zugeordnet. |
 | **Erforderlichkeit von Zusatzgerä-** | Diese Angabe kennzeichnet, ob zusätzliche Geräte entweder im zu |
 
-- keine Zusatzgeräte
-
 #### (Anlage 26 BMV-Ä)
 
-Nachweis zum positiven Versorgungseffekt  Angabe Erprobungszeitraum (höchstens 12 Monate) Kurzfassung zum vorliegenden oder geplanten Nachweis des po- sitiven Versorgungseffektes nach PICO-Schema Angaben zum positiven Versorgungseffekt draft: vorläufig aufgenommen active: dauerhaft aufgenommen retired: zurückgezogen/entfernt/gestrichen Angaben und Nachweise zum positiven Versorgungseffekt, die der DiGA-Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA-Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Ant- worten zu vorgegebenen Fragen repräsentiert, die zu einem Block von Fragen mit dem Titel „Angaben zum positiven Versorgungsef- fekt“ gehören. Diese Informationen sind de m DiGA-Antwortdaten- satz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragenblock kann beispielsweise Fragen zu fol- genden Einträgen enthalten: zeichen der Ziel-/Patientengrup- Ziel- /Patientengruppen besteht aus einer Liste von menschenlesba- ren Geschlechtskennzeichen. Diese Information ist der DiGA-Verord- nungseinheit zugeordnet. steht aus einer Liste von menschenlesbaren Altersgruppenbezeich- nungen. Diese Information ist der DiGA-Verordnungseinheit zuge- mentar beigefügt sein, welcher z.B. die in der Bezeichnung angege- bene Altersangaben korrigiert. Wert und der menschenlesbaren Angabe einer Zeiteinheit. Diese In- formation ist der DiGA-Verordnungseinheit zugeordnet. forderlich gehaltenen Mindest- und Höchstdauer der Nutzung der DiGA enthalten. Diese Information ist der DiGA zugeordnet. des Eintrags der DiGA im Verzeichnis. Dieser kann die folgenden drei Werte annehmen: verordnenden Produkt enthalten sind, oder zusätzlich verpflichtend oder optional erworben werden müssen. Es sind folgende vier Kenn- zeichnungen zu verwenden: 29
+Angaben und Nachweise zum positiven Versorgungseffekt, die der DiGA-Hersteller im Zuge des Antragsverfahrens für die Listung im DiGA-Verzeichnis vorgelegt hat. Sie werden durch eine Liste von Ant- worten zu vorgegebenen Fragen repräsentiert, die zu einem Block von Fragen mit dem Titel „Angaben zum positiven Versorgungsef- fekt“ gehören. Diese Informationen sind de m DiGA-Antwortdaten- satz der DiGA zugeordnet, der wiederum einem DiGA-Fragenkatalog zugeordnet ist. Der Fragenblock kann beispielsweise Fragen zu fol- genden Einträgen enthalten: zeichen der Ziel-/Patientengrup- Ziel- /Patientengruppen besteht aus einer Liste von menschenlesba- ren Geschlechtskennzeichen. Diese Information ist der DiGA-Verord- nungseinheit zugeordnet. steht aus einer Liste von menschenlesbaren Altersgruppenbezeich- nungen. Diese Information ist der DiGA-Verordnungseinheit zuge- mentar beigefügt sein, welcher z.B. die in der Bezeichnung angege- bene Altersangaben korrigiert. Wert und der menschenlesbaren Angabe einer Zeiteinheit. Diese In- formation ist der DiGA-Verordnungseinheit zugeordnet. forderlich gehaltenen Mindest- und Höchstdauer der Nutzung der DiGA enthalten. Diese Information ist der DiGA zugeordnet. des Eintrags der DiGA im Verzeichnis. Dieser kann die folgenden drei Werte annehmen: verordnenden Produkt enthalten sind, oder zusätzlich verpflichtend oder optional erworben werden müssen. Es sind folgende vier Kenn- zeichnungen zu verwenden: 29
 
 
 ---
@@ -1138,7 +1141,9 @@ nis gelistet. Sie entsprechen der Differenz zwischen dem Hersteller- preis und d
 
 #### (Anlage 26 BMV-Ä)
 
-Resultieren alle Fehler und Fehlfunktionen der Zugriffskontrolle in einer Ablehnung von Zugriffen?  ner Liste von Sprachbezeichnungen an, in welchen Sprachen das DiGA-Modul bereitgestellt wird. Diese Information ist dem DiGA- Modul zugeordnet. Daten aus dem DiGA-Verzeichnis nach §§ 33a und 139e Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch (SGB V) i.V.m. § 22 Ab- satz 1 Satz 1 Nr. 1 der Digitalen Gesundheitsanwendungen-Verord- nung (DiGAV). 32
+- Resultieren alle Fehler und Fehlfunktionen der Zugriffskontrolle  in einer Ablehnung von Zugriffen?
+
+ner Liste von Sprachbezeichnungen an, in welchen Sprachen das DiGA-Modul bereitgestellt wird. Diese Information ist dem DiGA- Modul zugeordnet. Daten aus dem DiGA-Verzeichnis nach §§ 33a und 139e Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch (SGB V) i.V.m. § 22 Ab- satz 1 Satz 1 Nr. 1 der Digitalen Gesundheitsanwendungen-Verord- nung (DiGAV). 32
 
 
 ---

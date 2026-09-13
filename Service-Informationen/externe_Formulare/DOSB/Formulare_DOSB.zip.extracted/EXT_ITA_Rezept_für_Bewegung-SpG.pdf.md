@@ -47,7 +47,9 @@ Deutscher Olympischer Sportbund  Ressort Breiten- und Gesundheitssport
 
 #### Wöchentliche Bewegungsempfehlungen für Erwachsene und ältere Erwachsene
 
-**Ausdauer** ***150 – 300*** Minuten pro Woche
+**Ausdauer**
+
+***150 – 300*** Minuten pro Woche
 
 ***75 – 150*** Minuten pro Woche
 
@@ -61,13 +63,11 @@ ZUSÄTZLICH
 
 pro Woche Muskelkräftigende
 
-Tage
-
-B. funktions­
-
-Aktivitäten, z.  gymnastische Übungen  oder Bewegen von Lasten
+Aktivitäten, z. B. funktionsgymnastische Übungen  oder Bewegen von Lasten
 
 die Arzt
+
+Tage
 
 E-Mail: [gesundheit@dosb.de](mailto:gesundheit@dosb.de)
 
@@ -77,25 +77,23 @@ Ausdauerorientierte Bewegung,   die etwas anstrengend ist, z. B. Nordic Walking,
 
 ODER EINE KOMBINATION
 
-Ausdauerorientierte Bewegung,  strengend ist,  die an B. Laufen, schnelles Rad­fahren,
-
-z. schnelles Schwimmen
+Ausdauerorientierte Bewegung,  strengend ist,  die anz. B. Laufen, schnelles Rad­fahren,  schnelles Schwimmen
 
 **Koordination**
 
 Ärztin:
 
-pro Woche
+ZUSÄTZLICH
+
+pro Woche Gleichge­wichts­übungen,
+
+für ältere Erwachsene  ab 65 Jahren zur Sturz­
 
 Tage
 
-B. kleine Spaziergänge, Arbeiten im Stehen
+prä­vention
 
-ZUSÄTZLICH
-
-Gleichge­wichts­übungen,  für ältere Erwachsene  ab 65 Jahren zur Sturz­ ­ventionprä
-
-Piktogramme: © DOSB/Sportdeutschland
+B. kleine Spaziergänge, Arbeiten im Stehen Piktogramme: © DOSB/Sportdeutschland
 
 Ihr e Patient in hat an unserem  Bewegungsangebot teilgenommen.
 

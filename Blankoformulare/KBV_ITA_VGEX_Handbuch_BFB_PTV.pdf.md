@@ -30,47 +30,19 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 5
 
-**2** **ANFORDERUNGEN ZUR BFB (PTV)**
-
-**5**
-
-2.1 Zielbestimmung
-
-5
-
-2.2 Erstellung von Vordrucken
-
-5
-
-2.3 Zertifizierung
-
-6
-
-2.4 Prüfnummer
-
-6
-
-2.5 Beschriftung der Vordrucke
-
-6
-
-2.6 Papier
-
-6
-
-2.7 Erläuterung der Funktionsdarstellung 7
-
-2.8 Zulässige BFB-Formulare
-
-7
-
-2.9 Formulare als Druck- Dateien 7
-
-2.10 Änderungsdienst / Logistik 7
-
-2.11 Bedruckungsvorgaben
-
-8
+| 2 | ANFORDERUNGEN ZUR BFB (PTV) | 5 |
+|---|---|---|
+| 2.1 | Zielbestimmung | 5 |
+| 2.2 | Erstellung von Vordrucken | 5 |
+| 2.3 | Zertifizierung | 6 |
+| 2.4 | Prüfnummer | 6 |
+| 2.5 | Beschriftung der Vordrucke | 6 |
+| 2.6 | Papier | 6 |
+| 2.7 | Erläuterung der Funktionsdarstellung | 7 |
+| 2.8 | Zulässige BFB-Formulare | 7 |
+| 2.9 | Formulare als Druck-Dateien | 7 |
+| 2.10 | Änderungsdienst / Logistik | 7 |
+| 2.11 | Bedruckungsvorgaben | 8 |
 
 **3** **VERBINDLICHE MUSTER**
 
@@ -179,7 +151,7 @@ Die Änderung der Version 1.36 tritt zum 1. Juli 2021 in Kraft.
 
 Seite 4 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
-des verkürzten Personalien- felds für das Muster PTV1, PTV2, PTV11 und PTV12 ständlichkeit P2.11-20 gabeformates für Da- tumsangeben auf BFB- Mustern für das Muster PTV11 auch als PDF-Dateien zur Verfügung gestellt bzgl. des zu verwendenden Papiers 
+des verkürzten Personalien- felds für das Muster PTV1, PTV2, PTV11 und PTV12 P2.11-20 ständlichkeit gabeformates für Da- tumsangeben auf BFB- Mustern für das Muster PTV11 auch als PDF-Dateien zur Verfügung gestellt bzgl. des zu verwendenden Papiers 
 
 
 ---
@@ -402,9 +374,8 @@ Seite 9 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie
 
 Abbildung 1: PTV 1a, Original: DIN A4 hoch
 
-Seite 10 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) /  2021
+Seite 10 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 / 18. Februar 2021
 
-Version: 1.36 / 18. Februar
 
 ---
 
@@ -496,9 +467,8 @@ Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) / Version: 1.36 
 
 Abbildung 10: PTV 12a, Original: DIN A4 hoch
 
-Seite 19 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) 2021
+Seite 19 von 21 / KBV / Handbuch Blankoformularbedruckung für die Psychotherapie (PTV) Version: 1.36 / 18. Februar 2021
 
-Version: 1.36 / 18. Februar
 
 ---
 

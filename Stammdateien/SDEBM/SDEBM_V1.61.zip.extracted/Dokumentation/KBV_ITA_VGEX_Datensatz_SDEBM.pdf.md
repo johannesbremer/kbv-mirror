@@ -272,17 +272,17 @@ Seite 7 von 117
 
 **X** **M** **L - C** **O** **D** **E** **V** **E** **R** **Z** **E** **I** **C** **H** **N** **I** **S**
 
-XML-Code 1 /ehd ................................................................................................................. 18
+XML-Code 1 /ehd .................................................................................................................
 
-XML-Code 2 /ehd/keytabs .................................................................................................... 20
+XML-Code 2 /ehd/keytabs ....................................................................................................
 
-XML-Code 3 /ehd/keytabs/keytab ......................................................................................... 21
+XML-Code 3 /ehd/keytabs/keytab .........................................................................................
 
-XML-Code 4 /ehd/keytabs/keytab/key .................................................................................. 21
+XML-Code 4 /ehd/keytabs/keytab/key ..................................................................................
 
-XML Code 5 /ehd/keytabs/keytab/key/fkey ........................................................................... 21
+XML Code 5 /ehd/keytabs/keytab/key/fkey ...........................................................................
 
-KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
+KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61 18  20  21  21  21
 
 Seite 8 von 117
 
@@ -794,9 +794,7 @@ Das Element hat folgende Attribute:
 
 ### SN: menschenlesbarer Klartextname der Schlüsseltabelle
 
-SV: Version der Schlüsseltabelle; Wenn die Schlüsseltabelle geändert bzw. ergänzt wird, wird
-
-### die Version hochgezählt.
+SV: Version der Schlüsseltabelle; Wenn die Schlüsseltabelle geändert bzw. ergänzt wird, wird  die Version hochgezählt.
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
 
@@ -849,9 +847,7 @@ Das Element hat folgende Attribute:
 
 ### Ein Schlüssel kann auf Fremdschlüssel veweisen(
 
-verknüpfte Schlüsseltabellen handelt. Auch hier werden die Kodewerte in Attributen eingetra-gen. Zur besseren Referenzierung von Kodewerten innerhalb der  Bildung von „Constraints“ (Referenzintegrität) wird die Benennung der Schlüsseltabelle noch
-
-### einmal in Attributen angegeben.
+verknüpfte Schlüsseltabellen handelt. Auch hier werden die Kodewerte in Attributen eingetra-gen. Zur besseren Referenzierung von Kodewerten innerhalb der  Bildung von „Constraints“ (Referenzintegrität) wird die Benennung der Schlüsseltabelle noch  einmal in Attributen angegeben.
 
 #### <fkey>), wenn es sich beispielsweise um
 
@@ -927,29 +923,19 @@ element** gnr**
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:string  required               USE    xs:string  required               USE-DOMAIN      required        1.2.276.0.76.5.2    VT    go:vt_typ  required |
 | annotation | documentation   Das Schlüsselelement im Body-Bereich. Im V-Attribut ist die Gebührennummer angegeben. Formal |
 
-***V***
+***V***   Gebührenziffer
 
-***USE***
+Zulässige Formate: nnnnn (5-stellig numerisch)
 
-***USE-DOMAIN***
+nnnnnA (6. Stelle alphanum. Uppercase)
 
-***VT***
+***USE***   Urheber bei fachlicher Modifizierung oder Neuanlage einer GOP
+
+***USE-DOMAIN*** OID der Schlüsseltabelle zu ‚USE’
+
+***VT***   Bearbeitungsdatum
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
-
-Gebührenziffer
-
-Zulässige Formate: nnnnn
-
-nnnnnA
-
-Urheber bei fachlicher Modifizierung oder Neuanlage einer GOP
-
-OID der Schlüsseltabelle zu ‚USE’
-
-Bearbeitungsdatum (5-stellig numerisch)
-
-(6. Stelle alphanum. Uppercase)
 
 erlaubt ist 5-stellig numerisch bzw. 6-stellig (mit einem Großbuchstaben als Suffix). In den unterge- ordneten 5 Sektionen werden die Eigenschaften der GNR nach ihrer fachlichen Zugehörigkeit grup- piert. 33   Seite 23 von 117
 
@@ -1380,9 +1366,9 @@ element** legende_typ/quittungstext**
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation |
 
-Text (Erläuterung des Elementes siehe Kapitel „
+Text (Erläuterung des Elementes siehe Kapitel „11.10 Element: div
 
-### Element: quittungstext 11.10 Element: div
+### Element: quittungstext
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
 
@@ -2865,7 +2851,7 @@ element** altersbedingung_liste**
 | type | go:altersbedingung_liste_typ |
 | properties | content   complex |
 | identity con- straints | Name    Refer    Selector    Field(s)    unique    u_alter_V_rt        go:alter    @V    go:range_typ/@V |
-| annotation | documentation   achte die begrifflichen Besonderheiten in Zusammenhang mit dem Alter /Lebensjahr! |
+| annotation | documentation   Beinhaltet das Mindest- und/oder Höchstalter für die Abrechnugsfähigkeit einer Leistung. Man be- |
 
 ***<alter>***   Patientenalter als Voraussetzung
 
@@ -2877,7 +2863,7 @@ Das Alter wird durch das V-Attribut, die Einheit des Alters durch das U-Attribut
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
 
-Beinhaltet das Mindest- und/oder Höchstalter für die Abrechnugsfähigkeit einer Leistung. Man be-Seite 73 von 117
+achte die begrifflichen Besonderheiten in Zusammenhang mit dem Alter /Lebensjahr! Seite 73 von 117
 
 
 ---
@@ -3254,7 +3240,7 @@ element** ausschluss_liste**
 |---|---|
 | type | go:ausschluss_liste_typ |
 | properties | content   complex |
-| identity con- straints | Name    Refer    Selector    Field(s)    unique    V        go:bezugsraum    @V    @U |
+| identity con- straints | Name    Refer    Selector    Field(s)    unique    u_aus_bezugsraum_     go:bezugsraum    @V    @U |
 | annotation | documentation   Beinhaltet  kapitel- als auch leistungsbezogene Ausschlüsse. |
 
 ***<bezugsraum>***  Bezugsraum
@@ -3277,7 +3263,7 @@ element** ausschluss_liste/bezugsraum**
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
 
-u_aus_bezugsraum_Seite 82 von 117
+Seite 82 von 117
 
 
 ---
@@ -3463,9 +3449,9 @@ element** sub_gop_liste**
 
 Definiert den Bezugszeitraum, innerhalb dessen die regel anzuwenden ist. Beispiele sind der  Behandlungstag, Behandlungsfall etc.
 
-Bezugsraum
-
 ### Element: sub_gop_liste/bezugsraum
+
+Bezugsraum
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
 
@@ -3532,7 +3518,7 @@ element** pfg_ausschluss**
 |---|---|
 | properties | isRef   0  content   complex |
 | attributes | Name    Type    Use    Default    Fixed    Annotation  V    xs:Bool  required |
-| annotation | documentation   zur fachärztlichen Grundversorgung führen würde. |
+| annotation | documentation   Dient zur Kennzeichnung von Leistungen, deren Abrechnung zum Ausschluss der Grundpauschale |
 
 ***V***  *true* = Ausschluss der PFG, Zusetzung im Behandlungsfall nicht möglich
 
@@ -3544,7 +3530,7 @@ Die Nebeneinanderabrechnung von Leistungen kann zu Höchstwerten führen. Die H�
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
 
-Dient zur Kennzeichnung von Leistungen, deren Abrechnung zum Ausschluss der Grundpauschale Seite 88 von 117
+zur fachärztlichen Grundversorgung führen würde. Seite 88 von 117
 
 
 ---
@@ -4090,9 +4076,9 @@ element** ms_leistungsuntergruppe**
 | attributes | Name    Type    Use    Default    Fixed    V    xs:string  required        S    xs:string  required        1.2.276.0.76.3.1.1.5.2.33 |
 | annotation | documentation |
 
-***V***
+***V***   Code für die Leistungsuntergruppe
 
-***S***
+***S***   OID der Schlüsseltabelle
 
 ## 14.2 Element: kv_gruppierungsfeld_liste
 
@@ -4105,10 +4091,6 @@ element** kv_gruppierungsfeld_liste**
 | type | go:kv_gruppierungsfeld_liste_typ |
 | properties | content   complex |
 | annotation | documentation   Sammelelement für kv-spezifische Informationen zur Initialisierung der Bewertungssteuerungsdatei |
-
-Code für die Leistungsuntergruppe
-
-OID der Schlüsseltabelle
 
 ***<kv_gruppierungsfeld>***
 
@@ -4596,15 +4578,11 @@ u_as_abrechnungsst Beinhaltet den Code der jeweiligen Bezirksstelle und Sammelel
 |---|---|
 | annotation | documentation   Beinhaltet den Code der jeweiligen Kostenträgergruppe. |
 
-***V***
+***V***   Code für KT-Gruppe
 
-***S***
+***S***   OID
 
 KBV_ITA_VGEX_Datensatz_SDEBM * Version 1.61
-
-Code für KT-Gruppe
-
-OID
 
 Seite 114 von 117
 

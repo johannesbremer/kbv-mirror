@@ -32,7 +32,7 @@
 | 8. | Die eingesetzte Software ist zertifiziert. |
 |---|---|
 
-\| **1** Bundesausschusses in der jeweils geltenden Fassung wurden beachtet.**\|** 2.**2** Die in Rechnung gestellten Leistungen habe ich selbst (persönlich) oder durch nichtärztliche Hilfskräfte unter |
+\| **1\|2** |
 \|---|
 
 Sammelerklärung 2. Quartal 2026 | Ermächtigte Ärzte

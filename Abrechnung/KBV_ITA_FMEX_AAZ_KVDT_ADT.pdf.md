@@ -156,11 +156,15 @@ Antragssteller:
 | ☐ | Auf Grundlage der aktuell gültigen Datensatzbeschreibung KVDT ist das ADT-Datenpaket mit den |
 | ☐ | Alle Pflichtfunktionen ADT des Anforderungskataloges KVDT sind realisiert. |
 
+- allen Feldern
+- allen Ausprägungen (erlaubte Inhalte) zu den Feldern
+- allen Regeln
+
 Antragssteller:
 
 Seite 5 von 11 / KBV / Antrag auf Zertifizierung Abrechnungsdaten-ADT / Version: 4.4 / 15. Mai 2024
 
-oben genannten Satzarten realisiert mit  allen Feldern allen Ausprägungen (erlaubte Inhalte) zu den Feldern allen Regeln 
+oben genannten Satzarten realisiert mit  
 
 
 ---

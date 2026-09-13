@@ -34,9 +34,7 @@ Labordatenkommunikation KBV_ITA_VGEX_FAQ_LDK 1.04 Datum: 15.11.2023 Kennzeichnun
 | **3** | **REFERENZIERTE** | | **DOKUMENTE** |
 |  | [KBV_ITA_VGEX_FAQ_LDK | * Version | 1.04 |
 
-**2**  **4**  **5**  **12**
-
-REFERENZIERTE DOKUMENTE IT in der Arztpraxis FAQ für Softwarehersteller zur Labordatenkommunikation [KBV_ITA_VGEX_FAQ_LDK * Version 1.04Seite 3 von 12
+5 REFERENZIERTE DOKUMENTE 12 IT in der Arztpraxis FAQ für Softwarehersteller zur Labordatenkommunikation [KBV_ITA_VGEX_FAQ_LDK * Version 1.04Seite 3 von 12
 
 
 ---
@@ -190,17 +188,19 @@ Seite 7 von 12
 
 ---
 
-**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation     **Fragestellung: Welche Programmierbibliotheken können für die Verarbeitung digitaler**  **Muster eingesetzt werden?**
+**IT in der Arztpraxis**  FAQ für Softwarehersteller zur Labordatenkommunikation
+
+**Fragestellung: Welche Programmierbibliotheken können für die Verarbeitung digitaler**  **Muster eingesetzt werden?**
 
 *Antwort der KBV:*
 
-*Für die Verarbeitung digitaler Muster können sowohl kommerzielle als auch „freie“ Produkte* *genutzt werden  die KBV wird hier keine Vorgaben oder Empfehlungen machen.*
+*Für die Verarbeitung digitaler Muster können sowohl kommerzielle als auch „freie“ Produkte*  *genutzt werden  die KBV wird hier keine Vorgaben oder Empfehlungen machen.*
 
 **Fragestellung: Warum befindet sich auf den digitalen Mustern kein Barcode?**
 
 *Antwort der KBV:*
 
-*Der Ausdruck eines digitalen Musters stellt kein*  *abrechnungsbegründenden Unterlage dar. Da ein*  *Medienbruchs zwischen Papier- und Digital-Welt dient, schafft ein Barcode auf einem*  *„unausdruckbaren“ digitalen Muster keinen Mehrwert beim Beauftragungsprozess, sondern*  *lediglich Mehraufwand bei der Implementierung.*
+*Der Ausdruck eines digitalen Musters stellt kein gültiges Muster im Sinne einer*  *abrechnungsbegründenden Unterlage dar. Da ein Barcode zur Überwindung des*  *Medienbruchs zwischen Papier- und Digital-Welt dient, schafft ein Barcode auf einem*  *„unausdruckbaren“ digitalen Muster keinen Mehrwert beim Beauftragungsprozess, sondern*  *lediglich Mehraufwand bei der Implementierung.*
 
 **Fragestellung:** **Ist das Einbetten von Anlagen in die digitalen Muster erlaubt?**
 
@@ -212,21 +212,15 @@ Seite 7 von 12
 
 *Antwort der KBV:*
 
-*In Anlage 2b des BMV-Ä sind die Anforderungen an einen sicheren Übertragungsweg definiert.*  *Bei der Zertifizierung bestätigt der Softwarehersteller, dass sein Produkt nur Übertragungswege*  *einsetzt, die die Anforderungen nach Anlage 2b BMV-Ä erfüllen. Dazu muss dieser bei der* *Zertifizierung das von der KBV bereitgestellte Formular* *einreichen, in dem der Anbieter des Übertragungsweges*  *einzuhalten. Wie der Softwarehersteller und der Anbieter des Übertragungsweges im bilateralen* *Verhältnis agieren (Audit etc.), ist ihnen überlassen.* *Übertragungswege anzugeben.*
+*In Anlage 2b des BMV-Ä sind die Anforderungen an einen sicheren Übertragungsweg definiert.*  *Bei der Zertifizierung bestätigt der Softwarehersteller, dass sein Produkt nur Übertragungswege*  *einsetzt, die die Anforderungen nach Anlage 2b BMV-Ä erfüllen. Dazu muss dieser bei der*  *Zertifizierung das von der KBV bereitgestellte Formular* *[KBV_ITA_FMEX_Labor_UW]*  *einreichen, in dem der Anbieter des Übertragungsweges bestätigt die Anforderungen*  *einzuhalten. Wie der Softwarehersteller und der Anbieter des Übertragungsweges im bilateralen*  *Verhältnis agieren (Audit etc.), ist ihnen überlassen.* *Es sind alle umgesetzten*  *Übertragungswege anzugeben.*
 
 **Fragestellung: Was ist unter einem „Übertragungsweg“ zu verstehen?**
 
 *Antwort der KBV:*
 
-*Ein „Übertragungsweg“ nach Anlage 2b des BMV* *Übertragung von Dateien, insbesondere mit personenbezogenen Daten, von System A zu*  *System B zu stattfindet. Nach deutschem Bundesdatenschutzgesetz (BDSG) hat diese*  *Übertragung hinreichend verschlüsselt zu erfolgen, um diese Daten adäquat zu schützen.*  *Beispielsweise ein von beiden Systemen gemeinsam genutzter Datenträger fällt bereits*  *unter die Definition eines Übertragungsweges.*
+*Ein „Übertragungsweg“ nach Anlage 2b des BMV-Ä ist dann gegeben, wenn eine*  *Übertragung von Dateien, insbesondere mit personenbezogenen Daten, von System A zu*  *System B zu stattfindet. Nach deutschem Bundesdatenschutzgesetz (BDSG) hat diese*  *Übertragung hinreichend verschlüsselt zu erfolgen, um diese Daten adäquat zu schützen.*  *Beispielsweise ein von beiden Systemen gemeinsam genutzter Datenträger fällt bereits*  *unter die Definition eines Übertragungsweges.*
 
 [KBV_ITA_VGEX_FAQ_LDK * Version 1.04
-
-*gültiges Muster im Sinne einer*  *Barcode zur Überwindung des*
-
-*[KBV_ITA_FMEX_Labor_UW]*  *bestätigt die Anforderungen*   *Es sind alle umgesetzten*
-
-*-Ä ist dann gegeben, wenn eine*
 
 Seite 8 von 12
 

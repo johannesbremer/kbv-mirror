@@ -11,7 +11,7 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  In Kraft Status: © KBV Kassenärztliche Bundesvereinigung, Berlin 2018
+Kapselendoskopie 1.00 Datum: 08.08.2014 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2018
 
 
 ---
@@ -389,16 +389,15 @@ Seite 12 von 22
 
 ## 4.1 Element header
 
-Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
+Der header ist eine Untermenge vom header der EHD-Spezifikation [KBV_ITA_VGEX_eHD]
+
+Die genaue Beschreibung der Elemente können Sie der EHD-Spezifikation
 
 [KBV_ITA_VGEX_eHD] entnehmen. Für die hier definierte Schnittstelle wurden folgende Ele-mente eingeschränkt:
 
 -  *Id*-Element: Die ID muss eindeutig sein. Dazu werden in die Attribute folgende Daten  eingetragen:
 - o Im EX-Attribut steht eine eindeutige id (GUID)
 - o Im RT-Attribut steht die lebenslange Arztnummer (LANR)
-
-[KBV_ITA_VGEX_eHD]
-
 -  Im *document_type_cd*
 -  Das  eine Korrekturlieferung erfolgt.
 
@@ -410,10 +409,8 @@ Der header ist eine Untermenge vom header der EHD-Spezifikation  Die genaue Besc
 **Abbildung 3 - Element document_type_cd**
 
 - *document_relationship*-Element ist ein optionales Element und wird gefüllt, wenn
-- o Das Element *document_relationship/document_relationship.type_cd* V-Attribut den Wert „RPLC“
-- o Das Element *document_relationship/related_document/id*  auf das *id*-Element des Ursprungsdokuments.
-- enthält im
-- enthält den Verweis
+- o Das Element *document_relationship/document_relationship.type_cd* enthält im  V-Attribut den Wert „RPLC“
+- o Das Element *document_relationship/related_document/id* enthält den Verweis  auf das *id*-Element des Ursprungsdokuments.
 
 **Abbildung 4 - Element document_relationship**
 
@@ -500,15 +497,13 @@ Der Coderahmen für diese Sciphox-SSU sieht dann wie folgt aus:
 
 #### 4.1.1.1 Software-ID (id)
 
-Das Element *sciphox:id* besteht aus den beiden Attributen  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
+Das Element *sciphox:id* besteht aus den beiden Attributen *EX* und *RT*. Das *EX*-Attribut erhält  als Wert die konkrete KBV-Prüfnummer für das Modul mit dem dieser Datensatz erzeugt wur-de. Ab 01.01.2008 gelten neue Prüfnummern im Format: „a/n[n][n]/JJMM/nn/ccc“. Wobei  a=Softwareklasse, n=Nummer, J=Jahr, M=Monat, c=alphanumerische Zeichen. Das *RT* Attribut erhält als Wert den festen Wert „KBV-Prüfnummer“.
 
 Als Beispiel sei hier der folgende Code mit fiktiver KBV-Prüfnummer angegeben:
 
 <sciphox:id EX="X/60/0801/36/103" RT="KBV-Prüfnummer"/>
 
 **XML-Code 5 - id (Software)**
-
-*EX* und *RT*. Das *EX*-Attribut erhält
 
 KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
 
@@ -538,9 +533,12 @@ Seite 17 von 22
 
 ---
 
+**Abbildung 9 - Element qske_dokumentation**
+
+XML-Beispiel (ohne Anspruch auf Vollständigkeit)
+
 \| <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
 \|---|
-\| **Abbildung 9 - Element qske_dokumentation **   XML-Beispiel (ohne Anspruch auf Vollständigkeit)  <qske:qske_dokumentation>  <anzahl_erstuntersuchungen V="10"/> |
 
 **IT in der Arztpraxis**  Schnittstellenbeschreibung QS Kapselendoskopie
 
@@ -555,7 +553,6 @@ KBV_ITA_VGEX_Schnittstelle_QSKE * Version 1.00
 
 \| </qske:qske_dokumentation> |
 \|---|
-\| </qske:qske_dokumentation> |
 
 **XML-Code 6 - qske dokumentation**
 
@@ -567,21 +564,29 @@ Die Anzahl (nonNegativeInteger1) der durchgeführten Erstuntersuchungen (entspri
 
 Die Anzahl (nonNegativeInteger) der durchgeführten Wiederholungsuntersuchungen (ent-spricht Feld 1.b der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwi-schen 0 und 99999 liegen.
 
-### 4.3.3 anzahl_nicht_zutreffend
+### 4.3.3
 
 Die Anzahl (nonNegativeInteger) der durchgeführten Kapselendoskopien mit Patienten ohne  Blutungsfördernden Medikamenten (entspricht Feld 2.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999 liegen.
 
-### 4.3.4 anzahl_kapselendoskopien_mit_auslassung
+### 4.3.4
 
 Die Anzahl (nonNegativeInteger) der Kapselendoskopien mit Auslassung (entspricht Feld 2.b  der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und 99999  liegen.
 
-### 4.3.5 anzahl_kapselendoskopien_ohne_auslassung
+### 4.3.5
 
 Die Anzahl (nonNegativeInteger) der Kapselendoskopien ohne Auslassung (entspricht Feld  2.c der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
 
-### 4.3.6 anzahl_auswertungen_selbst
+### 4.3.6
 
 Die Anzahl (nonNegativeInteger) der selbst ausgewerteten Kapselendoskopien (entspricht  Feld 3.a der Plausibilitäten) wird hier im V-Attribut angegeben. Der Wert muss zwischen 0 und  99999 liegen.
+
+### anzahl_nicht_zutreffend
+
+### anzahl_kapselendoskopien_mit_auslassung
+
+### anzahl_kapselendoskopien_ohne_auslassung
+
+### anzahl_auswertungen_selbst
 
 1 Gemäß der W3C Spezifikation
 

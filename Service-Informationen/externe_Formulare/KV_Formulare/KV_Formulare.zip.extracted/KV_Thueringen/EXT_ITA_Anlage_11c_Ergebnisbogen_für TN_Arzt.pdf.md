@@ -10,13 +10,15 @@
 \| **Ergebnisse des „Früherkennungsprogramm“ der HzV-THR und Maßnahmen zur Gesunderhaltung:  Beratung für die Empfehlung folgender Krebs-Früherkennungsuntersuchungen erfolgten □ □ Asthma bronchiale ** bzw.**□ □ □ □ □  □ □ Bluthochdruck  □ □ □ □ □  □  □ Diabetes mellitus □ □ □ □ □**        Termin:**□ □ □ □  □  □ □ Herzerkrankungen ** z. B. koronare  **□ □      …………………………………… □ □  □ □ □** |
 \|---|
 
+V2A
+
 **Teilnehmer**
 
 **n HzV**
 
 **für de**
 
-(HzV-THR)      geb. am der HzV-THR (Anlage 11c) V2A _______________________________       _______________________________        COPD Herzkrankheit (KHK), Herzinsuffizienz (HI), _______________________________   _______________________________   unauffällig gut eingestellt  neu diagnostiziert Vorsicht vor Begleiterkrankungen unauffällig gut eingestellt  neu diagnostiziert Vorsicht vor Begleiterkrankungen unauffällig gut eingestellt  neu diagnostiziert Vorsicht vor Begleiterkrankungen weitere Untersuchungen nötig   ----------------------- keine Auffälligkeiten neu diagnostiziert Vorsicht vor Begleiterkrankungen Teilnahme am Curaplan (DMP) Überweisung an Facharzt weitere Überwachung/Kontrolle nötig Online Coach Bluthochdruck www.aok.de/online-coach-bluthochdruck Überprüfung/Anpassung der Medikation Überweisung an Facharzt weitere Überwachung/Kontrolle nötig Primärprävention mit Empfehlung Sekundarprävention mit Antrag Gewichtsreduktion                                  www.aok.de/online-coach-adipositas Online Coach Diabetes                    www.aok.de/online-coach-diabetes Teilnahme am Curaplan (DMP) Überweisung an Facharzt weitere Überwachung/Kontrolle nötig Rehabilitationssport (ärztl. Verordnung) Teilnahme am Curaplan (DMP) Überweisung an Facharzt weitere Überwachung/Kontrolle nötig**Exemplar**
+(HzV-THR)      geb. am der HzV-THR (Anlage 11c) _______________________________       _______________________________        COPD Herzkrankheit (KHK), Herzinsuffizienz (HI), _______________________________   _______________________________   unauffällig gut eingestellt  neu diagnostiziert Vorsicht vor Begleiterkrankungen unauffällig gut eingestellt  neu diagnostiziert Vorsicht vor Begleiterkrankungen unauffällig gut eingestellt  neu diagnostiziert Vorsicht vor Begleiterkrankungen weitere Untersuchungen nötig   ----------------------- keine Auffälligkeiten neu diagnostiziert Vorsicht vor Begleiterkrankungen Teilnahme am Curaplan (DMP) Überweisung an Facharzt weitere Überwachung/Kontrolle nötig Online Coach Bluthochdruck www.aok.de/online-coach-bluthochdruck Überprüfung/Anpassung der Medikation Überweisung an Facharzt weitere Überwachung/Kontrolle nötig Primärprävention mit Empfehlung Sekundarprävention mit Antrag Gewichtsreduktion                                  www.aok.de/online-coach-adipositas Online Coach Diabetes                    www.aok.de/online-coach-diabetes Teilnahme am Curaplan (DMP) Überweisung an Facharzt weitere Überwachung/Kontrolle nötig Rehabilitationssport (ärztl. Verordnung) Teilnahme am Curaplan (DMP) Überweisung an Facharzt weitere Überwachung/Kontrolle nötig**Exemplar**
 
 
 ---
