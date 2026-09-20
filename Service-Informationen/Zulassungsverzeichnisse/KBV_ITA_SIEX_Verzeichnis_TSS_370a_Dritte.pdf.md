@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**12. SEPTEMBER 2026**
+**19. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -36,4 +36,4 @@ Y/170/2607/36/783 30.06.2029
 
 Y/170/2609/36/782 31.08.2029
 
-AOK NAVIDA AOK PLUS Sternplatz 7 01067 Dresden Internet: Https://www.aok.de/pk/plus/ Meine SBK Siemens-Betriebskrankenkasse (SBK) Ganghoferstraße 29 80339 München Internet: www.sbk.orgSeite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 12. September 2026
+AOK NAVIDA AOK PLUS Sternplatz 7 01067 Dresden Internet: Https://www.aok.de/pk/plus/ Meine SBK Siemens-Betriebskrankenkasse (SBK) Ganghoferstraße 29 80339 München Internet: www.sbk.orgSeite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 19. September 2026

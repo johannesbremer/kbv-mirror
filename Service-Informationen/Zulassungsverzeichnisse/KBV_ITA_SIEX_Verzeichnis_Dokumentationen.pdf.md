@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**12. SEPTEMBER 2026**
+**19. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -54,7 +54,7 @@ Windows
 
 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -103,7 +103,7 @@ Windows
 
 Windows
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -139,7 +139,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -189,7 +189,7 @@ Windows
 
 Linux Mac OS Sonstige Windows
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -215,7 +215,7 @@ Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. S
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 Y/52/2403/36/673 28.02.2027 QS Zervix-Zytologie
 
@@ -280,7 +280,7 @@ iOS/Android Linux Mac OS Windows
 
 Windows 98693 Ilmenau Internet: www.gmc-systems.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -327,7 +327,7 @@ Linux Mac OS Sonstige Windows
 
 Windows 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -375,7 +375,7 @@ Windows
 
 Windows 65343 Eltville Internet: www.medatixx.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -404,7 +404,7 @@ Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. S
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 Windows
 
@@ -448,7 +448,7 @@ Mac OS Windows
 
 Windows 74189 Weinsberg Internet: www.neutz.net
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -496,7 +496,7 @@ Windows
 
 Windows 81673 München Internet: www.pegasus-zytologie.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -544,7 +544,7 @@ Sonstige Windows
 
 Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -588,7 +588,7 @@ Linux Windows
 
 iOS/Android Linux Mac OS Windows
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026
 
 
 ---
@@ -627,4 +627,4 @@ Mac OS Windows
 
 Internet: www.zollsoft.de
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 12. September 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 19. September 2026

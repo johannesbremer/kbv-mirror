@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**12. SEPTEMBER 2026**
+**19. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -54,7 +54,7 @@ Windows
 
 Linux Mac OS Windows Internet: avelios.com
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 
 ---
@@ -80,7 +80,7 @@ Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 
 
 **CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2601/36/078
 
@@ -126,7 +126,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2504/36/112
 
@@ -176,7 +176,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2410/36/280
 
@@ -224,7 +224,7 @@ Windows
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2504/36/238
 
@@ -274,7 +274,7 @@ Linux Mac OS Sonstige Windows
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2507/36/677
 
@@ -324,7 +324,7 @@ Linux Mac OS Windows
 
 **FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2510/36/253
 
@@ -370,7 +370,7 @@ Windows
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2502/38/630
 
@@ -420,7 +420,7 @@ Windows
 
 **ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 X/400/2410/36/617
 
@@ -470,7 +470,7 @@ Linux Mac OS Windows
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2506/37/596
 
@@ -522,7 +522,7 @@ Mac OS Windows
 
 Softwarevariante(n): - psyx
 
-Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2504/36/320
 
@@ -568,7 +568,7 @@ Windows
 
 **MEDIVERBUND AG** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2602/38/641
 
@@ -616,7 +616,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2510/36/192
 
@@ -656,7 +656,7 @@ Mac OS Windows
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
-Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2410/36/290
 
@@ -704,7 +704,7 @@ Windows
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2507/36/494
 
@@ -750,7 +750,7 @@ Windows
 
 **Paul Albrechts Verlag GmbH** Hamburger Straße 6 22952 Lütjensee Internet: www.pav.de
 
-Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2507/36/487
 
@@ -796,7 +796,7 @@ Windows
 
 **RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
 
-Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2504/36/083
 
@@ -846,7 +846,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **SAP SE** Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare
 
-Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2401/36/608
 
@@ -914,7 +914,7 @@ Linux Windows
 
 iOS/Android Linux Mac OS Windows
 
-Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 
 ---
@@ -940,7 +940,7 @@ Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 Y/400/2504/36/313
 
@@ -985,7 +985,7 @@ Mac OS
 
 Y/400/2510/36/768 30.09.2028 Rohdaten MMI
 
-Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 12. September 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 19. September 2026
 
 **unterstützte** **Betriebssysteme**
 

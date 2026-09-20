@@ -5,9 +5,9 @@
 		<set_id EX="123" RT="278012389"/>
 		<version_nbr V="1"/>
 		<document_type_cd V="EDMP_HI_EV_A" S="1.2.276.0.76.5.100" SN="KBV" DN="Verlaufsdokumentation Chronische Herzinsuffizienz a-Datensatz"/>
-		<service_tmr V="2026-10-15"/>
+		<service_tmr V="2026-10-12"/>
 		<!-- Datum der Unterschrift = Dokumentationsdatum  -->
-		<origination_dttm V="2026-10-15"/>
+		<origination_dttm V="2026-10-12"/>
 		<!-- Datum (Kopfdaten) !!! -->
 		<provider>
 			<provider.type_cd V="PRF"/>

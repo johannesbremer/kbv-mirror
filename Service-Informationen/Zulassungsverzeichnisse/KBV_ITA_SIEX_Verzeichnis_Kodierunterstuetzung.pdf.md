@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**12. SEPTEMBER 2026**
+**19. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -32,7 +32,7 @@
 
 **Helmsauer IT-Solutions GmbH** Dürrenhofstraße 4 90402 Nürnberg Internet: www.helmsauer-gruppe.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 12. September 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Kodierunterstützung / 19. September 2026
 
 X/168/2504/36/690
 

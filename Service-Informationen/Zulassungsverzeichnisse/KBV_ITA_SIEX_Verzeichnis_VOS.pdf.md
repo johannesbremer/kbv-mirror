@@ -8,7 +8,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**12. SEPTEMBER 2026**
+**19. SEPTEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -40,7 +40,7 @@
 
 **CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2312/36/031 30.11.2026
 
@@ -88,7 +88,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2311/36/112 31.10.2026 B1-Schnittstelle
 
@@ -134,7 +134,7 @@ Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2311/36/280 31.10.2026
 
@@ -188,7 +188,7 @@ Y/70/2311/36/295
 |---|---|---|---|---|
 |  | Y/70/2312/36/223 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026 30.09.2027 B1-Schnittstelle
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026 30.09.2027 B1-Schnittstelle
 
 31.10.2026 B1-Schnittstelle
 
@@ -224,7 +224,7 @@ Windows
 
 **HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2312/36/421
 
@@ -270,7 +270,7 @@ Windows
 
 **KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2311/36/660 31.10.2026 B2-Schnittstelle
 
@@ -316,7 +316,7 @@ Windows
 
 Softwarevariante(n): - psyx
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2310/36/385 30.09.2026 B1-Schnittstelle
 
@@ -358,7 +358,7 @@ Windows
 
 Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2311/36/641 31.10.2026 B2-Schnittstelle
 
@@ -396,7 +396,7 @@ Windows
 
 **NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 Y/70/2312/36/276
 
@@ -450,7 +450,7 @@ Y/70/2402/36/247
 |---|---|---|---|---|
 |  | Y/70/2311/36/456 | 31.10.2026 | B1-Schnittstelle |  |
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026 31.12.2026 B1-Schnittstelle
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026 31.12.2026 B1-Schnittstelle
 
 31.01.2027 B1-Schnittstelle
 
@@ -510,7 +510,7 @@ Linux 30.11.2026 B2-Schnittstelle
 
 Windows A-1050 Wien
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026
 
 
 ---
@@ -544,7 +544,7 @@ Y/70/2312/36/313
 |---|---|---|---|---|
 |  | Y/70/2312/36/457 | 30.11.2026 | B1-Schnittstelle |  |
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 12. September 2026 30.11.2026 B1-Schnittstelle
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 19. September 2026 30.11.2026 B1-Schnittstelle
 
 30.11.2026 B1-Schnittstelle
 
