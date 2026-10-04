@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -16,15 +16,15 @@
 
 216 **x.isynet**
 
-280 **CGM MEDISTAR BLACK PRO**
+308 **RescuePro**
 
 112 **TURBOMED**
 
-308 **RescuePro**
-
-078 **Med7**
+280 **CGM MEDISTAR BLACK PRO**
 
 210 **Medical Office**
+
+078 **Med7**
 
 226 **CGM MEDICO**
 
@@ -34,113 +34,85 @@
 
 **Anbieter**
 
-New Media Company GmbH & Co. KG
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-Dedalus HealthCare GmbH
-
-medatixx GmbH & Co. KG
-
-Zollsoft GmbH
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-RescuePro Production GmbH & Co. KG
-
-Bitron GmbH Technologiesysteme
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-CGM Clinical Europe GmbH
-
-Frey ADV GmbH
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 3.Q.2025**
+New Media Company GmbH & Co. KG 224
 
 222
 
+2
+
+Dedalus HealthCare GmbH 143
+
 147
-
-111
-
-96
-
-95
-
-90
-
-90
-
-90
-
-76
-
-74
-
-69
-
-54
-
-48
-
-**Installationen 2.Q.2025 Differenz**
-
-221
-
-1
-
-151
 
 -4
 
-110
+medatixx GmbH & Co. KG 113
 
-1
+111
 
-86
+2
 
-10
+Zollsoft GmbH 103
+
+96
+
+7
+
+medatixx GmbH & Co. KG 92
 
 95
 
-0
+-3
 
-92
-
--2
+RescuePro Production GmbH & Co. KG 90
 
 90
 
 0
 
-89
+CompuGroup Medical Deutschland AG 90
+
+90
+
+0
+
+CompuGroup Medical Deutschland AG 85
+
+90
+
+-5
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 78 74
+
+4
+
+Bitron GmbH Technologiesysteme 77
+
+76
 
 1
 
-77
+CGM Clinical Europe GmbH 67
 
--1
+69
 
-77
+-2
+
+Frey ADV GmbH 51
+
+54
 
 -3
 
-71
+CompuGroup Medical Deutschland AG 49
 
--2
+48
 
-56
+1
 
--2
-
-50
-
--2
+1
 
 
 ---
@@ -149,43 +121,43 @@ CompuGroup Medical Deutschland AG 1
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 498 **T2med**
 
-T2med GmbH & Co. KG 47
-
-45
-
-2
-
-252 **CGM M1 PRO**
-
-CompuGroup Medical Deutschland AG 45
+T2med GmbH & Co. KG 45
 
 47
 
 -2
 
-243 **x.concept**
+252 **CGM M1 PRO**
 
-medatixx GmbH & Co. KG 43
+CompuGroup Medical Deutschland AG 44
 
-44
+45
 
 -1
 
+243 **x.concept**
+
+medatixx GmbH & Co. KG 41
+
+43
+
+-2
+
 343 **SAP Ambulatory Care Management** SAP SE 36
 
-35
+36
 
-1
+0
 
 314 **IMedOne**
 
-Deutsche Telekom Clinical Solutions GmbH 35 35
+Deutsche Telekom Clinical Solutions GmbH 34 35
 
-0
+-1
 
 261 **S3-Win**
 
@@ -193,12 +165,12 @@ S3 Praxiscomputer GmbH / Maximilian Flender 34 34
 
 0
 
-247 **PROFIMED**
+135 **EL - Elaphe Longissima**
 
-PRO MEDISOFT AG 31
+medatixx GmbH & Co. KG 29
 
-33
+30
 
--2
+-1
 
 2

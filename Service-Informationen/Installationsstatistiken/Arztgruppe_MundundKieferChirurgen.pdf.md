@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id**
 
@@ -18,13 +18,13 @@
 
 457
 
-210
-
 216
 
 462
 
 078
+
+210
 
 254
 
@@ -44,13 +44,13 @@
 
 **tomedo**
 
-**Medical Office**
-
 **x.isynet**
 
 **medatixx**
 
 **Med7**
+
+**Medical Office**
 
 **ORBIS®**
 
@@ -70,31 +70,31 @@ CROSSSOFT. GmbH
 
 Zollsoft GmbH
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
 medatixx GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
 Bitron GmbH Technologiesysteme
 
+INDAMED EDV-Entwicklung und Vertrieb GmbH
+
 Dedalus HealthCare GmbH
 
 Mesalvo Mannheim GmbH
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 704
 
-712
+704
 
--8
+0
+
+84
 
 86
 
-89
-
--3
+-2
 
 21
 
@@ -102,11 +102,11 @@ Mesalvo Mannheim GmbH
 
 0
 
-12
+10
 
 12
 
-0
+-2
 
 6
 
@@ -119,30 +119,30 @@ Mesalvo Mannheim GmbH
 6
 
 0
+
+3
+
+3
+
+0
+
+3
+
+3
+
+0
+
+2
+
+2
+
+0
+
+2
 
 5
 
-2
-
-3
-
-3
-
-3
-
-0
-
-3
-
-3
-
-0
-
-2
-
-3
-
--1
+-3
 
 2
 
@@ -169,15 +169,15 @@ Mesalvo Mannheim GmbH
 
 252 **CGM M1 PRO**
 
-290 **M-KIS**
+243 **x.concept**
 
 266 **x.comfort**
 
-406 **esQlab.online**
-
-298 **Elefant**
+290 **M-KIS**
 
 030 **Praxis-Programm**
+
+136 **InterARZT**
 
 **Anbieter**
 
@@ -187,17 +187,17 @@ Deutsche Telekom Clinical Solutions Gmb
 
 CompuGroup Medical Deutschland AG
 
-Meierhofer AG
+medatixx GmbH & Co. KG
 
 medatixx GmbH & Co. KG
 
-IQVIA Commercial GmbH & Co OHG
+Meierhofer AG
 
-HASOMED GmbH
+MediSoftware Computersysteme für Ärzte
 
-MediSoftware Computersysteme für Ärzte 2
+InterData Praxiscomputer GmbH 2
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 1
 
@@ -217,7 +217,7 @@ H 1 1
 
 1
 
-1
+0
 
 0
 

@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -12,9 +12,9 @@
 
 254 **ORBIS®**
 
-112 **TURBOMED**
-
 462 **medatixx**
+
+112 **TURBOMED**
 
 457 **tomedo**
 
@@ -22,11 +22,11 @@
 
 210 **Medical Office**
 
-343 **SAP Ambulatory Care Management**
-
 498 **T2med**
 
 226 **CGM MEDICO**
+
+343 **SAP Ambulatory Care Management**
 
 203 **ALBIS**
 
@@ -40,9 +40,9 @@ medatixx GmbH & Co. KG
 
 Dedalus HealthCare GmbH
 
-CompuGroup Medical Deutschland AG
-
 medatixx GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
 
 Zollsoft GmbH
 
@@ -50,112 +50,112 @@ medatixx GmbH & Co. KG
 
 INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-SAP SE
-
 T2med GmbH & Co. KG
 
 CGM Clinical Europe GmbH
+
+SAP SE
 
 CompuGroup Medical Deutschland AG
 
 CompuGroup Medical Deutschland AG 1
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025**
 
-69
+61
 
-56
+55
 
-35
+34
 
-32
+31
 
 30
 
 29
 
-22
+21
 
-22
+21
 
-19
+18
+
+18
 
 17
 
-16
-
-14
+15
 
 13
 
-**Installationen 2.Q.2025 Differenz**
+**Installationen 3.Q.2025 Differenz**
 
-64
+69
 
-5
+-8
 
-60
-
--4
-
-36
+56
 
 -1
 
-33
+35
 
 -1
 
-27
-
-3
-
-28
+30
 
 1
 
-22
+32
+
+-2
+
+29
 
 0
 
-23
+22
 
 -1
 
 22
 
--3
-
-15
-
-2
+-1
 
 17
 
--1
+1
 
-15
+16
 
--1
+2
+
+19
+
+-2
 
 14
 
--1
+1
+
+13
+
+0
 
 
 ---
 
 **Id Praxissoftware**
 
+314 **IMedOne**
+
 015 **MEDYS**
 
 135 **EL - Elaphe Longissima**
 
-314 **IMedOne**
+086 **DURIA**
 
 290 **M-KIS**
-
-086 **DURIA**
 
 261 **S3-Win**
 
@@ -163,58 +163,60 @@ CompuGroup Medical Deutschland AG 1
 
 **Anbieter**
 
+Deutsche Telekom Clinical Solutions GmbH
+
 MEDYS GmbH
 
 medatixx GmbH & Co. KG
 
-Deutsche Telekom Clinical Solutions GmbH
+Duria eG
 
 Meierhofer AG
 
-**Installationen 3.Q.2025**
+S3 Praxiscomputer GmbH / Maximilian Flender
+
+Schwerdtner Medizin-Software GmbH 2
+
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+8
+
+7
+
+1
 
 8
 
 8
+
+0
+
+8
+
+8
+
+0
 
 7
 
 6
 
-Duria eG 6
-
-S3 Praxiscomputer GmbH / Maximilian Flender 5
-
-Schwerdtner Medizin-Software GmbH 5
-
-2
-
-**Installationen 2.Q.2025 Differenz**
-
-8
-
-0
-
-8
-
-0
-
-7
-
-0
-
-5
-
 1
 
-7
+6
 
--1
+6
+
+0
+
+5
 
 5
 
 0
 
-8
+5
 
--3
+5
+
+0

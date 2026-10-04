@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id**
 
@@ -82,79 +82,79 @@ Bitron GmbH Technologiesysteme
 
 Frey ADV GmbH 1
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+10.645
 
 10.683
 
-10.652
+-38
 
-31
+10.119
 
 10.171
 
-10.283
+-52
 
--112
+5.673
 
 5.636
 
-5.594
+37
 
-42
+4.537
 
 4.476
 
-4.440
+61
 
-36
+1.676
 
 1.683
 
-1.709
+-7
 
--26
+659
 
 564
 
-498
+95
 
-66
+565
 
 495
 
-451
+70
 
-44
+346
 
 349
 
-365
+-3
 
--16
+281
 
 278
 
-272
+3
 
-6
+267
 
 214
 
-165
+53
 
-49
+92
 
 93
 
-96
-
--3
+-1
 
 82
 
-87
+82
 
--5
+0
 
 
 ---
@@ -163,65 +163,65 @@ Frey ADV GmbH 1
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 112 **TURBOMED**
 
 CompuGroup Medical Deutschland AG 70
 
-74
+70
 
--4
+0
 
 210 **Medical Office**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 61 62
+INDAMED EDV-Entwicklung und Vertrieb GmbH 60 61
 
 -1
 
 203 **ALBIS**
 
-CompuGroup Medical Deutschland AG 46
+CompuGroup Medical Deutschland AG 45
 
 46
 
-0
-
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 45
-
-43
-
-2
-
-266 **x.comfort**
-
-medatixx GmbH & Co. KG 33
-
-34
-
 -1
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 43
+
+45
+
+-2
 
 083 **PegaMed**
 
-PEGA Elektronik GmbH 31
+PEGA Elektronik GmbH 30
 
-30
+31
 
-1
+-1
+
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 29
+
+33
+
+-4
 
 252 **CGM M1 PRO**
 
-CompuGroup Medical Deutschland AG 26
+CompuGroup Medical Deutschland AG 27
 
 26
 
-0
+1
 
 254 **ORBIS®**
 
-Dedalus HealthCare GmbH 24
+Dedalus HealthCare GmbH 25
 
-23
+24
 
 1
 

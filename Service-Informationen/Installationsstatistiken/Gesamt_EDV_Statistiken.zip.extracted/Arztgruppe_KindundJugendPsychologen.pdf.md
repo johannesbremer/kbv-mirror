@@ -2,93 +2,93 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 295 **Epikur**
 
 Epikur Software GmbH & Co. KG 115
 
-114
+115
 
-1
+0
 
 112 **TURBOMED**
 
-CompuGroup Medical Deutschland AG 88
+CompuGroup Medical Deutschland AG 86
 
-91
+88
 
--3
+-2
 
 462 **medatixx**
 
-medatixx GmbH & Co. KG 71
+medatixx GmbH & Co. KG 73
 
-72
+71
 
--1
+2
 
 299 **SMARTY**
 
 New Media Company GmbH & Co. KG 61
 
-62
+61
 
--1
+0
 
 298 **Elefant**
 
 HASOMED GmbH 61
 
-60
+61
 
-1
+0
 
 348 **psyprax**
 
-psyprax GmbH 55
+psyprax GmbH 53
 
 55
 
-0
-
-243 **x.concept**
-
-medatixx GmbH & Co. KG 46
-
-46
-
-0
+-2
 
 457 **tomedo**
 
-Zollsoft GmbH 46
+Zollsoft GmbH 49
 
-43
+46
 
 3
 
 216 **x.isynet**
 
-medatixx GmbH & Co. KG 45
+medatixx GmbH & Co. KG 46
+
+45
+
+1
+
+243 **x.concept**
+
+medatixx GmbH & Co. KG 44
 
 46
 
--1
+-2
 
 203 **ALBIS**
 
-CompuGroup Medical Deutschland AG 35
+CompuGroup Medical Deutschland AG 33
 
 35
 
-0
+-2
 
 210 **Medical Office**
 
@@ -145,54 +145,56 @@ PRO MEDISOFT AG
 
 Data-AL GmbH
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025**
 
 26
 
-27
-
--1
-
-15
+16
 
 13
-
-2
-
-13
-
-14
-
--1
 
 12
 
-14
-
--2
-
 10
-
-10
-
-0
 
 9
 
-9
-
-0
-
 8
 
 8
-
-0
-
-8
-
-8
-
-0
 
 2
+
+**Installationen 3.Q.2025 Differenz**
+
+26
+
+0
+
+15
+
+1
+
+13
+
+0
+
+12
+
+0
+
+10
+
+0
+
+9
+
+0
+
+8
+
+0
+
+8
+
+0

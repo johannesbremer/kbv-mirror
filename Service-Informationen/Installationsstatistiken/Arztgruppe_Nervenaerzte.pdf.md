@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id**
 
@@ -20,11 +20,11 @@
 
 457
 
+498
+
 348
 
 243
-
-498
 
 254
 
@@ -46,11 +46,11 @@
 
 **tomedo**
 
+**T2med**
+
 **psyprax**
 
 **x.concept**
-
-**T2med**
 
 **ORBIS®**
 
@@ -72,87 +72,87 @@ CompuGroup Medical Deutschland AG
 
 Zollsoft GmbH
 
+T2med GmbH & Co. KG
+
 psyprax GmbH
 
 medatixx GmbH & Co. KG
-
-T2med GmbH & Co. KG
 
 Dedalus HealthCare GmbH
 
 HASOMED GmbH 1
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+376
 
 386
 
-397
+-10
 
--11
+353
 
 350
 
-357
+3
 
--7
+332
 
 335
 
-340
+-3
 
--5
+307
 
 294
 
-282
-
-12
+13
 
 238
 
-236
-
-2
-
-235
-
-235
+238
 
 0
+
+229
+
+235
+
+-6
+
+219
 
 206
 
-192
+13
 
-14
+186
+
+171
+
+15
+
+184
 
 187
 
-190
-
 -3
-
-171
-
-181
-
--10
-
-171
 
 162
 
-9
+171
+
+-9
+
+159
 
 163
 
-163
+-4
 
-0
+139
 
 142
-
-145
 
 -3
 
@@ -197,52 +197,52 @@ Duria eG
 
 CGM Clinical Europe GmbH 2
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+130
 
 129
 
-126
+1
 
-3
+121
 
 124
 
-125
+-3
 
--1
+109
 
 110
 
-112
+-1
 
--2
-
-102
+97
 
 102
 
-0
-
-85
+-5
 
 87
 
--2
-
-80
-
-80
-
-0
-
-72
-
-70
+85
 
 2
 
+78
+
+80
+
+-2
+
+72
+
+72
+
+0
+
+69
+
 65
 
-71
-
--6
+4

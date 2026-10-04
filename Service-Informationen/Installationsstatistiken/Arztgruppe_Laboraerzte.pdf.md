@@ -1,8 +1,6 @@
-## TOP 20 Systeme - Laborärzte
+### TOP 20 Systeme - Laborärzte
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
-
-#### Datenstand: 30.09.2025
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand: 31.12.2025**
 
 **Id Praxissoftware**
 
@@ -12,211 +10,161 @@
 
 347 **Opus::L Labormanagementsystem**
 
-716 **Melos-Labor-System**
-
 409 **i/med Billing**
 
-704 **PROMED-open / X-PROMED**
+716 **Melos-Labor-System**
 
 210 **Medical Office**
 
-263 **Clinisys vianova Labor**
-
-493 **LX**
+704 **PROMED-open / X-PROMED**
 
 729 **GLIMS**
 
+263 **Clinisys vianova Labor**
+
 725 **NEXUS / SWISSLAB**
+
+493 **LX**
 
 375 **H&S Laborsoftware**
 
 280 **CGM MEDISTAR BLACK PRO**
 
+613 **VAULT Suite**
+
+740 **LabCentre**
+
+703 **ELADIS**
+
+252 **CGM M1 PRO**
+
 **Anbieter**
 
-CGM LAB International GmbH
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-Medat Computersysteme GmbH
-
-Dedalus Labor GmbH
-
-LABLIONS software & solutions GmbH
-
-Dorner GmbH & Co. KG
-
-Clinisys Deutschland GmbH
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-Clinisys Deutschland GmbH
-
-labsolution S.à.r.l & Co.KG
-
-Clinisys Deutschland GmbH
-
-NEXUS SWISSLAB GmbH
-
-Limbach Gruppe SE
-
-CompuGroup Medical Deutschland AG 1
-
-**Installationen 3.Q.2025**
+CGM LAB International GmbH 29
 
 31
 
+-2
+
+Medat Computersysteme GmbH 20
+
 19
 
+1
+
+Dedalus Labor GmbH 16
+
 15
+
+1
+
+Dorner GmbH & Co. KG 12
+
+11
+
+1
+
+LABLIONS software & solutions GmbH 11
 
 12
 
-11
+-1
 
-11
-
-9
-
-9
-
-9
-
-9
-
-8
-
-7
-
-6
-
-**Installationen 2.Q.2025 Differenz**
-
-28
-
-3
-
-18
+INDAMED EDV-Entwicklung und Vertrieb GmbH 10 9
 
 1
 
-15
-
-0
-
-14
-
--2
+Clinisys Deutschland GmbH 10
 
 11
-
-0
-
-14
-
--3
-
-8
-
-1
-
-10
 
 -1
 
-9
-
-0
+Clinisys Deutschland GmbH 9
 
 9
 
 0
+
+Clinisys Deutschland GmbH 9
+
+9
+
+0
+
+NEXUS SWISSLAB GmbH 8
 
 8
 
 0
 
+labsolution S.à.r.l & Co.KG 7
+
+9
+
+-2
+
+Limbach Gruppe SE 6
+
 7
 
-0
+-1
+
+CompuGroup Medical Deutschland AG 6
 
 6
 
 0
+
+MVZ Labor Dr. Reising-Ackermann und Kollegen GbR 5 4
+
+1
+
+Mesalvo Mannheim GmbH 5
+
+5
+
+0
+
+LabKom Biochemische Dienstleistungen GmbH 5
+
+5
+
+0
+
+CompuGroup Medical Deutschland AG 5
+
+4
+
+1
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-740 **LabCentre**
+343 **SAP Ambulatory Care Management**
 
 254 **ORBIS®**
 
-703 **ELADIS**
-
-343 **SAP Ambulatory Care Management**
-
-252 **CGM M1 PRO**
-
-488 **inSuite**
-
-216 **x.isynet**
+643 **smartLIS Laborinformationssystem Abrechnungsmodul**
 
 **Anbieter**
 
-Mesalvo Mannheim GmbH
+SAP SE
 
 Dedalus HealthCare GmbH
 
-LabKom Biochemische Dienstleistungen GmbH
+labdock GmbH
 
-SAP SE
+| Installationen | 4.Q.2025 Installationen | 3.Q.2025 Differenz |
+|---|---|---|
+| 4 | 4 | 0 |
+| 4 | 5 | -1 |
+| 3 | 2 | 1 |
 
-CompuGroup Medical Deutschland AG
-
-Doc Cirrus GmbH
-
-medatixx GmbH & Co. KG 2
-
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
-
-5
-
-4
-
-1
-
-5
-
-4
-
-1
-
-5
-
-5
-
-0
-
-4
-
-3
-
-1
-
-4
-
-3
-
-1
-
-4
-
-3
-
-1
-
-4
-
-4
-
-0
+Installationen 4.Q.2025 Installationen 3.Q.20252

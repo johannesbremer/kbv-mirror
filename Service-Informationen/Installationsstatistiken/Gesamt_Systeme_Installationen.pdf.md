@@ -4,153 +4,169 @@
 
 **Id Praxissoftware**
 
-457 **tomedo**
-
 462 **medatixx**
+
+457 **tomedo**
 
 498 **T2med**
 
-626 **RED Medical**
+210 **Medical**  **Office**
 
-295 **Epikur**
+488 **ETERNO Cloud (ehem. inSuite)**
 
 299 **SMARTY**
 
-086 **DURIA**
+626 **RED Medical**
 
-298 **Elefant**
+406 **esQlab.online**
 
-136 **InterARZT**
+295 **Epikur**
 
 083 **PegaMed**
 
-488 **inSuite**
+226 **CGM MEDICO**
 
-487 **NEXUS RIS**
+078 **Med7**
 
-721 **David**
+422 **ClinicCentre Billing (OPD)**
 
-034 **medibit**
+441 **dc-pathos/dc-ross**
 
 456 **RED medical classic**
 
-637 **Xplore RIS**
+347 **Opus::L Labormanagementsystem**
 
-706 **MOLIS**
+400 **IFA-AUGENARZT**
 
-290 **M-KIS**
+677 **Doctolib Praxis**
 
-308 **RescuePro**
+613 **VAULT Suite**
 
-385 **CLASSY RT**
+034 **medibit**
 
-192 **MEDICUS**
+195 **J-MED**
 
-702 **Co-Fox Pathologie (LIMS)**
+729 **GLIMS**
 
-256 **medavis RIS**
+031 **APRIS**
 
-609 **GenLAB8**
+630 **theHub**
 
-062 **EVA**
+642 **DynaMed**
 
-409 **i/med Billing**
+458 **principa**
 
-276 **RadCentre Billing (OPD)**
+208 **NEXUS / KIS**
 
 **me**
 
-**rechnungen. Auflistung aller System- und Softwareanbieter. Sortiert n**
+**rechnungen. Auflistung aller System- und Softwareanbieter. Sortiert nach Veränderungen zum Vorquartal. Datenstand: 31.12.2025**
 
 **Anbieter**
 
-Zollsoft GmbH
-
 medatixx GmbH & Co. KG
+
+Zollsoft GmbH
 
 T2med GmbH & Co. KG
 
-RED Medical Systems GmbH
-
-Epikur Software GmbH & Co. KG
-
-New Media Company GmbH & Co. KG
-
-Duria eG
-
-HASOMED GmbH
-
-InterData Praxiscomputer GmbH
-
-PEGA Elektronik GmbH
+INDAMED EDV-Entwicklung und Vertrieb GmbH
 
 Doc Cirrus GmbH
 
-NEXUS / CHILI GmbH
-
-Medat Computersysteme GmbH
-
-Examion GmbH
+New Media Company GmbH & Co. KG
 
 RED Medical Systems GmbH
 
-EDL Software Deutschland GmbH
+IQVIA Commercial GmbH & Co OHG
 
-CGM LAB International GmbH
+Epikur Software GmbH & Co. KG
 
-Meierhofer AG
+PEGA Elektronik GmbH
 
-RescuePro Production GmbH & Co. KG
+CGM Clinical Europe GmbH
 
-KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
-
-MEDNET Service für Ärzte AG
-
-Co-Fox GmbH
-
-medavis GmbH
-
-projodis GmbH
-
-Abasoft EDV-Programme GmbH
-
-Dorner GmbH & Co. KG
+Bitron GmbH Technologiesysteme
 
 Mesalvo Mannheim GmbH
 
-**ach Veränderungen zum Vorquartal. Datenstand: 30.09.2025**
+NEXUS / DIGITAL PATHOLOGY GmbH
 
-**%Anteil 3.Q.2025**
+RED Medical Systems GmbH
 
-3,6%
+Dedalus Labor GmbH
 
-4,9%
+ifa systems AG
 
-3,3%
+Doctolib GmbH
 
-0,2%
+MVZ Labor Dr. Reising-Ackermann und Kollegen GbR
 
-5,1%
+Examion GmbH
+
+Haase, Dipl.-Ing. Silvia GbR
+
+Clinisys Deutschland GmbH
+
+APRIS Praxiscomputer GmbH
+
+Fresenius Medical Care Deutschland GmbH
+
+IMA-Systems Information-Technology ZLN der NEXTCLINICS Austria GmbH
+
+SIEGELE Software GmbH
+
+NEXUS AG
+
+**%Anteil 4.Q.2025**
+
+5,2%
+
+3,8%
+
+3,5%
+
+4,8%
+
+0,7%
 
 4,2%
 
-1,8%
-
-9,4%
-
 0,3%
-
-0,9%
 
 0,6%
 
+5,1%
+
+0,9%
+
+1,2%
+
+0,4%
+
+0,2%
+
+0,1%
+
+0,4%
+
+0,0%
+
+0,3%
+
 0,0%
 
 0,0%
 
 0,1%
 
-0,4%
+0,0%
+
+0,0%
+
+0,1%
+
+0,0%
 
 0,0%
 
@@ -158,338 +174,346 @@ Mesalvo Mannheim GmbH
 
 0,3%
 
-0,2%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,2%
-
-0,0%
-
-0,4%
-
-0,0%
-
-0,1%
-
 1
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025**
 
-4.219
+6.121
 
-5.808
+4.530
 
-3.880
+4.078
 
-263
+5.700
 
-5.974
+778
 
-4.915
+4.982
 
-2.083
+317
 
-11.007
+728
 
-361
+6.008
 
-1.008
+1.028
 
-704
+1.363
 
-35
+528
 
-45
+285
 
-73
+76
 
-492
+496
 
-24
+43
 
-67
+392
 
-343
-
-185
-
-33
-
-29
-
-21
-
-258
+4
 
 7
 
-456
+75
 
-27
-
-94
-
-**Installationen 2.Q.2025**
-
-3.883
-
-5.493
-
-3.662
-
-212
-
-5.929
-
-4.891
-
-2.062
-
-10.990
-
-353
-
-1.000
-
-696
-
-28
-
-41
-
-69
-
-488
+32
 
 20
 
-64
+142
 
-341
+3
 
-183
+7
 
-31
+80
 
-27
+372
 
-19
+**Installationen 3.Q.2025**
 
-256
+5.808
+
+4.219
+
+3.880
+
+5.562
+
+704
+
+4.915
+
+263
+
+689
+
+5.974
+
+1.008
+
+1.345
+
+522
+
+280
+
+72
+
+492
+
+40
+
+389
+
+1
 
 5
 
-454
+73
 
-25
+30
 
-93
+18
 
-**Differenz Differenz in % zum 2.Q.2025**
+140
 
-336 8,7%
+1
 
-315 5,7%
+5
 
-218 6,0%
+78
 
-51 24,1%
+370
 
-45 0,8%
+**Differenz Differenz in % zum 3.Q.2025**
 
-24 0,5%
+313 5,4%
 
-21 1,0%
+311 7,4%
 
-17 0,2%
+198 5,1%
 
-8 2,3%
+138 2,5%
 
-8 0,8%
+74 10,5%
 
-8 1,1%
+67 1,4%
 
-7 24,8%
+54 20,5%
 
-4 10,0%
+39 5,7%
 
-4 5,8%
+34 0,6%
+
+20 2,0%
+
+18 1,3%
+
+6 1,1%
+
+5 1,8%
+
+4 5,6%
 
 4 0,8%
 
-4 19,9%
+3 7,7%
 
-3 4,7%
+3 0,8%
 
-2 0,6%
+3 >100%
 
-2 1,1%
+2 40,5%
 
-2 6,4%
+2 2,7%
 
-2 7,5%
+2 6,7%
 
-2 10,4%
+2 11,8%
 
-2 0,8%
+2 1,4%
 
-2 40,9%
+2 >100%
 
-2 0,4%
+2 40,3%
 
-2 8,0%
+2 2,6%
 
-1 1,1%
+2 0,5%
 
 
 ---
 
 **Id Praxissoftware**
 
-087 **MEDIPX**
-
-446 **WIN-RADIOLOG**
-
-551 **PDV-FR**
-
-642 **DynaMed**
-
-031 **APRIS**
-
-613 **VAULT Suite**
-
-223 **INDICATION**
-
-345 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLO**
-
-347 **Opus::L Labormanagementsystem**
-
-752 **INFINITYQ HEALTH**
-
-673 **JPC ZytoLab**
-
-643 **smartLIS Laborinformationssystem Abrechnu**
-
-636 **RAD+ RIS System**
-
-375 **H&S Laborsoftware**
-
-718 **IMP::System**
-
-561 **EISHISTO**
-
-701 **garrioPRO**
-
-714 **I.S.-L-SEELIG**
-
 525 **QuickCON**
+
+473 **KVDT (ADT)**
+
+702 **Co-Fox Pathologie (LIMS)**
+
+643 **smartLIS Laborinformationssystem Abrechnungsmodul**
+
+403 **FIDUS**
+
+263 **Clinisys vianova Labor**
+
+290 **M-KIS**
+
+308 **RescuePro**
+
+062 **EVA**
+
+616 **Doctorly**
+
+417 **Centricity RIS-i**
 
 731 **C-LAB**
 
-231 **MEDI_LINE**
+395 **LIS++**
 
-818 **proLAB**
+740 **LabCentre**
 
-494 **Med4WinPlus**
+446 **WIN-RADIOLOG**
 
-466 **CGM VT**
-
-332 **Z1**
-
-728 **EKM-LAB**
-
-630 **theHub**
-
-455 **imassense ISG**
-
-416 **MAP Software für Laborärzte**
-
-478 **PathoFlow**
-
-725 **NEXUS / SWISSLAB**
+065 **MELOS MeCom Arzt & Labor**
 
 171 **ARZT 2000**
 
-730 **SYLAB**
+768 **tomedo.air**
+
+818 **proLAB**
+
+714 **I.S.-L-SEELIG**
+
+455 **imassense ISG**
+
+551 **PDV-FR**
+
+332 **Z1**
+
+205 **UNISOLO®-POESY**
+
+701 **garrioPRO**
+
+636 **RAD+ RIS System**
+
+223 **INDICATION**
+
+718 **IMP::System**
+
+725 **NEXUS / SWISSLAB**
+
+637 **Xplore RIS**
+
+741 **LINA**
+
+602 **apraxos**
+
+231 **MEDI_LINE**
 
 703 **ELADIS**
 
 **Anbieter**
 
-MEDITEC Medizinische Datentechnologie GmbH
-
-medigration GmbH
-
-Universitätsklinikum Freiburg AdöR
-
-IMA-Systems Information-Technology ZLN der NEXTCLIN
-
-APRIS Praxiscomputer GmbH
-
-MVZ Labor Dr. Reising-Ackermann und Kollegen GbR
-
-ET Software Developments GmbH
-
-**GIE** NEXUS / DIGITAL PATHOLOGY GmbH
-
-Dedalus Labor GmbH
-
-CROSSSOFT. GmbH
-
-Dr. Axel Stenkamp Consulting & SoftwareEngineering
-
-**ngsmodul** labdock GmbH
-
-boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft b
-
-Limbach Gruppe SE
-
-IMP Computersysteme AG
-
-EI Systems, Andreas Eicker
-
-garrio GmbH
-
-MVZ Labor PD. Dr. Volkmann und Kollegen GBR
-
 BS software development GmbH & Co.KG
+
+IFMS - Institut für medizinische Software GmbH
+
+Co-Fox GmbH
+
+labdock GmbH
+
+FIDUS Software Entwicklungs-GmbH
+
+Clinisys Deutschland GmbH
+
+Meierhofer AG
+
+RescuePro Production GmbH & Co. KG
+
+Abasoft EDV-Programme GmbH
+
+Frey ADV GmbH
+
+GE Healthcare Information Technologies GmbH & Co. KG
 
 MVZ Labor Ludwigsburg
 
-Strzata, Dr. med. Norbert
+4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Par
 
-SysTek GmbH
+Mesalvo Mannheim GmbH
 
-Müritz COMP Greifswald Computersystemhaus GmbH
+medigration GmbH
 
-CGM LAB International GmbH
-
-CompuGroup Medical Dentalsysteme GmbH
-
-Medizinisches Labor Ostsachsen MVZ eGbR
-
-Fresenius Medical Care Deutschland GmbH
-
-imassense Deutschland GmbH
-
-Andaco Consulting & Trading GmbH
-
-Florian Kaiser
-
-NEXUS SWISSLAB GmbH
+LABLIONS software & solutions GmbH
 
 Schmidt Computersysteme
 
-Labor Dr. von Froreich GmbH
+Zollsoft GmbH
+
+SysTek GmbH
+
+MVZ Labor PD. Dr. Volkmann und Kollegen GBR
+
+imassense Deutschland GmbH
+
+Universitätsklinikum Freiburg AdöR
+
+CompuGroup Medical Dentalsysteme GmbH
+
+UNISOLO® GmbH
+
+garrio GmbH
+
+boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft b
+
+ET Software Developments GmbH
+
+IMP Computersysteme AG
+
+NEXUS SWISSLAB GmbH
+
+EDL Software Deutschland GmbH
+
+LAB4.0 GmbH
+
+Dr. Claudia Neumann
+
+Strzata, Dr. med. Norbert
 
 LabKom Biochemische Dienstleistungen GmbH
 
-**%Anteil 3.Q.2025**
+**%Anteil 4.Q.2025**
+
+0,0%
+
+0,0%
+
+0,0%
+
+0,0%
+
+0,4%
+
+0,0%
+
+0,3%
+
+0,2%
+
+0,4%
+
+0,1%
+
+0,0%
+
+0,0%
+
+tner 0,0%
 
 0,0%
 
@@ -497,15 +521,15 @@ LabKom Biochemische Dienstleistungen GmbH
 
 0,0%
 
-ICS Austria GmbH 0,0%
-
-0,1%
+0,0%
 
 0,0%
 
-0,1%
+0,0%
 
-0,1%
+0,0%
+
+0,0%
 
 0,0%
 
@@ -517,33 +541,7 @@ ICS Austria GmbH 0,0%
 
 R 0,0%
 
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
+0,1%
 
 0,0%
 
@@ -561,175 +559,175 @@ R 0,0%
 
 2
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025**
 
-4
-
-75
-
-27
-
-5
-
-140
-
-5
-
-72
-
-105
+8
 
 40
 
-8
-
-1
-
-4
-
-6
-
-20
-
-1
-
-3
-
-1
-
-1
-
-7
-
-7
-
-1
-
-7
+22
 
 5
 
+524
+
+14
+
+344
+
+186
+
+457
+
+87
+
+25
+
+8
+
 4
 
-21
+13
+
+75
 
 2
-
-1
-
-2
-
-3
-
-2
-
-19
 
 22
 
 2
 
+7
+
+1
+
+2
+
+27
+
+21
+
+12
+
+1
+
+6
+
+72
+
+1
+
+19
+
+24
+
+6
+
 13
 
-**Installationen 2.Q.2025**
+1
 
-3
+13
 
-74
+**Installationen 3.Q.2025**
 
-26
-
-4
-
-139
-
-4
-
-71
-
-104
+7
 
 39
 
-8
-
-0
-
-4
-
-6
-
-20
-
-1
-
-3
-
-0
-
-1
-
-7
-
-7
-
-1
-
-7
-
-5
-
-4
-
 21
 
-0
+4
 
-1
-
-2
-
-3
-
-2
-
-19
-
-22
-
-2
+523
 
 13
 
-**Differenz Differenz in % zum 2.Q.2025**
+343
 
-1 32,6%
+185
 
-1 1,5%
+456
 
-1 3,8%
+86
 
-1 25,1%
+24
 
-1 0,7%
+7
 
-1 24,8%
+3
 
-1 1,4%
+12
 
-1 1,0%
+75
 
-1 2,4%
+2
 
-0 0,0%
+22
 
-0 0,0%
+0
 
-0 0,0%
+7
 
-0 0,0%
+1
 
-0 0,0%
+2
+
+27
+
+21
+
+12
+
+1
+
+6
+
+72
+
+1
+
+19
+
+24
+
+6
+
+13
+
+1
+
+13
+
+**Differenz Differenz in % zum 3.Q.2025**
+
+1 14,3%
+
+1 2,5%
+
+1 4,7%
+
+1 25,3%
+
+1 0,2%
+
+1 8,1%
+
+1 0,3%
+
+1 0,5%
+
+1 0,2%
+
+1 1,2%
+
+1 4,0%
+
+1 14,2%
+
+1 35,0%
+
+1 8,1%
 
 0 0,0%
 
@@ -776,117 +774,133 @@ R 0,0%
 
 **Id Praxissoftware**
 
+454 **PalliDoc**
+
+752 **INFINITYQ HEALTH**
+
+730 **SYLAB**
+
 **Anbieter**
 
-741 **LINA**
+Statconsult GmbH
 
-LAB4.0 GmbH 454 **PalliDoc**
+CROSSSOFT. GmbH
 
-Statconsult GmbH 677 **Doctolib Praxis**
+Labor Dr. von Froreich GmbH 238 **InterMediNet KVDT**
 
-Doctolib GmbH 043 **Pro_Medico**
+478 **PathoFlow**
 
-065 **MELOS MeCom Arzt & Labor**
+409 **i/med Billing**
 
-729 **GLIMS**
+416 **MAP Software für Laborärzte**
 
-278 **MEDOS**
+DBI Informatik, Dirk Blume
 
-Neutz GmbH Systemhaus
+Florian Kaiser
 
-LABLIONS software & solutions GmbH
+Dorner GmbH & Co. KG
 
-Clinisys Deutschland GmbH
+Andaco Consulting & Trading GmbH 769 **Elea Lab**
 
-NEXUS / CHILI GmbH 395 **LIS++**
+Elea.ai GmbH 466 **CGM VT**
 
-4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Par 251 **MEDVISION**
-
-MedVision AG 323 **amasys**
-
-Cerner Health Services Deutschland GmbH 493 **LX**
+CGM LAB International GmbH 493 **LX**
 
 labsolution S.à.r.l & Co.KG 320 **DISweb**
 
-KfH - Kuratorium für Dialyse und Nierentransplantation e.V 602 **apraxos**
+KfH - Kuratorium für Dialyse und Nierentransplantation e.V 561 **EISHISTO**
 
-Dr. Claudia Neumann 669 **CGM SOUL**
+030 **Praxis-Programm**
 
-CompuGroup Medical Deutschland AG 230 **QMED.PRAXIS**
+043 **Pro_Medico**
 
-Schwerdtner Medizin-Software GmbH 346 **Praxis4More**
-
-CoKom One GmbH 314 **IMedOne**
-
-205 **UNISOLO®-POESY**
-
-313 **Medi10**
-
-473 **KVDT (ADT)**
-
-Deutsche Telekom Clinical Solutions GmbH
-
-UNISOLO® GmbH
-
-UfP Systemhaus GmbH
-
-IFMS - Institut für medizinische Software GmbH
-
-451 **ifa|NX-NEXT Generation AIS**
-
-441 **dc-pathos/dc-ross**
-
-740 **LabCentre**
-
-439 **eRIS**
-
-195 **J-MED**
-
-ifa systems AG
-
-NEXUS / DIGITAL PATHOLOGY GmbH
-
-Mesalvo Mannheim GmbH
-
-Digithurst Bildverarbeitungssysteme GmbH & Co. KG
-
-Haase, Dipl.-Ing. Silvia GbR
-
-475 **Pegasus Software für Pathologie und Zytologie**
-
-262 **DS-WIN-PLUS (DS-WIN-MED)**
-
-447 **CARW**
-
-238 **InterMediNet KVDT**
-
-Pegasus Datensysteme
-
-DAMPSOFT GmbH
-
-EDL Software Deutschland GmbH
-
-DBI Informatik, Dirk Blume 458 **principa**
+494 **Med4WinPlus**
 
 716 **Melos-Labor-System**
 
-403 **FIDUS**
+EI Systems, Andreas Eicker
 
-226 **CGM MEDICO**
+MediSoftware Computersysteme für Ärzte
 
-343 **SAP Ambulatory Care Management**
+Neutz GmbH Systemhaus
 
-SIEGELE Software GmbH
+Müritz COMP Greifswald Computersystemhaus GmbH
 
-LABLIONS software & solutions GmbH
+LABLIONS software & solutions GmbH 721 **David**
 
-FIDUS Software Entwicklungs-GmbH
+081 **Arztpraxis Wiegand**
 
-CGM Clinical Europe GmbH
+459 **CGM CLINICAL**
 
-SAP SE
+345 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE**
 
-**%Anteil 3.Q.2025**
+Medat Computersysteme GmbH
+
+APW-Wiegand - Med. Software Entwicklung und Vertrieb
+
+CGM Clinical Deutschland GmbH
+
+NEXUS / DIGITAL PATHOLOGY GmbH 669 **CGM SOUL**
+
+278 **MEDOS**
+
+487 **NEXUS RIS**
+
+256 **medavis RIS**
+
+276 **RadCentre Billing (OPD)**
+
+CompuGroup Medical Deutschland AG
+
+NEXUS / CHILI GmbH
+
+NEXUS / CHILI GmbH
+
+medavis GmbH
+
+Mesalvo Mannheim GmbH 421 **EVIDENT**
+
+EVIDENT GmbH 192 **MEDICUSplus**
+
+MEDNET Service für Ärzte AG 323 **amasys**
+
+Cerner Health Services Deutschland GmbH 609 **GenLAB8**
+
+projodis GmbH 087 **MEDIPX**
+
+262 **DS-WIN-PLUS (DS-WIN-MED)**
+
+313 **Medi10**
+
+346 **Praxis4More**
+
+439 **eRIS**
+
+MEDITEC Medizinische Datentechnologie GmbH
+
+DAMPSOFT GmbH
+
+UfP Systemhaus GmbH
+
+CoKom One GmbH
+
+Digithurst Bildverarbeitungssysteme GmbH & Co. KG
+
+**%Anteil 4.Q.2025**
+
+0,0%
+
+0,0%
+
+0,0%
+
+0,0%
+
+0,0%
+
+0,0%
+
+0,0%
 
 0,0%
 
@@ -898,17 +912,7 @@ SAP SE
 
 0,0%
 
-0,0%
-
-0,0%
-
-tner 0,0%
-
-0,3%
-
-0,1%
-
-0,0%
+0,6%
 
 0,2%
 
@@ -916,33 +920,25 @@ tner 0,0%
 
 0,0%
 
+0,0%
+
+GmbH 0,1%
+
 0,1%
 
 0,1%
 
-0,8%
-
 0,0%
 
 0,0%
 
 0,0%
 
-0,0%
+0,2%
 
 0,1%
 
-0,0%
-
-0,0%
-
-0,0%
-
-0,0%
-
-0,1%
-
-0,0%
+0,6%
 
 0,0%
 
@@ -950,609 +946,264 @@ tner 0,0%
 
 0,0%
 
-0,4%
+0,0%
 
-1,1%
+0,1%
 
-1,3%
+0,0%
+
+0,1%
+
+0,0%
 
 3
 
-**Installationen 3.Q.2025**
-
-6
+**Installationen 4.Q.2025**
 
 16
 
-1
-
-215
+8
 
 2
 
-18
+51
 
-11
+2
+
+27
 
 3
 
-381
+1
+
+4
+
+23
+
+207
+
+2
+
+687
+
+214
+
+4
+
+33
+
+44
+
+169
+
+89
+
+104
+
+10
+
+10
+
+34
+
+257
 
 93
+
+711
+
+27
+
+91
+
+5
+
+2
+
+86
+
+55
+
+68
+
+47
+
+**Installationen 3.Q.2025**
+
+16
+
+8
+
+2
+
+51
+
+2
+
+27
+
+3
+
+0
+
+4
 
 24
 
 208
 
-13
+3
 
-11
+688
 
-159
+215
 
-70
-
-974
-
-12
-
-57
-
-39
-
-20
-
-72
-
-12
-
-49
-
-30
-
-40
-
-88
-
-16
-
-51
-
-78
+5
 
 34
 
-523
+45
 
-1.345
+170
 
-1.549
+90
 
-**Installationen 2.Q.2025**
+105
 
-6
+11
 
-16
+11
 
-0
+35
 
-216
-
-3
-
-19
-
-12
-
-4
-
-382
+258
 
 94
 
-25
+713
 
-209
+29
 
-14
+93
 
-12
+7
 
-160
+4
 
-72
+88
 
-976
+57
 
-14
+70
 
-59
+49
 
-41
-
-22
-
-74
-
-14
-
-51
-
-32
-
-42
-
-91
-
-19
-
-54
-
-81
-
-37
-
-527
-
-1.349
-
-1.553
-
-**Differenz Differenz in % zum 2.Q.2025**
+**Differenz Differenz in % zum 3.Q.2025**
 
 0 0,0%
 
 0 0,0%
 
 0 0,0%
+
+0 0,0%
+
+0 0,0%
+
+0 0,0%
+
+0 0,0%
+
+0 0,0%
+
+0 0,0%
+
+-1 -4,3%
 
 -1 -0,5%
 
 -1 -33,3%
 
--1 -5,7%
-
--1 -8,4%
-
--1 -25,4%
-
--1 -0,3%
-
--1 -1,0%
-
--1 -3,9%
+-1 -0,1%
 
 -1 -0,5%
 
--1 -7,1%
+-1 -20,0%
 
--1 -8,3%
+-1 -2,7%
+
+-1 -2,4%
 
 -1 -0,6%
 
--2 -2,8%
+-1 -1,1%
 
--2 -0,2%
+-1 -1,0%
 
--2 -14,3%
+-1 -9,1%
 
--2 -3,4%
+-1 -9,1%
 
--2 -4,9%
+-1 -2,9%
 
--2 -9,1%
+-1 -0,4%
 
--2 -2,8%
+-1 -1,1%
 
--2 -13,9%
+-2 -0,3%
 
--2 -3,9%
+-2 -6,9%
 
--2 -6,3%
+-2 -2,2%
 
--2 -4,8%
+-2 -28,6%
 
--3 -3,3%
+-2 -50,1%
 
--3 -15,9%
+-2 -2,3%
 
--3 -5,6%
+-2 -3,5%
 
--3 -3,6%
+-2 -2,9%
 
--3 -8,4%
-
--4 -0,8%
-
--4 -0,3%
-
--4 -0,3%
+-2 -4,1%
 
 
 ---
 
-**Id Praxissoftware**
-
-704 **PROMED-open / X-PROMED**
-
-030 **Praxis-Programm**
-
-263 **Clinisys vianova Labor**
-
-616 **Doctorly**
-
-459 **CGM CLINICAL**
-
-421 **EVIDENT**
-
-422 **ClinicCentre Billing (OPD)**
-
-417 **Centricity RIS-i**
-
-015 **MEDYS**
-
-023 **DATA VITAL**
-
-254 **ORBIS®**
-
-208 **NEXUS / KIS**
-
-400 **IFA-AUGENARZT**
-
-081 **Arztpraxis Wiegand**
-
-247 **PROFIMED**
-
-078 **Med7**
-
-261 **S3-Win**
-
-253 **PsychoDat**
-
-135 **EL - Elaphe Longissima**
-
-244 **QUINCY WIN**
-
-060 **Data-AL**
-
-406 **esQlab.online**
-
-203 **ALBIS**
-
-252 **CGM M1 PRO**
-
-266 **x.comfort**
-
-210 **Medical Office**
-
-243 **x.concept**
-
-348 **psyprax**
-
-216 **x.isynet**
-
-280 **CGM MEDISTAR BLACK PRO**
-
-112 **TURBOMED**
-
-**Anbieter**
-
-Clinisys Deutschland GmbH
-
-MediSoftware Computersysteme für Ärzte
-
-Clinisys Deutschland GmbH
-
-Frey ADV GmbH
-
-CGM Clinical Deutschland GmbH
-
-EVIDENT GmbH
-
-Mesalvo Mannheim GmbH
-
-GE Healthcare Information Technologies GmbH & Co. KG
-
-MEDYS GmbH
-
-CompuGroup Medical Deutschland AG
-
-Dedalus HealthCare GmbH
-
-NEXUS AG
-
-ifa systems AG
-
-APW-Wiegand - Med. Software Entwicklung und Vertrieb
-
-PRO MEDISOFT AG
-
-Bitron GmbH Technologiesysteme
-
-S3 Praxiscomputer GmbH / Maximilian Flender
-
-ergosoft GmbH
-
-medatixx GmbH & Co. KG
-
-Frey ADV GmbH
-
-Data-AL GmbH
-
-IQVIA Commercial GmbH & Co OHG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-medatixx GmbH & Co. KG
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH
-
-medatixx GmbH & Co. KG
-
-psyprax GmbH
-
-medatixx GmbH & Co. KG
-
-CompuGroup Medical Deutschland AG
-
-CompuGroup Medical Deutschland AG
-
-**%Anteil 3.Q.2025**
-
-0,0%
-
-0,6%
-
-0,0%
-
-0,1%
-
-0,1%
-
-0,6%
-
-0,2%
-
-0,0%
-
-0,5%
-
-0,2%
-
-3,5%
-
-0,3%
-
-0,3%
-
-GmbH 0,1%
-
-0,4%
-
-0,4%
-
-0,9%
-
-1,5%
-
-1,2%
-
-2,3%
-
-0,7%
-
-0,6%
-
-3,1%
-
-2,0%
-
-1,7%
-
-4,7%
-
-3,2%
-
-9,0%
-
-5,3%
-
-8,3%
-
-5,5%
-
-4
-
-**Installationen 3.Q.2025**
-
-17
-
-688
-
-13
-
-86
-
-90
-
-713
-
-280
-
-24
-
-590
-
-288
-
-4.082
-
-370
-
-389
-
-170
-
-442
-
-522
-
-1.029
-
-1.712
-
-1.430
-
-2.696
-
-828
-
-689
-
-3.693
-
-2.350
-
-2.037
-
-5.562
-
-3.732
-
-10.578
-
-6.197
-
-9.811
-
-6.471
-
-**Installationen 2.Q.2025**
-
-21
-
-692
-
-18
-
-91
-
-96
-
-720
-
-287
-
-31
-
-598
-
-296
-
-4.091
-
-380
-
-402
-
-184
-
-459
-
-542
-
-1.052
-
-1.735
-
-1.462
-
-2.728
-
-863
-
-752
-
-3.763
-
-2.427
-
-2.120
-
-5.648
-
-3.829
-
-10.699
-
-6.327
-
-10.045
-
-6.710
-
-**Differenz Differenz in % zum 2.Q.2025**
-
--4 -19,3%
-
--4 -0,6%
-
--5 -27,9%
-
--5 -5,5%
-
--6 -6,2%
-
--7 -1,0%
-
--7 -2,4%
-
--7 -22,3%
-
--8 -1,3%
-
--8 -2,7%
-
--9 -0,2%
-
--10 -2,6%
-
--13 -3,2%
-
--14 -7,6%
-
--17 -3,7%
-
--20 -3,7%
-
--23 -2,2%
-
--23 -1,3%
-
--32 -2,2%
-
--32 -1,2%
-
--35 -4,1%
-
--63 -8,4%
-
--70 -1,9%
-
--77 -3,2%
-
--83 -3,9%
-
--86 -1,5%
-
--97 -2,5%
-
--121 -1,1%
-
--130 -2,1%
-
--234 -2,3%
-
--239 -3,6%
+| Id Praxissoftware | Anbieter |  | %Anteil | 4.Q.2025 Installationen | 4.Q.2025 Installationen | 3.Q.2025 Differenz | Differenz in % zum 3.Q.2025 |
+|---|---|---|---|---|---|---|---|
+| 704 **PROMED-open / X-PROMED** | Clinisys | Deutschland GmbH | 0,0% | 15 | 17 | -2 | -11,7% |
+| 447 **CARW** | EDL Software | Deutschland GmbH | 0,0% | 13 | 16 | -3 | -18,7% |
+| 451 **ifa\|NX-NEXT Generation AIS** | ifa systems | AG | 0,0% | 17 | 20 | -3 | -15,0% |
+| 375 **H&S Laborsoftware** | Limbach | Gruppe SE | 0,0% | 17 | 20 | -3 | -15,0% |
+| 475 **Pegasus Software für Pathologie** | **und Zytologie** Pegasus | Datensysteme | 0,0% | 37 | 40 | -3 | -7,5% |
+| 385 **CLASSY RT** | KHP Kelm & | Homberg Produktionsgesellschaft | GmbH & Co.KG 0,0% | 30 | 33 | -3 | -9,2% |
+| 706 **MOLIS** | CGM LAB | International GmbH | 0,1% | 63 | 67 | -4 | -5,9% |
+| 230 **QMED.PRAXIS** | Schwerdtner | Medizin-Software GmbH | 0,1% | 155 | 159 | -4 | -2,6% |
+| 314 **IMedOne** | Deutsche | Telekom Clinical Solutions GmbH | 0,8% | 969 | 974 | -5 | -0,5% |
+| 251 **MEDVISION** | MedVision | AG | 0,3% | 376 | 381 | -5 | -1,3% |
+| 343 **SAP Ambulatory Care Management** | SAP SE |  | 1,3% | 1.543 | 1.549 | -6 | -0,4% |
+| 253 **PsychoDat** | ergosoft | GmbH | 1,4% | 1.705 | 1.712 | -7 | -0,4% |
+| 136 **InterARZT** | InterData | Praxiscomputer GmbH | 0,3% | 353 | 361 | -8 | -2,2% |
+| 254 **ORBIS®** | Dedalus | HealthCare GmbH | 3,5% | 4.073 | 4.082 | -9 | -0,2% |
+| 015 **MEDYS** | MEDYS GmbH |  | 0,5% | 578 | 590 | -12 | -2,0% |
+| 023 **DATA VITAL** | CompuGroup | Medical Deutschland AG | 0,2% | 275 | 288 | -13 | -4,5% |
+| 261 **S3-Win** | S3 Praxiscomputer | GmbH / Maximilian Flender | 0,9% | 1.015 | 1.029 | -14 | -1,4% |
+| 086 **DURIA** | Duria eG |  | 1,8% | 2.069 | 2.083 | -14 | -0,7% |
+| 247 **PROFIMED** | PRO MEDISOFT | AG | 0,4% | 427 | 442 | -15 | -3,4% |
+| 060 **Data-AL** | Data-AL | GmbH | 0,7% | 806 | 828 | -22 | -2,7% |
+| 135 **EL - Elaphe Longissima** | medatixx | GmbH & Co. KG | 1,2% | 1.402 | 1.430 | -28 | -2,0% |
+| 298 **Elefant** | HASOMED | GmbH | 9,3% | 10.967 | 11.007 | -40 | -0,4% |
+| 244 **QUINCY WIN** | Frey ADV | GmbH | 2,3% | 2.654 | 2.696 | -42 | -1,6% |
+| 348 **psyprax** | psyprax GmbH |  | 8,9% | 10.519 | 10.578 | -59 | -0,6% |
+| 252 **CGM M1 PRO** | CompuGroup | Medical Deutschland AG | 1,9% | 2.278 | 2.350 | -72 | -3,1% |
+| 203 **ALBIS** | CompuGroup | Medical Deutschland AG | 3,1% | 3.595 | 3.693 | -98 | -2,7% |
+| 266 **x.comfort** | medatixx | GmbH & Co. KG | 1,6% | 1.938 | 2.037 | -99 | -4,9% |
+| 216 **x.isynet** | medatixx | GmbH & Co. KG | 5,2% | 6.086 | 6.197 | -111 | -1,8% |
+| 243 **x.concept** | medatixx | GmbH & Co. KG | 3,1% | 3.612 | 3.732 | -120 | -3,2% |
+| 112 **TURBOMED** | CompuGroup | Medical Deutschland AG | 5,4% | 6.305 | 6.471 | -166 | -2,6% |
+| 280 **CGM MEDISTAR BLACK PRO** | CompuGroup | Medical Deutschland AG | 8,2% | 9.617 | 9.811 | -194 | -2,0% |
+|  |  |  | 4 |  |  |  |  |
+
+ifa|NX-NEXT Generation AIS Clinisys Deutschland GmbH EDL Software Deutschland GmbH ifa systems AG Limbach Gruppe SE Pegasus Datensysteme KHP Kelm & Homberg Produktionsgesellschaft CGM LAB International GmbH Schwerdtner Medizin-Software GmbH Deutsche Telekom Clinical Solutions GmbH MedVision AG ergosoft GmbH InterData Praxiscomputer GmbH Dedalus HealthCare GmbH CompuGroup Medical Deutschland AG S3 Praxiscomputer GmbH / Maximilian Flender PRO MEDISOFT AG Data-AL GmbH medatixx GmbH & Co. KG HASOMED GmbH Frey ADV GmbH CompuGroup Medical Deutschland AG CompuGroup Medical Deutschland AG medatixx GmbH & Co. KG medatixx GmbH & Co. KG medatixx GmbH & Co. KG CompuGroup Medical Deutschland AG CompuGroup Medical Deutschland AG teil 4.Q.2025 ionen 4.Q.2025 tionen 3.Q.2025

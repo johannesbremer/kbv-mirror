@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -22,15 +22,15 @@
 
 216 **x.isynet**
 
-203 **ALBIS**
-
 439 **eRIS**
+
+203 **ALBIS**
 
 343 **SAP Ambulatory Care Management**
 
-462 **medatixx**
-
 276 **RadCentre Billing (OPD)**
+
+462 **medatixx**
 
 **Anbieter**
 
@@ -50,93 +50,93 @@ CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
 
-CompuGroup Medical Deutschland AG
-
 Digithurst Bildverarbeitungssysteme GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
 
 SAP SE
 
-medatixx GmbH & Co. KG
+Mesalvo Mannheim GmbH
 
-Mesalvo Mannheim GmbH 1
+medatixx GmbH & Co. KG 1
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025**
 
-29
+30
 
-19
-
-14
-
-12
-
-10
-
-8
-
-8
-
-7
-
-7
-
-6
-
-5
-
-5
-
-5
-
-**Installationen 2.Q.2025 Differenz**
-
-29
-
-0
-
-21
-
--2
+18
 
 14
-
-0
-
-12
-
-0
 
 11
 
--1
+11
 
-9
-
--1
+8
 
 7
 
-1
+7
 
 6
+
+6
+
+5
+
+5
+
+5
+
+**Installationen 3.Q.2025 Differenz**
+
+29
+
+1
+
+19
+
+-1
+
+14
+
+0
+
+12
+
+-1
+
+10
 
 1
 
 8
 
+0
+
+8
+
 -1
 
+7
+
+0
+
 6
+
+0
+
+7
+
+-1
+
+5
 
 0
 
 5
 
 0
-
-4
-
-1
 
 5
 
@@ -149,13 +149,13 @@ Mesalvo Mannheim GmbH 1
 
 062 **EVA**
 
-023 **DATA VITAL**
+457 **tomedo**
 
 243 **x.concept**
 
-457 **tomedo**
+135 **EL - Elaphe Longissima**
 
-637 **Xplore RIS**
+488 **ETERNO Cloud (ehem. inSuite)**
 
 498 **T2med**
 
@@ -165,31 +165,31 @@ Mesalvo Mannheim GmbH 1
 
 Abasoft EDV-Programme GmbH
 
-CompuGroup Medical Deutschland A
+Zollsoft GmbH
 
 medatixx GmbH & Co. KG
 
-Zollsoft GmbH
+medatixx GmbH & Co. KG
 
-EDL Software Deutschland GmbH
+Doc Cirrus GmbH
 
 T2med GmbH & Co. KG
 
 Schwerdtner Medizin-Software GmbH
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 5
 
 5
 
 0
-
-G 4
 
 4
 
-0
+3
+
+1
 
 4
 

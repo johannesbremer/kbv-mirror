@@ -1,6 +1,6 @@
 ### TOP 20 Systeme - Sonstige Ärzte
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.09.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **31.12.2025**
 
 **Id Praxissoftware**
 
@@ -18,13 +18,13 @@
 
 078 **Med7**
 
-216 **x.isynet**
-
 314 **IMedOne**
 
-462 **medatixx**
+216 **x.isynet**
 
 456 **RED medical classic**
+
+462 **medatixx**
 
 320 **DISweb**
 
@@ -48,13 +48,13 @@ CGM Clinical Europe GmbH
 
 Bitron GmbH Technologiesysteme
 
-medatixx GmbH & Co. KG
-
 Deutsche Telekom Clinical Solutions GmbH
 
 medatixx GmbH & Co. KG
 
 RED Medical Systems GmbH
+
+medatixx GmbH & Co. KG
 
 KfH - Kuratorium für Dialyse und Nierentransplantation e.V.
 
@@ -62,91 +62,91 @@ Duria eG
 
 RescuePro Production GmbH & Co. KG 1
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+675
 
 663
 
-690
+12
 
--27
+635
 
 639
 
-643
-
 -4
+
+546
 
 451
 
-483
+95
 
--32
+441
 
 427
 
-425
+14
 
-2
+261
 
 262
 
-264
+-1
 
--2
+243
 
 233
 
-237
+10
 
--4
+174
 
 158
 
-175
+16
 
--17
+148
+
+151
+
+-3
+
+148
 
 153
 
-154
+-5
 
--1
-
-151
-
-151
-
-0
-
-127
-
-117
-
-10
+118
 
 122
 
-128
+-4
 
--6
+109
+
+127
+
+-18
+
+97
 
 96
 
-93
-
-3
+1
 
 94
 
-95
+94
 
--1
+0
 
 91
 
-90
+91
 
-1
+0
 
 
 ---
@@ -155,9 +155,9 @@ RescuePro Production GmbH & Co. KG 1
 
 208 **NEXUS / KIS**
 
-457 **tomedo**
-
 290 **M-KIS**
+
+457 **tomedo**
 
 112 **TURBOMED**
 
@@ -169,9 +169,9 @@ RescuePro Production GmbH & Co. KG 1
 
 NEXUS AG
 
-Zollsoft GmbH
-
 Meierhofer AG
+
+Zollsoft GmbH
 
 CompuGroup Medical Deutschland AG
 
@@ -179,44 +179,44 @@ medatixx GmbH & Co. KG
 
 Examion GmbH
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025**
 
-80
+81
 
-71
+69
 
-71
+68
 
 56
 
 55
 
-52
+53
 
 2
 
-**Installationen 2.Q.2025 Differenz**
+**Installationen 3.Q.2025 Differenz**
 
-82
+80
+
+1
+
+71
 
 -2
 
-72
-
--1
-
-69
-
-2
-
-59
+71
 
 -3
 
-60
+56
 
--5
+0
 
-48
+55
 
-4
+0
+
+52
+
+1

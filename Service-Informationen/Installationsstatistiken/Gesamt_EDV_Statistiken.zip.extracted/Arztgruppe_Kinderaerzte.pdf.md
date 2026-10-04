@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -34,83 +34,83 @@
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 696
+CompuGroup Medical Deutschland AG 677
 
-704
-
--8
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH 569 628
-
--59
-
-CompuGroup Medical Deutschland AG 386
-
-405
+696
 
 -19
 
-medatixx GmbH & Co. KG 353
+INDAMED EDV-Entwicklung und Vertrieb GmbH 601 569
 
-340
+32
 
-13
+CompuGroup Medical Deutschland AG 375
 
-medatixx GmbH & Co. KG 343
-
-354
+386
 
 -11
 
-Dedalus HealthCare GmbH 325
+medatixx GmbH & Co. KG 368
 
-326
+353
+
+15
+
+medatixx GmbH & Co. KG 334
+
+343
+
+-9
+
+Dedalus HealthCare GmbH 329
+
+325
+
+4
+
+medatixx GmbH & Co. KG 290
+
+288
+
+2
+
+T2med GmbH & Co. KG 289
+
+274
+
+15
+
+Zollsoft GmbH 281
+
+261
+
+20
+
+CompuGroup Medical Deutschland AG 182
+
+193
+
+-11
+
+SAP SE 181
+
+182
 
 -1
 
-medatixx GmbH & Co. KG 288
+Frey ADV GmbH 128
 
-300
+129
 
--12
+-1
 
-T2med GmbH & Co. KG 274
+CompuGroup Medical Deutschland AG 121
 
-252
+128
 
-22
-
-Zollsoft GmbH 261
-
-233
-
-28
-
-CompuGroup Medical Deutschland AG 193
-
-197
-
--4
-
-SAP SE 182
-
-177
-
-5
-
-Frey ADV GmbH 129
-
-135
-
--6
-
-CompuGroup Medical Deutschland AG 128
-
-127
-
-1
+-7
 
 1
 
@@ -121,57 +121,57 @@ CompuGroup Medical Deutschland AG 128
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 086 **DURIA**
 
-Duria eG 106
+Duria eG 108
 
 106
 
-0
+2
 
 226 **CGM MEDICO**
 
-CGM Clinical Europe GmbH 97
+CGM Clinical Europe GmbH 99
 
-95
+97
 
 2
 
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 73
+
+74
+
+-1
+
 135 **EL - Elaphe Longissima**
 
-medatixx GmbH & Co. KG 76
+medatixx GmbH & Co. KG 72
 
-80
+76
 
 -4
 
-266 **x.comfort**
-
-medatixx GmbH & Co. KG 74
-
-80
-
--6
-
 314 **IMedOne**
 
-Deutsche Telekom Clinical Solutions GmbH 74 77
+Deutsche Telekom Clinical Solutions GmbH 70 74
 
--3
+-4
 
 261 **S3-Win**
 
-S3 Praxiscomputer GmbH / Maximilian Flender 59 65
+S3 Praxiscomputer GmbH / Maximilian Flender 61 59
 
--6
+2
 
 083 **PegaMed**
 
-PEGA Elektronik GmbH 58
+PEGA Elektronik GmbH 59
 
-57
+58
 
 1
 

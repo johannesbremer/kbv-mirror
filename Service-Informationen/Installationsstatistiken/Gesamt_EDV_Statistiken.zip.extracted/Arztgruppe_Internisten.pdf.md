@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -16,17 +16,17 @@
 
 210 **Medical Office**
 
-203 **ALBIS**
-
 498 **T2med**
+
+203 **ALBIS**
 
 243 **x.concept**
 
 254 **ORBIS®**
 
-244 **QUINCY WIN**
-
 457 **tomedo**
+
+244 **QUINCY WIN**
 
 252 **CGM M1 PRO**
 
@@ -34,83 +34,83 @@
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1.523
+CompuGroup Medical Deutschland AG 1.493
 
-1.595
+1.523
 
--72
+-30
 
-medatixx GmbH & Co. KG 1.374
+medatixx GmbH & Co. KG 1.351
 
-1.401
+1.374
 
--27
+-23
 
-CompuGroup Medical Deutschland AG 1.314
+CompuGroup Medical Deutschland AG 1.281
 
-1.360
+1.314
 
--46
+-33
 
-medatixx GmbH & Co. KG 1.093
+medatixx GmbH & Co. KG 1.142
 
-1.040
+1.093
 
-53
+49
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 1.030 1.028
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1.053 1.030
 
-2
+23
 
-CompuGroup Medical Deutschland AG 900
+T2med GmbH & Co. KG 918
 
-916
+874
 
--16
+44
 
-T2med GmbH & Co. KG 874
+CompuGroup Medical Deutschland AG 879
 
-818
+900
 
-56
+-21
 
-medatixx GmbH & Co. KG 842
+medatixx GmbH & Co. KG 816
 
-855
+842
+
+-26
+
+Dedalus HealthCare GmbH 724
+
+732
+
+-8
+
+Zollsoft GmbH 637
+
+585
+
+52
+
+Frey ADV GmbH 597
+
+606
+
+-9
+
+CompuGroup Medical Deutschland AG 432
+
+445
 
 -13
 
-Dedalus HealthCare GmbH 732
+Duria eG 383
 
-722
+390
 
-10
-
-Frey ADV GmbH 606
-
-612
-
--6
-
-Zollsoft GmbH 585
-
-527
-
-58
-
-CompuGroup Medical Deutschland AG 445
-
-461
-
--16
-
-Duria eG 390
-
-379
-
-11
+-7
 
 1
 
@@ -131,7 +131,7 @@ Duria eG 390
 
 083 **PegaMed**
 
-060 **Data-AL**
+488 **ETERNO Cloud (ehem. inSuite)**
 
 **Anbieter**
 
@@ -147,48 +147,48 @@ CGM Clinical Europe GmbH
 
 PEGA Elektronik GmbH
 
-Data-AL GmbH 2
+Doc Cirrus GmbH 2
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+375
 
 389
 
-400
+-14
 
--11
-
-339
+337
 
 339
 
-0
+-2
+
+303
 
 310
 
-313
+-7
 
--3
+268
 
 275
 
-273
-
-2
+-7
 
 228
 
-222
+228
 
-6
+0
+
+212
 
 208
 
-204
-
 4
 
-203
+209
 
-206
+191
 
--3
+18

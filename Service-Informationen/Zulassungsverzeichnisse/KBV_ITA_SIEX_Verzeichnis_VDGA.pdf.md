@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**26. SEPTEMBER 2026**
+**03. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -42,7 +42,7 @@
 
 **Bitron GmbH Technologiesysteme** Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Windows
 
@@ -78,7 +78,7 @@ Windows
 
 **CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Y/450/2412/37/346
 
@@ -132,7 +132,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 Internet: www.data-al.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Linux
 
@@ -166,7 +166,7 @@ Windows
 
 **Deutsche Telekom Clinical Solutions GmbH** Sternengasse 14-16 50676 Köln Internet: www.telekom-healthcare.com
 
-**inSuite**
+**ETERNO Cloud**
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
@@ -174,7 +174,7 @@ Windows
 
 **Doctolib GmbH** Friedrichstraße 111 10117 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Windows
 
@@ -216,7 +216,7 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Linux
 
@@ -256,7 +256,7 @@ Windows
 
 **ID Information und Dokumentation im Gesundheitswesen GmbH & Co. KGaA** Platz vor dem Neuen Tor 2 10115 Berlin Internet: www.id-berlin.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Windows
 
@@ -290,7 +290,7 @@ Windows
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Y/450/2410/36/642
 
@@ -332,23 +332,19 @@ Windows
 
 **medatixx**
 
-**medatixx GmbH & Co. KG** Im Kappelhof 1
-
-65343 Eltville Internet: www.medatixx.de
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Softwarevariante(n): - psyx
 
 **Verordnungsmodul**
 
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville
-
-Internet: www.medatixx.de
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 **Praxis-Programm**
 
 **medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Windows
 
@@ -386,7 +382,7 @@ Windows
 
 Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Linux Mac OS Windows
 
@@ -435,7 +431,7 @@ Windows
 
 Internet: www.neutz.net
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 
 ---
@@ -469,7 +465,7 @@ Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digital
 
 **Paul Albrechts Verlag GmbH** Hamburger Straße 6 22952 Lütjensee Internet: www.pav.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Windows
 
@@ -513,7 +509,7 @@ Windows
 
 **S3 Praxiscomputer GmbH / Maximilian Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Windows
 
@@ -557,7 +553,7 @@ Sonstige Windows
 
 A-1050 Wien
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 Sonstige Windows
 
@@ -593,7 +589,7 @@ Linux Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 26. September 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Verordnung Digitaler Gesundheitsanwendungen / 03. Oktober 2026
 
 iOS/Android Linux Mac OS Windows
 

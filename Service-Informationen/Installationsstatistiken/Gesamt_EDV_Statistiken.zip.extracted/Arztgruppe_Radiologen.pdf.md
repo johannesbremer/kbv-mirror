@@ -1,6 +1,6 @@
 ### TOP 20 Systeme - Radiologen
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **30.09.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen. Datenstand:** **31.12.2025**
 
 **Id Praxissoftware**
 
@@ -8,17 +8,17 @@
 
 254 **ORBIS®**
 
-276 **RadCentre Billing (OPD)**
-
 343 **SAP Ambulatory Care Management**
+
+276 **RadCentre Billing (OPD)**
 
 446 **WIN-RADIOLOG**
 
 226 **CGM MEDICO**
 
-280 **CGM MEDISTAR BLACK PRO**
-
 439 **eRIS**
+
+280 **CGM MEDISTAR BLACK PRO**
 
 314 **IMedOne**
 
@@ -28,9 +28,9 @@
 
 252 **CGM M1 PRO**
 
-385 **CLASSY RT**
-
 203 **ALBIS**
+
+385 **CLASSY RT**
 
 417 **Centricity RIS-i**
 
@@ -40,17 +40,17 @@ medavis GmbH
 
 Dedalus HealthCare GmbH
 
-Mesalvo Mannheim GmbH
-
 SAP SE
+
+Mesalvo Mannheim GmbH
 
 medigration GmbH
 
 CGM Clinical Europe GmbH
 
-CompuGroup Medical Deutschland AG
-
 Digithurst Bildverarbeitungssysteme GmbH & Co. KG
+
+CompuGroup Medical Deutschland AG
 
 Deutsche Telekom Clinical Solutions GmbH
 
@@ -60,136 +60,136 @@ NEXUS / CHILI GmbH
 
 CompuGroup Medical Deutschland AG
 
-KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
-
 CompuGroup Medical Deutschland AG
+
+KHP Kelm & Homberg Produktionsgesellschaft GmbH & Co.KG
 
 GE Healthcare Information Technologies GmbH & Co. KG 1
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025**
 
-217
-
-186
-
-83
-
-81
-
-59
-
-45
-
-42
-
-42
-
-39
-
-34
-
-33
-
-30
-
-28
-
-25
-
-21
-
-**Installationen 2.Q.2025 Differenz**
-
-216
-
-1
+219
 
 185
 
-1
-
 81
-
-2
 
 80
 
-1
-
-58
-
-1
+60
 
 47
 
--2
-
 40
 
-2
+39
 
-43
+38
 
--1
+34
 
-41
-
--2
-
-36
-
--2
-
-24
-
-9
-
-28
-
-2
+32
 
 27
 
-1
+27
 
-26
+27
+
+22
+
+**Installationen 3.Q.2025 Differenz**
+
+217
+
+2
+
+186
 
 -1
 
+81
+
+0
+
+83
+
+-3
+
+59
+
+1
+
+45
+
+2
+
+42
+
+-2
+
+42
+
+-3
+
+39
+
+-1
+
+34
+
+0
+
+33
+
+-1
+
+30
+
+-3
+
+25
+
+2
+
 28
 
--7
+-1
+
+21
+
+1
 
 
 ---
 
 **Id Praxissoftware**
 
-112 **TURBOMED**
-
 637 **Xplore RIS**
 
-210 **Medical Office**
+112 **TURBOMED**
 
 243 **x.concept**
 
-447 **CARW**
+290 **M-KIS**
+
+210 **Medical Office**
 
 **Anbieter**
 
-CompuGroup Medical Deutschland AG
-
 EDL Software Deutschland GmbH
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH
+CompuGroup Medical Deutschland AG
 
 medatixx GmbH & Co. KG
 
-EDL Software Deutschland GmbH 2
+Meierhofer AG
 
-**Installationen 3.Q.2025**
+INDAMED EDV-Entwicklung und Vertrieb GmbH 2
 
-20
+**Installationen 4.Q.2025**
+
+21
 
 19
 
@@ -197,26 +197,26 @@ EDL Software Deutschland GmbH 2
 
 15
 
-14
+15
 
-**Installationen 2.Q.2025 Differenz**
+**Installationen 3.Q.2025 Differenz**
 
-22
+19
 
--2
+2
 
-17
+20
+
+-1
+
+15
+
+1
+
+13
 
 2
 
 16
 
-0
-
-14
-
-1
-
-17
-
--3
+-1

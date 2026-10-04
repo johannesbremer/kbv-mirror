@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -34,81 +34,81 @@
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 382
+CompuGroup Medical Deutschland AG 375
 
-393
+382
 
--11
+-7
 
-Zollsoft GmbH 273
+Zollsoft GmbH 284
 
-253
+273
 
-20
+11
 
-CompuGroup Medical Deutschland AG 228
+CompuGroup Medical Deutschland AG 223
 
-242
+228
 
--14
+-5
 
-CompuGroup Medical Deutschland AG 156
+CompuGroup Medical Deutschland AG 152
 
 156
 
-0
+-4
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 128 127
+INDAMED EDV-Entwicklung und Vertrieb GmbH 132 128
 
-1
+4
 
-medatixx GmbH & Co. KG 118
+medatixx GmbH & Co. KG 114
 
-122
+118
 
 -4
 
-medatixx GmbH & Co. KG 106
+medatixx GmbH & Co. KG 111
 
-104
+106
 
-2
+5
 
-S3 Praxiscomputer GmbH / Maximilian Flender 99 98
+S3 Praxiscomputer GmbH / Maximilian Flender 99 99
 
-1
+0
 
-T2med GmbH & Co. KG 88
+T2med GmbH & Co. KG 91
 
-82
+88
 
-6
+3
 
-medatixx GmbH & Co. KG 83
+medatixx GmbH & Co. KG 80
 
-85
-
--2
-
-Frey ADV GmbH 77
-
-76
-
-1
-
-CompuGroup Medical Deutschland AG 69
-
-72
+83
 
 -3
 
+Frey ADV GmbH 75
+
+77
+
+-2
+
+CompuGroup Medical Deutschland AG 68
+
+69
+
+-1
+
 medatixx GmbH & Co. KG 52
 
-56
+52
 
--4
+0
 
 1
 
@@ -119,45 +119,45 @@ medatixx GmbH & Co. KG 52
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 254 **ORBIS®**
 
-Dedalus HealthCare GmbH 41
+Dedalus HealthCare GmbH 43
 
 41
 
-0
+2
 
 015 **MEDYS**
 
-MEDYS GmbH 37
+MEDYS GmbH 36
 
 37
-
-0
-
-266 **x.comfort**
-
-medatixx GmbH & Co. KG 33
-
-34
 
 -1
 
 086 **DURIA**
 
-Duria eG 31
+Duria eG 32
+
+31
+
+1
+
+343 **SAP Ambulatory Care Management** SAP SE 31
 
 31
 
 0
 
-343 **SAP Ambulatory Care Management** SAP SE 31
+266 **x.comfort**
 
-35
+medatixx GmbH & Co. KG 31
 
--4
+33
+
+-2
 
 083 **PegaMed**
 

@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**26. SEPTEMBER 2026**
+**03. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -19,17 +19,15 @@ Die nachstehende Matrix stellt Ihnen eine Übersicht zur Verfügung, aus der her
 
 **Name der Software und Anbieter**
 
-**LIS++** 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt
+**LIS++** 4labs software gmbh, c/o MVZ Dr. Klein Dr. Schmitt & Partner
 
-x & Partner
+**EVA** Abasoft EDV-Programme GmbH
 
-**EVA**
+**ACETOmed**
 
 x
 
-x Abasoft EDV-Programme GmbH
-
-**ACETOmed**
+x
 
 **Abrechnung (Link) elektronische Disease-**
 
@@ -47,17 +45,19 @@ x Andaco Consulting & Trading GmbH
 
 **APRIS**
 
-x
-
 x APRIS Praxiscomputer GmbH
 
 **Arztpraxis Wiegand** APW-Wiegand - Med. Software Entwicklung und
 
-x
-
 x Vertrieb GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
+
+x
+
+x
+
+x
 
 x
 
@@ -84,8 +84,6 @@ x
 x
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
-
-x
 
 x
 
@@ -152,7 +150,7 @@ x
 
 **CGM MEDICO** CGM Clinical Europe GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -257,7 +255,7 @@ x
 
 **Z1** CompuGroup Medical Dentalsysteme GmbH
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -357,7 +355,7 @@ x
 | **InterMediNet** | |
 | DBI | Informatik, Dirk Blume |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -532,19 +530,19 @@ Name der Software und Anbieter CompuGroup Medical Deutschland AG CompuGroup Medi
 
 **GUSbox LOEM Labor-Order-Entry** DGN Deutsches Gesundheitsnetz Service GmbH
 
-**inSuite** Doc Cirrus GmbH
+**ETERNO Cloud** Doc Cirrus GmbH
 
-**Doctolib Praxis** Doctolib GmbH
+**Doctolib Praxis**
+
+Doctolib GmbH
 
 **JPC ZytoLab** Dr. Axel Stenkamp Consulting & SoftwareEngineering
 
-**apraxos**
-
-Dr. Claudia Neumann
+**apraxos** Dr. Claudia Neumann
 
 **Limport** Dr. Eissing und Partner GmbH
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -679,7 +677,7 @@ x
 
 **theHub** Fresenius Medical Care Deutschland GmbH
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -856,7 +854,7 @@ x
 
 **Skymed** henova GmbH
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -976,7 +974,7 @@ x
 
 **aurelio/lab** Intellitec Healthcare IT Solutions GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -1079,7 +1077,7 @@ DAC-Formular 2 IMEDAC GmbH**Heilmittelverordnung (Link) Verordnung von DiGAs (Li
 
 **ELADIS** LabKom Biochemische Dienstleistungen GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -1192,7 +1190,7 @@ x
 
 **lab@ccess** LIMETEC Biotechnologies GmbH
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -1287,7 +1285,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -1448,7 +1446,7 @@ Meierhofer AG
 
 **Meona Clinics** Mesalvo Freiburg GmbH
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -1621,7 +1619,7 @@ NEXUS / CHILI GmbH
 
 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -1766,7 +1764,9 @@ OMI Systems
 
 **Pegasus Software für Pathologie und Zytologie** Pegasus Datensysteme
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
+
+x
 
 x
 
@@ -1836,6 +1836,8 @@ x
 
 x
 
+x
+
 **Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
 
 
@@ -1868,7 +1870,7 @@ x
 | **ARZT 2000** |  |  |  |
 | Schmidt | Computersysteme |  |  |
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -2034,7 +2036,7 @@ Name der Software und Anbieter projodis GmbH PRO MEDISOFT AG psyprax GmbH QS Qua
 | **Medi10** |  |  |  |
 | UfP | Systemhaus GmbH |  |  |
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 
@@ -2157,7 +2159,7 @@ Name der Software und Anbieter Schwerdtner Medizin-Software GmbH SIEGELE Softwar
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 26. September 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 03. Oktober 2026
 
 x
 

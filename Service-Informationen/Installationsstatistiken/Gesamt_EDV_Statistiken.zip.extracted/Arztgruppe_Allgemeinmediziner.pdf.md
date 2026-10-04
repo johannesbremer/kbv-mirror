@@ -2,105 +2,105 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
-
-112 **TURBOMED**
-
-CompuGroup Medical Deutschland AG 1.927
-
-1.991
-
--64
-
-280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1.894
-
-1.951
-
--57
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 462 **medatixx**
 
-medatixx GmbH & Co. KG 1.798
+medatixx GmbH & Co. KG 1.892
 
-1.675
+1.798
 
-123
+94
+
+280 **CGM MEDISTAR BLACK PRO** CompuGroup Medical Deutschland AG 1.857
+
+1.894
+
+-37
+
+112 **TURBOMED**
+
+CompuGroup Medical Deutschland AG 1.850
+
+1.927
+
+-77
 
 498 **T2med**
 
-T2med GmbH & Co. KG 1.648
+T2med GmbH & Co. KG 1.737
 
-1.556
+1.648
 
-92
-
-216 **x.isynet**
-
-medatixx GmbH & Co. KG 1.536
-
-1.576
-
--40
+89
 
 210 **Medical Office**
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 1.496 1.508
+INDAMED EDV-Entwicklung und Vertrieb GmbH 1.548 1.496
 
--12
+52
+
+216 **x.isynet**
+
+medatixx GmbH & Co. KG 1.493
+
+1.536
+
+-43
 
 243 **x.concept**
 
-medatixx GmbH & Co. KG 1.199
+medatixx GmbH & Co. KG 1.162
 
-1.232
+1.199
 
--33
+-37
 
 203 **ALBIS**
 
-CompuGroup Medical Deutschland AG 1.089
+CompuGroup Medical Deutschland AG 1.056
 
-1.107
+1.089
 
--18
+-33
 
 244 **QUINCY WIN**
 
-Frey ADV GmbH 1.048
+Frey ADV GmbH 1.018
 
-1.056
+1.048
 
--8
-
-266 **x.comfort**
-
-medatixx GmbH & Co. KG 880
-
-928
-
--48
+-30
 
 457 **tomedo**
 
-Zollsoft GmbH 851
+Zollsoft GmbH 920
 
-795
+851
 
-56
+69
+
+266 **x.comfort**
+
+medatixx GmbH & Co. KG 843
+
+880
+
+-37
 
 252 **CGM M1 PRO**
 
-CompuGroup Medical Deutschland AG 678
+CompuGroup Medical Deutschland AG 641
 
-702
+678
 
--24
+-37
 
 1
 
@@ -111,7 +111,7 @@ CompuGroup Medical Deutschland AG 678
 
 086 **DURIA**
 
-135 **EL - Elaphe Longissim**
+135 **EL - Elaphe Longissima**
 
 083 **PegaMed**
 
@@ -119,7 +119,7 @@ CompuGroup Medical Deutschland AG 678
 
 261 **S3-Win**
 
-488 **inSuite**
+488 **ETERNO Cloud (ehem. inSuite)**
 
 030 **Praxis-Programm**
 
@@ -128,8 +128,6 @@ CompuGroup Medical Deutschland AG 678
 **Anbieter**
 
 Duria eG
-
-**a**
 
 medatixx GmbH & Co. KG
 
@@ -145,52 +143,52 @@ MediSoftware Computersysteme für Ärzte
 
 Abasoft EDV-Programme GmbH 2
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+621
 
 623
 
-613
+-2
 
-10
+488
 
 497
 
-506
-
 -9
+
+448
 
 438
 
-437
+10
 
-1
+347
 
 358
 
-376
+-11
 
--18
+319
 
 324
 
-334
+-5
 
--10
+300
 
 264
 
-273
+36
 
--9
+199
 
 200
 
-202
+-1
 
--2
-
-168
+170
 
 168
 
-0
+2

@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -18,9 +18,9 @@
 
 457 **tomedo**
 
-216 **x.isynet**
-
 210 **Medical Office**
+
+216 **x.isynet**
 
 030 **Praxis-Programm**
 
@@ -30,75 +30,75 @@
 
 462 **medatixx**
 
-226 **CGM MEDICO**
+203 **ALBIS**
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-FIDUS Software Entwicklungs-GmbH 517
+FIDUS Software Entwicklungs-GmbH 518
 
-521
+517
 
--4
+1
 
-CompuGroup Medical Deutschland AG 516
+CompuGroup Medical Deutschland AG 506
 
-525
+516
 
--9
+-10
 
-ifa systems AG 383
+ifa systems AG 386
 
-398
+383
 
--15
+3
 
-Duria eG 325
+Duria eG 322
 
-320
+325
 
-5
+-3
 
-CompuGroup Medical Deutschland AG 232
+CompuGroup Medical Deutschland AG 235
 
-246
+232
 
--14
+3
 
-Zollsoft GmbH 169
+Zollsoft GmbH 181
 
-163
+169
 
-6
+12
 
-medatixx GmbH & Co. KG 98
+INDAMED EDV-Entwicklung und Vertrieb GmbH 96 95
 
-99
+1
 
--1
+medatixx GmbH & Co. KG 96
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 95 85
+98
 
-10
+-2
 
-MediSoftware Computersysteme für Ärzte 67
+MediSoftware Computersysteme für Ärzte 66
 
-68
-
--1
-
-Dedalus HealthCare GmbH 51
-
-52
+67
 
 -1
 
-SAP SE 41
+Dedalus HealthCare GmbH 49
 
-45
+51
 
--4
+-2
+
+SAP SE 43
+
+41
+
+2
 
 medatixx GmbH & Co. KG 30
 
@@ -106,11 +106,11 @@ medatixx GmbH & Co. KG 30
 
 0
 
-CGM Clinical Europe GmbH 24
+CompuGroup Medical Deutschland AG 24
 
-25
+24
 
--1
+0
 
 1
 
@@ -121,45 +121,45 @@ CGM Clinical Europe GmbH 24
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-203 **ALBIS**
+252 **CGM M1 PRO**
 
 CompuGroup Medical Deutschland AG 24
 
-26
+21
+
+3
+
+226 **CGM MEDICO**
+
+CGM Clinical Europe GmbH 22
+
+24
 
 -2
 
 314 **IMedOne**
 
-Deutsche Telekom Clinical Solutions GmbH 23 23
-
-0
-
-252 **CGM M1 PRO**
-
-CompuGroup Medical Deutschland AG 21
-
-22
+Deutsche Telekom Clinical Solutions GmbH 22 23
 
 -1
 
 015 **MEDYS**
 
-MEDYS GmbH 14
+MEDYS GmbH 15
 
 14
 
-0
+1
 
 451 **ifa|NX-NEXT Generation AIS**
 
-ifa systems AG 14
+ifa systems AG 13
 
-16
+14
 
--2
+-1
 
 261 **S3-Win**
 
@@ -167,11 +167,11 @@ S3 Praxiscomputer GmbH / Maximilian Flender 13 13
 
 0
 
-266 **x.comfort**
+244 **QUINCY WIN**
 
-medatixx GmbH & Co. KG 11
+Frey ADV GmbH 9
 
-12
+10
 
 -1
 

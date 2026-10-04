@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -16,15 +16,15 @@
 
 457 **tomedo**
 
-112 **TURBOMED**
-
 462 **medatixx**
+
+112 **TURBOMED**
 
 243 **x.concept**
 
-203 **ALBIS**
-
 252 **CGM M1 PRO**
+
+203 **ALBIS**
 
 226 **CGM MEDICO**
 
@@ -34,83 +34,83 @@
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 918
+CompuGroup Medical Deutschland AG 894
 
-919
+918
 
--1
+-24
 
-medatixx GmbH & Co. KG 407
+medatixx GmbH & Co. KG 401
 
 407
 
-0
+-6
 
-Dedalus HealthCare GmbH 332
+Dedalus HealthCare GmbH 336
 
-340
+332
 
--8
+4
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 274 275
+INDAMED EDV-Entwicklung und Vertrieb GmbH 278 274
 
--1
+4
 
-Zollsoft GmbH 258
+Zollsoft GmbH 273
 
-239
+258
 
-19
+15
 
-CompuGroup Medical Deutschland AG 205
+medatixx GmbH & Co. KG 209
 
-208
+199
 
--3
+10
 
-medatixx GmbH & Co. KG 199
+CompuGroup Medical Deutschland AG 198
 
-192
+205
 
-7
+-7
 
-medatixx GmbH & Co. KG 177
+medatixx GmbH & Co. KG 172
 
-181
+177
 
--4
+-5
 
-CompuGroup Medical Deutschland AG 128
+CompuGroup Medical Deutschland AG 127
 
-130
+123
+
+4
+
+CompuGroup Medical Deutschland AG 126
+
+128
 
 -2
 
-CompuGroup Medical Deutschland AG 123
+CGM Clinical Europe GmbH 122
 
-131
+118
 
--8
+4
 
-CGM Clinical Europe GmbH 118
+T2med GmbH & Co. KG 120
 
 117
 
-1
-
-T2med GmbH & Co. KG 117
-
-108
-
-9
+3
 
 SAP SE 113
 
-115
+113
 
--2
+0
 
 1
 
@@ -121,58 +121,56 @@ SAP SE 113
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 244 **QUINCY WIN**
 
-Frey ADV GmbH 82
+Frey ADV GmbH 84
 
-85
+82
 
--3
+2
 
 314 **IMedOne**
 
-Deutsche Telekom Clinical Solutions GmbH 75 76
+Deutsche Telekom Clinical Solutions GmbH 74 75
 
 -1
 
 086 **DURIA**
 
-Duria eG 56
+Duria eG 55
 
-59
+56
 
--3
+-1
 
 135 **EL - Elaphe Longissima**
 
-medatixx GmbH & Co. KG 44
+medatixx GmbH & Co. KG 43
 
 44
 
-0
+-1
 
 208 **NEXUS / KIS**
 
-NEXUS AG 43
+NEXUS AG 42
 
-45
+43
 
--2
+-1
 
 261 **S3-Win**
 
-S3 Praxiscomputer GmbH / Maximilian Flender 36 35
+S3 Praxiscomputer GmbH / Maximilian Flender 37 36
 
 1
 
-422 **ClinicCentre Billing (OPD)**
+488 **ETERNO Cloud (ehem. inSuite)** Doc Cirrus GmbH 33
 
-Mesalvo Mannheim GmbH 33
+31
 
-33
-
-0
+2
 
 2

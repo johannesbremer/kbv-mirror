@@ -1,14 +1,14 @@
 ### TOP 20 Systeme - Praktiker
 
-**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser** **Datenstand: 30.09.2025**
+**Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser** **Datenstand: 31.12.2025**
 
 **Id Praxissoftware**
 
 112 **TURBOMED**
 
-266 **x.comfort**
-
 216 **x.isynet**
+
+266 **x.comfort**
 
 280 **CGM MEDISTAR BLACK PRO**
 
@@ -64,13 +64,43 @@ medatixx GmbH & Co. KG 1
 
 **Fachgruppe mit den höchsten Installationszahlen.**
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025**
+
+184
+
+162
+
+158
+
+152
+
+116
+
+115
+
+89
+
+77
+
+72
+
+70
+
+67
+
+56
+
+48
+
+43
+
+**Installationen 3.Q.2**
 
 190
 
-172
-
 167
+
+172
 
 159
 
@@ -94,65 +124,35 @@ medatixx GmbH & Co. KG 1
 
 42
 
-**Installationen 2.Q.2**
-
-205
-
-185
-
-171
-
-166
-
-126
-
-109
-
-99
-
-84
-
-77
-
-72
-
-60
-
-60
-
-51
-
-42
-
 **025 Differenz**
-
--15
-
--13
-
--4
-
--7
-
--4
-
--1
-
--8
 
 -6
 
--4
+-5
+
+-14
 
 -7
 
-2
+-6
+
+7
+
+-2
 
 -1
 
 -1
 
-0
+5
+
+5
+
+-3
+
+-2
+
+1
 
 
 ---
@@ -161,66 +161,66 @@ medatixx GmbH & Co. KG 1
 
 348 **psyprax**
 
-078 **Med7**
-
 457 **tomedo**
 
 081 **Arztpraxis Wiegand**
 
-083 **PegaMed**
+078 **Med7**
 
 261 **S3-Win**
+
+083 **PegaMed**
 
 **Anbieter**
 
 psyprax GmbH
 
-Bitron GmbH Technologiesysteme
-
 Zollsoft GmbH
 
 APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH
 
-PEGA Elektronik GmbH
+Bitron GmbH Technologiesysteme
 
-S3 Praxiscomputer GmbH / Maximilian Flender 2
+S3 Praxiscomputer GmbH / Maximilian Flender
 
-**Installationen 3.Q.2025**
+PEGA Elektronik GmbH 2
+
+**Installationen 4.Q.2025**
 
 30
 
-26
-
-24
-
-23
-
-18
-
-18
-
-**Installationen 2.Q.2025 Differenz**
-
-31
-
--1
-
 25
 
-1
+21
 
-24
+21
+
+19
+
+18
+
+**Installationen 3.Q.2025 Differenz**
+
+30
 
 0
 
 24
 
--1
+1
 
-21
+23
 
--3
+-2
 
-19
+26
 
--1
+-5
+
+18
+
+1
+
+18
+
+0

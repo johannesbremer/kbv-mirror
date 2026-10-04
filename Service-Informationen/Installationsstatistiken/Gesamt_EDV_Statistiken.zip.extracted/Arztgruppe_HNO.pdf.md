@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -12,9 +12,9 @@
 
 216 **x.isynet**
 
-112 **TURBOMED**
-
 457 **tomedo**
+
+112 **TURBOMED**
 
 203 **ALBIS**
 
@@ -22,81 +22,77 @@
 
 498 **T2med**
 
-254 **ORBIS®**
-
 243 **x.concept**
 
-261 **S3-Win**
+254 **ORBIS®**
 
 086 **DURIA**
 
-266 **x.comfort**
+261 **S3-Win**
+
+244 **QUINCY WIN**
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 442
+CompuGroup Medical Deutschland AG 427
 
-465
+442
 
--23
+-15
 
-medatixx GmbH & Co. KG 283
+medatixx GmbH & Co. KG 292
 
 283
 
-0
+9
 
 medatixx GmbH & Co. KG 203
 
-205
+203
 
--2
+0
 
-CompuGroup Medical Deutschland AG 166
+Zollsoft GmbH 167
 
-173
+153
 
--7
+14
 
-Zollsoft GmbH 153
+CompuGroup Medical Deutschland AG 163
 
-144
+166
 
-9
+-3
 
-CompuGroup Medical Deutschland AG 137
+CompuGroup Medical Deutschland AG 133
 
-138
+137
 
--1
+-4
 
-INDAMED EDV-Entwicklung und Vertrieb GmbH 133 126
+INDAMED EDV-Entwicklung und Vertrieb GmbH 128 133
 
-7
+-5
 
-T2med GmbH & Co. KG 117
+T2med GmbH & Co. KG 120
 
-113
+117
 
-4
+3
 
-Dedalus HealthCare GmbH 101
+medatixx GmbH & Co. KG 96
 
 99
 
-2
+-3
 
-medatixx GmbH & Co. KG 99
+Dedalus HealthCare GmbH 95
 
-100
+101
 
--1
-
-S3 Praxiscomputer GmbH / Maximilian Flender 87 85
-
-2
+-6
 
 Duria eG 85
 
@@ -104,11 +100,15 @@ Duria eG 85
 
 0
 
-medatixx GmbH & Co. KG 63
+S3 Praxiscomputer GmbH / Maximilian Flender 84 87
 
-64
+-3
 
--1
+Frey ADV GmbH 62
+
+61
+
+1
 
 1
 
@@ -119,45 +119,45 @@ medatixx GmbH & Co. KG 63
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
 252 **CGM M1 PRO**
 
-CompuGroup Medical Deutschland AG 62
+CompuGroup Medical Deutschland AG 60
 
-66
+62
 
--4
+-2
 
-244 **QUINCY WIN**
+266 **x.comfort**
 
-Frey ADV GmbH 61
+medatixx GmbH & Co. KG 56
 
-60
+63
 
-1
+-7
 
 030 **Praxis-Programm**
 
 MediSoftware Computersysteme für Ärzte 56
 
-57
+56
 
--1
+0
 
 238 **InterMediNet KVDT**
 
 DBI Informatik, Dirk Blume 49
 
-51
+49
 
--2
+0
 
-343 **SAP Ambulatory Care Management** SAP SE 44
+343 **SAP Ambulatory Care Management** SAP SE 45
 
-45
+44
 
--1
+1
 
 135 **EL - Elaphe Longissima**
 
@@ -167,12 +167,10 @@ medatixx GmbH & Co. KG 43
 
 0
 
-488 **inSuite**
+488 **ETERNO Cloud (ehem. inSuite)** Doc Cirrus GmbH 36
 
-Doc Cirrus GmbH 34
+34
 
-24
-
-10
+2
 
 2

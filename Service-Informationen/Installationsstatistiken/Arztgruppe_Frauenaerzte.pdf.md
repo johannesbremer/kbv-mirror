@@ -2,7 +2,7 @@
 
 **Installationsbestand gemäß ADT-Abrechnungen. Die 20 Systeme in dieser Fachgruppe mit den höchsten Installationszahlen.**
 
-#### Datenstand: 30.09.2025
+#### Datenstand: 31.12.2025
 
 **Id Praxissoftware**
 
@@ -34,83 +34,83 @@
 
 **Anbieter**
 
-**Installationen 3.Q.2025 Installationen 2.Q.2025 Differenz**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
 
-CompuGroup Medical Deutschland AG 1.670
+CompuGroup Medical Deutschland AG 1.643
 
-1.706
+1.670
 
--36
+-27
 
-CompuGroup Medical Deutschland AG 751
+CompuGroup Medical Deutschland AG 748
 
-770
+751
 
--19
+-3
 
-Dedalus HealthCare GmbH 569
+Dedalus HealthCare GmbH 576
 
-559
+569
 
-10
+7
 
-medatixx GmbH & Co. KG 471
+medatixx GmbH & Co. KG 463
 
-482
-
--11
-
-medatixx GmbH & Co. KG 408
-
-399
-
-9
-
-Zollsoft GmbH 397
-
-357
-
-40
-
-INDAMED EDV-Entwicklung und Vertrieb GmbH 368 363
-
-5
-
-CompuGroup Medical Deutschland AG 306
-
-315
-
--9
-
-medatixx GmbH & Co. KG 303
-
-311
+471
 
 -8
 
-CompuGroup Medical Deutschland AG 277
+medatixx GmbH & Co. KG 422
 
-287
+408
 
--10
+14
 
-T2med GmbH & Co. KG 256
+Zollsoft GmbH 407
 
-244
+397
+
+10
+
+INDAMED EDV-Entwicklung und Vertrieb GmbH 380 368
+
+12
+
+CompuGroup Medical Deutschland AG 303
+
+306
+
+-3
+
+medatixx GmbH & Co. KG 296
+
+303
+
+-7
+
+CompuGroup Medical Deutschland AG 274
+
+277
+
+-3
+
+T2med GmbH & Co. KG 268
+
+256
 
 12
 
 CGM Clinical Europe GmbH 192
 
-186
+192
 
-6
+0
 
-Frey ADV GmbH 162
+Frey ADV GmbH 159
 
-160
+162
 
-2
+-3
 
 1
 
@@ -149,48 +149,46 @@ PEGA Elektronik GmbH
 
 MEDYS GmbH 2
 
-**Installationen 3.Q.2025**
+**Installationen 4.Q.2025 Installationen 3.Q.2025 Differenz**
+
+151
 
 150
 
+1
+
+145
+
 141
+
+4
 
 133
 
+133
+
+0
+
+128
+
 132
+
+-4
+
+125
 
 130
 
+-5
+
+95
+
 94
+
+1
+
+84
 
 86
 
-**Installationen 2.Q.2025 Differenz**
-
-148
-
-2
-
-139
-
-2
-
-133
-
-0
-
-130
-
-2
-
-132
-
 -2
-
-94
-
-0
-
-85
-
-1
