@@ -8,7 +8,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**03. OKTOBER 2026**
+**10. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -40,7 +40,7 @@
 
 **CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2312/36/031 30.11.2026
 
@@ -88,7 +88,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2311/36/112 31.10.2026 B1-Schnittstelle
 
@@ -134,7 +134,7 @@ Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2311/36/280 31.10.2026
 
@@ -180,7 +180,7 @@ Linux Mac OS Sonstige Windows
 
 **ET Software Developments GmbH** Hebelstraße 7 69214 Eppelheim Internet: www.indication.com
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2410/36/602 30.09.2027
 
@@ -226,7 +226,7 @@ Windows
 
 **HASOMED GmbH** Paul-Ecke-Str. 1 39114 Magdeburg Internet: www.hasomed.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2312/36/421
 
@@ -272,7 +272,7 @@ Windows
 
 **KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2311/36/660 31.10.2026
 
@@ -322,7 +322,7 @@ Windows
 
 **medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2311/36/243 31.10.2026 B1-Schnittstelle
 
@@ -364,7 +364,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **Neutz GmbH Systemhaus** Schwabstraße 22 74189 Weinsberg Internet: www.neutz.net
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2312/36/251 30.11.2026 B1-Schnittstelle
 
@@ -402,7 +402,7 @@ Windows
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2312/36/299 30.11.2026 B1-Schnittstelle
 
@@ -446,7 +446,7 @@ Windows
 
 **SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2402/36/348 31.01.2027
 
@@ -496,7 +496,7 @@ Linux Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 03. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Verordnungssoftware-Schnittstelle / 10. Oktober 2026
 
 Y/70/2312/36/498 30.11.2026
 
