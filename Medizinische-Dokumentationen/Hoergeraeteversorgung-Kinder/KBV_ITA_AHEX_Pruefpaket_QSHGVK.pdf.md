@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. OKTOBER 2026   VERSION: 3.02   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG-KINDER
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHGVK]
 
-Seite 1 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 1 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
@@ -50,7 +50,7 @@ INHALT
 
 Seite 2 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung
 
--Kinder / Version: 3.01 / 12. August 2021
+-Kinder / Version: 3.02 / 13. Oktober 2026
 
 Prüffall 5801 Prüffall 5802 Prüffall 5803 Prüffall 5804 Prüffall 5805 Prüffall 5806 Prüffall 5807 (optional) 
 
@@ -65,13 +65,15 @@ Abbildung 2: Testdatenvalidierung 21
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 21
 
-Seite 3 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 3 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 ---
 
 # DOKUMENTENHISTORIE
 
 **Version**
+
+3.02
 
 3.01
 
@@ -83,13 +85,27 @@ Seite 3 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 
 **Autor**
 
+13.10.2026 KBV
+
 12.08.2021 KBV
 
 15.08.2019 KBV
 
 12.03.2018 KBV
 
+Seite 4 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
+
 **Änderung**
+
+**Begründung**
+
+**Seite**
+
+Datumsanpassungen der
+
+Alle
+
+Prüffälle
 
 Überarbeitung der Links
 
@@ -99,10 +115,6 @@ Aktualisierung der  Prüffälle auf die  Schnittstellenversion 1.12
 
 Einreichung des Antrages  auf Zertifizierung
 
-Seite 4 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
-
-**Begründung**
-
 Austausch des FTP-Servers durch neuen  „Update-Server“ der  KBV:  [https://update.kbv.de](https://update.kbv.de/)
 
 Schnittstellenversion  1.12 ist ab 01.10.2019 zu  verwenden
@@ -110,8 +122,6 @@ Schnittstellenversion  1.12 ist ab 01.10.2019 zu  verwenden
 Überführung ins neue  Corporate Design
 
 Anpassung des  Zertifizierungsportals
-
-**Seite**
 
 Alle
 
@@ -151,7 +161,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrags auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
-Seite 5 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 5 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 ---
 
@@ -191,7 +201,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 ________________
 
-Seite 6 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 6 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 ---
 
@@ -202,9 +212,21 @@ Seite 6 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 
 wobei „P“ für den Prüffall und „K“ für die Konstellation bzw. das Szenario steht. Beispielsweise lautet  der Dateiname für Konstellation 1 aus Prüffall 5805 „Screenshot_5805_1.pdf“. Sollte es keine  Konstellation in diesem Prüffall geben, so entfällt dieser Teil des Namens, z.B. lautet der geforderte  Dateiname bei Prüffall 5801 „Screenshot_5801.pdf“.
 
-**Ordnerstruktur**
+#### Ordnerstruktur
 
 Ihre Prüfunterlagen sind von Ihnen gemäß der nachfolgenden Ordnerstruktur zur Verfügung zu stellen:
+
+Name
+
+Zert_58_SystemID.zip
+
+Dokumentation
+
+QSHGVK
+
+Screenshots
+
+391234511_20250630101010_1_ QSHGVK.zip.XKM
 
 Abbildung 1: Struktur des ZIP-Archives für die Zertifizierung anhand von Beispieldateien
 
@@ -225,12 +247,24 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Betriebsstättennummer (BSNR):** | 391234511 |
 | **BSNR-Bezeichnung:** | Praxis Dr. med. Heribert Topp-Glücklich |
 | **Lebenslange Arztnummer (LANR):** | 838382202 |
-| **Dokumentationsdatum (Kopfdatum):** | 27.12.2020 |
+| **Dokumentationsdatum (Kopfdatum):** | 27.12.2025 |
 | **Zu verwendende Prüfnummer:** | Y/58/1307/36/000 |
 
 ##
 
-Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
+
+Typ
+
+ZIP-komprimierter Ordner
+
+Dateiordner
+
+Dateiordner
+
+Dateiordner
+
+XKM-Datei
 
 
 ---
@@ -242,7 +276,7 @@ Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 |  |  |
 |---|---|
 | **Prüffall-ID** | 5801 |
-| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung u |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nachsorge |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | QSHGVK-Dokumentationsunterlagen |
 | **Hinweis** |  |
@@ -253,11 +287,11 @@ Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5801 |
-| Geburtsjahr des Kindes | 2013 |
+| Geburtsjahr des Kindes | 2018 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | männlich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2025 |
 | Hörgeräteerstversorgung | nicht bekannt |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nein |
@@ -272,9 +306,10 @@ Seite 7 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.0
 |  |  |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-Seite 8 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 8 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
-nd einer Nachsorge andere Ursache  andere
+andere Ursache  andere 
+
 
 ---
 
@@ -284,12 +319,12 @@ nd einer Nachsorge andere Ursache  andere
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5801 |
-| Geburtsjahr des Kindes | 2013 |
+| Geburtsjahr des Kindes | 2018 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | männlich |
 | **Nachsorge** | |
-| Untersuchungsdatum (Nachsorge) | 20-09-2020 |
-| Die Hörgeräteversorgung entspricht dem aufgestellten | ja |
+| Untersuchungsdatum (Nachsorge) | 20-09-2025 |
+| Die Hörgeräteversorgung entspricht dem aufgestellten  Versorgungskonzept | ja |
 | Abweichung in Luftleitung |  |
 |  |  |
 | Abweichung in Knochenleitung |  |
@@ -298,11 +333,11 @@ nd einer Nachsorge andere Ursache  andere
 | Versorgung erfolgte zuzahlungsfrei |  |
 | Kooperation erfolgt mit |  |
 
-Seite 9 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+Seite 9 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 /
 
-12. August 2021
+13. Oktober 2026
 
-Versorgungskonzept andere 
+andere 
 
 
 ---
@@ -323,11 +358,11 @@ Versorgungskonzept andere
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5802 |
-| Geburtsjahr des Kindes | 2014 |
+| Geburtsjahr des Kindes | 2019 |
 | Geburtsmonat des Kindes | 10 |
 | Geschlecht | männlich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 01-07-2025 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nicht beurteilbar |
@@ -342,7 +377,7 @@ Versorgungskonzept andere
 |  |  |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-Seite 10 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 10 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 andere Ursache 
 
@@ -355,12 +390,12 @@ andere Ursache
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5802 |
-| Geburtsjahr des Kindes | 2014 |
+| Geburtsjahr des Kindes | 2019 |
 | Geburtsmonat des Kindes | 10 |
 | Geschlecht | männlich |
 | **Nachsorge** | |
-| Untersuchungsdatum (Nachsorge) | 30-09-2020 |
-| Die Hörgeräteversorgung entspricht dem aufgestellten | ja |
+| Untersuchungsdatum (Nachsorge) | 30-09-2025 |
+| Die Hörgeräteversorgung entspricht dem aufgestellten  Versorgungskonzept | ja |
 | Abweichung in Luftleitung |  |
 |  |  |
 | Abweichung in Knochenleitung |  |
@@ -369,11 +404,11 @@ andere Ursache
 | Versorgung erfolgte zuzahlungsfrei | ja |
 | Kooperation erfolgt mit | Pädagoge |
 
-Seite 11 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+Seite 11 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 /
 
-12. August 2021
+13. Oktober 2026
 
-Versorgungskonzept andere 
+andere 
 
 
 ---
@@ -394,13 +429,13 @@ Versorgungskonzept andere
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | Ac13762434 |
-| Geburtsjahr des Kindes | 2009 |
+| Geburtsjahr des Kindes | 2014 |
 | Geburtsmonat des Kindes | 04 |
 | Geschlecht | weiblich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-07-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-07-2025 |
 | Hörgeräteerstversorgung | nein |
-| Wenn Vorversorgung, wann | 2012 |
+| Wenn Vorversorgung, wann | 2017 |
 | Sprachentwicklungsstörung | ja, andere Ursache |
 |  | *Andere Ursache* |
 | **Verordnung** | |
@@ -411,11 +446,10 @@ Versorgungskonzept andere
 | Schweregrad der Hörstörung (WHO 2001): links | Hörreste oder Taubheit |
 | Ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | HdO; CROS; BiCROS; andere |
 |  | *Andere Gerätetechnik Luftleitung* |
-| Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Kopfbügel / Stirnband; |
+| Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Kopfbügel / Stirnband;  teilimplantiertes Knochenleitungsgerät |
 
-Seite 12 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 12 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
-teilimplantiertes Knochenleitungsgerät
 
 ---
 
@@ -425,26 +459,23 @@ teilimplantiertes Knochenleitungsgerät
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | Ac13762434 |
-| Geburtsjahr des Kindes | 2009 |
+| Geburtsjahr des Kindes | 2014 |
 | Geburtsmonat des Kindes | 04 |
 | Geschlecht | weiblich |
 | **Nachsorge** | |
-| Untersuchungsdatum (Nachsorge) | 25-09-2020 |
-| Die Hörgeräteversorgung entspricht dem aufgestellten | nein |
+| Untersuchungsdatum (Nachsorge) | 25-09-2025 |
+| Die Hörgeräteversorgung entspricht dem aufgestellten  Versorgungskonzept | nein |
 | Abweichung in Luftleitung | HdO; CROS; BiCROS; andere |
 |  | *Andere Luftleitung* |
-| Abweichung in Knochenleitung | Kopfbügel / Stirnband; |
+| Abweichung in Knochenleitung | Kopfbügel / Stirnband;  teilimplantiertes  Knochenleitungsgerät |
 | War der Hörgeräte-Versorgungserfolg ermittelbar | ja |
-| Hörgeräte-Versorgungserfolg ermittelt durch | Sprachaudiometrie; |
+| Hörgeräte-Versorgungserfolg ermittelt durch | Sprachaudiometrie;  Spielaudiometrie; andere  altersgerechte Testverfahren |
 | Versorgung erfolgte zuzahlungsfrei | nein |
-| Kooperation erfolgt mit | Logopäde; Pädagoge; |
+| Kooperation erfolgt mit | Logopäde; Pädagoge;  Betreuungseinrichtung |
 
-Seite 13 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+Seite 13 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 /
 
-12. August 2021
-
-Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; andere altersgerechte Testverfahren Betreuungseinrichtung 
-
+13. Oktober 2026
 
 ---
 
@@ -464,13 +495,13 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5804 |
-| Geburtsjahr des Kindes | 2018 |
+| Geburtsjahr des Kindes | 2023 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | weiblich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2025 |
 | Hörgeräteerstversorgung | nein |
-| Wenn Vorversorgung, wann | 2011 |
+| Wenn Vorversorgung, wann | 2024 |
 | Sprachentwicklungsstörung | ja, audiogen |
 |  |  |
 | **Verordnung** | |
@@ -483,7 +514,7 @@ Versorgungskonzept teilimplantiertes Knochenleitungsgerät Spielaudiometrie; and
 |  | ** |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | teilimplantiertes Knochenleitungsgerät |
 
-Seite 14 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 14 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 andere Ursache andere 
 
@@ -496,26 +527,23 @@ andere Ursache andere
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5804 |
-| Geburtsjahr des Kindes | 2018 |
+| Geburtsjahr des Kindes | 2023 |
 | Geburtsmonat des Kindes | 08 |
 | Geschlecht | weiblich |
 | **Nachsorge** | |
-| Untersuchungsdatum (Nachsorge) | 26-09-2020 |
-| Die Hörgeräteversorgung entspricht dem aufgestellten | nein |
+| Untersuchungsdatum (Nachsorge) | 26-09-2025 |
+| Die Hörgeräteversorgung entspricht dem aufgestellten  Versorgungskonzept | nein |
 | Abweichung in Luftleitung | andere |
 |  | ** |
 | Abweichung in Knochenleitung | Kopfbügel / Stirnband |
 | War der Hörgeräte-Versorgungserfolg ermittelbar | ja |
-| Hörgeräte-Versorgungserfolg ermittelt durch | andere altersgerechte |
+| Hörgeräte-Versorgungserfolg ermittelt durch | andere altersgerechte  Testverfahren |
 | Versorgung erfolgte zuzahlungsfrei | ja |
 | Kooperation erfolgt mit | Betreuungseinrichtung |
 
-Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 /
+Seite 15 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 /
 
-12. August 2021
-
-Versorgungskonzept Testverfahren 
-
+13. Oktober 2026
 
 ---
 
@@ -540,22 +568,22 @@ Versorgungskonzept Testverfahren
 | KONSTELLATION 5805-2 |  |
 |---|---|
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2025 |
 | Hörgeräteerstversorgung | nicht bekannt |
-| Wenn Vorversorgung, wann | 2011 |
+| Wenn Vorversorgung, wann | 2017 |
 | Sprachentwicklungsstörung | ja, audiogen |
 |  | *Andere Ursache* |
 
 | KONSTELLATION 5805-3 |  |
 |---|---|
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 12-07-2025 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | nein; nicht beurteilbar |
 |  | ** |
 
-Seite 16 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 16 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 verhindert andere Ursache andere Ursache
 
@@ -575,7 +603,7 @@ verhindert andere Ursache andere Ursache
 | Schallleitungsschwerhörigkeit | links |
 | Kombinierte Schwerhörigkeit |  |
 | Schweregrad der Hörstörung (WHO 2001): rechts |  |
-| Schweregrad der Hörstörung (WHO 2001): links | hochgradig schwerhörig; Hörreste oder |
+| Schweregrad der Hörstörung (WHO 2001): links | hochgradig schwerhörig; Hörreste oder  Taubheit |
 | Ärztlicher Vorschlag zur Gerätetechnik: Luftleitung |  |
 | andere | *Andere Gerätetechnik Luftleitung* |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
@@ -583,8 +611,8 @@ verhindert andere Ursache andere Ursache
 | KONSTELLATION 5805-6 |  |
 |---|---|
 | **Nachsorge** | |
-| Untersuchungsdatum (Nachsorge) | 17-09-2020 |
-| Der Hörgeräteversorgungsvorschlag entspricht dem |  |
+| Untersuchungsdatum (Nachsorge) | 17-09-2025 |
+| Der Hörgeräteversorgungsvorschlag entspricht dem  aufgestellten Versorgungskonzept |  |
 | Abweichung in Luftleitung |  |
 |  |  |
 | Abweichung in Knochenleitung | Kopfbügel / Stirnband |
@@ -595,9 +623,9 @@ verhindert andere Ursache andere Ursache
 
 Seite 17 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
 
-Version: 3.01 / 12. August 2021
+Version: 3.02 / 13. Oktober 2026
 
-Taubheit aufgestellten Versorgungskonzept andere 
+andere 
 
 
 ---
@@ -606,7 +634,7 @@ Taubheit aufgestellten Versorgungskonzept andere
 |---|---|
 | **Nachsorge** | |
 | Untersuchungsdatum (Nachsorge) |  |
-| Der Hörgeräteversorgungsvorschlag entspricht dem | nein |
+| Der Hörgeräteversorgungsvorschlag entspricht dem  aufgestellten Versorgungskonzept | nein |
 | Abweichung in Luftleitung |  |
 |  |  |
 | Abweichung in Knochenleitung |  |
@@ -617,9 +645,9 @@ Taubheit aufgestellten Versorgungskonzept andere
 
 Seite 18 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder /
 
-Version: 3.01 / 12. August 2021
+Version: 3.02 / 13. Oktober 2026
 
-aufgestellten Versorgungskonzept andere 
+andere 
 
 
 ---
@@ -643,11 +671,11 @@ aufgestellten Versorgungskonzept andere
 \| **Szenario 3** |
 \| Für eine der Dokumentationen der Prüffälle 5801 bis 5804 ist per Screenshot oder als PDF-Dokument |
 \| **Szenario 4** |
-\| Zeigen Sie mittels Screenshots, dass eine Korrektur/Änderung der im Prüffall 5802 erstellten |
+\| Zeigen Sie mittels Screenshots, dass eine Korrektur/Änderung der im Prüffall 5802 erstellten  Dokumentation am 01.01.2026 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). |
 
-Seite 19 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 19 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
-Hörgeräteversorgung Kinder (s. Angabe der Patienten-ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten-ID nicht akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  Dokumentation am 01.01.2021 (nach Ende des Melde-/Prüfquartals) nicht mehr möglich ist (P1-20). 
+Hörgeräteversorgung Kinder (s. Angabe der Patienten-ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40, P1-200 die bereits vergebene Patienten-ID nicht akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zu speichern, so dass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nachsorge“ ausgedruckt werden kann (P1- 160).  
 
 
 ---
@@ -668,11 +696,11 @@ Hörgeräteversorgung Kinder (s. Angabe der Patienten-ID ist eine bereits existi
 |---|---|
 | **Allgemeine und Patientenangaben** | |
 | Patienten-ID | 5807 |
-| Geburtsjahr des Kindes | 2017 |
+| Geburtsjahr des Kindes | 2022 |
 | Geburtsmonat des Kindes | 01 |
 | Geschlecht | weiblich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 08-07-2025 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Sprachentwicklungsstörung | ja, andere Ursache |
@@ -687,16 +715,16 @@ Hörgeräteversorgung Kinder (s. Angabe der Patienten-ID ist eine bereits existi
 |  | ** |
 | Ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung |  |
 
-Seite 20 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 20 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
-Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgesetzt haben -Datei  
+Plausibilitäten, die anhand der Berechnungsvorschriften und Plausibilitäten erkannt werden müssen, wenn Sie diese umgesetzt haben. -Datei  
 
 
 ---
 
 # 3 TESTDATENVALIDIERUNG
 
-Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten  werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten  Unterlagen durch das Referat Zertifizierung findet nicht statt, demzufolge ist der Ordner „Dokumentation“  im Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt  wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse gesendet.
+Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden. Die übermittelten Testdaten  werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine manuelle Prüfung der eingereichten  Unterlagen durch Mitarbeitende der KBV findet nicht statt, demzufolge ist der Ordner „Dokumentation“ im  Gegensatz zur Zertifizierung nicht Gegenstand der Testvalidierung. Nach dem das Thema ausgewählt  wurde, kann die Verzeichnisstruktur mit den Prüfunterlagen hochgeladen werden. Die Testergebnisse  werden an die angegebene E-Mail-Adresse gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
@@ -704,7 +732,7 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien
 
-Seite 21 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 21 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 ---
 
@@ -730,6 +758,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 22 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.01 / 12. August 2021
+Seite 22 von 22 / KBV / Pruefpaket QS Hörgeräteversorgung-Kinder / Version: 3.02 / 13. Oktober 2026
 
 Kinder Hörgeräteversorgung Kinder Hörgeräteversorgung Kinder Versorgung Testschlüssel

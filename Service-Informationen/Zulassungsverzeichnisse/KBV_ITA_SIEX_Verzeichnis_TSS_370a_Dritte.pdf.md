@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**10. OKTOBER 2026**
+**17. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -36,4 +36,4 @@ Y/170/2607/36/783 30.06.2029
 
 Y/170/2609/36/782 31.08.2029
 
-Meine AOK App AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Sternplatz 7 01067 Dresden Internet: Https://www.aok.de/pk/plus/ Meine SBK Siemens-Betriebskrankenkasse (SBK) 80339 München Internet: www.sbk.orgSeite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 10. Oktober 2026
+Meine AOK App AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen. Sternplatz 7 01067 Dresden Internet: Https://www.aok.de/pk/plus/ Meine SBK Siemens-Betriebskrankenkasse (SBK) 80339 München Internet: www.sbk.orgSeite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 17. Oktober 2026

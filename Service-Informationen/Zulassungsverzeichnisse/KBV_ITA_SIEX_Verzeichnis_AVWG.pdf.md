@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**10. OKTOBER 2026**
+**17. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -54,7 +54,7 @@ Windows
 
 Linux Mac OS Windows Internet: avelios.com
 
-Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 
 ---
@@ -80,7 +80,7 @@ Seite 2 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 20
 
 **CompuGroup Medical Dentalsysteme GmbH** Maria Trost 25 56070 Koblenz Internet: www.cgm-dentalsysteme.de
 
-Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2601/36/078
 
@@ -126,7 +126,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2504/36/112
 
@@ -176,7 +176,7 @@ Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
 **Data-AL GmbH** Edisonallee 25 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2410/36/280
 
@@ -224,7 +224,7 @@ Windows
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2504/36/238
 
@@ -274,7 +274,7 @@ Linux Mac OS Sonstige Windows
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2507/36/677
 
@@ -324,7 +324,7 @@ Linux Mac OS Windows
 
 **FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2510/36/253
 
@@ -370,7 +370,7 @@ Windows
 
 **Haase, Dipl.-Ing. Silvia GbR** Lindenstr. 21 21465 Reinbek Internet: www.j-med.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2502/38/630
 
@@ -420,7 +420,7 @@ Windows
 
 **ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 X/400/2410/36/617
 
@@ -470,7 +470,7 @@ Linux Mac OS Windows
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Y/400/2506/37/596
 
@@ -504,6 +504,10 @@ Mac OS Windows
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
 
+**esQlab.online**
+
+**IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
+
 **DISweb**
 
 **KfH - Kuratorium für Dialyse und** **Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
@@ -516,25 +520,19 @@ Mac OS Windows
 
 **medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
-**medatixx**
+Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
-
-Softwarevariante(n): - psyx
-
-Seite 12 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Y/400/2610/36/406
 
 Y/400/2504/36/320
 
-Y/400/2510/36/385
-
-|  | Y/400/2504/36/135 | 31.03.2028 |  |  |
+|  | Y/400/2510/36/385 | 30.09.2028 | ifap praxisCENTER |  |
 |---|---|---|---|---|
-|  | Y/400/2510/36/462 | 30.09.2028 | Rohdaten ABDAMED |  |
+|  | Y/400/2504/36/135 | 31.03.2028 |  |  |
+
+30.09.2029 Rohdaten MMI
 
 31.03.2028 Rohdaten ID PHARMA
-
-30.09.2028 ifap praxisCENTER
 
 Windows
 
@@ -551,6 +549,12 @@ Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**medatixx**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
+
+Softwarevariante(n): - psyx - xentro
 
 **Verordnungsmodul**
 
@@ -564,27 +568,19 @@ Windows
 
 **medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
 
-**garrioPRO**
+Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**MEDIVERBUND AG** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
-
-Seite 13 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Y/400/2510/36/462
 
 Y/400/2602/38/641
 
-Y/400/2506/37/746
-
-|  | Y/400/2410/36/030 | 30.09.2027 | Rohdaten MMI |  |
+|  | Y/400/2506/37/746 | 30.06.2028 | ifap praxisCENTER |  |
 |---|---|---|---|---|
-|  | Y/400/2608/38/701 | 30.09.2029 | MMI PHARMINDEX |  |
+|  | Y/400/2410/36/030 | 30.09.2027 | Rohdaten MMI |  |
 
-31.03.2029
+30.09.2028 Rohdaten ABDAMED
 
-30.06.2028
-
-Rohdaten ABDAMED
-
-ifap praxisCENTER
+31.03.2029 Rohdaten ABDAMED
 
 Windows
 
@@ -592,7 +588,7 @@ Windows
 
 Windows
 
-Linux Mac OS Windows
+Windows
 
 
 ---
@@ -601,6 +597,10 @@ Linux Mac OS Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**garrioPRO**
+
+**MEDIVERBUND AG** Liebknechtstraße 29 70565 Stuttgart Internet: www.garrio.de
 
 **MEDICUSplus**
 
@@ -612,25 +612,21 @@ Linux Mac OS Windows
 
 Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
-**MEDYS**
+Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
+Y/400/2608/38/701
 
-Seite 14 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
-
-Y/400/2510/36/192
-
-|  | Y/400/2410/36/251 | 30.09.2027 | Rohdaten ABDAMED |  |
+|  | Y/400/2510/36/192 | 30.09.2028 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2410/36/015 | 30.09.2027 | Rohdaten MMI |  |
+|  | Y/400/2410/36/251 | 30.09.2027 | Rohdaten ABDAMED |  |
 
-30.09.2028 Rohdaten ABDAMED
+30.09.2029 MMI PHARMINDEX
+
+Linux Mac OS Windows
 
 Windows
 
 Windows
-
-Mac OS Windows
 
 
 ---
@@ -639,6 +635,10 @@ Mac OS Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**MEDYS**
+
+**MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
 
 **M-KIS**
 
@@ -652,27 +652,25 @@ Mac OS Windows
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
-**ClinicCentre Billing (OPD)**
+Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
-
-Seite 15 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Y/400/2410/36/015
 
 Y/400/2410/36/290
 
-Y/400/2510/36/387
+|  | Y/400/2510/36/387 | 30.09.2028 | Rohdaten ABDAMED |  |
+|---|---|---|---|---|
+|  | Y/400/2605/38/276 | 30.06.2029 | Rohdaten MMI |  |
 
-Y/400/2605/38/276
+30.09.2027
 
-Y/400/2601/36/422 30.09.2027 Rohdaten ABDAMED
+30.09.2027
 
-30.09.2028 Rohdaten ABDAMED
+Rohdaten MMI
 
-30.06.2029 Rohdaten MMI
+Rohdaten ABDAMED
 
-Rohdaten ABDAMED 31.12.2028 MMI PHARMINDEX
-
-Windows
+Mac OS Windows
 
 Windows
 
@@ -687,6 +685,10 @@ Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**ClinicCentre Billing (OPD)**
+
+**Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
 **Med4WinPlus**
 
@@ -700,23 +702,17 @@ Windows
 
 **New Media Company GmbH & Co. KG** Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
-**MEDOS**
+Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
-
-Seite 16 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Y/400/2601/36/422
 
 Y/400/2507/36/494
 
-Y/400/2504/36/043
-
-|  | Y/400/2410/36/299 | 30.09.2027 | ifap praxisCENTER |  |
+|  | Y/400/2504/36/043 | 31.03.2028 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2507/36/278 | 30.06.2028 | ifap praxisCENTER |  |
+|  | Y/400/2410/36/299 | 30.09.2027 | ifap praxisCENTER |  |
 
-30.06.2028 MMI PHARMINDEX
-
-31.03.2028 Rohdaten ABDAMED
+Rohdaten ABDAMED 31.12.2028 MMI PHARMINDEX 30.06.2028 MMI PHARMINDEX
 
 Windows
 
@@ -733,6 +729,10 @@ Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**MEDOS**
+
+**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
 **NEXUS RIS**
 
@@ -746,31 +746,27 @@ Windows
 
 **OMI Systems** Nikolausstr. 151 50937 Köln Internet: omi-systems.com
 
-**Omniplaner**
+Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**Omnicare Pharma GmbH** Feringastr. 7 85774 Unterföhring Internet: www.omnicare.de
-
-Seite 17 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Y/400/2507/36/278
 
 Y/400/2507/36/487
 
-Y/400/2504/36/208
-
-|  | Y/400/2609/37/779 | 30.09.2029 | Rohdaten MMI |  |
+|  | Y/400/2504/36/208 | 31.03.2028 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2606/37/776 | 30.06.2029 | MMI PHARMINDEX |  |
+|  | Y/400/2609/37/779 | 30.09.2029 | Rohdaten MMI |  |
+
+30.06.2028 ifap praxisCENTER
 
 30.06.2028
 
-31.03.2028 Rohdaten ABDAMED
-
 Windows
 
 Windows
 
 Windows
 
-iOS/Android Linux Mac OS Sonstige Windows
+Windows
 
 
 ---
@@ -779,6 +775,10 @@ iOS/Android Linux Mac OS Sonstige Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**Omniplaner**
+
+**Omnicare Pharma GmbH** Feringastr. 7 85774 Unterföhring Internet: www.omnicare.de
 
 **Verordnungssoftware MediSuite**
 
@@ -792,25 +792,25 @@ iOS/Android Linux Mac OS Sonstige Windows
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-**psyprax**
+Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
-
-Seite 18 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Y/400/2606/37/776
 
 Y/400/2605/38/744
 
-Y/400/2504/36/083
-
-|  | Y/400/2410/36/247 | 30.09.2027 | MMI PHARMINDEX |  |
+|  | Y/400/2504/36/083 | 31.03.2028 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2510/36/348 | 30.09.2028 | ifap praxisCENTER |  |
+|  | Y/400/2410/36/247 | 30.09.2027 | MMI PHARMINDEX |  |
 
-30.06.2029 MMI PHARMINDEX
+30.06.2029
 
-31.03.2028 Rohdaten ABDAMED
+30.06.2029
 
-Windows
+MMI PHARMINDEX
+
+MMI PHARMINDEX
+
+iOS/Android Linux Mac OS Sonstige Windows
 
 Windows
 
@@ -825,6 +825,10 @@ Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**psyprax**
+
+**psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
 
 **RED medical classic**
 
@@ -838,27 +842,25 @@ Windows
 
 **RpDoc Solutions GmbH** Heinrich-Barth-Str. 1-1 A 66115 Saarbrücken Internet: www.rpdoc.de
 
-**S3-Win**
+Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
-**S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
-
-Seite 19 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Y/400/2510/36/348
 
 Y/400/2504/36/456
 
-Y/400/2401/36/608
-
-|  | Y/400/2405/38/759 | 30.06.2027 | Rohdaten ABDAMED |  |
+|  | Y/400/2401/36/608 | 31.12.2026 | Rohdaten ABDAMED |  |
 |---|---|---|---|---|
-|  | Y/400/2504/36/261 | 31.03.2028 | Rohdaten MMI |  |
+|  | Y/400/2405/38/759 | 30.06.2027 | Rohdaten ABDAMED |  |
+
+30.09.2028
 
 31.03.2028
 
-31.12.2026
+ifap praxisCENTER
 
 Rohdaten ABDAMED
 
-Rohdaten ABDAMED
+Windows
 
 iOS/Android Linux Mac OS Sonstige Windows
 
@@ -866,8 +868,6 @@ Windows
 
 Linux Mac OS Sonstige Windows
 
-Sonstige Windows
-
 
 ---
 
@@ -875,48 +875,46 @@ Sonstige Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**S3-Win**
+
+**S3 Praxiscomputer GmbH / Maximilian** **Flender**
+
+Y/400/2504/36/261 Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
 **SAP Ambulatory Care Management**
 
-**SAP SE** Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare
+**SAP SE** Dietmar-Hopp-Allee 16
+
+Y/400/2510/36/343 69190 Walldorf Internet: www.sap.com/industries/healthcare
 
 **ARZT 2000**
 
-**Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
+**Schmidt Computersysteme** Chrysanthemenweg 4
+
+|  | Y/400/2410/36/171 | 30.09.2027 | Rohdaten ABDAMED |  |
+|---|---|---|---|---|
+|  | Y/400/2504/36/230 | 31.03.2028 | Rohdaten MMI |  |
+
+02827 Görlitz Internet: www.arzt2000.de
 
 **QMED.PRAXIS**
 
-**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26 30175 Hannover Internet: www.q-med.de
+**Schwerdtner Medizin-Software GmbH** Loebensteinstraße 26
 
-**principa**
+Sonstige 31.03.2028 Rohdaten MMI
 
-**SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
+Windows
 
-Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
-
-Y/400/2510/36/343
-
-Y/400/2410/36/171
-
-|  | Y/400/2504/36/230 | 31.03.2028 | Rohdaten MMI |  |
-|---|---|---|---|---|
-|  | Y/400/2510/36/458 | 30.09.2028 | Rohdaten MMI |  |
-
-30.09.2028
-
-30.09.2027
-
-Rohdaten ABDAMED
-
-Rohdaten ABDAMED
-
-Sonstige Windows
+Sonstige 30.09.2028 Rohdaten ABDAMED
 
 Windows
 
 Windows
 
-Linux Windows
+Windows 30175 Hannover Internet: www.q-med.de
+
+Seite 20 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 
 ---
@@ -925,6 +923,12 @@ Linux Windows
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Datenbasis** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
+
+**principa**
+
+**SIEGELE Software GmbH**
+
+Y/400/2510/36/458 Wehrgasse 28/3+4 A-1050 Wien
 
 **T2med**
 
@@ -952,6 +956,10 @@ Im Neuenheimer Feld 410 69120 Heidelberg
 
 **Vidal MMI Germany GmbH** Monzastraße 4
 
+Linux 30.09.2028 Rohdaten MMI
+
+Windows
+
 iOS/Android Linux 31.03.2029 Rohdaten MMI
 
 Mac OS Windows 31.03.2028 Rohdaten ABDAMED
@@ -962,7 +970,7 @@ Linux Windows
 
 Windows 63225 Langen Internet: www.mmi.de
 
-Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 
 ---
@@ -982,7 +990,7 @@ Seite 21 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 10. Oktober 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Arzneimittelsoftware / 17. Oktober 2026
 
 Mac OS
 

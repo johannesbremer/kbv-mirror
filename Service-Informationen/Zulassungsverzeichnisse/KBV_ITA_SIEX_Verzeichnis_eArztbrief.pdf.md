@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**10. OKTOBER 2026**
+**17. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 
 **boos-uttenthaler-garcia RAD+ Entwicklungsgesellschaft bR** Augustin-Schwarz Str. 6 85276 Pfaffenhofen a.d. Ilm
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2408/36/395 31.07.2027
 
@@ -78,7 +78,7 @@ Linux Mac OS Windows
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2601/36/771 31.12.2028
 
@@ -122,7 +122,7 @@ Wilhelm-Saucke-Straße 12 29227 Celle Internet: co-fox.de
 
 **CompuGroup Medical Deutschland AG** Maria Trost 25 56070 Koblenz Internet: www.cgm.com/de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2506/36/702 31.05.2028
 
@@ -184,7 +184,7 @@ Windows
 
 Windows 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 
 ---
@@ -212,7 +212,7 @@ Tieberg 7 31191 Algermissen Internet: www.dbi-informatik.de
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2407/36/238 30.06.2027
 
@@ -256,7 +256,7 @@ Internet: www.duria.de
 
 **EDL Software Deutschland GmbH** Alte Bahnhofstraße 77 44892 Bochum Internet: [https://www.edl.gmbh/](https://www.edl.gmbh/)
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2603/36/677 28.02.2029
 
@@ -314,7 +314,7 @@ Windows
 
 Windows 55543 Bad Kreuznach Internet: www.evident.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 
 ---
@@ -340,7 +340,7 @@ Seite 8 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von e
 
 **Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2608/36/034 31.07.2029
 
@@ -398,7 +398,7 @@ Windows
 
 Linux Mac OS Windows Internet: www.ifasystems.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 
 ---
@@ -424,7 +424,7 @@ Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von 
 
 **KfH - Kuratorium für Dialyse und Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2606/36/642 31.05.2029
 
@@ -466,7 +466,7 @@ Windows
 
 **LABLIONS software & solutions GmbH** Franz-Beer-Straße 6 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2609/36/385 31.08.2029
 
@@ -508,7 +508,7 @@ Softwarevariante(n): - x.vianova
 
 **medatixx**
 
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 Y/63/2606/36/216 31.05.2029
 
@@ -524,11 +524,11 @@ Windows
 
 Windows
 
-Windows Internet: www.medatixx.de
+Windows
 
-Softwarevariante(n): - psyx
+Softwarevariante(n): - psyx - xentro
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 
 ---
@@ -570,7 +570,7 @@ Windows
 
 Windows 24118 Kiel Internet: www.medisoftware.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 
 ---
@@ -592,7 +592,7 @@ Seite 14 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von 
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2604/36/087 31.03.2029
 
@@ -628,7 +628,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2603/36/251 28.02.2029
 
@@ -682,7 +682,7 @@ Windows
 
 Windows 26180 Rastede Internet: www.newmediacompany.de
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 
 ---
@@ -724,7 +724,7 @@ Windows
 
 Windows 70597 Stuttgart Internet: www.pegamed.de
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 
 ---
@@ -752,7 +752,7 @@ Seite 18 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von 
 
 **S3 Praxiscomputer GmbH / Maximilian Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2312/37/247 31.12.2026
 
@@ -796,7 +796,7 @@ Sonstige Windows
 
 42287 Wuppertal Internet: www.ufpgmbh.de
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Y/63/2311/36/171 31.10.2026
 
@@ -832,7 +832,7 @@ Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 10. Oktober 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 17. Oktober 2026
 
 Mac OS
 

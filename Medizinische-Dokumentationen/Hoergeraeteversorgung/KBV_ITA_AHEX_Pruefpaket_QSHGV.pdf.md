@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  12. AUGUST 2021   VERSION: 3.01   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. OKTOBER 2026   VERSION: 3.02   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # PRUEFPAKET QS  HÖRGERÄTEVERSORGUNG
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_QSHGV]
 
-Seite 1 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 1 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
@@ -52,7 +52,7 @@ INHALT
 
 Seite 2 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung
 
-/ Version: 3.01 / 12. August 2021
+/ Version: 3.02 / 13. Oktober 2026
 
 Prüffall 5601 Prüffall 5602 Prüffall 5603 Prüffall 5604 Prüffall 5605 Prüffall 5606 Prüffall 5608 Prüffall 5609 (optional) Prüffall 5610 (Konditional) 
 
@@ -67,13 +67,15 @@ Abbildung 2: Testdatenvalidierung 27
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien 27
 
-Seite 3 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 3 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 ---
 
 # DOKUMENTENHISTORIE
 
 **Version**
+
+3.02
 
 3.01
 
@@ -85,13 +87,27 @@ Seite 3 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12.
 
 **Autor**
 
+13.10.2026 KBV
+
 12.08.2021 KBV
 
 15.08.2019 KBV
 
 12.03.2018 KBV
 
+Seite 4 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
+
 **Änderung**
+
+**Begründung**
+
+**Seite**
+
+Datumsanpassungen der
+
+Alle
+
+Prüffälle.
 
 Überarbeitung der Links
 
@@ -101,10 +117,6 @@ Aktualisierung der  Prüffälle auf die  Schnittstellenversion 1.12
 
 Einreichung des Antrages  auf Zertifizierung
 
-Seite 4 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
-
-**Begründung**
-
 Austausch des FTP-Servers durch neuen  „Update-Server“ der  KBV:  [https://update.kbv.de](https://update.kbv.de/)
 
 Schnittstellenversion  1.12 ist ab 01.10.2019 zu  verwenden
@@ -112,8 +124,6 @@ Schnittstellenversion  1.12 ist ab 01.10.2019 zu  verwenden
 Überführung ins neue  Corporate Design
 
 Anpassung des  Zertifizierungsportals
-
-**Seite**
 
 Alle
 
@@ -153,7 +163,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist, kann die KBV das Zertifizierungsverfahren einstellen.
 
-Seite 5 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 5 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 ---
 
@@ -189,7 +199,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 ________________  1 Mit XKM verschlüsseltes Zip-Archiv. Das Sternchen ist als Wildcard zu verstehen und stellt eine „beliebige“ Zeichenfolge dar.  (Namensvergabekonventionen beachten!)
 
-Seite 6 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 6 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 ---
 
@@ -220,10 +230,10 @@ Folgende Angaben sind für die Zertifizierung zu verwenden:
 | **Betriebsstättennummer (BSNR):** | 391234511 |
 | **BSNR-Bezeichnung:** | Praxis Dr. med. Heribert Topp-Glücklich |
 | **Lebenslange Arztnummer (LANR):** | 838382202 |
-| **Dokumentationsdatum (Kopfdatum):** | 28.06.2020 |
+| **Dokumentationsdatum (Kopfdatum):** | 28.06.2025 |
 | **Zu verwendende Prüfnummer:** | Y/56/1301/36/000 |
 
-Seite 7 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 7 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 
 ---
@@ -249,7 +259,7 @@ Seite 7 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12.
 | Geburtsjahr | 1961 |
 | Geschlecht | männlich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-01-2025 |
 | Hörgeräteerstversorgung | nicht bekannt |
 | Wenn Vorversorgung, wann |  |
 | Bauform |  |
@@ -268,13 +278,13 @@ Seite 7 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12.
 | Schweregrad der Hörstörung (WHO 2001): rechts |  |
 | Schweregrad der Hörstörung (WHO 2001): links |  |
 
-Seite 8 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 8 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 andere anderes
 
 ---
 
-| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer |  |
+| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer  Mittelwert bei 0,5 / 1 / 2 / 4 kHz |  |
 |---|---|
 | Sonstige versorgungsrelevante Diagnosen |  |
 |  |  |
@@ -292,7 +302,7 @@ andere anderes
 | Geburtsjahr | 1961 |
 | Geschlecht | männlich |
 | **Nach Verordnung** | |
-| Untersuchungsdatum (Nachsorge) | 20-03-2020 |
+| Untersuchungsdatum (Nachsorge) | 20-03-2025 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nicht bekannt |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
@@ -303,12 +313,12 @@ andere anderes
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB (SVS) |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
-| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- |  |
+| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen(vor / nach HG-Versorgung): ____ % |  |
 | Versorgung erfolgte zum Festbetrag |  |
 
-Seite 9 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 9 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere andere Fragebogen(vor / nach HG-Versorgung): ____ %
+andere andere andere
 
 ---
 
@@ -331,7 +341,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere andere Fragebogen(vor / nach H
 | Geburtsjahr | 1938 |
 | Geschlecht | männlich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 07-01-2025 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Bauform |  |
@@ -350,14 +360,14 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere andere Fragebogen(vor / nach H
 | Schweregrad der Hörstörung (WHO 2001): rechts | normalhörig |
 | Schweregrad der Hörstörung (WHO 2001): links | geringgradig schwerhörig |
 
-Seite 10 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 10 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 andere anderes 
 
 
 ---
 
-| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer |  |
+| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer  Mittelwert bei 0,5 / 1 / 2 / 4 kHz |  |
 |---|---|
 | Sonstige versorgungsrelevante Diagnosen |  |
 |  |  |
@@ -375,7 +385,7 @@ andere anderes
 | Geburtsjahr | 1938 |
 | Geschlecht | männlich |
 | **Nach Verordnung** | |
-| Untersuchungsdatum (Nachsorge) | 31-03-2020 |
+| Untersuchungsdatum (Nachsorge) | 31-03-2025 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
@@ -386,12 +396,12 @@ andere anderes
 | Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB (SVS) |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
-| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- |  |
+| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen(vor / nach HG-Versorgung): ____ % |  |
 | Versorgung erfolgte zum Festbetrag | ja |
 
-Seite 11 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 11 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere Fragebogen(vor / nach HG-Versorgung): ____ %
+andere
 
 ---
 
@@ -414,7 +424,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere Fragebogen(vor / nach HG-Versorgung):
 | Geburtsjahr | 1911 |
 | Geschlecht | weiblich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 14-03-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 14-03-2025 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2011 |
 | Bauform | IO; HdO; andere |
@@ -424,7 +434,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere Fragebogen(vor / nach HG-Versorgung):
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB | 38 dB |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) | 37 % (E/Z) |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB (SVS) | 39 dB (SVS) |
-| Sprachtestmaterial | Freiburger Einsilber; Freiburger Zahlen; |
+| Sprachtestmaterial | Freiburger Einsilber; Freiburger Zahlen;  OLSA; GÖSA; anderes |
 |  | *Anderes Material* |
 | **Verordnung** | |
 | Schallempfindungsschwerhörigkeit |  |
@@ -433,19 +443,17 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere Fragebogen(vor / nach HG-Versorgung):
 | Schweregrad der Hörstörung (WHO 2001): rechts | Taubheit |
 | Schweregrad der Hörstörung (WHO 2001): links | hochgradig schwerhörig |
 
-Seite 12 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
-
-OLSA; GÖSA; anderes anderes 
+Seite 12 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 
 ---
 
-| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer | rechts; links |
+| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer  Mittelwert bei 0,5 / 1 / 2 / 4 kHz | rechts; links |
 |---|---|
-| Sonstige versorgungsrelevante Diagnosen | Tinnitus; Otitis externa; Radikalhöhle; |
+| Sonstige versorgungsrelevante Diagnosen | Tinnitus; Otitis externa; Radikalhöhle;  andere |
 |  | *Andere Diagnose* |
-| HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | HdO; IO; offene Versorgung; |
-| HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Knochenleitungsbügel; |
+| HNO-ärztlicher Vorschlag zur Gerätetechnik: Luftleitung | HdO; IO; offene Versorgung;  geschlossene Versorgung; Ex Hörer |
+| HNO-ärztlicher Vorschlag zur Gerätetechnik: Knochenleitung | Knochenleitungsbügel;  teilimplantiertes Knochenleitungsgerät |
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung | CROS / BiCROS; andere |
 |  | Andere Gerätetechnik |
 
@@ -458,22 +466,21 @@ OLSA; GÖSA; anderes anderes
 | Geburtsjahr | 1911 |
 | Geschlecht | weiblich |
 | **Nach Verordnung** | |
-| Untersuchungsdatum (Nachsorge) | 25-03-2020 |
+| Untersuchungsdatum (Nachsorge) | 25-03-2025 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
-| Abweichung in Luftleitung | HdO; IO; offene Versorgung; geschlossene |
-| Abweichung in Knochenleitung | Knochenleitungsbügel; teilimplantiertes |
+| Abweichung in Luftleitung | HdO; IO; offene Versorgung; geschlossene  Versorgung; Ex Hörer |
+| Abweichung in Knochenleitung | Knochenleitungsbügel; teilimplantiertes  Knochenleitungsgerät |
 | Abweichung in Sonderversorgung | CROS / BiCROS; andere |
 |  | *Andere Sonderversorgung* |
 | Sprachtest möglich | nein |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ |  |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ |  |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___  % (E/Z) |  |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___  dB (SVS) |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG | 3 |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG | 6 |
-| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- | 54 % |
+| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen(vor / nach HG-Versorgung): ____ % | 54 % |
 
-Seite 13 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 13 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  geschlossene Versorgung; Ex Hörer teilimplantiertes Knochenleitungsgerät % (E/Z) dB (SVS) Fragebogen(vor / nach HG-Versorgung): ____ %  Versorgung; Ex Hörer Knochenleitungsgerät
 
 ---
 
@@ -482,7 +489,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  geschlossene Versorgung; Ex Hörer teilimpla
 
 Seite 14 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung
 
-Version: 3.01 / 12. August 2021
+Version: 3.02 / 13. Oktober 2026
 
 ---
 
@@ -491,7 +498,7 @@ Version: 3.01 / 12. August 2021
 |  |  |
 |---|---|
 | **Prüffall-ID** | 5604 |
-| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und |
+| **Testziel** | Anlage einer Vor Verordnung, einer Verordnung und einer Nach Verordnung |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | QSHGV-Dokumentationsunterlagen |
 | **Hinweis** |  |
@@ -505,7 +512,7 @@ Version: 3.01 / 12. August 2021
 | Geburtsjahr | 1960 |
 | Geschlecht | weiblich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2025 |
 | Hörgeräteerstversorgung | nein |
 | Wenn Vorversorgung, wann | 2012 |
 | Bauform | HdO |
@@ -524,13 +531,14 @@ Version: 3.01 / 12. August 2021
 | Schweregrad der Hörstörung (WHO 2001): rechts | Hörreste |
 | Schweregrad der Hörstörung (WHO 2001): links | mittelgradig schwerhörig |
 
-Seite 15 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 15 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-einer Nach Verordnung andere anderes
+andere anderes 
+
 
 ---
 
-| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer | rechts |
+| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer  Mittelwert bei 0,5 / 1 / 2 / 4 kHz | rechts |
 |---|---|
 | Sonstige versorgungsrelevante Diagnosen | Otitis externa; andere |
 |  | *Andere Diagnose* |
@@ -548,23 +556,22 @@ einer Nach Verordnung andere anderes
 | Geburtsjahr | 1960 |
 | Geschlecht | weiblich |
 | **Nach Verordnung** | |
-| Untersuchungsdatum (Nachsorge) | 26-03-2020 |
+| Untersuchungsdatum (Nachsorge) | 26-03-2025 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung | offene Versorgung |
 | Abweichung in Knochenleitung | Knochenleitungsbügel |
 | Abweichung in Sonderversorgung | andere |
 |  | ** |
 | Sprachtest möglich | ja |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % | 7 % (E/Z) |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB | 0 dB (SVS) |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ %  (E/Z) | 7 % (E/Z) |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB  (SVS) | 0 dB (SVS) |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
-| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- | -2500 % |
+| Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- Fragebogen(vor / nach HG-Versorgung): ____ % | -2500 % |
 | Versorgung erfolgte zum Festbetrag | ja |
 
-Seite 16 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 16 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Fragebogen(vor / nach HG-Versorgung): ____ %
 
 ---
 
@@ -576,7 +583,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Fragebogen(vor / nach HG-Versorgung): ____ %
 | **Testziel** | Kontrolle der softwareseitigen Erkennung von Fehleingaben |
 | **Voraussetzung** |  |
 | **Prüfunterlagen** | verhindert |
-| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern |
+| **Hinweis** | Konkrete Dokumentationsdaten sind frei wählbar, sofern diese nicht vorgegeben |
 
 - 1. Anlegen einer Vor Verordnung und einer Verordnung:
 
@@ -594,9 +601,9 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  Fragebogen(vor / nach HG-Versorgung): ____ %
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG / | 0 m / 11 m | Screenshot3 |
 | Nutzen (Verbesserung der Hörfähigkeit) mittels APHAB- | -9801 % | Screenshot4 |
 
-Seite 17 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 17 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese nicht vorgegeben mit HG Fragebogen (vor / nach HG-Versorgung): ____ %
+Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler sind. mit HG Fragebogen (vor / nach HG-Versorgung): ____ %
 
 ---
 
@@ -617,12 +624,12 @@ Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese 
 | Geburtsjahr | 1945 |
 | Geschlecht | männlich |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2025 |
 
 | KONSTELLATION 5606-2 |  |
 |---|---|
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2025 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann | 2011 |
 | Bauform | HdO |
@@ -631,7 +638,7 @@ Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese 
 | KONSTELLATION 5606-3 |  |
 |---|---|
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2025 |
 | Hörgeräteerstversorgung | nein, nicht bekannt |
 | Wenn Vorversorgung, wann | 2011 |
 | Bauform | HdO |
@@ -639,9 +646,9 @@ Screenshots oder Erläuterungen, wie das Softwaresystem die Eingabefehler diese 
 | Zentrale Hörstörung ausgeschlossen | nein |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 
-Seite 18 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 18 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-verhindert andere andere
+verhindert sind. andere andere
 
 ---
 
@@ -655,7 +662,7 @@ verhindert andere andere
 | KONSTELLATION 5606-4 |  |
 |---|---|
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2025 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Bauform |  |
@@ -671,7 +678,7 @@ verhindert andere andere
 | KONSTELLATION 5606-5 |  |
 |---|---|
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2025 |
 | Sprachverstehen: mit Kopfhörer am dBopt: Sprachtest möglich | ja |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ dB |  |
 | Sprachverstehen: mit Kopfhörer am dBopt: von ___ % (E/Z) |  |
@@ -679,7 +686,7 @@ verhindert andere andere
 | Sprachtestmaterial |  |
 |  | *Anderes Material* |
 
-Seite 19 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 19 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 anderes andere anderes anderes
 
@@ -704,55 +711,56 @@ anderes andere anderes anderes
 | KONSTELLATION 5606-8 |  |
 |---|---|
 | **Nach Verordnung** | |
-| Untersuchungsdatum (Nachsorge) | 17-06-2020 |
+| Untersuchungsdatum (Nachsorge) | 17-06-2025 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | ja |
 | Abweichung in Luftleitung | HdO |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung | andere |
 |  | *Andere Sonderversorgung* |
 | Sprachtest möglich | ja |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % |  |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB |  |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ %  (E/Z) |  |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB  (SVS) |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG | 5 |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG | 8 |
 
-Seite 20 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021 (E/Z) (SVS)
+Seite 20 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
+
 
 ---
 
 | KONSTELLATION 5606-9 |  |
 |---|---|
 | **Nach Verordnung** | |
-| Untersuchungsdatum (Nachsorge) | 17-06-2020 |
+| Untersuchungsdatum (Nachsorge) | 17-06-2025 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
 |  | ** |
 | Sprachtest möglich | nein |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % | 78 % (E/Z) |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB |  |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ %  (E/Z) | 78 % (E/Z) |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB  (SVS) |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
 
 | KONSTELLATION 5606-10 |  |
 |---|---|
 | **Nach Verordnung** | |
-| Untersuchungsdatum (Nachsorge) | 17-06-2020 |
+| Untersuchungsdatum (Nachsorge) | 17-06-2025 |
 | Die Hörgeräteversorgung entspricht  dem HNO-ärztlichen Vorschlag zur Gerätetechnik | nein |
 | Abweichung in Luftleitung |  |
 | Abweichung in Knochenleitung |  |
 | Abweichung in Sonderversorgung |  |
 |  | *Andere Abweichung* |
 | Sprachtest möglich | ja |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ % |  |
-| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB |  |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ %  (E/Z) |  |
+| Erzieltes Sprachverstehen im Freifeld mit Hörgerät(en): ___ dB  (SVS) |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) ohne HG |  |
 | Keine FF-Untersuchung möglich: Hörweite (m) mit HG |  |
 
-Seite 21 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 21 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-andere (SVS) andere (E/Z) (SVS)
+andere andere
 
 ---
 
@@ -775,11 +783,11 @@ andere (SVS) andere (E/Z) (SVS)
 \| **Szenario 3** |
 \| Für eine der Dokumentationen der Prüffälle 5601 bis 5604 ist per Screenshot oder als PDF-Dokument |
 \| **Szenario 4** |
-\| Zeigen Sie mittels Screenshots, dass eine Korrektur oder Änderung der im Prüffall 5603 erstellten |
+\| Zeigen Sie mittels Screenshots, dass eine Korrektur oder Änderung der im Prüffall 5603 erstellten  Dokumentation am 01.07.2025 (nach Ende des Melde-/ Prüfquartals) nicht mehr möglich ist (P1-20). |
 
-Seite 22 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 22 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-Hörgeräteversorgung (siehe Angabe der Patienten-ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40 und P1-200 die bereits vergebene Patienten-ID nicht akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, sodass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nach Verordnung“ ausgedruckt werden kann (Anforderung: P1-160).  Dokumentation am 01.07.2020 (nach Ende des Melde-/ Prüfquartals) nicht mehr möglich ist (P1-20). 
+Hörgeräteversorgung (siehe Angabe der Patienten-ID ist eine bereits existierende Nummer (z.B. Ac13762434) einzugeben. Das System darf entsprechend den Anforderungen P1-40 und P1-200 die bereits vergebene Patienten-ID nicht akzeptieren. Für den Nachweis der korrekten Systemfunktionalität werden ein oder mehrere Screenshots erwartet. Speichern und Archivieren von Dokumentationsdaten erwartet. Insbesondere soll der Nachweis erbracht werden, dass es möglich ist, eine nicht vollständige und/oder fehlerhafte Dokumentation zwischenzuspeichern, sodass diese erhalten bleibt und erweiterbar ist. Ein Screenshot soll den erneuten Aufruf dieser Dokumentation zur nachträglichen Bearbeitung belegen (möglichst an einem anderen Datum). nachzuweisen, dass der Bogen der „(Vor) Verordnung“ und „Nach Verordnung“ ausgedruckt werden kann (Anforderung: P1-160).  
 
 
 ---
@@ -803,7 +811,7 @@ Hörgeräteversorgung (siehe Angabe der Patienten-ID ist eine bereits existieren
 | Geburtsjahr | 1945 |
 | Geschlecht | unbestimmt |
 | **Vor Verordnung** | |
-| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2020 |
+| Untersuchungsdatum (Vor Verordnung / Verordnung) | 15-01-2025 |
 | Hörgeräteerstversorgung | ja |
 | Wenn Vorversorgung, wann |  |
 | Bauform |  |
@@ -822,13 +830,13 @@ Hörgeräteversorgung (siehe Angabe der Patienten-ID ist eine bereits existieren
 | Schweregrad der Hörstörung (WHO 2001): rechts | hochgradig schwerhörig |
 | Schweregrad der Hörstörung (WHO 2001): links | normalhörig |
 
-Seite 23 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 23 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 Plausibilitäten (siehe Screenshots von den Warnmeldungen  Eine im Anschluss erzeugte XML-Datei andere anderes
 
 ---
 
-| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer | links |
+| Hörstörung > 80dB nach WHO 2001 tonaudiometrischer  Mittelwert bei 0,5 / 1 / 2 / 4 kHz | links |
 |---|---|
 | Sonstige versorgungsrelevante Diagnosen | Tinnitus, Radikalhöhle |
 |  | ** |
@@ -837,9 +845,9 @@ Plausibilitäten (siehe Screenshots von den Warnmeldungen  Eine im Anschluss erz
 | HNO-ärztlicher Vorschlag zur Gerätetechnik: Sonderversorgung | CROS / BiCROS |
 |  |  |
 
-Seite 24 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 24 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
+andere andere
 
 ---
 
@@ -849,7 +857,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 |---|---|
 | **Prüffall-ID** | 5610 |
 | Testziel | Kontrolle der optionalen Funktionen K1-95 und K1-96 (siehe  KBV_ITA_VGEX_Anforderungskatalog_QSHGV) |
-| **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter |
+| **Voraussetzung** | Nur zu bearbeiten, wenn in der Software die Parameter und Berechnungen im |
 | **Prüfunterlagen** | Screenshots für den Prüffall 5602 zum Nachweis, dass der Nutzen (Verbesserung  EXT_ITA_AHEX_Berechnung_APHAB_QSHGV) ermittelt wird |
 | **Hinweis** |  |
 
@@ -857,7 +865,7 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 
 | APHAB-BOGEN |  |  |
 |---|---|---|
-| **Frage** | (Vor) | Nach |
+| **Frage** | (Vor)  Verordnung | Nach  Verordnung |
 | Frage 1: Wenn ich in einem belebten Lebensmittelgeschäft mit der | A | G |
 | Frage 2: Es entgeht mir viel Information, wenn ich einen Vortrag anhöre. | A | D |
 | Frage 3: Unerwartete Geräusche, wie einen Rauchmelder oder eine | B | F |
@@ -871,9 +879,9 @@ Mittelwert bei 0,5 / 1 / 2 / 4 kHz  andere andere
 | Frage 11: Wenn ich im Kino oder Theater bin und die Leute um mich | A | G |
 | Frage 12: Wenn ich mich mit einem Freund in einer ruhigen Umgebung | G | A |
 
-Seite 25 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 25 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
-und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen. Verordnung Verordnung
+Rahmen der APHAB-Dokumentation implementiert sind der Hörfähigkeit) automatisch anhand der APHAB-Berechnungsvorschrift Kassiererin spreche, kann ich dem Gespräch folgen. Alarmanlage, empfinde ich als unangenehm laut. Familienangehörigen zu folgen. verstehen. Familienmitglieder dabei unterhalten habe ich Mühe, die Nachrichten zu verstehen. mit einer Person unterhalten möchte, ist es für mich schwierig, zu verstehen. großen leeren Raumes befindet, verstehe ich seine Worte. beantworte, habe ich Schwierigkeiten, dem Gespräch zu folgen. herum flüstern und mit Papier rascheln, kann ich dem Dialog immer noch folgen. unterhalte, habe ich Schwierigkeiten, zu verstehen.
 
 ---
 
@@ -891,7 +899,7 @@ und Berechnungen im Rahmen der APHAB-Dokumentation implementiert sind der Hörf�
 | Frage 23: Ich muss den Gesprächspartner bitten, sich zu wiederholen, | A | G |
 | Frage 24: Ich habe Mühe, andere zu verstehen, wenn gleichzeitig eine | D | A |
 
-Seite 26 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 26 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 Toilettenspülung oder Dusche, sind mir unangenehm laut. ruhig zuhören, muss ich mich anstrengen, um zu verstehen. fällt es mir schwer dem Gespräch zu folgen. Personen gleichzeitig sprechen. der Kirche gesprochen wird. Menschenmenge sind. meine Ohren zuhalten muss. wenn wir uns zu zweit in einem ruhigen Raum unterhalten. Klimaanlage oder ein Ventilator läuft. 
 
@@ -902,7 +910,7 @@ Toilettenspülung oder Dusche, sind mir unangenehm laut. ruhig zuhören, muss ic
 
 Alle in Kapitel 2 beschriebenen Prüffälle, bei welchen eine XML-Dokumentation das Ergebnis ist, können  auch in der Testdatenvalidierung des Zertifizierungsportals genutzt werden.
 
-Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch das Referat Zertifizierung findet nicht statt,  demzufolge ist der Ordner „Screenshot“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nach dem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den  Prüfunterlagen hochgeladen werden. An die angegebene E-Mail-Adresse werden die Testergebnisse  gesendet.
+Die übermittelten Testdaten werden auf Vollständigkeit und Korrektheit automatisiert geprüft. Eine  manuelle Prüfung der eingereichten Unterlagen durch Mitarbeitende der KBV findet nicht statt,  demzufolge ist der Ordner „Screenshot“ im Gegensatz zur Zertifizierung nicht Gegenstand der  Testdatenvalidierung. Nachdem das Thema ausgewählt wurde, kann die Verzeichnisstruktur mit den  Prüfunterlagen hochgeladen werden. Die Testergebnisse werden an die angegebene E-Mail-Adresse  gesendet.
 
 Abbildung 2: Testdatenvalidierung
 
@@ -910,7 +918,7 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des ZIP-Archives.
 
 Abbildung 3: Struktur des ZIP-Archives für die Testdatenvalidierung anhand von Beispieldateien
 
-Seite 27 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 27 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 ---
 
@@ -939,6 +947,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 28 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.01 / 12. August 2021
+Seite 28 von 28 / KBV / Pruefpaket QS Hörgeräteversorgung / Version: 3.02 / 13. Oktober 2026
 
 Hörgerä^teversorgung Versorgung Testschlüssel

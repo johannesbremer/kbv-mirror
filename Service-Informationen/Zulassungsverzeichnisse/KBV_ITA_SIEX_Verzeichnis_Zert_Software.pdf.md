@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**10. OKTOBER 2026**
+**17. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -51,7 +51,7 @@ x APRIS Praxiscomputer GmbH
 
 x Vertrieb GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -150,7 +150,7 @@ x
 
 **CGM MEDICO** CGM Clinical Europe GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -255,7 +255,7 @@ x
 
 **Z1** CompuGroup Medical Dentalsysteme GmbH
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -355,7 +355,7 @@ x
 | **InterMediNet** | |
 | DBI | Informatik, Dirk Blume |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -542,7 +542,7 @@ Doctolib GmbH
 
 **Limport** Dr. Eissing und Partner GmbH
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -677,7 +677,7 @@ x
 
 **theHub** Fresenius Medical Care Deutschland GmbH
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -854,7 +854,7 @@ x
 
 **Skymed** henova GmbH
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -974,7 +974,7 @@ x
 
 **aurelio/lab** Intellitec Healthcare IT Solutions GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -1077,7 +1077,9 @@ DAC-Formular 2 IMEDAC GmbH**Heilmittelverordnung (Link) Verordnung von DiGAs (Li
 
 **ELADIS** LabKom Biochemische Dienstleistungen GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
+
+x
 
 x
 
@@ -1190,7 +1192,7 @@ x
 
 **lab@ccess** LIMETEC Biotechnologies GmbH
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -1285,7 +1287,7 @@ x
 
 **Ashvins xIS** MedicalCommunications GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -1446,7 +1448,7 @@ Meierhofer AG
 
 **Meona Clinics** Mesalvo Freiburg GmbH
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -1619,7 +1621,9 @@ NEXUS / CHILI GmbH
 
 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
+
+x
 
 x
 
@@ -1736,437 +1740,35 @@ x
 
 ---
 
-| Name der | Software | und Anbieter |
-|---|---|---|
-| **dc-pathos/dc-ross** | |  |
-| NEXUS / | DIGITAL | PATHOLOGY GmbH |
-| **order-entry** |  |  |
-| NEXUS / | DIGITAL | PATHOLOGY GmbH |
-| **NEXUS/KIS** | **(international)** |  |
-| NEXUS / | REHA GmbH |  |
-| **NEXUS /** | **KIS** |  |
-| NEXUS AG |  |  |
-| **LAURIS** |  |  |
-| NEXUS | SWISSLAB GmbH |  |
-| **NEXUS /** | **SWISSLAB** |  |
-| NEXUS | SWISSLAB GmbH |  |
-| **ClinicOS** |  |  |
-| NoscAI | GmbH |  |
-| **OMI** | **Prescriptions** |  |
-| OMI Systems |  |  |
-| **Omniplaner** |  |  |
-| Omnicare | Pharma GmbH |  |
-| **myoncare** |  |  |
-| Oncare | GmbH |  |
-|  | **Verordnungssoftware** | **MediSuite** |
-| Paul Albrechts | Verlag | GmbH |
-| **PegaMed** |  |  |
-| PEGA | Elektronik GmbH |  |
-
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-Name der Software und Anbieter NEXUS / DIGITAL PATHOLOGY GmbH NEXUS / DIGITAL PATHOLOGY GmbH NEXUS/KIS (international) NEXUS / REHA GmbH NEXUS SWISSLAB GmbH NEXUS / SWISSLAB NEXUS SWISSLAB GmbH NoscAI GmbH OMI Prescriptions Omnicare Pharma GmbH Oncare GmbH Verordnungssoftware MediSuite Paul Albrechts Verlag GmbH PEGA Elektronik GmbH**(Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
-
-
----
-
-| Name der | Software und | Anbieter |  |
-|---|---|---|---|
-| **Pegasus** | **Software für** | **Pathologie** | **und Zytologie** |
-| Pegasus | Datensysteme |  |  |
-| **GenLAB8** |  |  |  |
-| projodis | GmbH |  |  |
-| **PROFIMED** |  |  |  |
-| PRO | MEDISOFT AG |  |  |
-| **psyprax** |  |  |  |
-| psyprax | GmbH |  |  |
-| **QS-LAB** |  |  |  |
-| QS QualitySoft | GmbH |  |  |
-| **RED medical** | **classic** |  |  |
-| RED Medical | Systems | GmbH |  |
-| **RED Medical** |  |  |  |
-| RED Medical | Systems | GmbH |  |
-| **RescuePro** |  |  |  |
-| RescuePro | Production | GmbH & Co. | KG |
-| **RpDoc** | **Klinik** |  |  |
-| RpDoc | Solutions GmbH |  |  |
-| **RpDoc** | **eMMa** |  |  |
-| RpDoc | Solutions GmbH |  |  |
-| **S3-Win** |  |  |  |
-| S3 | Praxiscomputer GmbH | / Maximilian | Flender |
-| **SAP** | **Ambulatory Care** | **Management** |  |
-| SAP SE |  |  |  |
-
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-Name der Software und Anbieter Pegasus Software für Pathologie und Zytologie Pegasus Datensysteme projodis GmbH PRO MEDISOFT AG psyprax GmbH QS QualitySoft GmbH RED medical classic RED Medical Systems GmbH RED Medical Systems GmbH RescuePro Production GmbH & Co. KG RpDoc Klinik RpDoc Solutions GmbH RpDoc eMMa RpDoc Solutions GmbH S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management**(Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
-
-
----
-
-| Name | der Software und | Anbieter |  |
-|---|---|---|---|
-| **ARZT 2000** |  |  |  |
-| Schmidt | Computersysteme |  |  |
-| **QMED.PRAXIS** |  |  |  |
-| Schwerdtner | Medizin-Software | GmbH |  |
-| **principa** |  |  |  |
-| SIEGELE | Software GmbH |  |  |
-| **star.net®** | **Labor** |  |  |
-| Sonic | Healthcare Germany | GmbH & | Co. KG |
-| **Patho.Net** |  |  |  |
-| Sonic | Healthcare Germany | GmbH & | Co. KG |
-| **DOCNET** |  |  |  |
-| Sonic | Healthcare Germany | GmbH & | Co. KG |
-| **PalliDoc** |  |  |  |
-| Statconsult | GmbH |  |  |
-| **IOX-LS** |  |  |  |
-| STIWA | AMS GmbH |  |  |
-| **SYNconnect** |  |  |  |
-| SYNLAB | Holding Deutschland | GmbH |  |
-| **proLAB** |  |  |  |
-| SysTek | GmbH |  |  |
-| **T2med** |  |  |  |
-| T2med | GmbH & Co. KG |  |  |
-| **TeleClinic** | **eAU** |  |  |
-| TeleClinic | GmbH |  |  |
-
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-Name der Software und Anbieter Schmidt Computersysteme Schwerdtner Medizin-Software GmbH SIEGELE Software GmbH star.net® Labor Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KG Statconsult GmbH STIWA AMS GmbH SYNLAB Holding Deutschland GmbH SysTek GmbH T2med GmbH & Co. KG TeleClinic eAU TeleClinic GmbH**(Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
-
-
----
-
 **Name der Software und Anbieter**
 
-**Medi10** UfP Systemhaus GmbH
+**dc-pathos/dc-ross** NEXUS / DIGITAL PATHOLOGY GmbH
 
-**UNISOLO®-POESY** UNISOLO® GmbH
+**order-entry** NEXUS / DIGITAL PATHOLOGY GmbH
 
-**PDV-FR** Universitätsklinikum Freiburg AdöR
+**NEXUS/KIS (international)** NEXUS / REHA GmbH
 
-**AiDKlinik** Universitätsklinikum Heidelberg
+**NEXUS / KIS** NEXUS AG
 
-**data4doc** Vidal MMI Germany GmbH
+**LAURIS** NEXUS SWISSLAB GmbH
 
-**labGate** vireq software solutions GmbH
+**NEXUS / SWISSLAB** NEXUS SWISSLAB GmbH
 
-**tomedo** Zollsoft GmbH
+**ClinicOS** NoscAI GmbH
 
-**tomedo.air** Zollsoft GmbH
+**OMI Prescriptions**
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 10. Oktober 2026
+OMI Systems
 
-x
+**Omniplaner** Omnicare Pharma GmbH
 
-x
+**myoncare**
 
-x
+Oncare GmbH
 
-x
+**Compana - Plattform für psychotherapeutische** **Inst.** Pai Coding GmbH
 
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
-
-x
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
 
 x
 
@@ -2183,16 +1785,6 @@ x
 x
 
 **Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
-
-x
-
-x
-
-x
-
-x
-
-x
 
 x
 
@@ -2225,3 +1817,424 @@ x
 x
 
 **(Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
+
+
+---
+
+| Name | der Software | und | Anbieter |
+|---|---|---|---|
+|  | **Verordnungssoftware** | **MediSuite** |  |
+| Paul | Albrechts | Verlag GmbH |  |
+| **PegaMed** |  |  |  |
+| PEGA | Elektronik | GmbH |  |
+| **Pegasus** | **Software** | **für Pathologie** | **und Zytologie** |
+| Pegasus | Datensysteme | |  |
+| **GenLAB8** |  |  |  |
+| projodis | GmbH |  |  |
+| **PROFIMED** |  |  |  |
+| PRO | MEDISOFT AG |  |  |
+| **psyprax** |  |  |  |
+| psyprax | GmbH |  |  |
+| **QS-LAB** |  |  |  |
+| QS | QualitySoft | GmbH |  |
+| **RED** | **medical classic** |  |  |
+| RED | Medical Systems | GmbH |  |
+| **RED** | **Medical** |  |  |
+| RED | Medical Systems | GmbH |  |
+| **RescuePro** |  |  |  |
+| RescuePro | Production | GmbH | & Co. KG |
+| **RpDoc** | **Klinik** |  |  |
+| RpDoc | Solutions | GmbH |  |
+| **RpDoc** | **eMMa** |  |  |
+| RpDoc | Solutions | GmbH |  |
+
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung**
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Name der Software und Anbieter Verordnungssoftware MediSuite Paul Albrechts Verlag GmbH PEGA Elektronik GmbH Pegasus Software für Pathologie und Zytologie Pegasus Datensysteme projodis GmbH PRO MEDISOFT AG psyprax GmbH QS QualitySoft GmbH RED medical classic RED Medical Systems GmbH RED Medical RED Medical Systems GmbH RescuePro Production GmbH & Co. KG RpDoc Klinik RpDoc Solutions GmbH RpDoc eMMa RpDoc Solutions GmbH**(Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
+
+
+---
+
+| Name der | Software und | Anbieter |  |
+|---|---|---|---|
+| **S3-Win** |  |  |  |
+| S3 | Praxiscomputer GmbH | / Maximilian | Flender |
+| **SAP** | **Ambulatory Care** | **Management** |  |
+| SAP SE |  |  |  |
+| **ARZT 2000** |  |  |  |
+| Schmidt | Computersysteme |  |  |
+| **QMED.PRAXIS** |  |  |  |
+| Schwerdtner | Medizin-Software | GmbH |  |
+| **principa** |  |  |  |
+| SIEGELE | Software GmbH |  |  |
+| **star.net®** | **Labor** |  |  |
+| Sonic | Healthcare Germany | GmbH & | Co. KG |
+| **Patho.Net** |  |  |  |
+| Sonic | Healthcare Germany | GmbH & | Co. KG |
+| **DOCNET** |  |  |  |
+| Sonic | Healthcare Germany | GmbH & | Co. KG |
+| **PalliDoc** |  |  |  |
+| Statconsult | GmbH |  |  |
+| **IOX-LS** |  |  |  |
+| STIWA AMS | GmbH |  |  |
+| **SYNconnect** |  |  |  |
+| SYNLAB | Holding Deutschland | GmbH |  |
+| **proLAB** |  |  |  |
+| SysTek | GmbH |  |  |
+
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+**Abrechnung (Link) elektronische Disease-Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link) Arzneimittelverordnung (Link)**
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Name der Software und Anbieter S3 Praxiscomputer GmbH / Maximilian Flender SAP Ambulatory Care Management Schmidt Computersysteme Schwerdtner Medizin-Software GmbH SIEGELE Software GmbH star.net® Labor Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KG Sonic Healthcare Germany GmbH & Co. KG Statconsult GmbH STIWA AMS GmbH SYNLAB Holding Deutschland GmbH SysTek GmbH**Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
+
+
+---
+
+**Name der Software und Anbieter**
+
+**T2med** T2med GmbH & Co. KG
+
+**TeleClinic eAU** TeleClinic GmbH
+
+**Medi10** UfP Systemhaus GmbH
+
+**UNISOLO®-POESY** UNISOLO® GmbH
+
+**PDV-FR** Universitätsklinikum Freiburg AdöR
+
+**AiDKlinik** Universitätsklinikum Heidelberg
+
+**data4doc** Vidal MMI Germany GmbH
+
+**labGate** vireq software solutions GmbH
+
+**tomedo** Zollsoft GmbH
+
+**tomedo.air** Zollsoft GmbH
+
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 17. Oktober 2026
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+**Abrechnung (Link) elektronische Disease-**
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+**Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link)**
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+**Arzneimittelverordnung (Link) Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**

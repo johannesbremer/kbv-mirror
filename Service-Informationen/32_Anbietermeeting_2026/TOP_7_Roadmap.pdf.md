@@ -315,8 +315,6 @@ SEITE 11
 
 ---
 
-- **KOLLEGENSUCHE**
-
 ## Kollegensuche: Migration auf FHIR-R4
 
 - Zum 1. Juli 2026 wurde die FHIR-API der Kollegensuche auf FHIR-R4 umgestellt – siehe auch
@@ -331,7 +329,7 @@ SEITE 11
 
 ## - Die neue produktive URL lautet
 
-[https://fhir](https://fhir-kollegensuche.kvsafenet.de/FHIR4/) [kollegensuche.kvsafenet.de/FHIR4/](https://fhir-kollegensuche.kvsafenet.de/FHIR4/)
+[https://fhir](https://fhir-kollegensuche.kv-safenet.de/FHIR4/) [kollegensuche.](https://fhir-kollegensuche.kv-safenet.de/FHIR4/)[kv](https://fhir-kollegensuche.kv-safenet.de/FHIR4/) [safenet](https://fhir-kollegensuche.kv-safenet.de/FHIR4/)[.de/FHIR4/](https://fhir-kollegensuche.kv-safenet.de/FHIR4/)
 
 - Zum 9. November 2026 soll die alte API der Kollegensuche ([https://fhir](https://fhir-kollegensuche.kv-safenet.de/FHIR/) [kollegensuche.kv](https://fhir-kollegensuche.kv-safenet.de/FHIR/)
 
@@ -340,6 +338,7 @@ SEITE 11
 ) abgeschaltet werden.
 
 - [Bitte prüfen Sie in Ihrem System, ob Sie ggf. noch nicht umgestellt haben.](https://fhir-kollegensuche.kv-safenet.de/FHIR/)
+- **KOLLEGENSUCHE**
 
 **ROADMAP – IT IN DER VERSORGUNG**
 
@@ -518,3 +517,12 @@ SEITE 18
 ---
 
 ## WIR SIND FÜR SIE NAH.
+
+---
+
+|  | VIELEN | DANK! |
+|---|---|---|
+| **ROADMAP –** | **IT IN DER VERSORGUNG** | |
+| 32. | ANBIETERMEETING DER | KBV AM 1. OKTOBER 2026 |
+
+VIELEN DANK! ROADMAP – IT IN DER VERSORGUNG 32. ANBIETERMEETING DER KBV AM 1. OKTOBER 2026SEITE 4 VON 4
