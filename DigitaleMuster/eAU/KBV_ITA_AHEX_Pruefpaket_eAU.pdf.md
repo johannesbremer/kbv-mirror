@@ -1,20 +1,18 @@
-\|  |
-\|---|
+**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-\|  |
-\|---|
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  9. SEPTEMBER 2025   VERSION: 1.62   DOKUMENTENSTATUS: IN KRAFT** |
-|---|---|
+**22. OKTOBER 2026**
+
+**VERSION: 1.63**
+
+**DOKUMENTENSTATUS: IN KRAFT**
 
 # PRÜFPAKET ELEKTRONISCHE  ARBEITSUNFÄHIGKEITSBESCHEINIGUNG
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_EAU]
 
-Seite 1 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
-
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
-
+Seite 1 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -53,7 +51,7 @@ INHALT
 
 **20**
 
-Seite 2 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 2 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -61,6 +59,7 @@ DOKUMENTENHISTORIE
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 1.63 | 22.10.2026 | KBV | Korrektur des ICD-10-GM-Codes |  | 15 |
 | 1.62 | 09.09.2025 | KBV | Korrektur des XML-Verweises für |  | 8 |
 | 1.61 | 03.09.2025 | KBV | Klarstellung der Anweisung von |  | 15 |
 | 1.60 | 27.08.2025 | KBV | Anpassung der Prüfung an die    Flexibilisierung der |  | Alle      8 |
@@ -68,23 +67,19 @@ DOKUMENTENHISTORIE
 | 1.40 | 10.06.2021 | KBV | Anpassung der Formulierung der    Anpassung der Formulierung des |  | 14      15 |
 | 1.30 | 30.04.2021 | KBV | Korrektur der Anforderung an          Streichung der einzureichenden | Die Groß- und    Die Betreffzeile einer | 9              12 |
 | 1.20 | 24.02.2021 | KBV | Änderung der    Angabe „AU | Anpassung der | 6      10, |
-| 1.10 | 02.02.2021 | KBV | Überarbeitung des Prüfpaketes |  | Alle |
 
-Seite 3 von 20 / KBV /
+Seite 3 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
-Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
-
-Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testziels, der Aktion sowie einzureichenden Unterlagen im PF12  Testdatenvalidierung bzgl. der Prüfung von Barcodes Voraussetzung in PF08 Testziels in PF10 den einzureichenden Screenshot in Prüffall PF01 Prüfunterlage „Screenshot der Betreffzeile“ in Prüffall PF05 Kleinschreibung des Header-Elements „Reply To“ der KIM Nachricht wurde korrigiert. eAU-Nachricht wird bereits in Prüffall PF01 geprüft. Mit der Streichung wird das Komponentennummer seit“ in Prüffällen mit Folgebescheinigungen gestrichen Zertifizierungsverfahren vereinfacht.   technischen Anlage eAU 11, 
-
+bei Prüffall 08 Ernesto Müller Prüffall 08 eAU-FHIR-Version 1.2.0  Praxisstammdaten des Testziels, der Aktion sowie einzureichenden Unterlagen im PF12  Testdatenvalidierung bzgl. der Prüfung von Barcodes Voraussetzung in PF08 Testziels in PF10 den einzureichenden Screenshot in Prüffall PF01 Prüfunterlage „Screenshot der Betreffzeile“ in Prüffall PF05 Kleinschreibung des Header-Elements „Reply To“ der KIM Nachricht wurde korrigiert. eAU-Nachricht wird bereits in Prüffall PF01 geprüft. Mit der Streichung wird das Komponentennummer seit“ in Prüffällen mit Folgebescheinigungen gestrichen Zertifizierungsverfahren vereinfacht.   technischen Anlage eAU 11,
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  |  | Aufnahme Testdatenvalidierung | 16 |
+| 1.10 | 02.02.2021 | KBV | Überarbeitung des Prüfpaketes    Aufnahme Testdatenvalidierung |  | Alle    16 |
 | 1.00 | 01.07.2020 | KBV | Erstellung des Prüfpaketes |  | Alle |
 
-Seite 4 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 4 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -115,7 +110,7 @@ Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, 
 
 Nach Bestätigung des Eingangs und der Korrektheit des Antrages auf Zertifizierung bei der KBV oder des  Fehlerbriefes beim Antragsteller, müssen der KBV innerhalb von vier Wochen die Prüfunterlagen vorliegen.  Nach Ablauf dieser Frist kann die KBV das Zertifizierungsverfahren einstellen.
 
-Seite 5 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 5 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -155,7 +150,7 @@ Für das Zertifizierungsverfahren werden als Nachweis folgende Unterlagen erwart
 
 Die Teile der Lieferung, welche eine eAU- oder Storno-Datei darstellen, sind im entsprechenden  Dateiformat zu exportieren und unter folgender Namenskonvention direkt in dem Hauptverzeichnis zu  übertragen. Diese Dateien werden automatisiert geprüft. Es ist zu beachten, dass pro betroffenem Prüffall  eine XML-Datei sowie bei ausgewählten Prüffällen eine signierte Datei eingereicht werden muss.
 
-Seite 6 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 6 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -177,7 +172,7 @@ Die Struktur des zip-Archives sollte folgende Form aufweisen:
 
 ________________
 
-Seite 7 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 7 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -205,7 +200,7 @@ Prüffälle als XML-Dateien
 | **Brigitte Althaus** | XML_05 |
 | **Viktor Müller** | XML_09 |
 | **Ingrid Schimmelpfennig-Hammerschmidt** | XML_37 |
-| **Ernesto Müller** | XML_51  XML_50 |
+| **Ernesto Müller** | XML_50 |
 
 **Anmerkung:**
 
@@ -223,7 +218,7 @@ Die Verwendung einer Import-Schnittstelle für die XML-Dateien ist nur für Prü
 | **Vorname** | <kann beliebig gewählt werden> |
 | **Titel** | Dr. |
 
-Seite 8 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 8 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 Neben den speziellen Prüfstammdateien können auch die
 
@@ -269,7 +264,7 @@ Federmannssohn
 | **Telefax** | <kann beliebig gewählt werden> |
 | **E-Mail-Adresse** | AM@Testpraxis.de |
 
-Seite 9 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 9 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 
 ---
@@ -314,7 +309,7 @@ Es muss die Möglichkeit bestehen, von den Ein- und Ausgabemasken des zu prüfen
 
 **Tabelle 1: Prüffalltabelle**  **Erstbescheinigung für Patient „Karl-Friederich Schaumberg**
 
-Seite 10 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 10 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 Karl-Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Friederich Schaumberg“ ist im System ausgewählt Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   
 
@@ -340,7 +335,7 @@ Karl-Friederich Schaumberg“ Arzt 1 ist als ausstellender Arzt im System ausgew
 | **Aktion** |  |
 | **Einzureichende** |  |
 
-Seite 11 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 11 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 - 1. Der Anwender erstellt eine Arbeitsunfähigkeitsbescheinigung mit den folgenden  Daten:
 - a) Ausstellungsdatum = <kann beliebig gewählt werden>
@@ -384,7 +379,7 @@ Prüfunterlagen bescheinigung) für den Patienten „ Karl-Friederich Schaumberg
 
 **Tabelle 4: Prüffalltabelle**
 
-Seite 12 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 12 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 - 2. Signierte Storno-Datei
 - 3. Screenshot der Betreffzeile
@@ -441,7 +436,7 @@ Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen Karl-Friederich Sch
 
 **Tabelle 5: Prüffalltabelle**  **Folgebescheinigung für die Patientin „Brigitte Althaus**
 
-Seite 13 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 13 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 Arzt 1 ist als ausstellender Arzt im System ausgewählt  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   
 
@@ -476,7 +471,7 @@ Arzt 1 ist als ausstellender Arzt im System ausgewählt  Prüfunterlagen Profile
 
 **Tabelle 6: Prüffalltabelle  Folgebescheinigung für Patient „Viktor Müller**
 
-Seite 14 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 14 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ) für den Patienten „ Arzt 1 als ausstellender Arzt ist im System ausgewählt  Ausfertigung Krankenkasse.  Prüfunterlagen Profile in der Version 1.2.0 zu erstellen.   
 
@@ -490,7 +485,7 @@ Seite 14 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigu
 - b) Voraussichtlich-AU-bis: <muss größer als das Ausstellungsdatum sein>
 - c) Festgestellt-am: <muss dem Ausstellungsdatum entsprechen>
 - d) Endbescheinigung: Ja
-- e) ICD-10-GM-Kode = S02.4 G L
+- e) ICD-10-GM-Kode = S02.40 G L
 - f) 7. AU-Woche: Ja
 - g) Folgebescheinigung: Ja
 - 2. Der Anwender signiert die eAU.
@@ -517,7 +512,7 @@ Seite 14 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigu
 | **Einzureichende** |  |
 | **Hinweis** | Wenn ein Arzt in Weiterbildung eine AU ausstellt, dann muss ebenfalls der |
 
-Seite 15 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 15 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 afc2-4556-ab73-301e51a7bf30.xml Prüfunterlagen Ernesto Müller Arzt 2 ist als ausstellender Arzt im System ausgewählt  Arzt 1 ist als verantwortlicher Arzt für Arzt 2 im System ausgewählt im System ausgewählt Prüfunterlagen verantwortlich zeichnende Arzt in der eAU enthalten sein (siehe P310-09). 
 
@@ -568,7 +563,7 @@ afc2-4556-ab73-301e51a7bf30.xml Prüfunterlagen Ernesto Müller Arzt 2 ist als a
 | **Datei** | Die zu verwendende Fehlernachricht ist EEAU0_eAUFehler-Kasse-Arzt_6413570d- [Testdaten_eAU] |
 | **Aktion** |  |
 
-Seite 16 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 16 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen z.B. den eArztbrief eingereicht haben, dann muss dennoch eine erneute Übermittlung dieser Bestätigung im Verfahren eAU erfolgen.  Prüfunterlagen der Krankenkasse. d8ce-4afa-9f6e-0950111a4cb8.xml 
 
@@ -593,7 +588,7 @@ Profile in der Version 1.2.0 zu erstellen.   Prüfunterlagen z.B. den eArztbrief
 
 **Tabelle 12: Prüffalltabelle**
 
-Seite 17 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 17 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 - 1. Screenshot, welcher das Verhalten der Software in diesem Fall darstellt.
 
@@ -622,7 +617,7 @@ Nachdem das Zertifizierungsthema ausgewählt wurde, kann die Verzeichnisstruktur
 
 **Abbildung 2: Testdatenvalidierung im Zertifizierungsportal**
 
-Seite 18 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 18 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -630,7 +625,7 @@ Bitte beachten Sie die folgende Verzeichnisstruktur des zip-Archivs.
 
 **Abbildung 3: Exemplarische Verzeichnisstruktur für die Testdatenvalidierung**
 
-Seite 19 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 19 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 ---
 
@@ -655,6 +650,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [pruefstelle@kbv.de](mailto:pruefstel
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefstelle@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 20 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.62 / 9. September 2025
+Seite 20 von 20 / KBV / Prüfpaket elektronische Arbeitsunfähigkeitsbescheinigung / Version: 1.63 / 22. Oktober 2026
 
 update/Allgemein/KBV_ITA_RLEX_Zert.pdf update/DigitaleMuster/eAU/KBV_ITA_VGE X_Technische_Anlage_eAU.pdf update/DigitaleMuster/KBV_ITA_VGEX_Tec hnisches_Handbuch_DiMus.pdf update/DigitaleMuster/eAU/KBV_ITA_FME X_AAZ_eAU.pdf Primärsystems zur Konnektorschnittstelle anbieter/primaersysteme update/Abrechnung/Pruefverfahren/VSD_5 .2.0_Testfaelle_V2.3.zip update/DigitaleMuster/eAU/

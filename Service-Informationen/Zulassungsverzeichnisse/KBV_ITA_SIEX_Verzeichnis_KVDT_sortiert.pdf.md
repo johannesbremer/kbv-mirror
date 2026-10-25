@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**17. OKTOBER 2026**
+**24. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -38,7 +38,7 @@
 
 07745 Jena Internet: www.zollsoft.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -103,7 +103,7 @@ System mit APK
 
 System mit APK
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 iOS/Android Mac OS Windows
 
@@ -147,7 +147,7 @@ System mit APK
 
 **Dr. Axel Stenkamp Consulting &** **SoftwareEngineering** Denglerstraße 55 53173 Bonn
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -217,7 +217,7 @@ System mit APK
 
 System mit APK
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2409/36/616
 
@@ -279,7 +279,7 @@ Herderstr. 7
 
 System mit APK 26169 Friesoythe Internet: www.apraxos.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/203/2607/36/636
 
@@ -333,7 +333,7 @@ Linux Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 **Doc Cirrus GmbH** Pohlstraße 20 10785 Berlin Internet: www.doc-cirrus.com
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System ohne APK
 
@@ -397,7 +397,7 @@ System mit APK
 
 **Statconsult GmbH** Am Fuchsberg 11 39112 Magdeburg Internet: [http://www.pallidoc.de/](http://www.pallidoc.de/)
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -467,7 +467,7 @@ System mit APK
 
 System mit APK
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Linux Sonstige Windows
 
@@ -521,7 +521,7 @@ System mit APK
 
 System mit APK
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2601/36/458 Y/500/2601/36/458
 
@@ -565,7 +565,7 @@ Windows Satzart: Notfall/ Notfalldienst
 
 **Andaco Consulting & Trading GmbH** Emkendorfstraße 38A 22605 Hamburg Internet: www.andaco.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -635,7 +635,7 @@ System mit APK
 
 System ohne APK
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2507/36/409
 
@@ -694,7 +694,7 @@ System ohne APK
 
 System mit APK
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2607/36/348 Y/500/2607/36/348 30.06.2029 30.06.2029
 
@@ -744,7 +744,7 @@ Windows Satzart: Belegärztliche Behandlung Satzart: Notfall / Notfalldienst
 
 53121 Bonn Internet: www.luuconnect.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System ohne APK
 
@@ -800,7 +800,7 @@ Windows
 
 63263 Neu-Isenburg Internet: www.kfh.de
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -862,7 +862,7 @@ Internet: www.rescuepro.de
 
 Königstraße 7 26180 Rastede Internet: www.newmediacompany.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -926,7 +926,7 @@ System ohne APK
 
 System mit APK
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/500/2601/36/298 Y/1/2601/36/298
 
@@ -996,7 +996,7 @@ Softwarevariante(n):
 
 - CGM MEDISTAR - CGM MEDISTAR BLACK
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2601/36/290
 
@@ -1030,13 +1030,13 @@ Satzart: Ambulante Behandlung Satzart: Überweisung 30.06.2027 Satzart: Belegär
 
 **MEDOS**
 
-**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2
+**NEXUS / CHILI GmbH**
 
-69221 Dossenheim Internet: [https://www.nexus-](https://www.nexus-) chili.com
+Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-](https://www.nexus-) chili.com
 
 **RadCentre Billing (OPD)**
 
-**Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
+**EDL Software Deutschland GmbH** Alte Bahnhofstraße 77 44892 Bochum Internet: [https://www.edl.gmbh/](https://www.edl.gmbh/)
 
 **x.comfort**
 
@@ -1054,7 +1054,7 @@ System mit APK
 
 System ohne APK
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2407/36/278
 
@@ -1108,7 +1108,7 @@ System mit APK
 
 Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -1172,7 +1172,7 @@ Internet: [http://www.nexus-](http://www.nexus-) swisslab.de
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System ohne APK
 
@@ -1224,7 +1224,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -1282,7 +1282,7 @@ System mit APK
 
 System mit APK 31191 Algermissen Internet: www.dbi-informatik.de
 
-Seite 23 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 23 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2501/36/244 Y/500/2501/36/244
 
@@ -1336,7 +1336,7 @@ Am Klingenweg 6 65396 Walluf Internet: www.clinisys.com
 
 **CGM LAB International GmbH** Gesundheitscampus-Süd 17 44801 Bochum Internet: www.cgm.com
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System ohne APK
 
@@ -1408,7 +1408,7 @@ System ohne APK August-Wessels-Str. 5
 
 86154 Augsburg Internet: www.labkom.de
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2601/36/226
 
@@ -1462,7 +1462,7 @@ Gaußstr. 7 38106 Braunschweig Internet: www.unisolo.de
 
 **CompuGroup Medical Deutschland** **AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-Seite 26 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 26 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -1527,7 +1527,7 @@ System mit APK
 
 System mit APK 76534 Baden-Baden Internet: www.medigration.de
 
-Seite 27 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 27 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Windows
 
@@ -1567,7 +1567,7 @@ Windows Satzart: Notfall/ Notfalldienst
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -1639,7 +1639,7 @@ System mit APK
 
 System mit APK
 
-Seite 29 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 29 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/2/2407/36/135 Y/500/2407/36/135 Y/1/2407/36/135
 
@@ -1703,7 +1703,7 @@ System mit APK
 
 System mit APK Griesbergstraße 1B-C 31162 Bad Salzdetfurth Internet: www.meditec-gmbh.com
 
-Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 30 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2501/36/403
 
@@ -1759,7 +1759,7 @@ Internet: www.pegamed.de
 
 **APW-Wiegand - Med. Software** **Entwicklung und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 31 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 31 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 System mit APK
 
@@ -1823,7 +1823,7 @@ System mit APK
 
 System ohne APK
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026
 
 Y/1/2410/36/078
 
@@ -1874,4 +1874,4 @@ Satzart: Ambulante Behandlung Satzart: Überweisung 30.06.2027 Satzart: Belegär
 
 Windows
 
-Seite 33 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 17. Oktober 2026
+Seite 33 / KBV / Verzeichnis zertifizierter Software für die vertragsärztliche Abrechnung - nach erstmaliger Zulassung / 24. Oktober 2026

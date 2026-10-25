@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**17. OKTOBER 2026**
+**24. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -36,7 +36,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 Y/495/2401/36/062
 
@@ -90,7 +90,7 @@ Windows
 
 Windows 10785 Berlin Internet: www.clickvalid.com
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -128,7 +128,7 @@ Windows
 
 Windows 56070 Koblenz Internet: www.albis.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -170,7 +170,7 @@ Windows
 
 Windows 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -196,7 +196,7 @@ Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnun
 
 **Doctolib GmbH** Friedrichstraße 111 10117 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 Y/495/2401/36/254
 
@@ -232,29 +232,27 @@ Linux Mac OS Sonstige Windows
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
 
+**RadCentre Billing (OPD)**
+
+**EDL Software Deutschland GmbH** Alte Bahnhofstraße 77 44892 Bochum Internet: [https://www.edl.gmbh/](https://www.edl.gmbh/)
+
 **Epikur**
 
-**Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
-
-**PsychoDat**
-
-**ergosoft GmbH** Bahnhofstraße 11 c
+**Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin
 
 Y/495/2404/36/602 31.03.2027 Linux
 
 Y/495/2401/36/086 31.12.2026 Windows
 
-Linux
-
-|  | Y/495/2401/36/295 | 31.12.2026 |  |
+|  | Y/495/2401/36/276 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/253 | 31.12.2026 |  |
+|  | Y/495/2401/36/295 | 31.12.2026 |  |
 
-Mac OS Windows
+Windows
 
-Windows 67159 Friedelsheim Internet: www.ergosoft.info
+Linux Mac OS Windows Internet: www.epikur.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -263,6 +261,10 @@ Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnun
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**PsychoDat**
+
+**ergosoft GmbH** Bahnhofstraße 11 c 67159 Friedelsheim Internet: www.ergosoft.info
 
 **INDICATION**
 
@@ -274,25 +276,21 @@ Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnun
 
 **FIDUS**
 
-**FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117 64291 Darmstadt Internet: www.fidus.de
+**FIDUS Software Entwicklungs-GmbH** Frankfurter Landstr. 117
 
-**QUINCY WIN**
-
-**Frey ADV GmbH** Chausseestraße 189
+Y/495/2401/36/253 31.12.2026 Windows
 
 Y/495/2401/36/223 31.12.2026 Windows
 
-Y/495/2401/36/034 31.12.2026 Windows
-
-|  | Y/495/2401/36/403 | 31.12.2026 |  |
+|  | Y/495/2401/36/034 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/244 | 31.12.2026 |  |
+|  | Y/495/2401/36/403 | 31.12.2026 |  |
 
 Windows
 
-Windows 15712 Königs Wusterhausen Internet: www.frey.de
+Windows 64291 Darmstadt Internet: www.fidus.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -301,6 +299,10 @@ Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnun
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**QUINCY WIN**
+
+**Frey ADV GmbH** Chausseestraße 189 15712 Königs Wusterhausen Internet: www.frey.de
 
 **Doctorly**
 
@@ -314,23 +316,21 @@ Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnun
 
 **henova GmbH** Lilienthal Strasse 1 86830 Schwabmünchen Internet: www.henova.de
 
-**ifa|NX-NEXT Generation AIS**
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
-**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
-
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Y/495/2401/36/244
 
 Y/495/2504/21/616
 
-Y/495/2401/36/298
-
-|  | Y/495/2608/38/628 | 30.09.2029 |  |
+|  | Y/495/2401/36/298 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/451 | 31.12.2026 |  |
+|  | Y/495/2608/38/628 | 30.09.2029 |  |
 
-iOS/Android Linux 31.12.2026 Mac OS Windows 31.12.2026 Windows
+31.12.2026 Windows
 
-Linux Mac OS Windows
+iOS/Android Linux 31.12.2026 Mac OS Windows
+
+Windows
 
 Linux Mac OS Windows
 
@@ -341,6 +341,10 @@ Linux Mac OS Windows
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**ifa|NX-NEXT Generation AIS**
+
+**ifa systems AG** Augustinusstraße 11b 50226 Frechen Internet: www.ifasystems.de
 
 **Medical Office**
 
@@ -354,25 +358,19 @@ Linux Mac OS Windows
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
-**DISweb**
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
-**KfH - Kuratorium für Dialyse und Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
-
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Y/495/2401/36/451
 
 Y/495/2401/36/210
 
-Y/495/2401/36/136
-
-|  | Y/495/2510/15/406 | 31.12.2026 |  |
+|  | Y/495/2401/36/136 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/320 | 31.12.2026 |  |
+|  | Y/495/2510/15/406 | 31.12.2026 |  |
 
-31.12.2026 Windows
+Linux 31.12.2026 Mac OS Windows 31.12.2026 Windows
 
-Mac OS 31.12.2026 Windows
-
-Windows
+Mac OS Windows
 
 Windows
 
@@ -383,6 +381,10 @@ Windows
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**DISweb**
+
+**KfH - Kuratorium für Dialyse und Nierentransplantation e.V.** Martin-Behaim-Straße 20 63263 Neu-Isenburg Internet: www.kfh.de
 
 **EL - Elaphe Longissima**
 
@@ -396,25 +398,21 @@ Softwarevariante(n): - x.vianova
 
 **x.concept**
 
-**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
-
-**x.comfort**
-
 **medatixx GmbH & Co. KG** Im Kappelhof 1
+
+Y/495/2401/36/320 31.12.2026 Windows
 
 Y/495/2401/36/135 31.12.2026 Windows
 
-Y/495/2401/36/216 31.12.2026 Windows
-
-|  | Y/495/2401/36/243 | 31.12.2026 |  |
+|  | Y/495/2401/36/216 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/266 | 31.12.2026 |  |
+|  | Y/495/2401/36/243 | 31.12.2026 |  |
 
 Windows
 
 Windows 65343 Eltville Internet: www.medatixx.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -423,6 +421,10 @@ Seite 11 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**x.comfort**
+
+**medatixx GmbH & Co. KG** Im Kappelhof 1 65343 Eltville Internet: www.medatixx.de
 
 **medatixx**
 
@@ -436,25 +438,21 @@ Softwarevariante(n): - psyx - xentro
 
 **eRIS**
 
-**medavis GmbH** Bannwaldallee 60 76185 Karlsruhe Internet: www.medavis.de
+**medavis GmbH** Bannwaldallee 60
 
-**Praxis-Programm**
-
-**medisoftware GmbH & Co. KG** Steinstraße 1
+Y/495/2401/36/266 31.12.2026 Windows
 
 Y/495/2401/36/462 31.12.2026 Windows
 
-Y/495/2401/36/256 31.12.2026 Windows
-
-|  | Y/495/2401/36/439 | 31.12.2026 |  |
+|  | Y/495/2401/36/256 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/030 | 31.12.2026 |  |
+|  | Y/495/2401/36/439 | 31.12.2026 |  |
 
 Windows
 
-Windows 24118 Kiel Internet: www.medisoftware.de
+Windows 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -463,6 +461,10 @@ Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**Praxis-Programm**
+
+**medisoftware GmbH & Co. KG** Steinstraße 1 24118 Kiel Internet: www.medisoftware.de
 
 **garrioPRO**
 
@@ -470,67 +472,55 @@ Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 
 **MEDICUSplus**
 
-**MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
+**MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14
+
+Y/495/2401/36/030 31.12.2026 Windows
+
+Linux
+
+|  | Y/495/2604/09/701 | 31.12.2026 |  |
+|---|---|---|---|
+|  | Y/495/2401/36/192 | 31.12.2026 |  |
+
+Mac OS Windows
+
+Windows 50935 Köln Internet: www.mednet.de
+
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+
+
+---
+
+|  |  | Prüfnummer | unterstützte |
+|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer** |  |  |
+|  |  | **gültig bis** | **Betriebssysteme** |
 
 **MEDVISION**
 
 **MedVision AG** Heinrich-Hertz-Str. 9 59423 Unna Internet: www.medvision.de
 
-Softwarevariante(n):
-
-Linux Y/495/2604/09/701 31.12.2026 Mac OS Windows
-
-|  | Y/495/2401/36/192 | 31.12.2026 |  |
-|---|---|---|---|
-|  | Y/495/2401/36/251 | 31.12.2026 |  |
-
-Windows
-
-Windows
-
-- medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
-
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
-
-
----
-
-|  |  | Prüfnummer | unterstützte |
-|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer** |  |  |
-|  |  | **gültig bis** | **Betriebssysteme** |
+Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
 **MEDYS**
 
-**MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath
-
-Internet: www.medys.de
+**MEDYS GmbH** Wilhelmstraße 96 42489 Wülfrath Internet: www.medys.de
 
 **M-KIS**
 
 **Meierhofer AG** Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com
 
-**RadCentre Billing (OPD)**
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
-**Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
+Y/495/2401/36/251
 
-**ClinicCentre Billing (OPD)**
-
-**Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
-
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
-
-Y/495/2401/36/015
-
-Y/495/2401/36/290
-
-|  | Y/495/2401/36/276 | 31.12.2026 |  |
+|  | Y/495/2401/36/015 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/422 | 31.12.2026 |  |
+|  | Y/495/2401/36/290 | 31.12.2026 |  |
 
-Mac OS 31.12.2026 Windows 31.12.2026 Windows
+31.12.2026 Windows
 
-Windows
+Mac OS Windows
 
 Windows
 
@@ -541,6 +531,10 @@ Windows
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**ClinicCentre Billing (OPD)**
+
+**Mesalvo Mannheim GmbH** Am Exerzierplatz 14 68167 Mannheim Internet: [https://mesalvo.com](https://mesalvo.com)
 
 **Pro_Medico**
 
@@ -552,25 +546,21 @@ Windows
 
 **MEDOS**
 
-**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
+**NEXUS / CHILI GmbH** Friedrich-Ebert-Str. 2
 
-**NEXUS/KIS (international)**
-
-**NEXUS / REHA GmbH** Irmastraße 1
+Y/495/2401/36/422 31.12.2026 Windows
 
 Y/495/2401/36/043 31.12.2026 Windows
 
-Y/495/2401/36/299 31.12.2026 Windows
-
-|  | Y/495/2401/36/278 | 31.12.2026 |  |
+|  | Y/495/2401/36/299 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2501/24/620 | 31.12.2026 |  |
+|  | Y/495/2401/36/278 | 31.12.2026 |  |
 
 Windows
 
-Windows 78166 Donaueschingen
+Windows 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -579,6 +569,10 @@ Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**NEXUS/KIS (international)**
+
+**NEXUS / REHA GmbH** Irmastraße 1 78166 Donaueschingen
 
 **NEXUS / KIS**
 
@@ -590,25 +584,21 @@ Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 
 **PROFIMED**
 
-**PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
+**PRO MEDISOFT AG** Besselstraße 25
 
-**psyprax**
-
-**psyprax GmbH** Landsberger Straße 308
+Y/495/2501/24/620 31.12.2026 Windows
 
 Y/495/2401/36/208 31.12.2026 Windows
 
-Y/495/2401/36/083 31.12.2026 Windows
-
-|  | Y/495/2401/36/247 | 31.12.2026 |  |
+|  | Y/495/2401/36/083 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/348 | 31.12.2026 |  |
+|  | Y/495/2401/36/247 | 31.12.2026 |  |
 
 Windows
 
-Windows 80687 München Internet: www.psyprax.de
+Windows 68219 Mannheim Internet: www.pro-medisoft.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
 
 ---
@@ -617,6 +607,10 @@ Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**psyprax**
+
+**psyprax GmbH** Landsberger Straße 308 80687 München Internet: www.psyprax.de
 
 **RED medical classic**
 
@@ -630,29 +624,25 @@ Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 
 **SAP SE** Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare
 
-**ARZT 2000**
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
-**Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
-
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Y/495/2401/36/348
 
 Y/495/2401/36/456
 
-Y/495/2401/36/261
-
-|  | Y/495/2401/36/343 | 31.12.2026 |  |
+|  | Y/495/2401/36/261 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/171 | 31.12.2026 |  |
+|  | Y/495/2401/36/343 | 31.12.2026 |  |
+
+31.12.2026 Windows
 
 iOS/Android
 
 Linux 31.12.2026 Mac OS Sonstige Windows
 
-Sonstige 31.12.2026 Windows
-
 Sonstige Windows
 
-Windows
+Sonstige Windows
 
 
 ---
@@ -661,6 +651,10 @@ Windows
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**ARZT 2000**
+
+**Schmidt Computersysteme** Chrysanthemenweg 4 02827 Görlitz Internet: www.arzt2000.de
 
 **QMED.PRAXIS**
 
@@ -674,27 +668,23 @@ Windows
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-**Medi10**
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
 
-**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
-
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Y/495/2401/36/171
 
 Y/495/2401/36/230
 
-Y/495/2401/36/458
-
-|  | Y/495/2401/36/498 | 31.12.2026 |  |
+|  | Y/495/2401/36/458 | 31.12.2026 |  |
 |---|---|---|---|
-|  | Y/495/2401/36/313 | 31.12.2026 |  |
+|  | Y/495/2401/36/498 | 31.12.2026 |  |
 
 31.12.2026 Windows
 
-Linux 31.12.2026 Windows
+31.12.2026 Windows
+
+Linux Windows
 
 iOS/Android Linux Mac OS Windows
-
-Windows
 
 
 ---
@@ -703,6 +693,10 @@ Windows
 |---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer** |  |  |
 |  |  | **gültig bis** | **Betriebssysteme** |
+
+**Medi10**
+
+**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 42287 Wuppertal Internet: www.ufpgmbh.de
 
 **UNISOLO®-POESY**
 
@@ -716,13 +710,17 @@ Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 17. Oktober 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+
+Y/495/2401/36/313
 
 Y/495/2401/36/205
 
 |  | Y/495/2401/36/457 | 31.12.2026 |  |
 |---|---|---|---|
 |  | Y/495/2603/37/768 | 31.03.2029 |  |
+
+31.12.2026 Windows
 
 31.12.2026 Windows
 
