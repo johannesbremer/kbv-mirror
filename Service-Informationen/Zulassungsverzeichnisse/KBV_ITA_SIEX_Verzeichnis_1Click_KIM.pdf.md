@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**24. OKTOBER 2026**
+**31. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 
 **APRIS Praxiscomputer GmbH** Wetterkreuz 19 91058 Erlangen Internet: www.apris.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 Y/169/2407/36/395
 
@@ -96,7 +96,7 @@ Mac OS Windows
 
 Internet: www.bs-sd.de
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -134,7 +134,7 @@ Windows
 
 Windows 44801 Bochum Internet: www.cgm.com
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -174,7 +174,7 @@ Sonstige
 
 Windows 65396 Walluf Internet: www.clinisys.com
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -212,7 +212,7 @@ Windows
 
 Windows 56070 Koblenz Internet: www.turbomed.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -258,7 +258,7 @@ Windows
 
 Softwarevariante(n): - CGM MEDISTAR - CGM MEDISTAR BLACK
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -296,7 +296,7 @@ Windows
 
 Windows 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -336,7 +336,7 @@ Sonstige Windows
 
 Windows 50676 Köln Internet: www.telekom-healthcare.com
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -362,7 +362,7 @@ Seite 9 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung 
 
 **Dr. Claudia Neumann** Herderstr. 7 26169 Friesoythe Internet: www.apraxos.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 Y/169/2408/36/488
 
@@ -422,7 +422,7 @@ Windows
 
 Windows 79199 Kirchzarten
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -464,7 +464,7 @@ Windows
 
 Windows 69214 Eppelheim Internet: www.indication.com
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -502,7 +502,7 @@ Windows
 
 Windows 83629 Weyarn
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -528,7 +528,7 @@ Seite 13 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung
 
 **GE Healthcare Information Technologies GmbH & Co. KG** Peter-Müller-Straße 24-26 40468 Düsseldorf Internet: www.gehealthcare.com
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 Y/169/2504/36/630
 
@@ -594,7 +594,7 @@ Windows
 
 Linux Mac OS Windows Internet: www.ifasystems.de
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -632,7 +632,7 @@ Windows
 
 Windows 19057 Schwerin Internet: www.indamed.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -670,7 +670,7 @@ Windows
 
 Windows 58454 Witten Internet: www.khp-informatik.de
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -712,7 +712,7 @@ Linux
 
 Windows 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -750,7 +750,7 @@ Linux
 
 Linux Sonstige Windows Internet: www.labsolution.lu
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -794,7 +794,7 @@ Windows Internet: www.medatixx.de
 
 Softwarevariante(n): - x.vianova
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -842,7 +842,7 @@ Windows
 
 Windows 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -880,7 +880,7 @@ Windows
 
 Windows 24118 Kiel Internet: www.medisoftware.de
 
-Seite 22 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 22 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -918,7 +918,7 @@ Windows
 
 Windows 50935 Köln Internet: www.mednet.de
 
-Seite 23 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 23 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -958,7 +958,7 @@ Windows
 
 Windows 85609 Aschheim Internet: www.meierhofer.com
 
-Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 24 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -998,7 +998,7 @@ Mac OS Windows
 
 Windows 17489 Greifswald Internet: www.med4win.de
 
-Seite 25 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 25 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -1040,7 +1040,7 @@ Windows
 
 Windows 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 26 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 26 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -1078,7 +1078,7 @@ Windows
 
 Windows 10829 Berlin Internet: [http://www.nexus-swisslab.de](http://www.nexus-swisslab.de)
 
-Seite 27 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 27 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -1120,7 +1120,7 @@ Windows
 
 Windows 35510 Butzbach Internet: [http://www.projodis.com](http://www.projodis.com)
 
-Seite 28 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 28 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -1154,7 +1154,7 @@ Y/169/2403/36/348
 |---|---|---|---|---|
 |  | Y/169/2404/36/626 | 31.03.2027 | nicht umgesetzt |  |
 
-Seite 29 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026 31.12.2026
+Seite 29 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026 31.12.2026
 
 umgesetzt
 
@@ -1210,7 +1210,7 @@ Windows
 
 Windows 02827 Görlitz Internet: www.arzt2000.de
 
-Seite 30 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 30 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -1250,7 +1250,7 @@ Mac OS Windows
 
 Windows 39112 Magdeburg Internet: [http://www.pallidoc.de/](http://www.pallidoc.de/)
 
-Seite 31 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 31 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -1288,7 +1288,7 @@ Windows
 
 Windows 38106 Braunschweig Internet: www.unisolo.de
 
-Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 
 ---
@@ -1306,7 +1306,7 @@ Seite 32 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung
 | 07745 | Jena |  |
 |  | Internet: | www.zollsoft.de |
 
-Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 24. Oktober 2026
+Seite 33 / KBV / Verzeichnis zertifizierter Software für die 1-Click Abrechnung mittels KIM / 31. Oktober 2026
 
 **Prüfnummer** **Prüfnummer**
 

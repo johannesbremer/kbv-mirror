@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**24. OKTOBER 2026**
+**31. OKTOBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -36,7 +36,7 @@
 
 **APW-Wiegand - Med. Software Entwicklung und Vertrieb GmbH** Draiser Straße 164 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/062
 
@@ -90,7 +90,7 @@ Windows
 
 Windows 10785 Berlin Internet: www.clickvalid.com
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -128,7 +128,7 @@ Windows
 
 Windows 56070 Koblenz Internet: www.albis.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -170,7 +170,7 @@ Windows
 
 Windows 89231 Neu-Ulm Internet: www.data-al.de
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -196,7 +196,7 @@ Seite 5 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnun
 
 **Doctolib GmbH** Friedrichstraße 111 10117 Berlin Internet: [https://www.doctolib.de](https://www.doctolib.de)
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/254
 
@@ -252,7 +252,7 @@ Windows
 
 Linux Mac OS Windows Internet: www.epikur.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -290,7 +290,7 @@ Windows
 
 Windows 64291 Darmstadt Internet: www.fidus.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -316,7 +316,7 @@ Seite 8 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnun
 
 **henova GmbH** Lilienthal Strasse 1 86830 Schwabmünchen Internet: www.henova.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/244
 
@@ -358,7 +358,7 @@ Linux Mac OS Windows
 
 **IQVIA Commercial GmbH & Co OHG** Angela-Stadler-Str. 9 78224 Singen Internet: www.gradient.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/451
 
@@ -412,7 +412,7 @@ Windows
 
 Windows 65343 Eltville Internet: www.medatixx.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -452,7 +452,7 @@ Windows
 
 Windows 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -486,7 +486,7 @@ Mac OS Windows
 
 Windows 50935 Köln Internet: www.mednet.de
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -510,7 +510,7 @@ Softwarevariante(n): - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPH
 
 **Meierhofer AG** Einsteinring 30 85609 Aschheim Internet: www.meierhofer.com
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/251
 
@@ -560,7 +560,7 @@ Windows
 
 Windows 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -598,7 +598,7 @@ Windows
 
 Windows 68219 Mannheim Internet: www.pro-medisoft.de
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 
 ---
@@ -624,7 +624,7 @@ Seite 16 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnu
 
 **SAP SE** Dietmar-Hopp-Allee 16 69190 Walldorf Internet: www.sap.com/industries/healthcare
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/348
 
@@ -668,7 +668,7 @@ Sonstige Windows
 
 **T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/171
 
@@ -710,7 +710,7 @@ iOS/Android Linux Mac OS Windows
 
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 24. Oktober 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Heilmittelverordnung ab 1. Januar 2021 / 31. Oktober 2026
 
 Y/495/2401/36/313
 
