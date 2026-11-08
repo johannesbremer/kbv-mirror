@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**31. OKTOBER 2026**
+**07. NOVEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -54,7 +54,7 @@ Windows
 
 55128 Mainz Internet: www.apw-wiegand.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -103,7 +103,7 @@ Windows
 
 Windows
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -139,7 +139,7 @@ Windows
 
 Softwarevariante(n): - CGM M1 PRO NEXT
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -189,7 +189,7 @@ Windows
 
 Linux Mac OS Sonstige Windows
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -215,7 +215,7 @@ Seite 5 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. O
 
 **Epikur Software GmbH & Co. KG** Franklinstraße 26 a 10587 Berlin Internet: www.epikur.de
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 Y/52/2403/36/673 28.02.2027 QS Zervix-Zytologie
 
@@ -280,7 +280,7 @@ iOS/Android Linux Mac OS Windows
 
 Windows 98693 Ilmenau Internet: www.gmc-systems.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -327,7 +327,7 @@ Linux Mac OS Sonstige Windows
 
 Windows 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -375,7 +375,7 @@ Windows
 
 Windows 65343 Eltville Internet: www.medatixx.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -404,7 +404,7 @@ Seite 9 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. O
 
 **MEDNET Service für Ärzte AG** Prälat-van-Acken-Straße 14 50935 Köln Internet: www.mednet.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 Windows
 
@@ -448,7 +448,7 @@ Mac OS Windows
 
 Windows 74189 Weinsberg Internet: www.neutz.net
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -496,7 +496,7 @@ Windows
 
 Windows 81673 München Internet: www.pegasus-zytologie.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -505,60 +505,54 @@ Seite 12 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. 
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-**GenLAB8**
-
-**projodis GmbH** Gebrüder-Freitag-Straße 1
-
-Y/55/2311/36/609 35510 Butzbach Internet: [http://www.projodis.com](http://www.projodis.com)
+|  | Y/53/2604/36/247 | 31.03.2029 | Hautkrebs-Screening |  |
+|  | Y/56/2401/36/247 | 31.12.2026 | QS Hörgeräteversorgung |  |
 
 **PROFIMED**
 
-**PRO MEDISOFT AG**
-
-|  | Y/53/2604/36/247 | 31.03.2029 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
-|  | Y/56/2401/36/247 | 31.12.2026 | QS Hörgeräteversorgung |  |
-|  | Y/53/2504/36/456 | 31.03.2028 | Hautkrebs-Screening |  |
-|  | Y/53/2601/36/261 | 31.12.2028 | Hautkrebs-Screening |  |
-|  | Y/56/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung |  |
-|  | Y/58/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
-
-Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
+**PRO MEDISOFT AG** Besselstraße 25 68219 Mannheim Internet: www.pro-medisoft.de
 
 **RED medical classic**
 
-**RED Medical Systems GmbH** Lutzstraße 2 80687 München Internet: www.REDMEDICAL.DE
+**RED Medical Systems GmbH** Lutzstraße 2
+
+Y/53/2504/36/456 80687 München Internet: www.REDMEDICAL.DE
 
 **S3-Win**
 
-**S3 Praxiscomputer GmbH / Maximilian** **Flender** Lorscher Straße 2 69469 Weinheim 31.10.2026 QS Molekulargenetik
+**S3 Praxiscomputer GmbH / Maximilian**
 
-Windows
-
-Windows
-
-iOS/Android Linux Mac OS Sonstige Windows
-
-Sonstige Windows
-
-Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
-
-Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
-
-
----
-
-|  |  | Prüfnummer(n) |  | unterstützte |
+|  | Y/53/2601/36/261 | 31.12.2028 | Hautkrebs-Screening |  |
 |---|---|---|---|---|
-| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
-|  |  | **gültig bis** |  | **Betriebssysteme** |
+|  | Y/56/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung |  |
+|  | Y/58/2401/36/261 | 31.12.2026 | QS Hörgeräteversorgung Kinder |  |
+|  | Y/53/2601/36/171 | 31.12.2028 | Hautkrebs-Screening |  |
+
+**Flender** Lorscher Straße 2 69469 Weinheim Internet: [http://www.praxiscomputer.de](http://www.praxiscomputer.de)
 
 **ARZT 2000**
 
 **Schmidt Computersysteme** Chrysanthemenweg 4
 
-Y/53/2601/36/171 02827 Görlitz Internet: www.arzt2000.de
+Windows
+
+iOS/Android Linux 31.03.2028 Hautkrebs-Screening
+
+Mac OS Sonstige Windows
+
+Sonstige Windows
+
+Windows 02827 Görlitz Internet: www.arzt2000.de
+
+Seite 13 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
+
+
+---
+
+|  |  | Prüfnummer(n) |  | unterstützte |
+|---|---|---|---|---|
+| **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
+|  |  | **gültig bis** |  | **Betriebssysteme** |
 
 **QMED.PRAXIS**
 
@@ -570,25 +564,33 @@ Y/53/2601/36/230 30175 Hannover Internet: www.q-med.de
 
 **SIEGELE Software GmbH**
 
-|  | Y/53/2510/36/458 | 30.09.2028 | Hautkrebs-Screening |  |
-|---|---|---|---|---|
-|  | Y/53/2504/36/498 | 31.03.2028 | Hautkrebs-Screening |  |
-
-Wehrgasse 28/3+4 A-1050 Wien
+Y/53/2510/36/458 Wehrgasse 28/3+4 A-1050 Wien
 
 **T2med**
 
-**T2med GmbH & Co. KG** Bismarckallee 15 24105 Kiel Internet: www.t2med.de 31.12.2028 Hautkrebs-Screening
+**T2med GmbH & Co. KG** Bismarckallee 15
 
-Windows 31.12.2028 Hautkrebs-Screening
+|  | Y/53/2504/36/498 | 31.03.2028 | Hautkrebs-Screening |  |
+|---|---|---|---|---|
+|  | Y/53/2501/36/313 | 31.12.2027 | Hautkrebs-Screening |  |
+
+24105 Kiel Internet: www.t2med.de
+
+**Medi10**
+
+**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4 31.12.2028 Hautkrebs-Screening
 
 Windows
 
-Linux Windows
+Linux 30.09.2028 Hautkrebs-Screening
+
+Windows
 
 iOS/Android Linux Mac OS Windows
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026
+Windows 42287 Wuppertal Internet: www.ufpgmbh.de
+
+Seite 14 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 
 ---
@@ -597,34 +599,22 @@ Seite 14 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. 
 |---|---|---|---|---|
 | **Kontaktdaten** | **Prüfnummer(n)** |  | **zertifizierte Komponente(n)** |  |
 |  |  | **gültig bis** |  | **Betriebssysteme** |
-
-**Medi10**
-
-**UfP Systemhaus GmbH** Heinz-Fangman-Str. 4
-
-Y/53/2501/36/313 42287 Wuppertal Internet: www.ufpgmbh.de
-
-**tomedo**
-
 |  | Y/58/2608/36/457 | 31.07.2029 | QS Hörgeräteversorgung Kinder |  |
-|---|---|---|---|---|
 |  | Y/53/2501/36/457 | 31.12.2027 | Hautkrebs-Screening |  |
 |  | Y/56/2410/36/457 | 30.09.2027 | QS Hörgeräteversorgung |  |
 |  | Y/55/2402/36/457 | 31.01.2027 | QS Molekulargenetik |  |
 |  | Y/53/2603/37/768 | 31.03.2029 | Hautkrebs-Screening |  |
 
+**tomedo**
+
 **Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
 **tomedo.air**
 
-**Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena 31.12.2027 Hautkrebs-Screening
+**Zollsoft GmbH** Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Windows
+Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 07. November 2026
 
 Mac OS
 
 Mac OS Windows
-
-Internet: www.zollsoft.de
-
-Seite 15 / KBV / Verzeichnis zertifizierter Software für Dokumentationen / 31. Oktober 2026

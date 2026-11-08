@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**31. OKTOBER 2026**
+**07. NOVEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -51,7 +51,7 @@ x APRIS Praxiscomputer GmbH
 
 x Vertrieb GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -152,7 +152,7 @@ x
 
 **CGM MEDICO** CGM Clinical Europe GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -257,7 +257,7 @@ x
 
 **Z1** CompuGroup Medical Dentalsysteme GmbH
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -357,7 +357,7 @@ x
 | **InterMediNet** | |
 | DBI | Informatik, Dirk Blume |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -538,17 +538,17 @@ Name der Software und Anbieter CompuGroup Medical Deutschland AG CompuGroup Medi
 
 **ETERNO Cloud** Doc Cirrus GmbH
 
-**Doctolib Praxis**
-
-Doctolib GmbH
+**Doctolib Praxis** Doctolib GmbH
 
 **JPC ZytoLab** Dr. Axel Stenkamp Consulting & SoftwareEngineering
 
-**apraxos** Dr. Claudia Neumann
+**apraxos**
+
+Dr. Claudia Neumann
 
 **Limport** Dr. Eissing und Partner GmbH
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -683,7 +683,7 @@ x
 
 **PathoFlow** Florian Kaiser
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -866,7 +866,7 @@ HASOMED GmbH
 
 **Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -989,7 +989,7 @@ x
 
 **Medical Office** INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1096,7 +1096,7 @@ x
 
 **smartLIS Laborinformationssystem** **Abrechnungsmodul** labdock GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1207,7 +1207,7 @@ x
 
 **H&S Laborsoftware** Limbach Gruppe SE
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1306,7 +1306,7 @@ x
 
 **eRIS** medavis GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1465,7 +1465,7 @@ MEDYS GmbH
 
 **M-KIS** Meierhofer AG
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1599,10 +1599,6 @@ x
 
 x
 
-x
-
-x
-
 **Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
 
 
@@ -1632,7 +1628,7 @@ x
 
 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1773,7 +1769,7 @@ Nowfal Obaid
 
 **myoncare** Oncare GmbH
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1843,15 +1839,13 @@ x
 
 **GenLAB8** projodis GmbH
 
-**PROFIMED**
+**PROFIMED** PRO MEDISOFT AG
 
-PRO MEDISOFT AG
+**psyprax** psyprax GmbH
 
-**psyprax**
+**QS-LAB**
 
-psyprax GmbH
-
-**QS-LAB** QS QualitySoft GmbH
+QS QualitySoft GmbH
 
 **RED medical classic** RED Medical Systems GmbH
 
@@ -1859,9 +1853,7 @@ psyprax GmbH
 
 **RescuePro** RescuePro Production GmbH & Co. KG
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
-
-x
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -1996,7 +1988,7 @@ Compana - Plattform für psychotherapeutische Pai Coding GmbH**Heilmittelverordn
 
 **IOX-LS** STIWA AMS GmbH
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
@@ -2108,8 +2100,6 @@ x
 
 x
 
-x
-
 **Heilmittelverordnung (Link) Verordnung von DiGAs (Link) [Digitale Muster](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) (Link) [Blankoformular-](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[bedruckung](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB)[(Link)](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/KBV_ITA_SIEX_Verzeichnis_BFB) eArztbrief (Link) eTerminservice (Link)**
 
 
@@ -2141,7 +2131,7 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 31. Oktober 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 07. November 2026
 
 x
 
